@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best in new & current Dancehall. Cover: Moyann",
+  "description": "The best in new & current Dancehall. Cover: Shenseea",
   "name": "Dancehall Official",
   "tracks": [
     {
@@ -859,6 +859,24 @@
     },
     {
       "album": {
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga"
+    },
+    {
+      "album": {
         "name": "Curves",
         "url": "https://open.spotify.com/album/6ULZu7eB7o4jChsNxlwF0v"
       },
@@ -1011,6 +1029,28 @@
     },
     {
       "album": {
+        "name": "Dunce Barbie",
+        "url": "https://open.spotify.com/album/6jwIFkOJ1blyCR0hzsY0MP"
+      },
+      "artists": [
+        {
+          "name": "Armanii",
+          "url": "https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey"
+        },
+        {
+          "name": "DJ MAC",
+          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165564,
+      "name": "DUNCE BARBIE",
+      "url": "https://open.spotify.com/track/2I1fpOTZmVr6ATXe6fCTXI"
+    },
+    {
+      "album": {
         "name": "Dunce Bat",
         "url": "https://open.spotify.com/album/6JfEFqt2dfB7vwrAseppiV"
       },
@@ -1150,6 +1190,24 @@
       "duration_ms": 160754,
       "name": "Everybody Bad Till",
       "url": "https://open.spotify.com/track/2dCPDds1qVFsNPTn5nYNd0"
+    },
+    {
+      "album": {
+        "name": "Expensive",
+        "url": "https://open.spotify.com/album/0aqdTmcfIcrn3pEin6JvtR"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235128,
+      "name": "Expensive",
+      "url": "https://open.spotify.com/track/1y6bjh1s2Y1FG7CnSZnHqq"
     },
     {
       "album": {
@@ -2175,6 +2233,24 @@
     },
     {
       "album": {
+        "name": "Live n' Learn",
+        "url": "https://open.spotify.com/album/1CzlfsRqL1sgMuhniUU5CZ"
+      },
+      "artists": [
+        {
+          "name": "450",
+          "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161610,
+      "name": "Live n' Learn",
+      "url": "https://open.spotify.com/track/4YSbKyNXJ1vHVgM4bYerDs"
+    },
+    {
+      "album": {
         "name": "Lockdown",
         "url": "https://open.spotify.com/album/0tJs3Wig9YBdDG8jGKeLq6"
       },
@@ -2584,6 +2660,28 @@
       "duration_ms": 163866,
       "name": "Ocean Wave",
       "url": "https://open.spotify.com/track/4eTwvH4pVt5U4kPfYgQQ19"
+    },
+    {
+      "album": {
+        "name": "Only Fans",
+        "url": "https://open.spotify.com/album/0kU1yhq6AzbdsAua6R2HKc"
+      },
+      "artists": [
+        {
+          "name": "Intence",
+          "url": "https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR"
+        },
+        {
+          "name": "Countree Hype",
+          "url": "https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180062,
+      "name": "Only Fans",
+      "url": "https://open.spotify.com/track/1VHFeNLoMJq3l4CC4bMQID"
     },
     {
       "album": {
@@ -3157,6 +3255,28 @@
     },
     {
       "album": {
+        "name": "World News",
+        "url": "https://open.spotify.com/album/17MvvoDeKxos5NrcDs8NvV"
+      },
+      "artists": [
+        {
+          "name": "Notnice",
+          "url": "https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX"
+        },
+        {
+          "name": "Chronic Law",
+          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265337,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/2mGOKW9vv5UrwoZxgX2v9T"
+    },
+    {
+      "album": {
         "name": "She Like It",
         "url": "https://open.spotify.com/album/5ASoS2Mwr5ljrRx8hJ3ZR5"
       },
@@ -3237,6 +3357,28 @@
     },
     {
       "album": {
+        "name": "Shottaz",
+        "url": "https://open.spotify.com/album/106weqr1J9aDUmPTCQU4Ka"
+      },
+      "artists": [
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        },
+        {
+          "name": "Kraff Gad",
+          "url": "https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149126,
+      "name": "Shottaz",
+      "url": "https://open.spotify.com/track/3b2M5gLUNCPDtcY8HE6jv6"
+    },
+    {
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq"
       },
@@ -3252,6 +3394,24 @@
       "duration_ms": 215776,
       "name": "Silence",
       "url": "https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB"
+    },
+    {
+      "album": {
+        "name": "SIN TRAP (Giftcard)",
+        "url": "https://open.spotify.com/album/1pYvUxE24u8KYnQCUdN3YV"
+      },
+      "artists": [
+        {
+          "name": "Najeeriii",
+          "url": "https://open.spotify.com/artist/2m6yzJ0whBggOhNgLskdLF"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177240,
+      "name": "SINTRAP (Giftcard)",
+      "url": "https://open.spotify.com/track/7EBrB8ZuJe9zYI5kW39WQn"
     },
     {
       "album": {
@@ -3705,6 +3865,32 @@
     },
     {
       "album": {
+        "name": "Tic Tac Toe",
+        "url": "https://open.spotify.com/album/1L67y3BRIGj7VrT9yGT7is"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        },
+        {
+          "name": "Tommy Lee Sparta",
+          "url": "https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141714,
+      "name": "Tic Tac Toe",
+      "url": "https://open.spotify.com/track/0kmhY9fQ1p1w4ui1e28FHW"
+    },
+    {
+      "album": {
         "name": "Tip Inna It",
         "url": "https://open.spotify.com/album/4ilgZNQHTGNmCYzkQr3Koa"
       },
@@ -3964,6 +4150,28 @@
       "duration_ms": 179484,
       "name": "Ultimate",
       "url": "https://open.spotify.com/track/2nNSQOyX7zG1EceT9An0xH"
+    },
+    {
+      "album": {
+        "name": "V6",
+        "url": "https://open.spotify.com/album/1VtkkjbqEL8STeBQmpy1Fp"
+      },
+      "artists": [
+        {
+          "name": "Ireland Boss",
+          "url": "https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT"
+        },
+        {
+          "name": "Malie Donn",
+          "url": "https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "V6",
+      "url": "https://open.spotify.com/track/7aBd8qMooFYZtQQwQJFAdX"
     },
     {
       "album": {

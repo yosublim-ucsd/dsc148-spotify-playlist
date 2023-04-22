@@ -1,12 +1,12 @@
 {
   "description": "Corridos viejitos que cuentan los hechos reales de nuestro pueblo. Chalino S\u00e1nchez en portada. ",
-  "num_followers": 420301,
+  "num_followers": 420835,
   "original_name": "Corridos de Anta\u00f1o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyMzUwOSwwMDAwMDAwMDdiOGNmMTRmMGZiZDJlODVhNThjNDc4NWEyM2FlZmQ3",
+  "snapshot_id": "MTY3MjQyMzUwOSwwMDAwMDAwMGFhMzZjNTJiMWU3OTVkNGIwZmU4MmE0Yzc0OWZiNzQw",
   "tracks": [
     {
       "added_at": "2022-01-28 04:38:41",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/5gaKIqxF0RTBgIBswpKVRy"
     },
     {
-      "added_at": "2022-01-28 04:38:41",
-      "album": {
-        "name": "El Deportado (Grabaci\u00f3n Original Remasterizada)",
-        "url": "https://open.spotify.com/album/15hBTdcPr7Q1DFG9wVtyJq"
-      },
-      "artists": [
-        {
-          "name": "Los terribles Del Norte",
-          "url": "https://open.spotify.com/artist/6rJ9D34bMtluzXuFx2AFNT"
-        }
-      ],
-      "duration_ms": 168160,
-      "name": "El Deportado",
-      "url": "https://open.spotify.com/track/4HXYP6cpEuJO7ikYR1jMJu"
-    },
-    {
       "added_at": "2022-05-03 18:22:00",
       "album": {
         "name": "Lo Mejor De Rancheras",
@@ -687,6 +671,22 @@
       "duration_ms": 168026,
       "name": "Los Tres Gallos",
       "url": "https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY"
+    },
+    {
+      "added_at": "2022-01-28 04:38:41",
+      "album": {
+        "name": "El Deportado (Grabaci\u00f3n Original Remasterizada)",
+        "url": "https://open.spotify.com/album/15hBTdcPr7Q1DFG9wVtyJq"
+      },
+      "artists": [
+        {
+          "name": "Los terribles Del Norte",
+          "url": "https://open.spotify.com/artist/6rJ9D34bMtluzXuFx2AFNT"
+        }
+      ],
+      "duration_ms": 168160,
+      "name": "El Deportado",
+      "url": "https://open.spotify.com/track/4HXYP6cpEuJO7ikYR1jMJu"
     },
     {
       "added_at": "2022-01-28 04:38:41",

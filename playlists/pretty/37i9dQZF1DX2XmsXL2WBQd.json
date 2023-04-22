@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 342781,
+  "num_followers": 342891,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc3OTExMSwwMDAwMDAwMDQxNjZhMTY4ZDE4MDcyYmZhMzVmZDZiNDNhZTBiZDVj",
+  "snapshot_id": "MTY4MDc3OTExMSwwMDAwMDAwMGNjMGY5N2Q4NjM1MzA0ZjNjNTVjZmIxNGRmOTFjZWI0",
   "tracks": [
     {
       "added_at": "2023-04-06 11:05:11",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-04-06 11:05:11",
       "album": {
-        "name": "Jam On Revenge",
-        "url": "https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe"
-      },
-      "artists": [
-        {
-          "name": "Newcleus",
-          "url": "https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C"
-        }
-      ],
-      "duration_ms": 383600,
-      "name": "Jam On It",
-      "url": "https://open.spotify.com/track/1lB2kyB5h9ceZ388GBfC9L"
-    },
-    {
-      "added_at": "2023-04-06 11:05:11",
-      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 240493,
       "name": "Rock The Bells",
       "url": "https://open.spotify.com/track/4F4neui0edP1ozygvFiCi7"
+    },
+    {
+      "added_at": "2023-04-06 11:05:11",
+      "album": {
+        "name": "Jam On Revenge",
+        "url": "https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe"
+      },
+      "artists": [
+        {
+          "name": "Newcleus",
+          "url": "https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C"
+        }
+      ],
+      "duration_ms": 383600,
+      "name": "Jam On It",
+      "url": "https://open.spotify.com/track/1lB2kyB5h9ceZ388GBfC9L"
     },
     {
       "added_at": "2023-04-06 11:05:11",
@@ -903,18 +903,18 @@
     {
       "added_at": "2023-04-06 11:05:11",
       "album": {
-        "name": "The Very Best Of MC Lyte",
-        "url": "https://open.spotify.com/album/7jH3YOFDeqA9kN4P4kHtx4"
+        "name": "Duck Rock",
+        "url": "https://open.spotify.com/album/6S4f7yDtJlS0iQMEuCtIF0"
       },
       "artists": [
         {
-          "name": "MC Lyte",
-          "url": "https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w"
+          "name": "Malcolm McLaren",
+          "url": "https://open.spotify.com/artist/4ihCM8I0fpWodgjo0mTlhZ"
         }
       ],
-      "duration_ms": 180093,
-      "name": "Cha Cha Cha",
-      "url": "https://open.spotify.com/track/1McWPMA7NVuHh0bTm7ljRA"
+      "duration_ms": 259426,
+      "name": "Buffalo Gals",
+      "url": "https://open.spotify.com/track/4gCo2r1gCEw70OAq9cF1uW"
     },
     {
       "added_at": "2023-04-06 11:05:11",
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-04-06 11:05:11",
       "album": {
-        "name": "Duck Rock",
-        "url": "https://open.spotify.com/album/6S4f7yDtJlS0iQMEuCtIF0"
+        "name": "The Very Best Of MC Lyte",
+        "url": "https://open.spotify.com/album/7jH3YOFDeqA9kN4P4kHtx4"
       },
       "artists": [
         {
-          "name": "Malcolm McLaren",
-          "url": "https://open.spotify.com/artist/4ihCM8I0fpWodgjo0mTlhZ"
+          "name": "MC Lyte",
+          "url": "https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w"
         }
       ],
-      "duration_ms": 259426,
-      "name": "Buffalo Gals",
-      "url": "https://open.spotify.com/track/4gCo2r1gCEw70OAq9cF1uW"
+      "duration_ms": 180093,
+      "name": "Cha Cha Cha",
+      "url": "https://open.spotify.com/track/1McWPMA7NVuHh0bTm7ljRA"
     },
     {
       "added_at": "2023-04-06 11:05:11",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-04-06 11:05:11",
       "album": {
-        "name": "Jam On Revenge",
-        "url": "https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe"
-      },
-      "artists": [
-        {
-          "name": "Newcleus",
-          "url": "https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C"
-        }
-      ],
-      "duration_ms": 395626,
-      "name": "Jam On Revenge (The Wikki Wikki Song)",
-      "url": "https://open.spotify.com/track/6nDgVarnxUZrFzI2OlWNhE"
-    },
-    {
-      "added_at": "2023-04-06 11:05:11",
-      "album": {
         "name": "Schoolly D",
         "url": "https://open.spotify.com/album/57LWYtFS2xn5pIDHLqjatU"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 388906,
       "name": "P.S.K. 'What Does It Mean'?",
       "url": "https://open.spotify.com/track/3StKzbpR9dRZB8epDx4KDW"
+    },
+    {
+      "added_at": "2023-04-06 11:05:11",
+      "album": {
+        "name": "Hot, Cool & Vicious",
+        "url": "https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d"
+      },
+      "artists": [
+        {
+          "name": "Salt-N-Pepa",
+          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
+        }
+      ],
+      "duration_ms": 308373,
+      "name": "I'll Take Your Man",
+      "url": "https://open.spotify.com/track/1o19erG7MurnvFf76zsX41"
     }
   ],
   "unique_name": "I Love My '80s Hip-Hop",

@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Asana",
+        "url": "https://open.spotify.com/album/6EkbVT1lDNdcEB1NcJSTOZ"
+      },
+      "artists": [
+        {
+          "name": "Dreamasia",
+          "url": "https://open.spotify.com/artist/0EiFTjlTH6OzXifh641yAv"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193140,
+      "name": "Asana",
+      "url": "https://open.spotify.com/track/1UjbHy2lkNZuEBFXJxDirl"
+    },
+    {
+      "album": {
         "name": "At last",
         "url": "https://open.spotify.com/album/24NHRvgtq3lBESZ98LLDdd"
       },
@@ -1010,6 +1028,24 @@
       "duration_ms": 210733,
       "name": "Inner Universe",
       "url": "https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ"
+    },
+    {
+      "album": {
+        "name": "Kodai",
+        "url": "https://open.spotify.com/album/547PCqu7lOnIliFjSkgfZX"
+      },
+      "artists": [
+        {
+          "name": "Ohara Emiri",
+          "url": "https://open.spotify.com/artist/1g9XwvdamWZKm7vwSEgYO3"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210939,
+      "name": "Kodai",
+      "url": "https://open.spotify.com/track/1Mna07hCBVSjttirwoHP9Y"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [indie pop & chill](https://open.spotify.com/playlist/37i9dQZF1DX5y8xoSWyhcz)
 
-> it's a vibe \(◡ ‿ ◡ ✿\)\. rocco on the cover.
+> it's a vibe \(◡ ‿ ◡ ✿\).
 
 1,052 songs - 2 day 5 hr 57 min
 

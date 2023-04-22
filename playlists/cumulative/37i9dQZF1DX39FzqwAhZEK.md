@@ -4,7 +4,7 @@
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-337 songs - 16 hr 58 min
+339 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Magellanic Clouds](https://open.spotify.com/track/13U1N4ZHYgsGj7biz0Z9el) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Magellanic Clouds](https://open.spotify.com/album/2aiuuNMuiQfVWHz6Fn5YlH) | 3:24 | 2022-07-05 | 2022-11-23 |
 | [Maglovito](https://open.spotify.com/track/6FGF4Cx7hxKHwSCojfGSAT) | [Nadia Bulic](https://open.spotify.com/artist/40kJyvmOynMTDFT8bBuk4d) | [Maglovito](https://open.spotify.com/album/54yMSCpwaBUBIwXoUuIsVd) | 2:10 | 2022-07-05 |  |
 | [Magnimonia](https://open.spotify.com/track/0TIwPj3sXYjdXo6W5FgOTw) | [Sogni Lunari](https://open.spotify.com/artist/02LLVbAMjm7ALCBmjmihqL) | [Magnimonia](https://open.spotify.com/album/3CvjryQH0CFduaas0b5RDF) | 4:00 | 2022-07-05 |  |
+| [Malox](https://open.spotify.com/track/0faN9ArILphMbOj9v2qFfy) | [Dariela Tramma](https://open.spotify.com/artist/6jddJe2ccbe7PUUo6QNy7K) | [Magnetar Breath](https://open.spotify.com/album/2LTLIumOrfSFe4jtFNAWIm) | 3:18 | 2023-04-21 |  |
 | [Mellow River](https://open.spotify.com/track/0Uz8UHO1PM5sh2XwRLfuRD) | [Mellow Mountain](https://open.spotify.com/artist/4nhyKupGKrTJj8f8whWa8L) | [Mellow River](https://open.spotify.com/album/733ICAjDCWrMvnfHEL94iz) | 3:30 | 2022-07-05 |  |
 | [Midsommarnatt](https://open.spotify.com/track/6UyDL0wkh12ox8TJpvnQpu) | [Najma Wallin](https://open.spotify.com/artist/28XFFzqCAHFNcEdRiuEf71) | [Midsommarnatt](https://open.spotify.com/album/4RaBFPWiRSoLrLEZJFO14K) | 2:14 | 2022-07-05 |  |
 | [Midway](https://open.spotify.com/track/2kTv2khALDAQLexccNt7Ik) | [Marlowe Coleman](https://open.spotify.com/artist/19Ezl9iEvMupXpC5XMgZBR) | [Midway](https://open.spotify.com/album/2ZB8ydKdh58ricHGdb8eN9) | 3:33 | 2022-07-05 |  |
@@ -345,5 +346,6 @@
 | [Wild Soul](https://open.spotify.com/track/0PSoQovKUDaVl7TBVGAmt4) | [The Aural Healer](https://open.spotify.com/artist/5aS55avvX9UAYN3LVTRwyr) | [Dream Catcher](https://open.spotify.com/album/3JTj8NXeqCzU8DzEbEgp1S) | 3:29 | 2022-07-05 | 2023-03-04 |
 | [Woods](https://open.spotify.com/track/5in0ezyUreA4p4XgBd5dJX) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [Woods](https://open.spotify.com/album/2z34IdP8fG0NBbSCjEbwdP) | 3:04 | 2022-07-05 | 2023-03-04 |
 | [Yonder](https://open.spotify.com/track/6eIaNamCwzTfJr4SrFypu5) | [Nathalie J](https://open.spotify.com/artist/54gLxB9PQp26E1NsXCPsOb) | [Yonder](https://open.spotify.com/album/6X6DVdhuR1Ajws0GwFgjHD) | 3:20 | 2022-11-11 |  |
+| [Zwijgzaam](https://open.spotify.com/track/2bpRF8CLQ9p0fPsuxGxgyF) | [Arend Van de Berg](https://open.spotify.com/artist/63jzbSMufVu89cATqsHgyn) | [Zwijgzaam](https://open.spotify.com/album/66DT8BwYSolG1NFg2sxirA) | 3:14 | 2023-04-21 |  |
 
 \*This playlist was first scraped on 2022-07-19. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 8510,
+  "num_followers": 8513,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTY3OSwwMDAwMDAwMGM4MzRlYjI4ZjExNWFiZGY2YjgzNTQwNTJiMmNiMGM5",
+  "snapshot_id": "MTY3OTkwNTY3OSwwMDAwMDAwMDkyN2I0MzgyZjQ3NTE3MjUwZWE1MTAwMDE4MDhhNTAx",
   "tracks": [
     {
       "added_at": "2023-03-11 08:20:06",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-03-11 08:20:06",
       "album": {
+        "name": "Heart Burn",
+        "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 195040,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj"
+    },
+    {
+      "added_at": "2023-03-11 08:20:06",
+      "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 252986,
       "name": "Gray So Gray (Feat. Younha)",
       "url": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY"
-    },
-    {
-      "added_at": "2023-03-11 08:20:06",
-      "album": {
-        "name": "Heart Burn",
-        "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 195040,
-      "name": "Childhood",
-      "url": "https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj"
     },
     {
       "added_at": "2023-03-11 08:20:06",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-03-11 08:20:06",
       "album": {
-        "name": "You Are My Spring OST Part 3",
-        "url": "https://open.spotify.com/album/3XRvOMIh5LEfdSu1q69U96"
-      },
-      "artists": [
-        {
-          "name": "Ha Hyun Sang",
-          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
-        }
-      ],
-      "duration_ms": 161738,
-      "name": "Still Wonder",
-      "url": "https://open.spotify.com/track/1hD35Fj6NBNm2CEOn3QLCE"
-    },
-    {
-      "added_at": "2023-03-11 08:20:06",
-      "album": {
         "name": "6equence",
         "url": "https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 212280,
       "name": "ddu ddu ddu",
       "url": "https://open.spotify.com/track/6WfW2xPw3X5FiJPQWkaXoN"
+    },
+    {
+      "added_at": "2023-03-11 08:20:06",
+      "album": {
+        "name": "You Are My Spring OST Part 3",
+        "url": "https://open.spotify.com/album/3XRvOMIh5LEfdSu1q69U96"
+      },
+      "artists": [
+        {
+          "name": "Ha Hyun Sang",
+          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+        }
+      ],
+      "duration_ms": 161738,
+      "name": "Still Wonder",
+      "url": "https://open.spotify.com/track/1hD35Fj6NBNm2CEOn3QLCE"
     },
     {
       "added_at": "2023-03-11 08:20:06",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-03-11 08:20:06",
       "album": {
-        "name": "My Liberation Notes OST Part 9",
-        "url": "https://open.spotify.com/album/19Ya0jFcV7U0opVyJqRHCV"
+        "name": "Space science",
+        "url": "https://open.spotify.com/album/4NcJaCZiWEYMJZRLAM3JHM"
       },
       "artists": [
         {
-          "name": "Kwak jineon",
-          "url": "https://open.spotify.com/artist/5NBDM7OpuuyUNtlLLxTYWD"
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
         }
       ],
-      "duration_ms": 236097,
-      "name": "A Kind Of Confession (Male Ver.)",
-      "url": "https://open.spotify.com/track/5w1sW9Gr8fBBy82f21uF0s"
+      "duration_ms": 233170,
+      "name": "Space science",
+      "url": "https://open.spotify.com/track/3RbCeYBZsEoMJX9ePu3vtd"
     }
   ],
   "unique_name": "\uc6b0\uc0b0 \uc544\ub798",

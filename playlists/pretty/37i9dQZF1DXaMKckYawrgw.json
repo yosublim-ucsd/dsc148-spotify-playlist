@@ -1,32 +1,28 @@
 {
   "description": "Ska 100% hecho en M\u00e9xico con chilito del que pica. La Tremenda Korte en portada. ",
-  "num_followers": 7989,
+  "num_followers": 7992,
   "original_name": "MexSka ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI0MjQwMCwwMDAwMDAwMDNhOGQ5NTFmNzliYzJmNTcwODBkNWQ2YmUwY2Q1ODFi",
+  "snapshot_id": "MTY4MjA0NTg1NywwMDAwMDAwMDU3MjIzNmZlOGIxMmY2MWFhMzRmYjFjYTljYWQ4ZWY5",
   "tracks": [
     {
-      "added_at": "2023-03-31 06:00:00",
+      "added_at": "2023-04-21 02:57:37",
       "album": {
-        "name": "Almas",
-        "url": "https://open.spotify.com/album/4ZwuuEgoDjNmM58S91dA39"
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/5X8S69HVzok5dsfLRcoRVA"
       },
       "artists": [
         {
-          "name": "La Silueta Ska",
-          "url": "https://open.spotify.com/artist/2yZDukL7Vwwai8IGPh3WuL"
-        },
-        {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+          "name": "Kotardo",
+          "url": "https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P"
         }
       ],
-      "duration_ms": 209620,
-      "name": "Almas",
-      "url": "https://open.spotify.com/track/2ghJikYE3GMJ2VAxmyBcRT"
+      "duration_ms": 145285,
+      "name": "Somos",
+      "url": "https://open.spotify.com/track/32cN25vFyAg3SlY5UrwNyr"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -1083,22 +1079,6 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
-        "name": "Piel De Banqueta",
-        "url": "https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 154533,
-      "name": "Esperges\u00eda",
-      "url": "https://open.spotify.com/track/28mMkrQCx6zaDtdwpqrXT1"
-    },
-    {
-      "added_at": "2023-03-31 06:00:00",
-      "album": {
         "name": "La Ciudad Es...Nuestra",
         "url": "https://open.spotify.com/album/301TF8N2daQRdcXHLrP6yz"
       },
@@ -1111,6 +1091,22 @@
       "duration_ms": 60033,
       "name": "Skarface",
       "url": "https://open.spotify.com/track/2JZCTp1q4DQ6tZJDg0vsrl"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
+        "name": "Piel De Banqueta",
+        "url": "https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "duration_ms": 154533,
+      "name": "Esperges\u00eda",
+      "url": "https://open.spotify.com/track/28mMkrQCx6zaDtdwpqrXT1"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -1175,6 +1171,26 @@
       "duration_ms": 225088,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6LY0WEkj5dMIE1mE7wUAuY"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
+        "name": "Almas",
+        "url": "https://open.spotify.com/album/4ZwuuEgoDjNmM58S91dA39"
+      },
+      "artists": [
+        {
+          "name": "La Silueta Ska",
+          "url": "https://open.spotify.com/artist/2yZDukL7Vwwai8IGPh3WuL"
+        },
+        {
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        }
+      ],
+      "duration_ms": 209620,
+      "name": "Almas",
+      "url": "https://open.spotify.com/track/2ghJikYE3GMJ2VAxmyBcRT"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
-        "name": "La Kruda Realidad",
-        "url": "https://open.spotify.com/album/2zikmV9U4hrslEzwSprmda"
-      },
-      "artists": [
-        {
-          "name": "La Parranda Magna",
-          "url": "https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "Lejos Otra Vez",
-      "url": "https://open.spotify.com/track/3xmXfTd5RrqlIOWPnfDRoG"
-    },
-    {
-      "added_at": "2023-03-31 06:00:00",
-      "album": {
         "name": "Classic's Ska",
         "url": "https://open.spotify.com/album/4ul956S8zBlCMjkAZJFvDj"
       },
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
-        "name": "Ciao",
-        "url": "https://open.spotify.com/album/6yQCx1G68XrLOIQkHBXlce"
+        "name": "La Kruda Realidad",
+        "url": "https://open.spotify.com/album/2zikmV9U4hrslEzwSprmda"
       },
       "artists": [
         {
-          "name": "Girls Go Ska",
-          "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
+          "name": "La Parranda Magna",
+          "url": "https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH"
         }
       ],
-      "duration_ms": 263000,
-      "name": "Ciao",
-      "url": "https://open.spotify.com/track/136wILyBKYq1Su7fXQQJNH"
+      "duration_ms": 198226,
+      "name": "Lejos Otra Vez",
+      "url": "https://open.spotify.com/track/3xmXfTd5RrqlIOWPnfDRoG"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
-        "name": "Revoluciones",
-        "url": "https://open.spotify.com/album/5WV18rJf103xCSq1bruZwJ"
+        "name": "Ciao",
+        "url": "https://open.spotify.com/album/6yQCx1G68XrLOIQkHBXlce"
       },
       "artists": [
         {
-          "name": "La Hoja Ensamble",
-          "url": "https://open.spotify.com/artist/5xnipUAcWtXKEdc0czxTPE"
+          "name": "Girls Go Ska",
+          "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
         }
       ],
-      "duration_ms": 387922,
-      "name": "Revoluciones",
-      "url": "https://open.spotify.com/track/5OjXaJ32H7olIakpiNSDbS"
+      "duration_ms": 263000,
+      "name": "Ciao",
+      "url": "https://open.spotify.com/track/136wILyBKYq1Su7fXQQJNH"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
-        "name": "Rude Boy Nights",
-        "url": "https://open.spotify.com/album/5QkJ7K1MeJuq0oSD8YJfbw"
+        "name": "Revoluciones",
+        "url": "https://open.spotify.com/album/5WV18rJf103xCSq1bruZwJ"
       },
       "artists": [
         {
-          "name": "Moon Stomper",
-          "url": "https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE"
+          "name": "La Hoja Ensamble",
+          "url": "https://open.spotify.com/artist/5xnipUAcWtXKEdc0czxTPE"
         }
       ],
-      "duration_ms": 206458,
-      "name": "La Mentira",
-      "url": "https://open.spotify.com/track/2zbuaopaNyAC3C4940YNCL"
+      "duration_ms": 387922,
+      "name": "Revoluciones",
+      "url": "https://open.spotify.com/track/5OjXaJ32H7olIakpiNSDbS"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -1503,6 +1503,22 @@
       "duration_ms": 248888,
       "name": "La Ultima Noche",
       "url": "https://open.spotify.com/track/4RG7LZHHzZZQw73EPGoS9n"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
+        "name": "Rude Boy Nights",
+        "url": "https://open.spotify.com/album/5QkJ7K1MeJuq0oSD8YJfbw"
+      },
+      "artists": [
+        {
+          "name": "Moon Stomper",
+          "url": "https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE"
+        }
+      ],
+      "duration_ms": 206458,
+      "name": "La Mentira",
+      "url": "https://open.spotify.com/track/2zbuaopaNyAC3C4940YNCL"
     },
     {
       "added_at": "2023-03-31 06:00:00",

@@ -2,9 +2,9 @@
 
 ### [Jazz NXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C?si=CQoLqFaIQNCMmYTV9RKM6w">Desire Marea</a>
+> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/27MxvuyBenjamin Jephta</a>
 
-103 songs - 10 hr 59 min
+104 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Airport Terminal](https://open.spotify.com/track/2jnZIpOYHfgk49nb4qdH1m) | [Vuma Levin](https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX) | [Antique Spoons: Chapters on Love, Loss and The Politics of Memory](https://open.spotify.com/album/4LDBC7za9NUCEJNKkGCdnL) | 5:51 | 2022-04-28 | 2023-03-18 |
 | [Amathongo](https://open.spotify.com/track/2jUqVDtYIJWd3baszNjZkF) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Amathongo](https://open.spotify.com/album/26o5fNnGz2qfoCuhWrAvW8) | 6:26 | 2022-04-28 | 2023-03-18 |
 | [Amazing Grace](https://open.spotify.com/track/60YKaBvjgNvGRVei6rmRQk) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy) | [Blk Elijah & The Children of Meroë](https://open.spotify.com/album/2HUrxmQV5x6i6FQTr6950S) | 7:06 | 2022-07-07 | 2023-03-18 |
+| [An Incomplete Transition](https://open.spotify.com/track/4vNC5f2AIIAIR6z0SUJD7H) | [Benjamin Jephta](https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W) | [An Incomplete Transition](https://open.spotify.com/album/2yn9EFZJjeKtOzMYuisuxj) | 9:44 | 2023-04-21 |  |
 | [Aunty B \- Live](https://open.spotify.com/track/4B0SAa1Qh18m6LkRRUqtCE) | [Keenan Ahrends](https://open.spotify.com/artist/6ESm50MFOfkEqAaWEgVKiQ) | [Perseverance: Live at the Bird's Eye](https://open.spotify.com/album/5ALMv6JHL1KO7SVaeilQiD) | 8:00 | 2022-05-12 | 2023-04-12 |
 | [Awakening](https://open.spotify.com/track/1hWcpSQLLaIg610CenNRpo) | [Marcus Wyatt & the ZAR Jazz Orchestra](https://open.spotify.com/artist/0d8s4yzcDxXQxe55hbtmZs) | [One Night in the Sun](https://open.spotify.com/album/29rBOmvMXW8KT79RdvW6NC) | 8:12 | 2022-04-28 | 2023-03-18 |
 | [Bamako Love Song](https://open.spotify.com/track/1kLnNSKAO9HxS4qKbR9aza) | [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI), [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Welcome to This World](https://open.spotify.com/album/42rE11bATq8xq7vID2ekDw) | 5:22 | 2022-04-28 | 2023-02-10 |

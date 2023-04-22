@@ -1,13 +1,45 @@
 {
   "description": "Relax and take it slow today",
-  "num_followers": 73644,
+  "num_followers": 73661,
   "original_name": "Take it Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMGE3YmE0ODU4MmE5YTRmYmY3ZjY0MWQ4MGE0ZDZiMTg4",
+  "snapshot_id": "MTY4MjA0OTY2MCwwMDAwMDAwMDcyZjE5MDczNmJkNjY2MDkzZjJlZWU2YTEwNmE0MWRl",
   "tracks": [
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Lonely Love Song",
+        "url": "https://open.spotify.com/album/133u1HCKHE50wMw0PrcKFg"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 157857,
+      "name": "Lonely Love Song",
+      "url": "https://open.spotify.com/track/1P6BMlC7DeXbGgEpz84WDw"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Boat",
+        "url": "https://open.spotify.com/album/0MC4ylr8NtdNRRhPUyjvdS"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 185675,
+      "name": "Boat",
+      "url": "https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast"
+    },
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
@@ -1603,38 +1635,6 @@
       "duration_ms": 212013,
       "name": "I Can't (Acoustic)",
       "url": "https://open.spotify.com/track/7jjeVkCrL7K9ej9Pxt76bb"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
-        "name": "Leave the Pieces (The Campfire Sessions)",
-        "url": "https://open.spotify.com/album/5Umb24lg8mJWCLBTUjfo2d"
-      },
-      "artists": [
-        {
-          "name": "Sarah Darling",
-          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
-        }
-      ],
-      "duration_ms": 223346,
-      "name": "Leave the Pieces - The Campfire Sessions",
-      "url": "https://open.spotify.com/track/5ba3IQJQV5WI4SwtC0ePvD"
-    },
-    {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "Confidence",
-        "url": "https://open.spotify.com/album/5wBp5OtdqAJ70QLSWuE7JJ"
-      },
-      "artists": [
-        {
-          "name": "Blake Rose",
-          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
-        }
-      ],
-      "duration_ms": 155870,
-      "name": "Confidence",
-      "url": "https://open.spotify.com/track/6pS9rYGCtegVdUKDuURMMf"
     }
   ],
   "unique_name": "Take it Slow",

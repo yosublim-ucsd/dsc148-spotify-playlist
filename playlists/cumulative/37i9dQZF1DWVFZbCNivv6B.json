@@ -309,6 +309,24 @@
     },
     {
       "album": {
+        "name": "Alto Voltaje",
+        "url": "https://open.spotify.com/album/1KDs7zf9avbajx2jtOTqOe"
+      },
+      "artists": [
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Alto Voltaje",
+      "url": "https://open.spotify.com/track/0kRc7CgL2zznefYVYfCM1u"
+    },
+    {
+      "album": {
         "name": "Alzypher Vol. 10",
         "url": "https://open.spotify.com/album/6pJJBc9UIOhABBSVWJ1eCd"
       },
@@ -3151,6 +3169,28 @@
     },
     {
       "album": {
+        "name": "LA PIPA DE LA PAZ",
+        "url": "https://open.spotify.com/album/6Y7QL2YRsVOkFB2gxpnBEZ"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Inner Circle",
+          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150344,
+      "name": "LA PIPA DE LA PAZ",
+      "url": "https://open.spotify.com/track/35k8oH1X7gfCyw2Bp3c1Yy"
+    },
+    {
+      "album": {
         "name": "La \u00daltima Y No Nos Vamos (Episodio 4)",
         "url": "https://open.spotify.com/album/1sAhYHPWUiUkW6Lhr0q5M9"
       },
@@ -4318,6 +4358,28 @@
       "duration_ms": 168000,
       "name": "No Te Alejes De Mi",
       "url": "https://open.spotify.com/track/3mDkHnmVYtzc6zB4lb7s49"
+    },
+    {
+      "album": {
+        "name": "No Te La Sabes",
+        "url": "https://open.spotify.com/album/4rXdXTHY6DTAiS6bP7xAcl"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215200,
+      "name": "No Te La Sabes",
+      "url": "https://open.spotify.com/track/2btkX75Lvqn68GoECFSAI9"
     },
     {
       "album": {

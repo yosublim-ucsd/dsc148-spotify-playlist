@@ -6,159 +6,43 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "MTY4OSw1YWI3NDczOGRkNTcyNTFhNmZlYWY0MGUwMWE5Mzc3NjI4YmVmNTAy",
+  "snapshot_id": "MTY5NSwzOGJlOGQ5OThhMzM3YTNiOTQzMzM4YmQ0NzRiY2E3Zjk0YzZmZTEy",
   "tracks": [
     {
-      "added_at": "2023-03-01 22:38:20",
+      "added_at": "2023-04-21 02:04:06",
       "album": {
-        "name": "Vulnerability",
-        "url": "https://open.spotify.com/album/3G0PSYxUg6w3YRYn85XBsO"
+        "name": "Not Without My Ghosts (feat. Phem)",
+        "url": "https://open.spotify.com/album/62RMowdYBDDnzabAVX5Ifu"
       },
       "artists": [
         {
-          "name": "Emma Dilemma",
-          "url": "https://open.spotify.com/artist/0Bz8OzkEaUthdSiLdigKdm"
-        }
-      ],
-      "duration_ms": 230299,
-      "name": "Vulnerability",
-      "url": "https://open.spotify.com/track/4mO3tgKhdb21D92dDmgnCR"
-    },
-    {
-      "added_at": "2023-03-01 22:38:20",
-      "album": {
-        "name": "Going Clear",
-        "url": "https://open.spotify.com/album/4aGDnDxBgkJrzdUS7xxqTX"
-      },
-      "artists": [
-        {
-          "name": "Deaf Havana",
-          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
-        }
-      ],
-      "duration_ms": 201177,
-      "name": "Going Clear",
-      "url": "https://open.spotify.com/track/6gFWTzrUMawFAyqCpThoUA"
-    },
-    {
-      "added_at": "2023-03-01 22:38:20",
-      "album": {
-        "name": "I Don\u2019t Live Here Anymore",
-        "url": "https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 364333,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/3EPSnqfDkva43w9NdrfFmU"
-    },
-    {
-      "added_at": "2023-03-01 22:38:20",
-      "album": {
-        "name": "Lights",
-        "url": "https://open.spotify.com/album/194YVQymXITzrDxVAfOZ8N"
-      },
-      "artists": [
-        {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
-        }
-      ],
-      "duration_ms": 215760,
-      "name": "Lights",
-      "url": "https://open.spotify.com/track/45BCN2ZnfUXXMff0uxxLFe"
-    },
-    {
-      "added_at": "2023-03-01 22:38:20",
-      "album": {
-        "name": "Traps",
-        "url": "https://open.spotify.com/album/0UdQroPXUq5V73zbzsGGrh"
-      },
-      "artists": [
-        {
-          "name": "Bloc Party",
-          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
-        }
-      ],
-      "duration_ms": 174581,
-      "name": "Traps",
-      "url": "https://open.spotify.com/track/2ZvxyrNMYKMTazLQI2v9BX"
-    },
-    {
-      "added_at": "2023-03-01 22:38:20",
-      "album": {
-        "name": "Futureproof",
-        "url": "https://open.spotify.com/album/3SmiRZtLKHDHk5bmLpOvtg"
-      },
-      "artists": [
-        {
-          "name": "The Rare Occasions",
-          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
-        }
-      ],
-      "duration_ms": 195120,
-      "name": "Notion",
-      "url": "https://open.spotify.com/track/4cHKd6qPMR1TMx55KHlida"
-    },
-    {
-      "added_at": "2023-03-01 22:38:20",
-      "album": {
-        "name": "In Need of Repair",
-        "url": "https://open.spotify.com/album/01JnSvaj1iA6nTZsmnwPiG"
-      },
-      "artists": [
-        {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "In Need of Repair",
-      "url": "https://open.spotify.com/track/2gvLhQi8nrGFcZB7OuLeZC"
-    },
-    {
-      "added_at": "2023-03-01 22:38:20",
-      "album": {
-        "name": "Chances Are",
-        "url": "https://open.spotify.com/album/6YegMkVMKI8lJIOk7ynY6h"
-      },
-      "artists": [
-        {
-          "name": "Forenzics",
-          "url": "https://open.spotify.com/artist/2h7NTTkRJls7myYtPUZcG3"
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
         },
         {
-          "name": "Split Enz",
-          "url": "https://open.spotify.com/artist/0Upmz8QvuLAkKAfRlJYWTL"
-        },
-        {
-          "name": "Tim Finn",
-          "url": "https://open.spotify.com/artist/6OIoPLnbAe0U4k1NFjqIyN"
+          "name": "phem",
+          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
         }
       ],
-      "duration_ms": 199912,
-      "name": "Chances Are",
-      "url": "https://open.spotify.com/track/73vlVDlp4rSd8SaiccnbtN"
+      "duration_ms": 210531,
+      "name": "Not Without My Ghosts (feat. Phem)",
+      "url": "https://open.spotify.com/track/2rlkdPZr9BmPEMC7wlg11e"
     },
     {
-      "added_at": "2023-03-01 22:38:20",
+      "added_at": "2023-04-21 02:19:31",
       "album": {
-        "name": "Burn The Empire",
-        "url": "https://open.spotify.com/album/6BgkyzQB8gTalZfDJrxluD"
+        "name": "A Kiss for the Whole World",
+        "url": "https://open.spotify.com/album/5eNmAU8XFNiuqhTe9Nq1LJ"
       },
       "artists": [
         {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
         }
       ],
-      "duration_ms": 187786,
-      "name": "Burn The Empire",
-      "url": "https://open.spotify.com/track/48DUNYVEDqSI2hrJtpRnmO"
+      "duration_ms": 211485,
+      "name": "A Kiss for the Whole World x",
+      "url": "https://open.spotify.com/track/5Yw6IZe2YzStFAo2LZDRTr"
     },
     {
       "added_at": "2023-04-20 06:57:40",
@@ -207,6 +91,22 @@
       "duration_ms": 184320,
       "name": "New Breeze",
       "url": "https://open.spotify.com/track/6M4hZYuvsYSndZq2xsugPW"
+    },
+    {
+      "added_at": "2023-04-21 02:45:03",
+      "album": {
+        "name": "High Life",
+        "url": "https://open.spotify.com/album/1fBcgFClpfR9PpmmHPBbyS"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "duration_ms": 174663,
+      "name": "High Life",
+      "url": "https://open.spotify.com/track/4CQG6hPIFLbliWJpxHKmZH"
     },
     {
       "added_at": "2023-04-20 06:57:40",

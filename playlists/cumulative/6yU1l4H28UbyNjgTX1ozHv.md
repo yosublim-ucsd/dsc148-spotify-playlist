@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-164 songs - 8 hr 45 min
+166 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Because You Loved Me \- Acoustic](https://open.spotify.com/track/46riIukB23FBujbdYQTfmf) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [Because You Loved Me \(Acoustic\)](https://open.spotify.com/album/4XbwbcopmQJCRuETbjr1RN) | 3:37 | 2022-06-17 |  |
 | [Believe \- Acoustic](https://open.spotify.com/track/3CTDZeM0OMz49BdQ2kI0HU) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [Believe \(Acoustic\)](https://open.spotify.com/album/4s5feYt6hMWRjjHYCybysv) | 3:07 | 2022-04-10 | 2023-01-21 |
 | [Bitter Sweet Symphony](https://open.spotify.com/track/2gcgIegEsUm4xKKWhLxOFx) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Bitter Sweet Symphony](https://open.spotify.com/album/2xXixzfakAmF34WzT8xxbS) | 3:22 | 2019-10-13 |  |
+| [California Dreamin' \- Acoustic](https://open.spotify.com/track/5dx6uQJsxVDQSyQ2E1cDBw) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [California Dreamin' \(Acoustic\)](https://open.spotify.com/album/3ECsyggi4fbolrvkhydPAg) | 2:32 | 2023-04-21 |  |
 | [Call Me \- Acoustic](https://open.spotify.com/track/7g4qpkynAKRQ2RPDNh5Gwj) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Call Me \(Acoustic\)](https://open.spotify.com/album/0PqRjANzwz9dEy1fAwB5tn) | 2:18 | 2022-06-17 | 2022-07-16 |
 | [Call Me \- Acoustic](https://open.spotify.com/track/4ItkAxuNvjuWvN8t93SYNE) | [Thomas Law](https://open.spotify.com/artist/17oLmcamZOvri63kIr56CO) | [Call Me \(Acoustic\)](https://open.spotify.com/album/5zDhAJF7zb9MeY80oWJ1Br) | 2:46 | 2020-07-17 |  |
 | [Call Me Maybe \- Acoustic](https://open.spotify.com/track/4PgcZ3foDPLLruyBjVlfo3) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [Call Me Maybe \(Acoustic\)](https://open.spotify.com/album/1JKTeC7myW3DLEeP9H4WTz) | 2:45 | 2020-08-28 | 2023-01-28 |
@@ -61,6 +62,7 @@
 | [Heaven Is a Place on Earth](https://open.spotify.com/track/08OaKNPulJY5P2czPt7PKY) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Heaven Is a Place on Earth](https://open.spotify.com/album/0kkxOv9HJxOquoIxt0QDPm) | 3:13 | 2019-10-13 |  |
 | [Here Comes the Sun](https://open.spotify.com/track/4h9DsTf9n0cizUc0x3ljHP) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Here Comes the Sun](https://open.spotify.com/album/42TfoBfETVrKwCXZ9nBkTc) | 2:21 | 2019-10-13 |  |
 | [Here Comes the Sun \- Acoustic](https://open.spotify.com/track/6lynns69p4zTCRxmmiSY1x) | [Molly Hocking](https://open.spotify.com/artist/1r7YzLH9GkZI4uEWyMRUeZ), [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Here Comes the Sun \(Acoustic\)](https://open.spotify.com/album/0A8ljJPiB39ollmnAu0CKA) | 2:24 | 2023-01-27 |  |
+| [Here You Come Again \- Acoustic](https://open.spotify.com/track/0xok76s2w2MpDbiCSgMHxd) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Here You Come Again \(Acoustic\)](https://open.spotify.com/album/7uTmNZbFniFzyakldcG0rd) | 2:54 | 2023-04-21 |  |
 | [Hey There Delilah \- Bonus Track](https://open.spotify.com/track/3DWOTqMQGp5q75fnVsWwaN) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Every Second Counts](https://open.spotify.com/album/6MEfS6zFbBYZalRsumJsvs) | 3:53 | 2019-10-13 |  |
 | [Hey, Soul Sister \- Acoustic](https://open.spotify.com/track/0kIqUDiAD6k4Zu1RdMPFmw) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Hey, Soul Sister \(Acoustic\)](https://open.spotify.com/album/32lSvUMKuLxKeQKRU1stmB) | 3:18 | 2020-11-14 |  |
 | [Higher Love](https://open.spotify.com/track/35dMUmp6Jh3AE9IaqM0Osn) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat](https://open.spotify.com/album/0F9QZJSssWELg5ZTJp1NQy) | 3:35 | 2019-10-13 |  |

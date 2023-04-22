@@ -4,10 +4,11 @@
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-146 songs - 13 hr 25 min
+147 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [2020](https://open.spotify.com/track/5chtaHyGuNkcj83hzae0Qk) | [The Funky Knuckles](https://open.spotify.com/artist/0uyK6faAhm4CYcf1OhP38V) | [2020](https://open.spotify.com/album/7hSvY3Hq0E1ZO5zSgeuwlL) | 8:03 | 2023-04-21 |  |
 | [African Shabtay](https://open.spotify.com/track/0KFqWGc2VNfpCbi6PuX218) | [Marbin](https://open.spotify.com/artist/3bbmbyiX3lqrAjlwFgZE16) | [African Shabtay](https://open.spotify.com/album/6Rj2gkyntZqABajRBksHMm) | 5:26 | 2021-10-08 |  |
 | [Akashic Xronicles](https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Akashic Xronicles](https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P) | 4:27 | 2021-10-01 |  |
 | [Amusement](https://open.spotify.com/track/5ddw4UiiqkdI8OoUOVhB6O) | [EIKO＋ERIKO](https://open.spotify.com/artist/6b7oAa2JOCrhHAxDCqb7sz) | [Amusement](https://open.spotify.com/album/7otfKoaJXSjnr8B2xdB2Wb) | 7:00 | 2021-08-13 |  |
@@ -106,7 +107,7 @@
 | [Sands Of Time](https://open.spotify.com/track/4i3jOeue9K8kh73ZXW7All) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Sands Of Time](https://open.spotify.com/album/0mLsY0d1yTovXfhEAWqwAi) | 2:07 | 2023-02-24 |  |
 | [Scorching Sun](https://open.spotify.com/track/10rD8xLRTu1AWQPFtF7G6Q) | [Ryosuke Kojima](https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2) | [Scorching Sun](https://open.spotify.com/album/4GNwKztAL6RgrbbylF2YG3) | 3:52 | 2021-08-27 |  |
 | [Scorpion](https://open.spotify.com/track/24Bwts94Yx0aqN9xS5E0pQ) | [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq) | [Scorpion](https://open.spotify.com/album/5g4aSzfcbbU1Kx5qyrGLGv) | 3:38 | 2022-06-03 |  |
-| [Seven](https://open.spotify.com/track/6nz7H9YLI6TYGo3riLJBaR) | [Alberto Rigoni](https://open.spotify.com/artist/5YPN5P1LS2tcQZAPEpo0ZM), [Michael Manring](https://open.spotify.com/artist/3azoOASbeeRYOHv3ekSMRR), [Bryan Beller](https://open.spotify.com/artist/2LPwVhvrjOXEvgfLOpHJQ1) | [Grains of Sand](https://open.spotify.com/album/0xSWVE4Rtvo9Se1UanwNLz) | 4:19 | 2022-09-16 |  |
+| [Seven](https://open.spotify.com/track/6nz7H9YLI6TYGo3riLJBaR) | [Alberto Rigoni](https://open.spotify.com/artist/5YPN5P1LS2tcQZAPEpo0ZM), [Michael Manring](https://open.spotify.com/artist/3azoOASbeeRYOHv3ekSMRR), [Bryan Beller](https://open.spotify.com/artist/2LPwVhvrjOXEvgfLOpHJQ1) | [Grains of Sand](https://open.spotify.com/album/0xSWVE4Rtvo9Se1UanwNLz) | 4:19 | 2022-09-16 | 2023-04-22 |
 | [silhouette](https://open.spotify.com/track/0RRoI2lSGNfYLCwHbn0JZt) | [POLYPLUS](https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa), [yucca](https://open.spotify.com/artist/6CRg48tzBp7AKeBv1z3CWp) | [move](https://open.spotify.com/album/4rggfFHMVCmCHAdbeX4Uop) | 4:28 | 2021-09-03 |  |
 | [Sinopsis](https://open.spotify.com/track/5kGY5RULvvBHr2Y1PpATa7) | [Arthur Liory](https://open.spotify.com/artist/3tmfnaMiCdg2mTvs2RozxK) | [Sinopsis](https://open.spotify.com/album/2DOhAf4SNJeVCQgohwiJld) | 2:12 | 2022-12-09 |  |
 | [Snake Oil](https://open.spotify.com/track/415dIGsxo24JgyqmAun697) | [Tony Williams](https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe) | [Lifetime: The Collection](https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza) | 6:26 | 2021-01-27 |  |

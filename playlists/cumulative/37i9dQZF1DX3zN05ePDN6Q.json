@@ -5245,6 +5245,28 @@
     },
     {
       "album": {
+        "name": "Rap Jazz",
+        "url": "https://open.spotify.com/album/0jLhKfh37Uq5M4Y4Sr3IiY"
+      },
+      "artists": [
+        {
+          "name": "A Banca Records",
+          "url": "https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ"
+        },
+        {
+          "name": "Cold Jas",
+          "url": "https://open.spotify.com/artist/4QpdIDbwY9wKmcobBWYy3b"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126896,
+      "name": "Sistema",
+      "url": "https://open.spotify.com/track/7v04AuDlQEaf6GTqDqo5GE"
+    },
+    {
+      "album": {
         "name": "Sobre mim",
         "url": "https://open.spotify.com/album/6JTFaHvi9gXwJchaSRP9BK"
       },
@@ -6256,6 +6278,32 @@
       "duration_ms": 217142,
       "name": "Vou para Longe",
       "url": "https://open.spotify.com/track/53CpCzM9bwyXFEdu09frBr"
+    },
+    {
+      "album": {
+        "name": "Vov\u00f3",
+        "url": "https://open.spotify.com/album/6nRXGu4oUxsQSzGBFoRLP8"
+      },
+      "artists": [
+        {
+          "name": "Stanley Castro",
+          "url": "https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah"
+        },
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "Thebosh",
+          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Vov\u00f3",
+      "url": "https://open.spotify.com/track/18Wjx8QjHXpqPbW07kiMgZ"
     },
     {
       "album": {

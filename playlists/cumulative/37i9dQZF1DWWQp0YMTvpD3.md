@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-324 songs - 16 hr 19 min
+326 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Peyote](https://open.spotify.com/track/2UogGmSbe5uiGVJSoe3PcS) | [Beyhude](https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo) | [Peyote](https://open.spotify.com/album/0Z90edv3cnFePD7TkayWkb) | 3:48 | 2022-02-11 |  |
 | [Pinch Punch](https://open.spotify.com/track/1gmfpLdj099PQIZ8S9tz94) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [Pinch Punch](https://open.spotify.com/album/6rO4FmexBBwdyqXMRwYUAT) | 2:55 | 2022-07-29 | 2022-10-07 |
 | [pineapple waves](https://open.spotify.com/track/2btm5MeHs3WXbrtSgwJB6G) | [frukks](https://open.spotify.com/artist/1y4w1ZX8F5vH0aT3rMuz1M) | [pineapple waves](https://open.spotify.com/album/4BeopPdPOtdd4TSSV3elTh) | 3:20 | 2022-10-14 |  |
+| [PLAY](https://open.spotify.com/track/2DwFC2zVzDenk4D4LVnG1r) | [Sin & Logo](https://open.spotify.com/artist/4nEsyYc3Si04SYob0Grvau) | [PLAY](https://open.spotify.com/album/29mzQbByItTgLxV74xBCtQ) | 2:29 | 2023-04-21 |  |
 | [Poet Bio](https://open.spotify.com/track/6TTjXl7QKKvvMAGviSfUKo) | [Twin Iguana](https://open.spotify.com/artist/59OJzu5UZA6OrK4dGT4GZi) | [Poet Bio](https://open.spotify.com/album/07BExc9NedKtIqUAMCcjcp) | 3:12 | 2023-01-06 |  |
 | [Quay](https://open.spotify.com/track/66HmKYuvJH82x9zQKFvSAX) | [Pipo W](https://open.spotify.com/artist/6ZNEs0261UezCJ2TG0G0x0) | [Quay](https://open.spotify.com/album/2Yssd99I6S8ljrnkjRqj6V) | 2:48 | 2022-02-11 |  |
 | [Radio Head](https://open.spotify.com/track/465eA0AbmDTORT39flcRfZ) | [Bell Chenko](https://open.spotify.com/artist/5saowJ1itYDsVZG8Bp6pPo) | [Radio Head](https://open.spotify.com/album/0qQRICDc4ARCQBqLeMhFfm) | 2:06 | 2021-10-12 | 2022-02-12 |
@@ -219,7 +220,7 @@
 | [Real](https://open.spotify.com/track/6mf0FKVO9qQyNXn3DV5Kza) | [Coquinio](https://open.spotify.com/artist/5HPcMVzRD40VXSDzv4WqyQ) | [Real](https://open.spotify.com/album/77biufhXX9hRRZ47SdIrXC) | 3:45 | 2022-02-11 |  |
 | [Reasons](https://open.spotify.com/track/4FQqwtrVJFsliLCrlN0zrz) | [Frye](https://open.spotify.com/artist/51c7EsUuMgAXsIlcabMgKG) | [Reasons](https://open.spotify.com/album/0rHdJzccejp5TytlhCMP5Q) | 2:48 | 2019-10-04 | 2022-02-12 |
 | [Red Flower](https://open.spotify.com/track/4CkfITI1TKsu6HiyX0uyZY) | [Galian](https://open.spotify.com/artist/0qzcDWdZl5yN8OnV0Fcb8w) | [Red Flower](https://open.spotify.com/album/2s0woyRQFcQMBiSJF7OFq5) | 2:10 | 2022-10-28 |  |
-| [Repitition](https://open.spotify.com/track/1HxkAwP7SX6i5noFJ62eiC) | [moonrockets](https://open.spotify.com/artist/3l38nAslhPLjoAYOFtznQW) | [Repitition](https://open.spotify.com/album/4spWYL6zrbSMqMLYYGIAOf) | 3:46 | 2022-12-16 |  |
+| [Repitition](https://open.spotify.com/track/1HxkAwP7SX6i5noFJ62eiC) | [moonrockets](https://open.spotify.com/artist/3l38nAslhPLjoAYOFtznQW) | [Repitition](https://open.spotify.com/album/4spWYL6zrbSMqMLYYGIAOf) | 3:46 | 2022-12-16 | 2023-04-22 |
 | [request](https://open.spotify.com/track/4AWDkCHl4LVipIgbdFi6wH) | [Funky Feels](https://open.spotify.com/artist/73bsuepJlmtW9xPn5zytKd) | [request](https://open.spotify.com/album/769P51agF9GPdFXa9A0jX2) | 3:03 | 2022-11-25 |  |
 | [Retreat into mist](https://open.spotify.com/track/0ueVDDwFAZKFUwZhtHQAjE) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Ambrosial](https://open.spotify.com/album/3K4kc2ITYarXk6nCXHJja9) | 3:09 | 2022-02-11 |  |
 | [running emotion](https://open.spotify.com/track/50qTed10S2KaDtGAYbD4dr) | [Hayzei](https://open.spotify.com/artist/4Fr8mwKk9GLHkjlNrxFNAX) | [running emotion](https://open.spotify.com/album/0iHbisELLIEFVvRithDFAx) | 2:38 | 2022-07-29 |  |
@@ -273,6 +274,7 @@
 | [The girl with broken dreams](https://open.spotify.com/track/28xqa66vOcxPCXxFmPN1U2) | [Sideluv](https://open.spotify.com/artist/3Qav2btak3NJY2w6NbVC1Y) | [The girl with broken dreams](https://open.spotify.com/album/7ymiir2WBV6HB2cEop3HWM) | 2:35 | 2022-09-02 | 2022-11-20 |
 | [The girl with broken dreams](https://open.spotify.com/track/7DzhgkrwVvnOfhTq1C3cYS) | [Sideluv](https://open.spotify.com/artist/3Qav2btak3NJY2w6NbVC1Y) | [The girl with broken dreams](https://open.spotify.com/album/4hnNFdJQNdyMtUmsiNniEl) | 2:35 | 2022-12-09 |  |
 | [The Heavens](https://open.spotify.com/track/2BQPwEDYM8KLUaKncKQiZA) | [Ely Lite](https://open.spotify.com/artist/33OqIEJdwN1tqfJeRap2QY) | [The Heavens](https://open.spotify.com/album/4SfOQIO0DjTwSYAzMGlyC1) | 3:36 | 2022-02-12 |  |
+| [The House](https://open.spotify.com/track/2ButdsowcftDJQOYPeBes7) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [The House](https://open.spotify.com/album/7ekED2arGdfKQsg1Gqekiw) | 2:37 | 2023-04-21 |  |
 | [They Do Exist](https://open.spotify.com/track/656iCGkgKBbDxvFs5EfzGK) | [Cerulean Skies](https://open.spotify.com/artist/5sB2GLv1x8cuwPyLnCHI9Z) | [They Do Exist](https://open.spotify.com/album/48I1k8R1X9Psk5XTrVDT2u) | 4:49 | 2022-02-12 | 2022-07-08 |
 | [Think It Through](https://open.spotify.com/track/5dQStS5S139vgcybY6gUJL) | [Billy Mccray](https://open.spotify.com/artist/2EqQ9FPklGoK7YmlJQ1qA4) | [Think It Through](https://open.spotify.com/album/5kqO9S5yFkV9x3FiqGFPA2) | 2:28 | 2022-03-25 |  |
 | [This Here Story](https://open.spotify.com/track/2UFmyJ6CuTle51ytDLuNeW) | [Audio Scavengers](https://open.spotify.com/artist/5dqce9cvgiZ0WAX7x7HxVa) | [This Here Story](https://open.spotify.com/album/5IokwBzlxqb66EH4IbGl5R) | 3:54 | 2022-10-28 |  |

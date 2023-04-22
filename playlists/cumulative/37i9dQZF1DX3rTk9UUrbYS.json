@@ -1917,6 +1917,24 @@
     },
     {
       "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/1Ziua7CFzE6Aoho1nu6rey"
+      },
+      "artists": [
+        {
+          "name": "Bendik Giske",
+          "url": "https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335165,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/4dzF4kL1JEodFrKIB98CkX"
+    },
+    {
+      "album": {
         "name": "Arms & Hands",
         "url": "https://open.spotify.com/album/0Z0dUTd0016S6bI132kL50"
       },
@@ -1945,7 +1963,7 @@
         },
         {
           "name": "Sousa",
-          "url": "https://open.spotify.com/artist/2sokDb3FMSeky2ZtFEaEPc"
+          "url": "https://open.spotify.com/artist/259tu0qZf408lRxvW6YRU1"
         },
         {
           "name": "Ferrandini",

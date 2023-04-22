@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Rap\. Cover:  GD 47, Prince Narula & Rannvijay Singh
 
-44 songs - 2 hr 11 min
+45 songs - 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [My Talk](https://open.spotify.com/track/1blSrivSm7CgTwoy3JeIC9) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5) | [My Talk](https://open.spotify.com/album/6QedbscvibNXbm8MIKy9Kz) | 3:09 | 2023-03-18 |  |
 | [my turn/meri vaari](https://open.spotify.com/track/1lnRtzXxijmzDRixUHz1aL) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk) | [my turn/meri vaari](https://open.spotify.com/album/1vpMvJS3I00wguWHQjx3pQ) | 3:01 | 2023-03-18 |  |
 | [Never Fold](https://open.spotify.com/track/3JkVYvxNoGf2HCWJo61462) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [SOE](https://open.spotify.com/artist/503jMzlAxbEpfltywmU45E) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 3:03 | 2023-03-18 |  |
+| [Nisha Sweety](https://open.spotify.com/track/6Twl6PxOydIn6lHCFasctF) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Dj Tejas](https://open.spotify.com/artist/19auYTgFdhYAR019ErcDcM) | [Nisha Sweety](https://open.spotify.com/album/06E2OaiyC9N7i2eG8CdcFJ) | 4:02 | 2023-04-21 |  |
 | [No Reason](https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [No Reason](https://open.spotify.com/album/0wzfXAUHyTS4jzRA0HciwY) | 3:38 | 2023-03-18 |  |
 | [Ohi Munda](https://open.spotify.com/track/2vIkZF1SNbNTSZT75EaCmq) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [Absolute Monarchy \- EP](https://open.spotify.com/album/6jpdzNapTHD7xiaVEuGvs8) | 3:31 | 2023-03-18 |  |
 | [Option](https://open.spotify.com/track/7D9bolj2s9fFFUkN8jdNxr) | [Jatinder Dhiman](https://open.spotify.com/artist/1hm6TM0GJs7b6BKDN2AhgH), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [Option](https://open.spotify.com/album/0gpBSrkVRA5I0SEKxMuxUV) | 2:30 | 2023-03-18 |  |

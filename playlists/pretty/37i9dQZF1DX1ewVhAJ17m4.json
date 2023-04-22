@@ -1,13 +1,29 @@
 {
-  "description": "All the best new songs from the pop punk scene. Cover: Hot Milk",
-  "num_followers": 551592,
+  "description": "All the best new songs from the pop punk scene. Cover: Against The Current",
+  "num_followers": 551700,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI4MDI0MiwwMDAwMDAwMDhhNTg0NTFiNjIzMzg1NGEwMGYyM2EyNDgzMDUzOGVk",
+  "snapshot_id": "MTY4MjA4NDM3MCwwMDAwMDAwMGIwOTk3MDI0YjZhOGE2NzMzMTA1YTZhZmY4NDEyNjE1",
   "tracks": [
+    {
+      "added_at": "2023-04-21 13:39:30",
+      "album": {
+        "name": "\"good guy\"",
+        "url": "https://open.spotify.com/album/6bj1lsHiVqvJyqjv7qtrV4"
+      },
+      "artists": [
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "duration_ms": 208052,
+      "name": "\"good guy\"",
+      "url": "https://open.spotify.com/track/3bfElZNhtvtGvWMVgCBgZK"
+    },
     {
       "added_at": "2023-03-31 16:30:42",
       "album": {
@@ -209,6 +225,22 @@
       "url": "https://open.spotify.com/track/3NaU2caYQRDURRWaQMQgVf"
     },
     {
+      "added_at": "2023-04-21 13:39:30",
+      "album": {
+        "name": "Poor Boy",
+        "url": "https://open.spotify.com/album/345I2XOebtr1j2UqaGS6FY"
+      },
+      "artists": [
+        {
+          "name": "WSTR",
+          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
+        }
+      ],
+      "duration_ms": 153269,
+      "name": "Poor Boy",
+      "url": "https://open.spotify.com/track/07ITRcap7oVcCcfRScfvxX"
+    },
+    {
       "added_at": "2023-03-31 16:30:42",
       "album": {
         "name": "Light Switch",
@@ -311,6 +343,22 @@
       "duration_ms": 153876,
       "name": "Backfired",
       "url": "https://open.spotify.com/track/2pkaP5gZboMEf5Jlrh8FXK"
+    },
+    {
+      "added_at": "2023-04-21 13:39:30",
+      "album": {
+        "name": "Highlight Reel",
+        "url": "https://open.spotify.com/album/3qPqqUNcSBocvzi6MXhrtW"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "duration_ms": 190434,
+      "name": "Highlight Reel",
+      "url": "https://open.spotify.com/track/2Ws0Wb3zbNCjacrn4nHGL7"
     },
     {
       "added_at": "2023-03-31 16:30:42",
@@ -473,6 +521,22 @@
       "url": "https://open.spotify.com/track/617vlwnmLpKRnMkotVThcu"
     },
     {
+      "added_at": "2023-04-21 13:39:30",
+      "album": {
+        "name": "Life's a Brittany",
+        "url": "https://open.spotify.com/album/3MdcvaLP5rnjGunuwkOATO"
+      },
+      "artists": [
+        {
+          "name": "girlfriends",
+          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
+        }
+      ],
+      "duration_ms": 162592,
+      "name": "Life's a Brittany",
+      "url": "https://open.spotify.com/track/71LUSp3iOUP66Cv3V8S75B"
+    },
+    {
       "added_at": "2023-03-31 16:30:42",
       "album": {
         "name": "Girls Don't Come with Instructions",
@@ -507,6 +571,30 @@
       "duration_ms": 180970,
       "name": "theme song",
       "url": "https://open.spotify.com/track/4pKW3eDE5EonKFYboxagYB"
+    },
+    {
+      "added_at": "2023-04-21 13:39:30",
+      "album": {
+        "name": "Head in The Clouds",
+        "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
+      },
+      "artists": [
+        {
+          "name": "Arrows in Action",
+          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
+        },
+        {
+          "name": "Loveless",
+          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
+        },
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 184180,
+      "name": "The Credits",
+      "url": "https://open.spotify.com/track/5S9NNVIDcsnk9rQVaMW0dL"
     },
     {
       "added_at": "2023-03-31 16:30:42",
@@ -559,6 +647,26 @@
       "duration_ms": 187793,
       "name": "I\u2019m a Mess (with YUNGBLUD)",
       "url": "https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj"
+    },
+    {
+      "added_at": "2023-04-21 13:39:30",
+      "album": {
+        "name": "Francis (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0iz5oln8o2AseYOfy7WBal"
+      },
+      "artists": [
+        {
+          "name": "Call Me Karizma",
+          "url": "https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt"
+        },
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "duration_ms": 160892,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/3V7D3sAnk5KBNBBWPL7REL"
     },
     {
       "added_at": "2023-03-31 16:30:42",
@@ -1379,54 +1487,6 @@
       "duration_ms": 281425,
       "name": "32",
       "url": "https://open.spotify.com/track/2sYl3t3Rrnrs7mDbDHnIPg"
-    },
-    {
-      "added_at": "2023-03-31 16:30:42",
-      "album": {
-        "name": "Shaking Your Mind",
-        "url": "https://open.spotify.com/album/3WKrQ041ZovsJcb8K4rpD9"
-      },
-      "artists": [
-        {
-          "name": "Bearings",
-          "url": "https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Shaking Your Mind",
-      "url": "https://open.spotify.com/track/7kTg2JxsgHLWjavcl1dPEf"
-    },
-    {
-      "added_at": "2023-03-31 16:30:42",
-      "album": {
-        "name": "Nowhere, Ohio",
-        "url": "https://open.spotify.com/album/4FCAlxabfOFH49RbFNrGWE"
-      },
-      "artists": [
-        {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
-        }
-      ],
-      "duration_ms": 184120,
-      "name": "Nowhere, Ohio",
-      "url": "https://open.spotify.com/track/1jxrEckdckgBi6Ooymx5j1"
-    },
-    {
-      "added_at": "2023-03-31 16:30:42",
-      "album": {
-        "name": "Sand on the Beach",
-        "url": "https://open.spotify.com/album/3vcKqp5Pque6sqEXiZvMtU"
-      },
-      "artists": [
-        {
-          "name": "FIDLAR",
-          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
-        }
-      ],
-      "duration_ms": 136510,
-      "name": "Sand on the Beach",
-      "url": "https://open.spotify.com/track/45WduJCqST7pBJPvxZ6ZgU"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

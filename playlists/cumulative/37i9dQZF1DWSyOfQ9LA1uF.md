@@ -4,7 +4,7 @@
 
 > Bedroom bootlegs and electroclash gems\. Cover: Chromeo
 
-159 songs - 12 hr 16 min
+160 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Idealistic](https://open.spotify.com/track/2VbIou1DtUewZVgfte6kIW) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Idealism](https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8) | 4:10 | 2021-01-12 |  |
 | [Idealistic](https://open.spotify.com/track/2jJ2OyPniCS1a16Ghw8vZo) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Idealism](https://open.spotify.com/album/1tI2KRkbdaxI1lVUDW8F7S) | 4:10 | 2021-01-12 | 2022-07-29 |
 | [Intro](https://open.spotify.com/track/3EXPdW0NGGkPlyDMcScfgu) | [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Running \- Single](https://open.spotify.com/album/6Ps0YLiG5zpgsqx5kBPIul) | 4:54 | 2022-02-03 | 2022-07-29 |
-| [Intro](https://open.spotify.com/track/60hb5H9yL4P4SPz7lrTvUw) | [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Running](https://open.spotify.com/album/2OazLMNTr5Vf2YmetCJshL) | 4:54 | 2022-02-03 |  |
+| [Intro](https://open.spotify.com/track/60hb5H9yL4P4SPz7lrTvUw) | [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Running](https://open.spotify.com/album/2OazLMNTr5Vf2YmetCJshL) | 4:54 | 2022-02-03 | 2023-04-22 |
+| [Intro \- Remastered 2023](https://open.spotify.com/track/7b4fQNd34RVNFKKziQz6mS) | [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [The Upper Cuts \(2023 Edition\)](https://open.spotify.com/album/0TeXdrfFO67UgPpj1mMUAM) | 4:53 | 2022-08-24 |  |
 | [It Ain't Easy](https://open.spotify.com/track/6bM8gEfn4LqivqV2AWdbLo) | [Bit Funk](https://open.spotify.com/artist/3QzHXIuwKTQzOhgA3F8mN1) | [Archives & Relics \(2008\-2012\)](https://open.spotify.com/album/1HBqpqPLXCybdgETimYQTp) | 5:34 | 2022-02-03 | 2022-06-13 |
 | [Je veux te voir](https://open.spotify.com/track/4H9637mkUDyk9Rq0WgDEwc) | [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd) | [Pop Up](https://open.spotify.com/album/2UiP7sGjSxl52QtlWAXYVy) | 4:21 | 2021-01-12 |  |
 | [Kilometer \(A\-Trak Remix\)](https://open.spotify.com/track/46pQz9p5adUEFH4GhH4JsF) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Kilometer \- EP](https://open.spotify.com/album/4MEA17aQtLt8qEn9qKap0W) | 4:10 | 2022-02-03 | 2022-07-29 |

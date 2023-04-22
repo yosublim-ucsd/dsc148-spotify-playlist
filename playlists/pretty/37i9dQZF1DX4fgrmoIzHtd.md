@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 
 > <a href="spotify:artist:27LGatz1m8aJ7ZaVVWEphc">Gui Boratto</a>'s favourite tracks\. Updated regularly\. Curated by Gui Boratto\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,698 likes - 52 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,790 likes - 52 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 | 36 | [White Flowers \- Edit](https://open.spotify.com/track/5aAjk4q63Ckeu0D2LRWOrq) | [Tom Demac](https://open.spotify.com/artist/3758ZYkL9uiug7nHTQNWcP), [Real Lies](https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu) | [White Flowers](https://open.spotify.com/album/16Iu3dqTMlOUitocEfQhIt) | 3:37 |
 | 37 | [You Wish](https://open.spotify.com/track/6G6M4fl2I0eqEQnzyTwR8m) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [In A Space Outta Sound](https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg) | 3:29 |
 | 38 | [Mr\. Fire](https://open.spotify.com/track/6gOjpNTFwjWpFbI8b9zi9w) | [Coppola](https://open.spotify.com/artist/3ZWMer3TwUiMxSFYqgfurT), [Odaya](https://open.spotify.com/artist/3su3dTqf9eYWR9Z9OwvZ8z) | [Mr\. Fire](https://open.spotify.com/album/0p5yLe7r9FxKNDsTy5PVRg) | 3:46 |
-| 39 | [In Love With You](https://open.spotify.com/track/2M2urNXOgop2isPZ9Vv4f7) | [The Paradise](https://open.spotify.com/artist/28z70aQRbXNFU0OP930suZ), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Romuald](https://open.spotify.com/artist/43MFF1y8czFwbjB8kf24oG) | [In Love With You](https://open.spotify.com/album/6TmoonSmmOCN6XQXgaxL7d) | 4:14 |
+| 39 | [In Love With You \- Remastered 2023](https://open.spotify.com/track/4ZWyIlQo4Za4kophcOoI4i) | [The Paradise](https://open.spotify.com/artist/28z70aQRbXNFU0OP930suZ), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW) | [The Upper Cuts \(2023 Edition\)](https://open.spotify.com/album/0TeXdrfFO67UgPpj1mMUAM) | 4:14 |
 | 40 | [Lungo Mare](https://open.spotify.com/track/49eOvWATMHtPnJ018sNhum) | [Time To Sleep](https://open.spotify.com/artist/7EFMIaeoeTaEPZo7D8IXw0) | [Lungo Mare](https://open.spotify.com/album/264d41a6QmPYfMBZpdm1KK) | 4:08 |
 | 41 | [Whitehill](https://open.spotify.com/track/6lAwooRPqUGKDtzwnG94Es) | [Dave DK](https://open.spotify.com/artist/0tkgaQKFblaI5WZaV8WPA1), [Piper Davis](https://open.spotify.com/artist/7qCMm9PnKUlHf8MQhGROhY) | [Anjunadeep 07](https://open.spotify.com/album/0r2hOmLzf8vBUk2E7Z3uRD) | 3:26 |
 | 42 | [Electron](https://open.spotify.com/track/3fOva2jdaAddyxJ4SeBBy6) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Cerebral Hemispheres](https://open.spotify.com/album/46sews77v3EoXe6PzYmYdD) | 6:09 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 | 51 | [Alone in Kyoto](https://open.spotify.com/track/40UlFC0dIxv7lAEJaPZLnm) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Talkie Walkie](https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363) | 4:51 |
 | 52 | [Merry Christmas Mr\. Lawrence](https://open.spotify.com/track/7JWyqEGZGlWEONYvvpFTdQ) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Playing the Piano 12122020](https://open.spotify.com/album/5RRib8eRMf8OthdvJX26iU) | 5:46 |
 
-Snapshot ID: `MTY3NTQ1NTgxMywwMDAwMDAwMGUxYmIwZmJkZWQ5OTYyYjQ2YmNiODVhOWYxNThjMzM0`
+Snapshot ID: `MTY3NTQ1NTgxMywwMDAwMDAwMDllNTg2MjI1OWU2NzUzZDExNWMyODRiNzc4YjY5MWQz`

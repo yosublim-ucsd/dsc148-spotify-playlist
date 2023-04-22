@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 121055,
+  "num_followers": 121191,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyNjgwMCwwMDAwMDAwMDViYmM4NGRlN2MzYzA1YjRhMWIwYjIzYjNkYmRhNTU1",
+  "snapshot_id": "MTY4MTQyNjgwMCwwMDAwMDAwMGI5YzE4OGFkM2VkMTRjZGEzM2QwYmU3MTlhY2YzYjNk",
   "tracks": [
     {
       "added_at": "2023-04-13 23:00:00",
@@ -803,18 +803,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Want You",
-        "url": "https://open.spotify.com/album/099tQXLTaW2A2pdLqX1dbL"
+        "name": "VIP",
+        "url": "https://open.spotify.com/album/0y0rbZ1pjtN3Q9YFA9d7ty"
       },
       "artists": [
         {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        },
+        {
+          "name": "Inja",
+          "url": "https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM"
         }
       ],
-      "duration_ms": 247210,
-      "name": "Want You",
-      "url": "https://open.spotify.com/track/4nrcPumLm5ozA8qOEHcVm2"
+      "duration_ms": 240337,
+      "name": "Lumberjackin' - Vocal Mix",
+      "url": "https://open.spotify.com/track/2rrQ5uFbqOpJ1dYFfiV30G"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -839,22 +843,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "VIP",
-        "url": "https://open.spotify.com/album/0y0rbZ1pjtN3Q9YFA9d7ty"
+        "name": "Want You",
+        "url": "https://open.spotify.com/album/099tQXLTaW2A2pdLqX1dbL"
       },
       "artists": [
         {
-          "name": "Serum",
-          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
-        },
-        {
-          "name": "Inja",
-          "url": "https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM"
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
         }
       ],
-      "duration_ms": 240337,
-      "name": "Lumberjackin' - Vocal Mix",
-      "url": "https://open.spotify.com/track/2rrQ5uFbqOpJ1dYFfiV30G"
+      "duration_ms": 247210,
+      "name": "Want You",
+      "url": "https://open.spotify.com/track/4nrcPumLm5ozA8qOEHcVm2"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "Shut It Down",
+        "url": "https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B"
+      },
+      "artists": [
+        {
+          "name": "Mollie Collins",
+          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
+        },
+        {
+          "name": "Elipsa",
+          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
+        }
+      ],
+      "duration_ms": 178604,
+      "name": "Shut It Down",
+      "url": "https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Find My Way Home",
         "url": "https://open.spotify.com/album/6v9a58ojj3EBjHg4gfDNZY"
       },
@@ -1083,26 +1103,6 @@
       "duration_ms": 172371,
       "name": "Heartbroken 2022",
       "url": "https://open.spotify.com/track/2T5XgOcwxlEgFL3bnkKmgr"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Shut It Down",
-        "url": "https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B"
-      },
-      "artists": [
-        {
-          "name": "Mollie Collins",
-          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
-        },
-        {
-          "name": "Elipsa",
-          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
-        }
-      ],
-      "duration_ms": 178604,
-      "name": "Shut It Down",
-      "url": "https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "Sequence",
+        "url": "https://open.spotify.com/album/16JF3pUHH5ltDPOztx5FMX"
+      },
+      "artists": [
+        {
+          "name": "Culture Shock",
+          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+        }
+      ],
+      "duration_ms": 209549,
+      "name": "Renaissance (Edit)",
+      "url": "https://open.spotify.com/track/1g4C1BrGd4O1Dt5y0xue96"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Freak",
         "url": "https://open.spotify.com/album/3BFvqaxKz98EXPcznmqpND"
       },
@@ -1311,22 +1327,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Sequence",
-        "url": "https://open.spotify.com/album/16JF3pUHH5ltDPOztx5FMX"
-      },
-      "artists": [
-        {
-          "name": "Culture Shock",
-          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
-        }
-      ],
-      "duration_ms": 209549,
-      "name": "Renaissance (Edit)",
-      "url": "https://open.spotify.com/track/1g4C1BrGd4O1Dt5y0xue96"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/2Qkuca2YzJW0cSPiGrPXmR"
       },
@@ -1339,26 +1339,6 @@
       "duration_ms": 227657,
       "name": "Moments",
       "url": "https://open.spotify.com/track/6fdr24Ns8PoBQ8wGwuupRr"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Deep Blue",
-        "url": "https://open.spotify.com/album/5E1knAJbg7UI5FmSJXjUlF"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        },
-        {
-          "name": "Gracie Van Brunt",
-          "url": "https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt"
-        }
-      ],
-      "duration_ms": 215268,
-      "name": "Deep Blue",
-      "url": "https://open.spotify.com/track/2PHxnN5piS1PheqZ5KENrz"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1379,6 +1359,26 @@
       "duration_ms": 219687,
       "name": "It's Just This Thing",
       "url": "https://open.spotify.com/track/1PzMiuvUMQRKfxxNsPAjZR"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/5E1knAJbg7UI5FmSJXjUlF"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        {
+          "name": "Gracie Van Brunt",
+          "url": "https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt"
+        }
+      ],
+      "duration_ms": 215268,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/2PHxnN5piS1PheqZ5KENrz"
     },
     {
       "added_at": "2023-04-13 23:00:00",

@@ -589,6 +589,24 @@
     },
     {
       "album": {
+        "name": "Blank Stare",
+        "url": "https://open.spotify.com/album/0IxuqnoImXEUup7oal9fcN"
+      },
+      "artists": [
+        {
+          "name": "Tarnish",
+          "url": "https://open.spotify.com/artist/2THrbWtOoqb3LNA0fiBfnW"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221697,
+      "name": "Blank Stare",
+      "url": "https://open.spotify.com/track/0ayRdvWxhKZ03sm4xDuGye"
+    },
+    {
+      "album": {
         "name": "blink",
         "url": "https://open.spotify.com/album/0BJ2xtwZ34wq86GS52eYkD"
       },
@@ -2056,7 +2074,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 173226,
       "name": "Flowers for Handcuffs",
       "url": "https://open.spotify.com/track/2BaRigwJhkVeIMVkbcnUYT"
@@ -2186,6 +2204,24 @@
       "duration_ms": 173314,
       "name": "Gaslight",
       "url": "https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf"
+    },
+    {
+      "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/5vRroX9YkS6k4R8dWuG2TI"
+      },
+      "artists": [
+        {
+          "name": "Heavenward",
+          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240941,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/5fXr0Osdu9aDEVubMuUU3W"
     },
     {
       "album": {
@@ -3108,7 +3144,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 194355,
       "name": "Killing Time",
       "url": "https://open.spotify.com/track/4me6CoGX1RHTu7VE7Hnkpl"
@@ -4412,7 +4448,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 188402,
       "name": "Pulling Teeth",
       "url": "https://open.spotify.com/track/6wzhNHxTBGvcUuNOl4jG9X"
@@ -4887,6 +4923,24 @@
     },
     {
       "album": {
+        "name": "Shoulders",
+        "url": "https://open.spotify.com/album/0kT8xYHpoDyAbBfjrtuvwX"
+      },
+      "artists": [
+        {
+          "name": "Giveaway",
+          "url": "https://open.spotify.com/artist/4kwtZRR88YHWOMWhvb5M5A"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153248,
+      "name": "Shoulders",
+      "url": "https://open.spotify.com/track/0rTLdT65nXUA04EY0jEF6L"
+    },
+    {
+      "album": {
         "name": "Split",
         "url": "https://open.spotify.com/album/3G7HgD4vxg04rSF1WXYTFM"
       },
@@ -5006,7 +5060,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 225624,
       "name": "Something Good",
       "url": "https://open.spotify.com/track/5t1MLxm9vWYxK3m13QoHts"
@@ -5998,6 +6052,24 @@
       "duration_ms": 186097,
       "name": "Up Against It",
       "url": "https://open.spotify.com/track/4cwhDJiQ3vhbcxOapza2MB"
+    },
+    {
+      "album": {
+        "name": "Very High",
+        "url": "https://open.spotify.com/album/5Gd3mPMU5qbLvK4nRwL4Tb"
+      },
+      "artists": [
+        {
+          "name": "Militarie Gun",
+          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114872,
+      "name": "Very High",
+      "url": "https://open.spotify.com/track/5MxAezfO6AOYafUUyzr0yR"
     },
     {
       "album": {

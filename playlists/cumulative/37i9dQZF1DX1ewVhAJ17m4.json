@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All the best new songs from the pop punk scene. Cover: Hot Milk",
+  "description": "All the best new songs from the pop punk scene. Cover: Against The Current",
   "name": "Pop Punk's Not Dead",
   "tracks": [
+    {
+      "album": {
+        "name": "\"good guy\"",
+        "url": "https://open.spotify.com/album/6bj1lsHiVqvJyqjv7qtrV4"
+      },
+      "artists": [
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208052,
+      "name": "\"good guy\"",
+      "url": "https://open.spotify.com/track/3bfElZNhtvtGvWMVgCBgZK"
+    },
     {
       "album": {
         "name": "(Full Free) Radical",
@@ -1189,6 +1207,28 @@
     },
     {
       "album": {
+        "name": "Francis (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0iz5oln8o2AseYOfy7WBal"
+      },
+      "artists": [
+        {
+          "name": "Call Me Karizma",
+          "url": "https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt"
+        },
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160892,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/3V7D3sAnk5KBNBBWPL7REL"
+    },
+    {
+      "album": {
         "name": "Down (feat. Travis Barker)",
         "url": "https://open.spotify.com/album/6xDFoGf8jzDuFTPwQIOlyK"
       },
@@ -2193,6 +2233,24 @@
     },
     {
       "album": {
+        "name": "Highlight Reel",
+        "url": "https://open.spotify.com/album/3qPqqUNcSBocvzi6MXhrtW"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190434,
+      "name": "Highlight Reel",
+      "url": "https://open.spotify.com/track/2Ws0Wb3zbNCjacrn4nHGL7"
+    },
+    {
+      "album": {
         "name": "Hold Me in the Moonlight",
         "url": "https://open.spotify.com/album/0vcCGF90qepcm2jmbtCNEi"
       },
@@ -2845,6 +2903,24 @@
     },
     {
       "album": {
+        "name": "Life's a Brittany",
+        "url": "https://open.spotify.com/album/3MdcvaLP5rnjGunuwkOATO"
+      },
+      "artists": [
+        {
+          "name": "girlfriends",
+          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162592,
+      "name": "Life's a Brittany",
+      "url": "https://open.spotify.com/track/71LUSp3iOUP66Cv3V8S75B"
+    },
+    {
+      "album": {
         "name": "Light Switch",
         "url": "https://open.spotify.com/album/7yBLWbLDEZp3ZLNKC1oB35"
       },
@@ -3216,7 +3292,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 184120,
       "name": "Nowhere, Ohio",
       "url": "https://open.spotify.com/track/1jxrEckdckgBi6Ooymx5j1"
@@ -3426,6 +3502,24 @@
       "duration_ms": 191757,
       "name": "PMA (feat. Pale Waves)",
       "url": "https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ"
+    },
+    {
+      "album": {
+        "name": "Poor Boy",
+        "url": "https://open.spotify.com/album/345I2XOebtr1j2UqaGS6FY"
+      },
+      "artists": [
+        {
+          "name": "WSTR",
+          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153269,
+      "name": "Poor Boy",
+      "url": "https://open.spotify.com/track/07ITRcap7oVcCcfRScfvxX"
     },
     {
       "album": {
@@ -3752,7 +3846,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 136510,
       "name": "Sand on the Beach",
       "url": "https://open.spotify.com/track/45WduJCqST7pBJPvxZ6ZgU"
@@ -3980,7 +4074,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 146000,
       "name": "Shaking Your Mind",
       "url": "https://open.spotify.com/track/7kTg2JxsgHLWjavcl1dPEf"
@@ -4596,6 +4690,32 @@
       "duration_ms": 182622,
       "name": "THE AMERICAN DREAM",
       "url": "https://open.spotify.com/track/3FSxSPFLwvVUMjTjFo9Von"
+    },
+    {
+      "album": {
+        "name": "Head in The Clouds",
+        "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
+      },
+      "artists": [
+        {
+          "name": "Arrows in Action",
+          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
+        },
+        {
+          "name": "Loveless",
+          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
+        },
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184180,
+      "name": "The Credits",
+      "url": "https://open.spotify.com/track/5S9NNVIDcsnk9rQVaMW0dL"
     },
     {
       "album": {

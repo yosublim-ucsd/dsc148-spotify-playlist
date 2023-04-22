@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/1BqYfwv0S0mnUZzGp4PfPE?si=vc\-MP2uuTbOtBh19IHWeew">Arno Jordaan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,464 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,496 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Indie Rock Club](https://open.spotify.com/playlist/37i9dQZF1DX35DWKgAk2B5)
 
-> Welcome to Indie Rock Club\. Cover: The Strokes
+> Welcome to Indie Rock Club\. Cover: Arctic Monkeys
 
 245 songs - 14 hr 32 min
 

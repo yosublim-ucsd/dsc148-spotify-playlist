@@ -4,7 +4,7 @@
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Peso Pluma, Aleman.
 
-473 songs - 1 day 2 hr 44 min
+474 songs - 1 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Baby Glock](https://open.spotify.com/track/2W91Y6EMytPPXSyIpCOvtU) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Baby Glock](https://open.spotify.com/album/2DrhWoIRw9mMDCHPxSwaSA) | 2:45 | 2022-10-07 | 2022-10-23 |
 | [Baby Glock](https://open.spotify.com/track/3hNah4zjim0HfKVIXlJVCC) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Baby Glock](https://open.spotify.com/album/4QRoMdDeTyYizr9Jfo6knv) | 2:45 | 2022-10-07 | 2022-12-10 |
 | [Baby Schai](https://open.spotify.com/track/1p01JS6Kpbwvizl2VXjkbZ) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Baby Schai](https://open.spotify.com/album/2Wqz2QJ5XyofmG6xqWHAEa) | 3:10 | 2022-10-07 | 2022-12-10 |
-| [Bacanora](https://open.spotify.com/track/1Sn1dtN2rVnOo3cqelNFRb) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [Los del Noro](https://open.spotify.com/album/4OM4r8Pzin9wdBpPLPXNep) | 3:31 | 2022-10-07 |  |
+| [Bacanora](https://open.spotify.com/track/1Sn1dtN2rVnOo3cqelNFRb) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [Los del Noro](https://open.spotify.com/album/4OM4r8Pzin9wdBpPLPXNep) | 3:31 | 2022-10-07 | 2023-04-22 |
 | [Bando Boyz Free 2](https://open.spotify.com/track/4D3fwZeOechinXHc72oCir) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Bando Boyz Free 2](https://open.spotify.com/album/3Q6HpqGRTI5rM5z2Ajbi96) | 3:21 | 2022-01-06 | 2022-05-14 |
 | [Banquetera](https://open.spotify.com/track/2p2ezOq5rUJxdJXuks1TlE) | [West Gold](https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Banquetera](https://open.spotify.com/album/64Ko1LhGkxnukkLuad8lco) | 4:16 | 2022-10-07 |  |
 | [Bape \(Remix\)](https://open.spotify.com/track/3bfb530Lxa1CSKK1VTksBA) | [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Bape \(Remix\)](https://open.spotify.com/album/5bKfN6UHIlW3RMEmP10YZP) | 6:02 | 2022-10-07 |  |
@@ -292,6 +292,7 @@
 | [Mínimo](https://open.spotify.com/track/5PPtgvTTRPXGyEYnxbDGxR) | [Eptos Uno](https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK) | [Mínimo](https://open.spotify.com/album/5F29828sgPmoMIbh38euyZ) | 3:20 | 2022-01-19 | 2022-10-08 |
 | [MÍRENME AHORA](https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 3:07 | 2022-01-06 | 2022-10-08 |
 | [Música Tumbada](https://open.spotify.com/track/1FLwEHGsEZhtMEJWe68iU4) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2) | [Música Tumbada](https://open.spotify.com/album/0aY5iG38XKjli80zvkfJPP) | 4:10 | 2022-01-19 | 2022-10-08 |
+| [Nadie Sabe](https://open.spotify.com/track/6mna72pJ6vnWVM5HiDPXE4) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [Nadie Sabe](https://open.spotify.com/album/2uhNRyShqgZ0ztcX2eVsUs) | 3:00 | 2023-04-21 |  |
 | [Nave 687](https://open.spotify.com/track/2C8kQRpjB5N57EvpsZyU8i) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Nave 687](https://open.spotify.com/album/5pU9CpVy7lYs5ZL7Bp2Ai8) | 3:27 | 2022-07-15 | 2022-12-10 |
 | [Nena Trampa](https://open.spotify.com/track/2wjA6V7u0rLcFehcty11aN) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Nena Trampa](https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48) | 2:27 | 2022-06-10 |  |
 | [Nextel](https://open.spotify.com/track/36tSf9q3eSds5Ik8aekHUW) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Supremo](https://open.spotify.com/album/05frTDy5F3vZwLtiYVqUBh) | 2:28 | 2022-02-25 | 2022-05-03 |

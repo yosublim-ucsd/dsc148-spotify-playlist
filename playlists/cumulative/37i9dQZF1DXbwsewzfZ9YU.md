@@ -2,14 +2,14 @@
 
 ### [the Breakdown](https://open.spotify.com/playlist/37i9dQZF1DXbwsewzfZ9YU)
 
-> open the pit\. cover: Drug Church
+> open the pit\. cover: Incendiary
 
-87 songs - 3 hr 43 min
+94 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [a kiss for every hornet](https://open.spotify.com/track/4zjoNVLpEHz2SYlNhtxsMb) | [.gif from god](https://open.spotify.com/artist/4qVaCnGWlXCy5IP1nNVlT5) | [a kiss for every hornet](https://open.spotify.com/album/6C8roo7XUDgyfBS0RQrU8Y) | 3:34 | 2023-02-24 |  |
-| [Alone At The Bottom](https://open.spotify.com/track/2uYAw6gPeU8MQ1nXyJsMr7) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Alone At The Bottom](https://open.spotify.com/album/5I2MWP81o1sdBnSGR4o8qb) | 2:22 | 2023-02-24 |  |
+| [Alone At The Bottom](https://open.spotify.com/track/2uYAw6gPeU8MQ1nXyJsMr7) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Alone At The Bottom](https://open.spotify.com/album/5I2MWP81o1sdBnSGR4o8qb) | 2:22 | 2023-02-24 | 2023-04-22 |
 | [Ambivalence](https://open.spotify.com/track/2qfphPpOAkLAGr5hjBij4y) | [Sonagi](https://open.spotify.com/artist/7LMdXzRix6vqLE1PefCPAg) | [Precedent](https://open.spotify.com/album/6H7jy2vvzT4XPXC9ubX5by) | 2:20 | 2023-02-24 |  |
 | [Apology Denied](https://open.spotify.com/track/2XwNSG0m9nrLFxi9twvJCQ) | [Bad Blood](https://open.spotify.com/artist/3IBbnAgFWe1zOEuoNS8n53) | [Apology Denied](https://open.spotify.com/album/5tRUQCtgNounNjP9yjapsB) | 2:21 | 2023-03-08 |  |
 | [Attainable](https://open.spotify.com/track/4QUgb2DKAg4My1m2sbmNgw) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Attainable](https://open.spotify.com/album/0sqW3ChYBPwj3U7YJ0jbBx) | 1:43 | 2023-02-24 |  |
@@ -29,11 +29,14 @@
 | [Decompose](https://open.spotify.com/track/4xsSWQqdMLBRUoZny0yroT) | [Cruel Hand](https://open.spotify.com/artist/1SFgBn3VKdBuPao3H2ZlFV) | [Your World Won't Listen](https://open.spotify.com/album/4S99ZdjxAJsn4F8Hf7o3Rh) | 2:27 | 2023-02-24 |  |
 | [Delete It](https://open.spotify.com/track/76Xc9akiu0f47F0hWf6nFJ) | [MSPAINT](https://open.spotify.com/artist/5sn6aQFrJvjsSIuaomA4to), [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Post\-American](https://open.spotify.com/album/0O9TQ88Zb6NE6oa6Gkb0S9) | 2:22 | 2023-03-17 |  |
 | [Delusions of Grandeur](https://open.spotify.com/track/1PhnLoIh8emLvQ7mUM1CyJ) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Delusions of Grandeur](https://open.spotify.com/album/0ehJqGshc3gcqVjJeo6hy1) | 2:58 | 2023-02-24 |  |
+| [Different Strokes](https://open.spotify.com/track/0BKoH0V5oitnRXXdTJaruF) | [Pulses.](https://open.spotify.com/artist/0tko2stnUOqejIto8rKRh7) | [Different Strokes](https://open.spotify.com/album/1rDtz6r9JVwFBStd2vQpy1) | 2:52 | 2023-04-21 |  |
 | [Eden Will Drown](https://open.spotify.com/track/0HsmA18Xq2X9vvGRkBRAtu) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [Gather & Mourn](https://open.spotify.com/album/1p7pgNPg5MXtrSZTcGwSDf) | 3:12 | 2023-02-24 |  |
+| [Ends Meet](https://open.spotify.com/track/45poRdshttXq3rVcRcjTIx) | [Phantom Bay](https://open.spotify.com/artist/5WyFLIEQF4woWGUmgfyg7v) | [Ends Meet](https://open.spotify.com/album/1sYT5bfHQSyOZn03QXACWK) | 3:04 | 2023-04-21 |  |
 | [Epidemic](https://open.spotify.com/track/1iHxborQnkkiCOxVbWUOvL) | [Inclination](https://open.spotify.com/artist/4b3YHpER4myVsne2QK3kXe) | [Epidemic](https://open.spotify.com/album/1iwlH5lP8dVVq8d9R1dvVg) | 3:15 | 2023-02-24 |  |
 | [Eraser](https://open.spotify.com/track/10CEypPoBH5hoamgGXBa8X) | [Stepson](https://open.spotify.com/artist/5zAwXQwC3M34U7lKFgeX1y) | [Eraser](https://open.spotify.com/album/0jz1d4dpaGr4WRIGHfac02) | 3:22 | 2023-02-24 |  |
 | [Evil Finds Light](https://open.spotify.com/track/3p1IOO676P6CAq36OLDM7r) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [Evil Finds Light](https://open.spotify.com/album/21u5hMMH27Z71eKn0jc1lu) | 2:07 | 2023-02-24 |  |
 | [Familia Finito](https://open.spotify.com/track/6efk4XQySFHObUildXzh6e) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [Familia Finito](https://open.spotify.com/album/2NsPZAEAUb7jCoHSuVTA5z) | 1:27 | 2023-02-24 |  |
+| [Fool](https://open.spotify.com/track/3uYxIcmISekmOBE9uwMGtp) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Cerebral Circus](https://open.spotify.com/album/1UIGmyBWoI4jeDdO4hHSss) | 2:07 | 2023-04-21 |  |
 | [FUBAR](https://open.spotify.com/track/0TOoqfApKrOaCgvEFUDXHc) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [FUBAR](https://open.spotify.com/album/6eZo6l9EtVb5hM3MtdFnjx) | 2:52 | 2023-02-24 |  |
 | [Fun's Over](https://open.spotify.com/track/53bqV8I1QeWPBfLSTlP0Ok) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Hygiene](https://open.spotify.com/album/7o7dfudZfiankIzcfXXamT) | 1:52 | 2023-02-24 | 2023-03-11 |
 | [Gaining Purpose](https://open.spotify.com/track/08mIaXVJgO4LJqBbmCQXlN) | [Twitching Tongues](https://open.spotify.com/artist/3k1tPUpSlWppOSbIV1ivQy) | [Gaining Purpose Through Passionate Hatred](https://open.spotify.com/album/1odexVafvTYzG1bCxz9AiO) | 3:51 | 2023-02-24 |  |
@@ -58,9 +61,11 @@
 | [Neila Forever](https://open.spotify.com/track/0kDAjR7duweezdNqzEOvhg) | [The Hirs Collective](https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl), [Jeremy Bolm](https://open.spotify.com/artist/5DGjzHqlmOlJl962qJJ9s1), [Jordan Dreyeri](https://open.spotify.com/artist/7kgjZM6kPLX0DkuMq5AKVQ) | [We're Still Here](https://open.spotify.com/album/0byX67r0zvqZAMBiO8o2Yr) | 0:49 | 2023-04-03 |  |
 | [Nevermind the Dog](https://open.spotify.com/track/5Pi5gYpC4OhrW7byQgUMo0) | [Ways Away](https://open.spotify.com/artist/03qeBQwnTfKExVLq8dX000) | [Nevermind the Dog](https://open.spotify.com/album/1d48kZmZZHCSMfkS9GlsA9) | 2:44 | 2023-02-24 |  |
 | [New Lords](https://open.spotify.com/track/4sIMxYelrFrWIpwmaZDFbD) | [Mindforce](https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei) | [New Lords](https://open.spotify.com/album/3ooHHRgO3lE9JjCXAwZAqz) | 1:16 | 2023-02-24 |  |
+| [No Convenient Apocalypse](https://open.spotify.com/track/7osy7KUDA148K1RHAJOAp6) | [Pissed Jeans](https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V) | [No Convenient Apocalypse](https://open.spotify.com/album/6NJyvBrjCvowrBQARVSlD9) | 3:13 | 2023-04-21 |  |
 | [No Easy Way Out](https://open.spotify.com/track/4Avrrj95QH89EfgqdsViGh) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [Heavy Steps](https://open.spotify.com/album/4onFuBSmTMwtS17L0U8tEm) | 2:35 | 2023-02-24 |  |
+| [One Last Taste of Heaven](https://open.spotify.com/track/54jCh0tTSFQK9YOjw7gC2w) | [Portrayal of Guilt](https://open.spotify.com/artist/1Uwe1MbiKnPHAFh3qMWuNp) | [Devil Music](https://open.spotify.com/album/7sfiDMLBSmaP9IYJh7Qwlz) | 1:36 | 2023-04-21 |  |
 | [One Shot](https://open.spotify.com/track/0IRL0HGFCkMR253ZTRuYjd) | [Bitterwood](https://open.spotify.com/artist/3s3MeH5JMG6o4ofQD1RMdS) | [One Shot](https://open.spotify.com/album/7zjQLinDFBxVITU5Y2XWfm) | 2:01 | 2023-03-17 |  |
-| [Only Human](https://open.spotify.com/track/6tbWLCZ907Qh5k2aHEP4H3) | [Iron Lung](https://open.spotify.com/artist/1rXjfC9HsVIIHggTMuxvSL) | [Mental Distancing](https://open.spotify.com/album/2YgYYcJD41zpxUlJ2cUzPU) | 2:22 | 2023-02-24 |  |
+| [Only Human](https://open.spotify.com/track/6tbWLCZ907Qh5k2aHEP4H3) | [Iron Lung](https://open.spotify.com/artist/1rXjfC9HsVIIHggTMuxvSL) | [Mental Distancing](https://open.spotify.com/album/2YgYYcJD41zpxUlJ2cUzPU) | 2:22 | 2023-02-24 | 2023-04-22 |
 | [Opening Night](https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh) | 2:07 | 2023-02-24 |  |
 | [Our Time](https://open.spotify.com/track/4ixBL8rnxusIfowbY4nNA7) | [Wreckage](https://open.spotify.com/artist/44rq09D86R0gylTJkr6tEZ) | [Our Time](https://open.spotify.com/album/5jEyAyMvfwrVOlqwVB0UV4) | 1:02 | 2023-02-24 |  |
 | [Out Of The Picture](https://open.spotify.com/track/5FMNruOhLrl7qMlmSZw96U) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [The Streets Heard It First](https://open.spotify.com/album/2a2wvdfYKY8AWLL1RgevKI) | 2:12 | 2023-02-24 |  |
@@ -72,6 +77,7 @@
 | [Psychic Jailbreak](https://open.spotify.com/track/3SsqFrFdBNcZNqeYoZsb9o) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Psychic Jailbreak](https://open.spotify.com/album/1g7U1EbReW4TqUHYc1dTsd) | 3:03 | 2023-02-24 | 2023-04-09 |
 | [Reaper](https://open.spotify.com/track/1Z1gDW1hKjKM8HX3tmeKOq) | [Rotting Out](https://open.spotify.com/artist/7tjMOkm52H3Qiz3ty2tbNw) | [Ronin](https://open.spotify.com/album/1dMvXfgG3u4lJ144uO4elO) | 1:38 | 2023-02-24 |  |
 | [Relic of Damnation](https://open.spotify.com/track/0etLulfmYxPOTyznvesnt6) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [DEATHWESTERN](https://open.spotify.com/album/2OLqIZlftkG4KRGqno7ScY) | 2:27 | 2023-02-24 |  |
+| [Resurrection II](https://open.spotify.com/track/6ekWBiiyu5wPAixB5ZtK2H) | [Poison Ruïn](https://open.spotify.com/artist/0WHVA5E3ZEY5mxGkMYqPuB) | [Härvest](https://open.spotify.com/album/2BGvd8w4DoxN4DOjC47iQL) | 3:02 | 2023-04-21 |  |
 | [Shadow Figure](https://open.spotify.com/track/1LFFTtAGghxZLGZcBj2jPo) | [Big Laugh](https://open.spotify.com/artist/5xvWaAraKZdkRbY2qBip5c) | [Consume Me](https://open.spotify.com/album/6siK3BSYKvAxqZUF5KyMCN) | 2:31 | 2023-02-24 |  |
 | [Soul Deprivation](https://open.spotify.com/track/2znXHOOnt1MyScfn5BS9z0) | [Doomsday](https://open.spotify.com/artist/6mHdvtPmloBOmaLRo5dyJY) | [Depictions of Chaos](https://open.spotify.com/album/1HM8IieKhKLNVnw3oaeclh) | 2:28 | 2023-02-24 |  |
 | [Teeth](https://open.spotify.com/track/4kkhQOFrNzvkAiwyK6gV4w) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [Fade](https://open.spotify.com/album/0sCbs96kgvWVbTDtA2BPIR) | 4:30 | 2023-02-24 |  |
@@ -86,9 +92,10 @@
 | [Walk Away](https://open.spotify.com/track/3oTmI7QmcVxDarZBjIFo20) | [Throwdown](https://open.spotify.com/artist/18jFO6Z2Bpdv5jp8mXfChN) | [Haymaker](https://open.spotify.com/album/5jq1TKdbp3hZrT7iJw4VPS) | 3:01 | 2023-02-24 |  |
 | [War Above Los Angeles](https://open.spotify.com/track/2Andf7SMtdA0IVvwzwY2zS) | [OFF!](https://open.spotify.com/artist/4fY9hRf8gHMOszNWFhR1wB) | [Free LSD](https://open.spotify.com/album/5nER4eLsGNJadmUGamAsCF) | 2:55 | 2023-02-24 |  |
 | [Wash Away](https://open.spotify.com/track/6cHOi5m75d3W57ezmw4WRr) | [Ambleside](https://open.spotify.com/artist/7Fr8MbK08l3g9yHrXb4j4Y) | [Shape Me](https://open.spotify.com/album/4CrsYa4aZEQtJz3843zt31) | 3:27 | 2023-02-24 |  |
+| [Waste Not Want Not](https://open.spotify.com/track/1Afo69VKVJqAkhuxHyHnZ1) | [The Hirs Collective](https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl), [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan), [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [We're Still Here](https://open.spotify.com/album/0byX67r0zvqZAMBiO8o2Yr) | 1:38 | 2023-04-21 |  |
 | [Watch You Burn](https://open.spotify.com/track/7594pRzG619BLW7yfMpkXA) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [Watch You Burn](https://open.spotify.com/album/5jKlC0zbXWS7DbKCdf81gv) | 2:35 | 2023-02-24 | 2023-03-11 |
 | [We Came To Play](https://open.spotify.com/track/5ZNAXdzYkAMDqAokJ9Ub7Z) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Trouble The Water](https://open.spotify.com/album/1sgYQT8SDu5pjb0MPPqs3t) | 2:15 | 2023-02-24 |  |
-| [What You Sow](https://open.spotify.com/track/33nuEEW9RV5qj5iLE4eLZV) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Lavender](https://open.spotify.com/album/1KpGu5Pu9B3XlAW4Q9t9ho) | 1:31 | 2023-02-24 |  |
+| [What You Sow](https://open.spotify.com/track/33nuEEW9RV5qj5iLE4eLZV) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Lavender](https://open.spotify.com/album/1KpGu5Pu9B3XlAW4Q9t9ho) | 1:31 | 2023-02-24 | 2023-04-22 |
 | [Where I'm From](https://open.spotify.com/track/2L03e7IgbVjttShHSSXiv4) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [Where I'm From](https://open.spotify.com/album/4NqYpVo6K4eU4mi1g62p4m) | 2:20 | 2023-02-24 |  |
 | [Whispers of Your Death](https://open.spotify.com/track/0epZ0WL25qEmScVrKzZhL8) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Whispers of Your Death](https://open.spotify.com/album/4t0YjU738vLtyaBlQvrxp5) | 2:54 | 2023-02-24 |  |
 | [White Lies](https://open.spotify.com/track/7gkixf4Q6DRjjXakYReQzi) | [War On Women](https://open.spotify.com/artist/2cRFZn5EhqH0Wu1gHlOHlz) | [Wonderful Hell](https://open.spotify.com/album/25EyI6VNG9QS9TeQk6IJCY) | 3:30 | 2023-02-24 |  |

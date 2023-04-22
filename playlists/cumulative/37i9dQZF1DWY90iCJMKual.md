@@ -2,9 +2,9 @@
 
 ### [Pinas Vibes](https://open.spotify.com/playlist/37i9dQZF1DWY90iCJMKual)
 
-> Groove to the rhythm of OPM's R&B tunes\. Cover: Termula
+> Groove to the rhythm of OPM's R&B tunes\. Cover: KINDRED
 
-104 songs - 6 hr 19 min
+105 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Palayo](https://open.spotify.com/track/3FvYLNM5ShB5vDCzGw8syX) | [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Palayo](https://open.spotify.com/album/799Hq8BLuJ7lgwFr8dGJba) | 4:23 | 2022-12-14 |  |
 | [Palayo](https://open.spotify.com/track/50mdyhgtq7KyFYiuAfvQY9) | [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Palayo](https://open.spotify.com/album/1AVW36IAlLdbPzwtFzyHUA) | 4:23 | 2022-10-12 | 2023-02-10 |
 | [Palindrome](https://open.spotify.com/track/5GUzt0gFvANYwkD2NCEPrq) | [CJt](https://open.spotify.com/artist/5wMe42YSVxyFt6amGFPCbS), [AIMEE](https://open.spotify.com/artist/5VZCJ2KIGqwlYgq1MulghF) | [Palindrome](https://open.spotify.com/album/6MnaDiGGvjYaVyLSobh7si) | 4:27 | 2022-10-12 |  |
+| [Paraiso](https://open.spotify.com/track/5BfDIUvbucoFiJDQCcJeNp) | [Anji Salvacion](https://open.spotify.com/artist/5dUnvFYDMwg7j5JcERaGMk) | [Paraiso](https://open.spotify.com/album/6i6wKxhKqdmxvp6doDn3lg) | 3:08 | 2023-04-21 |  |
 | [Paraluman](https://open.spotify.com/track/1rznIP1bYsOGy9D9KyXueZ) | [Kyle Raphael](https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp) | [Paraluman](https://open.spotify.com/album/7CoTVzxzcWEB01I4uKe8Wa) | 4:41 | 2022-10-12 |  |
 | [Paramdam](https://open.spotify.com/track/35LQPNNntn1AOa3SExFVxz) | [Exiz](https://open.spotify.com/artist/27Sc6OmJmvUzQMr1Jg3mIi) | [Paramdam](https://open.spotify.com/album/5KmNhTJ2oYiZ1sbzt7fmiD) | 4:36 | 2022-10-12 |  |
 | [pasensya ka na](https://open.spotify.com/track/5sj1I1BhxUHY1NjHNiQF10) | [Owen Greyson](https://open.spotify.com/artist/0G7MRTGnVV99IUnlk91aJB), [Kris Krisla](https://open.spotify.com/artist/5cA9hnXUcnuR0IXaaHMkNJ) | [pasensya ka na](https://open.spotify.com/album/3GM7Ans54DPDt3UxWvs2Ov) | 2:55 | 2022-10-12 |  |

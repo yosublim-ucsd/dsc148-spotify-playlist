@@ -4,7 +4,7 @@
 
 > ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Jessi Uribe & Yeison Jiménez
 
-117 songs - 6 hr 54 min
+118 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Mis Borracheras](https://open.spotify.com/track/3V9ZEYBGRNiogfBzY5kffn) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Mis Borracheras](https://open.spotify.com/album/7gq0O9v34SWXIzggHHOZli) | 2:47 | 2022-08-18 |  |
 | [Mis Borracheras](https://open.spotify.com/track/5NSljTmp3TVnCxXw7Ru43B) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [YT Rocket Hits](https://open.spotify.com/album/5AHZY3HQTNVPpKYbRwj7gO) | 2:47 | 2022-10-14 | 2022-11-14 |
 | [Muy Bandida](https://open.spotify.com/track/74Q5KgYnmaaD4onOW77Deu) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [De Regreso al Dolor](https://open.spotify.com/album/5g86joQp94OGhGhKrzU9Yc) | 3:01 | 2022-08-18 |  |
-| [Métete en el Viaje](https://open.spotify.com/track/4iraYjp8zy8JG4KFptSWFo) | [Ivan Villazon](https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7), [Tuto López](https://open.spotify.com/artist/4YS5axj3KRs5XcZ005Qlb8) | [Métete en el Viaje](https://open.spotify.com/album/4LvRWqfbUBfqyighpXs3Fm) | 3:54 | 2023-02-03 |  |
+| [Métete en el Viaje](https://open.spotify.com/track/4iraYjp8zy8JG4KFptSWFo) | [Ivan Villazon](https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7), [Tuto López](https://open.spotify.com/artist/4YS5axj3KRs5XcZ005Qlb8) | [Métete en el Viaje](https://open.spotify.com/album/4LvRWqfbUBfqyighpXs3Fm) | 3:54 | 2023-02-03 | 2023-04-22 |
 | [Niégame Tres Veces](https://open.spotify.com/track/4mGRIaDuszXYCTGZfLjjpA) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Sigo Invicto](https://open.spotify.com/album/5nrVqq5BEfcoOYJ1eQQ0ki) | 4:29 | 2022-08-18 |  |
 | [Niña Bonita](https://open.spotify.com/track/7LSdAF6AUKmcsUTy3747rh) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh) | 5:10 | 2022-08-18 |  |
 | [niña bonita binomio de oro vallenato](https://open.spotify.com/track/0LoiirA5aUddQFAjYFpOkn) | [14 vallenatos sabroso corta venas vol.1 exitos](https://open.spotify.com/artist/06KHPOCzkYqiehC5da8hrl) | [14 vallenatos sabroso](https://open.spotify.com/album/0gXmF1WjNrMS7lr2IGvZlc) | 5:10 | 2022-10-14 | 2022-11-13 |
@@ -115,6 +115,7 @@
 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/7Kr0Vnbv1PYoIgfUyhJuFf) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Por el Mundo Entero](https://open.spotify.com/album/7BJTzb8pFpOSG6JpvWTCrU) | 4:56 | 2022-10-14 | 2022-11-13 |
 | [Sin Medir Distancias](https://open.spotify.com/track/6OIvXRQYGEhmvLjcYNcV4n) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [El Cocha Molina](https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs) | [Brindo Con El Alma](https://open.spotify.com/album/5sKPvJKVhhhYBPhs6kxbjM) | 5:00 | 2023-02-03 |  |
 | [Sin Ropa Eres Mía](https://open.spotify.com/track/5ByaGTrmhcpIXu6sasjagm) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Sin Ropa Eres Mía](https://open.spotify.com/album/3uAysXq7cISny7dDI93JRO) | 2:40 | 2022-08-18 |  |
+| [Sueña](https://open.spotify.com/track/0HdH0XoJgkRaSkkEVsp9kS) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Pa' Recordar](https://open.spotify.com/album/24IwkRGe4qWEWKGuciCt3z) | 4:18 | 2023-04-21 |  |
 | [Tarde Lo Conocí \- Regional Mexicano](https://open.spotify.com/track/3LpyI9jFcToBdJy00IbewV) | [Patricia Teherán](https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF) | [Tarde Lo Conocí \(Regional Mexicano\)](https://open.spotify.com/album/5UfGBfslsUaWjUVMlOHm2F) | 4:34 | 2022-08-18 | 2022-12-20 |
 | [Te Hubieras Ido Antes](https://open.spotify.com/track/0uw9huLXX2ne9bkisvYUFH) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Te Hubieras Ido Antes](https://open.spotify.com/album/6BIQDuXvqKsUb1jj6yvqFf) | 3:13 | 2022-08-18 |  |
 | [Te Superé](https://open.spotify.com/track/3nGC3Mt4aKEPNSG9Ur3xyQ) | [Giovanny Ayala](https://open.spotify.com/artist/1UVPfNPbTcrDocjT0O5jcv) | [Te Superé](https://open.spotify.com/album/6NecYoYGXMKTEn8kBf17iQ) | 2:53 | 2022-08-18 | 2022-12-20 |

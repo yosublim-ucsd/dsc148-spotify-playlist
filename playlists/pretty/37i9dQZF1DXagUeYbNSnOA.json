@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Amanda Puj\u00f3. Updates every Wednesday.",
-  "num_followers": 169620,
+  "num_followers": 169633,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTkyNzIwMCwwMDAwMDAwMDliMzk3Y2E5NzY5OWE3NWI2ZTM4NDYzMDdiOThlYmE2",
+  "snapshot_id": "MTY4MTkyNzIwMCwwMDAwMDAwMDZmZGM3ZjFiYzRiOTdmY2UzMDkyMTE3MDZiNDI3MjEx",
   "tracks": [
     {
       "added_at": "2023-04-19 18:00:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-04-19 18:00:00",
       "album": {
+        "name": "P\u00e1nico y Distorsi\u00f3n",
+        "url": "https://open.spotify.com/album/7hhroFtSzsFx9L9ALmKESc"
+      },
+      "artists": [
+        {
+          "name": "Piba",
+          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
+        }
+      ],
+      "duration_ms": 196951,
+      "name": "\u00c9xodo Mental",
+      "url": "https://open.spotify.com/track/1ZT6RqnorPxsQnQ2mzgwP1"
+    },
+    {
+      "added_at": "2023-04-19 18:00:00",
+      "album": {
         "name": "Las Pibas",
         "url": "https://open.spotify.com/album/4UJjY6XLhk7SuMZSsbM67R"
       },
@@ -615,18 +631,18 @@
     {
       "added_at": "2023-04-19 18:00:00",
       "album": {
-        "name": "P\u00e1nico y Distorsi\u00f3n",
-        "url": "https://open.spotify.com/album/7hhroFtSzsFx9L9ALmKESc"
+        "name": "te mirar\u00eda",
+        "url": "https://open.spotify.com/album/4BlvYZB9VQ5qlISigYwRnM"
       },
       "artists": [
         {
-          "name": "Piba",
-          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
+          "name": "Victoria Davancens",
+          "url": "https://open.spotify.com/artist/3C0A0jaQn169OBA4hfweQJ"
         }
       ],
-      "duration_ms": 196951,
-      "name": "\u00c9xodo Mental",
-      "url": "https://open.spotify.com/track/1ZT6RqnorPxsQnQ2mzgwP1"
+      "duration_ms": 223826,
+      "name": "te mirar\u00eda",
+      "url": "https://open.spotify.com/track/1VTM0nE0kPvf7g45CDEf8A"
     },
     {
       "added_at": "2023-04-19 18:00:00",
@@ -659,22 +675,6 @@
       "duration_ms": 196342,
       "name": "Coraz\u00f3n Fr\u00edo",
       "url": "https://open.spotify.com/track/5Ix7kzOMpmCrNBZ0Wc0uNT"
-    },
-    {
-      "added_at": "2023-04-19 18:00:00",
-      "album": {
-        "name": "te mirar\u00eda",
-        "url": "https://open.spotify.com/album/4BlvYZB9VQ5qlISigYwRnM"
-      },
-      "artists": [
-        {
-          "name": "Victoria Davancens",
-          "url": "https://open.spotify.com/artist/3C0A0jaQn169OBA4hfweQJ"
-        }
-      ],
-      "duration_ms": 223826,
-      "name": "te mirar\u00eda",
-      "url": "https://open.spotify.com/track/1VTM0nE0kPvf7g45CDEf8A"
     },
     {
       "added_at": "2023-04-19 18:00:00",
@@ -715,26 +715,6 @@
     {
       "added_at": "2023-04-19 18:00:00",
       "album": {
-        "name": "Cierto",
-        "url": "https://open.spotify.com/album/2jdcppCWNa80802PF01AuP"
-      },
-      "artists": [
-        {
-          "name": "Luca Laurito",
-          "url": "https://open.spotify.com/artist/7E5RaJlaFBjjD8nrZsK1iz"
-        },
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        }
-      ],
-      "duration_ms": 206266,
-      "name": "Cierto",
-      "url": "https://open.spotify.com/track/3alsIFbORQvU7j9AUsvhYj"
-    },
-    {
-      "added_at": "2023-04-19 18:00:00",
-      "album": {
         "name": "SUERTE",
         "url": "https://open.spotify.com/album/5QKexiENC5HezkBqafnEAb"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 243272,
       "name": "SUERTE",
       "url": "https://open.spotify.com/track/4SgIhxy6ViuwWZEB3tePLo"
+    },
+    {
+      "added_at": "2023-04-19 18:00:00",
+      "album": {
+        "name": "Cierto",
+        "url": "https://open.spotify.com/album/2jdcppCWNa80802PF01AuP"
+      },
+      "artists": [
+        {
+          "name": "Luca Laurito",
+          "url": "https://open.spotify.com/artist/7E5RaJlaFBjjD8nrZsK1iz"
+        },
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        }
+      ],
+      "duration_ms": 206266,
+      "name": "Cierto",
+      "url": "https://open.spotify.com/track/3alsIFbORQvU7j9AUsvhYj"
     },
     {
       "added_at": "2023-04-19 18:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 85351,
+  "num_followers": 85365,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMGI5MjJhN2Y0OWUzNDk0MDEyMDE2ZWQwYjg5MDBlZGFk",
+  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMGY4NTVlMTdiOTE4YjE0NWM3YWZhOGJiYTZmZTg4NDAw",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Rise Above Hate",
-        "url": "https://open.spotify.com/album/1ayupZtO3Z583NZ4HNPRmg"
-      },
-      "artists": [
-        {
-          "name": "Unknown T",
-          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
-        }
-      ],
-      "duration_ms": 112043,
-      "name": "SS Interlude",
-      "url": "https://open.spotify.com/track/0L0sXaqVYGpvXWcikG6zlk"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Love & Attention",
         "url": "https://open.spotify.com/album/4enxFg7zaeWZvmQwZSg5t3"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 157808,
       "name": "Love & Attention",
       "url": "https://open.spotify.com/track/1lhakluflmCQiaL4sjPMQA"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Rise Above Hate",
+        "url": "https://open.spotify.com/album/1ayupZtO3Z583NZ4HNPRmg"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        }
+      ],
+      "duration_ms": 112043,
+      "name": "SS Interlude",
+      "url": "https://open.spotify.com/track/0L0sXaqVYGpvXWcikG6zlk"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "In The Loop",
-        "url": "https://open.spotify.com/album/1ailFDm9fOYJ1gXTZf9fZS"
-      },
-      "artists": [
-        {
-          "name": "DC",
-          "url": "https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD"
-        }
-      ],
-      "duration_ms": 195933,
-      "name": "Paro(noia)",
-      "url": "https://open.spotify.com/track/3K7mXKhaan7cLsHUg4VL2I"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Stuck In My Ways",
         "url": "https://open.spotify.com/album/28wWPwJNWOyoVIYcmNJrxl"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 111253,
       "name": "Stuck In My Ways",
       "url": "https://open.spotify.com/track/5JzV1vTAr7dLQ2YU6b8GrF"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "In The Loop",
+        "url": "https://open.spotify.com/album/1ailFDm9fOYJ1gXTZf9fZS"
+      },
+      "artists": [
+        {
+          "name": "DC",
+          "url": "https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD"
+        }
+      ],
+      "duration_ms": 195933,
+      "name": "Paro(noia)",
+      "url": "https://open.spotify.com/track/3K7mXKhaan7cLsHUg4VL2I"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "If I knew how to save us",
-        "url": "https://open.spotify.com/album/4eXgOd7RqpRwBcW7ZgqKg1"
-      },
-      "artists": [
-        {
-          "name": "G!ft",
-          "url": "https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm"
-        }
-      ],
-      "duration_ms": 157664,
-      "name": "If I knew how to save us",
-      "url": "https://open.spotify.com/track/0qjykBuIzZe0p50OxRnWEj"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Left Back (Remix)",
         "url": "https://open.spotify.com/album/2o0x78MDfVvBaDLhHZ3By8"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 180413,
       "name": "Left Back - Remix",
       "url": "https://open.spotify.com/track/43IYnqZj6slsFqPTmBNS4E"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "If I knew how to save us",
+        "url": "https://open.spotify.com/album/4eXgOd7RqpRwBcW7ZgqKg1"
+      },
+      "artists": [
+        {
+          "name": "G!ft",
+          "url": "https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm"
+        }
+      ],
+      "duration_ms": 157664,
+      "name": "If I knew how to save us",
+      "url": "https://open.spotify.com/track/0qjykBuIzZe0p50OxRnWEj"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Suicycle",
+        "url": "https://open.spotify.com/album/48nLxoyzjbGKkpYreT7isy"
+      },
+      "artists": [
+        {
+          "name": "Mic Righteous",
+          "url": "https://open.spotify.com/artist/1WWT4mBMw1S2OTXF1HfKoe"
+        }
+      ],
+      "duration_ms": 392013,
+      "name": "Because I Love You",
+      "url": "https://open.spotify.com/track/5cKpTKVbBexwPIDGfx2nej"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Losing Interest",
         "url": "https://open.spotify.com/album/3p7UyKo0CDHbOhGycdtjzq"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 159753,
       "name": "Losing Interest",
       "url": "https://open.spotify.com/track/5ofyjvBIKa8VeP1nb3U7Kp"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Suicycle",
-        "url": "https://open.spotify.com/album/48nLxoyzjbGKkpYreT7isy"
-      },
-      "artists": [
-        {
-          "name": "Mic Righteous",
-          "url": "https://open.spotify.com/artist/1WWT4mBMw1S2OTXF1HfKoe"
-        }
-      ],
-      "duration_ms": 392013,
-      "name": "Because I Love You",
-      "url": "https://open.spotify.com/track/5cKpTKVbBexwPIDGfx2nej"
     },
     {
       "added_at": "2022-08-02 15:42:28",

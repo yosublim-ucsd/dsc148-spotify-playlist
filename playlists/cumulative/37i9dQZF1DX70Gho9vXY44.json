@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-03",
-  "description": "Desde la Sierra hasta el mar, Per\u00fa es una tierra de rimas y rap. Foto: Nero Lvigi, M2H",
+  "description": "Desde la Sierra hasta el mar, Per\u00fa es una tierra de rimas y rap. Foto: Jaze",
   "name": "RAP\u00fablica Inca",
   "tracks": [
     {
@@ -720,7 +720,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 345942,
       "name": "La Escuela (feat. T\u00fapac Amaru II, Chompa, Daske Gait\u00e1n & Terco92)",
       "url": "https://open.spotify.com/track/4k0VwbFDbdiSGFyVGyGD1F"
@@ -836,7 +836,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 121719,
       "name": "Me Haces Falta",
       "url": "https://open.spotify.com/track/40g8K2YezygVkel9kibS5a"
@@ -1006,6 +1006,32 @@
       "duration_ms": 222586,
       "name": "No Quieres Nada",
       "url": "https://open.spotify.com/track/7jGZ02gflu5DTLJgi1YUIp"
+    },
+    {
+      "album": {
+        "name": "No quiero un final",
+        "url": "https://open.spotify.com/album/7MyOIHGBrF8QRiYwgZUdos"
+      },
+      "artists": [
+        {
+          "name": "PLEIT\u00d8",
+          "url": "https://open.spotify.com/artist/7wasz5TnWDoaQWia1cuxzS"
+        },
+        {
+          "name": "Nia Vanie",
+          "url": "https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD"
+        },
+        {
+          "name": "Susanojuicio",
+          "url": "https://open.spotify.com/artist/32cwAgp6jfKF6fM2myJPp8"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237969,
+      "name": "No quiero un final",
+      "url": "https://open.spotify.com/track/64CPCpkhdmhb63M6ycEUaN"
     },
     {
       "album": {
@@ -1386,6 +1412,24 @@
       "duration_ms": 189053,
       "name": "Sabanas",
       "url": "https://open.spotify.com/track/5x0Ph9m3Dtzz38IyGC1AVM"
+    },
+    {
+      "album": {
+        "name": "TOY LOKAZO",
+        "url": "https://open.spotify.com/album/5Dqi0yKIDsT7Bds9F3VHIn"
+      },
+      "artists": [
+        {
+          "name": "Jaze",
+          "url": "https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359937,
+      "name": "sektor inesperado de Marfield",
+      "url": "https://open.spotify.com/track/5B7iP6UkS3Sw2h7RDDygqP"
     },
     {
       "album": {

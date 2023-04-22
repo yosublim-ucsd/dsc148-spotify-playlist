@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Manusia Aksara
 
-1,770 songs - 4 day 12 hr 26 min
+1,771 songs - 4 day 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1693,6 +1693,7 @@
 | [Warna](https://open.spotify.com/track/71SOhefwdNTJHViffC5MhH) | [Dimas Jimbo](https://open.spotify.com/artist/5iFYAR3d454wcmfqDz9Ril), [SebuahFadly](https://open.spotify.com/artist/39l1AdDhh9Ma5dVUBm5Dmt) | [Warna](https://open.spotify.com/album/6K5fB1PF6oXxTsmN5y4roD) | 2:48 | 2023-01-12 | 2023-01-27 |
 | [Warna Hariku](https://open.spotify.com/track/01kdSNuqP1siXo6lhKLYOR) | [Nammara](https://open.spotify.com/artist/0Oai8QngoubezHmgAKUrOX) | [Warna Hariku](https://open.spotify.com/album/7wd1o9YnADhb7Btsb908fs) | 3:29 | 2022-09-22 | 2022-10-14 |
 | [Warnai Hariku](https://open.spotify.com/track/1scYgLSuADure6MFa4eEta) | [Sendy Nurulita](https://open.spotify.com/artist/7DDBJWvw1cs7deI8V1cmEi) | [Warnai Hariku](https://open.spotify.com/album/1uIWHGWdTpLeb5GRn41pfo) | 3:40 | 2022-02-17 | 2022-03-05 |
+| [Warning Sirine Sound](https://open.spotify.com/track/28C6wg2CZjej8hBxWiIJ16) | [The Vuur](https://open.spotify.com/artist/7yrYejTQmbWHxoLXAYEOma) | [Warning Sirine Sound](https://open.spotify.com/album/6H9gDRHXvqAkXKuqeN3PLh) | 5:59 | 2023-04-20 |  |
 | [Waste](https://open.spotify.com/track/2dsCpOideYjCHZZvDDkB0A) | [angelana](https://open.spotify.com/artist/3BfinGyCz0cTmNSVzngSgf) | [Waste](https://open.spotify.com/album/0kbXCHVivtkk8TXzGlaSmc) | 3:48 | 2022-05-19 | 2022-06-03 |
 | [we grow through](https://open.spotify.com/track/4xx5IUXuzFK9j8ijuHTofI) | [thaniw](https://open.spotify.com/artist/3BzYBBe9UI2A7bs2x58H1i) | [we grow through](https://open.spotify.com/album/4HIvfeqq8Kt5JZ86l59WdB) | 2:08 | 2022-08-05 | 2022-08-20 |
 | [We Will Get Through This](https://open.spotify.com/track/0FfpsKp9Kk0XikF1xHIPYt) | [ease](https://open.spotify.com/artist/0DufYQJcuM2V7MfRShf9xY) | [We Will Get Through This](https://open.spotify.com/album/48JMEhSgJsVUxegxZO8bS8) | 4:01 | 2022-08-25 | 2022-09-09 |

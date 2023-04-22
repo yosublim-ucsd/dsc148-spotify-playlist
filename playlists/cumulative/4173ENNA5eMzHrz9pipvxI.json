@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover:  Showtek",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover:  The Stickmen Project",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -1037,6 +1037,28 @@
     },
     {
       "album": {
+        "name": "B2 The Old School",
+        "url": "https://open.spotify.com/album/2jmTRiQ84llE9R56NIPde7"
+      },
+      "artists": [
+        {
+          "name": "FTampa",
+          "url": "https://open.spotify.com/artist/6P6fVBXZjnqdgq2z2b8WlO"
+        },
+        {
+          "name": "The Otherz",
+          "url": "https://open.spotify.com/artist/2vi0mEbkU7fjjyJs1dcukY"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "B2 The Old School",
+      "url": "https://open.spotify.com/track/596H2wc56DHytSsVNC3ZdX"
+    },
+    {
+      "album": {
         "name": "Babek",
         "url": "https://open.spotify.com/album/6HRScRNJt8wrWZLfkIQnB8"
       },
@@ -2007,6 +2029,28 @@
     },
     {
       "album": {
+        "name": "Call Me Crazy",
+        "url": "https://open.spotify.com/album/0xDjG0HyU8cBswL78MbA6t"
+      },
+      "artists": [
+        {
+          "name": "Disco Fries",
+          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
+        },
+        {
+          "name": "LODATO",
+          "url": "https://open.spotify.com/artist/2uLjsXkHNJaxZTwVkDZktv"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135128,
+      "name": "Call Me Crazy",
+      "url": "https://open.spotify.com/track/6CKg1N3GpJMpOB5C8HMtcD"
+    },
+    {
+      "album": {
         "name": "Call You Out",
         "url": "https://open.spotify.com/album/6VsY5WXjTuHvnJe3oPhpqt"
       },
@@ -2118,7 +2162,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 211875,
       "name": "Can't Miss",
       "url": "https://open.spotify.com/track/2FWAqHDVwtldyMwv2HnRnn"
@@ -2780,6 +2824,28 @@
       "duration_ms": 187500,
       "name": "Dancing In The Dark - Radio Edit",
       "url": "https://open.spotify.com/track/3ayN4HDXZ79Nhzl92eAyko"
+    },
+    {
+      "album": {
+        "name": "Dancing On My Own",
+        "url": "https://open.spotify.com/album/7FqkQNTGhjO8on9HJK96Zp"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        },
+        {
+          "name": "Xillions",
+          "url": "https://open.spotify.com/artist/4bi8SmsdSp5AoD6RFZjyjW"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161718,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/64fbcsrPGAV8MkkDGGt9sC"
     },
     {
       "album": {
@@ -3527,6 +3593,32 @@
     },
     {
       "album": {
+        "name": "Dynamite (feat. Mougleta)",
+        "url": "https://open.spotify.com/album/5ceZ4UwKLLZ9ilzrNjPgnq"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Paradigm",
+          "url": "https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ"
+        },
+        {
+          "name": "Mougleta",
+          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139161,
+      "name": "Dynamite (feat. Mougleta)",
+      "url": "https://open.spotify.com/track/7Lijwh3vFfcvgLFNvPzKVL"
+    },
+    {
+      "album": {
         "name": "D\u00e9senchant\u00e9e (Oli\u2019s EuroRave Mix)",
         "url": "https://open.spotify.com/album/3EG2GluQhbHDQ3lZl30r2o"
       },
@@ -3608,7 +3700,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 204198,
       "name": "E-Motion",
       "url": "https://open.spotify.com/track/5eWPgMMyrVAefVGvZBnXnu"
@@ -3788,6 +3880,24 @@
       "duration_ms": 156480,
       "name": "Every Day",
       "url": "https://open.spotify.com/track/01M7x4t9oymyXHxs3hxjF1"
+    },
+    {
+      "album": {
+        "name": "Every Guy Like U",
+        "url": "https://open.spotify.com/album/5iepO9bRC4CaJ3WTw2yCJq"
+      },
+      "artists": [
+        {
+          "name": "SUB-X",
+          "url": "https://open.spotify.com/artist/1j8HYCn8bRMA3kYN66pVCG"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "Every Guy Like U",
+      "url": "https://open.spotify.com/track/6fxTkxPvON3rTqP6iOBRMY"
     },
     {
       "album": {
@@ -4082,7 +4192,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 155000,
       "name": "Feed Your Soul",
       "url": "https://open.spotify.com/track/1P8pPTpvVgp3nklyUtBcex"
@@ -4174,7 +4284,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 136874,
       "name": "Feel Like Coming Home",
       "url": "https://open.spotify.com/track/5lAZtr9ReykoA8yaNKFuWZ"
@@ -4520,6 +4630,24 @@
       "duration_ms": 155624,
       "name": "Flex Game",
       "url": "https://open.spotify.com/track/3tHAUjcO4ESpl1lJsMBnI4"
+    },
+    {
+      "album": {
+        "name": "Flight 643",
+        "url": "https://open.spotify.com/album/1m4JZKQwqQxh0KyPN75TFA"
+      },
+      "artists": [
+        {
+          "name": "Hel:sl\u00f8wed",
+          "url": "https://open.spotify.com/artist/153wxN1mEz167KM0a34zss"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172258,
+      "name": "Flight 643",
+      "url": "https://open.spotify.com/track/5nO8aesmgNBIJfYN1fMOhu"
     },
     {
       "album": {
@@ -5018,7 +5146,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 154285,
       "name": "Going Round Again (feat. Ayoni)",
       "url": "https://open.spotify.com/track/2YssH0iT8GvLINlrltx6KI"
@@ -6850,7 +6978,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 181961,
       "name": "Joshua Tree (feat. Z3LLA)",
       "url": "https://open.spotify.com/track/49ZRG9VBqHbvGbFkyOZNIZ"
@@ -6938,6 +7066,32 @@
       "duration_ms": 151351,
       "name": "Juliet",
       "url": "https://open.spotify.com/track/3gqt2C8vfhFzdAqlv8CM6Q"
+    },
+    {
+      "album": {
+        "name": "Juliet (KOPPY Remix)",
+        "url": "https://open.spotify.com/album/3gHM2o0pa2WI833tFi9amX"
+      },
+      "artists": [
+        {
+          "name": "Henri PFR",
+          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
+        },
+        {
+          "name": "Wave Wave",
+          "url": "https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9"
+        },
+        {
+          "name": "KOPPY",
+          "url": "https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137379,
+      "name": "Juliet - KOPPY Remix",
+      "url": "https://open.spotify.com/track/1Y0ScdmF1Nh8AQ0A5xY4Jy"
     },
     {
       "album": {
@@ -7290,6 +7444,24 @@
       "duration_ms": 153442,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
+    },
+    {
+      "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px"
     },
     {
       "album": {
@@ -7783,6 +7955,32 @@
     },
     {
       "album": {
+        "name": "Lluvia en Colombia (feat. El Mayam)",
+        "url": "https://open.spotify.com/album/3f2u3ZowZuBrLbLqGyz0fi"
+      },
+      "artists": [
+        {
+          "name": "Gregor Salto",
+          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
+        },
+        {
+          "name": "FIGHT CLVB",
+          "url": "https://open.spotify.com/artist/7d6RF1h3kPu6Ij0RXcTeJg"
+        },
+        {
+          "name": "El Mayam",
+          "url": "https://open.spotify.com/artist/0NYR6imR2oVp8iy4KF1OEj"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174955,
+      "name": "Lluvia en Colombia (feat. El Mayam)",
+      "url": "https://open.spotify.com/track/3KowtgFAQpAqdZ8A0GOpTX"
+    },
+    {
+      "album": {
         "name": "Load Up",
         "url": "https://open.spotify.com/album/4SmNk39JGDsUIQ3dRZmCzY"
       },
@@ -7944,7 +8142,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 171428,
       "name": "Love For Love",
       "url": "https://open.spotify.com/track/4nfXHdRAn7GOcW6LzHxMpZ"
@@ -8334,7 +8532,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 173467,
       "name": "Made You Do",
       "url": "https://open.spotify.com/track/5wOSdtHawVXW7zTQBIcPRj"
@@ -8422,7 +8620,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 139921,
       "name": "Make it Down (Swatkat Edit)",
       "url": "https://open.spotify.com/track/5hs17L4NxZkyKxYcxVPZT3"
@@ -8664,7 +8862,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 195000,
       "name": "Mera Dil",
       "url": "https://open.spotify.com/track/4CgB8kj1mrBOkeGnTTw28m"
@@ -8993,6 +9191,58 @@
     },
     {
       "album": {
+        "name": "Move Your Body (RAIZHELL Remix) [Slowed Version]",
+        "url": "https://open.spotify.com/album/0TlEL0XAPhHyTJXB6Tc944"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        },
+        {
+          "name": "RAIZHELL",
+          "url": "https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172320,
+      "name": "Move Your Body (RAIZHELL Remix) - Slowed Version",
+      "url": "https://open.spotify.com/track/02FA8U1HALz84ty4W6XZFw"
+    },
+    {
+      "album": {
+        "name": "Move Your Body (RAIZHELL Remix) [Sped Up Version]",
+        "url": "https://open.spotify.com/album/71qg3j99p4f9yqPDiWmmrF"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        },
+        {
+          "name": "RAIZHELL",
+          "url": "https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127680,
+      "name": "Move Your Body (RAIZHELL Remix) - Sped Up Version",
+      "url": "https://open.spotify.com/track/1bapyODGIVM0PpTay7kxh5"
+    },
+    {
+      "album": {
         "name": "Move Your Body (Amitre Remix)",
         "url": "https://open.spotify.com/album/3DqJhc3tZlCbZtg2bAREH8"
       },
@@ -9128,6 +9378,24 @@
       "duration_ms": 155520,
       "name": "Move Your Body - SUBB & CAJUN Remix",
       "url": "https://open.spotify.com/track/6ARi6lMT8g9MCLfxonyiag"
+    },
+    {
+      "album": {
+        "name": "Mumba EP",
+        "url": "https://open.spotify.com/album/4UnaLZo7HpgSX8MoZpOSYZ"
+      },
+      "artists": [
+        {
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168745,
+      "name": "Mumba",
+      "url": "https://open.spotify.com/track/093pNDCe1KEptfuBLXWIHI"
     },
     {
       "album": {
@@ -9374,7 +9642,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 186754,
       "name": "My Neck, My Back",
       "url": "https://open.spotify.com/track/37zAxyf8mkOLjNBIMFZQUd"
@@ -9674,7 +9942,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 209516,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/7eByPAx572J3cclC8y3mkp"
@@ -9722,7 +9990,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 144253,
       "name": "Nikes (ANGELPLAYA Remix)",
       "url": "https://open.spotify.com/track/4FII6jFjWVJ3vJQZBxmgBO"
@@ -9859,6 +10127,32 @@
     },
     {
       "album": {
+        "name": "No More (feat. Veronica Bravo)",
+        "url": "https://open.spotify.com/album/57NU4PCcrt5z9aeDq5hsXR"
+      },
+      "artists": [
+        {
+          "name": "Lockdown",
+          "url": "https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt"
+        },
+        {
+          "name": "Marnage",
+          "url": "https://open.spotify.com/artist/1WVacTvQLSx5Kg3sji9WZP"
+        },
+        {
+          "name": "Veronica Bravo",
+          "url": "https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "No More (feat. Veronica Bravo)",
+      "url": "https://open.spotify.com/track/0aAHHE4Gs1MgL1WVVHYqvX"
+    },
+    {
+      "album": {
         "name": "Nobody Loves You",
         "url": "https://open.spotify.com/album/37rBCzoFK0W67ZKRMaKKk4"
       },
@@ -9896,6 +10190,24 @@
       "duration_ms": 151818,
       "name": "Not My Fault",
       "url": "https://open.spotify.com/track/61hj380D3J9Eem8V17pwO9"
+    },
+    {
+      "album": {
+        "name": "Not Over Yet",
+        "url": "https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6"
+      },
+      "artists": [
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161904,
+      "name": "Not Over Yet",
+      "url": "https://open.spotify.com/track/6IefsGUYN0q8BBrDq1EhiC"
     },
     {
       "album": {
@@ -10326,7 +10638,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 214354,
       "name": "Otherside",
       "url": "https://open.spotify.com/track/39vDtKwVN5meiIUwhFWaCd"
@@ -11936,7 +12248,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 157744,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/1H1F2Kbs6pReWIQ2xK8WmZ"
@@ -12108,6 +12420,24 @@
       "duration_ms": 146000,
       "name": "Si Es Trucho Es Trucho (feat. El Alfa & Farruko) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/2myCSCZ8dbZmtSJs6xOWbN"
+    },
+    {
+      "album": {
+        "name": "Sick",
+        "url": "https://open.spotify.com/album/1IEHHhA8ZT0AqC6LLiWOp2"
+      },
+      "artists": [
+        {
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Sick",
+      "url": "https://open.spotify.com/track/2GbDbMyyLggfBWh8NCMBLj"
     },
     {
       "album": {
@@ -12544,6 +12874,32 @@
       "duration_ms": 170061,
       "name": "Space Trip",
       "url": "https://open.spotify.com/track/1tXXkKnv5QfIQ88XNNPvbf"
+    },
+    {
+      "album": {
+        "name": "Spanish Vibe (feat. Erez Netz)",
+        "url": "https://open.spotify.com/album/4TSTYgmnQlXmBgUmILRzVq"
+      },
+      "artists": [
+        {
+          "name": "VINO",
+          "url": "https://open.spotify.com/artist/6bTyu2orY0Gs9dvEcTqmxZ"
+        },
+        {
+          "name": "ASHER SWISSA",
+          "url": "https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM"
+        },
+        {
+          "name": "Erez Netz",
+          "url": "https://open.spotify.com/artist/5hYWiQQPRuTktbEfEMxpLi"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249604,
+      "name": "Spanish Vibe (feat. Erez Netz)",
+      "url": "https://open.spotify.com/track/7o1hVcPJT3V3mWaq4rnLHr"
     },
     {
       "album": {
@@ -13190,7 +13546,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 142200,
       "name": "Take Me Higher",
       "url": "https://open.spotify.com/track/67XJUKj8k8hKyjjn0sG8xA"
@@ -13910,7 +14266,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 140952,
       "name": "Thing Called Love",
       "url": "https://open.spotify.com/track/3IJOxTXxF4NmIcSeU1Xmdv"
@@ -15318,6 +15674,32 @@
       "duration_ms": 146706,
       "name": "With My Friends",
       "url": "https://open.spotify.com/track/69wzXH2xyoQCaMydQ45rUt"
+    },
+    {
+      "album": {
+        "name": "With You (feat. SGNLS)",
+        "url": "https://open.spotify.com/album/1eoyrSCfirxMDE9tRHgMHY"
+      },
+      "artists": [
+        {
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+        },
+        {
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+        },
+        {
+          "name": "SGNLS",
+          "url": "https://open.spotify.com/artist/38eaRFn5ynDhdJ7VT3tyfu"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159374,
+      "name": "With You (feat. SGNLS)",
+      "url": "https://open.spotify.com/track/3MJDrLcr2KeEFyBY5AFyp0"
     },
     {
       "album": {

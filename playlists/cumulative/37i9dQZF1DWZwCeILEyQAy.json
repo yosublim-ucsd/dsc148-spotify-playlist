@@ -16,10 +16,32 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 93455,
       "name": "11:11",
       "url": "https://open.spotify.com/track/5mVcYCCKAKkOW1Yjjgo1zh"
+    },
+    {
+      "album": {
+        "name": "11:11 (feat. YN Jay)",
+        "url": "https://open.spotify.com/album/3LrvkDGx61JgBVWfiDPlDG"
+      },
+      "artists": [
+        {
+          "name": "Lil Kayla",
+          "url": "https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp"
+        },
+        {
+          "name": "YN Jay",
+          "url": "https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174705,
+      "name": "11:11 (feat. YN Jay)",
+      "url": "https://open.spotify.com/track/13VSMCirjOCTonWVYJkJwu"
     },
     {
       "album": {
@@ -542,7 +564,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 99465,
       "name": "berserk",
       "url": "https://open.spotify.com/track/589qel3bVhjWq7XCRZwxLa"
@@ -750,6 +772,24 @@
       "duration_ms": 106736,
       "name": "BING BONG",
       "url": "https://open.spotify.com/track/7iZrmR8qfdFYhYzHUDykyi"
+    },
+    {
+      "album": {
+        "name": "breeze",
+        "url": "https://open.spotify.com/album/5KXabmouzMRbYOfqtSCNhI"
+      },
+      "artists": [
+        {
+          "name": "Vayda",
+          "url": "https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84976,
+      "name": "bingo",
+      "url": "https://open.spotify.com/track/1jxB8bJcHFeMuKPHug1icD"
     },
     {
       "album": {
@@ -2229,6 +2269,28 @@
     },
     {
       "album": {
+        "name": "FW That",
+        "url": "https://open.spotify.com/album/6Tz3mpxCfet4VDkUHy1nSD"
+      },
+      "artists": [
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        },
+        {
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158171,
+      "name": "FW That",
+      "url": "https://open.spotify.com/track/28u5CGeIstPNFZcyZ8OAg7"
+    },
+    {
+      "album": {
         "name": "Gang Gang",
         "url": "https://open.spotify.com/album/6GxrvQByBYsEumpvryoZgK"
       },
@@ -2310,6 +2372,28 @@
       "duration_ms": 101226,
       "name": "Gator Season",
       "url": "https://open.spotify.com/track/0B0kOrauoAebBdoax6C0Y4"
+    },
+    {
+      "album": {
+        "name": "GEEKALEEK (feat. BIA)",
+        "url": "https://open.spotify.com/album/2ZaMFmBHgflgxKcmy05tuH"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "GEEKALEEK (feat. BIA)",
+      "url": "https://open.spotify.com/track/51hjlwiTLAHZxkKS28R38R"
     },
     {
       "album": {
@@ -2444,7 +2528,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 283281,
       "name": "Glass Slipper Flows",
       "url": "https://open.spotify.com/track/3vErHLskgUGG6CRu07Aggn"
@@ -2563,6 +2647,24 @@
     },
     {
       "album": {
+        "name": "Surviving Queen Key",
+        "url": "https://open.spotify.com/album/05YX7pNDoPh5VpwO3ew2aE"
+      },
+      "artists": [
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99190,
+      "name": "Guns & Butter",
+      "url": "https://open.spotify.com/track/37ysjKJ8jO6AItn0CJaTuJ"
+    },
+    {
+      "album": {
         "name": "Halloween Flow",
         "url": "https://open.spotify.com/album/19E9DLLVGzf9aYAEoy7lwa"
       },
@@ -2668,7 +2770,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 147641,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/6yDSzYsva8buINy7piNZ0b"
@@ -4147,6 +4249,24 @@
     },
     {
       "album": {
+        "name": "Pose",
+        "url": "https://open.spotify.com/album/3jlbP9E8t5Wit8c3J7W79e"
+      },
+      "artists": [
+        {
+          "name": "Connie Diiamond",
+          "url": "https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158750,
+      "name": "Pose",
+      "url": "https://open.spotify.com/track/6KvnHekckJj5O0Op3cplgo"
+    },
+    {
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/3C2jY3Y43OQk07n4Pmo9wH"
       },
@@ -4234,7 +4354,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 154869,
       "name": "Princess Diana",
       "url": "https://open.spotify.com/track/2doammtCiLQMD8LXIKl4OE"
@@ -4277,6 +4397,28 @@
     },
     {
       "album": {
+        "name": "Princess Diana (with Nicki Minaj) [Versions]",
+        "url": "https://open.spotify.com/album/00eK46cfChKfGZcYZcaWSa"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198067,
+      "name": "Princess Diana (with Nicki Minaj) [Extendo Clip]",
+      "url": "https://open.spotify.com/track/62k3kkUQmWan59sH3Lzt1t"
+    },
+    {
+      "album": {
         "name": "Problem",
         "url": "https://open.spotify.com/album/3OTsLgRdYM4OMNa8U4TaIq"
       },
@@ -4306,7 +4448,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 160082,
       "name": "PTSD",
       "url": "https://open.spotify.com/track/3iKgOBVydNBwzWxucBI3n4"
@@ -4444,7 +4586,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 167000,
       "name": "Real Freak",
       "url": "https://open.spotify.com/track/6ThKqlrpzhNKuTLTlhTgl9"

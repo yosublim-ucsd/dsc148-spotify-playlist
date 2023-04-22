@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKMUBLWSs95.md) - [plain]
 
 > Discover new releases and rising artists from the classical world\. Cover: Erland Cooper
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,182 likes - 79 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,257 likes - 79 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Movement 5 \- Pt\. 2](https://open.spotify.com/track/3y3Z3ZoxelCsCEIYZXXAyR) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [Scottish Ensemble](https://open.spotify.com/artist/7ruv7Qzy1XmFJui8t2s4sJ), [Simon Armitage](https://open.spotify.com/artist/5iVbHVIHDvjsao44sbzBzt) | [Movement 5 \- Pt\. 2](https://open.spotify.com/album/2jIbt2grWCWpPCgOUwNpeX) | 3:58 |
+| 1 | [Movement 5 \- Pt\. 2](https://open.spotify.com/track/3y3Z3ZoxelCsCEIYZXXAyR) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [Scottish Ensemble](https://open.spotify.com/artist/7ruv7Qzy1XmFJui8t2s4sJ), [Simon Armitage](https://open.spotify.com/artist/5iVbHVIHDvjsao44sbzBzt), [Josephine Stephenson](https://open.spotify.com/artist/1H7ShLxcYKrkdluOqoQBDm) | [Movement 5 \- Pt\. 2](https://open.spotify.com/album/2jIbt2grWCWpPCgOUwNpeX) | 3:58 |
 | 2 | [Nocturne in C\-Sharp Minor, Op\. Posth.](https://open.spotify.com/track/5SNE9Fx3Xd5FDaHUFmorI7) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [James Rhodes](https://open.spotify.com/artist/5CDonRtIeV3ZYeE8nFjBUh) | [Nocturne in C\-Sharp Minor, Op\. Posth.](https://open.spotify.com/album/3qgkh9Z2MUqhP4wGQl2FKm) | 4:03 |
 | 3 | [Piano Concerto: XI\. Cadenza IV & Coda](https://open.spotify.com/track/3VI0Ble94EP7HE6JMzyFzD) | [Teddy Abrams](https://open.spotify.com/artist/3UTRsqXCKPP0DBbmvKdBLe), [Yuja Wang](https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w), [Louisville Orchestra](https://open.spotify.com/artist/7rSP8ABSnCNjcW6J6bjhqK) | [The American Project](https://open.spotify.com/album/62yaHCNdy2u9miQXcvwPS8) | 2:43 |
 | 4 | [Tranquility II](https://open.spotify.com/track/3C6SnHzfIxlUFyVPK7vqJG) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Grace Davidson](https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a), [Brian Snow](https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi) | [SLEEP: Tranquility Base](https://open.spotify.com/album/47SL4kZlIzoTa3CMsT5ZNL) | 1:22 |

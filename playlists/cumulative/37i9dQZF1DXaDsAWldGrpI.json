@@ -1239,6 +1239,24 @@
     },
     {
       "album": {
+        "name": "My Jesus (Anniversary Deluxe)",
+        "url": "https://open.spotify.com/album/3ics5XSj02ZTkwmm3S2yrF"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237488,
+      "name": "My Jesus - Live From Kentucky",
+      "url": "https://open.spotify.com/track/6n39kdFmrDM9HOmQQaeZ73"
+    },
+    {
+      "album": {
         "name": "Spotify Live (Live From Austin, TX)",
         "url": "https://open.spotify.com/album/1uNyPWW6YzdIBWxwq5BiBE"
       },

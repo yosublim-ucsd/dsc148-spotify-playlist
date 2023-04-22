@@ -4,7 +4,7 @@
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:  <a href="https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9?si=GfxlfFB8QF\-zvacXwbVGrQ"> Kirani Ayat </a>
 
-154 songs - 8 hr 19 min
+156 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Change Your Style \(feat\. st Lennon, KiDi & Kojo Manuel\)](https://open.spotify.com/track/6RjeOjvhLRWaGvUracU23d) | [DJ Vyrusky](https://open.spotify.com/artist/20uZPZ6EXItffkdLevoEdV), [st Lennon](https://open.spotify.com/artist/1EwRNWlGnMEf3K515NAPvB), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Kojo Manuel](https://open.spotify.com/artist/25ybMiGzi0JBQhRKg7VEO6) | [Change Your Style \(feat\. st Lennon, KiDi & Kojo Manuel\)](https://open.spotify.com/album/1y3Kph8I0PKQh8c8r3jvPb) | 2:12 | 2022-11-04 | 2022-12-02 |
 | [Chop Life](https://open.spotify.com/track/64j2xnJweYeCQvycBGBmLR) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [Chop Life](https://open.spotify.com/album/4vxbBbvegnEZ8wMiH7Y6lh) | 3:00 | 2023-04-20 |  |
 | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf) | 3:33 | 2022-11-04 | 2023-03-03 |
+| [Come My Way](https://open.spotify.com/track/2jdSMlaKrW0lnMAqrHz4TU) | [Juic3Boy](https://open.spotify.com/artist/5wb69ju4N9tnD2Po57xNs5) | [Come My Way](https://open.spotify.com/album/70htfJhneMnge2Po7Bwx6a) | 3:40 | 2023-04-20 |  |
 | [Commando](https://open.spotify.com/track/7Ih9QFeuk543iGa2kl7OVS) | [Fancy Gadam](https://open.spotify.com/artist/3uDHTGGaPazfBhlfXtQyzc) | [Commando](https://open.spotify.com/album/3X1BdyHOtJLJWRUMo5bIaR) | 3:34 | 2023-03-17 | 2023-03-25 |
 | [Confam](https://open.spotify.com/track/5yu4sc1rWJzhMQk3l7SiHi) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:43 | 2022-11-15 |  |
 | [Country Side \(feat\. Black Sherif\)](https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:40 | 2023-01-13 |  |
@@ -113,6 +114,7 @@
 | [Over](https://open.spotify.com/track/4AqSMNtn3vFqE0OScxvEps) | [Thirtn](https://open.spotify.com/artist/2DJRjIwHAj1DdOo6pBcM6v) | [Over](https://open.spotify.com/album/0SvEJsifHLZ7VGMZaan2pc) | 3:02 | 2023-03-10 | 2023-03-18 |
 | [Papabi](https://open.spotify.com/track/0u1w6JiN1ApGtWwDLXY2dD) | [Mishasha](https://open.spotify.com/artist/2X8BDJoWGo3VkrzPy2fN7W), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Papabi](https://open.spotify.com/album/09kaeUGlamtNLY21BAoREx) | 3:45 | 2023-02-23 | 2023-03-03 |
 | [Partey](https://open.spotify.com/track/5kT37vOS7z3VxV6o1B74cw) | [Boomski Radio](https://open.spotify.com/artist/6KN6uOM3j4npLjbyL2MKHQ), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Eddie Kadi](https://open.spotify.com/artist/24UVDiSRkXbOcEtwZgWEwS) | [Partey](https://open.spotify.com/album/7vQtVN9DI7F5viEpqakYj4) | 2:56 | 2023-03-17 | 2023-04-15 |
+| [Password](https://open.spotify.com/track/0YOYvVo7fBQkPp0yDVkEcH) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Password](https://open.spotify.com/album/0eCBNI8JsiNniDF6KZn7UP) | 3:09 | 2023-04-20 |  |
 | [Patek](https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Patek](https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0) | 3:38 | 2022-11-04 |  |
 | [Picture](https://open.spotify.com/track/3A2w2RbkpNnJpYUohOcOEf) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:37 | 2022-11-04 |  |
 | [Praise](https://open.spotify.com/track/6vuItm60bi4U9UOgvYanSp) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Praise](https://open.spotify.com/album/6Q59aB1v3sjwKWddsaLt9K) | 3:22 | 2022-11-04 |  |

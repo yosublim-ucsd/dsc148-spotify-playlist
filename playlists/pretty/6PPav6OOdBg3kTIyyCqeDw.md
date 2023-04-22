@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/6PPav6OOdBg3kTIyyCqeDw.md) - [plain]
 
 > A collection of Hip Hop hits and viral trends feat Lil Baby, Migos, GloRilla &amp; more\. Updated weekly!  Cover: Ice Spice
 
-[Digster](https://open.spotify.com/user/digster.fm) - 12,018 likes - 49 songs - 2 hr 38 min
+[Digster](https://open.spotify.com/user/digster.fm) - 12,020 likes - 49 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Da Girls \(Girls Mix\) \[feat\. Lola Brooke & Lady London\]](https://open.spotify.com/track/7ePT9TlNfASJdDB8v9xbBD) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Lady London](https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4) | [Da Girls \(Girls Mix\) \[feat\. Lola Brooke & Lady London\]](https://open.spotify.com/album/317PcUzE4jLbru2ex8v1k9) | 3:04 |
+| 1 | [Da Girls \(Girls Mix\) \[feat\. Lola Brooke & Lady London\]](https://open.spotify.com/track/7ePT9TlNfASJdDB8v9xbBD) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Da Girls \(Girls Mix\) \[feat\. Lola Brooke & Lady London\]](https://open.spotify.com/album/317PcUzE4jLbru2ex8v1k9) | 3:04 |
 | 2 | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK) | 2:52 |
 | 3 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 |
 | 4 | [Flaunt It/Cheap](https://open.spotify.com/track/7bxegQfGfIc9ybrQafVtf8) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 4:00 |

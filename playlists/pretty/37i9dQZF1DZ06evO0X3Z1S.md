@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 
 > This is Jonas Blue\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,113 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,130 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 | 39 | [My Life Is Music \- Jonas Blue Remix](https://open.spotify.com/track/2PnEzfFz03XKGU4JqrCw8A) | [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI), [The Visionary](https://open.spotify.com/artist/2mjMWOig2tCmJsm198htSs), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [My Life Is Music \(Jonas Blue Remix\)](https://open.spotify.com/album/7beqHc1JyjadCU4lIAWdRG) | 3:15 |
 | 40 | [Bum Bum Tam Tam \- Jonas Blue Remix](https://open.spotify.com/track/7vh69SQxqTfa5tsG4zeZOk) | [MC Fioti](https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Bum Bum Tam Tam \(feat\. Future\) \[Jonas Blue Remix\]](https://open.spotify.com/album/0MZO7gD4hAtniirDVl1v0A) | 3:06 |
 
-Snapshot ID: `MjgwMzMyMzUsMDAwMDAwMDBiMDgyOTdkNjk1NTAzNjFkNTMwZGZkZTUwZDViZGI0MA==`
+Snapshot ID: `MjgwMzQ5ODIsMDAwMDAwMDBlNzg5NzBiYzlkMzc2OWVmNjQxOTllMWU3ZGZjYjNhZA==`

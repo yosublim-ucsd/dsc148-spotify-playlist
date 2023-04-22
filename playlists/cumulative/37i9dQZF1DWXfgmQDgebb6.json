@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Korean hipster & experimental music essential. \ub2f9\uc2e0\uc758 \ud799\uc2a4\ud130 \uac10\uc131\uc744 \ucda9\uc804\ud574\uc904 \uc778\ub514 \uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (Cover: Jclef)",
+  "description": "Korean hipster & experimental music essential. \ub2f9\uc2e0\uc758 \ud799\uc2a4\ud130 \uac10\uc131\uc744 \ucda9\uc804\ud574\uc904 \uc778\ub514 \uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (Cover: jclef)",
   "name": "Hipster K' Pack",
   "tracks": [
     {
@@ -216,7 +216,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 251693,
       "name": "Aspirin Overdose",
       "url": "https://open.spotify.com/track/2k8uwXICRE6Bwy7TZZI2KA"
@@ -484,6 +484,28 @@
       "duration_ms": 263026,
       "name": "Borrowed Tongue",
       "url": "https://open.spotify.com/track/1W61wgNleiM0yPa0rEkdVF"
+    },
+    {
+      "album": {
+        "name": "Makintosh",
+        "url": "https://open.spotify.com/album/2mD6lUcnLEIptN8Uojr6ZN"
+      },
+      "artists": [
+        {
+          "name": "Makin",
+          "url": "https://open.spotify.com/artist/3alYdXKFbIUgOmhbEtP1kA"
+        },
+        {
+          "name": "Chu Seo Jun",
+          "url": "https://open.spotify.com/artist/1rVGJZbfXkVcGv0qpOprl2"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173686,
+      "name": "Break it up",
+      "url": "https://open.spotify.com/track/2iXTpqbFeiWhySXHW2HTSX"
     },
     {
       "album": {
@@ -881,6 +903,28 @@
     },
     {
       "album": {
+        "name": "FUTURECORE",
+        "url": "https://open.spotify.com/album/6bguTmjDjQEJ9Eti39cyof"
+      },
+      "artists": [
+        {
+          "name": "Futuristic Swaver",
+          "url": "https://open.spotify.com/artist/1IoxcWz8vPDGOJBQNCGEvF"
+        },
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "cry on the dancefloor (Feat. Paloalto)",
+      "url": "https://open.spotify.com/track/4j4qFc9zqvwfTP5fqQLgSb"
+    },
+    {
+      "album": {
         "name": "NOV3L",
         "url": "https://open.spotify.com/album/4hngFrSqcd2P7zgwKmooh9"
       },
@@ -932,7 +976,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 212226,
       "name": "Damn Cold",
       "url": "https://open.spotify.com/track/0rn1H3305mSdVSU8Nkeg49"
@@ -3478,7 +3522,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 182394,
       "name": "New",
       "url": "https://open.spotify.com/track/3RbkzuLs2u9TprBTPnUp4W"
@@ -3616,6 +3660,24 @@
       "duration_ms": 196666,
       "name": "OH MESS",
       "url": "https://open.spotify.com/track/2RtjsWYPQg9oJsDFFTOB25"
+    },
+    {
+      "album": {
+        "name": "insatiable <3",
+        "url": "https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA"
+      },
+      "artists": [
+        {
+          "name": "0WAVE",
+          "url": "https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163266,
+      "name": "oh yeah",
+      "url": "https://open.spotify.com/track/6HcYZ1SlmnmiPJ5oXwoT9y"
     },
     {
       "album": {
@@ -3812,6 +3874,24 @@
       "duration_ms": 181639,
       "name": "Power Rangers (feat. Mudd the student, Tyron\u00e9 Laurent)",
       "url": "https://open.spotify.com/track/0re5DUvnUH3rD6DMUsn0lS"
+    },
+    {
+      "album": {
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/1n0eG5i47IU8d4KJeAUKxI"
+      },
+      "artists": [
+        {
+          "name": "Yoon Jiyoung",
+          "url": "https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213674,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/6cImy71QKHwzc1Lbp1FIAD"
     },
     {
       "album": {
@@ -5044,7 +5124,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 78106,
       "name": "U-Turn",
       "url": "https://open.spotify.com/track/1ghQ6Z2ns350hJ6yDKkXBO"

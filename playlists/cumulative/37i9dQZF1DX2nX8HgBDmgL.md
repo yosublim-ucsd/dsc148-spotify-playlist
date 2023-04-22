@@ -4,7 +4,7 @@
 
 > Catch the amazing South Asian artists with Raja Kumari.
 
-130 songs - 6 hr 50 min
+131 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [DAMNSON](https://open.spotify.com/track/630ZXewu63FXyhoiKpO6tC) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [DAMNSON](https://open.spotify.com/album/0dYr6HaqEAALF0u2wx9XV2) | 2:30 | 2022-07-18 |  |
 | [Dance](https://open.spotify.com/track/7fWMvmH2YLxabiHfxH03CO) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt), [H\-Dhami](https://open.spotify.com/artist/0GgtsI54TB5WM3350rYpvK), [Juggy D](https://open.spotify.com/artist/5Lt1YtQ7PK7ANlfAM9vqVj) | [Dance](https://open.spotify.com/album/4iVZa6nsYDb5XYA3gwBg1v) | 3:29 | 2021-11-11 | 2022-07-19 |
 | [Dark Knight](https://open.spotify.com/track/5flPNCDnZuil33Bpav6iFl) | [Twinbeatz](https://open.spotify.com/artist/4L7glay6qnMnr6MQawUzjT) | [Dark Knight](https://open.spotify.com/album/3VuCQ8Yj7HjGODQTePfvQq) | 2:21 | 2021-11-11 | 2022-07-19 |
+| [Desi Lehenga](https://open.spotify.com/track/4V2xNfVwrjgYIHmkEogu9R) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Desi Lehenga](https://open.spotify.com/album/6BLGMYQoApaBvOT8fXYSdz) | 2:24 | 2023-04-21 |  |
 | [Dhundhala](https://open.spotify.com/track/6PSGzXHJaQogb2G8m8gGZZ) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Dhundhala](https://open.spotify.com/album/1wQyuIiZpM5Qy4wQOU2i1J) | 3:02 | 2022-07-18 |  |
 | [Dime Dime](https://open.spotify.com/track/4kNTujhP4ZNfK2W93XyOma) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Dime Dime](https://open.spotify.com/album/68AtbgSozP9VW7NYQs9OJB) | 2:54 | 2022-07-16 |  |
 | [Divas](https://open.spotify.com/track/4qwOtfS2I6pPSt3CKq9TSz) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Divas](https://open.spotify.com/album/4ji38NmCuB2K32ZV3V7N6B) | 3:07 | 2021-11-11 | 2022-07-19 |

@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Reação em Cadeia
 
-319 songs - 17 hr 54 min
+320 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,13 +286,14 @@
 | [Subway Boys \- Ao Vivo](https://open.spotify.com/track/68OZ0nAjOY4Hj6SJfexDjS) | [Corazones Muertos](https://open.spotify.com/artist/2imezOAIpxR4Tg1J4YIKz4), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Corazones Muertos No Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/5UPXx3tKUWRnkYElTLfd5W) | 2:59 | 2023-03-03 |  |
 | [SUCKERPUNCH](https://open.spotify.com/track/2rQHFSh3RDxjgAPv5Iiv8M) | [Seventeen Sunsets](https://open.spotify.com/artist/6AcY1a52SmTceyc9D5THcT) | [falling down \(falling out\)](https://open.spotify.com/album/5ngaI9j92OqREwOl6QglzT) | 3:45 | 2022-01-14 | 2022-10-15 |
 | [Supla Zombie](https://open.spotify.com/track/2bSv2939o5oeCJKevJz9PZ) | [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR) | [Supla Zombie](https://open.spotify.com/album/2eVJMjdV7HAYhmrdvNIHZY) | 2:34 | 2022-11-18 | 2022-11-26 |
-| [Surreal Virou Normal](https://open.spotify.com/track/6Gr9FShs2iESYZQYYmpaj4) | [Brothers Of Brazil](https://open.spotify.com/artist/0QqgRMoOctM3qIx10yttX6), [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR), [João Suplicy](https://open.spotify.com/artist/3JHPlT7Y0cMwVaEeaeZdiq) | [Surreal Virou Normal](https://open.spotify.com/album/0a00Z3Hsiiyth9m6DJ7K58) | 2:35 | 2022-01-21 |  |
+| [Surreal Virou Normal](https://open.spotify.com/track/6Gr9FShs2iESYZQYYmpaj4) | [Brothers Of Brazil](https://open.spotify.com/artist/0QqgRMoOctM3qIx10yttX6), [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR), [João Suplicy](https://open.spotify.com/artist/3JHPlT7Y0cMwVaEeaeZdiq) | [Surreal Virou Normal](https://open.spotify.com/album/0a00Z3Hsiiyth9m6DJ7K58) | 2:35 | 2022-01-21 | 2023-04-22 |
 | [sussurro](https://open.spotify.com/track/2duAOylqzXoGG7jCoiAQAE) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T), [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [sussurro](https://open.spotify.com/album/7z64AGT9ArbmI8VCwSMoG2) | 2:40 | 2022-10-28 | 2022-11-12 |
 | [Só Chamar](https://open.spotify.com/track/67XJR4zyKkmq79mqgiPaBP) | [Dibob](https://open.spotify.com/artist/5unSnRQbVY6bEHkfNfgX5R) | [Só Chamar](https://open.spotify.com/album/5muZEDqjv0fVSY3e2ZeV96) | 2:58 | 2022-07-01 | 2023-02-11 |
 | [Só Sei Sonhar](https://open.spotify.com/track/5g8k48PEvMoSuDhBeFfZIL) | [Choraz](https://open.spotify.com/artist/2DRAfmuc82dxMgHmkKaBGg) | [O Melhor de Nossas Vidas](https://open.spotify.com/album/0VDKaNLpM3e71xTQHFX2rO) | 2:54 | 2022-10-14 | 2022-11-05 |
 | [Só Sei Sonhar](https://open.spotify.com/track/7BXnoQfWd5o1r9FpR2CWFJ) | [Choraz](https://open.spotify.com/artist/2DRAfmuc82dxMgHmkKaBGg) | [O Melhor De Nossas Vidas](https://open.spotify.com/album/1fH5R79UA8H7gSGHko4ayZ) | 2:54 | 2022-07-15 | 2022-10-15 |
 | [Só Sei Sonhar](https://open.spotify.com/track/7rvqdkHOXdSqZXaMHctNly) | [Choraz](https://open.spotify.com/artist/2DRAfmuc82dxMgHmkKaBGg) | [O Melhor De Nossas Vidas](https://open.spotify.com/album/05SpB7CONVVtt0VosXk0nh) | 2:54 | 2022-01-14 | 2022-07-29 |
 | [súplica](https://open.spotify.com/track/4omVsjOJY7aCHcBV9l6UkC) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [para\-raio](https://open.spotify.com/album/6iZPdkQAcuvcc4sYlfqGDw) | 2:49 | 2022-11-11 | 2022-11-19 |
+| [Tarde Demais](https://open.spotify.com/track/5amoazrtaLdXHIt7YVyuyX) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Tarde Demais](https://open.spotify.com/album/39xDYbhw11PU3AaD8SRJ6E) | 3:48 | 2023-04-21 |  |
 | [Te Odeio](https://open.spotify.com/track/7lIkAqZttsDeShLOLyVhyk) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt), [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [A Cura](https://open.spotify.com/album/4tJs1uXBKXv7rP3w3XpbvE) | 2:33 | 2023-03-31 |  |
 | [Tempo de Brincar](https://open.spotify.com/track/6cLVxeHljKgjD1mQ75QKhp) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Tempo de Brincar](https://open.spotify.com/album/6Mx3z11ITwsYgfCRdYFo0b) | 2:46 | 2022-01-14 | 2022-07-02 |
 | [Temporal](https://open.spotify.com/track/6UONgsITLnZIHzZEuuPVo0) | [Dkukas](https://open.spotify.com/artist/2QfmJhZmW6Z9m1hIryoAT5) | [Temporal](https://open.spotify.com/album/3HSvPoG3igvbQ4qOTmUIK7) | 2:23 | 2022-09-30 | 2022-10-22 |

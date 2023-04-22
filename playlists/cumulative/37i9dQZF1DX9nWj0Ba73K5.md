@@ -4,7 +4,7 @@
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Joey Hyde
 
-230 songs - 13 hr 19 min
+231 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [self care.](https://open.spotify.com/track/6RgUCaT2kLxy6o1XCOWQjQ) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [self care.](https://open.spotify.com/album/7eG9QRz0CNpz8Y1fzKJYzB) | 2:19 | 2022-07-08 |  |
 | [Setting the World on Fire \(feat\. Josh Osborne\)](https://open.spotify.com/track/0no4JGUGADpduYExUgiizp) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C), [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Josh Osborne](https://open.spotify.com/artist/1QoLSRhja9IcOQKelE594L) | [2017 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/00M4zevPXWPAejRamqLJwp) | 3:17 | 2022-01-01 |  |
 | [She Let Herself Go](https://open.spotify.com/track/7i9lx2znzB7zREJhhUzyjV) | [Dean Dillon](https://open.spotify.com/artist/6TaRQZ726me3yOu1f2glVH) | [Dylyn](https://open.spotify.com/album/42n6SYRT9TRdi4ul40vIpY) | 3:24 | 2022-01-01 |  |
+| [She Smoked in the House](https://open.spotify.com/track/57V4LmQZgivEMalcNaymBo) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [She Smoked in the House](https://open.spotify.com/album/0MJ5Ml5GLegO4OxYWox7F4) | 2:28 | 2023-04-21 |  |
 | [Sick and Tired](https://open.spotify.com/track/2w4KilW4FZQeIyH33R2KxW) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Tears the Size of Texas](https://open.spotify.com/album/34cv4GGLrJbYA2u6di1Pok) | 4:28 | 2022-09-30 |  |
 | [Single Wide Dreamer](https://open.spotify.com/track/0TTne50yeMlIWkxe48rm2f) | [Aaron Raitiere](https://open.spotify.com/artist/3Gbx4tL0G9U5j233fXABXw) | [Single Wide Dreamer](https://open.spotify.com/album/368ZJJfNJ4ZukWVDzFqE37) | 3:32 | 2022-04-08 |  |
 | [Skyscraper](https://open.spotify.com/track/0nFbI2dtyCWCcCQ2m3Lu9y) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Skyscraper](https://open.spotify.com/album/1FsCxosjELrzpcwILUTUQm) | 3:06 | 2022-08-05 |  |

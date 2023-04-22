@@ -1,12 +1,12 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 37828,
+  "num_followers": 37859,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQ2MCwwMDAwMDAwMGE0MjI3MWU3OWNjZmYyODBlOTJkZTE2MDZkZDBhMDlk",
+  "snapshot_id": "MTY4MjA0OTY2MCwwMDAwMDAwMGNmMDNiYWU3MThlMWY4MGJjYTY3MWY3NGJhMzllNDBi",
   "tracks": [
     {
       "added_at": "2023-03-10 05:01:00",
@@ -39,6 +39,22 @@
       "duration_ms": 323063,
       "name": "Elementa",
       "url": "https://open.spotify.com/track/4HnwCdceuquR4OnqXrF0Vp"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "2020",
+        "url": "https://open.spotify.com/album/7hSvY3Hq0E1ZO5zSgeuwlL"
+      },
+      "artists": [
+        {
+          "name": "The Funky Knuckles",
+          "url": "https://open.spotify.com/artist/0uyK6faAhm4CYcf1OhP38V"
+        }
+      ],
+      "duration_ms": 483967,
+      "name": "2020",
+      "url": "https://open.spotify.com/track/5chtaHyGuNkcj83hzae0Qk"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1415,30 +1431,6 @@
       "duration_ms": 475818,
       "name": "Fear Not",
       "url": "https://open.spotify.com/track/7FDaEE1FwngGOXeqza7mOS"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Grains of Sand",
-        "url": "https://open.spotify.com/album/0xSWVE4Rtvo9Se1UanwNLz"
-      },
-      "artists": [
-        {
-          "name": "Alberto Rigoni",
-          "url": "https://open.spotify.com/artist/5YPN5P1LS2tcQZAPEpo0ZM"
-        },
-        {
-          "name": "Michael Manring",
-          "url": "https://open.spotify.com/artist/3azoOASbeeRYOHv3ekSMRR"
-        },
-        {
-          "name": "Bryan Beller",
-          "url": "https://open.spotify.com/artist/2LPwVhvrjOXEvgfLOpHJQ1"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Seven",
-      "url": "https://open.spotify.com/track/6nz7H9YLI6TYGo3riLJBaR"
     },
     {
       "added_at": "2022-10-21 04:00:00",

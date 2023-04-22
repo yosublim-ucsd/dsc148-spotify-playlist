@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! Cover: Anne-Marie & MINNIE ((G)-IDLE)",
+  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: P1Harmony, New Hope Club)",
   "name": "K-Pop X-Overs",
   "tracks": [
     {
@@ -846,6 +846,28 @@
       "duration_ms": 122638,
       "name": "Galipette - BIBI Remix",
       "url": "https://open.spotify.com/track/7x5xZs5VbPxNsdmGAj6Hch"
+    },
+    {
+      "album": {
+        "name": "Give Me a Kiss (SHAUN Remix)",
+        "url": "https://open.spotify.com/album/3wiexsrFfVlq3gFq7OKfe7"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        },
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200800,
+      "name": "Give Me a Kiss - SHAUN Remix",
+      "url": "https://open.spotify.com/track/2kivpDuRbWrULiJtEaCfve"
     },
     {
       "album": {
@@ -1966,6 +1988,28 @@
       "duration_ms": 194109,
       "name": "SUGAR DIVE",
       "url": "https://open.spotify.com/track/3p3tezl8FJHkm68tczR0yP"
+    },
+    {
+      "album": {
+        "name": "Super Chic",
+        "url": "https://open.spotify.com/album/5kGyJT8HMcHvhd3TXdmyyu"
+      },
+      "artists": [
+        {
+          "name": "New Hope Club",
+          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
+        },
+        {
+          "name": "P1Harmony",
+          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167546,
+      "name": "Super Chic",
+      "url": "https://open.spotify.com/track/39K97j8UZKiQWXDTrUybCL"
     },
     {
       "album": {

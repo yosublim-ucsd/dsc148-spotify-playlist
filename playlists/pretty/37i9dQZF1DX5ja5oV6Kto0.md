@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu?si=fL99jsIQS3OdQLYrAT5RlA"> Suté Iwar</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,451 likes - 84 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,515 likes - 84 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 57 | [Silver Spoon Interlude](https://open.spotify.com/track/1lB32vlcLZhXtqZbaIgdz0) | [WANI](https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt) | [Silver Spoon Interlude/ Jezebel](https://open.spotify.com/album/7dKn566TDdomhx9ztHIszj) | 2:18 |
 | 58 | [Rolling Loud](https://open.spotify.com/track/6ySKC2g5tI9PE26OrUs3XN) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Rolling Loud](https://open.spotify.com/album/4CLuWbSzme2RhzTCZuPL8t) | 2:32 |
 | 59 | [HERE THEY COME](https://open.spotify.com/track/5H5eCRqsbOq8BlXgqjXJbu) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [HERE THEY COME](https://open.spotify.com/album/6F7eC5DNJNyX0wsy3Ll7IR) | 2:19 |
-| 60 | [My Killa](https://open.spotify.com/track/5KOWD6wjr3SYferAnSVYt4) | [Wax](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv), [Anjeli](https://open.spotify.com/artist/6at7m0HyAUud3CXlhwOuqC), [Jaylon](https://open.spotify.com/artist/0LPjWuF3g2DJwDODD5aGr4) | [SITW/My Killa](https://open.spotify.com/album/21QRyfpVgNvixeecZxqF7j) | 2:49 |
+| 60 | [My Killa](https://open.spotify.com/track/5KOWD6wjr3SYferAnSVYt4) | [Wax Bentayga](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv), [Anjeli](https://open.spotify.com/artist/6at7m0HyAUud3CXlhwOuqC), [Jaylon](https://open.spotify.com/artist/0LPjWuF3g2DJwDODD5aGr4) | [SITW/My Killa](https://open.spotify.com/album/21QRyfpVgNvixeecZxqF7j) | 2:49 |
 | 61 | [Trust Issues](https://open.spotify.com/track/5a74iY70gcJ1j4GCk3EMF6) | [Oshunda](https://open.spotify.com/artist/3EcVhJ5cGXTuufus6nko8C), [Santaklara](https://open.spotify.com/artist/5gsCFrDcsLquTUIQojNptl) | [Trust Issues](https://open.spotify.com/album/736TSZ1hZ6pjkyHhdntbY8) | 2:30 |
 | 62 | [Culture](https://open.spotify.com/track/5jfkErsgpDgdMQzO563tNL) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Gbagada Express](https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn) | 3:28 |
 | 63 | [Reckless](https://open.spotify.com/track/09n3QyfWRKV74GMinA9rj6) | [DJ Hol Up](https://open.spotify.com/artist/2zjDlvAtLyBbbcrvGSxTWy), [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y), [Sivonyia](https://open.spotify.com/artist/3QI04CrPyjLUiY9Kdsx1vD) | [Reckless](https://open.spotify.com/album/1WRgI6jDYYaQkw0gdKQUef) | 2:10 |

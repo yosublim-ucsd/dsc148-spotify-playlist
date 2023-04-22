@@ -1,51 +1,35 @@
 {
   "description": "The Midwest is always on time. Cover: Polo G",
-  "num_followers": 104775,
+  "num_followers": 104840,
   "original_name": "CST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDA0Yzk3OTcyMWU0MWUyNjc3YWNjOTE5MDU4ZjE3YmEz",
+  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDZkYWQ4NmYyNzg4NGY1N2U0ODQ0MTM1MTVmMmFhM2Zl",
   "tracks": [
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "No Time Wasted (feat. Future)",
-        "url": "https://open.spotify.com/album/2QHf3w0Kft5kqqEXBaHBDm"
+        "name": "Ron Artest",
+        "url": "https://open.spotify.com/album/0RagVxXFPT0sjyuev19HQJ"
       },
       "artists": [
         {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
         }
       ],
-      "duration_ms": 179533,
-      "name": "No Time Wasted (feat. Future)",
-      "url": "https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8"
+      "duration_ms": 153392,
+      "name": "Ron Artest",
+      "url": "https://open.spotify.com/track/4Wlz0HsHZlJy0NDK2h6jq6"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "GOMD",
-        "url": "https://open.spotify.com/album/6vTsqrGv80CCBH5b2rGMJS"
-      },
-      "artists": [
-        {
-          "name": "Veeze",
-          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
-        }
-      ],
-      "duration_ms": 171872,
-      "name": "GOMD",
-      "url": "https://open.spotify.com/track/6qlQIOubQeiG3byhhqwPfU"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Dropped The Lo",
         "url": "https://open.spotify.com/album/16Eq5sqIZvM7TmYORwyxhh"
@@ -65,23 +49,7 @@
       "url": "https://open.spotify.com/track/6tXUGESOMRSdpYJIiPCeAl"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "This Summer",
-        "url": "https://open.spotify.com/album/6EGh6ELzd8b0gM9V3KH8XC"
-      },
-      "artists": [
-        {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        }
-      ],
-      "duration_ms": 141387,
-      "name": "This Summer",
-      "url": "https://open.spotify.com/track/2PoV6mOIsOq6grbC4a0ZNz"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Wicked Inna RaQ 2",
         "url": "https://open.spotify.com/album/5sDveIPYQRR3qMI6KNV54x"
@@ -101,7 +69,79 @@
       "url": "https://open.spotify.com/track/0C4cunXxLICqzrxhYWorP0"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "No Time Wasted (feat. Future)",
+        "url": "https://open.spotify.com/album/2QHf3w0Kft5kqqEXBaHBDm"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "No Time Wasted (feat. Future)",
+      "url": "https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "GOMD",
+        "url": "https://open.spotify.com/album/6vTsqrGv80CCBH5b2rGMJS"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "duration_ms": 171872,
+      "name": "GOMD",
+      "url": "https://open.spotify.com/track/6qlQIOubQeiG3byhhqwPfU"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "I'm Geekin",
+        "url": "https://open.spotify.com/album/4tgQ15beC7oqscFBlSJWfo"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        }
+      ],
+      "duration_ms": 101946,
+      "name": "I'm Geekin",
+      "url": "https://open.spotify.com/track/4jQF77FelHaw2u1CB0sIfp"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "B&E Pt. 1",
+        "url": "https://open.spotify.com/album/6es9sQ9dDPmWNUx1kuoOQT"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "duration_ms": 153282,
+      "name": "B&E Pt. 1",
+      "url": "https://open.spotify.com/track/3w172RIHWXdyTo8KjFyeTo"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Boom Pt. 2 (feat. Latto)",
         "url": "https://open.spotify.com/album/75BpWyvfedpNBI4YAp6hKU"
@@ -121,7 +161,7 @@
       "url": "https://open.spotify.com/track/5mqcRBLYBsAhpbB6gXMyYz"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -145,47 +185,27 @@
       "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Ron Artest",
-        "url": "https://open.spotify.com/album/0RagVxXFPT0sjyuev19HQJ"
+        "name": "FW That",
+        "url": "https://open.spotify.com/album/6Tz3mpxCfet4VDkUHy1nSD"
       },
       "artists": [
         {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
         },
         {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
         }
       ],
-      "duration_ms": 153392,
-      "name": "Ron Artest",
-      "url": "https://open.spotify.com/track/4Wlz0HsHZlJy0NDK2h6jq6"
+      "duration_ms": 158171,
+      "name": "FW That",
+      "url": "https://open.spotify.com/track/28u5CGeIstPNFZcyZ8OAg7"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Lil Durk Presents: Loyal Bros 2",
-        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Mad Max",
-      "url": "https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Pound Town (and Tay Keith)",
         "url": "https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A"
@@ -205,23 +225,63 @@
       "url": "https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Likka Sto",
-        "url": "https://open.spotify.com/album/5rm7h2Kl9uStJE2Y3rBM72"
+        "name": "$WISH ft. G-Eazy and Chance The Rapper",
+        "url": "https://open.spotify.com/album/0suVVYEcV3LWxREKaLyOGn"
       },
       "artists": [
         {
-          "name": "Lil Blessin",
-          "url": "https://open.spotify.com/artist/5SwdIfc2sLJoPZhVkrilYH"
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 130703,
-      "name": "Likka Sto",
-      "url": "https://open.spotify.com/track/69PUAWTgoHZihzmM0kwYpE"
+      "duration_ms": 225453,
+      "name": "$WISH ft. G-Eazy and Chance The Rapper",
+      "url": "https://open.spotify.com/track/2xWTbOsDclkxRarvshyReu"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "This Summer",
+        "url": "https://open.spotify.com/album/6EGh6ELzd8b0gM9V3KH8XC"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        }
+      ],
+      "duration_ms": 141387,
+      "name": "This Summer",
+      "url": "https://open.spotify.com/track/2PoV6mOIsOq6grbC4a0ZNz"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "The Next",
+        "url": "https://open.spotify.com/album/5NNwwuzgbWaaxTseHOweJm"
+      },
+      "artists": [
+        {
+          "name": "PGF Nuk",
+          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
+        }
+      ],
+      "duration_ms": 96093,
+      "name": "The Next",
+      "url": "https://open.spotify.com/track/7hZfOP3gtRWagxuSwNG7du"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Hanging With Wolves",
         "url": "https://open.spotify.com/album/31ItlZnLUC9S5wChTbE8Ew"
@@ -237,7 +297,39 @@
       "url": "https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "S.M.P.",
+        "url": "https://open.spotify.com/album/6lo4OgP3TKKFHttZgP1OIp"
+      },
+      "artists": [
+        {
+          "name": "E the profit",
+          "url": "https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP"
+        }
+      ],
+      "duration_ms": 106849,
+      "name": "S.M.P.",
+      "url": "https://open.spotify.com/track/1aSvIlZK7bRfPO6GQIQxiz"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Thru The Town",
+        "url": "https://open.spotify.com/album/1aMsSHYGis79SWIKjulvhg"
+      },
+      "artists": [
+        {
+          "name": "DCG BROTHERS",
+          "url": "https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J"
+        }
+      ],
+      "duration_ms": 169524,
+      "name": "Thru The Town",
+      "url": "https://open.spotify.com/track/7Cojm688CxexwiESIjZ2Ou"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "ROLL THE DICE (feat. DeJ Loaf)",
         "url": "https://open.spotify.com/album/3RC8VcNswzGIfN90R7pZTf"
@@ -257,7 +349,7 @@
       "url": "https://open.spotify.com/track/3WhxyhcaabI2aNpUEFpTwr"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Blast Off",
         "url": "https://open.spotify.com/album/5mfmkBq7JGuNgU4OOMIlbM"
@@ -273,7 +365,7 @@
       "url": "https://open.spotify.com/track/0lfVhOvKOPILinrrahAz6p"
     },
     {
-      "added_at": "2023-02-21 16:21:10",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "2 Effortless",
         "url": "https://open.spotify.com/album/7oAmbqYiBL1MN2FGdRQ0rz"
@@ -289,7 +381,7 @@
       "url": "https://open.spotify.com/track/464bVdsYzXMZE8FykJoxw0"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Out On Bond",
         "url": "https://open.spotify.com/album/1rM3JOw6PilCUL4GXU0WCi"
@@ -305,7 +397,7 @@
       "url": "https://open.spotify.com/track/07iXzCjxJdfHTUenA34iXt"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "BING BONG",
         "url": "https://open.spotify.com/album/2bnMi2DLVvTLCN37nPaAar"
@@ -321,7 +413,7 @@
       "url": "https://open.spotify.com/track/7iZrmR8qfdFYhYzHUDykyi"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -345,7 +437,7 @@
       "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Stargaze",
         "url": "https://open.spotify.com/album/2iMRzFILMCwvuHk5cVZhvV"
@@ -361,7 +453,7 @@
       "url": "https://open.spotify.com/track/6HuodZbqN0qUY1LhrKSzK5"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Where The Shooters Be 2",
         "url": "https://open.spotify.com/album/3Dh9beBJOjHIeIvwJBGgcf"
@@ -377,7 +469,7 @@
       "url": "https://open.spotify.com/track/2IEAEeX4LtxiYPdqt0C08y"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Ok Bet",
         "url": "https://open.spotify.com/album/1BeuLY4VPYF9MqG2UWNhNg"
@@ -393,23 +485,23 @@
       "url": "https://open.spotify.com/track/2aWhd132y1WFrmXtQ4XwHm"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Coochie Goat",
-        "url": "https://open.spotify.com/album/7blLvL09OOJcEZJXNKuFQr"
+        "name": "Likka Sto",
+        "url": "https://open.spotify.com/album/5rm7h2Kl9uStJE2Y3rBM72"
       },
       "artists": [
         {
-          "name": "YN Jay",
-          "url": "https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU"
+          "name": "Lil Blessin",
+          "url": "https://open.spotify.com/artist/5SwdIfc2sLJoPZhVkrilYH"
         }
       ],
-      "duration_ms": 154932,
-      "name": "Perc & Sex",
-      "url": "https://open.spotify.com/track/4a14AFVG1iMsLJnT4wj5Up"
+      "duration_ms": 130703,
+      "name": "Likka Sto",
+      "url": "https://open.spotify.com/track/69PUAWTgoHZihzmM0kwYpE"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Back on Dexter: A Gangsta Grillz Mixtape",
         "url": "https://open.spotify.com/album/1Jm12CDLPjD2FQHvUBQCNi"
@@ -445,7 +537,7 @@
       "url": "https://open.spotify.com/track/4lhinIXb37RqJRnbnTgOcg"
     },
     {
-      "added_at": "2023-03-31 08:32:46",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Grown Man",
         "url": "https://open.spotify.com/album/282shVOXRHSfBqexKhADTN"
@@ -469,7 +561,23 @@
       "url": "https://open.spotify.com/track/5VKG8ary0JW6iKemhmznzS"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Female Gucci Mane",
+        "url": "https://open.spotify.com/album/5TXHSbMLqg6hgNbTAuDaJ9"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 151954,
+      "name": "Female Gucci Mane",
+      "url": "https://open.spotify.com/track/6GfhoE4A0qgC3eO4WxKVBN"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "The Light",
         "url": "https://open.spotify.com/album/2thP70nudcFpvmRl3AsYRa"
@@ -485,7 +593,7 @@
       "url": "https://open.spotify.com/track/6j5BK1cFX9TjJd5EXHGgAn"
     },
     {
-      "added_at": "2022-12-02 05:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "MOB",
         "url": "https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM"
@@ -505,7 +613,7 @@
       "url": "https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Pretty Girls Walk (Remix)",
         "url": "https://open.spotify.com/album/3jmmKIPtYmaC8XsDmVIO1W"
@@ -525,7 +633,7 @@
       "url": "https://open.spotify.com/track/2g9dhCaJiK7D0FOgZ9vJlR"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Raining",
         "url": "https://open.spotify.com/album/4bxulEQgaLNyfd5U0xOiJo"
@@ -549,7 +657,7 @@
       "url": "https://open.spotify.com/track/6i5wxOzIv91jvGwi4gofGn"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Way Too Hot (feat. DCG Msavv)",
         "url": "https://open.spotify.com/album/0ShHKHwRejTIbAG4BSkFIP"
@@ -569,7 +677,7 @@
       "url": "https://open.spotify.com/track/0gbJ0BNVj4Oq2bV8abqnc3"
     },
     {
-      "added_at": "2023-03-31 08:32:46",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/10LJ6xc4AmjUcXOSKwkFfn"
@@ -593,27 +701,7 @@
       "url": "https://open.spotify.com/track/5iieKgPJ2EeL0BwlGQOocT"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Rich Junkie (feat. Skilla Baby)",
-        "url": "https://open.spotify.com/album/0uGdwXTZ9Eubd2JjpTGIb6"
-      },
-      "artists": [
-        {
-          "name": "Tay B",
-          "url": "https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO"
-        },
-        {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
-        }
-      ],
-      "duration_ms": 145920,
-      "name": "Rich Junkie (feat. Skilla Baby)",
-      "url": "https://open.spotify.com/track/1YJ1ZgksxlYQEBy6cfhV7h"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Knocked Up",
         "url": "https://open.spotify.com/album/4z6R7wci0eXJZn7vQMxDBV"
@@ -629,7 +717,7 @@
       "url": "https://open.spotify.com/track/1CnTYUBeYKnwiWl2ljX6uI"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Insubordination",
         "url": "https://open.spotify.com/album/4xPjb8cJKvMyuWBXBYz602"
@@ -649,7 +737,7 @@
       "url": "https://open.spotify.com/track/2geW0ZSZzuJYzlyi95kAl9"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Blrrrd Fa",
         "url": "https://open.spotify.com/album/70lUhyyKsoZa2rugXujwac"
@@ -669,7 +757,7 @@
       "url": "https://open.spotify.com/track/3121hwDUvifw2mi5cj8dfP"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "WAR LORD",
         "url": "https://open.spotify.com/album/2fSrLZtl8ASjDyohkKT8LG"
@@ -693,7 +781,7 @@
       "url": "https://open.spotify.com/track/4FueImbcTZOR7aC9FidrdT"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Way Too Petty",
         "url": "https://open.spotify.com/album/5jd5UY4vC6PoWb3Iw4owqF"
@@ -709,7 +797,7 @@
       "url": "https://open.spotify.com/track/5ObUmPrfvyC7IEOe3n8Z3J"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Up On Us",
         "url": "https://open.spotify.com/album/48oT4RYXR1aCWxpvBb04vP"
@@ -725,7 +813,7 @@
       "url": "https://open.spotify.com/track/2SPa91MdtTxBJy85uarkli"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Kome On",
         "url": "https://open.spotify.com/album/1aulOdGQu7QycqVQKOu2Jr"
@@ -741,7 +829,7 @@
       "url": "https://open.spotify.com/track/11NLXN1vcW8CZbrW3hZC8c"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Ghost Mode",
         "url": "https://open.spotify.com/album/5bEfOL1sP6CiGnWSCSAOlL"
@@ -761,27 +849,7 @@
       "url": "https://open.spotify.com/track/3uQomGKwOomTBnuwWs9RGd"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "MANSION MUSIK",
-        "url": "https://open.spotify.com/album/0F166z0TRwmSRuHBOId890"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "KNIGHT CRAWLER (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/3fNMgjG8yXaSam46swhz7w"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "FULLY LOADED (feat. Future & Lil Baby)",
         "url": "https://open.spotify.com/album/7HsrIHdui5hpCXIYQySKi6"
@@ -805,39 +873,7 @@
       "url": "https://open.spotify.com/track/4wYVuGsXa4iPY8BYthBGWc"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Pressikan",
-        "url": "https://open.spotify.com/album/69eXw40A8AqpBED1daHzYj"
-      },
-      "artists": [
-        {
-          "name": "Sada Baby",
-          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
-        }
-      ],
-      "duration_ms": 195044,
-      "name": "Pressikan",
-      "url": "https://open.spotify.com/track/2N0wDFXjS97UybI2ellIEu"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "ONLY BUILT 4 DIAMOND LINKS",
-        "url": "https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp"
-      },
-      "artists": [
-        {
-          "name": "Peezy",
-          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
-        }
-      ],
-      "duration_ms": 159973,
-      "name": "2 Million Up",
-      "url": "https://open.spotify.com/track/5JS1gz9zP4GTy0LZYvSeUK"
-    },
-    {
-      "added_at": "2023-01-27 08:30:45",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Robbers and Villains",
         "url": "https://open.spotify.com/album/7iXLTSsI9Vo6mH57JhIU7Z"
@@ -853,7 +889,7 @@
       "url": "https://open.spotify.com/track/5ZhrQbLQU0ALDslxXqs3yl"
     },
     {
-      "added_at": "2023-01-27 21:00:52",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "4 Kobe",
         "url": "https://open.spotify.com/album/4MDLz8Zd8LFWV6y5pOoMEq"
@@ -869,7 +905,7 @@
       "url": "https://open.spotify.com/track/0JCUZ7wbrwH6YjUhG83aHj"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Paint the City (Gangsta Grillz)",
         "url": "https://open.spotify.com/album/3M1RUPna1fFjxNd9I0Vo0l"
@@ -893,31 +929,7 @@
       "url": "https://open.spotify.com/track/693A64f4CTONpjPPOZ4lp1"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Lil Durk Presents: Loyal Bros 2",
-        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
-      },
-      "artists": [
-        {
-          "name": "Doodie Lo",
-          "url": "https://open.spotify.com/artist/5YlfEcVGygV1M3jH9GxkU7"
-        },
-        {
-          "name": "chief wuk",
-          "url": "https://open.spotify.com/artist/2Hm8pRagdhRNFBbCiGaJEI"
-        },
-        {
-          "name": "Icewear Vezzo",
-          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
-        }
-      ],
-      "duration_ms": 142702,
-      "name": "Thug Life (feat. Icewear Vezzo)",
-      "url": "https://open.spotify.com/track/3Ht7Rl2AvdFQeKVafqsS4f"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "MOB",
         "url": "https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM"
@@ -937,23 +949,7 @@
       "url": "https://open.spotify.com/track/1hCPGZBub6bWkVppAnPVoH"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Mr. Hanky",
-        "url": "https://open.spotify.com/album/1TcIh59Gfrw12QFjIu8RJu"
-      },
-      "artists": [
-        {
-          "name": "BabyTron",
-          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
-        }
-      ],
-      "duration_ms": 142846,
-      "name": "Mr. Hanky",
-      "url": "https://open.spotify.com/track/0ZcI3yLtpDra2lTWaajM6l"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Lil Durk Presents: Loyal Bros 2",
         "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"

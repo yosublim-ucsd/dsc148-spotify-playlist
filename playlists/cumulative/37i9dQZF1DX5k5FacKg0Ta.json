@@ -1055,6 +1055,24 @@
     },
     {
       "album": {
+        "name": "Kev\u00e4t",
+        "url": "https://open.spotify.com/album/1Us0cdS58DFuVqItyz2LpM"
+      },
+      "artists": [
+        {
+          "name": "Teea Aarnio",
+          "url": "https://open.spotify.com/artist/4OOpIlBLL7ldq83P15jkQM"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229352,
+      "name": "Kev\u00e4t",
+      "url": "https://open.spotify.com/track/3rWFDscuVW07OAnF2prqeR"
+    },
+    {
+      "album": {
         "name": "Unituulia",
         "url": "https://open.spotify.com/album/4ea1eOXdoToRal6XqcSoci"
       },
@@ -1784,6 +1802,28 @@
       "duration_ms": 426585,
       "name": "Side Effect",
       "url": "https://open.spotify.com/track/3wIKPsBqmjf4vYqiNw8Z8t"
+    },
+    {
+      "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/05o6US7XdwkkfJwJoZofcJ"
+      },
+      "artists": [
+        {
+          "name": "Peela",
+          "url": "https://open.spotify.com/artist/5vgx2GUNPPiJ7tyE9xtVZA"
+        },
+        {
+          "name": "Rafa Postel",
+          "url": "https://open.spotify.com/artist/6CthIuM1u1D6GRTdP3Aqsm"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378839,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/57bfuyhyiUI3clhgozihNJ"
     },
     {
       "album": {

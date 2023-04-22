@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 268198,
+  "num_followers": 268506,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDViMDRmZGQ0ZjQ3NDg5NjAzYWEyZDQ0NzU0ZDBhN2I3",
+  "snapshot_id": "MTY4MjA0OTY2MCwwMDAwMDAwMGNlYTk4OGYzZTBlZDdkNjExZjkxZTA0NzY1NjNkZjEz",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/2fmXnPfzguSp3zKDibCBgv"
     },
     {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Is This Jazz?",
+        "url": "https://open.spotify.com/album/53vRGLHsQWtBqHLe1CfkM8"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "duration_ms": 181855,
+      "name": "Is This Jazz?",
+      "url": "https://open.spotify.com/track/5TJuM3PlBezT2tcTziwhcT"
+    },
+    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Riot Jazz Makes People Happy",
@@ -55,6 +71,26 @@
       "duration_ms": 278725,
       "name": "Spread Love",
       "url": "https://open.spotify.com/track/0N7yfvd5tfP3kschFBfhss"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Smelling the Fog",
+        "url": "https://open.spotify.com/album/0RvYVrMUrcm2NNXNxX6fUd"
+      },
+      "artists": [
+        {
+          "name": "Sven Lindvall",
+          "url": "https://open.spotify.com/artist/3TauislvTr1US5ZCbjnLUx"
+        },
+        {
+          "name": "Daniel Fridell",
+          "url": "https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK"
+        }
+      ],
+      "duration_ms": 291960,
+      "name": "Smelling the Fog",
+      "url": "https://open.spotify.com/track/5S7wGZaqXqozXvBJ6MEacl"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -135,6 +171,22 @@
       "duration_ms": 234309,
       "name": "Street Sweeper",
       "url": "https://open.spotify.com/track/6eTrGiHJS6kvmifI3sIkPn"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Astral-Desia",
+        "url": "https://open.spotify.com/album/6w6rcjZvz04Rd8i4Y6OzYQ"
+      },
+      "artists": [
+        {
+          "name": "Whatitdo Archive Group",
+          "url": "https://open.spotify.com/artist/0unbh6hstakLyzQ09UezhO"
+        }
+      ],
+      "duration_ms": 189573,
+      "name": "Astral-Desia",
+      "url": "https://open.spotify.com/track/3nw1ENzEAOM20W9mlCzdi4"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1833,26 +1885,6 @@
       "url": "https://open.spotify.com/track/7JZHwtePlwXSHAgRVsbHWe"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Where I'm Meant To Be",
-        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Sampa the Great",
-          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
-        }
-      ],
-      "duration_ms": 203560,
-      "name": "Life Goes On (feat. Sampa the Great)",
-      "url": "https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O"
-    },
-    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "Kresten Osgood Plays the Organ for You",
@@ -2259,22 +2291,6 @@
       "duration_ms": 341960,
       "name": "Them Changes",
       "url": "https://open.spotify.com/track/4760YTvGff1alhNSX5qIlO"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "You Feel Me",
-        "url": "https://open.spotify.com/album/51hZR2IsVsP2nI3D4fkkCK"
-      },
-      "artists": [
-        {
-          "name": "Otis McDonald",
-          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
-        }
-      ],
-      "duration_ms": 191443,
-      "name": "You Feel Me",
-      "url": "https://open.spotify.com/track/56eHf0w1qDf63ExrzcZiPA"
     },
     {
       "added_at": "2022-08-19 04:02:00",
@@ -3635,26 +3651,6 @@
       "duration_ms": 221790,
       "name": "Misfit",
       "url": "https://open.spotify.com/track/4prllBcCDVY0CUDnbvnRZ3"
-    },
-    {
-      "added_at": "2021-08-27 04:01:00",
-      "album": {
-        "name": "Diamond Ring",
-        "url": "https://open.spotify.com/album/0MqCJJBWl1gVwgz2jeNK6G"
-      },
-      "artists": [
-        {
-          "name": "Jonah Nilsson",
-          "url": "https://open.spotify.com/artist/3kjUc2BfNgd4fBUZf1Tkw5"
-        },
-        {
-          "name": "Steve Vai",
-          "url": "https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA"
-        }
-      ],
-      "duration_ms": 308640,
-      "name": "Diamond Ring",
-      "url": "https://open.spotify.com/track/0lmy3IKmljVgfvGB11T3Az"
     },
     {
       "added_at": "2021-09-03 04:01:00",

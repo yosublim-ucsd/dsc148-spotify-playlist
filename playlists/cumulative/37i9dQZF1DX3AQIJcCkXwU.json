@@ -1073,6 +1073,24 @@
     },
     {
       "album": {
+        "name": "Kailashi",
+        "url": "https://open.spotify.com/album/3xnVdpJCC98xufKIo0LMa6"
+      },
+      "artists": [
+        {
+          "name": "Pawan Krishna",
+          "url": "https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199750,
+      "name": "Kailashi",
+      "url": "https://open.spotify.com/track/0mr0CICPJj19Y4cp1HNOdx"
+    },
+    {
+      "album": {
         "name": "Bamboo Flute Music for Pranayama",
         "url": "https://open.spotify.com/album/3wSY15N8WtCDYuLBCAzsDN"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 381496,
+  "num_followers": 381550,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTI2MCwwMDAwMDAwMGUzY2NlNTRlYjNkYjU4Y2EwZTZhZDVmYWI4YWY1OGQ2",
+  "snapshot_id": "MTY3NjAwNTI2MCwwMDAwMDAwMDAxYWE3ZmUwMjY4OTY5ODU4YTNmZDM5MzAwOWUwMzg1",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -885,20 +885,20 @@
       "url": "https://open.spotify.com/track/0C5Pl5iQGnqrnguPjrriUP"
     },
     {
-      "added_at": "2021-02-26 05:01:00",
+      "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "That's Life",
-        "url": "https://open.spotify.com/album/3i0UVz6teoPDfy3JhK74Tr"
+        "name": "Inspiration (A Tribute To Nat King Cole)",
+        "url": "https://open.spotify.com/album/7CVBlFmDZnYjHyP6G0aj0m"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
         }
       ],
-      "duration_ms": 184506,
-      "name": "Luck Be a Lady",
-      "url": "https://open.spotify.com/track/5HiCP97aBMKcaNJdp8CAPq"
+      "duration_ms": 162080,
+      "name": "Just One Of Those Things",
+      "url": "https://open.spotify.com/track/6QZ4ZhD8hGVTfwoN2Ypl4Z"
     }
   ],
   "unique_name": "Big Band",

@@ -4,7 +4,7 @@
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Jailer
 
-116 songs - 3 hr 29 min
+117 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Suruli \- Background Score](https://open.spotify.com/track/6Rw6t4Lz8oRn69tyJd446x) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Jagame Thandhiram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0UJzrIeqV0yj1tpLihFk07) | 1:21 | 2021-11-01 |  |
 | [Thalaivar Intro](https://open.spotify.com/track/66GwGKo3iBBEQ51sw1YFcj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Background Score\)](https://open.spotify.com/album/1pQJguKLryCpmfP40tcEM0) | 0:41 | 2021-11-01 | 2022-07-09 |
 | [Thalaivar Rampage Theme Music \- Instrumental](https://open.spotify.com/track/2UyVeBgW9G7NibqtFgZaoX) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0) | [Annaatthe \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2E3gGgI2ai0bdeHsMNHCN7) | 1:58 | 2021-11-01 |  |
-| [Thangalaan \(Exclusive Making Theme\)](https://open.spotify.com/track/3KUHtEaJVm1uUzL8KCiqwG) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Thangalaan \(Exclusive Making Theme\)](https://open.spotify.com/album/08Gc2Y9PRNZtzf2dbW6Zb5) | 1:46 | 2023-04-20 |  |
+| [Thangalaan \(Exclusive Making Theme\)](https://open.spotify.com/track/3KUHtEaJVm1uUzL8KCiqwG) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Thangalaan \(Exclusive Making Theme\)](https://open.spotify.com/album/08Gc2Y9PRNZtzf2dbW6Zb5) | 1:46 | 2023-04-20 | 2023-04-22 |
+| [Thangalaan Exclusive Making Theme \(From "Thangalaan"\)](https://open.spotify.com/track/5EbAvvCyUFOhixZyCGDfAI) | [G\. V\. Prakash Kumar](https://open.spotify.com/artist/5a9VcQbsQIQBaIrkCoTsTn) | [Thangalaan Exclusive Making Theme \(From "Thangalaan"\)](https://open.spotify.com/album/6w0jwN8WqJ9dzKsat5zAwP) | 1:46 | 2023-04-20 |  |
 | [Thanjavur](https://open.spotify.com/track/0ez994tBZGGpFG0g3lC102) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB) | [96 \(Original Background Score\)](https://open.spotify.com/album/2wVkKhJFevirGdI4II2FM8) | 1:04 | 2023-02-06 | 2023-02-14 |
 | [The Conquest of Time \- Theme](https://open.spotify.com/track/28VwjI741mEmhZuGRHY5KU) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Indru Netru Naalai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0D7AwO4x3NHyy5Fy2QVisr) | 2:04 | 2021-11-01 | 2023-04-21 |
 | [The Dilli Connect \- Background Score](https://open.spotify.com/track/1BlJlzeCt2VPVdQMLXRe8y) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:21 | 2022-07-08 |  |

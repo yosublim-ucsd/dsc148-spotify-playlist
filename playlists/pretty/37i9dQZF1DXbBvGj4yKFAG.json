@@ -1,12 +1,12 @@
 {
   "description": "may include",
-  "num_followers": 28164,
+  "num_followers": 28442,
   "original_name": "side effects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTc1ODk1OCwwMDAwMDAwMDUzMjFlMWYwM2RkMTQwMzEyNDRmNzBiNDNjNGVlOWI0",
+  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDk4ZDg5MTQyNWFjMWY5YWI5MTlhNjNkOTMwY2U5OWNh",
   "tracks": [
     {
       "added_at": "2023-04-14 04:01:00",
@@ -269,6 +269,22 @@
       "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
     },
     {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Hole in My Pocket",
+        "url": "https://open.spotify.com/album/0RWp78xmyuPx9gLClAHpBP"
+      },
+      "artists": [
+        {
+          "name": "Purple Tears",
+          "url": "https://open.spotify.com/artist/6rlWf1GiPgR0mfeFbJzoJi"
+        }
+      ],
+      "duration_ms": 218060,
+      "name": "Hole in My Pocket",
+      "url": "https://open.spotify.com/track/3m9RcdyMk4KoppIdAYUo46"
+    },
+    {
       "added_at": "2023-04-11 14:48:39",
       "album": {
         "name": "insomniac",
@@ -425,7 +441,7 @@
       "url": "https://open.spotify.com/track/6Ay9SMrkUMZ1Uq01X5b7wJ"
     },
     {
-      "added_at": "2023-04-17 19:15:58",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "High School Football",
         "url": "https://open.spotify.com/album/3zaHm3kBLgfQkO8Jd1nVfn"
@@ -436,9 +452,9 @@
           "url": "https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh"
         }
       ],
-      "duration_ms": 200926,
-      "name": "It Was Nice To See You",
-      "url": "https://open.spotify.com/track/3P22L4S20rAHHekbrXxF4V"
+      "duration_ms": 218181,
+      "name": "I'll Be Damned",
+      "url": "https://open.spotify.com/track/0CXSKdN0pLbwc4TUp06ScG"
     },
     {
       "added_at": "2023-04-11 14:48:39",
@@ -847,6 +863,22 @@
       "duration_ms": 234973,
       "name": "Where Is My Mind? - Remastered",
       "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Chamomile",
+        "url": "https://open.spotify.com/album/5QLep18EqyzRJ50cz1BzWb"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "duration_ms": 217799,
+      "name": "Chamomile",
+      "url": "https://open.spotify.com/track/6GAPaGVVGgczGdMslknSMc"
     },
     {
       "added_at": "2023-04-11 14:48:39",

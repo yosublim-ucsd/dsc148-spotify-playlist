@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQ2MzEzMiwwMDAwMDAwMDJlZjlmOGY5NjdkZmVmOGM3MTkzM2U4MTVkOTI4ODZj",
+  "snapshot_id": "MTY1MjQ2MzEzMiwwMDAwMDAwMDY1MGRjNDY0ZTRmYTMyMDQyNDRmY2U5NmRlNmUyODM4",
   "tracks": [
     {
       "added_at": "2021-11-17 20:30:57",
@@ -1463,22 +1463,6 @@
       "duration_ms": 167293,
       "name": "El Polvo y la Marijuana",
       "url": "https://open.spotify.com/track/5YBKx8PBUSn9Pqj4mg0BOA"
-    },
-    {
-      "added_at": "2021-11-17 20:30:57",
-      "album": {
-        "name": "Temas Juguemos A Cantar Con La Marimba Orquesta Corona De Tapachula",
-        "url": "https://open.spotify.com/album/3Ujpe24gvXe53o5y33Ixfm"
-      },
-      "artists": [
-        {
-          "name": "Marimba Orquesta Corona De Tapachula",
-          "url": "https://open.spotify.com/artist/5A49aknVU0AJMFRYMOvYYb"
-        }
-      ],
-      "duration_ms": 152021,
-      "name": "El Combate",
-      "url": "https://open.spotify.com/track/0ajTD1hm6KzQmVD6reoxYD"
     },
     {
       "added_at": "2021-11-17 20:30:57",

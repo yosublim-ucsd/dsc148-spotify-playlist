@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "BANSHEE/#REBEL",
+        "url": "https://open.spotify.com/album/6UpvCy4UWIYdPg2czCWrHf"
+      },
+      "artists": [
+        {
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214880,
+      "name": "BANSHEE",
+      "url": "https://open.spotify.com/track/4SExMHmL5Njg7OO6WfVF8j"
+    },
+    {
+      "album": {
         "name": "Baptized in Blood",
         "url": "https://open.spotify.com/album/6vecSH2rsmj751vaPr0SDd"
       },
@@ -2988,6 +3006,24 @@
       "duration_ms": 325440,
       "name": "Divine Nemesis",
       "url": "https://open.spotify.com/track/33mubIMnq79O2EsZXBrZjs"
+    },
+    {
+      "album": {
+        "name": "Do Or Die",
+        "url": "https://open.spotify.com/album/6boPlXyyTR7F5YYPYhNLCX"
+      },
+      "artists": [
+        {
+          "name": "Elegant Weapons",
+          "url": "https://open.spotify.com/artist/68LxTdkzuDW3cnp83NKfpQ"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321440,
+      "name": "Do Or Die",
+      "url": "https://open.spotify.com/track/0JfaobFI1qJCapXqsCUxcc"
     },
     {
       "album": {
@@ -5786,7 +5822,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 313573,
       "name": "Killing In The Name",
       "url": "https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"
@@ -5934,6 +5970,24 @@
       "duration_ms": 299720,
       "name": "Koolaid",
       "url": "https://open.spotify.com/track/249XHhBxBOblTCYStaC27L"
+    },
+    {
+      "album": {
+        "name": "Kr\u00f8terveg Te Helvete",
+        "url": "https://open.spotify.com/album/7lv0IHJ9OB0l0NPIGQe7BJ"
+      },
+      "artists": [
+        {
+          "name": "Kvelertak",
+          "url": "https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254691,
+      "name": "Kr\u00f8terveg Te Helvete - Single Version",
+      "url": "https://open.spotify.com/track/5NOYRMBd512A6qmwTug8SL"
     },
     {
       "album": {
@@ -7306,7 +7360,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 443240,
       "name": "No More Tears",
       "url": "https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC"
@@ -8784,7 +8838,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 275026,
       "name": "RISE",
       "url": "https://open.spotify.com/track/1Q99lciGepKxOoUO0JxDAh"

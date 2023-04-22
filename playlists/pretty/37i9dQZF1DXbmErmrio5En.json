@@ -1,13 +1,65 @@
 {
   "description": "saturation, distortion, overdrive, feedBack. Cover: Riovaz",
-  "num_followers": 14419,
+  "num_followers": 14569,
   "original_name": "feedBack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDZjNjYwMGUzYjZhY2RlNTRmZTIyYzUzNDU1NjkyZDQz",
+  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMGQ5NmZmYTgyMWRmNTJlNzM2MmNmNGY2ZGM4NzRiZDgw",
   "tracks": [
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "red",
+        "url": "https://open.spotify.com/album/0iagP7baVunZbTqg0ike7I"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/2ED7MMsMWd8NUHtTY0ywgi"
+        },
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "duration_ms": 388186,
+      "name": "red",
+      "url": "https://open.spotify.com/track/5xjCG1XNmz5eWkYMLrGFZl"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "can we change the subject?",
+        "url": "https://open.spotify.com/album/3nunKtSZya6RJ1uuaozqYr"
+      },
+      "artists": [
+        {
+          "name": "re6ce",
+          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+        }
+      ],
+      "duration_ms": 160413,
+      "name": "can we change the subject?",
+      "url": "https://open.spotify.com/track/2Ogq99MVLM7DaxzIymjE26"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "i wna be like you",
+        "url": "https://open.spotify.com/album/7cfBvGGjF74yPKTVNtpXLe"
+      },
+      "artists": [
+        {
+          "name": "kurffew",
+          "url": "https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz"
+        }
+      ],
+      "duration_ms": 123333,
+      "name": "i wna be like you",
+      "url": "https://open.spotify.com/track/4cLhQxR5p74hslc5ao4B15"
+    },
     {
       "added_at": "2023-04-10 19:28:24",
       "album": {
@@ -27,22 +79,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "i wna be like you",
-        "url": "https://open.spotify.com/album/7cfBvGGjF74yPKTVNtpXLe"
-      },
-      "artists": [
-        {
-          "name": "kurffew",
-          "url": "https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz"
-        }
-      ],
-      "duration_ms": 123333,
-      "name": "i wna be like you",
-      "url": "https://open.spotify.com/track/4cLhQxR5p74hslc5ao4B15"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/12tTHLBSApLkacLXdWc3eJ"
       },
@@ -55,6 +91,26 @@
       "duration_ms": 129964,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/6SwADEar9alFscVOcPY2eq"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "revenge",
+        "url": "https://open.spotify.com/album/5IS1yIRaMXCLq4tN3yTzTK"
+      },
+      "artists": [
+        {
+          "name": "Godly the Ruler",
+          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
+        },
+        {
+          "name": "Billy Lemos",
+          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+        }
+      ],
+      "duration_ms": 139941,
+      "name": "revenge",
+      "url": "https://open.spotify.com/track/1Mq8BdG6aNUqZnDe5Ca4e1"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -73,6 +129,38 @@
       "url": "https://open.spotify.com/track/4pwYRwB6wlFdpeltboxC4N"
     },
     {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "patience is hard to come across",
+        "url": "https://open.spotify.com/album/7qzkAqQreDkp6VNZLJJXoa"
+      },
+      "artists": [
+        {
+          "name": "tmdistant",
+          "url": "https://open.spotify.com/artist/6BJvojHlWWAV9cbJouYPUi"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "patience is hard to come across",
+      "url": "https://open.spotify.com/track/6HqvUPI21BOzeIUCoNjgco"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "lately",
+        "url": "https://open.spotify.com/album/2PY3AOtQqHjcITTHtoN75K"
+      },
+      "artists": [
+        {
+          "name": "jayya",
+          "url": "https://open.spotify.com/artist/3bhTwTlnBeTx2Ks3kMT8FR"
+        }
+      ],
+      "duration_ms": 137668,
+      "name": "lately",
+      "url": "https://open.spotify.com/track/416u9bDidTqJMQV4JOwQvW"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Disturb The Norm",
@@ -89,6 +177,42 @@
       "url": "https://open.spotify.com/track/4DKZwMaxlfZv4APVu0i8eM"
     },
     {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "wow!",
+        "url": "https://open.spotify.com/album/5rTM0GN3KMDrK7y91rMRH3"
+      },
+      "artists": [
+        {
+          "name": "poptropicaslutz!",
+          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
+        },
+        {
+          "name": "aldrch",
+          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
+        }
+      ],
+      "duration_ms": 183414,
+      "name": "wow!",
+      "url": "https://open.spotify.com/track/361sWSauyBs8sGn4h2kOrN"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Fortune Cookie",
+        "url": "https://open.spotify.com/album/25hxrIRl5CcBV7nAoJFiW8"
+      },
+      "artists": [
+        {
+          "name": "dexter in the newsagent",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "duration_ms": 141782,
+      "name": "Vexed",
+      "url": "https://open.spotify.com/track/1ygKweLJhtyXz51C5o0hij"
+    },
+    {
       "added_at": "2023-03-21 18:24:02",
       "album": {
         "name": "HOLD",
@@ -103,38 +227,6 @@
       "duration_ms": 167272,
       "name": "HOLD",
       "url": "https://open.spotify.com/track/0YJBmQTqJyexrx5DNfog6n"
-    },
-    {
-      "added_at": "2023-03-15 19:57:27",
-      "album": {
-        "name": "teeth (you)",
-        "url": "https://open.spotify.com/album/2wcvDXC1imEEkkrmW5DwCY"
-      },
-      "artists": [
-        {
-          "name": "re6ce",
-          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
-        }
-      ],
-      "duration_ms": 121624,
-      "name": "teeth (you)",
-      "url": "https://open.spotify.com/track/21NGjx3wUcaeo9XaVxvZAP"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "High School Football",
-        "url": "https://open.spotify.com/album/3zaHm3kBLgfQkO8Jd1nVfn"
-      },
-      "artists": [
-        {
-          "name": "Brevin Kim",
-          "url": "https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "I'll Be Damned",
-      "url": "https://open.spotify.com/track/0CXSKdN0pLbwc4TUp06ScG"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -169,22 +261,6 @@
       "url": "https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "PERFECT!",
-        "url": "https://open.spotify.com/album/4Qwi4N4Uki3Q8RBaNVQ580"
-      },
-      "artists": [
-        {
-          "name": "Swansea Skag",
-          "url": "https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T"
-        }
-      ],
-      "duration_ms": 125564,
-      "name": "nostalgia",
-      "url": "https://open.spotify.com/track/1d6N1nqKKhShEWRdrioT0K"
-    },
-    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Hate.",
@@ -199,6 +275,54 @@
       "duration_ms": 134769,
       "name": "Hate.",
       "url": "https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "A Violent Dichotomy",
+        "url": "https://open.spotify.com/album/5kKivJoHCGybHPa0HZRqQt"
+      },
+      "artists": [
+        {
+          "name": "LUCIUS ARTHUR",
+          "url": "https://open.spotify.com/artist/67vICzj4HQ8LayBYXqF5YD"
+        }
+      ],
+      "duration_ms": 184665,
+      "name": "Humans",
+      "url": "https://open.spotify.com/track/07TVw9EACsJKkgkb729Bs6"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "High School Football",
+        "url": "https://open.spotify.com/album/3zaHm3kBLgfQkO8Jd1nVfn"
+      },
+      "artists": [
+        {
+          "name": "Brevin Kim",
+          "url": "https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "I'll Be Damned",
+      "url": "https://open.spotify.com/track/0CXSKdN0pLbwc4TUp06ScG"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "PERFECT!",
+        "url": "https://open.spotify.com/album/4Qwi4N4Uki3Q8RBaNVQ580"
+      },
+      "artists": [
+        {
+          "name": "Swansea Skag",
+          "url": "https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T"
+        }
+      ],
+      "duration_ms": 125564,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/1d6N1nqKKhShEWRdrioT0K"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -219,22 +343,6 @@
       "duration_ms": 166500,
       "name": "ready set go",
       "url": "https://open.spotify.com/track/621YYEli6NgMmjdJfTrMXX"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "A Violent Dichotomy",
-        "url": "https://open.spotify.com/album/5kKivJoHCGybHPa0HZRqQt"
-      },
-      "artists": [
-        {
-          "name": "LUCIUS ARTHUR",
-          "url": "https://open.spotify.com/artist/67vICzj4HQ8LayBYXqF5YD"
-        }
-      ],
-      "duration_ms": 184665,
-      "name": "Humans",
-      "url": "https://open.spotify.com/track/07TVw9EACsJKkgkb729Bs6"
     },
     {
       "added_at": "2023-03-17 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Get your Sunday sound right with this collection of current Gospel essentials.",
-  "num_followers": 79091,
+  "num_followers": 79181,
   "original_name": "Sundays Best",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MTE5NDc5MCwwMDAwMDAwMDNmNGFkZjBjNzY0Y2ZlMTg4NzNmMWY4NmMzYWM5MWM2",
+  "snapshot_id": "MTU5MTE5NDc5MCwwMDAwMDAwMDk5MDFmYzZiY2QwODdiYWZlNTU3MTcxY2M0MGMxY2Uz",
   "tracks": [
     {
       "added_at": "2020-06-03 14:33:10",
@@ -499,22 +499,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Worship Journal (Live)",
-        "url": "https://open.spotify.com/album/2lC14ntR7i7DrUWKVcJd8I"
-      },
-      "artists": [
-        {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
-        }
-      ],
-      "duration_ms": 384013,
-      "name": "Father Jesus Spirit (Live)",
-      "url": "https://open.spotify.com/track/3HFDqVk2aoM1o7MKARrW5U"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "More Than Anything (Radio Edit)",
         "url": "https://open.spotify.com/album/1fdSuqqPJUPRgJqiQpvUtc"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 260120,
       "name": "More Than Anything (Radio Edit)",
       "url": "https://open.spotify.com/track/0mVB0IVgOK7P1G77ZHTMc5"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "Worship Journal (Live)",
+        "url": "https://open.spotify.com/album/2lC14ntR7i7DrUWKVcJd8I"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        }
+      ],
+      "duration_ms": 384013,
+      "name": "Father Jesus Spirit (Live)",
+      "url": "https://open.spotify.com/track/3HFDqVk2aoM1o7MKARrW5U"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -579,22 +579,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Well Done",
-        "url": "https://open.spotify.com/album/2T6MoExj6ZfHxd5az22f35"
-      },
-      "artists": [
-        {
-          "name": "Erica Campbell",
-          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
-        }
-      ],
-      "duration_ms": 292789,
-      "name": "Well Done",
-      "url": "https://open.spotify.com/track/64hIlYHCreOzGCuzWsivXW"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "If God / Nothing But the Blood (Studio Version)",
         "url": "https://open.spotify.com/album/7jQPc5YniQzkR0ucMuJHMY"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 267597,
       "name": "If God / Nothing But the Blood - Studio Version",
       "url": "https://open.spotify.com/track/2kbffpFwcxNZT0HfHKf5Dv"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "Well Done",
+        "url": "https://open.spotify.com/album/2T6MoExj6ZfHxd5az22f35"
+      },
+      "artists": [
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        }
+      ],
+      "duration_ms": 292789,
+      "name": "Well Done",
+      "url": "https://open.spotify.com/track/64hIlYHCreOzGCuzWsivXW"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -751,22 +751,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "WOW Gospel 2016",
-        "url": "https://open.spotify.com/album/6MA7ireN4cN0GxrfL2IHVV"
-      },
-      "artists": [
-        {
-          "name": "William Murphy",
-          "url": "https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD"
-        }
-      ],
-      "duration_ms": 242893,
-      "name": "Already Getting Better",
-      "url": "https://open.spotify.com/track/6qCzqsSB1FLP3pr5fIrrAL"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "The Higher Experience",
         "url": "https://open.spotify.com/album/6MjlmoY1Y0vYhGQ1ShRXzV"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
+        "name": "WOW Gospel 2016",
+        "url": "https://open.spotify.com/album/6MA7ireN4cN0GxrfL2IHVV"
+      },
+      "artists": [
+        {
+          "name": "William Murphy",
+          "url": "https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD"
+        }
+      ],
+      "duration_ms": 242893,
+      "name": "Already Getting Better",
+      "url": "https://open.spotify.com/track/6qCzqsSB1FLP3pr5fIrrAL"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
         "name": "Deitrick Haddon & Hill City Worship Camp",
         "url": "https://open.spotify.com/album/4muX9GCt1QgF3CtMzgTtdu"
       },
@@ -795,6 +795,22 @@
       "duration_ms": 458498,
       "name": "A Billion People",
       "url": "https://open.spotify.com/track/2Ox4qEf3jSJaaWsAfeBb0K"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "The Truth (Standard)",
+        "url": "https://open.spotify.com/album/2PN0icbfw6JsxnWrNmksuO"
+      },
+      "artists": [
+        {
+          "name": "Casey J",
+          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
+        }
+      ],
+      "duration_ms": 469631,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/1Le6O6aIBN69wCWL1psmLR"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -827,22 +843,6 @@
       "duration_ms": 225400,
       "name": "I'm Good",
       "url": "https://open.spotify.com/track/06PTBb12MxQdtgyFIawUOK"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
-        "name": "The Truth (Standard)",
-        "url": "https://open.spotify.com/album/2PN0icbfw6JsxnWrNmksuO"
-      },
-      "artists": [
-        {
-          "name": "Casey J",
-          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
-        }
-      ],
-      "duration_ms": 469631,
-      "name": "I'm Yours",
-      "url": "https://open.spotify.com/track/1Le6O6aIBN69wCWL1psmLR"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -927,22 +927,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Listen",
-        "url": "https://open.spotify.com/album/5YChjVISCxpP25SXcAeEQm"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman Jr.",
-          "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
-        }
-      ],
-      "duration_ms": 295213,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/0RZfOr4ZxPJYOGqfhSQqoo"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "Blessings on Blessings",
         "url": "https://open.spotify.com/album/5v2XFpXgYPT7lC9mZf1x9R"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 297653,
       "name": "I Got Out",
       "url": "https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/5YChjVISCxpP25SXcAeEQm"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman Jr.",
+          "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
+        }
+      ],
+      "duration_ms": 295213,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/0RZfOr4ZxPJYOGqfhSQqoo"
     }
   ],
   "unique_name": "Sundays Best",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Amanda Pujó\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,620 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,633 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,17 +41,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 31 | [x las veces](https://open.spotify.com/track/3zThD2oeqjI0M4XObSKgiH) | [Nanizzie](https://open.spotify.com/artist/0sw69zXt3PgxRXvo1Czg3j) | [x las veces](https://open.spotify.com/album/7fqyk1CVtAXVEg0f921CuC) | 3:25 |
 | 32 | [Ficción](https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R) | [Mirror Revelations](https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9) | [Ficción](https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z) | 6:24 |
 | 33 | [No Te Conozco, Pero Te Extraño](https://open.spotify.com/track/781oj1x6Uc6SKEgyLFsJ0v) | [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG), [Juan Pino](https://open.spotify.com/artist/6Vri1Sn9BAdOZUz0eK1SK1) | [No Te Conozco, Pero Te Extraño](https://open.spotify.com/album/7mErNgL0ywcgSDKsHDnZoT) | 3:00 |
-| 34 | [Las Pibas](https://open.spotify.com/track/5vCQcyoQH4iLypn0WYU4ik) | [Mel Ömana](https://open.spotify.com/artist/2beEvJlotpHyrcksZteM4z) | [Las Pibas](https://open.spotify.com/album/4UJjY6XLhk7SuMZSsbM67R) | 2:39 |
-| 35 | [E.T.E.R.](https://open.spotify.com/track/6vLKWhu7daAUoj7xlUid3v) | [Oruga](https://open.spotify.com/artist/1Z7cXrGWV5wCBspuP253Hk) | [Oruga](https://open.spotify.com/album/6Oj8bHGWDpy1EQRuf7RR2n) | 3:24 |
-| 36 | [parkour](https://open.spotify.com/track/4tr21CwLteQmwz1E1IwgZY) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [parkour](https://open.spotify.com/album/5rXCyHFLbBRDCMzcIpkVnL) | 3:50 |
-| 37 | [Éxodo Mental](https://open.spotify.com/track/1ZT6RqnorPxsQnQ2mzgwP1) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb) | [Pánico y Distorsión](https://open.spotify.com/album/7hhroFtSzsFx9L9ALmKESc) | 3:16 |
-| 38 | [Casualidad](https://open.spotify.com/track/65xafocysy0HnCoKNo4n1q) | [1982 \(diecinueve ochenta y dos\)](https://open.spotify.com/artist/5TM0RQvmHVybWPQtQHoTd4) | [Casualidad](https://open.spotify.com/album/0aO9I8Mp9HVz4S4bphs0q9) | 3:48 |
-| 39 | [Corazón Frío](https://open.spotify.com/track/5Ix7kzOMpmCrNBZ0Wc0uNT) | [Davo](https://open.spotify.com/artist/6bXwSRTVIBHKPJ2kE9gS80) | [Corazón Frío](https://open.spotify.com/album/2cx99ZniHdOpT8M2GA6nvi) | 3:16 |
-| 40 | [te miraría](https://open.spotify.com/track/1VTM0nE0kPvf7g45CDEf8A) | [Victoria Davancens](https://open.spotify.com/artist/3C0A0jaQn169OBA4hfweQJ) | [te miraría](https://open.spotify.com/album/4BlvYZB9VQ5qlISigYwRnM) | 3:43 |
+| 34 | [Éxodo Mental](https://open.spotify.com/track/1ZT6RqnorPxsQnQ2mzgwP1) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb) | [Pánico y Distorsión](https://open.spotify.com/album/7hhroFtSzsFx9L9ALmKESc) | 3:16 |
+| 35 | [Las Pibas](https://open.spotify.com/track/5vCQcyoQH4iLypn0WYU4ik) | [Mel Ömana](https://open.spotify.com/artist/2beEvJlotpHyrcksZteM4z) | [Las Pibas](https://open.spotify.com/album/4UJjY6XLhk7SuMZSsbM67R) | 2:39 |
+| 36 | [E.T.E.R.](https://open.spotify.com/track/6vLKWhu7daAUoj7xlUid3v) | [Oruga](https://open.spotify.com/artist/1Z7cXrGWV5wCBspuP253Hk) | [Oruga](https://open.spotify.com/album/6Oj8bHGWDpy1EQRuf7RR2n) | 3:24 |
+| 37 | [parkour](https://open.spotify.com/track/4tr21CwLteQmwz1E1IwgZY) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [parkour](https://open.spotify.com/album/5rXCyHFLbBRDCMzcIpkVnL) | 3:50 |
+| 38 | [te miraría](https://open.spotify.com/track/1VTM0nE0kPvf7g45CDEf8A) | [Victoria Davancens](https://open.spotify.com/artist/3C0A0jaQn169OBA4hfweQJ) | [te miraría](https://open.spotify.com/album/4BlvYZB9VQ5qlISigYwRnM) | 3:43 |
+| 39 | [Casualidad](https://open.spotify.com/track/65xafocysy0HnCoKNo4n1q) | [1982 \(diecinueve ochenta y dos\)](https://open.spotify.com/artist/5TM0RQvmHVybWPQtQHoTd4) | [Casualidad](https://open.spotify.com/album/0aO9I8Mp9HVz4S4bphs0q9) | 3:48 |
+| 40 | [Corazón Frío](https://open.spotify.com/track/5Ix7kzOMpmCrNBZ0Wc0uNT) | [Davo](https://open.spotify.com/artist/6bXwSRTVIBHKPJ2kE9gS80) | [Corazón Frío](https://open.spotify.com/album/2cx99ZniHdOpT8M2GA6nvi) | 3:16 |
 | 41 | [Velvet](https://open.spotify.com/track/3qU8U9M2l7Q32WAy2eYAwm) | [Tuzeint](https://open.spotify.com/artist/0iQ2RumqYpmrZVxHCR771X) | [Velvet](https://open.spotify.com/album/769hmq1tKBE2Tu950P9enr) | 2:41 |
 | 42 | [Corazón de Hojalata](https://open.spotify.com/track/4gH7AJLxGrrbQRCJp5aGsm) | [Serranow](https://open.spotify.com/artist/38NpF2cwENnpQ3P19UnyUP), [Emm Silverio](https://open.spotify.com/artist/0LqZYyxpnN9W2CeWRNGYli) | [Corazón de Hojalata](https://open.spotify.com/album/07upp7a8Y0bTkYYsoqvvb5) | 3:58 |
-| 43 | [Cierto](https://open.spotify.com/track/3alsIFbORQvU7j9AUsvhYj) | [Luca Laurito](https://open.spotify.com/artist/7E5RaJlaFBjjD8nrZsK1iz), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [Cierto](https://open.spotify.com/album/2jdcppCWNa80802PF01AuP) | 3:26 |
-| 44 | [SUERTE](https://open.spotify.com/track/4SgIhxy6ViuwWZEB3tePLo) | [Dani Manzan](https://open.spotify.com/artist/3yk1IfXsveWfy2oyl5yQm0), [Christopher Rafael](https://open.spotify.com/artist/0UzqLxUiIgatEfQfxEN26K) | [SUERTE](https://open.spotify.com/album/5QKexiENC5HezkBqafnEAb) | 4:03 |
+| 43 | [SUERTE](https://open.spotify.com/track/4SgIhxy6ViuwWZEB3tePLo) | [Dani Manzan](https://open.spotify.com/artist/3yk1IfXsveWfy2oyl5yQm0), [Christopher Rafael](https://open.spotify.com/artist/0UzqLxUiIgatEfQfxEN26K) | [SUERTE](https://open.spotify.com/album/5QKexiENC5HezkBqafnEAb) | 4:03 |
+| 44 | [Cierto](https://open.spotify.com/track/3alsIFbORQvU7j9AUsvhYj) | [Luca Laurito](https://open.spotify.com/artist/7E5RaJlaFBjjD8nrZsK1iz), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [Cierto](https://open.spotify.com/album/2jdcppCWNa80802PF01AuP) | 3:26 |
 | 45 | [Tiempo](https://open.spotify.com/track/5kNOeciDEYgCTe5XyQrJOh) | [Mina & El Tigre](https://open.spotify.com/artist/5CloCdNqLzzzz6y7At6Laz) | [Tiempo](https://open.spotify.com/album/52s8CsnS9McjKPTlJukBkN) | 3:31 |
 | 46 | [Isla](https://open.spotify.com/track/1Lp4KG6trAZO2OlJSOACZE) | [Mark Horton](https://open.spotify.com/artist/0DCcwooShprWkDmgMYR8kS) | [Isla](https://open.spotify.com/album/0N8QAL4gyTBBPUV58MHcI8) | 4:20 |
 | 47 | [Arrullo](https://open.spotify.com/track/1WNZcZIO1LsoUra7hiYT7A) | [Siempreviva](https://open.spotify.com/artist/0AobgYoJ2EnfnraXDiiXQX) | [Bajo las primeras luces elegimos volver](https://open.spotify.com/album/4U1TlWXfxUZbZvnOVkuDXq) | 5:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Estrella](https://open.spotify.com/track/65ujqMp1mdOhzp75c5t90R) | [Dinié](https://open.spotify.com/artist/1Xaa9v4eSL7fShYSUs4Jjq), [Amor Eterno](https://open.spotify.com/artist/5azVpthdaO4HLN381lLqW6) | [Amor Eterno Vol\. 1](https://open.spotify.com/album/1qbfBzAmMF3SbzO0IXdbpa) | 2:14 |
 | 50 | [No Me Da La Fokin' Gana](https://open.spotify.com/track/53rONYB3DQYqioJ2Q4YZVf) | [Ani Cordero](https://open.spotify.com/artist/0CRwWa8WxuhnF5eTf45lI1) | [No Me Da La Fokin' Gana](https://open.spotify.com/album/2rBPBckMjlPz4h1TRGHDSi) | 3:56 |
 
-Snapshot ID: `MTY4MTkyNzIwMCwwMDAwMDAwMDliMzk3Y2E5NzY5OWE3NWI2ZTM4NDYzMDdiOThlYmE2`
+Snapshot ID: `MTY4MTkyNzIwMCwwMDAwMDAwMDZmZGM3ZjFiYzRiOTdmY2UzMDkyMTE3MDZiNDI3MjEx`

@@ -4,7 +4,7 @@
 
 > Music wellness for your soul.
 
-269 songs - 14 hr 20 min
+270 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Closing My Eyes](https://open.spotify.com/track/6nwr3T1dBHPgXPHPudwqzo) | [Meridiniella](https://open.spotify.com/artist/21Kjl0iOx81jLDXgrXB6JR) | [Closing My Eyes](https://open.spotify.com/album/3vGlGyOhjf9EjdbdHpYHMT) | 4:11 | 2021-12-08 |  |
 | [Consapevolezza](https://open.spotify.com/track/63kxLIjDG9maJO1T1oxVoP) | [Dormiente](https://open.spotify.com/artist/5CsUyEbyQ9JoZLTaP9HJhu) | [Consapevolezza](https://open.spotify.com/album/5miTWb698z08O6V5pxTc8X) | 2:34 | 2022-09-02 |  |
 | [Contemplation](https://open.spotify.com/track/6dAScKFmnc7epcmlV7uXRv) | [Night Sounds](https://open.spotify.com/artist/23t9fvBqS4kZ6aBANPfsb5) | [Contemplation](https://open.spotify.com/album/4X1afAsNqXENvFo1ijXnau) | 3:02 | 2021-12-08 |  |
+| [Cosmic Bliss](https://open.spotify.com/track/2yf19OMz4MKWGBOIBbwa6F) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Millennia](https://open.spotify.com/album/2pMVuu8bvtwcxk9mCWl6Xb) | 3:25 | 2023-04-21 |  |
 | [Decision](https://open.spotify.com/track/0AUsg7yWsJKPfDalSDt80e) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ) | [Internal Voices](https://open.spotify.com/album/2hO9mfx0JczzFqrrLRqtWf) | 3:27 | 2021-12-08 |  |
 | [Decoder](https://open.spotify.com/track/5qzcXIVuKxOwtMbXYils8n) | [Margaret Phineas](https://open.spotify.com/artist/2O6ryyAOlxGJZqANs7wtoK) | [Hobart](https://open.spotify.com/album/5KTEcDkNtEDdPPBMSqzCqC) | 3:16 | 2021-12-08 |  |
 | [Deep Thoughts](https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH) | [Danny Shamoun](https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F) | [Deep Thoughts](https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI) | 3:12 | 2021-12-08 | 2022-08-24 |
@@ -199,7 +200,7 @@
 | [Sakura](https://open.spotify.com/track/1tGkoTAHqcFeJ8jqgRzMXJ) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Hanami](https://open.spotify.com/album/5khFi2xy0WnJVwiJ3PW609) | 3:31 | 2021-12-08 |  |
 | [Salve](https://open.spotify.com/track/3ciGnLsselzhecVZZiHzfZ) | [Ferdinando Zetticci](https://open.spotify.com/artist/4MLLLG0z38an4nXddu8R3O) | [Salve](https://open.spotify.com/album/73yZQQSNzwlGyMBwndXjrd) | 2:50 | 2021-12-08 |  |
 | [Santa Fe Reflection](https://open.spotify.com/track/7hIAFW3wOT3uRN42BXZRPx) | [Sleep Tentacles](https://open.spotify.com/artist/5XmgBXKhW63y3BaSISYNOd) | [Scales](https://open.spotify.com/album/5SdcXnRTvOdtSDomLsnCAh) | 3:50 | 2021-12-08 |  |
-| [Savannah](https://open.spotify.com/track/1GfkDco09y8iruC25beFMz) | [Nath Lue](https://open.spotify.com/artist/1kInNb813DsqBOR40Sg1Ih) | [Auspicious](https://open.spotify.com/album/2DJAMZ46NRFHgC1O9icft6) | 3:26 | 2021-12-08 |  |
+| [Savannah](https://open.spotify.com/track/1GfkDco09y8iruC25beFMz) | [Nath Lue](https://open.spotify.com/artist/1kInNb813DsqBOR40Sg1Ih) | [Auspicious](https://open.spotify.com/album/2DJAMZ46NRFHgC1O9icft6) | 3:26 | 2021-12-08 | 2023-04-22 |
 | [Sea Of Colors](https://open.spotify.com/track/0vpo0LIlSsiqIWf44ydK2z) | [Airship Express](https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG) | [Sea Of Colors](https://open.spotify.com/album/3aW96az8cTGpSCGBw0UsUI) | 3:04 | 2021-12-08 |  |
 | [Secret Haven](https://open.spotify.com/track/0sk2c1F1WqhnBDFlxefiQM) | [August D\. Valentine](https://open.spotify.com/artist/4MJYe0nbmZr7ty64T1VGoN) | [Secret Haven](https://open.spotify.com/album/6VjqiyIPItbntWdMsTH3DB) | 4:30 | 2021-12-08 | 2022-08-24 |
 | [Secret Water](https://open.spotify.com/track/4SWn136gXYwVYOQDta5dw6) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Secret Water](https://open.spotify.com/album/3YgnlQBSQIqMXWjFNXSSke) | 3:44 | 2021-12-08 |  |

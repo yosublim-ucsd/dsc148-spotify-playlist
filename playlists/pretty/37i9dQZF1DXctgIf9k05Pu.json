@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 231341,
+  "num_followers": 231353,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc2MTMwOCwwMDAwMDAwMDRjMjRmYWJjOGFhNTUwOWVkMzA0Yzc2NDZiNDcyNTVh",
+  "snapshot_id": "MTY0Mzc2MTMwOCwwMDAwMDAwMGQzNDdmZjJhYmRhZjQxOWJlNGYxZmIwOTljNDkyNzNh",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Steven Universe",
-        "url": "https://open.spotify.com/album/5jM0CBYMJh1J5vcxR0DzM5"
-      },
-      "artists": [
-        {
-          "name": "L.Dre",
-          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
-        }
-      ],
-      "duration_ms": 134025,
-      "name": "Steven Universe",
-      "url": "https://open.spotify.com/track/7zkA4TSmYO1Bko2PnFn0YB"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 252121,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/5VnaOLeK1lKfULuNwet8ck"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Steven Universe",
+        "url": "https://open.spotify.com/album/5jM0CBYMJh1J5vcxR0DzM5"
+      },
+      "artists": [
+        {
+          "name": "L.Dre",
+          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
+        }
+      ],
+      "duration_ms": 134025,
+      "name": "Steven Universe",
+      "url": "https://open.spotify.com/track/7zkA4TSmYO1Bko2PnFn0YB"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Gravity Falls",
-        "url": "https://open.spotify.com/album/1iMSGts0m62uVAmvCxIxiG"
-      },
-      "artists": [
-        {
-          "name": "L.Dre",
-          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "Gravity Falls",
-      "url": "https://open.spotify.com/track/7HWaB2AEfyhAUEPkW9G4ni"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/3fr8eTKmfc0cjaijl4lduW"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 157524,
       "name": "I'm Sorry",
       "url": "https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Gravity Falls",
+        "url": "https://open.spotify.com/album/1iMSGts0m62uVAmvCxIxiG"
+      },
+      "artists": [
+        {
+          "name": "L.Dre",
+          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "Gravity Falls",
+      "url": "https://open.spotify.com/track/7HWaB2AEfyhAUEPkW9G4ni"
     },
     {
       "added_at": "2022-02-02 00:21:48",

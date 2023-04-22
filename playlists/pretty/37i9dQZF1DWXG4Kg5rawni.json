@@ -1,12 +1,12 @@
 {
   "description": "Adoradores cantando sobre o amor. Foto: Paulo Cesar Baruk",
-  "num_followers": 82473,
+  "num_followers": 82513,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ5ODA4MSwwMDAwMDAwMDhlN2M4N2ZkOGZhNjA0NTI1OWM2MDMxZDNjYzM2MGMx",
+  "snapshot_id": "MTY3ODQ5ODA4MSwwMDAwMDAwMDQwMjVjMjZkOGEyMTkyMWYyZWZlYjEyMTUzZWVlMzM2",
   "tracks": [
     {
       "added_at": "2023-03-11 01:28:01",
@@ -707,26 +707,6 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
-        "name": "Encontrar Voc\u00ea",
-        "url": "https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij"
-      },
-      "artists": [
-        {
-          "name": "Diego Karter",
-          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
-        },
-        {
-          "name": "Thamiriz",
-          "url": "https://open.spotify.com/artist/2u2MB8deIasxceazWjMBaM"
-        }
-      ],
-      "duration_ms": 235373,
-      "name": "Encontrar Voc\u00ea",
-      "url": "https://open.spotify.com/track/4TMVm9USFh1gi4HfHr0Gi4"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
         "name": "Onde Est\u00e1 Voc\u00ea",
         "url": "https://open.spotify.com/album/7BXoXN8TRG0pZf9Q5FmtrW"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 246444,
       "name": "Onde Est\u00e1 Voc\u00ea",
       "url": "https://open.spotify.com/track/0bk0A00Y3pw4u0oQPpkrQL"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
+        "name": "Encontrar Voc\u00ea",
+        "url": "https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij"
+      },
+      "artists": [
+        {
+          "name": "Diego Karter",
+          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
+        },
+        {
+          "name": "Thamiriz",
+          "url": "https://open.spotify.com/artist/2u2MB8deIasxceazWjMBaM"
+        }
+      ],
+      "duration_ms": 235373,
+      "name": "Encontrar Voc\u00ea",
+      "url": "https://open.spotify.com/track/4TMVm9USFh1gi4HfHr0Gi4"
     },
     {
       "added_at": "2023-03-11 01:28:01",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
-        "name": "N\u00e3o H\u00e1 Limites",
-        "url": "https://open.spotify.com/album/7GGCEqbIutMDDgGBzTlgxB"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 254676,
-      "name": "N\u00e3o H\u00e1 Limites",
-      "url": "https://open.spotify.com/track/18sk6Gy3SYclFYSSVK7Fqs"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
         "name": "Nosso Castelo",
         "url": "https://open.spotify.com/album/20HqyoxH3L4OAL9J8rElVd"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 252215,
       "name": "Nosso Castelo",
       "url": "https://open.spotify.com/track/3cwe5HZqAhygCVPPVcwsit"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
+        "name": "N\u00e3o H\u00e1 Limites",
+        "url": "https://open.spotify.com/album/7GGCEqbIutMDDgGBzTlgxB"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 254676,
+      "name": "N\u00e3o H\u00e1 Limites",
+      "url": "https://open.spotify.com/track/18sk6Gy3SYclFYSSVK7Fqs"
     },
     {
       "added_at": "2023-03-11 01:28:01",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
+        "name": "Como da Primeira Vez",
+        "url": "https://open.spotify.com/album/1l251cpn8Zq7lddCDv6ek4"
+      },
+      "artists": [
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "Como da Primeira Vez",
+      "url": "https://open.spotify.com/track/5LtLJOxgWzpbt633NCrYTG"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
         "name": "Amo Voc\u00ea Vol. 21",
         "url": "https://open.spotify.com/album/2qLkUabUou3EiP9wsV4vrj"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 127093,
       "name": "Meu Bem",
       "url": "https://open.spotify.com/track/5EmqOgQm6OD97oxkUGJOsA"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
-        "name": "Como da Primeira Vez",
-        "url": "https://open.spotify.com/album/1l251cpn8Zq7lddCDv6ek4"
-      },
-      "artists": [
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "Como da Primeira Vez",
-      "url": "https://open.spotify.com/track/5LtLJOxgWzpbt633NCrYTG"
     },
     {
       "added_at": "2023-03-11 01:28:01",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
-        "name": "Um Pedacinho do C\u00e9u",
-        "url": "https://open.spotify.com/album/4IopoSZsKYrVAV3F4rwjoG"
-      },
-      "artists": [
-        {
-          "name": "Suellen Lima",
-          "url": "https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P"
-        }
-      ],
-      "duration_ms": 233620,
-      "name": "Um Pedacinho do C\u00e9u",
-      "url": "https://open.spotify.com/track/1TBMTBW0724e5bWeCpO3YJ"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
         "name": "D.R. Desfrutando a Rela\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/2nvHgivR5Eufk3rDQbpuX3"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 227855,
       "name": "Por Favor",
       "url": "https://open.spotify.com/track/0DEV0GiQpOWptidS9t7WNY"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
+        "name": "Um Pedacinho do C\u00e9u",
+        "url": "https://open.spotify.com/album/4IopoSZsKYrVAV3F4rwjoG"
+      },
+      "artists": [
+        {
+          "name": "Suellen Lima",
+          "url": "https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P"
+        }
+      ],
+      "duration_ms": 233620,
+      "name": "Um Pedacinho do C\u00e9u",
+      "url": "https://open.spotify.com/track/1TBMTBW0724e5bWeCpO3YJ"
     },
     {
       "added_at": "2023-03-11 01:28:01",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
-        "name": "Perto de Mim",
-        "url": "https://open.spotify.com/album/5tkfbVIirsXOLrEOD5C58y"
-      },
-      "artists": [
-        {
-          "name": "\u00c1quila",
-          "url": "https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ"
-        }
-      ],
-      "duration_ms": 168735,
-      "name": "Perto de Mim",
-      "url": "https://open.spotify.com/track/5N5c9pE8W7KFfV3C9kOLdt"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
         "name": "Amor \u00e9 Flor",
         "url": "https://open.spotify.com/album/7dZluOqo9R8tqUKoSPhqT1"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 135547,
       "name": "Amor \u00e9 Flor",
       "url": "https://open.spotify.com/track/2xHj61bOgsrBQ6kU7UYphq"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
+        "name": "Perto de Mim",
+        "url": "https://open.spotify.com/album/5tkfbVIirsXOLrEOD5C58y"
+      },
+      "artists": [
+        {
+          "name": "\u00c1quila",
+          "url": "https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ"
+        }
+      ],
+      "duration_ms": 168735,
+      "name": "Perto de Mim",
+      "url": "https://open.spotify.com/track/5N5c9pE8W7KFfV3C9kOLdt"
     },
     {
       "added_at": "2023-03-11 01:28:01",

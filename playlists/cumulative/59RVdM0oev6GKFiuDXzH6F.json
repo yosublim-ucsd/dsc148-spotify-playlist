@@ -1419,6 +1419,32 @@
     },
     {
       "album": {
+        "name": "Lluvia en Colombia (feat. El Mayam)",
+        "url": "https://open.spotify.com/album/3f2u3ZowZuBrLbLqGyz0fi"
+      },
+      "artists": [
+        {
+          "name": "Gregor Salto",
+          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
+        },
+        {
+          "name": "FIGHT CLVB",
+          "url": "https://open.spotify.com/artist/7d6RF1h3kPu6Ij0RXcTeJg"
+        },
+        {
+          "name": "El Mayam",
+          "url": "https://open.spotify.com/artist/0NYR6imR2oVp8iy4KF1OEj"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174955,
+      "name": "Lluvia en Colombia (feat. El Mayam)",
+      "url": "https://open.spotify.com/track/3KowtgFAQpAqdZ8A0GOpTX"
+    },
+    {
+      "album": {
         "name": "Lo Que Siento",
         "url": "https://open.spotify.com/album/4y3hcyQJTVQxM4ZWRvmdxS"
       },
@@ -1782,6 +1808,24 @@
       "duration_ms": 216562,
       "name": "Move Left Move Right",
       "url": "https://open.spotify.com/track/7wnbohQK3eQyow0q4WuzXf"
+    },
+    {
+      "album": {
+        "name": "Mumba EP",
+        "url": "https://open.spotify.com/album/4UnaLZo7HpgSX8MoZpOSYZ"
+      },
+      "artists": [
+        {
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168745,
+      "name": "Mumba",
+      "url": "https://open.spotify.com/track/093pNDCe1KEptfuBLXWIHI"
     },
     {
       "album": {

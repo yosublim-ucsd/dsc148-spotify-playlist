@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar. Foto: Kennto, YoungJhow, JoyFull",
-  "num_followers": 99594,
+  "num_followers": 99652,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTU4MzM1NiwwMDAwMDAwMDVhNmZmZTg5ZDMwNjgxZDJmYmIzOTUzYzUzY2EzMzI3",
+  "snapshot_id": "MTY4MTU4MzM1NiwwMDAwMDAwMDMzNDVhNmYwMmNhNzA3ZTVkY2FhN2Q5MjM2YzkxYjQ5",
   "tracks": [
     {
       "added_at": "2023-04-15 18:29:16",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2023-04-15 18:29:16",
       "album": {
-        "name": "Preso a Ti (Remix)",
-        "url": "https://open.spotify.com/album/0rFkK4UCEHCq5l4bqn3jCC"
-      },
-      "artists": [
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        },
-        {
-          "name": "Ton Molinari",
-          "url": "https://open.spotify.com/artist/2qdD7yDxhXo9DVvyYQveao"
-        }
-      ],
-      "duration_ms": 224062,
-      "name": "Preso a Ti - Remix",
-      "url": "https://open.spotify.com/track/476Qd4m9IgQIw7GDIWWeQ2"
-    },
-    {
-      "added_at": "2023-04-15 18:29:16",
-      "album": {
         "name": "Mi Rey",
         "url": "https://open.spotify.com/album/0BdNaQV0f2LnPh6J6mHSmP"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 131250,
       "name": "Mi Rey",
       "url": "https://open.spotify.com/track/32a3S0w8oGXX2aZS0NF9fI"
+    },
+    {
+      "added_at": "2023-04-15 18:29:16",
+      "album": {
+        "name": "Preso a Ti (Remix)",
+        "url": "https://open.spotify.com/album/0rFkK4UCEHCq5l4bqn3jCC"
+      },
+      "artists": [
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "Ton Molinari",
+          "url": "https://open.spotify.com/artist/2qdD7yDxhXo9DVvyYQveao"
+        }
+      ],
+      "duration_ms": 224062,
+      "name": "Preso a Ti - Remix",
+      "url": "https://open.spotify.com/track/476Qd4m9IgQIw7GDIWWeQ2"
     }
   ],
   "unique_name": "Balada Gospel",

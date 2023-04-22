@@ -4,13 +4,13 @@
 
 > Disfruta del más fino R&B creado en el continente y España\. Tiago PZK en portada.
 
-209 songs - 11 hr 6 min
+210 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [19 HORAS](https://open.spotify.com/track/0TQ7ZzUutFsbyWPehDLdkG) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [19 HORAS](https://open.spotify.com/album/0I8diZN920PZQawwNu2Iud) | 2:54 | 2023-03-11 | 2023-03-18 |
 | [9:15](https://open.spotify.com/track/505e4QYrsvZHOuojWxpOLK) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [9:15](https://open.spotify.com/album/0aHNuxs4GlcjYkoENqm6en) | 2:04 | 2021-12-13 |  |
-| [A la Mitad \(Suceso 1\)](https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Roxanne](https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo) | 3:33 | 2021-12-13 |  |
+| [A la Mitad \(Suceso 1\)](https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Roxanne](https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo) | 3:33 | 2021-12-13 | 2023-04-22 |
 | [A Mi Ritmo](https://open.spotify.com/track/51h83YT521kYxTLng0FyRv) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [A Mi Ritmo](https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX) | 3:06 | 2022-02-18 | 2023-01-27 |
 | [A Través Del Espejo \(feat\. Kendall Peña & Melanie Espinosa\)](https://open.spotify.com/track/1gCvHsRHayoF9pjScWnbcO) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Lucauy](https://open.spotify.com/artist/5bm3h7dBIpjofczY1v8jD4), [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn), [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [A Través Del Espejo \(feat\. Kendall Peña & Melanie Espinosa\)](https://open.spotify.com/album/2qZv4vmdDS6VnNinS6VgPo) | 3:26 | 2022-01-28 |  |
 | [A Tu Lado](https://open.spotify.com/track/4FjobZuLYrJvFpeXcn2Ual) | [Manolo Maya](https://open.spotify.com/artist/3iJ4XxthgoaFRFAv44Ed8X) | [A Tu Lado](https://open.spotify.com/album/2gKzIPfmF0tJegCSB1glgY) | 3:11 | 2021-12-13 | 2022-03-27 |
@@ -194,6 +194,7 @@
 | [Tengo sueño y la noche está fría](https://open.spotify.com/track/20VsB53FK4Pz97E64fatIo) | [Miki Deb](https://open.spotify.com/artist/7zfbfOUFubSgFCZt4aCJVY) | [Tengo sueño y la noche está fría](https://open.spotify.com/album/4TdmtENPdGoimxsJv4kAoB) | 3:27 | 2023-01-02 | 2023-01-27 |
 | [Terminamos](https://open.spotify.com/track/3dXKFweUDz1Ls4wXLQIIVh) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Terminamos](https://open.spotify.com/album/1TIbf6LcBe262eVSsJWLQu) | 3:34 | 2021-12-13 | 2022-02-19 |
 | [Terremoto](https://open.spotify.com/track/3AbJALTHShkODDRfL5BH8p) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [Terremoto](https://open.spotify.com/album/3IWMKaP4kN3mgqpkQFhrMu) | 3:27 | 2022-03-11 | 2023-01-03 |
+| [Thinking About You](https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Thinking About You](https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj) | 2:37 | 2023-04-21 |  |
 | [Todo](https://open.spotify.com/track/5rl1NVOQZBWMqhyTiOUHrJ) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd) | [Todo](https://open.spotify.com/album/3Vy5AXz67VBxwrnrZmXztx) | 3:22 | 2022-11-25 | 2023-01-27 |
 | [TOSCANA](https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Cardellino](https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC) | 2:49 | 2021-12-13 | 2022-01-05 |
 | [Tu Papá Te Va a Llamar](https://open.spotify.com/track/5whRxHuzSIj35MUkIm0Op6) | [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Protohombre](https://open.spotify.com/album/4jk57uh2vy7YFkEy7X2iaZ) | 3:40 | 2021-12-13 | 2023-01-27 |

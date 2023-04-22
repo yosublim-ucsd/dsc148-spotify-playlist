@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 41052,
+  "num_followers": 41179,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAyODAwMCwwMDAwMDAwMGFjYTUyNzJhMjU4YThhNmExZmMwYTFlZmRmZjdhYzQw",
+  "snapshot_id": "MTY4MjAyODAwMCwwMDAwMDAwMGQxM2U3MGNmY2JmODhjNWU0MDI3M2M5NTdjMWU1Mjcw",
   "tracks": [
     {
       "added_at": "2023-04-20 22:00:00",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "Hard Knock Life",
+        "url": "https://open.spotify.com/album/0pbwFymA94rgfOGDEcRdPZ"
+      },
+      "artists": [
+        {
+          "name": "Gunz For Hire",
+          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
+        }
+      ],
+      "duration_ms": 215684,
+      "name": "Hard Knock Life",
+      "url": "https://open.spotify.com/track/3aD91A4Lk9uGAcyk3fhYsW"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "Terrified",
         "url": "https://open.spotify.com/album/4tD5GB1lBAMJLWqZDif3Ae"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 202040,
       "name": "Terrified",
       "url": "https://open.spotify.com/track/0TYBkC9jZ5b8FPW7kn673t"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "Hard Knock Life",
-        "url": "https://open.spotify.com/album/0pbwFymA94rgfOGDEcRdPZ"
-      },
-      "artists": [
-        {
-          "name": "Gunz For Hire",
-          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
-        }
-      ],
-      "duration_ms": 215684,
-      "name": "Hard Knock Life",
-      "url": "https://open.spotify.com/track/3aD91A4Lk9uGAcyk3fhYsW"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Mad Masquerade",
-        "url": "https://open.spotify.com/album/7hDsieJg1siQ8sOHCkoAud"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        }
-      ],
-      "duration_ms": 227400,
-      "name": "Mad Masquerade",
-      "url": "https://open.spotify.com/track/3OXcRBlauVlOXf0yeeEXlA"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Cryexgenic",
         "url": "https://open.spotify.com/album/1wVCfLLSlUP2zprjVCYKR9"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 223215,
       "name": "Cryexgenic",
       "url": "https://open.spotify.com/track/1UACIXnIw1AVHyodV4wbhv"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Mad Masquerade",
+        "url": "https://open.spotify.com/album/7hDsieJg1siQ8sOHCkoAud"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        }
+      ],
+      "duration_ms": 227400,
+      "name": "Mad Masquerade",
+      "url": "https://open.spotify.com/track/3OXcRBlauVlOXf0yeeEXlA"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "DEQUINOX 100",
-        "url": "https://open.spotify.com/album/1xpQUl2PKeH2ofXajDVKRJ"
-      },
-      "artists": [
-        {
-          "name": "D-Ceptor",
-          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
-        }
-      ],
-      "duration_ms": 222272,
-      "name": "DEQUINOX 100",
-      "url": "https://open.spotify.com/track/5yrWSxe5oYCAqWgTUJVOEW"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "HIT IT",
         "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 164210,
       "name": "HIT IT",
       "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "DEQUINOX 100",
+        "url": "https://open.spotify.com/album/1xpQUl2PKeH2ofXajDVKRJ"
+      },
+      "artists": [
+        {
+          "name": "D-Ceptor",
+          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
+        }
+      ],
+      "duration_ms": 222272,
+      "name": "DEQUINOX 100",
+      "url": "https://open.spotify.com/track/5yrWSxe5oYCAqWgTUJVOEW"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "Endemic",
+        "url": "https://open.spotify.com/album/7MKxiJfjNuA6iB4SVErluc"
+      },
+      "artists": [
+        {
+          "name": "D-Ceptor",
+          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Endemic",
+      "url": "https://open.spotify.com/track/2DKjuZbjeIQezwYNSZXQZX"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "M.D.E.",
         "url": "https://open.spotify.com/album/0rfp7y1AKvJ4fJbK2VFtqM"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 207553,
       "name": "Ring The Alarm",
       "url": "https://open.spotify.com/track/4gBHKeyq7rKDN6mqJyJMzg"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "Endemic",
-        "url": "https://open.spotify.com/album/7MKxiJfjNuA6iB4SVErluc"
-      },
-      "artists": [
-        {
-          "name": "D-Ceptor",
-          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Endemic",
-      "url": "https://open.spotify.com/track/2DKjuZbjeIQezwYNSZXQZX"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "Order & Chaos",
+        "url": "https://open.spotify.com/album/1VTmqBZu6npbGJ25S5Xi9U"
+      },
+      "artists": [
+        {
+          "name": "D-Ceptor",
+          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
+        }
+      ],
+      "duration_ms": 292356,
+      "name": "Kick Creator",
+      "url": "https://open.spotify.com/track/2mLYAPAPlfMGMjpHHjVPJo"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "Fight Them All",
         "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 239500,
       "name": "Premortality",
       "url": "https://open.spotify.com/track/6VEtzi0LA2RX2rWJYyWiOj"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "Order & Chaos",
-        "url": "https://open.spotify.com/album/1VTmqBZu6npbGJ25S5Xi9U"
-      },
-      "artists": [
-        {
-          "name": "D-Ceptor",
-          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
-        }
-      ],
-      "duration_ms": 292356,
-      "name": "Kick Creator",
-      "url": "https://open.spotify.com/track/2mLYAPAPlfMGMjpHHjVPJo"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -947,6 +947,26 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "BEAT DROP",
+        "url": "https://open.spotify.com/album/4tB9m8YxO1ubNOi6iYocZH"
+      },
+      "artists": [
+        {
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+        },
+        {
+          "name": "Frenchkillerz",
+          "url": "https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1"
+        }
+      ],
+      "duration_ms": 206238,
+      "name": "BEAT DROP",
+      "url": "https://open.spotify.com/track/6euvRHGSDbaHgbQYbJeX7S"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/5NGidUj0aCwf9QLxMWomEy"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 208000,
       "name": "Double D",
       "url": "https://open.spotify.com/track/7izn5XTRDSyaari83OE4XM"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "BEAT DROP",
-        "url": "https://open.spotify.com/album/4tB9m8YxO1ubNOi6iYocZH"
-      },
-      "artists": [
-        {
-          "name": "Andy the Core",
-          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
-        },
-        {
-          "name": "Frenchkillerz",
-          "url": "https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1"
-        }
-      ],
-      "duration_ms": 206238,
-      "name": "BEAT DROP",
-      "url": "https://open.spotify.com/track/6euvRHGSDbaHgbQYbJeX7S"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1087,18 +1087,22 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Force Of Salvation (Official Masters of Hardcore Austria 2023 Anthem)",
-        "url": "https://open.spotify.com/album/3frDN1XwkMYXIB504jjoKY"
+        "name": "Burn MF",
+        "url": "https://open.spotify.com/album/3xQTtEFddnUR8jjHR36RUh"
       },
       "artists": [
         {
-          "name": "GridKiller",
-          "url": "https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7"
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        },
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
         }
       ],
-      "duration_ms": 322666,
-      "name": "Force Of Salvation - Official Masters of Hardcore Austria 2023 Anthem",
-      "url": "https://open.spotify.com/track/56tEduBCyWPZ3gVAWONJCu"
+      "duration_ms": 183000,
+      "name": "Burn MF",
+      "url": "https://open.spotify.com/track/2r6w2d3ehFw7BZ5yDLcroq"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1119,22 +1123,18 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Burn MF",
-        "url": "https://open.spotify.com/album/3xQTtEFddnUR8jjHR36RUh"
+        "name": "Force Of Salvation (Official Masters of Hardcore Austria 2023 Anthem)",
+        "url": "https://open.spotify.com/album/3frDN1XwkMYXIB504jjoKY"
       },
       "artists": [
         {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
-        },
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+          "name": "GridKiller",
+          "url": "https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7"
         }
       ],
-      "duration_ms": 183000,
-      "name": "Burn MF",
-      "url": "https://open.spotify.com/track/2r6w2d3ehFw7BZ5yDLcroq"
+      "duration_ms": 322666,
+      "name": "Force Of Salvation - Official Masters of Hardcore Austria 2023 Anthem",
+      "url": "https://open.spotify.com/track/56tEduBCyWPZ3gVAWONJCu"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "The Bones Collection",
+        "url": "https://open.spotify.com/album/46UvKuPSGJm7KLJDtWsVsR"
+      },
+      "artists": [
+        {
+          "name": "Dj Mad Dog",
+          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Hardcore Style",
+      "url": "https://open.spotify.com/track/1uS5kcnuELQLIVSaYoBJpr"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "Attack",
         "url": "https://open.spotify.com/album/3bbvFPegYo9XTjaaWQXZ9i"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 194117,
       "name": "Attack",
       "url": "https://open.spotify.com/track/5cfYYPJJku0DQI22bKJ2og"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "The Bones Collection",
-        "url": "https://open.spotify.com/album/46UvKuPSGJm7KLJDtWsVsR"
-      },
-      "artists": [
-        {
-          "name": "Dj Mad Dog",
-          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "Hardcore Style",
-      "url": "https://open.spotify.com/track/1uS5kcnuELQLIVSaYoBJpr"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1463,18 +1463,22 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Paganos",
-        "url": "https://open.spotify.com/album/59BnQ9t7fehMLcXUUwAxcW"
+        "name": "Battle Tonight",
+        "url": "https://open.spotify.com/album/2X4Jg0NyQ8TVXQybcX7pQJ"
       },
       "artists": [
         {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+          "name": "D-Fence",
+          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+        },
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
         }
       ],
-      "duration_ms": 247200,
-      "name": "Paganos",
-      "url": "https://open.spotify.com/track/0vmrcHXNc8wuuowKWOzBr3"
+      "duration_ms": 248052,
+      "name": "Battle Tonight",
+      "url": "https://open.spotify.com/track/29Mp8a1JKqeSv5Oz52vXJv"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1495,22 +1499,18 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Battle Tonight",
-        "url": "https://open.spotify.com/album/2X4Jg0NyQ8TVXQybcX7pQJ"
+        "name": "Paganos",
+        "url": "https://open.spotify.com/album/59BnQ9t7fehMLcXUUwAxcW"
       },
       "artists": [
         {
-          "name": "D-Fence",
-          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
-        },
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
         }
       ],
-      "duration_ms": 248052,
-      "name": "Battle Tonight",
-      "url": "https://open.spotify.com/track/29Mp8a1JKqeSv5Oz52vXJv"
+      "duration_ms": 247200,
+      "name": "Paganos",
+      "url": "https://open.spotify.com/track/0vmrcHXNc8wuuowKWOzBr3"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Never Write",
-        "url": "https://open.spotify.com/album/5IkpgGQIiKIiasq06enuLo"
-      },
-      "artists": [
-        {
-          "name": "Basspunkz",
-          "url": "https://open.spotify.com/artist/2Bu4MuM7Ub40rthUcfWxdQ"
-        },
-        {
-          "name": "Darkside Unleashed",
-          "url": "https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl"
-        }
-      ],
-      "duration_ms": 186875,
-      "name": "Never Write",
-      "url": "https://open.spotify.com/track/6CMKhTF91JWU1FckJ1pinn"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Story of My Life",
         "url": "https://open.spotify.com/album/7x5NUFsIIJ3A2tzyoexj8c"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 145519,
       "name": "Born To React",
       "url": "https://open.spotify.com/track/3kJ20oY7QCfeOk0dAlXFfA"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Never Write",
+        "url": "https://open.spotify.com/album/5IkpgGQIiKIiasq06enuLo"
+      },
+      "artists": [
+        {
+          "name": "Basspunkz",
+          "url": "https://open.spotify.com/artist/2Bu4MuM7Ub40rthUcfWxdQ"
+        },
+        {
+          "name": "Darkside Unleashed",
+          "url": "https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl"
+        }
+      ],
+      "duration_ms": 186875,
+      "name": "Never Write",
+      "url": "https://open.spotify.com/track/6CMKhTF91JWU1FckJ1pinn"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1791,6 +1791,22 @@
       "duration_ms": 196636,
       "name": "Demonic Rage",
       "url": "https://open.spotify.com/track/5Dymvc81gnshh6B60HRH7B"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Dirty Thoughts",
+        "url": "https://open.spotify.com/album/3INDi6HHqprOeYmhoiiU7U"
+      },
+      "artists": [
+        {
+          "name": "Unproven",
+          "url": "https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI"
+        }
+      ],
+      "duration_ms": 158421,
+      "name": "Dirty Thoughts",
+      "url": "https://open.spotify.com/track/3IxNbTPp5F97s6zxD3Ty0M"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1875,26 +1891,6 @@
       "duration_ms": 213890,
       "name": "Loco",
       "url": "https://open.spotify.com/track/3ths0qezzeNfMDErMUDCwx"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "Mythology of Hardcore (Official Masters of Hardcore Russia 2022 Anthem)",
-        "url": "https://open.spotify.com/album/6cHbfD9YozJvYcUIDF1J9J"
-      },
-      "artists": [
-        {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
-        },
-        {
-          "name": "Tha Watcher",
-          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
-        }
-      ],
-      "duration_ms": 295187,
-      "name": "Mythology of Hardcore - Official Masters of Hardcore Russia 2022 Anthem",
-      "url": "https://open.spotify.com/track/4Ia0P4lQDTzKYva6OWFSuW"
     }
   ],
   "unique_name": "Hardcore Rage 2023",

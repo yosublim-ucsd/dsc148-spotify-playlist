@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:6idjuynJ3Rgy9RIHaGKDAF\">2022</a>; or the Sounds of <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:7b3qwPS9RTygJC5H8DPfGl\">Italian Renaissance</a> or <a href=\"spotify:playlist:5uQQu2RC80Ku5AjSpCtrJF\">Madrigal</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
+  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:6idjuynJ3Rgy9RIHaGKDAF\">2022</a>; or the Sounds of <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:7b3qwPS9RTygJC5H8DPfGl\">Italian Renaissance</a> or <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
   "name": "The Sound of Medieval",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2021-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 560306,
       "name": "A chantar m'er",
       "url": "https://open.spotify.com/track/61y6i0JxuBDvnF4vb2qFVd"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 348920,
       "name": "A chantar m'er de so qu'eu no volria",
       "url": "https://open.spotify.com/track/3IGG2SFSp9RNWd71YaT3Wc"
@@ -1330,10 +1330,64 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 577333,
       "name": "Anc no mori per amor ni per al",
       "url": "https://open.spotify.com/track/5Pk2BmxSIFzPrt1P2pfhsT"
+    },
+    {
+      "album": {
+        "name": "A Troubadour in Hungary",
+        "url": "https://open.spotify.com/album/7uQcSjZJTl9QEeEuyyEJnk"
+      },
+      "artists": [
+        {
+          "name": "Peire Vidal",
+          "url": "https://open.spotify.com/artist/10lcTgYU9YAZSKs9QvJqAQ"
+        },
+        {
+          "name": "Ferenc Sebo",
+          "url": "https://open.spotify.com/artist/48sv2SySYmDc68XAaTDgSJ"
+        },
+        {
+          "name": "Andras Laczo",
+          "url": "https://open.spotify.com/artist/6MOUBFnJXe3Kr30Rkubz9K"
+        },
+        {
+          "name": "D\u00e1niel Gryllus",
+          "url": "https://open.spotify.com/artist/2d2SDltSKfxgdFdBTiQUQK"
+        },
+        {
+          "name": "Eva Maros",
+          "url": "https://open.spotify.com/artist/4e2YXfxNoCmgn0XTrx0tIW"
+        },
+        {
+          "name": "Andras Kecskes",
+          "url": "https://open.spotify.com/artist/79QEbc7qhkmklPtBOJrltk"
+        },
+        {
+          "name": "Zoltan Falvy",
+          "url": "https://open.spotify.com/artist/2oSSmLZjXukOhZqmALwmkj"
+        },
+        {
+          "name": "B\u00e9la Zsoldos",
+          "url": "https://open.spotify.com/artist/3IUckqpnqx5vn15rXu4g27"
+        },
+        {
+          "name": "Fraternitas Musicorum",
+          "url": "https://open.spotify.com/artist/5XHu4KW7ljJNixWT5ufj3L"
+        },
+        {
+          "name": "Gergely Sarkozy",
+          "url": "https://open.spotify.com/artist/7Lpo9sL8sBsTd5Cjft6VbF"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281866,
+      "name": "Anc no mori per amor ni per al",
+      "url": "https://open.spotify.com/track/4tvTC4nt8LK0GHFtzGOGeV"
     },
     {
       "album": {
@@ -1982,7 +2036,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2019-10-05",
+      "date_removed": null,
       "duration_ms": 232226,
       "name": "Baros, de mon dan covit",
       "url": "https://open.spotify.com/track/1U3otmteHYCdAG6uypylkA"
@@ -2278,7 +2332,7 @@
       ],
       "date_added": "2020-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 453717,
       "name": "Belle, bonne, sage",
       "url": "https://open.spotify.com/track/080aHtAO6oILQYi1IHgNnC"
@@ -3596,7 +3650,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 224333,
       "name": "Ce jour de l'an",
       "url": "https://open.spotify.com/track/3jVDpThoBZnoKzVYB944EO"
@@ -5556,7 +5610,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 190680,
       "name": "Dio mi guardi",
       "url": "https://open.spotify.com/track/6KnGXngIEHAf9DUEDdBu3C"
@@ -7630,7 +7684,7 @@
       ],
       "date_added": "2020-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 357920,
       "name": "Hodie clarissimam - Olim promissus - Forma speciosissimus - Olim quem vates",
       "url": "https://open.spotify.com/track/6AyksliTShvT5gIQF3tPgP"
@@ -8228,7 +8282,7 @@
       ],
       "date_added": "2020-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 189666,
       "name": "Impudenter circumivi",
       "url": "https://open.spotify.com/track/5Fo9auBwwDDCqGKhcOsPX4"
@@ -8490,6 +8544,48 @@
       "duration_ms": 182266,
       "name": "Isorhythmic Motets: Apostolo glorioso - Cum tua doctrina - Andreas, Christi famulus",
       "url": "https://open.spotify.com/track/7nTwlmrw5dRthSvSTmCsKa"
+    },
+    {
+      "album": {
+        "name": "Paolo da Firenze: Narcisso speculando",
+        "url": "https://open.spotify.com/album/6zLDAIDH3JIV7IwoOhsob5"
+      },
+      "artists": [
+        {
+          "name": "Paolo da Firenze",
+          "url": "https://open.spotify.com/artist/1TMXn6UOBju54PVrfLXx9x"
+        },
+        {
+          "name": "Amandine Beyer",
+          "url": "https://open.spotify.com/artist/0h4vFpxze8tNNOcg1YrC3E"
+        },
+        {
+          "name": "Felix Stricker",
+          "url": "https://open.spotify.com/artist/11TNXUzubjRR0ce8wwAbEj"
+        },
+        {
+          "name": "Jane Achtman",
+          "url": "https://open.spotify.com/artist/6vjMRvxUnfBcYBFVVzIIvp"
+        },
+        {
+          "name": "Karl-Ernst Schr\u00f6der",
+          "url": "https://open.spotify.com/artist/5H8FK5VpXnj2aZMlfOVqEA"
+        },
+        {
+          "name": "Mala Punica",
+          "url": "https://open.spotify.com/artist/6XsuXZjZmnYxWSBOqRAUv0"
+        },
+        {
+          "name": "Pedro Memelsdorff",
+          "url": "https://open.spotify.com/artist/4a4kjVU5kUK7AiaBehvRsf"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274400,
+      "name": "Istampita instrumentale \"Cosa non \u00e8\"",
+      "url": "https://open.spotify.com/track/0ET9SvzlUP31o2Oq5FTjqa"
     },
     {
       "album": {
@@ -8946,7 +9042,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 360200,
       "name": "Je qui paoir seule ai de conforter (Descort)",
       "url": "https://open.spotify.com/track/0PW4qmx4iRAV8L4sNP9KBo"
@@ -9343,6 +9439,28 @@
     },
     {
       "album": {
+        "name": "Brule: Songs",
+        "url": "https://open.spotify.com/album/2f3pqenfWow12chXOP8oyu"
+      },
+      "artists": [
+        {
+          "name": "Gace Brul\u00e9",
+          "url": "https://open.spotify.com/artist/0NQ2rO0sTq6CtKewNVZ84x"
+        },
+        {
+          "name": "Oliphant",
+          "url": "https://open.spotify.com/artist/4U31sTpuGjnJFa2YikzFPX"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208160,
+      "name": "L'autrier estoie en un vergier: L\u2019autrier estoie en un vergier",
+      "url": "https://open.spotify.com/track/2D98yIZq6r2xRwwC8udRd1"
+    },
+    {
+      "album": {
         "name": "Stylems, Italian Music from the \"Trecento\"",
         "url": "https://open.spotify.com/album/6MBieZ3u5sK2f2cXEEsE5O"
       },
@@ -9592,6 +9710,52 @@
       "duration_ms": 244800,
       "name": "La Manfredina - La Rotta della Manfredina [Italian, 14th Century]",
       "url": "https://open.spotify.com/track/7FBoVn0jbFHHBSvCMm1Fyq"
+    },
+    {
+      "album": {
+        "name": "Jaufre Rudel : Troubadour",
+        "url": "https://open.spotify.com/album/42EqypaY4hWBYqoINh8bLK"
+      },
+      "artists": [
+        {
+          "name": "Jaufre Rudel",
+          "url": "https://open.spotify.com/artist/1plDg0ZE6mjEE6K3662MQT"
+        },
+        {
+          "name": "Herv\u00e9 Bertraux",
+          "url": "https://open.spotify.com/artist/7y9YSnMptJZKJ5SDFjTaaR"
+        },
+        {
+          "name": "Compagnie M\u00e9di\u00e9vale",
+          "url": "https://open.spotify.com/artist/6lZkBWpPAg2o0U3g1BywwL"
+        },
+        {
+          "name": "Herv\u00e9 Berteaux",
+          "url": "https://open.spotify.com/artist/4oo3haCsdosJY2hVx0UN5p"
+        },
+        {
+          "name": "Marc Bernad",
+          "url": "https://open.spotify.com/artist/11oetWfov2VTWA82X3q3x0"
+        },
+        {
+          "name": "Christian Buono",
+          "url": "https://open.spotify.com/artist/2ZoYVbB83T41XLQ0C8Jt5E"
+        },
+        {
+          "name": "Iyad Haimour",
+          "url": "https://open.spotify.com/artist/3eUJKdf9WutbE7ZyWpo3MM"
+        },
+        {
+          "name": "Louis Soret",
+          "url": "https://open.spotify.com/artist/5S10Vwxykumx7t7MElHIRp"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 686160,
+      "name": "La passion du jeu: Officium lusorum",
+      "url": "https://open.spotify.com/track/5gkVYOIWSdxTe3uHMJTSHS"
     },
     {
       "album": {
@@ -9908,7 +10072,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 255413,
       "name": "Lanquan il jorn",
       "url": "https://open.spotify.com/track/1LQ7G2HyPgXaAnYCCkszLg"
@@ -11432,7 +11596,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 356440,
       "name": "Missa cantilena: Credo II (From Modena, Biblioteca estense MS M.5.24)",
       "url": "https://open.spotify.com/track/23SE386AcVZRnRjdr8C9o3"
@@ -12190,7 +12354,7 @@
       ],
       "date_added": "2018-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 194040,
       "name": "Non al suo amante",
       "url": "https://open.spotify.com/track/4bawX8sRlXcdfzhDN2A846"
@@ -13285,6 +13449,28 @@
     },
     {
       "album": {
+        "name": "Bestiarium",
+        "url": "https://open.spotify.com/album/1buYMjSMX3yNzFqOjYyxtf"
+      },
+      "artists": [
+        {
+          "name": "Jacopo da Bologna",
+          "url": "https://open.spotify.com/artist/2eQllDA6iS34VpRZ6SteiP"
+        },
+        {
+          "name": "La Reverdie",
+          "url": "https://open.spotify.com/artist/68lFiOmFIrJGzXRs4sbmlQ"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223986,
+      "name": "Oseletto selvaggio",
+      "url": "https://open.spotify.com/track/3g5urloOBgPtLmeUC4UKGr"
+    },
+    {
+      "album": {
         "name": "Wanderers' Voices - Medieval Cantigas & Minnesang",
         "url": "https://open.spotify.com/album/24Zpq3hrthqdL1Za1rg0EF"
       },
@@ -13446,7 +13632,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 212693,
       "name": "Par maintes foys",
       "url": "https://open.spotify.com/track/3g88uWMnGtkjssuAtSwfEy"
@@ -13502,6 +13688,32 @@
       "duration_ms": 180493,
       "name": "Par maintes foys",
       "url": "https://open.spotify.com/track/5SY6KLudfLobOQmloA27wQ"
+    },
+    {
+      "album": {
+        "name": "Ars subtilior",
+        "url": "https://open.spotify.com/album/1CLAUP7AkEIxsmXB1jVj5W"
+      },
+      "artists": [
+        {
+          "name": "Jehan Vaillant",
+          "url": "https://open.spotify.com/artist/6ZmspnOIb8okDIzM6aBepj"
+        },
+        {
+          "name": "New London Consort",
+          "url": "https://open.spotify.com/artist/1aqZE6rtaBWlipoD3Cj8HB"
+        },
+        {
+          "name": "Phillip Pickett",
+          "url": "https://open.spotify.com/artist/22Jy7EZiGGEtGSi0OcAZf0"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186040,
+      "name": "Par maintes foys",
+      "url": "https://open.spotify.com/track/6mWVo3nHONrUONHUrOyYzD"
     },
     {
       "album": {
@@ -14068,7 +14280,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 375466,
       "name": "Pois tornatz sui em Proensa",
       "url": "https://open.spotify.com/track/336s8OMAyyK05qOukA4rZ5"
@@ -14192,7 +14404,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 600373,
       "name": "Pres du soloil deduissant s\u2019esbanoye",
       "url": "https://open.spotify.com/track/63BgaB61VpsJDbhEjLbONE"
@@ -15562,7 +15774,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 326333,
       "name": "Sancti spiritus assit nobis gratia",
       "url": "https://open.spotify.com/track/6AhzFVGyUCw7HpdKorZ1k6"
@@ -16128,7 +16340,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 222333,
       "name": "Stampede",
       "url": "https://open.spotify.com/track/4qm4BnJZySqykrVe3Ye254"
@@ -17034,7 +17246,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 366533,
       "name": "Un pellegrin uccel",
       "url": "https://open.spotify.com/track/3s41PDslZxNSfumhIb6fnc"
@@ -17571,6 +17783,28 @@
     },
     {
       "album": {
+        "name": "H\u00f6r, Kristenhait!",
+        "url": "https://open.spotify.com/album/4p5Gt8k0BALwsBDZmIalXo"
+      },
+      "artists": [
+        {
+          "name": "Monk of Salzburg",
+          "url": "https://open.spotify.com/artist/6bYopD16TsWEWL8KFOHH7W"
+        },
+        {
+          "name": "Baptiste Romain",
+          "url": "https://open.spotify.com/artist/7I4wEJyWJL9BRQmIWvjqja"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262386,
+      "name": "Von anegeng der sunne kchlar",
+      "url": "https://open.spotify.com/track/4oe9coh0klrahltSzWRKYb"
+    },
+    {
+      "album": {
         "name": "Philippe De Vitry and the Ars Nova",
         "url": "https://open.spotify.com/album/3HkpCFSXcnixToEVEyl5CL"
       },
@@ -17668,7 +17902,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 191760,
       "name": "Wacht auff ir werden Christen",
       "url": "https://open.spotify.com/track/79sQJ42D8DcycH8uW3RxZP"

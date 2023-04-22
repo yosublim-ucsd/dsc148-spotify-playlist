@@ -897,6 +897,24 @@
     },
     {
       "album": {
+        "name": "superglue",
+        "url": "https://open.spotify.com/album/7yJj3Xtd94isVwPtGKkIao"
+      },
+      "artists": [
+        {
+          "name": "joan",
+          "url": "https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178926,
+      "name": "nervous",
+      "url": "https://open.spotify.com/track/3XEhFZN6s2HJ6Obpin3eY4"
+    },
+    {
+      "album": {
         "name": "nervous",
         "url": "https://open.spotify.com/album/5vBpXxwiH2nZS3K4mB3Wm5"
       },
@@ -908,7 +926,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 178926,
       "name": "nervous",
       "url": "https://open.spotify.com/track/7gacDtNNBGmV4D1ZzjSsHJ"

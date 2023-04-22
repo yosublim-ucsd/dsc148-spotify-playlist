@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 408,
+  "num_followers": 420,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAzNTI2MCwwMDAwMDAwMDQzYzNjMDIyMzk0Yzk0YzY0MTkzZWMyODVkMWMwZGVm",
+  "snapshot_id": "MTY4MjAzNTI2MCwwMDAwMDAwMDI0NGRiZWUxNzg4Y2UwYmViOTUxNDM4MzU4ZGM2YTEx",
   "tracks": [
     {
       "added_at": "2023-04-14 00:30:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Mkono Wa Bwana",
-        "url": "https://open.spotify.com/album/5oXO7E3vFCkWTfdwkZDckF"
-      },
-      "artists": [
-        {
-          "name": "Zabron Singers",
-          "url": "https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP"
-        }
-      ],
-      "duration_ms": 349492,
-      "name": "Mkono Wa Bwana",
-      "url": "https://open.spotify.com/track/0I5hC840hWZCo3nGTptRm5"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
         "name": "Nations Will Rise and Sing",
         "url": "https://open.spotify.com/album/1M6f4SoC0VXNZoo9yMPOhV"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 304680,
       "name": "Awesome God",
       "url": "https://open.spotify.com/track/4oCXUgcCSlJTe2UjMfzbOl"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Mkono Wa Bwana",
+        "url": "https://open.spotify.com/album/5oXO7E3vFCkWTfdwkZDckF"
+      },
+      "artists": [
+        {
+          "name": "Zabron Singers",
+          "url": "https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP"
+        }
+      ],
+      "duration_ms": 349492,
+      "name": "Mkono Wa Bwana",
+      "url": "https://open.spotify.com/track/0I5hC840hWZCo3nGTptRm5"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -545,20 +545,20 @@
       "url": "https://open.spotify.com/track/17xj9O92AfXMEBVvf8ACSN"
     },
     {
-      "added_at": "2023-04-21 00:01:00",
+      "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Enjoy (Yo Blessings)",
-        "url": "https://open.spotify.com/album/24SeTWvJHoEFzO7zcxKOzy"
+        "name": "Wewe ni mungu",
+        "url": "https://open.spotify.com/album/4EPQZLH7dmSyngXFG7D0OP"
       },
       "artists": [
         {
-          "name": "Levixone",
-          "url": "https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW"
+          "name": "Daddy Owen",
+          "url": "https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy"
         }
       ],
-      "duration_ms": 195056,
-      "name": "Enjoy (Yo Blessings)",
-      "url": "https://open.spotify.com/track/4y9lTRxtVT0OZgzpGRbRqT"
+      "duration_ms": 262321,
+      "name": "Wewe ni mungu",
+      "url": "https://open.spotify.com/track/6mmr75lBVZnN3iWl8Jk3jO"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -577,20 +577,20 @@
       "url": "https://open.spotify.com/track/6vacqGQJFXankKL8FKmip3"
     },
     {
-      "added_at": "2023-04-06 20:59:00",
+      "added_at": "2023-04-21 00:01:00",
       "album": {
-        "name": "Wewe ni mungu",
-        "url": "https://open.spotify.com/album/4EPQZLH7dmSyngXFG7D0OP"
+        "name": "Enjoy (Yo Blessings)",
+        "url": "https://open.spotify.com/album/24SeTWvJHoEFzO7zcxKOzy"
       },
       "artists": [
         {
-          "name": "Daddy Owen",
-          "url": "https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy"
+          "name": "Levixone",
+          "url": "https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW"
         }
       ],
-      "duration_ms": 262321,
-      "name": "Wewe ni mungu",
-      "url": "https://open.spotify.com/track/6mmr75lBVZnN3iWl8Jk3jO"
+      "duration_ms": 195056,
+      "name": "Enjoy (Yo Blessings)",
+      "url": "https://open.spotify.com/track/4y9lTRxtVT0OZgzpGRbRqT"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -665,22 +665,6 @@
       "url": "https://open.spotify.com/track/6PsXyv0ljD3fuOTZRiOw4Z"
     },
     {
-      "added_at": "2023-04-21 00:01:00",
-      "album": {
-        "name": "Confessions",
-        "url": "https://open.spotify.com/album/50MXoiG4gRL47tdW5ui6VP"
-      },
-      "artists": [
-        {
-          "name": "Daniel Mundos",
-          "url": "https://open.spotify.com/artist/3aLEhh4HY2Sdl0v0lWhZwc"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Confessions",
-      "url": "https://open.spotify.com/track/2g9awZdAvsvtNQjWBcVO4n"
-    },
-    {
       "added_at": "2023-04-14 00:30:00",
       "album": {
         "name": "Sure (Counting on You)",
@@ -699,6 +683,22 @@
       "duration_ms": 181176,
       "name": "Sure (Counting on You)",
       "url": "https://open.spotify.com/track/6631GJTIN4OwoKTeAoIk3Q"
+    },
+    {
+      "added_at": "2023-04-21 00:01:00",
+      "album": {
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/50MXoiG4gRL47tdW5ui6VP"
+      },
+      "artists": [
+        {
+          "name": "Daniel Mundos",
+          "url": "https://open.spotify.com/artist/3aLEhh4HY2Sdl0v0lWhZwc"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Confessions",
+      "url": "https://open.spotify.com/track/2g9awZdAvsvtNQjWBcVO4n"
     },
     {
       "added_at": "2023-04-06 20:59:00",

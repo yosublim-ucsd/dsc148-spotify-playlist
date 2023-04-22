@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Chamomile",
+        "url": "https://open.spotify.com/album/5QLep18EqyzRJ50cz1BzWb"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217799,
+      "name": "Chamomile",
+      "url": "https://open.spotify.com/track/6GAPaGVVGgczGdMslknSMc"
+    },
+    {
+      "album": {
         "name": "Come Over And Love Me",
         "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
       },
@@ -823,6 +841,24 @@
     },
     {
       "album": {
+        "name": "Hole in My Pocket",
+        "url": "https://open.spotify.com/album/0RWp78xmyuPx9gLClAHpBP"
+      },
+      "artists": [
+        {
+          "name": "Purple Tears",
+          "url": "https://open.spotify.com/artist/6rlWf1GiPgR0mfeFbJzoJi"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218060,
+      "name": "Hole in My Pocket",
+      "url": "https://open.spotify.com/track/3m9RcdyMk4KoppIdAYUo46"
+    },
+    {
+      "album": {
         "name": "hospital",
         "url": "https://open.spotify.com/album/6RTOmRu8hQDjJI5AbEtawL"
       },
@@ -924,7 +960,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-18",
+      "date_removed": null,
       "duration_ms": 218181,
       "name": "I'll Be Damned",
       "url": "https://open.spotify.com/track/0CXSKdN0pLbwc4TUp06ScG"
@@ -1072,7 +1108,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 200926,
       "name": "It Was Nice To See You",
       "url": "https://open.spotify.com/track/3P22L4S20rAHHekbrXxF4V"

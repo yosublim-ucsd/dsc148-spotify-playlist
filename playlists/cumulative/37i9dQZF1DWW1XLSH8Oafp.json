@@ -1944,7 +1944,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 202388,
       "name": "Cherubim",
       "url": "https://open.spotify.com/track/6JzQKtrCAh7riHwJYMNPtM"
@@ -2539,6 +2539,24 @@
     },
     {
       "album": {
+        "name": "Distraction",
+        "url": "https://open.spotify.com/album/2Tm6f6agIQ7NK3j1miEaA3"
+      },
+      "artists": [
+        {
+          "name": "Akemi Fox",
+          "url": "https://open.spotify.com/artist/6FAh9D4OdyiBapKd1tsb5f"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136684,
+      "name": "Distraction",
+      "url": "https://open.spotify.com/track/2SfDBMCek2RCwLgSx5Hubm"
+    },
+    {
+      "album": {
         "name": "SYS02",
         "url": "https://open.spotify.com/album/1hWdAnaS9tsIcwYM3hC48Y"
       },
@@ -2774,6 +2792,24 @@
       "duration_ms": 499555,
       "name": "DRM",
       "url": "https://open.spotify.com/track/7z0Zr23nnYM7RWem0rFviY"
+    },
+    {
+      "album": {
+        "name": "drop kick",
+        "url": "https://open.spotify.com/album/1gv7IkTkzXCGkCHi2xSdeH"
+      },
+      "artists": [
+        {
+          "name": "In Explosions",
+          "url": "https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160941,
+      "name": "drop kick",
+      "url": "https://open.spotify.com/track/4koPlGtAIvagp7QNZCgCOU"
     },
     {
       "album": {
@@ -6193,6 +6229,32 @@
     },
     {
       "album": {
+        "name": "Masochists",
+        "url": "https://open.spotify.com/album/2Jp9VxRciV49zAToW0Cgl8"
+      },
+      "artists": [
+        {
+          "name": "capshun",
+          "url": "https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL"
+        },
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147933,
+      "name": "Masochists",
+      "url": "https://open.spotify.com/track/4kcCPJTdg2M0QWVas2Yyoa"
+    },
+    {
+      "album": {
         "name": "Me + You",
         "url": "https://open.spotify.com/album/7AFKrpileun955HTQw6hwF"
       },
@@ -7276,7 +7338,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 133953,
       "name": "papercuts",
       "url": "https://open.spotify.com/track/7hk6H482fKMzuUQ2Jf8bG3"
@@ -7338,6 +7400,24 @@
       "duration_ms": 250348,
       "name": "Phonky Tribu - DJ HEARTSTRING Remix",
       "url": "https://open.spotify.com/track/7w8qT1UcnJIZafNiLu2C7h"
+    },
+    {
+      "album": {
+        "name": "piano song",
+        "url": "https://open.spotify.com/album/6xwSs6T7VbnUc7upcyplVI"
+      },
+      "artists": [
+        {
+          "name": "BLUEM",
+          "url": "https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157362,
+      "name": "piano song",
+      "url": "https://open.spotify.com/track/7JJvXMvPZ4MwiixlsvW8yt"
     },
     {
       "album": {

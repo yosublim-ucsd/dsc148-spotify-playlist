@@ -2,7 +2,7 @@
 
 ### [Ripple Effect](https://open.spotify.com/playlist/37i9dQZF1DX5qjSia2PLFP)
 
-> New music breaking waves\. Cover, Luh Tyler
+> New music breaking waves\. Cover, Jean Deaux
 
 265 songs - 12 hr 1 min
 

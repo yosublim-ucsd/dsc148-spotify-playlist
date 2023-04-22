@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: Jackson Wang and Ciara
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,424 likes - 87 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,444 likes - 87 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Let us take care of your workday soundtrack.",
-  "num_followers": 182913,
+  "num_followers": 182907,
   "original_name": "Your Office Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDY5MzEyMCwwMDAwMDAwMDY5N2E5YjVhNjAzOTZlNGE3Y2FlNDhmNzc2MTJlM2Qy",
+  "snapshot_id": "MTY3NDY5MzEyMCwwMDAwMDAwMDJhYjNkYjVkNGU4M2U0YmU0ZDRhY2Q3MzU3YTM0YmE2",
   "tracks": [
     {
       "added_at": "2021-08-12 14:57:38",
@@ -429,7 +429,7 @@
       "artists": [
         {
           "name": "dexter in the newsagent",
-          "url": "https://open.spotify.com/artist/1ey2ESMWC5HEj2CmxvD7Mp"
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
         }
       ],
       "duration_ms": 181293,
@@ -595,22 +595,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Scream Drive Faster",
-        "url": "https://open.spotify.com/album/2Sr4PjxeH0SrquSDMPZF7m"
-      },
-      "artists": [
-        {
-          "name": "LAUREL",
-          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "Scream Drive Faster",
-      "url": "https://open.spotify.com/track/4CBfY6tYGrm6o5wluoPKaT"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Black Dog",
         "url": "https://open.spotify.com/album/7g57U9ugd9ObC65ecCeEHy"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 225454,
       "name": "Black Dog",
       "url": "https://open.spotify.com/track/1NGPZKzplieiPc5g6lAJ49"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Scream Drive Faster",
+        "url": "https://open.spotify.com/album/2Sr4PjxeH0SrquSDMPZF7m"
+      },
+      "artists": [
+        {
+          "name": "LAUREL",
+          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "Scream Drive Faster",
+      "url": "https://open.spotify.com/track/4CBfY6tYGrm6o5wluoPKaT"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -679,22 +679,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Don't Turn Around",
-        "url": "https://open.spotify.com/album/1nJ6X5PejqyhbHpG9Ycf5N"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 171699,
-      "name": "Don't Turn Around",
-      "url": "https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Long Grass",
         "url": "https://open.spotify.com/album/7s5qWzC22jdTiaZR488pje"
       },
@@ -711,6 +695,38 @@
       "duration_ms": 238915,
       "name": "Long Grass",
       "url": "https://open.spotify.com/track/6iCQRdDf05QOU4bxIvDPYu"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Don't Turn Around",
+        "url": "https://open.spotify.com/album/1nJ6X5PejqyhbHpG9Ycf5N"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 171699,
+      "name": "Don't Turn Around",
+      "url": "https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -783,22 +799,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Folding",
         "url": "https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 227651,
       "name": "Folding",
       "url": "https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Mrs Blue",
+        "url": "https://open.spotify.com/album/6NXtAeqeXlzqnzLS0mX6FP"
+      },
+      "artists": [
+        {
+          "name": "Tommy Down",
+          "url": "https://open.spotify.com/artist/01gw02eOtd3kFn3f3rGlxg"
+        }
+      ],
+      "duration_ms": 267535,
+      "name": "Mrs Blue",
+      "url": "https://open.spotify.com/track/0GdgXSWoGZeRBOzbRDudp8"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -831,22 +847,6 @@
       "duration_ms": 236486,
       "name": "Angel",
       "url": "https://open.spotify.com/track/1cP1tHCWCiiOJRJtSvESbu"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Mrs Blue",
-        "url": "https://open.spotify.com/album/6NXtAeqeXlzqnzLS0mX6FP"
-      },
-      "artists": [
-        {
-          "name": "Tommy Down",
-          "url": "https://open.spotify.com/artist/01gw02eOtd3kFn3f3rGlxg"
-        }
-      ],
-      "duration_ms": 267535,
-      "name": "Mrs Blue",
-      "url": "https://open.spotify.com/track/0GdgXSWoGZeRBOzbRDudp8"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Stronger",
-        "url": "https://open.spotify.com/album/4p6WCaxi2nrkO5i06iKWm5"
+        "name": "Undertones",
+        "url": "https://open.spotify.com/album/7CfevcKViQya5AT6HrDdhL"
       },
       "artists": [
         {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+          "name": "Mysie",
+          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
         }
       ],
-      "duration_ms": 198523,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/5xYhT6DfdLNOk9VYzkv0z9"
+      "duration_ms": 170306,
+      "name": "Seven Nights",
+      "url": "https://open.spotify.com/track/1ayrOU2q0K9xVt05CgMq2O"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Undertones",
-        "url": "https://open.spotify.com/album/7CfevcKViQya5AT6HrDdhL"
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/4p6WCaxi2nrkO5i06iKWm5"
       },
       "artists": [
         {
-          "name": "Mysie",
-          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
         }
       ],
-      "duration_ms": 170306,
-      "name": "Seven Nights",
-      "url": "https://open.spotify.com/track/1ayrOU2q0K9xVt05CgMq2O"
+      "duration_ms": 198523,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/5xYhT6DfdLNOk9VYzkv0z9"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Beaches on the Thames",
+        "url": "https://open.spotify.com/album/4c2WcJgvgco3szXYxFTMLc"
+      },
+      "artists": [
+        {
+          "name": "Sarah Carton",
+          "url": "https://open.spotify.com/artist/5XcYz8deAP70UIQyS1WtRS"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Beaches on the Thames",
+      "url": "https://open.spotify.com/track/0wn1K6Yh5ixdIsuMqg6aaU"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Pure Shores",
         "url": "https://open.spotify.com/album/1MWEYBI6r6QinmApx4QkO8"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 234453,
       "name": "Womxn",
       "url": "https://open.spotify.com/track/3uZfLLYmvNUTWuZieOgJKr"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Beaches on the Thames",
-        "url": "https://open.spotify.com/album/4c2WcJgvgco3szXYxFTMLc"
-      },
-      "artists": [
-        {
-          "name": "Sarah Carton",
-          "url": "https://open.spotify.com/artist/5XcYz8deAP70UIQyS1WtRS"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Beaches on the Thames",
-      "url": "https://open.spotify.com/track/0wn1K6Yh5ixdIsuMqg6aaU"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Uriah's Cry",
-        "url": "https://open.spotify.com/album/4lo8NWKY2fTTDEoFm8J29W"
-      },
-      "artists": [
-        {
-          "name": "SAM DOTIA",
-          "url": "https://open.spotify.com/artist/7lHuH8figeMAA7pEWJCMHD"
-        }
-      ],
-      "duration_ms": 201269,
-      "name": "Uriah's Cry",
-      "url": "https://open.spotify.com/track/2rtLK9Nj9PzMabMOYb4Tmd"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Treat You Right",
         "url": "https://open.spotify.com/album/3F91sv7XPeK9JYQdpXktd2"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 261012,
       "name": "Treat You Right",
       "url": "https://open.spotify.com/track/7ItOfW0Phlgis72tCdIcsw"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Uriah's Cry",
+        "url": "https://open.spotify.com/album/4lo8NWKY2fTTDEoFm8J29W"
+      },
+      "artists": [
+        {
+          "name": "SAM DOTIA",
+          "url": "https://open.spotify.com/artist/7lHuH8figeMAA7pEWJCMHD"
+        }
+      ],
+      "duration_ms": 201269,
+      "name": "Uriah's Cry",
+      "url": "https://open.spotify.com/track/2rtLK9Nj9PzMabMOYb4Tmd"
     }
   ],
   "unique_name": "Your Office Stereo",

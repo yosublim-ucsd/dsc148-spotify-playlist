@@ -5293,6 +5293,28 @@
     },
     {
       "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/594V3LHu3YwGnOJsGGKmSW"
+      },
+      "artists": [
+        {
+          "name": "BANG YONGGUK",
+          "url": "https://open.spotify.com/artist/6g6zaR4B3WDZXphDRmsVGF"
+        },
+        {
+          "name": "SOOVI",
+          "url": "https://open.spotify.com/artist/0YM7bNxtt0VzccYf1UG2G8"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189013,
+      "name": "Green (feat. SOOVI)",
+      "url": "https://open.spotify.com/track/5tFtRGlr5uaqMQmMtXZjXe"
+    },
+    {
+      "album": {
         "name": "Grey Suit - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB"
       },

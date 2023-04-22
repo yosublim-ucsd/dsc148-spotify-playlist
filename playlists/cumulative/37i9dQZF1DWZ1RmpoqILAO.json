@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Chamomile",
+        "url": "https://open.spotify.com/album/5QLep18EqyzRJ50cz1BzWb"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217799,
+      "name": "Chamomile",
+      "url": "https://open.spotify.com/track/6GAPaGVVGgczGdMslknSMc"
+    },
+    {
+      "album": {
         "name": "Chosen to Deserve",
         "url": "https://open.spotify.com/album/7geMCLNLhOhoutnVYES6t9"
       },

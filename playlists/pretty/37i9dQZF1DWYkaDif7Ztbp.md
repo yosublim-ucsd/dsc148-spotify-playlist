@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr?si=wUmMNFM0Q9KeiI6lzaq50Q"> Olamide</a>  and <a href="https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz?si=iHoVZ6xoTte3AIB7\_m11ow"> CKay</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,322,007 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,323,152 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

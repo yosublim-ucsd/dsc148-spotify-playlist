@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-712 songs - 1 day 16 hr 51 min
+715 songs - 1 day 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Away from There](https://open.spotify.com/track/2A6NubJR9tqXftF9kGCIQG) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Rohn Dahlberg](https://open.spotify.com/artist/5OcQS469ZWswsuUEJtNIeo) | [Away from There](https://open.spotify.com/album/6tQcZe1tl5yFHuW8GmxEPl) | 5:01 | 2020-04-03\* | 2021-03-06 |
 | [Azure](https://open.spotify.com/track/3cSFlobH6j9dGEAoBmk7YO) | [Chigali](https://open.spotify.com/artist/2lj8o2lWicGYd4qY2jWKmz) | [Azure](https://open.spotify.com/album/3n5Geq9Xuw5SEDFGFPMIz4) | 2:42 | 2020-11-11 | 2021-06-16 |
 | [Baby Tamborine](https://open.spotify.com/track/1zxws8ihq2b7VPhBUFg4Dq) | [KAASI](https://open.spotify.com/artist/0rCjhB7bSAgpshTquzm1I6) | [Moral Compass](https://open.spotify.com/album/5mH1dFe1fPiJyrRFLPz9e3) | 5:01 | 2020-06-18 | 2020-12-16 |
+| [Badlands](https://open.spotify.com/track/6sCPRdgnJOn6G4wCzK3w9M) | [Baron Malice](https://open.spotify.com/artist/4gfiUPAVRdak4CJ8RCxaxe) | [Badlands](https://open.spotify.com/album/6NB72FT20VgR36jf8ECIGr) | 2:53 | 2023-04-21 |  |
 | [Balearic Dream](https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8) | [Gueves](https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO) | [Balearic Dream](https://open.spotify.com/album/3aOciSEOGtMXtMoLD6SL84) | 3:06 | 2021-06-02 | 2023-01-20 |
 | [Bamboo](https://open.spotify.com/track/38sgXe7I4fJwnYEqBcO7xT) | [Gleery](https://open.spotify.com/artist/6LXTSY43XhcV6XnVLANctK) | [Bamboo](https://open.spotify.com/album/1aj2hPr1ERvkV1oKJ0JPOH) | 3:36 | 2021-10-06 |  |
 | [Bandai Azuma Skyline](https://open.spotify.com/track/7oH2Pb9UGj80oSbn25YOh7) | [Grand Moist](https://open.spotify.com/artist/7kBEPXj7Sz1SfO73MoFENO) | [Gazo Road](https://open.spotify.com/album/3Y7OzTyJlq3fKac9TQNygY) | 2:49 | 2020-04-03\* | 2020-04-14 |
@@ -488,6 +489,7 @@
 | [Pororoca \- Radio Edit](https://open.spotify.com/track/4fQewx3TWzldEKuTOGdXop) | [Dandara](https://open.spotify.com/artist/6h2EcimpzT4Ft2t2vfjEt4), [Anissa Damali](https://open.spotify.com/artist/2f2hnF8xUwrKCFODnhCfns) | [Gager](https://open.spotify.com/album/1J3MEi4KLC9UB227dO3l1y) | 3:46 | 2020-11-04 | 2020-11-11 |
 | [Portraits](https://open.spotify.com/track/2c6ZZ6INknHZTWPO8JxKuX) | [Siarate](https://open.spotify.com/artist/3fPUbKTg9j2k4xPGs4dbz2) | [Portraits](https://open.spotify.com/album/72zW22EzgsNETzSygNOCGm) | 4:38 | 2021-02-10 | 2021-09-09 |
 | [Positano](https://open.spotify.com/track/2XxGvI9nvrkK6BuNAOvRQw) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Positano](https://open.spotify.com/album/365Du5Bh6lzXuxvSq7h7jW) | 3:08 | 2021-09-09 |  |
+| [Price is Right](https://open.spotify.com/track/4wSlz46D7v1VvKB6RVsUEo) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [Price is Right](https://open.spotify.com/album/4AUammqsMgkKSNGS3aJ6ff) | 2:39 | 2023-04-21 |  |
 | [Promise Don't Forget](https://open.spotify.com/track/2kQXyiK2Plxd9lxkLjnoul) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Shambles](https://open.spotify.com/album/45RsCaNIIHCfoy4EOdtX4M) | 3:55 | 2022-09-23 |  |
 | [Pulpy](https://open.spotify.com/track/6u2YnsX4gu01IE3gbFHccy) | [Bagnio](https://open.spotify.com/artist/4ILDYx71BU6WiKLptF6IJQ) | [Pulpy](https://open.spotify.com/album/58cWXVfZBTZ6cDos212ZhN) | 2:59 | 2021-06-02 | 2023-01-20 |
 | [Pure North](https://open.spotify.com/track/1OupslOCajr6YwYMc6bYUK) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Pure North](https://open.spotify.com/album/2ZUa1CwxIYGUlTUzpHCKe3) | 4:12 | 2021-02-24 | 2021-09-22 |
@@ -677,6 +679,7 @@
 | [Turn \- Original Mix](https://open.spotify.com/track/2tI9JGXpweyNwQxAPQFCZd) | [David Folkebrant](https://open.spotify.com/artist/59abuwX5PFNHmb8lB9xack), [Lokovski](https://open.spotify.com/artist/5mh2irFtbnBrGuwUPQBInY) | [Turn](https://open.spotify.com/album/2he5Cqhk9v3QTUNLdvWqkG) | 5:14 | 2020-12-16 | 2021-08-20 |
 | [U Don't Know Me](https://open.spotify.com/track/15HntUgJrBgxcM19YHweix) | [MOOGADISHU](https://open.spotify.com/artist/0cV2d206HjrISLX6hSkktp) | [U Don't Know Me](https://open.spotify.com/album/5msBbhCc6MIGGAT6rLq5a8) | 2:04 | 2021-06-02 |  |
 | [U Got Me](https://open.spotify.com/track/12cjUe9jUhiAhaqZmgd59O) | [Robotto\-Sei?](https://open.spotify.com/artist/4LNo6UafG70bhFNAG07o4f) | [U Got Me](https://open.spotify.com/album/4BudCMbI5iSGmn37zj1lnX) | 2:24 | 2022-01-21 |  |
+| [Uhuru](https://open.spotify.com/track/6yUgU40FMxeTBtzx1WaksW) | [Amsané](https://open.spotify.com/artist/3ySQ8l1Tp4kYr62AEYJVF0) | [Uhuru](https://open.spotify.com/album/5NTePsboD5zQS7Bq9nk9dv) | 2:41 | 2023-04-21 |  |
 | [Undecided](https://open.spotify.com/track/25CSuITuHOTUSrCx4u72UT) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Undecided](https://open.spotify.com/album/1Ybr2PycNvqre2mpj35VRD) | 4:06 | 2020-11-11 | 2021-04-21 |
 | [Underview](https://open.spotify.com/track/5Ut0xXdUvgW5TVuTr6FZCv) | [Shiruky](https://open.spotify.com/artist/1Tr7ffkJ66E8bXTm2g7uEM) | [Got This](https://open.spotify.com/album/0TtK0hLbzepa08Rosnmgqb) | 3:57 | 2021-06-16 | 2021-09-22 |
 | [Unknown Controlpanel](https://open.spotify.com/track/4Jbd4SmdEeNeH6if9lsNLe) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Anticyclone Velodrome](https://open.spotify.com/album/6mlT2K4JCofZHXmLzSxDUx) | 3:06 | 2021-07-08 |  |
@@ -696,7 +699,7 @@
 | [Walking Over Me](https://open.spotify.com/track/7uYmG1Vxxr2FXcm78VwTBT) | [Zetbee](https://open.spotify.com/artist/7ju7u4UaASOSjl2Vm53ulN) | [Crossed Signals, Vol\. 11](https://open.spotify.com/album/3t6MUWKVa7P5AFtvzgpSeU) | 6:37 | 2021-01-27 | 2021-02-04 |
 | [Watchtower](https://open.spotify.com/track/5cwjq1HlJEwOMOxFr8bPpT) | [Werlie](https://open.spotify.com/artist/6KQ7zOmEoEm2tgJsoYq55x) | [Watchtower](https://open.spotify.com/album/1l95gSxvw9QjvHnl6z0C6C) | 2:38 | 2021-11-08 |  |
 | [Waves](https://open.spotify.com/track/0Cwy4AdLBb64wlApgt8bJJ) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Waves](https://open.spotify.com/album/4bv7lRMyncfhmG9umIif8N) | 2:50 | 2022-10-14 |  |
-| [Way Out](https://open.spotify.com/track/162aA2kAihYqMXmEqSbRhj) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Way Out](https://open.spotify.com/album/7vv0X8GjzdX918LBSe3d16) | 4:17 | 2023-01-20 |  |
+| [Way Out](https://open.spotify.com/track/162aA2kAihYqMXmEqSbRhj) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Way Out](https://open.spotify.com/album/7vv0X8GjzdX918LBSe3d16) | 4:17 | 2023-01-20 | 2023-04-22 |
 | [Wayless](https://open.spotify.com/track/2R4wZV3xXUK6ymYuutoCIL) | [Merry Lo](https://open.spotify.com/artist/79Sile05IT8AM4zzSgn8zw) | [Wayless](https://open.spotify.com/album/5WeziXtaneAoMQHOI2GCo4) | 2:33 | 2022-08-12 |  |
 | [Weighted](https://open.spotify.com/track/469uSkgXM3zccp9Oz9ykJo) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq) | [Weighted](https://open.spotify.com/album/6NIy3wI2JPiGxTfwTePCPp) | 6:57 | 2021-01-18 | 2021-09-09 |
 | [Wet Bravado](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L) | [R Y K](https://open.spotify.com/artist/52GuEcwja1RpI2x3lVaotA) | [Wet Bravado](https://open.spotify.com/album/34q74YXjIBzBlvcOvnEoIV) | 2:43 | 2021-11-08 |  |

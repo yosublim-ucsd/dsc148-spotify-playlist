@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 23010,
+  "num_followers": 23132,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDI4NDZmMTIwNjhiYzdiYjllZTNmNTBjNmQ5ZWNhZDVl",
+  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDJhMDBjMDI2YTg1NDJmMWFiNjljZjAzOTA4YzkxNGM1",
   "tracks": [
     {
       "added_at": "2023-02-09 23:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Get Behind Me Satan",
-        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 138893,
-      "name": "Little Ghost",
-      "url": "https://open.spotify.com/track/1S7QP5JYv6IuHGoQsOXzwR"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Killer",
         "url": "https://open.spotify.com/album/7qmlNHyFmBSZQllaVRBQq7"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 170800,
       "name": "Killer",
       "url": "https://open.spotify.com/track/6yRqX9dZj1b09OpEe0QgE3"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 138893,
+      "name": "Little Ghost",
+      "url": "https://open.spotify.com/track/1S7QP5JYv6IuHGoQsOXzwR"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Made of Bricks",
-        "url": "https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY"
-      },
-      "artists": [
-        {
-          "name": "Kate Nash",
-          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
-        }
-      ],
-      "duration_ms": 307453,
-      "name": "Skeleton Song",
-      "url": "https://open.spotify.com/track/6gYzY4CIR667rZxQ6bfYTz"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Plastic Surgery Disasters/In God We Trust, Inc.",
         "url": "https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 215179,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "Made of Bricks",
+        "url": "https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY"
+      },
+      "artists": [
+        {
+          "name": "Kate Nash",
+          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
+        }
+      ],
+      "duration_ms": 307453,
+      "name": "Skeleton Song",
+      "url": "https://open.spotify.com/track/6gYzY4CIR667rZxQ6bfYTz"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "The Five Ghosts",
-        "url": "https://open.spotify.com/album/1VNSdysVD6rAJKsW7IInNU"
-      },
-      "artists": [
-        {
-          "name": "Stars",
-          "url": "https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL"
-        }
-      ],
-      "duration_ms": 185773,
-      "name": "I Died So I Could Haunt You",
-      "url": "https://open.spotify.com/track/4KgMpCMGIQYWvCqwRHlwIJ"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Whip It On",
         "url": "https://open.spotify.com/album/1beQ4oVlpOV8hr8WIoUouF"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 150293,
       "name": "Attack of the Ghost Riders",
       "url": "https://open.spotify.com/track/39us5jxLPBBrBMqCx8crY7"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "The Five Ghosts",
+        "url": "https://open.spotify.com/album/1VNSdysVD6rAJKsW7IInNU"
+      },
+      "artists": [
+        {
+          "name": "Stars",
+          "url": "https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL"
+        }
+      ],
+      "duration_ms": 185773,
+      "name": "I Died So I Could Haunt You",
+      "url": "https://open.spotify.com/track/4KgMpCMGIQYWvCqwRHlwIJ"
     },
     {
       "added_at": "2023-02-09 23:00:00",

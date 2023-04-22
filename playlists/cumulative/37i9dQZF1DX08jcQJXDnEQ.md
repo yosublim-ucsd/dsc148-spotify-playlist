@@ -2,7 +2,7 @@
 
 ### [90s Metal Classics](https://open.spotify.com/playlist/37i9dQZF1DX08jcQJXDnEQ)
 
-> The best metal songs of the 90s\. Cover: KoRn
+> The best metal songs of the 90s\. Cover: Metallica
 
 262 songs - 20 hr 31 min
 

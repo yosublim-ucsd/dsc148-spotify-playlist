@@ -4,7 +4,7 @@
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover:  YOASOBI
 
-797 songs - 2 day 1 hr 49 min
+798 songs - 2 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Before I Go](https://open.spotify.com/track/5tqZBgS6Db32QHXquR1QvM) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Before I Go](https://open.spotify.com/album/7tbqzoPJNMs8oEk2OnYTjo) | 4:06 | 2022-06-12 | 2022-07-04 |
 | [Betrayal Game](https://open.spotify.com/track/2VKwa5aHsNu0ZGQg77kdBd) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Betrayal Game](https://open.spotify.com/album/3Pznh6OQ1iCcFfTFmsnOu9) | 3:45 | 2022-05-01 | 2022-05-17 |
 | [Big Dreams](https://open.spotify.com/track/08ZA4Yeh77vYfgkzXiwhBc) | [End of the World](https://open.spotify.com/artist/0b59cVa1STVENq3i7wkcHV), [Marieme](https://open.spotify.com/artist/4M9MGz93wIiFmEKhrw2yDD) | [Big Dreams](https://open.spotify.com/album/1S3vzGhD9aV8SzYfx92dqH) | 3:08 | 2022-06-12 | 2022-06-20 |
-| [BIJIN](https://open.spotify.com/track/09jV3FQ2UbGJGZQjlih9O9) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Harenchi](https://open.spotify.com/album/1q9RWaiqhyFz8tYrl57w98) | 2:40 | 2023-04-16 |  |
+| [BIJIN](https://open.spotify.com/track/09jV3FQ2UbGJGZQjlih9O9) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Harenchi](https://open.spotify.com/album/1q9RWaiqhyFz8tYrl57w98) | 2:40 | 2023-04-16 | 2023-04-22 |
+| [BIJIN \(Remix\) \[feat\. Awich\]](https://open.spotify.com/track/5SM8QpMEOij9cNxKsSP00T) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [BIJIN \(Remix\) \[feat\. Awich\]](https://open.spotify.com/album/7bGgGsoAvQVXeKeZBJGro3) | 2:39 | 2023-04-19 |  |
 | [Bitter Sweet \(feat\. Rinne\)](https://open.spotify.com/track/7nLukfUB2GuyrJA5tsTXui) | [NARROWORLD](https://open.spotify.com/artist/1lDEJxLjWAXtKDr7nFCJxW), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k), [Rinne](https://open.spotify.com/artist/4ETsbj1XzA5v886JMNDgdA) | [Bitter Sweet \(feat\. Rinne\)](https://open.spotify.com/album/1pi5YLWY2XNmPzGe4sAfJ9) | 2:44 | 2022-09-04 | 2022-10-09 |
 | [BITTER!](https://open.spotify.com/track/47bqDSq66FiXyPjixsFphC) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [BITTER!](https://open.spotify.com/album/2yxSGQpEACIqYfmgf1TwGM) | 3:05 | 2021-12-26 | 2022-01-17 |
 | [Blank](https://open.spotify.com/track/4b0RQRCxvOa7qifoVPZ7NM) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS), [mao sasagawa](https://open.spotify.com/artist/4ZqPdBTOiHdOUnv40Wqpy8) | [Blank](https://open.spotify.com/album/5KKgfaPcmsuYRSbS1YmuvM) | 3:30 | 2022-08-14 | 2022-08-29 |

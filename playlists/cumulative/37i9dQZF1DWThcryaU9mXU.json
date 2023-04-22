@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "I'm A Mad Man",
+        "url": "https://open.spotify.com/album/7g2pXcODGYP7XSeFVbrWQp"
+      },
+      "artists": [
+        {
+          "name": "Byther Smith",
+          "url": "https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359133,
+      "name": "35 Long Years",
+      "url": "https://open.spotify.com/track/0Ui5GujF5zj6Bdf9Wh9KE1"
+    },
+    {
+      "album": {
         "name": "Man of the World: The Anthology 1968-1988",
         "url": "https://open.spotify.com/album/69HtVZxz40GuPTCxfgtx5o"
       },
@@ -20,6 +38,24 @@
       "duration_ms": 464666,
       "name": "A Fool No More",
       "url": "https://open.spotify.com/track/7gfoAvnBt1L3QpzHZfce8T"
+    },
+    {
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/6uco735wn69n3ODYvdrd21"
+      },
+      "artists": [
+        {
+          "name": "Dani Wilde",
+          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455967,
+      "name": "Abandoned Child",
+      "url": "https://open.spotify.com/track/6VWHKpqZE9Z14VReOqmy4C"
     },
     {
       "album": {
@@ -131,6 +167,28 @@
     },
     {
       "album": {
+        "name": "The Best of the 5th Annual Brooklyn Folk Festival",
+        "url": "https://open.spotify.com/album/2yTbT5DQqjSn3ly5oypYhw"
+      },
+      "artists": [
+        {
+          "name": "Mamie Minch",
+          "url": "https://open.spotify.com/artist/5FpYyf3AOAl5YXVxAuYfzW"
+        },
+        {
+          "name": "Tamar Korn",
+          "url": "https://open.spotify.com/artist/2OWPS13qorm1Vj3wxUO5lF"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252788,
+      "name": "Blues Stay Away From Me",
+      "url": "https://open.spotify.com/track/0gKGDH5XsrWGH7pojMcXSY"
+    },
+    {
+      "album": {
         "name": "Scoundrel",
         "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
       },
@@ -196,7 +254,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 419306,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/5uMZAYwFl42JqJEesZ4aDP"
@@ -297,6 +355,24 @@
     },
     {
       "album": {
+        "name": "Down On My Knees",
+        "url": "https://open.spotify.com/album/4MVKaN7r9Wlxr0KyXP9RAa"
+      },
+      "artists": [
+        {
+          "name": "King Leo",
+          "url": "https://open.spotify.com/artist/24Y1QM5HxIVWItCw16bw1C"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Down On My Knees",
+      "url": "https://open.spotify.com/track/3soWDvvrdUZeeniNWxwPji"
+    },
+    {
+      "album": {
         "name": "That's It! / Duke Recordings Vol. III",
         "url": "https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB"
       },
@@ -374,7 +450,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 207140,
       "name": "End Of The World (Dancing In The Dust)",
       "url": "https://open.spotify.com/track/4IWEHdLO2GBkldUlfoOY0X"
@@ -396,6 +472,24 @@
       "duration_ms": 179306,
       "name": "Friendless Blues",
       "url": "https://open.spotify.com/track/6HA1gscdMuFFyvtpIlpNr7"
+    },
+    {
+      "album": {
+        "name": "Get Your Lovin'",
+        "url": "https://open.spotify.com/album/1M2avBOjei5BLNbHxsaElR"
+      },
+      "artists": [
+        {
+          "name": "Secret Formula Band",
+          "url": "https://open.spotify.com/artist/1Inr5ZqHEMGQ4fhrK91QMs"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203395,
+      "name": "Get Your Lovin'",
+      "url": "https://open.spotify.com/track/6HVcEz5ecvZWLLrN8ZTwil"
     },
     {
       "album": {
@@ -446,7 +540,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 184760,
       "name": "Hard Living Alone",
       "url": "https://open.spotify.com/track/0JwU0drRHEtI5H1lVJCDys"
@@ -504,6 +598,24 @@
       "duration_ms": 239906,
       "name": "Hold That Train",
       "url": "https://open.spotify.com/track/0QehipWjs9vfSzAg9tGSLB"
+    },
+    {
+      "album": {
+        "name": "My Kind Of Blues",
+        "url": "https://open.spotify.com/album/6nnI1qK92ewOpEerMB9Lhw"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239906,
+      "name": "Hold That Train",
+      "url": "https://open.spotify.com/track/0YnoAn9FBUopgdwEOTsGlE"
     },
     {
       "album": {
@@ -915,6 +1027,24 @@
     },
     {
       "album": {
+        "name": "Love & Gravity",
+        "url": "https://open.spotify.com/album/69yCg5lBESdddDIGkmovLB"
+      },
+      "artists": [
+        {
+          "name": "Matt Katsis",
+          "url": "https://open.spotify.com/artist/3uql1lp6c9CcJL2tjzKrkv"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228746,
+      "name": "Love & Gravity",
+      "url": "https://open.spotify.com/track/5YU3qtXOLff4lm01iLplgR"
+    },
+    {
+      "album": {
         "name": "Memphis Moonlight",
         "url": "https://open.spotify.com/album/190SoOYPW7oceXrstDTvp8"
       },
@@ -1016,7 +1146,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-06",
+      "date_removed": null,
       "duration_ms": 205870,
       "name": "Mistreated so Bad",
       "url": "https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz"
@@ -1265,6 +1395,24 @@
     },
     {
       "album": {
+        "name": "Just The Big Three Trio",
+        "url": "https://open.spotify.com/album/7f1fwQkkUFI7nNeKLEINED"
+      },
+      "artists": [
+        {
+          "name": "The Big Three Trio",
+          "url": "https://open.spotify.com/artist/7EPI9RLrU6kU6ZQLTqB7wY"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180906,
+      "name": "Since My Baby Gone",
+      "url": "https://open.spotify.com/track/3usW1XSJR0B6t14znEAGJ9"
+    },
+    {
+      "album": {
         "name": "Slow Burning Love",
         "url": "https://open.spotify.com/album/2Zwtl70eaowopCHRsvuEa0"
       },
@@ -1316,10 +1464,28 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-10",
+      "date_removed": null,
       "duration_ms": 134573,
       "name": "Someone Broke This Heart Of Mine",
       "url": "https://open.spotify.com/track/1TX9nidaWJmR3KyHxrSz8h"
+    },
+    {
+      "album": {
+        "name": "Roll and Tumble",
+        "url": "https://open.spotify.com/album/7riyFPxbaqIj4h2x9jNzTW"
+      },
+      "artists": [
+        {
+          "name": "R.L. Boyce",
+          "url": "https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205182,
+      "name": "Sometimes I Worry",
+      "url": "https://open.spotify.com/track/7Aor3Qdz0u8WEqFyCVdiHg"
     },
     {
       "album": {
@@ -1352,7 +1518,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 250760,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/48EXlenGFwcnZWdh6AqUW4"
@@ -1503,6 +1669,24 @@
     },
     {
       "album": {
+        "name": "Motel Mississippi",
+        "url": "https://open.spotify.com/album/3DKmYrQ64bb7NNJd6rZHKx"
+      },
+      "artists": [
+        {
+          "name": "Tony Holiday",
+          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251853,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/7M5GPKEGz1xURn79mqyc34"
+    },
+    {
+      "album": {
         "name": "King Of The Blues",
         "url": "https://open.spotify.com/album/2Wr5LRhgVQ9c8MsM4bj7r3"
       },
@@ -1550,7 +1734,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 183226,
       "name": "Unfair Lovers",
       "url": "https://open.spotify.com/track/7urvDrLLJGxRCjHrvpfyW4"
@@ -1622,7 +1806,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-17",
+      "date_removed": null,
       "duration_ms": 334000,
       "name": "What do You Feel?",
       "url": "https://open.spotify.com/track/7sjjPWYA3Y5vGEIBDJ5QVE"
@@ -1644,6 +1828,24 @@
       "duration_ms": 269560,
       "name": "When Will You Tell Him About Me?",
       "url": "https://open.spotify.com/track/3HG6C5B8ISRVDk8VumBo4m"
+    },
+    {
+      "album": {
+        "name": "Portrait",
+        "url": "https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV"
+      },
+      "artists": [
+        {
+          "name": "Mud Morganfield",
+          "url": "https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214194,
+      "name": "You Can't Lose What You Ain't Never Had",
+      "url": "https://open.spotify.com/track/6kQRxTpDpBnNIGsCKpDOQc"
     },
     {
       "album": {
@@ -1698,7 +1900,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-07",
+      "date_removed": null,
       "duration_ms": 259000,
       "name": "You'll Never Find Anyone To Be A Slave Like Me - Remastered 2022",
       "url": "https://open.spotify.com/track/2CUoa5qyfnFMnViDYrSsWw"

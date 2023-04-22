@@ -1,12 +1,12 @@
 {
   "description": "Disfruta de tu velada en la sedosa compa\u00f1\u00eda de las 88 teclas del piano.",
-  "num_followers": 21140,
+  "num_followers": 21153,
   "original_name": "Cena con Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMDk4NTQzNSwwMDAwMDAwMGU0ZGYyZjA3NmQ5NjcwYzFlYWRjMTYwZTEwYjkwMmFh",
+  "snapshot_id": "MTYxMDk4NTQzNSwwMDAwMDAwMDA0NjlkZGViM2I3NjA3OThhYjNiNTMyYzVmYzUyZjE2",
   "tracks": [
     {
       "added_at": "2021-01-18 15:57:14",
@@ -723,6 +723,22 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
+        "name": "Classic Jazz on the Piano",
+        "url": "https://open.spotify.com/album/3e8JN35km7noyKQSFK8GkF"
+      },
+      "artists": [
+        {
+          "name": "The Jazz Restaurant",
+          "url": "https://open.spotify.com/artist/52gDZW5cytu21bwzOEaLy4"
+        }
+      ],
+      "duration_ms": 137659,
+      "name": "Bossa Nova Piano Jazz",
+      "url": "https://open.spotify.com/track/2FszWCVt8Vk5gZfC5et22N"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
         "name": "Daniela Liebman",
         "url": "https://open.spotify.com/album/2eIQ6eOiV3gdXHLiyXIjMl"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 208733,
       "name": "Se\u00f1or Danzon",
       "url": "https://open.spotify.com/track/6SnkcY42LeTZouiKNw8IsZ"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Classic Jazz on the Piano",
-        "url": "https://open.spotify.com/album/3e8JN35km7noyKQSFK8GkF"
-      },
-      "artists": [
-        {
-          "name": "The Jazz Restaurant",
-          "url": "https://open.spotify.com/artist/52gDZW5cytu21bwzOEaLy4"
-        }
-      ],
-      "duration_ms": 137659,
-      "name": "Bossa Nova Piano Jazz",
-      "url": "https://open.spotify.com/track/2FszWCVt8Vk5gZfC5et22N"
     },
     {
       "added_at": "2021-01-18 15:57:14",

@@ -981,6 +981,24 @@
     },
     {
       "album": {
+        "name": "bounce back",
+        "url": "https://open.spotify.com/album/2RIB7N4j1LhepCLO9K41Ds"
+      },
+      "artists": [
+        {
+          "name": "Far & Beyond",
+          "url": "https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178598,
+      "name": "bounce back",
+      "url": "https://open.spotify.com/track/1rkxyQH6y3qxysbYKo8yyI"
+    },
+    {
+      "album": {
         "name": "Bouquet with Lilies",
         "url": "https://open.spotify.com/album/3JGmJSzuX2y17DuPOWtLNj"
       },
@@ -1871,6 +1889,24 @@
     },
     {
       "album": {
+        "name": "Crystals",
+        "url": "https://open.spotify.com/album/4XWBq2360Qnchs9jfzm0bu"
+      },
+      "artists": [
+        {
+          "name": "Sun Of They",
+          "url": "https://open.spotify.com/artist/5zmB7dGi1rKdsEYVxQvJpS"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182433,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/4gAlANEHRk0T04OKXNc9vy"
+    },
+    {
+      "album": {
         "name": "Curiosity",
         "url": "https://open.spotify.com/album/5FbnGcGNWnjufAuOrXss3k"
       },
@@ -2322,6 +2358,24 @@
       "duration_ms": 202276,
       "name": "Eagle",
       "url": "https://open.spotify.com/track/3nINt8VGibM3vHcR7pNhTa"
+    },
+    {
+      "album": {
+        "name": "Echoed Memory",
+        "url": "https://open.spotify.com/album/4YPcKVNUkNycSD4tdfsWDh"
+      },
+      "artists": [
+        {
+          "name": "Equanimity Seekers",
+          "url": "https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Echoed Memory",
+      "url": "https://open.spotify.com/track/4oNCXU6RZG6qpVDAfZUoEh"
     },
     {
       "album": {
@@ -4248,7 +4302,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 176796,
       "name": "In the Clouds",
       "url": "https://open.spotify.com/track/2AvDzQfRf5Bx8PX0qRWLRc"
@@ -5022,7 +5076,7 @@
       ],
       "date_added": "2019-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 166927,
       "name": "Los Feliz",
       "url": "https://open.spotify.com/track/0efOqjQkOgWPEZTzAZSB6j"
@@ -8018,7 +8072,7 @@
       ],
       "date_added": "2019-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 150169,
       "name": "Stormy Weather",
       "url": "https://open.spotify.com/track/7oXWUVH2t0UR11AvhhY8GQ"
@@ -8498,6 +8552,24 @@
       "duration_ms": 375386,
       "name": "The Greater Lights",
       "url": "https://open.spotify.com/track/1WJDsiKG74dQO9Mq7Ox9iD"
+    },
+    {
+      "album": {
+        "name": "The inner circle",
+        "url": "https://open.spotify.com/album/6pEYAkGFTuisagjsLoZHU8"
+      },
+      "artists": [
+        {
+          "name": "Dreams Ahead",
+          "url": "https://open.spotify.com/artist/6JHr6WrfMhJNTpJ1smiQXy"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184230,
+      "name": "The inner circle",
+      "url": "https://open.spotify.com/track/41ial1TTDNlhaEuzpI5SAk"
     },
     {
       "album": {

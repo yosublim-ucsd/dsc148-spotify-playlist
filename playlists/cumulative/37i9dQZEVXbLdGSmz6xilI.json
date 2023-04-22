@@ -1838,7 +1838,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2023-02-07",
+      "date_removed": null,
       "duration_ms": 222314,
       "name": "Bu\u1ed3n Th\u00ec C\u1ee9 Kh\u00f3c \u0110i",
       "url": "https://open.spotify.com/track/6iXGivPFpsqKmrINhIbPvx"
@@ -6724,6 +6724,24 @@
       "duration_ms": 164210,
       "name": "KH\u00d4NG PH\u1ea2I T\u1ea0I N\u00d3 (feat. Mai Ng\u00f4)",
       "url": "https://open.spotify.com/track/2qNZU7RSIDSzbQ27gtaC0q"
+    },
+    {
+      "album": {
+        "name": "Kh\u00f4ng Th\u1ec3 Say",
+        "url": "https://open.spotify.com/album/6hRCNOEDljXmus24tlnzRx"
+      },
+      "artists": [
+        {
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228413,
+      "name": "Kh\u00f4ng Th\u1ec3 Say",
+      "url": "https://open.spotify.com/track/4W2poMwGzKQHtpNCthoGhC"
     },
     {
       "album": {
@@ -11850,7 +11868,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 241935,
       "name": "ThichThich",
       "url": "https://open.spotify.com/track/3wUp8eCTshIrJcYbjWaoyP"
@@ -12112,7 +12130,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 234000,
       "name": "Th\u1eb1ng \u0110i\u00ean",
       "url": "https://open.spotify.com/track/27Z9T0mSWHYWSj9SNOGvyt"

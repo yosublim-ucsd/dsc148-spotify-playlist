@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel?si=e3jjRqncRZ6se2uZ1rfzKA"> E.L</a>
 
-201 songs - 10 hr 16 min
+202 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Vibration](https://open.spotify.com/track/7p1h63u5ATBUVnpQKP9Qzh) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Vibration](https://open.spotify.com/album/6Sv2Wno4AXhR7Xar3ZP5NV) | 3:28 | 2022-06-24 | 2023-02-11 |
 | [War with Us](https://open.spotify.com/track/55D4ykonla5u5gz8pmvwBx) | [BornBhad](https://open.spotify.com/artist/0YpGY5k114UOgKcxBVDjlX), [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [War with Us](https://open.spotify.com/album/2VZEGAa6Ayif90T8d5K88G) | 2:26 | 2023-02-10 | 2023-02-24 |
 | [We Dey](https://open.spotify.com/track/5KryeTvG0C02vF9cpgZrYA) | [Sofie](https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0), [Sister Deborah](https://open.spotify.com/artist/3RM7YoeiC3yijn8k8uCGA7) | [We Dey](https://open.spotify.com/album/3idMIRqDQBaPKXTAGZUn4a) | 2:32 | 2022-12-09 | 2023-01-20 |
+| [We Going Up](https://open.spotify.com/track/4xpiPlHX4FNRrpzMl8aDXO) | [Flowking Stone](https://open.spotify.com/artist/6TUrMfT9GkjM7gmBtmkkQt) | [We Going Up](https://open.spotify.com/album/51tHE6o3t3PjaBCmuSNEbs) | 3:24 | 2023-04-20 |  |
 | [Win](https://open.spotify.com/track/3Zcdo6A7uBR6FVecNON4SB) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Win](https://open.spotify.com/album/6ovQUMpjUj1ZzLaCU2PVLB) | 2:37 | 2023-02-23 | 2023-04-15 |
 | [Win](https://open.spotify.com/track/6MXFJ3e7WUvuUsFgpSXvCY) | [Kwaw Kese](https://open.spotify.com/artist/5orboL2SUTJGDKfMVgCCBt), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Win](https://open.spotify.com/album/2od5gvTOvH1SR7en3ns93x) | 4:12 | 2022-06-24 |  |
 | [Winning](https://open.spotify.com/track/0qacFbOL6VbnBSNFCv8hEk) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Winning](https://open.spotify.com/album/29hNVh1pdk9Nmw12i9x88N) | 3:14 | 2022-06-24 |  |

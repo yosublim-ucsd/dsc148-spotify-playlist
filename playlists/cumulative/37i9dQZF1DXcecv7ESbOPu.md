@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-7,511 songs - 16 day 6 hr 27 min
+7,514 songs - 16 day 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2683,6 +2683,7 @@
 | [Habits](https://open.spotify.com/track/5rz4fPVz6NrIaG21zfKkrg) | [BLENDA](https://open.spotify.com/artist/0mdmebp0N7udUXXqtoZU5D) | [Habits](https://open.spotify.com/album/7n3LmLgfg5ewLr43FlQ57c) | 4:14 | 2023-04-06 | 2023-04-14 |
 | [Habits](https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits](https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo) | 2:16 | 2022-08-12 | 2022-08-19 |
 | [Hace Ejercicios](https://open.spotify.com/track/7K8hVSM4s25QKgyyioLWTP) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [hace ejercicios](https://open.spotify.com/album/4QFKs1Wn1pVxUXuXPrkQH4) | 7:40 | 2022-12-08 | 2022-12-16 |
+| [Haegeum](https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 2:48 | 2023-04-20 |  |
 | [Haglar – Spotify Studio It’s Hits Recording](https://open.spotify.com/track/5yoafZ4sNIlX4BuQwlKQCX) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0), [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Haglar – Spotify Studio It’s Hits Recording](https://open.spotify.com/album/5r7W2jDIx805Fhx5ahwFUr) | 3:09 | 2022-09-01 | 2022-09-09 |
 | [HAHAH](https://open.spotify.com/track/4esa3tKLyvysJpj70fUCyK) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Spiderr](https://open.spotify.com/album/59VjMEiXIOpzLAMAHrLlfj) | 2:16 | 2022-09-29 | 2022-10-07 |
 | [hail mary](https://open.spotify.com/track/0EePy0Tts3VKrHaxIHbJir) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [hail mary](https://open.spotify.com/album/66ffihcpI4EZbBw8XlkPkR) | 2:30 | 2021-12-30 | 2022-01-07 |
@@ -2963,6 +2964,7 @@
 | [Hon kan inte banka plåt](https://open.spotify.com/track/6wy0CoUqP1fl93OpZkr8g9) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF) | [Hon kan inte banka plåt](https://open.spotify.com/album/6F68Xk20E7SFurcQuRggZW) | 2:08 | 2022-12-01 | 2022-12-09 |
 | [Hon sa](https://open.spotify.com/track/14hlEibjfr8YzgwVKNvmTz) | [Denz](https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7) | [Hon sa](https://open.spotify.com/album/5mE5pr4y7baZOEtheeAoco) | 2:11 | 2022-03-10 | 2022-03-18 |
 | [Hon sa](https://open.spotify.com/track/3LHWa0MK1AlEI9hukUSxn1) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [En liten låtidé](https://open.spotify.com/album/6Efrrr4boSN6DWpSFbDTSN) | 3:04 | 2023-03-24 | 2023-03-31 |
+| [Honest](https://open.spotify.com/track/7MpAJjJbMrmeLJbrDJ0wHh) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Honest](https://open.spotify.com/album/2aF3BH9F5BBznxDYZskdDz) | 3:01 | 2023-04-20 |  |
 | [Honest \(feat\. Don Toliver\)](https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Honest](https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf) | 3:13 | 2022-04-29 | 2022-05-06 |
 | [Honest \(feat\. Slayyyter\)](https://open.spotify.com/track/7p15pjKeiHuxFg7cu776sl) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Honest \(feat\. Slayyyter\)](https://open.spotify.com/album/46vmaiRCmEHYavivCY1r68) | 2:58 | 2022-02-03 | 2022-02-11 |
 | [Honey \(with Muni Long\)](https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Honey](https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y) | 2:21 | 2022-06-16 | 2022-06-24 |
@@ -7230,6 +7232,7 @@
 | [Where Do We Go](https://open.spotify.com/track/5fBBhQfbpkYpGc0Qcax4FN) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Where Do We Go](https://open.spotify.com/album/4HNIEO4z4B9iXPW8ywV01E) | 2:30 | 2022-09-15 | 2022-09-23 |
 | [Where do we go now?](https://open.spotify.com/track/4bYwK4mvWubnAkCextxH2d) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Where do we go now?](https://open.spotify.com/album/4ygkwRaKsCul6Hi0YBck0T) | 4:03 | 2023-01-13 | 2023-01-20 |
 | [where does the party go?](https://open.spotify.com/track/4atGHE5y8dwjJFbXEUi3G2) | [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [where does the party go?](https://open.spotify.com/album/5zRMOqg6uhFCs7OTmTW8lH) | 2:58 | 2022-03-17 | 2022-03-25 |
+| [WHERE DOES YOUR SPIRIT GO?](https://open.spotify.com/track/63XetbuuKLMyjIaVdZtFP1) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [WHERE DOES YOUR SPIRIT GO?](https://open.spotify.com/album/2nWy6y7E2KXy5apVUftkRZ) | 3:21 | 2023-04-20 |  |
 | [where I become someone](https://open.spotify.com/track/0ksR5KPinz2gURmTsZpWwU) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [where I become someone](https://open.spotify.com/album/6G6nqU2YyUXQKzRNpPJ4mg) | 3:08 | 2021-12-17 | 2021-12-24 |
 | [Where I Belong](https://open.spotify.com/track/4xxcd6cnmFfj67AmnaF6tc) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 3:08 | 2022-09-01 | 2022-09-09 |
 | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu) | 3:21 | 2022-10-20 | 2022-10-28 |

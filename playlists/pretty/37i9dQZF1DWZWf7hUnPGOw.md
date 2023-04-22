@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 
 > The official destination for all the music from Virgin River\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,522 likes - 176 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,565 likes - 176 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 4 | [So Long Pretty Baby](https://open.spotify.com/track/2rMaLemAw1DhXoyLMjKlOB) | [Tenderfoot](https://open.spotify.com/artist/0cAed9YivTN7Yq2BnjRNyt) | [To Be Young](https://open.spotify.com/album/3lXYDEXGf78jrHbshOeTsX) | 2:52 |
 | 5 | [Something Good](https://open.spotify.com/track/6pQQS2sAzMfy6sHhJD6UUO) | [Amy Stroup](https://open.spotify.com/artist/3dVt88018sQikXFlIocj3X), [Michael Logen](https://open.spotify.com/artist/7KaasLUJvHN32JTeXBmowR) | [Something Good](https://open.spotify.com/album/2EultUQvXZxWsOwWyvR8py) | 3:02 |
 | 6 | [I'm Not Ready To Say Goodbye](https://open.spotify.com/track/4evGfvrvdDPAs9JXP4PUjA) | [Margot Todd](https://open.spotify.com/artist/2ecMIWLmwxbQ9k21NSOro6) | [I'm Not Ready To Say Goodbye](https://open.spotify.com/album/2EDJuBb3bo7uLyqBQ2U3DD) | 3:14 |
-| 7 | [Ho Hey](https://open.spotify.com/track/2zKrGW8bGf5DzAGUHamw6X) | [BURИS](https://open.spotify.com/artist/6mCn6FRHufzaQjq9hrrE9A), [biz colletti](https://open.spotify.com/artist/32e20zdHxumYLsUQnODjMk) | [Ho Hey](https://open.spotify.com/album/1a1cyDzzmMnzz3Ep86Xi8y) | 3:19 |
+| 7 | [Ho Hey](https://open.spotify.com/track/2zKrGW8bGf5DzAGUHamw6X) | [BURNS](https://open.spotify.com/artist/6mCn6FRHufzaQjq9hrrE9A), [biz colletti](https://open.spotify.com/artist/32e20zdHxumYLsUQnODjMk) | [Ho Hey](https://open.spotify.com/album/1a1cyDzzmMnzz3Ep86Xi8y) | 3:19 |
 | 8 | [Velvet Morning Kiss Edge \- Main Mix](https://open.spotify.com/track/14AGgttfXxVLrpLx3UAXpH) | [Harri Markus Kangas](https://open.spotify.com/artist/66nI1584wVdrqBajXjRCVS) | [Coming Home](https://open.spotify.com/album/3tD9c1POeK7ixRwTnj4jZk) | 2:48 |
 | 9 | [Crow](https://open.spotify.com/track/2OZLAmifZRHUrkRzU9lnkx) | [Desert Noises](https://open.spotify.com/artist/2X3rGYJyh8oBkRKMzIQaLe) | [Crow / Whisper](https://open.spotify.com/album/1DpSdwabLNkT6fD5oYOLeb) | 2:36 |
 | 10 | [Salt And The Sea](https://open.spotify.com/track/5EKqsMU2tn1iAYNQF8h0ll) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s) | 4:30 |

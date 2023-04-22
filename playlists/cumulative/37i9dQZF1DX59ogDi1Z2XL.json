@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "1128 FREESTYLE",
+        "url": "https://open.spotify.com/album/6A4PP8qUYD0sCbMOP2p0di"
+      },
+      "artists": [
+        {
+          "name": "Tinywiings",
+          "url": "https://open.spotify.com/artist/1VUJORAhVbWM59xRLR8DY3"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "1128 FREESTYLE",
+      "url": "https://open.spotify.com/track/04vwDE5Tw93UPQxciTZjko"
+    },
+    {
+      "album": {
         "name": "16 Bit",
         "url": "https://open.spotify.com/album/6ZytNGcVVuqHnvqN6gmmHm"
       },
@@ -1101,6 +1119,24 @@
     },
     {
       "album": {
+        "name": "American Nightmare",
+        "url": "https://open.spotify.com/album/7qZIkDmB4T3YFHgMN9Hcg3"
+      },
+      "artists": [
+        {
+          "name": "Belly",
+          "url": "https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191861,
+      "name": "American Nightmare",
+      "url": "https://open.spotify.com/track/0kyZKb0LRPwfYprxGiqaV5"
+    },
+    {
+      "album": {
         "name": "An Introduction",
         "url": "https://open.spotify.com/album/2tWhEALTbr4KFkuI3TZ17d"
       },
@@ -1554,7 +1590,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 218666,
       "name": "Bar 4 Bar Champ 2023",
       "url": "https://open.spotify.com/track/1P2Un5t2ybxh43Wz5eSuF6"
@@ -1924,6 +1960,28 @@
       "duration_ms": 179540,
       "name": "Big Boss",
       "url": "https://open.spotify.com/track/4yTWqx04ZSGGPlVixhCMox"
+    },
+    {
+      "album": {
+        "name": "Big Dawg",
+        "url": "https://open.spotify.com/album/4OMWjwKqzoRf3iuIydUftS"
+      },
+      "artists": [
+        {
+          "name": "Mouraine",
+          "url": "https://open.spotify.com/artist/3Y548iWX29NIS9YgRL7wRr"
+        },
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234352,
+      "name": "Big Dawg",
+      "url": "https://open.spotify.com/track/0w9uyR5HZCMK4NkEJlRhwN"
     },
     {
       "album": {
@@ -3841,6 +3899,24 @@
     },
     {
       "album": {
+        "name": "Dem Dead Freestyle",
+        "url": "https://open.spotify.com/album/1WJZ4TdjmpUzgtmzWvKI6h"
+      },
+      "artists": [
+        {
+          "name": "Golde London",
+          "url": "https://open.spotify.com/artist/1Lskvp8v0SE5vR9KR8Ymcb"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110107,
+      "name": "Dem Dead Freestyle",
+      "url": "https://open.spotify.com/track/5OC2lRBDNEJOxqWvsqijRk"
+    },
+    {
+      "album": {
         "name": "Demon Mode",
         "url": "https://open.spotify.com/album/3th8PyMt8wjiGi0azm135D"
       },
@@ -3892,7 +3968,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 159470,
       "name": "DEPRESSION STATION",
       "url": "https://open.spotify.com/track/7dS6Su6WR0sSYOW4dmI1Sx"
@@ -4016,7 +4092,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 135000,
       "name": "Did it b4",
       "url": "https://open.spotify.com/track/7fYIrHj9oxIboaTWkr46aq"
@@ -5067,6 +5143,24 @@
     },
     {
       "album": {
+        "name": "Eyes On Me",
+        "url": "https://open.spotify.com/album/500tV5hhb6NPj6RWq3BxQ8"
+      },
+      "artists": [
+        {
+          "name": "K-Cuzz",
+          "url": "https://open.spotify.com/artist/7IS5AUXckTl6AThH10aSR0"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145964,
+      "name": "Fake Love",
+      "url": "https://open.spotify.com/track/33mNDcTmeCtV96Xcc5YUgM"
+    },
+    {
+      "album": {
         "name": "FALLEN STAR (feat. Y2K)",
         "url": "https://open.spotify.com/album/25mw8OfaL2uShDPDb9Oieg"
       },
@@ -5884,7 +5978,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 141168,
       "name": "FULL CIRCLE",
       "url": "https://open.spotify.com/track/357triqWyfH2gcSclqtdhS"
@@ -6106,6 +6200,24 @@
       "duration_ms": 140629,
       "name": "Get Rich",
       "url": "https://open.spotify.com/track/7zwvDb9wYgwnvpPrBdV2Ae"
+    },
+    {
+      "album": {
+        "name": "Get$",
+        "url": "https://open.spotify.com/album/1rolRhJBwK4VXNjpN5Eq05"
+      },
+      "artists": [
+        {
+          "name": "Blacka Da Don",
+          "url": "https://open.spotify.com/artist/0NoDb6USzMqpV5dvANBJiG"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188689,
+      "name": "Get$",
+      "url": "https://open.spotify.com/track/51oU5GT2Hv2W9HGYYOps3Q"
     },
     {
       "album": {
@@ -7134,7 +7246,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 169411,
       "name": "Hollows",
       "url": "https://open.spotify.com/track/7eybNfiKHNGHFyQ41EBSW5"
@@ -7833,6 +7945,24 @@
     },
     {
       "album": {
+        "name": "If It Ain't",
+        "url": "https://open.spotify.com/album/0iN7Yxd80QDT8cBj69Hbza"
+      },
+      "artists": [
+        {
+          "name": "Mnnyyz",
+          "url": "https://open.spotify.com/artist/4sTu12jqFnXvdGIdu9THCM"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204268,
+      "name": "If It Ain't",
+      "url": "https://open.spotify.com/track/25uoh8HPzPbRwfb2v5z5IO"
+    },
+    {
+      "album": {
         "name": "Igloo",
         "url": "https://open.spotify.com/album/1ZsI00Yki9hzFLM5Bm37Vu"
       },
@@ -7964,7 +8094,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 132430,
       "name": "In the Field",
       "url": "https://open.spotify.com/track/0tbwg8X8njfD9ifxyMLf3Y"
@@ -8102,7 +8232,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 169213,
       "name": "Irregular",
       "url": "https://open.spotify.com/track/3FiKztjpLv7SgHubUojPK6"
@@ -8863,6 +8993,24 @@
     },
     {
       "album": {
+        "name": "Lemons",
+        "url": "https://open.spotify.com/album/3mnOeqIhz0DY2hj9aZF3NA"
+      },
+      "artists": [
+        {
+          "name": "Nate Husser",
+          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131180,
+      "name": "Lemons",
+      "url": "https://open.spotify.com/track/1mtD50z7VMf5nEg7KOM9Gc"
+    },
+    {
+      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/6eKgzdfGQiDDeXAGGc7Mn8"
       },
@@ -8878,6 +9026,24 @@
       "duration_ms": 124607,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/2ipOz5PoGHK4wxDkpVCiWy"
+    },
+    {
+      "album": {
+        "name": "Let's Slide",
+        "url": "https://open.spotify.com/album/2yTm9rMmF7nklt9MV3rtxK"
+      },
+      "artists": [
+        {
+          "name": "AR Paisley",
+          "url": "https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144271,
+      "name": "Let's Slide",
+      "url": "https://open.spotify.com/track/1O8OlK7VP4R8LGLFgNlZvm"
     },
     {
       "album": {
@@ -9283,6 +9449,24 @@
     },
     {
       "album": {
+        "name": "Love Me Better",
+        "url": "https://open.spotify.com/album/7m246GiCLYhNhngFGCqtsB"
+      },
+      "artists": [
+        {
+          "name": "Eric Reprid",
+          "url": "https://open.spotify.com/artist/1f2Bnuuv7FxEx2x8iiEBzR"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131707,
+      "name": "Love Me Better",
+      "url": "https://open.spotify.com/track/6MmXaaySSEC7pvfutqiA5F"
+    },
+    {
+      "album": {
         "name": "LOVING U",
         "url": "https://open.spotify.com/album/5JXHvbiZSHrOxB5Kckqsfy"
       },
@@ -9442,7 +9626,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 152000,
       "name": "Magazine",
       "url": "https://open.spotify.com/track/6HJEPGSgPRcQmGaYwr33B1"
@@ -10246,7 +10430,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 98601,
       "name": "Mothers Basement'",
       "url": "https://open.spotify.com/track/4qEvSQnwqzFzNUdzMHeYgy"
@@ -12139,6 +12323,32 @@
     },
     {
       "album": {
+        "name": "Panjab-Hood",
+        "url": "https://open.spotify.com/album/3Fyb0hboaD5qNylpnFQLYA"
+      },
+      "artists": [
+        {
+          "name": "Satta",
+          "url": "https://open.spotify.com/artist/3SPkbVxTVGcvDZLjZBJldo"
+        },
+        {
+          "name": "Blamo",
+          "url": "https://open.spotify.com/artist/217YiebQLxLOSubsItInzR"
+        },
+        {
+          "name": "Byg Byrd",
+          "url": "https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169090,
+      "name": "Panjab-Hood",
+      "url": "https://open.spotify.com/track/3QigKP5UVBeE7JzMeH34T8"
+    },
+    {
+      "album": {
         "name": "SOLO",
         "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
       },
@@ -12420,7 +12630,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 119093,
       "name": "Pleasure",
       "url": "https://open.spotify.com/track/36KkEDXgq4ruKeXmKMN7oW"
@@ -12892,7 +13102,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 160104,
       "name": "Ready Set Go",
       "url": "https://open.spotify.com/track/5X2cxYKc62It0TaAuqZiOM"
@@ -13234,7 +13444,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 165857,
       "name": "Ricochet",
       "url": "https://open.spotify.com/track/43ZmBwX8rq6CBmq2yq20os"
@@ -13474,7 +13684,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 181712,
       "name": "Run for Cover",
       "url": "https://open.spotify.com/track/0aA70Cmhp5hlnn1whKcnJD"
@@ -14136,6 +14346,24 @@
       "duration_ms": 247455,
       "name": "SKC.",
       "url": "https://open.spotify.com/track/38yVzUZZPc4zq99YI2dspn"
+    },
+    {
+      "album": {
+        "name": "SKIN",
+        "url": "https://open.spotify.com/album/2SP7CaELGWy4BUyd90EeUo"
+      },
+      "artists": [
+        {
+          "name": "Charlie Noiir",
+          "url": "https://open.spotify.com/artist/3jAbhB16sbyvBKSpvQzRdO"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "SKIN",
+      "url": "https://open.spotify.com/track/1eyXPx1G1nEqXvsVOOGkAN"
     },
     {
       "album": {
@@ -14961,6 +15189,24 @@
     },
     {
       "album": {
+        "name": "SWEET",
+        "url": "https://open.spotify.com/album/1KENqXH4vW5il6jproVU6O"
+      },
+      "artists": [
+        {
+          "name": "APB",
+          "url": "https://open.spotify.com/artist/3vUy9wmklGDZ5r2sEPk7N8"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156666,
+      "name": "SWEET",
+      "url": "https://open.spotify.com/track/6uXqSveySAsOe4WptrKUbi"
+    },
+    {
+      "album": {
         "name": "Sweeter Summer",
         "url": "https://open.spotify.com/album/23tJ41qBumAwqHmpQ9YLPF"
       },
@@ -15344,6 +15590,28 @@
       "duration_ms": 138168,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/2q88tYMUUZ03hN9hjFZVDC"
+    },
+    {
+      "album": {
+        "name": "The Jungle",
+        "url": "https://open.spotify.com/album/2Ao1lDSZ1N9JmkTaR9PuQF"
+      },
+      "artists": [
+        {
+          "name": "Bandokay",
+          "url": "https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE"
+        },
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167026,
+      "name": "The Jungle",
+      "url": "https://open.spotify.com/track/6bpsyayAnCZoPTjGt9Ifhw"
     },
     {
       "album": {
@@ -16478,7 +16746,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 131369,
       "name": "Villain",
       "url": "https://open.spotify.com/track/3YpoNhSA8JnTxwIghmuk0q"

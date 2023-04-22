@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 60206,
+  "num_followers": 60245,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMGU3NWJlZTFhNWJiYjM5ZjI0ZjU0OGY5MTc5NGM1ZTZm",
+  "snapshot_id": "MTY4MjA1NjgwMCwwMDAwMDAwMGIxYTAyZjgwMjRlMjQwMGI4NzNjYjAzNWJlMDZjNjlj",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -93,20 +93,20 @@
       "url": "https://open.spotify.com/track/1YMUqYf5tNsXJEzaBlswnz"
     },
     {
-      "added_at": "2022-10-01 18:54:42",
+      "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "t\u00fa + yo",
-        "url": "https://open.spotify.com/album/4lNSJb1LqQ85MPDX0NV4Us"
+        "name": "S.C.E.N.A.",
+        "url": "https://open.spotify.com/album/3U0Y3Uyed506dKHMpQDCI9"
       },
       "artists": [
         {
-          "name": "Marc!",
-          "url": "https://open.spotify.com/artist/2sOEwHFWDipyXd0EgSHIMF"
+          "name": "Ningun Artista",
+          "url": "https://open.spotify.com/artist/2hErZkRG3ZcpWCh0B3wQkV"
         }
       ],
-      "duration_ms": 212000,
-      "name": "t\u00fa + yo",
-      "url": "https://open.spotify.com/track/4lPCAX8wRQKNzHTiXnZUjb"
+      "duration_ms": 220250,
+      "name": "AMSIEDAD",
+      "url": "https://open.spotify.com/track/6INLA7eSR6wKYdCUtQyDLQ"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -157,6 +157,22 @@
       "url": "https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp"
     },
     {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "El Tio Mat",
+        "url": "https://open.spotify.com/album/6LRhupFVTN6j9qpDHhYAxi"
+      },
+      "artists": [
+        {
+          "name": "Roca Lunar",
+          "url": "https://open.spotify.com/artist/7v2z392Xgbs0IvxUYCIncL"
+        }
+      ],
+      "duration_ms": 163253,
+      "name": "El Tio Mat",
+      "url": "https://open.spotify.com/track/5F8GV798m5bian3h4PlhRh"
+    },
+    {
       "added_at": "2022-10-01 18:54:42",
       "album": {
         "name": "RPDF",
@@ -187,26 +203,6 @@
       "duration_ms": 168840,
       "name": "M\u00e1s de Lo Que Te Imaginas",
       "url": "https://open.spotify.com/track/4tgzXBZfiR5VKjbqThmtG6"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Siempre",
-        "url": "https://open.spotify.com/album/1pcGdOq2pFTBjivCc8CqbI"
-      },
-      "artists": [
-        {
-          "name": "Hey Bandit!",
-          "url": "https://open.spotify.com/artist/2yzrbMnmjvrupo4AuOwnRJ"
-        },
-        {
-          "name": "Gibr\u00e1n Serrano",
-          "url": "https://open.spotify.com/artist/2iXLevANnYqq76VN1xaBYc"
-        }
-      ],
-      "duration_ms": 177074,
-      "name": "Siempre",
-      "url": "https://open.spotify.com/track/0Tvg72r8G8sd3rxRlnZxGR"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -307,22 +303,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "J\u00e4ula",
-        "url": "https://open.spotify.com/album/1yLnsXPIitOv2ExApCDEGE"
-      },
-      "artists": [
-        {
-          "name": "Mi Mascota Leila",
-          "url": "https://open.spotify.com/artist/3fMUI1SlJ06jX1V0qGNmge"
-        }
-      ],
-      "duration_ms": 226063,
-      "name": "Cc (Como Compas)",
-      "url": "https://open.spotify.com/track/5Bnn9MKvL9JGeBdbnSdB5O"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "Vamos Perdiendo el Coraz\u00f3n",
         "url": "https://open.spotify.com/album/23pMm6NC32mogG6H6KkfTn"
       },
@@ -335,6 +315,22 @@
       "duration_ms": 241532,
       "name": "Dicen Que Estoy Muerto",
       "url": "https://open.spotify.com/track/69HhWybZbE4RgR6Cfhilfh"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "J\u00e4ula",
+        "url": "https://open.spotify.com/album/1yLnsXPIitOv2ExApCDEGE"
+      },
+      "artists": [
+        {
+          "name": "Mi Mascota Leila",
+          "url": "https://open.spotify.com/artist/3fMUI1SlJ06jX1V0qGNmge"
+        }
+      ],
+      "duration_ms": 226063,
+      "name": "Cc (Como Compas)",
+      "url": "https://open.spotify.com/track/5Bnn9MKvL9JGeBdbnSdB5O"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -727,6 +723,22 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
+        "name": "t\u00fa + yo",
+        "url": "https://open.spotify.com/album/4lNSJb1LqQ85MPDX0NV4Us"
+      },
+      "artists": [
+        {
+          "name": "Marc!",
+          "url": "https://open.spotify.com/artist/2sOEwHFWDipyXd0EgSHIMF"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "t\u00fa + yo",
+      "url": "https://open.spotify.com/track/4lPCAX8wRQKNzHTiXnZUjb"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
         "name": "Al infierno y de regreso",
         "url": "https://open.spotify.com/album/7rW8Qb4gpmNMZkS4h6nCKa"
       },
@@ -755,22 +767,6 @@
       "duration_ms": 191346,
       "name": "Lav\u00e1ntula",
       "url": "https://open.spotify.com/track/3rq5FTMGVA3ha3k6dCX2oh"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
-        "name": "No Hay Final Feliz",
-        "url": "https://open.spotify.com/album/5C2ctVj0v0BVGc3D7ELsea"
-      },
-      "artists": [
-        {
-          "name": "Cuatro y Medio",
-          "url": "https://open.spotify.com/artist/6wJwB1zPYk6mASfPxua8qC"
-        }
-      ],
-      "duration_ms": 218811,
-      "name": "No Hay Final Feliz",
-      "url": "https://open.spotify.com/track/4DA6ycFahIk2BekxtAnS8r"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -811,6 +807,22 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
+        "name": "No Hay Final Feliz",
+        "url": "https://open.spotify.com/album/5C2ctVj0v0BVGc3D7ELsea"
+      },
+      "artists": [
+        {
+          "name": "Cuatro y Medio",
+          "url": "https://open.spotify.com/artist/6wJwB1zPYk6mASfPxua8qC"
+        }
+      ],
+      "duration_ms": 218811,
+      "name": "No Hay Final Feliz",
+      "url": "https://open.spotify.com/track/4DA6ycFahIk2BekxtAnS8r"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
         "name": "Saoko (Post-Punk)",
         "url": "https://open.spotify.com/album/4Fmaxtk2DZgoQRZG3c8jn5"
       },
@@ -823,22 +835,6 @@
       "duration_ms": 180152,
       "name": "Saoko (Post-Punk)",
       "url": "https://open.spotify.com/track/1QcoAZN9XMAZQT2aeQqII0"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
-        "name": "Siempre Resistir / Nunca Desistir",
-        "url": "https://open.spotify.com/album/05oaSmUNyPQMVeNgvfn8uS"
-      },
-      "artists": [
-        {
-          "name": "DON",
-          "url": "https://open.spotify.com/artist/4xRGF3S9AgY23sWuzKlUDR"
-        }
-      ],
-      "duration_ms": 234773,
-      "name": "Escribe Una Canci\u00f3n",
-      "url": "https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2"
     }
   ],
   "unique_name": "Escena Pop Punk",

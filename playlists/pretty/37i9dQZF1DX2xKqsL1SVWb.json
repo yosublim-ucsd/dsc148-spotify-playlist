@@ -1,12 +1,12 @@
 {
   "description": "Folk tan dulce como la miel. Kevin Kaarl en portada.",
-  "num_followers": 95964,
+  "num_followers": 95984,
   "original_name": "madera y miel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI5MDE5NSwwMDAwMDAwMDIzZWJjZjQ5NzU3YjQ3YzMwMjdhMzk2ZDg4NTIxOTk2",
+  "snapshot_id": "MTY4MDI5MDE5NSwwMDAwMDAwMDQwYjU5NGQ3NTIxYWNiMDBmYzFhNDAxNTY3OWNkZmVl",
   "tracks": [
     {
       "added_at": "2023-03-31 18:07:09",
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/0xJDZoUeyeOBlj9jtqhyum"
     },
     {
-      "added_at": "2023-04-21 01:17:27",
+      "added_at": "2023-04-22 00:59:12",
       "album": {
         "name": "Ya Casi Te Olvido",
         "url": "https://open.spotify.com/album/2dxhIwE8OuBoS1D0VFb7SB"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/7oyN3Xdz3o0xCNFwWc1lm1"
     },
     {
-      "added_at": "2023-04-21 01:17:27",
+      "added_at": "2023-04-22 00:59:12",
       "album": {
         "name": "No Sab\u00eda",
         "url": "https://open.spotify.com/album/2gOm3N82lznLwNw58asTBL"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4"
     },
     {
-      "added_at": "2023-04-21 01:17:27",
+      "added_at": "2023-04-22 00:59:12",
       "album": {
         "name": "Loza",
         "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS"
     },
     {
-      "added_at": "2023-04-21 01:17:27",
+      "added_at": "2023-04-22 00:59:12",
       "album": {
         "name": "HSN",
         "url": "https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam"
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
+        "name": "Amor Con Filo",
+        "url": "https://open.spotify.com/album/5LZTVKoO09QDaADq6ij0Sj"
+      },
+      "artists": [
+        {
+          "name": "Anthr\u00e9s",
+          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Amor Con Filo",
+      "url": "https://open.spotify.com/track/3hzxwtypvjo7qqy8umK66X"
+    },
+    {
+      "added_at": "2023-03-31 18:07:09",
+      "album": {
         "name": "Todo Lo Que Hay",
         "url": "https://open.spotify.com/album/1O1Awr8xY2q6FwZ0qVsWf7"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 208177,
       "name": "Dime",
       "url": "https://open.spotify.com/track/4nVXw2k8sRREEK4w4akSXd"
-    },
-    {
-      "added_at": "2023-03-31 18:07:09",
-      "album": {
-        "name": "Amor Con Filo",
-        "url": "https://open.spotify.com/album/5LZTVKoO09QDaADq6ij0Sj"
-      },
-      "artists": [
-        {
-          "name": "Anthr\u00e9s",
-          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Amor Con Filo",
-      "url": "https://open.spotify.com/track/3hzxwtypvjo7qqy8umK66X"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
-        "name": "Cuando salga el sol",
-        "url": "https://open.spotify.com/album/0DXHs3FAp1n74c9DRFykqv"
+        "name": "Se Te Olvid\u00f3",
+        "url": "https://open.spotify.com/album/1k8eERaYIlNo3PI5VOx2Eo"
       },
       "artists": [
         {
-          "name": "Alan Troy",
-          "url": "https://open.spotify.com/artist/2AAtJ9SZMYanKsVF87wxGU"
+          "name": "Bella \u00c1lvarez",
+          "url": "https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs"
         }
       ],
-      "duration_ms": 201538,
-      "name": "Cuando salga el sol",
-      "url": "https://open.spotify.com/track/5kR3d959InuG8hA5EDXE2k"
+      "duration_ms": 211382,
+      "name": "Se Te Olvid\u00f3",
+      "url": "https://open.spotify.com/track/43p7kAVqa4CYkwQtl0ZBb3"
     },
     {
       "added_at": "2023-03-31 18:07:09",

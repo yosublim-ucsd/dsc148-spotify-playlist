@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-16",
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Pupil Slicer",
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Kim Dracula",
   "name": "Best New Songs Right Now",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 270712,
       "name": "2022",
       "url": "https://open.spotify.com/track/3eMi4WvFU4xKBiPnrEZo4v"
+    },
+    {
+      "album": {
+        "name": "30 Under 13",
+        "url": "https://open.spotify.com/album/3flz7O2lY60WbBoefXUk1b"
+      },
+      "artists": [
+        {
+          "name": "Better Lovers",
+          "url": "https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245006,
+      "name": "30 Under 13",
+      "url": "https://open.spotify.com/track/4f1ML3x043Sl0QdVeNB4yT"
     },
     {
       "album": {
@@ -965,6 +983,32 @@
     },
     {
       "album": {
+        "name": "CHAIN (feat. Jacob Lilly)",
+        "url": "https://open.spotify.com/album/6M7pQm8mrIcrc57XXQfNmx"
+      },
+      "artists": [
+        {
+          "name": "The Acacia Strain",
+          "url": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+        },
+        {
+          "name": "Chamber",
+          "url": "https://open.spotify.com/artist/0Iv7bsODzqbmMkC6pylYYN"
+        },
+        {
+          "name": "Jacob Lilly",
+          "url": "https://open.spotify.com/artist/3liqJR5I9qc7zYvhrM0tUx"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71925,
+      "name": "CHAIN (feat. Jacob Lilly)",
+      "url": "https://open.spotify.com/track/5vw6v6Fta7a4BwHvhMtnVW"
+    },
+    {
+      "album": {
         "name": "Christian Missile Crisis",
         "url": "https://open.spotify.com/album/67DLHlnVU77iC8AszFPB5W"
       },
@@ -1160,7 +1204,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 277996,
       "name": "Compulsion for Cruelty",
       "url": "https://open.spotify.com/track/6qyjlMANn1diSEIlXQLm50"
@@ -1308,7 +1352,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 101110,
       "name": "Damnation",
       "url": "https://open.spotify.com/track/5afgTvdlApyuy2Ciu5DZyd"
@@ -1470,7 +1514,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 213871,
       "name": "deep fake",
       "url": "https://open.spotify.com/track/1I3EjtaIQz2zzDE1aeiUEz"
@@ -1640,7 +1684,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 374173,
       "name": "Dogs Of Chernobyl",
       "url": "https://open.spotify.com/track/4nWRa8SyNXrfIl3SCCuC6E"
@@ -1792,6 +1836,24 @@
       "duration_ms": 283937,
       "name": "Dying of Everything",
       "url": "https://open.spotify.com/track/7GgPZBrYvDLWUZV0ePStAE"
+    },
+    {
+      "album": {
+        "name": "DYWTYLM",
+        "url": "https://open.spotify.com/album/0xLXYxkjjIPfVFhbPWvCwy"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240737,
+      "name": "DYWTYLM",
+      "url": "https://open.spotify.com/track/4hjJtKO5SdpfVRwP4FZeKI"
     },
     {
       "album": {
@@ -2330,7 +2392,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 132158,
       "name": "Forced Collective Introspection",
       "url": "https://open.spotify.com/track/6m2DU1KELwVuOSRBVHeRz6"
@@ -2684,7 +2746,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 239940,
       "name": "Grayscale",
       "url": "https://open.spotify.com/track/2e9mDdiPdwkyyTceSiNHbQ"
@@ -2810,7 +2872,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 206346,
       "name": "Heart Reformer",
       "url": "https://open.spotify.com/track/4bSTKeCvyLnXwsDc1Aw452"
@@ -2961,6 +3023,24 @@
     },
     {
       "album": {
+        "name": "Hysterics",
+        "url": "https://open.spotify.com/album/1cBEmj03uPsuMgywV43rDt"
+      },
+      "artists": [
+        {
+          "name": "Kim Dracula",
+          "url": "https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Hysterics",
+      "url": "https://open.spotify.com/track/75w7La8hnnsSeq9CDCBT89"
+    },
+    {
+      "album": {
         "name": "I Don't Wanna Talk About It",
         "url": "https://open.spotify.com/album/0o0iQWO3Kb7w4FWcs46Odm"
       },
@@ -2972,7 +3052,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 153385,
       "name": "I Don't Wanna Talk About It",
       "url": "https://open.spotify.com/track/7MmcCmu1q6a7PDgH1vJT3I"
@@ -3258,7 +3338,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 205233,
       "name": "It Never Began",
       "url": "https://open.spotify.com/track/7pLmXXwjM18XrFEmfIwXLZ"
@@ -4042,7 +4122,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 189457,
       "name": "nihil",
       "url": "https://open.spotify.com/track/2X6tjTssSBitIKOS6tXs8D"
@@ -4086,7 +4166,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 406472,
       "name": "No Escape From Now (feat. Tony Iommi)",
       "url": "https://open.spotify.com/track/3EJAW7s7KWyiJvmKAtDTgA"
@@ -4392,7 +4472,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 352560,
       "name": "Pain Remains I: Dancing Like Flames",
       "url": "https://open.spotify.com/track/4KyPlGyV6lfxOPHfBQpPZm"
@@ -4446,7 +4526,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 197374,
       "name": "Pass The Nirvana",
       "url": "https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV"
@@ -4966,7 +5046,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 202607,
       "name": "Rot & Decay",
       "url": "https://open.spotify.com/track/2dwYVykmRQsVfJbRZvGGjb"
@@ -5168,7 +5248,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 319083,
       "name": "Shaken (not stirred)",
       "url": "https://open.spotify.com/track/0xv7FSJPlVXBabtxOtMtHA"
@@ -5587,6 +5667,24 @@
     },
     {
       "album": {
+        "name": "Tank On E",
+        "url": "https://open.spotify.com/album/6s6uyJHu5uscy4snvD0LQw"
+      },
+      "artists": [
+        {
+          "name": "Never Ending Game",
+          "url": "https://open.spotify.com/artist/1S8NfdnAl7u08mTjEtDWLp"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159520,
+      "name": "Tank On E",
+      "url": "https://open.spotify.com/track/3jJ8NX2W13Kb4weZEUSvpL"
+    },
+    {
+      "album": {
         "name": "tear gas",
         "url": "https://open.spotify.com/album/0lYpKR15pdTLNQuBHXNx6L"
       },
@@ -5688,7 +5786,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 429419,
       "name": "The Bough",
       "url": "https://open.spotify.com/track/6gQ1LiHTZ42Luk9EG7MlNk"
@@ -5976,7 +6074,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 196346,
       "name": "The Primal Wave",
       "url": "https://open.spotify.com/track/30PCjpjQ4zYluCYzsaw6Aw"
@@ -6405,6 +6503,24 @@
     },
     {
       "album": {
+        "name": "Very High",
+        "url": "https://open.spotify.com/album/5Gd3mPMU5qbLvK4nRwL4Tb"
+      },
+      "artists": [
+        {
+          "name": "Militarie Gun",
+          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114872,
+      "name": "Very High",
+      "url": "https://open.spotify.com/track/5MxAezfO6AOYafUUyzr0yR"
+    },
+    {
+      "album": {
         "name": "Dust to Dust",
         "url": "https://open.spotify.com/album/1P99aFkpE89pgpSjKZ5axS"
       },
@@ -6434,7 +6550,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 238211,
       "name": "Victoria",
       "url": "https://open.spotify.com/track/092s2mBt9gxSKCPjT2CWNz"
@@ -6546,7 +6662,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 278181,
       "name": "Vultures of North",
       "url": "https://open.spotify.com/track/7EtQ5CqjSRgItuTYXeEtc9"
@@ -6864,7 +6980,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 96573,
       "name": "Words Fail",
       "url": "https://open.spotify.com/track/4eB3zRK5tIQj8obRT2ux2c"

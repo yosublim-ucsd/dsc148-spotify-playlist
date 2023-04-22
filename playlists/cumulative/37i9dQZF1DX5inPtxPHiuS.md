@@ -4,7 +4,7 @@
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Diamante Eléctrico
 
-202 songs - 12 hr 33 min
+203 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Nada Que Perder](https://open.spotify.com/track/1ltfzbujQimq9VTMNNkg1s) | [APOLO 7](https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6) | [Sangre Latina](https://open.spotify.com/album/7IVTzFDWUVW43fFoLtkfod) | 3:31 | 2022-03-11 | 2022-07-24 |
 | [Nadie Es Inocente \(feat\. Dilson Diaz & Nicolai Fella\)](https://open.spotify.com/track/4jnp4SOpXZP0Oy0YIBKxcf) | [Pornomotora](https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5), [Dilson Diaz](https://open.spotify.com/artist/72UArPUG7xctUaf3iXf59r), [Nicolai Fella](https://open.spotify.com/artist/4Os4fMrqioV1yr2joj1Tvo) | [Pnmt Corrosion](https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96) | 3:30 | 2022-03-11 | 2022-07-25 |
 | [Neumáticos](https://open.spotify.com/track/72cKV8a25RSFlIcr0KlpLM) | [Revólver Plateado](https://open.spotify.com/artist/73GjkmYVJJkhT0S4FweayO) | [Neumáticos](https://open.spotify.com/album/16NgzTFHxyzHmOWenuPzWx) | 3:45 | 2023-02-14 |  |
-| [Ningún Lugar](https://open.spotify.com/track/17GFhJg9l7Rm2qLbVuSYhr) | [Los Maricas](https://open.spotify.com/artist/0CkSeKpb3BlFQJJcA1kIjy) | [IV](https://open.spotify.com/album/5klM9vIOYtJdi3N8GUTprP) | 2:27 | 2022-03-11 |  |
+| [Ningún Lugar](https://open.spotify.com/track/17GFhJg9l7Rm2qLbVuSYhr) | [Los Maricas](https://open.spotify.com/artist/0CkSeKpb3BlFQJJcA1kIjy) | [IV](https://open.spotify.com/album/5klM9vIOYtJdi3N8GUTprP) | 2:27 | 2022-03-11 | 2023-04-22 |
 | [Niños Perdidos](https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI), [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Niños Perdidos](https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y) | 2:39 | 2023-02-14 |  |
 | [No Estamos Solos \- 00e11even00](https://open.spotify.com/track/4xa5RqAaKqxU19SXbh8aNu) | [Comehere](https://open.spotify.com/artist/0TOIehkogO9D6CrPSIzTsJ) | [No Estamos Solos \(00e11even00\)](https://open.spotify.com/album/6FnLeAY0SLncpRI8qJr6m3) | 3:35 | 2022-03-11 | 2022-07-03 |
 | [No Hay Palabras](https://open.spotify.com/track/2c5qpGWw2RPU4NGj0tIa0q) | [LaTenaz](https://open.spotify.com/artist/5tgY8XPEDCIADiPbVYR3zD), [Burning Caravan](https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat) | [No Hay Palabras](https://open.spotify.com/album/32ukeYc64E3IkqZtXdZaCG) | 3:53 | 2022-03-11 | 2022-07-26 |
@@ -182,6 +182,7 @@
 | [Somos coyotes](https://open.spotify.com/track/7zmzVpmiMZCIZgLInbY3ud) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Doce Vientos](https://open.spotify.com/album/3ND4tL9NXYIRBBitw13bif) | 3:42 | 2022-03-11 | 2022-07-27 |
 | [Suspendida la Plenitud](https://open.spotify.com/track/49b7JVJNhXTJSDmRhqowwX) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Suspendida la Plenitud](https://open.spotify.com/album/25JAHE3P3o7BpMjyHKj7Qb) | 3:58 | 2022-03-11 | 2022-07-27 |
 | [Suéltame, Bogotá](https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Mira Lo Que Me Hiciste Hacer](https://open.spotify.com/album/2qrp8qjS2WuKEoj6a9AiXe) | 3:48 | 2022-03-11 | 2023-04-20 |
+| [Suéltame, Bogotá](https://open.spotify.com/track/7qhunqQrA4o3Hk4c6ohRTg) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Mira Lo Que Me Hiciste Hacer](https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI) | 3:48 | 2023-04-14 |  |
 | [Te Lastimé](https://open.spotify.com/track/5bHQmbPaDWjJ8TR5dpYXcz) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB) | [Calidosound](https://open.spotify.com/album/0C3DVr20JwpTVbeIgWJEF8) | 3:46 | 2022-03-11 | 2022-07-29 |
 | [Te Lastimé](https://open.spotify.com/track/29ewalVPcrRF03aTtWvD9z) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB) | [Calidosound](https://open.spotify.com/album/02jSWAxa0OgylMZkHApDyj) | 3:46 | 2022-06-24 |  |
 | [Te Valgo](https://open.spotify.com/track/6ZaupuaHRssvSlkz9NrD4p) | [Piel Camaleón](https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq) | [Te Valgo](https://open.spotify.com/album/3kmz323e83bfjWbXuRVcAk) | 3:18 | 2022-03-11 | 2022-11-13 |

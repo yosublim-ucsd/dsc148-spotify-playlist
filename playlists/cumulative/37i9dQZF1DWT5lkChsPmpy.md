@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-427 songs - 19 hr 8 min
+428 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Ditty](https://open.spotify.com/track/71WxHp7zJA2MEmc2sqDTpI) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Neon Tapestries](https://open.spotify.com/album/6hqeBr0rwkgO1DNKx7I59P) | 2:45 | 2022-05-10 |  |
 | [Diurnal](https://open.spotify.com/track/59JkOkb5dZeluV2s7vhJRD) | [Sömngrus](https://open.spotify.com/artist/4LuuDmiOLGrAHanlvqX5k8) | [Diurnal Nocturnal EP](https://open.spotify.com/album/2nRoWqbNltEd83DD9a7tWl) | 2:36 | 2021-11-10 | 2022-04-06 |
 | [Don't Fall](https://open.spotify.com/track/0JCNrm6tZAnEdAIWQpVevl) | [Yours Truly, CC](https://open.spotify.com/artist/2dNEISrL4uUVlqVFrZRzTL), [Rubus](https://open.spotify.com/artist/7jaMbya54ZRcqETDqAPv85) | [Don't Fall](https://open.spotify.com/album/76gmo70ondGPTnx14vHymw) | 2:00 | 2022-12-09 |  |
-| [dont bother](https://open.spotify.com/track/5uWwgo9O3x4hHwA8Hdts6Q) | [Touri Fjell](https://open.spotify.com/artist/6WjVgq5WhsDumuVhwfKf5I) | [dont bother](https://open.spotify.com/album/5Op8wi4ssBtLyoz3cGbinO) | 2:11 | 2023-01-13 |  |
+| [dont bother](https://open.spotify.com/track/5uWwgo9O3x4hHwA8Hdts6Q) | [Touri Fjell](https://open.spotify.com/artist/6WjVgq5WhsDumuVhwfKf5I) | [dont bother](https://open.spotify.com/album/5Op8wi4ssBtLyoz3cGbinO) | 2:11 | 2023-01-13 | 2023-04-22 |
 | [Dormant](https://open.spotify.com/track/5fOi6gHQnqBNwM37zupVgr) | [Bjänn](https://open.spotify.com/artist/21Q9pfmgNxjRd5q2O6eVQ9) | [Dormant](https://open.spotify.com/album/5r9MCvOcxCziejbRx7aUsq) | 2:28 | 2021-11-10 |  |
 | [Downtown](https://open.spotify.com/track/3k7nl2pz0LR25XRRDeSi6z) | [DROPQUICK](https://open.spotify.com/artist/1kTosgOUBKvkCaOsJINFsN) | [Downtown](https://open.spotify.com/album/4lGrY9glvKimde5O26PJng) | 2:06 | 2021-11-10 | 2022-07-08 |
 | [Dreams](https://open.spotify.com/track/2dONTaX48SnM8X2zdV45iP) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Dreams](https://open.spotify.com/album/6GtgXEsCmrXRw3tADB4mxF) | 2:39 | 2023-03-17 |  |
@@ -109,7 +109,7 @@
 | [Earth Echos](https://open.spotify.com/track/5jymR5eXOTcIieZenxJwCX) | [John Andre](https://open.spotify.com/artist/3D56Nhiz0aTRqx4z0qs9jb) | [The Afternoon Breeze](https://open.spotify.com/album/06FNY9stCHsUBU5ZGcN5YU) | 2:52 | 2021-11-10 | 2022-05-20 |
 | [Easter 21](https://open.spotify.com/track/7JXtkW4LnNqPkTCULCm1bk) | [SLACER](https://open.spotify.com/artist/0J2jRTXMGGCAwBGoi3xNtW) | [Easter 21](https://open.spotify.com/album/3agydje4ZdZuBpYu8WBYQb) | 3:50 | 2021-11-10 | 2022-06-03 |
 | [Ebullience](https://open.spotify.com/track/5F9JKU4bZwtsWRs3R3kk1A) | [Kalizé](https://open.spotify.com/artist/1RucQs51dYwiXQbDKIpaKS) | [Ebullience](https://open.spotify.com/album/7c0CC4Tx5h6fem5482f4tE) | 2:31 | 2021-11-10 |  |
-| [Element & Moderate](https://open.spotify.com/track/6XvAXhla70yN7tJzKeAFiT) | [Feverkin](https://open.spotify.com/artist/2AY0TMFBRlygIiGsk2kiOP) | [Element & Moderate](https://open.spotify.com/album/3VuaP4rvbmO53ebGi00Vmo) | 3:32 | 2023-03-10 |  |
+| [Element & Moderate](https://open.spotify.com/track/6XvAXhla70yN7tJzKeAFiT) | [Feverkin](https://open.spotify.com/artist/2AY0TMFBRlygIiGsk2kiOP) | [Element & Moderate](https://open.spotify.com/album/3VuaP4rvbmO53ebGi00Vmo) | 3:32 | 2023-03-10 | 2023-04-22 |
 | [Elements](https://open.spotify.com/track/2QW3U3MpayM3QMk67Ut99J) | [Bat Bilger](https://open.spotify.com/artist/1hHeQ22aJjCgE42pUjvkon) | [Elements](https://open.spotify.com/album/5OXc7jNILuDvrrt5JrNgLH) | 3:12 | 2021-11-10 | 2022-09-17 |
 | [Elysian Breeze](https://open.spotify.com/track/0XmKh6wAF5RGyBTB9R1lTM) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Elysian Breeze](https://open.spotify.com/album/1mxEZKsPn8dzvzIcK1wgO1) | 2:31 | 2021-11-10 |  |
 | [Embedded](https://open.spotify.com/track/6kpr58zL1OMSikCZgSZ9mz) | [Axshaft](https://open.spotify.com/artist/1cD64izGulnGEe2zy4ViMU) | [Embedded](https://open.spotify.com/album/6fm0NkBIcrmzDTOPBDsfzJ) | 3:44 | 2021-11-10 | 2022-06-10 |
@@ -242,7 +242,7 @@
 | [Make It Count](https://open.spotify.com/track/70EPJbHlSO1Dkkmil1IP6b) | [Galavant Cross](https://open.spotify.com/artist/07dC1pu2nWISPURU8irwck) | [Make It Count](https://open.spotify.com/album/2cRKaFS1CgsSizxPQC6ca6) | 3:03 | 2021-11-10 | 2023-02-25 |
 | [making mixtapes](https://open.spotify.com/track/3zFvlfTZuoM8yYpDGqBQWm) | [Tokoyo](https://open.spotify.com/artist/1uRrPMRitqSxmERD5N5NWF) | [making mixtapes](https://open.spotify.com/album/78d1kuIGISTSexice5zMFV) | 1:49 | 2022-05-10 |  |
 | [Manhattan \(Edit\)](https://open.spotify.com/track/2XVuE0BCV1bkoOwTZdT0sk) | [Mode Donna](https://open.spotify.com/artist/4EVClNgwLk38PorSOhui9R) | [Manhattan \(Edit\)](https://open.spotify.com/album/53Mdl4dpD3yyI14OpQn0XG) | 2:54 | 2022-10-14 |  |
-| [Mannequin](https://open.spotify.com/track/36Uz12ctE58QztkK67Doya) | [Chewy WO](https://open.spotify.com/artist/3pa7MdSYqgFazXfYIQehhV) | [Mannequin](https://open.spotify.com/album/4k3gJQHthd1Vcs90viihk1) | 3:09 | 2021-11-10 |  |
+| [Mannequin](https://open.spotify.com/track/36Uz12ctE58QztkK67Doya) | [Chewy WO](https://open.spotify.com/artist/3pa7MdSYqgFazXfYIQehhV) | [Mannequin](https://open.spotify.com/album/4k3gJQHthd1Vcs90viihk1) | 3:09 | 2021-11-10 | 2023-04-22 |
 | [Marcus in Toyland](https://open.spotify.com/track/6QXotvrkA7vnx1qYULqamc) | [Lost In Los Angeles](https://open.spotify.com/artist/7hNdZmdfhLH5qi7Fr0Q7mO) | [Marcus in Toyland](https://open.spotify.com/album/2erTiHvq1ndlXSyJGmxlB5) | 2:46 | 2021-11-10 | 2022-05-20 |
 | [Massachusetts](https://open.spotify.com/track/4aLKDpv19Y6eH21QZPmiUR) | [Hey Aura](https://open.spotify.com/artist/1LkPLzQZg2M4H0XUWDaclS) | [Massachusetts](https://open.spotify.com/album/0dQ8osFOicaP7MFmU0Css2) | 2:12 | 2021-11-10 | 2022-07-08 |
 | [Matterrock](https://open.spotify.com/track/3lFNPRDkohIw232d76kfoU) | [Firewatcher](https://open.spotify.com/artist/6Z9gMZiGWDamJBQnc8boHX) | [Mystics](https://open.spotify.com/album/1reM4LXQrd4yDpOwY1JRhn) | 3:12 | 2021-11-10 |  |
@@ -258,7 +258,7 @@
 | [Midnite Chill](https://open.spotify.com/track/5trFjwQViRMRX6CiDMDV9c) | [l\_o\_f](https://open.spotify.com/artist/5I1DYYodDZBAiV7XvLUdxq) | [Midnite Chill](https://open.spotify.com/album/5ZMt3OjPppRN0EsYT2cb2f) | 2:11 | 2021-11-10 | 2022-09-24 |
 | [milanaze](https://open.spotify.com/track/54vcW7KBQULivUu32NZ7ot) | [qorfu](https://open.spotify.com/artist/4RThihZi1QaMBUHyFpu3pY) | [milanaze](https://open.spotify.com/album/1ahaxm7I0wNWesi6fwvaS3) | 2:56 | 2021-11-10 | 2022-09-17 |
 | [Milano](https://open.spotify.com/track/23LxW8Ssmlpn4GjFrnDTFs) | [Ludvig Freso](https://open.spotify.com/artist/6EL8Sngq7vN8aVAjWmLivS) | [Metropolis](https://open.spotify.com/album/1DV8uae8K8K94y3W2RUHMW) | 1:59 | 2021-11-10 | 2022-05-11 |
-| [Mirror Bay \(Sweatson Klank Remix\)](https://open.spotify.com/track/5Gl0KQIgkVSJYeWTwXx0BV) | [Tea](https://open.spotify.com/artist/3WCBCWEm40hroEP0QmaGBC), [Neil Larsen](https://open.spotify.com/artist/6pziRlUMU07bAeSUOTLKFl), [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Mirror Bay \(Sweatson Klank Remix\)](https://open.spotify.com/album/2BxHX0D6w8ZAKacgcctshc) | 3:54 | 2022-07-29 |  |
+| [Mirror Bay \(Sweatson Klank Remix\)](https://open.spotify.com/track/5Gl0KQIgkVSJYeWTwXx0BV) | [Tea](https://open.spotify.com/artist/3WCBCWEm40hroEP0QmaGBC), [Neil Larsen](https://open.spotify.com/artist/6pziRlUMU07bAeSUOTLKFl), [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Mirror Bay \(Sweatson Klank Remix\)](https://open.spotify.com/album/2BxHX0D6w8ZAKacgcctshc) | 3:54 | 2022-07-29 | 2023-04-22 |
 | [Molecular Force](https://open.spotify.com/track/15cnM6N7rgjv7mBAHLiG63) | [Blue Cousins](https://open.spotify.com/artist/5xTmsiaHwO4F5BolRtmvCY) | [Molecular Force](https://open.spotify.com/album/4av4XmjYKDALjdQKSTozLZ) | 1:42 | 2021-11-10 | 2022-07-08 |
 | [Montreux](https://open.spotify.com/track/5BCogYGUcjCVn7u6aYarva) | [Desoncote](https://open.spotify.com/artist/5aMtYcDTbmtmG2VeCDq0zi) | [Montreux](https://open.spotify.com/album/6DNfPtbVjz5s4qoOIttveN) | 2:15 | 2021-11-10 | 2022-09-17 |
 | [Monument](https://open.spotify.com/track/7iomG5R5mlZ9AxIVPHfh9M) | [Varanasi Sky](https://open.spotify.com/artist/1MQ4VvCRaJvrPq9wSUAEP9) | [Monument](https://open.spotify.com/album/4zL5cKO8A0NhNiBwCaxKFh) | 2:54 | 2023-01-13 |  |
@@ -298,9 +298,9 @@
 | [Pallet](https://open.spotify.com/track/3Y7OAWP4cpIVCopvw7OQek) | [Tomborda](https://open.spotify.com/artist/52tsAjY35EdjlFPKdsWurm) | [Pallet](https://open.spotify.com/album/2UhEoKlIdngsLlMu7s5DYL) | 2:31 | 2022-11-25 |  |
 | [Pandemic](https://open.spotify.com/track/7IYY79uC7AN3EyjGx8x8eR) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Liquid Blue](https://open.spotify.com/album/3yOIYcv0ddD4F12PfKIfho) | 1:55 | 2021-11-10 | 2022-06-10 |
 | [Particles](https://open.spotify.com/track/1ONBzD68J6QOaK0PrO9D3L) | [lisa millien](https://open.spotify.com/artist/2Kr18HMvOrDXltmo8bM3Wa) | [Particles](https://open.spotify.com/album/0WkWxeeZBeCuLKu6NAKLXj) | 1:51 | 2021-11-10 | 2022-07-08 |
-| [Patch](https://open.spotify.com/track/6om9J0gECkyl3NUtqtmwIZ) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Patch](https://open.spotify.com/album/4m4hazt2TSTPZhfQdP4TgT) | 3:02 | 2022-07-22 |  |
+| [Patch](https://open.spotify.com/track/6om9J0gECkyl3NUtqtmwIZ) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Patch](https://open.spotify.com/album/4m4hazt2TSTPZhfQdP4TgT) | 3:02 | 2022-07-22 | 2023-04-22 |
 | [Pax Mundi](https://open.spotify.com/track/1KGbSpJomANfc0836NqTdg) | [Pax Soloman](https://open.spotify.com/artist/7lPIQjl1EboMXeIKVogpRg) | [Pax Mundi](https://open.spotify.com/album/3EGJfV6X0lqRjau5fCCZ45) | 2:16 | 2022-10-28 |  |
-| [Peachy Divas](https://open.spotify.com/track/2aS040mC8a4oy6raqnt2J5) | [Groovemover](https://open.spotify.com/artist/6SZYCLTc21zHQPl8wKkB9d) | [Like That Three](https://open.spotify.com/album/1Zncbz3KTlYmouGjvMhjC6) | 2:50 | 2022-05-27 |  |
+| [Peachy Divas](https://open.spotify.com/track/2aS040mC8a4oy6raqnt2J5) | [Groovemover](https://open.spotify.com/artist/6SZYCLTc21zHQPl8wKkB9d) | [Like That Three](https://open.spotify.com/album/1Zncbz3KTlYmouGjvMhjC6) | 2:50 | 2022-05-27 | 2023-04-22 |
 | [Persistence](https://open.spotify.com/track/6Rvt3ZDsMwomIXe31YYeyd) | [Maître](https://open.spotify.com/artist/6z6AixATA2E6RUoZWVjilH) | [Persistence](https://open.spotify.com/album/00aiCIN3aO3x0nYzCfvQEU) | 2:08 | 2021-11-10 | 2022-05-20 |
 | [Pina Colada](https://open.spotify.com/track/5kdAsrSLFycGMkziF7vgNT) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [Pina Colada](https://open.spotify.com/album/3OMdzGnHYTefjOZqzWXefu) | 2:58 | 2022-07-01 |  |
 | [Pink Sky](https://open.spotify.com/track/25BNKbe6o81aIuVgUefAP9) | [D.A.I.N](https://open.spotify.com/artist/7cLCbn7Wsch3YIHbIOzg8c) | [Pink Sky](https://open.spotify.com/album/34ZsX0cVwmQuycCx1VD97h) | 2:34 | 2021-11-10 | 2022-04-06 |
@@ -430,7 +430,8 @@
 | [Window in Time](https://open.spotify.com/track/45M34uxWB4RGb9Nh16luLs) | [MC Baptiste](https://open.spotify.com/artist/6JaDPnL6ur7OkTwD6wKyhL) | [Window in Time](https://open.spotify.com/album/59rKbmjCHpwkGniq34qANA) | 3:07 | 2022-10-07 |  |
 | [Wishes](https://open.spotify.com/track/2spvatSBWwVXUVT8EIzjts) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Wishes](https://open.spotify.com/album/2gGOKB9hjdPnYyQkAdNHPS) | 3:01 | 2021-11-10 | 2022-04-06 |
 | [Wonderland](https://open.spotify.com/track/7zo53YenWv2I2cSRxkM24D) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [Wonderland](https://open.spotify.com/album/1IJODkkOhE5bBgcGoev3sZ) | 2:27 | 2022-05-27 |  |
-| [Yama](https://open.spotify.com/track/5S94oJQP87jbUfsDZ2uj4h) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Kantan](https://open.spotify.com/album/0EsACGm8MKS86WzhvWUV2K) | 3:13 | 2021-11-10 |  |
+| [Yama](https://open.spotify.com/track/5S94oJQP87jbUfsDZ2uj4h) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Kantan](https://open.spotify.com/album/0EsACGm8MKS86WzhvWUV2K) | 3:13 | 2021-11-10 | 2023-04-22 |
+| [You Did Good](https://open.spotify.com/track/1VQDFJkBUwz9e0OF0IzTuY) | [Underself](https://open.spotify.com/artist/7rw99EZC3keTqq7BH7a6qF) | [This too shall pass](https://open.spotify.com/album/4alH4oDSO2AZtDLZE7cjf4) | 1:44 | 2023-04-21 |  |
 | [Youth](https://open.spotify.com/track/0w1Bmnum1Fk0Unjy5Ok2ov) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [Youth](https://open.spotify.com/album/1qOuL7TsLLRCTDMFXCCnGm) | 2:24 | 2022-09-02 |  |
 | [Zakky](https://open.spotify.com/track/0hZ2N9qQUApVWKWR1allC5) | [K9 Division](https://open.spotify.com/artist/14mNenIi1W5u68fvDTd7ES) | [Zakky](https://open.spotify.com/album/0qoRty23FJ6Whk9gQQvBIT) | 2:35 | 2021-11-10 | 2022-07-08 |
 | [Zodiac Interstellar](https://open.spotify.com/track/2lOa0pC5BbOchxyxWg9EPS) | [Mimimi](https://open.spotify.com/artist/5RE5W8McrdwFqlv0mG2Jet) | [Zodiac Interstellar](https://open.spotify.com/album/0U6GqcJAnfi8qr9KCwVzpJ) | 2:34 | 2022-12-09 |  |

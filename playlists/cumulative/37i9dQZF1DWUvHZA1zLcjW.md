@@ -4,7 +4,7 @@
 
 > Chilled classical tunes to help you relax and unwind.
 
-154 songs - 11 hr 14 min
+155 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Solitude I](https://open.spotify.com/track/4tkzQ9Eg3OeuZuAH8O3aUl) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq) | 3:49 | 2023-02-03 |  |
 | [Solitude I](https://open.spotify.com/track/3KcxIhIMJD7jrsrpczNbfU) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitude I](https://open.spotify.com/album/05wfC9H8BLS6pFtI8X0S3G) | 3:49 | 2022-01-28 | 2022-07-29 |
 | [Spiegel im spiegel](https://open.spotify.com/track/7zHd9LxIZB8WKosSWN9Umj) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Angèle Dubeau](https://open.spotify.com/artist/3aKoUd44IrrqOa6Rzn9Ybq), [La Pietà](https://open.spotify.com/artist/3ZiiIxwcdE60xHzCQ35ewj) | [Arvo Pärt: Portrait](https://open.spotify.com/album/5lSNHTsXwVA7wLlplt92HH) | 8:23 | 2022-01-28 | 2022-08-03 |
+| [Spohr: Symphonie Concertante for Violin, Harp and Orchestra in G Major, WoO 13 \- II\. Adagio](https://open.spotify.com/track/5rzISzqA5ZBY8u0hor0z0f) | [Louis Spohr](https://open.spotify.com/artist/7MzxeLpsMxTk4HDBG6C7rq), [María Dueñas](https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE), [Volker Kempf](https://open.spotify.com/artist/0QwGhAtiSBJvYjCKulXsSq), [Wiener Symphoniker](https://open.spotify.com/artist/6XZxFuZaBnZBngpxbut80O), [Manfred Honeck](https://open.spotify.com/artist/2P9hqdON5vDIRJOEj0Ls2X) | [Spohr: Symphonie Concertante for Violin, Harp and Orchestra in G Major, WoO 13: II\. Adagio](https://open.spotify.com/album/3pffTo0gtXsI0zeyveM6lI) | 4:48 | 2023-04-21 |  |
 | [Suite bergamasque, L\. 75: III\. Clair de lune](https://open.spotify.com/track/3hCPh4oVVjaM8tv9sFH8cx) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Nightfall](https://open.spotify.com/album/0Mbkl6nlKMXhmVeoSCQntV) | 4:54 | 2022-01-28 |  |
 | [The Lark Ascending](https://open.spotify.com/track/2TxxLPHPHOsd3i5104tFv2) | [Ralph Vaughan Williams](https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe), [Nicola Benedetti](https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Andrew Litton](https://open.spotify.com/artist/6YVQX2N8puDVWKE1StJVqn) | [Vaughan\-Williams and Tavener](https://open.spotify.com/album/4Ph1eaBr76lVFku2lxYhP7) | 15:57 | 2022-01-28 | 2022-08-03 |
 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 | 2023-02-03 |  |

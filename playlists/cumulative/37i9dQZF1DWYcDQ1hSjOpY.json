@@ -1535,6 +1535,24 @@
     },
     {
       "album": {
+        "name": "Cromulence",
+        "url": "https://open.spotify.com/album/3eVzwIZUJvPDI4RNmH7xmq"
+      },
+      "artists": [
+        {
+          "name": "Erlea Odell",
+          "url": "https://open.spotify.com/artist/3Coygi9Ot0fGQI5yFVT7FT"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160909,
+      "name": "Cromulence",
+      "url": "https://open.spotify.com/track/1ieDBki4IKdEww6W5kZagE"
+    },
+    {
+      "album": {
         "name": "Cross A Line",
         "url": "https://open.spotify.com/album/32PoI04cGJfCgmH003knVN"
       },
@@ -2252,6 +2270,24 @@
       "duration_ms": 233383,
       "name": "Emerald Isles",
       "url": "https://open.spotify.com/track/0aRcChTQ4UOQAE3fuvOdS5"
+    },
+    {
+      "album": {
+        "name": "Heaven On Earth",
+        "url": "https://open.spotify.com/album/2ZMy6y5uSEXUkYLpVYTHGA"
+      },
+      "artists": [
+        {
+          "name": "Alanna Brooks",
+          "url": "https://open.spotify.com/artist/1xTG3LpQV7sTX86GrPnDEH"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Encore Une Fois",
+      "url": "https://open.spotify.com/track/5aB3pTdKskrxVVfoOGl4bN"
     },
     {
       "album": {

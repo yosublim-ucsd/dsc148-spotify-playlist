@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 春ねむり
 
-3,277 songs - 8 day 8 hr 30 min
+3,278 songs - 8 day 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1703,7 +1703,8 @@
 | [Up to You](https://open.spotify.com/track/6O7DTUw7QfijFlseXMbaHe) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE), [Sato Yuya](https://open.spotify.com/artist/1Kg1mRPVzsSoUhe9WXPCL5), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [Up to You](https://open.spotify.com/album/1FEvPrkoPQyX94F3phbkK8) | 4:40 | 2021-12-08 | 2021-12-15 |
 | [Update girl](https://open.spotify.com/track/2yyexd7H1u77Z5nG9tlszG) | [TENDERLAMP](https://open.spotify.com/artist/2LRzCWglNrweyqcfwcZDZi) | [Update girl](https://open.spotify.com/album/6CB4AzEoV5vsF9hXv5L1Gb) | 4:05 | 2022-10-31 | 2022-11-15 |
 | [Upgrade me](https://open.spotify.com/track/4fZb0bPLwKg4spzzJnWl7I) | [kolme](https://open.spotify.com/artist/6XkazkLIatYdxRlOdOp5Et) | [Upgrade me](https://open.spotify.com/album/1TRVwfED8Yezr9mxvcGYf4) | 4:12 | 2022-01-17 | 2022-01-25 |
-| [Us](https://open.spotify.com/track/2LvtKcNpyH9dIOynM3Xz3R) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/5brXjr8BORF46m2FHgY55a) | 5:18 | 2023-04-17 |  |
+| [Us](https://open.spotify.com/track/2LvtKcNpyH9dIOynM3Xz3R) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/5brXjr8BORF46m2FHgY55a) | 5:18 | 2023-04-17 | 2023-04-22 |
+| [Us](https://open.spotify.com/track/3TVPKNJMvHe27MoAl0MWOP) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/6IOnkt2rwHoyPgd8tiBTSD) | 5:18 | 2023-04-17 |  |
 | [Useless](https://open.spotify.com/track/4IgNtm4lqRQEmykHJJjKOQ) | [tiger bae](https://open.spotify.com/artist/0xH0kox7WzXayqGJRqIvEp) | [Useless](https://open.spotify.com/album/2kv9p5djEXh4d9mJ1QRBsi) | 3:21 | 2022-03-28 | 2022-04-06 |
 | [Utopia](https://open.spotify.com/track/7HA69YNhSEP12BY0cV1oEz) | [clammbon](https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0) | [Utopia](https://open.spotify.com/album/2zcqsHazlSvyEniswdB9lb) | 4:01 | 2022-09-27 | 2022-10-04 |
 | [UTOPIA](https://open.spotify.com/track/6155KcjQlwKcrbUAW6tAOF) | [Living Rita](https://open.spotify.com/artist/0ekt0GY3EGCsVugNHfBkHJ) | [Reality / UTOPIA](https://open.spotify.com/album/1rS3zYiUpv89HAuiedJf8X) | 4:02 | 2022-08-15 | 2022-08-30 |

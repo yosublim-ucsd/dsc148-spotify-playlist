@@ -4,7 +4,7 @@
 
 > Gentle ambient piano to help you fall asleep.
 
-787 songs - 1 day 15 hr 40 min
+788 songs - 1 day 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -583,6 +583,7 @@
 | [Schau Nach Oben](https://open.spotify.com/track/5z3A0pDvtaLLmZ868EvXRH) | [Cole Meier](https://open.spotify.com/artist/74J4wQidt7b0i28v7lygYE) | [Schau Nach Oben](https://open.spotify.com/album/01OwdXPPH34SUOlS94RfA6) | 2:16 | 2022-06-16 |  |
 | [Schlafmittel](https://open.spotify.com/track/6AYzbLak1YhYu5litfcTdV) | [Felix Hertzog](https://open.spotify.com/artist/4B72HNYsUpj9x0cOBi7CJ7) | [Schlafmittel](https://open.spotify.com/album/6a5r93Haq1Km80MiRHZdBx) | 2:48 | 2020-11-03 | 2021-06-16 |
 | [Schwebend](https://open.spotify.com/track/775dmuIRQojrplsns8VKen) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Schwebend](https://open.spotify.com/album/6vkRKQjpupuv2XcEREDuLM) | 3:38 | 2020-10-20\* | 2021-03-14 |
+| [Scorchio](https://open.spotify.com/track/5kDLhUYHZr5Q6geAcM3lF3) | [Maria Botican](https://open.spotify.com/artist/02CZQLikIIoZB7rhBk5PvT) | [Infinity Air](https://open.spotify.com/album/66F05OegqZRAIP5xL2uykl) | 3:16 | 2023-04-21 |  |
 | [Sdraiata accanto a me](https://open.spotify.com/track/4vF5CLuFgNo6o3Rt2FrNoA) | [Scintillante](https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8) | [Sdraiata accanto a me](https://open.spotify.com/album/6Art3HIEkBZiO4Vd63VqCF) | 3:08 | 2020-10-20\* |  |
 | [Seasons](https://open.spotify.com/track/74jdFBI7LmTV2FMdd5qTh3) | [Ghasel](https://open.spotify.com/artist/6ylMYNmAVRn0ROcAuIFgEC) | [Seasons](https://open.spotify.com/album/4q9CspBJjcPmfewtSY5tAg) | 2:49 | 2022-11-11 |  |
 | [Secrets](https://open.spotify.com/track/77FxLSbbPmRet4It3IWRB9) | [Selma Ström](https://open.spotify.com/artist/62k2sifCiGij6HZx3Z7dTp) | [Secrets](https://open.spotify.com/album/4BAb9Ryg1CHhvVcCfqYbyX) | 2:48 | 2020-12-22 | 2021-10-06 |

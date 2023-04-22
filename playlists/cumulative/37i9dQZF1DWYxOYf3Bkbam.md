@@ -4,7 +4,7 @@
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-153 songs - 7 hr 55 min
+154 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Mi Caballo Bayo](https://open.spotify.com/track/3iCMhCbsCPA91D1NQDZaNg) | [Conjunto Ivoti](https://open.spotify.com/artist/1hwojP1Bi7ipcn0qFbe8tP), [J\. C\. Mansilla](https://open.spotify.com/artist/2ZiY6mXjKkE7do2nMZ7R6b) | [30 Años Después](https://open.spotify.com/album/29qdVczira2f72fAfz51fB) | 2:57 | 2021-11-19 |  |
 | [Mi Estrella Perdida](https://open.spotify.com/track/47ugki7NC3Nb0lwUZQEqzd) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H) | [Mi Estrella Perdida](https://open.spotify.com/album/1gZEqHoM4jZF6OCHNZWuAu) | 4:08 | 2021-11-19 |  |
 | [Mi ponchillo colorado](https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP) | [Mario Millan Medina](https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:24 | 2021-11-19 |  |
+| [Mi pueblo, mi casa, la soledad](https://open.spotify.com/track/3M1TkSTS4amqgMhRK70mu3) | [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d) | [Mi pueblo, mi casa, la soledad](https://open.spotify.com/album/1jZPXH4WVGKacnfL7Si41p) | 5:02 | 2023-04-21 |  |
 | [Mi Triste Fantasia](https://open.spotify.com/track/3zak0TGVmH7wrFuwPXBfjC) | [Duo Cejas Solis](https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1) | [Dúo Cejas Solís](https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS) | 2:06 | 2021-11-19 | 2022-07-28 |
 | [Mi Zaino Colorado / Al Pago de Federal / Tirador Sin Flecos \- En Vivo](https://open.spotify.com/track/0HeZU11H9gPbOipWUD81E5) | [Los Majestuosos Del Chamamé](https://open.spotify.com/artist/6P7mWyfrVRNgrd5DWjgkAp) | [Enganchados en Vivo Desde San José Feliciano / Nacional, Vol\. 2](https://open.spotify.com/album/3WT6s7UYfNlfID6p6N5BWZ) | 7:35 | 2021-11-19 |  |
 | [Mi Última Flor](https://open.spotify.com/track/61g2rmBeHabOCDl72RVFXs) | [Los Hermanos Cardozo](https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR) | [Nuestras Mejores 30 Canciones](https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex) | 2:26 | 2021-11-19 |  |
@@ -120,7 +121,7 @@
 | [Noche de Tormenta](https://open.spotify.com/track/0VKDr2ahMc4vYKw8tzFudQ) | [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT) | [Noche de Tormenta](https://open.spotify.com/album/2yh0lii3e569wf1VjKM3s5) | 4:16 | 2021-11-19 | 2022-07-15 |
 | [Nostalgias Camperas](https://open.spotify.com/track/2w7HJNJhi017o0TCw1s4PI) | [Isaco Abitbol](https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s), [Dúo Ubeda / Chavez](https://open.spotify.com/artist/58fMfIAKCyYaNnqL65U7b8) | [20 Superexitos Originales](https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG) | 2:34 | 2021-11-19 |  |
 | [Oración del Remanso](https://open.spotify.com/track/5yXtxFYCdULBj6AOfDHplS) | [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [Oración del Remanso](https://open.spotify.com/album/4yWvVRhMCWvBERdaGieOxr) | 5:11 | 2022-03-18 |  |
-| [Pajaro Chogüi](https://open.spotify.com/track/6dIuzRkAGb3HXVHJjiXkAh) | [Juanjo Dominguez Y Raul Barboza](https://open.spotify.com/artist/7D3iUpUwF4lOsFPJIazFXS) | [Pajaro Chogüi](https://open.spotify.com/album/44p1qgyjA1IyldFsRezUa4) | 2:18 | 2021-11-19 |  |
+| [Pajaro Chogüi](https://open.spotify.com/track/6dIuzRkAGb3HXVHJjiXkAh) | [Juanjo Dominguez Y Raul Barboza](https://open.spotify.com/artist/7D3iUpUwF4lOsFPJIazFXS) | [Pajaro Chogüi](https://open.spotify.com/album/44p1qgyjA1IyldFsRezUa4) | 2:18 | 2021-11-19 | 2023-04-22 |
 | [Palomita Mensajera](https://open.spotify.com/track/7hoTIUdGyOfdGrSdbIJ2DU) | [Duo Cejas Solis](https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1) | [Dúo Cejas Solís](https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS) | 2:02 | 2021-11-19 |  |
 | [Para Nini](https://open.spotify.com/track/4viehCpYj32rBEg1nZYt9S) | [Avelino Flores](https://open.spotify.com/artist/0CMySmSVU7SkK2NOycL4Mj) | [Che Rembiapo Kue\. 12 Obras Inéditas](https://open.spotify.com/album/28DbkqoXjPLQDpQ8HOeCyH) | 2:53 | 2021-11-19 | 2022-07-29 |
 | [Para Volver a Soñar](https://open.spotify.com/track/2TgBqAzfSHxUds6Ek9VIDa) | [Herencia Chamamecera](https://open.spotify.com/artist/6itXl4rZsOI26m5ddJIPym), [Ricardo Gómez](https://open.spotify.com/artist/6gCwCLfmpzV5wXPmaPMifb) | [Segundo Contacto](https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H) | 3:14 | 2021-11-19 |  |

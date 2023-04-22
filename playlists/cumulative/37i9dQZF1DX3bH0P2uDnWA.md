@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-273 songs - 16 hr 0 min
+274 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Cookie Monster \- Atom Smith Remix Radio Edit](https://open.spotify.com/track/1uE0kd0NxA9tnybOSI4rHJ) | [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2), [Lamuzgueule](https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g) | [Cookie Monster \(Atom Smith Remix\)](https://open.spotify.com/album/2xhOnFUsQM8HDW8WMtXvQs) | 3:28 | 2022-02-25 | 2022-07-28 |
 | [Cookie Monster \- Radio Edit](https://open.spotify.com/track/4zU15t9fJ5J0ERwbS7tGA7) | [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2), [Lamuzgueule](https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g) | [Cookie Monster \(Atom Smith Remix\)](https://open.spotify.com/album/2A4LLbcPe9eVG7bmBDfuM4) | 3:27 | 2022-11-07 |  |
 | [Crazy Cat](https://open.spotify.com/track/1WeIE004KxqkSqL9llndbV) | [11 Acorn Lane](https://open.spotify.com/artist/3D8pAbIPK2aPh9VbWjett5) | [Crazy Cat](https://open.spotify.com/album/74GNHd060Ba5P13cwmFHHV) | 2:37 | 2021-03-26 |  |
-| [Crazy Out There](https://open.spotify.com/track/2Fzo7oPL6VkhQLnFcZ0Tyf) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU), [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Crazy Out There](https://open.spotify.com/album/1UJ4lKzqAo1Aevsohhen0l) | 3:14 | 2021-11-19 |  |
+| [Crazy Out There](https://open.spotify.com/track/2Fzo7oPL6VkhQLnFcZ0Tyf) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU), [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Crazy Out There](https://open.spotify.com/album/1UJ4lKzqAo1Aevsohhen0l) | 3:14 | 2021-11-19 | 2023-04-22 |
 | [Cream Soda](https://open.spotify.com/track/1HVrQh0RCA0H2cFb82Kje9) | [Deladap](https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Melinda Stoika](https://open.spotify.com/artist/68TSKE26i8EDiY2UkCiRhE) | [Cream Soda](https://open.spotify.com/album/1UGvlg6mOmKlpTq3EruTSL) | 3:04 | 2021-08-27 | 2022-07-29 |
 | [Dance With Me](https://open.spotify.com/track/3VerYSeA9fDRLDCpb9JzSW) | [Dirty Honkers](https://open.spotify.com/artist/2WbG0sHo7zvYLCFPFSAXXJ) | [Dance With Me](https://open.spotify.com/album/7lDfxkmVcUMefYHtk0hD9T) | 3:34 | 2020-10-30 | 2022-07-26 |
 | [Day & Night](https://open.spotify.com/track/4zCxvn6qHK3CosaM3Azaii) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Day & Night](https://open.spotify.com/album/3XhtlVfAz9MoDFuOilR7EE) | 4:07 | 2020-10-30 |  |
@@ -151,6 +151,7 @@
 | [Mistakes Were Made](https://open.spotify.com/track/3mx1qYstFxpSxstYL0K4at) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Mistakes Were Made](https://open.spotify.com/album/327RpcYOC5KpohJQLHQn5C) | 3:04 | 2023-03-31 |  |
 | [Mockingbird](https://open.spotify.com/track/0eVobqDxiFnDvKcXfScqCi) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8) | [Prohibition](https://open.spotify.com/album/6zxN2ZwKEIVxzKlp0m4m2V) | 2:37 | 2022-10-12 | 2022-11-08 |
 | [Moonlight Jive](https://open.spotify.com/track/2Ag6FZjxfu3raD2EgmPfYq) | [Proleter](https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8) | [Life Playing Tricks](https://open.spotify.com/album/1fSKDjqkvMXg6cRSCBffL4) | 4:35 | 2020-10-30 | 2022-05-15 |
+| [Morning Light](https://open.spotify.com/track/3m3qjAfKtCJTl6vKBPyquU) | [Pisk](https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc), [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Octavia Rose](https://open.spotify.com/artist/3jT2Zl57kYDK5qI8fkl1L9) | [Morning Light](https://open.spotify.com/album/5rDo1Yws2qDy7lCRQJLjkW) | 3:01 | 2023-04-21 |  |
 | [Mr Magpie \- Jamie Berry Remix](https://open.spotify.com/track/1DxJG8xDWh8T83w6IR8YRx) | [The Electric Swing Circus](https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY), [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8) | [The Electric Swing Circus \- Remixed Vol\. 1](https://open.spotify.com/album/11baJFTYO58XviE7cQrvZO) | 3:44 | 2020-10-30 | 2022-07-29 |
 | [Mr Magpie \- Jamie Berry Remix](https://open.spotify.com/track/7GeJy444mvPIpFby9zUaWP) | [The Electric Swing Circus](https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY), [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8) | [The Electric Swing Circus \- Remixed Vol\. 1](https://open.spotify.com/album/4u9XMOUCEU0NG39YcCnql0) | 3:44 | 2020-10-30 |  |
 | [Murder in the Moonlight](https://open.spotify.com/track/7103gYEJR2fAKA6W5aUosb) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Sam Berry](https://open.spotify.com/artist/2vXekN8TR5Y2M6WHIjSM5i) | [Prohibition](https://open.spotify.com/album/6zxN2ZwKEIVxzKlp0m4m2V) | 3:47 | 2022-10-12 | 2022-11-08 |

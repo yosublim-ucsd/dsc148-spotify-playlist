@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-260 songs - 13 hr 51 min
+262 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Meditation Rain](https://open.spotify.com/track/05ZOl73J8mzcUcW4JNKYy5) | [Pär Canze](https://open.spotify.com/artist/7b0idtdDzwzvjrPB5JY7TF) | [Meditation Rain](https://open.spotify.com/album/1qvax3EeGaSZFMsYKzqkOu) | 2:51 | 2021-12-17 |  |
 | [Meditation: By The Stream](https://open.spotify.com/track/1XQ0gGJiVhKqdLf9uhO571) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Meditation Relaxation](https://open.spotify.com/album/0DC493rP2yoV43EMGaxnux) | 2:57 | 2021-12-17 |  |
 | [Meditation: Waves Pads](https://open.spotify.com/track/0giLrtDJbkxXJSqe6Xdo1v) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [Spiritual Healing](https://open.spotify.com/album/09AjC4yhv87os7DbSAWlfL) | 2:40 | 2021-12-17 | 2023-01-21 |
+| [Midnight Symphony](https://open.spotify.com/track/3H2NnnXlA7smMlxuKmCAtD) | [Zilon Tay](https://open.spotify.com/artist/5MXcNvb6HXa2KgYvCqRbuU) | [Midnight Symphony](https://open.spotify.com/album/3OpBphxbJzFfoWxOp1IBmI) | 3:05 | 2023-04-21 |  |
 | [Miracle Tone 528 Hz Solfeggio](https://open.spotify.com/track/7ytJp03Bb2wkKPYD01Y3Yg) | [Mindful Behaviour](https://open.spotify.com/artist/5n24AejjkQFiXAnmqRhTpl) | [Miracle Tone 528 Hz Solfeggio](https://open.spotify.com/album/0l88CPrZMuhAnMwdd3MP4k) | 2:14 | 2022-09-30 |  |
 | [Moments](https://open.spotify.com/track/0UtZUu5j2Ye9QDxWyhReTx) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Moments](https://open.spotify.com/album/2MnGNTAK3FNzZJIZ9OPdHs) | 3:24 | 2021-12-17 |  |
 | [Moonglow](https://open.spotify.com/track/6qPcMQn285Q0IsaHnskKqX) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Moonglow](https://open.spotify.com/album/5kKx3skFzMgYhtWHrucfFI) | 3:28 | 2022-07-15 |  |
@@ -240,6 +241,7 @@
 | [The Outcast](https://open.spotify.com/track/56URZGF8ntwKhgSt1fphPs) | [Lionheart](https://open.spotify.com/artist/7sHTXnqmYqCECjKKb2iqWS) | [Edge of Dimensions](https://open.spotify.com/album/1PUrSd7GrmaOcBdO3diz11) | 3:08 | 2021-12-17 | 2023-01-21 |
 | [The Spirit](https://open.spotify.com/track/2HtDHyZuRJYPnKLar3dMBZ) | [Nature Rehab](https://open.spotify.com/artist/1xzruyrjhInryEzjKlmzMG) | [The Spirit](https://open.spotify.com/album/639d267k0gorMiPC2zbTlH) | 3:05 | 2021-12-17 |  |
 | [The Sun Has Risen \- Instrumental](https://open.spotify.com/track/1yUMnQ7kDd874TaPn924Lo) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Firas Roby](https://open.spotify.com/artist/0hLfoeEsM4nCp6169vUXyL) | [The Sun Has Risen](https://open.spotify.com/album/0joOM7y34aAr62thU6wsXx) | 3:25 | 2021-12-17 |  |
+| [The Tranquil Waterfall](https://open.spotify.com/track/4lAylrArN2GyYLm8hTILhK) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [The Tranquil Waterfall](https://open.spotify.com/album/5iabwBF618d1vCXeYThoLv) | 2:24 | 2023-04-21 |  |
 | [The Walk Across](https://open.spotify.com/track/2ti4RtTCj8HxSADB6SHrh4) | [John Andre](https://open.spotify.com/artist/3D56Nhiz0aTRqx4z0qs9jb) | [The Afternoon Breeze](https://open.spotify.com/album/06FNY9stCHsUBU5ZGcN5YU) | 3:14 | 2021-12-17 | 2022-09-03 |
 | [Thunder Meditation](https://open.spotify.com/track/0H6uoyF3rH3bzccleZ3nZE) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Thunder Meditation](https://open.spotify.com/album/2N37AZizDFyq8uT1HqpIbt) | 4:37 | 2022-07-22 |  |
 | [Thunder Meditation](https://open.spotify.com/track/6roWjQjFjuNXdX5ApbWTR5) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Thunder Meditation](https://open.spotify.com/album/12jjifPSSSvIZvrxDxuZI2) | 4:37 | 2021-12-17 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! Cover: BOL4
 
-790 songs - 1 day 19 hr 49 min
+791 songs - 1 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 | 2022-07-13 | 2022-09-09 |
 | [GRATATA](https://open.spotify.com/track/5r5DHrJRw6q06N2aeHNczb) | [HOT ISSUE](https://open.spotify.com/artist/16C7FRln711ggylepawmpq) | [ISSUE MAKER](https://open.spotify.com/album/0bcO16vVhZRSHou0ls0Wd1) | 3:12 | 2021-05-05 | 2021-06-25 |
 | [GRATATA](https://open.spotify.com/track/78V1UN9fEZw2b9rYkwDmTj) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [GIRL's ROUND Pt\. 1](https://open.spotify.com/album/3lDNlx3DMHYYlT7EXhbAB6) | 3:20 | 2022-09-24 | 2023-02-07 |
+| [Green \(feat\. SOOVI\)](https://open.spotify.com/track/5tFtRGlr5uaqMQmMtXZjXe) | [BANG YONGGUK](https://open.spotify.com/artist/6g6zaR4B3WDZXphDRmsVGF), [SOOVI](https://open.spotify.com/artist/0YM7bNxtt0VzccYf1UG2G8) | [Green](https://open.spotify.com/album/594V3LHu3YwGnOJsGGKmSW) | 3:09 | 2023-04-21 |  |
 | [Grey Suit](https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Grey Suit \- The 2nd Mini Album](https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB) | 3:42 | 2022-04-04 | 2022-06-09 |
 | [Groove Back \(Feat\. Gaeko\)](https://open.spotify.com/track/6ee02p5ioFpkeKDdDGOhkJ) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Groove Missing](https://open.spotify.com/album/4GLHfJaztzxV9FVsL5yef0) | 3:32 | 2022-11-24 | 2023-03-01 |
 | [Groovy](https://open.spotify.com/track/7I2ue60s8PvCbc1Oovt5ph) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [MASTER : PIECE](https://open.spotify.com/album/6vlYZzNPs1SCafyLKbmUrC) | 3:22 | 2023-03-09 |  |

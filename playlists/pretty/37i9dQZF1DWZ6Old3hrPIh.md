@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Old3hrPIh.md) - [plain]
 
 > Presenting the queens of Coke Studio Pakistan\. Cover: Arooj Aftab
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,116 likes - 58 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,122 likes - 58 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Old3hrPIh.md) - [plain]
 | 54 | [Ghoom Taana](https://open.spotify.com/track/3aXcKRkUtt6ZrXfxDs4rbW) | [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV), [Irteassh](https://open.spotify.com/artist/3GMi8vD4BHAQ16Rg5Fzppc) | [Coke Studio Season 10: Epsiode 6](https://open.spotify.com/album/3N60rRYsxoNjQUpBYkgZEY) | 7:39 |
 | 55 | [Main Irada](https://open.spotify.com/track/3UwsvBotQnUMV8RQFCe6wZ) | [Haniya Aslam](https://open.spotify.com/artist/2erxv4mbd7CpiGRrDw08s1), [Amrina](https://open.spotify.com/artist/5SkylHGSUBucUEpfrWq9bu), [Rachel Viccaji](https://open.spotify.com/artist/79BYcJwv1Xid7f250YBhun), [Shamu Bai](https://open.spotify.com/artist/6ImUiMuTiMjlhRKfMCXe8Q), [Ariana](https://open.spotify.com/artist/4v3TdUm3EQL3lBUO5FFAEV) | [Coke Studio Season 11 \(Sound of The Nation\)](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 6:26 |
 | 56 | [Hairaan Hua](https://open.spotify.com/track/11v6Q3rcylqZoesjs8OUP9) | [Sanam Marvi](https://open.spotify.com/artist/72kjPTpFDwhwrHPer3rtGD) | [Hairaan Hua](https://open.spotify.com/album/69xH8VuMBjZvrobppvEIXa) | 9:58 |
-| 57 | [Daachi Waaliya](https://open.spotify.com/track/1uBcSRrHdMrTwLIoBYoUMi) | [Hadiqa Kiani](https://open.spotify.com/artist/63wazelWDcHlj6vxmpjR7H) | [Daachi Waaliya](https://open.spotify.com/album/73YNgJro1GEHAzecBWrPs2) | 8:02 |
+| 57 | [Daachi Waaliya](https://open.spotify.com/track/1uBcSRrHdMrTwLIoBYoUMi) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [Daachi Waaliya](https://open.spotify.com/album/73YNgJro1GEHAzecBWrPs2) | 8:02 |
 | 58 | [Pardesiya](https://open.spotify.com/track/4yiPORt9JZGtYlsd22p8So) | [Zara Madani](https://open.spotify.com/artist/7whBc4k8oVdg9akSlUoyo9) | [Pardesiya](https://open.spotify.com/album/699uRjiyL8W2TssLjLzT4s) | 8:42 |
 
 Snapshot ID: `MTY0NjY1OTUwMiwwMDAwMDAwMDY2N2UyZTA5YzdjNzlkZTZiMGM0ZDM1MTA4NTY5NjMy`

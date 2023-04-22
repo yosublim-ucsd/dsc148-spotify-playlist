@@ -1,6 +1,6 @@
 {
   "description": "Discover new releases and rising artists from the classical world. Cover: Erland Cooper",
-  "num_followers": 1182,
+  "num_followers": 1257,
   "original_name": "Classical Now",
   "owner": {
     "name": "Spotify",
@@ -26,6 +26,10 @@
         {
           "name": "Simon Armitage",
           "url": "https://open.spotify.com/artist/5iVbHVIHDvjsao44sbzBzt"
+        },
+        {
+          "name": "Josephine Stephenson",
+          "url": "https://open.spotify.com/artist/1H7ShLxcYKrkdluOqoQBDm"
         }
       ],
       "duration_ms": 238360,

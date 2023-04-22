@@ -4,7 +4,7 @@
 
 > Avant\-garde, experimental and free jazz.
 
-114 songs - 14 hr 43 min
+115 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,8 +96,9 @@
 | [Refuge \- Rudy Van Gelder Edition/1999 Remaster](https://open.spotify.com/track/0j2XdkOJSneLHYevR6JpBP) | [Andrew Hill](https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy) | [Point Of Departure \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/647o8vl4OD1sjvvhql3jFS) | 12:16 | 2020-08-25 |  |
 | [Roar of the Lyons](https://open.spotify.com/track/3fvQYVKm4PFxOtHGVCfWOb) | [Piano Duo Trio](https://open.spotify.com/artist/6o3hf6noFqTFUyboaJOD7Y) | [The Art of It](https://open.spotify.com/album/06z73O9eHCki1W0obK08yA) | 16:09 | 2022-04-29 |  |
 | [Round Trip](https://open.spotify.com/track/19nWocKXsR6KsD8PLbeNha) | [Ornette Coleman](https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P) | [New York Is Now](https://open.spotify.com/album/5YExsVX6QRDHsLJLLm4ogy) | 6:18 | 2020-08-25 |  |
+| [Rush](https://open.spotify.com/track/4dzF4kL1JEodFrKIB98CkX) | [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [Rush](https://open.spotify.com/album/1Ziua7CFzE6Aoho1nu6rey) | 5:35 | 2023-04-21 |  |
 | [Safety Shoes](https://open.spotify.com/track/5z0fXBlI6jsmUVdgRg9yIg) | [Kirk Knuffke](https://open.spotify.com/artist/5rLPOGAX2UQOdytJTLqPor) | [Arms & Hands](https://open.spotify.com/album/0Z0dUTd0016S6bI132kL50) | 2:33 | 2020-08-25 |  |
-| [Sample calculation](https://open.spotify.com/track/6SaubWpIqZ0guw9PUqUgc1) | [Bartolo](https://open.spotify.com/artist/76ZLFHVxlUUlXEyuCe1HjO), [Sousa](https://open.spotify.com/artist/2sokDb3FMSeky2ZtFEaEPc), [Ferrandini](https://open.spotify.com/artist/2QyqKpqczaxVgAaI31iOmk) | [BASFE](https://open.spotify.com/album/36SN4HstYPQ6XVzU2Sl4Uo) | 5:22 | 2022-10-07 |  |
+| [Sample calculation](https://open.spotify.com/track/6SaubWpIqZ0guw9PUqUgc1) | [Bartolo](https://open.spotify.com/artist/76ZLFHVxlUUlXEyuCe1HjO), [Sousa](https://open.spotify.com/artist/259tu0qZf408lRxvW6YRU1), [Ferrandini](https://open.spotify.com/artist/2QyqKpqczaxVgAaI31iOmk) | [BASFE](https://open.spotify.com/album/36SN4HstYPQ6XVzU2Sl4Uo) | 5:22 | 2022-10-07 |  |
 | [Shudder to Think](https://open.spotify.com/track/0BjzzajYvpe3dQmcyIKSQv) | [Ned Rothenberg](https://open.spotify.com/artist/3iPiojms0LEjBg8RqKuChh), [Mark Feldman](https://open.spotify.com/artist/4SOKSspBiacwf4ovOGG2iA), [Sylvie Courvoisier](https://open.spotify.com/artist/3ApjZpZhqZNl21HprnmXW3) | [In Cahoots](https://open.spotify.com/album/0STbF1O34unFR85y3dX67B) | 3:47 | 2020-08-25 |  |
 | [Sing, Sing Loud](https://open.spotify.com/track/5KUuZ8A3u42Cdu6HsrcZSA) | [Carsten Dahl, Arild Andersen, Jon Christensen](https://open.spotify.com/artist/7jQHF3wIZuWlLhQn5mhdYV) | [Space Is the Place](https://open.spotify.com/album/4lQAHafLECfbxdayEp8jzK) | 3:44 | 2020-08-25 |  |
 | [Song for the Snake Man](https://open.spotify.com/track/1PyppsTQBbIkefIUGyyI9O) | [Will Glaser](https://open.spotify.com/artist/1AQl7L8PIcnQredglUoiQV), [Matthew Herd](https://open.spotify.com/artist/2nQ8ZFNjgaUG34nWbUlkSC), [Liam Noble](https://open.spotify.com/artist/7mELwSaNVG7mx7Ju8Pja4N) | [Song for the Snake Man](https://open.spotify.com/album/5Gohh6O8VQ2FPFoPMUF49b) | 4:57 | 2020-12-18 |  |

@@ -4,7 +4,7 @@
 
 > The latest and greatest music out now!
 
-246 songs - 12 hr 47 min
+248 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Facetime](https://open.spotify.com/track/3yXe8o61TRW5iSkq2BloyN) | [Broderick Jones](https://open.spotify.com/artist/6qotp0EA1aHJPk6YnbVtGK) | [Facetime](https://open.spotify.com/album/2UTVRpVGSJUwqIQenvmDV7) | 3:21 | 2022-01-25 | 2022-03-18 |
 | [FAITHFUL \(feat\. NLE Choppa\)](https://open.spotify.com/track/0Ip7RFwZg9dg7vB8xoyo1z) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [FAITHFUL \(feat\. NLE Choppa\)](https://open.spotify.com/album/31WRXcJjUfZQiJE5calRZT) | 3:27 | 2022-11-11 |  |
 | [Falling Down](https://open.spotify.com/track/1OdFpOfUPRTz5r09CKUTXM) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [The Other Side](https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6) | 3:04 | 2022-11-11 |  |
+| [Feelings](https://open.spotify.com/track/0PNijikiRzvpXqY6bpyrfZ) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Red Sky](https://open.spotify.com/album/0b1Sv51qVCHVQJwv9J7UOY) | 3:04 | 2023-04-21 |  |
 | [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 | 2022-02-25 | 2022-07-09 |
 | [flowers](https://open.spotify.com/track/6trA1yKo3IGgLyvg9lBwOJ) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [flowers](https://open.spotify.com/album/1ZmIdhZgJn91DMGk86iC1R) | 3:12 | 2022-11-18 |  |
 | [Fotiá](https://open.spotify.com/track/2lvpx8iTGmC7MD9GaJ0ga0) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Fotiá](https://open.spotify.com/album/4iZ4ThnqPWQoCgE3djEoER) | 2:54 | 2022-01-25 | 2022-08-13 |
@@ -130,6 +131,7 @@
 | [Into My Body](https://open.spotify.com/track/40HSFJpsSRNDkuxA0IaL34) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Into My Body](https://open.spotify.com/album/0fFbuKhFl6pk44s5mETFz6) | 2:24 | 2022-11-11 | 2022-12-16 |
 | [Into My Body](https://open.spotify.com/track/6Idi0H5TS4PwVW91ReBK7z) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Sagittarius](https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25) | 2:24 | 2022-12-09 |  |
 | [Invisible](https://open.spotify.com/track/0YTd0e23mpFKNXd9JA9OBv) | [Ryder James](https://open.spotify.com/artist/2DaMc4JNZLk2qPRDNXIk6Q) | [Invisible](https://open.spotify.com/album/32O1iaeWbvtXX9JTYmhkOA) | 3:20 | 2022-01-25 | 2023-01-21 |
+| [Is This Love](https://open.spotify.com/track/6KECX3urTXnQDRm1jVU0kG) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG), [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG) | [Is This Love](https://open.spotify.com/album/23gvZxflexS2KcysGLU4Vy) | 3:55 | 2023-04-21 |  |
 | [IT'S OK](https://open.spotify.com/track/1b4TnJwb4rzrkfBilJ2SRO) | [Daniyel](https://open.spotify.com/artist/4Zgs72EVDddJE8pa3oGC4L) | [IT'S OK](https://open.spotify.com/album/63NirVfC79At4NuVFCZnbz) | 1:56 | 2022-01-25 | 2022-11-12 |
 | [JETSKI \(feat\. Lil Mosey & Lil Tecca\)](https://open.spotify.com/track/2vl0D1b0M6UHlD1Fjh5j1m) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [JETSKI \(feat\. Lil Mosey & Lil Tecca\)](https://open.spotify.com/album/6KlDmO6ziOvGd42w7Abt3a) | 2:45 | 2022-01-25 | 2022-04-26 |
 | [Just Friends](https://open.spotify.com/track/1NzRZ7AosK7ZDumMsZYofo) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Just Friends](https://open.spotify.com/album/0J9VlRE4GIO7EDkYkIl8YL) | 2:48 | 2022-01-25 | 2022-07-09 |
@@ -208,7 +210,7 @@
 | [So Good](https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good](https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf) | 2:56 | 2022-07-08 | 2023-03-04 |
 | [So Special](https://open.spotify.com/track/2yYj4A83qox4a2SBAE6a3t) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [So Special](https://open.spotify.com/album/5CIv2KGq1JvtcuNI584N1i) | 2:41 | 2023-03-03 |  |
 | [So What](https://open.spotify.com/track/3HXcLxLeZjBxuRNNVb8mzt) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [So What](https://open.spotify.com/album/2PUVkKjpm1Cj8gVztp7JG2) | 2:42 | 2022-01-25 | 2022-07-26 |
-| [Sober](https://open.spotify.com/track/7gEVqV2uGyP34Mklu7jYr5) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Sober](https://open.spotify.com/album/3Uk1j4TxLk0ylBR4k8icmp) | 3:45 | 2023-01-20 |  |
+| [Sober](https://open.spotify.com/track/7gEVqV2uGyP34Mklu7jYr5) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Sober](https://open.spotify.com/album/3Uk1j4TxLk0ylBR4k8icmp) | 3:45 | 2023-01-20 | 2023-04-22 |
 | [Songs for The Weekend](https://open.spotify.com/track/7bLhDVopMpJfZuDm3aqCyo) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH) | [Songs for The Weekend](https://open.spotify.com/album/5seYeaPLAUlMpibLumx0Wb) | 3:26 | 2022-10-21 |  |
 | [Stars In The Sky \(feat\. Jhené Aiko\)](https://open.spotify.com/track/4gKCKkQbtejYebL9Km5cu1) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Stars In The Sky \(feat\. Jhené Aiko\)](https://open.spotify.com/album/1RdBxItI4IlFJkHuoaT16y) | 4:13 | 2022-01-25 | 2022-09-17 |
 | [Startover](https://open.spotify.com/track/2K2vxaBjIJGpS7bKUBtqYp) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Startover](https://open.spotify.com/album/6lWCvK8L1GzYaa4htMufrE) | 3:05 | 2023-02-03 |  |

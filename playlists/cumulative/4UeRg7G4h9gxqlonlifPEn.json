@@ -194,7 +194,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 71641,
       "name": "Absurd",
       "url": "https://open.spotify.com/track/5XtkWf82PGq6XPMN15whEp"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 207239,
       "name": "Danny Phantom",
       "url": "https://open.spotify.com/track/35j3snzXeXVqDiRQf1cmeg"
@@ -1684,7 +1684,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 198908,
       "name": "Exposed",
       "url": "https://open.spotify.com/track/5QiJRSbS55oKO55hWaF8tQ"
@@ -2360,6 +2360,28 @@
       "duration_ms": 170197,
       "name": "IT AIN'T SAFE (feat. Nardo Wick & Kodak Black)",
       "url": "https://open.spotify.com/track/2d4XHh61JufZpNdm88TXXx"
+    },
+    {
+      "album": {
+        "name": "JUMPIN",
+        "url": "https://open.spotify.com/album/2Gf3rUMIPtYL29TQx4Xnob"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "JUMPIN",
+      "url": "https://open.spotify.com/track/61FwUf89hKEIsjUDtIPRoH"
     },
     {
       "album": {
@@ -3563,6 +3585,24 @@
     },
     {
       "album": {
+        "name": "Pop Out",
+        "url": "https://open.spotify.com/album/5ZzZ1XMscoXLbTUcCRWvFV"
+      },
+      "artists": [
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153618,
+      "name": "Pop Out",
+      "url": "https://open.spotify.com/track/6etEk6dGTEGhHjZVNnXAQS"
+    },
+    {
+      "album": {
         "name": "POPSTAR (feat. Drake)",
         "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
       },
@@ -3756,6 +3796,28 @@
       "duration_ms": 180293,
       "name": "Risk",
       "url": "https://open.spotify.com/track/3nk8JnZ98s95FxnlnbbSBy"
+    },
+    {
+      "album": {
+        "name": "Roger Dat",
+        "url": "https://open.spotify.com/album/5lyOyvr9LSfLEbs4XpsOSk"
+      },
+      "artists": [
+        {
+          "name": "Wam SpinThaBin",
+          "url": "https://open.spotify.com/artist/1vljqWKOCEBTIA9mhCaCCt"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153846,
+      "name": "Roger Dat (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/1uQJAqa6IqUq9OfLi6O1yX"
     },
     {
       "album": {
@@ -4288,6 +4350,24 @@
       "duration_ms": 188826,
       "name": "THE SUN (Prod. Gesaffelstein)",
       "url": "https://open.spotify.com/track/2OEKjBfuCdVPLLUgUf90ZM"
+    },
+    {
+      "album": {
+        "name": "They Forgot",
+        "url": "https://open.spotify.com/album/3t6d1nnXu0Y8nvvJ2PEnHF"
+      },
+      "artists": [
+        {
+          "name": "2FeetBino",
+          "url": "https://open.spotify.com/artist/5sw4vau0N1fwalr2ACVN9M"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141314,
+      "name": "They Forgot",
+      "url": "https://open.spotify.com/track/3wi1eX69hrWTUXArhA5KeS"
     },
     {
       "album": {

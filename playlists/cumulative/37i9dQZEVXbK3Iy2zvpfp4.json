@@ -293,6 +293,28 @@
     },
     {
       "album": {
+        "name": "TEEN(R)AGE",
+        "url": "https://open.spotify.com/album/0L6mO5j0TzekxaMWAayRot"
+      },
+      "artists": [
+        {
+          "name": "Dalyb",
+          "url": "https://open.spotify.com/artist/0GZP8QBchHTcjn9jFtLDtK"
+        },
+        {
+          "name": "Saul",
+          "url": "https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "4eva",
+      "url": "https://open.spotify.com/track/4DF9xlz3StNX7CAoIztNIX"
+    },
+    {
+      "album": {
         "name": "JUNGEN",
         "url": "https://open.spotify.com/album/1km4LkW2OJCQ5c6w5F6GHc"
       },
@@ -4142,7 +4164,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 161041,
       "name": "DOGTOOTH",
       "url": "https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw"
@@ -6188,6 +6210,24 @@
     {
       "album": {
         "name": "GTA IV",
+        "url": "https://open.spotify.com/album/1K3DgS4h4b1cvL1aSH9XWr"
+      },
+      "artists": [
+        {
+          "name": "Essentials.",
+          "url": "https://open.spotify.com/artist/60t4ZmqzvbuIlTaRjYnWQ4"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138181,
+      "name": "GTA IV",
+      "url": "https://open.spotify.com/track/2WdmVCmYjxFGZMNTzNIc7i"
+    },
+    {
+      "album": {
+        "name": "GTA IV",
         "url": "https://open.spotify.com/album/4kb9aD0hlYl8V1ubktpHUG"
       },
       "artists": [
@@ -6198,7 +6238,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 138181,
       "name": "GTA IV",
       "url": "https://open.spotify.com/track/4anem4UYsj3JAJUucRMrrO"
@@ -9612,7 +9652,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 185000,
       "name": "Me and the Devil",
       "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh"
@@ -13320,6 +13360,28 @@
       "duration_ms": 204500,
       "name": "Ready To Fly",
       "url": "https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL"
+    },
+    {
+      "album": {
+        "name": "Relax My Eyes",
+        "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192150,
+      "name": "Relax My Eyes",
+      "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
     },
     {
       "album": {

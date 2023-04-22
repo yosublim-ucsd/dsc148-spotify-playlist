@@ -4,7 +4,7 @@
 
 > The best in Afro Bashment, Afro Swing and all that good stuff\. Cover: Davido
 
-384 songs - 20 hr 17 min
+385 songs - 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Oil in my Head](https://open.spotify.com/track/5zNWfIlGEVQ72uzVOGgAiZ) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:29 | 2022-10-12 | 2022-10-24 |
 | [One Time](https://open.spotify.com/track/7J4dbVmwZs7MoZD8A8EkFb) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [One Time](https://open.spotify.com/album/0GALhGYY8QPcpV1ayH8T8B) | 3:26 | 2021-12-20 | 2022-07-15 |
 | [One Woman](https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Catch Me If You Can](https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn) | 2:40 | 2022-02-04 | 2022-07-28 |
+| [Only Fans](https://open.spotify.com/track/1VHFeNLoMJq3l4CC4bMQID) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Only Fans](https://open.spotify.com/album/0kU1yhq6AzbdsAua6R2HKc) | 3:00 | 2023-04-21 |  |
 | [Only God Can Judge Me](https://open.spotify.com/track/3OkuxPyfQHI7L4mRaO0OP2) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq) | [Headliner](https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf) | 3:33 | 2021-12-20 | 2022-06-08 |
 | [Only One \(Anywhere, Pt\. 2\)](https://open.spotify.com/track/7tbDPQIpIt8tGKpSJXQAw7) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Wusu](https://open.spotify.com/artist/72ww2hsRXRws05d0ltpJq9), [MMorgan](https://open.spotify.com/artist/6MRsrtaTHhU5bWnf6Ktq5A) | [Only One \(Anywhere, Pt\. 2\)](https://open.spotify.com/album/6gjmCSOUiXV8U1jTUYKfWd) | 2:48 | 2021-12-20 | 2022-06-12 |
 | [Organise](https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:03 | 2022-09-16 |  |
@@ -266,7 +267,7 @@
 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 | 2022-06-23 | 2023-04-21 |
 | [Pempe](https://open.spotify.com/track/0NWyE9gJ8Q2fOdJfGcJwG3) | [Seyi Shay](https://open.spotify.com/artist/0WgwOS7j1CB5tIRa4QM50K), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Pempe](https://open.spotify.com/album/6AKlDA5totl1hm8eisMf8C) | 2:54 | 2022-02-28 | 2022-03-05 |
 | [PEPE](https://open.spotify.com/track/6mmMPohNC25kZu0WT7Qa8X) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [PEPE](https://open.spotify.com/album/3tXgsqio2fXZxspDng8Uxw) | 2:56 | 2021-12-20 | 2022-06-29 |
-| [Peru](https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Peru](https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe) | 2:31 | 2021-12-20 |  |
+| [Peru](https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Peru](https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe) | 2:31 | 2021-12-20 | 2023-04-22 |
 | [Petite](https://open.spotify.com/track/24ULbF2UnOeMbkmkGriTBc) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Petite](https://open.spotify.com/album/3VviaPzhAXAIco8H3syNNq) | 3:02 | 2021-12-20 | 2022-09-17 |
 | [Philo](https://open.spotify.com/track/5OTKO93FLT25URfam2hZgP) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Philo](https://open.spotify.com/album/4z0qErs8qvQsNIDVQyaWjl) | 2:45 | 2022-09-30 | 2023-03-16 |
 | [Pick Up](https://open.spotify.com/track/13iAeDhYtRuuWdcNLZftY2) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Pick Up](https://open.spotify.com/album/6pig1K4wZv0XZ26xYSGHOd) | 3:14 | 2021-12-20 | 2022-07-28 |

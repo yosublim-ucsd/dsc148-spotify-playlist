@@ -1,12 +1,12 @@
 {
   "description": "Dedicated to all the programmers out there.",
-  "num_followers": 336789,
+  "num_followers": 336986,
   "original_name": "Coding Mode  ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTEyMjk3MSwwMDAwMDAwMDBjYzYwMDJmNWZlNDM5MDA4NDAwODkzYzljZWY2NTRh",
+  "snapshot_id": "MTY4MTEyMjk3MSwwMDAwMDAwMGJmZGM4M2ZjMTZkNjkzMjQ1OGRkNmViYTQwODVkZDRm",
   "tracks": [
     {
       "added_at": "2023-04-10 10:36:11",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
+        "name": "With Resolve",
+        "url": "https://open.spotify.com/album/1dMrnL9I1tO7iSTSaYbYUQ"
+      },
+      "artists": [
+        {
+          "name": "Jacob Yoffee",
+          "url": "https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP"
+        }
+      ],
+      "duration_ms": 129761,
+      "name": "With Resolve",
+      "url": "https://open.spotify.com/track/51c5Wbzs0fPu6mwpDn3bsQ"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
         "name": "Chillhop Essentials Spring 2019",
         "url": "https://open.spotify.com/album/1vV4Hl5uDdMtKdKChSkjLG"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 130720,
       "name": "Precipice",
       "url": "https://open.spotify.com/track/4CHIJuqR1jLfzA72THSzUm"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
-        "name": "With Resolve",
-        "url": "https://open.spotify.com/album/1dMrnL9I1tO7iSTSaYbYUQ"
-      },
-      "artists": [
-        {
-          "name": "Jacob Yoffee",
-          "url": "https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP"
-        }
-      ],
-      "duration_ms": 129761,
-      "name": "With Resolve",
-      "url": "https://open.spotify.com/track/51c5Wbzs0fPu6mwpDn3bsQ"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Anagram",
-        "url": "https://open.spotify.com/album/3EMafNmPdqTVmiESnJAwOp"
-      },
-      "artists": [
-        {
-          "name": "Imala Zir",
-          "url": "https://open.spotify.com/artist/5hOW2X7ZiiV85jFgK4mLlo"
-        }
-      ],
-      "duration_ms": 148089,
-      "name": "Anagram",
-      "url": "https://open.spotify.com/track/2XLdNfDhWJwViR3wiq8NrA"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Collapse Into Light",
         "url": "https://open.spotify.com/album/0rUgWKzUwGMo0XAHN6R2eY"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 179500,
       "name": "Collapse Into Light",
       "url": "https://open.spotify.com/track/3jP962JoLAn9p4wCDdx4My"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Anagram",
+        "url": "https://open.spotify.com/album/3EMafNmPdqTVmiESnJAwOp"
+      },
+      "artists": [
+        {
+          "name": "Imala Zir",
+          "url": "https://open.spotify.com/artist/5hOW2X7ZiiV85jFgK4mLlo"
+        }
+      ],
+      "duration_ms": 148089,
+      "name": "Anagram",
+      "url": "https://open.spotify.com/track/2XLdNfDhWJwViR3wiq8NrA"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Loosen Up",
-        "url": "https://open.spotify.com/album/4mMfto7T62viWO9mK4mwpo"
-      },
-      "artists": [
-        {
-          "name": "Cake House",
-          "url": "https://open.spotify.com/artist/70lqKvxnIZuNyQiYjwZytB"
-        }
-      ],
-      "duration_ms": 147307,
-      "name": "Loosen Up",
-      "url": "https://open.spotify.com/track/7h8FoVdFGKGNbZvbY51d5h"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Pastoral",
         "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 220630,
       "name": "Pastoral",
       "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Loosen Up",
+        "url": "https://open.spotify.com/album/4mMfto7T62viWO9mK4mwpo"
+      },
+      "artists": [
+        {
+          "name": "Cake House",
+          "url": "https://open.spotify.com/artist/70lqKvxnIZuNyQiYjwZytB"
+        }
+      ],
+      "duration_ms": 147307,
+      "name": "Loosen Up",
+      "url": "https://open.spotify.com/track/7h8FoVdFGKGNbZvbY51d5h"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -775,18 +775,18 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Kurzgesagt, Vol. 4 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1lCnMllidUf5pmU5N67vb6"
+        "name": "Polar (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/3SnEK6pCU5qFtnLXSbZT6i"
       },
       "artists": [
         {
-          "name": "Epic Mountain",
-          "url": "https://open.spotify.com/artist/7meq0SFt3BxWzjbt5EVBbT"
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
         }
       ],
-      "duration_ms": 372000,
-      "name": "Optimistic Nihilism",
-      "url": "https://open.spotify.com/track/3PmEzB2ORXmXBx07JY9z66"
+      "duration_ms": 200727,
+      "name": "cabin",
+      "url": "https://open.spotify.com/track/6yYnE5DDbv0e6TlzlSDJgX"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Polar (Music from the Netflix Film)",
-        "url": "https://open.spotify.com/album/3SnEK6pCU5qFtnLXSbZT6i"
+        "name": "Kurzgesagt, Vol. 4 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1lCnMllidUf5pmU5N67vb6"
       },
       "artists": [
         {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+          "name": "Epic Mountain",
+          "url": "https://open.spotify.com/artist/7meq0SFt3BxWzjbt5EVBbT"
         }
       ],
-      "duration_ms": 200727,
-      "name": "cabin",
-      "url": "https://open.spotify.com/track/6yYnE5DDbv0e6TlzlSDJgX"
+      "duration_ms": 372000,
+      "name": "Optimistic Nihilism",
+      "url": "https://open.spotify.com/track/3PmEzB2ORXmXBx07JY9z66"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
+        "name": "We're Back Chilling",
+        "url": "https://open.spotify.com/album/0LFOKTsuw0YGnGSNUGBL5O"
+      },
+      "artists": [
+        {
+          "name": "Cook & Stans",
+          "url": "https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick"
+        }
+      ],
+      "duration_ms": 267096,
+      "name": "Finding Atlantis",
+      "url": "https://open.spotify.com/track/41DRCJywCHC0QyCX71GO9G"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
         "name": "Fresh Air",
         "url": "https://open.spotify.com/album/5Yvsg0Yzg8pYR8X3EiUBok"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 175135,
       "name": "Fresh Air",
       "url": "https://open.spotify.com/track/3xwMfWfBRgdTWzPNrIfDTw"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
-        "name": "We're Back Chilling",
-        "url": "https://open.spotify.com/album/0LFOKTsuw0YGnGSNUGBL5O"
-      },
-      "artists": [
-        {
-          "name": "Cook & Stans",
-          "url": "https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick"
-        }
-      ],
-      "duration_ms": 267096,
-      "name": "Finding Atlantis",
-      "url": "https://open.spotify.com/track/41DRCJywCHC0QyCX71GO9G"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Finding Hope",
-        "url": "https://open.spotify.com/album/25X6lJ7r1b4jQ3S5o8RtJs"
-      },
-      "artists": [
-        {
-          "name": "Haakon Stange",
-          "url": "https://open.spotify.com/artist/0W5e9m7EXTbYg8XZSrQIfx"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Finding Hope",
-      "url": "https://open.spotify.com/track/1ZxqvIpfcqYDcV4nP6jxms"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Somewhere in October",
         "url": "https://open.spotify.com/album/2jWENpFhAIS8cTXHy5ee79"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 247422,
       "name": "Somewhere in October",
       "url": "https://open.spotify.com/track/0Oajka6trs5YNuLY2t1qib"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Finding Hope",
+        "url": "https://open.spotify.com/album/25X6lJ7r1b4jQ3S5o8RtJs"
+      },
+      "artists": [
+        {
+          "name": "Haakon Stange",
+          "url": "https://open.spotify.com/artist/0W5e9m7EXTbYg8XZSrQIfx"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Finding Hope",
+      "url": "https://open.spotify.com/track/1ZxqvIpfcqYDcV4nP6jxms"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Loom",
-        "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
+        "name": "Residuum",
+        "url": "https://open.spotify.com/album/1KcRjaSyfxRWSV8vjJvgIR"
       },
       "artists": [
         {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+          "name": "Silver Maple",
+          "url": "https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6"
         }
       ],
-      "duration_ms": 190500,
-      "name": "We Contain Multitudes - from home",
-      "url": "https://open.spotify.com/track/2ich9n3I8MHo1AkC26bpqK"
+      "duration_ms": 163150,
+      "name": "Particle Emission",
+      "url": "https://open.spotify.com/track/7svM6oRnsecnQd30A6prDc"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Residuum",
-        "url": "https://open.spotify.com/album/1KcRjaSyfxRWSV8vjJvgIR"
-      },
-      "artists": [
-        {
-          "name": "Silver Maple",
-          "url": "https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6"
-        }
-      ],
-      "duration_ms": 163150,
-      "name": "Particle Emission",
-      "url": "https://open.spotify.com/track/7svM6oRnsecnQd30A6prDc"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Flourishing Views",
         "url": "https://open.spotify.com/album/3EwiPwpIygpD2BwEzqbUsw"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 137454,
       "name": "Beau",
       "url": "https://open.spotify.com/track/4HlyP1UN4PSkGowgNeYWep"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Loom",
+        "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "We Contain Multitudes - from home",
+      "url": "https://open.spotify.com/track/2ich9n3I8MHo1AkC26bpqK"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Last Night",
-        "url": "https://open.spotify.com/album/5XpjhYHq0iDhDcPyjEEb4A"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3TLh6c8432sO36wuKhtrFM"
       },
       "artists": [
         {
-          "name": "Dexter Mars",
-          "url": "https://open.spotify.com/artist/11r9LS6eetjB3U4WZauIDR"
+          "name": "Teset",
+          "url": "https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0"
         }
       ],
-      "duration_ms": 196500,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/2PdsoiM7FtggHQTYicpQMi"
+      "duration_ms": 276960,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/1ajC1DxUxfRTyzhpOcrHd4"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1563,18 +1563,34 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3TLh6c8432sO36wuKhtrFM"
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/5XpjhYHq0iDhDcPyjEEb4A"
       },
       "artists": [
         {
-          "name": "Teset",
-          "url": "https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0"
+          "name": "Dexter Mars",
+          "url": "https://open.spotify.com/artist/11r9LS6eetjB3U4WZauIDR"
         }
       ],
-      "duration_ms": 276960,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/1ajC1DxUxfRTyzhpOcrHd4"
+      "duration_ms": 196500,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/2PdsoiM7FtggHQTYicpQMi"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/091PcRTCoEx0mS7z3Jkr3A"
+      },
+      "artists": [
+        {
+          "name": "Sahamanyu",
+          "url": "https://open.spotify.com/artist/0qD6Ngdk3zUM2pKRsczr8C"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "Homecoming",
+      "url": "https://open.spotify.com/track/5hDxgd1QjOO2kz577FJYme"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1595,22 +1611,6 @@
       "duration_ms": 222197,
       "name": "Void (feat. Cnebce)",
       "url": "https://open.spotify.com/track/7vPuyrHssHCdaVHjiwiMYs"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/091PcRTCoEx0mS7z3Jkr3A"
-      },
-      "artists": [
-        {
-          "name": "Sahamanyu",
-          "url": "https://open.spotify.com/artist/0qD6Ngdk3zUM2pKRsczr8C"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "Homecoming",
-      "url": "https://open.spotify.com/track/5hDxgd1QjOO2kz577FJYme"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Spike",
-        "url": "https://open.spotify.com/album/0QrP0xTuWwy3CBz0dHBpgs"
-      },
-      "artists": [
-        {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
-        }
-      ],
-      "duration_ms": 456585,
-      "name": "Spike",
-      "url": "https://open.spotify.com/track/4DxGYJgokpQi2ChUzQEzp6"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Twisty",
         "url": "https://open.spotify.com/album/6Zq5AYy0Hqz0tStf9CXdsX"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 416931,
       "name": "Free Fall",
       "url": "https://open.spotify.com/track/74D1dmMEX6tAsspSMQQldK"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Spike",
+        "url": "https://open.spotify.com/album/0QrP0xTuWwy3CBz0dHBpgs"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        }
+      ],
+      "duration_ms": 456585,
+      "name": "Spike",
+      "url": "https://open.spotify.com/track/4DxGYJgokpQi2ChUzQEzp6"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Monsters (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4xj5LGumbT2M7wq25RLNjl"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 295853,
-      "name": "Monsters Theme",
-      "url": "https://open.spotify.com/track/6aiR4OPo4GSpsiRzuubaZg"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "In Song",
         "url": "https://open.spotify.com/album/5mqKifgMH0rmB37d1ty7vh"
       },
@@ -1771,22 +1755,6 @@
       "duration_ms": 291362,
       "name": "For every man saved a victim will be found",
       "url": "https://open.spotify.com/track/23GeR1VGo3QHeS5UWQ5riO"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/1F2N2TDZBfge0Q03ypNo5k"
-      },
-      "artists": [
-        {
-          "name": "Dixxy",
-          "url": "https://open.spotify.com/artist/3tzNFZuGKTcNypBltcMf4a"
-        }
-      ],
-      "duration_ms": 214006,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/2m0TUPv1FW6LoQpxV5l6Lf"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1807,6 +1775,38 @@
       "duration_ms": 288000,
       "name": "Alive",
       "url": "https://open.spotify.com/track/6grkrnX0IaNPz92hH8qDAt"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/1F2N2TDZBfge0Q03ypNo5k"
+      },
+      "artists": [
+        {
+          "name": "Dixxy",
+          "url": "https://open.spotify.com/artist/3tzNFZuGKTcNypBltcMf4a"
+        }
+      ],
+      "duration_ms": 214006,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/2m0TUPv1FW6LoQpxV5l6Lf"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Monsters (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4xj5LGumbT2M7wq25RLNjl"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 295853,
+      "name": "Monsters Theme",
+      "url": "https://open.spotify.com/track/6aiR4OPo4GSpsiRzuubaZg"
     },
     {
       "added_at": "2023-04-10 10:36:11",

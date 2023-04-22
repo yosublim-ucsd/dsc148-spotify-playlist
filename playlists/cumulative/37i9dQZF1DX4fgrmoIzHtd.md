@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:27LGatz1m8aJ7ZaVVWEphc">Gui Boratto</a>'s favourite tracks\. Updated regularly\. Curated by Gui Boratto\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-92 songs - 8 hr 42 min
+93 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,8 +41,9 @@
 | [Hypnotized](https://open.spotify.com/track/0V2GX0aukyZMt6nSMxfOJk) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Fran](https://open.spotify.com/artist/2gct3VkeQT2IuGNFNJVj1J) | [Großstadtmärchen](https://open.spotify.com/album/6mM6lqJGzNcEB1PBwZHYAo) | 5:40 | 2023-02-03 |  |
 | [I'm Doing Fine \(feat\. Amp Dog Knight\)](https://open.spotify.com/track/5vOSahSFyo87bRpf3yoBNg) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX), [Amp Dog Knight](https://open.spotify.com/artist/503YnJpJW6VVlo328rItz6) | [Black Mahogani](https://open.spotify.com/album/224OuhZ1LThmaYGhD8ikq6) | 9:16 | 2021-05-11 |  |
 | [Illusion Of Time](https://open.spotify.com/track/02svSerh4F5X5Fn3rdnd93) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/60zljcyghRa4eCzf8nxeJU) | 4:22 | 2021-05-11 | 2023-02-04 |
-| [In Love With You](https://open.spotify.com/track/2M2urNXOgop2isPZ9Vv4f7) | [The Paradise](https://open.spotify.com/artist/28z70aQRbXNFU0OP930suZ), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Romuald](https://open.spotify.com/artist/43MFF1y8czFwbjB8kf24oG) | [In Love With You](https://open.spotify.com/album/6TmoonSmmOCN6XQXgaxL7d) | 4:14 | 2023-02-03 |  |
+| [In Love With You](https://open.spotify.com/track/2M2urNXOgop2isPZ9Vv4f7) | [The Paradise](https://open.spotify.com/artist/28z70aQRbXNFU0OP930suZ), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Romuald](https://open.spotify.com/artist/43MFF1y8czFwbjB8kf24oG) | [In Love With You](https://open.spotify.com/album/6TmoonSmmOCN6XQXgaxL7d) | 4:14 | 2023-02-03 | 2023-04-22 |
 | [In Love with you \- Alan Braxe Remix](https://open.spotify.com/track/6ZuZxUA2MyTbOgDwX3pyYl) | [The Paradise](https://open.spotify.com/artist/28z70aQRbXNFU0OP930suZ), [Romuald](https://open.spotify.com/artist/43MFF1y8czFwbjB8kf24oG), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW) | [In Love with You \(Alan Braxe Remix\)](https://open.spotify.com/album/5VEc2ha55ZgbSFFJmdXeJ3) | 5:10 | 2023-02-03 |  |
+| [In Love With You \- Remastered 2023](https://open.spotify.com/track/4ZWyIlQo4Za4kophcOoI4i) | [The Paradise](https://open.spotify.com/artist/28z70aQRbXNFU0OP930suZ), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW) | [The Upper Cuts \(2023 Edition\)](https://open.spotify.com/album/0TeXdrfFO67UgPpj1mMUAM) | 4:14 | 2023-02-03 |  |
 | [Inertia \- Gui Boratto Remix](https://open.spotify.com/track/22Srp74oCRd07Rnb3VWsHn) | [Douran](https://open.spotify.com/artist/3Rvdn0CASBunaYXQHEKIoQ), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Inertia \(Gui Boratto Remix\)](https://open.spotify.com/album/3bVZseWh8vMnTFt3sEA83a) | 6:43 | 2021-05-11 | 2023-02-04 |
 | [Interloper](https://open.spotify.com/track/1UgMLFmeVyphjePcN1TNpq) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Echonomist](https://open.spotify.com/artist/3ujc8l2JVYwGgAPU7KRRl3) | [Synchronicity I](https://open.spotify.com/album/3Ygk7ALQhqkyWmIK4wwSIY) | 7:23 | 2021-05-11 | 2023-02-04 |
 | [It'll All Be Over \- DJ Koze Remix \- Radio Edit](https://open.spotify.com/track/48dojgnBKfp3drKOFdwycc) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [It'll All Be Over \(DJ Koze Remix \- Radio Edit\)](https://open.spotify.com/album/0T4xFSNi3vOmlC4GUXPfIE) | 3:08 | 2021-05-11 |  |

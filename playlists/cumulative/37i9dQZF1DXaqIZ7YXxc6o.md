@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: Rita Ora
 
-620 songs - 1 day 10 hr 3 min
+621 songs - 1 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Baseline Happiness](https://open.spotify.com/track/0FF9trm5pWMyUeyfP70ga6) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Baseline Happiness](https://open.spotify.com/album/26d46EFUTm8Yo4Z9pU5l6D) | 3:06 | 2023-03-09 | 2023-03-31 |
 | [Be Prepared](https://open.spotify.com/track/1BzIRzO9h44YiQVAInMsS1) | [Motez](https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR) | [Be Prepared](https://open.spotify.com/album/1N6SadataO8Bs8UFhaVUXt) | 2:41 | 2023-02-16 | 2023-03-10 |
 | [Be The One](https://open.spotify.com/track/65gDSI2O6yvJInncyVYSF0) | [Davey Asprey](https://open.spotify.com/artist/7luLRXGBygBN8vUO8T9uHf), [MatricK](https://open.spotify.com/artist/3K0HRfLEyOW4FtCzUxltQH), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Be The One](https://open.spotify.com/album/7gH0F1DaTVWetboqChJnZU) | 4:02 | 2023-01-05 | 2023-02-03 |
-| [Been Dreaming](https://open.spotify.com/track/05aycF0iwg7oncrbAPXlvn) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [GD Vandal](https://open.spotify.com/artist/1CWlv9N9hW7ugqHBRy2fqX) | [Been Dreaming](https://open.spotify.com/album/45DVxrONjJSdjVkFtfVeqH) | 2:40 | 2023-04-20 |  |
+| [Been Dreaming](https://open.spotify.com/track/05aycF0iwg7oncrbAPXlvn) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [GD Vandal](https://open.spotify.com/artist/1CWlv9N9hW7ugqHBRy2fqX) | [Been Dreaming](https://open.spotify.com/album/45DVxrONjJSdjVkFtfVeqH) | 2:40 | 2023-04-20 | 2023-04-22 |
+| [Been Dreaming](https://open.spotify.com/track/3vi0IoO6GQMT9IT96tUKVF) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [GD Vandal](https://open.spotify.com/artist/1CWlv9N9hW7ugqHBRy2fqX) | [Been Dreaming](https://open.spotify.com/album/1bWliHFn3fmwHKhF3dS5nN) | 2:40 | 2023-04-20 |  |
 | [Been Thinking](https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Been Thinking](https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn) | 3:07 | 2023-01-26 | 2023-02-10 |
 | [Beggin'](https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Beggin'](https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V) | 3:03 | 2023-04-20 |  |
 | [Behind](https://open.spotify.com/track/6maXPePCZOGQQmwQurOOmG) | [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791), [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx) | [Behind](https://open.spotify.com/album/7w5XFHUG5e8dAjiwLyDfx9) | 3:05 | 2022-12-29 | 2023-01-27 |

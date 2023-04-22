@@ -206,7 +206,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 149724,
       "name": "C.Funktastic",
       "url": "https://open.spotify.com/track/5b6CPprnxzCEVGzCJawrp0"
@@ -514,6 +514,28 @@
       "duration_ms": 167755,
       "name": "Hate Boys",
       "url": "https://open.spotify.com/track/0jkCIZeZaasze05SoQooOC"
+    },
+    {
+      "album": {
+        "name": "Horas",
+        "url": "https://open.spotify.com/album/1geeDTUcLFv7vgDH0v0C3a"
+      },
+      "artists": [
+        {
+          "name": "Alexis Play",
+          "url": "https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv"
+        },
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231959,
+      "name": "Horas",
+      "url": "https://open.spotify.com/track/2UumxLigdCw91IxqpMEvPz"
     },
     {
       "album": {

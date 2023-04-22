@@ -1,12 +1,12 @@
 {
   "description": "Immerse deeper into obscure alternate dimensions... \ud83e\udd87\ud83d\udd2e",
-  "num_followers": 2632,
+  "num_followers": 2639,
   "original_name": "Stranger Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyMTM0OCwwMDAwMDAwMGNlNWQ0YWM5NTY0YzEyMWUxMmIzYTkwOWRiYWEwNWJj",
+  "snapshot_id": "MTY2ODcyMTM0OCwwMDAwMDAwMDhiNDg0MTJiYTE2NDc0OWI2N2ZmMzNkNGY5ZWQ5YTI1",
   "tracks": [
     {
       "added_at": "2022-07-06 17:58:03",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
+        "name": "Draconian Poetry",
+        "url": "https://open.spotify.com/album/33wV7dDwlDalTn1ArAcbcp"
+      },
+      "artists": [
+        {
+          "name": "Sephiroth",
+          "url": "https://open.spotify.com/artist/3W7sDTEvCYpE7JpxdyNZeo"
+        }
+      ],
+      "duration_ms": 543560,
+      "name": "Now Night Her Course Began",
+      "url": "https://open.spotify.com/track/2uK3MyZTClTtjMaisrbLYE"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
         "name": "Onyx",
         "url": "https://open.spotify.com/album/6fSwC689X5NJC8hIOEOBLS"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 337816,
       "name": "Ones Atop the Unknown",
       "url": "https://open.spotify.com/track/7EQXtgp56sFwJu1euom2GC"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "Draconian Poetry",
-        "url": "https://open.spotify.com/album/33wV7dDwlDalTn1ArAcbcp"
-      },
-      "artists": [
-        {
-          "name": "Sephiroth",
-          "url": "https://open.spotify.com/artist/3W7sDTEvCYpE7JpxdyNZeo"
-        }
-      ],
-      "duration_ms": 543560,
-      "name": "Now Night Her Course Began",
-      "url": "https://open.spotify.com/track/2uK3MyZTClTtjMaisrbLYE"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "The Word as Power",
-        "url": "https://open.spotify.com/album/5iDNqRncNguhFpsZiTZEBy"
-      },
-      "artists": [
-        {
-          "name": "Lustmord",
-          "url": "https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7"
-        }
-      ],
-      "duration_ms": 601827,
-      "name": "Babel",
-      "url": "https://open.spotify.com/track/2cwUe02VNInFY7OstKbqsJ"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "L'illustration Musicale",
         "url": "https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 370800,
       "name": "Delia Derbyshire",
       "url": "https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "The Word as Power",
+        "url": "https://open.spotify.com/album/5iDNqRncNguhFpsZiTZEBy"
+      },
+      "artists": [
+        {
+          "name": "Lustmord",
+          "url": "https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7"
+        }
+      ],
+      "duration_ms": 601827,
+      "name": "Babel",
+      "url": "https://open.spotify.com/track/2cwUe02VNInFY7OstKbqsJ"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Translucent Communion",
-        "url": "https://open.spotify.com/album/7h6pY9nZuq2ytVcplRLbOl"
+        "name": "Bathyscaphe",
+        "url": "https://open.spotify.com/album/5QQx5qIMnDBrJ10xgvi1Zp"
       },
       "artists": [
         {
-          "name": "Vestigial",
-          "url": "https://open.spotify.com/artist/6NgdG349NLTViR0NJqGGRV"
+          "name": "Germind",
+          "url": "https://open.spotify.com/artist/6Nqurhynev5eAUbHCaKzZh"
         }
       ],
-      "duration_ms": 316840,
-      "name": "Anthropic Uncreation",
-      "url": "https://open.spotify.com/track/4Z355byisU8j1DVSwA3biP"
+      "duration_ms": 192757,
+      "name": "Bathyscaphe",
+      "url": "https://open.spotify.com/track/0ZAOPU4UlP7PPt4aEAcD3I"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -1087,34 +1087,18 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Bathyscaphe",
-        "url": "https://open.spotify.com/album/5QQx5qIMnDBrJ10xgvi1Zp"
+        "name": "Translucent Communion",
+        "url": "https://open.spotify.com/album/7h6pY9nZuq2ytVcplRLbOl"
       },
       "artists": [
         {
-          "name": "Germind",
-          "url": "https://open.spotify.com/artist/6Nqurhynev5eAUbHCaKzZh"
+          "name": "Vestigial",
+          "url": "https://open.spotify.com/artist/6NgdG349NLTViR0NJqGGRV"
         }
       ],
-      "duration_ms": 192757,
-      "name": "Bathyscaphe",
-      "url": "https://open.spotify.com/track/0ZAOPU4UlP7PPt4aEAcD3I"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "Perception Report 2",
-        "url": "https://open.spotify.com/album/4HRx2jXRLDMwaGQ5OgtIat"
-      },
-      "artists": [
-        {
-          "name": "The Night Monitor",
-          "url": "https://open.spotify.com/artist/3CZX2LMIYMGF8CK70c6zMm"
-        }
-      ],
-      "duration_ms": 254955,
-      "name": "Dance of the Mince Pie Martians",
-      "url": "https://open.spotify.com/track/1SciwnxrXz7WNUfcqH6lqF"
+      "duration_ms": 316840,
+      "name": "Anthropic Uncreation",
+      "url": "https://open.spotify.com/track/4Z355byisU8j1DVSwA3biP"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -1131,6 +1115,22 @@
       "duration_ms": 554760,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/2ttcbHh6jc3fil4h9BIs7A"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Perception Report 2",
+        "url": "https://open.spotify.com/album/4HRx2jXRLDMwaGQ5OgtIat"
+      },
+      "artists": [
+        {
+          "name": "The Night Monitor",
+          "url": "https://open.spotify.com/artist/3CZX2LMIYMGF8CK70c6zMm"
+        }
+      ],
+      "duration_ms": 254955,
+      "name": "Dance of the Mince Pie Martians",
+      "url": "https://open.spotify.com/track/1SciwnxrXz7WNUfcqH6lqF"
     },
     {
       "added_at": "2022-07-06 17:58:03",

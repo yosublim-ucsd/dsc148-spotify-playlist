@@ -1667,6 +1667,24 @@
     },
     {
       "album": {
+        "name": "The Tranquil Waterfall",
+        "url": "https://open.spotify.com/album/5iabwBF618d1vCXeYThoLv"
+      },
+      "artists": [
+        {
+          "name": "Nature Pulse",
+          "url": "https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144761,
+      "name": "The Tranquil Waterfall",
+      "url": "https://open.spotify.com/track/4lAylrArN2GyYLm8hTILhK"
+    },
+    {
+      "album": {
         "name": "Tributary Balance",
         "url": "https://open.spotify.com/album/0jeMzKkXb7a3vVLn2EbBkX"
       },

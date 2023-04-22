@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 197419,
       "name": "Fractions",
       "url": "https://open.spotify.com/track/4JSUAxALzaXQHuhEVMvJ0v"
@@ -1597,6 +1597,36 @@
     },
     {
       "album": {
+        "name": "Looking At You (feat. Kruizz)",
+        "url": "https://open.spotify.com/album/55lcfTtyhfPTptxe738Pno"
+      },
+      "artists": [
+        {
+          "name": "PHARA\u00d8H",
+          "url": "https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f"
+        },
+        {
+          "name": "MYKRIS",
+          "url": "https://open.spotify.com/artist/74FoBhis1hShJt1oBnmXkC"
+        },
+        {
+          "name": "Behmer",
+          "url": "https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9"
+        },
+        {
+          "name": "Kruizz",
+          "url": "https://open.spotify.com/artist/6IIxNeTmyWkRrcCPqUt4k0"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155524,
+      "name": "Looking At You (feat. Kruizz)",
+      "url": "https://open.spotify.com/track/16QrxDPNwSJM7oIj5xwZP9"
+    },
+    {
+      "album": {
         "name": "Lose Your Love (feat. Ghosts!)",
         "url": "https://open.spotify.com/album/7v0M7q5dtXfvlD2HYaOstf"
       },
@@ -1796,6 +1826,24 @@
       "duration_ms": 135714,
       "name": "Night Time",
       "url": "https://open.spotify.com/track/4COSS0u8fXB2qYtW5bbVaE"
+    },
+    {
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/4VPlyMZAnN0D78J2C49cky"
+      },
+      "artists": [
+        {
+          "name": "Fancy Inc",
+          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209516,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/7eByPAx572J3cclC8y3mkp"
     },
     {
       "album": {
@@ -2020,7 +2068,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 185714,
       "name": "Rare Vision",
       "url": "https://open.spotify.com/track/4XGTuVNDxJzYu0YMRr32fc"

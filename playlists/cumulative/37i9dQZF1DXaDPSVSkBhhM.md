@@ -4,7 +4,7 @@
 
 > ¡Pop\-punk por siempre!
 
-106 songs - 5 hr 52 min
+108 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [4 Segundos al Sol](https://open.spotify.com/track/1IJw2g0b3rL72vbH4jbDY7) | [Amsterdam](https://open.spotify.com/artist/0H23uQ8jejMPg06PJvoVY6) | [Como Ayer, Como Hoy…](https://open.spotify.com/album/5r3kLgjNuJbUxsIYVsiqkH) | 3:57 | 2021-11-26 | 2022-07-17 |
 | [Adios Amigos](https://open.spotify.com/track/4ccmRGXt54rHBmwRxxpGIU) | [SUGUS](https://open.spotify.com/artist/1J982dncUkkgwKpGuBNHaG) | [Ciclostes](https://open.spotify.com/album/4MR7v8d9rRN0TtrO1IzhUD) | 2:08 | 2021-11-26 | 2022-07-22 |
 | [AMOR PUNK](https://open.spotify.com/track/2NtDY6Y2tiKpwzhjxp08pI) | [Marc!](https://open.spotify.com/artist/2sOEwHFWDipyXd0EgSHIMF) | [AMOR PUNK](https://open.spotify.com/album/3S7ZB4zdi8MXRWrk9TqRa3) | 2:44 | 2022-07-22 | 2022-10-21 |
+| [AMSIEDAD](https://open.spotify.com/track/6INLA7eSR6wKYdCUtQyDLQ) | [Ningun Artista](https://open.spotify.com/artist/2hErZkRG3ZcpWCh0B3wQkV) | [S.C.E.N.A.](https://open.spotify.com/album/3U0Y3Uyed506dKHMpQDCI9) | 3:40 | 2023-04-21 |  |
 | [Antes](https://open.spotify.com/track/1rZPLX3l9i3nOzPuyw5uTa) | [Celofán](https://open.spotify.com/artist/6lxn2RanNHWxoWRHLTLunm) | [Split](https://open.spotify.com/album/2w1Xt3HBQq6qIDZEZWk4CE) | 3:19 | 2021-11-26 | 2023-02-25 |
 | [Apariencia](https://open.spotify.com/track/2v4oBaRnTe2YuaQovidduL) | [GUFI](https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN) | [Corazón D' Roto](https://open.spotify.com/album/12FNuCmrZPqCFiu5mL09EC) | 3:37 | 2022-07-22 |  |
 | [Así Nos Rompíamos el Hocico Ayer](https://open.spotify.com/track/08JMJA2pkJBXwwbzhvQ4av) | [Primo](https://open.spotify.com/artist/2wXJLXeNLTOKyDWw0F5FZF) | [Así Nos Rompíamos el Hocico Ayer](https://open.spotify.com/album/1BJcmBqzsfVXOpurvxnxZz) | 2:06 | 2021-11-26 | 2022-07-27 |
@@ -44,9 +45,10 @@
 | [Distancias](https://open.spotify.com/track/7ERijR9hA3srvop0osPQCA) | [Diez Veces Yo](https://open.spotify.com/artist/1WWCrSgufkJeqcEtYcSW4l) | [Historias](https://open.spotify.com/album/5NQsCrl81fPCQ1osysTxJg) | 3:18 | 2021-11-26 |  |
 | [Doble Vida](https://open.spotify.com/track/0hL4uLIKFzKwRIpOsjP9DF) | [NUNO](https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8) | [Doble Vida](https://open.spotify.com/album/3WwiGAt7wzs8wKVtM06cNU) | 3:04 | 2021-11-26 | 2023-03-18 |
 | [Dualidad](https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Dualidad](https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg) | 3:43 | 2021-11-26 |  |
+| [El Tio Mat](https://open.spotify.com/track/5F8GV798m5bian3h4PlhRh) | [Roca Lunar](https://open.spotify.com/artist/7v2z392Xgbs0IvxUYCIncL) | [El Tio Mat](https://open.spotify.com/album/6LRhupFVTN6j9qpDHhYAxi) | 2:43 | 2023-04-21 |  |
 | [Ella Miente](https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp) | [Helian Evans](https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N) | [Ella Miente](https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6) | 2:19 | 2023-04-14 |  |
 | [Empezar, Pt\. 2](https://open.spotify.com/track/7MLwzBBleVNsTN4X2enXO2) | [Sureste](https://open.spotify.com/artist/1F4oynmQhLxXhdS4J2z9MH) | [Empezar, Pt\. 2](https://open.spotify.com/album/07VAGAMUcivFxHWTgYVlQS) | 2:45 | 2021-11-26 | 2023-04-15 |
-| [Escribe Una Canción](https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2) | [DON](https://open.spotify.com/artist/4xRGF3S9AgY23sWuzKlUDR) | [Siempre Resistir / Nunca Desistir](https://open.spotify.com/album/05oaSmUNyPQMVeNgvfn8uS) | 3:54 | 2021-11-26 |  |
+| [Escribe Una Canción](https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2) | [DON](https://open.spotify.com/artist/4xRGF3S9AgY23sWuzKlUDR) | [Siempre Resistir / Nunca Desistir](https://open.spotify.com/album/05oaSmUNyPQMVeNgvfn8uS) | 3:54 | 2021-11-26 | 2023-04-22 |
 | [Eso Es Todo Lo Que Soy](https://open.spotify.com/track/3A0t8Bg8kFoVuCZFiKhY9k) | [GUFI](https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN) | [Historias De La Calle](https://open.spotify.com/album/0It6LpqmGgPSMdXMSXKS1w) | 3:30 | 2021-11-26 |  |
 | [Espero Nadie Ocupe Mi Lugar](https://open.spotify.com/track/1ld6eCCuzAasNdyRGbN3d4) | [Camiches](https://open.spotify.com/artist/3DZM1ODnTL003kSGHSd7dA) | [El Bálsamo para los Sabios y los Buenos Perdedores](https://open.spotify.com/album/0ZeUtkRCM2BQVYsGXG7iac) | 3:34 | 2021-11-26 | 2022-07-29 |
 | [Espero Nadie Ocupe Mi Lugar](https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9) | [Camiches](https://open.spotify.com/artist/3DZM1ODnTL003kSGHSd7dA) | [El Bálsamo para los Sabios y los Buenos Perdedores](https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A) | 3:34 | 2022-07-22 |  |
@@ -99,7 +101,7 @@
 | [Salven la torre del reloj](https://open.spotify.com/track/3FDeix0Xgpf74VX3nV3g9w) | [Sad Saturno](https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d) | [Destinados a fallar](https://open.spotify.com/album/1OmvaIf4kLE46ZnX6Pfhnd) | 3:43 | 2021-11-26 | 2022-07-23 |
 | [Saoko \(Post\-Punk\)](https://open.spotify.com/track/1QcoAZN9XMAZQT2aeQqII0) | [Isaac De los Santos](https://open.spotify.com/artist/24jCcaU83zKxUs7BJylznZ) | [Saoko \(Post\-Punk\)](https://open.spotify.com/album/4Fmaxtk2DZgoQRZG3c8jn5) | 3:00 | 2022-10-01 |  |
 | [Serás El Mástil De Mi Barco](https://open.spotify.com/track/3ehubcf2qVxCkpBwIeLBNu) | [May Sunday](https://open.spotify.com/artist/08SkBrVjxq80ivZKnGh1LE), [Alonzo Rodríguez](https://open.spotify.com/artist/6FabLitAKk8xbI901jJg6o) | [Ahora y Siempre](https://open.spotify.com/album/3FLGPjRkMAwnSN99iBR1e6) | 2:54 | 2021-11-26 | 2022-07-23 |
-| [Siempre](https://open.spotify.com/track/0Tvg72r8G8sd3rxRlnZxGR) | [Hey Bandit!](https://open.spotify.com/artist/2yzrbMnmjvrupo4AuOwnRJ), [Gibrán Serrano](https://open.spotify.com/artist/2iXLevANnYqq76VN1xaBYc) | [Siempre](https://open.spotify.com/album/1pcGdOq2pFTBjivCc8CqbI) | 2:57 | 2023-04-14 |  |
+| [Siempre](https://open.spotify.com/track/0Tvg72r8G8sd3rxRlnZxGR) | [Hey Bandit!](https://open.spotify.com/artist/2yzrbMnmjvrupo4AuOwnRJ), [Gibrán Serrano](https://open.spotify.com/artist/2iXLevANnYqq76VN1xaBYc) | [Siempre](https://open.spotify.com/album/1pcGdOq2pFTBjivCc8CqbI) | 2:57 | 2023-04-14 | 2023-04-22 |
 | [Siempre Fuerte](https://open.spotify.com/track/6x8GV4GRH2hZ8eeRmpMrC4) | [Skates Mx](https://open.spotify.com/artist/2P3698bE1ZmRUy8KljStTv) | [Y Si Patinan?](https://open.spotify.com/album/3AVCV6rOUqSxWt9YRf3IjD) | 3:36 | 2021-11-26 |  |
 | [Siempre la Cago](https://open.spotify.com/track/4iNZvtt1Bn0oCIMf8giWRF) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Interface](https://open.spotify.com/artist/7MTsoppc8uObq6H28nH0rd) | [Siempre la Cago](https://open.spotify.com/album/5mxQSrhYKGDhsxhMJEi37z) | 3:34 | 2021-11-26 | 2022-07-21 |
 | [Te Vale Madre](https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Te Vale Madre](https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7) | 3:10 | 2022-12-21 |  |

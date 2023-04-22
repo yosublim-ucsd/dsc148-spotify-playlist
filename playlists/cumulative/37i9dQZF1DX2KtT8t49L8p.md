@@ -4,7 +4,7 @@
 
 > Awaken and connect through meditation with Theta frequencies.
 
-57 songs - 3 hr 6 min
+59 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Binaural Theta Sinus 130 Hz \- L 137 Hz \- R](https://open.spotify.com/track/1jPN5Xa821C5NdYKw6WDe5) | [Dorthe Gretchen](https://open.spotify.com/artist/4SEREG9de5QCdwWGK0wYvp) | [Binaural Theta Sinus 100 Hz \- L 106 Hz \- R](https://open.spotify.com/album/3EGpIZLTLZuFdrsPi9vSnK) | 2:17 | 2023-03-16 |  |
 | [Binaural Theta Sinus 131Hz \- 137Hz](https://open.spotify.com/track/4GeVv05S6CEI3MF67uR5Sv) | [Sonic Whales](https://open.spotify.com/artist/64wCZb1sv0BBcay25AYmBH) | [The Art Of Meditation and Creativity](https://open.spotify.com/album/05OdJyl7TctTFyUlHgg8EX) | 2:35 | 2023-03-16 |  |
 | [Binaural Theta Sinus 220Hz \- 226Hz](https://open.spotify.com/track/7MIq7As5oZfNjXhVzJugYN) | [Sonic Whales](https://open.spotify.com/artist/64wCZb1sv0BBcay25AYmBH) | [The Art Of Meditation and Creativity](https://open.spotify.com/album/05OdJyl7TctTFyUlHgg8EX) | 3:31 | 2023-03-16 |  |
+| [Binaural Theta Sinus 250\-254 Hz \- Meditation](https://open.spotify.com/track/0JhhVmnkDq51PNqZ1KkvUe) | [Higher Highs](https://open.spotify.com/artist/4b6guplHYPbkerTOAplBK8) | [Binaural Theta Sinus 250\-254 Hz \- Meditation](https://open.spotify.com/album/2HPaar7Vy3qZWdrhdcwC1P) | 2:38 | 2023-04-21 |  |
 | [Binaural Theta Sinus 95 Hz \- 99 Hz](https://open.spotify.com/track/37xOsuprF7WMKID6fBXRMO) | [Maroon Skies](https://open.spotify.com/artist/6DbYZxD7WulhTEfLKvm9um) | [Binaural Theta Sinus 95 Hz \- 99 Hz](https://open.spotify.com/album/5kj2Eg808u8lOQiupkWaaU) | 2:36 | 2023-03-16 |  |
 | [Binaural Theta Sinus 95 Hz \- 99 Hz](https://open.spotify.com/track/7pbiAcJ9s27XaPJDgeePok) | [Theta Aum](https://open.spotify.com/artist/7JqEtz50hLij7xaWbuWV42) | [Binaural Theta Sinus 95 Hz \- 99 Hz](https://open.spotify.com/album/74vYTUE07u6O7Cc2HdhzL0) | 3:31 | 2023-03-16 |  |
 | [Binaural Theta Sinus 95 Hz \- 99 Hz Drone](https://open.spotify.com/track/494xMwyUCP3q99dYKkQ873) | [Ambient Tech](https://open.spotify.com/artist/08Ava0X5w3SgoLnrpJMZf8) | [Relaxing Theta Drones](https://open.spotify.com/album/3wyAWfCA8wUEFREHig6xQ8) | 3:38 | 2023-03-16 |  |
@@ -43,6 +44,7 @@
 | [Purple Night \(Theta Binaural\)](https://open.spotify.com/track/4jMT24JGe191KtWPERax3D) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Binaural Theta for Sleep](https://open.spotify.com/album/7rpR7N25fNVUyqFZT32xAh) | 3:24 | 2023-03-16 |  |
 | [Relieving Stress \(Binaural Theta\)](https://open.spotify.com/track/1zJrYUIt1IIL6xz6lXjZgL) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Recenter Your Mind](https://open.spotify.com/album/2XAbBsUESUVWkQKY5zYGGM) | 3:28 | 2023-03-16 |  |
 | [Skies REM \(Theta version\)](https://open.spotify.com/track/0Eh77Tpr1WLlOEeLnCX0nj) | [Oxling](https://open.spotify.com/artist/73SkmKIR5vRmySvCyc45cQ) | [Momentum](https://open.spotify.com/album/1ws82K8yfBPnVfBUu9BH7P) | 2:41 | 2023-03-16 |  |
+| [Theta Brain Waves 185 Hz \- 190Hz](https://open.spotify.com/track/5fdR2Iv1yNWc6GXpTaY1iu) | [Mission Venus](https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB) | [Theta Brain Waves 185 Hz \- 190Hz](https://open.spotify.com/album/6ta2g3374zEtP6sucEYesr) | 3:12 | 2023-04-21 |  |
 | [Theta Dreams 64 + 67,3 hz](https://open.spotify.com/track/2H2LtSnmXMh7yOeCcoyyH3) | [Polyphonic Grain](https://open.spotify.com/artist/78E2eTF9jgp4w9XyfL44RB) | [Binaural Theta Waves](https://open.spotify.com/album/0q4tBTB2yPbfE1u4nAvfWy) | 3:31 | 2023-03-16 |  |
 | [Theta Drift 6 Hz](https://open.spotify.com/track/6XXY8bDfm9IvT2mZL14hir) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Drift](https://open.spotify.com/album/7s28ywx1Jtag67oWdFS4Gw) | 3:18 | 2023-03-16 |  |
 | [Theta Flow \(101Hz \- 108Hz\)](https://open.spotify.com/track/0NzHTf3IWQZT414Qie8iUp) | [Binaural Explorer](https://open.spotify.com/artist/4kJq7s8Maym8UFfZlHEkog) | [Gradual States](https://open.spotify.com/album/0JAn0eYBFo9i8rZS6uuo6n) | 3:09 | 2023-03-16 |  |

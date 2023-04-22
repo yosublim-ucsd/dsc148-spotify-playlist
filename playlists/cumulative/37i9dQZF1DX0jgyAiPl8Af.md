@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-582 songs - 1 day 1 hr 23 min
+583 songs - 1 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,7 +391,8 @@
 | [Ora](https://open.spotify.com/track/48ZikPYw78eh61z9lTK5jL) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Ora](https://open.spotify.com/album/4QgCRsTAbAXd0mGIYOIEvc) | 2:46 | 2021-12-08 | 2022-05-11 |
 | [Oratorio](https://open.spotify.com/track/0szJMi1UBk6b5SftVSvWYW) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Oratorio](https://open.spotify.com/album/50tcBrMk7BjbwSNgUsv67V) | 2:02 | 2022-06-17 | 2023-04-21 |
 | [Ordino](https://open.spotify.com/track/2OQ8WuB2K93XqZhwCh6aSv) | [Kaspar Mann](https://open.spotify.com/artist/7hZPqfKfcyqVgLOQ5vOGk8) | [Ordino](https://open.spotify.com/album/17Ur7n3dhPusy2R1M9UO0i) | 2:37 | 2021-12-08 |  |
-| [Origins](https://open.spotify.com/track/69D9LtJfcaMnY7S47ZjiPd) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Origins](https://open.spotify.com/album/4j0GD89RIFQGPphIKm9StA) | 2:03 | 2022-09-02 |  |
+| [Origins](https://open.spotify.com/track/2v86cHUt2Dv7pCdGinwLaB) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Origins](https://open.spotify.com/album/0aI9XXnV0o6d5d6qvLFIrG) | 2:03 | 2023-04-21 |  |
+| [Origins](https://open.spotify.com/track/69D9LtJfcaMnY7S47ZjiPd) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Origins](https://open.spotify.com/album/4j0GD89RIFQGPphIKm9StA) | 2:03 | 2022-09-02 | 2023-04-22 |
 | [Outerinho](https://open.spotify.com/track/07ulGbvQJporStcKaTxnaY) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Pescadores](https://open.spotify.com/album/6PZrP9DIw8EYEwkuyZm7Pj) | 3:05 | 2022-05-27 |  |
 | [Over Mountains](https://open.spotify.com/track/7mulz7LGV4FNpu1So4WbxN) | [Anila Mirela](https://open.spotify.com/artist/5ZyBxKhm8yMw8HCMWE5u3b) | [Over Mountains](https://open.spotify.com/album/2JFtP3WWdYxB5KwJgkYDo3) | 2:02 | 2022-05-27 | 2022-09-09 |
 | [Pacifiquement](https://open.spotify.com/track/5Ge0efczeqLMSLW7PuYezG) | [Antoine Gasquet](https://open.spotify.com/artist/1fXaIo98PufpTCJsXLtRVt) | [Pacifiquement](https://open.spotify.com/album/3zmOaoYfYtYtsZXPYJKmmn) | 2:26 | 2021-12-08 |  |

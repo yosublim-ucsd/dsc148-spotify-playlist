@@ -2,9 +2,9 @@
 
 ### [R&B Rising](https://open.spotify.com/playlist/37i9dQZF1DWUbo613Z2iWO)
 
-> R&B of the moment by the artists of the future\. Cover: Khamari
+> R&B of the moment by the artists of the future\. Cover: GoGo Morrow
 
-575 songs - 1 day 5 hr 43 min
+577 songs - 1 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,7 @@
 | [INSIDE](https://open.spotify.com/track/1j1KbCOTYAGdfDJ0hsuLhc) | [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [INSIDE](https://open.spotify.com/album/3K1RiDgcaxkA2NctK2jdID) | 3:54 | 2022-01-28 | 2022-03-18 |
 | [Into U](https://open.spotify.com/track/5g4KLM2NfniEg0beTTrZtW) | [Dxvn.](https://open.spotify.com/artist/3UzhllIYKcLay5xslYF85U) | [Into U](https://open.spotify.com/album/0nLdXVXDhqaoEH3iJwtKRt) | 3:03 | 2022-04-08 | 2022-05-14 |
 | [Introvert Hotline](https://open.spotify.com/track/5SQxSIapsaziYnZRLwfPSU) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Introvert Hotline](https://open.spotify.com/album/0HxAmiI6pF4ZRaLGv63HnX) | 3:17 | 2022-03-11 | 2022-04-02 |
-| [Is This Real Love? \(feat\. Lucky Daye\) \- Remix](https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Is This Real Love? \(feat\. Lucky Daye\)](https://open.spotify.com/album/7wEXjP2EIz3p3EmmCXg958) | 2:59 | 2023-02-17 |  |
+| [Is This Real Love? \(feat\. Lucky Daye\) \- Remix](https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Is This Real Love? \(feat\. Lucky Daye\)](https://open.spotify.com/album/7wEXjP2EIz3p3EmmCXg958) | 2:59 | 2023-02-17 | 2023-04-22 |
 | [ISLY](https://open.spotify.com/track/7tjinNOtfRQydDmXFPzfbL) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Closer](https://open.spotify.com/album/5qvBGoEtTh1P8abEJ99D91) | 3:05 | 2022-05-06 | 2022-07-10 |
 | [It's About A Girl](https://open.spotify.com/track/2tKXH7NdVrrjDvQrv9CCVd) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [It's About A Girl](https://open.spotify.com/album/3wZCwdtuCqWVuygemGAVGL) | 3:21 | 2021-12-15 | 2022-02-26 |
 | [IT'S YOURS](https://open.spotify.com/track/10wts7gW6XFI4k1BrDKsAc) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 1:30 | 2022-11-11 |  |
@@ -347,6 +347,7 @@
 | [Naturally](https://open.spotify.com/track/2nQF3xgFXtXVUlaQNiUARI) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Naturally](https://open.spotify.com/album/3iAuliy1vZqifIJEfXRbK3) | 3:14 | 2022-02-18 | 2022-03-26 |
 | [Never](https://open.spotify.com/track/14ABt5PRAULFoVVVUsQV0J) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [No Longer in the Suburbs \(Deluxe\)](https://open.spotify.com/album/2j2XtfzuhGKNxsmM4rI3xi) | 3:54 | 2022-11-04 | 2023-01-21 |
 | [No Closure](https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [No Closure](https://open.spotify.com/album/00zNoLWUcrXKUnstmShe6q) | 3:05 | 2022-08-12 | 2023-02-25 |
+| [No Feelings](https://open.spotify.com/track/7KQPINPzT8M3ynLnWhl45M) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [No Feelings](https://open.spotify.com/album/4JUDavAIny5Dww4tFD712w) | 2:49 | 2023-04-21 |  |
 | [No Lie](https://open.spotify.com/track/02BBBmB5NZUrsjrm7Janc5) | [Naisha](https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI) | [Back & Forth](https://open.spotify.com/album/0oJzHZMh9yO3PaDRgD23G4) | 3:17 | 2022-05-13 | 2022-07-10 |
 | [No R&B](https://open.spotify.com/track/4to9r81T8XZH2H4VPwxBZj) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [No R&B](https://open.spotify.com/album/3EzKwOcet7cQm3UnJdsCVH) | 3:34 | 2021-12-15 | 2022-03-12 |
 | [NOBODY KNOWS](https://open.spotify.com/track/3OJ1TK767oRsv44iHeiCV9) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 2:47 | 2022-11-11 | 2023-01-21 |
@@ -539,6 +540,7 @@
 | [tryin'](https://open.spotify.com/track/6duHdmejOzmN50yAyov3me) | [Hydra](https://open.spotify.com/artist/04IZ5jHUHqhsKtfpOsbztY) | [karma/tryin'](https://open.spotify.com/album/7MIw0DITwU9Hdw1d8EMFGn) | 2:59 | 2022-04-15 | 2022-05-21 |
 | [U Betta](https://open.spotify.com/track/2OF9aQTc1njv5oAbb70hyp) | [Ayanis](https://open.spotify.com/artist/0ce3UlXwNzZPkj78XYLE7V), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [U Betta](https://open.spotify.com/album/7yZPf3CYymoGrMpREMFyaD) | 2:20 | 2022-05-20 | 2022-07-02 |
 | [Uncomplicated](https://open.spotify.com/track/0X9mvqR44xcw6oLo89kn92) | [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Uncomplicated](https://open.spotify.com/album/4TjOZMU3Npr6rAiqAy5UW0) | 3:36 | 2022-06-17 | 2022-07-16 |
+| [UNDERSTAND \(feat\. Baby Rose\)](https://open.spotify.com/track/1RHob2sw5X81Ukn4BYPbmF) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [UNDERSTAND](https://open.spotify.com/album/6DQ6LpJlvhoamE6Qg6plAX) | 4:03 | 2023-04-21 |  |
 | [Unless](https://open.spotify.com/track/2K6Qg2lX5mUb11no6S5Ma0) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Unless](https://open.spotify.com/album/69NeEDtsHX9D4Nq6YHague) | 1:36 | 2022-07-22 | 2022-08-27 |
 | [Vibrate \(feat\. Pink Sweat$\)](https://open.spotify.com/track/5rnDy5QVLVH4A73A3C1PpF) | [IV JAY](https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Vibrate \(feat\. Pink Sweat$\)](https://open.spotify.com/album/5lf1nBM3xVI6tqsRoTUqlw) | 2:27 | 2021-12-15 | 2022-03-06 |
 | [Wasteland](https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 2:27 | 2022-09-30 | 2023-01-21 |

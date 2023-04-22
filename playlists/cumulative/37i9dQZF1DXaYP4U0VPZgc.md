@@ -4,7 +4,7 @@
 
 > 作詞・作曲・編曲を手掛けるマルチ音楽コンポーザー。映画・アニメ・ゲーム・舞台・TVなど幅広い分野で活躍。Kalafinaのプロデュースや自身のユニットSee\-Saw、新プロジェクトFictionJunctionとしての活動でも知られ、ヨーロッパと東洋のエッセンスが融合した独自の世界観で熱い支持を集めている。
 
-104 songs - 8 hr 2 min
+105 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [fake wings](https://open.spotify.com/track/57TCwW3DTmdgcmZJ2kI4S8) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [FICTION](https://open.spotify.com/album/2w1GcYScuH5MSCFtAjalbS) | 2:35 | 2022-02-28 |  |
 | [Fields of hope](https://open.spotify.com/track/3ac0U3m8f5gVBFhoJJ0KE8) | [ラクス・クライン\(田中理恵\)](https://open.spotify.com/artist/5o8QrLIxY6vRmQUEXQI6pu) | [Fields of hope](https://open.spotify.com/album/6DjJGXV9Yn8jqd3Vfy08qC) | 5:09 | 2022-02-28 |  |
 | [from the edge](https://open.spotify.com/track/1HXRps6gmF8yMZPsJ6n9Zk) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [from the edge](https://open.spotify.com/album/6k8gWO2UT7VTHRGULu5xp7) | 4:38 | 2022-02-28 | 2022-07-29 |
-| [from the edge](https://open.spotify.com/track/1acwOlcOCrr0AxdyMS8fEm) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [from the edge](https://open.spotify.com/album/6Momtl3Eyp2g40MQU0r0I8) | 4:38 | 2022-02-28 |  |
+| [from the edge](https://open.spotify.com/track/1acwOlcOCrr0AxdyMS8fEm) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [from the edge](https://open.spotify.com/album/6Momtl3Eyp2g40MQU0r0I8) | 4:38 | 2022-02-28 | 2023-04-22 |
+| [from the edge](https://open.spotify.com/track/7LNsUhex5MXY66jiYGCxFT) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [PARADE](https://open.spotify.com/album/3Eyw8aU1Fn25ctcjd3GnMq) | 4:40 | 2023-04-18 |  |
 | [Goodbye, my friend](https://open.spotify.com/track/454C51zL7IiekSmRb1koet) | [Syoko Suzuki](https://open.spotify.com/artist/1dQ7xDSEzOfKvhoc7ehei5) | [RADIO GENIC](https://open.spotify.com/album/1h5kmMoLw8h15IN3nzfSih) | 3:42 | 2022-02-28 |  |
 | [Goodbye, my friend](https://open.spotify.com/track/68uKQ73Lvm6VVgjk4U1OVl) | [Syoko Suzuki](https://open.spotify.com/artist/1dQ7xDSEzOfKvhoc7ehei5) | [RADIO GENIC](https://open.spotify.com/album/2E0Qbz4v1az68P3GmCODGn) | 3:42 | 2022-02-28 | 2022-07-29 |
 | [heavenly blue](https://open.spotify.com/track/5qpUyii8Sh8DZay1IoVFtj) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [THE BEST “Blue”](https://open.spotify.com/album/7uUEGK4CTDdLzoFQ5BKxNm) | 5:20 | 2022-02-28 |  |

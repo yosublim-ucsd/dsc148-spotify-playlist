@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Aqu\u00ed est\u00e1 el sonido urbano de Venezuela. Cover: Nacho, Jerry Di\n",
+  "description": "Aqu\u00ed est\u00e1 el sonido urbano de Venezuela. Cover: Irepelusa",
   "name": "Flow Venezuela",
   "tracks": [
     {
@@ -249,6 +249,32 @@
     },
     {
       "album": {
+        "name": "ALL-YOU-CAN-EAT VOL. 2",
+        "url": "https://open.spotify.com/album/3gKRdhd8p3nBPqxnmOBQ9T"
+      },
+      "artists": [
+        {
+          "name": "Comida Para Llevar",
+          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
+        },
+        {
+          "name": "Veztalone",
+          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
+        },
+        {
+          "name": "Tayko",
+          "url": "https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Besayuno",
+      "url": "https://open.spotify.com/track/1dBhKaM4ybPl3WcCJGVhA5"
+    },
+    {
+      "album": {
         "name": "Brujer\u00eda",
         "url": "https://open.spotify.com/album/5oaQ0wLZfmH8V7swwzZwHl"
       },
@@ -490,7 +516,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 313455,
       "name": "Combina",
       "url": "https://open.spotify.com/track/3ZRstEup7FvszzoJaDbDWk"
@@ -611,6 +637,28 @@
     },
     {
       "album": {
+        "name": "Cuchi",
+        "url": "https://open.spotify.com/album/3smXUWOg26SSZj907yXF2Z"
+      },
+      "artists": [
+        {
+          "name": "MARI",
+          "url": "https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU"
+        },
+        {
+          "name": "YUNGLiAN MEDiOCRE BROKE BOi",
+          "url": "https://open.spotify.com/artist/0c3pqws6HYDBgZmZnhKzcc"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158677,
+      "name": "Cuchi",
+      "url": "https://open.spotify.com/track/3z7Yz7cF5l5H0DJFj7vngz"
+    },
+    {
+      "album": {
         "name": "Un Koala En Una Palmera",
         "url": "https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U"
       },
@@ -622,7 +670,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 183529,
       "name": "Curarte",
       "url": "https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4"
@@ -640,7 +688,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 132586,
       "name": "DCDT",
       "url": "https://open.spotify.com/track/1apSC9rsvoo2vJfeFCrHvp"
@@ -908,6 +956,32 @@
       "duration_ms": 214781,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/18hAN4TYNwXERnzAzZu5Tt"
+    },
+    {
+      "album": {
+        "name": "Halls de Menta",
+        "url": "https://open.spotify.com/album/0dUimFfYkFEWcgzsqc3Oaf"
+      },
+      "artists": [
+        {
+          "name": "ADSO",
+          "url": "https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf"
+        },
+        {
+          "name": "Papi Sousa",
+          "url": "https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7"
+        },
+        {
+          "name": "Lui5",
+          "url": "https://open.spotify.com/artist/0gfBmg53uxgAVNEDB23X5n"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230770,
+      "name": "Halls de Menta",
+      "url": "https://open.spotify.com/track/6irAgzFb8mbG8UlKITIMRA"
     },
     {
       "album": {
@@ -1336,7 +1410,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 241111,
       "name": "Migas",
       "url": "https://open.spotify.com/track/61CeB3Wd4hkun9MhuO0fES"
@@ -1472,6 +1546,24 @@
       "duration_ms": 190866,
       "name": "Oh qu\u00e9 ser\u00e1? (feat. Irepelusa & Veztalone)",
       "url": "https://open.spotify.com/track/11jJjmMgj3vNPwuhzEQSC7"
+    },
+    {
+      "album": {
+        "name": "ORIGEN",
+        "url": "https://open.spotify.com/album/4f42ReMA8tVrqw6OD3gDGn"
+      },
+      "artists": [
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117000,
+      "name": "ORIGEN",
+      "url": "https://open.spotify.com/track/5VzmwYIbOLNJGBm76Og9RH"
     },
     {
       "album": {
@@ -1652,6 +1744,24 @@
       "duration_ms": 199093,
       "name": "Raro",
       "url": "https://open.spotify.com/track/4DEldV3wQKjbMRhVw64bg6"
+    },
+    {
+      "album": {
+        "name": "Rayos, Besos, Fallos",
+        "url": "https://open.spotify.com/album/3WKuSgBB4A9w3HRO8Ct3tU"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Rayos, Besos, Fallos",
+      "url": "https://open.spotify.com/track/0FrXpDbnUJlRBQBgAZtwpG"
     },
     {
       "album": {
@@ -1920,7 +2030,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 201379,
       "name": "Tony",
       "url": "https://open.spotify.com/track/62HtZvWktEwwqS4pppOomi"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Mutonia in cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,700 likes - 71 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,710 likes - 71 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1008,12 +1008,12 @@
       },
       "artists": [
         {
-          "name": "Lolloflow",
-          "url": "https://open.spotify.com/artist/6od7hFnrVLa1zCuSyQimic"
-        },
-        {
           "name": "Matteo Paolillo - Icaro",
           "url": "https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J"
+        },
+        {
+          "name": "Lolloflow",
+          "url": "https://open.spotify.com/artist/6od7hFnrVLa1zCuSyQimic"
         }
       ],
       "date_added": "2023-04-20",

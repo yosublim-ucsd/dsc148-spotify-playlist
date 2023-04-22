@@ -1,12 +1,12 @@
 {
   "description": "romanticizing indie music",
-  "num_followers": 74963,
+  "num_followers": 75351,
   "original_name": "The summer I turned indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTA5MjE1OCwwMDAwMDAwMGQyMWM0MGJkNjZmODgxMmE5YTA2NmQxZWRlZjI1MWI5",
+  "snapshot_id": "MTY3NTA5MjE1OCwwMDAwMDAwMGY2MWIzMjg3OGMyMmNiOGNmMDU5YzE4M2ZjZDI5Yzg3",
   "tracks": [
     {
       "added_at": "2023-01-30 15:22:38",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
+        "name": "Next Thing",
+        "url": "https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1"
+      },
+      "artists": [
+        {
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+        }
+      ],
+      "duration_ms": 112879,
+      "name": "Sappho",
+      "url": "https://open.spotify.com/track/5DIGt883aHs3KqWSziy4gR"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
         "name": "Impatience",
         "url": "https://open.spotify.com/album/5EHlNWLkGeSSpWkKpDNptJ"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 154500,
       "name": "Impatience",
       "url": "https://open.spotify.com/track/3BiTSDAHDZeQSJEwM9EprI"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
-        "name": "Next Thing",
-        "url": "https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1"
-      },
-      "artists": [
-        {
-          "name": "Frankie Cosmos",
-          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
-        }
-      ],
-      "duration_ms": 112879,
-      "name": "Sappho",
-      "url": "https://open.spotify.com/track/5DIGt883aHs3KqWSziy4gR"
     },
     {
       "added_at": "2023-01-30 15:22:38",

@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: INNA",
-  "num_followers": 892435,
+  "num_followers": 892398,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ3NDMxNiwwMDAwMDAwMGE3YWM2MzFlNGJiMTQ3ZWI2NGU0NTQxZjE0ODNmNTZi",
+  "snapshot_id": "MTY4MTQ3NDMxNiwwMDAwMDAwMDc1YmMzOTM0YzQ2ZTE2MWIxNzkwZjMyYzUwZTcwODMx",
   "tracks": [
     {
       "added_at": "2023-04-05 04:00:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
+        "name": "\u05dc\u05d0 \u05e9\u05d5\u05de\u05e2\u05ea (Prod. by Triangle)",
+        "url": "https://open.spotify.com/album/3nxNC2KSRt306Go8ELMh87"
+      },
+      "artists": [
+        {
+          "name": "Agam Buhbut",
+          "url": "https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i"
+        }
+      ],
+      "duration_ms": 173538,
+      "name": "\u05dc\u05d0 \u05e9\u05d5\u05de\u05e2\u05ea (Prod. by Triangle)",
+      "url": "https://open.spotify.com/track/6CbXdfNyGnHf8hxFR5cAxD"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
         "name": "Asphalt (feat. pH-1)",
         "url": "https://open.spotify.com/album/6opRDXGetgN7pAaReSCb1N"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 176000,
       "name": "Asphalt (feat. pH-1)",
       "url": "https://open.spotify.com/track/58mChQUTpqCnaGYC6CCSD0"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
-        "name": "\u05dc\u05d0 \u05e9\u05d5\u05de\u05e2\u05ea (Prod. by Triangle)",
-        "url": "https://open.spotify.com/album/3nxNC2KSRt306Go8ELMh87"
-      },
-      "artists": [
-        {
-          "name": "Agam Buhbut",
-          "url": "https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i"
-        }
-      ],
-      "duration_ms": 173538,
-      "name": "\u05dc\u05d0 \u05e9\u05d5\u05de\u05e2\u05ea (Prod. by Triangle)",
-      "url": "https://open.spotify.com/track/6CbXdfNyGnHf8hxFR5cAxD"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "\u60c5\u6b4c\u6c92\u8aaa\u7684\u4e8b",
-        "url": "https://open.spotify.com/album/5QxiBMd8YTI9XsYEaKofuY"
-      },
-      "artists": [
-        {
-          "name": "\u674e\u4f73\u6b61",
-          "url": "https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH"
-        }
-      ],
-      "duration_ms": 234798,
-      "name": "\u60c5\u6b4c\u6c92\u8aaa\u7684\u4e8b",
-      "url": "https://open.spotify.com/track/2TcAhWtoD2raLezOYcsvxK"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "if i fall for you",
         "url": "https://open.spotify.com/album/5ZmHCATrtaAL8awlrlxBZW"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 186405,
       "name": "if i fall for you",
       "url": "https://open.spotify.com/track/1vtHdaq48zvFsHjYkn8R9a"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "\u60c5\u6b4c\u6c92\u8aaa\u7684\u4e8b",
+        "url": "https://open.spotify.com/album/5QxiBMd8YTI9XsYEaKofuY"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u4f73\u6b61",
+          "url": "https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH"
+        }
+      ],
+      "duration_ms": 234798,
+      "name": "\u60c5\u6b4c\u6c92\u8aaa\u7684\u4e8b",
+      "url": "https://open.spotify.com/track/2TcAhWtoD2raLezOYcsvxK"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -667,6 +667,30 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
+        "name": "Aye Khuda",
+        "url": "https://open.spotify.com/album/6cRFB01oyEXqAQCIH5qFos"
+      },
+      "artists": [
+        {
+          "name": "Sanam Marvi",
+          "url": "https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5"
+        },
+        {
+          "name": "Waqar Faiz",
+          "url": "https://open.spotify.com/artist/5PQ8zLBUFXDtS67TwbDOlY"
+        },
+        {
+          "name": "Rushil",
+          "url": "https://open.spotify.com/artist/1gHxomNGjRJHDAl7INHnxE"
+        }
+      ],
+      "duration_ms": 544565,
+      "name": "Aye Khuda",
+      "url": "https://open.spotify.com/track/7vIEXrKp0MXaGkiqJ8qVhx"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
         "name": "midnight rendezvous",
         "url": "https://open.spotify.com/album/4XAi7fxJkMgdqS73Wjte5J"
       },
@@ -711,30 +735,6 @@
       "duration_ms": 136662,
       "name": "Bebe",
       "url": "https://open.spotify.com/track/4cbbcvNAEwB1Mh6fvpFW0O"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
-        "name": "Aye Khuda",
-        "url": "https://open.spotify.com/album/6cRFB01oyEXqAQCIH5qFos"
-      },
-      "artists": [
-        {
-          "name": "Sanam Marvi",
-          "url": "https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5"
-        },
-        {
-          "name": "Waqar Faiz",
-          "url": "https://open.spotify.com/artist/5PQ8zLBUFXDtS67TwbDOlY"
-        },
-        {
-          "name": "Rushil",
-          "url": "https://open.spotify.com/artist/1gHxomNGjRJHDAl7INHnxE"
-        }
-      ],
-      "duration_ms": 544565,
-      "name": "Aye Khuda",
-      "url": "https://open.spotify.com/track/7vIEXrKp0MXaGkiqJ8qVhx"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Oh Dear",
-        "url": "https://open.spotify.com/album/27VCTA2nCe7ulozoaMTV2Y"
-      },
-      "artists": [
-        {
-          "name": "Isolde Lasoen",
-          "url": "https://open.spotify.com/artist/69LIgTfuoQOAiE5wbqkMci"
-        }
-      ],
-      "duration_ms": 218889,
-      "name": "Something French",
-      "url": "https://open.spotify.com/track/5n0vQkugV41imw4ZKn6WvA"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "We\u017a skr\u0119\u0107",
         "url": "https://open.spotify.com/album/7bZeRcZQbmGKoaxGZv1hDK"
       },
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
+        "name": "Oh Dear",
+        "url": "https://open.spotify.com/album/27VCTA2nCe7ulozoaMTV2Y"
+      },
+      "artists": [
+        {
+          "name": "Isolde Lasoen",
+          "url": "https://open.spotify.com/artist/69LIgTfuoQOAiE5wbqkMci"
+        }
+      ],
+      "duration_ms": 218889,
+      "name": "Something French",
+      "url": "https://open.spotify.com/track/5n0vQkugV41imw4ZKn6WvA"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
         "name": "Szia",
         "url": "https://open.spotify.com/album/5Ni6GqciWF1Uy4YiD6cPIw"
       },
@@ -1067,22 +1067,6 @@
       "duration_ms": 147924,
       "name": "Szia",
       "url": "https://open.spotify.com/track/4kMfc4jVR0Eyp5GJJgNgwL"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
-        "name": "3ALA BALI",
-        "url": "https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON"
-      },
-      "artists": [
-        {
-          "name": "Malak",
-          "url": "https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf"
-        }
-      ],
-      "duration_ms": 162102,
-      "name": "3ALA BALI",
-      "url": "https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "VATA",
-        "url": "https://open.spotify.com/album/0UVLp3xutGE0aQcAlbnmJ6"
+        "name": "3ALA BALI",
+        "url": "https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON"
       },
       "artists": [
         {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+          "name": "Malak",
+          "url": "https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf"
         }
       ],
-      "duration_ms": 96969,
-      "name": "VATA",
-      "url": "https://open.spotify.com/track/6psGi1f5EAL8S7zaF6nEtK"
+      "duration_ms": 162102,
+      "name": "3ALA BALI",
+      "url": "https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -1135,6 +1119,22 @@
       "duration_ms": 199137,
       "name": "Navego",
       "url": "https://open.spotify.com/track/5ADyMWZM9dBKvRjCrfbu7j"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "VATA",
+        "url": "https://open.spotify.com/album/0UVLp3xutGE0aQcAlbnmJ6"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "duration_ms": 96969,
+      "name": "VATA",
+      "url": "https://open.spotify.com/track/6psGi1f5EAL8S7zaF6nEtK"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/5Dl5pxAGvCQyTjQl98lEeB"
+      },
+      "artists": [
+        {
+          "name": "Laura Weng",
+          "url": "https://open.spotify.com/artist/7ucrdTkNkSFJNzWLc3ZFIy"
+        }
+      ],
+      "duration_ms": 219824,
+      "name": "My emotions",
+      "url": "https://open.spotify.com/track/0K1lWRuu7A6PeQwMmRQUeC"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
         "name": "No som el que fem i diem",
         "url": "https://open.spotify.com/album/1HDZWgUUtL8Bplgbv42Yyy"
       },
@@ -1265,20 +1281,20 @@
       "url": "https://open.spotify.com/track/04T93JsYDa5l5mwN7fG9L3"
     },
     {
-      "added_at": "2023-04-05 04:00:00",
+      "added_at": "2023-04-14 12:11:56",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/5Dl5pxAGvCQyTjQl98lEeB"
+        "name": "OLE",
+        "url": "https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy"
       },
       "artists": [
         {
-          "name": "Laura Weng",
-          "url": "https://open.spotify.com/artist/7ucrdTkNkSFJNzWLc3ZFIy"
+          "name": "Baaba J",
+          "url": "https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek"
         }
       ],
-      "duration_ms": 219824,
-      "name": "My emotions",
-      "url": "https://open.spotify.com/track/0K1lWRuu7A6PeQwMmRQUeC"
+      "duration_ms": 151932,
+      "name": "OLE",
+      "url": "https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -1311,22 +1327,6 @@
       "duration_ms": 121531,
       "name": "Bendici\u00f3n",
       "url": "https://open.spotify.com/track/05LC7bVfkMrW6Ojx59DJmI"
-    },
-    {
-      "added_at": "2023-04-14 12:11:56",
-      "album": {
-        "name": "OLE",
-        "url": "https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy"
-      },
-      "artists": [
-        {
-          "name": "Baaba J",
-          "url": "https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek"
-        }
-      ],
-      "duration_ms": 151932,
-      "name": "OLE",
-      "url": "https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF"
     }
   ],
   "unique_name": "EQUAL Global",

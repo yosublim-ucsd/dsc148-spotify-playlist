@@ -4,7 +4,7 @@
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-111 songs - 9 hr 56 min
+113 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Karjalan Poikia](https://open.spotify.com/track/1QKRrMtm4qo22TGO5qjMF1) | [Hot Heros](https://open.spotify.com/artist/4Qwj56r88a95geCz7UF6KA) | [Karjalan Poikia](https://open.spotify.com/album/1txoN5voopFmu3MDID7MG8) | 4:20 | 2022-09-02 |  |
 | [Kelo](https://open.spotify.com/track/5MaNwKdorJTKEMzKr4cL3i) | [Eero Koivistoinen Quartet](https://open.spotify.com/artist/7q1zywOL5kaYleRWJORLGo) | [Diversity](https://open.spotify.com/album/2Z8qjhaLu9SYLtt7YuKNgD) | 5:12 | 2022-09-22 |  |
 | [Ketunnokka](https://open.spotify.com/track/3YvK6bdj8mGao5f2CCVBdz) | [Kadi Vija Key Project](https://open.spotify.com/artist/3eQyWxtFpfGfVLPBgO9LY5) | [Ketunnokka](https://open.spotify.com/album/2592dCUKaQyPcmgUP4gszv) | 6:07 | 2022-09-22 |  |
+| [Kevät](https://open.spotify.com/track/3rWFDscuVW07OAnF2prqeR) | [Teea Aarnio](https://open.spotify.com/artist/4OOpIlBLL7ldq83P15jkQM) | [Kevät](https://open.spotify.com/album/1Us0cdS58DFuVqItyz2LpM) | 3:49 | 2023-04-21 |  |
 | [Keväthuuto](https://open.spotify.com/track/3M7VQWhLMGX1HxnErLvpNs) | [Aili Järvelä](https://open.spotify.com/artist/6r1mVyGnnq60IThQV3Is8j), [Sointi Jazz Orchestra](https://open.spotify.com/artist/04g062lZmJMKPKgMkL9E4q) | [Unituulia](https://open.spotify.com/album/4ea1eOXdoToRal6XqcSoci) | 5:28 | 2022-09-02 |  |
 | [Knud, The Storm](https://open.spotify.com/track/3ETNUor97PlUMlDz2Tzo6D) | [AAVA](https://open.spotify.com/artist/2ECU46fzhybPUitpp31KjM) | [AAVA](https://open.spotify.com/album/3OwrvmPDdZqXJyjN2mqU2N) | 6:47 | 2022-09-02 |  |
 | [Kullankaivaja](https://open.spotify.com/track/0SW6Bq46YRsVDzn3MtXc1u) | [Sofia Perhomaa](https://open.spotify.com/artist/7I6tcN1kF9cD5sqOLuqgAW) | [Kullankaivaja](https://open.spotify.com/album/512ObtUfgxYWN5pAqgK572) | 3:51 | 2022-09-02 |  |
@@ -95,6 +96,7 @@
 | [Sgr A\*](https://open.spotify.com/track/5v0y5dl1jFmnLLjLsbRVlE) | [Ilmiliekki Quartet](https://open.spotify.com/artist/5lyAsOhlvbGujJCVQoDC1B), [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX), [Tuomo Prättälä](https://open.spotify.com/artist/06xoCURLIPFP4LvhXi8aLx), [Antti Lötjönen](https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR), [Olavi Louhivuori](https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT) | [Ilmiliekki Quartet](https://open.spotify.com/album/6STx4DRg71CIIy5w8mEiMC) | 5:49 | 2022-09-02 |  |
 | [Shadowfigures](https://open.spotify.com/track/2HbR5EYtL80OAD9FyuJM6B) | [Ossi Maristo](https://open.spotify.com/artist/5I9LZoXt7mUkOeahs0RzcQ) | [Shadowfigures](https://open.spotify.com/album/4nC5ROOKDzc5gUOM6gPRMl) | 7:53 | 2022-09-02 |  |
 | [Side Effect](https://open.spotify.com/track/3wIKPsBqmjf4vYqiNw8Z8t) | [Lithium](https://open.spotify.com/artist/0mszOp1fVDXGkEaFZahjBD), [Gianni Gagliardi](https://open.spotify.com/artist/6LDz8KuyNl7gzVvMLUWQ1X) | [Side Effect](https://open.spotify.com/album/5iaRtB7KTg8xSCoNIl4EiS) | 7:06 | 2022-09-02 |  |
+| [Silver Lining](https://open.spotify.com/track/57bfuyhyiUI3clhgozihNJ) | [Peela](https://open.spotify.com/artist/5vgx2GUNPPiJ7tyE9xtVZA), [Rafa Postel](https://open.spotify.com/artist/6CthIuM1u1D6GRTdP3Aqsm) | [Silver Lining](https://open.spotify.com/album/05o6US7XdwkkfJwJoZofcJ) | 6:18 | 2023-04-21 |  |
 | [Siskolle](https://open.spotify.com/track/1MZFxoyX9Ya7Dp2gduP61z) | [Riitta Paakki Quartet](https://open.spotify.com/artist/5bRcSELkt9fC6omXgIaE66), [Joonas Riippa](https://open.spotify.com/artist/21QtF2eJhE5KpCFib3zfqO), [Antti Lötjönen](https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR), [Manuel Dunkel](https://open.spotify.com/artist/7j2FF5LqjO8mB3iT2PxnV8) | [Siskolle](https://open.spotify.com/album/6R9scIfEiM51YThGUw1zue) | 8:11 | 2023-03-17 |  |
 | [Somewhere \- Live](https://open.spotify.com/track/4xKzPEenA1MQHpbwG7xCy7) | [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn), [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL) | [Potsdam](https://open.spotify.com/album/3QyROvaV6jKq8GIEIzUwop) | 3:21 | 2022-09-02 |  |
 | [Sörnäinen](https://open.spotify.com/track/01qQCb8v73UKqrdr3z4Ydn) | [Artturi Rönkä](https://open.spotify.com/artist/5OUO2uQgJ6P0eWW4SxMdac), [Daniel Sommer](https://open.spotify.com/artist/3BWDiqu2vlyz18ZDMsZ5VO), [Kasperi Sarikoski](https://open.spotify.com/artist/1yNUIy8ESiCTqEcCcf0snT) | [Sörnäinen](https://open.spotify.com/album/5vLh5LYQOIEbyrTEeQ1stg) | 4:56 | 2022-09-02 | 2023-03-04 |

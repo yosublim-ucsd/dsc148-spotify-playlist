@@ -4,7 +4,7 @@
 
 > Dreamy springtime melodies to watch the flowers bloom 🌷
 
-495 songs - 1 day 7 hr 2 min
+496 songs - 1 day 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Coast](https://open.spotify.com/track/4ih6tIjbm3jJMjHYwYe7x9) | [Participant](https://open.spotify.com/artist/7G3EOvlud2ZumHznucmZPc) | [Modern Retelling](https://open.spotify.com/album/07ztbIFK4y5fAlIzrUra9z) | 3:57 | 2021-12-20 | 2022-03-22 |
 | [Coastline](https://open.spotify.com/track/4sDbdBjuYQVdNNB4PiHUPo) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Wanderlust](https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw) | 3:53 | 2022-12-21 |  |
 | [Collateral](https://open.spotify.com/track/0WwBPTz2wuv3A8qLIklg6y) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [Collateral](https://open.spotify.com/album/4rDtkcswamhTIK6xOEgbWF) | 2:59 | 2022-09-06 | 2022-12-21 |
+| [Come On Spring](https://open.spotify.com/track/6ocxm5zrBHtj6PQV7JYiLd) | [Luluc](https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72) | [Come On Spring](https://open.spotify.com/album/4tAAri02KnY6zQ7Rtm99fG) | 3:35 | 2023-04-21 |  |
 | [Consolation Prize](https://open.spotify.com/track/71wiJ619MbaSStsiN6XT06) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Consolation Prize](https://open.spotify.com/album/5KyVj6FfbV3lwwMIXyQeZ1) | 4:00 | 2022-06-07 | 2022-09-07 |
 | [Constantly](https://open.spotify.com/track/7i7a9AYgpKIcjmqBDENEoy) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Constantly](https://open.spotify.com/album/0OjlnHNdy3QtNaxwpYPg98) | 3:26 | 2021-12-20 | 2022-03-22 |
 | [Contrails](https://open.spotify.com/track/7FfzzH3wQ2voAj9tE5aRhD) | [All The Luck In The World](https://open.spotify.com/artist/60ewzuY3lVH0QElQbFagIS) | [A Blind Arcade](https://open.spotify.com/album/6F6H7R7YMnHkkQjZ5hohzP) | 4:42 | 2022-03-21 | 2022-06-08 |

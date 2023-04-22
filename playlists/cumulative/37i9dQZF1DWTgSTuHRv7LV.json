@@ -892,7 +892,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 211000,
       "name": "Bacanora",
       "url": "https://open.spotify.com/track/1Sn1dtN2rVnOo3cqelNFRb"
@@ -6222,6 +6222,28 @@
       "duration_ms": 250750,
       "name": "M\u00fasica Tumbada",
       "url": "https://open.spotify.com/track/1FLwEHGsEZhtMEJWe68iU4"
+    },
+    {
+      "album": {
+        "name": "Nadie Sabe",
+        "url": "https://open.spotify.com/album/2uhNRyShqgZ0ztcX2eVsUs"
+      },
+      "artists": [
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Nadie Sabe",
+      "url": "https://open.spotify.com/track/6mna72pJ6vnWVM5HiDPXE4"
     },
     {
       "album": {

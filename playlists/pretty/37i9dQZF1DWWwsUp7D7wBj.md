@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwsUp7D7wBj.md) - [plain]
 
 > Todo lo que es cultura pop\. ¡La música mexicana está al tope con Eslabon Armado y Peso Pluma! \#1, \#2 y \#3  global 🏆
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,703 likes - 25 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,781 likes - 25 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

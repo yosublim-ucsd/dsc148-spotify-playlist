@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX02ZZgizQgwX.md) - [plain]
 
 > Painting a beautiful palette of Melodic House, <a href="spotify:artist:1ikID9RZZMvkuBGDWrqajq">Kasbo</a> delivers sultry tonalities in his latest mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,627 likes - 20 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,637 likes - 20 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

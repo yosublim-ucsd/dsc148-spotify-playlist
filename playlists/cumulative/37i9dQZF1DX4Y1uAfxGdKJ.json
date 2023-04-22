@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Way To Go",
+        "url": "https://open.spotify.com/album/6vIOgYcqy779K08HZbUyOq"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Joel",
+          "url": "https://open.spotify.com/artist/0pnGMRqJU5tWr7Hu9u5GZq"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129145,
+      "name": "Caribbean Dream",
+      "url": "https://open.spotify.com/track/7qowRueNKMOI1ARK2ltG8K"
+    },
+    {
+      "album": {
         "name": "Casa Commercial",
         "url": "https://open.spotify.com/album/2TtYOujCGZcesSm6FEe24g"
       },
@@ -1256,6 +1274,24 @@
       "duration_ms": 268399,
       "name": "Lhotse",
       "url": "https://open.spotify.com/track/2nnC39bmk3IhgU6Y234PEW"
+    },
+    {
+      "album": {
+        "name": "Liberty",
+        "url": "https://open.spotify.com/album/6mgtlDn3NEr06rd4GYb6tR"
+      },
+      "artists": [
+        {
+          "name": "One Astra",
+          "url": "https://open.spotify.com/artist/3dMytoLrOfFv2VBrrdQzg6"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137739,
+      "name": "Liberty",
+      "url": "https://open.spotify.com/track/1cJQgFcJzvGTtDeckN3E4B"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Indie folk ventures into the cinematic West.
 
-165 songs - 10 hr 17 min
+166 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [The World Ender](https://open.spotify.com/track/3NNimGud58iHka1LHkda6D) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 4:30 | 2022-01-27 |  |
 | [The World Ender](https://open.spotify.com/track/3jdr1hbHLoKjZoriUVXmyx) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [The World Ender](https://open.spotify.com/album/4dFn93mbgleJkNUIJPp0Te) | 4:30 | 2019-10-31 | 2022-07-29 |
 | [The World Ender](https://open.spotify.com/track/5FWRsgxsexj4WzWua9LSXs) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [The World Ender](https://open.spotify.com/album/1K0cQknPcN6M1G47WQzPMN) | 4:30 | 2022-10-21 | 2022-11-14 |
+| [To Feel Alive](https://open.spotify.com/track/0It79bgHAwcMh4BstYKUyw) | [Alex Ebert](https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE) | [To Feel Alive](https://open.spotify.com/album/0pdUiITxv1TR0NFnO2ngCB) | 4:34 | 2023-04-21 |  |
 | [Top Yourself](https://open.spotify.com/track/3ZTScjTJav3Yak0OqLTuAL) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Consolers of the Lonely](https://open.spotify.com/album/0OBNtBshpjFPStZGJTGNJr) | 4:25 | 2019-10-31 | 2022-07-29 |
 | [Top Yourself](https://open.spotify.com/track/7w85ReRElKKmLNCbPaKPGN) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Consolers of the Lonely](https://open.spotify.com/album/3yx8gEFlojRtt2WBhmxwfg) | 4:25 | 2022-01-27 |  |
 | [Trouble Comes Knocking](https://open.spotify.com/track/3rxatIeKrhZHtncIx5HkYv) | [Timber Timbre](https://open.spotify.com/artist/7HeVXdOdMhLslVputGTZFQ) | [Timber Timbre](https://open.spotify.com/album/6Q9apubviMMbPFyRNpITzg) | 5:26 | 2019-10-31 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,824 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,826 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 7 | [love again](https://open.spotify.com/track/60YJu6qTCJEHlFVbdsCOUj) | [Sakepnk](https://open.spotify.com/artist/0OlQIUZYkQQ7nTTX3epLpf), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [love again](https://open.spotify.com/album/60vwuaSOoNieXvbEX5rMvr) | 3:59 |
 | 8 | [HONEY DARLIN \(feat\. Aile The Shota\)](https://open.spotify.com/track/3MvyeAc8ueBaRSrmZWHFco) | [NARROWORLD](https://open.spotify.com/artist/1lDEJxLjWAXtKDr7nFCJxW), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [HONEY DARLIN \(feat\. Aile The Shota\)](https://open.spotify.com/album/7IfOFWG5ewWQ2c2EN9RIB7) | 2:51 |
 | 9 | [Enban Furumai](https://open.spotify.com/track/4y5wGQvFEXXzITHJuI2n3y) | [DUSTY HUSKY](https://open.spotify.com/artist/3cRA6Cy45WjQDh15MMf2PN), [Jambo Lacquer](https://open.spotify.com/artist/0eCTHbWkpE5PHesKzCf4cQ) | [Enban Furumai](https://open.spotify.com/album/1HYbuHkodABcyeBqDqzJ98) | 3:18 |
-| 10 | [BIJIN](https://open.spotify.com/track/09jV3FQ2UbGJGZQjlih9O9) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Harenchi](https://open.spotify.com/album/1q9RWaiqhyFz8tYrl57w98) | 2:40 |
+| 10 | [BIJIN \(Remix\) \[feat\. Awich\]](https://open.spotify.com/track/5SM8QpMEOij9cNxKsSP00T) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [BIJIN \(Remix\) \[feat\. Awich\]](https://open.spotify.com/album/7bGgGsoAvQVXeKeZBJGro3) | 2:39 |
 | 11 | [Asian Flow](https://open.spotify.com/track/2pFQvqLuxQx61cX2AIGRd2) | [TEE](https://open.spotify.com/artist/4WapYvZbQJVUYX8zduwsLB), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Made in Japan](https://open.spotify.com/album/5bpiMawtqeKLT8Inxw075h) | 2:36 |
 | 12 | [CHANGARA](https://open.spotify.com/track/2CUVlFL6wqRldUhE4N8xLp) | [week dudus](https://open.spotify.com/artist/2dO3ifkbiQLreBJYSvkbsg) | [KAZATO](https://open.spotify.com/album/53DXt8eGhtsiIiFRCZU95s) | 2:12 |
 | 13 | [ROYAL RUMBLE](https://open.spotify.com/track/0IyNPo8UFZyEvo7Q8vZ8GP) | [IKE & rice water Groove Production](https://open.spotify.com/artist/1SQgEz8EIu81NCNT8GnALL), [Contrail Club](https://open.spotify.com/artist/6tDUgMnt6O6TDMwYkflfEz) | [ROYAL RUMBLE](https://open.spotify.com/album/4A0FgN923X5HsCwQD3VsXU) | 3:55 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [HERBALISM](https://open.spotify.com/track/0YBxqnE8hNq72taAiLA89s) | [MON/KU](https://open.spotify.com/artist/4SpTEmOFzoqGQYI53t13Df) | [MOMOKO blooms in 1.26D](https://open.spotify.com/album/0EsiR4QsUoThy4LCFRE4gg) | 4:07 |
 | 60 | [Vivid Days](https://open.spotify.com/track/4Ebws6kCzwq7DuhCjvi68s) | [Takuma Matsunaga](https://open.spotify.com/artist/6ZR7CDwmcCZQRtQneW0wr4), [Miru Shinoda](https://open.spotify.com/artist/4HpUTLtHGaCsDzXxmyGkTa) | [Vivid Days](https://open.spotify.com/album/6FsFJDxTHdMyoiCg8Tq8vT) | 4:04 |
 
-Snapshot ID: `MTY4MTY4Mjc0NSwwMDAwMDAwMDUwYjE0ODIwMWFkMGM3ZjM4MmY3MzFiNGQxNmUzY2Rj`
+Snapshot ID: `MTY4MTY4Mjc0NSwwMDAwMDAwMDIxZDhmMDVkNmUzZGFjMTRjZjM3ZmI4YTJhZjY5NzBi`

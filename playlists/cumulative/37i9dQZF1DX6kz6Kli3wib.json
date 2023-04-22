@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Badlands",
+        "url": "https://open.spotify.com/album/6NB72FT20VgR36jf8ECIGr"
+      },
+      "artists": [
+        {
+          "name": "Baron Malice",
+          "url": "https://open.spotify.com/artist/4gfiUPAVRdak4CJ8RCxaxe"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173714,
+      "name": "Badlands",
+      "url": "https://open.spotify.com/track/6sCPRdgnJOn6G4wCzK3w9M"
+    },
+    {
+      "album": {
         "name": "Balearic Dream",
         "url": "https://open.spotify.com/album/3aOciSEOGtMXtMoLD6SL84"
       },
@@ -1870,7 +1888,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 143684,
       "name": "heated waves",
       "url": "https://open.spotify.com/track/3XWowi8PlawJwuxA6lNLGy"

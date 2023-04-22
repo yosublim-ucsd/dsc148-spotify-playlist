@@ -456,7 +456,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 181090,
       "name": "Before Sunrise",
       "url": "https://open.spotify.com/track/36ohYATGnjB8KVRhsglPDP"
@@ -622,6 +622,24 @@
       "duration_ms": 216000,
       "name": "Cardboard Gadgets",
       "url": "https://open.spotify.com/track/1GnzjRqS1QnHeA9O7bR5y0"
+    },
+    {
+      "album": {
+        "name": "Intergalactic",
+        "url": "https://open.spotify.com/album/2KnSiN6Iqp0CIdsMHu9L4P"
+      },
+      "artists": [
+        {
+          "name": "Yuio Zah",
+          "url": "https://open.spotify.com/artist/3LZJYvCAKjkOsPGlWj6oTf"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180734,
+      "name": "Celestial Orbit",
+      "url": "https://open.spotify.com/track/7leBQCu78Elq3ersWc8HWE"
     },
     {
       "album": {

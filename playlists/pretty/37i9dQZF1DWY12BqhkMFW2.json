@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 334693,
+  "num_followers": 334816,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDRlNDU2NmY1YWVkMGI1Y2E4NmYwYWFlMzI0ODE4NmRk",
+  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMGUyZWM5ZmMwOTBlMDU1N2Q4NjczODQ0OWRkMzQ3ODMx",
   "tracks": [
     {
       "added_at": "2023-03-31 04:11:02",
@@ -411,6 +411,22 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q"
+      },
+      "artists": [
+        {
+          "name": "Guy",
+          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
+        }
+      ],
+      "duration_ms": 296066,
+      "name": "Yearning For Your Love",
+      "url": "https://open.spotify.com/track/59RsOKnsQT3UKLFtCgYUve"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
         "name": "Love's In Need Of Love Today",
         "url": "https://open.spotify.com/album/067timXrQdiROAy7dHLpIP"
       },
@@ -431,18 +447,18 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q"
+        "name": "INTRO",
+        "url": "https://open.spotify.com/album/22FyYZYdjTSffRGt9fofBY"
       },
       "artists": [
         {
-          "name": "Guy",
-          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
+          "name": "Intro",
+          "url": "https://open.spotify.com/artist/03n0Ll5tJjUxajYOvc0TQm"
         }
       ],
-      "duration_ms": 296066,
-      "name": "Yearning For Your Love",
-      "url": "https://open.spotify.com/track/59RsOKnsQT3UKLFtCgYUve"
+      "duration_ms": 382640,
+      "name": "Ribbon in the Sky",
+      "url": "https://open.spotify.com/track/5KNAsnZJ0g3hNvIJFvkHzI"
     },
     {
       "added_at": "2021-01-15 05:01:00",
@@ -463,22 +479,6 @@
       "duration_ms": 250400,
       "name": "So Amazing",
       "url": "https://open.spotify.com/track/4dIlsObD9oacRCF9hJloyA"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "INTRO",
-        "url": "https://open.spotify.com/album/22FyYZYdjTSffRGt9fofBY"
-      },
-      "artists": [
-        {
-          "name": "Intro",
-          "url": "https://open.spotify.com/artist/03n0Ll5tJjUxajYOvc0TQm"
-        }
-      ],
-      "duration_ms": 382640,
-      "name": "Ribbon in the Sky",
-      "url": "https://open.spotify.com/track/5KNAsnZJ0g3hNvIJFvkHzI"
     },
     {
       "added_at": "2021-01-15 05:01:00",

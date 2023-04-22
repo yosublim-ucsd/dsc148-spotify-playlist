@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "690",
+        "url": "https://open.spotify.com/album/7x6bGJq40I5yH8ATMR3Bvw"
+      },
+      "artists": [
+        {
+          "name": "Kapla y Miky",
+          "url": "https://open.spotify.com/artist/4dhKkIzf9LXogFL1NXfQc1"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191983,
+      "name": "690",
+      "url": "https://open.spotify.com/track/4Hqlpk47kWqp1m4G5VDtI6"
+    },
+    {
+      "album": {
         "name": "7 de febrero",
         "url": "https://open.spotify.com/album/0zxVXD6oNCN1u6JxljLQfo"
       },
@@ -386,7 +404,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 191223,
       "name": "Apaga la Luz",
       "url": "https://open.spotify.com/track/3RcUVxCMyG9HXmmDbNHQmM"
@@ -950,7 +968,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 155309,
       "name": "CONTIGO LA PASO CABRON",
       "url": "https://open.spotify.com/track/387oM5dFcFw1I5aWThdRfN"
@@ -1100,6 +1118,28 @@
       "duration_ms": 112572,
       "name": "c\u00f3mo dormiste?",
       "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
+    },
+    {
+      "album": {
+        "name": "OTRO NIVEL",
+        "url": "https://open.spotify.com/album/4VDUeWYXaKBXnm9YNj8TfP"
+      },
+      "artists": [
+        {
+          "name": "LA FIRMA",
+          "url": "https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q"
+        },
+        {
+          "name": "RMAND",
+          "url": "https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134893,
+      "name": "Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/6VhKXXCWcy5lFRCK7d5W1C"
     },
     {
       "album": {
@@ -1366,7 +1406,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 182000,
       "name": "El Mensaje",
       "url": "https://open.spotify.com/track/2KixbV3oLBNrQP2cXwrAC4"
@@ -2691,6 +2731,24 @@
     },
     {
       "album": {
+        "name": "Mis Pasos",
+        "url": "https://open.spotify.com/album/6Ge2VMExrSMBnYCdLWA62t"
+      },
+      "artists": [
+        {
+          "name": "Odanis BSK",
+          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Mis Pasos",
+      "url": "https://open.spotify.com/track/7iSdiTK5TufczPwkxoougY"
+    },
+    {
+      "album": {
         "name": "Modo Avi\u00f3n",
         "url": "https://open.spotify.com/album/7sdHYTvdoP5MElaGritVax"
       },
@@ -2764,7 +2822,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 97826,
       "name": "Na De Ti",
       "url": "https://open.spotify.com/track/6HifbN3TTXNgjFEmUdk1E4"
@@ -2804,6 +2862,28 @@
       "duration_ms": 161617,
       "name": "Nin\u0303o Eterno",
       "url": "https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I"
+    },
+    {
+      "album": {
+        "name": "Ni\u00f1a Bonita",
+        "url": "https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187653,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv"
     },
     {
       "album": {
@@ -2941,6 +3021,28 @@
     },
     {
       "album": {
+        "name": "On My Knees",
+        "url": "https://open.spotify.com/album/5FRmGDL5cSMRqtteqF5pQm"
+      },
+      "artists": [
+        {
+          "name": "Tensho",
+          "url": "https://open.spotify.com/artist/1VXSA52jE1PE9gExw7Gzn1"
+        },
+        {
+          "name": "Pauline Mancini",
+          "url": "https://open.spotify.com/artist/6s2xtejF9X7SJmdK86Aadm"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "On My Knees",
+      "url": "https://open.spotify.com/track/57BfmXEWPeAoN5LvwY2OtB"
+    },
+    {
+      "album": {
         "name": "Otra Canci\u00f3n",
         "url": "https://open.spotify.com/album/2XfEFsy1BGDLwJoBiOpDy6"
       },
@@ -3022,7 +3124,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 202946,
       "name": "OTRO FILI",
       "url": "https://open.spotify.com/track/4iDhQFNWG6uHWi7LOKhmkP"
@@ -3336,7 +3438,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 206958,
       "name": "Que Vuelta",
       "url": "https://open.spotify.com/track/0o1MSPQCoDgRa6QNInsmM2"
@@ -3434,6 +3536,28 @@
       "duration_ms": 191945,
       "name": "Qui\u00e9reme Mientras Se Pueda",
       "url": "https://open.spotify.com/track/34LI7rwi9H8w2S5KTHnv1M"
+    },
+    {
+      "album": {
+        "name": "qu\u00e9 le pasa conmigo?",
+        "url": "https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167251,
+      "name": "qu\u00e9 le pasa conmigo?",
+      "url": "https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa"
     },
     {
       "album": {
@@ -3792,7 +3916,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 116773,
       "name": "Siempre T\u00fa",
       "url": "https://open.spotify.com/track/0PcwKctURiZcDTaUBkWxnc"
@@ -3826,6 +3950,28 @@
       "duration_ms": 196000,
       "name": "Sigo Esperando Que Vuelvas (feat. Los Golpes)",
       "url": "https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M"
+    },
+    {
+      "album": {
+        "name": "Sin Cara",
+        "url": "https://open.spotify.com/album/3YP2r8HgW5q7zTOV5EsOkD"
+      },
+      "artists": [
+        {
+          "name": "Ochy",
+          "url": "https://open.spotify.com/artist/1Ca0XeiVvKBPIhhWNq1Tp7"
+        },
+        {
+          "name": "Lil Willy 666",
+          "url": "https://open.spotify.com/artist/4IJtotrZDp8wBzmfinar49"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145200,
+      "name": "Sin Cara",
+      "url": "https://open.spotify.com/track/3Nv8Mje384DgxNqdME7oS8"
     },
     {
       "album": {

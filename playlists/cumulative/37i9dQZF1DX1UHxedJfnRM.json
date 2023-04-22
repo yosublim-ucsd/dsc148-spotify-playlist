@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Los temas m\u00e1s sabrosos del momento suenan aqu\u00ed. Foto: Daniela Darcourt",
+  "description": "Los temas m\u00e1s sabrosos del momento suenan aqu\u00ed. Foto: Septeto Acarey",
   "name": "Pura Salsa",
   "tracks": [
     {
@@ -403,6 +403,24 @@
     },
     {
       "album": {
+        "name": "C\u00f3mo Se Cura una Herida",
+        "url": "https://open.spotify.com/album/0mmyV7UsBA9DgZJurgWqqL"
+      },
+      "artists": [
+        {
+          "name": "Septeto Acarey",
+          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299871,
+      "name": "C\u00f3mo Se Cura una Herida",
+      "url": "https://open.spotify.com/track/08wrPjhluxqZ14lOkoZiel"
+    },
+    {
+      "album": {
         "name": "De Qu\u00e9 Manera",
         "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
       },
@@ -508,7 +526,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 231363,
       "name": "Desn\u00fadate",
       "url": "https://open.spotify.com/track/3lAPRVmezONEzjHgzOvh5m"
@@ -1524,24 +1542,6 @@
     {
       "album": {
         "name": "No S\u00e9",
-        "url": "https://open.spotify.com/album/7FIB9L7nOwjaZI6iAvKrs5"
-      },
-      "artists": [
-        {
-          "name": "Amy Gutierrez",
-          "url": "https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR"
-        }
-      ],
-      "date_added": "2023-03-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 246962,
-      "name": "No S\u00e9",
-      "url": "https://open.spotify.com/track/0airpS5wunq0fn8ZXuEEqK"
-    },
-    {
-      "album": {
-        "name": "No S\u00e9",
         "url": "https://open.spotify.com/album/1OR5KmIE6s5SzzCe9XYETZ"
       },
       "artists": [
@@ -1556,6 +1556,24 @@
       "duration_ms": 246962,
       "name": "No S\u00e9",
       "url": "https://open.spotify.com/track/2v11X4UanY2QwADCbwFnPv"
+    },
+    {
+      "album": {
+        "name": "No S\u00e9",
+        "url": "https://open.spotify.com/album/7FIB9L7nOwjaZI6iAvKrs5"
+      },
+      "artists": [
+        {
+          "name": "Amy Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/3Q3t6O1C5kbxdWLykppaJ2"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246962,
+      "name": "No S\u00e9",
+      "url": "https://open.spotify.com/track/0airpS5wunq0fn8ZXuEEqK"
     },
     {
       "album": {

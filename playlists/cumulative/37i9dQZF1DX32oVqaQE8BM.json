@@ -622,7 +622,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 190842,
       "name": "Bad Day",
       "url": "https://open.spotify.com/track/5c7OUDQyUJbtqmqsIiwWzI"
@@ -1906,6 +1906,24 @@
       "duration_ms": 180000,
       "name": "Deep Meaning",
       "url": "https://open.spotify.com/track/5PLhPQX56pD9C21PoPFJG7"
+    },
+    {
+      "album": {
+        "name": "Deep Whispers",
+        "url": "https://open.spotify.com/album/171aXGnW92mHtxim98gUnK"
+      },
+      "artists": [
+        {
+          "name": "Elton Baptiste",
+          "url": "https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "Deep Whispers",
+      "url": "https://open.spotify.com/track/5y7Gi8XUtInGKz18QsIYgP"
     },
     {
       "album": {
@@ -3858,6 +3876,24 @@
       "duration_ms": 146670,
       "name": "Inner Circle",
       "url": "https://open.spotify.com/track/2PHONNW4Knw22LQ9o3EvIo"
+    },
+    {
+      "album": {
+        "name": "Inner Peace",
+        "url": "https://open.spotify.com/album/1YaaERFCQV7GvtMRQZMcww"
+      },
+      "artists": [
+        {
+          "name": "akanekuro",
+          "url": "https://open.spotify.com/artist/1KyLdid5oA2QFMEzAwo3ZJ"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "Inner Peace",
+      "url": "https://open.spotify.com/track/6rvX0JYhkqJivixXp40sJn"
     },
     {
       "album": {
@@ -8518,7 +8554,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 170857,
       "name": "Time Sometimes",
       "url": "https://open.spotify.com/track/29Ww4tSNHhIrUPpHokPEyh"

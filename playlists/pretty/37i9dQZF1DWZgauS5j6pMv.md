@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Adi Oasis
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,938 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,024 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 25 | [Funk Money](https://open.spotify.com/track/1Y5VqpjzxCSMNYpT81LvBt) | [Marcel Vogel](https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [Games Change](https://open.spotify.com/album/6YhSgWYRG0Z2543CY3gtjv) | 4:35 |
 | 26 | [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 |
 | 27 | [GOODTIME](https://open.spotify.com/track/0Cz1CWsDSgGMbHZykVO5ei) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5) | [GOODTIME](https://open.spotify.com/album/6MHZpDk5kHnqLBXla2znoS) | 3:42 |
-| 28 | [Goddam \(Action Paxton Remix\)](https://open.spotify.com/track/6v1Zd8skfPZQlnvthw8aIS) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Action Paxton](https://open.spotify.com/artist/7cjO66A26r7pMsU6TlW2UZ), [Olivia Ruff](https://open.spotify.com/artist/3O1CAgZV8ApmbL09LcNBr8), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Brasstronix](https://open.spotify.com/artist/66nvszvZCPMR1Em1wfZwe2) | [Goddam \(Action Paxton Remix\)](https://open.spotify.com/album/5Jez6tgeNcRHVeZLvyAF14) | 4:33 |
+| 28 | [Goddam \- Action Paxton Remix](https://open.spotify.com/track/6v1Zd8skfPZQlnvthw8aIS) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Action Paxton](https://open.spotify.com/artist/7cjO66A26r7pMsU6TlW2UZ), [Olivia Ruff](https://open.spotify.com/artist/3O1CAgZV8ApmbL09LcNBr8), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Brasstronix](https://open.spotify.com/artist/66nvszvZCPMR1Em1wfZwe2) | [Goddam \(Action Paxton Remix\)](https://open.spotify.com/album/5Jez6tgeNcRHVeZLvyAF14) | 4:33 |
 | 29 | [Lover](https://open.spotify.com/track/6VhGMAc8VeYrfeOzGWAZxm) | [Genevra Munoa](https://open.spotify.com/artist/7aQAQoR394wpKiTO88ECew) | [Lover](https://open.spotify.com/album/3TVcPyz5kdeQEsdMiLkE9W) | 2:54 |
 | 30 | [Unshakable](https://open.spotify.com/track/3BIGoqltdL4NJOyAZvGQHu) | [Tom McGuire & the Brassholes](https://open.spotify.com/artist/7JnJgTo8cCtAQmtC0cJyjp) | [Unshakable](https://open.spotify.com/album/6B0tuDpdjRkvd6s98Hy5gK) | 5:31 |
 | 31 | [Here You Are](https://open.spotify.com/track/0ihNcF29gXIVvzknTpuvZl) | [Lukas Setto](https://open.spotify.com/artist/1qQsGVTeXPtTvAgvDd5SHZ) | [Here You Are](https://open.spotify.com/album/0l4MKvhtXCavnpHgUROcLh) | 3:08 |

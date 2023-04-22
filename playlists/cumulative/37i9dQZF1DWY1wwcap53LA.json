@@ -515,6 +515,32 @@
     },
     {
       "album": {
+        "name": "For My Dawgs (feat. Willie Jones & Blanco Brown)",
+        "url": "https://open.spotify.com/album/2gbGuVrSjTMmPZ30HpPAC7"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        },
+        {
+          "name": "Willie Jones",
+          "url": "https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM"
+        },
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191017,
+      "name": "For My Dawgs (feat. Willie Jones & Blanco Brown)",
+      "url": "https://open.spotify.com/track/40jq22x0xSlHJ81KWZ1Hhm"
+    },
+    {
+      "album": {
         "name": "Cross Country",
         "url": "https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0"
       },

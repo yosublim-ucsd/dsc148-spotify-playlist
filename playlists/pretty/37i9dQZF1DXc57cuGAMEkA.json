@@ -1,12 +1,12 @@
 {
   "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002JVKE & \u85e4\u4e95\u98a8, The Weeknd & Future, and more! Cover: JVKE",
-  "num_followers": 88593,
+  "num_followers": 88982,
   "original_name": "New Music Friday Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAwMjgwMCwwMDAwMDAwMDdhMzFjZjI2N2M2ZTk3Y2NlODY1YjY2YTk4MDJjYjBj",
+  "snapshot_id": "MTY4MjAwMjgwMCwwMDAwMDAwMDkxNmNjYWIyMjE1NTU4MWQ3NmMwNGQzMTEyZGQ2NDli",
   "tracks": [
     {
       "added_at": "2023-04-20 15:00:00",
@@ -87,8 +87,24 @@
     {
       "added_at": "2023-04-20 15:00:00",
       "album": {
-        "name": "TATTOO",
-        "url": "https://open.spotify.com/album/3VqutKQybsb2z1IT9CDRUE"
+        "name": "WHERE DOES YOUR SPIRIT GO?",
+        "url": "https://open.spotify.com/album/2nWy6y7E2KXy5apVUftkRZ"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 201183,
+      "name": "WHERE DOES YOUR SPIRIT GO?",
+      "url": "https://open.spotify.com/track/63XetbuuKLMyjIaVdZtFP1"
+    },
+    {
+      "added_at": "2023-04-20 15:00:00",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/07hAM6iu7A39wR2zwfaoCL"
       },
       "artists": [
         {
@@ -97,8 +113,8 @@
         }
       ],
       "duration_ms": 288099,
-      "name": "TATTOO",
-      "url": "https://open.spotify.com/track/36jIu8oPR1Z4cguMuHxUXA"
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/6wffxmLgeZTbvS1hYvLkht"
     },
     {
       "added_at": "2023-04-20 15:00:00",
@@ -140,7 +156,7 @@
       "added_at": "2023-04-20 15:00:00",
       "album": {
         "name": "I.Y.A",
-        "url": "https://open.spotify.com/album/3IAlVRREOXE9L9qlQdU65s"
+        "url": "https://open.spotify.com/album/66a6oD59fM5viXx3SbWXEk"
       },
       "artists": [
         {
@@ -154,13 +170,29 @@
       ],
       "duration_ms": 168367,
       "name": "I.Y.A",
-      "url": "https://open.spotify.com/track/0vggWpNgrlUGykl65aSpZu"
+      "url": "https://open.spotify.com/track/0zmcTsFBWujjLOlcXGh9yl"
+    },
+    {
+      "added_at": "2023-04-20 15:00:00",
+      "album": {
+        "name": "D-DAY",
+        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "duration_ms": 168926,
+      "name": "Haegeum",
+      "url": "https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1"
     },
     {
       "added_at": "2023-04-20 15:00:00",
       "album": {
         "name": "XEONWORLDVIEW DELUXE",
-        "url": "https://open.spotify.com/album/2P7wUQVBdSXHsCGfSViugP"
+        "url": "https://open.spotify.com/album/4STcpyi6XeFKNhYoDPXVVz"
       },
       "artists": [
         {
@@ -182,7 +214,7 @@
       ],
       "duration_ms": 186689,
       "name": "DAISOUSA",
-      "url": "https://open.spotify.com/track/2OBuTJXshnHCAG1TmepxsH"
+      "url": "https://open.spotify.com/track/6f7YVYvULG8tqxuHsyX1fn"
     },
     {
       "added_at": "2023-04-20 15:00:00",
@@ -1068,7 +1100,7 @@
       "added_at": "2023-04-20 15:00:00",
       "album": {
         "name": "A Kiss for the Whole World",
-        "url": "https://open.spotify.com/album/54ueM4SD9fr9VTYeXJc8xp"
+        "url": "https://open.spotify.com/album/5bTSXCOLlIH6gsOvuI3PCI"
       },
       "artists": [
         {
@@ -1078,7 +1110,7 @@
       ],
       "duration_ms": 211485,
       "name": "A Kiss for the Whole World x",
-      "url": "https://open.spotify.com/track/28kdCguOw9S30DVMRhL3uh"
+      "url": "https://open.spotify.com/track/1LAuVHMWdVkdbNmSVXWw2K"
     },
     {
       "added_at": "2023-04-20 15:00:00",
@@ -1127,6 +1159,26 @@
       "duration_ms": 131642,
       "name": "Darkest Hour",
       "url": "https://open.spotify.com/track/6kVuwV25QpvLUDXwJEREwb"
+    },
+    {
+      "added_at": "2023-04-20 15:00:00",
+      "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/2aF3BH9F5BBznxDYZskdDz"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Lou Elliotte",
+          "url": "https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6"
+        }
+      ],
+      "duration_ms": 181516,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/7MpAJjJbMrmeLJbrDJ0wHh"
     },
     {
       "added_at": "2023-04-20 15:00:00",

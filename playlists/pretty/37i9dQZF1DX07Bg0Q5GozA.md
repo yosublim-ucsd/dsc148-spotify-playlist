@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: George FitzGerald, SYML
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,830 likes - 74 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,871 likes - 74 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

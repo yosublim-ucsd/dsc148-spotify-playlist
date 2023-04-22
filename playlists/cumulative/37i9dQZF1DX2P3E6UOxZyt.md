@@ -4,7 +4,7 @@
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: LÜCY x Andr 安德 x Everydaze x 胡家誠
 
-321 songs - 19 hr 6 min
+322 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [上鎖](https://open.spotify.com/track/01mL9EIfoHlTaQe5eA2pfh) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP) | [上鎖](https://open.spotify.com/album/2MMg8ywsnOcLcdDvkTrhmD) | 3:52 | 2023-03-09 |  |
 | [下一个天亮](https://open.spotify.com/track/6MMwcJetDUs9J9eUB9dRTL) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [月光、背影與海](https://open.spotify.com/album/7wIIfgNInlvDFtWVE0QD9e) | 4:10 | 2022-11-03 | 2022-12-09 |
 | [下一個生日](https://open.spotify.com/track/4Rh6Db9yDSr0RLquKzuIXI) | [G5SH](https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd) | [失戀派對](https://open.spotify.com/album/6lKlJpAoWW8VPhbNkuQRGf) | 3:04 | 2022-01-20 | 2022-05-20 |
+| [不凡 \- 愛奇藝原創華劇《不良執念清除師》插曲](https://open.spotify.com/track/7MJswc6nLJeHZVeZgx3mMX) | [張若凡RuoFan](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [愛奇藝原創華劇《不良執念清除師》原聲帶](https://open.spotify.com/album/4lQN080kPobeTivUu7G96A) | 3:46 | 2023-04-21 |  |
 | [不在](https://open.spotify.com/track/5jvk5UfmXVHHjwNezUeqZ5) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [不在](https://open.spotify.com/album/0uKO2DRyqiL9Utzx89KvKa) | 3:40 | 2023-02-09 | 2023-02-17 |
 | [不愛自己了](https://open.spotify.com/track/6iapOcmDAFnNQ3Bz0U6s3Y) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [不愛自己了](https://open.spotify.com/album/6XNIzjnjbV9DbsaHG7xZGb) | 4:18 | 2023-04-06 |  |
 | [不搖就滾](https://open.spotify.com/track/2FyxwNkn5XCtuGniro1IqE) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [不搖就滾](https://open.spotify.com/album/6JyYqodvDfNbgqm8T44dde) | 3:55 | 2022-07-07 | 2022-09-16 |
@@ -270,7 +271,7 @@
 | [甜噩夢 \(feat\. 李哲言\)](https://open.spotify.com/track/7DGBZxhq9SbqPHc1iLZgx1) | [張若凡RuoFan](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk), [李哲言](https://open.spotify.com/artist/1rooHl1l35Hn4PoipbtuSJ) | [等待被理解的人](https://open.spotify.com/album/21kTRBroWNrpXyp2IiYkrF) | 3:20 | 2023-02-02 | 2023-03-31 |
 | [用破碎的心修好破碎的心](https://open.spotify.com/track/3EvumpHbK2EfvajrCxpjt4) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [用破碎的心修好破碎的心](https://open.spotify.com/album/6SrDbUMiQ9Nh53gZUDugwZ) | 3:11 | 2021-12-30 | 2022-01-28 |
 | [用破碎的心修好破碎的心](https://open.spotify.com/track/3gadohEpBNZnUAdMu0TOBp) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [!!!!](https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY) | 3:13 | 2023-02-23 | 2023-03-31 |
-| [痛苦擁抱 \- 愛奇藝原創華劇《不良執念清除師》主題曲](https://open.spotify.com/track/5oUZN458Yyp8cQCrUZaxqx) | [Ozone](https://open.spotify.com/artist/1Lu3G3NqWACIUAcq9r30t1) | [愛奇藝原創華劇《不良執念清除師》原聲帶](https://open.spotify.com/album/4lQN080kPobeTivUu7G96A) | 3:07 | 2023-04-20 |  |
+| [痛苦擁抱 \- 愛奇藝原創華劇《不良執念清除師》主題曲](https://open.spotify.com/track/5oUZN458Yyp8cQCrUZaxqx) | [Ozone](https://open.spotify.com/artist/1Lu3G3NqWACIUAcq9r30t1) | [愛奇藝原創華劇《不良執念清除師》原聲帶](https://open.spotify.com/album/4lQN080kPobeTivUu7G96A) | 3:07 | 2023-04-20 | 2023-04-22 |
 | [癡心無名氏](https://open.spotify.com/track/5WeLzVi9RxI22FrvtVKRSW) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [癡心無名氏](https://open.spotify.com/album/2yUoKabXW0fgi0RMxy2eHN) | 3:51 | 2023-03-16 |  |
 | [白開水](https://open.spotify.com/track/1EkqllxcASbLn6SbNTVzaq) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [野蠻之荒](https://open.spotify.com/album/4knvf1FmUkiBrDCXWZdrNR) | 3:50 | 2023-01-05 | 2023-02-17 |
 | [百分知己](https://open.spotify.com/track/4erlUdYmQxiIpJFWUmi0iD) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP) | [百分知己](https://open.spotify.com/album/46YchyuGlnEcFFxdRlVKYB) | 3:22 | 2022-06-30 | 2022-11-11 |

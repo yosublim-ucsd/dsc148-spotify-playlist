@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: Felly
 
-503 songs - 23 hr 13 min
+505 songs - 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,7 @@
 | [mistakes](https://open.spotify.com/track/15dJLTji58BsvcTDZ2QxQG) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [mistakes](https://open.spotify.com/album/069zTIsdWb6aEsBb5Hmxp0) | 2:53 | 2022-04-06 | 2022-04-09 |
 | [Mood](https://open.spotify.com/track/2QKte1nUSkLiPkNN8EPudu) | [Olmos](https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV), [Young Saab](https://open.spotify.com/artist/3koEtGT6SxcjRgwh6YwDx5) | [Mood](https://open.spotify.com/album/3GWHaNyeflGNqohoxQqxFo) | 2:16 | 2022-04-22 | 2022-05-20 |
 | [Mood ring](https://open.spotify.com/track/4oFaezaYjR4di8zxlJjmv9) | [Kid Quill](https://open.spotify.com/artist/5vGXVYudNgm9E7jhXMM0Ro), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Mood ring](https://open.spotify.com/album/1QIo05QpWnn1q3PQ7Vxuzb) | 3:27 | 2021-11-16 | 2022-02-26 |
-| [Moonrock](https://open.spotify.com/track/79dt40lQLm46E1WPVYLvTO) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Moonrock](https://open.spotify.com/album/49J53goWppUwvbTn8Gcej5) | 3:00 | 2022-08-19 |  |
+| [Moonrock](https://open.spotify.com/track/79dt40lQLm46E1WPVYLvTO) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Moonrock](https://open.spotify.com/album/49J53goWppUwvbTn8Gcej5) | 3:00 | 2022-08-19 | 2023-04-22 |
 | [More Than Friends](https://open.spotify.com/track/7f6CYOMT6sXv35ZTJRtXtA) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [More Than Friends](https://open.spotify.com/album/0r9uTlzVUjnRvBTGjTLC54) | 2:54 | 2021-12-17 | 2022-03-05 |
 | [morning](https://open.spotify.com/track/0MWeEap0R36Qauy3G7vd7y) | [Aizayah Hills](https://open.spotify.com/artist/5BLTxShcXYTib23V0lRdDt) | [morning](https://open.spotify.com/album/4pJTYvnrV8guZmGlioUtgd) | 2:42 | 2022-06-10 | 2022-07-23 |
 | [MOTTO](https://open.spotify.com/track/3q9PVufz68TRvOao25IMNk) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [MOTTO](https://open.spotify.com/album/1zt9jr9SYbHe90e2Q6DPLE) | 3:37 | 2023-03-09 | 2023-04-05 |
@@ -445,6 +445,7 @@
 | [TAKEN BACK](https://open.spotify.com/track/4WOKM2f2FgbuLPiEqGSlBi) | [Allen Haley](https://open.spotify.com/artist/0A23HecVtZf5hwBgVi0uYb) | [TAKEN BACK](https://open.spotify.com/album/6mQgaTQxOJ8HRFD6kQ46qB) | 2:33 | 2022-02-04 | 2022-05-20 |
 | [Talkin Like](https://open.spotify.com/track/6atDGm94dfeC7qwmL3TFoq) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s) | [Talkin Like](https://open.spotify.com/album/2TcwUosUrtDDQHi50Z1PCU) | 2:34 | 2022-01-14 | 2022-06-04 |
 | [Talladega](https://open.spotify.com/track/2CPKo4glbtzTZHZ9kheUaa) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Talladega](https://open.spotify.com/album/3JuasplCKlqgWKIhVStSWn) | 2:36 | 2021-11-16 | 2022-02-26 |
+| [tangled cables](https://open.spotify.com/track/6NUBZgZzZNag4j0v9Tt4qS) | [Supachefm](https://open.spotify.com/artist/4xwoyhYU2OMu6i79blLJR1), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g) | [tangled cables](https://open.spotify.com/album/61RjORGnbFzvIOE1m7sCtC) | 3:19 | 2023-04-21 |  |
 | [Target](https://open.spotify.com/track/0BISpmx11CA0SK6jMFlFZd) | [Jay Portal](https://open.spotify.com/artist/2mE6lFglCyhkrseEcufU0d) | [Target](https://open.spotify.com/album/538oLJYmSNM6UnVwqPtHgQ) | 2:07 | 2022-12-16 | 2023-03-18 |
 | [TARGET](https://open.spotify.com/track/6nr0nVNA2sxEyteGiMKAv6) | [KYDRA](https://open.spotify.com/artist/0oAdWtdDFpCh67Jh0YAxCc) | [BACK HOME](https://open.spotify.com/album/2BcFPLYFI5vRGWDhjyKRGC) | 2:07 | 2022-12-16 | 2022-12-30 |
 | [Teammates](https://open.spotify.com/track/4NJaaIIhzLlzGj4dHMb4FO) | [Asher Roth](https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT), [Heather Grey](https://open.spotify.com/artist/0NHdHKgWjJriXzzufBwSqE) | [Teammates](https://open.spotify.com/album/04ybMaeuitS4ISlJug42dZ) | 2:24 | 2022-04-15 | 2022-05-20 |
@@ -472,6 +473,7 @@
 | [trouble / tonight](https://open.spotify.com/track/2FEdAC3ZeNybfLdodh9a66) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn) | [trouble / tonight](https://open.spotify.com/album/6ywTWDiKJUO33pyQ9cwFmT) | 4:02 | 2022-01-28 | 2022-02-26 |
 | [true american \(feat\. Kyle Lux\)](https://open.spotify.com/track/0ceYW8uhnTOywJRp68iaq2) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf), [Kyle Lux](https://open.spotify.com/artist/63g7H7tihdsX4LtRQioKrR) | [true american \(feat\. Kyle Lux\)](https://open.spotify.com/album/3ZE1urLrVTsuB8KZXq6RAe) | 2:51 | 2022-07-22 | 2022-09-10 |
 | [Tucson](https://open.spotify.com/track/5mn1QrLBhEUI5XGmcn9HKT) | [Willy P](https://open.spotify.com/artist/18jVuRF2PcWQX3BWLUoIIP), [Peter Kuli](https://open.spotify.com/artist/5lVUEGHUyXz8X6h58fuEwV) | [Tucson](https://open.spotify.com/album/36hJeUhSYbDSkdz2Kx2828) | 2:27 | 2022-07-01 | 2022-09-28 |
+| [Turn It Up](https://open.spotify.com/track/3tLxUfISaz59RTcJIAPqDJ) | [JayXander](https://open.spotify.com/artist/20mG4NVCankcytn70YIplV) | [Turn It Up](https://open.spotify.com/album/5iHuuoKsqdlwbQM2ANFbCN) | 2:12 | 2023-04-21 |  |
 | [twice](https://open.spotify.com/track/3VV8J6Zy11zsU4yBGroexd) | [lilspirit](https://open.spotify.com/artist/3VWII9MTZSfIdOXr1DafzL) | [twice](https://open.spotify.com/album/6BXAJhLPQTUjOi45aoiE7t) | 1:54 | 2022-09-02 | 2022-10-01 |
 | [UH OH](https://open.spotify.com/track/0ibUXjc38yUf1RbQOVOahu) | [Belaganas](https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q) | [UH OH](https://open.spotify.com/album/3MCpaDhJ0Ebdj3EPYanDQO) | 2:52 | 2023-03-17 |  |
 | [Unreplaceable](https://open.spotify.com/track/0PiBkWGuBSzZRYLvQaS3Qe) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [It's Not So Bad](https://open.spotify.com/album/7CiDYc1gQ1In1cfhkX11I9) | 2:58 | 2022-01-28 | 2022-03-17 |

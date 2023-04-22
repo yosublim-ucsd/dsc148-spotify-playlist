@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 
 > <a href="spotify:artist:0zo109NM3S7CqHpvlXwqEN">VTSS</a>' favorite tracks\. Updated regularly\. Curated by VTSS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,330 likes - 52 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,356 likes - 52 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 | 4 | [Anything](https://open.spotify.com/track/2wqA9AghBRR8yoRRpqTSCp) | [Versus](https://open.spotify.com/artist/4iRPFD6sORIMMPmks0BxTm) | [Anything](https://open.spotify.com/album/2dq5M9lbglmyHzB1W564Vo) | 5:37 |
 | 5 | [What Is What \- Benji303 Remix](https://open.spotify.com/track/3n78dAt7hj3v9AnMxo5urM) | [Balrog](https://open.spotify.com/artist/1Uh8aGOD08xOY75BcDFtmF), [Benji 303](https://open.spotify.com/artist/2T6Wrn0EEacnlD4VVqNLXn) | [Skuxx Remixes 001](https://open.spotify.com/album/71TPxeM2HPnLocxnVe1UcY) | 6:27 |
 | 6 | [Afraid Of Heights](https://open.spotify.com/track/7bpv1dfryadgJElaDcFPrC) | [sjush](https://open.spotify.com/artist/08VPLy0O7UbXhk9y7bJAIx) | [Afraid Of Heights](https://open.spotify.com/album/5zNE67NaC07wB3BTOtYvXG) | 5:19 |
-| 7 | [Whaa](https://open.spotify.com/track/7dqCouXOxmOJbA0M1Em37N) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Logan](https://open.spotify.com/artist/7uyQOsktLn9VjGJg5KO9Ek) | [Whaa](https://open.spotify.com/album/756jjoK8Aa3EYNkCcsoK22) | 4:31 |
+| 7 | [Whaa](https://open.spotify.com/track/7dqCouXOxmOJbA0M1Em37N) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Whaa](https://open.spotify.com/album/756jjoK8Aa3EYNkCcsoK22) | 4:31 |
 | 8 | [Thinking About You in the Space](https://open.spotify.com/track/5tb38xu6EbUCiqYJk6z2zb) | [Wachita China](https://open.spotify.com/artist/6l15C7bY0XMeUX0oHlm1W1) | [D1e and Repeat](https://open.spotify.com/album/6a9gj9gl6YxwKXbBsEyd6M) | 4:57 |
 | 9 | [Heartbreaker](https://open.spotify.com/track/38fLhmJGEivj8Nv0SfOchs) | [Manni Dee](https://open.spotify.com/artist/3WKDW1ASiWSa1T1nX01dUr) | [Heartbreaker](https://open.spotify.com/album/0fZBj4D8360wH8cYVTaamS) | 4:40 |
 | 10 | [Hi Steve, aRe you on dmt?](https://open.spotify.com/track/1wCcQD1QgSK91xyaDOKEIc) | [Sauren Kids](https://open.spotify.com/artist/6m8Lu43KA6pazW714NjaX5) | [Hungry For The Groove](https://open.spotify.com/album/586PogJUXkkWxj4YDJUEVy) | 5:55 |

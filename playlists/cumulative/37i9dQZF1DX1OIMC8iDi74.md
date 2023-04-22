@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-248 songs - 13 hr 38 min
+249 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [O.G.](https://open.spotify.com/track/0mSpqNpgwwLvVGNuRpuFVL) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Foramic](https://open.spotify.com/artist/4HD430MFk1qBcLuLbBvclq) | [O.G.](https://open.spotify.com/album/6eOqfgcrRtd1ty07lMi0zv) | 2:50 | 2022-07-14 | 2023-03-05 |
 | [Oblivion](https://open.spotify.com/track/1YbYFYLlJvqcuEnawPyxlD) | [Calli Boom](https://open.spotify.com/artist/04zCREDDJRY1WfSGW5h9E8) | [Oblivion](https://open.spotify.com/album/4ePrBbPSL2DoSyjqfH4aKX) | 2:55 | 2021-11-19 | 2022-01-24 |
 | [Octavia](https://open.spotify.com/track/5jvIE049KDxFEGJdbKOA7Q) | [Rossy](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [Octavia](https://open.spotify.com/album/7pLF40nSHudOnKd0i4m30m) | 3:30 | 2021-11-19 | 2022-02-02 |
+| [OH LAWD](https://open.spotify.com/track/7lKkzOnRvY7OeLSFWBwlii) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [Lemay](https://open.spotify.com/artist/7zySlNgrPI1dWfMBIjTIKD) | [OH LAWD](https://open.spotify.com/album/4qKjQ6GfhuN7WRxOHdB7U4) | 4:28 | 2023-04-21 |  |
 | [One Day](https://open.spotify.com/track/0y9PU8ICc8ubLDjQ1kEjSH) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0) | [Sable Valley Summer Vol\. 2](https://open.spotify.com/album/7ybQzVkmLNJ0Lidjk1AEZ5) | 3:56 | 2021-11-19 | 2022-02-02 |
 | [Only Be Me](https://open.spotify.com/track/4E4gQUWMUbi0lOf98qqtuv) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Only Be Me](https://open.spotify.com/album/18jDao69dC593MEAZheoyA) | 3:28 | 2023-03-03 |  |
 | [Only Be Me](https://open.spotify.com/track/6WXZyYSwlXS5qXISwsKYXE) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Only Be Me](https://open.spotify.com/album/7MVmFdMSkymurPiaOougvl) | 3:28 | 2022-02-01 | 2023-03-01 |
@@ -216,7 +217,7 @@
 | [Spirits Pt\. 2](https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 2:01 | 2022-06-17 |  |
 | [Stallions](https://open.spotify.com/track/7Mgpc7PoSvWV73jhfpmxoE) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Stallions](https://open.spotify.com/album/0I3fZYjDRb5g7VulqKfm1f) | 3:55 | 2021-11-19 | 2022-02-02 |
 | [Stars Tonight](https://open.spotify.com/track/0ZKOjWGqV7vHl9WKOtDb5V) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [We Are Deadbeats \(Vol\. 4\)](https://open.spotify.com/album/0M5oUKrfgJtfZUKdFsC4VZ) | 2:53 | 2022-02-01 |  |
-| [STAY STRONG](https://open.spotify.com/track/0zQEGtey6NFC8f8rKUAAf9) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [STAY STRONG](https://open.spotify.com/album/7vJgxUNPVdsN2dRSkJNhbD) | 3:03 | 2022-07-14 |  |
+| [STAY STRONG](https://open.spotify.com/track/0zQEGtey6NFC8f8rKUAAf9) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [STAY STRONG](https://open.spotify.com/album/7vJgxUNPVdsN2dRSkJNhbD) | 3:03 | 2022-07-14 | 2023-04-22 |
 | [STAY STRONG](https://open.spotify.com/track/3aPaa10F8G5yzzh9Eb6ayQ) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [STAY STRONG](https://open.spotify.com/album/2x211pbSpVexGZvTsAtSaD) | 3:03 | 2021-11-19 | 2022-07-29 |
 | [Stinger](https://open.spotify.com/track/0yrSc38VgNvTRVfzD01oDE) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [Stinger](https://open.spotify.com/album/0nXwYZwtzmke8C5VlMQDY3) | 3:50 | 2021-11-19 |  |
 | [Stranded](https://open.spotify.com/track/6UBCNenDeCeq2MWKnFWJ1m) | [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v), [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf) | [Stranded](https://open.spotify.com/album/1RMV5oTOyhjRXl38G2T8G4) | 2:59 | 2021-11-19 | 2022-02-02 |

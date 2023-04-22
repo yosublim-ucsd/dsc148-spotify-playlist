@@ -4,7 +4,7 @@
 
 > Set the scene for romance with beautiful classical music.
 
-95 songs - 7 hr 7 min
+96 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Serenade for Strings in E Minor, Op\. 20: II\. Larghetto](https://open.spotify.com/track/6aD8MeXrjHNz7YgrTLHhyA) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Sofja Gülbadamova](https://open.spotify.com/artist/3NJlQ88OdMORyyJsdCtQ7j) | [Idylle](https://open.spotify.com/album/28ioFoAg9H3hoTpxQhpYcT) | 6:47 | 2021-12-20 | 2023-03-29 |
 | [Serenade from Don Giovanni, K\. 527 \(Arr\. for Piano by Georges Bizet\)](https://open.spotify.com/track/2j2CXR4lLqP8YqGdc7bosZ) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [Serenade from Don Giovanni, K\. 527](https://open.spotify.com/album/7j8o9xtfmId4GdmVBCtMzS) | 2:26 | 2023-03-28 | 2023-04-14 |
 | [Serenade from Don Giovanni, K\. 527 \(Arr\. for Piano by Georges Bizet\)](https://open.spotify.com/track/4oQie9QUtsAVEYiXmz5IbK) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [Lacrymosa from Mozart's Requiem, S\. 550](https://open.spotify.com/album/775A1OSmwFYHClGO2fQmpq) | 2:26 | 2023-04-11 |  |
-| [Sheep May Safely Graze \- Arr\. by Alexis Ffrench](https://open.spotify.com/track/5Y4NircviB9cWOEn3oVrF8) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [When the Bells Ring](https://open.spotify.com/album/39L6Mn2b1cuxpsUQ7Ck3qK) | 2:03 | 2023-03-31 |  |
+| [Sheep May Safely Graze \- Arr\. by Alexis Ffrench](https://open.spotify.com/track/3VGYbvYV2kuabVIS3vdM0N) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Jesu, Joy of Man's Desiring](https://open.spotify.com/album/2pjG5wJxCWKHmZcNcK0mCR) | 2:03 | 2023-04-11 |  |
+| [Sheep May Safely Graze \- Arr\. by Alexis Ffrench](https://open.spotify.com/track/5Y4NircviB9cWOEn3oVrF8) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [When the Bells Ring](https://open.spotify.com/album/39L6Mn2b1cuxpsUQ7Ck3qK) | 2:03 | 2023-03-31 | 2023-04-22 |
 | [Sheep May Safely Graze \- Arr\. by Alexis Ffrench](https://open.spotify.com/track/62vy0nReW4u7ct09gyUlxm) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Sheep May Safely Graze](https://open.spotify.com/album/35sLTSEVfSOZr37eTTdReu) | 2:03 | 2023-03-28 | 2023-04-01 |
 | [Sicilienne in E Minor \(After Handel's HWV 369\)](https://open.spotify.com/track/4RrqS5QeuCvi4VY4a8CDmZ) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Hitomi Niikura](https://open.spotify.com/artist/1JFGO7YoBFo4lzQGLXy1CR), [Yuri Umemura](https://open.spotify.com/artist/3YMEAK1xeRRw8vmVGDwFeI) | [Danza](https://open.spotify.com/album/6qmd2JNUUAYNg8NhExfCHX) | 2:39 | 2023-03-28 |  |
 | [Sicilienne, Op\. 78](https://open.spotify.com/track/7uGumfAbZ4lROA6wr0LP5E) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Harriet Krijgh](https://open.spotify.com/artist/5V9Qpd9ZLs4gcrADy24ABP), [Kamilla Isanbaeva](https://open.spotify.com/artist/3LZBJFYsHwyMu6pnl3RvUq) | [The French Album](https://open.spotify.com/album/2OFiVje1NA3KyOdioI1kak) | 3:31 | 2023-03-28 |  |

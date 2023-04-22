@@ -1944,7 +1944,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 322100,
       "name": "Coltrane Plays the Blues",
       "url": "https://open.spotify.com/track/5KT08xhOGbce2aoy0I8sgV"
@@ -2991,6 +2991,24 @@
     },
     {
       "album": {
+        "name": "Embraceable You",
+        "url": "https://open.spotify.com/album/0GsbrReQDXI4lmLxRRUa8V"
+      },
+      "artists": [
+        {
+          "name": "Robin Mckelle",
+          "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280062,
+      "name": "Embraceable You",
+      "url": "https://open.spotify.com/track/2JUXoMH3QEp0e1Uk45oxqX"
+    },
+    {
+      "album": {
         "name": "Es Magia",
         "url": "https://open.spotify.com/album/4quOMvcOLNATWYHnC9vuvP"
       },
@@ -3144,7 +3162,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 379427,
       "name": "Everything Happens to Me",
       "url": "https://open.spotify.com/track/7vBeurhHC4d7lQ0MIvCKcP"
@@ -4388,7 +4406,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 184266,
       "name": "I Love Betsy",
       "url": "https://open.spotify.com/track/7hUO67KCQGC71mU10iwuhX"
@@ -6565,6 +6583,24 @@
     },
     {
       "album": {
+        "name": "Ysla",
+        "url": "https://open.spotify.com/album/5kNgR9PtICYsOzn9WF7fGu"
+      },
+      "artists": [
+        {
+          "name": "Yumi Ito",
+          "url": "https://open.spotify.com/artist/3uWJmmVbMN5fhVLhaDRcBY"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238309,
+      "name": "Lonely Island",
+      "url": "https://open.spotify.com/track/1xh4CsdmVqXOuK7Ms5LAsR"
+    },
+    {
+      "album": {
         "name": "Long as I Can See the Light",
         "url": "https://open.spotify.com/album/4ncLMRigz61cXFCGnt19Ti"
       },
@@ -7924,7 +7960,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 184981,
       "name": "On Green Dolphin Street",
       "url": "https://open.spotify.com/track/0MHAUC8TiE8lD8ciIZ9Zga"
@@ -10873,6 +10909,24 @@
     },
     {
       "album": {
+        "name": "Stage & Screen",
+        "url": "https://open.spotify.com/album/7DNsUgvsb3yMZMsfVaiBnS"
+      },
+      "artists": [
+        {
+          "name": "John Pizzarelli",
+          "url": "https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353920,
+      "name": "Too Close For Comfort",
+      "url": "https://open.spotify.com/track/6I6ZvbjUPX4BH1fGZaODy2"
+    },
+    {
+      "album": {
         "name": "Soul Eyes",
         "url": "https://open.spotify.com/album/15Ru9P22VfNHq4XUkJpWt9"
       },
@@ -11356,6 +11410,24 @@
       "duration_ms": 334600,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/6fmkBGKm7cDZ4Qq5LPN7cW"
+    },
+    {
+      "album": {
+        "name": "Waiting For The Sun To Rise",
+        "url": "https://open.spotify.com/album/5E0CarVimmc8TWcIgcqZ4f"
+      },
+      "artists": [
+        {
+          "name": "Marc Jordan",
+          "url": "https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278497,
+      "name": "Waiting for the Sun to Rise",
+      "url": "https://open.spotify.com/track/7ghUJN5yFKgcuSsY0TxRT1"
     },
     {
       "album": {

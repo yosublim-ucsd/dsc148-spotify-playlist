@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-162 songs - 8 hr 4 min
+164 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Dramatic \(prod\. PLAYDED\)](https://open.spotify.com/track/2KIJSmiVOO0Obh6h1rx8ti) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe), [PLAYDED](https://open.spotify.com/artist/2bVDBU5YmauWpiN1LJ8ZkL) | [Dramatic](https://open.spotify.com/album/0QuSvdYztrOUUPE5E6WKpP) | 2:34 | 2022-10-21 | 2023-04-09 |
 | [DROP](https://open.spotify.com/track/7xN35VVLctNoKT3A4khKqE) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [DROP](https://open.spotify.com/album/18V8UhRyjkIdJJ6giY7J9F) | 2:49 | 2022-05-06 | 2022-10-01 |
 | [DROP 'EM](https://open.spotify.com/track/0ia4JRneHZ67w3sgTA3fL5) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [SOFI](https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb) | [DROP 'EM](https://open.spotify.com/album/4d97rkRs2t5uB1Lk9irLky) | 2:42 | 2023-02-17 |  |
+| [Eclipse](https://open.spotify.com/track/2fGRhdxBQeJ1BKfOGp4bOU) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [Eclipse](https://open.spotify.com/album/6pI4baZes1gQ3p6VETX9Z5) | 3:31 | 2023-04-21 |  |
 | [El Pana Dero](https://open.spotify.com/track/0umJFQoaXdG6N8RhWdSElT) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [El Pana Dero](https://open.spotify.com/album/5HJNjbWyZqILeVwam3MV3I) | 2:44 | 2022-05-06 | 2022-08-27 |
 | [En Secreto](https://open.spotify.com/track/6lNd1FVwfPPmcXQM3Pr0xU) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [En Secreto](https://open.spotify.com/album/6BKh8ai1vPum2LclW1dGK1) | 2:09 | 2022-12-09 | 2022-12-20 |
 | [End Of The World](https://open.spotify.com/track/25tekS8txsCQov85px1xm2) | [End of the World](https://open.spotify.com/artist/0b59cVa1STVENq3i7wkcHV), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [End Of The World](https://open.spotify.com/album/31mDl63BV0n2ipUk8Mvigs) | 3:45 | 2022-05-06 | 2022-08-18 |
@@ -108,6 +109,7 @@
 | [No Beef \- Steve Aoki's 11 Years Later Remix](https://open.spotify.com/track/03PNqjZycgvVlRqSXEhM57) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Miss Palmer](https://open.spotify.com/artist/2Vd2ZmSFVZ9LEwHeJ8vf7U) | [No Beef \(REMIXES pt\. 1\)](https://open.spotify.com/album/2uOdq6lHvgGZWcKxUmn5ya) | 3:23 | 2022-05-06 | 2022-09-20 |
 | [No Brakes](https://open.spotify.com/track/2rNt0cXjLDLefeCItQrFwG) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [No Brakes](https://open.spotify.com/album/7o60ves6sdc3vr5LuUpK3Y) | 2:41 | 2022-05-06 | 2022-10-28 |
 | [No Turning Back \(feat\. Namelle\)](https://open.spotify.com/track/2pPPnvl7lARUARQZZU2e8c) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Namelle](https://open.spotify.com/artist/3ptQC4nwq1SuOFiSOSBLj3) | [No Turning Back \(feat\. Namelle\)](https://open.spotify.com/album/7jji2t4yyGdhWW4e1LKj47) | 2:55 | 2023-03-24 |  |
+| [Ocean](https://open.spotify.com/track/483ZlZtG4y2pyysb7FMYzZ) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [Ocean](https://open.spotify.com/album/5T5amvYXnuiNKG47VLuMtP) | 2:55 | 2023-04-21 |  |
 | [Older ft Jimmie Allen & Dixie D'Amelio](https://open.spotify.com/track/4ofGcbHRWhIsrYJswteQkU) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [Older ft Jimmie Allen & Dixie D'Amelio](https://open.spotify.com/album/0ulArbgB8WgKtxbuBtKDYO) | 2:59 | 2023-04-07 |  |
 | [On 2 Me](https://open.spotify.com/track/1R0TnAJuVKxFhxug65zOQL) | [High Zombie](https://open.spotify.com/artist/3BJQYwsCdSNt0eD4XUu5DE) | [On 2 Me](https://open.spotify.com/album/3j4mZqCGBv6dxpIoalM4gP) | 2:30 | 2022-05-06 | 2022-10-08 |
 | [One More Time](https://open.spotify.com/track/16qzW0XywVLTpAhCwPH8y6) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo), [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa) | [One More Time](https://open.spotify.com/album/32INDtZDynyEP0PqpLiOog) | 2:40 | 2022-05-06 | 2023-01-21 |

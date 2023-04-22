@@ -1828,7 +1828,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 166666,
       "name": "Night Sparkle (\u30ca\u30a4\u30c8\u30b9\u30d1\u30fc\u30af\u30eb)",
       "url": "https://open.spotify.com/track/1Fs1xkcbL8se6Yz62ATSWd"
@@ -2754,6 +2754,24 @@
       "duration_ms": 173489,
       "name": "The Good Ones",
       "url": "https://open.spotify.com/track/5l4L0T8QAFd3BYInKaurCn"
+    },
+    {
+      "album": {
+        "name": "The House",
+        "url": "https://open.spotify.com/album/7ekED2arGdfKQsg1Gqekiw"
+      },
+      "artists": [
+        {
+          "name": "Suuunday",
+          "url": "https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157650,
+      "name": "The House",
+      "url": "https://open.spotify.com/track/2ButdsowcftDJQOYPeBes7"
     },
     {
       "album": {

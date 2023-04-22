@@ -4,7 +4,7 @@
 
 > Songs to help your kids establish a productive daily routine, from waking up and brushing their teeth to potty training, cleaning up, taking a bath, and getting to sleep at night!
 
-105 songs - 3 hr 47 min
+106 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Peppa's Lullaby](https://open.spotify.com/track/4SksREPSXHLL0QG4HLyBYD) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u) | 2:46 | 2022-07-08 |  |
 | [Potties Everywhere](https://open.spotify.com/track/5AGPLE6WQThe3T5mr3z1Jr) | [Daniel Tiger’s Neighborhood](https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG) | [Family Trip](https://open.spotify.com/album/4waSd5lIVV49KspfwtyOoC) | 1:03 | 2021-09-23 | 2022-07-29 |
 | [Potties Everywhere](https://open.spotify.com/track/6kfee9Z4wWfxxPkl2Bxcmd) | [Daniel Tiger’s Neighborhood](https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG) | [Daniel Tiger's Neighborhood: Tiger Family Trip](https://open.spotify.com/album/5EC5pB1kwSggef5P44laiU) | 1:03 | 2022-07-08 |  |
+| [Potty Song](https://open.spotify.com/track/4bLWZAsy89pgfwJMZIFX9o) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Potty Song](https://open.spotify.com/album/4WpQeM7aNt1HrzK90O5Lok) | 1:36 | 2023-04-21 |  |
 | [Put On Your Shoes](https://open.spotify.com/track/1fgKsdPNOj8QGPpFfXQhz3) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [The Bath Song & More Kids Songs](https://open.spotify.com/album/6bOJxK69mrkyBwuzQYcUOp) | 2:54 | 2022-07-08 |  |
 | [Put on Your Shoes](https://open.spotify.com/track/3bNi3mZx9va7ziwT6b3DOb) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [The Bath Song & More Kids Songs](https://open.spotify.com/album/5NCGJqs3KjGNEvSFwsfmYn) | 2:54 | 2021-09-23 | 2022-07-29 |
 | [Rise & Shine \(Good Morning Song\)](https://open.spotify.com/track/6RvXhPFmWba1sJxd4M7jPK) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Rise & Shine \(Good Morning Song\)](https://open.spotify.com/album/7wD7g1SKFWi1aIrWWCPTgo) | 2:11 | 2021-09-23 |  |

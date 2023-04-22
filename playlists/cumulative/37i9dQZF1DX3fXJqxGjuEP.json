@@ -2446,7 +2446,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 236200,
       "name": "Cumbia Reggae",
       "url": "https://open.spotify.com/track/72Fa1rmc3H7WIQ6t68tk4A"
@@ -2684,8 +2684,8 @@
       },
       "artists": [
         {
-          "name": "Maria Jose Montijo",
-          "url": "https://open.spotify.com/artist/5TykWKBDUHa9X9Ezw5JXhk"
+          "name": "Esot\u00e9rica Tropical",
+          "url": "https://open.spotify.com/artist/6XMptgUrnAltqp1lXz7vCs"
         }
       ],
       "date_added": "2023-04-15",
@@ -5556,7 +5556,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 206284,
       "name": "Mojo",
       "url": "https://open.spotify.com/track/70NxnUV2P0uOus3V5eL9gs"

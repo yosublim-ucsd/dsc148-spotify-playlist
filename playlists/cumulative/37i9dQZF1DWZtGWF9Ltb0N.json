@@ -1872,7 +1872,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 281160,
       "name": "Disturbed",
       "url": "https://open.spotify.com/track/5JexpLUHY3HriFPMzbO0aQ"
@@ -2942,6 +2942,32 @@
       "duration_ms": 198222,
       "name": "gopher it",
       "url": "https://open.spotify.com/track/2YvxcEGBNgi1p4H3VDR0cy"
+    },
+    {
+      "album": {
+        "name": "GRIMESTEP",
+        "url": "https://open.spotify.com/album/3IDyryOTslwT2MErvbFRjC"
+      },
+      "artists": [
+        {
+          "name": "\u015aWI\u0118TY BASS",
+          "url": "https://open.spotify.com/artist/2sklN95nQCwgpfPikUHPjP"
+        },
+        {
+          "name": "Snowy",
+          "url": "https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP"
+        },
+        {
+          "name": "Emz",
+          "url": "https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243478,
+      "name": "GRIMESTEP",
+      "url": "https://open.spotify.com/track/3sOZwTlBTxsZPP5HqeXhuY"
     },
     {
       "album": {
@@ -5657,6 +5683,24 @@
     },
     {
       "album": {
+        "name": "Profit",
+        "url": "https://open.spotify.com/album/2aFVyFx3Phgvkt6KhnGRuV"
+      },
+      "artists": [
+        {
+          "name": "Ivy Lab",
+          "url": "https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155330,
+      "name": "Profit",
+      "url": "https://open.spotify.com/track/5qN1hpuWczrJHZmxHnZDFM"
+    },
+    {
+      "album": {
         "name": "Kaleidoscope, Vol. 2",
         "url": "https://open.spotify.com/album/7jLrpzLUbTLDMWG2r4xhSY"
       },
@@ -5872,6 +5916,24 @@
       "duration_ms": 387428,
       "name": "Rated M - Digital Pilgrimz Remix",
       "url": "https://open.spotify.com/track/0jloEad2gRJbxotshGRFXD"
+    },
+    {
+      "album": {
+        "name": "The Space Beneath the Light",
+        "url": "https://open.spotify.com/album/6Eo44s8MJyGxYCzUuRCm2P"
+      },
+      "artists": [
+        {
+          "name": "An-Ten-Nae",
+          "url": "https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219512,
+      "name": "Ready Ignition",
+      "url": "https://open.spotify.com/track/5VjHgL0kjNBsfZENKOe1mg"
     },
     {
       "album": {
@@ -6212,7 +6274,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 285151,
       "name": "Righteous",
       "url": "https://open.spotify.com/track/6vLVc8UKfHm5HFbprTee4T"
@@ -7362,7 +7424,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 222857,
       "name": "Stutter",
       "url": "https://open.spotify.com/track/5DbSkf9xg9f9M5A95zWoCZ"
@@ -7409,6 +7471,24 @@
     },
     {
       "album": {
+        "name": "Summoned",
+        "url": "https://open.spotify.com/album/2srMMiyY1AbsnW6069V55h"
+      },
+      "artists": [
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "Summoned",
+      "url": "https://open.spotify.com/track/22Z581eoV561ar9Pt1hIdp"
+    },
+    {
+      "album": {
         "name": "Like a Nuclear Bomb",
         "url": "https://open.spotify.com/album/4hAgBdP83bpgCmP3uTuePg"
       },
@@ -7438,7 +7518,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 301714,
       "name": "Supreme",
       "url": "https://open.spotify.com/track/3ysoysyiTgfQearPlE8KA7"

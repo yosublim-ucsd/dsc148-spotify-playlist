@@ -835,6 +835,24 @@
     },
     {
       "album": {
+        "name": "Millennia",
+        "url": "https://open.spotify.com/album/2pMVuu8bvtwcxk9mCWl6Xb"
+      },
+      "artists": [
+        {
+          "name": "D/S/T/N/C/E",
+          "url": "https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205485,
+      "name": "Cosmic Bliss",
+      "url": "https://open.spotify.com/track/2yf19OMz4MKWGBOIBbwa6F"
+    },
+    {
+      "album": {
         "name": "Internal Voices",
         "url": "https://open.spotify.com/album/2hO9mfx0JczzFqrrLRqtWf"
       },
@@ -3474,7 +3492,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 206769,
       "name": "Savannah",
       "url": "https://open.spotify.com/track/1GfkDco09y8iruC25beFMz"

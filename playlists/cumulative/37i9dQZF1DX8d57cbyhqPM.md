@@ -2,9 +2,9 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde\. 🌍 Photo: Zola
+> Du Congo, au monde\. 🌍 Photo: KeBlack
 
-211 songs - 13 hr 48 min
+213 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,12 +85,13 @@
 | [General](https://open.spotify.com/track/0lDx9Br2w3nX5loNu8OSMV) | [Sepho M](https://open.spotify.com/artist/4xlvdyNJ8KwXdrmCvParRE) | [General](https://open.spotify.com/album/7zIogOZFOtJ3zQzB4Obmr3) | 3:05 | 2023-02-24 | 2023-04-15 |
 | [Genkidama](https://open.spotify.com/track/1Jbim0t3F0TlAgBcza6tty) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Genkidama](https://open.spotify.com/album/3pzQi3OkoXi5xWgIcHmKfZ) | 3:04 | 2023-03-17 |  |
 | [Good Girl](https://open.spotify.com/track/3SP8A2N48XakBLHR8attPr) | [BMK](https://open.spotify.com/artist/7glinXeNR9Fs1UXGRcrbDk) | [Good Girl](https://open.spotify.com/album/7DEKSaSWU64dNbPqAXcnf7) | 2:40 | 2022-06-30 | 2022-08-27 |
+| [Good Vibe](https://open.spotify.com/track/1qbnqWCKJFo7MYKB013OSo) | [Samy palila](https://open.spotify.com/artist/0ie8C29F5qLW9CoMdogwyL) | [5Melodies Du Lac](https://open.spotify.com/album/2xb2jfEBXpzvbNLmVtSsVu) | 2:33 | 2023-04-21 |  |
 | [Holla](https://open.spotify.com/track/02KE9xq0mTKsOaZhSOQ2Gp) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [Holla](https://open.spotify.com/album/4t8mt3i5hTBN8scNtYXY6w) | 3:35 | 2022-08-05 |  |
 | [Hypnosia](https://open.spotify.com/track/3y37dGMIG4msr8n8jEcqh2) | [Scor Novy](https://open.spotify.com/artist/5EDWIzXeFXQwd0RVSdoTAS) | [Hypnosia](https://open.spotify.com/album/3US94NljdsVB2HON8Y5YlM) | 3:32 | 2022-09-23 | 2023-03-18 |
 | [J'ai trop de doute](https://open.spotify.com/track/6Y7id1J4IhIgAMUkNJDAjM) | [Unice Impacha](https://open.spotify.com/artist/6LRDzElFJeeRgHwV50rfeE), [Muz](https://open.spotify.com/artist/431RfrruAfhLUmeQz6GzXI) | [J'ai trop de doute](https://open.spotify.com/album/7A1sGtnEjm2j2GAZiNeODh) | 2:48 | 2022-07-08 | 2022-08-27 |
 | [Jalousie](https://open.spotify.com/track/0rpHNyZcbc2CGPbQoTdUpm) | [AFARA TSENA FUKUSHIMA](https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP) | [Coupé Décalé Congolais](https://open.spotify.com/album/6zcYVb2j21Mr2wHr7AlYOj) | 5:15 | 2022-07-15 | 2022-11-19 |
 | [Jalousie](https://open.spotify.com/track/1W7asBGIbGNgFelsxHqz9D) | [AFARA TSENA FUKUSHIMA](https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP) | [Coupé décalé congolais](https://open.spotify.com/album/3HOzLE98uvORHFwCmZ9oil) | 5:15 | 2022-06-30 | 2022-07-29 |
-| [Je sais faire](https://open.spotify.com/track/3lRGilDec8Yq22ZBf7JJlw) | [Jordy](https://open.spotify.com/artist/5tZRrutidZHlufZzoO10Zh), [Bruzer](https://open.spotify.com/artist/1U2Bzt0bhkqHJj7L1WQdnB) | [Je sais faire](https://open.spotify.com/album/65HMSuWazqfmdwXlpUyj1g) | 2:02 | 2023-03-17 |  |
+| [Je sais faire](https://open.spotify.com/track/3lRGilDec8Yq22ZBf7JJlw) | [Jordy](https://open.spotify.com/artist/5tZRrutidZHlufZzoO10Zh), [Bruzer](https://open.spotify.com/artist/1U2Bzt0bhkqHJj7L1WQdnB) | [Je sais faire](https://open.spotify.com/album/65HMSuWazqfmdwXlpUyj1g) | 2:02 | 2023-03-17 | 2023-04-22 |
 | [Je t'aime](https://open.spotify.com/track/5J9dOEHLNPwfbFlWPTkm8S) | [Gally](https://open.spotify.com/artist/77leAzJhNtGmrB9EzWxBv7) | [Amour & moi](https://open.spotify.com/album/2NAkbN7FQw4yTukP3NOvpb) | 2:57 | 2023-03-17 |  |
 | [Jolie \(feat\. Ninho\)](https://open.spotify.com/track/3q1FxEzXmsNmJrxaoICXzW) | [GAULOIS](https://open.spotify.com/artist/7LmtogB01302Utf3C3R4GT), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jolie \(feat\. Ninho\)](https://open.spotify.com/album/0S78h6ZbLzlZjpprrx6LO2) | 2:39 | 2023-03-17 |  |
 | [Julio Cesar \- Amapiano](https://open.spotify.com/track/3RDFbEo7EZado9KJVtLFc5) | [IDPizzle](https://open.spotify.com/artist/3tHfJUWTW4xMGVrUuFD7DC) | [Julio Cesar \(Amapiano\)](https://open.spotify.com/album/0v7n1Dy8POTrf0uclPKm2P) | 3:06 | 2022-07-08 | 2023-03-18 |
@@ -125,6 +126,7 @@
 | [Mbongo](https://open.spotify.com/track/7MNpmYELfvKKdLHAEUbCet) | [Juvelly](https://open.spotify.com/artist/76JitTMfMxdrHfWZzyqJMh) | [Mbongo](https://open.spotify.com/album/5Jg5DLWuVnf08USPjI1cBs) | 3:56 | 2022-06-30 | 2023-01-06 |
 | [Miso](https://open.spotify.com/track/4wjnWG0gIg1jDtLSuTMbGK) | [Hugo Kafumbi](https://open.spotify.com/artist/4vtmFniIoQeD5t7oNfu4Te) | [Miso](https://open.spotify.com/album/1NliySxbgFExAbNOjLDMMe) | 2:15 | 2023-03-31 |  |
 | [Misu na misu](https://open.spotify.com/track/0rEnLlgpNdxntNU7irVb51) | [Robinio Mundibu](https://open.spotify.com/artist/1YzBVaJOz8SAPDPcA13odz) | [Misu na misu](https://open.spotify.com/album/4kI0FPGAJdKHE7DEvfNv1i) | 3:28 | 2022-06-30 |  |
+| [MK II \- Version Libanga](https://open.spotify.com/track/58HxwiXZMSzFp0feDTpAcX) | [Tres](https://open.spotify.com/artist/1xOdbBrnyBhqyWkOx1K32l) | [MK II](https://open.spotify.com/album/0ZSPkwitGGzb6PRqXSqc4B) | 3:16 | 2023-04-21 |  |
 | [Mobulu te](https://open.spotify.com/track/5qd0QJrlKaoGyi4BWXx3Sa) | [Jupiter & Okwess](https://open.spotify.com/artist/2tujJgEWPfR8gdqVw183dT) | [Mobulu te](https://open.spotify.com/album/5R3lpXwUrTOTZ3WX2Zx5ZL) | 3:46 | 2023-02-24 | 2023-03-25 |
 | [Mon doudou](https://open.spotify.com/track/4LQhEWxaUSigESJetoNx2E) | [Ewing sima](https://open.spotify.com/artist/4Nc9sa3ZUT4b8Cp4YQKkjj) | [Mon doudou](https://open.spotify.com/album/4jokcX7kQNiaUmr09KH6nH) | 3:09 | 2022-06-30 | 2022-08-06 |
 | [Mood Pt.2](https://open.spotify.com/track/1Rm5415K4UyrcpQOvey81t) | [Ntaba 2 London](https://open.spotify.com/artist/0J1OPojYoKeyRGscpWrwPy) | [Mood Pt.2](https://open.spotify.com/album/2tBx4UzTVjncOnm8oYVMZs) | 1:12 | 2023-03-17 |  |
@@ -150,7 +152,7 @@
 | [Ofele \- Remix](https://open.spotify.com/track/5ov6NSwaKW2uycaad8mIrF) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc), [Mc Azas](https://open.spotify.com/artist/17N0ZLk7LwYBXT2DsG73KN) | [Ofele \(Remix\)](https://open.spotify.com/album/2iciVqnrQFBEyWv4BrhIgk) | 5:39 | 2022-11-18 | 2023-04-15 |
 | [Ok](https://open.spotify.com/track/35GMKeItBSoJCpzwyQWdpN) | [Mackareo](https://open.spotify.com/artist/3C4rDSQJShUu9DFasuQTzm), [C Cane](https://open.spotify.com/artist/3iKIlc0XHCyQQf7yQqARkG) | [Mackpiano, Vol\. 1](https://open.spotify.com/album/6KH1ywMPsztDOeymVcfrHZ) | 2:59 | 2022-06-30 | 2023-03-18 |
 | [Okay Okay](https://open.spotify.com/track/1lTRxUk02o0pSya1bIQJyM) | [Nix'xon](https://open.spotify.com/artist/67yFHJug9JLxD9OkRmm4DS) | [Okay Okay](https://open.spotify.com/album/4CHd2zP6zTBKzDSPq2yDez) | 2:13 | 2022-07-29 | 2023-02-11 |
-| [Olandi](https://open.spotify.com/track/5n2wtoHsSbah40D22SrHc5) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Olandi](https://open.spotify.com/album/7v6OQO2tJ2RgYlVb9uzPVX) | 4:40 | 2022-06-30 |  |
+| [Olandi](https://open.spotify.com/track/5n2wtoHsSbah40D22SrHc5) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Olandi](https://open.spotify.com/album/7v6OQO2tJ2RgYlVb9uzPVX) | 4:40 | 2022-06-30 | 2023-04-22 |
 | [On dit quoi](https://open.spotify.com/track/3zt5Q6HRZOeLVVOPpOWnkJ) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [Coupé Décalé Zone \(Sushiraw\)](https://open.spotify.com/album/1Vc4xc4Gfc1RAK33LFMJlQ) | 6:01 | 2022-06-30 |  |
 | [Oulala](https://open.spotify.com/track/2IWhvuzDDeTSbX5K3Ex7zB) | [Odrey](https://open.spotify.com/artist/4uMgvCxdUFjIOy4Nl1wKMj) | [Oulala](https://open.spotify.com/album/79UH7RYzNA2b9v0Xp2MTLt) | 2:30 | 2023-03-10 |  |
 | [Oya Ngai](https://open.spotify.com/track/0fIrK7LNla8OK5QmIjTXP1) | [Moerson](https://open.spotify.com/artist/6I4CPoQeM3qI54JeCqySdW) | [Oya Ngai](https://open.spotify.com/album/3txMN0jWePWXPVvgxyMvOE) | 2:44 | 2022-06-30 | 2023-03-18 |

@@ -1505,6 +1505,24 @@
     },
     {
       "album": {
+        "name": "Don't Try This At Home",
+        "url": "https://open.spotify.com/album/6mS81Go5P5wQKoybVT68NW"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155031,
+      "name": "Don't Leave",
+      "url": "https://open.spotify.com/track/3SqevdIQpizbwccSlAXJNE"
+    },
+    {
+      "album": {
         "name": "Don't Look At Numbers (Remix)",
         "url": "https://open.spotify.com/album/0mHLJmZeGCgDW4yh4M4MdO"
       },

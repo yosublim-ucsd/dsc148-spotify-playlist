@@ -1,12 +1,12 @@
 {
   "description": "Aqu\u00ed vive el hip-hop mexicano. ",
-  "num_followers": 658460,
+  "num_followers": 661600,
   "original_name": "Arena Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTk3MDQwMCwwMDAwMDAwMGMwMmY1MjJjNjFkYmI1YzAyZmVjYjc0ZDIzMjIyYjFh",
+  "snapshot_id": "MTY4MjA1NjgwMCwwMDAwMDAwMGVmMWY4ZThmYTcwZTczNGEwODU2NDdhYzNjOGZjMmIx",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -53,6 +53,26 @@
       "url": "https://open.spotify.com/track/3SC3Wfipjci9gEMFCZErgw"
     },
     {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "LA PIPA DE LA PAZ",
+        "url": "https://open.spotify.com/album/6Y7QL2YRsVOkFB2gxpnBEZ"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Inner Circle",
+          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
+        }
+      ],
+      "duration_ms": 150344,
+      "name": "LA PIPA DE LA PAZ",
+      "url": "https://open.spotify.com/track/35k8oH1X7gfCyw2Bp3c1Yy"
+    },
+    {
       "added_at": "2023-04-20 06:00:00",
       "album": {
         "name": "Aqu\u00ed Dentro",
@@ -91,6 +111,42 @@
       "duration_ms": 138039,
       "name": "B\u00e1jala",
       "url": "https://open.spotify.com/track/2DbQbh449mcSNT0wPGQa9Y"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "Alto Voltaje",
+        "url": "https://open.spotify.com/album/1KDs7zf9avbajx2jtOTqOe"
+      },
+      "artists": [
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Alto Voltaje",
+      "url": "https://open.spotify.com/track/0kRc7CgL2zznefYVYfCM1u"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "No Te La Sabes",
+        "url": "https://open.spotify.com/album/4rXdXTHY6DTAiS6bP7xAcl"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "No Te La Sabes",
+      "url": "https://open.spotify.com/track/2btkX75Lvqn68GoECFSAI9"
     },
     {
       "added_at": "2023-04-14 06:00:00",

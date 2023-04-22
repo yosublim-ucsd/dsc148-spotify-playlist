@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,445 songs - 5 day 12 hr 29 min
+3,446 songs - 5 day 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -509,7 +509,7 @@
 | [Cheeky Peak](https://open.spotify.com/track/1b4vtzaODrPqi7o055GNro) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Cheeky Peak](https://open.spotify.com/album/7yVQdlmKKWpt5XBbUr4781) | 1:31 | 2021-02-07 | 2021-04-23 |
 | [Cheeky Steve](https://open.spotify.com/track/4ZTVECvBdO9XU4tNhQcgQ0) | [Mr Mantega](https://open.spotify.com/artist/367E3x81QkJ0luGzpk8pqj) | [Cheeky Steve](https://open.spotify.com/album/4gfqyJDXiisIqxpm1t1eaV) | 2:27 | 2019-11-06 | 2020-04-07 |
 | [Cheer Up](https://open.spotify.com/track/0CVT6rpAdkDm4NKLdv7E9g) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt) | [Cheer Up](https://open.spotify.com/album/3W1TKjeKQawzmVlBGr9eOr) | 1:31 | 2022-03-10 | 2022-04-21 |
-| [cheesy zelda](https://open.spotify.com/track/2xrxAWTXk4OQ6H8qBQPTVB) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz), [Chirofafa](https://open.spotify.com/artist/5C9ZVCPJp5LOkCTu2sNbql) | [cheesy zelda](https://open.spotify.com/album/1zOX0bfjs7up6gpevkl7aq) | 2:38 | 2022-08-11 |  |
+| [cheesy zelda](https://open.spotify.com/track/2xrxAWTXk4OQ6H8qBQPTVB) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz), [Chirofafa](https://open.spotify.com/artist/5C9ZVCPJp5LOkCTu2sNbql) | [cheesy zelda](https://open.spotify.com/album/1zOX0bfjs7up6gpevkl7aq) | 2:38 | 2022-08-11 | 2023-04-22 |
 | [Chef's Special](https://open.spotify.com/track/600urY4NaWoTnxBCiLtnTC) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ) | [Chef's Special](https://open.spotify.com/album/7L0C8hrn4k6LHiw4DzBtgd) | 2:48 | 2022-02-11 | 2022-08-25 |
 | [Cherish](https://open.spotify.com/track/78N0RtQlSBjA33HzjQkSgV) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Cherish](https://open.spotify.com/album/3kncUh59wwNt2F2SCLAGvQ) | 1:51 | 2021-01-29 | 2021-05-14 |
 | [cherry](https://open.spotify.com/track/51mcuqQpPcsMRZ5KW0A0In) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [cherry](https://open.spotify.com/album/1wTr0NeYZivAevFTP2gU6a) | 2:06 | 2019-12-11 | 2020-04-24 |
@@ -1269,6 +1269,7 @@
 | [Holidays](https://open.spotify.com/track/4xkebhsPwfCwZZPD6dQMfO) | [FRANZ](https://open.spotify.com/artist/4pAtdFcsdl8iMusalbOlLS) | [Holidays](https://open.spotify.com/album/27avxXIKWZANb2VXBobfb6) | 2:14 | 2022-03-17 | 2022-04-22 |
 | [Hollywood Bowl](https://open.spotify.com/track/4g5RyPRMzCQvEhxUWC50hV) | [Remulak](https://open.spotify.com/artist/5epeii4aAE7NXFsBkqoJxB), [Critical Downtime](https://open.spotify.com/artist/1kIyFYFDYN6xfYlLVZsElW) | [Hollywood Bowl](https://open.spotify.com/album/4O1duIPHeVNIKKroMtfegJ) | 2:44 | 2020-08-08 | 2021-02-16 |
 | [home](https://open.spotify.com/track/75xkgYEiVaiJ6As5MJE5xZ) | [\_mario](https://open.spotify.com/artist/1sihjEVGVOkN0sH25F1Kc4) | [home](https://open.spotify.com/album/1gWH202kN37JdCiJ95MYXV) | 2:05 | 2019-05-26\* | 2019-08-13 |
+| [Home](https://open.spotify.com/track/4sXh3eo15M3C5TTPWzo52L) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Home](https://open.spotify.com/album/0ulwOH308qSJ5dcoUnehtV) | 2:27 | 2023-04-20 |  |
 | [home](https://open.spotify.com/track/7wQcuAjBXcGBdDgzpJyyoa) | [Koaraktor](https://open.spotify.com/artist/6wn1ulTOgegggm9vCwK9Ql) | [home](https://open.spotify.com/album/3YZahIX32LzrV6EuRkLNEg) | 2:09 | 2022-03-24 | 2022-04-21 |
 | [Home](https://open.spotify.com/track/5REXLZ1ZpxFyNp3LV4bFSt) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Home](https://open.spotify.com/album/2tkqEdvong0f8SDZLTT0TU) | 1:56 | 2021-11-19 | 2022-09-23 |
 | [Home](https://open.spotify.com/track/1rxr6oJ4GZstU9mmt955Ev) | [lofi lemur](https://open.spotify.com/artist/5veYeCJr7DmizEWGrJ42Pl) | [Home](https://open.spotify.com/album/6O1xtJJ1JWMfUVOnnNpD5R) | 1:31 | 2020-05-15 | 2020-07-28 |

@@ -2639,6 +2639,24 @@
     },
     {
       "album": {
+        "name": "To Feel Alive",
+        "url": "https://open.spotify.com/album/0pdUiITxv1TR0NFnO2ngCB"
+      },
+      "artists": [
+        {
+          "name": "Alex Ebert",
+          "url": "https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274539,
+      "name": "To Feel Alive",
+      "url": "https://open.spotify.com/track/0It79bgHAwcMh4BstYKUyw"
+    },
+    {
+      "album": {
         "name": "Consolers of the Lonely",
         "url": "https://open.spotify.com/album/0OBNtBshpjFPStZGJTGNJr"
       },

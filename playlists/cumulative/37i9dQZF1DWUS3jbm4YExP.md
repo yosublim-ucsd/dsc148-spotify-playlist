@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-528 songs - 1 day 14 hr 41 min
+529 songs - 1 day 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,11 +467,12 @@
 | [Tendme \(Habibi Funk 015\)](https://open.spotify.com/track/2telsvYtSRHVlj8kWqrB6A) | [Ibrahim Hesnawi](https://open.spotify.com/artist/6tPa6NxEdaNHWKupImT46F) | [Tendme \(Habibi Funk 015\)](https://open.spotify.com/album/5QemzvXDdZw3BAEyjcgPWD) | 4:39 | 2021-10-06 | 2022-05-26 |
 | [Teu sorriso \- 56 Mix](https://open.spotify.com/track/4bOlBoY9gcHSIPew1Sbi3F) | [Paraíso](https://open.spotify.com/artist/4ID8ALXR4zZrcJFvxL41n0) | [Teu sorriso](https://open.spotify.com/album/2PjHbUJ1FaYtEPO5JsmRDs) | 5:33 | 2022-03-29 | 2022-04-21 |
 | [Thank You](https://open.spotify.com/track/024X0CCgxFHrgGKY1WTFcA) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy), [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl) | [Topical Dancer](https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz) | 5:51 | 2022-04-26 | 2023-03-16 |
+| [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 | 2023-04-21 |  |
 | [The Chocolate Conquistadors \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/track/6HOLZtVDh5EgvPnW4z23n2) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [The Chocolate Conquistadors \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/album/3ev38ci4cqU1Ic8vmNri3D) | 7:00 | 2021-10-06 |  |
 | [The Duke](https://open.spotify.com/track/11V8HzOfn85nFZmDntBvnP) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [The Duke](https://open.spotify.com/album/2FnbvOsZ4x8mnx4eKOKnA9) | 2:46 | 2021-10-06 | 2022-07-26 |
 | [The Ocean](https://open.spotify.com/track/0CfCygNUYJHOPcBAx0GUeL) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh), [Bookend](https://open.spotify.com/artist/2mQ765VXi6upoFrj3JbgMD) | [Mirage](https://open.spotify.com/album/7svw0efuI6ZCFD61Vj2DWF) | 4:02 | 2022-04-17 | 2022-10-26 |
 | [The Ocean](https://open.spotify.com/track/204FgGC3890KCzUvtG33qV) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh), [Bookend](https://open.spotify.com/artist/25Fdr64rur2zWVMYSnit4i) | [Mirage](https://open.spotify.com/album/5W4WsP6C2y0TO1y2WaWp5E) | 4:02 | 2022-04-17 | 2022-07-29 |
-| [The Rabbit That Hunts Tigers](https://open.spotify.com/track/13rx5XnSVYoN2IhPnERw24) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [The Rabbit That Hunts Tigers](https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK) | 5:48 | 2021-10-06 |  |
+| [The Rabbit That Hunts Tigers](https://open.spotify.com/track/13rx5XnSVYoN2IhPnERw24) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [The Rabbit That Hunts Tigers](https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK) | 5:48 | 2021-10-06 | 2023-04-22 |
 | [The Wrangler](https://open.spotify.com/track/0WEMvMJZUrCUJJtu7rOPjB) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Wrangler](https://open.spotify.com/album/54TFr7reQoam9PpEzw8mFp) | 2:59 | 2021-10-06 | 2022-07-07 |
 | [Theme From Beverly Hills Cop \(Axel F\) \- Live at Jam PDM](https://open.spotify.com/track/6L2p6X0gxm7VOpnnmbNFGf) | [The Mighty Mocambos](https://open.spotify.com/artist/04x6p6zQH45PoTDGmumiDv) | [Theme From Beverly Hills Cop \(Axel F\) \[Live at Jam PDM\]](https://open.spotify.com/album/4m0r8ycnc54Ns6EyRR6DuS) | 3:37 | 2021-10-06 | 2022-07-26 |
 | [They Don't Care \- Yoruba Soul Extended Mix](https://open.spotify.com/track/6YrA7JXJTEGHOJMDVXetYq) | [Izy](https://open.spotify.com/artist/79aQimb3liMvrff1f9Rn3F), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [They Don't Care \(Yoruba Soul Extended Mix\)](https://open.spotify.com/album/7FMWMkurzgI71X81Z1Bge4) | 6:40 | 2022-09-30 | 2022-12-22 |

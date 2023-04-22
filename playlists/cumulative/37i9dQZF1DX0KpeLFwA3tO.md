@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Rancid
 
-1,014 songs - 2 day 2 hr 44 min
+1,017 songs - 2 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [6 In The Morning](https://open.spotify.com/track/1iL1mld9Q9YZgIVQCVJ0JB) | [Nuha Ruby Ra](https://open.spotify.com/artist/6tqTRVcajCVWmibmempM9m) | [6 In The Morning](https://open.spotify.com/album/2dDroSoRtp3FeUeVSvqUry) | 5:19 | 2023-03-03 | 2023-04-14 |
 | [777](https://open.spotify.com/track/32T66P2JPhtWih0uh4EsCY) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3), [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [777](https://open.spotify.com/album/1Kvan76tJlcyct8V6awYkZ) | 2:37 | 2022-12-09 | 2023-03-10 |
 | [97 Bop](https://open.spotify.com/track/4r8EoLjUp9dRe2pCJQlWff) | [Ethan Fields](https://open.spotify.com/artist/2SqxqNtAbLxHG8FB2gGiIJ) | [97 Bop](https://open.spotify.com/album/4vtnejKQkMPFpWDggqDOu7) | 1:26 | 2022-07-14 | 2022-08-26 |
-| [A Kiss for the Whole World x](https://open.spotify.com/track/28kdCguOw9S30DVMRhL3uh) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [A Kiss for the Whole World](https://open.spotify.com/album/54ueM4SD9fr9VTYeXJc8xp) | 3:31 | 2023-04-20 |  |
+| [A Kiss for the Whole World x](https://open.spotify.com/track/1LAuVHMWdVkdbNmSVXWw2K) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [A Kiss for the Whole World](https://open.spotify.com/album/5bTSXCOLlIH6gsOvuI3PCI) | 3:31 | 2023-04-20 |  |
+| [A Kiss for the Whole World x](https://open.spotify.com/track/28kdCguOw9S30DVMRhL3uh) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [A Kiss for the Whole World](https://open.spotify.com/album/54ueM4SD9fr9VTYeXJc8xp) | 3:31 | 2023-04-20 | 2023-04-22 |
 | [A Mess](https://open.spotify.com/track/2AzhIrLY8aoVVpzA1KvFcB) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [A Mess](https://open.spotify.com/album/2JfNvW8E5SFdRnPf0ysuSr) | 3:58 | 2022-06-16 | 2022-07-08 |
 | [A Real Thing](https://open.spotify.com/track/5cHFMi5m8FTcYOjzgzmXt1) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [A Real Thing](https://open.spotify.com/album/53IuAG6Mqh2iMjI3b1ithn) | 3:35 | 2022-02-11 | 2022-03-25 |
 | [A Session With My Therapist](https://open.spotify.com/track/34z2PBOPZUisHIdPYdlUzU) | [Aryia](https://open.spotify.com/artist/3pWE3vAZ06uBBPsmguhCz2) | [A Session With My Therapist](https://open.spotify.com/album/1UkkJcrSfZ0YBir2pnfNhV) | 3:19 | 2022-01-11 | 2022-03-11 |
@@ -724,6 +725,7 @@
 | [REAL SUPER DARK](https://open.spotify.com/track/7uuHc1gwZCKG9CGJopnSF3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/1TyNSqm2av7ed9Z6BgHhFT) | 2:29 | 2023-01-27 | 2023-01-30 |
 | [RECKLESS](https://open.spotify.com/track/2iNb7p7WLZ4fJHZd3kbWst) | [LOU](https://open.spotify.com/artist/4tVzfQLYPxk5vGAgPQXmK4) | [RECKLESS](https://open.spotify.com/album/1tKiELuITXrxUVWA1bUzII) | 2:55 | 2023-03-24 |  |
 | [Red And Yellow All Over](https://open.spotify.com/track/7cmDbyTSuwK5EVbxMjSPeG) | [Jealous](https://open.spotify.com/artist/0VCf4hjBKWDodCDO7U8yJO) | [Red And Yellow All Over](https://open.spotify.com/album/0Js8XmodtBj4ekBJOECxUy) | 5:01 | 2023-03-10 | 2023-04-14 |
+| [Red Is My Favorite Color](https://open.spotify.com/track/3VWAcQuJUg4MaxDJFylZ4i) | [JULES IS DEAD](https://open.spotify.com/artist/5inrtHsPByV845LcC1mDmM) | [Red Is My Favorite Color](https://open.spotify.com/album/45YaDxH88ruPMKjFvu6ozR) | 3:18 | 2023-04-20 |  |
 | [Red Wing](https://open.spotify.com/track/5bZMw4BXuxEgjXH1anAMUA) | [Wolfrik](https://open.spotify.com/artist/6Yyr4z6ZKxZu9y3Wa0Vs2o) | [Clones](https://open.spotify.com/album/5gUhgvoU6u50Seadl0Bk5K) | 3:11 | 2022-02-25 | 2022-04-08 |
 | [Red, White, & Blue \- Oceanator Remix](https://open.spotify.com/track/5V2eKrzskMnKGXICr3DUWh) | [Proper.](https://open.spotify.com/artist/07fRiLziB7HEpoJippeKdK), [Oceanator](https://open.spotify.com/artist/4XUljLhCjbV8Zc6IX14Yj6) | [Red, White, & Blue \(Oceanator Remix\)](https://open.spotify.com/album/4qAjTiYjRwHtUMjNmSnJvn) | 2:44 | 2022-08-11 | 2022-09-30 |
 | [relax and float downstream](https://open.spotify.com/track/4yk8K9Mkjxxwv16sjzEGfs) | [Super American](https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2) | [relax and float downstream](https://open.spotify.com/album/35RFMYoqpaPfv28xPr2Mfx) | 1:43 | 2021-12-17 | 2022-01-12 |
@@ -1016,7 +1018,8 @@
 | [Yellow Green](https://open.spotify.com/track/5JJcKhUALMKWz9VDUInNld) | [mirabelle.](https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0) | [Yellow Green](https://open.spotify.com/album/2s9EeTNm6Xo0EnEDfc4uUZ) | 2:35 | 2022-01-21 | 2022-02-25 |
 | [You Don't Know](https://open.spotify.com/track/6YmDcqO9H259HAakFwP64w) | [Topsy Turvy's](https://open.spotify.com/artist/1uFRoP0MCfPkKzA5usrdQn) | [You Don't Know](https://open.spotify.com/album/5XYICzIxzSs9wQnBUveDiO) | 3:03 | 2022-11-11 | 2023-02-17 |
 | [YOU DONT EVEN SURF HERE](https://open.spotify.com/track/1bP1YIIORwvDEFx9hPEBzc) | [Destructo Disk](https://open.spotify.com/artist/2kc0DEfYci8CKkvQmnivj9) | [YOU DONT EVEN SURF HERE](https://open.spotify.com/album/7Jq8Qi0zcMMUsUf7NfrcyT) | 2:34 | 2022-02-04 | 2022-03-18 |
-| [You're Gonna Realise](https://open.spotify.com/track/0QyMuaMBrpFiIBM4KPclO4) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [You're Gonna Realise](https://open.spotify.com/album/1oGwGvoSddgzKHzmBkWDdc) | 2:36 | 2023-04-20 |  |
+| [You're Gonna Realise](https://open.spotify.com/track/0QyMuaMBrpFiIBM4KPclO4) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [You're Gonna Realise](https://open.spotify.com/album/1oGwGvoSddgzKHzmBkWDdc) | 2:36 | 2023-04-20 | 2023-04-22 |
+| [You're Gonna Realise](https://open.spotify.com/track/7rl04qYTJiJMxraX7XVnHp) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [You're Gonna Realise](https://open.spotify.com/album/0KlpemBJ3GoWxX9mbeL18K) | 2:36 | 2023-04-20 |  |
 | [you're not special](https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [you're not special](https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC) | 2:46 | 2022-07-14 | 2022-09-09 |
 | [You've Won](https://open.spotify.com/track/3p9ZAIfZN9rBPlJfCc5yo7) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I) | [You've Won](https://open.spotify.com/album/4GyKyaMWBVON06i7eMvqyv) | 2:12 | 2021-12-17 | 2022-01-15 |
 | [Your Love Was My Drug Too](https://open.spotify.com/track/2ZowBjrBKqgvAM7l7qrGaG) | [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [Your Love Was My Drug Too](https://open.spotify.com/album/6EuadnZ9ia3u6afdV6JDD5) | 3:06 | 2022-10-13 | 2023-01-20 |

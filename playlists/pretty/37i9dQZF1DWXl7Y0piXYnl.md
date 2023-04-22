@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,365 likes - 70 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,372 likes - 70 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 19 | [pinky ring](https://open.spotify.com/track/6ujwcSNqTkQBwR8sJUABaZ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [pinky ring / red velve7](https://open.spotify.com/album/1vlLqZ0bH500wKz2TRKNIQ) | 4:39 |
 | 20 | [UNTITLED](https://open.spotify.com/track/5bYFQquNKlqHPRX5gRHLOT) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [OFFLINE!](https://open.spotify.com/album/5k1geNqLd4yHzyg5L6XF2z) | 2:48 |
 | 21 | [advice to young girls](https://open.spotify.com/track/0ZPXrHESylcoCCy463k7YP) | [Inga Copeland](https://open.spotify.com/artist/1ZdoULgEhBXOV2g3j3Zhhi), [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Because I'm Worth It](https://open.spotify.com/album/7arCHJ8lpH2X3YpeEAmJxS) | 4:48 |
-| 22 | [Whaa](https://open.spotify.com/track/7dqCouXOxmOJbA0M1Em37N) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Logan](https://open.spotify.com/artist/7uyQOsktLn9VjGJg5KO9Ek) | [Whaa](https://open.spotify.com/album/756jjoK8Aa3EYNkCcsoK22) | 4:31 |
+| 22 | [Whaa](https://open.spotify.com/track/7dqCouXOxmOJbA0M1Em37N) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Whaa](https://open.spotify.com/album/756jjoK8Aa3EYNkCcsoK22) | 4:31 |
 | 23 | [Terminator](https://open.spotify.com/track/1l0UpKKk4JoNSgiAU3jXUU) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M), [Rufige Kru](https://open.spotify.com/artist/36kYq0d66eHa4Zz8iNkPFS) | [Fabio & Grooverider: 25 Years of Drum & Bass](https://open.spotify.com/album/1FHMZEpgqTR869J27inlbY) | 4:14 |
 | 24 | [NEON RATS \- SHERELLE's Sleepless in Philadelphia Remix](https://open.spotify.com/track/2FlPHfGs4KUe2GDtNQfb3P) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy), [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [EVEN MORE D4TA](https://open.spotify.com/album/1Jezw4Z2jKAhBF193bY5qM) | 4:50 |
 | 25 | [Shwele](https://open.spotify.com/track/49U7pqWPRT73VZE1iqv3bh) | [Rudeboyz](https://open.spotify.com/artist/3De9bGnGSaxAu4sJz4Y9Wk), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn), [Dladla Mshunqisi](https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt), [Shayo](https://open.spotify.com/artist/7Kmks7qr2g78bOMsAa8ocF) | [Shwele](https://open.spotify.com/album/2lNfSss7OrD82hvs3XQFSH) | 5:22 |

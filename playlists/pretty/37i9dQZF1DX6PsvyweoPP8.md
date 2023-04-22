@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,011 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,178 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 5 | [Na Onda](https://open.spotify.com/track/0yNT55PxVoLMHb75JaF2s0) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Na Onda](https://open.spotify.com/album/3Vj7xdxkZg832MNCRvongO) | 3:19 |
 | 6 | [Cartier](https://open.spotify.com/track/1R2kdZX8vA5BV7NrX1vs2b) | [Real Nage](https://open.spotify.com/artist/5zUzbSkYRVlxgmQ0W9wlKm), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY) | [Cartier](https://open.spotify.com/album/0IvMsNWwLOhhlcPyx3O6VQ) | 2:08 |
 | 7 | [Perna Bamba](https://open.spotify.com/track/0p0X3eZfy33Gc91M8FRsli) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Perna Bamba](https://open.spotify.com/album/1m0PMbtxRIIAEvK4F4L61u) | 3:00 |
-| 8 | [Goxtosa](https://open.spotify.com/track/03LFmw80ANXNLZrWQr3pV7) | [Lukkas](https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL) | [Goxtosa](https://open.spotify.com/album/1s9NNte7IjxyTd3p0AYPNo) | 3:02 |
-| 9 | [Leva a Sério](https://open.spotify.com/track/0831w107Td8zU9lZOg7KuS) | [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu), [Xitter](https://open.spotify.com/artist/5W21lrK6TGP7nLaujNQtJE), [Filbeats](https://open.spotify.com/artist/0C1TQdWE8gSdIdZkyQhcdP) | [Leva a Sério](https://open.spotify.com/album/7vvK6xHPbNyDaBC4ltB50K) | 2:05 |
+| 8 | [Balança Dona Onça](https://open.spotify.com/track/7wRB9osEiwoJQtttVmpDmm) | [Gu](https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Balança Dona Onça](https://open.spotify.com/album/37Lo8SM4fMpdXXliNW4d3H) | 3:24 |
+| 9 | [Goxtosa](https://open.spotify.com/track/03LFmw80ANXNLZrWQr3pV7) | [Lukkas](https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL) | [Goxtosa](https://open.spotify.com/album/1s9NNte7IjxyTd3p0AYPNo) | 3:02 |
 | 10 | [Me Expulse](https://open.spotify.com/track/393H1RMRUEGjnKZp2xfkif) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [Me Expulse](https://open.spotify.com/album/1qjhWU48iE7W4mrVq1Z2pt) | 2:30 |
 | 11 | [Dolce](https://open.spotify.com/track/5pzkXOVH7FgEDu6RuqngQL) | [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Romano](https://open.spotify.com/artist/4WOmrdbsuZMutpAiX56Jp6) | [INEFÁVEL](https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X) | 2:16 |
 | 12 | [Pirata](https://open.spotify.com/track/3JiiLcWGHzXCkbw8syxFMa) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ) | [Pirata](https://open.spotify.com/album/4NmljZyRzVZtXSRM3As0M9) | 1:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 74 | [Linda e Solitária](https://open.spotify.com/track/4GzKyE021uEcLuklCSUzEA) | [Camaradas Camarão](https://open.spotify.com/artist/5tDe323KtgqFfze1MzLR7z), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h), [Gabriel Sten](https://open.spotify.com/artist/5voSO4poDCRjQzKgMuCTWM), [Córtex Cam Cam](https://open.spotify.com/artist/7wqJ4b9MuDGAIVQjzAsiIe) | [Linda e Solitária](https://open.spotify.com/album/2C32Ywnk9I74RFHPKSK6z1) | 2:50 |
 | 75 | [Sereia](https://open.spotify.com/track/2SNYcKYSuKoQLvdLPvWJgQ) | [Denov](https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW) | [Sereia](https://open.spotify.com/album/1xm2lmJXFM3DPiOOqJYozn) | 3:36 |
 
-Snapshot ID: `MTY4MDgzNjQ2MCwwMDAwMDAwMDAzY2VlODFiZjAwNGM2Y2E1NjU3ZWEzODM0ZTk1MzA0`
+Snapshot ID: `MTY4MjA0NjA2MCwwMDAwMDAwMGY5NGMyODlkZWQ2NWI2YjIwMmUwMTE4NjUzYWM5MTJj`

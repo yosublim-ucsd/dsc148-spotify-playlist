@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide.   Cover:  <a href=\"https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8?si=382d4c13b38b4df7\">Elevation RHYTHM</a>",
+  "description": "The best mix of today's Christian music, all genres, worldwide.   Cover:  <a href=\"https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD?si=ZKOL_11_SlWkqMthacOUQQ\">Housefires</a>",
   "name": "Top Christian & Gospel",
   "tracks": [
+    {
+      "album": {
+        "name": "A New Thing",
+        "url": "https://open.spotify.com/album/5e2Kuvl2v660idmQZMzXVz"
+      },
+      "artists": [
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217297,
+      "name": "A New Thing",
+      "url": "https://open.spotify.com/track/1lzFtxdNGEUf3mWeqb6aBi"
+    },
     {
       "album": {
         "name": "Roll Tape: Live From Melody League Studios",
@@ -944,7 +962,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 334920,
       "name": "Bridge Over Troubled Water (with CeCe Winans) - Live VH1 Honors - June 22, 1995",
       "url": "https://open.spotify.com/track/767NCpvhtPBaQKsHWEGbHh"
@@ -1056,7 +1074,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 199186,
       "name": "But the Cross",
       "url": "https://open.spotify.com/track/0NaNbWaGY87JEfdgB3bf1B"
@@ -1933,6 +1951,28 @@
     },
     {
       "album": {
+        "name": "Dominion: Day of Destiny",
+        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        },
+        {
+          "name": "Adam Gontier",
+          "url": "https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207759,
+      "name": "Finish Line (feat. Adam Gontier)",
+      "url": "https://open.spotify.com/track/3zkge7duYNYjsByp6Q0qZM"
+    },
+    {
+      "album": {
         "name": "Finish Line (feat. Adam Gontier)",
         "url": "https://open.spotify.com/album/5CDZtrKb7xdTOwFlqrmzP0"
       },
@@ -1948,7 +1988,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 207759,
       "name": "Finish Line (feat. Adam Gontier)",
       "url": "https://open.spotify.com/track/5ipALw7s8VxqaxoskWH6hJ"
@@ -2378,7 +2418,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 157531,
       "name": "GO BACK",
       "url": "https://open.spotify.com/track/3RuK88EzkleaL2bIpUmVEP"
@@ -2576,6 +2616,24 @@
       "duration_ms": 255320,
       "name": "God, Turn It Around",
       "url": "https://open.spotify.com/track/3zt6T5xcqLJRYnQq0yqQaR"
+    },
+    {
+      "album": {
+        "name": "Gonna Be Alright (Radio Version)",
+        "url": "https://open.spotify.com/album/7kQsFexK5bd8U19qD6GEmF"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227340,
+      "name": "Gonna Be Alright - Radio Version",
+      "url": "https://open.spotify.com/track/7nqvOv0a8Ai8o8DATHPVjS"
     },
     {
       "album": {
@@ -4237,6 +4295,28 @@
     },
     {
       "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        },
+        {
+          "name": "James Fortune",
+          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233766,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/7vqC1Vkr5f9a7CylkjUkPW"
+    },
+    {
+      "album": {
         "name": "In Jesus Name (God Of Possible) [Piano Version]",
         "url": "https://open.spotify.com/album/7JIK7T3f1r89w0MNhSPB9r"
       },
@@ -5257,6 +5337,28 @@
     },
     {
       "album": {
+        "name": "How To Start A Housefire (Pt. II)",
+        "url": "https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Cecily Hennigan",
+          "url": "https://open.spotify.com/artist/3zYhPKXlVf8jlSHqlpiqWh"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441106,
+      "name": "Look Around",
+      "url": "https://open.spotify.com/track/45MwQxfmmHhYFGQuyPOpt3"
+    },
+    {
+      "album": {
         "name": "Look What You've Done",
         "url": "https://open.spotify.com/album/4aMweKaQNh6Yc8cg4WoMu5"
       },
@@ -5730,6 +5832,24 @@
       "duration_ms": 338493,
       "name": "Monday Morning Faith - Acoustic",
       "url": "https://open.spotify.com/track/2V7ozI3jvpPyLVxnvSac3z"
+    },
+    {
+      "album": {
+        "name": "The London Sessions (Live)",
+        "url": "https://open.spotify.com/album/2eTWtaGodtRKgLBNjFhdUM"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227800,
+      "name": "Monument - Live",
+      "url": "https://open.spotify.com/track/7fg9G5aRIRJnC8w5Vj1yhe"
     },
     {
       "album": {
@@ -7412,7 +7532,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 446626,
       "name": "Satisfied / Keep My Eyes Up - Medley",
       "url": "https://open.spotify.com/track/1K79lWG1jzrZh4AY7uelBV"
@@ -7652,7 +7772,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 255233,
       "name": "So Good",
       "url": "https://open.spotify.com/track/6S5InY8HVnvFYKgeOrnKN0"
@@ -8843,6 +8963,24 @@
     },
     {
       "album": {
+        "name": "There's Nothing",
+        "url": "https://open.spotify.com/album/04dNGGce0Fc3Qiy3gTJoUI"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282276,
+      "name": "There's Nothing",
+      "url": "https://open.spotify.com/track/6DFMPHda9HkxZzz2p7DzkE"
+    },
+    {
+      "album": {
         "name": "Breakthrough: The Exodus (Live)",
         "url": "https://open.spotify.com/album/5l8UFWanHTPYfWXXJhIYdZ"
       },
@@ -8894,7 +9032,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 222428,
       "name": "This I Know (Jesus Loves Me)",
       "url": "https://open.spotify.com/track/1dd52Rf0sGaWMLlDqDLZ2L"

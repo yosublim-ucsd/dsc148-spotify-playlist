@@ -10379,6 +10379,24 @@
     },
     {
       "album": {
+        "name": "Infinity Air",
+        "url": "https://open.spotify.com/album/66F05OegqZRAIP5xL2uykl"
+      },
+      "artists": [
+        {
+          "name": "Maria Botican",
+          "url": "https://open.spotify.com/artist/02CZQLikIIoZB7rhBk5PvT"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Scorchio",
+      "url": "https://open.spotify.com/track/5kDLhUYHZr5Q6geAcM3lF3"
+    },
+    {
+      "album": {
         "name": "Sdraiata accanto a me",
         "url": "https://open.spotify.com/album/6Art3HIEkBZiO4Vd63VqCF"
       },

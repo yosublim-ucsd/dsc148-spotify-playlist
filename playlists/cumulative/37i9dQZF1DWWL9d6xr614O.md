@@ -4,7 +4,7 @@
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-106 songs - 8 hr 16 min
+107 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Bagong Buhay](https://open.spotify.com/track/33lNaAAd1vfQVi7tJaaACE) | [Hazel Faith](https://open.spotify.com/artist/1IJ4wDIUWLb0XLmPN79SDj) | [Bagong Buhay](https://open.spotify.com/album/6trSs3g5tU29FEr8yamEI5) | 3:40 | 2022-04-15 |  |
 | [Beautiful](https://open.spotify.com/track/5TjWv28A1YWX0sYC0Ey8Ov) | [Ogie Alcasid](https://open.spotify.com/artist/1vlz5PDUCNuZJeuJoufQkN), [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Beautiful](https://open.spotify.com/album/4W2GDr3NuuQRfjOJrWTdli) | 5:34 | 2022-04-15 |  |
 | [blink](https://open.spotify.com/track/2Wj8VlQtwHfuUUh5qwoNuG) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [blink](https://open.spotify.com/album/6EpnJOCAvRUvXg66j1a0IJ) | 3:48 | 2022-04-15 |  |
+| [Breathe \- Live](https://open.spotify.com/track/65tspDwHw8StH9eARVUBMp) | [AWAKE84](https://open.spotify.com/artist/0isNdx2FzHaUs3TnQFdGNg) | [Wonderstruck](https://open.spotify.com/album/6KfDaZrJx94lkY1mBgxXmH) | 9:23 | 2023-04-21 |  |
 | [BUNTONG HININGA](https://open.spotify.com/track/61gplnMSMY4WfUZ9tsnmsK) | [EJ De Perio](https://open.spotify.com/artist/0EsbqfoNiHI0u1OaQUYDlI) | [BUNTONG HININGA](https://open.spotify.com/album/5jxPAqk6GJY9zi83imluw2) | 4:28 | 2022-04-15 |  |
 | [Change My Heart, Oh God](https://open.spotify.com/track/4cauwv2JwSGHEOehKhwZSC) | [Lyle Lopez](https://open.spotify.com/artist/5PEXx58BRuOq6D3CbBnx5M) | [Burst into Songs Ministries](https://open.spotify.com/album/5yZl6gJHmBQ5gJ73gqbzUj) | 5:24 | 2022-04-15 |  |
 | [Confession](https://open.spotify.com/track/21ECSoDa2Z8NjzNs9133x0) | [Hazel Faith](https://open.spotify.com/artist/1IJ4wDIUWLb0XLmPN79SDj) | [Confession](https://open.spotify.com/album/7aO5bOCwrYCx33fUzuaKVO) | 3:10 | 2022-04-15 |  |

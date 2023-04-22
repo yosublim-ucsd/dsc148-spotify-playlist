@@ -1097,6 +1097,24 @@
     },
     {
       "album": {
+        "name": "Egyptian Lover",
+        "url": "https://open.spotify.com/album/40CEKSB4zJErS8ZFdpuss2"
+      },
+      "artists": [
+        {
+          "name": "Felukah",
+          "url": "https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118269,
+      "name": "Egyptian Lover",
+      "url": "https://open.spotify.com/track/6cXwmgaPgKyLDL0xWiVNyX"
+    },
+    {
+      "album": {
         "name": "EL DAYNASOUR",
         "url": "https://open.spotify.com/album/5vscrHtVOzo7UV9yc9UypS"
       },

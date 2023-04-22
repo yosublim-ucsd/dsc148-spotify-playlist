@@ -2,7 +2,7 @@
 
 ### [Rock Solid](https://open.spotify.com/playlist/37i9dQZF1DX49jUV2NfGku)
 
-> New rock classics and essential cuts\. Cover: The White Stripes
+> New rock classics and essential cuts\. Cover: System Of A Down
 
 169 songs - 11 hr 22 min
 

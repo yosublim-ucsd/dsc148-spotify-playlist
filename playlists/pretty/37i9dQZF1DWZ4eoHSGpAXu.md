@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 
 > Get your midweek right with these uplifting songs of praise and worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,568 likes - 75 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,684 likes - 75 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 | 33 | [All I Want](https://open.spotify.com/track/7zRdwKs0va8DDj11CB6DwG) | [Mountain Top Worship](https://open.spotify.com/artist/2fhxlZD5exHPj27vgaLxrj) | [All I Want](https://open.spotify.com/album/4bxmYsDGCMqKMsd468QTyR) | 4:32 |
 | 34 | [Breakthrough \- Live](https://open.spotify.com/track/03XqXqedPViuV0tLLndrjT) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Breakthrough \(Live\)](https://open.spotify.com/album/4ublsL5mDVfHGEsjbB1jpl) | 5:03 |
 | 35 | [Power of the Cross](https://open.spotify.com/track/3HWxZ9nQ7h30D8DupavEGv) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 2](https://open.spotify.com/album/7lNYY32MRpKbPtzOpRpBC4) | 6:03 |
-| 36 | [As You Find Me \- Live](https://open.spotify.com/track/11lQoddQLgFzWByvUjKaE9) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Joel Houston](https://open.spotify.com/artist/5r7TYE2HhPqC5emV9WXW9c) | [People \(Live\)](https://open.spotify.com/album/2YRlXTl0heTfVc5oWmGLsg) | 8:42 |
+| 36 | [As You Find Me \- Live](https://open.spotify.com/track/11lQoddQLgFzWByvUjKaE9) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [People \(Live\)](https://open.spotify.com/album/2YRlXTl0heTfVc5oWmGLsg) | 8:42 |
 | 37 | [Enough \(Live\)](https://open.spotify.com/track/1BILFyQSq3qQnvrjeO6Pmh) | [Union Creative](https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX) | [All Things New \(Live\)](https://open.spotify.com/album/5Cs8VSRTYu8s6dPKBSZhGv) | 5:35 |
 | 38 | [Recreate](https://open.spotify.com/track/0EaKDmqkw9TUOzIKTFpD2m) | [Fresh Life Worship](https://open.spotify.com/artist/3lspjc5pri1bNeok8vsG5E) | [Recreate](https://open.spotify.com/album/1p1sgOSauMAq1VQIevGIWU) | 5:47 |
 | 39 | [All Praise \- Live](https://open.spotify.com/track/3ZqnZ8u58kuZU4xtFHx8S2) | [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [All Of Us \(All Praise\) \[Live\]](https://open.spotify.com/album/0Lmhc6w1FGv7FeaGMaMk1Q) | 6:26 |

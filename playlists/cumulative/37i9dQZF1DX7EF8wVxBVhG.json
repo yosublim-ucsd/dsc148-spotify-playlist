@@ -142,7 +142,7 @@
       ],
       "date_added": "2021-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 114427,
       "name": "70 Hz Gamma Sinus",
       "url": "https://open.spotify.com/track/0DRZNMwqpiXegLBa4cwFCU"
@@ -1158,6 +1158,24 @@
       "duration_ms": 167894,
       "name": "Beta Waves 136Hz - 150Hz",
       "url": "https://open.spotify.com/track/7lrpJMBhSskfIGnysg7Svk"
+    },
+    {
+      "album": {
+        "name": "Focus & Meditation",
+        "url": "https://open.spotify.com/album/6qSqfcKYBlQ7TWPNZiXODJ"
+      },
+      "artists": [
+        {
+          "name": "Healing Sines Binaural",
+          "url": "https://open.spotify.com/artist/229WxeHEbUDbjdneDnA9ms"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "Binaural 31HZ Gamma - 25HZ - 56HZ",
+      "url": "https://open.spotify.com/track/7AY8pSix9jKlb0BMAszqeN"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: Jova",
+  "description": "Novidades e destaques do indie nacional. Foto: \u00c0IY\u00c9 ",
   "name": "Indie Brasil",
   "tracks": [
     {
@@ -1213,6 +1213,24 @@
     },
     {
       "album": {
+        "name": "Cellphone",
+        "url": "https://open.spotify.com/album/5ZmWhdQd3VZDdSRCicmiHX"
+      },
+      "artists": [
+        {
+          "name": "Gato de Rua",
+          "url": "https://open.spotify.com/artist/2q9BBqImQUlzKzpj1k2KqH"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160714,
+      "name": "Cellphone",
+      "url": "https://open.spotify.com/track/6TQlkmOgkdohZlICpVbNmc"
+    },
+    {
+      "album": {
         "name": "Certeza Absoluta",
         "url": "https://open.spotify.com/album/2w1r3IFiqzd2CSfOXdJvtJ"
       },
@@ -1532,6 +1550,24 @@
       "duration_ms": 395086,
       "name": "Cores",
       "url": "https://open.spotify.com/track/4vI4qp7nRIIah7893u9Nh0"
+    },
+    {
+      "album": {
+        "name": "TRANSES",
+        "url": "https://open.spotify.com/album/2yxsapuwlu5ivpOVkdXB1T"
+      },
+      "artists": [
+        {
+          "name": "\u00c0IY\u00c9",
+          "url": "https://open.spotify.com/artist/3VumMgwS5pfXHC7vfek7Bu"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261142,
+      "name": "Cores de Oxum",
+      "url": "https://open.spotify.com/track/5QN7Eg96hscUhJ4JDOkgZh"
     },
     {
       "album": {
@@ -2250,7 +2286,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 110366,
       "name": "Eu e a Sol",
       "url": "https://open.spotify.com/track/0TY0EFe6tuqAY9bsuHqZeF"
@@ -2597,6 +2633,24 @@
     },
     {
       "album": {
+        "name": "Fico F\u00e1cil",
+        "url": "https://open.spotify.com/album/5O9RQP6FbcrkLU9FBZtIGQ"
+      },
+      "artists": [
+        {
+          "name": "Dani-Vie",
+          "url": "https://open.spotify.com/artist/2RrEvDsnA3z244bN2Z32iM"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226304,
+      "name": "Fico F\u00e1cil",
+      "url": "https://open.spotify.com/track/00bjJ0NXskaG10iTwoa1bs"
+    },
+    {
+      "album": {
         "name": "Foi Assim",
         "url": "https://open.spotify.com/album/3vLFn7RuyXbQTKpqhPdIwS"
       },
@@ -2630,7 +2684,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 171496,
       "name": "Forbidden Fruit",
       "url": "https://open.spotify.com/track/070LHp7zkcBY0e3yaGBWjH"
@@ -3506,6 +3560,24 @@
       "duration_ms": 198202,
       "name": "Meredith Monk",
       "url": "https://open.spotify.com/track/0pOFvKRvgFINBPNd7VLtCK"
+    },
+    {
+      "album": {
+        "name": "Nuvem 9",
+        "url": "https://open.spotify.com/album/65rgbd3cmhvAMY5bXcpXHK"
+      },
+      "artists": [
+        {
+          "name": "Belagio",
+          "url": "https://open.spotify.com/artist/1kBPhoo1w0L2qbeerRMuSB"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131129,
+      "name": "Mergulho",
+      "url": "https://open.spotify.com/track/2ii0SDHMxWns24dMAFItFC"
     },
     {
       "album": {
@@ -4620,7 +4692,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 247253,
       "name": "Pensar",
       "url": "https://open.spotify.com/track/4F04JOfRhkhgcE3N15sJVg"
@@ -4856,6 +4928,24 @@
       "duration_ms": 206000,
       "name": "Por Enquanto",
       "url": "https://open.spotify.com/track/7Jqb8ZKO0cqj8fewm1A5e3"
+    },
+    {
+      "album": {
+        "name": "Novos Absurdos",
+        "url": "https://open.spotify.com/album/1R5znlIo7hPwjYzyXOFxQ8"
+      },
+      "artists": [
+        {
+          "name": "Talvez Seja S\u00f3 Eu",
+          "url": "https://open.spotify.com/artist/7jcAFPF04piCvyZQfx5tqj"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205662,
+      "name": "Por Que Vc Odeia Tanto Assim",
+      "url": "https://open.spotify.com/track/18ugBcuXTSWSUi0h7LvENh"
     },
     {
       "album": {
@@ -5206,7 +5296,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 196623,
       "name": "Querido",
       "url": "https://open.spotify.com/track/0PwSwGyOUT0HqCOOgY2ny3"
@@ -5260,7 +5350,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 200856,
       "name": "ra\u00edzes - Remix",
       "url": "https://open.spotify.com/track/2ObCAMrK1iNxUE3W628Tn6"

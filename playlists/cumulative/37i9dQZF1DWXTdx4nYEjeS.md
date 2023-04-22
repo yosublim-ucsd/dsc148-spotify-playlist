@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-928 songs - 2 day 8 hr 47 min
+929 songs - 2 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [A Tu Lado](https://open.spotify.com/track/4PL1LWnbp5zm1YQhvywTXd) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [A Tu Lado](https://open.spotify.com/album/31UrzXJplwdeH7VhgHq0yi) | 5:11 | 2021-12-24 | 2022-07-05 |
 | [A VECES ES MEJOR NO HABLAR](https://open.spotify.com/track/08Dvj5HdPvypRzMBjFOzrT) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [A VECES ES MEJOR NO HABLAR](https://open.spotify.com/album/6t1JcdAYyCSSycIJarlsIK) | 3:23 | 2022-03-28 | 2022-04-12 |
 | [A Veces Vuelvo](https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 4:26 | 2022-03-24 | 2022-04-07 |
-| [Abrazándonos](https://open.spotify.com/track/22eWPYjQKppTSuiWgEhk9w) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Abrazándonos](https://open.spotify.com/album/6GAf2ZKo1SZxJb8WiQSGzf) | 3:15 | 2022-04-13 |  |
+| [Abrazándonos](https://open.spotify.com/track/22eWPYjQKppTSuiWgEhk9w) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Abrazándonos](https://open.spotify.com/album/6GAf2ZKo1SZxJb8WiQSGzf) | 3:15 | 2022-04-13 | 2023-04-22 |
 | [Abriendo Latidos](https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Abriendo Latidos](https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry) | 3:14 | 2022-04-01 | 2022-04-09 |
 | [Abriendo Nubes](https://open.spotify.com/track/2KA6rMrYmEXbUR26EG18T7) | [Pucha!](https://open.spotify.com/artist/7dHnjrU13mMh7fUJVbS5EQ), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Abriendo Nubes](https://open.spotify.com/album/4oiHrQZYOM5vLvP2SDpeMz) | 3:12 | 2022-04-13 | 2022-04-18 |
 | [Abuelo](https://open.spotify.com/track/28TUy0pm9WaiwgN5U7gIlG) | [Clara Presta](https://open.spotify.com/artist/73R8Ixpy37HaFol7XfcFZX) | [Pájara](https://open.spotify.com/album/5K2kOfpiJgFdlG4NXoCu5i) | 2:45 | 2022-03-24 | 2022-04-14 |
@@ -867,6 +867,7 @@
 | [Un Poco de Amor Francés](https://open.spotify.com/track/1MRhIdcloOD0uiiG3ybXGX) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [La Mosca y la Sopa](https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS) | 3:26 | 2021-12-24 |  |
 | [Un Poquito \(feat\. Gusi\) \- Sinfónico](https://open.spotify.com/track/1hh4LtFXuT59oOHfeIr6On) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Diego Torres Sinfónico](https://open.spotify.com/album/49vYU4qT2wQXGJdhY8Bx97) | 4:31 | 2022-04-08 | 2022-05-30 |
 | [Un Poquito de Paz](https://open.spotify.com/track/30e5OYMZu6uJCR1pTdvN0b) | [Ignacio Bevacqua](https://open.spotify.com/artist/3LCscdSjTj9tG5lhm40caW) | [Un Poquito de Paz](https://open.spotify.com/album/1mVJ5rdF62ihaqxUKcztKu) | 3:37 | 2022-03-24 | 2022-04-17 |
+| [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 | 2023-04-21 |  |
 | [Un Ángel para Tu Soledad](https://open.spotify.com/track/7fbuABzGfagLWkI54bxL6c) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Lobo Suelto](https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF) | 3:51 | 2021-12-24 |  |
 | [Una Estrella](https://open.spotify.com/track/4dViDoRIz2JUduTRlCYL6A) | [Guille Olivera](https://open.spotify.com/artist/2n0IuuscNprjthlZgRnNox), [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Una Estrella](https://open.spotify.com/album/3vllu6b7yns5sS357Ixmon) | 3:03 | 2022-04-01 | 2022-04-10 |
 | [Una Noche](https://open.spotify.com/track/4UioDdtVYdyTSTriYvfePU) | [Pequeña Orquesta de Trovadores](https://open.spotify.com/artist/4pKTfX16ZS0O2sWEM7r3X6) | [Pequeña Orquesta de Trovadores](https://open.spotify.com/album/1gQm92WQcN8q0hIF5c9Dhh) | 4:48 | 2022-04-01 | 2022-04-21 |

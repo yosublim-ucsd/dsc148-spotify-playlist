@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 244224,
+  "num_followers": 244535,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGU0YzI2NDVhY2U5MGE5YjEyYmI0N2E2ODg2NzczOGM5",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDRhMzU0MzU3MjNmMThkYjI0NjhjNzkwNWI3NjgxZDQx",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Country Greats",
-        "url": "https://open.spotify.com/album/2m7xJ3oCOzUKMhHIaFsdwG"
-      },
-      "artists": [
-        {
-          "name": "Billie Jo Spears",
-          "url": "https://open.spotify.com/artist/3Xt0yrWeurmp48fodXqMWf"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "Blanket On The Ground",
-      "url": "https://open.spotify.com/track/7mTBUlWPquXPQzDg8yGLlJ"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Night Things",
         "url": "https://open.spotify.com/album/6SKcfybHqgbi425YFczgUH"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 142773,
       "name": "Daydreams About Night Things",
       "url": "https://open.spotify.com/track/1PTngmREtR0P0YMLdqVWBj"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Country Greats",
+        "url": "https://open.spotify.com/album/2m7xJ3oCOzUKMhHIaFsdwG"
+      },
+      "artists": [
+        {
+          "name": "Billie Jo Spears",
+          "url": "https://open.spotify.com/artist/3Xt0yrWeurmp48fodXqMWf"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "Blanket On The Ground",
+      "url": "https://open.spotify.com/track/7mTBUlWPquXPQzDg8yGLlJ"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "The Freddy Fender Collection",
-        "url": "https://open.spotify.com/album/7nXadSb5djsc7Lfdv4IPLp"
-      },
-      "artists": [
-        {
-          "name": "Freddy Fender",
-          "url": "https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6"
-        }
-      ],
-      "duration_ms": 158306,
-      "name": "Before the Next Teardrop Falls",
-      "url": "https://open.spotify.com/track/3awuorsQsio2PUOvzq3hpd"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Number One Hits",
         "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 145946,
       "name": "Drinkin' My Baby (Off My Mind) - 2009 Remaster",
       "url": "https://open.spotify.com/track/0aH37hHD9bgClsjGngV974"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "The Freddy Fender Collection",
+        "url": "https://open.spotify.com/album/7nXadSb5djsc7Lfdv4IPLp"
+      },
+      "artists": [
+        {
+          "name": "Freddy Fender",
+          "url": "https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6"
+        }
+      ],
+      "duration_ms": 158306,
+      "name": "Before the Next Teardrop Falls",
+      "url": "https://open.spotify.com/track/3awuorsQsio2PUOvzq3hpd"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Anniversary (Ten Years Of Hits)",
-        "url": "https://open.spotify.com/album/03CmBZWedcwyCLKmypX5Lb"
+        "name": "If You Love Me, Let Me Know",
+        "url": "https://open.spotify.com/album/3rjkhRSQsNjjeTjkC7ZnHg"
       },
       "artists": [
         {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
         }
       ],
-      "duration_ms": 138800,
-      "name": "Her Name Is...",
-      "url": "https://open.spotify.com/track/6v3ozeTaUGr5Wwmya1Xhg0"
+      "duration_ms": 196266,
+      "name": "If You Love Me (Let Me Know)",
+      "url": "https://open.spotify.com/track/2sU0wR5zAs6tsen499fTcl"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "If You Love Me, Let Me Know",
-        "url": "https://open.spotify.com/album/3rjkhRSQsNjjeTjkC7ZnHg"
+        "name": "Anniversary (Ten Years Of Hits)",
+        "url": "https://open.spotify.com/album/03CmBZWedcwyCLKmypX5Lb"
       },
       "artists": [
         {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
         }
       ],
-      "duration_ms": 196266,
-      "name": "If You Love Me (Let Me Know)",
-      "url": "https://open.spotify.com/track/2sU0wR5zAs6tsen499fTcl"
+      "duration_ms": 138800,
+      "name": "Her Name Is...",
+      "url": "https://open.spotify.com/track/6v3ozeTaUGr5Wwmya1Xhg0"
     },
     {
       "added_at": "2023-02-24 05:00:00",

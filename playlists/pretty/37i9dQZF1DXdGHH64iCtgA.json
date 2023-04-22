@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace the runways everywhere.",
-  "num_followers": 60941,
+  "num_followers": 60996,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDhmMGI4MmFlYzQ0Y2RlZTJmYjRjYWVjNmEzYTk4ODlk",
+  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMGI0YTMxMWZlOTlmZjhkOGE3NWUxNTljZWU1Nzc2NTZk",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "The Rawkers (I <3 U SO Edition)",
-        "url": "https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ"
-      },
-      "artists": [
-        {
-          "name": "Cassius",
-          "url": "https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy"
-        }
-      ],
-      "duration_ms": 222407,
-      "name": "I <3 U SO",
-      "url": "https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 349693,
       "name": "oh baby",
       "url": "https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "The Rawkers (I <3 U SO Edition)",
+        "url": "https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ"
+      },
+      "artists": [
+        {
+          "name": "Cassius",
+          "url": "https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy"
+        }
+      ],
+      "duration_ms": 222407,
+      "name": "I <3 U SO",
+      "url": "https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Planningtochanel",
-        "url": "https://open.spotify.com/album/4LqawEWlyDaDP9MA057KKQ"
-      },
-      "artists": [
-        {
-          "name": "Planningtorock",
-          "url": "https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG"
-        }
-      ],
-      "duration_ms": 209555,
-      "name": "Jam Fam - Chanel Show Version",
-      "url": "https://open.spotify.com/track/5jnyeC8SjI3vUOtstA5kZy"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "On Your Mind",
         "url": "https://open.spotify.com/album/6cWWxdWRhOhoS0cPYOmE5d"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 246182,
       "name": "On Your Mind",
       "url": "https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Planningtochanel",
+        "url": "https://open.spotify.com/album/4LqawEWlyDaDP9MA057KKQ"
+      },
+      "artists": [
+        {
+          "name": "Planningtorock",
+          "url": "https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG"
+        }
+      ],
+      "duration_ms": 209555,
+      "name": "Jam Fam - Chanel Show Version",
+      "url": "https://open.spotify.com/track/5jnyeC8SjI3vUOtstA5kZy"
     },
     {
       "added_at": "2023-02-10 05:00:00",

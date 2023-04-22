@@ -2813,6 +2813,24 @@
     },
     {
       "album": {
+        "name": "Cigarette",
+        "url": "https://open.spotify.com/album/0Xv7O6PBVUdkdma1Qe5nbK"
+      },
+      "artists": [
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Cigarette",
+      "url": "https://open.spotify.com/track/0mgi4eJrjd0uv0PGIx4MJo"
+    },
+    {
+      "album": {
         "name": "Dry Food",
         "url": "https://open.spotify.com/album/4rWLFXifUm2KAo2vDHSG2v"
       },
@@ -3285,6 +3303,24 @@
     },
     {
       "album": {
+        "name": "Costumes",
+        "url": "https://open.spotify.com/album/5NQ3LtPwZHIfxtXFB69LL9"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Key",
+          "url": "https://open.spotify.com/artist/4Y5o0OEWjquf3Npdb8OANS"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136258,
+      "name": "Costumes",
+      "url": "https://open.spotify.com/track/31vJeKw9YQBoKLzw1pbxvy"
+    },
+    {
+      "album": {
         "name": "Country",
         "url": "https://open.spotify.com/album/3Rfhc4oWiP4wvPNlZKhcro"
       },
@@ -3350,7 +3386,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 399680,
       "name": "Cowboy Killer",
       "url": "https://open.spotify.com/track/3WQuo1C5WhP15EBv9aXbQy"
@@ -8858,7 +8894,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 202433,
       "name": "Liminal Bliss",
       "url": "https://open.spotify.com/track/0FREubimbOKkZtEVbdy9f5"
@@ -9078,6 +9114,24 @@
       "duration_ms": 182915,
       "name": "Love Is Yours",
       "url": "https://open.spotify.com/track/6C2iCgLA9oMrY4mmZjxjrn"
+    },
+    {
+      "album": {
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/69pCjNxYsuiwgnLIBxVTep"
+      },
+      "artists": [
+        {
+          "name": "Baby Bugs",
+          "url": "https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196815,
+      "name": "Love Letters",
+      "url": "https://open.spotify.com/track/2p1kB54xX8sS5UWuyqTMT4"
     },
     {
       "album": {
@@ -10376,7 +10430,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 281146,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/1HcgUrKSisYAtSOosxNVFE"
@@ -11016,6 +11070,24 @@
       "duration_ms": 114538,
       "name": "Pop Song 2",
       "url": "https://open.spotify.com/track/1ajhtWRkjgsKSvXn9zb6oS"
+    },
+    {
+      "album": {
+        "name": "Postman",
+        "url": "https://open.spotify.com/album/10v03aHQ2qs0gM63rCoEuJ"
+      },
+      "artists": [
+        {
+          "name": "Palmer",
+          "url": "https://open.spotify.com/artist/52VT62cropnSSiAZXtU8ho"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190742,
+      "name": "Postman",
+      "url": "https://open.spotify.com/track/7tzJ4TXAPfeJznM8XJYqgT"
     },
     {
       "album": {
@@ -14536,7 +14608,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 122000,
       "name": "Tulip Sniper",
       "url": "https://open.spotify.com/track/6uE5dLKF2y9brgIwJVGwNf"

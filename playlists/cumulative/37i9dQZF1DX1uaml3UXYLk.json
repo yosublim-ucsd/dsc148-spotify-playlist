@@ -5933,6 +5933,24 @@
     },
     {
       "album": {
+        "name": "On A Catwalk",
+        "url": "https://open.spotify.com/album/3J71BkSQpWHM4tLRMVlUZg"
+      },
+      "artists": [
+        {
+          "name": "under.tone",
+          "url": "https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187763,
+      "name": "On A Catwalk",
+      "url": "https://open.spotify.com/track/7uES7L7Bw2VCAS3zwickGv"
+    },
+    {
+      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/4puVnK4L2kmdacIudsFgn3"
       },
@@ -9042,6 +9060,24 @@
       "duration_ms": 124285,
       "name": "U Don't Know Me",
       "url": "https://open.spotify.com/track/15HntUgJrBgxcM19YHweix"
+    },
+    {
+      "album": {
+        "name": "Under The Surface",
+        "url": "https://open.spotify.com/album/0CK5iTfocAhwj3BkVbxSxx"
+      },
+      "artists": [
+        {
+          "name": "Faux Facet",
+          "url": "https://open.spotify.com/artist/7tG7d82cOk5x0WkNAL2TZk"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168633,
+      "name": "Under The Surface",
+      "url": "https://open.spotify.com/track/25Ffwsr5RddPMROaAlNOgG"
     },
     {
       "album": {

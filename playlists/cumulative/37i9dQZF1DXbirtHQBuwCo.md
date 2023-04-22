@@ -4,7 +4,7 @@
 
 > Enjoy trendy & chill Korean R&B music\. \(Cover: Hannah Jang\(장한나\)\)
 
-560 songs - 1 day 6 hr 14 min
+561 songs - 1 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [All Your Fault \(Feat\. GRAY\)](https://open.spotify.com/track/4PP4siQamrO7i5Me9GOpqQ) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Point Of View: U](https://open.spotify.com/album/0KZ5gVcGCuAEFBDKmWL4bM) | 3:01 | 2022-05-11 | 2022-08-13 |
 | [Alone](https://open.spotify.com/track/5Hfnps0jaWFpYg55WOPexG) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:31 | 2023-03-27 |  |
 | [Alright!](https://open.spotify.com/track/667jaqJRDzuPxumZyNhOwu) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY), [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [Alright!](https://open.spotify.com/album/0O6RkM76lLkKaY2HhbdGwO) | 3:04 | 2022-04-19 | 2022-07-25 |
+| [always get lonely](https://open.spotify.com/track/3n7yfICjsQoCV66J403qms) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:26 | 2023-04-21 |  |
 | [Always Here](https://open.spotify.com/track/6SWxLW8d1PyRy8yIi0kBlP) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh), [Im Soo](https://open.spotify.com/artist/6fprh9M0YJWsTYBlvbfcwn) | [Always Here](https://open.spotify.com/album/0JeDwEKriOIGuIlk6HsPOP) | 3:34 | 2022-06-23 | 2022-06-30 |
 | [Amazing](https://open.spotify.com/track/5u05Rmpk6tafcD7226IxvV) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Amazing](https://open.spotify.com/album/5j6mRb3Yo9jkL7R8hNXt21) | 2:47 | 2022-12-19 | 2022-12-27 |
 | [Amoo\-rae\-do](https://open.spotify.com/track/0P2ZMsx0ZSORtoAltJje1B) | [COCONA](https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN) | [Amoo\-rae\-do](https://open.spotify.com/album/5javGGT9UBP0kc0ayoWCGP) | 1:48 | 2022-05-11 | 2022-05-29 |
@@ -314,7 +315,7 @@
 | [Lucid Dream](https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:30 | 2022-04-19 |  |
 | [LUH!](https://open.spotify.com/track/2Tae3EC5j3s229uZy8dm3T) | [DAHEE](https://open.spotify.com/artist/2t8ZtnTmVjirDrcaBPKwuS), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [LUH!](https://open.spotify.com/album/3VxgMjHe85dofrqFLQDO9D) | 3:28 | 2022-06-10 | 2022-06-14 |
 | [Make A Fool](https://open.spotify.com/track/6IGrg58iOTyvFEHokceSzr) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS), [KEYMAKER](https://open.spotify.com/artist/1x42PttDj7QKjjqLrDPY2t) | [Make A Fool](https://open.spotify.com/album/0XovgqsvuleWy2SzXwN3y0) | 3:39 | 2022-12-08 | 2023-01-11 |
-| [Make Me Happy](https://open.spotify.com/track/6ry670EtSALRt1yd0W0wca) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [WHEE](https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E) | 3:17 | 2022-04-19 |  |
+| [Make Me Happy](https://open.spotify.com/track/6ry670EtSALRt1yd0W0wca) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [WHEE](https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E) | 3:17 | 2022-04-19 | 2023-04-22 |
 | [Make the Move \(feat\. pH\-1\)](https://open.spotify.com/track/3JxRNkoNmAcPgnA5HSnKiz) | [Soovi](https://open.spotify.com/artist/0YM7bNxtt0VzccYf1UG2G8), [pH\-1](https://open.spotify.com/artist/2hfyKzh49rXQLmPhBKfcH9) | [Make the Move](https://open.spotify.com/album/39kE7BbrzccyYdw9W5dCWf) | 2:57 | 2022-04-19 | 2022-07-02 |
 | [Make Up \(Feat\. Crush\)](https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 3:27 | 2022-04-19 |  |
 | [Matter of Taste \(feat\. Paloalto\)](https://open.spotify.com/track/0U4U1RdFuj6TzzQdbUtYkB) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Riddle](https://open.spotify.com/album/37jhqfjnQFN5ObACGJkdUv) | 2:50 | 2022-05-11 | 2022-07-19 |

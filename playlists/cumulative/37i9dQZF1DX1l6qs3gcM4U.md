@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Badoxa.
 
-307 songs - 18 hr 35 min
+308 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Me Toca](https://open.spotify.com/track/3bdyv9dFP9rUVtdGnFd3Sf) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Memórias](https://open.spotify.com/album/4RVec4jzbNChSwlwWiZUUb) | 4:15 | 2022-02-14 | 2022-08-05 |
 | [Medo](https://open.spotify.com/track/0bkEoIUJf76pkTNopXcw81) | [NZ GANG](https://open.spotify.com/artist/1o38mG2THcoYNgnrNYRKyu) | [Medo](https://open.spotify.com/album/71opZXt6QorbZzUl3hHxnx) | 4:00 | 2022-01-27 | 2022-02-01 |
 | [Melhor De Mim](https://open.spotify.com/track/7MEDcLf5GnKbAZilveql59) | [Lupambo Produções](https://open.spotify.com/artist/21jubjQ9J5zyNTcO9EzOWK) | [Melhor De Mim](https://open.spotify.com/album/1HU1IPpg4qpPrUAX7AsetQ) | 3:42 | 2022-01-14 | 2022-02-03 |
+| [Menino Veneno](https://open.spotify.com/track/3OOWGAABy0Yj2U0Muw8JoN) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Menino Veneno](https://open.spotify.com/album/0jDx4qEfq1x82ASZnyLW4k) | 3:13 | 2023-04-13 |  |
 | [Meu Marido](https://open.spotify.com/track/5zeTVFJmNIhn5DIkRDvFuo) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Meu Marido](https://open.spotify.com/album/35GN3dkUAe9pzWBlnIondq) | 3:39 | 2021-12-10 |  |
 | [Meu Paraíso](https://open.spotify.com/track/6M73AhE63sGLhHxmqCnW9E) | [Don Kikas](https://open.spotify.com/artist/4mgUfMSN3ZcadycYr07UJz) | [Meu Paraíso](https://open.spotify.com/album/5eU3rFR8WVEpnlandSG3O6) | 3:18 | 2022-02-25 | 2022-07-21 |
 | [Meu Tesouro](https://open.spotify.com/track/6cyJ5Q8AIpK3ocmcIrzWX2) | [Vladir](https://open.spotify.com/artist/0pPhGIiRWSnhALVdA98ybT) | [Meu Tesouro](https://open.spotify.com/album/3bsiP6JtB3tGbYagv7P1W5) | 3:57 | 2022-02-11 | 2022-02-17 |
@@ -307,7 +308,7 @@
 | [Versos & Poesias \#5: Sintonia](https://open.spotify.com/track/27Zd9qIZIQg7lmJDVL2J4L) | [Dj Black Spygo](https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY), [Kevin](https://open.spotify.com/artist/6JRwlEDCt0I82gMDQhacZ4), [DanDara](https://open.spotify.com/artist/6SuXG6pciGcVagGcwhOAKD), [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Jessie Sousa](https://open.spotify.com/artist/3NyhCutTVQl1Gh2H2PXly6), [Shugga](https://open.spotify.com/artist/3KYDOgpMzH5TdB1NoVDywK), [Naylene](https://open.spotify.com/artist/27FwF4b0QVBjXKznwFgmtv), [Kidy Wime](https://open.spotify.com/artist/2QtrhVR4nIagsw8ybScbxB), [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Versos & Poesias \#5: Sintonia](https://open.spotify.com/album/1dhDUzKjP6iGrDhToWpKgw) | 7:56 | 2023-01-13 |  |
 | [Viagem](https://open.spotify.com/track/6IhsfuAwE81uKkeJnzAW2a) | [Damásio Brothers](https://open.spotify.com/artist/6FRydQu73AnR88FL2Pndtu), [Button Rose](https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD), [Ney Chiqui](https://open.spotify.com/artist/56hCHYdCpPCLU1fzXAIObp), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Viagem](https://open.spotify.com/album/1kvWCOAFrsGVljCwx5uXPO) | 3:57 | 2022-08-25 |  |
 | [Viaja](https://open.spotify.com/track/2DDBsczCQqIQ09t7Uf2uG2) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Viaja](https://open.spotify.com/album/5PasfkH4nK8fillN3pAZRR) | 3:45 | 2022-05-26 |  |
-| [Vibra](https://open.spotify.com/track/4Puvx015SEBAgnvPFi3yGq) | [William Araujo](https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon), [SOS MUCCI](https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU) | [Vibra](https://open.spotify.com/album/3y3l6JbXvuBAKP5TGY7Fu2) | 2:50 | 2022-08-04 |  |
+| [Vibra](https://open.spotify.com/track/4Puvx015SEBAgnvPFi3yGq) | [William Araujo](https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon), [SOS MUCCI](https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU) | [Vibra](https://open.spotify.com/album/3y3l6JbXvuBAKP5TGY7Fu2) | 2:50 | 2022-08-04 | 2023-04-22 |
 | [Você Me Kuia](https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4) | [Jay Oliver](https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X) | [Longe de Ti](https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1) | 4:08 | 2022-02-14 |  |
 | [Vou Arriscar](https://open.spotify.com/track/7kVndwoIjvzkYxxbuoV2UM) | [Chelsy Shantel](https://open.spotify.com/artist/7KO8A7idPh9D7zwd52QW44), [Nsoki](https://open.spotify.com/artist/6HfAa52MnValWEHNMdWAlH) | [Vou Arriscar](https://open.spotify.com/album/7AnHcW2hu73RuWTdWD9pmh) | 3:43 | 2021-12-10 | 2022-07-29 |
 | [Vou Ter Saudades](https://open.spotify.com/track/3LV7JsBzte182GK1p6wOUX) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Vou Ter Saudades](https://open.spotify.com/album/66lpG91jKZ7VUHNQRqD9Ks) | 3:11 | 2022-03-25 | 2022-04-21 |

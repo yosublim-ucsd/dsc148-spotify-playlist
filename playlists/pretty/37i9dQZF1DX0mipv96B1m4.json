@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 530,
+  "num_followers": 534,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc2Njc0MCwwMDAwMDAwMGRmMjllZmY5NGZlMDNkYzZlOGQyYTIyOTE1ZjJhYzk3",
+  "snapshot_id": "MTY3NDc2Njc0MCwwMDAwMDAwMDBlY2UyNjQ5YjZjNjQwODRmNGRjMTc4MjUxNDJkZGFi",
   "tracks": [
     {
       "added_at": "2023-01-13 14:02:52",
@@ -185,6 +185,22 @@
       "url": "https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV"
     },
     {
+      "added_at": "2022-11-17 20:59:00",
+      "album": {
+        "name": "Bajooga",
+        "url": "https://open.spotify.com/album/22BYk7zBAwCoV7t18eXjFH"
+      },
+      "artists": [
+        {
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+        }
+      ],
+      "duration_ms": 175072,
+      "name": "Bajooga",
+      "url": "https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k"
+    },
+    {
       "added_at": "2022-03-31 17:42:20",
       "album": {
         "name": "Tumbiza Sound",
@@ -215,22 +231,6 @@
       "duration_ms": 189152,
       "name": "Nkutuse",
       "url": "https://open.spotify.com/track/3cgLA1n8S5CySSU9gzGS5f"
-    },
-    {
-      "added_at": "2022-11-17 20:59:00",
-      "album": {
-        "name": "Bajooga",
-        "url": "https://open.spotify.com/album/22BYk7zBAwCoV7t18eXjFH"
-      },
-      "artists": [
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        }
-      ],
-      "duration_ms": 175072,
-      "name": "Bajooga",
-      "url": "https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k"
     },
     {
       "added_at": "2022-07-01 04:18:21",
@@ -577,22 +577,6 @@
       "url": "https://open.spotify.com/track/2qCBZ49bw8llG3J3I1OPx0"
     },
     {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
-        "name": "Wulira Omuziki",
-        "url": "https://open.spotify.com/album/2BZawSxeREkP2C2oQnOIrM"
-      },
-      "artists": [
-        {
-          "name": "Eezzy",
-          "url": "https://open.spotify.com/artist/1GOZbaRGN75E7D8ZFsG0DL"
-        }
-      ],
-      "duration_ms": 196205,
-      "name": "Wulira Omuziki",
-      "url": "https://open.spotify.com/track/7joY6uii0Kwl2Hf80v7S0O"
-    },
-    {
       "added_at": "2022-07-29 06:06:22",
       "album": {
         "name": "Bikole",
@@ -611,6 +595,22 @@
       "duration_ms": 184400,
       "name": "Bikole",
       "url": "https://open.spotify.com/track/3iE5GT16HzXgZLlyVz9NKn"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Wulira Omuziki",
+        "url": "https://open.spotify.com/album/2BZawSxeREkP2C2oQnOIrM"
+      },
+      "artists": [
+        {
+          "name": "Eezzy",
+          "url": "https://open.spotify.com/artist/1GOZbaRGN75E7D8ZFsG0DL"
+        }
+      ],
+      "duration_ms": 196205,
+      "name": "Wulira Omuziki",
+      "url": "https://open.spotify.com/track/7joY6uii0Kwl2Hf80v7S0O"
     },
     {
       "added_at": "2023-01-20 05:09:22",
@@ -669,6 +669,30 @@
       "url": "https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM"
     },
     {
+      "added_at": "2023-01-12 20:59:00",
+      "album": {
+        "name": "Getting Better",
+        "url": "https://open.spotify.com/album/4k0zaChGbs479PYPo1EWUC"
+      },
+      "artists": [
+        {
+          "name": "Ambassada",
+          "url": "https://open.spotify.com/artist/6qpyACpw41RivvvNo2LjsS"
+        },
+        {
+          "name": "Pallaso",
+          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
+        },
+        {
+          "name": "Ps Wilson Bugembe",
+          "url": "https://open.spotify.com/artist/0klkSQ9nnuVVrURzP6QKzD"
+        }
+      ],
+      "duration_ms": 245363,
+      "name": "Getting Better",
+      "url": "https://open.spotify.com/track/6fkrSntANiQEQhFMkswCrd"
+    },
+    {
       "added_at": "2022-10-06 21:00:00",
       "album": {
         "name": "Nsudiya",
@@ -703,30 +727,6 @@
       "duration_ms": 217338,
       "name": "Stupid",
       "url": "https://open.spotify.com/track/2GQFN64gmx6tGYW5y3VLFA"
-    },
-    {
-      "added_at": "2023-01-12 20:59:00",
-      "album": {
-        "name": "Getting Better",
-        "url": "https://open.spotify.com/album/4k0zaChGbs479PYPo1EWUC"
-      },
-      "artists": [
-        {
-          "name": "Ambassada",
-          "url": "https://open.spotify.com/artist/6qpyACpw41RivvvNo2LjsS"
-        },
-        {
-          "name": "Pallaso",
-          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
-        },
-        {
-          "name": "Ps Wilson Bugembe",
-          "url": "https://open.spotify.com/artist/0klkSQ9nnuVVrURzP6QKzD"
-        }
-      ],
-      "duration_ms": 245363,
-      "name": "Getting Better",
-      "url": "https://open.spotify.com/track/6fkrSntANiQEQhFMkswCrd"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -819,30 +819,6 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Nkwatewa",
-        "url": "https://open.spotify.com/album/6kgT8uvBzofMYLxeqx6rBe"
-      },
-      "artists": [
-        {
-          "name": "selecta jef",
-          "url": "https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv"
-        },
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
-        }
-      ],
-      "duration_ms": 181890,
-      "name": "Nkwatewa",
-      "url": "https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
         "name": "Semyekozo",
         "url": "https://open.spotify.com/album/2rfyTnxyRZlPN0fxLj8jhs"
       },
@@ -865,6 +841,22 @@
       "url": "https://open.spotify.com/track/4ZQwrdnmtEhWLK7iLOWqn8"
     },
     {
+      "added_at": "2022-11-17 20:59:00",
+      "album": {
+        "name": "Enjoy Life",
+        "url": "https://open.spotify.com/album/45h7kl0iBa3zMI2kyr6Rk0"
+      },
+      "artists": [
+        {
+          "name": "Liam Peaty",
+          "url": "https://open.spotify.com/artist/69TPgkTotm19AwHFyqiK7L"
+        }
+      ],
+      "duration_ms": 216056,
+      "name": "Enjoy Life",
+      "url": "https://open.spotify.com/track/1mFsMghybfR05jYyfLn6Bo"
+    },
+    {
       "added_at": "2022-03-31 17:42:20",
       "album": {
         "name": "Kisses at Midnight",
@@ -881,20 +873,28 @@
       "url": "https://open.spotify.com/track/2n3MwWYG4pOOBUkD6ztgQM"
     },
     {
-      "added_at": "2022-11-17 20:59:00",
+      "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Enjoy Life",
-        "url": "https://open.spotify.com/album/45h7kl0iBa3zMI2kyr6Rk0"
+        "name": "Nkwatewa",
+        "url": "https://open.spotify.com/album/6kgT8uvBzofMYLxeqx6rBe"
       },
       "artists": [
         {
-          "name": "Liam Peaty",
-          "url": "https://open.spotify.com/artist/69TPgkTotm19AwHFyqiK7L"
+          "name": "selecta jef",
+          "url": "https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv"
+        },
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
         }
       ],
-      "duration_ms": 216056,
-      "name": "Enjoy Life",
-      "url": "https://open.spotify.com/track/1mFsMghybfR05jYyfLn6Bo"
+      "duration_ms": 181890,
+      "name": "Nkwatewa",
+      "url": "https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg"
     },
     {
       "added_at": "2022-03-31 17:42:20",

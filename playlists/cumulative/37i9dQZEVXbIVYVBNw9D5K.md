@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-644 songs - 1 day 8 hr 29 min
+645 songs - 1 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [Kanunlar Gibi](https://open.spotify.com/track/6zWHTeyazeysU2rNJ49vmz) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Kanunlar Gibi](https://open.spotify.com/album/7EHDQV3xl8J8RMMQjHPgsX) | 2:55 | 2021-05-03 | 2021-09-30 |
 | [Kara Tiyatro](https://open.spotify.com/track/4TDrU3j7uQtXzr8I6lh02P) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Kara Tiyatro](https://open.spotify.com/album/2XAdcXHwb3SnZLmr0z2eTe) | 2:56 | 2021-05-30 | 2021-06-05 |
 | [Karakol](https://open.spotify.com/track/6qrAFnjBZfEd4jbCaKpf5w) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Karakol](https://open.spotify.com/album/2qqFtHv6jxvqumZDDF9jfO) | 4:33 | 2022-07-02 | 2022-07-31 |
+| [Karanlık Dünyam](https://open.spotify.com/track/7wc7etrk3ZfCxSLfU9xrmy) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT) | [Karanlık Dünyam](https://open.spotify.com/album/6ExEtlFFomKILaMgihYeTU) | 3:28 | 2023-04-21 |  |
 | [Karanlıklarda](https://open.spotify.com/track/6gaJqvwMBQQWhjnVGGiUc5) | [Tanerman](https://open.spotify.com/artist/1X8IDE7vOMFmhR8Hg32EGA), [Contra](https://open.spotify.com/artist/3tJELJoPZ4VTKmL0vppqLj), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Karanlıklarda](https://open.spotify.com/album/4UKqfPDRilY6GaJrbQKQCp) | 2:29 | 2022-07-09 | 2022-07-11 |
 | [Kaybolurum Gülüşünde](https://open.spotify.com/track/67ZwIUIM4se0mV5OT5ugsB) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Kaybolurum Gülüşünde](https://open.spotify.com/album/7ympkjgI6ge8PPZi16jK44) | 3:21 | 2021-05-08 | 2021-11-14 |
 | [Kazılı Kuyum](https://open.spotify.com/track/5DJEXxOutnFD5GEUVk88yE) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [Kazılı Kuyum](https://open.spotify.com/album/4L3KecBdi6B1G1xX2F4xZT) | 3:28 | 2021-03-27\* | 2021-04-26 |
@@ -352,7 +353,7 @@
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2021-06-27 | 2021-07-11 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-05-13 | 2021-06-27 |
 | [Konum Gizli \(feat\. Murda\)](https://open.spotify.com/track/5h1Zdr8ghV5RaWjtdfVo8w) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Konum Gizli \(feat\. Murda\)](https://open.spotify.com/album/0BmtUyUSG5Qg1DY9Vw8hw8) | 3:18 | 2022-05-17 | 2022-10-30 |
-| [Kor](https://open.spotify.com/track/0XNX9BCSWvEwsdBwUTRhMh) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Kor](https://open.spotify.com/album/7mqDwwIUh2yMzeR1ET5PnE) | 2:59 | 2022-01-04 |  |
+| [Kor](https://open.spotify.com/track/0XNX9BCSWvEwsdBwUTRhMh) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Kor](https://open.spotify.com/album/7mqDwwIUh2yMzeR1ET5PnE) | 2:59 | 2022-01-04 | 2023-04-22 |
 | [Kor](https://open.spotify.com/track/2zmf8pmH6AJ9Nksn0xuLTX) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Kor](https://open.spotify.com/album/4Wi0MXyj8KygoHTj9EeWei) | 2:59 | 2021-10-10 | 2022-01-05 |
 | [Kron1k](https://open.spotify.com/track/6vLPgqdXSzEaVYx92YoFjd) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y), [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB) | [Kron1k](https://open.spotify.com/album/4Zdbg6Ir5nZJ9eN5HfipND) | 4:53 | 2021-03-27\* | 2021-04-08 |
 | [Krvn](https://open.spotify.com/track/4a1WLOoydq7u011UG9jjC9) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan](https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv) | 2:51 | 2021-03-27\* | 2022-04-13 |

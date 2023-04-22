@@ -3217,6 +3217,24 @@
     },
     {
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/7dER2Jv0qJM5GRaDbabCl4"
+      },
+      "artists": [
+        {
+          "name": "Sara Kisha",
+          "url": "https://open.spotify.com/artist/77qANxC0CCaFtLxLCJfCEM"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Logi Calm",
+      "url": "https://open.spotify.com/track/1USmlL8Lc4jSClVdvmxQsk"
+    },
+    {
+      "album": {
         "name": "Longing",
         "url": "https://open.spotify.com/album/2rK7rji9Qxafhao5PFXtu5"
       },
@@ -3340,6 +3358,24 @@
       "duration_ms": 153500,
       "name": "Lyrebird",
       "url": "https://open.spotify.com/track/72mDETn3Ba8yVewAcqnlqQ"
+    },
+    {
+      "album": {
+        "name": "Magnetar Breath",
+        "url": "https://open.spotify.com/album/2LTLIumOrfSFe4jtFNAWIm"
+      },
+      "artists": [
+        {
+          "name": "Dariela Tramma",
+          "url": "https://open.spotify.com/artist/6jddJe2ccbe7PUUo6QNy7K"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Malox",
+      "url": "https://open.spotify.com/track/0faN9ArILphMbOj9v2qFfy"
     },
     {
       "album": {
@@ -6184,6 +6220,24 @@
       "duration_ms": 194655,
       "name": "You've Sent Me Peace",
       "url": "https://open.spotify.com/track/7hcd0ME4AKAS230Yv1Xa1X"
+    },
+    {
+      "album": {
+        "name": "Zwijgzaam",
+        "url": "https://open.spotify.com/album/66DT8BwYSolG1NFg2sxirA"
+      },
+      "artists": [
+        {
+          "name": "Arend Van de Berg",
+          "url": "https://open.spotify.com/artist/63jzbSMufVu89cATqsHgyn"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194861,
+      "name": "Zwijgzaam",
+      "url": "https://open.spotify.com/track/2bpRF8CLQ9p0fPsuxGxgyF"
     },
     {
       "album": {

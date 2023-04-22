@@ -1,12 +1,12 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 54436,
+  "num_followers": 54513,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NTUyMSwwMDAwMDAwMGFmMThiMzRjYTYyNjNkOGNmZWNjZjE3MWE1NWE5MDg2",
+  "snapshot_id": "MTY3Nzg2NTUyMSwwMDAwMDAwMGI4OGMyMWNmZDk4M2FhODllYzgyZmFmMmUyMjhjNTEx",
   "tracks": [
     {
       "added_at": "2022-11-03 23:00:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "Banderas De Nadie",
+        "url": "https://open.spotify.com/album/5fhK35LQpXRXyRJoxpC1Kr"
+      },
+      "artists": [
+        {
+          "name": "Pasi\u00f3n Vega",
+          "url": "https://open.spotify.com/artist/1SP2KiLZvq07zY1KUoZ3ey"
+        }
+      ],
+      "duration_ms": 245186,
+      "name": "Maria Se Bebe las Calles",
+      "url": "https://open.spotify.com/track/1IF2G18XKNrToVG1yiCmsj"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "Una estrella en mi jard\u00edn",
         "url": "https://open.spotify.com/album/63KTRdfNbLMuJoMWKeaavu"
       },
@@ -783,18 +799,34 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Banderas De Nadie",
-        "url": "https://open.spotify.com/album/5fhK35LQpXRXyRJoxpC1Kr"
+        "name": "De siempre - Antolog\u00eda de las sevillanas Vol. 1",
+        "url": "https://open.spotify.com/album/28m2JE16jXiHf6z2Rqlj2R"
       },
       "artists": [
         {
-          "name": "Pasi\u00f3n Vega",
-          "url": "https://open.spotify.com/artist/1SP2KiLZvq07zY1KUoZ3ey"
+          "name": "Maria Del Monte",
+          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
         }
       ],
-      "duration_ms": 245186,
-      "name": "Maria Se Bebe las Calles",
-      "url": "https://open.spotify.com/track/1IF2G18XKNrToVG1yiCmsj"
+      "duration_ms": 215626,
+      "name": "Y se amaron dos caballos",
+      "url": "https://open.spotify.com/track/2VD2r9lDh1FgaoBI0H2K5Z"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Mis Recuerdos",
+        "url": "https://open.spotify.com/album/62UaBhe2SrSualZdmfXE0h"
+      },
+      "artists": [
+        {
+          "name": "Lolita",
+          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
+        }
+      ],
+      "duration_ms": 230186,
+      "name": "Amor, Amor",
+      "url": "https://open.spotify.com/track/6lGrDctccq26IsZ2MDTxZU"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -819,38 +851,6 @@
       "duration_ms": 195080,
       "name": "Sevillanas de los Bloques",
       "url": "https://open.spotify.com/track/5I2t3LU5UTMdxc9sODCT1d"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "Mis Recuerdos",
-        "url": "https://open.spotify.com/album/62UaBhe2SrSualZdmfXE0h"
-      },
-      "artists": [
-        {
-          "name": "Lolita",
-          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
-        }
-      ],
-      "duration_ms": 230186,
-      "name": "Amor, Amor",
-      "url": "https://open.spotify.com/track/6lGrDctccq26IsZ2MDTxZU"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "De siempre - Antolog\u00eda de las sevillanas Vol. 1",
-        "url": "https://open.spotify.com/album/28m2JE16jXiHf6z2Rqlj2R"
-      },
-      "artists": [
-        {
-          "name": "Maria Del Monte",
-          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
-        }
-      ],
-      "duration_ms": 215626,
-      "name": "Y se amaron dos caballos",
-      "url": "https://open.spotify.com/track/2VD2r9lDh1FgaoBI0H2K5Z"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "La Violetera (Remastered)",
+        "url": "https://open.spotify.com/album/47V6DnBwIyOfoGKJRmfEMJ"
+      },
+      "artists": [
+        {
+          "name": "Sara Montiel",
+          "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
+        }
+      ],
+      "duration_ms": 222125,
+      "name": "La Violetera - Remastered",
+      "url": "https://open.spotify.com/track/7cUYlqeqJRM8OepKCQIRmL"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "Esc\u00fachame",
         "url": "https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 191973,
       "name": "En Un Mundo Raro",
       "url": "https://open.spotify.com/track/7pTetUpUv25OmBHfcnKpJa"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "La Violetera (Remastered)",
-        "url": "https://open.spotify.com/album/47V6DnBwIyOfoGKJRmfEMJ"
-      },
-      "artists": [
-        {
-          "name": "Sara Montiel",
-          "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
-        }
-      ],
-      "duration_ms": 222125,
-      "name": "La Violetera - Remastered",
-      "url": "https://open.spotify.com/track/7cUYlqeqJRM8OepKCQIRmL"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1035,6 +1035,22 @@
       "duration_ms": 184693,
       "name": "Te Quiero Te Quiero",
       "url": "https://open.spotify.com/track/4wOyIzfTP0i1SVfGd9yBPH"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3Sw6xkIaBH2eZtU727ONHX"
+      },
+      "artists": [
+        {
+          "name": "Sara Montiel",
+          "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
+        }
+      ],
+      "duration_ms": 163693,
+      "name": "Quizas, Quizas, Quizas",
+      "url": "https://open.spotify.com/track/1dbVT7RwxBekrWJ0UrPDZb"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1111,8 +1127,8 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/3Sw6xkIaBH2eZtU727ONHX"
+        "name": "Pecado de Amor (Original Motion Picture)",
+        "url": "https://open.spotify.com/album/77Yz6Y1zfcuPBCPekPz8Pq"
       },
       "artists": [
         {
@@ -1120,9 +1136,9 @@
           "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
         }
       ],
-      "duration_ms": 163693,
-      "name": "Quizas, Quizas, Quizas",
-      "url": "https://open.spotify.com/track/1dbVT7RwxBekrWJ0UrPDZb"
+      "duration_ms": 211746,
+      "name": "Los Nardos",
+      "url": "https://open.spotify.com/track/0Gx6gmh6jjeRmVlgLUXYA1"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1139,22 +1155,6 @@
       "duration_ms": 241986,
       "name": "C\u00e1ntame",
       "url": "https://open.spotify.com/track/6p78Dg7LQNMwkVMj0O1Xso"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "Pecado de Amor (Original Motion Picture)",
-        "url": "https://open.spotify.com/album/77Yz6Y1zfcuPBCPekPz8Pq"
-      },
-      "artists": [
-        {
-          "name": "Sara Montiel",
-          "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
-        }
-      ],
-      "duration_ms": 211746,
-      "name": "Los Nardos",
-      "url": "https://open.spotify.com/track/0Gx6gmh6jjeRmVlgLUXYA1"
     },
     {
       "added_at": "2022-11-03 23:00:00",

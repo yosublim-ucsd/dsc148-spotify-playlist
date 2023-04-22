@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C?si=CQoLqFaIQNCMmYTV9RKM6w\">Desire Marea</a> ",
+  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/27MxvuyBenjamin Jephta</a> ",
   "name": "Jazz NXT",
   "tracks": [
     {
@@ -146,6 +146,24 @@
       "duration_ms": 426990,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/60YKaBvjgNvGRVei6rmRQk"
+    },
+    {
+      "album": {
+        "name": "An Incomplete Transition",
+        "url": "https://open.spotify.com/album/2yn9EFZJjeKtOzMYuisuxj"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Jephta",
+          "url": "https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 584524,
+      "name": "An Incomplete Transition",
+      "url": "https://open.spotify.com/track/4vNC5f2AIIAIR6z0SUJD7H"
     },
     {
       "album": {

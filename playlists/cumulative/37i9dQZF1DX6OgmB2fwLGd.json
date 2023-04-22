@@ -2231,6 +2231,24 @@
     },
     {
       "album": {
+        "name": "Chill Speedy",
+        "url": "https://open.spotify.com/album/30qGOdpoLeLCIPUOMPCRa0"
+      },
+      "artists": [
+        {
+          "name": "IShowSpeed",
+          "url": "https://open.spotify.com/artist/2DZw407Bgg2Hu9E6NDgRTb"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73153,
+      "name": "Chill Speedy",
+      "url": "https://open.spotify.com/track/2e6nLAMw6z7H4gFmClyxhZ"
+    },
+    {
+      "album": {
         "name": "circus",
         "url": "https://open.spotify.com/album/18N7OqbHFi8CMatvhdrN5r"
       },
@@ -2404,7 +2422,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 195254,
       "name": "Conceited (feat. Lola Brooke & Maiya The Don)",
       "url": "https://open.spotify.com/track/53acd3PVcgGCux58YABBr5"
@@ -3276,6 +3294,24 @@
       "duration_ms": 129500,
       "name": "down",
       "url": "https://open.spotify.com/track/783PsmPNi2KHNk8PwR2rk2"
+    },
+    {
+      "album": {
+        "name": "Dreamgirl",
+        "url": "https://open.spotify.com/album/7huMRpQeQ1oUZZsIEtJgVi"
+      },
+      "artists": [
+        {
+          "name": "Texako",
+          "url": "https://open.spotify.com/artist/6DIuo1PPKJpLXygAHLKkuZ"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111572,
+      "name": "Dreamgirl",
+      "url": "https://open.spotify.com/track/5e7lMp1FzQc1u5ixPZ91Dv"
     },
     {
       "album": {
@@ -4393,6 +4429,24 @@
     },
     {
       "album": {
+        "name": "Games",
+        "url": "https://open.spotify.com/album/3dCdXYs4q7pn3iCdsxzgd9"
+      },
+      "artists": [
+        {
+          "name": "Dina Ayada",
+          "url": "https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Games",
+      "url": "https://open.spotify.com/track/707DkaerHk1Ad2uySczdR4"
+    },
+    {
+      "album": {
         "name": "Gas Station",
         "url": "https://open.spotify.com/album/25TQQsMRr7E9CZQyANX2k1"
       },
@@ -5502,6 +5556,28 @@
       "duration_ms": 124516,
       "name": "i know you hate me",
       "url": "https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP"
+    },
+    {
+      "album": {
+        "name": "I Like",
+        "url": "https://open.spotify.com/album/7sWVP6ejO5gwEoI3pW24in"
+      },
+      "artists": [
+        {
+          "name": "Fat Tony",
+          "url": "https://open.spotify.com/artist/3N71zVVdCs6uCgk8w31v26"
+        },
+        {
+          "name": "Yung Skrrt",
+          "url": "https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109830,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/5q783kxh5FeJnfXaCUgPhc"
     },
     {
       "album": {
@@ -6832,7 +6908,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 129899,
       "name": "LONG WAY",
       "url": "https://open.spotify.com/track/23PF7wjGrkCQC0Qvy13myD"
@@ -7032,7 +7108,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 185749,
       "name": "Mamacita (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/1SlHZ51oGKV56qtPVFyJlR"
@@ -9479,6 +9555,24 @@
     },
     {
       "album": {
+        "name": "Rolling Dice",
+        "url": "https://open.spotify.com/album/3zzXknl2vtYwKxXeo7iHC5"
+      },
+      "artists": [
+        {
+          "name": "Father",
+          "url": "https://open.spotify.com/artist/10AY17ALos2o3akPqrPydw"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "Rolling Dice",
+      "url": "https://open.spotify.com/track/1NMpvFmtQTyvlP9mOIdZHv"
+    },
+    {
+      "album": {
         "name": "Royal Rumble",
         "url": "https://open.spotify.com/album/2JzI9K1ICPpMd3H9burGsG"
       },
@@ -9778,7 +9872,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 169005,
       "name": "She\u2019s A 10 But\u2026 (Remix) (feat. Yung Gravy)",
       "url": "https://open.spotify.com/track/0aywJ1yyg6OzgFCxrrUd7R"
@@ -9912,7 +10006,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 102548,
       "name": "sipping my tea",
       "url": "https://open.spotify.com/track/5f4NTBzhDSX8d8eT0HsZEL"

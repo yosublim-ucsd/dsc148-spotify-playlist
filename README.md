@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5952\)
+## Playlists \(5954\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -3643,7 +3643,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Remixes Urbanos](/playlists/pretty/37i9dQZF1DWXbMxJaAyCq1.md)
 - [Ren hygge](/playlists/pretty/37i9dQZF1DX6IdqACeHRY7.md)
 - [Renaissance Classics](/playlists/pretty/37i9dQZF1DX0CM2xT3aAkN.md)
-- [Renegade Folk](/playlists/pretty/37i9dQZF1DWWHw0yK8z3Pm.md)
+- [Renegades](/playlists/pretty/37i9dQZF1DWWHw0yK8z3Pm.md)
 - [República Dembow](/playlists/pretty/37i9dQZF1DWU3iv5mH3inV.md)
 - [Resenha na Praia](/playlists/pretty/37i9dQZF1DWXvzyniz2fv4.md)
 - [Rest & Relaxation](/playlists/pretty/1uIp2WHCf6ODHxHRPmjWG5.md)
@@ -3816,6 +3816,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Sad Bunny :\(](/playlists/pretty/37i9dQZF1DXaRGkpjDjLaB.md)
 - [Sad Classical](/playlists/pretty/37i9dQZF1DXbm0dp7JzNeL.md)
 - [Sad Covers](/playlists/pretty/37i9dQZF1DX64Y3du11rR1.md)
+- [Sad Folk](/playlists/pretty/37i9dQZF1DWV1bxlagjEmb.md)
 - [Sad Guitar Instrumentals](/playlists/pretty/37i9dQZF1DX3bgBpcV2oGY.md)
 - [Sad Indie](/playlists/pretty/37i9dQZF1DWVV27DiNWxkR.md)
 - [Sad Jazz](/playlists/pretty/37i9dQZF1DX0aiWQDFamDa.md)
@@ -5995,6 +5996,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [나 혼자 좋아해](/playlists/pretty/37i9dQZF1DX4zvnN9RL36v.md)
 - [나의 우울은,](/playlists/pretty/37i9dQZF1DXb5KQr73mtTz.md)
 - [뉴트로 댄스 뮤\-직](/playlists/pretty/37i9dQZF1DX0C07QWzaEB5.md)
+- [닥터 차정숙 \(Doctor Cha\)](/playlists/pretty/37i9dQZF1DWWGiOQ5f5blv.md)
 - [대행사\(Agency\)](/playlists/pretty/37i9dQZF1DWWwmBCLmyITz.md)
 - [디즈니+ 인기곡](/playlists/pretty/37i9dQZF1DWVLLXSxmZy0O.md)
 - [딜리버리맨 \(Delivery Man\)](/playlists/pretty/37i9dQZF1DWSSPWTO4n5fg.md)

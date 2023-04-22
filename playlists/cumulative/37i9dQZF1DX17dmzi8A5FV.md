@@ -2,7 +2,7 @@
 
 ### [Ultimate Boybands](https://open.spotify.com/playlist/37i9dQZF1DX17dmzi8A5FV)
 
-> All the biggest hits from the biggest boybands!  Cover: Backstreet Boys
+> All the biggest hits from the biggest boybands\. Cover: BTS
 
 159 songs - 10 hr 28 min
 

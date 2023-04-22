@@ -46,7 +46,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 218117,
       "name": "A Chillar a Otra Parte - Remix",
       "url": "https://open.spotify.com/track/2pcK0a6052l3VE2qs9gTIy"
@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 154315,
       "name": "Donde Estas",
       "url": "https://open.spotify.com/track/7c5h3BeU2q9paJelFjtmTG"
@@ -4501,6 +4501,24 @@
     },
     {
       "album": {
+        "name": "Soy La Voz",
+        "url": "https://open.spotify.com/album/485JsyhFslfuWQ88hGKI6J"
+      },
+      "artists": [
+        {
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178482,
+      "name": "Soy la Voz",
+      "url": "https://open.spotify.com/track/2pxiOvcKRMLjCbJEBpBX5q"
+    },
+    {
+      "album": {
         "name": "Historias",
         "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
       },
@@ -4941,6 +4959,28 @@
     },
     {
       "album": {
+        "name": "Tu Amante Tu Amigo",
+        "url": "https://open.spotify.com/album/4tSk0kBGbVadz95y7HGTVY"
+      },
+      "artists": [
+        {
+          "name": "Marko Silva",
+          "url": "https://open.spotify.com/artist/0lfg4jmiStCcCn1lPgkvCY"
+        },
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229760,
+      "name": "Tu Amante Tu Amigo",
+      "url": "https://open.spotify.com/track/07FFZUzeZhjTnokrapcNwR"
+    },
+    {
+      "album": {
         "name": "TU AMOR | E7",
         "url": "https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX"
       },
@@ -5028,7 +5068,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 176786,
       "name": "Un Velero Llamado Libertad",
       "url": "https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW"
@@ -5816,6 +5856,28 @@
       "duration_ms": 208042,
       "name": "\u00bfQuieres Ser Mi Amante?",
       "url": "https://open.spotify.com/track/3j8KqAjYT9nA993cJbcbQi"
+    },
+    {
+      "album": {
+        "name": "\u00bfY Ahora Qu\u00e9 Hago?",
+        "url": "https://open.spotify.com/album/7C9bon0DhMCftarfVtC9ut"
+      },
+      "artists": [
+        {
+          "name": "Sergio Torres",
+          "url": "https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg"
+        },
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292494,
+      "name": "\u00bfY Ahora Qu\u00e9 Hago?",
+      "url": "https://open.spotify.com/track/1BD0M6eizzUKfqG4gGdl7E"
     },
     {
       "album": {

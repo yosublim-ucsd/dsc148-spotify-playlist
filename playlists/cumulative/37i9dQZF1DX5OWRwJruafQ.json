@@ -149,7 +149,7 @@
       "artists": [
         {
           "name": "Deep Dhaliwal",
-          "url": "https://open.spotify.com/artist/0gGLeumBUhUmfJQjIMpvqv"
+          "url": "https://open.spotify.com/artist/49rpuSgVLanEVfk2vuAKEU"
         }
       ],
       "date_added": "2023-04-20",
@@ -180,6 +180,32 @@
       "duration_ms": 188522,
       "name": "Akh Laal",
       "url": "https://open.spotify.com/track/6cdcCKdK7vr0COGcrEg2Ki"
+    },
+    {
+      "album": {
+        "name": "All Sorted",
+        "url": "https://open.spotify.com/album/4JZuiGIpa59jLIeJvzH4za"
+      },
+      "artists": [
+        {
+          "name": "The Landers",
+          "url": "https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp"
+        },
+        {
+          "name": "GURI SINGH",
+          "url": "https://open.spotify.com/artist/4YK5CprOTeHRmdNX0c5UpZ"
+        },
+        {
+          "name": "MIXBYDOLCE",
+          "url": "https://open.spotify.com/artist/4tcqUfUJ97wTStbNVYK9ul"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "All Sorted",
+      "url": "https://open.spotify.com/track/1yuduFmsdDHWRrJiQCL73U"
     },
     {
       "album": {
@@ -760,6 +786,28 @@
       "duration_ms": 233571,
       "name": "G-Shit (feat. Blockboi Twitch)",
       "url": "https://open.spotify.com/track/5uuVGnkZEFHBz8unViC3iA"
+    },
+    {
+      "album": {
+        "name": "Gaddi",
+        "url": "https://open.spotify.com/album/6k6hDbaEZumhfTd9xplzVN"
+      },
+      "artists": [
+        {
+          "name": "Gulab Sidhu",
+          "url": "https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW"
+        },
+        {
+          "name": "Sukh Lotey",
+          "url": "https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Gaddi",
+      "url": "https://open.spotify.com/track/7kKzZe40RUyKHWSIQxQehy"
     },
     {
       "album": {

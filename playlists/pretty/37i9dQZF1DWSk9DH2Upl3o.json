@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: ALO",
-  "num_followers": 16947,
+  "num_followers": 16970,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMDg5ZTFkN2M1ZjhmZDk4MDAyZThmOGEzNzUxMTI0OTc0",
+  "snapshot_id": "MTY4MjA0OTY2MCwwMDAwMDAwMDA2Y2FjOWY0ODdmNzMwZTExZjI1YTVlYWM2ZTg3Zjgy",
   "tracks": [
     {
       "added_at": "2023-04-07 04:01:00",
@@ -65,6 +65,22 @@
       "url": "https://open.spotify.com/track/2iQeEYuZvG1j0wVeNJbZtD"
     },
     {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Stuck in Between",
+        "url": "https://open.spotify.com/album/1NZ2SrbhnuY6jLKoq1MU5Z"
+      },
+      "artists": [
+        {
+          "name": "Chalk Dinosaur",
+          "url": "https://open.spotify.com/artist/0nGLnZVTm8IXRb83Rarg6C"
+        }
+      ],
+      "duration_ms": 353103,
+      "name": "Stuck in Between",
+      "url": "https://open.spotify.com/track/2OX0jfmSfFFIk9rFTzivZU"
+    },
+    {
       "added_at": "2022-08-26 04:01:00",
       "album": {
         "name": "Soul Sweet Song",
@@ -101,6 +117,22 @@
       "url": "https://open.spotify.com/track/7w3f1gluu1NTtKcTD6s5p0"
     },
     {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Jaunts of Our Lives, Vol. 2 (Live)",
+        "url": "https://open.spotify.com/album/5b4LQV3XlMqhfevuZeEW3a"
+      },
+      "artists": [
+        {
+          "name": "The Jauntee",
+          "url": "https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN"
+        }
+      ],
+      "duration_ms": 855874,
+      "name": "Breakfast of Champs (Live)",
+      "url": "https://open.spotify.com/track/35S87Fc7BaLnwtKQZQ3633"
+    },
+    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Night Lights",
@@ -115,6 +147,22 @@
       "duration_ms": 401213,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/6vC5WWQXWqBUW5iq7XoGnu"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Foggy Days",
+        "url": "https://open.spotify.com/album/0u3fsoByiOKsHSqaBoqpeG"
+      },
+      "artists": [
+        {
+          "name": "David Henriksson & Daze Delight",
+          "url": "https://open.spotify.com/artist/5pLdmPq1GJqtQVPfxYAFgV"
+        }
+      ],
+      "duration_ms": 257500,
+      "name": "Foggy Days",
+      "url": "https://open.spotify.com/track/1JAJSf52angUw88cDf4KOP"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1043,22 +1091,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Element",
-        "url": "https://open.spotify.com/album/1M8jFuVLqJOlqYtOv1cdAI"
-      },
-      "artists": [
-        {
-          "name": "Backup Planet",
-          "url": "https://open.spotify.com/artist/1Jc3wYtJwv8KMbo3Ct7aLD"
-        }
-      ],
-      "duration_ms": 215653,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/5hdLN2CbIeZbVDYN8cVqoB"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "Microdosio",
         "url": "https://open.spotify.com/album/2tlqeiRrUFcqGK4JILK8VZ"
       },
@@ -1351,38 +1383,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Dopapod",
-        "url": "https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA"
-      },
-      "artists": [
-        {
-          "name": "Dopapod",
-          "url": "https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX"
-        }
-      ],
-      "duration_ms": 247106,
-      "name": "Fannie",
-      "url": "https://open.spotify.com/track/3L2U8GgZE0y2WX0z6cUYGX"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Polski Polski",
-        "url": "https://open.spotify.com/album/6UDH5Y5wh9M2b99aarli40"
-      },
-      "artists": [
-        {
-          "name": "David Henriksson & Daze Delight",
-          "url": "https://open.spotify.com/artist/5pLdmPq1GJqtQVPfxYAFgV"
-        }
-      ],
-      "duration_ms": 316124,
-      "name": "Polski Polski",
-      "url": "https://open.spotify.com/track/3e0wD9Fsuifkj4xkLGjIdx"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "The Werks",
         "url": "https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG"
       },
@@ -1491,34 +1491,6 @@
       "duration_ms": 290150,
       "name": "Wishing Well",
       "url": "https://open.spotify.com/track/5ju62GuABsAvpTtoAkM9Zy"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "The Saga of Milly and Fee Part I - Peruvian Love Song",
-        "url": "https://open.spotify.com/album/2qF9GzUH5M7k5fvj4Rq1bB"
-      },
-      "artists": [
-        {
-          "name": "Ari Joshua",
-          "url": "https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV"
-        },
-        {
-          "name": "Russ Lawton",
-          "url": "https://open.spotify.com/artist/2C4UBATq8DBVT4HBy4UBNE"
-        },
-        {
-          "name": "Ray Paczkowski",
-          "url": "https://open.spotify.com/artist/5RCKLpu3QFZbFSagy35QcO"
-        },
-        {
-          "name": "Soule Monde",
-          "url": "https://open.spotify.com/artist/7sag5QujhVfDU0hGeGDl3x"
-        }
-      ],
-      "duration_ms": 70436,
-      "name": "The Saga of Milly and Fee Part I - Peruvian Love Song",
-      "url": "https://open.spotify.com/track/69m1VanYi7q6ZiDLuMucWJ"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1651,22 +1623,6 @@
       "duration_ms": 338011,
       "name": "Not Just a Word",
       "url": "https://open.spotify.com/track/0h0VOIqGeMkGsho6OS9nkh"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Tumbleweed",
-        "url": "https://open.spotify.com/album/0Wdd7IhlwI1uGNIeJayzM4"
-      },
-      "artists": [
-        {
-          "name": "Big Something",
-          "url": "https://open.spotify.com/artist/3kzqfNqrlEwieWGqRFiQso"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "Tumbleweed",
-      "url": "https://open.spotify.com/track/1DWPCV6sKNGnzn4ypzDIcm"
     },
     {
       "added_at": "2022-07-01 04:02:00",

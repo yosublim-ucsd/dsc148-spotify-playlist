@@ -2698,7 +2698,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 164000,
       "name": "Nuuk",
       "url": "https://open.spotify.com/track/2Wx7l5zsE7N5YQssh32eqq"
@@ -3224,6 +3224,24 @@
       "duration_ms": 217000,
       "name": "Sapnis",
       "url": "https://open.spotify.com/track/0UmxO4xdWoH3hRUQwcqdqC"
+    },
+    {
+      "album": {
+        "name": "Infinity Air",
+        "url": "https://open.spotify.com/album/66F05OegqZRAIP5xL2uykl"
+      },
+      "artists": [
+        {
+          "name": "Maria Botican",
+          "url": "https://open.spotify.com/artist/02CZQLikIIoZB7rhBk5PvT"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Scorchio",
+      "url": "https://open.spotify.com/track/5kDLhUYHZr5Q6geAcM3lF3"
     },
     {
       "album": {

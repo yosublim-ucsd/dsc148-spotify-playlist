@@ -2,9 +2,9 @@
 
 ### [R&B Brasil](https://open.spotify.com/playlist/37i9dQZF1DX6EQe4DjJNfI)
 
-> O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Amanda Magalhães, Dj Nyack
+> O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Yas Werneck
 
-112 songs - 5 hr 47 min
+113 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Melhor Ficar Sozinho](https://open.spotify.com/track/4vtzVyzc2pdw5vdg5nA5bn) | [Leon](https://open.spotify.com/artist/0grtw6LqS6bemrDRJrf1zl), [RM no Beat](https://open.spotify.com/artist/0l2UV4PlNSSXoiIDgjjZ8t) | [Melhor Ficar Sozinho](https://open.spotify.com/album/191sqhnSI1Mfp0h0Hg8sZC) | 2:40 | 2022-11-18 | 2023-04-09 |
 | [Melhor Que Ontem](https://open.spotify.com/track/0TpDDNhAvukWiJL9SjEe9O) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Melhor Que Ontem](https://open.spotify.com/album/6FMd26Sy35kd9boORkrOnT) | 3:00 | 2022-11-18 |  |
 | [MENTIROSO](https://open.spotify.com/track/2pWh0qXT9466a6HwMf9I1W) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [MENTIROSO](https://open.spotify.com/album/4M1ABS74NBYnrsXMSEQIRV) | 2:47 | 2022-11-18 |  |
-| [Mergulhei](https://open.spotify.com/track/58H4xYSRZ65vvmZPEAZ91H) | [Izy Castelano](https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq), [Juliah](https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB), [kLap](https://open.spotify.com/artist/51Qf68QZaIZsgS8C1XB5Ow), [Tapsounds](https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO) | [Mergulhei](https://open.spotify.com/album/4raO1hapwBztV4pxrNSzps) | 3:31 | 2023-04-17 |  |
+| [Mergulhei](https://open.spotify.com/track/58H4xYSRZ65vvmZPEAZ91H) | [Izy Castelano](https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq), [Juliah](https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB), [kLap](https://open.spotify.com/artist/51Qf68QZaIZsgS8C1XB5Ow), [Tapsounds](https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO) | [Mergulhei](https://open.spotify.com/album/4raO1hapwBztV4pxrNSzps) | 3:31 | 2023-04-17 | 2023-04-22 |
 | [Meu Bem](https://open.spotify.com/track/6vqzZxu7AUW7Idg4aGBt1i) | [Fanieh](https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN) | [Meu Bem](https://open.spotify.com/album/2bo02n8YzdGhdbUGbKLj5h) | 3:04 | 2022-11-18 |  |
 | [Modo Avião](https://open.spotify.com/track/0WxQNvzeTDOIWi1Y3rsrHN) | [Meraki](https://open.spotify.com/artist/2y8PQh31BuCKxhKVmavWWs), [BlakkStar](https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX) | [Modo Avião](https://open.spotify.com/album/7n4cfdYDKxgjxWeHHyopGG) | 2:47 | 2022-11-18 | 2022-12-03 |
 | [Na Cama](https://open.spotify.com/track/3jBUU3sojivff7iNesTd9S) | [LEXY](https://open.spotify.com/artist/1jsbcRHlNmr4AATn3bVhOd), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp), [RZ](https://open.spotify.com/artist/5OWjhQcHTvSP9fCGeiDSaf) | [Na Cama](https://open.spotify.com/album/0NvtbyPCU9bIVdIhTh4fgo) | 3:15 | 2022-11-18 | 2023-01-14 |
@@ -95,6 +95,7 @@
 | [Recíproco](https://open.spotify.com/track/2Na1FNsaKX5WmLjEVVPVNt) | [Victor JR](https://open.spotify.com/artist/3p0GexHIGvyoEQUpb2Nnlo), [Ingrid Milanez](https://open.spotify.com/artist/3ucZWCjRRupT8LDfqaoRZJ), [DJ Alle Mark](https://open.spotify.com/artist/7wik2rNV6wtZP98hHaspHQ) | [Recíproco](https://open.spotify.com/album/2ci8q15b2oS4tn7uYImo3E) | 3:00 | 2022-11-18 |  |
 | [Respostas](https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW) | [Rudney Martins](https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL) | [Respostas](https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5) | 3:14 | 2022-11-18 |  |
 | [Roupa de Ontem](https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl) | [Krupinsk](https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S) | [Roupa de Ontem](https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa) | 4:38 | 2022-11-18 |  |
+| [Sei Lá](https://open.spotify.com/track/2vNRlI7vSMa3D4rJ11aAVx) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Sei Lá](https://open.spotify.com/album/2FBQJcKKxkdnNQsP4qI1CZ) | 2:24 | 2023-04-21 |  |
 | [Sem Você \(Acústico no Studio F\)](https://open.spotify.com/track/3ShZp3yVmjUFEcNml4MSEt) | [Mariah Nala](https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC) | [Mariah Nala no Studio F \(Acústico\)](https://open.spotify.com/album/4nWfjD2QTrxHt8HOesIj67) | 2:28 | 2022-12-23 |  |
 | [Sensual](https://open.spotify.com/track/67n8fu0kS4alk55PRvqq70) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Rare G](https://open.spotify.com/artist/2D0VerErpBua0yB6lozwRH), [Lotta](https://open.spotify.com/artist/4fpd51wyl42OhrUPK7R5aJ) | [Sensual](https://open.spotify.com/album/3P0v9NCQ7sp9mGjc44q42O) | 2:51 | 2023-04-07 |  |
 | [Seu Bem](https://open.spotify.com/track/4WIHw5omFiZSVUl52GsVUG) | [LEXY](https://open.spotify.com/artist/1jsbcRHlNmr4AATn3bVhOd), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp), [RZ](https://open.spotify.com/artist/5OWjhQcHTvSP9fCGeiDSaf) | [Seu Bem](https://open.spotify.com/album/50ZHYvn0wbeJoKHt65kU5l) | 3:27 | 2022-11-18 |  |

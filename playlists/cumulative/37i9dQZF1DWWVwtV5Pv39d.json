@@ -1229,6 +1229,24 @@
     },
     {
       "album": {
+        "name": "Potty Song",
+        "url": "https://open.spotify.com/album/4WpQeM7aNt1HrzK90O5Lok"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96822,
+      "name": "Potty Song",
+      "url": "https://open.spotify.com/track/4bLWZAsy89pgfwJMZIFX9o"
+    },
+    {
+      "album": {
         "name": "The Bath Song & More Kids Songs",
         "url": "https://open.spotify.com/album/6bOJxK69mrkyBwuzQYcUOp"
       },

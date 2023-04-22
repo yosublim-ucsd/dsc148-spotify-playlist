@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,057 songs - 2 day 7 hr 12 min
+1,058 songs - 2 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,6 +349,7 @@
 | [Fucked Up](https://open.spotify.com/track/4PWgsD1UsNZI26tJghOYpD) | [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [Fucked Up](https://open.spotify.com/album/6HEeT2ZHLYC3lddxB9WK65) | 2:35 | 2023-03-18 | 2023-03-26 |
 | [Fuego \(feat\. Branco\)](https://open.spotify.com/track/7ED0LkstNvkMi3gMTBQKfe) | [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Fuego \(feat\. Branco\)](https://open.spotify.com/album/1zzGLMdAGtwdMpNWXPjvwO) | 2:43 | 2022-07-16 | 2022-07-24 |
 | [føler mig selv 100](https://open.spotify.com/track/7iuM7vnvSjX9qqcuFtij1T) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [føler mig selv 100](https://open.spotify.com/album/14mdiNcBOtukgLcOgNMdzF) | 3:27 | 2021-03-29 |  |
+| [Føles Godt \(feat\. Mekdes\)](https://open.spotify.com/track/6OSHB3gKDyYTNNmCiOlpIc) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD), [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Føles Godt](https://open.spotify.com/album/4qe6zKD6u4d4PdmjKqq0bX) | 2:50 | 2023-04-21 |  |
 | [Gamle Vaner](https://open.spotify.com/track/1cSuZS4kWkpDRCXpMLDfsp) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Held & Lykke Med At Komme Hjem](https://open.spotify.com/album/1M9CVnOQmkBAImk3021VzQ) | 1:40 | 2021-05-30 | 2021-05-31 |
 | [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 | 2022-09-30 | 2022-10-02 |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-15 |
@@ -552,7 +553,7 @@
 | [KENTI HAYATI](https://open.spotify.com/track/5OqfKkwpkuqCM4B0LaMxIy) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [KENTI HAYATI](https://open.spotify.com/album/1zgj6HIpFLgkP478RjUhOE) | 2:35 | 2022-08-05 | 2022-08-29 |
 | [Kig Forbi](https://open.spotify.com/track/3CEbwmnQCXKLwem4bsIU2I) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Johnson](https://open.spotify.com/artist/4w1fUgGXRGXhhnTAxjtxfS) | [Kig Forbi](https://open.spotify.com/album/02PZAR5tZq60s9sTDuwCgM) | 2:25 | 2022-12-31 | 2023-01-24 |
 | [Kig Min Vej \(feat\. NODE\)](https://open.spotify.com/track/2UjIxGLvpVnMV4PEpdhVAp) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [Monolog](https://open.spotify.com/album/1zFKjPWDOVJWO8AnOOnNF5) | 2:52 | 2021-03-27 | 2021-05-03 |
-| [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2022-12-20 |  |
+| [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2022-12-20 | 2023-04-22 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2021-06-27 | 2022-01-08 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-04-11 | 2021-06-27 |
 | [Knife Talk \(with 21 Savage ft\. Project Pat\)](https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:02 | 2021-09-05 | 2021-09-12 |

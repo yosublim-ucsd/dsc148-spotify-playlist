@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 春ねむり
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,502 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,530 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 36 | [FLOAT](https://open.spotify.com/track/1Rwo1hDhVccHaDfXurutVP) | [mid](https://open.spotify.com/artist/18fyEcWuvZUxxKa5ofDYuD) | [FLOAT](https://open.spotify.com/album/5BdddlQ5i8s5wxXfmyG72Y) | 3:34 |
 | 37 | [Mermaid in bathroom](https://open.spotify.com/track/1h3BvY5X6qXNo6UeBev7YW) | [くしゃみ。。](https://open.spotify.com/artist/4Bl6epmDiy4cm8sbijZNfG) | [Mermaid in bathroom](https://open.spotify.com/album/33qRgsDgPzrzwA2fNdOqfV) | 2:08 |
 | 38 | [Dreams \(feat\. Mandark\)](https://open.spotify.com/track/31AwtIYfVZv7ujPcMEktvR) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [Dreams \(feat\. Mandark\)](https://open.spotify.com/album/2aMVUEYp4SKsWiVlUaOWUJ) | 4:28 |
-| 39 | [Us](https://open.spotify.com/track/2LvtKcNpyH9dIOynM3Xz3R) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/5brXjr8BORF46m2FHgY55a) | 5:18 |
+| 39 | [Us](https://open.spotify.com/track/3TVPKNJMvHe27MoAl0MWOP) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/6IOnkt2rwHoyPgd8tiBTSD) | 5:18 |
 | 40 | [There will be love there\-愛のある場所\-](https://open.spotify.com/track/3DLN6blguZ8uhURTaFUuqm) | [iamSHUM](https://open.spotify.com/artist/3aDxFgyBWN7ITv32EfEvHj) | [There will be love there\-愛のある場所\-](https://open.spotify.com/album/0dLtEAhfzaoKVl3yHZZtZ5) | 3:57 |
 | 41 | [Sound Check Baby](https://open.spotify.com/track/4WR4I5iGvobvTWSTd0R3Zt) | [DNA GAINZ](https://open.spotify.com/artist/0bOGtsbotnQiTIHQMehEZx) | [Sound Check Baby](https://open.spotify.com/album/3VmBX5tZM6sZaUV7HdxSq7) | 3:53 |
 | 42 | [Suki Lie](https://open.spotify.com/track/45h7ZIjSfrPbhbl7EgwKwh) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:15 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [ぴかぴか](https://open.spotify.com/track/2bXh2NOaJVy2zGqqXftIwA) | [SPICY CHOCOLATE](https://open.spotify.com/artist/2zfrJbiT7DpWlzwJaJCFiC), [Spinna B\-ILL](https://open.spotify.com/artist/3v5wV8XgmBENcvFu4rrLWF), [Express](https://open.spotify.com/artist/67rLYDUix6KdyrG7BztwpI) | [ぴかぴか](https://open.spotify.com/album/0oNMbhyPBTilWjT3X7GP3B) | 3:34 |
 | 80 | [SORA](https://open.spotify.com/track/3dGWJ8UlemnEV4WycKW3hd) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/019fqb5ajmLWkD57gViVvo) | 2:52 |
 
-Snapshot ID: `MTY4MTc0MzYwMCwwMDAwMDAwMGM3NWNjNWIyMDFkNzUxM2NjNGQ5NjI5YTExMjNmOGY5`
+Snapshot ID: `MTY4MTc0MzYwMCwwMDAwMDAwMGRiOTIwMmRlODZlNmI3ZjJhNzgxZWI3MjJhOWM2ODEy`

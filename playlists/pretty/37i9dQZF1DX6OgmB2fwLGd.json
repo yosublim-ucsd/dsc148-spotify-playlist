@@ -1,29 +1,13 @@
 {
   "description": "The soundtrack to the internet. Cover: BLP KOSHER",
-  "num_followers": 1345956,
+  "num_followers": 1346768,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTc2MjY5OSwwMDAwMDAwMDFhZmUzMWRlZGM1MjcxN2IxOTYzYzdiYTIzYzliMmNi",
+  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDI5NTZiOGY0ODkyYTg0NDA3MmFhMmY2YzQ2ZDQ1MjZj",
   "tracks": [
-    {
-      "added_at": "2023-02-14 16:35:41",
-      "album": {
-        "name": "5LBS OF PRESSURE",
-        "url": "https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI"
-      },
-      "artists": [
-        {
-          "name": "Superstar Pride",
-          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
-        }
-      ],
-      "duration_ms": 122070,
-      "name": "PAINTING PICTURES",
-      "url": "https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T"
-    },
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
@@ -45,24 +29,56 @@
       "url": "https://open.spotify.com/track/5Ex5aIXLQimPjhiRUZjtre"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
+      "added_at": "2023-02-14 16:35:41",
       "album": {
-        "name": "Pound Town (and Tay Keith)",
-        "url": "https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A"
+        "name": "5LBS OF PRESSURE",
+        "url": "https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI"
       },
       "artists": [
         {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Tay Keith",
-          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+          "name": "Superstar Pride",
+          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
         }
       ],
-      "duration_ms": 129429,
-      "name": "Pound Town (and Tay Keith)",
-      "url": "https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3"
+      "duration_ms": 122070,
+      "name": "PAINTING PICTURES",
+      "url": "https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "rockhardt",
+        "url": "https://open.spotify.com/album/193IYs1YZemD7CXQCSyXfc"
+      },
+      "artists": [
+        {
+          "name": "Carbon",
+          "url": "https://open.spotify.com/artist/56yUYQQyWtboyoDEIEvN3J"
+        }
+      ],
+      "duration_ms": 158108,
+      "name": "rockhardt",
+      "url": "https://open.spotify.com/track/2DcwwZtauRU5s2ZxzGRJQi"
+    },
+    {
+      "added_at": "2023-04-12 21:15:31",
+      "album": {
+        "name": "I Know (PR1SVX Edit)",
+        "url": "https://open.spotify.com/album/0U2gygUYvl2y1aPQiQZg1h"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        },
+        {
+          "name": "PR1ISVX",
+          "url": "https://open.spotify.com/artist/0QdSoQy4EwwOACmhZobTQu"
+        }
+      ],
+      "duration_ms": 133829,
+      "name": "I Know - PR1SVX Edit",
+      "url": "https://open.spotify.com/track/3vcLw8QA3yCOkrj9oLSZNs"
     },
     {
       "added_at": "2023-01-04 15:02:53",
@@ -97,26 +113,6 @@
       "url": "https://open.spotify.com/track/5lpxfI9JR5XfuMfd6A0KNs"
     },
     {
-      "added_at": "2023-04-12 21:15:31",
-      "album": {
-        "name": "I Know (PR1SVX Edit)",
-        "url": "https://open.spotify.com/album/0U2gygUYvl2y1aPQiQZg1h"
-      },
-      "artists": [
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        },
-        {
-          "name": "PR1ISVX",
-          "url": "https://open.spotify.com/artist/0QdSoQy4EwwOACmhZobTQu"
-        }
-      ],
-      "duration_ms": 133829,
-      "name": "I Know - PR1SVX Edit",
-      "url": "https://open.spotify.com/track/3vcLw8QA3yCOkrj9oLSZNs"
-    },
-    {
       "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "NS+ (ULTRA)",
@@ -149,20 +145,40 @@
       "url": "https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "rockhardt",
-        "url": "https://open.spotify.com/album/193IYs1YZemD7CXQCSyXfc"
+        "name": "Pound Town (and Tay Keith)",
+        "url": "https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A"
       },
       "artists": [
         {
-          "name": "Carbon",
-          "url": "https://open.spotify.com/artist/56yUYQQyWtboyoDEIEvN3J"
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
         }
       ],
-      "duration_ms": 158108,
-      "name": "rockhardt",
-      "url": "https://open.spotify.com/track/2DcwwZtauRU5s2ZxzGRJQi"
+      "duration_ms": 129429,
+      "name": "Pound Town (and Tay Keith)",
+      "url": "https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Chill Speedy",
+        "url": "https://open.spotify.com/album/30qGOdpoLeLCIPUOMPCRa0"
+      },
+      "artists": [
+        {
+          "name": "IShowSpeed",
+          "url": "https://open.spotify.com/artist/2DZw407Bgg2Hu9E6NDgRTb"
+        }
+      ],
+      "duration_ms": 73153,
+      "name": "Chill Speedy",
+      "url": "https://open.spotify.com/track/2e6nLAMw6z7H4gFmClyxhZ"
     },
     {
       "added_at": "2023-04-10 20:02:31",
@@ -311,6 +327,26 @@
       "duration_ms": 187269,
       "name": "FOLD",
       "url": "https://open.spotify.com/track/2EP8akKOQ8sQ9MAqrnhml0"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "I Like",
+        "url": "https://open.spotify.com/album/7sWVP6ejO5gwEoI3pW24in"
+      },
+      "artists": [
+        {
+          "name": "Fat Tony",
+          "url": "https://open.spotify.com/artist/3N71zVVdCs6uCgk8w31v26"
+        },
+        {
+          "name": "Yung Skrrt",
+          "url": "https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU"
+        }
+      ],
+      "duration_ms": 109830,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/5q783kxh5FeJnfXaCUgPhc"
     },
     {
       "added_at": "2023-04-12 21:15:31",
@@ -465,6 +501,22 @@
       "url": "https://open.spotify.com/track/4cLhQxR5p74hslc5ao4B15"
     },
     {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Rolling Dice",
+        "url": "https://open.spotify.com/album/3zzXknl2vtYwKxXeo7iHC5"
+      },
+      "artists": [
+        {
+          "name": "Father",
+          "url": "https://open.spotify.com/artist/10AY17ALos2o3akPqrPydw"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Rolling Dice",
+      "url": "https://open.spotify.com/track/1NMpvFmtQTyvlP9mOIdZHv"
+    },
+    {
       "added_at": "2023-02-10 18:26:46",
       "album": {
         "name": "SPIT IN MY FACE!",
@@ -617,6 +669,22 @@
       "url": "https://open.spotify.com/track/70ZmkjQYwZa57HCPk8Oy89"
     },
     {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Dreamgirl",
+        "url": "https://open.spotify.com/album/7huMRpQeQ1oUZZsIEtJgVi"
+      },
+      "artists": [
+        {
+          "name": "Texako",
+          "url": "https://open.spotify.com/artist/6DIuo1PPKJpLXygAHLKkuZ"
+        }
+      ],
+      "duration_ms": 111572,
+      "name": "Dreamgirl",
+      "url": "https://open.spotify.com/track/5e7lMp1FzQc1u5ixPZ91Dv"
+    },
+    {
       "added_at": "2023-04-03 12:54:10",
       "album": {
         "name": "CHPT. 2: PLAYTiME",
@@ -683,6 +751,22 @@
       "duration_ms": 256052,
       "name": "ascend.mp3",
       "url": "https://open.spotify.com/track/0y0Y3zRApSPsohnnUTrbgl"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Games",
+        "url": "https://open.spotify.com/album/3dCdXYs4q7pn3iCdsxzgd9"
+      },
+      "artists": [
+        {
+          "name": "Dina Ayada",
+          "url": "https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Games",
+      "url": "https://open.spotify.com/track/707DkaerHk1Ad2uySczdR4"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1369,6 +1453,26 @@
       "url": "https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ"
     },
     {
+      "added_at": "2023-01-13 05:04:00",
+      "album": {
+        "name": "GOATED.",
+        "url": "https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 197380,
+      "name": "GOATED. (feat. Denzel Curry)",
+      "url": "https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR"
+    },
+    {
       "added_at": "2022-07-22 07:00:00",
       "album": {
         "name": "Mine",
@@ -1489,22 +1593,6 @@
       "url": "https://open.spotify.com/track/1WDOIn5NLqAstbVjArxKkh"
     },
     {
-      "added_at": "2023-01-27 05:07:00",
-      "album": {
-        "name": "LONG WAY",
-        "url": "https://open.spotify.com/album/2WKxFv925cfjb4QAextTKE"
-      },
-      "artists": [
-        {
-          "name": "Cochise",
-          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
-        }
-      ],
-      "duration_ms": 129899,
-      "name": "LONG WAY",
-      "url": "https://open.spotify.com/track/23PF7wjGrkCQC0Qvy13myD"
-    },
-    {
       "added_at": "2022-10-07 07:48:00",
       "album": {
         "name": "Slide Den",
@@ -1535,26 +1623,6 @@
       "duration_ms": 139038,
       "name": "OOGA BOOGA!",
       "url": "https://open.spotify.com/track/4gKWtJGlhxKKSyV65llt2G"
-    },
-    {
-      "added_at": "2023-02-16 19:58:57",
-      "album": {
-        "name": "She\u2019s A 10 But\u2026 (Remix) (feat. Yung Gravy)",
-        "url": "https://open.spotify.com/album/2u8rAuKa6ExX03BLWWkN77"
-      },
-      "artists": [
-        {
-          "name": "ARTAN",
-          "url": "https://open.spotify.com/artist/3Pw17aWPHoK3Enm59wt7M2"
-        },
-        {
-          "name": "Yung Gravy",
-          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
-        }
-      ],
-      "duration_ms": 169005,
-      "name": "She\u2019s A 10 But\u2026 (Remix) (feat. Yung Gravy)",
-      "url": "https://open.spotify.com/track/0aywJ1yyg6OzgFCxrrUd7R"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1651,86 +1719,6 @@
       "duration_ms": 165436,
       "name": "Number One Candidate",
       "url": "https://open.spotify.com/track/3qk2QJ5JR6IO2LBMqkOnx7"
-    },
-    {
-      "added_at": "2023-01-13 05:04:00",
-      "album": {
-        "name": "GOATED.",
-        "url": "https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz"
-      },
-      "artists": [
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 197380,
-      "name": "GOATED. (feat. Denzel Curry)",
-      "url": "https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR"
-    },
-    {
-      "added_at": "2023-01-18 21:14:10",
-      "album": {
-        "name": "Mamacita (feat. A$AP Rocky)",
-        "url": "https://open.spotify.com/album/1CUFZqHw7rcz4IPij6jKD0"
-      },
-      "artists": [
-        {
-          "name": "Smooky MarGielaa",
-          "url": "https://open.spotify.com/artist/2HO2kO7O5gEnM91dhobllP"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 185749,
-      "name": "Mamacita (feat. A$AP Rocky)",
-      "url": "https://open.spotify.com/track/1SlHZ51oGKV56qtPVFyJlR"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Conceited (feat. Lola Brooke & Maiya The Don)",
-        "url": "https://open.spotify.com/album/1RJ4oGkndLQuhu4EfVTKk5"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        },
-        {
-          "name": "Lola Brooke",
-          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
-        },
-        {
-          "name": "Maiya The Don",
-          "url": "https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ"
-        }
-      ],
-      "duration_ms": 195254,
-      "name": "Conceited (feat. Lola Brooke & Maiya The Don)",
-      "url": "https://open.spotify.com/track/53acd3PVcgGCux58YABBr5"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "sipping my tea",
-        "url": "https://open.spotify.com/album/1WxpvhzIDHLG5F9unXWM0C"
-      },
-      "artists": [
-        {
-          "name": "Zack Fox",
-          "url": "https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS"
-        }
-      ],
-      "duration_ms": 102548,
-      "name": "sipping my tea",
-      "url": "https://open.spotify.com/track/5f4NTBzhDSX8d8eT0HsZEL"
     }
   ],
   "unique_name": "Internet People",

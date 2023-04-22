@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,169 songs - 5 day 4 hr 39 min
+2,172 songs - 5 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Boost Your Day](https://open.spotify.com/track/5JYp61ZAJC43DMPWxbcqzy) | [ProFresh](https://open.spotify.com/artist/5m12qXigvAFKGPGaaCuT5U) | [Boost Your Day](https://open.spotify.com/album/7iFqwv1c1omXtGXyO79TXV) | 1:56 | 2019-10-30 | 2019-11-16 |
 | [Bord de piscine](https://open.spotify.com/track/2jK45e9GlKs48hXg0GebPD) | [CHEBO](https://open.spotify.com/artist/3pVkPq0yX263AX3usK5HXz) | [Bord de piscine](https://open.spotify.com/album/50tgQD85gZYNfnLlhuJuJu) | 2:49 | 2021-10-20 | 2021-11-05 |
 | [Borderline](https://open.spotify.com/track/1pqkDfPenFVhgFAPNUDl9z) | [Unknown Caller](https://open.spotify.com/artist/0gUKK02uECB18NoTtiZngb) | [Borderline](https://open.spotify.com/album/22Sg8gJ7WFWIlCRAnHjmls) | 3:44 | 2022-02-16 | 2022-03-05 |
+| [Born Tired](https://open.spotify.com/track/29fvXHDuXSUkAojJ2ZhXVw) | [MYRY](https://open.spotify.com/artist/7zGRZCF0KZlDKuy3jU2lGq) | [Born Tired](https://open.spotify.com/album/4Jr8t3hh8KakGurri7Pwil) | 2:55 | 2023-04-21 |  |
 | [Boujee](https://open.spotify.com/track/30TzMOZcEhoXsiuGYJcsyL) | [Autumn Jeannette](https://open.spotify.com/artist/33gynXNzaLs9NSR9FJEWpB) | [Boujee](https://open.spotify.com/album/0U5rXP5qSdUaBmsC5QkvAN) | 2:47 | 2021-07-09 | 2021-07-25 |
 | [Bounce](https://open.spotify.com/track/6J86qOETxcHr4amkwIH1n2) | [Alex Sandra](https://open.spotify.com/artist/6M0BEwom1GzPfvDXbhb2qi) | [Bounce](https://open.spotify.com/album/758oxRK41PTA9IKfrMglD3) | 2:40 | 2022-08-26 | 2022-09-11 |
 | [Boundaries](https://open.spotify.com/track/7adsrOCSymRDoPDmvQNC1O) | [Henry](https://open.spotify.com/artist/5Hu4L6ndNw9TU5EGnoZ6mh) | [Boundaries](https://open.spotify.com/album/74z57y34K6EzdQzSUhSfB0) | 3:08 | 2023-01-16 | 2023-02-12 |
@@ -567,6 +568,7 @@
 | [Dulce](https://open.spotify.com/track/5C7BPSolWKfJSWKkZvwJun) | [Blenfre](https://open.spotify.com/artist/7lUd9FGvKChodVoY72qf1v) | [DULCE](https://open.spotify.com/album/6HQZv6DGhsCZcxoBnfcnE1) | 2:41 | 2023-01-06 | 2023-01-28 |
 | [dumb luck \- Acoustic](https://open.spotify.com/track/7fRf0rdo1NSLyZ2QGhtmfm) | [HERDD](https://open.spotify.com/artist/1CpIG6uYY58rmtTacTvtiL) | [dumb luck](https://open.spotify.com/album/0axYxX8wPmKO2ZA947JhvM) | 1:56 | 2022-06-28 | 2022-07-16 |
 | [Détente](https://open.spotify.com/track/0oE3bWVSNOwuksUeJ53Low) | [Claydee](https://open.spotify.com/artist/2rcsCDLsJw6erBukvjEsrP) | [Détente](https://open.spotify.com/album/0zlMPSiBz0y5OvsoiAvUvK) | 2:22 | 2021-06-19 | 2021-07-04 |
+| [Earhart](https://open.spotify.com/track/5AIQsRzsvKxhN3nZIjonyS) | [David Francisco](https://open.spotify.com/artist/1yOPhRMWrKLa3eUq42PzJg), [Sophia James](https://open.spotify.com/artist/23xulTZL2CvclAu5Q1eMaN) | [Earhart](https://open.spotify.com/album/0UrTd0PNLe1ZvFZh9k8Bmm) | 3:25 | 2023-04-21 |  |
 | [Early Bird](https://open.spotify.com/track/6WhbYfJ7l5Qu0r2g2aoT49) | [Vanilla Woods](https://open.spotify.com/artist/3D5sT2XodUzAhOoxa5Xe2I), [JAHİN](https://open.spotify.com/artist/1l0Xh1Ueebg74GF6w5X7c3) | [Early Bird](https://open.spotify.com/album/5onay1XDwF9zaFPPzG68CF) | 2:45 | 2021-04-17 | 2021-05-03 |
 | [Easy](https://open.spotify.com/track/7dTgnGCBjzfkfYRaB4Q6HI) | [J.K\. Matthews](https://open.spotify.com/artist/33MBiarC2psxSGgAipCIE9) | [Easy](https://open.spotify.com/album/6x3Mf29PUUCH30DvYpOrvp) | 2:59 | 2023-01-27 | 2023-02-18 |
 | [Easy](https://open.spotify.com/track/76xaNN6jPq9PaPeXwDP47I) | [Jasmine Clarke](https://open.spotify.com/artist/35OHoy0DGJRqpfmYvByDBc) | [Easy](https://open.spotify.com/album/6uy5kONAAWRuCgKd5040KK) | 3:12 | 2021-11-05 | 2021-11-21 |
@@ -1603,6 +1605,7 @@
 | [Salty Crush](https://open.spotify.com/track/2S5epseQ2G6beM33fvNgrU) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Salty Crush](https://open.spotify.com/album/0fLDQTCAyK7CByF9V95Z6v) | 3:05 | 2022-09-16 | 2022-10-04 |
 | [Salty, Sweet, and Bitter Rain](https://open.spotify.com/track/60U1xKk8Bpim1gW6pEo6JM) | [MYRY](https://open.spotify.com/artist/7zGRZCF0KZlDKuy3jU2lGq) | [Salty, Sweet, and Bitter Rain](https://open.spotify.com/album/49RKnHDmzxfY1sweDAmQD4) | 3:11 | 2022-07-03 | 2022-07-22 |
 | [Samba\-rumba](https://open.spotify.com/track/2CXZXk8Lr3JUlIPHdDXQuz) | [Jussanam](https://open.spotify.com/artist/4yj5tRFDoT6LL2w58MHgVE), [Ingvi Þór Kormáksson](https://open.spotify.com/artist/0UjTW7IRziiJv9ufd3Xlpl) | [Latin Faculty](https://open.spotify.com/album/4IlFi5cNjdN4dn8Si9F0Pl) | 3:13 | 2023-01-13 | 2023-02-04 |
+| [Same Location](https://open.spotify.com/track/3D4osgGygmUI5uS5PEdFvG) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk), [Just Shad](https://open.spotify.com/artist/6d4cow3OkL7leTkqKnQfad) | [Same Location](https://open.spotify.com/album/3Zjm0WGKxY5uAJ2BalvCHR) | 3:14 | 2023-04-21 |  |
 | [Same Old Story](https://open.spotify.com/track/2Rw6rrxjnmO5SCslCuDCGb) | [Diving Birds](https://open.spotify.com/artist/0NQvhlpJIw8HXFElLX7tOj) | [Touch the Bottom \- EP](https://open.spotify.com/album/2gBiMMdcjjrZp9AHRbDVQ3) | 2:05 | 2022-12-23 | 2023-01-14 |
 | [Same Thing](https://open.spotify.com/track/7kGdKpfC5GvgpEh393TNIL) | [REID B2WN](https://open.spotify.com/artist/3lajj3bO93QJEh2vlyUYJw) | [Same Thing](https://open.spotify.com/album/4sHrosEuePPYuApxrnqzgm) | 2:14 | 2023-02-03 | 2023-02-25 |
 | [Sandalwood](https://open.spotify.com/track/6DrGoTpeDWLCqAQhZu00U8) | [Corner Booth](https://open.spotify.com/artist/5jYtzQRbrCxGPBwGkcd6lV) | [Sandalwood](https://open.spotify.com/album/0EpIUOLztVpy8znJ39CSbX) | 2:00 | 2022-12-16 | 2023-01-07 |
@@ -1655,7 +1658,7 @@
 | [Shakedown](https://open.spotify.com/track/1wViRHIhsserH8zdNqhZtb) | [Sofi Gev](https://open.spotify.com/artist/6YL1DZY3FftdLcZwocsPbd) | [Shakedown](https://open.spotify.com/album/2xiLegcNVLVPL8u1LtzN65) | 3:26 | 2021-03-27 | 2021-04-17 |
 | [Shame](https://open.spotify.com/track/7D9iFRtnDXGdly4bBrkXrQ) | [MVJM](https://open.spotify.com/artist/27r3crNeoSKpzEorSm6cSE) | [Shame](https://open.spotify.com/album/3meoCpS5Z33sdieqeUnmzy) | 2:43 | 2022-09-30 | 2022-10-18 |
 | [Shaolin's Freestyle](https://open.spotify.com/track/0gRkIDV9aYg59BNz84Mqg9) | [ekay](https://open.spotify.com/artist/6b7Xqscw7R511P4wL6WtxD) | [Shaolin's Freestyle](https://open.spotify.com/album/3GCLwwFxmyT2AnI8ovMgnW) | 4:40 | 2019-10-18 | 2019-11-02 |
-| [She Drives Me Crazy \- Radio Edit](https://open.spotify.com/track/11hc1HDx0Lvi6fvMVBHmid) | [Andrew Spencer](https://open.spotify.com/artist/1EjddlgoBT9qmrqLdPbCTx) | [She Drives Me Crazy](https://open.spotify.com/album/2Ca28DdAUWugKuSklGjY20) | 2:55 | 2023-03-31 |  |
+| [She Drives Me Crazy \- Radio Edit](https://open.spotify.com/track/11hc1HDx0Lvi6fvMVBHmid) | [Andrew Spencer](https://open.spotify.com/artist/1EjddlgoBT9qmrqLdPbCTx) | [She Drives Me Crazy](https://open.spotify.com/album/2Ca28DdAUWugKuSklGjY20) | 2:55 | 2023-03-31 | 2023-04-22 |
 | [She Whispers](https://open.spotify.com/track/40YRRRa9nmzXMuGA7dWipc) | [Flo Fi](https://open.spotify.com/artist/1Usp2CAfIsN1vg9QJnvnME) | [She Whispers](https://open.spotify.com/album/3J6p56NCSTImSRTR9Kfxlh) | 3:08 | 2021-11-20 | 2021-12-05 |
 | [She'll Come With Me](https://open.spotify.com/track/5MOQMtSHmwHIlzapkg5LsI) | [Adam Rom](https://open.spotify.com/artist/4oOcOSicmBDeT6JfIWnCbf) | [She'll Come With Me](https://open.spotify.com/album/6fUNTdGvxpvVdGhyUdukOQ) | 3:00 | 2022-01-18 | 2022-02-08 |
 | [She's Got The Moves](https://open.spotify.com/track/3mNzr2JxuRD1ELCGyCgALv) | [Ki\-Jung](https://open.spotify.com/artist/5pqRt6SskbJusa0LavnBm8) | [She's Got The Moves](https://open.spotify.com/album/5f3vmTvLF95aHbHCdvBLch) | 3:39 | 2021-04-20 | 2021-05-05 |

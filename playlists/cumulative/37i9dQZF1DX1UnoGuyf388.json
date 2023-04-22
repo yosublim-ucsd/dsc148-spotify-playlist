@@ -237,6 +237,28 @@
     },
     {
       "album": {
+        "name": "Be The One (with Khalid)",
+        "url": "https://open.spotify.com/album/1K1Tr5tlgU8aCfijFih1zf"
+      },
+      "artists": [
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200814,
+      "name": "Be The One (with Khalid)",
+      "url": "https://open.spotify.com/track/4jMbQ5H6KaSRPRCBuNnW16"
+    },
+    {
+      "album": {
         "name": "Better Man",
         "url": "https://open.spotify.com/album/6y78B6grK5x7soppUlOwcX"
       },
@@ -390,6 +412,24 @@
       "duration_ms": 131013,
       "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
+    },
+    {
+      "album": {
+        "name": "Bubblegum",
+        "url": "https://open.spotify.com/album/5ufzVnDin8kGSu1nl9qeEN"
+      },
+      "artists": [
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163298,
+      "name": "Bubblegum",
+      "url": "https://open.spotify.com/track/0amKnLMjFYK1cbsOLfUsQS"
     },
     {
       "album": {
@@ -1566,6 +1606,28 @@
       "duration_ms": 225947,
       "name": "I Wish you Roses",
       "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
+    },
+    {
+      "album": {
+        "name": "IDOLIZE",
+        "url": "https://open.spotify.com/album/2SOWbWUhvDc6stx7cvbDBK"
+      },
+      "artists": [
+        {
+          "name": "Madison Rose",
+          "url": "https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE"
+        },
+        {
+          "name": "Her Demons",
+          "url": "https://open.spotify.com/artist/08LTIhrMYBlBUJar9Zi3Rx"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "IDOLIZE",
+      "url": "https://open.spotify.com/track/3Hs0dJnewbzzk23UIKvg5y"
     },
     {
       "album": {
@@ -2828,6 +2890,24 @@
       "duration_ms": 161927,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/4y3jlIv1tEecRRmp3rUovX"
+    },
+    {
+      "album": {
+        "name": "She Walk",
+        "url": "https://open.spotify.com/album/1ad5XWzjbGGc7yWGSgg91O"
+      },
+      "artists": [
+        {
+          "name": "Todrick Hall",
+          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107755,
+      "name": "She Walk",
+      "url": "https://open.spotify.com/track/1FbGqA9IavClqymKu6Xvk6"
     },
     {
       "album": {

@@ -414,7 +414,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 187126,
       "name": "Beautiful Morning",
       "url": "https://open.spotify.com/track/4To41a04u7ZaZ6bw8hIeX3"
@@ -740,6 +740,28 @@
       "duration_ms": 176798,
       "name": "Care At All",
       "url": "https://open.spotify.com/track/2TewnOsUmffMzv4kL3AoO7"
+    },
+    {
+      "album": {
+        "name": "CARMEN",
+        "url": "https://open.spotify.com/album/6uZb9mPLAnJIhWHxzTdbPz"
+      },
+      "artists": [
+        {
+          "name": "Airmow",
+          "url": "https://open.spotify.com/artist/6SfPAcR67ssVyMQWoizN7Q"
+        },
+        {
+          "name": "Reiyo The Giant",
+          "url": "https://open.spotify.com/artist/7nV15MrvqAi8kPaDZrzB0n"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207500,
+      "name": "CARMEN",
+      "url": "https://open.spotify.com/track/3NlJsIgHPFhEPUoTCmXV9A"
     },
     {
       "album": {
@@ -1902,7 +1924,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 164249,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/71ubEHUyawsJZ6wJPPLEtL"
@@ -3723,6 +3745,32 @@
     },
     {
       "album": {
+        "name": "Love's Not Over",
+        "url": "https://open.spotify.com/album/5uS5FNN9QqSh0OCWdbOGU7"
+      },
+      "artists": [
+        {
+          "name": "AN21",
+          "url": "https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn"
+        },
+        {
+          "name": "Silhouette",
+          "url": "https://open.spotify.com/artist/0mD76jJsxQwaZLhqgt6XRu"
+        },
+        {
+          "name": "Kuaigon",
+          "url": "https://open.spotify.com/artist/4bgLx8IahWxzxBKpZ1W5Kx"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210988,
+      "name": "Love's Not Over - Dawn Edit",
+      "url": "https://open.spotify.com/track/4igakSDtom2NQ54wYfPSOx"
+    },
+    {
+      "album": {
         "name": "Lovesick",
         "url": "https://open.spotify.com/album/3W988ylVkS5vw3I5nq0MTn"
       },
@@ -3972,6 +4020,24 @@
       "duration_ms": 214854,
       "name": "Mean to Me",
       "url": "https://open.spotify.com/track/4b3DcCqrtubEnebf4lV7JD"
+    },
+    {
+      "album": {
+        "name": "Blas\u00e9 Boys Club (Pt. 1)",
+        "url": "https://open.spotify.com/album/270fFgaAL8AL1mmGK1bld7"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277093,
+      "name": "Melt",
+      "url": "https://open.spotify.com/track/4YXJZWRPQbrlA84IrQ7p07"
     },
     {
       "album": {
@@ -4510,6 +4576,24 @@
       "duration_ms": 237986,
       "name": "No Place",
       "url": "https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v"
+    },
+    {
+      "album": {
+        "name": "No Sympathy",
+        "url": "https://open.spotify.com/album/48140dThJ2fdFQpcvO0x5B"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258254,
+      "name": "No Sympathy",
+      "url": "https://open.spotify.com/track/4wySt0Tw3gCiybsPeXScGA"
     },
     {
       "album": {
@@ -6616,6 +6700,28 @@
       "duration_ms": 288387,
       "name": "VIEWS",
       "url": "https://open.spotify.com/track/0zXjUo1w3t9MNT6RKYmNHv"
+    },
+    {
+      "album": {
+        "name": "Little Love",
+        "url": "https://open.spotify.com/album/793CKt4Qo8QvaOx2uWkhst"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Ailbhe Reddy",
+          "url": "https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173748,
+      "name": "Walk Away (feat. Ailbhe Reddy)",
+      "url": "https://open.spotify.com/track/3qpbvXLn62vd5nKUIqCAWV"
     },
     {
       "album": {

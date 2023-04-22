@@ -1,13 +1,29 @@
 {
   "description": "Fresh releases from your future favorite artists. Cover: Julia Daniel Artwork: Isu Kim\n",
-  "num_followers": 54467,
+  "num_followers": 54487,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAwNjQwMCwwMDAwMDAwMDlmZmQxYjM1MDNlODZkMzMxOTBhNjhlN2VmYTE3Y2Zi",
+  "snapshot_id": "MTY4MjAwNjQwMCwwMDAwMDAwMDU3OTU5YmEzNTFhMTI3MjdkNjBiN2QxNzFjNGUwM2Ni",
   "tracks": [
+    {
+      "added_at": "2023-04-20 16:00:00",
+      "album": {
+        "name": "Kiliti",
+        "url": "https://open.spotify.com/album/3DMAk70owfICeLyLgRKQWh"
+      },
+      "artists": [
+        {
+          "name": "mark brando",
+          "url": "https://open.spotify.com/artist/1FzAxLlFHHNYsVa1x3z8xb"
+        }
+      ],
+      "duration_ms": 328636,
+      "name": "Kiliti",
+      "url": "https://open.spotify.com/track/4y9mpORXr3VYCClT9IMPlI"
+    },
     {
       "added_at": "2023-04-20 16:00:00",
       "album": {
@@ -1136,7 +1152,7 @@
       "added_at": "2023-04-06 16:00:00",
       "album": {
         "name": "Tiyansa",
-        "url": "https://open.spotify.com/album/4Elh9WECql72EfXoFi1z9c"
+        "url": "https://open.spotify.com/album/28ASY7gmwPIFYXslJjbfYM"
       },
       "artists": [
         {
@@ -1146,7 +1162,7 @@
       ],
       "duration_ms": 210041,
       "name": "Tiyansa",
-      "url": "https://open.spotify.com/track/712gjrsBW0kbzyAveWRitJ"
+      "url": "https://open.spotify.com/track/1sjhdNDrLpdug2yHIqhNPC"
     },
     {
       "added_at": "2023-04-06 16:00:00",

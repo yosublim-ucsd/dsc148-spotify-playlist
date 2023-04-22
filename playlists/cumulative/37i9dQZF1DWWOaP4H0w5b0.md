@@ -2,7 +2,7 @@
 
 ### [Metal Essentials](https://open.spotify.com/playlist/37i9dQZF1DWWOaP4H0w5b0)
 
-> Want some metal? Better to start with the essentials\. Cover: Ozzy Osbourne
+> Want some metal? Better to start with the essentials\. Cover: Metallica
 
 178 songs - 13 hr 36 min
 

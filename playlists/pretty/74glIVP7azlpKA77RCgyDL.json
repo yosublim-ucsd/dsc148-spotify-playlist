@@ -1,13 +1,117 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Pupil Slicer",
-  "num_followers": 7726,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Kim Dracula",
+  "num_followers": 7728,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "MjYzMiw1NTNhZDFjYjEyYTIwNTI0MDFkZDE0MDZmYTFiNzcxYzhlYWYyYmE1",
+  "snapshot_id": "MjY0MSwwNGM0ZWE5NDM5NDk0ZDkxODY3MmIzN2M2MDc4YmQwYmVlYjRhNzQ5",
   "tracks": [
+    {
+      "added_at": "2023-04-21 17:59:37",
+      "album": {
+        "name": "30 Under 13",
+        "url": "https://open.spotify.com/album/3flz7O2lY60WbBoefXUk1b"
+      },
+      "artists": [
+        {
+          "name": "Better Lovers",
+          "url": "https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze"
+        }
+      ],
+      "duration_ms": 245006,
+      "name": "30 Under 13",
+      "url": "https://open.spotify.com/track/4f1ML3x043Sl0QdVeNB4yT"
+    },
+    {
+      "added_at": "2023-04-21 17:59:47",
+      "album": {
+        "name": "Hysterics",
+        "url": "https://open.spotify.com/album/1cBEmj03uPsuMgywV43rDt"
+      },
+      "artists": [
+        {
+          "name": "Kim Dracula",
+          "url": "https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Hysterics",
+      "url": "https://open.spotify.com/track/75w7La8hnnsSeq9CDCBT89"
+    },
+    {
+      "added_at": "2023-04-21 17:59:55",
+      "album": {
+        "name": "DYWTYLM",
+        "url": "https://open.spotify.com/album/0xLXYxkjjIPfVFhbPWvCwy"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 240737,
+      "name": "DYWTYLM",
+      "url": "https://open.spotify.com/track/4hjJtKO5SdpfVRwP4FZeKI"
+    },
+    {
+      "added_at": "2023-04-21 18:00:00",
+      "album": {
+        "name": "Tank On E",
+        "url": "https://open.spotify.com/album/6s6uyJHu5uscy4snvD0LQw"
+      },
+      "artists": [
+        {
+          "name": "Never Ending Game",
+          "url": "https://open.spotify.com/artist/1S8NfdnAl7u08mTjEtDWLp"
+        }
+      ],
+      "duration_ms": 159520,
+      "name": "Tank On E",
+      "url": "https://open.spotify.com/track/3jJ8NX2W13Kb4weZEUSvpL"
+    },
+    {
+      "added_at": "2023-04-21 18:00:08",
+      "album": {
+        "name": "Very High",
+        "url": "https://open.spotify.com/album/5Gd3mPMU5qbLvK4nRwL4Tb"
+      },
+      "artists": [
+        {
+          "name": "Militarie Gun",
+          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
+        }
+      ],
+      "duration_ms": 114872,
+      "name": "Very High",
+      "url": "https://open.spotify.com/track/5MxAezfO6AOYafUUyzr0yR"
+    },
+    {
+      "added_at": "2023-04-21 18:00:15",
+      "album": {
+        "name": "CHAIN (feat. Jacob Lilly)",
+        "url": "https://open.spotify.com/album/6M7pQm8mrIcrc57XXQfNmx"
+      },
+      "artists": [
+        {
+          "name": "The Acacia Strain",
+          "url": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+        },
+        {
+          "name": "Chamber",
+          "url": "https://open.spotify.com/artist/0Iv7bsODzqbmMkC6pylYYN"
+        },
+        {
+          "name": "Jacob Lilly",
+          "url": "https://open.spotify.com/artist/3liqJR5I9qc7zYvhrM0tUx"
+        }
+      ],
+      "duration_ms": 71925,
+      "name": "CHAIN (feat. Jacob Lilly)",
+      "url": "https://open.spotify.com/track/5vw6v6Fta7a4BwHvhMtnVW"
+    },
     {
       "added_at": "2023-04-14 13:47:04",
       "album": {
@@ -2643,6 +2747,330 @@
       "duration_ms": 204006,
       "name": "Foregone Pt. 1",
       "url": "https://open.spotify.com/track/4GAE2sALmyF5ZvrxOEvloU"
+    },
+    {
+      "added_at": "2022-09-16 18:47:07",
+      "album": {
+        "name": "Pain Remains I: Dancing Like Flames",
+        "url": "https://open.spotify.com/album/2HRhcuqmyel4Zn92eeE3Cg"
+      },
+      "artists": [
+        {
+          "name": "Lorna Shore",
+          "url": "https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF"
+        }
+      ],
+      "duration_ms": 352560,
+      "name": "Pain Remains I: Dancing Like Flames",
+      "url": "https://open.spotify.com/track/4KyPlGyV6lfxOPHfBQpPZm"
+    },
+    {
+      "added_at": "2022-09-16 18:47:20",
+      "album": {
+        "name": "It Never Began",
+        "url": "https://open.spotify.com/album/3CxeN9kycWWPzlsUAFFG9Z"
+      },
+      "artists": [
+        {
+          "name": "Torche",
+          "url": "https://open.spotify.com/artist/4PxqJghOAEvatt0scJvili"
+        }
+      ],
+      "duration_ms": 205233,
+      "name": "It Never Began",
+      "url": "https://open.spotify.com/track/7pLmXXwjM18XrFEmfIwXLZ"
+    },
+    {
+      "added_at": "2022-09-16 18:47:30",
+      "album": {
+        "name": "Rot & Decay",
+        "url": "https://open.spotify.com/album/34hAGVDT8f5qM9FjLyHNPz"
+      },
+      "artists": [
+        {
+          "name": "Dead To Fall",
+          "url": "https://open.spotify.com/artist/4fJhgb2uzeQZUtUUVqQLX3"
+        }
+      ],
+      "duration_ms": 202607,
+      "name": "Rot & Decay",
+      "url": "https://open.spotify.com/track/2dwYVykmRQsVfJbRZvGGjb"
+    },
+    {
+      "added_at": "2022-09-09 18:08:56",
+      "album": {
+        "name": "Grayscale",
+        "url": "https://open.spotify.com/album/4ujTrzNAnVZid6lnVUULvu"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 239940,
+      "name": "Grayscale",
+      "url": "https://open.spotify.com/track/2e9mDdiPdwkyyTceSiNHbQ"
+    },
+    {
+      "added_at": "2022-09-09 18:09:10",
+      "album": {
+        "name": "Patient Number 9",
+        "url": "https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Tony Iommi",
+          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
+        }
+      ],
+      "duration_ms": 406472,
+      "name": "No Escape From Now (feat. Tony Iommi)",
+      "url": "https://open.spotify.com/track/3EJAW7s7KWyiJvmKAtDTgA"
+    },
+    {
+      "added_at": "2022-09-09 18:09:20",
+      "album": {
+        "name": "Forced Collective Introspection",
+        "url": "https://open.spotify.com/album/7og3aAs6LAsU1fWIfyyZLb"
+      },
+      "artists": [
+        {
+          "name": "Escuela Grind",
+          "url": "https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG"
+        }
+      ],
+      "duration_ms": 132158,
+      "name": "Forced Collective Introspection",
+      "url": "https://open.spotify.com/track/6m2DU1KELwVuOSRBVHeRz6"
+    },
+    {
+      "added_at": "2022-09-09 18:09:34",
+      "album": {
+        "name": "Eternal Steel",
+        "url": "https://open.spotify.com/album/4iIywr04MB9RN9bbRhtRpd"
+      },
+      "artists": [
+        {
+          "name": "I AM",
+          "url": "https://open.spotify.com/artist/7dQNPdkq99QGiUIMmRjqur"
+        }
+      ],
+      "duration_ms": 196346,
+      "name": "The Primal Wave",
+      "url": "https://open.spotify.com/track/30PCjpjQ4zYluCYzsaw6Aw"
+    },
+    {
+      "added_at": "2022-09-09 18:09:44",
+      "album": {
+        "name": "I Don't Wanna Talk About It",
+        "url": "https://open.spotify.com/album/0o0iQWO3Kb7w4FWcs46Odm"
+      },
+      "artists": [
+        {
+          "name": "Candy Apple",
+          "url": "https://open.spotify.com/artist/3EYZaeK8iJPw5PWdNyeFgy"
+        }
+      ],
+      "duration_ms": 153385,
+      "name": "I Don't Wanna Talk About It",
+      "url": "https://open.spotify.com/track/7MmcCmu1q6a7PDgH1vJT3I"
+    },
+    {
+      "added_at": "2022-09-09 18:09:54",
+      "album": {
+        "name": "Victoria",
+        "url": "https://open.spotify.com/album/0UPo0E0JG2cSsce1ehoSpI"
+      },
+      "artists": [
+        {
+          "name": "Brutus",
+          "url": "https://open.spotify.com/artist/7m63GptZSke3jGqCxR4rom"
+        }
+      ],
+      "duration_ms": 238211,
+      "name": "Victoria",
+      "url": "https://open.spotify.com/track/092s2mBt9gxSKCPjT2CWNz"
+    },
+    {
+      "added_at": "2022-09-02 18:14:33",
+      "album": {
+        "name": "Compulsion for Cruelty",
+        "url": "https://open.spotify.com/album/5OXIkskoAjJuU4vgHCreEL"
+      },
+      "artists": [
+        {
+          "name": "Dying Fetus",
+          "url": "https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie"
+        }
+      ],
+      "duration_ms": 277996,
+      "name": "Compulsion for Cruelty",
+      "url": "https://open.spotify.com/track/6qyjlMANn1diSEIlXQLm50"
+    },
+    {
+      "added_at": "2022-09-02 19:54:44",
+      "album": {
+        "name": "The Sick, The Dying\u2026 And The Dead!",
+        "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 374173,
+      "name": "Dogs Of Chernobyl",
+      "url": "https://open.spotify.com/track/4nWRa8SyNXrfIl3SCCuC6E"
+    },
+    {
+      "added_at": "2022-09-02 18:14:40",
+      "album": {
+        "name": "nihil",
+        "url": "https://open.spotify.com/album/1ZtYA2cDVnd6ZjYtOG8f7k"
+      },
+      "artists": [
+        {
+          "name": "Mimi Barks",
+          "url": "https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC"
+        }
+      ],
+      "duration_ms": 189457,
+      "name": "nihil",
+      "url": "https://open.spotify.com/track/2X6tjTssSBitIKOS6tXs8D"
+    },
+    {
+      "added_at": "2022-09-02 18:14:49",
+      "album": {
+        "name": "Damnation",
+        "url": "https://open.spotify.com/album/2z0KrMrHcKDNT48ae7aGrn"
+      },
+      "artists": [
+        {
+          "name": "Raw Breed",
+          "url": "https://open.spotify.com/artist/6QEopd1XsizMiGKMMqRRFn"
+        }
+      ],
+      "duration_ms": 101110,
+      "name": "Damnation",
+      "url": "https://open.spotify.com/track/5afgTvdlApyuy2Ciu5DZyd"
+    },
+    {
+      "added_at": "2022-09-02 18:14:55",
+      "album": {
+        "name": "deep fake",
+        "url": "https://open.spotify.com/album/4JwL8PccOelOQpqspai7uF"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 213871,
+      "name": "deep fake",
+      "url": "https://open.spotify.com/track/1I3EjtaIQz2zzDE1aeiUEz"
+    },
+    {
+      "added_at": "2022-09-02 18:15:05",
+      "album": {
+        "name": "Pass The Nirvana",
+        "url": "https://open.spotify.com/album/50eq5hUKnqB9e51D9GSmKs"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "duration_ms": 197374,
+      "name": "Pass The Nirvana",
+      "url": "https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV"
+    },
+    {
+      "added_at": "2022-09-02 18:15:13",
+      "album": {
+        "name": "Shaken (not stirred)",
+        "url": "https://open.spotify.com/album/3pDXkhMOLNggMubMljdkRJ"
+      },
+      "artists": [
+        {
+          "name": "Tallah",
+          "url": "https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf"
+        }
+      ],
+      "duration_ms": 319083,
+      "name": "Shaken (not stirred)",
+      "url": "https://open.spotify.com/track/0xv7FSJPlVXBabtxOtMtHA"
+    },
+    {
+      "added_at": "2022-08-26 17:49:06",
+      "album": {
+        "name": "Words Fail",
+        "url": "https://open.spotify.com/album/5vKiKQXUrAudV0tY61l8G7"
+      },
+      "artists": [
+        {
+          "name": "Mindforce",
+          "url": "https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei"
+        }
+      ],
+      "duration_ms": 96573,
+      "name": "Words Fail",
+      "url": "https://open.spotify.com/track/4eB3zRK5tIQj8obRT2ux2c"
+    },
+    {
+      "added_at": "2022-08-26 17:49:32",
+      "album": {
+        "name": "Heart Reformer",
+        "url": "https://open.spotify.com/album/04b6r0OaKUICdRbIacCRPa"
+      },
+      "artists": [
+        {
+          "name": "Dead Cross",
+          "url": "https://open.spotify.com/artist/5o7MNRaQrt87SwYWxHEZvN"
+        }
+      ],
+      "duration_ms": 206346,
+      "name": "Heart Reformer",
+      "url": "https://open.spotify.com/track/4bSTKeCvyLnXwsDc1Aw452"
+    },
+    {
+      "added_at": "2022-08-26 17:49:44",
+      "album": {
+        "name": "The Bough",
+        "url": "https://open.spotify.com/album/6rHvNkGI7UyJ7oGNJ8fBpG"
+      },
+      "artists": [
+        {
+          "name": "Black Math Horseman",
+          "url": "https://open.spotify.com/artist/6Pqqs38vVtfObyyoUaD5E5"
+        }
+      ],
+      "duration_ms": 429419,
+      "name": "The Bough",
+      "url": "https://open.spotify.com/track/6gQ1LiHTZ42Luk9EG7MlNk"
+    },
+    {
+      "added_at": "2022-08-26 17:49:54",
+      "album": {
+        "name": "Vultures of North",
+        "url": "https://open.spotify.com/album/738F2jVcoLtg0mBuXuxows"
+      },
+      "artists": [
+        {
+          "name": "Orbit Culture",
+          "url": "https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY"
+        }
+      ],
+      "duration_ms": 278181,
+      "name": "Vultures of North",
+      "url": "https://open.spotify.com/track/7EtQ5CqjSRgItuTYXeEtc9"
     },
     {
       "added_at": "2022-08-26 17:50:08",

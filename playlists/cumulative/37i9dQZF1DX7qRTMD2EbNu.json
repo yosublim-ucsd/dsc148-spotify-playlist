@@ -4153,6 +4153,24 @@
     },
     {
       "album": {
+        "name": "We Going Up",
+        "url": "https://open.spotify.com/album/51tHE6o3t3PjaBCmuSNEbs"
+      },
+      "artists": [
+        {
+          "name": "Flowking Stone",
+          "url": "https://open.spotify.com/artist/6TUrMfT9GkjM7gmBtmkkQt"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204200,
+      "name": "We Going Up",
+      "url": "https://open.spotify.com/track/4xpiPlHX4FNRrpzMl8aDXO"
+    },
+    {
+      "album": {
         "name": "Win",
         "url": "https://open.spotify.com/album/6ovQUMpjUj1ZzLaCU2PVLB"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:  <a href=\"https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi?si=2a330c8d57304a57\">Majo y Dan</a>",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:  <a href=\"https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd?si=0f5e97f671f942ea\">Marcos Vidal</a>",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -875,6 +875,24 @@
     },
     {
       "album": {
+        "name": "Lo Que Vemos",
+        "url": "https://open.spotify.com/album/0wkdE2eKcK4MBcfiphlEmC"
+      },
+      "artists": [
+        {
+          "name": "Marcos Vidal",
+          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274971,
+      "name": "Bajo El Agua",
+      "url": "https://open.spotify.com/track/4zEL9LHCQNPmDTc3dsOume"
+    },
+    {
+      "album": {
         "name": "Bandera Blanca",
         "url": "https://open.spotify.com/album/2szXozV47NGFejMLMvzyzd"
       },
@@ -1212,7 +1230,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 264347,
       "name": "Cantando Bueno Es Dios",
       "url": "https://open.spotify.com/track/4m6rZMvNMNi3kNgJsoOsF6"
@@ -1424,6 +1442,28 @@
       "duration_ms": 268974,
       "name": "Construir\u00e9 Mi Vida",
       "url": "https://open.spotify.com/track/5m9T3o8tBpkFlqMlkwbVh7"
+    },
+    {
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/6fHJeRf0DQquLgrwp4P9au"
+      },
+      "artists": [
+        {
+          "name": "Nezareth",
+          "url": "https://open.spotify.com/artist/4afXJaDsXOYRPYklYepSYT"
+        },
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/3VYlrsMKVYCZ8s8JCMEhGT"
     },
     {
       "album": {
@@ -3256,6 +3296,24 @@
       "duration_ms": 201339,
       "name": "Grito",
       "url": "https://open.spotify.com/track/43PTYDkwcxl4pbvnIoTrnY"
+    },
+    {
+      "album": {
+        "name": "Guarda Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/7q0FwU5uvkrNHYpiBrMf55"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237667,
+      "name": "Guarda Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/30QzcMG2SxcOCtMNgU9mXJ"
     },
     {
       "album": {
@@ -7241,6 +7299,24 @@
     },
     {
       "album": {
+        "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
+        "url": "https://open.spotify.com/album/0X3ypNwDzwYW7iEPQ4MWrl"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226481,
+      "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
+      "url": "https://open.spotify.com/track/6X6wECGLnBIMDsAjgOR5Di"
+    },
+    {
+      "album": {
         "name": "Todo Por Ti",
         "url": "https://open.spotify.com/album/5KHAGL0OxrGg86ZSivOMAh"
       },
@@ -7398,7 +7474,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 312262,
       "name": "Tu Cara",
       "url": "https://open.spotify.com/track/6Sg5qYaAHubFI4RTvx9k29"

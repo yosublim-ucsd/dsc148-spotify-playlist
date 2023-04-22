@@ -3071,6 +3071,24 @@
     },
     {
       "album": {
+        "name": "She Smoked in the House",
+        "url": "https://open.spotify.com/album/0MJ5Ml5GLegO4OxYWox7F4"
+      },
+      "artists": [
+        {
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148264,
+      "name": "She Smoked in the House",
+      "url": "https://open.spotify.com/track/57V4LmQZgivEMalcNaymBo"
+    },
+    {
+      "album": {
         "name": "Tears the Size of Texas",
         "url": "https://open.spotify.com/album/34cv4GGLrJbYA2u6di1Pok"
       },

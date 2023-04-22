@@ -1,12 +1,12 @@
 {
   "description": "Chillout to the coolest Korean acoustic tunes. (Cover: YUDABINBAND(\uc720\ub2e4\ube48\ubc34\ub4dc)) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.)",
-  "num_followers": 249996,
+  "num_followers": 250163,
   "original_name": "K-Pop Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc2OTcwNCwwMDAwMDAwMGRhOTMxNDkzODA0MmFmYWE3MGYwOTc5ZThmNDQyNjBi",
+  "snapshot_id": "MTY4MDc2OTcwNCwwMDAwMDAwMDdlMDBhYzRiMmIwYTQyZDQ0Zjc4MzM1NWZhNzYzZjk4",
   "tracks": [
     {
       "added_at": "2023-04-06 04:09:16",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-04-06 04:09:16",
       "album": {
-        "name": "Officially Missing You",
-        "url": "https://open.spotify.com/album/6hE4TNufMSOti5r2qdfHAl"
-      },
-      "artists": [
-        {
-          "name": "Geeks",
-          "url": "https://open.spotify.com/artist/5VxfguafjfSdJcN10ACVZe"
-        }
-      ],
-      "duration_ms": 210367,
-      "name": "Officially Missing You",
-      "url": "https://open.spotify.com/track/7CkjU55ROZSwb95dzGan0o"
-    },
-    {
-      "added_at": "2023-04-06 04:09:16",
-      "album": {
         "name": "Rocking Chair",
         "url": "https://open.spotify.com/album/22LDFeOvXM6mtimOODDgyU"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 234893,
       "name": "Rocking Chair",
       "url": "https://open.spotify.com/track/0qnW3Fl1IADc9UKr2FYLK2"
+    },
+    {
+      "added_at": "2023-04-06 04:09:16",
+      "album": {
+        "name": "Officially Missing You",
+        "url": "https://open.spotify.com/album/6hE4TNufMSOti5r2qdfHAl"
+      },
+      "artists": [
+        {
+          "name": "Geeks",
+          "url": "https://open.spotify.com/artist/5VxfguafjfSdJcN10ACVZe"
+        }
+      ],
+      "duration_ms": 210367,
+      "name": "Officially Missing You",
+      "url": "https://open.spotify.com/track/7CkjU55ROZSwb95dzGan0o"
     },
     {
       "added_at": "2023-04-06 04:09:16",

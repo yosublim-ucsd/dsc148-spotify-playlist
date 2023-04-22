@@ -1189,6 +1189,24 @@
     },
     {
       "album": {
+        "name": "Drink or Two (Acoustic Sessions)",
+        "url": "https://open.spotify.com/album/4MLvv5Xyg8q4UcHTorE99x"
+      },
+      "artists": [
+        {
+          "name": "Ely Jaffe",
+          "url": "https://open.spotify.com/artist/2DfCn97Kdl5ilKL5dMcTDZ"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150750,
+      "name": "Drink or Two",
+      "url": "https://open.spotify.com/track/0YGNs4jKdzqRch5Yu0pydH"
+    },
+    {
+      "album": {
         "name": "Drowning",
         "url": "https://open.spotify.com/album/0sHHqhHLztj8XsZfZAJvnw"
       },

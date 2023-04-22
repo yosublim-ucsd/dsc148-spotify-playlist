@@ -4,7 +4,7 @@
 
 > medieval tunes for board gaming, roleplay or some historical chill.
 
-74 songs - 3 hr 56 min
+75 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Suite in C Minor from Ms\. Lobkowicz: V\. La volage Passacaille](https://open.spotify.com/track/7zSvbQuYJ4AhGLxsTRfCzv) | [Charles Mouton](https://open.spotify.com/artist/7IoBL5mzZdjFBq58slYLxP), [Anders Ericson](https://open.spotify.com/artist/4kb9G0GZo02DvJNT43lBma) | [Charles Mouton \- Baroque Lute](https://open.spotify.com/album/5blzNNQkLFPogV87YJddNz) | 3:03 | 2022-01-25 |  |
 | [Suite in G Major: VI\. Chaconne](https://open.spotify.com/track/6AxHPKD67td22BbNBWFp4C) | [Robert de Visée](https://open.spotify.com/artist/4br5HVmW3Xed5Zvffl0RSU), [Yasunori Imamura](https://open.spotify.com/artist/6VGoQUG1oYW9nHgFnQNOVU) | [Visee, R\. De: Suites](https://open.spotify.com/album/3Zc9g2BQCPyuRH0n3AlR5U) | 8:13 | 2022-01-25 |  |
 | [Suite No\. 1 in C Major: II\. Spagnoletta](https://open.spotify.com/track/54zeWeNKZHaNYKY2lHY1gY) | [Michael Praetorius](https://open.spotify.com/artist/0OTPgUKkDp058dC3czXFM2), [The New York Renaissance Band](https://open.spotify.com/artist/68aPYbLK1kJbQcZ3dDAYrz), [Sally Logemann](https://open.spotify.com/artist/6zTV9YLwzBwMzsu2d6yqOt) | [Praetorius: Terpsichore \- Suites Nos\. 1\-4](https://open.spotify.com/album/3HVL2zohtF2lF8y0pgwB47) | 2:59 | 2022-01-25 |  |
+| [The Dancing Master: Drive the Cold Winter Away](https://open.spotify.com/track/1U29vvxf87m0zcz6GN78dm) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [PRISMA](https://open.spotify.com/artist/1kT9uIlaSJT4OwxMXsXx4I) | [In the Streets of London: A 17th Century Musical Pub Tour](https://open.spotify.com/album/6oHYqLToZU2c7gCrzeaYlc) | 1:45 | 2023-04-21 |  |
 | [The English Dance Master, Vol\. 1: Parson's farewell](https://open.spotify.com/track/5Idsz8GnYXpkMLQOnhlOrl) | [John Playford](https://open.spotify.com/artist/1JuNbnzQ7k4qTd6x1cyKpq), [Baltimore Consort](https://open.spotify.com/artist/695DZiuQWz8JR0iEOxmbQI) | [Playford, J.: Tunes and Their Ballads \(A Trip To Killburn\)](https://open.spotify.com/album/5prNj2q6WKKuCVdYM23RoU) | 1:51 | 2022-01-25 |  |
 | [The Fairy Round \(Galliard\)](https://open.spotify.com/track/217B2aNAKMidvy7RDSfMaA) | [Anthony Holborne](https://open.spotify.com/artist/5wBrgZigt8RFVrcARWc9bD), [Lutz Kirchhof](https://open.spotify.com/artist/22dMjgcNzSEmrWEtU8JBVH) | [Lute Music for Witches and Alchemists](https://open.spotify.com/album/3PdQWrrT44V9EoZjhccESU) | 3:24 | 2022-01-25 |  |
 | [The First Part of Ayres, French, Pollish and others together … with Pavines, Galliards, and Almaines \(1605\): I\. A Galiard](https://open.spotify.com/track/5RfAoa1gKK9IK6ld25FaDj) | [Tobias Hume](https://open.spotify.com/artist/1z5IeyRbd7iLgu1fpxFRLe), [Matteo Cicchitti](https://open.spotify.com/artist/20GMDtM8hUo9RG5GGaUH5y), [Musica Elegentia](https://open.spotify.com/artist/69Repx4UdPmARORAxg5OGN) | [Ricercare E Canzoni](https://open.spotify.com/album/5uquiT1PSQzhxkkTgB2U1Z) | 1:10 | 2022-07-08 |  |

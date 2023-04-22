@@ -4,7 +4,7 @@
 
 > Epic and melodic metal \- for the dragonslayer in you! Cover: Sabaton
 
-530 songs - 1 day 16 hr 46 min
+531 songs - 1 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Beautiful Lie](https://open.spotify.com/track/3dDNdEVFoLxwHHxMkqdzgX) | [Timo Tolkki’s Avalon](https://open.spotify.com/artist/6UkYfNV9Y4kp00UT4D2djV), [James Labrie](https://open.spotify.com/artist/3bd5EpE5vC93GJT2u0fx4n) | [The Enigma Birth](https://open.spotify.com/album/1FHDDaZgW1tIITStkrPegX) | 3:51 | 2021-06-19 | 2022-04-02 |
 | [Beneath \(feat\. Paolo Ribaldini\)](https://open.spotify.com/track/0OjnAYGA3uGCN5XbD53dA5) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Paolo Ribaldini](https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN) | [Dark Waters](https://open.spotify.com/album/0aZuBf1mVMdYYZWRxBUZHs) | 4:59 | 2023-03-24 |  |
 | [Beneath Your Skin](https://open.spotify.com/track/6HBrzNvh6wCh0wWsNHJBbe) | [Chaos Magic](https://open.spotify.com/artist/42OynfArWdfEeCmkvUV4qC), [Caterina Nix](https://open.spotify.com/artist/3ujLgYPCCryc7HfFjxMM2S) | [Emerge](https://open.spotify.com/album/4jLwGSX4k8voH5XNijvY2F) | 4:40 | 2022-06-17 | 2022-07-29 |
-| [Beneath Your Skin](https://open.spotify.com/track/7jQjPgtzLhJwDMRb23NF9f) | [Chaos Magic](https://open.spotify.com/artist/42OynfArWdfEeCmkvUV4qC), [Caterina Nix](https://open.spotify.com/artist/3ujLgYPCCryc7HfFjxMM2S) | [Emerge \(Deluxe Edition\)](https://open.spotify.com/album/6U4G96P03Ozny2EURgrx4b) | 4:40 | 2022-07-08 |  |
+| [Beneath Your Skin](https://open.spotify.com/track/7jQjPgtzLhJwDMRb23NF9f) | [Chaos Magic](https://open.spotify.com/artist/42OynfArWdfEeCmkvUV4qC), [Caterina Nix](https://open.spotify.com/artist/3ujLgYPCCryc7HfFjxMM2S) | [Emerge \(Deluxe Edition\)](https://open.spotify.com/album/6U4G96P03Ozny2EURgrx4b) | 4:40 | 2022-07-08 | 2023-04-22 |
 | [Bereavement \- Instrumental](https://open.spotify.com/track/2DZqH9cwi33v4t4e2hqC9B) | [Graupel](https://open.spotify.com/artist/7vIC7DWLeeIk5kHTZosmg6) | [Bereavement \(Instrumental Edition\)](https://open.spotify.com/album/1O2eEwO3sJSkrfNOg16ekw) | 2:38 | 2022-07-13 | 2022-07-23 |
 | [BEST TIME](https://open.spotify.com/track/0cTHs20lsSAahzUnlG05Lg) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [HELLOWEEN](https://open.spotify.com/album/6ZOpyAm1HCU9Z0aRSLMPnn) | 3:35 | 2021-06-19 | 2022-02-11 |
 | [Black Venom](https://open.spotify.com/track/28D4Z3vzudtzMu0NQ5789S) | [Without Warning](https://open.spotify.com/artist/4t91G6AzXhhZXQkbpZX7Fe) | [Black Venom](https://open.spotify.com/album/3fRo6gSfiyW73l7Rd7nQPq) | 3:17 | 2022-06-11 | 2023-03-30 |
@@ -245,6 +245,7 @@
 | [Land Under Storm](https://open.spotify.com/track/3U5Vr0V0iv9t9R6DKT4hQU) | [Frozen Shield](https://open.spotify.com/artist/1KiaTHAqtLFqstFaPG933b) | [Land Under Storm](https://open.spotify.com/album/5yGz3JfrZC5Rzp48h5FGe9) | 5:35 | 2021-06-19 | 2022-02-26 |
 | [Laughing with Such Abandon](https://open.spotify.com/track/3fyGSHl08qE7kzCnBLF7aV) | [Outrun The Sunlight](https://open.spotify.com/artist/4atkTeLJndPtLrqnn7aIkO) | [Terrapin](https://open.spotify.com/album/4d9WdQdLhE6203M6p8jZ4V) | 4:48 | 2022-07-13 | 2022-07-16 |
 | [Le Radeau de La Méduse](https://open.spotify.com/track/3pA6e63BSPjPt9SFF9lwha) | [Aephanemer](https://open.spotify.com/artist/1M2nK2dOXJjcCuW3SQEzET) | [Le Radeau de La Méduse \(English\)](https://open.spotify.com/album/1KENM3kf19xETgAZT0DQng) | 5:42 | 2021-11-20 | 2022-07-08 |
+| [Legends Never Die](https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [Legends Never Die](https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC) | 3:54 | 2023-04-14 |  |
 | [Leierkinder](https://open.spotify.com/track/3ImQFmi5ODojWONMe9S1mu) | [Nachtblut](https://open.spotify.com/artist/5B0OyK2i2akNMaYj3voQ3j) | [Leierkinder](https://open.spotify.com/album/4ULEzWkcdcKjenxTXmyhJc) | 4:00 | 2020-11-29\* | 2021-10-16 |
 | [Lempo](https://open.spotify.com/track/3WzAw4smXmAsSyXVEE09Qb) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy) | [Noita](https://open.spotify.com/album/0VjxxvMfRb10KB92WYbgqN) | 5:35 | 2020-11-29\* | 2021-09-04 |
 | [Let the Fire Rain](https://open.spotify.com/track/4e1sizUvzt4tOquIcEmDpm) | [Orden Ogan](https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM) | [Let the Fire Rain](https://open.spotify.com/album/7IUt3b9v6otoNjqG6WdLbc) | 4:35 | 2021-02-19 | 2021-12-04 |

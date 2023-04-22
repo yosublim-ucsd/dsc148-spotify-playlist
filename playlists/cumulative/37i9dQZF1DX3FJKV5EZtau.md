@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-351 songs - 20 hr 17 min
+352 songs - 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [I have something to tell you](https://open.spotify.com/track/3w0Hy2IxxClVnhcmAwX7Ej) | [Blosso](https://open.spotify.com/artist/5Jn30mbNDGHLSxfCUZc7XM) | [I have something to tell you](https://open.spotify.com/album/3W2avuXXusN1quj1JvIKXn) | 3:40 | 2022-01-07 | 2022-07-27 |
 | [I Like America & America Likes Me](https://open.spotify.com/track/1RHuBRoACkLRo2vjGqFCwf) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 3:26 | 2022-07-14 | 2022-08-06 |
 | [I Love This](https://open.spotify.com/track/1rZA151rIhOBq1pL5l5pay) | [Lamorn](https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9) | [I Love This](https://open.spotify.com/album/3v2kXhB9ttUu3LeKXdpN07) | 4:00 | 2023-04-13 |  |
+| [I'll Be Waiting](https://open.spotify.com/track/1qadEGAXKdavfGokWUaVzL) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [NAZAAR](https://open.spotify.com/artist/6G1en7nfPSAWElhPgUOy0h), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [I'll Be Waiting](https://open.spotify.com/album/2HFkHwcSgULeBwn78FapIh) | 4:08 | 2023-04-21 |  |
 | [if u want my love \- floopy flip](https://open.spotify.com/track/3GzKv75h5Gr6dP7OuNqKvy) | [FrankJavCee](https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E), [floopy](https://open.spotify.com/artist/5kHm3FQ8SPLMxFFF4ZSzle) | [if u want my love \(the remixes\)](https://open.spotify.com/album/0SfBgStMy1BwzygvmqfLcd) | 2:16 | 2022-01-07 | 2022-07-29 |
 | [Imaginary Express](https://open.spotify.com/track/4kFWo9k3TysBOszTZTENPK) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [Imaginarium](https://open.spotify.com/album/2FT3brbwyqJ3mthpsximfk) | 3:52 | 2022-01-07 |  |
 | [In the Pocket](https://open.spotify.com/track/5s4mUU69SlqMNrfavX3zVK) | [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8), [Duzzled](https://open.spotify.com/artist/0GhzKJWv9t65ln61aRlywb) | [In the Pocket](https://open.spotify.com/album/7kwqayB8OzSSUYYWuVptdi) | 2:37 | 2022-01-07 | 2022-07-25 |
@@ -314,7 +315,7 @@
 | [Sweet Treasure](https://open.spotify.com/track/6v4lc6bZ9N1biVJSHvbtte) | [Wave Meow](https://open.spotify.com/artist/7h1lUkkaG2VBNY5p99Zf3K) | [Sweet Treasure](https://open.spotify.com/album/4VC1dO9Yfq9GamuzVcmIip) | 3:23 | 2022-01-07 | 2023-03-11 |
 | [SWEETHEART](https://open.spotify.com/track/1pm53W5JpBdkVyE72mm7W3) | [Synthion](https://open.spotify.com/artist/4YqfXU53VVYBunSuvrDZYO) | [SWEETHEART](https://open.spotify.com/album/4G8JnLQhOF8w234GbjKaOD) | 2:13 | 2022-01-07 | 2022-07-26 |
 | [Take a chance](https://open.spotify.com/track/0RL7qleLwH9ASkAGpgDiRs) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [Take a chance](https://open.spotify.com/album/0CvxXRNp8bS5fZme72JS8m) | 3:30 | 2022-07-14 | 2022-08-18 |
-| [Take My Heart Away](https://open.spotify.com/track/0McxF8eId0vNfcOig2RoZ6) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [DJ Danny](https://open.spotify.com/artist/4LCPHYqTPj7QWkq0G7wKVM) | [Harlecore](https://open.spotify.com/album/4axEKjoWXw9lTXvLPUR3HZ) | 3:05 | 2022-01-07 |  |
+| [Take My Heart Away](https://open.spotify.com/track/0McxF8eId0vNfcOig2RoZ6) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [DJ Danny](https://open.spotify.com/artist/4LCPHYqTPj7QWkq0G7wKVM) | [Harlecore](https://open.spotify.com/album/4axEKjoWXw9lTXvLPUR3HZ) | 3:05 | 2022-01-07 | 2023-04-22 |
 | [talk \- KOTONOHOUSE Remix](https://open.spotify.com/track/7oUKu47V3HhOOyqkGK4F4E) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO), [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC) | [trilogy remixes](https://open.spotify.com/album/05H1dRhfSFcuWW1HD5Nama) | 3:47 | 2022-01-07 |  |
 | [Tate \(how i feel\)](https://open.spotify.com/track/521n5wagIZ1522mA2ynHDL) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 3:42 | 2022-07-14 | 2022-08-06 |
 | [The Pain From U](https://open.spotify.com/track/23z6eKdO7HahLfmYdcwrc6) | [Ducky](https://open.spotify.com/artist/5e1I1C0g7epGwRxDGZ4tt9) | [The Pain From U](https://open.spotify.com/album/439xuuvfUKTBaf4wDkd3ef) | 3:06 | 2022-01-07 | 2022-09-26 |

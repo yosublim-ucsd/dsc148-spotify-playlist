@@ -2193,6 +2193,24 @@
     },
     {
       "album": {
+        "name": "it\u2019s ok!",
+        "url": "https://open.spotify.com/album/4w7M4EslHGIRR3etqWniTX"
+      },
+      "artists": [
+        {
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185890,
+      "name": "it's ok!",
+      "url": "https://open.spotify.com/track/65QnKbugRDVJK6MBdwkKBo"
+    },
+    {
+      "album": {
         "name": "kill myself",
         "url": "https://open.spotify.com/album/2FOmTkLSZvr2xVf1hVmDVm"
       },

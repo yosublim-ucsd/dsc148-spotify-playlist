@@ -4,7 +4,7 @@
 
 > Today's biggest Dance hits! Cover: Tiësto, A Boogie Wit Da Hoodie
 
-206 songs - 10 hr 44 min
+207 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Backseat](https://open.spotify.com/track/7nMNn3PJJMjhipGwFedAm3) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3vjULlZhcatjZgSREPs3V1) | 2:49 | 2022-12-08 | 2023-01-13 |
 | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7) | 2:28 | 2022-12-08 | 2023-01-27 |
 | [Beat Goes On \(Rhythm to the Brain\)](https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK) | [Beat Goes On \(Rhythm to the Brain\)](https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn) | 2:13 | 2022-12-15 |  |
-| [Been Dreaming](https://open.spotify.com/track/05aycF0iwg7oncrbAPXlvn) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [GD Vandal](https://open.spotify.com/artist/1CWlv9N9hW7ugqHBRy2fqX) | [Been Dreaming](https://open.spotify.com/album/45DVxrONjJSdjVkFtfVeqH) | 2:40 | 2023-04-20 |  |
+| [Been Dreaming](https://open.spotify.com/track/05aycF0iwg7oncrbAPXlvn) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [GD Vandal](https://open.spotify.com/artist/1CWlv9N9hW7ugqHBRy2fqX) | [Been Dreaming](https://open.spotify.com/album/45DVxrONjJSdjVkFtfVeqH) | 2:40 | 2023-04-20 | 2023-04-22 |
+| [Been Dreaming](https://open.spotify.com/track/3vi0IoO6GQMT9IT96tUKVF) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [GD Vandal](https://open.spotify.com/artist/1CWlv9N9hW7ugqHBRy2fqX) | [Been Dreaming](https://open.spotify.com/album/1bWliHFn3fmwHKhF3dS5nN) | 2:40 | 2023-04-20 |  |
 | [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 | 2022-12-15 |  |
 | [Believe \(feat\. Goodboys\)](https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Believe \(feat\. Goodboys\)](https://open.spotify.com/album/6OcqONrf7kWx0jE3yNI2Nx) | 3:08 | 2022-12-08 | 2023-02-24 |
 | [Better Love](https://open.spotify.com/track/1UTHkifQMS6znmSx2Svobk) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Better Love](https://open.spotify.com/album/0delJu1UUzdBfufg94lbME) | 2:18 | 2023-03-03 | 2023-03-25 |

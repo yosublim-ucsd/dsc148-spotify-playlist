@@ -795,6 +795,24 @@
     },
     {
       "album": {
+        "name": "Under the Weather",
+        "url": "https://open.spotify.com/album/22nxXrvNWalmBOHUQkE85D"
+      },
+      "artists": [
+        {
+          "name": "Imber Sun",
+          "url": "https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142186,
+      "name": "farewells",
+      "url": "https://open.spotify.com/track/1EoaRggXd8RBKp4uFYB6PW"
+    },
+    {
+      "album": {
         "name": "Fidelity",
         "url": "https://open.spotify.com/album/1JepRozB8KitEG6WdBLzdT"
       },
@@ -846,6 +864,24 @@
       "duration_ms": 205856,
       "name": "finished falling",
       "url": "https://open.spotify.com/track/16UwPw97aFFsprUZrjoU3I"
+    },
+    {
+      "album": {
+        "name": "First Steps",
+        "url": "https://open.spotify.com/album/31cseXGAHyJQiU41GLE5yI"
+      },
+      "artists": [
+        {
+          "name": "Hillrose",
+          "url": "https://open.spotify.com/artist/6MqsLKFJ2ND4AtwvUzvm4y"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154459,
+      "name": "First Steps",
+      "url": "https://open.spotify.com/track/7JQuaTI3teysKtLiWQe4i8"
     },
     {
       "album": {

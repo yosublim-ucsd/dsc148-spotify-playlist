@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-521 songs - 22 hr 10 min
+523 songs - 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Ayewete](https://open.spotify.com/track/2ksbaKOkuO1SYyQIqLIX1M) | [Lucavietski](https://open.spotify.com/artist/27PTN8da910Uo2RPCfpFKR) | [Amont](https://open.spotify.com/album/3qsbn82SoavBcdk4BBbrQV) | 2:20 | 2022-02-10 | 2023-01-13 |
 | [Azul](https://open.spotify.com/track/4V9JH0Yk7etdGCZDX7TXvG) | [Side Sledge](https://open.spotify.com/artist/04ZyJQLsMY92swDhrrSqGe) | [Chance](https://open.spotify.com/album/4MaBzgmtaK2k7QOr9cFs5g) | 3:37 | 2021-11-10 | 2022-08-20 |
 | [Back in the Day](https://open.spotify.com/track/7bp12ZMMsQRxDtFOOMvy8M) | [Convivial](https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH) | [Back In The Day](https://open.spotify.com/album/0BWhrOI9YwYCs8BJWjQxXS) | 1:45 | 2023-03-10 |  |
-| [Bad Day](https://open.spotify.com/track/5c7OUDQyUJbtqmqsIiwWzI) | [Kiko Kaid](https://open.spotify.com/artist/2DgElimlxH8vCyfILVlrqP) | [Moonlit Canvas](https://open.spotify.com/album/1SffCgrJNnq5YP0EKoKA4y) | 3:10 | 2023-03-10 |  |
+| [Bad Day](https://open.spotify.com/track/5c7OUDQyUJbtqmqsIiwWzI) | [Kiko Kaid](https://open.spotify.com/artist/2DgElimlxH8vCyfILVlrqP) | [Moonlit Canvas](https://open.spotify.com/album/1SffCgrJNnq5YP0EKoKA4y) | 3:10 | 2023-03-10 | 2023-04-22 |
 | [bajo la luna](https://open.spotify.com/track/6MzqmDMctnS7fI0savOOtw) | [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G) | [bajo la luna](https://open.spotify.com/album/6FOcsajbqcF0h8XP5bqqe3) | 2:14 | 2022-10-28 |  |
 | [bakis](https://open.spotify.com/track/2lzx5m2mJdh5cE9RWVONXq) | [Izidore x](https://open.spotify.com/artist/2z2cKX1dfFL2jBrOXRjVKd) | [bakis](https://open.spotify.com/album/0U9O5HnNdQTY0CYljsbIOA) | 2:06 | 2021-11-10 | 2022-07-08 |
 | [BBQ](https://open.spotify.com/track/5nj8Y2IWfRGbIlgu6vVBO6) | [TYPEII](https://open.spotify.com/artist/35nSiWzRYHK8oVC58VbIvm) | [BBQ](https://open.spotify.com/album/1kZUXRWCNCIsJiNUjrdOp2) | 2:08 | 2021-11-10 | 2022-04-15 |
@@ -112,6 +112,7 @@
 | [Deductivism](https://open.spotify.com/track/44YPc6y7Wnh3Ochz19gVcF) | [Sasupt](https://open.spotify.com/artist/1UZDqEZC20MLeXRrbhtWbq) | [Axioms](https://open.spotify.com/album/51bUK9WeQYek8YkJ4kgWik) | 3:05 | 2021-11-10 | 2022-07-01 |
 | [Deep Blue](https://open.spotify.com/track/4N7vzUz5kg4emuU8py5PvZ) | [whiteglass](https://open.spotify.com/artist/6FrISpMCXqXSsCsqhTxnL2) | [Deep Blue](https://open.spotify.com/album/1dx8RWnHxRTuTa9LE3vROE) | 2:27 | 2023-02-24 |  |
 | [Deep Meaning](https://open.spotify.com/track/5PLhPQX56pD9C21PoPFJG7) | [Ledd Blue](https://open.spotify.com/artist/1YGWpdwoILEnUbvEZx3xnE) | [Deep Meaning](https://open.spotify.com/album/2dGnQPpPb7gn4qyawD9CU5) | 3:00 | 2022-12-09 |  |
+| [Deep Whispers](https://open.spotify.com/track/5y7Gi8XUtInGKz18QsIYgP) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Deep Whispers](https://open.spotify.com/album/171aXGnW92mHtxim98gUnK) | 3:38 | 2023-04-21 |  |
 | [Departure](https://open.spotify.com/track/4RXvT4yndTczEZFmCo6J4b) | [Liwia Antas](https://open.spotify.com/artist/2vDjp8PFFifCgAE0MZkHap) | [Departure](https://open.spotify.com/album/3iTN7tZcBKpDYjgx8PF61K) | 3:41 | 2021-11-10 | 2022-07-08 |
 | [desert days](https://open.spotify.com/track/59PI1yLKqsJKTrTbW2st4H) | [Arden Records](https://open.spotify.com/artist/4t6K3qACkVu8WWrG3mvo0r), [Trankilo](https://open.spotify.com/artist/1n2Ze3zEdTYw5nc8yq4ukP) | [desert days](https://open.spotify.com/album/2az23kSrvKgdQaNJYks1wF) | 2:32 | 2022-05-20 | 2023-02-25 |
 | [Dial In](https://open.spotify.com/track/74UYdNAk3qSD6U4V5DShef) | [Dia Louge](https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl) | [Call Me](https://open.spotify.com/album/6MD0V6Ap6pdO6trtrG8Vhg) | 2:59 | 2022-12-09 |  |
@@ -218,6 +219,7 @@
 | [In The Clouds](https://open.spotify.com/track/0NlVqWHgp2b7y79OC9ocEG) | [My Lucid Dreams](https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b) | [In The Clouds](https://open.spotify.com/album/1UCX6cttCUpNf3wbepwOU9) | 2:04 | 2022-10-28 |  |
 | [Infinite](https://open.spotify.com/track/7BlFnkY76uwDT9fvoeWEFZ) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [Infinite](https://open.spotify.com/album/1f45mE7umvGUb9OpAhW9ke) | 1:59 | 2022-09-02 |  |
 | [Inner Circle](https://open.spotify.com/track/2PHONNW4Knw22LQ9o3EvIo) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [Inner Circle](https://open.spotify.com/album/6Oa5m0iCnUyBGue9WmeBcA) | 2:26 | 2022-09-23 |  |
+| [Inner Peace](https://open.spotify.com/track/6rvX0JYhkqJivixXp40sJn) | [akanekuro](https://open.spotify.com/artist/1KyLdid5oA2QFMEzAwo3ZJ) | [Inner Peace](https://open.spotify.com/album/1YaaERFCQV7GvtMRQZMcww) | 2:18 | 2023-04-21 |  |
 | [Interlace](https://open.spotify.com/track/7LV01OBynmYstauhU7HeTC) | [Funshine](https://open.spotify.com/artist/6yrpDCs3th5WzFNyTaC75r) | [Interlace](https://open.spotify.com/album/770bOOrgLvY5Sn7Crrhh2U) | 2:36 | 2021-11-10 | 2022-07-22 |
 | [Interstellar Delivery](https://open.spotify.com/track/5cmWJfo4kBS25rxswvRFBY) | [LostiFi](https://open.spotify.com/artist/1KW7HtHJz11rhGJ6WtgqXR) | [Interstellar Delivery](https://open.spotify.com/album/0XO0wGMmqbJVCfiCSSB4pI) | 2:09 | 2022-05-13 | 2022-07-01 |
 | [Into The Woods](https://open.spotify.com/track/4axIVDsfj8YYLJLpnVPmEk) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z), [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [Into The Woods](https://open.spotify.com/album/0MPxw0gQkbUMgFhVZoi8jI) | 2:10 | 2022-05-10 | 2023-01-13 |
@@ -473,7 +475,7 @@
 | [Through The Lense](https://open.spotify.com/track/26N4LCZnAAWNsM42U8fAgB) | [Keyser](https://open.spotify.com/artist/52XeGIGAMhVqec1ev8t3Qc) | [Through The Lense](https://open.spotify.com/album/1h0hx2D61dW17Cymqzmxoy) | 2:18 | 2021-11-10 | 2022-07-08 |
 | [Through The Wildness](https://open.spotify.com/track/2qRlg2aj8lFiN01eh4PABi) | [Hall of Lofi](https://open.spotify.com/artist/5KWhpgpD7iLdJaf5MZbRYt) | [Through The Wildness](https://open.spotify.com/album/3gmXVJ5KvgK2DpMJo0yFRs) | 1:50 | 2022-06-17 |  |
 | [Time](https://open.spotify.com/track/7AlUplIMwg0AFXK4Ypj1KD) | [The Peaceful Beats Project](https://open.spotify.com/artist/2HxsVVdPzarYSgmY3UAtCB) | [Focus Inside](https://open.spotify.com/album/6j0BaPQlbezfWxEcVB7CLB) | 2:57 | 2021-11-10 | 2022-05-11 |
-| [Time Sometimes](https://open.spotify.com/track/29Ww4tSNHhIrUPpHokPEyh) | [89XZ](https://open.spotify.com/artist/4t7XSLtILeVEdoSjK7Jnym) | [Time Sometimes](https://open.spotify.com/album/0lR6x3rTonJ9blJStFzVtt) | 2:50 | 2021-11-10 |  |
+| [Time Sometimes](https://open.spotify.com/track/29Ww4tSNHhIrUPpHokPEyh) | [89XZ](https://open.spotify.com/artist/4t7XSLtILeVEdoSjK7Jnym) | [Time Sometimes](https://open.spotify.com/album/0lR6x3rTonJ9blJStFzVtt) | 2:50 | 2021-11-10 | 2023-04-22 |
 | [Timelabs](https://open.spotify.com/track/2RDgSvYyat9Ml4hgDVJ75P) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Timelabs](https://open.spotify.com/album/0LKjVPAQIJLcqA8BeKuHKH) | 2:01 | 2022-11-25 |  |
 | [TIMESHIFTER](https://open.spotify.com/track/62Bq9AVjUGHFo2utRfDfjj) | [WASTELAND](https://open.spotify.com/artist/1Nxw0yfsMqk14UsOqMKOXP) | [TIMESHIFTER](https://open.spotify.com/album/65dVM6JzOVhlUFy3x7JN9S) | 2:43 | 2021-11-10 | 2022-09-09 |
 | [Totoro Talk \(To Me\)](https://open.spotify.com/track/1EWoiQJwIOtjm0fQD9CYFo) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Totoro Talk \(To Me\)](https://open.spotify.com/album/2cO6OOPJZelphlVbttuW73) | 4:10 | 2021-11-10 | 2022-07-01 |

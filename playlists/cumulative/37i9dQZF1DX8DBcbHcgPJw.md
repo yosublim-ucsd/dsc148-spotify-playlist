@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: FMK, Big One & Ke Personajes.
 
-364 songs - 18 hr 12 min
+366 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Fui Yo](https://open.spotify.com/track/69LJPRbyI5jzsjDfWxxSzm) | [KEPÁ](https://open.spotify.com/artist/5a42D6pc8V0pLSEp5IVSLJ), [Mechaloca](https://open.spotify.com/artist/31sjDdCFcHCdcQItqzBVMn) | [Fui Yo](https://open.spotify.com/album/6vNisPvNXfQiqcQ8h6ukjP) | 2:17 | 2022-02-18 | 2022-06-05 |
 | [Fuiste un Amor de Verano \- Cumbia](https://open.spotify.com/track/1jh4rsUx5LuPiVQGzwF1g2) | [VI\-EM](https://open.spotify.com/artist/44hJXrVhoyA1fV1dn4wdHC) | [Fuiste un Amor de Verano \(Cumbia\)](https://open.spotify.com/album/3o0CmJnYZBDOvVHUjjnW35) | 3:16 | 2022-01-03 | 2022-07-15 |
 | [Get Lucky](https://open.spotify.com/track/14jzo7RhjlL9LmfzYDkMUU) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 2:56 | 2022-01-07 | 2023-01-06 |
-| [Gracias a Vos](https://open.spotify.com/track/7JrFcPtiHC0bB5F8LlHTIE) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Gracias a Vos](https://open.spotify.com/album/17JKI0xNdEeTDqJUKqNYUr) | 2:09 | 2022-08-26 |  |
+| [Gracias a Vos](https://open.spotify.com/track/7JrFcPtiHC0bB5F8LlHTIE) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Gracias a Vos](https://open.spotify.com/album/17JKI0xNdEeTDqJUKqNYUr) | 2:09 | 2022-08-26 | 2023-04-22 |
 | [Hasta la luna](https://open.spotify.com/track/1A3yLIqelu1D7MCtw06Cu7) | [\#TocoParaVos](https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES) | [\#Tocoparavos](https://open.spotify.com/album/3cz9fxBXppuImbufikGk2D) | 2:29 | 2021-12-23 |  |
 | [Hawai](https://open.spotify.com/track/3VDUQW8SQ9L6DNjyNsUW71) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Hawai](https://open.spotify.com/album/6mjTIBHjNtyQWwBrwrC6Kw) | 3:12 | 2021-12-23 | 2023-01-21 |
 | [Hdp](https://open.spotify.com/track/5t7asDLp6jJXxLp6I2SBYl) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Hdp](https://open.spotify.com/album/65Nbvf1AHKsEerfNIWbgHp) | 3:05 | 2022-02-04 | 2022-07-14 |
@@ -193,6 +193,7 @@
 | [Me Muero por Besarte](https://open.spotify.com/track/4ySkQDs1dYGvSmbhX1fwvv) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Me Muero por Besarte](https://open.spotify.com/album/6pk9keWjLlXBjXumLetz8L) | 3:32 | 2022-01-03 | 2022-07-09 |
 | [Me Niego a Perderte](https://open.spotify.com/track/6qywqcqskr2WWHlEjgqlz6) | [Modo Avión](https://open.spotify.com/artist/7lDhdRdV3e2zZ9MAEg8kbp) | [Me Niego a Perderte](https://open.spotify.com/album/0NKNUbZdQ49LT0fzPsO1NN) | 2:51 | 2022-01-03 | 2022-06-10 |
 | [Me Rehuso](https://open.spotify.com/track/40LwWoR8KL8tK4JLFiL53j) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [\#ATR](https://open.spotify.com/album/0yfjiOX5Vmg2uZebLzToq3) | 3:14 | 2022-01-03 | 2022-07-29 |
+| [Me Rehúso](https://open.spotify.com/track/7IMicgO40bIVPhn2JQn582) | [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb), [Flor Vigna](https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE) | [Me Rehúso](https://open.spotify.com/album/3mjtWv2cQN6zczYEVCNnwW) | 2:51 | 2023-04-21 |  |
 | [Me Vas a Extrañar](https://open.spotify.com/track/53ZsIwmRCpuHcRg6qK3GPi) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6), [Ezio Oliva](https://open.spotify.com/artist/7MP3vdAhPGxCkUVgOP1Nln) | [Me Vas a Extrañar](https://open.spotify.com/album/1jObnkZ4IOCWlpuCD9LPVY) | 2:59 | 2022-11-18 | 2023-04-09 |
 | [Me Voy](https://open.spotify.com/track/22sESxzbY1O1E19xjOTaYf) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Me Voy](https://open.spotify.com/album/4ZsEahCVUrqLbheIJR91bN) | 2:57 | 2021-12-23 |  |
 | [Medusa](https://open.spotify.com/track/21rvGezCRIQrWTd6lByZza) | [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A) | [Medusa](https://open.spotify.com/album/3UVxjE8peirTkZQBN4wUZN) | 2:13 | 2022-11-07 |  |
@@ -257,7 +258,7 @@
 | [Puntos Suspensivos](https://open.spotify.com/track/2ySUUTXVJkPqOfN2jmPeAW) | [Latam Sonora](https://open.spotify.com/artist/4AxOu00BxKnsEKsDf4lfpa) | [Puntos Suspensivos](https://open.spotify.com/album/0QyB4CmC5FdWCtdJiZ9h3K) | 2:50 | 2022-01-07 | 2022-05-27 |
 | [Pupilas Lejanas](https://open.spotify.com/track/3WugePzirGROxAle1gMPXE) | [Fer Silvera](https://open.spotify.com/artist/5HUPhcBE9Bg1LLnFrhRcOy) | [Pupilas Lejanas](https://open.spotify.com/album/44uQsmxBqlA1Tj02XGlWU6) | 2:36 | 2022-11-11 | 2022-12-10 |
 | [Pégate](https://open.spotify.com/track/5QgqLJ9S11j9DYZ4K3pNl3) | [Tu Papa](https://open.spotify.com/artist/7ha2O24d2RixnRx9whTRuW) | [Pégate](https://open.spotify.com/album/0WFDvy85wRdqHZcqbqTt8z) | 2:25 | 2022-02-11 | 2022-04-19 |
-| [Pídeme la Luna](https://open.spotify.com/track/0vsyr3APhEL7FBv0AWk5TI) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Pídeme la Luna](https://open.spotify.com/album/4T4FeDNo1vPoJ1CycNu5gZ) | 2:49 | 2022-01-28 |  |
+| [Pídeme la Luna](https://open.spotify.com/track/0vsyr3APhEL7FBv0AWk5TI) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Pídeme la Luna](https://open.spotify.com/album/4T4FeDNo1vPoJ1CycNu5gZ) | 2:49 | 2022-01-28 | 2023-04-22 |
 | [Que Atrevida](https://open.spotify.com/track/71MmbPMEjoGQt5mqiVtwBT) | [Pinky SD](https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Que Atrevida](https://open.spotify.com/album/53u0W3zjyTE1psaiYkB2VC) | 2:05 | 2023-03-31 | 2023-04-04 |
 | [Que Calor \- Remix](https://open.spotify.com/track/0aPYEakMxmZ3dpcdCYCbJN) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i), [Nico Vallorani DJ](https://open.spotify.com/artist/2ebw2UvIeAWFGykGkXEyfx), [Emus DJ](https://open.spotify.com/artist/5M5yM2s8dqrvy4y0AJ10Z4) | [Que Calor \(Remix\)](https://open.spotify.com/album/2km2XEy8GpjOPhUOWKwYyq) | 2:54 | 2022-02-04 | 2022-07-15 |
 | [Que Ironia](https://open.spotify.com/track/1nxIcj8r0wjMUJ5uQAWENm) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Que Ironia](https://open.spotify.com/album/4U1fGuwPIF0jeebgA0I0Tq) | 2:34 | 2022-01-14 | 2022-07-28 |
@@ -343,6 +344,7 @@
 | [Un Finde \| CROSSOVER \#2](https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Un Finde \| CROSSOVER \#2](https://open.spotify.com/album/7cAfD0HludcAifXAbcIR80) | 2:42 | 2023-04-05 |  |
 | [Un Philly](https://open.spotify.com/track/5wgEBx5fRmtDUnEC9KWOXn) | [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Un Philly](https://open.spotify.com/album/3lXstvLqYMdSor2qP1da6m) | 2:17 | 2023-03-24 | 2023-04-04 |
 | [Un Verano Sin Ti](https://open.spotify.com/track/3DsXV8kdzLcHkpYo5PBrry) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Un Verano Sin Ti](https://open.spotify.com/album/2Fjfa3X3uAu6UlAj3cmcnn) | 3:09 | 2022-05-27 | 2022-07-16 |
+| [Un x100to](https://open.spotify.com/track/3bDCF4Wq05hXbUnEli8R66) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Un x100to](https://open.spotify.com/album/6Er3zESnv8HdXuabBR1BtK) | 2:59 | 2023-04-21 |  |
 | [Una Cerveza \- Versión 2018](https://open.spotify.com/track/2uViGylyj39rq8G0pqyX9y) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza \(Versión 2018\)](https://open.spotify.com/album/1dITUaScyif6DqZs7ESCxL) | 3:58 | 2021-12-23 | 2023-01-12 |
 | [Una Cumbia](https://open.spotify.com/track/5yQMJ4KDVaTlTQ7lVq14aO) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k) | [Una Cumbia](https://open.spotify.com/album/0x5gIzkxBkX890iLnH2oKM) | 2:03 | 2021-12-23 | 2023-01-20 |
 | [UNA CUMBITA](https://open.spotify.com/track/3GpnVe55oNyrjtrKy8ZMQJ) | [Qmbia Base](https://open.spotify.com/artist/32uFGCnRZ9pD5CXmlfaJcU) | [UNA CUMBITA](https://open.spotify.com/album/2xQpj4BrjTCrMmPgHYs4Az) | 2:15 | 2023-02-03 | 2023-03-04 |

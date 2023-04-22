@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-313 songs - 15 hr 21 min
+314 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Hope](https://open.spotify.com/track/5ROkVcgsHOtlzv1SKuAikA) | [Justin Martin](https://open.spotify.com/artist/4FN8WHqUbwkd97WEjoCu7B) | [Hope](https://open.spotify.com/album/2sPbknPYZhUd60dx4iansa) | 6:03 | 2021-10-29 | 2022-07-28 |
 | [Hot In Here](https://open.spotify.com/track/2Hzg6GI93wgnIiiU6ZrLhP) | [Steff da Campo](https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ) | [Hot In Here](https://open.spotify.com/album/2MrCpTiC2GIarhN5FrTGHV) | 2:31 | 2022-02-11 | 2022-08-06 |
 | [House Music Forever](https://open.spotify.com/track/4ip0qLoYmHJiDEj4f5MnOp) | [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g), [Jules Brand](https://open.spotify.com/artist/0GRc1U1eKmnVnUalj7HQDZ), [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [House Music Forever](https://open.spotify.com/album/0Muc3IDPrYJKiCkp9XpNC5) | 3:14 | 2022-04-01 | 2022-04-21 |
-| [How it is](https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [How it is](https://open.spotify.com/album/2DjP7cXRnwyry7ji5iVYcc) | 3:01 | 2022-06-10 |  |
+| [How it is](https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [How it is](https://open.spotify.com/album/2DjP7cXRnwyry7ji5iVYcc) | 3:01 | 2022-06-10 | 2023-04-22 |
 | [How Ya Like Me Now](https://open.spotify.com/track/0gwYFWhj6jgKDFdca5JezC) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK), [Ericka Guitron](https://open.spotify.com/artist/3mlE1ilnSHt92U8W3TQwqF) | [EMBRACE](https://open.spotify.com/album/3QnqZrz7k2KCutkHSzfV4M) | 2:40 | 2022-07-22 | 2022-08-30 |
 | [How Ya Like Me Now](https://open.spotify.com/track/3tMf4R0lz5CEOUfliQiitr) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK), [Ericka Guitron](https://open.spotify.com/artist/3mlE1ilnSHt92U8W3TQwqF) | [How Ya Like Me Now](https://open.spotify.com/album/10jY7uLOtgbUtCmDrY6LJA) | 2:40 | 2022-04-01 | 2022-07-29 |
 | [Hypno](https://open.spotify.com/track/1IEMI8XjtORqBnqc40SX8X) | [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1) | [Hypno](https://open.spotify.com/album/6aeAzL8ytjwJ0L4HGwZJP8) | 3:58 | 2021-10-29 |  |
@@ -267,6 +267,7 @@
 | [Sickness](https://open.spotify.com/track/0BwEzkVtELJI3suZINw6Yb) | [AdamDarling](https://open.spotify.com/artist/3ymgkFheVJc8RE98s1yMM6), [Ruta](https://open.spotify.com/artist/7mL413dtjZt1cIHhEkgm4D) | [Sickness](https://open.spotify.com/album/4VeM580tSutZmK3cLH7lZ8) | 2:36 | 2021-10-29 | 2022-07-29 |
 | [Silent](https://open.spotify.com/track/5MvvEKnfgMVLLBkzsgStpD) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Silent](https://open.spotify.com/album/2crRb5Zqd38VCkh4kiadvs) | 3:10 | 2022-08-05 |  |
 | [Sleepless](https://open.spotify.com/track/0AQ1twwDGVlIVpcHDkGkXD) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Sleepless](https://open.spotify.com/album/4YnRwV3h9R5SrDyp3PYUYH) | 3:05 | 2021-10-29 | 2022-11-12 |
+| [Smack That](https://open.spotify.com/track/2ttKP17aZtsb96c6sK1QDK) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [CJ.](https://open.spotify.com/artist/1EUvNOgSHmGTn7sAkKGopj) | [Smack That](https://open.spotify.com/album/6coZsT8OiaHO1a98kJkjVQ) | 2:40 | 2023-04-21 |  |
 | [So We Go \- Martin Jensen Edit](https://open.spotify.com/track/0cWDechbo7Tmf6nk0QRLhI) | [Katy Tiz](https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW), [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [So We Go \(Martin Jensen Edit\)](https://open.spotify.com/album/1Dh413qT2GcFUGdcRqJZB6) | 2:24 | 2021-10-29 | 2022-08-06 |
 | [Something](https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [Something](https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ) | 2:43 | 2022-07-29 |  |
 | [Something's about to go down](https://open.spotify.com/track/0MmCny6gGuYPM4wT1rqoz3) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Something's about to go down](https://open.spotify.com/album/5pBZxgiRxPdcaTCFnac9CK) | 3:35 | 2021-10-29 | 2022-12-17 |

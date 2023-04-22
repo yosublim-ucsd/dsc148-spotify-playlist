@@ -1,28 +1,32 @@
 {
   "description": "A bailar con la mejor cumbia sudamericana. ",
-  "num_followers": 755455,
+  "num_followers": 755812,
   "original_name": "Esto es Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTkxNDE4MCwwMDAwMDAwMDEwYjA5OGJjZTU3Yjc4ZGE0ZjcxN2Y0NjliYzUxZmRj",
+  "snapshot_id": "MTY4MTkxNDE4MCwwMDAwMDAwMDNkNGE0YWM5Y2U3YzE3YzUwNTY5ZDIxMjZlODk0NTEw",
   "tracks": [
     {
       "added_at": "2023-04-19 14:22:59",
       "album": {
-        "name": "Pobre Coraz\u00f3n (En vivo)",
-        "url": "https://open.spotify.com/album/76vyJ5BEey5rKrDglOfkpV"
+        "name": "Pobre Coraz\u00f3n (En Vivo)",
+        "url": "https://open.spotify.com/album/7kNdveFXAKstJ8iNMrwq4Z"
       },
       "artists": [
         {
-          "name": "Music Factory",
-          "url": "https://open.spotify.com/artist/7xj1YIDzHU6vkUwP76NEyx"
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "Onda Sabanera",
+          "url": "https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P"
         }
       ],
-      "duration_ms": 198468,
-      "name": "Pobre Coraz\u00f3n - En vivo",
-      "url": "https://open.spotify.com/track/6UsuNAY6rB2LMD4NPMK9lF"
+      "duration_ms": 198930,
+      "name": "Pobre Coraz\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/1AX4aybSRyXHWrjg27wTFE"
     },
     {
       "added_at": "2023-04-19 14:22:59",

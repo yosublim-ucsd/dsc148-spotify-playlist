@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Amalfi",
+        "url": "https://open.spotify.com/album/6FmCT0T8CChRDUXJMyhcjI"
+      },
+      "artists": [
+        {
+          "name": "Naupaka",
+          "url": "https://open.spotify.com/artist/5jKo4vIpQPd4YyTZKsBQuQ"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148954,
+      "name": "Amalfi",
+      "url": "https://open.spotify.com/track/2BfwEdLt4TWg97w6GBbyRs"
+    },
+    {
+      "album": {
         "name": "Amnesia",
         "url": "https://open.spotify.com/album/2AS5tH0TjoQdvnatV6gft2"
       },
@@ -614,7 +632,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 179590,
       "name": "Chlorine",
       "url": "https://open.spotify.com/track/1B8IrVSNTA8KgHG8MJQaH1"
@@ -650,7 +668,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 166500,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/5DUqkFJ8d8aoGrMpyuHkQ1"
@@ -1244,7 +1262,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 168813,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/4KohjkgXdXqYNHUOhcxJmF"
@@ -1370,7 +1388,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 203401,
       "name": "Flower Burst",
       "url": "https://open.spotify.com/track/7oxc43kWwv1v2Q7N5QQQyX"
@@ -2054,7 +2072,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 186782,
       "name": "Lush",
       "url": "https://open.spotify.com/track/6jYbK7o3pOMbNeMT3IuqQL"
@@ -2306,7 +2324,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 164323,
       "name": "Overseas",
       "url": "https://open.spotify.com/track/1BfcslI8bC66wOEYLqmA54"
@@ -2738,7 +2756,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 188400,
       "name": "Salt Water Taffy",
       "url": "https://open.spotify.com/track/7qja5koXB0YyXvP0lDLia6"
@@ -2810,7 +2828,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 148965,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/7cghQABsKucvYVeIqUzvNi"
@@ -3422,7 +3440,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 182504,
       "name": "Telemagenta",
       "url": "https://open.spotify.com/track/6dIZ5m5HodQA0dv43zFbaQ"

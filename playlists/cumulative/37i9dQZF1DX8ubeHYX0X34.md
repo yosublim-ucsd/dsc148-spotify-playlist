@@ -2,7 +2,7 @@
 
 ### [All Time Pakistani Hits](https://open.spotify.com/playlist/37i9dQZF1DX8ubeHYX0X34)
 
-> Timeless Pakistani hits, all in one place\. Cover \- Nusrat Fateh Ali Khan
+> Timeless Pakistani hits, all in one place\. Cover \- Jun
 
 204 songs - 16 hr 32 min
 

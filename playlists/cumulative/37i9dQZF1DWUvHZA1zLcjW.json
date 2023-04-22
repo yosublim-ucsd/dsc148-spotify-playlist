@@ -3233,6 +3233,40 @@
     },
     {
       "album": {
+        "name": "Spohr: Symphonie Concertante for Violin, Harp and Orchestra in G Major, WoO 13: II. Adagio",
+        "url": "https://open.spotify.com/album/3pffTo0gtXsI0zeyveM6lI"
+      },
+      "artists": [
+        {
+          "name": "Louis Spohr",
+          "url": "https://open.spotify.com/artist/7MzxeLpsMxTk4HDBG6C7rq"
+        },
+        {
+          "name": "Mar\u00eda Due\u00f1as",
+          "url": "https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE"
+        },
+        {
+          "name": "Volker Kempf",
+          "url": "https://open.spotify.com/artist/0QwGhAtiSBJvYjCKulXsSq"
+        },
+        {
+          "name": "Wiener Symphoniker",
+          "url": "https://open.spotify.com/artist/6XZxFuZaBnZBngpxbut80O"
+        },
+        {
+          "name": "Manfred Honeck",
+          "url": "https://open.spotify.com/artist/2P9hqdON5vDIRJOEj0Ls2X"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288573,
+      "name": "Spohr: Symphonie Concertante for Violin, Harp and Orchestra in G Major, WoO 13 - II. Adagio",
+      "url": "https://open.spotify.com/track/5rzISzqA5ZBY8u0hor0z0f"
+    },
+    {
+      "album": {
         "name": "Nightfall",
         "url": "https://open.spotify.com/album/0Mbkl6nlKMXhmVeoSCQntV"
       },

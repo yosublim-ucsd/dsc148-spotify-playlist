@@ -1607,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "Heaven On Earth",
+        "url": "https://open.spotify.com/album/2ZMy6y5uSEXUkYLpVYTHGA"
+      },
+      "artists": [
+        {
+          "name": "Alanna Brooks",
+          "url": "https://open.spotify.com/artist/1xTG3LpQV7sTX86GrPnDEH"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Encore Une Fois",
+      "url": "https://open.spotify.com/track/5aB3pTdKskrxVVfoOGl4bN"
+    },
+    {
+      "album": {
         "name": "Eons",
         "url": "https://open.spotify.com/album/1mrlHBWDGAFlIiZooWzedK"
       },
@@ -4070,6 +4088,24 @@
       "duration_ms": 194000,
       "name": "Rearview Mirror",
       "url": "https://open.spotify.com/track/2UXQhAcmJXiDShegqfyBa7"
+    },
+    {
+      "album": {
+        "name": "Red Night",
+        "url": "https://open.spotify.com/album/7oMHfYD5H0hWMy2q3kWzxY"
+      },
+      "artists": [
+        {
+          "name": "Torpor Snooze",
+          "url": "https://open.spotify.com/artist/5KKzkIqyec5NR4h5vxE0Wx"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205355,
+      "name": "Red Night",
+      "url": "https://open.spotify.com/track/0lXSZCwqt14UPBeNxA45Ou"
     },
     {
       "album": {

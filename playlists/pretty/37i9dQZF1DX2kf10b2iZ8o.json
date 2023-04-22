@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Idle Master SideM\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fcSideM\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n",
-  "num_followers": 20112,
+  "num_followers": 20127,
   "original_name": "THE IDOLM@STER SideM \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc SideM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTIzOTg3NCwwMDAwMDAwMGI4ZDFlNmQyNDQ4MGEyNGRmNGJkYTYyNTBjY2QwYjM1",
+  "snapshot_id": "MTY4MTIzOTg3NCwwMDAwMDAwMDM1OGRhYzNjMjIwODU1OTNjY2Q0NzZlOGE4ZGY2NjQx",
   "tracks": [
     {
       "added_at": "2023-04-11 19:04:34",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-04-11 19:04:34",
       "album": {
+        "name": "THE IDOLM@STER SideM ST@RTING LINE-09 \u795e\u901f\u4e00\u9b42",
+        "url": "https://open.spotify.com/album/0V7ZKaIhX9xTlWvhiOJ5qk"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u901f\u4e00\u9b42",
+          "url": "https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd"
+        }
+      ],
+      "duration_ms": 267346,
+      "name": "\u30d0\u30fc\u30cb\u30f3\u30fb\u30af\u30fc\u30eb\u3067\u8f1d\u3044\u3066",
+      "url": "https://open.spotify.com/track/2dwYu8lDOXLrCwH2fyhrjW"
+    },
+    {
+      "added_at": "2023-04-11 19:04:34",
+      "album": {
         "name": "ALL nOR NOTHING",
         "url": "https://open.spotify.com/album/7LnoJObwR1wnOPSNRCmtzt"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 255506,
       "name": "ALL nOR NOTHING",
       "url": "https://open.spotify.com/track/6yZiC2A5dpF8ArLqG73PCx"
-    },
-    {
-      "added_at": "2023-04-11 19:04:34",
-      "album": {
-        "name": "THE IDOLM@STER SideM ST@RTING LINE-09 \u795e\u901f\u4e00\u9b42",
-        "url": "https://open.spotify.com/album/0V7ZKaIhX9xTlWvhiOJ5qk"
-      },
-      "artists": [
-        {
-          "name": "\u795e\u901f\u4e00\u9b42",
-          "url": "https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd"
-        }
-      ],
-      "duration_ms": 267346,
-      "name": "\u30d0\u30fc\u30cb\u30f3\u30fb\u30af\u30fc\u30eb\u3067\u8f1d\u3044\u3066",
-      "url": "https://open.spotify.com/track/2dwYu8lDOXLrCwH2fyhrjW"
     },
     {
       "added_at": "2023-04-11 19:04:34",
@@ -1263,6 +1263,30 @@
     {
       "added_at": "2023-04-11 19:04:34",
       "album": {
+        "name": "THE IDOLM@STER SideM WORLD TRE@SURE 09",
+        "url": "https://open.spotify.com/album/2ISzgwWVgaMlpRy0pymmCw"
+      },
+      "artists": [
+        {
+          "name": "Yukihiro Kamiya (CV: Sho Karino)",
+          "url": "https://open.spotify.com/artist/3BIkEVhgtjHtXs1wwTtdT1"
+        },
+        {
+          "name": "Jiro Yamashita (CV: Yoshiki Nakajima)",
+          "url": "https://open.spotify.com/artist/4zUbhdm1GyDSGMXy1K8ft5"
+        },
+        {
+          "name": "Chris Koron (CV: Wataru Komada)",
+          "url": "https://open.spotify.com/artist/5525KflQhcAxPFnx2i2fpA"
+        }
+      ],
+      "duration_ms": 258453,
+      "name": "\u7720\u3089\u306c\u591c\u306b\u30b9\u30d1\u30b7\u30fc\u30d0!",
+      "url": "https://open.spotify.com/track/4SJ8Erz6FFM0GsOKt5j0KO"
+    },
+    {
+      "added_at": "2023-04-11 19:04:34",
+      "album": {
         "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 03",
         "url": "https://open.spotify.com/album/7JXzidlHOceKVsvd26HaZl"
       },
@@ -1299,30 +1323,6 @@
       "duration_ms": 210533,
       "name": "Friendly Smile",
       "url": "https://open.spotify.com/track/73zfDxSYTxNA6OURYsjnkU"
-    },
-    {
-      "added_at": "2023-04-11 19:04:34",
-      "album": {
-        "name": "THE IDOLM@STER SideM WORLD TRE@SURE 09",
-        "url": "https://open.spotify.com/album/2ISzgwWVgaMlpRy0pymmCw"
-      },
-      "artists": [
-        {
-          "name": "Yukihiro Kamiya (CV: Sho Karino)",
-          "url": "https://open.spotify.com/artist/3BIkEVhgtjHtXs1wwTtdT1"
-        },
-        {
-          "name": "Jiro Yamashita (CV: Yoshiki Nakajima)",
-          "url": "https://open.spotify.com/artist/4zUbhdm1GyDSGMXy1K8ft5"
-        },
-        {
-          "name": "Chris Koron (CV: Wataru Komada)",
-          "url": "https://open.spotify.com/artist/5525KflQhcAxPFnx2i2fpA"
-        }
-      ],
-      "duration_ms": 258453,
-      "name": "\u7720\u3089\u306c\u591c\u306b\u30b9\u30d1\u30b7\u30fc\u30d0!",
-      "url": "https://open.spotify.com/track/4SJ8Erz6FFM0GsOKt5j0KO"
     }
   ],
   "unique_name": "THE IDOLM@STER SideM \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc SideM",

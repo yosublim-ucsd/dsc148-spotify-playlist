@@ -1639,6 +1639,24 @@
     },
     {
       "album": {
+        "name": "Come On Spring",
+        "url": "https://open.spotify.com/album/4tAAri02KnY6zQ7Rtm99fG"
+      },
+      "artists": [
+        {
+          "name": "Luluc",
+          "url": "https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215413,
+      "name": "Come On Spring",
+      "url": "https://open.spotify.com/track/6ocxm5zrBHtj6PQV7JYiLd"
+    },
+    {
+      "album": {
         "name": "Consolation Prize",
         "url": "https://open.spotify.com/album/5KyVj6FfbV3lwwMIXyQeZ1"
       },

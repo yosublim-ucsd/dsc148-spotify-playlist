@@ -1239,6 +1239,28 @@
     },
     {
       "album": {
+        "name": "In the Streets of London: A 17th Century Musical Pub Tour",
+        "url": "https://open.spotify.com/album/6oHYqLToZU2c7gCrzeaYlc"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "PRISMA",
+          "url": "https://open.spotify.com/artist/1kT9uIlaSJT4OwxMXsXx4I"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105842,
+      "name": "The Dancing Master: Drive the Cold Winter Away",
+      "url": "https://open.spotify.com/track/1U29vvxf87m0zcz6GN78dm"
+    },
+    {
+      "album": {
         "name": "Playford, J.: Tunes and Their Ballads (A Trip To Killburn)",
         "url": "https://open.spotify.com/album/5prNj2q6WKKuCVdYM23RoU"
       },

@@ -7438,7 +7438,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-18",
+      "date_removed": null,
       "duration_ms": 196520,
       "name": "Engelbewaarder",
       "url": "https://open.spotify.com/track/2C2vSufLm1wLq2GjDH3iMh"
@@ -12413,6 +12413,32 @@
     },
     {
       "album": {
+        "name": "J\u00e1 Ouviu Aquele Ditado",
+        "url": "https://open.spotify.com/album/0Vplc3s8GLCHdJHlBbo9Ru"
+      },
+      "artists": [
+        {
+          "name": "MC Fefe Da ZL",
+          "url": "https://open.spotify.com/artist/1SMznDhRBFnnUWJvFWXJgQ"
+        },
+        {
+          "name": "MC MN",
+          "url": "https://open.spotify.com/artist/4hV3aU0WKvFaiX5ugXP5hp"
+        },
+        {
+          "name": "DJ NOVATO",
+          "url": "https://open.spotify.com/artist/3Hdc7swmjddSFP8ZQavm43"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119182,
+      "name": "J\u00e1 Ouviu Aquele Ditado",
+      "url": "https://open.spotify.com/track/2vJCtLLG01jUOtM5p6CTtY"
+    },
+    {
+      "album": {
         "name": "Kaadhal En Kaviye (From \"Salmon 3D\")",
         "url": "https://open.spotify.com/album/2Ys8XveN5alui1GxnO9JDK"
       },
@@ -15740,7 +15766,7 @@
       ],
       "date_added": "2023-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 203048,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/24MMjyA3NLqCsDJfsn51eg"
@@ -16440,7 +16466,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 187723,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
@@ -17804,7 +17830,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 313051,
       "name": "O Bedardeya (From \"Tu Jhoothi Main Makkaar\")",
       "url": "https://open.spotify.com/track/0czcoKJbJt08NqKrvSbbz7"
@@ -22214,7 +22240,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 89721,
       "name": "Sky Like Dreams (SU)",
       "url": "https://open.spotify.com/track/6N21iOdTYgYjDK1AyS0iUW"
@@ -22286,7 +22312,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 123672,
       "name": "SLUT ME OUT",
       "url": "https://open.spotify.com/track/0WoVfPjxsf9MTvPt9ptqeE"
@@ -25740,6 +25766,24 @@
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
+    },
+    {
+      "album": {
+        "name": "GABRIEL",
+        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150519,
+      "name": "UNDERSTAND",
+      "url": "https://open.spotify.com/track/72sfmdpuO5r8cBDgs7MqZZ"
     },
     {
       "album": {

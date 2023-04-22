@@ -4,7 +4,7 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-276 songs - 14 hr 7 min
+277 songs - 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [30 Hz Gamma](https://open.spotify.com/track/0giLh5A1qhQHLP68sH96Ub) | [Alfachronic](https://open.spotify.com/artist/1YsMt21BxoyDQp7q893f4Z) | [Brainwave State Gamma](https://open.spotify.com/album/2Fk46GyPBKRr1A06lng7sT) | 3:22 | 2019-05-26\* | 2020-12-15 |
 | [432hz Gamma Waves](https://open.spotify.com/track/6PZ30RDmMNcgNwTrQEO86m) | [Deepnoum](https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi) | [432hz Gama Waves](https://open.spotify.com/album/5hXNqqanZ7b8fXcOhzznRA) | 3:25 | 2021-04-10 | 2021-09-02 |
 | [50 Hz Gamma](https://open.spotify.com/track/1MIz2SmiVMvdQ62N8su8H0) | [Alfachronic](https://open.spotify.com/artist/1YsMt21BxoyDQp7q893f4Z) | [Brainwave State Gamma](https://open.spotify.com/album/2Fk46GyPBKRr1A06lng7sT) | 3:10 | 2019-05-26\* | 2022-08-23 |
-| [70 Hz Gamma Sinus](https://open.spotify.com/track/0DRZNMwqpiXegLBa4cwFCU) | [Tiefe Gedanken](https://open.spotify.com/artist/0E19BksYk8uPcmtPKlggrQ) | [70 Hz Gamma Sinus](https://open.spotify.com/album/1vlPJnudPeJubmgZq7b7Vn) | 1:54 | 2021-02-03 |  |
+| [70 Hz Gamma Sinus](https://open.spotify.com/track/0DRZNMwqpiXegLBa4cwFCU) | [Tiefe Gedanken](https://open.spotify.com/artist/0E19BksYk8uPcmtPKlggrQ) | [70 Hz Gamma Sinus](https://open.spotify.com/album/1vlPJnudPeJubmgZq7b7Vn) | 1:54 | 2021-02-03 | 2023-04-22 |
 | [80 Hz Gamma Waves \- Binaural Beats](https://open.spotify.com/track/6Nnz45KtRko0iE00zLKSf3) | [Miracle Tones](https://open.spotify.com/artist/4rXABp4A7KjG9elWFNAbO4), [Binaural Beats MT](https://open.spotify.com/artist/6JQBjYzGitZexdaxngUCH7) | [Binaural Beats \- Peak Awareness \(Gamma Waves\)](https://open.spotify.com/album/1QsPrWeubge8WfX20IFDql) | 2:03 | 2022-01-27 |  |
 | [Aarshedh](https://open.spotify.com/track/5Y6o3Nq4bKwMovfImGrgpP) | [Alm Bark](https://open.spotify.com/artist/5nWf0HFYDtFvizyAsKJZNG) | [Peaceful Binaural](https://open.spotify.com/album/5M1CSEAJN5d8N9RxinRRPo) | 3:53 | 2019-05-26\* | 2021-01-12 |
 | [Abeseed](https://open.spotify.com/track/1kaogg2CPZHgT4yafdj205) | [Higher Highs](https://open.spotify.com/artist/4b6guplHYPbkerTOAplBK8) | [Binaural Beats for Relaxation](https://open.spotify.com/album/3qxbSBbBsBWpCn7LO5I6TZ) | 3:36 | 2019-05-26\* | 2021-05-06 |
@@ -72,6 +72,7 @@
 | [Beta Waves](https://open.spotify.com/track/5H3uEH7H46rHDfCmwmKgmR) | [SOWE](https://open.spotify.com/artist/4gsiHX6ewD0G96o4sO5wOF) | [Binaural Sleep Beats](https://open.spotify.com/album/7lHKcPjSRQsXDfWKzOrXOp) | 3:25 | 2021-01-19 | 2022-03-19 |
 | [Beta Waves 110Hz \- 130Hz](https://open.spotify.com/track/1I4eSbuHixX9quSXmnPbxg) | [Calming Beats](https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L) | [α&β](https://open.spotify.com/album/6Ct2kqxlRdvp1uwuTVBBt5) | 2:40 | 2020-09-29 |  |
 | [Beta Waves 136Hz \- 150Hz](https://open.spotify.com/track/7lrpJMBhSskfIGnysg7Svk) | [Calming Beats](https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L) | [α&β](https://open.spotify.com/album/6Ct2kqxlRdvp1uwuTVBBt5) | 2:47 | 2020-09-29 | 2020-12-15 |
+| [Binaural 31HZ Gamma \- 25HZ \- 56HZ](https://open.spotify.com/track/7AY8pSix9jKlb0BMAszqeN) | [Healing Sines Binaural](https://open.spotify.com/artist/229WxeHEbUDbjdneDnA9ms) | [Focus & Meditation](https://open.spotify.com/album/6qSqfcKYBlQ7TWPNZiXODJ) | 2:42 | 2023-04-21 |  |
 | [Binaural Algorithms Beta 15Hz](https://open.spotify.com/track/753yBTnJhDhE8zDOtNRQN8) | [Big Ordo](https://open.spotify.com/artist/73c5wyovvb1Zs1WxYUd2ql) | [Binaural Algorithms](https://open.spotify.com/album/4NrYgDTodsxChEuHeXCZR1) | 2:19 | 2021-09-02 |  |
 | [Binaural Alpha : Ganesha](https://open.spotify.com/track/1fndXvZoBcl79HeMR5MZ6Q) | [Ellie Yogi](https://open.spotify.com/artist/0GyG8Z6xnh9KnQtt3ElFFU) | [Binaural Alpha : Ganesha](https://open.spotify.com/album/4S550TOMwqIBQLINIIAO3a) | 2:00 | 2021-02-03 | 2021-06-04 |
 | [Binaural Alpha Sinus 100 Hz \- 108 Hz](https://open.spotify.com/track/3fSztmiujVaZuQ3f4VRZXv) | [Colateral Commons](https://open.spotify.com/artist/36BVUrJXBiHHzwASLjuscd) | [Binaural Beta Sinus 90 Hz \- 120 Hz](https://open.spotify.com/album/0KDsKvnxE8aQJoxqiRWg2E) | 2:04 | 2021-06-18 |  |

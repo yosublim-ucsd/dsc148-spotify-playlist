@@ -2,9 +2,9 @@
 
 ### [SA Rock ](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/5Yktx2wffJlILfJSpoISRR?si=\-uklwWiaQ2GaNJ\-TJp\-SyQ">SAKKIE</a> & <a href="https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF?si=DouTRLXgTSGA1YhBwm4zhA">Francois van Coke</a>
+> The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce?si=dHdeyPu5R\_iPqhI61YYh1A">The Tazers</a>
 
-241 songs - 14 hr 25 min
+243 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Cocoon](https://open.spotify.com/track/5DyMpoB5hqmjkwPBnTPxFw) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Cocoon](https://open.spotify.com/album/2PB4vdIz8aRwh3hhucvLCE) | 5:04 | 2022-01-21 | 2022-11-13 |
 | [Come Back to Me](https://open.spotify.com/track/6IaBSKJbUHfH3MgRmLIr5p) | [Jon Delinger](https://open.spotify.com/artist/6N08SlULviNvUJhmDgevsF) | [Remember the Hits Vol\. 2](https://open.spotify.com/album/25y45kTKUv2gmtQnUqzymB) | 4:09 | 2023-01-26 | 2023-04-21 |
 | [Coming in Hot](https://open.spotify.com/track/0C5VbQrV3LDqPue7LNRhTo) | [The Incidentals](https://open.spotify.com/artist/5eTPQQeM4ggfNxQ9m4dDfS) | [Coming in Hot](https://open.spotify.com/album/6NRTD0I4d75b9byRFw67Sd) | 3:50 | 2022-11-17 | 2023-03-03 |
+| [CONCIOUS IS A FOX](https://open.spotify.com/track/0h2uflPrk8v5cGFToZsPac) | [CLUB VALLEY](https://open.spotify.com/artist/0QA1gqKpLcVh4poXeglSHn) | [INFINITE PROPORTIONS EP](https://open.spotify.com/album/5ddIYNdWTFkM1hN2LsU8lt) | 3:41 | 2023-04-20 |  |
 | [Count the Days \(Count the Nights\)](https://open.spotify.com/track/60knTkjc5HZHkPVQjq3JMO) | [Zayn Adams](https://open.spotify.com/artist/3CJMRrR9xQ11XG7RFUWOfd), [Tully Mc Cully](https://open.spotify.com/artist/3zfnLnN1wMxn2av8BygIQJ) | [Count the Days \(2021\)](https://open.spotify.com/album/1IHFQbyWTiJ3krUJRUCdyq) | 3:19 | 2021-10-14 | 2022-02-18 |
 | [Country in Me](https://open.spotify.com/track/5s0aFRBOpQzWBivW8EHiZK) | [Jono Grayson](https://open.spotify.com/artist/2A91hKSHbGC0awW297Plqi) | [Country in Me](https://open.spotify.com/album/14TyyqNVDqZ7i1X60CNE0J) | 2:30 | 2022-02-03 | 2022-09-03 |
 | [Crazy Meisie](https://open.spotify.com/track/34oEkwMsB3u6JnyI8JlZm3) | [Zoé](https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65) | [Crazy Meisie](https://open.spotify.com/album/4ArWlcEJMCqRt5CIWNX8hU) | 3:00 | 2023-04-14 |  |
@@ -117,7 +118,7 @@
 | [IN TIME](https://open.spotify.com/track/6y7Y65Klj3xweqD4aGMJeC) | [FAXXON](https://open.spotify.com/artist/09g0uGvlDQ3TmMnZgjl4rf) | [IN TIME](https://open.spotify.com/album/4ARwLOhAqcNho5PfqJt9wl) | 2:43 | 2023-02-02 |  |
 | [Invisible Visitor](https://open.spotify.com/track/4NjEqKPBOXbKI88kdDPA9s) | [Far from Who We Are](https://open.spotify.com/artist/5942rdEHlZewFlsd3ThJvO) | [Invisible Visitor](https://open.spotify.com/album/5rMsebBa22S17tSHVcgUGP) | 3:51 | 2021-11-11 | 2022-03-25 |
 | [It's Hard](https://open.spotify.com/track/3EngfC1jCb8CtLQK1eWiWj) | [No Handshake](https://open.spotify.com/artist/4RPJk5WdHHuekc4UbGRErk) | [It's Hard](https://open.spotify.com/album/1v8tCzFlpw6f2VRAj6xgVM) | 3:06 | 2021-09-02 | 2022-04-01 |
-| [Jou Skoene](https://open.spotify.com/track/7FHRJmJRWB3qjUsn4B65HM) | [Arnold Bailie](https://open.spotify.com/artist/7xttIqt236FLfWKVsIDMxp) | [Jou Skoene](https://open.spotify.com/album/3uduux6dMKTobDSo6e6DAG) | 3:36 | 2023-02-09 |  |
+| [Jou Skoene](https://open.spotify.com/track/7FHRJmJRWB3qjUsn4B65HM) | [Arnold Bailie](https://open.spotify.com/artist/7xttIqt236FLfWKVsIDMxp) | [Jou Skoene](https://open.spotify.com/album/3uduux6dMKTobDSo6e6DAG) | 3:36 | 2023-02-09 | 2023-04-22 |
 | [Kerse](https://open.spotify.com/track/5Rf8HoMPgj9IWFwaLnjFPf) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Droombrief](https://open.spotify.com/album/0hLWiLGIlllFAfF4vKpmgf) | 4:04 | 2022-03-24 | 2022-05-27 |
 | [kill all my feelings](https://open.spotify.com/track/0dlCaafsMEfprlXtoogDgm) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [kill all my feelings](https://open.spotify.com/album/1onwNNRB0cQ5gBRFknbYPp) | 3:02 | 2022-07-21 | 2023-02-17 |
 | [Kingdom Come](https://open.spotify.com/track/7ufTokV0aHYnSaZ83hfUu0) | [Unbroken Bond](https://open.spotify.com/artist/0vUzzSiZilRpnwSIHutohR), [dark animals](https://open.spotify.com/artist/5s3SvRUomfU0HIezDlDBrq) | [Kingdom Come](https://open.spotify.com/album/0pyfoV80CgnfVIB2sHbwKg) | 3:15 | 2022-01-06 | 2022-07-22 |
@@ -182,6 +183,7 @@
 | [Road Rage](https://open.spotify.com/track/3mMMCNWktpvnC25u96tZt0) | [Hawema](https://open.spotify.com/artist/6CWA38UpeY34SNOKY29peK) | [Road Rage](https://open.spotify.com/album/70cYROF5kbijI6nMeppkmd) | 3:00 | 2023-03-23 | 2023-04-15 |
 | [Save Me](https://open.spotify.com/track/0WkLcfV73UlxOlM8roFFK6) | [Chenél No.1](https://open.spotify.com/artist/1Xbi5EWO3vlC8JlH65uC4V) | [Save Me](https://open.spotify.com/album/5tLjTbclIzPE4t7QFqfEue) | 2:48 | 2022-09-15 | 2022-11-18 |
 | [Scarred](https://open.spotify.com/track/3C1piIulJ3OSeGZLqa8i8M) | [Far from Who We Are](https://open.spotify.com/artist/5942rdEHlZewFlsd3ThJvO) | [Far From Who We Are](https://open.spotify.com/album/03CcQkzVwJtlfN0k33fjpg) | 3:15 | 2022-12-01 | 2023-03-10 |
+| [Self Control](https://open.spotify.com/track/2k9SemDo0Hgm1UDtnJP3ki) | [The Tazers](https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce) | [Self Control](https://open.spotify.com/album/77drPpxu2UC2Ok70avy0RL) | 2:31 | 2023-04-21 |  |
 | [Selfish Lover](https://open.spotify.com/track/1Tbgb7vB07zvuKuZKXI0aU) | [Dan Patlansky](https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5) | [Shelter Of Bones](https://open.spotify.com/album/67yaompS5Qlr7T4OZxiyJr) | 3:14 | 2022-02-25 | 2022-03-19 |
 | [Shallow Waters \(25 Year Anniversary\)](https://open.spotify.com/track/7vdiUC7BzKmBqsSEJsbnbr) | [ARD matthews](https://open.spotify.com/artist/5LeZoIsr3HTDipdWQbiAfo), [Just Jinjer](https://open.spotify.com/artist/4ywF40MvBzMeS8jijufoao), [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE), [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC), [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd), [Ross Learmonth](https://open.spotify.com/artist/5ONIVFtUBDrUz28G8ltCHN) | [Shallow Waters \(25 Year Anniversary\)](https://open.spotify.com/album/1dqY6TUiXJMyMOsQ657mw4) | 4:38 | 2022-11-21 |  |
 | [She's Got Soul](https://open.spotify.com/track/4NAUucEzZCxoZqSlX5mrXg) | [Painted Flowers](https://open.spotify.com/artist/0bhFPHum4CYqnxyIGHb7sX) | [She's got Soul](https://open.spotify.com/album/6ensgFJIR7fQOtYDnKzUAq) | 3:09 | 2021-05-05 | 2022-11-18 |

@@ -345,6 +345,32 @@
     },
     {
       "album": {
+        "name": "Bandolera",
+        "url": "https://open.spotify.com/album/3weU1MeL7x9TRfWrPSIyFN"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Bandolera",
+      "url": "https://open.spotify.com/track/1IMS40acXF1BpJ7LRoHhQY"
+    },
+    {
+      "album": {
         "name": "Vente Cari\u00f1a",
         "url": "https://open.spotify.com/album/3n4el3WQZsBA9mlzIdwWp3"
       },
@@ -862,7 +888,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 190931,
       "name": "Cumbiatronik",
       "url": "https://open.spotify.com/track/18Ms0QJv4moFhSUJG22Qpk"
@@ -1116,7 +1142,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 173738,
       "name": "Discotequera",
       "url": "https://open.spotify.com/track/5nUbVeL78iikt7qEnNSij5"
@@ -1838,7 +1864,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 132000,
       "name": "LLEGUE YO",
       "url": "https://open.spotify.com/track/1ut3biqgrdjZXWEVhcvag3"
@@ -2209,6 +2235,28 @@
     },
     {
       "album": {
+        "name": "OG CITY",
+        "url": "https://open.spotify.com/album/2tio4413w3hOjYmb6MlDVz"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241341,
+      "name": "No Traje Naki",
+      "url": "https://open.spotify.com/track/6wZVFscvWZbJaTl4Ju5MOF"
+    },
+    {
+      "album": {
         "name": "BUENOS AIRES MOTEL",
         "url": "https://open.spotify.com/album/5X33B3ES7gsqUTH47mmapY"
       },
@@ -2308,7 +2356,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 117036,
       "name": "Pa' Ti Ya",
       "url": "https://open.spotify.com/track/6OoH0B2xXgNIshGTCQajMH"
@@ -2570,7 +2618,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 136162,
       "name": "Perreo Chakalon",
       "url": "https://open.spotify.com/track/3Mwty5hFEbRARdiMsS6Kyr"
@@ -2651,6 +2699,32 @@
     },
     {
       "album": {
+        "name": "Perro",
+        "url": "https://open.spotify.com/album/2MyAcxF2NMKaz6YEpgZ5oB"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Sir Speedy",
+          "url": "https://open.spotify.com/artist/3gkGhLkCTEmfGy095Wum3s"
+        },
+        {
+          "name": "Nando Produce",
+          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288666,
+      "name": "Perro",
+      "url": "https://open.spotify.com/track/1nCaAzzJF2ah2AnBwD1qIx"
+    },
+    {
+      "album": {
         "name": "Pi\u00f1a",
         "url": "https://open.spotify.com/album/4nnrsS1lnc03iEf67Lwi30"
       },
@@ -2666,10 +2740,36 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 174641,
       "name": "Pi\u00f1a",
       "url": "https://open.spotify.com/track/4tYnor4oKHQ4q9NSFoUUB8"
+    },
+    {
+      "album": {
+        "name": "Ponte Puti",
+        "url": "https://open.spotify.com/album/1QQv0eRIX26yJKH6AijxOT"
+      },
+      "artists": [
+        {
+          "name": "DimeloooLexx",
+          "url": "https://open.spotify.com/artist/0pQdk4uZKj9CljcSt9jCSO"
+        },
+        {
+          "name": "BlxckG",
+          "url": "https://open.spotify.com/artist/7hiOLZTrHRYauWm0uKB3p2"
+        },
+        {
+          "name": "Jirov Fresco",
+          "url": "https://open.spotify.com/artist/2Ii0iI5kjpofJoiiaG4p1l"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186122,
+      "name": "Ponte Puti",
+      "url": "https://open.spotify.com/track/6mNKWF3vmMDmYu0dWyqNT9"
     },
     {
       "album": {
@@ -2806,7 +2906,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 134400,
       "name": "PUSSY",
       "url": "https://open.spotify.com/track/4iMIvJp1UPVWbAh9nwMM85"
@@ -2923,6 +3023,28 @@
     },
     {
       "album": {
+        "name": "REBOTA",
+        "url": "https://open.spotify.com/album/4FGAnci4lOvthTNL7KUSLV"
+      },
+      "artists": [
+        {
+          "name": "Six Sex",
+          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
+        },
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149801,
+      "name": "REBOTA",
+      "url": "https://open.spotify.com/track/1YFVWYOb38ypAtMmS2eWBD"
+    },
+    {
+      "album": {
         "name": "Rkt",
         "url": "https://open.spotify.com/album/3kGB4NVBhJH02h2OhW67EF"
       },
@@ -2946,6 +3068,32 @@
       "duration_ms": 186250,
       "name": "Rkt",
       "url": "https://open.spotify.com/track/6kunqLryu0TFabC9x798tW"
+    },
+    {
+      "album": {
+        "name": "Romance y Bellakera",
+        "url": "https://open.spotify.com/album/2HuZtjQmKRHNQy0hd5u8p2"
+      },
+      "artists": [
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257001,
+      "name": "Romance y Bellakera",
+      "url": "https://open.spotify.com/track/1K5liUyu6GsrP07E3ukGHO"
     },
     {
       "album": {
@@ -3652,7 +3800,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 164210,
       "name": "Vota X Mi",
       "url": "https://open.spotify.com/track/7wJCRaV0z6Ca9b4YjP04wf"

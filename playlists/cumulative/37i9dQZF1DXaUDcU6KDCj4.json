@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Feist",
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Fenne Lily",
   "name": "Fresh Folk",
   "tracks": [
     {
@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/1HChLgiPkaSXebc8wQROKf"
+      },
+      "artists": [
+        {
+          "name": "Elliot Greer",
+          "url": "https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275721,
+      "name": "33",
+      "url": "https://open.spotify.com/track/0vELLfbzOzdDCjDg3GXYoJ"
+    },
+    {
+      "album": {
         "name": "5am Paradise",
         "url": "https://open.spotify.com/album/68bhX8AcCObSmY57ogdl4J"
       },
@@ -150,6 +168,24 @@
       "duration_ms": 230800,
       "name": "5am Paradise",
       "url": "https://open.spotify.com/track/1gSYnu6JvWI4flHj3YZPyJ"
+    },
+    {
+      "album": {
+        "name": "68",
+        "url": "https://open.spotify.com/album/7B9cPzzx0ZuOcGveznlL53"
+      },
+      "artists": [
+        {
+          "name": "Nolan Taylor",
+          "url": "https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207820,
+      "name": "68",
+      "url": "https://open.spotify.com/track/6LtSvOXW9K6oo4lmJZmMji"
     },
     {
       "album": {
@@ -493,6 +529,24 @@
     },
     {
       "album": {
+        "name": "Palomar Parade - Deluxe Edition",
+        "url": "https://open.spotify.com/album/3XOVC2buUvV8q7tx0IkOOT"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185624,
+      "name": "Ain\u2019t So Easy",
+      "url": "https://open.spotify.com/track/0ze5rRNTcENtHHRYImTfY7"
+    },
+    {
+      "album": {
         "name": "Garden Songs",
         "url": "https://open.spotify.com/album/7yya0BblPFE3A506te4rxO"
       },
@@ -544,6 +598,24 @@
       "duration_ms": 182601,
       "name": "Alabama Haint",
       "url": "https://open.spotify.com/track/3NVGIampibL0YVG3wwaX8G"
+    },
+    {
+      "album": {
+        "name": "Alco",
+        "url": "https://open.spotify.com/album/1kty4m9JKEsD5NZaacdL16"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228690,
+      "name": "Alco",
+      "url": "https://open.spotify.com/track/0NTgQB7fb7ovrhx5pfm9Po"
     },
     {
       "album": {
@@ -1642,7 +1714,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 263253,
       "name": "Believer",
       "url": "https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS"
@@ -2976,7 +3048,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 189722,
       "name": "Changes",
       "url": "https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn"
@@ -4428,6 +4500,24 @@
       "duration_ms": 193374,
       "name": "Dream",
       "url": "https://open.spotify.com/track/5J8aJjjiY3VCsnIwSNRtFS"
+    },
+    {
+      "album": {
+        "name": "Infinite Spring",
+        "url": "https://open.spotify.com/album/4SzsXZYL0FRUgwLYmqTUbC"
+      },
+      "artists": [
+        {
+          "name": "Superviolet",
+          "url": "https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Dream Dating",
+      "url": "https://open.spotify.com/track/0ikubwVXWkOeYH3HFhXMfK"
     },
     {
       "album": {
@@ -7426,7 +7516,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 253625,
       "name": "Homemaker",
       "url": "https://open.spotify.com/track/7gkcXaqplvft0Gk0FbUteE"
@@ -8060,7 +8150,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 296840,
       "name": "I Feel It",
       "url": "https://open.spotify.com/track/0E6m9inoxFDDpZ1BwjVups"
@@ -8260,6 +8350,24 @@
       "duration_ms": 319022,
       "name": "I Love Blue",
       "url": "https://open.spotify.com/track/4usBB6Z0KDsrG1kxJptUHD"
+    },
+    {
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/7dg4duv5N9lY7Ozu5RgfTF"
+      },
+      "artists": [
+        {
+          "name": "Savannah Conley",
+          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217820,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/5oadAvQl9a6DIcCNhHSbZ5"
     },
     {
       "album": {
@@ -10054,7 +10162,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 380480,
       "name": "LIFE ON EARTH - with Preservation Hall Jazz Band",
       "url": "https://open.spotify.com/track/7h9AzoDlI59MOEsg7a3GBZ"
@@ -10270,7 +10378,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 130399,
       "name": "Little Bull Of Blithe",
       "url": "https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI"
@@ -11412,6 +11520,24 @@
       "duration_ms": 29048,
       "name": "mud",
       "url": "https://open.spotify.com/track/0OMwFyor1IPZonwGIoor3H"
+    },
+    {
+      "album": {
+        "name": "Music Box",
+        "url": "https://open.spotify.com/album/3l3xNSj9nQGYJ4ZPXBWVmf"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265772,
+      "name": "Music Box",
+      "url": "https://open.spotify.com/track/2h89x1ycsTH904Poc5COS4"
     },
     {
       "album": {
@@ -12684,6 +12810,24 @@
       "duration_ms": 267913,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/1kxEBN9Mb1kgBLaAsWeGyj"
+    },
+    {
+      "album": {
+        "name": "Paint Me",
+        "url": "https://open.spotify.com/album/7oWChAVBRmb9dbLfIqGG62"
+      },
+      "artists": [
+        {
+          "name": "Juniper",
+          "url": "https://open.spotify.com/artist/2vUurb7JcES3VO0gkx1yGW"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225666,
+      "name": "Paint Me",
+      "url": "https://open.spotify.com/track/4ENQSmhYsS5kp4n1Ymi0Ah"
     },
     {
       "album": {
@@ -14283,6 +14427,24 @@
     },
     {
       "album": {
+        "name": "Rocket Ship",
+        "url": "https://open.spotify.com/album/7av0cujFS6fXO1oQxUpm7m"
+      },
+      "artists": [
+        {
+          "name": "Nep",
+          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89189,
+      "name": "Rocket Ship",
+      "url": "https://open.spotify.com/track/7ul0qSFpZHXS8XncqBNIwS"
+    },
+    {
+      "album": {
         "name": "Roger",
         "url": "https://open.spotify.com/album/2plWivfGWVm4a0xLT6ONWY"
       },
@@ -14724,6 +14886,28 @@
       "duration_ms": 255880,
       "name": "Scale These Walls",
       "url": "https://open.spotify.com/track/1ridCDbHMNAoZUjWCyqY9i"
+    },
+    {
+      "album": {
+        "name": "Season 4 Theme Song (feat. Lera Lynn)",
+        "url": "https://open.spotify.com/album/5wVj4KDyeWdu3KgAjLynN4"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        },
+        {
+          "name": "Lera Lynn",
+          "url": "https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187763,
+      "name": "Season 4 Theme Song (feat. Lera Lynn)",
+      "url": "https://open.spotify.com/track/2kWeKkIXKFOg9mH3FB43kW"
     },
     {
       "album": {
@@ -16180,7 +16364,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 180000,
       "name": "Swain",
       "url": "https://open.spotify.com/track/3H6dgI4lTrtqTT10bm6tWC"
@@ -16376,6 +16560,24 @@
       "duration_ms": 276087,
       "name": "Taking Me Back (Gently)",
       "url": "https://open.spotify.com/track/5F87lvBBP8EraYzsRBE6Yw"
+    },
+    {
+      "album": {
+        "name": "Taking Things For Granted",
+        "url": "https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216167,
+      "name": "Taking Things For Granted",
+      "url": "https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O"
     },
     {
       "album": {
@@ -16856,7 +17058,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 190216,
       "name": "The End",
       "url": "https://open.spotify.com/track/0HfT6rSWC48pyZc4fhwl1b"
@@ -17758,7 +17960,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 252507,
       "name": "This Is Going To Be The Year",
       "url": "https://open.spotify.com/track/4ijH0M7n6oM4ZARKcInAyv"
@@ -18184,6 +18386,24 @@
       "duration_ms": 163760,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/36q9e2bci1iIm9e1zlJ8y0"
+    },
+    {
+      "album": {
+        "name": "Tongue Tied",
+        "url": "https://open.spotify.com/album/5pIdg3VmRmejKmKD7nfIav"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292146,
+      "name": "Tongue Tied",
+      "url": "https://open.spotify.com/track/3ckJWEhX7Zi7dvoC2iCHkR"
     },
     {
       "album": {
@@ -18804,7 +19024,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 233986,
       "name": "Wake Up Child",
       "url": "https://open.spotify.com/track/6a0XYTjvT9kSOCxRXvmhp2"
@@ -18894,7 +19114,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 185358,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/1NOTidLDDPTeau4BWJ0vwX"
@@ -19801,6 +20021,24 @@
     },
     {
       "album": {
+        "name": "Stolen Time Deluxe",
+        "url": "https://open.spotify.com/album/2awMslAt7eh8sTwTs8kqWr"
+      },
+      "artists": [
+        {
+          "name": "Abigail Lapell",
+          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269800,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/1wJdEsTX2x1uzIfDdkuVdJ"
+    },
+    {
+      "album": {
         "name": "Willows",
         "url": "https://open.spotify.com/album/1a1XOILeamqVZsPpUL2D6P"
       },
@@ -20082,7 +20320,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 202987,
       "name": "Worthy of Love",
       "url": "https://open.spotify.com/track/7jNb0Fbghm96lz6hTJ4uKe"
@@ -20376,7 +20614,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-22",
       "duration_ms": 216000,
       "name": "You're My Winter",
       "url": "https://open.spotify.com/track/5u6vKboXSgqGxh7dCWy6tQ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover <a href="https://open.spotify.com/artist/7LYWtUyWFb2GIE5sjigMvX">Lord Dombo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,801 likes - 60 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,807 likes - 60 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

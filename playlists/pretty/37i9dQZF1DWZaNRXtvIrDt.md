@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Pretty Girl
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,725 likes - 75 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,736 likes - 75 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 17 | [What You Say?](https://open.spotify.com/track/22quZFeltYbo325rn3ktTe) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [What You Say?](https://open.spotify.com/album/2yRIzD4GpnSNlGw5gt0Y1o) | 3:23 |
 | 18 | [Mantra](https://open.spotify.com/track/4iJ1K6IHuGKOjkmhzCK6qN) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [The Planets: Neptune](https://open.spotify.com/album/4LTPMgfqWEOJRI0TQXKBKP) | 5:22 |
 | 19 | [A New Light](https://open.spotify.com/track/6fn7tlBORXWaSLdACXVkuO) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [A New Light](https://open.spotify.com/album/3ImwhIT7SY1Cndhrdi0SCq) | 4:52 |
-| 20 | [Sora](https://open.spotify.com/track/2Fhze8ZgxgbVlsNh4y1X7W) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Sora](https://open.spotify.com/album/6t1eLn4EXLLuu2cYGybM8e) | 4:17 |
+| 20 | [Sora](https://open.spotify.com/track/5MX2I1rGXXAFPsJaoKRf7r) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Sora](https://open.spotify.com/album/1liqJtMwsRjwF49md1FG8a) | 4:17 |
 | 21 | [Enjoy Your Life](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Enjoy Your Life](https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N) | 4:00 |
 | 22 | [Shotgun Baby](https://open.spotify.com/track/0q49donmfN5VivjT9utGcq) | [KÉDU CARLÖ](https://open.spotify.com/artist/5FdNimxRznD7ZK6LR5VTJC) | [Shotgun Baby](https://open.spotify.com/album/2Y0QvT0p9gS0wcCmXK28nS) | 5:01 |
 | 23 | [DESIRE96](https://open.spotify.com/track/1Isw0eYkTeBUP4uuqLNHZt) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [DESIRE96](https://open.spotify.com/album/32qjzjfmDJX4lA6yAPR2fb) | 4:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 74 | [Better Love](https://open.spotify.com/track/1UTHkifQMS6znmSx2Svobk) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Better Love](https://open.spotify.com/album/0delJu1UUzdBfufg94lbME) | 2:18 |
 | 75 | [Plaid](https://open.spotify.com/track/7knr1Ak0hW5apJicbQ1doJ) | [99 Nissan Patrol](https://open.spotify.com/artist/6NLwlRl1gc64NVdC4ZXxgw), [Monako](https://open.spotify.com/artist/281y760OdoAujOeovQnKmC) | [Codec Tweak/Plaid](https://open.spotify.com/album/3f6HJFDtEOdFCTdGlrDkux) | 6:04 |
 
-Snapshot ID: `MTY4MTk5OTIwMCwwMDAwMDAwMDFiZmIzZjQ4ZTRlYTU2ZjQyMDQ0Nzk4ZmNiYTJkZTll`
+Snapshot ID: `MTY4MTk5OTIwMCwwMDAwMDAwMGU5NDNjMzEzYWZiMWYyMTAzMTFjMmNiZWQzMmRiNWRh`
