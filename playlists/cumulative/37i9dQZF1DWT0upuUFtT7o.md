@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: MINOVA
 
-1,409 songs - 3 day 5 hr 4 min
+1,410 songs - 3 day 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1154,7 +1154,8 @@
 | [Stick up Man](https://open.spotify.com/track/4XJPAIcSCBc0ltPAW3K4sB) | [Salmon Cat](https://open.spotify.com/artist/5JWkrKXdnre8MtcZLrqrPs) | [Stick up Man](https://open.spotify.com/album/1lcIhKIzYmbifWY7fhEfMo) | 1:45 | 2023-04-05 | 2023-04-20 |
 | [Sticks and Stones](https://open.spotify.com/track/4F86e2zuC1tHOLjGEs6Yb0) | [Jim Alxndr](https://open.spotify.com/artist/73oeeOCtBTa9kBMuVggdMI) | [Sticks and Stones](https://open.spotify.com/album/03UBe1d2RlsqSfDYH5nhwB) | 3:42 | 2023-02-22 | 2023-03-29 |
 | [Still](https://open.spotify.com/track/6HCoTZtS5ZD0MMnda77O65) | [Isadora Eden](https://open.spotify.com/artist/309snhwGNeKotaADKVUZVL) | [Still](https://open.spotify.com/album/33a3NmOde3OtmHygesUbqO) | 2:24 | 2023-04-12 |  |
-| [Still The Same](https://open.spotify.com/track/3S1PM8HQvrg4wEgEyH6HsV) | [Tomás Tomás](https://open.spotify.com/artist/5cIsZTM8obwInukUbjtuE7) | [Still The Same](https://open.spotify.com/album/1izQQQD5H3WfeyilRviVwk) | 2:41 | 2023-04-19 |  |
+| [Still The Same](https://open.spotify.com/track/0BxpUmBslP2oSAzvSToMyR) | [Tomás Tomás](https://open.spotify.com/artist/5cIsZTM8obwInukUbjtuE7) | [Still The Same](https://open.spotify.com/album/2YWC4IYQE7l1QOsZke9kqO) | 2:41 | 2023-04-19 |  |
+| [Still The Same](https://open.spotify.com/track/3S1PM8HQvrg4wEgEyH6HsV) | [Tomás Tomás](https://open.spotify.com/artist/5cIsZTM8obwInukUbjtuE7) | [Still The Same](https://open.spotify.com/album/1izQQQD5H3WfeyilRviVwk) | 2:41 | 2023-04-19 | 2023-04-23 |
 | [Stomping](https://open.spotify.com/track/2RCxfudVc5y1cPvppLwVAp) | [Earth Dad](https://open.spotify.com/artist/4chHQ1XcMUGTnvb0Q5mgIG), [Isa Reyes](https://open.spotify.com/artist/4TByvCGrRIFKUl3rMQKQa1) | [Stomping / 2 Be Loved](https://open.spotify.com/album/2A6g4eLSERVlqQHLF3nVug) | 2:12 | 2021-12-01 | 2022-01-13 |
 | [Stone After Stone](https://open.spotify.com/track/0pwiEhcbpCFQvU6fMt4AeE) | [June McDoom](https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV) | [Stone After Stone](https://open.spotify.com/album/6B1hhFIH0plGioiE0AxO8Q) | 4:06 | 2022-09-23 | 2022-10-06 |
 | [Strange Secrets Worth Knowing](https://open.spotify.com/track/5S8YHkYgbbdvjXDlMkePyI) | [Improvement Movement](https://open.spotify.com/artist/18S4ntNsQ8TCG80wpOsxWZ) | [Strange Secrets Worth Knowing](https://open.spotify.com/album/0jWpsWj0J37iifV3c6lzoU) | 2:08 | 2022-04-12 | 2022-05-12 |

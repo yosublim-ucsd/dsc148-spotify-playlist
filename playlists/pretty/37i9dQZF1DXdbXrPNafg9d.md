@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new indie songs every Friday\. Cover: MUNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,276,448 likes - 200 songs - 11 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,276,531 likes - 200 songs - 11 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 8 | [Is It Magic?](https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Is It Magic?](https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e) | 3:08 |
 | 9 | [On and Ever Onward \(Live from Housing Works 2009\)](https://open.spotify.com/track/2u1ImCvsSyDhNBSH8nLrOj) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [On And Ever Onward \(Live From Housing Works 2009\)](https://open.spotify.com/album/2yQFVTCDcHgwPkX3AKjNSY) | 2:21 |
 | 10 | [Mermaids](https://open.spotify.com/track/1rZsn9K890Goymfl7YIdgY) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever \(Complete Edition\)](https://open.spotify.com/album/6a15PoOmOueHCdogzhHRbh) | 4:35 |
-| 11 | [Gimmie A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 |
+| 11 | [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 |
 | 12 | [Never Gets Old](https://open.spotify.com/track/4RIPTau9DhWdg0rozoyttq) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Never Gets Old](https://open.spotify.com/album/4SFmWILl18Ol37dQ9WLFpO) | 3:20 |
 | 13 | [High Life](https://open.spotify.com/track/4CQG6hPIFLbliWJpxHKmZH) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [High Life](https://open.spotify.com/album/1fBcgFClpfR9PpmmHPBbyS) | 2:54 |
 | 14 | [Big Shot City \- Makaya McCraven Interpolation](https://open.spotify.com/track/7DCiTmZKwIxILzlcu2nHA6) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B), [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Big Shot City \(Makaya McCraven Interpolation\)](https://open.spotify.com/album/1uib3EDOL75uSnMxzMHMBN) | 4:22 |
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 102 | [Days Go By](https://open.spotify.com/track/1DeYyjLYn23Mf2TB430UAN) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Days Go By](https://open.spotify.com/album/4yRo9mkyjeLQ1vdQAtXIn2) | 3:14 |
 | 103 | [All The Same](https://open.spotify.com/track/7mVDDe0DVooFn6G8dWdO85) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [All The Same](https://open.spotify.com/album/647eOV9vqw5QiTbbfYw5i5) | 3:28 |
 | 104 | [Want You Back](https://open.spotify.com/track/41fudAV9DYydAmfLEyx3us) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [Winner](https://open.spotify.com/album/3stviY5yssJc77dqW2Z42O) | 3:38 |
-| 105 | [Piece of Art](https://open.spotify.com/track/48igULTT3gZFYS1FOxCQQ6) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Watching Strangers Smile](https://open.spotify.com/album/4EFSsesDCNX5l1EalI2mRS) | 4:04 |
+| 105 | [Piece of Art](https://open.spotify.com/track/0CF9ZyQR7X9DpgwJSBOwja) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Watching Strangers Smile](https://open.spotify.com/album/0zpSsEuwv5VbuiyuvfpjmZ) | 4:04 |
 | 106 | [Everything Is Boring](https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Everything Is Boring](https://open.spotify.com/album/3IVFpVQvospcyELiYdMlvX) | 2:56 |
 | 107 | [Rocks](https://open.spotify.com/track/33q5GW1JOMiCtW6FCVZo0g) | [Buck Raines](https://open.spotify.com/artist/0uhS2Dm4iv3qukaycmPbNF) | [Rocks](https://open.spotify.com/album/5tnRNJMyuCZxxfTIIL1Fxz) | 3:03 |
 | 108 | [1965 heartbreaker](https://open.spotify.com/track/16naK3YczRzuORA2jZynMm) | [caaaaseyyyy](https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c) | [1965 heartbreaker](https://open.spotify.com/album/12pDCw6ktpWSkhORP0BGJu) | 3:03 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 199 | [To be honest](https://open.spotify.com/track/3G1rPeSTMK5MNno47y1Ll0) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [To be honest](https://open.spotify.com/album/2zqbBftrJpAiOeHwhO9W6X) | 3:41 |
 | 200 | [Wings Of Time \- From the Motion Picture Dungeons & Dragons: Honor Among Thieves](https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Wings Of Time \(From the Motion Picture Dungeons & Dragons: Honor Among Thieves\)](https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ) | 2:48 |
 
-Snapshot ID: `MTY4MjExNjI0MSwwMDAwMDAwMDhjMzgwZWFhZDU3NzlkYjc1OTQzYzJmZTI4MjY2YTZi`
+Snapshot ID: `MTY4MjExNjI0MSwwMDAwMDAwMDBhODI0NjEwMWU4NDI0YzRmMTY0ZWI0MGU5NmE2MGU5`

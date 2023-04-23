@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 66399,
+  "num_followers": 66418,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAyODAwMCwwMDAwMDAwMGI2ZGZlOTBmMmQ5NWYwMWU5YmMzYzE2OTNhY2Q3YjQw",
+  "snapshot_id": "MTY4MjAyODAwMCwwMDAwMDAwMDNhNjc5OTI1OTAyZWNmOTRkM2UxNTUxODlkYzQ5YTAy",
   "tracks": [
     {
       "added_at": "2023-04-20 22:00:00",
@@ -635,26 +635,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Folkets R\u00f6st",
-        "url": "https://open.spotify.com/album/6GTUomhBv2uldNCKXrx3jw"
-      },
-      "artists": [
-        {
-          "name": "General Knas",
-          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
-        },
-        {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
-        }
-      ],
-      "duration_ms": 193908,
-      "name": "Enda V\u00e4gen Fram",
-      "url": "https://open.spotify.com/track/2pibBmMCnufHoOfr2lml9g"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Hei Sommer",
         "url": "https://open.spotify.com/album/0KCZJvWk4RPkPI1FKSY8Sj"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 172516,
       "name": "Hei Sommer",
       "url": "https://open.spotify.com/track/7LYlpWChM85iRMlBN8rRQd"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Folkets R\u00f6st",
+        "url": "https://open.spotify.com/album/6GTUomhBv2uldNCKXrx3jw"
+      },
+      "artists": [
+        {
+          "name": "General Knas",
+          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
+        },
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+        }
+      ],
+      "duration_ms": 193908,
+      "name": "Enda V\u00e4gen Fram",
+      "url": "https://open.spotify.com/track/2pibBmMCnufHoOfr2lml9g"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Reggaestrerad",
-        "url": "https://open.spotify.com/album/13DfA1T9VKqtBD5xQwgvhG"
-      },
-      "artists": [
-        {
-          "name": "General Knas",
-          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
-        }
-      ],
-      "duration_ms": 223122,
-      "name": "Dunya",
-      "url": "https://open.spotify.com/track/5N5CCm7QFaZaqYlmZOAU0i"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Som Salomos S\u00e5ng",
         "url": "https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 245530,
       "name": "No Winners",
       "url": "https://open.spotify.com/track/47rPfUdslLIWWcwv1yrySB"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Reggaestrerad",
+        "url": "https://open.spotify.com/album/13DfA1T9VKqtBD5xQwgvhG"
+      },
+      "artists": [
+        {
+          "name": "General Knas",
+          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
+        }
+      ],
+      "duration_ms": 223122,
+      "name": "Dunya",
+      "url": "https://open.spotify.com/track/5N5CCm7QFaZaqYlmZOAU0i"
     },
     {
       "added_at": "2023-04-20 22:00:00",

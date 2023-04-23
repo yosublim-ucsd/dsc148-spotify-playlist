@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover:  <a href=\u201cspotify:artist:3uikSah4dwqwuk0EidFI4R\u201d>Caitlyn Smith</a> ",
-  "num_followers": 38342,
+  "num_followers": 38354,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA4ODQ2MywwMDAwMDAwMDVhOGY4YTM4YTgwOWU5MjYxZDliMDI4NjI3MzIzN2Ez",
+  "snapshot_id": "MTY4MjA4ODQ2MywwMDAwMDAwMDg4YzI2NWExMTdmZDIzM2RjMTdkZjA3MzJjOTdmNTNk",
   "tracks": [
     {
       "added_at": "2023-04-14 17:49:28",
@@ -199,6 +199,22 @@
     {
       "added_at": "2023-04-14 17:49:28",
       "album": {
+        "name": "Area Codes",
+        "url": "https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 139325,
+      "name": "Area Codes",
+      "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
+    },
+    {
+      "added_at": "2023-04-14 17:49:28",
+      "album": {
         "name": "Smoke (feat. Lucky Daye)",
         "url": "https://open.spotify.com/album/24myqNnAEPwBjGfhEm6WJA"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 187653,
       "name": "Letter To An Old Poet",
       "url": "https://open.spotify.com/track/1zShh2S3moxyqU6u6fJZVQ"
-    },
-    {
-      "added_at": "2023-04-14 17:49:28",
-      "album": {
-        "name": "Area Codes",
-        "url": "https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K"
-      },
-      "artists": [
-        {
-          "name": "Kali",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 139325,
-      "name": "Area Codes",
-      "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
     },
     {
       "added_at": "2023-04-14 17:49:28",
@@ -645,6 +645,38 @@
       "url": "https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C"
     },
     {
+      "added_at": "2023-04-21 14:47:42",
+      "album": {
+        "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) [Spotify Singles]",
+        "url": "https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        },
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        },
+        {
+          "name": "Madeline Edwards",
+          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
+        },
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "duration_ms": 256217,
+      "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) - Spotify Singles",
+      "url": "https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv"
+    },
+    {
       "added_at": "2023-04-14 17:49:28",
       "album": {
         "name": "Change Of Heart [Feat. Sierra Ferrell]",
@@ -763,22 +795,6 @@
       "duration_ms": 203263,
       "name": "Metamorphosis",
       "url": "https://open.spotify.com/track/3RS6yYUhrAbxdHm2vALIwv"
-    },
-    {
-      "added_at": "2023-04-14 17:49:28",
-      "album": {
-        "name": "The Great Pretender",
-        "url": "https://open.spotify.com/album/2b2UQsBD1es8fffEgaAzx5"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 174172,
-      "name": "The Great Pretender",
-      "url": "https://open.spotify.com/track/68OEMFJOlElx9MFpglmXSb"
     }
   ],
   "unique_name": "EQUAL US",

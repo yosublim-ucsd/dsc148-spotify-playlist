@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Abraham Alexander",
-  "num_followers": 359545,
+  "num_followers": 359645,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDM1MTBkN2ViNzdkOTJmY2MyOGQwNWQ0ZGFmZDM1NGM0",
+  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMGNkZjg4M2I5ZDRhM2M3ZWZjY2QzOTdlOGE5M2Y0Mzg5",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -287,18 +287,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Half Mile Harvest",
-        "url": "https://open.spotify.com/album/6seixGAN22NspEmvRID4fG"
+        "name": "Men Amongst Mountains",
+        "url": "https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
         }
       ],
-      "duration_ms": 240912,
-      "name": "Pain and Misery",
-      "url": "https://open.spotify.com/track/2W5dSuM7DDdWymjzZsICBn"
+      "duration_ms": 254853,
+      "name": "Keep Going",
+      "url": "https://open.spotify.com/track/6QvAqvSvkfHLzeIilXQ9H7"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -351,18 +351,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Men Amongst Mountains",
-        "url": "https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn"
+        "name": "Half Mile Harvest",
+        "url": "https://open.spotify.com/album/6seixGAN22NspEmvRID4fG"
       },
       "artists": [
         {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 254853,
-      "name": "Keep Going",
-      "url": "https://open.spotify.com/track/6QvAqvSvkfHLzeIilXQ9H7"
+      "duration_ms": 240912,
+      "name": "Pain and Misery",
+      "url": "https://open.spotify.com/track/2W5dSuM7DDdWymjzZsICBn"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Delilah",
-        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 166106,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Allen Stone",
         "url": "https://open.spotify.com/album/6thR6jvixyobv21QPAQrcz"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 146493,
       "name": "Sleep",
       "url": "https://open.spotify.com/track/5n7pR4SK5ZGuHHu3AiODJ2"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 166106,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Kids In The Street",
+        "url": "https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU"
+      },
+      "artists": [
+        {
+          "name": "Justin Townes Earle",
+          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
+        }
+      ],
+      "duration_ms": 202320,
+      "name": "Trouble Is",
+      "url": "https://open.spotify.com/track/6hEXUoac3X1sDGUzMtzVPK"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "First Flower",
         "url": "https://open.spotify.com/album/47MqY7dbFvsNZZKHj7BRup"
       },
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Side Pony",
-        "url": "https://open.spotify.com/album/1pXxKrTopCyALgXX7h5tmX"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 217680,
-      "name": "I Don't Care About You",
-      "url": "https://open.spotify.com/track/5sOhS3m45IPP9sUBXXlYGI"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Madelyn",
         "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
       },
@@ -1219,6 +1219,22 @@
       "duration_ms": 195413,
       "name": "Madelyn",
       "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Side Pony",
+        "url": "https://open.spotify.com/album/1pXxKrTopCyALgXX7h5tmX"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 217680,
+      "name": "I Don't Care About You",
+      "url": "https://open.spotify.com/track/5sOhS3m45IPP9sUBXXlYGI"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1251,22 +1267,6 @@
       "duration_ms": 186016,
       "name": "First Time Feeling",
       "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Kids In The Street",
-        "url": "https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU"
-      },
-      "artists": [
-        {
-          "name": "Justin Townes Earle",
-          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
-        }
-      ],
-      "duration_ms": 202320,
-      "name": "Trouble Is",
-      "url": "https://open.spotify.com/track/6hEXUoac3X1sDGUzMtzVPK"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Honest Life",
-        "url": "https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 226773,
-      "name": "Irene",
-      "url": "https://open.spotify.com/track/1wEn59siJY4vNOYJUwHqL3"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "The Weight of These Wings",
         "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 233266,
       "name": "Highway Vagabond",
       "url": "https://open.spotify.com/track/1m6un0uWcRlNcJHBQ1lKAo"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Honest Life",
+        "url": "https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 226773,
+      "name": "Irene",
+      "url": "https://open.spotify.com/track/1wEn59siJY4vNOYJUwHqL3"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Alexander",
+        "url": "https://open.spotify.com/album/69QwyJobyX40i2uwAbNha6"
+      },
+      "artists": [
+        {
+          "name": "Alex Ebert",
+          "url": "https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE"
+        }
+      ],
+      "duration_ms": 209466,
+      "name": "Bad Bad Love",
+      "url": "https://open.spotify.com/track/1BKQSpOtgGoVKUCDjfspVj"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Don't Want Your Love",
         "url": "https://open.spotify.com/album/01VhhE9VOeFoBlKYRUv87d"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 212376,
       "name": "Don't Want Your Love",
       "url": "https://open.spotify.com/track/1d9BwBTqmH8qKELdwn2PH0"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Alexander",
-        "url": "https://open.spotify.com/album/69QwyJobyX40i2uwAbNha6"
-      },
-      "artists": [
-        {
-          "name": "Alex Ebert",
-          "url": "https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE"
-        }
-      ],
-      "duration_ms": 209466,
-      "name": "Bad Bad Love",
-      "url": "https://open.spotify.com/track/1BKQSpOtgGoVKUCDjfspVj"
     }
   ],
   "unique_name": "the new retro",

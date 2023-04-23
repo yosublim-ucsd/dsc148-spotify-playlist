@@ -1,12 +1,12 @@
 {
   "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du kan spelle i kjerra! Cover: Hagle",
-  "num_followers": 97055,
+  "num_followers": 97131,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAyODAwMCwwMDAwMDAwMGNlOWExYTg1NDEwOGIyMWJkYmYzYjVlMjQyMzlkNTgz",
+  "snapshot_id": "MTY4MjAyODAwMCwwMDAwMDAwMGVjYWJkNzE3MmQ2MzNkMGY0Y2E0N2Q1MGEzNTU1OGE4",
   "tracks": [
     {
       "added_at": "2023-04-20 22:00:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Polisen",
-        "url": "https://open.spotify.com/album/4dVz4LIb33QKCJoxQPYyNL"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 154433,
-      "name": "Polisen",
-      "url": "https://open.spotify.com/track/4wr2HgyYMvJourcfOMzPCb"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "F*CKED UP!",
         "url": "https://open.spotify.com/album/2C3PepE12YTbPAAt67hqji"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 167760,
       "name": "F*CKED UP!",
       "url": "https://open.spotify.com/track/2D3O7NUUdTrMu30ZtGa2s6"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Polisen",
+        "url": "https://open.spotify.com/album/4dVz4LIb33QKCJoxQPYyNL"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 154433,
+      "name": "Polisen",
+      "url": "https://open.spotify.com/track/4wr2HgyYMvJourcfOMzPCb"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Raggen m\u00e5ste g\u00e5",
-        "url": "https://open.spotify.com/album/3G2aieDiN6qhTZyvHGJhGF"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 131571,
-      "name": "Raggen m\u00e5ste g\u00e5",
-      "url": "https://open.spotify.com/track/3IhR0OCASlmyMHAx8HAKdr"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "MEDVETSL\u00d6S (Ringnes-Ronny Remix)",
         "url": "https://open.spotify.com/album/45I8yqaI4OJyg425GLNowv"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 186692,
       "name": "MEDVETSL\u00d6S - Ringnes-Ronny Remix",
       "url": "https://open.spotify.com/track/6GgK6y4XRp2D4hNO5oj7Bt"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Raggen m\u00e5ste g\u00e5",
+        "url": "https://open.spotify.com/album/3G2aieDiN6qhTZyvHGJhGF"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 131571,
+      "name": "Raggen m\u00e5ste g\u00e5",
+      "url": "https://open.spotify.com/track/3IhR0OCASlmyMHAx8HAKdr"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "TOP GUN",
-        "url": "https://open.spotify.com/album/3RgXPQL8B8CoOnXTXSQk8c"
-      },
-      "artists": [
-        {
-          "name": "Soppgirobygget",
-          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
-        }
-      ],
-      "duration_ms": 140307,
-      "name": "TOP GUN",
-      "url": "https://open.spotify.com/track/4gobB2WY2C6HNFITwj5IPE"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Ligga low",
         "url": "https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 151411,
       "name": "Ligga low",
       "url": "https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "TOP GUN",
+        "url": "https://open.spotify.com/album/3RgXPQL8B8CoOnXTXSQk8c"
+      },
+      "artists": [
+        {
+          "name": "Soppgirobygget",
+          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
+        }
+      ],
+      "duration_ms": 140307,
+      "name": "TOP GUN",
+      "url": "https://open.spotify.com/track/4gobB2WY2C6HNFITwj5IPE"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -671,26 +671,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "H\u00d6RRU BARTENDER",
-        "url": "https://open.spotify.com/album/1b9a5LDUt0kdBj6H6o2dOa"
-      },
-      "artists": [
-        {
-          "name": "LOOKET",
-          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
-        },
-        {
-          "name": "Alfons",
-          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
-        }
-      ],
-      "duration_ms": 145925,
-      "name": "H\u00d6RRU BARTENDER",
-      "url": "https://open.spotify.com/track/1mcr3HuCyabJgAZ9z0zVvx"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "En drikkesang",
         "url": "https://open.spotify.com/album/3BwiO8gXGLlvgI8X3pdGMl"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 134973,
       "name": "En drikkesang",
       "url": "https://open.spotify.com/track/2z12HXARpuQP9teW2tGyz0"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "H\u00d6RRU BARTENDER",
+        "url": "https://open.spotify.com/album/1b9a5LDUt0kdBj6H6o2dOa"
+      },
+      "artists": [
+        {
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+        },
+        {
+          "name": "Alfons",
+          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+        }
+      ],
+      "duration_ms": 145925,
+      "name": "H\u00d6RRU BARTENDER",
+      "url": "https://open.spotify.com/track/1mcr3HuCyabJgAZ9z0zVvx"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Norge rundt",
-        "url": "https://open.spotify.com/album/1SAhnYv7WLA9wrKlBUQD4J"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        }
-      ],
-      "duration_ms": 204306,
-      "name": "Norge rundt",
-      "url": "https://open.spotify.com/track/2npSnsWqiOkinzheEcuWh8"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "N\u00e5 Koser Vi Oss",
         "url": "https://open.spotify.com/album/4xXIxalm2k3gzYDPxBUgaF"
       },
@@ -943,6 +927,38 @@
       "duration_ms": 169466,
       "name": "N\u00e5 Koser Vi Oss",
       "url": "https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Hej sk\u00e5l!",
+        "url": "https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS"
+      },
+      "artists": [
+        {
+          "name": "Kuselofte",
+          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
+        }
+      ],
+      "duration_ms": 129375,
+      "name": "Hej sk\u00e5l!",
+      "url": "https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Norge rundt",
+        "url": "https://open.spotify.com/album/1SAhnYv7WLA9wrKlBUQD4J"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        }
+      ],
+      "duration_ms": 204306,
+      "name": "Norge rundt",
+      "url": "https://open.spotify.com/track/2npSnsWqiOkinzheEcuWh8"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -967,22 +983,6 @@
       "duration_ms": 132000,
       "name": "Ha Mer",
       "url": "https://open.spotify.com/track/20R6MFfByX8wWVoZKEQRq8"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "Hej sk\u00e5l!",
-        "url": "https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS"
-      },
-      "artists": [
-        {
-          "name": "Kuselofte",
-          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
-        }
-      ],
-      "duration_ms": 129375,
-      "name": "Hej sk\u00e5l!",
-      "url": "https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "Besseggen",
+        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 165612,
+      "name": "Besseggen",
+      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "H\u00f8l i potta",
         "url": "https://open.spotify.com/album/4G82Kih2HtHLiM3xBptOZD"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 140465,
       "name": "H\u00f8l i potta",
       "url": "https://open.spotify.com/track/1fl1aY5bCIv0cin4a2YadF"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "Besseggen",
-        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 165612,
-      "name": "Besseggen",
-      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "S\u00e5nn So Det Va F\u00f8r",
+        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
+      },
+      "artists": [
+        {
+          "name": "Vassendgutane",
+          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
+        }
+      ],
+      "duration_ms": 278457,
+      "name": "S\u00e5nn So Det Va F\u00f8r",
+      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "Den fineste Tesla\u00b4n",
         "url": "https://open.spotify.com/album/7A94hHp8fWQF1cZ4IKb4th"
       },
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "S\u00e5nn So Det Va F\u00f8r",
-        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
-      },
-      "artists": [
-        {
-          "name": "Vassendgutane",
-          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
-        }
-      ],
-      "duration_ms": 278457,
-      "name": "S\u00e5nn So Det Va F\u00f8r",
-      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Viddas Himmelbl\u00e5",
         "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
       },
@@ -1227,22 +1227,6 @@
       "duration_ms": 192282,
       "name": "Viddas Himmelbla\u030a",
       "url": "https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "\u00c6rbesk\u00e6r",
-        "url": "https://open.spotify.com/album/2Wq5na5n7xXDAjeybcS8Ds"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        }
-      ],
-      "duration_ms": 135542,
-      "name": "\u00c6rbesk\u00e6r",
-      "url": "https://open.spotify.com/track/1KKqiE7UtShqsjZwYvWpm8"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1295,6 +1279,22 @@
       "duration_ms": 274053,
       "name": "Levva Livet",
       "url": "https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "\u00c6rbesk\u00e6r",
+        "url": "https://open.spotify.com/album/2Wq5na5n7xXDAjeybcS8Ds"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        }
+      ],
+      "duration_ms": 135542,
+      "name": "\u00c6rbesk\u00e6r",
+      "url": "https://open.spotify.com/track/1KKqiE7UtShqsjZwYvWpm8"
     },
     {
       "added_at": "2023-04-20 22:00:00",

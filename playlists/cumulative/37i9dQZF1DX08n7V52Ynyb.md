@@ -4,7 +4,7 @@
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-168 songs - 12 hr 34 min
+169 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [My Ship](https://open.spotify.com/track/0rxCbuvEGu9Bk7t1UOO2iu) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places](https://open.spotify.com/album/7lIpEhDFt06b3HdY1oGhIP) | 4:09 | 2022-04-13 | 2022-07-29 |
 | [My Ship](https://open.spotify.com/track/2CW9ojLmE3GM7h7xdfCXXb) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs from Other Places \(Special Edition\)](https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW) | 4:09 | 2023-01-19 |  |
 | [My Ship \- Special Edition](https://open.spotify.com/track/4CAfKmZlIn6TPczUUhv2CM) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places \(Special Edition\)](https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1) | 4:09 | 2022-07-21 | 2023-01-13 |
-| [Nature Boy](https://open.spotify.com/track/5AJKyrzyp9O2TurdqMh1JT) | [Lennart Ricard](https://open.spotify.com/artist/477Kac69blOYChn7cvOb87), [Josephine Philip](https://open.spotify.com/artist/6uDyBKY3BaQWVB9waWSMEa), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM) | [Nature Boy](https://open.spotify.com/album/6kDL3zRoAWWceSwz5ux555) | 4:35 | 2023-04-14 |  |
+| [Nature Boy](https://open.spotify.com/track/5AJKyrzyp9O2TurdqMh1JT) | [Lennart Ricard](https://open.spotify.com/artist/477Kac69blOYChn7cvOb87), [Josephine Philip](https://open.spotify.com/artist/6uDyBKY3BaQWVB9waWSMEa), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM) | [Nature Boy](https://open.spotify.com/album/6kDL3zRoAWWceSwz5ux555) | 4:35 | 2023-04-14 | 2023-04-23 |
 | [Nice Work If You Can Get It](https://open.spotify.com/track/3ZVNxTUtCAZLZ9crzmeKiM) | [Kristina Ray](https://open.spotify.com/artist/19kiwdKOPTvmocMNLHwcyh) | [Nice Work If You Can Get It](https://open.spotify.com/album/2WgyFRut3JtYjSRdFbxgYU) | 3:25 | 2022-04-13 |  |
 | [Night and Day](https://open.spotify.com/track/52Bx2eqyLGX1r70PN3ePOk) | [Lina Nyberg](https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv), [Daniel Karlsson](https://open.spotify.com/artist/133ujfci80J2umYb3Oas89) | [The Night and the Music](https://open.spotify.com/album/3G8RPQgYAbX2Gpyc69YU3k) | 4:09 | 2022-04-13 |  |
 | [Nightjar in the Northern Sky](https://open.spotify.com/track/3Lm4Il6xzIbfZ0XmneRCRA) | [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh) | [Nightjar in the Northern Sky](https://open.spotify.com/album/0r36MHOZz9hrzGQF6m6Ylr) | 4:47 | 2022-04-13 | 2022-07-29 |
@@ -159,6 +159,7 @@
 | [Thunderclouds](https://open.spotify.com/track/2OCV5Cn5DgesacD7ZLL10o) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Thunderclouds](https://open.spotify.com/album/0oTY2QwL9n2OHFEjk4SbSh) | 3:36 | 2022-04-13 | 2022-07-29 |
 | [Thunderclouds](https://open.spotify.com/track/4uskCkze8NPSFfYP8rsZ4T) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Ghost Song](https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ) | 3:36 | 2022-07-21 |  |
 | [Too Late Now](https://open.spotify.com/track/6iYaFLnX3epoWlQhGdbTRy) | [Johanna Pettersson](https://open.spotify.com/artist/3K6nNpFGe2X8oY5SuZu7w0), [Filip Ekestubbe](https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX), [Tomas Sjödell](https://open.spotify.com/artist/5t0kuw9leStrP3KsH1XFJv), [Adam Ross](https://open.spotify.com/artist/1mdEyNmkyJgaeVRF5PrmjM) | [The Show Must Go On](https://open.spotify.com/album/6jKTnQzbrpRONtKbIt3kfo) | 5:09 | 2022-04-13 |  |
+| [Try Your Wings](https://open.spotify.com/track/2IDn9H3axGov2DFWvgv8Sv) | [Silva & Steini](https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c) | [Try Your Wings](https://open.spotify.com/album/2syxIUQoSkiJvwo0ftifwT) | 2:54 | 2023-04-20 |  |
 | [Try Your Wings](https://open.spotify.com/track/0aa0phSxPErvXk0drKFBOM) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [Try Your Wings](https://open.spotify.com/album/29vC4zQ1mb9V3YylUigQGA) | 2:54 | 2023-02-16 | 2023-04-19 |
 | [Try Your Wings](https://open.spotify.com/track/5PXI1R8o162Ts7gJiQiv0X) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [Try Your Wings](https://open.spotify.com/album/41ff0V2xBRKpKTAOORTfZ5) | 2:54 | 2022-10-27 | 2023-02-19 |
 | [Undefined](https://open.spotify.com/track/4pHydJxZ7Bb7xEIsFVcquI) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Undefined](https://open.spotify.com/album/05tAyvFf9Z15aC0rViC5qu) | 5:35 | 2022-04-13 |  |

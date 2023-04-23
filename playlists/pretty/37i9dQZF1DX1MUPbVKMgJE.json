@@ -1,12 +1,12 @@
 {
   "description": "All your Disco favorites. Cover: Donna Summer",
-  "num_followers": 1475105,
+  "num_followers": 1475492,
   "original_name": "Disco Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk1OTkzNSwwMDAwMDAwMDU0YmM2MDJiYzkwYTU4MzdjNWExYzNiMjE2MTJmNjlj",
+  "snapshot_id": "MTY2MTk1OTkzNSwwMDAwMDAwMGZjNDY0NzNiMGFiYWYxYWIyZDNiY2FhZTQyMjQwMGNh",
   "tracks": [
     {
       "added_at": "2022-08-31 15:13:54",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-08-31 15:13:54",
       "album": {
-        "name": "Ladies' Night",
-        "url": "https://open.spotify.com/album/0zK7P6PLhBU02U9Tc98VSK"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 385506,
-      "name": "Ladies Night",
-      "url": "https://open.spotify.com/track/2uKJxjqcFu2Pr2CEsGGYJa"
-    },
-    {
-      "added_at": "2022-08-31 15:13:54",
-      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4"
       },
@@ -655,18 +639,18 @@
     {
       "added_at": "2022-08-31 15:13:54",
       "album": {
-        "name": "In The Pocket",
-        "url": "https://open.spotify.com/album/2VZu6gvY1Z8Kx4WtAbb7UG"
+        "name": "Ladies' Night",
+        "url": "https://open.spotify.com/album/0zK7P6PLhBU02U9Tc98VSK"
       },
       "artists": [
         {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
         }
       ],
-      "duration_ms": 293226,
-      "name": "Lady (You Bring Me Up)",
-      "url": "https://open.spotify.com/track/5CLozJK4pKWoPpFf2Z1Mye"
+      "duration_ms": 385506,
+      "name": "Ladies Night",
+      "url": "https://open.spotify.com/track/2uKJxjqcFu2Pr2CEsGGYJa"
     },
     {
       "added_at": "2022-08-31 15:13:54",
@@ -683,6 +667,22 @@
       "duration_ms": 355173,
       "name": "I Feel Love",
       "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
+    },
+    {
+      "added_at": "2022-08-31 15:13:54",
+      "album": {
+        "name": "In The Pocket",
+        "url": "https://open.spotify.com/album/2VZu6gvY1Z8Kx4WtAbb7UG"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 293226,
+      "name": "Lady (You Bring Me Up)",
+      "url": "https://open.spotify.com/track/5CLozJK4pKWoPpFf2Z1Mye"
     },
     {
       "added_at": "2022-08-31 15:13:54",

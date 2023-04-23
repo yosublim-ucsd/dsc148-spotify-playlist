@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New Indie driving the current, every week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,215 likes - 120 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,249 likes - 120 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 37 | [Vega](https://open.spotify.com/track/7D1poocJhg7k7b0bSqmks6) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [Music for the Future](https://open.spotify.com/album/2ZujbhV7NkcCbJoDXgREJm) | 3:23 |
 | 38 | [girlfriend](https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/7tBqY28TsUNRRzSJZ1yMLV) | 2:13 |
 | 39 | [VEHICLE](https://open.spotify.com/track/5jMUso85VnswHLihS6g6Pb) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [VEHICLE](https://open.spotify.com/album/1nYiFTWWqYA10ynJgbm7Rl) | 2:49 |
-| 40 | [Antidote](https://open.spotify.com/track/3qF500J2gDAYbxhXAAPO0X) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Antidote](https://open.spotify.com/album/7fGOorLylu4nsKMgjpDjso) | 2:49 |
+| 40 | [Antidote](https://open.spotify.com/track/7sUg1ro2GwaN2uvo0Pp1qm) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 2:49 |
 | 41 | [Honeydew \(02\)](https://open.spotify.com/track/1q8Ie915rJrzLTOPT71vUA) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [LIBBIE 02](https://open.spotify.com/album/4WLuz6h7LOGyRJybO2DiFD) | 2:33 |
 | 42 | [I will die on your hill](https://open.spotify.com/track/4E8lQY6FUn2p6ZmKMtL7Gs) | [deem spencer](https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [adultSW!M](https://open.spotify.com/album/3f1i3C0Wr3crm54zDNiHS0) | 2:45 |
 | 43 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 74 | [LIME](https://open.spotify.com/track/38wBthQfH7pQVqJ9N8EjWQ) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [VITAMIN \- C](https://open.spotify.com/album/3X8aSPH9cvQQBsrMO5mHtM) | 3:15 |
 | 75 | [CYBERKISS 2 U\*](https://open.spotify.com/track/6OtZmfVTQgUnsAw128KpHh) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [CYBERKISS\*](https://open.spotify.com/album/5acmAj0gYKed2bcsRY4b2C) | 3:08 |
 | 76 | [Veronica](https://open.spotify.com/track/7uAlf2KtylpPbXCqaB38EJ) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Veronica](https://open.spotify.com/album/2n1i0zYQTMmmj8b8nJpVPA) | 2:15 |
-| 77 | [Bon Voyage](https://open.spotify.com/track/4fwuSvvoxTClVM4QYQGA6C) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Bon Voyage](https://open.spotify.com/album/4RNIu9tWTSeyO7FvDet105) | 2:47 |
+| 77 | [Bon Voyage](https://open.spotify.com/track/4Okyax7cvVoNfoBKYr2RA0) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 2:47 |
 | 78 | [Merchants](https://open.spotify.com/track/0Xvi293ApVUdnysGfuSPUd) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Merchants](https://open.spotify.com/album/2onw1c7o2S0lNN4qFtIggN) | 4:08 |
 | 79 | [Blackphemy](https://open.spotify.com/track/5rYBgw7CHL5G4S6UJKOZ5H) | [Yb.](https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i) | [Blackphemy](https://open.spotify.com/album/4PDdJvVN3LysSlGBoJKzCW) | 3:24 |
 | 80 | [CHARLES JEFFREY](https://open.spotify.com/track/618BwYUA98PyOVoCbckluW) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [CHARLES JEFFREY](https://open.spotify.com/album/1inYWUi6rRiaUyrfzl6qnj) | 2:27 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 119 | [Already free](https://open.spotify.com/track/45nFXvQK9RIi8zMip6ogzh) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [I’m not a mother, but I have children](https://open.spotify.com/album/3g658ZgE7SVrv89Y3VkjgX) | 2:18 |
 | 120 | [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 |
 
-Snapshot ID: `MTY4MjExNDczNywwMDAwMDAwMDAyYzU2ZDQ1OWI5MGExMzkyYTIzNGMyZDI2YjQ0NTU1`
+Snapshot ID: `MTY4MjExNDczNywwMDAwMDAwMDlhZTRhOGIyMDAyYWZjOGZkODZmZTQyMDI4NmQwMmFj`

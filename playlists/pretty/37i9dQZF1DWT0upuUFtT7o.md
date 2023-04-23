@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: MINOVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,432 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,485 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 16 | [Scaredy Pants](https://open.spotify.com/track/0UH3qGCpQF9t1jwINUnq2R) | [Venus & the Flytraps](https://open.spotify.com/artist/0p1Rswnjvt7KFNFTYXNmWF) | [Scaredy Pants](https://open.spotify.com/album/6RpUP5myGMEJ5its0cz20C) | 3:12 |
 | 17 | [Cosmic Healing](https://open.spotify.com/track/0TeQkFUDSFbtmHjvAEkCoV) | [Cayo Coco](https://open.spotify.com/artist/3MB3k9TH723vnvvLQXxeN3) | [Cosmic Healing](https://open.spotify.com/album/3ahj4pz2dCaetSPtagcxcf) | 3:08 |
 | 18 | [How To Let Go](https://open.spotify.com/track/1kvHZx3AGcTg8N1NIge9Fm) | [Huck](https://open.spotify.com/artist/6kyIFL5I0g0kWOBygAJCbu) | [How To Let Go](https://open.spotify.com/album/7HB4GZ71UjvXiDS3xTF0BF) | 2:56 |
-| 19 | [Still The Same](https://open.spotify.com/track/3S1PM8HQvrg4wEgEyH6HsV) | [Tomás Tomás](https://open.spotify.com/artist/5cIsZTM8obwInukUbjtuE7) | [Still The Same](https://open.spotify.com/album/1izQQQD5H3WfeyilRviVwk) | 2:41 |
+| 19 | [Still The Same](https://open.spotify.com/track/0BxpUmBslP2oSAzvSToMyR) | [Tomás Tomás](https://open.spotify.com/artist/5cIsZTM8obwInukUbjtuE7) | [Still The Same](https://open.spotify.com/album/2YWC4IYQE7l1QOsZke9kqO) | 2:41 |
 | 20 | [fanfiction on the internet](https://open.spotify.com/track/1wgjeq97WULtZz0xKbLfLm) | [Jake Timothy](https://open.spotify.com/artist/1WmCyL1N2PY1LF6b0E6Mfy) | [fanfiction on the internet](https://open.spotify.com/album/3UIMmbwPFk8ddSOaMM3lc1) | 2:51 |
 | 21 | [Come Around](https://open.spotify.com/track/5FhBSeLyAPLGoCWOjQXH6F) | [frown line](https://open.spotify.com/artist/3zBlhaQIMQtlpUEwYQoOoM) | [Come Around](https://open.spotify.com/album/6GzwDlQLCtbtXO1F5jpqTi) | 3:38 |
 | 22 | [Nothing Better](https://open.spotify.com/track/3ma5koLqXhYQBThoCXtPaA) | [dani mack](https://open.spotify.com/artist/3mqzun4IsA12XDrzVuBgon) | [Nothing Better](https://open.spotify.com/album/7fJ0Kzwex4Xsch1lnmj6fp) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 99 | [Nobody's Perfect](https://open.spotify.com/track/69nO19GZ58i8mpC1YGKnUu) | [ZEV](https://open.spotify.com/artist/66Nj7lUkbFw7ICIamxWvTY), [Modern Love Child](https://open.spotify.com/artist/5Re1DTCxspDf57qk07YOAP) | [Nobody's Perfect](https://open.spotify.com/album/2XzfgpDpycb4Kp57KJXfyg) | 2:36 |
 | 100 | [Apollo](https://open.spotify.com/track/21NC2lCEgUMvL3QbYYwSHX) | [Sivu](https://open.spotify.com/artist/6RFYCKz8MgykjjsvnpLPTf) | [Apollo](https://open.spotify.com/album/6Cj8vu4963c8uotOiwonxb) | 3:21 |
 
-Snapshot ID: `MTY4MTkxNTIxNiwwMDAwMDAwMDc4MmFjM2Y5YjIyODEyYjExZWRhYzlkOTU4NGNiY2M1`
+Snapshot ID: `MTY4MTkxNTIxNiwwMDAwMDAwMDEzNTc0ZjIxNDIxZjc0NjEwMjg2NDU0ZTQ3OThlZDQ4`

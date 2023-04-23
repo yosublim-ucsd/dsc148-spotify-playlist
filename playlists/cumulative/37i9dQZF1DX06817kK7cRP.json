@@ -1371,6 +1371,28 @@
     },
     {
       "album": {
+        "name": "Modified Strat Mode",
+        "url": "https://open.spotify.com/album/24ziSm20W3yM9ZGsqqawZG"
+      },
+      "artists": [
+        {
+          "name": "trak-side",
+          "url": "https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh"
+        },
+        {
+          "name": "chill.farm",
+          "url": "https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117864,
+      "name": "Modified Strat Mode",
+      "url": "https://open.spotify.com/track/3PPGiojAjFUI7nuaW3mNAY"
+    },
+    {
+      "album": {
         "name": "Moonshine / Starshine",
         "url": "https://open.spotify.com/album/4Iz5vcZYyC1ztExHZngPVf"
       },
@@ -2264,7 +2286,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 151232,
       "name": "Tiger Balm",
       "url": "https://open.spotify.com/track/6VziXuKwKUhpOi1odKcVT9"

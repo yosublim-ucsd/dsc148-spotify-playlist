@@ -1,12 +1,12 @@
 {
   "description": "The freshest house music, updated every friday. Submit here: https:&#x2F;&#x2F;linktr.ee&#x2F;houseshift",
-  "num_followers": 5851,
+  "num_followers": 5856,
   "original_name": "House Shift",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "Njk3Myw2MTUyYTBkM2YxMTE0MzgzM2NjY2EzNmY4YjA2N2RkYzExMTM2ZTk5",
+  "snapshot_id": "Njk3NixjMjMyOTQ2ZWIzMzZhZDM5YzY1ODM1ZTA5ZmE2NTQ5M2M2NTQ2ODQ0",
   "tracks": [
     {
       "added_at": "2023-04-21 08:13:00",
@@ -431,6 +431,62 @@
       "duration_ms": 354647,
       "name": "Your Mind",
       "url": "https://open.spotify.com/track/4zDG66t4CS5gD2WLq4K9JK"
+    },
+    {
+      "added_at": "2023-04-22 13:59:27",
+      "album": {
+        "name": "Tantra",
+        "url": "https://open.spotify.com/album/4gv6XKdDCF5eJtmy7u2aqF"
+      },
+      "artists": [
+        {
+          "name": "DEEP INSIDE (UA)",
+          "url": "https://open.spotify.com/artist/6pbIQVTgSgtIEgPcbt4AFh"
+        },
+        {
+          "name": "TAU (UA)",
+          "url": "https://open.spotify.com/artist/6OLybB0kzvZsaAPl3o6lcI"
+        }
+      ],
+      "duration_ms": 351219,
+      "name": "Tantra",
+      "url": "https://open.spotify.com/track/7r5P4pGQEb6LlZonogTpVh"
+    },
+    {
+      "added_at": "2023-04-22 13:59:55",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/6RqD63Moj0mnF9Kw4JQ90o"
+      },
+      "artists": [
+        {
+          "name": "Scot & Millfield",
+          "url": "https://open.spotify.com/artist/6LTgaNvQ4z07MLP5Fs3plh"
+        },
+        {
+          "name": "Neil Richter",
+          "url": "https://open.spotify.com/artist/3QSWiXerHlC3jKwrjGtPq8"
+        }
+      ],
+      "duration_ms": 200086,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/0xn1a5jQoZ0GeilX3VSp2g"
+    },
+    {
+      "added_at": "2023-04-22 14:00:26",
+      "album": {
+        "name": "So Alive",
+        "url": "https://open.spotify.com/album/59V4ia9qAFxKK7w3jHm2Lj"
+      },
+      "artists": [
+        {
+          "name": "Mismatch (UK)",
+          "url": "https://open.spotify.com/artist/6ZfK3mmhQuGjhOAAAvSuSY"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "So Alive",
+      "url": "https://open.spotify.com/track/3I9hemewMQVBd5qpep8Zdl"
     }
   ],
   "unique_name": "House Shift",

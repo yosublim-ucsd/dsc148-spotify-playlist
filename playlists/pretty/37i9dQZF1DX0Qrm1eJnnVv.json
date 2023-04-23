@@ -1,12 +1,12 @@
 {
   "description": "Solo piano recordings of classic rags",
-  "num_followers": 3455,
+  "num_followers": 3465,
   "original_name": "Ragtime Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTE0MywwMDAwMDAwMDEwYWVjNGYyYTBmYjhhZTM0NTkyODI3OGZhNzEzNjc0",
+  "snapshot_id": "MTY0ODQ5OTE0MywwMDAwMDAwMDZjNDc1ZTdjNzk5MzM5MTI4M2ZlMjFjOGM2MjhjZWM2",
   "tracks": [
     {
       "added_at": "2020-08-19 17:18:36",
@@ -131,22 +131,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "James Scott: The Complete Works (Rags, Waltzes & Songs)",
-        "url": "https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4"
-      },
-      "artists": [
-        {
-          "name": "Guido Nielsen",
-          "url": "https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU"
-        }
-      ],
-      "duration_ms": 176173,
-      "name": "Frog Legs Rag",
-      "url": "https://open.spotify.com/track/0IoqpZ55F042xPuYCbP7NG"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "The Piano Rolls, Volume Two",
         "url": "https://open.spotify.com/album/5m3U1X9I0oltjme3PeFTlq"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 114906,
       "name": "Rialto Ripples",
       "url": "https://open.spotify.com/track/1qIThzIpVP8GyTx8Y6lu5g"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "James Scott: The Complete Works (Rags, Waltzes & Songs)",
+        "url": "https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4"
+      },
+      "artists": [
+        {
+          "name": "Guido Nielsen",
+          "url": "https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU"
+        }
+      ],
+      "duration_ms": 176173,
+      "name": "Frog Legs Rag",
+      "url": "https://open.spotify.com/track/0IoqpZ55F042xPuYCbP7NG"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -459,22 +459,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Ragtime Classics, 1901-1919",
-        "url": "https://open.spotify.com/album/5HQEWztM9JM2jOdXVZpb9b"
+        "name": "James Scott: The Complete Works (Rags, Waltzes & Songs)",
+        "url": "https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4"
       },
       "artists": [
         {
-          "name": "James Scott",
-          "url": "https://open.spotify.com/artist/4Dzdlxs6xusMPwxmED3CCJ"
-        },
-        {
-          "name": "Brian Dykstra",
-          "url": "https://open.spotify.com/artist/61riwtmBNJSb5iUwiChoCY"
+          "name": "Guido Nielsen",
+          "url": "https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU"
         }
       ],
-      "duration_ms": 205773,
-      "name": "Grace and Beauty",
-      "url": "https://open.spotify.com/track/0TtzBFuB0p0bqsucSbwYaJ"
+      "duration_ms": 177000,
+      "name": "Great Scott Rag",
+      "url": "https://open.spotify.com/track/6PeVR3vNkWhXlPT7v0yed6"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -499,50 +495,22 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "James Scott: The Complete Works (Rags, Waltzes & Songs)",
-        "url": "https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4"
+        "name": "Ragtime Classics, 1901-1919",
+        "url": "https://open.spotify.com/album/5HQEWztM9JM2jOdXVZpb9b"
       },
       "artists": [
         {
-          "name": "Guido Nielsen",
-          "url": "https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Great Scott Rag",
-      "url": "https://open.spotify.com/track/6PeVR3vNkWhXlPT7v0yed6"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
-        "name": "The St Louis Rag",
-        "url": "https://open.spotify.com/album/2O2dCZZvsoG97DRpiLG2cv"
-      },
-      "artists": [
+          "name": "James Scott",
+          "url": "https://open.spotify.com/artist/4Dzdlxs6xusMPwxmED3CCJ"
+        },
         {
-          "name": "Waldham Ragtime Pianos",
-          "url": "https://open.spotify.com/artist/0494lwWXTnzzYxlGM8czb5"
+          "name": "Brian Dykstra",
+          "url": "https://open.spotify.com/artist/61riwtmBNJSb5iUwiChoCY"
         }
       ],
-      "duration_ms": 222013,
-      "name": "Champagne Rag",
-      "url": "https://open.spotify.com/track/0KjbuADnLw2I0TPg7xCj5f"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
-        "name": "The Complete Piano Works of Scott Joplin",
-        "url": "https://open.spotify.com/album/5FG1LBNhmZgxLwYiEKilXe"
-      },
-      "artists": [
-        {
-          "name": "Knocky Parker",
-          "url": "https://open.spotify.com/artist/5GxGw0V1OnTsb5V4DtnxUY"
-        }
-      ],
-      "duration_ms": 114194,
-      "name": "Fig Leaf Rag",
-      "url": "https://open.spotify.com/track/1yMqt5habP5GQsll993r1D"
+      "duration_ms": 205773,
+      "name": "Grace and Beauty",
+      "url": "https://open.spotify.com/track/0TtzBFuB0p0bqsucSbwYaJ"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -563,18 +531,34 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Grace And Beauty - Ragtime Classics",
-        "url": "https://open.spotify.com/album/6oqyXzEQqsfzxBS9vW3ngz"
+        "name": "The Complete Piano Works of Scott Joplin",
+        "url": "https://open.spotify.com/album/5FG1LBNhmZgxLwYiEKilXe"
       },
       "artists": [
         {
-          "name": "Scott Kirby",
-          "url": "https://open.spotify.com/artist/3bc3Wj307i1SzUmFopUMLM"
+          "name": "Knocky Parker",
+          "url": "https://open.spotify.com/artist/5GxGw0V1OnTsb5V4DtnxUY"
         }
       ],
-      "duration_ms": 180773,
-      "name": "Evergreen Rag (1915 - James Scott)",
-      "url": "https://open.spotify.com/track/2giECH6eYMtKOEgbPpkttm"
+      "duration_ms": 114194,
+      "name": "Fig Leaf Rag",
+      "url": "https://open.spotify.com/track/1yMqt5habP5GQsll993r1D"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "The St Louis Rag",
+        "url": "https://open.spotify.com/album/2O2dCZZvsoG97DRpiLG2cv"
+      },
+      "artists": [
+        {
+          "name": "Waldham Ragtime Pianos",
+          "url": "https://open.spotify.com/artist/0494lwWXTnzzYxlGM8czb5"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Champagne Rag",
+      "url": "https://open.spotify.com/track/0KjbuADnLw2I0TPg7xCj5f"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -591,6 +575,22 @@
       "duration_ms": 217373,
       "name": "Broadway Rag",
       "url": "https://open.spotify.com/track/70DWx9b7tUII9NTYjN0mvb"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Grace And Beauty - Ragtime Classics",
+        "url": "https://open.spotify.com/album/6oqyXzEQqsfzxBS9vW3ngz"
+      },
+      "artists": [
+        {
+          "name": "Scott Kirby",
+          "url": "https://open.spotify.com/artist/3bc3Wj307i1SzUmFopUMLM"
+        }
+      ],
+      "duration_ms": 180773,
+      "name": "Evergreen Rag (1915 - James Scott)",
+      "url": "https://open.spotify.com/track/2giECH6eYMtKOEgbPpkttm"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -643,22 +643,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Magnetic Rag",
-        "url": "https://open.spotify.com/album/39papysaDcE6CtF8wjvlAF"
-      },
-      "artists": [
-        {
-          "name": "Waldham Ragtime Pianos",
-          "url": "https://open.spotify.com/artist/0494lwWXTnzzYxlGM8czb5"
-        }
-      ],
-      "duration_ms": 164568,
-      "name": "Operatic Rag",
-      "url": "https://open.spotify.com/track/4b67iD9BqlVYldEVvrrFCv"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "James Scott: The Complete Works (Rags, Waltzes & Songs)",
         "url": "https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 203360,
       "name": "Patricia Rag",
       "url": "https://open.spotify.com/track/6A431z6iC8Lk8880VEEEG6"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Magnetic Rag",
+        "url": "https://open.spotify.com/album/39papysaDcE6CtF8wjvlAF"
+      },
+      "artists": [
+        {
+          "name": "Waldham Ragtime Pianos",
+          "url": "https://open.spotify.com/artist/0494lwWXTnzzYxlGM8czb5"
+        }
+      ],
+      "duration_ms": 164568,
+      "name": "Operatic Rag",
+      "url": "https://open.spotify.com/track/4b67iD9BqlVYldEVvrrFCv"
     },
     {
       "added_at": "2020-08-19 17:18:36",

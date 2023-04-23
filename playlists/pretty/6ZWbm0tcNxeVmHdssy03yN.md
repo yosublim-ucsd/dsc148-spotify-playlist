@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 34,929 likes - 98 songs - 4 hr 55 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 34,933 likes - 98 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Big Blind](https://open.spotify.com/track/0WupwBFVtmUNl8LIeOpO76) | [C\. James](https://open.spotify.com/artist/77Y0VaGhTLxtpZ0nLbD2oD) | [Big Blind](https://open.spotify.com/album/2avh7zHEv4TIWBLmRqtmst) | 3:50 |
 | 2 | [Why Did You Leave Me? \(feat\. Miya Folick, Khary & Boyish\)](https://open.spotify.com/track/6czTOyeBnDMzUBLR4rAwTo) | [Young Saab](https://open.spotify.com/artist/3koEtGT6SxcjRgwh6YwDx5), [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ), [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV), [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Why Did You Leave Me? \(feat\. Miya Folick, Khary & Boyish\)](https://open.spotify.com/album/73wrtiSG6KzIi9O7VmzG6c) | 2:42 |
 | 3 | [Vencimiento](https://open.spotify.com/track/1zFeJhyNJOnzm0nS20t3HX) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Sueño Cítrico](https://open.spotify.com/album/0K7TuMwi1SkiZylSx8vXDf) | 3:22 |
-| 4 | [Mazde & Rromarin \- Go](https://open.spotify.com/track/3UqEtIminCKIey56GiLU1q) | [Mazde](https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Go](https://open.spotify.com/album/7GxzsW6CWxxwM2tll9CKm1) | 4:14 |
+| 4 | [Go](https://open.spotify.com/track/3UqEtIminCKIey56GiLU1q) | [Mazde](https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Go](https://open.spotify.com/album/7GxzsW6CWxxwM2tll9CKm1) | 4:14 |
 | 5 | [Work Hard Play Hard](https://open.spotify.com/track/0m9emzzhYFf4SJKkhkf2I6) | [Big Narstie](https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW) | [Work Hard Play Hard](https://open.spotify.com/album/7mzAp5MxMUAX1Mq69Lpfan) | 2:01 |
 | 6 | [Na Leli Yo \(Tamata\)](https://open.spotify.com/track/2Bua9SuqowCJuKqLSFNCGv) | [LUVANGA](https://open.spotify.com/artist/58J4IMKWK2gAYnNvPrHWpy), [Randy Guine](https://open.spotify.com/artist/6VjpsjseyIW6l5H3v4IqXb) | [Na Leli Yo \(Tamata\)](https://open.spotify.com/album/3BryPKLN71JRNj6xvxhrzy) | 2:59 |
 | 7 | [Mali Yami](https://open.spotify.com/track/5b9hS9ppOC4mDMGD6ivrGb) | [Robin Thirdfloor](https://open.spotify.com/artist/24R1N1mF7GaNn2rcL6hNCh) | [Mali Yami](https://open.spotify.com/album/0bCtfLGj60foXbcNDMLwvl) | 2:43 |

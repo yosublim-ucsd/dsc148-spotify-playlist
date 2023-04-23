@@ -1,12 +1,12 @@
 {
   "description": "el amor es <3",
-  "num_followers": 47328,
+  "num_followers": 47405,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI3NzczOCwwMDAwMDAwMGQyODgxODhiNGJjZjk3ZTJjZjJlZTIxNDFiMjA1NzVl",
+  "snapshot_id": "MTY4MDI3NzczOCwwMDAwMDAwMDRkMTdmNjFlMzk1MmM2OWMzZmMyMjdiNDAxNTMzMzg1",
   "tracks": [
     {
       "added_at": "2023-03-31 15:48:58",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-03-31 15:48:58",
       "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 262309,
+      "name": "AMOR DE CINE",
+      "url": "https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS"
+    },
+    {
+      "added_at": "2023-03-31 15:48:58",
+      "album": {
         "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
         "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 185038,
       "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
       "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
-    },
-    {
-      "added_at": "2023-03-31 15:48:58",
-      "album": {
-        "name": "AURORA",
-        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
-      },
-      "artists": [
-        {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 262309,
-      "name": "AMOR DE CINE",
-      "url": "https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS"
     },
     {
       "added_at": "2023-03-31 15:48:58",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-03-31 15:48:58",
       "album": {
-        "name": "Algo Bien",
-        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
-      },
-      "artists": [
-        {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
-        }
-      ],
-      "duration_ms": 209596,
-      "name": "nu love",
-      "url": "https://open.spotify.com/track/0wNcVSZaQVTqSnx8i9FiZy"
-    },
-    {
-      "added_at": "2023-03-31 15:48:58",
-      "album": {
         "name": "L\u00ednea Recta",
         "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 182760,
       "name": "Pasatiempo",
       "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
+    },
+    {
+      "added_at": "2023-03-31 15:48:58",
+      "album": {
+        "name": "Algo Bien",
+        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "duration_ms": 209596,
+      "name": "nu love",
+      "url": "https://open.spotify.com/track/0wNcVSZaQVTqSnx8i9FiZy"
     },
     {
       "added_at": "2023-03-31 15:48:58",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-03-31 15:48:58",
       "album": {
+        "name": "Para Verte",
+        "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 182053,
+      "name": "Para Verte",
+      "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
+    },
+    {
+      "added_at": "2023-03-31 15:48:58",
+      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 200000,
       "name": "Ir por un Caf\u00e9",
       "url": "https://open.spotify.com/track/0oYWgghilCHzscMzQOVONP"
-    },
-    {
-      "added_at": "2023-03-31 15:48:58",
-      "album": {
-        "name": "Para Verte",
-        "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182053,
-      "name": "Para Verte",
-      "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
     },
     {
       "added_at": "2023-03-31 15:48:58",

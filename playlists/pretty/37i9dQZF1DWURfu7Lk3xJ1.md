@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > Focus the mind with these calming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,611 likes - 267 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,750 likes - 267 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 43 | [Tender Touch](https://open.spotify.com/track/76rMrTkMQSvI9YJf4vo3U0) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ), [flowless](https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Tender Touch](https://open.spotify.com/album/3CNmAfSi6YouoZKvPMkFY3) | 2:57 |
 | 44 | [Oxygen](https://open.spotify.com/track/3bDCUHr8qaergwjn3jGKfu) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Oxygen](https://open.spotify.com/album/5laVyV6X8ZCnOC5jRmM6rh) | 2:54 |
 | 45 | [Monday Holidays](https://open.spotify.com/track/267zdUG17CHaVy97wN8hz4) | [Hammocks & Lime](https://open.spotify.com/artist/3sHx5xJC4akld5WXlIis2Y) | [Monday Holidays](https://open.spotify.com/album/3ui5xtOQYUoHxBNyFo65DP) | 2:23 |
-| 46 | [woodland](https://open.spotify.com/track/6i7ilTxpQNtKOe35FI8mVo) | [Home Cook](https://open.spotify.com/artist/5ywJbIqM6CaNHrhfRLKe8O) | [woodland](https://open.spotify.com/album/53Q1LEyODV3XWfCbNP9n1T) | 2:10 |
+| 46 | [woodland](https://open.spotify.com/track/6i7ilTxpQNtKOe35FI8mVo) | [Home Cook](https://open.spotify.com/artist/5ywJbIqM6CaNHrhfRLKe8O), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [woodland](https://open.spotify.com/album/53Q1LEyODV3XWfCbNP9n1T) | 2:10 |
 | 47 | [Moonlit Canvas](https://open.spotify.com/track/1DsqevLhpY01DNmVxiqqAZ) | [Kiko Kaid](https://open.spotify.com/artist/2DgElimlxH8vCyfILVlrqP) | [Moonlit Canvas](https://open.spotify.com/album/1SffCgrJNnq5YP0EKoKA4y) | 2:23 |
 | 48 | [Red Glow](https://open.spotify.com/track/6OUvPDF2E2jKnny4AqZRdv) | [with\_myself](https://open.spotify.com/artist/5Rk5w7ys4oOfR1IuavKOiS) | [Red Glow](https://open.spotify.com/album/7EogPoxdxyhqa2LBLrt4gd) | 2:18 |
 | 49 | [wakeboardin'](https://open.spotify.com/track/7EC8a8JJ0U0zG9yHn0DJM3) | [55 South](https://open.spotify.com/artist/6Fu4AVSoxW8zh9MB1yuotB) | [wakeboardin'](https://open.spotify.com/album/70r8UtploDr5kuDOAaFCkc) | 2:24 |

@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 602027,
+  "num_followers": 602149,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc3MDE1NSwwMDAwMDAwMDM5N2VmNDczNDk1YWEwMzBjNWJhZDcxNjkzNWNiYTAw",
+  "snapshot_id": "MTY3Nzc3MDE1NSwwMDAwMDAwMGFiNmM1Zjc4MjY1MTJjNGQ3YTZjODRkZTBmZjY0ZTBh",
   "tracks": [
     {
       "added_at": "2022-12-21 12:27:58",
@@ -307,18 +307,22 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/4b5q3NmyU42ndkqFPqqv3v"
+        "name": "New Dubby Conquerors",
+        "url": "https://open.spotify.com/album/1OjdfxY5zWzEbxUrGJr1Le"
       },
       "artists": [
         {
-          "name": "Kollegah",
-          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
+          "name": "Seeed",
+          "url": "https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV"
+        },
+        {
+          "name": "Black Kappa",
+          "url": "https://open.spotify.com/artist/3FkwhBl3e9ktuTbKnWOcm6"
         }
       ],
-      "duration_ms": 163506,
-      "name": "Du bist Boss",
-      "url": "https://open.spotify.com/track/32IKJthM7ARKvGBTZCE1Et"
+      "duration_ms": 284906,
+      "name": "Dickes B (feat. Black Kappa)",
+      "url": "https://open.spotify.com/track/4eRmCZWJoEtLl0wy7EJPwd"
     },
     {
       "added_at": "2022-12-21 12:27:58",
@@ -343,22 +347,18 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
-        "name": "New Dubby Conquerors",
-        "url": "https://open.spotify.com/album/1OjdfxY5zWzEbxUrGJr1Le"
+        "name": "King",
+        "url": "https://open.spotify.com/album/4b5q3NmyU42ndkqFPqqv3v"
       },
       "artists": [
         {
-          "name": "Seeed",
-          "url": "https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV"
-        },
-        {
-          "name": "Black Kappa",
-          "url": "https://open.spotify.com/artist/3FkwhBl3e9ktuTbKnWOcm6"
+          "name": "Kollegah",
+          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
         }
       ],
-      "duration_ms": 284906,
-      "name": "Dickes B (feat. Black Kappa)",
-      "url": "https://open.spotify.com/track/4eRmCZWJoEtLl0wy7EJPwd"
+      "duration_ms": 163506,
+      "name": "Du bist Boss",
+      "url": "https://open.spotify.com/track/32IKJthM7ARKvGBTZCE1Et"
     },
     {
       "added_at": "2022-12-21 12:27:58",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
+        "name": "Up2Date XXL",
+        "url": "https://open.spotify.com/album/2NFUNB6V1qSyhQ55FxZigO"
+      },
+      "artists": [
+        {
+          "name": "Samy Deluxe",
+          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
+        }
+      ],
+      "duration_ms": 230546,
+      "name": "Poesie Album",
+      "url": "https://open.spotify.com/track/0T8wIusBn0OpzFm2H6AVNY"
+    },
+    {
+      "added_at": "2022-12-21 12:27:58",
+      "album": {
         "name": "Blockschrift",
         "url": "https://open.spotify.com/album/4Rzr6mHoq3nUppphdbmxwj"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 244026,
       "name": "Prison Break Anthem (Ich glaub an Dich) (feat. Adel Tawil) - Single Version",
       "url": "https://open.spotify.com/track/1ISVPhtR7F0DMluQkhq3mT"
-    },
-    {
-      "added_at": "2022-12-21 12:27:58",
-      "album": {
-        "name": "Up2Date XXL",
-        "url": "https://open.spotify.com/album/2NFUNB6V1qSyhQ55FxZigO"
-      },
-      "artists": [
-        {
-          "name": "Samy Deluxe",
-          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
-        }
-      ],
-      "duration_ms": 230546,
-      "name": "Poesie Album",
-      "url": "https://open.spotify.com/track/0T8wIusBn0OpzFm2H6AVNY"
     },
     {
       "added_at": "2022-12-21 12:27:58",

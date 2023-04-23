@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-479 songs - 1 day 13 hr 14 min
+481 songs - 1 day 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [A Thousand Candles](https://open.spotify.com/track/6FPlA5HOSAyEv7QzfCAVy6) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [A Thousand Candles](https://open.spotify.com/album/49KX5Vrlrqx9q1VmzyBoPa) | 3:35 | 2023-03-10 |  |
 | [A Window to Your Soul](https://open.spotify.com/track/1geBlthEVZzW8RKCBY9eJT) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [New York City Dreamin'](https://open.spotify.com/album/0LFholvP8HQnmJaVTwgQ6U) | 3:40 | 2023-04-14 |  |
 | [Abeyance](https://open.spotify.com/track/6RR3VWktMxEjW95tE4B9H8) | [Caris Hermes](https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0) | [Abeyance](https://open.spotify.com/album/0B2KIoa9OpRydCNaOP5p50) | 6:54 | 2022-08-30 |  |
+| [Affection](https://open.spotify.com/track/62LIjQ7uet2hOT9577QYoq) | [Hunter Paige](https://open.spotify.com/artist/4JNwhTb4YN98anDrWn2kIZ) | [Affection](https://open.spotify.com/album/0xye9fPdkqLWvaW52XXpg5) | 3:26 | 2023-04-20 |  |
 | [Akaishi](https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Akaishi](https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e) | 3:50 | 2022-11-12 |  |
 | [Alfie](https://open.spotify.com/track/6WiOLR12myN6odhdOcwC9P) | [Antonio Zambrini](https://open.spotify.com/artist/6TW82eCj0y0x0l5lyP77RL), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Martin Maretti Andersen](https://open.spotify.com/artist/1pjHY4vNthS2YoK8R4Ty0G) | [Alfie](https://open.spotify.com/album/4ZkR2XXyHE373ZUv8k2CNY) | 8:19 | 2023-03-16 |  |
 | [All the Stars](https://open.spotify.com/track/3lNR1Rzlvew7A6lyPEKDEk) | [Franklin Trio](https://open.spotify.com/artist/6JKD55Y19og9ydmldZwVQw) | [All the Stars](https://open.spotify.com/album/1cEEgLpfKysT4Ey99HziNV) | 5:28 | 2022-11-12 |  |
@@ -55,7 +56,7 @@
 | [Blame It On The Sun](https://open.spotify.com/track/1PlFtAjJ0ZZIOPcIPNqkOh) | [Shelly Berg Trio](https://open.spotify.com/artist/6yN3eFi6kK1kiw3xm12HJ3) | [Blackbird](https://open.spotify.com/album/4XCLREMxloj6a48BlS3Sio) | 6:46 | 2022-02-10 |  |
 | [Blue Eyes Crying In The Rain](https://open.spotify.com/track/4QJ4UWKHSgqPEofSerNqZI) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Blue Eyes Crying In The Rain](https://open.spotify.com/album/7GOaAr9XegEcOqgkL4NqNq) | 4:12 | 2022-12-22 |  |
 | [Blue Hour](https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4) | [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Blue Hour](https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX) | 5:19 | 2023-03-10 |  |
-| [Blue In Green](https://open.spotify.com/track/0xze9SRrm4Ul5LA4N1MtcE) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [Take This](https://open.spotify.com/album/4RI8UIrsKK3pODBLuYJo9r) | 2:59 | 2022-09-29 |  |
+| [Blue In Green](https://open.spotify.com/track/0xze9SRrm4Ul5LA4N1MtcE) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [Take This](https://open.spotify.com/album/4RI8UIrsKK3pODBLuYJo9r) | 2:59 | 2022-09-29 | 2023-04-23 |
 | [Blue In Green](https://open.spotify.com/track/4B4B5pOvFvjYYNqulRp5rR) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [Take This](https://open.spotify.com/album/2jZzBodrUR86EwaUNSBuqv) | 2:59 | 2022-02-10 | 2022-07-28 |
 | [Blue Light](https://open.spotify.com/track/1S1NTdOasN7FQBPS5FSDHa) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Early Morning Thoughts](https://open.spotify.com/album/3GlIiRzG6zVuAU683UpagO) | 4:54 | 2022-11-17 |  |
 | [Blue Moon](https://open.spotify.com/track/5HP9LwDRT5FGOokrN1HnZ3) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Blue Moon](https://open.spotify.com/album/3BOJmn1f6TkOB1hNCvCnth) | 3:18 | 2023-01-19 |  |
@@ -115,7 +116,7 @@
 | [Elise](https://open.spotify.com/track/7m8rFWJzA6VJQnLVqiWvGL) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Elise](https://open.spotify.com/album/5TdOcjjm9BUdSOVLzGIWV3) | 2:40 | 2022-11-12 |  |
 | [Ellegatan](https://open.spotify.com/track/0iFgDHjjfI0BIH6IdFyWmE) | [Emil Ingmar](https://open.spotify.com/artist/7p0xXqI5wsH4tLwPIEuZ5E) | [Karlavagnen](https://open.spotify.com/album/6RiKhHeJMrZVjggdWMdl2g) | 5:52 | 2022-05-25 |  |
 | [Ellipse](https://open.spotify.com/track/5kI32ifKfLTC0RuYZvsq2a) | [Leeluck & Co](https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL) | [Ellipse](https://open.spotify.com/album/4rkPj0jRJcL8S6pveZIvPu) | 2:35 | 2023-03-10 |  |
-| [Embraceable You](https://open.spotify.com/track/0BJL88oEd6rgUyjD9T3Sz3) | [Atzko Kohashi](https://open.spotify.com/artist/663fDRhznKHDmaCT2lIuro), [Frans Van Der Hoeven](https://open.spotify.com/artist/43UY4tYgs9ksxkJxyowUTe), [Sebastiaan Kaptein](https://open.spotify.com/artist/2pJ8MtliDompiMC7eTKSI8) | [Lujon](https://open.spotify.com/album/6iL7O7Ks30wMWw7joi11FN) | 3:54 | 2022-03-31 |  |
+| [Embraceable You](https://open.spotify.com/track/0BJL88oEd6rgUyjD9T3Sz3) | [Atzko Kohashi](https://open.spotify.com/artist/663fDRhznKHDmaCT2lIuro), [Frans Van Der Hoeven](https://open.spotify.com/artist/43UY4tYgs9ksxkJxyowUTe), [Sebastiaan Kaptein](https://open.spotify.com/artist/2pJ8MtliDompiMC7eTKSI8) | [Lujon](https://open.spotify.com/album/6iL7O7Ks30wMWw7joi11FN) | 3:54 | 2022-03-31 | 2023-04-23 |
 | [Equilibrio](https://open.spotify.com/track/561vqucx8o1kmktdzuScCJ) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [Equilibrio](https://open.spotify.com/album/4IJ2s5qJmU3XBSvxOWOPSF) | 2:31 | 2022-12-01 |  |
 | [Evergreen](https://open.spotify.com/track/7Lz3Iy3sUv0fNq0crfhDGA) | [Justin Salisbury](https://open.spotify.com/artist/0wCRGycyYyEg4vWwoi11SS), [Max Ridley](https://open.spotify.com/artist/0d6y1Xs0QqCMG2hg2lYnkC), [Dan Nadeau](https://open.spotify.com/artist/4S9by6hwhiUvkmHNTG5FXY) | [Evergreen](https://open.spotify.com/album/74bdbf4mh1BjApMO0quFNT) | 6:53 | 2022-04-14 |  |
 | [Everybody's Got to Learn Sometime](https://open.spotify.com/track/5rdarWlLPfZvPafnUVj0AK) | [Moulin Roty Trio](https://open.spotify.com/artist/1I1PN78a9Sv7RiGsbLSnQl) | [Everybody's Got to Learn Sometime](https://open.spotify.com/album/15FCQHfWCgNgU6qXLvamP9) | 3:48 | 2023-03-23 |  |
@@ -355,6 +356,7 @@
 | [Signs in the Wind](https://open.spotify.com/track/3qSBy2qrGqxiZ0dtikcgk1) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [Signs in the Wind](https://open.spotify.com/album/4ZsfPweycVfmBNlgJh8NgP) | 2:16 | 2022-11-12 |  |
 | [Silent Dreams](https://open.spotify.com/track/6Io5TW0gliTyIZIssh5vS5) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Silent Dreams](https://open.spotify.com/album/0ZURk7Qh9lzCPyxLKT3DVa) | 4:08 | 2022-11-12 |  |
 | [Simple Things](https://open.spotify.com/track/4oOkC6iNHVNtJJWHD8fqiL) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Dave’s Waltz](https://open.spotify.com/album/2wZOolV02qRIJjOI71L8F1) | 3:06 | 2022-11-12 |  |
+| [Sleepless in the City](https://open.spotify.com/track/76ZXW9ifRtf4Ds4r3Dg22N) | [The Belleville Band](https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW) | [Sleepless in the City](https://open.spotify.com/album/7qRSYJd1QNwxD1XBbGu7eQ) | 3:37 | 2023-04-20 |  |
 | [Slow Boat to China](https://open.spotify.com/track/49ZabI6v41balII6X6u3BM) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Time For Ballads \- The Studio Sessions](https://open.spotify.com/album/5UunarohrbI9z28uUYyw6q) | 4:08 | 2022-06-30 |  |
 | [Smile](https://open.spotify.com/track/7xLZGhRR2jTUtaPewAmacY) | [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80) | [My New Old Friend](https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr) | 5:33 | 2022-02-10 |  |
 | [Smoke Gets In Your Eyes \- Live](https://open.spotify.com/track/3FwzNfCgyYSIafAG9QGvRZ) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Tribute](https://open.spotify.com/album/2AUplxqaiqTaDpY9QsCgPx) | 8:26 | 2022-02-10 |  |

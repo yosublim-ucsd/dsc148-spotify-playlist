@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/2LFtKHZpmGiB0u9KIHL7GY"
+      },
+      "artists": [
+        {
+          "name": "Firebeatz",
+          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145312,
+      "name": "California",
+      "url": "https://open.spotify.com/track/2tP1TRZs1sMhnS0WA3xVdo"
+    },
+    {
+      "album": {
         "name": "Enigmatic Society",
         "url": "https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe"
       },
@@ -1110,7 +1128,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 260329,
       "name": "Deadbolt",
       "url": "https://open.spotify.com/track/0LFIpvc8Fj1QyS6ZnFC4Yx"
@@ -2051,6 +2069,32 @@
     },
     {
       "album": {
+        "name": "Hill Billy",
+        "url": "https://open.spotify.com/album/6GeOVU4wnonE5clZuoqQGC"
+      },
+      "artists": [
+        {
+          "name": "Bubba Sparxxx",
+          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
+        },
+        {
+          "name": "Dusty Leigh",
+          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
+        },
+        {
+          "name": "Jcrews",
+          "url": "https://open.spotify.com/artist/5y2AgdbbFUpAXM8T7o8Fvb"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215593,
+      "name": "Hill Billy",
+      "url": "https://open.spotify.com/track/6cLtxcSqxHInbrgT1vobQT"
+    },
+    {
+      "album": {
         "name": "So Much (For) Stardust",
         "url": "https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1"
       },
@@ -2790,7 +2834,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 203388,
       "name": "MAYA",
       "url": "https://open.spotify.com/track/5ieDiSzEdwmNW9qrz8UVqm"

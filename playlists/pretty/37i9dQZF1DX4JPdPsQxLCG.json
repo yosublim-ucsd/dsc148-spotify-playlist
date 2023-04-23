@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes to soundtrack your weekend. Cover: The Tragically Hip",
-  "num_followers": 49769,
+  "num_followers": 49773,
   "original_name": "Canadian Weekend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMDIxNDk4ZTYxYWNhN2QxNmMwMzJiZDhiZTZkODcxNWE1",
+  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMDg3YzBjYTQ3OGY1OTRjNzFkZjE5ZWJmMTM4NGY3N2E0",
   "tracks": [
     {
       "added_at": "2022-09-13 21:55:44",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "The Collection (Standard Edition)",
-        "url": "https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 228573,
-      "name": "Ironic",
-      "url": "https://open.spotify.com/track/29YBihzQOmat0U74k4ukdx"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "You Can't Stop The Bum Rush",
         "url": "https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 265533,
       "name": "Steal My Sunshine",
       "url": "https://open.spotify.com/track/4agp6oHofabdUedr0B1krj"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "The Collection (Standard Edition)",
+        "url": "https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 228573,
+      "name": "Ironic",
+      "url": "https://open.spotify.com/track/29YBihzQOmat0U74k4ukdx"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn"
-      },
-      "artists": [
-        {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
-        }
-      ],
-      "duration_ms": 305413,
-      "name": "Comin' Home",
-      "url": "https://open.spotify.com/track/0SwUDplbBp66rM5sMC0eD7"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Clumsy",
         "url": "https://open.spotify.com/album/4mWNf9f6fkznoMKchh2u1M"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 255400,
       "name": "Superman's Dead",
       "url": "https://open.spotify.com/track/5AqdEGne9bWAMPTI5UUmQY"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "duration_ms": 305413,
+      "name": "Comin' Home",
+      "url": "https://open.spotify.com/track/0SwUDplbBp66rM5sMC0eD7"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -791,6 +791,22 @@
       "duration_ms": 191266,
       "name": "I Hear You Calling",
       "url": "https://open.spotify.com/track/7KsLCoGgjP1tsGPJuvi2SX"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/6jno7QiWnaOHtMiZctBJBd"
+      },
+      "artists": [
+        {
+          "name": "Our Lady Peace",
+          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "Innocent",
+      "url": "https://open.spotify.com/track/5mFyCVEII6mp5YPPYQfTck"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -875,22 +891,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/6jno7QiWnaOHtMiZctBJBd"
-      },
-      "artists": [
-        {
-          "name": "Our Lady Peace",
-          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "Innocent",
-      "url": "https://open.spotify.com/track/5mFyCVEII6mp5YPPYQfTck"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "In Loving Memory Of - 20th Anniversary Special Edition",
         "url": "https://open.spotify.com/album/6Agfrk7oe0H7WsXauqMPR6"
       },
@@ -923,18 +923,18 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Boy In The Box",
-        "url": "https://open.spotify.com/album/5WrZRRqfnVPr9EbNSqG0cN"
+        "name": "Naveed",
+        "url": "https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS"
       },
       "artists": [
         {
-          "name": "Corey Hart",
-          "url": "https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0"
+          "name": "Our Lady Peace",
+          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
         }
       ],
-      "duration_ms": 295000,
-      "name": "Never Surrender",
-      "url": "https://open.spotify.com/track/5U5p472hgeXUKvh0d8RL4K"
+      "duration_ms": 244040,
+      "name": "Starseed",
+      "url": "https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -955,6 +955,22 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
+        "name": "Boy In The Box",
+        "url": "https://open.spotify.com/album/5WrZRRqfnVPr9EbNSqG0cN"
+      },
+      "artists": [
+        {
+          "name": "Corey Hart",
+          "url": "https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0"
+        }
+      ],
+      "duration_ms": 295000,
+      "name": "Never Surrender",
+      "url": "https://open.spotify.com/track/5U5p472hgeXUKvh0d8RL4K"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
         "name": "The Thin Red Line (Deluxe)",
         "url": "https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 248200,
       "name": "Don't Forget Me (When I'm Gone)",
       "url": "https://open.spotify.com/track/2G0ioyDyvIT1hu71VePzOL"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
-        "name": "Nature Of The Beast",
-        "url": "https://open.spotify.com/album/2jdTTnlMRfq0cWhz16FMD6"
-      },
-      "artists": [
-        {
-          "name": "April Wine",
-          "url": "https://open.spotify.com/artist/1JHzh1ETQTMoFb2CgncnTL"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Just Between You And Me",
-      "url": "https://open.spotify.com/track/5fsU7AtSTp0zySUf46hwbt"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
+        "name": "Nature Of The Beast",
+        "url": "https://open.spotify.com/album/2jdTTnlMRfq0cWhz16FMD6"
+      },
+      "artists": [
+        {
+          "name": "April Wine",
+          "url": "https://open.spotify.com/artist/1JHzh1ETQTMoFb2CgncnTL"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Just Between You And Me",
+      "url": "https://open.spotify.com/track/5fsU7AtSTp0zySUf46hwbt"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
         "name": "Morning Report (Deluxe)",
         "url": "https://open.spotify.com/album/2qzcSOkX6xYvlC2RPAqboQ"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 222720,
       "name": "Knocking At The Door",
       "url": "https://open.spotify.com/track/01afuV689RNz1MKDhGuwWG"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
-        "name": "Naveed",
-        "url": "https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS"
-      },
-      "artists": [
-        {
-          "name": "Our Lady Peace",
-          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
-        }
-      ],
-      "duration_ms": 244040,
-      "name": "Starseed",
-      "url": "https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70"
     },
     {
       "added_at": "2022-09-13 21:55:44",

@@ -4,7 +4,7 @@
 
 > New music from popular Hindi artists\. Cover\- Tulsi Kumar
 
-490 songs - 1 day 4 hr 14 min
+491 songs - 1 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,7 +353,8 @@
 | [Payal](https://open.spotify.com/track/5CSoKVWkEDOnpS3Gl8ZmN1) | [Shivam Grover](https://open.spotify.com/artist/7J7OU0Z2CbX61VuOiV6NHL), [Akriti Kakkar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW) | [Payal](https://open.spotify.com/album/3eFDlUm2xapYjxy0Qsnnew) | 3:24 | 2022-05-27 | 2022-06-11 |
 | [Pehchaan](https://open.spotify.com/track/3ff9s6bbI3Vsv5aWAf9WNe) | [Aseem](https://open.spotify.com/artist/2Z5Fwohe32YFEjPpuiSAo1) | [Pehchaan](https://open.spotify.com/album/1ky93SkZZcf5Hm64zq0ZI9) | 3:25 | 2022-10-21 | 2022-12-10 |
 | [Pehli Baar Mile](https://open.spotify.com/track/3CXlvNO3LSurkx7cNMOXRj) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Pehli Baar Mile](https://open.spotify.com/album/04Lg0MSC0JlWAx9DMWmyt6) | 3:23 | 2022-12-16 | 2023-02-11 |
-| [Pehli Nazar Ko Salaam](https://open.spotify.com/track/5UKpcqOJLU1URmoXvP6BWL) | [Aishwarya Majmudar](https://open.spotify.com/artist/7MAlFea251zaprQFjwvYaL) | [Pehli Nazar Ko Salaam](https://open.spotify.com/album/4erhva8Lx1OuDZBm2CfbRg) | 3:19 | 2023-04-21 |  |
+| [Pehli Nazar Ko Salaam](https://open.spotify.com/track/3Tx0ZYnww0VfXx2DDYpjvQ) | [Aishwarya Majmudar](https://open.spotify.com/artist/7MAlFea251zaprQFjwvYaL) | [Pehli Nazar Ko Salaam \- Single](https://open.spotify.com/album/2QmUrLXgIyGowOsRhqJP2P) | 3:19 | 2023-04-21 |  |
+| [Pehli Nazar Ko Salaam](https://open.spotify.com/track/5UKpcqOJLU1URmoXvP6BWL) | [Aishwarya Majmudar](https://open.spotify.com/artist/7MAlFea251zaprQFjwvYaL) | [Pehli Nazar Ko Salaam](https://open.spotify.com/album/4erhva8Lx1OuDZBm2CfbRg) | 3:19 | 2023-04-21 | 2023-04-23 |
 | [Perfy](https://open.spotify.com/track/4RMRllyjS0K5hCOPRJmQDs) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Perfy](https://open.spotify.com/album/2LbFWGS7q1oV7zTUOQ5ZOB) | 3:03 | 2023-03-17 |  |
 | [Phir Bekhabar](https://open.spotify.com/track/5pUrlEGxrzuC2PzjcqBFRA) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Phir Bekhabar](https://open.spotify.com/album/0cGn21RY35wMplh6OB7nRL) | 3:17 | 2022-09-16 | 2022-10-15 |
 | [Poori Tarah Se](https://open.spotify.com/track/5vE3s0cujAgnFmfbMf8xfh) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ), [Chirag Soni](https://open.spotify.com/artist/3UMC3IINcoIuI0GeNb6Jm3) | [Poori Tarah Se](https://open.spotify.com/album/2euZcVgfeai6fDMUQNmbog) | 3:14 | 2023-03-03 | 2023-04-22 |

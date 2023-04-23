@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyZ45Ayi9S.md) - [plain]
 
 > Our editorial picks of this year's best indie songs\. \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,616 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,899 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

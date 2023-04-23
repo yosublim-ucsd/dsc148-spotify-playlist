@@ -1,12 +1,12 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 59056,
+  "num_followers": 59076,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMzc0OTEwNSwwMDAwMDAwMDBlYzgxNGY1NmZlNGI5YWNiZTczYzRmOWYwOWNmMmZl",
+  "snapshot_id": "MTYyMzc0OTEwNSwwMDAwMDAwMGUwZjNhY2MwZjdmMDZhNzM3NjlmM2U1MDMwYjM4NGQ3",
   "tracks": [
     {
       "added_at": "2021-06-15 09:25:05",
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Johnossi",
-        "url": "https://open.spotify.com/album/79mwxuh2n3TUVp0lGfSoec"
-      },
-      "artists": [
-        {
-          "name": "Johnossi",
-          "url": "https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT"
-        }
-      ],
-      "duration_ms": 155373,
-      "name": "Man Must Dance",
-      "url": "https://open.spotify.com/track/7FxmsmphMyy09gdqGHeqFC"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "Vapen & ammunition",
         "url": "https://open.spotify.com/album/2DGzTm2R2v3G0IjnxXtP3Y"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 226773,
       "name": "Dom andra",
       "url": "https://open.spotify.com/track/1yU51sZHtxvZHlni32lgxM"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "Johnossi",
+        "url": "https://open.spotify.com/album/79mwxuh2n3TUVp0lGfSoec"
+      },
+      "artists": [
+        {
+          "name": "Johnossi",
+          "url": "https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT"
+        }
+      ],
+      "duration_ms": 155373,
+      "name": "Man Must Dance",
+      "url": "https://open.spotify.com/track/7FxmsmphMyy09gdqGHeqFC"
     },
     {
       "added_at": "2021-06-15 09:25:05",

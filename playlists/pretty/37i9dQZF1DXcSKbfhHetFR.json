@@ -1,12 +1,12 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 8187,
+  "num_followers": 8191,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMDk2NmZkZTg2ZjNkYjMyNmRkN2JhMGE2ZGU0MzRiZDlh",
+  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMGQ5ODgwODQ3NjIzYzgxMjcyMjcyNWY0YjZkYTFiMDEz",
   "tracks": [
     {
       "added_at": "2020-06-23 14:47:30",
@@ -511,22 +511,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Le temps au point mort",
-        "url": "https://open.spotify.com/album/3Gl5kyHaBRlOtbkbZdrDfU"
-      },
-      "artists": [
-        {
-          "name": "Galaxie",
-          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "Big Bang",
-      "url": "https://open.spotify.com/track/0c8BkL4udr8Q3UN2rHLkUS"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Minimiser les d\u00e9g\u00e2ts",
         "url": "https://open.spotify.com/album/6WVpajKNQ7RdgDaGl6tTGU"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 179186,
       "name": "Sa craque au soleil",
       "url": "https://open.spotify.com/track/1eYkQO5OnEWa2tufpnKX92"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Le temps au point mort",
+        "url": "https://open.spotify.com/album/3Gl5kyHaBRlOtbkbZdrDfU"
+      },
+      "artists": [
+        {
+          "name": "Galaxie",
+          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "Big Bang",
+      "url": "https://open.spotify.com/track/0c8BkL4udr8Q3UN2rHLkUS"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -671,6 +671,22 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
+        "name": "Le Nombre",
+        "url": "https://open.spotify.com/album/4oyUIUYWRmoCLq59RneHuG"
+      },
+      "artists": [
+        {
+          "name": "Le Nombre",
+          "url": "https://open.spotify.com/artist/6FkEbRC3V3rjxNLFN5uG1d"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Laissez venir \u00e0 moi les grandes brunes",
+      "url": "https://open.spotify.com/track/3idVQRL9T87FEE7ryZxNPB"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
         "name": "Coma",
         "url": "https://open.spotify.com/album/1UZHRqAz33EWEkCBcUh1QQ"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 173626,
       "name": "Thermoplastique",
       "url": "https://open.spotify.com/track/4sMBt4g8O2IYQgZrrI0zjM"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
-        "name": "Le Nombre",
-        "url": "https://open.spotify.com/album/4oyUIUYWRmoCLq59RneHuG"
-      },
-      "artists": [
-        {
-          "name": "Le Nombre",
-          "url": "https://open.spotify.com/artist/6FkEbRC3V3rjxNLFN5uG1d"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Laissez venir \u00e0 moi les grandes brunes",
-      "url": "https://open.spotify.com/track/3idVQRL9T87FEE7ryZxNPB"
     },
     {
       "added_at": "2020-06-23 14:47:30",

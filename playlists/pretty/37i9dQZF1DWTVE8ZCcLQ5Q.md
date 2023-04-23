@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,906 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,894 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 29 | [EITA MENINA](https://open.spotify.com/track/2ItOwqddXxLZnOmQmlEbda) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [EITA MENINA](https://open.spotify.com/album/4NIEzSSeFxaLxa66ENiqaE) | 3:07 |
 | 30 | [Tanto Faz](https://open.spotify.com/track/6SsjwrTV7bn8eeibnMftZp) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [FÚRIA](https://open.spotify.com/album/16F4OuXRl7D54HEiwErbOQ) | 2:57 |
 | 31 | [Diretoria](https://open.spotify.com/track/64Clca1w9XxHsPstad5aCX) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [Diretoria](https://open.spotify.com/album/062ycDqIDtT21UFyKlHDvO) | 3:26 |
-| 32 | [Meu Grande Amor](https://open.spotify.com/track/7uOsXEncaOxLBeq0rvU4oJ) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [BXD IN JAZZ](https://open.spotify.com/album/7Kgm5bcggxWaBRBNFs9ItX) | 2:53 |
-| 33 | [Farol](https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4) | [Maria Luiza Jobim](https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM), [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Farol](https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z) | 2:25 |
+| 32 | [Farol](https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4) | [Maria Luiza Jobim](https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM), [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Farol](https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z) | 2:25 |
+| 33 | [Meu Grande Amor](https://open.spotify.com/track/7uOsXEncaOxLBeq0rvU4oJ) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [BXD IN JAZZ](https://open.spotify.com/album/7Kgm5bcggxWaBRBNFs9ItX) | 2:53 |
 | 34 | [Te Deixo Crazy](https://open.spotify.com/track/7xyvvzTC0cG4wqJNIDuiNb) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R) | [Te Deixo Crazy](https://open.spotify.com/album/6GhQsV31Iz1edjKeAD6fan) | 2:44 |
 | 35 | [Potranca](https://open.spotify.com/track/0l1jN8AUIHnTJYTbTh5kX9) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2), [Theo Zagrae](https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Gostosa Posturada](https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF) | 3:36 |
 | 36 | [Dia de Baile](https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU) | [Rock Danger, Vol\. 1](https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu) | 2:58 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 59 | [No Stress](https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [ZAM ZAM](https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6) | 3:32 |
 | 60 | [Devagarin](https://open.spotify.com/track/4ha4wjgFHh4FvNZcFaEr5I) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Devagarin](https://open.spotify.com/album/5BnsHrRvr8XpqMz92LLx4F) | 2:34 |
 
-Snapshot ID: `MTY3NTk5ODAwMCwwMDAwMDAwMDU0YzlmYzEzZjE0ODJhNTNiZTM1OTFiMzRjNDM4ZWFh`
+Snapshot ID: `MTY3NTk5ODAwMCwwMDAwMDAwMGE0ZjZiZjU5Zjc3NThhODhiZmIyYTI3ZDYwYThkMWZh`

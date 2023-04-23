@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Camila Moreno
 
-340 songs - 20 hr 39 min
+341 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Hoy Soñé](https://open.spotify.com/track/1Fc1OHnVMXVhkJTgAZtKM9) | [I.O.](https://open.spotify.com/artist/0W7i4dR3G2zB88NtkMkVgf), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Altar](https://open.spotify.com/album/5Of6u6hOh4T6cSfvPss2A1) | 4:04 | 2023-03-10 |  |
 | [Huracán](https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO) | [Andres](https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f) | [Huracán](https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf) | 2:41 | 2022-08-26 | 2023-01-28 |
 | [Huracán](https://open.spotify.com/track/0JSxdsH8gbHfSeSBWln1Sv) | [Yael Meyer](https://open.spotify.com/artist/5xCqJdB2V3ZNfuxhiAJi2r) | [Huracán](https://open.spotify.com/album/6ihDqgMIIGgJSzrim0EVll) | 3:41 | 2022-04-15 | 2022-07-26 |
-| [I Luz](https://open.spotify.com/track/3ZqI4NGk7NNZcEcvI0kNeX) | [Como Asesinar a Felipes](https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds) | [I Luz](https://open.spotify.com/album/6a72dv0VF00ebiZXWn7fJd) | 4:42 | 2022-06-03 |  |
+| [I Luz](https://open.spotify.com/track/3ZqI4NGk7NNZcEcvI0kNeX) | [Como Asesinar a Felipes](https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds) | [I Luz](https://open.spotify.com/album/6a72dv0VF00ebiZXWn7fJd) | 4:42 | 2022-06-03 | 2023-04-23 |
 | [Imantado](https://open.spotify.com/track/27zFkDvAz42uVdvPpOvRWx) | [También Andrés](https://open.spotify.com/artist/6RTgoShg6Qjg9dGQ5rKm25) | [Imantado](https://open.spotify.com/album/6HEjFye6BkQvq5B2Y484Kb) | 3:39 | 2022-04-15 | 2022-07-24 |
 | [Instintos](https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Instintos](https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES) | 3:28 | 2022-12-09 |  |
 | [intento 2: piénsalo bien](https://open.spotify.com/track/2aWrpGxJbltjwBK1gloSPn) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [intento 2: piénsalo bien](https://open.spotify.com/album/0Cb6g0K5lKTdOspMOOBW47) | 3:44 | 2022-12-02 |  |
@@ -248,6 +248,7 @@
 | [Profundidad del Mar](https://open.spotify.com/track/6fM8NeVzpDJTl6AmMq28Nu) | [Fran Quintero](https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2) | [NAVEGANDO](https://open.spotify.com/album/6Ta9nz4E0FD8udyyCXz2KN) | 3:08 | 2022-06-10 | 2022-07-29 |
 | [Prohibido](https://open.spotify.com/track/7lxDfpa4rg908BuGv6sMQc) | [Futuralgia](https://open.spotify.com/artist/7E8546nHdwMid6Z7IUVHVW) | [Prohibido](https://open.spotify.com/album/4yC80pHcbHTa4FkPsyIxfu) | 3:31 | 2022-04-15 | 2022-07-27 |
 | [Provenza](https://open.spotify.com/track/74EyCgYnEH3ARfgpLh0Cdq) | [Glup!](https://open.spotify.com/artist/6BrWnoM0y0Viv3DVEcT8GE) | [Provenza](https://open.spotify.com/album/67ihyeAL1wwakz5tBP2rLo) | 3:49 | 2022-12-09 | 2023-02-25 |
+| [Que no se corte la cadena](https://open.spotify.com/track/5j2f1ZYDqLjUsePKpokkkg) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Que no se corte la cadena](https://open.spotify.com/album/70PkbVHGZ1OLMRTlSQ6aYu) | 2:36 | 2023-04-21 |  |
 | [Querernos Bien](https://open.spotify.com/track/69kefiOj7Lk6RZa0BxriD2) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Querernos Bien](https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2) | 3:03 | 2022-04-15 | 2022-12-10 |
 | [Quería Olvidarte](https://open.spotify.com/track/41nuVhzxlAevKkhjthnpU5) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Quería Olvidarte](https://open.spotify.com/album/1epND6FkZBn8fueQXMX32w) | 2:46 | 2023-03-10 |  |
 | [Quisiera](https://open.spotify.com/track/25xiGoun0fxPlSy38quYPp) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Quisiera](https://open.spotify.com/album/6Ns3YZrjvWpC3WMktnzeGE) | 3:52 | 2022-09-02 | 2023-01-08 |

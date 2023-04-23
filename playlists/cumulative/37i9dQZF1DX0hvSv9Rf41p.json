@@ -1023,6 +1023,32 @@
     },
     {
       "album": {
+        "name": "Blue In The Face",
+        "url": "https://open.spotify.com/album/6UqdnruIxTdntsqhL9bSfW"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Shadient",
+          "url": "https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd"
+        },
+        {
+          "name": "fknsyd",
+          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166448,
+      "name": "Blue In The Face",
+      "url": "https://open.spotify.com/track/5z8uM7nBjl7kHGiYHvm94Z"
+    },
+    {
+      "album": {
         "name": "Body On Me",
         "url": "https://open.spotify.com/album/0HeITVUmIRPXmdbmm5YJa7"
       },
@@ -1278,7 +1304,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 166666,
       "name": "Bury Me in Leather",
       "url": "https://open.spotify.com/track/1UOKmBLABOg9weXxIYM6oB"
@@ -4814,7 +4840,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 179310,
       "name": "LEFT TO RIGHT - Subsonic Remix",
       "url": "https://open.spotify.com/track/2GAsRV6TNEFPosAHtbIaxo"
@@ -5354,6 +5380,24 @@
       "duration_ms": 195216,
       "name": "Metaverse",
       "url": "https://open.spotify.com/track/3R1pvh7gQk6BVVKkJ68CLK"
+    },
+    {
+      "album": {
+        "name": "Microworlds",
+        "url": "https://open.spotify.com/album/7mBang8rS6G8jlpvDWOM5X"
+      },
+      "artists": [
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Microworlds",
+      "url": "https://open.spotify.com/track/5sDu7SdtfxXRcqWQd40eoi"
     },
     {
       "album": {
@@ -6021,6 +6065,28 @@
     },
     {
       "album": {
+        "name": "OH LAWD",
+        "url": "https://open.spotify.com/album/4qKjQ6GfhuN7WRxOHdB7U4"
+      },
+      "artists": [
+        {
+          "name": "Flosstradamus",
+          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
+        },
+        {
+          "name": "Lemay",
+          "url": "https://open.spotify.com/artist/7zySlNgrPI1dWfMBIjTIKD"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268800,
+      "name": "OH LAWD",
+      "url": "https://open.spotify.com/track/7lKkzOnRvY7OeLSFWBwlii"
+    },
+    {
+      "album": {
         "name": "Old School",
         "url": "https://open.spotify.com/album/5FPyXKsRMhaRLFNSvLA5jk"
       },
@@ -6076,7 +6142,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 189737,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/5mfwPQqeoP8jzGJCHwM3iF"
@@ -6644,6 +6710,24 @@
       "duration_ms": 247500,
       "name": "Prisoner",
       "url": "https://open.spotify.com/track/2UqgXOkQwRlogHsUXSRUux"
+    },
+    {
+      "album": {
+        "name": "Profit",
+        "url": "https://open.spotify.com/album/2aFVyFx3Phgvkt6KhnGRuV"
+      },
+      "artists": [
+        {
+          "name": "Ivy Lab",
+          "url": "https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155330,
+      "name": "Profit",
+      "url": "https://open.spotify.com/track/5qN1hpuWczrJHZmxHnZDFM"
     },
     {
       "album": {
@@ -7716,7 +7800,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 200571,
       "name": "Sherwood Forest",
       "url": "https://open.spotify.com/track/4KeXSkSrAKPARxAAZWLfLk"
@@ -9788,7 +9872,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 210750,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/0QBfmlcTMQViDm378q5Px8"
@@ -9982,6 +10066,28 @@
       "duration_ms": 158351,
       "name": "You Got It",
       "url": "https://open.spotify.com/track/3bXWu4wjShtls0NJT59YrE"
+    },
+    {
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/2bBRHynve4mj9EyncJmTie"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        },
+        {
+          "name": "Roniit",
+          "url": "https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189230,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/5xmwDU6b2jc80VmbgtpijM"
     },
     {
       "album": {

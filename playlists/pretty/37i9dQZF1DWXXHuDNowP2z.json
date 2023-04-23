@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A levantar polvadera!",
-  "num_followers": 82733,
+  "num_followers": 82925,
   "original_name": "Cumbias, Huapangos & Zapateados",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjEwMzc5MiwwMDAwMDAwMDJlZTRmNmQ3NzQ4NTliNjJkNzVhMzlkODA4NmZiNDgw",
+  "snapshot_id": "MTY4MjEwMzc5MiwwMDAwMDAwMGJlMzE0OTJhY2VmYjAyYjkyNDY5NjZiMzMxOWUzNmIx",
   "tracks": [
     {
       "added_at": "2023-04-21 19:03:12",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "El Condor Pasa",
-        "url": "https://open.spotify.com/album/12y6dBQ2QCgP47vLw2sJjx"
-      },
-      "artists": [
-        {
-          "name": "Contrabandistas de San Luis",
-          "url": "https://open.spotify.com/artist/36irJXhStqR2sPCOHed3Tb"
-        }
-      ],
-      "duration_ms": 208927,
-      "name": "El Condor Pasa",
-      "url": "https://open.spotify.com/track/00mUyQ38B8S51x3cQhU5ia"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
         "name": "Mi Trokita Cumbia",
         "url": "https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 134785,
       "name": "Mi Trokita Cumbia",
       "url": "https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
+        "name": "El Condor Pasa",
+        "url": "https://open.spotify.com/album/12y6dBQ2QCgP47vLw2sJjx"
+      },
+      "artists": [
+        {
+          "name": "Contrabandistas de San Luis",
+          "url": "https://open.spotify.com/artist/36irJXhStqR2sPCOHed3Tb"
+        }
+      ],
+      "duration_ms": 208927,
+      "name": "El Condor Pasa",
+      "url": "https://open.spotify.com/track/00mUyQ38B8S51x3cQhU5ia"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "Palabras Tristes",
-        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 190813,
-      "name": "Mary Lee",
-      "url": "https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
         "name": "Fuera De Control",
         "url": "https://open.spotify.com/album/4x89VPVDzHs5iooMxojyDw"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 194826,
       "name": "Cumbia Del Sol",
       "url": "https://open.spotify.com/track/10jdyLaybUVbi8AlJf7nYF"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
+        "name": "Palabras Tristes",
+        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Mary Lee",
+      "url": "https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "Amantes y Amigos",
-        "url": "https://open.spotify.com/album/0tWAvCVdsuADUPRtq5ns5d"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Rio Grande",
-          "url": "https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG"
-        }
-      ],
-      "duration_ms": 205355,
-      "name": "Rumor de Cumbia",
-      "url": "https://open.spotify.com/track/487vHBsyukrh7NwNfYP8ed"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
         "name": "El Sube Y Baja",
         "url": "https://open.spotify.com/album/5JRg9iBzGz8l7c8z1u6m3C"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 200213,
       "name": "Pasito Duranguense",
       "url": "https://open.spotify.com/track/3rHsX3TLPYixr7eGzRlZqI"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
+        "name": "Amantes y Amigos",
+        "url": "https://open.spotify.com/album/0tWAvCVdsuADUPRtq5ns5d"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Rio Grande",
+          "url": "https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG"
+        }
+      ],
+      "duration_ms": 205355,
+      "name": "Rumor de Cumbia",
+      "url": "https://open.spotify.com/track/487vHBsyukrh7NwNfYP8ed"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1327,8 +1327,8 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "Pacto De Sangre",
-        "url": "https://open.spotify.com/album/7GAOrdfIZhaU3G7vPZg1dn"
+        "name": "Incansables",
+        "url": "https://open.spotify.com/album/6V9J3vERD2KrRZmWQ1dHAS"
       },
       "artists": [
         {
@@ -1336,9 +1336,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 141920,
-      "name": "La Manzanita",
-      "url": "https://open.spotify.com/track/2Kb2jBBCtrzxgvK00daHym"
+      "duration_ms": 155800,
+      "name": "La Dieta",
+      "url": "https://open.spotify.com/track/04sxuAgtJtxwB7zbhJiHMs"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1439,8 +1439,8 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "Incansables",
-        "url": "https://open.spotify.com/album/6V9J3vERD2KrRZmWQ1dHAS"
+        "name": "Pacto De Sangre",
+        "url": "https://open.spotify.com/album/7GAOrdfIZhaU3G7vPZg1dn"
       },
       "artists": [
         {
@@ -1448,9 +1448,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 155800,
-      "name": "La Dieta",
-      "url": "https://open.spotify.com/track/04sxuAgtJtxwB7zbhJiHMs"
+      "duration_ms": 141920,
+      "name": "La Manzanita",
+      "url": "https://open.spotify.com/track/2Kb2jBBCtrzxgvK00daHym"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "Carnavaleando con la Tierra Mojada",
-        "url": "https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Mojada",
-          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
-        }
-      ],
-      "duration_ms": 224722,
-      "name": "Flor de Pi\u00f1a",
-      "url": "https://open.spotify.com/track/4j9dUECjcbldf719yKz3LO"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
         "name": "Norte\u00f1o, Vol. 2",
         "url": "https://open.spotify.com/album/2misjU3JTrJmzfXwmhK41R"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 167903,
       "name": "Un Cari\u00f1o Como T\u00fa",
       "url": "https://open.spotify.com/track/20WRrWYgSULYXFtxBcazwU"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
+        "name": "Carnavaleando con la Tierra Mojada",
+        "url": "https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Mojada",
+          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
+        }
+      ],
+      "duration_ms": 224722,
+      "name": "Flor de Pi\u00f1a",
+      "url": "https://open.spotify.com/track/4j9dUECjcbldf719yKz3LO"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "Los Amos del Norte\u00f1o Sax",
-        "url": "https://open.spotify.com/album/3y0EMw7EMNra80UBx1bMAM"
-      },
-      "artists": [
-        {
-          "name": "Kikin y Los Astros",
-          "url": "https://open.spotify.com/artist/5esNpX3rlw42k8Lc8BWCYx"
-        }
-      ],
-      "duration_ms": 302921,
-      "name": "Popurr\u00ed: \"Huapangos Pa' Zapatear\" El Pistolero / Las G\u00fcilotas / Juan Colorado / Orde\u00f1ando la Vaca",
-      "url": "https://open.spotify.com/track/6G8VUBt9pZj4VIuLyFTSF3"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
         "name": "En vivo desde El Potrero",
         "url": "https://open.spotify.com/album/5aUra0wikb6Z7C5lms9DMf"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 203066,
       "name": "Eres un encanto - En vivo",
       "url": "https://open.spotify.com/track/04xY2a4sWhjc1zCAdFwGSJ"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
+        "name": "Los Amos del Norte\u00f1o Sax",
+        "url": "https://open.spotify.com/album/3y0EMw7EMNra80UBx1bMAM"
+      },
+      "artists": [
+        {
+          "name": "Kikin y Los Astros",
+          "url": "https://open.spotify.com/artist/5esNpX3rlw42k8Lc8BWCYx"
+        }
+      ],
+      "duration_ms": 302921,
+      "name": "Popurr\u00ed: \"Huapangos Pa' Zapatear\" El Pistolero / Las G\u00fcilotas / Juan Colorado / Orde\u00f1ando la Vaca",
+      "url": "https://open.spotify.com/track/6G8VUBt9pZj4VIuLyFTSF3"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "Los \u00danicos del Huapango Michoacano",
-        "url": "https://open.spotify.com/album/5y4vlR58lLHIxvJEafFogr"
-      },
-      "artists": [
-        {
-          "name": "Guizador Norte\u00f1o de Zirahu\u00e9n Mich.",
-          "url": "https://open.spotify.com/artist/4fGn6oclcpfVniidRAvXLP"
-        }
-      ],
-      "duration_ms": 148375,
-      "name": "Lucesita",
-      "url": "https://open.spotify.com/track/5EdZ3ta2DrvCjPtHNr8A7Y"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
         "name": "La Trayectoria",
         "url": "https://open.spotify.com/album/2WuaAcfZ0yXQVSlhgtfEkj"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 212786,
       "name": "El Pachuco",
       "url": "https://open.spotify.com/track/1Dd7dAgpbNS0nDzVPAT275"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
+        "name": "Los \u00danicos del Huapango Michoacano",
+        "url": "https://open.spotify.com/album/5y4vlR58lLHIxvJEafFogr"
+      },
+      "artists": [
+        {
+          "name": "Guizador Norte\u00f1o de Zirahu\u00e9n Mich.",
+          "url": "https://open.spotify.com/artist/4fGn6oclcpfVniidRAvXLP"
+        }
+      ],
+      "duration_ms": 148375,
+      "name": "Lucesita",
+      "url": "https://open.spotify.com/track/5EdZ3ta2DrvCjPtHNr8A7Y"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/0oduvh6rT62D4y2vTBPJAj"
-      },
-      "artists": [
-        {
-          "name": "Banda Zirahuen",
-          "url": "https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7"
-        }
-      ],
-      "duration_ms": 289691,
-      "name": "El Toro Pinto",
-      "url": "https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
         "name": "Tan Bonita",
         "url": "https://open.spotify.com/album/2Y6AdUP44txJRiTizYo5nj"
       },
@@ -1943,18 +1927,18 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "Puro Note Primo / En Vivo Vol.1",
-        "url": "https://open.spotify.com/album/0JAJ03Egipg9eLIRWP26yu"
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/0oduvh6rT62D4y2vTBPJAj"
       },
       "artists": [
         {
-          "name": "Adixion Aktivada",
-          "url": "https://open.spotify.com/artist/38Ji7LhFjPvtohWYEssKOk"
+          "name": "Banda Zirahuen",
+          "url": "https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7"
         }
       ],
-      "duration_ms": 176770,
-      "name": "La Macarena (Mere-huapango) (En Vivo)",
-      "url": "https://open.spotify.com/track/2Ut5W1zxSI9bH29ce8Flic"
+      "duration_ms": 289691,
+      "name": "El Toro Pinto",
+      "url": "https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -2007,18 +1991,18 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "Simple y Sencillamente",
-        "url": "https://open.spotify.com/album/5gUXeDZJNSAbv8Kdwytqht"
+        "name": "Puro Note Primo / En Vivo Vol.1",
+        "url": "https://open.spotify.com/album/0JAJ03Egipg9eLIRWP26yu"
       },
       "artists": [
         {
-          "name": "Estilo Chihuahua",
-          "url": "https://open.spotify.com/artist/5za3hhT7LLvztvz0DJG1tw"
+          "name": "Adixion Aktivada",
+          "url": "https://open.spotify.com/artist/38Ji7LhFjPvtohWYEssKOk"
         }
       ],
-      "duration_ms": 314044,
-      "name": "Huapangos popurr\u00ed",
-      "url": "https://open.spotify.com/track/0uVWICxtZLCsSmahudDYIi"
+      "duration_ms": 176770,
+      "name": "La Macarena (Mere-huapango) (En Vivo)",
+      "url": "https://open.spotify.com/track/2Ut5W1zxSI9bH29ce8Flic"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -2071,18 +2055,18 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "F\u00edjate Mi Hijita",
-        "url": "https://open.spotify.com/album/4WGz60FJeYHbI0lpkKzk0w"
+        "name": "Simple y Sencillamente",
+        "url": "https://open.spotify.com/album/5gUXeDZJNSAbv8Kdwytqht"
       },
       "artists": [
         {
-          "name": "Los Liricos De Teran",
-          "url": "https://open.spotify.com/artist/2ntYKfS76BFvXmxki4DlgJ"
+          "name": "Estilo Chihuahua",
+          "url": "https://open.spotify.com/artist/5za3hhT7LLvztvz0DJG1tw"
         }
       ],
-      "duration_ms": 177600,
-      "name": "F\u00edjate Mi Hijita",
-      "url": "https://open.spotify.com/track/6YvARWYOBOEwUWITrfYPUB"
+      "duration_ms": 314044,
+      "name": "Huapangos popurr\u00ed",
+      "url": "https://open.spotify.com/track/0uVWICxtZLCsSmahudDYIi"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -2099,6 +2083,22 @@
       "duration_ms": 219923,
       "name": "El Son de la Rabia",
       "url": "https://open.spotify.com/track/43RsJKvBwxrseYFwUqkroO"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
+        "name": "F\u00edjate Mi Hijita",
+        "url": "https://open.spotify.com/album/4WGz60FJeYHbI0lpkKzk0w"
+      },
+      "artists": [
+        {
+          "name": "Los Liricos De Teran",
+          "url": "https://open.spotify.com/artist/2ntYKfS76BFvXmxki4DlgJ"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "F\u00edjate Mi Hijita",
+      "url": "https://open.spotify.com/track/6YvARWYOBOEwUWITrfYPUB"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "Se Les Pel\u00f3 Baltazar",
-        "url": "https://open.spotify.com/album/0dIeKfbhKl7kGQtgTK12DX"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Romero",
-          "url": "https://open.spotify.com/artist/4tGMxdgFkE1WESNVTIsrgQ"
-        }
-      ],
-      "duration_ms": 185560,
-      "name": "Peque\u00f1a de Ojos Brujos",
-      "url": "https://open.spotify.com/track/5MRrfvswoInWd0XGvvfz6u"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
         "name": "La Banda Del Carro Rojo",
         "url": "https://open.spotify.com/album/7fetk69EbFu3iKqjhrKJdA"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 188906,
       "name": "La Yaquecita",
       "url": "https://open.spotify.com/track/6oWUM4OHFV1F6tft35yzPt"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
+        "name": "Se Les Pel\u00f3 Baltazar",
+        "url": "https://open.spotify.com/album/0dIeKfbhKl7kGQtgTK12DX"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Romero",
+          "url": "https://open.spotify.com/artist/4tGMxdgFkE1WESNVTIsrgQ"
+        }
+      ],
+      "duration_ms": 185560,
+      "name": "Peque\u00f1a de Ojos Brujos",
+      "url": "https://open.spotify.com/track/5MRrfvswoInWd0XGvvfz6u"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "\"15 Melodias Del Recuerdo\"",
-        "url": "https://open.spotify.com/album/2BfKRacdLOFMlEQnXUlLtq"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Huejote\u00f1os",
-          "url": "https://open.spotify.com/artist/0Vea7Atmt6I5taZ7MSfE3I"
-        }
-      ],
-      "duration_ms": 166320,
-      "name": "El Ahualulco",
-      "url": "https://open.spotify.com/track/0goMlu6mNQcj77VQHuLSGr"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
         "name": "Nuestra Historia Musical (Volumen 1)",
         "url": "https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 193053,
       "name": "Un Angel No Debe Llorar",
       "url": "https://open.spotify.com/track/55owFYkdLsQ0W9BORZ3C84"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
+        "name": "\"15 Melodias Del Recuerdo\"",
+        "url": "https://open.spotify.com/album/2BfKRacdLOFMlEQnXUlLtq"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Huejote\u00f1os",
+          "url": "https://open.spotify.com/artist/0Vea7Atmt6I5taZ7MSfE3I"
+        }
+      ],
+      "duration_ms": 166320,
+      "name": "El Ahualulco",
+      "url": "https://open.spotify.com/track/0goMlu6mNQcj77VQHuLSGr"
     },
     {
       "added_at": "2023-04-21 19:03:12",

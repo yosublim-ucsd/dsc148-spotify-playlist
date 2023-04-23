@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 15951,
+  "num_followers": 15983,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTk4OTg1MCwwMDAwMDAwMDRiMzljMzliNzc4ZDdjNmE2YmI2ZjgxNTY2NmE3ZjQz",
+  "snapshot_id": "MTY4MTk4OTg1MCwwMDAwMDAwMDM2NmI4NGVjZTE0YWFiODNhNWRlMDYyMGE2ZDg3NWMz",
   "tracks": [
     {
       "added_at": "2023-04-20 11:24:10",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-04-20 11:24:10",
       "album": {
+        "name": "Nothing But The Blues",
+        "url": "https://open.spotify.com/album/3looSg4zNUFzKAyyos640A"
+      },
+      "artists": [
+        {
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+        }
+      ],
+      "duration_ms": 361760,
+      "name": "Patti Cake",
+      "url": "https://open.spotify.com/track/5mAWOB72eW90rZtr3wzcYE"
+    },
+    {
+      "added_at": "2023-04-20 11:24:10",
+      "album": {
         "name": "Sonny Stitt, Bud Powell, J.J. Johnson",
         "url": "https://open.spotify.com/album/7qbujqTVR3B9ED9DqGd1sB"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 225906,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/6DT90JA5wdKatQf12NynLb"
-    },
-    {
-      "added_at": "2023-04-20 11:24:10",
-      "album": {
-        "name": "Nothing But The Blues",
-        "url": "https://open.spotify.com/album/3looSg4zNUFzKAyyos640A"
-      },
-      "artists": [
-        {
-          "name": "Herb Ellis",
-          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
-        }
-      ],
-      "duration_ms": 361760,
-      "name": "Patti Cake",
-      "url": "https://open.spotify.com/track/5mAWOB72eW90rZtr3wzcYE"
     },
     {
       "added_at": "2023-04-20 11:24:10",

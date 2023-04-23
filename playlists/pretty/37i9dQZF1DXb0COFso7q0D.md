@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > The playlist sin fronteras\. Cover: Grupo Firme & Los Tucanes de Tijuana
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,036,145 likes - 61 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,037,173 likes - 61 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

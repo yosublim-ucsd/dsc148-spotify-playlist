@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-249 songs - 12 hr 35 min
+252 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [About Me](https://open.spotify.com/track/3OgRWuUOktuBGTING1oPld) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [About Me](https://open.spotify.com/album/3c1nWchd1tZcxdaamK3Q7D) | 2:34 | 2022-06-23 |  |
 | [Alive](https://open.spotify.com/track/4T1N8cti8aQkYs9IjQn59H) | [PLEEG](https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R) | [Alive](https://open.spotify.com/album/4EGBOOZGqeV1Rb5ScjvHuH) | 2:40 | 2023-01-10 |  |
 | [All Access](https://open.spotify.com/track/77PGjBzaXsRnmuxV9tBLU3) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [All Access](https://open.spotify.com/album/151Lb7EhuJUIfFTLWkeuI4) | 2:41 | 2022-10-05 |  |
+| [All Night](https://open.spotify.com/track/31KAh8M3Oo2ojqV3fY0xFa) | [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to) | [All Night](https://open.spotify.com/album/7aMZWSmXeJEqU7RMLxALvc) | 2:36 | 2023-04-22 |  |
 | [Alone](https://open.spotify.com/track/1HynKU9h7mM3nhtLlnVDFu) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Alone](https://open.spotify.com/album/6lfzz0LHtj7dVCeidrcGoX) | 2:37 | 2022-12-09 |  |
 | [Alone](https://open.spotify.com/track/4kvIwyqoAVaho3Ea7feClh) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Alone EP](https://open.spotify.com/album/3QS6cvgnMj7JuA0gB12Lq8) | 3:34 | 2022-05-19 |  |
 | [Annabelle's Tea Party](https://open.spotify.com/track/6nPkoJ32PlIiCmmhnxxZKj) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Annabelle's Tea Party](https://open.spotify.com/album/0G2m4IHWmXSqKQFSPnQN24) | 3:08 | 2022-10-28 |  |
@@ -65,6 +66,7 @@
 | [Dioma \(Demo\)](https://open.spotify.com/track/700JJvwxvnn8kykvp3nZqb) | [Jnathyn](https://open.spotify.com/artist/1zThDYJbVAPulAkfGTkcLk) | [Dioma \(Demo\)](https://open.spotify.com/album/3F6ynVYGAxoIgFPB4jvbff) | 2:17 | 2022-07-08 |  |
 | [Don't Know Why](https://open.spotify.com/track/3vyTl0rNX1xxW1XLeeMcmu) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [Don't Know Why](https://open.spotify.com/album/5H2icnX0IBaEd2mp3B3w4E) | 2:04 | 2022-08-23 |  |
 | [Don't Left Me](https://open.spotify.com/track/5mBeCgCZbOczw4BBZoXzIa) | [CØDE](https://open.spotify.com/artist/7c5R9FOE8ceL55E6KUE1pj) | [Don't Left Me](https://open.spotify.com/album/5qf8tXchpT9rDcrx08UV8B) | 2:17 | 2023-03-24 |  |
+| [Don't Want To Feel](https://open.spotify.com/track/5WZogsNGbF8m0FU68f9pV4) | [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0), [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL) | [Don't Want To Feel](https://open.spotify.com/album/21C6omxO7GWCKW9CSKictI) | 3:31 | 2023-04-22 |  |
 | [Dreamatic](https://open.spotify.com/track/7Ahq8UweaUdoBHwVR76suu) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Dreamatic](https://open.spotify.com/album/15b6oP9UfGUyEYJpv2V150) | 3:48 | 2022-10-19 |  |
 | [Dreamer](https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Dreamer](https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU) | 2:35 | 2023-04-06 |  |
 | [Drop In The Ocean](https://open.spotify.com/track/2sPGbO0TWLwBCL2Q1i1e6H) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [Harry Taylor](https://open.spotify.com/artist/290yQM2xoSurRtxeDSMUmC), [MAD SNAX](https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu), [India Dupriez](https://open.spotify.com/artist/32sZPVoYKzWY0Y5zuieJ1a) | [Drop In The Ocean](https://open.spotify.com/album/2T53UGJPnAa9kjl28eOLU1) | 2:43 | 2023-01-19 |  |
@@ -187,6 +189,7 @@
 | [Redemption](https://open.spotify.com/track/11hQpTbTymxIZzSmabCd9b) | [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [Redemption](https://open.spotify.com/album/7Dl2QenOQCV2oRvbfugT7m) | 4:05 | 2022-09-29 |  |
 | [Reflect](https://open.spotify.com/track/351BRPYm4aXYMPEvuOUYGm) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Reflect](https://open.spotify.com/album/3sDGWzEYgNvleBc5tM3p5G) | 3:04 | 2023-04-07 |  |
 | [Retrophonic](https://open.spotify.com/track/2jT3LKqUJVrcT6TYJhcsJg) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Retrophonic](https://open.spotify.com/album/1c0bNZGrgSQlcALkrwSgQ2) | 2:31 | 2022-05-13 |  |
+| [Ride or Die \(ft\. Indy Skies\)](https://open.spotify.com/track/0xXaabBmxaTsxxNcf1a0Yn) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe), [Indy Skies](https://open.spotify.com/artist/4Rb9X7RfZMiHcJF6xo9pzH) | [Ride or Die](https://open.spotify.com/album/0AGE7tbV3lT8eWdSggbHkE) | 2:59 | 2023-04-22 |  |
 | [Rift](https://open.spotify.com/track/2GjmMAFA3EFMThAfDmtB7u) | [Rob Gasser](https://open.spotify.com/artist/1WlxlG9IzXsq9MkneOPkxc), [Miss Lina](https://open.spotify.com/artist/1YWIbcvuqzWzPyxyrVTMJv) | [Rift](https://open.spotify.com/album/6TkCdwfbCgi9m4YRbcvzbt) | 3:26 | 2022-12-28 |  |
 | [Royalty](https://open.spotify.com/track/022gtO2qA9EwjWrXu7OiVt) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Royalty](https://open.spotify.com/album/29jBoJuXmVcMPZG6xCmfQq) | 3:43 | 2022-03-03 |  |
 | [Runaway](https://open.spotify.com/track/6L9VKnJQwixkWyBFoKbdBV) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [Runaway](https://open.spotify.com/album/5DgXvV0eBeNebgmKckcK8s) | 3:26 | 2022-05-13 |  |

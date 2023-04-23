@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Les Louanges",
-  "num_followers": 36434,
+  "num_followers": 36439,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTc3MiwwMDAwMDAwMDFiNTZlOWViNDI4ZDA1Zjc5MGY2MGM3ZWYzYjA3MTg5",
+  "snapshot_id": "MTY4MjA0OTc3MiwwMDAwMDAwMDMyNTNlZDg2ZmRkN2ZiNWQyZmY5ZTFhNzI4MjE5YTBl",
   "tracks": [
     {
       "added_at": "2023-04-21 04:01:00",
@@ -183,26 +183,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Enchant\u00e9",
-        "url": "https://open.spotify.com/album/4jzttg9eCu7YcpAQsu75mu"
-      },
-      "artists": [
-        {
-          "name": "Bramsito",
-          "url": "https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa"
-        },
-        {
-          "name": "RK",
-          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
-        }
-      ],
-      "duration_ms": 174240,
-      "name": "CV (feat. RK)",
-      "url": "https://open.spotify.com/track/7cS0iYSpeBa0qxLsXMELC4"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "uet",
         "url": "https://open.spotify.com/album/72KOX2Y7P9LoTWgv7zKNPy"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 150053,
       "name": "uet",
       "url": "https://open.spotify.com/track/2tUfesk6jwISYkygWV9481"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Enchant\u00e9",
+        "url": "https://open.spotify.com/album/4jzttg9eCu7YcpAQsu75mu"
+      },
+      "artists": [
+        {
+          "name": "Bramsito",
+          "url": "https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa"
+        },
+        {
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+        }
+      ],
+      "duration_ms": 174240,
+      "name": "CV (feat. RK)",
+      "url": "https://open.spotify.com/track/7cS0iYSpeBa0qxLsXMELC4"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -291,22 +291,18 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Si j'avais (feat. La Fouine)",
-        "url": "https://open.spotify.com/album/1XtIE8Nq5SIk1S11wuXnfx"
+        "name": "Mauvais r\u00eave",
+        "url": "https://open.spotify.com/album/5blMLwINO84ZJntrW0CTNh"
       },
       "artists": [
         {
-          "name": "47ter",
-          "url": "https://open.spotify.com/artist/0aXaZj4wB5jLF2E2d8WEVi"
-        },
-        {
-          "name": "La Fouine",
-          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
         }
       ],
-      "duration_ms": 214173,
-      "name": "Si j'avais (feat. La Fouine)",
-      "url": "https://open.spotify.com/track/3uymlCR4UeQQvspZdk7tkW"
+      "duration_ms": 239546,
+      "name": "Mauvais r\u00eave",
+      "url": "https://open.spotify.com/track/6IZWTHVNit0ajtXwAWDGO9"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -331,18 +327,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Mauvais r\u00eave",
-        "url": "https://open.spotify.com/album/5blMLwINO84ZJntrW0CTNh"
+        "name": "Si j'avais (feat. La Fouine)",
+        "url": "https://open.spotify.com/album/1XtIE8Nq5SIk1S11wuXnfx"
       },
       "artists": [
         {
-          "name": "Hoshi",
-          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+          "name": "47ter",
+          "url": "https://open.spotify.com/artist/0aXaZj4wB5jLF2E2d8WEVi"
+        },
+        {
+          "name": "La Fouine",
+          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
         }
       ],
-      "duration_ms": 239546,
-      "name": "Mauvais r\u00eave",
-      "url": "https://open.spotify.com/track/6IZWTHVNit0ajtXwAWDGO9"
+      "duration_ms": 214173,
+      "name": "Si j'avais (feat. La Fouine)",
+      "url": "https://open.spotify.com/track/3uymlCR4UeQQvspZdk7tkW"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -419,22 +419,34 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "O\u00f9 tu voudras (feat. Tayc)",
-        "url": "https://open.spotify.com/album/5MJy5brDsbiFiVHzc9eDcf"
+        "name": "Ma r\u00e9alit\u00e9 (Affam\u00e9 #19)",
+        "url": "https://open.spotify.com/album/25E06yKmotTBzGMPgLiUbU"
       },
       "artists": [
         {
-          "name": "47ter",
-          "url": "https://open.spotify.com/artist/0aXaZj4wB5jLF2E2d8WEVi"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
         }
       ],
-      "duration_ms": 189680,
-      "name": "O\u00f9 tu voudras (feat. Tayc)",
-      "url": "https://open.spotify.com/track/18sI6BcfZWB5z77dSlQjqK"
+      "duration_ms": 144000,
+      "name": "Ma r\u00e9alit\u00e9 (Affam\u00e9 #19)",
+      "url": "https://open.spotify.com/track/1yHFMV89hpqsn3mxD1lZSa"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Le vide",
+        "url": "https://open.spotify.com/album/2Q9WJzb12fy5MJYdJMS8sk"
+      },
+      "artists": [
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "duration_ms": 229973,
+      "name": "Le vide",
+      "url": "https://open.spotify.com/track/6sgkVosoul0ok0jkZ7vpSI"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -459,22 +471,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Le vide",
-        "url": "https://open.spotify.com/album/2Q9WJzb12fy5MJYdJMS8sk"
-      },
-      "artists": [
-        {
-          "name": "Souldia",
-          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
-        }
-      ],
-      "duration_ms": 229973,
-      "name": "Le vide",
-      "url": "https://open.spotify.com/track/6sgkVosoul0ok0jkZ7vpSI"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Ozoror",
         "url": "https://open.spotify.com/album/6OPqZboiTNSYCKd3fSiSLX"
       },
@@ -491,22 +487,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Ma r\u00e9alit\u00e9 (Affam\u00e9 #19)",
-        "url": "https://open.spotify.com/album/25E06yKmotTBzGMPgLiUbU"
-      },
-      "artists": [
-        {
-          "name": "Zamdane",
-          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Ma r\u00e9alit\u00e9 (Affam\u00e9 #19)",
-      "url": "https://open.spotify.com/track/1yHFMV89hpqsn3mxD1lZSa"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Prisonnier",
         "url": "https://open.spotify.com/album/41QFH5g1zEwAyoXLHaDOfu"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 158776,
       "name": "Prisonnier",
       "url": "https://open.spotify.com/track/5vZHwm3Neb8UHxdo8PXb55"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "O\u00f9 tu voudras (feat. Tayc)",
+        "url": "https://open.spotify.com/album/5MJy5brDsbiFiVHzc9eDcf"
+      },
+      "artists": [
+        {
+          "name": "47ter",
+          "url": "https://open.spotify.com/artist/0aXaZj4wB5jLF2E2d8WEVi"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 189680,
+      "name": "O\u00f9 tu voudras (feat. Tayc)",
+      "url": "https://open.spotify.com/track/18sI6BcfZWB5z77dSlQjqK"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -559,18 +559,18 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "J'ai besoin d'un break",
-        "url": "https://open.spotify.com/album/73PEyPC6tcnPYevHvRitrX"
+        "name": "Aloha Baby",
+        "url": "https://open.spotify.com/album/6AEcF9E1JgVy7J4U0UfpYh"
       },
       "artists": [
         {
-          "name": "Jay Sc\u00f8tt",
-          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
         }
       ],
-      "duration_ms": 188840,
-      "name": "J'ai besoin d'un break",
-      "url": "https://open.spotify.com/track/4IEsA1Zp1TGIyKFDW1rIYC"
+      "duration_ms": 365866,
+      "name": "Aloha Baby",
+      "url": "https://open.spotify.com/track/6U3pRWlzTqWbjBjBHfIvEI"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "J'ai besoin d'un break",
+        "url": "https://open.spotify.com/album/73PEyPC6tcnPYevHvRitrX"
+      },
+      "artists": [
+        {
+          "name": "Jay Sc\u00f8tt",
+          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
+        }
+      ],
+      "duration_ms": 188840,
+      "name": "J'ai besoin d'un break",
+      "url": "https://open.spotify.com/track/4IEsA1Zp1TGIyKFDW1rIYC"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Personne",
         "url": "https://open.spotify.com/album/5GE6XXHfGhdthUzEBkGlLr"
       },
@@ -615,18 +631,18 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Aloha Baby",
-        "url": "https://open.spotify.com/album/6AEcF9E1JgVy7J4U0UfpYh"
+        "name": "J'oublie",
+        "url": "https://open.spotify.com/album/3cHfA8bgpYXok3XYIIaYb1"
       },
       "artists": [
         {
-          "name": "La Femme",
-          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+          "name": "Yuzmv",
+          "url": "https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm"
         }
       ],
-      "duration_ms": 365866,
-      "name": "Aloha Baby",
-      "url": "https://open.spotify.com/track/6U3pRWlzTqWbjBjBHfIvEI"
+      "duration_ms": 176051,
+      "name": "J'oublie",
+      "url": "https://open.spotify.com/track/47ZrpiH2Koy794jtcdPmHn"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -659,6 +675,38 @@
       "duration_ms": 176821,
       "name": "Photographies",
       "url": "https://open.spotify.com/track/3zjeCHlhWyJwQDKppjMG1F"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Addictocrate",
+        "url": "https://open.spotify.com/album/508sRFnLjCW27sJsleXuOm"
+      },
+      "artists": [
+        {
+          "name": "Lo\u00efc Nottet",
+          "url": "https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu"
+        }
+      ],
+      "duration_ms": 158506,
+      "name": "Addictocrate",
+      "url": "https://open.spotify.com/track/0KULVVQEKPVL2Ve4g4ri34"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Deuxi\u00e8me chance",
+        "url": "https://open.spotify.com/album/246UD1XVJ3lqusv4ynOQIj"
+      },
+      "artists": [
+        {
+          "name": "Tsew The Kid",
+          "url": "https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC"
+        }
+      ],
+      "duration_ms": 177270,
+      "name": "Deuxi\u00e8me chance",
+      "url": "https://open.spotify.com/track/7grAgWrICeHTAYhQaOXiR8"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -699,6 +747,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "Lose It All",
+        "url": "https://open.spotify.com/album/7My868BCSFXFo0JpoyJ6MM"
+      },
+      "artists": [
+        {
+          "name": "Josiane",
+          "url": "https://open.spotify.com/artist/20D5XV4MYVeOl23idQan4B"
+        }
+      ],
+      "duration_ms": 174608,
+      "name": "Lose It All",
+      "url": "https://open.spotify.com/track/7g0Fo1jbQfEEFIUXAYnbrm"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "1994",
         "url": "https://open.spotify.com/album/495cEXky5fPlnh2EJBm0KB"
       },
@@ -715,18 +779,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Lose It All",
-        "url": "https://open.spotify.com/album/7My868BCSFXFo0JpoyJ6MM"
+        "name": "Prends \u00e7a",
+        "url": "https://open.spotify.com/album/5mbn5HLQFzfnluNW4f5GUh"
       },
       "artists": [
         {
-          "name": "Josiane",
-          "url": "https://open.spotify.com/artist/20D5XV4MYVeOl23idQan4B"
+          "name": "Driks",
+          "url": "https://open.spotify.com/artist/3mTLkUsH6xz7b0UjcNcVsN"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
         }
       ],
-      "duration_ms": 174608,
-      "name": "Lose It All",
-      "url": "https://open.spotify.com/track/7g0Fo1jbQfEEFIUXAYnbrm"
+      "duration_ms": 165981,
+      "name": "Prends \u00e7a",
+      "url": "https://open.spotify.com/track/4OY6TT0DO2LqzGkl4iV41T"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -751,6 +819,22 @@
       "duration_ms": 160845,
       "name": "Gabriel",
       "url": "https://open.spotify.com/track/4kfbDkVE9R35VQyem72ypS"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Comme un fr\u00e8re",
+        "url": "https://open.spotify.com/album/0SETqQbAljWEL1UOmTNMaB"
+      },
+      "artists": [
+        {
+          "name": "Nour",
+          "url": "https://open.spotify.com/artist/2Z55seSc1gT7BWnV0ElFNL"
+        }
+      ],
+      "duration_ms": 169165,
+      "name": "Comme un fr\u00e8re",
+      "url": "https://open.spotify.com/track/3rzmuV2h0jeH4P7ueN6pQR"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -803,90 +887,6 @@
       "duration_ms": 174545,
       "name": "Baby Girl",
       "url": "https://open.spotify.com/track/04XhWqk9rPKm384hNqMrJQ"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Mort de peur",
-        "url": "https://open.spotify.com/album/3p3yaxFzVEgprptHO9qwu7"
-      },
-      "artists": [
-        {
-          "name": "Choses Sauvages",
-          "url": "https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Mort de peur",
-      "url": "https://open.spotify.com/track/5BrSdlZO7iZygt6og7ZRoS"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/5uCFqaijmT0xfaKt1smTqk"
-      },
-      "artists": [
-        {
-          "name": "Kosla",
-          "url": "https://open.spotify.com/artist/0WEnusOFYWy1WdoyeSPC72"
-        },
-        {
-          "name": "808 Delavega",
-          "url": "https://open.spotify.com/artist/3dPuXCO7uQLHphYgFzUXCJ"
-        }
-      ],
-      "duration_ms": 152941,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/2PQy1avcccpE3H3ZuQREz4"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Danser",
-        "url": "https://open.spotify.com/album/2U2w4Q9zSKSWdm4ROY0A55"
-      },
-      "artists": [
-        {
-          "name": "Grand Eug\u00e8ne",
-          "url": "https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT"
-        }
-      ],
-      "duration_ms": 176626,
-      "name": "Danser",
-      "url": "https://open.spotify.com/track/6AT0rc6dhB4f5cjULRyd7Z"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Il faut partir maintenant",
-        "url": "https://open.spotify.com/album/09rm9yyPoxbfjOXMFpwfhm"
-      },
-      "artists": [
-        {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
-        }
-      ],
-      "duration_ms": 178405,
-      "name": "Penses-tu rester encore?",
-      "url": "https://open.spotify.com/track/6zwbqkwvMuqSLXGvQecKql"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Mauvais Joueur",
-        "url": "https://open.spotify.com/album/4uyewdCj65RZX5mjtabls7"
-      },
-      "artists": [
-        {
-          "name": "The Doug",
-          "url": "https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Hors-piste",
-      "url": "https://open.spotify.com/track/0OekRsbs1j7jRtJPHb9HP9"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

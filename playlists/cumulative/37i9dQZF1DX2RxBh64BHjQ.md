@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1K15GRZZATsCJyGJ4bYiEz">Luh Tyler</a>
 
-1,043 songs - 1 day 23 hr 8 min
+1,044 songs - 1 day 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,8 +336,9 @@
 | [G Nikes \(feat\. Polo G\)](https://open.spotify.com/track/7asQMsxC6dNgY0inCzJC5O) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/4LDKeMhuzPUzekNfeWrzRl) | 3:14 | 2022-10-14 | 2022-12-31 |
 | [Gah Damn](https://open.spotify.com/track/0VQucSKq1xINBeqQZRt69w) | [Yung Mal](https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2) | [Gah Damn](https://open.spotify.com/album/7xMqiBsn4iTnFw172KnxaA) | 3:12 | 2023-01-06 | 2023-03-11 |
 | [Gang Nem \(feat\. EST Gee\)](https://open.spotify.com/track/6t4OP550372zgiAof928AR) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Survivor Of The Trenches](https://open.spotify.com/album/41HpilA0zyDdHoAYhS9V13) | 2:23 | 2022-12-02 | 2023-03-11 |
+| [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/2g5q0UpOOFMNOcHGaMG4b0) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 2:39 | 2023-01-20 |  |
 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/3lE8TCA1FKNQthjj73Sjrv) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:39 | 2023-01-20 | 2023-02-03 |
-| [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:39 | 2023-01-20 |  |
+| [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:39 | 2023-01-20 | 2023-04-23 |
 | [Geeked Up \(feat\. Gucci Mane\)](https://open.spotify.com/track/3d19P64cMd5IM6jGGwKcSS) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Geeked Up \(feat\. Gucci Mane\)](https://open.spotify.com/album/3Ej4xcq9U5V4cUsfjxeXgV) | 2:55 | 2022-10-07 | 2022-12-10 |
 | [Get Back](https://open.spotify.com/track/7hN02og1TARl5EER4wURPb) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Get Back](https://open.spotify.com/album/3gNuY9GJCmvKpTx6v3ZPaa) | 1:49 | 2021-12-03 | 2022-02-19 |
 | [Get Back \(feat\. G Herbo\)](https://open.spotify.com/track/58PHa0il1TgjqONQc8ZJ5j) | [Yak Yola](https://open.spotify.com/artist/3pnHEUKevBqj5yqYBIvVs6), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Get Back \(feat\. G Herbo\)](https://open.spotify.com/album/29uX8kttgwZkbzDtn05yY6) | 2:45 | 2022-02-25 | 2022-04-09 |

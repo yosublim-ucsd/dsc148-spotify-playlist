@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Sam Smith",
-  "num_followers": 96156,
+  "num_followers": 96262,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDNiNzZlZjhjNmQ2Yjc5NDVlM2ZhZjBmODhkMzI2ZDE0",
+  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMGIzZDM4ZjIxZDgyODcxM2RmYzczYTRlZmZmZDY1NWFl",
   "tracks": [
     {
       "added_at": "2023-04-14 04:01:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "in between everything",
-        "url": "https://open.spotify.com/album/2U94uUStzXa6RLGf0o46cj"
-      },
-      "artists": [
-        {
-          "name": "EZI",
-          "url": "https://open.spotify.com/artist/6JINIoM2HUR5ZNTJwoR9eC"
-        }
-      ],
-      "duration_ms": 158446,
-      "name": "Take My Breath Away",
-      "url": "https://open.spotify.com/track/410dcrVCOdgxRDVWmgselj"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 188166,
       "name": "All Night Long (All Night) - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/5dsk3uLRghh1WmuN21LEW8"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "in between everything",
+        "url": "https://open.spotify.com/album/2U94uUStzXa6RLGf0o46cj"
+      },
+      "artists": [
+        {
+          "name": "EZI",
+          "url": "https://open.spotify.com/artist/6JINIoM2HUR5ZNTJwoR9eC"
+        }
+      ],
+      "duration_ms": 158446,
+      "name": "Take My Breath Away",
+      "url": "https://open.spotify.com/track/410dcrVCOdgxRDVWmgselj"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "One More Try",
-        "url": "https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 356000,
-      "name": "One More Try",
-      "url": "https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "PopArt: The Hits",
         "url": "https://open.spotify.com/album/4wcFyCDvWuIAIIfemgtNUv"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 237653,
       "name": "Always on My Mind - 2003 Remaster",
       "url": "https://open.spotify.com/track/2SWn864dJI5RNyrp3F4Kp1"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "One More Try",
+        "url": "https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 356000,
+      "name": "One More Try",
+      "url": "https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
+        "name": "Wouldn't It Be Nice",
+        "url": "https://open.spotify.com/album/4oJIQO49IQeU5mhzdU11B0"
+      },
+      "artists": [
+        {
+          "name": "Kate McGill",
+          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+        }
+      ],
+      "duration_ms": 152181,
+      "name": "Wouldn't It Be Nice",
+      "url": "https://open.spotify.com/track/1vKusrenzlsriyzUAJHb9i"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui"
       },
@@ -819,22 +835,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Wouldn't It Be Nice",
-        "url": "https://open.spotify.com/album/4oJIQO49IQeU5mhzdU11B0"
-      },
-      "artists": [
-        {
-          "name": "Kate McGill",
-          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
-        }
-      ],
-      "duration_ms": 152181,
-      "name": "Wouldn't It Be Nice",
-      "url": "https://open.spotify.com/track/1vKusrenzlsriyzUAJHb9i"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Meet Me At Our Spot",
         "url": "https://open.spotify.com/album/7yYIY5ZSptEn9CBm9QhW5O"
       },
@@ -863,6 +863,22 @@
       "duration_ms": 193015,
       "name": "when the party\u2019s over",
       "url": "https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "I\u2019m Blue",
+        "url": "https://open.spotify.com/album/5oerPhDkPTBfRj1O8gXZBS"
+      },
+      "artists": [
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "duration_ms": 150511,
+      "name": "I\u2019m Blue",
+      "url": "https://open.spotify.com/track/7kIlkxmhj6AvR5gwKvcXZp"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -911,22 +927,6 @@
       "duration_ms": 176320,
       "name": "In My Life",
       "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "I\u2019m Blue",
-        "url": "https://open.spotify.com/album/5oerPhDkPTBfRj1O8gXZBS"
-      },
-      "artists": [
-        {
-          "name": "Faouzia",
-          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
-        }
-      ],
-      "duration_ms": 150511,
-      "name": "I\u2019m Blue",
-      "url": "https://open.spotify.com/track/7kIlkxmhj6AvR5gwKvcXZp"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1076,22 +1076,6 @@
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 173482,
-      "name": "so into you - Spotify Singles",
-      "url": "https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
       },
       "artists": [
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Fix You",
-        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 141160,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+      "duration_ms": 173482,
+      "name": "so into you - Spotify Singles",
+      "url": "https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1139,6 +1123,22 @@
       "duration_ms": 177261,
       "name": "Watermelon Sugar (featuring Avenue Beat)",
       "url": "https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 141160,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Dancing In The Moonlight (feat. NEIMY) [Acoustic]",
-        "url": "https://open.spotify.com/album/6kaPo11OP4Nh6B0X7fbwVa"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        },
-        {
-          "name": "NEIMY",
-          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
-        }
-      ],
-      "duration_ms": 144570,
-      "name": "Dancing In The Moonlight (feat. NEIMY) - Acoustic",
-      "url": "https://open.spotify.com/track/3KZL647GYe5NGUFqBS7hs5"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "feel good inc. (feat. Mateus Asato)",
         "url": "https://open.spotify.com/album/6l38zfFKDZrmrU2jXqW3GQ"
       },
@@ -1711,18 +1691,22 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "the quarantine covers",
-        "url": "https://open.spotify.com/album/1UqChrYC7NGNDmf9nJx9xO"
+        "name": "Dancing In The Moonlight (feat. NEIMY) [Acoustic]",
+        "url": "https://open.spotify.com/album/6kaPo11OP4Nh6B0X7fbwVa"
       },
       "artists": [
         {
-          "name": "Avenue Beat",
-          "url": "https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc"
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        },
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
         }
       ],
-      "duration_ms": 122074,
-      "name": "just the two of us",
-      "url": "https://open.spotify.com/track/505CNjW6Y9GwvW5sVgvdK9"
+      "duration_ms": 144570,
+      "name": "Dancing In The Moonlight (feat. NEIMY) - Acoustic",
+      "url": "https://open.spotify.com/track/3KZL647GYe5NGUFqBS7hs5"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1755,6 +1739,22 @@
       "duration_ms": 156200,
       "name": "Signed, Sealed, Delivered (I'm Yours)",
       "url": "https://open.spotify.com/track/0LKsKNbx1NhGRzGSVBHH1F"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "the quarantine covers",
+        "url": "https://open.spotify.com/album/1UqChrYC7NGNDmf9nJx9xO"
+      },
+      "artists": [
+        {
+          "name": "Avenue Beat",
+          "url": "https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc"
+        }
+      ],
+      "duration_ms": 122074,
+      "name": "just the two of us",
+      "url": "https://open.spotify.com/track/505CNjW6Y9GwvW5sVgvdK9"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 200539,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/2vYfa73MHzOe0DAsZsr66l"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "dancing in the moonlight",
         "url": "https://open.spotify.com/album/7Bh1i9QqJTdmtwi8DtXheN"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 147457,
       "name": "dancing in the moonlight",
       "url": "https://open.spotify.com/track/0pSLfXI0tYQU2Gvycaw4B6"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 200539,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/2vYfa73MHzOe0DAsZsr66l"
     },
     {
       "added_at": "2023-04-14 04:01:00",

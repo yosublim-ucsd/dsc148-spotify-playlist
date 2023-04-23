@@ -406,6 +406,24 @@
     {
       "album": {
         "name": "Sed\u00faceme",
+        "url": "https://open.spotify.com/album/4xyafxVu1q9xRQ5qtMlBkb"
+      },
+      "artists": [
+        {
+          "name": "Viti Ruiz",
+          "url": "https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321178,
+      "name": "Caricias Prohibidas",
+      "url": "https://open.spotify.com/track/0sljB20lnodRcHT2il1m3J"
+    },
+    {
+      "album": {
+        "name": "Sed\u00faceme",
         "url": "https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy"
       },
       "artists": [
@@ -416,7 +434,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 321706,
       "name": "Caricias Prohibidas",
       "url": "https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ"

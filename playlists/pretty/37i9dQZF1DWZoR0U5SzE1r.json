@@ -1,12 +1,12 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 251534,
+  "num_followers": 251643,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MzE0NDEyMCwwMDAwMDAwMDM2YTc3NTZmOGY4ZGY0Mzk1ZDI4YTM4MDgxOTQwMDM1",
+  "snapshot_id": "MTU5MzE0NDEyMCwwMDAwMDAwMDQ3M2UxYTI4NGYxZjUwNTIxZGE3NjUwNzI4M2M5MGZi",
   "tracks": [
     {
       "added_at": "2020-06-26 04:02:00",
@@ -391,6 +391,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Death Of Death",
+        "url": "https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C"
+      },
+      "artists": [
+        {
+          "name": "Life.Church Worship",
+          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Where The Spirit Of The Lord Is",
+      "url": "https://open.spotify.com/track/7aEJ4hXCfjeWO2zq4tyCT9"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Live From New York",
         "url": "https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 489453,
       "name": "Holy Spirit - Live",
       "url": "https://open.spotify.com/track/5Xjcst6Rle74VteHx0zczO"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Death Of Death",
-        "url": "https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C"
-      },
-      "artists": [
-        {
-          "name": "Life.Church Worship",
-          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Where The Spirit Of The Lord Is",
-      "url": "https://open.spotify.com/track/7aEJ4hXCfjeWO2zq4tyCT9"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Simple Gospel (Live)",
+        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "Simple Gospel (Live)",
+      "url": "https://open.spotify.com/track/1laUzJ0NBV7iwWCcquCxcN"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Live From New York",
         "url": "https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 315253,
       "name": "Set A Fire - Live",
       "url": "https://open.spotify.com/track/0WFaQNCdmyONO7GIWL8mDZ"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Simple Gospel (Live)",
-        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
-      },
-      "artists": [
-        {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "Simple Gospel (Live)",
-      "url": "https://open.spotify.com/track/1laUzJ0NBV7iwWCcquCxcN"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -699,26 +699,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Let It Echo (Live)",
-        "url": "https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 277173,
-      "name": "In The River - Live",
-      "url": "https://open.spotify.com/track/2qHScCZ9f4FPBNVBpFMZ0G"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "The Loft Sessions",
         "url": "https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 357373,
       "name": "Good and Gracious King",
       "url": "https://open.spotify.com/track/1gqhpCPMpTQu8G9mkpS1ib"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Let It Echo (Live)",
+        "url": "https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 277173,
+      "name": "In The River - Live",
+      "url": "https://open.spotify.com/track/2qHScCZ9f4FPBNVBpFMZ0G"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "The War Is Over",
+        "url": "https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 335400,
+      "name": "Fountains",
+      "url": "https://open.spotify.com/track/6sIEO9ZDhpW0BhCz1ZFIYV"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Breakthrough (Live)",
         "url": "https://open.spotify.com/album/4ROjH1uLP9Qe7FNunpCTZi"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 285560,
       "name": "I'm Listening - Live",
       "url": "https://open.spotify.com/track/4H8aHbObTT2BD16ZUZjD5Y"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "This Is Our Story",
-        "url": "https://open.spotify.com/album/2Tj6FuYJTT5PmlgIyKCBPo"
-      },
-      "artists": [
-        {
-          "name": "VOUS Worship",
-          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
-        }
-      ],
-      "duration_ms": 341849,
-      "name": "This Is Our Story",
-      "url": "https://open.spotify.com/track/3qAgzc1GCfBHSAr9UxpNXT"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "The War Is Over",
-        "url": "https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY"
+        "name": "This Is Our Story",
+        "url": "https://open.spotify.com/album/2Tj6FuYJTT5PmlgIyKCBPo"
       },
       "artists": [
         {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
         }
       ],
-      "duration_ms": 335400,
-      "name": "Fountains",
-      "url": "https://open.spotify.com/track/6sIEO9ZDhpW0BhCz1ZFIYV"
+      "duration_ms": 341849,
+      "name": "This Is Our Story",
+      "url": "https://open.spotify.com/track/3qAgzc1GCfBHSAr9UxpNXT"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 547251,
-      "name": "Rain Your Glory Down - Live",
-      "url": "https://open.spotify.com/track/6ftibLL1IO1tlGVgYrul0k"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Frontiers",
         "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
       },
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Valley (Live)",
-        "url": "https://open.spotify.com/album/2RfOUTIdbZpA8YH2qlPi6n"
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8"
       },
       "artists": [
         {
-          "name": "Chris McClarney",
-          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
         }
       ],
-      "duration_ms": 291473,
-      "name": "Valley - Live",
-      "url": "https://open.spotify.com/track/04IRbKCLC8ktH1nhYdmEXe"
+      "duration_ms": 547251,
+      "name": "Rain Your Glory Down - Live",
+      "url": "https://open.spotify.com/track/6ftibLL1IO1tlGVgYrul0k"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1523,6 +1507,22 @@
       "duration_ms": 260466,
       "name": "Speak",
       "url": "https://open.spotify.com/track/4KUzH3n3EJYz5ltMHuDKUV"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Valley (Live)",
+        "url": "https://open.spotify.com/album/2RfOUTIdbZpA8YH2qlPi6n"
+      },
+      "artists": [
+        {
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+        }
+      ],
+      "duration_ms": 291473,
+      "name": "Valley - Live",
+      "url": "https://open.spotify.com/track/04IRbKCLC8ktH1nhYdmEXe"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 350386,
+      "name": "Come Holy Spirit - Live",
+      "url": "https://open.spotify.com/track/5Yr4NGuFC4w93Sf5BqfX7s"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Glory to Glory",
         "url": "https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 448719,
       "name": "Jesus, You're Beautiful (Live)",
       "url": "https://open.spotify.com/track/6aQq9IC5749DQOj6I7rhNM"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 350386,
-      "name": "Come Holy Spirit - Live",
-      "url": "https://open.spotify.com/track/5Yr4NGuFC4w93Sf5BqfX7s"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1711,38 +1711,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Glory to Glory",
-        "url": "https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB"
-      },
-      "artists": [
-        {
-          "name": "Iron Bell Music",
-          "url": "https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK"
-        }
-      ],
-      "duration_ms": 569244,
-      "name": "Holy Desire (From Worship Nights at the Barn)",
-      "url": "https://open.spotify.com/track/37o1DSQq5WzSFjYKKXDDIR"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "A Thousand More",
-        "url": "https://open.spotify.com/album/5qmPdBvCX3tvJpeFMMon0y"
-      },
-      "artists": [
-        {
-          "name": "Thrive Worship",
-          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
-        }
-      ],
-      "duration_ms": 359710,
-      "name": "A Thousand More - Live",
-      "url": "https://open.spotify.com/track/6q4Q2EOne9TaUNIb7tdxfu"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Overflow",
         "url": "https://open.spotify.com/album/36zbRaoRByQr4yNEdFxe9Y"
       },
@@ -1759,18 +1727,18 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "A Million Saints (Live)",
-        "url": "https://open.spotify.com/album/6X85XloR1ljEvfnOIKs0Yv"
+        "name": "A Thousand More",
+        "url": "https://open.spotify.com/album/5qmPdBvCX3tvJpeFMMon0y"
       },
       "artists": [
         {
-          "name": "Meredith Andrews",
-          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
+          "name": "Thrive Worship",
+          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
         }
       ],
-      "duration_ms": 208864,
-      "name": "A Million Saints (Live)",
-      "url": "https://open.spotify.com/track/4qD61pEn6BtS9Bo86jlUYt"
+      "duration_ms": 359710,
+      "name": "A Thousand More - Live",
+      "url": "https://open.spotify.com/track/6q4Q2EOne9TaUNIb7tdxfu"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1795,6 +1763,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "A Million Saints (Live)",
+        "url": "https://open.spotify.com/album/6X85XloR1ljEvfnOIKs0Yv"
+      },
+      "artists": [
+        {
+          "name": "Meredith Andrews",
+          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
+        }
+      ],
+      "duration_ms": 208864,
+      "name": "A Million Saints (Live)",
+      "url": "https://open.spotify.com/track/4qD61pEn6BtS9Bo86jlUYt"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Glory to Glory",
         "url": "https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB"
       },
@@ -1804,9 +1788,9 @@
           "url": "https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK"
         }
       ],
-      "duration_ms": 315476,
-      "name": "The More of You I See",
-      "url": "https://open.spotify.com/track/7jmAAygPC6IHuEwnDm82D0"
+      "duration_ms": 569244,
+      "name": "Holy Desire (From Worship Nights at the Barn)",
+      "url": "https://open.spotify.com/track/37o1DSQq5WzSFjYKKXDDIR"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1823,6 +1807,26 @@
       "duration_ms": 271920,
       "name": "Is He Worthy?",
       "url": "https://open.spotify.com/track/2fLm3XEZnGnsw0caZh8v8T"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Stir a Passion",
+        "url": "https://open.spotify.com/album/5pjsLhandWZP3rUF7NQuZ9"
+      },
+      "artists": [
+        {
+          "name": "Worship Central",
+          "url": "https://open.spotify.com/artist/3i0j8jwJKHchZU40nbd2Xt"
+        },
+        {
+          "name": "Josh Gauton",
+          "url": "https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M"
+        }
+      ],
+      "duration_ms": 499760,
+      "name": "Stir a Passion - Live",
+      "url": "https://open.spotify.com/track/5Yd2LrQZg3ouzzvgC1QKvJ"
     }
   ],
   "unique_name": "epicPRAISE",

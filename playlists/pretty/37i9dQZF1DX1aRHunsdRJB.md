@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,130 likes - 68 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,133 likes - 68 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 40 | [Captain](https://open.spotify.com/track/1mIFjtNYF0BGxyHsLFVAfR) | [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Captain](https://open.spotify.com/album/3kXjZlfvVrmri82iXNG3O6) | 3:50 |
 | 41 | [We Outside](https://open.spotify.com/track/2tQ4YMW7iOA6pbA4Zb87sT) | [System32](https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20), [Viking Ding Dong](https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK) | [Knock About Riddim](https://open.spotify.com/album/0rjdrM2IvkSXQodZMGEoZw) | 2:56 |
 | 42 | [Ba Ba Ben \- Remix](https://open.spotify.com/track/71XZiTsbFbZoYFwIVBYSQR) | [DJ CHEEM](https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ), [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng), [Noah Powa](https://open.spotify.com/artist/48gJBFt1TIiFXaUEHnzNwN), [Lil Rick](https://open.spotify.com/artist/2JHvSRTVaQp5riTM8GoXBA) | [Ba Ba Ben \(Remix\)](https://open.spotify.com/album/5BXDWRiFkMijKVlK7yV3ug) | 3:25 |
-| 43 | [Shots \(One for Di Road\)](https://open.spotify.com/track/6rIE6JA0jPE3OyuNPGrX2C) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O) | [Baila Riddim](https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS) | 2:17 |
+| 43 | [Man with Ride \(Big Ride\)](https://open.spotify.com/track/4lnYCV8h7WMusbocyjX8aP) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O), [Blackboy](https://open.spotify.com/artist/5IRAIoTz3nx7KYujtayoMu), [Ezra](https://open.spotify.com/artist/6H3rq6G5qNy35La9pxUtoB) | [Big Ride Riddim](https://open.spotify.com/album/6xf96U9L4Lf1GdSV2ai5sN) | 2:06 |
 | 44 | [Nasty Up](https://open.spotify.com/track/1ZTihlaGPnfLrOXbOFyj15) | [Problem Child](https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU) | [Darkseid Riddim](https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX) | 3:34 |
 | 45 | [Conch Shell](https://open.spotify.com/track/6NVR4oBAlPuuvpsYSZcyJF) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Iwer George](https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw) | [Conch Shell](https://open.spotify.com/album/2HAyottRa9yxUIiZXx2xLQ) | 3:12 |
 | 46 | [Private Zess](https://open.spotify.com/track/2f33W36xOV4apM1O3KE0wN) | [K Lion](https://open.spotify.com/artist/6fanvfSBKMMExePwhUq8Mi), [LR](https://open.spotify.com/artist/3TkImpONkqVur05k1iIe7l) | [Private Zess](https://open.spotify.com/album/4WOfofh96ugasqjG2CAyN6) | 2:48 |
 | 47 | [Guh Down](https://open.spotify.com/track/4gNXjJOrIn7UUX2SJhs27J) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Soca Gold 2011](https://open.spotify.com/album/7mbrzf6XMjrp3WAcy9uwX0) | 3:07 |
-| 48 | [Man with Ride \(Big Ride\)](https://open.spotify.com/track/4lnYCV8h7WMusbocyjX8aP) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O), [Blackboy](https://open.spotify.com/artist/5IRAIoTz3nx7KYujtayoMu), [Ezra](https://open.spotify.com/artist/6H3rq6G5qNy35La9pxUtoB) | [Big Ride Riddim](https://open.spotify.com/album/6xf96U9L4Lf1GdSV2ai5sN) | 2:06 |
+| 48 | [Shots \(One for Di Road\)](https://open.spotify.com/track/6rIE6JA0jPE3OyuNPGrX2C) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O) | [Baila Riddim](https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS) | 2:17 |
 | 49 | [Weak](https://open.spotify.com/track/607EfTzykwvBsL3w9rBhyM) | [Ricardo Drue](https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF) | [Happy Music](https://open.spotify.com/album/7gg7u9cvEVZayLtMLLbO6R) | 2:49 |
 | 50 | [Bad in Bumbum](https://open.spotify.com/track/4NIhpYk93J8Xou2vZt3iIe) | [Mighty](https://open.spotify.com/artist/5stVQl2C3bSrgrQqZieo02), [Subance](https://open.spotify.com/artist/5f7VKqtGJPjgKtA5TtWwRv) | [Local Drum Riddim](https://open.spotify.com/album/6nrr7yxkhFC1GDCNeKoAkD) | 2:31 |
 | 51 | [Anthem](https://open.spotify.com/track/04OXihLP8tDSa1KnaeTcwK) | [Daddy1](https://open.spotify.com/artist/1KgNeTwbXBsI13ic0uGxNi) | [Anthem](https://open.spotify.com/album/41tNtvYCo0VIQfhHKQ2YMI) | 2:55 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 67 | [The People Man \(T.P.M.\)](https://open.spotify.com/track/2xsCpoyTKtvaejdEQkLo7T) | [Kisha](https://open.spotify.com/artist/6vK1HRsfeYa8m5ejJD4RTc), [Mata](https://open.spotify.com/artist/1jo7mWxIHJtOm0TAoKL1jJ) | [Sick Jab Riddim \(Deluxe Edition\)](https://open.spotify.com/album/1T6GuTqK1HDTYmW8J8d3Nj) | 2:15 |
 | 68 | [Feeling It](https://open.spotify.com/track/62pvKYjeztdIXbOoucJQfZ) | [Swappi](https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ), [Ultimate Rejects](https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA) | [Feeling It](https://open.spotify.com/album/40IyjtthaOItYrK8mcASuu) | 4:07 |
 
-Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAwMDEzM2E4YzRiYjAwZjZlODJmYTYzNDk4ZGE2ZDZjNjU5`
+Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAwMDcyZmEzYjg4NGZmMzhhNTVkNWI1M2JlOTdmYWMzMjQ2`

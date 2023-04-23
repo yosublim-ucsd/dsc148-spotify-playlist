@@ -1,12 +1,12 @@
 {
   "description": "Soothing ASMR whispers to help you drift off to sleep. Slow, soft and calming.",
-  "num_followers": 31569,
+  "num_followers": 31573,
   "original_name": "ASMR Sleep Whispers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM0NTcyMiwwMDAwMDAwMGRjMDcwZDI3YTUwMDk4ZjVlMzgzNTA4OTE4ZmM2MDFh",
+  "snapshot_id": "MTY3NTM0NTcyMiwwMDAwMDAwMGUxMmNjYmUyZDZhOTY0ODMzYzNkOGQ2MDgzNmRlMDQ0",
   "tracks": [
     {
       "added_at": "2023-02-02 13:48:42",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "ASMR Whispers (Binaural)",
-        "url": "https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6"
-      },
-      "artists": [
-        {
-          "name": "Mr. Jones ASMR",
-          "url": "https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb"
-        }
-      ],
-      "duration_ms": 170035,
-      "name": "Unintelligble Sleep Whisper Breathing Scratching",
-      "url": "https://open.spotify.com/track/5a3cr3l0yJm2e8ZK2Ephif"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
         "name": "Santorini Sunbath ASMR",
         "url": "https://open.spotify.com/album/6Gso3Ic4TjOzdeQwjNrAMt"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 304949,
       "name": "Into Dreams",
       "url": "https://open.spotify.com/track/5x4vUEtSMG1DT6QEMT1ZQn"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
+        "name": "ASMR Whispers (Binaural)",
+        "url": "https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6"
+      },
+      "artists": [
+        {
+          "name": "Mr. Jones ASMR",
+          "url": "https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb"
+        }
+      ],
+      "duration_ms": 170035,
+      "name": "Unintelligble Sleep Whisper Breathing Scratching",
+      "url": "https://open.spotify.com/track/5a3cr3l0yJm2e8ZK2Ephif"
     },
     {
       "added_at": "2023-02-02 13:48:42",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "DEEP SLEEP in 45 Minutes",
-        "url": "https://open.spotify.com/album/3lTWKjbjrHsEQ27NqB7h3u"
-      },
-      "artists": [
-        {
-          "name": "Alana ASMR",
-          "url": "https://open.spotify.com/artist/48DAnk1KeJX11nFUNH8CyM"
-        }
-      ],
-      "duration_ms": 298347,
-      "name": "DEEP SLEEP in 45 Minutes Pt.3",
-      "url": "https://open.spotify.com/track/0vDgu0Eyll8tdk1ai6J94q"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
         "name": "Binaural ASMR Descriptions",
         "url": "https://open.spotify.com/album/6mYajfeaMCGhviyvdaKjo0"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 166335,
       "name": "Red Candle Whisper Description",
       "url": "https://open.spotify.com/track/3nu8DD1G3gPw3qtkzOVkdh"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
+        "name": "DEEP SLEEP in 45 Minutes",
+        "url": "https://open.spotify.com/album/3lTWKjbjrHsEQ27NqB7h3u"
+      },
+      "artists": [
+        {
+          "name": "Alana ASMR",
+          "url": "https://open.spotify.com/artist/48DAnk1KeJX11nFUNH8CyM"
+        }
+      ],
+      "duration_ms": 298347,
+      "name": "DEEP SLEEP in 45 Minutes Pt.3",
+      "url": "https://open.spotify.com/track/0vDgu0Eyll8tdk1ai6J94q"
     },
     {
       "added_at": "2023-02-02 13:48:42",

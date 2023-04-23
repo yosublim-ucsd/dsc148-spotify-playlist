@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 
 > This is Banda Los Sebastianes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,275 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,281 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,20 +44,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 | 34 | [Para Siempre](https://open.spotify.com/track/6FYE3IwVFyCOHc99sQJn6L) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Quédate En Casa, Escuchando Tu Música De Banda](https://open.spotify.com/album/0trOcU61oGAaORHrNNHjqh) | 3:50 |
 | 35 | [La Persona Perfecta](https://open.spotify.com/track/6t2yVuyNdlSbyICGkJMEXL) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Enamórate Con Las Bandas Más Matonas](https://open.spotify.com/album/1yggBjd0oH9pS34rMt51Mr) | 3:08 |
 | 36 | [El Columpio](https://open.spotify.com/track/5RFGhTUAavKFEsmdFNprNY) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6), [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Cántalas](https://open.spotify.com/album/3E1fWH9Vyb9eBasSLXUBim) | 3:09 |
-| 37 | [Puedo Jurarte](https://open.spotify.com/track/17KOAAIOCVZ1Zkgqp1CyCl) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Banda Old School](https://open.spotify.com/album/0J3lfnoyvzkpntWcmUNG4p) | 3:06 |
-| 38 | [Bajo La Misma Luna](https://open.spotify.com/track/56jxX3SgAqBeh4QXs6foK4) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Las Rompe Corazones](https://open.spotify.com/album/3yBLJIwcqJl1WkNVOEesC0) | 2:12 |
-| 39 | [El Karma Del Amor](https://open.spotify.com/track/3SjYX57vuhfUg9VviFWHDQ) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Estilo a la Antiguita](https://open.spotify.com/album/1F1SuKmjawTzxyu1Hl1Orl) | 3:07 |
-| 40 | [La Historia De Mis Recuerdos](https://open.spotify.com/track/7hPwe7B9KFxfKfwJpfRbXE) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Cocktelito De Bandas En La Playa](https://open.spotify.com/album/1y9Z9x5dIlVk0rTwC2eDGi) | 2:52 |
-| 41 | [El Cosalazo](https://open.spotify.com/track/6GRXNgSC2qjCQNvnxwPu5E) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Gracias a Ti](https://open.spotify.com/album/7lEUBVfFGtfBZI62fsAqRr) | 3:11 |
-| 42 | [Ojalá Que Nunca](https://open.spotify.com/track/4ze2hiXj6Wew2cqgWoO8O1) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Las Rompe Corazones](https://open.spotify.com/album/3yBLJIwcqJl1WkNVOEesC0) | 3:19 |
-| 43 | [Los Pixeliados](https://open.spotify.com/track/3uzwF5eeGoKrFza3IzB8Ac) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [En Vida](https://open.spotify.com/album/7cNRJJ8O9KOvXfljCk96YT) | 1:58 |
-| 44 | [Luces, Cámara Y Acción](https://open.spotify.com/track/2PZvXrNIYNV9zu5FHiOwuo) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/1Mv9qLkaZWApDlGFmJhX6T) | 2:56 |
-| 45 | [Nada Esta Escrito](https://open.spotify.com/track/0ycfVi1IJY3deTbK1aJJZJ) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Gracias a Ti](https://open.spotify.com/album/7lEUBVfFGtfBZI62fsAqRr) | 3:36 |
-| 46 | [Si Mi Cama Hablara](https://open.spotify.com/track/3vinYGZFkxLnWOrfiZSjYT) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/5l7PQ8qglxjy8AWRl2fqoc) | 3:00 |
-| 47 | [El Ahijado Consentido](https://open.spotify.com/track/338SWo1hpaLVWdFrHJe70h) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Aferrado](https://open.spotify.com/album/0UkiPYTZxW0qgfEDrtV2q6) | 2:55 |
-| 48 | [También Me Gusta Que Me Quieras](https://open.spotify.com/track/5TFVkmvWbKl8Yn4fTGp4lU) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [En Vida](https://open.spotify.com/album/7cNRJJ8O9KOvXfljCk96YT) | 3:40 |
-| 49 | [Todo Incluido](https://open.spotify.com/track/4k26PA9V8ii4XyxFVL3mGO) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Gracias a Ti](https://open.spotify.com/album/7lEUBVfFGtfBZI62fsAqRr) | 3:09 |
-| 50 | [La Idea](https://open.spotify.com/track/5r5AWI5KdhZyOBM9pJlPyV) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Lo Grande](https://open.spotify.com/album/5HbJLezRG8myDEdC7SN8Ep) | 2:56 |
-| 51 | [No Es La Primera Vez](https://open.spotify.com/track/0utba0v9M6e8sqoNIyard9) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Indeleble](https://open.spotify.com/album/2PKsmaDxBIeXWvC85ZUxRJ) | 3:20 |
+| 37 | [Bajo La Misma Luna](https://open.spotify.com/track/56jxX3SgAqBeh4QXs6foK4) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Las Rompe Corazones](https://open.spotify.com/album/3yBLJIwcqJl1WkNVOEesC0) | 2:12 |
+| 38 | [El Karma Del Amor](https://open.spotify.com/track/3SjYX57vuhfUg9VviFWHDQ) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Estilo a la Antiguita](https://open.spotify.com/album/1F1SuKmjawTzxyu1Hl1Orl) | 3:07 |
+| 39 | [La Historia De Mis Recuerdos](https://open.spotify.com/track/7hPwe7B9KFxfKfwJpfRbXE) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Cocktelito De Bandas En La Playa](https://open.spotify.com/album/1y9Z9x5dIlVk0rTwC2eDGi) | 2:52 |
+| 40 | [El Cosalazo](https://open.spotify.com/track/6GRXNgSC2qjCQNvnxwPu5E) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Gracias a Ti](https://open.spotify.com/album/7lEUBVfFGtfBZI62fsAqRr) | 3:11 |
+| 41 | [Ojalá Que Nunca](https://open.spotify.com/track/4ze2hiXj6Wew2cqgWoO8O1) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Las Rompe Corazones](https://open.spotify.com/album/3yBLJIwcqJl1WkNVOEesC0) | 3:19 |
+| 42 | [Los Pixeliados](https://open.spotify.com/track/3uzwF5eeGoKrFza3IzB8Ac) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [En Vida](https://open.spotify.com/album/7cNRJJ8O9KOvXfljCk96YT) | 1:58 |
+| 43 | [Luces, Cámara Y Acción](https://open.spotify.com/track/2PZvXrNIYNV9zu5FHiOwuo) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/1Mv9qLkaZWApDlGFmJhX6T) | 2:56 |
+| 44 | [Nada Esta Escrito](https://open.spotify.com/track/0ycfVi1IJY3deTbK1aJJZJ) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Gracias a Ti](https://open.spotify.com/album/7lEUBVfFGtfBZI62fsAqRr) | 3:36 |
+| 45 | [Si Mi Cama Hablara](https://open.spotify.com/track/3vinYGZFkxLnWOrfiZSjYT) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/5l7PQ8qglxjy8AWRl2fqoc) | 3:00 |
+| 46 | [El Ahijado Consentido](https://open.spotify.com/track/338SWo1hpaLVWdFrHJe70h) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Aferrado](https://open.spotify.com/album/0UkiPYTZxW0qgfEDrtV2q6) | 2:55 |
+| 47 | [También Me Gusta Que Me Quieras](https://open.spotify.com/track/5TFVkmvWbKl8Yn4fTGp4lU) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [En Vida](https://open.spotify.com/album/7cNRJJ8O9KOvXfljCk96YT) | 3:40 |
+| 48 | [Todo Incluido](https://open.spotify.com/track/4k26PA9V8ii4XyxFVL3mGO) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Gracias a Ti](https://open.spotify.com/album/7lEUBVfFGtfBZI62fsAqRr) | 3:09 |
+| 49 | [La Idea](https://open.spotify.com/track/5r5AWI5KdhZyOBM9pJlPyV) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Lo Grande](https://open.spotify.com/album/5HbJLezRG8myDEdC7SN8Ep) | 2:56 |
+| 50 | [No Es La Primera Vez](https://open.spotify.com/track/0utba0v9M6e8sqoNIyard9) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Indeleble](https://open.spotify.com/album/2PKsmaDxBIeXWvC85ZUxRJ) | 3:20 |
+| 51 | [Por Qué Fuiste Tu](https://open.spotify.com/track/2gimN5m7FClQum2DkzlffY) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [En Vida](https://open.spotify.com/album/7cNRJJ8O9KOvXfljCk96YT) | 2:55 |
 
-Snapshot ID: `MjgwMzQ5ODIsMDAwMDAwMDA1Mjg3YzU5NjA1NjRlNDg1M2Q1ODZjNmUzNzE1MzAyMw==`
+Snapshot ID: `MjgwMzYwOTcsMDAwMDAwMDBjZGE2NWY2YzhjNThjNTAyNWQ5MDNmZjJhNTExNDUzOA==`

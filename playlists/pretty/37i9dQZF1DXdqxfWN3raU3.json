@@ -1,12 +1,12 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B creado en el continente y Espa\u00f1a. Tiago PZK en portada.",
-  "num_followers": 95555,
+  "num_followers": 95592,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA1NjgwMCwwMDAwMDAwMGVjN2FjNjU5MzMwODZlM2ZhZGU5YWM1NDI2NGExYjFk",
+  "snapshot_id": "MTY4MjA1NjgwMCwwMDAwMDAwMDUwY2ZjYmQwYzYwODFmZDE1MTU0NTU2Nzk1MWExMzk5",
   "tracks": [
     {
       "added_at": "2023-04-21 06:00:00",
@@ -783,34 +783,6 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "RIP",
-        "url": "https://open.spotify.com/album/55b2KZglwORMKbL2bW8EhC"
-      },
-      "artists": [
-        {
-          "name": "Zizzy",
-          "url": "https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS"
-        },
-        {
-          "name": "ARON",
-          "url": "https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J"
-        },
-        {
-          "name": "Selene",
-          "url": "https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS"
-        },
-        {
-          "name": "Omizs",
-          "url": "https://open.spotify.com/artist/5O1s8Zfh5BbsXjtIXjVS9y"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "RIP",
-      "url": "https://open.spotify.com/track/1iSLhqv5Lf9N9Rp9bqQQWD"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
         "name": "Invierno",
         "url": "https://open.spotify.com/album/36akjquegYLPv8C90n0Hqu"
       },
@@ -835,6 +807,34 @@
       "duration_ms": 225882,
       "name": "Invierno",
       "url": "https://open.spotify.com/track/2tuEMMVAIRWjOTCTHgI7d8"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "RIP",
+        "url": "https://open.spotify.com/album/55b2KZglwORMKbL2bW8EhC"
+      },
+      "artists": [
+        {
+          "name": "Zizzy",
+          "url": "https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS"
+        },
+        {
+          "name": "ARON",
+          "url": "https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J"
+        },
+        {
+          "name": "Selene",
+          "url": "https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS"
+        },
+        {
+          "name": "Omizs",
+          "url": "https://open.spotify.com/artist/5O1s8Zfh5BbsXjtIXjVS9y"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "RIP",
+      "url": "https://open.spotify.com/track/1iSLhqv5Lf9N9Rp9bqQQWD"
     },
     {
       "added_at": "2023-04-21 06:00:00",
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "Let Me Down Slow",
-        "url": "https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz"
+        "name": "Roxanne",
+        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
       },
       "artists": [
         {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
         }
       ],
-      "duration_ms": 177954,
-      "name": "Let Me Down Slow",
-      "url": "https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG"
+      "duration_ms": 213993,
+      "name": "A la Mitad (Suceso 1)",
+      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
     }
   ],
   "unique_name": "R&B Latino",

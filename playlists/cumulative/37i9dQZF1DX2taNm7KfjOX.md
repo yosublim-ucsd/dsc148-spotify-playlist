@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Paris Paloma
 
-485 songs - 1 day 6 hr 21 min
+486 songs - 1 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Ain't That The Way](https://open.spotify.com/track/0g31ynVt7Zy2cmYmTQfyjr) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Ain't That The Way](https://open.spotify.com/album/1s1n8hW8oWLzTlj2w2nGLn) | 2:53 | 2021-10-22 | 2022-07-29 |
 | [Alabama Haint](https://open.spotify.com/track/3NVGIampibL0YVG3wwaX8G) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Alabama Haint](https://open.spotify.com/album/11cZUoRDf5kWxxfCUjzKHg) | 3:02 | 2022-01-14 |  |
 | [Alaska](https://open.spotify.com/track/3jfYDfrnp0dseGWZfa3jqt) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Alaska](https://open.spotify.com/album/4rFxEoG9PEDkONioOInJhy) | 2:05 | 2022-01-14 | 2022-06-25 |
-| [Ali](https://open.spotify.com/track/4TQYdFRCYW7QH0vwmYYt97) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:12 | 2022-06-24 |  |
+| [Ali](https://open.spotify.com/track/4TQYdFRCYW7QH0vwmYYt97) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:12 | 2022-06-24 | 2023-04-23 |
 | [Ali](https://open.spotify.com/track/6MIBYuOl9utcgCkhcnwh4K) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Ali](https://open.spotify.com/album/0dA1GAsNyDEHy0uHAkXFzS) | 3:12 | 2022-04-13 | 2022-04-16 |
 | [All Is Well](https://open.spotify.com/track/3KAQ4xe2sR6IiltZw8HSA5) | [Austin Basham](https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA) | [You and Me for Now](https://open.spotify.com/album/5KPl7k36JzLxe4bisDG8S4) | 4:16 | 2022-06-24 |  |
 | [All Is Well](https://open.spotify.com/track/7Mp3Oi6hkTtT9kzGRHb7ie) | [Austin Basham](https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA) | [Linton // Oslo EP](https://open.spotify.com/album/32XXbj5kGVHk56UtDKkenb) | 4:16 | 2022-04-13 | 2022-04-19 |
@@ -95,6 +95,7 @@
 | [Civilian](https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Civilian](https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS) | 3:40 | 2022-06-24 | 2023-03-11 |
 | [Civilian](https://open.spotify.com/track/7630alXL5HfQAHQhBam5pJ) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Civilian](https://open.spotify.com/album/2IWn2PFFPhYexWP8fBDNp9) | 3:40 | 2021-10-22 | 2022-07-29 |
 | [Colors](https://open.spotify.com/track/5t1h9peb8agz2mxvXtSlou) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0), [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Colors](https://open.spotify.com/album/0VfWB085G8pwOy6kpUhd0F) | 1:56 | 2022-01-14 |  |
+| [colour in life](https://open.spotify.com/track/6MKw0vVRAtO5gs8G96IkQZ) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [colour in life](https://open.spotify.com/album/1NqI2jWZ4Mbi9vFHlxiz2A) | 4:48 | 2023-04-21 |  |
 | [Complex](https://open.spotify.com/track/0mMLaYnvYOMMHxgqU0DxX0) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Complex](https://open.spotify.com/album/0Cc8YFUkcxQXuDOO1CfSO8) | 3:48 | 2021-10-22 | 2022-07-29 |
 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 | 2022-08-26 |  |
 | [Consolation Prize](https://open.spotify.com/track/71wiJ619MbaSStsiN6XT06) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Consolation Prize](https://open.spotify.com/album/5KyVj6FfbV3lwwMIXyQeZ1) | 4:00 | 2022-06-24 |  |

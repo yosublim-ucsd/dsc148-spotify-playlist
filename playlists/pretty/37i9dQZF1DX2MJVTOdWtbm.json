@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Chicocurlyhead\n",
-  "num_followers": 106195,
+  "num_followers": 106233,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ4NDk1NiwwMDAwMDAwMDIwYmEzMDY2ZGY2NGUxNTgwN2MwZDU4M2M0MTRkYzJh",
+  "snapshot_id": "MTY3ODQ4NDk1NiwwMDAwMDAwMGQyNmUzYjlmYWVjNzQyNWFjZGNhZDc3NDliYzk3MGVm",
   "tracks": [
     {
       "added_at": "2023-03-10 21:49:16",
@@ -467,26 +467,6 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Ac\u00e9rcate",
-        "url": "https://open.spotify.com/album/5d8ygrapgzsFXavPw9Snkl"
-      },
-      "artists": [
-        {
-          "name": "Beruti",
-          "url": "https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI"
-        },
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 167218,
-      "name": "Ac\u00e9rcate",
-      "url": "https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
         "name": "La Ducha Remix (con Becky G, Tini)",
         "url": "https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 274437,
       "name": "La Ducha Remix (con Becky G, Tini)",
       "url": "https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
+        "name": "Ac\u00e9rcate",
+        "url": "https://open.spotify.com/album/5d8ygrapgzsFXavPw9Snkl"
+      },
+      "artists": [
+        {
+          "name": "Beruti",
+          "url": "https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI"
+        },
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 167218,
+      "name": "Ac\u00e9rcate",
+      "url": "https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Let Me Down Slow",
-        "url": "https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz"
+        "name": "Roxanne",
+        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
       },
       "artists": [
         {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
         }
       ],
-      "duration_ms": 177954,
-      "name": "Let Me Down Slow",
-      "url": "https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG"
+      "duration_ms": 213993,
+      "name": "A la Mitad (Suceso 1)",
+      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Roxanne",
-        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
+        "name": "Let Me Down Slow",
+        "url": "https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz"
       },
       "artists": [
         {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
         }
       ],
-      "duration_ms": 213993,
-      "name": "A la Mitad (Suceso 1)",
-      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
+      "duration_ms": 177954,
+      "name": "Let Me Down Slow",
+      "url": "https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "I.W.Y.",
-        "url": "https://open.spotify.com/album/0W3AKS1vhthN13diu18bTH"
-      },
-      "artists": [
-        {
-          "name": "Carlos Unger",
-          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
-        }
-      ],
-      "duration_ms": 173165,
-      "name": "I.W.Y.",
-      "url": "https://open.spotify.com/track/2qePnoTLNzI1aJHLdLBvQM"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
         "name": "Thirteen",
         "url": "https://open.spotify.com/album/6uB35Vnb3ntHG3r7SaOpTQ"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 213733,
       "name": "Thirteen",
       "url": "https://open.spotify.com/track/3CeerksBP1R34v6L79rPvC"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
+        "name": "I.W.Y.",
+        "url": "https://open.spotify.com/album/0W3AKS1vhthN13diu18bTH"
+      },
+      "artists": [
+        {
+          "name": "Carlos Unger",
+          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
+        }
+      ],
+      "duration_ms": 173165,
+      "name": "I.W.Y.",
+      "url": "https://open.spotify.com/track/2qePnoTLNzI1aJHLdLBvQM"
     },
     {
       "added_at": "2023-03-10 21:49:16",

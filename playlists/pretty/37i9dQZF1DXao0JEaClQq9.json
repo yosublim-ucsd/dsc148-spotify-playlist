@@ -1,12 +1,12 @@
 {
   "description": "eclectic ethereal feeling. cover: Ethel Cain ",
-  "num_followers": 1604575,
+  "num_followers": 1604757,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjEwNTY1OSwwMDAwMDAwMDU4MDZhYWU0N2I3OTNlMjM2MTVkZTg0ODM2ZTdmNDg0",
+  "snapshot_id": "MTY4MjEwNTY1OSwwMDAwMDAwMDk0NGU1ZjY4NGE5Mjg5ZDViMmQ3ODk2ODZjY2Y3MTgx",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/2iPwsfkSPMu1TL3uGF4iNv"
-      },
-      "artists": [
-        {
-          "name": "Peter Manos",
-          "url": "https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal"
-        }
-      ],
-      "duration_ms": 214533,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/3bne7Qit5AbHkX6kWDItYP"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "HYPNOS",
         "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
       },
@@ -951,22 +935,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Black Panther: Wakanda Forever (Original Score)",
-        "url": "https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p"
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/2iPwsfkSPMu1TL3uGF4iNv"
       },
       "artists": [
         {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
-        },
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+          "name": "Peter Manos",
+          "url": "https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal"
         }
       ],
-      "duration_ms": 160226,
-      "name": "Con La Brisa - Film Version",
-      "url": "https://open.spotify.com/track/2vthaS3SkgTfe5vrpVgITG"
+      "duration_ms": 214533,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/3bne7Qit5AbHkX6kWDItYP"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -983,6 +963,26 @@
       "duration_ms": 124954,
       "name": "Unbothered",
       "url": "https://open.spotify.com/track/3pBG8fHFEUp3edhWfkIoCW"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Black Panther: Wakanda Forever (Original Score)",
+        "url": "https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        },
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "duration_ms": 160226,
+      "name": "Con La Brisa - Film Version",
+      "url": "https://open.spotify.com/track/2vthaS3SkgTfe5vrpVgITG"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Call For Help",
-        "url": "https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX"
-      },
-      "artists": [
-        {
-          "name": "Pearly Drops",
-          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
-        }
-      ],
-      "duration_ms": 147441,
-      "name": "Bloom For Me",
-      "url": "https://open.spotify.com/track/5C25UbDGoB9pgvqFlGfS9A"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Untourable Album",
         "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 185660,
       "name": "Serenade of Water",
       "url": "https://open.spotify.com/track/5tt7O3V5vwf8ltkr1Wgxrf"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Call For Help",
+        "url": "https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX"
+      },
+      "artists": [
+        {
+          "name": "Pearly Drops",
+          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
+        }
+      ],
+      "duration_ms": 147441,
+      "name": "Bloom For Me",
+      "url": "https://open.spotify.com/track/5C25UbDGoB9pgvqFlGfS9A"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 219727,
-      "name": "The Smoke",
-      "url": "https://open.spotify.com/track/1usvtV2D0EBPb7Rk1l0PwQ"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Guilty Conscience (Tame Impala Remix)",
         "url": "https://open.spotify.com/album/0YklB1LaVFTWaEub2I3tiW"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 214986,
       "name": "Guilty Conscience - Tame Impala Remix",
       "url": "https://open.spotify.com/track/5i5fCpsnqDJ9AfeObgd0gW"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 219727,
+      "name": "The Smoke",
+      "url": "https://open.spotify.com/track/1usvtV2D0EBPb7Rk1l0PwQ"
     },
     {
       "added_at": "2023-03-24 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 
 > MADE of latin roots, MADE in the U.S\. MADE to shine! Cover: DannyLux
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,525 likes - 78 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,571 likes - 78 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,18 +55,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 45 | [Santee](https://open.spotify.com/track/5Jssxp8m8PbF7gd9lZFfsx) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Santee](https://open.spotify.com/album/2OWQzXNMHUMe35yaKbWXcb) | 1:49 |
 | 46 | [Sexo Sin Drama](https://open.spotify.com/track/2qQ0RuYvFLsYZarBTCSbJw) | [Digiannia](https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875) | [Sexo Sin Drama](https://open.spotify.com/album/2ndDGHFi69bEujXAftA959) | 2:22 |
 | 47 | [Un Poquito Más](https://open.spotify.com/track/5iph5i9bTxD7vJEjXeYMDP) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Un Poquito Más](https://open.spotify.com/album/1Q4rU1AFX6gzbomhgnbxHL) | 2:59 |
-| 48 | [Futuro](https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT) | [COASTCITY](https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj) | [Futuro](https://open.spotify.com/album/3f1hF4eTrVUq71O4Nj0Puf) | 4:02 |
-| 49 | [A La Quien Quieres](https://open.spotify.com/track/4q9lwDou2FP4Vj3993sfAW) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Ojos Vacíos](https://open.spotify.com/album/39MoSLkmTFasjXjfWGzqqB) | 3:41 |
+| 48 | [A La Quien Quieres](https://open.spotify.com/track/4q9lwDou2FP4Vj3993sfAW) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Ojos Vacíos](https://open.spotify.com/album/39MoSLkmTFasjXjfWGzqqB) | 3:41 |
+| 49 | [Futuro](https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT) | [COASTCITY](https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj) | [Futuro](https://open.spotify.com/album/3f1hF4eTrVUq71O4Nj0Puf) | 4:02 |
 | 50 | [Flexa](https://open.spotify.com/track/7dHS8dBVEZc3xP7jfm7g6u) | [Sessi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Flexa](https://open.spotify.com/album/4ap1rTmDR8Xubn6Crx0EbR) | 3:18 |
 | 51 | [déjame vivir](https://open.spotify.com/track/087sEV24d6VtERT2aiW9T2) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [amorlove](https://open.spotify.com/album/2fr723OoqF6nYM0ucTIuQ8) | 3:27 |
-| 52 | [De La Nada](https://open.spotify.com/track/6v9NpFk0H4fGGW1Rr1xV82) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf), [Hd\_offisial](https://open.spotify.com/artist/5nKa5tAE66U8DCpVmR3AsX) | [De La Nada](https://open.spotify.com/album/26d7Q4AHlzN1hBrXPvFIvQ) | 4:24 |
-| 53 | [OH NO](https://open.spotify.com/track/7dJD8JAMAZmPZRimGYfCwe) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [OH NO](https://open.spotify.com/album/20rj1pmnfjicvfHIOJAaYu) | 2:48 |
+| 52 | [OH NO](https://open.spotify.com/track/7dJD8JAMAZmPZRimGYfCwe) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [OH NO](https://open.spotify.com/album/20rj1pmnfjicvfHIOJAaYu) | 2:48 |
+| 53 | [De La Nada](https://open.spotify.com/track/6v9NpFk0H4fGGW1Rr1xV82) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf), [Hd\_offisial](https://open.spotify.com/artist/5nKa5tAE66U8DCpVmR3AsX) | [De La Nada](https://open.spotify.com/album/26d7Q4AHlzN1hBrXPvFIvQ) | 4:24 |
 | 54 | [Funeral](https://open.spotify.com/track/2Z4syCA63OcBLOKcKUEdeY) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Funeral](https://open.spotify.com/album/6Foa8yfowcB9oqqD4NcjHA) | 3:14 |
-| 55 | [La Ingenua](https://open.spotify.com/track/4WuGyMWj0g7BO5WfiDyVJU) | [La Cassandra](https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw) | [La Ingenua](https://open.spotify.com/album/7F9ZVsDDH12Z7L0sQULRt5) | 3:37 |
-| 56 | [BULLET PUT DOWN](https://open.spotify.com/track/7lNXNRgoTKXrbb2nr8mBGh) | [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03) | [BULLET PUT DOWN](https://open.spotify.com/album/6NVPlVd0X90je1Sd9rlriH) | 2:34 |
-| 57 | [Ideas In Mind](https://open.spotify.com/track/5zS8EhKARJ1G6wfTXuNBu0) | [Aroe Phoenix](https://open.spotify.com/artist/6AkFDQFapnYQswNRaqPSVO) | [Ideas In Mind](https://open.spotify.com/album/1iiFx24WGvey7d0rIJtk1D) | 3:38 |
-| 58 | [Del Amor Al Odio](https://open.spotify.com/track/0D44Q1JSPFbtz8VDSUINtv) | [Digiannia](https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875) | [Del Amor Al Odio](https://open.spotify.com/album/7CMhhkwEOq6TBywB2zK1dV) | 3:16 |
-| 59 | [Me Empiezo a Enamorar](https://open.spotify.com/track/09o3cUojKPKVA8XyFZ0fkp) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Me Empiezo a Enamorar](https://open.spotify.com/album/6zSHa67aBmU7uraUjDZ6NI) | 3:22 |
+| 55 | [Me Empiezo a Enamorar](https://open.spotify.com/track/09o3cUojKPKVA8XyFZ0fkp) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Me Empiezo a Enamorar](https://open.spotify.com/album/6zSHa67aBmU7uraUjDZ6NI) | 3:22 |
+| 56 | [La Ingenua](https://open.spotify.com/track/4WuGyMWj0g7BO5WfiDyVJU) | [La Cassandra](https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw) | [La Ingenua](https://open.spotify.com/album/7F9ZVsDDH12Z7L0sQULRt5) | 3:37 |
+| 57 | [BULLET PUT DOWN](https://open.spotify.com/track/7lNXNRgoTKXrbb2nr8mBGh) | [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03) | [BULLET PUT DOWN](https://open.spotify.com/album/6NVPlVd0X90je1Sd9rlriH) | 2:34 |
+| 58 | [Ideas In Mind](https://open.spotify.com/track/5zS8EhKARJ1G6wfTXuNBu0) | [Aroe Phoenix](https://open.spotify.com/artist/6AkFDQFapnYQswNRaqPSVO) | [Ideas In Mind](https://open.spotify.com/album/1iiFx24WGvey7d0rIJtk1D) | 3:38 |
+| 59 | [Del Amor Al Odio](https://open.spotify.com/track/0D44Q1JSPFbtz8VDSUINtv) | [Digiannia](https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875) | [Del Amor Al Odio](https://open.spotify.com/album/7CMhhkwEOq6TBywB2zK1dV) | 3:16 |
 | 60 | [DE CERO A 100](https://open.spotify.com/track/6Pg2ciFoNsARurxQWm6KlN) | [Yeiow](https://open.spotify.com/artist/55l4u3fRNiOaM00eZjw5yl) | [DE CERO A 100](https://open.spotify.com/album/7wTSAIHdVtcLa3scZsipuI) | 2:44 |
 | 61 | [Olvidar De Ti](https://open.spotify.com/track/4FAyJudwDRGLZyXsYPxRRI) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Olvidar De Ti](https://open.spotify.com/album/2pQx1F9ehl2E8V88HuHhlb) | 2:13 |
 | 62 | [The Dream](https://open.spotify.com/track/4TYe8NRgpLFQBJrJLeSAqn) | [xBValentine](https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [The Dream](https://open.spotify.com/album/3IICOMvM3iSFf0Q3Jmc1Pt) | 3:22 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 77 | [El Raulito](https://open.spotify.com/track/0T8psfzHptYOA1GHDBqgbx) | [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o) | [El Raulito](https://open.spotify.com/album/4ZqXlZBnogGgyyX7XdxqsD) | 3:10 |
 | 78 | [Losing My Mind](https://open.spotify.com/track/1lF9NdpTfSo2gnJtgNhn3S) | [Calista Del Toro](https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc) | [Losing My Mind](https://open.spotify.com/album/3CcCKl14Z94YwcjHAHpSMH) | 2:35 |
 
-Snapshot ID: `MTY4MjA1NDE2NywwMDAwMDAwMDExMGIzYWJjMWFkMmU3YzM2Zjg2YzM4NThiNDY2NDI3`
+Snapshot ID: `MTY4MjA1NDE2NywwMDAwMDAwMDRlNTgyMzE2MmI1ZmZhNGE0NmIwZmQ2YTdkNDRjMjQ1`

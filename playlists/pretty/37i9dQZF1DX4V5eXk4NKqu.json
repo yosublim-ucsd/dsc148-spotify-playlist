@@ -1,12 +1,12 @@
 {
   "description": "The best Latin Indie tracks right now, featuring YADAM.",
-  "num_followers": 149302,
+  "num_followers": 149301,
   "original_name": "Ultimate Latin Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0MjkyNiwwMDAwMDAwMDY0YmU3OThiNDFjNTQzZmI1MjVkODhkMzZkMzFkYzlj",
+  "snapshot_id": "MTY4MjA0MjkyNiwwMDAwMDAwMGYwYzczYzI3NmM5NjAzNDc5MTE4YWQ3NTg0OWQwOTQ1",
   "tracks": [
     {
       "added_at": "2023-04-21 02:08:46",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-04-21 02:08:46",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 218803,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH"
-    },
-    {
-      "added_at": "2023-04-21 02:08:46",
-      "album": {
         "name": "Inevitable",
         "url": "https://open.spotify.com/album/2v0nWKYp3INzkGDRTQBqQa"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 204963,
       "name": "Inevitable",
       "url": "https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK"
+    },
+    {
+      "added_at": "2023-04-21 02:08:46",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 218803,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH"
     },
     {
       "added_at": "2023-04-21 02:08:46",
@@ -735,26 +735,6 @@
     {
       "added_at": "2023-04-21 02:08:46",
       "album": {
-        "name": "M\u00e1quina Del Tiempo",
-        "url": "https://open.spotify.com/album/5XoNFY7hjKE1aM7u7mVArg"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        },
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 213893,
-      "name": "M\u00e1quina Del Tiempo",
-      "url": "https://open.spotify.com/track/20YoweYFRfAUHKIIDleCQF"
-    },
-    {
-      "added_at": "2023-04-21 02:08:46",
-      "album": {
         "name": "en la ciudad",
         "url": "https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 211986,
       "name": "en la ciudad",
       "url": "https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7"
+    },
+    {
+      "added_at": "2023-04-21 02:08:46",
+      "album": {
+        "name": "M\u00e1quina Del Tiempo",
+        "url": "https://open.spotify.com/album/5XoNFY7hjKE1aM7u7mVArg"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        },
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 213893,
+      "name": "M\u00e1quina Del Tiempo",
+      "url": "https://open.spotify.com/track/20YoweYFRfAUHKIIDleCQF"
     },
     {
       "added_at": "2023-04-21 02:08:46",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-04-21 02:08:46",
       "album": {
-        "name": "MIMO",
-        "url": "https://open.spotify.com/album/3mx6ZABLIkj5RjODUtQY21"
-      },
-      "artists": [
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
-        }
-      ],
-      "duration_ms": 151207,
-      "name": "FRESH",
-      "url": "https://open.spotify.com/track/51O1GVKmV5xJhemFjotvSV"
-    },
-    {
-      "added_at": "2023-04-21 02:08:46",
-      "album": {
         "name": "Match",
         "url": "https://open.spotify.com/album/3kx5G9S55HO7FRFOK3rJ79"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 205160,
       "name": "Match",
       "url": "https://open.spotify.com/track/50xxt81t7cjfV0wPhUTmiU"
+    },
+    {
+      "added_at": "2023-04-21 02:08:46",
+      "album": {
+        "name": "MIMO",
+        "url": "https://open.spotify.com/album/3mx6ZABLIkj5RjODUtQY21"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "duration_ms": 151207,
+      "name": "FRESH",
+      "url": "https://open.spotify.com/track/51O1GVKmV5xJhemFjotvSV"
     },
     {
       "added_at": "2023-04-21 02:08:46",
@@ -983,6 +983,26 @@
     {
       "added_at": "2023-04-21 02:08:46",
       "album": {
+        "name": "LA RUTA NATURAL",
+        "url": "https://open.spotify.com/album/3JgA2PPl6TmIWEC4C3f1sF"
+      },
+      "artists": [
+        {
+          "name": "Rubytates",
+          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
+        },
+        {
+          "name": "Solo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
+        }
+      ],
+      "duration_ms": 197179,
+      "name": "LA RUTA NATURAL",
+      "url": "https://open.spotify.com/track/1BAc6iqnXXilFBKDaxXpSY"
+    },
+    {
+      "added_at": "2023-04-21 02:08:46",
+      "album": {
         "name": "It Was a Home",
         "url": "https://open.spotify.com/album/03ik0WUdejkxQy4Jc4iexg"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 194131,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/2Z4syCA63OcBLOKcKUEdeY"
-    },
-    {
-      "added_at": "2023-04-21 02:08:46",
-      "album": {
-        "name": "LA RUTA NATURAL",
-        "url": "https://open.spotify.com/album/3JgA2PPl6TmIWEC4C3f1sF"
-      },
-      "artists": [
-        {
-          "name": "Rubytates",
-          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
-        },
-        {
-          "name": "Solo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
-        }
-      ],
-      "duration_ms": 197179,
-      "name": "LA RUTA NATURAL",
-      "url": "https://open.spotify.com/track/1BAc6iqnXXilFBKDaxXpSY"
     },
     {
       "added_at": "2023-04-21 02:08:46",

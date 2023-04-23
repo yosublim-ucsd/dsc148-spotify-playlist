@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Anja Schneider
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,385 likes - 77 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,527 likes - 77 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 12 | [Level One](https://open.spotify.com/track/3oCfybScespNWsvxK6l48B) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Level One](https://open.spotify.com/album/32nuiBkyfkO2lLAvLgajFz) | 7:50 |
 | 13 | [The Conclusion \- Five Phases Project \(5/5\)](https://open.spotify.com/track/38tFaMPTiCosT510Ngy9V5) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Five Phases \- The Conclusion](https://open.spotify.com/album/56gQBLWyFcInE8fJIWLGnH) | 4:43 |
 | 14 | [Remember](https://open.spotify.com/track/0ipEsrE5nl48bqum2f3WTE) | [Thomas Lizzara](https://open.spotify.com/artist/6WqAx7kpPz11g54zvpcOuU) | [Remember](https://open.spotify.com/album/64fWnC87TtnWfUwAeJptcl) | 6:58 |
-| 15 | [Gator](https://open.spotify.com/track/7slSQMJ8gq2hIWXbAdmNTg) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Commune \| Volume 2](https://open.spotify.com/album/0PxSZFgvilDptwvLWieLxe) | 8:23 |
+| 15 | [Gator](https://open.spotify.com/track/7slSQMJ8gq2hIWXbAdmNTg) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Gator](https://open.spotify.com/album/0PxSZFgvilDptwvLWieLxe) | 8:23 |
 | 16 | [Cormoran](https://open.spotify.com/track/09jgiJE4renLFOUgqxSWml) | [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA) | [Cormoran](https://open.spotify.com/album/70Ovl6U9pKTsE2bE2YiXvc) | 6:28 |
 | 17 | [Dark Sun](https://open.spotify.com/track/4Rlbt7DrxqHqT2gSAOVbLe) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Momentum](https://open.spotify.com/album/0dqK6mrJ3jnp8fmN5gbbTB) | 7:10 |
 | 18 | [All I Need](https://open.spotify.com/track/54DstnlyeCz0Zb2HDtBJaq) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [All I Need](https://open.spotify.com/album/1VsjBsi7QxD87w4dRoBc8h) | 3:35 |

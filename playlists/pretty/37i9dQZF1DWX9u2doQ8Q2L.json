@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 366021,
+  "num_followers": 366098,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAwMjgwMCwwMDAwMDAwMDU5YTdmOTk3Y2U2YjVkODU0OGJjMDUzZjI5NjIwZDlh",
+  "snapshot_id": "MTY4MjAwMjgwMCwwMDAwMDAwMDFmNWJjZTBhOGYyYTY2Y2MzYTVlNzViM2QxOGI0ZmYz",
   "tracks": [
     {
       "added_at": "2023-04-20 15:00:00",
@@ -871,18 +871,22 @@
     {
       "added_at": "2023-04-20 15:00:00",
       "album": {
-        "name": "\u307e\u305f\u306d",
-        "url": "https://open.spotify.com/album/4ZAqpzyaWQ5nJG9YgSDVsv"
+        "name": "DAWN (feat. Aile The Shota)",
+        "url": "https://open.spotify.com/album/28zuCoJ3HrQdD7plQcErXx"
       },
       "artists": [
         {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+          "name": "MATZ",
+          "url": "https://open.spotify.com/artist/55vjGKmlvpOxuYjwGjBKrD"
+        },
+        {
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
         }
       ],
-      "duration_ms": 216730,
-      "name": "\u307e\u305f\u306d",
-      "url": "https://open.spotify.com/track/3b9eglykqfxtTaSpSidP9u"
+      "duration_ms": 184640,
+      "name": "DAWN (feat. Aile The Shota)",
+      "url": "https://open.spotify.com/track/3LjyZPsPe9CA0DL9CS726A"
     },
     {
       "added_at": "2023-04-20 15:00:00",
@@ -915,18 +919,18 @@
     {
       "added_at": "2023-04-20 15:00:00",
       "album": {
-        "name": "Talkin' Talkin'",
-        "url": "https://open.spotify.com/album/76D9Qr6EaD8P56RKKjgCF9"
+        "name": "\u307e\u305f\u306d",
+        "url": "https://open.spotify.com/album/4ZAqpzyaWQ5nJG9YgSDVsv"
       },
       "artists": [
         {
-          "name": "Awesome City Club",
-          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
         }
       ],
-      "duration_ms": 224366,
-      "name": "Talkin' Talkin'",
-      "url": "https://open.spotify.com/track/5qvsE4V7Vpqa8GHDHQoQta"
+      "duration_ms": 216730,
+      "name": "\u307e\u305f\u306d",
+      "url": "https://open.spotify.com/track/3b9eglykqfxtTaSpSidP9u"
     },
     {
       "added_at": "2023-04-20 15:00:00",
@@ -983,22 +987,18 @@
     {
       "added_at": "2023-04-20 15:00:00",
       "album": {
-        "name": "DAWN (feat. Aile The Shota)",
-        "url": "https://open.spotify.com/album/28zuCoJ3HrQdD7plQcErXx"
+        "name": "Talkin' Talkin'",
+        "url": "https://open.spotify.com/album/76D9Qr6EaD8P56RKKjgCF9"
       },
       "artists": [
         {
-          "name": "MATZ",
-          "url": "https://open.spotify.com/artist/55vjGKmlvpOxuYjwGjBKrD"
-        },
-        {
-          "name": "Aile The Shota",
-          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+          "name": "Awesome City Club",
+          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
         }
       ],
-      "duration_ms": 184640,
-      "name": "DAWN (feat. Aile The Shota)",
-      "url": "https://open.spotify.com/track/3LjyZPsPe9CA0DL9CS726A"
+      "duration_ms": 224366,
+      "name": "Talkin' Talkin'",
+      "url": "https://open.spotify.com/track/5qvsE4V7Vpqa8GHDHQoQta"
     },
     {
       "added_at": "2023-04-20 15:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-04-20 15:00:00",
       "album": {
-        "name": "Heat",
-        "url": "https://open.spotify.com/album/6YnhFXZM5tJcBCY7BehT8L"
-      },
-      "artists": [
-        {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
-        }
-      ],
-      "duration_ms": 263692,
-      "name": "Heat",
-      "url": "https://open.spotify.com/track/0W9ZNXpTcdYrRFddGttATh"
-    },
-    {
-      "added_at": "2023-04-20 15:00:00",
-      "album": {
         "name": "Bouquet",
         "url": "https://open.spotify.com/album/1tCZ5EdMtSdaimvdhSafS9"
       },
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2023-04-20 15:00:00",
       "album": {
+        "name": "Heat",
+        "url": "https://open.spotify.com/album/6YnhFXZM5tJcBCY7BehT8L"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "duration_ms": 263692,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/0W9ZNXpTcdYrRFddGttATh"
+    },
+    {
+      "added_at": "2023-04-20 15:00:00",
+      "album": {
         "name": "\u706f\u706b (feat. miida)",
         "url": "https://open.spotify.com/album/0QRJ0PwVSFNg6KKla8CMtq"
       },
@@ -1283,6 +1283,30 @@
       "duration_ms": 184285,
       "name": "\u706f\u706b (feat. miida)",
       "url": "https://open.spotify.com/track/6mtkUqVaMoJBMG86f0RTul"
+    },
+    {
+      "added_at": "2023-04-20 15:00:00",
+      "album": {
+        "name": "So Real feat. Nicholas Ryan Gant & Suede Jury",
+        "url": "https://open.spotify.com/album/7MtotnJHqALhZyyX50egUA"
+      },
+      "artists": [
+        {
+          "name": "mabanua",
+          "url": "https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP"
+        },
+        {
+          "name": "Nicholas Ryan Gant",
+          "url": "https://open.spotify.com/artist/1ddTsvSIu8zKa23MTKZNJS"
+        },
+        {
+          "name": "Suede Jury",
+          "url": "https://open.spotify.com/artist/256MjcBz1G9sIN0LL932tr"
+        }
+      ],
+      "duration_ms": 188679,
+      "name": "So Real feat. Nicholas Ryan Gant & Suede Jury",
+      "url": "https://open.spotify.com/track/4D6cgLFL83GNIpTQQjBzvi"
     },
     {
       "added_at": "2023-04-20 15:00:00",
@@ -1311,30 +1335,6 @@
       "duration_ms": 237686,
       "name": "eden",
       "url": "https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB"
-    },
-    {
-      "added_at": "2023-04-20 15:00:00",
-      "album": {
-        "name": "So Real feat. Nicholas Ryan Gant & Suede Jury",
-        "url": "https://open.spotify.com/album/7MtotnJHqALhZyyX50egUA"
-      },
-      "artists": [
-        {
-          "name": "mabanua",
-          "url": "https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP"
-        },
-        {
-          "name": "Nicholas Ryan Gant",
-          "url": "https://open.spotify.com/artist/1ddTsvSIu8zKa23MTKZNJS"
-        },
-        {
-          "name": "Suede Jury",
-          "url": "https://open.spotify.com/artist/256MjcBz1G9sIN0LL932tr"
-        }
-      ],
-      "duration_ms": 188679,
-      "name": "So Real feat. Nicholas Ryan Gant & Suede Jury",
-      "url": "https://open.spotify.com/track/4D6cgLFL83GNIpTQQjBzvi"
     },
     {
       "added_at": "2023-04-20 15:00:00",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2023-04-20 15:00:00",
       "album": {
-        "name": "Chrome Season",
-        "url": "https://open.spotify.com/album/26z9uGhvmZt7YjkCspGTlB"
+        "name": "BEGINNING - EP",
+        "url": "https://open.spotify.com/album/4VGyyc8FtjNz7YUYGfeHUd"
       },
       "artists": [
         {
-          "name": "Bleecker Chrome",
-          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
+          "name": "TENDRE",
+          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
         }
       ],
-      "duration_ms": 186176,
-      "name": "come again",
-      "url": "https://open.spotify.com/track/7vyYFC1tpOv4mg3PrbTfCX"
+      "duration_ms": 226281,
+      "name": "YOUTH",
+      "url": "https://open.spotify.com/track/5CWAOY9n4c4Uo6YlBYLgQb"
     },
     {
       "added_at": "2023-04-20 15:00:00",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2023-04-20 15:00:00",
       "album": {
-        "name": "BEGINNING - EP",
-        "url": "https://open.spotify.com/album/4VGyyc8FtjNz7YUYGfeHUd"
+        "name": "Chrome Season",
+        "url": "https://open.spotify.com/album/26z9uGhvmZt7YjkCspGTlB"
       },
       "artists": [
         {
-          "name": "TENDRE",
-          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+          "name": "Bleecker Chrome",
+          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
         }
       ],
-      "duration_ms": 226281,
-      "name": "YOUTH",
-      "url": "https://open.spotify.com/track/5CWAOY9n4c4Uo6YlBYLgQb"
+      "duration_ms": 186176,
+      "name": "come again",
+      "url": "https://open.spotify.com/track/7vyYFC1tpOv4mg3PrbTfCX"
     },
     {
       "added_at": "2023-04-20 15:00:00",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2023-04-20 15:00:00",
       "album": {
-        "name": "2016",
-        "url": "https://open.spotify.com/album/7qeQudNVKihiHBykhZa5IY"
+        "name": "\u967d\u6c17\u306a\u4f11\u65e5",
+        "url": "https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G"
       },
       "artists": [
         {
-          "name": "Bleecker Chrome",
-          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
+          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
+          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
         }
       ],
-      "duration_ms": 240833,
-      "name": "2016",
-      "url": "https://open.spotify.com/track/7nQdpfYzWAZ48Q2IcmrC3Q"
+      "duration_ms": 268500,
+      "name": "\u5922\u306b\u306a\u3089\u306a\u3044\u3088\u3046\u306b",
+      "url": "https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2"
     },
     {
       "added_at": "2023-04-20 15:00:00",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2023-04-20 15:00:00",
       "album": {
-        "name": "\u967d\u6c17\u306a\u4f11\u65e5",
-        "url": "https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G"
-      },
-      "artists": [
-        {
-          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
-          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
-        }
-      ],
-      "duration_ms": 268500,
-      "name": "\u5922\u306b\u306a\u3089\u306a\u3044\u3088\u3046\u306b",
-      "url": "https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2"
-    },
-    {
-      "added_at": "2023-04-20 15:00:00",
-      "album": {
         "name": "\u4e00\u7b4b\u5dee\u3059",
         "url": "https://open.spotify.com/album/1GxaPl9ZoBUyicgM43GUUm"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 185681,
       "name": "\u4e00\u7b4b\u5dee\u3059",
       "url": "https://open.spotify.com/track/3nUxOIrdcQ63xKVg0PpXzn"
+    },
+    {
+      "added_at": "2023-04-20 15:00:00",
+      "album": {
+        "name": "2016",
+        "url": "https://open.spotify.com/album/7qeQudNVKihiHBykhZa5IY"
+      },
+      "artists": [
+        {
+          "name": "Bleecker Chrome",
+          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
+        }
+      ],
+      "duration_ms": 240833,
+      "name": "2016",
+      "url": "https://open.spotify.com/track/7nQdpfYzWAZ48Q2IcmrC3Q"
     },
     {
       "added_at": "2023-04-20 15:00:00",

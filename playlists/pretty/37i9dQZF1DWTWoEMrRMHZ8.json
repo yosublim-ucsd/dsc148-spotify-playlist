@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Adriana Calcanhotto",
-  "num_followers": 338164,
+  "num_followers": 338230,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTU4NTg4NSwwMDAwMDAwMDMyM2VmNzlkNDRhOTljZDI3MGQ1ZDAzNTNiOGY3MWUy",
+  "snapshot_id": "MTY4MTU4NTg4NSwwMDAwMDAwMDQwMjg1NWJhMzI5NWE3NDQyYmViNmRjZGJmYWFlMzBj",
   "tracks": [
     {
       "added_at": "2023-04-15 19:11:25",
@@ -255,26 +255,6 @@
     {
       "added_at": "2023-04-15 19:11:25",
       "album": {
-        "name": "Deixa Vir Do Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        },
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 204007,
-      "name": "Outono",
-      "url": "https://open.spotify.com/track/1oFXWGb5SWcChrzJuXXmvj"
-    },
-    {
-      "added_at": "2023-04-15 19:11:25",
-      "album": {
         "name": "Cinco",
         "url": "https://open.spotify.com/album/6DqXBagxY611pulprabgLw"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 302706,
       "name": "Soprou",
       "url": "https://open.spotify.com/track/3XOeVijHjhP33Avx55BEgK"
+    },
+    {
+      "added_at": "2023-04-15 19:11:25",
+      "album": {
+        "name": "Deixa Vir Do Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        },
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 204007,
+      "name": "Outono",
+      "url": "https://open.spotify.com/track/1oFXWGb5SWcChrzJuXXmvj"
     },
     {
       "added_at": "2023-04-15 19:11:25",
@@ -479,38 +479,6 @@
     {
       "added_at": "2023-04-15 19:11:25",
       "album": {
-        "name": "SIM SIM SIM",
-        "url": "https://open.spotify.com/album/5lPgAWFWtQOUllSFzoWJtx"
-      },
-      "artists": [
-        {
-          "name": "Bala Desejo",
-          "url": "https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH"
-        },
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        },
-        {
-          "name": "Dora Morelenbaum",
-          "url": "https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE"
-        },
-        {
-          "name": "Z\u00e9 Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
-        },
-        {
-          "name": "Lucas Nunes",
-          "url": "https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW"
-        }
-      ],
-      "duration_ms": 235435,
-      "name": "Passarinha",
-      "url": "https://open.spotify.com/track/0cLilijUD3FgmzYzV7UAug"
-    },
-    {
-      "added_at": "2023-04-15 19:11:25",
-      "album": {
         "name": "D",
         "url": "https://open.spotify.com/album/36BRJ7h8gQe09QCT1WaQe3"
       },
@@ -551,6 +519,38 @@
       "duration_ms": 268617,
       "name": "Iluminado (feat. Flavia Virginia, Max Viana, Jo\u00e3o Viana, Sofia Viana, In\u00e1cio Viana, Thomas Boljover & Lui Viana)",
       "url": "https://open.spotify.com/track/4PyckagqFTimt12aJrg71q"
+    },
+    {
+      "added_at": "2023-04-15 19:11:25",
+      "album": {
+        "name": "SIM SIM SIM",
+        "url": "https://open.spotify.com/album/5lPgAWFWtQOUllSFzoWJtx"
+      },
+      "artists": [
+        {
+          "name": "Bala Desejo",
+          "url": "https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH"
+        },
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        },
+        {
+          "name": "Dora Morelenbaum",
+          "url": "https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE"
+        },
+        {
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+        },
+        {
+          "name": "Lucas Nunes",
+          "url": "https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW"
+        }
+      ],
+      "duration_ms": 235435,
+      "name": "Passarinha",
+      "url": "https://open.spotify.com/track/0cLilijUD3FgmzYzV7UAug"
     },
     {
       "added_at": "2023-04-15 19:11:25",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-04-15 19:11:25",
       "album": {
-        "name": "Boca de A\u00e7a\u00ed",
-        "url": "https://open.spotify.com/album/3koHtGJavl6vMvCImlNNXG"
-      },
-      "artists": [
-        {
-          "name": "Maria Luiza Jobim",
-          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
-        }
-      ],
-      "duration_ms": 207857,
-      "name": "Boca de A\u00e7a\u00ed",
-      "url": "https://open.spotify.com/track/7xN0nAmh7igHAFoB0PW8kX"
-    },
-    {
-      "added_at": "2023-04-15 19:11:25",
-      "album": {
         "name": "Pago Pra Ver",
         "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
       },
@@ -799,22 +783,18 @@
     {
       "added_at": "2023-04-15 19:11:25",
       "album": {
-        "name": "Coment\u00e1rio a Respeito de John",
-        "url": "https://open.spotify.com/album/6WOf0ipvapNBTYVxG1SF54"
+        "name": "Boca de A\u00e7a\u00ed",
+        "url": "https://open.spotify.com/album/3koHtGJavl6vMvCImlNNXG"
       },
       "artists": [
         {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        },
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+          "name": "Maria Luiza Jobim",
+          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
         }
       ],
-      "duration_ms": 205215,
-      "name": "Coment\u00e1rio a Respeito de John",
-      "url": "https://open.spotify.com/track/1WtlomCakUltiZqz4TsV6R"
+      "duration_ms": 207857,
+      "name": "Boca de A\u00e7a\u00ed",
+      "url": "https://open.spotify.com/track/7xN0nAmh7igHAFoB0PW8kX"
     },
     {
       "added_at": "2023-04-15 19:11:25",
@@ -835,6 +815,26 @@
       "duration_ms": 228709,
       "name": "Para Lennon e McCartney / Cita\u00e7\u00e3o: O Vento",
       "url": "https://open.spotify.com/track/5wWVluHjM6PUU68gNSkbYm"
+    },
+    {
+      "added_at": "2023-04-15 19:11:25",
+      "album": {
+        "name": "Coment\u00e1rio a Respeito de John",
+        "url": "https://open.spotify.com/album/6WOf0ipvapNBTYVxG1SF54"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        },
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        }
+      ],
+      "duration_ms": 205215,
+      "name": "Coment\u00e1rio a Respeito de John",
+      "url": "https://open.spotify.com/track/1WtlomCakUltiZqz4TsV6R"
     },
     {
       "added_at": "2023-04-15 19:11:25",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-04-15 19:11:25",
       "album": {
+        "name": "Nu Com a Minha M\u00fasica (EP)",
+        "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 283557,
+      "name": "Nu Com a Minha M\u00fasica",
+      "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
+    },
+    {
+      "added_at": "2023-04-15 19:11:25",
+      "album": {
         "name": "Portas",
         "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 255800,
       "name": "Vento Sardo",
       "url": "https://open.spotify.com/track/6zqqCZA5EOvMXj5nRKuTy7"
-    },
-    {
-      "added_at": "2023-04-15 19:11:25",
-      "album": {
-        "name": "Nu Com a Minha M\u00fasica (EP)",
-        "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 283557,
-      "name": "Nu Com a Minha M\u00fasica",
-      "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
     },
     {
       "added_at": "2023-04-15 19:11:25",
@@ -959,46 +959,6 @@
       "duration_ms": 322543,
       "name": "Cora\u00e7\u00e3o Selvagem",
       "url": "https://open.spotify.com/track/1CJ2c62JnJK3Ax7O2C11vw"
-    },
-    {
-      "added_at": "2023-04-15 19:11:25",
-      "album": {
-        "name": "Vem Doce",
-        "url": "https://open.spotify.com/album/6O1hzrzI5wcPR7ewm3tsw2"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 193896,
-      "name": "Fique Aqui",
-      "url": "https://open.spotify.com/track/4ywqzr72Cw1I5hbHdU7wsC"
-    },
-    {
-      "added_at": "2023-04-15 19:11:25",
-      "album": {
-        "name": "Tarde Em Itapu\u00e3",
-        "url": "https://open.spotify.com/album/0DTsY0NbXVLf9mZtGXZyri"
-      },
-      "artists": [
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "Tarde Em Itapu\u00e3",
-      "url": "https://open.spotify.com/track/32WEGXh89ioVSfemQvdeKF"
     },
     {
       "added_at": "2023-04-15 19:11:25",
@@ -1047,6 +1007,46 @@
     {
       "added_at": "2023-04-15 19:11:25",
       "album": {
+        "name": "Vem Doce",
+        "url": "https://open.spotify.com/album/6O1hzrzI5wcPR7ewm3tsw2"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 193896,
+      "name": "Fique Aqui",
+      "url": "https://open.spotify.com/track/4ywqzr72Cw1I5hbHdU7wsC"
+    },
+    {
+      "added_at": "2023-04-15 19:11:25",
+      "album": {
+        "name": "Tarde Em Itapu\u00e3",
+        "url": "https://open.spotify.com/album/0DTsY0NbXVLf9mZtGXZyri"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "Tarde Em Itapu\u00e3",
+      "url": "https://open.spotify.com/track/32WEGXh89ioVSfemQvdeKF"
+    },
+    {
+      "added_at": "2023-04-15 19:11:25",
+      "album": {
         "name": "Novo Samba Sempre Novo",
         "url": "https://open.spotify.com/album/5BW4rMXqWggq5fR8RHG1cf"
       },
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-04-15 19:11:25",
       "album": {
+        "name": "Dr\u00e3o (Remasterizado)",
+        "url": "https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr"
+      },
+      "artists": [
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 311745,
+      "name": "Dr\u00e3o - Remasterizado",
+      "url": "https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS"
+    },
+    {
+      "added_at": "2023-04-15 19:11:25",
+      "album": {
         "name": "Aqui em Casa (Ao vivo na Casa de Francisca)",
         "url": "https://open.spotify.com/album/5edRUvrs7Ixak0FPMB9LPI"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 213145,
       "name": "Melhor Sozinha - Ao vivo",
       "url": "https://open.spotify.com/track/1cowom9Hc1knxxzM4ZArnP"
-    },
-    {
-      "added_at": "2023-04-15 19:11:25",
-      "album": {
-        "name": "Dr\u00e3o (Remasterizado)",
-        "url": "https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr"
-      },
-      "artists": [
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 311745,
-      "name": "Dr\u00e3o - Remasterizado",
-      "url": "https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS"
     },
     {
       "added_at": "2023-04-15 19:11:25",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-04-15 19:11:25",
       "album": {
-        "name": "Esse Amor Chegou",
-        "url": "https://open.spotify.com/album/1rM9Zl5kCjZ8GwnwbetxJh"
-      },
-      "artists": [
-        {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
-        }
-      ],
-      "duration_ms": 152801,
-      "name": "Esse Amor Chegou",
-      "url": "https://open.spotify.com/track/43qZK77WZUsK6c2HOvLXzj"
-    },
-    {
-      "added_at": "2023-04-15 19:11:25",
-      "album": {
         "name": "Ser\u00e1 que eu t\u00f4 gostando dela?",
         "url": "https://open.spotify.com/album/3slNVgQpPfoynH15INuJuG"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 196045,
       "name": "Ser\u00e1 que eu t\u00f4 gostando dela?",
       "url": "https://open.spotify.com/track/2aFrwhmO0Yw2Qh3hTE8kAX"
+    },
+    {
+      "added_at": "2023-04-15 19:11:25",
+      "album": {
+        "name": "Esse Amor Chegou",
+        "url": "https://open.spotify.com/album/1rM9Zl5kCjZ8GwnwbetxJh"
+      },
+      "artists": [
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+        }
+      ],
+      "duration_ms": 152801,
+      "name": "Esse Amor Chegou",
+      "url": "https://open.spotify.com/track/43qZK77WZUsK6c2HOvLXzj"
     },
     {
       "added_at": "2023-04-15 19:11:25",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-04-15 19:11:25",
       "album": {
+        "name": "\u00c0s Avessas Por Voc\u00ea",
+        "url": "https://open.spotify.com/album/1BIsfVIHqpSxfZxJ3DSpHZ"
+      },
+      "artists": [
+        {
+          "name": "Tot\u00f4 de Babalong",
+          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
+        }
+      ],
+      "duration_ms": 174770,
+      "name": "\u00c0s Avessas Por Voc\u00ea",
+      "url": "https://open.spotify.com/track/23DXIx5eol08KDm7yAZRsj"
+    },
+    {
+      "added_at": "2023-04-15 19:11:25",
+      "album": {
         "name": "N\u00e3o Tem Lua",
         "url": "https://open.spotify.com/album/2TKdvdufRf6yTMPnjAwZMh"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 179843,
       "name": "N\u00e3o Tem Lua",
       "url": "https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc"
-    },
-    {
-      "added_at": "2023-04-15 19:11:25",
-      "album": {
-        "name": "\u00c0s Avessas Por Voc\u00ea",
-        "url": "https://open.spotify.com/album/1BIsfVIHqpSxfZxJ3DSpHZ"
-      },
-      "artists": [
-        {
-          "name": "Tot\u00f4 de Babalong",
-          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
-        }
-      ],
-      "duration_ms": 174770,
-      "name": "\u00c0s Avessas Por Voc\u00ea",
-      "url": "https://open.spotify.com/track/23DXIx5eol08KDm7yAZRsj"
     },
     {
       "added_at": "2023-04-15 19:11:25",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-04-15 19:11:25",
       "album": {
-        "name": "Essa Pele Marcada 4 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/19XR5RzqSQ3ZBbmZ7F8ZmQ"
-      },
-      "artists": [
-        {
-          "name": "Marcos Almeida",
-          "url": "https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR"
-        }
-      ],
-      "duration_ms": 359706,
-      "name": "Conviver - Ao Vivo",
-      "url": "https://open.spotify.com/track/56n5c5qisRIcJqawTM7Bgr"
-    },
-    {
-      "added_at": "2023-04-15 19:11:25",
-      "album": {
         "name": "Lua e Estrela",
         "url": "https://open.spotify.com/album/6WLk4GdWrTFvIKqUVq0p05"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 219098,
       "name": "Lua e Estrela",
       "url": "https://open.spotify.com/track/4SbWoSJqGFeU6GxlHd2AkG"
+    },
+    {
+      "added_at": "2023-04-15 19:11:25",
+      "album": {
+        "name": "Essa Pele Marcada 4 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/19XR5RzqSQ3ZBbmZ7F8ZmQ"
+      },
+      "artists": [
+        {
+          "name": "Marcos Almeida",
+          "url": "https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR"
+        }
+      ],
+      "duration_ms": 359706,
+      "name": "Conviver - Ao Vivo",
+      "url": "https://open.spotify.com/track/56n5c5qisRIcJqawTM7Bgr"
     },
     {
       "added_at": "2023-04-15 19:11:25",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2023-04-15 19:11:25",
       "album": {
+        "name": "Diga Sim",
+        "url": "https://open.spotify.com/album/3wKE9miqxtaM7yiPpSB8qy"
+      },
+      "artists": [
+        {
+          "name": "Pato Fu",
+          "url": "https://open.spotify.com/artist/4NSbUIfUAkaedUIm8eJ631"
+        }
+      ],
+      "duration_ms": 234514,
+      "name": "Diga Sim",
+      "url": "https://open.spotify.com/track/1OmhahcoJT6q3ItiNloID7"
+    },
+    {
+      "added_at": "2023-04-15 19:11:25",
+      "album": {
         "name": "Mar\u00e9 Alta, Enfim.",
         "url": "https://open.spotify.com/album/2RAQaaazPq5LOWE5pWoNbP"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 211696,
       "name": "Na Hora do Almo\u00e7o",
       "url": "https://open.spotify.com/track/2vJQXW2tPjYr011ePpRS4r"
-    },
-    {
-      "added_at": "2023-04-15 19:11:25",
-      "album": {
-        "name": "Diga Sim",
-        "url": "https://open.spotify.com/album/3wKE9miqxtaM7yiPpSB8qy"
-      },
-      "artists": [
-        {
-          "name": "Pato Fu",
-          "url": "https://open.spotify.com/artist/4NSbUIfUAkaedUIm8eJ631"
-        }
-      ],
-      "duration_ms": 234514,
-      "name": "Diga Sim",
-      "url": "https://open.spotify.com/track/1OmhahcoJT6q3ItiNloID7"
     },
     {
       "added_at": "2023-04-15 19:11:25",
@@ -1787,18 +1787,22 @@
     {
       "added_at": "2023-04-15 19:11:25",
       "album": {
-        "name": "OSUN SENGESE (Osetura e Ogbesa)",
-        "url": "https://open.spotify.com/album/7DMoowF8ykubg7Wgw902zu"
+        "name": "Logun",
+        "url": "https://open.spotify.com/album/7qYwkWr6TL8fiwkoaTLFn7"
       },
       "artists": [
         {
-          "name": "Al\u00e1fia",
-          "url": "https://open.spotify.com/artist/2ZzDm7UiS7g3e9HVjTMr29"
+          "name": "Iara Renn\u00f3",
+          "url": "https://open.spotify.com/artist/2feEGmwdkpKsC798UP17tX"
+        },
+        {
+          "name": "Moreno Veloso",
+          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
         }
       ],
-      "duration_ms": 217197,
-      "name": "OSUN SENGESE (Osetura e Ogbesa)",
-      "url": "https://open.spotify.com/track/2zEjWoeG7iukRC3QFJzv8p"
+      "duration_ms": 200853,
+      "name": "Logun",
+      "url": "https://open.spotify.com/track/3EBMlCjT3kY8AEZ4GyXhRi"
     },
     {
       "added_at": "2023-04-15 19:11:25",
@@ -1823,22 +1827,18 @@
     {
       "added_at": "2023-04-15 19:11:25",
       "album": {
-        "name": "Logun",
-        "url": "https://open.spotify.com/album/7qYwkWr6TL8fiwkoaTLFn7"
+        "name": "OSUN SENGESE (Osetura e Ogbesa)",
+        "url": "https://open.spotify.com/album/7DMoowF8ykubg7Wgw902zu"
       },
       "artists": [
         {
-          "name": "Iara Renn\u00f3",
-          "url": "https://open.spotify.com/artist/2feEGmwdkpKsC798UP17tX"
-        },
-        {
-          "name": "Moreno Veloso",
-          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
+          "name": "Al\u00e1fia",
+          "url": "https://open.spotify.com/artist/2ZzDm7UiS7g3e9HVjTMr29"
         }
       ],
-      "duration_ms": 200853,
-      "name": "Logun",
-      "url": "https://open.spotify.com/track/3EBMlCjT3kY8AEZ4GyXhRi"
+      "duration_ms": 217197,
+      "name": "OSUN SENGESE (Osetura e Ogbesa)",
+      "url": "https://open.spotify.com/track/2zEjWoeG7iukRC3QFJzv8p"
     },
     {
       "added_at": "2023-04-15 19:11:25",
@@ -1879,26 +1879,6 @@
     {
       "added_at": "2023-04-15 19:11:25",
       "album": {
-        "name": "Doce Carnaval",
-        "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
-      },
-      "artists": [
-        {
-          "name": "Alexia Bomtempo",
-          "url": "https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9"
-        },
-        {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
-        }
-      ],
-      "duration_ms": 193186,
-      "name": "Banho de Cheiro",
-      "url": "https://open.spotify.com/track/4HdKCNf0qZ0weLDBsZKJl5"
-    },
-    {
-      "added_at": "2023-04-15 19:11:25",
-      "album": {
         "name": "Quem Samba",
         "url": "https://open.spotify.com/album/6YqDdsJPDadG2uW1Vvnnnq"
       },
@@ -1915,6 +1895,26 @@
       "duration_ms": 204760,
       "name": "Quem samba",
       "url": "https://open.spotify.com/track/157OEufqLA0jjj86i38nS7"
+    },
+    {
+      "added_at": "2023-04-15 19:11:25",
+      "album": {
+        "name": "Doce Carnaval",
+        "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
+      },
+      "artists": [
+        {
+          "name": "Alexia Bomtempo",
+          "url": "https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9"
+        },
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+        }
+      ],
+      "duration_ms": 193186,
+      "name": "Banho de Cheiro",
+      "url": "https://open.spotify.com/track/4HdKCNf0qZ0weLDBsZKJl5"
     },
     {
       "added_at": "2023-04-15 19:11:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 
 > Songs so beautiful, they'll stop you in your tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,293,340 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,293,307 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 26 | [Talking With Your Ghost](https://open.spotify.com/track/6PvvoauxBamBF1FKrdltw3) | [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Homesick](https://open.spotify.com/album/4hplF2EEAb1hxkAItGT4af) | 3:00 |
 | 27 | [Bardennoch](https://open.spotify.com/track/1YQjWqGwJmyscFhUNxsC33) | [VanIves](https://open.spotify.com/artist/6KFpXJms1gsfFAayMjj7Tj) | [Thanks](https://open.spotify.com/album/6nBTYX7rMWqpBBZnuK1Odh) | 3:51 |
 | 28 | [Hallelujah I Love Her So](https://open.spotify.com/track/4Fuyarf5fHo2zJ6GoYC48N) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz) | 2:43 |
-| 29 | [Grey](https://open.spotify.com/track/1fn6p2B9xyAMcNDWb1Z5X2) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Contours of a Cliff](https://open.spotify.com/album/7uciZ3IT8hht9S0Gmk8Ls0) | 3:05 |
+| 29 | [Grey](https://open.spotify.com/track/4BqFnKRmrQh0QY5LsqK11F) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Grey](https://open.spotify.com/album/7JVqGzBerQ60BqWx2BfUCT) | 3:05 |
 | 30 | [Revolution 0](https://open.spotify.com/track/0FUGzUqkqRktGBvIeM3p2X) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:17 |
 | 31 | [Folding](https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1) | [Abimaro](https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm) | [Folding](https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL) | 3:47 |
 | 32 | [Gin & Tonics](https://open.spotify.com/track/2yyDkQwTDkrf9B6t53dgb6) | [George David](https://open.spotify.com/artist/1NXtGiEomSRw1p2sxpIzft) | [Gin & Tonics](https://open.spotify.com/album/4mwPWJ52L7ZZ06QNoQxrza) | 2:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 79 | [Midnight Sun \- Acoustic Version](https://open.spotify.com/track/5EDuUGbmpvQKGZX1XPxje0) | [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc) | [Midnight Sun \(Acoustic Version\)](https://open.spotify.com/album/3fj2hkIP9fJ0VO1zNfmlQS) | 3:13 |
 | 80 | [Someone Like You 2](https://open.spotify.com/track/2ANTihBMOmybgVfolMGbXP) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF), [Matthew Harris](https://open.spotify.com/artist/7CgEbzJc53hDnSinf4oUij) | [Someone Like You 2](https://open.spotify.com/album/5EpuJ5hQvh2nz1iNRnCtbj) | 3:05 |
 
-Snapshot ID: `MTY4MDI3NTY4MCwwMDAwMDAwMGI2Njc0MWU3NWE2OGE0ZjBkNDlkNDczMGFhYTIwOTgy`
+Snapshot ID: `MTY4MDI3NTY4MCwwMDAwMDAwMDYzNzM5NDM5NTBlYmQwY2Q0ZGVmN2U1OTc5ZDI4YzJk`

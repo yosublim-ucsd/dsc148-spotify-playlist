@@ -4,7 +4,7 @@
 
 > Damn son, where'd ya find this? Cover: Saba
 
-365 songs - 20 hr 35 min
+366 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,7 +321,8 @@
 | [The Learning \(Burn\) \(feat\. Big Noyd\)](https://open.spotify.com/track/20ccLIFUpfzgX5kSbDakH4) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap), [Big Noyd](https://open.spotify.com/artist/4bwxkkA3AAwyymVwXjxz0F) | [Infamy](https://open.spotify.com/album/2hSnMHuLYfpp8hvdpZRjAk) | 4:15 | 2022-11-11 | 2022-11-19 |
 | [The Light](https://open.spotify.com/track/5fybLNY2eBRnEGg8SUW6yk) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Go! Common Classics](https://open.spotify.com/album/2IGKisSgNle7264UoY57vO) | 4:03 | 2023-02-17 |  |
 | [The Magic Number](https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [The Magic Number](https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31) | 3:15 | 2023-01-14 | 2023-02-25 |
-| [The Scoop On Heaven](https://open.spotify.com/track/213LtzTmFAm3LsyVnNyLGQ) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:43 | 2022-07-22 |  |
+| [The Scoop On Heaven](https://open.spotify.com/track/213LtzTmFAm3LsyVnNyLGQ) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:43 | 2022-07-22 | 2023-04-23 |
+| [The Scoop On Heaven](https://open.spotify.com/track/2nZPwKpV75BQpn9snGy2xG) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [I Love Life, Thank You](https://open.spotify.com/album/5LNX3esjvdBJ6hN4XDvCJn) | 2:43 | 2023-04-21 |  |
 | [The Tide](https://open.spotify.com/track/27N0pJsw7yMwewEEgFdklN) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [SURF OR DROWN](https://open.spotify.com/album/4cWnM4WLlf53drLOX90KuQ) | 3:56 | 2023-03-24 |  |
 | [The Title](https://open.spotify.com/track/5AcNJ4zqJEDKjO4ZZhCUTS) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg) | [The Title](https://open.spotify.com/album/2ZxNKF3uu9vW4auJRfSqx2) | 2:43 | 2022-08-12 | 2022-11-19 |
 | [The Truth](https://open.spotify.com/track/4s9jU8Krr0ICOhOF7JoBGX) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Deep Thought](https://open.spotify.com/artist/1CRTa2b81vACLSOWujVMbk) | [The Truth](https://open.spotify.com/album/3wktvqh1FbUuP3KMSeYvWA) | 3:00 | 2023-03-24 | 2023-04-15 |

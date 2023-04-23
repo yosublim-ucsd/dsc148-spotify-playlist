@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Ivana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,573 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,606 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 5 | [Quiero que me mires](https://open.spotify.com/track/6XPmyF93FbVKt4vTmciTVz) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [La pena no es cómoda](https://open.spotify.com/album/11nihd0NH5B8onAcfhDC47) | 2:20 |
 | 6 | [Antes que el sol nos queme](https://open.spotify.com/track/5In0QvvpyuKt8FHVviuRre) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Antes que el sol nos queme](https://open.spotify.com/album/1s5MJq7KIQpR5z5clJ0ixU) | 4:15 |
 | 7 | [Regalao](https://open.spotify.com/track/67Kif1sbSGb7gHmnN0tRUf) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs) | [Carlangas](https://open.spotify.com/album/3HnyyrsxIqgCB2dZw8q9gC) | 2:06 |
-| 8 | [DNA](https://open.spotify.com/track/4gBJmEtZ2TkgzKvVdTEL5F) | [yung gasper](https://open.spotify.com/artist/34b64KROUW4J6XGi0ZHIis), [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [DNA](https://open.spotify.com/album/7IbSJnuCp9Lq7V0sSsabBB) | 3:04 |
+| 8 | [DNA](https://open.spotify.com/track/4gBJmEtZ2TkgzKvVdTEL5F) | [yung gasper](https://open.spotify.com/artist/34b64KROUW4J6XGi0ZHIis), [Foudeqush](https://open.spotify.com/artist/1qEAUmIsYYzrVrk8oUYovZ) | [DNA](https://open.spotify.com/album/7IbSJnuCp9Lq7V0sSsabBB) | 3:04 |
 | 9 | [Fiebre](https://open.spotify.com/track/1z8npWYbO3fUklbLjnGL9K) | [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [Fiebre](https://open.spotify.com/album/0oVfgN8OrBuh2lgglGLFrN) | 2:22 |
 | 10 | [Alma 22](https://open.spotify.com/track/0vpbNtWeJ684IjsnE6QWcS) | [Rayden](https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa) | [Alma 22](https://open.spotify.com/album/5lXvUyDIJxqfS7qJpt32s0) | 3:08 |
 | 11 | [Tu Forma](https://open.spotify.com/track/6SullLVOVzuWkaCCHJhQaS) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Tu Forma](https://open.spotify.com/album/5C4E1kwoa7VWHEXIwdEOoK) | 2:34 |

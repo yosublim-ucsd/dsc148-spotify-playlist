@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Scott McMicken and THE EVER\-EXPANDING
 
-388 songs - 23 hr 55 min
+389 songs - 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 | 2022-03-04 |  |
 | [Marion](https://open.spotify.com/track/4Pzg3KLuXxPJ2eFsPiN134) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 2:21 | 2022-07-11 |  |
 | [Marion](https://open.spotify.com/track/6eICehJWzcEk2880W6Apif) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/54DU59anGQsdrFP7utpshG) | 2:21 | 2021-11-12 | 2022-07-28 |
-| [Marzipan](https://open.spotify.com/track/0dLdDkKRLXaciVz37WyZek) | [Jonathan Wilson](https://open.spotify.com/artist/6KJIIOCWsWtNc7ICINtPEw) | [Marzipan](https://open.spotify.com/album/4ibpyjmkswVgCl8dLG5hG2) | 5:15 | 2023-03-31 |  |
+| [Marzipan](https://open.spotify.com/track/0dLdDkKRLXaciVz37WyZek) | [Jonathan Wilson](https://open.spotify.com/artist/6KJIIOCWsWtNc7ICINtPEw) | [Marzipan](https://open.spotify.com/album/4ibpyjmkswVgCl8dLG5hG2) | 5:15 | 2023-03-31 | 2023-04-23 |
 | [McKenzie](https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Good For You](https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m) | 3:14 | 2022-07-11 |  |
 | [McKenzie](https://open.spotify.com/track/6r105oew3DqGLUEIYRMk9L) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [McKenzie](https://open.spotify.com/album/5EK1qziAlurOZINUJC1yPe) | 3:14 | 2021-11-12 | 2022-07-29 |
 | [Mecca](https://open.spotify.com/track/4C5bRIloL1afbepFvjMLYE) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Mecca](https://open.spotify.com/album/0diLOQUXoO0jIWMmC4S4KV) | 4:51 | 2022-05-25 |  |
@@ -278,6 +278,7 @@
 | [Promises](https://open.spotify.com/track/7z2MAtdSKCY0bAVy2ItYP0) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Second Nature](https://open.spotify.com/album/27yHVnSUoOngzMAwwPA0ks) | 3:59 | 2022-05-25 | 2022-07-19 |
 | [Provider](https://open.spotify.com/track/0QHydHDcswklkcHffb1NG7) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [View from the Bridge](https://open.spotify.com/album/5lIkEQvBkgqRcsDpsmepIC) | 3:05 | 2022-01-21 | 2022-04-16 |
 | [Psychos](https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Psychos](https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1) | 3:05 | 2023-03-31 |  |
+| [Puppy and a Truck](https://open.spotify.com/track/6nrfecLjwsQngv4LbOMrRe) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Puppy and a Truck](https://open.spotify.com/album/2udBN6XsNrbgLOFzrqEBVt) | 3:11 | 2023-04-21 |  |
 | [Puppy and a Truck](https://open.spotify.com/track/3yN6F2vOf3ypKv9kr8sDdm) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Puppy and a Truck](https://open.spotify.com/album/358Blro4SuMHGHYnH1Tgbl) | 3:11 | 2021-11-12 | 2023-04-21 |
 | [Rae Street](https://open.spotify.com/track/4DtQQ82VSTgYfsCBSxvK9k) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Things Take Time, Take Time](https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv) | 4:31 | 2022-07-11 |  |
 | [Rae Street](https://open.spotify.com/track/5PkE0ANATIYq9xaRQtRQJa) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Before You Gotta Go](https://open.spotify.com/album/0I6nvyv53wMsOwOuJFxGp0) | 4:31 | 2021-11-12 | 2022-07-29 |

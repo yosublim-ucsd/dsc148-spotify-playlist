@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,033 likes - 80 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,038 likes - 80 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 | 38 | [Can You Feel It](https://open.spotify.com/track/0nODM8wiYHR8Dopqi9ytzs) | [DJ Phil](https://open.spotify.com/artist/4L2n1xvdqgPgQjYxLHUAbG), [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V) | [Back to the Beginning](https://open.spotify.com/album/0OFiyKOLVAXPOPruuIcniD) | 3:20 |
 | 39 | [PRESSURE](https://open.spotify.com/track/7iEeCvmdE9HZ1ux9NhQgqo) | [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [PRESSURE](https://open.spotify.com/album/01bsqoWaI0TCuRXhPm2wLV) | 3:58 |
 | 40 | [Perfect Hibernation](https://open.spotify.com/track/0hn7lphueV0fLqHZJI69Xp) | [Ionosphere](https://open.spotify.com/artist/2KceEGw5WRrZBYaTmZzXvu) | [Hypertension EP](https://open.spotify.com/album/38iSCNxxeWHDYxcrS9qDbu) | 5:12 |
-| 41 | [Ceasefire](https://open.spotify.com/track/3snmDd6BSZvjUk0EjRh832) | [Skanna](https://open.spotify.com/artist/6h7y5SBkAAiL43dxJP5K5e) | [Intimidator \(2016 Remasters\)](https://open.spotify.com/album/6aMxaH5M6FAcpeaTT8OGr6) | 5:20 |
+| 41 | [Ceasefire](https://open.spotify.com/track/1hWkauADy0V4q4k4Y5qFN4) | [Skanna](https://open.spotify.com/artist/6h7y5SBkAAiL43dxJP5K5e) | [Intimidator \(2016 Remasters\)](https://open.spotify.com/album/0EgX5lATTNPaFn8EpBv7VM) | 5:20 |
 | 42 | [Give Me More \- Sully Remix](https://open.spotify.com/track/1qxu4AZAXDOEYg83GVF3BF) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd), [Sully](https://open.spotify.com/artist/6ryGFEDvM7703b889hPUFZ) | [AMENFR001](https://open.spotify.com/album/6dc055pbriFPMlPUKK1SwL) | 4:22 |
 | 43 | [Apache \(Let The Bass Go\)](https://open.spotify.com/track/3YijVQtJ8IoYyTLEg24jOZ) | [Basic Rhythm](https://open.spotify.com/artist/3L3DtTvIVJ9yiQIOEeGCF2), [Sully](https://open.spotify.com/artist/6ryGFEDvM7703b889hPUFZ) | [Revival EP](https://open.spotify.com/album/0uAAibQJzPpqxdSMzSAu2J) | 4:39 |
 | 44 | [Sacred](https://open.spotify.com/track/5BFFFHavVn262KfI5Pk1o8) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [/Y\\](https://open.spotify.com/album/4vrJWnbIjBvj9j4NvsUjD6) | 3:09 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 | 79 | [Booyaka Style](https://open.spotify.com/track/6vpltvodYAxx3mmPn9DpDB) | [Fracture](https://open.spotify.com/artist/5imJlmURJJk9wicePHiqvo) | [0860](https://open.spotify.com/album/0Qw8BLun3UNP3eTjKdDUML) | 4:19 |
 | 80 | [Spacey \- Doctor Jeep Remix](https://open.spotify.com/track/1k1pfKYdhsRwWL9VOJfimM) | [Bell Curve](https://open.spotify.com/artist/1DMtZ4G72tuqMxRiJNTkQf), [Strategy](https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3), [Doctor Jeep](https://open.spotify.com/artist/1vBAyx7wNfBDrAmWsGDRdA) | [Unstable Orbit \(The Remixes\)](https://open.spotify.com/album/70XksiP2lIBxRpbo0UAjSo) | 6:01 |
 
-Snapshot ID: `MTY3OTY4MjAyNCwwMDAwMDAwMDM0ZTQ2ZWM1OGZlODlmODkzMzUxMWZjMTVmNTY2ZGRi`
+Snapshot ID: `MTY3OTY4MjAyNCwwMDAwMDAwMGUwZmIwZDAxY2Q4ZjMyOWI5Yjk5MWJkOGQzYThiN2M2`

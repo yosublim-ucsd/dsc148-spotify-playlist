@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IAL5KfmFJA.md) - [plain]
 
 > In loving memory of Marie Fredriksson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,974 likes - 52 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,140 likes - 52 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

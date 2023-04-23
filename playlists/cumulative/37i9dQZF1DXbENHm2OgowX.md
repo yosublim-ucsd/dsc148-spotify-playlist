@@ -4,7 +4,7 @@
 
 > wandering the forest as the fog floats through the trees
 
-116 songs - 11 hr 1 min
+117 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Place To Sleep](https://open.spotify.com/track/3IRjaJfl3lNubGbRGXL7et) | [air hunger](https://open.spotify.com/artist/40UUOCP3GVEKusB4RZ50W0) | [A Place To Sleep](https://open.spotify.com/album/7wfuhwQqnIm5ojXsAxfV48) | 6:38 | 2023-04-13 |  |
 | [A Quick One Before the Eternal Worm Devours Connecticut](https://open.spotify.com/track/34dkZZNQJzEJRqPkywYmEY) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 7:52 | 2022-02-11 |  |
 | [Alien Observer](https://open.spotify.com/track/35VfLKymw2iZKWnLTvm8Xv) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Alien Observer](https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi) | 3:56 | 2022-02-11 |  |
-| [All That's Left Behind](https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Murken Hollow](https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q) | 6:03 | 2022-11-09 |  |
+| [All That's Left Behind](https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Murken Hollow](https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q) | 6:03 | 2022-11-09 | 2023-04-23 |
 | [And They Will Fall](https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG) | [Nik Sudan](https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD) | [And They Will Fall](https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk) | 4:01 | 2022-02-11 |  |
 | [Animism](https://open.spotify.com/track/3rXugDRBIPMHUzLqxA0hg4) | [Violet A\. Foster](https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi) | [Moments.](https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t) | 4:51 | 2023-01-20 | 2023-04-22 |
 | [As Bright as the Night](https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 4:56 | 2022-07-08 |  |
@@ -44,6 +44,7 @@
 | [Fallen Down](https://open.spotify.com/track/20Y0mRrgyivN56Euwcwu0w) | [Duncan Cox](https://open.spotify.com/artist/26vX4WK3FGhtkiExrFubD4) | [Fallen Down](https://open.spotify.com/album/7ajASrVc4lCeQ4Scp85Xvz) | 2:21 | 2023-01-09 |  |
 | [Fantas Morbida](https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Fantas Variations](https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO) | 3:07 | 2022-11-09 |  |
 | [For Horror Eats The Light](https://open.spotify.com/track/4bjIYKqKkqC6gaNbTGBEAY) | [Fvnerals](https://open.spotify.com/artist/3Z9ijrVnS0SeT22OTcsTqu) | [For Horror Eats The Light](https://open.spotify.com/album/0UaJnty4Oy44vdZ0dQCU2o) | 7:32 | 2022-11-09 | 2023-04-22 |
+| [For Horror Eats The Light](https://open.spotify.com/track/5N4723h6DlwmmbpuNA895G) | [Fvnerals](https://open.spotify.com/artist/3Z9ijrVnS0SeT22OTcsTqu) | [Let the Earth be Silent](https://open.spotify.com/album/5kHFBHMQiNM05M6eN4R0ez) | 7:32 | 2023-04-21 |  |
 | [Gazing Back At Earth](https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP) | [Andy Leech](https://open.spotify.com/artist/5rz0WsqMcYyV7lAmLlBdWj) | [Gazing Back At Earth](https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA) | 5:16 | 2022-04-01 |  |
 | [Gold Dust](https://open.spotify.com/track/40MYrR5GY6f0ghFOnJJC9v) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 2:05 | 2022-02-11 |  |
 | [Gold of the Azure \- Marconi Union Remix](https://open.spotify.com/track/3PdFwrtQxYdw0S1urHwKO6) | [Digitonal](https://open.spotify.com/artist/5IRw6qWz0NFImXO3hNOyai), [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Set the Weather Fair: Seasons](https://open.spotify.com/album/3OKHTxMZvKcIhB1tvZTNgq) | 6:36 | 2022-10-04 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Songs for lovers like you've never heard before. Cover: Muni Long",
-  "num_followers": 13638,
+  "num_followers": 13639,
   "original_name": "Spotify Singles: Love Edition",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTEwNDY0OSwwMDAwMDAwMGE4OWIzYjg1MDAyZGQ1YjM5ZTJlZTEzOThhZDhjZDM2",
+  "snapshot_id": "MTY3NTEwNDY0OSwwMDAwMDAwMDc5N2NjODkwMjU1OTdmZjVlZjgwZWFmOGE1YmY4OTFm",
   "tracks": [
     {
       "added_at": "2023-01-30 18:50:49",
@@ -356,22 +356,6 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 176652,
-      "name": "you broke me first - Spotify Singles",
-      "url": "https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA"
-    },
-    {
-      "added_at": "2023-01-30 18:50:49",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH"
       },
       "artists": [
@@ -388,17 +372,17 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
+        "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
       },
       "artists": [
         {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 168798,
-      "name": "I'll Be There For You - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo"
+      "duration_ms": 176652,
+      "name": "you broke me first - Spotify Singles",
+      "url": "https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA"
     },
     {
       "added_at": "2023-01-30 18:50:49",
@@ -415,6 +399,22 @@
       "duration_ms": 198000,
       "name": "U Remind Me - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/22wMOOsQVIKkoVAILL5ruw"
+    },
+    {
+      "added_at": "2023-01-30 18:50:49",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 168798,
+      "name": "I'll Be There For You - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo"
     },
     {
       "added_at": "2023-01-30 18:50:49",
@@ -656,22 +656,6 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 199914,
-      "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
-    },
-    {
-      "added_at": "2023-01-30 18:50:49",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0IHfimWKQ6PMXKEekqHp36"
       },
       "artists": [
@@ -683,6 +667,22 @@
       "duration_ms": 221361,
       "name": "Let Me Love You - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1Ue0oCRGIs4ARyg3ucMmRJ"
+    },
+    {
+      "added_at": "2023-01-30 18:50:49",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 199914,
+      "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
     },
     {
       "added_at": "2023-01-30 18:50:49",
@@ -1060,22 +1060,6 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 195850,
-      "name": "Real Peach - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW"
-    },
-    {
-      "added_at": "2023-01-30 18:50:49",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0VGvGFpQhkexY9GMSih3Jv"
       },
       "artists": [
@@ -1087,6 +1071,22 @@
       "duration_ms": 160523,
       "name": "Lie To Me - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/47DHoEPxnSkT4f626qo5Mw"
+    },
+    {
+      "added_at": "2023-01-30 18:50:49",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 195850,
+      "name": "Real Peach - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW"
     },
     {
       "added_at": "2023-01-30 18:50:49",
@@ -1320,22 +1320,6 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3RH0hpUJfWcCNEjuypAtGC"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 161447,
-      "name": "So Good - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0qPpxUVTaEGbGsMCugG4JQ"
-    },
-    {
-      "added_at": "2023-01-30 18:50:49",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l"
       },
       "artists": [
@@ -1347,6 +1331,22 @@
       "duration_ms": 267802,
       "name": "Versace On the Floor - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ"
+    },
+    {
+      "added_at": "2023-01-30 18:50:49",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3RH0hpUJfWcCNEjuypAtGC"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 161447,
+      "name": "So Good - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0qPpxUVTaEGbGsMCugG4JQ"
     },
     {
       "added_at": "2023-01-30 18:50:49",
@@ -1748,22 +1748,6 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/45TIKE2URFPyJlo6UA2kMl"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 194187,
-      "name": "Buena Sera - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1uDOXrIOANQXEhqbFay4Ks"
-    },
-    {
-      "added_at": "2023-01-30 18:50:49",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV"
       },
       "artists": [
@@ -1775,6 +1759,22 @@
       "duration_ms": 241456,
       "name": "Hotel Key - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/1DLguucCi86On4F9TW8CU7"
+    },
+    {
+      "added_at": "2023-01-30 18:50:49",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/45TIKE2URFPyJlo6UA2kMl"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 194187,
+      "name": "Buena Sera - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1uDOXrIOANQXEhqbFay4Ks"
     },
     {
       "added_at": "2023-01-30 18:50:49",
@@ -1880,22 +1880,6 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P"
-      },
-      "artists": [
-        {
-          "name": "Welles",
-          "url": "https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l"
-        }
-      ],
-      "duration_ms": 251803,
-      "name": "Lovesong - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T"
-    },
-    {
-      "added_at": "2023-01-30 18:50:49",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1KQQIiKcpLntswP4sW62yK"
       },
       "artists": [
@@ -1907,6 +1891,22 @@
       "duration_ms": 214107,
       "name": "Stay High - Recorded At East West Studios",
       "url": "https://open.spotify.com/track/0LeA15NV8v9W1HrZvD3rqS"
+    },
+    {
+      "added_at": "2023-01-30 18:50:49",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P"
+      },
+      "artists": [
+        {
+          "name": "Welles",
+          "url": "https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l"
+        }
+      ],
+      "duration_ms": 251803,
+      "name": "Lovesong - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T"
     },
     {
       "added_at": "2023-01-30 18:50:49",
@@ -1928,22 +1928,6 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt"
-      },
-      "artists": [
-        {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
-        }
-      ],
-      "duration_ms": 184773,
-      "name": "Burn Out - Recorded At Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/0wFyhPrMt4maLtWmLeG7lq"
-    },
-    {
-      "added_at": "2023-01-30 18:50:49",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3"
       },
       "artists": [
@@ -1955,6 +1939,22 @@
       "duration_ms": 158501,
       "name": "Unforgettable - Recorded at Sound Stage Nashville",
       "url": "https://open.spotify.com/track/24VXXFM4abj8UwTNEIIL8L"
+    },
+    {
+      "added_at": "2023-01-30 18:50:49",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "duration_ms": 184773,
+      "name": "Burn Out - Recorded At Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/0wFyhPrMt4maLtWmLeG7lq"
     },
     {
       "added_at": "2023-01-30 18:50:49",

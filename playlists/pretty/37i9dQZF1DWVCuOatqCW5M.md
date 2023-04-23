@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Tulsi Kumar
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,166 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,301 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Awaara](https://open.spotify.com/track/6RPZe2vOtlPHd0jAvjiqrm) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Kaushik\-Guddu](https://open.spotify.com/artist/7EiUTtmmkwGtbgR6gZaZzW) | [Awaara](https://open.spotify.com/album/6dOcxir87NehMIIUMrQDaL) | 3:33 |
 | 2 | [Kyun Dhunde](https://open.spotify.com/track/5leuT90qq5V4glfgAs651F) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Kyun Dhunde](https://open.spotify.com/album/0YRCWHHUxmIfBpHvgCt52R) | 3:33 |
 | 3 | [Mai Tumse Milne Aaunga](https://open.spotify.com/track/44rv7zup4FcU3Rk9MwAdN2) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj), [Aishwarya Pandit](https://open.spotify.com/artist/4IY2mM3s6rYRKlQCq7hK4W) | [Mai Tumse Milne Aaunga](https://open.spotify.com/album/1yKPcuc5aGYASA9hY864jS) | 3:57 |
-| 4 | [Pehli Nazar Ko Salaam](https://open.spotify.com/track/5UKpcqOJLU1URmoXvP6BWL) | [Aishwarya Majmudar](https://open.spotify.com/artist/7MAlFea251zaprQFjwvYaL) | [Pehli Nazar Ko Salaam](https://open.spotify.com/album/4erhva8Lx1OuDZBm2CfbRg) | 3:19 |
+| 4 | [Pehli Nazar Ko Salaam](https://open.spotify.com/track/3Tx0ZYnww0VfXx2DDYpjvQ) | [Aishwarya Majmudar](https://open.spotify.com/artist/7MAlFea251zaprQFjwvYaL) | [Pehli Nazar Ko Salaam \- Single](https://open.spotify.com/album/2QmUrLXgIyGowOsRhqJP2P) | 3:19 |
 | 5 | [Mujhe Mere Naam Se](https://open.spotify.com/track/3QaIy5RwASN8UuRVuw5BHz) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Mujhe Mere Naam Se](https://open.spotify.com/album/6KGAJk0rHos4UNZErML5Ap) | 3:43 |
 | 6 | [Andhere Mein](https://open.spotify.com/track/2wJxH0lKLTXwtOtjoH4qLx) | [Neel Adhikari](https://open.spotify.com/artist/2pGEFe1FmuRslGamBfjV7U), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Tooth Pari: When Love Bites \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6h5BMg8y3Urmp2sYys6apz) | 4:06 |
 | 7 | [Ishq mein aalaa](https://open.spotify.com/track/7uTc5irHc0RRnqj1Y7usEJ) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [Ishq mein aalaa](https://open.spotify.com/album/1UwwcjWPAyyiNnQG4FvsZC) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Choo Liya](https://open.spotify.com/track/3CCKZEmtnCCbq2jrEihxgr) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [MEER](https://open.spotify.com/artist/4Qtx4aI2TxoK7IDTDZgvti), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Choo Liya](https://open.spotify.com/album/0bm7EwOK7BLJUrrx0J9Sm6) | 3:03 |
 | 50 | [Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Jadoo](https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1) | 3:10 |
 
-Snapshot ID: `MTY4MjA0MzQ4MCwwMDAwMDAwMDFkOGRmNWI2NjcxMWZhNWVkYmJjMTZhM2M2NDgyYTQ4`
+Snapshot ID: `MTY4MjA0MzQ4MCwwMDAwMDAwMGJhYTJlMjRlZTY5NWUxM2UzZjE0MGJiYTMyN2VjMThj`

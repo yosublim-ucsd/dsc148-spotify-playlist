@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Relax and indulge with beautiful piano pieces
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,007,896 likes - 302 songs - 12 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,009,440 likes - 302 songs - 12 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 89 | [Rainbow](https://open.spotify.com/track/38IQW5WbKIQwSDsMQPMLSk) | [Dylan John Sparkes](https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R) | [Leap Of Faith](https://open.spotify.com/album/4DCBMQJDtO07ku18JAFk1Z) | 2:56 |
 | 90 | [Quiet At Dawn](https://open.spotify.com/track/5UOhiSuywxh22VLsnTieUW) | [Galen Rise](https://open.spotify.com/artist/7sZcguS7cGilZg03SqOH3R) | [Quiet At Dawn](https://open.spotify.com/album/2tdaZLir12VrA9oZWtKiRm) | 3:18 |
 | 91 | [Ruiseñor](https://open.spotify.com/track/0ECmXrwUI8YqLnKKom8jq1) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Khione](https://open.spotify.com/album/6nkSfwqiUqpcDcr3i5Ep51) | 2:59 |
-| 92 | [Night](https://open.spotify.com/track/6gP1lRXjWOCwkwOiuhITvm) | [Coeur](https://open.spotify.com/artist/5YRwec5e32jsHSKX1nKHEO) | [Night](https://open.spotify.com/album/16kvMhddZV5tUTCrVcOdRX) | 2:28 |
+| 92 | [Night](https://open.spotify.com/track/6gP1lRXjWOCwkwOiuhITvm) | [Coeur](https://open.spotify.com/artist/6YhMR3gGjIbtHlskODqCUd) | [Night](https://open.spotify.com/album/16kvMhddZV5tUTCrVcOdRX) | 2:28 |
 | 93 | [Ottilia](https://open.spotify.com/track/6lstaOC6qWvXPcXPgWXfc0) | [Yana Couto](https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt) | [Ottilia](https://open.spotify.com/album/7ve9Vr6dNirQtiOHie0U9s) | 2:30 |
 | 94 | [Ellebori](https://open.spotify.com/track/1j7pycxTWD6vyiKJout75p) | [Alvize Fantacone](https://open.spotify.com/artist/4sew4Q0f9agKwtwW6EpMH1) | [Ellebori](https://open.spotify.com/album/1Gzq0KGnmDKcF2jwPM83rS) | 2:59 |
 | 95 | [Winterfall](https://open.spotify.com/track/5Ooy87HjMYRxy5qiRNsilk) | [Eric Ville de Soins](https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj) | [Winterfall](https://open.spotify.com/album/3dvaINV7eEgY6dPr5QVsvX) | 2:39 |

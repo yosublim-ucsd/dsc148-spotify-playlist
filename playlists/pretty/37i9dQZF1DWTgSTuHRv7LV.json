@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Peso Pluma, Aleman. ",
-  "num_followers": 469216,
+  "num_followers": 469313,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjExODM1OSwwMDAwMDAwMGYxMDYyNzFiMjY0YTMyZDIzZmQwYTE4Mzc4ZjMyYzEz",
+  "snapshot_id": "MTY4MjExODM1OSwwMDAwMDAwMDM3ZGQ0ZWRkYTFkNjJmYWUyYjVhNzk2NWU1Njg3ZjAz",
   "tracks": [
     {
       "added_at": "2023-04-21 23:05:59",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
-        "name": "NO LO S\u00c9",
-        "url": "https://open.spotify.com/album/1Br5WXUWmSDjUL6eoMnMXc"
-      },
-      "artists": [
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 239996,
-      "name": "NO LO S\u00c9",
-      "url": "https://open.spotify.com/track/5WlFKlTHjg3x8G8icmQjzP"
-    },
-    {
-      "added_at": "2023-04-21 23:05:59",
-      "album": {
         "name": "BIEN O MAL",
         "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 237658,
       "name": "TIERRA ZANTA",
       "url": "https://open.spotify.com/track/73zQG7t3tZDyePEflVSqJJ"
+    },
+    {
+      "added_at": "2023-04-21 23:05:59",
+      "album": {
+        "name": "MAMA",
+        "url": "https://open.spotify.com/album/2e1cjrIszuy4lI8BD4MGOO"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 265116,
+      "name": "MAMA",
+      "url": "https://open.spotify.com/track/3aOmRscxeXJqnywqdjyoEN"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -623,18 +623,22 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
-        "name": "SnipeZ",
-        "url": "https://open.spotify.com/album/1O0VHFd6xTl1CfLausE0kN"
+        "name": "HECHO M13RD4",
+        "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
       },
       "artists": [
         {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 160408,
-      "name": "MAN$ION",
-      "url": "https://open.spotify.com/track/6zsvDXNgIPcnfXsAceGkLH"
+      "duration_ms": 213773,
+      "name": "Camina Sola",
+      "url": "https://open.spotify.com/track/0KtDnYAe59IGfIpPwtL82b"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -659,22 +663,18 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
-        "name": "HECHO M13RD4",
-        "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
+        "name": "SnipeZ",
+        "url": "https://open.spotify.com/album/1O0VHFd6xTl1CfLausE0kN"
       },
       "artists": [
         {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
         }
       ],
-      "duration_ms": 213773,
-      "name": "Camina Sola",
-      "url": "https://open.spotify.com/track/0KtDnYAe59IGfIpPwtL82b"
+      "duration_ms": 160408,
+      "name": "MAN$ION",
+      "url": "https://open.spotify.com/track/6zsvDXNgIPcnfXsAceGkLH"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -695,8 +695,8 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
-        "name": "MAMA",
-        "url": "https://open.spotify.com/album/2e1cjrIszuy4lI8BD4MGOO"
+        "name": "NO LO S\u00c9",
+        "url": "https://open.spotify.com/album/1Br5WXUWmSDjUL6eoMnMXc"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
         }
       ],
-      "duration_ms": 265116,
-      "name": "MAMA",
-      "url": "https://open.spotify.com/track/3aOmRscxeXJqnywqdjyoEN"
+      "duration_ms": 239996,
+      "name": "NO LO S\u00c9",
+      "url": "https://open.spotify.com/track/5WlFKlTHjg3x8G8icmQjzP"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
-        "name": "Lo Prieto",
-        "url": "https://open.spotify.com/album/6rlbCUJjq5S7Z0wE3hsRqo"
-      },
-      "artists": [
-        {
-          "name": "Luigui Bleand",
-          "url": "https://open.spotify.com/artist/3s4iTKRp9wGJFYyn5Bo8Pq"
-        },
-        {
-          "name": "Musicologo The Libro",
-          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
-        }
-      ],
-      "duration_ms": 184625,
-      "name": "Lo Prieto",
-      "url": "https://open.spotify.com/track/5q3b86vdmn3itBhsAPHMfd"
-    },
-    {
-      "added_at": "2023-04-21 23:05:59",
-      "album": {
         "name": "ANTI JUDAS RELOADED",
         "url": "https://open.spotify.com/album/0a16Ut2wrHbCt85bg9uqsc"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 218231,
       "name": "Ya Ni Se",
       "url": "https://open.spotify.com/track/3nYidPkFJrmIAhi5Bwobs8"
+    },
+    {
+      "added_at": "2023-04-21 23:05:59",
+      "album": {
+        "name": "Lo Prieto",
+        "url": "https://open.spotify.com/album/6rlbCUJjq5S7Z0wE3hsRqo"
+      },
+      "artists": [
+        {
+          "name": "Luigui Bleand",
+          "url": "https://open.spotify.com/artist/3s4iTKRp9wGJFYyn5Bo8Pq"
+        },
+        {
+          "name": "Musicologo The Libro",
+          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
+        }
+      ],
+      "duration_ms": 184625,
+      "name": "Lo Prieto",
+      "url": "https://open.spotify.com/track/5q3b86vdmn3itBhsAPHMfd"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
+        "name": "Cuando Todo Acaba",
+        "url": "https://open.spotify.com/album/6DBSL2wSLwqvbpBsgSyBKF"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        }
+      ],
+      "duration_ms": 175142,
+      "name": "Seguimos Controlando",
+      "url": "https://open.spotify.com/track/13JM0SByzyhK1RmpzvVWxH"
+    },
+    {
+      "added_at": "2023-04-21 23:05:59",
+      "album": {
         "name": "Bape (Remix)",
         "url": "https://open.spotify.com/album/5bKfN6UHIlW3RMEmP10YZP"
       },
@@ -1443,26 +1463,6 @@
       "duration_ms": 194484,
       "name": "TODO AUTOMATICO",
       "url": "https://open.spotify.com/track/38uRnUZTf0eCKfKNnVUSaT"
-    },
-    {
-      "added_at": "2023-04-21 23:05:59",
-      "album": {
-        "name": "Cuando Todo Acaba",
-        "url": "https://open.spotify.com/album/6DBSL2wSLwqvbpBsgSyBKF"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Rich Vagos",
-          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-        }
-      ],
-      "duration_ms": 175142,
-      "name": "Seguimos Controlando",
-      "url": "https://open.spotify.com/track/13JM0SByzyhK1RmpzvVWxH"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
-        "name": "QUE SE ACABE EL MUNDO POR FAVOR",
-        "url": "https://open.spotify.com/album/4HZhVBmSmFu3ZxEoaZJuln"
-      },
-      "artists": [
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        }
-      ],
-      "duration_ms": 175058,
-      "name": "QUE SE ACABE EL MUNDO POR FAVOR",
-      "url": "https://open.spotify.com/track/0515NyyugRGEsuznPwoWgA"
-    },
-    {
-      "added_at": "2023-04-21 23:05:59",
-      "album": {
         "name": "Perico",
         "url": "https://open.spotify.com/album/5eTqqeddLq4MH4QmRRbCql"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 214700,
       "name": "Perico",
       "url": "https://open.spotify.com/track/57LGhr0kY4isaQdv301bg6"
+    },
+    {
+      "added_at": "2023-04-21 23:05:59",
+      "album": {
+        "name": "QUE SE ACABE EL MUNDO POR FAVOR",
+        "url": "https://open.spotify.com/album/4HZhVBmSmFu3ZxEoaZJuln"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "duration_ms": 175058,
+      "name": "QUE SE ACABE EL MUNDO POR FAVOR",
+      "url": "https://open.spotify.com/track/0515NyyugRGEsuznPwoWgA"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
-        "name": "El Fierros",
-        "url": "https://open.spotify.com/album/6wJTpytfeI6S3SaBlXrUIA"
-      },
-      "artists": [
-        {
-          "name": "El Makabelico",
-          "url": "https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO"
-        }
-      ],
-      "duration_ms": 318000,
-      "name": "El Fierros",
-      "url": "https://open.spotify.com/track/2f6PnlpwjwkNotvpiWjyGK"
-    },
-    {
-      "added_at": "2023-04-21 23:05:59",
-      "album": {
         "name": "WYS",
         "url": "https://open.spotify.com/album/1RMH3jLukr84iZaACyQt1V"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 179999,
       "name": "WYS",
       "url": "https://open.spotify.com/track/1InUVYG8swCemrFK6ErUj4"
+    },
+    {
+      "added_at": "2023-04-21 23:05:59",
+      "album": {
+        "name": "El Fierros",
+        "url": "https://open.spotify.com/album/6wJTpytfeI6S3SaBlXrUIA"
+      },
+      "artists": [
+        {
+          "name": "El Makabelico",
+          "url": "https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO"
+        }
+      ],
+      "duration_ms": 318000,
+      "name": "El Fierros",
+      "url": "https://open.spotify.com/track/2f6PnlpwjwkNotvpiWjyGK"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -2151,6 +2151,30 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
+        "name": "Canciones Mamalonas 2",
+        "url": "https://open.spotify.com/album/5sXSM6uf1gKQa1VzLtKWlO"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Eirian Music",
+          "url": "https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 193010,
+      "name": "Jorge Al Ni\u00f1o (feat. Lefty Sm)",
+      "url": "https://open.spotify.com/track/13TdyyKFfD2a1G1Ze467t1"
+    },
+    {
+      "added_at": "2023-04-21 23:05:59",
+      "album": {
         "name": "Kevin, Hugo & Jorge",
         "url": "https://open.spotify.com/album/4kzxuzLBkbGGnqeQ3dO8JT"
       },
@@ -2175,30 +2199,6 @@
       "duration_ms": 146622,
       "name": "Kevin, Hugo & Jorge",
       "url": "https://open.spotify.com/track/0tT1SLOTZfEud3LB7JTgxv"
-    },
-    {
-      "added_at": "2023-04-21 23:05:59",
-      "album": {
-        "name": "Canciones Mamalonas 2",
-        "url": "https://open.spotify.com/album/5sXSM6uf1gKQa1VzLtKWlO"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Eirian Music",
-          "url": "https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 193010,
-      "name": "Jorge Al Ni\u00f1o (feat. Lefty Sm)",
-      "url": "https://open.spotify.com/track/13TdyyKFfD2a1G1Ze467t1"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -2255,6 +2255,22 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/5RxN2q2ViKoa40XbRC95dL"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/6fMtwXk6aryQDyHJin8mk9"
+    },
+    {
+      "added_at": "2023-04-21 23:05:59",
+      "album": {
         "name": "Freestyle",
         "url": "https://open.spotify.com/album/0vO0LyG1EFkHMlToXSKOu7"
       },
@@ -2275,22 +2291,6 @@
       "duration_ms": 167565,
       "name": "Freestyle",
       "url": "https://open.spotify.com/track/7bDQ2CUdrf6Oyu7VFgWunB"
-    },
-    {
-      "added_at": "2023-04-21 23:05:59",
-      "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/5RxN2q2ViKoa40XbRC95dL"
-      },
-      "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/6fMtwXk6aryQDyHJin8mk9"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
-        "name": "FOLLOWS",
-        "url": "https://open.spotify.com/album/6MkEiKy5O4kGghEqO9rt7E"
-      },
-      "artists": [
-        {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
-        }
-      ],
-      "duration_ms": 237861,
-      "name": "FOLLOWS",
-      "url": "https://open.spotify.com/track/13HFRTXdWFvXIRxGsjLsWc"
-    },
-    {
-      "added_at": "2023-04-21 23:05:59",
-      "album": {
         "name": "La Dieta del Barrio",
         "url": "https://open.spotify.com/album/5Ny1vmeCcN2QXMRPUtTbFS"
       },
@@ -2359,18 +2343,18 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
-        "name": "They Love Us",
-        "url": "https://open.spotify.com/album/5tXi8xJTaE7lkHsdJq0AYb"
+        "name": "FOLLOWS",
+        "url": "https://open.spotify.com/album/6MkEiKy5O4kGghEqO9rt7E"
       },
       "artists": [
         {
-          "name": "Marconi Impara",
-          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
         }
       ],
-      "duration_ms": 174013,
-      "name": "Triple H",
-      "url": "https://open.spotify.com/track/1QnfogT4dMmH37TZvxP2ao"
+      "duration_ms": 237861,
+      "name": "FOLLOWS",
+      "url": "https://open.spotify.com/track/13HFRTXdWFvXIRxGsjLsWc"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -2407,6 +2391,22 @@
       "duration_ms": 265066,
       "name": "caminando en la nieve (feat. Akapellah, Apache & Pawmps) - Orestes Gomez & Nick Hook\u2019s Versi\u00f3n",
       "url": "https://open.spotify.com/track/3bErW9oonJmaElbaPfJPlg"
+    },
+    {
+      "added_at": "2023-04-21 23:05:59",
+      "album": {
+        "name": "They Love Us",
+        "url": "https://open.spotify.com/album/5tXi8xJTaE7lkHsdJq0AYb"
+      },
+      "artists": [
+        {
+          "name": "Marconi Impara",
+          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
+        }
+      ],
+      "duration_ms": 174013,
+      "name": "Triple H",
+      "url": "https://open.spotify.com/track/1QnfogT4dMmH37TZvxP2ao"
     },
     {
       "added_at": "2023-04-21 23:05:59",

@@ -1,12 +1,12 @@
 {
   "description": "Recent smashes from your favorite Christian Contemporary artists.  Cover: Mac Powell",
-  "num_followers": 574802,
+  "num_followers": 574938,
   "original_name": "Christian Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY5MDU0NSwwMDAwMDAwMDU2MjU0YmM1ZDExY2QyYWIxYmEwZGFjNjZjNGYxOTNk",
+  "snapshot_id": "MTY3NjY5MDU0NSwwMDAwMDAwMDA1ZDBlNmE4NTg1MjI5ZTM3YzZiMzNjM2E4ZDE4MmMy",
   "tracks": [
     {
       "added_at": "2023-02-18 03:22:25",
@@ -363,18 +363,22 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Hymn Of Heaven",
-        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+        "name": "Waymaker (Radio Version)",
+        "url": "https://open.spotify.com/album/33Litf1HszYwgNVwbgdWpk"
       },
       "artists": [
         {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        },
+        {
+          "name": "Vanessa Campagna",
+          "url": "https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM"
         }
       ],
-      "duration_ms": 256133,
-      "name": "House Of The Lord",
-      "url": "https://open.spotify.com/track/3Gyl1BvC41QD8rXEMfSQWY"
+      "duration_ms": 242107,
+      "name": "Waymaker - Radio Version",
+      "url": "https://open.spotify.com/track/4tkmm0pdXEZvHscuHWnkqy"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -395,22 +399,18 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Waymaker (Radio Version)",
-        "url": "https://open.spotify.com/album/33Litf1HszYwgNVwbgdWpk"
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
       },
       "artists": [
         {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
-        },
-        {
-          "name": "Vanessa Campagna",
-          "url": "https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM"
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 242107,
-      "name": "Waymaker - Radio Version",
-      "url": "https://open.spotify.com/track/4tkmm0pdXEZvHscuHWnkqy"
+      "duration_ms": 256133,
+      "name": "House Of The Lord",
+      "url": "https://open.spotify.com/track/3Gyl1BvC41QD8rXEMfSQWY"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -483,18 +483,18 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Living Hope",
-        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf"
       },
       "artists": [
         {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
         }
       ],
-      "duration_ms": 327000,
-      "name": "Living Hope",
-      "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
+      "duration_ms": 242666,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/6zb0RH9FmYB8Ronad1uK02"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -511,22 +511,6 @@
       "duration_ms": 180986,
       "name": "High Up",
       "url": "https://open.spotify.com/track/0drumuKkSeMz3CH5kGfOEl"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
-        "name": "Holy Water",
-        "url": "https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf"
-      },
-      "artists": [
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        }
-      ],
-      "duration_ms": 242666,
-      "name": "Holy Water",
-      "url": "https://open.spotify.com/track/6zb0RH9FmYB8Ronad1uK02"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -579,6 +563,22 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 327000,
+      "name": "Living Hope",
+      "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
         "name": "inhale (exhale)",
         "url": "https://open.spotify.com/album/5AfoxZl8Y5VJgC9nK0DvBV"
       },
@@ -591,38 +591,6 @@
       "duration_ms": 241630,
       "name": "Say I Won't",
       "url": "https://open.spotify.com/track/2FUtrpctr6v6Ae8StKAKqa"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
-        "name": "Hymn Of Heaven",
-        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 267773,
-      "name": "Hymn Of Heaven",
-      "url": "https://open.spotify.com/track/6UwxHDz7vGUhbDSevNUUcj"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
-        "name": "Exit Us",
-        "url": "https://open.spotify.com/album/2gFAJD4Qf3Y1IW5INr1f7V"
-      },
-      "artists": [
-        {
-          "name": "James Paek",
-          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
-        }
-      ],
-      "duration_ms": 217809,
-      "name": "Exit Us",
-      "url": "https://open.spotify.com/track/3lKfNyhGrF2z6peiXtUx1m"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -643,6 +611,22 @@
       "duration_ms": 423193,
       "name": "The Blessing",
       "url": "https://open.spotify.com/track/2lIB1TU0Cqnc6RuYDjc92z"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "Exit Us",
+        "url": "https://open.spotify.com/album/2gFAJD4Qf3Y1IW5INr1f7V"
+      },
+      "artists": [
+        {
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+        }
+      ],
+      "duration_ms": 217809,
+      "name": "Exit Us",
+      "url": "https://open.spotify.com/track/3lKfNyhGrF2z6peiXtUx1m"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -731,18 +715,18 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/6nPwC5S0XRCvhvnsinAOoi"
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
       },
       "artists": [
         {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 236933,
-      "name": "The God Who Stays",
-      "url": "https://open.spotify.com/track/0YHWj5wYTjbENOi7cWGSpK"
+      "duration_ms": 267773,
+      "name": "Hymn Of Heaven",
+      "url": "https://open.spotify.com/track/6UwxHDz7vGUhbDSevNUUcj"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -771,6 +755,22 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/6nPwC5S0XRCvhvnsinAOoi"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "The God Who Stays",
+      "url": "https://open.spotify.com/track/0YHWj5wYTjbENOi7cWGSpK"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
         "name": "The Story's Not Over",
         "url": "https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3"
       },
@@ -783,22 +783,6 @@
       "duration_ms": 187266,
       "name": "Dead Man Walking",
       "url": "https://open.spotify.com/track/1z5YtEopKg5pyjCM3BEsr5"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
-        "name": "Only Jesus",
-        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 205800,
-      "name": "Love Moved First",
-      "url": "https://open.spotify.com/track/4vkeAHQBXmUTgMOfaT94CR"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -819,6 +803,22 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
+        "name": "Only Jesus",
+        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 205800,
+      "name": "Love Moved First",
+      "url": "https://open.spotify.com/track/4vkeAHQBXmUTgMOfaT94CR"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
         "name": "Love Remains",
         "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
       },
@@ -831,6 +831,22 @@
       "duration_ms": 236200,
       "name": "Thy Will",
       "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "Way Maker",
+        "url": "https://open.spotify.com/album/4KU1pPxzikIozkfEYR58Jx"
+      },
+      "artists": [
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        }
+      ],
+      "duration_ms": 242160,
+      "name": "Way Maker",
+      "url": "https://open.spotify.com/track/3f8HOaPL4LogzDsuMr9Nu4"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -863,22 +879,6 @@
       "duration_ms": 228346,
       "name": "Red Letters",
       "url": "https://open.spotify.com/track/0ezeXzG4Qi5GJGu9E3W4VY"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
-        "name": "Way Maker",
-        "url": "https://open.spotify.com/album/4KU1pPxzikIozkfEYR58Jx"
-      },
-      "artists": [
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        }
-      ],
-      "duration_ms": 242160,
-      "name": "Way Maker",
-      "url": "https://open.spotify.com/track/3f8HOaPL4LogzDsuMr9Nu4"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -943,22 +943,6 @@
       "duration_ms": 218665,
       "name": "You've Always Been",
       "url": "https://open.spotify.com/track/7s2AninaWICPPvch6wBctw"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
-        "name": "Milk & Honey",
-        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 179366,
-      "name": "In The House",
-      "url": "https://open.spotify.com/track/1brFXt3k8dja9jXkiAY4ky"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 179366,
+      "name": "In The House",
+      "url": "https://open.spotify.com/track/1brFXt3k8dja9jXkiAY4ky"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
         "name": "Never Lose Sight (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F"
       },
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Peace Be Still",
-        "url": "https://open.spotify.com/album/5NB3XmeK1ICymTWKPEWnSt"
-      },
-      "artists": [
-        {
-          "name": "Hope Darst",
-          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
-        }
-      ],
-      "duration_ms": 320173,
-      "name": "Peace Be Still",
-      "url": "https://open.spotify.com/track/4epvekncJds5DpsOOjBT9B"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "Different",
         "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 197946,
       "name": "Different",
       "url": "https://open.spotify.com/track/0HGGx9fQ55LFw5QFIB5MKp"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "Peace Be Still",
+        "url": "https://open.spotify.com/album/5NB3XmeK1ICymTWKPEWnSt"
+      },
+      "artists": [
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "duration_ms": 320173,
+      "name": "Peace Be Still",
+      "url": "https://open.spotify.com/track/4epvekncJds5DpsOOjBT9B"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "All In",
-        "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 225560,
-      "name": "Mercy Is A Song",
-      "url": "https://open.spotify.com/track/1yNInj2X42ZqQG6PUE57QV"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "People (Live)",
         "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 449253,
       "name": "Whole Heart (Hold Me Now) - Live",
       "url": "https://open.spotify.com/track/3XkNkpfHFB0hoS13DdzJup"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "Mercy Is A Song",
+      "url": "https://open.spotify.com/track/1yNInj2X42ZqQG6PUE57QV"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1647,38 +1647,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Hymn Of Heaven",
-        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 241946,
-      "name": "It's Always Been You",
-      "url": "https://open.spotify.com/track/5Tc2hNyood20vuKm89NeCf"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
-        "name": "Made to Fly",
-        "url": "https://open.spotify.com/album/16ugRESDhHdmmc3xxakT7c"
-      },
-      "artists": [
-        {
-          "name": "Colton Dixon",
-          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
-        }
-      ],
-      "duration_ms": 224910,
-      "name": "Made to Fly",
-      "url": "https://open.spotify.com/track/01ynxhBoTGfbPtsVg2G0Fs"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "Wonder",
         "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
       },
@@ -1695,6 +1663,38 @@
       "duration_ms": 253653,
       "name": "Not Today",
       "url": "https://open.spotify.com/track/33Nyq9QfKCXEQtzeg22vg7"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 241946,
+      "name": "It's Always Been You",
+      "url": "https://open.spotify.com/track/5Tc2hNyood20vuKm89NeCf"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "CHOOSE TO WORSHIP",
+        "url": "https://open.spotify.com/album/2YkuRwXmz9uCPklzmKZ69L"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 266946,
+      "name": "I CHOOSE TO WORSHIP",
+      "url": "https://open.spotify.com/track/4lVkwkjR27tEl9i8ZG7MTb"
     }
   ],
   "unique_name": "Christian Mix",

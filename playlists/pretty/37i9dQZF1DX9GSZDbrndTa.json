@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 81114,
+  "num_followers": 81182,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMDE1ZDcwNTMzMWNmM2RkOGM0MjU3NGE3NTkxMzRkY2M0",
+  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMDZmYzdkYzQ3ZTBkOTE3NThhMGNkZWNmNmQxNDUyYzM4",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -619,6 +619,22 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
+        "name": "Swiss Nights, Vol. 3",
+        "url": "https://open.spotify.com/album/6NHprN57mZWEj3ELnR2RY4"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 762666,
+      "name": "Tenor madness",
+      "url": "https://open.spotify.com/track/3FbVaUe0hFeLKun8dHAOls"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
         "name": "Brilliant Corners",
         "url": "https://open.spotify.com/album/5gWF47eGSbv4BOfxoFcQtd"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 787933,
       "name": "Ba-Lue Bolivar Ba-Lues-Are",
       "url": "https://open.spotify.com/track/1OjmEyEycmzJK3itBAq8EG"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Swiss Nights, Vol. 3",
-        "url": "https://open.spotify.com/album/6NHprN57mZWEj3ELnR2RY4"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 762666,
-      "name": "Tenor madness",
-      "url": "https://open.spotify.com/track/3FbVaUe0hFeLKun8dHAOls"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -743,22 +743,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Thelonious Alone In San Francisco",
-        "url": "https://open.spotify.com/album/5xOjgloikzuQ1mTs2mqedk"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Bluehawk",
-      "url": "https://open.spotify.com/track/1K4d8wa5NanzH425a42DMn"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "Retrospective",
         "url": "https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 427000,
       "name": "Blues For Willarene",
       "url": "https://open.spotify.com/track/18Rt4272J5ngkGAWUtWBzk"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Bird 100",
+        "url": "https://open.spotify.com/album/28J5TDJB3TLEh9fCCzXHWW"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker Quartet",
+          "url": "https://open.spotify.com/artist/5GBe2GMfPm3IFagD5XuKKs"
+        }
+      ],
+      "duration_ms": 182866,
+      "name": "Chi Chi",
+      "url": "https://open.spotify.com/track/5FzhjFoN3ND1tvndL6rAOj"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -791,18 +791,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Bird 100",
-        "url": "https://open.spotify.com/album/28J5TDJB3TLEh9fCCzXHWW"
+        "name": "Thelonious Alone In San Francisco",
+        "url": "https://open.spotify.com/album/5xOjgloikzuQ1mTs2mqedk"
       },
       "artists": [
         {
-          "name": "Charlie Parker Quartet",
-          "url": "https://open.spotify.com/artist/5GBe2GMfPm3IFagD5XuKKs"
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
         }
       ],
-      "duration_ms": 182866,
-      "name": "Chi Chi",
-      "url": "https://open.spotify.com/track/5FzhjFoN3ND1tvndL6rAOj"
+      "duration_ms": 217333,
+      "name": "Bluehawk",
+      "url": "https://open.spotify.com/track/1K4d8wa5NanzH425a42DMn"
     },
     {
       "added_at": "2020-10-12 18:15:54",

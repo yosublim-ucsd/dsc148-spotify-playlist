@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 12042,
+  "num_followers": 12064,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA4MTQxNCwwMDAwMDAwMGEzYTJjYWFhNmE4OTlkYWY1NzE5NjBkODM4ZWRiNmRi",
+  "snapshot_id": "MTY4MjA4MTQxNCwwMDAwMDAwMGIxZjM4YzQ0MmEyNjNhODQ3MjMzNzIyYzFlNmZlMmJl",
   "tracks": [
     {
       "added_at": "2023-04-21 12:50:14",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-04-21 12:50:14",
       "album": {
+        "name": "Peace Of Mind",
+        "url": "https://open.spotify.com/album/7uqB8voCddKMJcP2Qee1yP"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 208692,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/5xZEUteaWi0jFAGAKPPWw0"
+    },
+    {
+      "added_at": "2023-04-21 12:50:14",
+      "album": {
         "name": "troublin - A COLORS SHOW",
         "url": "https://open.spotify.com/album/1KCidWMSBM1Manslu7zT2K"
       },
@@ -855,18 +871,18 @@
     {
       "added_at": "2023-04-21 12:50:14",
       "album": {
-        "name": "Peace Of Mind",
-        "url": "https://open.spotify.com/album/7uqB8voCddKMJcP2Qee1yP"
+        "name": "FOR MY BABY",
+        "url": "https://open.spotify.com/album/1HYUIlhz822Tule9gSBB5z"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
         }
       ],
-      "duration_ms": 208692,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/5xZEUteaWi0jFAGAKPPWw0"
+      "duration_ms": 137727,
+      "name": "FOR MY BABY",
+      "url": "https://open.spotify.com/track/5bAsB0uRfEAOj9d3vsNSm5"
     },
     {
       "added_at": "2023-04-21 12:50:14",
@@ -887,22 +903,6 @@
       "duration_ms": 185619,
       "name": "Confident",
       "url": "https://open.spotify.com/track/0rMiP3sIxMZu7bIaSXWRXu"
-    },
-    {
-      "added_at": "2023-04-21 12:50:14",
-      "album": {
-        "name": "FOR MY BABY",
-        "url": "https://open.spotify.com/album/1HYUIlhz822Tule9gSBB5z"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 137727,
-      "name": "FOR MY BABY",
-      "url": "https://open.spotify.com/track/5bAsB0uRfEAOj9d3vsNSm5"
     },
     {
       "added_at": "2023-04-21 12:50:14",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-04-21 12:50:14",
       "album": {
-        "name": "Mayana",
-        "url": "https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek"
-      },
-      "artists": [
-        {
-          "name": "A\u1e63a",
-          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Mayana",
-      "url": "https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF"
-    },
-    {
-      "added_at": "2023-04-21 12:50:14",
-      "album": {
         "name": "Follow You",
         "url": "https://open.spotify.com/album/5nf9tUvabTiuSMxGg93SF4"
       },
@@ -1099,22 +1083,18 @@
     {
       "added_at": "2023-04-21 12:50:14",
       "album": {
-        "name": "Fight For You",
-        "url": "https://open.spotify.com/album/6c9lJuYxGTn9u7WEYimS67"
+        "name": "Mayana",
+        "url": "https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek"
       },
       "artists": [
         {
-          "name": "Naomi Achu",
-          "url": "https://open.spotify.com/artist/4Q8E3fomRdmnzlhOP14npl"
-        },
-        {
-          "name": "Seun Kuti",
-          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+          "name": "A\u1e63a",
+          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
         }
       ],
-      "duration_ms": 208896,
-      "name": "Fight For You",
-      "url": "https://open.spotify.com/track/486xqw5vpm02s7I4ft7p3Q"
+      "duration_ms": 158400,
+      "name": "Mayana",
+      "url": "https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF"
     },
     {
       "added_at": "2023-04-21 12:50:14",
@@ -1159,6 +1139,26 @@
     {
       "added_at": "2023-04-21 12:50:14",
       "album": {
+        "name": "Fight For You",
+        "url": "https://open.spotify.com/album/6c9lJuYxGTn9u7WEYimS67"
+      },
+      "artists": [
+        {
+          "name": "Naomi Achu",
+          "url": "https://open.spotify.com/artist/4Q8E3fomRdmnzlhOP14npl"
+        },
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        }
+      ],
+      "duration_ms": 208896,
+      "name": "Fight For You",
+      "url": "https://open.spotify.com/track/486xqw5vpm02s7I4ft7p3Q"
+    },
+    {
+      "added_at": "2023-04-21 12:50:14",
+      "album": {
         "name": "Contour (Acoustic)",
         "url": "https://open.spotify.com/album/472q1Xw1TjH1tTZUOMzkTF"
       },
@@ -1187,26 +1187,6 @@
       "duration_ms": 133392,
       "name": "I Saw An Angel On The Roof & Wept",
       "url": "https://open.spotify.com/track/0bDSVRBBZDLCVHhCH3mMXz"
-    },
-    {
-      "added_at": "2023-04-21 12:50:14",
-      "album": {
-        "name": "MY WAY (feat. Joey B)",
-        "url": "https://open.spotify.com/album/2pTkLDnVeiVT3HOdeh2r5Y"
-      },
-      "artists": [
-        {
-          "name": "Ghetto Boy",
-          "url": "https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA"
-        },
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        }
-      ],
-      "duration_ms": 197575,
-      "name": "MY WAY (feat. Joey B)",
-      "url": "https://open.spotify.com/track/3YMPFjNdqspuEvCUYXbWAl"
     },
     {
       "added_at": "2023-04-21 12:50:14",
@@ -1243,6 +1223,26 @@
       "duration_ms": 179762,
       "name": "Bad4u",
       "url": "https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1"
+    },
+    {
+      "added_at": "2023-04-21 12:50:14",
+      "album": {
+        "name": "MY WAY (feat. Joey B)",
+        "url": "https://open.spotify.com/album/2pTkLDnVeiVT3HOdeh2r5Y"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Boy",
+          "url": "https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        }
+      ],
+      "duration_ms": 197575,
+      "name": "MY WAY (feat. Joey B)",
+      "url": "https://open.spotify.com/track/3YMPFjNdqspuEvCUYXbWAl"
     },
     {
       "added_at": "2023-04-21 12:50:14",

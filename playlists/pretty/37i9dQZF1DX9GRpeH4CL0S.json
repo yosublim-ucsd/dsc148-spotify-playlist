@@ -1,12 +1,12 @@
 {
   "description": "The greatest Alternative Rock songs through the decades. Cover: The Killers",
-  "num_followers": 657957,
+  "num_followers": 658146,
   "original_name": "Essential Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTIzNDIyMiwwMDAwMDAwMGJhMGE1ZmM1MDEwZWU2NjRhYzRkODEyYjhmM2MwMzI1",
+  "snapshot_id": "MTY2OTIzNDIyMiwwMDAwMDAwMGU1ODY1NDYyNzQ5ZjMxYmE0NzI0ZmU3YTU0YWUxMzc4",
   "tracks": [
     {
       "added_at": "2022-11-23 20:10:22",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 201726,
-      "name": "R U Mine?",
-      "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 235893,
       "name": "Bring Me To Life",
       "url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 201726,
+      "name": "R U Mine?",
+      "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Californication (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 255373,
-      "name": "Otherside",
-      "url": "https://open.spotify.com/track/64BbK9SFKH2jk86U3dGj2P"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "The Black Parade",
         "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 161920,
       "name": "Teenagers",
       "url": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Californication (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 255373,
+      "name": "Otherside",
+      "url": "https://open.spotify.com/track/64BbK9SFKH2jk86U3dGj2P"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Only By The Night",
-        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 230760,
-      "name": "Use Somebody",
-      "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Dookie",
         "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
       },
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "A Beautiful Lie",
-        "url": "https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT"
+        "name": "Only By The Night",
+        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
       },
       "artists": [
         {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
         }
       ],
-      "duration_ms": 231533,
-      "name": "The Kill",
-      "url": "https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq"
+      "duration_ms": 230760,
+      "name": "Use Somebody",
+      "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -1047,6 +1031,22 @@
       "duration_ms": 232453,
       "name": "Drive",
       "url": "https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "A Beautiful Lie",
+        "url": "https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "The Kill",
+      "url": "https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "White Blood Cells",
-        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 110093,
-      "name": "Fell In Love With a Girl",
-      "url": "https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Oh, Inverted World (20th Anniversary Remaster)",
         "url": "https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 230866,
       "name": "New Slang - 2021 Remaster",
       "url": "https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 110093,
+      "name": "Fell In Love With a Girl",
+      "url": "https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "Just",
-      "url": "https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Oracular Spectacular",
         "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 261000,
       "name": "Time to Pretend",
       "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "Just",
+      "url": "https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -1999,18 +1999,18 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "The Invisible Band",
-        "url": "https://open.spotify.com/album/7hktYMjRekLPK3BZRr4sIQ"
+        "name": "Move Along",
+        "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
       },
       "artists": [
         {
-          "name": "Travis",
-          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
         }
       ],
-      "duration_ms": 228800,
-      "name": "Sing",
-      "url": "https://open.spotify.com/track/4yA2SM7XCLkSgkBUSoZb5S"
+      "duration_ms": 238880,
+      "name": "Move Along",
+      "url": "https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -2031,18 +2031,18 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Move Along",
-        "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
+        "name": "The Invisible Band",
+        "url": "https://open.spotify.com/album/7hktYMjRekLPK3BZRr4sIQ"
       },
       "artists": [
         {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+          "name": "Travis",
+          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
         }
       ],
-      "duration_ms": 238880,
-      "name": "Move Along",
-      "url": "https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1"
+      "duration_ms": 228800,
+      "name": "Sing",
+      "url": "https://open.spotify.com/track/4yA2SM7XCLkSgkBUSoZb5S"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Tell All Your Friends (Remastered)",
-        "url": "https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 212937,
-      "name": "Cute Without The 'E' (Cut From The Team) - Remastered",
-      "url": "https://open.spotify.com/track/6OyKBwLzq4h15XmxeWf5n4"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Siamese Dream (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 201173,
       "name": "Today - 2011 Remaster",
       "url": "https://open.spotify.com/track/0u5aO1GYsIhAWCPuXdwnak"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Tell All Your Friends (Remastered)",
+        "url": "https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 212937,
+      "name": "Cute Without The 'E' (Cut From The Team) - Remastered",
+      "url": "https://open.spotify.com/track/6OyKBwLzq4h15XmxeWf5n4"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -2303,6 +2303,22 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
+        "name": "All That You Can't Leave Behind",
+        "url": "https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
         "name": "Sixteen Stone (Remastered)",
         "url": "https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y"
       },
@@ -2331,22 +2347,6 @@
       "duration_ms": 266506,
       "name": "Such Great Heights - Remastered",
       "url": "https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
-        "name": "All That You Can't Leave Behind",
-        "url": "https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "Beautiful Day",
-      "url": "https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -2415,22 +2415,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Last Splash",
-        "url": "https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A"
-      },
-      "artists": [
-        {
-          "name": "The Breeders",
-          "url": "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
-        }
-      ],
-      "duration_ms": 213693,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Youth And Young Manhood",
         "url": "https://open.spotify.com/album/2137zeBGNgOWP4D96q6qxd"
       },
@@ -2443,6 +2427,22 @@
       "duration_ms": 134906,
       "name": "Molly's Chambers",
       "url": "https://open.spotify.com/track/0nCAVzknkzRXRgB6LhRv04"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Last Splash",
+        "url": "https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A"
+      },
+      "artists": [
+        {
+          "name": "The Breeders",
+          "url": "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
+        }
+      ],
+      "duration_ms": 213693,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -2575,22 +2575,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Contraband",
-        "url": "https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB"
-      },
-      "artists": [
-        {
-          "name": "Velvet Revolver",
-          "url": "https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM"
-        }
-      ],
-      "duration_ms": 248306,
-      "name": "Slither",
-      "url": "https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Funeral",
         "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
       },
@@ -2603,6 +2587,22 @@
       "duration_ms": 310893,
       "name": "Rebellion (Lies)",
       "url": "https://open.spotify.com/track/0xOeB16JDbBJBJKSdHbElT"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Contraband",
+        "url": "https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB"
+      },
+      "artists": [
+        {
+          "name": "Velvet Revolver",
+          "url": "https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM"
+        }
+      ],
+      "duration_ms": 248306,
+      "name": "Slither",
+      "url": "https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -3279,22 +3279,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Swoon",
-        "url": "https://open.spotify.com/album/0swOso9dwIp1PHmDP4dTbX"
-      },
-      "artists": [
-        {
-          "name": "Silversun Pickups",
-          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
-        }
-      ],
-      "duration_ms": 343906,
-      "name": "Panic Switch",
-      "url": "https://open.spotify.com/track/597i9UhHbW8hHgBUp8Tm54"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Keep It like a Secret",
         "url": "https://open.spotify.com/album/2PKZhfPrgMmK5zug2pqdHA"
       },
@@ -3307,6 +3291,22 @@
       "duration_ms": 343893,
       "name": "Carry the Zero",
       "url": "https://open.spotify.com/track/3HMOMdRPywfouYx5B4PvaH"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Swoon",
+        "url": "https://open.spotify.com/album/0swOso9dwIp1PHmDP4dTbX"
+      },
+      "artists": [
+        {
+          "name": "Silversun Pickups",
+          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
+        }
+      ],
+      "duration_ms": 343906,
+      "name": "Panic Switch",
+      "url": "https://open.spotify.com/track/597i9UhHbW8hHgBUp8Tm54"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -3407,22 +3407,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Narrow Stairs",
-        "url": "https://open.spotify.com/album/7G84Q2FcA43cjLeWBSIedv"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 505773,
-      "name": "I Will Possess Your Heart",
-      "url": "https://open.spotify.com/track/77vYwoC7e3pVoPq8BA9CuL"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Deep Cuts",
         "url": "https://open.spotify.com/album/1iqMDM4Io1tnDDl58NGeVJ"
       },
@@ -3435,6 +3419,22 @@
       "duration_ms": 231853,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/2YacpExEbX9tF8IbFlFOo4"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Narrow Stairs",
+        "url": "https://open.spotify.com/album/7G84Q2FcA43cjLeWBSIedv"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 505773,
+      "name": "I Will Possess Your Heart",
+      "url": "https://open.spotify.com/track/77vYwoC7e3pVoPq8BA9CuL"
     },
     {
       "added_at": "2022-11-23 20:10:22",

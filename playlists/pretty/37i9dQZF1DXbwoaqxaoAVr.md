@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 
 > Pop style reggae for a sunny vibe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,002 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,381 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 44 | [Three Little Birds](https://open.spotify.com/track/19L8E51SOAjb0DdA349YuW) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Three Little Birds](https://open.spotify.com/album/3S04DPo3bvwkHQBTAigDIa) | 3:21 |
 | 45 | [Hello \(Reggae Cover\)](https://open.spotify.com/track/5QJSPscaVvF1faWSDOd9ot) | [Conkarah](https://open.spotify.com/artist/7vPGzgDg3qGUY5bWtrO3K4), [Rosie Delmah](https://open.spotify.com/artist/1oA050idm4VgCncQUWA20d) | [Hello \(Reggae Cover\)](https://open.spotify.com/album/4Bye7G4TGLm2vSF7LxiM8v) | 3:58 |
 | 46 | [Baltimore](https://open.spotify.com/track/4OXVBbmqS1YoLTHrYYimuw) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Baltimore](https://open.spotify.com/album/0GB2QWABy8Uij9UIS1E10Z) | 5:03 |
-| 47 | [IRL](https://open.spotify.com/track/2wZUb8mFWOod6tDi9BeEmU) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [IRL](https://open.spotify.com/album/5SDGTrB2F8K4U95zvLjvgZ) | 3:31 |
+| 47 | [IRL](https://open.spotify.com/track/2wZUb8mFWOod6tDi9BeEmU) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [IRL](https://open.spotify.com/album/5SDGTrB2F8K4U95zvLjvgZ) | 3:30 |
 | 48 | [Smoke Marijuana](https://open.spotify.com/track/68474q3pSlRu6HimRHPlRf) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Overstanding](https://open.spotify.com/album/0lG2hSWRSQxfoNurAIoAh5) | 4:03 |
 | 49 | [Let Me Live \(feat\. Anne\-Marie & Mr Eazi\)](https://open.spotify.com/track/3NURF3IznpXjSnfSHySTmM) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Toast to Our Differences \(Deluxe Edition\)](https://open.spotify.com/album/1cujDxjZaAtJXnvyW7sl3U) | 3:25 |
 | 50 | [Close To Me](https://open.spotify.com/track/4BstuGRgFLQM4Z5OJ1MAwS) | [SunDub](https://open.spotify.com/artist/4PoPeXL1kTk7cVxVMRdGvy) | [Burden of Love](https://open.spotify.com/album/66X9aTvptSH64whP0cixuJ) | 4:12 |

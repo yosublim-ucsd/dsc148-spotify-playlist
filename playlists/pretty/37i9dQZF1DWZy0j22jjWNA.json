@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 78221,
+  "num_followers": 78268,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMDU5NGQ4NDQyYWVkNWMxMmU0NTRhZTRhYjdhMjZiNDJh",
+  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMDU4OTE1ODY3MTQwYjdmNmVlZDUyYThhNjk1NDFlYzQ1",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/6UQ4DtMNWgxw6ufVxjdXHF"
-      },
-      "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        }
-      ],
-      "duration_ms": 297506,
-      "name": "Harmony Hall",
-      "url": "https://open.spotify.com/track/2uoITMIoM5gCEpt3JucVmF"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Walk into a Storm",
         "url": "https://open.spotify.com/album/74FJWhrNj4yi9NoXzIioUZ"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 197120,
       "name": "Time's Always Leaving",
       "url": "https://open.spotify.com/track/7e5k4ucRMRHT9MEJh6PTxI"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/6UQ4DtMNWgxw6ufVxjdXHF"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        }
+      ],
+      "duration_ms": 297506,
+      "name": "Harmony Hall",
+      "url": "https://open.spotify.com/track/2uoITMIoM5gCEpt3JucVmF"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -555,6 +555,26 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
+        "url": "https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 222878,
+      "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
+      "url": "https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "When the Walls Come Crashing Down",
         "url": "https://open.spotify.com/album/4xaqP5u8jIbH7cTwTRZ3a8"
       },
@@ -579,6 +599,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Pep Talks",
+        "url": "https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 480893,
+      "name": "Queen Songs/Human",
+      "url": "https://open.spotify.com/track/27fpPlAMJc9IM6adpi46Nc"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "If In Case You Feel The Same",
         "url": "https://open.spotify.com/album/2M9xs7ILwOXsMgvH8aObmA"
       },
@@ -599,22 +635,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Pep Talks",
-        "url": "https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 480893,
-      "name": "Queen Songs/Human",
-      "url": "https://open.spotify.com/track/27fpPlAMJc9IM6adpi46Nc"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Giants",
         "url": "https://open.spotify.com/album/2ik2fFjv7xdAAK3VP9P779"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 233918,
       "name": "Giants",
       "url": "https://open.spotify.com/track/0Q7ike4sNrjLSZx8r26C9s"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
-        "url": "https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2"
-      },
-      "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 222878,
-      "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
-      "url": "https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd"
-      },
-      "artists": [
-        {
-          "name": "Aalok Bala",
-          "url": "https://open.spotify.com/artist/5Uu7rkbI8eNOsGWFCp5sSM"
-        }
-      ],
-      "duration_ms": 201487,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Ain't No Grave",
         "url": "https://open.spotify.com/album/6epmqEFmOUFfBLwmMjzRdw"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 288624,
       "name": "Ain't No Grave",
       "url": "https://open.spotify.com/track/6z355fOnb6YRjK4WUQK3VF"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd"
+      },
+      "artists": [
+        {
+          "name": "Aalok Bala",
+          "url": "https://open.spotify.com/artist/5Uu7rkbI8eNOsGWFCp5sSM"
+        }
+      ],
+      "duration_ms": 201487,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "God Who Sees Me",
+        "url": "https://open.spotify.com/album/0kaaq4b14mpk8kl4H0OUFE"
+      },
+      "artists": [
+        {
+          "name": "The Hedgerow Folk",
+          "url": "https://open.spotify.com/artist/3LBXtcf7iF5hyveaDJolc6"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "God Who Sees Me",
+      "url": "https://open.spotify.com/track/25NALshm4GZZkXd0gFmCLL"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Steady",
         "url": "https://open.spotify.com/album/6dvtEGmtpQTlzekzXHMm08"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 183720,
       "name": "Glow",
       "url": "https://open.spotify.com/track/2dUteNJxoMXUvnECvjvvAf"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "God Who Sees Me",
-        "url": "https://open.spotify.com/album/0kaaq4b14mpk8kl4H0OUFE"
-      },
-      "artists": [
-        {
-          "name": "The Hedgerow Folk",
-          "url": "https://open.spotify.com/artist/3LBXtcf7iF5hyveaDJolc6"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "God Who Sees Me",
-      "url": "https://open.spotify.com/track/25NALshm4GZZkXd0gFmCLL"
     },
     {
       "added_at": "2020-09-04 04:02:00",

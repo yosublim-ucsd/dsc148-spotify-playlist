@@ -4,7 +4,7 @@
 
 > The chillest beats to help you relax, study, code, and focus.
 
-5,511 songs - 8 day 17 hr 11 min
+5,512 songs - 8 day 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [Apollon](https://open.spotify.com/track/4iq7bPYsVGYVSf2Duwkhwo) | [Tis L](https://open.spotify.com/artist/2xzQuLX2sA8sLYMTxvAoxL), [CL5K](https://open.spotify.com/artist/2LLzw9sAUyp56Yknm8mTwp) | [Apollon](https://open.spotify.com/album/1518sDLdQcqNB7b9glN7yY) | 2:02 | 2022-03-11 | 2022-08-12 |
 | [Apple](https://open.spotify.com/track/4CWY4ISUUdFrN8YDrqETzh) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Apple](https://open.spotify.com/album/1qrnjn8odAEDmEe5ttFPlj) | 2:21 | 2022-08-26 | 2023-01-07 |
 | [Apple Pie](https://open.spotify.com/track/1Ege44big1iOrGLDGKuZW4) | [Ghostnaut](https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Apple Pie](https://open.spotify.com/album/0L8bvpzM8YADGKO5NXgvyd) | 2:21 | 2022-03-11 | 2022-08-12 |
-| [Apple Pie](https://open.spotify.com/track/2z7RteoF2cj52dNLMshNmw) | [Zoulzest](https://open.spotify.com/artist/3033U6vVNxs1vUC8wKuv6F) | [Apple Pie](https://open.spotify.com/album/2c80e1VvP1eCkXZKyK68om) | 1:44 | 2022-10-28 | 2023-02-28 |
+| [Apple Pie](https://open.spotify.com/track/2z7RteoF2cj52dNLMshNmw) | [Zoulzest](https://open.spotify.com/artist/3033U6vVNxs1vUC8wKuv6F) | [Apple Pie](https://open.spotify.com/album/2c80e1VvP1eCkXZKyK68om) | 1:44 | 2022-10-28 |  |
 | [Approved](https://open.spotify.com/track/0V9uCHm1l89qm0iNNtRcSx) | [Silk Soul](https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI) | [Approved](https://open.spotify.com/album/5l16Ij5mq6zWb2woOcMZrv) | 2:00 | 2023-02-21 | 2023-03-09 |
 | [Apricot Jam](https://open.spotify.com/track/25ZwqFpEm6mxebHPzmyRwi) | [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc) | [Apricot Jam & Taco Tuesday](https://open.spotify.com/album/5b4dPsLNiW4Zin1RA3jJ2j) | 2:14 | 2020-05-09 | 2021-01-21 |
 | [april showers](https://open.spotify.com/track/5cQ2rCZ0lYDBugNEGE1yjm) | [aqualina](https://open.spotify.com/artist/5254Zsy5Ip7BFeUto1bC8R) | [april showers](https://open.spotify.com/album/2yWbxJiSrCgAqWhwMNYEVX) | 2:06 | 2019-07-14 | 2020-01-09 |
@@ -3025,7 +3025,7 @@
 | [Midnight Ramen](https://open.spotify.com/track/3CKN2fuEcuKDSfmiX1g6ZB) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Dusk\-Sunrise](https://open.spotify.com/album/4NimyZAHUqHJ45ihyHktQq) | 1:33 | 2022-01-21 | 2022-07-16 |
 | [Midnight Skies](https://open.spotify.com/track/6dakTGdGGasSumP62Qm8P9) | [Sihu](https://open.spotify.com/artist/0IDfPC86tctwQaHkc9tVfX) | [Midnight Skies](https://open.spotify.com/album/2jmN4HB0Q9KAD1W9NpTdfI) | 1:32 | 2022-07-15 | 2022-10-28 |
 | [Midnight Smoke](https://open.spotify.com/track/7x0raDjOawSXNblE1xR9qV) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Midnight Smoke](https://open.spotify.com/album/5ysVOWtHqTVER4bY2OqxfJ) | 2:18 | 2023-01-13 | 2023-04-06 |
-| [Midnight Smoke](https://open.spotify.com/track/3nCI3MB1cTznXM0ri68OwG) | [Spectacular Diagnostics](https://open.spotify.com/artist/3z32OCr8soKhZ5CYuTti9a), [Slowdown](https://open.spotify.com/artist/6qMZqcd02lR7PB8Np47OSF) | [Midnight Smoke](https://open.spotify.com/album/5yixnT7FFdNdwvI4B4Qxed) | 1:45 | 2022-11-11 |  |
+| [Midnight Smoke](https://open.spotify.com/track/3nCI3MB1cTznXM0ri68OwG) | [Spectacular Diagnostics](https://open.spotify.com/artist/3z32OCr8soKhZ5CYuTti9a), [Slowdown](https://open.spotify.com/artist/6qMZqcd02lR7PB8Np47OSF) | [Midnight Smoke](https://open.spotify.com/album/5yixnT7FFdNdwvI4B4Qxed) | 1:45 | 2022-11-11 | 2023-04-23 |
 | [Midnight Somewhere](https://open.spotify.com/track/02312lZUztXbBFDXhzJbK1) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Evig](https://open.spotify.com/album/1AXK3RaBFKu5LyX0e092sB) | 2:18 | 2020-10-28 | 2021-10-20 |
 | [Midnight Sonic](https://open.spotify.com/track/4x8ugWH6pOFIly8NqtTCaZ) | [Japartis.](https://open.spotify.com/artist/1rOAl07SupuyCUHSSyz7v1) | [Midnight Sonic](https://open.spotify.com/album/41MjUHIve4sjuCrBSfLAVs) | 1:45 | 2022-07-08 | 2022-11-11 |
 | [MidnightBlue](https://open.spotify.com/track/4E60U6cA2viUVDFK66QYwi) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [MidnightBlue](https://open.spotify.com/album/0KVB3GRu9vFgVzHYZydCuC) | 3:03 | 2021-10-02 | 2022-04-08 |
@@ -4827,7 +4827,7 @@
 | [The Optimist](https://open.spotify.com/track/1L8JthqiY1kdDuHc81jWLa) | [ZooKeepr](https://open.spotify.com/artist/07hMsm97BWS43F3TVTkl6W) | [Good Boy](https://open.spotify.com/album/5YYrONJNs0s5iCqZAXEIxq) | 2:06 | 2022-08-05 | 2022-11-18 |
 | [The Plead](https://open.spotify.com/track/5L8ERnIWkyECGLLrA5tCQM) | [Platinum Dust](https://open.spotify.com/artist/4EOKoMTIR7K71Skv7gAmgS) | [The Plead](https://open.spotify.com/album/0JDMwhWmWAzszNXVQba2by) | 1:44 | 2022-07-08 | 2022-10-21 |
 | [the point of no reconciliation](https://open.spotify.com/track/0wHz7ccdx0bGhbu7tnjPdo) | [desci](https://open.spotify.com/artist/0pD7DmPsnzsvpKAD2xECQg), [jawima](https://open.spotify.com/artist/7vmLyoAdXR7ExRFFAookbz) | [the point of no reconciliation](https://open.spotify.com/album/58rW8v8O0LnjrYzQqhwzQm) | 3:02 | 2021-10-20 | 2022-04-15 |
-| [The Pumpkin Salesman](https://open.spotify.com/track/4l4v5QIeWOdStZnFTgrf3W) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Meltdown at the Toy Factory](https://open.spotify.com/album/3DsZXB4lnAaVZYTcB11nQw) | 2:45 | 2022-11-18 |  |
+| [The Pumpkin Salesman](https://open.spotify.com/track/4l4v5QIeWOdStZnFTgrf3W) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Meltdown at the Toy Factory](https://open.spotify.com/album/3DsZXB4lnAaVZYTcB11nQw) | 2:45 | 2022-11-18 | 2023-04-23 |
 | [The Realest](https://open.spotify.com/track/3PSJtsmUpV4Zk6ZPLJmmaI) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [The Realest](https://open.spotify.com/album/6G42Qb7HVcHAwRQDWvt0Iq) | 2:46 | 2023-02-13 |  |
 | [The Red Line](https://open.spotify.com/track/49d3Ukzxtx0lyYCztnY1Y4) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [The Red Line](https://open.spotify.com/album/4x3TyH5d8USGNgLowZ1n9w) | 2:38 | 2022-01-21 | 2022-07-16 |
 | [The Riot](https://open.spotify.com/track/3l7x2uqzhDe6VcSW1IIV3R) | [Teknicolores](https://open.spotify.com/artist/1xXraGRML6j3iypdaZDvQk) | [The Riot](https://open.spotify.com/album/40avBoYjFO8PbcxTaW8DUs) | 2:10 | 2022-12-09 | 2023-02-28 |
@@ -5260,6 +5260,7 @@
 | [Wavy](https://open.spotify.com/track/5wSJVRQ1EL7FGZwXahql2Q) | [Jause Music](https://open.spotify.com/artist/7dxNAV00P58OYR2CXTekDE) | [Wavy](https://open.spotify.com/album/3VdwOVj6CIhYYIsIPXmxMt) | 1:33 | 2022-04-08 | 2022-09-02 |
 | [Wavy](https://open.spotify.com/track/7oT7NDlXx5xpteinixhpQo) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Wavy](https://open.spotify.com/album/2u9XgbMHjorMCmKW0H8kqQ) | 3:24 | 2023-02-27 | 2023-04-06 |
 | [Wax](https://open.spotify.com/track/3cNhmnKWjL4oh9I3WoEbxx) | [Vooo](https://open.spotify.com/artist/3vHTWo80WtxaxoYy36oZXF) | [Wax](https://open.spotify.com/album/086zJeAn2ptLFnyGkBt9RO) | 2:29 | 2022-09-16 | 2022-12-16 |
+| [Way Down](https://open.spotify.com/track/3zVgaKhXB8sWdADudljcQg) | [BiRdy SanJazz](https://open.spotify.com/artist/1VnKyzdYClAVXSfEuRhUZh) | [Way Down](https://open.spotify.com/album/0tt2DE6dtf0RlrB9DpLIzY) | 1:50 | 2023-04-20 |  |
 | [Way Home](https://open.spotify.com/track/30nV0LJfrglHrZtSplHtYC) | [Ariel T](https://open.spotify.com/artist/1jV6ZVJ5WPoWiYZfOolQV6) | [Sofa](https://open.spotify.com/album/3add6MZoMzj2DqJ0OnO4Oz) | 3:58 | 2019-08-18 | 2021-07-04 |
 | [Ways of Hope](https://open.spotify.com/track/6USTXdIf1BDsCxrHDDOh8j) | [Afternoon In Stereo](https://open.spotify.com/artist/2eYljohSyHpRPrMM5sN8k8) | [Ways of Hope](https://open.spotify.com/album/4zq5e1VvPIsNNugQyEmNFq) | 2:07 | 2022-12-02 |  |
 | [WAYWAY](https://open.spotify.com/track/4PdGf3EWKffLNQTmD6tC6b) | [Kim Kozy](https://open.spotify.com/artist/6gVhnvdJQi2cjFRDSlysqe) | [WAYWAY](https://open.spotify.com/album/5vDNkwVE6uQxEbHB05t5TX) | 2:29 | 2022-10-28 |  |

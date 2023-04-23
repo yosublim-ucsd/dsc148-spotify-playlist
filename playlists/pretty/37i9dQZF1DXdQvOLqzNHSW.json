@@ -1,12 +1,12 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 915078,
+  "num_followers": 915354,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjEwMzQwNywwMDAwMDAwMGNjNWZkODM4NDg2NzNiOTlmN2RlZDViZjZhZTkxOTE4",
+  "snapshot_id": "MTY4MjEwMzQwNywwMDAwMDAwMDdkNDg1MzZkM2ZjMWJiMzg5MTY2YWQ0NzQzOGUxZWU2",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "DOGTOOTH",
-        "url": "https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 161041,
-      "name": "DOGTOOTH",
-      "url": "https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Cigarettes After Sex",
         "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 290146,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "DOGTOOTH",
+        "url": "https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 161041,
+      "name": "DOGTOOTH",
+      "url": "https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -171,6 +171,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Absolutely",
+        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 184767,
+      "name": "The Dress",
+      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "CALL ME IF YOU GET LOST: The Estate Sale",
         "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 204109,
       "name": "WHARF TALK (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/3u9PAti8muEXXvEjeFpQK0"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Absolutely",
-        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 184767,
-      "name": "The Dress",
-      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Being So Normal",
-        "url": "https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 361760,
-      "name": "Tommy's Party",
-      "url": "https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Here Comes The Cowboy",
         "url": "https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 239645,
       "name": "Preoccupied",
       "url": "https://open.spotify.com/track/6N4WUdbz6HVKy6u6JX1KqK"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Being So Normal",
+        "url": "https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 361760,
+      "name": "Tommy's Party",
+      "url": "https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Care For You",
-        "url": "https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 156026,
-      "name": "Care For You",
-      "url": "https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "i,i",
         "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 239001,
       "name": "Dead of Night",
       "url": "https://open.spotify.com/track/08unC8N1V1dEcqiyi06g6W"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Care For You",
+        "url": "https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 156026,
+      "name": "Care For You",
+      "url": "https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "A Collection of Fleeting Moments and Daydreams",
-        "url": "https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 169822,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Want U Around (feat. Ruel)",
         "url": "https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 247720,
       "name": "Want U Around (feat. Ruel)",
       "url": "https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "A Collection of Fleeting Moments and Daydreams",
+        "url": "https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 169822,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "peas",
-        "url": "https://open.spotify.com/album/0dUqhKzeJy8fteS8h3XSw0"
-      },
-      "artists": [
-        {
-          "name": "boylife",
-          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
-        }
-      ],
-      "duration_ms": 234645,
-      "name": "peas",
-      "url": "https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Modern Vampires of the City",
         "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 237973,
       "name": "Hannah Hunt",
       "url": "https://open.spotify.com/track/6AY1M1akbsVaQN3ATVyzH7"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "peas",
+        "url": "https://open.spotify.com/album/0dUqhKzeJy8fteS8h3XSw0"
+      },
+      "artists": [
+        {
+          "name": "boylife",
+          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
+        }
+      ],
+      "duration_ms": 234645,
+      "name": "peas",
+      "url": "https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Business Solutions",
+        "url": "https://open.spotify.com/album/5EoBpPFpD4y4GCc4CFaLhE"
+      },
+      "artists": [
+        {
+          "name": "JORDANN",
+          "url": "https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF"
+        }
+      ],
+      "duration_ms": 220146,
+      "name": "Business Solutions",
+      "url": "https://open.spotify.com/track/7AQF2AOa43bMg08srt9PO3"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Hope For Sale",
         "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 226733,
       "name": "Awake",
       "url": "https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Business Solutions",
-        "url": "https://open.spotify.com/album/5EoBpPFpD4y4GCc4CFaLhE"
-      },
-      "artists": [
-        {
-          "name": "JORDANN",
-          "url": "https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF"
-        }
-      ],
-      "duration_ms": 220146,
-      "name": "Business Solutions",
-      "url": "https://open.spotify.com/track/7AQF2AOa43bMg08srt9PO3"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "D4U - Spotify Singles",
-        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 160487,
-      "name": "D4U - Spotify Singles",
-      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Rivers",
         "url": "https://open.spotify.com/album/78s3die4I0Q75cp2NKO6sc"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 236853,
       "name": "Rivers",
       "url": "https://open.spotify.com/track/1dBje6EOpDBLdoKGo94DEa"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "D4U - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 160487,
+      "name": "D4U - Spotify Singles",
+      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 284720,
-      "name": "Fearless",
-      "url": "https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Underwaterfall",
         "url": "https://open.spotify.com/album/5ENb57Y5akwf5BW16G1G0q"
       },
@@ -1335,6 +1319,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 284720,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Black Dog",
         "url": "https://open.spotify.com/album/7g57U9ugd9ObC65ecCeEHy"
       },
@@ -1347,22 +1347,6 @@
       "duration_ms": 225454,
       "name": "Black Dog",
       "url": "https://open.spotify.com/track/1NGPZKzplieiPc5g6lAJ49"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Why (Spare Me Tears)",
-        "url": "https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 205229,
-      "name": "Why (Spare Me Tears)",
-      "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1387,18 +1371,34 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "LEMONS",
-        "url": "https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX"
+        "name": "Why (Spare Me Tears)",
+        "url": "https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM"
       },
       "artists": [
         {
-          "name": "Nick Leng",
-          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 262600,
-      "name": "Lonely Shade of Blue",
-      "url": "https://open.spotify.com/track/5rTjMOVDiXDxkJavr2GxEL"
+      "duration_ms": 205229,
+      "name": "Why (Spare Me Tears)",
+      "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Beige",
+        "url": "https://open.spotify.com/album/1rqc8pT4NhDpx1ikfeadCW"
+      },
+      "artists": [
+        {
+          "name": "Flozigg",
+          "url": "https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "MUTUAL",
+      "url": "https://open.spotify.com/track/34dEWnWlThEqkHiASAy0ks"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "LEMONS",
+        "url": "https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX"
+      },
+      "artists": [
+        {
+          "name": "Nick Leng",
+          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
+        }
+      ],
+      "duration_ms": 262600,
+      "name": "Lonely Shade of Blue",
+      "url": "https://open.spotify.com/track/5rTjMOVDiXDxkJavr2GxEL"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Soul Trash",
         "url": "https://open.spotify.com/album/0ixqW4vlndPhWNsvDI4l8u"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 154573,
       "name": "drip bounce _ 7_24_18",
       "url": "https://open.spotify.com/track/42xSa2OHeuhpGYkWPXo3cA"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Beige",
-        "url": "https://open.spotify.com/album/1rqc8pT4NhDpx1ikfeadCW"
-      },
-      "artists": [
-        {
-          "name": "Flozigg",
-          "url": "https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "MUTUAL",
-      "url": "https://open.spotify.com/track/34dEWnWlThEqkHiASAy0ks"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1645,22 +1645,6 @@
       "url": "https://open.spotify.com/track/0DSgZOTRW9O7FGlheqWCHg"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Views/Octopus EP",
-        "url": "https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU"
-      },
-      "artists": [
-        {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Aquarium",
-      "url": "https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE"
-    },
-    {
       "added_at": "2023-04-21 18:56:46",
       "album": {
         "name": "Spider",
@@ -1675,6 +1659,22 @@
       "duration_ms": 241989,
       "name": "Spider",
       "url": "https://open.spotify.com/track/5K2Pxa2zSpIk2ROgRa9jUc"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Views/Octopus EP",
+        "url": "https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Aquarium",
+      "url": "https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE"
     }
   ],
   "unique_name": "late night vibes",

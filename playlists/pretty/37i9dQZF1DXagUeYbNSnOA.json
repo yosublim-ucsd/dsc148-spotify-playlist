@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Amanda Puj\u00f3. Updates every Wednesday.",
-  "num_followers": 169633,
+  "num_followers": 169637,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTkyNzIwMCwwMDAwMDAwMDZmZGM3ZjFiYzRiOTdmY2UzMDkyMTE3MDZiNDI3MjEx",
+  "snapshot_id": "MTY4MTkyNzIwMCwwMDAwMDAwMDYyNGFhZDM5ZjI1MjhmNzRlOWQzMDVhMDgzZWI4NTQx",
   "tracks": [
     {
       "added_at": "2023-04-19 18:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-04-19 18:00:00",
       "album": {
-        "name": "Oruga",
-        "url": "https://open.spotify.com/album/6Oj8bHGWDpy1EQRuf7RR2n"
-      },
-      "artists": [
-        {
-          "name": "Oruga",
-          "url": "https://open.spotify.com/artist/1Z7cXrGWV5wCBspuP253Hk"
-        }
-      ],
-      "duration_ms": 204371,
-      "name": "E.T.E.R.",
-      "url": "https://open.spotify.com/track/6vLKWhu7daAUoj7xlUid3v"
-    },
-    {
-      "added_at": "2023-04-19 18:00:00",
-      "album": {
         "name": "parkour",
         "url": "https://open.spotify.com/album/5rXCyHFLbBRDCMzcIpkVnL"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 230292,
       "name": "parkour",
       "url": "https://open.spotify.com/track/4tr21CwLteQmwz1E1IwgZY"
+    },
+    {
+      "added_at": "2023-04-19 18:00:00",
+      "album": {
+        "name": "Oruga",
+        "url": "https://open.spotify.com/album/6Oj8bHGWDpy1EQRuf7RR2n"
+      },
+      "artists": [
+        {
+          "name": "Oruga",
+          "url": "https://open.spotify.com/artist/1Z7cXrGWV5wCBspuP253Hk"
+        }
+      ],
+      "duration_ms": 204371,
+      "name": "E.T.E.R.",
+      "url": "https://open.spotify.com/track/6vLKWhu7daAUoj7xlUid3v"
     },
     {
       "added_at": "2023-04-19 18:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-04-19 18:00:00",
       "album": {
-        "name": "Velvet",
-        "url": "https://open.spotify.com/album/769hmq1tKBE2Tu950P9enr"
-      },
-      "artists": [
-        {
-          "name": "Tuzeint",
-          "url": "https://open.spotify.com/artist/0iQ2RumqYpmrZVxHCR771X"
-        }
-      ],
-      "duration_ms": 161661,
-      "name": "Velvet",
-      "url": "https://open.spotify.com/track/3qU8U9M2l7Q32WAy2eYAwm"
-    },
-    {
-      "added_at": "2023-04-19 18:00:00",
-      "album": {
         "name": "Coraz\u00f3n de Hojalata",
         "url": "https://open.spotify.com/album/07upp7a8Y0bTkYYsoqvvb5"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 238058,
       "name": "Coraz\u00f3n de Hojalata",
       "url": "https://open.spotify.com/track/4gH7AJLxGrrbQRCJp5aGsm"
+    },
+    {
+      "added_at": "2023-04-19 18:00:00",
+      "album": {
+        "name": "Velvet",
+        "url": "https://open.spotify.com/album/769hmq1tKBE2Tu950P9enr"
+      },
+      "artists": [
+        {
+          "name": "Tuzeint",
+          "url": "https://open.spotify.com/artist/0iQ2RumqYpmrZVxHCR771X"
+        }
+      ],
+      "duration_ms": 161661,
+      "name": "Velvet",
+      "url": "https://open.spotify.com/track/3qU8U9M2l7Q32WAy2eYAwm"
     },
     {
       "added_at": "2023-04-19 18:00:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-04-19 18:00:00",
       "album": {
+        "name": "No Me Da La Fokin' Gana",
+        "url": "https://open.spotify.com/album/2rBPBckMjlPz4h1TRGHDSi"
+      },
+      "artists": [
+        {
+          "name": "Ani Cordero",
+          "url": "https://open.spotify.com/artist/0CRwWa8WxuhnF5eTf45lI1"
+        }
+      ],
+      "duration_ms": 236417,
+      "name": "No Me Da La Fokin' Gana",
+      "url": "https://open.spotify.com/track/53rONYB3DQYqioJ2Q4YZVf"
+    },
+    {
+      "added_at": "2023-04-19 18:00:00",
+      "album": {
         "name": "Amor Eterno Vol. 1",
         "url": "https://open.spotify.com/album/1qbfBzAmMF3SbzO0IXdbpa"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 134188,
       "name": "Estrella",
       "url": "https://open.spotify.com/track/65ujqMp1mdOhzp75c5t90R"
-    },
-    {
-      "added_at": "2023-04-19 18:00:00",
-      "album": {
-        "name": "No Me Da La Fokin' Gana",
-        "url": "https://open.spotify.com/album/2rBPBckMjlPz4h1TRGHDSi"
-      },
-      "artists": [
-        {
-          "name": "Ani Cordero",
-          "url": "https://open.spotify.com/artist/0CRwWa8WxuhnF5eTf45lI1"
-        }
-      ],
-      "duration_ms": 236417,
-      "name": "No Me Da La Fokin' Gana",
-      "url": "https://open.spotify.com/track/53rONYB3DQYqioJ2Q4YZVf"
     }
   ],
   "unique_name": "Fresh Finds Latin",

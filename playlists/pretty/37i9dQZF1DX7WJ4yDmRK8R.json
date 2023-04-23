@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: The Interrupters",
-  "num_followers": 341900,
+  "num_followers": 342045,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDYxMTUzOSwwMDAwMDAwMDg4ODc2OGM2ZTVjYmRlZjgxY2Y1YTU0N2E0YTdmMjVi",
+  "snapshot_id": "MTY3MDYxMTUzOSwwMDAwMDAwMDFkNzM5MDFmMDYyMzBjYWJjYjVhZjI2YzdhN2MzNGE3",
   "tracks": [
     {
       "added_at": "2022-12-09 18:45:39",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Operation Ivy (2007 Remaster)",
-        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
-      },
-      "artists": [
-        {
-          "name": "Operation Ivy",
-          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
-        }
-      ],
-      "duration_ms": 134026,
-      "name": "Sound System - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "007 Shanty Town",
         "url": "https://open.spotify.com/album/5lJvmBzHTq7POLabCLvzOm"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 152866,
       "name": "007 (Shanty Town)",
       "url": "https://open.spotify.com/track/7LOAChK8Lkj8ZdF1LuhNWP"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "Operation Ivy (2007 Remaster)",
+        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
+      },
+      "artists": [
+        {
+          "name": "Operation Ivy",
+          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
+        }
+      ],
+      "duration_ms": 134026,
+      "name": "Sound System - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/1kJP7cQaT8xHYSKlknNiuS"
-      },
-      "artists": [
-        {
-          "name": "The Planet Smashers",
-          "url": "https://open.spotify.com/artist/2wYNzTzigUWAeVLaxeRrg3"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/1ikzC1az2vXMR060qvDnvW"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "Destruction By Definition",
         "url": "https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 188640,
       "name": "Break The Glass",
       "url": "https://open.spotify.com/track/4jH8dxtKxBP9YZcLFGkw09"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/1kJP7cQaT8xHYSKlknNiuS"
+      },
+      "artists": [
+        {
+          "name": "The Planet Smashers",
+          "url": "https://open.spotify.com/artist/2wYNzTzigUWAeVLaxeRrg3"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/1ikzC1az2vXMR060qvDnvW"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "In Black And White",
-        "url": "https://open.spotify.com/album/423bYBpPMVSCvSfLr8DSdn"
-      },
-      "artists": [
-        {
-          "name": "Mustard Plug",
-          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
-        }
-      ],
-      "duration_ms": 137960,
-      "name": "On and On",
-      "url": "https://open.spotify.com/track/7M86b1WHyyGFkKO3XO1uwb"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "Life Won't Wait",
         "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 228040,
       "name": "Life Won't Wait",
       "url": "https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "In Black And White",
+        "url": "https://open.spotify.com/album/423bYBpPMVSCvSfLr8DSdn"
+      },
+      "artists": [
+        {
+          "name": "Mustard Plug",
+          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
+        }
+      ],
+      "duration_ms": 137960,
+      "name": "On and On",
+      "url": "https://open.spotify.com/track/7M86b1WHyyGFkKO3XO1uwb"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "\u2026And The Battle Begun",
-        "url": "https://open.spotify.com/album/0bjJmoZgV7ijmlMwvF0Oij"
+        "name": "Let's Do Rock Steady",
+        "url": "https://open.spotify.com/album/1mnzdkXqugo6pnz3O0GRNO"
       },
       "artists": [
         {
-          "name": "Rx Bandits",
-          "url": "https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi"
+          "name": "The Bodysnatchers",
+          "url": "https://open.spotify.com/artist/4A8i0BB8EcWKijB9T54QRV"
         }
       ],
-      "duration_ms": 219133,
-      "name": "Apparition",
-      "url": "https://open.spotify.com/track/1yC2n0cfsyIASjIKD0EZ3H"
+      "duration_ms": 174490,
+      "name": "Let's Do Rock Steady",
+      "url": "https://open.spotify.com/track/0FkBWszH9H2y7TxH899416"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Let's Do Rock Steady",
-        "url": "https://open.spotify.com/album/1mnzdkXqugo6pnz3O0GRNO"
+        "name": "\u2026And The Battle Begun",
+        "url": "https://open.spotify.com/album/0bjJmoZgV7ijmlMwvF0Oij"
       },
       "artists": [
         {
-          "name": "The Bodysnatchers",
-          "url": "https://open.spotify.com/artist/4A8i0BB8EcWKijB9T54QRV"
+          "name": "Rx Bandits",
+          "url": "https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi"
         }
       ],
-      "duration_ms": 174490,
-      "name": "Let's Do Rock Steady",
-      "url": "https://open.spotify.com/track/0FkBWszH9H2y7TxH899416"
+      "duration_ms": 219133,
+      "name": "Apparition",
+      "url": "https://open.spotify.com/track/1yC2n0cfsyIASjIKD0EZ3H"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Right On Time",
-        "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
-      },
-      "artists": [
-        {
-          "name": "Hepcat",
-          "url": "https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp"
-        }
-      ],
-      "duration_ms": 202106,
-      "name": "I Can't Wait",
-      "url": "https://open.spotify.com/track/51vJlDmoPncY0fzzarlHW2"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "The Toasters: 30th Anniversary",
         "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 191824,
       "name": "Marchez",
       "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "Right On Time",
+        "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
+      },
+      "artists": [
+        {
+          "name": "Hepcat",
+          "url": "https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp"
+        }
+      ],
+      "duration_ms": 202106,
+      "name": "I Can't Wait",
+      "url": "https://open.spotify.com/track/51vJlDmoPncY0fzzarlHW2"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Me, Myself and Something Else",
-        "url": "https://open.spotify.com/album/4Ce185NtrqYpLPwOkK5r1b"
-      },
-      "artists": [
-        {
-          "name": "Call Me Malcolm",
-          "url": "https://open.spotify.com/artist/6WZUGL4ioInlABxJ0GAPAU"
-        }
-      ],
-      "duration_ms": 274250,
-      "name": "I Bet They're Asleep In New York",
-      "url": "https://open.spotify.com/track/1xxJeDob3k09GfNsDFm1tc"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "Battle Hymns",
         "url": "https://open.spotify.com/album/2MwN76QIF9LBBWzZckdRw7"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 72600,
       "name": "Step One",
       "url": "https://open.spotify.com/track/3XKah41iLnBH8LHyp7yAAA"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "Me, Myself and Something Else",
+        "url": "https://open.spotify.com/album/4Ce185NtrqYpLPwOkK5r1b"
+      },
+      "artists": [
+        {
+          "name": "Call Me Malcolm",
+          "url": "https://open.spotify.com/artist/6WZUGL4ioInlABxJ0GAPAU"
+        }
+      ],
+      "duration_ms": 274250,
+      "name": "I Bet They're Asleep In New York",
+      "url": "https://open.spotify.com/track/1xxJeDob3k09GfNsDFm1tc"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "To the Moon",
-        "url": "https://open.spotify.com/album/0SqDdH5Oo9LKquzteXwBXf"
-      },
-      "artists": [
-        {
-          "name": "Popes Of Chillitown",
-          "url": "https://open.spotify.com/artist/52TSqCyQNF1RMmTzew0soN"
-        }
-      ],
-      "duration_ms": 343786,
-      "name": "Wisdom Teeth",
-      "url": "https://open.spotify.com/track/01yfHEZFw4VmtehjDTWyht"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "The Toasters: 30th Anniversary",
         "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 197040,
       "name": "2Tone Army",
       "url": "https://open.spotify.com/track/6KFXNbClXf6IHzx8S1HmGJ"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "To the Moon",
+        "url": "https://open.spotify.com/album/0SqDdH5Oo9LKquzteXwBXf"
+      },
+      "artists": [
+        {
+          "name": "Popes Of Chillitown",
+          "url": "https://open.spotify.com/artist/52TSqCyQNF1RMmTzew0soN"
+        }
+      ],
+      "duration_ms": 343786,
+      "name": "Wisdom Teeth",
+      "url": "https://open.spotify.com/track/01yfHEZFw4VmtehjDTWyht"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Strange Creatures - EP",
-        "url": "https://open.spotify.com/album/5uL98nzPwql7vBbgvcZ1wm"
+        "name": "Kosmopoliturbo",
+        "url": "https://open.spotify.com/album/0RGMKEJfpeWIUbSkZVWNYP"
       },
       "artists": [
         {
-          "name": "Stacked Like Pancakes",
-          "url": "https://open.spotify.com/artist/7Fk8bbugoEFZWgUvVoTBBp"
+          "name": "Russkaja",
+          "url": "https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr"
         }
       ],
-      "duration_ms": 254720,
-      "name": "Dreamcatcher",
-      "url": "https://open.spotify.com/track/5EcwkzTe649NhX3GzN7kNK"
+      "duration_ms": 229813,
+      "name": "Hey Road",
+      "url": "https://open.spotify.com/track/0GnkpXQV1n2W6gJ5Mq4b9T"
     }
   ],
   "unique_name": "The Essential Ska",

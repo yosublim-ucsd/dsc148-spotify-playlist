@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 250832,
+  "num_followers": 250869,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGFiNDgwYmU2ZTJkMDU1ZThmZDNmZTcwOWMxNTA3ZDRm",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDA0ZWI1YjYzZjc0MTM2NTA2NTVjMDIyNTMzYTY5YTRj",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -125,20 +125,20 @@
       "url": "https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
+      "added_at": "2019-09-16 15:44:25",
       "album": {
-        "name": "What You Want",
-        "url": "https://open.spotify.com/album/2qi1aSTCj6nzyVgXr5KZKB"
+        "name": "Hosoi",
+        "url": "https://open.spotify.com/album/7zhdVONU5HcwpbmC7XtXsn"
       },
       "artists": [
         {
-          "name": "Danny Dwyer",
-          "url": "https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd"
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
         }
       ],
-      "duration_ms": 191986,
-      "name": "What You Want",
-      "url": "https://open.spotify.com/track/2AQzUTNoARvzd42LrWFddf"
+      "duration_ms": 166344,
+      "name": "By",
+      "url": "https://open.spotify.com/track/5C4sp6JprCFTO9ZQcg4qXs"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -157,20 +157,20 @@
       "url": "https://open.spotify.com/track/5cvbog6wen3r3bBbcwL16U"
     },
     {
-      "added_at": "2019-09-16 15:44:25",
+      "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Hosoi",
-        "url": "https://open.spotify.com/album/7zhdVONU5HcwpbmC7XtXsn"
+        "name": "What You Want",
+        "url": "https://open.spotify.com/album/2qi1aSTCj6nzyVgXr5KZKB"
       },
       "artists": [
         {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+          "name": "Danny Dwyer",
+          "url": "https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd"
         }
       ],
-      "duration_ms": 166344,
-      "name": "By",
-      "url": "https://open.spotify.com/track/5C4sp6JprCFTO9ZQcg4qXs"
+      "duration_ms": 191986,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/2AQzUTNoARvzd42LrWFddf"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -455,6 +455,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Lagoon",
+        "url": "https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "duration_ms": 255214,
+      "name": "Lagoon",
+      "url": "https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Unusable Love",
         "url": "https://open.spotify.com/album/2t7XHE3SmGWwLIXSjuzT8p"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 281110,
       "name": "I'm Right Here",
       "url": "https://open.spotify.com/track/0LS2fJCXvbn74RQeGLxbeS"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Lagoon",
-        "url": "https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE"
-      },
-      "artists": [
-        {
-          "name": "Laura Misch",
-          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
-        }
-      ],
-      "duration_ms": 255214,
-      "name": "Lagoon",
-      "url": "https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -561,22 +561,6 @@
       "url": "https://open.spotify.com/track/162IXWKNMaTHQSnXdT2yPP"
     },
     {
-      "added_at": "2019-05-24 08:01:00",
-      "album": {
-        "name": "Your Own Truth",
-        "url": "https://open.spotify.com/album/4vwKFcNLE0kUe8tsb7M4I7"
-      },
-      "artists": [
-        {
-          "name": "James Forest",
-          "url": "https://open.spotify.com/artist/6TWuwqkarDY2IXyFaGAQd4"
-        }
-      ],
-      "duration_ms": 293613,
-      "name": "Your Own Truth",
-      "url": "https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM"
-    },
-    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "Homegrown (Remixes)",
@@ -595,6 +579,22 @@
       "duration_ms": 245000,
       "name": "Homegrown - Empty Woods Remix",
       "url": "https://open.spotify.com/track/6VzTPQCvXtcMfFsuoCBYRs"
+    },
+    {
+      "added_at": "2019-05-24 08:01:00",
+      "album": {
+        "name": "Your Own Truth",
+        "url": "https://open.spotify.com/album/4vwKFcNLE0kUe8tsb7M4I7"
+      },
+      "artists": [
+        {
+          "name": "James Forest",
+          "url": "https://open.spotify.com/artist/6TWuwqkarDY2IXyFaGAQd4"
+        }
+      ],
+      "duration_ms": 293613,
+      "name": "Your Own Truth",
+      "url": "https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/39cop5xNx9C1u5ssGvuUYL"
     },
     {
-      "added_at": "2019-05-24 08:01:00",
-      "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/6DNml4of4LLHUa5FTBnJXu"
-      },
-      "artists": [
-        {
-          "name": "Oddysseys",
-          "url": "https://open.spotify.com/artist/7b5YV6ZD7IcamrC28c6cUd"
-        }
-      ],
-      "duration_ms": 145208,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/2lskCyax2W4xf0OIvu1sus"
-    },
-    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "Small Clan",
@@ -853,20 +837,20 @@
       "url": "https://open.spotify.com/track/01JqaZsSE7IaIdxtI1FSvM"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
+      "added_at": "2019-05-24 08:01:00",
       "album": {
-        "name": "Antasma",
-        "url": "https://open.spotify.com/album/2shJEUIURDIlMslYeCl0zl"
+        "name": "With You",
+        "url": "https://open.spotify.com/album/6DNml4of4LLHUa5FTBnJXu"
       },
       "artists": [
         {
-          "name": "Sal Dulu",
-          "url": "https://open.spotify.com/artist/6vZPwPZBhP2RCPcijCfRAV"
+          "name": "Oddysseys",
+          "url": "https://open.spotify.com/artist/7b5YV6ZD7IcamrC28c6cUd"
         }
       ],
-      "duration_ms": 205680,
-      "name": "Antasma",
-      "url": "https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex"
+      "duration_ms": 145208,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/2lskCyax2W4xf0OIvu1sus"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -891,6 +875,22 @@
       "duration_ms": 114929,
       "name": "I've Always Been",
       "url": "https://open.spotify.com/track/0Uxmhbm1sUiyh6geMnwzG4"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Antasma",
+        "url": "https://open.spotify.com/album/2shJEUIURDIlMslYeCl0zl"
+      },
+      "artists": [
+        {
+          "name": "Sal Dulu",
+          "url": "https://open.spotify.com/artist/6vZPwPZBhP2RCPcijCfRAV"
+        }
+      ],
+      "duration_ms": 205680,
+      "name": "Antasma",
+      "url": "https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -977,22 +977,6 @@
       "url": "https://open.spotify.com/track/0FG5AlzaIGKwVcZq9vWvv1"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Brother",
-        "url": "https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5"
-      },
-      "artists": [
-        {
-          "name": "mAsis",
-          "url": "https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90"
-    },
-    {
       "added_at": "2019-05-24 08:01:00",
       "album": {
         "name": "VALIS",
@@ -1007,6 +991,22 @@
       "duration_ms": 198958,
       "name": "Echo Park",
       "url": "https://open.spotify.com/track/79nZqX37kRq35LKbiJxUW0"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5"
+      },
+      "artists": [
+        {
+          "name": "mAsis",
+          "url": "https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90"
     },
     {
       "added_at": "2018-12-11 21:12:31",

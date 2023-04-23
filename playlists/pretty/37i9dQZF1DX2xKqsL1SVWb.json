@@ -1,12 +1,12 @@
 {
   "description": "Folk tan dulce como la miel. Kevin Kaarl en portada.",
-  "num_followers": 95984,
+  "num_followers": 96001,
   "original_name": "madera y miel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI5MDE5NSwwMDAwMDAwMDQwYjU5NGQ3NTIxYWNiMDBmYzFhNDAxNTY3OWNkZmVl",
+  "snapshot_id": "MTY4MDI5MDE5NSwwMDAwMDAwMGZiMTZhYjdkOTcyMzNmODYzMGFjNTAyZDQwOWEwYmZl",
   "tracks": [
     {
       "added_at": "2023-03-31 18:07:09",
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/0xJDZoUeyeOBlj9jtqhyum"
     },
     {
-      "added_at": "2023-04-22 00:59:12",
+      "added_at": "2023-04-23 00:56:47",
       "album": {
         "name": "Ya Casi Te Olvido",
         "url": "https://open.spotify.com/album/2dxhIwE8OuBoS1D0VFb7SB"
@@ -461,23 +461,7 @@
       "url": "https://open.spotify.com/track/57OmmVVcjJVBuWSMOI42Pn"
     },
     {
-      "added_at": "2023-03-31 18:07:09",
-      "album": {
-        "name": "Dark Folk, Vol.1",
-        "url": "https://open.spotify.com/album/59wOCZe4HNPLWKkFnnlXcu"
-      },
-      "artists": [
-        {
-          "name": "Anthr\u00e9s",
-          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
-        }
-      ],
-      "duration_ms": 148353,
-      "name": "Te Rendiste En MI",
-      "url": "https://open.spotify.com/track/7oyN3Xdz3o0xCNFwWc1lm1"
-    },
-    {
-      "added_at": "2023-04-22 00:59:12",
+      "added_at": "2023-04-23 00:56:47",
       "album": {
         "name": "No Sab\u00eda",
         "url": "https://open.spotify.com/album/2gOm3N82lznLwNw58asTBL"
@@ -589,6 +573,22 @@
       "url": "https://open.spotify.com/track/68MygQgC9byQcYbfL1c62L"
     },
     {
+      "added_at": "2023-04-23 00:56:47",
+      "album": {
+        "name": "Loza",
+        "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+        }
+      ],
+      "duration_ms": 267958,
+      "name": "Que Entre el Fr\u00edo",
+      "url": "https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO"
+    },
+    {
       "added_at": "2023-03-31 18:07:09",
       "album": {
         "name": "Ni Modo",
@@ -603,22 +603,6 @@
       "duration_ms": 185058,
       "name": "Ni Modo",
       "url": "https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4"
-    },
-    {
-      "added_at": "2023-04-22 00:59:12",
-      "album": {
-        "name": "Loza",
-        "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
-        }
-      ],
-      "duration_ms": 267958,
-      "name": "Que Entre el Fr\u00edo",
-      "url": "https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -739,22 +723,6 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
-        "name": "No Soy Yo",
-        "url": "https://open.spotify.com/album/0PVjH55QwxgCjcOxqavV09"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        }
-      ],
-      "duration_ms": 193654,
-      "name": "No Soy Yo",
-      "url": "https://open.spotify.com/track/2WsqNbvR2Ej6e6ae5t62eX"
-    },
-    {
-      "added_at": "2023-03-31 18:07:09",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
       },
@@ -767,6 +735,22 @@
       "duration_ms": 209746,
       "name": "Clandestina - Spotify Singles",
       "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
+    },
+    {
+      "added_at": "2023-03-31 18:07:09",
+      "album": {
+        "name": "No Soy Yo",
+        "url": "https://open.spotify.com/album/0PVjH55QwxgCjcOxqavV09"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        }
+      ],
+      "duration_ms": 193654,
+      "name": "No Soy Yo",
+      "url": "https://open.spotify.com/track/2WsqNbvR2Ej6e6ae5t62eX"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -801,7 +785,7 @@
       "url": "https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS"
     },
     {
-      "added_at": "2023-04-22 00:59:12",
+      "added_at": "2023-04-23 00:56:47",
       "album": {
         "name": "HSN",
         "url": "https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam"
@@ -815,6 +799,22 @@
       "duration_ms": 160001,
       "name": "Juntos",
       "url": "https://open.spotify.com/track/6DnmHa24M6jVBisjhyHcIs"
+    },
+    {
+      "added_at": "2023-03-31 18:07:09",
+      "album": {
+        "name": "Tan Bien Que Estaba",
+        "url": "https://open.spotify.com/album/6agvAr3BILtwOWJfO6i2gg"
+      },
+      "artists": [
+        {
+          "name": "Daniel Qui\u00e9n",
+          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Tan Bien Que Estaba",
+      "url": "https://open.spotify.com/track/3ozEF7ejFaLouclqb7khai"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
-        "name": "Tan Bien Que Estaba",
-        "url": "https://open.spotify.com/album/6agvAr3BILtwOWJfO6i2gg"
+        "name": "Amor Con Filo",
+        "url": "https://open.spotify.com/album/5LZTVKoO09QDaADq6ij0Sj"
       },
       "artists": [
         {
-          "name": "Daniel Qui\u00e9n",
-          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
+          "name": "Anthr\u00e9s",
+          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
         }
       ],
-      "duration_ms": 214960,
-      "name": "Tan Bien Que Estaba",
-      "url": "https://open.spotify.com/track/3ozEF7ejFaLouclqb7khai"
+      "duration_ms": 178000,
+      "name": "Amor Con Filo",
+      "url": "https://open.spotify.com/track/3hzxwtypvjo7qqy8umK66X"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -879,22 +879,6 @@
       "duration_ms": 245187,
       "name": "Amanecer",
       "url": "https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F"
-    },
-    {
-      "added_at": "2023-03-31 18:07:09",
-      "album": {
-        "name": "Amor Con Filo",
-        "url": "https://open.spotify.com/album/5LZTVKoO09QDaADq6ij0Sj"
-      },
-      "artists": [
-        {
-          "name": "Anthr\u00e9s",
-          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Amor Con Filo",
-      "url": "https://open.spotify.com/track/3hzxwtypvjo7qqy8umK66X"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
+        "name": "Bolero Surrealista",
+        "url": "https://open.spotify.com/album/6kZcXw3tT2Kbj9rqZsh83a"
+      },
+      "artists": [
+        {
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+        }
+      ],
+      "duration_ms": 234500,
+      "name": "Bolero Surrealista",
+      "url": "https://open.spotify.com/track/0axqkZNASfnYOI3abp06dT"
+    },
+    {
+      "added_at": "2023-03-31 18:07:09",
+      "album": {
         "name": "De Todo un Poco",
         "url": "https://open.spotify.com/album/28FDFSEkA2zhVB5q6GL6CS"
       },
@@ -1103,38 +1103,6 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
-        "name": "Hoy Es Hoy",
-        "url": "https://open.spotify.com/album/3iU8y5kOdMIPMdaRaHyhmF"
-      },
-      "artists": [
-        {
-          "name": "Greta Ela",
-          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Hoy Es Hoy",
-      "url": "https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd"
-    },
-    {
-      "added_at": "2023-03-31 18:07:09",
-      "album": {
-        "name": "P\u00e1ramo M\u00edstico",
-        "url": "https://open.spotify.com/album/3w6sKad6TBHZgZGE3oU4tL"
-      },
-      "artists": [
-        {
-          "name": "Dali Mata",
-          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
-        }
-      ],
-      "duration_ms": 203532,
-      "name": "Arena Blanca",
-      "url": "https://open.spotify.com/track/5j0P1xvPEFC3aLloV70sAF"
-    },
-    {
-      "added_at": "2023-03-31 18:07:09",
-      "album": {
         "name": "El Fin",
         "url": "https://open.spotify.com/album/36zytWk6zIaTL5hcrPplY8"
       },
@@ -1151,18 +1119,34 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
-        "name": "Yaya",
-        "url": "https://open.spotify.com/album/6ZhmkUD947boo8m6KGS4CM"
+        "name": "Hoy Es Hoy",
+        "url": "https://open.spotify.com/album/3iU8y5kOdMIPMdaRaHyhmF"
       },
       "artists": [
         {
-          "name": "Venado Meraki",
-          "url": "https://open.spotify.com/artist/5bLXtvIMDtusv4j9PtXjgB"
+          "name": "Greta Ela",
+          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
         }
       ],
-      "duration_ms": 233370,
-      "name": "Yaya",
-      "url": "https://open.spotify.com/track/7jm48iiBt7oI8skNwgzNrs"
+      "duration_ms": 174000,
+      "name": "Hoy Es Hoy",
+      "url": "https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd"
+    },
+    {
+      "added_at": "2023-03-31 18:07:09",
+      "album": {
+        "name": "Repetir",
+        "url": "https://open.spotify.com/album/2hN53yrLB2x6xcHwPiHTd5"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 163958,
+      "name": "Repetir",
+      "url": "https://open.spotify.com/track/4TlpJDThWiOD0KJz0snvD7"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -1183,18 +1167,34 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
-        "name": "Repetir",
-        "url": "https://open.spotify.com/album/2hN53yrLB2x6xcHwPiHTd5"
+        "name": "P\u00e1ramo M\u00edstico",
+        "url": "https://open.spotify.com/album/3w6sKad6TBHZgZGE3oU4tL"
       },
       "artists": [
         {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
         }
       ],
-      "duration_ms": 163958,
-      "name": "Repetir",
-      "url": "https://open.spotify.com/track/4TlpJDThWiOD0KJz0snvD7"
+      "duration_ms": 203532,
+      "name": "Arena Blanca",
+      "url": "https://open.spotify.com/track/5j0P1xvPEFC3aLloV70sAF"
+    },
+    {
+      "added_at": "2023-03-31 18:07:09",
+      "album": {
+        "name": "Yaya",
+        "url": "https://open.spotify.com/album/6ZhmkUD947boo8m6KGS4CM"
+      },
+      "artists": [
+        {
+          "name": "Venado Meraki",
+          "url": "https://open.spotify.com/artist/5bLXtvIMDtusv4j9PtXjgB"
+        }
+      ],
+      "duration_ms": 233370,
+      "name": "Yaya",
+      "url": "https://open.spotify.com/track/7jm48iiBt7oI8skNwgzNrs"
     },
     {
       "added_at": "2023-03-31 18:07:09",

@@ -4,7 +4,7 @@
 
 > Top hits from homegrown artists showcasing rich culture and talent from Uganda
 
-137 songs - 7 hr 4 min
+138 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,8 +107,9 @@
 | [Osobola](https://open.spotify.com/track/6YelPUEUNYf0o7vipnvZgl) | [Emilian Starz](https://open.spotify.com/artist/2S7N3sP6mqXp5yyu82QWOb) | [Osobola](https://open.spotify.com/album/7o055OuUVkYJlLrmDE0SMC) | 3:13 | 2022-09-30 | 2022-10-07 |
 | [Part2 \(Dinner in Maui\)](https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Part2 \(Dinner in Maui\)](https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO) | 3:13 | 2022-09-22 |  |
 | [Pause](https://open.spotify.com/track/2yx8yJQIWgyZ3xS67mg8Qp) | [Mugaba](https://open.spotify.com/artist/1EBLonfYVb5s9f047W2CS6), [Amani Greene](https://open.spotify.com/artist/0nJznPzHXT4c62if3o5tsO) | [Pause](https://open.spotify.com/album/53V8rIv7Bix3IbNXbnG0px) | 3:04 | 2023-04-06 | 2023-04-21 |
-| [Personal](https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9) | [Zulitums](https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea) | [Personal](https://open.spotify.com/album/5wYH1MacgZZEpIew5uQBTF) | 3:10 | 2022-05-12 |  |
+| [Personal](https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9) | [Zulitums](https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea) | [Personal](https://open.spotify.com/album/5wYH1MacgZZEpIew5uQBTF) | 3:10 | 2022-05-12 | 2023-04-23 |
 | [Pirepe](https://open.spotify.com/track/1c6pBk5cUupGEKuEc8gpgT) | [Suzan Kerunen](https://open.spotify.com/artist/2aNSI0ak2Os9PHD11PdkHr), [Aloysius Migadde](https://open.spotify.com/artist/7rJOWggakrq6vVC3gQ35XY) | [From Ashes We Rise](https://open.spotify.com/album/6qdLGSQgD4Qnl088lO3lgp) | 4:25 | 2022-05-12 | 2022-08-20 |
+| [Plan Ki](https://open.spotify.com/track/2ZbeZtGMyBOhWo4gvoGZZR) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Plan Ki](https://open.spotify.com/album/4qfhrxohGB4hPhDfFJ2nDN) | 3:14 | 2023-04-21 |  |
 | [Pretty Young Thing](https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Pretty Young Thing](https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF) | 3:10 | 2023-03-24 |  |
 | [Raha](https://open.spotify.com/track/2GJMYdqcS8uMRdUdwHJCY1) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ) | [Vibes Out The East](https://open.spotify.com/album/0qYAUeR7eF1HCKJGmRgLoz) | 3:32 | 2022-09-22 | 2022-11-11 |
 | [RainFall](https://open.spotify.com/track/7JMR4ksKkxC0UhxfkKFFUP) | [HerbertSkillz](https://open.spotify.com/artist/30hteLyFTmiRraerHJBoba), [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [RainFall](https://open.spotify.com/album/0cOqoc0T8yzsN4WbtDbCDK) | 3:29 | 2022-11-25 | 2023-02-28 |

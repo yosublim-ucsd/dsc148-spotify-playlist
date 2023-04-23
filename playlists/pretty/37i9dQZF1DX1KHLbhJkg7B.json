@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Michael Ray",
-  "num_followers": 87013,
+  "num_followers": 87072,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDU4N2Q2OTdjZjk4OGQxYjNmZWUxNTY2Y2ExMGFjYjEx",
+  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMGUzOTA4NWQ2YTY2MjJiNGQ5NzlhODZkNzVhMDNhYzgz",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Now That I've Found You: A Collection",
-        "url": "https://open.spotify.com/album/32y7QMTFfQC3ZZB3rb2RFs"
+        "name": "Always On My Mind",
+        "url": "https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb"
       },
       "artists": [
         {
-          "name": "Alison Krauss & Union Station",
-          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 260800,
-      "name": "When You Say Nothing At All",
-      "url": "https://open.spotify.com/track/6HveTIMynTMzTc5L0TcS20"
+      "duration_ms": 212666,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Always On My Mind",
-        "url": "https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb"
+        "name": "Now That I've Found You: A Collection",
+        "url": "https://open.spotify.com/album/32y7QMTFfQC3ZZB3rb2RFs"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
         }
       ],
-      "duration_ms": 212666,
-      "name": "Always On My Mind",
-      "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
+      "duration_ms": 260800,
+      "name": "When You Say Nothing At All",
+      "url": "https://open.spotify.com/track/6HveTIMynTMzTc5L0TcS20"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "I Wanna Dance With Somebody (Who Loves Me)",
-        "url": "https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 203538,
-      "name": "I Wanna Dance With Somebody - Who Loves Me",
-      "url": "https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Jersey Giant",
         "url": "https://open.spotify.com/album/6g0TVq73ck6OaG5hOEmeFO"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 266320,
       "name": "Jersey Giant",
       "url": "https://open.spotify.com/track/1tyw50Pcn8A5X17Ojus9cr"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "I Wanna Dance With Somebody (Who Loves Me)",
+        "url": "https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 203538,
+      "name": "I Wanna Dance With Somebody - Who Loves Me",
+      "url": "https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Dammit",
-        "url": "https://open.spotify.com/album/0dWV3dZmZvr2ku5ho29GeU"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Kay",
-          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
-        }
-      ],
-      "duration_ms": 199445,
-      "name": "Dammit",
-      "url": "https://open.spotify.com/track/0fQIh3kxy3MeDDuHuJMEXN"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Whoever's In New England",
         "url": "https://open.spotify.com/album/4bRzY03Ik2xuETyr1NDED4"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 226960,
       "name": "Whoever's in New England",
       "url": "https://open.spotify.com/track/04kCQmATnYeMObIw8Efnor"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Dammit",
+        "url": "https://open.spotify.com/album/0dWV3dZmZvr2ku5ho29GeU"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Kay",
+          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
+        }
+      ],
+      "duration_ms": 199445,
+      "name": "Dammit",
+      "url": "https://open.spotify.com/track/0fQIh3kxy3MeDDuHuJMEXN"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 229574,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/1qP5WX9ynLx93VQadyYuN0"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 217200,
       "name": "Teenage Dream",
       "url": "https://open.spotify.com/track/26lrynwoaN6Bz8oVU5VdO8"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 229574,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i"
+        "name": "Make Me Want To",
+        "url": "https://open.spotify.com/album/0yeIgCIOOONw8YBtZCFzu9"
       },
       "artists": [
         {
-          "name": "John Michael Montgomery",
-          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
         }
       ],
-      "duration_ms": 262520,
-      "name": "I Swear",
-      "url": "https://open.spotify.com/track/0XrZybkQwtDUvLNehXqyVR"
+      "duration_ms": 175227,
+      "name": "Make Me Want To",
+      "url": "https://open.spotify.com/track/4zBfFrS00t3HNpW50Q2lew"
     }
   ],
   "unique_name": "Country Covers",

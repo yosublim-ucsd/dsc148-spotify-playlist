@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Paolo Sandejas \(Phillipines\)
 
-738 songs - 1 day 20 hr 17 min
+739 songs - 1 day 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [A Little of Autumn](https://open.spotify.com/track/3QLpDswqTh1i8uxHPDFlQR) | [The Whisperer](https://open.spotify.com/artist/6KvQwU4UxItDsPSIYqVOZz) | [A Little of Autumn](https://open.spotify.com/album/6LgekICVsAfC9GV5rIFKPE) | 3:42 | 2022-06-02 | 2022-07-15 |
 | [a luv song](https://open.spotify.com/track/0V3P6jdD0vxBrsBFErn1Xg) | [Barney Sku](https://open.spotify.com/artist/77ziiu02mos4YrZ4mpWO0v), [friexza](https://open.spotify.com/artist/3DGKUbhwIE6KEIbpJhp5Cq) | [a luv song](https://open.spotify.com/album/3ebClLURIBXy425TuC7Gbo) | 3:43 | 2022-09-22 | 2022-10-07 |
 | [A Place to Belong](https://open.spotify.com/track/4lun8QvR4sKXK1undQgIr7) | [Rifan Kalbuadi](https://open.spotify.com/artist/6dO5K9GKFs1yW4fHZLI3ys) | [A Place to Belong](https://open.spotify.com/album/14EI3GUx9auJPVLWh612jE) | 3:58 | 2022-12-15 | 2023-01-27 |
-| [A Thousand Miles](https://open.spotify.com/track/6TtYOU0GiN4PkN9oCvMvLx) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [A Thousand Miles](https://open.spotify.com/album/3E1GIabiOGaJDlHkX0iX4D) | 3:38 | 2023-04-13 |  |
+| [A Thousand Miles](https://open.spotify.com/track/6TtYOU0GiN4PkN9oCvMvLx) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [A Thousand Miles](https://open.spotify.com/album/3E1GIabiOGaJDlHkX0iX4D) | 3:38 | 2023-04-13 | 2023-04-23 |
 | [A.Y.A](https://open.spotify.com/track/69JDZpQd5oHd0BVUh0RDCO) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [A.Y.A](https://open.spotify.com/album/6Ay96Z1STLD5A6pXo9Qudu) | 3:40 | 2023-02-16 | 2023-04-14 |
 | [A380](https://open.spotify.com/track/3To0tYY3XbAHcLFZPPmGSJ) | [COPAK](https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [A380](https://open.spotify.com/album/0fmZgp45c7GHciuETUBiEN) | 3:38 | 2023-03-23 |  |
 | [Abeokuta](https://open.spotify.com/track/3nqujATHQsyEg104eXcaNI) | [Ki!](https://open.spotify.com/artist/68ZbJ6NBdeGlDRxv3jM0DP) | [The Boy from Haeundae Beach](https://open.spotify.com/album/4xcpRLcCpNEcAzPyR5GIHO) | 4:13 | 2022-11-17 | 2023-01-20 |
@@ -535,6 +535,7 @@
 | [Sleep](https://open.spotify.com/track/60LkyQDRBPoSJDyNqFTCav) | [Lee Jun Hyung](https://open.spotify.com/artist/6Op1UrYjepK3TvjsjnCeTq) | [Sleep](https://open.spotify.com/album/2xu8V1zr1vKKl4JJfM19n1) | 3:11 | 2022-09-15 | 2022-10-29 |
 | [Sleepyhead](https://open.spotify.com/track/5WppvSzsJBoQhT6V8HV9U8) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Sleepyhead](https://open.spotify.com/album/3fw8NcJqdA53NtZHGzU6cS) | 3:06 | 2022-03-24 | 2022-06-03 |
 | [Slow Dance](https://open.spotify.com/track/4L23bFa7UjkhRpj3BwY7hu) | [FOLK9](https://open.spotify.com/artist/4rZltXRJKOJfrMb94wvBbL) | [Slow Dance](https://open.spotify.com/album/1qFwIewiyPab9oEBQUuWP9) | 3:05 | 2022-03-31 | 2022-06-03 |
+| [small town](https://open.spotify.com/track/1uP1wSZet6v3DHJhO4vstB) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [small town](https://open.spotify.com/album/7wpAZr1j2jJaH7GtP3SemX) | 3:25 | 2023-04-20 |  |
 | [Smoke Sprite \(feat\. RM of BTS\)](https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD) | 4:02 | 2023-03-16 |  |
 | [So Bad](https://open.spotify.com/track/6C6vyS9KNrSj2arxF9N2QF) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [So Bad](https://open.spotify.com/album/4KTXCOR3hJNkVGWJ5Nh2Pw) | 2:53 | 2022-08-04 | 2022-08-26 |
 | [so beautiful, with you](https://open.spotify.com/track/30amHpRQprKxYbVh7bVWfl) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [so beautiful, with you](https://open.spotify.com/album/3YLzhNKScvqk93VMMTqYMf) | 3:38 | 2023-04-13 |  |

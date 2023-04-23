@@ -1982,7 +1982,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 190000,
       "name": "Personal",
       "url": "https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9"
@@ -2008,6 +2008,24 @@
       "duration_ms": 265000,
       "name": "Pirepe",
       "url": "https://open.spotify.com/track/1c6pBk5cUupGEKuEc8gpgT"
+    },
+    {
+      "album": {
+        "name": "Plan Ki",
+        "url": "https://open.spotify.com/album/4qfhrxohGB4hPhDfFJ2nDN"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194526,
+      "name": "Plan Ki",
+      "url": "https://open.spotify.com/track/2ZbeZtGMyBOhWo4gvoGZZR"
     },
     {
       "album": {

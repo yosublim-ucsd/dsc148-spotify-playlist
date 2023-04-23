@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > It's a main pop girl emergency 🆘  Cover: Kim Petras & Nicki Minaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,618 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,902 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 21 | [NeverStop](https://open.spotify.com/track/7nGMJUPdpRyiTjkTnFCkta) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [NeverStop](https://open.spotify.com/album/3LsmzqsGW7J6uK45C9McDo) | 4:34 |
 | 22 | [Worship You](https://open.spotify.com/track/2rfZyAX6wZxQWMQ9GYyLIu) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Worship You](https://open.spotify.com/album/1hQiBI8EdaW5dR4gja8w7f) | 2:58 |
 | 23 | [TAKUTÁ](https://open.spotify.com/track/3WRXW64cLmy1WSHEs9zgUZ) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [TAKUTÁ](https://open.spotify.com/album/3isNlsXrKxnpbrznyJe2gu) | 2:38 |
-| 24 | [IDOLIZE](https://open.spotify.com/track/3Hs0dJnewbzzk23UIKvg5y) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE), [Her Demons](https://open.spotify.com/artist/08LTIhrMYBlBUJar9Zi3Rx) | [IDOLIZE](https://open.spotify.com/album/2SOWbWUhvDc6stx7cvbDBK) | 2:36 |
+| 24 | [IDOLIZE](https://open.spotify.com/track/3Hs0dJnewbzzk23UIKvg5y) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE), [Her Demons](https://open.spotify.com/artist/4imZXQgV5VXSWSZfzRavM1) | [IDOLIZE](https://open.spotify.com/album/2SOWbWUhvDc6stx7cvbDBK) | 2:36 |
 | 25 | [Effort](https://open.spotify.com/track/7psuJ34tIkm9MTPMeBwn0o) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Effort](https://open.spotify.com/album/19WN3R2e1vksJnVObrFzQl) | 2:31 |
 | 26 | [Mary, Jane and Me](https://open.spotify.com/track/0JTFQqxiTjIe21URzd61RK) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Mary, Jane and Me](https://open.spotify.com/album/6yK1aVldLw36EkHy4PyZLZ) | 2:54 |
 | 27 | [Candyland](https://open.spotify.com/track/6nMmi5fObqHcwe5t94rZ5P) | [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk) | [Candyland](https://open.spotify.com/album/05zN6o7SPzRnAUCKg6iphk) | 2:42 |

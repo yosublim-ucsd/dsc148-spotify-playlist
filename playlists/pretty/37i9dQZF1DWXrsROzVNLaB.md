@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 
 > Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,128 likes - 75 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,129 likes - 75 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 64 | [Blameless](https://open.spotify.com/track/3hJf9RCc6jLId4U99rSTa2) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm) | [Blameless](https://open.spotify.com/album/1aNaKJuIh4Y5K6WONZuTtj) | 3:54 |
 | 65 | [The Cross Forever Speaks](https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:52 |
 | 66 | [Above All](https://open.spotify.com/track/4UKkXhpY3knx2S4KDrsRSP) | [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr) | [The Writer's Collection](https://open.spotify.com/album/1ztavDrZMEGJubkYFKcmZv) | 5:23 |
-| 67 | [Easter Song](https://open.spotify.com/track/4Uv19eDb9Os5UQODqb0edh) | [Keith Green](https://open.spotify.com/artist/0sA93wBoY7nJUE8dSrOZay) | [The Greatest Hits](https://open.spotify.com/album/72W8NheOUCQH4neNpQdkTm) | 3:57 |
-| 68 | [Doxology](https://open.spotify.com/track/6s2nM4DuZmhwceOzXwb6R1) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Stars Go Dim](https://open.spotify.com/album/6O53uxub6lQLq9S9AFKPCr) | 4:38 |
+| 67 | [Doxology](https://open.spotify.com/track/6s2nM4DuZmhwceOzXwb6R1) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Stars Go Dim](https://open.spotify.com/album/6O53uxub6lQLq9S9AFKPCr) | 4:38 |
+| 68 | [Easter Song](https://open.spotify.com/track/4Uv19eDb9Os5UQODqb0edh) | [Keith Green](https://open.spotify.com/artist/0sA93wBoY7nJUE8dSrOZay) | [The Greatest Hits](https://open.spotify.com/album/72W8NheOUCQH4neNpQdkTm) | 3:57 |
 | 69 | [Unveil My Eyes](https://open.spotify.com/track/3q2YCR0NGK1cTm9epl4q23) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Echoes Of Wonder](https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd) | 2:03 |
 | 70 | [Faithfulness \(feat\. Steffany Gretzinger\)](https://open.spotify.com/track/78ANuoRf4FZNRcUDtSaFiL) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:31 |
 | 71 | [Death Was Arrested / He's Alive \- Live](https://open.spotify.com/track/63xczPjcOU8Wl5T5YsStAo) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [Death Was Arrested / He's Alive \(Live\)](https://open.spotify.com/album/4aFoHGmtxzQtSHarx1k8IE) | 6:03 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 74 | [Three](https://open.spotify.com/track/7wAR6VZvelnHbNKsrpTAs0) | [Jackson Michelson](https://open.spotify.com/artist/75u3YWqj5cBc7lxxfctOqN), [Point Of Grace](https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6) | [Three](https://open.spotify.com/album/4CieJO00mA5U3Qy8WhPYjU) | 3:33 |
 | 75 | [How Great Thou Art \- Live](https://open.spotify.com/track/4XWA4VGeNYIOlbOfy9wr4P) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Charlie Hall](https://open.spotify.com/artist/0Przo8VxOHYfZv9FMZWsWV) | [Hymns Ancient And Modern \(Live\)](https://open.spotify.com/album/1ABQb99YyGRAKq0z3VXgoA) | 4:40 |
 
-Snapshot ID: `MTY4MDQyMzY3NiwwMDAwMDAwMDk4MjdjNmY5MzUzOTdkMGU2ODlhNTI2ZDMyMDg4MGMw`
+Snapshot ID: `MTY4MDQyMzY3NiwwMDAwMDAwMDhiOTE1NmRmOWU3ODEwZGU3YzkyOTczNjI4NDA3NGM2`

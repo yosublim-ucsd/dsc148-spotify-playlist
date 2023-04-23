@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: Kyle Lux\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,279 likes - 170 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,374 likes - 170 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The home for heavy rockers\. Cover: Metallica
 
-136 songs - 8 hr 40 min
+137 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Bone Church](https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Bone Church](https://open.spotify.com/album/3YfWgkwUS52CmKJeOpBACz) | 5:27 | 2023-02-03 |  |
 | [Born For One Thing](https://open.spotify.com/track/61GkJ0y15jxDyBrdcb6PqR) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 4:20 | 2022-11-10 | 2023-03-26 |
 | [Brat](https://open.spotify.com/track/6RBoDti7RDKjA3HQadiLDy) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [Brat](https://open.spotify.com/album/06LFLzsI6HOJU1E0Lbcgv3) | 3:06 | 2023-04-21 |  |
-| [By The Sound](https://open.spotify.com/track/7fUyorTZHGV2Nv7y6kU2b2) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [By The Sound](https://open.spotify.com/album/5OdLYsLViZQUxq1KkOYioq) | 3:42 | 2023-03-03 |  |
+| [By The Sound](https://open.spotify.com/track/7fUyorTZHGV2Nv7y6kU2b2) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [By The Sound](https://open.spotify.com/album/5OdLYsLViZQUxq1KkOYioq) | 3:42 | 2023-03-03 | 2023-04-23 |
 | [Call Me Little Sunshine](https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Call Me Little Sunshine](https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq) | 4:44 | 2022-11-10 | 2023-03-25 |
 | [Chokehold](https://open.spotify.com/track/6lssX4zmdtDiTw3eJhTjyg) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Chokehold](https://open.spotify.com/album/7kU4ySCd35MaGnS93a6AMl) | 5:04 | 2023-02-15 |  |
 | [Chokehold](https://open.spotify.com/track/7rHbwSOzT6z2D26oMQk9xG) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Chokehold](https://open.spotify.com/album/64BnMxajs1n8fk0DuNPjuP) | 5:04 | 2023-02-16 | 2023-02-17 |
@@ -44,6 +44,7 @@
 | [Fallout](https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h) | 3:14 | 2022-11-10 |  |
 | [Fighting Myself](https://open.spotify.com/track/5CVZeK7bOC9QxYcZ9gJ5X2) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Fighting Myself](https://open.spotify.com/album/0S1tvjDaar0S6LaRJAFcWF) | 3:21 | 2023-03-23 |  |
 | [Fingernails](https://open.spotify.com/track/5spwALkCxee9CstWeKG7gF) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Fingernails](https://open.spotify.com/album/3V00aSV8gcalGAwjOkauKN) | 4:05 | 2022-11-10 | 2023-01-17 |
+| [Finish Line \(feat\. Adam Gontier\)](https://open.spotify.com/track/3zkge7duYNYjsByp6Q0qZM) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Adam Gontier](https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT) | [Dominion: Day of Destiny](https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv) | 3:27 | 2023-03-23 |  |
 | [Finish Line \(feat\. Adam Gontier\)](https://open.spotify.com/track/5ipALw7s8VxqaxoskWH6hJ) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Adam Gontier](https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT) | [Finish Line \(feat\. Adam Gontier\)](https://open.spotify.com/album/5CDZtrKb7xdTOwFlqrmzP0) | 3:27 | 2023-02-03 | 2023-04-22 |
 | [Frenzy](https://open.spotify.com/track/5JngFjxkVIvlGSsHgUME7B) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 3:00 | 2023-01-20 | 2023-02-06 |
 | [FUBAR](https://open.spotify.com/track/0TOoqfApKrOaCgvEFUDXHc) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [FUBAR](https://open.spotify.com/album/6eZo6l9EtVb5hM3MtdFnjx) | 2:52 | 2023-02-18 | 2023-03-18 |

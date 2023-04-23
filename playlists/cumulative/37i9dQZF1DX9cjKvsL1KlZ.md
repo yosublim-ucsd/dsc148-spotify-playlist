@@ -4,7 +4,7 @@
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show.
 
-330 songs - 15 hr 34 min
+331 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,8 +106,9 @@
 | [Free Bizzy, Pt\. 2](https://open.spotify.com/track/3qYvUTA7AhJwx6lvxvCik1) | [Leeky G Bando](https://open.spotify.com/artist/2DDdkJNNuomH4Px5AJ8p2d) | [Free Bizzy, Pt\. 2](https://open.spotify.com/album/6sr74fUn57D13Nje1chRdF) | 2:15 | 2022-07-29 | 2022-11-09 |
 | [G in his grill](https://open.spotify.com/track/1HGbS14PUxiG1QQJ7KYnKw) | [Shawny Binladen](https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL) | [Merry Wickmas 2 \(Deluxe\)](https://open.spotify.com/album/4k1GwL4EHbSozGmKpBLmV7) | 1:20 | 2022-06-17 | 2022-07-02 |
 | [Gangsta Barbie](https://open.spotify.com/track/1TQOX5tHxOGTIfgFns2h47) | [Legendary Rella](https://open.spotify.com/artist/5CgifoNp4VZAgyQmiXPv7N) | [Gangsta Barbie](https://open.spotify.com/album/1JNFqwxoSxP6Uut6ZgQW51) | 2:09 | 2023-04-07 |  |
+| [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/2g5q0UpOOFMNOcHGaMG4b0) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 2:39 | 2023-04-07 |  |
 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/3lE8TCA1FKNQthjj73Sjrv) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:39 | 2023-02-01 | 2023-02-03 |
-| [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:39 | 2023-02-01 |  |
+| [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:39 | 2023-02-01 | 2023-04-23 |
 | [Gangstas](https://open.spotify.com/track/1hg3RlqFZXJb5YgRoK9qmF) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 2:40 | 2022-03-01 | 2022-05-11 |
 | [GATTI](https://open.spotify.com/track/40mjsnRjCpycdUw3xhS20g) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 3:01 | 2022-03-25 | 2022-12-06 |
 | [Get Back](https://open.spotify.com/track/3DWjFSDEQ9IWz1mj449fB7) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 1:48 | 2023-03-01 | 2023-04-07 |

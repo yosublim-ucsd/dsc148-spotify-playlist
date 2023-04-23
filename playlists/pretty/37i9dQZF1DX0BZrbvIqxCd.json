@@ -1,12 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 526845,
+  "num_followers": 526892,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc1NTQxMSwwMDAwMDAwMGI1ZWZjMDUyZDY5YjIwZGY3MzI5OTMwYzE0NzdkYzk5",
+  "snapshot_id": "MTY0Mzc1NTQxMSwwMDAwMDAwMDMwNDliYWNjNTViZGZjYmMxNmM2YjkzZTRlY2RhMDVi",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",
@@ -771,22 +771,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "All Distortions Are Intentional",
-        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 189101,
-      "name": "When You Know",
-      "url": "https://open.spotify.com/track/3DaSurzbFuzWE45tQm1TO5"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "War on Errorism",
         "url": "https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV"
       },
@@ -803,18 +787,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Proper Dose",
-        "url": "https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0"
+        "name": "All Distortions Are Intentional",
+        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
       },
       "artists": [
         {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 146622,
-      "name": "Keep This Up",
-      "url": "https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U"
+      "duration_ms": 189101,
+      "name": "When You Know",
+      "url": "https://open.spotify.com/track/3DaSurzbFuzWE45tQm1TO5"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -831,6 +815,22 @@
       "duration_ms": 200228,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/1WhUguMtslKpiZqEbBpe4I"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Proper Dose",
+        "url": "https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0"
+      },
+      "artists": [
+        {
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+        }
+      ],
+      "duration_ms": 146622,
+      "name": "Keep This Up",
+      "url": "https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Composure",
-        "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/5AWAQJsqtuF3CjytMDOdDN"
       },
       "artists": [
         {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
         }
       ],
-      "duration_ms": 193280,
-      "name": "Me First",
-      "url": "https://open.spotify.com/track/72yApMP8fkW15lWdMjerBp"
+      "duration_ms": 199416,
+      "name": "She's Quiet",
+      "url": "https://open.spotify.com/track/3YUJ8NyZfqeDcI5815TuXw"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1211,6 +1211,22 @@
       "duration_ms": 200706,
       "name": "Blonde",
       "url": "https://open.spotify.com/track/6Donz2zn7kxsRyA7g5l158"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Composure",
+        "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 193280,
+      "name": "Me First",
+      "url": "https://open.spotify.com/track/72yApMP8fkW15lWdMjerBp"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/5AWAQJsqtuF3CjytMDOdDN"
-      },
-      "artists": [
-        {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
-        }
-      ],
-      "duration_ms": 199416,
-      "name": "She's Quiet",
-      "url": "https://open.spotify.com/track/3YUJ8NyZfqeDcI5815TuXw"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Pink Elephant",
         "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
       },
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "The Peace And The Panic",
-        "url": "https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 213010,
-      "name": "Happy Judgement Day",
-      "url": "https://open.spotify.com/track/4GHW4tzEf6OBIoyewdBnZX"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Degenerates",
         "url": "https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ"
       },
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Composure",
-        "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
+        "name": "The Peace And The Panic",
+        "url": "https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3"
       },
       "artists": [
         {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 212893,
-      "name": "Get By",
-      "url": "https://open.spotify.com/track/1rBlsNeQ1IgT3L4xdUSNY3"
+      "duration_ms": 213010,
+      "name": "Happy Judgement Day",
+      "url": "https://open.spotify.com/track/4GHW4tzEf6OBIoyewdBnZX"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1355,6 +1339,22 @@
       "duration_ms": 166673,
       "name": "Man Overboard",
       "url": "https://open.spotify.com/track/72iJsJMdTGjshAZdNJbSKU"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Composure",
+        "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "Get By",
+      "url": "https://open.spotify.com/track/1rBlsNeQ1IgT3L4xdUSNY3"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Wake Up, Sunshine",
-        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
+        "name": "Lost Touch",
+        "url": "https://open.spotify.com/album/768qzd6dkobekdNcDtw8np"
       },
       "artists": [
         {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+          "name": "We Were Sharks",
+          "url": "https://open.spotify.com/artist/5VJPxda81cx3ZGltjWM36I"
         }
       ],
-      "duration_ms": 180599,
-      "name": "Sleeping In",
-      "url": "https://open.spotify.com/track/402Ecma69MRxeQK6ml6YbI"
+      "duration_ms": 154971,
+      "name": "Hotel Beds",
+      "url": "https://open.spotify.com/track/4HvBQhvil6T5ISq1qr5u03"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Lost Touch",
-        "url": "https://open.spotify.com/album/768qzd6dkobekdNcDtw8np"
+        "name": "Wake Up, Sunshine",
+        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
       },
       "artists": [
         {
-          "name": "We Were Sharks",
-          "url": "https://open.spotify.com/artist/5VJPxda81cx3ZGltjWM36I"
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 154971,
-      "name": "Hotel Beds",
-      "url": "https://open.spotify.com/track/4HvBQhvil6T5ISq1qr5u03"
+      "duration_ms": 180599,
+      "name": "Sleeping In",
+      "url": "https://open.spotify.com/track/402Ecma69MRxeQK6ml6YbI"
     },
     {
       "added_at": "2020-11-20 21:27:18",

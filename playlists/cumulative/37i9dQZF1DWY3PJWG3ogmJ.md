@@ -4,7 +4,7 @@
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-236 songs - 14 hr 11 min
+237 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Collapse](https://open.spotify.com/track/1AlUK9pR34wYRrufm5vCA9) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Dig Deep](https://open.spotify.com/album/5Y34qlvVSVLWVNr5cyLB4K) | 4:12 | 2022-10-28 |  |
 | [Collapse](https://open.spotify.com/track/6oBjnOBqngXWsRuYY5eTnz) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Dig Deep](https://open.spotify.com/album/7ABqA1tuH6eonHAIBaBqHe) | 4:12 | 2022-01-14 | 2022-11-05 |
 | [Collapse](https://open.spotify.com/track/2lRlt0aNT2q7UU5WIhlFTp) | [Heart Of A Coward](https://open.spotify.com/artist/6GIZRqEJJNx3MFaC1YoFMZ) | [Collapse](https://open.spotify.com/album/2JNh5Cr39keuBH7cJn3I7F) | 4:40 | 2022-01-14 | 2023-03-31 |
+| [Collapse](https://open.spotify.com/track/6aleU9GhOnPe1HG9AJatiO) | [Heart Of A Coward](https://open.spotify.com/artist/6GIZRqEJJNx3MFaC1YoFMZ) | [Collapse](https://open.spotify.com/album/4FcLJo4ZoD6oq9vg5gZJmO) | 4:40 | 2023-01-18 |  |
 | [Conquer All](https://open.spotify.com/track/2MYdLzcBnDnk97PutLCRWP) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Demigod](https://open.spotify.com/album/7cNc742gxDcixwJcg3Jtm2) | 3:31 | 2022-01-14 | 2022-07-28 |
 | [Conquer All](https://open.spotify.com/track/5pKdvuth8EyC6pLxMu3aSr) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Demigod](https://open.spotify.com/album/0agVluQ3DkGd2dIec20gU6) | 3:31 | 2022-04-22 |  |
 | [Cosmic Maelstrom](https://open.spotify.com/track/0qUi4EcvYS5FBJXv1AGGJn) | [Cult of Lilith](https://open.spotify.com/artist/4PFwvUhk0VluHpOCa4OKHk) | [Cosmic Maelstrom](https://open.spotify.com/album/4XuK6MYuIAbKcFDs5Tuoqa) | 5:28 | 2022-01-14 | 2022-07-29 |
@@ -97,7 +98,7 @@
 | [From Silence I Rise](https://open.spotify.com/track/4WDfePGxQBEiJ3pn1BWHQo) | [Alea Jacta Est](https://open.spotify.com/artist/69vv19AEt8RvpFvXZJD4W3) | [Vae Victis](https://open.spotify.com/album/0eFmpRNEXop4AgjbHhhfgm) | 2:21 | 2022-02-10 | 2022-07-19 |
 | [FU2 \(feat\. AJ Channer of Fire From The Gods\)](https://open.spotify.com/track/5yLQ9epAVnt9Tx19izzDI5) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [FU2 \(feat\. AJ Channer of Fire From The Gods\)](https://open.spotify.com/album/3pSmwSKb6XLN4WtYI5knKB) | 3:14 | 2022-01-14 |  |
 | [Fuck the Rules](https://open.spotify.com/track/6BVWv9XJIOYpb1rv1a2BzG) | [First Blood](https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0) | [Rules](https://open.spotify.com/album/7FH1a9pkDnGALu3wUpURs3) | 1:19 | 2022-01-14 |  |
-| [Gaining Purpose](https://open.spotify.com/track/08mIaXVJgO4LJqBbmCQXlN) | [Twitching Tongues](https://open.spotify.com/artist/3k1tPUpSlWppOSbIV1ivQy) | [Gaining Purpose Through Passionate Hatred](https://open.spotify.com/album/1odexVafvTYzG1bCxz9AiO) | 3:51 | 2022-01-14 |  |
+| [Gaining Purpose](https://open.spotify.com/track/08mIaXVJgO4LJqBbmCQXlN) | [Twitching Tongues](https://open.spotify.com/artist/3k1tPUpSlWppOSbIV1ivQy) | [Gaining Purpose Through Passionate Hatred](https://open.spotify.com/album/1odexVafvTYzG1bCxz9AiO) | 3:51 | 2022-01-14 | 2023-04-23 |
 | [Habitual Decline](https://open.spotify.com/track/43EgxfBHcJr15V5tHOdRSQ) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [Habitual Decline](https://open.spotify.com/album/1wfNfKDEqHZNqnkxKh1zWE) | 3:11 | 2022-01-14 |  |
 | [Hammer of the Witch](https://open.spotify.com/track/0Q7XROBkDRBMNAAVD6E4jn) | [Ringworm](https://open.spotify.com/artist/1mVvXNKbCaUapInbgHCDRV) | [Hammer of the Witch \(Deluxe Version\)](https://open.spotify.com/album/2zBcPs4fZxUW3tNywX1FNU) | 3:22 | 2022-01-14 |  |
 | [Hand to Hand](https://open.spotify.com/track/5zSAMgdQ86NVzDP3m7qT9K) | [Brothers Till We Die](https://open.spotify.com/artist/0EwKNpMC1gUUzcNzQqiSWC) | [The Thin Line Between Death and Immortality](https://open.spotify.com/album/4v8rDCi4X3XfK2B3bEXxoS) | 3:11 | 2022-01-14 | 2022-07-22 |

@@ -4,7 +4,7 @@
 
 > Smooth joints\. Cover: Daniel Caesar
 
-846 songs - 2 day 1 hr 48 min
+847 songs - 2 day 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,7 +307,7 @@
 | [Going Through](https://open.spotify.com/track/42BOdzpGLyJrVqtDozov4H) | [Kay Young](https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK) | [Going Through](https://open.spotify.com/album/5IHzSqvCDBjCH4E2RkH20O) | 3:01 | 2020-06-12 | 2020-09-11 |
 | [Gold](https://open.spotify.com/track/1de4FXWMEcCQq5F5yGkXdZ) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Hello Poison](https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS) | 2:46 | 2022-07-22 |  |
 | [Gold Plated](https://open.spotify.com/track/7pk2h8CZaVkXu5g43FChqX) | [Odette Peters](https://open.spotify.com/artist/6ZhJwgMHCAfb0UOuyttfDW), [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc) | [Gold Plated](https://open.spotify.com/album/3ICy60LNQtfL07SqlJkuTy) | 3:35 | 2020-05-01 | 2022-07-28 |
-| [Gold Plated](https://open.spotify.com/track/5giA96riscHWo0h3Aq3uPz) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc), [Odette Peters](https://open.spotify.com/artist/6ZhJwgMHCAfb0UOuyttfDW) | [Gold Plated](https://open.spotify.com/album/7hwUPvNBszLlTXFcYg5TOB) | 3:35 | 2022-07-22 |  |
+| [Gold Plated](https://open.spotify.com/track/5giA96riscHWo0h3Aq3uPz) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc), [Odette Peters](https://open.spotify.com/artist/6ZhJwgMHCAfb0UOuyttfDW) | [Gold Plated](https://open.spotify.com/album/7hwUPvNBszLlTXFcYg5TOB) | 3:35 | 2022-07-22 | 2023-04-23 |
 | [Gone](https://open.spotify.com/track/69BhPwanJ4VB5lin3lIQ2a) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Nerve](https://open.spotify.com/album/32vakhO6s5UJzCAAHJExLu) | 4:32 | 2020-10-16 | 2022-07-29 |
 | [Gone \[Feat\. YBN Cordae, Bilal, Herbie Hancock\]](https://open.spotify.com/track/5Dc2XqowT9KluHHGTA8nIN) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Fuck Yo Feelings](https://open.spotify.com/album/5SFtk75uqfjUGXEjLsgdMl) | 3:44 | 2019-10-15 | 2019-11-20 |
 | [Gonna Be Good](https://open.spotify.com/track/0F0sYdzTgagF5bc0W7n5OX) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Gonna Be Good](https://open.spotify.com/album/5LdXNTovL1G4H1XQyLE19o) | 3:32 | 2020-09-02 | 2020-10-02 |
@@ -452,6 +452,7 @@
 | [Luvaroq](https://open.spotify.com/track/5mlirWXPq6KoroAUgy6Wdq) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Circmvnt](https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs) | 3:40 | 2022-10-14 |  |
 | [Ma Suz](https://open.spotify.com/track/6zZW8gOnaZmBNVWtbecJfK) | [Mohammed Zhang](https://open.spotify.com/artist/3PCpVfGL6tgSFv7zB24ryR), [SpaceBuddha](https://open.spotify.com/artist/7fsunBfmxdtjhECqx5RdAP), [Juan Smith](https://open.spotify.com/artist/6JHf4xe5xwL4QUdrwhx5k5), [Berus](https://open.spotify.com/artist/44pdm70YqlobtTZ9HmtBYa) | [Allstars \#1](https://open.spotify.com/album/1jVsDrzQqBOmyPsKNu1sxn) | 2:51 | 2020-04-04 | 2020-05-22 |
 | [Made Me Fly \(with Beth Hirsch\)](https://open.spotify.com/track/6oJ8a3uzuEkqM4dz15kEm5) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX), [Beth Hirsch](https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96) | [Made Me Fly \(with Beth Hirsch\)](https://open.spotify.com/album/21TxxKttUSfYMmb19rpck0) | 3:16 | 2020-01-18 | 2020-02-20 |
+| [Magic](https://open.spotify.com/track/4UZxlB4kClh746mupKTDer) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Magic](https://open.spotify.com/album/2GZLxm0djV5NUNdes4kYv0) | 2:36 | 2023-04-21 |  |
 | [Make A Difference](https://open.spotify.com/track/1nR9WBJZhcHbgUZ7yrZ4ym) | [Steve Arrington](https://open.spotify.com/artist/030gEPJwNJnBcyra7CB9vM) | [Make A Difference](https://open.spotify.com/album/06tjQliwnAwX5cFnNN57FZ) | 3:21 | 2020-09-04 | 2020-09-29 |
 | [Make Me Feel](https://open.spotify.com/track/48Usv8uRZybwaqjMDxOlEk) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Make Me Feel](https://open.spotify.com/album/3gQrh2SPsvEyoIXTdGZWqp) | 3:31 | 2019-09-29\* | 2019-10-15 |
 | [Make Me Say It Again, Girl](https://open.spotify.com/track/4hv0hmUjhAqvAPGCHP4EaE) | [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L), [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Make Me Say It Again, Girl](https://open.spotify.com/album/52b0FH5bRs92vajujszHo0) | 5:14 | 2022-08-12 |  |

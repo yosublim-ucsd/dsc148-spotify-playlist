@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,041,895 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,042,125 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 40 | [Oxygen](https://open.spotify.com/track/3YbtjYddK11NTDdUpC4nGp) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Dirty Heads](https://open.spotify.com/album/2yt8pr76AIWu3ohmnZKNcd) | 3:45 |
 | 41 | [Burn One Down](https://open.spotify.com/track/2QzMJkYUhThZxM94ahgOzN) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Fight For Your Mind](https://open.spotify.com/album/3qw2TRebw37Mdb3aP78kM4) | 3:31 |
 | 42 | [The Sound Of Sunshine](https://open.spotify.com/track/6iBWazas8QsDtBnjlXkrXk) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [The Sound Of Sunshine](https://open.spotify.com/album/6n3RWQarUS9N542RErAIgy) | 3:45 |
-| 43 | [Bang Bang](https://open.spotify.com/track/2yGoiZes2YcueNA4nGDmdS) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Bang Bang](https://open.spotify.com/album/0tN2TkilPoLmqN21UJBC77) | 4:27 |
-| 44 | [Shine](https://open.spotify.com/track/1QhrlNjzqmqEFW5T5yMFhw) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 4:29 |
+| 43 | [Shine](https://open.spotify.com/track/1QhrlNjzqmqEFW5T5yMFhw) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 4:29 |
+| 44 | [Bang Bang](https://open.spotify.com/track/2yGoiZes2YcueNA4nGDmdS) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Bang Bang](https://open.spotify.com/album/0tN2TkilPoLmqN21UJBC77) | 4:27 |
 | 45 | [Warning \(feat\. Stick Figure\)](https://open.spotify.com/track/29JOtyhGMv2gfikATHJlCF) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Local Motion](https://open.spotify.com/album/3H0eh5wIky3GjF83fRcDT0) | 3:52 |
 | 46 | [Summer Nights](https://open.spotify.com/track/0QkWubamAKEvvcOTriSKX3) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [Summer Nights](https://open.spotify.com/album/5KYbDlIP0eFNJv4KBaokTY) | 3:56 |
 | 47 | [Fade Away](https://open.spotify.com/track/4TyCnstYu6LGrjka5WW6ft) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Count Me In](https://open.spotify.com/album/05SuSxEPuEJI1RnwTcOCRg) | 3:29 |
@@ -96,10 +96,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 86 | [Love Letter](https://open.spotify.com/track/6swAqbmAJ7m19IxoHK1y5Z) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Say What You're Thinking](https://open.spotify.com/album/1q130S8gKNKgURMPj8KjCt) | 3:33 |
 | 87 | [Lemonade](https://open.spotify.com/track/1obuz0c6zjQ77jPTKm9DdE) | [Adam Friedman](https://open.spotify.com/artist/2XVvpzlWqk7Dmj8BgKx4k1), [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Lemonade](https://open.spotify.com/album/7EpOT6X96uXWWnD0ilkRLr) | 2:51 |
 | 88 | [I Miss You \(with Spragga Benz\)](https://open.spotify.com/track/4dAGBHZk6GxsqxM3Kw6xYL) | [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs), [Spragga Benz](https://open.spotify.com/artist/2RUW6D53228zMHAXjaQI8f) | [Mood Swing](https://open.spotify.com/album/0vu3HrudrHm4M0zMIfAMzY) | 2:36 |
-| 89 | [Catching Lightning](https://open.spotify.com/track/5BMlzRHulVFs4r9wUv1mJB) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8) | [Hazel Eyes](https://open.spotify.com/album/5UW0VIeQ1cgfXJxGqddBm1) | 3:16 |
-| 90 | [Something to Believe In](https://open.spotify.com/track/0z1hoxTVVdZn1OxciNsRuw) | [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [One Lovely Day](https://open.spotify.com/album/08H1gq5VICAZyVXf9XDJax) | 3:41 |
-| 91 | [Everyday People \(Remix with B\-Real & G.Love\)](https://open.spotify.com/track/6pReUhCfnH5qxdjsG6vlig) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Everyday People \(Remix with B\-Real & G\. Love\)](https://open.spotify.com/album/5yvXdYoFdXhZjHwl24QmCz) | 3:45 |
-| 92 | [Digital Heaven](https://open.spotify.com/track/5V7ge7ltQ3LTUXNNcRVWqw) | [Mihali](https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV) | [Effection](https://open.spotify.com/album/7DRW2mILmVTbyitwdNBdzU) | 3:29 |
+| 89 | [Digital Heaven](https://open.spotify.com/track/5V7ge7ltQ3LTUXNNcRVWqw) | [Mihali](https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV) | [Effection](https://open.spotify.com/album/7DRW2mILmVTbyitwdNBdzU) | 3:29 |
+| 90 | [Catching Lightning](https://open.spotify.com/track/5BMlzRHulVFs4r9wUv1mJB) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8) | [Hazel Eyes](https://open.spotify.com/album/5UW0VIeQ1cgfXJxGqddBm1) | 3:16 |
+| 91 | [Something to Believe In](https://open.spotify.com/track/0z1hoxTVVdZn1OxciNsRuw) | [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [One Lovely Day](https://open.spotify.com/album/08H1gq5VICAZyVXf9XDJax) | 3:41 |
+| 92 | [Everyday People \(Remix with B\-Real & G.Love\)](https://open.spotify.com/track/6pReUhCfnH5qxdjsG6vlig) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Everyday People \(Remix with B\-Real & G\. Love\)](https://open.spotify.com/album/5yvXdYoFdXhZjHwl24QmCz) | 3:45 |
 | 93 | [Social Drinker](https://open.spotify.com/track/5sxcHFhYvo54vXt7fl900y) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Message to the World](https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3) | 3:03 |
 | 94 | [Be Alright](https://open.spotify.com/track/5MqWp5KtqxXV601aXTbwFi) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Be Alright](https://open.spotify.com/album/2SVH3FUWDU8BzlNn2Q6UEr) | 3:13 |
 | 95 | [Down With You](https://open.spotify.com/track/4hd7l6rGzpqVL4PwHRamrA) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Down With You \- Single](https://open.spotify.com/album/3cSpydfTHQ3t8JXFFPTxaJ) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 99 | [Drifting In Out of Time](https://open.spotify.com/track/1P69oceVUgEEKO5TBKM7kn) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK) | [A Seafarer and the Infinite Dream](https://open.spotify.com/album/2byxJMI52Ov7gWQp0imRER) | 3:15 |
 | 100 | [Catch My Wave](https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [Catch My Wave](https://open.spotify.com/album/6QSZi8vL18DTDQvP3pXrgo) | 3:14 |
 
-Snapshot ID: `MTY4MTc1MDYwNiwwMDAwMDAwMGRiMzdlNWZkYTJiNGZjZjgzODI4YTFhNWRiNTkzMjg0`
+Snapshot ID: `MTY4MTc1MDYwNiwwMDAwMDAwMDgxM2U4NzNiOWVlM2YwZmQ2ZWExOGZjMzNlYTVjZTlk`

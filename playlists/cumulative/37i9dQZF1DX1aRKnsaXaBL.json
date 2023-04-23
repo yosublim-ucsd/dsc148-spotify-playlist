@@ -200,7 +200,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 200250,
       "name": "Comollegamosaqu\u00ed",
       "url": "https://open.spotify.com/track/3YRszbJk8rtF9yTDHCecLs"
@@ -1096,6 +1096,24 @@
       "duration_ms": 253800,
       "name": "Trail Blazer",
       "url": "https://open.spotify.com/track/0Pe3iMJXI9a0dDdoXgG10G"
+    },
+    {
+      "album": {
+        "name": "Tribus de libertad",
+        "url": "https://open.spotify.com/album/5t5TWWWB5iGSXzHiEBbmXf"
+      },
+      "artists": [
+        {
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264590,
+      "name": "Tribus de libertad",
+      "url": "https://open.spotify.com/track/3ylceN7GD9rUSebqzH61Ny"
     },
     {
       "album": {

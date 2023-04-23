@@ -75,6 +75,28 @@
     },
     {
       "album": {
+        "name": "64 Bare",
+        "url": "https://open.spotify.com/album/03T2e774bXN4yNQzN9F3aj"
+      },
+      "artists": [
+        {
+          "name": "Nt\u00f2",
+          "url": "https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96"
+        },
+        {
+          "name": "Baloo",
+          "url": "https://open.spotify.com/artist/7fjRLtiDvaLA8CeqGCmEYA"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161890,
+      "name": "64 Bare",
+      "url": "https://open.spotify.com/track/2hgdx2fVpYncIrV4IDMZoF"
+    },
+    {
+      "album": {
         "name": "Ad occhi chiusi",
         "url": "https://open.spotify.com/album/4MIDqncZlxZ1ZzfUQM1QvJ"
       },
@@ -360,7 +382,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 180776,
       "name": "Beatrice",
       "url": "https://open.spotify.com/track/1WYX66uRaVP4GCEwyvAt3D"
@@ -986,7 +1008,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 177400,
       "name": "Coltelli",
       "url": "https://open.spotify.com/track/5FYJs2NzhioUpt8pJ6BnHo"
@@ -1852,6 +1874,40 @@
       "duration_ms": 222000,
       "name": "Giorni matti (feat. Ape, Zampa)",
       "url": "https://open.spotify.com/track/0rn3RZZWJz10OQts57pnX9"
+    },
+    {
+      "album": {
+        "name": "CRISTI E DIAVOLI",
+        "url": "https://open.spotify.com/album/1HORxlpvyOlVXnBGuU7DRC"
+      },
+      "artists": [
+        {
+          "name": "Lovegang126",
+          "url": "https://open.spotify.com/artist/7Munu8K4WpaJxPfnwXh0re"
+        },
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        },
+        {
+          "name": "Asp126",
+          "url": "https://open.spotify.com/artist/7eNMxs7VUuMBoGNipu7z5G"
+        },
+        {
+          "name": "Mystic One",
+          "url": "https://open.spotify.com/artist/3ZjI6kc92iwO57El1ZneWY"
+        },
+        {
+          "name": "Nino Brown",
+          "url": "https://open.spotify.com/artist/6Vhlft027tAZsPuFuXCLZo"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189531,
+      "name": "Giorni migliori (feat. Mystic One)",
+      "url": "https://open.spotify.com/track/3wltO9TZ6j1gfyDsjzH7QY"
     },
     {
       "album": {
@@ -2902,7 +2958,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 175219,
       "name": "Maledetti",
       "url": "https://open.spotify.com/track/1xL1G84NvDrorgI0Xcg0Rt"
@@ -4952,6 +5008,40 @@
       "duration_ms": 172151,
       "name": "Sindrome di Stendhal",
       "url": "https://open.spotify.com/track/6SaI3nXXwwn7ErkiWNiA3I"
+    },
+    {
+      "album": {
+        "name": "CRISTI E DIAVOLI",
+        "url": "https://open.spotify.com/album/1HORxlpvyOlVXnBGuU7DRC"
+      },
+      "artists": [
+        {
+          "name": "Lovegang126",
+          "url": "https://open.spotify.com/artist/7Munu8K4WpaJxPfnwXh0re"
+        },
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        },
+        {
+          "name": "Ugo Borghetti",
+          "url": "https://open.spotify.com/artist/3i6za4KlTDNe8mducqnwJi"
+        },
+        {
+          "name": "Gemello",
+          "url": "https://open.spotify.com/artist/3GNq6JwYWh8B2xujy6ub04"
+        },
+        {
+          "name": "Nino Brown",
+          "url": "https://open.spotify.com/artist/6Vhlft027tAZsPuFuXCLZo"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182702,
+      "name": "Sintonia (feat. Gemello)",
+      "url": "https://open.spotify.com/track/2akLKoLfRJNlg2JQAcCJqG"
     },
     {
       "album": {

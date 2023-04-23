@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Halodayı x Heijan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,215,857 likes - 55 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,216,341 likes - 55 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 54 | [Gelmelisin](https://open.spotify.com/track/5E8dUYbcE3sAfwKcVOyp0h) | [Bedo](https://open.spotify.com/artist/7xD3PtnXEsJeqsPtJ3N3si) | [Gelmelisin](https://open.spotify.com/album/27PlkPSPZMyWRCs4hdt0Qc) | 3:08 |
 | 55 | [Kalbe Zarar](https://open.spotify.com/track/5R5k2rMxjpaBoNyh0wAh4i) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Fatma Turgut](https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI) | [Kalbe Zarar](https://open.spotify.com/album/1JuRmAeLvCfdQSilolTdhy) | 2:07 |
 
-Snapshot ID: `MTY4MjAyNDQwMCwwMDAwMDAwMGFjNDZjYmMyNmYwODYzZjhkZmEwYzI3NDZkNDIwOTE4`
+Snapshot ID: `MTY4MjE5ODA5MCwwMDAwMDAwMGM4NGQ3YjE3NWQ3MGQxZWJlNWZjMDhlNzQ5MTE4Y2Fj`

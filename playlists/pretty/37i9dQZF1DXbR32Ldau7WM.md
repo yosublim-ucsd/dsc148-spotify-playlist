@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now! Cover: JUN SKY WALKER\(S\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,619 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,664 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,24 +69,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 59 | [BackBeat](https://open.spotify.com/track/6ttx0DBQOzlAtPCuJUSP8V) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [BackBeat](https://open.spotify.com/album/20Kzp3sMbCnigdUkxbq6rj) | 3:50 |
 | 60 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 |
 | 61 | [ハイパーイメージ](https://open.spotify.com/track/5higKPhcN5wzx2IqafqalE) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [ハイパーイメージ](https://open.spotify.com/album/5aIKLPM4ONVaodAX2Dt3Z8) | 2:30 |
-| 62 | [Fuel](https://open.spotify.com/track/2XHQ84PSGAqDDkFgCjCUPS) | [Nothing’s Carved In Stone](https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb) | [Fuel](https://open.spotify.com/album/15oIT9GDMhJWTQUELHM6Vs) | 3:29 |
-| 63 | [Lightning\-Syndrome](https://open.spotify.com/track/34KZjLIRpjGdinqG3lgD5y) | [a crowd of rebellion](https://open.spotify.com/artist/3gy7nxZ3l2Q0Xz9sXAXrVX) | [ALVA](https://open.spotify.com/album/6KpTLS5HvingdMoftrjyjY) | 3:39 |
+| 62 | [Lightning\-Syndrome](https://open.spotify.com/track/34KZjLIRpjGdinqG3lgD5y) | [a crowd of rebellion](https://open.spotify.com/artist/3gy7nxZ3l2Q0Xz9sXAXrVX) | [ALVA](https://open.spotify.com/album/6KpTLS5HvingdMoftrjyjY) | 3:39 |
+| 63 | [Fuel](https://open.spotify.com/track/2XHQ84PSGAqDDkFgCjCUPS) | [Nothing’s Carved In Stone](https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb) | [Fuel](https://open.spotify.com/album/15oIT9GDMhJWTQUELHM6Vs) | 3:29 |
 | 64 | [Sun of Love](https://open.spotify.com/track/4Dh38LmVwPAgnwBIbo8ndS) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Sun of Love](https://open.spotify.com/album/5ZJLJPs0uVBvVQ4fHo6X2I) | 4:12 |
 | 65 | [THE PROMISE](https://open.spotify.com/track/3nzAbV5u0IBT6UJuPqPcLp) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [THE PROMISE](https://open.spotify.com/album/2Bx6rMVAb1WltCaBQWT5Lg) | 3:18 |
-| 66 | [THE KEBABSを抱きしめて](https://open.spotify.com/track/4vLkPISde2wc7vcFdBMB4a) | [THE KEBABS](https://open.spotify.com/artist/59RHw8mybzyMx2euAXycie) | [幸せにしてくれいーぴー](https://open.spotify.com/album/2q37HtYAlyNvkGvKSeojsZ) | 3:33 |
-| 67 | [月夜の道を俺が行く](https://open.spotify.com/track/2IFPJ7ehMw4hVIVOKxqczk) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [花降る空に不滅の歌を](https://open.spotify.com/album/1bOVFJ5wymIcHswxz8saYM) | 3:17 |
+| 66 | [月夜の道を俺が行く](https://open.spotify.com/track/2IFPJ7ehMw4hVIVOKxqczk) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [花降る空に不滅の歌を](https://open.spotify.com/album/1bOVFJ5wymIcHswxz8saYM) | 3:17 |
+| 67 | [THE KEBABSを抱きしめて](https://open.spotify.com/track/4vLkPISde2wc7vcFdBMB4a) | [THE KEBABS](https://open.spotify.com/artist/59RHw8mybzyMx2euAXycie) | [幸せにしてくれいーぴー](https://open.spotify.com/album/2q37HtYAlyNvkGvKSeojsZ) | 3:33 |
 | 68 | [暁](https://open.spotify.com/track/1JXoBwo67DqPB1d5v1NPRC) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [暁](https://open.spotify.com/album/0jp4zHCCFZZ3v5RtzbgeMm) | 4:10 |
-| 69 | [OUT老GUYS](https://open.spotify.com/track/2M12fEB3BcDnA72QoJFshM) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [more\-AA\-janaica](https://open.spotify.com/album/6MWiOU2RpUxxfcijwqkST5) | 5:27 |
-| 70 | [My Vision](https://open.spotify.com/track/7y7RZol3cLs85hO9GtCo9P) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [Bump & Grind](https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj) | 3:56 |
-| 71 | [騙し愛](https://open.spotify.com/track/1cfuwNPkI3rGX4umV5dDSM) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [騙し愛](https://open.spotify.com/album/0JfEYJw8kt6cwARbRQ1Y2S) | 3:26 |
-| 72 | [道化者のゆううつ](https://open.spotify.com/track/1HA30W5N5vMKKURq70t7k4) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Tribute\)](https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN) | 4:59 |
-| 73 | [SummerDay](https://open.spotify.com/track/6Mstbao3J36dXocCdZfKqD) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [SummerDay](https://open.spotify.com/album/1RyjFEI2GMTIAvkPH3SdGL) | 3:06 |
-| 74 | [TABUN MAYBE MEIJI feat\. A, TAGIRENTAROU](https://open.spotify.com/track/4A82whhuPt2nvg4InDrtYP) | [Rekishi](https://open.spotify.com/artist/0ZNOGQWBmBxJPBQG0HS0mJ), [A, TAGIRENTAROU](https://open.spotify.com/artist/7nBxAYdWlDlGkjEAEnOvm3) | [Rekishichi](https://open.spotify.com/album/2mOomPDvaYSmHgexSdxWq7) | 3:31 |
-| 75 | [This Song \-Planxty Irwin\-](https://open.spotify.com/track/0WHrBD9cachtyZRm9MDRER) | [OAU](https://open.spotify.com/artist/2S6PiNmAaVVGO0YePSN3FB) | [This Song \-Planxty Irwin\-](https://open.spotify.com/album/1UCyl9vDFUgWgKj7Rm393s) | 3:55 |
-| 76 | [花降る空に不滅の歌を](https://open.spotify.com/track/4RX9IHe9Znm9lcVm5RZuEl) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [花降る空に不滅の歌を](https://open.spotify.com/album/1bOVFJ5wymIcHswxz8saYM) | 4:24 |
+| 69 | [My Vision](https://open.spotify.com/track/7y7RZol3cLs85hO9GtCo9P) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [Bump & Grind](https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj) | 3:56 |
+| 70 | [騙し愛](https://open.spotify.com/track/1cfuwNPkI3rGX4umV5dDSM) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [騙し愛](https://open.spotify.com/album/0JfEYJw8kt6cwARbRQ1Y2S) | 3:26 |
+| 71 | [花降る空に不滅の歌を](https://open.spotify.com/track/4RX9IHe9Znm9lcVm5RZuEl) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [花降る空に不滅の歌を](https://open.spotify.com/album/1bOVFJ5wymIcHswxz8saYM) | 4:24 |
+| 72 | [OUT老GUYS](https://open.spotify.com/track/2M12fEB3BcDnA72QoJFshM) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [more\-AA\-janaica](https://open.spotify.com/album/6MWiOU2RpUxxfcijwqkST5) | 5:27 |
+| 73 | [道化者のゆううつ](https://open.spotify.com/track/1HA30W5N5vMKKURq70t7k4) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Tribute\)](https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN) | 4:59 |
+| 74 | [SummerDay](https://open.spotify.com/track/6Mstbao3J36dXocCdZfKqD) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [SummerDay](https://open.spotify.com/album/1RyjFEI2GMTIAvkPH3SdGL) | 3:06 |
+| 75 | [TABUN MAYBE MEIJI feat\. A, TAGIRENTAROU](https://open.spotify.com/track/4A82whhuPt2nvg4InDrtYP) | [Rekishi](https://open.spotify.com/artist/0ZNOGQWBmBxJPBQG0HS0mJ), [A, TAGIRENTAROU](https://open.spotify.com/artist/7nBxAYdWlDlGkjEAEnOvm3) | [Rekishichi](https://open.spotify.com/album/2mOomPDvaYSmHgexSdxWq7) | 3:31 |
+| 76 | [This Song \-Planxty Irwin\-](https://open.spotify.com/track/0WHrBD9cachtyZRm9MDRER) | [OAU](https://open.spotify.com/artist/2S6PiNmAaVVGO0YePSN3FB) | [This Song \-Planxty Irwin\-](https://open.spotify.com/album/1UCyl9vDFUgWgKj7Rm393s) | 3:55 |
 | 77 | [One More Time](https://open.spotify.com/track/5eJzzdZFGx5UTQ8OO9HhKQ) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [One More Time](https://open.spotify.com/album/3XKXbGqYOWElmctD6tfrIJ) | 3:27 |
 | 78 | [Boys Jump The Midnight](https://open.spotify.com/track/3N6gdBZfDk9KDJAbPCU4g9) | [The Cro\-magnons](https://open.spotify.com/artist/2zznlBwNMFL1nlABMoqq0b) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Tribute\)](https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN) | 3:55 |
-| 79 | [遠雷](https://open.spotify.com/track/4pBwrxwaEjKytWr1Pg7SXw) | [APOGEE](https://open.spotify.com/artist/5vLL9VcCC2y13B2BKs2uWI) | [Sea Gazer](https://open.spotify.com/album/6sJzI6i9ldc3LWcDbzRlrA) | 5:18 |
-| 80 | [骨折り儲けの草臥れ損](https://open.spotify.com/track/0U8qZELCpgjxfCxFltHs1S) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [骨折り儲けの草臥れ損](https://open.spotify.com/album/1vFLfiobeCceiAS55fnNUw) | 4:32 |
+| 79 | [骨折り儲けの草臥れ損](https://open.spotify.com/track/0U8qZELCpgjxfCxFltHs1S) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [骨折り儲けの草臥れ損](https://open.spotify.com/album/1vFLfiobeCceiAS55fnNUw) | 4:32 |
+| 80 | [遠雷](https://open.spotify.com/track/4pBwrxwaEjKytWr1Pg7SXw) | [APOGEE](https://open.spotify.com/artist/5vLL9VcCC2y13B2BKs2uWI) | [Sea Gazer](https://open.spotify.com/album/6sJzI6i9ldc3LWcDbzRlrA) | 5:18 |
 
-Snapshot ID: `MTY4MjAwMjgwMCwwMDAwMDAwMGFjZDc3MTlhNTkwODFjYzAzZDljY2I2MGIwODdkNjU2`
+Snapshot ID: `MTY4MjAwMjgwMCwwMDAwMDAwMGQ0NmJjYTc4M2I0ZTQ3ZGRjZDMzYWI5MjQzNDliMWVk`

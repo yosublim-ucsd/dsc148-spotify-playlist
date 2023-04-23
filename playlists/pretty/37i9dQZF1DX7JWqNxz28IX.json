@@ -1,12 +1,12 @@
 {
   "description": "un cuore cos\u00ec \ud83d\udc94  (in cover, sol\u00f8)",
-  "num_followers": 38228,
+  "num_followers": 38247,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTgwMjUyMiwwMDAwMDAwMGFhNDMxZTFhODc2NWU1NTExMTM1Yzc1OTMxNDQwY2Ew",
+  "snapshot_id": "MTY4MTgwMjUyMiwwMDAwMDAwMDZjOGUwNTQxNDBjZmY0NjdiYmNmNjI5YWI0NzIzNjgx",
   "tracks": [
     {
       "added_at": "2023-04-18 07:22:02",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
+        "name": "PROLOGO",
+        "url": "https://open.spotify.com/album/3zMx1otz8AGfuZ7bQ4JMhL"
+      },
+      "artists": [
+        {
+          "name": "Holden",
+          "url": "https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP"
+        }
+      ],
+      "duration_ms": 193067,
+      "name": "solo polvere.",
+      "url": "https://open.spotify.com/track/7gTd5z0K5FjcXyOnDSkcqc"
+    },
+    {
+      "added_at": "2023-04-18 07:22:02",
+      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 174250,
       "name": "L'effetto che mi fai",
       "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
-    },
-    {
-      "added_at": "2023-04-18 07:22:02",
-      "album": {
-        "name": "PROLOGO",
-        "url": "https://open.spotify.com/album/3zMx1otz8AGfuZ7bQ4JMhL"
-      },
-      "artists": [
-        {
-          "name": "Holden",
-          "url": "https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP"
-        }
-      ],
-      "duration_ms": 193067,
-      "name": "solo polvere.",
-      "url": "https://open.spotify.com/track/7gTd5z0K5FjcXyOnDSkcqc"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
+        "name": "TAXI DRIVER (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8"
+      },
+      "artists": [
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        }
+      ],
+      "duration_ms": 205358,
+      "name": "APNEA - MTV Unplugged",
+      "url": "https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c"
+    },
+    {
+      "added_at": "2023-04-18 07:22:02",
+      "album": {
         "name": "Come mi vuoi",
         "url": "https://open.spotify.com/album/1WfCPHnRKs9wcXVQ9yHZQY"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 109357,
       "name": "Ricordi",
       "url": "https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE"
-    },
-    {
-      "added_at": "2023-04-18 07:22:02",
-      "album": {
-        "name": "TAXI DRIVER (MTV Unplugged)",
-        "url": "https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8"
-      },
-      "artists": [
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        }
-      ],
-      "duration_ms": 205358,
-      "name": "APNEA - MTV Unplugged",
-      "url": "https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "X4",
-        "url": "https://open.spotify.com/album/49Qeb8YVPKSN3OBkvwXyWl"
-      },
-      "artists": [
-        {
-          "name": "Alek",
-          "url": "https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY"
-        }
-      ],
-      "duration_ms": 154390,
-      "name": "X4",
-      "url": "https://open.spotify.com/track/57PzEk2wg7T1JtKwwhBpIT"
-    },
-    {
-      "added_at": "2023-04-18 07:22:02",
-      "album": {
         "name": "Attacco di Panico",
         "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "Gemini",
-        "url": "https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK"
+        "name": "X4",
+        "url": "https://open.spotify.com/album/49Qeb8YVPKSN3OBkvwXyWl"
       },
       "artists": [
         {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+          "name": "Alek",
+          "url": "https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY"
         }
       ],
-      "duration_ms": 180763,
-      "name": "Backstage",
-      "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
+      "duration_ms": 154390,
+      "name": "X4",
+      "url": "https://open.spotify.com/track/57PzEk2wg7T1JtKwwhBpIT"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -1315,6 +1299,22 @@
       "duration_ms": 144750,
       "name": "Shama \u00e8 buono",
       "url": "https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl"
+    },
+    {
+      "added_at": "2023-04-18 07:22:02",
+      "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK"
+      },
+      "artists": [
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 180763,
+      "name": "Backstage",
+      "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "LE PAROLE GIUSTE",
-        "url": "https://open.spotify.com/album/224PJseyAs5K9VZTyuURcp"
-      },
-      "artists": [
-        {
-          "name": "solomarco",
-          "url": "https://open.spotify.com/artist/36TrrSCgFly6NAvktlI5c9"
-        },
-        {
-          "name": "Sedici",
-          "url": "https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs"
-        }
-      ],
-      "duration_ms": 167937,
-      "name": "LE PAROLE GIUSTE",
-      "url": "https://open.spotify.com/track/00lhPwTUbM0yZUmiHKCDNp"
-    },
-    {
-      "added_at": "2023-04-18 07:22:02",
-      "album": {
         "name": "Non piover\u00e0 per sempre",
         "url": "https://open.spotify.com/album/3frM2pLSKqH8CYoKXeKNXm"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 189000,
       "name": "Non piover\u00e0 per sempre",
       "url": "https://open.spotify.com/track/2j6BQ5Q74ASnVFCWyDztTA"
+    },
+    {
+      "added_at": "2023-04-18 07:22:02",
+      "album": {
+        "name": "LE PAROLE GIUSTE",
+        "url": "https://open.spotify.com/album/224PJseyAs5K9VZTyuURcp"
+      },
+      "artists": [
+        {
+          "name": "solomarco",
+          "url": "https://open.spotify.com/artist/36TrrSCgFly6NAvktlI5c9"
+        },
+        {
+          "name": "Sedici",
+          "url": "https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs"
+        }
+      ],
+      "duration_ms": 167937,
+      "name": "LE PAROLE GIUSTE",
+      "url": "https://open.spotify.com/track/00lhPwTUbM0yZUmiHKCDNp"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "La cura, non sei te",
-        "url": "https://open.spotify.com/album/666vPcaVGbptgWYnv5kHQz"
-      },
-      "artists": [
-        {
-          "name": "Chanoir Hdn",
-          "url": "https://open.spotify.com/artist/78CahxlxFuaIv0gSZLaU7O"
-        }
-      ],
-      "duration_ms": 128192,
-      "name": "La cura, non sei te",
-      "url": "https://open.spotify.com/track/17Du1OmQ0VSdmj0euyyCIT"
-    },
-    {
-      "added_at": "2023-04-18 07:22:02",
-      "album": {
         "name": "Piangi mai (domani)",
         "url": "https://open.spotify.com/album/0MwrHf04OMj7HOG29XC5ev"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 152500,
       "name": "Piangi mai (domani)",
       "url": "https://open.spotify.com/track/1aYYkE4vIycFLgy2IJrlGZ"
+    },
+    {
+      "added_at": "2023-04-18 07:22:02",
+      "album": {
+        "name": "La cura, non sei te",
+        "url": "https://open.spotify.com/album/666vPcaVGbptgWYnv5kHQz"
+      },
+      "artists": [
+        {
+          "name": "Chanoir Hdn",
+          "url": "https://open.spotify.com/artist/78CahxlxFuaIv0gSZLaU7O"
+        }
+      ],
+      "duration_ms": 128192,
+      "name": "La cura, non sei te",
+      "url": "https://open.spotify.com/track/17Du1OmQ0VSdmj0euyyCIT"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -1759,18 +1759,22 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "18 agosto",
-        "url": "https://open.spotify.com/album/5fqSGKBJyhYTDp5wZhh1Sc"
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/33xUHphRzbKvltSyyWwsp7"
       },
       "artists": [
         {
-          "name": "Loshinigami",
-          "url": "https://open.spotify.com/artist/0zhf6EEDeRFf3B1d1Ck4Tq"
+          "name": "Alelock",
+          "url": "https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt"
+        },
+        {
+          "name": "Gaglia",
+          "url": "https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN"
         }
       ],
-      "duration_ms": 145882,
-      "name": "18 agosto",
-      "url": "https://open.spotify.com/track/7oqehpNeFvWuVxAdqX7ocb"
+      "duration_ms": 174814,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/4JAXS7jfxjmOteMeZDq9bT"
     }
   ],
   "unique_name": "ragazzo triste",

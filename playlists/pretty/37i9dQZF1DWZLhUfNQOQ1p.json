@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 231123,
+  "num_followers": 231149,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDhmNTE4ZDEzMGFmODEwYjk5NWIxNDAxNGU3ZjNkZDQw",
+  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDRiYzhjNDQzY2Q0N2M1NjcxMWRjZDJjM2ExMzEzN2Qx",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -67,22 +67,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Make You Feel Like",
-        "url": "https://open.spotify.com/album/4YWN7kOFGK0z8XWluklKtU"
+        "name": "Retreat",
+        "url": "https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC"
       },
       "artists": [
         {
-          "name": "Junge Junge",
-          "url": "https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD"
-        },
-        {
-          "name": "Redward Martin",
-          "url": "https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2"
+          "name": "Sinee",
+          "url": "https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7"
         }
       ],
-      "duration_ms": 187372,
-      "name": "Make You Feel Like",
-      "url": "https://open.spotify.com/track/1AmM6S2tTt7j1IEmye5eWL"
+      "duration_ms": 171137,
+      "name": "Retreat",
+      "url": "https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -103,18 +99,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Retreat",
-        "url": "https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC"
+        "name": "Make You Feel Like",
+        "url": "https://open.spotify.com/album/4YWN7kOFGK0z8XWluklKtU"
       },
       "artists": [
         {
-          "name": "Sinee",
-          "url": "https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7"
+          "name": "Junge Junge",
+          "url": "https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD"
+        },
+        {
+          "name": "Redward Martin",
+          "url": "https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2"
         }
       ],
-      "duration_ms": 171137,
-      "name": "Retreat",
-      "url": "https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db"
+      "duration_ms": 187372,
+      "name": "Make You Feel Like",
+      "url": "https://open.spotify.com/track/1AmM6S2tTt7j1IEmye5eWL"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Don't Ever Wonder",
-        "url": "https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG"
-      },
-      "artists": [
-        {
-          "name": "Linae",
-          "url": "https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4"
-        }
-      ],
-      "duration_ms": 147367,
-      "name": "Don't Ever Wonder",
-      "url": "https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Everything Shines",
         "url": "https://open.spotify.com/album/30bj9NZcR0IteDzn5zvsx7"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 179889,
       "name": "Summer Vibe",
       "url": "https://open.spotify.com/track/1yt8EixTRCkF6TNPpqJ3Dv"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Stranded",
+        "url": "https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT"
+      },
+      "artists": [
+        {
+          "name": "Art of November",
+          "url": "https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq"
+        }
+      ],
+      "duration_ms": 229581,
+      "name": "Stranded",
+      "url": "https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -823,18 +823,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Stranded",
-        "url": "https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT"
+        "name": "Don't Ever Wonder",
+        "url": "https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG"
       },
       "artists": [
         {
-          "name": "Art of November",
-          "url": "https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq"
+          "name": "Linae",
+          "url": "https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4"
         }
       ],
-      "duration_ms": 229581,
-      "name": "Stranded",
-      "url": "https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w"
+      "duration_ms": 147367,
+      "name": "Don't Ever Wonder",
+      "url": "https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -923,22 +923,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Carneiros Beach",
-        "url": "https://open.spotify.com/album/2gwvYh1RlW9TtkmYb2Qtyo"
-      },
-      "artists": [
-        {
-          "name": "Carlos Robalinho",
-          "url": "https://open.spotify.com/artist/1lyeueezpzyh7J2w3tMoXO"
-        }
-      ],
-      "duration_ms": 222633,
-      "name": "Carneiros Beach",
-      "url": "https://open.spotify.com/track/33NG5U8673kHJAS249qbFb"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Sunrise To Sunset",
         "url": "https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd"
       },
@@ -959,18 +943,34 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Esmeralda",
-        "url": "https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0"
+        "name": "Donum",
+        "url": "https://open.spotify.com/album/6q1CGoZqOygFjGb08Linko"
       },
       "artists": [
         {
-          "name": "Samba Twins",
-          "url": "https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X"
+          "name": "SoN",
+          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
         }
       ],
-      "duration_ms": 234510,
-      "name": "Esmeralda",
-      "url": "https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e"
+      "duration_ms": 160800,
+      "name": "Donum",
+      "url": "https://open.spotify.com/track/76NiKsl9kFNjjqITQFGo3G"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Carneiros Beach",
+        "url": "https://open.spotify.com/album/2gwvYh1RlW9TtkmYb2Qtyo"
+      },
+      "artists": [
+        {
+          "name": "Carlos Robalinho",
+          "url": "https://open.spotify.com/artist/1lyeueezpzyh7J2w3tMoXO"
+        }
+      ],
+      "duration_ms": 222633,
+      "name": "Carneiros Beach",
+      "url": "https://open.spotify.com/track/33NG5U8673kHJAS249qbFb"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -991,18 +991,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Donum",
-        "url": "https://open.spotify.com/album/6q1CGoZqOygFjGb08Linko"
+        "name": "Esmeralda",
+        "url": "https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0"
       },
       "artists": [
         {
-          "name": "SoN",
-          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
+          "name": "Samba Twins",
+          "url": "https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X"
         }
       ],
-      "duration_ms": 160800,
-      "name": "Donum",
-      "url": "https://open.spotify.com/track/76NiKsl9kFNjjqITQFGo3G"
+      "duration_ms": 234510,
+      "name": "Esmeralda",
+      "url": "https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e"
     },
     {
       "added_at": "2021-08-05 09:09:59",

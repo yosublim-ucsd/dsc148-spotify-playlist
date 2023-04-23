@@ -1,12 +1,12 @@
 {
   "description": "The home for heavy rockers. Cover: Metallica",
-  "num_followers": 27810,
+  "num_followers": 27824,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA5MDY2MCwwMDAwMDAwMGY1YzMwMmFjZWI0ZDQ4ZDIxN2I4ODY5MjY4MDM5YmIz",
+  "snapshot_id": "MTY4MjA5MDY2MCwwMDAwMDAwMDg4NGQ5ZGVkYTFkZjZiZDgxODVkMzYzYzZlMmQ2NmVh",
   "tracks": [
     {
       "added_at": "2023-03-23 20:43:55",
@@ -467,6 +467,54 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
+        "name": "Manic",
+        "url": "https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 215346,
+      "name": "Circle The Drain",
+      "url": "https://open.spotify.com/track/37LTDJrNmWco1qHO1AuZ1r"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 205679,
+      "name": "Lux \u00c6terna",
+      "url": "https://open.spotify.com/track/18zjwSgYiwu1Meb7Po3tUP"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
+        "name": "Bone Church",
+        "url": "https://open.spotify.com/album/3YfWgkwUS52CmKJeOpBACz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 327240,
+      "name": "Bone Church",
+      "url": "https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
         "name": "Spillways [Feat. Joe Elliott]",
         "url": "https://open.spotify.com/album/1aMqVnl2zFenUsGrlYMc91"
       },
@@ -487,38 +535,6 @@
       "duration_ms": 199809,
       "name": "Spillways [Feat. Joe Elliott]",
       "url": "https://open.spotify.com/track/720C8mWrqRdh1zYBGqLj9p"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
-        "name": "Manic",
-        "url": "https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 215346,
-      "name": "Circle The Drain",
-      "url": "https://open.spotify.com/track/37LTDJrNmWco1qHO1AuZ1r"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
-        "name": "Bone Church",
-        "url": "https://open.spotify.com/album/3YfWgkwUS52CmKJeOpBACz"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 327240,
-      "name": "Bone Church",
-      "url": "https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -575,22 +591,6 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 205679,
-      "name": "Lux \u00c6terna",
-      "url": "https://open.spotify.com/track/18zjwSgYiwu1Meb7Po3tUP"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
         "name": "Bimbocore",
         "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 289226,
       "name": "The Chapeltown Rag",
       "url": "https://open.spotify.com/track/5jeh4hwbQJnnAJHZV9fqeo"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
-        "name": "Welcome To Horrorwood: The Silver Scream 2",
-        "url": "https://open.spotify.com/album/4PyOq7kavqglGk3cexcygx"
-      },
-      "artists": [
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        }
-      ],
-      "duration_ms": 224586,
-      "name": "Funeral Derangements",
-      "url": "https://open.spotify.com/track/1m2kn7VbKCD7jKaDq975SQ"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -671,6 +655,22 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 396293,
+      "name": "If Darkness Had a Son",
+      "url": "https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
         "name": "Fallout",
         "url": "https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h"
       },
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
-        "name": "San Quentin",
-        "url": "https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ"
+        "name": "Welcome To Horrorwood: The Silver Scream 2",
+        "url": "https://open.spotify.com/album/4PyOq7kavqglGk3cexcygx"
       },
       "artists": [
         {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
         }
       ],
-      "duration_ms": 211457,
-      "name": "San Quentin",
-      "url": "https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k"
+      "duration_ms": 224586,
+      "name": "Funeral Derangements",
+      "url": "https://open.spotify.com/track/1m2kn7VbKCD7jKaDq975SQ"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -719,6 +719,22 @@
       "duration_ms": 269466,
       "name": "We\u2019ll Be Back",
       "url": "https://open.spotify.com/track/1Ap9wotYS99H8R17VONySZ"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
+        "name": "San Quentin",
+        "url": "https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 211457,
+      "name": "San Quentin",
+      "url": "https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -743,22 +759,6 @@
       "duration_ms": 221103,
       "name": "This Is Mongol (Warrior Souls) [feat. William DuVall of Alice In Chains]",
       "url": "https://open.spotify.com/track/7lRsKDo94Xy3y1uqash1Xv"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 396293,
-      "name": "If Darkness Had a Son",
-      "url": "https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 174283,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
         "name": "Darker Still",
         "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
       },
@@ -931,6 +947,22 @@
       "duration_ms": 249305,
       "name": "Ground Zero",
       "url": "https://open.spotify.com/track/04xV6DzDzE7TgWQKBGaC5E"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
+        "name": "Hard Skool",
+        "url": "https://open.spotify.com/album/2UWJ1UJybSEmQZ87lQHmp0"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 221892,
+      "name": "Hard Skool",
+      "url": "https://open.spotify.com/track/1Pvmzboyxwp1rOVYqwKIgU"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -967,38 +999,6 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
-        "name": "Hard Skool",
-        "url": "https://open.spotify.com/album/2UWJ1UJybSEmQZ87lQHmp0"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 221892,
-      "name": "Hard Skool",
-      "url": "https://open.spotify.com/track/1Pvmzboyxwp1rOVYqwKIgU"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
-        "name": "Tear Me to Pieces",
-        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 174283,
-      "name": "War",
-      "url": "https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
         "name": "THE OTHER ONE",
         "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
       },
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Typhoons",
+      "url": "https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
         "name": "Do Or Die",
         "url": "https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9"
       },
@@ -1051,18 +1067,18 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
+        "name": "Zeit",
+        "url": "https://open.spotify.com/album/0kHIXBNeED9HPrXMZEZqEu"
       },
       "artists": [
         {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 236933,
-      "name": "Typhoons",
-      "url": "https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj"
+      "duration_ms": 321708,
+      "name": "Zeit",
+      "url": "https://open.spotify.com/track/6eOGjyegLDZqCvCZ3divgp"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -1087,18 +1103,22 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
-        "name": "Zeit",
-        "url": "https://open.spotify.com/album/0kHIXBNeED9HPrXMZEZqEu"
+        "name": "Eternal Blue",
+        "url": "https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb"
       },
       "artists": [
         {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        },
+        {
+          "name": "Sam Carter",
+          "url": "https://open.spotify.com/artist/21QEpK62qn34QVshh4qpTK"
         }
       ],
-      "duration_ms": 321708,
-      "name": "Zeit",
-      "url": "https://open.spotify.com/track/6eOGjyegLDZqCvCZ3divgp"
+      "duration_ms": 198067,
+      "name": "Yellowjacket (feat. Sam Carter)",
+      "url": "https://open.spotify.com/track/3yk51U329nwdpeIHV0O5ez"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -1123,22 +1143,66 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
-        "name": "Eternal Blue",
-        "url": "https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb"
+        "name": "INTELLECTUAL PROPERTY",
+        "url": "https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm"
       },
       "artists": [
         {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        },
-        {
-          "name": "Sam Carter",
-          "url": "https://open.spotify.com/artist/21QEpK62qn34QVshh4qpTK"
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
         }
       ],
-      "duration_ms": 198067,
-      "name": "Yellowjacket (feat. Sam Carter)",
-      "url": "https://open.spotify.com/track/3yk51U329nwdpeIHV0O5ez"
+      "duration_ms": 149194,
+      "name": "REAL SUPER DARK",
+      "url": "https://open.spotify.com/track/2YGfjeZvYJyy1BQrbsLmGr"
+    },
+    {
+      "added_at": "2023-04-14 13:32:07",
+      "album": {
+        "name": "The Hope Of A Spark",
+        "url": "https://open.spotify.com/album/5AAt0X7T9p81HEqIQUdzKp"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 175205,
+      "name": "God/Devil",
+      "url": "https://open.spotify.com/track/0R1UIAnWQaaGLiX4oxzdzl"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
+        "name": "THE OTHER ONE",
+        "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 351354,
+      "name": "METAL KINGDOM",
+      "url": "https://open.spotify.com/track/0q8m59MpSbdLh8JQ5HqrrT"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
+        "name": "Manic",
+        "url": "https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "High Horse",
+      "url": "https://open.spotify.com/track/5ebWSNwQKrnZzx4jvoGX6W"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -1163,54 +1227,6 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
-        "name": "Manic",
-        "url": "https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "High Horse",
-      "url": "https://open.spotify.com/track/5ebWSNwQKrnZzx4jvoGX6W"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
-        "name": "THE OTHER ONE",
-        "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 351354,
-      "name": "METAL KINGDOM",
-      "url": "https://open.spotify.com/track/0q8m59MpSbdLh8JQ5HqrrT"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
-        "name": "INTELLECTUAL PROPERTY",
-        "url": "https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 149194,
-      "name": "REAL SUPER DARK",
-      "url": "https://open.spotify.com/track/2YGfjeZvYJyy1BQrbsLmGr"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
         "name": "Back From the Dead",
         "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
       },
@@ -1227,38 +1243,6 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
-        "name": "Beguiled",
-        "url": "https://open.spotify.com/album/582taizXGzfl1ALsX6Busl"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 238143,
-      "name": "Beguiled",
-      "url": "https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG"
-    },
-    {
-      "added_at": "2023-04-14 13:32:07",
-      "album": {
-        "name": "The Hope Of A Spark",
-        "url": "https://open.spotify.com/album/5AAt0X7T9p81HEqIQUdzKp"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 175205,
-      "name": "God/Devil",
-      "url": "https://open.spotify.com/track/0R1UIAnWQaaGLiX4oxzdzl"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
         "name": "Zick Zack",
         "url": "https://open.spotify.com/album/0J2ajcf51h4z7bTsmMY0X8"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 244365,
       "name": "Zick Zack",
       "url": "https://open.spotify.com/track/5hPxC9i9lj9pJwg7DK2MvC"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
+        "name": "Beguiled",
+        "url": "https://open.spotify.com/album/582taizXGzfl1ALsX6Busl"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 238143,
+      "name": "Beguiled",
+      "url": "https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -1343,18 +1343,22 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
-        "name": "By The Sound",
-        "url": "https://open.spotify.com/album/5OdLYsLViZQUxq1KkOYioq"
+        "name": "Dominion: Day of Destiny",
+        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
       },
       "artists": [
         {
-          "name": "Caskets",
-          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        },
+        {
+          "name": "Adam Gontier",
+          "url": "https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT"
         }
       ],
-      "duration_ms": 222361,
-      "name": "By The Sound",
-      "url": "https://open.spotify.com/track/7fUyorTZHGV2Nv7y6kU2b2"
+      "duration_ms": 207759,
+      "name": "Finish Line (feat. Adam Gontier)",
+      "url": "https://open.spotify.com/track/3zkge7duYNYjsByp6Q0qZM"
     },
     {
       "added_at": "2023-03-23 20:43:55",

@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk.",
-  "num_followers": 70340,
+  "num_followers": 70352,
   "original_name": "Rockin' Chair Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQwMTc3MiwwMDAwMDAwMDE5N2E4MDA5YjRjMzA4ZjM1NDFhYTk5MTkxNTI4NThl",
+  "snapshot_id": "MTY4MTQwMTc3MiwwMDAwMDAwMGJlYjJiNDdkZmIyN2M5YzRmMmY1YWEzZTZjMmM3NmFh",
   "tracks": [
     {
       "added_at": "2023-04-07 00:01:00",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "The Centennial Collection",
-        "url": "https://open.spotify.com/album/0MG8ODOjmgu62MpgeS9dRF"
-      },
-      "artists": [
-        {
-          "name": "Robert Johnson",
-          "url": "https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy"
-        }
-      ],
-      "duration_ms": 178853,
-      "name": "They're Red Hot - SA.2627-1",
-      "url": "https://open.spotify.com/track/4vrPulRxzgljqsYtgGQrpk"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "The Midnight Broadcast",
         "url": "https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 214933,
       "name": "Bumble Bee",
       "url": "https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "The Centennial Collection",
+        "url": "https://open.spotify.com/album/0MG8ODOjmgu62MpgeS9dRF"
+      },
+      "artists": [
+        {
+          "name": "Robert Johnson",
+          "url": "https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy"
+        }
+      ],
+      "duration_ms": 178853,
+      "name": "They're Red Hot - SA.2627-1",
+      "url": "https://open.spotify.com/track/4vrPulRxzgljqsYtgGQrpk"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Axis Mundi",
-        "url": "https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 171480,
-      "name": "Shadrach",
-      "url": "https://open.spotify.com/track/0ksfRvHljT8MW9dlhmQMia"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Dust My Broom",
         "url": "https://open.spotify.com/album/4wvZ1QR3tMnLNDzzxxn1pj"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 215662,
       "name": "Dust My Broom",
       "url": "https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Axis Mundi",
+        "url": "https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 171480,
+      "name": "Shadrach",
+      "url": "https://open.spotify.com/track/0ksfRvHljT8MW9dlhmQMia"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -375,6 +375,38 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
+        "name": "Down in Mississippi",
+        "url": "https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 203453,
+      "name": "Down in Mississippi",
+      "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
+    },
+    {
+      "added_at": "2023-04-23 01:38:48",
+      "album": {
+        "name": "Blues Jumped a Rabbit",
+        "url": "https://open.spotify.com/album/5cOjiagbLZqw85RJNk8lQ4"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 235040,
+      "name": "Blues Jumped a Rabbit",
+      "url": "https://open.spotify.com/track/6Tb7mOJtHQtSSqJym83Bqr"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
         "name": "Covered Tracks: Vol. 2",
         "url": "https://open.spotify.com/album/41VD7CenbVd2qOPNLZiE5K"
       },
@@ -423,38 +455,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Down in Mississippi",
-        "url": "https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP"
-      },
-      "artists": [
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 203453,
-      "name": "Down in Mississippi",
-      "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
-    },
-    {
-      "added_at": "2023-04-22 01:17:48",
-      "album": {
-        "name": "Blues Jumped a Rabbit",
-        "url": "https://open.spotify.com/album/5cOjiagbLZqw85RJNk8lQ4"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 235040,
-      "name": "Blues Jumped a Rabbit",
-      "url": "https://open.spotify.com/track/6Tb7mOJtHQtSSqJym83Bqr"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Black Myself",
         "url": "https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz"
       },
@@ -483,6 +483,22 @@
       "duration_ms": 209400,
       "name": "Shake Sugaree",
       "url": "https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Shake It for Me",
+        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 222199,
+      "name": "Shake It for Me",
+      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -551,22 +567,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
-      },
-      "artists": [
-        {
-          "name": "Blind Willie Johnson",
-          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "God Moves On the Water",
-      "url": "https://open.spotify.com/track/5PaW8VeYRpS3N728fFa15b"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Blue River Rising",
         "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
       },
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Shake It for Me",
-        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
+        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
       },
       "artists": [
         {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+          "name": "Blind Willie Johnson",
+          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
         }
       ],
-      "duration_ms": 222199,
-      "name": "Shake It for Me",
-      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
+      "duration_ms": 179226,
+      "name": "God Moves On the Water",
+      "url": "https://open.spotify.com/track/5PaW8VeYRpS3N728fFa15b"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "County Farm Blues",
-        "url": "https://open.spotify.com/album/0xQyiVS5BLQzBmfOuUxIzx"
-      },
-      "artists": [
-        {
-          "name": "Johnny Stachela",
-          "url": "https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi"
-        }
-      ],
-      "duration_ms": 164285,
-      "name": "County Farm Blues",
-      "url": "https://open.spotify.com/track/1ycQB39KcU6DcdfY3XFyXR"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Imaginational Anthem Vol. 5",
         "url": "https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 229853,
       "name": "Hemet Pine Singer",
       "url": "https://open.spotify.com/track/0aNyZsNQZykSvoiwrjhBFB"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "County Farm Blues",
+        "url": "https://open.spotify.com/album/0xQyiVS5BLQzBmfOuUxIzx"
+      },
+      "artists": [
+        {
+          "name": "Johnny Stachela",
+          "url": "https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi"
+        }
+      ],
+      "duration_ms": 164285,
+      "name": "County Farm Blues",
+      "url": "https://open.spotify.com/track/1ycQB39KcU6DcdfY3XFyXR"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "New Orleans Street Singer",
-        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
-      },
-      "artists": [
-        {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "Trouble in Mind",
-      "url": "https://open.spotify.com/track/1ymBUTnXZpFaefVJxvoDjL"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Detroit Blues",
         "url": "https://open.spotify.com/album/5r7zpXdCkM4wED1dVgXI70"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 169039,
       "name": "Detroit Blues",
       "url": "https://open.spotify.com/track/5rJbBdz2yN7ZPIPjX70Foq"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "New Orleans Street Singer",
+        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "Trouble in Mind",
+      "url": "https://open.spotify.com/track/1ymBUTnXZpFaefVJxvoDjL"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Imaginational Anthem",
-        "url": "https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO"
-      },
-      "artists": [
-        {
-          "name": "Kaki King",
-          "url": "https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV"
-        }
-      ],
-      "duration_ms": 214786,
-      "name": "Night After Sidewalk",
-      "url": "https://open.spotify.com/track/6aEKWnhMVr2rdaqSdNha6U"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "The Guitar Masters Collection: John Fahey",
         "url": "https://open.spotify.com/album/2S8MEqzZMTVa48ZKp4Oayb"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 202933,
       "name": "Sunflower Blues",
       "url": "https://open.spotify.com/track/2gcs9yC8hTZA9Rlq8eIO4c"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Imaginational Anthem",
+        "url": "https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO"
+      },
+      "artists": [
+        {
+          "name": "Kaki King",
+          "url": "https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV"
+        }
+      ],
+      "duration_ms": 214786,
+      "name": "Night After Sidewalk",
+      "url": "https://open.spotify.com/track/6aEKWnhMVr2rdaqSdNha6U"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "That's All Right",
-        "url": "https://open.spotify.com/album/6PlMo3BPxSJRloZBHKp2wS"
-      },
-      "artists": [
-        {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
-        }
-      ],
-      "duration_ms": 116173,
-      "name": "Mama Don't Tear Your Clothes",
-      "url": "https://open.spotify.com/track/4FKPgtDtqsVRE8BtfrmWPv"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Orange County Serenade",
         "url": "https://open.spotify.com/album/5MX3706iqptzAKSur97vbT"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 238000,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/1FyHEp3lOHlnSbZkENr2mq"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "That's All Right",
+        "url": "https://open.spotify.com/album/6PlMo3BPxSJRloZBHKp2wS"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 116173,
+      "name": "Mama Don't Tear Your Clothes",
+      "url": "https://open.spotify.com/track/4FKPgtDtqsVRE8BtfrmWPv"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Imaginational Anthem",
-        "url": "https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO"
+        "name": "The Birdcage Sessions",
+        "url": "https://open.spotify.com/album/78bpHTxCPnACXpB3yAaj4S"
       },
       "artists": [
         {
-          "name": "Harris Newman",
-          "url": "https://open.spotify.com/artist/5A54A8MxavFfaTSxOxfvWt"
+          "name": "Eddie Martin",
+          "url": "https://open.spotify.com/artist/05QLgdfxYIzqvMNlAZ2hdU"
         }
       ],
-      "duration_ms": 264386,
-      "name": "Lake Shore Drive (Slight Return)",
-      "url": "https://open.spotify.com/track/32CfhB8FPrlOqkfsP9v4pi"
+      "duration_ms": 256310,
+      "name": "Lazy Sunday",
+      "url": "https://open.spotify.com/track/5IJQrZERphRFaiwOXmEz6a"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "The Birdcage Sessions",
-        "url": "https://open.spotify.com/album/78bpHTxCPnACXpB3yAaj4S"
+        "name": "Imaginational Anthem",
+        "url": "https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO"
       },
       "artists": [
         {
-          "name": "Eddie Martin",
-          "url": "https://open.spotify.com/artist/05QLgdfxYIzqvMNlAZ2hdU"
+          "name": "Harris Newman",
+          "url": "https://open.spotify.com/artist/5A54A8MxavFfaTSxOxfvWt"
         }
       ],
-      "duration_ms": 256310,
-      "name": "Lazy Sunday",
-      "url": "https://open.spotify.com/track/5IJQrZERphRFaiwOXmEz6a"
+      "duration_ms": 264386,
+      "name": "Lake Shore Drive (Slight Return)",
+      "url": "https://open.spotify.com/track/32CfhB8FPrlOqkfsP9v4pi"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
+        "name": "Nickel for Your Troubles",
+        "url": "https://open.spotify.com/album/7BehaPSDwpwY35CddZrreY"
+      },
+      "artists": [
+        {
+          "name": "Will Harrison",
+          "url": "https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt"
+        }
+      ],
+      "duration_ms": 168254,
+      "name": "Keepin On",
+      "url": "https://open.spotify.com/track/2o63bYzr3IwgehTtlU0Fk3"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
         "name": "Cruel Old World",
         "url": "https://open.spotify.com/album/2b8RXtK0SUI7TELekPYCPB"
       },
@@ -1267,34 +1283,18 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Nickel for Your Troubles",
-        "url": "https://open.spotify.com/album/7BehaPSDwpwY35CddZrreY"
+        "name": "Golden Selection (Remastered)",
+        "url": "https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF"
       },
       "artists": [
         {
-          "name": "Will Harrison",
-          "url": "https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt"
+          "name": "Sunnyland Slim",
+          "url": "https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2"
         }
       ],
-      "duration_ms": 168254,
-      "name": "Keepin On",
-      "url": "https://open.spotify.com/track/2o63bYzr3IwgehTtlU0Fk3"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
-        "name": "Tell Me Pretty Baby",
-        "url": "https://open.spotify.com/album/1w5cDGWOyVFdkFi9rRLeOE"
-      },
-      "artists": [
-        {
-          "name": "Fred Davis",
-          "url": "https://open.spotify.com/artist/5OsUEYTWiNXmkKn7Sao4B1"
-        }
-      ],
-      "duration_ms": 209796,
-      "name": "Tell Me Pretty Baby",
-      "url": "https://open.spotify.com/track/6pqbK1w6kI8NPTmCldLqsR"
+      "duration_ms": 169214,
+      "name": "She Ain't Nowhere - Remastered",
+      "url": "https://open.spotify.com/track/2C0sWdXD2V6Ebbw0d5fQiS"
     },
     {
       "added_at": "2023-04-07 00:01:00",

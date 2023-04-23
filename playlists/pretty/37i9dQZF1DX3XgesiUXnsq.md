@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: Saba
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,920 likes - 99 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,147 likes - 99 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 45 | [The Count \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/171PWhxgdrIOgcAiBPO3Gr) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [The Marina](https://open.spotify.com/album/4PBzJyNVh1iWyiuOstR74B) | 3:14 |
 | 46 | [Shook Ones, Pt\. II](https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [The Infamous](https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs) | 5:25 |
 | 47 | [Ego Trippin' \(Part Two\)](https://open.spotify.com/track/2avmI53DtuX5r32jnx3rxt) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Shortie No Mass](https://open.spotify.com/artist/2SW5YLY1eOQryID9wt4uHM) | [Buhloone Mindstate](https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd) | 3:52 |
-| 48 | [The Scoop On Heaven](https://open.spotify.com/track/213LtzTmFAm3LsyVnNyLGQ) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:43 |
+| 48 | [The Scoop On Heaven](https://open.spotify.com/track/2nZPwKpV75BQpn9snGy2xG) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [I Love Life, Thank You](https://open.spotify.com/album/5LNX3esjvdBJ6hN4XDvCJn) | 2:43 |
 | 49 | [The Light](https://open.spotify.com/track/5fybLNY2eBRnEGg8SUW6yk) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Go! Common Classics](https://open.spotify.com/album/2IGKisSgNle7264UoY57vO) | 4:03 |
 | 50 | [Hit 'Em Up \- Single Version](https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Outlawz](https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 5:12 |
 | 51 | [It Ain't Hard to Tell](https://open.spotify.com/track/2CPturRUlpvirYr7VpkXCV) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 3:22 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 98 | [Triple Double](https://open.spotify.com/track/3HSWza0Gz15Ungnd4m4lMo) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Mac & Cheese 3](https://open.spotify.com/album/505pFOzDUrDR6ToQlPiXC2) | 3:47 |
 | 99 | [Sriracha](https://open.spotify.com/track/1ytLhTM7p87C4eWPRWqAC9) | [Naturally Born Strangers](https://open.spotify.com/artist/5gZQxOh12bhrAS9ioHB2qc) | [Sriracha](https://open.spotify.com/album/380OfomX0FAj25skGNBOiK) | 3:28 |
 
-Snapshot ID: `MTY4MjA0OTY2MCwwMDAwMDAwMDMzZDExODY4Nzk4NjMwOGQ0NTdjZWEyZWUzMGNkOGM4`
+Snapshot ID: `MTY4MjE5MDg2NCwwMDAwMDAwMDVmMDkzZjQzNTJmMDRlYTIwY2M5YzVlY2RiYjRiNWU0`

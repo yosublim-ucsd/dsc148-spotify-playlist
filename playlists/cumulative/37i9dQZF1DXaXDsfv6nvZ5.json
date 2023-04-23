@@ -2209,6 +2209,24 @@
     },
     {
       "album": {
+        "name": "Like a Ship (Live from Strange Manor)",
+        "url": "https://open.spotify.com/album/3i25lVb7GBHyj4YO7L7ki7"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312373,
+      "name": "Like a Ship - Live from Strange Manor",
+      "url": "https://open.spotify.com/track/6J6InHh9eVYIxva60QTB5e"
+    },
+    {
+      "album": {
         "name": "Like You'll Never See Me Again",
         "url": "https://open.spotify.com/album/5jXpTr504jjizPvcn9FnZP"
       },
@@ -4346,7 +4364,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 176065,
       "name": "without you",
       "url": "https://open.spotify.com/track/25mOPkAn5kz8vqi6Oh6rLV"

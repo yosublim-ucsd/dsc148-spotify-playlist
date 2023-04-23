@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,446 songs - 5 day 12 hr 32 min
+3,447 songs - 5 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1371,7 +1371,7 @@
 | [In Tune with the Universe](https://open.spotify.com/track/7ap4kFkYs8pDqi3wqIiJgQ) | [Moonspatz](https://open.spotify.com/artist/63Cv3MetKEN8bhsAo4n6nK) | [In Tune with the Universe](https://open.spotify.com/album/626kXsnFQdRFyuxyEJw3k4) | 2:18 | 2019-08-09 | 2020-02-11 |
 | [In Winter](https://open.spotify.com/track/1wWdvkxcWe7xNCtXoAyLoI) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [In Winter](https://open.spotify.com/album/6gwcZXH487sYdMOnW96Pp5) | 2:25 | 2022-03-24 | 2022-06-17 |
 | [In You](https://open.spotify.com/track/33TIyliC9yRwNUgXqBJh72) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [In You](https://open.spotify.com/album/1miOLtSTTm6mouIoUam6dq) | 2:19 | 2021-04-20 | 2021-11-26 |
-| [In Your Own Time](https://open.spotify.com/track/2xFlZfIkBQwlz8ZY4AP4Qc) | [Josa](https://open.spotify.com/artist/2BUX6bhQxzfkO4CH8dmwQp) | [In Your Own Time](https://open.spotify.com/album/54ESNC9gVJDkcX9pzm3uG8) | 1:42 | 2022-07-14 |  |
+| [In Your Own Time](https://open.spotify.com/track/2xFlZfIkBQwlz8ZY4AP4Qc) | [Josa](https://open.spotify.com/artist/2BUX6bhQxzfkO4CH8dmwQp) | [In Your Own Time](https://open.spotify.com/album/54ESNC9gVJDkcX9pzm3uG8) | 1:42 | 2022-07-14 | 2023-04-23 |
 | [Indian Summer](https://open.spotify.com/track/1lUBPpihHy91TTKP3d2bAd) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Indian Summer](https://open.spotify.com/album/75hRvWdyt0w9HZUFrnDi5z) | 3:10 | 2021-11-19 | 2021-12-17 |
 | [Indian Summer](https://open.spotify.com/track/0WHE2eIQ0AvKdfRXakZIHc) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Indian Summer](https://open.spotify.com/album/6nDt870gW8iPtN9MrI8QvF) | 1:51 | 2022-10-27 |  |
 | [Indigo](https://open.spotify.com/track/6o072JVrUHju3ReQDwnQvX) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6) | [Indigo](https://open.spotify.com/album/0RIbSmYZMUBN2RVXYYbdxy) | 2:11 | 2021-07-24 |  |
@@ -2668,6 +2668,7 @@
 | [Snow Rays](https://open.spotify.com/track/32vlnvHcOnsGy1CRUhdLlB) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J), [Antônio Neves](https://open.spotify.com/artist/1or8OkrZ48T6BW0OpeN683) | [Snow Rays](https://open.spotify.com/album/3Yyw6NNem5PB83NwEfUUUL) | 2:15 | 2020-12-18 | 2021-05-28 |
 | [Snowcap](https://open.spotify.com/track/0rKVVQCTgJ5xX3XTl2zGxj) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [Snowcap](https://open.spotify.com/album/4iMI9oIfMo23OCqZwuKUcW) | 2:27 | 2020-11-13 | 2021-06-04 |
 | [Snowline](https://open.spotify.com/track/4WIc4sHXHFrXHvtDRsv7Xj) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Snowline](https://open.spotify.com/album/050AMwaSyTY1xt2SxgHGDt) | 2:54 | 2022-01-27 | 2022-02-25 |
+| [Snowy Streets](https://open.spotify.com/track/2nw52IaHkc54CJXcAjcyjy) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Snowy Streets](https://open.spotify.com/album/6M58dmM81lF4GRrcH1SDVa) | 2:26 | 2023-04-20 |  |
 | [So](https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [So Sunshine](https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos) | 2:16 | 2020-09-18 | 2020-11-21 |
 | [So Easy](https://open.spotify.com/track/07YLsacHg8GmyV5T3YczQY) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC) | [So Easy](https://open.spotify.com/album/1OmKZcbW3eLny0wL2TtlHk) | 2:43 | 2019-08-02 | 2020-02-11 |
 | [So Good](https://open.spotify.com/track/1JSyfYEBN3eYwoaq0mum2w) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [So Good](https://open.spotify.com/album/7tzLWx2zmUYzsdURvfobxf) | 2:00 | 2023-01-12 |  |

@@ -4,7 +4,7 @@
 
 > Una sensual selección de canciones para bailar en una sola baldosa.
 
-79 songs - 6 hr 29 min
+80 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Aquél Viejo Motel](https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Oro Salsero](https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo) | 5:08 | 2022-07-28 |  |
 | [Aquél Viejo Motel](https://open.spotify.com/track/5sivdGNkYMLTvVy5ydYYI8) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [12 Favoritas](https://open.spotify.com/album/7FuvwGmwae2CuAmfmuYjeN) | 5:09 | 2021-04-30 | 2022-07-29 |
 | [Busca Por Dentro](https://open.spotify.com/track/2canuqE41S1yUstx6qnLFc) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:54 | 2021-04-30 |  |
-| [Caricias Prohibidas](https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ) | [Viti Ruiz](https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT) | [Sedúceme](https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy) | 5:21 | 2021-04-30 |  |
+| [Caricias Prohibidas](https://open.spotify.com/track/0sljB20lnodRcHT2il1m3J) | [Viti Ruiz](https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT) | [Sedúceme](https://open.spotify.com/album/4xyafxVu1q9xRQ5qtMlBkb) | 5:21 | 2022-07-28 |  |
+| [Caricias Prohibidas](https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ) | [Viti Ruiz](https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT) | [Sedúceme](https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy) | 5:21 | 2021-04-30 | 2023-04-23 |
 | [Casi un Hechizo](https://open.spotify.com/track/4hw32LMr5RoeKQl0Kvh20e) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Mis Favoritas](https://open.spotify.com/album/3Ph28YClqOZvb2nmdsXKBA) | 3:42 | 2021-04-30 |  |
 | [Condename A Tu Amor](https://open.spotify.com/track/2C40I3YZiqsNlpBxQ4O1y7) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Condename](https://open.spotify.com/album/096iagjZ8Ax48eV49j8P3Q) | 6:01 | 2021-04-30 |  |
 | [Corazon de Acero](https://open.spotify.com/track/60tVsYxb9Ac05YRFgMmyL1) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Corazon de Acero](https://open.spotify.com/album/1bQJ7TlGyAGPvHrbhSCiz9) | 3:45 | 2021-04-30 | 2022-07-29 |

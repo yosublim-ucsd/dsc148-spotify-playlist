@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 69339,
+  "num_followers": 69426,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzkwMzE1NSwwMDAwMDAwMGFjYTBkZDk2NTg5MTk0NmFhNjA5N2UwMjAwZDQ4Yzgy",
+  "snapshot_id": "MTY3MzkwMzE1NSwwMDAwMDAwMGJjMTUyOGFiMTAxNTE0ZDk4NjBjNzYzNmRjMTExYmRm",
   "tracks": [
     {
       "added_at": "2023-01-16 21:05:55",
@@ -487,18 +487,22 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Got Soul",
-        "url": "https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB"
+        "name": "An Anthology",
+        "url": "https://open.spotify.com/album/1JrO2Vp9I2ExzAFvMcZKzb"
       },
       "artists": [
         {
-          "name": "Robert Randolph & The Family Band",
-          "url": "https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Duane Allman",
+          "url": "https://open.spotify.com/artist/3keUIwmPM4awpPxiy9ZQ1m"
         }
       ],
-      "duration_ms": 236786,
-      "name": "Find a Way",
-      "url": "https://open.spotify.com/track/4PTfrK6IhnTOd7SRpH17EK"
+      "duration_ms": 232507,
+      "name": "Mean Old World",
+      "url": "https://open.spotify.com/track/4w1nfPlGNqp4vDxDZRTmAi"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -519,22 +523,18 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "An Anthology",
-        "url": "https://open.spotify.com/album/1JrO2Vp9I2ExzAFvMcZKzb"
+        "name": "Got Soul",
+        "url": "https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "Duane Allman",
-          "url": "https://open.spotify.com/artist/3keUIwmPM4awpPxiy9ZQ1m"
+          "name": "Robert Randolph & The Family Band",
+          "url": "https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR"
         }
       ],
-      "duration_ms": 232507,
-      "name": "Mean Old World",
-      "url": "https://open.spotify.com/track/4w1nfPlGNqp4vDxDZRTmAi"
+      "duration_ms": 236786,
+      "name": "Find a Way",
+      "url": "https://open.spotify.com/track/4PTfrK6IhnTOd7SRpH17EK"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Steakbone Slide Guitar",
-        "url": "https://open.spotify.com/album/6cqymm4TdtnSeABGub57Gn"
+        "name": "The Best of Peter Green's Fleetwood Mac",
+        "url": "https://open.spotify.com/album/3SgBIPBgm2Vmhv2kdym6pI"
       },
       "artists": [
         {
-          "name": "Mississippi Fred McDowell",
-          "url": "https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 179160,
-      "name": "You Got to Move",
-      "url": "https://open.spotify.com/track/4yNZFnV0r7OIuUSep8hFLB"
+      "duration_ms": 177026,
+      "name": "My Heart Beat Like a Hammer",
+      "url": "https://open.spotify.com/track/2vu5jhcPIraCfiRDLAvQuW"
     }
   ],
   "unique_name": "Slide Guitar Heroes",

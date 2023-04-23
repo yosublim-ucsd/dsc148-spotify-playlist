@@ -1,12 +1,12 @@
 {
   "description": "Hit rewind on these classic Ghanaian gospel songs.",
-  "num_followers": 191,
+  "num_followers": 199,
   "original_name": "Ghana Gospel Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc5MzY2NCwwMDAwMDAwMDY4MjNlMDZhZWVhZGJiZTg0MmY2ZDliMzRhZmI2OTI4",
+  "snapshot_id": "MTY4MDc5MzY2NCwwMDAwMDAwMGE3ODNmY2I5YTZmMzFlNDBkZDNkZWM0ZTc5ZGMzOGE2",
   "tracks": [
     {
       "added_at": "2023-04-06 15:07:44",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
-        "name": "Osoro Ne Yefie",
-        "url": "https://open.spotify.com/album/558XdQJHrmVdEApTIorcdx"
-      },
-      "artists": [
-        {
-          "name": "Florence Obinim",
-          "url": "https://open.spotify.com/artist/4RTr7NACMCVixQUQlP64NO"
-        }
-      ],
-      "duration_ms": 434259,
-      "name": "Osoro Ne Yefie",
-      "url": "https://open.spotify.com/track/1THEQVHkf4yLPzoieMQk3B"
-    },
-    {
-      "added_at": "2023-04-06 15:07:44",
-      "album": {
         "name": "The Altar",
         "url": "https://open.spotify.com/album/6aGS6hhyjFgwrO1voxYyk4"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 258821,
       "name": "ADOM BI",
       "url": "https://open.spotify.com/track/1265RZfD3yji9xZ123cFUL"
+    },
+    {
+      "added_at": "2023-04-06 15:07:44",
+      "album": {
+        "name": "Osoro Ne Yefie",
+        "url": "https://open.spotify.com/album/558XdQJHrmVdEApTIorcdx"
+      },
+      "artists": [
+        {
+          "name": "Florence Obinim",
+          "url": "https://open.spotify.com/artist/4RTr7NACMCVixQUQlP64NO"
+        }
+      ],
+      "duration_ms": 434259,
+      "name": "Osoro Ne Yefie",
+      "url": "https://open.spotify.com/track/1THEQVHkf4yLPzoieMQk3B"
     },
     {
       "added_at": "2023-04-06 15:07:44",
@@ -559,18 +559,18 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
-        "name": "Pentecost Soree Nwom",
-        "url": "https://open.spotify.com/album/4hdA0dUWWABTxLgZvwX285"
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/4UDMqjPmRx3jJlKIUbWfGn"
       },
       "artists": [
         {
-          "name": "Evangelist Diana Asamoah",
-          "url": "https://open.spotify.com/artist/4Ww81OPkdNxP7jsBIn6sOJ"
+          "name": "Bernice Offei",
+          "url": "https://open.spotify.com/artist/1s3k29zZeWqgAuxLms45Ex"
         }
       ],
-      "duration_ms": 354150,
-      "name": "Hymm",
-      "url": "https://open.spotify.com/track/5ccfgPC6IyCS3AEqD1cMVE"
+      "duration_ms": 458000,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/0HEB4FVrCze9RKUCuivkFW"
     },
     {
       "added_at": "2023-04-06 15:07:44",
@@ -591,18 +591,18 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/4UDMqjPmRx3jJlKIUbWfGn"
+        "name": "Pentecost Soree Nwom",
+        "url": "https://open.spotify.com/album/4hdA0dUWWABTxLgZvwX285"
       },
       "artists": [
         {
-          "name": "Bernice Offei",
-          "url": "https://open.spotify.com/artist/1s3k29zZeWqgAuxLms45Ex"
+          "name": "Evangelist Diana Asamoah",
+          "url": "https://open.spotify.com/artist/4Ww81OPkdNxP7jsBIn6sOJ"
         }
       ],
-      "duration_ms": 458000,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/0HEB4FVrCze9RKUCuivkFW"
+      "duration_ms": 354150,
+      "name": "Hymm",
+      "url": "https://open.spotify.com/track/5ccfgPC6IyCS3AEqD1cMVE"
     },
     {
       "added_at": "2023-04-06 15:07:44",

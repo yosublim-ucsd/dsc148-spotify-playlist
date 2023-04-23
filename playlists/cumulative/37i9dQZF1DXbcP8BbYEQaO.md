@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-522 songs - 1 day 5 hr 29 min
+524 songs - 1 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,7 +360,8 @@
 | [passionfruit](https://open.spotify.com/track/7lW2HbFRh65PMz82J7mPnb) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/1haNHfsOFIrDKDFYr0pbsy) | 4:34 | 2020-10-13\* | 2020-11-18 |
 | [Patterns](https://open.spotify.com/track/5Wok14DtMdF9y57EnofNWO) | [Conventioner](https://open.spotify.com/artist/2DdKYZ2hIsoUTUV54Q0k1y) | [Patterns](https://open.spotify.com/album/2B4T4FLP3NgcdoPOCOk5hx) | 2:53 | 2021-07-04 | 2022-02-26 |
 | [Phases](https://open.spotify.com/track/3je88Q4OvTqIx7BFRFYvRA) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [Phases](https://open.spotify.com/album/4q983qnYbzKzO8ulICPKgm) | 3:35 | 2021-07-10 | 2021-09-11 |
-| [Piece of Art](https://open.spotify.com/track/48igULTT3gZFYS1FOxCQQ6) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Watching Strangers Smile](https://open.spotify.com/album/4EFSsesDCNX5l1EalI2mRS) | 4:04 | 2023-04-07 |  |
+| [Piece of Art](https://open.spotify.com/track/0CF9ZyQR7X9DpgwJSBOwja) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Watching Strangers Smile](https://open.spotify.com/album/0zpSsEuwv5VbuiyuvfpjmZ) | 4:04 | 2023-04-14 |  |
+| [Piece of Art](https://open.spotify.com/track/48igULTT3gZFYS1FOxCQQ6) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Watching Strangers Smile](https://open.spotify.com/album/4EFSsesDCNX5l1EalI2mRS) | 4:04 | 2023-04-07 | 2023-04-23 |
 | [PIECES](https://open.spotify.com/track/07IMjyn9gW77cR7APem5g6) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PIECES](https://open.spotify.com/album/49oqAXVpNnPGyucWw91Eyo) | 2:46 | 2022-06-24 |  |
 | [PILLOWTALK](https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Mind Of Mine \(Deluxe Edition\)](https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0) | 3:22 | 2021-07-04 | 2021-08-10 |
 | [pl4yg1rl](https://open.spotify.com/track/3xA9Cta8gafKNV1xNpMK2r) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [pl4yg1rl](https://open.spotify.com/album/1xQEgoJUeY0K2pc0p8LLXG) | 2:39 | 2022-09-16 | 2023-01-04 |
@@ -485,6 +486,7 @@
 | [Traffic Lights](https://open.spotify.com/track/6CRMSbYypKAf9XubEsmvkN) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Traffic Lights](https://open.spotify.com/album/374RbvDWAdosSKBLYOjh5z) | 3:24 | 2021-08-28 | 2022-03-09 |
 | [Traitor](https://open.spotify.com/track/13AxsHppGvU1LsftFSuAJV) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Traitor](https://open.spotify.com/album/3pCnOxJezgI4KmcKMznAE7) | 2:57 | 2021-06-26 | 2022-01-08 |
 | [Treat Me Right](https://open.spotify.com/track/6NkOdTkgyQk5fSEtwGYpE6) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [Treat Me Right](https://open.spotify.com/album/03hafzXxELqD67fD1siVhS) | 3:08 | 2022-03-31 | 2022-07-28 |
+| [True love \(feat\. 070 Shake\)](https://open.spotify.com/track/6PdUV3DjQAT4Hk9Hz7UNZ5) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [True love \(feat\. 070 Shake\)](https://open.spotify.com/album/21ZlnuYMvzSLNOAYWH318k) | 5:47 | 2023-04-21 |  |
 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 | 2023-01-27 |  |
 | [Twennies](https://open.spotify.com/track/28LNs1oQ8met8Ul8p8RHbe) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Twennies](https://open.spotify.com/album/5rdmUTXVk9cVxOMknuSzUx) | 2:51 | 2022-09-09 | 2022-09-17 |
 | [Twennies \- The Knocks Remix](https://open.spotify.com/track/2udzkXs8wSPiRNDmzomieS) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Twennies \(The Knocks Remix\)](https://open.spotify.com/album/7kspnaid8DF0EbhsIVyv86) | 4:08 | 2022-11-11 | 2023-01-28 |
@@ -501,7 +503,7 @@
 | [Warm on a Cold Night](https://open.spotify.com/track/5pJPgy2jGvvNUNfHPvG3Zp) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Warm on a Cold Night \(Deluxe\)](https://open.spotify.com/album/6hmakfMxhTWYmSUed1HPFA) | 4:21 | 2021-06-19 | 2022-01-08 |
 | [We Own The Night](https://open.spotify.com/track/6e9EADA7sFGSmD10zcO5cs) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [We Own The Night](https://open.spotify.com/album/3mu6qWNBn513C5z2lHYaZn) | 3:05 | 2022-08-19 | 2022-12-29 |
 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 | 2023-01-20 |  |
-| [Welcome To My Island](https://open.spotify.com/track/2QeUnYtvlfQdfWxzF3b1ud) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Welcome To My Island](https://open.spotify.com/album/53LBDupH6C8cJvPEzH6nKI) | 3:52 | 2022-12-09 |  |
+| [Welcome To My Island](https://open.spotify.com/track/2QeUnYtvlfQdfWxzF3b1ud) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Welcome To My Island](https://open.spotify.com/album/53LBDupH6C8cJvPEzH6nKI) | 3:52 | 2022-12-09 | 2023-04-23 |
 | [WESTWORLD](https://open.spotify.com/track/6ZP2iPx7t4epRBAKWvRPt1) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [WESTWORLD](https://open.spotify.com/album/1y8qDhdUaUKxlvDLJ2tHgC) | 3:29 | 2021-07-10 | 2022-03-26 |
 | [What I Want](https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:03 | 2022-06-24 |  |
 | [What If I Told You \(Original Music from The L Word: Generation Q\)](https://open.spotify.com/track/3qDLLnU3pQBCkb7Pctum3O) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [What If I Told You \(Original Music from The L Word: Generation Q\)](https://open.spotify.com/album/0k7wjFeipafGeyu29azRR7) | 2:48 | 2021-10-02 | 2022-03-18 |

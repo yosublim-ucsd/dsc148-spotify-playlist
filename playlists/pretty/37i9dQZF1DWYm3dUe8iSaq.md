@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,014 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,065 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 17 | [Bible](https://open.spotify.com/track/2YWhFsixQdDGS391Wom0s4) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Bible](https://open.spotify.com/album/7nidHGnHANwdtpPgJvPQUY) | 3:21 |
 | 18 | [I Hate Myself](https://open.spotify.com/track/0c0S1M4ik3EnhHdqH43VTv) | [Florence Pugh](https://open.spotify.com/artist/0wU0ByZ6OSInRD0ZmVfcIq) | [Allison's Songs](https://open.spotify.com/album/3LGwrBU9oDIZRPICGaAMhH) | 4:02 |
 | 19 | [Stow Brae](https://open.spotify.com/track/6FgsycVqVLwuWVs66lf9sX) | [Lists](https://open.spotify.com/artist/5bXcRydEFiSkcqjYlbW7uO) | [Stow Brae](https://open.spotify.com/album/0CbHExiIeCAhFeOVxH8D1T) | 2:42 |
-| 20 | [Beige](https://open.spotify.com/track/3OBhDSxocfqs9knOUWYkBF) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Contours of a Cliff](https://open.spotify.com/album/7uciZ3IT8hht9S0Gmk8Ls0) | 3:22 |
+| 20 | [Beige](https://open.spotify.com/track/7yiNQMIKNj9tZvhRxscbg2) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Beige](https://open.spotify.com/album/5khD0TiegRGYelA8ju93qj) | 3:22 |
 | 21 | [Silence](https://open.spotify.com/track/6IAgGNsx1TSppM1g2ig4Il) | [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Silence](https://open.spotify.com/album/0xZA75KUxVBNV4Nwz2ni1Y) | 4:04 |
 | 22 | [Girl Like You](https://open.spotify.com/track/6j4mDM1LbxbTpiLC7FBCDd) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Forever](https://open.spotify.com/album/5QMbfVH8QFE6JhLNELYfEz) | 1:45 |
 | 23 | [So I've Been Told](https://open.spotify.com/track/1tAFpWt9kNI3b17so9ZfxN) | [Rosie H Sullivan](https://open.spotify.com/artist/0lVelcY3fGmACzxZGSW3Je) | [So I've Been Told](https://open.spotify.com/album/1p2ZmvbGwG4u3bKQfbvfpN) | 3:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 79 | [Ghost](https://open.spotify.com/track/5xWpOP3RvKvd8oz1y5HfRo) | [Callum Pitt](https://open.spotify.com/artist/15mRJDZiAQq5CI6AqnlJfd) | [Ghost](https://open.spotify.com/album/6tEpoBigcuVdWFWqza7U8f) | 4:12 |
 | 80 | [Tie Dye Sky](https://open.spotify.com/track/5ULS4kXKJNRkG9mujwVk0l) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu) | [Silver Lake](https://open.spotify.com/album/2Nrtj9B5oaJjJh1fOpBtQZ) | 3:01 |
 
-Snapshot ID: `MTY4MDg5Njc3NiwwMDAwMDAwMDVmNjQ3Y2Y2YWRlNzA1ZjJhZDI1NTA0ZDVjZTA0ZDA0`
+Snapshot ID: `MTY4MDg5Njc3NiwwMDAwMDAwMDhkMGFjNDY2ZjRhNjljNjU0NDFiMmE3ZmUyMWYyYjRl`

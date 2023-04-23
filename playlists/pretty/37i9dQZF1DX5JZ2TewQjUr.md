@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: CHANKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,215 likes - 125 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,222 likes - 125 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 2 | [Pull My Hair](https://open.spotify.com/track/37X6Jr8cHBOCD9tsuv25MA) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Pull My Hair](https://open.spotify.com/album/4oILzeu5oXO9HeLSJ92Z0V) | 2:01 |
 | 3 | [山](https://open.spotify.com/track/2xzDKreyfbW10hylyz1elm) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [光](https://open.spotify.com/album/2MtSFBXfAvd1UlO6OVVkpP) | 4:33 |
 | 4 | [GET WILD \(feat\. AKIKO\)](https://open.spotify.com/track/12NPhma0x5yqWaak5KDfly) | [ANSONBEAN](https://open.spotify.com/artist/1SwnEZ4IUZF2CEsWOM0E2L), [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt), [AKIKO](https://open.spotify.com/artist/2Opwzcyz0gW62Gz9sbYTRZ) | [GET WILD \(feat\. AKIKO\)](https://open.spotify.com/album/2xPIIW6H5UcWKaplgKp0wT) | 2:51 |
-| 5 | [Stick with You](https://open.spotify.com/track/2LrkvWO2443XxHjFDzq3Jz) | [Walter Kwan](https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot) | [Stick with You](https://open.spotify.com/album/49xv1VRDu4J06GezkqFHr9) | 3:33 |
+| 5 | [Stick With You](https://open.spotify.com/track/2LrkvWO2443XxHjFDzq3Jz) | [Walter Kwan](https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot) | [Stick With You](https://open.spotify.com/album/49xv1VRDu4J06GezkqFHr9) | 3:33 |
 | 6 | [1973的遺跡](https://open.spotify.com/track/6VmZOgnW2EorJ3qD0hvpIO) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Trickie Bonnie](https://open.spotify.com/artist/1nfAcziGyKgEOo0pIw4pVy) | [1973的遺跡](https://open.spotify.com/album/0n8EXWlPfdWwjC9RxGAwgy) | 3:37 |
 | 7 | [我想 \- Demo](https://open.spotify.com/track/30vkBvXDoRoLWxedYA5D97) | [Winter Bagels](https://open.spotify.com/artist/5greJ5P16QGOFlMTnDH8F0) | [我想 \(Demo\)](https://open.spotify.com/album/428FM2z8PI5B4by19YTnF0) | 5:25 |
 | 8 | [穿梭](https://open.spotify.com/track/1kNOQ3199cr2d8Y268IIBP) | [風正](https://open.spotify.com/artist/4bJ89gRIHM14T4ZIzaBoEp) | [穿梭](https://open.spotify.com/album/6jT2iDwVI7lfuobzWAjfdb) | 2:58 |

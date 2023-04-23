@@ -4,7 +4,7 @@
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-124 songs - 8 hr 41 min
+125 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Sinzia](https://open.spotify.com/track/4mJmoECoteOkbB8BBn1M6Y) | [Nameless](https://open.spotify.com/artist/5e1OCdBgITL78zBRyW2wOf) | [Nameless Re\-Invented \(2006\-2014\)](https://open.spotify.com/album/2Jd8SpLLLOS8Yz9Tvt08bY) | 4:28 | 2022-02-10 |  |
 | [Skin Tight](https://open.spotify.com/track/43C8ga8Z7MkOc1TmEzXcJ3) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Skin Tight](https://open.spotify.com/album/0xkIlDRadF78PKqsAS2DSo) | 4:08 | 2022-02-10 |  |
 | [Sondela](https://open.spotify.com/track/749pe97jomnW5rw0mEjCkR) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ), [Sipho Mbele](https://open.spotify.com/artist/5zzBzuDDkT4uz1UWubvWh5) | [Sondela](https://open.spotify.com/album/7GeMrR8cQSwri1oBuAahiD) | 5:30 | 2022-02-10 |  |
-| [Stand By You](https://open.spotify.com/track/4uSn4uo2QYTJcENcvVri96) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Stand By You](https://open.spotify.com/album/4xyk3drYz00n2co5h3h2Kc) | 2:55 | 2023-02-14 |  |
+| [Stand By You](https://open.spotify.com/track/2g9WsbUkdYlffKK5Ao5BpR) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good EP](https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx) | 2:55 | 2023-03-17 |  |
+| [Stand By You](https://open.spotify.com/track/4uSn4uo2QYTJcENcvVri96) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Stand By You](https://open.spotify.com/album/4xyk3drYz00n2co5h3h2Kc) | 2:55 | 2023-02-14 | 2023-04-23 |
 | [Still The One](https://open.spotify.com/track/5WngjpIkyy6CPZMy9je2ob) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Live and Die In Afrika](https://open.spotify.com/album/4H5UZrxvT1OdPMDynLjFNL) | 4:25 | 2022-02-10 |  |
 | [Suited](https://open.spotify.com/track/1ANr6ZNtwd8klYxYdXLR7t) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Rose Gold](https://open.spotify.com/album/0iGhXnhrNFxaSnZN0CK6ML) | 3:53 | 2022-02-10 |  |
 | [Sweet Love](https://open.spotify.com/track/73EVyhT9Wq0diDaasJi9yu) | [Wahu](https://open.spotify.com/artist/71rskhiIZ7C255cRyXfZOq) | [Wahu Classics](https://open.spotify.com/album/0cu2ZwMtnug5JX2hIFpJY2) | 4:20 | 2022-02-10 |  |

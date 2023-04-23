@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: Bella Poarch",
-  "num_followers": 75927,
+  "num_followers": 75953,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTMyODI3MiwwMDAwMDAwMGU1M2VjZjc1YjExMmY2OWFjYWNiOWYyMzY1MTBiZmU3",
+  "snapshot_id": "MTY3OTMyODI3MiwwMDAwMDAwMGYxNjNkZTI3OTRiMWM0NWMwMTRiYWIyNjRkNjQwOWNh",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "What You Waiting For",
-        "url": "https://open.spotify.com/album/59iiiARciChm70cn85wxuH"
-      },
-      "artists": [
-        {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
-        }
-      ],
-      "duration_ms": 175327,
-      "name": "What You Waiting For",
-      "url": "https://open.spotify.com/track/4CoxD8tetisleUQDA7vn1B"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Shapeshift",
         "url": "https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 145173,
       "name": "Shapeshift",
       "url": "https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "What You Waiting For",
+        "url": "https://open.spotify.com/album/59iiiARciChm70cn85wxuH"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 175327,
+      "name": "What You Waiting For",
+      "url": "https://open.spotify.com/track/4CoxD8tetisleUQDA7vn1B"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "How Many Times Have You Driven By",
-        "url": "https://open.spotify.com/album/14oVfK6bX4Kqtgl3N0lOhh"
-      },
-      "artists": [
-        {
-          "name": "Hana Vu",
-          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
-        }
-      ],
-      "duration_ms": 164169,
-      "name": "Crying on the Subway",
-      "url": "https://open.spotify.com/track/75IJJjmjryq1SGHWlcMj2K"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Moxie (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/1u76mMnTzrzjxPYD37mMJq"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 161424,
       "name": "Rebel Girl",
       "url": "https://open.spotify.com/track/51nLSjsBKMYBJSvUI3q88D"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "How Many Times Have You Driven By",
+        "url": "https://open.spotify.com/album/14oVfK6bX4Kqtgl3N0lOhh"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "duration_ms": 164169,
+      "name": "Crying on the Subway",
+      "url": "https://open.spotify.com/track/75IJJjmjryq1SGHWlcMj2K"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Dance Like Nobody's Watching",
-        "url": "https://open.spotify.com/album/1KuHFlATr4aoVahHKY3pzU"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 225267,
-      "name": "Dance Like Nobody's Watching",
-      "url": "https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 282110,
       "name": "Power",
       "url": "https://open.spotify.com/track/7hDxkJFn3UsZgoWzDkyubD"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Dance Like Nobody's Watching",
+        "url": "https://open.spotify.com/album/1KuHFlATr4aoVahHKY3pzU"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 225267,
+      "name": "Dance Like Nobody's Watching",
+      "url": "https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1447,18 +1447,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Off the Rails",
-        "url": "https://open.spotify.com/album/1sgx3kIgK6i6MdxgK39ubi"
+        "name": "Phenomenon",
+        "url": "https://open.spotify.com/album/2DWRJ0Hgdt0krIxiz3Lu2Y"
       },
       "artists": [
         {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+          "name": "JVNA",
+          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
+        },
+        {
+          "name": "LICK",
+          "url": "https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs"
         }
       ],
-      "duration_ms": 175123,
-      "name": "Dramamine",
-      "url": "https://open.spotify.com/track/4tDM34i7tiUU4ztUdsAE5s"
+      "duration_ms": 218400,
+      "name": "Phenomenon",
+      "url": "https://open.spotify.com/track/3kmsAolICtnEFp5SLLO5Bn"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1483,6 +1487,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Off the Rails",
+        "url": "https://open.spotify.com/album/1sgx3kIgK6i6MdxgK39ubi"
+      },
+      "artists": [
+        {
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+        }
+      ],
+      "duration_ms": 175123,
+      "name": "Dramamine",
+      "url": "https://open.spotify.com/track/4tDM34i7tiUU4ztUdsAE5s"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Stomachache",
         "url": "https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP"
       },
@@ -1495,26 +1515,6 @@
       "duration_ms": 184500,
       "name": "Stomachache",
       "url": "https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Phenomenon",
-        "url": "https://open.spotify.com/album/2DWRJ0Hgdt0krIxiz3Lu2Y"
-      },
-      "artists": [
-        {
-          "name": "JVNA",
-          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
-        },
-        {
-          "name": "LICK",
-          "url": "https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "Phenomenon",
-      "url": "https://open.spotify.com/track/3kmsAolICtnEFp5SLLO5Bn"
     },
     {
       "added_at": "2023-03-10 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from The Weeknd & Future, Belly, Kim Petras & Nicki Minaj, and Foo Fighters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,689 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,698 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 67 | [Big Dawg](https://open.spotify.com/track/0w9uyR5HZCMK4NkEJlRhwN) | [Mouraine](https://open.spotify.com/artist/3Y548iWX29NIS9YgRL7wRr), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Big Dawg](https://open.spotify.com/album/4OMWjwKqzoRf3iuIydUftS) | 3:54 |
 | 68 | [Didn't Try](https://open.spotify.com/track/4He4Rux6cKDcijY55waOTe) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Didn't Try](https://open.spotify.com/album/3ELNR1CvykyZs6i7h5rO5g) | 2:55 |
 | 69 | [Don't Let Me Down](https://open.spotify.com/track/181PmaC6c39r59gfhDGKdh) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Don't Let Me Down](https://open.spotify.com/album/1PdRtUkny2sF2Hf1BbHsDU) | 3:55 |
-| 70 | [Gimmie A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 |
+| 70 | [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 |
 | 71 | [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 |
 | 72 | [New Era](https://open.spotify.com/track/0r0RHsWpc0KX6YxWjsBleL) | [Madalen Duke](https://open.spotify.com/artist/5qElg3REYcoPscmGLy0NmU) | [New Era](https://open.spotify.com/album/3pNw71vlPUvEwtnrIEaEsm) | 3:34 |
 | 73 | [Le blanc des yeux](https://open.spotify.com/track/49pEcB0pNVNQPh70gnRL1m) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Le blanc des yeux](https://open.spotify.com/album/0JAW79jDrxy7bv5INPuC4z) | 2:57 |

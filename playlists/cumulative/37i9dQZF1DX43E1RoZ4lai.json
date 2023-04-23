@@ -4182,6 +4182,24 @@
     {
       "album": {
         "name": "Colors",
+        "url": "https://open.spotify.com/album/5BOXnBBZJjf9LljGEAq9im"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Reinhardt",
+          "url": "https://open.spotify.com/artist/269JN3NUKhXFyIG1uGLWS4"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142410,
+      "name": "Murmuring Mornings",
+      "url": "https://open.spotify.com/track/7ErGdzdJWJbXFGs524JqGp"
+    },
+    {
+      "album": {
+        "name": "Colors",
         "url": "https://open.spotify.com/album/2iaDPe8A18N2P40cuHq8rx"
       },
       "artists": [
@@ -4510,7 +4528,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 356533,
       "name": "Normal",
       "url": "https://open.spotify.com/track/21LPdnK8KHB0G23Jsrxc7X"

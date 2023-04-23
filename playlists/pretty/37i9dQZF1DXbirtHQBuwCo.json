@@ -1,12 +1,12 @@
 {
   "description": "Enjoy trendy & chill Korean R&B music. (Cover: Hannah Jang(\uc7a5\ud55c\ub098))",
-  "num_followers": 836799,
+  "num_followers": 836958,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA1NzIzNywwMDAwMDAwMDk2YmU3Njc2YzUzZjU5ODVmMjY2N2FkNjJlOGQ4M2Jj",
+  "snapshot_id": "MTY4MjA1NzIzNywwMDAwMDAwMDAzYzcxZjNjMjQ2ZTBiYmJjMTBlNDNmNzEzNWZiYzRj",
   "tracks": [
     {
       "added_at": "2023-04-21 06:07:17",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-04-21 06:07:17",
       "album": {
-        "name": "Moodswings In To Order",
-        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 189946,
-      "name": "Ballroom Extravaganza",
-      "url": "https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln"
-    },
-    {
-      "added_at": "2023-04-21 06:07:17",
-      "album": {
         "name": "Peaches - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 198080,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw"
+    },
+    {
+      "added_at": "2023-04-21 06:07:17",
+      "album": {
+        "name": "Moodswings In To Order",
+        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 189946,
+      "name": "Ballroom Extravaganza",
+      "url": "https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln"
     },
     {
       "added_at": "2023-04-21 06:07:17",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-04-21 06:07:17",
       "album": {
-        "name": "Moodswings In To Order",
-        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 182480,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg"
-    },
-    {
-      "added_at": "2023-04-21 06:07:17",
-      "album": {
         "name": "Head In The Clouds Forever",
         "url": "https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv"
       },
@@ -603,6 +587,38 @@
       "duration_ms": 206680,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK"
+    },
+    {
+      "added_at": "2023-04-21 06:07:17",
+      "album": {
+        "name": "I AM SHAMPOO",
+        "url": "https://open.spotify.com/album/2MH5K8RTLoLzkpgtIYWFUe"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 141259,
+      "name": "I AM SHAMPOO",
+      "url": "https://open.spotify.com/track/164rrRJLHNzPKIR82BCDQU"
+    },
+    {
+      "added_at": "2023-04-21 06:07:17",
+      "album": {
+        "name": "Moodswings In To Order",
+        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 182480,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg"
     },
     {
       "added_at": "2023-04-21 06:07:17",
@@ -675,22 +691,6 @@
     {
       "added_at": "2023-04-21 06:07:17",
       "album": {
-        "name": "I AM SHAMPOO",
-        "url": "https://open.spotify.com/album/2MH5K8RTLoLzkpgtIYWFUe"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 141259,
-      "name": "I AM SHAMPOO",
-      "url": "https://open.spotify.com/track/164rrRJLHNzPKIR82BCDQU"
-    },
-    {
-      "added_at": "2023-04-21 06:07:17",
-      "album": {
         "name": "Circle - The 1st Album",
         "url": "https://open.spotify.com/album/0oJAypAuPQSssiLTvhNmxJ"
       },
@@ -707,18 +707,18 @@
     {
       "added_at": "2023-04-21 06:07:17",
       "album": {
-        "name": "Moodswings in This Order",
-        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
+        "name": "Bambi - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
       },
       "artists": [
         {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
         }
       ],
-      "duration_ms": 200373,
-      "name": "Dope Lovers",
-      "url": "https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86"
+      "duration_ms": 210893,
+      "name": "Cry For Love",
+      "url": "https://open.spotify.com/track/4QqROKO0RtV5CvxE7g90uw"
     },
     {
       "added_at": "2023-04-21 06:07:17",
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-04-21 06:07:17",
       "album": {
-        "name": "Bambi - The 3rd Mini Album",
-        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
+        "name": "Moodswings in This Order",
+        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
       },
       "artists": [
         {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
         }
       ],
-      "duration_ms": 210893,
-      "name": "Cry For Love",
-      "url": "https://open.spotify.com/track/4QqROKO0RtV5CvxE7g90uw"
+      "duration_ms": 200373,
+      "name": "Dope Lovers",
+      "url": "https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86"
     },
     {
       "added_at": "2023-04-21 06:07:17",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-04-21 06:07:17",
       "album": {
-        "name": "WAYO",
-        "url": "https://open.spotify.com/album/391Rvtlm88VGNp8ls7FVbB"
+        "name": "Delight - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
       },
       "artists": [
         {
-          "name": "BANG YE DAM",
-          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
         }
       ],
-      "duration_ms": 205164,
-      "name": "WAYO",
-      "url": "https://open.spotify.com/track/0BOVjtn27VIF8Ph0CSIKyG"
+      "duration_ms": 205293,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY"
     },
     {
       "added_at": "2023-04-21 06:07:17",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-04-21 06:07:17",
       "album": {
-        "name": "Delight - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+        "name": "WAYO",
+        "url": "https://open.spotify.com/album/391Rvtlm88VGNp8ls7FVbB"
       },
       "artists": [
         {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+          "name": "BANG YE DAM",
+          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
         }
       ],
-      "duration_ms": 205293,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY"
+      "duration_ms": 205164,
+      "name": "WAYO",
+      "url": "https://open.spotify.com/track/0BOVjtn27VIF8Ph0CSIKyG"
     },
     {
       "added_at": "2023-04-21 06:07:17",
@@ -947,22 +947,22 @@
     {
       "added_at": "2023-04-21 06:07:17",
       "album": {
-        "name": "Gotta Get Back (feat. Pink Sweat$)",
-        "url": "https://open.spotify.com/album/1jdmu8Za7AUiiHTOi6u5tO"
+        "name": "Sun And Moon",
+        "url": "https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX"
       },
       "artists": [
         {
-          "name": "P1Harmony",
-          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
         },
         {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 179333,
-      "name": "Gotta Get Back (feat. Pink Sweat$)",
-      "url": "https://open.spotify.com/track/5760o7vIytByWNmmf115wj"
+      "duration_ms": 207493,
+      "name": "Make Up (Feat. Crush)",
+      "url": "https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9"
     },
     {
       "added_at": "2023-04-21 06:07:17",
@@ -983,22 +983,22 @@
     {
       "added_at": "2023-04-21 06:07:17",
       "album": {
-        "name": "Sun And Moon",
-        "url": "https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX"
+        "name": "Gotta Get Back (feat. Pink Sweat$)",
+        "url": "https://open.spotify.com/album/1jdmu8Za7AUiiHTOi6u5tO"
       },
       "artists": [
         {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+          "name": "P1Harmony",
+          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
         },
         {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
         }
       ],
-      "duration_ms": 207493,
-      "name": "Make Up (Feat. Crush)",
-      "url": "https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9"
+      "duration_ms": 179333,
+      "name": "Gotta Get Back (feat. Pink Sweat$)",
+      "url": "https://open.spotify.com/track/5760o7vIytByWNmmf115wj"
     },
     {
       "added_at": "2023-04-21 06:07:17",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-04-21 06:07:17",
       "album": {
-        "name": "Irene",
-        "url": "https://open.spotify.com/album/1lQl6XgV5kmfxQQDGNo71F"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 199672,
-      "name": "Irene",
-      "url": "https://open.spotify.com/track/3TaUP2qulb5m6gKDdPqV3k"
-    },
-    {
-      "added_at": "2023-04-21 06:07:17",
-      "album": {
         "name": "\uae34 \ubc24 (feat. GIRIBOY)",
         "url": "https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 184833,
       "name": "maybe we need a break",
       "url": "https://open.spotify.com/track/4KnjQKwfL4kd1hD4jHZ7XT"
+    },
+    {
+      "added_at": "2023-04-21 06:07:17",
+      "album": {
+        "name": "Irene",
+        "url": "https://open.spotify.com/album/1lQl6XgV5kmfxQQDGNo71F"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 199672,
+      "name": "Irene",
+      "url": "https://open.spotify.com/track/3TaUP2qulb5m6gKDdPqV3k"
     },
     {
       "added_at": "2023-04-21 06:07:17",

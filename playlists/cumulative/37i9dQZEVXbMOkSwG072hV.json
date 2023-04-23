@@ -458,10 +458,28 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 125022,
       "name": "A Culpa \u00c9 Nossa",
       "url": "https://open.spotify.com/track/0ztw1QwpoVfXxUGZSl4XOY"
+    },
+    {
+      "album": {
+        "name": "Seresta de Ver\u00e3o",
+        "url": "https://open.spotify.com/album/7lGnKvbvAPLpYnN8i0Hkvx"
+      },
+      "artists": [
+        {
+          "name": "Nadson O Ferinha",
+          "url": "https://open.spotify.com/artist/7KdmibNmW5J0q5YtGnJqQ8"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125022,
+      "name": "A Culpa \u00c9 Nossa",
+      "url": "https://open.spotify.com/track/1JmwLlpzLkuDxLyOPlMsYT"
     },
     {
       "album": {
@@ -3480,7 +3498,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 168857,
       "name": "Boa Noite, DEUS (Sped Up)",
       "url": "https://open.spotify.com/track/6JcfaecQ8RsDQXTFqs7zJl"
@@ -6416,7 +6434,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 137142,
       "name": "Deus Perdoa",
       "url": "https://open.spotify.com/track/4tuFNhM69UakXdPg4RrNvp"
@@ -6965,6 +6983,24 @@
     },
     {
       "album": {
+        "name": "Duas",
+        "url": "https://open.spotify.com/album/7uRtluQ9JDz5iuhTHsC65J"
+      },
+      "artists": [
+        {
+          "name": "Nadson O Ferinha",
+          "url": "https://open.spotify.com/artist/7KdmibNmW5J0q5YtGnJqQ8"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137848,
+      "name": "Duas",
+      "url": "https://open.spotify.com/track/6MpYP4LUSb1MWfpsdToKyH"
+    },
+    {
+      "album": {
         "name": "Duas Doses",
         "url": "https://open.spotify.com/album/0ekNA7uYau9DF65F5ESe0e"
       },
@@ -7120,6 +7156,24 @@
       "duration_ms": 216000,
       "name": "E Se Eu Falasse o Que Sinto?",
       "url": "https://open.spotify.com/track/68WBThXJjEP9XyzFHppAdX"
+    },
+    {
+      "album": {
+        "name": "Ef\u00e9sios 6",
+        "url": "https://open.spotify.com/album/3FrcxldqY96NERwlHEJSr7"
+      },
+      "artists": [
+        {
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188693,
+      "name": "Ef\u00e9sios 6",
+      "url": "https://open.spotify.com/track/2dhIDexkVJQik8kzjBcrZd"
     },
     {
       "album": {
@@ -14375,6 +14429,24 @@
     },
     {
       "album": {
+        "name": "Scream",
+        "url": "https://open.spotify.com/album/1LzQ8k1PDyXvy5pjCcfaZT"
+      },
+      "artists": [
+        {
+          "name": "Tokio Hotel",
+          "url": "https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241426,
+      "name": "Monsoon",
+      "url": "https://open.spotify.com/track/32Ky5QCRtwYJJXuLwoGufj"
+    },
+    {
+      "album": {
         "name": "MONTAGEM - ASSOMBRA MATRIX 2",
         "url": "https://open.spotify.com/album/4vawRlzVPmDTJ68vgTtwwP"
       },
@@ -16050,7 +16122,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 180923,
       "name": "N\u00e3o Para",
       "url": "https://open.spotify.com/track/77BR4gaUAp3p0uA8UL6HT9"
@@ -19608,7 +19680,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 125508,
       "name": "RITMADINHA DAN\u00c7ANTE",
       "url": "https://open.spotify.com/track/4sVrOA0sytAzv102tnQmr7"
@@ -22106,6 +22178,24 @@
       "duration_ms": 154347,
       "name": "S\u00f3 N\u00e3o Marca N\u00f3is - Ao Vivo",
       "url": "https://open.spotify.com/track/70EIpK1oJi8a2JWTgmkdMf"
+    },
+    {
+      "album": {
+        "name": "Z\u00e9 Madruga e Jacinto Leite, Vol. 01",
+        "url": "https://open.spotify.com/album/3CjrXtOikxVs6Vnfz8akUw"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Madruga e Jacinto Leite",
+          "url": "https://open.spotify.com/artist/7JkrtEcbS8Toi5uke5nQoY"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106274,
+      "name": "S\u00f3 Observando",
+      "url": "https://open.spotify.com/track/0mVWgYJtXkfKt74Xm2eaYf"
     },
     {
       "album": {

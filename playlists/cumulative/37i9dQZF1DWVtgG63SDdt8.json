@@ -9734,7 +9734,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 384519,
-      "name": "Clay",
+      "name": "Clay - Single Version",
       "url": "https://open.spotify.com/track/3paXzK67mh2b4TLCFkwjrN"
     },
     {
@@ -61261,20 +61261,28 @@
     },
     {
       "album": {
-        "name": "Verge of a Miracle (Live)",
+        "name": "Verge of a Miracle (feat. Danielle Munizzi) [Live]",
         "url": "https://open.spotify.com/album/1Qesw5ep6UkfCBQwhDq0MR"
       },
       "artists": [
         {
           "name": "Metro Life Worship",
           "url": "https://open.spotify.com/artist/7KkrNnMiMaKtIY87vYGGNK"
+        },
+        {
+          "name": "Mary Alessi",
+          "url": "https://open.spotify.com/artist/2UIP3nP9br1L5Gu2OFE5F2"
+        },
+        {
+          "name": "Danielle Munizzi",
+          "url": "https://open.spotify.com/artist/7L6CGixk79d0u82EEfoGYQ"
         }
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 342377,
-      "name": "Verge of a Miracle - Live",
+      "name": "Verge of a Miracle (feat. Danielle Munizzi) - Live",
       "url": "https://open.spotify.com/track/0xiNUYxC3yhWbuXn2cy7cE"
     },
     {

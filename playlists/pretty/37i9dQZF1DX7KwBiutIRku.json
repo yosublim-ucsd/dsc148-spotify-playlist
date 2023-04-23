@@ -1,12 +1,12 @@
 {
   "description": "Southern boogie, swinging blues rock and classic boogie rock. Cover: ZZ Top",
-  "num_followers": 58852,
+  "num_followers": 58924,
   "original_name": "Boogie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg5Njg2OCwwMDAwMDAwMGJmNWE4ODRhNDk4ZWZlYTNhZjEwYWMwMzQ3NjAxMTg2",
+  "snapshot_id": "MTYzODg5Njg2OCwwMDAwMDAwMDMzMjRmNGNhNjk3NmM0YjI2ZjZlMjVhMzgyODY3YWJh",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -283,6 +283,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Not Fragile",
+        "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
+      },
+      "artists": [
+        {
+          "name": "Bachman-Turner Overdrive",
+          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
+        }
+      ],
+      "duration_ms": 223840,
+      "name": "Blue Moanin'",
+      "url": "https://open.spotify.com/track/33DnCxTMS3xPD3Xr8tEva5"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Hooker 'N Heat",
         "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 214466,
       "name": "Casino Boogie",
       "url": "https://open.spotify.com/track/3NDEunNz7GMb6SkkPYTvd2"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Not Fragile",
-        "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
-      },
-      "artists": [
-        {
-          "name": "Bachman-Turner Overdrive",
-          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
-        }
-      ],
-      "duration_ms": 223840,
-      "name": "Blue Moanin'",
-      "url": "https://open.spotify.com/track/33DnCxTMS3xPD3Xr8tEva5"
     },
     {
       "added_at": "2020-12-01 05:01:00",

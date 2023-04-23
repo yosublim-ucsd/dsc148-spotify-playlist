@@ -4065,6 +4065,24 @@
     },
     {
       "album": {
+        "name": "Hard to say goodbye",
+        "url": "https://open.spotify.com/album/75pHmigwsMSjUX1etl9gHh"
+      },
+      "artists": [
+        {
+          "name": "Cinthya Garcia",
+          "url": "https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134123,
+      "name": "Garcia: Hard to say goodbye",
+      "url": "https://open.spotify.com/track/0ZU1CweQ9ineKlc9fOrakS"
+    },
+    {
+      "album": {
         "name": "Gentle",
         "url": "https://open.spotify.com/album/4MVDKPNV0q07arvLobByMW"
       },
@@ -4314,24 +4332,6 @@
       "duration_ms": 163764,
       "name": "Hansa",
       "url": "https://open.spotify.com/track/71WIo1goJLTt41X5CuxxOd"
-    },
-    {
-      "album": {
-        "name": "Hard to say goodbye",
-        "url": "https://open.spotify.com/album/75pHmigwsMSjUX1etl9gHh"
-      },
-      "artists": [
-        {
-          "name": "Cinthya Garcia",
-          "url": "https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv"
-        }
-      ],
-      "date_added": "2022-04-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 134123,
-      "name": "Hard to say goodbye",
-      "url": "https://open.spotify.com/track/0ZU1CweQ9ineKlc9fOrakS"
     },
     {
       "album": {

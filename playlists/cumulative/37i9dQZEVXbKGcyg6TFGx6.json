@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172252,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/36gcliMRX1vCpgnrZE3dFZ"
+    },
+    {
+      "album": {
         "name": "10:35",
         "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
       },
@@ -42,7 +64,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
@@ -637,6 +659,28 @@
     },
     {
       "album": {
+        "name": "Sremm 4 Life",
+        "url": "https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67"
+      },
+      "artists": [
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282683,
+      "name": "Activate (feat. Future)",
+      "url": "https://open.spotify.com/track/5PRdakfAVoACShGYP4zOsj"
+    },
+    {
+      "album": {
         "name": "Adrenalina",
         "url": "https://open.spotify.com/album/67bLwGrXGnZrC1YUdsLzle"
       },
@@ -786,7 +830,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 153674,
       "name": "All Night",
       "url": "https://open.spotify.com/track/4taclmQm9wFcK4dKQjR5ny"
@@ -1204,7 +1248,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 200690,
       "name": "Anti-Hero",
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
@@ -1614,6 +1658,24 @@
       "duration_ms": 206271,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/4KD0lLJ4OGonZhBeKtct9I"
+    },
+    {
+      "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/3oG2PC7idtns1WCvtC3YpF"
+      },
+      "artists": [
+        {
+          "name": "Erd1",
+          "url": "https://open.spotify.com/artist/3LszmpddOPySljVKFSmKl2"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160756,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/58XDaOVTilqYx3l0hImdSZ"
     },
     {
       "album": {
@@ -2732,7 +2794,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 176746,
       "name": "Bolide allemand",
       "url": "https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj"
@@ -3716,7 +3778,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 184013,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
@@ -3752,7 +3814,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 95062,
       "name": "Choppa",
       "url": "https://open.spotify.com/track/1kodRXF1jAs7T32nu0jgl3"
@@ -3973,6 +4035,28 @@
     },
     {
       "album": {
+        "name": "Cinnamon Roll",
+        "url": "https://open.spotify.com/album/0Atiw1JYVuOME3nhZKa4yZ"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167821,
+      "name": "Cinnamon Roll",
+      "url": "https://open.spotify.com/track/3TiDVckwzL4Y1StEXFYGt7"
+    },
+    {
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -4104,7 +4188,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 192213,
       "name": "COEUR DE ICE (feat. Damso)",
       "url": "https://open.spotify.com/track/7jbu9k6w67hWlhSinmGT3c"
@@ -5748,6 +5832,28 @@
       "duration_ms": 123146,
       "name": "Doppel G",
       "url": "https://open.spotify.com/track/6Pk9SrYcNROzVANFESonWh"
+    },
+    {
+      "album": {
+        "name": "Double Fantasy",
+        "url": "https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268235,
+      "name": "Double Fantasy (with Future)",
+      "url": "https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi"
     },
     {
       "album": {
@@ -9448,7 +9554,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 151216,
       "name": "In The Air",
       "url": "https://open.spotify.com/track/28no7gwdF7PBCQQMuwHmXL"
@@ -10262,7 +10368,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
@@ -10880,6 +10986,24 @@
       "duration_ms": 202395,
       "name": "Lavender Haze",
       "url": "https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC"
+    },
+    {
+      "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px"
     },
     {
       "album": {
@@ -11898,7 +12022,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 192631,
       "name": "Lua",
       "url": "https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3"
@@ -12152,6 +12276,32 @@
       "duration_ms": 167855,
       "name": "Maintain",
       "url": "https://open.spotify.com/track/069Neoz83IN2mrFUxo3hpY"
+    },
+    {
+      "album": {
+        "name": "Elocuencia",
+        "url": "https://open.spotify.com/album/6atOxPYzTYEzP1296idn6t"
+      },
+      "artists": [
+        {
+          "name": "BillyNewWave",
+          "url": "https://open.spotify.com/artist/7tl9Tk6ykjhNTbPVGf2XDM"
+        },
+        {
+          "name": "RAYZ",
+          "url": "https://open.spotify.com/artist/6quSeUNK1c3NG1tb2OuCZA"
+        },
+        {
+          "name": "Trig",
+          "url": "https://open.spotify.com/artist/61vNL88MBtvZHoY9PEwnxt"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188019,
+      "name": "Maintenant",
+      "url": "https://open.spotify.com/track/54sCSxdJfs10N4xG2fZKnM"
     },
     {
       "album": {
@@ -12422,6 +12572,24 @@
       "duration_ms": 240363,
       "name": "Martin's Sofa",
       "url": "https://open.spotify.com/track/6iJUSrA6XoX4FNLGPqzHOv"
+    },
+    {
+      "album": {
+        "name": "Masa",
+        "url": "https://open.spotify.com/album/6PM04amRSxki7JgErkBnuE"
+      },
+      "artists": [
+        {
+          "name": "Ciobo",
+          "url": "https://open.spotify.com/artist/7obsig9px1e6fPXYg0yMoY"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130881,
+      "name": "Masa",
+      "url": "https://open.spotify.com/track/3yx3x8DPdz1bolllDMmhC9"
     },
     {
       "album": {
@@ -13776,7 +13944,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 160166,
       "name": "Never Felt So Alone",
       "url": "https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo"
@@ -14203,6 +14371,24 @@
     },
     {
       "album": {
+        "name": "Sremm 4 Life",
+        "url": "https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67"
+      },
+      "artists": [
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198904,
+      "name": "Not So Bad (Leans Gone Cold)",
+      "url": "https://open.spotify.com/track/4qZLvqy5Wg4sgQ9gKusb1B"
+    },
+    {
+      "album": {
         "name": "Nur ein Song (I Need Some Sleep)",
         "url": "https://open.spotify.com/album/0mIMkAR1AK9yEls80nzUPc"
       },
@@ -14566,7 +14752,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 200357,
       "name": "Orange",
       "url": "https://open.spotify.com/track/7jvwORp293fGCP6KfmE8aQ"
@@ -14980,6 +15166,24 @@
       "duration_ms": 198081,
       "name": "Peaches (feat. Daniel Caesar & Giveon)",
       "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
+    },
+    {
+      "album": {
+        "name": "Pedagogy",
+        "url": "https://open.spotify.com/album/1tDEbXIXjG6fpuCIhrKy2D"
+      },
+      "artists": [
+        {
+          "name": "\u0130yianlar",
+          "url": "https://open.spotify.com/artist/5EkmCIF7GLxAzyNExBOQZC"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346829,
+      "name": "Pedagogy",
+      "url": "https://open.spotify.com/track/5lI2CYgh6VliuOR2XsLnX6"
     },
     {
       "album": {
@@ -16342,6 +16546,28 @@
       "duration_ms": 189926,
       "name": "Room 69",
       "url": "https://open.spotify.com/track/3dl81ypaK6k0y0RCszBKS4"
+    },
+    {
+      "album": {
+        "name": "Sremm 4 Life",
+        "url": "https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67"
+      },
+      "artists": [
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Royal Flush (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/6iN3ICXAJjrNuSAlWMzwz7"
     },
     {
       "album": {
@@ -19134,7 +19360,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 247067,
       "name": "THE LONELIEST",
       "url": "https://open.spotify.com/track/7exHT4swWOKL5addPeqkLP"
@@ -19630,7 +19856,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 167933,
       "name": "TOUTE LA JOURN\u00c9E (feat. Tiakola)",
       "url": "https://open.spotify.com/track/6QPFWJJLKKPjnwRQJ1OwSC"
@@ -19736,7 +19962,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 194786,
       "name": "Trance (with Travis Scott & Young Thug)",
       "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"
@@ -20002,6 +20228,24 @@
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
+    },
+    {
+      "album": {
+        "name": "Unisoq",
+        "url": "https://open.spotify.com/album/67BOSTFQnZLSKAXlXM0U85"
+      },
+      "artists": [
+        {
+          "name": "Turkish Coffee",
+          "url": "https://open.spotify.com/artist/5mN52Pk8WNPxRbd7V5h64a"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353454,
+      "name": "Unisoq",
+      "url": "https://open.spotify.com/track/257244n9ZaTJSuX7Y84Ux3"
     },
     {
       "album": {
@@ -20736,7 +20980,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"

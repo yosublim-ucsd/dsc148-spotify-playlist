@@ -3368,17 +3368,13 @@
           "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
         },
         {
-          "name": "Abhijit Vaghani",
-          "url": "https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4"
-        },
-        {
-          "name": "Bob",
-          "url": "https://open.spotify.com/artist/69TcMkhvenAeokIhBGIUCQ"
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
         }
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 222500,
       "name": "Duniyaa (From \"Luka Chuppi\")",
       "url": "https://open.spotify.com/track/2tjWCe2W7sgvS3C8NHcdtI"
@@ -6144,7 +6140,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 223459,
       "name": "Kabira",
       "url": "https://open.spotify.com/track/4bD9z9qa4qg9BhryvYWB7c"
@@ -6380,7 +6376,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-17",
+      "date_removed": null,
       "duration_ms": 77252,
       "name": "Kali Kali Zulfon Ke (Lo-Fi)",
       "url": "https://open.spotify.com/track/3mUkVsovIuscQlSoMhmAZt"
@@ -7909,6 +7905,24 @@
     },
     {
       "album": {
+        "name": "Manjha",
+        "url": "https://open.spotify.com/album/1N9rGbn2M9lzU6YcJ6081E"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191647,
+      "name": "Manjha",
+      "url": "https://open.spotify.com/track/0UZLaEOSIc5kg0cc7eszqC"
+    },
+    {
+      "album": {
         "name": "Mann Bharryaa 2.0 (From \"Shershaah\")",
         "url": "https://open.spotify.com/album/37nWpT1gls52Tu6pymuPw3"
       },
@@ -8362,7 +8376,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 132158,
       "name": "Mere Liye Tum Kaafi Ho (From \"Shubh Mangal Zyada Saavdhan\")",
       "url": "https://open.spotify.com/track/3qrdLVOClRU4yPkcXZ7c5u"
@@ -8520,7 +8534,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -10838,7 +10852,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 195253,
       "name": "Saibo",
       "url": "https://open.spotify.com/track/6udC4b4jOSnHb9ItnXgKLR"
@@ -12282,7 +12296,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 114418,
       "name": "TERE TE",
       "url": "https://open.spotify.com/track/6TClJ8jXi3OBV7gcrU3jx5"
@@ -13264,7 +13278,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
@@ -13682,7 +13696,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 199205,
       "name": "We Rollin",
       "url": "https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE"

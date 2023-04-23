@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Tropical jams to catch a vibe and whine to\. Cover: Davido
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,337 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,382 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 30 | [OSHEY](https://open.spotify.com/track/1zRY2bVIDw73tMnkdKdQeL) | [Quadzzy](https://open.spotify.com/artist/29daVwOn1cciWR8Vu5WOLP) | [OSHEY](https://open.spotify.com/album/2uaFc5Zvs5T69cvf2C0GY1) | 2:35 |
 | 31 | [Can't Trust No One](https://open.spotify.com/track/74CDK3OK2RLFYpG9pmAzPf) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [Can't Trust No One](https://open.spotify.com/album/6rOleL2fq14KTix1rLR6cn) | 3:45 |
 | 32 | [Aboboyaa \(feat\. Burna Boy\)](https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 2:46 |
-| 33 | [Stand By You](https://open.spotify.com/track/4uSn4uo2QYTJcENcvVri96) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Stand By You](https://open.spotify.com/album/4xyk3drYz00n2co5h3h2Kc) | 2:55 |
+| 33 | [Stand By You](https://open.spotify.com/track/2g9WsbUkdYlffKK5Ao5BpR) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good EP](https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx) | 2:55 |
 | 34 | [Running](https://open.spotify.com/track/5CHCDAxj4UPBR44hV2eDvt) | [DANNY LANKE](https://open.spotify.com/artist/72jomA4QZXljUKTgZrnOSN) | [Running](https://open.spotify.com/album/7rM3bacCaydjpENsDr5CWu) | 3:01 |
 | 35 | [Mamgobhozi](https://open.spotify.com/track/6bzWAiIR1YNGcnBeFYQBl5) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mamgobhozi](https://open.spotify.com/album/3stGihwj49yO2EJ6Ovl598) | 3:56 |
 | 36 | [Soso Mai](https://open.spotify.com/track/39030A2PhWJtYg3PPKkNOG) | [Jae.T](https://open.spotify.com/artist/6Rx1JQuAXOs63XpMRw2x3P) | [Soso Mai](https://open.spotify.com/album/4nEIahbsw2ubuSBkYR87Vr) | 2:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 74 | [LAVIDA](https://open.spotify.com/track/5i49kt8tpc85VbOHx3lz0T) | [Raf Receipt](https://open.spotify.com/artist/1VKRxxtnMP0EYuTmJ52m95) | [LAVIDA](https://open.spotify.com/album/6FUol8gRcthNNFKVVv9XBY) | 2:37 |
 | 75 | [Anogo](https://open.spotify.com/track/4TS6GJz8xn4suZRv3yHUnf) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Anogo](https://open.spotify.com/album/09SRcm2Hxpmf2N9zRFouhT) | 3:10 |
 
-Snapshot ID: `MTY4MTk5ODU2MywwMDAwMDAwMGY3MTc2OTkxNGU2YTE4NmY0MTc3NDAzYzcxYzViMDUx`
+Snapshot ID: `MTY4MTk5ODU2MywwMDAwMDAwMDg3NzU4YjU1MjFmMmNiZjJiNzk2ZTQ0MDg0NzQzYmY5`

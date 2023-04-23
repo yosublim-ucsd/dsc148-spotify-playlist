@@ -4,7 +4,7 @@
 
 > The best new indie songs every Friday\. Cover: MUNA
 
-5,169 songs - 12 day 14 hr 51 min
+5,170 songs - 12 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1716,9 +1716,9 @@
 | [giant bat](https://open.spotify.com/track/5A94EgW2h2ytR5I67t47D8) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [giant bat and sad sad](https://open.spotify.com/album/778YyX57Jjc3wnsRgeq32N) | 2:34 | 2020-10-30 | 2020-12-22 |
 | [Giant Palm](https://open.spotify.com/track/41XytH4NEWIuuketVPDrLv) | [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok) | [Giant Palm](https://open.spotify.com/album/6ovv5BhFVVHOusujVm5LIf) | 4:36 | 2022-07-08 | 2022-07-30 |
 | [Gibson Girl](https://open.spotify.com/track/2C5C6grASn2TzfsrGu54tZ) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Gibson Girl](https://open.spotify.com/album/5iQkSBngJVrm7mbhQ6iFaT) | 5:42 | 2022-03-18 | 2022-05-07 |
+| [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 | 2023-04-21 |  |
 | [Gimme Back My Soul](https://open.spotify.com/track/0FuxavKPV5DXap0xk0TRIS) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Health](https://open.spotify.com/album/45Se7nUO9QHVJumwXIejpd) | 3:16 | 2023-01-27 | 2023-03-11 |
 | [Gimme Gimme](https://open.spotify.com/track/28KvBqylKvgLkKAVvgyWeG) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Gimme Gimme](https://open.spotify.com/album/3oV4BiUlakaHq1gkD7JOLo) | 3:32 | 2019-11-09 | 2020-01-17 |
-| [Gimmie A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 | 2023-04-21 |  |
 | [Girl](https://open.spotify.com/track/7JZsCSCCHIBT40GX5Zcf6O) | [Girl Ray](https://open.spotify.com/artist/0MoDfakkeeD4FwftxAXwEd) | [Girl](https://open.spotify.com/album/6SqBL8JlUuyzX3SR6nTQYf) | 3:34 | 2019-10-11 | 2019-11-15 |
 | [Girl](https://open.spotify.com/track/1wQBI2DEYltF2XlKs07D7G) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Girl](https://open.spotify.com/album/1XDMRGqkkBwQYLgNKCGFlt) | 3:31 | 2022-10-14 | 2022-12-03 |
 | [GIRLFRIEND SONG](https://open.spotify.com/track/2QVs38RF95zCnylGTeYsAk) | [Devon](https://open.spotify.com/artist/2CXVeT982HeechgvKI3f2v) | [GIRLFRIEND SONG](https://open.spotify.com/album/0bXvu05qQvg89TY89kYDVH) | 3:44 | 2022-04-29 | 2022-05-17 |
@@ -3452,7 +3452,8 @@
 | [Pictures of You](https://open.spotify.com/track/04Ol1Crx7wXvJUR5d72SlG) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Pictures of You](https://open.spotify.com/album/4VykpJKWx1lQ0b4r9cRCTP) | 3:09 | 2022-10-14 | 2022-10-31 |
 | [Pictures of You](https://open.spotify.com/track/1XXwItGFhOuvQmopWby2dP) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Hiding in Plain Sight](https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN) | 3:09 | 2022-10-14 | 2022-12-03 |
 | [PIE](https://open.spotify.com/track/0KcTD05hia7B7ZfzjFRndQ) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [PIE](https://open.spotify.com/album/22fp7i3KzHaVtiEX0IkqKB) | 2:56 | 2021-10-02 | 2021-11-20 |
-| [Piece of Art](https://open.spotify.com/track/48igULTT3gZFYS1FOxCQQ6) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Watching Strangers Smile](https://open.spotify.com/album/4EFSsesDCNX5l1EalI2mRS) | 4:04 | 2023-04-07 |  |
+| [Piece of Art](https://open.spotify.com/track/0CF9ZyQR7X9DpgwJSBOwja) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Watching Strangers Smile](https://open.spotify.com/album/0zpSsEuwv5VbuiyuvfpjmZ) | 4:04 | 2023-04-07 |  |
+| [Piece of Art](https://open.spotify.com/track/48igULTT3gZFYS1FOxCQQ6) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Watching Strangers Smile](https://open.spotify.com/album/4EFSsesDCNX5l1EalI2mRS) | 4:04 | 2023-04-07 | 2023-04-23 |
 | [Piece Of My Mind](https://open.spotify.com/track/39IO8ecvUkYbbgtP9Q8CxU) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Piece Of My Mind](https://open.spotify.com/album/3SXpSwAS8NCHsPBU2IKAkC) | 3:20 | 2021-09-04 | 2021-10-16 |
 | [Pigeon](https://open.spotify.com/track/4VxBenJrB6VLIfp4eoCajo) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/4vt0V1SmkaK1Y440P5Nsb4) | 2:38 | 2019-05-26\* | 2019-06-21 |
 | [Pigments](https://open.spotify.com/track/2SNezc45F1DoS8YLyck2JF) | [Ava Luna](https://open.spotify.com/artist/7xkkeemZnfafRwrWEtlyaN) | [Pigments](https://open.spotify.com/album/383TSg8dFxbCItY7RJovWa) | 2:56 | 2019-06-14 | 2019-06-21 |

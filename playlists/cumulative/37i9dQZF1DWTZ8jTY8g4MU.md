@@ -4,7 +4,7 @@
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: محمد بن غرمان
 
-144 songs - 9 hr 29 min
+145 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [أنتي أكبر](https://open.spotify.com/track/4Dyv4PULciAiylUZDaAZ44) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [أنتي أكبر](https://open.spotify.com/album/7asaCaeTkHpEKP1ALcFace) | 4:21 | 2022-08-31 | 2023-02-23 |
 | [ابغاه الحين](https://open.spotify.com/track/3bSKCiMBqevLYJpL6OqWtk) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [ابغاه الحين](https://open.spotify.com/album/2vfrNrMYfCtsB9PtB9UEfQ) | 3:53 | 2022-03-30 | 2022-11-03 |
 | [ابغاه الحين](https://open.spotify.com/track/5PU7FkNMWhVfBWrY2PCKRw) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [ابغاه الحين](https://open.spotify.com/album/3pccDVrduMom4y99HiIJEL) | 3:53 | 2022-08-31 | 2023-03-15 |
+| [اخيه](https://open.spotify.com/track/4P6D9ROkAtysEWiZRcNzuM) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [اخيه](https://open.spotify.com/album/4Z10ZUHno1gQnstT585x93) | 3:49 | 2023-04-22 |  |
 | [ارحبوا في محافلنا](https://open.spotify.com/track/2a1pjwjBwXjRKtbcxB43t0) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep), [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [ارحبوا في محافلنا](https://open.spotify.com/album/1aWnu4kphrgnc6VCmk9Mqc) | 4:54 | 2023-01-27 | 2023-03-15 |
 | [اسرقني بعينك](https://open.spotify.com/track/2btTUVu43lXrCQzHLGbg6S) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [اسرقني بعينك](https://open.spotify.com/album/6KTTNe2nEBWO8dQjHk1HGA) | 3:56 | 2023-02-23 |  |
 | [الا ياكبر حظي](https://open.spotify.com/track/1C1mHhtTjd84PT1zujIam1) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [الا ياكبر حظي](https://open.spotify.com/album/18lBGe0MHzFRISPPSUkGr8) | 5:31 | 2022-03-30 | 2022-06-14 |
@@ -51,7 +52,7 @@
 | [الوصل مقطوع](https://open.spotify.com/track/2fPCXvO40Yl12NPsE6xsVC) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [الوصل مقطوع](https://open.spotify.com/album/1ymFv5EHkfSK52jso4HnxB) | 4:39 | 2022-08-31 | 2023-02-23 |
 | [الوصل مقطوع](https://open.spotify.com/track/3uw7nWTOV3QvBH176qsGWI) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [الوصل مقطوع](https://open.spotify.com/album/0ZV54R8Vib8NUqVMfchB2j) | 4:39 | 2022-03-30 | 2022-11-03 |
 | [انا المخطي](https://open.spotify.com/track/2swUzeYPuT4sM5fOF3fWhF) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [انا المخطي](https://open.spotify.com/album/3BSglbJHaNmKZLmkAJRU11) | 3:32 | 2022-03-30 | 2022-11-02 |
-| [انا المخطي](https://open.spotify.com/track/3JzpfzTYzuu8ht2l62fhr1) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [انا المخطي](https://open.spotify.com/album/0iy88of5hWokaz8lg6UfBW) | 3:32 | 2022-08-31 |  |
+| [انا المخطي](https://open.spotify.com/track/3JzpfzTYzuu8ht2l62fhr1) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [انا المخطي](https://open.spotify.com/album/0iy88of5hWokaz8lg6UfBW) | 3:32 | 2022-08-31 | 2023-04-23 |
 | [بتروح عادي](https://open.spotify.com/track/2GxR28DVvyvL5VX6H45Wa0) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [بتروح عادي](https://open.spotify.com/album/4CFE56Ty8V8uTMwaEDQki7) | 3:16 | 2022-03-30 | 2022-11-02 |
 | [بتروح عادي](https://open.spotify.com/track/5EV02yzvrRIECmP67v53Do) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [بتروح عادي](https://open.spotify.com/album/4RPceVZW72FOh9mo7oXLPB) | 3:16 | 2022-08-31 | 2023-04-06 |
 | [تجاهلني](https://open.spotify.com/track/6R6zmKXsboLCYQ3hMNJlD4) | [Fahed Bin Fasla](https://open.spotify.com/artist/2CfEAlvAtAJ7MvCQl4mptz), [عمار الكوفي](https://open.spotify.com/artist/1YN0hBRFU0rGPgvr0aMmHs) | [تجاهلني](https://open.spotify.com/album/5xjGNzBxIQXVliqj7TKoG6) | 2:58 | 2022-08-31 | 2022-11-02 |

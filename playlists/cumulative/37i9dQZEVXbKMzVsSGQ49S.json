@@ -2925,6 +2925,24 @@
     },
     {
       "album": {
+        "name": "The Diamond Collection",
+        "url": "https://open.spotify.com/album/1DsM0AOBGPPIDp0gWN8Zb4"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184013,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5TOgxgZrIZzvaKg9r2bvc2"
+    },
+    {
+      "album": {
         "name": "Chemical",
         "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
       },
@@ -2936,7 +2954,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 184013,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
@@ -4100,7 +4118,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 232857,
       "name": "Die For You (with Ariana Grande) - Remix",
       "url": "https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2"
@@ -4576,6 +4594,28 @@
       "duration_ms": 175642,
       "name": "Doomsday Dancing",
       "url": "https://open.spotify.com/track/5P2d3or6TumevXtnDGOeqB"
+    },
+    {
+      "album": {
+        "name": "Double Fantasy",
+        "url": "https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268235,
+      "name": "Double Fantasy (with Future)",
+      "url": "https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi"
     },
     {
       "album": {
@@ -8241,6 +8281,32 @@
     },
     {
       "album": {
+        "name": "Having my way",
+        "url": "https://open.spotify.com/album/4KcRbFoRVg2NSP5qhaw9P0"
+      },
+      "artists": [
+        {
+          "name": "Famous Kid Brick",
+          "url": "https://open.spotify.com/artist/2reMcGkhB81Dwm8ywl8qB3"
+        },
+        {
+          "name": "CeoGamble",
+          "url": "https://open.spotify.com/artist/6UQvWbXdrhxvO662JXwqgL"
+        },
+        {
+          "name": "DLL",
+          "url": "https://open.spotify.com/artist/6ECQkwCLDi4lEhhokp5azu"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130169,
+      "name": "Having my way",
+      "url": "https://open.spotify.com/track/50tyCk2vDGybzbjz8LRYei"
+    },
+    {
+      "album": {
         "name": "Culture III",
         "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
       },
@@ -9448,7 +9514,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 148120,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
@@ -12132,7 +12198,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 196520,
       "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
       "url": "https://open.spotify.com/track/6sCvvleqKbeyOkQDieBYgp"
@@ -15556,7 +15622,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 161379,
       "name": "One",
       "url": "https://open.spotify.com/track/43y4bvWHydIDn1DV5VqZRr"
@@ -17033,6 +17099,36 @@
     },
     {
       "album": {
+        "name": "RASS CYPHER",
+        "url": "https://open.spotify.com/album/26emVUkIVLtMPkDYYA2PXB"
+      },
+      "artists": [
+        {
+          "name": "Izleifur",
+          "url": "https://open.spotify.com/artist/5fxRKBJNkss9n22ePnifL6"
+        },
+        {
+          "name": "Daniil",
+          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
+        },
+        {
+          "name": "ISSI",
+          "url": "https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL"
+        },
+        {
+          "name": "Yung Nigo Drippin'",
+          "url": "https://open.spotify.com/artist/6I8ljltXh3l5H8hgKMSeAG"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245064,
+      "name": "RASS CYPHER",
+      "url": "https://open.spotify.com/track/0mzHGCLc2hhdsF4KMec2nm"
+    },
+    {
+      "album": {
         "name": "It's Only Me",
         "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
       },
@@ -17706,7 +17802,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 297865,
       "name": "R\u00f3me\u00f3 og J\u00fal\u00eda",
       "url": "https://open.spotify.com/track/53UXY91LLMuISer0X8RsWq"
@@ -18056,7 +18152,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
@@ -20300,7 +20396,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 150573,
       "name": "SV\u00d6RT N\u00d3TT",
       "url": "https://open.spotify.com/track/71mITRydUM9bFRAy2CaKhv"
@@ -21890,7 +21986,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
@@ -24270,7 +24366,7 @@
       ],
       "date_added": "2023-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 179908,
       "name": "\u00cd s\u00ed\u00f0asta skipti",
       "url": "https://open.spotify.com/track/0s6wluanO3gDy0IU5wyQYW"

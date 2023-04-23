@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Mira Calix",
-  "num_followers": 28515,
+  "num_followers": 28527,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU1ODc2MCwwMDAwMDAwMGI0MmFjNzkzYTkxOTcxNjFkZjQ0NWJkN2JmMjBhZmFj",
+  "snapshot_id": "MTY3MTU1ODc2MCwwMDAwMDAwMDhhZDM4YTM5OTdhMTc3ODkzYzIwZTM5YTkxNzViM2Mx",
   "tracks": [
     {
       "added_at": "2022-12-20 17:52:39",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
+        "name": "Memories of Log",
+        "url": "https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b"
+      },
+      "artists": [
+        {
+          "name": "Ulla",
+          "url": "https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN"
+        }
+      ],
+      "duration_ms": 400248,
+      "name": "Falling Water Lullaby",
+      "url": "https://open.spotify.com/track/107dsC2GDls9Yc3roCakzj"
+    },
+    {
+      "added_at": "2022-12-20 17:52:39",
+      "album": {
         "name": "Antiphonals",
         "url": "https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 231731,
       "name": "How to build an automaton",
       "url": "https://open.spotify.com/track/2tqrvJPhctmcZmJNZORJU0"
-    },
-    {
-      "added_at": "2022-12-20 17:52:39",
-      "album": {
-        "name": "Memories of Log",
-        "url": "https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b"
-      },
-      "artists": [
-        {
-          "name": "Ulla",
-          "url": "https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN"
-        }
-      ],
-      "duration_ms": 400248,
-      "name": "Falling Water Lullaby",
-      "url": "https://open.spotify.com/track/107dsC2GDls9Yc3roCakzj"
     },
     {
       "added_at": "2022-12-20 17:52:39",

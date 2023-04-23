@@ -1,12 +1,12 @@
 {
   "description": "These early pioneers brought the underground to the foreground. Cover: Lou Reed. ",
-  "num_followers": 1121297,
+  "num_followers": 1122195,
   "original_name": "Early Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgzMDY5OSwwMDAwMDAwMDRkYTQ1YTExNjU5MTQ4MDdhOGQ1MWE0YTA1NDM0OTc5",
+  "snapshot_id": "MTY3ODgzMDY5OSwwMDAwMDAwMGQ2NmMyZmQwZTk3ZWUyYjA5MDg2OWY3YjY3NzI3ZTMx",
   "tracks": [
     {
       "added_at": "2023-03-14 21:51:39",
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-03-14 21:51:39",
       "album": {
-        "name": "Different Class",
-        "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
+        "name": "Doolittle",
+        "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
       },
       "artists": [
         {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
         }
       ],
-      "duration_ms": 351626,
-      "name": "Common People",
-      "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
+      "duration_ms": 210906,
+      "name": "Hey",
+      "url": "https://open.spotify.com/track/0p5eZCY0R7uNCZS1YDtIYI"
     },
     {
       "added_at": "2023-03-14 21:51:39",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-03-14 21:51:39",
       "album": {
-        "name": "Doolittle",
-        "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
+        "name": "Different Class",
+        "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
       },
       "artists": [
         {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
         }
       ],
-      "duration_ms": 210906,
-      "name": "Hey",
-      "url": "https://open.spotify.com/track/0p5eZCY0R7uNCZS1YDtIYI"
+      "duration_ms": 351626,
+      "name": "Common People",
+      "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
     },
     {
       "added_at": "2023-03-14 21:51:39",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-03-14 21:51:39",
       "album": {
-        "name": "Loaded: Re-Loaded 45th Anniversary Edition",
-        "url": "https://open.spotify.com/album/2ny1rPsLOoKNFZhMLubMrs"
-      },
-      "artists": [
-        {
-          "name": "The Velvet Underground",
-          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
-        }
-      ],
-      "duration_ms": 246306,
-      "name": "Sweet Jane - Full Length Version; 2015 Remaster",
-      "url": "https://open.spotify.com/track/3cw3Z7mS55gd3NUjh4k0bL"
-    },
-    {
-      "added_at": "2023-03-14 21:51:39",
-      "album": {
         "name": "Tom Tom Club",
         "url": "https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 334360,
       "name": "Genius of Love",
       "url": "https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef"
+    },
+    {
+      "added_at": "2023-03-14 21:51:39",
+      "album": {
+        "name": "Loaded: Re-Loaded 45th Anniversary Edition",
+        "url": "https://open.spotify.com/album/2ny1rPsLOoKNFZhMLubMrs"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        }
+      ],
+      "duration_ms": 246306,
+      "name": "Sweet Jane - Full Length Version; 2015 Remaster",
+      "url": "https://open.spotify.com/track/3cw3Z7mS55gd3NUjh4k0bL"
     },
     {
       "added_at": "2023-03-14 21:51:39",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-03-14 21:51:39",
       "album": {
+        "name": "Loaded: Re-Loaded 45th Anniversary Edition",
+        "url": "https://open.spotify.com/album/2ny1rPsLOoKNFZhMLubMrs"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Rock & Roll - Full Length Version; 2015 Remaster",
+      "url": "https://open.spotify.com/track/1o6DclZHw0HomxXEQR1ijX"
+    },
+    {
+      "added_at": "2023-03-14 21:51:39",
+      "album": {
         "name": "Special Beat Service (Remastered)",
         "url": "https://open.spotify.com/album/4Y1DZv5OK6rg4ljw2Oj6wP"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 318373,
       "name": "Autumn Sweater",
       "url": "https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs"
-    },
-    {
-      "added_at": "2023-03-14 21:51:39",
-      "album": {
-        "name": "Loaded: Re-Loaded 45th Anniversary Edition",
-        "url": "https://open.spotify.com/album/2ny1rPsLOoKNFZhMLubMrs"
-      },
-      "artists": [
-        {
-          "name": "The Velvet Underground",
-          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Rock & Roll - Full Length Version; 2015 Remaster",
-      "url": "https://open.spotify.com/track/1o6DclZHw0HomxXEQR1ijX"
     },
     {
       "added_at": "2023-03-14 21:51:39",
@@ -1103,6 +1103,26 @@
       "duration_ms": 234906,
       "name": "Here's Where The Story Ends",
       "url": "https://open.spotify.com/track/4SPi5Pl7aAtauFsH9Lk5LB"
+    },
+    {
+      "added_at": "2023-03-14 21:51:39",
+      "album": {
+        "name": "The Velvet Underground & Nico 45th Anniversary",
+        "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        },
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+        }
+      ],
+      "duration_ms": 433573,
+      "name": "Heroin",
+      "url": "https://open.spotify.com/track/5by3w3NXvwDpV9FBSOR35u"
     },
     {
       "added_at": "2023-03-14 21:51:39",
@@ -1167,26 +1187,6 @@
       "duration_ms": 246440,
       "name": "Roadrunner",
       "url": "https://open.spotify.com/track/5E5HYgxGMp3BPakHGfKfIB"
-    },
-    {
-      "added_at": "2023-03-14 21:51:39",
-      "album": {
-        "name": "The Velvet Underground & Nico 45th Anniversary",
-        "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
-      },
-      "artists": [
-        {
-          "name": "The Velvet Underground",
-          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
-        },
-        {
-          "name": "Nico",
-          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
-        }
-      ],
-      "duration_ms": 433573,
-      "name": "Heroin",
-      "url": "https://open.spotify.com/track/5by3w3NXvwDpV9FBSOR35u"
     },
     {
       "added_at": "2023-03-14 21:51:39",

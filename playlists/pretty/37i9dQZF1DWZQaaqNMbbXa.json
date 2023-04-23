@@ -1,12 +1,12 @@
 {
   "description": "Hit the dance floor with your favorite bops!",
-  "num_followers": 398100,
+  "num_followers": 398501,
   "original_name": "Dance Pop Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQ1NjAzMywwMDAwMDAwMDE3NjU1MDNhMjNhZjI1MDY4NmU4YjIwYTE1NmFjZGUz",
+  "snapshot_id": "MTY3OTQ1NjAzMywwMDAwMDAwMGE2NDhhNmVjOWY4ODM2Y2E2OTc2NzM1OTkwZTNjZjhm",
   "tracks": [
     {
       "added_at": "2023-03-10 05:01:00",
@@ -2711,30 +2711,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "My Universe (Galantis Remix)",
-        "url": "https://open.spotify.com/album/7eMHMiz2uvtDDMbvKRJxlP"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 224908,
-      "name": "My Universe - Galantis Remix",
-      "url": "https://open.spotify.com/track/1DlczmjByrS4qxRVfGjpqN"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Treehouse",
         "url": "https://open.spotify.com/album/7FGPGfAE8nIov4LhDgKwQa"
       },
@@ -2759,6 +2735,30 @@
       "duration_ms": 184880,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/1zEhH5BmSpKi1mRSIfBDOq"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "My Universe (Galantis Remix)",
+        "url": "https://open.spotify.com/album/7eMHMiz2uvtDDMbvKRJxlP"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 224908,
+      "name": "My Universe - Galantis Remix",
+      "url": "https://open.spotify.com/track/1DlczmjByrS4qxRVfGjpqN"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -2907,26 +2907,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "In The Dark",
-        "url": "https://open.spotify.com/album/4SKuocn48AWlILmj6Dl1eY"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
-        }
-      ],
-      "duration_ms": 185564,
-      "name": "In The Dark",
-      "url": "https://open.spotify.com/track/5LibBRN1juZ7RiUR0e2Hax"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0E2xXn23qVmfx9ThZjWFBE"
       },
@@ -2943,6 +2923,26 @@
       "duration_ms": 243536,
       "name": "Heat Waves - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/65xvfgI2nNrOYHhGUzw9XP"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/4SKuocn48AWlILmj6Dl1eY"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        }
+      ],
+      "duration_ms": 185564,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/5LibBRN1juZ7RiUR0e2Hax"
     },
     {
       "added_at": "2023-03-10 05:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 
 > Musical songs from Broadway, the West End and beyond\. Cover: Parade
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,873 likes - 96 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,027 likes - 96 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

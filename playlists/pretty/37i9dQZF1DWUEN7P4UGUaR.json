@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Louis Pascal",
-  "num_followers": 237,
+  "num_followers": 251,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAzNTE0MCwwMDAwMDAwMGI4MjJiOWU0NzU2MTFiZTFiNTdkOWU0OWIzM2IwYmY2",
+  "snapshot_id": "MTY4MjAzNTE0MCwwMDAwMDAwMGQ5NDI3NGQ3MTkzMWNiMjc4ZWE2ZDk0OTg0NGI1NDlh",
   "tracks": [
     {
       "added_at": "2023-04-20 23:59:00",
@@ -159,22 +159,18 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Ote Me Mu",
-        "url": "https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N"
+        "name": "Aseda",
+        "url": "https://open.spotify.com/album/7M7BxTDWlHdM85VKItKein"
       },
       "artists": [
         {
-          "name": "Ohemaa Mercy",
-          "url": "https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s"
-        },
-        {
-          "name": "MOG",
-          "url": "https://open.spotify.com/artist/4DgItVDLDv8tnIxB0pnsVf"
+          "name": "Nacee",
+          "url": "https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK"
         }
       ],
-      "duration_ms": 275551,
-      "name": "Ote Me Mu",
-      "url": "https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf"
+      "duration_ms": 256750,
+      "name": "Aseda",
+      "url": "https://open.spotify.com/track/5r8OPDPYNHojAhVsLnXuE1"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -195,18 +191,22 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Aseda",
-        "url": "https://open.spotify.com/album/7M7BxTDWlHdM85VKItKein"
+        "name": "Ote Me Mu",
+        "url": "https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N"
       },
       "artists": [
         {
-          "name": "Nacee",
-          "url": "https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK"
+          "name": "Ohemaa Mercy",
+          "url": "https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s"
+        },
+        {
+          "name": "MOG",
+          "url": "https://open.spotify.com/artist/4DgItVDLDv8tnIxB0pnsVf"
         }
       ],
-      "duration_ms": 256750,
-      "name": "Aseda",
-      "url": "https://open.spotify.com/track/5r8OPDPYNHojAhVsLnXuE1"
+      "duration_ms": 275551,
+      "name": "Ote Me Mu",
+      "url": "https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Nyame Ye",
-        "url": "https://open.spotify.com/album/64uZTak252YtY8M7VqXs8a"
-      },
-      "artists": [
-        {
-          "name": "Solomon King",
-          "url": "https://open.spotify.com/artist/2iuZufX5th90MKHNrJI6jT"
-        }
-      ],
-      "duration_ms": 184660,
-      "name": "Nyame Ye",
-      "url": "https://open.spotify.com/track/75mE5CO8KerkTVdZMfVSi3"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
         "name": "Ghana Local Praise Medley",
         "url": "https://open.spotify.com/album/6JMeaFneyim4EC2BxMYMGw"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 566414,
       "name": "Ghana Local Praise Medley",
       "url": "https://open.spotify.com/track/5EpTEpmbU57I9FMGR9m9sV"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "Nyame Ye",
+        "url": "https://open.spotify.com/album/64uZTak252YtY8M7VqXs8a"
+      },
+      "artists": [
+        {
+          "name": "Solomon King",
+          "url": "https://open.spotify.com/artist/2iuZufX5th90MKHNrJI6jT"
+        }
+      ],
+      "duration_ms": 184660,
+      "name": "Nyame Ye",
+      "url": "https://open.spotify.com/track/75mE5CO8KerkTVdZMfVSi3"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
+        "name": "Gyae Su",
+        "url": "https://open.spotify.com/album/4dmKQIOUlnx3kLkM2I7loB"
+      },
+      "artists": [
+        {
+          "name": "Solomon King",
+          "url": "https://open.spotify.com/artist/2iuZufX5th90MKHNrJI6jT"
+        }
+      ],
+      "duration_ms": 258001,
+      "name": "Gyae Su",
+      "url": "https://open.spotify.com/track/5tTbNxe0QDMHM78vdY4Nqj"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/7xfrnuQPFXGHNLfKBi54fk"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 207178,
       "name": "Aseda",
       "url": "https://open.spotify.com/track/2SvJR52RLovnc4XRkpa5rn"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "Gyae Su",
-        "url": "https://open.spotify.com/album/4dmKQIOUlnx3kLkM2I7loB"
-      },
-      "artists": [
-        {
-          "name": "Solomon King",
-          "url": "https://open.spotify.com/artist/2iuZufX5th90MKHNrJI6jT"
-        }
-      ],
-      "duration_ms": 258001,
-      "name": "Gyae Su",
-      "url": "https://open.spotify.com/track/5tTbNxe0QDMHM78vdY4Nqj"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "A Letter to the Wise",
-        "url": "https://open.spotify.com/album/7uX0NKSvnJnyDCYvkSMOYh"
-      },
-      "artists": [
-        {
-          "name": "Israel Chemphe",
-          "url": "https://open.spotify.com/artist/1qJeZoDyrYPQ3R02TY1s9Z"
-        }
-      ],
-      "duration_ms": 212323,
-      "name": "A Letter to the Wise",
-      "url": "https://open.spotify.com/track/0e4RCiQHnm2GOZCltde0t7"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
         "name": "Adom Bi",
         "url": "https://open.spotify.com/album/79jWpJZrG5I7T3tCtu6EWO"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 319870,
       "name": "Adom Bi",
       "url": "https://open.spotify.com/track/78qtI2HtGEAmSGyKNMLdiU"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "A Letter to the Wise",
+        "url": "https://open.spotify.com/album/7uX0NKSvnJnyDCYvkSMOYh"
+      },
+      "artists": [
+        {
+          "name": "Israel Chemphe",
+          "url": "https://open.spotify.com/artist/1qJeZoDyrYPQ3R02TY1s9Z"
+        }
+      ],
+      "duration_ms": 212323,
+      "name": "A Letter to the Wise",
+      "url": "https://open.spotify.com/track/0e4RCiQHnm2GOZCltde0t7"
     },
     {
       "added_at": "2023-04-20 23:59:00",

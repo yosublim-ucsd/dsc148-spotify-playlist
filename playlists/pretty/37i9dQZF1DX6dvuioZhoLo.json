@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 271654,
+  "num_followers": 271759,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDUyMTIyYmZmZGE4NzRmMzUwM2M3YTI3YTE5ODhjNGI2",
+  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDNiN2JjYjQ3MjFhY2I1ZTA5YjY5ZWQ0YjI5YTRhNTFj",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Happy Man",
-        "url": "https://open.spotify.com/album/5RMDvDiSQwkiK7Ja7EgXhI"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 179763,
-      "name": "Happy Man",
-      "url": "https://open.spotify.com/track/1qxX6y9aYFx4OykdlnzA2s"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Cover Stories: Brandi Carlile Celebrates 10 Years of the Story (An Album to Benefit War Child)",
         "url": "https://open.spotify.com/album/3eI5yt8PVoaONTDcHHTky7"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 257372,
       "name": "The Story",
       "url": "https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Happy Man",
+        "url": "https://open.spotify.com/album/5RMDvDiSQwkiK7Ja7EgXhI"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "duration_ms": 179763,
+      "name": "Happy Man",
+      "url": "https://open.spotify.com/track/1qxX6y9aYFx4OykdlnzA2s"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Stranger to Me",
-        "url": "https://open.spotify.com/album/1LKG0NrEfPFaMP05vlwQzn"
-      },
-      "artists": [
-        {
-          "name": "The Black Lillies",
-          "url": "https://open.spotify.com/artist/06Y4yJmsrlzPrwIG46ce7X"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/3tvlD4NK5C1bGjCu6GM76u"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "For When It Hurts",
         "url": "https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Canyons of my Mind",
-        "url": "https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g"
+        "name": "Stranger to Me",
+        "url": "https://open.spotify.com/album/1LKG0NrEfPFaMP05vlwQzn"
       },
       "artists": [
         {
-          "name": "Andrew Combs",
-          "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
+          "name": "The Black Lillies",
+          "url": "https://open.spotify.com/artist/06Y4yJmsrlzPrwIG46ce7X"
         }
       ],
-      "duration_ms": 192266,
-      "name": "Dirty Rain",
-      "url": "https://open.spotify.com/track/2zRPDVAsXstoRC8pQjf79T"
+      "duration_ms": 201000,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/3tvlD4NK5C1bGjCu6GM76u"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -859,6 +843,22 @@
       "duration_ms": 185754,
       "name": "Welcome to Hard Times",
       "url": "https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Canyons of my Mind",
+        "url": "https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g"
+      },
+      "artists": [
+        {
+          "name": "Andrew Combs",
+          "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
+        }
+      ],
+      "duration_ms": 192266,
+      "name": "Dirty Rain",
+      "url": "https://open.spotify.com/track/2zRPDVAsXstoRC8pQjf79T"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Sidelong",
-        "url": "https://open.spotify.com/album/0QsTiookBuBIsLCdSvlTIa"
+        "name": "Walking Proof",
+        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
       },
       "artists": [
         {
-          "name": "Sarah Shook & the Disarmers",
-          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
+          "name": "Lilly Hiatt",
+          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
         }
       ],
-      "duration_ms": 186866,
-      "name": "No Name",
-      "url": "https://open.spotify.com/track/4LJ2bh3gZf9rEKQeFeuG3R"
+      "duration_ms": 166231,
+      "name": "P-Town",
+      "url": "https://open.spotify.com/track/5VdaNqBdJ1PCLIboEnqge2"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1247,6 +1247,22 @@
       "duration_ms": 177502,
       "name": "Roll On",
       "url": "https://open.spotify.com/track/3i1isbSpcLUVejr3rT9bNT"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Sidelong",
+        "url": "https://open.spotify.com/album/0QsTiookBuBIsLCdSvlTIa"
+      },
+      "artists": [
+        {
+          "name": "Sarah Shook & the Disarmers",
+          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
+        }
+      ],
+      "duration_ms": 186866,
+      "name": "No Name",
+      "url": "https://open.spotify.com/track/4LJ2bh3gZf9rEKQeFeuG3R"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1291,18 +1307,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Walking Proof",
-        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
+        "name": "Silver Tears",
+        "url": "https://open.spotify.com/album/2JG1zKeTogtW6HUSJD0K6L"
       },
       "artists": [
         {
-          "name": "Lilly Hiatt",
-          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
+          "name": "Aaron Lee Tasjan",
+          "url": "https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo"
         }
       ],
-      "duration_ms": 166231,
-      "name": "P-Town",
-      "url": "https://open.spotify.com/track/5VdaNqBdJ1PCLIboEnqge2"
+      "duration_ms": 218641,
+      "name": "Memphis Rain",
+      "url": "https://open.spotify.com/track/7pwi5x6uNPnOeG8vM9boCo"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1323,18 +1339,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Silver Tears",
-        "url": "https://open.spotify.com/album/2JG1zKeTogtW6HUSJD0K6L"
+        "name": "All Or Nothin' (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0MtDML13BxeSu5oeI1VCzQ"
       },
       "artists": [
         {
-          "name": "Aaron Lee Tasjan",
-          "url": "https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo"
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
         }
       ],
-      "duration_ms": 218641,
-      "name": "Memphis Rain",
-      "url": "https://open.spotify.com/track/7pwi5x6uNPnOeG8vM9boCo"
+      "duration_ms": 201666,
+      "name": "Right Time",
+      "url": "https://open.spotify.com/track/3dEWwyEuqeNFH0V9OvyRWv"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1351,22 +1367,6 @@
       "duration_ms": 223091,
       "name": "Road to Heaven",
       "url": "https://open.spotify.com/track/0kmJsk0yNfxB1ICbKRpUzZ"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "All Or Nothin' (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0MtDML13BxeSu5oeI1VCzQ"
-      },
-      "artists": [
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Right Time",
-      "url": "https://open.spotify.com/track/3dEWwyEuqeNFH0V9OvyRWv"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "That's How Rumors Get Started",
-        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Stone Me",
-      "url": "https://open.spotify.com/track/41G13b0SToDtz6rIENwswT"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Honest Life",
         "url": "https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se"
       },
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "South Texas Suite",
-        "url": "https://open.spotify.com/album/4yplutFc2VEEIEuXRYa9Ie"
+        "name": "That's How Rumors Get Started",
+        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
       },
       "artists": [
         {
-          "name": "Whitney Rose",
-          "url": "https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx"
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
         }
       ],
-      "duration_ms": 204229,
-      "name": "Analog",
-      "url": "https://open.spotify.com/track/7gznOSnMIlcZzT1RFb1sYv"
+      "duration_ms": 189093,
+      "name": "Stone Me",
+      "url": "https://open.spotify.com/track/41G13b0SToDtz6rIENwswT"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1527,6 +1511,22 @@
       "duration_ms": 189871,
       "name": "Still Miss the Way",
       "url": "https://open.spotify.com/track/0y7ARFCXEDZpAOQDD2lmH0"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "South Texas Suite",
+        "url": "https://open.spotify.com/album/4yplutFc2VEEIEuXRYa9Ie"
+      },
+      "artists": [
+        {
+          "name": "Whitney Rose",
+          "url": "https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx"
+        }
+      ],
+      "duration_ms": 204229,
+      "name": "Analog",
+      "url": "https://open.spotify.com/track/7gznOSnMIlcZzT1RFb1sYv"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Rule 62",
-        "url": "https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf"
-      },
-      "artists": [
-        {
-          "name": "Whitney Rose",
-          "url": "https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx"
-        }
-      ],
-      "duration_ms": 250080,
-      "name": "You Don't Scare Me",
-      "url": "https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Family Reunion",
         "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 162697,
       "name": "Dry Town",
       "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Rule 62",
+        "url": "https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf"
+      },
+      "artists": [
+        {
+          "name": "Whitney Rose",
+          "url": "https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx"
+        }
+      ],
+      "duration_ms": 250080,
+      "name": "You Don't Scare Me",
+      "url": "https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM"
     },
     {
       "added_at": "2023-04-21 04:00:00",

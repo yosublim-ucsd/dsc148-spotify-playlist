@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-457 songs - 1 day 10 hr 8 min
+458 songs - 1 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Classic Edition](https://open.spotify.com/track/4Rg2wslFWQYFNWFGC12MN9) | [Chief Kaya](https://open.spotify.com/artist/558zMGW1SDfXPdI862UQ2A) | [Classic Edition](https://open.spotify.com/album/3DPgVg2jzRi7FNcqeGQnRD) | 4:46 | 2022-02-17 | 2022-07-29 |
 | [Connected Illusions](https://open.spotify.com/track/6hsklmT7gmue5XjeALOCYD) | [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc), [Youngsta](https://open.spotify.com/artist/4YOzXUg5iPj9vF0tapoXi6), [N\-Type](https://open.spotify.com/artist/2L3xOZQKjlT0Hb2QpTM4XY) | [Connected Illusions](https://open.spotify.com/album/78UEzphMC0BLrGDUyLUTsv) | 4:21 | 2022-10-14 |  |
 | [Contact](https://open.spotify.com/track/1JYsB74OPOHzVcyPPnBZbb) | [Soap Dodgers](https://open.spotify.com/artist/6mbdzxwYn2azIvdjQ9uINq) | [Ill Minded / Contact](https://open.spotify.com/album/3I4FrmegOLTrEQXDBxr43q) | 5:58 | 2022-02-17 | 2022-04-08 |
-| [Contra Theory](https://open.spotify.com/track/1WsLvlvA4Zlrwr0C3FrOGE) | [Subtle Mind](https://open.spotify.com/artist/37o1xku99QSw8IHyTRDfHB) | [Allusions LP](https://open.spotify.com/album/6QxS88nXazeU2qITa5aKOX) | 5:21 | 2022-02-17 |  |
+| [Contra Theory](https://open.spotify.com/track/1WsLvlvA4Zlrwr0C3FrOGE) | [Subtle Mind](https://open.spotify.com/artist/37o1xku99QSw8IHyTRDfHB) | [Allusions LP](https://open.spotify.com/album/6QxS88nXazeU2qITa5aKOX) | 5:21 | 2022-02-17 | 2023-04-23 |
 | [Cool & Relax](https://open.spotify.com/track/3jntNZjyiC3Hszr5u1ZGnn) | [Dubamine](https://open.spotify.com/artist/1cTFPzuPsiYtINcLic2qCV), [Nazamba](https://open.spotify.com/artist/4VqHq2AKycABRwXxTGVHSG) | [Cool & Relax](https://open.spotify.com/album/70SLEvGGpicx4iyfOzohvz) | 4:26 | 2023-03-17 |  |
 | [Creatures](https://open.spotify.com/track/52dwA5bSm2jf06kYlgOP3y) | [TheSK](https://open.spotify.com/artist/2AgXuVMVlgdtJtHzBKzwVT) | [Creatures](https://open.spotify.com/album/5zoWlf4tcmtFGfFaOrXj4n) | 4:08 | 2022-02-17 | 2023-03-16 |
 | [Crime Scene](https://open.spotify.com/track/3GSsl9WfC2Lt3UDkvTcdWJ) | [Bisweed](https://open.spotify.com/artist/6egUhNySE0htFQzdHxO6Nw) | [Cyclops EP](https://open.spotify.com/album/1Xevyp5MXk67ZfnjFKc1WT) | 5:01 | 2022-02-17 | 2023-03-16 |
@@ -237,6 +237,7 @@
 | [Lurker](https://open.spotify.com/track/5rGPjCjKJUUcZpZB72hgOT) | [Wraz.](https://open.spotify.com/artist/67b5TsLqAzMdmtWZCy2k7D) | [Signals](https://open.spotify.com/album/1JyY8FxMbZ3idqqW8fOSYJ) | 3:29 | 2022-02-17 | 2023-04-14 |
 | [Luxurious](https://open.spotify.com/track/14mkG82JIFJi9CQnFfy6Rc) | [Plastician](https://open.spotify.com/artist/6p41GgJajkf3W2YXAzL8xC) | [Luxurious](https://open.spotify.com/album/57t09L0jx9NrkfMtyRA2hC) | 4:17 | 2022-02-17 | 2022-06-10 |
 | [Mage](https://open.spotify.com/track/1sVeutIp3sh1eePjz7ONnH) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [Mage](https://open.spotify.com/album/087mD9L26LtrVXcEDcTe2H) | 3:18 | 2022-02-17 |  |
+| [Make It](https://open.spotify.com/track/0v05oKIRZr4qtEF9aASS4m) | [Thys](https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR), [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Make It](https://open.spotify.com/album/4cgrDyLfgpbYr8UhPt3gBD) | 5:37 | 2023-04-21 |  |
 | [Makin Moves](https://open.spotify.com/track/3QwYSJpsLN0qannLsQqdVE) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn) | [Makin Moves](https://open.spotify.com/album/0KiLaRhGNQYN0j94MVjKhN) | 3:00 | 2023-03-31 |  |
 | [Mantra Reactor](https://open.spotify.com/track/30KENMJmhUaG8Op6upzNoc) | [Erik Ekholm](https://open.spotify.com/artist/2ILC8RBzrhyAE3MPfBe9sQ), [Beat Rebel](https://open.spotify.com/artist/31L9rQTYTpZIBAW1nugqmW), [Morbid Fears](https://open.spotify.com/artist/5mFOd8Ia2DMdXesbZkuFqU) | [Mantra Reactor](https://open.spotify.com/album/6dbQNcRBE5WK1ovWMbidY0) | 3:03 | 2023-03-10 |  |
 | [Meaningless](https://open.spotify.com/track/3LCIjaKdbeCzWw5UQXYpkd) | [SBK](https://open.spotify.com/artist/3xwKCpbc3nMeh9ajAy7DQp) | [Problem City](https://open.spotify.com/album/4dXqrjWWp8gcyt6EqO59pt) | 6:37 | 2022-02-17 | 2023-02-14 |

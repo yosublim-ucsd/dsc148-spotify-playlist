@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 11185,
+  "num_followers": 11193,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI1ODIyNCwwMDAwMDAwMGU1N2ExOWE1M2ZlYmJhNjhmMjA3YjZmOTE1MTJmMTAx",
+  "snapshot_id": "MTY4MDI1ODIyNCwwMDAwMDAwMDRlNzU3NzAzZDFkYTdkODZlYmMyNTU2NmViYTA0ZDg2",
   "tracks": [
     {
       "added_at": "2023-03-31 10:23:44",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-03-31 10:23:44",
       "album": {
-        "name": "YUMI's Cells 2, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo"
-      },
-      "artists": [
-        {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
-        }
-      ],
-      "duration_ms": 195042,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF"
-    },
-    {
-      "added_at": "2023-03-31 10:23:44",
-      "album": {
         "name": "It\u2032s You",
         "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 193000,
       "name": "It\u2032s You",
       "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
+    },
+    {
+      "added_at": "2023-03-31 10:23:44",
+      "album": {
+        "name": "YUMI's Cells 2, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "duration_ms": 195042,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF"
     },
     {
       "added_at": "2023-03-31 10:23:44",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-03-31 10:23:44",
       "album": {
+        "name": "IN-OUT",
+        "url": "https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc"
+      },
+      "artists": [
+        {
+          "name": "MOONBIN&SANHA(ASTRO)",
+          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
+        }
+      ],
+      "duration_ms": 226573,
+      "name": "Dream Catcher",
+      "url": "https://open.spotify.com/track/6MDrZ8WfWiQWB8t12Pqccj"
+    },
+    {
+      "added_at": "2023-03-31 10:23:44",
+      "album": {
         "name": "1.0",
         "url": "https://open.spotify.com/album/2NQxbsV4UYXegJQWbzLR2c"
       },
@@ -875,22 +891,6 @@
     {
       "added_at": "2023-03-31 10:23:44",
       "album": {
-        "name": "LUV SIGN",
-        "url": "https://open.spotify.com/album/70i48Nmz9CvSHcBLZDuEj6"
-      },
-      "artists": [
-        {
-          "name": "JUNE",
-          "url": "https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6"
-        }
-      ],
-      "duration_ms": 225800,
-      "name": "Got U",
-      "url": "https://open.spotify.com/track/1y4h8bOTQWK7wxtczxy9wx"
-    },
-    {
-      "added_at": "2023-03-31 10:23:44",
-      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-03-31 10:23:44",
       "album": {
-        "name": "IN-OUT",
-        "url": "https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc"
+        "name": "LUV SIGN",
+        "url": "https://open.spotify.com/album/70i48Nmz9CvSHcBLZDuEj6"
       },
       "artists": [
         {
-          "name": "MOONBIN&SANHA(ASTRO)",
-          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
+          "name": "JUNE",
+          "url": "https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6"
         }
       ],
-      "duration_ms": 226573,
-      "name": "Dream Catcher",
-      "url": "https://open.spotify.com/track/6MDrZ8WfWiQWB8t12Pqccj"
+      "duration_ms": 225800,
+      "name": "Got U",
+      "url": "https://open.spotify.com/track/1y4h8bOTQWK7wxtczxy9wx"
     },
     {
       "added_at": "2023-03-31 10:23:44",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-03-31 10:23:44",
       "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/0McpCdcqKHDONKqcMh5UEE"
-      },
-      "artists": [
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        }
-      ],
-      "duration_ms": 182313,
-      "name": "First Love",
-      "url": "https://open.spotify.com/track/1bhLix8ZApePHFLiVCKpp4"
-    },
-    {
-      "added_at": "2023-03-31 10:23:44",
-      "album": {
         "name": "Rewind",
         "url": "https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 197813,
       "name": "Like a dream",
       "url": "https://open.spotify.com/track/1ujBbnWWiqowa6zKgCxlzV"
+    },
+    {
+      "added_at": "2023-03-31 10:23:44",
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/0McpCdcqKHDONKqcMh5UEE"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "duration_ms": 182313,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/1bhLix8ZApePHFLiVCKpp4"
     },
     {
       "added_at": "2023-03-31 10:23:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Frenna & Do
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,353 likes - 105 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,393 likes - 105 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 98 | [Oh Sorry](https://open.spotify.com/track/5ihR0VTq5aBnb7v8qMBckn) | [So\-Fi](https://open.spotify.com/artist/6TIw842G1nVz2xEhU9YlBs) | [Maar Verder Gaat Het Goed](https://open.spotify.com/album/6YVWLc3C8jrD0HHczwN1lO) | 3:08 |
 | 99 | [Daar Wil Ik Heen](https://open.spotify.com/track/21Q3e3tqMqU2sUaA4eYKZk) | [Marlijn](https://open.spotify.com/artist/16fziKlvEinEhQRH8qx1Qu) | [Daar Wil Ik Heen](https://open.spotify.com/album/1wm08cVWuu7ATq3C56sE37) | 3:04 |
 | 100 | [Dansen op Tafels](https://open.spotify.com/track/2rjyZ2afxuoQyMCyFPDDbp) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Dansen op Tafels](https://open.spotify.com/album/2cIkK84M29yblRqvd29gqF) | 3:21 |
-| 101 | [ik zweef alweer](https://open.spotify.com/track/6J2H0eIWxiHDLPCMfkRzIP) | [Igor](https://open.spotify.com/artist/3bhBM7OA3aCdsNVzRzkBPq) | [ik zweef alweer](https://open.spotify.com/album/5eTBzFLYDB5Tp4BL0zkX0b) | 5:29 |
+| 101 | [Ik Zweef Alweer](https://open.spotify.com/track/6J2H0eIWxiHDLPCMfkRzIP) | [Igor](https://open.spotify.com/artist/3bhBM7OA3aCdsNVzRzkBPq) | [Ik Zweef Alweer](https://open.spotify.com/album/5eTBzFLYDB5Tp4BL0zkX0b) | 5:29 |
 | 102 | [Let Love Heal](https://open.spotify.com/track/6MxfO5EczyYRKlIp4GDfsw) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Transformation](https://open.spotify.com/album/3UVaL7UkOFQLP2wA5GYCeg) | 3:13 |
 | 103 | [Pretty](https://open.spotify.com/track/0WJ8tNBfJRwUPfE8ibBwAF) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Pretty](https://open.spotify.com/album/4psYJ4ruuGaqH25CBWKqMp) | 3:25 |
 | 104 | [Canvas](https://open.spotify.com/track/1FeD9KdXmOwOcu7JBJsYf3) | [Roufaida](https://open.spotify.com/artist/6Pvn7lx3CHZLtiYcxqateL) | [Roufaida](https://open.spotify.com/album/3JD05jEI8JBd5yCd4rbZKn) | 4:04 |

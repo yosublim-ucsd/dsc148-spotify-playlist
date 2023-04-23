@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,993 likes - 50 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,077 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 7 | [Dusties](https://open.spotify.com/track/7kswp4MJqT6Ts9P0iVL3kg) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Dusties](https://open.spotify.com/album/07gLKffRhrhVRpgkqN6K28) | 2:26 |
 | 8 | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Billy B](https://open.spotify.com/artist/3P2dL1jA3FykjGry2EcZEf) | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/album/00WvhKa7aS4GRBHsRy2vRS) | 2:11 |
 | 9 | [Never Want to Be Them](https://open.spotify.com/track/3WchIwLZMo7OnQah3oVbON) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [Face of the What](https://open.spotify.com/album/0hA6PDNYcFeSJYj4CceZuL) | 1:55 |
-| 10 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:39 |
+| 10 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/2g5q0UpOOFMNOcHGaMG4b0) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 2:39 |
 | 11 | [PSA](https://open.spotify.com/track/6T5i0o62ZyfHRRHHihYJ1n) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu) | [The D.O.A\. Tape](https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD) | 1:53 |
 | 12 | [No Adlibs](https://open.spotify.com/track/03xmi6J5kE6lnr4BfokGBu) | [Wan Billz](https://open.spotify.com/artist/4ptT7PqXaXDwMBZdiOq3ge) | [No Adlibs](https://open.spotify.com/album/1AATPemo63RsvrpQMg24b0) | 2:14 |
 | 13 | [Bacc Out](https://open.spotify.com/track/5dtGKOx2FGuUcXDBEe5sXV) | [Quelly Woo](https://open.spotify.com/artist/5PPetvBg4hGBkco4Y267hd) | [Tactical Pressure](https://open.spotify.com/album/3O0yRg6gchvxrsroJV4ZUy) | 2:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 49 | [Losses \- Bonus](https://open.spotify.com/track/71sCy1XpXl9rxTEu4XIPcR) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 3:15 |
 | 50 | [Merci Beaucoup](https://open.spotify.com/track/6mPZVis3gEGSSR2rhxlehT) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:55 |
 
-Snapshot ID: `MTY4MDgzMDEwNCwwMDAwMDAwMDMyMjAzYmM1YjA5YTZkNGZkZjMxNjUzMGZkOTZjYWQw`
+Snapshot ID: `MTY4MDgzMDEwNCwwMDAwMDAwMDlhZmUxMjgxZDVhZmVhZGRhMGZiMWE4YmY3M2Q1ZDYx`

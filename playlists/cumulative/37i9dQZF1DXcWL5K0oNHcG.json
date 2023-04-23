@@ -7514,6 +7514,10 @@
         {
           "name": "Manel Fortia",
           "url": "https://open.spotify.com/artist/1FS2OIXODWm5j6eTdfu6Nf"
+        },
+        {
+          "name": "David Dom\u00ednguez",
+          "url": "https://open.spotify.com/artist/3kSA0s81oWyoSpXdypBbVT"
         }
       ],
       "date_added": "2023-04-05",
@@ -9146,6 +9150,24 @@
       "duration_ms": 550680,
       "name": "It's Alright Now - Alternative Take",
       "url": "https://open.spotify.com/track/6NnGlLwv2UbvpwwA3bGGoL"
+    },
+    {
+      "album": {
+        "name": "iv. \u00c9tude de Mars",
+        "url": "https://open.spotify.com/album/1uit0kW0MMt9wqcTJfPBYX"
+      },
+      "artists": [
+        {
+          "name": "Christine Jensen",
+          "url": "https://open.spotify.com/artist/6ILqwG2NEsYuwmqIzZ1Spu"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375854,
+      "name": "iv. \u00c9tude de Mars",
+      "url": "https://open.spotify.com/track/2Lbzkgb8f4gBxzCR3OaQkX"
     },
     {
       "album": {
@@ -21988,24 +22010,6 @@
       "duration_ms": 457562,
       "name": "Zwarte Sneeuw - 52\u00b028'30.4\"N 4\u00b034'30.4\"E",
       "url": "https://open.spotify.com/track/1cOkcDd3l1VluiYqQMslyf"
-    },
-    {
-      "album": {
-        "name": "\u00c9tude de Mars",
-        "url": "https://open.spotify.com/album/1uit0kW0MMt9wqcTJfPBYX"
-      },
-      "artists": [
-        {
-          "name": "Christine Jensen",
-          "url": "https://open.spotify.com/artist/6ILqwG2NEsYuwmqIzZ1Spu"
-        }
-      ],
-      "date_added": "2023-03-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 375854,
-      "name": "\u00c9tude de Mars",
-      "url": "https://open.spotify.com/track/2Lbzkgb8f4gBxzCR3OaQkX"
     },
     {
       "album": {

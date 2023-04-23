@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: ERRE
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,459 likes - 79 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,482 likes - 79 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 41 | [Blanco Y Negro](https://open.spotify.com/track/3h5BJzVXakNbLvKY3oqNKd) | [Dano Arias](https://open.spotify.com/artist/1AiUJjP4nxM9KIqsFjxMVT), [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Blanco Y Negro](https://open.spotify.com/album/4tjuJwbsp4c8zMFUErJpqR) | 3:04 |
 | 42 | [NO SE VA](https://open.spotify.com/track/15zTvIhkmoEiCJU1dcagkd) | [juanitoo2x](https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf) | [NO SE VA](https://open.spotify.com/album/5z76Ks0UDPdGBXNwDbd3X4) | 4:11 |
 | 43 | [Loco Enamorado](https://open.spotify.com/track/4URdPlDsIux1ltUokXxr0t) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Perdido en el Tiempo](https://open.spotify.com/album/1TK4vBd9SsOrAuWIHXyZua) | 1:56 |
-| 44 | [En El Refuego \- En Vivo](https://open.spotify.com/track/1fJQRPzVVLNQZBYWelnL94) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Paso A Paso \(En Vivo\)](https://open.spotify.com/album/14BlR5eufuicsQW8uDZD4n) | 2:00 |
+| 44 | [En El Refuego \- En Vivo](https://open.spotify.com/track/1fJQRPzVVLNQZBYWelnL94) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Paso A Paso \(En Vivo\)](https://open.spotify.com/album/14BlR5eufuicsQW8uDZD4n) | 1:57 |
 | 45 | [Si No Te Hubieras Ido](https://open.spotify.com/track/6R5QRhLTTk2KetYpu6H5O7) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Si No Te Hubieras Ido](https://open.spotify.com/album/2ZOR1A4L2hCEiyXnx6DImD) | 4:52 |
 | 46 | [Ojos Cerrados](https://open.spotify.com/track/4qTncV5AzPvi7lo3Sb1MiM) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Ojos Cerrados](https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq) | 2:36 |
 | 47 | [Tu](https://open.spotify.com/track/6bq5ZnMxiyQESyr8t4hjbl) | [Panchito Vega](https://open.spotify.com/artist/3YJGzBDtf6ekCkxVRcdRjg) | [Tu](https://open.spotify.com/album/08XXrFdbOuySISB5Nu7avE) | 4:15 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 59 | [Para El Barrio](https://open.spotify.com/track/2F9M3yMeJCiAzIJpnbSWRE) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [Para El Barrio](https://open.spotify.com/album/1KscIu4gQDfRNqPw0CEqMy) | 3:12 |
 | 60 | [Nuestra Canción](https://open.spotify.com/track/0Wsi12i9lVK054jWHIhkkZ) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc) | [Nuestra Canción](https://open.spotify.com/album/3EQ5tfMWami2tNp5FW3Ux4) | 3:21 |
 | 61 | [Soy Mala](https://open.spotify.com/track/10pyLImhmwLQcl3G4ahJZB) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92) | [Adrenalina](https://open.spotify.com/album/4806StxcG6kpJXdGwMH9Tc) | 1:57 |
-| 62 | [Es Claro](https://open.spotify.com/track/6rmWdaLQjCFmwgjujWPnY9) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Es Claro](https://open.spotify.com/album/5bZbVxM7cTMdqUkoNcRr5y) | 2:41 |
-| 63 | [San Mike](https://open.spotify.com/track/1IsK1ydUSOuc32aMwYB0wa) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [San Mike](https://open.spotify.com/album/49o87APRm62j0t13TMOB4E) | 2:51 |
+| 62 | [San Mike](https://open.spotify.com/track/1IsK1ydUSOuc32aMwYB0wa) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [San Mike](https://open.spotify.com/album/49o87APRm62j0t13TMOB4E) | 2:51 |
+| 63 | [Es Claro](https://open.spotify.com/track/6rmWdaLQjCFmwgjujWPnY9) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Es Claro](https://open.spotify.com/album/5bZbVxM7cTMdqUkoNcRr5y) | 2:41 |
 | 64 | [LMV](https://open.spotify.com/track/3VX6Iwk3LMKWLWZCX4xJwD) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY), [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [LMV](https://open.spotify.com/album/5S4OjWHkDANBQJUyRwRlNX) | 2:51 |
 | 65 | [Te Voy a Extrañar](https://open.spotify.com/track/04vBxuAspmsQYLa1KprV8m) | [XODERICK](https://open.spotify.com/artist/6p4uhW3K5NmxiGswulf8PG) | [Te Voy a Extrañar](https://open.spotify.com/album/1eYGKfBjoEEotKjRlqUTkG) | 2:55 |
 | 66 | [Ya No Eres Igual](https://open.spotify.com/track/56XRdqcXlIquG1BZuirDel) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [FASES](https://open.spotify.com/album/4cCKSr1kDU2hYecgmMmHBn) | 3:10 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 78 | [Roll It](https://open.spotify.com/track/1rmkdRN6cMTLEgVlrl2fVK) | [Jay Sánchez](https://open.spotify.com/artist/3KWXqSfNmUT0fdjBmTisCJ) | [Roll It](https://open.spotify.com/album/3oLDxDpjzpNPOU8KdzUjx4) | 2:56 |
 | 79 | [Tus Fotos](https://open.spotify.com/track/4C4USvr4GemqacUhUZ3Km9) | [Ehlyan Chacon](https://open.spotify.com/artist/2D2fre4AIeXh7bw4oo2A5V) | [Tus Fotos](https://open.spotify.com/album/6pWbGCNM2ebZP0Ja7xWAhu) | 2:36 |
 
-Snapshot ID: `MTY4MjA1ODE1NiwwMDAwMDAwMGQ0ZGM2YWRmMjk5MzZiYjdhMjgzNGIxNmY0ZWMzYjRh`
+Snapshot ID: `MTY4MjA1ODE1NiwwMDAwMDAwMDg0YmUzZGFmNjU4NjJiNzhkOTEzNmU0NGNhNmJmOGEw`

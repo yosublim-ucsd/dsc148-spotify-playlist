@@ -1,12 +1,12 @@
 {
   "description": "Indie pop when ur crushing",
-  "num_followers": 487309,
+  "num_followers": 487340,
   "original_name": "text me back",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzAxOTY4MSwwMDAwMDAwMDYxZGUyZmM0OThmMjc5NDU5YjgyZTY5ZWY5OWM1ODkz",
+  "snapshot_id": "MTY3NzAxOTY4MSwwMDAwMDAwMDAwNmZjMzU2MDUwNzE1ZWU2MDVlYTI3YmQyZDM5YmI0",
   "tracks": [
     {
       "added_at": "2023-02-21 22:48:01",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-02-21 22:48:01",
       "album": {
-        "name": "C U Girl",
-        "url": "https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 129697,
-      "name": "C U Girl",
-      "url": "https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX"
-    },
-    {
-      "added_at": "2023-02-21 22:48:01",
-      "album": {
         "name": "minor",
         "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 167538,
       "name": "I miss you, I\u2019m sorry",
       "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
+    },
+    {
+      "added_at": "2023-02-21 22:48:01",
+      "album": {
+        "name": "C U Girl",
+        "url": "https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 129697,
+      "name": "C U Girl",
+      "url": "https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX"
     },
     {
       "added_at": "2023-02-21 22:48:01",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-02-21 22:48:01",
       "album": {
-        "name": "striptease",
-        "url": "https://open.spotify.com/album/7f00XGE0JdyekiSS14v9QR"
-      },
-      "artists": [
-        {
-          "name": "carwash",
-          "url": "https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX"
-        }
-      ],
-      "duration_ms": 160659,
-      "name": "striptease",
-      "url": "https://open.spotify.com/track/62C8Bd6EgEOofLZ1COjF3n"
-    },
-    {
-      "added_at": "2023-02-21 22:48:01",
-      "album": {
         "name": "ARIZONA BABY",
         "url": "https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO"
       },
@@ -679,18 +663,18 @@
     {
       "added_at": "2023-02-21 22:48:01",
       "album": {
-        "name": "Next Thing",
-        "url": "https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1"
+        "name": "striptease",
+        "url": "https://open.spotify.com/album/7f00XGE0JdyekiSS14v9QR"
       },
       "artists": [
         {
-          "name": "Frankie Cosmos",
-          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+          "name": "carwash",
+          "url": "https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX"
         }
       ],
-      "duration_ms": 124021,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/5Yx9t9RgATAtYoHN8gbRM0"
+      "duration_ms": 160659,
+      "name": "striptease",
+      "url": "https://open.spotify.com/track/62C8Bd6EgEOofLZ1COjF3n"
     },
     {
       "added_at": "2023-02-21 22:48:01",
@@ -711,6 +695,22 @@
       "duration_ms": 135016,
       "name": "Hello?",
       "url": "https://open.spotify.com/track/7qwt4xUIqQWCu1DJf96g2k"
+    },
+    {
+      "added_at": "2023-02-21 22:48:01",
+      "album": {
+        "name": "Next Thing",
+        "url": "https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1"
+      },
+      "artists": [
+        {
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+        }
+      ],
+      "duration_ms": 124021,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/5Yx9t9RgATAtYoHN8gbRM0"
     },
     {
       "added_at": "2023-02-21 22:48:01",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-02-21 22:48:01",
       "album": {
-        "name": "Sunset Season",
-        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 204120,
-      "name": "Crush Culture",
-      "url": "https://open.spotify.com/track/2sHwSBNDZN2yjCtgwStYt1"
-    },
-    {
-      "added_at": "2023-02-21 22:48:01",
-      "album": {
         "name": "Cayendo (Side A - Acoustic)",
         "url": "https://open.spotify.com/album/0FAWfXvd58Rm2VUSZMF8pr"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 202200,
       "name": "Cayendo (Side A - Acoustic)",
       "url": "https://open.spotify.com/track/72794Eag03xdy7TO0KNuid"
+    },
+    {
+      "added_at": "2023-02-21 22:48:01",
+      "album": {
+        "name": "Sunset Season",
+        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 204120,
+      "name": "Crush Culture",
+      "url": "https://open.spotify.com/track/2sHwSBNDZN2yjCtgwStYt1"
     },
     {
       "added_at": "2023-02-21 22:48:01",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-02-21 22:48:01",
       "album": {
-        "name": "Patched Up",
-        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 223638,
-      "name": "If You Want To",
-      "url": "https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR"
-    },
-    {
-      "added_at": "2023-02-21 22:48:01",
-      "album": {
         "name": "Alvvays",
         "url": "https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 196560,
       "name": "Archie, Marry Me",
       "url": "https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU"
+    },
+    {
+      "added_at": "2023-02-21 22:48:01",
+      "album": {
+        "name": "Patched Up",
+        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 223638,
+      "name": "If You Want To",
+      "url": "https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR"
     },
     {
       "added_at": "2023-02-21 22:48:01",

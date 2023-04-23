@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres que la rompen feat\. Saramalacara.<br/>Dales play, dales power.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,484 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,490 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 13 | [Bendición](https://open.spotify.com/track/05LC7bVfkMrW6Ojx59DJmI) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [Bendición](https://open.spotify.com/album/73b0Kk4U4s0YEYPLZZrFz9) | 2:01 |
 | 14 | [DÍAS COMO HOY](https://open.spotify.com/track/6ukf7MHX1L5iwGUKCxm13N) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Lonely Fans](https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P) | 3:31 |
 | 15 | [me canse de las canciones de amor](https://open.spotify.com/track/1bAqJhVVywzcbt1keh5m6m) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [ROMANCE MIXTAPE 2](https://open.spotify.com/album/0seBnIfzhEIp9o4sSQA8dk) | 1:31 |
-| 16 | [Fumando Menos](https://open.spotify.com/track/2KTuqLyX4K0on4TovE9u8o) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Fumando Menos](https://open.spotify.com/album/0Wk5E3svT8yYLBt8ApetaP) | 3:07 |
-| 17 | [Pulso](https://open.spotify.com/track/4y90PJFul4Mcv17dB7Gz1U) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Pulso](https://open.spotify.com/album/4iKFJ6kNQ83QEsK6HsVoDV) | 2:26 |
+| 16 | [Pulso](https://open.spotify.com/track/4y90PJFul4Mcv17dB7Gz1U) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Pulso](https://open.spotify.com/album/4iKFJ6kNQ83QEsK6HsVoDV) | 2:26 |
+| 17 | [Fumando Menos](https://open.spotify.com/track/2KTuqLyX4K0on4TovE9u8o) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Fumando Menos](https://open.spotify.com/album/0Wk5E3svT8yYLBt8ApetaP) | 3:07 |
 | 18 | [Sed](https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:26 |
 | 19 | [Rothmans](https://open.spotify.com/track/1mhq1CwMSZD6hITfzm6AzE) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Llorando en la Fiesta](https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD) | 3:11 |
 | 20 | [Dwele](https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Dwele](https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz) | 3:12 |
@@ -32,14 +32,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 22 | [Algo](https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Algo](https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb) | 2:48 |
 | 23 | [NO ESTÁ EN EL SISTEMA](https://open.spotify.com/track/2ofro0kd49m5OkKDAkxWCP) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [UN NÚMERO](https://open.spotify.com/album/5q6ysT1TcmswkV4c86d2bI) | 1:12 |
 | 24 | [PLUSH](https://open.spotify.com/track/5xhqoMCMBBuuwnjnTL3p9d) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [PLUSH](https://open.spotify.com/album/10mhRKgJ8ZMUAvnXANmzXN) | 3:01 |
-| 25 | [Últimamente](https://open.spotify.com/track/0TkvjgWhJWu3jvcmTaAKWE) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Últimamente](https://open.spotify.com/album/1jDdp6VLMKPTU8trOHFYGo) | 3:44 |
-| 26 | [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 |
+| 25 | [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 |
+| 26 | [Últimamente](https://open.spotify.com/track/0TkvjgWhJWu3jvcmTaAKWE) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Últimamente](https://open.spotify.com/album/1jDdp6VLMKPTU8trOHFYGo) | 3:44 |
 | 27 | [Cosa Suya](https://open.spotify.com/track/1Z74xogis6AXH1khWQRJ95) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:33 |
 | 28 | [Nollie](https://open.spotify.com/track/6ArokDS7IVFs05T2GfSCHz) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:53 |
 | 29 | [Tu Amante](https://open.spotify.com/track/4AKNYXSaCUwvP8iK2kQYk2) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [Tu Amante](https://open.spotify.com/album/1XAMmnGeJPNG2uKRq1GGZZ) | 2:45 |
 | 30 | [Mágica Intuición](https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Mágica Intuición](https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE) | 3:10 |
-| 31 | [Miseria](https://open.spotify.com/track/133WrLbDi3hHdqnmivs1yX) | [THE COLORATED](https://open.spotify.com/artist/5TR49gppYqwHy7E6VHFUpK), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk) | [Miseria](https://open.spotify.com/album/6OvaaOohiSRpW9w9iJ0gAM) | 2:20 |
-| 32 | [Paranormal](https://open.spotify.com/track/2DBkKyH9T63bvfNRmXlPRZ) | [MUÑEKI77A](https://open.spotify.com/artist/4vPj1iAE8l3VAQNenIOGt8) | [Paranormal](https://open.spotify.com/album/2O23fQIEXMr2vD1DpYnqDA) | 2:37 |
+| 31 | [Paranormal](https://open.spotify.com/track/2DBkKyH9T63bvfNRmXlPRZ) | [MUÑEKI77A](https://open.spotify.com/artist/4vPj1iAE8l3VAQNenIOGt8) | [Paranormal](https://open.spotify.com/album/2O23fQIEXMr2vD1DpYnqDA) | 2:37 |
+| 32 | [Miseria](https://open.spotify.com/track/133WrLbDi3hHdqnmivs1yX) | [THE COLORATED](https://open.spotify.com/artist/5TR49gppYqwHy7E6VHFUpK), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk) | [Miseria](https://open.spotify.com/album/6OvaaOohiSRpW9w9iJ0gAM) | 2:20 |
 | 33 | [DNI](https://open.spotify.com/track/7pm3ArAgPXyT5kgk0RYLpW) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [UN NÚMERO](https://open.spotify.com/album/5q6ysT1TcmswkV4c86d2bI) | 1:43 |
 | 34 | [BF4E](https://open.spotify.com/track/6Dad5XKRcJ3m8dQapu3fjG) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 4:03 |
 | 35 | [Música bailando](https://open.spotify.com/track/7a0UdEUK9b0zcRWMLHDhDA) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Música bailando](https://open.spotify.com/album/4j0GvUmwAlMVfRz9SVfaRq) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [despierta](https://open.spotify.com/track/6RaR0vyZoX5ZIStjqJDAZz) | [Catnapp](https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU), [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK) | [TRUST](https://open.spotify.com/album/558F6R7m4TZSKYb4xnANuF) | 5:02 |
 | 50 | [Natación](https://open.spotify.com/track/5IB0PE3Ph0Zki4oYiuBz0a) | [Marte Lupardo](https://open.spotify.com/artist/1oIAFHDNTaevByZvdcm5AY) | [Natación](https://open.spotify.com/album/04MnHHG7mhfi8PNzlC7rt4) | 3:35 |
 
-Snapshot ID: `MTY4MDY2MzYwMCwwMDAwMDAwMDcwMTM3ZDlmZTQxMTUxZTM2ZThjOTdjYTU5ZTZmYWUx`
+Snapshot ID: `MTY4MDY2MzYwMCwwMDAwMDAwMDEyMjRiYWViMzQzNjcyMDhjNTYzZjRjNzUzYjA5ZGFk`

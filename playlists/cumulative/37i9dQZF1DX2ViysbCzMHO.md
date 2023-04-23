@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-227 songs - 12 hr 25 min
+228 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK) | 3:27 | 2021-12-17 |  |
 | [Come Back To Bed \(Acoustic\)](https://open.spotify.com/track/2wHKUJvY7K86a9JUAvX4PC) | [Sean Stemaly](https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb) | [Come Back To Bed \(Acoustic\)](https://open.spotify.com/album/1p2jMjlTEQs8jEPz1kbf1H) | 3:25 | 2021-12-17 |  |
 | [Cool \- Acoustic](https://open.spotify.com/track/1q1pEif83MuO9ViKMY3jax) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Cool \(Acoustic\)](https://open.spotify.com/album/4HEV60QmHXJmehJuR79SJe) | 3:24 | 2021-12-17 | 2022-07-29 |
+| [Coulda Loved You Longer \- Acoustic](https://open.spotify.com/track/6igwsNMONs9uIqrLUCYWhj) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Barstool Whiskey Wonderland \(Wonderland Sides\)](https://open.spotify.com/album/1VpOY5cZtzPWFnv4W7UBeq) | 3:05 | 2023-04-21 |  |
 | [Dirt Road \- Nashville Session](https://open.spotify.com/track/7HbRlzxSl4zjaY75QNJ169) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [The Nashville Sessions](https://open.spotify.com/album/5xkwEARs8kunLXWeEWglae) | 2:37 | 2022-12-09 | 2023-03-27 |
 | [Don't Come Lookin' \- Live Acoustic](https://open.spotify.com/track/0lkuEYkTZSSLqWOACTGO20) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Don't Come Lookin' \(Live Acoustic\)](https://open.spotify.com/album/77pg4C4XhSOYf2UJaKwpp6) | 3:35 | 2022-07-29 | 2022-10-02 |
 | [Drinkin' Beer\. Talkin' God\. Amen\. \(feat\. Florida Georgia Line\) \- Acoustic](https://open.spotify.com/track/5WlaHL9HnkhRMrVkvsLcd5) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [The Album \(Acoustic\)](https://open.spotify.com/album/6HrXzPva9d1ucDAUO1lyS9) | 2:40 | 2021-12-17 | 2022-08-01 |
@@ -214,7 +215,7 @@
 | [What A Song Can Do \- Stripped Down](https://open.spotify.com/track/5bzbzfiqtmNazwQOgAB2ik) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What A Song Can Do \(Stripped Down\)](https://open.spotify.com/album/3woLGAG13LtQ1PwoZ1Yndd) | 3:57 | 2022-06-10 | 2023-04-22 |
 | [What He Didn't Do \- Acoustic](https://open.spotify.com/track/5Jvc5wJuQOBrRxV5JgGgSX) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [What He Didn't Do \(Acoustic\)](https://open.spotify.com/album/59dYMGSh4qPQ9X0tvsTAG9) | 3:09 | 2022-11-18 |  |
 | [WHAT I HAVE](https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [WHAT I HAVE](https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC) | 2:58 | 2022-09-02 |  |
-| [What If I Never Get Over You \- Piano Version](https://open.spotify.com/track/3LyoySNTjsKrBAZYWneQUr) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What If I Never Get Over You \(Piano Version\)](https://open.spotify.com/album/11bmQ3T03JQ2aTfY62MPib) | 3:24 | 2021-12-17 |  |
+| [What If I Never Get Over You \- Piano Version](https://open.spotify.com/track/3LyoySNTjsKrBAZYWneQUr) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What If I Never Get Over You \(Piano Version\)](https://open.spotify.com/album/11bmQ3T03JQ2aTfY62MPib) | 3:24 | 2021-12-17 | 2023-04-23 |
 | [What If I'm Right \(Stripped\)](https://open.spotify.com/track/4VQo86DajWMXAJVkcurzC9) | [Adam Sanders](https://open.spotify.com/artist/17ewtqMhsRUPRdhpYLzMxg) | [What If I'm Right \(Stripped\)](https://open.spotify.com/album/5iSxYZRm5fOnVkO5ZnWnoM) | 2:44 | 2021-12-17 | 2022-07-28 |
 | [What Was I Drinking \- Acoustic](https://open.spotify.com/track/3UnorFmDPHUdLJLo1rk8qz) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [What Was I Drinking \(Acoustic\)](https://open.spotify.com/album/3fMKr62siq96Ig3knG3BMi) | 2:58 | 2022-04-29 | 2022-07-10 |
 | [Where Did We Go? \- Acoustic](https://open.spotify.com/track/40SgaRxSRtapCUkpUAmQy6) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Where Did We Go? \(Acoustic\)](https://open.spotify.com/album/1HpFFDvla4g3V8IxYApOu4) | 2:39 | 2022-04-29 | 2022-07-17 |

@@ -7357,6 +7357,28 @@
     },
     {
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/6RqD63Moj0mnF9Kw4JQ90o"
+      },
+      "artists": [
+        {
+          "name": "Scot & Millfield",
+          "url": "https://open.spotify.com/artist/6LTgaNvQ4z07MLP5Fs3plh"
+        },
+        {
+          "name": "Neil Richter",
+          "url": "https://open.spotify.com/artist/3QSWiXerHlC3jKwrjGtPq8"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200086,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/0xn1a5jQoZ0GeilX3VSp2g"
+    },
+    {
+      "album": {
         "name": "Hold Tight (feat. Darla Jade) [Dombresky Remix]",
         "url": "https://open.spotify.com/album/6RNS8D3qoHQQ2LqKUAV2wy"
       },
@@ -15511,6 +15533,24 @@
     },
     {
       "album": {
+        "name": "So Alive",
+        "url": "https://open.spotify.com/album/59V4ia9qAFxKK7w3jHm2Lj"
+      },
+      "artists": [
+        {
+          "name": "Mismatch (UK)",
+          "url": "https://open.spotify.com/artist/6ZfK3mmhQuGjhOAAAvSuSY"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194754,
+      "name": "So Alive",
+      "url": "https://open.spotify.com/track/3I9hemewMQVBd5qpep8Zdl"
+    },
+    {
+      "album": {
         "name": "SO BIG",
         "url": "https://open.spotify.com/album/2JOSMhOwsTSBmaXai7eFza"
       },
@@ -16610,6 +16650,28 @@
       "duration_ms": 160645,
       "name": "Tamo Loco",
       "url": "https://open.spotify.com/track/19EwqyuwH4Na6bnOlIe3O0"
+    },
+    {
+      "album": {
+        "name": "Tantra",
+        "url": "https://open.spotify.com/album/4gv6XKdDCF5eJtmy7u2aqF"
+      },
+      "artists": [
+        {
+          "name": "DEEP INSIDE (UA)",
+          "url": "https://open.spotify.com/artist/6pbIQVTgSgtIEgPcbt4AFh"
+        },
+        {
+          "name": "TAU (UA)",
+          "url": "https://open.spotify.com/artist/6OLybB0kzvZsaAPl3o6lcI"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351219,
+      "name": "Tantra",
+      "url": "https://open.spotify.com/track/7r5P4pGQEb6LlZonogTpVh"
     },
     {
       "album": {

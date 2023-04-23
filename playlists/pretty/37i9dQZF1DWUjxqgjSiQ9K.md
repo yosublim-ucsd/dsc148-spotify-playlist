@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:  <a href="https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd?si=0f5e97f671f942ea">Marcos Vidal</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,637 likes - 100 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,731 likes - 100 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 34 | [Tu Autoridad](https://open.spotify.com/track/0ciNudJhfiMWE48PBGW0zB) | [René González](https://open.spotify.com/artist/65cuDgm56bv2MhCytEVRRF) | [Tu Autoridad](https://open.spotify.com/album/40MFlVfN4uVqGzDWKF4xhl) | 4:01 |
 | 35 | [Profundo II](https://open.spotify.com/track/6BFJ260uGD3yRyASBzOFUm) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG), [Leonardo vera](https://open.spotify.com/artist/11aljheqgUQuTC2spSpATw) | [Profundo II](https://open.spotify.com/album/6RauIJjotwBlwiFwUrY8JP) | 3:23 |
 | 36 | [Yo Creo](https://open.spotify.com/track/0CvHQgWdxvSQmdwSeS38qf) | [Celeste Nova](https://open.spotify.com/artist/1KaJ3etxmMVYOZLMAbHoOK), [Daniel González](https://open.spotify.com/artist/19I7BPTeyRKj9Xq41sc35Q), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [Yo Creo](https://open.spotify.com/album/5QcQgJd2KjPJJ0IXPBPkOt) | 3:46 |
-| 37 | [Ven Avívanos](https://open.spotify.com/track/5MZUbhVPuW6Jr5dd34ypj1) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Alex Campos](https://open.spotify.com/artist/3k0DlvgKZbZ4Kd12GUYRBC) | [Ven Avívanos](https://open.spotify.com/album/0y5ql9mxvvTP26KTflh18d) | 5:19 |
+| 37 | [Ven Avívanos](https://open.spotify.com/track/5MZUbhVPuW6Jr5dd34ypj1) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Ven Avívanos](https://open.spotify.com/album/0y5ql9mxvvTP26KTflh18d) | 5:19 |
 | 38 | [Canción de Amor](https://open.spotify.com/track/21fZyhHx1Xtc0uWn6g29CX) | [Full Life Music](https://open.spotify.com/artist/5t7m02DMcbdLQVwg87Qnup), [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a) | [Canción de Amor](https://open.spotify.com/album/3758cs8NsR5Jvz9uHPsMO1) | 3:37 |
 | 39 | [Tomarte de la Mano](https://open.spotify.com/track/1j8xgO0FICUq7wSJZrdHff) | [La Sociedad 111](https://open.spotify.com/artist/12V2P7Bpb6pnvSHzUVjw9p), [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a) | [Tomarte de la Mano](https://open.spotify.com/album/7sssGhuFAcudjqHI3sUZOn) | 3:28 |
 | 40 | [Celebra Victorioso](https://open.spotify.com/track/5SalhBIQrEXU76v9QGL6Sh) | [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Celebra Victorioso](https://open.spotify.com/album/2qHcU5VILpvAe1B1tu53yA) | 3:48 |

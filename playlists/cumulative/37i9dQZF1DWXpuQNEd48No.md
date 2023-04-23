@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Pranjal Dahiya & KHATRI
 
-59 songs - 3 hr 22 min
+60 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Day By Day](https://open.spotify.com/track/76WnNlXWHy8kYtS6qJcW1B) | [Vikash Kashyap](https://open.spotify.com/artist/0aRUcCzk6K2cy4SsvsypQf), [Ranjan Assaniya](https://open.spotify.com/artist/5JKxDoTKlzy3lF2KiKQUq4) | [Day By Day](https://open.spotify.com/album/5SzLToKl72b5GspUW086PG) | 4:27 | 2023-04-03 |  |
 | [Desi Haan Ji](https://open.spotify.com/track/1LXUJ62m2Ak7ZuXSxkftgW) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K), [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Desi Haan Ji](https://open.spotify.com/album/4iFoZiTsA7Q6aSrB5EIETo) | 3:53 | 2023-03-28 |  |
 | [DJ Baajan De](https://open.spotify.com/track/3owDxCaFzjXl3blZQ6EonS) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [MD DesiRockstar](https://open.spotify.com/artist/5j28WuraZ1QL8A3IXruKU0), [DJ Sheizwood](https://open.spotify.com/artist/11PdcXwGoRPtYOXNETRC0x), [Simaran Kaur](https://open.spotify.com/artist/2dTGtc9FpbXHMuAw95F6sy) | [DJ Baajan De](https://open.spotify.com/album/4UQGppLaW1FDAYnPSW7d5n) | 3:05 | 2023-03-28 | 2023-04-19 |
+| [Donali](https://open.spotify.com/track/7pGWXs5NjOtYnr07cjVj9y) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Donali](https://open.spotify.com/album/0xlAEkP9ChcMnyxR1Fm5X2) | 3:24 | 2023-04-22 |  |
 | [Flirt](https://open.spotify.com/track/4K6jf2Pu26P6VbsLdOZP7e) | [MD](https://open.spotify.com/artist/2DAFnKypr3QcXMZZjHnFtx), [KD](https://open.spotify.com/artist/4F4MEZmjiBwcqNa4bTT6PD) | [Flirt](https://open.spotify.com/album/1bJEz7lupCxXDH2g6e65tN) | 4:47 | 2023-03-28 |  |
 | [Ghani Syaani](https://open.spotify.com/track/1Cb0T2tnApa38jg8DOUF0B) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Shehnaaz Gill](https://open.spotify.com/artist/1opCEf85NTZSE7YkxLCvmV), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Ghani Syaani](https://open.spotify.com/album/6XMfzJDG7d0IedtJLfWDdc) | 3:33 | 2023-03-28 |  |
 | [Goli](https://open.spotify.com/track/5bJVRkqNWRwULSglgjLLL1) | [Ron Likhari](https://open.spotify.com/artist/3HtPdSP2gc9CkXVysXsRQS) | [Goli](https://open.spotify.com/album/32lzoDt96kxUb6Hh8cRy6m) | 2:45 | 2023-03-28 | 2023-04-04 |
@@ -43,7 +44,7 @@
 | [Kurta Pajama](https://open.spotify.com/track/3bGBZ5hsWJU9WfMXeajHw7) | [Raj Mawer](https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2) | [Kurta Pajama](https://open.spotify.com/album/1NAmbgqpAiLinz2r5d1mcQ) | 2:58 | 2023-03-28 |  |
 | [MAHAKAAL](https://open.spotify.com/track/6bwmcJiXjx2297D0mgdeFF) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [MAHAKAAL](https://open.spotify.com/album/6P1oRqxxhiRkmOvSdG0hw0) | 3:19 | 2023-03-28 |  |
 | [Mcoca](https://open.spotify.com/track/1xbltijhuDs1FqqnBplv8l) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Mcoca](https://open.spotify.com/album/1LTxGYiIFEo8KzqpEkJKS1) | 3:13 | 2023-03-28 |  |
-| [MERCURY](https://open.spotify.com/track/6RbMiYrULpv1XVbXwipI9o) | [Divesh Khatana](https://open.spotify.com/artist/3iKTund4Lk0ABArnhE53lX) | [MERCURY](https://open.spotify.com/album/5wSwuPIraFkhnFyANEooT7) | 3:07 | 2023-03-28 |  |
+| [MERCURY](https://open.spotify.com/track/6RbMiYrULpv1XVbXwipI9o) | [Divesh Khatana](https://open.spotify.com/artist/3iKTund4Lk0ABArnhE53lX) | [MERCURY](https://open.spotify.com/album/5wSwuPIraFkhnFyANEooT7) | 3:07 | 2023-03-28 | 2023-04-23 |
 | [Mucha Aale Tag](https://open.spotify.com/track/3AcqkjDa0WTD0IlmALWiB6) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Mucha Aale Tag](https://open.spotify.com/album/1voI6OoJtnFjfPQrwnLM4W) | 3:23 | 2023-03-28 |  |
 | [Naina Ki Talwar](https://open.spotify.com/track/5MpM5puyNHPxDEoe1l5ldo) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Hustle 2.0](https://open.spotify.com/album/4tlu5ECRwxyCSyMICmau24) | 2:42 | 2023-03-28 |  |
 | [Nature](https://open.spotify.com/track/7suBMs3Cb9lMTSnJncc7cC) | [Kabira](https://open.spotify.com/artist/75BrljVmqRx34PtL0O8qxa), [NJ Nindaniya](https://open.spotify.com/artist/1YDHNg4ktw5sY6bLsZ2L4V) | [Nature](https://open.spotify.com/album/1RBHpREFfZemn6f2aXfrQh) | 3:28 | 2023-03-28 |  |

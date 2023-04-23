@@ -1,12 +1,12 @@
 {
   "description": "Feel good, high energy beats to keep you motivated for that every day workout!",
-  "num_followers": 86937,
+  "num_followers": 87017,
   "original_name": "Gym Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyMzE0MCwwMDAwMDAwMDg3Nzk1ZmE2MGIzMGM1NjRjZGE4MGFhNTM3MTc2N2Qw",
+  "snapshot_id": "MTY4MTQyMzE0MCwwMDAwMDAwMDgxZWNmZWViOTYyYTEyMmE2YTViNjU1Yzg4NjYzN2E5",
   "tracks": [
     {
       "added_at": "2023-04-13 21:59:00",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-04-13 21:59:00",
       "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 320357,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
+    },
+    {
+      "added_at": "2023-04-13 21:59:00",
+      "album": {
         "name": "Breaking Me",
         "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 166793,
       "name": "Breaking Me",
       "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
-    },
-    {
-      "added_at": "2023-04-13 21:59:00",
-      "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 320357,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
     },
     {
       "added_at": "2023-04-13 21:59:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-04-13 21:59:00",
       "album": {
-        "name": "Blah Blah Blah",
-        "url": "https://open.spotify.com/album/1oqv6oabMXbNpgZ6gmjAIN"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 183518,
-      "name": "Blah Blah Blah",
-      "url": "https://open.spotify.com/track/2xkrujtSjZz7EKAYGbIIzH"
-    },
-    {
-      "added_at": "2023-04-13 21:59:00",
-      "album": {
         "name": "Upside Down (feat. Poppy Baskcomb)",
         "url": "https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 174374,
       "name": "Upside Down (feat. Poppy Baskcomb)",
       "url": "https://open.spotify.com/track/2UDycsru4dEa1UFmyIvKYU"
+    },
+    {
+      "added_at": "2023-04-13 21:59:00",
+      "album": {
+        "name": "Blah Blah Blah",
+        "url": "https://open.spotify.com/album/1oqv6oabMXbNpgZ6gmjAIN"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 183518,
+      "name": "Blah Blah Blah",
+      "url": "https://open.spotify.com/track/2xkrujtSjZz7EKAYGbIIzH"
     },
     {
       "added_at": "2023-04-13 21:59:00",
@@ -1155,22 +1155,22 @@
     {
       "added_at": "2023-04-13 21:59:00",
       "album": {
-        "name": "Intoxicated (Radio Edit)",
-        "url": "https://open.spotify.com/album/0vI4F2iMd1CM9Jw9WQuJyN"
+        "name": "Worship You",
+        "url": "https://open.spotify.com/album/1hQiBI8EdaW5dR4gja8w7f"
       },
       "artists": [
         {
-          "name": "Martin Solveig",
-          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
         },
         {
-          "name": "Good Times Ahead",
-          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
         }
       ],
-      "duration_ms": 159560,
-      "name": "Intoxicated - Radio Edit",
-      "url": "https://open.spotify.com/track/0dbQ4h3cs8QE5fOPMYdDrX"
+      "duration_ms": 178760,
+      "name": "Worship You",
+      "url": "https://open.spotify.com/track/2rfZyAX6wZxQWMQ9GYyLIu"
     }
   ],
   "unique_name": "Gym Beats",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > Dive into the full collection of Spotify Singles recordings\. Cover: Cat Burns.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,342 likes - 845 songs - 2 day 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,361 likes - 845 songs - 2 day 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

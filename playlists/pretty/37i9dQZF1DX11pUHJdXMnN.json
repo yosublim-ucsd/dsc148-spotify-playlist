@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 57391,
+  "num_followers": 57416,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDVlNGRkNjgwNDBhMzdhODBmYjlkY2M2NGMxNzVkNjg0",
+  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDgxNDVhOGNhZTFkZmFlY2FiYTA2MWQ4Nzk5M2Q0Y2Vm",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -503,26 +503,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "In My Element (Skream Remix)",
-        "url": "https://open.spotify.com/album/615KSINGHRzvojc2VGQ97U"
-      },
-      "artists": [
-        {
-          "name": "The Clause",
-          "url": "https://open.spotify.com/artist/7KpYPnMoADYtIMt1XPvmzZ"
-        },
-        {
-          "name": "Skream",
-          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "In My Element - Skream Remix",
-      "url": "https://open.spotify.com/track/3LtOC0fsGjmhOg5E78lIFW"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Ardore (feat. Tobias Bernstrup)",
         "url": "https://open.spotify.com/album/5suKkPyhnb5Rf5wVQdDSGT"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 212903,
       "name": "Ardore",
       "url": "https://open.spotify.com/track/1T2DffseqEO4skwGYB4z9w"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "In My Element (Skream Remix)",
+        "url": "https://open.spotify.com/album/615KSINGHRzvojc2VGQ97U"
+      },
+      "artists": [
+        {
+          "name": "The Clause",
+          "url": "https://open.spotify.com/artist/7KpYPnMoADYtIMt1XPvmzZ"
+        },
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "In My Element - Skream Remix",
+      "url": "https://open.spotify.com/track/3LtOC0fsGjmhOg5E78lIFW"
     },
     {
       "added_at": "2021-08-27 15:45:01",

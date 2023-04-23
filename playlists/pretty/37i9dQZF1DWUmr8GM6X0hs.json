@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 63807,
+  "num_followers": 63856,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMDVmNzMwMWIwZmI0N2Q3YmZhYTA4YWI0MGM2NjFkMTFj",
+  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMDVlYjg2NzFiMjc5ZTEyNzg0NzZkNGFjNzA4YmJkY2Ew",
   "tracks": [
     {
       "added_at": "2021-12-17 05:01:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Las Estrellas De La Matancera",
+        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
+      },
+      "artists": [
+        {
+          "name": "Celio Gonzalez",
+          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
+        }
+      ],
+      "duration_ms": 137826,
+      "name": "En El Balcon Aquel",
+      "url": "https://open.spotify.com/track/0RG50rC99tTOBv81mcB5Qt"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "La Voz Elegante del Bolero",
         "url": "https://open.spotify.com/album/1JLkMWNGLHIp2KWRWXq39H"
       },
@@ -603,22 +619,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Las Estrellas De La Matancera",
-        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
-      },
-      "artists": [
-        {
-          "name": "Celio Gonzalez",
-          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
-        }
-      ],
-      "duration_ms": 137826,
-      "name": "En El Balcon Aquel",
-      "url": "https://open.spotify.com/track/0RG50rC99tTOBv81mcB5Qt"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Un Bolero un Vals, Vol. 2",
         "url": "https://open.spotify.com/album/6QcqMrnNCOFagbX5Xn1Gg4"
       },
@@ -631,42 +631,6 @@
       "duration_ms": 307401,
       "name": "Mi Viejo / Recordando a Mi Padre",
       "url": "https://open.spotify.com/track/5sK9OW4DCGyfO7uaIR9pJq"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Colecci\u00f3n Diamante",
-        "url": "https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h"
-      },
-      "artists": [
-        {
-          "name": "Maria Luisa Landin",
-          "url": "https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Amor Perdido",
-      "url": "https://open.spotify.com/track/6kJrQyiydPbEiAgfU5Phrp"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "La Tierna, Conmovedora, Bamboleadora",
-        "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 174626,
-      "name": "Desvelo De Amor",
-      "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -687,6 +651,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Colecci\u00f3n Diamante",
+        "url": "https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h"
+      },
+      "artists": [
+        {
+          "name": "Maria Luisa Landin",
+          "url": "https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Amor Perdido",
+      "url": "https://open.spotify.com/track/6kJrQyiydPbEiAgfU5Phrp"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Una Rockola en el Cielo, Vol. 1",
         "url": "https://open.spotify.com/album/5dcGv6iJb00Ba4YP3xMrRU"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 113653,
       "name": "Se\u00f1or Abogado",
       "url": "https://open.spotify.com/track/2mA6p6NMBq8Zd1GE3PuPSv"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "La Tierna, Conmovedora, Bamboleadora",
+        "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 174626,
+      "name": "Desvelo De Amor",
+      "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/0rHlMdFWf9O4Uehk8lbRSE"
+      },
+      "artists": [
+        {
+          "name": "Alci Acosta",
+          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
+        }
+      ],
+      "duration_ms": 175418,
+      "name": "La C\u00e1rcel de Sing Sing",
+      "url": "https://open.spotify.com/track/4IntMZwE9POyG4jfH2fczJ"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/4BEpMDJEtdYszrAtlgCOnp"
       },
@@ -931,22 +947,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Aguerrida",
-        "url": "https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 206908,
-      "name": "Si No Est\u00e1s para Mi",
-      "url": "https://open.spotify.com/track/3hGqPor9JKVGAMn2GSHyfn"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "La Dama del Bolero",
         "url": "https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF"
       },
@@ -959,6 +959,22 @@
       "duration_ms": 204174,
       "name": "Acepto Mi Destino",
       "url": "https://open.spotify.com/track/7GbcDRHXyRn1ZEzZWopF0h"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Aguerrida",
+        "url": "https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 206908,
+      "name": "Si No Est\u00e1s para Mi",
+      "url": "https://open.spotify.com/track/3hGqPor9JKVGAMn2GSHyfn"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -979,34 +995,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "M\u00e1s Recuerdos Rom\u00e1nticos",
-        "url": "https://open.spotify.com/album/5DwgXMZWtaRTXfykSwPNVV"
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/3cAzDp7oyxsh1nJiEfWoJr"
       },
       "artists": [
         {
-          "name": "Chivirico Davila",
-          "url": "https://open.spotify.com/artist/6RsRDk1TGzoTsaRsLRKfaQ"
+          "name": "Bobby Capo",
+          "url": "https://open.spotify.com/artist/4HtNNYomY2s6l36CdhOqWW"
         }
       ],
-      "duration_ms": 278040,
-      "name": "As\u00ed",
-      "url": "https://open.spotify.com/track/4Est2AoCaL1zVMmU78Qw3H"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Daniel Santos",
-        "url": "https://open.spotify.com/album/6f9UqC7zgujSSLTW5fMmkc"
-      },
-      "artists": [
-        {
-          "name": "Daniel Santos",
-          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
-        }
-      ],
-      "duration_ms": 121733,
-      "name": "La \u00daltima Copa",
-      "url": "https://open.spotify.com/track/7JtkNGrjQcIH972Ij06TYb"
+      "duration_ms": 166800,
+      "name": "Lo Que Quiera Lola",
+      "url": "https://open.spotify.com/track/6443igXMStgLhDvCveDZfQ"
     }
   ],
   "unique_name": "Boleros en Casa",

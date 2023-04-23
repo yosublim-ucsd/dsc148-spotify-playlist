@@ -1,12 +1,12 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 847748,
+  "num_followers": 848086,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY4NDQwOCwwMDAwMDAwMGU5NTZmNjYxNDU3MTg0NWY4OWEyODJkOGNkZDRjOTk0",
+  "snapshot_id": "MTY2MzY4NDQwOCwwMDAwMDAwMGFmNjRiMjA3NDZlZmM0OWRkOTIwOTM4NWQ5ZjcwYzk2",
   "tracks": [
     {
       "added_at": "2022-08-25 19:21:22",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/44fT03f2YZitnBCuUluCVj"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 202684,
-      "name": "I Like Me Better - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1w5eAssKxCtTpJh7gNQdgO"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "When You Love Someone (Acoustic)",
         "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 210106,
       "name": "When You Love Someone - Acoustic",
       "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/44fT03f2YZitnBCuUluCVj"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 202684,
+      "name": "I Like Me Better - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1w5eAssKxCtTpJh7gNQdgO"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "La Vie En Rose",
-        "url": "https://open.spotify.com/album/3rU947MaPxzKjSSbx4cQjg"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 105500,
-      "name": "La Vie En Rose",
-      "url": "https://open.spotify.com/track/0VxocBntP1XTZRsR9ZURPS"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Issues (Acoustic)",
         "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 175280,
       "name": "Issues - Acoustic",
       "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "La Vie En Rose",
+        "url": "https://open.spotify.com/album/3rU947MaPxzKjSSbx4cQjg"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 105500,
+      "name": "La Vie En Rose",
+      "url": "https://open.spotify.com/track/0VxocBntP1XTZRsR9ZURPS"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
+        "name": "Ain't Nobody (Loves Me Better) [Acoustic] [Acoustic Version]",
+        "url": "https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 178355,
+      "name": "Ain't Nobody (Loves Me Better) - Acoustic",
+      "url": "https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
         "name": "Save Tonight",
         "url": "https://open.spotify.com/album/2jHuPMC1tJvcyqvWMrlvQI"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 270698,
       "name": "Save Tonight",
       "url": "https://open.spotify.com/track/110YC8JMSnxlr5dFrtEdiP"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
-        "name": "Ain't Nobody (Loves Me Better) [Acoustic] [Acoustic Version]",
-        "url": "https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 178355,
-      "name": "Ain't Nobody (Loves Me Better) - Acoustic",
-      "url": "https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Another Bundle of Tantrums",
-        "url": "https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 247816,
-      "name": "Rather Be",
-      "url": "https://open.spotify.com/track/3jk4SgyAUOcXbA78btwgZA"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "All the Lost Souls",
         "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
       },
@@ -835,22 +819,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "#Acoustic",
-        "url": "https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 157466,
-      "name": "Rockabye - Acoustic Version",
-      "url": "https://open.spotify.com/track/5nMRpGfqQ0tb1TMbqBVK2J"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Superstition",
         "url": "https://open.spotify.com/album/6cxIb7DQLAhGSZQXYsybPo"
       },
@@ -863,6 +831,38 @@
       "duration_ms": 272000,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/6Bcsu35LlV2YyUSa1X7Cpf"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Another Bundle of Tantrums",
+        "url": "https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 247816,
+      "name": "Rather Be",
+      "url": "https://open.spotify.com/track/3jk4SgyAUOcXbA78btwgZA"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "#Acoustic",
+        "url": "https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 157466,
+      "name": "Rockabye - Acoustic Version",
+      "url": "https://open.spotify.com/track/5nMRpGfqQ0tb1TMbqBVK2J"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -971,18 +971,18 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Girls Just Wanna Have Fun",
-        "url": "https://open.spotify.com/album/1WJCyViZxB0GWgvZicSxKY"
+        "name": "Dancing On My Own (Acoustic)",
+        "url": "https://open.spotify.com/album/7hsrklBsKFmOtlNkdNEe2o"
       },
       "artists": [
         {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
         }
       ],
-      "duration_ms": 172992,
-      "name": "Girls Just Wanna Have Fun - Acoustic",
-      "url": "https://open.spotify.com/track/7rohDMzsbmSmol7sIZs0Px"
+      "duration_ms": 253482,
+      "name": "Dancing On My Own - Acoustic",
+      "url": "https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Dancing On My Own (Acoustic)",
-        "url": "https://open.spotify.com/album/7hsrklBsKFmOtlNkdNEe2o"
+        "name": "Girls Just Wanna Have Fun",
+        "url": "https://open.spotify.com/album/1WJCyViZxB0GWgvZicSxKY"
       },
       "artists": [
         {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
         }
       ],
-      "duration_ms": 253482,
-      "name": "Dancing On My Own - Acoustic",
-      "url": "https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6"
+      "duration_ms": 172992,
+      "name": "Girls Just Wanna Have Fun - Acoustic",
+      "url": "https://open.spotify.com/track/7rohDMzsbmSmol7sIZs0Px"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Acoustic Favourites",
-        "url": "https://open.spotify.com/album/3tYngR2cnIgJPRtUwv5S1Z"
-      },
-      "artists": [
-        {
-          "name": "Matt Johnson",
-          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
-        }
-      ],
-      "duration_ms": 126827,
-      "name": "I Feel It Coming - Acoustic Live Lounge",
-      "url": "https://open.spotify.com/track/6rTmz0BVcErmi00dmEMDFn"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 194129,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Acoustic Favourites",
+        "url": "https://open.spotify.com/album/3tYngR2cnIgJPRtUwv5S1Z"
+      },
+      "artists": [
+        {
+          "name": "Matt Johnson",
+          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
+        }
+      ],
+      "duration_ms": 126827,
+      "name": "I Feel It Coming - Acoustic Live Lounge",
+      "url": "https://open.spotify.com/track/6rTmz0BVcErmi00dmEMDFn"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Too Much To Ask (Acoustic)",
-        "url": "https://open.spotify.com/album/54VaqAx59YDqRsoBh4l5Up"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 221598,
-      "name": "Too Much To Ask - Acoustic",
-      "url": "https://open.spotify.com/track/6HTDbFiF3c6QFRKkB6DcR4"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Mama (Acoustic)",
         "url": "https://open.spotify.com/album/4n6LyGcoQuvQqAbhAWUsSl"
       },
@@ -1263,6 +1247,38 @@
       "duration_ms": 192277,
       "name": "Mama - Acoustic",
       "url": "https://open.spotify.com/track/2o5woNaj4eQXCwbrJ001A2"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Too Much To Ask (Acoustic)",
+        "url": "https://open.spotify.com/album/54VaqAx59YDqRsoBh4l5Up"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 221598,
+      "name": "Too Much To Ask - Acoustic",
+      "url": "https://open.spotify.com/track/6HTDbFiF3c6QFRKkB6DcR4"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 165697,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 165697,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Shallow",
         "url": "https://open.spotify.com/album/6JlWkUQJQu2Py6G2zL1sLA"
       },
@@ -1343,22 +1343,6 @@
       "duration_ms": 221712,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/4q0v24VXobXe0kTLb46Xa9"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6zsyF9yFf1KzJIt4mJJNzj"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 154764,
-      "name": "Have You Ever Seen The Rain - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/1iZdFYJujH9VZtj7c0Xw2y"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1395,6 +1379,22 @@
       "duration_ms": 231013,
       "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
       "url": "https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6zsyF9yFf1KzJIt4mJJNzj"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 154764,
+      "name": "Have You Ever Seen The Rain - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/1iZdFYJujH9VZtj7c0Xw2y"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "American Girl",
-        "url": "https://open.spotify.com/album/0EArGGTFL9r7Qhqg3tfXqG"
-      },
-      "artists": [
-        {
-          "name": "Peter Ryans",
-          "url": "https://open.spotify.com/artist/2d6l7CTjCeBUSQmQNcmNH0"
-        }
-      ],
-      "duration_ms": 160413,
-      "name": "Ho Hey",
-      "url": "https://open.spotify.com/track/3cfb2iNdWpf1EZ4KaBLOjm"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "The Tip Jar Volume One",
         "url": "https://open.spotify.com/album/75YvythgsopCVDoPR4R1Lx"
       },
@@ -1631,18 +1615,34 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/51FVeMKotCRXxe2BKfTVTT"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1ZleRuxSdLEhoseEcstEN8"
       },
       "artists": [
         {
-          "name": "Matt Johnson",
-          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
         }
       ],
-      "duration_ms": 141142,
-      "name": "Havana - Acoustic",
-      "url": "https://open.spotify.com/track/0P2HFqXUhqvdZ2bS8doDjR"
+      "duration_ms": 198000,
+      "name": "U Remind Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/22wMOOsQVIKkoVAILL5ruw"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "American Girl",
+        "url": "https://open.spotify.com/album/0EArGGTFL9r7Qhqg3tfXqG"
+      },
+      "artists": [
+        {
+          "name": "Peter Ryans",
+          "url": "https://open.spotify.com/artist/2d6l7CTjCeBUSQmQNcmNH0"
+        }
+      ],
+      "duration_ms": 160413,
+      "name": "Ho Hey",
+      "url": "https://open.spotify.com/track/3cfb2iNdWpf1EZ4KaBLOjm"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1ZleRuxSdLEhoseEcstEN8"
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/51FVeMKotCRXxe2BKfTVTT"
       },
       "artists": [
         {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+          "name": "Matt Johnson",
+          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
         }
       ],
-      "duration_ms": 198000,
-      "name": "U Remind Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/22wMOOsQVIKkoVAILL5ruw"
+      "duration_ms": 141142,
+      "name": "Havana - Acoustic",
+      "url": "https://open.spotify.com/track/0P2HFqXUhqvdZ2bS8doDjR"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1911,26 +1911,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/7tIOWu8jlPjnzDIGmDrjSY"
-      },
-      "artists": [
-        {
-          "name": "Missy & Blonde",
-          "url": "https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh"
-        },
-        {
-          "name": "Isabella Celander",
-          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
-        }
-      ],
-      "duration_ms": 178202,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/3SHg4VamqiJkGSU5o4zEaD"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Send My Love (To Your New Lover) [Live]",
         "url": "https://open.spotify.com/album/6LcZmab2uq6Ml3XA0R9F0Z"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 225033,
       "name": "Send My Love (To Your New Lover) - Live",
       "url": "https://open.spotify.com/track/0dGjfWSQNYuF7e6dYv9yrs"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/7tIOWu8jlPjnzDIGmDrjSY"
+      },
+      "artists": [
+        {
+          "name": "Missy & Blonde",
+          "url": "https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh"
+        },
+        {
+          "name": "Isabella Celander",
+          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
+        }
+      ],
+      "duration_ms": 178202,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/3SHg4VamqiJkGSU5o4zEaD"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "In My Life",
-        "url": "https://open.spotify.com/album/3xmPSQOtxckv6Gr4IgVzw7"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 154290,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/3nsMuR3Bax8ZjhDl2xkGfJ"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "There's Nothing Holdin Me Back",
         "url": "https://open.spotify.com/album/2ZqnrSm19aYSPblI4hnnaU"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 199419,
       "name": "There's Nothing Holdin Me Back",
       "url": "https://open.spotify.com/track/2PX6WAoHC307PEUBMkWkE3"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "In My Life",
+        "url": "https://open.spotify.com/album/3xmPSQOtxckv6Gr4IgVzw7"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 154290,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/3nsMuR3Bax8ZjhDl2xkGfJ"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Lot To Learn",
-        "url": "https://open.spotify.com/album/1a3QdHnxI3svymN9NZyyxl"
-      },
-      "artists": [
-        {
-          "name": "Vivid Color",
-          "url": "https://open.spotify.com/artist/4qXCADLD9pMWPUkOBCLQ9H"
-        }
-      ],
-      "duration_ms": 226470,
-      "name": "Lot To Learn",
-      "url": "https://open.spotify.com/track/1AJRWM34yxnAxhF9TEK0Zj"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Shut up and Dance",
         "url": "https://open.spotify.com/album/73nVNq34LtpDZmRHWV1fo0"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 176182,
       "name": "Shut up and Dance",
       "url": "https://open.spotify.com/track/7K9GqO7ciCHJe2bkoZoM5i"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Lot To Learn",
+        "url": "https://open.spotify.com/album/1a3QdHnxI3svymN9NZyyxl"
+      },
+      "artists": [
+        {
+          "name": "Vivid Color",
+          "url": "https://open.spotify.com/artist/4qXCADLD9pMWPUkOBCLQ9H"
+        }
+      ],
+      "duration_ms": 226470,
+      "name": "Lot To Learn",
+      "url": "https://open.spotify.com/track/1AJRWM34yxnAxhF9TEK0Zj"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Think Before I Talk (Acoustic)",
-        "url": "https://open.spotify.com/album/4xBuuPBwFuPxv8sZNMqeVT"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Think Before I Talk - Acoustic",
-      "url": "https://open.spotify.com/track/0xr4LgYImMBZL3lnniYzHv"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Maps",
         "url": "https://open.spotify.com/album/7bwd4cmXcxV1tcv391C1IX"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 201683,
       "name": "Maps",
       "url": "https://open.spotify.com/track/7ED8yT6oWUoq5WVIfaka4e"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Think Before I Talk (Acoustic)",
+        "url": "https://open.spotify.com/album/4xBuuPBwFuPxv8sZNMqeVT"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Think Before I Talk - Acoustic",
+      "url": "https://open.spotify.com/track/0xr4LgYImMBZL3lnniYzHv"
     },
     {
       "added_at": "2022-08-25 19:21:22",

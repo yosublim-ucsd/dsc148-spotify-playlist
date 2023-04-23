@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 155807,
+  "num_followers": 155984,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAwNjQwMCwwMDAwMDAwMDNmZmVmYTU2MTM4MTY3NzQ2NDUxYjUwMjRiYmJkMmFk",
+  "snapshot_id": "MTY4MjAwNjQwMCwwMDAwMDAwMGE5ZjYxMDM5NGI3NTI4OWE5ODI4NDYwNjk3Njg4NzRk",
   "tracks": [
     {
       "added_at": "2023-04-20 16:00:00",
@@ -359,8 +359,8 @@
     {
       "added_at": "2023-04-20 16:00:00",
       "album": {
-        "name": "SMITHEREENS",
-        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
+        "name": "BALLADS 1",
+        "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 211666,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
+      "duration_ms": 209273,
+      "name": "SLOW DANCING IN THE DARK",
+      "url": "https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d"
     },
     {
       "added_at": "2023-04-20 16:00:00",
@@ -487,8 +487,8 @@
     {
       "added_at": "2023-04-20 16:00:00",
       "album": {
-        "name": "BALLADS 1",
-        "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
+        "name": "SMITHEREENS",
+        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 209273,
-      "name": "SLOW DANCING IN THE DARK",
-      "url": "https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d"
+      "duration_ms": 211666,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
     },
     {
       "added_at": "2023-04-20 16:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-04-20 16:00:00",
       "album": {
-        "name": "Nicole",
-        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "Keeping Tabs",
-      "url": "https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg"
-    },
-    {
-      "added_at": "2023-04-20 16:00:00",
-      "album": {
         "name": "Wishful Thinking",
         "url": "https://open.spotify.com/album/2reSbF0B3pWfNHmsV0eu3d"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 186432,
       "name": "Wishful Thinking",
       "url": "https://open.spotify.com/track/0eM1lELK39bi6UgbqdRCAz"
+    },
+    {
+      "added_at": "2023-04-20 16:00:00",
+      "album": {
+        "name": "Nicole",
+        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Keeping Tabs",
+      "url": "https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg"
     },
     {
       "added_at": "2023-04-20 16:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-04-20 16:00:00",
       "album": {
-        "name": "Things I Could Never Say to You",
-        "url": "https://open.spotify.com/album/6R2naLxf7L5f1G2OLTY6wC"
-      },
-      "artists": [
-        {
-          "name": "Noni",
-          "url": "https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Things I Could Never Say to You",
-      "url": "https://open.spotify.com/track/2J4ZN4hnqbF4UFsVtJB7Ox"
-    },
-    {
-      "added_at": "2023-04-20 16:00:00",
-      "album": {
         "name": "rapunzel",
         "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 198404,
       "name": "vulnerable",
       "url": "https://open.spotify.com/track/4MiZmaNIbvO7yY8UltCATD"
+    },
+    {
+      "added_at": "2023-04-20 16:00:00",
+      "album": {
+        "name": "Things I Could Never Say to You",
+        "url": "https://open.spotify.com/album/6R2naLxf7L5f1G2OLTY6wC"
+      },
+      "artists": [
+        {
+          "name": "Noni",
+          "url": "https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Things I Could Never Say to You",
+      "url": "https://open.spotify.com/track/2J4ZN4hnqbF4UFsVtJB7Ox"
     },
     {
       "added_at": "2023-04-20 16:00:00",
@@ -1695,22 +1695,22 @@
     {
       "added_at": "2023-04-20 16:00:00",
       "album": {
-        "name": "Give Me Your Forever",
-        "url": "https://open.spotify.com/album/38BPy1OGJ1aX8IYvveN3hv"
+        "name": "space",
+        "url": "https://open.spotify.com/album/7ygO9kMeqjmADYqdy7ZH3k"
       },
       "artists": [
         {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+          "name": "Rahmania Astrini",
+          "url": "https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC"
         },
         {
-          "name": "Billkin",
-          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+          "name": "Teddy Adhitya",
+          "url": "https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY"
         }
       ],
-      "duration_ms": 244800,
-      "name": "Give Me Your Forever (ft. Billkin)",
-      "url": "https://open.spotify.com/track/7g3ryXLtXExZ0OFCj17Ae1"
+      "duration_ms": 150428,
+      "name": "space (feat. Teddy Adhitya)",
+      "url": "https://open.spotify.com/track/7uBfIs0NE7bx88R0obazQ4"
     }
   ],
   "unique_name": "tapioca",

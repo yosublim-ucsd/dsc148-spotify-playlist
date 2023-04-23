@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar. Foto: Kennto, YoungJhow, JoyFull",
-  "num_followers": 99652,
+  "num_followers": 99706,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTU4MzM1NiwwMDAwMDAwMDMzNDVhNmYwMmNhNzA3ZTVkY2FhN2Q5MjM2YzkxYjQ5",
+  "snapshot_id": "MTY4MTU4MzM1NiwwMDAwMDAwMDEyYjEwOTQ3ZWI4ZTAyYWYyNTllNjQ5MmEwMzRkNzc0",
   "tracks": [
     {
       "added_at": "2023-04-15 18:29:16",
@@ -547,6 +547,26 @@
     {
       "added_at": "2023-04-15 18:29:16",
       "album": {
+        "name": "Inunda Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4T4gaya0PRry3FOh8LV1RJ"
+      },
+      "artists": [
+        {
+          "name": "DJ Matheus Lazaretti",
+          "url": "https://open.spotify.com/artist/15UHShL0oNS8JNoavnMiyI"
+        },
+        {
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/3YgLDde5Mm54H0f93pNzqz"
+        }
+      ],
+      "duration_ms": 220142,
+      "name": "Inunda Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0Rm97U2wWEzFGHnn8PGvWB"
+    },
+    {
+      "added_at": "2023-04-15 18:29:16",
+      "album": {
         "name": "Eu Confio Em Ti (Remix)",
         "url": "https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN"
       },
@@ -571,46 +591,22 @@
     {
       "added_at": "2023-04-15 18:29:16",
       "album": {
-        "name": "Inunda Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4T4gaya0PRry3FOh8LV1RJ"
+        "name": "Joquebede (Remix)",
+        "url": "https://open.spotify.com/album/0I5KP5Tn7qAiXyZ5bnPwga"
       },
       "artists": [
         {
-          "name": "DJ Matheus Lazaretti",
-          "url": "https://open.spotify.com/artist/15UHShL0oNS8JNoavnMiyI"
+          "name": "Dj Yuuki",
+          "url": "https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb"
         },
         {
-          "name": "LUDI",
-          "url": "https://open.spotify.com/artist/3YgLDde5Mm54H0f93pNzqz"
+          "name": "Israel Santos",
+          "url": "https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu"
         }
       ],
-      "duration_ms": 220142,
-      "name": "Inunda Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0Rm97U2wWEzFGHnn8PGvWB"
-    },
-    {
-      "added_at": "2023-04-15 18:29:16",
-      "album": {
-        "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
-        "url": "https://open.spotify.com/album/5o6IMMj4gBCKlXVFI128Il"
-      },
-      "artists": [
-        {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
-        },
-        {
-          "name": "VITOHRIA SOUNDS",
-          "url": "https://open.spotify.com/artist/0WYAQTkoygxjnkzjjv05yN"
-        },
-        {
-          "name": "Amanda Loyola",
-          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
-        }
-      ],
-      "duration_ms": 195140,
-      "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
-      "url": "https://open.spotify.com/track/4JMlGTQnS06HAayUWFkVFm"
+      "duration_ms": 142285,
+      "name": "Joquebede - Remix",
+      "url": "https://open.spotify.com/track/3qsLU0X41Wv9UODSn5ZmbZ"
     },
     {
       "added_at": "2023-04-15 18:29:16",
@@ -655,22 +651,26 @@
     {
       "added_at": "2023-04-15 18:29:16",
       "album": {
-        "name": "Joquebede (Remix)",
-        "url": "https://open.spotify.com/album/0I5KP5Tn7qAiXyZ5bnPwga"
+        "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
+        "url": "https://open.spotify.com/album/5o6IMMj4gBCKlXVFI128Il"
       },
       "artists": [
         {
-          "name": "Dj Yuuki",
-          "url": "https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb"
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
         },
         {
-          "name": "Israel Santos",
-          "url": "https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu"
+          "name": "VITOHRIA SOUNDS",
+          "url": "https://open.spotify.com/artist/0WYAQTkoygxjnkzjjv05yN"
+        },
+        {
+          "name": "Amanda Loyola",
+          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
         }
       ],
-      "duration_ms": 142285,
-      "name": "Joquebede - Remix",
-      "url": "https://open.spotify.com/track/3qsLU0X41Wv9UODSn5ZmbZ"
+      "duration_ms": 195140,
+      "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
+      "url": "https://open.spotify.com/track/4JMlGTQnS06HAayUWFkVFm"
     },
     {
       "added_at": "2023-04-15 18:29:16",
@@ -723,26 +723,22 @@
     {
       "added_at": "2023-04-15 18:29:16",
       "album": {
-        "name": "Onde Eu Quero Habitar",
-        "url": "https://open.spotify.com/album/0MfpVRkb3k8zJTFw8NfPmR"
+        "name": "Viagem",
+        "url": "https://open.spotify.com/album/0dDGfAgcwH8Qiii7Hhro4L"
       },
       "artists": [
         {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+          "name": "Dj Del Mag",
+          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
         },
         {
-          "name": "Amanda Loyola",
-          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
-        },
-        {
-          "name": "Guilherme Galdino",
-          "url": "https://open.spotify.com/artist/7bHkQ6LugcJxdpLCPn9LRA"
+          "name": "L\u00e9o Batista",
+          "url": "https://open.spotify.com/artist/3r8TROv0FXpp9ei6vepm1m"
         }
       ],
-      "duration_ms": 242990,
-      "name": "Onde Eu Quero Habitar",
-      "url": "https://open.spotify.com/track/6W4DedZJXKRSR9zlpvL2cY"
+      "duration_ms": 189268,
+      "name": "Viagem",
+      "url": "https://open.spotify.com/track/4mGBoJ2tqbOcSF3XzDw0lr"
     },
     {
       "added_at": "2023-04-15 18:29:16",
@@ -771,22 +767,26 @@
     {
       "added_at": "2023-04-15 18:29:16",
       "album": {
-        "name": "Viagem",
-        "url": "https://open.spotify.com/album/0dDGfAgcwH8Qiii7Hhro4L"
+        "name": "Onde Eu Quero Habitar",
+        "url": "https://open.spotify.com/album/0MfpVRkb3k8zJTFw8NfPmR"
       },
       "artists": [
         {
-          "name": "Dj Del Mag",
-          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
         },
         {
-          "name": "L\u00e9o Batista",
-          "url": "https://open.spotify.com/artist/3r8TROv0FXpp9ei6vepm1m"
+          "name": "Amanda Loyola",
+          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
+        },
+        {
+          "name": "Guilherme Galdino",
+          "url": "https://open.spotify.com/artist/7bHkQ6LugcJxdpLCPn9LRA"
         }
       ],
-      "duration_ms": 189268,
-      "name": "Viagem",
-      "url": "https://open.spotify.com/track/4mGBoJ2tqbOcSF3XzDw0lr"
+      "duration_ms": 242990,
+      "name": "Onde Eu Quero Habitar",
+      "url": "https://open.spotify.com/track/6W4DedZJXKRSR9zlpvL2cY"
     },
     {
       "added_at": "2023-04-15 18:29:16",
@@ -899,6 +899,26 @@
     {
       "added_at": "2023-04-15 18:29:16",
       "album": {
+        "name": "Rei da Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/2heT6GWNukPP4N4a018tx9"
+      },
+      "artists": [
+        {
+          "name": "Dj Roony Moura",
+          "url": "https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL"
+        },
+        {
+          "name": "Fabio Martin",
+          "url": "https://open.spotify.com/artist/1t9PgXlq6ngWDDjSjB1m7E"
+        }
+      ],
+      "duration_ms": 266797,
+      "name": "Rei da Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/0gGIsVwsGE60up8j7srjIj"
+    },
+    {
+      "added_at": "2023-04-15 18:29:16",
+      "album": {
         "name": "Dias de Ver\u00e3o",
         "url": "https://open.spotify.com/album/7k2vszlA8rDdqUWM7ZfLrp"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 200476,
       "name": "Dias de Ver\u00e3o",
       "url": "https://open.spotify.com/track/42eIXzoVFJlxIhhn1xkzyN"
-    },
-    {
-      "added_at": "2023-04-15 18:29:16",
-      "album": {
-        "name": "Rei da Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/2heT6GWNukPP4N4a018tx9"
-      },
-      "artists": [
-        {
-          "name": "Dj Roony Moura",
-          "url": "https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL"
-        },
-        {
-          "name": "Fabio Martin",
-          "url": "https://open.spotify.com/artist/1t9PgXlq6ngWDDjSjB1m7E"
-        }
-      ],
-      "duration_ms": 266797,
-      "name": "Rei da Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/0gGIsVwsGE60up8j7srjIj"
     },
     {
       "added_at": "2023-04-15 18:29:16",
@@ -1075,26 +1075,22 @@
     {
       "added_at": "2023-04-15 18:29:16",
       "album": {
-        "name": "Meu Lugar",
-        "url": "https://open.spotify.com/album/4MmaAurB8pIM6tOj1nd3Au"
+        "name": "A Sua Chance",
+        "url": "https://open.spotify.com/album/3Mx7c1qi99FGGlTjEFW2dY"
       },
       "artists": [
         {
-          "name": "Jacobnew",
-          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
+          "name": "Dj Roony Moura",
+          "url": "https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL"
         },
         {
-          "name": "DJ Vitor Capoia",
-          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
-        },
-        {
-          "name": "Jessi Dias",
-          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
+          "name": "Diego Tiguez",
+          "url": "https://open.spotify.com/artist/1ghipBHakOKPGsliNK7ZPP"
         }
       ],
-      "duration_ms": 161485,
-      "name": "Meu Lugar",
-      "url": "https://open.spotify.com/track/3rBml8mLLTLkf8avEPl9O8"
+      "duration_ms": 241162,
+      "name": "A Sua Chance",
+      "url": "https://open.spotify.com/track/328Xjnw4Oqehh3kHCfPrm1"
     },
     {
       "added_at": "2023-04-15 18:29:16",
@@ -1123,22 +1119,26 @@
     {
       "added_at": "2023-04-15 18:29:16",
       "album": {
-        "name": "A Sua Chance",
-        "url": "https://open.spotify.com/album/3Mx7c1qi99FGGlTjEFW2dY"
+        "name": "Meu Lugar",
+        "url": "https://open.spotify.com/album/4MmaAurB8pIM6tOj1nd3Au"
       },
       "artists": [
         {
-          "name": "Dj Roony Moura",
-          "url": "https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL"
+          "name": "Jacobnew",
+          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
         },
         {
-          "name": "Diego Tiguez",
-          "url": "https://open.spotify.com/artist/1ghipBHakOKPGsliNK7ZPP"
+          "name": "DJ Vitor Capoia",
+          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
+        },
+        {
+          "name": "Jessi Dias",
+          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
         }
       ],
-      "duration_ms": 241162,
-      "name": "A Sua Chance",
-      "url": "https://open.spotify.com/track/328Xjnw4Oqehh3kHCfPrm1"
+      "duration_ms": 161485,
+      "name": "Meu Lugar",
+      "url": "https://open.spotify.com/track/3rBml8mLLTLkf8avEPl9O8"
     },
     {
       "added_at": "2023-04-15 18:29:16",

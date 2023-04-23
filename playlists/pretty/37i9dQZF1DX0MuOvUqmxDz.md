@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Thomas Rhett
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,135 likes - 160 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,099 likes - 160 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 9 | [Jingle Bell Rock](https://open.spotify.com/track/3o5IChTvWMLHXkmnlSYI5z) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Merry Christmas](https://open.spotify.com/album/3KsQbPCs61bAcBIOxfkF5Z) | 2:13 |
 | 10 | [You Make It Feel Like Christmas \(feat\. Blake Shelton\)](https://open.spotify.com/track/2OQ6a4CfUeYskpTTgyawyJ) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 2:36 |
 | 11 | [Rockin’ Around The Christmas Tree](https://open.spotify.com/track/1hecBi6qXM8bjTPnJjr205) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Brett Young & Friends Sing The Christmas Classics](https://open.spotify.com/album/0qWmDshW80OTUuipP3Wvla) | 2:12 |
-| 12 | [Hat Made Of Mistletoe](https://open.spotify.com/track/3OfH1IMhs7MyX0gzLzsNhJ) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Hat Made Of Mistletoe](https://open.spotify.com/album/2nuDwSPbrC2zdxzMsYjlXF) | 2:36 |
+| 12 | [Hat Made of Mistletoe](https://open.spotify.com/track/3OfH1IMhs7MyX0gzLzsNhJ) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Hat Made Of Mistletoe](https://open.spotify.com/album/2nuDwSPbrC2zdxzMsYjlXF) | 2:36 |
 | 13 | [Please Come Home for Christmas](https://open.spotify.com/track/2ktUQEb33l3zNzHQxkg6TN) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Please Come Home for Christmas](https://open.spotify.com/album/1SpOC91nQ7fG5gXJIY9RoI) | 2:58 |
 | 14 | [Favorite Time Of Year](https://open.spotify.com/track/2aq7ZO1is1czoQAh076QFU) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Gift \(Special Edition\)](https://open.spotify.com/album/7m0f2Km7Zlc7quAIvCYPMr) | 3:17 |
 | 15 | [Christmas In The Country](https://open.spotify.com/track/4n0NTwp3bu4TFpePsRv6Fb) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Christmas In The Country](https://open.spotify.com/album/31FV0sSOdWNOKgOHQefZ6M) | 3:25 |

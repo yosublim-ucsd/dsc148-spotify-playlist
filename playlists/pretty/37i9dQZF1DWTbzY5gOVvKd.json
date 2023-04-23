@@ -1,12 +1,12 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1171909,
+  "num_followers": 1172078,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTgyMzY1MSwwMDAwMDAwMGM3ZDhmNjAwODkzMjE5Mjk2NmViNDJkYzdiMmMwMTZm",
+  "snapshot_id": "MTY4MTgyMzY1MSwwMDAwMDAwMDI0OGVkNmMyYjdhNmE4MzA1ZDEyNDkwMWVmZDUwZDgw",
   "tracks": [
     {
       "added_at": "2023-04-18 13:14:10",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-04-18 13:14:10",
       "album": {
-        "name": "Haven't We Met?",
-        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 248416,
-      "name": "You Make Me Feel so Young",
-      "url": "https://open.spotify.com/track/6SYFwqZvPueoTBLoNjidAs"
-    },
-    {
-      "added_at": "2023-04-18 13:14:10",
-      "album": {
         "name": "Unforgettable: With Love",
         "url": "https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 209960,
       "name": "Our Love Is Here To Stay",
       "url": "https://open.spotify.com/track/4sG2lkGzzYu7CAT0Z2V8Vu"
+    },
+    {
+      "added_at": "2023-04-18 13:14:10",
+      "album": {
+        "name": "Haven't We Met?",
+        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 248416,
+      "name": "You Make Me Feel so Young",
+      "url": "https://open.spotify.com/track/6SYFwqZvPueoTBLoNjidAs"
     },
     {
       "added_at": "2023-04-18 13:14:10",
@@ -387,18 +387,18 @@
     {
       "added_at": "2023-04-18 13:14:10",
       "album": {
-        "name": "From New York To Paris",
-        "url": "https://open.spotify.com/album/0ew4bQVWNluLXdaODGW1C0"
+        "name": "Lover Man (Oh, Where Can You Be?)",
+        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
       },
       "artists": [
         {
-          "name": "Nicki Parrott",
-          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
         }
       ],
-      "duration_ms": 330746,
-      "name": "I Will Wait For You",
-      "url": "https://open.spotify.com/track/7C7KLdwjjIvCWcxPwmgvaV"
+      "duration_ms": 183901,
+      "name": "Lover Man (Oh, Where Can You Be?)",
+      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
     },
     {
       "added_at": "2023-04-18 13:14:10",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-04-18 13:14:10",
       "album": {
-        "name": "Lover Man (Oh, Where Can You Be?)",
-        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
+        "name": "From New York To Paris",
+        "url": "https://open.spotify.com/album/0ew4bQVWNluLXdaODGW1C0"
       },
       "artists": [
         {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+          "name": "Nicki Parrott",
+          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
         }
       ],
-      "duration_ms": 183901,
-      "name": "Lover Man (Oh, Where Can You Be?)",
-      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
+      "duration_ms": 330746,
+      "name": "I Will Wait For You",
+      "url": "https://open.spotify.com/track/7C7KLdwjjIvCWcxPwmgvaV"
     },
     {
       "added_at": "2023-04-18 13:14:10",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-04-18 13:14:10",
       "album": {
-        "name": "The Window",
-        "url": "https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 129127,
-      "name": "One Step Ahead",
-      "url": "https://open.spotify.com/track/2wZTxjnKdOpgPLi85ItFlr"
-    },
-    {
-      "added_at": "2023-04-18 13:14:10",
-      "album": {
         "name": "To Love Again",
         "url": "https://open.spotify.com/album/7DwZcZjbCbluvYCOrIIKi6"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 240120,
       "name": "Are You Lonesome Tonight? (feat. Paul Buchanan)",
       "url": "https://open.spotify.com/track/7FWEDbQYuQtR1DhATgXxRg"
+    },
+    {
+      "added_at": "2023-04-18 13:14:10",
+      "album": {
+        "name": "The Window",
+        "url": "https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "duration_ms": 129127,
+      "name": "One Step Ahead",
+      "url": "https://open.spotify.com/track/2wZTxjnKdOpgPLi85ItFlr"
     },
     {
       "added_at": "2023-04-18 13:14:10",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-04-18 13:14:10",
       "album": {
-        "name": "Paris In The Rain",
-        "url": "https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp"
-      },
-      "artists": [
-        {
-          "name": "Sarah McKenzie",
-          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
-        }
-      ],
-      "duration_ms": 284133,
-      "name": "I'm Old Fashioned",
-      "url": "https://open.spotify.com/track/1vsZD1hVHW7BU4FOIYkO5R"
-    },
-    {
-      "added_at": "2023-04-18 13:14:10",
-      "album": {
         "name": "Shadow Train",
         "url": "https://open.spotify.com/album/1dzuSstYTLU34HvWhd6CIh"
       },
@@ -843,6 +827,22 @@
     {
       "added_at": "2023-04-18 13:14:10",
       "album": {
+        "name": "Paris In The Rain",
+        "url": "https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp"
+      },
+      "artists": [
+        {
+          "name": "Sarah McKenzie",
+          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
+        }
+      ],
+      "duration_ms": 284133,
+      "name": "I'm Old Fashioned",
+      "url": "https://open.spotify.com/track/1vsZD1hVHW7BU4FOIYkO5R"
+    },
+    {
+      "added_at": "2023-04-18 13:14:10",
+      "album": {
         "name": "Stardust...The Great American Songbook III",
         "url": "https://open.spotify.com/album/7Eq9kjeFYGjUAlEgDrAiOU"
       },
@@ -855,6 +855,22 @@
       "duration_ms": 241933,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/6W2kTdZu9nMDLRltwNhiBD"
+    },
+    {
+      "added_at": "2023-04-18 13:14:10",
+      "album": {
+        "name": "Nat \"King\" Cole & Me",
+        "url": "https://open.spotify.com/album/68XMYcFR8GebAgWi2zkT6u"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 128520,
+      "name": "L-O-V-E",
+      "url": "https://open.spotify.com/track/06V4dX5wFakgvxaOaOIkOV"
     },
     {
       "added_at": "2023-04-18 13:14:10",
@@ -875,22 +891,6 @@
       "duration_ms": 192000,
       "name": "I Only Have Eyes For You",
       "url": "https://open.spotify.com/track/6y80WSyy5Neu2CsrqjQszz"
-    },
-    {
-      "added_at": "2023-04-18 13:14:10",
-      "album": {
-        "name": "Nat \"King\" Cole & Me",
-        "url": "https://open.spotify.com/album/68XMYcFR8GebAgWi2zkT6u"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 128520,
-      "name": "L-O-V-E",
-      "url": "https://open.spotify.com/track/06V4dX5wFakgvxaOaOIkOV"
     },
     {
       "added_at": "2023-04-18 13:14:10",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-04-18 13:14:10",
       "album": {
-        "name": "My Funny Valentine: The Chet Baker Songbook",
-        "url": "https://open.spotify.com/album/2CtTsLssbJvp8iORyGOkwB"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 245666,
-      "name": "Deep in a Dream",
-      "url": "https://open.spotify.com/track/16gccT3MmOuVrTPdBGJCBv"
-    },
-    {
-      "added_at": "2023-04-18 13:14:10",
-      "album": {
         "name": "Night Songs II",
         "url": "https://open.spotify.com/album/1X7eqeVcBMjmPvvUHFb7kV"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 207733,
       "name": "Moonlight Becomes You",
       "url": "https://open.spotify.com/track/0p5hnLhOSlRpn8BMYEed4Q"
+    },
+    {
+      "added_at": "2023-04-18 13:14:10",
+      "album": {
+        "name": "My Funny Valentine: The Chet Baker Songbook",
+        "url": "https://open.spotify.com/album/2CtTsLssbJvp8iORyGOkwB"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 245666,
+      "name": "Deep in a Dream",
+      "url": "https://open.spotify.com/track/16gccT3MmOuVrTPdBGJCBv"
     },
     {
       "added_at": "2023-04-18 13:14:10",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2023-04-18 13:14:10",
       "album": {
+        "name": "Come Closer",
+        "url": "https://open.spotify.com/album/5kbNiEbyJ4GgvJRkduAr39"
+      },
+      "artists": [
+        {
+          "name": "Kat Gang",
+          "url": "https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "People Will Say We're In Love",
+      "url": "https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij"
+    },
+    {
+      "added_at": "2023-04-18 13:14:10",
+      "album": {
         "name": "Meet Me at the Movies (feat. Iiro Rantala)",
         "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 331141,
       "name": "As Time Goes By",
       "url": "https://open.spotify.com/track/4SD2UnbSVWBulYnFMg8KSi"
-    },
-    {
-      "added_at": "2023-04-18 13:14:10",
-      "album": {
-        "name": "Come Closer",
-        "url": "https://open.spotify.com/album/5kbNiEbyJ4GgvJRkduAr39"
-      },
-      "artists": [
-        {
-          "name": "Kat Gang",
-          "url": "https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "People Will Say We're In Love",
-      "url": "https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij"
     },
     {
       "added_at": "2023-04-18 13:14:10",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2023-04-18 13:14:10",
       "album": {
+        "name": "Blame It On My Youth",
+        "url": "https://open.spotify.com/album/40yQ3EJwQH4R4MXAxip5un"
+      },
+      "artists": [
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        }
+      ],
+      "duration_ms": 275440,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/0O2cnPY1dKGDfnQghH7ZUI"
+    },
+    {
+      "added_at": "2023-04-18 13:14:10",
+      "album": {
         "name": "My Funny Valentine",
         "url": "https://open.spotify.com/album/5nmBotW3p1DH4yqeWcISlC"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 291509,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/5cp4r9yrUcvTVD6uzPHhhk"
-    },
-    {
-      "added_at": "2023-04-18 13:14:10",
-      "album": {
-        "name": "Blame It On My Youth",
-        "url": "https://open.spotify.com/album/40yQ3EJwQH4R4MXAxip5un"
-      },
-      "artists": [
-        {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
-        }
-      ],
-      "duration_ms": 275440,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/0O2cnPY1dKGDfnQghH7ZUI"
     },
     {
       "added_at": "2023-04-18 13:14:10",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2023-04-18 13:14:10",
       "album": {
-        "name": "In The Moonlight",
-        "url": "https://open.spotify.com/album/3ZKm6JVnkkQiX5OTuNQElL"
+        "name": "Wild Is The Wind",
+        "url": "https://open.spotify.com/album/1MpomkUbmIFOp5vRn9AEMp"
       },
       "artists": [
         {
-          "name": "Sophie Milman",
-          "url": "https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4"
+          "name": "Kari Kirkland",
+          "url": "https://open.spotify.com/artist/7Jeb6sMs1pOvVXeugcoNeU"
         }
       ],
-      "duration_ms": 276013,
-      "name": "Prelude To A Kiss",
-      "url": "https://open.spotify.com/track/16An9cGPQGi1W8s19ZdL87"
+      "duration_ms": 343055,
+      "name": "Wild Is The Wind",
+      "url": "https://open.spotify.com/track/5vPHV6iJIotTSqzjf45C3T"
     },
     {
       "added_at": "2023-04-18 13:14:10",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-04-18 13:14:10",
       "album": {
-        "name": "Wild Is The Wind",
-        "url": "https://open.spotify.com/album/1MpomkUbmIFOp5vRn9AEMp"
-      },
-      "artists": [
-        {
-          "name": "Kari Kirkland",
-          "url": "https://open.spotify.com/artist/7Jeb6sMs1pOvVXeugcoNeU"
-        }
-      ],
-      "duration_ms": 343055,
-      "name": "Wild Is The Wind",
-      "url": "https://open.spotify.com/track/5vPHV6iJIotTSqzjf45C3T"
-    },
-    {
-      "added_at": "2023-04-18 13:14:10",
-      "album": {
         "name": "Reflections of a Voice",
         "url": "https://open.spotify.com/album/7nGWElWBanIzLOX3S6jeQH"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 265746,
       "name": "Like Someone in Love",
       "url": "https://open.spotify.com/track/1my1nf6O10GIZEZRp2Cxv7"
+    },
+    {
+      "added_at": "2023-04-18 13:14:10",
+      "album": {
+        "name": "In The Moonlight",
+        "url": "https://open.spotify.com/album/3ZKm6JVnkkQiX5OTuNQElL"
+      },
+      "artists": [
+        {
+          "name": "Sophie Milman",
+          "url": "https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4"
+        }
+      ],
+      "duration_ms": 276013,
+      "name": "Prelude To A Kiss",
+      "url": "https://open.spotify.com/track/16An9cGPQGi1W8s19ZdL87"
     },
     {
       "added_at": "2023-04-18 13:14:10",

@@ -4,7 +4,7 @@
 
 > Songs so beautiful, they'll stop you in your tracks
 
-176 songs - 10 hr 31 min
+177 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Gin & Tonics](https://open.spotify.com/track/2yyDkQwTDkrf9B6t53dgb6) | [George David](https://open.spotify.com/artist/1NXtGiEomSRw1p2sxpIzft) | [Gin & Tonics](https://open.spotify.com/album/4mwPWJ52L7ZZ06QNoQxrza) | 2:31 | 2022-06-10 |  |
 | [Give Me A Minute](https://open.spotify.com/track/0d0iBmyaaywSWyEjN9NQla) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 2:37 | 2021-12-10 | 2022-10-13 |
 | [Give Me A Minute](https://open.spotify.com/track/3YyASDEwePUZaPcgCjGOoV) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 2:37 | 2022-08-19 |  |
-| [Grey](https://open.spotify.com/track/1fn6p2B9xyAMcNDWb1Z5X2) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Contours of a Cliff](https://open.spotify.com/album/7uciZ3IT8hht9S0Gmk8Ls0) | 3:05 | 2022-11-25 |  |
+| [Grey](https://open.spotify.com/track/1fn6p2B9xyAMcNDWb1Z5X2) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Contours of a Cliff](https://open.spotify.com/album/7uciZ3IT8hht9S0Gmk8Ls0) | 3:05 | 2022-11-25 | 2023-04-23 |
+| [Grey](https://open.spotify.com/track/4BqFnKRmrQh0QY5LsqK11F) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Grey](https://open.spotify.com/album/7JVqGzBerQ60BqWx2BfUCT) | 3:05 | 2023-03-31 |  |
 | [Grey](https://open.spotify.com/track/5uiBxGoDN7ys5iR7jQiiI6) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Grey](https://open.spotify.com/album/0VUfyApXn4pk0hkxiM7nan) | 3:05 | 2022-02-18 | 2022-12-10 |
 | [Half An Orphan](https://open.spotify.com/track/2KdGu9WtqeGlmleNPuGyXg) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Denis Was a Bird](https://open.spotify.com/album/0xa2MFADkJYkKXXIzJLDKa) | 2:37 | 2021-12-10 | 2022-06-11 |
 | [Hallelujah I Love Her So](https://open.spotify.com/track/4Fuyarf5fHo2zJ6GoYC48N) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz) | 2:43 | 2023-01-06 |  |

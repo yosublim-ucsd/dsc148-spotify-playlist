@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > Tem rap nacional tem boom bap na área\. Foto: Marcão Baixada
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,207 likes - 77 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,246 likes - 77 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

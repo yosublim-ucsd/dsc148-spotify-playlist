@@ -1,12 +1,12 @@
 {
   "description": "Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes. Cover: <a href=\"spotify:artist:5l8VQNuIg0turYE1VtM9zV\">Leonard Cohen</a>",
-  "num_followers": 8783,
+  "num_followers": 8787,
   "original_name": "Leonard Cohen: Covered",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGRkMDFmYzBiMTUwMmQ5ZTUyMzBhZWNhMDlmZDIwZGIx",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDkxZTgzODg5NWFhNzczYTY0ZjAwZWE1ZGMxMmY0MzIw",
   "tracks": [
     {
       "added_at": "2018-12-06 19:29:22",
@@ -548,13 +548,17 @@
       },
       "artists": [
         {
-          "name": "Suzanne Vega",
-          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "name": "The Chieftains",
+          "url": "https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL"
         }
       ],
-      "duration_ms": 246760,
-      "name": "Story Of Isaac",
-      "url": "https://open.spotify.com/track/5aVnAPf0eZ6FxDO04X3Ok9"
+      "duration_ms": 199600,
+      "name": "Sisters Of Mercy",
+      "url": "https://open.spotify.com/track/1t8gcWQNb5bD9XssAzxbcw"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -580,17 +584,13 @@
       },
       "artists": [
         {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        },
-        {
-          "name": "The Chieftains",
-          "url": "https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL"
+          "name": "Suzanne Vega",
+          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
         }
       ],
-      "duration_ms": 199600,
-      "name": "Sisters Of Mercy",
-      "url": "https://open.spotify.com/track/1t8gcWQNb5bD9XssAzxbcw"
+      "duration_ms": 246760,
+      "name": "Story Of Isaac",
+      "url": "https://open.spotify.com/track/5aVnAPf0eZ6FxDO04X3Ok9"
     },
     {
       "added_at": "2018-12-06 19:29:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 35 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 33 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 | 9 | [Piano Concerto in A Minor, Op\. 54: 1\. Allegro affettuoso](https://open.spotify.com/track/0VbgxKHLT0AODoNG0e5rfy) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Alfred Brendel](https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Claudio Abbado](https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP) | [Abbado: Schumann – Tchaikovsky](https://open.spotify.com/album/2RTQqBU2yR9eSdYfpLheRW) | 15:48 |
 | 10 | [Tomorrow Never Comes](https://open.spotify.com/track/1c985Seh2T4z0pUh2XZTgs) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/0CLKz1aW13bGfrNhqOmA7r) | 2:25 |
 | 11 | [Thinkin' About My Mother \- Take A](https://open.spotify.com/track/1hoVsR5MVklHdyQtBSS59I) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [RCA Sessions \(1951\-52\)](https://open.spotify.com/album/1LMnuUJkVdZYpNLOVX709e) | 2:44 |
-| 12 | [Star \- Norwegian Giants Club Mix](https://open.spotify.com/track/1kok9QpMAzf35AC52u3QCK) | [Gothminister](https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx), [Norwegian Giants](https://open.spotify.com/artist/7b54ccibRdGD9OMaynmIew) | [STAR \- Clubminister vs Norwegian Giants REMIXES](https://open.spotify.com/album/7l6NXXIncQ6kP7HLV1Kq1B) | 3:56 |
+| 12 | [Star \- Norwegian Giants Club Mix](https://open.spotify.com/track/1kok9QpMAzf35AC52u3QCK) | [Gothminister](https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx), [Norwegian Giants](https://open.spotify.com/artist/4w1AXtsOUmsVuR2B6d8WUp) | [STAR \- Clubminister vs Norwegian Giants REMIXES](https://open.spotify.com/album/7l6NXXIncQ6kP7HLV1Kq1B) | 3:56 |
 | 13 | [Council Skies](https://open.spotify.com/track/1KDR3iKY185DjEREnzYhgU) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/0LEsy6Ncwa96urueYAB8ud) | 4:42 |
 | 14 | [\#REBEL](https://open.spotify.com/track/3ofAoFGGL7kjovxQVui59I) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [BANSHEE/\#REBEL](https://open.spotify.com/album/6PjFaskT6uwLjRmvrJgg2V) | 4:23 |
 | 15 | [Indian Summer](https://open.spotify.com/track/4O1uQ3Hjhlndnh1CoH2H4b) | [LM.ORG](https://open.spotify.com/artist/3mbulgTpuUoEKMM6qj7rpW), [Vibe Culture](https://open.spotify.com/artist/3JnyZWqZOKQ1NeMI13FBj6), [Jim Morrison](https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W) | [Indian Summer](https://open.spotify.com/album/65OX2K6iAa8QNnup2YrxOD) | 5:40 |
@@ -41,7 +41,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 | 31 | [A Life of Our Own \- Live](https://open.spotify.com/track/2XNVRAKXXpumeXjueNEo0z) | [Visions of Atlantis](https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x) | [Pirates over Wacken \(Live\)](https://open.spotify.com/album/3FrOHRVCQ41hHbg7NhpWc0) | 4:31 |
 | 32 | [In The Cold, Cold Night \- Live at The Aragon Ballroom, July 2, 2003](https://open.spotify.com/track/0bBRfcuev1xS3zFbPHinjP) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant \(Deluxe\)](https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB) | 3:52 |
 | 33 | [Montaña Roja \- En Vivo](https://open.spotify.com/track/0Qmhp99CvPvOWs0HEuSkaV) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Autódromo de Buenos Aires, 19 de Junio de 2021 \(En Vivo\)](https://open.spotify.com/album/6Bs4kJWFkLO58YmGxVGOUJ) | 3:43 |
-| 34 | [Día De Luz \- 80 Aniversario](https://open.spotify.com/track/0SJcGKI0S0iqcFyCJw8XSm) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Día De Luz \(80 Aniversario\)](https://open.spotify.com/album/0JsYMVZiJ63aAw3MiyW8WK) | 4:11 |
-| 35 | [What a Time To Be Alive](https://open.spotify.com/track/14qLydrp6Uxy2kzfmv73TZ) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:42 |
 
-Snapshot ID: `MjgwMzQxNjAsMDAwMDAwMDAzMDJiZTIyMjA4MmY2NTJiMTU4ZGI1MDZmMjdhMTAwMQ==`
+Snapshot ID: `MjgwMzQxNjAsMDAwMDAwMDBlZmQ5YmQwZTFmYjM2MWExNjcwNzI5YzBmYWMzZDY5Ng==`

@@ -17327,6 +17327,28 @@
     },
     {
       "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/7GxzsW6CWxxwM2tll9CKm1"
+      },
+      "artists": [
+        {
+          "name": "Mazde",
+          "url": "https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx"
+        },
+        {
+          "name": "Rromarin",
+          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254963,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/3UqEtIminCKIey56GiLU1q"
+    },
+    {
+      "album": {
         "name": "Go Away",
         "url": "https://open.spotify.com/album/1CUQwk640Qto89wRUZia1M"
       },
@@ -27542,28 +27564,6 @@
       "duration_ms": 135528,
       "name": "Maybach",
       "url": "https://open.spotify.com/track/0WAPMxv1RoZ1pqswJ7E9oa"
-    },
-    {
-      "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/7GxzsW6CWxxwM2tll9CKm1"
-      },
-      "artists": [
-        {
-          "name": "Mazde",
-          "url": "https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx"
-        },
-        {
-          "name": "Rromarin",
-          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
-        }
-      ],
-      "date_added": "2023-04-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 254963,
-      "name": "Mazde & Rromarin - Go",
-      "url": "https://open.spotify.com/track/3UqEtIminCKIey56GiLU1q"
     },
     {
       "album": {

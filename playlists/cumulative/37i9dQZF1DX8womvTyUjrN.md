@@ -4,7 +4,7 @@
 
 > Fresh Latin pop on the rise\. Cover: Zöelle
 
-365 songs - 18 hr 32 min
+366 songs - 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [Poema](https://open.spotify.com/track/4ki07OxnhAu6PT5iViZxye) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Flow Romántico](https://open.spotify.com/album/4r0PI0BKDrDhftCfvFjxWT) | 2:35 | 2022-03-21 | 2022-04-02 |
 | [Por el Resto de Tu Vida](https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Por el Resto de Tu Vida](https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm) | 3:17 | 2023-01-27 |  |
 | [Pq Mientes](https://open.spotify.com/track/1axFfn3zrfGlpuIrFUPONT) | [Bodine](https://open.spotify.com/artist/3l0RaT1QvO3sAHccHxZgy1) | [Celos](https://open.spotify.com/album/1j4mTBBcPXsWBr1XmMTnOK) | 2:27 | 2022-04-15 | 2022-07-09 |
+| [Prisionero](https://open.spotify.com/track/6BvLxVbjHqWgDqjhVRbTaZ) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Prisionero](https://open.spotify.com/album/3NxfSFXY3AXan2AQ6e6PMq) | 3:55 | 2023-04-21 |  |
 | [Problemas](https://open.spotify.com/track/0ibM1mZeNP37EH0aijBZed) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Problemas](https://open.spotify.com/album/7D0hDhJZc5MHZVWxmzuCUv) | 3:16 | 2022-06-12 | 2022-10-29 |
 | [Puñales](https://open.spotify.com/track/7M9dU6JqgKnGWGgkAoHD0m) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Puñales](https://open.spotify.com/album/5qhKAVJqruluLhgIe3wo1A) | 3:17 | 2022-03-21 | 2022-04-16 |
 | [Pégate](https://open.spotify.com/track/2xf1olq5Un8S9SqwU4IO6c) | [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ), [Gigi Mendez](https://open.spotify.com/artist/4RjuvJDxYh4T6tmv44HTkT) | [Pégate](https://open.spotify.com/album/00cSdJphJM7Hh8k2N0x3vP) | 3:50 | 2022-03-21 | 2022-05-10 |
@@ -327,7 +328,7 @@
 | [Tal Vez](https://open.spotify.com/track/2roQw5McQNlTzAu2dGGL14) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Tal Vez](https://open.spotify.com/album/7pdEfZI6mGWqdwJCxzP0YB) | 2:39 | 2022-03-21 | 2022-05-07 |
 | [TARDE](https://open.spotify.com/track/1hdLVuDhaxfVdMZ13CHSar) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [el pedacito de <3 que me robaron](https://open.spotify.com/album/0Ubcsv9yLRycHntM6XZ3d9) | 3:43 | 2022-05-06 | 2022-07-26 |
 | [Te Elegiré](https://open.spotify.com/track/4NMoA4IaZgIJsIbnMk79Fa) | [Carlos Zaur](https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk) | [Te Elegiré](https://open.spotify.com/album/7tPSBcVdJ4YIWIMEAAZOsM) | 3:56 | 2022-10-07 | 2022-12-10 |
-| [Te La Dedico](https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Te La Dedico](https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y) | 3:51 | 2023-03-03 |  |
+| [Te La Dedico](https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Te La Dedico](https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y) | 3:51 | 2023-03-03 | 2023-04-23 |
 | [Te Pienso](https://open.spotify.com/track/3LCUFhel7bdHUoTtlksfGG) | [Agus Padilla](https://open.spotify.com/artist/2qmA5QmaGZH3ky4qq25d1m), [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A) | [Te Pienso](https://open.spotify.com/album/4ibJkC96ftFfsIhqfFh02K) | 3:26 | 2022-03-21 | 2022-06-13 |
 | [Te Vi Mudar](https://open.spotify.com/track/7Akzl1WkuD75hZzmr0oJxU) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Te Vi Mudar](https://open.spotify.com/album/56QdvJzTIUDA3IisAblZhz) | 2:54 | 2023-03-31 | 2023-04-09 |
 | [Telenovela](https://open.spotify.com/track/3WMRQ1kWWBpNV3hJFhqmhB) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [Telenovela](https://open.spotify.com/album/7jrUStxYyNBOmz5ul1iGoC) | 2:30 | 2022-10-07 | 2022-12-10 |

@@ -4,7 +4,7 @@
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 来栖りん\(Rin Kurusu\)
 
-207 songs - 13 hr 58 min
+209 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,8 +89,10 @@
 | [Love∞Vision](https://open.spotify.com/track/4zABCBtoO0kkvHP31z06AH) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [Love∞Vision](https://open.spotify.com/album/3h0iC3RBgWeY02PW8QBleX) | 3:48 | 2022-12-21 |  |
 | [Manga is Choh Vible](https://open.spotify.com/track/5aXprHK0w25QXKApZpujJN) | [ANCHOR](https://open.spotify.com/artist/2fviXTiNm3w2YSp6qYdnlh), [OGATAMEGUMI](https://open.spotify.com/artist/1WkSVm5cJaux3FrVm99UKo), [KITOAKARI](https://open.spotify.com/artist/6JyNABHQCBaiIRBgIALAv4) | [Manga is Choh Vible](https://open.spotify.com/album/3W2HJ67SIIhNjZFdhv0tjB) | 3:52 | 2023-03-01 |  |
 | [Mayonakano Love](https://open.spotify.com/track/4PdTdZSNbi7QOvdwTBbHrr) | [Kento Ito](https://open.spotify.com/artist/07VroOJ1SGvFrdu69YwEdd) | [Mayonakano Love](https://open.spotify.com/album/5utUgLJkKaQ3tBDW6y6P65) | 3:23 | 2022-09-22 | 2023-02-04 |
-| [Megamorphose](https://open.spotify.com/track/53a0l39UqfYHQ6uqZgHeQ4) | [Smewthie](https://open.spotify.com/artist/4dEHjlZ84ouGTmZcK77Xrm) | [Megamorphose / Can\-Do Dreamer](https://open.spotify.com/album/7MyYhmRCPNwvQYV64QFtgr) | 3:54 | 2023-04-06 |  |
-| [Meitei \- Special Ver.](https://open.spotify.com/track/0gHw13eiCZmVpx316gi4B9) | [Rico Sasaki](https://open.spotify.com/artist/32vntVlDOsm1HGm9Xe0FSz) | [Meitei \(Special Ver.\)](https://open.spotify.com/album/6rI4zRU8isqVVCETurwbNl) | 4:27 | 2023-01-13 |  |
+| [Megamorphose](https://open.spotify.com/track/53a0l39UqfYHQ6uqZgHeQ4) | [Smewthie](https://open.spotify.com/artist/4dEHjlZ84ouGTmZcK77Xrm) | [Megamorphose / Can\-Do Dreamer](https://open.spotify.com/album/7MyYhmRCPNwvQYV64QFtgr) | 3:54 | 2023-04-06 | 2023-04-23 |
+| [Megamorphose](https://open.spotify.com/track/62QXjppBAgbfhggeN1B5au) | [Smewthie](https://open.spotify.com/artist/4dEHjlZ84ouGTmZcK77Xrm) | [Megamorphose / Can\-Do Dreamer](https://open.spotify.com/album/3rMfcwSUrFKXYtERTUGHy0) | 3:54 | 2023-04-06 |  |
+| [Meitei \- Special Ver.](https://open.spotify.com/track/3bJBWoxISSujd4N5UhFy44) | [Rico Sasaki](https://open.spotify.com/artist/32vntVlDOsm1HGm9Xe0FSz) | [Yoi](https://open.spotify.com/album/76Cbkh0vhkMDjVl6bxgGS3) | 4:24 | 2023-04-06 |  |
+| [Meitei \- Special Ver.](https://open.spotify.com/track/0gHw13eiCZmVpx316gi4B9) | [Rico Sasaki](https://open.spotify.com/artist/32vntVlDOsm1HGm9Xe0FSz) | [Meitei \(Special Ver.\)](https://open.spotify.com/album/6rI4zRU8isqVVCETurwbNl) | 4:27 | 2023-01-13 | 2023-04-23 |
 | [Melissa \- From CrosSing](https://open.spotify.com/track/3cPP2NYhfUYLibpFqqQB8x) | [土岐隼一](https://open.spotify.com/artist/0qDE2zIQMn6bSgEPUsWGsi) | [Melissa \- From CrosSing](https://open.spotify.com/album/5nCxbhDwEp0YiHEDV6COPe) | 4:17 | 2023-04-06 |  |
 | [Michikusa](https://open.spotify.com/track/1sMsGkaKnv4x1F0ssDJcQp) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Michikusa](https://open.spotify.com/album/4lHjeSfvndzpJcpUQBPYRS) | 4:04 | 2022-07-13 | 2022-08-31 |
 | [Midnight Dancer](https://open.spotify.com/track/13uO9ybQF9TpUoXznKDKGy) | [Toshiki Masuda](https://open.spotify.com/artist/1Qz3LZxddVIJwD19VdTkE2) | [Midnight Dancer](https://open.spotify.com/album/7bbT7SAXzE3cOm4Sia53Jy) | 3:37 | 2022-05-31 | 2022-08-31 |

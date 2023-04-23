@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zBnarWcy8.md) - [plain]
 
 > New Orleans kind of funk\. Cover: Cha Wa
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,593 likes - 49 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,602 likes - 49 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

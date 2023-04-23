@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Don't worry, we're back in the funk of it besties ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,754 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,907 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,25 +52,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 42 | [Bounce Is Back](https://open.spotify.com/track/7G3XbVwCDAIhW9XJzJ0I6S) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Prom King](https://open.spotify.com/album/7dR9fq3NnKFZDBDU44DTXv) | 3:30 |
 | 43 | [Lovely Road](https://open.spotify.com/track/5O9o9PRLq8xxhp1qcm0ZmH) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [Road Trip](https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU) | 1:43 |
 | 44 | [Emotions](https://open.spotify.com/track/1vxCTGgZMs4LFCAlswRiS2) | [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [Best Before 1998](https://open.spotify.com/album/4MeikwvA8AgiIEPqIaGBxC) | 2:58 |
-| 45 | [Need Somebody](https://open.spotify.com/track/6MBojwg01wXb54WWeIBa5A) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T), [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Yacht World](https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX) | 2:08 |
-| 46 | [Crazy Nights](https://open.spotify.com/track/5TAePjvWgL1aHvtBfFem5N) | [Future Girlfriend Music](https://open.spotify.com/artist/6yWRHWCfKgDfuVktb28gZB) | [Pink Dance EP](https://open.spotify.com/album/3XyrBbErwMwkZRoznQUnxV) | 2:33 |
+| 45 | [Crazy Nights](https://open.spotify.com/track/5TAePjvWgL1aHvtBfFem5N) | [Future Girlfriend Music](https://open.spotify.com/artist/6yWRHWCfKgDfuVktb28gZB) | [Pink Dance EP](https://open.spotify.com/album/3XyrBbErwMwkZRoznQUnxV) | 2:33 |
+| 46 | [Need Somebody](https://open.spotify.com/track/6MBojwg01wXb54WWeIBa5A) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T), [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Yacht World](https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX) | 2:08 |
 | 47 | [Ganbare](https://open.spotify.com/track/5gWDF3OWHLMsl8MXbLbIAM) | [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8) | [Kanji Title](https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo) | 3:03 |
 | 48 | [Niito na Gogosanji \- Night Tempo Showa Groove Mix](https://open.spotify.com/track/7wdremSaBbpQMF4fRazsHM) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Miki Matsubara Night Tempo Presents the Showa Groove](https://open.spotify.com/album/4zUIo4G8FTJoWN9zEW5NoR) | 3:58 |
 | 49 | [On My Mind](https://open.spotify.com/track/2p2Ut9dTjzIzqaGDorW8T2) | [BAD4ALL](https://open.spotify.com/artist/01VXtkjZQGs49YAKEJLgJp) | [On My Mind](https://open.spotify.com/album/3n1RU3gBuRyocRPzjOG27C) | 2:25 |
-| 50 | [Orca Adventure DX](https://open.spotify.com/track/2YfK7Ra5tJhvAaOzly6iN9) | [Groovy Kaiju](https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR) | [Orca Adventure DX](https://open.spotify.com/album/1vdzEDINQgERKoITu3qzx7) | 2:51 |
+| 50 | [Funk Dust](https://open.spotify.com/track/371tzdBYzISrNzCZJhzMnV) | [K/92](https://open.spotify.com/artist/2yJwfjM6VsmEVVOYkZcrxl) | [Dusty Shelves](https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf) | 2:12 |
 | 51 | [Right on Time](https://open.spotify.com/track/1dCS0RyXoaxAXKfzMeyBsC) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [J\-Funk City : Vantage's Edits Collection](https://open.spotify.com/album/0T40glEIKM60U4VP9x5Lqf) | 3:29 |
-| 52 | [Lovin' Is Everywhere](https://open.spotify.com/track/1AglI76RB3xj0yA2Z0NJ8B) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Yacht World](https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX) | 2:53 |
+| 52 | [Orca Adventure DX](https://open.spotify.com/track/2YfK7Ra5tJhvAaOzly6iN9) | [Groovy Kaiju](https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR) | [Orca Adventure DX](https://open.spotify.com/album/1vdzEDINQgERKoITu3qzx7) | 2:51 |
 | 53 | [DAILY ILLEGAL ANIME CONSUMPTION PT.1](https://open.spotify.com/track/7brqAAi0dbWWTI91HkurKK) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [DAILY ILLEGAL ANIME CONSUMPTION PT.1](https://open.spotify.com/album/6N495ky1d6PEtdQPZVWld3) | 2:22 |
 | 54 | [Sweet Baby!](https://open.spotify.com/track/2qHasYWuyXCwoJ8FYai22K) | [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Now That I Have You](https://open.spotify.com/album/3hHM3Ydv4PItQmZauDRiS4) | 2:33 |
-| 55 | [Funk Dust](https://open.spotify.com/track/371tzdBYzISrNzCZJhzMnV) | [K/92](https://open.spotify.com/artist/2yJwfjM6VsmEVVOYkZcrxl) | [Dusty Shelves](https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf) | 2:12 |
+| 55 | [Lovin' Is Everywhere](https://open.spotify.com/track/1AglI76RB3xj0yA2Z0NJ8B) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Yacht World](https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX) | 2:53 |
 | 56 | [Brighter Days](https://open.spotify.com/track/0Hm9H8k6UVsCUU7z4nUzB9) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [Brighter Days](https://open.spotify.com/album/1nfqoJnQP69bUsawz806Ex) | 2:04 |
 | 57 | [Shimmer City](https://open.spotify.com/track/5uwFzyBfdwU6r1JlrGwCRi) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8) | [Sessions: Star Guardian Taliyah](https://open.spotify.com/album/5a3R3wxx4SURufgfrgxwdV) | 3:15 |
 | 58 | [Like My Love](https://open.spotify.com/track/6rwRuX3PyCBnNZMLoSQp3j) | [Tsundere Alley](https://open.spotify.com/artist/00FQDX3bcsSTPlkBckHyQe) | [Welcome To The Alley](https://open.spotify.com/album/0GgCMNBTpn6NdwQIGJTAhH) | 2:41 |
 | 59 | [Sunset](https://open.spotify.com/track/0rVZXO2gmrENbl7MRfa2h9) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [Metro City](https://open.spotify.com/album/49xi5l1GZwRLowxwHAiyyv) | 2:40 |
 | 60 | [love u!!](https://open.spotify.com/track/0EeokoKzJwbnEzJi6cDbry) | [Aests](https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu) | [love u!!](https://open.spotify.com/album/3gol9bGLiZ4BS2AgPLFn8C) | 2:30 |
 | 61 | [The Way U Make Me Feel](https://open.spotify.com/track/7DpGpNYd9sZ3WT5oZWuokm) | [Neon Vectors](https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X) | [Cyber Love](https://open.spotify.com/album/5oBHfEpAfHIQ4J2IkGYviT) | 2:29 |
-| 62 | [C'est La Vie](https://open.spotify.com/track/14YdVfy61MPAebt7OptsCg) | [Lando Burch](https://open.spotify.com/artist/1Dt8AV9iHIAqybj2AwNhZX) | [Saturn St.](https://open.spotify.com/album/3zA540uSE3ht3kk2pcf4cW) | 2:37 |
-| 63 | [Magic City](https://open.spotify.com/track/6X1znxhyue4RQikzv0nQZh) | [Lordsun](https://open.spotify.com/artist/2qz2ih9s7guZ7SxIrmTCSL) | [Magic City](https://open.spotify.com/album/43H9kDMnSdgNWHFQNSUvPQ) | 3:37 |
+| 62 | [Magic City](https://open.spotify.com/track/6X1znxhyue4RQikzv0nQZh) | [Lordsun](https://open.spotify.com/artist/2qz2ih9s7guZ7SxIrmTCSL) | [Magic City](https://open.spotify.com/album/43H9kDMnSdgNWHFQNSUvPQ) | 3:37 |
+| 63 | [C'est La Vie](https://open.spotify.com/track/14YdVfy61MPAebt7OptsCg) | [Lando Burch](https://open.spotify.com/artist/1Dt8AV9iHIAqybj2AwNhZX) | [Saturn St.](https://open.spotify.com/album/3zA540uSE3ht3kk2pcf4cW) | 2:37 |
 | 64 | [Sailor Saturn](https://open.spotify.com/track/08tQCLOGuvKxWedoR0Rqgs) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [SAILORWAVE III](https://open.spotify.com/album/7a6D1xwGdauIFgRlAmpW2V) | 2:44 |
 | 65 | [Mode](https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1) | [Remember](https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o) | 3:52 |
 | 66 | [Together](https://open.spotify.com/track/0gmJDqUuSU5pU0OD9DqFs0) | [Uni Deluxe](https://open.spotify.com/artist/7FgxkXK01FgVCTjQ7ChxcV) | [City Lights](https://open.spotify.com/album/27dA1TdxIKyh5ZOnsWTfEc) | 4:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 99 | [What You Need](https://open.spotify.com/track/31GGop5dcxgwHupVB7RRyi) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [Bae 5](https://open.spotify.com/album/5FLLpTsSlcnlwrChf2LCWM) | 2:41 |
 | 100 | [Stellae](https://open.spotify.com/track/1nzjAN2zcFizoo7yStKZi8) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Stellae](https://open.spotify.com/album/00qahpyr3Cxq8xNBecw56k) | 3:50 |
 
-Snapshot ID: `MTY2NzU0MDI1MCwwMDAwMDAwMDMzMTdkYzczYzc5MzFjNDRkN2ZjM2ZkZmE1NjY2M2M5`
+Snapshot ID: `MTY2NzU0MDI1MCwwMDAwMDAwMGY5MTBlYTJjYWJlYjY0YmUwZjAxOTc2OTA5OTA4ZTg1`

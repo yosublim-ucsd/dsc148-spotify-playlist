@@ -1,12 +1,12 @@
 {
   "description": "The quintessential list of songs to celebrate commencement. Congrats to the Class of 2022 and all other classes celebrating graduation this year. ",
-  "num_followers": 229951,
+  "num_followers": 229988,
   "original_name": "Graduation Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODgwMzY1NywwMDAwMDAwMDYzNmNhNDI4NTE1MTIxYjhjMzdmYjZlZDk5ODI5ZmJi",
+  "snapshot_id": "MTY1ODgwMzY1NywwMDAwMDAwMGQzZGFjOTc4YzUzNzdmOTUwZTMyMjI1ZDQwZDllZTBl",
   "tracks": [
     {
       "added_at": "2022-05-23 14:29:26",
@@ -839,26 +839,22 @@
     {
       "added_at": "2022-05-23 14:29:26",
       "album": {
-        "name": "Man On The Moon: The End Of Day",
-        "url": "https://open.spotify.com/album/47y3PbX8oIDCkYAFylCJz0"
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
       },
       "artists": [
         {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+          "name": "fun.",
+          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
         },
         {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        },
-        {
-          "name": "Ratatat",
-          "url": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         }
       ],
-      "duration_ms": 295293,
-      "name": "Pursuit Of Happiness (Nightmare)",
-      "url": "https://open.spotify.com/track/5iSEsR6NKjlC9SrIJkyL3k"
+      "duration_ms": 250626,
+      "name": "We Are Young (feat. Janelle Mon\u00e1e)",
+      "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
     }
   ],
   "unique_name": "Graduation Songs",

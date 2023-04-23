@@ -1,12 +1,12 @@
 {
   "description": "Jazzy blips and blops. Cover: Flying Lotus",
-  "num_followers": 550245,
+  "num_followers": 550320,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDJlNzg0MmIwNTdjNTM3OTA1MmQ4NGM2MjZlNTRlYzli",
+  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDhhZjYxMTIyNmFmYzlhODExMWM4YjhhN2M4Y2QzMmU4",
   "tracks": [
     {
       "added_at": "2023-01-13 05:01:00",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks"
     },
     {
-      "added_at": "2021-06-04 04:01:00",
-      "album": {
-        "name": "Feed Me Weird Things (Remastered)",
-        "url": "https://open.spotify.com/album/3RJcXXVLIQxLlppvvM6xLR"
-      },
-      "artists": [
-        {
-          "name": "Squarepusher",
-          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
-        }
-      ],
-      "duration_ms": 381413,
-      "name": "Squarepusher Theme",
-      "url": "https://open.spotify.com/track/5A8mxgppIz71mCLz7xAhpn"
-    },
-    {
       "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Close Distance",
@@ -475,6 +459,22 @@
       "duration_ms": 181840,
       "name": "Skybox",
       "url": "https://open.spotify.com/track/4gdyc5TGWtKD0N7OUtddzp"
+    },
+    {
+      "added_at": "2021-06-04 04:01:00",
+      "album": {
+        "name": "Feed Me Weird Things (Remastered)",
+        "url": "https://open.spotify.com/album/3RJcXXVLIQxLlppvvM6xLR"
+      },
+      "artists": [
+        {
+          "name": "Squarepusher",
+          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
+        }
+      ],
+      "duration_ms": 381413,
+      "name": "Squarepusher Theme",
+      "url": "https://open.spotify.com/track/5A8mxgppIz71mCLz7xAhpn"
     },
     {
       "added_at": "2021-07-23 04:01:00",
@@ -813,22 +813,6 @@
       "url": "https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Seventh Wonder",
-        "url": "https://open.spotify.com/album/4qZk3KeMtoXrduTt7tViiZ"
-      },
-      "artists": [
-        {
-          "name": "Tenderlonious",
-          "url": "https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo"
-        }
-      ],
-      "duration_ms": 207707,
-      "name": "Seventh Wonder",
-      "url": "https://open.spotify.com/track/1KOyjvNp5zE6Pv7W4qqJfI"
-    },
-    {
       "added_at": "2021-06-11 04:01:00",
       "album": {
         "name": "Pire",
@@ -847,6 +831,22 @@
       "duration_ms": 463540,
       "name": "Pire",
       "url": "https://open.spotify.com/track/7eSZ01vwRY59uAzGt5V3lP"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Seventh Wonder",
+        "url": "https://open.spotify.com/album/4qZk3KeMtoXrduTt7tViiZ"
+      },
+      "artists": [
+        {
+          "name": "Tenderlonious",
+          "url": "https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo"
+        }
+      ],
+      "duration_ms": 207707,
+      "name": "Seventh Wonder",
+      "url": "https://open.spotify.com/track/1KOyjvNp5zE6Pv7W4qqJfI"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -1013,6 +1013,34 @@
       "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
     },
     {
+      "added_at": "2022-07-05 15:03:47",
+      "album": {
+        "name": "Limited Time Only",
+        "url": "https://open.spotify.com/album/6TAj2O65OHQReNLVGck44m"
+      },
+      "artists": [
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        },
+        {
+          "name": "S\u00f8ren S\u00f8strom",
+          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
+        },
+        {
+          "name": "Soul Food Horns",
+          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
+        },
+        {
+          "name": "Yasper",
+          "url": "https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt"
+        }
+      ],
+      "duration_ms": 213936,
+      "name": "Limited Time Only",
+      "url": "https://open.spotify.com/track/7wiolaEKwMpf1buxKaDUhA"
+    },
+    {
       "added_at": "2021-01-29 05:01:00",
       "album": {
         "name": "Vacuum Lessons",
@@ -1061,34 +1089,6 @@
       "url": "https://open.spotify.com/track/7hiCGd7VM7ToeLZgo0Mvo7"
     },
     {
-      "added_at": "2022-07-05 15:03:47",
-      "album": {
-        "name": "Limited Time Only",
-        "url": "https://open.spotify.com/album/6TAj2O65OHQReNLVGck44m"
-      },
-      "artists": [
-        {
-          "name": "Glimlip",
-          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
-        },
-        {
-          "name": "S\u00f8ren S\u00f8strom",
-          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
-        },
-        {
-          "name": "Soul Food Horns",
-          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
-        },
-        {
-          "name": "Yasper",
-          "url": "https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt"
-        }
-      ],
-      "duration_ms": 213936,
-      "name": "Limited Time Only",
-      "url": "https://open.spotify.com/track/7wiolaEKwMpf1buxKaDUhA"
-    },
-    {
       "added_at": "2022-08-08 13:44:11",
       "album": {
         "name": "Cruiserweight",
@@ -1125,20 +1125,20 @@
       "url": "https://open.spotify.com/track/09jflWcNgyBd0PiigbWVMZ"
     },
     {
-      "added_at": "2022-05-20 04:01:00",
+      "added_at": "2021-04-02 05:01:00",
       "album": {
-        "name": "SAMURAI",
-        "url": "https://open.spotify.com/album/5QbYqorcvgyLIGjKcsm02e"
+        "name": "Between Days",
+        "url": "https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X"
       },
       "artists": [
         {
-          "name": "Jazztronik",
-          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
         }
       ],
-      "duration_ms": 716744,
-      "name": "SAMURAI - 2022 version",
-      "url": "https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu"
+      "duration_ms": 280000,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/6fHHWT7Vfdv71c70PHp5wq"
     },
     {
       "added_at": "2021-06-18 04:01:00",
@@ -1161,20 +1161,20 @@
       "url": "https://open.spotify.com/track/4UDwsQO8RFMoEzSUpboslN"
     },
     {
-      "added_at": "2021-04-02 05:01:00",
+      "added_at": "2022-05-20 04:01:00",
       "album": {
-        "name": "Between Days",
-        "url": "https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X"
+        "name": "SAMURAI",
+        "url": "https://open.spotify.com/album/5QbYqorcvgyLIGjKcsm02e"
       },
       "artists": [
         {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+          "name": "Jazztronik",
+          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/6fHHWT7Vfdv71c70PHp5wq"
+      "duration_ms": 716744,
+      "name": "SAMURAI - 2022 version",
+      "url": "https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu"
     },
     {
       "added_at": "2021-07-09 04:02:00",
@@ -1285,22 +1285,6 @@
       "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Thoughts Under Water",
-        "url": "https://open.spotify.com/album/6zI0OaciTJ5QeypkEwo0fO"
-      },
-      "artists": [
-        {
-          "name": "Daniel Brown",
-          "url": "https://open.spotify.com/artist/0pY32AUl91JjgiuLHuuIcR"
-        }
-      ],
-      "duration_ms": 203597,
-      "name": "I Love Her",
-      "url": "https://open.spotify.com/track/7EuCAIsAs6yAA6zk7rHn1G"
-    },
-    {
       "added_at": "2022-11-11 05:01:00",
       "album": {
         "name": "Childhood Memories (Remix)",
@@ -1319,6 +1303,22 @@
       "duration_ms": 278226,
       "name": "Childhood Memories - Remix",
       "url": "https://open.spotify.com/track/2TdZvirsP820lVh00l7qHg"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Thoughts Under Water",
+        "url": "https://open.spotify.com/album/6zI0OaciTJ5QeypkEwo0fO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Brown",
+          "url": "https://open.spotify.com/artist/0pY32AUl91JjgiuLHuuIcR"
+        }
+      ],
+      "duration_ms": 203597,
+      "name": "I Love Her",
+      "url": "https://open.spotify.com/track/7EuCAIsAs6yAA6zk7rHn1G"
     },
     {
       "added_at": "2022-07-22 04:02:00",
@@ -1347,38 +1347,6 @@
       "duration_ms": 153174,
       "name": "Truly Another Classic",
       "url": "https://open.spotify.com/track/1lLEiBayOjUDTTIKp9Ef4A"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "NSTRDCTN.MMBL",
-        "url": "https://open.spotify.com/album/0uuhceVP7qqlqzKYbKTkwi"
-      },
-      "artists": [
-        {
-          "name": "Unc D",
-          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
-        },
-        {
-          "name": "Thin Thicket",
-          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
-        },
-        {
-          "name": "Damon the Soulful Samurai",
-          "url": "https://open.spotify.com/artist/6B7G3EEuNog0pIB4IYqXtp"
-        },
-        {
-          "name": "Nicholas Frank",
-          "url": "https://open.spotify.com/artist/1lvvQNtbJDnA6VYOps1VAH"
-        },
-        {
-          "name": "Zach Connolly",
-          "url": "https://open.spotify.com/artist/3YZtQ3UMdy3J93vmfZcrFO"
-        }
-      ],
-      "duration_ms": 175280,
-      "name": "NSTRDCTN.MMBL",
-      "url": "https://open.spotify.com/track/2DDvNopZdyHNZIlLbbHr1E"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -1437,20 +1405,64 @@
       "url": "https://open.spotify.com/track/2PXPlWyurXF03d6bBkTNT9"
     },
     {
-      "added_at": "2023-03-24 04:01:00",
+      "added_at": "2023-03-17 05:00:00",
       "album": {
-        "name": "Roadtrip",
-        "url": "https://open.spotify.com/album/0Zwx0351xqPWkXHyN50PjF"
+        "name": "NSTRDCTN.MMBL",
+        "url": "https://open.spotify.com/album/0uuhceVP7qqlqzKYbKTkwi"
       },
       "artists": [
         {
-          "name": "Keeth",
-          "url": "https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u"
+          "name": "Unc D",
+          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
+        },
+        {
+          "name": "Thin Thicket",
+          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
+        },
+        {
+          "name": "Damon the Soulful Samurai",
+          "url": "https://open.spotify.com/artist/6B7G3EEuNog0pIB4IYqXtp"
+        },
+        {
+          "name": "Nicholas Frank",
+          "url": "https://open.spotify.com/artist/1lvvQNtbJDnA6VYOps1VAH"
+        },
+        {
+          "name": "Zach Connolly",
+          "url": "https://open.spotify.com/artist/3YZtQ3UMdy3J93vmfZcrFO"
         }
       ],
-      "duration_ms": 180025,
-      "name": "Roadtrip",
-      "url": "https://open.spotify.com/track/6CgO7zdkjZAGYRBQEwW4PB"
+      "duration_ms": 175280,
+      "name": "NSTRDCTN.MMBL",
+      "url": "https://open.spotify.com/track/2DDvNopZdyHNZIlLbbHr1E"
+    },
+    {
+      "added_at": "2021-08-27 04:01:00",
+      "album": {
+        "name": "Typhoon",
+        "url": "https://open.spotify.com/album/1ymrNMiHd7g6ehQHShettK"
+      },
+      "artists": [
+        {
+          "name": "Slowya.roll",
+          "url": "https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N"
+        },
+        {
+          "name": "anbuu",
+          "url": "https://open.spotify.com/artist/00i4PzAbt6fpwgBqdtSP0q"
+        },
+        {
+          "name": "elmo",
+          "url": "https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f"
+        },
+        {
+          "name": "goosetaf",
+          "url": "https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs"
+        }
+      ],
+      "duration_ms": 223302,
+      "name": "Typhoon",
+      "url": "https://open.spotify.com/track/3f5CmDMjox3b3xB7h9kcRu"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -1481,6 +1493,54 @@
       "url": "https://open.spotify.com/track/1opaCjv9VoQ7ZPdlXpObXs"
     },
     {
+      "added_at": "2021-07-30 04:01:00",
+      "album": {
+        "name": "Come Out and Play",
+        "url": "https://open.spotify.com/album/58KCYV90rmJ8uGzHOoN44X"
+      },
+      "artists": [
+        {
+          "name": "Umziky",
+          "url": "https://open.spotify.com/artist/1ytY1NBUWX3OSmYo96hspB"
+        }
+      ],
+      "duration_ms": 187343,
+      "name": "Come Out and Play",
+      "url": "https://open.spotify.com/track/7nTmEAGxLIQt0BK7f3CRcD"
+    },
+    {
+      "added_at": "2021-05-14 04:01:00",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6HcBxM1cROud6gVZ5jXv49"
+      },
+      "artists": [
+        {
+          "name": "BlackLight",
+          "url": "https://open.spotify.com/artist/4GoCR0cSV4uOMulnVSWd5h"
+        }
+      ],
+      "duration_ms": 466627,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/31ARMQ42WOpH3vEObeEbQE"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Roadtrip",
+        "url": "https://open.spotify.com/album/0Zwx0351xqPWkXHyN50PjF"
+      },
+      "artists": [
+        {
+          "name": "Keeth",
+          "url": "https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u"
+        }
+      ],
+      "duration_ms": 180025,
+      "name": "Roadtrip",
+      "url": "https://open.spotify.com/track/6CgO7zdkjZAGYRBQEwW4PB"
+    },
+    {
       "added_at": "2023-02-17 05:01:00",
       "album": {
         "name": "Part 6",
@@ -1503,66 +1563,6 @@
       "duration_ms": 120253,
       "name": "Part 6",
       "url": "https://open.spotify.com/track/5MLyDyUI1yxlzPeoXuj8mn"
-    },
-    {
-      "added_at": "2021-05-14 04:01:00",
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/6HcBxM1cROud6gVZ5jXv49"
-      },
-      "artists": [
-        {
-          "name": "BlackLight",
-          "url": "https://open.spotify.com/artist/4GoCR0cSV4uOMulnVSWd5h"
-        }
-      ],
-      "duration_ms": 466627,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/31ARMQ42WOpH3vEObeEbQE"
-    },
-    {
-      "added_at": "2021-07-30 04:01:00",
-      "album": {
-        "name": "Come Out and Play",
-        "url": "https://open.spotify.com/album/58KCYV90rmJ8uGzHOoN44X"
-      },
-      "artists": [
-        {
-          "name": "Umziky",
-          "url": "https://open.spotify.com/artist/1ytY1NBUWX3OSmYo96hspB"
-        }
-      ],
-      "duration_ms": 187343,
-      "name": "Come Out and Play",
-      "url": "https://open.spotify.com/track/7nTmEAGxLIQt0BK7f3CRcD"
-    },
-    {
-      "added_at": "2021-08-27 04:01:00",
-      "album": {
-        "name": "Typhoon",
-        "url": "https://open.spotify.com/album/1ymrNMiHd7g6ehQHShettK"
-      },
-      "artists": [
-        {
-          "name": "Slowya.roll",
-          "url": "https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N"
-        },
-        {
-          "name": "anbuu",
-          "url": "https://open.spotify.com/artist/00i4PzAbt6fpwgBqdtSP0q"
-        },
-        {
-          "name": "elmo",
-          "url": "https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f"
-        },
-        {
-          "name": "goosetaf",
-          "url": "https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs"
-        }
-      ],
-      "duration_ms": 223302,
-      "name": "Typhoon",
-      "url": "https://open.spotify.com/track/3f5CmDMjox3b3xB7h9kcRu"
     },
     {
       "added_at": "2022-03-25 04:01:00",

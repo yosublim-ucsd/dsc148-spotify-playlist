@@ -5725,6 +5725,28 @@
     },
     {
       "album": {
+        "name": "Jai Shri Ram (KANNADA)",
+        "url": "https://open.spotify.com/album/1vG9GtlO0kFm0zNF7rIpP4"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64080,
+      "name": "Jai Shri Ram (KANNADA)",
+      "url": "https://open.spotify.com/track/3oGP2kJuEkBf2qzwlyMJbt"
+    },
+    {
+      "album": {
         "name": "Love 360",
         "url": "https://open.spotify.com/album/5pxb1Z1cJlWC05Usvg3j9B"
       },
@@ -6255,6 +6277,28 @@
     },
     {
       "album": {
+        "name": "Kabzaa Title Track (From \"Kabzaa\") [Kannada]",
+        "url": "https://open.spotify.com/album/1Ga5LbjoCAvxXvFDvnHqGd"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Bhavyashri Bandimata",
+          "url": "https://open.spotify.com/artist/7rqcihag4phHx5GH4eMnDL"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238933,
+      "name": "Kabzaa Title Track (From \"Kabzaa\") [Kannada]",
+      "url": "https://open.spotify.com/track/0NwvnSaye8l3Mxg97clz7D"
+    },
+    {
+      "album": {
         "name": "Kabzaa Title Track (From \"Kabzaa\") [Telugu]",
         "url": "https://open.spotify.com/album/1D4hY8evxzffpsZIJDQCGb"
       },
@@ -6270,7 +6314,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 238750,
       "name": "Kabzaa Title Track (From \"Kabzaa\") [Telugu]",
       "url": "https://open.spotify.com/track/4sDgjSzvbxDDwqX2lWQZ9J"
@@ -7658,6 +7702,28 @@
       "duration_ms": 232800,
       "name": "Male Modada - From \"Cocktail\"",
       "url": "https://open.spotify.com/track/1uUJC3ps5NFrMhnPib2etl"
+    },
+    {
+      "album": {
+        "name": "Male Munidare Santa (From \"Sreemanta\")",
+        "url": "https://open.spotify.com/album/6HsKeiIqC6VIQ77RGJ41cA"
+      },
+      "artists": [
+        {
+          "name": "Hamsalekha",
+          "url": "https://open.spotify.com/artist/07sMsv3cwvQp3pi8zxR08S"
+        },
+        {
+          "name": "S. P. Balasubramanyam",
+          "url": "https://open.spotify.com/artist/4Rg1q6cx7uNPRbquQdLgyu"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311239,
+      "name": "Male Munidare Santa (From \"Sreemanta\")",
+      "url": "https://open.spotify.com/track/4k1bphAfFqlfkN6nbWGo3t"
     },
     {
       "album": {
@@ -12880,6 +12946,32 @@
       "duration_ms": 210495,
       "name": "Shambo Shankara - From \"Manasmita\"",
       "url": "https://open.spotify.com/track/4QWTX23ULOIuBaqgE0jJo9"
+    },
+    {
+      "album": {
+        "name": "Shivani (From \"Kousalya Supraja Rama\") - Single",
+        "url": "https://open.spotify.com/album/42b0JVNY9itjdQcJNBSOjd"
+      },
+      "artists": [
+        {
+          "name": "Nishan Rai",
+          "url": "https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy"
+        },
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Shashank",
+          "url": "https://open.spotify.com/artist/37yERfVx2mLLJAVigQekAN"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202153,
+      "name": "Shivani (From \"Kousalya Supraja Rama\")",
+      "url": "https://open.spotify.com/track/28aOMbbEz3NpMmW6LOBDkE"
     },
     {
       "album": {

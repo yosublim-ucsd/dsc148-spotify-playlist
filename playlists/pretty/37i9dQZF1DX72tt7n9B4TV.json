@@ -1,12 +1,12 @@
 {
   "description": "Hot noise for summer days.",
-  "num_followers": 28745,
+  "num_followers": 28751,
   "original_name": "Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA3OTEyNiwwMDAwMDAwMDZjYWRhNmVmZTcwODY1OWJmODIyN2JjNWNjNzM2N2Nh",
+  "snapshot_id": "MTY3OTA3OTEyNiwwMDAwMDAwMGYzYjE4YTI5Yzk5ZjFkZGM2MjNmMDc3MzBjZTExMDYx",
   "tracks": [
     {
       "added_at": "2022-04-01 17:23:34",
@@ -253,10 +253,10 @@
       "url": "https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt"
     },
     {
-      "added_at": "2023-03-17 18:52:05",
+      "added_at": "2022-04-01 17:23:34",
       "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 149251,
-      "name": "C\u2019est Comme \u00c7a",
-      "url": "https://open.spotify.com/track/1Nx7KvCw6D3O0W2HwYg9tq"
+      "duration_ms": 212853,
+      "name": "Rose-Colored Boy",
+      "url": "https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k"
     },
     {
       "added_at": "2023-03-17 18:52:05",
@@ -333,10 +333,10 @@
       "url": "https://open.spotify.com/track/2Rmw7J0krEU75ffhkaK93D"
     },
     {
-      "added_at": "2022-04-01 17:23:34",
+      "added_at": "2023-03-17 18:52:05",
       "album": {
-        "name": "After Laughter",
-        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 212853,
-      "name": "Rose-Colored Boy",
-      "url": "https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k"
+      "duration_ms": 149251,
+      "name": "C\u2019est Comme \u00c7a",
+      "url": "https://open.spotify.com/track/1Nx7KvCw6D3O0W2HwYg9tq"
     },
     {
       "added_at": "2022-04-01 17:23:34",
@@ -753,22 +753,6 @@
       "url": "https://open.spotify.com/track/4yR1YTsrs38dHP6fzcXM93"
     },
     {
-      "added_at": "2022-04-01 17:23:34",
-      "album": {
-        "name": "CHAMPION",
-        "url": "https://open.spotify.com/album/10XDik8bnbbPTfpO05tjwx"
-      },
-      "artists": [
-        {
-          "name": "Bishop Briggs",
-          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
-        }
-      ],
-      "duration_ms": 173120,
-      "name": "CHAMPION",
-      "url": "https://open.spotify.com/track/14oFxKTXuTpYgKe2vy0Cih"
-    },
-    {
       "added_at": "2023-03-17 18:52:05",
       "album": {
         "name": "PANIC",
@@ -783,6 +767,22 @@
       "duration_ms": 174259,
       "name": "PANIC",
       "url": "https://open.spotify.com/track/3L4MAUb1N2dsAludyS8ra8"
+    },
+    {
+      "added_at": "2022-04-01 17:23:34",
+      "album": {
+        "name": "CHAMPION",
+        "url": "https://open.spotify.com/album/10XDik8bnbbPTfpO05tjwx"
+      },
+      "artists": [
+        {
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        }
+      ],
+      "duration_ms": 173120,
+      "name": "CHAMPION",
+      "url": "https://open.spotify.com/track/14oFxKTXuTpYgKe2vy0Cih"
     },
     {
       "added_at": "2022-06-17 12:12:36",

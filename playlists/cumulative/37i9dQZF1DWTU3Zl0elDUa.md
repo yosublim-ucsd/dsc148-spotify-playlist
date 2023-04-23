@@ -4,7 +4,7 @@
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 
-125 songs - 11 hr 36 min
+126 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Anthem \- The Mafia Mix](https://open.spotify.com/track/2FGRiUB2H6umLZSBHHj35y) | [N Joi](https://open.spotify.com/artist/0hcjDfqTgMJdAY7e83gSxs), [Mafia Productions](https://open.spotify.com/artist/71Feqz2UNoJsx4HfhWrShO) | [Anthem \(The Mafia Mix\)](https://open.spotify.com/album/5vd2RI19tkXCq9vC2XFAlq) | 4:49 | 2021-09-17 | 2022-07-25 |
 | [Beat Dis](https://open.spotify.com/track/6L8xB44ZvgAJjQEY9Zx6y6) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6) | [80s 100 Hits \- Volume 2](https://open.spotify.com/album/56QkBFCRUIGCMWnKKKheXC) | 3:22 | 2021-09-17 |  |
 | [Big Fun](https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Paradise](https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs) | 3:26 | 2021-09-17 |  |
+| [Brighter Days \- Louie's Masters At Work Mix](https://open.spotify.com/track/1on1fyXUnCfquRSnvHTF3Z) | [Cajmere](https://open.spotify.com/artist/7lIBLhQHKay3r1xtO3VtWT), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE), [Masters At Work](https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1) | [Only 4 U: The Sound Of Cajmere & Cajual Records 1992\-2012](https://open.spotify.com/album/0dnMPNmpV21diEaZEBXuDn) | 10:40 | 2021-09-17 |  |
 | [Brighter Days feat\. Dajae \- Louie's Masters At Work Mix](https://open.spotify.com/track/4Z4IWEJMEMGRlqu67UxWAH) | [Cajmere](https://open.spotify.com/artist/7lIBLhQHKay3r1xtO3VtWT), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE), [Masters At Work](https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1) | [Only 4 U: The Sound Of Cajmere & Cajual Records 1992\-2012](https://open.spotify.com/album/4Ypvjh2Pf3c5AGZfkNva5d) | 10:40 | 2021-09-17 | 2022-11-11 |
 | [Can You Feel It](https://open.spotify.com/track/2jwRKUOBoN1hiMFuuKdIJE) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Washing Machine](https://open.spotify.com/album/3tSYs4sadLjOKX7eNRZp8I) | 5:44 | 2021-09-17 | 2022-07-23 |
 | [Can You Feel It \- Instrumental](https://open.spotify.com/track/4b5QHhUld8ba26ZJEHawFW) | [Larry Heard](https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz) | [Can You Feel It](https://open.spotify.com/album/7q5nYnbxfVVTsmyW5ZB8KX) | 5:40 | 2021-09-17 |  |
@@ -120,7 +121,7 @@
 | [The World According To Sly & Lovechild \- Andrew Weatherall Soul Of Europe Mix](https://open.spotify.com/track/3G33NkV2Yq2uhxKwOttXFS) | [Sly](https://open.spotify.com/artist/7mh5yWKyUcN4xYhEJsWcxI), [Lovechild](https://open.spotify.com/artist/2walEOww1vnqb5vfpBDZJQ) | [Richard Sen presents This Ain't Chicago \- The Underground Sound Of UK House & Acid 1987\-1991](https://open.spotify.com/album/1JtoOWMe2WSlrZNHpCADqC) | 8:21 | 2021-09-17 | 2022-07-29 |
 | [Touch Me](https://open.spotify.com/track/4cqMkEjIeYDlsbHS8KjbNi) | [49ers](https://open.spotify.com/artist/6BWEqA4CdZageKtzch78Vs) | [Back 2 House](https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm) | 3:30 | 2021-09-17 | 2022-03-13 |
 | [Touch Me](https://open.spotify.com/track/2ycghCtdMwb29zZQ7ffSoX) | [49ers](https://open.spotify.com/artist/6BWEqA4CdZageKtzch78Vs) | [Greatest Hits](https://open.spotify.com/album/0KbhGcgoagosU3W4Jw5eBS) | 3:47 | 2021-09-17 |  |
-| [Trouble](https://open.spotify.com/track/3kdJEtRfy0SMVMyuwU8KJs) | [Joi Cardwell](https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ) | [The World is Full of Trouble](https://open.spotify.com/album/09soF2h5LvSOvHQKrJgHSn) | 7:26 | 2021-09-17 |  |
+| [Trouble](https://open.spotify.com/track/3kdJEtRfy0SMVMyuwU8KJs) | [Joi Cardwell](https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ) | [The World is Full of Trouble](https://open.spotify.com/album/09soF2h5LvSOvHQKrJgHSn) | 7:26 | 2021-09-17 | 2023-04-23 |
 | [Turn Around \- Radio Edit](https://open.spotify.com/track/2nx86MrPkXWQctveAEFJBf) | [Phats & Small](https://open.spotify.com/artist/4WLGcWrkSExCqILxDk7ol6), [Toney Lee](https://open.spotify.com/artist/1bqxl4NUclRsHX98Z3bn2v) | [Turn Around \- Single](https://open.spotify.com/album/0ekbBXoxN1AsU6dMJxpyzJ) | 3:32 | 2021-09-17 |  |
 | [Turn Up The Bass \- Fast Eddie Scratch It Up Mix](https://open.spotify.com/track/4a2VdX9fRz3mFuEP17TnEn) | [Tyree Cooper](https://open.spotify.com/artist/0iQ58hVu6gA9nuuCgbnvOn) | [Turn Up The Bass](https://open.spotify.com/album/5e9sCiyp7gvkBbZkVeu0e6) | 4:58 | 2021-09-17 |  |
 | [Two Can Play That Game](https://open.spotify.com/track/03mCHgTJkxEKgdIHDOPkEM) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE), [K\-Klass](https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES) | [Back 2 House](https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm) | 3:22 | 2021-09-17 | 2022-07-29 |

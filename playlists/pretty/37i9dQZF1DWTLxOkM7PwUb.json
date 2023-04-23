@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 13761,
+  "num_followers": 13900,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU1NDgwMCwwMDAwMDAwMGU0MzAxY2M1YzM3ODlkZTE3MTJiN2E5YjgzMjdkMmY3",
+  "snapshot_id": "MTY3MDU1NDgwMCwwMDAwMDAwMDdjMTc2YmFjZWU4OTc1NTZmZWUxMTVlMWI3NzU2MjYy",
   "tracks": [
     {
       "added_at": "2022-12-09 03:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Colocao",
+        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 179966,
+      "name": "Colocao",
+      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Bipolar",
         "url": "https://open.spotify.com/album/65R514k7t8iXXJVt2u7RWw"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 220080,
       "name": "Bipolar",
       "url": "https://open.spotify.com/track/2ixygoa1o3CdZknv1PPjyj"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Colocao",
-        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 179966,
-      "name": "Colocao",
-      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "BUTAKAS EP",
-        "url": "https://open.spotify.com/album/2kCY7NsTmu3dJu7jead73e"
-      },
-      "artists": [
-        {
-          "name": "Bhavi",
-          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
-        }
-      ],
-      "duration_ms": 184701,
-      "name": "LADO A LADO",
-      "url": "https://open.spotify.com/track/1OgQpZbKqjrkwG3wuRWnhD"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Demasiado Tarde",
         "url": "https://open.spotify.com/album/6ZWbDDl3KHIruXOq6rZxGa"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 271548,
       "name": "Demasiado Tarde",
       "url": "https://open.spotify.com/track/5KFx45L84KmBINWLh6TEiL"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "BUTAKAS EP",
+        "url": "https://open.spotify.com/album/2kCY7NsTmu3dJu7jead73e"
+      },
+      "artists": [
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        }
+      ],
+      "duration_ms": 184701,
+      "name": "LADO A LADO",
+      "url": "https://open.spotify.com/track/1OgQpZbKqjrkwG3wuRWnhD"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Wake Me",
-        "url": "https://open.spotify.com/album/2ymNHseI83zQVhSOTC2R3m"
+        "name": "Depues De Las 3",
+        "url": "https://open.spotify.com/album/689g0N3bKawbL7LJtyRqDQ"
       },
       "artists": [
         {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+          "name": "Dowba Montana",
+          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
         }
       ],
-      "duration_ms": 174335,
-      "name": "Wake Me",
-      "url": "https://open.spotify.com/track/1fWa8CXfSZvP64CChqRve9"
+      "duration_ms": 191460,
+      "name": "Depues De Las 3",
+      "url": "https://open.spotify.com/track/06jKQDYkunWZqiyUPln7RY"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Depues De Las 3",
-        "url": "https://open.spotify.com/album/689g0N3bKawbL7LJtyRqDQ"
+        "name": "Wake Me",
+        "url": "https://open.spotify.com/album/2ymNHseI83zQVhSOTC2R3m"
       },
       "artists": [
         {
-          "name": "Dowba Montana",
-          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
         }
       ],
-      "duration_ms": 191460,
-      "name": "Depues De Las 3",
-      "url": "https://open.spotify.com/track/06jKQDYkunWZqiyUPln7RY"
+      "duration_ms": 174335,
+      "name": "Wake Me",
+      "url": "https://open.spotify.com/track/1fWa8CXfSZvP64CChqRve9"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1791,18 +1791,26 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Hielo",
-        "url": "https://open.spotify.com/album/39JjWxM4ydnOca0wAcCKdn"
+        "name": "HISTORIA",
+        "url": "https://open.spotify.com/album/7MFs4In0iDE87IHLCfDDaT"
       },
       "artists": [
         {
           "name": "FMK",
           "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Hielo",
-      "url": "https://open.spotify.com/track/0MxEDBr9vDyrtOP5zx6hKc"
+      "duration_ms": 209513,
+      "name": "HISTORIA",
+      "url": "https://open.spotify.com/track/6sYhR2oJ4wqJlstBuTvZYk"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1915,26 +1923,18 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "HISTORIA",
-        "url": "https://open.spotify.com/album/7MFs4In0iDE87IHLCfDDaT"
+        "name": "Hielo",
+        "url": "https://open.spotify.com/album/39JjWxM4ydnOca0wAcCKdn"
       },
       "artists": [
         {
           "name": "FMK",
           "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        },
-        {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
         }
       ],
-      "duration_ms": 209513,
-      "name": "HISTORIA",
-      "url": "https://open.spotify.com/track/6sYhR2oJ4wqJlstBuTvZYk"
+      "duration_ms": 225000,
+      "name": "Hielo",
+      "url": "https://open.spotify.com/track/0MxEDBr9vDyrtOP5zx6hKc"
     },
     {
       "added_at": "2022-12-09 03:00:00",

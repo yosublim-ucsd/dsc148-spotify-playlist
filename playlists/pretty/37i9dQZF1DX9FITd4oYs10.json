@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 15835,
+  "num_followers": 15838,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQxNzI2MCwwMDAwMDAwMGVhNmU0MjJmZWIzNTM4NzJiOTcyODI3NzNjYjEwMGI3",
+  "snapshot_id": "MTY3ODQxNzI2MCwwMDAwMDAwMGI5MTBjMWRkY2JiZTVjNzUzMmZhNjNiZTVlMDk2ZGNm",
   "tracks": [
     {
       "added_at": "2023-03-10 03:01:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
+        "name": "Bonde da Madrugada pt. 2",
+        "url": "https://open.spotify.com/album/2jOQG9qOUtpMvOrScJ5EMW"
+      },
+      "artists": [
+        {
+          "name": "ConeCrewDiretoria",
+          "url": "https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T"
+        }
+      ],
+      "duration_ms": 251050,
+      "name": "Rap, Cerva, Erva e Muita Larica",
+      "url": "https://open.spotify.com/track/3MT349AygkDxEp3eHpD6VL"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
         "name": "A Divina Com\u00e9dia",
         "url": "https://open.spotify.com/album/7z0Urrb0oyXZIglsBlREud"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 320744,
       "name": "A Divina Com\u00e9dia",
       "url": "https://open.spotify.com/track/1j9jCO7zGkxuAOJTTZpHiL"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "Bonde da Madrugada pt. 2",
-        "url": "https://open.spotify.com/album/2jOQG9qOUtpMvOrScJ5EMW"
-      },
-      "artists": [
-        {
-          "name": "ConeCrewDiretoria",
-          "url": "https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T"
-        }
-      ],
-      "duration_ms": 251050,
-      "name": "Rap, Cerva, Erva e Muita Larica",
-      "url": "https://open.spotify.com/track/3MT349AygkDxEp3eHpD6VL"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -1091,6 +1091,34 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
+        "name": "The Cypher Deffect 2",
+        "url": "https://open.spotify.com/album/4blnaSPrTVDqEN4Bg1Cmgb"
+      },
+      "artists": [
+        {
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        },
+        {
+          "name": "Kant",
+          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
+        },
+        {
+          "name": "Spinardi",
+          "url": "https://open.spotify.com/artist/5rohxv1cRfQwpG8W9uxSle"
+        },
+        {
+          "name": "Chayco",
+          "url": "https://open.spotify.com/artist/0titiXdcUTRXpX2CFeShdk"
+        }
+      ],
+      "duration_ms": 335907,
+      "name": "The Cypher Deffect 2",
+      "url": "https://open.spotify.com/track/6GYrNXsWoprEndJCoKLfAB"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
         "name": "Poetas no Topo 1",
         "url": "https://open.spotify.com/album/2TXsGcsDKimJKtcJ01Yy4y"
       },
@@ -1131,34 +1159,6 @@
       "duration_ms": 398478,
       "name": "Poetas no Topo 1",
       "url": "https://open.spotify.com/track/0buQLT5lhSRs7wtunIeK8v"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "The Cypher Deffect 2",
-        "url": "https://open.spotify.com/album/4blnaSPrTVDqEN4Bg1Cmgb"
-      },
-      "artists": [
-        {
-          "name": "Costa Gold",
-          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
-        },
-        {
-          "name": "Kant",
-          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
-        },
-        {
-          "name": "Spinardi",
-          "url": "https://open.spotify.com/artist/5rohxv1cRfQwpG8W9uxSle"
-        },
-        {
-          "name": "Chayco",
-          "url": "https://open.spotify.com/artist/0titiXdcUTRXpX2CFeShdk"
-        }
-      ],
-      "duration_ms": 335907,
-      "name": "The Cypher Deffect 2",
-      "url": "https://open.spotify.com/track/6GYrNXsWoprEndJCoKLfAB"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Foco, For\u00e7a E F\u00e9",
-        "url": "https://open.spotify.com/album/2ZkIlqqupIDBsfG1zzvToD"
+        "name": "Oriente",
+        "url": "https://open.spotify.com/album/5i7yYQx7XGmfl5G6XZIsUu"
       },
       "artists": [
         {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+          "name": "Oriente, Rebeca",
+          "url": "https://open.spotify.com/artist/4OihQRMAYzuKUobEFCpmLE"
         }
       ],
-      "duration_ms": 224546,
-      "name": "Foco, For\u00e7a E F\u00e9",
-      "url": "https://open.spotify.com/track/28M9CSVpZ8x526MKvb1U2W"
+      "duration_ms": 202617,
+      "name": "Linda, Louca e Mimada",
+      "url": "https://open.spotify.com/track/1rcZKMWbCac4FDnUvtYfyK"
     }
   ],
   "unique_name": "Cole\u00e7\u00e3o Hip Hop",

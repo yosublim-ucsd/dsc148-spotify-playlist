@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,002,364 likes - 99 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,002,393 likes - 99 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 9 | [What You Say \(feat\. Post Malone & The Kid LAROI\)](https://open.spotify.com/track/112EmZwJNonJymivU3KOVl) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Don't Try This At Home](https://open.spotify.com/album/6mS81Go5P5wQKoybVT68NW) | 4:03 |
 | 10 | [UNDERSTAND \(feat\. Baby Rose\)](https://open.spotify.com/track/1RHob2sw5X81Ukn4BYPbmF) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [UNDERSTAND](https://open.spotify.com/album/6DQ6LpJlvhoamE6Qg6plAX) | 4:03 |
 | 11 | [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 |
-| 12 | [Gimmie A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 |
+| 12 | [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 |
 | 13 | [B&E Pt\. 1](https://open.spotify.com/track/3w172RIHWXdyTo8KjFyeTo) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [B&E Pt\. 1](https://open.spotify.com/album/6es9sQ9dDPmWNUx1kuoOQT) | 2:33 |
 | 14 | [Guns & Butter](https://open.spotify.com/track/37ysjKJ8jO6AItn0CJaTuJ) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Surviving Queen Key](https://open.spotify.com/album/05YX7pNDoPh5VpwO3ew2aE) | 1:39 |
 | 15 | [OFF THE PORCH \(feat\. BigXthaPlug & Maxo Kream\)](https://open.spotify.com/track/3RPLr5siFwdjQbueFakIQB) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [OFF THE PORCH \(feat\. BigXthaPlug & Maxo Kream\)](https://open.spotify.com/album/2dLAa7o3gsVCnOnvyMTwef) | 3:50 |

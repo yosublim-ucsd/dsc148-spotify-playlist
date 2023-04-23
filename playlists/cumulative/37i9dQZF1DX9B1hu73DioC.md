@@ -4,7 +4,7 @@
 
 > The best indie tracks for just hanging out.
 
-622 songs - 1 day 13 hr 40 min
+623 songs - 1 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Bitter](https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [So Long Forever](https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y) | 3:53 | 2022-06-01 |  |
 | [Bitter Streets](https://open.spotify.com/track/11FAIgRREb9YdaLxmeaSM8) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Nine](https://open.spotify.com/album/7Kpv6XWZhGCwX6PSR4vWaX) | 4:02 | 2021-06-25 | 2022-04-19 |
 | [Black Willow \- Single Version](https://open.spotify.com/track/7sljgxqi3fK5vmV7t2St1l) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Black Willow](https://open.spotify.com/album/1vTTyzie3Urd2RABXxjTOe) | 3:59 | 2020-10-05\* | 2020-10-06 |
+| [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 | 2023-04-21 |  |
 | [BLEACH \- Beshken Remix](https://open.spotify.com/track/1hv6wWgnbqlTqEQivmdtvJ) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3), [Beshken](https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB) | [SLEEP CYCLE Remixes](https://open.spotify.com/album/4WGEDA8ooTjCiOHgWz6sjT) | 3:23 | 2021-06-04 | 2022-07-19 |
 | [Blondie](https://open.spotify.com/track/4UkCtBCYh6VMsucGMQZyh9) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/2hwXntoP4IIoi7yxHbH7aL) | 3:14 | 2020-12-31 | 2022-04-16 |
 | [Blood And Butter](https://open.spotify.com/track/5KE5Inz4uZKGb2EzETaOEe) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:27 | 2023-02-21 |  |
@@ -315,7 +316,7 @@
 | [joyride](https://open.spotify.com/track/4z8MoMsTria5Qeleo3Lofc) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [joyride](https://open.spotify.com/album/4vYED95AUSC3WxDntWw7vU) | 3:05 | 2022-03-07 | 2022-04-21 |
 | [June](https://open.spotify.com/track/2J1htdIomT0zFKTwgZqvje) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [June](https://open.spotify.com/album/67dB9LV4IAaWDqcRBHFmTw) | 2:39 | 2021-08-27 | 2022-04-21 |
 | [keep going](https://open.spotify.com/track/0W3JF6MImoncSOnmJhMxbY) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [keep going](https://open.spotify.com/album/6RnVNmtxqtKbG4DcccX0Nm) | 2:52 | 2021-05-05 | 2022-07-28 |
-| [keep going](https://open.spotify.com/track/7FDHPkkA4jQYBMtbpe2UzR) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [Ritual](https://open.spotify.com/album/3Ml6WGt3ogt1GcmaTXGA4w) | 2:52 | 2022-10-07 |  |
+| [keep going](https://open.spotify.com/track/7FDHPkkA4jQYBMtbpe2UzR) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [Ritual](https://open.spotify.com/album/3Ml6WGt3ogt1GcmaTXGA4w) | 2:52 | 2022-10-07 | 2023-04-23 |
 | [Keep Yourself Alive](https://open.spotify.com/track/4tIg1iZDADN3pHPOAgynyc) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [A Day in a Yellow Beat](https://open.spotify.com/album/6Cn3JpoA3LIrISLDH2gYmJ) | 4:31 | 2020-12-08 | 2022-04-17 |
 | [Kids](https://open.spotify.com/track/3pyyGVqWvRMq43qtJBzxe0) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Kids](https://open.spotify.com/album/39OIkrUzvzzCkwhXh9Rdeg) | 4:29 | 2022-07-25 | 2022-10-15 |
 | [Kids](https://open.spotify.com/track/6ixkZ2Q9gQeh52C6GxbETg) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Kids](https://open.spotify.com/album/7JNKAh8Cnao2VCKk33ilWB) | 4:29 | 2020-10-16 | 2022-04-13 |

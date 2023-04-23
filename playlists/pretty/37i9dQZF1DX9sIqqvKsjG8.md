@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 
 > Focus with soft study music in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,725,832 likes - 319 songs - 13 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,725,868 likes - 319 songs - 13 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -196,7 +196,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 | 186 | [The Old Windmill](https://open.spotify.com/track/5YINZsov3qBPWjCEsWDDWX) | [Henri Bentley](https://open.spotify.com/artist/5laMomQR4uO3PR7cNNkWQy) | [The Old Windmill](https://open.spotify.com/album/441C9NGHHXjvEre4uFxUfn) | 2:02 |
 | 187 | [Salon musique](https://open.spotify.com/track/3Hv2XS0W9g4FAGzXCOYEnn) | [Maxence Cyrin](https://open.spotify.com/artist/3NcPjvA2rp9FPj1JBAXwOS) | [Melancholy Island](https://open.spotify.com/album/1yF5Hz1HEBepidnXeqMZIW) | 2:00 |
 | 188 | [Makeshift Dream](https://open.spotify.com/track/43DUAcgzPr2kbp2fWRt568) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Sweet Water](https://open.spotify.com/album/4pFfD5JJWub5rc1A7kflUG) | 3:35 |
-| 189 | [Hard to say goodbye](https://open.spotify.com/track/0ZU1CweQ9ineKlc9fOrakS) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Hard to say goodbye](https://open.spotify.com/album/75pHmigwsMSjUX1etl9gHh) | 2:14 |
+| 189 | [Garcia: Hard to say goodbye](https://open.spotify.com/track/0ZU1CweQ9ineKlc9fOrakS) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Hard to say goodbye](https://open.spotify.com/album/75pHmigwsMSjUX1etl9gHh) | 2:14 |
 | 190 | [Rondel](https://open.spotify.com/track/7lE18SWzAxh5SfMbie92jN) | [Lydia Webber](https://open.spotify.com/artist/0lwFe0MGAOei9D2rl5jALq) | [Beija\-flor](https://open.spotify.com/album/5iEY08mWgZExTAqd9oxXJx) | 2:51 |
 | 191 | [Yellow Man](https://open.spotify.com/track/49m1O8EMWPKhqw8lIvmU81) | [Ramin Kuliev](https://open.spotify.com/artist/31YH5gJZ2AxYRBhQRIUzaT) | [Yellow Man](https://open.spotify.com/album/6w2UFWXpoVwjLby9A3y3yT) | 3:06 |
 | 192 | [Remembrance](https://open.spotify.com/track/3yZHqhElpkIWaHA1yUFCIH) | [Maybelle Watson](https://open.spotify.com/artist/0r0MT1SFBOA04mUgXA5PzX) | [Remembrance](https://open.spotify.com/album/5QEo0jbi1JBt4ghGJ0qIHz) | 2:16 |

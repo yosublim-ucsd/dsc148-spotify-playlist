@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Fall Out Boy",
-  "num_followers": 703842,
+  "num_followers": 703836,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0NjA2MCwwMDAwMDAwMDIxMWE3YWVlNDg4YTcyMTM1ZDgzZGM2ZjE5OGM2ZTc5",
+  "snapshot_id": "MTY4MjA0NjA2MCwwMDAwMDAwMGZiMzQyOWI0ZWZlYTQ0NzM3ZWYyOTQxMWI1NjVlNTBl",
   "tracks": [
     {
       "added_at": "2023-04-21 03:01:00",
@@ -403,18 +403,18 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "STILL SUCKS",
-        "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
+        "name": "The Void",
+        "url": "https://open.spotify.com/album/0QRXPpwdM079Cs6XmMjOnv"
       },
       "artists": [
         {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 202862,
-      "name": "Out Of Style",
-      "url": "https://open.spotify.com/track/06nmwVr0Ev16QnVXsQXSf1"
+      "duration_ms": 220765,
+      "name": "The Void",
+      "url": "https://open.spotify.com/track/6TuoAUJFtdz4OMshZeaKHW"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -431,6 +431,22 @@
       "duration_ms": 273693,
       "name": "Too Far Gone?",
       "url": "https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
+        "name": "STILL SUCKS",
+        "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 202862,
+      "name": "Out Of Style",
+      "url": "https://open.spotify.com/track/06nmwVr0Ev16QnVXsQXSf1"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -483,34 +499,18 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "The Void",
-        "url": "https://open.spotify.com/album/0QRXPpwdM079Cs6XmMjOnv"
+        "name": "Nowhere Generation",
+        "url": "https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI"
       },
       "artists": [
         {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 220765,
-      "name": "The Void",
-      "url": "https://open.spotify.com/track/6TuoAUJFtdz4OMshZeaKHW"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
-        "name": "No More Tears To Cry",
-        "url": "https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0"
-      },
-      "artists": [
-        {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        }
-      ],
-      "duration_ms": 221433,
-      "name": "No More Tears To Cry",
-      "url": "https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ"
+      "duration_ms": 232933,
+      "name": "Nowhere Generation",
+      "url": "https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -547,18 +547,18 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "Nowhere Generation",
-        "url": "https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI"
+        "name": "No More Tears To Cry",
+        "url": "https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0"
       },
       "artists": [
         {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
         }
       ],
-      "duration_ms": 232933,
-      "name": "Nowhere Generation",
-      "url": "https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8"
+      "duration_ms": 221433,
+      "name": "No More Tears To Cry",
+      "url": "https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -591,6 +591,22 @@
       "duration_ms": 221148,
       "name": "The Saints Of Violence And Innuendo",
       "url": "https://open.spotify.com/track/62JTJvMA8yd5r8r788hK2Q"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
+        "name": "MTV Unplugged (Live)",
+        "url": "https://open.spotify.com/album/2kAer61g2HN6upL2zXAjzd"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 282226,
+      "name": "Tear in My Heart - MTV Unplugged Live",
+      "url": "https://open.spotify.com/track/4IMxLpdUPWreh9cxmolYEV"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -819,6 +835,22 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
+        "name": "Boilermaker",
+        "url": "https://open.spotify.com/album/0PNu9d50xKqwQbEwq9vqd7"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 209480,
+      "name": "Boilermaker",
+      "url": "https://open.spotify.com/track/6Ci6L6EeLqR6VHV1DBJy2S"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
         "name": "BURIED ALIVE",
         "url": "https://open.spotify.com/album/7jM3UEuq5ybIxtzliHZiKL"
       },
@@ -851,22 +883,6 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "Boilermaker",
-        "url": "https://open.spotify.com/album/0PNu9d50xKqwQbEwq9vqd7"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 209480,
-      "name": "Boilermaker",
-      "url": "https://open.spotify.com/track/6Ci6L6EeLqR6VHV1DBJy2S"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
         "name": "CRAWLER",
         "url": "https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 260519,
       "name": "Crawl!",
       "url": "https://open.spotify.com/track/3wev7PYoYj9UZlMmlpda57"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
-        "name": "More Than Machines",
-        "url": "https://open.spotify.com/album/3h4MWIFNt3pb3IHaifAW83"
-      },
-      "artists": [
-        {
-          "name": "Bush",
-          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
-        }
-      ],
-      "duration_ms": 201541,
-      "name": "More Than Machines",
-      "url": "https://open.spotify.com/track/1y1l61KJCj8EDE35iS4ZgC"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "Feast Of Fire",
-        "url": "https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq"
+        "name": "More Than Machines",
+        "url": "https://open.spotify.com/album/3h4MWIFNt3pb3IHaifAW83"
       },
       "artists": [
         {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
         }
       ],
-      "duration_ms": 258837,
-      "name": "Feast Of Fire",
-      "url": "https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z"
+      "duration_ms": 201541,
+      "name": "More Than Machines",
+      "url": "https://open.spotify.com/track/1y1l61KJCj8EDE35iS4ZgC"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -943,6 +943,22 @@
       "duration_ms": 293093,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
+        "name": "Feast Of Fire",
+        "url": "https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 258837,
+      "name": "Feast Of Fire",
+      "url": "https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -1187,22 +1203,6 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "MTV Unplugged (Live)",
-        "url": "https://open.spotify.com/album/2kAer61g2HN6upL2zXAjzd"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 282226,
-      "name": "Tear in My Heart - MTV Unplugged Live",
-      "url": "https://open.spotify.com/track/4IMxLpdUPWreh9cxmolYEV"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
         "name": "Bitter",
         "url": "https://open.spotify.com/album/0Aw2OPlsqTl8LSXIB7q1BI"
       },
@@ -1215,22 +1215,6 @@
       "duration_ms": 185880,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/5dpaPvjs0mo0DGtpl2PzRJ"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
-        "name": "Keep It Away",
-        "url": "https://open.spotify.com/album/56a0YTfgc8pSSmvdD381eB"
-      },
-      "artists": [
-        {
-          "name": "Fuel",
-          "url": "https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp"
-        }
-      ],
-      "duration_ms": 221226,
-      "name": "Keep It Away",
-      "url": "https://open.spotify.com/track/4PBj43xrepBtpGDcrVewUf"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -1251,6 +1235,22 @@
       "duration_ms": 342306,
       "name": "The People That We Love - Golden Dub Remix",
       "url": "https://open.spotify.com/track/1QJpxlH4M7DmSFdIyE7Ekq"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
+        "name": "Keep It Away",
+        "url": "https://open.spotify.com/album/56a0YTfgc8pSSmvdD381eB"
+      },
+      "artists": [
+        {
+          "name": "Fuel",
+          "url": "https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp"
+        }
+      ],
+      "duration_ms": 221226,
+      "name": "Keep It Away",
+      "url": "https://open.spotify.com/track/4PBj43xrepBtpGDcrVewUf"
     }
   ],
   "unique_name": "Volume M\u00e1ximo",

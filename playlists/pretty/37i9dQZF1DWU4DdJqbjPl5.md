@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE?si=8ZIdff\_ATvOMzVI5xLBpOQ" >Bensoul</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,858 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,966 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Row](https://open.spotify.com/track/1mSI6HmSBUKCsGSUSz6vui) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Mordecai Dex](https://open.spotify.com/artist/7itqo8Vno3ohE3Ce85aHBL), [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp) | [The Lion of Sudah](https://open.spotify.com/album/4sx5OcEfV3O6BLmKF3FV1h) | 3:27 |
-| 2 | [Stand By You](https://open.spotify.com/track/4uSn4uo2QYTJcENcvVri96) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Stand By You](https://open.spotify.com/album/4xyk3drYz00n2co5h3h2Kc) | 2:55 |
+| 2 | [Stand By You](https://open.spotify.com/track/2g9WsbUkdYlffKK5Ao5BpR) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good EP](https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx) | 2:55 |
 | 3 | [Run](https://open.spotify.com/track/1SAxAnhOG0xTh0Gm2Qlsoj) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Run](https://open.spotify.com/album/5p5FoOxBxlXv6VjDWJy6Hq) | 2:33 |
 | 4 | [Obsessed](https://open.spotify.com/track/0bHVQDfkxCU4JOTIRBbNgR) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Riddim 5](https://open.spotify.com/album/5OED0Qq75DgxN7XxWvvcAV) | 2:44 |
 | 5 | [To Last](https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [To Last](https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB) | 2:56 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 79 | [Guava Rose](https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Eva Ruiz](https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV) | [Guava Rose](https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs) | 3:12 |
 | 80 | [Mayana](https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [Mayana](https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek) | 2:38 |
 
-Snapshot ID: `MTY4MjAzMTYwMCwwMDAwMDAwMGQyYTZkNmY5NzQzODJiMjUwNGFkODMyODg2ZTEwM2I2`
+Snapshot ID: `MTY4MjAzMTYwMCwwMDAwMDAwMDNmOTgzMzQ1N2ViY2U5MWU5NDc2MDc0OThkNDY5NDY4`

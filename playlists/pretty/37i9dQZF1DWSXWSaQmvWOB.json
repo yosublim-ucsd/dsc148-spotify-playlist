@@ -1,12 +1,12 @@
 {
   "description": "Your daily dose of soul-infused music! Cover: The Teskey Brothers",
-  "num_followers": 439273,
+  "num_followers": 439322,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgxODQwMCwwMDAwMDAwMGMyZjA1ZjdjMmI1MDk3ZGI4MjQ4YWRmODMyYTIzYzJl",
+  "snapshot_id": "MTY4MDgxODQwMCwwMDAwMDAwMGRlYzI1Y2JiOGUxNzdjOGIyZjc0ZjViZTNiN2Q0ODk5",
   "tracks": [
     {
       "added_at": "2023-04-06 22:00:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/5cCq18AvACmXNR2QmuPt3i"
-      },
-      "artists": [
-        {
-          "name": "Flo Naegeli",
-          "url": "https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa"
-        }
-      ],
-      "duration_ms": 205625,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/4SSMJh5AoqMt8xMDTaMByS"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
         "name": "I'm Gonna Love You",
         "url": "https://open.spotify.com/album/1xtuuytm8AJhcaafPLYL65"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 268211,
       "name": "I'm Gonna Love You",
       "url": "https://open.spotify.com/track/5Vqtjb3p6g0cIWUPXVesln"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/5cCq18AvACmXNR2QmuPt3i"
+      },
+      "artists": [
+        {
+          "name": "Flo Naegeli",
+          "url": "https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa"
+        }
+      ],
+      "duration_ms": 205625,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/4SSMJh5AoqMt8xMDTaMByS"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -547,26 +547,6 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Mood Right",
-        "url": "https://open.spotify.com/album/5B4oxR73Yss8t4dcgOezUI"
-      },
-      "artists": [
-        {
-          "name": "Noa Lauryn",
-          "url": "https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9"
-        },
-        {
-          "name": "Candy Dulfer",
-          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
-        }
-      ],
-      "duration_ms": 169213,
-      "name": "Mood Right",
-      "url": "https://open.spotify.com/track/5Q8G6sLpG6PBFjJIXOPW9l"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
         "name": "GEEK OUT!",
         "url": "https://open.spotify.com/album/0pcNZasBNHBCU8MilSUv1X"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 184137,
       "name": "GEEK OUT!",
       "url": "https://open.spotify.com/track/5BHJAKnYZ4GGlxTmpnPGab"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Mood Right",
+        "url": "https://open.spotify.com/album/5B4oxR73Yss8t4dcgOezUI"
+      },
+      "artists": [
+        {
+          "name": "Noa Lauryn",
+          "url": "https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9"
+        },
+        {
+          "name": "Candy Dulfer",
+          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
+        }
+      ],
+      "duration_ms": 169213,
+      "name": "Mood Right",
+      "url": "https://open.spotify.com/track/5Q8G6sLpG6PBFjJIXOPW9l"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "STILL HAVE YOU",
-        "url": "https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX"
+        "name": "L.A.B V",
+        "url": "https://open.spotify.com/album/52O3QyngsXELzoDyyIsZuQ"
       },
       "artists": [
         {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
         }
       ],
-      "duration_ms": 142306,
-      "name": "STILL HAVE YOU",
-      "url": "https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z"
+      "duration_ms": 310960,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/7ITaZ7T8roiZPN35uhX2FC"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "L.A.B V",
-        "url": "https://open.spotify.com/album/52O3QyngsXELzoDyyIsZuQ"
+        "name": "STILL HAVE YOU",
+        "url": "https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX"
       },
       "artists": [
         {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
         }
       ],
-      "duration_ms": 310960,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/7ITaZ7T8roiZPN35uhX2FC"
+      "duration_ms": 142306,
+      "name": "STILL HAVE YOU",
+      "url": "https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -907,6 +907,26 @@
       "duration_ms": 257040,
       "name": "B.N.D",
       "url": "https://open.spotify.com/track/2WJqKEJ5TGjK2DojGrRo9K"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "What It Takes",
+        "url": "https://open.spotify.com/album/4GemvvqS3Pl9za8Y3ohghJ"
+      },
+      "artists": [
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 226584,
+      "name": "What It Takes (feat. Lauren Daigle)",
+      "url": "https://open.spotify.com/track/6fjzXoKC1ULC660aNq1zOO"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -935,42 +955,6 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "What It Takes",
-        "url": "https://open.spotify.com/album/4GemvvqS3Pl9za8Y3ohghJ"
-      },
-      "artists": [
-        {
-          "name": "Trombone Shorty",
-          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
-        },
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 226584,
-      "name": "What It Takes (feat. Lauren Daigle)",
-      "url": "https://open.spotify.com/track/6fjzXoKC1ULC660aNq1zOO"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "Loving You Is Easy",
-        "url": "https://open.spotify.com/album/0pAufedG5sDBUANDnE7IAX"
-      },
-      "artists": [
-        {
-          "name": "Flo Naegeli",
-          "url": "https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa"
-        }
-      ],
-      "duration_ms": 209500,
-      "name": "Loving You Is Easy",
-      "url": "https://open.spotify.com/track/4fARowx7Swbgt8TYaKhK2a"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
         "name": "More To Learn",
         "url": "https://open.spotify.com/album/3r7mEDjTNdNxWfjS1mClE2"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 270722,
       "name": "More To Learn",
       "url": "https://open.spotify.com/track/7IX7LDLs3vCtrY7poNX0p4"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Loving You Is Easy",
+        "url": "https://open.spotify.com/album/0pAufedG5sDBUANDnE7IAX"
+      },
+      "artists": [
+        {
+          "name": "Flo Naegeli",
+          "url": "https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa"
+        }
+      ],
+      "duration_ms": 209500,
+      "name": "Loving You Is Easy",
+      "url": "https://open.spotify.com/track/4fARowx7Swbgt8TYaKhK2a"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1099,6 +1099,38 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
+        "name": "Light Speaks the Quilt",
+        "url": "https://open.spotify.com/album/3maM5jsIfu1ALqYLr0Viov"
+      },
+      "artists": [
+        {
+          "name": "Jonny Kosmo",
+          "url": "https://open.spotify.com/artist/6VyZH1zto2r7gkSYsUUBEx"
+        }
+      ],
+      "duration_ms": 176032,
+      "name": "Rolodex",
+      "url": "https://open.spotify.com/track/2qTh3LFhX5hlJ47i2bTvHK"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/5g98eX19j6hiHuyHPlIGhW"
+      },
+      "artists": [
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/7w9bSUUdghXGjWmYtu6fl6"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
         "name": "Nobody's Fool",
         "url": "https://open.spotify.com/album/3o6zpnwxSC8PeIQkdP5V1w"
       },
@@ -1123,38 +1155,6 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/5g98eX19j6hiHuyHPlIGhW"
-      },
-      "artists": [
-        {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/7w9bSUUdghXGjWmYtu6fl6"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "Light Speaks the Quilt",
-        "url": "https://open.spotify.com/album/3maM5jsIfu1ALqYLr0Viov"
-      },
-      "artists": [
-        {
-          "name": "Jonny Kosmo",
-          "url": "https://open.spotify.com/artist/6VyZH1zto2r7gkSYsUUBEx"
-        }
-      ],
-      "duration_ms": 176032,
-      "name": "Rolodex",
-      "url": "https://open.spotify.com/track/2qTh3LFhX5hlJ47i2bTvHK"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
         "name": "Lonely Are the Brave (Mav's Version)",
         "url": "https://open.spotify.com/album/62MJBLFK4G1AM9ZZS0p3Ph"
       },
@@ -1167,6 +1167,22 @@
       "duration_ms": 239346,
       "name": "I Need - Mav's Version",
       "url": "https://open.spotify.com/track/5PfmVIO6dwDTDL4u2ICfMd"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Some Of Us Are Brave",
+        "url": "https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn"
+      },
+      "artists": [
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        }
+      ],
+      "duration_ms": 233846,
+      "name": "Some Of Us Are Brave",
+      "url": "https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1195,22 +1211,6 @@
       "duration_ms": 179427,
       "name": "Favorite Girl",
       "url": "https://open.spotify.com/track/4wUE9MM4XiwZ6mnw2LQQop"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "Some Of Us Are Brave",
-        "url": "https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn"
-      },
-      "artists": [
-        {
-          "name": "Danielle Ponder",
-          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
-        }
-      ],
-      "duration_ms": 233846,
-      "name": "Some Of Us Are Brave",
-      "url": "https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Multiply",
-        "url": "https://open.spotify.com/album/7kqge5g8SnPqZtRoQyRMPz"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        }
-      ],
-      "duration_ms": 236136,
-      "name": "Multiply",
-      "url": "https://open.spotify.com/track/3rrClpW2TfOj6VY6nLtqBS"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
         "name": "Untidy Soul",
         "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 204909,
       "name": "Enough",
       "url": "https://open.spotify.com/track/2GrEn4GJECJgW8Q1zr2XbH"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Multiply",
+        "url": "https://open.spotify.com/album/7kqge5g8SnPqZtRoQyRMPz"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 236136,
+      "name": "Multiply",
+      "url": "https://open.spotify.com/track/3rrClpW2TfOj6VY6nLtqBS"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Come Back",
-        "url": "https://open.spotify.com/album/7IoCTlOk0QSxcGS7bm5PwA"
-      },
-      "artists": [
-        {
-          "name": "Trombone Shorty",
-          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
-        }
-      ],
-      "duration_ms": 179882,
-      "name": "Come Back - Radio Edit",
-      "url": "https://open.spotify.com/track/5LrRyRNEkx1LHR1JrrypZQ"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
         "name": "Something I Said",
         "url": "https://open.spotify.com/album/1sruO8JvNgHAGorAbZIz4R"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 196235,
       "name": "Something I Said",
       "url": "https://open.spotify.com/track/353y8b5t9MDnUlddgQ0dZY"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Come Back",
+        "url": "https://open.spotify.com/album/7IoCTlOk0QSxcGS7bm5PwA"
+      },
+      "artists": [
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+        }
+      ],
+      "duration_ms": 179882,
+      "name": "Come Back - Radio Edit",
+      "url": "https://open.spotify.com/track/5LrRyRNEkx1LHR1JrrypZQ"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Like Neptune",
-        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 279453,
-      "name": "deeper",
-      "url": "https://open.spotify.com/track/7kqiHD9lXoksOXA9qEt6Rs"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/4uN0xpwveVbQtN7Rcl1dFA"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 316626,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4Tz5dGX8wiAejkYhZ7sLG4"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 279453,
+      "name": "deeper",
+      "url": "https://open.spotify.com/track/7kqiHD9lXoksOXA9qEt6Rs"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
+        "name": "Truth & Soul",
+        "url": "https://open.spotify.com/album/0d1vlMDPL6j1ebfb4x0sTt"
+      },
+      "artists": [
+        {
+          "name": "Michelle David & The True-tones",
+          "url": "https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj"
+        }
+      ],
+      "duration_ms": 260853,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/1SSdSN70LK45vWndX3twa9"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
         "name": "Summer in Amsterdam",
         "url": "https://open.spotify.com/album/41oCea6cFoAFT5ws1c5Dm1"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 195257,
       "name": "All Night",
       "url": "https://open.spotify.com/track/5wAdIhCznqx3rrDrKzjb2k"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "Truth & Soul",
-        "url": "https://open.spotify.com/album/0d1vlMDPL6j1ebfb4x0sTt"
-      },
-      "artists": [
-        {
-          "name": "Michelle David & The True-tones",
-          "url": "https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj"
-        }
-      ],
-      "duration_ms": 260853,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/1SSdSN70LK45vWndX3twa9"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/36CwJiqhcAgsrtnqWZizkV"
-      },
-      "artists": [
-        {
-          "name": "Marc Broussard",
-          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
-        }
-      ],
-      "duration_ms": 269709,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/5LWQ5zef4xx39dIcOOeqUI"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/27zVikKFB0moOYXJanIOct"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 213728,
       "name": "Flashing Lights",
       "url": "https://open.spotify.com/track/1sK3qSrr5cbVBbFobG2Gjh"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/36CwJiqhcAgsrtnqWZizkV"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        }
+      ],
+      "duration_ms": 269709,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5LWQ5zef4xx39dIcOOeqUI"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -2127,26 +2127,6 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "The Healer",
-        "url": "https://open.spotify.com/album/7CqeFBrZZUkdHowafVUKHI"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        },
-        {
-          "name": "Ebban Dorsey",
-          "url": "https://open.spotify.com/artist/5TOrtWMKxGEvLTJUtooZUu"
-        }
-      ],
-      "duration_ms": 352253,
-      "name": "The Healer",
-      "url": "https://open.spotify.com/track/0CjY9niefITNSiK5OBgPeU"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
         "name": "We Never Stop",
         "url": "https://open.spotify.com/album/5ZXGZfvx2JzjeHYXyweXwV"
       },
@@ -2171,6 +2151,26 @@
       "duration_ms": 239386,
       "name": "Perspective",
       "url": "https://open.spotify.com/track/3RN9aExVAKIXHut4l7ODxx"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "The Healer",
+        "url": "https://open.spotify.com/album/7CqeFBrZZUkdHowafVUKHI"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        },
+        {
+          "name": "Ebban Dorsey",
+          "url": "https://open.spotify.com/artist/5TOrtWMKxGEvLTJUtooZUu"
+        }
+      ],
+      "duration_ms": 352253,
+      "name": "The Healer",
+      "url": "https://open.spotify.com/track/0CjY9niefITNSiK5OBgPeU"
     }
   ],
   "unique_name": "Soul 'n' the City",

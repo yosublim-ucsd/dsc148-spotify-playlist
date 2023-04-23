@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYj8Rli0KbAt.md) - [plain]
 
 > Transport yourself to the underground world of <a href="spotify:artist:40JyDxGqtYSowWYT2jaive">Alan Fitzpatrick</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,204 likes - 16 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,206 likes - 16 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

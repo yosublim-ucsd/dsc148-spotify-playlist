@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 433900,
+  "num_followers": 434733,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMGQ5NTJkMWE4YmNhYmJjYjRlOWNjMDNhZjVlMGFlN2Yx",
+  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMDdlMjdlMDUwNjYxMTUyM2U2MWY5MTgzNjYxZGI3ZmMx",
   "tracks": [
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "GALLERY",
-        "url": "https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE"
-      },
-      "artists": [
-        {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
-        }
-      ],
-      "duration_ms": 194013,
-      "name": "Oceans Away",
-      "url": "https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Worlds",
         "url": "https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 350690,
       "name": "Sad Machine",
       "url": "https://open.spotify.com/track/1JY6B9ILvmRla2IKKRZvnH"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "GALLERY",
+        "url": "https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE"
+      },
+      "artists": [
+        {
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+        }
+      ],
+      "duration_ms": 194013,
+      "name": "Oceans Away",
+      "url": "https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Exotica",
-        "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
-        }
-      ],
-      "duration_ms": 195704,
-      "name": "Hypnotized",
-      "url": "https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Sad Song (feat. TINI)",
         "url": "https://open.spotify.com/album/0D26ZmfHtg7309j2TEKxnR"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 154024,
       "name": "Sad Song (feat. TINI)",
       "url": "https://open.spotify.com/track/2JoIjuzRplpYGvvLpSW2on"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Exotica",
+        "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        }
+      ],
+      "duration_ms": 195704,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
+        "name": "Here Today Gone Tomorrow",
+        "url": "https://open.spotify.com/album/20u2BADwHMxvAvFNNxtAGo"
+      },
+      "artists": [
+        {
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+        }
+      ],
+      "duration_ms": 313084,
+      "name": "Facing the Sun",
+      "url": "https://open.spotify.com/track/4Ei691AKbjiGscPcMUdA4s"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
         "name": "Last Hurrah (David Guetta Remix)",
         "url": "https://open.spotify.com/album/4KIlCXWsC5D7tHNM1PsfhG"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 191868,
       "name": "Last Hurrah - David Guetta Remix",
       "url": "https://open.spotify.com/track/66wF9HWqR8RpQ47tiVQpgx"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
-        "name": "Here Today Gone Tomorrow",
-        "url": "https://open.spotify.com/album/20u2BADwHMxvAvFNNxtAGo"
-      },
-      "artists": [
-        {
-          "name": "Fritz Kalkbrenner",
-          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
-        }
-      ],
-      "duration_ms": 313084,
-      "name": "Facing the Sun",
-      "url": "https://open.spotify.com/track/4Ei691AKbjiGscPcMUdA4s"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Somebody I'm Not",
-        "url": "https://open.spotify.com/album/1Th4vKosxgXWDSqJStYgrW"
-      },
-      "artists": [
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        },
-        {
-          "name": "Bj\u00f8rnskov",
-          "url": "https://open.spotify.com/artist/16EmDsIYHYtxgSNfjEYPf8"
-        }
-      ],
-      "duration_ms": 167726,
-      "name": "Somebody I'm Not",
-      "url": "https://open.spotify.com/track/60dLzTKOP5Q37wThC9VVjB"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Favela",
         "url": "https://open.spotify.com/album/1s7ZwUeLcKAM4GqHY6PHcQ"
       },
@@ -1555,22 +1535,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Back To You (Joey Pecoraro Remix)",
-        "url": "https://open.spotify.com/album/5YOxoeO5DRUWEBbDt9A3jU"
+        "name": "Somebody I'm Not",
+        "url": "https://open.spotify.com/album/1Th4vKosxgXWDSqJStYgrW"
       },
       "artists": [
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
         },
         {
-          "name": "Joey Pecoraro",
-          "url": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ"
+          "name": "Bj\u00f8rnskov",
+          "url": "https://open.spotify.com/artist/16EmDsIYHYtxgSNfjEYPf8"
         }
       ],
-      "duration_ms": 226644,
-      "name": "Back To You - Joey Pecoraro Remix",
-      "url": "https://open.spotify.com/track/216afVgCJWieLyqPDwziwq"
+      "duration_ms": 167726,
+      "name": "Somebody I'm Not",
+      "url": "https://open.spotify.com/track/60dLzTKOP5Q37wThC9VVjB"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1591,6 +1571,26 @@
       "duration_ms": 195261,
       "name": "Oh Child",
       "url": "https://open.spotify.com/track/2xw9PXlt8IaCWZjfpJ2HPL"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Back To You (Joey Pecoraro Remix)",
+        "url": "https://open.spotify.com/album/5YOxoeO5DRUWEBbDt9A3jU"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Joey Pecoraro",
+          "url": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ"
+        }
+      ],
+      "duration_ms": 226644,
+      "name": "Back To You - Joey Pecoraro Remix",
+      "url": "https://open.spotify.com/track/216afVgCJWieLyqPDwziwq"
     },
     {
       "added_at": "2022-01-18 14:54:04",

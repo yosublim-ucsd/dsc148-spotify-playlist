@@ -350,7 +350,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 154767,
       "name": "40K",
       "url": "https://open.spotify.com/track/6WQihZyNHPQzaF7dx3Xmi6"
@@ -1796,7 +1796,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 179781,
       "name": "Baila por mi",
       "url": "https://open.spotify.com/track/1x9PfQvnZZXjPfIVxbM5wb"
@@ -2966,7 +2966,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 184013,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
@@ -4135,6 +4135,28 @@
     },
     {
       "album": {
+        "name": "Double Fantasy",
+        "url": "https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268235,
+      "name": "Double Fantasy (with Future)",
+      "url": "https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi"
+    },
+    {
+      "album": {
         "name": "Down In Atlanta",
         "url": "https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp"
       },
@@ -4696,6 +4718,24 @@
       "duration_ms": 269486,
       "name": "Ei yksin tarvii uskaltaa",
       "url": "https://open.spotify.com/track/1amGUVUxHmihWrRTXoc7uA"
+    },
+    {
+      "album": {
+        "name": "Eilisen m\u00e4",
+        "url": "https://open.spotify.com/album/079jjb0bjq4DfNqAhOmZan"
+      },
+      "artists": [
+        {
+          "name": "ABREU",
+          "url": "https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153487,
+      "name": "Eilisen m\u00e4",
+      "url": "https://open.spotify.com/track/4s8HU5QtwF2vuBUlvVpKgy"
     },
     {
       "album": {
@@ -8094,7 +8134,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 183145,
       "name": "Hyvikset ja pahikset",
       "url": "https://open.spotify.com/track/4jhma1OWtSgGGO4Yh3CrtZ"
@@ -9997,6 +10037,72 @@
     },
     {
       "album": {
+        "name": "Kaiken takana on b\u00e4m\u00e4",
+        "url": "https://open.spotify.com/album/6T5Hh7x8fMpDEjobx4Wry3"
+      },
+      "artists": [
+        {
+          "name": "B\u00e4m\u00e4",
+          "url": "https://open.spotify.com/artist/1nDMB5M5uBTt0SQWFgZtc1"
+        },
+        {
+          "name": "Nelli Milan",
+          "url": "https://open.spotify.com/artist/4FphQ1kJVokUMR2pkwRzoH"
+        },
+        {
+          "name": "Helena Routa",
+          "url": "https://open.spotify.com/artist/3B3F0NOprzhFFbGB2M4TQN"
+        },
+        {
+          "name": "Mon-Sala",
+          "url": "https://open.spotify.com/artist/563RJHQJRgjoBBSehPAY5Q"
+        },
+        {
+          "name": "Adikia",
+          "url": "https://open.spotify.com/artist/7K6DxJUiPwbMtWkantnPRz"
+        },
+        {
+          "name": "satu",
+          "url": "https://open.spotify.com/artist/0fvfbRyjT4wCwKmn2n9FDx"
+        },
+        {
+          "name": "Aina",
+          "url": "https://open.spotify.com/artist/3M36KGUt2RuwXQuxTDQIEY"
+        },
+        {
+          "name": "Malka",
+          "url": "https://open.spotify.com/artist/0lTUp22EP74cpIchllAtGe"
+        },
+        {
+          "name": "Sorry Babe",
+          "url": "https://open.spotify.com/artist/2hUpyOXwNxBPJUuNCLdIJB"
+        },
+        {
+          "name": "Sara Siipola",
+          "url": "https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup"
+        },
+        {
+          "name": "Ida Alex",
+          "url": "https://open.spotify.com/artist/5AmspRr2LtWkA9gomFuhB7"
+        },
+        {
+          "name": "EME",
+          "url": "https://open.spotify.com/artist/2g0v8ntUy4SSbvrHhUljE5"
+        },
+        {
+          "name": "Emilia Ex",
+          "url": "https://open.spotify.com/artist/2cZAaxofoZSjt7qCOEmbcF"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178337,
+      "name": "Kaiken takana on b\u00e4m\u00e4",
+      "url": "https://open.spotify.com/track/4NZIZeNZScnHy49x0PLNXI"
+    },
+    {
+      "album": {
         "name": "KAIKEST PAHAST PARANNUIT",
         "url": "https://open.spotify.com/album/4cJ2a5aDTMzt596oI4bWVI"
       },
@@ -10497,6 +10603,28 @@
     },
     {
       "album": {
+        "name": "Kauemmas",
+        "url": "https://open.spotify.com/album/1RwarNgICtwirnl65jNkyG"
+      },
+      "artists": [
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+        },
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192030,
+      "name": "Kauemmas",
+      "url": "https://open.spotify.com/track/6KE32hoeVholHEoGeSoWQ5"
+    },
+    {
+      "album": {
         "name": "Kauhea kankkunen (feat. Stig)",
         "url": "https://open.spotify.com/album/4ib60KOYOCAFwACIkv18t1"
       },
@@ -10989,6 +11117,24 @@
     },
     {
       "album": {
+        "name": "Normij\u00e4b\u00e4",
+        "url": "https://open.spotify.com/album/713iVJyNiCxGSH36slmQzD"
+      },
+      "artists": [
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180476,
+      "name": "Kiltti",
+      "url": "https://open.spotify.com/track/0DpjBYC0Bb3N6nBI9A9OG6"
+    },
+    {
+      "album": {
         "name": "Kiltti",
         "url": "https://open.spotify.com/album/7gAmYNSzTbndLpkLLNOXjv"
       },
@@ -11000,7 +11146,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 180476,
       "name": "Kiltti",
       "url": "https://open.spotify.com/track/5GXKlga0uXsWWS9lsqtJWu"
@@ -14884,7 +15030,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 200711,
       "name": "Min\u00e4-Min\u00e4-Maa",
       "url": "https://open.spotify.com/track/5doe9RHjy2PP6yFzt1CFyo"
@@ -15074,6 +15220,24 @@
       "duration_ms": 168880,
       "name": "Mit\u00e4 jos t\u00e4\u00e4 loppuu (feat. Pihlaja)",
       "url": "https://open.spotify.com/track/5jXqJbVVwReHShXFPekZ92"
+    },
+    {
+      "album": {
+        "name": "Mit\u00e4 kuuluu",
+        "url": "https://open.spotify.com/album/4Vo66lxhfS3kNQq6SmllzT"
+      },
+      "artists": [
+        {
+          "name": "Tupe.",
+          "url": "https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174378,
+      "name": "Mit\u00e4 kuuluu",
+      "url": "https://open.spotify.com/track/4VYkacqvngPRCEjF6ghdIw"
     },
     {
       "album": {
@@ -15804,6 +15968,28 @@
       "duration_ms": 182120,
       "name": "Muuri",
       "url": "https://open.spotify.com/track/4snwfFDmLOyilXsRhYPSU6"
+    },
+    {
+      "album": {
+        "name": "muuttolinnut, rantahiekkaa,",
+        "url": "https://open.spotify.com/album/0qzCzz2I6wvQE8gvDVaiX6"
+      },
+      "artists": [
+        {
+          "name": "Paperi T",
+          "url": "https://open.spotify.com/artist/3rOOythoKLiiyXJYh3XIMu"
+        },
+        {
+          "name": "Pariisin Kev\u00e4t",
+          "url": "https://open.spotify.com/artist/2Bj3YsSKo7O5bj3Ku6z1Ny"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145546,
+      "name": "muuttolinnut, rantahiekkaa,",
+      "url": "https://open.spotify.com/track/53oUldz3oD6EywO53Juq8m"
     },
     {
       "album": {
@@ -17328,7 +17514,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 222631,
       "name": "Oo viel\u00e4 sekunnin mun",
       "url": "https://open.spotify.com/track/32yXNG1tmByrOzeXnP5K8W"
@@ -18270,7 +18456,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 174763,
       "name": "Pisamat",
       "url": "https://open.spotify.com/track/3eyfPAFf5Rl8NvIgqTPcSf"
@@ -18342,7 +18528,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 175113,
       "name": "Pohjola",
       "url": "https://open.spotify.com/track/6YFcvJlcgQceRfJrVpmJa0"
@@ -19003,6 +19189,24 @@
     },
     {
       "album": {
+        "name": "Rakkaus tappaa",
+        "url": "https://open.spotify.com/album/5844Mz2ZkOnCpLMoojOG9d"
+      },
+      "artists": [
+        {
+          "name": "Anna Puu",
+          "url": "https://open.spotify.com/artist/4gl9wpGYA4o15ykU2FBnd3"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210620,
+      "name": "Rakkaus tappaa",
+      "url": "https://open.spotify.com/track/1v0MVxPYvBYLsS6rQnV9nq"
+    },
+    {
+      "album": {
         "name": "Rakkautta ja piikkilankaa",
         "url": "https://open.spotify.com/album/1HH7tTIIlzu4JqmzPov9U5"
       },
@@ -19188,7 +19392,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 247426,
       "name": "Reiviluola",
       "url": "https://open.spotify.com/track/1RCQAeceDgtbD7WVLWr05S"
@@ -24941,6 +25145,24 @@
     },
     {
       "album": {
+        "name": "Viimeinen kes\u00e4 sinkkuna",
+        "url": "https://open.spotify.com/album/3OsTGWiaI2KBFuBD86mOp2"
+      },
+      "artists": [
+        {
+          "name": "Aleksanteri Hakaniemi",
+          "url": "https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151984,
+      "name": "Viimeinen kes\u00e4 sinkkuna",
+      "url": "https://open.spotify.com/track/3AbRVVJdRuJ9a857wD8ouu"
+    },
+    {
+      "album": {
         "name": "Viimeinen romantikko",
         "url": "https://open.spotify.com/album/7IosFLQa3Pp4HM0NEQkr5b"
       },
@@ -25887,6 +26109,28 @@
     },
     {
       "album": {
+        "name": "Normij\u00e4b\u00e4",
+        "url": "https://open.spotify.com/album/713iVJyNiCxGSH36slmQzD"
+      },
+      "artists": [
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        },
+        {
+          "name": "Madboiali",
+          "url": "https://open.spotify.com/artist/62cLJcsS4nppVmLCqIHAFU"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "XO (feat. Madboiali)",
+      "url": "https://open.spotify.com/track/1VR6Sq6M2H5DC36tHFwLxr"
+    },
+    {
+      "album": {
         "name": "Hiljainen p\u00f6yt\u00e4 l\u00e4helt\u00e4 orkesteria",
         "url": "https://open.spotify.com/album/0d2yzaknr0AWomNyHyEszQ"
       },
@@ -25960,10 +26204,32 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 182211,
       "name": "Yksinkertasta (feat. Costi)",
       "url": "https://open.spotify.com/track/3Ksvxtooh9DzGfWv64bYkp"
+    },
+    {
+      "album": {
+        "name": "Normij\u00e4b\u00e4",
+        "url": "https://open.spotify.com/album/713iVJyNiCxGSH36slmQzD"
+      },
+      "artists": [
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        },
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182211,
+      "name": "Yksinkertasta (feat. Costi)",
+      "url": "https://open.spotify.com/track/6uKLnIwPSiVQrZpuHa3zbf"
     },
     {
       "album": {

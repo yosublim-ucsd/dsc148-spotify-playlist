@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > ¡Bienvenida Generación RADAR 2023! Los Aptos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,211 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,261 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 14 | [Un Tabaco \(En Vivo\)](https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W) | [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Un Tabaco \(En Vivo\)](https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p) | 3:27 |
 | 15 | [Alegre y Positivo](https://open.spotify.com/track/4TFkCeHW7vZO6fI2Dvn97S) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Alegre y Positivo](https://open.spotify.com/album/6334KAMxGu0Xz1QPIn1MkX) | 3:28 |
 | 16 | [Por las Mañanas \- En Vivo](https://open.spotify.com/track/1mC0IjF8C77C819QVzPNQf) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT) | 3:08 |
-| 17 | [Te Perdonaría](https://open.spotify.com/track/59GiiVw3zIjLjxKsw8qYef) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Te Perdonaría](https://open.spotify.com/album/07RKZoRaIAU01NpC5LnJXD) | 2:43 |
+| 17 | [La Invitación](https://open.spotify.com/track/6qUmkshVvCcBeonBiS4Vdz) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Invitación](https://open.spotify.com/album/1twSxas0ZmG2bUfxEdskZK) | 3:13 |
 | 18 | [Mi Mera Mera](https://open.spotify.com/track/4nH9bxbUTQ85u4q2RFMYjm) | [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb), [Kvinz](https://open.spotify.com/artist/19ALJ3xMGruS0w9Qc4Lvtp) | [Mi Mera Mera](https://open.spotify.com/album/5L1ELLhiSGunmxfjVGIpL2) | 3:03 |
-| 19 | [La Invitación](https://open.spotify.com/track/6qUmkshVvCcBeonBiS4Vdz) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Invitación](https://open.spotify.com/album/1twSxas0ZmG2bUfxEdskZK) | 3:13 |
+| 19 | [Te Perdonaría](https://open.spotify.com/track/59GiiVw3zIjLjxKsw8qYef) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Te Perdonaría](https://open.spotify.com/album/07RKZoRaIAU01NpC5LnJXD) | 2:43 |
 | 20 | [Tirando Flow Sesh \#9](https://open.spotify.com/track/1eIr2ASXWFEgjhQQflPZTe) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [Tirando Flow Sesh \#9](https://open.spotify.com/album/2zB3LXzrfi3FoNI4kPLgtO) | 3:07 |
 | 21 | [Hagamos Un Trato](https://open.spotify.com/track/6y2zrNzlN74UqOZQUEh5JM) | [Los Avila](https://open.spotify.com/artist/0A0oFtNpb7CV86uWlxjnQo) | [Hagamos Un Trato](https://open.spotify.com/album/5PQ5c2DLGNVc2gXzGgzvWo) | 3:47 |
 | 22 | [Vuelve A La Vida](https://open.spotify.com/track/7GChCDazj9bSNjOkhogO3A) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Vuelve A La Vida](https://open.spotify.com/album/79YLn4zdldzXfk0xIQUQVJ) | 3:22 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 34 | [Andando Entre la Lumbre](https://open.spotify.com/track/10K6wm5vE2cvZ5NsuVvEgZ) | [Alejandro Buelna](https://open.spotify.com/artist/5CLkLBa8amfsdvs6b1R7Cv) | [Andando Entre la Lumbre](https://open.spotify.com/album/4ddTT1v8j9aY0Y0o59XA0J) | 3:03 |
 | 35 | [Los Infieles](https://open.spotify.com/track/0YSwh7R5uI5Xzb5TYPiGuO) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Los Infieles](https://open.spotify.com/album/3mzCxXpsscupK6Ffx9tWWI) | 3:03 |
 | 36 | [Como Intento](https://open.spotify.com/track/1zpfNm2TIcA5mqiONzXyaf) | [Los K\-Bros](https://open.spotify.com/artist/6t0pW5dxdrPbrqnCK4sQ2f) | [Como Intento](https://open.spotify.com/album/1ZTJ3I8M7jANe5qBYCU5Ee) | 2:43 |
-| 37 | [Fuerza De Voluntad](https://open.spotify.com/track/2O75oyAguhcpgpDkP5k0Wm) | [Misael Gutiérrez](https://open.spotify.com/artist/4TAlMkVgr4FK7INJXQLzfS) | [Fuerza De Voluntad](https://open.spotify.com/album/59x39WBJbbolx68Dt9Di27) | 2:43 |
-| 38 | [Pa Que Te Digo Que No](https://open.spotify.com/track/1hL93q6dMCiJGLYePtSQhy) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Raro](https://open.spotify.com/album/7o1jM9UhLVkYGcuO6UXAsJ) | 2:54 |
-| 39 | [Paso A Pasito](https://open.spotify.com/track/098EZ7cByfKymuAiMKtOmR) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 2:43 |
+| 37 | [Pa Que Te Digo Que No](https://open.spotify.com/track/1hL93q6dMCiJGLYePtSQhy) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Raro](https://open.spotify.com/album/7o1jM9UhLVkYGcuO6UXAsJ) | 2:54 |
+| 38 | [Paso A Pasito](https://open.spotify.com/track/098EZ7cByfKymuAiMKtOmR) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 2:43 |
+| 39 | [Fuerza De Voluntad](https://open.spotify.com/track/2O75oyAguhcpgpDkP5k0Wm) | [Misael Gutiérrez](https://open.spotify.com/artist/4TAlMkVgr4FK7INJXQLzfS) | [Fuerza De Voluntad](https://open.spotify.com/album/59x39WBJbbolx68Dt9Di27) | 2:43 |
 | 40 | [Bonita](https://open.spotify.com/track/7khVfafgV6p2dnJYOXN1S7) | [Retoños Del Rio](https://open.spotify.com/artist/0b4F6xrKsPCHTXEl4j03LF) | [Bonita](https://open.spotify.com/album/6R2qa9DVZYEgs7fRwWYgAx) | 3:02 |
 | 41 | [No Quiero Llorar](https://open.spotify.com/track/3wNfYe0jVuk14kY028HzK1) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [No Quiero Llorar](https://open.spotify.com/album/3PgJ2wWIEOTu7smbdou1La) | 3:12 |
 | 42 | [¿Y que pensabas?](https://open.spotify.com/track/3ZDhzlwp5xjRM3KQRKKCMh) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3) | [ASÍ ME ENAMORÉ](https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 49 | [Pa' Que Sepas](https://open.spotify.com/track/1zv4GLkzu9aC1LxANPVABR) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Pa' Que Sepas](https://open.spotify.com/album/2v1MC1AaDxXvSg0yU5DKg1) | 2:51 |
 | 50 | [Te Has Convertido](https://open.spotify.com/track/2n5nRP7fcX88f9kkrQJU46) | [Los K\-Bros](https://open.spotify.com/artist/6t0pW5dxdrPbrqnCK4sQ2f) | [Te Has Convertido](https://open.spotify.com/album/7tcYacZtqg7FB1NX0gS1pq) | 3:25 |
 
-Snapshot ID: `MTY4MjExMzQwNywwMDAwMDAwMGNhNTU2NGViNzQ3MTk4OGI5ZmQzNzg4Y2FhODk5ODlj`
+Snapshot ID: `MTY4MjExMzQwNywwMDAwMDAwMGRmODU4YmQ3NTg3MGVmNDI2NDRiZjgzMzI4YjRjZjAx`

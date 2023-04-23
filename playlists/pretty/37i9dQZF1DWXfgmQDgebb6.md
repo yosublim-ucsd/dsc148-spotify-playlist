@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 
 ### [Hipster K' Pack](https://open.spotify.com/playlist/37i9dQZF1DWXfgmQDgebb6)
 
-> Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: jclef\)
+> Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Yoon Jiyoung\(윤지영\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,639 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,646 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 43 | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2) | 3:37 |
 | 44 | [Fond](https://open.spotify.com/track/7lVbB0vEwm4eQiafyktZ1y) | [Marrakech](https://open.spotify.com/artist/396uBOizN3Vw2K2FmSlU2B) | [Circulation](https://open.spotify.com/album/7hnL3txw0rfEFY78IYh0by) | 3:46 |
 | 45 | [Gimme Love](https://open.spotify.com/track/6v59lnIteygPc2wwfjWTPz) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Gimme Love](https://open.spotify.com/album/5f9zyi5u2hzHMh9RAtssnl) | 3:32 |
-| 46 | [Fantasy](https://open.spotify.com/track/1FUPXTw0698wKHMBElun5B) | [BAYLEE](https://open.spotify.com/artist/5VloOcSvEYe32tZhAZkgfc) | [Fantasy](https://open.spotify.com/album/6QlBmmJZzTUhfTFmRQ8bUS) | 2:48 |
-| 47 | [Melody](https://open.spotify.com/track/05gYK3Q5t0VHs9kK7sPTcW) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Melody](https://open.spotify.com/album/3esIkkntCgiFEfYmgKgTBR) | 4:13 |
-| 48 | [GO! \(feat\. Eelittlee\)](https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Eelittlee](https://open.spotify.com/artist/0wrqnbFtOGgYllDGFr8JPA) | [SPACE MULAN](https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9) | 3:17 |
-| 49 | [Watch Out \(Feat\. sokodomo\)](https://open.spotify.com/track/3su6mx1HnRd2DqoZF9JhoD) | [Vapo](https://open.spotify.com/artist/0GWeXscpEEsdOf9NqX0O0t), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ) | [X](https://open.spotify.com/album/3y8hoaCZeVeVlXzkz8l9O0) | 2:44 |
-| 50 | [Royal Blue](https://open.spotify.com/track/7yvSOgDR61vayE6KjtsLWt) | [250](https://open.spotify.com/artist/0ePKWgwmESq5970Hq1c3yE) | [PPONG](https://open.spotify.com/album/6A5LaZtfa7OvC3lDZFg5k4) | 4:37 |
+| 46 | [too bad](https://open.spotify.com/track/1Jrvrr5kFl3ssC8Gm3h39N) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:45 |
+| 47 | [Fantasy](https://open.spotify.com/track/1FUPXTw0698wKHMBElun5B) | [BAYLEE](https://open.spotify.com/artist/5VloOcSvEYe32tZhAZkgfc) | [Fantasy](https://open.spotify.com/album/6QlBmmJZzTUhfTFmRQ8bUS) | 2:48 |
+| 48 | [Melody](https://open.spotify.com/track/05gYK3Q5t0VHs9kK7sPTcW) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Melody](https://open.spotify.com/album/3esIkkntCgiFEfYmgKgTBR) | 4:13 |
+| 49 | [GO! \(feat\. Eelittlee\)](https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Eelittlee](https://open.spotify.com/artist/0wrqnbFtOGgYllDGFr8JPA) | [SPACE MULAN](https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9) | 3:17 |
+| 50 | [Watch Out \(Feat\. sokodomo\)](https://open.spotify.com/track/3su6mx1HnRd2DqoZF9JhoD) | [Vapo](https://open.spotify.com/artist/0GWeXscpEEsdOf9NqX0O0t), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ) | [X](https://open.spotify.com/album/3y8hoaCZeVeVlXzkz8l9O0) | 2:44 |
 
-Snapshot ID: `MTY4MjA1OTc5MCwwMDAwMDAwMGNhNmRjYjdhYTE4MTFmNGI0NzVkYTY2ODRiZTdmOWI5`
+Snapshot ID: `MTY4MjE3MjcyNywwMDAwMDAwMDhiZGZhYjcyZGY3Y2UxYTQ1ZmI2ODZlMTQ0ZjEzMmI0`

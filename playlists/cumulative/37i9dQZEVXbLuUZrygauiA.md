@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-1,012 songs - 2 day 7 hr 22 min
+1,013 songs - 2 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -533,6 +533,7 @@
 | [Me Hace Tanto Bien](https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Me Hace Tanto Bien](https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV) | 3:51 | 2022-08-02 | 2022-09-17 |
 | [Me Levanté](https://open.spotify.com/track/5dQVCKjXLD4GdnWnrTswJO) | [Dave Bolaño](https://open.spotify.com/artist/6kfMprr3qI5Bg2JNSGU7l7) | [Me Levanté](https://open.spotify.com/album/6hngQrAYEBb5CNfxfmDlUt) | 3:07 | 2022-06-28 | 2022-09-18 |
 | [Me Porto Bonito](https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:58 | 2022-05-31 | 2022-09-02 |
+| [Me Vas a Echar de Menos](https://open.spotify.com/track/1ZzSTURCWH0Xax2i69ooSE) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Promesas](https://open.spotify.com/album/4LTQxogrlOZjB2VdWigHXC) | 2:55 | 2023-04-22 |  |
 | [Melancólicos Anónimos](https://open.spotify.com/track/1s4jVre4ZgBm3sVJP1NTrl) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:19 | 2022-02-15 | 2022-02-26 |
 | [Memories](https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Memories](https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd) | 4:08 | 2022-05-10 | 2022-05-28 |
 | [Menthol](https://open.spotify.com/track/2TiaktqJAtI0CsTL9NfyAS) | [Los Audio Kimikos](https://open.spotify.com/artist/4jS4FtPkA8eOSeXKlRz2dl), [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc), [Myztiko](https://open.spotify.com/artist/2aZII4u5vhdDD2aCKvPfnU) | [Menthol](https://open.spotify.com/album/4J0cGevPAxdyPGSYrcSt09) | 2:57 | 2022-10-17 | 2022-10-19 |
@@ -678,7 +679,7 @@
 | [Phonky Tribu](https://open.spotify.com/track/0uo7p6JtXF7U8x0ktN0Vty) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/2We9hFPWAKxXBmKqSDHXOK) | 4:46 | 2022-09-19 | 2022-10-12 |
 | [Phonky Tribu](https://open.spotify.com/track/4wz2VahIi49SPomvyT75nA) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/0FmLggi6nTAi3eY0xz8aFx) | 4:46 | 2022-10-11 | 2022-10-30 |
 | [Pico y Pala](https://open.spotify.com/track/1AWefrQG0I0OtvatTB01EZ) | [Munic HB](https://open.spotify.com/artist/28oQ6vi1R2m9mdSBnsAkUQ) | [Pico y Pala](https://open.spotify.com/album/2W3jyJZSprQ0fxlOpEGH7H) | 2:54 | 2022-10-25 | 2022-11-02 |
-| [Pieces](https://open.spotify.com/track/5H95n43z0KFcXGCEc0ewe1) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Pieces](https://open.spotify.com/album/3UuTomNtncKiqwsZeakbPj) | 3:16 | 2023-04-16 |  |
+| [Pieces](https://open.spotify.com/track/5H95n43z0KFcXGCEc0ewe1) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Pieces](https://open.spotify.com/album/3UuTomNtncKiqwsZeakbPj) | 3:16 | 2023-04-16 | 2023-04-23 |
 | [Piensa en Mi](https://open.spotify.com/track/4Y0C95WSGxcuNVCbealJvw) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Piensa en Mi](https://open.spotify.com/album/1YC7xdhB97jSwGkHllnBsn) | 3:12 | 2023-02-07 | 2023-02-15 |
 | [Pin Pon El Chakalon](https://open.spotify.com/track/43TrpYCcD2Ds9ohVdgSAbq) | [Smi\-Lee](https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA), [Profeta Yao Yao](https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb), [DJ Yelkrab](https://open.spotify.com/artist/0milslSIsAqYn2xHggVtB5), [Aguila DS](https://open.spotify.com/artist/4tRMFw64H6uS3M5czNnRNv), [Dj Bryan Kingz](https://open.spotify.com/artist/7AGxtfqyUNkefJ3aUJ8Qoz), [Alberto Producer](https://open.spotify.com/artist/7sheOE7xmHLpWtqVa4NO93) | [Pin Pon El Chakalon](https://open.spotify.com/album/4RaZwMk9lYDBfr4KVH9mHD) | 3:24 | 2022-11-27 | 2022-11-29 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-09-14 | 2022-09-18 |
@@ -751,7 +752,7 @@
 | [Riri](https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:14 | 2023-02-21 | 2023-04-05 |
 | [Riri](https://open.spotify.com/track/2DPaMYROSbnrY7dQUDyJSs) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 2:14 | 2022-08-29 | 2022-09-03 |
 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 | 2022-10-24 | 2022-10-27 |
-| [RITMADINHA DANÇANTE](https://open.spotify.com/track/4sVrOA0sytAzv102tnQmr7) | [DJ GUDOG](https://open.spotify.com/artist/2tqbdiza6tmlpAtKUZwhnE) | [RITMADINHA DANÇANTE](https://open.spotify.com/album/0QHgS2V9X2lZfMoi09Hsdu) | 2:05 | 2023-04-11 | 2023-04-16 |
+| [RITMADINHA DANÇANTE](https://open.spotify.com/track/4sVrOA0sytAzv102tnQmr7) | [DJ GUDOG](https://open.spotify.com/artist/2tqbdiza6tmlpAtKUZwhnE) | [RITMADINHA DANÇANTE](https://open.spotify.com/album/0QHgS2V9X2lZfMoi09Hsdu) | 2:05 | 2023-04-11 |  |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-08 | 2022-11-25 |
 | [Rosa Pastel](https://open.spotify.com/track/6Z0ybnsUBhbZ9ZjPW64eoF) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Gran Disco Mini Precio \- Dulce Beat](https://open.spotify.com/album/3eFmEZkrFFPAhEX0xpTSir) | 3:05 | 2023-03-25 | 2023-04-05 |
 | [Rover](https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Rover \- The 3rd Mini Album](https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U) | 2:54 | 2023-04-04 | 2023-04-19 |
@@ -958,7 +959,7 @@
 | [VVS](https://open.spotify.com/track/4JZ8IStL5OpkyzYKV0fMKg) | [glocklord](https://open.spotify.com/artist/2Xxw1YaKucgUXQ9vVr5au9) | [VVS](https://open.spotify.com/album/3fSxAwJqvmGvGkiEME4hLj) | 2:43 | 2023-04-14 | 2023-04-22 |
 | [VVS](https://open.spotify.com/track/0wUA5VlwL9L25IPRy48LL9) | [glocklord](https://open.spotify.com/artist/2Xxw1YaKucgUXQ9vVr5au9) | [VVS](https://open.spotify.com/album/2cZv2QPIn6czgM3jwYahRv) | 2:43 | 2023-04-11 | 2023-04-15 |
 | [VVS](https://open.spotify.com/track/27R7kdBNJKygaCBEfAkf8A) | [LMV Music](https://open.spotify.com/artist/6yocMWhp8YtUXVNqmRpApu) | [VVS](https://open.spotify.com/album/5GJnvPRhpXVn97UeSMeWmU) | 2:48 | 2023-04-04 | 2023-04-12 |
-| [Vvs](https://open.spotify.com/track/5OvnUoQTbZxGAucQ3DVK7S) | [Raptrapmusicadetodo](https://open.spotify.com/artist/71Lr7u79R3322Y7tRlr9ML) | [Vvs](https://open.spotify.com/album/1ZeKLaIpLEH16Jz3xCrSg7) | 2:48 | 2023-04-21 |  |
+| [Vvs](https://open.spotify.com/track/5OvnUoQTbZxGAucQ3DVK7S) | [Raptrapmusicadetodo](https://open.spotify.com/artist/71Lr7u79R3322Y7tRlr9ML) | [Vvs](https://open.spotify.com/album/1ZeKLaIpLEH16Jz3xCrSg7) | 2:48 | 2023-04-21 | 2023-04-23 |
 | [WA DA DA](https://open.spotify.com/track/0hQNbQKW2dDATH1ngj4TI6) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/52HBqGcl4FIRwJ3iNYcliA) | 3:03 | 2022-02-08 | 2022-03-02 |
 | [Wait](https://open.spotify.com/track/78q95oBxFrzHHAWsXRogXa) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [They Might've Even Loved Me](https://open.spotify.com/album/4DYlqTiUl96D7ZTXiqn3t1) | 3:34 | 2022-08-09 | 2022-08-14 |
 | [Wannabe](https://open.spotify.com/track/5ACZOGjT6I5He0pDZED56Z) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Wannabe](https://open.spotify.com/album/5VMaKMyX5OTgrmHwvOVJZ1) | 3:37 | 2022-08-19 | 2022-08-31 |

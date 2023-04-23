@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 
 > This is City Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,446 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,462 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 36 | [Yung and Bhad \(feat\. City Girls\)](https://open.spotify.com/track/4vHf3mf0iZgEmkdHyLTSE9) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [15](https://open.spotify.com/album/5I0eRWD0PLOmswFHZhcD12) | 2:50 |
 | 37 | [Tighten Up](https://open.spotify.com/track/32TXfodRWjRIiOVgoWCAZI) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 1:59 |
 | 38 | [4 Da Moment \(feat\. City Girls\)](https://open.spotify.com/track/4ZJvxJYTeA719NrCtKE8gU) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [43VA HEARTLESS](https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f) | 2:22 |
-| 39 | [JT First Day Out](https://open.spotify.com/track/0Otdui0avqjOxuCAzC7Jfc) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [JT First Day Out](https://open.spotify.com/album/4kqU7ojcMMAGEmEuJjfghx) | 3:07 |
-| 40 | [You Tried It](https://open.spotify.com/track/7q8BhxU2ZpUlXqmEy6nKFb) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [You Tried It](https://open.spotify.com/album/5whQ0P8HBzpQHmvKioxbkz) | 2:06 |
+| 39 | [You Tried It](https://open.spotify.com/track/7q8BhxU2ZpUlXqmEy6nKFb) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [You Tried It](https://open.spotify.com/album/5whQ0P8HBzpQHmvKioxbkz) | 2:06 |
+| 40 | [JT First Day Out](https://open.spotify.com/track/0Otdui0avqjOxuCAzC7Jfc) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [JT First Day Out](https://open.spotify.com/album/4kqU7ojcMMAGEmEuJjfghx) | 3:07 |
 | 41 | [She A Winner](https://open.spotify.com/track/11eC6flJ9bu9paEa88ti62) | [Trouble](https://open.spotify.com/artist/0701LAQrkY5Il5vt06uNnC), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Thug Luv](https://open.spotify.com/album/3JgQJpOk0rmxql353Y3j2G) | 3:02 |
 | 42 | [Rap Shit](https://open.spotify.com/track/0m5UGpHzwWRlgky0dmhogh) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:31 |
 | 43 | [Come On \(City Girls, Saweetie feat\. DJ Durel\)](https://open.spotify.com/track/7o3aoh8XuZ6lvn8jQvw6So) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [DJ Durel](https://open.spotify.com/artist/1MHslxKWxauC559dXYEX1C) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 49 | [Whisper \(feat\. City Girls\)](https://open.spotify.com/track/1oHkXeW88HEtFt6P3TvBIt) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Church on Sunday](https://open.spotify.com/album/3Pa7JytWVcEf3Unec8qku8) | 3:17 |
 | 50 | [Surf](https://open.spotify.com/track/5EgSl85L3mZlAQFUt4I4BG) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [AzChike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Cyncerely, C3](https://open.spotify.com/album/6uNuXilVlRxt9ryawO1nCS) | 3:31 |
 
-Snapshot ID: `MjgwMzQ5ODIsMDAwMDAwMDA5YTJlNThjYjE0Y2I2MmI0MTk2ZjkxYTMzZDcwMmYzYw==`
+Snapshot ID: `MjgwMzYwOTcsMDAwMDAwMDBlYmQ5ZDI4ZGVmMzNmYTYwMWIzNzE1MmY3OTZhODU5MQ==`

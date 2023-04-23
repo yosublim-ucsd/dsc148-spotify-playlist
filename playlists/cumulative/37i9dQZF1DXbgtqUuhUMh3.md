@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Oumaima Taleb
 
-433 songs - 1 day 1 hr 17 min
+434 songs - 1 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Hadouta](https://open.spotify.com/track/5thHVbvP2rjqp6OjEj7vYh) | [Maritta Hallani](https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP) | [Hadouta](https://open.spotify.com/album/2kGYSWJdmsp0yN5hvCcEgK) | 2:19 | 2023-04-20 |  |
 | [Hadrat El Walhan](https://open.spotify.com/track/0NFYjeH5IavHNEqJkciJR6) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Hadrat El Walhan](https://open.spotify.com/album/4KlOIXdhTKjuExCP6bTn6m) | 4:05 | 2022-11-15 | 2023-04-11 |
 | [Haga Naasany](https://open.spotify.com/track/7tkZdE2LLr0Fj9a01pDoLE) | [Gohary](https://open.spotify.com/artist/0YGskdvcglrOoyXsGbixRn) | [Haga Naasany](https://open.spotify.com/album/0Aq7E0AuGJDU9d5CHnkURs) | 4:12 | 2022-11-19 | 2023-04-11 |
-| [Haja Ma Doum](https://open.spotify.com/track/3vLf49XKLyz3wFJ5Sktlpw) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2) | [Kingdom](https://open.spotify.com/album/0DcQg5HubaTSsobHuirf9f) | 3:32 | 2023-04-10 |  |
+| [Haja Ma Doum](https://open.spotify.com/track/3vLf49XKLyz3wFJ5Sktlpw) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2) | [Kingdom](https://open.spotify.com/album/0DcQg5HubaTSsobHuirf9f) | 3:32 | 2023-04-10 | 2023-04-23 |
 | [Haja Ma Doum](https://open.spotify.com/track/5mLY8dRJv0jLTTJCJmDu1l) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2) | [Kingdom](https://open.spotify.com/album/3bAluFVvSuKNmPkmaR6xhd) | 3:32 | 2022-08-11 | 2022-11-12 |
 | [Hala Taraa](https://open.spotify.com/track/6GX6qOGlZEXmUYkGyoTkMb) | [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [Hala Taraa](https://open.spotify.com/album/7q1RxHFLDWNJ6hpUKbkie4) | 3:31 | 2021-12-23 | 2022-02-28 |
 | [Halo](https://open.spotify.com/track/0mQUJSauS5hrMJuoTGqmGe) | [Neveen Ragab](https://open.spotify.com/artist/2Jm92HVUNKUHiVytpozUvT) | [Halo](https://open.spotify.com/album/3GgcE4HqgTP4IDaNJ08z1j) | 3:43 | 2023-03-23 |  |
@@ -215,6 +215,7 @@
 | [Loyal](https://open.spotify.com/track/4UKFE7R5Xl5wtAsXq9n35E) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [Loyal](https://open.spotify.com/album/1EGbExfjdiOylnF5pI0Bwj) | 3:14 | 2021-12-23 | 2022-03-02 |
 | [Lw](https://open.spotify.com/track/21pRBYqcpAHzzyrSrX2HCb) | [Samar Tarik](https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Lw](https://open.spotify.com/album/1zHi1zlyhdrFkM00DoDNVL) | 3:21 | 2023-04-10 |  |
 | [M3ak](https://open.spotify.com/track/5Pc2niaIuuC8GZxTyqzNLN) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [M3ak](https://open.spotify.com/album/2Y0yjFy8XXyTozEhX9qCmM) | 3:47 | 2023-04-10 |  |
+| [Ma A7lak](https://open.spotify.com/track/2v3jkteY4K6X3zqvij2aI3) | [May Abd El Aziz](https://open.spotify.com/artist/390rlknQEfIDTkwe87Fl7j), [Dalia Farid](https://open.spotify.com/artist/2wXTaB5Y0W3bn7h2ATpc3p) | [Ma A7lak](https://open.spotify.com/album/2dsx8wJMoIeh8TNObnyYrC) | 3:44 | 2023-04-20 |  |
 | [Ma Atanazil](https://open.spotify.com/track/6hRDeaV2tPMJAA3HQn7Uj1) | [Ghazal](https://open.spotify.com/artist/6MxJn5JiIGuAlX9NkdGpha) | [Ma Atanazil](https://open.spotify.com/album/4JALsyUVAmTa72NQTAPTOe) | 3:06 | 2021-12-23 | 2022-03-02 |
 | [Ma Bakhaf](https://open.spotify.com/track/2N6MGx1CRx78o9LG7pAjdS) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Hodoudy El Sama](https://open.spotify.com/album/6KQqCpl7h42T79RHGUk2sd) | 4:13 | 2022-03-01 | 2022-11-14 |
 | [Ma vie en rose](https://open.spotify.com/track/715kOmrDKM2vM0szYl2Ba4) | [Manel Hadli](https://open.spotify.com/artist/0ufVFLvhVnwyqlGvXbAYkQ) | [Ma vie en rose](https://open.spotify.com/album/3F67qcdbqrbnefD0aFt7sa) | 4:32 | 2021-12-23 | 2022-03-01 |

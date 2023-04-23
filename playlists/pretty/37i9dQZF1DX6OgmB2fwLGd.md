@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: BLP KOSHER
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,346,768 likes - 100 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,347,114 likes - 100 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 79 | [Tally \(with Denzel Curry\)](https://open.spotify.com/track/6FGrBYBdIAS2asaP54AnZo) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Tally \(with Denzel Curry\)](https://open.spotify.com/album/4zGtu3hNTfIqxyNOAQwkLq) | 2:27 |
 | 80 | [HIMBO](https://open.spotify.com/track/6p3E1pfSwR1UPK8s4OVQOD) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [HIMBO/GOD'S LONELY MAN](https://open.spotify.com/album/2rHMPRzjudUluNghHTKsLq) | 1:53 |
 | 81 | [Trapping & Finessing \(LOVE Song\)](https://open.spotify.com/track/6TSwiqJJ7alc1rHHetz4Eb) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Trapping & Finessing](https://open.spotify.com/album/3Z0aq4NH3sfrAMURV9pv41) | 2:28 |
-| 82 | [NEED](https://open.spotify.com/track/1QdRSAlZRjPuoZ9Hd8YTQp) | [Laylia](https://open.spotify.com/artist/58GEe1kDLCyFbTFGvOiJdy) | [NEED](https://open.spotify.com/album/3LxtiqscRn3D9H48SgaZae) | 2:38 |
+| 82 | [Need](https://open.spotify.com/track/4s8fQKAfuHR9gMDzoA9ioQ) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [Need](https://open.spotify.com/album/5zcHTgSTVHfrF4JJOh1Gnh) | 2:37 |
 | 83 | [GNARLY! \(WITH ARMANI WHITE\)](https://open.spotify.com/track/19wJJ7XPv1IQ6tWZ6LktGu) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [GNARLY! \(WITH ARMANI WHITE\)](https://open.spotify.com/album/47OW0oO4aSghC0y0ivflp5) | 2:27 |
 | 84 | [Sky](https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 3:13 |
 | 85 | [GOATED\. \(feat\. Denzel Curry\)](https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [GOATED.](https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [Perc & Sex](https://open.spotify.com/track/4a14AFVG1iMsLJnT4wj5Up) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU) | [Coochie Goat](https://open.spotify.com/album/7blLvL09OOJcEZJXNKuFQr) | 2:34 |
 | 100 | [Number One Candidate](https://open.spotify.com/track/3qk2QJ5JR6IO2LBMqkOnx7) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [Just A Matter Of Time](https://open.spotify.com/album/4SI5eZJ5UYpS1057wiqlXv) | 2:45 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDI5NTZiOGY0ODkyYTg0NDA3MmFhMmY2YzQ2ZDQ1MjZj`
+Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMGU2MjE2NzI2NDFlOTlkMjZiODc4NDJlNzFiYWY5YWQ3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:  <a href="https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9?si=GfxlfFB8QF\-zvacXwbVGrQ"> Kirani Ayat </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,566 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,581 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

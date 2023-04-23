@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-157 songs - 11 hr 3 min
+158 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [It Hurts Me Too](https://open.spotify.com/track/7tPJRpGrQow5dUO1xJijy0) | [Jeremy Spencer](https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk) | [Precious Little](https://open.spotify.com/album/2B4SeINqci6ufKTo3XNoCN) | 4:49 | 2022-10-03 |  |
 | [Last Forever](https://open.spotify.com/track/3ETWwN2Fa8ihTN2LKpryV2) | [Shanice Green](https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb) | [Last Forever](https://open.spotify.com/album/6x1MGYK2DX76UNJPfBh59J) | 3:46 | 2022-05-25 |  |
 | [Let Me Down Easy](https://open.spotify.com/track/6X65vgFzYriCjpVWjm8J2w) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Let Me Down Easy](https://open.spotify.com/album/05yGqviixZlZrmRiLyz563) | 2:52 | 2022-05-25 | 2023-04-11 |
+| [London Bridge](https://open.spotify.com/track/1qjQcAWTxlglnGID55ZggL) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [London Bridge](https://open.spotify.com/album/3xPsEsaCmA1EFrl8TmGtPQ) | 5:27 | 2023-04-21 |  |
 | [Lonely Fool](https://open.spotify.com/track/0CcySM3v6xGWPdqkYFPZWZ) | [John Lyons](https://open.spotify.com/artist/7n0U6JSH12Ekv3XM5fADc2) | [John Lyons Band](https://open.spotify.com/album/2wpLg9E3kJhep1R6mL8Yxh) | 7:18 | 2022-10-03 |  |
 | [Love At First Sight](https://open.spotify.com/track/0I6iVnbnSri9baOqnjIeHQ) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Love At First Sight](https://open.spotify.com/album/17mDEDwEP1Stx3Rf1BxuDF) | 3:28 | 2022-05-25 |  |
 | [Loving Arms \- \(radio edit\), Masterlink Sessions](https://open.spotify.com/track/1UtIIbGsCEuduj8ghzhIKG) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk), [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [Loving Arms \- \(Radio Edit\), Masterlink Sessions](https://open.spotify.com/album/1BaPCN6TG322ANCUq7C2RB) | 5:26 | 2022-10-03 |  |
@@ -120,7 +121,7 @@
 | [Oh Frustration](https://open.spotify.com/track/1syOr9ak9ckiuzdENFViux) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Oh Frustration](https://open.spotify.com/album/4bSQ3ONJO8TPrjFMjMmDJu) | 3:46 | 2022-10-03 | 2023-03-05 |
 | [One Room Country Shack](https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 | 2022-05-25 |  |
 | [Other Side of Goodbye](https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Other Side of Goodbye](https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ) | 2:34 | 2022-05-25 |  |
-| [Picture In A Frame](https://open.spotify.com/track/1KnlgvH9CaSTZt6tpcjivh) | [Rebecca Haviland and Whiskey Heart](https://open.spotify.com/artist/0qGNklhh1ZQijQdXDgk1tz) | [Picture In A Frame](https://open.spotify.com/album/0A0eP6PRENVryNshAfaWPc) | 4:17 | 2023-03-16 |  |
+| [Picture In A Frame](https://open.spotify.com/track/1KnlgvH9CaSTZt6tpcjivh) | [Rebecca Haviland and Whiskey Heart](https://open.spotify.com/artist/0qGNklhh1ZQijQdXDgk1tz) | [Picture In A Frame](https://open.spotify.com/album/0A0eP6PRENVryNshAfaWPc) | 4:17 | 2023-03-16 | 2023-04-23 |
 | [Pulling Down The Ride](https://open.spotify.com/track/1rFeL11BESHiNemWysu9eE) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [The Studio Albums 2009 – 2018](https://open.spotify.com/album/7hhxms8KCwlQCWffIJpN9b) | 2:40 | 2022-10-03 | 2023-01-13 |
 | [Pulling Down The Ride](https://open.spotify.com/track/2bZNey5v7dHTruDyAAgxVg) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [The Studio Albums 2009 – 2018](https://open.spotify.com/album/7wa5uPSOSbDkqmv5oUS92V) | 2:40 | 2022-09-07 | 2022-09-21 |
 | [Pulling Down The Ride](https://open.spotify.com/track/7JOMqLn74IaT8TkETwBTwS) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [The Studio Albums 2009 – 2018](https://open.spotify.com/album/2ydEbiuezhkdsJwa3l7L19) | 2:40 | 2022-09-23 | 2022-10-09 |

@@ -4,7 +4,7 @@
 
 > Enchanting vibes, to help you find a relaxing moment of wellness.
 
-89 songs - 5 hr 41 min
+90 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Spiritual Mindfulness](https://open.spotify.com/track/4S4igfG2j922w8hrDWRHvj) | [Namaste Healing Yoga](https://open.spotify.com/artist/30u03dHVwT6ByMPQYs7e2P) | [Journey to Arabia: Namaste Yoga \- Middle Eastern Meditation, Oriental Relaxation, Deep Spiritual Music](https://open.spotify.com/album/4pGkIMQ2xwUJvnOmYyBr5j) | 3:54 | 2022-09-06 | 2023-03-09 |
 | [Still Waves \(432hz\)](https://open.spotify.com/track/6qlL9nfU00kj1bPr99uryF) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Still Waves \(432hz\)](https://open.spotify.com/album/0FmfRdFZX0sdEsU5VOtA1i) | 3:52 | 2022-09-06 |  |
 | [Stress Relief](https://open.spotify.com/track/5fF2vOX7ujJVBFLGRko9yv) | [Cafe Tantra Chill](https://open.spotify.com/artist/72vLOUKSCa5df8OyEqJ4VY) | [Arabic Relaxation & Spa \(Best Arabian Instrumental Sounds, Relax, Ethnic Nights with Saz, Duduk & Flute\)](https://open.spotify.com/album/5RpuWZrVphDGU0ycATwchl) | 3:20 | 2022-09-06 | 2023-01-06 |
-| [Tabla Breath](https://open.spotify.com/track/3cjOt90cB7acl5BAjkIwJ1) | [Benjy Wertheimer](https://open.spotify.com/artist/2Y4VeDUhZAE8UfGXqZJ7dX), [John De Kadt](https://open.spotify.com/artist/3rd5aojNBopxBjaZdoLOrb) | [One River](https://open.spotify.com/album/67gLMrueyFRoD48NwVZ4qk) | 5:26 | 2022-09-06 |  |
+| [Tabla Breath](https://open.spotify.com/track/1xCGBNquEBWEYeliECZqki) | [Benjy Wertheimer](https://open.spotify.com/artist/2Y4VeDUhZAE8UfGXqZJ7dX), [John De Kadt](https://open.spotify.com/artist/3rd5aojNBopxBjaZdoLOrb) | [One River](https://open.spotify.com/album/1HbGyonYWkmb31ShzOSW6g) | 5:26 | 2023-03-13 |  |
+| [Tabla Breath](https://open.spotify.com/track/3cjOt90cB7acl5BAjkIwJ1) | [Benjy Wertheimer](https://open.spotify.com/artist/2Y4VeDUhZAE8UfGXqZJ7dX), [John De Kadt](https://open.spotify.com/artist/3rd5aojNBopxBjaZdoLOrb) | [One River](https://open.spotify.com/album/67gLMrueyFRoD48NwVZ4qk) | 5:26 | 2022-09-06 | 2023-04-23 |
 | [The Fallen Tapang](https://open.spotify.com/track/6C4TKUSrJgs7uVXOjPeBis) | [Anak Borneo 婆羅洲之子](https://open.spotify.com/artist/0CVpClWXwT0efLt0ibRVSB) | [The Fallen Tapang](https://open.spotify.com/album/5GgwKQEkwCDBWKT1zP2W5q) | 4:03 | 2022-09-06 |  |
 | [The Force & Heka](https://open.spotify.com/track/1j0y3A8zteJBD7HHxjbMgi) | [Desert Oasis Ensemble](https://open.spotify.com/artist/6uYXTp8nqbTh2KxABcLLSB) | [Ancient Mystical Egypt](https://open.spotify.com/album/1zzBtsnLZEWq1JMZT3Th5B) | 2:31 | 2022-09-06 |  |
 | [The Holy Lotus](https://open.spotify.com/track/4hAmtYjh0KOUbZg2zj5NsJ) | [Ali Jihad Racy](https://open.spotify.com/artist/3XNjqJKnHq6XYlQhn37aEz) | [Ancient Egypt](https://open.spotify.com/album/1zyhnXlg9bBP4hgKV6RBZG) | 3:38 | 2022-09-06 |  |

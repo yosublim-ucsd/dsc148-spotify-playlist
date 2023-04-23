@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 226819,
+  "num_followers": 226870,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjkyMCwwMDAwMDAwMDRjMDNmOGUwNjFmM2M5YTJlZWQxNmNhNTExMjkyMTU3",
+  "snapshot_id": "MTY3MTE2NjkyMCwwMDAwMDAwMDVlY2RmOWM0NjUzODhmMzk4ZDcyYWFkMDg5YjAxYWZk",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -471,6 +471,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Searching For",
+        "url": "https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf"
+      },
+      "artists": [
+        {
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+        }
+      ],
+      "duration_ms": 255118,
+      "name": "Searching For",
+      "url": "https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Nothing To Buy",
         "url": "https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 267106,
       "name": "Nothing To Buy",
       "url": "https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Searching For",
-        "url": "https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf"
-      },
-      "artists": [
-        {
-          "name": "ISLY",
-          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
-        }
-      ],
-      "duration_ms": 255118,
-      "name": "Searching For",
-      "url": "https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u"
+      },
+      "artists": [
+        {
+          "name": "Dara Maclean",
+          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
+        }
+      ],
+      "duration_ms": 252520,
+      "name": "Love Over Religion",
+      "url": "https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Need You",
         "url": "https://open.spotify.com/album/4sE3LUKKl1Gy8BBS1AOVsD"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 209230,
       "name": "Need You",
       "url": "https://open.spotify.com/track/7mNhPcVlfiwviMs1vFJqvq"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u"
-      },
-      "artists": [
-        {
-          "name": "Dara Maclean",
-          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
-        }
-      ],
-      "duration_ms": 252520,
-      "name": "Love Over Religion",
-      "url": "https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Rooftops",
+        "url": "https://open.spotify.com/album/0E5sGFa3NnW5Jj2iIkDwqq"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Rooftops",
+      "url": "https://open.spotify.com/track/3Kx67wg68HCdDLWGeKepL8"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "HOPE OR NOSTALGIA LIVE",
         "url": "https://open.spotify.com/album/03mLh8NKcmNYxPW4mjIBz0"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 223636,
       "name": "Every Morning",
       "url": "https://open.spotify.com/track/17P6kojDstdaw65xDCOARU"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Rooftops",
-        "url": "https://open.spotify.com/album/0E5sGFa3NnW5Jj2iIkDwqq"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Rooftops",
-      "url": "https://open.spotify.com/track/3Kx67wg68HCdDLWGeKepL8"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "OLDER",
-        "url": "https://open.spotify.com/album/1dLlSnoQk8tec7Tyubd7u7"
-      },
-      "artists": [
-        {
-          "name": "Alexander Pappas",
-          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
-        }
-      ],
-      "duration_ms": 202386,
-      "name": "OLDER",
-      "url": "https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/0WP1SzAIHrXKAaNbCG8fYV"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 249495,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/23VrO89DkfhYigoLPvEnm7"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "OLDER",
+        "url": "https://open.spotify.com/album/1dLlSnoQk8tec7Tyubd7u7"
+      },
+      "artists": [
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        }
+      ],
+      "duration_ms": 202386,
+      "name": "OLDER",
+      "url": "https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Angels vs Demons",
-        "url": "https://open.spotify.com/album/3sYjKGdSYoghebq89K5XlL"
-      },
-      "artists": [
-        {
-          "name": "Nathan Wagner",
-          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Angels vs Demons - Piano Version",
-      "url": "https://open.spotify.com/track/71Ax2oi6fIzusCsdwyGZhE"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/7xrtDbxo1Clr7M5YIDqJXw"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 192933,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/1XzmSmJvC8vVNTT40BRyP6"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Angels vs Demons",
+        "url": "https://open.spotify.com/album/3sYjKGdSYoghebq89K5XlL"
+      },
+      "artists": [
+        {
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Angels vs Demons - Piano Version",
+      "url": "https://open.spotify.com/track/71Ax2oi6fIzusCsdwyGZhE"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Start Again",
-        "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
-      },
-      "artists": [
-        {
-          "name": "James Paek",
-          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
-        }
-      ],
-      "duration_ms": 230284,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Breathe Again",
         "url": "https://open.spotify.com/album/3ztacUh2slm1151Ago3Mjz"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 222108,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/40AxtoP3dD1nHvToCUXGEz"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
+      },
+      "artists": [
+        {
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+        }
+      ],
+      "duration_ms": 230284,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Coming Clean",
-        "url": "https://open.spotify.com/album/0caMEZCVkxxyhcmYLlxt31"
-      },
-      "artists": [
-        {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
-        }
-      ],
-      "duration_ms": 183066,
-      "name": "Coming Clean",
-      "url": "https://open.spotify.com/track/3k9ULygUi36i85Nr0jw6aR"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "War Going On",
         "url": "https://open.spotify.com/album/0qxSyQTMLkMIktzp62IZaJ"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 262000,
       "name": "War Going On",
       "url": "https://open.spotify.com/track/6cIBuZ98m0KM51HOx18AcB"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Coming Clean",
+        "url": "https://open.spotify.com/album/0caMEZCVkxxyhcmYLlxt31"
+      },
+      "artists": [
+        {
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Coming Clean",
+      "url": "https://open.spotify.com/track/3k9ULygUi36i85Nr0jw6aR"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "How Much More",
-        "url": "https://open.spotify.com/album/7G9ga238zS7VNk2YCmlJET"
-      },
-      "artists": [
-        {
-          "name": "Nick Herbert",
-          "url": "https://open.spotify.com/artist/2d1xKAOMjV142Pf9cEmYeS"
-        }
-      ],
-      "duration_ms": 212343,
-      "name": "How Much More",
-      "url": "https://open.spotify.com/track/38XxzQ32b6xfJmilIxTNHC"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Praise",
         "url": "https://open.spotify.com/album/1w5KYaGwCBN3w6lYo8JFqY"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 232703,
       "name": "Here We Are",
       "url": "https://open.spotify.com/track/0OP39BJAaQ2129up8OxmWO"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "How Much More",
+        "url": "https://open.spotify.com/album/7G9ga238zS7VNk2YCmlJET"
+      },
+      "artists": [
+        {
+          "name": "Nick Herbert",
+          "url": "https://open.spotify.com/artist/2d1xKAOMjV142Pf9cEmYeS"
+        }
+      ],
+      "duration_ms": 212343,
+      "name": "How Much More",
+      "url": "https://open.spotify.com/track/38XxzQ32b6xfJmilIxTNHC"
     },
     {
       "added_at": "2022-12-16 05:02:00",

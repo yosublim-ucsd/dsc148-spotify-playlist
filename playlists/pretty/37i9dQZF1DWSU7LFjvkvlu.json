@@ -1,12 +1,12 @@
 {
   "description": "Throwbacks for that emo kid in all of us. Cover: Paramore ",
-  "num_followers": 153167,
+  "num_followers": 153338,
   "original_name": "Emo Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjk5NzI2OSwwMDAwMDAwMDM1Y2E3NTYzYzE0YTE3MjVlMWJjZDk2NGM4M2JiMGYy",
+  "snapshot_id": "MTY2Mjk5NzI2OSwwMDAwMDAwMDA0NDQ5NzEyYjg1YjAwYWI0ZDVkODJlNWFjYTE0ZGU2",
   "tracks": [
     {
       "added_at": "2022-09-12 15:41:09",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-09-12 15:41:09",
       "album": {
-        "name": "Leaving Through The Window",
-        "url": "https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix"
-      },
-      "artists": [
-        {
-          "name": "Something Corporate",
-          "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "Punk Rock Princess",
-      "url": "https://open.spotify.com/track/07oVZP9Er2Fz8S59ePWLyK"
-    },
-    {
-      "added_at": "2022-09-12 15:41:09",
-      "album": {
         "name": "American Idiot - The Original Broadway Cast Recording",
         "url": "https://open.spotify.com/album/1wO2srr9om17YtEvouoBue"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 262386,
       "name": "Boulevard of Broken Dreams (feat. John Gallagher Jr., Rebecca Naomi Jones, Stark Sands, The American Idiot Broadway Company)",
       "url": "https://open.spotify.com/track/41pFyxOpS119Pb8JEzhx0w"
+    },
+    {
+      "added_at": "2022-09-12 15:41:09",
+      "album": {
+        "name": "Leaving Through The Window",
+        "url": "https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix"
+      },
+      "artists": [
+        {
+          "name": "Something Corporate",
+          "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Punk Rock Princess",
+      "url": "https://open.spotify.com/track/07oVZP9Er2Fz8S59ePWLyK"
     },
     {
       "added_at": "2022-09-12 15:41:09",

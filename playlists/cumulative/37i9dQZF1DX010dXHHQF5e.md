@@ -4,7 +4,7 @@
 
 > Deja que estas sutiles piezas de jazz te arrullen hasta el sueño.
 
-204 songs - 11 hr 17 min
+205 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Out Of Nowhere](https://open.spotify.com/track/6CPmUmMMXvGombRcl8p5Iw) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Out Of Nowhere](https://open.spotify.com/album/0cu8JtZHQDqNPT0zmnDh2w) | 2:39 | 2023-03-23 |  |
 | [Out of place](https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 3:31 | 2023-03-23 |  |
 | [P.S\. I Love You](https://open.spotify.com/track/2pmeZ067WnFhjPc6zZS3xy) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [P.S\. I Love You](https://open.spotify.com/album/3s81XUnnsE4TlY5zGJ0KBH) | 3:16 | 2023-03-23 |  |
-| [Pennies From Heaven](https://open.spotify.com/track/5FZ1EwzovpSlbfPK2eynR0) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [Pennies From Heaven](https://open.spotify.com/album/75bRjjsmOtXqoSHeziafj0) | 4:29 | 2023-03-23 |  |
+| [Pennies From Heaven](https://open.spotify.com/track/5FZ1EwzovpSlbfPK2eynR0) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [Pennies From Heaven](https://open.spotify.com/album/75bRjjsmOtXqoSHeziafj0) | 4:29 | 2023-03-23 | 2023-04-23 |
 | [Piece Peace](https://open.spotify.com/track/4q7cOAjvYHUTQGBf1RRuNE) | [Sean Eastman](https://open.spotify.com/artist/4SMptkAtq8f31ziDjPuint) | [Piece Peace](https://open.spotify.com/album/3OMxn6aJ8hZhqecNYE9nkV) | 2:48 | 2023-03-23 |  |
 | [prelude to a kiss](https://open.spotify.com/track/4ulfmGNJizIr9ct2kj5bVE) | [Greg Paterson](https://open.spotify.com/artist/5MAX4Nf5YdknFZPqZ7ucVt) | [prelude to a kiss](https://open.spotify.com/album/218dJkcubcykiRq5fUVovq) | 4:21 | 2023-03-23 |  |
 | [Raindrops Keep Fallin' on My Head](https://open.spotify.com/track/5moutRXGRI4DnhZ9UKtcnv) | [Playing To Pitch In](https://open.spotify.com/artist/6TRj5grL3SgjzITEJyMOx5), [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [Raindrops Keep Fallin' on My Head](https://open.spotify.com/album/4UO6tHf2JzGt9vUwWmfM5R) | 1:54 | 2023-03-23 |  |
@@ -211,6 +211,7 @@
 | [You Don't Know What Love Is](https://open.spotify.com/track/0QX4Wc3m1WlNxwEQqFmagK) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [You Don't Know What Love Is](https://open.spotify.com/album/3KdujtfsTqGw9eLtUDGnnz) | 3:42 | 2023-03-23 |  |
 | [You Know It's Me](https://open.spotify.com/track/1EzsGVXnTmukpzQ8u8F5gg) | [Tina Wellbeck](https://open.spotify.com/artist/4ijOrgStHlgSpuka4omdoe) | [You Know It's Me](https://open.spotify.com/album/70fqNXNdAYga8XSizrCfbS) | 2:37 | 2023-03-23 |  |
 | [You Stepped Out Of A Dream](https://open.spotify.com/track/2szY5ICdZLvJOeN2iF1Tow) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [You Stepped Out Of A Dream](https://open.spotify.com/album/2BtUNsuQFXudi5fGHFjZbS) | 2:35 | 2023-03-23 |  |
+| [Young and Foolish](https://open.spotify.com/track/0jXDdQhyBxYpN8IdepBwzn) | [Ron de Lauren](https://open.spotify.com/artist/5P9IE3snjc1rSoMKPIjzod) | [Young and Foolish](https://open.spotify.com/album/4QDQ3rOy6os0Xm8BdM2TJ0) | 2:54 | 2023-04-20 |  |
 | [Yours Is My Heart Alone](https://open.spotify.com/track/1fj7I1goPnCIsAF3SxGh61) | [Luca Armone](https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2) | [Yours Is My Heart Alone](https://open.spotify.com/album/5t3Bi41QottgJFkQf5EXr3) | 3:21 | 2023-03-23 |  |
 
 \*This playlist was first scraped on 2023-04-07. Prior content cannot be recovered.

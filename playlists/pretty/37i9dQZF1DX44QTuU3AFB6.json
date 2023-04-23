@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Rolas pa' sacar las chelas y el tequila!",
-  "num_followers": 199006,
+  "num_followers": 199583,
   "original_name": "Puras Pa' Pistear",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA1ODQ0OCwwMDAwMDAwMGU1ZDA4NGQyMzk0NmY1OTIwYTZiOGVmOTIwYjAyOGVm",
+  "snapshot_id": "MTY4MjA1ODQ0OCwwMDAwMDAwMGFhZDg0NDg0OWFlNTEyZWMxODEzNjUzYTMxMjQ1ZDYz",
   "tracks": [
     {
       "added_at": "2023-04-21 06:27:28",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2023-04-21 06:27:28",
       "album": {
-        "name": "Si Me Duele Que Duela",
-        "url": "https://open.spotify.com/album/4ZjtIz7v275wgCGtIuSRiY"
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
       },
       "artists": [
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 171367,
-      "name": "Si Me Duele Que Duela",
-      "url": "https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO"
+      "duration_ms": 203520,
+      "name": "Ya Lo S\u00e9",
+      "url": "https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL"
     },
     {
       "added_at": "2023-04-21 06:27:28",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-04-21 06:27:28",
       "album": {
-        "name": "La Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+        "name": "Si Me Duele Que Duela",
+        "url": "https://open.spotify.com/album/4ZjtIz7v275wgCGtIuSRiY"
       },
       "artists": [
         {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 203520,
-      "name": "Ya Lo S\u00e9",
-      "url": "https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL"
+      "duration_ms": 171367,
+      "name": "Si Me Duele Que Duela",
+      "url": "https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO"
     },
     {
       "added_at": "2023-04-21 06:27:28",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2023-04-21 06:27:28",
       "album": {
-        "name": "Dame Tus Manos",
-        "url": "https://open.spotify.com/album/3VQA1Uq7oua1QDuFZt3ExH"
-      },
-      "artists": [
-        {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
-        }
-      ],
-      "duration_ms": 178114,
-      "name": "Dame Tus Manos",
-      "url": "https://open.spotify.com/track/2y4i3oq7fHK4JxWwtzVIKA"
-    },
-    {
-      "added_at": "2023-04-21 06:27:28",
-      "album": {
         "name": "Especialmente Para Ti",
         "url": "https://open.spotify.com/album/0Z8wgPzDI9UbMjCqmMH4vn"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 196829,
       "name": "El Amor No Se Vende",
       "url": "https://open.spotify.com/track/3V70eHylxLOGIbEj2Fzgbm"
+    },
+    {
+      "added_at": "2023-04-21 06:27:28",
+      "album": {
+        "name": "Dame Tus Manos",
+        "url": "https://open.spotify.com/album/3VQA1Uq7oua1QDuFZt3ExH"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        }
+      ],
+      "duration_ms": 178114,
+      "name": "Dame Tus Manos",
+      "url": "https://open.spotify.com/track/2y4i3oq7fHK4JxWwtzVIKA"
     },
     {
       "added_at": "2023-04-21 06:27:28",
@@ -2547,22 +2547,6 @@
     {
       "added_at": "2023-04-21 06:27:28",
       "album": {
-        "name": "Una P\u00e1gina M\u00e1s",
-        "url": "https://open.spotify.com/album/4OgDDWQjUh9ms7dC4771rN"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 155100,
-      "name": "Una Pagina Mas",
-      "url": "https://open.spotify.com/track/0WPxkmPOzoLoHhDzboJghY"
-    },
-    {
-      "added_at": "2023-04-21 06:27:28",
-      "album": {
         "name": "Corridos Underground",
         "url": "https://open.spotify.com/album/5Wj7VIPBinifu9nvB0HylN"
       },
@@ -2575,6 +2559,22 @@
       "duration_ms": 154464,
       "name": "No Eres Tu, Soy Yo! - Bonus Track",
       "url": "https://open.spotify.com/track/1fqs4VH6AVUk0CnZ6YGmeC"
+    },
+    {
+      "added_at": "2023-04-21 06:27:28",
+      "album": {
+        "name": "Una P\u00e1gina M\u00e1s",
+        "url": "https://open.spotify.com/album/4OgDDWQjUh9ms7dC4771rN"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 155100,
+      "name": "Una Pagina Mas",
+      "url": "https://open.spotify.com/track/0WPxkmPOzoLoHhDzboJghY"
     },
     {
       "added_at": "2023-04-21 06:27:28",

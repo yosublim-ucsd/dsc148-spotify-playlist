@@ -1,12 +1,12 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Ana Sanz",
-  "num_followers": 34661,
+  "num_followers": 34683,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMDIzNWFkMjA2YmZjOWY2NzE5MjIyYzAzNDQ3MTIzZWYx",
+  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMGEyNWQ1MGQzYzhlZmM1NmU1ZDE4ZjVjMTE3MmI0Mjdl",
   "tracks": [
     {
       "added_at": "2023-04-14 03:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "TUYA",
-        "url": "https://open.spotify.com/album/1EHUwCiRmMRNNADQsKuiIB"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 174336,
-      "name": "Tuya",
-      "url": "https://open.spotify.com/track/22mKcpHMIMg2bmeBMnfaz0"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Perro de Playa (2020 Remasterizado)",
         "url": "https://open.spotify.com/album/6y0rD6EpLaAq6tOuMLB51Z"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 186440,
       "name": "Sola en los Bares (2020 Remasterizado)",
       "url": "https://open.spotify.com/track/7HeOiPvLeOgdszASIZGCZX"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "TUYA",
+        "url": "https://open.spotify.com/album/1EHUwCiRmMRNNADQsKuiIB"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 174336,
+      "name": "Tuya",
+      "url": "https://open.spotify.com/track/22mKcpHMIMg2bmeBMnfaz0"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Andrea Echeverri",
-        "url": "https://open.spotify.com/album/2OBA7deE9MjlDF4YFkr8ip"
+        "name": "Igual",
+        "url": "https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ"
       },
       "artists": [
         {
-          "name": "Andrea Echeverri",
-          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+          "name": "Nenagenix",
+          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
         }
       ],
-      "duration_ms": 193000,
-      "name": "Quedate",
-      "url": "https://open.spotify.com/track/2GjwCmMjikAagFxYFITnMF"
+      "duration_ms": 250770,
+      "name": "Igual",
+      "url": "https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -579,34 +579,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Igual",
-        "url": "https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ"
+        "name": "Andrea Echeverri",
+        "url": "https://open.spotify.com/album/2OBA7deE9MjlDF4YFkr8ip"
       },
       "artists": [
         {
-          "name": "Nenagenix",
-          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
         }
       ],
-      "duration_ms": 250770,
-      "name": "Igual",
-      "url": "https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Gabinete De Curiosidades",
-        "url": "https://open.spotify.com/album/4Cj0aEHj3SzgnmjCiUB8VJ"
-      },
-      "artists": [
-        {
-          "name": "Hilda Lizarazu",
-          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
-        }
-      ],
-      "duration_ms": 195758,
-      "name": "Amapola",
-      "url": "https://open.spotify.com/track/07gv03OUOc56ibUYXlh3CQ"
+      "duration_ms": 193000,
+      "name": "Quedate",
+      "url": "https://open.spotify.com/track/2GjwCmMjikAagFxYFITnMF"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -623,6 +607,22 @@
       "duration_ms": 296914,
       "name": "La Batalla",
       "url": "https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Gabinete De Curiosidades",
+        "url": "https://open.spotify.com/album/4Cj0aEHj3SzgnmjCiUB8VJ"
+      },
+      "artists": [
+        {
+          "name": "Hilda Lizarazu",
+          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
+        }
+      ],
+      "duration_ms": 195758,
+      "name": "Amapola",
+      "url": "https://open.spotify.com/track/07gv03OUOc56ibUYXlh3CQ"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Ojos que ladran",
-        "url": "https://open.spotify.com/album/17PNNeot4Mfz7WJOOZP6zT"
+        "name": "Tigre Ulli",
+        "url": "https://open.spotify.com/album/26DNyRdYyLd0PE555D8aqU"
       },
       "artists": [
         {
-          "name": "Paula Maffia",
-          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
         }
       ],
-      "duration_ms": 192984,
-      "name": "Palo de Amansar",
-      "url": "https://open.spotify.com/track/6zAOy652pyJ6NVgH1lQ1h8"
+      "duration_ms": 127600,
+      "name": "Postales Blancas",
+      "url": "https://open.spotify.com/track/39YxebBGVOUcG6PpqbWNhi"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Ojos que ladran",
+        "url": "https://open.spotify.com/album/17PNNeot4Mfz7WJOOZP6zT"
+      },
+      "artists": [
+        {
+          "name": "Paula Maffia",
+          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
+        }
+      ],
+      "duration_ms": 192984,
+      "name": "Palo de Amansar",
+      "url": "https://open.spotify.com/track/6zAOy652pyJ6NVgH1lQ1h8"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Batalla Naval",
         "url": "https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh"
       },
@@ -959,38 +975,6 @@
       "duration_ms": 203186,
       "name": "Batalla Naval",
       "url": "https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Tigre Ulli",
-        "url": "https://open.spotify.com/album/26DNyRdYyLd0PE555D8aqU"
-      },
-      "artists": [
-        {
-          "name": "Tigre Ulli",
-          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
-        }
-      ],
-      "duration_ms": 127600,
-      "name": "Postales Blancas",
-      "url": "https://open.spotify.com/track/39YxebBGVOUcG6PpqbWNhi"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "De Facto",
-        "url": "https://open.spotify.com/album/1hRlJMZZEZNu0ObbyL53k9"
-      },
-      "artists": [
-        {
-          "name": "Lorelle Meets The Obsolete",
-          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
-        }
-      ],
-      "duration_ms": 209106,
-      "name": "L\u00edneas En Hojas",
-      "url": "https://open.spotify.com/track/0aQducLdlpix3u5yL6MfYT"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1011,18 +995,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Ando Buscando",
-        "url": "https://open.spotify.com/album/4dJlWHR1AbIZAH7b0Yt5vE"
+        "name": "De Facto",
+        "url": "https://open.spotify.com/album/1hRlJMZZEZNu0ObbyL53k9"
       },
       "artists": [
         {
-          "name": "Vale Acevedo",
-          "url": "https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ"
+          "name": "Lorelle Meets The Obsolete",
+          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
         }
       ],
-      "duration_ms": 193312,
-      "name": "Ando Buscando",
-      "url": "https://open.spotify.com/track/5wzD3M2YTofQb9gHBvlff3"
+      "duration_ms": 209106,
+      "name": "L\u00edneas En Hojas",
+      "url": "https://open.spotify.com/track/0aQducLdlpix3u5yL6MfYT"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Ando Buscando",
+        "url": "https://open.spotify.com/album/4dJlWHR1AbIZAH7b0Yt5vE"
+      },
+      "artists": [
+        {
+          "name": "Vale Acevedo",
+          "url": "https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ"
+        }
+      ],
+      "duration_ms": 193312,
+      "name": "Ando Buscando",
+      "url": "https://open.spotify.com/track/5wzD3M2YTofQb9gHBvlff3"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Ruta Hotel",
         "url": "https://open.spotify.com/album/5198xcABxOJ3tJicMBwchi"
       },
@@ -1055,22 +1055,6 @@
       "duration_ms": 148997,
       "name": "Nubosidad Variable",
       "url": "https://open.spotify.com/track/2bIkvdwmFGpaskCWbtHgXP"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Polvo",
-        "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
-      },
-      "artists": [
-        {
-          "name": "Paula Maffia",
-          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
-        }
-      ],
-      "duration_ms": 236890,
-      "name": "Polvo",
-      "url": "https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1103,6 +1087,22 @@
       "duration_ms": 248280,
       "name": "La Flecha Envenenada",
       "url": "https://open.spotify.com/track/2ANlv74UURH4GHpOhTHdPI"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Polvo",
+        "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
+      },
+      "artists": [
+        {
+          "name": "Paula Maffia",
+          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
+        }
+      ],
+      "duration_ms": 236890,
+      "name": "Polvo",
+      "url": "https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "bi/MENTAL",
-        "url": "https://open.spotify.com/album/3XuJE4Y50tva93lL4uxfle"
-      },
-      "artists": [
-        {
-          "name": "Le Butcherettes",
-          "url": "https://open.spotify.com/artist/1d7CbKqK4lFpKyU442bZC6"
-        }
-      ],
-      "duration_ms": 220561,
-      "name": "give/UP",
-      "url": "https://open.spotify.com/track/3VjCRe4un6MDLH5Bt1CqLh"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Adentro",
         "url": "https://open.spotify.com/album/1fdUbx7XkVlR5BYuKV5sIv"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 146986,
       "name": "Adentro",
       "url": "https://open.spotify.com/track/44OwKucmVixOi8pTVcWb1j"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "bi/MENTAL",
+        "url": "https://open.spotify.com/album/3XuJE4Y50tva93lL4uxfle"
+      },
+      "artists": [
+        {
+          "name": "Le Butcherettes",
+          "url": "https://open.spotify.com/artist/1d7CbKqK4lFpKyU442bZC6"
+        }
+      ],
+      "duration_ms": 220561,
+      "name": "give/UP",
+      "url": "https://open.spotify.com/track/3VjCRe4un6MDLH5Bt1CqLh"
     },
     {
       "added_at": "2023-04-14 03:00:00",

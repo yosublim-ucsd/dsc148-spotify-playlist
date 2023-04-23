@@ -4,7 +4,7 @@
 
 > A hypnotic journey through melodic techno.
 
-215 songs - 19 hr 33 min
+216 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Last Call](https://open.spotify.com/track/3cyzzLSYKLoaYv1xt2asZJ) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Last Call](https://open.spotify.com/album/0kbgja4YAnLwNeGc8THZ75) | 6:55 | 2023-02-10 | 2023-02-16 |
 | [Last Call](https://open.spotify.com/track/45V4hmjgWU7mD97WoHSLhL) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Last Call](https://open.spotify.com/album/4zZPozFyRWdIFhIBUWCpeR) | 6:55 | 2023-02-10 | 2023-04-10 |
 | [Let's Get It Right \- Innellea Remix](https://open.spotify.com/track/4tKdEEDu9ZGs0IimsZSDKi) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Let's Get It Right \(Innellea Remix\)](https://open.spotify.com/album/7fm1NdtHHLPJK6wAFZLekR) | 5:44 | 2023-04-07 |  |
+| [Level One](https://open.spotify.com/track/3oCfybScespNWsvxK6l48B) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Level One](https://open.spotify.com/album/32nuiBkyfkO2lLAvLgajFz) | 7:50 | 2023-04-21 |  |
 | [Life Moves Fast](https://open.spotify.com/track/2qnLd7v8htk8uHQaoUecLs) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Life Moves Fast](https://open.spotify.com/album/0oNJfZFoypJFKQtOHAvPgW) | 3:53 | 2023-03-24 |  |
 | [Liquid Fantasy \- Edit](https://open.spotify.com/track/6fBTtzHK8itlE1mqgDTLmH) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Vicky Who?](https://open.spotify.com/artist/0fj8NKbvzFH5LxS1h7Yr5I) | [Liquid Fantasy](https://open.spotify.com/album/1qkpQWUWtHprhuiVsGDz9p) | 3:54 | 2023-02-04 | 2023-02-10 |
 | [Lithium](https://open.spotify.com/track/3JULDUED9hQQ94gXnuFl5p) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Amplify](https://open.spotify.com/album/2fnEK9AF3DqYemVCER91js) | 6:38 | 2023-04-07 |  |
@@ -161,7 +162,7 @@
 | [Run & Hide \- Ae:ther Remix](https://open.spotify.com/track/1vPsTGsRfdTRhzUHG7kTLF) | [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn), [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Run & Hide \(Ae:ther Remix\)](https://open.spotify.com/album/1YfMh6jxGPAdTxuRIYESMS) | 7:02 | 2022-12-02 | 2023-02-04 |
 | [Rush \- Miss Monique Remix](https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb) | [Sied Van Riel](https://open.spotify.com/artist/1Cv0KzvQ0KP210KdmQQQUF), [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Rush \(Miss Monique Remix\)](https://open.spotify.com/album/7vF6BoJz2iWApof9NfB1W6) | 4:51 | 2022-11-23 | 2023-03-11 |
 | [Say Love \- Radio Mix](https://open.spotify.com/track/5Wlpy9LzfhRnZgeUcXkUXh) | [Airsand](https://open.spotify.com/artist/4rlSlj2XnxKA05eZ7sLWSC), [TuraniQa](https://open.spotify.com/artist/7kXkMWoPg5UfAc4LQmfI9V) | [Say Love](https://open.spotify.com/album/0ZvWPjOwDxNRAqubn8b1u7) | 4:24 | 2022-12-28 | 2023-01-06 |
-| [Shades Of Night](https://open.spotify.com/track/5S4eQ6DcoKLwbPzSZltt3R) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Shades Of Night](https://open.spotify.com/album/3Q20S7c0JtKWsmAo7m3TSp) | 6:49 | 2023-02-27 |  |
+| [Shades Of Night](https://open.spotify.com/track/5S4eQ6DcoKLwbPzSZltt3R) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Shades Of Night](https://open.spotify.com/album/3Q20S7c0JtKWsmAo7m3TSp) | 6:49 | 2023-02-27 | 2023-04-23 |
 | [Shake This World](https://open.spotify.com/track/2oRrosZu67qZ1g0FvxFVBS) | [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 5:44 | 2022-11-23 | 2023-04-09 |
 | [Shapes in the Spray](https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Shapes in the Spray](https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf) | 7:09 | 2023-03-24 |  |
 | [Shout](https://open.spotify.com/track/2BB24tcKHCZtp14guuVeaJ) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ), [Tigerblind](https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA) | [Shout](https://open.spotify.com/album/00u18CYVfC2LTCaUUoYOfu) | 3:31 | 2022-12-28 | 2023-01-06 |

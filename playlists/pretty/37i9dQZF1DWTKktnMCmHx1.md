@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,686 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,703 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 77 | [PENSAVA](https://open.spotify.com/track/3a2OF3JdIW9VXC9wnbs68X) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [PENSAVA](https://open.spotify.com/album/7tC6dFwgPbCx4oNoNnJfHn) | 2:28 |
 | 78 | [Trafficante](https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Trafficante](https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB) | 2:07 |
 | 79 | [CRAZY LOVE](https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:12 |
-| 80 | [REPEAT IT \(with Gunna\)](https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [REPEAT IT](https://open.spotify.com/album/0hTvuLmKKMWoBWgPPrpUKF) | 3:10 |
+| 80 | [SOLITE PARE \(feat\. thasup & Sfera Ebbasta\)](https://open.spotify.com/track/0PQxC8NHgiKXLK3Zm6QoCj) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [X2](https://open.spotify.com/album/6ZVOpNfX2JMfAFDqEfmyQ5) | 3:31 |
 
-Snapshot ID: `MTY4MTkxMzU4MywwMDAwMDAwMDA0NTgzNDc1NjAxZjk2MTRkM2ZhMDUxNTdiNjE0YTA3`
+Snapshot ID: `MTY4MTkxMzU4MywwMDAwMDAwMGMzNDQzMzVlMmQ2NGYwMmE1MGMyMmFjMTY4MTliNTIw`

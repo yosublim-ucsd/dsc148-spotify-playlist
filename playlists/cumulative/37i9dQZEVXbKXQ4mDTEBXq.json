@@ -1961,6 +1961,24 @@
     },
     {
       "album": {
+        "name": "TATTOO",
+        "url": "https://open.spotify.com/album/3VqutKQybsb2z1IT9CDRUE"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288099,
+      "name": "TATTOO",
+      "url": "https://open.spotify.com/track/36jIu8oPR1Z4cguMuHxUXA"
+    },
+    {
+      "album": {
         "name": "Formula of Love: O+T=<3",
         "url": "https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi"
       },
@@ -3062,7 +3080,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 247666,
       "name": "\u30c1\u30ce\u30ab\u30c6",
       "url": "https://open.spotify.com/track/7HIfg6iQgXkVEUMHAAXW2d"

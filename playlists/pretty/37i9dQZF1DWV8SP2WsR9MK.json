@@ -1,12 +1,12 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 62774,
+  "num_followers": 62860,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTk4MTg2NSwwMDAwMDAwMGNhNzMxMTQ3NmY4N2NkMmM5OTg4MTg1ODc4MWY0MmYx",
+  "snapshot_id": "MTY4MTk4MTg2NSwwMDAwMDAwMDNjYWVmODEyNWNhN2U1OWNhYTI1NmQwMmUxNjE2OGRm",
   "tracks": [
     {
       "added_at": "2023-04-20 09:11:05",
@@ -339,8 +339,8 @@
     {
       "added_at": "2023-04-20 09:11:05",
       "album": {
-        "name": "Boss Guitar",
-        "url": "https://open.spotify.com/album/41Ymau5t3NA04iDRzdv3mR"
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
         }
       ],
-      "duration_ms": 226200,
-      "name": "Days Of Wine And Roses",
-      "url": "https://open.spotify.com/track/1yegDiVa8d94H07ga1SLOt"
+      "duration_ms": 282200,
+      "name": "Polka Dots And Moonbeams",
+      "url": "https://open.spotify.com/track/2M3laSC4qeLl9tWxDEzF4T"
     },
     {
       "added_at": "2023-04-20 09:11:05",
@@ -431,8 +431,8 @@
     {
       "added_at": "2023-04-20 09:11:05",
       "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
+        "name": "Boss Guitar",
+        "url": "https://open.spotify.com/album/41Ymau5t3NA04iDRzdv3mR"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
         }
       ],
-      "duration_ms": 282200,
-      "name": "Polka Dots And Moonbeams",
-      "url": "https://open.spotify.com/track/2M3laSC4qeLl9tWxDEzF4T"
+      "duration_ms": 226200,
+      "name": "Days Of Wine And Roses",
+      "url": "https://open.spotify.com/track/1yegDiVa8d94H07ga1SLOt"
     },
     {
       "added_at": "2023-04-20 09:11:05",
@@ -499,18 +499,22 @@
     {
       "added_at": "2023-04-20 09:11:05",
       "album": {
-        "name": "Standards Trio: Reflections",
-        "url": "https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn"
+        "name": "Alive! (Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000)",
+        "url": "https://open.spotify.com/album/4NL6PN6GkMqI7Ztz4iGPU6"
       },
       "artists": [
         {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        },
+        {
+          "name": "Ray Blair",
+          "url": "https://open.spotify.com/artist/2D3XOzloX98FKjvCa9inP1"
         }
       ],
-      "duration_ms": 195200,
-      "name": "You've Changed",
-      "url": "https://open.spotify.com/track/5iPXzdmW5wxcbWJNw46mOy"
+      "duration_ms": 658333,
+      "name": "Sookie Sookie - Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000",
+      "url": "https://open.spotify.com/track/6i9Uhx8fUHQu9aHXCjiu7B"
     },
     {
       "added_at": "2023-04-20 09:11:05",
@@ -547,22 +551,18 @@
     {
       "added_at": "2023-04-20 09:11:05",
       "album": {
-        "name": "Alive! (Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000)",
-        "url": "https://open.spotify.com/album/4NL6PN6GkMqI7Ztz4iGPU6"
+        "name": "Standards Trio: Reflections",
+        "url": "https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn"
       },
       "artists": [
         {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
-        },
-        {
-          "name": "Ray Blair",
-          "url": "https://open.spotify.com/artist/2D3XOzloX98FKjvCa9inP1"
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
         }
       ],
-      "duration_ms": 658333,
-      "name": "Sookie Sookie - Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000",
-      "url": "https://open.spotify.com/track/6i9Uhx8fUHQu9aHXCjiu7B"
+      "duration_ms": 195200,
+      "name": "You've Changed",
+      "url": "https://open.spotify.com/track/5iPXzdmW5wxcbWJNw46mOy"
     },
     {
       "added_at": "2023-04-20 09:11:05",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-04-20 09:11:05",
       "album": {
-        "name": "Plectrist",
-        "url": "https://open.spotify.com/album/4yXQl7UAIbrszxlYSgEqla"
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/4HpPxBDSrsPQfcM69FME8z"
       },
       "artists": [
         {
-          "name": "Billy Bauer",
-          "url": "https://open.spotify.com/artist/2Stsu7b2rXjs8idU9wjQgf"
+          "name": "Johnny Smith",
+          "url": "https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q"
         }
       ],
-      "duration_ms": 254160,
-      "name": "It's a Blue World",
-      "url": "https://open.spotify.com/track/2CXfxQY057JczwoKonH8dl"
+      "duration_ms": 209053,
+      "name": "My Foolish Heart",
+      "url": "https://open.spotify.com/track/0gqWIxTMmUQPucykcPb6IH"
     },
     {
       "added_at": "2023-04-20 09:11:05",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-04-20 09:11:05",
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/4HpPxBDSrsPQfcM69FME8z"
+        "name": "Plectrist",
+        "url": "https://open.spotify.com/album/4yXQl7UAIbrszxlYSgEqla"
       },
       "artists": [
         {
-          "name": "Johnny Smith",
-          "url": "https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q"
+          "name": "Billy Bauer",
+          "url": "https://open.spotify.com/artist/2Stsu7b2rXjs8idU9wjQgf"
         }
       ],
-      "duration_ms": 209053,
-      "name": "My Foolish Heart",
-      "url": "https://open.spotify.com/track/0gqWIxTMmUQPucykcPb6IH"
+      "duration_ms": 254160,
+      "name": "It's a Blue World",
+      "url": "https://open.spotify.com/track/2CXfxQY057JczwoKonH8dl"
     },
     {
       "added_at": "2023-04-20 09:11:05",
@@ -1039,46 +1039,6 @@
     {
       "added_at": "2023-04-20 09:11:05",
       "album": {
-        "name": "Vital Techtones",
-        "url": "https://open.spotify.com/album/6d7fOKSVvPBoTVIWPJB2Ed"
-      },
-      "artists": [
-        {
-          "name": "Steve Smith",
-          "url": "https://open.spotify.com/artist/7pnpCbCBCIHvkCqrXSib0z"
-        },
-        {
-          "name": "Scott Henderson",
-          "url": "https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn"
-        },
-        {
-          "name": "Victor Wooten",
-          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
-        }
-      ],
-      "duration_ms": 345706,
-      "name": "Giant Steps",
-      "url": "https://open.spotify.com/track/74c8OtmpOrPtwjroiriM54"
-    },
-    {
-      "added_at": "2023-04-20 09:11:05",
-      "album": {
-        "name": "Bill Frisell (with Dave Holland and Elvin Jones)",
-        "url": "https://open.spotify.com/album/5nHaGUyP3XFR9MwebTFESQ"
-      },
-      "artists": [
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 386133,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/7m3MJIwWdNA5xuIuZDfawS"
-    },
-    {
-      "added_at": "2023-04-20 09:11:05",
-      "album": {
         "name": "The Essential Benny Goodman",
         "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
       },
@@ -1099,6 +1059,46 @@
       "duration_ms": 182653,
       "name": "Wholly Cats",
       "url": "https://open.spotify.com/track/4p9naPxsiai1ayHWKvvhCS"
+    },
+    {
+      "added_at": "2023-04-20 09:11:05",
+      "album": {
+        "name": "Bill Frisell (with Dave Holland and Elvin Jones)",
+        "url": "https://open.spotify.com/album/5nHaGUyP3XFR9MwebTFESQ"
+      },
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 386133,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/7m3MJIwWdNA5xuIuZDfawS"
+    },
+    {
+      "added_at": "2023-04-20 09:11:05",
+      "album": {
+        "name": "Vital Techtones",
+        "url": "https://open.spotify.com/album/6d7fOKSVvPBoTVIWPJB2Ed"
+      },
+      "artists": [
+        {
+          "name": "Steve Smith",
+          "url": "https://open.spotify.com/artist/7pnpCbCBCIHvkCqrXSib0z"
+        },
+        {
+          "name": "Scott Henderson",
+          "url": "https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn"
+        },
+        {
+          "name": "Victor Wooten",
+          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
+        }
+      ],
+      "duration_ms": 345706,
+      "name": "Giant Steps",
+      "url": "https://open.spotify.com/track/74c8OtmpOrPtwjroiriM54"
     },
     {
       "added_at": "2023-04-20 09:11:05",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-04-20 09:11:05",
       "album": {
-        "name": "The Artistry Of Tal Farlow",
-        "url": "https://open.spotify.com/album/3DhbpcnuskeHWkCzWAM9cO"
-      },
-      "artists": [
-        {
-          "name": "Tal Farlow",
-          "url": "https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf"
-        }
-      ],
-      "duration_ms": 296613,
-      "name": "Have You Met Miss Jones?",
-      "url": "https://open.spotify.com/track/10iq9kylUDnPeLJikEdCvl"
-    },
-    {
-      "added_at": "2023-04-20 09:11:05",
-      "album": {
         "name": "The Shape Of Things To Come",
         "url": "https://open.spotify.com/album/5104eCHmSmfLDol9ZDQn0B"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 347413,
       "name": "Shape Of Things That Are And Were",
       "url": "https://open.spotify.com/track/62AZ6ukR1dxo5F2sbfFQ1L"
+    },
+    {
+      "added_at": "2023-04-20 09:11:05",
+      "album": {
+        "name": "The Artistry Of Tal Farlow",
+        "url": "https://open.spotify.com/album/3DhbpcnuskeHWkCzWAM9cO"
+      },
+      "artists": [
+        {
+          "name": "Tal Farlow",
+          "url": "https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf"
+        }
+      ],
+      "duration_ms": 296613,
+      "name": "Have You Met Miss Jones?",
+      "url": "https://open.spotify.com/track/10iq9kylUDnPeLJikEdCvl"
     },
     {
       "added_at": "2023-04-20 09:11:05",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-04-20 09:11:05",
       "album": {
+        "name": "Standards (And Other Songs)",
+        "url": "https://open.spotify.com/album/6Az63x71f79GUhcyccTomF"
+      },
+      "artists": [
+        {
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+        }
+      ],
+      "duration_ms": 324026,
+      "name": "Straight No Chaser",
+      "url": "https://open.spotify.com/track/2C6x0Qx9aslzGS5GKLl2nB"
+    },
+    {
+      "added_at": "2023-04-20 09:11:05",
+      "album": {
         "name": "Free Flying",
         "url": "https://open.spotify.com/album/1Qvqde6pj6KPoRnKxdOsvO"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 384413,
       "name": "Monk's Dream",
       "url": "https://open.spotify.com/track/6CeJnR7HphMYbazmHYZEtA"
-    },
-    {
-      "added_at": "2023-04-20 09:11:05",
-      "album": {
-        "name": "Standards (And Other Songs)",
-        "url": "https://open.spotify.com/album/6Az63x71f79GUhcyccTomF"
-      },
-      "artists": [
-        {
-          "name": "Mike Stern",
-          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
-        }
-      ],
-      "duration_ms": 324026,
-      "name": "Straight No Chaser",
-      "url": "https://open.spotify.com/track/2C6x0Qx9aslzGS5GKLl2nB"
     },
     {
       "added_at": "2023-04-20 09:11:05",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2023-04-20 09:11:05",
       "album": {
+        "name": "These Times",
+        "url": "https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR"
+      },
+      "artists": [
+        {
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+        }
+      ],
+      "duration_ms": 397106,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN"
+    },
+    {
+      "added_at": "2023-04-20 09:11:05",
+      "album": {
         "name": "Three for Three",
         "url": "https://open.spotify.com/album/6vnLFHgoaHsM0M1rkVv8O1"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 414466,
       "name": "The Big Push",
       "url": "https://open.spotify.com/track/2mUNdaOnnxat38a7DlpV9l"
-    },
-    {
-      "added_at": "2023-04-20 09:11:05",
-      "album": {
-        "name": "These Times",
-        "url": "https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR"
-      },
-      "artists": [
-        {
-          "name": "Mike Stern",
-          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
-        }
-      ],
-      "duration_ms": 397106,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN"
     },
     {
       "added_at": "2023-04-20 09:11:05",

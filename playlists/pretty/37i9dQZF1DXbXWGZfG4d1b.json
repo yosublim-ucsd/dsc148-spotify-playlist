@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 17534,
+  "num_followers": 17541,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0NjAwMCwwMDAwMDAwMDU0ZGYwYWJhY2FhOGJlNjM3ODAzNjM4OTY2YjllYWM5",
+  "snapshot_id": "MTY4MjA0NjAwMCwwMDAwMDAwMDRjOWVmMDc0Y2IyYTg3Zjk2Yzk4Mzg2NzFlMjg0MDdm",
   "tracks": [
     {
       "added_at": "2023-04-21 03:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Doble de Riesgo",
-        "url": "https://open.spotify.com/album/3AldHEpT3we5tF068rm14O"
-      },
-      "artists": [
-        {
-          "name": "TELESCOPIOS",
-          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
-        }
-      ],
-      "duration_ms": 227979,
-      "name": "Tus Amigos de la Cia",
-      "url": "https://open.spotify.com/track/7HAiG8HPZWEUYy23xi2Hvu"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "TKM",
         "url": "https://open.spotify.com/album/2Qi4p3mBPmfTSyx6bCAEEX"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 154548,
       "name": "TKM",
       "url": "https://open.spotify.com/track/3IojTR6Zm6U9hnToRnW55L"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Doble de Riesgo",
+        "url": "https://open.spotify.com/album/3AldHEpT3we5tF068rm14O"
+      },
+      "artists": [
+        {
+          "name": "TELESCOPIOS",
+          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
+        }
+      ],
+      "duration_ms": 227979,
+      "name": "Tus Amigos de la Cia",
+      "url": "https://open.spotify.com/track/7HAiG8HPZWEUYy23xi2Hvu"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -835,6 +835,26 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Berl\u00edn",
+        "url": "https://open.spotify.com/album/07iIJt6tnM1Yem3hOhdCO4"
+      },
+      "artists": [
+        {
+          "name": "\u00bfJuan Julian?",
+          "url": "https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7"
+        },
+        {
+          "name": "Andyno Plex",
+          "url": "https://open.spotify.com/artist/1v0Gf4vVNpD2tfOruHapzp"
+        }
+      ],
+      "duration_ms": 165590,
+      "name": "Berl\u00edn",
+      "url": "https://open.spotify.com/track/4okVwv68gkZYa27woI6CDY"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "NT al sol",
         "url": "https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 202827,
       "name": "NT al sol",
       "url": "https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "Berl\u00edn",
-        "url": "https://open.spotify.com/album/07iIJt6tnM1Yem3hOhdCO4"
-      },
-      "artists": [
-        {
-          "name": "\u00bfJuan Julian?",
-          "url": "https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7"
-        },
-        {
-          "name": "Andyno Plex",
-          "url": "https://open.spotify.com/artist/1v0Gf4vVNpD2tfOruHapzp"
-        }
-      ],
-      "duration_ms": 165590,
-      "name": "Berl\u00edn",
-      "url": "https://open.spotify.com/track/4okVwv68gkZYa27woI6CDY"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Ultravioleta",
-        "url": "https://open.spotify.com/album/0jkMj6BjWylbc7sFz2sTAO"
-      },
-      "artists": [
-        {
-          "name": "mitimitis",
-          "url": "https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F"
-        },
-        {
-          "name": "Margaritas Podridas",
-          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
-        }
-      ],
-      "duration_ms": 314026,
-      "name": "Ultravioleta",
-      "url": "https://open.spotify.com/track/09YzJAn8N069K6JcQw4caJ"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "El bosque del recuerdo",
         "url": "https://open.spotify.com/album/4sSVCsRnVyx0m5hkBzIy1Q"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 166945,
       "name": "Melodia de extra\u00f1ar",
       "url": "https://open.spotify.com/track/2LLqpGXCDOaCFq6kGxqdD7"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Ultravioleta",
+        "url": "https://open.spotify.com/album/0jkMj6BjWylbc7sFz2sTAO"
+      },
+      "artists": [
+        {
+          "name": "mitimitis",
+          "url": "https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F"
+        },
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "duration_ms": 314026,
+      "name": "Ultravioleta",
+      "url": "https://open.spotify.com/track/09YzJAn8N069K6JcQw4caJ"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Este Debe Ser el Lugar",
+        "url": "https://open.spotify.com/album/7J04keLANxCpdY8yFR1Pws"
+      },
+      "artists": [
+        {
+          "name": "Sim\u00f3n Campusano",
+          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
+        }
+      ],
+      "duration_ms": 166133,
+      "name": "Este Debe Ser el Lugar",
+      "url": "https://open.spotify.com/track/02zes4ye5C5HupP3zrUB99"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "En El Palacio de Las Almas",
         "url": "https://open.spotify.com/album/4XsbM55fQ2RpOriLDQZJtI"
       },
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Este Debe Ser el Lugar",
-        "url": "https://open.spotify.com/album/7J04keLANxCpdY8yFR1Pws"
+        "name": "Tiembla",
+        "url": "https://open.spotify.com/album/2HOuPUISXIU8tqBeqDzMh5"
       },
       "artists": [
         {
-          "name": "Sim\u00f3n Campusano",
-          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
+          "name": "Spaghetti Western",
+          "url": "https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc"
         }
       ],
-      "duration_ms": 166133,
-      "name": "Este Debe Ser el Lugar",
-      "url": "https://open.spotify.com/track/02zes4ye5C5HupP3zrUB99"
+      "duration_ms": 216830,
+      "name": "Tiembla",
+      "url": "https://open.spotify.com/track/0d6sHvxEiHzKWCi7hj4uV4"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1331,22 +1347,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Tiembla",
-        "url": "https://open.spotify.com/album/2HOuPUISXIU8tqBeqDzMh5"
-      },
-      "artists": [
-        {
-          "name": "Spaghetti Western",
-          "url": "https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc"
-        }
-      ],
-      "duration_ms": 216830,
-      "name": "Tiembla",
-      "url": "https://open.spotify.com/track/0d6sHvxEiHzKWCi7hj4uV4"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "gigaaaante",
         "url": "https://open.spotify.com/album/3QCktFDtwLwQ7jWtpPuoUo"
       },
@@ -1359,22 +1359,6 @@
       "duration_ms": 213101,
       "name": "obrador",
       "url": "https://open.spotify.com/track/1fPs0v0bN5kUbj9K8Nr1OD"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "Autorretrato en Blanco - Versi\u00f3n Lofi",
-        "url": "https://open.spotify.com/album/3Y0ga9ccVWjbbcsz4WbShY"
-      },
-      "artists": [
-        {
-          "name": "Los Jardines De Bruselas",
-          "url": "https://open.spotify.com/artist/2F4tyujNuSw8UiWfwujwP8"
-        }
-      ],
-      "duration_ms": 232173,
-      "name": "Autorretrato en Blanco - Versi\u00f3n Lofi",
-      "url": "https://open.spotify.com/track/2hTLilKnyaOeQ2Ost5uGDS"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1411,6 +1395,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Autorretrato en Blanco - Versi\u00f3n Lofi",
+        "url": "https://open.spotify.com/album/3Y0ga9ccVWjbbcsz4WbShY"
+      },
+      "artists": [
+        {
+          "name": "Los Jardines De Bruselas",
+          "url": "https://open.spotify.com/artist/2F4tyujNuSw8UiWfwujwP8"
+        }
+      ],
+      "duration_ms": 232173,
+      "name": "Autorretrato en Blanco - Versi\u00f3n Lofi",
+      "url": "https://open.spotify.com/track/2hTLilKnyaOeQ2Ost5uGDS"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "AMORA",
         "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
       },
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Polvo",
+        "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
+      },
+      "artists": [
+        {
+          "name": "Paula Maffia",
+          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
+        }
+      ],
+      "duration_ms": 236890,
+      "name": "Polvo",
+      "url": "https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "Si No Hubiera Ma\u00f1ana",
         "url": "https://open.spotify.com/album/1WmcAiuPAtwzxCLzSwFXf4"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 228506,
       "name": "Conf\u00edn Dorado",
       "url": "https://open.spotify.com/track/3O8NcxrSDChmIR4RkeFRf3"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "Polvo",
-        "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
-      },
-      "artists": [
-        {
-          "name": "Paula Maffia",
-          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
-        }
-      ],
-      "duration_ms": 236890,
-      "name": "Polvo",
-      "url": "https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "No Es Culpa del Fr\u00edo",
-        "url": "https://open.spotify.com/album/5PTnhTsAXdjQN3ab7LN70b"
-      },
-      "artists": [
-        {
-          "name": "Fonso",
-          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
-        }
-      ],
-      "duration_ms": 225001,
-      "name": "No Es Culpa del Fr\u00edo",
-      "url": "https://open.spotify.com/track/35725mVBQ8DvjTCQ1Z2F9K"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Mensajitos al Amanecer",
         "url": "https://open.spotify.com/album/3545sPfmr4yIeb8yuDNi30"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 240000,
       "name": "Mensajitos al Amanecer",
       "url": "https://open.spotify.com/track/3mSpGG3XJ3gruH18lcwmIO"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "No Es Culpa del Fr\u00edo",
+        "url": "https://open.spotify.com/album/5PTnhTsAXdjQN3ab7LN70b"
+      },
+      "artists": [
+        {
+          "name": "Fonso",
+          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
+        }
+      ],
+      "duration_ms": 225001,
+      "name": "No Es Culpa del Fr\u00edo",
+      "url": "https://open.spotify.com/track/35725mVBQ8DvjTCQ1Z2F9K"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Flama",
-        "url": "https://open.spotify.com/album/4g8Ib0P4gTaHeyFbK8BsCt"
-      },
-      "artists": [
-        {
-          "name": "ASTOR",
-          "url": "https://open.spotify.com/artist/5HOLlBg0CiYtDCkml6ysqC"
-        }
-      ],
-      "duration_ms": 291555,
-      "name": "Flama",
-      "url": "https://open.spotify.com/track/6NpGYnHsT8nN9FIDg0zJfC"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Mandala",
         "url": "https://open.spotify.com/album/70s5AZ6uIkQeuXGuGPHnle"
       },
@@ -1607,54 +1591,6 @@
       "duration_ms": 205557,
       "name": "Mandala",
       "url": "https://open.spotify.com/track/1ZbPfPD5voaTWndeCxuxU5"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "Dentro",
-        "url": "https://open.spotify.com/album/79e018qEM9iN76IwjDbHTy"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Lobo",
-          "url": "https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Dentro",
-      "url": "https://open.spotify.com/track/4597p3R2HZ24bvpussazH9"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "Fuera de Lugar",
-        "url": "https://open.spotify.com/album/7k7pDs1peFehrsg3sVZHKh"
-      },
-      "artists": [
-        {
-          "name": "1915",
-          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
-        }
-      ],
-      "duration_ms": 203892,
-      "name": "Fuera de Lugar",
-      "url": "https://open.spotify.com/track/5GsulKJKdlX0fplKL8xoCY"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "Fantasmas",
-        "url": "https://open.spotify.com/album/7z8TypbmxIssYjPmB1yDsc"
-      },
-      "artists": [
-        {
-          "name": "Los Jardines De Bruselas",
-          "url": "https://open.spotify.com/artist/2F4tyujNuSw8UiWfwujwP8"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Fantasmas",
-      "url": "https://open.spotify.com/track/161UJ1aTjzHXcI1J9sAV7S"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1675,6 +1611,70 @@
       "duration_ms": 236655,
       "name": "Me Siento Que No",
       "url": "https://open.spotify.com/track/715WLRXs9Jrc65K2KH1lNS"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Flama",
+        "url": "https://open.spotify.com/album/4g8Ib0P4gTaHeyFbK8BsCt"
+      },
+      "artists": [
+        {
+          "name": "ASTOR",
+          "url": "https://open.spotify.com/artist/5HOLlBg0CiYtDCkml6ysqC"
+        }
+      ],
+      "duration_ms": 291555,
+      "name": "Flama",
+      "url": "https://open.spotify.com/track/6NpGYnHsT8nN9FIDg0zJfC"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Fuera de Lugar",
+        "url": "https://open.spotify.com/album/7k7pDs1peFehrsg3sVZHKh"
+      },
+      "artists": [
+        {
+          "name": "1915",
+          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
+        }
+      ],
+      "duration_ms": 203892,
+      "name": "Fuera de Lugar",
+      "url": "https://open.spotify.com/track/5GsulKJKdlX0fplKL8xoCY"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Dentro",
+        "url": "https://open.spotify.com/album/79e018qEM9iN76IwjDbHTy"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Lobo",
+          "url": "https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Dentro",
+      "url": "https://open.spotify.com/track/4597p3R2HZ24bvpussazH9"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Fantasmas",
+        "url": "https://open.spotify.com/album/7z8TypbmxIssYjPmB1yDsc"
+      },
+      "artists": [
+        {
+          "name": "Los Jardines De Bruselas",
+          "url": "https://open.spotify.com/artist/2F4tyujNuSw8UiWfwujwP8"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/161UJ1aTjzHXcI1J9sAV7S"
     },
     {
       "added_at": "2023-04-21 03:00:00",

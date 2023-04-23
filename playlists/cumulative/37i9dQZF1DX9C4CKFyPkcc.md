@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-180 songs - 10 hr 38 min
+181 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Angels We Have Heard On High \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/3mORNTAlAguOAiP7Habmo2) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Angels We Have Heard On High \(Recorded At Electric Lady Studios NYC\)](https://open.spotify.com/album/0jYV35MYyEIRXCuZWKK3Mw) | 2:58 | 2021-12-24 |  |
 | [Baby Boy](https://open.spotify.com/track/4sSXzAOEYpSK5o5zFtDrnr) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Baby Boy](https://open.spotify.com/album/28UIg788d1C0Q93xwZRDHP) | 3:50 | 2022-12-11 | 2022-12-27 |
 | [Beautiful Christmas](https://open.spotify.com/track/4HGqkFupdoozBF91E1MRS0) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinite Christmas](https://open.spotify.com/album/3FEZGStis8kVGpnh54NF8h) | 4:25 | 2021-12-24 |  |
-| [Being Home for Christmas](https://open.spotify.com/track/1XAYU9pdry0GU7Z5ga4UM5) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Miracle in a Manger](https://open.spotify.com/album/4lCduOiVpnPIA1CuGn8WgY) | 4:16 | 2021-12-24 |  |
+| [Being Home for Christmas](https://open.spotify.com/track/1XAYU9pdry0GU7Z5ga4UM5) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Miracle in a Manger](https://open.spotify.com/album/4lCduOiVpnPIA1CuGn8WgY) | 4:16 | 2021-12-24 | 2023-04-23 |
 | [Born a King \- Reimagined](https://open.spotify.com/track/34qhtucHZ0VKASva6lFJD8) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [Born a King \(Reimagined\)](https://open.spotify.com/album/2XckCbcJxb6HwFjzah1DlG) | 3:18 | 2022-12-11 |  |
 | [Breath of Heaven \(Mary's Song\)](https://open.spotify.com/track/3nt6KSOlcetP5Asp9mAL2I) | [Menna](https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM) | [Breath of Heaven \(Mary's Song\)](https://open.spotify.com/album/3wugGehkfYGRLeWN1ZFtVw) | 4:55 | 2022-11-26 |  |
 | [Carol of the Bells / Sing We Now of Christmas](https://open.spotify.com/track/7hHVcFvJn0DQXxzl1RTPdB) | [BarlowGirl](https://open.spotify.com/artist/3VMSmJURVM7s6LkrIaPZvi) | [Home for Christmas](https://open.spotify.com/album/60AfMfaRKCmu1EqLIib6Td) | 4:00 | 2021-12-24 |  |
@@ -127,6 +127,7 @@
 | [O Holy Night](https://open.spotify.com/track/0nkezeQsDA5Owpul6PxRSJ) | [Cimorelli](https://open.spotify.com/artist/4988ULVP4X7nco6pLh1PA2) | [O Holy Night](https://open.spotify.com/album/25qGXXBtKj4DeBFg0BUmz8) | 3:43 | 2022-12-11 | 2023-01-10 |
 | [O Holy Night](https://open.spotify.com/track/4Jl0cjYdFu0ybMXuKTrXzQ) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [The Birth Of A King](https://open.spotify.com/album/6omoliEPeOeAjrNOe0Dfdz) | 5:13 | 2021-12-24 |  |
 | [O Holy Night \(feat\. Melvin Crispell III & Mav City Gospel Choir\)](https://open.spotify.com/track/0vuR826xMexFpO8pPJOmc0) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [A Very Maverick Christmas](https://open.spotify.com/album/6Z3lZl48YoYESThd0iKkyQ) | 6:19 | 2021-12-24 |  |
+| [O Holy Night \(feat\. P\-Tempo\) \- Amapiano](https://open.spotify.com/track/5aGam7phUVA2qOXIdUpG9W) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [P\-Tempo](https://open.spotify.com/artist/6XZsA5edNiT1XXJ36ANxd7) | [O Holy Night](https://open.spotify.com/album/0WNoCFIT8mVFyFuhe1iEaL) | 6:09 | 2022-12-11 |  |
 | [O Holy Night \(feat\. The McLendon Family\)](https://open.spotify.com/track/6vhEfu9CT6t8eH2hJNf48l) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [The McLendon Family](https://open.spotify.com/artist/5P8EFlWzOUDzJHmR6QyF1A) | [O Holy Night](https://open.spotify.com/album/5vfXOSlFK6iXixw7PXHIpe) | 5:06 | 2022-12-11 |  |
 | [O Holy Night \(feat\. The Tenors\)](https://open.spotify.com/track/6nN0z2cPwFydCWPjtPaiLe) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [O Holy Night \(feat\. The Tenors\)](https://open.spotify.com/album/0p0zK4648YuGhRYWteoQ3l) | 4:19 | 2021-12-24 |  |
 | [O Holy Night \- Amapiano](https://open.spotify.com/track/2nygE7wq6PU04FZB0x9OGb) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [P\-Tempo](https://open.spotify.com/artist/6XZsA5edNiT1XXJ36ANxd7) | [O Holy Night \(Amapiano\)](https://open.spotify.com/album/1DOZF7MPZV7oIHfRKfOVwi) | 6:09 | 2021-12-24 | 2022-12-19 |

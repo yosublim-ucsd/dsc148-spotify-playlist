@@ -4,7 +4,7 @@
 
 > Uptempo gospel songs from West Africa to get you dancing and praising.
 
-131 songs - 10 hr 52 min
+132 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Grateful](https://open.spotify.com/track/4icYKOgfJLxp44GNWEZqyJ) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Grateful](https://open.spotify.com/album/1g6gpLlBjCGR836cM7o51N) | 3:44 | 2022-06-30 |  |
 | [Great and Mighty God \(Live\)](https://open.spotify.com/track/5YWEXH09aiqtsN9HFmp8Et) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker \(Live\)](https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm) | 3:51 | 2022-06-30 | 2023-04-22 |
 | [Greater](https://open.spotify.com/track/4ga4GTOzcYUyRB51aRsX6J) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Greater](https://open.spotify.com/album/3uq6TjozBhH2dDBbkK88fU) | 6:42 | 2023-03-11 |  |
-| [Green Land](https://open.spotify.com/track/40A974aVBeF7avQm8rvk3D) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Joseph Company](https://open.spotify.com/artist/5E43CXxhV0XWcnzNZEmKj3) | [Greenland](https://open.spotify.com/album/6i0kFsZupElRoGuECviIaK) | 4:18 | 2022-06-30 |  |
+| [Green Land](https://open.spotify.com/track/40A974aVBeF7avQm8rvk3D) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Joseph Company](https://open.spotify.com/artist/5E43CXxhV0XWcnzNZEmKj3) | [Greenland](https://open.spotify.com/album/6i0kFsZupElRoGuECviIaK) | 4:18 | 2022-06-30 | 2023-04-23 |
 | [Hallelu](https://open.spotify.com/track/7kS7kiFLVZ0UZDpFyPusXG) | [Coblaze](https://open.spotify.com/artist/3kkZ1TtjCHg8xBvvfrsZfs) | [Hallelu](https://open.spotify.com/album/1ZFY1mPumRKVFzVBxv3lQM) | 2:36 | 2022-10-21 | 2023-01-20 |
 | [Hallelujah](https://open.spotify.com/track/5jqP4eqHNhIU2IEMy50moc) | [Celebrate Africa](https://open.spotify.com/artist/1DLPgNqNZFWY3n8Vp7Xyh8), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Hallelujah](https://open.spotify.com/album/22Y4oLdS0QPrzMmz8gQE6i) | 3:44 | 2022-09-30 | 2023-04-15 |
 | [Hallow](https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Hallow](https://open.spotify.com/album/1xa5PIPcWSV78KhlT8LZH6) | 2:38 | 2022-06-30 | 2023-01-20 |
@@ -60,6 +60,7 @@
 | [Hossana \(Live\)](https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Hosanna \(Live\)](https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8) | 5:44 | 2022-06-30 |  |
 | [I Get](https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [I Get](https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm) | 3:30 | 2022-06-30 |  |
 | [I Will Sing \(Refreshed\)](https://open.spotify.com/track/76sNlwv6Jt2mTJDAzRfhxj) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [I Will Sing \(Refreshed\)](https://open.spotify.com/album/5MtpR8Yf1nlAwjGgu8gqKD) | 5:50 | 2022-06-30 |  |
+| [Ibaruba](https://open.spotify.com/track/2rl71bVShHi52nyeofNIlM) | [IBK](https://open.spotify.com/artist/2ux4hl4BNE4i7mfHek88W3), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [A New Thing](https://open.spotify.com/album/2Bk4hkRW9uQpFjIeo2qKKE) | 5:07 | 2023-04-14 |  |
 | [Ife Wami](https://open.spotify.com/track/1UECz0x5gEGn8ZqNVWwdFV) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [Ife Wami](https://open.spotify.com/album/0swfSBWaESRDOO8SXGQtjz) | 2:17 | 2022-06-30 |  |
 | [Ifunanya](https://open.spotify.com/track/0iTk4clE5ASPjciDKc9YfR) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Ifunanya](https://open.spotify.com/album/76QHVLQYinJCGAUeQS6d2e) | 3:38 | 2023-02-03 |  |
 | [Jehovah 'Meliwo \- Live](https://open.spotify.com/track/6SCnE9KZ0Ts9Vhn4v1el7r) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [Jehovah 'Meliwo \(Live\)](https://open.spotify.com/album/34tawuuWHPRWc1kjVG2n3u) | 4:59 | 2023-04-11 |  |

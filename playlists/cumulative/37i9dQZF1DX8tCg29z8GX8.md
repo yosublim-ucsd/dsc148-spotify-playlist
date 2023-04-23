@@ -4,7 +4,7 @@
 
 > Beat the traffic blues with these killer tunes.
 
-237 songs - 12 hr 19 min
+238 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Soweto](https://open.spotify.com/track/6RbOyNeajWax51NtpO6WT8) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Outlaw](https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE) | 2:28 | 2022-07-13 | 2022-12-18 |
 | [Stalling](https://open.spotify.com/track/1iSiayhy8ewrs7Bb2g0du4) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Stalling](https://open.spotify.com/album/0IMyl9QsHEcb5B8PQsgEHG) | 3:52 | 2022-06-09 | 2022-09-15 |
 | [Stamina](https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Stamina](https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm) | 2:46 | 2023-03-17 |  |
-| [Stand By You](https://open.spotify.com/track/4uSn4uo2QYTJcENcvVri96) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Stand By You](https://open.spotify.com/album/4xyk3drYz00n2co5h3h2Kc) | 2:55 | 2023-01-27 |  |
+| [Stand By You](https://open.spotify.com/track/4uSn4uo2QYTJcENcvVri96) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Stand By You](https://open.spotify.com/album/4xyk3drYz00n2co5h3h2Kc) | 2:55 | 2023-01-27 | 2023-04-23 |
 | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e) | 3:02 | 2022-06-09 |  |
 | [Sugarcane](https://open.spotify.com/track/7rfguZ7DWKbdB59gwP5V4i) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Sugarcane](https://open.spotify.com/album/2y8kLNrsi23YWGA7uHDXpp) | 2:36 | 2022-06-09 |  |
 | [Sugarcane](https://open.spotify.com/track/2pPh2jjCqiIDjGdwMMsPQ1) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Phantom](https://open.spotify.com/artist/3OTu83w505CLRat7nFoQeV) | [Sugarcane](https://open.spotify.com/album/4TBJjgBalFgE5fqiof8mWh) | 2:36 | 2022-06-09 | 2022-12-25 |
@@ -228,6 +228,7 @@
 | [Tinkerbell \(feat\. Wizkid\)](https://open.spotify.com/track/0tBpxTpcKDamZkjfHqVCEC) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Back 2 Basics](https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB) | 3:03 | 2022-06-09 | 2022-08-26 |
 | [Touch Your Soul \(feat\. Merlyn Wood\)](https://open.spotify.com/track/4PRdVFLaAPWXJvIVwKnLqa) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [Merlyn Wood](https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y) | [Touch Your Soul / Love & Rage](https://open.spotify.com/album/7dDuLnLlmPVTMHx0Quxefj) | 3:09 | 2023-03-30 |  |
 | [Toxic](https://open.spotify.com/track/3sIksJyo81gKpR5GyT1c8m) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Son Of Jacob](https://open.spotify.com/album/2cdAiFntbOi3Yr6nRkDlzC) | 4:01 | 2022-06-09 | 2022-08-30 |
+| [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:07 | 2023-04-20 |  |
 | [Ufunani](https://open.spotify.com/track/5nX638hSv1ytKMxhvTyv0D) | [PureVibe](https://open.spotify.com/artist/2hjHwiL6ln5kCbNy5HvnuE), [Robot Boii](https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp), [M.J](https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P), [DJ Mic Smith](https://open.spotify.com/artist/55vSMtCiV6fMgUMh9TEl6i), [Seven Step](https://open.spotify.com/artist/7huIKPqSXtNttCCgl7EnKb) | [Ufunani](https://open.spotify.com/album/0nd1m6PcjvxVPyKVidTB4s) | 4:34 | 2022-10-13 | 2022-10-22 |
 | [Unpopular Opinion](https://open.spotify.com/track/2VMgrVGZQIomFhkzCpk7aY) | [Bayku](https://open.spotify.com/artist/30Eo3UG8VwGf7b5h60qOlK), [Adina Thembi](https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d) | [Unpopular Opinion](https://open.spotify.com/album/6aGobIl5NY5CGDfxi0Q0jK) | 3:11 | 2022-10-13 | 2022-10-31 |
 | [Want You](https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Want You](https://open.spotify.com/album/7I2CUrd8gtIBHVXXhFbCuX) | 3:25 | 2022-06-09 |  |

@@ -4,7 +4,7 @@
 
 > This is Banda Los Sebastianes\. The essential tracks, all in one playlist.
 
-146 songs - 7 hr 35 min
+147 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Perfectamente Imperfecta](https://open.spotify.com/track/3kqnEIyZNOBigVEANLiEfn) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sin Miedo Al Éxito \(Deluxe\)](https://open.spotify.com/album/06RNnPXzGC23bqQiCDTotI) | 2:15 | 2023-04-04 | 2023-04-16 |
 | [Popurrí: En Vida / A Través Del Vaso / El Carrito \- En Vivo](https://open.spotify.com/track/3XHiXqTuRhiOZwyMoal46M) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Pura Pisteadera En Vivo](https://open.spotify.com/album/53PAMHm0cCCDiDAkwjKVjH) | 7:13 | 2023-04-04 | 2023-04-16 |
 | [Por Eso Celebremos \- En Vivo](https://open.spotify.com/track/4HDJmiDCmBSIOoxLPdHndR) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Pura Pisteadera En Vivo](https://open.spotify.com/album/53PAMHm0cCCDiDAkwjKVjH) | 2:13 | 2023-04-04 | 2023-04-16 |
+| [Por Qué Fuiste Tu](https://open.spotify.com/track/2gimN5m7FClQum2DkzlffY) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [En Vida](https://open.spotify.com/album/7cNRJJ8O9KOvXfljCk96YT) | 2:55 | 2023-04-22 |  |
 | [Por Si No Recuerdas](https://open.spotify.com/track/3E4WabtIxRxKlfxdgMCNhj) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Por Si No Recuerdas](https://open.spotify.com/album/09OFAEd1JZcbvqWcT2Atz4) | 3:14 | 2023-04-15 |  |
 | [Por Si No Recuerdas](https://open.spotify.com/track/6nvk0d8QlR91kecYzPnBhr) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Indeleble](https://open.spotify.com/album/6lhGaMNx6B3wKM0sSLKcc3) | 3:13 | 2022-06-01 | 2023-04-05 |
 | [Prometo](https://open.spotify.com/track/2sml6OCdt6e1UgcWekUJO4) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Prometo](https://open.spotify.com/album/2E3vqnGi7DA7r5DTfIHA5D) | 3:21 | 2023-02-04 | 2023-04-16 |
@@ -122,7 +123,7 @@
 | [Psicólogo Privado](https://open.spotify.com/track/3sitPRFV0GTwnf2X7lZemI) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Banda Music Stars](https://open.spotify.com/album/50oCY62wGsTftPxq2ZvXSX) | 3:18 | 2023-04-16 |  |
 | [Pudo](https://open.spotify.com/track/27OwGODgs27hBiAYviv7eQ) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3YOMUtPC7qeIhBkL3ixyhY) | 3:19 | 2022-06-01 | 2022-06-27 |
 | [Pudo](https://open.spotify.com/track/3nuHSCVuu91GS6neYJqFZt) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Románticas De Corazón \(Banda\)](https://open.spotify.com/album/3bSi9HEYHNDRt0Bv4bDHJm) | 3:19 | 2023-04-15 |  |
-| [Puedo Jurarte](https://open.spotify.com/track/17KOAAIOCVZ1Zkgqp1CyCl) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Banda Old School](https://open.spotify.com/album/0J3lfnoyvzkpntWcmUNG4p) | 3:06 | 2023-04-15 |  |
+| [Puedo Jurarte](https://open.spotify.com/track/17KOAAIOCVZ1Zkgqp1CyCl) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Banda Old School](https://open.spotify.com/album/0J3lfnoyvzkpntWcmUNG4p) | 3:06 | 2023-04-15 | 2023-04-23 |
 | [Que Ruede El Mundo](https://open.spotify.com/track/3n4nkwJ8BPmg0nFvGjMkml) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Que Ruede El Mundo](https://open.spotify.com/album/6jz28qeolAgqMPeZ5Di2xX) | 2:42 | 2022-11-13 | 2023-04-16 |
 | [Quién Te Crees Tú](https://open.spotify.com/track/4gvQFLwgTebzPe0Dch9fqa) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Banda Remix](https://open.spotify.com/album/2BhcXdDff72nQbbFAMhich) | 3:29 | 2023-04-15 |  |
 | [Rayando El Sol](https://open.spotify.com/track/3xFkUmXxESoJFwZGMnNg9u) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Rayando El Sol](https://open.spotify.com/album/76VzECEVvvadmwUh5w8yYS) | 3:24 | 2022-06-01 | 2022-10-13 |

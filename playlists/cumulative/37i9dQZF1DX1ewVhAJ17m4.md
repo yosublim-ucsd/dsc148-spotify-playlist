@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: Against The Current
 
-274 songs - 13 hr 26 min
+275 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [Headstone](https://open.spotify.com/track/5xAx7QIRoW87IOcZuiy1He) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [Headstone](https://open.spotify.com/album/2WzbLXv2rPrFcmnxtraFib) | 3:25 | 2021-12-20 | 2022-06-15 |
 | [Heartbreak Feels So Good](https://open.spotify.com/track/0Rw35DKIumkbbMC7XPOn5r) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Heartbreak Feels So Good](https://open.spotify.com/album/5GwtecGz0FCy9onGWtrVRS) | 3:37 | 2023-01-27 |  |
 | [Heartbreak Of The Century](https://open.spotify.com/track/6X39BP7h0IGcDFnf0PHHOb) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Heartbreak Of The Century](https://open.spotify.com/album/4wqFmxdd5bYFH8XRmfRkAJ) | 3:49 | 2023-02-17 |  |
-| [HEAVYWEIGHT](https://open.spotify.com/track/6bAx3WfHbtY4LjuS7tdCPK) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [HEAVYWEIGHT](https://open.spotify.com/album/5c3oE6tatGA1ZeLDA4IIa9) | 2:49 | 2022-11-10 |  |
+| [HEAVYWEIGHT](https://open.spotify.com/track/5ekvOvSlUxUgDTitlGzWbe) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [HEAVYWEIGHT](https://open.spotify.com/album/5S8GPfqEGX6wYZ5ElDiOFY) | 2:49 | 2023-03-31 |  |
+| [HEAVYWEIGHT](https://open.spotify.com/track/6bAx3WfHbtY4LjuS7tdCPK) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [HEAVYWEIGHT](https://open.spotify.com/album/5c3oE6tatGA1ZeLDA4IIa9) | 2:49 | 2022-11-10 | 2023-04-23 |
 | [Hey Ben](https://open.spotify.com/track/4E3BK77SynwO7hMHp2KvAa) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl), [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Hey Ben](https://open.spotify.com/album/6rnlieOtH8DDSZnBqe1L3M) | 3:20 | 2022-11-10 |  |
 | [Highlight Reel](https://open.spotify.com/track/2Ws0Wb3zbNCjacrn4nHGL7) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Highlight Reel](https://open.spotify.com/album/3qPqqUNcSBocvzi6MXhrtW) | 3:10 | 2023-04-21 |  |
 | [Hold Me in the Moonlight](https://open.spotify.com/track/7spqZfs1HsUWUTVr43Fr0i) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Hold Me in the Moonlight](https://open.spotify.com/album/0vcCGF90qepcm2jmbtCNEi) | 2:50 | 2021-12-20 | 2022-10-14 |

@@ -4,12 +4,12 @@
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave
 
-293 songs - 18 hr 11 min
+294 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Place Called Earth \- Live From The Ryman Auditorium](https://open.spotify.com/track/7p1y6v1NV6JOHFBWTKKjFo) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Roll Tape: Live From Melody League Studios](https://open.spotify.com/album/6hOD3u3fpmG6wxfFOsikwC) | 4:07 | 2022-02-25 | 2022-04-23 |
-| [a thousand shores](https://open.spotify.com/track/34D9sGQt8RpdUNEyuoV9Nq) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [a thousand shores](https://open.spotify.com/album/170bHnUXXFundFpqC0eRPT) | 4:15 | 2022-07-08 |  |
+| [a thousand shores](https://open.spotify.com/track/34D9sGQt8RpdUNEyuoV9Nq) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [a thousand shores](https://open.spotify.com/album/170bHnUXXFundFpqC0eRPT) | 4:15 | 2022-07-08 | 2023-04-23 |
 | [Ain't No Grave](https://open.spotify.com/track/2YGALkTVMM2Lnp4dcCOUDy) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i), [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t), [Marci Coleman](https://open.spotify.com/artist/1aaF5ghHXxc7ArAYYHEWAs) | [Ain't No Grave](https://open.spotify.com/album/2pIhMmn9JMn3qbfODX7WAb) | 5:07 | 2022-02-25 | 2022-04-23 |
 | [Ain't Nobody \- Radio Version](https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Ain't Nobody](https://open.spotify.com/album/7fhnMJOjUfoIpU10Vrknv2) | 3:33 | 2022-10-01 |  |
 | [All I See](https://open.spotify.com/track/1OIhubEHsc9JJskFkqa1h3) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [One On One](https://open.spotify.com/album/5UGVoX8a8k9bh46FWaVWcr) | 2:58 | 2022-02-25 | 2022-04-29 |
@@ -91,6 +91,7 @@
 | [Good Lord \(feat\. Katy Nichole\)](https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE), [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Good Lord](https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt) | 3:22 | 2022-10-01 | 2023-03-11 |
 | [Good Morning Mercy](https://open.spotify.com/track/65pxpJbOeIc2oXexkr5vfU) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Good Morning Mercy](https://open.spotify.com/album/5F7deqvU0BTbsTIzr8rKnM) | 3:18 | 2022-04-29 | 2022-08-27 |
 | [Good Morning Mercy](https://open.spotify.com/track/0nujijkZ0Msf6eJo1sZ0Mu) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq), [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Good Morning Mercy](https://open.spotify.com/album/7nTRcESGrQ8Qvq9tj6apGc) | 3:10 | 2023-03-10 |  |
+| [Goodbye Ole Me](https://open.spotify.com/track/0INmfgwSQHFbkvTBdlyAgU) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [First Things First](https://open.spotify.com/album/13mul4QzmQg9QyrxTirVsc) | 2:01 | 2023-03-10 |  |
 | [Grace Greater](https://open.spotify.com/track/3r1MrcpE5LtKhNH7mwUEqI) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW) | [Grace Greater](https://open.spotify.com/album/08v702QxIDfuwvpTsXPVWv) | 4:22 | 2022-05-13 | 2022-06-11 |
 | [Grateful](https://open.spotify.com/track/7ICNXE7zp182uWnUE0wZr7) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Grateful](https://open.spotify.com/album/4GT48NVYrNcbtX7f6ce2P4) | 3:12 | 2022-02-25 | 2022-03-21 |
 | [Gratitude](https://open.spotify.com/track/0cXV6AoJBnrnrXK0toJHpB) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW) | 5:37 | 2023-03-10 |  |

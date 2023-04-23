@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Jordan Ward
 
-806 songs - 1 day 19 hr 38 min
+807 songs - 1 day 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [3000 Miles \(Baby Baby\)](https://open.spotify.com/track/3Xsmpypmc2DcxQBbmnnrB5) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [3000 Miles \(Baby Baby\)](https://open.spotify.com/album/6Z65cY2NlkT0q3wCILkHdx) | 2:22 | 2021-03-19 | 2022-05-24 |
 | [4 This Moment](https://open.spotify.com/track/4BfGlDPJrCBzk7gpQkwJUo) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [4 This Moment](https://open.spotify.com/album/6TfPUynI7LH4DgW5mg0IUz) | 2:07 | 2022-08-26 | 2022-09-17 |
 | [4000!](https://open.spotify.com/track/0fq9lmOZ50X2Oo0apdDk62) | [Matt Cleare](https://open.spotify.com/artist/0b8g4LkPm3GWYRqFd938AD) | [4000!](https://open.spotify.com/album/5THAwu7Evl2Tid9Ln4cxCT) | 3:21 | 2023-03-10 | 2023-04-01 |
-| [5 MO' MINUTES](https://open.spotify.com/track/2IqisFTp3FOh9w7BN4d2dF) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [5 MO' MINUTES](https://open.spotify.com/album/5lHWEDIn7EzoD7bRvlpnE5) | 2:41 | 2022-09-30 |  |
+| [5 MO' MINUTES](https://open.spotify.com/track/2IqisFTp3FOh9w7BN4d2dF) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [5 MO' MINUTES](https://open.spotify.com/album/5lHWEDIn7EzoD7bRvlpnE5) | 2:41 | 2022-09-30 | 2023-04-23 |
 | [50/50](https://open.spotify.com/track/0tEtaU2hWPVnqU9FkCs6bu) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [50/50](https://open.spotify.com/album/5w5NsFzVYvg2inlvZpuvYt) | 3:28 | 2022-12-16 | 2023-01-22 |
 | [A Friend](https://open.spotify.com/track/6nlR5KZygfAXcwUH96kONw) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [A Friend](https://open.spotify.com/album/6vJJQBcmrKG3hX5iU8Idaq) | 3:20 | 2022-11-18 | 2023-01-02 |
 | [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/track/28y750mmZ90J6ss2RLQNK7) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/album/4uclvwR2Rro2n4jCm7kR3C) | 3:25 | 2022-05-20 | 2022-07-28 |
@@ -224,6 +224,7 @@
 | [Eternal Sunshine](https://open.spotify.com/track/5FChOu6NfR5w7YLgDmXXnC) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Eternal Sunshine](https://open.spotify.com/album/28BpYRhmt39k7JYAviNf9n) | 4:01 | 2021-05-14 | 2022-07-23 |
 | [Eternal Sunshine \(Fire Pit\)](https://open.spotify.com/track/39AkkoGAl2ILUDU2u9g9En) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Masego](https://open.spotify.com/album/2Og05vfN0U9RcT4mLeOW9S) | 4:16 | 2023-03-03 |  |
 | [Eternity](https://open.spotify.com/track/7jrbOhDHb5bvvcmzEPbRWw) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Eternity](https://open.spotify.com/album/5SXIbnJOOXC2z3gpj3u1U1) | 3:34 | 2022-04-01 | 2022-04-09 |
+| [Everytime the Night Starts Calling](https://open.spotify.com/track/5UY8NELLyxYeziwciKIhJQ) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN), [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Form Follows Function](https://open.spotify.com/album/55Rfi4oaFbYuWbZuQw5Qxr) | 2:40 | 2023-04-14 |  |
 | [exodus the north star](https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [exodus the north star](https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr) | 3:25 | 2023-02-10 | 2023-04-15 |
 | [Exposure](https://open.spotify.com/track/0tHWsBI54oBishkTwMwd9Y) | [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Exposure](https://open.spotify.com/album/1K1Dv8UvUhejxrbAMPCFu7) | 3:44 | 2021-04-02 | 2022-07-27 |
 | [Exscape](https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Exscape](https://open.spotify.com/album/1vSELIji55iJOeDXNHng2b) | 2:22 | 2022-10-28 | 2023-02-18 |
@@ -276,7 +277,7 @@
 | [Ghost in the Machine \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:38 | 2022-12-09 |  |
 | [Ghostin'](https://open.spotify.com/track/02oUEbDQXcVITlLQKMPN1F) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa) | [Ghostin'](https://open.spotify.com/album/3YojHVyjYoxUShLLzi5KOd) | 3:17 | 2021-03-19 | 2022-07-13 |
 | [GIFTED](https://open.spotify.com/track/6jCvpNfDksF9ociFet0nE3) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [sounds of so\(u\)litude](https://open.spotify.com/album/6AWmEQFkIdkoQGaJkDCQj9) | 4:30 | 2021-03-19 | 2022-01-28 |
-| [Gimmie A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 | 2023-04-21 |  |
+| [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 | 2023-04-21 |  |
 | [gin + juice](https://open.spotify.com/track/6LFO0ho7EEn1jvXfMuEshi) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [gin + juice](https://open.spotify.com/album/05XVgeZiIiW6e20fiUSFZd) | 2:45 | 2022-05-13 | 2022-07-16 |
 | [Give Me Your Love](https://open.spotify.com/track/0uWdYu6qICiGf3S1is8aAO) | [SANNI](https://open.spotify.com/artist/4KbUzTS1NC8GHIe9LkwIPS) | [INTO THE RED ZONE](https://open.spotify.com/album/2beUWRoxQCUKdwe9r44Mv2) | 3:16 | 2022-08-05 | 2022-10-15 |
 | [Glass House](https://open.spotify.com/track/1U2hgbpQ92mK7gCWL0lcWY) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Glass House](https://open.spotify.com/album/6g2sW1bofbs4DEoW25rAB9) | 2:51 | 2022-06-10 | 2022-08-09 |

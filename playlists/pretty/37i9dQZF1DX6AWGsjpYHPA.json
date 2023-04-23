@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 102353,
+  "num_followers": 102437,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI4MTE1NywwMDAwMDAwMDNhMWQ2ZDVmNmE4MDAzY2Y2NTRkZDRmNjk2NzQ1ZDBj",
+  "snapshot_id": "MTY2MzI4MTE1NywwMDAwMDAwMDIzODMzZjM3MmU1NzAzMDc5OWUwNWFiNGNjOThiZDRk",
   "tracks": [
     {
       "added_at": "2022-09-15 22:32:37",
@@ -239,6 +239,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "Remember My Song",
+        "url": "https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "duration_ms": 395373,
+      "name": "I Got The... - 2006 Remaster",
+      "url": "https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "Another Dose (feat. Mick Jenkins)",
         "url": "https://open.spotify.com/album/5NqQIZptkFt28aRMa62QvO"
       },
@@ -259,18 +275,18 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Remember My Song",
-        "url": "https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV"
+        "name": "Turn This Mutha Out",
+        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
       },
       "artists": [
         {
-          "name": "Labi Siffre",
-          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+          "name": "Idris Muhammad",
+          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
         }
       ],
-      "duration_ms": 395373,
-      "name": "I Got The... - 2006 Remaster",
-      "url": "https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW"
+      "duration_ms": 516586,
+      "name": "Could Heaven Ever Be Like This",
+      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -287,22 +303,6 @@
       "duration_ms": 198626,
       "name": "Gospel For A New Century",
       "url": "https://open.spotify.com/track/4qYvkWQqCcIWEBWekegE4y"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Turn This Mutha Out",
-        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
-      },
-      "artists": [
-        {
-          "name": "Idris Muhammad",
-          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
-        }
-      ],
-      "duration_ms": 516586,
-      "name": "Could Heaven Ever Be Like This",
-      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Along the Lethe",
-        "url": "https://open.spotify.com/album/3cwJeTW8Fcv5zvJ180UBaP"
-      },
-      "artists": [
-        {
-          "name": "Beacon",
-          "url": "https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl"
-        }
-      ],
-      "duration_ms": 266906,
-      "name": "Harm",
-      "url": "https://open.spotify.com/track/3k29pw2omntASGkzIqYMnC"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Best of The Black President",
         "url": "https://open.spotify.com/album/7325GfKum2hDK231i3LqA7"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 591706,
       "name": "Water No Get Enemy - Edit",
       "url": "https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Along the Lethe",
+        "url": "https://open.spotify.com/album/3cwJeTW8Fcv5zvJ180UBaP"
+      },
+      "artists": [
+        {
+          "name": "Beacon",
+          "url": "https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl"
+        }
+      ],
+      "duration_ms": 266906,
+      "name": "Harm",
+      "url": "https://open.spotify.com/track/3k29pw2omntASGkzIqYMnC"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "No Mind",
-        "url": "https://open.spotify.com/album/3oF1tzg93AKNKRcX2sdABL"
+        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
+        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
       },
       "artists": [
         {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 135269,
-      "name": "Mountain",
-      "url": "https://open.spotify.com/track/1th4PAEaEQEV0NWAFfwWvv"
+      "duration_ms": 214893,
+      "name": "Do What You Gotta Do",
+      "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
-        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
+        "name": "No Mind",
+        "url": "https://open.spotify.com/album/3oF1tzg93AKNKRcX2sdABL"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
         }
       ],
-      "duration_ms": 214893,
-      "name": "Do What You Gotta Do",
-      "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
+      "duration_ms": 135269,
+      "name": "Mountain",
+      "url": "https://open.spotify.com/track/1th4PAEaEQEV0NWAFfwWvv"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Um Viol\u00e3o em Primeiro Plano",
-        "url": "https://open.spotify.com/album/2gRu1FqkaEtzVrJprvpwSM"
+        "name": "Fantastic Freeriding the Next Chapter",
+        "url": "https://open.spotify.com/album/4m2o851gadxmuGsR8pJjDE"
       },
       "artists": [
         {
-          "name": "Rosinha De Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/3PaJldxyhusOBLFXRkI36B"
+          "name": "Kabanjak",
+          "url": "https://open.spotify.com/artist/5JelVUCQwLevnbFnjeiPK4"
         }
       ],
-      "duration_ms": 252413,
-      "name": "Asa Branca",
-      "url": "https://open.spotify.com/track/6p5QJBr5iE2xvHatGebTbR"
+      "duration_ms": 214986,
+      "name": "Revelation Dub",
+      "url": "https://open.spotify.com/track/1wCcfw6WxRWoic7UHV2Aez"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1267,34 +1267,18 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Fantastic Freeriding the Next Chapter",
-        "url": "https://open.spotify.com/album/4m2o851gadxmuGsR8pJjDE"
+        "name": "Um Viol\u00e3o em Primeiro Plano",
+        "url": "https://open.spotify.com/album/2gRu1FqkaEtzVrJprvpwSM"
       },
       "artists": [
         {
-          "name": "Kabanjak",
-          "url": "https://open.spotify.com/artist/5JelVUCQwLevnbFnjeiPK4"
+          "name": "Rosinha De Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/3PaJldxyhusOBLFXRkI36B"
         }
       ],
-      "duration_ms": 214986,
-      "name": "Revelation Dub",
-      "url": "https://open.spotify.com/track/1wCcfw6WxRWoic7UHV2Aez"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "That Secret Sauce",
-        "url": "https://open.spotify.com/album/3FnQBFrLpBTl0LwIhdAEUZ"
-      },
-      "artists": [
-        {
-          "name": "Jerome Thomas",
-          "url": "https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp"
-        }
-      ],
-      "duration_ms": 174065,
-      "name": "Sauce",
-      "url": "https://open.spotify.com/track/1vf8YxG1eBOulIZ7dvXRGk"
+      "duration_ms": 252413,
+      "name": "Asa Branca",
+      "url": "https://open.spotify.com/track/6p5QJBr5iE2xvHatGebTbR"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1311,6 +1295,22 @@
       "duration_ms": 196746,
       "name": "Gun Metal Grey",
       "url": "https://open.spotify.com/track/2oVLSlo13KxpJMgEA0Jpm5"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "That Secret Sauce",
+        "url": "https://open.spotify.com/album/3FnQBFrLpBTl0LwIhdAEUZ"
+      },
+      "artists": [
+        {
+          "name": "Jerome Thomas",
+          "url": "https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp"
+        }
+      ],
+      "duration_ms": 174065,
+      "name": "Sauce",
+      "url": "https://open.spotify.com/track/1vf8YxG1eBOulIZ7dvXRGk"
     }
   ],
   "unique_name": "Turntable",

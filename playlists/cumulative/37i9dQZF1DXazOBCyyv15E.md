@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: The Japanese House
 
-1,448 songs - 3 day 13 hr 49 min
+1,449 songs - 3 day 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,8 @@
 | [Blushing](https://open.spotify.com/track/1qwVTmWZbTSdp3277EfMRB) | [Bonnie Kemplay](https://open.spotify.com/artist/4hPxGC5HIlcK36XGqoYCpZ) | [running out of things to say, running out of things to do](https://open.spotify.com/album/0cpcl7S8hhptUtaitER9Pi) | 4:09 | 2022-11-25 | 2023-04-14 |
 | [Bodies Of Water](https://open.spotify.com/track/4tAIZ4jqnYtuZwx5trVtbE) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Bodies Of Water](https://open.spotify.com/album/6IlPSsw7R1M7gA69yom1OY) | 5:04 | 2022-02-25 | 2022-04-29 |
 | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/track/7IE6uE2NqL9SI5gOSeNi3r) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/album/0nmhxFpBG8CgdjeoomP4go) | 2:30 | 2021-03-06 | 2021-05-28 |
-| [Bon Voyage](https://open.spotify.com/track/4fwuSvvoxTClVM4QYQGA6C) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Bon Voyage](https://open.spotify.com/album/4RNIu9tWTSeyO7FvDet105) | 2:47 | 2022-11-11 |  |
+| [Bon Voyage](https://open.spotify.com/track/4Okyax7cvVoNfoBKYr2RA0) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 2:47 | 2023-04-20 |  |
+| [Bon Voyage](https://open.spotify.com/track/4fwuSvvoxTClVM4QYQGA6C) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Bon Voyage](https://open.spotify.com/album/4RNIu9tWTSeyO7FvDet105) | 2:47 | 2022-11-11 | 2023-04-23 |
 | [Bonafide \(feat\. Chiiild\)](https://open.spotify.com/track/5AHSYSrni7xVCzlanStMRf) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Bonafide \(feat\. Chiiild\)](https://open.spotify.com/album/03Zv5MqL3Gj3FjcMtQ69Hd) | 2:57 | 2021-01-15 | 2021-03-26 |
 | [bones](https://open.spotify.com/track/3iiWBQdl6H8xtwC5i2wVFF) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [Bones](https://open.spotify.com/album/2X4ANfaVHU15i4IwvBugPB) | 2:48 | 2023-01-13 | 2023-03-10 |
 | [Bonnie & Clyde](https://open.spotify.com/track/242KD6PuHdXQmmBnkqyloK) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [The Theory Of Whatever \(Deluxe\)](https://open.spotify.com/album/0ek4fqYWlpZ6jnRT9FoLyA) | 3:01 | 2022-11-11 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Julieta Venegas en portada.",
-  "num_followers": 480776,
+  "num_followers": 480970,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY4MDQzMSwwMDAwMDAwMDY5NWViZjBhZjFmNzRmODJiNmQwMzZlNjYwM2MxYWE2",
+  "snapshot_id": "MTY3OTY4MDQzMSwwMDAwMDAwMDA4MzQ1ZGMyNWI5Y2YxYzEwMjFmNWYxNTIyMDBkZjFh",
   "tracks": [
     {
       "added_at": "2023-03-24 17:53:51",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Globoscopio",
-        "url": "https://open.spotify.com/album/3ZmohMIf51g01KO57xm6Zc"
-      },
-      "artists": [
-        {
-          "name": "Azul Violeta",
-          "url": "https://open.spotify.com/artist/5U5HiTvNUclEE0bwGVDBIX"
-        }
-      ],
-      "duration_ms": 273266,
-      "name": "Tu Luz",
-      "url": "https://open.spotify.com/track/0bqfNDZvqXB10fUKSfj6mY"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "Sweet & Sour - Hot & Spicy",
         "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 218920,
       "name": "Qui\u00e9reme Mucho",
       "url": "https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Globoscopio",
+        "url": "https://open.spotify.com/album/3ZmohMIf51g01KO57xm6Zc"
+      },
+      "artists": [
+        {
+          "name": "Azul Violeta",
+          "url": "https://open.spotify.com/artist/5U5HiTvNUclEE0bwGVDBIX"
+        }
+      ],
+      "duration_ms": 273266,
+      "name": "Tu Luz",
+      "url": "https://open.spotify.com/track/0bqfNDZvqXB10fUKSfj6mY"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
+        "name": "Cronicas De Un Laberinto",
+        "url": "https://open.spotify.com/album/5ghbMJrms74bqNzZ8ziEZy"
+      },
+      "artists": [
+        {
+          "name": "Jaguares",
+          "url": "https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq"
+        }
+      ],
+      "duration_ms": 190893,
+      "name": "Hay Amores Que Matan",
+      "url": "https://open.spotify.com/track/3b9yTPrrIquBZsco8jVPi1"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
         "name": "El \u00daltimo Ska",
         "url": "https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0"
       },
@@ -1307,22 +1323,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Sweet & Sour - Hot & Spicy",
-        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
-      },
-      "artists": [
-        {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
-        }
-      ],
-      "duration_ms": 262066,
-      "name": "Ojos Claros, Labios Rosas",
-      "url": "https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "D.D. Y Ponle Play",
         "url": "https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW"
       },
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Cronicas De Un Laberinto",
-        "url": "https://open.spotify.com/album/5ghbMJrms74bqNzZ8ziEZy"
+        "name": "Sweet & Sour - Hot & Spicy",
+        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
       },
       "artists": [
         {
-          "name": "Jaguares",
-          "url": "https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq"
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
         }
       ],
-      "duration_ms": 190893,
-      "name": "Hay Amores Que Matan",
-      "url": "https://open.spotify.com/track/3b9yTPrrIquBZsco8jVPi1"
+      "duration_ms": 262066,
+      "name": "Ojos Claros, Labios Rosas",
+      "url": "https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Sufro Sufro Sufro",
-        "url": "https://open.spotify.com/album/0np21WDUyCaqdEB2grsjcx"
-      },
-      "artists": [
-        {
-          "name": "San Pascualito Rey",
-          "url": "https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6"
-        }
-      ],
-      "duration_ms": 249506,
-      "name": "Nos Tragamos",
-      "url": "https://open.spotify.com/track/2A8MWa3QBtZaPE7oXMGGHe"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "Mucho Barato",
         "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 224200,
       "name": "Cheve",
       "url": "https://open.spotify.com/track/5ZFF7Z06Lpmodfi70nj2vE"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Sufro Sufro Sufro",
+        "url": "https://open.spotify.com/album/0np21WDUyCaqdEB2grsjcx"
+      },
+      "artists": [
+        {
+          "name": "San Pascualito Rey",
+          "url": "https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6"
+        }
+      ],
+      "duration_ms": 249506,
+      "name": "Nos Tragamos",
+      "url": "https://open.spotify.com/track/2A8MWa3QBtZaPE7oXMGGHe"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Deshabitado",
-        "url": "https://open.spotify.com/album/36TB8UO22yzNsVgGxaQxwh"
+        "name": "Amores Perros (Soundtrack)",
+        "url": "https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY"
       },
       "artists": [
         {
-          "name": "San Pascualito Rey",
-          "url": "https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6"
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
         }
       ],
-      "duration_ms": 223920,
-      "name": "Olvidate De M\u00ed",
-      "url": "https://open.spotify.com/track/4mM8PZRIR1tLNrIMTFuIjo"
+      "duration_ms": 253866,
+      "name": "Si Senor",
+      "url": "https://open.spotify.com/track/2gE3iFfPwzGGdsgEhbKWJS"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Amores Perros (Soundtrack)",
-        "url": "https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY"
+        "name": "Deshabitado",
+        "url": "https://open.spotify.com/album/36TB8UO22yzNsVgGxaQxwh"
       },
       "artists": [
         {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+          "name": "San Pascualito Rey",
+          "url": "https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6"
         }
       ],
-      "duration_ms": 253866,
-      "name": "Si Senor",
-      "url": "https://open.spotify.com/track/2gE3iFfPwzGGdsgEhbKWJS"
+      "duration_ms": 223920,
+      "name": "Olvidate De M\u00ed",
+      "url": "https://open.spotify.com/track/4mM8PZRIR1tLNrIMTFuIjo"
     }
   ],
   "unique_name": "Iconos del Rock Mexicano",

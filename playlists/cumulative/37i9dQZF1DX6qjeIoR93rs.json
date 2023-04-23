@@ -285,6 +285,28 @@
     },
     {
       "album": {
+        "name": "Bel7afli",
+        "url": "https://open.spotify.com/album/24VotFk1UUZZJmarGVLRMT"
+      },
+      "artists": [
+        {
+          "name": "EL X \u0627\u0644\u0625\u0643\u0633",
+          "url": "https://open.spotify.com/artist/3NQkbYL1pocXcIMyQkRTNP"
+        },
+        {
+          "name": "\u0141OAY",
+          "url": "https://open.spotify.com/artist/3MIKkLGqd0EYSxHHbUK0Fz"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166421,
+      "name": "Bel7afli",
+      "url": "https://open.spotify.com/track/33sM7X3w7bnrjJqdEh8zn9"
+    },
+    {
+      "album": {
         "name": "Can I Live",
         "url": "https://open.spotify.com/album/4rn2Zd0ynIrPFdY3UGlA7O"
       },
@@ -1366,7 +1388,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 201882,
       "name": "Telephone",
       "url": "https://open.spotify.com/track/5IawIr3eOioOqURiHFMNNY"

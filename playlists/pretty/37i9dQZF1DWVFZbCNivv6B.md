@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Aquí vive el hip\-hop mexicano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 661,600 likes - 110 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 663,445 likes - 110 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

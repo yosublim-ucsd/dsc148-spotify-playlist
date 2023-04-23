@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Maud Elka
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,717 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,797 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 11 | [Écoute Moi](https://open.spotify.com/track/39BRscIkSE49Royu0tBlox) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU), [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Écoute Moi](https://open.spotify.com/album/79TjXEzEUByDhfsZ11Y9Gn) | 2:51 |
 | 12 | [CV \(feat\. RK\)](https://open.spotify.com/track/7cS0iYSpeBa0qxLsXMELC4) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [Enchanté](https://open.spotify.com/album/4jzttg9eCu7YcpAQsu75mu) | 2:54 |
 | 13 | [K.O](https://open.spotify.com/track/7fYlVF4X0NFcU2cVMJT3ve) | [Mv](https://open.spotify.com/artist/4NCWWjplzDnwE3YAkRLHjc), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Wavy](https://open.spotify.com/album/6ON6G3oNKLuDYfJOshwuK6) | 2:49 |
-| 14 | [JAMAIS](https://open.spotify.com/track/7c31kTitonZtHYfP1qtPYB) | [Angelcy](https://open.spotify.com/artist/2BLqT1DuND6cAhJodiKmc2) | [JAMAIS](https://open.spotify.com/album/6gUTCbhKOyabXt2dYGuZTq) | 3:12 |
+| 14 | [JAMAIS](https://open.spotify.com/track/7c31kTitonZtHYfP1qtPYB) | [Angelcy](https://open.spotify.com/artist/2BLqT1DuND6cAhJodiKmc2) | [JAMAIS](https://open.spotify.com/album/6gUTCbhKOyabXt2dYGuZTq) | 3:14 |
 | 15 | [Maman prie pour moi](https://open.spotify.com/track/4PIMhQmPQuMdwiP0c8J7LL) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [Maman prie pour moi](https://open.spotify.com/album/5eyY7n2RVG8smbzZ0Gca3R) | 2:52 |
 | 16 | [Encore là](https://open.spotify.com/track/0yajebaRJVcOQGdh4giqZy) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Encore là](https://open.spotify.com/album/1YEGYqvsrg8fEltkHGc4tx) | 2:59 |
 | 17 | [Mon coco](https://open.spotify.com/track/5XTtRcxSLqyflaklKITjvi) | [Dertay](https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR) | [Mon coco](https://open.spotify.com/album/6dfhAN5YdT4WpCgM048lqQ) | 2:44 |

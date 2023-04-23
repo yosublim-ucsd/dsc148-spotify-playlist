@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 20173,
+  "num_followers": 20184,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjg4NTczMSwwMDAwMDAwMDIwNmZkZjQxZTk1YzgyZmY2MzkxYTg4OTdjMmIyZjk2",
+  "snapshot_id": "MTYwNjg4NTczMSwwMDAwMDAwMDQ2NWQwZjI3ZmM0YmZlZTZkMjA2YzVlMzcwMmRhNjgw",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Regresa",
+        "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 171807,
+      "name": "NTE",
+      "url": "https://open.spotify.com/track/7p4C1w3JSmKVJXixBrtaKI"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Un Gatito",
         "url": "https://open.spotify.com/album/37mDIREfofAksvorhbC64M"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 185824,
       "name": "Un Gatito",
       "url": "https://open.spotify.com/track/2d7au8a1ImPjzTp8EyNcoI"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Regresa",
-        "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 171807,
-      "name": "NTE",
-      "url": "https://open.spotify.com/track/7p4C1w3JSmKVJXixBrtaKI"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "No Hay Mal Que Dure una Vida",
+        "url": "https://open.spotify.com/album/6vz0U3riunxqTjYYQgOnu2"
+      },
+      "artists": [
+        {
+          "name": "Lika Nova",
+          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
+        }
+      ],
+      "duration_ms": 215287,
+      "name": "Qu\u00e9date Cerca",
+      "url": "https://open.spotify.com/track/7LRXAR7DVFB3cB95uqSJcQ"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Sentimiento Mundial",
         "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 195652,
       "name": "Rush",
       "url": "https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "No Hay Mal Que Dure una Vida",
-        "url": "https://open.spotify.com/album/6vz0U3riunxqTjYYQgOnu2"
-      },
-      "artists": [
-        {
-          "name": "Lika Nova",
-          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
-        }
-      ],
-      "duration_ms": 215287,
-      "name": "Qu\u00e9date Cerca",
-      "url": "https://open.spotify.com/track/7LRXAR7DVFB3cB95uqSJcQ"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Lo Que Vales (Para M\u00ed)",
-        "url": "https://open.spotify.com/album/60ki1aJySUjzhFLLnYMpJW"
-      },
-      "artists": [
-        {
-          "name": "Pepe Pecas",
-          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
-        }
-      ],
-      "duration_ms": 211022,
-      "name": "Lo Que Vales (Para M\u00ed)",
-      "url": "https://open.spotify.com/track/03If5wA0g4z8C9qSw6hDK8"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "The Prettiest Curse",
         "url": "https://open.spotify.com/album/7mBtzjnzUXnaDk9LtBrjZx"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 198546,
       "name": "Good Bad Times",
       "url": "https://open.spotify.com/track/2YY6BmV3FAsCPXj3RK28H3"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Lo Que Vales (Para M\u00ed)",
+        "url": "https://open.spotify.com/album/60ki1aJySUjzhFLLnYMpJW"
+      },
+      "artists": [
+        {
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
+        }
+      ],
+      "duration_ms": 211022,
+      "name": "Lo Que Vales (Para M\u00ed)",
+      "url": "https://open.spotify.com/track/03If5wA0g4z8C9qSw6hDK8"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Pong",
-        "url": "https://open.spotify.com/album/3O9Sh32VPoskDSbkiW77Jb"
-      },
-      "artists": [
-        {
-          "name": "Piel Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
-        }
-      ],
-      "duration_ms": 208505,
-      "name": "Pong",
-      "url": "https://open.spotify.com/track/4r5DPWa4xFtqS0CROTIc41"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Acci\u00f3n (O: Decreto de Guerra a Muerte a los Traidores del Rock Latinoamericano)",
         "url": "https://open.spotify.com/album/72PseYEGxsIboQQbMB3oUj"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 248677,
       "name": "Acci\u00f3n - O: Decreto de Guerra a Muerte a los Traidores del Rock Latinoamericano",
       "url": "https://open.spotify.com/track/5om9LfUKsyTaQWbHH2Refu"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Pong",
+        "url": "https://open.spotify.com/album/3O9Sh32VPoskDSbkiW77Jb"
+      },
+      "artists": [
+        {
+          "name": "Piel Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
+        }
+      ],
+      "duration_ms": 208505,
+      "name": "Pong",
+      "url": "https://open.spotify.com/track/4r5DPWa4xFtqS0CROTIc41"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Miedo, Amor y Vida - EP",
-        "url": "https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93"
-      },
-      "artists": [
-        {
-          "name": "Ati Lane",
-          "url": "https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG"
-        }
-      ],
-      "duration_ms": 216857,
-      "name": "La Oscuridad",
-      "url": "https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Corte Superior",
         "url": "https://open.spotify.com/album/07LYLQ1wwl1sjSZTebfpDG"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 236000,
       "name": "Corte Superior",
       "url": "https://open.spotify.com/track/15ydTyKE48KnZlAbJRQdMJ"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Miedo, Amor y Vida - EP",
+        "url": "https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93"
+      },
+      "artists": [
+        {
+          "name": "Ati Lane",
+          "url": "https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG"
+        }
+      ],
+      "duration_ms": 216857,
+      "name": "La Oscuridad",
+      "url": "https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C"
     },
     {
       "added_at": "2020-12-01 05:03:00",

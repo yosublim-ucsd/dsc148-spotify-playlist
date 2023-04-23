@@ -20934,7 +20934,7 @@
     {
       "album": {
         "name": "Still The Same",
-        "url": "https://open.spotify.com/album/1izQQQD5H3WfeyilRviVwk"
+        "url": "https://open.spotify.com/album/2YWC4IYQE7l1QOsZke9kqO"
       },
       "artists": [
         {
@@ -20945,6 +20945,24 @@
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 161796,
+      "name": "Still The Same",
+      "url": "https://open.spotify.com/track/0BxpUmBslP2oSAzvSToMyR"
+    },
+    {
+      "album": {
+        "name": "Still The Same",
+        "url": "https://open.spotify.com/album/1izQQQD5H3WfeyilRviVwk"
+      },
+      "artists": [
+        {
+          "name": "Tom\u00e1s Tom\u00e1s",
+          "url": "https://open.spotify.com/artist/5cIsZTM8obwInukUbjtuE7"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-23",
       "duration_ms": 161796,
       "name": "Still The Same",
       "url": "https://open.spotify.com/track/3S1PM8HQvrg4wEgEyH6HsV"

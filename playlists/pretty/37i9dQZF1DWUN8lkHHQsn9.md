@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: MAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,778 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,777 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 31 | [twój zapach](https://open.spotify.com/track/0irIpENIile1obCEpugDL1) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [twój zapach](https://open.spotify.com/album/6p3kfcHv9XXnvY0yTMyq4K) | 3:00 |
 | 32 | [POKUSSA](https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [Pokussa Na Parkiecie](https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv) | 2:56 |
 | 33 | [Straty](https://open.spotify.com/track/2zQ8tICZSaEpGe2twp2akq) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Straty](https://open.spotify.com/album/3sxdd6lNRiAu3gUKktKcms) | 4:04 |
-| 34 | [PINOKIO](https://open.spotify.com/track/4kvWYKebH6wY9lXlOdoTLf) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a), [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [PINOKIO](https://open.spotify.com/album/1INLSAXzlp4hktzm4lWM6l) | 2:22 |
-| 35 | [$WAG \(lepi się w ch\*j\)](https://open.spotify.com/track/5YfwxLj7jzNM38zLWse9Oi) | [susk](https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc) | [$WAG \(lepi się w ch\*j\)](https://open.spotify.com/album/2MV4hphFIybyLf6cGts90z) | 2:38 |
+| 34 | [$WAG \(lepi się w ch\*j\)](https://open.spotify.com/track/5YfwxLj7jzNM38zLWse9Oi) | [susk](https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc) | [$WAG \(lepi się w ch\*j\)](https://open.spotify.com/album/2MV4hphFIybyLf6cGts90z) | 2:38 |
+| 35 | [PINOKIO](https://open.spotify.com/track/4kvWYKebH6wY9lXlOdoTLf) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a), [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [PINOKIO](https://open.spotify.com/album/1INLSAXzlp4hktzm4lWM6l) | 2:22 |
 | 36 | [Cicho](https://open.spotify.com/track/2TOrUREtKTgIs3GO6ufiB0) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [Młodzi](https://open.spotify.com/album/3qB3nhievjivYCPPizraEG) | 4:07 |
 | 37 | [Barbie](https://open.spotify.com/track/6qw0cxzRzqAw9EctLLSGkX) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Dziewczynka Tatusia](https://open.spotify.com/album/0rHwKAVgJQJxBIzH3dSL7B) | 2:21 |
 | 38 | [BSoD \(Bluescreen\)](https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [BSoD \(Bluescreen\)](https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag) | 2:59 |
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 48 | [Evangelion](https://open.spotify.com/track/3inilFIpx5bJZuIoWESgKc) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [Magister](https://open.spotify.com/album/7El3IrfgM2Sz2J9LLruD1h) | 2:40 |
 | 49 | [Kimkolwiek chcę](https://open.spotify.com/track/3mpogytAIg8ctUvq9hg91i) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Kimkolwiek chcę](https://open.spotify.com/album/6QdVPvKhXhXRpPyxhLlJve) | 2:54 |
 | 50 | [Ręce w udręce](https://open.spotify.com/track/4dEpsV9Rw64eVKe0ERUIsK) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [Dla nas dom](https://open.spotify.com/album/6Rl3OmxvkuIQ4PBE9d5fNf) | 4:10 |
-| 51 | [Po Szkole](https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Kółko I Krzyżyk](https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex) | 2:49 |
-| 52 | [Technikolor](https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Twoja Stara](https://open.spotify.com/artist/1UmoEzwpL135ejsMxsWpKZ), [Lola Eyeonyou Potocki](https://open.spotify.com/artist/2C8FVoqy4jl5YFhDTTwofP) | [Technikolor](https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc) | 3:50 |
+| 51 | [Technikolor](https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Twoja Stara](https://open.spotify.com/artist/1UmoEzwpL135ejsMxsWpKZ), [Lola Eyeonyou Potocki](https://open.spotify.com/artist/2C8FVoqy4jl5YFhDTTwofP) | [Technikolor](https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc) | 3:50 |
+| 52 | [Po Szkole](https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Kółko I Krzyżyk](https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex) | 2:49 |
 | 53 | [Tamto Lato](https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc) | [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [OLIMP](https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb) | 3:12 |
 | 54 | [Girls, Gays, People](https://open.spotify.com/track/0hcEoARENUw9yAc4H7fr10) | [Yanch](https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ) | [Girls, Gays, People](https://open.spotify.com/album/4Chm1IYsC21b9Zevy8Vbr9) | 6:35 |
 | 55 | [Polska](https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L) | [Raf Skowroński](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [Polska](https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR) | 4:03 |
 | 56 | [Język](https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Język](https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn) | 3:06 |
-| 57 | [Don't Collapse](https://open.spotify.com/track/11ZmWCdq4Jlvx7b5OVTmmP) | [Didi Lez](https://open.spotify.com/artist/6e37ehXKRAloIRP7cW8w0v), [Julia Bossque](https://open.spotify.com/artist/6mhPM4qRPEoFIz6AAZKj51) | [Don't Collapse](https://open.spotify.com/album/1FXhql6RzeIEdk790tOYBm) | 4:21 |
-| 58 | [Jeszcze mam serce](https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [Jeszcze mam serce](https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow) | 4:11 |
+| 57 | [Jeszcze mam serce](https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [Jeszcze mam serce](https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow) | 4:11 |
+| 58 | [Don't Collapse](https://open.spotify.com/track/11ZmWCdq4Jlvx7b5OVTmmP) | [Didi Lez](https://open.spotify.com/artist/6e37ehXKRAloIRP7cW8w0v), [Julia Bossque](https://open.spotify.com/artist/6mhPM4qRPEoFIz6AAZKj51) | [Don't Collapse](https://open.spotify.com/album/1FXhql6RzeIEdk790tOYBm) | 4:21 |
 | 59 | [Nie ma](https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT) | [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8) | [Nie ma](https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M) | 3:22 |
 | 60 | [VITAY \- Avtomat Remix](https://open.spotify.com/track/5ZMOiaSKA0IQiXst5orqKR) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Avtomat](https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj) | [VITAY \(Avtomat Remix\)](https://open.spotify.com/album/0RUK6e7Weucvg7AmeKYp6s) | 4:10 |
 
-Snapshot ID: `MTY4MTE2NDAwMCwwMDAwMDAwMGI4NWVkODc0NjYyMmM1MjEzYzYwMDI0N2QyZDczNDZk`
+Snapshot ID: `MTY4MTE2NDAwMCwwMDAwMDAwMDI0MDNmZjFkNTRmMzg1NDQzZTZlY2FiMjU2ZjI0MTU4`

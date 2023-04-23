@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The hottest K\-R&B is here\. \(Cover: 그래쓰\(GRASS\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,838 likes - 56 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,896 likes - 56 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 45 | [Goldfish \(Feat\. Blueny of OuiOui\)](https://open.spotify.com/track/0A44VMmhs42WXCNYJGeDLM) | [yiyona](https://open.spotify.com/artist/5UxbxMzCNo2m4oyAN4GYCv), [Blueny](https://open.spotify.com/artist/3yHT48fEq1Uhl1kgcnIyD0) | [Goldfish \(Feat\. Blueny of OuiOui\)](https://open.spotify.com/album/7JSpdJ3tkyGR7rb34jUaTY) | 3:16 |
 | 46 | [겨울길 \(feat\. 영준\)](https://open.spotify.com/track/7s9ueFmPRPZvu2WnKJPeI9) | [Ray Hill](https://open.spotify.com/artist/37Ez82I2tYUegLiKXfOkUw), [Young Jun](https://open.spotify.com/artist/7n7p8oXuygFVSkrCO9FvAt) | [나의 겨울](https://open.spotify.com/album/7m8rPBnClStMMpVT7BXt9y) | 3:59 |
 | 47 | [이른 겨울\(Feat\. Gist, 기원\(Giwon\)\)](https://open.spotify.com/track/0lRyIfhsqlRYULXPBL848R) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [기원 \(Giwon\)](https://open.spotify.com/artist/1sf52yxej6A0Yso1Gv7vdY) | [이른 겨울](https://open.spotify.com/album/5rR1JjdxLhu5AagkC7u1Tu) | 2:52 |
-| 48 | [Come Back Home \(feat\. Yeeun\)](https://open.spotify.com/track/6Vl5W40Ve7mvbmPxKRhR94) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Yeeun](https://open.spotify.com/artist/0AgNlLxv23f2iBgdphi4to) | [Come Back Home](https://open.spotify.com/album/0itIaXewMbaWbViMKNstF9) | 3:26 |
+| 48 | [Come Back Home \(feat\. Yeeun\)](https://open.spotify.com/track/6Vl5W40Ve7mvbmPxKRhR94) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Yeeun](https://open.spotify.com/artist/4hMhbcPHd2nsZFhY1TNp8Y) | [Come Back Home](https://open.spotify.com/album/0itIaXewMbaWbViMKNstF9) | 3:26 |
 | 49 | [Strike](https://open.spotify.com/track/0Djk0AVUiqZX4Y8txXwcNF) | [HANYE](https://open.spotify.com/artist/76Qu3bKsPh71Tzt5Sj2DQL) | [Strike](https://open.spotify.com/album/1z1oGlLPH3tg6F2plDuF6t) | 4:24 |
 | 50 | [Chain \(Feat\. Claire Hau\)](https://open.spotify.com/track/4lRkE7xbvrLknlufnkw4s7) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Bind](https://open.spotify.com/album/1sNuOX2i2Y7XiWP8jyPiwr) | 3:19 |
 | 51 | [Call me \(feat\. Subbit & Luhae\)](https://open.spotify.com/track/7CeNFCLirNI1Rm5rT2BCeR) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [Subbit](https://open.spotify.com/artist/6efFSrfAtcVvlMIkrCEwR0), [Luhae](https://open.spotify.com/artist/4Fh5HG3tvMsqB3xtWGmWXp) | [Are we still friends?](https://open.spotify.com/album/0HGTY8Zn3ubz3fROe0ZsFA) | 3:35 |

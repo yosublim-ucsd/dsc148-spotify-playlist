@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1950s. Cover: Elvis.",
-  "num_followers": 196133,
+  "num_followers": 196401,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk2NTQ1MywwMDAwMDAwMGM1ZGMzZGVhMjE3MDUzMzUwODI5NjRhZmQ2NTgyNDVh",
+  "snapshot_id": "MTY2OTk2NTQ1MywwMDAwMDAwMDRmMGEzMzNkZjMyNGM0YzEwMDUxOGVkMzVmODdkNGMz",
   "tracks": [
     {
       "added_at": "2022-06-07 05:25:13",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Come Fly With Me (Remastered)",
-        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 199093,
-      "name": "Come Fly With Me - Remastered 1998",
-      "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Here's Little Richard (Deluxe Edition)",
         "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 144226,
       "name": "Tutti Frutti",
       "url": "https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Come Fly With Me (Remastered)",
+        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 199093,
+      "name": "Come Fly With Me - Remastered 1998",
+      "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -603,18 +603,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Calypso",
-        "url": "https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3"
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
       },
       "artists": [
         {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 183133,
-      "name": "Banana Boat (Day-O)",
-      "url": "https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC"
+      "duration_ms": 136026,
+      "name": "Hound Dog",
+      "url": "https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -635,34 +635,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+        "name": "Calypso",
+        "url": "https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
         }
       ],
-      "duration_ms": 177400,
-      "name": "You Make Me Feel So Young - Remastered 1998",
-      "url": "https://open.spotify.com/track/2WaYW84yWij5NSCpgSeU2R"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Elvis' Golden Records",
-        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 136026,
-      "name": "Hound Dog",
-      "url": "https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX"
+      "duration_ms": 183133,
+      "name": "Banana Boat (Day-O)",
+      "url": "https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -699,6 +683,22 @@
       "duration_ms": 354533,
       "name": "Cheek To Cheek",
       "url": "https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 177400,
+      "name": "You Make Me Feel So Young - Remastered 1998",
+      "url": "https://open.spotify.com/track/2WaYW84yWij5NSCpgSeU2R"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "That's All",
-        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 184333,
-      "name": "Mack the Knife",
-      "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Dancin' Party: The Chubby Checker Collection (1960-1966)",
         "url": "https://open.spotify.com/album/0YgWInMbwTXPCaHRUHqoeY"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 155040,
       "name": "The Twist",
       "url": "https://open.spotify.com/track/4YCnTYbq3oL1Lqpyxg33CU"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "That's All",
+        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 184333,
+      "name": "Mack the Knife",
+      "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "There's A Riot Goin' On: The Coasters On Atco",
-        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
-      },
-      "artists": [
-        {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
-        }
-      ],
-      "duration_ms": 116026,
-      "name": "Yakety Yak - 2007 Remaster",
-      "url": "https://open.spotify.com/track/3Lbxie6whOW4eMt4jtI32k"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Rock with Sedaka (Expanded Edition)",
         "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 135466,
       "name": "Oh! Carol",
       "url": "https://open.spotify.com/track/5zvOXJrzzUlvXwyuwZ0toZ"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "There's A Riot Goin' On: The Coasters On Atco",
+        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "duration_ms": 116026,
+      "name": "Yakety Yak - 2007 Remaster",
+      "url": "https://open.spotify.com/track/3Lbxie6whOW4eMt4jtI32k"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Fresh Cream",
+        "url": "https://open.spotify.com/album/6iyKqDoL9pRSHUsDBYemlB"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 171506,
+      "name": "I Feel Free",
+      "url": "https://open.spotify.com/track/62nYkaIBesfvQSSwTjPnYS"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Complete Them (1964-1967) (feat. Van Morrison)",
         "url": "https://open.spotify.com/album/0I5bDXICWz4idoFkxv0W4Z"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 162293,
       "name": "Baby, Please Don't Go (feat. Van Morrison)",
       "url": "https://open.spotify.com/track/5WUgOOaTk00PnksDekcgcg"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Fresh Cream",
-        "url": "https://open.spotify.com/album/6iyKqDoL9pRSHUsDBYemlB"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 171506,
-      "name": "I Feel Free",
-      "url": "https://open.spotify.com/track/62nYkaIBesfvQSSwTjPnYS"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Sinatra And Swingin' Brass",
-        "url": "https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Shout!",
         "url": "https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH"
       },
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Hot Rocks (1964-1971)",
-        "url": "https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp"
+        "name": "Sinatra And Swingin' Brass",
+        "url": "https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 179386,
-      "name": "Honky Tonk Women - Mono Version",
-      "url": "https://open.spotify.com/track/3RZMzCvYsmJ0u2ioKTOsmJ"
+      "duration_ms": 194093,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Hot Rocks (1964-1971)",
+        "url": "https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 179386,
+      "name": "Honky Tonk Women - Mono Version",
+      "url": "https://open.spotify.com/track/3RZMzCvYsmJ0u2ioKTOsmJ"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "The Ultimate Bobby Darin",
         "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
       },
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Gimme Some Loving / Blues In F",
-        "url": "https://open.spotify.com/album/5FuD0MXgLATEsV4lyBbAD0"
+        "name": "Rockin' With Danny And The Juniors (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0AL8t9Dy1L9nf1ZnBlLeLq"
       },
       "artists": [
         {
-          "name": "The Spencer Davis Group",
-          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
+          "name": "Danny & The Juniors",
+          "url": "https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY"
         }
       ],
-      "duration_ms": 178840,
-      "name": "Gimme Some Lovin' - Single Mix",
-      "url": "https://open.spotify.com/track/3qCHUm73I3o5F1mDEfibzo"
+      "duration_ms": 150866,
+      "name": "At The Hop",
+      "url": "https://open.spotify.com/track/4LcrHUkRmXG3c0YD5VYutn"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Rockin' With Danny And The Juniors (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0AL8t9Dy1L9nf1ZnBlLeLq"
+        "name": "Gimme Some Loving / Blues In F",
+        "url": "https://open.spotify.com/album/5FuD0MXgLATEsV4lyBbAD0"
       },
       "artists": [
         {
-          "name": "Danny & The Juniors",
-          "url": "https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY"
+          "name": "The Spencer Davis Group",
+          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
         }
       ],
-      "duration_ms": 150866,
-      "name": "At The Hop",
-      "url": "https://open.spotify.com/track/4LcrHUkRmXG3c0YD5VYutn"
+      "duration_ms": 178840,
+      "name": "Gimme Some Lovin' - Single Mix",
+      "url": "https://open.spotify.com/track/3qCHUm73I3o5F1mDEfibzo"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Dance Album",
-        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
-      },
-      "artists": [
-        {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
-        }
-      ],
-      "duration_ms": 134445,
-      "name": "Blue Suede Shoes",
-      "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "The Best Of The Diamonds",
         "url": "https://open.spotify.com/album/6iUnqREt5OzfM2EDpJVEVM"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 129333,
       "name": "Little Darlin'",
       "url": "https://open.spotify.com/track/7ycFNferNuk6wAjBa0vWvl"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
+      },
+      "artists": [
+        {
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+        }
+      ],
+      "duration_ms": 134445,
+      "name": "Blue Suede Shoes",
+      "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Fats Domino Swings",
-        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 126666,
-      "name": "I'm Walkin'",
-      "url": "https://open.spotify.com/track/2gZlblsff9FKnhSIwB2ZsU"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Rock with Sedaka (Expanded Edition)",
         "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 159693,
       "name": "Calendar Girl",
       "url": "https://open.spotify.com/track/7Gpx2fNJiilvrf9Ss8qbit"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Fats Domino Swings",
+        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 126666,
+      "name": "I'm Walkin'",
+      "url": "https://open.spotify.com/track/2gZlblsff9FKnhSIwB2ZsU"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Jive Bunny And The Mastermixers The Biggest Party On The Planet",
-        "url": "https://open.spotify.com/album/0ZtoKNv75D3PvB2i0vPrIP"
-      },
-      "artists": [
-        {
-          "name": "Jive Bunny and the Mastermixers",
-          "url": "https://open.spotify.com/artist/4GzIiGnHYrOnq2LUiD6zdo"
-        }
-      ],
-      "duration_ms": 259573,
-      "name": "Swing The Mood",
-      "url": "https://open.spotify.com/track/3Aimpqxpvmz7jhJlNnEd5c"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Hey Doll Baby",
         "url": "https://open.spotify.com/album/4N7dJ93N6qsCQaMhVtZ8UO"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 144533,
       "name": "('Til) I Kissed You",
       "url": "https://open.spotify.com/track/4BMhwvrqMUSm65RRB0RAEa"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Jive Bunny And The Mastermixers The Biggest Party On The Planet",
+        "url": "https://open.spotify.com/album/0ZtoKNv75D3PvB2i0vPrIP"
+      },
+      "artists": [
+        {
+          "name": "Jive Bunny and the Mastermixers",
+          "url": "https://open.spotify.com/artist/4GzIiGnHYrOnq2LUiD6zdo"
+        }
+      ],
+      "duration_ms": 259573,
+      "name": "Swing The Mood",
+      "url": "https://open.spotify.com/track/3Aimpqxpvmz7jhJlNnEd5c"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Sinatra 80th: All The Best",
+        "url": "https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 131426,
+      "name": "I've Got The World On A String",
+      "url": "https://open.spotify.com/track/7IUCPpANzL2yY7ippXe09f"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "The Complete Hank Williams",
         "url": "https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 174293,
       "name": "Hey, Good Lookin'",
       "url": "https://open.spotify.com/track/0F76EzCOmno4KJviO7iGNq"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Sinatra 80th: All The Best",
-        "url": "https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 131426,
-      "name": "I've Got The World On A String",
-      "url": "https://open.spotify.com/track/7IUCPpANzL2yY7ippXe09f"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Milestones of \"The\" Legends - Boy Groups, Vol. 8",
+        "url": "https://open.spotify.com/album/5vHNocVGT5hVdYlAPaXQZd"
+      },
+      "artists": [
+        {
+          "name": "Frankie Lymon & The Teenagers",
+          "url": "https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt"
+        }
+      ],
+      "duration_ms": 138266,
+      "name": "Why Do Fools Fall In Love?",
+      "url": "https://open.spotify.com/track/1Lw3f4kieVLzwPPItlO4bS"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Buddy Knox",
         "url": "https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc"
       },
@@ -2023,38 +2039,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Milestones of \"The\" Legends - Boy Groups, Vol. 8",
-        "url": "https://open.spotify.com/album/5vHNocVGT5hVdYlAPaXQZd"
-      },
-      "artists": [
-        {
-          "name": "Frankie Lymon & The Teenagers",
-          "url": "https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt"
-        }
-      ],
-      "duration_ms": 138266,
-      "name": "Why Do Fools Fall In Love?",
-      "url": "https://open.spotify.com/track/1Lw3f4kieVLzwPPItlO4bS"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Get a Job",
-        "url": "https://open.spotify.com/album/28pRA1gcndMkuHd0LI9EN9"
-      },
-      "artists": [
-        {
-          "name": "The Silhouettes",
-          "url": "https://open.spotify.com/artist/5LmehwqsJa7a4Ya5SaqXpx"
-        }
-      ],
-      "duration_ms": 169706,
-      "name": "Get a Job",
-      "url": "https://open.spotify.com/track/21NhrNOfIoakyWISXUMkFN"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "At the Rock House",
         "url": "https://open.spotify.com/album/6QYaVdJsm6MNqKO9tEBUMm"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 130500,
       "name": "Ooby Dooby",
       "url": "https://open.spotify.com/track/7Bt1RAu4FSYL3WltEmLmb5"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Get a Job",
+        "url": "https://open.spotify.com/album/28pRA1gcndMkuHd0LI9EN9"
+      },
+      "artists": [
+        {
+          "name": "The Silhouettes",
+          "url": "https://open.spotify.com/artist/5LmehwqsJa7a4Ya5SaqXpx"
+        }
+      ],
+      "duration_ms": 169706,
+      "name": "Get a Job",
+      "url": "https://open.spotify.com/track/21NhrNOfIoakyWISXUMkFN"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Presenting Ike Turner",
-        "url": "https://open.spotify.com/album/72uPVZB2T541kI9nT4khgC"
-      },
-      "artists": [
-        {
-          "name": "Ike Turner",
-          "url": "https://open.spotify.com/artist/0FAxkBiT0g3jKF2AaKEipb"
-        }
-      ],
-      "duration_ms": 169613,
-      "name": "Rocket 88",
-      "url": "https://open.spotify.com/track/4IiEsxrgzIMdqoN3dwxk6g"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Dinah '62",
         "url": "https://open.spotify.com/album/2k6aNn1NaZPqko2mOtCZwu"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 203466,
       "name": "Is You Is or Is You Ain't My Baby - 2002 Remaster",
       "url": "https://open.spotify.com/track/42gjKLOPmC7rjXZpDdTHcO"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Presenting Ike Turner",
+        "url": "https://open.spotify.com/album/72uPVZB2T541kI9nT4khgC"
+      },
+      "artists": [
+        {
+          "name": "Ike Turner",
+          "url": "https://open.spotify.com/artist/0FAxkBiT0g3jKF2AaKEipb"
+        }
+      ],
+      "duration_ms": 169613,
+      "name": "Rocket 88",
+      "url": "https://open.spotify.com/track/4IiEsxrgzIMdqoN3dwxk6g"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Sun Records Sound of Billy Lee Riley (20 Rockabilly Originals)",
-        "url": "https://open.spotify.com/album/12nGZsto8BTrIMNIEr4JRk"
-      },
-      "artists": [
-        {
-          "name": "Billy Lee Riley",
-          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
-        }
-      ],
-      "duration_ms": 149584,
-      "name": "Red Hot",
-      "url": "https://open.spotify.com/track/31ajddT1F78QGsGLWonOaq"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "The Dance Album",
         "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 167840,
       "name": "Boppin' The Blues",
       "url": "https://open.spotify.com/track/0wNnwLgq5N9lWYib8eUnu6"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "The Sun Records Sound of Billy Lee Riley (20 Rockabilly Originals)",
+        "url": "https://open.spotify.com/album/12nGZsto8BTrIMNIEr4JRk"
+      },
+      "artists": [
+        {
+          "name": "Billy Lee Riley",
+          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
+        }
+      ],
+      "duration_ms": 149584,
+      "name": "Red Hot",
+      "url": "https://open.spotify.com/track/31ajddT1F78QGsGLWonOaq"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Come on Little Mama / Where'd You Stay Last Night",
-        "url": "https://open.spotify.com/album/0jRvfTjOFuHrNJrVUT8BZY"
-      },
-      "artists": [
-        {
-          "name": "Ray Harris",
-          "url": "https://open.spotify.com/artist/0luI6OOG3mYAFQj4BC1hR8"
-        }
-      ],
-      "duration_ms": 138813,
-      "name": "Come on Little Mama",
-      "url": "https://open.spotify.com/track/11OqzAcT8jMaNZAt6kdpvR"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "The Complete Dinah Washington On Mercury Vol. 6 (1958-1960)",
         "url": "https://open.spotify.com/album/19tw1MckQmVNrGJYcCva7f"
       },
@@ -2403,18 +2387,34 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "20 Best of Doo Wop",
-        "url": "https://open.spotify.com/album/7q4HXnmWEyMJLQIqnGZTH5"
+        "name": "Come on Little Mama / Where'd You Stay Last Night",
+        "url": "https://open.spotify.com/album/0jRvfTjOFuHrNJrVUT8BZY"
       },
       "artists": [
         {
-          "name": "Clarence \"Frogman\" Henry",
-          "url": "https://open.spotify.com/artist/3EYYw0bxDMBYfLoBehpsNf"
+          "name": "Ray Harris",
+          "url": "https://open.spotify.com/artist/0luI6OOG3mYAFQj4BC1hR8"
         }
       ],
-      "duration_ms": 138776,
-      "name": "Ain't Got No Home - Rerecorded",
-      "url": "https://open.spotify.com/track/635WSqOORhDgO8sWWEoGen"
+      "duration_ms": 138813,
+      "name": "Come on Little Mama",
+      "url": "https://open.spotify.com/track/11OqzAcT8jMaNZAt6kdpvR"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Flyin' Saucers Rock & Roll / I Want You Baby",
+        "url": "https://open.spotify.com/album/21VQE8cleE2is06r3F6dQS"
+      },
+      "artists": [
+        {
+          "name": "Billy Lee Riley",
+          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
+        }
+      ],
+      "duration_ms": 122108,
+      "name": "Flyin' Saucers Rock & Roll",
+      "url": "https://open.spotify.com/track/61NxE9hAjnvplyUKdY6jKv"
     },
     {
       "added_at": "2022-06-07 05:25:13",

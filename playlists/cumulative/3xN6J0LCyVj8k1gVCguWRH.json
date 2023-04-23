@@ -320,7 +320,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 120000,
       "name": "2017",
       "url": "https://open.spotify.com/track/3jg1KibIAZQn0jioczUhG5"
@@ -1804,7 +1804,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 217973,
       "name": "All Roads",
       "url": "https://open.spotify.com/track/44xH5512eqePvkF2yfmYyD"
@@ -2792,7 +2792,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 116371,
       "name": "as i walk thru the path",
       "url": "https://open.spotify.com/track/1D7jqFLEVZGqpm4yPgxLnp"
@@ -3398,7 +3398,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 234708,
       "name": "Baila",
       "url": "https://open.spotify.com/track/4Q59vOpIKQBQfwu5ZJylDy"
@@ -14564,7 +14564,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 147056,
       "name": "gon b ok",
       "url": "https://open.spotify.com/track/1dcembjwS2VVRpX1uMkAKz"
@@ -15144,7 +15144,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 226363,
       "name": "Groovin Alone",
       "url": "https://open.spotify.com/track/20bd1ugc6E8Nu99kljqpPZ"
@@ -16848,7 +16848,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 188586,
       "name": "Hypocrite",
       "url": "https://open.spotify.com/track/5HiTnO0TxjIR5wWFoiQlT5"
@@ -21541,6 +21541,28 @@
     },
     {
       "album": {
+        "name": "4 seasons",
+        "url": "https://open.spotify.com/album/3cWfP9gd22TEeGF10FSMqF"
+      },
+      "artists": [
+        {
+          "name": "Little stone",
+          "url": "https://open.spotify.com/artist/2sKntwQb2qFRIMfcz4wfZO"
+        },
+        {
+          "name": "MODSIWH",
+          "url": "https://open.spotify.com/artist/0RwJZ7e6SQExEsyhAi7M3C"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203265,
+      "name": "Look how beautiful you are (Feat. MODSIWH)",
+      "url": "https://open.spotify.com/track/5y3YnJc1EckiKaWuDhfJq5"
+    },
+    {
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP"
       },
@@ -24160,7 +24182,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 192003,
       "name": "More",
       "url": "https://open.spotify.com/track/0aMTAop3aUtZDVXXAvzpko"
@@ -27086,7 +27108,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 198125,
       "name": "OURS",
       "url": "https://open.spotify.com/track/0k1umUayu5jjkTSucRkkNT"
@@ -28826,7 +28848,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 237176,
       "name": "Quiniela",
       "url": "https://open.spotify.com/track/1c37TNRJERzT5zZQEjLnjh"
@@ -31148,7 +31170,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 204560,
       "name": "See you again",
       "url": "https://open.spotify.com/track/0MdAEI3KPiwzpXDQQzvMAp"
@@ -32426,7 +32448,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 191546,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/3o6qjtaCLvfvmbOwBADtQA"
@@ -33080,7 +33102,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 277525,
       "name": "Stand Clear Of The Closing Doors",
       "url": "https://open.spotify.com/track/2PWBk4JVbNzKYnYU6llOXf"
@@ -33120,7 +33142,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 219780,
       "name": "Standing at the Altar",
       "url": "https://open.spotify.com/track/740tWsllt99upfwFNhhWEb"
@@ -38074,7 +38096,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 226341,
       "name": "ur Love",
       "url": "https://open.spotify.com/track/01W5WozKg4erCEN7PNQZar"
@@ -38498,7 +38520,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 250430,
       "name": "Vitamin D (All Out)",
       "url": "https://open.spotify.com/track/4Ip6XHE0xgoAYuAH4UMZn0"
@@ -40216,7 +40238,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 212596,
       "name": "With The Winds of Change",
       "url": "https://open.spotify.com/track/7MduS4nv4lLVLEOxtqtfVm"
@@ -41102,7 +41124,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 182622,
       "name": "You Don't Wanna Leave it Alone",
       "url": "https://open.spotify.com/track/5CeBqKJKkZtllzY5FaMPdd"

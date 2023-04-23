@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-685 songs - 1 day 12 hr 19 min
+686 songs - 1 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Amerika](https://open.spotify.com/track/1hY8fmJv09fIDFh8Tnz4SS) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Amerika](https://open.spotify.com/album/44IWjhudWo6wXlU9kpSCv8) | 4:53 | 2022-06-16 | 2022-07-12 |
 | [And The Oscar Goes To](https://open.spotify.com/track/6M3fZyQynCjyInsOk0ePW4) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [And The Oscar Goes To](https://open.spotify.com/album/193B7SpZ5AOyiYLutUz313) | 2:48 | 2023-03-16 |  |
 | [Andas](https://open.spotify.com/track/6six34mEJ75TVaPcKeeHrC) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Andas](https://open.spotify.com/album/3pdIAffaj2U6tXnXLGA70Y) | 3:30 | 2021-12-16 | 2022-03-11 |
+| [Andas in andas ut](https://open.spotify.com/track/7tHkIqI9XU8qCfLHIzl0pp) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Andas in andas ut](https://open.spotify.com/album/4Hy5SVsOUpO5ggDl3xOyen) | 2:36 | 2023-04-20 |  |
 | [Angel](https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Angel](https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU) | 3:39 | 2022-07-28 |  |
 | [Aniara](https://open.spotify.com/track/2etg8kht5wOz5BBWNCW7pv) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Jag fortsätter glömma](https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW) | 4:49 | 2022-05-30 | 2023-03-25 |
 | [Ansvar \(feat\. Eye N'I\)](https://open.spotify.com/track/04s4HwrYbwCVFGLpUOqQlu) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Eye N'I](https://open.spotify.com/artist/5NnyV6RNHKNEqZcS4tZl4Y) | [Ansvar \(feat\. Eye N'I\)](https://open.spotify.com/album/4eJhP9tP0wiyjV9KPO9sNc) | 2:55 | 2022-06-30 | 2022-11-18 |
@@ -459,7 +460,7 @@
 | [Piller](https://open.spotify.com/track/3xZ690zBbgyUX7vwZhCrQv) | [Klara & Jag](https://open.spotify.com/artist/2X2m34XTofjWhhW0Wnya5k) | [I stadens famn](https://open.spotify.com/album/6QKW1QYSFKgwGD0ajHRvNm) | 3:20 | 2022-05-12 | 2022-07-23 |
 | [Piller](https://open.spotify.com/track/5O7wcEKtYa8T7aAPPYEK4B) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Piller](https://open.spotify.com/album/4e12w2ks3KmvLjodwRN7W1) | 3:48 | 2021-12-16 | 2022-02-19 |
 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 | 2021-12-16 | 2022-03-11 |
-| [Policeman](https://open.spotify.com/track/26RmJET3Qbk9hMJWG89lVs) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Policeman](https://open.spotify.com/album/1wK2qJAZACswet6W4Id2ft) | 3:33 | 2022-06-02 |  |
+| [Policeman](https://open.spotify.com/track/26RmJET3Qbk9hMJWG89lVs) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Policeman](https://open.spotify.com/album/1wK2qJAZACswet6W4Id2ft) | 3:33 | 2022-06-02 | 2023-04-23 |
 | [Poppade en till](https://open.spotify.com/track/5QR4fCF91oBMMdiH0xJDvk) | [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [Poppade en till](https://open.spotify.com/album/1KkYv6Q0yrGehzyZm0tAGJ) | 3:29 | 2023-01-27 | 2023-03-28 |
 | [Poppis Visa](https://open.spotify.com/track/1TV02N2DgCdHMFCkES06m1) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [PART TWO](https://open.spotify.com/album/50r1BRsfeBhwmlCH2l4N1j) | 3:15 | 2022-05-20 | 2022-11-11 |
 | [Precious Cargo](https://open.spotify.com/track/1mcDSDrKxkDYJ3At0K5VpU) | [Mimmi Bangoura](https://open.spotify.com/artist/2gbswy57P0Qof7Ti7rlOEI) | [Precious Cargo](https://open.spotify.com/album/65BYiMcbsbO8ZUdlMKltgV) | 2:55 | 2021-12-16 | 2022-03-28 |

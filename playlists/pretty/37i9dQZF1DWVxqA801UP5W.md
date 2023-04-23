@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,040 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,123 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 40 | [Boyfriend \- Tiësto Remix](https://open.spotify.com/track/3LfCdPrgeIikpAoHuMsN3b) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Boyfriend \(Tiësto Remix\)](https://open.spotify.com/album/4x7whh3CrAeZ5fF7WdraNN) | 2:57 |
 | 41 | [Hate Me \- R3HAB Remix](https://open.spotify.com/track/3iJeF2izF1QcpCgUc97BLl) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Hate Me \(R3HAB Remix\)](https://open.spotify.com/album/6e6RVFWdZaoTiLAZOCMnps) | 3:23 |
 | 42 | [You & I \- Emily Nash Remix](https://open.spotify.com/track/6Mxaum98mQ7PySB9jvunYL) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy), [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [You & I \(Emily Nash Remix\)](https://open.spotify.com/album/6fRRqRFnCivghMKQG6yHZz) | 2:52 |
-| 43 | [Skank All Night \(You Wot, You Wot\)](https://open.spotify.com/track/0gAHzuT4ekkbMAfscfCQXB) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Skank All Night \(You Wot, You Wot\)](https://open.spotify.com/album/328mrxymT5lIZ74ls25Ze6) | 2:44 |
-| 44 | [Don't Start Now \- Kungs Remix](https://open.spotify.com/track/4cqoZl61mIxLMak6gFCSIo) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Don't Start Now \(Remixes\)](https://open.spotify.com/album/4bFD3e4YDki1tu4EQCfSdt) | 3:36 |
+| 43 | [Don't Start Now \- Kungs Remix](https://open.spotify.com/track/4cqoZl61mIxLMak6gFCSIo) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Don't Start Now \(Remixes\)](https://open.spotify.com/album/4bFD3e4YDki1tu4EQCfSdt) | 3:36 |
+| 44 | [Skank All Night \(You Wot, You Wot\)](https://open.spotify.com/track/0gAHzuT4ekkbMAfscfCQXB) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Skank All Night \(You Wot, You Wot\)](https://open.spotify.com/album/328mrxymT5lIZ74ls25Ze6) | 2:44 |
 | 45 | [Sour Candy \(with BLACKPINK\) \- Shygirl & Mura Masa Remix](https://open.spotify.com/track/56kudbKiRjWCwiAS3FRHCL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 3:45 |
 | 46 | [Here \- Madism Remix](https://open.spotify.com/track/3aB0xS45shndxNnvfhpEEz) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Here \(Madism Remix\)](https://open.spotify.com/album/5zr53yPoCvQmyyTrDWVncs) | 3:00 |
 | 47 | [Save Room For Us \(Remix\)](https://open.spotify.com/track/0W7rLXul6bBP5uAkBXxQhE) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C) | [Save Room For Us \(Remix\)](https://open.spotify.com/album/6g5pWr4B5gwxjQjFCv84pW) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 49 | [See Nobody \- Papa Zeus Remix](https://open.spotify.com/track/3Gp6FC72peOtfhkwoFdCKE) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq), [Hardy Caprio](https://open.spotify.com/artist/7FqkRutc4zWMrnEAUv3Xwd), [Papa Zeus](https://open.spotify.com/artist/34Q1USAO0pv4gNxcnOKNav) | [See Nobody \(Papa Zeus Remix\)](https://open.spotify.com/album/2btLzMTnxlHsDxZ3DZwxRO) | 2:55 |
 | 50 | [Better Days \- Galantis Remix](https://open.spotify.com/track/1kYNaMuGXWWrXW8KbZ4uXF) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Better Days \(Remixes\)](https://open.spotify.com/album/13dDSW9xyUVLBPaClCXEyJ) | 3:01 |
 
-Snapshot ID: `MTY4MTMwMzYxNCwwMDAwMDAwMDIzYjFiNzRlODU4OWU4Zjc1MmM3MDA5MDgyM2MyMzQy`
+Snapshot ID: `MTY4MTMwMzYxNCwwMDAwMDAwMDE0YWQ0ZDRiY2JiYWEyOTE3ZjBkODlhMzRiM2Y1ODYy`

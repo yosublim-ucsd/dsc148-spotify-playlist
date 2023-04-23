@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu?si=itNd_E4-R-aBCcg_lkeFWQ\" > Sut\u00e9 Iwar</a> ",
-  "num_followers": 18296,
+  "num_followers": 18335,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA2OTYzOCwwMDAwMDAwMGMxZGJkZmZmNjNiOWEwMjdmYzMwZjcwNjk3YzUzMDc5",
+  "snapshot_id": "MTY4MjA2OTYzOCwwMDAwMDAwMDViM2I2YTgxYzIyN2UyM2U4YzYxOGY3ZWMxMTQxZmFm",
   "tracks": [
     {
       "added_at": "2023-04-21 09:33:58",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-04-21 09:33:58",
       "album": {
+        "name": "Pot Of Stew",
+        "url": "https://open.spotify.com/album/7wSOzsCfac5crudnU3ne8O"
+      },
+      "artists": [
+        {
+          "name": "Erigga",
+          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
+        }
+      ],
+      "duration_ms": 108066,
+      "name": "Pot Of Stew",
+      "url": "https://open.spotify.com/track/5Q1k767YrKyEMiDBjXYEnd"
+    },
+    {
+      "added_at": "2023-04-21 09:33:58",
+      "album": {
         "name": "Bando Diaries",
         "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 158298,
       "name": "Bando Diaries",
       "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
-    },
-    {
-      "added_at": "2023-04-21 09:33:58",
-      "album": {
-        "name": "Pot Of Stew",
-        "url": "https://open.spotify.com/album/7wSOzsCfac5crudnU3ne8O"
-      },
-      "artists": [
-        {
-          "name": "Erigga",
-          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
-        }
-      ],
-      "duration_ms": 108066,
-      "name": "Pot Of Stew",
-      "url": "https://open.spotify.com/track/5Q1k767YrKyEMiDBjXYEnd"
     },
     {
       "added_at": "2023-04-21 09:33:58",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-04-21 09:33:58",
       "album": {
+        "name": "MIDLIFE CRISIS / WYDTM",
+        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "duration_ms": 131478,
+      "name": "MIDLIFE CRISIS",
+      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
+    },
+    {
+      "added_at": "2023-04-21 09:33:58",
+      "album": {
         "name": "Soundtrack To The Good Life",
         "url": "https://open.spotify.com/album/5JMesY6i8fM1d4Cg10NqYY"
       },
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2023-04-21 09:33:58",
       "album": {
-        "name": "Blessed Sinner",
-        "url": "https://open.spotify.com/album/015Ci9KJFaVbvorl31nEv8"
-      },
-      "artists": [
-        {
-          "name": "Rord Kelly",
-          "url": "https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR"
-        }
-      ],
-      "duration_ms": 178599,
-      "name": "Blessed Sinner",
-      "url": "https://open.spotify.com/track/66fLV81N2fPV5XSaZn459U"
-    },
-    {
-      "added_at": "2023-04-21 09:33:58",
-      "album": {
         "name": "Sex Over Love (Deluxe Edition)",
         "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
       },
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-04-21 09:33:58",
       "album": {
-        "name": "MIDLIFE CRISIS / WYDTM",
-        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
+        "name": "Blessed Sinner",
+        "url": "https://open.spotify.com/album/015Ci9KJFaVbvorl31nEv8"
       },
       "artists": [
         {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+          "name": "Rord Kelly",
+          "url": "https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR"
         }
       ],
-      "duration_ms": 131478,
-      "name": "MIDLIFE CRISIS",
-      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
+      "duration_ms": 178599,
+      "name": "Blessed Sinner",
+      "url": "https://open.spotify.com/track/66fLV81N2fPV5XSaZn459U"
     },
     {
       "added_at": "2023-04-21 09:33:58",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-04-21 09:33:58",
       "album": {
+        "name": "YPSZN3",
+        "url": "https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "duration_ms": 200833,
+      "name": "Silent Mode",
+      "url": "https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ"
+    },
+    {
+      "added_at": "2023-04-21 09:33:58",
+      "album": {
         "name": "Omo X 100",
         "url": "https://open.spotify.com/album/2gakmjz9n1lsRSZdue5xUi"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 238857,
       "name": "Tycoon",
       "url": "https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba"
-    },
-    {
-      "added_at": "2023-04-21 09:33:58",
-      "album": {
-        "name": "YPSZN3",
-        "url": "https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 200833,
-      "name": "Silent Mode",
-      "url": "https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ"
     },
     {
       "added_at": "2023-04-21 09:33:58",

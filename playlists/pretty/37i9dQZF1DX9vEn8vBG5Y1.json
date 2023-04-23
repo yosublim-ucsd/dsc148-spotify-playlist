@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2000s. Cover: Kelly Clarkson.",
-  "num_followers": 139400,
+  "num_followers": 139562,
   "original_name": "00s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA3NzE5MCwwMDAwMDAwMDcyNTFmMmY2YTRkNGQxN2Y5OTQ4MmRmNDY2YzU2NWVm",
+  "snapshot_id": "MTY3NDA3NzE5MCwwMDAwMDAwMDc1NTI5ZDUyMmRjZDgwYjc4OWFmZTg3MzhhZGNmMDMw",
   "tracks": [
     {
       "added_at": "2023-01-18 21:26:30",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "The Fray",
-        "url": "https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 241853,
-      "name": "You Found Me",
-      "url": "https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Eye To The Telescope",
         "url": "https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 201706,
       "name": "Suddenly I See",
       "url": "https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "The Fray",
+        "url": "https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 241853,
+      "name": "You Found Me",
+      "url": "https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Dead Letters",
-        "url": "https://open.spotify.com/album/1J9W7Fkg34vdOVa8gR7dx7"
-      },
-      "artists": [
-        {
-          "name": "The Rasmus",
-          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
-        }
-      ],
-      "duration_ms": 257920,
-      "name": "In the Shadows",
-      "url": "https://open.spotify.com/track/1fr92Vupmcs2vgLMFVQ7rd"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "All I Ever Wanted",
         "url": "https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 211493,
       "name": "My Life Would Suck Without You",
       "url": "https://open.spotify.com/track/4Dm32oO01YpIubCHaAtKkN"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "Dead Letters",
+        "url": "https://open.spotify.com/album/1J9W7Fkg34vdOVa8gR7dx7"
+      },
+      "artists": [
+        {
+          "name": "The Rasmus",
+          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
+        }
+      ],
+      "duration_ms": 257920,
+      "name": "In the Shadows",
+      "url": "https://open.spotify.com/track/1fr92Vupmcs2vgLMFVQ7rd"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 308933,
-      "name": "Thank You For Loving Me",
-      "url": "https://open.spotify.com/track/577MNC3o3L0lNIzx9abqOk"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Hero (feat. Josey Scott)",
         "url": "https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 200480,
       "name": "Hero (feat. Josey Scott)",
       "url": "https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 308933,
+      "name": "Thank You For Loving Me",
+      "url": "https://open.spotify.com/track/577MNC3o3L0lNIzx9abqOk"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Under The Iron Sea",
-        "url": "https://open.spotify.com/album/02Ird1pnGUdA6ruy87cxVa"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 240386,
-      "name": "Nothing In My Way",
-      "url": "https://open.spotify.com/track/7falOwHJ9MjskdcNehIh79"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Have A Nice Day",
         "url": "https://open.spotify.com/album/3VfBy3QX5peTfME0UxzZ2P"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 229106,
       "name": "Have A Nice Day",
       "url": "https://open.spotify.com/track/06Zz2l7cVTCTgCNDe1bnEF"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "Under The Iron Sea",
+        "url": "https://open.spotify.com/album/02Ird1pnGUdA6ruy87cxVa"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 240386,
+      "name": "Nothing In My Way",
+      "url": "https://open.spotify.com/track/7falOwHJ9MjskdcNehIh79"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 198973,
+      "name": "Behind These Hazel Eyes",
+      "url": "https://open.spotify.com/track/0AKAxdNkwq9ZxRdW1DN9zW"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
         "name": "Hard Candy",
         "url": "https://open.spotify.com/album/50oL8ADjfT0n9gVoMpDwBy"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 225573,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/4O4dhPrjcw7GSLNafNydmb"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 198973,
-      "name": "Behind These Hazel Eyes",
-      "url": "https://open.spotify.com/track/0AKAxdNkwq9ZxRdW1DN9zW"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Daughtry",
-        "url": "https://open.spotify.com/album/7MEQdKzqoG2QJYcT2XEKsW"
-      },
-      "artists": [
-        {
-          "name": "Daughtry",
-          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
-        }
-      ],
-      "duration_ms": 204853,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/7mXmxXLAnsvXKt4Q37KoMI"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Under Rug Swept",
         "url": "https://open.spotify.com/album/0kKfmdca8GY7bDWFWtY801"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 269400,
       "name": "Hands Clean",
       "url": "https://open.spotify.com/track/2LVxvGhl2U5p2ql2ujc6vZ"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "Daughtry",
+        "url": "https://open.spotify.com/album/7MEQdKzqoG2QJYcT2XEKsW"
+      },
+      "artists": [
+        {
+          "name": "Daughtry",
+          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+        }
+      ],
+      "duration_ms": 204853,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/7mXmxXLAnsvXKt4Q37KoMI"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Coming To Terms",
-        "url": "https://open.spotify.com/album/3UEZrwx6H0nszMN2g15JoD"
-      },
-      "artists": [
-        {
-          "name": "Carolina Liar",
-          "url": "https://open.spotify.com/artist/0OuSnRyi1OkLPkR4AqzJwi"
-        }
-      ],
-      "duration_ms": 240466,
-      "name": "Show Me What I'm Looking For",
-      "url": "https://open.spotify.com/track/2h8iXIwEdEnQywhFC4q5e5"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Sugar Ray",
         "url": "https://open.spotify.com/album/7rq2iwU4TVxeZJbR4Gb2ht"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 217853,
       "name": "When It's Over - David Kahne Main",
       "url": "https://open.spotify.com/track/5ZsPy9wHH733NlU6c4v2Hi"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "Coming To Terms",
+        "url": "https://open.spotify.com/album/3UEZrwx6H0nszMN2g15JoD"
+      },
+      "artists": [
+        {
+          "name": "Carolina Liar",
+          "url": "https://open.spotify.com/artist/0OuSnRyi1OkLPkR4AqzJwi"
+        }
+      ],
+      "duration_ms": 240466,
+      "name": "Show Me What I'm Looking For",
+      "url": "https://open.spotify.com/track/2h8iXIwEdEnQywhFC4q5e5"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Underclass Hero",
-        "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
+        "name": "It's Not Over....The Hits So Far",
+        "url": "https://open.spotify.com/album/6hn4a3mFIw3FTUIVQWGSEE"
       },
       "artists": [
         {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+          "name": "Daughtry",
+          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
         }
       ],
-      "duration_ms": 181613,
-      "name": "So Long Goodbye",
-      "url": "https://open.spotify.com/track/3Burs1JDgHMNXZ7wAMwe8u"
+      "duration_ms": 207213,
+      "name": "Life After You",
+      "url": "https://open.spotify.com/track/70NGpcNvhI2hqonWNAETIu"
     },
     {
       "added_at": "2023-01-18 21:26:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > All the indescribable feelings that music gives you\. cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,032,827 likes - 104 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,032,967 likes - 104 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

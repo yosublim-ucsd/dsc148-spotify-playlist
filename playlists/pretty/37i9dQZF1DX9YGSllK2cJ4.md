@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 
 > Take comfort in these sad piano songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,195 likes - 193 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,277 likes - 193 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 37 | [Ocean of Time](https://open.spotify.com/track/1Nl1QXLWVSG9nYuIjJqcwU) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Ocean of Time](https://open.spotify.com/album/1OCYSqcbCFM58zstXftvUy) | 2:15 |
 | 38 | [Gestalt](https://open.spotify.com/track/5RqRq2sgnvkwjossuNUrjp) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [Gestalt](https://open.spotify.com/album/6ObPArNQyZa5fECTKmNaxg) | 2:55 |
 | 39 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 |
-| 40 | [Hidden](https://open.spotify.com/track/3i6TkLVyl4EiKSnuP1RrjG) | [Little Rose](https://open.spotify.com/artist/2yDY3r3GJAxtK5xhndIhVI) | [Hidden](https://open.spotify.com/album/4bVpBfSsEpKxvHwuVHPBJm) | 2:34 |
+| 40 | [Hidden](https://open.spotify.com/track/3i6TkLVyl4EiKSnuP1RrjG) | [Little Rose](https://open.spotify.com/artist/0dPYM8VKhqSSus8q5KfzMZ) | [Hidden](https://open.spotify.com/album/4bVpBfSsEpKxvHwuVHPBJm) | 2:34 |
 | 41 | [Andante](https://open.spotify.com/track/0fNGCAEPZdUC54hT9lq3vm) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [Andante](https://open.spotify.com/album/1dVKEClXUepZ5CSQJRChUd) | 2:55 |
 | 42 | [A Sky On Fire](https://open.spotify.com/track/2VpTN9X4LJjVOkGmLFY6Fh) | [Isora Hill](https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM) | [A Sky On Fire](https://open.spotify.com/album/2oCftHwKeRxgnEshiubb4K) | 1:54 |
 | 43 | [Torpet](https://open.spotify.com/track/59klDnqZsQo97d309brDWo) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Torpet](https://open.spotify.com/album/5rPbW7u8C1923rk0d4eI2M) | 2:01 |

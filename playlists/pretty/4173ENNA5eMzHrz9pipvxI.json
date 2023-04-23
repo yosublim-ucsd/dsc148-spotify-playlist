@@ -1,6 +1,6 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover:  The Stickmen Project",
-  "num_followers": 120489,
+  "num_followers": 120513,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
@@ -11,17 +11,21 @@
     {
       "added_at": "2023-04-21 01:52:09",
       "album": {
-        "name": "Not Over Yet",
+        "name": "Not Over Yet (feat. Grace Grundy)",
         "url": "https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6"
       },
       "artists": [
         {
           "name": "The Stickmen Project",
           "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        },
+        {
+          "name": "Grace Grundy",
+          "url": "https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD"
         }
       ],
       "duration_ms": 161904,
-      "name": "Not Over Yet",
+      "name": "Not Over Yet (feat. Grace Grundy)",
       "url": "https://open.spotify.com/track/6IefsGUYN0q8BBrDq1EhiC"
     },
     {
@@ -228,12 +232,12 @@
       },
       "artists": [
         {
-          "name": "VINO",
-          "url": "https://open.spotify.com/artist/6bTyu2orY0Gs9dvEcTqmxZ"
-        },
-        {
           "name": "ASHER SWISSA",
           "url": "https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM"
+        },
+        {
+          "name": "VINO",
+          "url": "https://open.spotify.com/artist/6bTyu2orY0Gs9dvEcTqmxZ"
         },
         {
           "name": "Erez Netz",

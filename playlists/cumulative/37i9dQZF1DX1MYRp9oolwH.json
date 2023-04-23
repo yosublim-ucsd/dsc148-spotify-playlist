@@ -1525,6 +1525,32 @@
     },
     {
       "album": {
+        "name": "Naa Tholi Chinnari Premo (From \"Month Of Madhu\")",
+        "url": "https://open.spotify.com/album/6n7Aal3Aw1V5jffuFBGSxN"
+      },
+      "artists": [
+        {
+          "name": "Achu",
+          "url": "https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Aditi Bhavaraju",
+          "url": "https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287741,
+      "name": "Naa Tholi Chinnari Premo",
+      "url": "https://open.spotify.com/track/2rbAtAj9tMcALtA28zaYBu"
+    },
+    {
+      "album": {
         "name": "Nachavule Nachavule (From \"Virupaksha\")",
         "url": "https://open.spotify.com/album/698JO1ewdhmDLUKr09hY3V"
       },

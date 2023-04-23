@@ -4,7 +4,7 @@
 
 > From across the globe\. New Songwriters on the horizon\. Cover: <a href="spotify:playlist:37i9dQZF1EFLbEbClSreiP">Ines Dunn</a>
 
-43 songs - 2 hr 16 min
+44 songs - 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Black Panther](https://open.spotify.com/track/5qN4HFkapdAOV94XPryVof) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Black Panther The Album Music From And Inspired By](https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR) | 2:10 | 2023-02-24 |  |
 | [Bloody Samaritan](https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:07 | 2022-05-27 |  |
 | [Body Better](https://open.spotify.com/track/6pn5dBDetgg4rojbzIxH7v) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Body Better](https://open.spotify.com/album/1M3Zej93KusKy0Ty1IBVQI) | 3:09 | 2023-04-02 |  |
-| [Bon Voyage](https://open.spotify.com/track/4fwuSvvoxTClVM4QYQGA6C) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Bon Voyage](https://open.spotify.com/album/4RNIu9tWTSeyO7FvDet105) | 2:47 | 2022-11-11 |  |
+| [Bon Voyage](https://open.spotify.com/track/4Okyax7cvVoNfoBKYr2RA0) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 2:47 | 2023-04-02 |  |
+| [Bon Voyage](https://open.spotify.com/track/4fwuSvvoxTClVM4QYQGA6C) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Bon Voyage](https://open.spotify.com/album/4RNIu9tWTSeyO7FvDet105) | 2:47 | 2022-11-11 | 2023-04-23 |
 | [Como Antes](https://open.spotify.com/track/1dyDEkhjJ0T3Qmbio4LpqX) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Como Antes](https://open.spotify.com/album/4dXvaYgS1eGbZCMa41lSrr) | 2:46 | 2022-09-12 |  |
 | [Con Toda La Actitud](https://open.spotify.com/track/6J6UUsCUZTDEnfsRjlx204) | [Simón León](https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0), [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [Con Toda La Actitud](https://open.spotify.com/album/03GA53bmUWFhRW7j0V0wuO) | 2:31 | 2022-09-12 |  |
 | [Cosas Que Dijimos De Hacer](https://open.spotify.com/track/4vmRgsol9d9ktaY5aoNFUf) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [Cosas Que Dijimos De Hacer](https://open.spotify.com/album/5iINJtcXFVeqb4FuYl2pXH) | 2:55 | 2022-07-22 |  |

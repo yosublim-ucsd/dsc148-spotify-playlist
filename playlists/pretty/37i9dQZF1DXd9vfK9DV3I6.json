@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 244265,
+  "num_followers": 244525,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0NjYzOCwwMDAwMDAwMDIyY2M5ZTEwZmJlMTBkMGNmYmRkYTRkNjhlMzZkNjEx",
+  "snapshot_id": "MTY4MjA0NjYzOCwwMDAwMDAwMDc3ZWY4NmQ5MGM5N2ZkMTFiNDAzMWUzODczN2UzOTQw",
   "tracks": [
     {
       "added_at": "2023-04-21 03:10:38",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-04-21 03:10:38",
       "album": {
-        "name": "Silent",
-        "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Silent",
-      "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
-    },
-    {
-      "added_at": "2023-04-21 03:10:38",
-      "album": {
         "name": "Enta Omry Remix 2022",
         "url": "https://open.spotify.com/album/3ogwyixr9RhtwjdGZsxFaG"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 278546,
       "name": "Enta Omry Remix 2022",
       "url": "https://open.spotify.com/track/25fyr0qieh9nz00Lbld8IQ"
+    },
+    {
+      "added_at": "2023-04-21 03:10:38",
+      "album": {
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
     },
     {
       "added_at": "2023-04-21 03:10:38",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-04-21 03:10:38",
       "album": {
-        "name": "Amelia",
-        "url": "https://open.spotify.com/album/5cYxKr8O3AnJs17QeF6M9t"
-      },
-      "artists": [
-        {
-          "name": "Efemero",
-          "url": "https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D"
-        }
-      ],
-      "duration_ms": 193684,
-      "name": "Amelia",
-      "url": "https://open.spotify.com/track/6QFe6vJhkqlHEgejKYc992"
-    },
-    {
-      "added_at": "2023-04-21 03:10:38",
-      "album": {
         "name": "Le Beirut",
         "url": "https://open.spotify.com/album/7MQQTBdzZwwH5nlLR4AlXX"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 431520,
       "name": "Le Beirut",
       "url": "https://open.spotify.com/track/7dpKMbwkvZUV9JKFpjaxp0"
+    },
+    {
+      "added_at": "2023-04-21 03:10:38",
+      "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/5cYxKr8O3AnJs17QeF6M9t"
+      },
+      "artists": [
+        {
+          "name": "Efemero",
+          "url": "https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D"
+        }
+      ],
+      "duration_ms": 193684,
+      "name": "Amelia",
+      "url": "https://open.spotify.com/track/6QFe6vJhkqlHEgejKYc992"
     },
     {
       "added_at": "2023-04-21 03:10:38",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-04-21 03:10:38",
       "album": {
+        "name": "Eldorado",
+        "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "duration_ms": 381639,
+      "name": "Eldorado",
+      "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
+    },
+    {
+      "added_at": "2023-04-21 03:10:38",
+      "album": {
         "name": "Nu Vreau",
         "url": "https://open.spotify.com/album/0ee7ZElrlFTTPATQV9OUJZ"
       },
@@ -715,22 +731,6 @@
     {
       "added_at": "2023-04-21 03:10:38",
       "album": {
-        "name": "Eldorado",
-        "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
-      },
-      "artists": [
-        {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
-        }
-      ],
-      "duration_ms": 381639,
-      "name": "Eldorado",
-      "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
-    },
-    {
-      "added_at": "2023-04-21 03:10:38",
-      "album": {
         "name": "Amare",
         "url": "https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K"
       },
@@ -743,26 +743,6 @@
       "duration_ms": 410526,
       "name": "Euphrates",
       "url": "https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej"
-    },
-    {
-      "added_at": "2023-04-21 03:10:38",
-      "album": {
-        "name": "Love of You (The Violin Song)",
-        "url": "https://open.spotify.com/album/5enimcWdUNJu7ijU0MSHaW"
-      },
-      "artists": [
-        {
-          "name": "Embody",
-          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
-        },
-        {
-          "name": "Brianna",
-          "url": "https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ"
-        }
-      ],
-      "duration_ms": 160575,
-      "name": "Love of You (The Violin Song)",
-      "url": "https://open.spotify.com/track/5WUl5natjFTSqSljddJqqZ"
     },
     {
       "added_at": "2023-04-21 03:10:38",
@@ -791,6 +771,26 @@
     {
       "added_at": "2023-04-21 03:10:38",
       "album": {
+        "name": "Love of You (The Violin Song)",
+        "url": "https://open.spotify.com/album/5enimcWdUNJu7ijU0MSHaW"
+      },
+      "artists": [
+        {
+          "name": "Embody",
+          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
+        },
+        {
+          "name": "Brianna",
+          "url": "https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ"
+        }
+      ],
+      "duration_ms": 160575,
+      "name": "Love of You (The Violin Song)",
+      "url": "https://open.spotify.com/track/5WUl5natjFTSqSljddJqqZ"
+    },
+    {
+      "added_at": "2023-04-21 03:10:38",
+      "album": {
         "name": "Arabic Soul",
         "url": "https://open.spotify.com/album/5GyMokgjZwjk458LtSaMfH"
       },
@@ -811,26 +811,6 @@
     {
       "added_at": "2023-04-21 03:10:38",
       "album": {
-        "name": "Il Mattino",
-        "url": "https://open.spotify.com/album/5ApVBQ8xCqiVF2NwRqNsSM"
-      },
-      "artists": [
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        },
-        {
-          "name": "Anis Karek",
-          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
-        }
-      ],
-      "duration_ms": 331206,
-      "name": "Il Mattino",
-      "url": "https://open.spotify.com/track/0Bdi3cLtju5gRmwZJ54jUy"
-    },
-    {
-      "added_at": "2023-04-21 03:10:38",
-      "album": {
         "name": "Ya Ghayeb",
         "url": "https://open.spotify.com/album/6XJCSklPxNl8IJZyPOrq3F"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 217211,
       "name": "Ya Ghayeb",
       "url": "https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt"
+    },
+    {
+      "added_at": "2023-04-21 03:10:38",
+      "album": {
+        "name": "Il Mattino",
+        "url": "https://open.spotify.com/album/5ApVBQ8xCqiVF2NwRqNsSM"
+      },
+      "artists": [
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        },
+        {
+          "name": "Anis Karek",
+          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
+        }
+      ],
+      "duration_ms": 331206,
+      "name": "Il Mattino",
+      "url": "https://open.spotify.com/track/0Bdi3cLtju5gRmwZJ54jUy"
     },
     {
       "added_at": "2023-04-21 03:10:38",
@@ -935,26 +935,6 @@
     {
       "added_at": "2023-04-21 03:10:38",
       "album": {
-        "name": "Dahlia Girl",
-        "url": "https://open.spotify.com/album/4M63EciFwh9GYBuxH9G9Cv"
-      },
-      "artists": [
-        {
-          "name": "Deeperise",
-          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
-        },
-        {
-          "name": "Eneli",
-          "url": "https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "Dahlia Girl",
-      "url": "https://open.spotify.com/track/1ibXekJRK6oIiQTJyujkts"
-    },
-    {
-      "added_at": "2023-04-21 03:10:38",
-      "album": {
         "name": "Sophonisbe",
         "url": "https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 381818,
       "name": "Souq",
       "url": "https://open.spotify.com/track/0siPnJlxtppFRimIQs2jG0"
+    },
+    {
+      "added_at": "2023-04-21 03:10:38",
+      "album": {
+        "name": "Dahlia Girl",
+        "url": "https://open.spotify.com/album/4M63EciFwh9GYBuxH9G9Cv"
+      },
+      "artists": [
+        {
+          "name": "Deeperise",
+          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+        },
+        {
+          "name": "Eneli",
+          "url": "https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "Dahlia Girl",
+      "url": "https://open.spotify.com/track/1ibXekJRK6oIiQTJyujkts"
     },
     {
       "added_at": "2023-04-21 03:10:38",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2023-04-21 03:10:38",
       "album": {
-        "name": "Prophecies of the Ancient Future",
-        "url": "https://open.spotify.com/album/1KQT7GzCu1bnpRnTPyMvbH"
-      },
-      "artists": [
-        {
-          "name": "Lemurian",
-          "url": "https://open.spotify.com/artist/4L3uym0nDz6ziBGFOmUCDu"
-        },
-        {
-          "name": "Bora Uzer",
-          "url": "https://open.spotify.com/artist/71WhzQzCSYszOnrfCEbZge"
-        }
-      ],
-      "duration_ms": 320045,
-      "name": "Sensiz",
-      "url": "https://open.spotify.com/track/6psUMUMTW8I726NIyK9jD5"
-    },
-    {
-      "added_at": "2023-04-21 03:10:38",
-      "album": {
         "name": "Che Danestam (Seventh Soul Remix)",
         "url": "https://open.spotify.com/album/0To3grEONUEhU3NhuZwKkS"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 139415,
       "name": "Sakaratou Achiqin",
       "url": "https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb"
+    },
+    {
+      "added_at": "2023-04-21 03:10:38",
+      "album": {
+        "name": "Prophecies of the Ancient Future",
+        "url": "https://open.spotify.com/album/1KQT7GzCu1bnpRnTPyMvbH"
+      },
+      "artists": [
+        {
+          "name": "Lemurian",
+          "url": "https://open.spotify.com/artist/4L3uym0nDz6ziBGFOmUCDu"
+        },
+        {
+          "name": "Bora Uzer",
+          "url": "https://open.spotify.com/artist/71WhzQzCSYszOnrfCEbZge"
+        }
+      ],
+      "duration_ms": 320045,
+      "name": "Sensiz",
+      "url": "https://open.spotify.com/track/6psUMUMTW8I726NIyK9jD5"
     },
     {
       "added_at": "2023-04-21 03:10:38",
@@ -1443,30 +1443,6 @@
     {
       "added_at": "2023-04-21 03:10:38",
       "album": {
-        "name": "The Fire",
-        "url": "https://open.spotify.com/album/4GUph9nDll1opaq0SnxgBZ"
-      },
-      "artists": [
-        {
-          "name": "Frauble",
-          "url": "https://open.spotify.com/artist/3NLk43BYwIw4UnPFevn1r1"
-        },
-        {
-          "name": "Behmer",
-          "url": "https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9"
-        },
-        {
-          "name": "Galwaro",
-          "url": "https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD"
-        }
-      ],
-      "duration_ms": 176164,
-      "name": "The Fire",
-      "url": "https://open.spotify.com/track/2YJNrFuG3LfjQQz8vodNtz"
-    },
-    {
-      "added_at": "2023-04-21 03:10:38",
-      "album": {
         "name": "Salat Ala Nabina",
         "url": "https://open.spotify.com/album/2kGHqtp9WEhUeYrCQjjzDq"
       },
@@ -1499,6 +1475,30 @@
       "duration_ms": 484644,
       "name": "Hebele Hubulu",
       "url": "https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt"
+    },
+    {
+      "added_at": "2023-04-21 03:10:38",
+      "album": {
+        "name": "The Fire",
+        "url": "https://open.spotify.com/album/4GUph9nDll1opaq0SnxgBZ"
+      },
+      "artists": [
+        {
+          "name": "Frauble",
+          "url": "https://open.spotify.com/artist/3NLk43BYwIw4UnPFevn1r1"
+        },
+        {
+          "name": "Behmer",
+          "url": "https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9"
+        },
+        {
+          "name": "Galwaro",
+          "url": "https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD"
+        }
+      ],
+      "duration_ms": 176164,
+      "name": "The Fire",
+      "url": "https://open.spotify.com/track/2YJNrFuG3LfjQQz8vodNtz"
     },
     {
       "added_at": "2023-04-21 03:10:38",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-04-21 03:10:38",
       "album": {
+        "name": "Izvor",
+        "url": "https://open.spotify.com/album/7zfqQQ0mzEutNin8LTuW71"
+      },
+      "artists": [
+        {
+          "name": "Tebra",
+          "url": "https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "Izvor",
+      "url": "https://open.spotify.com/track/4z7tWC9yzgcCD23hY8uQaV"
+    },
+    {
+      "added_at": "2023-04-21 03:10:38",
+      "album": {
         "name": "Salam",
         "url": "https://open.spotify.com/album/6PpgtyminvgtcWIsGsdbzA"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 273502,
       "name": "Rhim - Jad Halal Remix",
       "url": "https://open.spotify.com/track/34aFMrV57fY6pxyNRsDNon"
-    },
-    {
-      "added_at": "2023-04-21 03:10:38",
-      "album": {
-        "name": "Izvor",
-        "url": "https://open.spotify.com/album/7zfqQQ0mzEutNin8LTuW71"
-      },
-      "artists": [
-        {
-          "name": "Tebra",
-          "url": "https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "Izvor",
-      "url": "https://open.spotify.com/track/4z7tWC9yzgcCD23hY8uQaV"
     },
     {
       "added_at": "2023-04-21 03:10:38",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2023-04-21 03:10:38",
       "album": {
+        "name": "Asha",
+        "url": "https://open.spotify.com/album/4LPRpbAdUmN4tIWTwvVxgd"
+      },
+      "artists": [
+        {
+          "name": "Furkan Sert",
+          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
+        }
+      ],
+      "duration_ms": 252857,
+      "name": "Asha",
+      "url": "https://open.spotify.com/track/0lLe5dTgMti1f8fvGCuFcm"
+    },
+    {
+      "added_at": "2023-04-21 03:10:38",
+      "album": {
         "name": "The Universe of Buddha Bar",
         "url": "https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm"
       },
@@ -1879,22 +1895,6 @@
       "duration_ms": 355886,
       "name": "Lbechra",
       "url": "https://open.spotify.com/track/5zTSZWYD9bIhrpeJbt42sp"
-    },
-    {
-      "added_at": "2023-04-21 03:10:38",
-      "album": {
-        "name": "Asha",
-        "url": "https://open.spotify.com/album/4LPRpbAdUmN4tIWTwvVxgd"
-      },
-      "artists": [
-        {
-          "name": "Furkan Sert",
-          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
-        }
-      ],
-      "duration_ms": 252857,
-      "name": "Asha",
-      "url": "https://open.spotify.com/track/0lLe5dTgMti1f8fvGCuFcm"
     },
     {
       "added_at": "2023-04-21 03:10:38",
@@ -1939,18 +1939,22 @@
     {
       "added_at": "2023-04-21 03:10:38",
       "album": {
-        "name": "Roots LP",
-        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
+        "name": "Hella EP",
+        "url": "https://open.spotify.com/album/62UbFjkqOna0gmlRU1eGFT"
       },
       "artists": [
         {
-          "name": "Mr. ID",
-          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+          "name": "Zigan Aldi",
+          "url": "https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1"
+        },
+        {
+          "name": "Joy Tyson",
+          "url": "https://open.spotify.com/artist/6okZ1Ydus7Xt6jlAv5d5Es"
         }
       ],
-      "duration_ms": 178153,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
+      "duration_ms": 318617,
+      "name": "Hella feat. Joy Tyson",
+      "url": "https://open.spotify.com/track/3huk8B1aNp9txmknHOzsq2"
     }
   ],
   "unique_name": "mosaic",

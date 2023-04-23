@@ -4,12 +4,13 @@
 
 > This is Baby Tate\. The essential tracks, all in one playlist.
 
-72 songs - 3 hr 31 min
+73 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4Lifers](https://open.spotify.com/track/2UeLzlhYSfNUdHDqJTNoYV) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 2:20 | 2022-10-28 | 2022-11-28 |
 | [Ain’t No Love \(feat\. 2 Chainz\)](https://open.spotify.com/track/69TzD9PfuWekKoak6pAdcV) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Ain’t No Love \(feat\. 2 Chainz\)](https://open.spotify.com/album/4zVXUfWSP8ndHCQUW1a6HI) | 3:04 | 2022-10-28 |  |
+| [ATM \(ft\. Baby Tate\)](https://open.spotify.com/track/0MdSTZKOylxdSzSKVwOgUL) | [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [ATM \(ft\. Baby Tate\)](https://open.spotify.com/album/3V6buZJlxOu0smUddpIak2) | 2:40 | 2023-04-22 |  |
 | [B.O.M.B.S.](https://open.spotify.com/track/4D8KWoUe3oTaQSQq928X7B) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [B.O.M.B.S.](https://open.spotify.com/album/26Mu53kDQHQ5wIjUhpiMhY) | 3:13 | 2022-10-28 | 2023-02-09 |
 | [Bad Lil Bish \(feat\. Baby Tate & Black Boe\)](https://open.spotify.com/track/6pZFQmfGK8NnU0xrvK42ng) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Black Boe](https://open.spotify.com/artist/0H6CjdCp9GMNoFgMVALJOk) | [Better Than Drugs](https://open.spotify.com/album/1Z7KnOiOsVLzW2qkgYatxY) | 3:09 | 2022-10-28 |  |
 | [Baecation](https://open.spotify.com/track/34ukbJprybxATIMVL5ku4x) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [After The Rain: Deluxe](https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe) | 3:02 | 2022-10-28 |  |

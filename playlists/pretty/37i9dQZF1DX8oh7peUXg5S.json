@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: S\u00edlvia P\u00e9rez Cruz.",
-  "num_followers": 287693,
+  "num_followers": 287799,
   "original_name": "Cantautoras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAyODAwMCwwMDAwMDAwMGVhOWI3ZTU5ZDZjZWNkMzllY2M4YmI4YTYwMmNlYjY1",
+  "snapshot_id": "MTY4MjAyODAwMCwwMDAwMDAwMDE0NmM3YTg3Y2UxNzVkMTYxMGJhMzNjNmEwNjQ5MjQw",
   "tracks": [
     {
       "added_at": "2023-04-20 22:00:00",
@@ -399,18 +399,22 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Vida Loca",
-        "url": "https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa"
+        "name": "Las Consecuencias",
+        "url": "https://open.spotify.com/album/2oOUx7YZnwBm4tshQbhdyO"
       },
       "artists": [
         {
-          "name": "Francisco C\u00e9spedes",
-          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        },
+        {
+          "name": "Tulsa",
+          "url": "https://open.spotify.com/artist/2gtVnbrVpID8VrotZPOg2a"
         }
       ],
-      "duration_ms": 194480,
-      "name": "Vida Loca",
-      "url": "https://open.spotify.com/track/4w9o81y0dXFKgraEwfEgTz"
+      "duration_ms": 233960,
+      "name": "Frente a frente (feat. Tulsa)",
+      "url": "https://open.spotify.com/track/5kFkQoKmsuRZjjS4GEaxNj"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -435,22 +439,18 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Las Consecuencias",
-        "url": "https://open.spotify.com/album/2oOUx7YZnwBm4tshQbhdyO"
+        "name": "Vida Loca",
+        "url": "https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa"
       },
       "artists": [
         {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        },
-        {
-          "name": "Tulsa",
-          "url": "https://open.spotify.com/artist/2gtVnbrVpID8VrotZPOg2a"
+          "name": "Francisco C\u00e9spedes",
+          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
         }
       ],
-      "duration_ms": 233960,
-      "name": "Frente a frente (feat. Tulsa)",
-      "url": "https://open.spotify.com/track/5kFkQoKmsuRZjjS4GEaxNj"
+      "duration_ms": 194480,
+      "name": "Vida Loca",
+      "url": "https://open.spotify.com/track/4w9o81y0dXFKgraEwfEgTz"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Eco",
-        "url": "https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 217146,
-      "name": "Todo se transforma",
-      "url": "https://open.spotify.com/track/4YEU9N2XAE0DfUwxWI5ijA"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Arena En Los Bolsillos",
         "url": "https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 246240,
       "name": "Pajaros de Barro",
       "url": "https://open.spotify.com/track/4B6ko7lt1sUtyFzBDF4yfK"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Eco",
+        "url": "https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 217146,
+      "name": "Todo se transforma",
+      "url": "https://open.spotify.com/track/4YEU9N2XAE0DfUwxWI5ijA"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Romancero",
-        "url": "https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ"
-      },
-      "artists": [
-        {
-          "name": "La Bien Querida",
-          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
-        }
-      ],
-      "duration_ms": 184480,
-      "name": "De Momento Abril",
-      "url": "https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "50 Palos",
         "url": "https://open.spotify.com/album/0U70gjCcYSvuBtgRbHAXnB"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 185743,
       "name": "Humo",
       "url": "https://open.spotify.com/track/64b4H2swBOouj8J0AZ4buE"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Romancero",
+        "url": "https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ"
+      },
+      "artists": [
+        {
+          "name": "La Bien Querida",
+          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
+        }
+      ],
+      "duration_ms": 184480,
+      "name": "De Momento Abril",
+      "url": "https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "No soy de aqu\u00ed",
-        "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
-      },
-      "artists": [
-        {
-          "name": "Alberto Cortez",
-          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "No soy de aqu\u00ed",
-      "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Auterretratos",
         "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 157466,
       "name": "Las Cuatro y Diez",
       "url": "https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "No soy de aqu\u00ed",
+        "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
+      },
+      "artists": [
+        {
+          "name": "Alberto Cortez",
+          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "No soy de aqu\u00ed",
+      "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Los Mares De China",
-        "url": "https://open.spotify.com/album/6BrFNm0d7rZZCnKYHxm4LA"
-      },
-      "artists": [
-        {
-          "name": "Zenet",
-          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
-        }
-      ],
-      "duration_ms": 186801,
-      "name": "So\u00f1ar Contigo",
-      "url": "https://open.spotify.com/track/5PyDjh950FnFbibipV2RoS"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "12 segundos de oscuridad",
         "url": "https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 188106,
       "name": "La vida es m\u00e1s compleja de lo que parece",
       "url": "https://open.spotify.com/track/0KF9s5HhXY9om1zpyo6Uox"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Los Mares De China",
+        "url": "https://open.spotify.com/album/6BrFNm0d7rZZCnKYHxm4LA"
+      },
+      "artists": [
+        {
+          "name": "Zenet",
+          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
+        }
+      ],
+      "duration_ms": 186801,
+      "name": "So\u00f1ar Contigo",
+      "url": "https://open.spotify.com/track/5PyDjh950FnFbibipV2RoS"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "La Llamada",
+        "url": "https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21"
+      },
+      "artists": [
+        {
+          "name": "Ismael Serrano",
+          "url": "https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34"
+        }
+      ],
+      "duration_ms": 442680,
+      "name": "Ahora Que Te Encuentro",
+      "url": "https://open.spotify.com/track/6hCgPpGpAgV6ExrOj9MGXH"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "Gracias",
         "url": "https://open.spotify.com/album/0rU0glgG267Tm44RkfJawd"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 231706,
       "name": "Que yo no lo sab\u00eda (feat. Antonio Vega)",
       "url": "https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "La Llamada",
-        "url": "https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21"
-      },
-      "artists": [
-        {
-          "name": "Ismael Serrano",
-          "url": "https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34"
-        }
-      ],
-      "duration_ms": 442680,
-      "name": "Ahora Que Te Encuentro",
-      "url": "https://open.spotify.com/track/6hCgPpGpAgV6ExrOj9MGXH"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1403,6 +1403,26 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "al llegar (feat. Jorge Drexler)",
+        "url": "https://open.spotify.com/album/7mMDhocLaic7E94svff9JM"
+      },
+      "artists": [
+        {
+          "name": "Salvador Sobral",
+          "url": "https://open.spotify.com/artist/0GfYO21pue5u0sVEYk9HZO"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 215749,
+      "name": "al llegar (feat. Jorge Drexler)",
+      "url": "https://open.spotify.com/track/1BHvRyi5xRpGV2AJkwaLO1"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "Apuntes Sobre Mi Paso por el Invierno",
         "url": "https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b"
       },
@@ -1415,22 +1435,6 @@
       "duration_ms": 241937,
       "name": "Un D\u00eda de Estos",
       "url": "https://open.spotify.com/track/0eRrshPPfWfo1sbzdsGQLq"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "Vestida De Nit",
-        "url": "https://open.spotify.com/album/3N1e8LMjed69YN7GNrGfWA"
-      },
-      "artists": [
-        {
-          "name": "S\u00edlvia P\u00e9rez Cruz",
-          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
-        }
-      ],
-      "duration_ms": 158230,
-      "name": "Mechita",
-      "url": "https://open.spotify.com/track/3GADIvwz2JHNq0d6bHfZFG"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1451,6 +1455,22 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "Vestida De Nit",
+        "url": "https://open.spotify.com/album/3N1e8LMjed69YN7GNrGfWA"
+      },
+      "artists": [
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "duration_ms": 158230,
+      "name": "Mechita",
+      "url": "https://open.spotify.com/track/3GADIvwz2JHNq0d6bHfZFG"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "Miguel Hernandez",
         "url": "https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S"
       },
@@ -1463,26 +1483,6 @@
       "duration_ms": 170906,
       "name": "Para la Libertad",
       "url": "https://open.spotify.com/track/2MbBeecWBAEHAYEC37Gk6s"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "al llegar (feat. Jorge Drexler)",
-        "url": "https://open.spotify.com/album/7mMDhocLaic7E94svff9JM"
-      },
-      "artists": [
-        {
-          "name": "Salvador Sobral",
-          "url": "https://open.spotify.com/artist/0GfYO21pue5u0sVEYk9HZO"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 215749,
-      "name": "al llegar (feat. Jorge Drexler)",
-      "url": "https://open.spotify.com/track/1BHvRyi5xRpGV2AJkwaLO1"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Algo contigo",
-        "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Algo contigo",
-      "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "B\u00e1sico",
         "url": "https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 237600,
       "name": "Lucha de gigantes - Live",
       "url": "https://open.spotify.com/track/0WWSqjiV8czuWNQ05C5aXl"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Algo contigo",
+        "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Algo contigo",
+      "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Qu\u00e9 bonito",
-        "url": "https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Qu\u00e9 bonito",
-      "url": "https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Auterretratos",
         "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 172000,
       "name": "Pasaba por Aqui",
       "url": "https://open.spotify.com/track/6XhZIUzlCGABARgSgZby2v"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Qu\u00e9 bonito",
+        "url": "https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Qu\u00e9 bonito",
+      "url": "https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t"
     }
   ],
   "unique_name": "Cantautoras",

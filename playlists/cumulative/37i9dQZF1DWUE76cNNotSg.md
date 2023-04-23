@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-337 songs - 22 hr 10 min
+338 songs - 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Dawntown](https://open.spotify.com/track/1CaOMLZXTQxif7TVD9ieSd) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Non Binary Place](https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u) | 3:08 | 2020-12-22 | 2022-07-29 |
 | [Diamond Veins \(feat\. Sarah Rebecca\)](https://open.spotify.com/track/5G0oVoL309pqsvGDzhMOwx) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e), [Sarah Rebecca](https://open.spotify.com/artist/58obmxGKVKCenZAkACSMgJ) | [Olympic](https://open.spotify.com/album/6rkKOTP3oBns0nR6mfHOsH) | 4:00 | 2023-04-12 |  |
 | [Do U Want Me](https://open.spotify.com/track/2eTLxOZY8owibk7b2iETad) | [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6) | [Too Real](https://open.spotify.com/album/2i0WQgxSckOe7XEF1XtiCz) | 3:44 | 2020-12-22 | 2022-07-27 |
-| [Don't Turn Around](https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/1nJ6X5PejqyhbHpG9Ycf5N) | 2:51 | 2020-12-22 |  |
+| [Don't Turn Around](https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/1nJ6X5PejqyhbHpG9Ycf5N) | 2:51 | 2020-12-22 | 2023-04-23 |
 | [Don't Turn Around](https://open.spotify.com/track/6FzZMJGhI5JA5nDVM87s5w) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/4DJijRH1nTtLoQt8s8gUI3) | 2:51 | 2020-12-22 | 2022-04-17 |
 | [Don't You Like It?](https://open.spotify.com/track/6u0TL1wqLwuPDAjZeB95R4) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Don't You Like It?](https://open.spotify.com/album/77EPq9lvOSVw7zKgqwv2QV) | 3:46 | 2022-05-13 | 2022-06-04 |
 | [Done It All Wrongh](https://open.spotify.com/track/2y3rFDdYs6AKLrUJYtiCrX) | [Andrew Applepie](https://open.spotify.com/artist/5BYcwjrQth7em7maAt0yKE) | [Regress](https://open.spotify.com/album/3jNs26bwkz3e4yIcoSFoYO) | 3:27 | 2020-12-22 | 2022-04-24 |
@@ -179,6 +179,7 @@
 | [Magic](https://open.spotify.com/track/3QEYYJTIEd6Tv0HCrgHvri) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cyclorama](https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC) | 6:48 | 2022-05-13 | 2022-06-04 |
 | [Manzana](https://open.spotify.com/track/03nyiU9gpCQSywZIGK2LGM) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Manzana](https://open.spotify.com/album/28Z3NNHpbtL0aqhAWLuIIb) | 3:25 | 2022-07-22 | 2022-07-24 |
 | [Matter of Time](https://open.spotify.com/track/1TW9J0imyVBMihuwHqJ5sf) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Alex Maher](https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek) | [Matter of Time](https://open.spotify.com/album/621O6kH4iJa75aFZQTQPPI) | 4:00 | 2022-06-03 | 2023-04-20 |
+| [Matter of Time](https://open.spotify.com/track/3IuxYZUQ6J9yfqcVtk5h6b) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Alex Maher](https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek) | [Matter of Time](https://open.spotify.com/album/0RgsG1zTZxKqOTsRrHWqDh) | 4:00 | 2023-03-20 |  |
 | [Matter of Time \(feat\. Alex Maher\)](https://open.spotify.com/track/4BmPTpXnae3IwwXAcK0byT) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Alex Maher](https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek) | [Matter of Time \(feat\. Alex Maher\)](https://open.spotify.com/album/5f1PM9xUhWpVNmNdN3xj6S) | 4:00 | 2022-05-13 | 2022-12-01 |
 | [Maybes \- Edit](https://open.spotify.com/track/7Fg0NsDZWTnQBVE9OYph1S) | [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6), [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Maybes](https://open.spotify.com/album/5aUZlLCDlVFmIiMIYfILbN) | 3:48 | 2020-12-22 | 2022-04-21 |
 | [Me and Michael \- OMMA Remix](https://open.spotify.com/track/1QfYAtf7D9W4ssgcyTXfb5) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [OMMA](https://open.spotify.com/artist/3RzOXdGDUkVd6brfAVKFDp) | [Me and Michael \(OMMA Remix\)](https://open.spotify.com/album/1Jl15UxIs9r2aPEezCLH3e) | 5:03 | 2020-12-22 | 2022-04-20 |

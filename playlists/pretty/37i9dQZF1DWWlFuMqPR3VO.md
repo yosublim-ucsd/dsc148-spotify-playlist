@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 
 > From the jazzy, up\-beat New Orleans blues to the slower, zydeco and Cajun\-influenced Swamp blues\. Cover: Kenny Neal
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,323 likes - 40 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,343 likes - 40 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 | 35 | [Brown Skin Woman](https://open.spotify.com/track/4t348UYDuSGPqVkmU1Dt9P) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [New Orleans Street Singer](https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu) | 3:47 |
 | 36 | [I've Grown So Ugly](https://open.spotify.com/track/0PvKsGeztxZYy4bpeAASHM) | [Robert Pete Williams](https://open.spotify.com/artist/2FUdiUbyZmIznvKtZcecib) | [Free Again](https://open.spotify.com/album/0dKhAtXVPeUZZxebx81HMD) | 2:47 |
 | 37 | [Blues Stew](https://open.spotify.com/track/0M2HxpH3HARjQbpt1pH6K6) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ) | [Walking On Fire](https://open.spotify.com/album/3YsGA6EPreplix3nyYEWCI) | 3:34 |
-| 38 | [Gonna Stick To You Baby](https://open.spotify.com/track/5rTs9t774oyGMOlEgAOgz6) | [Lonesome Sundown](https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ) | [I'm A Mojo Man: The Best Of The Excello Singles](https://open.spotify.com/album/6ubAM1dJPDqNTDjgIssTha) | 2:06 |
-| 39 | [Steal Away](https://open.spotify.com/track/2bEuccJk2nIN7Ltlk2Ao5r) | [Walter Wolfman Washington](https://open.spotify.com/artist/60TxtNQBbDL8HKL0b6Gm3T) | [My Future Is My Past](https://open.spotify.com/album/5KvFzpKxckyhy7QkuebuY0) | 4:14 |
+| 38 | [Steal Away](https://open.spotify.com/track/2bEuccJk2nIN7Ltlk2Ao5r) | [Walter Wolfman Washington](https://open.spotify.com/artist/60TxtNQBbDL8HKL0b6Gm3T) | [My Future Is My Past](https://open.spotify.com/album/5KvFzpKxckyhy7QkuebuY0) | 4:14 |
+| 39 | [Gonna Stick To You Baby](https://open.spotify.com/track/5rTs9t774oyGMOlEgAOgz6) | [Lonesome Sundown](https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ) | [I'm A Mojo Man: The Best Of The Excello Singles](https://open.spotify.com/album/6ubAM1dJPDqNTDjgIssTha) | 2:06 |
 | 40 | [The Party's Still Going On](https://open.spotify.com/track/69vUnyBpWRNHf0MrlgqsQL) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Roadside Attractions](https://open.spotify.com/album/6FfHCnE5eMvEa3e1TnHnTj) | 3:25 |
 
-Snapshot ID: `MTY1MDYwMDA2MCwwMDAwMDAwMGFiMzBjNWQ0ZTlmYmM3N2RlOWI1YzYxOWRmNjMzM2Fi`
+Snapshot ID: `MTY1MDYwMDA2MCwwMDAwMDAwMDE4ODc1OWEzZTA4ZmM1ZGEyY2Y1OWIxZjJmZjhkYjA1`

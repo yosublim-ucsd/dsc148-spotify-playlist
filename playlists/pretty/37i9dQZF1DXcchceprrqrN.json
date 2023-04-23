@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 32911,
+  "num_followers": 33041,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDY5YTI1N2Y1MzA3NDYwZWFiNDlmMjEyZTYxYzk1Zjhj",
+  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDU0MGVmYjIzZjdhODU2MmE4ODM4ODJlMmU3YzM4NWVj",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Opening Night",
-        "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
-      },
-      "artists": [
-        {
-          "name": "Scowl",
-          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
-        }
-      ],
-      "duration_ms": 127383,
-      "name": "Opening Night",
-      "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Cop Car",
         "url": "https://open.spotify.com/album/1IGzUKAM596CnZN0zApFmd"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 183554,
       "name": "Cop Car",
       "url": "https://open.spotify.com/track/7DLCgotDOZZyiW4cuL1sgn"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
+      },
+      "artists": [
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "duration_ms": 127383,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Applause",
-        "url": "https://open.spotify.com/album/6QOI3b1Lj3eaSzBwVir0s4"
-      },
-      "artists": [
-        {
-          "name": "Liily",
-          "url": "https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3"
-        }
-      ],
-      "duration_ms": 164826,
-      "name": "Applause",
-      "url": "https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Bass Drum of Death",
         "url": "https://open.spotify.com/album/5CZ0hRrtBQifqQ1GhHuNgH"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 151578,
       "name": "The Same",
       "url": "https://open.spotify.com/track/6feuIpYR8HYHvryrczwxT7"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Applause",
+        "url": "https://open.spotify.com/album/6QOI3b1Lj3eaSzBwVir0s4"
+      },
+      "artists": [
+        {
+          "name": "Liily",
+          "url": "https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3"
+        }
+      ],
+      "duration_ms": 164826,
+      "name": "Applause",
+      "url": "https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd"
     },
     {
       "added_at": "2023-03-31 04:00:00",

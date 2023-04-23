@@ -4,7 +4,7 @@
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-58 songs - 2 hr 40 min
+59 songs - 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Did It](https://open.spotify.com/track/6bRWVymynuhmr8kcpA5SCo) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [EC2](https://open.spotify.com/album/7x4F4nXWjtsM1mCKY8ljJb) | 1:56 | 2022-11-22 | 2022-12-02 |
 | [Do Better](https://open.spotify.com/track/0EH29Rmc5ub2b759ArNxlW) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Do Better](https://open.spotify.com/album/6kD8b41MqeJzWIRJxVHDxL) | 2:28 | 2022-10-28 |  |
 | [Everything BoZ](https://open.spotify.com/track/1WnKJJKMtnmPdvFGOxcRVZ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [!](https://open.spotify.com/album/11vLnrFGWQRbonR6wFuCf8) | 3:25 | 2022-10-28 |  |
+| [Flip A Switch\. \(feat\. Coi Leray\) \- Remix](https://open.spotify.com/track/72b7GzsnUAjsk5I56hLkjp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Flip A Switch\. \(feat\. Coi Leray\) \[Remix\]](https://open.spotify.com/album/6il1IQ2A2yvZaGPgcqXDBd) | 3:21 | 2023-04-22 |  |
 | [Fly Sh!t](https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Fly Sh!t](https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj) | 2:15 | 2022-10-28 |  |
 | [Freaky Deaky \(feat\. Coi Leray\)](https://open.spotify.com/track/3IAgfIjsfZKRYYYrwGor4x) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Freaky Deaky \(feat\. Coi Leray\)](https://open.spotify.com/album/3GyfqrZa0Rac2wKkOtRpxg) | 2:43 | 2022-10-28 | 2022-12-03 |
 | [Gimmy Licky](https://open.spotify.com/track/7qKAeMy5AB8qw7S3vKx8Rc) | [Rek Banga](https://open.spotify.com/artist/4xB6xmaqMX7ZAnyZFzdCeu), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Gimmy Licky](https://open.spotify.com/album/360E7b1SscAVvvS6O7N7tn) | 2:25 | 2022-10-28 | 2023-03-26 |
@@ -47,7 +48,7 @@
 | [Ocean Prime \(feat\. Coi Leray\)](https://open.spotify.com/track/17lzuZ03enjlAQ8RHBx3aN) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [Fat Niggas Need Love Too](https://open.spotify.com/album/5OtBIO7dEq9iupw2BbIS9D) | 2:30 | 2022-10-28 |  |
 | [Okay Yeah!](https://open.spotify.com/track/2MyBXnGc9dK06pceZaNIul) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Okay Yeah!](https://open.spotify.com/album/5hOKJshWZ2bLaVg0qdnVaA) | 1:40 | 2022-10-28 | 2023-02-28 |
 | [Oou Oou \(feat\. Coi Leray\)](https://open.spotify.com/track/64lcp0LwdQLvxxsgYaGOqd) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Murder Made Me](https://open.spotify.com/album/0KNl6GATG5LULCHTCQpSgZ) | 2:22 | 2022-10-28 |  |
-| [Options \(with Coi Leray & Wale\) \- Remix](https://open.spotify.com/track/1O110m9QKRYpE14dfqHzg5) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Options \(with Coi Leray & Wale\) \[Remix\]](https://open.spotify.com/album/3aU4rpw0vnlJF8wqzAlhcI) | 3:13 | 2022-10-28 |  |
+| [Options \(with Coi Leray & Wale\) \- Remix](https://open.spotify.com/track/1O110m9QKRYpE14dfqHzg5) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Options \(with Coi Leray & Wale\) \[Remix\]](https://open.spotify.com/album/3aU4rpw0vnlJF8wqzAlhcI) | 3:13 | 2022-10-28 | 2023-04-23 |
 | [Overthinking \(with H.E.R.\)](https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:10 | 2022-10-28 |  |
 | [Paranoid \(with Polo G\)](https://open.spotify.com/track/5nY13Y42kWZ2o39R9zM3mF) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:27 | 2022-10-28 |  |
 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2022-12-01 |  |

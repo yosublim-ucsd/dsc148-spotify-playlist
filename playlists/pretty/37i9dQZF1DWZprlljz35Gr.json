@@ -1,12 +1,12 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 7163,
+  "num_followers": 7173,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTY2MCwwMDAwMDAwMDE1ZDFiMTA4N2E4MzkzN2E4ZTM1ZTFlZWVkOGQ2YmY5",
+  "snapshot_id": "MTY3OTAyNTY2MCwwMDAwMDAwMDQ1N2EzNGU0ZjhmYTUwOGRjY2RlYjgzNGIxOWJhM2I3",
   "tracks": [
     {
       "added_at": "2023-03-17 04:01:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Delta Disco",
-        "url": "https://open.spotify.com/album/3SDDZMhIy357UN63KjpJP8"
-      },
-      "artists": [
-        {
-          "name": "Mississippi Big Beat",
-          "url": "https://open.spotify.com/artist/430DMjWZpbtg2tt64FynYH"
-        }
-      ],
-      "duration_ms": 255840,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/3NcNF2tvTqGgnHkhqNK8cX"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "The Good Girl Blues",
         "url": "https://open.spotify.com/album/1M46LnviAQPlUxo1BKrF7G"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 167973,
       "name": "Swamp Thang",
       "url": "https://open.spotify.com/track/1Y3xPsuvx57Jtck6U92SNj"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Delta Disco",
+        "url": "https://open.spotify.com/album/3SDDZMhIy357UN63KjpJP8"
+      },
+      "artists": [
+        {
+          "name": "Mississippi Big Beat",
+          "url": "https://open.spotify.com/artist/430DMjWZpbtg2tt64FynYH"
+        }
+      ],
+      "duration_ms": 255840,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/3NcNF2tvTqGgnHkhqNK8cX"
     }
   ],
   "unique_name": "Bluestronica",

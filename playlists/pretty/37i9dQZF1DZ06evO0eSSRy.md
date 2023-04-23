@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 
 > This is PÆRISH\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 488 likes - 16 songs - 59 min 38 sec
+[Spotify](https://open.spotify.com/user/spotify) - 491 likes - 16 songs - 59 min 38 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 | 15 | [Mike + Susan](https://open.spotify.com/track/4wpfVf67akZfMUhwybFNml) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 4:01 |
 | 16 | [Adriatic](https://open.spotify.com/track/4tVdXk9zmlm4koU9Jfwo1y) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 2:57 |
 
-Snapshot ID: `MjgwMzQ5ODIsMDAwMDAwMDA5ZDE1Y2QxMWFjODMxOTVlNjA0OGU0YzRhZWI3MjA5Mg==`
+Snapshot ID: `MjgwMzYwOTcsMDAwMDAwMDBmMTA3YjYxYjg3OGVjMzllZTdhNmRjMTA5NDViMWQxZQ==`

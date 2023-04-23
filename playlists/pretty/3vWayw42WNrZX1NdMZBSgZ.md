@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Marshmello, Farruko
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,467 likes - 505 songs - 1 day 3 hr 21 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,466 likes - 505 songs - 1 day 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

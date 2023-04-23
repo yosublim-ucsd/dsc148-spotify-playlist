@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Q & Baby Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 996,103 likes - 130 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 996,208 likes - 130 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 2 | [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:07 |
 | 3 | [No Feelings](https://open.spotify.com/track/7KQPINPzT8M3ynLnWhl45M) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [No Feelings](https://open.spotify.com/album/4JUDavAIny5Dww4tFD712w) | 2:49 |
 | 4 | [Brandy Joint](https://open.spotify.com/track/5sDIe7tx9ZenBPTH4cgb33) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Daniel Hex](https://open.spotify.com/artist/05vHPIc91srHZA2JhBQzeX) | [What Had Happened Was… \(Deluxe Edition\)](https://open.spotify.com/album/3zfBRt5rWmUm8ZCdZ4aDlD) | 2:51 |
-| 5 | [Gimmie A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 |
+| 5 | [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 |
 | 6 | [The Gym](https://open.spotify.com/track/6lKIAhKMaGiLJkqAdbz6vB) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [The Gym](https://open.spotify.com/album/1aGB1YZ8nU8AciTJwe9uks) | 3:19 |
 | 7 | [Young Boy Problems](https://open.spotify.com/track/5RkVymJxVbc8oy0OnaIjQo) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Young Boy Problems](https://open.spotify.com/album/0KwxesDI97ypNuvm1KZoOF) | 2:49 |
 | 8 | [Show Her The Way](https://open.spotify.com/track/05JIFzIzIFqS9Gms1b4TUr) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Show Her The Way](https://open.spotify.com/album/5l7H2sueEPAHGGly08PkJS) | 4:02 |

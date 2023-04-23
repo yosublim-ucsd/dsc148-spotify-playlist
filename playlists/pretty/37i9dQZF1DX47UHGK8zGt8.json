@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax.",
-  "num_followers": 428004,
+  "num_followers": 428299,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTU4NTkwOSwwMDAwMDAwMDI5NDdjZDIzNTIwZTA5MGEzNGY3NmMxNTdhZWQyMmQz",
+  "snapshot_id": "MTY4MTU4NTkwOSwwMDAwMDAwMDE2ODQ2ODE1NGMxYjBmMmVhOGUxZTk2MjkwNDUwYzlk",
   "tracks": [
     {
       "added_at": "2023-04-15 19:11:49",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-04-15 19:11:49",
       "album": {
-        "name": "C\u00e9u Azul",
-        "url": "https://open.spotify.com/album/6h1YceFakmfDMsTqVDNp1N"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 208219,
-      "name": "C\u00e9u Azul",
-      "url": "https://open.spotify.com/track/2GvbK34eLArbttr0bXRu4l"
-    },
-    {
-      "added_at": "2023-04-15 19:11:49",
-      "album": {
         "name": "4 da manh\u00e3",
         "url": "https://open.spotify.com/album/4pbbrNIhUdWxLYmd46lhVl"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 216428,
       "name": "4 da manh\u00e3",
       "url": "https://open.spotify.com/track/5xVJU6DJHnmHnbbKS56yCC"
+    },
+    {
+      "added_at": "2023-04-15 19:11:49",
+      "album": {
+        "name": "C\u00e9u Azul",
+        "url": "https://open.spotify.com/album/6h1YceFakmfDMsTqVDNp1N"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 208219,
+      "name": "C\u00e9u Azul",
+      "url": "https://open.spotify.com/track/2GvbK34eLArbttr0bXRu4l"
     },
     {
       "added_at": "2023-04-15 19:11:49",
@@ -327,6 +327,26 @@
     {
       "added_at": "2023-04-15 19:11:49",
       "album": {
+        "name": "Ana",
+        "url": "https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 189002,
+      "name": "N\u00e3o Te Largo, N\u00e3o Te Troco",
+      "url": "https://open.spotify.com/track/4aOjUCwa65AQ0uYoeQZS6Z"
+    },
+    {
+      "added_at": "2023-04-15 19:11:49",
+      "album": {
         "name": "Brasileiro",
         "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
       },
@@ -367,22 +387,6 @@
     {
       "added_at": "2023-04-15 19:11:49",
       "album": {
-        "name": "Sinto Muito",
-        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
-      },
-      "artists": [
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 205945,
-      "name": "Bixinho",
-      "url": "https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb"
-    },
-    {
-      "added_at": "2023-04-15 19:11:49",
-      "album": {
         "name": "O Que Voc\u00ea Quer Saber de Verdade",
         "url": "https://open.spotify.com/album/0NW6Z4aNFiaj2pN83d1fyg"
       },
@@ -399,22 +403,18 @@
     {
       "added_at": "2023-04-15 19:11:49",
       "album": {
-        "name": "Ana",
-        "url": "https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX"
+        "name": "Sinto Muito",
+        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
       },
       "artists": [
         {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
         }
       ],
-      "duration_ms": 189002,
-      "name": "N\u00e3o Te Largo, N\u00e3o Te Troco",
-      "url": "https://open.spotify.com/track/4aOjUCwa65AQ0uYoeQZS6Z"
+      "duration_ms": 205945,
+      "name": "Bixinho",
+      "url": "https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb"
     },
     {
       "added_at": "2023-04-15 19:11:49",
@@ -583,22 +583,18 @@
     {
       "added_at": "2023-04-15 19:11:49",
       "album": {
-        "name": "Lisboa-Madrid",
-        "url": "https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy"
+        "name": "N",
+        "url": "https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0"
       },
       "artists": [
         {
           "name": "ANAVIT\u00d3RIA",
           "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 220031,
-      "name": "Lisboa-Madrid",
-      "url": "https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E"
+      "duration_ms": 245538,
+      "name": "relic\u00e1rio",
+      "url": "https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE"
     },
     {
       "added_at": "2023-04-15 19:11:49",
@@ -643,22 +639,6 @@
     {
       "added_at": "2023-04-15 19:11:49",
       "album": {
-        "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
-        "url": "https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 176920,
-      "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
-      "url": "https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz"
-    },
-    {
-      "added_at": "2023-04-15 19:11:49",
-      "album": {
         "name": "Tribalistas",
         "url": "https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1"
       },
@@ -671,6 +651,22 @@
       "duration_ms": 171360,
       "name": "\u00c9 Voc\u00ea - 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/1yUm0iWD3rDf8dViBRpSkt"
+    },
+    {
+      "added_at": "2023-04-15 19:11:49",
+      "album": {
+        "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
+        "url": "https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 176920,
+      "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
+      "url": "https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz"
     },
     {
       "added_at": "2023-04-15 19:11:49",
@@ -707,18 +703,22 @@
     {
       "added_at": "2023-04-15 19:11:49",
       "album": {
-        "name": "N",
-        "url": "https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0"
+        "name": "Lisboa-Madrid",
+        "url": "https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy"
       },
       "artists": [
         {
           "name": "ANAVIT\u00d3RIA",
           "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 245538,
-      "name": "relic\u00e1rio",
-      "url": "https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE"
+      "duration_ms": 220031,
+      "name": "Lisboa-Madrid",
+      "url": "https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E"
     },
     {
       "added_at": "2023-04-15 19:11:49",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-04-15 19:11:49",
       "album": {
-        "name": "Maria Maria - Spotify Singles",
-        "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 143933,
-      "name": "Maria Maria - Spotify Singles",
-      "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
-    },
-    {
-      "added_at": "2023-04-15 19:11:49",
-      "album": {
         "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/077iUTcnYBAQYm4RQgEXVP"
       },
@@ -811,6 +795,22 @@
     {
       "added_at": "2023-04-15 19:11:49",
       "album": {
+        "name": "Maria Maria - Spotify Singles",
+        "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 143933,
+      "name": "Maria Maria - Spotify Singles",
+      "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
+    },
+    {
+      "added_at": "2023-04-15 19:11:49",
+      "album": {
         "name": "Transforma(dor)",
         "url": "https://open.spotify.com/album/1L7oE1Egz6lpwrrZYe92Xc"
       },
@@ -823,42 +823,6 @@
       "duration_ms": 143461,
       "name": "Transforma(dor)",
       "url": "https://open.spotify.com/track/4cX2eGG90TqhlkTFck65LZ"
-    },
-    {
-      "added_at": "2023-04-15 19:11:49",
-      "album": {
-        "name": "Estrela",
-        "url": "https://open.spotify.com/album/78XKvJXixwZoHS6Gqba5UC"
-      },
-      "artists": [
-        {
-          "name": "Sandy",
-          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
-        },
-        {
-          "name": "Lucas Lima",
-          "url": "https://open.spotify.com/artist/511AKBfXwSHIIekEKrjqab"
-        }
-      ],
-      "duration_ms": 237696,
-      "name": "Estrela",
-      "url": "https://open.spotify.com/track/4MLS1FW88HlkFK2PgPWAPA"
-    },
-    {
-      "added_at": "2023-04-15 19:11:49",
-      "album": {
-        "name": "COR",
-        "url": "https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 244386,
-      "name": "Te amar \u00e9 massa demais",
-      "url": "https://open.spotify.com/track/5PLtrIrBZytL4L11AyxOHR"
     },
     {
       "added_at": "2023-04-15 19:11:49",
@@ -883,22 +847,38 @@
     {
       "added_at": "2023-04-15 19:11:49",
       "album": {
-        "name": "Deixa Vir Do Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y"
+        "name": "COR",
+        "url": "https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC"
       },
       "artists": [
         {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        },
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
         }
       ],
-      "duration_ms": 204007,
-      "name": "Outono",
-      "url": "https://open.spotify.com/track/1oFXWGb5SWcChrzJuXXmvj"
+      "duration_ms": 244386,
+      "name": "Te amar \u00e9 massa demais",
+      "url": "https://open.spotify.com/track/5PLtrIrBZytL4L11AyxOHR"
+    },
+    {
+      "added_at": "2023-04-15 19:11:49",
+      "album": {
+        "name": "Estrela",
+        "url": "https://open.spotify.com/album/78XKvJXixwZoHS6Gqba5UC"
+      },
+      "artists": [
+        {
+          "name": "Sandy",
+          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
+        },
+        {
+          "name": "Lucas Lima",
+          "url": "https://open.spotify.com/artist/511AKBfXwSHIIekEKrjqab"
+        }
+      ],
+      "duration_ms": 237696,
+      "name": "Estrela",
+      "url": "https://open.spotify.com/track/4MLS1FW88HlkFK2PgPWAPA"
     },
     {
       "added_at": "2023-04-15 19:11:49",
@@ -915,6 +895,26 @@
       "duration_ms": 224466,
       "name": "Acalanto",
       "url": "https://open.spotify.com/track/5TTWOyGAjATPEuDiTIRd62"
+    },
+    {
+      "added_at": "2023-04-15 19:11:49",
+      "album": {
+        "name": "Um amor puro",
+        "url": "https://open.spotify.com/album/5PebzLJlsrtY3HzUTm6FQO"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "Um amor puro",
+      "url": "https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss"
     }
   ],
   "unique_name": "Manh\u00e3 Relax",

@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-957 songs - 2 day 4 hr 20 min
+958 songs - 2 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Basement](https://open.spotify.com/track/0qAGuRY2EQLbK5TM8ydzrn) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Basement](https://open.spotify.com/album/3GhxXFxMVqvbCNjULasnZh) | 3:16 | 2021-06-26 | 2021-09-04 |
 | [BB Got Me Like](https://open.spotify.com/track/75lHY2V0DN0SvRoF2BJQfn) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [BB Got Me Like](https://open.spotify.com/album/04F6eKFDiQUnVJvICSKwjV) | 2:28 | 2021-09-25 | 2021-10-05 |
 | [Be Free](https://open.spotify.com/track/3YBilqc4QBO3w3FMQRxM4G) | [Rathbone Place](https://open.spotify.com/artist/6CF3f7dEQV2oNUEUzGQwO4) | [Be Free](https://open.spotify.com/album/7MeJTbIP5TayBYdMltHFXZ) | 2:47 | 2021-09-11 | 2022-03-12 |
+| [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 | 2023-04-21 |  |
 | [Beautiful](https://open.spotify.com/track/2WtnjG1E5UlADYOiiKwj5A) | [Omnia](https://open.spotify.com/artist/0XZkeCAlpiO5qcIlAJzZaA) | [Beautiful](https://open.spotify.com/album/7MrYNkRMcNYUenCfCBH3AT) | 3:26 | 2021-05-25 | 2021-09-18 |
 | [BED \- David Guetta Festival Mix](https://open.spotify.com/track/7ft8GUKMIuFnH4lueyOTQi) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED \(David Guetta Festival Mix\)](https://open.spotify.com/album/25SO6nYRYrNwBngu5UwThd) | 3:55 | 2021-04-30 | 2021-09-18 |
 | [Believe \(feat\. Goodboys\)](https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Believe \(feat\. Goodboys\)](https://open.spotify.com/album/6OcqONrf7kWx0jE3yNI2Nx) | 3:08 | 2022-10-07 |  |
@@ -380,7 +381,7 @@
 | [I Should Be Loving You](https://open.spotify.com/track/3oa2Al3mRUn4eSBLgo1gkA) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [I Should Be Loving You](https://open.spotify.com/album/6Cfa0XaQseVyBqqUbbFU1p) | 3:28 | 2021-07-19 | 2021-10-23 |
 | [I Wanna Be There](https://open.spotify.com/track/1s69tLqsMD7T7pHvQkrTf2) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [ANML KNGDM](https://open.spotify.com/artist/2YsRLHY6KXEs9mHcM99WXS) | [I Wanna Be There](https://open.spotify.com/album/3eMCUjU3NfA9hu4Bc9T6er) | 3:14 | 2021-04-30 | 2021-07-24 |
 | [I Want It All](https://open.spotify.com/track/3oSCJeOl0XjcpNcigO9vj7) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Letters To Remember](https://open.spotify.com/album/5ewnC9DmcClqT2cqKvvNCe) | 3:11 | 2020-11-03 | 2021-05-25 |
-| [I Want You](https://open.spotify.com/track/39C3SOi6UMD9rHeXAQPNa9) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [I Want You](https://open.spotify.com/album/57XBP2FVAwf3mqByG0xiUZ) | 2:26 | 2023-02-17 |  |
+| [I Want You](https://open.spotify.com/track/39C3SOi6UMD9rHeXAQPNa9) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [I Want You](https://open.spotify.com/album/57XBP2FVAwf3mqByG0xiUZ) | 2:26 | 2023-02-17 | 2023-04-23 |
 | [I Wonder \(feat\. Shai\)](https://open.spotify.com/track/1aRdoiTy948hSqKI4bEyvJ) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Shai](https://open.spotify.com/artist/4fXKzFtrAGS3gGyM0BKoKq) | [I Wonder \(feat\. Shai\)](https://open.spotify.com/album/2vYv332gMfVpYLfi2xeVV3) | 2:38 | 2022-01-04 | 2022-04-02 |
 | [I Wouldn't Know](https://open.spotify.com/track/2UobzZv0qAgAsz01YGHVxg) | [MOLOW](https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [I Wouldn't Know](https://open.spotify.com/album/7johj2E7I1HA3cD7Rxvz0j) | 2:28 | 2021-08-07 | 2021-10-23 |
 | [I'm Back](https://open.spotify.com/track/5jA9xR3YjPBa7U91luwl96) | [RevoideN](https://open.spotify.com/artist/5bw9Y5y2Q1GlJ4AzH5eVSA), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [I'm Back](https://open.spotify.com/album/2LbVv8ozTrVD3KF5fU4Go5) | 2:27 | 2020-09-21\* | 2020-11-03 |

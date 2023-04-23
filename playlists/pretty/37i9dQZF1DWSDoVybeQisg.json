@@ -1,12 +1,12 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1079030,
+  "num_followers": 1079387,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA1ODg0NywwMDAwMDAwMDhkOGU2ODY3Nzc3ODJlY2YxYjI3YzdjZDVjYzJmMDU2",
+  "snapshot_id": "MTY3NDA1ODg0NywwMDAwMDAwMDU2YWEwODZmM2UzM2UzODY0MmVlYzE0N2I3MTk0ZGY1",
   "tracks": [
     {
       "added_at": "2023-01-18 16:20:47",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Parachute",
-        "url": "https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Things",
-          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
-        }
-      ],
-      "duration_ms": 86693,
-      "name": "The Good Mr. Square",
-      "url": "https://open.spotify.com/track/3tRFo1mXVNC5Wwrv7T8trF"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Forever Changes (2015 Remaster)",
         "url": "https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 197274,
       "name": "Alone Again Or - 2015 Remaster",
       "url": "https://open.spotify.com/track/1XuccRABkfUVB4FjSVhjL1"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Parachute",
+        "url": "https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Things",
+          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
+        }
+      ],
+      "duration_ms": 86693,
+      "name": "The Good Mr. Square",
+      "url": "https://open.spotify.com/track/3tRFo1mXVNC5Wwrv7T8trF"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
+        "name": "Fifth Dimension",
+        "url": "https://open.spotify.com/album/3dfPMayEO2G87wzXPMEvmb"
+      },
+      "artists": [
+        {
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+        }
+      ],
+      "duration_ms": 153426,
+      "name": "5D (Fifth Dimension)",
+      "url": "https://open.spotify.com/track/7jvptnW3PMozIQq4C6uJB9"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
         "name": "Tangerine Dream",
         "url": "https://open.spotify.com/album/5fJeHZxuTPxAGyJGQpGt5Z"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 242906,
       "name": "San Francisco Girls (Return Of The Native)",
       "url": "https://open.spotify.com/track/2Vio9orJlk0fFVeO0CgtA6"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
-        "name": "Fifth Dimension",
-        "url": "https://open.spotify.com/album/3dfPMayEO2G87wzXPMEvmb"
-      },
-      "artists": [
-        {
-          "name": "The Byrds",
-          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
-        }
-      ],
-      "duration_ms": 153426,
-      "name": "5D (Fifth Dimension)",
-      "url": "https://open.spotify.com/track/7jvptnW3PMozIQq4C6uJB9"
     },
     {
       "added_at": "2023-01-18 16:20:47",

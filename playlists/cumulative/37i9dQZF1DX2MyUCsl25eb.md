@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-586 songs - 1 day 10 hr 4 min
+587 songs - 1 day 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,7 +381,8 @@
 | [No Reservations](https://open.spotify.com/track/60DFlM3IXtn4y1yvbbGbfO) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l) | [No Reservations](https://open.spotify.com/album/0eG3xAfpbnkfytXoElMF8b) | 3:03 | 2023-02-03 |  |
 | [No Sleep](https://open.spotify.com/track/2pfAvgMoHLfialvMYn337d) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 3:57 | 2021-08-04 | 2022-08-06 |
 | [No Wonder](https://open.spotify.com/track/26E7c125wkzIcTSBdC8th3) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [No Wonder](https://open.spotify.com/album/6RJuDAODnxAKIkXTxNhKHx) | 3:21 | 2022-11-25 |  |
-| [Normal](https://open.spotify.com/track/0HVcO5RvFcXCqQDWrh1zL2) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Normal](https://open.spotify.com/album/4sAJ0GqWDbEVemJSjE1PZc) | 3:51 | 2023-03-10 |  |
+| [Normal](https://open.spotify.com/track/0HVcO5RvFcXCqQDWrh1zL2) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Normal](https://open.spotify.com/album/4sAJ0GqWDbEVemJSjE1PZc) | 3:51 | 2023-03-10 | 2023-04-23 |
+| [Normal](https://open.spotify.com/track/7j6r88KZPacrIqtTGO9jMG) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Red Sky](https://open.spotify.com/album/0b1Sv51qVCHVQJwv9J7UOY) | 3:51 | 2023-03-10 |  |
 | [Nostalgic](https://open.spotify.com/track/65SjaqhfKeFhmXprzlzyn4) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [ASYLUM](https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL) | 3:02 | 2021-08-04 | 2022-06-29 |
 | [Oceans & Engines](https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Oceans & Engines](https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9) | 5:36 | 2022-07-08 | 2023-02-04 |
 | [Old Bone](https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Old Bone / Trust No Man](https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q) | 3:07 | 2021-08-04 | 2022-03-31 |

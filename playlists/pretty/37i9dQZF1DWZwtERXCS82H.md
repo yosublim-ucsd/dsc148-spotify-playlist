@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 
 > Calm and quiet piano music for reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,026,520 likes - 353 songs - 15 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,026,810 likes - 353 songs - 15 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 37 | [Eclipsis](https://open.spotify.com/track/2vcdqUMFMbKYvqzBYsVZDn) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Eclipsis](https://open.spotify.com/album/58AH9ExVBQglcFuAUpIl4t) | 2:26 |
 | 38 | [Silk](https://open.spotify.com/track/32VbxbNM4X11uODmO24YYZ) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Silk](https://open.spotify.com/album/1wCZIEqsby6O7EeicgO7oG) | 1:55 |
 | 39 | [All Petals Are Gone](https://open.spotify.com/track/1Q9xea5ZIvO9P657JuGJyi) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [All Petals Are Gone](https://open.spotify.com/album/6edoDc9wMPjBXpA3F9AV3e) | 2:16 |
-| 40 | [Embers of Sorrow](https://open.spotify.com/track/0vNKQBtLVcuNlhGFXTFRdI) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB) | [Embers of Sorrow](https://open.spotify.com/album/3mqoMlMFpLFJr1j7AX1cnP) | 2:01 |
+| 40 | [Embers of Sorrow](https://open.spotify.com/track/0vNKQBtLVcuNlhGFXTFRdI) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB), [Joakim Holgersson](https://open.spotify.com/artist/58iWubOtAjZXxTSSza46Kk) | [Embers of Sorrow](https://open.spotify.com/album/3mqoMlMFpLFJr1j7AX1cnP) | 2:01 |
 | 41 | [Léopoldine](https://open.spotify.com/track/5DWI8rBs9a5fyeR35poYYm) | [Gaspar Parentau](https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ) | [Léopoldine](https://open.spotify.com/album/5IdJrTkHnazVN0mcf5gttM) | 2:45 |
 | 42 | [Somersault \- Revisited](https://open.spotify.com/track/1hpZuDKO80t1lR5BR0BaKP) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Somersault \(lO\)](https://open.spotify.com/album/33YGKrv3mjwVhAlFhz9vyQ) | 2:07 |
 | 43 | [Miért](https://open.spotify.com/track/2QO9kGSgMvPMrcARk5c6ft) | [Katona Ernesztina](https://open.spotify.com/artist/5q88YG8qotyr34n4Exhpn3) | [Miért](https://open.spotify.com/album/2AgqcKkzW68PlX3cpfuaNM) | 2:12 |

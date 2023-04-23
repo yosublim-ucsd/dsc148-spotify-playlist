@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Btrem, Derxan, Major RD, LEALL, $amuka",
-  "num_followers": 27887,
+  "num_followers": 27914,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0NjA2MCwwMDAwMDAwMDg0M2QzN2IyZDkzZGIwZjMwMjVlMmJiNDAwZjg5YmJh",
+  "snapshot_id": "MTY4MjA0NjA2MCwwMDAwMDAwMDdkMDJmODU1MzhhZGJhODIxM2RmNThiYzU4MWZhYTkz",
   "tracks": [
     {
       "added_at": "2023-04-21 03:01:00",
@@ -611,6 +611,26 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
+        "name": "COSTA QUENTE",
+        "url": "https://open.spotify.com/album/262D8mrqEGl3kNjV4n0RH8"
+      },
+      "artists": [
+        {
+          "name": "Flacko",
+          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        }
+      ],
+      "duration_ms": 166285,
+      "name": "COSTA QUENTE",
+      "url": "https://open.spotify.com/track/0Lv1yqE8zkffbocnMcY8vN"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
         "name": "Fura Bilion\u00e1rios",
         "url": "https://open.spotify.com/album/5fQq0eTv40IQzcWu4gYL7w"
       },
@@ -683,30 +703,6 @@
       "duration_ms": 188330,
       "name": "CRIME",
       "url": "https://open.spotify.com/track/6VZ4iuA1y0utK4YR9dMfhu"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
-        "name": "Lado 13 Do Mapa",
-        "url": "https://open.spotify.com/album/624lZw4mi8VgCcQpLtAoA1"
-      },
-      "artists": [
-        {
-          "name": "Feek",
-          "url": "https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "jess beats",
-          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "Lado 13 Do Mapa",
-      "url": "https://open.spotify.com/track/0JjLELm0grDkpDp3T33A2V"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -799,46 +795,46 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "COSTA QUENTE",
-        "url": "https://open.spotify.com/album/262D8mrqEGl3kNjV4n0RH8"
+        "name": "Lado 13 Do Mapa",
+        "url": "https://open.spotify.com/album/624lZw4mi8VgCcQpLtAoA1"
       },
       "artists": [
         {
-          "name": "Flacko",
-          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
+          "name": "Feek",
+          "url": "https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV"
         },
         {
           "name": "Kyan",
           "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
         }
       ],
-      "duration_ms": 166285,
-      "name": "COSTA QUENTE",
-      "url": "https://open.spotify.com/track/0Lv1yqE8zkffbocnMcY8vN"
+      "duration_ms": 145714,
+      "name": "Lado 13 Do Mapa",
+      "url": "https://open.spotify.com/track/0JjLELm0grDkpDp3T33A2V"
     },
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "Clone",
-        "url": "https://open.spotify.com/album/6crWlJHhWRHaeZQgwxvK6v"
+        "name": "Ainda \u00c9 o Rap dos Novos Bandidos",
+        "url": "https://open.spotify.com/album/1lO0DvPgCpUjgRj4Nh7cFy"
       },
       "artists": [
         {
-          "name": "Yung Nobre",
-          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
         },
         {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+          "name": "LP Beatzz",
+          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
         }
       ],
-      "duration_ms": 198051,
-      "name": "Clone",
-      "url": "https://open.spotify.com/track/6qXLawiN099LNELEdzhZSP"
+      "duration_ms": 125793,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/6XWrsV3IDY9E3h2FCN0a3O"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -863,22 +859,26 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "Ainda \u00c9 o Rap dos Novos Bandidos",
-        "url": "https://open.spotify.com/album/1lO0DvPgCpUjgRj4Nh7cFy"
+        "name": "Clone",
+        "url": "https://open.spotify.com/album/6crWlJHhWRHaeZQgwxvK6v"
       },
       "artists": [
         {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+          "name": "Yung Nobre",
+          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
         },
         {
-          "name": "LP Beatzz",
-          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
         }
       ],
-      "duration_ms": 125793,
-      "name": "9mm",
-      "url": "https://open.spotify.com/track/6XWrsV3IDY9E3h2FCN0a3O"
+      "duration_ms": 198051,
+      "name": "Clone",
+      "url": "https://open.spotify.com/track/6qXLawiN099LNELEdzhZSP"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -927,30 +927,6 @@
       "duration_ms": 209738,
       "name": "Raddim",
       "url": "https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
-        "name": "A.T.E",
-        "url": "https://open.spotify.com/album/6Jj5qOkWOGb0HeQbsU1a1g"
-      },
-      "artists": [
-        {
-          "name": "Yung Nobre",
-          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
-        },
-        {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
-        },
-        {
-          "name": "Gxrdenx",
-          "url": "https://open.spotify.com/artist/0HHoOQ7hezpKMgtTmi4dQP"
-        }
-      ],
-      "duration_ms": 142702,
-      "name": "A.T.E",
-      "url": "https://open.spotify.com/track/5edz78T7soouB6TgAORzRZ"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -1071,6 +1047,30 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
+        "name": "A.T.E",
+        "url": "https://open.spotify.com/album/6Jj5qOkWOGb0HeQbsU1a1g"
+      },
+      "artists": [
+        {
+          "name": "Yung Nobre",
+          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        },
+        {
+          "name": "Gxrdenx",
+          "url": "https://open.spotify.com/artist/0HHoOQ7hezpKMgtTmi4dQP"
+        }
+      ],
+      "duration_ms": 142702,
+      "name": "A.T.E",
+      "url": "https://open.spotify.com/track/5edz78T7soouB6TgAORzRZ"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
         "name": "DE CRIA PRA CRIA",
         "url": "https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad"
       },
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "Filho do Bola",
-        "url": "https://open.spotify.com/album/1ms6X9Ia2v8FbprTR9v9N4"
-      },
-      "artists": [
-        {
-          "name": "Ig\u00e3o Senhagah",
-          "url": "https://open.spotify.com/artist/0QGJqMSvdMaWYp8zbLtbov"
-        },
-        {
-          "name": "Scooby",
-          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
-        }
-      ],
-      "duration_ms": 165476,
-      "name": "Coisas da Vida",
-      "url": "https://open.spotify.com/track/0WDxdR6fDThQjTwW3uPi9U"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
         "name": "Campe\u00f5es",
         "url": "https://open.spotify.com/album/7mj1cfsJT5aP5GBFTe1cR3"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 173333,
       "name": "Campe\u00f5es",
       "url": "https://open.spotify.com/track/1aqGp66Nt1ghQA2hJ1I5vH"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
+        "name": "Filho do Bola",
+        "url": "https://open.spotify.com/album/1ms6X9Ia2v8FbprTR9v9N4"
+      },
+      "artists": [
+        {
+          "name": "Ig\u00e3o Senhagah",
+          "url": "https://open.spotify.com/artist/0QGJqMSvdMaWYp8zbLtbov"
+        },
+        {
+          "name": "Scooby",
+          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
+        }
+      ],
+      "duration_ms": 165476,
+      "name": "Coisas da Vida",
+      "url": "https://open.spotify.com/track/0WDxdR6fDThQjTwW3uPi9U"
     },
     {
       "added_at": "2023-04-21 03:01:00",

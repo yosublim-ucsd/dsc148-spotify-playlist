@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,562 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,563 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 31 | [Dance in the Rain](https://open.spotify.com/track/71nvD9S3qUai7oeccEL9ZM) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [AWAY & BEYOND](https://open.spotify.com/album/1rEIwfjq7qKaUgrpK3pxSX) | 3:38 |
 | 32 | [Rise Up](https://open.spotify.com/track/52vFTpJ6BRTSMI9K9IwI4f) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Rise Up](https://open.spotify.com/album/1Q2opiQfdZIP9DvBZNryG7) | 5:04 |
 | 33 | [Remember \(feat\. 2face\)](https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Cupid Stories](https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci) | 4:02 |
-| 34 | [Siren \(feat\. 2Baba\)](https://open.spotify.com/track/7rzy41sQdrUDQ0DLGPq0Np) | [Sound Sultan](https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Reality CHQ](https://open.spotify.com/album/1CdeE7uNA1vP0BpManopra) | 3:25 |
+| 34 | [Be There](https://open.spotify.com/track/6ZkdaJngSzMQrr2u9hvLeQ) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Unstoppable International](https://open.spotify.com/album/5sfbvpDCLWPobjdnjes1w0) | 3:11 |
 | 35 | [Higher \(Spiritual Healing\)](https://open.spotify.com/track/5IUBYuJQMaGUadUNws4czB) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Huma Lara](https://open.spotify.com/artist/7Jy0uvwHjLZmPODkzdU1qG) | [AWAY & BEYOND](https://open.spotify.com/album/1rEIwfjq7qKaUgrpK3pxSX) | 3:55 |
-| 36 | [Be There](https://open.spotify.com/track/6ZkdaJngSzMQrr2u9hvLeQ) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Unstoppable International](https://open.spotify.com/album/5sfbvpDCLWPobjdnjes1w0) | 3:11 |
-| 37 | [Suffer Head](https://open.spotify.com/track/7pZV7r4cRLHoUe4UcVBkb9) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 3:19 |
+| 36 | [Suffer Head](https://open.spotify.com/track/7pZV7r4cRLHoUe4UcVBkb9) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 3:19 |
+| 37 | [Siren \(feat\. 2Baba\)](https://open.spotify.com/track/7rzy41sQdrUDQ0DLGPq0Np) | [Sound Sultan](https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Reality CHQ](https://open.spotify.com/album/1CdeE7uNA1vP0BpManopra) | 3:25 |
 | 38 | [Human Being \(feat\. 2Face & Sound Sultan\)](https://open.spotify.com/track/5S9hSYitsTwmhBYKjsDOEC) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Sound Sultan](https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg) | [The Chairman](https://open.spotify.com/album/4CyMWcn79EcDbYi8MgSOKM) | 5:47 |
 | 39 | [Thank U Lord](https://open.spotify.com/track/3fP9OjGymyCALbaxrY0k6h) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.](https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV) | [Face 2 Face](https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw) | 4:27 |
 | 40 | [Gobe](https://open.spotify.com/track/4WLIbmoXbHuxc6CNI8dD1V) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Gobe](https://open.spotify.com/album/3hTOBsaYYVsm26E0fEgO8v) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 49 | [Abeg Abeg \- Remix](https://open.spotify.com/track/4xdmkDKb0Lb1ModZvup6QZ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [L.I.F.E \- Leaving an Impact for Eternity \(Deluxe Edition\)](https://open.spotify.com/album/5t1QPMQ3ssvP9gLLRPIckA) | 3:32 |
 | 50 | [Aristo](https://open.spotify.com/track/6AAipw8PkaB8SlVBIikMpC) | [Big A](https://open.spotify.com/artist/1xndT3Oq2C8Qb8IMLM4JK6), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Aristo](https://open.spotify.com/album/0bsISehIzYZbf0rtAWWele) | 2:56 |
 
-Snapshot ID: `MjgwMzQ5ODIsMDAwMDAwMDA0YWIzNmRjMjcxODhlODk5NmI1MjgxNWQ0MmI2ZjY3OQ==`
+Snapshot ID: `MjgwMzYwOTcsMDAwMDAwMDAyZTMwNGVmOTY0ZmJlY2Q1ZDlhY2UzODM2ZjJhN2FiNQ==`

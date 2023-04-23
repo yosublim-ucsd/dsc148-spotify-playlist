@@ -1,12 +1,12 @@
 {
   "description": "Revive a la generaci\u00f3n que transform\u00f3 el rock en espa\u00f1ol para siempre. En portada: Soda Stereo",
-  "num_followers": 135928,
+  "num_followers": 136112,
   "original_name": "Rock en tu Idioma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTM4ODc3OCwwMDAwMDAwMGM2MGI1ZTdhYTAwOThiMTlhZDlhMDQ1M2I5Yjc0YWUx",
+  "snapshot_id": "MTY2MTM4ODc3OCwwMDAwMDAwMGIyZjRjNzY2MjBlM2U2NTc1Y2FhYTBiMTRhMjg0ZTdj",
   "tracks": [
     {
       "added_at": "2021-02-24 17:08:59",
@@ -443,18 +443,18 @@
     {
       "added_at": "2021-02-24 17:08:59",
       "album": {
-        "name": "Rocanrol Bumerang",
-        "url": "https://open.spotify.com/album/1YIw799VStxgysT27cUGwp"
+        "name": "Descanso Dominical (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/5E4nBdPPUynTOEOG7Lj4yA"
       },
       "artists": [
         {
-          "name": "Miguel R\u00edos",
-          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
         }
       ],
-      "duration_ms": 224826,
-      "name": "Santa Lucia - Remastered 2005",
-      "url": "https://open.spotify.com/track/5bycn7SuJzYnxte0W54mNX"
+      "duration_ms": 311160,
+      "name": "La Fuerza del Destino",
+      "url": "https://open.spotify.com/track/0fKqhLgg5CYEW2fLlhtWRj"
     },
     {
       "added_at": "2021-02-24 17:08:59",
@@ -475,18 +475,18 @@
     {
       "added_at": "2021-02-24 17:08:59",
       "album": {
-        "name": "Descanso Dominical (Bonus Tracks Edition)",
-        "url": "https://open.spotify.com/album/5E4nBdPPUynTOEOG7Lj4yA"
+        "name": "Rocanrol Bumerang",
+        "url": "https://open.spotify.com/album/1YIw799VStxgysT27cUGwp"
       },
       "artists": [
         {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+          "name": "Miguel R\u00edos",
+          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
         }
       ],
-      "duration_ms": 311160,
-      "name": "La Fuerza del Destino",
-      "url": "https://open.spotify.com/track/0fKqhLgg5CYEW2fLlhtWRj"
+      "duration_ms": 224826,
+      "name": "Santa Lucia - Remastered 2005",
+      "url": "https://open.spotify.com/track/5bycn7SuJzYnxte0W54mNX"
     },
     {
       "added_at": "2021-02-24 17:08:59",
@@ -763,22 +763,6 @@
     {
       "added_at": "2021-02-24 17:08:59",
       "album": {
-        "name": "Al calor del amor en un bar",
-        "url": "https://open.spotify.com/album/6trh5fT753w9Si8rdigFGm"
-      },
-      "artists": [
-        {
-          "name": "Gabinete Caligari",
-          "url": "https://open.spotify.com/artist/112QHbB1xApqwVJR6n20xy"
-        }
-      ],
-      "duration_ms": 170680,
-      "name": "El calor del amor en un bar",
-      "url": "https://open.spotify.com/track/0AFJOoRQFlo10Vm1p6BRjg"
-    },
-    {
-      "added_at": "2021-02-24 17:08:59",
-      "album": {
         "name": "Rock En Espanol - Lo Mejor De Los Amantes De Lola",
         "url": "https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 226560,
       "name": "Mam\u00e1",
       "url": "https://open.spotify.com/track/2oA3tCnnhyMaCVzS5MLZZY"
+    },
+    {
+      "added_at": "2021-02-24 17:08:59",
+      "album": {
+        "name": "Al calor del amor en un bar",
+        "url": "https://open.spotify.com/album/6trh5fT753w9Si8rdigFGm"
+      },
+      "artists": [
+        {
+          "name": "Gabinete Caligari",
+          "url": "https://open.spotify.com/artist/112QHbB1xApqwVJR6n20xy"
+        }
+      ],
+      "duration_ms": 170680,
+      "name": "El calor del amor en un bar",
+      "url": "https://open.spotify.com/track/0AFJOoRQFlo10Vm1p6BRjg"
     },
     {
       "added_at": "2021-02-24 17:08:59",

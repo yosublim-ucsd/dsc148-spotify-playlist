@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Norway.",
-  "num_followers": 530962,
+  "num_followers": 531056,
   "original_name": "Top 50 - Norway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzM1NDM5ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzM1NTI2MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
       "album": {
         "name": "Egoland",
         "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4KjHgPOIsA8LlMwyAJRlfv"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
       "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
       "album": {
         "name": "Egoland",
         "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/5OGnojWHysrkcgLzBAj2SA"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
       "album": {
         "name": "Delilah",
         "url": "https://open.spotify.com/album/6crdBPeAtR9UjRJe55OyMY"
@@ -77,7 +77,23 @@
       "url": "https://open.spotify.com/track/0oQOmpUTham7BqNPAMBImy"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
+      "album": {
+        "name": "Turn\u00e9",
+        "url": "https://open.spotify.com/album/6IckHChPtlWt1NhCb4aDyW"
+      },
+      "artists": [
+        {
+          "name": "Br\u00f8drene Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "duration_ms": 174986,
+      "name": "Turn\u00e9",
+      "url": "https://open.spotify.com/track/6lEjeruLQP9MAnKKzThhsv"
+    },
+    {
+      "added_at": "2023-04-22 10:07:11",
       "album": {
         "name": "1",
         "url": "https://open.spotify.com/album/1jAciyalTEVQO8ueYFpHvD"
@@ -97,7 +113,7 @@
       "url": "https://open.spotify.com/track/6NaSSp1G4OUCZjTPXuZNP9"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
       "album": {
         "name": "Egoland",
         "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
@@ -113,23 +129,7 @@
       "url": "https://open.spotify.com/track/0eoNXHlt2V32uXCy60jCCa"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
-      "album": {
-        "name": "Turn\u00e9",
-        "url": "https://open.spotify.com/album/6IckHChPtlWt1NhCb4aDyW"
-      },
-      "artists": [
-        {
-          "name": "Br\u00f8drene Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        }
-      ],
-      "duration_ms": 174986,
-      "name": "Turn\u00e9",
-      "url": "https://open.spotify.com/track/6lEjeruLQP9MAnKKzThhsv"
-    },
-    {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
       "album": {
         "name": "Floden",
         "url": "https://open.spotify.com/album/1cf4WYmYaJP4vxvPwJphVv"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/6TYFXyFTDZ6qwFPuBJfWpK"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
       "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
@@ -165,23 +165,7 @@
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
-      "album": {
-        "name": "Egoland",
-        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 191986,
-      "name": "Jeg Vet",
-      "url": "https://open.spotify.com/track/45aJ5ZyPgSORaMPdm8tjev"
-    },
-    {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
       "album": {
         "name": "Sett deg ned",
         "url": "https://open.spotify.com/album/5eouipHgEPOxFSGwIcZGO4"
@@ -197,23 +181,7 @@
       "url": "https://open.spotify.com/track/3gZrQYFNYJmRKeVcZMHy8w"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
-      "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 184013,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
-    },
-    {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
       "album": {
         "name": "Egoland",
         "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
@@ -224,12 +192,68 @@
           "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
         }
       ],
-      "duration_ms": 131173,
-      "name": "Egoland",
-      "url": "https://open.spotify.com/track/3rdQWyObsoGvzVUkEqlWS7"
+      "duration_ms": 191986,
+      "name": "Jeg Vet",
+      "url": "https://open.spotify.com/track/45aJ5ZyPgSORaMPdm8tjev"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
+      "album": {
+        "name": "The Diamond Collection",
+        "url": "https://open.spotify.com/album/1DsM0AOBGPPIDp0gWN8Zb4"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 184013,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5TOgxgZrIZzvaKg9r2bvc2"
+    },
+    {
+      "added_at": "2023-04-22 10:07:11",
+      "album": {
+        "name": "Helg",
+        "url": "https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        },
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 171008,
+      "name": "Helg",
+      "url": "https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc"
+    },
+    {
+      "added_at": "2023-04-22 10:07:11",
+      "album": {
+        "name": "STUDIO 23",
+        "url": "https://open.spotify.com/album/6F6f044sDb1z92mzFIKBOI"
+      },
+      "artists": [
+        {
+          "name": "TIX",
+          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
+        },
+        {
+          "name": "The P\u00f8ssy Project",
+          "url": "https://open.spotify.com/artist/6L3XsdwSNcPAPxHq9KuyxT"
+        }
+      ],
+      "duration_ms": 150352,
+      "name": "STUDIO 23",
+      "url": "https://open.spotify.com/track/1dBfRwPwKEqyKuC6lBQcRz"
+    },
+    {
+      "added_at": "2023-04-22 10:07:11",
       "album": {
         "name": "G63",
         "url": "https://open.spotify.com/album/7w1lkm0KtSeu6bfs8S21d5"
@@ -245,7 +269,7 @@
       "url": "https://open.spotify.com/track/3pBTElvw1OK7pDDI3MR4qC"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
       "album": {
         "name": "Gamleveien",
         "url": "https://open.spotify.com/album/3ZvbYMfxz7TFXp9Zqv4uZf"
@@ -269,27 +293,7 @@
       "url": "https://open.spotify.com/track/5qS9HY1sq4Zuyzm7Mpgjir"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
-      "album": {
-        "name": "Helg",
-        "url": "https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        },
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 171008,
-      "name": "Helg",
-      "url": "https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc"
-    },
-    {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
       "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
@@ -313,59 +317,7 @@
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
-      "album": {
-        "name": "Egoland",
-        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 266346,
-      "name": "Zanotti",
-      "url": "https://open.spotify.com/track/3nT3EBnBlRgn9X00yrOLHE"
-    },
-    {
-      "added_at": "2023-04-21 10:32:34",
-      "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
-    },
-    {
-      "added_at": "2023-04-21 10:32:34",
-      "album": {
-        "name": "SIPPER",
-        "url": "https://open.spotify.com/album/1darpI3AUMsbJdlIWOfx0x"
-      },
-      "artists": [
-        {
-          "name": "Beathoven",
-          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
-        },
-        {
-          "name": "Dutty Dior",
-          "url": "https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg"
-        }
-      ],
-      "duration_ms": 135333,
-      "name": "SIPPER",
-      "url": "https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr"
-    },
-    {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
       "album": {
         "name": "UNDERGRUNN",
         "url": "https://open.spotify.com/album/6bO8ArMi8JRmdXBSdb99PZ"
@@ -381,7 +333,75 @@
       "url": "https://open.spotify.com/track/3h2IRgTZrU4hSNCePszT23"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
+      "album": {
+        "name": "Egoland",
+        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 131173,
+      "name": "Egoland",
+      "url": "https://open.spotify.com/track/3rdQWyObsoGvzVUkEqlWS7"
+    },
+    {
+      "added_at": "2023-04-22 10:07:11",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 183374,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
+    },
+    {
+      "added_at": "2023-04-22 10:07:11",
+      "album": {
+        "name": "Double Fantasy",
+        "url": "https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 268235,
+      "name": "Double Fantasy (with Future)",
+      "url": "https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi"
+    },
+    {
+      "added_at": "2023-04-22 10:07:11",
+      "album": {
+        "name": "Egoland",
+        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 266346,
+      "name": "Zanotti",
+      "url": "https://open.spotify.com/track/3nT3EBnBlRgn9X00yrOLHE"
+    },
+    {
+      "added_at": "2023-04-22 10:07:11",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -401,39 +421,27 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
       "album": {
-        "name": "Can't Tame Her",
-        "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
+        "name": "SIPPER",
+        "url": "https://open.spotify.com/album/1darpI3AUMsbJdlIWOfx0x"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 196939,
-      "name": "Can't Tame Her",
-      "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
-    },
-    {
-      "added_at": "2023-04-21 10:32:34",
-      "album": {
-        "name": "WONDERLAND",
-        "url": "https://open.spotify.com/album/7GDX1d31ZisU5CHDdMHyFy"
-      },
-      "artists": [
+          "name": "Beathoven",
+          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
+        },
         {
-          "name": "Blackie",
-          "url": "https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S"
+          "name": "Dutty Dior",
+          "url": "https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg"
         }
       ],
-      "duration_ms": 141471,
-      "name": "WONDERLAND",
-      "url": "https://open.spotify.com/track/7IfJ76AmwueC2QiN3USbyt"
+      "duration_ms": 135333,
+      "name": "SIPPER",
+      "url": "https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
       "album": {
         "name": "RAGGARTJEJ",
         "url": "https://open.spotify.com/album/1DqRR6G367zSAAWFSCrh6R"
@@ -457,39 +465,39 @@
       "url": "https://open.spotify.com/track/3Fj4SihlXMFK5ziDs2y9vR"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
       "album": {
-        "name": "Mager Men Metter Mager",
-        "url": "https://open.spotify.com/album/7d0TMTaBbJXvEjOXhm6twS"
+        "name": "Can't Tame Her",
+        "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
       },
       "artists": [
         {
-          "name": "Rambow",
-          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 158836,
-      "name": "F.H.D.S!",
-      "url": "https://open.spotify.com/track/0accAkIfqV6MxWMBCzk97y"
+      "duration_ms": 196939,
+      "name": "Can't Tame Her",
+      "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
       "album": {
-        "name": "Queen of Kings",
-        "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
+        "name": "WONDERLAND",
+        "url": "https://open.spotify.com/album/7GDX1d31ZisU5CHDdMHyFy"
       },
       "artists": [
         {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+          "name": "Blackie",
+          "url": "https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S"
         }
       ],
-      "duration_ms": 147979,
-      "name": "Queen of Kings",
-      "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
+      "duration_ms": 141471,
+      "name": "WONDERLAND",
+      "url": "https://open.spotify.com/track/7IfJ76AmwueC2QiN3USbyt"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
       "album": {
         "name": "En Shot",
         "url": "https://open.spotify.com/album/2kEYdmpt1rOiQUmlfxPE01"
@@ -505,23 +513,39 @@
       "url": "https://open.spotify.com/track/3mrOghCXTH1wg1JliCHenY"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
       "album": {
-        "name": "Egoland",
-        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
+        "name": "Queen of Kings",
+        "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
       },
       "artists": [
         {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
         }
       ],
-      "duration_ms": 116733,
-      "name": "Dobbel Trippel",
-      "url": "https://open.spotify.com/track/7CZWRI2zpc1BBGYHbTjcTb"
+      "duration_ms": 147979,
+      "name": "Queen of Kings",
+      "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
+      "album": {
+        "name": "Mager Men Metter Mager",
+        "url": "https://open.spotify.com/album/7d0TMTaBbJXvEjOXhm6twS"
+      },
+      "artists": [
+        {
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+        }
+      ],
+      "duration_ms": 158836,
+      "name": "F.H.D.S!",
+      "url": "https://open.spotify.com/track/0accAkIfqV6MxWMBCzk97y"
+    },
+    {
+      "added_at": "2023-04-22 10:07:11",
       "album": {
         "name": "5 SHOTS",
         "url": "https://open.spotify.com/album/5TXQMV2n7TjC64TNQDmzln"
@@ -541,39 +565,63 @@
       "url": "https://open.spotify.com/track/5CqyzTnsaP20NBBiDZZe5H"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
       "album": {
-        "name": "Egoland",
-        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
+        "name": "Ikv\u00e4ll Igen",
+        "url": "https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32"
       },
       "artists": [
         {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
         }
       ],
-      "duration_ms": 348710,
-      "name": "Tomme T\u00f8nner",
-      "url": "https://open.spotify.com/track/3BAmsMIDJRaxbww5gUn9I4"
+      "duration_ms": 137727,
+      "name": "Ikv\u00e4ll Igen",
+      "url": "https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
       "album": {
-        "name": "Egoland",
-        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
+        "name": "02:57",
+        "url": "https://open.spotify.com/album/2N6jBfKGY9XfLnUNm6e6oT"
       },
       "artists": [
         {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+          "name": "Broiler",
+          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+        },
+        {
+          "name": "Aiba",
+          "url": "https://open.spotify.com/artist/6Lu4e8FvAWcp1S5BVoDLjJ"
         }
       ],
-      "duration_ms": 162560,
-      "name": "Rangel",
-      "url": "https://open.spotify.com/track/1z0NMTpdEmgjNjLhIEPyaf"
+      "duration_ms": 128634,
+      "name": "02:57",
+      "url": "https://open.spotify.com/track/51HE7XUmnvsfuurpE27HFX"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
+      "album": {
+        "name": "Dans P\u00e5 Bordet",
+        "url": "https://open.spotify.com/album/0324AmCGXDbzi4XRgVVc7g"
+      },
+      "artists": [
+        {
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        },
+        {
+          "name": "David Mokel",
+          "url": "https://open.spotify.com/artist/7lGq0g80TaLqM8uT9HLAni"
+        }
+      ],
+      "duration_ms": 143520,
+      "name": "Dans P\u00e5 Bordet",
+      "url": "https://open.spotify.com/track/56kyGGwLIVAR30ZFiASn8Q"
+    },
+    {
+      "added_at": "2023-04-22 10:07:11",
       "album": {
         "name": "Calm Down (with Selena Gomez)",
         "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
@@ -593,23 +641,7 @@
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
-      "album": {
-        "name": "Never Felt So Alone",
-        "url": "https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 160166,
-      "name": "Never Felt So Alone",
-      "url": "https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo"
-    },
-    {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
       "album": {
         "name": "Alt du vil ha",
         "url": "https://open.spotify.com/album/7atcRsYQxmvrcqxeFsriwr"
@@ -633,39 +665,71 @@
       "url": "https://open.spotify.com/track/7GZ0lQasbKSKie0I1Bv7Vd"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
       "album": {
-        "name": "tivoli",
-        "url": "https://open.spotify.com/album/12eDNbE85r05o5lu8HY8eT"
+        "name": "Wish You The Best",
+        "url": "https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS"
       },
       "artists": [
         {
-          "name": "Ram\u00f3n",
-          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 157930,
-      "name": "tivoli",
-      "url": "https://open.spotify.com/track/0gk22wsPwMBTr3hAOaZDTM"
+      "duration_ms": 210880,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
       "album": {
-        "name": "Ikv\u00e4ll Igen",
-        "url": "https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32"
+        "name": "e det bare meg",
+        "url": "https://open.spotify.com/album/5m0mmimbiB1fSZAZXyg9Ka"
       },
       "artists": [
         {
-          "name": "Bolaget",
-          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+          "name": "Isah",
+          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
         }
       ],
-      "duration_ms": 137727,
-      "name": "Ikv\u00e4ll Igen",
-      "url": "https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf"
+      "duration_ms": 194598,
+      "name": "e det bare meg",
+      "url": "https://open.spotify.com/track/4lph0cLO8kWFU4MQFPHypS"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
+      "album": {
+        "name": "Egoland",
+        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 116733,
+      "name": "Dobbel Trippel",
+      "url": "https://open.spotify.com/track/7CZWRI2zpc1BBGYHbTjcTb"
+    },
+    {
+      "added_at": "2023-04-22 10:07:11",
+      "album": {
+        "name": "Egoland",
+        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 348710,
+      "name": "Tomme T\u00f8nner",
+      "url": "https://open.spotify.com/track/3BAmsMIDJRaxbww5gUn9I4"
+    },
+    {
+      "added_at": "2023-04-22 10:07:11",
       "album": {
         "name": "FAKK MEG OPP",
         "url": "https://open.spotify.com/album/5x6mlYVhlt4l4rfZ70WDiL"
@@ -685,107 +749,7 @@
       "url": "https://open.spotify.com/track/0tsJlaeWzRtJu6lyMXye2n"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
-      "album": {
-        "name": "Dans P\u00e5 Bordet",
-        "url": "https://open.spotify.com/album/0324AmCGXDbzi4XRgVVc7g"
-      },
-      "artists": [
-        {
-          "name": "Ballinciaga",
-          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
-        },
-        {
-          "name": "David Mokel",
-          "url": "https://open.spotify.com/artist/7lGq0g80TaLqM8uT9HLAni"
-        }
-      ],
-      "duration_ms": 143520,
-      "name": "Dans P\u00e5 Bordet",
-      "url": "https://open.spotify.com/track/56kyGGwLIVAR30ZFiASn8Q"
-    },
-    {
-      "added_at": "2023-04-21 10:32:34",
-      "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
-    },
-    {
-      "added_at": "2023-04-21 10:32:34",
-      "album": {
-        "name": "Wish You The Best",
-        "url": "https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 210880,
-      "name": "Wish You The Best",
-      "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
-    },
-    {
-      "added_at": "2023-04-21 10:32:34",
-      "album": {
-        "name": "The Ballet Girl",
-        "url": "https://open.spotify.com/album/0oHwFrjiH6pkhFp8C4LWa3"
-      },
-      "artists": [
-        {
-          "name": "Aden Foyer",
-          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
-        }
-      ],
-      "duration_ms": 201424,
-      "name": "The Ballet Girl",
-      "url": "https://open.spotify.com/track/3aiOu3VFNOD9omIGG7nSq1"
-    },
-    {
-      "added_at": "2023-04-21 10:32:34",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "Kill Bill",
-      "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
-    },
-    {
-      "added_at": "2023-04-21 10:32:34",
-      "album": {
-        "name": "glorie",
-        "url": "https://open.spotify.com/album/2DdUMgZh8haStlU30pcnZ0"
-      },
-      "artists": [
-        {
-          "name": "vinni",
-          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
-        }
-      ],
-      "duration_ms": 156497,
-      "name": "glorie",
-      "url": "https://open.spotify.com/track/4olmG0sFJ6L0LVI8ssiZFz"
-    },
-    {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
       "album": {
         "name": "Egoland",
         "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
@@ -796,44 +760,12 @@
           "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
         }
       ],
-      "duration_ms": 175645,
-      "name": "Mon Amie",
-      "url": "https://open.spotify.com/track/4x71au2JCvZrKdYfcB9W5k"
+      "duration_ms": 162560,
+      "name": "Rangel",
+      "url": "https://open.spotify.com/track/1z0NMTpdEmgjNjLhIEPyaf"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
-      "album": {
-        "name": "Eyes Closed (Piano Version)",
-        "url": "https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 194848,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq"
-    },
-    {
-      "added_at": "2023-04-21 10:32:34",
-      "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        }
-      ],
-      "duration_ms": 184791,
-      "name": "People",
-      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
-    },
-    {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
       "album": {
         "name": "Best p\u00e5 fest",
         "url": "https://open.spotify.com/album/2r8sm8wyxDUz1Isu8VE5ZG"
@@ -849,31 +781,23 @@
       "url": "https://open.spotify.com/track/3qeetNg8dmL3KwYXT9R7wT"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
       "album": {
-        "name": "Mysteriet deg",
-        "url": "https://open.spotify.com/album/0V81Z5KBZGXH11X48DeaQJ"
+        "name": "The Ballet Girl",
+        "url": "https://open.spotify.com/album/0oHwFrjiH6pkhFp8C4LWa3"
       },
       "artists": [
         {
-          "name": "Isah",
-          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
-        },
-        {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+          "name": "Aden Foyer",
+          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
         }
       ],
-      "duration_ms": 221052,
-      "name": "Mysteriet deg",
-      "url": "https://open.spotify.com/track/206hc217vGSSv4W6d3FF3R"
+      "duration_ms": 201424,
+      "name": "The Ballet Girl",
+      "url": "https://open.spotify.com/track/3aiOu3VFNOD9omIGG7nSq1"
     },
     {
-      "added_at": "2023-04-21 10:32:34",
+      "added_at": "2023-04-22 10:07:11",
       "album": {
         "name": "HAWAII",
         "url": "https://open.spotify.com/album/5EktXzearpx05ITBc0uwHJ"
@@ -887,6 +811,90 @@
       "duration_ms": 116869,
       "name": "HAWAII",
       "url": "https://open.spotify.com/track/58WuR6KguEQwc0YqGs5mq9"
+    },
+    {
+      "added_at": "2023-04-22 10:07:11",
+      "album": {
+        "name": "Eyes Closed (Piano Version)",
+        "url": "https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 194848,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq"
+    },
+    {
+      "added_at": "2023-04-22 10:07:11",
+      "album": {
+        "name": "glorie",
+        "url": "https://open.spotify.com/album/2DdUMgZh8haStlU30pcnZ0"
+      },
+      "artists": [
+        {
+          "name": "vinni",
+          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
+        }
+      ],
+      "duration_ms": 156497,
+      "name": "glorie",
+      "url": "https://open.spotify.com/track/4olmG0sFJ6L0LVI8ssiZFz"
+    },
+    {
+      "added_at": "2023-04-22 10:07:11",
+      "album": {
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+    },
+    {
+      "added_at": "2023-04-22 10:07:11",
+      "album": {
+        "name": "Boat",
+        "url": "https://open.spotify.com/album/0MC4ylr8NtdNRRhPUyjvdS"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 185675,
+      "name": "Boat",
+      "url": "https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast"
+    },
+    {
+      "added_at": "2023-04-22 10:07:11",
+      "album": {
+        "name": "Hummer & Calamari",
+        "url": "https://open.spotify.com/album/7x0T438xAbCUQZlxXIKrXK"
+      },
+      "artists": [
+        {
+          "name": "Henrik von Grogg",
+          "url": "https://open.spotify.com/artist/2z33akYL15RgrP5P51vhvx"
+        },
+        {
+          "name": "Henning",
+          "url": "https://open.spotify.com/artist/5W4Q4ACzjvwnFX81oFeMnL"
+        }
+      ],
+      "duration_ms": 134320,
+      "name": "Hummer & Calamari",
+      "url": "https://open.spotify.com/track/4fB2ieWdLnE9TLjhSfiJ2f"
     }
   ],
   "unique_name": "Top 50 - Norway",

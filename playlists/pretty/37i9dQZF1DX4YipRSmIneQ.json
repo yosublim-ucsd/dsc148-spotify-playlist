@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude08 turn anywhere into a sexy club \ud83d\ude08",
-  "num_followers": 52306,
+  "num_followers": 52403,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTk4NDM1OSwwMDAwMDAwMDllY2NjYmZmNzJjMzQ0NWM2ZDI2YTVlZTcxNTQ4MDRk",
+  "snapshot_id": "MTY4MTk4NDM1OSwwMDAwMDAwMDljY2E1YzRjZjYwOGFhNzFmYmEzMWQ4MDM0ZWRmNjYz",
   "tracks": [
     {
       "added_at": "2023-04-04 13:57:02",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-04-04 13:57:02",
       "album": {
-        "name": "Drag Me Out",
-        "url": "https://open.spotify.com/album/2ulgg6hyu3NPgjpURpNYfs"
-      },
-      "artists": [
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 139615,
-      "name": "Drag Me Out",
-      "url": "https://open.spotify.com/track/2SDG2dYcoW5ksPGsiFGt7V"
-    },
-    {
-      "added_at": "2023-04-04 13:57:02",
-      "album": {
         "name": "Farm Fantasies",
         "url": "https://open.spotify.com/album/4iQOiiyHbLlwLTnPUDZPEo"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 266344,
       "name": "My Barn My Rules",
       "url": "https://open.spotify.com/track/1yw28y3kv8uS7ENaZkbUFt"
+    },
+    {
+      "added_at": "2023-04-04 13:57:02",
+      "album": {
+        "name": "Drag Me Out",
+        "url": "https://open.spotify.com/album/2ulgg6hyu3NPgjpURpNYfs"
+      },
+      "artists": [
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 139615,
+      "name": "Drag Me Out",
+      "url": "https://open.spotify.com/track/2SDG2dYcoW5ksPGsiFGt7V"
     },
     {
       "added_at": "2023-04-04 13:57:02",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-04-04 13:57:02",
       "album": {
+        "name": "Tired and Sick",
+        "url": "https://open.spotify.com/album/5bx8drBY6ZIOlIy5wZtb6s"
+      },
+      "artists": [
+        {
+          "name": "Otha",
+          "url": "https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV"
+        }
+      ],
+      "duration_ms": 172172,
+      "name": "Tired and Sick",
+      "url": "https://open.spotify.com/track/59rqs8yRLVyfw5CosESRQX"
+    },
+    {
+      "added_at": "2023-04-04 13:57:02",
+      "album": {
         "name": "SEXORCISM",
         "url": "https://open.spotify.com/album/5IV5QYzpZA1oI7FK0HfBxL"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 178666,
       "name": "FMU (feat. Rico Nasty & Boys Noize)",
       "url": "https://open.spotify.com/track/5AD8DWoQa4NGe2WagH4YF2"
-    },
-    {
-      "added_at": "2023-04-04 13:57:02",
-      "album": {
-        "name": "Tired and Sick",
-        "url": "https://open.spotify.com/album/5bx8drBY6ZIOlIy5wZtb6s"
-      },
-      "artists": [
-        {
-          "name": "Otha",
-          "url": "https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV"
-        }
-      ],
-      "duration_ms": 172172,
-      "name": "Tired and Sick",
-      "url": "https://open.spotify.com/track/59rqs8yRLVyfw5CosESRQX"
     },
     {
       "added_at": "2023-04-04 13:57:02",
@@ -755,26 +755,6 @@
     {
       "added_at": "2023-04-04 13:57:02",
       "album": {
-        "name": "Dealer's Gone - DJ_Dave Edit",
-        "url": "https://open.spotify.com/album/6LLGrZtEhKiX0l4wdzr6lA"
-      },
-      "artists": [
-        {
-          "name": "DJ_Dave",
-          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
-        },
-        {
-          "name": "Von",
-          "url": "https://open.spotify.com/artist/4I6ModFVv3BWDsjMqzYcMc"
-        }
-      ],
-      "duration_ms": 172511,
-      "name": "Dealer's Gone - DJ_Dave Edit",
-      "url": "https://open.spotify.com/track/685cyLbhLOWDTbsdV5oQcQ"
-    },
-    {
-      "added_at": "2023-04-04 13:57:02",
-      "album": {
         "name": "Tear The House Up",
         "url": "https://open.spotify.com/album/7xRaM4csKANBCc9QHxQ6da"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 280645,
       "name": "Tear the House Up",
       "url": "https://open.spotify.com/track/5NHMpUXObw7wi2cTjDIAPW"
+    },
+    {
+      "added_at": "2023-04-04 13:57:02",
+      "album": {
+        "name": "Dealer's Gone - DJ_Dave Edit",
+        "url": "https://open.spotify.com/album/6LLGrZtEhKiX0l4wdzr6lA"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        },
+        {
+          "name": "Von",
+          "url": "https://open.spotify.com/artist/4I6ModFVv3BWDsjMqzYcMc"
+        }
+      ],
+      "duration_ms": 172511,
+      "name": "Dealer's Gone - DJ_Dave Edit",
+      "url": "https://open.spotify.com/track/685cyLbhLOWDTbsdV5oQcQ"
     },
     {
       "added_at": "2023-04-04 13:57:02",

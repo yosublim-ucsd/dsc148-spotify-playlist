@@ -1,12 +1,12 @@
 {
   "description": "\u8a71\u984c\u306e\u30ed\u30c3\u30af\u30d2\u30c3\u30c8\u3092Volume\u4e0a\u3052\u3066\u7206\u97f3\u3067\u3002Cover: Hi-STANDARD",
-  "num_followers": 43184,
+  "num_followers": 43230,
   "original_name": "Rock The World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAwMjgwMCwwMDAwMDAwMGVjNzIwZTUyYzZkN2NlMmM5MmIyNTliODI4M2Q3MThk",
+  "snapshot_id": "MTY4MjAwMjgwMCwwMDAwMDAwMGMxMjc4NTJlOWRjZDk0YmJjZDBhNjAwNzg2MjkyODk2",
   "tracks": [
     {
       "added_at": "2023-04-20 15:00:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-04-20 15:00:00",
       "album": {
+        "name": "Meeting The Master",
+        "url": "https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 312200,
+      "name": "Meeting The Master",
+      "url": "https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C"
+    },
+    {
+      "added_at": "2023-04-20 15:00:00",
+      "album": {
         "name": "After Midnight (feat. Clairo)",
         "url": "https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS"
       },
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2023-04-20 15:00:00",
       "album": {
-        "name": "\u7b2c\u30bc\u30ed\u611f",
-        "url": "https://open.spotify.com/album/7hUGSAApToftQu366lqPVf"
-      },
-      "artists": [
-        {
-          "name": "10-FEET",
-          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
-        }
-      ],
-      "duration_ms": 287991,
-      "name": "\u7b2c\u30bc\u30ed\u611f",
-      "url": "https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE"
-    },
-    {
-      "added_at": "2023-04-20 15:00:00",
-      "album": {
         "name": "hellsong. (let it in)",
         "url": "https://open.spotify.com/album/25BaXSn7LKFdhareEiMpjb"
       },
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2023-04-20 15:00:00",
       "album": {
-        "name": "Meeting The Master",
-        "url": "https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu"
+        "name": "\u7b2c\u30bc\u30ed\u611f",
+        "url": "https://open.spotify.com/album/7hUGSAApToftQu366lqPVf"
       },
       "artists": [
         {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
         }
       ],
-      "duration_ms": 312200,
-      "name": "Meeting The Master",
-      "url": "https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C"
+      "duration_ms": 287991,
+      "name": "\u7b2c\u30bc\u30ed\u611f",
+      "url": "https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE"
     },
     {
       "added_at": "2023-04-20 15:00:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-04-20 15:00:00",
       "album": {
+        "name": "Left Behind",
+        "url": "https://open.spotify.com/album/2efABZ7jsJTkRkZALraqEM"
+      },
+      "artists": [
+        {
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+        }
+      ],
+      "duration_ms": 206924,
+      "name": "Left Behind",
+      "url": "https://open.spotify.com/track/5G6jZFDAFlpAA9v5LTV4NI"
+    },
+    {
+      "added_at": "2023-04-20 15:00:00",
+      "album": {
         "name": "Still Alive (From the Original Motion Picture Scream VI)",
         "url": "https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q"
       },
@@ -1251,18 +1267,22 @@
     {
       "added_at": "2023-04-20 15:00:00",
       "album": {
-        "name": "Left Behind",
-        "url": "https://open.spotify.com/album/2efABZ7jsJTkRkZALraqEM"
+        "name": "Your Mind Is Not Your Friend (feat. Phoebe Bridgers)",
+        "url": "https://open.spotify.com/album/78QvpShQvtm7mk3Ghjqqa3"
       },
       "artists": [
         {
-          "name": "The Plot In You",
-          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 206924,
-      "name": "Left Behind",
-      "url": "https://open.spotify.com/track/5G6jZFDAFlpAA9v5LTV4NI"
+      "duration_ms": 264320,
+      "name": "Your Mind Is Not Your Friend (feat. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/7wOIdJkbhLcmA0vniQiVVJ"
     },
     {
       "added_at": "2023-04-20 15:00:00",
@@ -1311,22 +1331,6 @@
       "duration_ms": 209976,
       "name": "Times Like These",
       "url": "https://open.spotify.com/track/6bo13cPb5M0B6LhQEl0A3E"
-    },
-    {
-      "added_at": "2023-04-20 15:00:00",
-      "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD"
-      },
-      "artists": [
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 167287,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV"
     }
   ],
   "unique_name": "Rock The World",

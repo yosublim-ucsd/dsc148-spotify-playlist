@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Kim Dracula
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 7,728 likes - 389 songs - 1 day 0 hr 56 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 7,736 likes - 389 songs - 1 day 0 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

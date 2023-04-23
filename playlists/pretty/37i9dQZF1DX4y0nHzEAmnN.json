@@ -1,12 +1,12 @@
 {
   "description": "Las partes aburridas del d\u00eda pueden ser divertidas con m\u00fasica. \u00a1En Ingl\u00e9s y Espa\u00f1ol!",
-  "num_followers": 1325,
+  "num_followers": 1326,
   "original_name": "Daily Rutina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA0NjE4MywwMDAwMDAwMDk5MzllYTQ1ODY2OGJlMGQ3NzhkODRjMDZiODMyMzg3",
+  "snapshot_id": "MTY3OTA0NjE4MywwMDAwMDAwMDM2ZmFkZTk3NDk0NTk0MTk0ZTcwZmVlZmZiM2Y3MzVi",
   "tracks": [
     {
       "added_at": "2023-03-17 09:43:03",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "20 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0y5nHLqrkcPducSd8QRISi"
-      },
-      "artists": [
-        {
-          "name": "Duo Tiempo de Sol",
-          "url": "https://open.spotify.com/artist/58IHn7WX5UYrLG9BhjAiEA"
-        }
-      ],
-      "duration_ms": 154395,
-      "name": "Baile del marinero",
-      "url": "https://open.spotify.com/track/4MCWEpke2vLhcS96ZK88oo"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Ralph's World",
         "url": "https://open.spotify.com/album/5wKoYzvE2R6xGvbw5tkWQa"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 169440,
       "name": "Drivin' in My Car",
       "url": "https://open.spotify.com/track/0oFzsGRIzjGaHfTZTSCBlW"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "20 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0y5nHLqrkcPducSd8QRISi"
+      },
+      "artists": [
+        {
+          "name": "Duo Tiempo de Sol",
+          "url": "https://open.spotify.com/artist/58IHn7WX5UYrLG9BhjAiEA"
+        }
+      ],
+      "duration_ms": 154395,
+      "name": "Baile del marinero",
+      "url": "https://open.spotify.com/track/4MCWEpke2vLhcS96ZK88oo"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Canciones Infantiles, Vol. 2",
-        "url": "https://open.spotify.com/album/2uMGB4cOYTat3Z5mJmydNE"
-      },
-      "artists": [
-        {
-          "name": "Nene Le\u00f3n",
-          "url": "https://open.spotify.com/artist/77KB559uFak8dFDQNrfz6q"
-        }
-      ],
-      "duration_ms": 92127,
-      "name": "Canci\u00f3n para la hora del ba\u00f1o (Agua, jab\u00f3n)",
-      "url": "https://open.spotify.com/track/530Obi3SgOJuKe3H4OzLSq"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Let The Sun Shine",
         "url": "https://open.spotify.com/album/5abWJo4J0NxR4pVgkkjHCx"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 109373,
       "name": "Clean Up Your Toys",
       "url": "https://open.spotify.com/track/55mGuJIzV9aTW85NXs4FQ8"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Canciones Infantiles, Vol. 2",
+        "url": "https://open.spotify.com/album/2uMGB4cOYTat3Z5mJmydNE"
+      },
+      "artists": [
+        {
+          "name": "Nene Le\u00f3n",
+          "url": "https://open.spotify.com/artist/77KB559uFak8dFDQNrfz6q"
+        }
+      ],
+      "duration_ms": 92127,
+      "name": "Canci\u00f3n para la hora del ba\u00f1o (Agua, jab\u00f3n)",
+      "url": "https://open.spotify.com/track/530Obi3SgOJuKe3H4OzLSq"
     },
     {
       "added_at": "2023-03-17 09:43:03",

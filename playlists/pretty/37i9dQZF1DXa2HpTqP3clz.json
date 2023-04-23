@@ -1,12 +1,12 @@
 {
   "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Mighty Poplar",
-  "num_followers": 120165,
+  "num_followers": 120202,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjEwNjc2NiwwMDAwMDAwMDEyYTk5YmJmY2M4ZDY1M2E5NDg1M2IwNjlhMTdmMGU0",
+  "snapshot_id": "MTY4MjEwNjc2NiwwMDAwMDAwMDdiNGFlYmQwNzIxZDg4ODRhZmI4NmQyYmQ2YzE1ODdm",
   "tracks": [
     {
       "added_at": "2023-04-21 19:52:46",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
+        "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
+        "url": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 258217,
+      "name": "Brace for Impact (Live a Little)",
+      "url": "https://open.spotify.com/track/3iLjUZBNEWxGn5HQDpmMXo"
+    },
+    {
+      "added_at": "2023-04-21 19:52:46",
+      "album": {
         "name": "\u201cThe Long-Awaited Album\u201d",
         "url": "https://open.spotify.com/album/18a2XSMBz1cgZyqVnsG684"
       },
@@ -667,34 +683,18 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
-        "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
-        "url": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
+        "name": "When I'm Free",
+        "url": "https://open.spotify.com/album/5kTB8j3fW3o4eFoZLR8bza"
       },
       "artists": [
         {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+          "name": "Hot Rize",
+          "url": "https://open.spotify.com/artist/40iD7Eehimq75Ow4VUxk3r"
         }
       ],
-      "duration_ms": 258217,
-      "name": "Brace for Impact (Live a Little)",
-      "url": "https://open.spotify.com/track/3iLjUZBNEWxGn5HQDpmMXo"
-    },
-    {
-      "added_at": "2023-04-21 19:52:46",
-      "album": {
-        "name": "Stress Dreams",
-        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
-      },
-      "artists": [
-        {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
-        }
-      ],
-      "duration_ms": 420123,
-      "name": "Grow Together",
-      "url": "https://open.spotify.com/track/1obfAgnYJiqcqDjTv7ZYaM"
+      "duration_ms": 182120,
+      "name": "You Were on My Mind This Morning",
+      "url": "https://open.spotify.com/track/6XN8ygVU7ltNbEgKLPUrKy"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -719,18 +719,18 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
-        "name": "When I'm Free",
-        "url": "https://open.spotify.com/album/5kTB8j3fW3o4eFoZLR8bza"
+        "name": "Stress Dreams",
+        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
       },
       "artists": [
         {
-          "name": "Hot Rize",
-          "url": "https://open.spotify.com/artist/40iD7Eehimq75Ow4VUxk3r"
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
         }
       ],
-      "duration_ms": 182120,
-      "name": "You Were on My Mind This Morning",
-      "url": "https://open.spotify.com/track/6XN8ygVU7ltNbEgKLPUrKy"
+      "duration_ms": 420123,
+      "name": "Grow Together",
+      "url": "https://open.spotify.com/track/1obfAgnYJiqcqDjTv7ZYaM"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
-        "name": "Down the Road",
-        "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
+        "name": "Thick As Thieves",
+        "url": "https://open.spotify.com/album/1qL2Jl8sA1lIonNvTb6xAu"
       },
       "artists": [
         {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+          "name": "Tejon Street Corner Thieves",
+          "url": "https://open.spotify.com/artist/3k9kCfMqAsrd90TMsYzzmo"
         }
       ],
-      "duration_ms": 195573,
-      "name": "Down the Road",
-      "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
+      "duration_ms": 241013,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/4uj4owY793HdrUdMJeH8Gc"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -799,34 +799,18 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
-        "name": "Thick As Thieves",
-        "url": "https://open.spotify.com/album/1qL2Jl8sA1lIonNvTb6xAu"
+        "name": "Down the Road",
+        "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
       },
       "artists": [
         {
-          "name": "Tejon Street Corner Thieves",
-          "url": "https://open.spotify.com/artist/3k9kCfMqAsrd90TMsYzzmo"
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
         }
       ],
-      "duration_ms": 241013,
-      "name": "Whiskey",
-      "url": "https://open.spotify.com/track/4uj4owY793HdrUdMJeH8Gc"
-    },
-    {
-      "added_at": "2023-04-21 19:52:46",
-      "album": {
-        "name": "Wild as We Came Here",
-        "url": "https://open.spotify.com/album/754yx9mZquABRQbCpwL5r7"
-      },
-      "artists": [
-        {
-          "name": "The Steel Wheels",
-          "url": "https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn"
-        }
-      ],
-      "duration_ms": 180546,
-      "name": "Scrape Me Off the Ceiling",
-      "url": "https://open.spotify.com/track/0imRwJuihcp7MvVEFnipaq"
+      "duration_ms": 195573,
+      "name": "Down the Road",
+      "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -855,6 +839,22 @@
       "duration_ms": 188573,
       "name": "Ain\u2019t That Fine",
       "url": "https://open.spotify.com/track/1TrLKX7IZyktQzBy6TeBpC"
+    },
+    {
+      "added_at": "2023-04-21 19:52:46",
+      "album": {
+        "name": "Wild as We Came Here",
+        "url": "https://open.spotify.com/album/754yx9mZquABRQbCpwL5r7"
+      },
+      "artists": [
+        {
+          "name": "The Steel Wheels",
+          "url": "https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn"
+        }
+      ],
+      "duration_ms": 180546,
+      "name": "Scrape Me Off the Ceiling",
+      "url": "https://open.spotify.com/track/0imRwJuihcp7MvVEFnipaq"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -975,6 +975,42 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
+        "name": "Storyman",
+        "url": "https://open.spotify.com/album/25F6ItCZFGZ79LvZVhlDIm"
+      },
+      "artists": [
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 211160,
+      "name": "Play By Your Own Rules",
+      "url": "https://open.spotify.com/track/1ckFSTIyJECBMf9PX0Ezhc"
+    },
+    {
+      "added_at": "2023-04-21 19:52:46",
+      "album": {
+        "name": "Harder Than Steel",
+        "url": "https://open.spotify.com/album/3pei7yQ2k0a5pgcRZkCjBr"
+      },
+      "artists": [
+        {
+          "name": "Kruger Brothers",
+          "url": "https://open.spotify.com/artist/2VKdUZfz4ILSHoqU53Oxmr"
+        },
+        {
+          "name": "Kontras Quartet",
+          "url": "https://open.spotify.com/artist/23R3zse4xQdiawrmLvTK7l"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Harder Than Steel",
+      "url": "https://open.spotify.com/track/03xIPbTIXnqTJnElXpDYjY"
+    },
+    {
+      "added_at": "2023-04-21 19:52:46",
+      "album": {
         "name": "White Freight Liner Blues (feat. Molly Tuttle)",
         "url": "https://open.spotify.com/album/6x0ueS4GGofC8q79ryKbR4"
       },
@@ -1007,42 +1043,6 @@
       "duration_ms": 181573,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/1HtXFOJnsyKNIsFnk2MySA"
-    },
-    {
-      "added_at": "2023-04-21 19:52:46",
-      "album": {
-        "name": "Harder Than Steel",
-        "url": "https://open.spotify.com/album/3pei7yQ2k0a5pgcRZkCjBr"
-      },
-      "artists": [
-        {
-          "name": "Kruger Brothers",
-          "url": "https://open.spotify.com/artist/2VKdUZfz4ILSHoqU53Oxmr"
-        },
-        {
-          "name": "Kontras Quartet",
-          "url": "https://open.spotify.com/artist/23R3zse4xQdiawrmLvTK7l"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Harder Than Steel",
-      "url": "https://open.spotify.com/track/03xIPbTIXnqTJnElXpDYjY"
-    },
-    {
-      "added_at": "2023-04-21 19:52:46",
-      "album": {
-        "name": "Storyman",
-        "url": "https://open.spotify.com/album/25F6ItCZFGZ79LvZVhlDIm"
-      },
-      "artists": [
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        }
-      ],
-      "duration_ms": 211160,
-      "name": "Play By Your Own Rules",
-      "url": "https://open.spotify.com/track/1ckFSTIyJECBMf9PX0Ezhc"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
-        "name": "Sidetrack My Engine",
-        "url": "https://open.spotify.com/album/4J8nWVnRETkmTYA2023PCx"
-      },
-      "artists": [
-        {
-          "name": "Nora Brown",
-          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
-        }
-      ],
-      "duration_ms": 165213,
-      "name": "Wedding Dress",
-      "url": "https://open.spotify.com/track/61PiRWXdcKeWZyi3Lf6I9t"
-    },
-    {
-      "added_at": "2023-04-21 19:52:46",
-      "album": {
         "name": "Edges Run",
         "url": "https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 194786,
       "name": "Edges Run",
       "url": "https://open.spotify.com/track/3LTKKY3qb8MmG3ZfJcfR0x"
+    },
+    {
+      "added_at": "2023-04-21 19:52:46",
+      "album": {
+        "name": "Sidetrack My Engine",
+        "url": "https://open.spotify.com/album/4J8nWVnRETkmTYA2023PCx"
+      },
+      "artists": [
+        {
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+        }
+      ],
+      "duration_ms": 165213,
+      "name": "Wedding Dress",
+      "url": "https://open.spotify.com/track/61PiRWXdcKeWZyi3Lf6I9t"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
-        "name": "In The Ground",
-        "url": "https://open.spotify.com/album/1j4gD0XEw3vXiGvdTFDcde"
-      },
-      "artists": [
-        {
-          "name": "Gibson Brothers",
-          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Homemade Wine",
-      "url": "https://open.spotify.com/track/7BNlfq5BJooDMsBFRBfyv7"
-    },
-    {
-      "added_at": "2023-04-21 19:52:46",
-      "album": {
         "name": "Dillsboro Blues",
         "url": "https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD"
       },
@@ -1271,26 +1255,34 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
-        "name": "Crooked Tree",
-        "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
+        "name": "In The Ground",
+        "url": "https://open.spotify.com/album/1j4gD0XEw3vXiGvdTFDcde"
       },
       "artists": [
         {
-          "name": "Molly Tuttle & Golden Highway",
-          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
-        },
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+          "name": "Gibson Brothers",
+          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
         }
       ],
-      "duration_ms": 197294,
-      "name": "Big Backyard (feat. Old Crow Medicine Show)",
-      "url": "https://open.spotify.com/track/515grUPGeNHPCKOThjaUYg"
+      "duration_ms": 191906,
+      "name": "Homemade Wine",
+      "url": "https://open.spotify.com/track/7BNlfq5BJooDMsBFRBfyv7"
+    },
+    {
+      "added_at": "2023-04-21 19:52:46",
+      "album": {
+        "name": "Ink, Dust & Luck",
+        "url": "https://open.spotify.com/album/40hyJ3WFVt22d9w4DPM3aA"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Comatose",
+          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
+        }
+      ],
+      "duration_ms": 190789,
+      "name": "Don't Make Me Get up and Go",
+      "url": "https://open.spotify.com/track/7dPMI5iIdwonksEYLSdsZY"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -1331,18 +1323,26 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
-        "name": "Ink, Dust & Luck",
-        "url": "https://open.spotify.com/album/40hyJ3WFVt22d9w4DPM3aA"
+        "name": "Crooked Tree",
+        "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
       },
       "artists": [
         {
-          "name": "The Brothers Comatose",
-          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
         }
       ],
-      "duration_ms": 190789,
-      "name": "Don't Make Me Get up and Go",
-      "url": "https://open.spotify.com/track/7dPMI5iIdwonksEYLSdsZY"
+      "duration_ms": 197294,
+      "name": "Big Backyard (feat. Old Crow Medicine Show)",
+      "url": "https://open.spotify.com/track/515grUPGeNHPCKOThjaUYg"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/30Gt314KlreEWOf5HG8MnX"
+      },
+      "artists": [
+        {
+          "name": "Mikele Buck Band",
+          "url": "https://open.spotify.com/artist/3kiJtUXIOKuZ8qz44zEHeN"
+        }
+      ],
+      "duration_ms": 223404,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/4aBIM2sFhNQX1viAcP1JQr"
+    },
+    {
+      "added_at": "2023-04-21 19:52:46",
+      "album": {
         "name": "Odds of Getting Even",
         "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
       },
@@ -1471,18 +1487,18 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/30Gt314KlreEWOf5HG8MnX"
+        "name": "Life Is Good on the Open Road",
+        "url": "https://open.spotify.com/album/2U6ejoIDreiVA6Tt0ITxRh"
       },
       "artists": [
         {
-          "name": "Mikele Buck Band",
-          "url": "https://open.spotify.com/artist/3kiJtUXIOKuZ8qz44zEHeN"
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
         }
       ],
-      "duration_ms": 223404,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/4aBIM2sFhNQX1viAcP1JQr"
+      "duration_ms": 268413,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/2aku9CbppMvVCbuDe4scTB"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -1639,22 +1655,6 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
-        "name": "Life Is Good on the Open Road",
-        "url": "https://open.spotify.com/album/2U6ejoIDreiVA6Tt0ITxRh"
-      },
-      "artists": [
-        {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
-        }
-      ],
-      "duration_ms": 268413,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/2aku9CbppMvVCbuDe4scTB"
-    },
-    {
-      "added_at": "2023-04-21 19:52:46",
-      "album": {
         "name": "All The Lilacs In Ohio",
         "url": "https://open.spotify.com/album/0RoKgyjnIzu1FC2aneG3Au"
       },
@@ -1691,18 +1691,34 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
-        "name": "Honey on My Tongue",
-        "url": "https://open.spotify.com/album/05H2cjz5UyKcNXkZAVw0vn"
+        "name": "Run, Rose, Run",
+        "url": "https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG"
       },
       "artists": [
         {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 203346,
-      "name": "Honey on My Tongue",
-      "url": "https://open.spotify.com/track/7dWU9dceisIvOkZuteFl1A"
+      "duration_ms": 193173,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/7C8gwN0JX7Df8Rfepg8nMi"
+    },
+    {
+      "added_at": "2023-04-21 19:52:46",
+      "album": {
+        "name": "Rise Sun",
+        "url": "https://open.spotify.com/album/3jFG5srnWyHmefKlXU3hZS"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 348849,
+      "name": "Planets",
+      "url": "https://open.spotify.com/track/0kTv9skMMRnFZQY1Mat5p9"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -1727,34 +1743,18 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
-        "name": "Rise Sun",
-        "url": "https://open.spotify.com/album/3jFG5srnWyHmefKlXU3hZS"
+        "name": "Drifter",
+        "url": "https://open.spotify.com/album/69UJfZuTLuRKsM9dLgsf40"
       },
       "artists": [
         {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+          "name": "Volume Five",
+          "url": "https://open.spotify.com/artist/1M5MzZDx6FRFfKQP0X23IX"
         }
       ],
-      "duration_ms": 348849,
-      "name": "Planets",
-      "url": "https://open.spotify.com/track/0kTv9skMMRnFZQY1Mat5p9"
-    },
-    {
-      "added_at": "2023-04-21 19:52:46",
-      "album": {
-        "name": "Run, Rose, Run",
-        "url": "https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 193173,
-      "name": "Firecracker",
-      "url": "https://open.spotify.com/track/7C8gwN0JX7Df8Rfepg8nMi"
+      "duration_ms": 174773,
+      "name": "95 Years",
+      "url": "https://open.spotify.com/track/2FWHuUIYeGnboXO0PFaVc8"
     }
   ],
   "unique_name": "Grass Roots",

@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 7062,
+  "num_followers": 7066,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMGVkNWQ0ZTBhZWI3OWRlZDY0Zjg5NGQzZDVjMDAwNDAy",
+  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMGZjN2ZkMTllN2NiY2U0ZjY0NjM0OTNmOTk3YzAzNzJl",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -583,38 +583,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Paul Barbarin & His New Orleans Jazz Band",
-        "url": "https://open.spotify.com/album/3zRlKQfk8NNRwWumbt6FMx"
-      },
-      "artists": [
-        {
-          "name": "Paul Barbarin & His New Orleans Jazz Band",
-          "url": "https://open.spotify.com/artist/3FE6ZZKTPt5j31R5uPkTYS"
-        }
-      ],
-      "duration_ms": 315600,
-      "name": "Bugle Boy March",
-      "url": "https://open.spotify.com/track/3fbvU3HoMviq8NaxeL6lA2"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "30 Jahre Black Bottom Stompers",
-        "url": "https://open.spotify.com/album/622kT8j41pEKEflwXna9lF"
-      },
-      "artists": [
-        {
-          "name": "Black Bottom Stompers",
-          "url": "https://open.spotify.com/artist/2Ojk9nhFgHi2M8rn5DaPMe"
-        }
-      ],
-      "duration_ms": 242733,
-      "name": "Clarinete Marmelade",
-      "url": "https://open.spotify.com/track/5DM8ancodZVJhxloNqEqUh"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "George Girard's Band",
         "url": "https://open.spotify.com/album/0pSfyYcO5ik5MklfWkVkpr"
       },
@@ -647,6 +615,38 @@
       "duration_ms": 179573,
       "name": "Roses of Picardy",
       "url": "https://open.spotify.com/track/2eksoro6WHBtJzAO4HdXar"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Paul Barbarin & His New Orleans Jazz Band",
+        "url": "https://open.spotify.com/album/3zRlKQfk8NNRwWumbt6FMx"
+      },
+      "artists": [
+        {
+          "name": "Paul Barbarin & His New Orleans Jazz Band",
+          "url": "https://open.spotify.com/artist/3FE6ZZKTPt5j31R5uPkTYS"
+        }
+      ],
+      "duration_ms": 315600,
+      "name": "Bugle Boy March",
+      "url": "https://open.spotify.com/track/3fbvU3HoMviq8NaxeL6lA2"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "30 Jahre Black Bottom Stompers",
+        "url": "https://open.spotify.com/album/622kT8j41pEKEflwXna9lF"
+      },
+      "artists": [
+        {
+          "name": "Black Bottom Stompers",
+          "url": "https://open.spotify.com/artist/2Ojk9nhFgHi2M8rn5DaPMe"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "Clarinete Marmelade",
+      "url": "https://open.spotify.com/track/5DM8ancodZVJhxloNqEqUh"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -763,6 +763,46 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "Jam Session in Connecticut, Vol. 1",
+        "url": "https://open.spotify.com/album/5KN6pi2feDQHvAg89CFHWd"
+      },
+      "artists": [
+        {
+          "name": "Big Bill Bissonnette",
+          "url": "https://open.spotify.com/artist/6rWKOdIJ1sNrwIkExpqft3"
+        },
+        {
+          "name": "Fred Vigorito",
+          "url": "https://open.spotify.com/artist/5oGStUPpuSDCwBNfrY6GRJ"
+        },
+        {
+          "name": "Ron Going",
+          "url": "https://open.spotify.com/artist/4VrKYz7oSRR5bqK5Ee5CL3"
+        },
+        {
+          "name": "Jerry Zigmont",
+          "url": "https://open.spotify.com/artist/12op0GfGk3ePWO5Z6ZibyI"
+        },
+        {
+          "name": "Bill Sinclair",
+          "url": "https://open.spotify.com/artist/6DpwFj7nqyCNs73FyErWei"
+        },
+        {
+          "name": "Emil Mark",
+          "url": "https://open.spotify.com/artist/4r7qBb1bWxrwAdHq8Hage3"
+        },
+        {
+          "name": "Arnie Hyman",
+          "url": "https://open.spotify.com/artist/5Qsc6Qnpqs8Oaq21Fy3cfa"
+        }
+      ],
+      "duration_ms": 316186,
+      "name": "Oh Dem Golden Slippers",
+      "url": "https://open.spotify.com/track/0vnAC7cwUAHOc1a0ePHku2"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "New Orleans to Lyon, Vol. 1",
         "url": "https://open.spotify.com/album/1aeqEOzWMKydJN0X6W1VmB"
       },
@@ -807,46 +847,6 @@
       "duration_ms": 440306,
       "name": "Algiers Strut",
       "url": "https://open.spotify.com/track/3kU40vSWnxsZguL1mdJ4Zx"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "Jam Session in Connecticut, Vol. 1",
-        "url": "https://open.spotify.com/album/5KN6pi2feDQHvAg89CFHWd"
-      },
-      "artists": [
-        {
-          "name": "Big Bill Bissonnette",
-          "url": "https://open.spotify.com/artist/6rWKOdIJ1sNrwIkExpqft3"
-        },
-        {
-          "name": "Fred Vigorito",
-          "url": "https://open.spotify.com/artist/5oGStUPpuSDCwBNfrY6GRJ"
-        },
-        {
-          "name": "Ron Going",
-          "url": "https://open.spotify.com/artist/4VrKYz7oSRR5bqK5Ee5CL3"
-        },
-        {
-          "name": "Jerry Zigmont",
-          "url": "https://open.spotify.com/artist/12op0GfGk3ePWO5Z6ZibyI"
-        },
-        {
-          "name": "Bill Sinclair",
-          "url": "https://open.spotify.com/artist/6DpwFj7nqyCNs73FyErWei"
-        },
-        {
-          "name": "Emil Mark",
-          "url": "https://open.spotify.com/artist/4r7qBb1bWxrwAdHq8Hage3"
-        },
-        {
-          "name": "Arnie Hyman",
-          "url": "https://open.spotify.com/artist/5Qsc6Qnpqs8Oaq21Fy3cfa"
-        }
-      ],
-      "duration_ms": 316186,
-      "name": "Oh Dem Golden Slippers",
-      "url": "https://open.spotify.com/track/0vnAC7cwUAHOc1a0ePHku2"
     },
     {
       "added_at": "2020-08-19 17:19:14",

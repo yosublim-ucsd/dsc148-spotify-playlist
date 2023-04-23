@@ -1,12 +1,12 @@
 {
   "description": "Canciones de rock dignas de festival para dedicarle a tu media naranja.",
-  "num_followers": 101552,
+  "num_followers": 101652,
   "original_name": "Amor Festivalero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTUwMDM0NSwwMDAwMDAwMGU5MDdmOGY4N2UyY2MzMmFjNGE4MzliOTZjOWEwY2Qz",
+  "snapshot_id": "MTY4MTUwMDM0NSwwMDAwMDAwMDJlYjg2YWFkZjVkNWI4NGI5NWViNWNhNjAwMzZjMzU0",
   "tracks": [
     {
       "added_at": "2022-08-09 17:18:57",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-08-09 17:18:57",
       "album": {
-        "name": "Ch\u00fantaros Radio Poder",
-        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 245481,
-      "name": "C\u00edrculo De Amor",
-      "url": "https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C"
-    },
-    {
-      "added_at": "2022-08-09 17:18:57",
-      "album": {
         "name": "Igual Que Ayer",
         "url": "https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 290063,
       "name": "Igual Que Ayer",
       "url": "https://open.spotify.com/track/2JlVEgNJwskpAGSudKPqLD"
+    },
+    {
+      "added_at": "2022-08-09 17:18:57",
+      "album": {
+        "name": "Ch\u00fantaros Radio Poder",
+        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 245481,
+      "name": "C\u00edrculo De Amor",
+      "url": "https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C"
     },
     {
       "added_at": "2022-08-09 17:18:57",

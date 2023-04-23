@@ -1,12 +1,12 @@
 {
   "description": "Afrobeats' hottest singles. Cover: <a href=\"https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL?si=uflhdFTJTcChHYghWx3RoA\"> L.A.X</a> ",
-  "num_followers": 52561,
+  "num_followers": 52662,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAzNDI4NywwMDAwMDAwMDQ2ZmY0MzE5NzcyOGU2YWY1ODFhMzNkZTA2ZDg0MzRl",
+  "snapshot_id": "MTY4MjAzNDI4NywwMDAwMDAwMDM5YmU1NGRkNGM0ZWRhMGI1Y2IyZDZmYjFmMmEwZGU5",
   "tracks": [
     {
       "added_at": "2023-04-20 23:44:47",
@@ -103,8 +103,8 @@
     {
       "added_at": "2023-04-20 23:44:47",
       "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
+        "name": "Soweto (with Don Toliver, Rema, and Tempoe)",
+        "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
       },
       "artists": [
         {
@@ -112,13 +112,21 @@
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         },
         {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
           "name": "Tempoe",
           "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
         }
       ],
-      "duration_ms": 148000,
-      "name": "Soweto",
-      "url": "https://open.spotify.com/track/3IQT2MM49GkXfHF9eemaw5"
+      "duration_ms": 219500,
+      "name": "Soweto (with Don Toliver, Rema and Tempoe)",
+      "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
     },
     {
       "added_at": "2023-04-20 23:44:47",
@@ -271,8 +279,8 @@
     {
       "added_at": "2023-04-20 23:44:47",
       "album": {
-        "name": "Soweto (with Don Toliver, Rema, and Tempoe)",
-        "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
       "artists": [
         {
@@ -280,21 +288,13 @@
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         },
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
           "name": "Tempoe",
           "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
         }
       ],
-      "duration_ms": 219500,
-      "name": "Soweto (with Don Toliver, Rema and Tempoe)",
-      "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
+      "duration_ms": 148000,
+      "name": "Soweto",
+      "url": "https://open.spotify.com/track/3IQT2MM49GkXfHF9eemaw5"
     },
     {
       "added_at": "2023-04-20 23:44:47",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-04-20 23:44:47",
       "album": {
-        "name": "Traboski",
-        "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
-      },
-      "artists": [
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 155860,
-      "name": "Traboski",
-      "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
-    },
-    {
-      "added_at": "2023-04-20 23:44:47",
-      "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/1kT9IWwVHocHo28hAkHpeY"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2023-04-20 23:44:47",
       "album": {
-        "name": "Folake",
-        "url": "https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i"
+        "name": "Traboski",
+        "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
       },
       "artists": [
         {
-          "name": "Boy Spyce",
-          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 168979,
-      "name": "Folake",
-      "url": "https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH"
+      "duration_ms": 155860,
+      "name": "Traboski",
+      "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
     },
     {
       "added_at": "2023-04-20 23:44:47",
@@ -851,6 +835,22 @@
       "duration_ms": 176988,
       "name": "Kpe Paso",
       "url": "https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S"
+    },
+    {
+      "added_at": "2023-04-20 23:44:47",
+      "album": {
+        "name": "Folake",
+        "url": "https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i"
+      },
+      "artists": [
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        }
+      ],
+      "duration_ms": 168979,
+      "name": "Folake",
+      "url": "https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH"
     },
     {
       "added_at": "2023-04-20 23:44:47",
@@ -959,26 +959,6 @@
     {
       "added_at": "2023-04-20 23:44:47",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/54mr7b1004Jqg9PD185VI1"
-      },
-      "artists": [
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 186446,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/47FuxUowVBxua1XxsbLKKX"
-    },
-    {
-      "added_at": "2023-04-20 23:44:47",
-      "album": {
         "name": "The One (Chop Life)",
         "url": "https://open.spotify.com/album/5nECl8Xw4BiWM7PSuI6dDl"
       },
@@ -1023,18 +1003,22 @@
     {
       "added_at": "2023-04-20 23:44:47",
       "album": {
-        "name": "Ara (Gen Gen Tin)",
-        "url": "https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO"
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/54mr7b1004Jqg9PD185VI1"
       },
       "artists": [
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Ara (Gen Gen Tin)",
-      "url": "https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU"
+      "duration_ms": 186446,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/47FuxUowVBxua1XxsbLKKX"
     },
     {
       "added_at": "2023-04-20 23:44:47",
@@ -1051,6 +1035,22 @@
       "duration_ms": 153103,
       "name": "Peace Be Unto You (PBUY)",
       "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
+    },
+    {
+      "added_at": "2023-04-20 23:44:47",
+      "album": {
+        "name": "Ara (Gen Gen Tin)",
+        "url": "https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Ara (Gen Gen Tin)",
+      "url": "https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU"
     },
     {
       "added_at": "2023-04-20 23:44:47",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-04-20 23:44:47",
       "album": {
-        "name": "Stand By You",
-        "url": "https://open.spotify.com/album/4xyk3drYz00n2co5h3h2Kc"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        }
-      ],
-      "duration_ms": 175792,
-      "name": "Stand By You",
-      "url": "https://open.spotify.com/track/4uSn4uo2QYTJcENcvVri96"
-    },
-    {
-      "added_at": "2023-04-20 23:44:47",
-      "album": {
         "name": "Lock Up",
         "url": "https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 223005,
       "name": "Lock Up",
       "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
+    },
+    {
+      "added_at": "2023-04-20 23:44:47",
+      "album": {
+        "name": "Ask About Me",
+        "url": "https://open.spotify.com/album/6u0gaySWdi8suKJ8WE91Z9"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 175820,
+      "name": "Ask About Me",
+      "url": "https://open.spotify.com/track/7E86nXdcmISA9vBH0Egx7O"
     },
     {
       "added_at": "2023-04-20 23:44:47",
@@ -1383,38 +1383,6 @@
     {
       "added_at": "2023-04-20 23:44:47",
       "album": {
-        "name": "Ask About Me",
-        "url": "https://open.spotify.com/album/6u0gaySWdi8suKJ8WE91Z9"
-      },
-      "artists": [
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        }
-      ],
-      "duration_ms": 175820,
-      "name": "Ask About Me",
-      "url": "https://open.spotify.com/track/7E86nXdcmISA9vBH0Egx7O"
-    },
-    {
-      "added_at": "2023-04-20 23:44:47",
-      "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/3A2ta8zCeJjbZkmx0yTxtx"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 143452,
-      "name": "Personal",
-      "url": "https://open.spotify.com/track/1Lg2Agsu9XTZ6M4wfRMpff"
-    },
-    {
-      "added_at": "2023-04-20 23:44:47",
-      "album": {
         "name": "Astalavista",
         "url": "https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8"
       },
@@ -1431,6 +1399,22 @@
       "duration_ms": 171921,
       "name": "Astalavista",
       "url": "https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE"
+    },
+    {
+      "added_at": "2023-04-20 23:44:47",
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/3A2ta8zCeJjbZkmx0yTxtx"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 143452,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/1Lg2Agsu9XTZ6M4wfRMpff"
     },
     {
       "added_at": "2023-04-20 23:44:47",
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2023-04-20 23:44:47",
       "album": {
+        "name": "Zaza",
+        "url": "https://open.spotify.com/album/1NKJU8S17PA7KpNrkP8OtT"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 136855,
+      "name": "Zaza",
+      "url": "https://open.spotify.com/track/40wQLcBCqPVIHj6Hk8D3QP"
+    },
+    {
+      "added_at": "2023-04-20 23:44:47",
+      "album": {
         "name": "SETE REMIX (feat. Young Stunna, Diamond Platnumz & Oxlade)",
         "url": "https://open.spotify.com/album/04fBNopmMepdbuk96REyzW"
       },
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-04-20 23:44:47",
       "album": {
-        "name": "Zaza",
-        "url": "https://open.spotify.com/album/1NKJU8S17PA7KpNrkP8OtT"
-      },
-      "artists": [
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        }
-      ],
-      "duration_ms": 136855,
-      "name": "Zaza",
-      "url": "https://open.spotify.com/track/40wQLcBCqPVIHj6Hk8D3QP"
-    },
-    {
-      "added_at": "2023-04-20 23:44:47",
-      "album": {
         "name": "Bad Boy (feat. Mayorkun)",
         "url": "https://open.spotify.com/album/4vrb4l5CjEYXkCTsZkP2go"
       },
@@ -1539,6 +1523,26 @@
       "duration_ms": 169043,
       "name": "Bad Boy (feat. Mayorkun)",
       "url": "https://open.spotify.com/track/6DxaRdAjfbhMk4Hn3bdFqz"
+    },
+    {
+      "added_at": "2023-04-20 23:44:47",
+      "album": {
+        "name": "B A H D",
+        "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 147326,
+      "name": "Knee Down",
+      "url": "https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4"
     }
   ],
   "unique_name": "Gbedu",

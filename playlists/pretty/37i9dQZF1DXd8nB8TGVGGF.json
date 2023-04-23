@@ -1,12 +1,12 @@
 {
   "description": "The best Blues for a long trip behind the wheel. ",
-  "num_followers": 18060,
+  "num_followers": 18104,
   "original_name": "Blues Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgzNzI1NiwwMDAwMDAwMGYzYTk4ZTcxNTQyNTY0N2I4NTY3YTYxOTg4ZWMyYmY0",
+  "snapshot_id": "MTY3NDgzNzI1NiwwMDAwMDAwMGRmMjM0Yjk5MGFhNjg3NTExZWY0ZTYwNTFjMDM0OTdk",
   "tracks": [
     {
       "added_at": "2023-01-27 16:34:16",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
-        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 152893,
-      "name": "Shake Your Money Maker",
-      "url": "https://open.spotify.com/track/2VxnY6jbl0SckkZp9wrNF7"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Disraeli Gears",
         "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 144933,
       "name": "Outside Woman Blues",
       "url": "https://open.spotify.com/track/5BSN3UcARskPfzxA6YhJCM"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
+        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 152893,
+      "name": "Shake Your Money Maker",
+      "url": "https://open.spotify.com/track/2VxnY6jbl0SckkZp9wrNF7"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "Jam On A Monday Morning",
-      "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Blues For Greeny",
         "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 126773,
       "name": "Long Grey Mare",
       "url": "https://open.spotify.com/track/2qVOcQMtxjrY8WHPkygyGc"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 172173,
+      "name": "Jam On A Monday Morning",
+      "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "duration_ms": 136893,
+      "name": "Somebody Help Me - Mono Version",
+      "url": "https://open.spotify.com/track/1v0D2YFE15WXlxqvoKmCGv"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
         "name": "Five Live Yardbirds (Live at the Marquee Club, London 1964 - 2015 Remaster)",
         "url": "https://open.spotify.com/album/1916j8cvFXL67burTXJ0Mv"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 407746,
       "name": "Smokestack Lightning - Live at the Marquee Club, 1964 - 2015 Remaster",
       "url": "https://open.spotify.com/track/0L4v0fDHbaWeAaIB7Vpirj"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 136893,
-      "name": "Somebody Help Me - Mono Version",
-      "url": "https://open.spotify.com/track/1v0D2YFE15WXlxqvoKmCGv"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "That's It! / Duke Recordings Vol. III",
-        "url": "https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB"
+        "name": "I Was Walking Through The Woods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
       },
       "artists": [
         {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 154693,
-      "name": "Good Time Charlie - Pt. 1 / Single Version",
-      "url": "https://open.spotify.com/track/5HSJ3BzoAWbE0qdRD0YvvQ"
+      "duration_ms": 139626,
+      "name": "I Got My Eyes On You",
+      "url": "https://open.spotify.com/track/5Hm4G8TmOoaVdNWA7okYvn"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "I Was Walking Through The Woods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
+        "name": "That's It! / Duke Recordings Vol. III",
+        "url": "https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB"
       },
       "artists": [
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
         }
       ],
-      "duration_ms": 139626,
-      "name": "I Got My Eyes On You",
-      "url": "https://open.spotify.com/track/5Hm4G8TmOoaVdNWA7okYvn"
+      "duration_ms": 154693,
+      "name": "Good Time Charlie - Pt. 1 / Single Version",
+      "url": "https://open.spotify.com/track/5HSJ3BzoAWbE0qdRD0YvvQ"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
       "artists": [
         {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
         }
       ],
-      "duration_ms": 195400,
-      "name": "Don't Need No Horse",
-      "url": "https://open.spotify.com/track/44f9KFtJb0tdnqJ7RFBqLN"
+      "duration_ms": 175693,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/24m7kDzKRUnYRlz7LWCYnB"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
       "artists": [
         {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 175693,
-      "name": "You Got Me",
-      "url": "https://open.spotify.com/track/24m7kDzKRUnYRlz7LWCYnB"
+      "duration_ms": 195400,
+      "name": "Don't Need No Horse",
+      "url": "https://open.spotify.com/track/44f9KFtJb0tdnqJ7RFBqLN"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Men of the World: The Early Years",
-        "url": "https://open.spotify.com/album/2K7v8gzTtmyX0fjvAVUkzt"
+        "name": "Basic Soul",
+        "url": "https://open.spotify.com/album/5WRNrna2YPWvQtfgCVU7Of"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
         }
       ],
-      "duration_ms": 214800,
-      "name": "Buzz Me Baby",
-      "url": "https://open.spotify.com/track/03orX7fg8pH3tXBhJiuQC7"
+      "duration_ms": 232226,
+      "name": "Uh Huh My Baby",
+      "url": "https://open.spotify.com/track/1smUyCwjopLiEnkyzypWOW"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Basic Soul",
-        "url": "https://open.spotify.com/album/5WRNrna2YPWvQtfgCVU7Of"
+        "name": "Men of the World: The Early Years",
+        "url": "https://open.spotify.com/album/2K7v8gzTtmyX0fjvAVUkzt"
       },
       "artists": [
         {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 232226,
-      "name": "Uh Huh My Baby",
-      "url": "https://open.spotify.com/track/1smUyCwjopLiEnkyzypWOW"
+      "duration_ms": 214800,
+      "name": "Buzz Me Baby",
+      "url": "https://open.spotify.com/track/03orX7fg8pH3tXBhJiuQC7"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Retrospective 1957-62",
-        "url": "https://open.spotify.com/album/6uWHkVI2uh6Dg2xvvZCwTe"
-      },
-      "artists": [
-        {
-          "name": "Slim Harpo",
-          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
-        }
-      ],
-      "duration_ms": 133866,
-      "name": "Don't Start Cryin' Now",
-      "url": "https://open.spotify.com/track/4ElJ84z6n86sNxbRpOrnMp"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Vivid Sound",
         "url": "https://open.spotify.com/album/4TxbXyp5SZGPxZoKCll7ZF"
       },
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
+        "name": "Retrospective 1957-62",
+        "url": "https://open.spotify.com/album/6uWHkVI2uh6Dg2xvvZCwTe"
+      },
+      "artists": [
+        {
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+        }
+      ],
+      "duration_ms": 133866,
+      "name": "Don't Start Cryin' Now",
+      "url": "https://open.spotify.com/track/4ElJ84z6n86sNxbRpOrnMp"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
       },
@@ -1523,6 +1523,22 @@
       "duration_ms": 125106,
       "name": "Still Got The Blues",
       "url": "https://open.spotify.com/track/5IpREDjsiqYQNvHqg4Qj3G"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Goin' To Chicago",
+        "url": "https://open.spotify.com/album/4p5MlG351OaQac8CRZsF3K"
+      },
+      "artists": [
+        {
+          "name": "Billy Boy Arnold",
+          "url": "https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o"
+        }
+      ],
+      "duration_ms": 151560,
+      "name": "Billy Boy's Jump",
+      "url": "https://open.spotify.com/track/1FdYBTTaSGYMaz1zf42kzJ"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Goin' To Chicago",
-        "url": "https://open.spotify.com/album/4p5MlG351OaQac8CRZsF3K"
-      },
-      "artists": [
-        {
-          "name": "Billy Boy Arnold",
-          "url": "https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o"
-        }
-      ],
-      "duration_ms": 151560,
-      "name": "Billy Boy's Jump",
-      "url": "https://open.spotify.com/track/1FdYBTTaSGYMaz1zf42kzJ"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Talkin' Some Sense",
         "url": "https://open.spotify.com/album/4AHgFBOENvVS8v9xvvqddA"
       },
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Hot Boppin Girls Vol. 1",
-        "url": "https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx"
-      },
-      "artists": [
-        {
-          "name": "Nita, Rita & Ruby",
-          "url": "https://open.spotify.com/artist/0UfaffDVhmyk03vTITLrBc"
-        }
-      ],
-      "duration_ms": 123324,
-      "name": "(He Said Yeah) Baby, You\u00b4re the One",
-      "url": "https://open.spotify.com/track/3OHvbRM4MoyvN3RJpN015b"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Blues Helping",
         "url": "https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 177160,
       "name": "So Unkind - 1999 RemasterStereo",
       "url": "https://open.spotify.com/track/72I1RvU2o1Yt8agkT95ePZ"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Hot Boppin Girls Vol. 1",
+        "url": "https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx"
+      },
+      "artists": [
+        {
+          "name": "Nita, Rita & Ruby",
+          "url": "https://open.spotify.com/artist/0UfaffDVhmyk03vTITLrBc"
+        }
+      ],
+      "duration_ms": 123324,
+      "name": "(He Said Yeah) Baby, You\u00b4re the One",
+      "url": "https://open.spotify.com/track/3OHvbRM4MoyvN3RJpN015b"
     },
     {
       "added_at": "2023-01-27 16:34:16",

@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bispo e Bárbara Tinoco.
 
-281 songs - 15 hr 21 min
+282 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Friend Zone](https://open.spotify.com/track/4miuy3pvA6hu4P064319An) | [AYCIRE](https://open.spotify.com/artist/0TaEbExGFUq0KXTfQyaiDJ), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu), [MEM](https://open.spotify.com/artist/6Hfk8OlN3fiMSad3IxCNTy) | [Friend Zone](https://open.spotify.com/album/4nyYQUcbQiFIoeWKx6ra23) | 2:59 | 2023-03-01 | 2023-03-25 |
 | [Friend Zone](https://open.spotify.com/track/04trkiJDGMLe2c2Ghop3f2) | [Hugo Casaca](https://open.spotify.com/artist/0Y8q7atymYLh7p9k4qiYe1), [Soulwave](https://open.spotify.com/artist/7BmVNqv2Zb3bRjzb4qMAr8) | [Friend Zone](https://open.spotify.com/album/5msGs054ES4Jonpc7zHjnf) | 3:04 | 2022-09-29 | 2022-10-28 |
 | [Fundo](https://open.spotify.com/track/70RoY8wdFdF3rrnkHooxp1) | [Sien Flamuri](https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD), [Holympo](https://open.spotify.com/artist/3nwFRfquZaKGnuH3b66uj9), [Naife](https://open.spotify.com/artist/7KTQQgroIAmGaopulh98Bi) | [GANA](https://open.spotify.com/album/6xCXH2MTm96fgygr5GHUz1) | 3:24 | 2023-02-17 | 2023-03-11 |
-| [Férias](https://open.spotify.com/track/5kvAbrnaVqt40FkzWLq23j) | [Projecto 51](https://open.spotify.com/artist/5kHEKWF1LxmEo7w9Lq3xus) | [Férias](https://open.spotify.com/album/4nKNDoaUp9CEywn6SRSGfX) | 4:22 | 2023-04-20 |  |
+| [Férias](https://open.spotify.com/track/5kvAbrnaVqt40FkzWLq23j) | [Projecto 51](https://open.spotify.com/artist/5kHEKWF1LxmEo7w9Lq3xus) | [Férias](https://open.spotify.com/album/4nKNDoaUp9CEywn6SRSGfX) | 4:22 | 2023-04-20 | 2023-04-23 |
 | [Garrafa](https://open.spotify.com/track/4BbLqKSY2DFD1HnIvC8gcu) | [Tieijci](https://open.spotify.com/artist/4anxxxE3Dilg7ugHS6plnH), [BECCAA](https://open.spotify.com/artist/6TTTChDt7x8Qp1NdA1zfF4) | [Garrafa](https://open.spotify.com/album/24KKKh9J99qt15XnnZ1BTN) | 2:59 | 2023-02-10 | 2023-02-13 |
 | [Gasoline](https://open.spotify.com/track/3cIv1Ct9pCkygvsawr9hub) | [FreshhhLife](https://open.spotify.com/artist/5RBV8O5vegqvKHF8tiCz4O), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Gasoline](https://open.spotify.com/album/2MBstB7AuikcLshNNTfqBh) | 3:36 | 2022-11-18 | 2023-01-06 |
 | [Ghetto](https://open.spotify.com/track/6nu1Oh470nGqYRBe2KbxsS) | [Pilitchi](https://open.spotify.com/artist/4nDlpuHI1FcvN8RVEiixY4) | [Ghetto](https://open.spotify.com/album/6dbePtPdJQwhnBMYE3KlvD) | 2:56 | 2023-03-03 | 2023-03-25 |
@@ -194,6 +194,7 @@
 | [Nós](https://open.spotify.com/track/6Dd3kjgwE8UPeyFDkSPMNF) | [Azart](https://open.spotify.com/artist/1sV336GXOSXGZnimU36h1F) | [Nós](https://open.spotify.com/album/4qa7YPzO9nVedEesEcWZYL) | 3:00 | 2022-09-16 | 2022-10-07 |
 | [O Rosto Que Pintei](https://open.spotify.com/track/0cx5OGK0zwSrDucutxkxfT) | [DAYARAH](https://open.spotify.com/artist/0fAUWeQDp5d0fRfou2S55A) | [O Rosto Que Pintei](https://open.spotify.com/album/2oHx8LfFDgehTt0mursfCv) | 2:55 | 2022-07-07 | 2022-07-26 |
 | [OQCQZR](https://open.spotify.com/track/5y2ZiYQjzY0dpWPYctp72c) | [Mvza](https://open.spotify.com/artist/4XVI8cWzKF53dOj2QE0z2O), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [OQCQZR](https://open.spotify.com/album/6MAMENT38JHlex9qNufnYI) | 3:02 | 2023-03-01 |  |
+| [Outono](https://open.spotify.com/track/01DyRyMOPecrfZdVZQvdqJ) | [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE), [Djenga](https://open.spotify.com/artist/2eMReurbaZ9DrN632vlbae) | [Outono](https://open.spotify.com/album/7FfkXkOVmdEDVp9Y6hWIn7) | 3:56 | 2023-04-20 |  |
 | [Outra X](https://open.spotify.com/track/2cvVTn6IZQH2CtJNRNIH7b) | [Lil Noon](https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs) | [2](https://open.spotify.com/album/0MkqOHbny4RkabeHsIaVsp) | 3:26 | 2022-09-08 | 2022-09-30 |
 | [Papa](https://open.spotify.com/track/5zDpSgXwGPxoFMzU4ibble) | [MeLodee](https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj) | [Papa](https://open.spotify.com/album/3aosEAehvS4wa2kTTTYIuY) | 2:58 | 2022-11-11 | 2022-12-02 |
 | [PARA SEMPRE](https://open.spotify.com/track/1iGHa37wh2nlr4upmazMdS) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [PARA SEMPRE](https://open.spotify.com/album/7rsjtUS9ofrZ9VTeIzpbtm) | 2:32 | 2023-03-01 | 2023-03-25 |

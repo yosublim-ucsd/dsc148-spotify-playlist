@@ -1,12 +1,12 @@
 {
   "description": "The sounds keeping the streets of Nigeria on fire. \nCover: Bad boy Timz & Zlatan",
-  "num_followers": 6186,
+  "num_followers": 6269,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAzMTc3NSwwMDAwMDAwMGFlOTVhZWFjMjZkMDNhMmQwODBlMDliZjhjMDI4MzA5",
+  "snapshot_id": "MTY4MjAzMTc3NSwwMDAwMDAwMDAyNDJjYTk3MGNhNjdjYTUyYjVjMTVmZjk3NjlkMDcx",
   "tracks": [
     {
       "added_at": "2023-04-20 23:02:55",
@@ -611,18 +611,18 @@
     {
       "added_at": "2023-04-20 23:02:55",
       "album": {
-        "name": "No Advise Me",
-        "url": "https://open.spotify.com/album/1DVKvXIvBqaIIuPQxy1qkK"
+        "name": "On Fire (From 'Gangs of Lagos')",
+        "url": "https://open.spotify.com/album/1H7A3Jo78llpDiDAuYKkQS"
       },
       "artists": [
         {
-          "name": "Orezi",
-          "url": "https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD"
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
         }
       ],
-      "duration_ms": 178661,
-      "name": "No Advise Me",
-      "url": "https://open.spotify.com/track/563TepXA7x9GT17SHlSBMW"
+      "duration_ms": 160746,
+      "name": "On Fire (From 'Gangs of Lagos')",
+      "url": "https://open.spotify.com/track/5Y06JkdP9jp68nSQLfeu41"
     },
     {
       "added_at": "2023-04-20 23:02:55",
@@ -659,38 +659,18 @@
     {
       "added_at": "2023-04-20 23:02:55",
       "album": {
-        "name": "On Fire (From 'Gangs of Lagos')",
-        "url": "https://open.spotify.com/album/1H7A3Jo78llpDiDAuYKkQS"
+        "name": "No Advise Me",
+        "url": "https://open.spotify.com/album/1DVKvXIvBqaIIuPQxy1qkK"
       },
       "artists": [
         {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+          "name": "Orezi",
+          "url": "https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD"
         }
       ],
-      "duration_ms": 160746,
-      "name": "On Fire (From 'Gangs of Lagos')",
-      "url": "https://open.spotify.com/track/5Y06JkdP9jp68nSQLfeu41"
-    },
-    {
-      "added_at": "2023-04-20 23:02:55",
-      "album": {
-        "name": "Caution (Remix)",
-        "url": "https://open.spotify.com/album/7nbqUtDbv8SvVWmwN2Pqig"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "Skiibii",
-          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
-        }
-      ],
-      "duration_ms": 146951,
-      "name": "Caution (Remix)",
-      "url": "https://open.spotify.com/track/0SO4p98PikYlEcZKa6YXv9"
+      "duration_ms": 178661,
+      "name": "No Advise Me",
+      "url": "https://open.spotify.com/track/563TepXA7x9GT17SHlSBMW"
     },
     {
       "added_at": "2023-04-20 23:02:55",
@@ -711,6 +691,26 @@
       "duration_ms": 143300,
       "name": "Feel Better",
       "url": "https://open.spotify.com/track/11gtAsVqrzhvI0g9lVrLc0"
+    },
+    {
+      "added_at": "2023-04-20 23:02:55",
+      "album": {
+        "name": "Caution (Remix)",
+        "url": "https://open.spotify.com/album/7nbqUtDbv8SvVWmwN2Pqig"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        }
+      ],
+      "duration_ms": 146951,
+      "name": "Caution (Remix)",
+      "url": "https://open.spotify.com/track/0SO4p98PikYlEcZKa6YXv9"
     },
     {
       "added_at": "2023-04-20 23:02:55",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-04-20 23:02:55",
       "album": {
+        "name": "Wale",
+        "url": "https://open.spotify.com/album/2vLIUTSnOYT6kj0dOv5cDK"
+      },
+      "artists": [
+        {
+          "name": "Candy Bleakz",
+          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
+        }
+      ],
+      "duration_ms": 186206,
+      "name": "Wale",
+      "url": "https://open.spotify.com/track/0m4sDtOZ1vIIPLgSneozOo"
+    },
+    {
+      "added_at": "2023-04-20 23:02:55",
+      "album": {
         "name": "A True Champion",
         "url": "https://open.spotify.com/album/6cqaFME7zznZclEDFE6bUk"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 160031,
       "name": "Oga Mi Sir",
       "url": "https://open.spotify.com/track/7aAvNhf385lLD9WABzMqST"
-    },
-    {
-      "added_at": "2023-04-20 23:02:55",
-      "album": {
-        "name": "Wale",
-        "url": "https://open.spotify.com/album/2vLIUTSnOYT6kj0dOv5cDK"
-      },
-      "artists": [
-        {
-          "name": "Candy Bleakz",
-          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
-        }
-      ],
-      "duration_ms": 186206,
-      "name": "Wale",
-      "url": "https://open.spotify.com/track/0m4sDtOZ1vIIPLgSneozOo"
     },
     {
       "added_at": "2023-04-20 23:02:55",

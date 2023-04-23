@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-80 songs - 3 hr 51 min
+81 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Light And Thunder](https://open.spotify.com/track/7cJ41Y7QPLJiChkVBPcmsS) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 | 2022-10-28 |  |
 | [Light Rain Passing Thunder](https://open.spotify.com/track/5HRrUoj7oj7foIL10JVMu7) | [Scandinavian Rain](https://open.spotify.com/artist/1GRz0YQpzcADR8ZTDo5bkd) | [Light Rain Passing Thunder](https://open.spotify.com/album/4U6EdYlsg5cP85xBk7uBdM) | 3:13 | 2022-10-28 |  |
 | [Lit up Sky](https://open.spotify.com/track/7gqGg9Fax0OdHyOcpatuL3) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 | 2022-10-28 | 2023-02-16 |
-| [Low Rumble of Rain and Thunder](https://open.spotify.com/track/1xxD524mnciVxvx1xQK3bJ) | [Leonard Poole](https://open.spotify.com/artist/4GKxXMgOwnbnvJN797HsDO) | [Hard Patio Rain with Thunder](https://open.spotify.com/album/6InpReae8r9WVfr0Z1I4wY) | 2:35 | 2023-01-13 |  |
+| [Low Rumble of Rain and Thunder](https://open.spotify.com/track/1xxD524mnciVxvx1xQK3bJ) | [Leonard Poole](https://open.spotify.com/artist/4GKxXMgOwnbnvJN797HsDO) | [Hard Patio Rain with Thunder](https://open.spotify.com/album/6InpReae8r9WVfr0Z1I4wY) | 2:35 | 2023-01-13 | 2023-04-23 |
 | [Luscious Rain](https://open.spotify.com/track/767C8s4KVShgz4r8hqJAd0) | [Harmonious Nature](https://open.spotify.com/artist/334v3jkZ2T1J40I0QGT3rZ) | [Luscious Rain](https://open.spotify.com/album/4HGhxEOSzvVuaXAb39qhkX) | 2:12 | 2022-10-28 |  |
 | [Medium Rain and Intense NJ Thunder](https://open.spotify.com/track/67P3hjyYGjth8lNBl1gDsI) | [Leonard Poole](https://open.spotify.com/artist/4GKxXMgOwnbnvJN797HsDO) | [Hard Patio Rain with Thunder](https://open.spotify.com/album/6InpReae8r9WVfr0Z1I4wY) | 4:00 | 2023-01-13 | 2023-04-13 |
 | [Medium rain, Thunder Threatening](https://open.spotify.com/track/49in3cjv5iMex3ajzSl47a) | [Naturalia](https://open.spotify.com/artist/2YHtsXV9u31l5qvZL1oaX7) | [Thunder Experience](https://open.spotify.com/album/1eZyixYHFRDImtSibiS9dI) | 3:15 | 2022-10-28 | 2023-04-16 |
@@ -79,6 +79,7 @@
 | [Thunder Rain](https://open.spotify.com/track/2pDK60CgXRz5uwKMI74sKx) | [Taranis](https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH) | [Stormy Evening](https://open.spotify.com/album/59GkRU0YKPMQTpMMS7SkQk) | 3:28 | 2022-10-28 |  |
 | [Thunder Run](https://open.spotify.com/track/6pwYNA6ASZQ2Q0rMG8yVO0) | [Adam Storme](https://open.spotify.com/artist/0eNiH722ChBnOwAjXcKDYI) | [Thunder Run](https://open.spotify.com/album/3j8JVgZckDVWg8UWU2if5g) | 3:28 | 2022-10-28 |  |
 | [Thunder Volts](https://open.spotify.com/track/3sQRC5dgFDkPbVReUwMN9W) | [650 Watts](https://open.spotify.com/artist/0LC81vaWHA3XuTkp8pqWOW) | [Thunder Volts](https://open.spotify.com/album/1go2Vu6ge1LxQIOH3ot16t) | 2:45 | 2023-01-13 |  |
+| [Thundering Heights](https://open.spotify.com/track/2tameDUM4Zo3pLcEzg9OFU) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Thundering Heights](https://open.spotify.com/album/7EEC9RmlpYgpftowu5TdQ4) | 3:10 | 2023-01-13 |  |
 | [Thunderstorm at Night](https://open.spotify.com/track/2Uuu9xFGwFfoY30wGWOG01) | [Baltic Thunderstorms](https://open.spotify.com/artist/1dzZsyQGGVieMijLOeLZS0) | [Thunderstorms \(Vol\. 3\)](https://open.spotify.com/album/3h8HHX6d4lkgyzNcdGQjAU) | 1:37 | 2022-12-09 |  |
 | [Thunderstorm Lullaby](https://open.spotify.com/track/2Bk7dbzRy1TDNsL4mdH6dg) | [Wellseed](https://open.spotify.com/artist/1zItvztjRaMupg7QMvV1Sl) | [Thunderstorm Lullaby](https://open.spotify.com/album/6zQCoBm1SdOdM2tEBAx07e) | 2:54 | 2022-10-28 |  |
 | [Thunderstorms In Italy \- Seamless](https://open.spotify.com/track/4usbGXSHEFUs8W9lXvGRw5) | [Pluvious](https://open.spotify.com/artist/5m8Ny76aXScYfB1HkcjzB6) | [Thunderstorms In Italy](https://open.spotify.com/album/59SfFs0fby6KmMp9A6hnPu) | 2:17 | 2022-12-09 |  |

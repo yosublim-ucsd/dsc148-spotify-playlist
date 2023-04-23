@@ -1,12 +1,12 @@
 {
   "description": "Dreamy jams from the best bedroom producers. Cover: Joji",
-  "num_followers": 1069255,
+  "num_followers": 1069385,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDBhMDBjNTEzM2FmNzUwOTNmYmZkZjQ0M2Q5NGEzOWRh",
+  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDczNjAxNGU3MDcyNjZjODFjMzAwZTgzMDE3NTEyZmYz",
   "tracks": [
     {
       "added_at": "2023-04-17 19:26:13",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "The Shark in Your Water",
-        "url": "https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7"
-      },
-      "artists": [
-        {
-          "name": "Flower Face",
-          "url": "https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz"
-        }
-      ],
-      "duration_ms": 179815,
-      "name": "Spiracle",
-      "url": "https://open.spotify.com/track/6k7HtWuprjQmulpo4OpieI"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "80's makeout session",
         "url": "https://open.spotify.com/album/6MHmgFBPMdhNdj6HamqlYe"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Pendant",
-        "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
+        "name": "The Shark in Your Water",
+        "url": "https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "Flower Face",
+          "url": "https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz"
         }
       ],
-      "duration_ms": 235832,
-      "name": "Pendant",
-      "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
+      "duration_ms": 179815,
+      "name": "Spiracle",
+      "url": "https://open.spotify.com/track/6k7HtWuprjQmulpo4OpieI"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -883,6 +867,22 @@
       "duration_ms": 192000,
       "name": "Waltzing Back",
       "url": "https://open.spotify.com/track/3Q1DprZauQyNo8KGlY8brZ"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Pendant",
+        "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 235832,
+      "name": "Pendant",
+      "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
+        "name": "That I Miss You",
+        "url": "https://open.spotify.com/album/3tE8rkq0T77F2hwjXMzCfF"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 140116,
+      "name": "That I Miss You",
+      "url": "https://open.spotify.com/track/7szBZqBJuj9eAC8HJ4CyTM"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
         "name": "under the rug",
         "url": "https://open.spotify.com/album/2kzc0zjJvPVyr5640MxGyt"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 156381,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/5FcK65jGaIPzdIUB9asktp"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
-        "name": "That I Miss You",
-        "url": "https://open.spotify.com/album/3tE8rkq0T77F2hwjXMzCfF"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 140116,
-      "name": "That I Miss You",
-      "url": "https://open.spotify.com/track/7szBZqBJuj9eAC8HJ4CyTM"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "5K",
-        "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
-      },
-      "artists": [
-        {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
-        }
-      ],
-      "duration_ms": 201261,
-      "name": "Ghost World",
-      "url": "https://open.spotify.com/track/4dwxdOkBE8OBXD9E6EruGv"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "Nothing in Return",
         "url": "https://open.spotify.com/album/7bHQuWjDkBQc4cU0jOTBa1"
       },
@@ -1551,38 +1535,6 @@
       "duration_ms": 232200,
       "name": "Nothing in Return",
       "url": "https://open.spotify.com/track/2r0pJWxAyYVQTHTwcnbM8A"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
-        "name": "Something Else",
-        "url": "https://open.spotify.com/album/6qY6Cll4mJgT32uEv6F3jt"
-      },
-      "artists": [
-        {
-          "name": "Yxngxr1",
-          "url": "https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe"
-        }
-      ],
-      "duration_ms": 158961,
-      "name": "Something Else",
-      "url": "https://open.spotify.com/track/4fxxF2bZOHGi65Nrd4Z52V"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
-        "name": "HEATWAVE",
-        "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 219833,
-      "name": "THE BOTTOM",
-      "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1607,6 +1559,54 @@
       "duration_ms": 194568,
       "name": "beachin",
       "url": "https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "5K",
+        "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "duration_ms": 201261,
+      "name": "Ghost World",
+      "url": "https://open.spotify.com/track/4dwxdOkBE8OBXD9E6EruGv"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "HEATWAVE",
+        "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 219833,
+      "name": "THE BOTTOM",
+      "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Something Else",
+        "url": "https://open.spotify.com/album/6qY6Cll4mJgT32uEv6F3jt"
+      },
+      "artists": [
+        {
+          "name": "Yxngxr1",
+          "url": "https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe"
+        }
+      ],
+      "duration_ms": 158961,
+      "name": "Something Else",
+      "url": "https://open.spotify.com/track/4fxxF2bZOHGi65Nrd4Z52V"
     },
     {
       "added_at": "2023-04-17 19:26:13",

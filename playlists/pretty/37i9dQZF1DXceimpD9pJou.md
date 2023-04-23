@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto:   <a href="https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe?si=Ya3sKfinRXiQeDtwwSzpkw">Carla Morrison</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,390 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,489 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 74 | [Estás Aquí](https://open.spotify.com/track/3PfeHVs2TwHtE1xeWvkrRw) | [Benjamin Rivera](https://open.spotify.com/artist/5k6kUa8aPcXy9TTmOAXX06), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Estás Aquí](https://open.spotify.com/album/71kn6BrX7wojfsC5UeBbxn) | 5:21 |
 | 75 | [Aún Sin Entender](https://open.spotify.com/track/7cgJKyU5q59aDMGbOCXF5L) | [Banda Punto de Encuentro](https://open.spotify.com/artist/0cdOFGGqQxVOOvZoQaG6Vn), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Adorando Entre Amigos](https://open.spotify.com/album/0XgdtM4YTDOJ4TAU7dWr4o) | 6:00 |
 | 76 | [ALELUYA \(Alé\-Grense Los Justos\)](https://open.spotify.com/track/7CgJ6mGO2cqQqMrDz1GL9u) | [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p) | [ALELUYA \(Alé\-Grense Los Justos\)](https://open.spotify.com/album/3gu6I8hB5IZCC9lkCK3L36) | 5:55 |
-| 77 | [Ven Avívanos](https://open.spotify.com/track/5MZUbhVPuW6Jr5dd34ypj1) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Alex Campos](https://open.spotify.com/artist/3k0DlvgKZbZ4Kd12GUYRBC) | [Ven Avívanos](https://open.spotify.com/album/0y5ql9mxvvTP26KTflh18d) | 5:19 |
+| 77 | [Ven Avívanos](https://open.spotify.com/track/5MZUbhVPuW6Jr5dd34ypj1) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Ven Avívanos](https://open.spotify.com/album/0y5ql9mxvvTP26KTflh18d) | 5:19 |
 | 78 | [Nadie Más Que Cristo](https://open.spotify.com/track/4UN2rWfJNWe2fhBzpaNusm) | [Victory House Worship](https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI) | [Nadie Más Que Cristo](https://open.spotify.com/album/2r0xGUzehk4JId9ldrZVws) | 6:11 |
 | 79 | [Yo vi a Dios \- Live](https://open.spotify.com/track/4lJi5nKPkGPCA96K0rDRmb) | [Jesus Worship Center](https://open.spotify.com/artist/7a3pl7rscg69ZvDpmLb8BI) | [Yo vi a Dios \(Live\)](https://open.spotify.com/album/6sGbYY3qzPJynuBvJxhmwF) | 6:53 |
 | 80 | [Venga Tu Reino](https://open.spotify.com/track/12NQTeptAPLucWw7rKdw6k) | [Sharil](https://open.spotify.com/artist/5ORVnd2wkMlJx7wkblVY5l), [Melody Adorno](https://open.spotify.com/artist/43nq5HoQm5caEU9SCaO67o) | [Venga Tu Reino, Vol\. 1](https://open.spotify.com/album/0MFvqVYkCTMJfD0IkaWiFb) | 4:43 |

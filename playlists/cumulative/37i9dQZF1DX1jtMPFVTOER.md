@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: Cisco Swank
 
-422 songs - 1 day 1 hr 15 min
+423 songs - 1 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [BETTER \(arr\. Emawk\)](https://open.spotify.com/track/5kZhsoeFVmoLWOkRNx8YmB) | [Malika Tirolien](https://open.spotify.com/artist/0ikYn0NEcQ8rC64TA3Rh4N), [emawk](https://open.spotify.com/artist/7gSZocK2o1aDYdXQcVZKJp) | [Better \(arr\. Emawk\)](https://open.spotify.com/album/1pTdZPhmgOd5rTJa7a1YtT) | 5:40 | 2022-10-21 |  |
 | [Better Days \- Kaidi Tatham Remix](https://open.spotify.com/track/4UgIHLiNvKMGZT5k0cU9Ew) | [Rosie Frater\-Taylor](https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Better Days \(Kaidi Tatham Remix\)](https://open.spotify.com/album/5llHpRWrIbcjzCjTJsVz2m) | 3:57 | 2021-11-12 | 2022-07-09 |
 | [BIRDS](https://open.spotify.com/track/1yvBiaQXOJmWa21RgSPu18) | [Eliy Orcko](https://open.spotify.com/artist/2brR8geRZXyEqerYgy5clh), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [BIRDS](https://open.spotify.com/album/5PQkPHv3vIIXqfPoza8AK4) | 2:36 | 2022-06-03 | 2022-11-26 |
-| [Bitches Are Back \(feat\. Blu\)](https://open.spotify.com/track/4PwQK1PvtFcfI1c3G0CeGE) | [M.E.B.](https://open.spotify.com/artist/6AjJDwKIPlXjOxGeiCCy9P), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT) | [Bitches Are Back \(feat\. Blu\)](https://open.spotify.com/album/3m2IraIFP2TKLSfq0QITrm) | 3:28 | 2023-02-17 |  |
+| [Bitches Are Back \(feat\. Blu\)](https://open.spotify.com/track/4PwQK1PvtFcfI1c3G0CeGE) | [M.E.B.](https://open.spotify.com/artist/6AjJDwKIPlXjOxGeiCCy9P), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT) | [Bitches Are Back \(feat\. Blu\)](https://open.spotify.com/album/3m2IraIFP2TKLSfq0QITrm) | 3:28 | 2023-02-17 | 2023-04-23 |
+| [Bitches Are Back \(feat\. Blu\)](https://open.spotify.com/track/53zoAtfe6IeLQxcnJmswgk) | [M.E.B.](https://open.spotify.com/artist/5rnUUWYdDAG4CVFhj2yUtm), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT) | [That You Not Dare To Forget](https://open.spotify.com/album/6WgNJUxiFSVZTBO6UR4wqH) | 3:28 | 2023-02-17 |  |
 | [Bittersweet \- Radio Edit](https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Bittersweet \(Radio Edit\)](https://open.spotify.com/album/6zqOLPAQagrbNJCd10MiST) | 3:56 | 2021-11-12 | 2022-03-12 |
 | [black & gold](https://open.spotify.com/track/5IPHTe3gNyJNJGukYwDamD) | [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [black & gold](https://open.spotify.com/album/7wt00eQdsOs6XpaNvIJVyQ) | 3:21 | 2022-10-28 |  |
 | [Black Grapes](https://open.spotify.com/track/6h5z1pLe1wsv1QPEXeTu9p) | [Bocha](https://open.spotify.com/artist/3Uyli9ZRk3FZa1jYkMrxhz), [Corey G](https://open.spotify.com/artist/0OkqNjlmC3mfNMQZLWhP8l), [Jurdan Bryant](https://open.spotify.com/artist/1orGzEcUk9PolAOUmBZLR1) | [DIY](https://open.spotify.com/album/5UiPHP02USJh2sRFWAOVKP) | 2:32 | 2023-02-03 |  |

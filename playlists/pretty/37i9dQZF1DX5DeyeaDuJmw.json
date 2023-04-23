@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: Anuel AA.",
-  "num_followers": 142582,
+  "num_followers": 142662,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMGQ3ODllNjQ5ODc1NzhhOTllZDYyOTRhMjk3YWNiYjg4",
+  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMDRiOGJhNzEwM2JkNzMxYmY4ZmNjMTQ4OThhYmQzNWM5",
   "tracks": [
     {
       "added_at": "2022-11-18 03:00:00",
@@ -319,26 +319,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
-        "url": "https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 158086,
-      "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
-      "url": "https://open.spotify.com/track/03LfOYi0icz4souspZVVhq"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Gargolas 3",
         "url": "https://open.spotify.com/album/6owe1MO20hyH4dZURGb3Ob"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 170004,
       "name": "Donde Estan las Gatas",
       "url": "https://open.spotify.com/track/0tIpUUbOYIWqvI50Ksf7D5"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
+        "url": "https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 158086,
+      "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
+      "url": "https://open.spotify.com/track/03LfOYi0icz4souspZVVhq"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Los Favoritos 2",
+        "url": "https://open.spotify.com/album/2TUgzZ8XOE8jm7tDpU4iME"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Payaso",
+      "url": "https://open.spotify.com/track/44r2HY8ZnKa5gJRqnKw7Sq"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Como Si Nah (feat. KEVVO)",
         "url": "https://open.spotify.com/album/4OhsVQMAJ94vPXS4KCOn0M"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 205500,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/2fwycfb0beKkeRQ9JH8dmU"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Los Favoritos 2",
-        "url": "https://open.spotify.com/album/2TUgzZ8XOE8jm7tDpU4iME"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Payaso",
-      "url": "https://open.spotify.com/track/44r2HY8ZnKa5gJRqnKw7Sq"
     },
     {
       "added_at": "2022-11-18 03:00:00",

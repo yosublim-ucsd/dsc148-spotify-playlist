@@ -1,12 +1,12 @@
 {
   "description": "Nada que un buen danz\u00f3n no pueda curar. ",
-  "num_followers": 12867,
+  "num_followers": 12899,
   "original_name": "Danz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ4MjkwMiwwMDAwMDAwMGYzZjJkM2M4MGU3MmFmNWU2YThiOWU4ZDljZjM2ZjY3",
+  "snapshot_id": "MTY1OTQ4MjkwMiwwMDAwMDAwMGFmMGFiOTRjYmQwNDgxMjUwMmM3M2NiOGZhMTEyZjEy",
   "tracks": [
     {
       "added_at": "2022-08-02 23:28:22",
@@ -479,26 +479,6 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Sones y Tradiciones (feat. Cachao)",
-        "url": "https://open.spotify.com/album/7COrF1dEussKfi9YzTEFte"
-      },
-      "artists": [
-        {
-          "name": "Enrique Chia",
-          "url": "https://open.spotify.com/artist/3EQoDMzsInptAXiIs8sVt9"
-        },
-        {
-          "name": "Cachao",
-          "url": "https://open.spotify.com/artist/1Qa5p9ajnRIvq7bfsdtzqQ"
-        }
-      ],
-      "duration_ms": 251866,
-      "name": "Isora Club (Danzon)",
-      "url": "https://open.spotify.com/track/1NaLxDm29Sw7ecSYVt29Ii"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
         "name": "El Embrujo del Danz\u00f3n",
         "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 265200,
       "name": "Nana",
       "url": "https://open.spotify.com/track/7mW06F9Qz6xWkqSOgTwlWT"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "Sones y Tradiciones (feat. Cachao)",
+        "url": "https://open.spotify.com/album/7COrF1dEussKfi9YzTEFte"
+      },
+      "artists": [
+        {
+          "name": "Enrique Chia",
+          "url": "https://open.spotify.com/artist/3EQoDMzsInptAXiIs8sVt9"
+        },
+        {
+          "name": "Cachao",
+          "url": "https://open.spotify.com/artist/1Qa5p9ajnRIvq7bfsdtzqQ"
+        }
+      ],
+      "duration_ms": 251866,
+      "name": "Isora Club (Danzon)",
+      "url": "https://open.spotify.com/track/1NaLxDm29Sw7ecSYVt29Ii"
     },
     {
       "added_at": "2022-08-02 23:28:22",

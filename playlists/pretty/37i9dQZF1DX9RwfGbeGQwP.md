@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,769 likes - 505 songs - 18 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,883 likes - 505 songs - 18 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 23 | [Listen](https://open.spotify.com/track/7qw7kzv9dioHte3XY5MVnJ) | [Wibke Komi](https://open.spotify.com/artist/5lEV6MZ6qSWTLAeGpTg5rI) | [Listen](https://open.spotify.com/album/3LsLzJIgkNTN7ZlelPGvj8) | 2:24 |
 | 24 | [late night train](https://open.spotify.com/track/1HdY90S677tBxCIglQs8rB) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [late night train](https://open.spotify.com/album/0Qlzxc487GyxRnHPqJQDgX) | 2:23 |
 | 25 | [Rock](https://open.spotify.com/track/0YexmBFxPG2pLlSTBmiTvW) | [DisHand](https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy), [tillDawn](https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV) | [Rock](https://open.spotify.com/album/4ErwjOzz1tTmm8vVNBCMaO) | 2:03 |
-| 26 | [roads](https://open.spotify.com/track/6BIZgdGyql6X7KvGkINgPt) | [MLTSMTHNG](https://open.spotify.com/artist/4qVhuxnsE1C2UrjYOPIRtL) | [roads](https://open.spotify.com/album/3iZTkWpoqdcEVOWIxCcR98) | 2:02 |
+| 26 | [roads](https://open.spotify.com/track/6BIZgdGyql6X7KvGkINgPt) | [MLTSMTHNG](https://open.spotify.com/artist/4qVhuxnsE1C2UrjYOPIRtL), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [roads](https://open.spotify.com/album/3iZTkWpoqdcEVOWIxCcR98) | 2:02 |
 | 27 | [By Your Side](https://open.spotify.com/track/1LkuMhbV1HMSB7Mye60a40) | [Goloise](https://open.spotify.com/artist/4kMBqDrPnAOZnUVZLYNDbX) | [By Your Side](https://open.spotify.com/album/6yEFO1j7AKAUl08KjgKglg) | 2:00 |
 | 28 | [Lucky Rainbow](https://open.spotify.com/track/5NDS7qtiCKalX7R6oP0bdC) | [Alf Bringström](https://open.spotify.com/artist/5pJjeqNUp7OHlqH3ocOO0K) | [Lucky Rainbow](https://open.spotify.com/album/5al80m1RTAG1QgmNYZ3JR2) | 2:03 |
 | 29 | [Forgotten Lands](https://open.spotify.com/track/6mLacmXHVhMYntonD5ckR6) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Forgotten Lands](https://open.spotify.com/album/6ykUoEEX0ACKOeoHCRB5Re) | 2:25 |

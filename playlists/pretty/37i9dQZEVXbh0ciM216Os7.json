@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwMzQxNjAsMDAwMDAwMDA2Y2RmYzI5N2JiNmMzNjNkMTY2YzFiOWMyZTJkYmY2ZQ==",
+  "snapshot_id": "MjgwMzQxNjAsMDAwMDAwMDAyYTM1Zjg1NmZlZGE4ZmFkMTNkMDFkYWU3OGRmNmNmYw==",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -351,6 +351,46 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Hill Billy",
+        "url": "https://open.spotify.com/album/6GeOVU4wnonE5clZuoqQGC"
+      },
+      "artists": [
+        {
+          "name": "Bubba Sparxxx",
+          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
+        },
+        {
+          "name": "Dusty Leigh",
+          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
+        },
+        {
+          "name": "Jcrews",
+          "url": "https://open.spotify.com/artist/5y2AgdbbFUpAXM8T7o8Fvb"
+        }
+      ],
+      "duration_ms": 215593,
+      "name": "Hill Billy",
+      "url": "https://open.spotify.com/track/6cLtxcSqxHInbrgT1vobQT"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/2LFtKHZpmGiB0u9KIHL7GY"
+      },
+      "artists": [
+        {
+          "name": "Firebeatz",
+          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
+        }
+      ],
+      "duration_ms": 145312,
+      "name": "California",
+      "url": "https://open.spotify.com/track/2tP1TRZs1sMhnS0WA3xVdo"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "72 Seasons",
         "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
       },
@@ -559,38 +599,6 @@
       "duration_ms": 264026,
       "name": "Continue as a Guest",
       "url": "https://open.spotify.com/track/5PbPvcgxCZF677hZEVbxWM"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "THE OTHER ONE",
-        "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 203388,
-      "name": "MAYA",
-      "url": "https://open.spotify.com/track/5ieDiSzEdwmNW9qrz8UVqm"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Death Below",
-        "url": "https://open.spotify.com/album/7sgJqz584wJNJfJaC7S88U"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        }
-      ],
-      "duration_ms": 260329,
-      "name": "Deadbolt",
-      "url": "https://open.spotify.com/track/0LFIpvc8Fj1QyS6ZnFC4Yx"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

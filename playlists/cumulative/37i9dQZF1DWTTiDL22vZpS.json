@@ -870,7 +870,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 166475,
       "name": "LIKE THAT! \u26a1",
       "url": "https://open.spotify.com/track/0SloUwZzPagpfOOo9kl33A"
@@ -1182,6 +1182,28 @@
       "duration_ms": 332546,
       "name": "Rompecabezas",
       "url": "https://open.spotify.com/track/5KPVawlzPpOuQ3qqvny35p"
+    },
+    {
+      "album": {
+        "name": "Buitres & Co.",
+        "url": "https://open.spotify.com/album/5vyC6Dahprs1cIdQYMIYDZ"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225458,
+      "name": "Rotos",
+      "url": "https://open.spotify.com/track/5Y1KS5xHBjGXKsEaCnufdi"
     },
     {
       "album": {

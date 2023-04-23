@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 
 > Pop music driving the current, every week\.  Cover: Bree Runway
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,677 likes - 55 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,740 likes - 55 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Be The One \(with Khalid\)](https://open.spotify.com/track/4jMbQ5H6KaSRPRCBuNnW16) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Be The One \(with Khalid\)](https://open.spotify.com/album/1K1Tr5tlgU8aCfijFih1zf) | 3:20 |
 | 2 | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv) | 3:25 |
 | 3 | [Stand Up Eight](https://open.spotify.com/track/0xpfVZCEELk5fD8OUmCnJ6) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Stand Up Eight](https://open.spotify.com/album/5SagmoKh7rZMshbra8uz4N) | 3:07 |
-| 4 | [IDOLIZE](https://open.spotify.com/track/3Hs0dJnewbzzk23UIKvg5y) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE), [Her Demons](https://open.spotify.com/artist/08LTIhrMYBlBUJar9Zi3Rx) | [IDOLIZE](https://open.spotify.com/album/2SOWbWUhvDc6stx7cvbDBK) | 2:36 |
+| 4 | [IDOLIZE](https://open.spotify.com/track/3Hs0dJnewbzzk23UIKvg5y) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE), [Her Demons](https://open.spotify.com/artist/4imZXQgV5VXSWSZfzRavM1) | [IDOLIZE](https://open.spotify.com/album/2SOWbWUhvDc6stx7cvbDBK) | 2:36 |
 | 5 | [Bubblegum](https://open.spotify.com/track/0amKnLMjFYK1cbsOLfUsQS) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Bubblegum](https://open.spotify.com/album/5ufzVnDin8kGSu1nl9qeEN) | 2:43 |
 | 6 | [Red Ruby Da Sleeze](https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Red Ruby Da Sleeze](https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6) | 3:34 |
 | 7 | [She Walk](https://open.spotify.com/track/1FbGqA9IavClqymKu6Xvk6) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [She Walk](https://open.spotify.com/album/1ad5XWzjbGGc7yWGSgg91O) | 1:47 |

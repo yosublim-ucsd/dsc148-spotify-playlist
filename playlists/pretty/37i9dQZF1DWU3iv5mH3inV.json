@@ -1,12 +1,12 @@
 {
   "description": "Prendete con tu lista favorita de Dembow. Foto: Angel Dior & Flow 28",
-  "num_followers": 82601,
+  "num_followers": 82714,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDljYjdhNTkyNzk0NmE1ZDVjNWVkZGVlZDFjMDhmZWY1",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDkxNWQyMmNiNjM0MmRlOGEzMmFiOTBjOWNmZTllNTU0",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Los Bobo Son Mio",
+        "url": "https://open.spotify.com/album/4v1NXjiiUavkphyQmcjmIF"
+      },
+      "artists": [
+        {
+          "name": "Haraca Kiko",
+          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
+        }
+      ],
+      "duration_ms": 131870,
+      "name": "Los Bobo Son Mio",
+      "url": "https://open.spotify.com/track/5NcQz7GySYVN5vyx5r0OIl"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Zuculento",
         "url": "https://open.spotify.com/album/1scppHxJtrQhNHdi5HM9od"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 167168,
       "name": "Zuculento",
       "url": "https://open.spotify.com/track/7zmJxjG9P9if2WRBnNl81o"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Los Bobo Son Mio",
-        "url": "https://open.spotify.com/album/4v1NXjiiUavkphyQmcjmIF"
-      },
-      "artists": [
-        {
-          "name": "Haraca Kiko",
-          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
-        }
-      ],
-      "duration_ms": 131870,
-      "name": "Los Bobo Son Mio",
-      "url": "https://open.spotify.com/track/5NcQz7GySYVN5vyx5r0OIl"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -927,26 +927,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Mueve Eso",
-        "url": "https://open.spotify.com/album/137Kiv3H9ygMvm5fGy8BcR"
-      },
-      "artists": [
-        {
-          "name": "La Perversa",
-          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
-        },
-        {
-          "name": "Luigui Bleand",
-          "url": "https://open.spotify.com/artist/3s4iTKRp9wGJFYyn5Bo8Pq"
-        }
-      ],
-      "duration_ms": 142862,
-      "name": "Mueve Eso",
-      "url": "https://open.spotify.com/track/05I7jRJLZWfHgnuv2w7f75"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "KlK Llego El Tipo the Album",
         "url": "https://open.spotify.com/album/3XHcqktZHNuuRjdLJqiGs0"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 193593,
       "name": "Rana",
       "url": "https://open.spotify.com/track/34ZrmCQFQGTUZxdLIaaNoa"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Mueve Eso",
+        "url": "https://open.spotify.com/album/137Kiv3H9ygMvm5fGy8BcR"
+      },
+      "artists": [
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "Luigui Bleand",
+          "url": "https://open.spotify.com/artist/3s4iTKRp9wGJFYyn5Bo8Pq"
+        }
+      ],
+      "duration_ms": 142862,
+      "name": "Mueve Eso",
+      "url": "https://open.spotify.com/track/05I7jRJLZWfHgnuv2w7f75"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Flyte",
-        "url": "https://open.spotify.com/album/1oU2I4CFdemDR3aMtllc4h"
-      },
-      "artists": [
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "El Futuro Fuera De Orbita",
-          "url": "https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk"
-        }
-      ],
-      "duration_ms": 194490,
-      "name": "Flyte",
-      "url": "https://open.spotify.com/track/3YqTzC9YYQmiT5nDZgl01q"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Dembow Hits",
         "url": "https://open.spotify.com/album/3KmHYKhbEdO8CvzLzT46u6"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 223026,
       "name": "Que Se Mueran de Envidia - Remix",
       "url": "https://open.spotify.com/track/756lNtYctOWwsFwrcAwQ0X"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Flyte",
+        "url": "https://open.spotify.com/album/1oU2I4CFdemDR3aMtllc4h"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "El Futuro Fuera De Orbita",
+          "url": "https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk"
+        }
+      ],
+      "duration_ms": 194490,
+      "name": "Flyte",
+      "url": "https://open.spotify.com/track/3YqTzC9YYQmiT5nDZgl01q"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2027,26 +2027,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Desacatate",
-        "url": "https://open.spotify.com/album/6eKAwNaD9uO8Sfasl72ICV"
-      },
-      "artists": [
-        {
-          "name": "La Materialista",
-          "url": "https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6"
-        },
-        {
-          "name": "Yomel El Meloso",
-          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
-        }
-      ],
-      "duration_ms": 161130,
-      "name": "Desacatate",
-      "url": "https://open.spotify.com/track/4yoaxr2ToiYPaqR37ljvaW"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "HIT DEMBOW",
         "url": "https://open.spotify.com/album/53nhDhd29gXKOnE3vUS1DR"
       },
@@ -2079,6 +2059,26 @@
       "duration_ms": 232151,
       "name": "Serrucho Amolao",
       "url": "https://open.spotify.com/track/1kzs05g4L7sADL1JCBVH1s"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Desacatate",
+        "url": "https://open.spotify.com/album/6eKAwNaD9uO8Sfasl72ICV"
+      },
+      "artists": [
+        {
+          "name": "La Materialista",
+          "url": "https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        }
+      ],
+      "duration_ms": 161130,
+      "name": "Desacatate",
+      "url": "https://open.spotify.com/track/4yoaxr2ToiYPaqR37ljvaW"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2583,26 +2583,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "melacomo",
-        "url": "https://open.spotify.com/album/5lEbFl8zV2BSTUwWDxYZBK"
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/57uRQSxdSSKos8rz66Q65r"
       },
       "artists": [
         {
-          "name": "Aleesha",
-          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
-        },
-        {
-          "name": "Haraca Kiko",
-          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
-        },
-        {
-          "name": "El Cherry Scom",
-          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+          "name": "Joswa In Da House",
+          "url": "https://open.spotify.com/artist/0uBw9poOeuhbMD2xYAxUku"
         }
       ],
-      "duration_ms": 228571,
-      "name": "melacomo",
-      "url": "https://open.spotify.com/track/6FUiZ86ucz8sn45kLfK2wD"
+      "duration_ms": 202005,
+      "name": "Ella Quiere Cualto (Tu No Tiene Cualto)",
+      "url": "https://open.spotify.com/track/0DBhySOALDr1Nz5rtY4kOW"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2623,18 +2615,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/57uRQSxdSSKos8rz66Q65r"
+        "name": "melacomo",
+        "url": "https://open.spotify.com/album/5lEbFl8zV2BSTUwWDxYZBK"
       },
       "artists": [
         {
-          "name": "Joswa In Da House",
-          "url": "https://open.spotify.com/artist/0uBw9poOeuhbMD2xYAxUku"
+          "name": "Aleesha",
+          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
+        },
+        {
+          "name": "Haraca Kiko",
+          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
+        },
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
         }
       ],
-      "duration_ms": 202005,
-      "name": "Ella Quiere Cualto (Tu No Tiene Cualto)",
-      "url": "https://open.spotify.com/track/0DBhySOALDr1Nz5rtY4kOW"
+      "duration_ms": 228571,
+      "name": "melacomo",
+      "url": "https://open.spotify.com/track/6FUiZ86ucz8sn45kLfK2wD"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2731,26 +2731,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Ayayai",
-        "url": "https://open.spotify.com/album/5La0K5s0ftUoLMUGAAHgjG"
-      },
-      "artists": [
-        {
-          "name": "Breycoo",
-          "url": "https://open.spotify.com/artist/5Sewfh7SjZE6gheTG6L35H"
-        },
-        {
-          "name": "El Pepo Show",
-          "url": "https://open.spotify.com/artist/12DrMYv3haAHRxjWzxVRFB"
-        }
-      ],
-      "duration_ms": 166025,
-      "name": "Ayayai",
-      "url": "https://open.spotify.com/track/0YI55FQIlBuy7CKSVZ5ygp"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Bruja",
         "url": "https://open.spotify.com/album/7eBXArBA76Ul3M0g0gYUwA"
       },
@@ -2767,6 +2747,26 @@
       "duration_ms": 171764,
       "name": "Bruja",
       "url": "https://open.spotify.com/track/5cxFAkgM6Gr9VFUr164Cos"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Ayayai",
+        "url": "https://open.spotify.com/album/5La0K5s0ftUoLMUGAAHgjG"
+      },
+      "artists": [
+        {
+          "name": "Breycoo",
+          "url": "https://open.spotify.com/artist/5Sewfh7SjZE6gheTG6L35H"
+        },
+        {
+          "name": "El Pepo Show",
+          "url": "https://open.spotify.com/artist/12DrMYv3haAHRxjWzxVRFB"
+        }
+      ],
+      "duration_ms": 166025,
+      "name": "Ayayai",
+      "url": "https://open.spotify.com/track/0YI55FQIlBuy7CKSVZ5ygp"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2975,6 +2975,42 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Despues del Party (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/72EVxsIsQCf300qnO83LvM"
+      },
+      "artists": [
+        {
+          "name": "Los Mellos On The Track",
+          "url": "https://open.spotify.com/artist/5wbd1nUWIetX7i1ztlDIsd"
+        },
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        }
+      ],
+      "duration_ms": 213185,
+      "name": "Despues del Party",
+      "url": "https://open.spotify.com/track/0ZEIJFQFceMEC3yqAuy2qo"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Llevo la Vainita",
+        "url": "https://open.spotify.com/album/77uDtYXYbHgxQWvT7YCKAX"
+      },
+      "artists": [
+        {
+          "name": "Don Miguelo",
+          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
+        }
+      ],
+      "duration_ms": 162037,
+      "name": "Llevo la Vainita",
+      "url": "https://open.spotify.com/track/0PtuUiKPpQqEp2W4CasynB"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "En Alta (Remix)",
         "url": "https://open.spotify.com/album/5BvehcNg7asKmRrxWEL1M6"
       },
@@ -2999,42 +3035,6 @@
       "duration_ms": 176410,
       "name": "En Alta (Remix)",
       "url": "https://open.spotify.com/track/03UEOYvtWlnY35Fa0Dva9A"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Llevo la Vainita",
-        "url": "https://open.spotify.com/album/77uDtYXYbHgxQWvT7YCKAX"
-      },
-      "artists": [
-        {
-          "name": "Don Miguelo",
-          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
-        }
-      ],
-      "duration_ms": 162037,
-      "name": "Llevo la Vainita",
-      "url": "https://open.spotify.com/track/0PtuUiKPpQqEp2W4CasynB"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Despues del Party (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/72EVxsIsQCf300qnO83LvM"
-      },
-      "artists": [
-        {
-          "name": "Los Mellos On The Track",
-          "url": "https://open.spotify.com/artist/5wbd1nUWIetX7i1ztlDIsd"
-        },
-        {
-          "name": "Amenazzy",
-          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
-        }
-      ],
-      "duration_ms": 213185,
-      "name": "Despues del Party",
-      "url": "https://open.spotify.com/track/0ZEIJFQFceMEC3yqAuy2qo"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -3107,22 +3107,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/6Q600rdy08nCJuabWw7qeR"
-      },
-      "artists": [
-        {
-          "name": "Ceky Viciny",
-          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
-        }
-      ],
-      "duration_ms": 195492,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/4tElm6iIhqYyS1G1CNdD4G"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Como Lo Capo",
         "url": "https://open.spotify.com/album/5IV31eVYSJvzwbqFryT05B"
       },
@@ -3139,6 +3123,22 @@
       "duration_ms": 289201,
       "name": "Como Lo Capo",
       "url": "https://open.spotify.com/track/7f3QVHV8UEwbL2duHAcDGo"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "La Gomita",
+        "url": "https://open.spotify.com/album/1TQ1nTb1tVfHnQOUtXKTx4"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "La Gomita",
+      "url": "https://open.spotify.com/track/0QQbO11ji2wf2VitEQpCZL"
     }
   ],
   "unique_name": "Rep\u00fablica Dembow",

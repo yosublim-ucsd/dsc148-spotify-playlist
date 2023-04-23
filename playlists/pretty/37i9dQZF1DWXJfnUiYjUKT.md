@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Grupo Frontera & Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,664 likes - 98 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,060 likes - 98 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 64 | [What Am I Missing?](https://open.spotify.com/track/1UhP3hxXqqKwrOedzSKFfE) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [What Am I Missing?](https://open.spotify.com/album/4fYbhT0Rz9HTWM2u5XoxDg) | 2:52 |
 | 65 | [Golden](https://open.spotify.com/track/0woKDRMZzsFWeHppNQnGlS) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Golden](https://open.spotify.com/album/50SocXtryJeL2lfhNhDq2B) | 2:50 |
 | 66 | [Never Gets Old](https://open.spotify.com/track/4RIPTau9DhWdg0rozoyttq) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Never Gets Old](https://open.spotify.com/album/4SFmWILl18Ol37dQ9WLFpO) | 3:20 |
-| 67 | [Gimmie A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 |
+| 67 | [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 |
 | 68 | [FW That](https://open.spotify.com/track/28u5CGeIstPNFZcyZ8OAg7) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [FW That](https://open.spotify.com/album/6Tz3mpxCfet4VDkUHy1nSD) | 2:38 |
 | 69 | [Don't Let The Devil \[Feat\. thankugoodsir\] \- Single Version](https://open.spotify.com/track/2LBwRP4HSUTJiLobjhaaXp) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [thankugoodsir](https://open.spotify.com/artist/64wFZ5RSArS1MwJ0N0nJhN) | [Don't Let The Devil \[Feat\. thankugoodsir\]](https://open.spotify.com/album/60rpMY5zgymbCEn7ICfi8M) | 2:44 |
 | 70 | [MI EXXX](https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [MI EXXX](https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC) | 3:14 |

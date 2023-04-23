@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-256 songs - 23 hr 8 min
+257 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Little Big Steps \(feat\. Paolo Fresu\)](https://open.spotify.com/track/09qRAoiYfu019U0wVkYCAg) | [Triosence](https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Giulia](https://open.spotify.com/album/23eKeozrh6qUzPnUpBwGjg) | 6:19 | 2022-02-18 | 2022-08-31 |
 | [Little Boat](https://open.spotify.com/track/4noc1JvLn446v2kBacnEoe) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [In Love Again](https://open.spotify.com/album/3GMcmek84lzwZvDsN1PHca) | 2:35 | 2022-11-12 | 2022-12-24 |
 | [London Blues](https://open.spotify.com/track/5x0knlH4sCOHjw2GjEZPEB) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Introducing Brad Mehldau](https://open.spotify.com/album/3Xof3jYaVXRtGnmiREePG1) | 7:02 | 2020-03-31 |  |
-| [Loneliness](https://open.spotify.com/track/6yrGyCwvV4zJyIbdtdyW7p) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [Believe](https://open.spotify.com/album/7EB9SmVbtZ8cg9qykhQvif) | 7:04 | 2022-07-28 |  |
+| [Loneliness](https://open.spotify.com/track/6yrGyCwvV4zJyIbdtdyW7p) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [Believe](https://open.spotify.com/album/7EB9SmVbtZ8cg9qykhQvif) | 7:04 | 2022-07-28 | 2023-04-23 |
 | [Long Ago \(and Far Away\)](https://open.spotify.com/track/3TiEf1n50RsKFERybqGm2s) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Long Ago \(and Far Away\)](https://open.spotify.com/album/5pXFxobaToNeBHgCRV2YNr) | 3:29 | 2022-11-12 | 2023-02-10 |
 | [Love For Sale](https://open.spotify.com/track/5BN4nwzPH9mjT9uJLI2HUx) | [Pablo Ilanda Trio](https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON) | [Love For Sale](https://open.spotify.com/album/4qsdh6qILDPYgRXxo5ZRqO) | 3:52 | 2022-11-12 | 2023-01-03 |
 | [Love Is Here To Stay](https://open.spotify.com/track/418awaNpluyE2Lvoh6lD0p) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Setembro](https://open.spotify.com/album/5ksQoz2k7IcACaWEL5Key6) | 4:22 | 2022-11-12 | 2022-12-24 |
@@ -215,6 +215,7 @@
 | [Song with Orange and Other Things, Pt\. 1](https://open.spotify.com/track/1zZmLyjiFSEUklKHCj1nq2) | [Mark Wade Trio](https://open.spotify.com/artist/5UJBuLbTmWg5XNUv3e5xDW) | [True Stories](https://open.spotify.com/album/1NupgPFqRhoYih5dYdInac) | 4:43 | 2022-03-11 | 2022-05-04 |
 | [Soon](https://open.spotify.com/track/2fAydkC38qWCHMDz5WjhGk) | [Kevin Waters Group](https://open.spotify.com/artist/57U22BNH5ClRbVtpNjVAoG) | [Soon](https://open.spotify.com/album/4Zj16QaY58OccNy2W9ohpE) | 4:21 | 2022-11-12 |  |
 | [Speak Low](https://open.spotify.com/track/4qY2rgB6SJM9F1RPaLeGcz) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Speak Low](https://open.spotify.com/album/1yGFyTpml5nZFJ692JMOrN) | 3:41 | 2022-11-12 |  |
+| [Springtime](https://open.spotify.com/track/4j5uqScA9Gv7rgRMwaoReo) | [Téo Freire](https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3) | [Springtime](https://open.spotify.com/album/3x04mNNTmBJjQs9jymhaGv) | 3:14 | 2023-04-20 |  |
 | [Stablemates](https://open.spotify.com/track/4y2LfKYTXzLvJ9efo8wb25) | [Steven Feifke](https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S) | [Stablemates](https://open.spotify.com/album/1J6qODNVP71k3FZjGsFg0l) | 3:52 | 2022-02-18 | 2022-03-18 |
 | [Stella By Starlight](https://open.spotify.com/track/2vKupPlhSiBaIysnqX5shW) | [Herlin Riley](https://open.spotify.com/artist/5FuXrmOgtBTlGDUP1O41Ir) | [Perpetual Optimism](https://open.spotify.com/album/0adoHb4iey3I7lIeRi1cmY) | 4:05 | 2020-03-31 | 2022-06-09 |
 | [Stella By Starlight](https://open.spotify.com/track/3hY3MPL9hAITPgVfiVlL5K) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [I'm All For You \(Ballad Songbook\)](https://open.spotify.com/album/4jdRWzxentnlaBY3ZCQsdL) | 5:47 | 2020-03-31 | 2022-08-31 |

@@ -4,7 +4,7 @@
 
 > This is the PROOF of BTS history\. Check out <a href="https://open.spotify.com/playlist/37i9dQZF1DXaR2kf8OYllT">BTS Yet To Come in Busan LIVE SET</a> as well\. ARMY is unbeatable💜
 
-452 songs - 1 day 3 hr 6 min
+454 songs - 1 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Go Go](https://open.spotify.com/track/4kZoZfj7IBg8eo1JZ2vsGO) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:55 | 2022-05-27 |  |
 | [Go Go](https://open.spotify.com/track/5nq1uTNIR1cBR72T87viS0) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 承 'Her'](https://open.spotify.com/album/2FTS6a6DLXMNp8flyA0HGO) | 3:55 | 2022-06-23 | 2022-07-29 |
 | [Go Go](https://open.spotify.com/track/5vOT8VO87TAnUjh0oADwb1) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 承 'Her'](https://open.spotify.com/album/07Rq17GzCnIdWJcyVHb57G) | 3:55 | 2022-05-27 | 2023-02-03 |
+| [Haegeum](https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 2:48 | 2023-04-22 |  |
 | [Heartbeat \(BTS World Original Soundtrack\)](https://open.spotify.com/track/5EgYDyMDCi8X0zDydTF7Rb) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BTS WORLD \(Original Soundtrack\)](https://open.spotify.com/album/3LgNJmZ4QPkSvdt9JB8Tb8) | 4:13 | 2022-06-10 | 2022-06-18 |
 | [Her](https://open.spotify.com/track/56ymD9oPodUTG8oHhauCMx) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:48 | 2022-06-19 | 2022-06-23 |
 | [Her](https://open.spotify.com/track/6FHVHycPPTQp6aAHjLhzFT) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:48 | 2022-05-27 |  |
@@ -351,6 +352,7 @@
 | [Paradise](https://open.spotify.com/track/1YO4xJXhh9A1Feg9k8xuy2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) | 3:31 | 2022-05-27 |  |
 | [People](https://open.spotify.com/track/0SJ7vFES0Lj6pnumh3DhCe) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-2](https://open.spotify.com/album/0zhGddZ83RpCgnelKWa2qS) | 3:17 | 2022-06-10 | 2022-06-18 |
 | [People](https://open.spotify.com/track/4wDSEE082RPcnhXzPzFhCp) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-2](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) | 3:17 | 2022-06-23 |  |
+| [People Pt.2 \(feat\. IU\)](https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [People Pt.2 \(feat\. IU\)](https://open.spotify.com/album/1l12B55qdesQorPcQLJDRo) | 3:33 | 2023-04-22 |  |
 | [Permission to Dance](https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter / Permission to Dance](https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG) | 3:07 | 2022-06-10 | 2022-06-18 |
 | [Permission to Dance](https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ) | 3:07 | 2022-06-23 |  |
 | [Permission to Dance](https://open.spotify.com/track/43Y0lr2rcWirZysfT26JY5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter / Permission to Dance](https://open.spotify.com/album/0E4HPJE6DPIc2OUmJ8rTP0) | 3:07 | 2022-06-03 | 2022-06-11 |

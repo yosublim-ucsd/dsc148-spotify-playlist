@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Bree Runway ft\. Khalid \(pictured\), Ed Sheeran, Arlo Parks and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 829,743 likes - 130 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 829,776 likes - 130 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 58 | [Star Potential](https://open.spotify.com/track/7s6V4GDUXWABQwkyHo3CQA) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Star Potential](https://open.spotify.com/album/2z7hNFTn9jrpfEkr3uVDq4) | 3:02 |
 | 59 | [Don't Let Me Down](https://open.spotify.com/track/181PmaC6c39r59gfhDGKdh) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Don't Let Me Down](https://open.spotify.com/album/1PdRtUkny2sF2Hf1BbHsDU) | 3:55 |
 | 60 | [Twilight](https://open.spotify.com/track/3JPwUS8LRA6nBiukvMBb9a) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Ultraviolet](https://open.spotify.com/album/3shvTPBaqgggoWWKIZXC94) | 3:21 |
-| 61 | [Way Up](https://open.spotify.com/track/2398MESeCtzwLjjjJGIFl3) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz), [Javeon](https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7) | [Way Up](https://open.spotify.com/album/2ISmBpqm45H60YbJpowJC7) | 3:22 |
+| 61 | [Way Up](https://open.spotify.com/track/2398MESeCtzwLjjjJGIFl3) | [Javeon](https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Way Up](https://open.spotify.com/album/2ISmBpqm45H60YbJpowJC7) | 3:22 |
 | 62 | [Baby, Cry](https://open.spotify.com/track/6pJfezxdnzSQ7RK3lq2K2M) | [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Baby, Cry](https://open.spotify.com/album/07h8NlJ6Cxugv5EyRx60dr) | 3:42 |
 | 63 | [The Dumb Song](https://open.spotify.com/track/5udkv8BEG1sAN5ZtR6CAzv) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Dumb Song](https://open.spotify.com/album/1W2Srir1JwdyDQMrN66CF5) | 3:46 |
 | 64 | [Fever](https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Fever](https://open.spotify.com/album/2HD81FIC7edc7NBQ8B5yVr) | 2:26 |

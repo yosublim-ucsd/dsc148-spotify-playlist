@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > 🚂  Aqui é só o trem caro do trap! Foto: L7NNON, MC Ryan SP, Tz da Coronel, Filipe Ret, Big Bllakk, Derxan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,120,758 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,121,335 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 5 | [Preferida](https://open.spotify.com/track/5TtTijiNYtFc6ktQARjY30) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Contradições](https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D) | 2:10 |
 | 6 | [INEFÁVEL \(feat\. Leviano\)](https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup) | [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ) | [INEFÁVEL](https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X) | 4:05 |
 | 7 | [Meca Cereja](https://open.spotify.com/track/52kcarcX0FQ6wPulXm2bMJ) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Meca Cereja](https://open.spotify.com/album/3gCKmwdF0znVzCsHgSFMmC) | 3:54 |
-| 8 | [Nunca Sozinho](https://open.spotify.com/track/3rq6MZyghh4kjOZutPNBfS) | [xolair](https://open.spotify.com/artist/4IyqUNtcBn4sS04LJCzkUq) | [Nunca Sozinho](https://open.spotify.com/album/06LCPYS9Nixib0IzHkurko) | 2:17 |
+| 8 | [Nunca Sozinho](https://open.spotify.com/track/0uGpWtQgtZ6UcFXnFiNhNq) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Nunca Sozinho](https://open.spotify.com/album/5UDKZWc01Bse8OGYCR2wpb) | 2:17 |
 | 9 | [Desabafo](https://open.spotify.com/track/37LWZe5mdHIKuXBh8GuwlH) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Tkd](https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt), [Neytxn](https://open.spotify.com/artist/7L1wqmAtk7pQwj2xtPWIbq) | [Desabafo](https://open.spotify.com/album/5glFkBO45WBRpvp4dMWPrm) | 2:30 |
 | 10 | [PATY](https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ) | [PATY](https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO) | 1:49 |
 | 11 | [Larga Essa Vida](https://open.spotify.com/track/1I7rnx1blEUfgEi9owDD4C) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [OGBEATZZ](https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Larga Essa Vida](https://open.spotify.com/album/4fraCYAYq2B7H3AsennyRp) | 1:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 49 | [Movimento \- Spotify Singles](https://open.spotify.com/track/1U3oUPST65OhAz9PG4eAVv) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Movimento \- Spotify Singles](https://open.spotify.com/album/21HW4JmG3uIqsHLExLFQnZ) | 2:38 |
 | 50 | [Vampiro](https://open.spotify.com/track/6bTdZ7xfKp3NqqADJ8HLyj) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Vampiro](https://open.spotify.com/album/2Czm8l03F67WEzX8MDruyy) | 4:10 |
 
-Snapshot ID: `MTY4MjA0NjA2MCwwMDAwMDAwMDA5NDNkZjJmZTZmYzFhNzA3OThkZjhkNjJlYjFhYTJm`
+Snapshot ID: `MTY4MjA0NjA2MCwwMDAwMDAwMDE2MmEzMzc3MTk2MzM1MTFiNjUxMTEwMWZkZDYzZTdj`

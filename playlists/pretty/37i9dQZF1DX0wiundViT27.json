@@ -1,12 +1,12 @@
 {
   "description": "A dose of high-energy rock & alt songs for your workout.",
-  "num_followers": 612389,
+  "num_followers": 612422,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTkxNzI2MSwwMDAwMDAwMDA4MjJkYmIxOWJmNWZmMjllY2JlZWVhMDM3MDEzMDA1",
+  "snapshot_id": "MTY4MTkxNzI2MSwwMDAwMDAwMDA1MjNjYzEzYjFhNGY2ZjE1YTM5MDY4ZGEzOTEyNTg1",
   "tracks": [
     {
       "added_at": "2023-04-19 15:14:21",
@@ -823,26 +823,18 @@
     {
       "added_at": "2023-04-19 15:14:21",
       "album": {
-        "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
-        "url": "https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd"
+        "name": "California",
+        "url": "https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9"
       },
       "artists": [
         {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        },
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        },
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 207280,
-      "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
-      "url": "https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5"
+      "duration_ms": 235613,
+      "name": "Bored To Death",
+      "url": "https://open.spotify.com/track/44TuSOP6xIAEeJmZsN3nXO"
     }
   ],
   "unique_name": "Rock Me Up",

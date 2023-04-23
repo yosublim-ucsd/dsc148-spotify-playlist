@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: The Japanese House
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,946 likes - 125 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,985 likes - 125 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 71 | [wishuwerehere](https://open.spotify.com/track/6ouflVakFDbhMaRKfv2jvF) | [not dvr](https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k) | [wishuwerehere](https://open.spotify.com/album/1cWmMEtvycWbC65ncuL2zs) | 2:14 |
 | 72 | [Rainbow](https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Joker & Rainbow](https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk) | 2:56 |
 | 73 | [I Want You \(To Be My Woman\) \[feat\. DOPE LEMON\]](https://open.spotify.com/track/68JBzSwTObjU1LXGZQpzm2) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Panna Cotta](https://open.spotify.com/album/28Ymo5sEs0gwOoZYdaLkNY) | 4:01 |
-| 74 | [Bon Voyage](https://open.spotify.com/track/4fwuSvvoxTClVM4QYQGA6C) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Bon Voyage](https://open.spotify.com/album/4RNIu9tWTSeyO7FvDet105) | 2:47 |
+| 74 | [Bon Voyage](https://open.spotify.com/track/4Okyax7cvVoNfoBKYr2RA0) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 2:47 |
 | 75 | [80,000](https://open.spotify.com/track/2PtoXnSazKxTmvDXGojzxm) | [Tungz](https://open.spotify.com/artist/2U8Spt8w0ylEP8NA9CkUh7) | [80,000](https://open.spotify.com/album/49mknv9FJku0CLyDhu9vlU) | 2:53 |
 | 76 | [Love Strong](https://open.spotify.com/track/04EBJzuK2KcDe313CMu7xP) | [Warmduscher](https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR) | [Love Strong](https://open.spotify.com/album/13qEgm8437K93kFeiiCglW) | 3:30 |
 | 77 | [KARMA](https://open.spotify.com/track/3emszROVbzl1a22YQ8hX6r) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [HEALING / 힐링](https://open.spotify.com/album/3SgxZCQJRMeFwtXLhvZN6h) | 2:34 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 124 | [Parody](https://open.spotify.com/track/69JmafotyJNxvKsbQbQj5v) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Parody](https://open.spotify.com/album/6L8pdjEecAuyqss3nizuOu) | 3:06 |
 | 125 | [Just Come Home with Me Tonight](https://open.spotify.com/track/6zArUpWiIqCJ4dTThzRpxL) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Just Come Home with Me Tonight](https://open.spotify.com/album/1ClFEzcUmCIcn4zkZs6jjZ) | 4:07 |
 
-Snapshot ID: `MTY4MjAzMTYwMCwwMDAwMDAwMDUxYjg5OTI1YTEwOWFjZGJkM2RmMjE1MzRjYjYyNGRl`
+Snapshot ID: `MTY4MjAzMTYwMCwwMDAwMDAwMGY0MmM3MmIzNjY2ZTI3ODA2NzY1MzU1ZmE2NDM0Zjg5`

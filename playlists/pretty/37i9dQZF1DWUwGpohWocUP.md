@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwGpohWocUP.md) - [plain]
 
 > The hitmaker <a href="spotify:artist:7vk5e3vY1uw9plTHJAMwjN">Alan Walker</a> delights us with this summer\-like mix, which includes tracks from his latest album "Walkerverse"
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,816 likes - 24 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,092 likes - 24 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1K15GRZZATsCJyGJ4bYiEz">Luh Tyler</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,767,395 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,767,792 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 54 | [3AM in Oakland](https://open.spotify.com/track/104f3GOgOZkTfHkhK21oge) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [3AM in Oakland](https://open.spotify.com/album/6fypcxh577ibSA2kOKfyl2) | 3:26 |
 | 55 | [Ex’s \(Phatnall Remix\) \(with Lil Durk\)](https://open.spotify.com/track/7M3h8JeDhIQIsdQdMrWohi) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Anyways, Life’s Great…Bonus Edition](https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf) | 3:17 |
 | 56 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 |
-| 57 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:39 |
+| 57 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/2g5q0UpOOFMNOcHGaMG4b0) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 2:39 |
 | 58 | [AL Roker](https://open.spotify.com/track/5ckdswsm7RQzCTBoNiyl7T) | [C Stunna](https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF) | [AL Roker](https://open.spotify.com/album/5aBdVwpC86hOzVJZKEG6tr) | 1:40 |
 | 59 | [Ain't On None \(feat\. 21 Savage\)](https://open.spotify.com/track/6tdIXKADoiJMTG5buEqxp3) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [After The Curse](https://open.spotify.com/album/4CRTKSVnGwpFAaSX2Ycinl) | 2:50 |
 | 60 | [UK](https://open.spotify.com/track/3p2DjXHj8Z4yGnVrx3eHrU) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu) | [UK](https://open.spotify.com/album/6KLFKObVq23rmM23HNzTe0) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [100 or Nun \(feat\. Tony Shhnow\)](https://open.spotify.com/track/0U6ZKypkSptN2Zlhtkbvj6) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8) | [3](https://open.spotify.com/album/1t2lMi1AXxPMo8bbCjaa3g) | 3:19 |
 | 100 | [How to Act](https://open.spotify.com/track/14cO15gZdX5HuBGdLAm0pe) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [90 Days Later](https://open.spotify.com/album/1mlRCyCB69eVNFnBQBrUQo) | 2:59 |
 
-Snapshot ID: `MTY4MjEwNDk0NSwwMDAwMDAwMDE4MDY0Njg0Mjc4NjQwZWYxZjQ3NDAxYWQ3MzMzZTdh`
+Snapshot ID: `MTY4MjEwNDk0NSwwMDAwMDAwMGUzZDUxYzYzNGQyMDU5ZDU3NzcxZTIxMDJkOGNlMDU5`

@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover: Gene Moore",
-  "num_followers": 188604,
+  "num_followers": 188782,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDIwNjQzOSwwMDAwMDAwMDk0OTk0ZDgwYjg4NWMyZGU5YmRlOWJmN2M3MTU3Nzhl",
+  "snapshot_id": "MTY3NDIwNjQzOSwwMDAwMDAwMDNlZTgwZmY1ZjQ0YzczMzg2NGE5MjAyZGE3MjI2ZTA4",
   "tracks": [
     {
       "added_at": "2023-01-20 09:20:39",
@@ -495,30 +495,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Easy!",
-        "url": "https://open.spotify.com/album/1gT3Q7Av72uP0WSRaS8RlU"
-      },
-      "artists": [
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        },
-        {
-          "name": "Bridge Music",
-          "url": "https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 165813,
-      "name": "Easy!",
-      "url": "https://open.spotify.com/track/3rNxrZ0TjoWsPrEZW4kONj"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Hearts in Pain",
         "url": "https://open.spotify.com/album/1aXo94Pxz8t8fGbvaZ81Sj"
       },
@@ -551,6 +527,30 @@
       "duration_ms": 168000,
       "name": "When Tears Fall",
       "url": "https://open.spotify.com/track/6kGPEBbI2Uk7nTsfcd2pmF"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Easy!",
+        "url": "https://open.spotify.com/album/1gT3Q7Av72uP0WSRaS8RlU"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "Bridge Music",
+          "url": "https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 165813,
+      "name": "Easy!",
+      "url": "https://open.spotify.com/track/3rNxrZ0TjoWsPrEZW4kONj"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "This Kind Of Love",
-        "url": "https://open.spotify.com/album/3dgbGR5rtJVxAiZy0U4rQI"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
-        }
-      ],
-      "duration_ms": 184640,
-      "name": "This Kind Of Love",
-      "url": "https://open.spotify.com/track/2Z47f6DeKm1xIDmPPn2sGS"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Home Called Heaven",
         "url": "https://open.spotify.com/album/2QlmS7ToKED5SenA36CSsV"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 227719,
       "name": "Home Called Heaven",
       "url": "https://open.spotify.com/track/1RUgjAvt8majG62li8evpf"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "This Kind Of Love",
+        "url": "https://open.spotify.com/album/3dgbGR5rtJVxAiZy0U4rQI"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "duration_ms": 184640,
+      "name": "This Kind Of Love",
+      "url": "https://open.spotify.com/track/2Z47f6DeKm1xIDmPPn2sGS"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -827,6 +827,26 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V"
+      },
+      "artists": [
+        {
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 176938,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "Relying",
         "url": "https://open.spotify.com/album/7IQNM3m3vD6NkghunGuViL"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 224030,
       "name": "Relying",
       "url": "https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V"
-      },
-      "artists": [
-        {
-          "name": "Sam Rivera",
-          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 176938,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Pull My Heart Away",
-        "url": "https://open.spotify.com/album/1OxM5G8WOARS4BKwh9Hiuv"
-      },
-      "artists": [
-        {
-          "name": "Samuel Sweat",
-          "url": "https://open.spotify.com/artist/7aOUerIr7SYARgetssONKz"
-        },
-        {
-          "name": "Mark Barlow",
-          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
-        }
-      ],
-      "duration_ms": 150638,
-      "name": "Pull My Heart Away",
-      "url": "https://open.spotify.com/track/4vFZjVQKlYM7vOPfvAc4dn"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Love So Sweet",
         "url": "https://open.spotify.com/album/5KdES3GFxqvSh46467PyoM"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 151467,
       "name": "Love So Sweet",
       "url": "https://open.spotify.com/track/4wpc2rPfoFkdbgsqG2KI6r"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Pull My Heart Away",
+        "url": "https://open.spotify.com/album/1OxM5G8WOARS4BKwh9Hiuv"
+      },
+      "artists": [
+        {
+          "name": "Samuel Sweat",
+          "url": "https://open.spotify.com/artist/7aOUerIr7SYARgetssONKz"
+        },
+        {
+          "name": "Mark Barlow",
+          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
+        }
+      ],
+      "duration_ms": 150638,
+      "name": "Pull My Heart Away",
+      "url": "https://open.spotify.com/track/4vFZjVQKlYM7vOPfvAc4dn"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/0hvxD5XUvOhvGAJ9pNmIDx"
-      },
-      "artists": [
-        {
-          "name": "Pauline Zoe Park",
-          "url": "https://open.spotify.com/artist/5EtDkb4TepNWQ3k09hrW4T"
-        }
-      ],
-      "duration_ms": 211209,
-      "name": "Safe Place",
-      "url": "https://open.spotify.com/track/4qRRObsRR0MNKPfGM7p5yD"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Satisfy",
         "url": "https://open.spotify.com/album/6drp9uGaG3IygzSir4EKpr"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 184000,
       "name": "Satisfy",
       "url": "https://open.spotify.com/track/4asSIgSVXvZejEJ9B3yvIg"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/0hvxD5XUvOhvGAJ9pNmIDx"
+      },
+      "artists": [
+        {
+          "name": "Pauline Zoe Park",
+          "url": "https://open.spotify.com/artist/5EtDkb4TepNWQ3k09hrW4T"
+        }
+      ],
+      "duration_ms": 211209,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/4qRRObsRR0MNKPfGM7p5yD"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "VANILLA",
+        "url": "https://open.spotify.com/album/6VuA0G64riGnjOxs5ArVNB"
+      },
+      "artists": [
+        {
+          "name": "Sarah Nathali\u00e9",
+          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
+        }
+      ],
+      "duration_ms": 148318,
+      "name": "VANILLA",
+      "url": "https://open.spotify.com/track/0VvBm20XZedf4wQhbUs3hb"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "First Love",
         "url": "https://open.spotify.com/album/0uBfQckknUlZAcBG5CTEiZ"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 255008,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5b5Pi5oP4FWNcEPVmr8MIa"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "VANILLA",
-        "url": "https://open.spotify.com/album/6VuA0G64riGnjOxs5ArVNB"
-      },
-      "artists": [
-        {
-          "name": "Sarah Nathali\u00e9",
-          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
-        }
-      ],
-      "duration_ms": 148318,
-      "name": "VANILLA",
-      "url": "https://open.spotify.com/track/0VvBm20XZedf4wQhbUs3hb"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1447,30 +1447,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/54LWHBnYqAVc9lVI7LaJ9Q"
-      },
-      "artists": [
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        },
-        {
-          "name": "Bridge Music",
-          "url": "https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS"
-        },
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
-        }
-      ],
-      "duration_ms": 165813,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/0uVHeVzc4vTnlnpSgUKHrJ"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Belongs To You (R&B Remix)",
         "url": "https://open.spotify.com/album/3uXFWEyEpYYnOhwHjBUxOz"
       },
@@ -1495,6 +1471,30 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/54LWHBnYqAVc9lVI7LaJ9Q"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "Bridge Music",
+          "url": "https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS"
+        },
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        }
+      ],
+      "duration_ms": 165813,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/0uVHeVzc4vTnlnpSgUKHrJ"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "MAN-UH",
         "url": "https://open.spotify.com/album/04foyPb4nLC1gaOimMYPFe"
       },
@@ -1507,26 +1507,6 @@
       "duration_ms": 109257,
       "name": "MAN-UH",
       "url": "https://open.spotify.com/track/4pzdkoQ6i0P1yApVwA8cuW"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "Simple Ways",
-        "url": "https://open.spotify.com/album/7vs8N6AbGXg8i0K4y6aEpc"
-      },
-      "artists": [
-        {
-          "name": "Zahriya Zachary",
-          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
-        },
-        {
-          "name": "Bethany Wohrle",
-          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
-        }
-      ],
-      "duration_ms": 177214,
-      "name": "Simple Ways",
-      "url": "https://open.spotify.com/track/4pRmJstStQ4d23TUhjDj6a"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1575,6 +1555,26 @@
       "duration_ms": 162580,
       "name": "Come and Be My Love",
       "url": "https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Simple Ways",
+        "url": "https://open.spotify.com/album/7vs8N6AbGXg8i0K4y6aEpc"
+      },
+      "artists": [
+        {
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+        },
+        {
+          "name": "Bethany Wohrle",
+          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
+        }
+      ],
+      "duration_ms": 177214,
+      "name": "Simple Ways",
+      "url": "https://open.spotify.com/track/4pRmJstStQ4d23TUhjDj6a"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1655,22 +1655,22 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Make It",
-        "url": "https://open.spotify.com/album/6I3squylyzSrBRE4X7rUST"
+        "name": "How Are You Healing?",
+        "url": "https://open.spotify.com/album/5k9npIVUV9HbqnCzo1RDfy"
       },
       "artists": [
         {
-          "name": "Josiah Russell",
-          "url": "https://open.spotify.com/artist/70pljCNIqAC29VPwT8fGAL"
+          "name": "Michael Dixon",
+          "url": "https://open.spotify.com/artist/0aXyBedQLbHTZwDOY5QGZF"
         },
         {
-          "name": "Mod G",
-          "url": "https://open.spotify.com/artist/072FBwoso1MO9Y2YSykWN6"
+          "name": "Christina Bell",
+          "url": "https://open.spotify.com/artist/4cPFOPBu1lxWI5cKlWmSvR"
         }
       ],
-      "duration_ms": 170666,
-      "name": "Make It",
-      "url": "https://open.spotify.com/track/4maBgZrXAehw9QcffWRBlZ"
+      "duration_ms": 285573,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/2RttnAvdTIokgZmXeOJkYY"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1691,22 +1691,22 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "How Are You Healing?",
-        "url": "https://open.spotify.com/album/5k9npIVUV9HbqnCzo1RDfy"
+        "name": "Make It",
+        "url": "https://open.spotify.com/album/6I3squylyzSrBRE4X7rUST"
       },
       "artists": [
         {
-          "name": "Michael Dixon",
-          "url": "https://open.spotify.com/artist/0aXyBedQLbHTZwDOY5QGZF"
+          "name": "Josiah Russell",
+          "url": "https://open.spotify.com/artist/70pljCNIqAC29VPwT8fGAL"
         },
         {
-          "name": "Christina Bell",
-          "url": "https://open.spotify.com/artist/4cPFOPBu1lxWI5cKlWmSvR"
+          "name": "Mod G",
+          "url": "https://open.spotify.com/artist/072FBwoso1MO9Y2YSykWN6"
         }
       ],
-      "duration_ms": 285573,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/2RttnAvdTIokgZmXeOJkYY"
+      "duration_ms": 170666,
+      "name": "Make It",
+      "url": "https://open.spotify.com/track/4maBgZrXAehw9QcffWRBlZ"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Mercy Shores",
-        "url": "https://open.spotify.com/album/2hFkHnWuHRlxvtzMsOe5H7"
-      },
-      "artists": [
-        {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
-        }
-      ],
-      "duration_ms": 206746,
-      "name": "Mercy Shores",
-      "url": "https://open.spotify.com/track/2DfrxAll5ft3nKQNa6OKEo"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/12nMGGMPL3fpXJ9kWKQEz0"
       },
@@ -1799,6 +1783,22 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "Mercy Shores",
+        "url": "https://open.spotify.com/album/2hFkHnWuHRlxvtzMsOe5H7"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "duration_ms": 206746,
+      "name": "Mercy Shores",
+      "url": "https://open.spotify.com/track/2DfrxAll5ft3nKQNa6OKEo"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "Be My Everything (Reimagined)",
         "url": "https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB"
       },
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Mr. McClure",
-        "url": "https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        }
-      ],
-      "duration_ms": 197254,
-      "name": "Mr. McClure",
-      "url": "https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Temporary Tears",
         "url": "https://open.spotify.com/album/3kZxVbCo3dEXwWyifG4Vhh"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 267130,
       "name": "Run On",
       "url": "https://open.spotify.com/track/2dFwwb7q8lfR4cJR4K2weJ"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Mr. McClure",
+        "url": "https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "duration_ms": 197254,
+      "name": "Mr. McClure",
+      "url": "https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV"
     }
   ],
   "unique_name": "Rhythm & Praise",

@@ -1292,7 +1292,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 321742,
       "name": "Contra Theory",
       "url": "https://open.spotify.com/track/1WsLvlvA4Zlrwr0C3FrOGE"
@@ -4476,6 +4476,28 @@
       "duration_ms": 198857,
       "name": "Mage",
       "url": "https://open.spotify.com/track/1sVeutIp3sh1eePjz7ONnH"
+    },
+    {
+      "album": {
+        "name": "Make It",
+        "url": "https://open.spotify.com/album/4cgrDyLfgpbYr8UhPt3gBD"
+      },
+      "artists": [
+        {
+          "name": "Thys",
+          "url": "https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR"
+        },
+        {
+          "name": "Kelbin",
+          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337503,
+      "name": "Make It",
+      "url": "https://open.spotify.com/track/0v05oKIRZr4qtEF9aASS4m"
     },
     {
       "album": {

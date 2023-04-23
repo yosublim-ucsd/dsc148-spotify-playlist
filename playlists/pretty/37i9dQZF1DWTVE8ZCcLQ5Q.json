@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.",
-  "num_followers": 421906,
+  "num_followers": 421894,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMDU0YzlmYzEzZjE0ODJhNTNiZTM1OTFiMzRjNDM4ZWFh",
+  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMGE0ZjZiZjU5Zjc3NThhODhiZmIyYTI3ZDYwYThkMWZh",
   "tracks": [
     {
       "added_at": "2023-02-10 03:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "BXD IN JAZZ",
-        "url": "https://open.spotify.com/album/7Kgm5bcggxWaBRBNFs9ItX"
-      },
-      "artists": [
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        }
-      ],
-      "duration_ms": 173147,
-      "name": "Meu Grande Amor",
-      "url": "https://open.spotify.com/track/7uOsXEncaOxLBeq0rvU4oJ"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "Farol",
         "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 145191,
       "name": "Farol",
       "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "BXD IN JAZZ",
+        "url": "https://open.spotify.com/album/7Kgm5bcggxWaBRBNFs9ItX"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        }
+      ],
+      "duration_ms": 173147,
+      "name": "Meu Grande Amor",
+      "url": "https://open.spotify.com/track/7uOsXEncaOxLBeq0rvU4oJ"
     },
     {
       "added_at": "2023-02-10 03:00:00",

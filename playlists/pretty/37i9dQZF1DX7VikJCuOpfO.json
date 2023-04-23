@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Sarah La Morena",
-  "num_followers": 65714,
+  "num_followers": 65726,
   "original_name": "Mariachi 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGQ0MzczY2Y3NDU0MTNkOWY0MjAwNWUxYWNmYTFmZjBh",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDAwNDlmMWVjOTlhMTQ3NjdjNGIyNTZlZTk1MTBmY2M4",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1299,22 +1299,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Dej\u00e9moslo As\u00ed",
-        "url": "https://open.spotify.com/album/3mNYNFOwyvPHyMTycASoO6"
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/74VXUYRzYUPpeEhYhVvqsn"
       },
       "artists": [
         {
-          "name": "Frank Di",
-          "url": "https://open.spotify.com/artist/02jlCjqIOJytCyQyr0FGWP"
-        },
-        {
-          "name": "Griss Romero",
-          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
         }
       ],
-      "duration_ms": 180059,
-      "name": "Dej\u00e9moslo As\u00ed",
-      "url": "https://open.spotify.com/track/2bku6uSoRemC75vR4JoePF"
+      "duration_ms": 180989,
+      "name": "Ve Y Dile",
+      "url": "https://open.spotify.com/track/62ti3cFKZggfuTMbwLyWON"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1335,18 +1331,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Sin Ti",
-        "url": "https://open.spotify.com/album/74VXUYRzYUPpeEhYhVvqsn"
+        "name": "Dej\u00e9moslo As\u00ed",
+        "url": "https://open.spotify.com/album/3mNYNFOwyvPHyMTycASoO6"
       },
       "artists": [
         {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+          "name": "Frank Di",
+          "url": "https://open.spotify.com/artist/02jlCjqIOJytCyQyr0FGWP"
+        },
+        {
+          "name": "Griss Romero",
+          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
         }
       ],
-      "duration_ms": 180989,
-      "name": "Ve Y Dile",
-      "url": "https://open.spotify.com/track/62ti3cFKZggfuTMbwLyWON"
+      "duration_ms": 180059,
+      "name": "Dej\u00e9moslo As\u00ed",
+      "url": "https://open.spotify.com/track/2bku6uSoRemC75vR4JoePF"
     },
     {
       "added_at": "2023-03-10 05:00:00",

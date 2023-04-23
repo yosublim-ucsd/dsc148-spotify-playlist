@@ -1,12 +1,12 @@
 {
   "description": "Las m\u00e1s bichotas del party featuring Cazzu & Young Miko \ud83d\ude08",
-  "num_followers": 22919,
+  "num_followers": 23031,
   "original_name": "EQUAL Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMDM3Yjk0NThiNzU4MDUwMGRjNWE1ZTJhNDBkYTM1ODBi",
+  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMDk0NTAwZjkxMDVjY2M0MzIwNDU5NzNjNmE4ZTc5N2Nk",
   "tracks": [
     {
       "added_at": "2023-04-14 03:00:00",
@@ -471,8 +471,8 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "DISCOTEKA",
-        "url": "https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs"
+        "name": "La Ni\u00f1a",
+        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
       },
       "artists": [
         {
@@ -480,13 +480,17 @@
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         },
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 174801,
-      "name": "DISCOTEKA",
-      "url": "https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC"
+      "duration_ms": 204414,
+      "name": "La Ni\u00f1a de la Escuela",
+      "url": "https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -591,8 +595,8 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "La Ni\u00f1a",
-        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
+        "name": "DISCOTEKA",
+        "url": "https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs"
       },
       "artists": [
         {
@@ -600,17 +604,13 @@
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         },
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 204414,
-      "name": "La Ni\u00f1a de la Escuela",
-      "url": "https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj"
+      "duration_ms": 174801,
+      "name": "DISCOTEKA",
+      "url": "https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP"
-      },
-      "artists": [
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 123253,
-      "name": "Perreito",
-      "url": "https://open.spotify.com/track/5ecJFbbgmywVJkqGQIfcuo"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Nobody Like Yo",
         "url": "https://open.spotify.com/album/2NhtV3QHi04aqmbnaLCEYJ"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 154666,
       "name": "Nobody Like Yo",
       "url": "https://open.spotify.com/track/5ETecrJ4HK8qglSLq382hG"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 123253,
+      "name": "Perreito",
+      "url": "https://open.spotify.com/track/5ecJFbbgmywVJkqGQIfcuo"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Ricota",
+        "url": "https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 160880,
+      "name": "Ricota",
+      "url": "https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 179966,
       "name": "Colocao",
       "url": "https://open.spotify.com/track/3hGtjSJQ76HkWzeUkekKGY"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Ricota",
-        "url": "https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3"
-      },
-      "artists": [
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 160880,
-      "name": "Ricota",
-      "url": "https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Peligrosa",
+        "url": "https://open.spotify.com/album/0zIzGFpdewLtEFH5iofXtU"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 131680,
+      "name": "Peligrosa",
+      "url": "https://open.spotify.com/track/3LZpREjBfKM1y53OrCBlX1"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "TOLKIN YIT",
         "url": "https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 192705,
       "name": "Aprovechame BB",
       "url": "https://open.spotify.com/track/29VflI9cjsWbGfEkvu0Tyk"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Peligrosa",
-        "url": "https://open.spotify.com/album/0zIzGFpdewLtEFH5iofXtU"
-      },
-      "artists": [
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 131680,
-      "name": "Peligrosa",
-      "url": "https://open.spotify.com/track/3LZpREjBfKM1y53OrCBlX1"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Nena Trampa",
+        "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 147370,
+      "name": "Nena Trampa",
+      "url": "https://open.spotify.com/track/2wjA6V7u0rLcFehcty11aN"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "dale Play",
         "url": "https://open.spotify.com/album/0Iq5DxqRwkw2Y4uY0zun6V"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 226946,
       "name": "dale Play",
       "url": "https://open.spotify.com/track/33gFV76PlZtTunQCaqYIJH"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Nena Trampa",
-        "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 147370,
-      "name": "Nena Trampa",
-      "url": "https://open.spotify.com/track/2wjA6V7u0rLcFehcty11aN"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Mi real lova",
+        "url": "https://open.spotify.com/album/4QhzuSzmMkVQEqPSIC9Fnn"
+      },
+      "artists": [
+        {
+          "name": "Akatumamy",
+          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+        },
+        {
+          "name": "Ovyze",
+          "url": "https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4"
+        }
+      ],
+      "duration_ms": 166105,
+      "name": "Mi real lova",
+      "url": "https://open.spotify.com/track/1A8CcPnmexGWEDrzoFwyoR"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Estoy Soltera",
         "url": "https://open.spotify.com/album/5WZfuGX8Ca4eaes5LYxk22"
       },
@@ -1387,38 +1407,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Mi real lova",
-        "url": "https://open.spotify.com/album/4QhzuSzmMkVQEqPSIC9Fnn"
+        "name": "Nena",
+        "url": "https://open.spotify.com/album/5Ymw3x5pQric87TAWRTnva"
       },
       "artists": [
         {
-          "name": "Akatumamy",
-          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
         },
         {
-          "name": "Ovyze",
-          "url": "https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4"
+          "name": "EKKI",
+          "url": "https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5"
         }
       ],
-      "duration_ms": 166105,
-      "name": "Mi real lova",
-      "url": "https://open.spotify.com/track/1A8CcPnmexGWEDrzoFwyoR"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "diamante$ + espina$",
-        "url": "https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        }
-      ],
-      "duration_ms": 182426,
-      "name": "n la disco",
-      "url": "https://open.spotify.com/track/0he3cLVpfsVymLeruJqI14"
+      "duration_ms": 201724,
+      "name": "Nena",
+      "url": "https://open.spotify.com/track/1n7VtU8L0owUJRz0ppvETo"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1439,6 +1443,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "diamante$ + espina$",
+        "url": "https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "duration_ms": 182426,
+      "name": "n la disco",
+      "url": "https://open.spotify.com/track/0he3cLVpfsVymLeruJqI14"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Quien Dijo",
         "url": "https://open.spotify.com/album/4INTFlZm9BIHHeDXwu0K7U"
       },
@@ -1451,26 +1471,6 @@
       "duration_ms": 241346,
       "name": "Quien Dijo",
       "url": "https://open.spotify.com/track/23EalGl7ADnaoAKrNExMFn"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Nena",
-        "url": "https://open.spotify.com/album/5Ymw3x5pQric87TAWRTnva"
-      },
-      "artists": [
-        {
-          "name": "Aura BAE",
-          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
-        },
-        {
-          "name": "EKKI",
-          "url": "https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5"
-        }
-      ],
-      "duration_ms": 201724,
-      "name": "Nena",
-      "url": "https://open.spotify.com/track/1n7VtU8L0owUJRz0ppvETo"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Guilla",
-        "url": "https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw"
+        "name": "Fina",
+        "url": "https://open.spotify.com/album/10xSdbSkFRJue9XF7qrugV"
       },
       "artists": [
         {
-          "name": "Loyaltty",
-          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
         }
       ],
-      "duration_ms": 139428,
-      "name": "Guilla",
-      "url": "https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc"
+      "duration_ms": 191739,
+      "name": "Fina",
+      "url": "https://open.spotify.com/track/6c7V9AS4H7wObV2lAT6iwJ"
     }
   ],
   "unique_name": "EQUAL Urbano",

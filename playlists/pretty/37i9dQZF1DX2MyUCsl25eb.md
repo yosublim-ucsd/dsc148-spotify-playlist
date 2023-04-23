@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 978,463 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 978,513 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 92 | [Sea Star](https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sea Star](https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs) | 3:27 |
 | 93 | [Blood](https://open.spotify.com/track/0Ht4rJqj1RsXPrgbhbcDOa) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Blood](https://open.spotify.com/album/2A3a9WxEKjpG4nLdJrTQcX) | 3:56 |
 | 94 | [Home For My Heart](https://open.spotify.com/track/1PGc9smXkDk2I7v8zsI0GB) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Home For My Heart](https://open.spotify.com/album/51XNz5aKjz3NjAZNQY40bp) | 2:38 |
-| 95 | [Normal](https://open.spotify.com/track/0HVcO5RvFcXCqQDWrh1zL2) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Normal](https://open.spotify.com/album/4sAJ0GqWDbEVemJSjE1PZc) | 3:51 |
+| 95 | [Normal](https://open.spotify.com/track/7j6r88KZPacrIqtTGO9jMG) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Red Sky](https://open.spotify.com/album/0b1Sv51qVCHVQJwv9J7UOY) | 3:51 |
 | 96 | [Another Heart](https://open.spotify.com/track/7hiX2B01zsQxzQn7Sc6UNV) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Another Heart](https://open.spotify.com/album/5LEkV58Pa82xSZsvBw3Acu) | 3:41 |
 | 97 | [The Best That I Have](https://open.spotify.com/track/4mon8EZmM3yJ1Ky7pfh770) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 3:42 |
 | 98 | [With Love From](https://open.spotify.com/track/2NzaebtWUlpR5zebV9FC35) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [With Love From](https://open.spotify.com/album/1WOEqed1QcGmTCSMOjJL6v) | 3:59 |
 | 99 | [on the way down](https://open.spotify.com/track/0fSpNSc4HqTJEIRYETJftd) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [on the way down](https://open.spotify.com/album/0nER3MDd8ASAzBu2UQ1zz8) | 4:32 |
 | 100 | [Running Theme](https://open.spotify.com/track/6zfx7XrT95qwpeXChmjkzX) | [MEAGAN SKY](https://open.spotify.com/artist/2zPUeDa7TWrDrMRHPvdP9G) | [Running Theme](https://open.spotify.com/album/5B2z2x0lIP5y07vro6oJex) | 5:09 |
 
-Snapshot ID: `MTY4MjA0OTY2MCwwMDAwMDAwMDlhZDIzMTA4Mjg5YTAwNjY5NTM4YjIxNzMxYTJhNzM4`
+Snapshot ID: `MTY4MjA0OTY2MCwwMDAwMDAwMDAzOTBhOWQxZTQwNGE0ZDMwMjdmMGY4N2U2NjQ0ZTI3`

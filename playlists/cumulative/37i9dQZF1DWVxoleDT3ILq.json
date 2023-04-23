@@ -2632,7 +2632,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 282084,
       "name": "I Luz",
       "url": "https://open.spotify.com/track/3ZqI4NGk7NNZcEcvI0kNeX"
@@ -4642,6 +4642,24 @@
       "duration_ms": 229238,
       "name": "Provenza",
       "url": "https://open.spotify.com/track/74EyCgYnEH3ARfgpLh0Cdq"
+    },
+    {
+      "album": {
+        "name": "Que no se corte la cadena",
+        "url": "https://open.spotify.com/album/70PkbVHGZ1OLMRTlSQ6aYu"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156166,
+      "name": "Que no se corte la cadena",
+      "url": "https://open.spotify.com/track/5j2f1ZYDqLjUsePKpokkkg"
     },
     {
       "album": {

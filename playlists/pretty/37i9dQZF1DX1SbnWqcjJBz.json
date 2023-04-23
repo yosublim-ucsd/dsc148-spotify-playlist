@@ -1,12 +1,12 @@
 {
   "description": "Talented, brilliant, incredible, amazing, show-stopping\u2026 See also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 53296,
+  "num_followers": 53441,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjI0NjkzMSwwMDAwMDAwMDMyMDkzMTI1YzViMTQyYWMwZWMxODY5OTQ5YjMxZDEx",
+  "snapshot_id": "MTY3MjI0NjkzMSwwMDAwMDAwMGMzN2NmNzBlZDQ1NGQyMzM1N2ZhNzJhMDcyYjEzODZj",
   "tracks": [
     {
       "added_at": "2022-12-28 17:02:11",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "ARTPOP",
-        "url": "https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 212333,
-      "name": "Applause",
-      "url": "https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
         "name": "My Everything (Deluxe)",
         "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 214840,
       "name": "Break Free",
       "url": "https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
+        "name": "ARTPOP",
+        "url": "https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 212333,
+      "name": "Applause",
+      "url": "https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -295,22 +295,6 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "Born This Way (Special Edition)",
-        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 244760,
-      "name": "Bloody Mary",
-      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
         "name": "Maybe You\u2019re The Problem",
         "url": "https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 190318,
       "name": "Maybe You\u2019re The Problem",
       "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 244760,
+      "name": "Bloody Mary",
+      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 180283,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/5iyZwawawLjHYpX4MxUKVF"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
         "name": "Rain On Me (with Ariana Grande)",
         "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 182200,
       "name": "Rain On Me (with Ariana Grande)",
       "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 180283,
-      "name": "Salt",
-      "url": "https://open.spotify.com/track/5iyZwawawLjHYpX4MxUKVF"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -535,22 +535,6 @@
       "duration_ms": 213306,
       "name": "Touch",
       "url": "https://open.spotify.com/track/1gG5MoWK5SmHUcQPa2jxdP"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
-        "name": "The Fame Monster (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 274213,
-      "name": "Alejandro",
-      "url": "https://open.spotify.com/track/1HHeOs6zRdF8Ck58easiAY"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -623,6 +607,22 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 274213,
+      "name": "Alejandro",
+      "url": "https://open.spotify.com/track/1HHeOs6zRdF8Ck58easiAY"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
         "name": "Hot Mess",
         "url": "https://open.spotify.com/album/41TUivD915ztiKgyu99H9T"
       },
@@ -639,22 +639,6 @@
       "duration_ms": 196413,
       "name": "Good Girls Go Bad (feat. Leighton Meester)",
       "url": "https://open.spotify.com/track/7kMfu3KUydmrFVGEAhjtyl"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
-        "name": "Chromatica",
-        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 172133,
-      "name": "911",
-      "url": "https://open.spotify.com/track/6qI0MU175Dk2DeoUjlrOpy"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -703,6 +687,22 @@
       "duration_ms": 198306,
       "name": "Ugly Heart",
       "url": "https://open.spotify.com/track/3qqho4PnTn3zlMPBzWhFFD"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 172133,
+      "name": "911",
+      "url": "https://open.spotify.com/track/6qI0MU175Dk2DeoUjlrOpy"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "When I Rule the World",
-        "url": "https://open.spotify.com/album/2yqtOR8q6lSbLQp7Bka74v"
-      },
-      "artists": [
-        {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
-        }
-      ],
-      "duration_ms": 185813,
-      "name": "When I Rule the World",
-      "url": "https://open.spotify.com/track/7nu0Lc0jJltztDxsGeoPiG"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
         "name": "Level Up",
         "url": "https://open.spotify.com/album/0v9PueTztOFDKSFkJ3Fkfn"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 204150,
       "name": "Level Up",
       "url": "https://open.spotify.com/track/5ubwXXOsH9bUhZsQ0Cybha"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
+        "name": "When I Rule the World",
+        "url": "https://open.spotify.com/album/2yqtOR8q6lSbLQp7Bka74v"
+      },
+      "artists": [
+        {
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
+        }
+      ],
+      "duration_ms": 185813,
+      "name": "When I Rule the World",
+      "url": "https://open.spotify.com/track/7nu0Lc0jJltztDxsGeoPiG"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
+        "name": "Welcome to the Dollhouse",
+        "url": "https://open.spotify.com/album/3NSb7dq7re8pssO2ukY1ta"
+      },
+      "artists": [
+        {
+          "name": "Danity Kane",
+          "url": "https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh"
+        }
+      ],
+      "duration_ms": 244266,
+      "name": "Damaged",
+      "url": "https://open.spotify.com/track/4yHFxB8kzzeuNvoouR8N0N"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
         "name": "Love Angel Music Baby (Deluxe Version)",
         "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 189333,
       "name": "Cool",
       "url": "https://open.spotify.com/track/469RmLzEsicj8VSn9aIuKV"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
-        "name": "Better Mistakes",
-        "url": "https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 160871,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/5fKTWlpV4hT7ujXV45WbtN"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -1315,18 +1315,34 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "Welcome to the Dollhouse",
-        "url": "https://open.spotify.com/album/3NSb7dq7re8pssO2ukY1ta"
+        "name": "Better Mistakes",
+        "url": "https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo"
       },
       "artists": [
         {
-          "name": "Danity Kane",
-          "url": "https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         }
       ],
-      "duration_ms": 244266,
-      "name": "Damaged",
-      "url": "https://open.spotify.com/track/4yHFxB8kzzeuNvoouR8N0N"
+      "duration_ms": 160871,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/5fKTWlpV4hT7ujXV45WbtN"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 272813,
+      "name": "I Know A Place",
+      "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -1383,22 +1399,6 @@
       "duration_ms": 186804,
       "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
       "url": "https://open.spotify.com/track/35MKhw2YBKApmD7fAnPERC"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 272813,
-      "name": "I Know A Place",
-      "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "Bubblebath",
-        "url": "https://open.spotify.com/album/1LXJcgThDI0rAJRBkRk07s"
-      },
-      "artists": [
-        {
-          "name": "That Poppy",
-          "url": "https://open.spotify.com/artist/5LtL2B9LC31DesMx7ihMFc"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "Lowlife",
-      "url": "https://open.spotify.com/track/5efvxYn0J1q8iuIZBqpDD7"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 191808,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
+        "name": "Bubblebath",
+        "url": "https://open.spotify.com/album/1LXJcgThDI0rAJRBkRk07s"
+      },
+      "artists": [
+        {
+          "name": "That Poppy",
+          "url": "https://open.spotify.com/artist/5LtL2B9LC31DesMx7ihMFc"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "Lowlife",
+      "url": "https://open.spotify.com/track/5efvxYn0J1q8iuIZBqpDD7"
     },
     {
       "added_at": "2022-12-28 17:02:11",

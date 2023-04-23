@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,424 likes - 107 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,441 likes - 107 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 86 | [Star eyes](https://open.spotify.com/track/6FdGei8nWB2qkpIOhP2gBV) | [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Star eyes](https://open.spotify.com/album/1Rkfyov7iUvasAbWWa6dNt) | 3:15 |
 | 87 | [Me Vs You](https://open.spotify.com/track/5sOWqMCUBTF8se5e21ynVP) | [Daghem](https://open.spotify.com/artist/1YcmK9yjLnTcze8VpKYcRi) | [Me Vs You](https://open.spotify.com/album/3WU4t3atpzBzguE0rPdMpY) | 3:34 |
 | 88 | [L.F.O.](https://open.spotify.com/track/09s0LZjI9zgBvXRNNA6j7K) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [L.F.O.](https://open.spotify.com/album/56FZp4N6OxLqFWcEG8qhmA) | 4:31 |
-| 89 | [Gator](https://open.spotify.com/track/7slSQMJ8gq2hIWXbAdmNTg) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Commune \| Volume 2](https://open.spotify.com/album/0PxSZFgvilDptwvLWieLxe) | 8:23 |
+| 89 | [Gator](https://open.spotify.com/track/7slSQMJ8gq2hIWXbAdmNTg) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Gator](https://open.spotify.com/album/0PxSZFgvilDptwvLWieLxe) | 8:23 |
 | 90 | [Can't Wait](https://open.spotify.com/track/0iStHtmSWWaqmj3NofK49H) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [Can't Wait](https://open.spotify.com/album/1Qpv2742MFYWWFNvNZBAET) | 3:17 |
 | 91 | [Simulator](https://open.spotify.com/track/4VosqOFgprZKZz3EeDOdMA) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Simulator](https://open.spotify.com/album/6gP0CsJDvNuJJfCjXamjFJ) | 3:40 |
 | 92 | [Dancing is Healing](https://open.spotify.com/track/4xlMZCMr9WhyE58igBMxVp) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/11erTn5P7gOy8vfYDq6bxq) | 2:57 |

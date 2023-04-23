@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: Becky G & Omega",
-  "num_followers": 590226,
+  "num_followers": 590328,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyNjIzNywwMDAwMDAwMDUyYWE3MzY4NzQ3ZjRjODg0NzBiNTRlOWFjNjg4MDFk",
+  "snapshot_id": "MTY4MTQyNjIzNywwMDAwMDAwMDg3ODlmNmJkMjVjYzMwZjJlNGM2MTg5YTdkMmVkODE3",
   "tracks": [
     {
       "added_at": "2023-04-13 22:50:37",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
-        "name": "No Te Contaron Mal",
-        "url": "https://open.spotify.com/album/6aELgtAHSfkmKVNKqDxE86"
-      },
-      "artists": [
-        {
-          "name": "You Salsa",
-          "url": "https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU"
-        }
-      ],
-      "duration_ms": 276433,
-      "name": "No Te Contaron Mal",
-      "url": "https://open.spotify.com/track/0jLNtXSoXNQ09T3zyhBPDl"
-    },
-    {
-      "added_at": "2023-04-13 22:50:37",
-      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 204324,
       "name": "Nuestro Amor",
       "url": "https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz"
+    },
+    {
+      "added_at": "2023-04-13 22:50:37",
+      "album": {
+        "name": "No Te Contaron Mal",
+        "url": "https://open.spotify.com/album/6aELgtAHSfkmKVNKqDxE86"
+      },
+      "artists": [
+        {
+          "name": "You Salsa",
+          "url": "https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU"
+        }
+      ],
+      "duration_ms": 276433,
+      "name": "No Te Contaron Mal",
+      "url": "https://open.spotify.com/track/0jLNtXSoXNQ09T3zyhBPDl"
     },
     {
       "added_at": "2023-04-13 22:50:37",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
-        "name": "Veterana",
-        "url": "https://open.spotify.com/album/0FscLw84kogJ9EUVNTc65A"
-      },
-      "artists": [
-        {
-          "name": "Elvis Martinez",
-          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
-        },
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 194599,
-      "name": "Veterana",
-      "url": "https://open.spotify.com/track/1Gxr5RquVDikoWOruiAdPh"
-    },
-    {
-      "added_at": "2023-04-13 22:50:37",
-      "album": {
         "name": "La 167",
         "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 194453,
       "name": "La Bendici\u00f3n",
       "url": "https://open.spotify.com/track/4ZxjpNp7yCTxcbnkeyj0i6"
+    },
+    {
+      "added_at": "2023-04-13 22:50:37",
+      "album": {
+        "name": "Veterana",
+        "url": "https://open.spotify.com/album/0FscLw84kogJ9EUVNTc65A"
+      },
+      "artists": [
+        {
+          "name": "Elvis Martinez",
+          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 194599,
+      "name": "Veterana",
+      "url": "https://open.spotify.com/track/1Gxr5RquVDikoWOruiAdPh"
     },
     {
       "added_at": "2023-04-13 22:50:37",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
-        "name": "atravesao",
-        "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 200510,
-      "name": "atravesao",
-      "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
-    },
-    {
-      "added_at": "2023-04-13 22:50:37",
-      "album": {
         "name": "Tuki Tuki",
         "url": "https://open.spotify.com/album/0dU3EdsJVImaGc9kYRQF9p"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 192452,
       "name": "Tuki Tuki",
       "url": "https://open.spotify.com/track/0jtuFuZNhMV142OIXPonEO"
+    },
+    {
+      "added_at": "2023-04-13 22:50:37",
+      "album": {
+        "name": "atravesao",
+        "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 200510,
+      "name": "atravesao",
+      "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
     },
     {
       "added_at": "2023-04-13 22:50:37",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
-        "name": "Soltero",
-        "url": "https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 260431,
-      "name": "Soltero",
-      "url": "https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2"
-    },
-    {
-      "added_at": "2023-04-13 22:50:37",
-      "album": {
         "name": "Si Me Das Tu Amor",
         "url": "https://open.spotify.com/album/4HnkFvcWujnLxUcPQkPjRM"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 213186,
       "name": "Si Me Das Tu Amor",
       "url": "https://open.spotify.com/track/1O34fFJyV7djSqRtOuRSVh"
+    },
+    {
+      "added_at": "2023-04-13 22:50:37",
+      "album": {
+        "name": "Soltero",
+        "url": "https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 260431,
+      "name": "Soltero",
+      "url": "https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2"
     },
     {
       "added_at": "2023-04-13 22:50:37",
@@ -1711,26 +1711,6 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
-        "name": "Llego El Real Remix",
-        "url": "https://open.spotify.com/album/0Fmk6OWP7ZPgLQNHXWSJV8"
-      },
-      "artists": [
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 221231,
-      "name": "Llego El Real Remix",
-      "url": "https://open.spotify.com/track/0vwDHIuKLryWpMjh1XsOsF"
-    },
-    {
-      "added_at": "2023-04-13 22:50:37",
-      "album": {
         "name": "Cari\u00f1o M\u00edo",
         "url": "https://open.spotify.com/album/633EQz5mNZHb0lEl2fbHuz"
       },
@@ -1747,6 +1727,26 @@
       "duration_ms": 197106,
       "name": "Cari\u00f1o M\u00edo",
       "url": "https://open.spotify.com/track/6ORMS8Ep717H3vzQFahFiy"
+    },
+    {
+      "added_at": "2023-04-13 22:50:37",
+      "album": {
+        "name": "Llego El Real Remix",
+        "url": "https://open.spotify.com/album/0Fmk6OWP7ZPgLQNHXWSJV8"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 221231,
+      "name": "Llego El Real Remix",
+      "url": "https://open.spotify.com/track/0vwDHIuKLryWpMjh1XsOsF"
     },
     {
       "added_at": "2023-04-13 22:50:37",
@@ -1787,6 +1787,22 @@
       "duration_ms": 219049,
       "name": "Si T\u00fa Me Dices Ven - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/0JNQYjX9aVmAI2KZMvlp9E"
+    },
+    {
+      "added_at": "2023-04-13 22:50:37",
+      "album": {
+        "name": "No Te Vayas",
+        "url": "https://open.spotify.com/album/5LWzkXfz3kWsZ6mAc122X9"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 226128,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/587xp1Yt8CAPzbHsAuN5nD"
     },
     {
       "added_at": "2023-04-13 22:50:37",
@@ -1843,34 +1859,26 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
-        "name": "No Te Vayas",
-        "url": "https://open.spotify.com/album/5LWzkXfz3kWsZ6mAc122X9"
+        "name": "De Camino A Palomino, Vol. 1",
+        "url": "https://open.spotify.com/album/0B88UTbmGoAUh44gsfo92M"
       },
       "artists": [
         {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 226128,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/587xp1Yt8CAPzbHsAuN5nD"
-    },
-    {
-      "added_at": "2023-04-13 22:50:37",
-      "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey"
-      },
-      "artists": [
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        },
         {
-          "name": "Chavi Leons",
-          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        },
+        {
+          "name": "Alejandro Armes",
+          "url": "https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi"
         }
       ],
-      "duration_ms": 150071,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc"
+      "duration_ms": 210446,
+      "name": "Se Le Nota",
+      "url": "https://open.spotify.com/track/6l1CD1Raf4AtgQOJLXwiwt"
     }
   ],
   "unique_name": "Tropical Hits",

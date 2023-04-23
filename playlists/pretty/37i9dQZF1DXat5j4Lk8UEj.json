@@ -1,12 +1,12 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & the Night Sweats",
-  "num_followers": 488955,
+  "num_followers": 488997,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDM1MGQ2MTNlMjY0Yjk3NDk0YjhiZjNlODZhOGNjMTU1",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDY3NmVjZWNiMzIwNDVmMzNjNGM2Njg1MTEzYWYwODNj",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Not Dead Yet",
-        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 177366,
-      "name": "Not Dead Yet",
-      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Motel Mayday",
         "url": "https://open.spotify.com/album/4dJgUM5aZ8GhXQp0QPkOS0"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 223160,
       "name": "Stolen Love",
       "url": "https://open.spotify.com/track/6ZW6Q3Fzt9fGzC4nbhA5pf"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Not Dead Yet",
+        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 177366,
+      "name": "Not Dead Yet",
+      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Take Good Care",
-        "url": "https://open.spotify.com/album/10cYvuRfY8IpASva845zgF"
-      },
-      "artists": [
-        {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
-        }
-      ],
-      "duration_ms": 218333,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/2WgbFkQQswVVEWnyKnFo2q"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Beneath The Skin",
         "url": "https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 276466,
       "name": "I Of The Storm",
       "url": "https://open.spotify.com/track/3xGmbotxgSltJ5qHX7aZfe"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Take Good Care",
+        "url": "https://open.spotify.com/album/10cYvuRfY8IpASva845zgF"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        }
+      ],
+      "duration_ms": 218333,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/2WgbFkQQswVVEWnyKnFo2q"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -839,8 +839,8 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Different Kinds of Light",
-        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
+        "name": "Jade Bird",
+        "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
         }
       ],
-      "duration_ms": 215493,
-      "name": "Now is the Time",
-      "url": "https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE"
+      "duration_ms": 153151,
+      "name": "Lottery",
+      "url": "https://open.spotify.com/track/2P7SSaE99q5MNjVm0Lz7bS"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -919,8 +919,8 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Jade Bird",
-        "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
+        "name": "Different Kinds of Light",
+        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
       },
       "artists": [
         {
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
         }
       ],
-      "duration_ms": 153151,
-      "name": "Lottery",
-      "url": "https://open.spotify.com/track/2P7SSaE99q5MNjVm0Lz7bS"
+      "duration_ms": 215493,
+      "name": "Now is the Time",
+      "url": "https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Happy Birthday, Ratboy",
-        "url": "https://open.spotify.com/album/0LqZlJQ8AA0L7WAszLSKwn"
-      },
-      "artists": [
-        {
-          "name": "Ratboys",
-          "url": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
-        }
-      ],
-      "duration_ms": 169066,
-      "name": "Go Outside",
-      "url": "https://open.spotify.com/track/2K2CrQx5sK9i6A5EeDpUDn"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Wary + Strange",
         "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 201240,
       "name": "Black Myself",
       "url": "https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Happy Birthday, Ratboy",
+        "url": "https://open.spotify.com/album/0LqZlJQ8AA0L7WAszLSKwn"
+      },
+      "artists": [
+        {
+          "name": "Ratboys",
+          "url": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
+        }
+      ],
+      "duration_ms": 169066,
+      "name": "Go Outside",
+      "url": "https://open.spotify.com/track/2K2CrQx5sK9i6A5EeDpUDn"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Good Luck With Whatever",
-        "url": "https://open.spotify.com/album/3esEgXmUs1zjBVqijbZ6RQ"
-      },
-      "artists": [
-        {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
-        }
-      ],
-      "duration_ms": 199413,
-      "name": "Who Do You Think You're Talking To?",
-      "url": "https://open.spotify.com/track/3JRKgmK00uNLQzXGcLUaZ3"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Animals With Religion",
         "url": "https://open.spotify.com/album/1tgxoOZbeY2AlmqFOmdImr"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 235264,
       "name": "Running Home to You",
       "url": "https://open.spotify.com/track/6SC9DUmZnaNyrmARkM0wu5"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Good Luck With Whatever",
+        "url": "https://open.spotify.com/album/3esEgXmUs1zjBVqijbZ6RQ"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "duration_ms": 199413,
+      "name": "Who Do You Think You're Talking To?",
+      "url": "https://open.spotify.com/track/3JRKgmK00uNLQzXGcLUaZ3"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1271,6 +1271,22 @@
       "duration_ms": 203547,
       "name": "Doobie Bronson",
       "url": "https://open.spotify.com/track/4c57bsRSaFavDqPKxYW2nR"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Puppy and a Truck",
+        "url": "https://open.spotify.com/album/2udBN6XsNrbgLOFzrqEBVt"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 191280,
+      "name": "Puppy and a Truck",
+      "url": "https://open.spotify.com/track/6nrfecLjwsQngv4LbOMrRe"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1399,22 +1415,6 @@
       "duration_ms": 229026,
       "name": "The Storm",
       "url": "https://open.spotify.com/track/0HpS7acFdLHmLc1IFk1cTY"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Puppy and a Truck",
-        "url": "https://open.spotify.com/album/2udBN6XsNrbgLOFzrqEBVt"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 191280,
-      "name": "Puppy and a Truck",
-      "url": "https://open.spotify.com/track/6nrfecLjwsQngv4LbOMrRe"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "This Time I See It",
-        "url": "https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "Why You Gotta Be",
-      "url": "https://open.spotify.com/track/4uyVtAFRciCP9fGqG3sm25"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Old Sob Story",
         "url": "https://open.spotify.com/album/3fnFtGjNgtLYd0CSnYp3Z9"
       },
@@ -1611,18 +1595,34 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Breaking Point",
-        "url": "https://open.spotify.com/album/36KsjnvXcJLoMD1VW6JhQZ"
+        "name": "This Time I See It",
+        "url": "https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev"
       },
       "artists": [
         {
-          "name": "Jackson+Sellers",
-          "url": "https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk"
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
         }
       ],
-      "duration_ms": 216004,
-      "name": "Waste Your Time",
-      "url": "https://open.spotify.com/track/7k1gACB0qAHrRaWjCCvlGj"
+      "duration_ms": 228040,
+      "name": "Why You Gotta Be",
+      "url": "https://open.spotify.com/track/4uyVtAFRciCP9fGqG3sm25"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Cool Jam/Good For You",
+        "url": "https://open.spotify.com/album/6vmdjFe8QexVakjOEbtMdY"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "Cool Jam",
+      "url": "https://open.spotify.com/track/20kSLZz8XyhV6ocOyrLU8B"
     }
   ],
   "unique_name": "Folk Rock Favorites",

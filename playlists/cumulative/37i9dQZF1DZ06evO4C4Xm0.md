@@ -4,7 +4,7 @@
 
 > This is Brian Eno\. The essential tracks, all in one playlist.
 
-124 songs - 10 hr 12 min
+125 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 | 2022-05-29 |  |
 | [Another Green World \- Remastered 2004](https://open.spotify.com/track/660j84jp8ljIwLFiAFprlb) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 1:41 | 2022-05-29 |  |
 | [Aragon \- Remastered 2005](https://open.spotify.com/track/2pwBxOkWYNvPYWvIUPeFst) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Films](https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07) | 1:37 | 2022-10-16 |  |
-| [as if your eyes were partly closed as if you honed the swirl within them and offered me the world](https://open.spotify.com/track/4wnt8VEgENqz1VYlJbxXZZ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Rick Holland](https://open.spotify.com/artist/1EoM3RaZFNyVemrUilsheL) | [Drums Between The Bells](https://open.spotify.com/album/3jOnjiEr8GKLRXfyUajpo2) | 1:37 | 2023-03-25 | 2023-04-03 |
+| [as if your eyes were partly closed as if you honed the swirl within them and offered me the world](https://open.spotify.com/track/4wnt8VEgENqz1VYlJbxXZZ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Rick Holland](https://open.spotify.com/artist/1EoM3RaZFNyVemrUilsheL) | [Drums Between The Bells](https://open.spotify.com/album/3jOnjiEr8GKLRXfyUajpo2) | 1:37 | 2023-03-25 |  |
 | [Baby's On Fire \- 2004 Digital Remaster](https://open.spotify.com/track/2PV9sorI2h94qEPke7SlGI) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Here Come The Warm Jets](https://open.spotify.com/album/74jn28Kr29iyh8eZXSvnwi) | 5:19 | 2022-05-29 | 2022-10-16 |
 | [Backwater \- 2004 Digital Remaster](https://open.spotify.com/track/5LyWia3X6AJtosLJdSA6ar) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Before And After Science](https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u) | 3:43 | 2022-06-04 | 2022-10-09 |
 | [Becalmed \- 2004 Digital Remaster](https://open.spotify.com/track/3qq8XPwF2DoBhENRgLQ7ET) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 3:56 | 2022-05-29 | 2022-10-13 |
@@ -53,6 +53,7 @@
 | [From The Same Hill \- Remastered 2005](https://open.spotify.com/track/6KXkRnKRmVes2BfNzN7bnX) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Films](https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07) | 3:00 | 2023-01-24 | 2023-01-26 |
 | [Garden of Stars](https://open.spotify.com/track/3CTJWZbJuoPwXV0oJPYE9K) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 4:19 | 2022-11-04 | 2022-11-29 |
 | [Golden Hours \- 2004 Digital Remaster](https://open.spotify.com/track/0ikLV7zMypPFyLH57cKpRO) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 4:00 | 2022-05-30 | 2023-03-26 |
+| [Hardly Me \- Instrumental](https://open.spotify.com/track/3X6nQIGR66C4VCgG9Cxqtq) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE \(FOREVER VOICELESS EDITION\)](https://open.spotify.com/album/4LnPArXRTX4jlOmcO6mIfN) | 3:50 | 2023-04-22 |  |
 | [Here Come The Warm Jets \- 2004 Digital Remaster](https://open.spotify.com/track/5AiNr1E4t8n1T4NebVLKyK) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Here Come The Warm Jets](https://open.spotify.com/album/74jn28Kr29iyh8eZXSvnwi) | 4:04 | 2022-06-20 | 2022-10-07 |
 | [Ho Renomo](https://open.spotify.com/track/2nBtV4NSZJiarMBMpsn6UH) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 5:11 | 2022-06-01 | 2022-09-26 |
 | [I'll Come Running \- 2004 Digital Remaster](https://open.spotify.com/track/6ZWVeMysm8Q8zZu3lKnY2v) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 3:49 | 2022-05-29 |  |
@@ -68,7 +69,7 @@
 | [Lizard Point \- Remastered 2004](https://open.spotify.com/track/3an5DoMqoNpJEQwfA48A4c) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 4: On Land \(Remastered 2004\)](https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh) | 4:34 | 2022-05-29 | 2023-02-01 |
 | [Lost In The Humming Air \- 2005 Digital Remaster](https://open.spotify.com/track/0Xf8nLzbt3TXW0DejZhHTy) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 4:21 | 2022-05-29 |  |
 | [LUX 1.1](https://open.spotify.com/track/6R5ADT7ylKtme695nbYzAK) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [LUX 1](https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg) | 3:42 | 2023-02-05 |  |
-| [LUX 1.2](https://open.spotify.com/track/1OtF0vJKQ9VvLHHKnKGXmf) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [LUX 1](https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg) | 3:24 | 2023-01-31 |  |
+| [LUX 1.2](https://open.spotify.com/track/1OtF0vJKQ9VvLHHKnKGXmf) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [LUX 1](https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg) | 3:24 | 2023-01-31 | 2023-04-23 |
 | [LUX 1.3](https://open.spotify.com/track/6UoyqgsW4x5idBbyEcfy5D) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [LUX 1](https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg) | 2:50 | 2023-01-31 | 2023-03-27 |
 | [LUX 1.4](https://open.spotify.com/track/7u566Fxjg5xInRCNBuTlO2) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [LUX 1](https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg) | 3:32 | 2023-01-31 | 2023-03-15 |
 | [LUX 1.5](https://open.spotify.com/track/5KytJPpKeZd732rDgX4FTb) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [LUX 1](https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg) | 3:02 | 2023-02-02 | 2023-03-07 |

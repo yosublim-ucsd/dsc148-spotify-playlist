@@ -1,12 +1,12 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 230910,
+  "num_followers": 230977,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3MjQwMCwwMDAwMDAwMGM5MWM2NWI1MDRiOWQ1MWYxNGM1MzhmNjdjYTBkMjVm",
+  "snapshot_id": "MTY0NzU3MjQwMCwwMDAwMDAwMDFkZmEyZDdhZjZhNTIwZjAwMmFjZTQ2N2NmZjNhMDRl",
   "tracks": [
     {
       "added_at": "2022-03-18 03:00:00",
@@ -203,18 +203,18 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Milonga de mis amores",
-        "url": "https://open.spotify.com/album/5NZALaO88l6G50M9IpVwA9"
+        "name": "Milonguera: Des femmes et du tango",
+        "url": "https://open.spotify.com/album/37rcqU2wI70tmbQOQsmJlw"
       },
       "artists": [
         {
-          "name": "SEXTETO VISCERAL",
-          "url": "https://open.spotify.com/artist/5OyqRQZbRb8r3TGDGf6X8C"
+          "name": "Carlos Gardel",
+          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
         }
       ],
-      "duration_ms": 142133,
-      "name": "Milonga de mis amores - Estilo Pedro Laurenz",
-      "url": "https://open.spotify.com/track/15tGcGuT4MaynEctZBLaNK"
+      "duration_ms": 124146,
+      "name": "Chorra",
+      "url": "https://open.spotify.com/track/1URyyv3KRVnqlVkQQi3OlQ"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -235,18 +235,18 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Milonguera: Des femmes et du tango",
-        "url": "https://open.spotify.com/album/37rcqU2wI70tmbQOQsmJlw"
+        "name": "Milonga de mis amores",
+        "url": "https://open.spotify.com/album/5NZALaO88l6G50M9IpVwA9"
       },
       "artists": [
         {
-          "name": "Carlos Gardel",
-          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
+          "name": "SEXTETO VISCERAL",
+          "url": "https://open.spotify.com/artist/5OyqRQZbRb8r3TGDGf6X8C"
         }
       ],
-      "duration_ms": 124146,
-      "name": "Chorra",
-      "url": "https://open.spotify.com/track/1URyyv3KRVnqlVkQQi3OlQ"
+      "duration_ms": 142133,
+      "name": "Milonga de mis amores - Estilo Pedro Laurenz",
+      "url": "https://open.spotify.com/track/15tGcGuT4MaynEctZBLaNK"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Solo Guitarra",
-        "url": "https://open.spotify.com/album/5mMWX0ZK7c2raoF04K4PLs"
-      },
-      "artists": [
-        {
-          "name": "Luis Salinas",
-          "url": "https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk"
-        }
-      ],
-      "duration_ms": 154293,
-      "name": "Uno",
-      "url": "https://open.spotify.com/track/1Pb3Q2EqL9LfQ78lwAykav"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "Raul Lavi\u00e9-Los Elegidos",
         "url": "https://open.spotify.com/album/1AztB8HKYIcxdDSgPte8SV"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 158373,
       "name": "Los Mareados",
       "url": "https://open.spotify.com/track/03bPLvobYz452ePAEksJgY"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "Solo Guitarra",
+        "url": "https://open.spotify.com/album/5mMWX0ZK7c2raoF04K4PLs"
+      },
+      "artists": [
+        {
+          "name": "Luis Salinas",
+          "url": "https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk"
+        }
+      ],
+      "duration_ms": 154293,
+      "name": "Uno",
+      "url": "https://open.spotify.com/track/1Pb3Q2EqL9LfQ78lwAykav"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
+        "name": "El Album Blanco",
+        "url": "https://open.spotify.com/album/05KSJ0XmnH3PqdVKGm6LZM"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p"
+        }
+      ],
+      "duration_ms": 208120,
+      "name": "Los Cosos De Al Lao",
+      "url": "https://open.spotify.com/track/5qGKjmoKrvmHo4yf1U7bto"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
         "name": "A los Cantores (En Vivo)",
         "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 224746,
       "name": "Mariposita - En Vivo",
       "url": "https://open.spotify.com/track/3eDlsR5h1xyImi09ulmjYK"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
-        "name": "El Album Blanco",
-        "url": "https://open.spotify.com/album/05KSJ0XmnH3PqdVKGm6LZM"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Ju\u00e1rez",
-          "url": "https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p"
-        }
-      ],
-      "duration_ms": 208120,
-      "name": "Los Cosos De Al Lao",
-      "url": "https://open.spotify.com/track/5qGKjmoKrvmHo4yf1U7bto"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -971,6 +971,26 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
+        "name": "Flor de Tangos y Poemas (feat. Juan Trepiana)",
+        "url": "https://open.spotify.com/album/0nAClewMjDbOhV1rCIx2Hz"
+      },
+      "artists": [
+        {
+          "name": "Horacio Ferrer",
+          "url": "https://open.spotify.com/artist/2YVUCSYeU9bgnXbno2WCu5"
+        },
+        {
+          "name": "Juan Trepiana",
+          "url": "https://open.spotify.com/artist/1raFv3PXteep5J6poiA6we"
+        }
+      ],
+      "duration_ms": 231520,
+      "name": "La Bicicleta Blanca",
+      "url": "https://open.spotify.com/track/52gnzovIQX4fc8CzmXV3qI"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
         "name": "Castiellos",
         "url": "https://open.spotify.com/album/54xztW047EbGLz0wkr1QST"
       },
@@ -1007,22 +1027,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "A Las Orquestas",
-        "url": "https://open.spotify.com/album/4p7RAcYL71hf4k4RBXGYUF"
-      },
-      "artists": [
-        {
-          "name": "Julio Pane",
-          "url": "https://open.spotify.com/artist/4LfXtXfhAtyH6Htp0x0mUV"
-        }
-      ],
-      "duration_ms": 251472,
-      "name": "El Andariego",
-      "url": "https://open.spotify.com/track/4j3uxMq69ROiwQpSCI2g2l"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "Re-Encuentro",
         "url": "https://open.spotify.com/album/6kxxUyfgkO5n4NcHDkHMHC"
       },
@@ -1043,22 +1047,18 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Flor de Tangos y Poemas (feat. Juan Trepiana)",
-        "url": "https://open.spotify.com/album/0nAClewMjDbOhV1rCIx2Hz"
+        "name": "A Las Orquestas",
+        "url": "https://open.spotify.com/album/4p7RAcYL71hf4k4RBXGYUF"
       },
       "artists": [
         {
-          "name": "Horacio Ferrer",
-          "url": "https://open.spotify.com/artist/2YVUCSYeU9bgnXbno2WCu5"
-        },
-        {
-          "name": "Juan Trepiana",
-          "url": "https://open.spotify.com/artist/1raFv3PXteep5J6poiA6we"
+          "name": "Julio Pane",
+          "url": "https://open.spotify.com/artist/4LfXtXfhAtyH6Htp0x0mUV"
         }
       ],
-      "duration_ms": 231520,
-      "name": "La Bicicleta Blanca",
-      "url": "https://open.spotify.com/track/52gnzovIQX4fc8CzmXV3qI"
+      "duration_ms": 251472,
+      "name": "El Andariego",
+      "url": "https://open.spotify.com/track/4j3uxMq69ROiwQpSCI2g2l"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1079,8 +1079,8 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Rescatados",
-        "url": "https://open.spotify.com/album/226r72g4B8q7rIC2oIhKFy"
+        "name": "Tangazos",
+        "url": "https://open.spotify.com/album/1lNKXd3O7tBxvLn8egvjDg"
       },
       "artists": [
         {
@@ -1088,9 +1088,9 @@
           "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
         }
       ],
-      "duration_ms": 177977,
-      "name": "Sur",
-      "url": "https://open.spotify.com/track/4nHtnFsPM2tOes5jnDC9ZC"
+      "duration_ms": 161061,
+      "name": "Se Tiran Conmigo",
+      "url": "https://open.spotify.com/track/52bmeu33Kkm1hfEsuvivs5"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "La Tana Con Todo",
-        "url": "https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1"
-      },
-      "artists": [
-        {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
-        }
-      ],
-      "duration_ms": 237226,
-      "name": "Malevaje",
-      "url": "https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "Antolog\u00eda, Vol.2: Viejas Alegrias",
         "url": "https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 204714,
       "name": "Trenzas",
       "url": "https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "La Tana Con Todo",
+        "url": "https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1"
+      },
+      "artists": [
+        {
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+        }
+      ],
+      "duration_ms": 237226,
+      "name": "Malevaje",
+      "url": "https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1163,8 +1163,8 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Tangazos",
-        "url": "https://open.spotify.com/album/1lNKXd3O7tBxvLn8egvjDg"
+        "name": "Rescatados",
+        "url": "https://open.spotify.com/album/226r72g4B8q7rIC2oIhKFy"
       },
       "artists": [
         {
@@ -1172,9 +1172,9 @@
           "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
         }
       ],
-      "duration_ms": 161061,
-      "name": "Se Tiran Conmigo",
-      "url": "https://open.spotify.com/track/52bmeu33Kkm1hfEsuvivs5"
+      "duration_ms": 177977,
+      "name": "Sur",
+      "url": "https://open.spotify.com/track/4nHtnFsPM2tOes5jnDC9ZC"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Osvaldo Pugliese con Alberto Moran y Roberto Chanel",
-        "url": "https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA"
-      },
-      "artists": [
-        {
-          "name": "Osvaldo Pugliese",
-          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
-        }
-      ],
-      "duration_ms": 154573,
-      "name": "Cafetin",
-      "url": "https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "El Nuevo Rumbo",
         "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
@@ -1251,34 +1235,18 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Antolog\u00eda, Vol. 3: Yuyo Verde",
-        "url": "https://open.spotify.com/album/7kuPFrlocZ0Rgw6gBujNeT"
+        "name": "Osvaldo Pugliese con Alberto Moran y Roberto Chanel",
+        "url": "https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA"
       },
       "artists": [
         {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+          "name": "Osvaldo Pugliese",
+          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
         }
       ],
-      "duration_ms": 133760,
-      "name": "Si Tu Quisieras",
-      "url": "https://open.spotify.com/track/627r41lcqFbypDLnKg9uuY"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
-        "name": "Gran Hotel Victoria",
-        "url": "https://open.spotify.com/album/5MmEA4C0cMFqrjdXPDB0X9"
-      },
-      "artists": [
-        {
-          "name": "Pablo Mainetti",
-          "url": "https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ"
-        }
-      ],
-      "duration_ms": 171773,
-      "name": "Gran Hotel Victoria",
-      "url": "https://open.spotify.com/track/1rxRxnOfJIVcXVG1TY0yhi"
+      "duration_ms": 154573,
+      "name": "Cafetin",
+      "url": "https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1311,6 +1279,38 @@
       "duration_ms": 247026,
       "name": "El Abrojito",
       "url": "https://open.spotify.com/track/6RSHrF9jTWWlQbGnw6mRan"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "Antolog\u00eda, Vol. 3: Yuyo Verde",
+        "url": "https://open.spotify.com/album/7kuPFrlocZ0Rgw6gBujNeT"
+      },
+      "artists": [
+        {
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+        }
+      ],
+      "duration_ms": 133760,
+      "name": "Si Tu Quisieras",
+      "url": "https://open.spotify.com/track/627r41lcqFbypDLnKg9uuY"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "Gran Hotel Victoria",
+        "url": "https://open.spotify.com/album/5MmEA4C0cMFqrjdXPDB0X9"
+      },
+      "artists": [
+        {
+          "name": "Pablo Mainetti",
+          "url": "https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ"
+        }
+      ],
+      "duration_ms": 171773,
+      "name": "Gran Hotel Victoria",
+      "url": "https://open.spotify.com/track/1rxRxnOfJIVcXVG1TY0yhi"
     },
     {
       "added_at": "2022-03-18 03:00:00",

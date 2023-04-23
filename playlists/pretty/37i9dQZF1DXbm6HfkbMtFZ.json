@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 660726,
+  "num_followers": 660902,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTE2NTYxMCwwMDAwMDAwMDAzZjdlNWZjYjZlNTQ2YTVjYzFkZGFhYTIwYjJhMTM5",
+  "snapshot_id": "MTY4MTE2NTYxMCwwMDAwMDAwMDA0YTM5N2Q4MmZiNzAzZmY0ODc3NmJlNDk3MDI5ZWVj",
   "tracks": [
     {
       "added_at": "2023-04-10 22:26:50",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-04-10 22:26:50",
       "album": {
+        "name": "First Place",
+        "url": "https://open.spotify.com/album/5U7958Pk6fX1IVOlFSi48o"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 283190,
+      "name": "Everything Is Just a Mess",
+      "url": "https://open.spotify.com/track/1RsKWNZJOBfOsVSeDIogpB"
+    },
+    {
+      "added_at": "2023-04-10 22:26:50",
+      "album": {
         "name": "Bonnie Raitt (2008 Remaster)",
         "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 179836,
       "name": "Love Is The Way",
       "url": "https://open.spotify.com/track/4Z0aGS1P0KxyPlBpqHpJ0F"
-    },
-    {
-      "added_at": "2023-04-10 22:26:50",
-      "album": {
-        "name": "First Place",
-        "url": "https://open.spotify.com/album/5U7958Pk6fX1IVOlFSi48o"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 283190,
-      "name": "Everything Is Just a Mess",
-      "url": "https://open.spotify.com/track/1RsKWNZJOBfOsVSeDIogpB"
     },
     {
       "added_at": "2023-04-10 22:26:50",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-04-10 22:26:50",
       "album": {
+        "name": "Thee Sacred Souls",
+        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "Easier Said Than Done",
+      "url": "https://open.spotify.com/track/7dIPEjXoxkhmNR9S7EQVJ0"
+    },
+    {
+      "added_at": "2023-04-10 22:26:50",
+      "album": {
         "name": "Sunsetter",
         "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 175946,
       "name": "If I Ever Was a Child",
       "url": "https://open.spotify.com/track/41Kl6LI2iFiT3I2IvXMsFT"
-    },
-    {
-      "added_at": "2023-04-10 22:26:50",
-      "album": {
-        "name": "Thee Sacred Souls",
-        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 174706,
-      "name": "Easier Said Than Done",
-      "url": "https://open.spotify.com/track/7dIPEjXoxkhmNR9S7EQVJ0"
     },
     {
       "added_at": "2023-04-10 22:26:50",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-04-10 22:26:50",
       "album": {
-        "name": "The Dandelion",
-        "url": "https://open.spotify.com/album/5vat3mrJgQ9KbusWrt5kOM"
-      },
-      "artists": [
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 219884,
-      "name": "The Dandelion",
-      "url": "https://open.spotify.com/track/23JJ79DtsITIxMfcgYvxjY"
-    },
-    {
-      "added_at": "2023-04-10 22:26:50",
-      "album": {
         "name": "Heard It In A Past Life",
         "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 221600,
       "name": "On + Off",
       "url": "https://open.spotify.com/track/2kvwSbG26eHKUJdvH7DiR2"
+    },
+    {
+      "added_at": "2023-04-10 22:26:50",
+      "album": {
+        "name": "The Dandelion",
+        "url": "https://open.spotify.com/album/5vat3mrJgQ9KbusWrt5kOM"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "duration_ms": 219884,
+      "name": "The Dandelion",
+      "url": "https://open.spotify.com/track/23JJ79DtsITIxMfcgYvxjY"
     },
     {
       "added_at": "2023-04-10 22:26:50",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-04-10 22:26:50",
       "album": {
-        "name": "You're so Fine",
-        "url": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5"
-      },
-      "artists": [
-        {
-          "name": "Papa Bear & His Cubs",
-          "url": "https://open.spotify.com/artist/6Q9ErFPYnMBBjqrtxp55Gv"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "You're so Fine",
-      "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
-    },
-    {
-      "added_at": "2023-04-10 22:26:50",
-      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 219335,
       "name": "Free - Single Version",
       "url": "https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG"
+    },
+    {
+      "added_at": "2023-04-10 22:26:50",
+      "album": {
+        "name": "You're so Fine",
+        "url": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5"
+      },
+      "artists": [
+        {
+          "name": "Papa Bear & His Cubs",
+          "url": "https://open.spotify.com/artist/6Q9ErFPYnMBBjqrtxp55Gv"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "You're so Fine",
+      "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
     },
     {
       "added_at": "2023-04-10 22:26:50",
@@ -1031,18 +1031,22 @@
     {
       "added_at": "2023-04-10 22:26:50",
       "album": {
-        "name": "Some Twist",
-        "url": "https://open.spotify.com/album/5BJlXjpFtDVaKC5YouIbOI"
+        "name": "Ali",
+        "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
       },
       "artists": [
         {
-          "name": "Michael Nau",
-          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
+        },
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 138097,
-      "name": "I Root",
-      "url": "https://open.spotify.com/track/7opFLwPI53eORdmxyv7Y3f"
+      "duration_ms": 333150,
+      "name": "Tongo Barra",
+      "url": "https://open.spotify.com/track/0OOPyxMDeHdoo2PptHHkC4"
     },
     {
       "added_at": "2023-04-10 22:26:50",
@@ -1067,38 +1071,18 @@
     {
       "added_at": "2023-04-10 22:26:50",
       "album": {
-        "name": "Ali",
-        "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
+        "name": "Some Twist",
+        "url": "https://open.spotify.com/album/5BJlXjpFtDVaKC5YouIbOI"
       },
       "artists": [
         {
-          "name": "Vieux Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
-        },
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "Michael Nau",
+          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
         }
       ],
-      "duration_ms": 333150,
-      "name": "Tongo Barra",
-      "url": "https://open.spotify.com/track/0OOPyxMDeHdoo2PptHHkC4"
-    },
-    {
-      "added_at": "2023-04-10 22:26:50",
-      "album": {
-        "name": "Just Like You Used To",
-        "url": "https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 188155,
-      "name": "Just Like You Used To",
-      "url": "https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y"
+      "duration_ms": 138097,
+      "name": "I Root",
+      "url": "https://open.spotify.com/track/7opFLwPI53eORdmxyv7Y3f"
     },
     {
       "added_at": "2023-04-10 22:26:50",
@@ -1119,6 +1103,22 @@
       "duration_ms": 253723,
       "name": "Slow Song (with Dragonette)",
       "url": "https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ"
+    },
+    {
+      "added_at": "2023-04-10 22:26:50",
+      "album": {
+        "name": "Just Like You Used To",
+        "url": "https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 188155,
+      "name": "Just Like You Used To",
+      "url": "https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y"
     },
     {
       "added_at": "2023-04-10 22:26:50",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-04-10 22:26:50",
       "album": {
+        "name": "Under The Blacklight (Standard Version)",
+        "url": "https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8"
+      },
+      "artists": [
+        {
+          "name": "Rilo Kiley",
+          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
+        }
+      ],
+      "duration_ms": 216973,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc"
+    },
+    {
+      "added_at": "2023-04-10 22:26:50",
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/4AZ9Eylw7Z7EsapL8inBsZ"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 202253,
       "name": "Time Was",
       "url": "https://open.spotify.com/track/1lLQtlPli8kTLJsTrcnRuQ"
-    },
-    {
-      "added_at": "2023-04-10 22:26:50",
-      "album": {
-        "name": "Under The Blacklight (Standard Version)",
-        "url": "https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8"
-      },
-      "artists": [
-        {
-          "name": "Rilo Kiley",
-          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
-        }
-      ],
-      "duration_ms": 216973,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc"
     },
     {
       "added_at": "2023-04-10 22:26:50",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2023-04-10 22:26:50",
       "album": {
-        "name": "Talk About It (B-Side)",
-        "url": "https://open.spotify.com/album/2aO9qd1SvonSVLLvT3zGUr"
+        "name": "House of FM",
+        "url": "https://open.spotify.com/album/4WilCpAY0oHk9Gxmki8wOI"
       },
       "artists": [
         {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
         }
       ],
-      "duration_ms": 132096,
-      "name": "Talk About It",
-      "url": "https://open.spotify.com/track/5CH0x6oAAVDV1agN0Wdfhw"
+      "duration_ms": 235263,
+      "name": "Losing Touch",
+      "url": "https://open.spotify.com/track/6EshmnAdZGBCA2LYCCX2Uy"
     },
     {
       "added_at": "2023-04-10 22:26:50",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-04-10 22:26:50",
       "album": {
+        "name": "Talk About It (B-Side)",
+        "url": "https://open.spotify.com/album/2aO9qd1SvonSVLLvT3zGUr"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 132096,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/5CH0x6oAAVDV1agN0Wdfhw"
+    },
+    {
+      "added_at": "2023-04-10 22:26:50",
+      "album": {
         "name": "This Is My Story",
         "url": "https://open.spotify.com/album/7m0WOyvRISJQjiHHheGuVs"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 132750,
       "name": "This Is My Story",
       "url": "https://open.spotify.com/track/1SauvELylW5CaydMeG33ib"
-    },
-    {
-      "added_at": "2023-04-10 22:26:50",
-      "album": {
-        "name": "House of FM",
-        "url": "https://open.spotify.com/album/4WilCpAY0oHk9Gxmki8wOI"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 235263,
-      "name": "Losing Touch",
-      "url": "https://open.spotify.com/track/6EshmnAdZGBCA2LYCCX2Uy"
     },
     {
       "added_at": "2023-04-10 22:26:50",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-04-10 22:26:50",
       "album": {
-        "name": "Float Back To You",
-        "url": "https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F"
-      },
-      "artists": [
-        {
-          "name": "Holy Hive",
-          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
-        }
-      ],
-      "duration_ms": 231868,
-      "name": "Hypnosis",
-      "url": "https://open.spotify.com/track/3cxqVYtrpDyAC4faMJgB9A"
-    },
-    {
-      "added_at": "2023-04-10 22:26:50",
-      "album": {
         "name": "Rock Your Baby",
         "url": "https://open.spotify.com/album/6wE37m8authSsjmKMB8jvM"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 174000,
       "name": "You Can Have It All",
       "url": "https://open.spotify.com/track/1umKrwGtLeRLd9InuebzP0"
+    },
+    {
+      "added_at": "2023-04-10 22:26:50",
+      "album": {
+        "name": "Float Back To You",
+        "url": "https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F"
+      },
+      "artists": [
+        {
+          "name": "Holy Hive",
+          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
+        }
+      ],
+      "duration_ms": 231868,
+      "name": "Hypnosis",
+      "url": "https://open.spotify.com/track/3cxqVYtrpDyAC4faMJgB9A"
     },
     {
       "added_at": "2023-04-10 22:26:50",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2023-04-10 22:26:50",
       "album": {
+        "name": "If You Don't Want My Love",
+        "url": "https://open.spotify.com/album/2pCNvQ7AcClmXZmpIfyP2N"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 146813,
+      "name": "If You Don't Want My Love",
+      "url": "https://open.spotify.com/track/2364WrvPTUHobDNURudCbM"
+    },
+    {
+      "added_at": "2023-04-10 22:26:50",
+      "album": {
         "name": "Always on My Mind (Acoustic)",
         "url": "https://open.spotify.com/album/2IXxnl8jWACV3QC8WtyHIt"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 214820,
       "name": "Always on My Mind (Acoustic)",
       "url": "https://open.spotify.com/track/4BzkIjqAMi2MYU5ZJoV9my"
-    },
-    {
-      "added_at": "2023-04-10 22:26:50",
-      "album": {
-        "name": "If You Don't Want My Love",
-        "url": "https://open.spotify.com/album/2pCNvQ7AcClmXZmpIfyP2N"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 146813,
-      "name": "If You Don't Want My Love",
-      "url": "https://open.spotify.com/track/2364WrvPTUHobDNURudCbM"
     },
     {
       "added_at": "2023-04-10 22:26:50",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2023-04-10 22:26:50",
       "album": {
-        "name": "Music and Dreams",
-        "url": "https://open.spotify.com/album/5306Ud36cTkWivzxFzUZM2"
-      },
-      "artists": [
-        {
-          "name": "Robert Lester Folsom",
-          "url": "https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX"
-        }
-      ],
-      "duration_ms": 168173,
-      "name": "My Stove's on Fire",
-      "url": "https://open.spotify.com/track/6EUcEf1l8hgFSGOzss2vU7"
-    },
-    {
-      "added_at": "2023-04-10 22:26:50",
-      "album": {
         "name": "The Hi Records Singles Collection",
         "url": "https://open.spotify.com/album/6gFbwjfZlO5NKSFD5THsSJ"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 258799,
       "name": "Lady Luck",
       "url": "https://open.spotify.com/track/4zdSkZqBNo0fHmviHOtxGe"
+    },
+    {
+      "added_at": "2023-04-10 22:26:50",
+      "album": {
+        "name": "Music and Dreams",
+        "url": "https://open.spotify.com/album/5306Ud36cTkWivzxFzUZM2"
+      },
+      "artists": [
+        {
+          "name": "Robert Lester Folsom",
+          "url": "https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX"
+        }
+      ],
+      "duration_ms": 168173,
+      "name": "My Stove's on Fire",
+      "url": "https://open.spotify.com/track/6EUcEf1l8hgFSGOzss2vU7"
     },
     {
       "added_at": "2023-04-10 22:26:50",

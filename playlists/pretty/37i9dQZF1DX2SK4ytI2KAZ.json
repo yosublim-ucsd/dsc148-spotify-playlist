@@ -1,12 +1,12 @@
 {
   "description": "have fun with it.",
-  "num_followers": 691031,
+  "num_followers": 691123,
   "original_name": "It's ALT Good!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTIzMzU3MSwwMDAwMDAwMDA1YjQ2MGFhNGVkZTU2NzBkNzAxYzJmMTA5NTFiYTNk",
+  "snapshot_id": "MTY4MTIzMzU3MSwwMDAwMDAwMDg1MGI0ZmFhYTdiOTEwNDZmMmFlMmEwM2U2MWI0ODRj",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "OUT OF MY MIND",
-        "url": "https://open.spotify.com/album/5FpxsZzxLCY08VOZURcr1G"
-      },
-      "artists": [
-        {
-          "name": "little image",
-          "url": "https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm"
-        }
-      ],
-      "duration_ms": 160676,
-      "name": "OUT OF MY MIND",
-      "url": "https://open.spotify.com/track/5GKdWRbTtj6D6gKM9455j5"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Glitterbug (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 209557,
       "name": "Greek Tragedy",
       "url": "https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "OUT OF MY MIND",
+        "url": "https://open.spotify.com/album/5FpxsZzxLCY08VOZURcr1G"
+      },
+      "artists": [
+        {
+          "name": "little image",
+          "url": "https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm"
+        }
+      ],
+      "duration_ms": 160676,
+      "name": "OUT OF MY MIND",
+      "url": "https://open.spotify.com/track/5GKdWRbTtj6D6gKM9455j5"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "ALL CAPS (feat. John the Ghost)",
+        "url": "https://open.spotify.com/album/0IZ7BqP4lOHnDM7VUsCE8C"
+      },
+      "artists": [
+        {
+          "name": "Weathers",
+          "url": "https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5"
+        },
+        {
+          "name": "John the Ghost",
+          "url": "https://open.spotify.com/artist/6fYqX8n6gG3FNbSufuvj3E"
+        }
+      ],
+      "duration_ms": 184910,
+      "name": "ALL CAPS (feat. John the Ghost)",
+      "url": "https://open.spotify.com/track/2N9j5SNc6cQMYpUeyXYlBV"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "KEEP IT UP",
         "url": "https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U"
       },
@@ -1059,26 +1079,6 @@
       "duration_ms": 248560,
       "name": "Lemon Tree",
       "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "ALL CAPS (feat. John the Ghost)",
-        "url": "https://open.spotify.com/album/0IZ7BqP4lOHnDM7VUsCE8C"
-      },
-      "artists": [
-        {
-          "name": "Weathers",
-          "url": "https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5"
-        },
-        {
-          "name": "John the Ghost",
-          "url": "https://open.spotify.com/artist/6fYqX8n6gG3FNbSufuvj3E"
-        }
-      ],
-      "duration_ms": 184910,
-      "name": "ALL CAPS (feat. John the Ghost)",
-      "url": "https://open.spotify.com/track/2N9j5SNc6cQMYpUeyXYlBV"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "LP3",
-        "url": "https://open.spotify.com/album/08I3iemI4Gfn7kp4wm9FmX"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 210608,
-      "name": "Ride or Die",
-      "url": "https://open.spotify.com/track/7c0se2w4QXZ9V4MoHWhshC"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Off To The Races",
         "url": "https://open.spotify.com/album/0vGId8rvkYSChOrt2A6HVc"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 219000,
       "name": "Fred Astaire",
       "url": "https://open.spotify.com/track/2lYLaKcZ1bwrIEJcD5LGOx"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "LP3",
+        "url": "https://open.spotify.com/album/08I3iemI4Gfn7kp4wm9FmX"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 210608,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/7c0se2w4QXZ9V4MoHWhshC"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Chapstick",
-        "url": "https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 193299,
-      "name": "Chapstick",
-      "url": "https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Healer",
         "url": "https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 234386,
       "name": "Deleter",
       "url": "https://open.spotify.com/track/2yH16s2lLbYtLziVwqw7Pf"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Chapstick",
+        "url": "https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 193299,
+      "name": "Chapstick",
+      "url": "https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Bright Blues",
+        "url": "https://open.spotify.com/album/0rsE8hO2srq8GzMGiRl6gG"
+      },
+      "artists": [
+        {
+          "name": "Ripe",
+          "url": "https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT"
+        }
+      ],
+      "duration_ms": 188316,
+      "name": "Settling",
+      "url": "https://open.spotify.com/track/0ibvUpSyUdMXrmuPIcg1T3"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Did I Make You Up?",
         "url": "https://open.spotify.com/album/5BFctZsAHYCWm2QOF3GRHc"
       },
@@ -1451,18 +1467,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Bright Blues",
-        "url": "https://open.spotify.com/album/0rsE8hO2srq8GzMGiRl6gG"
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j"
       },
       "artists": [
         {
-          "name": "Ripe",
-          "url": "https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 188316,
-      "name": "Settling",
-      "url": "https://open.spotify.com/track/0ibvUpSyUdMXrmuPIcg1T3"
+      "duration_ms": 229773,
+      "name": "BRIGHTSIDE",
+      "url": "https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1483,22 +1499,6 @@
       "duration_ms": 227440,
       "name": "Pacific Coast Highway (with Trevor Hall)",
       "url": "https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 229773,
-      "name": "BRIGHTSIDE",
-      "url": "https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Brighter Day",
-        "url": "https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT"
-      },
-      "artists": [
-        {
-          "name": "Michael Franti & Spearhead",
-          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "Brighter Day",
-      "url": "https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "The Heights",
         "url": "https://open.spotify.com/album/5y7c6SiyyTwpX6urLjt7TV"
       },
@@ -1663,6 +1647,26 @@
       "duration_ms": 203666,
       "name": "Pretty Way to Fight",
       "url": "https://open.spotify.com/track/5v1HV2JJvqtQheo7xIpN1B"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Blutooth / enough 4 u",
+        "url": "https://open.spotify.com/album/5fehd9MptgZcNgSLxAPBNN"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 178480,
+      "name": "Blutooth",
+      "url": "https://open.spotify.com/track/4mhHWZBaSyLeTeXrLp1xuK"
     }
   ],
   "unique_name": "It's ALT Good!",

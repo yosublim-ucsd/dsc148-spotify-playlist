@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 31018,
+  "num_followers": 31053,
   "original_name": "Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAxMTI2MCwwMDAwMDAwMDY4ZDA4ZTBkZTdkNmYzNjIxMDViNzBhNjYwOTQ5NWRh",
+  "snapshot_id": "MTY3OTAxMTI2MCwwMDAwMDAwMDc1ZTUzMjdlNWZhNmQyNzk0ZjI2ZmUxYmQzODQzMTgw",
   "tracks": [
     {
       "added_at": "2023-03-17 00:01:00",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
-        "name": "The Morning After",
-        "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
-      },
-      "artists": [
-        {
-          "name": "The J. Geils Band",
-          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
-        }
-      ],
-      "duration_ms": 158266,
-      "name": "Whammer Jammer",
-      "url": "https://open.spotify.com/track/6ED55VLiJwnaWEuo45f6MF"
-    },
-    {
-      "added_at": "2023-03-17 00:01:00",
-      "album": {
         "name": "Texas Sensation",
         "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 157400,
       "name": "Hide Away",
       "url": "https://open.spotify.com/track/2bV2rAslNR4CjjG8CuEQhZ"
+    },
+    {
+      "added_at": "2023-03-17 00:01:00",
+      "album": {
+        "name": "The Morning After",
+        "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
+      },
+      "artists": [
+        {
+          "name": "The J. Geils Band",
+          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
+        }
+      ],
+      "duration_ms": 158266,
+      "name": "Whammer Jammer",
+      "url": "https://open.spotify.com/track/6ED55VLiJwnaWEuo45f6MF"
     },
     {
       "added_at": "2023-03-17 00:01:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 418880,
-      "name": "Rememberin' Stevie",
-      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
-    },
-    {
-      "added_at": "2023-03-17 00:01:00",
-      "album": {
         "name": "The Complete Imperial Recordings, 1950-1954",
         "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 150173,
       "name": "Strollin' With Bones",
       "url": "https://open.spotify.com/track/5C4lqxcOb2aZPxMV73G00U"
+    },
+    {
+      "added_at": "2023-03-17 00:01:00",
+      "album": {
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 418880,
+      "name": "Rememberin' Stevie",
+      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
     },
     {
       "added_at": "2023-03-17 00:01:00",
@@ -435,6 +435,38 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
+        "name": "Sweet Emma",
+        "url": "https://open.spotify.com/album/255HReDR5ysQDnH8WkpTJL"
+      },
+      "artists": [
+        {
+          "name": "Michael Reiss",
+          "url": "https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy"
+        }
+      ],
+      "duration_ms": 341854,
+      "name": "You Don't Know Me",
+      "url": "https://open.spotify.com/track/14ZXH12Uk9RJStH5x1RoXT"
+    },
+    {
+      "added_at": "2023-03-17 00:01:00",
+      "album": {
+        "name": "Blue Guitar",
+        "url": "https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 161479,
+      "name": "Blue Guitar",
+      "url": "https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG"
+    },
+    {
+      "added_at": "2023-03-17 00:01:00",
+      "album": {
         "name": "West Side Soul (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX"
       },
@@ -467,22 +499,6 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
-        "name": "Sweet Emma",
-        "url": "https://open.spotify.com/album/255HReDR5ysQDnH8WkpTJL"
-      },
-      "artists": [
-        {
-          "name": "Michael Reiss",
-          "url": "https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy"
-        }
-      ],
-      "duration_ms": 341854,
-      "name": "You Don't Know Me",
-      "url": "https://open.spotify.com/track/14ZXH12Uk9RJStH5x1RoXT"
-    },
-    {
-      "added_at": "2023-03-17 00:01:00",
-      "album": {
         "name": "Super Session (with Al Kooper & Stephen Stills)",
         "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 255066,
       "name": "Blues for Nothing",
       "url": "https://open.spotify.com/track/6tPZzx5GfGTAG4ehDYnL7b"
-    },
-    {
-      "added_at": "2023-03-17 00:01:00",
-      "album": {
-        "name": "Blue Guitar",
-        "url": "https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 161479,
-      "name": "Blue Guitar",
-      "url": "https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG"
     },
     {
       "added_at": "2023-03-17 00:01:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 159626,
-      "name": "Avalanche",
-      "url": "https://open.spotify.com/track/4XtHlG9bac0BxNGSJkuK3J"
-    },
-    {
-      "added_at": "2023-03-17 00:01:00",
-      "album": {
         "name": "Ultimate Collection",
         "url": "https://open.spotify.com/album/6CbrZqDIfD8TDS4xrXC8MS"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 154493,
       "name": "San-Ho-Zay",
       "url": "https://open.spotify.com/track/54tnyfQvFNTCNjhvH540CU"
+    },
+    {
+      "added_at": "2023-03-17 00:01:00",
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 159626,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/4XtHlG9bac0BxNGSJkuK3J"
     },
     {
       "added_at": "2023-03-17 00:01:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
+        "name": "Put It",
+        "url": "https://open.spotify.com/album/7c09IE37N9Vh2WritMGyF5"
+      },
+      "artists": [
+        {
+          "name": "TrackTribe",
+          "url": "https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv"
+        }
+      ],
+      "duration_ms": 210260,
+      "name": "Put It",
+      "url": "https://open.spotify.com/track/0ilZ3ymj1tmMcwGsrYpkfb"
+    },
+    {
+      "added_at": "2023-03-17 00:01:00",
+      "album": {
         "name": "Super Session (with Al Kooper & Stephen Stills)",
         "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 418493,
       "name": "Albert's Shuffle - 2002 Remix w/o Horns",
       "url": "https://open.spotify.com/track/7AaUATKp29w0x3C8RAv3lK"
-    },
-    {
-      "added_at": "2023-03-17 00:01:00",
-      "album": {
-        "name": "Put It",
-        "url": "https://open.spotify.com/album/7c09IE37N9Vh2WritMGyF5"
-      },
-      "artists": [
-        {
-          "name": "TrackTribe",
-          "url": "https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv"
-        }
-      ],
-      "duration_ms": 210260,
-      "name": "Put It",
-      "url": "https://open.spotify.com/track/0ilZ3ymj1tmMcwGsrYpkfb"
     },
     {
       "added_at": "2023-03-17 00:01:00",
@@ -939,26 +939,6 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
-        "name": "Mercy Me",
-        "url": "https://open.spotify.com/album/1wSy1a6XpkddFp8R8yHeyj"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Earl",
-          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
-        },
-        {
-          "name": "The Broadcasters",
-          "url": "https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH"
-        }
-      ],
-      "duration_ms": 463400,
-      "name": "Blues For Duke Robillard",
-      "url": "https://open.spotify.com/track/1PZHYEA9oq4VCmXnSjanLk"
-    },
-    {
-      "added_at": "2023-03-17 00:01:00",
-      "album": {
         "name": "Mr. B.",
         "url": "https://open.spotify.com/album/02dBZeFlgUrHhUNNZMSCOs"
       },
@@ -979,18 +959,22 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
-        "name": "Texas Sensation",
-        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
+        "name": "Mercy Me",
+        "url": "https://open.spotify.com/album/1wSy1a6XpkddFp8R8yHeyj"
       },
       "artists": [
         {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+          "name": "Ronnie Earl",
+          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+        },
+        {
+          "name": "The Broadcasters",
+          "url": "https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH"
         }
       ],
-      "duration_ms": 185786,
-      "name": "Side Tracked",
-      "url": "https://open.spotify.com/track/7qB9g4tusEHV5HGPzZejGj"
+      "duration_ms": 463400,
+      "name": "Blues For Duke Robillard",
+      "url": "https://open.spotify.com/track/1PZHYEA9oq4VCmXnSjanLk"
     },
     {
       "added_at": "2023-03-17 00:01:00",
@@ -1011,18 +995,18 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
-        "name": "The Grind",
-        "url": "https://open.spotify.com/album/1igvzvQaDFctwsblVqQjxC"
+        "name": "Texas Sensation",
+        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
       },
       "artists": [
         {
-          "name": "Gus Cleese",
-          "url": "https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2"
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
         }
       ],
-      "duration_ms": 76339,
-      "name": "The Grind",
-      "url": "https://open.spotify.com/track/32yCGwnha9K0pIOCQTvnRL"
+      "duration_ms": 185786,
+      "name": "Side Tracked",
+      "url": "https://open.spotify.com/track/7qB9g4tusEHV5HGPzZejGj"
     },
     {
       "added_at": "2023-03-17 00:01:00",
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
-        "name": "All Kinds Of Blues",
-        "url": "https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW"
+        "name": "The Grind",
+        "url": "https://open.spotify.com/album/1igvzvQaDFctwsblVqQjxC"
       },
       "artists": [
         {
-          "name": "Memphis Slim",
-          "url": "https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ"
+          "name": "Gus Cleese",
+          "url": "https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2"
         }
       ],
-      "duration_ms": 246333,
-      "name": "Frankie And Johnny Boogie",
-      "url": "https://open.spotify.com/track/4Vmcs564gpHY3umYGc5ICN"
+      "duration_ms": 76339,
+      "name": "The Grind",
+      "url": "https://open.spotify.com/track/32yCGwnha9K0pIOCQTvnRL"
     },
     {
       "added_at": "2023-03-17 00:01:00",
@@ -1091,22 +1075,6 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
-        "name": "Night Train",
-        "url": "https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Forrest",
-          "url": "https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub"
-        }
-      ],
-      "duration_ms": 179440,
-      "name": "Night Train",
-      "url": "https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7"
-    },
-    {
-      "added_at": "2023-03-17 00:01:00",
-      "album": {
         "name": "Texas Sensation",
         "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
       },
@@ -1119,6 +1087,38 @@
       "duration_ms": 194106,
       "name": "The Stumble",
       "url": "https://open.spotify.com/track/4SAKoygdIR2OwBO66j82vh"
+    },
+    {
+      "added_at": "2023-03-17 00:01:00",
+      "album": {
+        "name": "All Kinds Of Blues",
+        "url": "https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW"
+      },
+      "artists": [
+        {
+          "name": "Memphis Slim",
+          "url": "https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "Frankie And Johnny Boogie",
+      "url": "https://open.spotify.com/track/4Vmcs564gpHY3umYGc5ICN"
+    },
+    {
+      "added_at": "2023-03-17 00:01:00",
+      "album": {
+        "name": "Night Train",
+        "url": "https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Forrest",
+          "url": "https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub"
+        }
+      ],
+      "duration_ms": 179440,
+      "name": "Night Train",
+      "url": "https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7"
     },
     {
       "added_at": "2023-03-17 00:01:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
+        "name": "Alone With Yourself",
+        "url": "https://open.spotify.com/album/03LY4WQPQxaPkRLNa31JGH"
+      },
+      "artists": [
+        {
+          "name": "Gary O'Slide",
+          "url": "https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf"
+        }
+      ],
+      "duration_ms": 233382,
+      "name": "Alone With Yourself",
+      "url": "https://open.spotify.com/track/12k5GxCuUuhOYqknjtkDII"
+    },
+    {
+      "added_at": "2023-03-17 00:01:00",
+      "album": {
         "name": "Gaslighter's Ball",
         "url": "https://open.spotify.com/album/3USbNYufFAKCtxQSjwClPo"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 190956,
       "name": "Gaslighter's Ball",
       "url": "https://open.spotify.com/track/5TwyKJ0p0JiKJzjsuG2dxg"
-    },
-    {
-      "added_at": "2023-03-17 00:01:00",
-      "album": {
-        "name": "Alone With Yourself",
-        "url": "https://open.spotify.com/album/03LY4WQPQxaPkRLNa31JGH"
-      },
-      "artists": [
-        {
-          "name": "Gary O'Slide",
-          "url": "https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf"
-        }
-      ],
-      "duration_ms": 233382,
-      "name": "Alone With Yourself",
-      "url": "https://open.spotify.com/track/12k5GxCuUuhOYqknjtkDII"
     },
     {
       "added_at": "2023-03-17 00:01:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
-        "name": "The Sulfur Blues",
-        "url": "https://open.spotify.com/album/7oXEK96qmpyj2g9FjxhSGF"
-      },
-      "artists": [
-        {
-          "name": "Andrea Chiarini",
-          "url": "https://open.spotify.com/artist/5khp8mlK2hyeY1ZijSIBu3"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "The Sulfur Blues",
-      "url": "https://open.spotify.com/track/719TL8nU2gowduPRAuaDdf"
-    },
-    {
-      "added_at": "2023-03-17 00:01:00",
-      "album": {
         "name": "Room To Move 1969 - 1974",
         "url": "https://open.spotify.com/album/6YGnkpsMZTH3fMuvhdC3WL"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 133533,
       "name": "Boogie Albert",
       "url": "https://open.spotify.com/track/54XdAhnIsuW0YevJyI1e1P"
+    },
+    {
+      "added_at": "2023-03-17 00:01:00",
+      "album": {
+        "name": "The Sulfur Blues",
+        "url": "https://open.spotify.com/album/7oXEK96qmpyj2g9FjxhSGF"
+      },
+      "artists": [
+        {
+          "name": "Andrea Chiarini",
+          "url": "https://open.spotify.com/artist/5khp8mlK2hyeY1ZijSIBu3"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "The Sulfur Blues",
+      "url": "https://open.spotify.com/track/719TL8nU2gowduPRAuaDdf"
     },
     {
       "added_at": "2023-03-17 00:01:00",

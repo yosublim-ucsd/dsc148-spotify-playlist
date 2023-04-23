@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 178601,
+  "num_followers": 178695,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMDlmNjFmYTk4MGVmNWM2MTFjZjU5YzYxN2U1ZjJlMzdk",
+  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMGY2ODRiYjE5ZWJiMDU1ZjEyNDk4MjE5YWQwNDgxZWM3",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -405,6 +405,22 @@
       "url": "https://open.spotify.com/track/61EV3vuEsYHT1xtsb8SND1"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "The Brecker Bros",
+        "url": "https://open.spotify.com/album/3mXY4gBVlEzTk4DVGhFTpZ"
+      },
+      "artists": [
+        {
+          "name": "The Brecker Brothers",
+          "url": "https://open.spotify.com/artist/45rpaf8BR69NIPqmeAYb7l"
+        }
+      ],
+      "duration_ms": 350506,
+      "name": "Some Skunk Funk",
+      "url": "https://open.spotify.com/track/4cJC5AjLjRUH2qtemrqLbD"
+    },
+    {
       "added_at": "2021-08-13 04:01:00",
       "album": {
         "name": "Chapter One: Shredemption",
@@ -429,6 +445,22 @@
       "url": "https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1"
     },
     {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Empire Central",
+        "url": "https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        }
+      ],
+      "duration_ms": 292314,
+      "name": "Fuel City",
+      "url": "https://open.spotify.com/track/4xUGsswMzuR9ydcOwKkLyw"
+    },
+    {
       "added_at": "2021-08-27 04:01:00",
       "album": {
         "name": "Ring of Saturn",
@@ -447,38 +479,6 @@
       "duration_ms": 240550,
       "name": "Ring of Saturn",
       "url": "https://open.spotify.com/track/36rhJ2LhrKRdwjBzfZ5lLy"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "The Brecker Bros",
-        "url": "https://open.spotify.com/album/3mXY4gBVlEzTk4DVGhFTpZ"
-      },
-      "artists": [
-        {
-          "name": "The Brecker Brothers",
-          "url": "https://open.spotify.com/artist/45rpaf8BR69NIPqmeAYb7l"
-        }
-      ],
-      "duration_ms": 350506,
-      "name": "Some Skunk Funk",
-      "url": "https://open.spotify.com/track/4cJC5AjLjRUH2qtemrqLbD"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Empire Central",
-        "url": "https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA"
-      },
-      "artists": [
-        {
-          "name": "Snarky Puppy",
-          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
-        }
-      ],
-      "duration_ms": 292314,
-      "name": "Fuel City",
-      "url": "https://open.spotify.com/track/4xUGsswMzuR9ydcOwKkLyw"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -619,6 +619,38 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
+        "name": "Letter from Home",
+        "url": "https://open.spotify.com/album/1lI7eqGgfNK73apQo4siJY"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny Group",
+          "url": "https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt"
+        }
+      ],
+      "duration_ms": 385866,
+      "name": "Have You Heard",
+      "url": "https://open.spotify.com/track/73XavwM8RbuKL60jswYOWb"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Time In Place",
+        "url": "https://open.spotify.com/album/1iFPARCgnB41MQvFqKGMfP"
+      },
+      "artists": [
+        {
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+        }
+      ],
+      "duration_ms": 462373,
+      "name": "Chromazone",
+      "url": "https://open.spotify.com/track/1Q9JmAOdnmamXLl9bR6VDz"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
         "name": "Riding Giants (feat. Mike Stern, Dave Weckl)",
         "url": "https://open.spotify.com/album/0UfEhQZd7a9peWeSPflpaI"
       },
@@ -641,22 +673,6 @@
       "url": "https://open.spotify.com/track/2G6B9iQw6C0epZqTSpN79e"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Time In Place",
-        "url": "https://open.spotify.com/album/1iFPARCgnB41MQvFqKGMfP"
-      },
-      "artists": [
-        {
-          "name": "Mike Stern",
-          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
-        }
-      ],
-      "duration_ms": 462373,
-      "name": "Chromazone",
-      "url": "https://open.spotify.com/track/1Q9JmAOdnmamXLl9bR6VDz"
-    },
-    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "Trinity",
@@ -671,22 +687,6 @@
       "duration_ms": 474309,
       "name": "Trinity",
       "url": "https://open.spotify.com/track/4x5WWNRigP9k456CMKz3nr"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Letter from Home",
-        "url": "https://open.spotify.com/album/1lI7eqGgfNK73apQo4siJY"
-      },
-      "artists": [
-        {
-          "name": "Pat Metheny Group",
-          "url": "https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt"
-        }
-      ],
-      "duration_ms": 385866,
-      "name": "Have You Heard",
-      "url": "https://open.spotify.com/track/73XavwM8RbuKL60jswYOWb"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -1177,22 +1177,6 @@
       "url": "https://open.spotify.com/track/1uOhdNyN3TwlC16ZaKUmge"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Mondo Garaj",
-        "url": "https://open.spotify.com/album/0HRZUivY2ufjDXHxeXmFTs"
-      },
-      "artists": [
-        {
-          "name": "Garaj Mahal",
-          "url": "https://open.spotify.com/artist/1m99aAxdBoGdZ3FVWkOBcM"
-        }
-      ],
-      "duration_ms": 333413,
-      "name": "Mondo Garaj",
-      "url": "https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h"
-    },
-    {
       "added_at": "2022-02-11 19:11:35",
       "album": {
         "name": "Pursuit of Ends",
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
+        "name": "Mondo Garaj",
+        "url": "https://open.spotify.com/album/0HRZUivY2ufjDXHxeXmFTs"
+      },
+      "artists": [
+        {
+          "name": "Garaj Mahal",
+          "url": "https://open.spotify.com/artist/1m99aAxdBoGdZ3FVWkOBcM"
+        }
+      ],
+      "duration_ms": 333413,
+      "name": "Mondo Garaj",
+      "url": "https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
         "name": "Gimme 5",
         "url": "https://open.spotify.com/album/3bXkU11mAtRR4h1w5NI4rU"
       },
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Now You See It ... (Now You Don't)",
-        "url": "https://open.spotify.com/album/77yk9CqoyDTF9Tm8KcvMwo"
-      },
-      "artists": [
-        {
-          "name": "Michael Brecker",
-          "url": "https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj"
-        }
-      ],
-      "duration_ms": 326000,
-      "name": "Escher Sketch (A Tale Of Two Rhythms)",
-      "url": "https://open.spotify.com/track/3TnEDH8VmiTsOcH20sxJ48"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Never Ending",
         "url": "https://open.spotify.com/album/0SxjpfNg8pDyOEerHOa9uC"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 169000,
       "name": "Never Ending",
       "url": "https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Now You See It ... (Now You Don't)",
+        "url": "https://open.spotify.com/album/77yk9CqoyDTF9Tm8KcvMwo"
+      },
+      "artists": [
+        {
+          "name": "Michael Brecker",
+          "url": "https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "Escher Sketch (A Tale Of Two Rhythms)",
+      "url": "https://open.spotify.com/track/3TnEDH8VmiTsOcH20sxJ48"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1293,6 +1293,22 @@
       "url": "https://open.spotify.com/track/0KbqA51Q4NcxY1zym7VvuE"
     },
     {
+      "added_at": "2021-04-09 04:01:00",
+      "album": {
+        "name": "FLY! FLY! FLY!",
+        "url": "https://open.spotify.com/album/7qDI1mOCvT20YELuoRj7yH"
+      },
+      "artists": [
+        {
+          "name": "T-SQUARE",
+          "url": "https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie"
+        }
+      ],
+      "duration_ms": 260866,
+      "name": "Growing Up!",
+      "url": "https://open.spotify.com/track/37hfrm3nKjMQuCXZXuDNYd"
+    },
+    {
       "added_at": "2021-07-23 04:01:00",
       "album": {
         "name": "Cousin Vinnie",
@@ -1321,20 +1337,20 @@
       "url": "https://open.spotify.com/track/4nUWF1v6lpyHertAUIrbSx"
     },
     {
-      "added_at": "2021-04-09 04:01:00",
+      "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "FLY! FLY! FLY!",
-        "url": "https://open.spotify.com/album/7qDI1mOCvT20YELuoRj7yH"
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl"
       },
       "artists": [
         {
-          "name": "T-SQUARE",
-          "url": "https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie"
+          "name": "Allan Holdsworth",
+          "url": "https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG"
         }
       ],
-      "duration_ms": 260866,
-      "name": "Growing Up!",
-      "url": "https://open.spotify.com/track/37hfrm3nKjMQuCXZXuDNYd"
+      "duration_ms": 325040,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1351,22 +1367,6 @@
       "duration_ms": 261506,
       "name": "Sons of Creation",
       "url": "https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl"
-      },
-      "artists": [
-        {
-          "name": "Allan Holdsworth",
-          "url": "https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG"
-        }
-      ],
-      "duration_ms": 325040,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX"
     },
     {
       "added_at": "2021-02-12 00:49:35",

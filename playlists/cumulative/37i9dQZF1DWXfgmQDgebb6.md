@@ -2,9 +2,9 @@
 
 ### [Hipster K' Pack](https://open.spotify.com/playlist/37i9dQZF1DWXfgmQDgebb6)
 
-> Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: jclef\)
+> Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Yoon Jiyoung\(윤지영\)\)
 
-297 songs - 16 hr 35 min
+298 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [RIP](https://open.spotify.com/track/6YaiSmWwyi4B3a2xc80fS2) | [AVOKID](https://open.spotify.com/artist/1pTg0Tbi7M27AnarCbdGzS) | [RIP](https://open.spotify.com/album/0PRP7OW8HzakbcuxkCkDm3) | 2:24 | 2022-05-27 | 2022-07-28 |
 | [Ripplippling](https://open.spotify.com/track/2s3puWTiFspTQMu7enJjRA) | [Bird's Eye Batang](https://open.spotify.com/artist/2e00FQUVdht8bnnwsV8gwS) | [Flood Format](https://open.spotify.com/album/2g487tcaDmufrDamXe1YEm) | 2:20 | 2023-02-20 | 2023-03-18 |
 | [Rocket](https://open.spotify.com/track/1UZFUBCPJgHqLXgIVOfTGO) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Rocket](https://open.spotify.com/album/2ZoEBlx7O98lArGmUgfNof) | 3:15 | 2022-05-27 | 2022-07-25 |
-| [Royal Blue](https://open.spotify.com/track/7yvSOgDR61vayE6KjtsLWt) | [250](https://open.spotify.com/artist/0ePKWgwmESq5970Hq1c3yE) | [PPONG](https://open.spotify.com/album/6A5LaZtfa7OvC3lDZFg5k4) | 4:37 | 2022-05-27 |  |
+| [Royal Blue](https://open.spotify.com/track/7yvSOgDR61vayE6KjtsLWt) | [250](https://open.spotify.com/artist/0ePKWgwmESq5970Hq1c3yE) | [PPONG](https://open.spotify.com/album/6A5LaZtfa7OvC3lDZFg5k4) | 4:37 | 2022-05-27 | 2023-04-23 |
 | [Rumor](https://open.spotify.com/track/5ObhR2clxJf2GQa4M3fwwL) | [Kingchi Mane](https://open.spotify.com/artist/2SVuMSzTLK3koFQMbV5quj) | [Ω \(Omega\)](https://open.spotify.com/album/0GxJFaxQtBlTRyZtVk51Uc) | 3:49 | 2022-05-27 | 2022-07-26 |
 | [Run](https://open.spotify.com/track/2UhrSRZm7vWaW7vuCn774a) | [Ohelen&Choisol 오헬렌&최솔](https://open.spotify.com/artist/0iYMqodMaL5BWNL1wARuiq) | [Run](https://open.spotify.com/album/0ZPx46vKkeFtJjUsxMeIGe) | 3:41 | 2022-05-27 | 2022-07-24 |
 | [Run](https://open.spotify.com/track/7zPRN16rgONinstnUSgVon) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [My Dangerous Wife Pt.4 \(Original Television Soundtrack\)](https://open.spotify.com/album/4yEXeCAWeDlEAmJyU8rDhC) | 3:16 | 2022-05-27 | 2022-07-29 |
@@ -257,6 +257,7 @@
 | [time](https://open.spotify.com/track/7KRcAAVwN5K4nDiQAhkDxe) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [balaclava](https://open.spotify.com/album/225BhK3notA8fEXeJ4oHtX) | 3:20 | 2023-02-13 |  |
 | [time \(2022\)](https://open.spotify.com/track/1oOF8dd6AReyMJlWRwPgSc) | [KOREAN](https://open.spotify.com/artist/762fgqQ2gz5w7q1VkDOmja) | [convalescent\#1](https://open.spotify.com/album/5U0jGwxYmeRQMSkJCSYVN4) | 2:22 | 2022-05-27 | 2022-07-18 |
 | [Time Will Tell](https://open.spotify.com/track/3kCpImnMl45TgFHAsi5e5a) | [Xbf](https://open.spotify.com/artist/61qs4x1f4a7FfV3Yqr7LW0) | [Time Will Tell](https://open.spotify.com/album/7xAFMrJ5IA2Ay5dH0zT0qa) | 3:53 | 2022-05-27 | 2022-07-29 |
+| [too bad](https://open.spotify.com/track/1Jrvrr5kFl3ssC8Gm3h39N) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:45 | 2023-04-22 |  |
 | [Too Old to Die Young](https://open.spotify.com/track/5iI0tp0KVruemN3fYxtAHy) | [IDIOTAPE](https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z) | [Too Old to Die Young](https://open.spotify.com/album/7JTbqte3AMxeFC67F062OD) | 4:12 | 2022-06-18 | 2022-06-28 |
 | [Touch](https://open.spotify.com/track/2xSMlL2I4yhoH31tl3xCY4) | [Malitabu](https://open.spotify.com/artist/1t1pVSzMxm5JAfsdvl4SWb) | [TOUCH](https://open.spotify.com/album/0oWu5pZekjFtOiMJverkSS) | 3:23 | 2022-08-12 | 2022-09-06 |
 | [TRIP](https://open.spotify.com/track/3MsAfJBAE8fmEUyuywAv7A) | [OHSHYTTTT](https://open.spotify.com/artist/0AhjqxZvcEIEK0qv7wzEpZ) | [IM GOOD](https://open.spotify.com/album/0o3Y7xtq3Gr17IuKTZz1hX) | 2:15 | 2023-02-14 | 2023-02-21 |

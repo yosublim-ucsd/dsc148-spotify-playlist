@@ -1,12 +1,12 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes.",
-  "num_followers": 115822,
+  "num_followers": 115924,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTc1MTIwNCwwMDAwMDAwMDYwNWJjZjUxYWU0ZmQxYzNlM2QzMThjMzVhZmNmNGFh",
+  "snapshot_id": "MTY4MTc1MTIwNCwwMDAwMDAwMGMwZTVkODM2MTBjYWUyMjFhMGRkMmYwOWEzYTljZGQ5",
   "tracks": [
     {
       "added_at": "2023-04-17 17:06:44",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-04-17 17:06:44",
       "album": {
-        "name": "Bonita / Madre Soltera (En Vivo)",
-        "url": "https://open.spotify.com/album/42RKKUdWT9eVM1OhLvFXfT"
-      },
-      "artists": [
-        {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
-        }
-      ],
-      "duration_ms": 232896,
-      "name": "Madre Soltera - En Vivo",
-      "url": "https://open.spotify.com/track/1sW5XV58fHKTLB07WvrU69"
-    },
-    {
-      "added_at": "2023-04-17 17:06:44",
-      "album": {
         "name": "Una Copa de M\u00e1s (En Vivo)",
         "url": "https://open.spotify.com/album/7LlRV4bIsP2akGc5deG4sL"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 316182,
       "name": "Una Copa de M\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/0SwkOOtQpkKDTUFOSIijpr"
+    },
+    {
+      "added_at": "2023-04-17 17:06:44",
+      "album": {
+        "name": "Bonita / Madre Soltera (En Vivo)",
+        "url": "https://open.spotify.com/album/42RKKUdWT9eVM1OhLvFXfT"
+      },
+      "artists": [
+        {
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+        }
+      ],
+      "duration_ms": 232896,
+      "name": "Madre Soltera - En Vivo",
+      "url": "https://open.spotify.com/track/1sW5XV58fHKTLB07WvrU69"
     },
     {
       "added_at": "2023-04-17 17:06:44",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-04-17 17:06:44",
       "album": {
-        "name": "Mi Vida (En Vivo)",
-        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
+        "name": "20 A\u00f1os Agitando el Avispero (En Vivo)",
+        "url": "https://open.spotify.com/album/2vNZWsRlcCzRJevQ0v2Ip9"
       },
       "artists": [
         {
-          "name": "Daniel Agostini",
-          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
         }
       ],
-      "duration_ms": 483693,
-      "name": "La Ventanita / Beso a Beso",
-      "url": "https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq"
+      "duration_ms": 198245,
+      "name": "Soy Mala Fama - En Vivo",
+      "url": "https://open.spotify.com/track/6OgfQgwYmhqvmTPKPebPv4"
     },
     {
       "added_at": "2023-04-17 17:06:44",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-04-17 17:06:44",
       "album": {
-        "name": "20 A\u00f1os Agitando el Avispero (En Vivo)",
-        "url": "https://open.spotify.com/album/2vNZWsRlcCzRJevQ0v2Ip9"
+        "name": "Mi Vida (En Vivo)",
+        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
       },
       "artists": [
         {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
         }
       ],
-      "duration_ms": 198245,
-      "name": "Soy Mala Fama - En Vivo",
-      "url": "https://open.spotify.com/track/6OgfQgwYmhqvmTPKPebPv4"
+      "duration_ms": 483693,
+      "name": "La Ventanita / Beso a Beso",
+      "url": "https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq"
     },
     {
       "added_at": "2023-04-17 17:06:44",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-04-17 17:06:44",
       "album": {
-        "name": "Mi Vida (En Vivo)",
-        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
-      },
-      "artists": [
-        {
-          "name": "Daniel Agostini",
-          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
-        }
-      ],
-      "duration_ms": 439586,
-      "name": "Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor",
-      "url": "https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv"
-    },
-    {
-      "added_at": "2023-04-17 17:06:44",
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/2FCEskgKDeWbbi5RjX2nHv"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 312032,
       "name": "Hoy Te Vi / El Paredon - En Vivo",
       "url": "https://open.spotify.com/track/37G1wAESGKGK5BaoFlqnGy"
+    },
+    {
+      "added_at": "2023-04-17 17:06:44",
+      "album": {
+        "name": "Show En Parque Recondo",
+        "url": "https://open.spotify.com/album/5olJyfS4YAdQJk6wiNmLDG"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mendoza",
+          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
+        }
+      ],
+      "duration_ms": 131287,
+      "name": "Decir Adi\u00f3s - En Vivo",
+      "url": "https://open.spotify.com/track/3CBdi6o9Egg357jbpxBi60"
     },
     {
       "added_at": "2023-04-17 17:06:44",
@@ -927,18 +927,34 @@
     {
       "added_at": "2023-04-17 17:06:44",
       "album": {
-        "name": "Show En Parque Recondo",
-        "url": "https://open.spotify.com/album/5olJyfS4YAdQJk6wiNmLDG"
+        "name": "Me Olvide de Ti (En Vivo)",
+        "url": "https://open.spotify.com/album/3BFgkhcKON3CF5SDUMoCZE"
       },
       "artists": [
         {
-          "name": "Sebastian Mendoza",
-          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
         }
       ],
-      "duration_ms": 131287,
-      "name": "Decir Adi\u00f3s - En Vivo",
-      "url": "https://open.spotify.com/track/3CBdi6o9Egg357jbpxBi60"
+      "duration_ms": 128072,
+      "name": "Me Olvide de Ti - En Vivo",
+      "url": "https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ"
+    },
+    {
+      "added_at": "2023-04-17 17:06:44",
+      "album": {
+        "name": "Mi Vida (En Vivo)",
+        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
+      },
+      "artists": [
+        {
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+        }
+      ],
+      "duration_ms": 439586,
+      "name": "Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor",
+      "url": "https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv"
     },
     {
       "added_at": "2023-04-17 17:06:44",
@@ -959,18 +975,18 @@
     {
       "added_at": "2023-04-17 17:06:44",
       "album": {
-        "name": "Me Olvide de Ti (En Vivo)",
-        "url": "https://open.spotify.com/album/3BFgkhcKON3CF5SDUMoCZE"
+        "name": "Crecer (En Vivo)",
+        "url": "https://open.spotify.com/album/5zDeIjAtEvFxYRC6h10NDE"
       },
       "artists": [
         {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
         }
       ],
-      "duration_ms": 128072,
-      "name": "Me Olvide de Ti - En Vivo",
-      "url": "https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ"
+      "duration_ms": 212266,
+      "name": "Dime Si Eres Feliz - En Vivo",
+      "url": "https://open.spotify.com/track/7tl6gH6Mhaf9tz9JGlXBw6"
     },
     {
       "added_at": "2023-04-17 17:06:44",
@@ -987,22 +1003,6 @@
       "duration_ms": 180244,
       "name": "Mi Condena - En Vivo",
       "url": "https://open.spotify.com/track/1gvxPwDb2Kf4nNmoDQjQpw"
-    },
-    {
-      "added_at": "2023-04-17 17:06:44",
-      "album": {
-        "name": "Crecer (En Vivo)",
-        "url": "https://open.spotify.com/album/5zDeIjAtEvFxYRC6h10NDE"
-      },
-      "artists": [
-        {
-          "name": "Hernan y La Champion's Liga",
-          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
-        }
-      ],
-      "duration_ms": 212266,
-      "name": "Dime Si Eres Feliz - En Vivo",
-      "url": "https://open.spotify.com/track/7tl6gH6Mhaf9tz9JGlXBw6"
     },
     {
       "added_at": "2023-04-17 17:06:44",

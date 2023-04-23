@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,851 likes - 23 songs - 1 hr 21 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,856 likes - 26 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,5 +31,8 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 21 | [Rock The Casbah](https://open.spotify.com/track/3D0LkP3sKoCuwPihiRtJfr) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Rock The Casbah](https://open.spotify.com/album/6cRtfyZvWhfhrZZR1r4cRo) | 3:05 |
 | 22 | [Pressure](https://open.spotify.com/track/5Bhpw5EbF6fLflC41NI4HD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Pressure](https://open.spotify.com/album/5dxB50EGjlSa9p1F9z2gfX) | 2:56 |
 | 23 | [Your Mind](https://open.spotify.com/track/4zDG66t4CS5gD2WLq4K9JK) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Josh Gigante](https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH) | [Your Mind](https://open.spotify.com/album/25fUzY5qFM0Fm6ESlFOJFu) | 5:54 |
+| 24 | [Tantra](https://open.spotify.com/track/7r5P4pGQEb6LlZonogTpVh) | [DEEP INSIDE \(UA\)](https://open.spotify.com/artist/6pbIQVTgSgtIEgPcbt4AFh), [TAU \(UA\)](https://open.spotify.com/artist/6OLybB0kzvZsaAPl3o6lcI) | [Tantra](https://open.spotify.com/album/4gv6XKdDCF5eJtmy7u2aqF) | 5:51 |
+| 25 | [Hold On](https://open.spotify.com/track/0xn1a5jQoZ0GeilX3VSp2g) | [Scot & Millfield](https://open.spotify.com/artist/6LTgaNvQ4z07MLP5Fs3plh), [Neil Richter](https://open.spotify.com/artist/3QSWiXerHlC3jKwrjGtPq8) | [Hold On](https://open.spotify.com/album/6RqD63Moj0mnF9Kw4JQ90o) | 3:20 |
+| 26 | [So Alive](https://open.spotify.com/track/3I9hemewMQVBd5qpep8Zdl) | [Mismatch \(UK\)](https://open.spotify.com/artist/6ZfK3mmhQuGjhOAAAvSuSY) | [So Alive](https://open.spotify.com/album/59V4ia9qAFxKK7w3jHm2Lj) | 3:14 |
 
-Snapshot ID: `Njk3Myw2MTUyYTBkM2YxMTE0MzgzM2NjY2EzNmY4YjA2N2RkYzExMTM2ZTk5`
+Snapshot ID: `Njk3NixjMjMyOTQ2ZWIzMzZhZDM5YzY1ODM1ZTA5ZmE2NTQ5M2M2NTQ2ODQ0`

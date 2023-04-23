@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 8198,
+  "num_followers": 8264,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDBmM2RlYzQ3MThkMDhiNWVmZDhlMjQ2NzM2NDRkYmVm",
+  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDQyZDE2ODk1MmI4MzkwNTk1NGMyZGZlMjVhMmIzNGNj",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Si Fui Yo",
+        "url": "https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs"
+      },
+      "artists": [
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        }
+      ],
+      "duration_ms": 146840,
+      "name": "Si Fui Yo",
+      "url": "https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Peque\u00f1ines",
         "url": "https://open.spotify.com/album/1duq75hTXY2aFwcFgy9jmX"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 227933,
       "name": "Peque\u00f1ines",
       "url": "https://open.spotify.com/track/7KhYQ9fHuofDF4I5D0obId"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Si Fui Yo",
-        "url": "https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs"
-      },
-      "artists": [
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        }
-      ],
-      "duration_ms": 146840,
-      "name": "Si Fui Yo",
-      "url": "https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -803,6 +803,22 @@
       "duration_ms": 333500,
       "name": "Midnight Caller",
       "url": "https://open.spotify.com/track/26LjeIJNpcnnCAy0Y9jHP4"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Mira Lo Que Me Hiciste Hacer",
+        "url": "https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 228543,
+      "name": "Su\u00e9ltame, Bogot\u00e1",
+      "url": "https://open.spotify.com/track/7qhunqQrA4o3Hk4c6ohRTg"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -891,6 +907,26 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Buitres & Co.",
+        "url": "https://open.spotify.com/album/5vyC6Dahprs1cIdQYMIYDZ"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 225458,
+      "name": "Rotos",
+      "url": "https://open.spotify.com/track/5Y1KS5xHBjGXKsEaCnufdi"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Santiago",
         "url": "https://open.spotify.com/album/5CqEEjDulphHq8zgJcko21"
       },
@@ -903,22 +939,6 @@
       "duration_ms": 142516,
       "name": "Santiago",
       "url": "https://open.spotify.com/track/58r843NDpyDVVvd6In95g3"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Big Night",
-        "url": "https://open.spotify.com/album/0q3Esl723cq5Zu0kYEOl2w"
-      },
-      "artists": [
-        {
-          "name": "Siddha-Funk",
-          "url": "https://open.spotify.com/artist/1vO2cXeyDrUaOWofybwd9a"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Big Night",
-      "url": "https://open.spotify.com/track/6u2NxRdgR9pqJUTeigcopA"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -939,34 +959,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Mira Lo Que Me Hiciste Hacer",
-        "url": "https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI"
+        "name": "Big Night",
+        "url": "https://open.spotify.com/album/0q3Esl723cq5Zu0kYEOl2w"
       },
       "artists": [
         {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+          "name": "Siddha-Funk",
+          "url": "https://open.spotify.com/artist/1vO2cXeyDrUaOWofybwd9a"
         }
       ],
-      "duration_ms": 228543,
-      "name": "Su\u00e9ltame, Bogot\u00e1",
-      "url": "https://open.spotify.com/track/7qhunqQrA4o3Hk4c6ohRTg"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Hay frases que s\u00f3lo escuchamos de noche",
-        "url": "https://open.spotify.com/album/6x9Nd9EHF4c2M9nIuVLhIS"
-      },
-      "artists": [
-        {
-          "name": "Floridablanca",
-          "url": "https://open.spotify.com/artist/3Ri7j4vT0iYvMjMv5I3iqp"
-        }
-      ],
-      "duration_ms": 237909,
-      "name": "nuncatevayasnunca",
-      "url": "https://open.spotify.com/track/5WFAEA3YAcQtFUdwScD2ut"
+      "duration_ms": 195000,
+      "name": "Big Night",
+      "url": "https://open.spotify.com/track/6u2NxRdgR9pqJUTeigcopA"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -983,6 +987,22 @@
       "duration_ms": 196588,
       "name": "Clich\u00e9",
       "url": "https://open.spotify.com/track/1IeIu8G0uzcrDKl2l6eg99"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Hay frases que s\u00f3lo escuchamos de noche",
+        "url": "https://open.spotify.com/album/6x9Nd9EHF4c2M9nIuVLhIS"
+      },
+      "artists": [
+        {
+          "name": "Floridablanca",
+          "url": "https://open.spotify.com/artist/3Ri7j4vT0iYvMjMv5I3iqp"
+        }
+      ],
+      "duration_ms": 237909,
+      "name": "nuncatevayasnunca",
+      "url": "https://open.spotify.com/track/5WFAEA3YAcQtFUdwScD2ut"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1019,30 +1039,6 @@
       "duration_ms": 234880,
       "name": "Todos Lo Hacen",
       "url": "https://open.spotify.com/track/15YxQngUxvhImUXb9PxBb0"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "LIKE THAT! \u26a1",
-        "url": "https://open.spotify.com/album/2jHX0jyxu8aRPHRXQNcZib"
-      },
-      "artists": [
-        {
-          "name": "Redemm",
-          "url": "https://open.spotify.com/artist/4HyrJAItCZwWPIrTfRWTvu"
-        },
-        {
-          "name": "CHELS",
-          "url": "https://open.spotify.com/artist/79SaFjVvGL9hiVvzwBOMQJ"
-        },
-        {
-          "name": "Darko",
-          "url": "https://open.spotify.com/artist/6dmAqUf6toAS0x7QDRBCpL"
-        }
-      ],
-      "duration_ms": 166475,
-      "name": "LIKE THAT! \u26a1",
-      "url": "https://open.spotify.com/track/0SloUwZzPagpfOOo9kl33A"
     },
     {
       "added_at": "2023-04-21 04:00:00",

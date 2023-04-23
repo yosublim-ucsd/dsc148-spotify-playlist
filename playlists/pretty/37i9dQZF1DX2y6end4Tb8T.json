@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 50049,
+  "num_followers": 50064,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDg4NDQzMCwwMDAwMDAwMDA2YzY4MjY5MjI4YzkyN2U1YTEyOWU2NDIwYmNiYTFm",
+  "snapshot_id": "MTY0NDg4NDQzMCwwMDAwMDAwMDkzNWRiYTZlMzA4Yjg1Mzc0ODI3ZDE2YWRkOGFiZDRk",
   "tracks": [
     {
       "added_at": "2021-11-12 16:22:17",
@@ -551,22 +551,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "Masterpiece",
-        "url": "https://open.spotify.com/album/6kaYDcX9dNmJE5OU71IUby"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/26UxwWl9xCb83OynXELJcL"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "Homerun",
         "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 175028,
       "name": "No Puedo",
       "url": "https://open.spotify.com/track/6MbSMSXrSlvsyHf4kcaLQi"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/6kaYDcX9dNmJE5OU71IUby"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/26UxwWl9xCb83OynXELJcL"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
+        "name": "Baller",
+        "url": "https://open.spotify.com/album/14SnS8EHJaWtt5GZAfD0ZK"
+      },
+      "artists": [
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Baller",
+      "url": "https://open.spotify.com/track/2X8aYVxIBCblvI3N4JpvUx"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
         "name": "Double G (feat. Pop Smoke)",
         "url": "https://open.spotify.com/album/1GC8fGddUiXsLtvmvWspd6"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 270241,
       "name": "Louis Vuitton",
       "url": "https://open.spotify.com/track/6NZRVXbBeNgfTkoohYtxFK"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
-        "name": "Baller",
-        "url": "https://open.spotify.com/album/14SnS8EHJaWtt5GZAfD0ZK"
-      },
-      "artists": [
-        {
-          "name": "Lucho SSJ",
-          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Baller",
-      "url": "https://open.spotify.com/track/2X8aYVxIBCblvI3N4JpvUx"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1959,6 +1959,26 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
+        "name": "The Saga of Wiz Khalifa (Deluxe)",
+        "url": "https://open.spotify.com/album/7GmwwE2wcNtyq7nlsrYVuD"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Rubi Rose",
+          "url": "https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk"
+        }
+      ],
+      "duration_ms": 125577,
+      "name": "POV (feat. Rubi Rose)",
+      "url": "https://open.spotify.com/track/3zjxHcCNv4mw0eoWq8Cumt"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
         "name": "NFL",
         "url": "https://open.spotify.com/album/7DBAcWoFguEGBzypRXbMyA"
       },
@@ -1979,26 +1999,6 @@
       "duration_ms": 210327,
       "name": "NFL (feat. Gudda Gudda & HoodyBaby)",
       "url": "https://open.spotify.com/track/3D9G7MPDU48r91YRCYeVRI"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
-        "name": "The Saga of Wiz Khalifa (Deluxe)",
-        "url": "https://open.spotify.com/album/7GmwwE2wcNtyq7nlsrYVuD"
-      },
-      "artists": [
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        },
-        {
-          "name": "Rubi Rose",
-          "url": "https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk"
-        }
-      ],
-      "duration_ms": 125577,
-      "name": "POV (feat. Rubi Rose)",
-      "url": "https://open.spotify.com/track/3zjxHcCNv4mw0eoWq8Cumt"
     },
     {
       "added_at": "2021-11-12 16:22:17",

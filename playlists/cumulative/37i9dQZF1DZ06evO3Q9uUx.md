@@ -4,7 +4,7 @@
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-55 songs - 2 hr 45 min
+56 songs - 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,12 +20,13 @@
 | [Bo$$day](https://open.spotify.com/track/0QLB087RjF3zRLdKhpld8d) | [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bo$$day](https://open.spotify.com/album/1Yn3gqAQitxjKrll6vSpWT) | 2:25 | 2022-10-28 |  |
 | [CAN'T TOUCH THIS](https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:26 | 2022-10-28 |  |
 | [COVER GIRL](https://open.spotify.com/track/3l1DD2X1lomNhj6xO3ftcb) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:29 | 2022-10-28 |  |
-| [DROWN IN MY CUP](https://open.spotify.com/track/12vEQQFrOLlxGCc53YLDuN) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 3:07 | 2022-10-28 |  |
+| [DROWN IN MY CUP](https://open.spotify.com/track/12vEQQFrOLlxGCc53YLDuN) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 3:07 | 2022-10-28 | 2023-04-23 |
 | [Eat It Up \(feat\. BIA\)](https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 3:01 | 2022-10-28 |  |
 | [Freak \(Remix\)](https://open.spotify.com/track/1bzdoX1w5IZlWt15z4y1t1) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Freak Remix](https://open.spotify.com/album/4epvIuL8vjGOcBaEslxT5p) | 3:04 | 2022-10-28 |  |
 | [FREAK IN THE NIGHT](https://open.spotify.com/track/3gf0CqnyjYb2IoyZSaDa9h) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:40 | 2022-10-28 |  |
 | [FREE BIA \(1ST DAY OUT\)](https://open.spotify.com/track/7g3hyRYCjM27HBHgYRp8MI) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 1:54 | 2022-11-12 |  |
 | [FUNGSHWAY](https://open.spotify.com/track/1FPKkqAxaTAxLsercL5u4g) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FUNGSHWAY](https://open.spotify.com/album/42wFEFxRYzwQiDyKIYn5pO) | 2:59 | 2022-10-28 | 2023-01-03 |
+| [GEEKALEEK \(feat\. BIA\)](https://open.spotify.com/track/51hjlwiTLAHZxkKS28R38R) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [GEEKALEEK \(feat\. BIA\)](https://open.spotify.com/album/2ZaMFmBHgflgxKcmy05tuH) | 2:08 | 2023-04-22 |  |
 | [Good Idea \(feat\. BIA\)](https://open.spotify.com/track/3sXcUMhBQLCyr6Cl6z7RP4) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Summer In The Winter](https://open.spotify.com/album/6uG9BscYmPnAbtl6Cy9u91) | 3:16 | 2022-10-28 |  |
 | [Gucci Comin' Home](https://open.spotify.com/track/4r6AFRv8b4KurDJvm7BZ5N) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Gucci Comin' Home](https://open.spotify.com/album/1dXVrNCauP1ZD51Xc2LCIU) | 2:59 | 2022-10-28 | 2023-03-05 |
 | [High \(Kris Bowers Remix\)](https://open.spotify.com/track/1Tj0TcwUZZhbgKB6ACu7EE) | [Christian Rich](https://open.spotify.com/artist/7cAlvWK5rgMmJ37j7woN8l), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [FW14 \(Extended Version\)](https://open.spotify.com/album/6m2UrRkuLmSzi1yNhbyO0h) | 3:39 | 2022-10-28 |  |

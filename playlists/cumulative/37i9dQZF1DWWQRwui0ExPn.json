@@ -5274,7 +5274,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-28",
+      "date_removed": null,
       "duration_ms": 104509,
       "name": "Apple Pie",
       "url": "https://open.spotify.com/track/2z7RteoF2cj52dNLMshNmw"
@@ -59058,7 +59058,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 105348,
       "name": "Midnight Smoke",
       "url": "https://open.spotify.com/track/3nCI3MB1cTznXM0ri68OwG"
@@ -94398,7 +94398,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 165226,
       "name": "The Pumpkin Salesman",
       "url": "https://open.spotify.com/track/4l4v5QIeWOdStZnFTgrf3W"
@@ -102918,6 +102918,24 @@
       "duration_ms": 149897,
       "name": "Wax",
       "url": "https://open.spotify.com/track/3cNhmnKWjL4oh9I3WoEbxx"
+    },
+    {
+      "album": {
+        "name": "Way Down",
+        "url": "https://open.spotify.com/album/0tt2DE6dtf0RlrB9DpLIzY"
+      },
+      "artists": [
+        {
+          "name": "BiRdy SanJazz",
+          "url": "https://open.spotify.com/artist/1VnKyzdYClAVXSfEuRhUZh"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "Way Down",
+      "url": "https://open.spotify.com/track/3zVgaKhXB8sWdADudljcQg"
     },
     {
       "album": {

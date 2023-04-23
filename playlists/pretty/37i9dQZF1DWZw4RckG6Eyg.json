@@ -1,12 +1,12 @@
 {
   "description": "75 ways to cope with your Indie fomo. Pixey on cover.",
-  "num_followers": 9992,
+  "num_followers": 9988,
   "original_name": "Indie songs from 2022 you may have missed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgyNTc2NSwwMDAwMDAwMDZkMDA2Y2VkN2U4MDViZmJkNzZkOTg5NTcxYzFlY2Nh",
+  "snapshot_id": "MTY2OTgyNTc2NSwwMDAwMDAwMGY0NDRmMzMxOTM0MGI1YmRkYWFhZDkxOGQyY2FiMWRl",
   "tracks": [
     {
       "added_at": "2022-11-30 13:45:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Stay In Touch",
-        "url": "https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4"
-      },
-      "artists": [
-        {
-          "name": "Georgia Harmer",
-          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
-        }
-      ],
-      "duration_ms": 289987,
-      "name": "Homes",
-      "url": "https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Break!",
         "url": "https://open.spotify.com/album/3hB4arhUMH7fMOKJo2QMct"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 184240,
       "name": "Come Apart",
       "url": "https://open.spotify.com/track/3P0i4DS9lKw5kO5z3fUB79"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Stay In Touch",
+        "url": "https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4"
+      },
+      "artists": [
+        {
+          "name": "Georgia Harmer",
+          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
+        }
+      ],
+      "duration_ms": 289987,
+      "name": "Homes",
+      "url": "https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Valley",
-        "url": "https://open.spotify.com/album/4fdEKnOKRHW3lU2YK3BbLD"
-      },
-      "artists": [
-        {
-          "name": "Racoma",
-          "url": "https://open.spotify.com/artist/3Y3bK9UlgDtqEfIwFUCLH0"
-        }
-      ],
-      "duration_ms": 209386,
-      "name": "Valley",
-      "url": "https://open.spotify.com/track/1W7RPYYwhzOZFvJnkwXlLZ"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "High-Speed Kissing",
         "url": "https://open.spotify.com/album/1y5Kw8PeJnz99ctZzWFrlU"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 188369,
       "name": "High-Speed Kissing",
       "url": "https://open.spotify.com/track/6ljkm9d4eYGQFYX7PxR6h5"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Valley",
+        "url": "https://open.spotify.com/album/4fdEKnOKRHW3lU2YK3BbLD"
+      },
+      "artists": [
+        {
+          "name": "Racoma",
+          "url": "https://open.spotify.com/artist/3Y3bK9UlgDtqEfIwFUCLH0"
+        }
+      ],
+      "duration_ms": 209386,
+      "name": "Valley",
+      "url": "https://open.spotify.com/track/1W7RPYYwhzOZFvJnkwXlLZ"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Sex in Afrikaans",
-        "url": "https://open.spotify.com/album/7EtLrld4Bb8hjS6htzyB8e"
-      },
-      "artists": [
-        {
-          "name": "Angie oeh",
-          "url": "https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "Sex in Afrikaans",
-      "url": "https://open.spotify.com/track/4Wk2Ri6qRKrY6nq75HXw4z"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Pata Pata Saguquka",
         "url": "https://open.spotify.com/album/4C6AluXJv87ieS26W0prnB"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 325502,
       "name": "Pata Pata Saguquka",
       "url": "https://open.spotify.com/track/4aYRNnclXE50YTEQ8PvBNn"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Sex in Afrikaans",
+        "url": "https://open.spotify.com/album/7EtLrld4Bb8hjS6htzyB8e"
+      },
+      "artists": [
+        {
+          "name": "Angie oeh",
+          "url": "https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "Sex in Afrikaans",
+      "url": "https://open.spotify.com/track/4Wk2Ri6qRKrY6nq75HXw4z"
     },
     {
       "added_at": "2022-11-30 13:45:00",

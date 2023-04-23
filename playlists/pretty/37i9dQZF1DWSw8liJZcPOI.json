@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 16106,
+  "num_followers": 16336,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA2NjgyMCwwMDAwMDAwMDIyN2YwOGRjMjA3MmI3N2M3ZjQwNjZkNjU2ZTYzNTdj",
+  "snapshot_id": "MTY4MjA2NjgyMCwwMDAwMDAwMDFlZGZiOTU5ZjA0MWFlYjg1ZDdmMDBjYjI1ZTQ0NDZh",
   "tracks": [
     {
       "added_at": "2023-04-21 08:47:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-04-21 08:47:00",
       "album": {
-        "name": "Deux Pens\u00e9es",
-        "url": "https://open.spotify.com/album/25AWPRVmAbWIiGe7pIm9xA"
-      },
-      "artists": [
-        {
-          "name": "Darker In Vine",
-          "url": "https://open.spotify.com/artist/58jh9fSzagZAZLbetSDIIg"
-        }
-      ],
-      "duration_ms": 169366,
-      "name": "Deux Pens\u00e9es",
-      "url": "https://open.spotify.com/track/4jgazYikKO5Xhctuhc0snS"
-    },
-    {
-      "added_at": "2023-04-21 08:47:00",
-      "album": {
         "name": "Solitudes",
         "url": "https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 229606,
       "name": "Solitude I",
       "url": "https://open.spotify.com/track/4tkzQ9Eg3OeuZuAH8O3aUl"
+    },
+    {
+      "added_at": "2023-04-21 08:47:00",
+      "album": {
+        "name": "Deux Pens\u00e9es",
+        "url": "https://open.spotify.com/album/25AWPRVmAbWIiGe7pIm9xA"
+      },
+      "artists": [
+        {
+          "name": "Darker In Vine",
+          "url": "https://open.spotify.com/artist/58jh9fSzagZAZLbetSDIIg"
+        }
+      ],
+      "duration_ms": 169366,
+      "name": "Deux Pens\u00e9es",
+      "url": "https://open.spotify.com/track/4jgazYikKO5Xhctuhc0snS"
     },
     {
       "added_at": "2023-04-21 08:47:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-04-21 08:47:00",
       "album": {
+        "name": "Current",
+        "url": "https://open.spotify.com/album/4pPrnPAjNULq5aca8tJA0U"
+      },
+      "artists": [
+        {
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
+        }
+      ],
+      "duration_ms": 350974,
+      "name": "Current",
+      "url": "https://open.spotify.com/track/05J7mr2kIdHciLOO5ISSia"
+    },
+    {
+      "added_at": "2023-04-21 08:47:00",
+      "album": {
         "name": "Svalbard",
         "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 175090,
       "name": "Little Orc",
       "url": "https://open.spotify.com/track/43SR37OKj3Dgc82aHXr6ql"
-    },
-    {
-      "added_at": "2023-04-21 08:47:00",
-      "album": {
-        "name": "Current",
-        "url": "https://open.spotify.com/album/4pPrnPAjNULq5aca8tJA0U"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        }
-      ],
-      "duration_ms": 350974,
-      "name": "Current",
-      "url": "https://open.spotify.com/track/05J7mr2kIdHciLOO5ISSia"
     },
     {
       "added_at": "2023-04-21 08:47:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-04-21 08:47:00",
       "album": {
-        "name": "Next Winter",
-        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
-      },
-      "artists": [
-        {
-          "name": "Mark Slater",
-          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
-        }
-      ],
-      "duration_ms": 234683,
-      "name": "Next Winter",
-      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
-    },
-    {
-      "added_at": "2023-04-21 08:47:00",
-      "album": {
         "name": "BLOMMA",
         "url": "https://open.spotify.com/album/3ZkfxERiMWA5EBPqZSLgEc"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 392791,
       "name": "Klass",
       "url": "https://open.spotify.com/track/7B4DTiga2xN0BtIDh45vyk"
+    },
+    {
+      "added_at": "2023-04-21 08:47:00",
+      "album": {
+        "name": "Next Winter",
+        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
+      },
+      "artists": [
+        {
+          "name": "Mark Slater",
+          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
+        }
+      ],
+      "duration_ms": 234683,
+      "name": "Next Winter",
+      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
     },
     {
       "added_at": "2023-04-21 08:47:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-04-21 08:47:00",
       "album": {
-        "name": "The Open",
-        "url": "https://open.spotify.com/album/2AcC9SJ0mMyKGJLONZx6lt"
-      },
-      "artists": [
-        {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
-        }
-      ],
-      "duration_ms": 214862,
-      "name": "The Open",
-      "url": "https://open.spotify.com/track/2sSzhlTz0N1HlSuoLLxv8z"
-    },
-    {
-      "added_at": "2023-04-21 08:47:00",
-      "album": {
         "name": "Vitamin String Quartet Performs Bjork",
         "url": "https://open.spotify.com/album/0JL6wzlO2S9sPwdDiBkawB"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 225400,
       "name": "New World",
       "url": "https://open.spotify.com/track/0ZYyAD3ZFssmqUrfBhjQst"
+    },
+    {
+      "added_at": "2023-04-21 08:47:00",
+      "album": {
+        "name": "The Open",
+        "url": "https://open.spotify.com/album/2AcC9SJ0mMyKGJLONZx6lt"
+      },
+      "artists": [
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+        }
+      ],
+      "duration_ms": 214862,
+      "name": "The Open",
+      "url": "https://open.spotify.com/track/2sSzhlTz0N1HlSuoLLxv8z"
     },
     {
       "added_at": "2023-04-21 08:47:00",
@@ -1443,42 +1443,6 @@
     {
       "added_at": "2023-04-21 08:47:00",
       "album": {
-        "name": "Open",
-        "url": "https://open.spotify.com/album/0T7VDy1JChDiIR7ChafuWv"
-      },
-      "artists": [
-        {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
-        }
-      ],
-      "duration_ms": 184389,
-      "name": "Time Out",
-      "url": "https://open.spotify.com/track/7eNynetsjM4rSbW5AdA5u4"
-    },
-    {
-      "added_at": "2023-04-21 08:47:00",
-      "album": {
-        "name": "Floreana",
-        "url": "https://open.spotify.com/album/6xGQ7fVQqfMCaS4mYVBaTl"
-      },
-      "artists": [
-        {
-          "name": "Gustaf Ljunggren",
-          "url": "https://open.spotify.com/artist/448xgQqrgiEalhGErK14bs"
-        },
-        {
-          "name": "Sk\u00fali Sverrisson",
-          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
-        }
-      ],
-      "duration_ms": 263608,
-      "name": "Leading Somewhere",
-      "url": "https://open.spotify.com/track/0oLadn7l2XO7vvZK066MjM"
-    },
-    {
-      "added_at": "2023-04-21 08:47:00",
-      "album": {
         "name": "acceptances",
         "url": "https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ"
       },
@@ -1491,22 +1455,6 @@
       "duration_ms": 198901,
       "name": "acceptances",
       "url": "https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD"
-    },
-    {
-      "added_at": "2023-04-21 08:47:00",
-      "album": {
-        "name": "A",
-        "url": "https://open.spotify.com/album/4pyvUT61X7FcjvItZogGt3"
-      },
-      "artists": [
-        {
-          "name": "Thomas Farnon",
-          "url": "https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "A",
-      "url": "https://open.spotify.com/track/5uYalrRxXbbK7N8vYlXWFO"
     },
     {
       "added_at": "2023-04-21 08:47:00",
@@ -1527,6 +1475,58 @@
       "duration_ms": 189026,
       "name": "Footsteps",
       "url": "https://open.spotify.com/track/0fW4lw6yMHRckkdM8gj5st"
+    },
+    {
+      "added_at": "2023-04-21 08:47:00",
+      "album": {
+        "name": "Open",
+        "url": "https://open.spotify.com/album/0T7VDy1JChDiIR7ChafuWv"
+      },
+      "artists": [
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+        }
+      ],
+      "duration_ms": 184389,
+      "name": "Time Out",
+      "url": "https://open.spotify.com/track/7eNynetsjM4rSbW5AdA5u4"
+    },
+    {
+      "added_at": "2023-04-21 08:47:00",
+      "album": {
+        "name": "A",
+        "url": "https://open.spotify.com/album/4pyvUT61X7FcjvItZogGt3"
+      },
+      "artists": [
+        {
+          "name": "Thomas Farnon",
+          "url": "https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "A",
+      "url": "https://open.spotify.com/track/5uYalrRxXbbK7N8vYlXWFO"
+    },
+    {
+      "added_at": "2023-04-21 08:47:00",
+      "album": {
+        "name": "Floreana",
+        "url": "https://open.spotify.com/album/6xGQ7fVQqfMCaS4mYVBaTl"
+      },
+      "artists": [
+        {
+          "name": "Gustaf Ljunggren",
+          "url": "https://open.spotify.com/artist/448xgQqrgiEalhGErK14bs"
+        },
+        {
+          "name": "Sk\u00fali Sverrisson",
+          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
+        }
+      ],
+      "duration_ms": 263608,
+      "name": "Leading Somewhere",
+      "url": "https://open.spotify.com/track/0oLadn7l2XO7vvZK066MjM"
     },
     {
       "added_at": "2023-04-21 08:47:00",
@@ -1559,6 +1559,22 @@
       "duration_ms": 244919,
       "name": "Corn",
       "url": "https://open.spotify.com/track/7jH6HaPyBRL2SH1AvzVe6h"
+    },
+    {
+      "added_at": "2023-04-21 08:47:00",
+      "album": {
+        "name": "hundred00",
+        "url": "https://open.spotify.com/album/0kBZkLsisJMS1n2WgbGo4C"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 289210,
+      "name": "hundred00",
+      "url": "https://open.spotify.com/track/0QWKituzXIFotLHfRFyGJG"
     },
     {
       "added_at": "2023-04-21 08:47:00",
@@ -1603,42 +1619,6 @@
     {
       "added_at": "2023-04-21 08:47:00",
       "album": {
-        "name": "Bird's Tail (Slow Meadow Rework)",
-        "url": "https://open.spotify.com/album/41A2Z3jqK5tORTdVujNpkf"
-      },
-      "artists": [
-        {
-          "name": "Message To Bears",
-          "url": "https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3"
-        },
-        {
-          "name": "Slow Meadow",
-          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
-        }
-      ],
-      "duration_ms": 343893,
-      "name": "Bird's Tail - Slow Meadow Rework",
-      "url": "https://open.spotify.com/track/4fuukOE5mmxGBvnxm2kJQj"
-    },
-    {
-      "added_at": "2023-04-21 08:47:00",
-      "album": {
-        "name": "How to Fall in Love in a Pandemic (Music for a Short Film)",
-        "url": "https://open.spotify.com/album/1rQqmLBvReLC8JrogQpdkc"
-      },
-      "artists": [
-        {
-          "name": "Daith\u00ed",
-          "url": "https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "How to Fall in Love in a Pandemic - Music for a Short Film",
-      "url": "https://open.spotify.com/track/4kVj1YdDUx8HPfhOeDs7Ec"
-    },
-    {
-      "added_at": "2023-04-21 08:47:00",
-      "album": {
         "name": "Waterfelt",
         "url": "https://open.spotify.com/album/6H5PZmSZzvTXLlt07qzNZk"
       },
@@ -1655,18 +1635,18 @@
     {
       "added_at": "2023-04-21 08:47:00",
       "album": {
-        "name": "hundred00",
-        "url": "https://open.spotify.com/album/0kBZkLsisJMS1n2WgbGo4C"
+        "name": "How to Fall in Love in a Pandemic (Music for a Short Film)",
+        "url": "https://open.spotify.com/album/1rQqmLBvReLC8JrogQpdkc"
       },
       "artists": [
         {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+          "name": "Daith\u00ed",
+          "url": "https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz"
         }
       ],
-      "duration_ms": 289210,
-      "name": "hundred00",
-      "url": "https://open.spotify.com/track/0QWKituzXIFotLHfRFyGJG"
+      "duration_ms": 207000,
+      "name": "How to Fall in Love in a Pandemic - Music for a Short Film",
+      "url": "https://open.spotify.com/track/4kVj1YdDUx8HPfhOeDs7Ec"
     },
     {
       "added_at": "2023-04-21 08:47:00",
@@ -1695,6 +1675,26 @@
     {
       "added_at": "2023-04-21 08:47:00",
       "album": {
+        "name": "Bird's Tail (Slow Meadow Rework)",
+        "url": "https://open.spotify.com/album/41A2Z3jqK5tORTdVujNpkf"
+      },
+      "artists": [
+        {
+          "name": "Message To Bears",
+          "url": "https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3"
+        },
+        {
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+        }
+      ],
+      "duration_ms": 343893,
+      "name": "Bird's Tail - Slow Meadow Rework",
+      "url": "https://open.spotify.com/track/4fuukOE5mmxGBvnxm2kJQj"
+    },
+    {
+      "added_at": "2023-04-21 08:47:00",
+      "album": {
         "name": "A Winged Victory for the Sullen",
         "url": "https://open.spotify.com/album/6vygseD1InhHomosteUnPU"
       },
@@ -1707,22 +1707,6 @@
       "duration_ms": 266840,
       "name": "Steep Hills of Vicodin Tears",
       "url": "https://open.spotify.com/track/3ytUgxZj1EYHb8zlk5VKk6"
-    },
-    {
-      "added_at": "2023-04-21 08:47:00",
-      "album": {
-        "name": "Postcards for the Backyard, Pt. 1",
-        "url": "https://open.spotify.com/album/09x53A382I5YYYSGeUQYFG"
-      },
-      "artists": [
-        {
-          "name": "Neighborhood Libraries",
-          "url": "https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt"
-        }
-      ],
-      "duration_ms": 240331,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/0kfVVKg58qkHeb9fcPWF1i"
     },
     {
       "added_at": "2023-04-21 08:47:00",
@@ -1743,18 +1727,18 @@
     {
       "added_at": "2023-04-21 08:47:00",
       "album": {
-        "name": "Surface (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/0DZZLQvXZzgurc5wWFgAst"
+        "name": "Postcards for the Backyard, Pt. 1",
+        "url": "https://open.spotify.com/album/09x53A382I5YYYSGeUQYFG"
       },
       "artists": [
         {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+          "name": "Neighborhood Libraries",
+          "url": "https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt"
         }
       ],
-      "duration_ms": 148432,
-      "name": "Surfaced - From \"Surface\"",
-      "url": "https://open.spotify.com/track/6yidnXvq5fN4ULkgk8FOIU"
+      "duration_ms": 240331,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/0kfVVKg58qkHeb9fcPWF1i"
     },
     {
       "added_at": "2023-04-21 08:47:00",
@@ -1775,18 +1759,34 @@
     {
       "added_at": "2023-04-21 08:47:00",
       "album": {
-        "name": "Solanales",
-        "url": "https://open.spotify.com/album/4giTq8C1Ss1e9PM8k88H1I"
+        "name": "Surface (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/0DZZLQvXZzgurc5wWFgAst"
       },
       "artists": [
         {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 332607,
-      "name": "Solanales",
-      "url": "https://open.spotify.com/track/6U0l3hk3oTtNtPwk2Ekjxl"
+      "duration_ms": 148432,
+      "name": "Surfaced - From \"Surface\"",
+      "url": "https://open.spotify.com/track/6yidnXvq5fN4ULkgk8FOIU"
+    },
+    {
+      "added_at": "2023-04-21 08:47:00",
+      "album": {
+        "name": "Black Dog",
+        "url": "https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz"
+      },
+      "artists": [
+        {
+          "name": "Autonomy",
+          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
+        }
+      ],
+      "duration_ms": 127995,
+      "name": "Black Dog",
+      "url": "https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv"
     }
   ],
   "unique_name": "Not Quite Classical",

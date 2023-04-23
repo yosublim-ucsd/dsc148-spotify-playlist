@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 260276,
+  "num_followers": 260329,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg3NTIzOSwwMDAwMDAwMDY2YjJiNzhmMjE5NjEyNTdkYmU3YTY1NDJiMGQzNDJk",
+  "snapshot_id": "MTY2MDg3NTIzOSwwMDAwMDAwMDVkZjMyNDk3YzYyNmE0NDA4N2Y4MWZlOTYyNTIzM2Rm",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Vamos a Bailar un Son (Special Edition)",
-        "url": "https://open.spotify.com/album/0fJHl8bN8rprMMTLQkppdo"
-      },
-      "artists": [
-        {
-          "name": "Eliades Ochoa",
-          "url": "https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH"
-        },
-        {
-          "name": "Pablo Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
-        }
-      ],
-      "duration_ms": 189787,
-      "name": "Como la Nube Se Impone al Sol (feat. Pablo Milan\u00e9s)",
-      "url": "https://open.spotify.com/track/75vEpGK92zNmo0wTsYgODZ"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "M\u00e1s Alto",
         "url": "https://open.spotify.com/album/2Gxxed1c45BQTqHbfBbmsG"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 259066,
       "name": "Espectro",
       "url": "https://open.spotify.com/track/4JtwqHO8budsBHlr9XRWUH"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Vamos a Bailar un Son (Special Edition)",
+        "url": "https://open.spotify.com/album/0fJHl8bN8rprMMTLQkppdo"
+      },
+      "artists": [
+        {
+          "name": "Eliades Ochoa",
+          "url": "https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH"
+        },
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        }
+      ],
+      "duration_ms": 189787,
+      "name": "Como la Nube Se Impone al Sol (feat. Pablo Milan\u00e9s)",
+      "url": "https://open.spotify.com/track/75vEpGK92zNmo0wTsYgODZ"
     },
     {
       "added_at": "2021-07-29 16:46:05",

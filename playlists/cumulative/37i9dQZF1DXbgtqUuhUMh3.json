@@ -2584,7 +2584,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 212531,
       "name": "Haja Ma Doum",
       "url": "https://open.spotify.com/track/3vLf49XKLyz3wFJ5Sktlpw"
@@ -3840,6 +3840,28 @@
       "duration_ms": 227795,
       "name": "M3ak",
       "url": "https://open.spotify.com/track/5Pc2niaIuuC8GZxTyqzNLN"
+    },
+    {
+      "album": {
+        "name": "Ma A7lak",
+        "url": "https://open.spotify.com/album/2dsx8wJMoIeh8TNObnyYrC"
+      },
+      "artists": [
+        {
+          "name": "May Abd El Aziz",
+          "url": "https://open.spotify.com/artist/390rlknQEfIDTkwe87Fl7j"
+        },
+        {
+          "name": "Dalia Farid",
+          "url": "https://open.spotify.com/artist/2wXTaB5Y0W3bn7h2ATpc3p"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224999,
+      "name": "Ma A7lak",
+      "url": "https://open.spotify.com/track/2v3jkteY4K6X3zqvij2aI3"
     },
     {
       "album": {

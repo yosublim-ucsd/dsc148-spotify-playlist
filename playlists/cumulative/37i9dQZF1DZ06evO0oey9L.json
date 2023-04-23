@@ -1037,6 +1037,36 @@
     },
     {
       "album": {
+        "name": "Paris & Grecia",
+        "url": "https://open.spotify.com/album/3kufVIruxrPYRml0XECQka"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        },
+        {
+          "name": "Santiago Rdgz",
+          "url": "https://open.spotify.com/artist/5RZmXdBhExWcBGjyZVSy1u"
+        },
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        },
+        {
+          "name": "Juan Soler",
+          "url": "https://open.spotify.com/artist/62we2Z4MfYSQknQesr1111"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165587,
+      "name": "Paris & Grecia",
+      "url": "https://open.spotify.com/track/6VGKmmQoKtb96WxcXIz4CU"
+    },
+    {
+      "album": {
         "name": "Peligro",
         "url": "https://open.spotify.com/album/4YViCFmwpHIMQVm2Opv1u3"
       },
@@ -1304,7 +1334,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 157248,
       "name": "Viniste, Viste y Venciste",
       "url": "https://open.spotify.com/track/0qpwTaBmwc6QMdFgnzr9zg"

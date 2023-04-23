@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-354 songs - 19 hr 47 min
+355 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [Lose Control](https://open.spotify.com/track/4fVXcxsXPW5lhy5ut9biHB) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Bittersweet](https://open.spotify.com/album/5S7129DvkAVp9RbuaS1Ik0) | 3:01 | 2022-02-11 |  |
 | [Love Again](https://open.spotify.com/track/6ZwNOYjJ06J77YF1ggXtaT) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Marigold](https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz) | 2:34 | 2023-02-12 |  |
 | [Love and Hate in a Different Time \- Original](https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Love and Hate in a Different Time](https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e) | 4:42 | 2021-12-15 | 2023-03-25 |
-| [Love Me or Leave Me](https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Maybe](https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt) | 3:25 | 2023-03-03 |  |
+| [Love Me or Leave Me](https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Maybe](https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt) | 3:25 | 2023-03-03 | 2023-04-23 |
 | [Loverboy](https://open.spotify.com/track/1x9UiIdgnqRr9weFqFD8Pb) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Loverboy](https://open.spotify.com/album/6b4zVp76pVqlDU7WQrho22) | 3:58 | 2022-10-19 | 2023-02-14 |
 | [Loverboy](https://open.spotify.com/track/7DHrin6fl2RV6ND1k3MF9y) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Loverboy](https://open.spotify.com/album/7w3ggwVB0OqAGFkboiozRS) | 3:58 | 2021-12-15 | 2022-10-13 |
 | [Lowkey](https://open.spotify.com/track/10hUWpN7YFbK64zWuXxqGT) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [1021](https://open.spotify.com/album/4jIEMRSPsEVpjn75QTMlc8) | 3:43 | 2023-01-27 | 2023-04-01 |
@@ -333,6 +333,7 @@
 | [Trouble](https://open.spotify.com/track/5N7usY5OYD0sCTNiZZlyQn) | [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [Trouble](https://open.spotify.com/album/3Yd1ohFCiXM3ZuaiftVaxs) | 3:52 | 2023-04-07 |  |
 | [Two Worlds Apart](https://open.spotify.com/track/29nCFkQzewlDZKOnYSinZO) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 2:58 | 2021-12-15 | 2022-11-02 |
 | [Two Worlds Apart](https://open.spotify.com/track/34qvgmIagzNQdZTRL2poiv) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 2:58 | 2022-10-19 | 2023-01-28 |
+| [UNDERSTAND \(feat\. Baby Rose\)](https://open.spotify.com/track/1RHob2sw5X81Ukn4BYPbmF) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [UNDERSTAND](https://open.spotify.com/album/6DQ6LpJlvhoamE6Qg6plAX) | 4:03 | 2023-04-21 |  |
 | [Until The End Of Time \- Spotify Singles](https://open.spotify.com/track/0XdwIG7p28SeTam3DVdMX6) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Spotify Singles](https://open.spotify.com/album/6SL03KQzLNrxyO6AfIBe7y) | 4:43 | 2023-02-14 |  |
 | [Valentine](https://open.spotify.com/track/4JoDBcODOajOx3ZRQlSa7o) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Starry Ache](https://open.spotify.com/album/1yRRZvO7YIPHzSkvX94YOR) | 3:01 | 2021-12-15 | 2022-04-08 |
 | [Verbs](https://open.spotify.com/track/4yurN9uKsooqpAjMhfPfRh) | [Peyton](https://open.spotify.com/artist/0uIVCKSl2eNhWQ1yXxO5xV), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Verbs](https://open.spotify.com/album/47o1uI5KDCQEHdZjUOMBdT) | 3:33 | 2022-03-04 | 2022-12-24 |

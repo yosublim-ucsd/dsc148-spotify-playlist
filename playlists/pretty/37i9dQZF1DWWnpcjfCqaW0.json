@@ -1,12 +1,12 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 260831,
+  "num_followers": 260978,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjY5NTEyNywwMDAwMDAwMGRhYWI1YjA3OWYyNDkwMDk5ZGIxNDFkMjMwMzlkNjE1",
+  "snapshot_id": "MTY3MjY5NTEyNywwMDAwMDAwMGI3YWYwYzYwNGU1MjM5NzQ3OGE0YzE5ODQ2NGIzZGQ3",
   "tracks": [
     {
       "added_at": "2023-01-02 21:32:07",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Margaret",
-        "url": "https://open.spotify.com/album/5ckQS8yZaYorW36nLCOqRn"
-      },
-      "artists": [
-        {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
-        }
-      ],
-      "duration_ms": 127746,
-      "name": "I Love You Because",
-      "url": "https://open.spotify.com/track/0ax1ZYtsyAcDwtx5Kfs9e5"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "The Essential Don Gibson",
         "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 149026,
       "name": "Oh Lonesome Me",
       "url": "https://open.spotify.com/track/0F8JWFitStLlel68uSLhUX"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "Margaret",
+        "url": "https://open.spotify.com/album/5ckQS8yZaYorW36nLCOqRn"
+      },
+      "artists": [
+        {
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+        }
+      ],
+      "duration_ms": 127746,
+      "name": "I Love You Because",
+      "url": "https://open.spotify.com/track/0ax1ZYtsyAcDwtx5Kfs9e5"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -839,26 +839,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Honky Tonk Heroine: Classic Capitol Recordings 1952-1964",
-        "url": "https://open.spotify.com/album/5GeQiPFDO8tJaRrbnHBKoM"
-      },
-      "artists": [
-        {
-          "name": "Jean Shepard",
-          "url": "https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty"
-        },
-        {
-          "name": "Ferlin Husky",
-          "url": "https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "A Dear John Letter",
-      "url": "https://open.spotify.com/track/61B3JOqotF5jN104LXJlYI"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "All-Time Greatest Hits",
         "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 152906,
       "name": "Crazy Arms",
       "url": "https://open.spotify.com/track/2cwGK6ZYfiZ1EZva2VEKSN"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "Honky Tonk Heroine: Classic Capitol Recordings 1952-1964",
+        "url": "https://open.spotify.com/album/5GeQiPFDO8tJaRrbnHBKoM"
+      },
+      "artists": [
+        {
+          "name": "Jean Shepard",
+          "url": "https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty"
+        },
+        {
+          "name": "Ferlin Husky",
+          "url": "https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "A Dear John Letter",
+      "url": "https://open.spotify.com/track/61B3JOqotF5jN104LXJlYI"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
+        "name": "Pure... Country",
+        "url": "https://open.spotify.com/album/0voKCkfqWEnFaQ1TXsIdfR"
+      },
+      "artists": [
+        {
+          "name": "The Browns",
+          "url": "https://open.spotify.com/artist/6GDSMFwAQBfnrrZf981Yji"
+        }
+      ],
+      "duration_ms": 169573,
+      "name": "The Three Bells",
+      "url": "https://open.spotify.com/track/24SbmQo3XQkNLpSBYda4DA"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
         "name": "Retrospective (Volume 2)",
         "url": "https://open.spotify.com/album/1NwdehvDYJrG3gmyPkZ9fs"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 172000,
       "name": "Too Old To Cut The Mustard",
       "url": "https://open.spotify.com/track/6uaFrJlwnX79ZPz6xyzhrl"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "Pure... Country",
-        "url": "https://open.spotify.com/album/0voKCkfqWEnFaQ1TXsIdfR"
-      },
-      "artists": [
-        {
-          "name": "The Browns",
-          "url": "https://open.spotify.com/artist/6GDSMFwAQBfnrrZf981Yji"
-        }
-      ],
-      "duration_ms": 169573,
-      "name": "The Three Bells",
-      "url": "https://open.spotify.com/track/24SbmQo3XQkNLpSBYda4DA"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
-      },
-      "artists": [
-        {
-          "name": "Red Foley",
-          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Chattanoogie Shoe Shine Boy - 1949 Single Version",
-      "url": "https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "The Very Best Of Slim Whitman",
         "url": "https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 163346,
       "name": "Cattle Call",
       "url": "https://open.spotify.com/track/6Ha2dwEqdLBrDhImosfrBA"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
+      },
+      "artists": [
+        {
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Chattanoogie Shoe Shine Boy - 1949 Single Version",
+      "url": "https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
+        "name": "The Essential Eddy Arnold",
+        "url": "https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15"
+      },
+      "artists": [
+        {
+          "name": "Eddy Arnold",
+          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+        }
+      ],
+      "duration_ms": 185026,
+      "name": "Tennessee Stud - Remastered",
+      "url": "https://open.spotify.com/track/0B6zRccZmGS6CoMFXv8wdc"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
         "name": "Golden Hits",
         "url": "https://open.spotify.com/album/4kFxt2sEFkkbnFTXgsknQk"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 161440,
       "name": "Fraulein",
       "url": "https://open.spotify.com/track/763CAJyB9ZXHntB3QCpduv"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "The Essential Eddy Arnold",
-        "url": "https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15"
-      },
-      "artists": [
-        {
-          "name": "Eddy Arnold",
-          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
-        }
-      ],
-      "duration_ms": 185026,
-      "name": "Tennessee Stud - Remastered",
-      "url": "https://open.spotify.com/track/0B6zRccZmGS6CoMFXv8wdc"
     },
     {
       "added_at": "2023-01-02 21:32:07",

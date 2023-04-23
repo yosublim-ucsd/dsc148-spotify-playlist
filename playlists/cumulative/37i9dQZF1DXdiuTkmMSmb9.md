@@ -4,7 +4,7 @@
 
 > Tropical jams to catch a vibe and whine to\. Cover: Davido
 
-258 songs - 13 hr 32 min
+259 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,8 @@
 | [Soundgasm](https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Soundgasm](https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n) | 3:24 | 2022-07-18 | 2023-01-13 |
 | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Soweto \(with Don Toliver, Rema, and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 | 2023-03-23 |  |
 | [SPETA](https://open.spotify.com/track/7f9YEwrmfVGHkmZP72Py9l) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [SPETA](https://open.spotify.com/album/2HOXUFzQ5fEtnCuYlJyzUL) | 2:52 | 2022-07-18 | 2022-11-18 |
-| [Stand By You](https://open.spotify.com/track/4uSn4uo2QYTJcENcvVri96) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Stand By You](https://open.spotify.com/album/4xyk3drYz00n2co5h3h2Kc) | 2:55 | 2023-01-26 |  |
+| [Stand By You](https://open.spotify.com/track/2g9WsbUkdYlffKK5Ao5BpR) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good EP](https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx) | 2:55 | 2023-04-20 |  |
+| [Stand By You](https://open.spotify.com/track/4uSn4uo2QYTJcENcvVri96) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Stand By You](https://open.spotify.com/album/4xyk3drYz00n2co5h3h2Kc) | 2:55 | 2023-01-26 | 2023-04-23 |
 | [Step](https://open.spotify.com/track/1wG6TnB4WTrKP8PHu2eFIp) | [DANNY LANKE](https://open.spotify.com/artist/72jomA4QZXljUKTgZrnOSN) | [Step](https://open.spotify.com/album/6JRNAGLI2BdvNup8wsf60s) | 2:53 | 2023-03-16 |  |
 | [Suffer Suffer](https://open.spotify.com/track/1FEwkFQFOxdJLngkH7Jgao) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [Suffer Suffer](https://open.spotify.com/album/3ZmxhUBvoUgzHbDh4xfmDq) | 2:50 | 2023-02-23 |  |
 | [SUGA \- Radio Edit](https://open.spotify.com/track/2dhp8znW7aGhHyaEBHUOC5) | [Quadzzy](https://open.spotify.com/artist/29daVwOn1cciWR8Vu5WOLP) | [SUGA \(Radio Edit\)](https://open.spotify.com/album/4spl0Ahoo2dwaD5j0wJedK) | 2:53 | 2022-07-18 | 2022-12-02 |

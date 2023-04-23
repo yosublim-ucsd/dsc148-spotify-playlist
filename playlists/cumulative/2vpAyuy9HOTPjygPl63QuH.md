@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-972 songs - 2 day 7 hr 54 min
+975 songs - 2 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,6 +372,7 @@
 | [Higher](https://open.spotify.com/track/1h1sfIlRRN1qgruivCtRc6) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Umaedo](https://open.spotify.com/artist/0SSciNLgRTNW5DQ7X8Df74) | [Higher](https://open.spotify.com/album/6HC5lHejoIqI7L7JJd09jS) | 2:55 | 2022-08-11 | 2022-10-29 |
 | [Hold It \- SQWAD Remix](https://open.spotify.com/track/5HKv8vLHtd0Hk3iT7SWlIB) | [Jack Beats](https://open.spotify.com/artist/5dUIQXIt7WeBKpETFZyTFW), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI) | [Hold It \(SQWAD Remix\)](https://open.spotify.com/album/6ytNjlwlKEtxFcE5Xa2roI) | 3:10 | 2022-07-01 | 2022-07-10 |
 | [Hold Me Close](https://open.spotify.com/track/7u71gydKlcIvWpvmNsfRIP) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Hold Me Close](https://open.spotify.com/album/4z7scWiAsJN335Cttn2AaU) | 3:19 | 2022-11-18 | 2022-11-29 |
+| [Hold On](https://open.spotify.com/track/0xn1a5jQoZ0GeilX3VSp2g) | [Scot & Millfield](https://open.spotify.com/artist/6LTgaNvQ4z07MLP5Fs3plh), [Neil Richter](https://open.spotify.com/artist/3QSWiXerHlC3jKwrjGtPq8) | [Hold On](https://open.spotify.com/album/6RqD63Moj0mnF9Kw4JQ90o) | 3:20 | 2023-04-22 |  |
 | [Hold Tight \(feat\. Darla Jade\) \- Dombresky Remix](https://open.spotify.com/track/7qFmMbtmAZ4YI1fkstJvYE) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Hold Tight \(feat\. Darla Jade\) \[Dombresky Remix\]](https://open.spotify.com/album/6RNS8D3qoHQQ2LqKUAV2wy) | 3:40 | 2022-09-30 | 2022-10-08 |
 | [Hold Up](https://open.spotify.com/track/7v44o3tyblVCSuxkYLikqo) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Hold Up](https://open.spotify.com/album/16GGgdCTPeOEkI5XlcBdI1) | 4:03 | 2022-09-30 | 2022-10-08 |
 | [Hold Up](https://open.spotify.com/track/1TXxy5fiycEyA7d7EdAbIW) | [Nautik](https://open.spotify.com/artist/4cXLx50kaRAc7B0ZQFP1Qa) | [Hold Up](https://open.spotify.com/album/3hmuaQHrZbsuXd6cEhlCks) | 2:46 | 2022-12-16 | 2023-01-07 |
@@ -767,6 +768,7 @@
 | [Smoking Kills](https://open.spotify.com/track/3YCXbwKfJXyikCKlssFitm) | [Screechy](https://open.spotify.com/artist/4Ts1L827tQWBpc9I2GekWG) | [Smoking Kills](https://open.spotify.com/album/3tOK9Q6iHEUG0jtWjssfk6) | 3:39 | 2023-01-21 | 2023-01-29 |
 | [Snatch](https://open.spotify.com/track/2WnWl10jDfmFHFFsQNAiAD) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Snatch](https://open.spotify.com/album/3NBR8469FQQ4tq3idiztto) | 4:18 | 2023-04-14 | 2023-04-22 |
 | [Snow is Falling \- Tony Romera Remix](https://open.spotify.com/track/2VS6opNQchKzV5jERSYjZB) | [Vladimir Cauchemar](https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Snow is Falling \(Tony Romera Remix\)](https://open.spotify.com/album/0XaIqOn9u4wa6muOQ9OPIG) | 4:30 | 2023-03-31 | 2023-04-09 |
+| [So Alive](https://open.spotify.com/track/3I9hemewMQVBd5qpep8Zdl) | [Mismatch \(UK\)](https://open.spotify.com/artist/6ZfK3mmhQuGjhOAAAvSuSY) | [So Alive](https://open.spotify.com/album/59V4ia9qAFxKK7w3jHm2Lj) | 3:14 | 2023-04-22 |  |
 | [SO BIG](https://open.spotify.com/track/0EuaF8UjE71a0iplWBl9Ua) | [Born Dirty](https://open.spotify.com/artist/0qM78DOdgnNPpq2CpTNgU5) | [SO BIG](https://open.spotify.com/album/2JOSMhOwsTSBmaXai7eFza) | 3:28 | 2023-02-17 | 2023-02-25 |
 | [So Done](https://open.spotify.com/track/0mCE8jx5bRIF3pg9D2are3) | [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn) | [So Done](https://open.spotify.com/album/6qXB7L2TBwUp0A10uL5znx) | 3:52 | 2022-07-15 | 2022-07-17 |
 | [So Good](https://open.spotify.com/track/111f87qSJCQ7tYZP1zHlkQ) | [Jeff Service](https://open.spotify.com/artist/4H3t1JPHocqaca99qRD19L) | [So Good](https://open.spotify.com/album/3NUsX6WT9Ct43QjHpdjr1Z) | 2:41 | 2022-06-24 | 2022-07-02 |
@@ -822,6 +824,7 @@
 | [Talk To Me \(with BRUX\)](https://open.spotify.com/track/60TJAdsTUJXxS4VDPWfmFL) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Anthony Attalla](https://open.spotify.com/artist/6UmrPT15mLI5ALbsDqwsQv), [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY) | [Talk To Me \(with BRUX\)](https://open.spotify.com/album/2shARbzXHKV7DDbTRmUDc4) | 3:02 | 2022-11-11 | 2022-11-19 |
 | [Talkin' Drums](https://open.spotify.com/track/5qJm4xvRCOQ1zedunDnndW) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX), [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f) | [Talkin' Drums](https://open.spotify.com/album/5k6TCxCvcSpWdBpEoXBa2W) | 3:00 | 2022-06-24 | 2022-07-02 |
 | [Tamo Loco](https://open.spotify.com/track/19EwqyuwH4Na6bnOlIe3O0) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Lorna](https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Tamo Loco](https://open.spotify.com/album/0vsLnW41TjwuMgZI9kd0zA) | 2:40 | 2022-07-01 | 2022-07-10 |
+| [Tantra](https://open.spotify.com/track/7r5P4pGQEb6LlZonogTpVh) | [DEEP INSIDE \(UA\)](https://open.spotify.com/artist/6pbIQVTgSgtIEgPcbt4AFh), [TAU \(UA\)](https://open.spotify.com/artist/6OLybB0kzvZsaAPl3o6lcI) | [Tantra](https://open.spotify.com/album/4gv6XKdDCF5eJtmy7u2aqF) | 5:51 | 2023-04-22 |  |
 | [Tego](https://open.spotify.com/track/3R6oE0rXv8bgwMg1yytcbd) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a) | [Tego](https://open.spotify.com/album/1NSqRiadlzpChQcLifrGAR) | 2:39 | 2022-07-01 | 2022-07-10 |
 | [Temperature](https://open.spotify.com/track/5wrbv0M46yx1gcC4t8QQBL) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Temperature](https://open.spotify.com/album/28olOVuLQDVY7XLH6W4USG) | 3:27 | 2022-10-28 | 2022-11-06 |
 | [Tempo](https://open.spotify.com/track/31DRIA15xwlDz2Lwz6PJOx) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Tempo](https://open.spotify.com/album/76ukokCNrlDbYvqn2QRbGa) | 3:18 | 2022-11-18 | 2022-11-29 |

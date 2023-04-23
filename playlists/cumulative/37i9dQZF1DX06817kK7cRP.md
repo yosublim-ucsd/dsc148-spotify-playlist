@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-118 songs - 5 hr 25 min
+119 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Making It Rain](https://open.spotify.com/track/7pCnG3kLCGZwp4lGT5C2xm) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Making It Rain / Buckets](https://open.spotify.com/album/1xIEHNtF2PiFZmC9jK1N0z) | 2:27 | 2023-01-12 |  |
 | [Melting Away](https://open.spotify.com/track/1dOSLiAiqzqH4fek2zyogm) | [Josie Mehlin](https://open.spotify.com/artist/3VkUsVhRvP02IX46EWGzQz) | [Melting Away](https://open.spotify.com/album/6Fcny8zpQ9huychcq3kHsJ) | 3:06 | 2023-04-20 |  |
 | [Merits](https://open.spotify.com/track/2BVSKW7MV2zVhew0GcbW9G) | [yud.](https://open.spotify.com/artist/7k6535rJWtEv2TKhv1T6v7) | [Merits](https://open.spotify.com/album/6PAaMZ7PcRN3LtLg1F7ifY) | 1:43 | 2023-01-12 |  |
+| [Modified Strat Mode](https://open.spotify.com/track/3PPGiojAjFUI7nuaW3mNAY) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Modified Strat Mode](https://open.spotify.com/album/24ziSm20W3yM9ZGsqqawZG) | 1:57 | 2023-04-20 |  |
 | [Moonshine](https://open.spotify.com/track/0MWcu0NXEJszqLvK19n0hy) | [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Moonshine / Starshine](https://open.spotify.com/album/4Iz5vcZYyC1ztExHZngPVf) | 1:53 | 2023-01-12 | 2023-03-29 |
 | [Mostly Toasted](https://open.spotify.com/track/067izDpCvzsbpGIgJNWDrz) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Mostly Toasted](https://open.spotify.com/album/4q5FfpWNKHAcsEZlouU0jc) | 1:41 | 2023-01-13 |  |
 | [Nest Egg](https://open.spotify.com/track/7kPQE1Ras4XcoFAhqkMuLG) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Nest Egg](https://open.spotify.com/album/1wLRWjcc8P3erTiNjeJWSJ) | 2:25 | 2023-01-12 |  |
@@ -112,7 +113,7 @@
 | [The Player](https://open.spotify.com/track/36KETQiXiqMXytQOy5LnCR) | [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu), [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi), [Paul Indigo](https://open.spotify.com/artist/6IfNWRVQzowSEwwiUwXnCc) | [Afternoon Jazz](https://open.spotify.com/album/2aR5IFi9ZpIRPKuCS9yNrJ) | 2:33 | 2023-01-12 | 2023-02-02 |
 | [The Puzzle](https://open.spotify.com/track/64tfJLNhrWpUtTvEeFqqQq) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [The Puzzle](https://open.spotify.com/album/7wygbtOZfSiYQiGmWWHL7R) | 2:33 | 2023-01-12 |  |
 | [The Special](https://open.spotify.com/track/0clBXqkR2kqIhkAGdSnSHB) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [The Special](https://open.spotify.com/album/1lrQMnWVHOHBXEWw231jCK) | 2:01 | 2023-01-13 |  |
-| [Tiger Balm](https://open.spotify.com/track/6VziXuKwKUhpOi1odKcVT9) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Tiger Balm](https://open.spotify.com/album/5gs6FZB6CxLfJI47Y6nLNm) | 2:31 | 2023-01-12 |  |
+| [Tiger Balm](https://open.spotify.com/track/6VziXuKwKUhpOi1odKcVT9) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Tiger Balm](https://open.spotify.com/album/5gs6FZB6CxLfJI47Y6nLNm) | 2:31 | 2023-01-12 | 2023-04-23 |
 | [Titled \(How Does It Peel\)](https://open.spotify.com/track/7DtmONac7b0he2AshEFd3u) | [Gabriel Forsman](https://open.spotify.com/artist/1J6ZEoe7X84ORL7S8xsMIX), [Peter Zimny](https://open.spotify.com/artist/0RfFEVvh5Yel1x2Hv8wZ6f) | [Titled \(How Does It Peel\)](https://open.spotify.com/album/55CVF4di2C1zhlQAzECyRq) | 3:24 | 2023-01-12 |  |
 | [Too Much](https://open.spotify.com/track/36X8j52PvjhJztIGopCjIJ) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Thursday](https://open.spotify.com/album/5L829kuzY7EhGHEimMUDeF) | 2:17 | 2023-01-12 |  |
 | [Train Tales](https://open.spotify.com/track/5PVWIBum4skGcuHkI8bWKB) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Train Tales](https://open.spotify.com/album/65VJznRcsus1IxGEyFNzft) | 1:37 | 2023-01-12 | 2023-03-25 |

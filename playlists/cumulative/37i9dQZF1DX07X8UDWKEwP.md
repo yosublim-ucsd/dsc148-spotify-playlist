@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Fonseca & Juan Luis Guerra
 
-246 songs - 14 hr 49 min
+247 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [El Caudal](https://open.spotify.com/track/3Eofn5MhdnUYozRhcxGYLN) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [El Caudal](https://open.spotify.com/album/57zjLKLycEw9ezNKgXBDtI) | 3:57 | 2023-04-14 |  |
 | [El Cuero del Tambor](https://open.spotify.com/track/4wVEGdpGhtkbxJAZSB4tDE) | [Tromboranga](https://open.spotify.com/artist/1d8flZp4PgQ17KR7RjtlJP) | [Salsa Terapia](https://open.spotify.com/album/6u9D4L2xCutz78Byew0dCl) | 5:20 | 2022-01-01 | 2022-06-30 |
 | [EL HOMBRE PERFECTO](https://open.spotify.com/track/5DcVcYoTmUnp90GuRCyfDT) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [EL HOMBRE PERFECTO](https://open.spotify.com/album/3dtc12UnEQCJ4TSU4lRIAW) | 3:36 | 2023-01-27 |  |
-| [El Ignorante](https://open.spotify.com/track/3KdbrghT4Y4uiCC5Bo2NCI) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl) | [El Ignorante](https://open.spotify.com/album/5s5OS8ox9J6dTzY2LY8A5a) | 4:04 | 2022-06-29 |  |
+| [El Ignorante](https://open.spotify.com/track/3KdbrghT4Y4uiCC5Bo2NCI) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl) | [El Ignorante](https://open.spotify.com/album/5s5OS8ox9J6dTzY2LY8A5a) | 4:04 | 2022-06-29 | 2023-04-23 |
 | [El Jala Jala \- Remix](https://open.spotify.com/track/5FAKHrmhsggTdqyCtML3u6) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [El Jala Jala \(Remix\)](https://open.spotify.com/album/2Y9QFIbAvw7w9q46GBhXzf) | 2:42 | 2022-01-28 | 2022-06-30 |
 | [El Malecón Vio el Final](https://open.spotify.com/track/6tx5V273Y6muqSkOTiyZEj) | [Amaury Gutiérrez](https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D), [Dayhan Díaz](https://open.spotify.com/artist/3L2JdDvaqkXdtw0DTnxLSa) | [El Malecón Vio el Final](https://open.spotify.com/album/0cXowypQNuZ8P4t5NmVmAV) | 4:33 | 2022-03-25 | 2022-06-30 |
 | [El Me Mintio](https://open.spotify.com/track/7wu15FnrKjvMP3GXANoo2f) | [Jae Camilo](https://open.spotify.com/artist/40S2INZWrAhcI6NlpY7mwC) | [El Me Mintio](https://open.spotify.com/album/5rcxrwf0ngHnF2WSxuPVwp) | 3:05 | 2022-03-25 | 2022-06-30 |
@@ -131,6 +131,7 @@
 | [Mami](https://open.spotify.com/track/6q4l4MRRrqwtkrjlwHcAwg) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y) | [Mami](https://open.spotify.com/album/7z1Bjl01ywsdKdAX5KYw6F) | 3:00 | 2022-04-29 | 2023-02-10 |
 | [Manos de Tijera \- Versión Bachata](https://open.spotify.com/track/4UhYmV4km2WkPW3u6mgPfY) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv), [Dj Husky](https://open.spotify.com/artist/7KpJV35QbeZ1ZCn34bnypL) | [Manos de Tijera \(Versión Bachata\)](https://open.spotify.com/album/4RXju3Va6kcOzfyyLmDvyX) | 4:28 | 2022-06-29 | 2023-03-11 |
 | [Me Descontrola](https://open.spotify.com/track/34flp1Hbl6EkI6fudYKiHS) | [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2), [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj) | [Me Descontrola](https://open.spotify.com/album/7FfIvgPFJev0jREmXDbzvP) | 3:36 | 2022-04-29 | 2023-01-29 |
+| [Me EnRD](https://open.spotify.com/track/3GkctxmZmeGmW4K5Oya0Z1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Me EnRD](https://open.spotify.com/album/3BumcT1ophGlEOHCi1fzoW) | 3:05 | 2023-04-21 |  |
 | [Me Tienes Mal](https://open.spotify.com/track/7rbaW6Q1xCiIucyaZZjTYY) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Comienzos](https://open.spotify.com/album/2ndeHTmp2o62pjmgYATwVf) | 3:32 | 2022-01-01 | 2022-06-30 |
 | [Me Voy a Quitar de en Medio](https://open.spotify.com/track/7rimeZ5UeR4R1FUj32U1us) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Que Te Vaya Bonito](https://open.spotify.com/album/6Qf2illWMZl8ZqyfiTtqE5) | 3:23 | 2022-11-28 | 2023-02-06 |
 | [Merengón](https://open.spotify.com/track/2XmVB1FSy1elvi2O2d8tBj) | [La Cassandra](https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw) | [Merengón](https://open.spotify.com/album/23DfVLJCPAjFJNCXcFJAOk) | 3:58 | 2022-04-29 | 2023-01-14 |

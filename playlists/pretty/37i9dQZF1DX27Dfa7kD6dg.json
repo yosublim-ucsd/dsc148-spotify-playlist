@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 18117,
+  "num_followers": 18167,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAxNDM3NiwwMDAwMDAwMGI1OThkZWEwYjQ3ODA4MGRlY2RmZmM2MzljOTQ3YjBi",
+  "snapshot_id": "MTY3OTAxNDM3NiwwMDAwMDAwMGFhYzM2NmE2YjNiMWNlNmU1YmJhNWM5YmY1YzRjYTE5",
   "tracks": [
     {
       "added_at": "2023-03-17 00:52:56",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
+        "name": "La Historia... Los \u00c9xitos",
+        "url": "https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ"
+      },
+      "artists": [
+        {
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        }
+      ],
+      "duration_ms": 273763,
+      "name": "Virgen",
+      "url": "https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
         "name": "Un Sue\u00f1o Y Nada M\u00e1s",
         "url": "https://open.spotify.com/album/0Be08NMtq8dwdVqLCHJoZ0"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 278613,
       "name": "Un Sue\u00f1o Y Nada Mas",
       "url": "https://open.spotify.com/track/2bVisOYbfWI29XxWEdTKSX"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
-        "name": "De Costa a Costa",
-        "url": "https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN"
-      },
-      "artists": [
-        {
-          "name": "Mariano Civico",
-          "url": "https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q"
-        }
-      ],
-      "duration_ms": 309760,
-      "name": "Te Voy a Hacer Feliz",
-      "url": "https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -435,6 +435,22 @@
       "duration_ms": 334080,
       "name": "La Murga",
       "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "De Costa a Costa",
+        "url": "https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN"
+      },
+      "artists": [
+        {
+          "name": "Mariano Civico",
+          "url": "https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q"
+        }
+      ],
+      "duration_ms": 309760,
+      "name": "Te Voy a Hacer Feliz",
+      "url": "https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -503,22 +519,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "La Historia... Los \u00c9xitos",
-        "url": "https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ"
-      },
-      "artists": [
-        {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
-        }
-      ],
-      "duration_ms": 273763,
-      "name": "Virgen",
-      "url": "https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Serie Platino",
         "url": "https://open.spotify.com/album/76LbBAaJ1PqZU9fADHiqqt"
       },
@@ -547,22 +547,6 @@
       "duration_ms": 354093,
       "name": "Busca Por Dentro",
       "url": "https://open.spotify.com/track/2canuqE41S1yUstx6qnLFc"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
-        "name": "Serie Platino: Eddie Santiago",
-        "url": "https://open.spotify.com/album/04nuGr7TFcEEP5CdGrmG3s"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 303106,
-      "name": "Me Fallaste",
-      "url": "https://open.spotify.com/track/34VHJUNDzhylu6uZIu4L6z"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -639,6 +623,22 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
+        "name": "Serie Platino: Eddie Santiago",
+        "url": "https://open.spotify.com/album/04nuGr7TFcEEP5CdGrmG3s"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 303106,
+      "name": "Me Fallaste",
+      "url": "https://open.spotify.com/track/34VHJUNDzhylu6uZIu4L6z"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
         "name": "Siempre Una Aventura",
         "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Pacheco Y Su Charanga Vol. 3: Que Suene La Flauta",
-        "url": "https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy"
-      },
-      "artists": [
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        }
-      ],
-      "duration_ms": 153608,
-      "name": "Acuyuye",
-      "url": "https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Atrevido Y Diferente",
         "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 300106,
       "name": "Lady Laura",
       "url": "https://open.spotify.com/track/2kzquEERgcPf5uO55ARVRR"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Pacheco Y Su Charanga Vol. 3: Que Suene La Flauta",
+        "url": "https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        }
+      ],
+      "duration_ms": 153608,
+      "name": "Acuyuye",
+      "url": "https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
+        "name": "Perdido",
+        "url": "https://open.spotify.com/album/5LYY9AkRt5DewwnfQt63Dz"
+      },
+      "artists": [
+        {
+          "name": "Alegre All Stars",
+          "url": "https://open.spotify.com/artist/0UI6s6uva6Ozm7VlICnFmc"
+        }
+      ],
+      "duration_ms": 489000,
+      "name": "Y Yo Ganga",
+      "url": "https://open.spotify.com/track/5s9rrpkjzcRVo04hzzz8fw"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
         "name": "Separala Tambi\u00e9n! Cantando Tito Rodr\u00edguez",
         "url": "https://open.spotify.com/album/0NnMASskJ96x4sESAFpMCR"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 173046,
       "name": "Me Voy Pa Las Villas",
       "url": "https://open.spotify.com/track/5HCX01ucQXm6DQBO3z0aTh"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
-        "name": "Perdido",
-        "url": "https://open.spotify.com/album/5LYY9AkRt5DewwnfQt63Dz"
-      },
-      "artists": [
-        {
-          "name": "Alegre All Stars",
-          "url": "https://open.spotify.com/artist/0UI6s6uva6Ozm7VlICnFmc"
-        }
-      ],
-      "duration_ms": 489000,
-      "name": "Y Yo Ganga",
-      "url": "https://open.spotify.com/track/5s9rrpkjzcRVo04hzzz8fw"
     },
     {
       "added_at": "2023-03-17 00:52:56",

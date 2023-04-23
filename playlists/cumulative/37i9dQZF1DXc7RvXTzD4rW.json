@@ -1502,10 +1502,46 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 234800,
       "name": "Megamorphose",
       "url": "https://open.spotify.com/track/53a0l39UqfYHQ6uqZgHeQ4"
+    },
+    {
+      "album": {
+        "name": "Megamorphose / Can-Do Dreamer",
+        "url": "https://open.spotify.com/album/3rMfcwSUrFKXYtERTUGHy0"
+      },
+      "artists": [
+        {
+          "name": "Smewthie",
+          "url": "https://open.spotify.com/artist/4dEHjlZ84ouGTmZcK77Xrm"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234800,
+      "name": "Megamorphose",
+      "url": "https://open.spotify.com/track/62QXjppBAgbfhggeN1B5au"
+    },
+    {
+      "album": {
+        "name": "Yoi",
+        "url": "https://open.spotify.com/album/76Cbkh0vhkMDjVl6bxgGS3"
+      },
+      "artists": [
+        {
+          "name": "Rico Sasaki",
+          "url": "https://open.spotify.com/artist/32vntVlDOsm1HGm9Xe0FSz"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264115,
+      "name": "Meitei - Special Ver.",
+      "url": "https://open.spotify.com/track/3bJBWoxISSujd4N5UhFy44"
     },
     {
       "album": {
@@ -1520,7 +1556,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 267072,
       "name": "Meitei - Special Ver.",
       "url": "https://open.spotify.com/track/0gHw13eiCZmVpx316gi4B9"

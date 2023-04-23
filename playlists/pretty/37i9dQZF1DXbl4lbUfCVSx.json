@@ -1,12 +1,12 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 26203,
+  "num_followers": 26217,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MTIwODI2NSwwMDAwMDAwMDM2NzE4MjljMjU4OGFkZDE5ZmIwMTY4ODExYjI4N2Vi",
+  "snapshot_id": "MTU5MTIwODI2NSwwMDAwMDAwMDA0YzI0YzM2MDQwZDc3MGNjN2Y2ZWE3Y2Q2YjdhNGI2",
   "tracks": [
     {
       "added_at": "2020-06-03 18:17:45",
@@ -639,18 +639,18 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Degaje",
-        "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
+        "name": "Transition",
+        "url": "https://open.spotify.com/album/2wsl13HiIsHw6wgACS87Tp"
       },
       "artists": [
         {
-          "name": "Harmonik",
-          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
+          "name": "K-Zino",
+          "url": "https://open.spotify.com/artist/0ByJbRK16DdCPnCztvgtuW"
         }
       ],
-      "duration_ms": 331871,
-      "name": "Simplicit\u00e9",
-      "url": "https://open.spotify.com/track/7HRVCfIaGGqUtOpVTB3MWI"
+      "duration_ms": 247663,
+      "name": "F\u00e8 Sa W Vle Av\u00e8 M'",
+      "url": "https://open.spotify.com/track/4NqjBifd47mrbbieZ0KNkz"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -671,18 +671,18 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Transition",
-        "url": "https://open.spotify.com/album/2wsl13HiIsHw6wgACS87Tp"
+        "name": "Degaje",
+        "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
       },
       "artists": [
         {
-          "name": "K-Zino",
-          "url": "https://open.spotify.com/artist/0ByJbRK16DdCPnCztvgtuW"
+          "name": "Harmonik",
+          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
         }
       ],
-      "duration_ms": 247663,
-      "name": "F\u00e8 Sa W Vle Av\u00e8 M'",
-      "url": "https://open.spotify.com/track/4NqjBifd47mrbbieZ0KNkz"
+      "duration_ms": 331871,
+      "name": "Simplicit\u00e9",
+      "url": "https://open.spotify.com/track/7HRVCfIaGGqUtOpVTB3MWI"
     }
   ],
   "unique_name": "Kompas Dir\u00e8k",

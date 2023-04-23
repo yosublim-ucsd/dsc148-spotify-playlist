@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > LOOK AT THAT FISH 🐠
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,040,922 likes - 107 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,040,982 likes - 107 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

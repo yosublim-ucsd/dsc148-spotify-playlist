@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 14382,
+  "num_followers": 14516,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYwODc0MCwwMDAwMDAwMDNiNTYzN2M5NDdjMDE2ZGNmZjdkNjc3ODRhODI0ZjUy",
+  "snapshot_id": "MTY3OTYwODc0MCwwMDAwMDAwMDQxZTFjYjQ3ODJiNjc4Njk0Y2JlY2IyZmVjMjA3YzU4",
   "tracks": [
     {
       "added_at": "2023-03-23 21:59:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d"
-      },
-      "artists": [
-        {
-          "name": "DJ Odyccy",
-          "url": "https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf"
-        }
-      ],
-      "duration_ms": 419465,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
         "name": "Synonymous",
         "url": "https://open.spotify.com/album/1bIDXVdqamnZD89I6UgN55"
       },
@@ -463,22 +447,38 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "NEO",
-        "url": "https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986"
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d"
       },
       "artists": [
         {
-          "name": "Jazzuelle",
-          "url": "https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu"
-        },
-        {
-          "name": "Buddynice",
-          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
+          "name": "DJ Odyccy",
+          "url": "https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf"
         }
       ],
-      "duration_ms": 436551,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683"
+      "duration_ms": 419465,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "OOO: AFRO",
+        "url": "https://open.spotify.com/album/4YNw1RfxL1PBwTcx0D0JCx"
+      },
+      "artists": [
+        {
+          "name": "OUT OF ORDER",
+          "url": "https://open.spotify.com/artist/0EahDneISdyQpDqNzU9XZC"
+        },
+        {
+          "name": "C-Blak",
+          "url": "https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5"
+        }
+      ],
+      "duration_ms": 466467,
+      "name": "Don't 4get To Call Me",
+      "url": "https://open.spotify.com/track/289Qw6pCjcz8FnaPNGLuvP"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -507,22 +507,22 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "OOO: AFRO",
-        "url": "https://open.spotify.com/album/4YNw1RfxL1PBwTcx0D0JCx"
+        "name": "NEO",
+        "url": "https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986"
       },
       "artists": [
         {
-          "name": "OUT OF ORDER",
-          "url": "https://open.spotify.com/artist/0EahDneISdyQpDqNzU9XZC"
+          "name": "Jazzuelle",
+          "url": "https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu"
         },
         {
-          "name": "C-Blak",
-          "url": "https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5"
+          "name": "Buddynice",
+          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
         }
       ],
-      "duration_ms": 466467,
-      "name": "Don't 4get To Call Me",
-      "url": "https://open.spotify.com/track/289Qw6pCjcz8FnaPNGLuvP"
+      "duration_ms": 436551,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
+        "name": "Revolver, Vol. 3 (Compiled)",
+        "url": "https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6"
+      },
+      "artists": [
+        {
+          "name": "STI T's Soul",
+          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+        }
+      ],
+      "duration_ms": 419010,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/3uMa6fwSZyAlRZ6y9mffiE"
       },
@@ -575,26 +591,6 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "My Heartbeat For You",
-        "url": "https://open.spotify.com/album/34WV5aBk0og7jEVj5k5jF6"
-      },
-      "artists": [
-        {
-          "name": "RoneeDeep",
-          "url": "https://open.spotify.com/artist/2bcM94EIlBz4YUVfCTEkeO"
-        },
-        {
-          "name": "Zawadi",
-          "url": "https://open.spotify.com/artist/0qdTYFtnAgZVgZqKMX3jnQ"
-        }
-      ],
-      "duration_ms": 332000,
-      "name": "My Heartbeat For You",
-      "url": "https://open.spotify.com/track/4L8xFcF5arDJURNdwfOULs"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
         "name": "Necessary",
         "url": "https://open.spotify.com/album/7DJMEOEgdMeostjUhaTpBj"
       },
@@ -615,6 +611,26 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
+        "name": "My Heartbeat For You",
+        "url": "https://open.spotify.com/album/34WV5aBk0og7jEVj5k5jF6"
+      },
+      "artists": [
+        {
+          "name": "RoneeDeep",
+          "url": "https://open.spotify.com/artist/2bcM94EIlBz4YUVfCTEkeO"
+        },
+        {
+          "name": "Zawadi",
+          "url": "https://open.spotify.com/artist/0qdTYFtnAgZVgZqKMX3jnQ"
+        }
+      ],
+      "duration_ms": 332000,
+      "name": "My Heartbeat For You",
+      "url": "https://open.spotify.com/track/4L8xFcF5arDJURNdwfOULs"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
         "name": "BAUHAUS",
         "url": "https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07"
       },
@@ -627,38 +643,6 @@
       "duration_ms": 482979,
       "name": "BAUHAUS",
       "url": "https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
-        "name": "Revolver, Vol. 3 (Compiled)",
-        "url": "https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6"
-      },
-      "artists": [
-        {
-          "name": "STI T's Soul",
-          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
-        }
-      ],
-      "duration_ms": 419010,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
-        "name": "I Am Jazz",
-        "url": "https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN"
-      },
-      "artists": [
-        {
-          "name": "beatsbyhand",
-          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
-        }
-      ],
-      "duration_ms": 402782,
-      "name": "Gotsom",
-      "url": "https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -683,6 +667,38 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
+        "name": "Old but New Last Episode",
+        "url": "https://open.spotify.com/album/6Y1u7IbxK8uufy9akyjbv4"
+      },
+      "artists": [
+        {
+          "name": "STI T's Soul",
+          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+        }
+      ],
+      "duration_ms": 412264,
+      "name": "Sunday Showers",
+      "url": "https://open.spotify.com/track/6LpP5t2AzDqpMsEcIi95a1"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "I Am Jazz",
+        "url": "https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN"
+      },
+      "artists": [
+        {
+          "name": "beatsbyhand",
+          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
+        }
+      ],
+      "duration_ms": 402782,
+      "name": "Gotsom",
+      "url": "https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
         "name": "Dafrotone",
         "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 453453,
       "name": "Four Lessons",
       "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
-        "name": "Ivar the Boneless",
-        "url": "https://open.spotify.com/album/00vV7Vovl8G5eu9B7f896I"
-      },
-      "artists": [
-        {
-          "name": "Gigg Cosco",
-          "url": "https://open.spotify.com/artist/0DkJm7HViEwxS1zxHKY86o"
-        }
-      ],
-      "duration_ms": 404480,
-      "name": "Ivar the Boneless",
-      "url": "https://open.spotify.com/track/5jEL4pW79jdIz6VnqDaCjm"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "Old but New Last Episode",
-        "url": "https://open.spotify.com/album/6Y1u7IbxK8uufy9akyjbv4"
+        "name": "Ivar the Boneless",
+        "url": "https://open.spotify.com/album/00vV7Vovl8G5eu9B7f896I"
       },
       "artists": [
         {
-          "name": "STI T's Soul",
-          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+          "name": "Gigg Cosco",
+          "url": "https://open.spotify.com/artist/0DkJm7HViEwxS1zxHKY86o"
         }
       ],
-      "duration_ms": 412264,
-      "name": "Sunday Showers",
-      "url": "https://open.spotify.com/track/6LpP5t2AzDqpMsEcIi95a1"
+      "duration_ms": 404480,
+      "name": "Ivar the Boneless",
+      "url": "https://open.spotify.com/track/5jEL4pW79jdIz6VnqDaCjm"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -787,18 +787,18 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "Artform",
-        "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
+        "name": "The Savior",
+        "url": "https://open.spotify.com/album/5B6J3s8r9Qi3NyNGRfi3zc"
       },
       "artists": [
         {
-          "name": "Kek'star",
-          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
+          "name": "Zhane",
+          "url": "https://open.spotify.com/artist/0fPkUCch0uK79Ny9XZoO4p"
         }
       ],
-      "duration_ms": 459731,
-      "name": "Flute Activation - Original Mix",
-      "url": "https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU"
+      "duration_ms": 411127,
+      "name": "The Savior - Original Mix",
+      "url": "https://open.spotify.com/track/7BiStjhoLseP9zJC6mjkI5"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "The Savior",
-        "url": "https://open.spotify.com/album/5B6J3s8r9Qi3NyNGRfi3zc"
+        "name": "Artform",
+        "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
       },
       "artists": [
         {
-          "name": "Zhane",
-          "url": "https://open.spotify.com/artist/0fPkUCch0uK79Ny9XZoO4p"
+          "name": "Kek'star",
+          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
         }
       ],
-      "duration_ms": 411127,
-      "name": "The Savior - Original Mix",
-      "url": "https://open.spotify.com/track/7BiStjhoLseP9zJC6mjkI5"
+      "duration_ms": 459731,
+      "name": "Flute Activation - Original Mix",
+      "url": "https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU"
     },
     {
       "added_at": "2023-03-23 21:59:00",

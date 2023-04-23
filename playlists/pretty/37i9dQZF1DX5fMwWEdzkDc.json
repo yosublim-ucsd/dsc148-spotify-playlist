@@ -1,12 +1,12 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 8750,
+  "num_followers": 8766,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTQ3OTk3MSwwMDAwMDAwMDNmMWI0YjQ3NjdhZDQwZTkwMjg1NDRmN2E3NzExZjc4",
+  "snapshot_id": "MTYxNTQ3OTk3MSwwMDAwMDAwMDg1NGUwZjNhM2I2OGMyYmI4NzhjMjFiYmUyZTY2Mzk1",
   "tracks": [
     {
       "added_at": "2021-03-11 16:26:11",
@@ -547,22 +547,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Atlantis Princess - The 3rd Album",
-        "url": "https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 224373,
-      "name": "Atlantis Princess",
-      "url": "https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "T-VIRUS",
         "url": "https://open.spotify.com/album/0mb4NZoWTLUlkrMKmieekh"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 239673,
       "name": "Love Rain",
       "url": "https://open.spotify.com/track/2D7qr3pMwinXpACxiUBtNC"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Atlantis Princess - The 3rd Album",
+        "url": "https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 224373,
+      "name": "Atlantis Princess",
+      "url": "https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -663,6 +663,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "\uc911\ub3c5",
+        "url": "https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK"
+      },
+      "artists": [
+        {
+          "name": "Na Yoon Kwon",
+          "url": "https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw"
+        }
+      ],
+      "duration_ms": 262562,
+      "name": "\ub098\uc600\uc73c\uba74",
+      "url": "https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "My Name - The 4th Album",
         "url": "https://open.spotify.com/album/3VoUpjkRS6bVaGOjSZgZyy"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 209920,
       "name": "Pretty Girl",
       "url": "https://open.spotify.com/track/28GE60KLxobidYzuUHW6iI"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "\uc911\ub3c5",
-        "url": "https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK"
-      },
-      "artists": [
-        {
-          "name": "Na Yoon Kwon",
-          "url": "https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw"
-        }
-      ],
-      "duration_ms": 262562,
-      "name": "\ub098\uc600\uc73c\uba74",
-      "url": "https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -779,22 +779,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Girls On Top",
-        "url": "https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 218653,
-      "name": "Girls On Top",
-      "url": "https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "With L.O.V.E Brown Eyed Girls",
         "url": "https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 217626,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Girls On Top",
+        "url": "https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 218653,
+      "name": "Girls On Top",
+      "url": "https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -895,38 +895,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Get All Right SHOWCHESTRA Live Album",
-        "url": "https://open.spotify.com/album/5Xv45jxK6sH2jVISOe8sTH"
-      },
-      "artists": [
-        {
-          "name": "Kim Bum Soo",
-          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
-        }
-      ],
-      "duration_ms": 290951,
-      "name": "Miss you",
-      "url": "https://open.spotify.com/track/3OJENg3aGHj5v1cSq3Xnbv"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "MIRACLE - The 2.5th Album",
-        "url": "https://open.spotify.com/album/1heezU7dth0Eo6nJqlq67w"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 212960,
-      "name": "VALENTI",
-      "url": "https://open.spotify.com/track/1GaP1ryepyxPvnYiu5xhEa"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "HEY, COME ON! - The 4th Album",
         "url": "https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul"
       },
@@ -939,6 +907,22 @@
       "duration_ms": 201866,
       "name": "Wild Eyes",
       "url": "https://open.spotify.com/track/5uvNlHJPu9mOcYT64rxRbl"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Get All Right SHOWCHESTRA Live Album",
+        "url": "https://open.spotify.com/album/5Xv45jxK6sH2jVISOe8sTH"
+      },
+      "artists": [
+        {
+          "name": "Kim Bum Soo",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+        }
+      ],
+      "duration_ms": 290951,
+      "name": "Miss you",
+      "url": "https://open.spotify.com/track/3OJENg3aGHj5v1cSq3Xnbv"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -959,18 +943,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Back in Time",
-        "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
+        "name": "MIRACLE - The 2.5th Album",
+        "url": "https://open.spotify.com/album/1heezU7dth0Eo6nJqlq67w"
       },
       "artists": [
         {
-          "name": "FLY TO THE SKY",
-          "url": "https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC"
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
         }
       ],
-      "duration_ms": 272662,
-      "name": "Missing you",
-      "url": "https://open.spotify.com/track/24UgvaHnAvKOysqdkZ1B8L"
+      "duration_ms": 212960,
+      "name": "VALENTI",
+      "url": "https://open.spotify.com/track/1GaP1ryepyxPvnYiu5xhEa"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -987,6 +971,22 @@
       "duration_ms": 215840,
       "name": "With Coffee\u2026",
       "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Back in Time",
+        "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
+      },
+      "artists": [
+        {
+          "name": "FLY TO THE SKY",
+          "url": "https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC"
+        }
+      ],
+      "duration_ms": 272662,
+      "name": "Missing you",
+      "url": "https://open.spotify.com/track/24UgvaHnAvKOysqdkZ1B8L"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "The Way I Am",
-        "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
-      },
-      "artists": [
-        {
-          "name": "MC MONG",
-          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
-        }
-      ],
-      "duration_ms": 216323,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/2KlzrWVFpUIyI2goyvInX4"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Dropping the Tears",
         "url": "https://open.spotify.com/album/2LPszV62iNiLadCZ2J0kol"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 238628,
       "name": "LOVE119 (feat. MC Mong)",
       "url": "https://open.spotify.com/track/4rC34fBjcpOZ4uxonNlLIh"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "The Way I Am",
+        "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
+      },
+      "artists": [
+        {
+          "name": "MC MONG",
+          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
+        }
+      ],
+      "duration_ms": 216323,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/2KlzrWVFpUIyI2goyvInX4"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Type B (1)",
-        "url": "https://open.spotify.com/album/017upK3dMmJeQygGsuJyzC"
-      },
-      "artists": [
-        {
-          "name": "Son Dam Bi",
-          "url": "https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU"
-        }
-      ],
-      "duration_ms": 222171,
-      "name": "Saturday Night",
-      "url": "https://open.spotify.com/track/4Y5IS0sbhbm7Yrc0EFnHuj"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "The Windows Of My Soul",
         "url": "https://open.spotify.com/album/606BZa2tirkJXRAEfOvmZu"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 238393,
       "name": "\uc0ac\ub791..\uadf8\uac8c \ubb54\ub370",
       "url": "https://open.spotify.com/track/17YZlswC4YRd6vMVkH6F5C"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Type B (1)",
+        "url": "https://open.spotify.com/album/017upK3dMmJeQygGsuJyzC"
+      },
+      "artists": [
+        {
+          "name": "Son Dam Bi",
+          "url": "https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU"
+        }
+      ],
+      "duration_ms": 222171,
+      "name": "Saturday Night",
+      "url": "https://open.spotify.com/track/4Y5IS0sbhbm7Yrc0EFnHuj"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "Like Them",
+        "url": "https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "duration_ms": 281800,
+      "name": "We Should've Been Friends",
+      "url": "https://open.spotify.com/track/4nLwtNzEa1I1tvqC89xo1L"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "SS501 (Single) 2\uc9d1",
         "url": "https://open.spotify.com/album/5r0EVa4QA5EHKSzFQLwFeq"
       },
@@ -1527,38 +1543,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Son Dam Bi Mini Album vol. 2",
-        "url": "https://open.spotify.com/album/03g00ngaa5I53sAoQiLrQL"
+        "name": "\uadf8\ub140\uac00 \uc6c3\uc796\uc544",
+        "url": "https://open.spotify.com/album/7khCA52u74RIec1Cpg6uEi"
       },
       "artists": [
         {
-          "name": "Son Dam Bi",
-          "url": "https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU"
-        },
-        {
-          "name": "Eric",
-          "url": "https://open.spotify.com/artist/3q3HSjyRiHQ0AC5HSrmO4m"
+          "name": "\uae40\ud615\uc911",
+          "url": "https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp"
         }
       ],
-      "duration_ms": 241371,
-      "name": "Crazy (feat.Eric)",
-      "url": "https://open.spotify.com/track/2k89RdgmjsrEaZcMbQsLyn"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "Like Them",
-        "url": "https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek"
-      },
-      "artists": [
-        {
-          "name": "Gummy",
-          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
-        }
-      ],
-      "duration_ms": 281800,
-      "name": "We Should've Been Friends",
-      "url": "https://open.spotify.com/track/4nLwtNzEa1I1tvqC89xo1L"
+      "duration_ms": 269362,
+      "name": "\uadf8\ub140\uac00 \uc6c3\uc796\uc544....",
+      "url": "https://open.spotify.com/track/2vx6QD9i5UTKkXQOjJ3DHW"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1579,18 +1575,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "\uadf8\ub140\uac00 \uc6c3\uc796\uc544",
-        "url": "https://open.spotify.com/album/7khCA52u74RIec1Cpg6uEi"
+        "name": "Son Dam Bi Mini Album vol. 2",
+        "url": "https://open.spotify.com/album/03g00ngaa5I53sAoQiLrQL"
       },
       "artists": [
         {
-          "name": "\uae40\ud615\uc911",
-          "url": "https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp"
+          "name": "Son Dam Bi",
+          "url": "https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU"
+        },
+        {
+          "name": "Eric",
+          "url": "https://open.spotify.com/artist/3q3HSjyRiHQ0AC5HSrmO4m"
         }
       ],
-      "duration_ms": 269362,
-      "name": "\uadf8\ub140\uac00 \uc6c3\uc796\uc544....",
-      "url": "https://open.spotify.com/track/2vx6QD9i5UTKkXQOjJ3DHW"
+      "duration_ms": 241371,
+      "name": "Crazy (feat.Eric)",
+      "url": "https://open.spotify.com/track/2k89RdgmjsrEaZcMbQsLyn"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1631,18 +1631,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Brown Eyed Girls BEST - Special Moments",
-        "url": "https://open.spotify.com/album/5KnUQXqS4EtUiN0tn8sW8y"
+        "name": "Comfort",
+        "url": "https://open.spotify.com/album/63mXEu4xtlyEYDxBrs9EVP"
       },
       "artists": [
         {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        },
+        {
+          "name": "T.O.P.",
+          "url": "https://open.spotify.com/artist/4yiB30K5scGkjmAgHGIH8Y"
         }
       ],
-      "duration_ms": 203911,
-      "name": "\uc5b4\uca4c\ub2e4",
-      "url": "https://open.spotify.com/track/3uR07k38ydBxRsFOcpKgv5"
+      "duration_ms": 236560,
+      "name": "I'm Sorry (Feat. T.O.P)",
+      "url": "https://open.spotify.com/track/6UF4dbXnxEL2kTKDoGAUS8"
     }
   ],
   "unique_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",

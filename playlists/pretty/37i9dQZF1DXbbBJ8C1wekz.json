@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o.",
-  "num_followers": 107442,
+  "num_followers": 107594,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI5NTQ3NiwwMDAwMDAwMDc0YzZmNGFjNzM5M2M3NmE2YjM4MDUxOGMxMGQxMTgw",
+  "snapshot_id": "MTY3NjI5NTQ3NiwwMDAwMDAwMDUzOTNkODdkMDM5Y2M0ZWFiNmUyMmZmMmY5NmQ1Y2Q2",
   "tracks": [
     {
       "added_at": "2023-02-07 20:52:54",
@@ -625,7 +625,7 @@
       "url": "https://open.spotify.com/track/7rJK5hWRhsG40Ga9zp7DlO"
     },
     {
-      "added_at": "2023-04-22 01:04:59",
+      "added_at": "2023-04-23 00:58:24",
       "album": {
         "name": "Menino Ney",
         "url": "https://open.spotify.com/album/3IWRs9fZhKc4i7lCkqNPHU"
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
+        "name": "Apoteose",
+        "url": "https://open.spotify.com/album/5zLYG5pdbwVyQD96FYgGdQ"
+      },
+      "artists": [
+        {
+          "name": "Mateca",
+          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
+        },
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        }
+      ],
+      "duration_ms": 176888,
+      "name": "Probleminha",
+      "url": "https://open.spotify.com/track/1zCJZUgIsBrs1wlKTm52oo"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
         "name": "Oclin e Evoque",
         "url": "https://open.spotify.com/album/1lm0ePGaAMF91JfN3O9sI7"
       },
@@ -1267,26 +1287,6 @@
       "duration_ms": 191376,
       "name": "V\u00edrgula",
       "url": "https://open.spotify.com/track/4byDUIUXgA7Je3qcCbdFPq"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
-        "name": "Apoteose",
-        "url": "https://open.spotify.com/album/5zLYG5pdbwVyQD96FYgGdQ"
-      },
-      "artists": [
-        {
-          "name": "Mateca",
-          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
-        },
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        }
-      ],
-      "duration_ms": 176888,
-      "name": "Probleminha",
-      "url": "https://open.spotify.com/track/1zCJZUgIsBrs1wlKTm52oo"
     },
     {
       "added_at": "2023-02-07 20:52:54",

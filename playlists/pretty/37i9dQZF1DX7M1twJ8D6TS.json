@@ -1,12 +1,12 @@
 {
   "description": "The biggest Texas Country Hits over the last couple of years. Formerly Texas Music Rewind.",
-  "num_followers": 119419,
+  "num_followers": 24108,
   "original_name": "Texas Country Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA5OTQyNiwwMDAwMDAwMDQ2NTk0YjZhMjZjYmEyNWI4M2Y2NGFjNWQ2OTgwNTFm",
+  "snapshot_id": "MTY4MjA5OTQyNiwwMDAwMDAwMDhkYTU2NmUwZjg0NGRiNDY4NDNlN2VlZDIwNWE4ZmQy",
   "tracks": [
     {
       "added_at": "2023-02-10 16:12:28",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA"
+      },
+      "artists": [
+        {
+          "name": "Kody West",
+          "url": "https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek"
+        }
+      ],
+      "duration_ms": 233106,
+      "name": "Shine Out",
+      "url": "https://open.spotify.com/track/03Urb1JlysmjtjNUNNOrsP"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
         "name": "Good Ones Never Last (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0bP4iNa6xwBAHOmojqDsAy"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 179691,
       "name": "Lovin' Where It's Goin'",
       "url": "https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA"
-      },
-      "artists": [
-        {
-          "name": "Kody West",
-          "url": "https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek"
-        }
-      ],
-      "duration_ms": 233106,
-      "name": "Shine Out",
-      "url": "https://open.spotify.com/track/03Urb1JlysmjtjNUNNOrsP"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Black Sheep",
-        "url": "https://open.spotify.com/album/42FIwhkRiRgUp0bLKTwvVP"
+        "name": "Acoustic Covers",
+        "url": "https://open.spotify.com/album/0K2mpuVrs4BpjxiX6TYKw7"
       },
       "artists": [
         {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 224027,
-      "name": "Happier Alone",
-      "url": "https://open.spotify.com/track/7vtbbBGH2hKTVMnhJlLpn7"
+      "duration_ms": 246576,
+      "name": "This Damn Song",
+      "url": "https://open.spotify.com/track/2M6VNGj5BrClV62olW5OcR"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
+        "name": "Black Sheep",
+        "url": "https://open.spotify.com/album/42FIwhkRiRgUp0bLKTwvVP"
+      },
+      "artists": [
+        {
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+        }
+      ],
+      "duration_ms": 224027,
+      "name": "Happier Alone",
+      "url": "https://open.spotify.com/track/7vtbbBGH2hKTVMnhJlLpn7"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
         "name": "Don't Even Say Bye",
         "url": "https://open.spotify.com/album/0dthXJRfQdbGWs3t8HrO7r"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 237060,
       "name": "Don't Even Say Bye",
       "url": "https://open.spotify.com/track/654czoZ3ElWtbkVkKsSBbl"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
-        "name": "Acoustic Covers",
-        "url": "https://open.spotify.com/album/0K2mpuVrs4BpjxiX6TYKw7"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 246576,
-      "name": "This Damn Song",
-      "url": "https://open.spotify.com/track/2M6VNGj5BrClV62olW5OcR"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Heaven's Jukebox",
-        "url": "https://open.spotify.com/album/1S99G84SweuUP30hI31utF"
-      },
-      "artists": [
-        {
-          "name": "Jaden Hamilton",
-          "url": "https://open.spotify.com/artist/2Hee241e76SakjULcG18OH"
-        }
-      ],
-      "duration_ms": 211075,
-      "name": "Heaven's Jukebox",
-      "url": "https://open.spotify.com/track/33QqkzUWbk3G8pijsnK70L"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
         "name": "American Soul",
         "url": "https://open.spotify.com/album/22WbbbmGJNQWCtnxSk9jXe"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 189045,
       "name": "Boots",
       "url": "https://open.spotify.com/track/3Yn1z4gHFWuhbNP7dopYCD"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
+        "name": "Heaven's Jukebox",
+        "url": "https://open.spotify.com/album/1S99G84SweuUP30hI31utF"
+      },
+      "artists": [
+        {
+          "name": "Jaden Hamilton",
+          "url": "https://open.spotify.com/artist/2Hee241e76SakjULcG18OH"
+        }
+      ],
+      "duration_ms": 211075,
+      "name": "Heaven's Jukebox",
+      "url": "https://open.spotify.com/track/33QqkzUWbk3G8pijsnK70L"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Loser Mentality",
-        "url": "https://open.spotify.com/album/3zCXhcu8LJRfSdmQen1eN6"
-      },
-      "artists": [
-        {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
-        }
-      ],
-      "duration_ms": 193525,
-      "name": "Loser Mentality",
-      "url": "https://open.spotify.com/track/2gM5ST0SGj3UkaqnvMatyw"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
         "name": "Dos Corazones",
         "url": "https://open.spotify.com/album/5kHo4RAMzYArFTulnKOEWr"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 249892,
       "name": "A Cowgirl Like You",
       "url": "https://open.spotify.com/track/0hqMV9QFpmF5u7kjKRj41d"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
+        "name": "Loser Mentality",
+        "url": "https://open.spotify.com/album/3zCXhcu8LJRfSdmQen1eN6"
+      },
+      "artists": [
+        {
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+        }
+      ],
+      "duration_ms": 193525,
+      "name": "Loser Mentality",
+      "url": "https://open.spotify.com/track/2gM5ST0SGj3UkaqnvMatyw"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Something 'Bout a Southern Girl",
-        "url": "https://open.spotify.com/album/4QZxScKbnzOx4eVPQmEgp5"
-      },
-      "artists": [
-        {
-          "name": "Mason Lively",
-          "url": "https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs"
-        }
-      ],
-      "duration_ms": 262186,
-      "name": "Something 'Bout a Southern Girl",
-      "url": "https://open.spotify.com/track/2TfC1woNLlRmCqn6IWrET6"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
         "name": "Burn Down EP",
         "url": "https://open.spotify.com/album/5h68tKi4xydtyM7NJiAEGG"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 204788,
       "name": "Picture",
       "url": "https://open.spotify.com/track/7HiD3Ladm1RrQuGgkDPPyl"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
+        "name": "Something 'Bout a Southern Girl",
+        "url": "https://open.spotify.com/album/4QZxScKbnzOx4eVPQmEgp5"
+      },
+      "artists": [
+        {
+          "name": "Mason Lively",
+          "url": "https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs"
+        }
+      ],
+      "duration_ms": 262186,
+      "name": "Something 'Bout a Southern Girl",
+      "url": "https://open.spotify.com/track/2TfC1woNLlRmCqn6IWrET6"
     },
     {
       "added_at": "2023-02-10 16:12:28",

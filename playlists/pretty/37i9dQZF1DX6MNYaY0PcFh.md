@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,499 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,533 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 27 | [Dreaming](https://open.spotify.com/track/0nO2WPTc3UY51COGw27Dls) | [KURUPT FM](https://open.spotify.com/artist/0xGKzZ3narAei6wzYhMp1Q), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq) | [Dreaming](https://open.spotify.com/album/4wK0QQxpdnLH7BO64lMYZ5) | 3:29 |
 | 28 | [Therapy](https://open.spotify.com/track/2ZT87sTizofihiECifOJnm) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Therapy](https://open.spotify.com/album/1BbRfh4nD8NgGqGw1aGdd0) | 3:54 |
 | 29 | [On A Beach \- Champion Remix](https://open.spotify.com/track/7wmml75Sn2lhJjsyaXkOBE) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA), [Double S](https://open.spotify.com/artist/2hs495y9Yso0hfotMuVaHC) | [On a Beach \(Champion Remix\)](https://open.spotify.com/album/2sNfSTxofKnG8FyNltocnp) | 2:45 |
-| 30 | [Bebey](https://open.spotify.com/track/6K8SmtE4jbK0E0MHOzWIIs) | [Keeya Keys](https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6) | [Bebey](https://open.spotify.com/album/4AV5ofpjUgJdZSqprqDrq6) | 2:10 |
-| 31 | [lights up](https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [the come up](https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1) | 4:31 |
+| 30 | [Delectable](https://open.spotify.com/track/3DxUguzXqD17Ulbk18GRtS) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [M4A4](https://open.spotify.com/artist/6r6Bo3WK3Dm28xUMipFF8E) | [Delectable](https://open.spotify.com/album/1FMBiXbZ46iY4csfFjEEnF) | 5:46 |
+| 31 | [Bebey](https://open.spotify.com/track/6K8SmtE4jbK0E0MHOzWIIs) | [Keeya Keys](https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6) | [Bebey](https://open.spotify.com/album/4AV5ofpjUgJdZSqprqDrq6) | 2:10 |
 | 32 | [Take Control](https://open.spotify.com/track/0Dva4BUUvU1eSe3EV5F3Wa) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Take Control](https://open.spotify.com/album/5K6e9x4TdZsvmlODZ7GdQQ) | 3:00 |
-| 33 | [Delectable](https://open.spotify.com/track/3DxUguzXqD17Ulbk18GRtS) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [M4A4](https://open.spotify.com/artist/6r6Bo3WK3Dm28xUMipFF8E) | [Delectable](https://open.spotify.com/album/1FMBiXbZ46iY4csfFjEEnF) | 5:46 |
+| 33 | [lights up](https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [the come up](https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1) | 4:31 |
 | 34 | [More To Give](https://open.spotify.com/track/0c7OcnAQz6H3IIzQA3MP6C) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [More To Give](https://open.spotify.com/album/7DrcBhY34PI4wgF16iY2E5) | 2:32 |
 | 35 | [Million Rings](https://open.spotify.com/track/3xPIndCsBuz27cLygsUhSB) | [Hardy Caprio](https://open.spotify.com/artist/7FqkRutc4zWMrnEAUv3Xwd), [Lost Girl](https://open.spotify.com/artist/145mFGIlZXfYlGQTTWA9OS) | [Million Rings](https://open.spotify.com/album/4r9jyeljiOBrOX1O9vYoSm) | 2:42 |
 | 36 | [Don't Know About You \(feat\. Becky Hill & JME\)](https://open.spotify.com/track/5fHAZKWoCWC5lzDqWw49e6) | [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [Don't Know About You \(feat\. Becky Hill & JME\)](https://open.spotify.com/album/07qE5bujJguS4BK8Ah3l09) | 2:50 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 59 | [B With Me \- Bump & Flex Radio Edit](https://open.spotify.com/track/3r7xbYVEMRXiP9PZ8bh1xj) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn), [Bump & Flex](https://open.spotify.com/artist/6NuELb3JJmU6DkmorHd587) | [B With Me \(Bump & Flex Mix Radio Edit\)](https://open.spotify.com/album/66W3MW1IhxWpa1g5tZccgC) | 3:38 |
 | 60 | [How It Goes](https://open.spotify.com/track/0G8WDiAyLXfmL4cfDGZ3SF) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Redders](https://open.spotify.com/artist/6vUJChpc4tvTMNhoqSZ8Mk), [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [How It Goes](https://open.spotify.com/album/5CCDmc3BqXYVmO0LVD4Wmd) | 2:55 |
 
-Snapshot ID: `MTY4MTQ3MzczNSwwMDAwMDAwMDZiMTkwOTYyZWRhNzcyNmI1OTQ5OGVkOGQzY2UzN2Fk`
+Snapshot ID: `MTY4MTQ3MzczNSwwMDAwMDAwMGQzYTNjZWQyMGJhYzNmMWMxZGEyOGMzMTQ3ZGE2MDEz`

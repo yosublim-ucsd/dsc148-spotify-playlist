@@ -1,12 +1,12 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 125771,
+  "num_followers": 125964,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTAyOTEwNiwwMDAwMDAwMDZhNDU3YTFmNTM5ZTZiN2FkZjEzMDI4N2ZiYmRkMGUw",
+  "snapshot_id": "MTY4MTAyOTEwNiwwMDAwMDAwMGQ2YjBkM2NmOGFlNmU3ZTY1MWM0YTc3NzNkYmI4YmJh",
   "tracks": [
     {
       "added_at": "2023-04-09 08:31:46",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Mi Casa Y Yo",
-        "url": "https://open.spotify.com/album/0i512i22eafJqbKfbC8x0k"
-      },
-      "artists": [
-        {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
-        }
-      ],
-      "duration_ms": 223735,
-      "name": "Mi Casa Y Yo",
-      "url": "https://open.spotify.com/track/43n69z6ySqLtXjkmeWeBEe"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
         "name": "Tu Reino Est\u00e1 Aqu\u00ed",
         "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 218942,
       "name": "Misericordia",
       "url": "https://open.spotify.com/track/45kBRk3OOKJNKJJFO0h1OJ"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "Mi Casa Y Yo",
+        "url": "https://open.spotify.com/album/0i512i22eafJqbKfbC8x0k"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        }
+      ],
+      "duration_ms": 223735,
+      "name": "Mi Casa Y Yo",
+      "url": "https://open.spotify.com/track/43n69z6ySqLtXjkmeWeBEe"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "En Esto Creo (Live)",
-        "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
-      },
-      "artists": [
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 259613,
-      "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar) - Live",
-      "url": "https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
         "name": "Gente Comun Sue\u00f1os Extraordinarios",
         "url": "https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 279457,
       "name": "Exagerado Amor",
       "url": "https://open.spotify.com/track/23rgHw4IITKwFcOOl7jgvU"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "En Esto Creo (Live)",
+        "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 259613,
+      "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar) - Live",
+      "url": "https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
+        "name": "Ven Y Llena Esta Casa",
+        "url": "https://open.spotify.com/album/5M3Y7vUdrfZgtIbzUhepuN"
+      },
+      "artists": [
+        {
+          "name": "Vino Nuevo",
+          "url": "https://open.spotify.com/artist/5Bqc3c0Op9Wvv0E5fhuLqX"
+        }
+      ],
+      "duration_ms": 300040,
+      "name": "Por Las Llagas",
+      "url": "https://open.spotify.com/track/127BY9LPFhtLMu3pkmXcrh"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
         "name": "Bethel Music en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 291986,
       "name": "Mi Esperanza Est\u00e1 en Jes\u00fas (Live)",
       "url": "https://open.spotify.com/track/38e9daXegEIuNlP7lMII4Z"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
-        "name": "Ven Y Llena Esta Casa",
-        "url": "https://open.spotify.com/album/5M3Y7vUdrfZgtIbzUhepuN"
-      },
-      "artists": [
-        {
-          "name": "Vino Nuevo",
-          "url": "https://open.spotify.com/artist/5Bqc3c0Op9Wvv0E5fhuLqX"
-        }
-      ],
-      "duration_ms": 300040,
-      "name": "Por Las Llagas",
-      "url": "https://open.spotify.com/track/127BY9LPFhtLMu3pkmXcrh"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
+        "name": "Sin Fronteras",
+        "url": "https://open.spotify.com/album/51PR5dCBvEsCNcjXofx2VT"
+      },
+      "artists": [
+        {
+          "name": "Alex Rodriguez",
+          "url": "https://open.spotify.com/artist/0xcJ6S4UGlO2NVwOU4mhxa"
+        }
+      ],
+      "duration_ms": 327400,
+      "name": "Merecedor de Alabanza",
+      "url": "https://open.spotify.com/track/6x8I8rtoNFAvj70zdvtCQi"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
         "name": "Barra Libre",
         "url": "https://open.spotify.com/album/3fSi0aNkOhmid18Dt15UUZ"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 206875,
       "name": "Barra Libre",
       "url": "https://open.spotify.com/track/1zcR1cWcNL2oVTDznAtpMx"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
-        "name": "Sin Fronteras",
-        "url": "https://open.spotify.com/album/51PR5dCBvEsCNcjXofx2VT"
-      },
-      "artists": [
-        {
-          "name": "Alex Rodriguez",
-          "url": "https://open.spotify.com/artist/0xcJ6S4UGlO2NVwOU4mhxa"
-        }
-      ],
-      "duration_ms": 327400,
-      "name": "Merecedor de Alabanza",
-      "url": "https://open.spotify.com/track/6x8I8rtoNFAvj70zdvtCQi"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
+        "name": "Colecci\u00f3n Ac\u00fastica I",
+        "url": "https://open.spotify.com/album/02jkCYZGrqvDsMFPnsY2JS"
+      },
+      "artists": [
+        {
+          "name": "Majo Sol\u00eds",
+          "url": "https://open.spotify.com/artist/1gofTzaOSte0KzDoubTJhS"
+        }
+      ],
+      "duration_ms": 282345,
+      "name": "Fija Tus Ojos En Cristo",
+      "url": "https://open.spotify.com/track/0h8xH56h5XD7BeHPWYqDC4"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
         "name": "Love Shines - EP",
         "url": "https://open.spotify.com/album/4nPsZ7BBTtYcWw52GmeTRO"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 465386,
       "name": "S\u00e9 Entronado (Live)",
       "url": "https://open.spotify.com/track/6RjPeSyTInfDrkfOdKHUXa"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
-        "name": "Colecci\u00f3n Ac\u00fastica I",
-        "url": "https://open.spotify.com/album/02jkCYZGrqvDsMFPnsY2JS"
-      },
-      "artists": [
-        {
-          "name": "Majo Sol\u00eds",
-          "url": "https://open.spotify.com/artist/1gofTzaOSte0KzDoubTJhS"
-        }
-      ],
-      "duration_ms": 282345,
-      "name": "Fija Tus Ojos En Cristo",
-      "url": "https://open.spotify.com/track/0h8xH56h5XD7BeHPWYqDC4"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "El Poder De Tu Amor",
-        "url": "https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 269640,
-      "name": "Por Amor",
-      "url": "https://open.spotify.com/track/7j2pRAjkERWLyg4ULzxWTR"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
         "name": "Esto Es Jesus Culture",
         "url": "https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY"
       },
@@ -1611,6 +1595,22 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
+        "name": "El Poder De Tu Amor",
+        "url": "https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 269640,
+      "name": "Por Amor",
+      "url": "https://open.spotify.com/track/7j2pRAjkERWLyg4ULzxWTR"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
         "name": "La Esposa",
         "url": "https://open.spotify.com/album/5x1wzLOJaZj8M9Q0EGO6zM"
       },
@@ -1623,6 +1623,22 @@
       "duration_ms": 321226,
       "name": "Mi Redentor Vive",
       "url": "https://open.spotify.com/track/704QgEqQm5uIqv8BtOxjTc"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "Mi Coraz\u00f3n Te Anhela",
+        "url": "https://open.spotify.com/album/1IoMVo2hPhfuDWKvcCxBfE"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bernal",
+          "url": "https://open.spotify.com/artist/51JOqmQTWX5eqqOlSYBIs6"
+        }
+      ],
+      "duration_ms": 295692,
+      "name": "Mi Coraz\u00f3n Te Anhela",
+      "url": "https://open.spotify.com/track/2v6tJGan59otCNvwSWD19y"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1647,22 +1663,6 @@
       "duration_ms": 239773,
       "name": "Hermoso Nombre",
       "url": "https://open.spotify.com/track/3DXTRxmvmN2fGeYEe0XWAq"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
-        "name": "Mi Coraz\u00f3n Te Anhela",
-        "url": "https://open.spotify.com/album/1IoMVo2hPhfuDWKvcCxBfE"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bernal",
-          "url": "https://open.spotify.com/artist/51JOqmQTWX5eqqOlSYBIs6"
-        }
-      ],
-      "duration_ms": 295692,
-      "name": "Mi Coraz\u00f3n Te Anhela",
-      "url": "https://open.spotify.com/track/2v6tJGan59otCNvwSWD19y"
     },
     {
       "added_at": "2023-04-09 08:31:46",

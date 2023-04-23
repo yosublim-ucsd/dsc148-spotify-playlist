@@ -4,7 +4,7 @@
 
 > New Indie driving the current, every week.
 
-287 songs - 15 hr 9 min
+289 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Already free](https://open.spotify.com/track/45nFXvQK9RIi8zMip6ogzh) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [I’m not a mother, but I have children](https://open.spotify.com/album/3g658ZgE7SVrv89Y3VkjgX) | 2:18 | 2022-02-18 |  |
 | [Angel](https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 5:52 | 2023-01-18 |  |
 | [Angel](https://open.spotify.com/track/32v7Lr04s6kDM7g9NEMVO7) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc) | [Forever, Yours](https://open.spotify.com/album/1C0W8PjTLe9ouWkkzeNbMG) | 2:46 | 2022-02-18 | 2022-11-12 |
-| [Antidote](https://open.spotify.com/track/3qF500J2gDAYbxhXAAPO0X) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Antidote](https://open.spotify.com/album/7fGOorLylu4nsKMgjpDjso) | 2:49 | 2023-02-10 |  |
+| [Antidote](https://open.spotify.com/track/3qF500J2gDAYbxhXAAPO0X) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Antidote](https://open.spotify.com/album/7fGOorLylu4nsKMgjpDjso) | 2:49 | 2023-02-10 | 2023-04-23 |
+| [Antidote](https://open.spotify.com/track/7sUg1ro2GwaN2uvo0Pp1qm) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 2:49 | 2023-02-17 |  |
 | [Automatic \- Orion Sun Remix](https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Automatic \(Orion Sun Remix\)](https://open.spotify.com/album/1F9avZunIAFYCpdQWlUiNZ) | 2:04 | 2022-02-18 | 2022-10-04 |
 | [Baby Tonight](https://open.spotify.com/track/4Y6EyYdcDG77hdj8uvpdM0) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Baby Tonight](https://open.spotify.com/album/5SFfKzez4Lh100nWLmupS0) | 3:18 | 2022-06-17 | 2022-11-12 |
 | [Baby Tonight](https://open.spotify.com/track/6iQNowW9ulIf5rQuMCSLFt) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Baby Tonight](https://open.spotify.com/album/3SM9QgboyYT7LbJ73HHG3q) | 3:18 | 2022-06-17 | 2022-10-18 |
@@ -39,7 +40,8 @@
 | [Blame](https://open.spotify.com/track/5j5bTgdWPU5h3MDhhaMbDX) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Blame](https://open.spotify.com/album/7gwnkG7m1cna7GPo2kUEud) | 2:50 | 2022-02-18 | 2022-07-29 |
 | [Blue](https://open.spotify.com/track/6PeV3ho9kjOYRRT5xJHMYU) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [Blue](https://open.spotify.com/album/295P3WgTJDQQ27tzM5yWRU) | 3:46 | 2022-11-11 |  |
 | [blue dream](https://open.spotify.com/track/1gYRR8ZHN3Ii9p7fggfihQ) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp), [loe4t](https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe) | [blue dream](https://open.spotify.com/album/5dVdataC8Czd3mIh3gheEK) | 3:08 | 2023-02-09 |  |
-| [Bon Voyage](https://open.spotify.com/track/4fwuSvvoxTClVM4QYQGA6C) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Bon Voyage](https://open.spotify.com/album/4RNIu9tWTSeyO7FvDet105) | 2:47 | 2023-01-18 |  |
+| [Bon Voyage](https://open.spotify.com/track/4Okyax7cvVoNfoBKYr2RA0) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 2:47 | 2023-02-17 |  |
+| [Bon Voyage](https://open.spotify.com/track/4fwuSvvoxTClVM4QYQGA6C) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Bon Voyage](https://open.spotify.com/album/4RNIu9tWTSeyO7FvDet105) | 2:47 | 2023-01-18 | 2023-04-23 |
 | [Break of Dawn](https://open.spotify.com/track/5rv0ykJvnvPBunZacaysvW) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [YAMA//SATO](https://open.spotify.com/artist/3XsjrMLKDG2A0f4wW0u3H1) | [Break of Dawn](https://open.spotify.com/album/1ihFDbyCB1zQsKxwsQt3VN) | 3:53 | 2022-02-18 | 2022-11-12 |
 | [breakfast](https://open.spotify.com/track/7I2hbb8rsTvJR5PtaywRkv) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [breakfast](https://open.spotify.com/album/1B1Cj7rG8nQ8KdQ5FSYZNc) | 3:12 | 2022-02-18 | 2022-10-14 |
 | [breakfast](https://open.spotify.com/track/2tD10DaQErTOW9snvrG2Yu) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg) | 3:13 | 2022-05-13 |  |

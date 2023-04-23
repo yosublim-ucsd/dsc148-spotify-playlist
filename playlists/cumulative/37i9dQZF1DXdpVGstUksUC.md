@@ -4,7 +4,7 @@
 
 > You can practically taste the desert dirt in your mouth while listening to these riff\-heavy, fuzzed out numbers\. Cover: Queens of the Stone Age
 
-278 songs - 1 day 1 hr 45 min
+279 songs - 1 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Gemini](https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [Dead Roots Stirring](https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp) | 9:40 | 2021-11-30 |  |
 | [Get It](https://open.spotify.com/track/1yhiJxnv6BryMp1zVEQ9dQ) | [Buffalo Killers](https://open.spotify.com/artist/29FQbwKVUGe1KAI1H2EiDV) | [Dig\. Sow\. Love\. Grow.](https://open.spotify.com/album/1C8b4npg6yWnF41z7z85jB) | 3:10 | 2021-11-30 | 2022-07-25 |
 | [Get It](https://open.spotify.com/track/7iitau8sBQBK18nZx6tJee) | [Buffalo Killers](https://open.spotify.com/artist/29FQbwKVUGe1KAI1H2EiDV) | [Dig\. Sow\. Love\. Grow.](https://open.spotify.com/album/3PbGDuPdhSDaGKCaEHfMV2) | 3:10 | 2022-04-28 | 2023-03-23 |
-| [Get What You Deserve](https://open.spotify.com/track/7yJLpY537kdnfqW1lAerP3) | [Stoned Jesus](https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR) | [Get What You Deserve](https://open.spotify.com/album/7EYbyvtr4Bxu2JaNr3gI9f) | 9:10 | 2023-02-10 |  |
+| [Get What You Deserve](https://open.spotify.com/track/7yJLpY537kdnfqW1lAerP3) | [Stoned Jesus](https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR) | [Get What You Deserve](https://open.spotify.com/album/7EYbyvtr4Bxu2JaNr3gI9f) | 9:10 | 2023-02-10 | 2023-04-23 |
 | [Ghost In My Speaker](https://open.spotify.com/track/4iv6rGqTTY9OPo3gO9kImr) | [Cowboys & Aliens](https://open.spotify.com/artist/40dMfiJSBmkMQbf5HNA2nE) | [Love, Sex, Volume](https://open.spotify.com/album/5c8n4VqsS8iUCCSJtBBsWQ) | 4:17 | 2021-11-30 | 2022-07-24 |
 | [Gimme the Keys](https://open.spotify.com/track/2spBFZ0QX3dr0litwWfsmC) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Book of Bad Decisions](https://open.spotify.com/album/4NhNjAi8FbwJQBsYf7BSfS) | 3:32 | 2021-11-30 | 2022-07-29 |
 | [GNT](https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [King of Cowards](https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS) | 5:49 | 2021-11-30 |  |
@@ -233,6 +233,7 @@
 | [Supa Scoopa and Mighty Scoop](https://open.spotify.com/track/5NyFFIp7NRmqF0wmuJLxqZ) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Welcome to Sky Valley](https://open.spotify.com/album/1npen0QK3TNxZd2hLNzzOj) | 5:56 | 2021-11-30 | 2022-07-29 |
 | [Supa Scoopa and Mighty Scoop](https://open.spotify.com/track/74PX4Sa0tXJDStditawG0O) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Welcome to Sky Valley](https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq) | 5:56 | 2022-04-28 |  |
 | [Superhuman God](https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh) | [Astroqueen](https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo) | [Into Submission](https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq) | 4:27 | 2021-11-30 |  |
+| [Superjudge](https://open.spotify.com/track/7C8bhCWHHd2XdIyzi7PPDi) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Superjudge](https://open.spotify.com/album/2uddKwvNYZT28E6ml2ZlOt) | 6:49 | 2023-03-22 |  |
 | [Sweet Leaf \- 2014 Remaster](https://open.spotify.com/track/2FZ0yrA5aPClG5ZPBlV7n4) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Master of Reality \(2014 Remaster\)](https://open.spotify.com/album/7pGb2cOGVz6vLyaZaKOQ7D) | 5:04 | 2022-02-22 |  |
 | [SXSPLXN](https://open.spotify.com/track/6UZxLjJOJ57wXJX6A907h6) | [Nicola Wincenc](https://open.spotify.com/artist/0VVt9XNaiijwnuCp15FUnI) | [SXSPLXN](https://open.spotify.com/album/3QhcpbyZggc95JRvUoxOmM) | 3:07 | 2022-01-14 |  |
 | [Ten](https://open.spotify.com/track/620pwLOTHYveFujH6sCK0s) | [Karma To Burn](https://open.spotify.com/artist/1tMtHqVsdmW0Yj9f4YnnHq) | [Karma to Burn – Slight Reprise](https://open.spotify.com/album/6SMnndppV6rNjRSneBvvtf) | 2:57 | 2022-01-14 | 2022-02-13 |

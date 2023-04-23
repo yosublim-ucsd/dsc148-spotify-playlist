@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Mari Borges",
-  "num_followers": 287391,
+  "num_followers": 287474,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0NjAwMCwwMDAwMDAwMDM1MDk1ZGRlNTA3ZGIyMWQwYTBhYzIwZTAyZGU2MDg0",
+  "snapshot_id": "MTY4MjA0NjAwMCwwMDAwMDAwMGE5ZWY4YjcwYmY5ZjVjNjkzOTQ2MDk4YjEzMDZmMDdm",
   "tracks": [
     {
       "added_at": "2023-04-21 03:00:00",
@@ -323,22 +323,18 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Eu Tenho Pai",
-        "url": "https://open.spotify.com/album/2qXVPwFzQIoCpTwWD5hPJw"
+        "name": "Deus Est\u00e1 Fazendo",
+        "url": "https://open.spotify.com/album/2uKU4wUFcZKOW6LpNrQcBn"
       },
       "artists": [
         {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        },
-        {
-          "name": "ONE Service",
-          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
+          "name": "Fabiana Sinfr\u00f4nio",
+          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
         }
       ],
-      "duration_ms": 400906,
-      "name": "Eu Tenho Pai",
-      "url": "https://open.spotify.com/track/6tyGZ5AYYRSaUop9z3PbBP"
+      "duration_ms": 266294,
+      "name": "Deus Est\u00e1 Fazendo",
+      "url": "https://open.spotify.com/track/2y9ZH3fIZoiH01RlhlmmCA"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -411,18 +407,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Deus Est\u00e1 Fazendo",
-        "url": "https://open.spotify.com/album/2uKU4wUFcZKOW6LpNrQcBn"
+        "name": "Eu Tenho Pai",
+        "url": "https://open.spotify.com/album/2qXVPwFzQIoCpTwWD5hPJw"
       },
       "artists": [
         {
-          "name": "Fabiana Sinfr\u00f4nio",
-          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        },
+        {
+          "name": "ONE Service",
+          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
         }
       ],
-      "duration_ms": 266294,
-      "name": "Deus Est\u00e1 Fazendo",
-      "url": "https://open.spotify.com/track/2y9ZH3fIZoiH01RlhlmmCA"
+      "duration_ms": 400906,
+      "name": "Eu Tenho Pai",
+      "url": "https://open.spotify.com/track/6tyGZ5AYYRSaUop9z3PbBP"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Me Deixe Aqui / Tudo Entregarei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1XzaVO3g4JZm1G7409Jhmh"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 293617,
-      "name": "Me Deixe Aqui / Tudo Entregarei - Ao Vivo",
-      "url": "https://open.spotify.com/track/4rnKaImzygSRU5PjOElJRa"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Deus dos Bastidores",
         "url": "https://open.spotify.com/album/0E4HV1PsIP1fNFWhV8rbPW"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 332325,
       "name": "Deus dos Bastidores",
       "url": "https://open.spotify.com/track/5QLGQkK2rfw68Bk0Q1siy9"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Me Deixe Aqui / Tudo Entregarei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1XzaVO3g4JZm1G7409Jhmh"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 293617,
+      "name": "Me Deixe Aqui / Tudo Entregarei - Ao Vivo",
+      "url": "https://open.spotify.com/track/4rnKaImzygSRU5PjOElJRa"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Grande \u00e9 o Nosso Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2d0vpD8e9BH5cSCRLHriUH"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 323119,
+      "name": "Grande \u00e9 o Nosso Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/08oVsSKDOUS7hctEGBR43L"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "Estrat\u00e9gia",
         "url": "https://open.spotify.com/album/0AgmbghBFTxFKMmJcQohqr"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 278517,
       "name": "Ora Um Pouco Mais",
       "url": "https://open.spotify.com/track/69p1w6SHQ33BTqmFjXwXvY"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "Grande \u00e9 o Nosso Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2d0vpD8e9BH5cSCRLHriUH"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 323119,
-      "name": "Grande \u00e9 o Nosso Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/08oVsSKDOUS7hctEGBR43L"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -915,6 +915,26 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Nunca Pare de Lutar / Tua Gra\u00e7a Me Basta",
+        "url": "https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 459662,
+      "name": "Nunca Pare De Lutar",
+      "url": "https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "Amigo Jesus",
         "url": "https://open.spotify.com/album/4c1kWI0RiMkQMrUbdMFVDb"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 307803,
       "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
       "url": "https://open.spotify.com/track/3RFBznx059TnrkSvJgAzjq"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "Nunca Pare de Lutar / Tua Gra\u00e7a Me Basta",
-        "url": "https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 459662,
-      "name": "Nunca Pare De Lutar",
-      "url": "https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Gratid\u00e3o - Parte 2",
-        "url": "https://open.spotify.com/album/2cEwxyamnwfvEHrembSYvs"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 239156,
-      "name": "Fiel A Mim",
-      "url": "https://open.spotify.com/track/6KaAso80jTdwTYXO4B0IJk"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Eu Te Adorarei",
         "url": "https://open.spotify.com/album/2cXH4ilW893UBVq33nh4lw"
       },
@@ -1099,22 +1083,18 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Oh Qu\u00e3o Lindo Esse Nome \u00c9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1Qc5BQBQYbmBNUDX8tWNgt"
+        "name": "Gratid\u00e3o - Parte 2",
+        "url": "https://open.spotify.com/album/2cEwxyamnwfvEHrembSYvs"
       },
       "artists": [
         {
-          "name": "Sarah Oliveira",
-          "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
-        },
-        {
-          "name": "BRAVE",
-          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 459720,
-      "name": "Oh Qu\u00e3o Lindo Esse Nome \u00c9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/3FvKZvKIvjicD6K9CUpawq"
+      "duration_ms": 239156,
+      "name": "Fiel A Mim",
+      "url": "https://open.spotify.com/track/6KaAso80jTdwTYXO4B0IJk"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1135,6 +1115,26 @@
       "duration_ms": 383968,
       "name": "Tudo \u00e9 Poss\u00edvel (Ao Vivo)",
       "url": "https://open.spotify.com/track/1pZoySbCn2iTP3q03yUOhZ"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Oh Qu\u00e3o Lindo Esse Nome \u00c9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1Qc5BQBQYbmBNUDX8tWNgt"
+      },
+      "artists": [
+        {
+          "name": "Sarah Oliveira",
+          "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
+        },
+        {
+          "name": "BRAVE",
+          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
+        }
+      ],
+      "duration_ms": 459720,
+      "name": "Oh Qu\u00e3o Lindo Esse Nome \u00c9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/3FvKZvKIvjicD6K9CUpawq"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "100% Homem, 100% Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6LHyXTUDHlGbrfbFuOl2HT"
-      },
-      "artists": [
-        {
-          "name": "Bruna Olly",
-          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
-        }
-      ],
-      "duration_ms": 274706,
-      "name": "100% Homem, 100% Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/1MKh99as2azJTRC43Yi6Zu"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Cora\u00e7\u00e3o da Noiva",
         "url": "https://open.spotify.com/album/1Q6pnu5l7In9lBkckY1Pbz"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 287283,
       "name": "Cora\u00e7\u00e3o da Noiva",
       "url": "https://open.spotify.com/track/0NmtdXoACvmDQcdTJ5y41z"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "100% Homem, 100% Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6LHyXTUDHlGbrfbFuOl2HT"
+      },
+      "artists": [
+        {
+          "name": "Bruna Olly",
+          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
+        }
+      ],
+      "duration_ms": 274706,
+      "name": "100% Homem, 100% Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/1MKh99as2azJTRC43Yi6Zu"
     },
     {
       "added_at": "2023-04-21 03:00:00",

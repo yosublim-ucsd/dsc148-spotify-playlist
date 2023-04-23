@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 70s! Cover:  Jos\u00e9 Jos\u00e9",
-  "num_followers": 37263,
+  "num_followers": 37323,
   "original_name": "70s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY2NzU3MSwwMDAwMDAwMDQ4ZjE2OWVjODcxOWY0MjE2MmZmYmI2ODUyMWMxYmY4",
+  "snapshot_id": "MTY3NjY2NzU3MSwwMDAwMDAwMDRiMDE1Y2E0M2FlYTRiZTUzMWNhMzQ1MzAyMDhhNmE0",
   "tracks": [
     {
       "added_at": "2023-02-17 20:59:31",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/6P35diX5YBvJ8NqVwcyDxj"
-      },
-      "artists": [
-        {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-        }
-      ],
-      "duration_ms": 192306,
-      "name": "Mary Es Mi Amor",
-      "url": "https://open.spotify.com/track/09z65EpYqmylHKjwRG6aEa"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
         "name": "Pra Sempre Em Espanhol - Vol. 1",
         "url": "https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 243466,
       "name": "Un Gato en la Oscuridad - Un Gato en Blu",
       "url": "https://open.spotify.com/track/08vaffIVYDBosHQlMMYbCQ"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/6P35diX5YBvJ8NqVwcyDxj"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        }
+      ],
+      "duration_ms": 192306,
+      "name": "Mary Es Mi Amor",
+      "url": "https://open.spotify.com/track/09z65EpYqmylHKjwRG6aEa"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/7D79IE8KdqXLvfyxi4IKIl"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "Amigo",
+      "url": "https://open.spotify.com/track/4CKIoO64EM5M37TkshbaQE"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
         "name": "Confesiones De Invierno",
         "url": "https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx"
       },
@@ -759,38 +775,6 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "Serie Platino",
-        "url": "https://open.spotify.com/album/5ghThlJjN94mCltLuCk0dQ"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "Qu\u00e9 Ser\u00e1",
-      "url": "https://open.spotify.com/track/6idfK1mtEHiow7mHGnqhAd"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/7D79IE8KdqXLvfyxi4IKIl"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "Amigo",
-      "url": "https://open.spotify.com/track/4CKIoO64EM5M37TkshbaQE"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
         "name": "Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitl\u00e1n)",
         "url": "https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 235906,
       "name": "Ma\u00f1ana Te Acordaras",
       "url": "https://open.spotify.com/track/1Yo9idf6XM0rhPWSTIG1cP"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "Serie Platino",
+        "url": "https://open.spotify.com/album/5ghThlJjN94mCltLuCk0dQ"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "Qu\u00e9 Ser\u00e1",
+      "url": "https://open.spotify.com/track/6idfK1mtEHiow7mHGnqhAd"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "Mediterr\u00e1neo",
-        "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
-      },
-      "artists": [
-        {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        }
-      ],
-      "duration_ms": 183866,
-      "name": "Lucia",
-      "url": "https://open.spotify.com/track/12WvazyWWnlgEkZggu2KsW"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
         "name": "Abraxas",
         "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 170106,
       "name": "Se a Cabo",
       "url": "https://open.spotify.com/track/5JPXVcoVUZd3JYTQEFf9ug"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "Mediterr\u00e1neo",
+        "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "duration_ms": 183866,
+      "name": "Lucia",
+      "url": "https://open.spotify.com/track/12WvazyWWnlgEkZggu2KsW"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "Grandes Rom\u00e1nticas, Vol. 1",
-        "url": "https://open.spotify.com/album/5PGPMjKIcP7m2d8LTPHvrO"
-      },
-      "artists": [
-        {
-          "name": "Jeanette",
-          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "\u00bfPor Qu\u00e9 Te Vas?",
-      "url": "https://open.spotify.com/track/4t2B8FYH9KkQ16Zw0JQinj"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
         "name": "15 A\u00f1os Baladas \u00c9xitos",
         "url": "https://open.spotify.com/album/6tDHKMrmuTwtAbdFxP4Ki6"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 186373,
       "name": "No Tengo Dinero",
       "url": "https://open.spotify.com/track/6hQgqDq2VeyLYqgHoPG3O0"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "Grandes Rom\u00e1nticas, Vol. 1",
+        "url": "https://open.spotify.com/album/5PGPMjKIcP7m2d8LTPHvrO"
+      },
+      "artists": [
+        {
+          "name": "Jeanette",
+          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "\u00bfPor Qu\u00e9 Te Vas?",
+      "url": "https://open.spotify.com/track/4t2B8FYH9KkQ16Zw0JQinj"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "Reina de la Canci\u00f3n Latina",
-        "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
-      },
-      "artists": [
-        {
-          "name": "La Lupe",
-          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "Busamba",
-      "url": "https://open.spotify.com/track/4nML9FWK97HBdm03T7lfWa"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
         "name": "15 Anos De Exitos",
         "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 183813,
       "name": "L\u00e1grimas y Lluvia",
       "url": "https://open.spotify.com/track/2XbZmljaMUuU10gZ5uaOAn"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "Reina de la Canci\u00f3n Latina",
+        "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
+      },
+      "artists": [
+        {
+          "name": "La Lupe",
+          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "Busamba",
+      "url": "https://open.spotify.com/track/4nML9FWK97HBdm03T7lfWa"
     },
     {
       "added_at": "2023-02-17 20:59:31",

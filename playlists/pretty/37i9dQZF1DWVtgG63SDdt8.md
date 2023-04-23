@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH?si=a4c65100c2c2430e">Sarah Kroger</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,668 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,765 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,11 +55,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 45 | [1991 \- Single Version](https://open.spotify.com/track/3jtGjoaD4HPMTDpQRHkDir) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [1991](https://open.spotify.com/album/6cuetIghWkgnbMG1cfB4ZE) | 3:41 |
 | 46 | [Horses & Chariots](https://open.spotify.com/track/2tZSa5gMZ3ihmt0X0yUYOu) | [Dia Viola](https://open.spotify.com/artist/21tjJAnF9xKj2ddhpgJOqQ) | [Horses & Chariots](https://open.spotify.com/album/1vxeLBRUi4yxgIxG8Lju30) | 3:13 |
 | 47 | [With You Through It All](https://open.spotify.com/track/5qFEcVgJ8hxgSYkYDYZrnh) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [With You Through It All](https://open.spotify.com/album/1JZmkqZ73hsY63GKjeBH0g) | 3:48 |
-| 48 | [Clay](https://open.spotify.com/track/3paXzK67mh2b4TLCFkwjrN) | [Harborside Music](https://open.spotify.com/artist/5Lw266onySIyRJlK8cYzyo) | [Clay](https://open.spotify.com/album/5B0LkpdgLPw7sZCbsDdjHk) | 6:24 |
+| 48 | [Clay \- Single Version](https://open.spotify.com/track/3paXzK67mh2b4TLCFkwjrN) | [Harborside Music](https://open.spotify.com/artist/5Lw266onySIyRJlK8cYzyo) | [Clay](https://open.spotify.com/album/5B0LkpdgLPw7sZCbsDdjHk) | 6:24 |
 | 49 | [You Know the Way](https://open.spotify.com/track/5o2B8K2sfDcY55VLWs3NMR) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Emoni Wilkins](https://open.spotify.com/artist/5SGi9yykBsq5MH6l3S31rT), [Paul Zach](https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38), [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Worship for Workers](https://open.spotify.com/album/45O1oMifYs4yA2qiGHXJEK) | 3:31 |
 | 50 | [Beautiful World](https://open.spotify.com/track/3nX7nd1EKBg2nIIu0UCbLR) | [Paul Zach](https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38) | [Beautiful World](https://open.spotify.com/album/1Cllu0S5C8lE2THPSOqbqw) | 2:36 |
 | 51 | [It's Alright](https://open.spotify.com/track/5lw0kFQZcJwBuTrrQ0cxqS) | [Anchor Hymns](https://open.spotify.com/artist/4UuCCQRHiLAMzOWXkFtqSE), [Dee Wilson](https://open.spotify.com/artist/7C1I0Npw9kRe5vPDhm0adW), [Jasmine Mullen](https://open.spotify.com/artist/4OxSdUYHCbfXU6J84jskDj), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [It's Alright](https://open.spotify.com/album/7Eh34gbCTDnCAS9uRU3J1X) | 6:50 |
-| 52 | [Verge of a Miracle \- Live](https://open.spotify.com/track/0xiNUYxC3yhWbuXn2cy7cE) | [Metro Life Worship](https://open.spotify.com/artist/7KkrNnMiMaKtIY87vYGGNK) | [Verge of a Miracle \(Live\)](https://open.spotify.com/album/1Qesw5ep6UkfCBQwhDq0MR) | 5:42 |
+| 52 | [Verge of a Miracle \(feat\. Danielle Munizzi\) \- Live](https://open.spotify.com/track/0xiNUYxC3yhWbuXn2cy7cE) | [Metro Life Worship](https://open.spotify.com/artist/7KkrNnMiMaKtIY87vYGGNK), [Mary Alessi](https://open.spotify.com/artist/2UIP3nP9br1L5Gu2OFE5F2), [Danielle Munizzi](https://open.spotify.com/artist/7L6CGixk79d0u82EEfoGYQ) | [Verge of a Miracle \(feat\. Danielle Munizzi\) \[Live\]](https://open.spotify.com/album/1Qesw5ep6UkfCBQwhDq0MR) | 5:42 |
 | 53 | [Goodness Goes On And On](https://open.spotify.com/track/0EspS0B2EOzTpiXnWYY0LJ) | [Daniel Doss](https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC) | [Goodness Goes On And On](https://open.spotify.com/album/0GyPlSHxoEGEAYJJVgVjED) | 3:48 |
 | 54 | [This Storm](https://open.spotify.com/track/4LC1Ykr1vVF1mDshUoVHIf) | [Brian Free & Assurance](https://open.spotify.com/artist/57PRB2opCrH6LlWS4INhi0) | [This Storm \(Single\)](https://open.spotify.com/album/4mqWPtWLNt05DoJRj8Wzss) | 3:18 |
 | 55 | [There's a Song For That](https://open.spotify.com/track/0WGxx0uT6J8Wtu51GINU7e) | [Down East Boys](https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln) | [There's a Song for That](https://open.spotify.com/album/5bElSDwvLB0lqs6Tzgzmsl) | 2:59 |

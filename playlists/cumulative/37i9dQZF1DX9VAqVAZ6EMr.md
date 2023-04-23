@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [...Baby One More Time](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:31 | 2021-10-15 | 2023-03-01 |
+| [...Baby One More Time](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:31 | 2021-10-15 |  |
 | [7 rings](https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 2:58 | 2023-02-28 |  |
 | [A Dor Desse Amor](https://open.spotify.com/track/3pqPgG9n47v5bXyjYfsTeR) | [KLB](https://open.spotify.com/artist/6Jrploq7vACkXZg2ERVFK3) | [KLB \(2000\)](https://open.spotify.com/album/79ax3tyjDYhMGMlRnWDp9Q) | 3:40 | 2021-10-15 | 2022-07-29 |
 | [A Lenda](https://open.spotify.com/track/1mBaOJ4OPDqJBMp0luG7Ej) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [As Quatro Estações \(Ao Vivo\)](https://open.spotify.com/album/6TtQt38vkUQkbIljv80oB2) | 4:31 | 2021-10-15 | 2022-07-29 |
@@ -95,7 +95,7 @@
 | [Promiscuous](https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:02 | 2021-10-15 |  |
 | [Quando Você Passa \(Turu Turu\) \- Ao Vivo](https://open.spotify.com/track/3dWhyijJNSuQZ2j1SWNTfx) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Quando Você Passa \(Turu Turu\) \[Ao Vivo\]](https://open.spotify.com/album/0TdS3sno6zYm9lCd9hx2PU) | 3:42 | 2021-10-15 | 2022-07-29 |
 | [Ragatanga \(Asereje\) \- Versão Editada](https://open.spotify.com/track/7aSwDCjueXPEIf3OeZiRFR) | [Rouge](https://open.spotify.com/artist/7oCPozHYsiILeiQlma8EEj) | [Rouge](https://open.spotify.com/album/1rYxygMuPRcU7rRUu3Zp3k) | 3:31 | 2021-10-15 | 2022-07-29 |
-| [Roar](https://open.spotify.com/track/27tNWlhdAryQY04Gb2ZhUI) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:43 | 2023-02-28 |  |
+| [Roar](https://open.spotify.com/track/27tNWlhdAryQY04Gb2ZhUI) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:43 | 2023-02-28 | 2023-04-23 |
 | [Rolling in the Deep](https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 3:48 | 2021-10-15 |  |
 | [Rolling in the Deep](https://open.spotify.com/track/1eq1wUnLVLg4pdEfx9kajC) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8) | 3:48 | 2021-10-15 | 2022-07-23 |
 | [Rolling in the Deep](https://open.spotify.com/track/1CkvWZme3pRgbzaxZnTl5X) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147) | 3:48 | 2021-10-15 | 2022-07-29 |

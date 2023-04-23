@@ -1,12 +1,12 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Mirella, Mc Gabzin",
-  "num_followers": 54687,
+  "num_followers": 54761,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODA2MCwwMDAwMDAwMDFhNWJhYmVlMmI4NjQ5MjcyMDg2YTg0MjJhNTEyOTE3",
+  "snapshot_id": "MTY3NTk5ODA2MCwwMDAwMDAwMGFiMGNlMTUwZTc4NTE1Y2Q4YTAxMTU1YmI3ZTA5MWRk",
   "tracks": [
     {
       "added_at": "2023-02-10 03:01:00",
@@ -443,6 +443,30 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
+        "name": "Respeitada",
+        "url": "https://open.spotify.com/album/0qEEb0EcNrZWILoI1Voyiz"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        }
+      ],
+      "duration_ms": 140495,
+      "name": "Respeitada",
+      "url": "https://open.spotify.com/track/2s2KVzCf8ppEilPswLgGX4"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
         "name": "NU",
         "url": "https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP"
       },
@@ -467,30 +491,6 @@
       "duration_ms": 236523,
       "name": "D\u00e1 pra ser?",
       "url": "https://open.spotify.com/track/7jdP9m9lpNp51ainfora8t"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
-        "name": "Respeitada",
-        "url": "https://open.spotify.com/album/0qEEb0EcNrZWILoI1Voyiz"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        }
-      ],
-      "duration_ms": 140495,
-      "name": "Respeitada",
-      "url": "https://open.spotify.com/track/2s2KVzCf8ppEilPswLgGX4"
     },
     {
       "added_at": "2023-02-10 03:01:00",

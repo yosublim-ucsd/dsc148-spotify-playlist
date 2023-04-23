@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Cisco Swank
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,316 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,360 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 87 | [Legacy](https://open.spotify.com/track/3WTAzJLGxBLvgzPKdcn7Zo) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 2:53 |
 | 88 | [Feel It Comin \- Single Version](https://open.spotify.com/track/7uSdcQ6JqjYC2OtRkihFrF) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Feel It Comin](https://open.spotify.com/album/0COOb5CyX27YhMYgqAEi1h) | 3:25 |
 | 89 | [Phoenix & Panther](https://open.spotify.com/track/7jl8cROOmTLw7Cj097oN5m) | [TRIBEZ.](https://open.spotify.com/artist/5xokgYo3SoZ7alvWyTrWJ8), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Phoenix & Panther](https://open.spotify.com/album/24xFSjfuzWfu6rrENgmzO5) | 3:59 |
-| 90 | [Bitches Are Back \(feat\. Blu\)](https://open.spotify.com/track/4PwQK1PvtFcfI1c3G0CeGE) | [M.E.B.](https://open.spotify.com/artist/6AjJDwKIPlXjOxGeiCCy9P), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT) | [Bitches Are Back \(feat\. Blu\)](https://open.spotify.com/album/3m2IraIFP2TKLSfq0QITrm) | 3:28 |
+| 90 | [Bitches Are Back \(feat\. Blu\)](https://open.spotify.com/track/53zoAtfe6IeLQxcnJmswgk) | [M.E.B.](https://open.spotify.com/artist/5rnUUWYdDAG4CVFhj2yUtm), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT) | [That You Not Dare To Forget](https://open.spotify.com/album/6WgNJUxiFSVZTBO6UR4wqH) | 3:28 |
 | 91 | [Pitaya](https://open.spotify.com/track/0dK7sdfUOkeqHlWOAtjTtf) | [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [Ceeopatra](https://open.spotify.com/artist/02XqprFjC8W9C6ie3v947A) | [Pitaya](https://open.spotify.com/album/2GZbFLOgJWgoUecKVhEIy1) | 2:42 |
 | 92 | [Wuthering Heights \- Kassa Overall Remix](https://open.spotify.com/track/1fEwoRCXc2B5z8Qla4B2xs) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn), [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf) | [Wuthering Heights \(Kassa Overall Remix\)](https://open.spotify.com/album/6qZ70jVRFfyjPGOCn3OdiP) | 3:20 |
 | 93 | [Capacity to Love](https://open.spotify.com/track/1AQUqzqHMJIeGeupMb9Y1O) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Capacity to Love](https://open.spotify.com/album/5UuzlicJ7sCYpVezzHdIHK) | 4:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [BeGod](https://open.spotify.com/track/6AhaKQrY0rac4mGE8lKOri) | [Joseph Lawrence](https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4) | [BeGod](https://open.spotify.com/album/4QeehN1Yv6xnthhHUGh8sq) | 2:56 |
 | 100 | [Quiet Culture \(feat\. Pos of De La Soul\)](https://open.spotify.com/track/2VKYTNg9r6bF9pBZouux68) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Pos of De La Soul](https://open.spotify.com/artist/0QJINgNjVXlG2aRED0jEx3) | [Capacity to Love](https://open.spotify.com/album/5UuzlicJ7sCYpVezzHdIHK) | 4:38 |
 
-Snapshot ID: `MTY4MjA0OTY2MCwwMDAwMDAwMDEyYzI3MTlmOWQ5ZTEyNmJkOWQ5ZmE3MWI1ZTU4NWVl`
+Snapshot ID: `MTY4MjA0OTY2MCwwMDAwMDAwMDAzNTQ0YTRlMjI5NjBhZWQ0ODdkZjQ1MDllZmY1NGZi`

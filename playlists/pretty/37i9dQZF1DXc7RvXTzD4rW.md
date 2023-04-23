@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 来栖りん\(Rin Kurusu\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,044 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,047 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I wish](https://open.spotify.com/track/0JnG9ptaFJKPvktDvfudM4) | [来栖りん](https://open.spotify.com/artist/6xiHykZdET5Tp1SAC7luIA) | [I wish](https://open.spotify.com/album/3nQK1O5z7v0c1rEL9BNbK4) | 3:12 |
 | 2 | [Circle](https://open.spotify.com/track/6Z3G3xiByrrUUpKKXPrYEn) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Circle](https://open.spotify.com/album/3V7o2wVIlrxECyVtMLJGDS) | 2:44 |
 | 3 | [Preview](https://open.spotify.com/track/5WsbwswBs3C0vheCVFFy1Z) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [Preview](https://open.spotify.com/album/1KZJgrEJoKlHtA2sH3OAUk) | 4:06 |
-| 4 | [Megamorphose](https://open.spotify.com/track/53a0l39UqfYHQ6uqZgHeQ4) | [Smewthie](https://open.spotify.com/artist/4dEHjlZ84ouGTmZcK77Xrm) | [Megamorphose / Can\-Do Dreamer](https://open.spotify.com/album/7MyYhmRCPNwvQYV64QFtgr) | 3:54 |
+| 4 | [Megamorphose](https://open.spotify.com/track/62QXjppBAgbfhggeN1B5au) | [Smewthie](https://open.spotify.com/artist/4dEHjlZ84ouGTmZcK77Xrm) | [Megamorphose / Can\-Do Dreamer](https://open.spotify.com/album/3rMfcwSUrFKXYtERTUGHy0) | 3:54 |
 | 5 | [アルコルとポラリス](https://open.spotify.com/track/5SWegdaqRdzVvouBo0iWUJ) | [近藤玲奈](https://open.spotify.com/artist/7381Fxpd140diVWNewoe5j) | [アルコルとポラリス](https://open.spotify.com/album/6oasQ2xiLBm0d99YGMrJYz) | 4:09 |
 | 6 | [Hanauta to Mawarimichi](https://open.spotify.com/track/37Fx5MyAKqKt5cGGu7SO0f) | [Rikako Aida](https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3) | [Hanauta to Mawarimichi](https://open.spotify.com/album/7D7g3pL9H6eT9Ey3kWgt8C) | 3:35 |
 | 7 | [Positive Girl](https://open.spotify.com/track/3nYJU3qsaGLF4PwHdHTdlT) | [Kaori Maeda](https://open.spotify.com/artist/5uZjp2LZ0JGqmLfAFDOrkd) | [Mikansei Star](https://open.spotify.com/album/2DjR05MvZwAi8hZcHuxbRk) | 3:44 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 39 | [LOVE CRAZY](https://open.spotify.com/track/4RjxJlyjU6cMrv4dJH5XtP) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [LOVE CRAZY](https://open.spotify.com/album/59K14Vh4mIaPjRHsCuP9B8) | 4:04 |
 | 40 | [New Drama Paradise](https://open.spotify.com/track/6Ty1IRc5sun7YQMUqXealq) | [Jun Fukuyama](https://open.spotify.com/artist/3bC4NPA8Vfw2FXjiuY8Tzx) | [New Drama Paradise](https://open.spotify.com/album/3H5VIFVEyDBmfPLe9aKzlq) | 4:09 |
 | 41 | [FROZEN MIDNIGHT](https://open.spotify.com/track/3vI81nyW6KM3aFHld1BX6K) | [佐久間貴生](https://open.spotify.com/artist/2xTubMhZT8kMqvVsMEV5Mp) | [FROZEN MIDNIGHT](https://open.spotify.com/album/2W2vsABoSxtStk4BnmHWVL) | 3:36 |
-| 42 | [Meitei \- Special Ver.](https://open.spotify.com/track/0gHw13eiCZmVpx316gi4B9) | [Rico Sasaki](https://open.spotify.com/artist/32vntVlDOsm1HGm9Xe0FSz) | [Meitei \(Special Ver.\)](https://open.spotify.com/album/6rI4zRU8isqVVCETurwbNl) | 4:27 |
+| 42 | [Meitei \- Special Ver.](https://open.spotify.com/track/3bJBWoxISSujd4N5UhFy44) | [Rico Sasaki](https://open.spotify.com/artist/32vntVlDOsm1HGm9Xe0FSz) | [Yoi](https://open.spotify.com/album/76Cbkh0vhkMDjVl6bxgGS3) | 4:24 |
 | 43 | [希望の渦](https://open.spotify.com/track/1ggdQQIOqPkm2TP9UEIKTg) | [Hiroshi Kamiya](https://open.spotify.com/artist/3vf0sytS69HHOURI4Ze3gD) | [appside](https://open.spotify.com/album/4Z4kkAn5NioiF0xl7aCroa) | 3:39 |
 | 44 | [Love∞Vision](https://open.spotify.com/track/4zABCBtoO0kkvHP31z06AH) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [Love∞Vision](https://open.spotify.com/album/3h0iC3RBgWeY02PW8QBleX) | 3:48 |
 | 45 | [集結の果てに](https://open.spotify.com/track/41ChAWF2xtTY27QzeLVpns) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p) | [集結の果てに](https://open.spotify.com/album/7f3CzXWceuQ4UEoEmXE1Xa) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [輪廻のパラドクス](https://open.spotify.com/track/4pse20eO6UxqETzbOQd86V) | [Kleissis](https://open.spotify.com/artist/7yQ3JBUyIQV1tOusKvRTXM) | [輪廻のパラドクス](https://open.spotify.com/album/7IGD6aHHkgSOTrTlze8uoq) | 4:22 |
 | 50 | [シュガー・シュガー・スパイス](https://open.spotify.com/track/5EtOLv7nGSg2ENdoGIawwp) | [栗林みな実](https://open.spotify.com/artist/4HqHuqNCbQAqxAzzDZwpvz) | [シュガー・シュガー・スパイス](https://open.spotify.com/album/5bMZUNtbIraIVGF7FH9WYO) | 3:56 |
 
-Snapshot ID: `MTY4MDc3NTgzNiwwMDAwMDAwMDcxMWZjNWU4OTVkOTUxMTk0ZGE5NDRhMmFjZjJiYmIz`
+Snapshot ID: `MTY4MDc3NTgzNiwwMDAwMDAwMDBmMGQ2MzY5MTA2ZDFiMTQ2N2RjOTdmZWJmNTQzZThi`

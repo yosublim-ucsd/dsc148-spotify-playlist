@@ -190,7 +190,7 @@
 | [我陪你接不接受](https://open.spotify.com/track/72VwWIrCMKrZrD5YyE3zpL) | [June Pan](https://open.spotify.com/artist/0p5LfbnKvdqRqZ9u5Nk0S3), [河智昊](https://open.spotify.com/artist/3DEFgAPbosvePBoBfXwCak) | [我陪你接不接受](https://open.spotify.com/album/6f4A78YRMtNVNVmEgClg5y) | 3:09 | 2022-06-27 | 2022-07-19 |
 | [所有相愛的人啊\(熱情版\)](https://open.spotify.com/track/0nPuFKswOvCUaGYl4FIs8m) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [所有相愛的人啊\(熱情版\)](https://open.spotify.com/album/6VgF9QqDn6twLGVQHMvXT1) | 4:08 | 2022-06-06 | 2022-07-29 |
 | [敬嘮叨](https://open.spotify.com/track/7B3O98DIT9hOVB8sbwgtYY) | [繆以欣](https://open.spotify.com/artist/43aTla1ZVfTG1AUNhhbqsv) | [如果心情會說話](https://open.spotify.com/album/5BwIe4tDn9K8LVKJP1uFyr) | 3:58 | 2022-07-18 | 2022-07-20 |
-| [數到五答應我](https://open.spotify.com/track/5uWgSWwQhMcSeL21Fg6t2h) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [格格blue](https://open.spotify.com/album/6HveSS0Oh0HQgtV1RKxgHX) | 4:29 | 2022-06-06 | 2022-12-20 |
+| [數到五答應我](https://open.spotify.com/track/5uWgSWwQhMcSeL21Fg6t2h) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [格格blue](https://open.spotify.com/album/6HveSS0Oh0HQgtV1RKxgHX) | 4:29 | 2022-06-06 |  |
 | [明明就很ㄍㄧㄥ但我還是喜歡妳](https://open.spotify.com/track/5084tcZxnvYmXBzP2CwTDQ) | [洋蔥](https://open.spotify.com/artist/6Q6qP18xDxLbiw0um1t7pw) | [明明就很ㄍㄧㄥ但我還是喜歡妳](https://open.spotify.com/album/5p46ZRmGIMGZgbeHV5fp6i) | 3:48 | 2022-06-06 |  |
 | [星晴](https://open.spotify.com/track/4VWn7L2kONeMEQ6cAIfzXC) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [杰倫](https://open.spotify.com/album/0yS6jOCvKaY6KfJ1Cpc7FZ) | 4:16 | 2022-07-25 |  |
 | [星晴](https://open.spotify.com/track/5oZh0gPKEioN2la70JsKHR) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [杰倫](https://open.spotify.com/album/6r6z1ChrXORrklFyEdRfNs) | 4:16 | 2022-06-06 | 2022-07-28 |
@@ -278,7 +278,7 @@
 | [靠近](https://open.spotify.com/track/7hoxzbKYr2T8EmbyWlowfu) | [一口甜](https://open.spotify.com/artist/3xyeMXp6JQR1J2tZKk0HIL), [二辰](https://open.spotify.com/artist/0aDQTS1mVAknIdfq1iYqaQ) | [靠近](https://open.spotify.com/album/0BoJn9SgzgcNQ93kGrov1J) | 2:58 | 2022-06-13 | 2022-06-17 |
 | [靠近一點點](https://open.spotify.com/track/01cO3ZfjGwlY7nMDDr5tDZ) | [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [惡作劇之吻](https://open.spotify.com/album/13JpgLyP8ZDyAtsRllAaGe) | 3:33 | 2022-07-25 |  |
 | [靠近一點點](https://open.spotify.com/track/2ZehpdL252VK2Wk2uUqt9m) | [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [惡作劇之吻 電視原聲帶](https://open.spotify.com/album/0FiMDZOsRsYtKJjF8hZZo2) | 3:33 | 2022-06-06 | 2022-07-25 |
-| [餘生都是你](https://open.spotify.com/track/3RigT3Zbtvad7iGClLi2eh) | [Z.TAO](https://open.spotify.com/artist/7brWAbUcLVhV9o1w1dLcsx) | [餘生都是你](https://open.spotify.com/album/29oAqIrnduw3NMtbRfSzSB) | 3:00 | 2022-09-05 |  |
+| [餘生都是你](https://open.spotify.com/track/3RigT3Zbtvad7iGClLi2eh) | [Z.TAO](https://open.spotify.com/artist/7brWAbUcLVhV9o1w1dLcsx) | [餘生都是你](https://open.spotify.com/album/29oAqIrnduw3NMtbRfSzSB) | 3:00 | 2022-09-05 | 2023-04-23 |
 | [黏黏 \(feat\. 許瑋甯\)](https://open.spotify.com/track/5AnzBfbZ7G88EQqIO5uxFL) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi), [許瑋甯](https://open.spotify.com/artist/0bzVqWAANIcEyvwoR78szB) | [如果雨之後](https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g) | 4:05 | 2022-06-13 |  |
 
 \*This playlist was first scraped on 2022-06-09. Prior content cannot be recovered.

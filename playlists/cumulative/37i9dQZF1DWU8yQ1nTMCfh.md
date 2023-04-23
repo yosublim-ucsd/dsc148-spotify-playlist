@@ -4,7 +4,7 @@
 
 > Las nuevas vibras del rock en español\. Cover: Rodrigo y Gabriela
 
-198 songs - 11 hr 3 min
+199 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [En El Surf](https://open.spotify.com/track/7IBYDJs4LEfwW8b17IAxwU) | [Palmera Beach](https://open.spotify.com/artist/0aVJ62IxBOiOh4KlOnnm7J) | [En El Surf](https://open.spotify.com/album/0S9FogbRiKfDgnVuSaRaFs) | 2:29 | 2022-04-15 | 2022-12-10 |
 | [enganchao](https://open.spotify.com/track/5WtolAqrKBXPp8wOcqS9CX) | [isra](https://open.spotify.com/artist/0LmfzRPAlGyi9yAIqS11EF), [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [enganchao](https://open.spotify.com/album/4EV8fIrw1qGJtkDzWRSOGv) | 2:30 | 2023-04-14 | 2023-04-16 |
 | [Extrarradio](https://open.spotify.com/track/4Yu4N8mdsSsmois7j4v3as) | [Sei Still](https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74) | [El Refugio](https://open.spotify.com/album/2ArUrVghLI8caKOMlW7mtF) | 4:53 | 2022-04-15 | 2022-12-10 |
-| [FBI](https://open.spotify.com/track/5gxQpTNE0oQb7Orf2QbnFX) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [FBI](https://open.spotify.com/album/7nISyqRwUIfAYATsvHgdgS) | 2:24 | 2022-09-06 |  |
+| [FBI](https://open.spotify.com/track/5gxQpTNE0oQb7Orf2QbnFX) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [FBI](https://open.spotify.com/album/7nISyqRwUIfAYATsvHgdgS) | 2:24 | 2022-09-06 | 2023-04-23 |
 | [Flashbacks](https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS) | [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [Flashbacks](https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p) | 2:53 | 2023-03-20 |  |
 | [Fuera de Lugar](https://open.spotify.com/track/0JgwKmhObrOlQfRXgJf1c4) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Fuera de Lugar](https://open.spotify.com/album/40ablOkksXy9AgUsOHxhrm) | 3:23 | 2022-12-23 | 2023-01-16 |
 | [Fumar de Día \- En Vivo](https://open.spotify.com/track/0n1UrWMX0Njj3kVMc24tOE) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Sesión Saldias \(En Vivo\)](https://open.spotify.com/album/206rMmryQBWqNoIMNsOS8q) | 3:01 | 2022-04-15 | 2022-07-20 |
@@ -164,6 +164,7 @@
 | [Recuerdos Desechables](https://open.spotify.com/track/3nmWYdUjSSEV27OWk4z0Ml) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Recuerdos Desechables](https://open.spotify.com/album/0MxaA5v1gwQtnqUzcB3x3d) | 3:30 | 2022-12-09 | 2023-02-10 |
 | [REMORDIMIENTO](https://open.spotify.com/track/2LzcBK5hfCP5sRKpGQmWpX) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [REMORDIMIENTO](https://open.spotify.com/album/5j7qcWBm36z31n2E6woUhZ) | 3:07 | 2022-12-16 | 2023-01-06 |
 | [Rorschach](https://open.spotify.com/track/6rR46xoz4xucXXnIn5wWNi) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Rorschach](https://open.spotify.com/album/2tv9tKzFcJC4h1hfbLgo0c) | 3:57 | 2023-01-13 | 2023-01-19 |
+| [San Saltarín](https://open.spotify.com/track/2hEAq79PQKziZiioLv4Xrk) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [San Saltarín](https://open.spotify.com/album/3ieQg9CKwvnOG4eJbc0Idk) | 4:18 | 2023-04-21 |  |
 | [Sandwich de Monda](https://open.spotify.com/track/7egAAtDHS0QIaEdqYHhvjC) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [Sandwich de Monda](https://open.spotify.com/album/77T0wIqtqyCTzQiLNYywOU) | 1:37 | 2022-04-15 | 2022-12-10 |
 | [Sentimientos Encontrados](https://open.spotify.com/track/1TFS64QKUI7iZoiKYJpjaw) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Renacimiento](https://open.spotify.com/album/1bgDT6xm0mP29HMfGTbpAm) | 3:32 | 2023-03-13 |  |
 | [Señales \- Acústico](https://open.spotify.com/track/0dQv32aSIEcqwKZeBfO0bH) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Poniente \(Acústico\)](https://open.spotify.com/album/7IZUILLpY4ho94148ai5QI) | 3:14 | 2022-12-30 | 2023-01-22 |

@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Kabzaa",
-  "num_followers": 48643,
+  "num_followers": 48684,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTk5MzgxMywwMDAwMDAwMDZhNzE0NDY1YTdlYTA0ZjY5YjgzMjRkZTU2OTc3Mzcx",
+  "snapshot_id": "MTY4MjE2NDkzNSwwMDAwMDAwMGYyZWZkYTJiYzAxNmZjODI5ZDRlZjQyOWFjNjM3ZTVm",
   "tracks": [
     {
       "added_at": "2023-02-28 11:36:56",
@@ -31,6 +31,26 @@
       "duration_ms": 207496,
       "name": "Chum Chum Chali Chali (from \"Kabzaa\") [Kannada]",
       "url": "https://open.spotify.com/track/6mpqDE2MUjLgPicgv2UPY3"
+    },
+    {
+      "added_at": "2023-04-22 12:02:15",
+      "album": {
+        "name": "Jai Shri Ram (KANNADA)",
+        "url": "https://open.spotify.com/album/1vG9GtlO0kFm0zNF7rIpP4"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        }
+      ],
+      "duration_ms": 64080,
+      "name": "Jai Shri Ram (KANNADA)",
+      "url": "https://open.spotify.com/track/3oGP2kJuEkBf2qzwlyMJbt"
     },
     {
       "added_at": "2023-04-12 13:37:54",
@@ -79,22 +99,66 @@
     {
       "added_at": "2023-02-06 07:20:37",
       "album": {
-        "name": "Kabzaa Title Track (From \"Kabzaa\") [Telugu]",
-        "url": "https://open.spotify.com/album/1D4hY8evxzffpsZIJDQCGb"
+        "name": "Kabzaa Title Track (From \"Kabzaa\") [Kannada]",
+        "url": "https://open.spotify.com/album/1Ga5LbjoCAvxXvFDvnHqGd"
       },
       "artists": [
         {
-          "name": "Prasanth Kamma",
-          "url": "https://open.spotify.com/artist/7LlvbSmuRxACoJZl1FYD7f"
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
         },
         {
-          "name": "Aditi Bhavaraju",
-          "url": "https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6"
+          "name": "Bhavyashri Bandimata",
+          "url": "https://open.spotify.com/artist/7rqcihag4phHx5GH4eMnDL"
         }
       ],
-      "duration_ms": 238750,
-      "name": "Kabzaa Title Track (From \"Kabzaa\") [Telugu]",
-      "url": "https://open.spotify.com/track/4sDgjSzvbxDDwqX2lWQZ9J"
+      "duration_ms": 238933,
+      "name": "Kabzaa Title Track (From \"Kabzaa\") [Kannada]",
+      "url": "https://open.spotify.com/track/0NwvnSaye8l3Mxg97clz7D"
+    },
+    {
+      "added_at": "2023-04-22 12:00:26",
+      "album": {
+        "name": "Male Munidare Santa (From \"Sreemanta\")",
+        "url": "https://open.spotify.com/album/6HsKeiIqC6VIQ77RGJ41cA"
+      },
+      "artists": [
+        {
+          "name": "Hamsalekha",
+          "url": "https://open.spotify.com/artist/07sMsv3cwvQp3pi8zxR08S"
+        },
+        {
+          "name": "S. P. Balasubramanyam",
+          "url": "https://open.spotify.com/artist/4Rg1q6cx7uNPRbquQdLgyu"
+        }
+      ],
+      "duration_ms": 311239,
+      "name": "Male Munidare Santa (From \"Sreemanta\")",
+      "url": "https://open.spotify.com/track/4k1bphAfFqlfkN6nbWGo3t"
+    },
+    {
+      "added_at": "2023-04-22 12:00:46",
+      "album": {
+        "name": "Shivani (From \"Kousalya Supraja Rama\") - Single",
+        "url": "https://open.spotify.com/album/42b0JVNY9itjdQcJNBSOjd"
+      },
+      "artists": [
+        {
+          "name": "Nishan Rai",
+          "url": "https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy"
+        },
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Shashank",
+          "url": "https://open.spotify.com/artist/37yERfVx2mLLJAVigQekAN"
+        }
+      ],
+      "duration_ms": 202153,
+      "name": "Shivani (From \"Kousalya Supraja Rama\")",
+      "url": "https://open.spotify.com/track/28aOMbbEz3NpMmW6LOBDkE"
     },
     {
       "added_at": "2023-04-13 06:35:39",

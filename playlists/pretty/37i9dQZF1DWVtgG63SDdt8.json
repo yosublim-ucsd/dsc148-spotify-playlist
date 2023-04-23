@@ -1,6 +1,6 @@
 {
   "description": "The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music.  Cover:  <a href=\"https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH?si=a4c65100c2c2430e\">Sarah Kroger</a>",
-  "num_followers": 288668,
+  "num_followers": 288765,
   "original_name": "New Music Friday Christian",
   "owner": {
     "name": "Spotify",
@@ -893,7 +893,7 @@
         }
       ],
       "duration_ms": 384519,
-      "name": "Clay",
+      "name": "Clay - Single Version",
       "url": "https://open.spotify.com/track/3paXzK67mh2b4TLCFkwjrN"
     },
     {
@@ -971,17 +971,25 @@
     {
       "added_at": "2023-04-21 11:10:34",
       "album": {
-        "name": "Verge of a Miracle (Live)",
+        "name": "Verge of a Miracle (feat. Danielle Munizzi) [Live]",
         "url": "https://open.spotify.com/album/1Qesw5ep6UkfCBQwhDq0MR"
       },
       "artists": [
         {
           "name": "Metro Life Worship",
           "url": "https://open.spotify.com/artist/7KkrNnMiMaKtIY87vYGGNK"
+        },
+        {
+          "name": "Mary Alessi",
+          "url": "https://open.spotify.com/artist/2UIP3nP9br1L5Gu2OFE5F2"
+        },
+        {
+          "name": "Danielle Munizzi",
+          "url": "https://open.spotify.com/artist/7L6CGixk79d0u82EEfoGYQ"
         }
       ],
       "duration_ms": 342377,
-      "name": "Verge of a Miracle - Live",
+      "name": "Verge of a Miracle (feat. Danielle Munizzi) - Live",
       "url": "https://open.spotify.com/track/0xiNUYxC3yhWbuXn2cy7cE"
     },
     {

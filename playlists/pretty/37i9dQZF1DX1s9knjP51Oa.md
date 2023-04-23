@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 
 > Relaxing piano to help you find calm and stillness within.
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,331 likes - 300 songs - 12 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 827,343 likes - 300 songs - 12 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 26 | [The Slow Down](https://open.spotify.com/track/6aJr5IVYDQ7tffAm8MhG7G) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [The Slow Down](https://open.spotify.com/album/1SWBVisYgwJoj0e3Xiu0Db) | 2:09 |
 | 27 | [Segments in Time](https://open.spotify.com/track/4od4sgAzoqR9y3ybPnnmrV) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Segments in Time](https://open.spotify.com/album/2YmgSU0GPxxGsqlz5h6oCZ) | 2:06 |
 | 28 | [Vardo](https://open.spotify.com/track/0pc9BoEkAuNoAcHyQcZ28E) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Vardo](https://open.spotify.com/album/38TZDlWd5JHe6p75JyC035) | 2:28 |
-| 29 | [Night](https://open.spotify.com/track/6gP1lRXjWOCwkwOiuhITvm) | [Coeur](https://open.spotify.com/artist/5YRwec5e32jsHSKX1nKHEO) | [Night](https://open.spotify.com/album/16kvMhddZV5tUTCrVcOdRX) | 2:28 |
+| 29 | [Night](https://open.spotify.com/track/6gP1lRXjWOCwkwOiuhITvm) | [Coeur](https://open.spotify.com/artist/6YhMR3gGjIbtHlskODqCUd) | [Night](https://open.spotify.com/album/16kvMhddZV5tUTCrVcOdRX) | 2:28 |
 | 30 | [Morning Stroll](https://open.spotify.com/track/4RojRunkpA8Hmk4hJHCeZw) | [Felicia Frank](https://open.spotify.com/artist/0PTGQLNvvo5UJQOMxBXcaA) | [Morning Stroll](https://open.spotify.com/album/6iovmi4dOraYV7GiOP4Chl) | 2:44 |
 | 31 | [For the Love of You](https://open.spotify.com/track/7hJHeX4A3TdI0cDElWu3Zk) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [For the Love of You](https://open.spotify.com/album/3IOVFUsrtTjyseXEaKNMvr) | 1:47 |
 | 32 | [Cygne Noir](https://open.spotify.com/track/5BxHusXv0AvPFlm0wGbYv3) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Cygne Noir](https://open.spotify.com/album/5HHvADWAbDJvs9HJGNCQl1) | 2:58 |

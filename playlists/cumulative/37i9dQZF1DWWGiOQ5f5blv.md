@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the drama Doctor Cha\. \(드라마 닥터 차정숙의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs  selected by the cast\. \(배우들이  직접 선정한 곡들도 들어보실 수 있습니다.\)
 
-46 songs - 2 hr 45 min
+48 songs - 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,8 @@
 | [No.1](https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [No.1 \- The 2nd Album](https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz) | 3:13 | 2023-04-21 |  |
 | [Royal Blue](https://open.spotify.com/track/7yvSOgDR61vayE6KjtsLWt) | [250](https://open.spotify.com/artist/0ePKWgwmESq5970Hq1c3yE) | [PPONG](https://open.spotify.com/album/6A5LaZtfa7OvC3lDZFg5k4) | 4:37 | 2023-04-21 |  |
 | [Second \(feat\. BIBI\)](https://open.spotify.com/track/4ghTyKLeMMTZQ85LwRbej0) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Second](https://open.spotify.com/album/0Nck83Sjn5RfHsITpO8GuZ) | 3:38 | 2023-04-21 |  |
+| [Shine Like a Star](https://open.spotify.com/track/3wd5NszvPwHQs3iMH2GSmB) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/1UqsxHnWTmlyYgKHFTGWUX) | 2:43 | 2023-04-22 |  |
+| [Shine Like a Star \- Instrumental](https://open.spotify.com/track/2LlAjmC9tzqtB7ni4mtXxh) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/1UqsxHnWTmlyYgKHFTGWUX) | 2:43 | 2023-04-22 |  |
 | [Song Is Universal](https://open.spotify.com/track/261levqvyy1gnEuMut93Pi) | [Broccoli, you too?](https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j) | [No More Encore.](https://open.spotify.com/album/2utEmutXyshGTAiom7eRBB) | 7:02 | 2023-04-21 |  |
 | [Song of Ha Ha Ha](https://open.spotify.com/track/7JExsx3xFQhEs63fP0V7Xu) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [All You Need Is Love](https://open.spotify.com/album/4c8k1xAs85AWq6npv9NYZj) | 3:14 | 2023-04-21 |  |
 | [Spring Breeze \(feat.Naul of Brown Eyed Soul\)](https://open.spotify.com/track/2LD3U3IY43B9wIW7V1DEiO) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq), [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [NEW DIRECTION](https://open.spotify.com/album/1Un7DnzEdn9Q5RrTDGilJ5) | 3:36 | 2023-04-21 |  |

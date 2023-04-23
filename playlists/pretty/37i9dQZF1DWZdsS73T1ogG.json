@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: vf7",
-  "num_followers": 516298,
+  "num_followers": 516316,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA2MTM1NCwwMDAwMDAwMDY3NmJkMjBiNGIxNzFiOWEwN2RkOWIyMmYyZTIzZDNm",
+  "snapshot_id": "MTY4MjA2MTM1NCwwMDAwMDAwMDg3NmNmZjZhYThlYWNiMjEyMDBiNGE2NzJiMDliYzAy",
   "tracks": [
     {
       "added_at": "2023-04-21 07:15:54",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-04-21 07:15:54",
       "album": {
+        "name": "Jagger.mp3",
+        "url": "https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 155861,
+      "name": "Jagger.mp3",
+      "url": "https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI"
+    },
+    {
+      "added_at": "2023-04-21 07:15:54",
+      "album": {
         "name": "LA HORA Y EL D\u00cdA",
         "url": "https://open.spotify.com/album/3AucKVb9GvQ4pOGaZ8UhFK"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 169258,
       "name": "hARAkiRi",
       "url": "https://open.spotify.com/track/4m0ypZ1c1l0WulMk3fkVA0"
-    },
-    {
-      "added_at": "2023-04-21 07:15:54",
-      "album": {
-        "name": "Jagger.mp3",
-        "url": "https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 155861,
-      "name": "Jagger.mp3",
-      "url": "https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI"
     },
     {
       "added_at": "2023-04-21 07:15:54",
@@ -927,6 +927,26 @@
     {
       "added_at": "2023-04-21 07:15:54",
       "album": {
+        "name": "Brinca",
+        "url": "https://open.spotify.com/album/4jLqHMNoB6G1idIYYwrtgH"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Brinca",
+      "url": "https://open.spotify.com/track/2T9GW5NdmBnz5ZlDkmMZZS"
+    },
+    {
+      "added_at": "2023-04-21 07:15:54",
+      "album": {
         "name": "En Bajita",
         "url": "https://open.spotify.com/album/77hesD3v2jWR2dnhElz9Yp"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 209302,
       "name": "En Bajita",
       "url": "https://open.spotify.com/track/5K9VzfSr7L34rMMJxe8ndg"
-    },
-    {
-      "added_at": "2023-04-21 07:15:54",
-      "album": {
-        "name": "Brinca",
-        "url": "https://open.spotify.com/album/4jLqHMNoB6G1idIYYwrtgH"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "Brinca",
-      "url": "https://open.spotify.com/track/2T9GW5NdmBnz5ZlDkmMZZS"
     },
     {
       "added_at": "2023-04-21 07:15:54",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-04-21 07:15:54",
       "album": {
+        "name": "Su Altura",
+        "url": "https://open.spotify.com/album/01Q6s2xUyvHYC2SAW1spjs"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 181044,
+      "name": "Su Altura",
+      "url": "https://open.spotify.com/track/3bclq6OXFKMmFaUoFLbO8E"
+    },
+    {
+      "added_at": "2023-04-21 07:15:54",
+      "album": {
         "name": "AFTER PARTY",
         "url": "https://open.spotify.com/album/2kNNMnHh6XovIPMNA2mIzU"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 210680,
       "name": "AFTER PARTY",
       "url": "https://open.spotify.com/track/2dJBk3D3vAqj3hnULBYny6"
-    },
-    {
-      "added_at": "2023-04-21 07:15:54",
-      "album": {
-        "name": "Su Altura",
-        "url": "https://open.spotify.com/album/01Q6s2xUyvHYC2SAW1spjs"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 181044,
-      "name": "Su Altura",
-      "url": "https://open.spotify.com/track/3bclq6OXFKMmFaUoFLbO8E"
     },
     {
       "added_at": "2023-04-21 07:15:54",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2023-04-21 07:15:54",
       "album": {
-        "name": "Ganas de Verte",
-        "url": "https://open.spotify.com/album/3TesP5MzNjC4SWoE48o7Vz"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        }
-      ],
-      "duration_ms": 229728,
-      "name": "Ganas de Verte",
-      "url": "https://open.spotify.com/track/0nE78Bc5Azu5kWum01TmKR"
-    },
-    {
-      "added_at": "2023-04-21 07:15:54",
-      "album": {
         "name": "D X VIDA",
         "url": "https://open.spotify.com/album/5kr54C0vWd6aZq3IarPMdk"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 182576,
       "name": "D X VIDA",
       "url": "https://open.spotify.com/track/3Eir8UUB1pFuaarEsAWBWS"
+    },
+    {
+      "added_at": "2023-04-21 07:15:54",
+      "album": {
+        "name": "Ganas de Verte",
+        "url": "https://open.spotify.com/album/3TesP5MzNjC4SWoE48o7Vz"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "duration_ms": 229728,
+      "name": "Ganas de Verte",
+      "url": "https://open.spotify.com/track/0nE78Bc5Azu5kWum01TmKR"
     },
     {
       "added_at": "2023-04-21 07:15:54",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2023-04-21 07:15:54",
       "album": {
-        "name": "M\u00e1s de Ti",
-        "url": "https://open.spotify.com/album/3ctAvZOveQs5Vvn952hDyv"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Randy",
-          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
-        }
-      ],
-      "duration_ms": 266835,
-      "name": "M\u00e1s de Ti",
-      "url": "https://open.spotify.com/track/0DrpPAfbRHtPkBgfTZhTM9"
-    },
-    {
-      "added_at": "2023-04-21 07:15:54",
-      "album": {
         "name": "te kiero ver",
         "url": "https://open.spotify.com/album/3Rq86WgPd26s4M9xTzieGg"
       },
@@ -1291,22 +1271,42 @@
     {
       "added_at": "2023-04-21 07:15:54",
       "album": {
-        "name": "En La Intimidad",
-        "url": "https://open.spotify.com/album/0O7dhX2Oj4DK7RTQQX1GsL"
+        "name": "Me Pone Mal",
+        "url": "https://open.spotify.com/album/7aJJYJalxCJx6kNLINcR9y"
       },
       "artists": [
         {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         },
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
         }
       ],
-      "duration_ms": 225054,
-      "name": "En La Intimidad",
-      "url": "https://open.spotify.com/track/1EmVyH2yt5PEMm4hVftZ6d"
+      "duration_ms": 177667,
+      "name": "Me Pone Mal",
+      "url": "https://open.spotify.com/track/1i7WoaZrt8jGH9vM0GKYdn"
+    },
+    {
+      "added_at": "2023-04-21 07:15:54",
+      "album": {
+        "name": "M\u00e1s de Ti",
+        "url": "https://open.spotify.com/album/3ctAvZOveQs5Vvn952hDyv"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        }
+      ],
+      "duration_ms": 266835,
+      "name": "M\u00e1s de Ti",
+      "url": "https://open.spotify.com/track/0DrpPAfbRHtPkBgfTZhTM9"
     },
     {
       "added_at": "2023-04-21 07:15:54",
@@ -1339,22 +1339,22 @@
     {
       "added_at": "2023-04-21 07:15:54",
       "album": {
-        "name": "Me Pone Mal",
-        "url": "https://open.spotify.com/album/7aJJYJalxCJx6kNLINcR9y"
+        "name": "En La Intimidad",
+        "url": "https://open.spotify.com/album/0O7dhX2Oj4DK7RTQQX1GsL"
       },
       "artists": [
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
         },
         {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 177667,
-      "name": "Me Pone Mal",
-      "url": "https://open.spotify.com/track/1i7WoaZrt8jGH9vM0GKYdn"
+      "duration_ms": 225054,
+      "name": "En La Intimidad",
+      "url": "https://open.spotify.com/track/1EmVyH2yt5PEMm4hVftZ6d"
     },
     {
       "added_at": "2023-04-21 07:15:54",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-04-21 07:15:54",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/4AcTenx2Op3VL7XJ4zRLjl"
-      },
-      "artists": [
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 206645,
-      "name": "7",
-      "url": "https://open.spotify.com/track/4xrsV0Sy36rxEYoyDoz11a"
-    },
-    {
-      "added_at": "2023-04-21 07:15:54",
-      "album": {
         "name": "Aunque Me Caigo Me Paro",
         "url": "https://open.spotify.com/album/4C0T20K8J4UIVt8jOjjgNG"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 181604,
       "name": "Aunque Me Caigo Me Paro",
       "url": "https://open.spotify.com/track/3zW8kxLiE0L7KZLz6TZzVF"
+    },
+    {
+      "added_at": "2023-04-21 07:15:54",
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/4AcTenx2Op3VL7XJ4zRLjl"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 206645,
+      "name": "7",
+      "url": "https://open.spotify.com/track/4xrsV0Sy36rxEYoyDoz11a"
     },
     {
       "added_at": "2023-04-21 07:15:54",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-04-21 07:15:54",
       "album": {
-        "name": "Down",
-        "url": "https://open.spotify.com/album/4d2O4fr026apliDVapi0j0"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 164494,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/70o0EBxSSXpd2qcI74S9uR"
-    },
-    {
-      "added_at": "2023-04-21 07:15:54",
-      "album": {
         "name": "Wuapa",
         "url": "https://open.spotify.com/album/1jGVjqkgkhhwXDwjU988gW"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 187636,
       "name": "Wuapa",
       "url": "https://open.spotify.com/track/1GXZJCOFcyGpvUEqq7qxiY"
+    },
+    {
+      "added_at": "2023-04-21 07:15:54",
+      "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/4d2O4fr026apliDVapi0j0"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 164494,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/70o0EBxSSXpd2qcI74S9uR"
     },
     {
       "added_at": "2023-04-21 07:15:54",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-04-21 07:15:54",
       "album": {
+        "name": "Drugz Education",
+        "url": "https://open.spotify.com/album/3ihpKL9ZDwPmZ3tUAbjZhg"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 193161,
+      "name": "Drugz Education",
+      "url": "https://open.spotify.com/track/6ktSVyVGBWnIjIXTlS8FX8"
+    },
+    {
+      "added_at": "2023-04-21 07:15:54",
+      "album": {
         "name": "MARTINI",
         "url": "https://open.spotify.com/album/7m5EsYbaRK4g6DQvmidbd5"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 185210,
       "name": "MARTINI",
       "url": "https://open.spotify.com/track/6gsAVrXRQvry6mzcobdULV"
-    },
-    {
-      "added_at": "2023-04-21 07:15:54",
-      "album": {
-        "name": "Drugz Education",
-        "url": "https://open.spotify.com/album/3ihpKL9ZDwPmZ3tUAbjZhg"
-      },
-      "artists": [
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 193161,
-      "name": "Drugz Education",
-      "url": "https://open.spotify.com/track/6ktSVyVGBWnIjIXTlS8FX8"
     },
     {
       "added_at": "2023-04-21 07:15:54",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2023-04-21 07:15:54",
       "album": {
-        "name": "Twerk",
-        "url": "https://open.spotify.com/album/5DBAnbo3V3KnEf6Gvkq5Ua"
-      },
-      "artists": [
-        {
-          "name": "Hozwal",
-          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
-        },
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        }
-      ],
-      "duration_ms": 160128,
-      "name": "Twerk",
-      "url": "https://open.spotify.com/track/4RChFXDIxsaWg8QTkpSWlo"
-    },
-    {
-      "added_at": "2023-04-21 07:15:54",
-      "album": {
         "name": "Malabu",
         "url": "https://open.spotify.com/album/6lZyKKjwxqciNXhikIj75A"
       },
@@ -1667,6 +1647,26 @@
       "duration_ms": 168855,
       "name": "Malabu",
       "url": "https://open.spotify.com/track/6cIDPdoQ9RaKT9raNW6TsJ"
+    },
+    {
+      "added_at": "2023-04-21 07:15:54",
+      "album": {
+        "name": "Twerk",
+        "url": "https://open.spotify.com/album/5DBAnbo3V3KnEf6Gvkq5Ua"
+      },
+      "artists": [
+        {
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        },
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        }
+      ],
+      "duration_ms": 160128,
+      "name": "Twerk",
+      "url": "https://open.spotify.com/track/4RChFXDIxsaWg8QTkpSWlo"
     },
     {
       "added_at": "2023-04-21 07:15:54",
@@ -1859,26 +1859,6 @@
     {
       "added_at": "2023-04-21 07:15:54",
       "album": {
-        "name": "Sin Ropa",
-        "url": "https://open.spotify.com/album/2UUSErYubfINqZTcUaizo2"
-      },
-      "artists": [
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        }
-      ],
-      "duration_ms": 187951,
-      "name": "Sin Ropa",
-      "url": "https://open.spotify.com/track/65zzffhSKrsRdFixsTKsyk"
-    },
-    {
-      "added_at": "2023-04-21 07:15:54",
-      "album": {
         "name": "UuU",
         "url": "https://open.spotify.com/album/0Bv985mz2ttFowbxdfJZHq"
       },
@@ -1895,6 +1875,26 @@
       "duration_ms": 175840,
       "name": "UuU",
       "url": "https://open.spotify.com/track/2HNLYWAbTkk0qvOlCz0aT2"
+    },
+    {
+      "added_at": "2023-04-21 07:15:54",
+      "album": {
+        "name": "Sin Ropa",
+        "url": "https://open.spotify.com/album/2UUSErYubfINqZTcUaizo2"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        }
+      ],
+      "duration_ms": 187951,
+      "name": "Sin Ropa",
+      "url": "https://open.spotify.com/track/65zzffhSKrsRdFixsTKsyk"
     },
     {
       "added_at": "2023-04-21 07:15:54",

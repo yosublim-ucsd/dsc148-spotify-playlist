@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 
 > A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: Drake 🦉
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,109 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,172 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 70 | [JUNGLE](https://open.spotify.com/track/2XHUkLHYKnkBzV4xppzeOx) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [BECAUSE WE'RE ALIVE](https://open.spotify.com/album/6wZMRN2p4tG53w6ixx16wS) | 2:34 |
 | 71 | [Frontin' Like Pharrell](https://open.spotify.com/track/2evdaJj8y2xdWuCTBroDqw) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [2020 the Album](https://open.spotify.com/album/4DvUwAekSAB7Uo1ue07Kmp) | 2:54 |
 | 72 | [Here it Goes](https://open.spotify.com/track/0TGWqVxhdfAyRHTqF3fsYo) | [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Here it Goes](https://open.spotify.com/album/1p93XxxZlLPV5O7kVC64jO) | 3:09 |
-| 73 | [Sleep Like A Baby](https://open.spotify.com/track/2jpmO8XlofmTA3mXul68gK) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4), [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [Adult Supervision](https://open.spotify.com/album/5bM9enlXLb0rtI6aj6QHlS) | 2:46 |
-| 74 | [No Favours](https://open.spotify.com/track/2eTCpNzqUkZB6hsHE2hdki) | [TallupTwinz](https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL), [Burna Bandz](https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ), [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm) | [Northside Jane](https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH) | 3:41 |
+| 73 | [No Favours](https://open.spotify.com/track/2eTCpNzqUkZB6hsHE2hdki) | [TallupTwinz](https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL), [Burna Bandz](https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ), [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm) | [Northside Jane](https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH) | 3:41 |
+| 74 | [Sleep Like A Baby](https://open.spotify.com/track/2jpmO8XlofmTA3mXul68gK) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4), [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [Adult Supervision](https://open.spotify.com/album/5bM9enlXLb0rtI6aj6QHlS) | 2:46 |
 | 75 | [Laughed To Myself](https://open.spotify.com/track/48105SIhfCIKOV4CtZLF7G) | [Velow](https://open.spotify.com/artist/2UOHBwSdgEwpUgbRDkY8mA) | [Laughed To Myself](https://open.spotify.com/album/7Jvfr3yFzAtIgT3XaZ9Awl) | 2:43 |
 
-Snapshot ID: `MTY4MjA0OTY2MCwwMDAwMDAwMGNjNzBhMWRiYTc1MjZlNzNjNWMxZmUxNDBhMjQxODA3`
+Snapshot ID: `MTY4MjA0OTY2MCwwMDAwMDAwMDYzYmQ1NzQwNjQxMGFhMzIxMjM3OTBkMDhjYjAyNjU5`

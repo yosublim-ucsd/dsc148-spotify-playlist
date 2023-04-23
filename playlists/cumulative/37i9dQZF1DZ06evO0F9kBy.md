@@ -4,7 +4,7 @@
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-68 songs - 4 hr 57 min
+69 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Because He Lives \(Amen\)](https://open.spotify.com/track/1kQRahBqpKWMAhsoqfEETp) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Saints and Sinners](https://open.spotify.com/album/3fUDl6gGOYO988EtcQmwdi) | 3:20 | 2022-10-18 |  |
 | [Because He Lives \(Amen\) \- \[Live\]](https://open.spotify.com/track/0UIy96vF75u1ebFFmop49Y) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing Vol\. 2](https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk) | 3:49 | 2022-09-14 |  |
 | [Better Is One Day](https://open.spotify.com/track/4B7IRlv7hkdyEOaqQ52zFD) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The End and the Beginning](https://open.spotify.com/album/5erUuY58NJRbEGZexSoItl) | 4:26 | 2022-09-14 | 2022-10-01 |
-| [Better Off Broken \(feat\. Ryan Ellis\)](https://open.spotify.com/track/6tJPjbZqyjA2gs78XJQMna) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 3:27 | 2022-10-29 |  |
+| [Better Off Broken \(feat\. Ryan Ellis\)](https://open.spotify.com/track/6tJPjbZqyjA2gs78XJQMna) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 3:27 | 2022-10-29 | 2023-04-23 |
 | [Bigger Table](https://open.spotify.com/track/76LbmiM3FBV5mGMB7GXrPw) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Bigger Table](https://open.spotify.com/album/0NAx57507JN5OrI7NE5hSH) | 3:54 | 2022-09-14 |  |
 | [Bless The One \- Live](https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [SPACE](https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw) | 4:58 | 2022-09-14 |  |
 | [Borrowed Time](https://open.spotify.com/track/5dePXcixOAITAskyqkKe7O) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Saints and Sinners](https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP) | 3:38 | 2022-09-15 | 2022-09-17 |
@@ -69,6 +69,7 @@
 | [The Joy of Jesus \(feat\. Matt Maher, Mac Powell & Ellie Holcomb\) \(feat\. Matt Maher, Mac Powell & Ellie Holcomb\)](https://open.spotify.com/track/39fnCT2BL54nizLunoGOzQ) | [Rich Mullins](https://open.spotify.com/artist/13UhfW7GPizrArBwq7ugps), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [The Joy of Jesus \(feat\. Matt Maher, Mac Powell & Ellie Holcomb\) \(feat\. Matt Maher, Mac Powell & Ellie Holcomb\)](https://open.spotify.com/album/2LeVGsWiMyhdTpiNctU5LZ) | 2:37 | 2022-09-14 |  |
 | [The Lord's Prayer \(It's Yours\)](https://open.spotify.com/track/4x2z65CsWpM2Kuxt2RQ8rj) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Lord's Prayer \(It's Yours\)](https://open.spotify.com/album/2p61gKnDqDezHXQZC92oU5) | 3:23 | 2022-09-14 |  |
 | [The Stories I Tell Myself](https://open.spotify.com/track/1UJkVw5TWwJDyMQp0VhQxP) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Stories I Tell Myself](https://open.spotify.com/album/6b008GE6li0fwoIQdjzWpv) | 3:53 | 2022-09-14 |  |
+| [The Way You Love Me](https://open.spotify.com/track/1X6DdAapNhXKQemy5R6WNW) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 3:18 | 2023-04-22 |  |
 | [The Way You Love Me](https://open.spotify.com/track/5tJ4nghSBgH06CCqQzE1hd) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Way You Love Me](https://open.spotify.com/album/3qaxWqwTnFxw6VxGilFJbJ) | 3:18 | 2022-10-09 | 2023-03-08 |
 | [Unconditional \- Live](https://open.spotify.com/track/2oj68EY5FBOuXHjvauvKik) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Lamb of God \(Live\)](https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1) | 6:15 | 2023-02-21 |  |
 | [What a Friend](https://open.spotify.com/track/7ozWDT47HkfCmbNGgMorU8) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:17 | 2022-09-14 |  |

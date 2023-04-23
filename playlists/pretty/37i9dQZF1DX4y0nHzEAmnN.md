@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 
 > Las partes aburridas del día pueden ser divertidas con música\. ¡En Inglés y Español!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,325 likes - 50 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,326 likes - 50 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 2 | [Brush Your Teeth](https://open.spotify.com/track/1NtMwloRp8OIVwWGipngkw) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Singable Songs for the Very Young](https://open.spotify.com/album/3U5LJdhLG5ZxKkbHbNCyGH) | 1:12 |
 | 3 | [Tres Pecesitos](https://open.spotify.com/track/7depgXySK1EO7lIjnbFPav) | [Muñequitas Elizabeth](https://open.spotify.com/artist/1SyPH4ZiGzMG2nBSdX0VwS) | [20 Éxitos 20 Aniversario](https://open.spotify.com/album/5yMrbHsMkW16azJB96x3tB) | 1:07 |
 | 4 | [No Me Quiero Bañar](https://open.spotify.com/track/1q1kUQzASshxcEb5jcMWeO) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Salta Sin Parar](https://open.spotify.com/album/6ZHDbA5xHesrQC8IvKQhrg) | 3:40 |
-| 5 | [Baile del marinero](https://open.spotify.com/track/4MCWEpke2vLhcS96ZK88oo) | [Duo Tiempo de Sol](https://open.spotify.com/artist/58IHn7WX5UYrLG9BhjAiEA) | [20 Grandes Éxitos](https://open.spotify.com/album/0y5nHLqrkcPducSd8QRISi) | 2:34 |
-| 6 | [Drivin' in My Car](https://open.spotify.com/track/0oFzsGRIzjGaHfTZTSCBlW) | [Ralph's World](https://open.spotify.com/artist/4qIIexaFmYNueu5mnSQnzU) | [Ralph's World](https://open.spotify.com/album/5wKoYzvE2R6xGvbw5tkWQa) | 2:49 |
+| 5 | [Drivin' in My Car](https://open.spotify.com/track/0oFzsGRIzjGaHfTZTSCBlW) | [Ralph's World](https://open.spotify.com/artist/4qIIexaFmYNueu5mnSQnzU) | [Ralph's World](https://open.spotify.com/album/5wKoYzvE2R6xGvbw5tkWQa) | 2:49 |
+| 6 | [Baile del marinero](https://open.spotify.com/track/4MCWEpke2vLhcS96ZK88oo) | [Duo Tiempo de Sol](https://open.spotify.com/artist/58IHn7WX5UYrLG9BhjAiEA) | [20 Grandes Éxitos](https://open.spotify.com/album/0y5nHLqrkcPducSd8QRISi) | 2:34 |
 | 7 | [Bate Con La Cucharita](https://open.spotify.com/track/7H3ELsx12mCquQRYs4v7YP) | [Canticuénticos](https://open.spotify.com/artist/0Ochpv3RZ8qvqUcJFn2tMr) | [Algo Que Decirte](https://open.spotify.com/album/2wXtS4ELgf5cab27G8Yqqf) | 2:45 |
 | 8 | [La Merienda \- Remasterizado](https://open.spotify.com/track/2tvxS6fcbjWTSdFyOIdQqR) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 2:43 |
 | 9 | [Let's Get Ready!](https://open.spotify.com/track/3OYHw99STxBfqoBEov2M5F) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u) | 2:05 |
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 12 | [Todos a Moverse](https://open.spotify.com/track/2qDZD2UljoMNasceWl4qg9) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:42 |
 | 13 | [The Hand Washing Song](https://open.spotify.com/track/4CxHoh9FDpv8z6tx0F5RVl) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [The Hand Washing Song](https://open.spotify.com/album/5n1id3LSVpPphLIpQ4wSXb) | 2:37 |
 | 14 | [Wash Your Hands with Baby Shark](https://open.spotify.com/track/5hf6QzXXpaJOzS7UHMXCXQ) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Wash Your Hands with Baby Shark](https://open.spotify.com/album/3Fjfrc6xmbPee9QPHBKPZC) | 1:27 |
-| 15 | [Canción para la hora del baño \(Agua, jabón\)](https://open.spotify.com/track/530Obi3SgOJuKe3H4OzLSq) | [Nene León](https://open.spotify.com/artist/77KB559uFak8dFDQNrfz6q) | [Canciones Infantiles, Vol\. 2](https://open.spotify.com/album/2uMGB4cOYTat3Z5mJmydNE) | 1:32 |
-| 16 | [Clean Up Your Toys](https://open.spotify.com/track/55mGuJIzV9aTW85NXs4FQ8) | [We Kids Rock](https://open.spotify.com/artist/11w4XkomQWLgLIcx90igCT) | [Let The Sun Shine](https://open.spotify.com/album/5abWJo4J0NxR4pVgkkjHCx) | 1:49 |
+| 15 | [Clean Up Your Toys](https://open.spotify.com/track/55mGuJIzV9aTW85NXs4FQ8) | [We Kids Rock](https://open.spotify.com/artist/11w4XkomQWLgLIcx90igCT) | [Let The Sun Shine](https://open.spotify.com/album/5abWJo4J0NxR4pVgkkjHCx) | 1:49 |
+| 16 | [Canción para la hora del baño \(Agua, jabón\)](https://open.spotify.com/track/530Obi3SgOJuKe3H4OzLSq) | [Nene León](https://open.spotify.com/artist/77KB559uFak8dFDQNrfz6q) | [Canciones Infantiles, Vol\. 2](https://open.spotify.com/album/2uMGB4cOYTat3Z5mJmydNE) | 1:32 |
 | 17 | [Family Time](https://open.spotify.com/track/1GLfy1ihm081aOruK0uZU0) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/5i2M6J3BUEclSo3kRVfeP2) | 4:20 |
 | 18 | [Mi Merienda](https://open.spotify.com/track/4G5XxbE4p0D6sg5i0F2bBR) | [Gallina Pintadita](https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq) | [Gallina Pintadita, Vol\. 2](https://open.spotify.com/album/20yyfAYcXHX47C2sqkuBmF) | 1:59 |
 | 19 | [El Juego de las Verduras](https://open.spotify.com/track/7htnCgZlRosLtszzgGQXeB) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 49 | [Snack Time \(Juice and Cookies\)](https://open.spotify.com/track/0he5JaHRZGio2iZOwwxe0N) | [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Sesame Street's Olivia](https://open.spotify.com/artist/5rYht0MbgC4BBWy5sMxeGr) | [Sesame Street: Getting Ready for School](https://open.spotify.com/album/1cTBGtVBDegjOQcR6Ou4NM) | 1:33 |
 | 50 | [I Always Sit When I Eat](https://open.spotify.com/track/7Gmhedp0ne4neq1BgNHClT) | [Moey](https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs) | [Moey's Music Party](https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU) | 2:09 |
 
-Snapshot ID: `MTY3OTA0NjE4MywwMDAwMDAwMDk5MzllYTQ1ODY2OGJlMGQ3NzhkODRjMDZiODMyMzg3`
+Snapshot ID: `MTY3OTA0NjE4MywwMDAwMDAwMDM2ZmFkZTk3NDk0NTk0MTk0ZTcwZmVlZmZiM2Y3MzVi`

@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-223 songs - 13 hr 51 min
+224 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Lady](https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:46 | 2022-03-11 | 2023-02-25 |
 | [Last Request](https://open.spotify.com/track/3t3jjmmEisYLguDIgpVj53) | [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z) | [The Anthology](https://open.spotify.com/album/12cGytJRlgjkILDYLB7tdD) | 5:35 | 2021-12-03 | 2022-07-29 |
 | [Let Me Go](https://open.spotify.com/track/3ym8ajVmKm6Fybgov3WBI5) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:36 | 2023-04-08 |  |
+| [Like a Ship \- Live from Strange Manor](https://open.spotify.com/track/6J6InHh9eVYIxva60QTB5e) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Like a Ship \(Live from Strange Manor\)](https://open.spotify.com/album/3i25lVb7GBHyj4YO7L7ki7) | 5:12 | 2023-04-07 |  |
 | [Like You'll Never See Me Again](https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Like You'll Never See Me Again](https://open.spotify.com/album/5jXpTr504jjizPvcn9FnZP) | 3:58 | 2021-12-03 | 2023-04-09 |
 | [Louie Bag \(feat\. Smino\)](https://open.spotify.com/track/01foHKHazVkkbW9hcAY2X4) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Louie Bag \(feat\. Smino\)](https://open.spotify.com/album/5YSsyOHQhrpqYW32YvGtMQ) | 3:47 | 2021-12-03 | 2022-10-04 |
 | [Love \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/2K5CdJb1IkAlsT108wRxYP) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 2:53 | 2022-09-09 |  |
@@ -227,7 +228,7 @@
 | [When You Were Mine](https://open.spotify.com/track/3zSwFE91EdwhEwS6vnJohB) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:23 | 2021-12-03 | 2023-04-01 |
 | [Why \(Spare Me Tears\)](https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Why \(Spare Me Tears\)](https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM) | 3:25 | 2022-11-04 |  |
 | [With You](https://open.spotify.com/track/63LhjHIJFprgGjfxhuhF4K) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [a tree planted by water](https://open.spotify.com/album/5bl22ODAmnzfJ35n52vAQB) | 3:09 | 2021-12-03 | 2022-11-05 |
-| [without you](https://open.spotify.com/track/25mOPkAn5kz8vqi6Oh6rLV) | [Secily](https://open.spotify.com/artist/32eZd7DKXr4eQTWqWRHGe2) | [without you](https://open.spotify.com/album/003wacHGqIo43x8Qsetg7z) | 2:56 | 2022-09-30 |  |
+| [without you](https://open.spotify.com/track/25mOPkAn5kz8vqi6Oh6rLV) | [Secily](https://open.spotify.com/artist/32eZd7DKXr4eQTWqWRHGe2) | [without you](https://open.spotify.com/album/003wacHGqIo43x8Qsetg7z) | 2:56 | 2022-09-30 | 2023-04-23 |
 | [Yellow Cabi](https://open.spotify.com/track/4NzDQkPYgeNrE2Q5UB5KQO) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [An Orange Colored Day](https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o) | 1:57 | 2022-10-07 | 2022-10-15 |
 | [You Got This](https://open.spotify.com/track/6uI4xbZ7ASvRO9oEVZfZPF) | [Peter Collins](https://open.spotify.com/artist/7DpuhYociyFsr9lp4Ifmy8) | [enLIGHTened](https://open.spotify.com/album/4klK7oTdo6DCUIuttcEJrh) | 3:44 | 2022-11-04 |  |
 | [Your Love Is King](https://open.spotify.com/track/1j2LuIf7mv15ZVug1Xy5qz) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Diamond Life](https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0) | 3:39 | 2022-03-11 |  |

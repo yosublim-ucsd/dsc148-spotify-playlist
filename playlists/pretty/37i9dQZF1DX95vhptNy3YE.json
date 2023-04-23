@@ -1,12 +1,12 @@
 {
   "description": "Xam\u00e3, KayBlack, MC Maneirinho, Kiaz e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 196196,
+  "num_followers": 196415,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0NjA2MCwwMDAwMDAwMDE2OWY3NjhhNTg5NmFiNjliOGFiODc4NzdjZDM1ZjZk",
+  "snapshot_id": "MTY4MjA0NjA2MCwwMDAwMDAwMDBlZDg4NGY3N2U2NjNlZDRiNTQzNjk5NmZhM2I2YjBh",
   "tracks": [
     {
       "added_at": "2023-04-21 03:01:00",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "Mimos",
-        "url": "https://open.spotify.com/album/59sZdRkWb71F0pU1v8unwF"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        }
-      ],
-      "duration_ms": 200314,
-      "name": "Mimos",
-      "url": "https://open.spotify.com/track/5zSJYov8aD46ZzSWI9esQo"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
         "name": "Larga Essa Vida",
         "url": "https://open.spotify.com/album/4fraCYAYq2B7H3AsennyRp"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 119008,
       "name": "Larga Essa Vida",
       "url": "https://open.spotify.com/track/1I7rnx1blEUfgEi9owDD4C"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
+        "name": "Mimos",
+        "url": "https://open.spotify.com/album/59sZdRkWb71F0pU1v8unwF"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        }
+      ],
+      "duration_ms": 200314,
+      "name": "Mimos",
+      "url": "https://open.spotify.com/track/5zSJYov8aD46ZzSWI9esQo"
     },
     {
       "added_at": "2023-04-21 03:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 233372,
+  "num_followers": 233579,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2MTAxNCwwMDAwMDAwMGM4NGRmNmI3MmMxZWQ0ODViZjA0NWY0ZGYzNjMyY2Y3",
+  "snapshot_id": "MTY3Nzg2MTAxNCwwMDAwMDAwMDM5MTRkMWFmZDI1MzQ5NTg2Mjg0ZjQ4ZWUzODgzMzE1",
   "tracks": [
     {
       "added_at": "2022-11-18 01:42:16",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "Silver Lake by Esa Holopainen",
+        "url": "https://open.spotify.com/album/2zWSbMftaoejsLk66Rzsj4"
+      },
+      "artists": [
+        {
+          "name": "Silver Lake by Esa Holopainen",
+          "url": "https://open.spotify.com/artist/5snqVyyNcZNQPRkcTnFi4A"
+        }
+      ],
+      "duration_ms": 254368,
+      "name": "Storm",
+      "url": "https://open.spotify.com/track/5C4y8xih0UowIf9yPgSAYT"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "THE GREAT DEPRESSION",
         "url": "https://open.spotify.com/album/76psVqthi8ZmsWCHBwDJxd"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 289289,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/7y9USehMh5BWR0tWXsXJ5K"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Silver Lake by Esa Holopainen",
-        "url": "https://open.spotify.com/album/2zWSbMftaoejsLk66Rzsj4"
-      },
-      "artists": [
-        {
-          "name": "Silver Lake by Esa Holopainen",
-          "url": "https://open.spotify.com/artist/5snqVyyNcZNQPRkcTnFi4A"
-        }
-      ],
-      "duration_ms": 254368,
-      "name": "Storm",
-      "url": "https://open.spotify.com/track/5C4y8xih0UowIf9yPgSAYT"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "LXVE",
-        "url": "https://open.spotify.com/album/4WxYoN03IGMt48MxwQaLhi"
-      },
-      "artists": [
-        {
-          "name": "Stain the Canvas",
-          "url": "https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4"
-        }
-      ],
-      "duration_ms": 191301,
-      "name": "LXVE",
-      "url": "https://open.spotify.com/track/5RqMRQphaSAQekmaqRGpHH"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Heads Off",
         "url": "https://open.spotify.com/album/2sLZl4r0twETeUTk88BOU7"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 271943,
       "name": "Heads Off",
       "url": "https://open.spotify.com/track/6YscsgZWCPcceessZBN1di"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "LXVE",
+        "url": "https://open.spotify.com/album/4WxYoN03IGMt48MxwQaLhi"
+      },
+      "artists": [
+        {
+          "name": "Stain the Canvas",
+          "url": "https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4"
+        }
+      ],
+      "duration_ms": 191301,
+      "name": "LXVE",
+      "url": "https://open.spotify.com/track/5RqMRQphaSAQekmaqRGpHH"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Touch the Corpse",
-        "url": "https://open.spotify.com/album/2HTzM4EE1C2wMcY770FWWW"
-      },
-      "artists": [
-        {
-          "name": "Irving Force",
-          "url": "https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX"
-        }
-      ],
-      "duration_ms": 166948,
-      "name": "Touch the Corpse",
-      "url": "https://open.spotify.com/track/29ZSMUsptm2ZiJkSx4uVrZ"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Soul Revolution",
         "url": "https://open.spotify.com/album/4JNGZre3bq4Fgmy0zUkOel"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 214775,
       "name": "Soul Revolution",
       "url": "https://open.spotify.com/track/3OMaAVh09E6AgvevhWybRP"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Touch the Corpse",
+        "url": "https://open.spotify.com/album/2HTzM4EE1C2wMcY770FWWW"
+      },
+      "artists": [
+        {
+          "name": "Irving Force",
+          "url": "https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX"
+        }
+      ],
+      "duration_ms": 166948,
+      "name": "Touch the Corpse",
+      "url": "https://open.spotify.com/track/29ZSMUsptm2ZiJkSx4uVrZ"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "The Weight That Holds Me Here",
-        "url": "https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84"
-      },
-      "artists": [
-        {
-          "name": "IMMERSE",
-          "url": "https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN"
-        }
-      ],
-      "duration_ms": 186502,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Camel Dancefloor",
         "url": "https://open.spotify.com/album/2kIuH8eEDlpUQhYVt5pvMn"
       },
@@ -983,6 +967,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "The Weight That Holds Me Here",
+        "url": "https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84"
+      },
+      "artists": [
+        {
+          "name": "IMMERSE",
+          "url": "https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN"
+        }
+      ],
+      "duration_ms": 186502,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "WHATS UP?",
         "url": "https://open.spotify.com/album/05wwj4GDV36QBZDKVPrGuJ"
       },
@@ -995,26 +995,6 @@
       "duration_ms": 168160,
       "name": "WHATS UP?",
       "url": "https://open.spotify.com/track/4PY0g4DjsupZaOgEcyiZ5n"
-    },
-    {
-      "added_at": "2023-02-09 19:59:28",
-      "album": {
-        "name": "Sun Up To Sun Down (Remix)",
-        "url": "https://open.spotify.com/album/0k0dMQoz9HiR6LtQUjykc8"
-      },
-      "artists": [
-        {
-          "name": "Employed To Serve",
-          "url": "https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64"
-        },
-        {
-          "name": "Alien Weaponry",
-          "url": "https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm"
-        }
-      ],
-      "duration_ms": 148426,
-      "name": "Sun Up To Sun Down - Remix",
-      "url": "https://open.spotify.com/track/0kGKVrrZtRsOAWhP1AXnuD"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1047,6 +1027,26 @@
       "duration_ms": 249979,
       "name": "Telescope",
       "url": "https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs"
+    },
+    {
+      "added_at": "2023-02-09 19:59:28",
+      "album": {
+        "name": "Sun Up To Sun Down (Remix)",
+        "url": "https://open.spotify.com/album/0k0dMQoz9HiR6LtQUjykc8"
+      },
+      "artists": [
+        {
+          "name": "Employed To Serve",
+          "url": "https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64"
+        },
+        {
+          "name": "Alien Weaponry",
+          "url": "https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm"
+        }
+      ],
+      "duration_ms": 148426,
+      "name": "Sun Up To Sun Down - Remix",
+      "url": "https://open.spotify.com/track/0kGKVrrZtRsOAWhP1AXnuD"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1201,6 +1201,22 @@
       "url": "https://open.spotify.com/track/0fVNG78xrpckyKseNP5XBv"
     },
     {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "FUCK WITH A WITCH 2",
+        "url": "https://open.spotify.com/album/2ZfQhbjBKK9MAEoUO3Vj2e"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "duration_ms": 90491,
+      "name": "FUCK WITH A WITCH 2",
+      "url": "https://open.spotify.com/track/3S38ENcItSgp1NGqxZn01C"
+    },
+    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "Going Under",
@@ -1219,22 +1235,6 @@
       "duration_ms": 193281,
       "name": "Going Under",
       "url": "https://open.spotify.com/track/0hXSGi92Kprn6CEhULCGV3"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "FUCK WITH A WITCH 2",
-        "url": "https://open.spotify.com/album/2ZfQhbjBKK9MAEoUO3Vj2e"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
-        }
-      ],
-      "duration_ms": 90491,
-      "name": "FUCK WITH A WITCH 2",
-      "url": "https://open.spotify.com/track/3S38ENcItSgp1NGqxZn01C"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Providencia",
-        "url": "https://open.spotify.com/album/5hqcP9226vpEkLWr8bzQRL"
+        "name": "Synopsis",
+        "url": "https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG"
       },
       "artists": [
         {
-          "name": "Huszar",
-          "url": "https://open.spotify.com/artist/1l1A8JuXGHt8QY7W37dU9C"
+          "name": "Mountain Eye",
+          "url": "https://open.spotify.com/artist/4tAs3G5ZsXLbE1yXpc6apz"
         }
       ],
-      "duration_ms": 444306,
-      "name": "Providencia III - La Flora Que Crece Alrededor de Nuestras Catedrales",
-      "url": "https://open.spotify.com/track/40ka2TBKZf7bPubTAE4xHT"
+      "duration_ms": 202804,
+      "name": "Synopsis",
+      "url": "https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX"
     }
   ],
   "unique_name": "Alternative Metal",

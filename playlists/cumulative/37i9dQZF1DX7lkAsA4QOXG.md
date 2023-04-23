@@ -4,7 +4,7 @@
 
 > Covers of classic songs with a touch of Jazz\. Cover: Jamie Cullum
 
-145 songs - 11 hr 23 min
+146 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Blackbird \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3VukmzGvVbB4FyGyBPf0A7) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Spotify Singles](https://open.spotify.com/album/4Od3ObjvGfZybirpKZBrcg) | 4:27 | 2022-11-24 |  |
 | [Blowin' In The Wind](https://open.spotify.com/track/6jKnINtSHvjyz7jgw0pJnx) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Reflections](https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu) | 2:32 | 2022-09-13 |  |
 | [Both Sides Now](https://open.spotify.com/track/5DJzLPOCWoC9jlLpMBmzCg) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Life's Love Songs](https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW) | 5:28 | 2022-09-13 | 2023-04-16 |
-| [Both Sides Now](https://open.spotify.com/track/2MMhpRPmQYXk7xm7KHgWoq) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [River: The Joni Letters \(Expanded Edition\)](https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR) | 7:38 | 2022-10-05 |  |
+| [Both Sides Now](https://open.spotify.com/track/2MMhpRPmQYXk7xm7KHgWoq) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [River: The Joni Letters \(Expanded Edition\)](https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR) | 7:38 | 2022-10-05 | 2023-04-23 |
 | [Bullet With Butterfly Wings](https://open.spotify.com/track/0z38GGHZCfVbbXloSW7p1B) | [Will Bonness](https://open.spotify.com/artist/2XicePOelCV9UVv6Ir1Xgo) | [Change of Plans](https://open.spotify.com/album/71b64FExhGoCgtbDzWPTc3) | 4:42 | 2022-09-13 | 2022-11-24 |
 | [California Dreamin'](https://open.spotify.com/track/14IV6ycAWxurGj5KvHtNAT) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Wallflower](https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN) | 3:17 | 2022-09-13 |  |
 | [Can't Buy Me Love](https://open.spotify.com/track/6YoqJRJSjkP1NeVR26RIf3) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Jazz Plays The Beatles](https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i) | 2:37 | 2022-09-13 |  |
@@ -140,6 +140,7 @@
 | [The Long and Winding Road](https://open.spotify.com/track/7cqppiPKNniJMBfdNTvQOi) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph) | [Staying in Touch](https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL) | 4:14 | 2022-09-13 |  |
 | [The Scientist](https://open.spotify.com/track/32E9nlJdTcgeO0ifM8IkqU) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [The Scientist](https://open.spotify.com/album/1kS7asSbEPEd5KMB9krFDx) | 4:26 | 2022-09-13 |  |
 | [Tonight](https://open.spotify.com/track/3RSViRFX1LwGMrsv0NcQk4) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Music From Leonard Bernstein'S 'West Side Story' And 'Wonderful Town'](https://open.spotify.com/album/7t0ixwcxppL8KOnQ5Mfvop) | 3:46 | 2022-09-22 | 2022-11-13 |
+| [Vincent](https://open.spotify.com/track/6adWVN7hPrztmftktK3zES) | [Donatella Montinaro](https://open.spotify.com/artist/0C4L4Wip7dcoY9jYr5gn6G), [Danilo Tarso](https://open.spotify.com/artist/0HlyGInx05IRKHKDRVVaTY) | [Still We Dream](https://open.spotify.com/album/0k5jjWYe4MCUgU1oX4vo9l) | 5:53 | 2023-04-19 |  |
 | [Viva la Vida](https://open.spotify.com/track/6PsbpkLgClv0zb8l5PM6zz) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [Viva la Vida](https://open.spotify.com/album/0eCt4jdobrtQrWnR3dKy8G) | 2:39 | 2023-03-28 |  |
 | [We Don´t Need Another Hero](https://open.spotify.com/track/4RVQO4cSPaeek08d9cHLWt) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [What Took You so Long](https://open.spotify.com/album/7k2gMK9zmm8yxS9uqnztLt) | 4:31 | 2022-09-13 |  |
 | [When a Man Loves a Woman](https://open.spotify.com/track/4tag1OCBjKXVAcfBpL6Fn7) | [Michael Stephenson](https://open.spotify.com/artist/2hLykFY0OkRxdzJAaidlzk), [Alexander Claffy](https://open.spotify.com/artist/68A73mdUJaTyVodPFbfDnG), [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [When a Man Loves a Woman](https://open.spotify.com/album/7HXO2Y7G36z8v9E2aO2ouW) | 4:18 | 2022-09-13 |  |

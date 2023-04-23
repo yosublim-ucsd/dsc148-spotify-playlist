@@ -4,7 +4,7 @@
 
 > Songs to surf to\. Co\-curated by the cast of OBX \(Chase Stokes, Rudy Pankow, Madelyn Cline and Carlacia Grant\)
 
-234 songs - 13 hr 25 min
+235 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Beach Comber](https://open.spotify.com/track/3tPh7vkXySn2lUEH1NEPyO) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Real Estate](https://open.spotify.com/album/0vEt6UkpYZOpKxVO7H7j9Y) | 4:28 | 2021-02-05 | 2022-12-25 |
 | [Better Than I Know Myself](https://open.spotify.com/track/0xg79a3ac7iAOILS1QQbPa) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Better Than I Know Myself](https://open.spotify.com/album/6UB2H0P4aSqExfV7GWvtKO) | 4:22 | 2021-08-27 | 2022-07-29 |
 | [Big Fat Mouth](https://open.spotify.com/track/2H57VA9OzK2NLmweUfJTdq) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [Big Fat Mouth](https://open.spotify.com/album/5zV5ZxYZ42GF1wGO7RI587) | 3:36 | 2021-02-05 | 2022-07-29 |
-| [big fat mouth](https://open.spotify.com/track/0ZiGRciYMWrDvCPNM0T21o) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [Wait](https://open.spotify.com/album/7owO1ECjA53Isw9LiIcXKZ) | 3:38 | 2022-07-22 |  |
+| [big fat mouth](https://open.spotify.com/track/0ZiGRciYMWrDvCPNM0T21o) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [Wait](https://open.spotify.com/album/7owO1ECjA53Isw9LiIcXKZ) | 3:38 | 2022-07-22 | 2023-04-23 |
 | [Bitter](https://open.spotify.com/track/2NjepWsgyVUNZY2MtZSwKw) | [Worn\-Tin](https://open.spotify.com/artist/7j8ds7BnqaEKuz1a1GN0J9) | [Summer Mixtape](https://open.spotify.com/album/0iz11mCbWWro0BsVpsPpO9) | 3:15 | 2021-02-05 | 2022-12-09 |
 | [Booster Seat](https://open.spotify.com/track/5th1bFGGaXLM7wDBJpcF06) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/0lzBfRwVgShOeiFJaXSEex) | 4:28 | 2021-02-05 | 2022-10-14 |
 | [Booster Seat](https://open.spotify.com/track/72RC6Kw32QfJi6RzlDKNxs) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo) | 4:28 | 2022-09-22 |  |
@@ -105,6 +105,7 @@
 | [I Don't Know You](https://open.spotify.com/track/4cJOLN346rtOty3UPACsao) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Don't Know You](https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM) | 3:29 | 2021-02-05 | 2023-03-02 |
 | [I Follow You](https://open.spotify.com/track/6rv4gfOtrlYFrcu03gZkUW) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Melody's Echo Chamber](https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb) | 3:34 | 2021-02-05 | 2023-03-02 |
 | [I Get Around \(Mono\)](https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [All Summer Long \(Mono & Stereo\)](https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v) | 2:14 | 2021-02-05 | 2022-04-21 |
+| [I Know A Place](https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:32 | 2023-03-01 |  |
 | [I'll Be Around](https://open.spotify.com/track/0JxNCIvcLphN1oAafpvDWW) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [City Club](https://open.spotify.com/album/5rKFS59ntz44KWVXPIlc3N) | 4:47 | 2021-02-05 | 2022-04-19 |
 | [I'll Be Around](https://open.spotify.com/track/1EXMtjti643XyQLiGDdki0) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [City Club](https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl) | 4:47 | 2022-09-02 | 2022-12-30 |
 | [I'll Never Belong](https://open.spotify.com/track/1ZXZQqS5hNvnKvhK8Q6Vz3) | [The King Khan & BBQ Show](https://open.spotify.com/artist/4n0gvapwYbRpzU5Ov68B6P) | [What's For Dinner?](https://open.spotify.com/album/4NVwqWBq007KCMjfIPu3Bu) | 3:52 | 2021-02-05 | 2022-04-21 |

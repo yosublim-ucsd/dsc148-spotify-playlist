@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-184 songs - 12 hr 2 min
+185 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Look Up](https://open.spotify.com/track/3l6az657MkmH2TGq0ubPVv) | [Stwo](https://open.spotify.com/artist/5WQxQAu4xmUwCzxPw3GiB4) | [Prove](https://open.spotify.com/album/35aWdwTFrxyR7WmuvShMWP) | 3:41 | 2023-03-02 |  |
 | [Lookalike](https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:40 | 2022-10-20 |  |
 | [Love \(feat\. Skaai\)](https://open.spotify.com/track/33WmukupZpPsnobClDyZzs) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Love \(feat\. Skaai\)](https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd) | 4:18 | 2023-01-24 | 2023-03-15 |
-| [Love Lost](https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:42 | 2022-10-20 |  |
+| [Love Lost](https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:42 | 2022-10-20 | 2023-04-23 |
+| [Love Lost](https://open.spotify.com/track/2z9iuAxKv4TTeCrPAxxKg9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [I Love Life, Thank You](https://open.spotify.com/album/5LNX3esjvdBJ6hN4XDvCJn) | 2:42 | 2023-04-20 |  |
 | [Madres](https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5) | 3:56 | 2023-03-14 |  |
 | [Make Me Me](https://open.spotify.com/track/569UadBl6Ivq7BqUsWp0va) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV), [Grand Salvo](https://open.spotify.com/artist/1FiSrNywfLIXqMjB1fTfVh) | [Make Me Me](https://open.spotify.com/album/7gwA2KDKOKoPgQRJMoWsZ2) | 3:56 | 2023-04-04 |  |
 | [Make My Way Back Home](https://open.spotify.com/track/5zwDRRsVri8kOTDwQt9dRU) | [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf), [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Make My Way Back Home](https://open.spotify.com/album/12cV7xYYdoT5h8DqUjJR42) | 3:56 | 2023-03-31 | 2023-04-12 |

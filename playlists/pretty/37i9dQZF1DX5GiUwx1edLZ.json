@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 274324,
+  "num_followers": 274340,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTM0MzU5MywwMDAwMDAwMGZlM2RiNDQyNTdkNGFhOTFiYmZmOWI5MzE3ZDBiZGFm",
+  "snapshot_id": "MTY3OTM0MzU5MywwMDAwMDAwMGIzZGMyY2IzODY4ZWJiYTBhYWJlMTJjZDc5YzFjZjYw",
   "tracks": [
     {
       "added_at": "2023-03-20 20:19:53",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
+        "name": "It Aint me (Acoustic)",
+        "url": "https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 192545,
+      "name": "It Aint me - Acoustic",
+      "url": "https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
         "name": "Let Me Love You (Andrew Watt Acoustic Remix)",
         "url": "https://open.spotify.com/album/7AXMTCR9Ufyj64Q02H8xFa"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 206666,
       "name": "Let Me Love You - Andrew Watt Acoustic Remix",
       "url": "https://open.spotify.com/track/1LcxOZGMdAuScNbIN2Fvcq"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "It Aint me (Acoustic)",
-        "url": "https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 192545,
-      "name": "It Aint me - Acoustic",
-      "url": "https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -619,26 +619,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Sun Comes Up (Acoustic)",
-        "url": "https://open.spotify.com/album/0nV7xy2faNV4ckOpZTJhhs"
-      },
-      "artists": [
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        },
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 255582,
-      "name": "Sun Comes Up - Acoustic",
-      "url": "https://open.spotify.com/track/2YO0VBWKaIdtUqfOKelqF1"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Deep Down (Acoustic Version) (feat. Never Dull)",
         "url": "https://open.spotify.com/album/0FXgNlUQuffimeBnWUsepH"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 188527,
       "name": "Deep Down (Acoustic Version) (feat. Never Dull)",
       "url": "https://open.spotify.com/track/4Sea2XMlbP2Yt8E5CMwvbb"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Sun Comes Up (Acoustic)",
+        "url": "https://open.spotify.com/album/0nV7xy2faNV4ckOpZTJhhs"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 255582,
+      "name": "Sun Comes Up - Acoustic",
+      "url": "https://open.spotify.com/track/2YO0VBWKaIdtUqfOKelqF1"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -723,26 +723,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Radio (Acoustic)",
-        "url": "https://open.spotify.com/album/10Hl762MrDumKQuu8zyN9T"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 138048,
-      "name": "Radio - Acoustic",
-      "url": "https://open.spotify.com/track/2uKhQnXkSC1Twp0sdFKty3"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Happier (Stripped)",
         "url": "https://open.spotify.com/album/5VqnU8anFTGqsFQvAXKx6l"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 250506,
       "name": "Happier - Stripped",
       "url": "https://open.spotify.com/track/2FkQbpFk34QN97I3OHmfaA"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Radio (Acoustic)",
+        "url": "https://open.spotify.com/album/10Hl762MrDumKQuu8zyN9T"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 138048,
+      "name": "Radio - Acoustic",
+      "url": "https://open.spotify.com/track/2uKhQnXkSC1Twp0sdFKty3"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -935,26 +935,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "DON'T LOOK DOWN (feat. Lizzy Land) [Acoustic]",
-        "url": "https://open.spotify.com/album/3vjUqxIylUXnCzjtebAmCg"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "Lizzy Land",
-          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
-        }
-      ],
-      "duration_ms": 191225,
-      "name": "DON'T LOOK DOWN (feat. Lizzy Land) - Acoustic",
-      "url": "https://open.spotify.com/track/0wHwGDYc8nltuYykhZRKln"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Better EP (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/6XTuLXNcNIzDaLzI6EwKXy"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 150652,
       "name": "Better (feat. Teddy Swims) - Acoustic Version",
       "url": "https://open.spotify.com/track/24MoOLc4izxq0E0lzRxxJn"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "DON'T LOOK DOWN (feat. Lizzy Land) [Acoustic]",
+        "url": "https://open.spotify.com/album/3vjUqxIylUXnCzjtebAmCg"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        }
+      ],
+      "duration_ms": 191225,
+      "name": "DON'T LOOK DOWN (feat. Lizzy Land) - Acoustic",
+      "url": "https://open.spotify.com/track/0wHwGDYc8nltuYykhZRKln"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
+        "name": "You Were Loved (with OneRepublic) [Acoustic]",
+        "url": "https://open.spotify.com/album/62maG5ACfFJ232Nle4rtqq"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 211967,
+      "name": "You Were Loved (with OneRepublic) - Acoustic",
+      "url": "https://open.spotify.com/track/3QcvwgkJmYL6Hz7tvYqkD3"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
         "name": "Living Without You (Acoustic)",
         "url": "https://open.spotify.com/album/5sFCDMxGb2T6DkMgEFNTFU"
       },
@@ -1215,42 +1235,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "You Were Loved (with OneRepublic) [Acoustic]",
-        "url": "https://open.spotify.com/album/62maG5ACfFJ232Nle4rtqq"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 211967,
-      "name": "You Were Loved (with OneRepublic) - Acoustic",
-      "url": "https://open.spotify.com/track/3QcvwgkJmYL6Hz7tvYqkD3"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "We Are All We Need",
-        "url": "https://open.spotify.com/album/6coJxgM3dkzZbbuPBVVcOW"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 117506,
-      "name": "Quieter Is Louder",
-      "url": "https://open.spotify.com/track/5kayymwaZyTtdGilvwJQw5"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Ferrari (Acoustic)",
         "url": "https://open.spotify.com/album/706d3fxyjF2C03PxtyueQK"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 141890,
       "name": "Ferrari - Acoustic",
       "url": "https://open.spotify.com/track/5eaYAQU1cr3M8hLdF71Fg7"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "We Are All We Need",
+        "url": "https://open.spotify.com/album/6coJxgM3dkzZbbuPBVVcOW"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 117506,
+      "name": "Quieter Is Louder",
+      "url": "https://open.spotify.com/track/5kayymwaZyTtdGilvwJQw5"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1327,46 +1327,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "I Could Be The One [Avicii vs Nicky Romero] (Remixes)",
-        "url": "https://open.spotify.com/album/1EzEbNySBZEQq6swaClGw0"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 231426,
-      "name": "I Could Be The One [Avicii vs Nicky Romero] - Noonie Bao Acoustic Mix",
-      "url": "https://open.spotify.com/track/5jENp0YwSkdQt9VbYI0DAC"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "Acoustic",
-        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Richard Bedford",
-          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
-        }
-      ],
-      "duration_ms": 260839,
-      "name": "Thing Called Love",
-      "url": "https://open.spotify.com/track/04dOtnqQD8Sn8RJ8DJZFZb"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "How You Love Me (Acoustic Version)",
         "url": "https://open.spotify.com/album/2HwW0kegqZTxmZw6COLgiN"
       },
@@ -1383,6 +1343,26 @@
       "duration_ms": 171101,
       "name": "How You Love Me - Acoustic Version",
       "url": "https://open.spotify.com/track/4UKlAy4rj6kCXZ076PyHyd"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "I Could Be The One [Avicii vs Nicky Romero] (Remixes)",
+        "url": "https://open.spotify.com/album/1EzEbNySBZEQq6swaClGw0"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 231426,
+      "name": "I Could Be The One [Avicii vs Nicky Romero] - Noonie Bao Acoustic Mix",
+      "url": "https://open.spotify.com/track/5jENp0YwSkdQt9VbYI0DAC"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1431,6 +1411,26 @@
       "duration_ms": 199120,
       "name": "Shed a Light - Acoustic Version",
       "url": "https://open.spotify.com/track/0GGVNLSXv3uaN0GrXvDsOC"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Acoustic",
+        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Richard Bedford",
+          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
+        }
+      ],
+      "duration_ms": 260839,
+      "name": "Thing Called Love",
+      "url": "https://open.spotify.com/track/04dOtnqQD8Sn8RJ8DJZFZb"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Best Is Yet To Come (with Kyle Reynolds) [Acoustic]",
-        "url": "https://open.spotify.com/album/3pvNPVnQSVUgNzUs96A0pa"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Kyle Reynolds",
-          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
-        }
-      ],
-      "duration_ms": 205159,
-      "name": "Best Is Yet To Come (with Kyle Reynolds) - Acoustic",
-      "url": "https://open.spotify.com/track/300r68E8TGRV1xoLatMgek"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Where Did You Go? (Acoustic)",
         "url": "https://open.spotify.com/album/41LZiXValPCTFoxZx6NqT2"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 202680,
       "name": "Where Did You Go? - Acoustic",
       "url": "https://open.spotify.com/track/5AHam2qo8G5SqYtmqVIAq6"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Best Is Yet To Come (with Kyle Reynolds) [Acoustic]",
+        "url": "https://open.spotify.com/album/3pvNPVnQSVUgNzUs96A0pa"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Kyle Reynolds",
+          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
+        }
+      ],
+      "duration_ms": 205159,
+      "name": "Best Is Yet To Come (with Kyle Reynolds) - Acoustic",
+      "url": "https://open.spotify.com/track/300r68E8TGRV1xoLatMgek"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1967,22 +1967,22 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "How to Love (feat. Sofia Reyes) [Spanish & Acoustic]",
-        "url": "https://open.spotify.com/album/3MsD918JVOTgVAAGYw94Uy"
+        "name": "Kids in Love (Remixes)",
+        "url": "https://open.spotify.com/album/7LbyVLGeEWZYOUKCecv3gI"
       },
       "artists": [
         {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+          "name": "The Night Game",
+          "url": "https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs"
         }
       ],
-      "duration_ms": 201468,
-      "name": "How to Love (feat. Sofia Reyes) - Acoustic",
-      "url": "https://open.spotify.com/track/52B2TNxEZ7z7ytwLdA99pG"
+      "duration_ms": 245066,
+      "name": "Kids in Love (feat. The Night Game) - Acoustic Version",
+      "url": "https://open.spotify.com/track/0b683lyejYRh6CBWJQgExw"
     }
   ],
   "unique_name": "mint Acoustic",

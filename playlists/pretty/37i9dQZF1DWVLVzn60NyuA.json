@@ -1,12 +1,12 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 235744,
+  "num_followers": 235998,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAyODAwMCwwMDAwMDAwMGY2NDJjN2YxOWQxYzFmOGI3NWNmOWRjOTZmMDMwYjdh",
+  "snapshot_id": "MTY4MjAyODAwMCwwMDAwMDAwMDBkZWQ4ZTYyZWM5Y2RkY2U0ODFkYTc2ZTA4M2YyMjcw",
   "tracks": [
     {
       "added_at": "2023-04-20 22:00:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 183056,
-      "name": "soso",
-      "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Soweto (with Don Toliver, Rema, and Tempoe)",
         "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 219500,
       "name": "Soweto (with Don Toliver, Rema and Tempoe)",
       "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 183056,
+      "name": "soso",
+      "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -727,22 +727,22 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Call Me Every Day (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
+        "name": "No Bad Songz",
+        "url": "https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         },
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Philkeyz",
+          "url": "https://open.spotify.com/artist/4f2Osmfrp1z54Y2d7Nf8vf"
         }
       ],
-      "duration_ms": 146840,
-      "name": "Call Me Every Day (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
+      "duration_ms": 178000,
+      "name": "Nesesari",
+      "url": "https://open.spotify.com/track/1yOt3NUFWpYbnFW6ISj59h"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -763,22 +763,22 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "No Bad Songz",
-        "url": "https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS"
+        "name": "Call Me Every Day (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         },
         {
-          "name": "Philkeyz",
-          "url": "https://open.spotify.com/artist/4f2Osmfrp1z54Y2d7Nf8vf"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Nesesari",
-      "url": "https://open.spotify.com/track/1yOt3NUFWpYbnFW6ISj59h"
+      "duration_ms": 146840,
+      "name": "Call Me Every Day (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "OzuTochi",
-        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 192320,
-      "name": "Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Ego",
         "url": "https://open.spotify.com/album/6jMWWy5KVlJD2JhGAWP13z"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 156080,
       "name": "Ego",
       "url": "https://open.spotify.com/track/6XdAvTC80727JAI9HBAVLc"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "OzuTochi",
+        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 192320,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "Real Man",
+        "url": "https://open.spotify.com/album/3GZNX1TLAGQu3FyE3J6F2w"
+      },
+      "artists": [
+        {
+          "name": "Korede Bello",
+          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
+        }
+      ],
+      "duration_ms": 175098,
+      "name": "Real Man",
+      "url": "https://open.spotify.com/track/765zfCJsXtDDPInx1smYLo"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
       },
@@ -1319,18 +1335,18 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Real Man",
-        "url": "https://open.spotify.com/album/3GZNX1TLAGQu3FyE3J6F2w"
+        "name": "Walk With Me",
+        "url": "https://open.spotify.com/album/5N5e8acMVgsIZif4NZppoj"
       },
       "artists": [
         {
-          "name": "Korede Bello",
-          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
+          "name": "Rotimi",
+          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
         }
       ],
-      "duration_ms": 175098,
-      "name": "Real Man",
-      "url": "https://open.spotify.com/track/765zfCJsXtDDPInx1smYLo"
+      "duration_ms": 219481,
+      "name": "Love Riddim",
+      "url": "https://open.spotify.com/track/22uU5EVRx6rVpuUANTFEhn"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1363,22 +1379,6 @@
       "duration_ms": 171813,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/5H6SZcjJzBNsB2VzKW2Ivd"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "Walk With Me",
-        "url": "https://open.spotify.com/album/5N5e8acMVgsIZif4NZppoj"
-      },
-      "artists": [
-        {
-          "name": "Rotimi",
-          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
-        }
-      ],
-      "duration_ms": 219481,
-      "name": "Love Riddim",
-      "url": "https://open.spotify.com/track/22uU5EVRx6rVpuUANTFEhn"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1507,6 +1507,26 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "Sound from Africa",
+        "url": "https://open.spotify.com/album/5ku1S5rs8OsxdMeAxjZk9q"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "duration_ms": 152608,
+      "name": "Tetema (feat. Diamond Platnumz)",
+      "url": "https://open.spotify.com/track/50tFLjmKu1pftJONIbaljz"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "SoundMan Vol. 1",
         "url": "https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY"
       },
@@ -1527,26 +1547,6 @@
       "duration_ms": 198678,
       "name": "Jam (feat. Wizkid)",
       "url": "https://open.spotify.com/track/6eHqU8ntHGzddACoxlfDX0"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "Sound from Africa",
-        "url": "https://open.spotify.com/album/5ku1S5rs8OsxdMeAxjZk9q"
-      },
-      "artists": [
-        {
-          "name": "Rayvanny",
-          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
-        },
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        }
-      ],
-      "duration_ms": 152608,
-      "name": "Tetema (feat. Diamond Platnumz)",
-      "url": "https://open.spotify.com/track/50tFLjmKu1pftJONIbaljz"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1935,26 +1935,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Truth Be Told",
-        "url": "https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs"
-      },
-      "artists": [
-        {
-          "name": "Young T & Bugsey",
-          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 237480,
-      "name": "Nice (feat. Blxst)",
-      "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "No Fear (feat. Damian Marley & Nicky Jam)",
         "url": "https://open.spotify.com/album/5iNZBIAKC2ohCuxiZwuevw"
       },
@@ -1975,6 +1955,26 @@
       "duration_ms": 210922,
       "name": "No Fear (feat. Damian Marley & Nicky Jam)",
       "url": "https://open.spotify.com/track/5B1QxXc3XWgJ3dg2ULj7Aa"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Truth Be Told",
+        "url": "https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs"
+      },
+      "artists": [
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 237480,
+      "name": "Nice (feat. Blxst)",
+      "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -2059,6 +2059,22 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "Fini",
+        "url": "https://open.spotify.com/album/5KvaprWGjxV4RqG1PaQW8t"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "duration_ms": 173790,
+      "name": "Fini",
+      "url": "https://open.spotify.com/track/0JJSn1Fq32PgxrqQtPpbeC"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "Big Chune",
         "url": "https://open.spotify.com/album/5ioIjN8A0qVhfKvTUtWwOs"
       },
@@ -2079,22 +2095,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Nobody Knows",
-        "url": "https://open.spotify.com/album/2mUXHcpiEOi8c2CVO3qC2G"
-      },
-      "artists": [
-        {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
-        }
-      ],
-      "duration_ms": 156927,
-      "name": "Nobody Knows",
-      "url": "https://open.spotify.com/track/3Y50lI3uo0P910ZnCCEqqU"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "West Indies",
         "url": "https://open.spotify.com/album/0JQXq0ZM0Nugq7QISjEDAq"
       },
@@ -2111,18 +2111,18 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Fini",
-        "url": "https://open.spotify.com/album/5KvaprWGjxV4RqG1PaQW8t"
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/2mUXHcpiEOi8c2CVO3qC2G"
       },
       "artists": [
         {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
         }
       ],
-      "duration_ms": 173790,
-      "name": "Fini",
-      "url": "https://open.spotify.com/track/0JJSn1Fq32PgxrqQtPpbeC"
+      "duration_ms": 156927,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/3Y50lI3uo0P910ZnCCEqqU"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -2223,6 +2223,30 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "\u00c7a Sert \u00e0 Rien",
+        "url": "https://open.spotify.com/album/2GIqPe6SrTBebOm1DCgJG5"
+      },
+      "artists": [
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        },
+        {
+          "name": "Emms",
+          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
+        },
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        }
+      ],
+      "duration_ms": 170068,
+      "name": "\u00c7a Sert \u00e0 Rien",
+      "url": "https://open.spotify.com/track/0FmQ6iu0RCCUdIntK2q2eL"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "Never Find / Armagidion",
         "url": "https://open.spotify.com/album/2L9yHTn8KvFuPKvMvPGAET"
       },
@@ -2251,30 +2275,6 @@
       "duration_ms": 200759,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/3oXkYHn1T8V2RsPpKUAZQr"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "\u00c7a Sert \u00e0 Rien",
-        "url": "https://open.spotify.com/album/2GIqPe6SrTBebOm1DCgJG5"
-      },
-      "artists": [
-        {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
-        },
-        {
-          "name": "Emms",
-          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
-        },
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        }
-      ],
-      "duration_ms": 170068,
-      "name": "\u00c7a Sert \u00e0 Rien",
-      "url": "https://open.spotify.com/track/0FmQ6iu0RCCUdIntK2q2eL"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -2335,26 +2335,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Big Thug Boys (Dj Yo! Remix)",
-        "url": "https://open.spotify.com/album/325V7bs8JbRVesHY65GwjK"
-      },
-      "artists": [
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        },
-        {
-          "name": "Dj Yo!",
-          "url": "https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy"
-        }
-      ],
-      "duration_ms": 174774,
-      "name": "Big Thug Boys (Dj Yo! Remix)",
-      "url": "https://open.spotify.com/track/50OUQ4zH8PfuQzuDyZw2Of"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Vitamine (Remix)",
         "url": "https://open.spotify.com/album/3R3KNEZBmPYbxGVNtqZo4q"
       },
@@ -2371,6 +2351,26 @@
       "duration_ms": 154772,
       "name": "Vitamine - (Remix) feat. Ya Levis",
       "url": "https://open.spotify.com/track/0cuBU0NjEZImmFEFn7kVsb"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Big Thug Boys (Dj Yo! Remix)",
+        "url": "https://open.spotify.com/album/325V7bs8JbRVesHY65GwjK"
+      },
+      "artists": [
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        },
+        {
+          "name": "Dj Yo!",
+          "url": "https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy"
+        }
+      ],
+      "duration_ms": 174774,
+      "name": "Big Thug Boys (Dj Yo! Remix)",
+      "url": "https://open.spotify.com/track/50OUQ4zH8PfuQzuDyZw2Of"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -2655,6 +2655,22 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "MYKILLI",
+        "url": "https://open.spotify.com/album/4kxvEeZjpSgb5Ondj6UHuu"
+      },
+      "artists": [
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        }
+      ],
+      "duration_ms": 144050,
+      "name": "MYKILLI",
+      "url": "https://open.spotify.com/track/3a9VWWcadXinOPMQzJS8uU"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "Pami",
         "url": "https://open.spotify.com/album/4fjfAYCr7TDteiCVSX4IlM"
       },
@@ -2671,22 +2687,6 @@
       "duration_ms": 161515,
       "name": "Pami",
       "url": "https://open.spotify.com/track/089MJDjJ7qJmMWcmD3J4c8"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "MYKILLI",
-        "url": "https://open.spotify.com/album/4kxvEeZjpSgb5Ondj6UHuu"
-      },
-      "artists": [
-        {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
-        }
-      ],
-      "duration_ms": 144050,
-      "name": "MYKILLI",
-      "url": "https://open.spotify.com/track/3a9VWWcadXinOPMQzJS8uU"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -2727,6 +2727,30 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "A Night In Cocody",
+        "url": "https://open.spotify.com/album/7fj4P4j4HNVXX5PZtMaEi2"
+      },
+      "artists": [
+        {
+          "name": "Jeune Lio",
+          "url": "https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF"
+        },
+        {
+          "name": "Chrystel",
+          "url": "https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0"
+        },
+        {
+          "name": "Yung D3mz",
+          "url": "https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf"
+        }
+      ],
+      "duration_ms": 220264,
+      "name": "Test Me",
+      "url": "https://open.spotify.com/track/7cb8EEwS3csiKjiee33ZP2"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "Ram Pam",
         "url": "https://open.spotify.com/album/2XJXTSgrnZtTK8MoAuY05D"
       },
@@ -2751,30 +2775,6 @@
       "duration_ms": 141030,
       "name": "Ram Pam",
       "url": "https://open.spotify.com/track/4bro6XcuTPaPM61tCCdto8"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "A Night In Cocody",
-        "url": "https://open.spotify.com/album/7fj4P4j4HNVXX5PZtMaEi2"
-      },
-      "artists": [
-        {
-          "name": "Jeune Lio",
-          "url": "https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF"
-        },
-        {
-          "name": "Chrystel",
-          "url": "https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0"
-        },
-        {
-          "name": "Yung D3mz",
-          "url": "https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf"
-        }
-      ],
-      "duration_ms": 220264,
-      "name": "Test Me",
-      "url": "https://open.spotify.com/track/7cb8EEwS3csiKjiee33ZP2"
     },
     {
       "added_at": "2023-04-20 22:00:00",

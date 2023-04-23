@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: Joy x Ha Dong Qn\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,776 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,836 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 4 | [Lovey Dovey \(Feat\. meenoi\)](https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Lovey Dovey](https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k) | 3:39 |
 | 5 | [Happiness index](https://open.spotify.com/track/4pEeKM4zXFj1EI9mGro4h1) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz), [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Happiness index](https://open.spotify.com/album/7HkYhaMZWzkt5i8yXfzLcy) | 4:02 |
 | 6 | [Love Song](https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [World Peace Project Vol.2](https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ) | 3:40 |
-| 7 | [Come Back Home \(feat\. Yeeun\)](https://open.spotify.com/track/6Vl5W40Ve7mvbmPxKRhR94) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Yeeun](https://open.spotify.com/artist/0AgNlLxv23f2iBgdphi4to) | [Come Back Home](https://open.spotify.com/album/0itIaXewMbaWbViMKNstF9) | 3:26 |
+| 7 | [Come Back Home \(feat\. Yeeun\)](https://open.spotify.com/track/6Vl5W40Ve7mvbmPxKRhR94) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Yeeun](https://open.spotify.com/artist/4hMhbcPHd2nsZFhY1TNp8Y) | [Come Back Home](https://open.spotify.com/album/0itIaXewMbaWbViMKNstF9) | 3:26 |
 | 8 | [Little Treasure](https://open.spotify.com/track/0polCd3LnbS7J3WqDchDfg) | [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [SUMI](https://open.spotify.com/artist/2fj7sz0YzfZQXvcHByMccv) | [Little Treasure](https://open.spotify.com/album/3DosrJexRO8tnNaqz5pK0S) | 3:20 |
 | 9 | [Say Yes](https://open.spotify.com/track/27zrFrtUtWl2urlvjOn5xc) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Moonlovers \- Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/68xTLBWjoRADRf86WYmTmy) | 3:38 |
 | 10 | [OceanooM Duet∘☽ \(feat\. Jung YoungEun\)](https://open.spotify.com/track/4iDcQyypdqnsx9lFwJaNWU) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [Jung Young Eun](https://open.spotify.com/artist/26GxfwRT2NHxeq2qrdAVbf) | [OceanooM Duet∘☽](https://open.spotify.com/album/4IQct8SSePLkfcJpSsKAMd) | 3:27 |

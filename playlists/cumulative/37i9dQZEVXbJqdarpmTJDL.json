@@ -622,7 +622,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 219661,
       "name": "ADRENALINA",
       "url": "https://open.spotify.com/track/0v4BTk3Vlhmfduww4WFOwA"
@@ -1756,6 +1756,24 @@
       "duration_ms": 180000,
       "name": "Areti",
       "url": "https://open.spotify.com/track/2rbSs3LMmRjqvE8OkjHlu9"
+    },
+    {
+      "album": {
+        "name": "Arte Povera",
+        "url": "https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU"
+      },
+      "artists": [
+        {
+          "name": "Beats Pliz",
+          "url": "https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143576,
+      "name": "Arte Povera Soundtrack In Gsus2",
+      "url": "https://open.spotify.com/track/7ms5Scut4YZrbO54gH2lLA"
     },
     {
       "album": {
@@ -3764,7 +3782,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 219033,
       "name": "CASH OUT",
       "url": "https://open.spotify.com/track/4HUybQN2HMxIigH0pxFhOM"
@@ -5757,6 +5775,28 @@
     },
     {
       "album": {
+        "name": "Double Fantasy",
+        "url": "https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268235,
+      "name": "Double Fantasy (with Future)",
+      "url": "https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi"
+    },
+    {
+      "album": {
         "name": "Draco",
         "url": "https://open.spotify.com/album/7LsiY2Gnt5af1lwGAFygHd"
       },
@@ -5824,7 +5864,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 193800,
       "name": "Drive By",
       "url": "https://open.spotify.com/track/2u3kkvRqcYi56BNXEX6hri"
@@ -7732,7 +7772,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 167022,
       "name": "FUCK DA POLICE",
       "url": "https://open.spotify.com/track/6yyMD0sKGOovYrRaE1td8w"
@@ -8282,6 +8322,36 @@
       "duration_ms": 127205,
       "name": "GINA",
       "url": "https://open.spotify.com/track/4XtCM0qWk51wpqwaOTrSmc"
+    },
+    {
+      "album": {
+        "name": "GIORTES",
+        "url": "https://open.spotify.com/album/2hZylZBk0Ps4UmBYaZM8Qz"
+      },
+      "artists": [
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152888,
+      "name": "GIORTES",
+      "url": "https://open.spotify.com/track/5Cdw9RPhNTGcZSkJvt9WOc"
     },
     {
       "album": {
@@ -9840,6 +9910,24 @@
       "duration_ms": 184782,
       "name": "Intro (Apo Tous Yponomous)",
       "url": "https://open.spotify.com/track/60YhDtk1pz5MI3boHGMN37"
+    },
+    {
+      "album": {
+        "name": "Arte Povera",
+        "url": "https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU"
+      },
+      "artists": [
+        {
+          "name": "Beats Pliz",
+          "url": "https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145831,
+      "name": "Intro In A Minor",
+      "url": "https://open.spotify.com/track/032Eib1ph0DoAwlqxPiOvM"
     },
     {
       "album": {
@@ -13424,7 +13512,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 183092,
       "name": "MEDITERRANEAN",
       "url": "https://open.spotify.com/track/0C11SdO6nuqHDx230fZ2Gh"
@@ -15785,6 +15873,28 @@
     },
     {
       "album": {
+        "name": "Oneiro",
+        "url": "https://open.spotify.com/album/4l5nAvnvq1GxTUrTkNItoD"
+      },
+      "artists": [
+        {
+          "name": "Lava",
+          "url": "https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O"
+        },
+        {
+          "name": "ROPEX LATERIO",
+          "url": "https://open.spotify.com/artist/2WpUXBjLm8j8tnrAZ4s9v9"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145841,
+      "name": "Oneiro",
+      "url": "https://open.spotify.com/track/7k1eAeEvBo49rHcUwRuZbU"
+    },
+    {
+      "album": {
         "name": "OPLO",
         "url": "https://open.spotify.com/album/4UH5r8a4WyhAPRJgXl7cEh"
       },
@@ -15976,6 +16086,24 @@
       "duration_ms": 117000,
       "name": "OUTRO (FOR MY FAMILY)",
       "url": "https://open.spotify.com/track/6j0zBbsKzi9GAMxiUcHmzn"
+    },
+    {
+      "album": {
+        "name": "Arte Povera",
+        "url": "https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU"
+      },
+      "artists": [
+        {
+          "name": "Beats Pliz",
+          "url": "https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125566,
+      "name": "Outro In A Minor",
+      "url": "https://open.spotify.com/track/488wszQu7lVgGgXJgXFovQ"
     },
     {
       "album": {
@@ -19146,7 +19274,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 228000,
       "name": "SIMPLOKES",
       "url": "https://open.spotify.com/track/3GKShHi6IKb89UlxpDBxO0"

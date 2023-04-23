@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: slipmami, Ebony, LARINHX
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,573 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,655 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 45 | [A Cuca](https://open.spotify.com/track/6kdqevDkFJvZeIwYCJZxLh) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [A Cuca](https://open.spotify.com/album/29QITg4lHccmO94R4qX5xK) | 3:18 |
 | 46 | [Preta Patrícia](https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Preta Patrícia](https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX) | 4:14 |
 | 47 | [Fiz Minha Unha](https://open.spotify.com/track/5IYtUJ9foHzJi2CzzARkIe) | [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Fiz Minha Unha](https://open.spotify.com/album/55IqlpNBxtJPpfGbWHOayn) | 2:26 |
-| 48 | [Faz o Pix](https://open.spotify.com/track/5P0HSsTQmYVR6zq3ztnHZO) | [Zeferina](https://open.spotify.com/artist/0R5sBkXY9VEYCpsheNOiDr) | [Faz o Pix](https://open.spotify.com/album/5wsT1hROBOq9uM9Gtahgja) | 2:11 |
-| 49 | [Chapolin](https://open.spotify.com/track/6iRILQOnZXr8M35Rdoa1Dt) | [Savanah](https://open.spotify.com/artist/3tl4oPzp0yYMwLEmRFv0vT), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf) | [Chapolin](https://open.spotify.com/album/0CynnWGCBgeMRUGbycuVPA) | 2:41 |
+| 48 | [Chapolin](https://open.spotify.com/track/6iRILQOnZXr8M35Rdoa1Dt) | [Savanah](https://open.spotify.com/artist/3tl4oPzp0yYMwLEmRFv0vT), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf) | [Chapolin](https://open.spotify.com/album/0CynnWGCBgeMRUGbycuVPA) | 2:41 |
+| 49 | [Faz o Pix](https://open.spotify.com/track/5P0HSsTQmYVR6zq3ztnHZO) | [Zeferina](https://open.spotify.com/artist/0R5sBkXY9VEYCpsheNOiDr) | [Faz o Pix](https://open.spotify.com/album/5wsT1hROBOq9uM9Gtahgja) | 2:11 |
 | 50 | [Fartura E Riqueza](https://open.spotify.com/track/4vn6W7bT3fqHG466IfaJck) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [Buarky](https://open.spotify.com/artist/2jWvN8tmcpkgiQFpdEQnce), [NATH](https://open.spotify.com/artist/6dAUWqdIfuQKFV9i2kMiFx), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt), [DJ Maxnosbeatz](https://open.spotify.com/artist/4FMpb2dZnasTgrWwyKCQuN) | [Betty](https://open.spotify.com/album/3OUm1Sti08w8fJRkImQUaI) | 3:01 |
 
-Snapshot ID: `MTY4MjA0NjA2MCwwMDAwMDAwMGZkZDhkZTcyNGI2NWQzYjIyYWZmODMxMzI4Y2I4ODFl`
+Snapshot ID: `MTY4MjA0NjA2MCwwMDAwMDAwMGJkMTU3MWE1YmQwYWQwZDIzYTQyMGRkNTg5MGI5Yjkx`

@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 35361,
+  "num_followers": 35396,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTk5OTQ2OCwwMDAwMDAwMGY1ZjNkNDdjYzRmNzk5ODYxOTM4ODc1MDVkMmJjMmQ0",
+  "snapshot_id": "MTY4MTk5OTQ2OCwwMDAwMDAwMDkzOGM3YjE2ZTA1NzliNTdmNzMyN2NhYmQ2MWZiMDVl",
   "tracks": [
     {
       "added_at": "2023-04-20 14:04:28",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-04-20 14:04:28",
       "album": {
-        "name": "Untidy Soul",
-        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 180523,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
-    },
-    {
-      "added_at": "2023-04-20 14:04:28",
-      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 255800,
       "name": "Distance",
       "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
+    },
+    {
+      "added_at": "2023-04-20 14:04:28",
+      "album": {
+        "name": "Untidy Soul",
+        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 180523,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
     },
     {
       "added_at": "2023-04-20 14:04:28",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-04-20 14:04:28",
       "album": {
-        "name": "Something To Feel",
-        "url": "https://open.spotify.com/album/4vB6GN9VFxZU1mtBYlc3Ph"
-      },
-      "artists": [
-        {
-          "name": "TEEKS",
-          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
-        }
-      ],
-      "duration_ms": 309786,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/69WrRBXGKP70NqXNOf8NIw"
-    },
-    {
-      "added_at": "2023-04-20 14:04:28",
-      "album": {
         "name": "Jaime (Reimagined)",
         "url": "https://open.spotify.com/album/5FwiNeZyBHQXH1ppbXqxe0"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 218400,
       "name": "Stay High - Childish Gambino Version",
       "url": "https://open.spotify.com/track/6LmNmPxViPRou1YAvyg1OS"
+    },
+    {
+      "added_at": "2023-04-20 14:04:28",
+      "album": {
+        "name": "Something To Feel",
+        "url": "https://open.spotify.com/album/4vB6GN9VFxZU1mtBYlc3Ph"
+      },
+      "artists": [
+        {
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+        }
+      ],
+      "duration_ms": 309786,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/69WrRBXGKP70NqXNOf8NIw"
     },
     {
       "added_at": "2023-04-20 14:04:28",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-04-20 14:04:28",
       "album": {
+        "name": "Unconditionally",
+        "url": "https://open.spotify.com/album/1X4HVedRMhLlr8qMaEGtKO"
+      },
+      "artists": [
+        {
+          "name": "JKING",
+          "url": "https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp"
+        }
+      ],
+      "duration_ms": 152673,
+      "name": "Unconditionally",
+      "url": "https://open.spotify.com/track/566cpgeAsU9eyAgedWbwyk"
+    },
+    {
+      "added_at": "2023-04-20 14:04:28",
+      "album": {
         "name": "Little Fun (feat. Sammy Johnson)",
         "url": "https://open.spotify.com/album/4aX9Ss1NK4hI1U2YXJbhC9"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 170106,
       "name": "Little Fun (feat. Sammy Johnson)",
       "url": "https://open.spotify.com/track/2jbbvH4frU7xVXf8Ow5cyU"
-    },
-    {
-      "added_at": "2023-04-20 14:04:28",
-      "album": {
-        "name": "Unconditionally",
-        "url": "https://open.spotify.com/album/1X4HVedRMhLlr8qMaEGtKO"
-      },
-      "artists": [
-        {
-          "name": "JKING",
-          "url": "https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp"
-        }
-      ],
-      "duration_ms": 152673,
-      "name": "Unconditionally",
-      "url": "https://open.spotify.com/track/566cpgeAsU9eyAgedWbwyk"
     },
     {
       "added_at": "2023-04-20 14:04:28",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-04-20 14:04:28",
       "album": {
-        "name": "Side By Side",
-        "url": "https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg"
-      },
-      "artists": [
-        {
-          "name": "The Meltdown",
-          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
-        }
-      ],
-      "duration_ms": 256560,
-      "name": "Side By Side",
-      "url": "https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts"
-    },
-    {
-      "added_at": "2023-04-20 14:04:28",
-      "album": {
         "name": "High Off You",
         "url": "https://open.spotify.com/album/0okhOL15AUDSqpKFi9CHcu"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 233760,
       "name": "High Off You",
       "url": "https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw"
+    },
+    {
+      "added_at": "2023-04-20 14:04:28",
+      "album": {
+        "name": "Side By Side",
+        "url": "https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg"
+      },
+      "artists": [
+        {
+          "name": "The Meltdown",
+          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
+        }
+      ],
+      "duration_ms": 256560,
+      "name": "Side By Side",
+      "url": "https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts"
     }
   ],
   "unique_name": "Soulful",

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de abril 2023",
-  "num_followers": 1521081,
+  "num_followers": 1521199,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAyNjAzMywwMDAwMDAwMDUxMjkzNzRkOWJjMTQ3ZGJmZjBlYzhjN2ExZTcxZmVj",
+  "snapshot_id": "MTY4MjAyNjAzMywwMDAwMDAwMGU2ZDQ5ZmJhYmQwYzliMGEwNjM2OWY1MDMzMGE1Y2Vk",
   "tracks": [
     {
       "added_at": "2023-04-20 21:27:13",
@@ -163,26 +163,6 @@
     {
       "added_at": "2023-04-20 21:27:13",
       "album": {
-        "name": "La Bolsa Gucci",
-        "url": "https://open.spotify.com/album/1LMGPTkDnylJGOiojhF11C"
-      },
-      "artists": [
-        {
-          "name": "miguel cornejo",
-          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 136120,
-      "name": "La Bolsa Gucci",
-      "url": "https://open.spotify.com/track/7KBTLsYW2sI42vdlVP079C"
-    },
-    {
-      "added_at": "2023-04-20 21:27:13",
-      "album": {
         "name": "Triste Verano",
         "url": "https://open.spotify.com/album/3tQugDvLsNa3RDu7bfRu6Y"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 212375,
       "name": "Triste Verano",
       "url": "https://open.spotify.com/track/1AOPHC5whvr8K359BZu4kp"
+    },
+    {
+      "added_at": "2023-04-20 21:27:13",
+      "album": {
+        "name": "La Bolsa Gucci",
+        "url": "https://open.spotify.com/album/1LMGPTkDnylJGOiojhF11C"
+      },
+      "artists": [
+        {
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 136120,
+      "name": "La Bolsa Gucci",
+      "url": "https://open.spotify.com/track/7KBTLsYW2sI42vdlVP079C"
     },
     {
       "added_at": "2023-04-20 21:27:13",
@@ -359,22 +359,18 @@
     {
       "added_at": "2023-04-20 21:27:13",
       "album": {
-        "name": "Si Me Voy (with The Mar\u00edas)",
-        "url": "https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq"
+        "name": "511",
+        "url": "https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        },
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
         }
       ],
-      "duration_ms": 203219,
-      "name": "Si Me Voy (with The Mar\u00edas)",
-      "url": "https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR"
+      "duration_ms": 134516,
+      "name": "FLA",
+      "url": "https://open.spotify.com/track/3v3nabIFa3PxGCL4w1NiHp"
     },
     {
       "added_at": "2023-04-20 21:27:13",
@@ -395,18 +391,22 @@
     {
       "added_at": "2023-04-20 21:27:13",
       "album": {
-        "name": "511",
-        "url": "https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X"
+        "name": "Si Me Voy (with The Mar\u00edas)",
+        "url": "https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq"
       },
       "artists": [
         {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 134516,
-      "name": "FLA",
-      "url": "https://open.spotify.com/track/3v3nabIFa3PxGCL4w1NiHp"
+      "duration_ms": 203219,
+      "name": "Si Me Voy (with The Mar\u00edas)",
+      "url": "https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR"
     },
     {
       "added_at": "2023-04-20 21:27:13",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-04-20 21:27:13",
       "album": {
+        "name": "Vuela T\u00fa",
+        "url": "https://open.spotify.com/album/6HNlpNS9D207IT2vMafv4V"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 155481,
+      "name": "Vuela T\u00fa",
+      "url": "https://open.spotify.com/track/6D6Xbp26jVuVdrebUAoRVY"
+    },
+    {
+      "added_at": "2023-04-20 21:27:13",
+      "album": {
         "name": "LA VIDA ES UNA",
         "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 163482,
       "name": "CAMA KING (feat. Chita)",
       "url": "https://open.spotify.com/track/1EOyHhh5uOwNrDhiUNnH2u"
-    },
-    {
-      "added_at": "2023-04-20 21:27:13",
-      "album": {
-        "name": "Vuela T\u00fa",
-        "url": "https://open.spotify.com/album/6HNlpNS9D207IT2vMafv4V"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 155481,
-      "name": "Vuela T\u00fa",
-      "url": "https://open.spotify.com/track/6D6Xbp26jVuVdrebUAoRVY"
     },
     {
       "added_at": "2023-04-20 21:27:13",
@@ -511,26 +511,6 @@
     {
       "added_at": "2023-04-20 21:27:13",
       "album": {
-        "name": "Estemos Donde Estemos",
-        "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
-      },
-      "artists": [
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        },
-        {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        }
-      ],
-      "duration_ms": 162800,
-      "name": "Conquistar El Planeta",
-      "url": "https://open.spotify.com/track/6cOGBvdT0RY3UUtEP7vRHs"
-    },
-    {
-      "added_at": "2023-04-20 21:27:13",
-      "album": {
         "name": "Players (Tokischa Remix)",
         "url": "https://open.spotify.com/album/0ifEUZF2u0CAeQOtpQIBVx"
       },
@@ -551,22 +531,22 @@
     {
       "added_at": "2023-04-20 21:27:13",
       "album": {
-        "name": "Rollercoaster (feat. J Balvin)",
-        "url": "https://open.spotify.com/album/6wCKX9vCPoynrnv6fmaKaP"
+        "name": "Estemos Donde Estemos",
+        "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
         },
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
         }
       ],
-      "duration_ms": 187269,
-      "name": "Rollercoaster (feat. J Balvin)",
-      "url": "https://open.spotify.com/track/4pX4VTKooLaSRLkESPyR8N"
+      "duration_ms": 162800,
+      "name": "Conquistar El Planeta",
+      "url": "https://open.spotify.com/track/6cOGBvdT0RY3UUtEP7vRHs"
     },
     {
       "added_at": "2023-04-20 21:27:13",
@@ -587,6 +567,26 @@
       "duration_ms": 103520,
       "name": "X Tu Casa",
       "url": "https://open.spotify.com/track/2w8mK5E51BICF0MCerzYkS"
+    },
+    {
+      "added_at": "2023-04-20 21:27:13",
+      "album": {
+        "name": "Rollercoaster (feat. J Balvin)",
+        "url": "https://open.spotify.com/album/6wCKX9vCPoynrnv6fmaKaP"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 187269,
+      "name": "Rollercoaster (feat. J Balvin)",
+      "url": "https://open.spotify.com/track/4pX4VTKooLaSRLkESPyR8N"
     },
     {
       "added_at": "2023-04-20 21:27:13",

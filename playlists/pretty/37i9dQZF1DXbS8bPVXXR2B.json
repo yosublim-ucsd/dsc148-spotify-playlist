@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 200659,
+  "num_followers": 200816,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMGJhYzFlZjdkZGEyNmU4OGE1NmQ1ZTdjMTc1ZjQyN2Qx",
+  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMDEwNmZmMDVlNjc2ODljYzkxYzY4NTdjMDFlODFmMDRj",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Zenyatta Mondatta (Remastered 2003)",
-        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 233253,
-      "name": "Voices Inside My Head",
-      "url": "https://open.spotify.com/track/0Jvn32u7plWgz5YQk6OoSo"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Love Conquers All (Expanded Edition)",
         "url": "https://open.spotify.com/album/0CqVEdJUYqyHp1rlI07Fab"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 320280,
       "name": "Looking Up to You",
       "url": "https://open.spotify.com/track/5YPIX0GlnaAxaJBFJydMT4"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Zenyatta Mondatta (Remastered 2003)",
+        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 233253,
+      "name": "Voices Inside My Head",
+      "url": "https://open.spotify.com/track/0Jvn32u7plWgz5YQk6OoSo"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers Ubiquity",
+          "url": "https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7"
+        }
+      ],
+      "duration_ms": 414000,
+      "name": "Running Away - 12-Inch Long Version",
+      "url": "https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Harmonies",
         "url": "https://open.spotify.com/album/2l6MYrhN7T3DwsH05XsXxp"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 354213,
       "name": "The Sweetest Meditation",
       "url": "https://open.spotify.com/track/6Ds341awJUTMJ7Zmx3Gl1i"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers Ubiquity",
-          "url": "https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7"
-        }
-      ],
-      "duration_ms": 414000,
-      "name": "Running Away - 12-Inch Long Version",
-      "url": "https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Remind Me (The Classic Elektra Recordings 1978-1984)",
-        "url": "https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 438199,
-      "name": "Haven't You Heard - 12\" Version",
-      "url": "https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/4WpwTX4tsPEAw2ThOkYdT6"
       },
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "You're a Melody",
-        "url": "https://open.spotify.com/album/3XcLLEYjyx5KpYwAxLhBYt"
+        "name": "Remind Me (The Classic Elektra Recordings 1978-1984)",
+        "url": "https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t"
       },
       "artists": [
         {
-          "name": "Aged In Harmony",
-          "url": "https://open.spotify.com/artist/5hABGCgIH57T4NTNpp0gCL"
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
         }
       ],
-      "duration_ms": 259415,
-      "name": "You're a Melody - Extended Disco Version",
-      "url": "https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX"
+      "duration_ms": 438199,
+      "name": "Haven't You Heard - 12\" Version",
+      "url": "https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1399,18 +1383,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Paradise (Remastered)",
-        "url": "https://open.spotify.com/album/0aVMTknKy6rbFESKvOlOV3"
+        "name": "You're a Melody",
+        "url": "https://open.spotify.com/album/3XcLLEYjyx5KpYwAxLhBYt"
       },
       "artists": [
         {
-          "name": "Leroy Hutson",
-          "url": "https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6"
+          "name": "Aged In Harmony",
+          "url": "https://open.spotify.com/artist/5hABGCgIH57T4NTNpp0gCL"
         }
       ],
-      "duration_ms": 331893,
-      "name": "Classy Lady - Remastered Version",
-      "url": "https://open.spotify.com/track/2wSwWfqpMBkHBOkb6cCB7o"
+      "duration_ms": 259415,
+      "name": "You're a Melody - Extended Disco Version",
+      "url": "https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Magical Night (Greatest Hits Special Price)",
-        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
+        "name": "Paradise (Remastered)",
+        "url": "https://open.spotify.com/album/0aVMTknKy6rbFESKvOlOV3"
       },
       "artists": [
         {
-          "name": "Change",
-          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
+          "name": "Leroy Hutson",
+          "url": "https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6"
         }
       ],
-      "duration_ms": 268653,
-      "name": "Hold Tight - Full Length Album Mix",
-      "url": "https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd"
+      "duration_ms": 331893,
+      "name": "Classy Lady - Remastered Version",
+      "url": "https://open.spotify.com/track/2wSwWfqpMBkHBOkb6cCB7o"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Early Recordings",
-        "url": "https://open.spotify.com/album/75uCBV1xGMPYzD8e3NQjBs"
+        "name": "Magical Night (Greatest Hits Special Price)",
+        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
       },
       "artists": [
         {
-          "name": "Patchworks",
-          "url": "https://open.spotify.com/artist/5Qq1R0T5ZL6U0H8zerwFdo"
+          "name": "Change",
+          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
         }
       ],
-      "duration_ms": 330013,
-      "name": "Brothers on the Slide - Brooklyn Mix",
-      "url": "https://open.spotify.com/track/6sIrVJFCHotw73aOv6MAfP"
+      "duration_ms": 268653,
+      "name": "Hold Tight - Full Length Album Mix",
+      "url": "https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1491,6 +1475,22 @@
       "duration_ms": 702167,
       "name": "Agb'oju L'ogun - Original 12\" Version",
       "url": "https://open.spotify.com/track/0pmcA4lJnEjkqIFrotudmV"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Early Recordings",
+        "url": "https://open.spotify.com/album/75uCBV1xGMPYzD8e3NQjBs"
+      },
+      "artists": [
+        {
+          "name": "Patchworks",
+          "url": "https://open.spotify.com/artist/5Qq1R0T5ZL6U0H8zerwFdo"
+        }
+      ],
+      "duration_ms": 330013,
+      "name": "Brothers on the Slide - Brooklyn Mix",
+      "url": "https://open.spotify.com/track/6sIrVJFCHotw73aOv6MAfP"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/0scV3mO4LgQWYCmetJ5DZW"
-      },
-      "artists": [
-        {
-          "name": "Hubert Laws",
-          "url": "https://open.spotify.com/artist/2Mb147hrrMIoAy425UZkhv"
-        }
-      ],
-      "duration_ms": 453706,
-      "name": "Family - Stereo Version",
-      "url": "https://open.spotify.com/track/4i9pSye2fyhC6y2k7FyENX"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "The Brooklyn, Bronx & Queens Band",
         "url": "https://open.spotify.com/album/6SHMsBY50BGH9q3JDVVXMy"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 357760,
       "name": "On the Beat - Full Length Mix",
       "url": "https://open.spotify.com/track/5tdMJa2vdkSoONkzlZVD0o"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/0scV3mO4LgQWYCmetJ5DZW"
+      },
+      "artists": [
+        {
+          "name": "Hubert Laws",
+          "url": "https://open.spotify.com/artist/2Mb147hrrMIoAy425UZkhv"
+        }
+      ],
+      "duration_ms": 453706,
+      "name": "Family - Stereo Version",
+      "url": "https://open.spotify.com/track/4i9pSye2fyhC6y2k7FyENX"
     },
     {
       "added_at": "2022-09-05 16:54:43",

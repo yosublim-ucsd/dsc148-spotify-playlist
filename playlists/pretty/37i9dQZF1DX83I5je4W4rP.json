@@ -1,12 +1,12 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1041895,
+  "num_followers": 1042125,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTc1MDYwNiwwMDAwMDAwMGRiMzdlNWZkYTJiNGZjZjgzODI4YTFhNWRiNTkzMjg0",
+  "snapshot_id": "MTY4MTc1MDYwNiwwMDAwMDAwMDgxM2U4NzNiOWVlM2YwZmQ2ZWExOGZjMzNlYTVjZTlk",
   "tracks": [
     {
       "added_at": "2023-02-24 05:01:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/0tN2TkilPoLmqN21UJBC77"
-      },
-      "artists": [
-        {
-          "name": "DISPATCH",
-          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
-        }
-      ],
-      "duration_ms": 267746,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/2yGoiZes2YcueNA4nGDmdS"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "World on Fire",
         "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 269500,
       "name": "Shine",
       "url": "https://open.spotify.com/track/1QhrlNjzqmqEFW5T5yMFhw"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/0tN2TkilPoLmqN21UJBC77"
+      },
+      "artists": [
+        {
+          "name": "DISPATCH",
+          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
+        }
+      ],
+      "duration_ms": 267746,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/2yGoiZes2YcueNA4nGDmdS"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
+        "name": "Effection",
+        "url": "https://open.spotify.com/album/7DRW2mILmVTbyitwdNBdzU"
+      },
+      "artists": [
+        {
+          "name": "Mihali",
+          "url": "https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV"
+        }
+      ],
+      "duration_ms": 209250,
+      "name": "Digital Heaven",
+      "url": "https://open.spotify.com/track/5V7ge7ltQ3LTUXNNcRVWqw"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
         "name": "Hazel Eyes",
         "url": "https://open.spotify.com/album/5UW0VIeQ1cgfXJxGqddBm1"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 225080,
       "name": "Everyday People (Remix with B-Real & G.Love)",
       "url": "https://open.spotify.com/track/6pReUhCfnH5qxdjsG6vlig"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Effection",
-        "url": "https://open.spotify.com/album/7DRW2mILmVTbyitwdNBdzU"
-      },
-      "artists": [
-        {
-          "name": "Mihali",
-          "url": "https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV"
-        }
-      ],
-      "duration_ms": 209250,
-      "name": "Digital Heaven",
-      "url": "https://open.spotify.com/track/5V7ge7ltQ3LTUXNNcRVWqw"
     },
     {
       "added_at": "2023-02-24 05:01:00",

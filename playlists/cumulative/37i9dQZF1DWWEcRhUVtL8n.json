@@ -2817,6 +2817,24 @@
     },
     {
       "album": {
+        "name": "Blades",
+        "url": "https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221092,
+      "name": "Blades",
+      "url": "https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6"
+    },
+    {
+      "album": {
         "name": "Blame Game",
         "url": "https://open.spotify.com/album/2ROajNedjFylk0fhSUeE2E"
       },
@@ -9028,7 +9046,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 203624,
       "name": "free flow",
       "url": "https://open.spotify.com/track/1UxiPpx3EC2SqFmGoqlXOy"
@@ -12604,7 +12622,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 206904,
       "name": "I Wanna Live Forever",
       "url": "https://open.spotify.com/track/759ptp5ik4aLVCMnrQmUKg"
@@ -14860,7 +14878,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 168253,
       "name": "Let U Go",
       "url": "https://open.spotify.com/track/7FEiuFp1Zo9rxehIquEtL2"
@@ -21363,6 +21381,24 @@
     },
     {
       "album": {
+        "name": "Sad to Breathe",
+        "url": "https://open.spotify.com/album/0sGBhfoO2V3a2gJejL2Li6"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214320,
+      "name": "Sad to Breathe",
+      "url": "https://open.spotify.com/track/1NtoOI83OIXz4NXPj2VaKV"
+    },
+    {
+      "album": {
         "name": "Sad To See You Happy",
         "url": "https://open.spotify.com/album/0HxhtexTu3zoF0tqhQ0gnk"
       },
@@ -25916,6 +25952,24 @@
       "duration_ms": 146862,
       "name": "Throw me out a window",
       "url": "https://open.spotify.com/track/6dXRZeiUDfq3znjy7IzbhN"
+    },
+    {
+      "album": {
+        "name": "Til U Hate Me",
+        "url": "https://open.spotify.com/album/75TNCn37hWQM0jVKPTqKrt"
+      },
+      "artists": [
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199042,
+      "name": "Til U Hate Me",
+      "url": "https://open.spotify.com/track/3wrgRknQKf58IIEbV4flhx"
     },
     {
       "album": {

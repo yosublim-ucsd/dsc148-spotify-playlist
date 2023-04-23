@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > Mohamed Ramadan & Skales :أحدث الأغاني المصرية اليوم🤩 الغلاف
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,487 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,574 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: George Fitzgerald
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,596 likes - 127 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,620 likes - 127 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

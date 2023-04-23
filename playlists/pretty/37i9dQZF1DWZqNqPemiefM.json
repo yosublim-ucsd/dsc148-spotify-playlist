@@ -1,12 +1,12 @@
 {
   "description": "Deep concentration with these outstanding Japanese ambient tracks.",
-  "num_followers": 47275,
+  "num_followers": 47337,
   "original_name": "Ambient Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAwMjgwMCwwMDAwMDAwMGRjZDNlMzQ4YTJjZDA5Zjk1NGQyNjczNzBjZTEzYmY5",
+  "snapshot_id": "MTY4MjAwMjgwMCwwMDAwMDAwMDZmOTNmNGZmYTkzODE3M2EyNDMyZjQ1NzQzMzUxMTcw",
   "tracks": [
     {
       "added_at": "2023-04-20 15:00:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-04-20 15:00:00",
       "album": {
+        "name": "Low Power",
+        "url": "https://open.spotify.com/album/0Ht3fMdVTqXLXsBbuTpkTl"
+      },
+      "artists": [
+        {
+          "name": "H.Takahashi",
+          "url": "https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV"
+        }
+      ],
+      "duration_ms": 239743,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2riD9ftmTbvDyVCvTxMOxR"
+    },
+    {
+      "added_at": "2023-04-20 15:00:00",
+      "album": {
         "name": "Cendre",
         "url": "https://open.spotify.com/album/6Ug9IHC7kmelugY2t0MMQe"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 279560,
       "name": "Haru",
       "url": "https://open.spotify.com/track/1UYQz9iqSCdLNc9UVkJo0o"
-    },
-    {
-      "added_at": "2023-04-20 15:00:00",
-      "album": {
-        "name": "Low Power",
-        "url": "https://open.spotify.com/album/0Ht3fMdVTqXLXsBbuTpkTl"
-      },
-      "artists": [
-        {
-          "name": "H.Takahashi",
-          "url": "https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV"
-        }
-      ],
-      "duration_ms": 239743,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/2riD9ftmTbvDyVCvTxMOxR"
     },
     {
       "added_at": "2023-04-20 15:00:00",
@@ -827,18 +827,26 @@
     {
       "added_at": "2023-04-20 15:00:00",
       "album": {
-        "name": "Floating",
-        "url": "https://open.spotify.com/album/6b2Sqwcq4FXgRXLVsbIPdr"
+        "name": "FRKWYS Vol. 15: serenitatem",
+        "url": "https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP"
       },
       "artists": [
         {
-          "name": "Haruhisa Tanaka",
-          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+          "name": "Visible Cloaks",
+          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
+        },
+        {
+          "name": "Yoshio Ojima",
+          "url": "https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa"
+        },
+        {
+          "name": "Satsuki Shibano",
+          "url": "https://open.spotify.com/artist/41uROYFIU6V6D0dHUdpS6c"
         }
       ],
-      "duration_ms": 136124,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/5Zala3EsVj5ZLpQdvlIX2M"
+      "duration_ms": 431502,
+      "name": "Stratum",
+      "url": "https://open.spotify.com/track/6yXUaEbzWHCrYYUrw2KTpV"
     }
   ],
   "unique_name": "Ambient Tokyo",

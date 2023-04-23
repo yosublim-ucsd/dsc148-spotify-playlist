@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. Winter on cover!",
-  "num_followers": 61263,
+  "num_followers": 61558,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTUxMzc5NSwwMDAwMDAwMGM0ZjMwNzRkOGEwYWUzYzdlZDA0YmIxMWU1OGJlZDg3",
+  "snapshot_id": "MTY4MTUxMzc5NSwwMDAwMDAwMDEwNjM2MTJkZmYzYjBkMjA2M2FmZjI1NjA3NzVmMDg2",
   "tracks": [
     {
       "added_at": "2023-03-13 22:23:31",
@@ -589,22 +589,6 @@
       "url": "https://open.spotify.com/track/5Q2anZvDOyIc4OY5V47svD"
     },
     {
-      "added_at": "2023-02-27 23:19:06",
-      "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 171563,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
-    },
-    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Bang Bang",
@@ -635,6 +619,22 @@
       "duration_ms": 200441,
       "name": "Pulling Our Weight",
       "url": "https://open.spotify.com/track/5JfibYpOT2Rtw6a0iWHiNm"
+    },
+    {
+      "added_at": "2023-02-27 23:19:06",
+      "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 171563,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
     },
     {
       "added_at": "2023-01-12 03:03:40",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN"
     },
     {
-      "added_at": "2023-02-09 20:06:26",
-      "album": {
-        "name": "Someone2Me",
-        "url": "https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 226471,
-      "name": "Someone2Me",
-      "url": "https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Tired of Tomorrow (Deluxe Version)",
@@ -781,22 +765,6 @@
       "url": "https://open.spotify.com/track/1gbvCuQHPTgU7sgWCbqtVV"
     },
     {
-      "added_at": "2023-02-27 23:19:06",
-      "album": {
-        "name": "Bath County",
-        "url": "https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC"
-      },
-      "artists": [
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 190105,
-      "name": "Bath County",
-      "url": "https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Everything Else Matters",
@@ -811,6 +779,22 @@
       "duration_ms": 248744,
       "name": "Holy Forest",
       "url": "https://open.spotify.com/track/5740WNrWQZEiXK6yoPp2q4"
+    },
+    {
+      "added_at": "2023-02-09 20:06:26",
+      "album": {
+        "name": "Someone2Me",
+        "url": "https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 226471,
+      "name": "Someone2Me",
+      "url": "https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -829,20 +813,36 @@
       "url": "https://open.spotify.com/track/6Y185DCfJ2mCI7aU65WdJl"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2023-02-27 23:19:06",
       "album": {
-        "name": "The Great Dismal",
-        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+        "name": "Bath County",
+        "url": "https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC"
       },
       "artists": [
         {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
         }
       ],
-      "duration_ms": 250096,
-      "name": "Famine Asylum",
-      "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
+      "duration_ms": 190105,
+      "name": "Bath County",
+      "url": "https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Deceiver",
+        "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Blankenship",
+      "url": "https://open.spotify.com/track/2ZKkGDjImEoTafrLyZHjlp"
     },
     {
       "added_at": "2022-12-15 18:01:43",
@@ -893,6 +893,22 @@
       "url": "https://open.spotify.com/track/5C7qOiBXr8KFGx9xRxX6CX"
     },
     {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "The Great Dismal",
+        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 250096,
+      "name": "Famine Asylum",
+      "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
+    },
+    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "idk how to luv",
@@ -925,22 +941,6 @@
       "url": "https://open.spotify.com/track/2q6bBFVnWvaCRxELkHdsSa"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Deceiver",
-        "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "Blankenship",
-      "url": "https://open.spotify.com/track/2ZKkGDjImEoTafrLyZHjlp"
-    },
-    {
       "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "don't tell me",
@@ -959,22 +959,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Tired of Tomorrow (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 270281,
-      "name": "The Dead Are Dumb",
-      "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Twin Plagues",
         "url": "https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H"
       },
@@ -987,38 +971,6 @@
       "duration_ms": 148453,
       "name": "Handsome Man",
       "url": "https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh"
-    },
-    {
-      "added_at": "2022-01-07 19:52:45",
-      "album": {
-        "name": "Strawberry",
-        "url": "https://open.spotify.com/album/5aZjNX2D52tzOPM2FMcA0v"
-      },
-      "artists": [
-        {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
-        }
-      ],
-      "duration_ms": 209708,
-      "name": "Strawberry",
-      "url": "https://open.spotify.com/track/0kttqKdToPQupUgaBto3UM"
-    },
-    {
-      "added_at": "2022-09-21 00:37:05",
-      "album": {
-        "name": "You Will Never Know Why",
-        "url": "https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M"
-      },
-      "artists": [
-        {
-          "name": "Sweet Trip",
-          "url": "https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM"
-        }
-      ],
-      "duration_ms": 281746,
-      "name": "Air Supply",
-      "url": "https://open.spotify.com/track/3I7Uqll4wyJmfBSDQWiLWh"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1037,6 +989,54 @@
       "url": "https://open.spotify.com/track/10FlXJUgM6r159dNILdFDt"
     },
     {
+      "added_at": "2022-09-21 00:37:05",
+      "album": {
+        "name": "You Will Never Know Why",
+        "url": "https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M"
+      },
+      "artists": [
+        {
+          "name": "Sweet Trip",
+          "url": "https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM"
+        }
+      ],
+      "duration_ms": 281746,
+      "name": "Air Supply",
+      "url": "https://open.spotify.com/track/3I7Uqll4wyJmfBSDQWiLWh"
+    },
+    {
+      "added_at": "2022-01-07 19:52:45",
+      "album": {
+        "name": "Strawberry",
+        "url": "https://open.spotify.com/album/5aZjNX2D52tzOPM2FMcA0v"
+      },
+      "artists": [
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "duration_ms": 209708,
+      "name": "Strawberry",
+      "url": "https://open.spotify.com/track/0kttqKdToPQupUgaBto3UM"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Tired of Tomorrow (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 270281,
+      "name": "The Dead Are Dumb",
+      "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
+    },
+    {
       "added_at": "2023-03-24 04:01:00",
       "album": {
         "name": "Cranekiss",
@@ -1051,22 +1051,6 @@
       "duration_ms": 230408,
       "name": "Cranekiss",
       "url": "https://open.spotify.com/track/5ljHvSOYJ2AQfZoTlVwni1"
-    },
-    {
-      "added_at": "2023-02-09 20:06:26",
-      "album": {
-        "name": "taste of concrete",
-        "url": "https://open.spotify.com/album/3P3IXKGBC2d0SfJAvcbg9V"
-      },
-      "artists": [
-        {
-          "name": "Shrimp",
-          "url": "https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC"
-        }
-      ],
-      "duration_ms": 152061,
-      "name": "taste of concrete",
-      "url": "https://open.spotify.com/track/5gsLyERQX8cQslfSqdhTw3"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1101,6 +1085,22 @@
       "url": "https://open.spotify.com/track/2GWjuqubd6LAYgimjWiGu3"
     },
     {
+      "added_at": "2023-02-09 20:06:26",
+      "album": {
+        "name": "taste of concrete",
+        "url": "https://open.spotify.com/album/3P3IXKGBC2d0SfJAvcbg9V"
+      },
+      "artists": [
+        {
+          "name": "Shrimp",
+          "url": "https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC"
+        }
+      ],
+      "duration_ms": 152061,
+      "name": "taste of concrete",
+      "url": "https://open.spotify.com/track/5gsLyERQX8cQslfSqdhTw3"
+    },
+    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Despondent Transponder",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Dance on the Blacktop",
-        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 270853,
-      "name": "Blue Line Baby",
-      "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Dead Kids R.I.P. City",
         "url": "https://open.spotify.com/album/09GvIBV4cQDhvlL8rzTIy3"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 151560,
       "name": "Pretty Face",
       "url": "https://open.spotify.com/track/7n3Y93fkz1oRdsgpYTazkh"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Dance on the Blacktop",
+        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 270853,
+      "name": "Blue Line Baby",
+      "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
     },
     {
       "added_at": "2021-10-19 01:47:29",

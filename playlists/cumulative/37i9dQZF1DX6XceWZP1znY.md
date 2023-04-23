@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-731 songs - 2 day 0 hr 26 min
+732 songs - 2 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,7 @@
 | [LOVE ROCKETS](https://open.spotify.com/track/6stn0schvLBMoRHsDeYiIi) | [The Birthday](https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH) | [LOVE ROCKETS](https://open.spotify.com/album/0wN4mrkQyl961vNqhchf7N) | 4:21 | 2022-12-23 | 2023-01-07 |
 | [Love\-Evidence](https://open.spotify.com/track/4KmhIHRUmZ7ND8RM8Trt2o) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [Love\-Evidence](https://open.spotify.com/album/6TDFwzNnos4RFkmDG7lNnG) | 3:25 | 2022-06-07 | 2022-07-19 |
 | [Lucky Ending](https://open.spotify.com/track/3ZYKbGJ6I5adT5ozf0N6OH) | [Vickeblanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Lucky Ending](https://open.spotify.com/album/6PAYUx6xgcAt1NxY6bXW85) | 4:15 | 2022-06-07 | 2022-07-29 |
-| [Luxury Spoon](https://open.spotify.com/track/7K7QoJtb4WAgEHn8lt9ilJ) | [Van de Shop](https://open.spotify.com/artist/2AP6xm7ZJZtcLkN2pccaX9) | [Luxury Spoon](https://open.spotify.com/album/1n88YDIWx9tuAL4mykoAVh) | 3:58 | 2023-04-01 |  |
+| [Luxury Spoon](https://open.spotify.com/track/7K7QoJtb4WAgEHn8lt9ilJ) | [Van de Shop](https://open.spotify.com/artist/2AP6xm7ZJZtcLkN2pccaX9) | [Luxury Spoon](https://open.spotify.com/album/1n88YDIWx9tuAL4mykoAVh) | 3:58 | 2023-04-01 | 2023-04-23 |
 | [MACHINEGUN](https://open.spotify.com/track/5JvUIJJ4c3vjaxK214O7Bg) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [MACHINEGUN](https://open.spotify.com/album/1vswqvNGZRf94qJPLRzj05) | 3:41 | 2022-06-07 | 2022-11-13 |
 | [MAGIC TIME](https://open.spotify.com/track/6Unwf4vD3ygUvr39kEmIRV) | [sudannayuzuyully](https://open.spotify.com/artist/4AA6Dmgfg8CRDXoBAgnkvc) | [MAGIC TIME](https://open.spotify.com/album/5NgYsNywkut0VDktPlTW8u) | 4:04 | 2022-06-07 | 2022-07-27 |
 | [magical mode](https://open.spotify.com/track/7waOAycmw7CMs383WlEKwH) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [magical mode](https://open.spotify.com/album/2mmqTIWxwqrmqKRWPVcx0O) | 3:58 | 2022-06-07 | 2022-07-28 |
@@ -622,6 +622,7 @@
 | [平行線](https://open.spotify.com/track/0KWRKoApTN934fJRgs7C0z) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [ミカヅキの航海](https://open.spotify.com/album/6peVO4PKuuNbqCaQw5z6yE) | 4:58 | 2022-06-07 | 2022-07-29 |
 | [平行線](https://open.spotify.com/track/206gqT4spFnIoGwuCpwR79) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [ミカヅキの航海](https://open.spotify.com/album/15eNAwfeREX3xNlBSN28wK) | 4:58 | 2022-06-07 | 2023-03-27 |
 | [廻廻奇譚](https://open.spotify.com/track/5MVjxslIF7mVtYo75Nk445) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [廻廻奇譚 / 蒼のワルツ](https://open.spotify.com/album/5AXzkXGoyKh4KU8paELFVu) | 3:41 | 2022-06-07 | 2022-07-29 |
+| [当事者](https://open.spotify.com/track/69TMjHuBaLNRtMPopKWbdC) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [当事者](https://open.spotify.com/album/4BdgxEZaVzqaJYwYwJeoJn) | 4:01 | 2023-04-21 |  |
 | [往け](https://open.spotify.com/track/4cDm9C5jhBiIyYxVhQmMwB) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [往け](https://open.spotify.com/album/3zQM46m2V0bUGFeCNA0evx) | 3:48 | 2022-06-07 | 2022-11-13 |
 | [心海](https://open.spotify.com/track/0FJ6h0nFIe3irtTsrtuevI) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [廻廻奇譚 / 蒼のワルツ](https://open.spotify.com/album/5AXzkXGoyKh4KU8paELFVu) | 4:26 | 2022-06-07 | 2022-07-29 |
 | [心臓](https://open.spotify.com/track/5jAzYu1dMEp0Mx3RCnTWrM) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [心臓](https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm) | 3:34 | 2022-11-22 | 2023-02-04 |

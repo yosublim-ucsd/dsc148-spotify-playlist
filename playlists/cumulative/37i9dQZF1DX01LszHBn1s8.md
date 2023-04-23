@@ -4,7 +4,7 @@
 
 > If I were a fish and you caught me you'd say look at that fish!!!
 
-1,057 songs - 2 day 7 hr 36 min
+1,058 songs - 2 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -543,7 +543,8 @@
 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 | 2022-05-19 |  |
 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/4PpBW7uraT7NsCr6TG29aN) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/album/21ILWHLJKxFiLqPVm0Bvn2) | 2:13 | 2022-11-24 |  |
 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5I1ruiTRwXNDR8cRicL8uN) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/album/3FI3NJLNXH0FMx2tavwJ3l) | 2:13 | 2022-05-19 | 2022-12-01 |
-| [Love Lost](https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:42 | 2022-07-22 |  |
+| [Love Lost](https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:42 | 2022-07-22 | 2023-04-23 |
+| [Love Lost](https://open.spotify.com/track/2z9iuAxKv4TTeCrPAxxKg9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [I Love Life, Thank You](https://open.spotify.com/album/5LNX3esjvdBJ6hN4XDvCJn) | 2:42 | 2023-03-23 |  |
 | [Love Me](https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Love Me](https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel) | 3:27 | 2022-05-19 |  |
 | [Love Me Back](https://open.spotify.com/track/6gbk2Uxer4YJ1uJ9TKt9EI) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Love Me Back](https://open.spotify.com/album/3FSnxrJFGEaDSo0pddtkbh) | 2:28 | 2022-07-14 | 2022-10-14 |
 | [Love Me Back](https://open.spotify.com/track/6p95Fy7WYNpxeAaId7WLGk) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Love Me Back](https://open.spotify.com/album/3CIxFuXTFzzoFk6BRqbcs5) | 2:28 | 2022-10-06 |  |

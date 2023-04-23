@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 118797,
+  "num_followers": 118854,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTk5ODg2OCwwMDAwMDAwMDM1YzU5YTVjYWFlZTY0OGUxNzUzNTAzYzY0OWE1NWIy",
+  "snapshot_id": "MTY4MTk5ODg2OCwwMDAwMDAwMGQzZGNiMzJlMjE0NzU3YmVkMzFkMTdlNzg5NmQ4YjNl",
   "tracks": [
     {
       "added_at": "2023-04-20 13:54:28",
@@ -787,26 +787,6 @@
     {
       "added_at": "2023-04-20 13:54:28",
       "album": {
-        "name": "Strangers (with Mansionair)",
-        "url": "https://open.spotify.com/album/7n50hdKDAZWurnx43hDHhJ"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        }
-      ],
-      "duration_ms": 217390,
-      "name": "Strangers (with Mansionair)",
-      "url": "https://open.spotify.com/track/5nBqvq3hUl8n6HtKtwNphW"
-    },
-    {
-      "added_at": "2023-04-20 13:54:28",
-      "album": {
         "name": "OoooH",
         "url": "https://open.spotify.com/album/0GFRCYzjZQJDNCnu4z4FOa"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 202017,
       "name": "OoooH",
       "url": "https://open.spotify.com/track/0pirokrbgCxZ0nvZsl5qEU"
+    },
+    {
+      "added_at": "2023-04-20 13:54:28",
+      "album": {
+        "name": "Strangers (with Mansionair)",
+        "url": "https://open.spotify.com/album/7n50hdKDAZWurnx43hDHhJ"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "duration_ms": 217390,
+      "name": "Strangers (with Mansionair)",
+      "url": "https://open.spotify.com/track/5nBqvq3hUl8n6HtKtwNphW"
     },
     {
       "added_at": "2023-04-20 13:54:28",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2023-04-20 13:54:28",
       "album": {
-        "name": "Bang My Line (feat. Tkay Maidza)",
-        "url": "https://open.spotify.com/album/6lqBnIRiQzELwDrz7MCbCt"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 153500,
-      "name": "Bang My Line (feat. Tkay Maidza)",
-      "url": "https://open.spotify.com/track/5phuEZAscX7xyQgvxyLKir"
-    },
-    {
-      "added_at": "2023-04-20 13:54:28",
-      "album": {
         "name": "Supersonic",
         "url": "https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 169658,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ"
+    },
+    {
+      "added_at": "2023-04-20 13:54:28",
+      "album": {
+        "name": "Bang My Line (feat. Tkay Maidza)",
+        "url": "https://open.spotify.com/album/6lqBnIRiQzELwDrz7MCbCt"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 153500,
+      "name": "Bang My Line (feat. Tkay Maidza)",
+      "url": "https://open.spotify.com/track/5phuEZAscX7xyQgvxyLKir"
     },
     {
       "added_at": "2023-04-20 13:54:28",
@@ -1099,22 +1099,18 @@
     {
       "added_at": "2023-04-20 13:54:28",
       "album": {
-        "name": "What I Breathe",
-        "url": "https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw"
+        "name": "Noise",
+        "url": "https://open.spotify.com/album/1nxDKrCB3QOB3nKPQQMofF"
       },
       "artists": [
         {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        },
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
         }
       ],
-      "duration_ms": 257424,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/0MYqjhoG0r9K23MAk4ok5A"
+      "duration_ms": 282225,
+      "name": "Noise",
+      "url": "https://open.spotify.com/track/2aVmzjkwJyTWxuUUu7aMIf"
     },
     {
       "added_at": "2023-04-20 13:54:28",
@@ -1135,18 +1131,22 @@
     {
       "added_at": "2023-04-20 13:54:28",
       "album": {
-        "name": "Sun Phase",
-        "url": "https://open.spotify.com/album/39UdQPn62ARMPc0NUNQOLE"
+        "name": "What I Breathe",
+        "url": "https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw"
       },
       "artists": [
         {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        },
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
         }
       ],
-      "duration_ms": 316454,
-      "name": "Sun Phase",
-      "url": "https://open.spotify.com/track/1yfUYv5TOkuFbePQubZlEk"
+      "duration_ms": 257424,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/0MYqjhoG0r9K23MAk4ok5A"
     }
   ],
   "unique_name": "Sunday Sessions",

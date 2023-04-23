@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。JVKE & 藤井風, The Weeknd & Future, and more! Cover: JVKE
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,982 likes - 77 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,177 likes - 77 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

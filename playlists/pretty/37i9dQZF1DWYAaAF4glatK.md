@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 
 > Plus que 8 semaines avant l'été ! 🍦
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,265 likes - 53 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,354 likes - 53 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

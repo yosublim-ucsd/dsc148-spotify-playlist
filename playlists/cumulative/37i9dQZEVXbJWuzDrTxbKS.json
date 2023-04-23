@@ -136,7 +136,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
@@ -3624,7 +3624,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 184013,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
@@ -5467,6 +5467,28 @@
     },
     {
       "album": {
+        "name": "Double Fantasy",
+        "url": "https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268235,
+      "name": "Double Fantasy (with Future)",
+      "url": "https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi"
+    },
+    {
+      "album": {
         "name": "Down In Atlanta",
         "url": "https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp"
       },
@@ -6992,7 +7014,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 91869,
       "name": "Formula",
       "url": "https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s"
@@ -7830,6 +7852,24 @@
       "duration_ms": 238971,
       "name": "h u n g e r . o n . h i l l s i d e (with Bas)",
       "url": "https://open.spotify.com/track/5BwQjRasNcdRPuVWKcHto2"
+    },
+    {
+      "album": {
+        "name": "D-DAY",
+        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168926,
+      "name": "Haegeum",
+      "url": "https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1"
     },
     {
       "album": {
@@ -10820,10 +10860,28 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 153442,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
+    },
+    {
+      "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px"
     },
     {
       "album": {
@@ -11866,7 +11924,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 213920,
       "name": "Lovers Rock",
       "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM"
@@ -13694,7 +13752,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 145000,
       "name": "Murder In My Mind",
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
@@ -13926,7 +13984,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-18",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "M\u016b\u017eam Jauns",
       "url": "https://open.spotify.com/track/3oQTUYUbPjUZybgQhS6yfW"
@@ -15261,6 +15319,24 @@
     },
     {
       "album": {
+        "name": "Pagalmi",
+        "url": "https://open.spotify.com/album/3yyRwGjDGf56qhBoPZOMQt"
+      },
+      "artists": [
+        {
+          "name": "Pr\u0101ta V\u0113tra",
+          "url": "https://open.spotify.com/artist/52SusfPq6EW5PgrjUqMHSy"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192452,
+      "name": "Pagalmi",
+      "url": "https://open.spotify.com/track/4IvtUbHxGO6goUIIcU5Fle"
+    },
+    {
+      "album": {
         "name": "PAINTING PICTURES",
         "url": "https://open.spotify.com/album/5ASBbAgO8v9AHDUICfEHJx"
       },
@@ -15790,7 +15866,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-18",
+      "date_removed": null,
       "duration_ms": 255606,
       "name": "Piepist Seju",
       "url": "https://open.spotify.com/track/0fyfPkT2929pU4hsqJqp7y"
@@ -16794,7 +16870,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 120026,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
@@ -16834,7 +16910,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 239359,
       "name": "Rich Flex",
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
@@ -18752,7 +18828,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-17",
+      "date_removed": null,
       "duration_ms": 123672,
       "name": "SLUT ME OUT",
       "url": "https://open.spotify.com/track/0WoVfPjxsf9MTvPt9ptqeE"
@@ -19852,7 +19928,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-23",
       "duration_ms": 195373,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
@@ -24117,6 +24193,24 @@
     },
     {
       "album": {
+        "name": "C\u043a\u0443\u0447\u0430\u044e, \u041d\u043e \u0420\u0430\u0431\u043e\u0442\u0430\u044e",
+        "url": "https://open.spotify.com/album/1jfgIZ6NpbIMApVH5qq7um"
+      },
+      "artists": [
+        {
+          "name": "OG Buda",
+          "url": "https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136421,
+      "name": "\u0414\u043b\u044f \u0422\u0435\u0431\u044f (\u041f\u0443\u0441\u0442\u043e)",
+      "url": "https://open.spotify.com/track/3qCPpBdgNJf1xG9t8O2pjJ"
+    },
+    {
+      "album": {
         "name": "\u0414\u043e\u043c \u041f\u0435\u0440\u0438\u043d\u044c\u043e\u043d",
         "url": "https://open.spotify.com/album/2BzlnRShyxnyPh5Dp9uEeT"
       },
@@ -25466,6 +25560,24 @@
       "duration_ms": 125584,
       "name": "\u0422\u042b \u041e\u0421\u041b\u0415\u041f",
       "url": "https://open.spotify.com/track/0e2de4hqK1CKt0dolrcrzb"
+    },
+    {
+      "album": {
+        "name": "\u0422\u044f\u0433\u0438",
+        "url": "https://open.spotify.com/album/2QHaHKZbkH7O9i5tayABB7"
+      },
+      "artists": [
+        {
+          "name": "INSTASAMKA",
+          "url": "https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97333,
+      "name": "\u0422\u044f\u0433\u0438",
+      "url": "https://open.spotify.com/track/1g7RdWMOZYbNgkPDmmKU5g"
     },
     {
       "album": {

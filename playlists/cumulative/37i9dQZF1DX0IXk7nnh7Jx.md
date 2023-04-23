@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI?si=f757c25bb9da48e0">Madison Ryann Ward</a>
 
-324 songs - 19 hr 53 min
+325 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Happy](https://open.spotify.com/track/0Xp0lKqJIdgrjSH6sgzgZd) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU) | [Happy](https://open.spotify.com/album/5otImxxh8AbzxndieeMrZb) | 3:27 | 2023-02-19 |  |
 | [HATE TO TRY](https://open.spotify.com/track/0svfrfshZVw0tToRLLVWV1) | [KAYDEN](https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn) | [HATE TO TRY](https://open.spotify.com/album/3b60i1fSd2wy3Ro4iIJJOJ) | 3:15 | 2023-02-24 | 2023-04-09 |
 | [Have My Heart](https://open.spotify.com/track/1x5wCRfjkvBtsWEWO0uBSc) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [BINDANG](https://open.spotify.com/artist/3TFW2ZeRoCbbx7SrS3rcNW) | [Have My Heart](https://open.spotify.com/album/0VYPJJVnnlaarZXaQFWsu1) | 2:56 | 2023-02-19 |  |
-| [Headfirst](https://open.spotify.com/track/5N34tSRu38sC4YKlywEIIQ) | [MUCH MORE](https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs) | [Headfirst](https://open.spotify.com/album/15Z76iMILaxea4yJkCkdLS) | 3:18 | 2023-04-07 |  |
+| [Headfirst](https://open.spotify.com/track/5N34tSRu38sC4YKlywEIIQ) | [MUCH MORE](https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs) | [Headfirst](https://open.spotify.com/album/15Z76iMILaxea4yJkCkdLS) | 3:18 | 2023-04-07 | 2023-04-23 |
 | [heaven come](https://open.spotify.com/track/77h1vOw1NNuCVVYoqviuXZ) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [heaven come](https://open.spotify.com/album/7xcKfIPvCRido81mmOFmzs) | 3:17 | 2023-02-19 |  |
 | [Heavenly Father](https://open.spotify.com/track/7jnjh0HXSYrmnVSR36sGse) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Heavenly Father](https://open.spotify.com/album/7gPXh1cpreAlqwaxi3cgoh) | 3:42 | 2023-02-20 |  |
 | [Held by Your Love](https://open.spotify.com/track/0dg0c9iEAUZkMb7bKjMjVK) | [Lion & Bear](https://open.spotify.com/artist/5TsRb3Um92OMG44jdhhk1g) | [Hollows](https://open.spotify.com/album/2imamoQz5Xq5JRVd1SFP0l) | 4:26 | 2020-12-18 | 2023-02-19 |
@@ -207,6 +207,7 @@
 | [Perfectly Loved](https://open.spotify.com/track/6YNdJX3lhmo0u8j293HaAM) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Perfectly Loved](https://open.spotify.com/album/3hSPfcqoL3BUTEKZjonyZh) | 3:23 | 2023-02-19 |  |
 | [Person In Christ](https://open.spotify.com/track/1pdX4gY5t6sdZdsd5lp3Z5) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [Person In Christ](https://open.spotify.com/album/5TZciwCzlDz8wObaigKYBu) | 4:10 | 2020-12-18 | 2023-02-19 |
 | [Peter](https://open.spotify.com/track/0vfUIl2gKEUdX0Dupf8Yrq) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [Move of Heaven](https://open.spotify.com/album/1PReZwfDFK1wIDH0Q4QbwD) | 5:39 | 2023-02-19 |  |
+| [Picking Petals](https://open.spotify.com/track/4gglchcFHrNWLhb5yJEpnp) | [Rilena](https://open.spotify.com/artist/099dIkrpVwkwEeVC79sx6d) | [Picking Petals](https://open.spotify.com/album/507DPRJuD3ZOks0lOHwaPI) | 3:55 | 2023-04-21 |  |
 | [Pilgrim](https://open.spotify.com/track/1o5n9x03Na2DzkUuGB0TMo) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Peopled with Dreams](https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv) | 3:57 | 2020-12-18 | 2023-02-19 |
 | [Places \(Des Endroits\)](https://open.spotify.com/track/1woGAdF9icCiBZK0j3yLWg) | [Armand Mukenge](https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i), [Mbushka](https://open.spotify.com/artist/3IRgs9UVzAlK73dZiYI1Ya) | [Places \(Des Endroits\)](https://open.spotify.com/album/7GyGTZAigB3RZKrq3JPjV2) | 3:32 | 2023-02-24 | 2023-02-26 |
 | [Please](https://open.spotify.com/track/1kaLtPuItQfngF9AYjbXwp) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Jesus Changed My Life](https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82) | 3:16 | 2023-02-24 |  |

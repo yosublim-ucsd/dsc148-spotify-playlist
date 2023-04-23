@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-929 songs - 2 day 8 hr 50 min
+930 songs - 2 day 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -513,7 +513,7 @@
 | [Luna Orgullosa](https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Boleros](https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ) | 3:21 | 2022-04-01 | 2022-04-16 |
 | [Macetitas](https://open.spotify.com/track/62Nq6KUYEZWcVhmwC1fHcm) | [Soy Rada and the Colibriquis](https://open.spotify.com/artist/1FuC6w5K3iO32aU8k4TiPA) | [Macetitas](https://open.spotify.com/album/2NCLhAd5GOjlsfiYnEgndj) | 3:22 | 2022-03-24 | 2022-04-02 |
 | [Madrugada](https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:41 | 2021-12-24 |  |
-| [MAFIOSA](https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [MAFIOSA](https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH) | 4:26 | 2022-04-08 |  |
+| [MAFIOSA](https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [MAFIOSA](https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH) | 4:26 | 2022-04-08 | 2023-04-23 |
 | [Magia \(feat\. Sebastián Yatra\)](https://open.spotify.com/track/6xAhkN7uE1qdhPa8jZwhTb) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Magia \(feat\. Sebastián Yatra\)](https://open.spotify.com/album/0lVfnTGqaUdTWSFjMhsBlT) | 3:12 | 2022-03-24 | 2022-04-15 |
 | [Magia Veneno](https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 3:58 | 2022-03-24 | 2022-04-06 |
 | [Malas Decisiones](https://open.spotify.com/track/4GMPvDFqKCi4kes1pwhYqM) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Malas Decisiones](https://open.spotify.com/album/4S5FhdcOcOZUoi7D5WqMLm) | 3:13 | 2022-03-11 | 2022-07-28 |
@@ -654,6 +654,7 @@
 | [Perdiste](https://open.spotify.com/track/0F5XJpcmHDrCy2CiicWIxH) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP), [Mariana Carrizo](https://open.spotify.com/artist/4CacTDAcLCUIscmGzoQE4z) | [Ahyre](https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN) | 3:29 | 2021-12-24 | 2022-04-20 |
 | [Perdiste \- En Vivo](https://open.spotify.com/track/4ng0nhiE0GOIgxvFbeSHcm) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/0EBysOccmfX0ipuZnOVTj7) | 3:24 | 2022-04-08 | 2022-04-19 |
 | [Peregrinos](https://open.spotify.com/track/6zkFyFTX1jVxrd8s1cpa9A) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Reevolución](https://open.spotify.com/album/6mh57IdIEVmRX7YWnG83pO) | 3:02 | 2022-04-08 | 2022-04-15 |
+| [Perfecta \(Versión 2023\)](https://open.spotify.com/track/6ABLjztDyv49ZSZYDexYtc) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Perfecta \(Versión 2023\)](https://open.spotify.com/album/66H0ONEidLsiliImzsMkeM) | 3:41 | 2023-04-21 |  |
 | [Perfil de Egreso](https://open.spotify.com/track/1c5vMOaCgTEjZ8Rm2nqzRQ) | [El Alemán](https://open.spotify.com/artist/7mEsL5ToO5xme77cco1zlg) | [Perfil de Egreso](https://open.spotify.com/album/521PGmgiIPGDXFKOnJZyPh) | 4:04 | 2022-04-08 | 2022-04-10 |
 | [Perfumes Nocturnos](https://open.spotify.com/track/5cAdobR0Bt9w3MOm3h4mtx) | [Elcolo y la Macumba](https://open.spotify.com/artist/5olrsIit3ehWQ9EBlHCoJW) | [Perfumes Nocturnos](https://open.spotify.com/album/20IxRPmXln7O64CruvXYkn) | 3:51 | 2022-04-08 | 2022-04-13 |
 | [pero qué cosa](https://open.spotify.com/track/6geXsAjM8bTLrBs6zSyJfn) | [Fer Perozo](https://open.spotify.com/artist/4Y3nku1hJZADNFyHeS3A6J) | [pero qué cosa](https://open.spotify.com/album/5JIuuUoRZYi10dR6B6IBDB) | 2:45 | 2022-04-13 | 2022-04-17 |

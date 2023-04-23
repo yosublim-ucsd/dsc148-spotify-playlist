@@ -1,12 +1,12 @@
 {
   "description": "Heartbreaking and sad instrumental and vocal Jazz.",
-  "num_followers": 54232,
+  "num_followers": 54307,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTk4MzQ5NiwwMDAwMDAwMGY3N2M3ZjU2MzEyMWM5MjAyODUzNmZmYmZhZTA4NzQ2",
+  "snapshot_id": "MTY4MTk4MzQ5NiwwMDAwMDAwMGZkNjdhY2M2ZGM2M2I3ZmFkOWU4MTA0YjRjNWM4NTk0",
   "tracks": [
     {
       "added_at": "2023-04-20 09:38:16",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-04-20 09:38:16",
       "album": {
-        "name": "Pointless Nostalgic",
-        "url": "https://open.spotify.com/album/4AD8H57Um3MlSuuqN4fZNv"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 315773,
-      "name": "I Can't Get Started",
-      "url": "https://open.spotify.com/track/2NHXhH8nZHgoMtcphN7PnB"
-    },
-    {
-      "added_at": "2023-04-20 09:38:16",
-      "album": {
         "name": "Duets An American Classic",
         "url": "https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 201586,
       "name": "The Boulevard of Broken Dreams (with Sting)",
       "url": "https://open.spotify.com/track/5bG5GUKVJztKR5nff1CwUp"
+    },
+    {
+      "added_at": "2023-04-20 09:38:16",
+      "album": {
+        "name": "Pointless Nostalgic",
+        "url": "https://open.spotify.com/album/4AD8H57Um3MlSuuqN4fZNv"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 315773,
+      "name": "I Can't Get Started",
+      "url": "https://open.spotify.com/track/2NHXhH8nZHgoMtcphN7PnB"
     },
     {
       "added_at": "2023-04-20 09:38:16",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-04-20 09:38:16",
       "album": {
-        "name": "Born To Be Blue",
-        "url": "https://open.spotify.com/album/6vDO6c6V3hYq3KA2psLsZv"
+        "name": "Night Lights",
+        "url": "https://open.spotify.com/album/5kQfbxLa8K9n8zYHXJQ7Zx"
       },
       "artists": [
         {
-          "name": "Beverly Kenney",
-          "url": "https://open.spotify.com/artist/65AXHPhvpKkrCIlk5BuUQT"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 211906,
-      "name": "Born To Be Blue",
-      "url": "https://open.spotify.com/track/0zjHHk5Lqrf3j1ZpevLcJl"
+      "duration_ms": 172866,
+      "name": "Too Young To Go Steady - Remastered",
+      "url": "https://open.spotify.com/track/0D1LMx0zya1EXlj4F9l6Mg"
     },
     {
       "added_at": "2023-04-20 09:38:16",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2023-04-20 09:38:16",
       "album": {
-        "name": "Night Lights",
-        "url": "https://open.spotify.com/album/5kQfbxLa8K9n8zYHXJQ7Zx"
+        "name": "Born To Be Blue",
+        "url": "https://open.spotify.com/album/6vDO6c6V3hYq3KA2psLsZv"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Beverly Kenney",
+          "url": "https://open.spotify.com/artist/65AXHPhvpKkrCIlk5BuUQT"
         }
       ],
-      "duration_ms": 172866,
-      "name": "Too Young To Go Steady - Remastered",
-      "url": "https://open.spotify.com/track/0D1LMx0zya1EXlj4F9l6Mg"
+      "duration_ms": 211906,
+      "name": "Born To Be Blue",
+      "url": "https://open.spotify.com/track/0zjHHk5Lqrf3j1ZpevLcJl"
     },
     {
       "added_at": "2023-04-20 09:38:16",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-04-20 09:38:16",
       "album": {
-        "name": "The Rockin' Chair Lady",
-        "url": "https://open.spotify.com/album/4lPSYNGinkzy6Taq0rRXYC"
+        "name": "Twentysomething (Special Edition)",
+        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
       },
       "artists": [
         {
-          "name": "Mildred Bailey",
-          "url": "https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix"
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
         }
       ],
-      "duration_ms": 189533,
-      "name": "Blues In My Heart",
-      "url": "https://open.spotify.com/track/60RxFPqYiG9bP7sRv4IiBe"
+      "duration_ms": 190600,
+      "name": "Blame It On My Youth",
+      "url": "https://open.spotify.com/track/5hbzdbMwqNNjKvp4YyJeYs"
     },
     {
       "added_at": "2023-04-20 09:38:16",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-04-20 09:38:16",
       "album": {
-        "name": "Twentysomething (Special Edition)",
-        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
+        "name": "The Rockin' Chair Lady",
+        "url": "https://open.spotify.com/album/4lPSYNGinkzy6Taq0rRXYC"
       },
       "artists": [
         {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+          "name": "Mildred Bailey",
+          "url": "https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix"
         }
       ],
-      "duration_ms": 190600,
-      "name": "Blame It On My Youth",
-      "url": "https://open.spotify.com/track/5hbzdbMwqNNjKvp4YyJeYs"
+      "duration_ms": 189533,
+      "name": "Blues In My Heart",
+      "url": "https://open.spotify.com/track/60RxFPqYiG9bP7sRv4IiBe"
     },
     {
       "added_at": "2023-04-20 09:38:16",
@@ -1568,12 +1568,8 @@
       },
       "artists": [
         {
-          "name": "Silva Thordardottir",
-          "url": "https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG"
-        },
-        {
-          "name": "Steingr\u00edmur Teague",
-          "url": "https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF"
+          "name": "Silva & Steini",
+          "url": "https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c"
         }
       ],
       "duration_ms": 293700,

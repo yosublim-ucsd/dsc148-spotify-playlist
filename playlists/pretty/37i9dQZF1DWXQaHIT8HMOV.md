@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Top hits from homegrown artists showcasing rich culture and talent from Uganda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,439 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,442 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,16 +29,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 19 | [Thank God](https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [Thank God](https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy) | 3:00 |
 | 20 | [CHERRY SWEET](https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [CHERRY SWEET](https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG) | 2:10 |
 | 21 | [Wanting Me](https://open.spotify.com/track/7Fx19asavIQFQgv4RoUdp0) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Wanting Me](https://open.spotify.com/album/4kPuWgzIDxOQIfilS2f12b) | 2:45 |
-| 22 | [Say your Mine](https://open.spotify.com/track/09kIOLxsPlFlPQSWpMWvF6) | [Jaye Major](https://open.spotify.com/artist/3E1Gbb7bSYoOGtNQh6Ah3S), [Anamie](https://open.spotify.com/artist/3bMVYs34KhPrhhcKy5LJfb), [Dubem K](https://open.spotify.com/artist/1Vj31IUXsopkzURt05U4HU) | [Say your Mine](https://open.spotify.com/album/02U5KVJvB0aTId18fSFXEg) | 3:46 |
+| 22 | [Far Away](https://open.spotify.com/track/1PfbJNTVJw6zSuyqJvf14J) | [Fancy Fingers](https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y), [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [Far Away](https://open.spotify.com/album/4XNZv5UNoT0UB8vXft9PBE) | 2:59 |
 | 23 | [Mama I Made It \(feat\. Lagum the Rapper\)](https://open.spotify.com/track/6JRGCGnNluJkVVa3lb7MkQ) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [WATERSHED](https://open.spotify.com/album/2gOc1mcXCepbRTMtXlmoKJ) | 2:17 |
-| 24 | [Nfa](https://open.spotify.com/track/4313TUVH2spsBkaGg8B8pC) | [Victor Ruz](https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ) | [Nfa](https://open.spotify.com/album/4eh4a2glfPoGKT9tXk8paz) | 3:13 |
-| 25 | [Far Away](https://open.spotify.com/track/1PfbJNTVJw6zSuyqJvf14J) | [Fancy Fingers](https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y), [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [Far Away](https://open.spotify.com/album/4XNZv5UNoT0UB8vXft9PBE) | 2:59 |
+| 24 | [Say your Mine](https://open.spotify.com/track/09kIOLxsPlFlPQSWpMWvF6) | [Jaye Major](https://open.spotify.com/artist/3E1Gbb7bSYoOGtNQh6Ah3S), [Anamie](https://open.spotify.com/artist/3bMVYs34KhPrhhcKy5LJfb), [Dubem K](https://open.spotify.com/artist/1Vj31IUXsopkzURt05U4HU) | [Say your Mine](https://open.spotify.com/album/02U5KVJvB0aTId18fSFXEg) | 3:46 |
+| 25 | [Nfa](https://open.spotify.com/track/4313TUVH2spsBkaGg8B8pC) | [Victor Ruz](https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ) | [Nfa](https://open.spotify.com/album/4eh4a2glfPoGKT9tXk8paz) | 3:13 |
 | 26 | [Enjoyment](https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [Enjoyment](https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4) | 3:13 |
 | 27 | [Part2 \(Dinner in Maui\)](https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Part2 \(Dinner in Maui\)](https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO) | 3:13 |
-| 28 | [Chai Mata](https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl) | [Chai Mata](https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw) | 2:55 |
+| 28 | [Love Marijuana](https://open.spotify.com/track/7GctU12PSvlJfcBvPAa5wS) | [C\. Wyne Nalukalala](https://open.spotify.com/artist/6GfmHbp4fk5dVif11Efbly), [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK) | [Love Marijuana](https://open.spotify.com/album/5pj7QvTw5ZgQ9iQtJGOwl1) | 3:48 |
 | 29 | [Leaving Summer](https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [Leaving Summer](https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT) | 2:37 |
 | 30 | [Nkwata Bulungi \(Bailamos\)](https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Nkwata Bulungi \(Bailamos\)](https://open.spotify.com/album/5z0xDgKDEnZGSPUxIcikEV) | 3:07 |
-| 31 | [Love Marijuana](https://open.spotify.com/track/7GctU12PSvlJfcBvPAa5wS) | [C\. Wyne Nalukalala](https://open.spotify.com/artist/6GfmHbp4fk5dVif11Efbly), [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK) | [Love Marijuana](https://open.spotify.com/album/5pj7QvTw5ZgQ9iQtJGOwl1) | 3:48 |
+| 31 | [Chai Mata](https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl) | [Chai Mata](https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw) | 2:55 |
 | 32 | [Baibe](https://open.spotify.com/track/7hPUGxExv6E8o7qK4XeZnQ) | [Henry Tigan](https://open.spotify.com/artist/4upZy8u9qZc5uUZ5w8Z3Eo) | [Baibe](https://open.spotify.com/album/3pxfc2qdtKQ4FBjcvLTsMe) | 4:14 |
 | 33 | [I Do](https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [I Do](https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj) | 3:08 |
 | 34 | [Sikwebela](https://open.spotify.com/track/4G2CEKgb8m5jKItYAuVeJA) | [MC Yallah](https://open.spotify.com/artist/5JEqaMjU6dwGqFJu2wn5Gg), [Debmaster](https://open.spotify.com/artist/44DI5jAUWYRStA0amIvFRl) | [Sikwebela](https://open.spotify.com/album/08tjyLILd9pe5oWiR1kOXe) | 2:29 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 47 | [Don't Stopp](https://open.spotify.com/track/3r3t5dqnEHDuhGlo1m40Sh) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Don't Stopp](https://open.spotify.com/album/20vcJDgwiHZHcyz927U2HH) | 2:52 |
 | 48 | [Geza Bugeza](https://open.spotify.com/track/0KCeBr5ylT1GJzt9bu4SkW) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Geza Bugeza](https://open.spotify.com/album/6rpL5Yl2Gu8H0xqPSu445P) | 2:20 |
 | 49 | [Kika Buka](https://open.spotify.com/track/1jcnzmZk4F57GiRIOiSbMS) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Kika Buka](https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc) | 2:36 |
-| 50 | [Personal](https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9) | [Zulitums](https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea) | [Personal](https://open.spotify.com/album/5wYH1MacgZZEpIew5uQBTF) | 3:10 |
+| 50 | [Plan Ki](https://open.spotify.com/track/2ZbeZtGMyBOhWo4gvoGZZR) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Plan Ki](https://open.spotify.com/album/4qfhrxohGB4hPhDfFJ2nDN) | 3:14 |
 
-Snapshot ID: `MTY4MjA3MzMzOSwwMDAwMDAwMDU1YzU3MTc1MDE2ZGM1ZTFjZGI3ZTNjZTQzZTYxOGE4`
+Snapshot ID: `MTY4MjA3MzMzOSwwMDAwMDAwMDM4Y2E4MmRkZWQxYzk2NzIxNDE1YmQxZGEwZTMyNjUw`

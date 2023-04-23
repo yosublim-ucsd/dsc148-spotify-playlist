@@ -1,12 +1,12 @@
 {
   "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: slipmami, Ebony, LARINHX",
-  "num_followers": 33573,
+  "num_followers": 33655,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0NjA2MCwwMDAwMDAwMGZkZDhkZTcyNGI2NWQzYjIyYWZmODMxMzI4Y2I4ODFl",
+  "snapshot_id": "MTY4MjA0NjA2MCwwMDAwMDAwMGJkMTU3MWE1YmQwYWQwZDIzYTQyMGRkNTg5MGI5Yjkx",
   "tracks": [
     {
       "added_at": "2023-04-21 03:01:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "Faz o Pix",
-        "url": "https://open.spotify.com/album/5wsT1hROBOq9uM9Gtahgja"
-      },
-      "artists": [
-        {
-          "name": "Zeferina",
-          "url": "https://open.spotify.com/artist/0R5sBkXY9VEYCpsheNOiDr"
-        }
-      ],
-      "duration_ms": 131684,
-      "name": "Faz o Pix",
-      "url": "https://open.spotify.com/track/5P0HSsTQmYVR6zq3ztnHZO"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
         "name": "Chapolin",
         "url": "https://open.spotify.com/album/0CynnWGCBgeMRUGbycuVPA"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 161290,
       "name": "Chapolin",
       "url": "https://open.spotify.com/track/6iRILQOnZXr8M35Rdoa1Dt"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
+        "name": "Faz o Pix",
+        "url": "https://open.spotify.com/album/5wsT1hROBOq9uM9Gtahgja"
+      },
+      "artists": [
+        {
+          "name": "Zeferina",
+          "url": "https://open.spotify.com/artist/0R5sBkXY9VEYCpsheNOiDr"
+        }
+      ],
+      "duration_ms": 131684,
+      "name": "Faz o Pix",
+      "url": "https://open.spotify.com/track/5P0HSsTQmYVR6zq3ztnHZO"
     },
     {
       "added_at": "2023-04-21 03:01:00",

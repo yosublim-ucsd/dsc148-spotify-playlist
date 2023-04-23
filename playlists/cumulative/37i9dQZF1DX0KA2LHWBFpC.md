@@ -4,7 +4,7 @@
 
 > Collection of the greatest songs from Makoto Shinkai's movies, including the latest movie, <a href="https://suzume\-tojimari\-movie.jp/">"Suzume"</a>\.   2022 "Suzume" Film Partners
 
-73 songs - 5 hr 38 min
+74 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Katawaredoki](https://open.spotify.com/track/4WedBZTeFawYCBCgfj36iK) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 2:50 | 2022-09-30 |  |
 | [Katawaredoki](https://open.spotify.com/track/5h56opjpFXqIpIXUBSf1AO) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name\. \(Deluxe Edition / Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4msOF7XQKkdvBpvqmIONGW) | 2:50 | 2022-11-11 | 2022-11-13 |
 | [Main Theme](https://open.spotify.com/track/2H1FBwAjqbTn8aEj65Xfd4) | [天門](https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ) | [彼女と彼女の猫 SOUNDTRACKS](https://open.spotify.com/album/0IC4wHA2HkbqzZI6oxUcSJ) | 1:23 | 2022-09-30 |  |
+| [Message from RADWIMPS](https://open.spotify.com/track/3IgYT8fWwouE7ivOQ6hzl1) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [RADWIMPSからのスペシャルメッセージ](https://open.spotify.com/album/7xMIRQtJDr9uUSSZ9Q51mp) | 0:19 | 2023-04-22 |  |
 | [Nandemonaiya \- movie ver.](https://open.spotify.com/track/7dEfa89dZfo6CQPdsgGCF6) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 5:44 | 2022-09-30 |  |
 | [One more time,One more chance](https://open.spotify.com/track/3akr0ZrJxLMBLIFeNNKffW) | [Masayoshi Yamazaki](https://open.spotify.com/artist/6gvedX0HcRQYMD5IhY8KKt) | [One more time,One more chance](https://open.spotify.com/album/7fjfM7dCDIjPRKK3QaUZ8Z) | 5:30 | 2022-09-30 |  |
 | [Posessed](https://open.spotify.com/track/6TnD2TTGBGUlbZpqKh7uLF) | [Kazuma Jinnouchi](https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 1:24 | 2022-11-10 |  |

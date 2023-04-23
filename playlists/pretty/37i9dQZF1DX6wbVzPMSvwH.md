@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 
 > Feel good songs for morning activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,352 likes - 76 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,365 likes - 76 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

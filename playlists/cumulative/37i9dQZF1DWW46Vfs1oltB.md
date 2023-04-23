@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:Agust D\)\)
 
-878 songs - 2 day 0 hr 39 min
+879 songs - 2 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [End of the World](https://open.spotify.com/track/0jtVg4s7gv44qWwCnqBBWP) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/5U1iQJeJurJANhdos9GugT) | 3:34 | 2021-12-18 | 2022-07-08 |
 | [ERI ERI \(Feat\. Homies\)](https://open.spotify.com/track/2IWjd02V6f5FBiC9ZDbe9R) | [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE), [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 3:30 | 2022-12-19 |  |
 | [Error \(Feat\. Loopy\)](https://open.spotify.com/track/7IRknQOMvsycACYS1fVGex) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 3:27 | 2021-12-18 | 2022-09-23 |
+| [ETA \(with iiso\)](https://open.spotify.com/track/3DRZRLXhMkJSgwN61FUvdV) | [ROH YUNHA](https://open.spotify.com/artist/3dLZdTWMaokxt4y9sDzEWq), [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM), [DAMINI](https://open.spotify.com/artist/1yNIinWsNuQUyXJsqnmaLh), [iiso](https://open.spotify.com/artist/0oveUySQ3sjC5GVG7IIQ4e) | [ETA](https://open.spotify.com/album/5Ed3Z9SI1jkkX0OivYIkIA) | 3:08 | 2023-04-22 |  |
 | [Everything](https://open.spotify.com/track/7uy9pd7vLYQHYWFczj0urj) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Everything](https://open.spotify.com/album/2zpEkut1D2xF0daaWj8lYt) | 3:07 | 2022-11-08 | 2023-03-28 |
 | [EXN’S ANSWER](https://open.spotify.com/track/461WjZx4PvGCo7nuCtt1Bx) | [EXN](https://open.spotify.com/artist/5s57OpnkDtehlRDTZcLGFE) | [EXN’S ANSWER](https://open.spotify.com/album/6XvtA8g7YfYlHKWyqT9wsd) | 2:46 | 2022-04-18 | 2022-07-03 |
 | [EXS](https://open.spotify.com/track/6nu5TMQFH9CKVQV7l4t1DD) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [926](https://open.spotify.com/album/46UAhlKGdxGrdPaa65MsQK) | 2:34 | 2022-07-07 | 2022-10-08 |
