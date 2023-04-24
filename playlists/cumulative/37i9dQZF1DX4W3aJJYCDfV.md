@@ -4,7 +4,7 @@
 
 > Brand new music from Bree Runway ft\. Khalid \(pictured\), Ed Sheeran, Arlo Parks and more!
 
-3,078 songs - 6 day 23 hr 4 min
+3,079 songs - 6 day 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -594,7 +594,8 @@
 | [Dancing in My Head](https://open.spotify.com/track/2VcMrXH3JAvQ5UOTAzQzKT) | [Brad Heidi](https://open.spotify.com/artist/6qJCfkvQLFLf9HnvKIpXvy) | [Dancing in My Head](https://open.spotify.com/album/4JrUSKk9J8Gofq9Yki0ESD) | 3:05 | 2022-11-25 | 2022-12-02 |
 | [Dancing In The Courthouse](https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Dancing In The Courthouse](https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq) | 2:37 | 2023-04-13 | 2023-04-21 |
 | [Dancing In The Rain](https://open.spotify.com/track/4tLaORnfkafV07U8O8dEeL) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Marvelous](https://open.spotify.com/album/3DCLmgvu8dwEyJ3MpBcNka) | 2:05 | 2022-10-28 | 2022-11-04 |
-| [Dancing is Healing](https://open.spotify.com/track/4xlMZCMr9WhyE58igBMxVp) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/11erTn5P7gOy8vfYDq6bxq) | 2:57 | 2023-04-20 |  |
+| [Dancing is Healing](https://open.spotify.com/track/4xlMZCMr9WhyE58igBMxVp) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/11erTn5P7gOy8vfYDq6bxq) | 2:57 | 2023-04-20 | 2023-04-24 |
+| [Dancing is Healing](https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/5g3JRPJKgjcc20lORFpaqp) | 2:57 | 2023-04-20 |  |
 | [Dancing On Cars](https://open.spotify.com/track/2jOQGSEqdQrqb7OuzWFmmv) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Marry Me](https://open.spotify.com/album/5VtXT9YEdsQxIXhgfLsQdT) | 3:30 | 2022-12-02 | 2022-12-09 |
 | [Dancing, Alone](https://open.spotify.com/track/0RO0CjcQhTGoQsmHybVRx7) | [Ten Tonnes](https://open.spotify.com/artist/4hfrzKkUsrb3Cz209SKxbo) | [Dancing, Alone](https://open.spotify.com/album/2VXleQVQpNyoFjYIDrW9G6) | 4:05 | 2023-04-06 | 2023-04-14 |
 | [Dancing’s Done](https://open.spotify.com/track/06yG42F8p8l621YLki0rp2) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Dancing's Done](https://open.spotify.com/album/6QqKTzhLeJmJBvueUe0Lf7) | 2:46 | 2022-12-23 | 2023-01-06 |

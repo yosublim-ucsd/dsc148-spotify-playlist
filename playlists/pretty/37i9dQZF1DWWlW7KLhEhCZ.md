@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Vulgo FK, Kyan
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,009 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,033 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 4 | [Nike Air](https://open.spotify.com/track/13ZWKQn8RnPBLeNC0g0XGb) | [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Nike Air](https://open.spotify.com/album/3QtMltV0KTHbPLad9URhso) | 3:07 |
 | 5 | [150 No Maço](https://open.spotify.com/track/7M0SF6czTLqVUbJU5IAAAh) | [Tio Phil](https://open.spotify.com/artist/1ysE9rRhvtrmrFlrjwgthR), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [150 No Maço](https://open.spotify.com/album/1UaMdTY7j7ZnrMglgHOng8) | 3:10 |
 | 6 | [Pensamentos Negativos](https://open.spotify.com/track/5r2ddsRZ5PPCECalOfZBVj) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN) | [Pensamentos Negativos](https://open.spotify.com/album/1d1n79fvIMJnUclallzcSj) | 2:20 |
-| 7 | [Afronta III](https://open.spotify.com/track/5gszkrQOeUTPRDNfuQdx8a) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym) | [Afronta III](https://open.spotify.com/album/6kY1etv0G7GWQkr1F09uZi) | 2:46 |
+| 7 | [Afronta III](https://open.spotify.com/track/5gszkrQOeUTPRDNfuQdx8a) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym), [Amandes no beat](https://open.spotify.com/artist/65cORrbTAxZD0gJxnFZKB6), [MATHINVOKER](https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc) | [Afronta III](https://open.spotify.com/album/6kY1etv0G7GWQkr1F09uZi) | 2:46 |
 | 8 | [Cartões Internacionais](https://open.spotify.com/track/5Sd1Ruf8macA9NKuCaqxQI) | [AREN](https://open.spotify.com/artist/31QiBU59hNzPdCfPpRXykC), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Cartões Internacionais](https://open.spotify.com/album/1ZjEDRyQd27T7pQx4GxPUm) | 2:23 |
 | 9 | [Preferida](https://open.spotify.com/track/5TtTijiNYtFc6ktQARjY30) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Contradições](https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D) | 2:10 |
 | 10 | [Unha de Fibra](https://open.spotify.com/track/0c1xXhNTF6Hhg5JHIcyMxO) | [Zambrota](https://open.spotify.com/artist/0yILk4EVQcvXQK2dTISXDI), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Unha de Fibra](https://open.spotify.com/album/0HTn9ZeJDDtaNyEUsihSZa) | 2:05 |

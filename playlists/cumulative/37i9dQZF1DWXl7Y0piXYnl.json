@@ -1712,10 +1712,28 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-24",
       "duration_ms": 397000,
       "name": "Phantom Pain",
       "url": "https://open.spotify.com/track/1YEXhpV5yftSkoGDmX66cf"
+    },
+    {
+      "album": {
+        "name": "Timeproof",
+        "url": "https://open.spotify.com/album/1DcFjMNnfcu2SgJ60ByRGE"
+      },
+      "artists": [
+        {
+          "name": "Ital Tek",
+          "url": "https://open.spotify.com/artist/6Auo6gEPwhb9aZindgVpZJ"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397000,
+      "name": "Phantom Pain",
+      "url": "https://open.spotify.com/track/5yhGuC5zHoRs0mjDRApQV4"
     },
     {
       "album": {

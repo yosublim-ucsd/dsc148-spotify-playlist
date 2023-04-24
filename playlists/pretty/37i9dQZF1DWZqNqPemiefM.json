@@ -1,12 +1,12 @@
 {
   "description": "Deep concentration with these outstanding Japanese ambient tracks.",
-  "num_followers": 47337,
+  "num_followers": 47411,
   "original_name": "Ambient Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAwMjgwMCwwMDAwMDAwMDZmOTNmNGZmYTkzODE3M2EyNDMyZjQ1NzQzMzUxMTcw",
+  "snapshot_id": "MTY4MjAwMjgwMCwwMDAwMDAwMGQzMzc3ZjEzYmQ4OTY3MTM0NWVjMTI4NDBjMTc3NGU1",
   "tracks": [
     {
       "added_at": "2023-04-20 15:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-04-20 15:00:00",
       "album": {
-        "name": "heavenly tone",
-        "url": "https://open.spotify.com/album/3gobeqbi2tgEkElXQ77c9k"
-      },
-      "artists": [
-        {
-          "name": "yutaka hirasaka",
-          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "a beautiful day",
-      "url": "https://open.spotify.com/track/3noxajjedyBfsd5eXjBwxC"
-    },
-    {
-      "added_at": "2023-04-20 15:00:00",
-      "album": {
         "name": "Sonorite",
         "url": "https://open.spotify.com/album/4faTpoJmxjd59tAvoxsCi8"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 473106,
       "name": "kokyu",
       "url": "https://open.spotify.com/track/5bUpCPlgvF9gW0FKQT6Oy3"
+    },
+    {
+      "added_at": "2023-04-20 15:00:00",
+      "album": {
+        "name": "heavenly tone",
+        "url": "https://open.spotify.com/album/3gobeqbi2tgEkElXQ77c9k"
+      },
+      "artists": [
+        {
+          "name": "yutaka hirasaka",
+          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "a beautiful day",
+      "url": "https://open.spotify.com/track/3noxajjedyBfsd5eXjBwxC"
     },
     {
       "added_at": "2023-04-20 15:00:00",

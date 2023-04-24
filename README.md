@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5954\)
+## Playlists \(5955\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -759,6 +759,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Biso Na Biso](/playlists/pretty/37i9dQZF1DX8d57cbyhqPM.md)
 - [Bittersweet Symphony](/playlists/pretty/37i9dQZF1DWSNNoRF9meHq.md)
 - [Black & White Film](/playlists/pretty/37i9dQZF1DWWiYmf13kBNz.md)
+- [Black Britain: Soul Sisters](/playlists/pretty/37i9dQZF1DX673Mh4M9yQJ.md)
 - [Black Clover \-ブラッククローバー\-](/playlists/pretty/37i9dQZF1DXcWN1IuaY8rd.md)
 - [Black Coffee Blues](/playlists/pretty/37i9dQZF1DX2Pqxel6mitp.md)
 - [Black Coffee's track IDs](/playlists/pretty/37i9dQZF1DXc8VZ9nbXQ1z.md)

@@ -478,10 +478,28 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-24",
       "duration_ms": 231775,
       "name": "Fall in Fall",
       "url": "https://open.spotify.com/track/5mwZ597mJSZ4MtO0EtxWBE"
+    },
+    {
+      "album": {
+        "name": "ABOUT ME",
+        "url": "https://open.spotify.com/album/6sxOMgS63kM7nDYkUYkkuZ"
+      },
+      "artists": [
+        {
+          "name": "VIBE",
+          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231776,
+      "name": "Fall in Fall",
+      "url": "https://open.spotify.com/track/7M8UfQ4tszq3j4zpljhLX2"
     },
     {
       "album": {

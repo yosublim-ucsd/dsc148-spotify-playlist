@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2018. Cover: Bad Bunny",
-  "num_followers": 53346,
+  "num_followers": 53462,
   "original_name": "Latin Hits 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTYxNzA5MiwwMDAwMDAwMDM3YTgwNTU5ODUzMmFmY2JkMmY3YzY5MDRkZTgyMGQy",
+  "snapshot_id": "MTYzOTYxNzA5MiwwMDAwMDAwMGFkZjQ1ZmRhZWQ0NjZlN2QyOGQzN2U4NzJlNjg5MmM4",
   "tracks": [
     {
       "added_at": "2021-12-16 01:11:32",
@@ -1003,18 +1003,34 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Mala M\u00eda",
-        "url": "https://open.spotify.com/album/3Bj8Yd9ANO4KufZkqOmG0W"
+        "name": "\u00c9pico",
+        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
         }
       ],
-      "duration_ms": 183752,
-      "name": "Mala M\u00eda",
-      "url": "https://open.spotify.com/track/62o8KoI44JfN7aYxgTnPvh"
+      "duration_ms": 273198,
+      "name": "A Solas - Remix",
+      "url": "https://open.spotify.com/track/1fXEkSum1vbTa3w0yvYzYW"
     }
   ],
   "unique_name": "Latin Hits 2018",

@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 512576,
+  "num_followers": 512533,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDdkODFkMjg2MDc4ZTQ4MzhjNTVlNWMxZjc5NGZjNjdm",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGVlZDE0MjRiNzA2ZTY0NjA3MzMxMTI1NjIyZjU3NjEy",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
+        "name": "Santa Baby",
+        "url": "https://open.spotify.com/album/2RqEmOKf7AE3yeGMAQR3mJ"
+      },
+      "artists": [
+        {
+          "name": "Haley Reinhart",
+          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
+        }
+      ],
+      "duration_ms": 176080,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/1VKndPOz75Bk97MT4Jg46Z"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
         "name": "The Decca Singles 1949-1958",
         "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 174893,
       "name": "Christmas In New Orleans",
       "url": "https://open.spotify.com/track/6K9qv0rAJ0QUjPnlRpMwvd"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "Santa Baby",
-        "url": "https://open.spotify.com/album/2RqEmOKf7AE3yeGMAQR3mJ"
-      },
-      "artists": [
-        {
-          "name": "Haley Reinhart",
-          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
-        }
-      ],
-      "duration_ms": 176080,
-      "name": "Santa Baby",
-      "url": "https://open.spotify.com/track/1VKndPOz75Bk97MT4Jg46Z"
     },
     {
       "added_at": "2021-11-12 15:48:58",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 
 > Let's party with cheerful Korean trot medley\. Cover: Hong Ja\(홍자\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,991 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,002 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 | 45 | [Jinttopagi](https://open.spotify.com/track/5vg0jpcaunOW2db4wxiF6n) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [Best of Mr\. Trot Preliminary](https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb) | 2:28 |
 | 46 | [HAPJEONG STATION EXIT NO\. 5](https://open.spotify.com/track/6JTg0twFvtS1Am2pgp68jg) | [YOOSANSEUL](https://open.spotify.com/artist/4oeD1QNqmKbREjPFgVfI6y) | [BBONG FOR YOO](https://open.spotify.com/album/3MpKeiNoI6Sh0EcvPG01q6) | 3:07 |
 | 47 | [Never ever](https://open.spotify.com/track/10yLokqRxev4emJ3x1I62c) | [Hong Jin Young](https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY) | [Never Ever](https://open.spotify.com/album/51W5fQms2ALEPqn9DfXMAR) | 3:40 |
-| 48 | [첫 차](https://open.spotify.com/track/45o2Iqkg0wDSVH7g686EUF) | [SUPER JUNIOR\-T](https://open.spotify.com/artist/5Z595Kh9tlzZuyneUHI111), [방실이](https://open.spotify.com/artist/3uWsrRoW3X73TU3xAXB0w4) | [로꾸거!!!](https://open.spotify.com/album/4jKdrKP3d7a6fR9nJBQMAv) | 2:26 |
-| 49 | [한잔해](https://open.spotify.com/track/3RzXaAgfDWmPb3QsJY3uzW) | [박군](https://open.spotify.com/artist/3Fe5DbLAhIho2Gdc3xr6BC) | [한잔해](https://open.spotify.com/album/0tYyIhabxVv2VMT5H3dP4q) | 3:19 |
+| 48 | [한잔해](https://open.spotify.com/track/3RzXaAgfDWmPb3QsJY3uzW) | [박군](https://open.spotify.com/artist/3Fe5DbLAhIho2Gdc3xr6BC) | [한잔해](https://open.spotify.com/album/0tYyIhabxVv2VMT5H3dP4q) | 3:19 |
+| 49 | [첫 차](https://open.spotify.com/track/45o2Iqkg0wDSVH7g686EUF) | [SUPER JUNIOR\-T](https://open.spotify.com/artist/5Z595Kh9tlzZuyneUHI111), [방실이](https://open.spotify.com/artist/3uWsrRoW3X73TU3xAXB0w4) | [로꾸거!!!](https://open.spotify.com/album/4jKdrKP3d7a6fR9nJBQMAv) | 2:26 |
 | 50 | [태클을 걸지마](https://open.spotify.com/track/2ZE58r2vseLLeSr152ce7s) | [Jin Sung](https://open.spotify.com/artist/73Bihnu9ymiWuNTNtZLg9Z) | [트롯가왕](https://open.spotify.com/album/2GhSslxollNuNr8Q94sa4b) | 2:44 |
 | 51 | [무명배우](https://open.spotify.com/track/39VPnJnAO80E2bRFQFHck0) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [Again](https://open.spotify.com/album/2hmWVreZzq76CRhKkwEBJr) | 4:15 |
 | 52 | [Thank you](https://open.spotify.com/track/06GizNxrmgbwhIFq00Divq) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [Music source of Mr.Trot FINAL BEST](https://open.spotify.com/album/0QihgqNlbkIYFtUm0An8Ie) | 4:56 |
@@ -79,10 +79,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 | 69 | [Mom Arirang](https://open.spotify.com/track/71KOmCA0xRVfxhGJAF69U1) | [Ji Yoon Hong](https://open.spotify.com/artist/0HQ6vXZL2pe5rancY1DP6U) | [MISS TROT2 PRELIMINARY BEST PART1](https://open.spotify.com/album/3WBSmNsFrRZSV1PsvOHbaU) | 2:06 |
 | 70 | [Read and Ignored \(Prod\. Young Tak\)](https://open.spotify.com/track/1qMvWFcU6YiXbwxLIuiOgB) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Read and Ignored](https://open.spotify.com/album/2TLUFzFHkfjirhp8i8ZYhp) | 2:48 |
 | 71 | [Andenayon \(Feat\. Wheesung\(Realslow\)\)](https://open.spotify.com/track/6G3F8kZZn6nz8bRcPF1Qhs) | [Kim YoungChul](https://open.spotify.com/artist/6PpuhpJOZ598rVzlvSj2Ea), [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [Andenayon...\(Subtitle: no?\)](https://open.spotify.com/album/46zG4HcbAYXvgpxtrnc8N9) | 3:11 |
-| 72 | [YOU & ME](https://open.spotify.com/track/2HVR58hpYOXJH7JSOWe4Sk) | [KIM SOO CHAN](https://open.spotify.com/artist/2lk4sQjFOSEwPD25NXuMbf) | [YOU & ME](https://open.spotify.com/album/0q4sYU8XM5uy9HYZlJ7k2G) | 3:12 |
-| 73 | [I love you.](https://open.spotify.com/track/3d9eSFbuAJzFNHf1ZUHS7X) | [Jang Yoon\-Jeong](https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM) | [Woman](https://open.spotify.com/album/0dpDBAo9MQgmbkz5yF9LGZ) | 3:15 |
-| 74 | [Wind road](https://open.spotify.com/track/1ScaL6JTiXR5YVL8Vwp958) | [Tae Yeon Kim](https://open.spotify.com/artist/1fj59ljd3doYrhH7iCaEVd) | [MISS TROT2 Legendary Mission Best Semi\-Final 1](https://open.spotify.com/album/1zAZbX0fXTXbFdVS26noHA) | 3:55 |
-| 75 | [Gimme Gimme](https://open.spotify.com/track/63mAJxQc6MHRJ5Zw9NGkMf) | [Second Aunt KimDaVi](https://open.spotify.com/artist/2XrCYhwuq6x15QFddD1gQv) | [Gimme Gimme](https://open.spotify.com/album/0UPav2rFyYj36nC9lxDZp3) | 2:55 |
+| 72 | [I love you.](https://open.spotify.com/track/3d9eSFbuAJzFNHf1ZUHS7X) | [Jang Yoon\-Jeong](https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM) | [Woman](https://open.spotify.com/album/0dpDBAo9MQgmbkz5yF9LGZ) | 3:15 |
+| 73 | [YOU & ME](https://open.spotify.com/track/2HVR58hpYOXJH7JSOWe4Sk) | [KIM SOO CHAN](https://open.spotify.com/artist/2lk4sQjFOSEwPD25NXuMbf) | [YOU & ME](https://open.spotify.com/album/0q4sYU8XM5uy9HYZlJ7k2G) | 3:12 |
+| 74 | [Gimme Gimme](https://open.spotify.com/track/63mAJxQc6MHRJ5Zw9NGkMf) | [Second Aunt KimDaVi](https://open.spotify.com/artist/2XrCYhwuq6x15QFddD1gQv) | [Gimme Gimme](https://open.spotify.com/album/0UPav2rFyYj36nC9lxDZp3) | 2:55 |
+| 75 | [Wind road](https://open.spotify.com/track/1ScaL6JTiXR5YVL8Vwp958) | [Tae Yeon Kim](https://open.spotify.com/artist/1fj59ljd3doYrhH7iCaEVd) | [MISS TROT2 Legendary Mission Best Semi\-Final 1](https://open.spotify.com/album/1zAZbX0fXTXbFdVS26noHA) | 3:55 |
 | 76 | [만개 \(prod\. 신지후\)](https://open.spotify.com/track/2hXsVNMyojuFYcTiF8nhGa) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [우리家](https://open.spotify.com/album/3mUM8eFah712mh4MUdDx7w) | 4:11 |
 | 77 | [Hwang Jini](https://open.spotify.com/track/6QSUInZc6D1r8bMQ1tzBFH) | [Park Sang\-Chul](https://open.spotify.com/artist/2hb8P5DKAdd65FRRbw8Ntt) | [Bang Bang](https://open.spotify.com/album/1MW5U54Vi6V3N7z7kppwrJ) | 3:34 |
 | 78 | [Period of spring poverty](https://open.spotify.com/track/1LggILZOGP60h73FgLPGpX) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Best of Mr\. Trot Preliminary](https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb) | 3:26 |
@@ -97,10 +97,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 | 87 | [오라버니](https://open.spotify.com/track/3bEbIXHlznuoRjjH9PIV1t) | [이현아](https://open.spotify.com/artist/7zTcsgnRgfjuD09FMWZQR0) | [팔도관광 디스코 1,2](https://open.spotify.com/album/1TQNNydhTmdR1R1dkTw8rR) | 2:55 |
 | 88 | [Finger Heart](https://open.spotify.com/track/6aN8AOfNkNQQ8isY9vrmyo) | [Roh Ji Hoon](https://open.spotify.com/artist/1prPVJQczG7kTTKCHFE2Rw) | [Finger Heart](https://open.spotify.com/album/536AwbTSsZRzotWrQ8zPUq) | 3:05 |
 | 89 | [Let's live in Seoul](https://open.spotify.com/track/17RtMYFvvUkesJ9DqlbJj9) | [Yujin Jeon](https://open.spotify.com/artist/3BFcxv7uPQ7efI42KZtDfY) | [MISS TROT2 PRELIMINARY BEST PART2](https://open.spotify.com/album/2GXTij5DayYJdpScEjYUSx) | 2:47 |
-| 90 | [Tralalala](https://open.spotify.com/track/4p46qIOHJXGNpgNtL75Tvz) | [UV](https://open.spotify.com/artist/5M7KE2pbTmSQL32wD4sTG9), [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART35](https://open.spotify.com/album/1jMXZXkQijYdiy2VXDwWYQ) | 6:18 |
-| 91 | [살았소](https://open.spotify.com/track/61cxkZbxONWDilpqDQlAZq) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [살았소](https://open.spotify.com/album/12oUHngv38tTjgGhEXWJgc) | 3:52 |
-| 92 | [Coming home](https://open.spotify.com/track/50eaioaMEGRbia13qeyU4h) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Love call center PART18](https://open.spotify.com/album/44u1ZQbUrDmFKK3dk1m0m9) | 3:55 |
-| 93 | [Maria](https://open.spotify.com/track/3zC2aZKFM0syGLz92BMaeL) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART12](https://open.spotify.com/album/7vdNO3BqQGSSFXkA9ryB9H) | 3:08 |
+| 90 | [Coming home](https://open.spotify.com/track/50eaioaMEGRbia13qeyU4h) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Love call center PART18](https://open.spotify.com/album/44u1ZQbUrDmFKK3dk1m0m9) | 3:55 |
+| 91 | [Tralalala](https://open.spotify.com/track/4p46qIOHJXGNpgNtL75Tvz) | [UV](https://open.spotify.com/artist/5M7KE2pbTmSQL32wD4sTG9), [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART35](https://open.spotify.com/album/1jMXZXkQijYdiy2VXDwWYQ) | 6:18 |
+| 92 | [Maria](https://open.spotify.com/track/3zC2aZKFM0syGLz92BMaeL) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART12](https://open.spotify.com/album/7vdNO3BqQGSSFXkA9ryB9H) | 3:08 |
+| 93 | [살았소](https://open.spotify.com/track/61cxkZbxONWDilpqDQlAZq) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [살았소](https://open.spotify.com/album/12oUHngv38tTjgGhEXWJgc) | 3:52 |
 | 94 | [목계나루](https://open.spotify.com/track/4kMFwlv0Njwnakcy473jw3) | [이수진](https://open.spotify.com/artist/6hiE7snEBARzwmjdzjoggP) | [트로트 여인 1, 2](https://open.spotify.com/album/3sEDwOKMX6sMOn2iP9H4Hk) | 2:36 |
 | 95 | [Man of harbor](https://open.spotify.com/track/6k2uEsC4enRSqgf3utAltW) | [Hong Jameon](https://open.spotify.com/artist/3YSBPOvl1LuFvA2BsuQkJP) | [Best of Mr\. Trot Preliminary](https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb) | 1:48 |
 | 96 | [Reverse life:Poor man](https://open.spotify.com/track/1cDXyQY46sDcMuWVOHVig0) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Music source of Mr.Trot FINAL BEST](https://open.spotify.com/album/0a0OP2lSNZKyiH8nsQ92bk) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 | 99 | [Dancing queen](https://open.spotify.com/track/3kOLMqLWYXUPd9fKMOYbN3) | [Jangmin tiger butterfly](https://open.spotify.com/artist/2VcrBOUVCPwfxFseLnZfI7) | [Music source of Mr\. Trot team mission best](https://open.spotify.com/album/5YJpJkm9TPq6laP0qTDzb2) | 4:01 |
 | 100 | [Parting story](https://open.spotify.com/track/6oipGkRDOmaMPXxoBop4dd) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Love call center PART19](https://open.spotify.com/album/2KUWccXjVSNPJadz0hZxhb) | 3:58 |
 
-Snapshot ID: `MTY4MDg1ODQ3OSwwMDAwMDAwMGE0ZDA1Nzk0Yzc0MGMyNGM0NTBhZWNkY2M1MjIzZDlh`
+Snapshot ID: `MTY4MDg1ODQ3OSwwMDAwMDAwMGMyNDNlYzE1ZWQ0YjgyYTI0ZjVmZWI0Yzg3NWVkY2Rl`

@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 826868,
+  "num_followers": 828389,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU5Njc5MSwwMDAwMDAwMDk5YzQ1Y2ZhYmQ4NjRjY2E4OWY3ZjY1MjU5NWM0YjYx",
+  "snapshot_id": "MTY3NzU5Njc5MSwwMDAwMDAwMDNmNjBhMjQwNWM0OTI2M2IzZTYwZTQ4OGFjYTFhMGE3",
   "tracks": [
     {
       "added_at": "2023-01-12 20:35:32",
@@ -839,18 +839,22 @@
     {
       "added_at": "2023-01-12 20:35:32",
       "album": {
-        "name": "Use Me (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/1dz4vYS8chpVh6qutTn0WT"
+        "name": "Escapism.",
+        "url": "https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q"
       },
       "artists": [
         {
-          "name": "PLAZA",
-          "url": "https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
         }
       ],
-      "duration_ms": 279750,
-      "name": "Use Me (Slowed + Reverb)",
-      "url": "https://open.spotify.com/track/75nT6XIsMfJ1Ul5sF6hlRb"
+      "duration_ms": 287135,
+      "name": "Escapism. - Slowed Down",
+      "url": "https://open.spotify.com/track/4iQzqoAi1ETVOatMaHGptG"
     },
     {
       "added_at": "2023-01-12 20:35:32",
@@ -875,22 +879,18 @@
     {
       "added_at": "2023-01-12 20:35:32",
       "album": {
-        "name": "Escapism.",
-        "url": "https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q"
+        "name": "Use Me (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/1dz4vYS8chpVh6qutTn0WT"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+          "name": "PLAZA",
+          "url": "https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY"
         }
       ],
-      "duration_ms": 287135,
-      "name": "Escapism. - Slowed Down",
-      "url": "https://open.spotify.com/track/4iQzqoAi1ETVOatMaHGptG"
+      "duration_ms": 279750,
+      "name": "Use Me (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/75nT6XIsMfJ1Ul5sF6hlRb"
     },
     {
       "added_at": "2023-01-12 20:35:32",

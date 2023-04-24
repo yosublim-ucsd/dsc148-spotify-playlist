@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: NMIXX\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,924 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,920 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 16 | [Therapy \(feat\. MRSHLL\)](https://open.spotify.com/track/7mSrPHeHxpxnIkc7M1k4pT) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [MRSHLL](https://open.spotify.com/artist/0seQaFC4HsYcxj5o27Ls45) | [Therapy Session](https://open.spotify.com/album/2hp1xdmCKrjVdAodJjDVgO) | 3:06 |
 | 17 | [Trying too hard](https://open.spotify.com/track/3BNSZOeVDkxVfawEaMqj5l) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Delivery Man, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/1zDIqmrLYyO5HK7hEzcITV) | 4:02 |
 | 18 | [Mood Indigo](https://open.spotify.com/track/6EECimWNKDk1PM0f6fLfX8) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Mood Indigo](https://open.spotify.com/album/7fqZQwAdUdGCvff2hl6mFS) | 3:41 |
-| 19 | [Love or Hate](https://open.spotify.com/track/1dMzdjNYpSy1ji3dWa9AaH) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [Love or Hate](https://open.spotify.com/album/73lmR1Fx6yF8KdtCRfr6a0) | 3:29 |
-| 20 | [Daydreaming](https://open.spotify.com/track/3b6dZemExfXk9Z69Feto18) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [Love or Hate](https://open.spotify.com/album/73lmR1Fx6yF8KdtCRfr6a0) | 3:16 |
+| 19 | [Love or Hate](https://open.spotify.com/track/3d3tyA6cIMxNz3afJXTIYG) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [Archive of Emotions](https://open.spotify.com/album/4SO5d4ADjiyd17Tl9E1e03) | 3:29 |
+| 20 | [Daydreaming](https://open.spotify.com/track/143uhMdnt6VRpHwDKSp4Ks) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [Archive of Emotions](https://open.spotify.com/album/4SO5d4ADjiyd17Tl9E1e03) | 3:16 |
 | 21 | [Love or Die \- SOLE Version](https://open.spotify.com/track/3UkoqvqMvtg1Dv33wJ6Pst) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Love or Die \(SOLE Version\)](https://open.spotify.com/album/2fdKElCiX82wx9n6HbQyCk) | 3:57 |
 | 22 | [daydream](https://open.spotify.com/track/3CMR94d8HbST2a0VPfy0NS) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [imagine club](https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC) | 3:06 |
 | 23 | [GOOD DAY](https://open.spotify.com/track/22TruoFI39QbtdjeLMyCZE) | [Osole](https://open.spotify.com/artist/2MvwNqaFxSXxeyLKOrINRR) | [GOOD DAY](https://open.spotify.com/album/3rGn47PdNXu28HVHcGbWOG) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 49 | [Vein \- 2023 BAND VERSION](https://open.spotify.com/track/2atbd5rnb7DEHzAh2R5AP8) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [SWIPE ME RIGHT \(2023 BAND VER.\)](https://open.spotify.com/album/7pbUMHC83x9AUtsYYEC5Sc) | 4:15 |
 | 50 | [Tinder \- 2023 BAND VERSION](https://open.spotify.com/track/4WC66QqUDalRIb2n5jGLL7) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [SWIPE ME RIGHT \(2023 BAND VER.\)](https://open.spotify.com/album/7pbUMHC83x9AUtsYYEC5Sc) | 2:21 |
 
-Snapshot ID: `MTY4MDYyMDQwMCwwMDAwMDAwMDU5MGYzNWI0YzM4YmFhMjFmMDkzMTIyYTg1ZGRmNzM4`
+Snapshot ID: `MTY4MDYyMDQwMCwwMDAwMDAwMDg2MTQzYTZmODgzYWVmN2Q0ZjBjNjI1NGFiYzA1YjVh`

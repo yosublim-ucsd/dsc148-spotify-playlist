@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from The Weeknd & Future, Belly, Kim Petras & Nicki Minaj, and Foo Fighters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,698 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,693 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 58 | [TONTA](https://open.spotify.com/track/6HzWCIc51HnyGCOVRMH2AI) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [TONTA](https://open.spotify.com/album/2XMjjytI813j8uJ65UQYBG) | 3:23 |
 | 59 | [Guidelines](https://open.spotify.com/track/0UL6Hs8nMYp7C7ttZy6d84) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Guidelines](https://open.spotify.com/album/4m6kUocNKV6r6ZmvtIad95) | 2:34 |
 | 60 | [Nanny Riddim](https://open.spotify.com/track/3bGjIIBA2av8gLd96NtT9E) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Nanny Riddim](https://open.spotify.com/album/2tZI67yMJlBfssrexyV2we) | 3:56 |
-| 61 | [Dancing is Healing](https://open.spotify.com/track/4xlMZCMr9WhyE58igBMxVp) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/11erTn5P7gOy8vfYDq6bxq) | 2:57 |
+| 61 | [Dancing is Healing](https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/5g3JRPJKgjcc20lORFpaqp) | 2:57 |
 | 62 | [London Bridge](https://open.spotify.com/track/1qjQcAWTxlglnGID55ZggL) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [London Bridge](https://open.spotify.com/album/3xPsEsaCmA1EFrl8TmGtPQ) | 5:27 |
 | 63 | [SKINTIGHT](https://open.spotify.com/track/0zLK4Z6jlrZlHdYBcMl9iO) | [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [SKINTIGHT](https://open.spotify.com/album/4A3edcDok5xs93z5rTy1qW) | 2:36 |
 | 64 | [Danger](https://open.spotify.com/track/2G02Na0nsJukXKEx8f13dB) | [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [Danger](https://open.spotify.com/album/4gUz8ej6TochFqQemxkGOx) | 2:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Rebuilding Year](https://open.spotify.com/track/5ENWw8fKaApzb9m7dYEQzy) | [Brutal Youth](https://open.spotify.com/artist/5BJrQw60XksRtVfwNVFu0W) | [Rebuilding Year](https://open.spotify.com/album/6V9J0hh6rAc1Rkl1RvTATV) | 2:30 |
 | 100 | [drive faster](https://open.spotify.com/track/7hdes67sicWJ4oR1zVchuQ) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [drive faster](https://open.spotify.com/album/6Z819jCN4dzySQfY0HLdER) | 1:56 |
 
-Snapshot ID: `MTY4MjA1MDE1NiwwMDAwMDAwMGMwNmIxYjgyODgzYzIwYTdkYjBlM2NkZTViMWM1NzA0`
+Snapshot ID: `MTY4MjA1MDE1NiwwMDAwMDAwMDkxY2U1ZDRiMjJkMTc5ZmRjY2U5NjlhNWRiZmQ4ZDVl`

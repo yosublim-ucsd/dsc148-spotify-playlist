@@ -1,12 +1,12 @@
 {
   "description": "Up tempo jazz classics.",
-  "num_followers": 2545,
+  "num_followers": 2625,
   "original_name": "Upbeat Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTk4Mzg4MywwMDAwMDAwMGFlZjBjM2QxMjY5YmI4MDVlOWI2ZWZjOGUxYWI4N2Vm",
+  "snapshot_id": "MTY4MTk4Mzg4MywwMDAwMDAwMDg1ZmNjZGJmZGY0ZWRkMTMxOGJiZTVlOTNlM2FkMWNm",
   "tracks": [
     {
       "added_at": "2023-04-20 09:44:43",
@@ -787,18 +787,18 @@
     {
       "added_at": "2023-04-20 09:44:43",
       "album": {
-        "name": "The Genius Of Charlie Parker",
-        "url": "https://open.spotify.com/album/7gLP8EvsusOiFKu0G2yjzQ"
+        "name": "An Electrifying Evening With The Dizzy Gillespie Quintet",
+        "url": "https://open.spotify.com/album/2dO705Y22N0bczDyF9h5U0"
       },
       "artists": [
         {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+          "name": "Dizzy Gillespie Quintet",
+          "url": "https://open.spotify.com/artist/4pOjIcQ4PGk52L8aGsrO5A"
         }
       ],
-      "duration_ms": 182160,
-      "name": "Ornithology",
-      "url": "https://open.spotify.com/track/14R3YZutaJKFLGDEl9R1bJ"
+      "duration_ms": 428373,
+      "name": "Salt Peanuts",
+      "url": "https://open.spotify.com/track/65hcrO0589fUJwDMJSdN2h"
     },
     {
       "added_at": "2023-04-20 09:44:43",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-04-20 09:44:43",
       "album": {
-        "name": "An Electrifying Evening With The Dizzy Gillespie Quintet",
-        "url": "https://open.spotify.com/album/2dO705Y22N0bczDyF9h5U0"
+        "name": "The Genius Of Charlie Parker",
+        "url": "https://open.spotify.com/album/7gLP8EvsusOiFKu0G2yjzQ"
       },
       "artists": [
         {
-          "name": "Dizzy Gillespie Quintet",
-          "url": "https://open.spotify.com/artist/4pOjIcQ4PGk52L8aGsrO5A"
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
         }
       ],
-      "duration_ms": 428373,
-      "name": "Salt Peanuts",
-      "url": "https://open.spotify.com/track/65hcrO0589fUJwDMJSdN2h"
+      "duration_ms": 182160,
+      "name": "Ornithology",
+      "url": "https://open.spotify.com/track/14R3YZutaJKFLGDEl9R1bJ"
     },
     {
       "added_at": "2023-04-20 09:44:43",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-04-20 09:44:43",
       "album": {
-        "name": "A Night In Tunisia (Remaster)",
-        "url": "https://open.spotify.com/album/0oGkNKWrFghBenF0j16VVW"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
-        }
-      ],
-      "duration_ms": 411133,
-      "name": "Sincerely Diana",
-      "url": "https://open.spotify.com/track/3LR9RHZ3BFzYJpuq8Q8ZZG"
-    },
-    {
-      "added_at": "2023-04-20 09:44:43",
-      "album": {
         "name": "The Essential Art Blakey - The Columbia & RCA Years",
         "url": "https://open.spotify.com/album/56b5T1iEXsM3d2ZjaqL0lS"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 772533,
       "name": "A Night In Tunisia - Take 3",
       "url": "https://open.spotify.com/track/6SVAPhAYeX62EeLarDpJYJ"
+    },
+    {
+      "added_at": "2023-04-20 09:44:43",
+      "album": {
+        "name": "A Night In Tunisia (Remaster)",
+        "url": "https://open.spotify.com/album/0oGkNKWrFghBenF0j16VVW"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        }
+      ],
+      "duration_ms": 411133,
+      "name": "Sincerely Diana",
+      "url": "https://open.spotify.com/track/3LR9RHZ3BFzYJpuq8Q8ZZG"
     },
     {
       "added_at": "2023-04-20 09:44:43",

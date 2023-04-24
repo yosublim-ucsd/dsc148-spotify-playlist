@@ -2050,7 +2050,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-24",
       "duration_ms": 229340,
       "name": "Mekanek",
       "url": "https://open.spotify.com/track/4DONds4xIXDJ2eLyzu2vd4"
@@ -2248,7 +2248,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-24",
       "duration_ms": 211748,
       "name": "Nekhtelef",
       "url": "https://open.spotify.com/track/4b4ToL5Y9UJxWdi6KcFnUi"
@@ -3642,6 +3642,42 @@
       "duration_ms": 297425,
       "name": "\u0645\u0639\u0643\u0627\u0632\u064a",
       "url": "https://open.spotify.com/track/68vRWVHLdGaKFI5SYcDVVa"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0643\u0627\u0646\u0643",
+        "url": "https://open.spotify.com/album/6shrlkAp819uLJ9WNXT2DN"
+      },
+      "artists": [
+        {
+          "name": "Abdul Majeed Abdullah",
+          "url": "https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228967,
+      "name": "\u0645\u0643\u0627\u0646\u0643",
+      "url": "https://open.spotify.com/track/3QLwspqylF5pypDsi63F8r"
+    },
+    {
+      "album": {
+        "name": "\u0646\u062e\u062a\u0644\u0641",
+        "url": "https://open.spotify.com/album/5Pt6p7tl0DOE93klDxYkfW"
+      },
+      "artists": [
+        {
+          "name": "\u0647\u062f\u0649 \u0627\u0644\u0641\u0647\u062f",
+          "url": "https://open.spotify.com/artist/0PIckHaNLdTeZbmA8Vstn5"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211748,
+      "name": "\u0646\u062e\u062a\u0644\u0641",
+      "url": "https://open.spotify.com/track/0saWOpjP5GsSIS8Xg3Yob8"
     },
     {
       "album": {

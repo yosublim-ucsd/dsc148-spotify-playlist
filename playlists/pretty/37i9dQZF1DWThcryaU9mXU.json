@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 38987,
+  "num_followers": 39050,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA3MjgwNywwMDAwMDAwMDE2MTU3MGIzOWJjOTkwMTA0MjgyN2I2MDUyMjdkM2Q1",
+  "snapshot_id": "MTY4MjA3MjgwNywwMDAwMDAwMDYzZTA3NDAyMjgwMzE3ZjI4Y2E0YzBlYmY5MGIxYWI0",
   "tracks": [
     {
       "added_at": "2023-04-21 10:26:47",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 318840,
-      "name": "Cold, Cold Feeling",
-      "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Blues Deluxe",
         "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 440200,
       "name": "Blues Deluxe",
       "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 318840,
+      "name": "Cold, Cold Feeling",
+      "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Give In Kind",
-        "url": "https://open.spotify.com/album/1YT2ALsSBVTEazRwJvXjOW"
-      },
-      "artists": [
-        {
-          "name": "Guy Davis",
-          "url": "https://open.spotify.com/artist/6PdVgi27EMfFXV5lSH6wEW"
-        }
-      ],
-      "duration_ms": 257440,
-      "name": "Loneliest Road That I Know",
-      "url": "https://open.spotify.com/track/63MtBTGU73iy7FRd8nRMN6"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 249626,
       "name": "Ships On The Ocean",
       "url": "https://open.spotify.com/track/28fsOjMzmiw6iphB2ty19x"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "Give In Kind",
+        "url": "https://open.spotify.com/album/1YT2ALsSBVTEazRwJvXjOW"
+      },
+      "artists": [
+        {
+          "name": "Guy Davis",
+          "url": "https://open.spotify.com/artist/6PdVgi27EMfFXV5lSH6wEW"
+        }
+      ],
+      "duration_ms": 257440,
+      "name": "Loneliest Road That I Know",
+      "url": "https://open.spotify.com/track/63MtBTGU73iy7FRd8nRMN6"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Folk Singer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 213866,
-      "name": "Long Distance",
-      "url": "https://open.spotify.com/track/6dezNfNYhgD22o5fs5ATZp"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Cold Snap (Remastered)",
         "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 412893,
       "name": "Too Many Dirty Dishes - Remastered",
       "url": "https://open.spotify.com/track/5v1K811BkQo7FEgbs7LWdg"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "Folk Singer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 213866,
+      "name": "Long Distance",
+      "url": "https://open.spotify.com/track/6dezNfNYhgD22o5fs5ATZp"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Kidney Stew (The Definitive Black & Blue Sessions)",
-        "url": "https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G"
-      },
-      "artists": [
-        {
-          "name": "Eddie \"Cleanhead\" Vinson",
-          "url": "https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58"
-        }
-      ],
-      "duration_ms": 275226,
-      "name": "Juice Head Baby",
-      "url": "https://open.spotify.com/track/4Uz8yEjjf0EfPdIIn128t6"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Living Chicago Blues, Vol. 4",
         "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
       },
@@ -799,18 +783,18 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ"
+        "name": "Kidney Stew (The Definitive Black & Blue Sessions)",
+        "url": "https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G"
       },
       "artists": [
         {
-          "name": "Brianna Harness",
-          "url": "https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ"
+          "name": "Eddie \"Cleanhead\" Vinson",
+          "url": "https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58"
         }
       ],
-      "duration_ms": 180384,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA"
+      "duration_ms": 275226,
+      "name": "Juice Head Baby",
+      "url": "https://open.spotify.com/track/4Uz8yEjjf0EfPdIIn128t6"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -827,6 +811,22 @@
       "duration_ms": 140960,
       "name": "Sufferin' With The Blues",
       "url": "https://open.spotify.com/track/780aR01ClCSK7X6DQlyT60"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ"
+      },
+      "artists": [
+        {
+          "name": "Brianna Harness",
+          "url": "https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ"
+        }
+      ],
+      "duration_ms": 180384,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Iron Man",
-        "url": "https://open.spotify.com/album/2Rgu0YzalPajWN6d7MWE0P"
-      },
-      "artists": [
-        {
-          "name": "Michael Burks",
-          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
-        }
-      ],
-      "duration_ms": 412920,
-      "name": "Icepick Through My Heart",
-      "url": "https://open.spotify.com/track/4dsTfxWKkUplwEZiJkVPYo"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Wary + Strange",
         "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 285200,
       "name": "Tender Organs",
       "url": "https://open.spotify.com/track/6cst4w2QTOrH5e6FAsLLjI"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "Iron Man",
+        "url": "https://open.spotify.com/album/2Rgu0YzalPajWN6d7MWE0P"
+      },
+      "artists": [
+        {
+          "name": "Michael Burks",
+          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
+        }
+      ],
+      "duration_ms": 412920,
+      "name": "Icepick Through My Heart",
+      "url": "https://open.spotify.com/track/4dsTfxWKkUplwEZiJkVPYo"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
+        "name": "Real Gone",
+        "url": "https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe"
+      },
+      "artists": [
+        {
+          "name": "Ally Venable",
+          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
+        }
+      ],
+      "duration_ms": 219690,
+      "name": "Blues is My Best Friend",
+      "url": "https://open.spotify.com/track/1lEJz2TvlpeACrffMW33K0"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
         "name": "Mr. Wonderful (Deluxe)",
         "url": "https://open.spotify.com/album/3RT7bmMbIAuDHB9L1HwTzh"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 160853,
       "name": "You Put the Heart on Me",
       "url": "https://open.spotify.com/track/68qLyoQEO4ub6Gq9SoUaZM"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
-        "name": "Real Gone",
-        "url": "https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe"
-      },
-      "artists": [
-        {
-          "name": "Ally Venable",
-          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
-        }
-      ],
-      "duration_ms": 219690,
-      "name": "Blues is My Best Friend",
-      "url": "https://open.spotify.com/track/1lEJz2TvlpeACrffMW33K0"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "So Far so Good",
-        "url": "https://open.spotify.com/album/3sKS5DkxTxgNEEOew4RTtp"
-      },
-      "artists": [
-        {
-          "name": "Peter Veteska & Blues Train",
-          "url": "https://open.spotify.com/artist/4aI3hTRRcczyci5v6K1j3e"
-        }
-      ],
-      "duration_ms": 233706,
-      "name": "Low Down Dirty Blues",
-      "url": "https://open.spotify.com/track/2zTH23AmvAQFnN2ZiBErqa"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Slow Burning Love",
         "url": "https://open.spotify.com/album/2Zwtl70eaowopCHRsvuEa0"
       },
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
+        "name": "So Far so Good",
+        "url": "https://open.spotify.com/album/3sKS5DkxTxgNEEOew4RTtp"
+      },
+      "artists": [
+        {
+          "name": "Peter Veteska & Blues Train",
+          "url": "https://open.spotify.com/artist/4aI3hTRRcczyci5v6K1j3e"
+        }
+      ],
+      "duration_ms": 233706,
+      "name": "Low Down Dirty Blues",
+      "url": "https://open.spotify.com/track/2zTH23AmvAQFnN2ZiBErqa"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
         "name": "Peepin' And Hidin'",
         "url": "https://open.spotify.com/album/4H1Je07DZvE2WszZkW0FjV"
       },
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Marshall Texas Is My Home",
-        "url": "https://open.spotify.com/album/0vKVTf2y0iDogf68a6ItHb"
-      },
-      "artists": [
-        {
-          "name": "Floyd Dixon",
-          "url": "https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M"
-        }
-      ],
-      "duration_ms": 184760,
-      "name": "Hard Living Alone",
-      "url": "https://open.spotify.com/track/0JwU0drRHEtI5H1lVJCDys"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "I'm A Mad Man",
         "url": "https://open.spotify.com/album/7g2pXcODGYP7XSeFVbrWQp"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 359133,
       "name": "35 Long Years",
       "url": "https://open.spotify.com/track/0Ui5GujF5zj6Bdf9Wh9KE1"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "Marshall Texas Is My Home",
+        "url": "https://open.spotify.com/album/0vKVTf2y0iDogf68a6ItHb"
+      },
+      "artists": [
+        {
+          "name": "Floyd Dixon",
+          "url": "https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M"
+        }
+      ],
+      "duration_ms": 184760,
+      "name": "Hard Living Alone",
+      "url": "https://open.spotify.com/track/0JwU0drRHEtI5H1lVJCDys"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
+        "name": "Get Your Lovin'",
+        "url": "https://open.spotify.com/album/1M2avBOjei5BLNbHxsaElR"
+      },
+      "artists": [
+        {
+          "name": "Secret Formula Band",
+          "url": "https://open.spotify.com/artist/1Inr5ZqHEMGQ4fhrK91QMs"
+        }
+      ],
+      "duration_ms": 203395,
+      "name": "Get Your Lovin'",
+      "url": "https://open.spotify.com/track/6HVcEz5ecvZWLLrN8ZTwil"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
         "name": "The Best of the 5th Annual Brooklyn Folk Festival",
         "url": "https://open.spotify.com/album/2yTbT5DQqjSn3ly5oypYhw"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 252788,
       "name": "Blues Stay Away From Me",
       "url": "https://open.spotify.com/track/0gKGDH5XsrWGH7pojMcXSY"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
-        "name": "Get Your Lovin'",
-        "url": "https://open.spotify.com/album/1M2avBOjei5BLNbHxsaElR"
-      },
-      "artists": [
-        {
-          "name": "Secret Formula Band",
-          "url": "https://open.spotify.com/artist/1Inr5ZqHEMGQ4fhrK91QMs"
-        }
-      ],
-      "duration_ms": 203395,
-      "name": "Get Your Lovin'",
-      "url": "https://open.spotify.com/track/6HVcEz5ecvZWLLrN8ZTwil"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Motel Mississippi",
-        "url": "https://open.spotify.com/album/3DKmYrQ64bb7NNJd6rZHKx"
-      },
-      "artists": [
-        {
-          "name": "Tony Holiday",
-          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
-        }
-      ],
-      "duration_ms": 251853,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/7M5GPKEGz1xURn79mqyc34"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Down On My Knees",
         "url": "https://open.spotify.com/album/4MVKaN7r9Wlxr0KyXP9RAa"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 213000,
       "name": "Down On My Knees",
       "url": "https://open.spotify.com/track/3soWDvvrdUZeeniNWxwPji"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "Motel Mississippi",
+        "url": "https://open.spotify.com/album/3DKmYrQ64bb7NNJd6rZHKx"
+      },
+      "artists": [
+        {
+          "name": "Tony Holiday",
+          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
+        }
+      ],
+      "duration_ms": 251853,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/7M5GPKEGz1xURn79mqyc34"
     },
     {
       "added_at": "2023-04-21 10:26:47",

@@ -1117,6 +1117,24 @@
     },
     {
       "album": {
+        "name": "Tu Forma",
+        "url": "https://open.spotify.com/album/5C4E1kwoa7VWHEXIwdEOoK"
+      },
+      "artists": [
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Tu Forma",
+      "url": "https://open.spotify.com/track/6SullLVOVzuWkaCCHJhQaS"
+    },
+    {
+      "album": {
         "name": "Un Poquito M\u00e1s",
         "url": "https://open.spotify.com/album/1Q4rU1AFX6gzbomhgnbxHL"
       },
@@ -1146,7 +1164,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-24",
       "duration_ms": 181987,
       "name": "Una noche que nunca termina",
       "url": "https://open.spotify.com/track/1UXbQVP8HhqtW7xQJks5gQ"

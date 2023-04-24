@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > Scopri la nostra selezione di 6 artisti emergenti da tenere d'occhio quest'anno! Cover: Asteria
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,560 likes - 23 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,589 likes - 23 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

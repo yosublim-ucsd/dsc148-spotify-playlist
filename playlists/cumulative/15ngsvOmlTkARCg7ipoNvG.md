@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-956 songs - 21 hr 45 min
+957 songs - 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,6 +497,7 @@
 | [Love Appears](https://open.spotify.com/track/0JIdu4qhTbZSrX3ZyQvYbd) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Nightfall](https://open.spotify.com/album/2ZqMA0BErQjA4p7pjJsCYJ) | 1:26 | 2022-01-15 |  |
 | [Love Forever](https://open.spotify.com/track/0widsekq0eRIkeXzXRtn9r) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Love Forever](https://open.spotify.com/album/12lwYFzQThMGnQQk14D7jp) | 1:02 | 2022-07-22 |  |
 | [Love In My Dreams](https://open.spotify.com/track/1uCK2f0Ytg2BEFExDwaOkm) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Love In My Dreams](https://open.spotify.com/album/3u2t9Au12RDnw3DWNNujRp) | 1:00 | 2023-03-16 |  |
+| [Love In My Heart Arr\. For Cello](https://open.spotify.com/track/06eRuiOdZgKd91HpDwyYmQ) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Love In My Heart](https://open.spotify.com/album/3VL4MWCPZCbJvYBH4ij2x4) | 1:01 | 2023-04-23 |  |
 | [Love In My Heart Arr\. For Solo Piano](https://open.spotify.com/track/77NNel8OPOHfQ5heh3Ky5o) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Love In My Heart](https://open.spotify.com/album/3VL4MWCPZCbJvYBH4ij2x4) | 1:02 | 2023-04-22 |  |
 | [Love In The Light](https://open.spotify.com/track/07FVrAmSsMY47qZzsUCW1o) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Dream Space](https://open.spotify.com/album/5Syb7X9pjYZHqNPxbXO9yM) | 1:03 | 2022-02-03 |  |
 | [Love In Waves](https://open.spotify.com/track/1RykpvkLxvNElbBwWNuf3p) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Liminal Space](https://open.spotify.com/album/1tE3wozeYnHIJVPQeCURK3) | 1:02 | 2022-04-20 |  |

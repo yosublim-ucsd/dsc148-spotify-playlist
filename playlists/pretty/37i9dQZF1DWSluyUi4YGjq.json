@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. Winter on cover!",
-  "num_followers": 61558,
+  "num_followers": 61932,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTUxMzc5NSwwMDAwMDAwMDEwNjM2MTJkZmYzYjBkMjA2M2FmZjI1NjA3NzVmMDg2",
+  "snapshot_id": "MTY4MTUxMzc5NSwwMDAwMDAwMGVkZjU0NTJhMjBmZmJjMDBjYWI3NDljMWQ5MDdkMWE4",
   "tracks": [
     {
       "added_at": "2023-03-13 22:23:31",
@@ -495,22 +495,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Spiritual Instinct",
-        "url": "https://open.spotify.com/album/6o13o3tlmwPYFnlIrVoRhh"
-      },
-      "artists": [
-        {
-          "name": "Alcest",
-          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
-        }
-      ],
-      "duration_ms": 300503,
-      "name": "Sapphire",
-      "url": "https://open.spotify.com/track/5DFnmcshyxsonqTvanqZPY"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Gemini",
         "url": "https://open.spotify.com/album/3hxVFxpF7uUtjLHzvGIm7W"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 198842,
       "name": "Chinatown",
       "url": "https://open.spotify.com/track/3BRfgsKjcakny2wCYfZrvz"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Spiritual Instinct",
+        "url": "https://open.spotify.com/album/6o13o3tlmwPYFnlIrVoRhh"
+      },
+      "artists": [
+        {
+          "name": "Alcest",
+          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
+        }
+      ],
+      "duration_ms": 300503,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/5DFnmcshyxsonqTvanqZPY"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -573,22 +573,6 @@
       "url": "https://open.spotify.com/track/4tLh6ilwgHAWnkui4hAR3p"
     },
     {
-      "added_at": "2022-12-15 18:01:43",
-      "album": {
-        "name": "Odes to the Void",
-        "url": "https://open.spotify.com/album/1Ud8ocMaTVL95qa1jN9vJS"
-      },
-      "artists": [
-        {
-          "name": "Life On Venus",
-          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
-        }
-      ],
-      "duration_ms": 208450,
-      "name": "For the Kill",
-      "url": "https://open.spotify.com/track/5Q2anZvDOyIc4OY5V47svD"
-    },
-    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Bang Bang",
@@ -603,6 +587,22 @@
       "duration_ms": 172867,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4"
+    },
+    {
+      "added_at": "2022-12-15 18:01:43",
+      "album": {
+        "name": "Odes to the Void",
+        "url": "https://open.spotify.com/album/1Ud8ocMaTVL95qa1jN9vJS"
+      },
+      "artists": [
+        {
+          "name": "Life On Venus",
+          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
+        }
+      ],
+      "duration_ms": 208450,
+      "name": "For the Kill",
+      "url": "https://open.spotify.com/track/5Q2anZvDOyIc4OY5V47svD"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -813,20 +813,20 @@
       "url": "https://open.spotify.com/track/6Y185DCfJ2mCI7aU65WdJl"
     },
     {
-      "added_at": "2023-02-27 23:19:06",
+      "added_at": "2022-12-15 18:01:43",
       "album": {
-        "name": "Bath County",
-        "url": "https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC"
+        "name": "nightlife",
+        "url": "https://open.spotify.com/album/3JJ19TTxz8N9n3wnMK2gS7"
       },
       "artists": [
         {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+          "name": "yuragi",
+          "url": "https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms"
         }
       ],
-      "duration_ms": 190105,
-      "name": "Bath County",
-      "url": "https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq"
+      "duration_ms": 344000,
+      "name": "night is young",
+      "url": "https://open.spotify.com/track/3mALM7a4cLufetyxSUPbl5"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -845,20 +845,20 @@
       "url": "https://open.spotify.com/track/2ZKkGDjImEoTafrLyZHjlp"
     },
     {
-      "added_at": "2022-12-15 18:01:43",
+      "added_at": "2023-02-27 23:19:06",
       "album": {
-        "name": "nightlife",
-        "url": "https://open.spotify.com/album/3JJ19TTxz8N9n3wnMK2gS7"
+        "name": "Bath County",
+        "url": "https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC"
       },
       "artists": [
         {
-          "name": "yuragi",
-          "url": "https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms"
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
         }
       ],
-      "duration_ms": 344000,
-      "name": "night is young",
-      "url": "https://open.spotify.com/track/3mALM7a4cLufetyxSUPbl5"
+      "duration_ms": 190105,
+      "name": "Bath County",
+      "url": "https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq"
     },
     {
       "added_at": "2023-02-09 20:06:26",
@@ -909,22 +909,6 @@
       "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "idk how to luv",
-        "url": "https://open.spotify.com/album/44qZHhMFg4eKJymG5VWzG3"
-      },
-      "artists": [
-        {
-          "name": "zzzahara",
-          "url": "https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn"
-        }
-      ],
-      "duration_ms": 150251,
-      "name": "idk how to luv",
-      "url": "https://open.spotify.com/track/7y61H8SDeP6rTTEiS32lfi"
-    },
-    {
       "added_at": "2023-02-09 20:06:26",
       "album": {
         "name": "Better Off Alone",
@@ -939,6 +923,22 @@
       "duration_ms": 247045,
       "name": "Better Off Alone",
       "url": "https://open.spotify.com/track/2q6bBFVnWvaCRxELkHdsSa"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "idk how to luv",
+        "url": "https://open.spotify.com/album/44qZHhMFg4eKJymG5VWzG3"
+      },
+      "artists": [
+        {
+          "name": "zzzahara",
+          "url": "https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn"
+        }
+      ],
+      "duration_ms": 150251,
+      "name": "idk how to luv",
+      "url": "https://open.spotify.com/track/7y61H8SDeP6rTTEiS32lfi"
     },
     {
       "added_at": "2023-04-14 04:00:00",

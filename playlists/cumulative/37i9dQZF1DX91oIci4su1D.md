@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-606 songs - 1 day 13 hr 12 min
+607 songs - 1 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Golden Gate](https://open.spotify.com/track/3QJoDu6VJTzpoQ5EgkuaJj) | [Craig Connelly](https://open.spotify.com/artist/78UUH1buA0gDtDnkX2dPgL) | [Golden Gate](https://open.spotify.com/album/3JKrzQqaKtBCxACDjcojgy) | 4:03 | 2021-12-17 | 2022-02-26 |
 | [Golden Hour](https://open.spotify.com/track/2oMy42g5MrI9Tq2e5fnVEF) | [Simon Patterson](https://open.spotify.com/artist/3QxbGzjZc3kgHNJOBOZM2M), [Will Atkinson](https://open.spotify.com/artist/5FXLHhKgStv36wfwXMhTWt) | [Golden Hour](https://open.spotify.com/album/3vlr8PuzvqKfWJx3Yx5Jso) | 4:00 | 2021-12-17 | 2022-05-14 |
 | [Gone](https://open.spotify.com/track/0c7KaBFRasHehFVcNz1bsy) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Gone](https://open.spotify.com/album/2NmyRR15CWZuHuRzPVlyha) | 3:12 | 2022-04-01 | 2023-04-09 |
+| [Good People](https://open.spotify.com/track/6GAwRYpIiawJwJ8T9JPfze) | [P.O.S](https://open.spotify.com/artist/6PqtTOqDDdBJQzgCW2TbwU), [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Ercola](https://open.spotify.com/artist/7MocD7vMCHqPu8KV33lSLa), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Deeper Tales](https://open.spotify.com/album/3VlVq6vrmDktWBbdSmONtz) | 4:19 | 2023-04-21 |  |
 | [Gratitude](https://open.spotify.com/track/0KU8W0lHfsNlH7lfV1dz29) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Marty Longstaff](https://open.spotify.com/artist/0JtMH7U9d7Z8pOSBz2U8Wn) | [Gratitude](https://open.spotify.com/album/0wyLwBTTorS8W4yHXJNPGj) | 3:53 | 2022-04-15 | 2022-10-08 |
 | [Gravity](https://open.spotify.com/track/0WU0YiTidd4MBZm8k41B92) | [Taylor Torrence](https://open.spotify.com/artist/4PhWdminU7odBReTmyyZrH), [Elara](https://open.spotify.com/artist/0csxaKH8pDLL39JSy6rpGX) | [Gravity](https://open.spotify.com/album/7eS3KoZbCYz7h5tbBHxgRq) | 4:16 | 2022-03-04 | 2023-03-04 |
 | [Great Ocean Road](https://open.spotify.com/track/70CgMVGi2L6ZMZeTPqFFbC) | [ReOrder](https://open.spotify.com/artist/6wfno0FdSaJa3DHHBuY1jy), [Jordan Tobias](https://open.spotify.com/artist/0hMFrL7Fn79LC30jv0h9l3), [That Girl](https://open.spotify.com/artist/7AF04fxdnfv9qKODrd0poh) | [Great Ocean Road](https://open.spotify.com/album/2EPd7BNNI9zY3MEgSdV2kr) | 3:14 | 2022-02-04 | 2022-05-28 |
@@ -486,7 +487,7 @@
 | [Something New](https://open.spotify.com/track/6m5aNC2SqNherMjAYU7s5k) | [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C), [LYCA](https://open.spotify.com/artist/4naWgrSAZPl2RsnTFdST4H) | [Something New](https://open.spotify.com/album/796wmTXuTFSrXxu67ig4KR) | 3:24 | 2022-05-06 | 2023-04-09 |
 | [Sonata](https://open.spotify.com/track/4tbJLaTclmcaaro2lAhKIe) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq) | [Sonata](https://open.spotify.com/album/3qLi1lqpntgGdH5DAROvY0) | 3:13 | 2021-12-17 | 2022-05-07 |
 | [Sorry](https://open.spotify.com/track/0PJr4eTfffgfHQda27VpIq) | [Simon Patterson](https://open.spotify.com/artist/3QxbGzjZc3kgHNJOBOZM2M), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Sorry](https://open.spotify.com/album/0hDrWUeld7zd4DZIx0p9tg) | 4:03 | 2022-08-12 |  |
-| [Soundscape](https://open.spotify.com/track/2ckuYy0wxNGXfjrRLfCnQQ) | [Steve Dekay](https://open.spotify.com/artist/7lF2WmukgrCZa5pxW6q1IE), [Proyal](https://open.spotify.com/artist/4Lof8bu6EJxnEX2owLrVtP) | [Soundscape](https://open.spotify.com/album/0D5zpBdgsCQAfeXtpoUuhK) | 3:58 | 2023-02-24 |  |
+| [Soundscape](https://open.spotify.com/track/2ckuYy0wxNGXfjrRLfCnQQ) | [Steve Dekay](https://open.spotify.com/artist/7lF2WmukgrCZa5pxW6q1IE), [Proyal](https://open.spotify.com/artist/4Lof8bu6EJxnEX2owLrVtP) | [Soundscape](https://open.spotify.com/album/0D5zpBdgsCQAfeXtpoUuhK) | 3:58 | 2023-02-24 | 2023-04-24 |
 | [Sovereign](https://open.spotify.com/track/6iZ1W8WDYCYjstuzxHWv6d) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90) | [Sovereign](https://open.spotify.com/album/6Q4QME7TcWGXtquJEi2ZRO) | 4:54 | 2022-04-08 | 2022-06-04 |
 | [Space Mission](https://open.spotify.com/track/0O7VvrRlagTEEFDd73Kuwt) | [Ahmed Helmy](https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m) | [A State Of Trance \- Selections 002](https://open.spotify.com/album/2iYtpcVD0UFxXbYPlkifp0) | 3:14 | 2021-12-17 | 2023-02-25 |
 | [Spacedust](https://open.spotify.com/track/4jzxzmKVYfkYH7Zkfa91VK) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Steve Dekay](https://open.spotify.com/artist/7lF2WmukgrCZa5pxW6q1IE) | [Spacedust](https://open.spotify.com/album/5POG2CUEY8wwtSFOJU0mDV) | 3:18 | 2021-12-17 | 2022-08-27 |

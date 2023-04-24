@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Fenne Lily
 
-1,112 songs - 2 day 20 hr 20 min
+1,113 songs - 2 day 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -563,7 +563,8 @@
 | [Little Lies](https://open.spotify.com/track/72hzgDExpXpKOEOOA92zZH) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Little Lies](https://open.spotify.com/album/32AbizTbSZVr1lFuMPaWfp) | 4:06 | 2022-03-11 | 2022-04-09 |
 | [Lizards in the Afterglow](https://open.spotify.com/track/5PPl5rpAj0fEi8pHD4y6i6) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt), [Dani Green](https://open.spotify.com/artist/79jO53dOhGwaMpwhmnNBPw) | [Lizards in the Afterglow](https://open.spotify.com/album/1jZ4NVosJiEb1wPcDzgH25) | 4:04 | 2022-09-09 | 2023-02-04 |
 | [Lonely Bones](https://open.spotify.com/track/5HFzAeZkaTDBhlaqwcRmeL) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Hot Mess](https://open.spotify.com/album/6yvRliUS1i3Dxro7UckrHO) | 3:04 | 2022-09-30 | 2023-01-14 |
-| [Lonely Love Song](https://open.spotify.com/track/1P6BMlC7DeXbGgEpz84WDw) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Lonely Love Song](https://open.spotify.com/album/133u1HCKHE50wMw0PrcKFg) | 2:37 | 2023-03-10 |  |
+| [Lonely Love Song](https://open.spotify.com/track/1P6BMlC7DeXbGgEpz84WDw) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Lonely Love Song](https://open.spotify.com/album/133u1HCKHE50wMw0PrcKFg) | 2:37 | 2023-03-10 | 2023-04-24 |
+| [Lonely Love Song](https://open.spotify.com/track/5viN4BII5bNNQTLtJk1UsD) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Angels In Science Fiction](https://open.spotify.com/album/3PNavLo012ZTOzWvt4lqQF) | 2:37 | 2023-04-21 |  |
 | [Lonely Nights](https://open.spotify.com/track/5AzmKbqdNE0waODqrzZFm3) | [Cecilia Castleman](https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH) | [Lonely Nights](https://open.spotify.com/album/6TDPDqFhN723c6BMCZcIWV) | 4:01 | 2022-06-10 | 2022-08-06 |
 | [Lonesome L.A\. Cowboy](https://open.spotify.com/track/1sRoE43LJzCL1aGHVlBttN) | [The A's](https://open.spotify.com/artist/0lL30FdUoEkbzNtJSrXM9p) | [Lonesome L.A\. Cowboy](https://open.spotify.com/album/7GHfzpuu8tmg8HTvXAk7j4) | 4:19 | 2022-10-14 | 2023-01-21 |
 | [Look At Miss Ohio](https://open.spotify.com/track/4V7GKEwhd4NTF6xBbQq1tF) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Look At Miss Ohio](https://open.spotify.com/album/7LuDUHiZQ3e2OcrbwgzHIE) | 3:25 | 2022-07-29 | 2023-01-06 |

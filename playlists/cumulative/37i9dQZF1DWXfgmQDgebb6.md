@@ -4,7 +4,7 @@
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Yoon Jiyoung\(윤지영\)\)
 
-298 songs - 16 hr 38 min
+299 songs - 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [?](https://open.spotify.com/track/6kfwGHY3NnomOV3H9V4Fod) | [AVOKID](https://open.spotify.com/artist/1pTg0Tbi7M27AnarCbdGzS) | [?!](https://open.spotify.com/album/1uhyHd8foilSr6qLYjzEwc) | 2:24 | 2022-05-27 | 2022-07-28 |
 | [ahhhh!](https://open.spotify.com/track/0geKjVzgIl2u3uYuDK2aAL) | [Noogi](https://open.spotify.com/artist/0qTiUGFdEu8yRwmwHvMizq) | [ahhhh!](https://open.spotify.com/album/2B27lXYV4HidrCn3kGkaqO) | 2:52 | 2022-05-27 | 2022-07-26 |
 | [ALL RIGHT \- Remix](https://open.spotify.com/track/0njAAvNO3XYddlosJSZEgx) | [Lim Kim](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv), [No Identity](https://open.spotify.com/artist/2aiZMGWnX1W2QvWdr7Euco), [FRNK](https://open.spotify.com/artist/7a7NQmIrfbLVAaukUgtepx) | [ALL RIGHT \(Remix\)](https://open.spotify.com/album/5VcmHlJiK0H7MDw1dnHbPg) | 2:29 | 2022-05-27 | 2022-07-17 |
+| [always get lonely](https://open.spotify.com/track/3n7yfICjsQoCV66J403qms) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:26 | 2023-04-22 |  |
 | [Amoo\-rae\-do](https://open.spotify.com/track/0P2ZMsx0ZSORtoAltJje1B) | [COCONA](https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN) | [Amoo\-rae\-do](https://open.spotify.com/album/5javGGT9UBP0kc0ayoWCGP) | 1:48 | 2022-05-27 |  |
 | [And It's Over](https://open.spotify.com/track/1rnsLPSOHmNegyegIxoUgK) | [SURYEON](https://open.spotify.com/artist/5jyPaTMuPzds0MAd8WtxAd) | [IMPERFECT](https://open.spotify.com/album/3MuXy7w4uc8qGUWkxtDRXw) | 2:52 | 2022-06-18 | 2022-07-29 |
 | [aromatherapy \(feat\. Telefonist\)](https://open.spotify.com/track/6Z7EQCTRd1xvYNQA4e8cXu) | [hyangni](https://open.spotify.com/artist/3cJZkGtAEEajyDOnbYe42O), [Telefonist](https://open.spotify.com/artist/3ICg4qSKMB3EuuEjiyuVIw) | [aromatherapy \(feat\. Telefonist\)](https://open.spotify.com/album/1a91fUH02ghx9W49pD7Kfx) | 3:19 | 2022-05-27 | 2022-07-27 |
@@ -270,7 +271,7 @@
 | [Wait](https://open.spotify.com/track/2ILuzHZ3x0KUctLIpYhVAg) | [Fisherman](https://open.spotify.com/artist/3VBZBLX807XsYkBcZqEGn4), [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Format](https://open.spotify.com/album/7IVXJq84oVDxFmDQIHHkrR) | 4:00 | 2022-07-08 | 2022-11-14 |
 | [Wait 기다려](https://open.spotify.com/track/4Eo28FoXUwJa1V4S5qiC5e) | [Fisherman](https://open.spotify.com/artist/3VBZBLX807XsYkBcZqEGn4), [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Format](https://open.spotify.com/album/7oIyZIfqaOu2uF2QGtB28i) | 4:00 | 2022-05-27 | 2022-07-28 |
 | [Want Love](https://open.spotify.com/track/1KxBDfItmBt3RXddeyu9p0) | [MOTIP](https://open.spotify.com/artist/20qBalVGALu6sj3UseuAcr) | [WANT LOVE!](https://open.spotify.com/album/6u2VjUDn8RHJegCSFhTjh9) | 3:41 | 2022-05-27 | 2022-07-28 |
-| [Watch Out \(Feat\. sokodomo\)](https://open.spotify.com/track/3su6mx1HnRd2DqoZF9JhoD) | [Vapo](https://open.spotify.com/artist/0GWeXscpEEsdOf9NqX0O0t), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ) | [X](https://open.spotify.com/album/3y8hoaCZeVeVlXzkz8l9O0) | 2:44 | 2023-01-10 |  |
+| [Watch Out \(Feat\. sokodomo\)](https://open.spotify.com/track/3su6mx1HnRd2DqoZF9JhoD) | [Vapo](https://open.spotify.com/artist/0GWeXscpEEsdOf9NqX0O0t), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ) | [X](https://open.spotify.com/album/3y8hoaCZeVeVlXzkz8l9O0) | 2:44 | 2023-01-10 | 2023-04-24 |
 | [Waterfall](https://open.spotify.com/track/3MUX4QV6VWySFkihjKzU93) | [Shower System](https://open.spotify.com/artist/7xJ3JEzp3mVTHgWVtuKWv5) | [Waterfall](https://open.spotify.com/album/5k837IWARGZIaG4rQSS6hi) | 2:53 | 2022-07-04 | 2022-08-10 |
 | [We all want to go back 바다로 가는 꿈을 꿔 \- Aquarium Ver.](https://open.spotify.com/track/4BC60RJaDwBZp6PpPXNnek) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [Dreams can be real 이룰 수 있는 꿈](https://open.spotify.com/album/56JPytGxCxX9IX4zlfUUyB) | 2:55 | 2022-05-27 | 2022-06-28 |
 | [We Happy ;\)](https://open.spotify.com/track/2vwDeUnJJ4Yh9nvQgUAJBP) | [TE RIM](https://open.spotify.com/artist/5OsS1U94vUondgy1HELh1T) | [Saint Experi Vol\. 1 SAINT EXPERI Vol.1](https://open.spotify.com/album/5soISDn48YSAMyB8CX67x7) | 3:21 | 2023-02-20 | 2023-03-18 |

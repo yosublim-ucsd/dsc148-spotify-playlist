@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > If I were a fish and you caught me you'd say look at that fish!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,491 likes - 673 songs - 1 day 11 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,503 likes - 673 songs - 1 day 11 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

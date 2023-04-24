@@ -4,11 +4,11 @@
 
 > The best remixes of popular tracks!
 
-114 songs - 5 hr 48 min
+115 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [99 Luftballons](https://open.spotify.com/track/4ho9gnuAVb97Q0TKFDSaiO) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [The Crystal Winter](https://open.spotify.com/album/6RKwh1MPxsUNALmCeLTVwj) | 2:06 | 2022-12-05 |  |
+| [99 Luftballons](https://open.spotify.com/track/4ho9gnuAVb97Q0TKFDSaiO) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [The Crystal Winter](https://open.spotify.com/album/6RKwh1MPxsUNALmCeLTVwj) | 2:06 | 2022-12-05 | 2023-04-24 |
 | [Africa \(Shinzo Radio Edit\)](https://open.spotify.com/track/3Gnyu3henEnnYl6LeUt2Dj) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [Nick Skitz](https://open.spotify.com/artist/0b56YzqAu22jh2CDUYvbbx), [Shinzo](https://open.spotify.com/artist/0Cl1Gi1A6irb7VDzJOxIgv) | [Africa \(The Remixes\)](https://open.spotify.com/album/339hhBU7RbxyYhXVfXBagi) | 4:11 | 2022-12-05 | 2023-02-10 |
 | [AFTER DARK X SWEATER WEATHER](https://open.spotify.com/track/3BLAJ7W49633yDa28QlRr6) | [Enmity](https://open.spotify.com/artist/0vMdRm1cBKsEK2vn1RY1Dh), [crypvolk](https://open.spotify.com/artist/2fXtzvF2KPVENaAqFgicXS) | [AFTER DARK X SWEATER WEATHER](https://open.spotify.com/album/44ADITvo59qPuz4yxA9b6M) | 3:13 | 2023-03-23 | 2023-04-12 |
 | [All Of Me \- Hardstyle Remix](https://open.spotify.com/track/5cQxA8ZS9WeLuKRlITbzAj) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Sam Darris Del Pino Bros](https://open.spotify.com/artist/0k78bLLU3hYYYcKzGZzvrS) | [All Of Me \(Hardstyle Remix\)](https://open.spotify.com/album/6mHRTXGitwY2KC3Dw3CxxF) | 4:00 | 2023-01-26 |  |
@@ -113,6 +113,7 @@
 | [The Sinner](https://open.spotify.com/track/1vXhMbqeQdSpsdVNf8mP8n) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Raakmo](https://open.spotify.com/artist/5RAiaze7u3rrFkJbFJ4dWG) | [The Sinner](https://open.spotify.com/album/0i17sHHGhyA9OSAPhwnYkH) | 3:29 | 2023-03-16 |  |
 | [The Wellerman \(Sea Shanty\)](https://open.spotify.com/track/2TS8X1CY0G0sThZ80PupZ5) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [The Wellerman \(Sea Shanty\)](https://open.spotify.com/album/1c5f9Qa41aKzuko7bNsxJW) | 3:36 | 2022-12-05 | 2023-04-23 |
 | [Truly Madly Deeply](https://open.spotify.com/track/61yudMS42OFC6KWgmbqwQ7) | [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz), [Kelly Matejcic](https://open.spotify.com/artist/0CTUM73g5EM0oTdkW35GLM) | [Truly Madly Deeply](https://open.spotify.com/album/2bhTRpPgIEee2mk1xLDTAX) | 3:28 | 2023-01-19 | 2023-02-25 |
+| [Turn The Tide Revisited](https://open.spotify.com/track/6HZMjW77EJTRimMarTJVnh) | [Lowriderz](https://open.spotify.com/artist/6r2jFoPfqDkcIFa0WlQTg6), [Sylver](https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy) | [Turn The Tide Revisited](https://open.spotify.com/album/6lO0IvuTGuO9zlpgC2NUCz) | 3:08 | 2023-04-20 |  |
 | [Twerk Anthem](https://open.spotify.com/track/0cZ6KOvnLf0C0GKLti31No) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [Twerk Anthem](https://open.spotify.com/album/3cWHRG6B0GYAgusM50re31) | 2:50 | 2023-02-02 |  |
 | [UNHOLY \(HARDSTYLE\)](https://open.spotify.com/track/2oh6jvkOXFs2DTn4ZRtA2i) | [Enmity](https://open.spotify.com/artist/0vMdRm1cBKsEK2vn1RY1Dh), [Anthony Vincent](https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6) | [UNHOLY \(HARDSTYLE\)](https://open.spotify.com/album/0gCd0ywIXYZPmxsNu42vm7) | 3:15 | 2023-02-23 | 2023-03-31 |
 | [Use Somebody](https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [Use Somebody](https://open.spotify.com/album/092vyskf9htiWRdTiGtTel) | 2:54 | 2023-03-02 |  |

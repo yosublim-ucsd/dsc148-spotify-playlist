@@ -1,12 +1,12 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 235998,
+  "num_followers": 236220,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAyODAwMCwwMDAwMDAwMDBkZWQ4ZTYyZWM5Y2RkY2U0ODFkYTc2ZTA4M2YyMjcw",
+  "snapshot_id": "MTY4MjAyODAwMCwwMDAwMDAwMDIzY2ZmZDVjNDhlNmUyYzgxNThhZTVkNjI5YTFiNzli",
   "tracks": [
     {
       "added_at": "2023-04-20 22:00:00",
@@ -463,6 +463,26 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "THIS YEAR (Blessings)",
+        "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Ehis 'D' Greatest",
+          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
+        }
+      ],
+      "duration_ms": 126206,
+      "name": "THIS YEAR (Blessings)",
+      "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 218826,
       "name": "COMO UN BEB\u00c9",
       "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "THIS YEAR (Blessings)",
-        "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Ehis 'D' Greatest",
-          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
-        }
-      ],
-      "duration_ms": 126206,
-      "name": "THIS YEAR (Blessings)",
-      "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Selling Dreams",
-        "url": "https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL"
+        "name": "No Dey Form",
+        "url": "https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV"
       },
       "artists": [
         {
-          "name": "Nana Fofie",
-          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
         }
       ],
-      "duration_ms": 148283,
-      "name": "Selling Dreams",
-      "url": "https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR"
+      "duration_ms": 140540,
+      "name": "No Dey Form",
+      "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "No Dey Form",
-        "url": "https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV"
+        "name": "Selling Dreams",
+        "url": "https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL"
       },
       "artists": [
         {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
         }
       ],
-      "duration_ms": 140540,
-      "name": "No Dey Form",
-      "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
+      "duration_ms": 148283,
+      "name": "Selling Dreams",
+      "url": "https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -2039,6 +2039,22 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "Fini",
+        "url": "https://open.spotify.com/album/5KvaprWGjxV4RqG1PaQW8t"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "duration_ms": 173790,
+      "name": "Fini",
+      "url": "https://open.spotify.com/track/0JJSn1Fq32PgxrqQtPpbeC"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "Baila Kumi",
         "url": "https://open.spotify.com/album/7Bpb7mSPr0iJE7MyHqeVav"
       },
@@ -2059,38 +2075,18 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Fini",
-        "url": "https://open.spotify.com/album/5KvaprWGjxV4RqG1PaQW8t"
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/2mUXHcpiEOi8c2CVO3qC2G"
       },
       "artists": [
         {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
         }
       ],
-      "duration_ms": 173790,
-      "name": "Fini",
-      "url": "https://open.spotify.com/track/0JJSn1Fq32PgxrqQtPpbeC"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "Big Chune",
-        "url": "https://open.spotify.com/album/5ioIjN8A0qVhfKvTUtWwOs"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        },
-        {
-          "name": "IamNuhRush",
-          "url": "https://open.spotify.com/artist/6wU5HisymxJxU6ucvCwfOE"
-        }
-      ],
-      "duration_ms": 163352,
-      "name": "Big Chune",
-      "url": "https://open.spotify.com/track/1IjPlLjheWe899ounTjCby"
+      "duration_ms": 156927,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/3Y50lI3uo0P910ZnCCEqqU"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -2111,18 +2107,22 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Nobody Knows",
-        "url": "https://open.spotify.com/album/2mUXHcpiEOi8c2CVO3qC2G"
+        "name": "Big Chune",
+        "url": "https://open.spotify.com/album/5ioIjN8A0qVhfKvTUtWwOs"
       },
       "artists": [
         {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "IamNuhRush",
+          "url": "https://open.spotify.com/artist/6wU5HisymxJxU6ucvCwfOE"
         }
       ],
-      "duration_ms": 156927,
-      "name": "Nobody Knows",
-      "url": "https://open.spotify.com/track/3Y50lI3uo0P910ZnCCEqqU"
+      "duration_ms": 163352,
+      "name": "Big Chune",
+      "url": "https://open.spotify.com/track/1IjPlLjheWe899ounTjCby"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -2223,30 +2223,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "\u00c7a Sert \u00e0 Rien",
-        "url": "https://open.spotify.com/album/2GIqPe6SrTBebOm1DCgJG5"
-      },
-      "artists": [
-        {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
-        },
-        {
-          "name": "Emms",
-          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
-        },
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        }
-      ],
-      "duration_ms": 170068,
-      "name": "\u00c7a Sert \u00e0 Rien",
-      "url": "https://open.spotify.com/track/0FmQ6iu0RCCUdIntK2q2eL"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Never Find / Armagidion",
         "url": "https://open.spotify.com/album/2L9yHTn8KvFuPKvMvPGAET"
       },
@@ -2279,18 +2255,26 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Meliza",
-        "url": "https://open.spotify.com/album/0sF2YBWi7MTf3VTsKJKWi1"
+        "name": "\u00c7a Sert \u00e0 Rien",
+        "url": "https://open.spotify.com/album/2GIqPe6SrTBebOm1DCgJG5"
       },
       "artists": [
         {
-          "name": "DJ Flex",
-          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        },
+        {
+          "name": "Emms",
+          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
+        },
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
         }
       ],
-      "duration_ms": 212006,
-      "name": "Meliza",
-      "url": "https://open.spotify.com/track/6zvFe4L9dXSjpZvmcq7dmT"
+      "duration_ms": 170068,
+      "name": "\u00c7a Sert \u00e0 Rien",
+      "url": "https://open.spotify.com/track/0FmQ6iu0RCCUdIntK2q2eL"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -2307,6 +2291,22 @@
       "duration_ms": 169411,
       "name": "Damages",
       "url": "https://open.spotify.com/track/4mliiXiEYDVrmZ8pj1PW0m"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Meliza",
+        "url": "https://open.spotify.com/album/0sF2YBWi7MTf3VTsKJKWi1"
+      },
+      "artists": [
+        {
+          "name": "DJ Flex",
+          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
+        }
+      ],
+      "duration_ms": 212006,
+      "name": "Meliza",
+      "url": "https://open.spotify.com/track/6zvFe4L9dXSjpZvmcq7dmT"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -2691,18 +2691,26 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Bad Gyal",
-        "url": "https://open.spotify.com/album/0id9uIH0ECODKD6mVhbCol"
+        "name": "A Night In Cocody",
+        "url": "https://open.spotify.com/album/7fj4P4j4HNVXX5PZtMaEi2"
       },
       "artists": [
         {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+          "name": "Jeune Lio",
+          "url": "https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF"
+        },
+        {
+          "name": "Chrystel",
+          "url": "https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0"
+        },
+        {
+          "name": "Yung D3mz",
+          "url": "https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf"
         }
       ],
-      "duration_ms": 216470,
-      "name": "Bad Gyal",
-      "url": "https://open.spotify.com/track/6zbYEipVzi9anrP6OMhPxI"
+      "duration_ms": 220264,
+      "name": "Test Me",
+      "url": "https://open.spotify.com/track/7cb8EEwS3csiKjiee33ZP2"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -2727,26 +2735,18 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "A Night In Cocody",
-        "url": "https://open.spotify.com/album/7fj4P4j4HNVXX5PZtMaEi2"
+        "name": "Bad Gyal",
+        "url": "https://open.spotify.com/album/0id9uIH0ECODKD6mVhbCol"
       },
       "artists": [
         {
-          "name": "Jeune Lio",
-          "url": "https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF"
-        },
-        {
-          "name": "Chrystel",
-          "url": "https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0"
-        },
-        {
-          "name": "Yung D3mz",
-          "url": "https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf"
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
         }
       ],
-      "duration_ms": 220264,
-      "name": "Test Me",
-      "url": "https://open.spotify.com/track/7cb8EEwS3csiKjiee33ZP2"
+      "duration_ms": 216470,
+      "name": "Bad Gyal",
+      "url": "https://open.spotify.com/track/6zbYEipVzi9anrP6OMhPxI"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -2779,38 +2779,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Nobody Like You",
-        "url": "https://open.spotify.com/album/3QKq7MUew8RASB1b0XVldC"
-      },
-      "artists": [
-        {
-          "name": "VERSANO",
-          "url": "https://open.spotify.com/artist/2iw3duHiN2YGJfiLUJkIO3"
-        }
-      ],
-      "duration_ms": 185081,
-      "name": "Nobody Like You",
-      "url": "https://open.spotify.com/track/1OxuUFo0lRwfWU2bm8nvRY"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "Thank You Jah",
-        "url": "https://open.spotify.com/album/05lz6RiwYRFok4YeseviAZ"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        }
-      ],
-      "duration_ms": 202884,
-      "name": "Thank You Jah",
-      "url": "https://open.spotify.com/track/3WNZ3EihNtt8Dwo69brHHa"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Feelings (with J Boog & Gyptian)",
         "url": "https://open.spotify.com/album/0qwr73RDAt6DloQiEuljUS"
       },
@@ -2831,6 +2799,46 @@
       "duration_ms": 194731,
       "name": "Feelings (with J Boog & Gyptian)",
       "url": "https://open.spotify.com/track/05LWBvN1FeUHot4CdIowmL"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Nobody Like You",
+        "url": "https://open.spotify.com/album/3QKq7MUew8RASB1b0XVldC"
+      },
+      "artists": [
+        {
+          "name": "VERSANO",
+          "url": "https://open.spotify.com/artist/2iw3duHiN2YGJfiLUJkIO3"
+        }
+      ],
+      "duration_ms": 185081,
+      "name": "Nobody Like You",
+      "url": "https://open.spotify.com/track/1OxuUFo0lRwfWU2bm8nvRY"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Bring It",
+        "url": "https://open.spotify.com/album/0GRrax56zKbepKz9U8Vh0y"
+      },
+      "artists": [
+        {
+          "name": "DJ Ecko",
+          "url": "https://open.spotify.com/artist/2SxKRbDOk3ZbpXxzKCwS0J"
+        },
+        {
+          "name": "Stefario",
+          "url": "https://open.spotify.com/artist/0pMIyWZ9WFbOCVqRaavWhj"
+        },
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "duration_ms": 152232,
+      "name": "Bring It",
+      "url": "https://open.spotify.com/track/3gS80FzuNsJ4iTFrNh6tTY"
     },
     {
       "added_at": "2023-04-20 22:00:00",

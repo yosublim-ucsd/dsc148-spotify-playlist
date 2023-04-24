@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7wXTWO45lqpUejDkike0Gf">Sofia Kourtesis</a>'s favorite tracks\. Updated regularly\. Curated by Sofia Kourtesis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-118 songs - 10 hr 58 min
+120 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Cotton](https://open.spotify.com/track/5O2YyBz2E0xVgSng44UTnV) | [Cop Envy](https://open.spotify.com/artist/2Kw0Sr0n8G0uuzyeFdANyF) | [Cotton EP](https://open.spotify.com/album/1xFPICA2qrNr6ytB3dlFR7) | 5:51 | 2023-01-09 |  |
 | [Currency Low \- Bonus Track](https://open.spotify.com/track/0CfWZ0Zy1LCzOeViunbk43) | [Off The Meds](https://open.spotify.com/artist/6XHiqDJIKWxSMQLsjFsiFM) | [Off The Meds](https://open.spotify.com/album/1xLT0f6nhDZe0sJl5uUTgh) | 2:29 | 2023-01-09 |  |
 | [ECC](https://open.spotify.com/track/7CLQc8p4EMUFUH7HqCMbcs) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [Water](https://open.spotify.com/album/6u23yJ4d4RawFlNGLsomot) | 6:59 | 2023-01-09 |  |
-| [El Invento \- Sofia Kourtesis Remix](https://open.spotify.com/track/7HxxjXqKiVnwJescANPzHu) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [El Invento EP](https://open.spotify.com/album/3HjkmLd8nsxhBhQfgTKD1w) | 4:24 | 2023-01-09 |  |
+| [El Invento \- Sofia Kourtesis Remix](https://open.spotify.com/track/3DcpewxfB6UZoCnZj0ed8S) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Local Valley \(Deluxe\)](https://open.spotify.com/album/4diHCkCZbrCxqzy0rg4c2o) | 4:24 | 2023-01-09 |  |
+| [El Invento \- Sofia Kourtesis Remix](https://open.spotify.com/track/7HxxjXqKiVnwJescANPzHu) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [El Invento EP](https://open.spotify.com/album/3HjkmLd8nsxhBhQfgTKD1w) | 4:24 | 2023-01-09 | 2023-04-24 |
 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 | 2023-01-09 |  |
 | [Eternal September](https://open.spotify.com/track/3Vpn6xh4JmtryjRp80Krqh) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz), [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ), [A+A](https://open.spotify.com/artist/68bLkhHI4bzw9ZXfmhwLwN) | [Eternal September](https://open.spotify.com/album/0dEWqk9rBnxsDMccGmZRQs) | 5:33 | 2023-01-09 |  |
 | [Eyes Of My Mind](https://open.spotify.com/track/6eLNnJwSlwEStbIAZVAYzd) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Eyes Of My Mind](https://open.spotify.com/album/0WaYnVmCtKMrDTWffsSKb2) | 9:12 | 2023-01-09 |  |
@@ -109,7 +110,8 @@
 | [Taurus](https://open.spotify.com/track/6ARmIHYy1T3zQ2QckNsbj3) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Taurus](https://open.spotify.com/album/7ENEJQ25o6uG8J1fS5uaZw) | 4:42 | 2023-01-09 |  |
 | [The Hours](https://open.spotify.com/track/5pDMx1xOnhSomxKkJmez4p) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Supervillain](https://open.spotify.com/album/3LHbQ672nttiCLx9g0ZnaF) | 6:51 | 2023-01-09 |  |
 | [Tienaté](https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS) | 4:38 | 2023-01-09 |  |
-| [Tjomme \- DJ Koze Remix](https://open.spotify.com/track/1nTVZ7XkMnVtfOniDqKNf7) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Tjomme \(DJ Koze Remix\)](https://open.spotify.com/album/04UsjjHKiDTkFTQu8DI45s) | 6:02 | 2023-01-09 |  |
+| [Tjomme \- DJ Koze Remix](https://open.spotify.com/track/1nTVZ7XkMnVtfOniDqKNf7) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Tjomme \(DJ Koze Remix\)](https://open.spotify.com/album/04UsjjHKiDTkFTQu8DI45s) | 6:02 | 2023-01-09 | 2023-04-24 |
+| [Tjomme \- DJ Koze Remix](https://open.spotify.com/track/7lyaMqYrciQPhxH5wJYhL3) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Local Valley \(Deluxe\)](https://open.spotify.com/album/4diHCkCZbrCxqzy0rg4c2o) | 6:02 | 2023-01-09 |  |
 | [Tondo](https://open.spotify.com/track/0csz09qS2n8Jo7LogHKu7j) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eko Roosevelt](https://open.spotify.com/artist/7hs75D38FalYWr7BDO1WPh) | [ENERGY \(Deluxe\)](https://open.spotify.com/album/6wp1us3xBnYz5qldxrZXRf) | 5:29 | 2023-01-09 |  |
 | [Track ID Anyone?](https://open.spotify.com/track/6yK1IkA9XutrCMwvEqwrim) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Caribou](https://open.spotify.com/artist/01J9ItD0Z75nP5iw6keuXr) | [Amygdala](https://open.spotify.com/album/4W6mTFGMa5Zc4lWp7sOifv) | 5:03 | 2023-01-09 |  |
 | [Trainfilters2](https://open.spotify.com/track/5TyyoqyBhNtCbfYGv5Kr0u) | [DJ Jenifa](https://open.spotify.com/artist/6XNtr5lwjhJWMWN15dlyrP) | [Jag Trax](https://open.spotify.com/album/6EMU9jV6DorhoFQR8DUFwu) | 5:38 | 2023-01-09 |  |

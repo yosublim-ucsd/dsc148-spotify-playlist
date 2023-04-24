@@ -4,10 +4,11 @@
 
 > Extatische gevoelens met prachtige muziek
 
-101 songs - 5 hr 49 min
+102 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [20190724](https://open.spotify.com/track/6unIOeUaYgBZ8TgCWNGDPX) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [One Wayne G](https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848) | 1:10 | 2023-04-23 |  |
 | [3 Nights](https://open.spotify.com/track/3VjxQzKXRtV2c8W7IeAXQh) | [KUZKO](https://open.spotify.com/artist/1XwtSHxSZ06XfQ0qah9Rxo) | [Milkshakes & Heartbreaks](https://open.spotify.com/album/4HctltJvLZNQuRM3qeCR8s) | 2:40 | 2023-03-09 | 2023-04-05 |
 | [A Hassle](https://open.spotify.com/track/6Yy3wtQiWNjNLyeNY8sXzS) | [MICH](https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ) | [A Hassle](https://open.spotify.com/album/3g1I3lrauszWOo1IfpksLe) | 2:49 | 2023-04-04 |  |
 | [Action Figures Fighting](https://open.spotify.com/track/30hwT0deSgqiaBMxijn35R) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Action Figures Fighting](https://open.spotify.com/album/2Q5fUG18Rtq9gT8F1Nahdv) | 2:43 | 2023-02-23 | 2023-03-03 |

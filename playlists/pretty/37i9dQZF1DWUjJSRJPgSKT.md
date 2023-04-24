@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 
 > Up tempo jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,545 likes - 100 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,625 likes - 100 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 40 | [Minority](https://open.spotify.com/track/3MXVqeLUIHXVU5xC96Ef5Y) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 5:23 |
 | 41 | [No Room For Squares \- Remastered 2000 / Rudy Van Gelder Edition](https://open.spotify.com/track/5FsKNbwv7BlR7crawTE3IZ) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [No Room For Squares \(Remastered 2000 / Rudy Van Gelder Edition\)](https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi) | 6:57 |
 | 42 | [Donna Lee](https://open.spotify.com/track/2N7LJO1uufnSeXIwxooTzg) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Lee Konitz with Warne Marsh](https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c) | 6:17 |
-| 43 | [Ornithology](https://open.spotify.com/track/14R3YZutaJKFLGDEl9R1bJ) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [The Genius Of Charlie Parker](https://open.spotify.com/album/7gLP8EvsusOiFKu0G2yjzQ) | 3:02 |
+| 43 | [Salt Peanuts](https://open.spotify.com/track/65hcrO0589fUJwDMJSdN2h) | [Dizzy Gillespie Quintet](https://open.spotify.com/artist/4pOjIcQ4PGk52L8aGsrO5A) | [An Electrifying Evening With The Dizzy Gillespie Quintet](https://open.spotify.com/album/2dO705Y22N0bczDyF9h5U0) | 7:08 |
 | 44 | [Steps\-What Was \- Digitally Remastered](https://open.spotify.com/track/725Y4Kg5DbwQjVt6UpznuF) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Now He Sings, Now He Sobs](https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE) | 13:50 |
-| 45 | [Salt Peanuts](https://open.spotify.com/track/65hcrO0589fUJwDMJSdN2h) | [Dizzy Gillespie Quintet](https://open.spotify.com/artist/4pOjIcQ4PGk52L8aGsrO5A) | [An Electrifying Evening With The Dizzy Gillespie Quintet](https://open.spotify.com/album/2dO705Y22N0bczDyF9h5U0) | 7:08 |
+| 45 | [Ornithology](https://open.spotify.com/track/14R3YZutaJKFLGDEl9R1bJ) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [The Genius Of Charlie Parker](https://open.spotify.com/album/7gLP8EvsusOiFKu0G2yjzQ) | 3:02 |
 | 46 | [Impressions \- Live At The Half Note /1965](https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Smokin' At The Half Note \(Expanded Edition\)](https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy) | 5:03 |
 | 47 | [The Bridge \- Remastered](https://open.spotify.com/track/3lW1WztiEqcqN7UFZxfUiQ) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Bridge](https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ) | 5:59 |
 | 48 | [Hora Decubitus](https://open.spotify.com/track/6evehXa14Rvbt355gFnMdH) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Mingus Mingus Mingus Mingus](https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH) | 4:43 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 93 | [Tune Up \- Remastered](https://open.spotify.com/track/1t5fyaRFbDXWvk8Gm9OeHO) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Newk's Time](https://open.spotify.com/album/61ZMZem0tvxv63NqN8mesY) | 5:44 |
 | 94 | [It's Only A Paper Moon \- Remastered 2005](https://open.spotify.com/track/2UoqI4i9SKlpGN3QDszbYT) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [The Big Beat \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/3xTvTulNR8Ba1uk0oDaQbs) | 6:37 |
 | 95 | [Infra\-Rae](https://open.spotify.com/track/4xH1zCrByVeiLX3xwgUgXk) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [The Jazz Messengers](https://open.spotify.com/album/3pz0v3v5f96GUBfwZ6pbrX) | 6:54 |
-| 96 | [Sincerely Diana](https://open.spotify.com/track/3LR9RHZ3BFzYJpuq8Q8ZZG) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [A Night In Tunisia \(Remaster\)](https://open.spotify.com/album/0oGkNKWrFghBenF0j16VVW) | 6:51 |
-| 97 | [A Night In Tunisia \- Take 3](https://open.spotify.com/track/6SVAPhAYeX62EeLarDpJYJ) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [The Essential Art Blakey \- The Columbia & RCA Years](https://open.spotify.com/album/56b5T1iEXsM3d2ZjaqL0lS) | 12:52 |
+| 96 | [A Night In Tunisia \- Take 3](https://open.spotify.com/track/6SVAPhAYeX62EeLarDpJYJ) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [The Essential Art Blakey \- The Columbia & RCA Years](https://open.spotify.com/album/56b5T1iEXsM3d2ZjaqL0lS) | 12:52 |
+| 97 | [Sincerely Diana](https://open.spotify.com/track/3LR9RHZ3BFzYJpuq8Q8ZZG) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [A Night In Tunisia \(Remaster\)](https://open.spotify.com/album/0oGkNKWrFghBenF0j16VVW) | 6:51 |
 | 98 | [Cranky Spanky](https://open.spotify.com/track/0YpDyg89lkfI1rY0klMdtf) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Hard Bop \(Expanded Edition\)](https://open.spotify.com/album/4GQHWCO7xTs34YECtSCfAL) | 4:48 |
 | 99 | [Bu's Delight \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/1HGT8LppbMIui1FtlcOMic) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Buhaina's Delight \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/1gGO3aUcdvI1dcANVs2qQ9) | 9:21 |
 | 100 | [I'll Remember April](https://open.spotify.com/track/6yRPErtmW2FuTeQ1cvDsrr) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Clifford Brown And Max Roach At Basin Street](https://open.spotify.com/album/3uPU83MTXiLpmpoAMViCBc) | 9:13 |
 
-Snapshot ID: `MTY4MTk4Mzg4MywwMDAwMDAwMGFlZjBjM2QxMjY5YmI4MDVlOWI2ZWZjOGUxYWI4N2Vm`
+Snapshot ID: `MTY4MTk4Mzg4MywwMDAwMDAwMDg1ZmNjZGJmZGY0ZWRkMTMxOGJiZTVlOTNlM2FkMWNm`

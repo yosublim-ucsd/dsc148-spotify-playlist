@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Adriana Calcanhotto",
-  "num_followers": 338230,
+  "num_followers": 338285,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTU4NTg4NSwwMDAwMDAwMDQwMjg1NWJhMzI5NWE3NDQyYmViNmRjZGJmYWFlMzBj",
+  "snapshot_id": "MTY4MTU4NTg4NSwwMDAwMDAwMDEyODU1MDU0OWRkMDEwMzA3ZWUwZjg5MWVjMzJkYTA0",
   "tracks": [
     {
       "added_at": "2023-04-15 19:11:25",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-04-15 19:11:25",
       "album": {
-        "name": "Evid\u00eancias",
-        "url": "https://open.spotify.com/album/53TgszUvzimrVfwxBGDZ7h"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 313038,
-      "name": "Evid\u00eancias",
-      "url": "https://open.spotify.com/track/1Ide6WO5z4akgcXx6MWKB3"
-    },
-    {
-      "added_at": "2023-04-15 19:11:25",
-      "album": {
         "name": "Farol",
         "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 145191,
       "name": "Farol",
       "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
+    },
+    {
+      "added_at": "2023-04-15 19:11:25",
+      "album": {
+        "name": "Evid\u00eancias",
+        "url": "https://open.spotify.com/album/53TgszUvzimrVfwxBGDZ7h"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "duration_ms": 313038,
+      "name": "Evid\u00eancias",
+      "url": "https://open.spotify.com/track/1Ide6WO5z4akgcXx6MWKB3"
     },
     {
       "added_at": "2023-04-15 19:11:25",
@@ -723,26 +723,6 @@
     {
       "added_at": "2023-04-15 19:11:25",
       "album": {
-        "name": "Dia Branco",
-        "url": "https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb"
-      },
-      "artists": [
-        {
-          "name": "Geraldo Azevedo",
-          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
-        },
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 147899,
-      "name": "Dia Branco",
-      "url": "https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv"
-    },
-    {
-      "added_at": "2023-04-15 19:11:25",
-      "album": {
         "name": "Beleza Destru\u00edda",
         "url": "https://open.spotify.com/album/6POGjkubJUeXELdtwYtpm6"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 280271,
       "name": "Beleza Destru\u00edda",
       "url": "https://open.spotify.com/track/7maSkM3sduCmafzx9btEqR"
+    },
+    {
+      "added_at": "2023-04-15 19:11:25",
+      "album": {
+        "name": "Dia Branco",
+        "url": "https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb"
+      },
+      "artists": [
+        {
+          "name": "Geraldo Azevedo",
+          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
+        },
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 147899,
+      "name": "Dia Branco",
+      "url": "https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv"
     },
     {
       "added_at": "2023-04-15 19:11:25",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-04-15 19:11:25",
       "album": {
-        "name": "Boca de A\u00e7a\u00ed",
-        "url": "https://open.spotify.com/album/3koHtGJavl6vMvCImlNNXG"
-      },
-      "artists": [
-        {
-          "name": "Maria Luiza Jobim",
-          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
-        }
-      ],
-      "duration_ms": 207857,
-      "name": "Boca de A\u00e7a\u00ed",
-      "url": "https://open.spotify.com/track/7xN0nAmh7igHAFoB0PW8kX"
-    },
-    {
-      "added_at": "2023-04-15 19:11:25",
-      "album": {
         "name": "Para Lennon e McCartney / Cita\u00e7\u00e3o: O Vento",
         "url": "https://open.spotify.com/album/6XN1f9w4y3OuBqu0t2Qwe2"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 228709,
       "name": "Para Lennon e McCartney / Cita\u00e7\u00e3o: O Vento",
       "url": "https://open.spotify.com/track/5wWVluHjM6PUU68gNSkbYm"
+    },
+    {
+      "added_at": "2023-04-15 19:11:25",
+      "album": {
+        "name": "Boca de A\u00e7a\u00ed",
+        "url": "https://open.spotify.com/album/3koHtGJavl6vMvCImlNNXG"
+      },
+      "artists": [
+        {
+          "name": "Maria Luiza Jobim",
+          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
+        }
+      ],
+      "duration_ms": 207857,
+      "name": "Boca de A\u00e7a\u00ed",
+      "url": "https://open.spotify.com/track/7xN0nAmh7igHAFoB0PW8kX"
     },
     {
       "added_at": "2023-04-15 19:11:25",
@@ -927,6 +927,26 @@
     {
       "added_at": "2023-04-15 19:11:25",
       "album": {
+        "name": "Paula e Bebeto",
+        "url": "https://open.spotify.com/album/0uiSAseDeXMBFIjAUAqQ87"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 191418,
+      "name": "Paula e Bebeto",
+      "url": "https://open.spotify.com/track/62eMpHTC584YQztqxELhmK"
+    },
+    {
+      "added_at": "2023-04-15 19:11:25",
+      "album": {
         "name": "T\u00e3o Distra\u00eddos",
         "url": "https://open.spotify.com/album/4FnViUD7mk5sA4mI3D3xoh"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 322543,
       "name": "Cora\u00e7\u00e3o Selvagem",
       "url": "https://open.spotify.com/track/1CJ2c62JnJK3Ax7O2C11vw"
-    },
-    {
-      "added_at": "2023-04-15 19:11:25",
-      "album": {
-        "name": "Paula e Bebeto",
-        "url": "https://open.spotify.com/album/0uiSAseDeXMBFIjAUAqQ87"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 191418,
-      "name": "Paula e Bebeto",
-      "url": "https://open.spotify.com/track/62eMpHTC584YQztqxELhmK"
     },
     {
       "added_at": "2023-04-15 19:11:25",
@@ -1083,22 +1083,22 @@
     {
       "added_at": "2023-04-15 19:11:25",
       "album": {
-        "name": "Aqui em Casa (Ao vivo na Casa de Francisca)",
-        "url": "https://open.spotify.com/album/5edRUvrs7Ixak0FPMB9LPI"
+        "name": "Meu Parceiro Belchior",
+        "url": "https://open.spotify.com/album/4AoIH69rmWCDQH0ul0gwx5"
       },
       "artists": [
         {
-          "name": "Mariana Aydar",
-          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
+          "name": "Fagner",
+          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
         },
         {
-          "name": "Fejuca",
-          "url": "https://open.spotify.com/artist/6ZTlDR8IfFjPGqQmcOj2vj"
+          "name": "Belchior",
+          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
         }
       ],
-      "duration_ms": 213145,
-      "name": "Melhor Sozinha - Ao vivo",
-      "url": "https://open.spotify.com/track/1cowom9Hc1knxxzM4ZArnP"
+      "duration_ms": 166006,
+      "name": "A Palo Seco",
+      "url": "https://open.spotify.com/track/7f5l7oW0xQOD2Fj7Pq03ME"
     },
     {
       "added_at": "2023-04-15 19:11:25",
@@ -1119,22 +1119,22 @@
     {
       "added_at": "2023-04-15 19:11:25",
       "album": {
-        "name": "Meu Parceiro Belchior",
-        "url": "https://open.spotify.com/album/4AoIH69rmWCDQH0ul0gwx5"
+        "name": "Aqui em Casa (Ao vivo na Casa de Francisca)",
+        "url": "https://open.spotify.com/album/5edRUvrs7Ixak0FPMB9LPI"
       },
       "artists": [
         {
-          "name": "Fagner",
-          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
+          "name": "Mariana Aydar",
+          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
         },
         {
-          "name": "Belchior",
-          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
+          "name": "Fejuca",
+          "url": "https://open.spotify.com/artist/6ZTlDR8IfFjPGqQmcOj2vj"
         }
       ],
-      "duration_ms": 166006,
-      "name": "A Palo Seco",
-      "url": "https://open.spotify.com/track/7f5l7oW0xQOD2Fj7Pq03ME"
+      "duration_ms": 213145,
+      "name": "Melhor Sozinha - Ao vivo",
+      "url": "https://open.spotify.com/track/1cowom9Hc1knxxzM4ZArnP"
     },
     {
       "added_at": "2023-04-15 19:11:25",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-04-15 19:11:25",
       "album": {
-        "name": "Pra lhe Dizer",
-        "url": "https://open.spotify.com/album/2FCd8bsBEd34LSKEVci8o8"
-      },
-      "artists": [
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 290141,
-      "name": "Pra lhe Dizer",
-      "url": "https://open.spotify.com/track/2wmLzpkFjqwVNXrAck7i5D"
-    },
-    {
-      "added_at": "2023-04-15 19:11:25",
-      "album": {
         "name": "Ser\u00e1 que eu t\u00f4 gostando dela?",
         "url": "https://open.spotify.com/album/3slNVgQpPfoynH15INuJuG"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 152801,
       "name": "Esse Amor Chegou",
       "url": "https://open.spotify.com/track/43qZK77WZUsK6c2HOvLXzj"
+    },
+    {
+      "added_at": "2023-04-15 19:11:25",
+      "album": {
+        "name": "Pra lhe Dizer",
+        "url": "https://open.spotify.com/album/2FCd8bsBEd34LSKEVci8o8"
+      },
+      "artists": [
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 290141,
+      "name": "Pra lhe Dizer",
+      "url": "https://open.spotify.com/track/2wmLzpkFjqwVNXrAck7i5D"
     },
     {
       "added_at": "2023-04-15 19:11:25",
@@ -1343,18 +1343,22 @@
     {
       "added_at": "2023-04-15 19:11:25",
       "album": {
-        "name": "Deusa Inebriante",
-        "url": "https://open.spotify.com/album/5kytbvkCXouV1WVZyvC0bb"
+        "name": "Alceu Valen\u00e7a e Paulo Rafael",
+        "url": "https://open.spotify.com/album/4HXr6RkfGfmm0rT6QQpuag"
       },
       "artists": [
         {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        },
+        {
+          "name": "Paulo Rafael",
+          "url": "https://open.spotify.com/artist/5JUUqMr35eHGJHi9W8thlo"
         }
       ],
-      "duration_ms": 196857,
-      "name": "Deusa Inebriante",
-      "url": "https://open.spotify.com/track/3hABgi9BBWx6FlvsJImrqV"
+      "duration_ms": 204873,
+      "name": "Girassol",
+      "url": "https://open.spotify.com/track/4S0ifovuVyfVFJo0hnI3wK"
     },
     {
       "added_at": "2023-04-15 19:11:25",
@@ -1375,22 +1379,18 @@
     {
       "added_at": "2023-04-15 19:11:25",
       "album": {
-        "name": "Alceu Valen\u00e7a e Paulo Rafael",
-        "url": "https://open.spotify.com/album/4HXr6RkfGfmm0rT6QQpuag"
+        "name": "Deusa Inebriante",
+        "url": "https://open.spotify.com/album/5kytbvkCXouV1WVZyvC0bb"
       },
       "artists": [
         {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        },
-        {
-          "name": "Paulo Rafael",
-          "url": "https://open.spotify.com/artist/5JUUqMr35eHGJHi9W8thlo"
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
         }
       ],
-      "duration_ms": 204873,
-      "name": "Girassol",
-      "url": "https://open.spotify.com/track/4S0ifovuVyfVFJo0hnI3wK"
+      "duration_ms": 196857,
+      "name": "Deusa Inebriante",
+      "url": "https://open.spotify.com/track/3hABgi9BBWx6FlvsJImrqV"
     },
     {
       "added_at": "2023-04-15 19:11:25",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-04-15 19:11:25",
       "album": {
-        "name": "Curyman",
-        "url": "https://open.spotify.com/album/05NiQkAFwyas6XwckmzsJ8"
-      },
-      "artists": [
-        {
-          "name": "Rog\u00ea",
-          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
-        }
-      ],
-      "duration_ms": 212573,
-      "name": "Pra Vida",
-      "url": "https://open.spotify.com/track/7z9ygQkhE50EGYMuZfbEFq"
-    },
-    {
-      "added_at": "2023-04-15 19:11:25",
-      "album": {
         "name": "Lua e Estrela",
         "url": "https://open.spotify.com/album/6WLk4GdWrTFvIKqUVq0p05"
       },
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2023-04-15 19:11:25",
       "album": {
-        "name": "Essa Pele Marcada 4 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/19XR5RzqSQ3ZBbmZ7F8ZmQ"
+        "name": "Curyman",
+        "url": "https://open.spotify.com/album/05NiQkAFwyas6XwckmzsJ8"
       },
       "artists": [
         {
-          "name": "Marcos Almeida",
-          "url": "https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR"
+          "name": "Rog\u00ea",
+          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
         }
       ],
-      "duration_ms": 359706,
-      "name": "Conviver - Ao Vivo",
-      "url": "https://open.spotify.com/track/56n5c5qisRIcJqawTM7Bgr"
+      "duration_ms": 212573,
+      "name": "Pra Vida",
+      "url": "https://open.spotify.com/track/7z9ygQkhE50EGYMuZfbEFq"
     },
     {
       "added_at": "2023-04-15 19:11:25",
@@ -1499,6 +1483,22 @@
       "duration_ms": 261056,
       "name": "Planeta V\u00eanus - Ao Vivo no Noites Cariocas",
       "url": "https://open.spotify.com/track/4dpuPTfpY0tvaXsloKKPbE"
+    },
+    {
+      "added_at": "2023-04-15 19:11:25",
+      "album": {
+        "name": "Essa Pele Marcada 4 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/19XR5RzqSQ3ZBbmZ7F8ZmQ"
+      },
+      "artists": [
+        {
+          "name": "Marcos Almeida",
+          "url": "https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR"
+        }
+      ],
+      "duration_ms": 359706,
+      "name": "Conviver - Ao Vivo",
+      "url": "https://open.spotify.com/track/56n5c5qisRIcJqawTM7Bgr"
     },
     {
       "added_at": "2023-04-15 19:11:25",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-04-15 19:11:25",
       "album": {
-        "name": "A Arte de N\u00e3o Morrer",
-        "url": "https://open.spotify.com/album/6b6EFmzBxSfWfrvCW6lJxs"
-      },
-      "artists": [
-        {
-          "name": "Jards Macal\u00e9",
-          "url": "https://open.spotify.com/artist/11dkvirvWFnfNUsaGVvObg"
-        }
-      ],
-      "duration_ms": 224960,
-      "name": "A arte de n\u00e3o morrer",
-      "url": "https://open.spotify.com/track/491TwNe5sWUi1fSXmRAJIw"
-    },
-    {
-      "added_at": "2023-04-15 19:11:25",
-      "album": {
         "name": "Nossos Planos",
         "url": "https://open.spotify.com/album/41cZmMfLF4mjtAcVJYYdRQ"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 176968,
       "name": "Nossos Planos",
       "url": "https://open.spotify.com/track/2OHS3REstdGEdLxuWImyOT"
+    },
+    {
+      "added_at": "2023-04-15 19:11:25",
+      "album": {
+        "name": "A Arte de N\u00e3o Morrer",
+        "url": "https://open.spotify.com/album/6b6EFmzBxSfWfrvCW6lJxs"
+      },
+      "artists": [
+        {
+          "name": "Jards Macal\u00e9",
+          "url": "https://open.spotify.com/artist/11dkvirvWFnfNUsaGVvObg"
+        }
+      ],
+      "duration_ms": 224960,
+      "name": "A arte de n\u00e3o morrer",
+      "url": "https://open.spotify.com/track/491TwNe5sWUi1fSXmRAJIw"
     },
     {
       "added_at": "2023-04-15 19:11:25",
@@ -1908,13 +1908,13 @@
           "url": "https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9"
         },
         {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
         }
       ],
-      "duration_ms": 193186,
-      "name": "Banho de Cheiro",
-      "url": "https://open.spotify.com/track/4HdKCNf0qZ0weLDBsZKJl5"
+      "duration_ms": 270186,
+      "name": "Mal Acostumada",
+      "url": "https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab"
     },
     {
       "added_at": "2023-04-15 19:11:25",
@@ -1928,13 +1928,13 @@
           "url": "https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9"
         },
         {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
         }
       ],
-      "duration_ms": 270186,
-      "name": "Mal Acostumada",
-      "url": "https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab"
+      "duration_ms": 193186,
+      "name": "Banho de Cheiro",
+      "url": "https://open.spotify.com/track/4HdKCNf0qZ0weLDBsZKJl5"
     }
   ],
   "unique_name": "Divina MPB",

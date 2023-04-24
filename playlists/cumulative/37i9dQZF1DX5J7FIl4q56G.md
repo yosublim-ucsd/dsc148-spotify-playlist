@@ -4,7 +4,7 @@
 
 > This week's best new metal tracks\. Cover: As Everything Unfolds
 
-3,271 songs - 9 day 5 hr 49 min
+3,272 songs - 9 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -985,7 +985,8 @@
 | [Evil Finds Light](https://open.spotify.com/track/3p1IOO676P6CAq36OLDM7r) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [Evil Finds Light](https://open.spotify.com/album/21u5hMMH27Z71eKn0jc1lu) | 2:07 | 2023-02-10 | 2023-02-18 |
 | [Evoke](https://open.spotify.com/track/7bUtuF3qbiDkjWbQOOsBvz) | [Our Promise](https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD) | [Evoke](https://open.spotify.com/album/2PBVhNmafvjMGQ6aDLTCjN) | 3:30 | 2023-04-21 |  |
 | [Ex Negativo](https://open.spotify.com/track/10ENVmCdFwJI56CLLYBps7) | [Half Me](https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC), [Marcus Lundqvist](https://open.spotify.com/artist/0q08CFLbXbVGCeLsduyGFe) | [Ex Negativo](https://open.spotify.com/album/0I8jW0HrBdY33udMgxPPTT) | 3:45 | 2023-01-13 | 2023-01-21 |
-| [Ex\-Human, Now Beast](https://open.spotify.com/track/50WKLFqJQ9kSsmgyc8VrfH) | [Dozer](https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N) | [Ex\-human, Now Beast](https://open.spotify.com/album/1kOxor59vIAnuQGZAQrFPa) | 4:29 | 2023-02-24 |  |
+| [Ex\-Human, Now Beast](https://open.spotify.com/track/0w1p5OquE37GXyyisoQf8k) | [Dozer](https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N) | [Drifting In The Endless Void](https://open.spotify.com/album/4mLQihycmN3yjMepyQopVV) | 4:29 | 2023-04-21 |  |
+| [Ex\-Human, Now Beast](https://open.spotify.com/track/50WKLFqJQ9kSsmgyc8VrfH) | [Dozer](https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N) | [Ex\-human, Now Beast](https://open.spotify.com/album/1kOxor59vIAnuQGZAQrFPa) | 4:29 | 2023-02-24 | 2023-04-24 |
 | [Exhumed From Flaming Stars](https://open.spotify.com/track/6fEjArjWtHYFyj6O2nVPH6) | [Wormwitch](https://open.spotify.com/artist/5eTTS3YDf54li8yguyoP14) | [Exhumed From Flaming Stars](https://open.spotify.com/album/3D3IhciCDCrmKbsUeSx6GP) | 4:49 | 2022-11-11 | 2022-11-19 |
 | [Exile Of The Gods](https://open.spotify.com/track/2gEh41XUP3vI7kAjlEO92n) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Exile Of The Gods](https://open.spotify.com/album/02Dk4y7nusQzcyMMEUkVz1) | 4:07 | 2022-10-14 | 2022-10-22 |
 | [Exiled To The Surface](https://open.spotify.com/track/4dn7HrPubzI92ztLneJq0R) | [Traitor](https://open.spotify.com/artist/3rHTxH2it9i3O73UQbnMvM) | [Exiled To The Surface](https://open.spotify.com/album/6dzIsjlhJbUQGPO7wuBAn5) | 3:27 | 2022-04-08 | 2022-04-22 |

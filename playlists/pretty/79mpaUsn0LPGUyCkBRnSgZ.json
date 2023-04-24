@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "ODEzLDQyY2UxNTJlZTk1Zjg3MzE1ZmVlOTkxMWY1NjhiZDU4OGM0N2IxMGY=",
+  "snapshot_id": "ODE1LDBjY2VlYjI4NDYyYjY0NzE2Njk1NzgzMTk4YWUxMTEwMTJhNDM4M2M=",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -3163,6 +3163,50 @@
       "duration_ms": 95240,
       "name": "Hot Rotten Grass Smell",
       "url": "https://open.spotify.com/track/16weYq1yI3d7pyjkRLYlrY"
+    },
+    {
+      "added_at": "2023-04-24 00:35:01",
+      "album": {
+        "name": "Revenge Of The Dreamers III",
+        "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Lute",
+          "url": "https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "Under The Sun (with J. Cole & Lute feat. DaBaby)",
+      "url": "https://open.spotify.com/track/6MF4tRr5lU8qok8IKaFOBE"
+    },
+    {
+      "added_at": "2023-04-24 00:37:13",
+      "album": {
+        "name": "Modus Vivendi",
+        "url": "https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 104573,
+      "name": "Don't Break The Silence",
+      "url": "https://open.spotify.com/track/7fTEiF3rNCc8TDagCAXjhd"
     }
   ],
   "unique_name": "Zacklog",

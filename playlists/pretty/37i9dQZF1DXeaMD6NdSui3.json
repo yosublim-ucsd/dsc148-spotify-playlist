@@ -1,12 +1,12 @@
 {
   "description": "Simply Texas blues at its best.",
-  "num_followers": 114555,
+  "num_followers": 114663,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTYyNCwwMDAwMDAwMDM0NWFiNDQ0NGIxNTFiYzkxZjJjMDk5ZTcwOGNmMjBm",
+  "snapshot_id": "MTY0ODQ5OTYyNCwwMDAwMDAwMGY1NDc4MTEwZWIwMmYyY2EyMzE2NjVkY2IxZGE4YTIz",
   "tracks": [
     {
       "added_at": "2016-03-18 21:56:19",
@@ -319,18 +319,22 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Texas Bluesman",
-        "url": "https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h"
+        "name": "Too Much is not enough",
+        "url": "https://open.spotify.com/album/4nBTViXrq2BhHlvnJOE5HD"
       },
       "artists": [
         {
-          "name": "Zuzu Bollin",
-          "url": "https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ"
+          "name": "Omar and The Howlers",
+          "url": "https://open.spotify.com/artist/70PvPWG9nD4ZujibB1onsO"
+        },
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
         }
       ],
-      "duration_ms": 174133,
-      "name": "Why Don't You Eat Where You Slept Last Night?",
-      "url": "https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej"
+      "duration_ms": 189040,
+      "name": "I Gotta Let You Go (feat. Gary Clark, Jr.)",
+      "url": "https://open.spotify.com/track/5fuMwHFFrme5gzjYRf5cI9"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -351,22 +355,18 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Too Much is not enough",
-        "url": "https://open.spotify.com/album/4nBTViXrq2BhHlvnJOE5HD"
+        "name": "Texas Bluesman",
+        "url": "https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h"
       },
       "artists": [
         {
-          "name": "Omar and The Howlers",
-          "url": "https://open.spotify.com/artist/70PvPWG9nD4ZujibB1onsO"
-        },
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+          "name": "Zuzu Bollin",
+          "url": "https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ"
         }
       ],
-      "duration_ms": 189040,
-      "name": "I Gotta Let You Go (feat. Gary Clark, Jr.)",
-      "url": "https://open.spotify.com/track/5fuMwHFFrme5gzjYRf5cI9"
+      "duration_ms": 174133,
+      "name": "Why Don't You Eat Where You Slept Last Night?",
+      "url": "https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/1jlSFo0KBDs6E6Tkw06UqR"
     },
     {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "I Know What It's Like",
-        "url": "https://open.spotify.com/album/3a2lnTskswyUvsYNcxoqMV"
-      },
-      "artists": [
-        {
-          "name": "Andrew \"Jr Boy\" Jones",
-          "url": "https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c"
-        }
-      ],
-      "duration_ms": 273346,
-      "name": "Whiskey Drinkin' Blues",
-      "url": "https://open.spotify.com/track/51Us3goc25GZypfvfLQ3PT"
-    },
-    {
       "added_at": "2018-02-27 16:43:49",
       "album": {
         "name": "Buddy Whittington",
@@ -551,6 +535,22 @@
       "duration_ms": 273426,
       "name": "Pay the Band",
       "url": "https://open.spotify.com/track/7nVvyXdvMJ8Ocaravj5edN"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "I Know What It's Like",
+        "url": "https://open.spotify.com/album/3a2lnTskswyUvsYNcxoqMV"
+      },
+      "artists": [
+        {
+          "name": "Andrew \"Jr Boy\" Jones",
+          "url": "https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c"
+        }
+      ],
+      "duration_ms": 273346,
+      "name": "Whiskey Drinkin' Blues",
+      "url": "https://open.spotify.com/track/51Us3goc25GZypfvfLQ3PT"
     },
     {
       "added_at": "2018-02-27 16:43:49",

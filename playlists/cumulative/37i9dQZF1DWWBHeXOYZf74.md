@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Arlo Parks
 
-1,986 songs - 4 day 15 hr 33 min
+1,987 songs - 4 day 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1719,7 +1719,8 @@
 | [Te Olvidaste](https://open.spotify.com/track/6Nr40AS5eNsfFjpMrisCY3) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 3:07 | 2021-02-27 | 2022-01-15 |
 | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/43zOaM9seVvQuWIdDf88yV) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/album/45gXJvbzPOYudQDvu9OktY) | 3:16 | 2021-12-17 | 2022-02-19 |
 | [Technicolor Love](https://open.spotify.com/track/0xPbEroCoWAutN6yHJVWYN) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [Technicolor Love](https://open.spotify.com/album/4jjEC6GHtOQdKqEi151fuC) | 3:14 | 2023-02-24 | 2023-03-04 |
-| [Technicolor Love \(feat\. redveil\)](https://open.spotify.com/track/4qzulXfoTGX3FBqsW4AzRF) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [Technicolor Love \(feat\. redveil\)](https://open.spotify.com/album/4HTdrR3aylcEuJQlyuH6Pn) | 3:14 | 2023-02-24 |  |
+| [Technicolor Love \(feat\. redveil\)](https://open.spotify.com/track/14jPneKsd6HTLtWKHATVcl) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:14 | 2023-02-24 |  |
+| [Technicolor Love \(feat\. redveil\)](https://open.spotify.com/track/4qzulXfoTGX3FBqsW4AzRF) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [Technicolor Love \(feat\. redveil\)](https://open.spotify.com/album/4HTdrR3aylcEuJQlyuH6Pn) | 3:14 | 2023-02-24 | 2023-04-24 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-02-19 | 2021-08-07 |
 | [Tempo](https://open.spotify.com/track/2ca5xMtPpmULDE6aG3VuEn) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Tempo](https://open.spotify.com/album/4kFIgF4fh0MdsyopIZD8Wn) | 2:10 | 2020-04-04 | 2020-06-29 |
 | [temporary nothing \(Charlie Burg edit\)](https://open.spotify.com/track/4K2DbmCzzxLhEzJBZjB3H9) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [plum blossom \(the edits\)](https://open.spotify.com/album/5mGRMZXNW3Vh6wR8v4qDD2) | 3:31 | 2019-07-30\* | 2019-08-29 |

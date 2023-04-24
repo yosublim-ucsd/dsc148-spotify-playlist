@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 62483,
+  "num_followers": 62501,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDc4NWJmOWU2MzRjZGI2NzhiNWU5ODE4MGMxMWZkOGMx",
+  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMGVkNTVkOWYxYmY2ZmFlYWI5OWVlNDFkN2QxNDlkMDRk",
   "tracks": [
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "Avenue",
+        "url": "https://open.spotify.com/album/3xCkKt8x3YWLpEMOVLX7vx"
+      },
+      "artists": [
+        {
+          "name": "Trevis",
+          "url": "https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Avenue",
+      "url": "https://open.spotify.com/track/7b7vlu6R3ww0Hzvz50GQDh"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "HER Love [Feat. Daniel Caesar with special guest Dwele]",
         "url": "https://open.spotify.com/album/5ASnPqVkvU50cwNlC6OoX6"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 377852,
       "name": "HER Love [Feat. Daniel Caesar with special guest Dwele]",
       "url": "https://open.spotify.com/track/4ZLVxybMljzL77dCA443Ob"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Avenue",
-        "url": "https://open.spotify.com/album/3xCkKt8x3YWLpEMOVLX7vx"
-      },
-      "artists": [
-        {
-          "name": "Trevis",
-          "url": "https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Avenue",
-      "url": "https://open.spotify.com/track/7b7vlu6R3ww0Hzvz50GQDh"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1583,6 +1583,26 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/76CdMSgIfOG6BfFsz97z5X"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        },
+        {
+          "name": "Charlotte Dos Santos",
+          "url": "https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM"
+        }
+      ],
+      "duration_ms": 226232,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/5e28Opuxq5CZ9AkcJUFVos"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "TyrTape (Deluxe)",
         "url": "https://open.spotify.com/album/5SWXZdPOFLyQWrQU6cb8zN"
       },
@@ -1603,22 +1623,18 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/76CdMSgIfOG6BfFsz97z5X"
+        "name": "Who Do You Pray To?",
+        "url": "https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z"
       },
       "artists": [
         {
-          "name": "Gotts Street Park",
-          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
-        },
-        {
-          "name": "Charlotte Dos Santos",
-          "url": "https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM"
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
         }
       ],
-      "duration_ms": 226232,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/5e28Opuxq5CZ9AkcJUFVos"
+      "duration_ms": 189092,
+      "name": "My Brother",
+      "url": "https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1659,22 +1675,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Who Do You Pray To?",
-        "url": "https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z"
-      },
-      "artists": [
-        {
-          "name": "Sam Tompkins",
-          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
-        }
-      ],
-      "duration_ms": 189092,
-      "name": "My Brother",
-      "url": "https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Tuesday",
         "url": "https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo"
       },
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/70CwzcT6ppJnMWxGDmnB9l"
+      },
+      "artists": [
+        {
+          "name": "Jerry Folk",
+          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/5QyHXXW3lUlVeoapWCXW2Y"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "Sweet Insomnia",
         "url": "https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 185371,
       "name": "Compromise (feat. Sabrina Claudio)",
       "url": "https://open.spotify.com/track/4A96scbB368L3h1Hg7vVRn"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/70CwzcT6ppJnMWxGDmnB9l"
-      },
-      "artists": [
-        {
-          "name": "Jerry Folk",
-          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/5QyHXXW3lUlVeoapWCXW2Y"
     }
   ],
   "unique_name": "Laid Back Beats",

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "One Wayne G",
+        "url": "https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2023-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70097,
+      "name": "20190724",
+      "url": "https://open.spotify.com/track/6unIOeUaYgBZ8TgCWNGDPX"
+    },
+    {
+      "album": {
         "name": "Milkshakes & Heartbreaks",
         "url": "https://open.spotify.com/album/4HctltJvLZNQuRM3qeCR8s"
       },

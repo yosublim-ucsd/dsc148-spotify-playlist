@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-210 songs - 18 hr 31 min
+211 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Melting Refuge](https://open.spotify.com/track/72yOEueBpwoPF7zBWtvREm) | [Ecker & Meulyzer](https://open.spotify.com/artist/0LmTH1Y1gidIP6T9yTtSPU) | [Carbon](https://open.spotify.com/album/1V2Ek9fnWQhDGApxedbg3J) | 4:25 | 2022-01-21 | 2023-04-16 |
 | [Melts All Your Memories](https://open.spotify.com/track/34TdrxZdriLN477LSDuw5I) | [Vanity Productions](https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI) | [Shadow Box](https://open.spotify.com/album/26OHC71oOiOsh5Sna4qw4T) | 8:38 | 2022-01-21 |  |
 | [Mend](https://open.spotify.com/track/116HZtuidLUHpGNIIgDcR9) | [Klara Lewis](https://open.spotify.com/artist/0kyeczWICSebymos0FqJvt), [Simon Fisher Turner](https://open.spotify.com/artist/3rmHfhqEmC3pO89AMSP7Wt) | [Care](https://open.spotify.com/album/7pfidngS6ZbAUZ9UM2EicP) | 10:04 | 2022-01-21 | 2023-02-07 |
+| [Mir](https://open.spotify.com/track/0IGrAZzfpOkV2ECNy4Sz5P) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Mur](https://open.spotify.com/album/5mA73OzLoiOQZK3no4z9OE) | 11:28 | 2023-04-21 |  |
 | [Mir](https://open.spotify.com/track/3wyNQNDrg9ntkIZe6RaO4v) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Mur](https://open.spotify.com/album/15liRgZ2vwwF9UuCyF4WKL) | 11:28 | 2022-01-21 | 2023-03-26 |
 | [Moments In Love](https://open.spotify.com/track/5GTjzlFM8t2xB9RJGVkmvd) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts \(Expanded Reissue\)](https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW) | 10:17 | 2022-01-21 |  |
 | [Moneycomb](https://open.spotify.com/track/5F7uxeMTy6JwRiBZt6TiDs) | [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8) | [South of Heaven](https://open.spotify.com/album/4L2Mnyxrpn2hxO87Gdu44M) | 2:21 | 2023-03-10 | 2023-04-20 |
@@ -151,7 +152,7 @@
 | [Ribbon](https://open.spotify.com/track/16lUfemInxpAtAdj6pP9YM) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [The Mist](https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1) | 2:06 | 2023-01-27 | 2023-04-07 |
 | [River Whispering Run](https://open.spotify.com/track/7A5ldrheWtMQn2SJulc8dI) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Earthbound Transmissions](https://open.spotify.com/album/6cfxV50gEXtH9Pn21VEK4h) | 5:08 | 2022-01-21 |  |
 | [Rushes Recede](https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Rushes Recede](https://open.spotify.com/album/1uQvJ6TmCHQV6bdRdDIkrq) | 6:34 | 2022-01-21 | 2022-07-28 |
-| [Rushes Recede](https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka) | 6:34 | 2023-04-07 |  |
+| [Rushes Recede](https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka) | 6:34 | 2023-04-07 | 2023-04-24 |
 | [Sacro Bosco](https://open.spotify.com/track/27gRCQY4CNnc7qLz84TFj0) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Sacro Bosco](https://open.spotify.com/album/2i2x4rz1bYSegtMgFC3Ryc) | 6:23 | 2022-01-21 | 2022-08-18 |
 | [Saints And Sinners](https://open.spotify.com/track/1d2NFYfJCzOdv0wJal2ecV) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [The Last Wave](https://open.spotify.com/album/1jJJZAPY8Ax5X1C6vCpuNo) | 9:24 | 2022-01-21 | 2022-08-09 |
 | [Saints And Sinners](https://open.spotify.com/track/4kDYRMzcrEfKb8sVNq2eaU) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [The Last Wave](https://open.spotify.com/album/6Gm4Rualh1DmQD8MmbkSib) | 9:24 | 2022-12-30 | 2023-02-22 |

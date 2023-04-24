@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where Hip\-Hop, Afro\-Fusion & Pop meet R&B !  Cover: Daniel Caesar
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,778,148 likes - 113 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,778,215 likes - 113 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

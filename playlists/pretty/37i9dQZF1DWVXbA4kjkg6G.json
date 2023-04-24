@@ -1,12 +1,12 @@
 {
   "description": "Psychedelic beat science.",
-  "num_followers": 391428,
+  "num_followers": 391752,
   "original_name": "Trip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzNzc5MiwwMDAwMDAwMDFkNThmNmVjZDA0YzhmZjZkMTY5NDIxYzExZmY5ZDYw",
+  "snapshot_id": "MTY2MDIzNzc5MiwwMDAwMDAwMDc0NjRjZThhZDI4OGQ1MmZjMTY0ODJiZWRlMDY5M2Mz",
   "tracks": [
     {
       "added_at": "2021-06-25 10:16:08",
@@ -623,22 +623,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Since Then. 2017",
-        "url": "https://open.spotify.com/album/74FdEWxQOWLu9lBEuMmdmM"
-      },
-      "artists": [
-        {
-          "name": "Ian Pooley",
-          "url": "https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS"
-        }
-      ],
-      "duration_ms": 336586,
-      "name": "Spicy Snapper",
-      "url": "https://open.spotify.com/track/1eXDhV76Gea8XuPqcAw0s5"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "Who Can You Trust? / Beats & B-Sides",
         "url": "https://open.spotify.com/album/7JNlNgL1TlnWn669RaEKhr"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 332759,
       "name": "Trigger Hippie",
       "url": "https://open.spotify.com/track/4f3hGEjA7BnujnDYz7gHZ6"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Since Then. 2017",
+        "url": "https://open.spotify.com/album/74FdEWxQOWLu9lBEuMmdmM"
+      },
+      "artists": [
+        {
+          "name": "Ian Pooley",
+          "url": "https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS"
+        }
+      ],
+      "duration_ms": 336586,
+      "name": "Spicy Snapper",
+      "url": "https://open.spotify.com/track/1eXDhV76Gea8XuPqcAw0s5"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -671,18 +671,18 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Preemptive Strike",
-        "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
+        "name": "Ninja Cuts - Funkjazztical Tricknology",
+        "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
       },
       "artists": [
         {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+          "name": "Coldcut",
+          "url": "https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND"
         }
       ],
-      "duration_ms": 734333,
-      "name": "In / Flux",
-      "url": "https://open.spotify.com/track/6lkAoFkfbG18GSOqxW50Ar"
+      "duration_ms": 250400,
+      "name": "Eine Kleine Hedmusik",
+      "url": "https://open.spotify.com/track/3ViZpyzTm8JJ21Y7fSx2XK"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -703,18 +703,18 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Ninja Cuts - Funkjazztical Tricknology",
-        "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
+        "name": "Preemptive Strike",
+        "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
       },
       "artists": [
         {
-          "name": "Coldcut",
-          "url": "https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND"
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
         }
       ],
-      "duration_ms": 250400,
-      "name": "Eine Kleine Hedmusik",
-      "url": "https://open.spotify.com/track/3ViZpyzTm8JJ21Y7fSx2XK"
+      "duration_ms": 734333,
+      "name": "In / Flux",
+      "url": "https://open.spotify.com/track/6lkAoFkfbG18GSOqxW50Ar"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -751,22 +751,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Earth, Vol. 1",
-        "url": "https://open.spotify.com/album/1xK2wmIA6nazBG1orPKB4y"
-      },
-      "artists": [
-        {
-          "name": "Poets of Thought",
-          "url": "https://open.spotify.com/artist/1dU3l4m2BOP4QJuUstwPMZ"
-        }
-      ],
-      "duration_ms": 255500,
-      "name": "The Rhyme Goes On",
-      "url": "https://open.spotify.com/track/6P5Mhl2WB7HVXQ6Yil3coB"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "A Grand Love Story",
         "url": "https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS"
       },
@@ -783,34 +767,34 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "London Funk Volume 1",
-        "url": "https://open.spotify.com/album/3mwJkbOsAEobKg21Ad5bMa"
+        "name": "G-Stoned",
+        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
       },
       "artists": [
         {
-          "name": "London Funk Allstars",
-          "url": "https://open.spotify.com/artist/2NTMckStRtgsN3A6LacOR6"
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
         }
       ],
-      "duration_ms": 285933,
-      "name": "Listen To The Beat",
-      "url": "https://open.spotify.com/track/7wULNOKU99VregJA264okG"
+      "duration_ms": 367493,
+      "name": "Original Bedroom Rockers",
+      "url": "https://open.spotify.com/track/348kpkfbJUZn7GBpOEvPh4"
     },
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Preemptive Strike",
-        "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
+        "name": "Earth, Vol. 1",
+        "url": "https://open.spotify.com/album/1xK2wmIA6nazBG1orPKB4y"
       },
       "artists": [
         {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+          "name": "Poets of Thought",
+          "url": "https://open.spotify.com/artist/1dU3l4m2BOP4QJuUstwPMZ"
         }
       ],
-      "duration_ms": 831400,
-      "name": "What Does Your Soul Look Like, Pt. 2",
-      "url": "https://open.spotify.com/track/6gxE4VdVudpfihWy5jV7L0"
+      "duration_ms": 255500,
+      "name": "The Rhyme Goes On",
+      "url": "https://open.spotify.com/track/6P5Mhl2WB7HVXQ6Yil3coB"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -831,6 +815,38 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
+        "name": "Preemptive Strike",
+        "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 831400,
+      "name": "What Does Your Soul Look Like, Pt. 2",
+      "url": "https://open.spotify.com/track/6gxE4VdVudpfihWy5jV7L0"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "London Funk Volume 1",
+        "url": "https://open.spotify.com/album/3mwJkbOsAEobKg21Ad5bMa"
+      },
+      "artists": [
+        {
+          "name": "London Funk Allstars",
+          "url": "https://open.spotify.com/artist/2NTMckStRtgsN3A6LacOR6"
+        }
+      ],
+      "duration_ms": 285933,
+      "name": "Listen To The Beat",
+      "url": "https://open.spotify.com/track/7wULNOKU99VregJA264okG"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
         "name": "USSR Repertoire / The Theory Of Verticality",
         "url": "https://open.spotify.com/album/0Af78o9yF8IULqMgW9VoZv"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 129400,
       "name": "The Next Shit",
       "url": "https://open.spotify.com/track/6pCFuwCRSJgarK4ESzrVtC"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "G-Stoned",
-        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 367493,
-      "name": "Original Bedroom Rockers",
-      "url": "https://open.spotify.com/track/348kpkfbJUZn7GBpOEvPh4"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -979,18 +979,18 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Ninja Cuts - Flexistentialism",
-        "url": "https://open.spotify.com/album/58Qrk5O3oeBJT9a8tgqqSi"
+        "name": "#1",
+        "url": "https://open.spotify.com/album/5w6sVVqRxeq2eVQwWEP5en"
       },
       "artists": [
         {
-          "name": "DJ Vadim",
-          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
+          "name": "Skylab",
+          "url": "https://open.spotify.com/artist/0mHp4gMrJbb2RkeSwQd9r7"
         }
       ],
-      "duration_ms": 285560,
-      "name": "London Mind State",
-      "url": "https://open.spotify.com/track/0CQS3QLBgxaHDlwK3T8D8L"
+      "duration_ms": 339626,
+      "name": "Seashell",
+      "url": "https://open.spotify.com/track/18pedqpot9iF1Z7Ol3YHmc"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -1019,38 +1019,34 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "#1",
-        "url": "https://open.spotify.com/album/5w6sVVqRxeq2eVQwWEP5en"
+        "name": "Ninja Cuts - Flexistentialism",
+        "url": "https://open.spotify.com/album/58Qrk5O3oeBJT9a8tgqqSi"
       },
       "artists": [
         {
-          "name": "Skylab",
-          "url": "https://open.spotify.com/artist/0mHp4gMrJbb2RkeSwQd9r7"
+          "name": "DJ Vadim",
+          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
         }
       ],
-      "duration_ms": 339626,
-      "name": "Seashell",
-      "url": "https://open.spotify.com/track/18pedqpot9iF1Z7Ol3YHmc"
+      "duration_ms": 285560,
+      "name": "London Mind State",
+      "url": "https://open.spotify.com/track/0CQS3QLBgxaHDlwK3T8D8L"
     },
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Reeled And Skinned",
-        "url": "https://open.spotify.com/album/2i1Kxf68oQX9HUXIO2yLuz"
+        "name": "Underground Vibes",
+        "url": "https://open.spotify.com/album/0HvGtxzwRl8L0Oq7HHOIdT"
       },
       "artists": [
         {
-          "name": "Red Snapper",
-          "url": "https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q"
-        },
-        {
-          "name": "Beth Orton",
-          "url": "https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC"
+          "name": "DJ Cam",
+          "url": "https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg"
         }
       ],
-      "duration_ms": 287906,
-      "name": "Snapper",
-      "url": "https://open.spotify.com/track/6J6chA8LOxFv2SoKmmKpEg"
+      "duration_ms": 310413,
+      "name": "Mad Blunted Jazz",
+      "url": "https://open.spotify.com/track/5DBHf9TJyINVithuciTmic"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -1071,18 +1067,22 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Underground Vibes",
-        "url": "https://open.spotify.com/album/0HvGtxzwRl8L0Oq7HHOIdT"
+        "name": "Reeled And Skinned",
+        "url": "https://open.spotify.com/album/2i1Kxf68oQX9HUXIO2yLuz"
       },
       "artists": [
         {
-          "name": "DJ Cam",
-          "url": "https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg"
+          "name": "Red Snapper",
+          "url": "https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q"
+        },
+        {
+          "name": "Beth Orton",
+          "url": "https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC"
         }
       ],
-      "duration_ms": 310413,
-      "name": "Mad Blunted Jazz",
-      "url": "https://open.spotify.com/track/5DBHf9TJyINVithuciTmic"
+      "duration_ms": 287906,
+      "name": "Snapper",
+      "url": "https://open.spotify.com/track/6J6chA8LOxFv2SoKmmKpEg"
     },
     {
       "added_at": "2021-06-25 10:16:08",

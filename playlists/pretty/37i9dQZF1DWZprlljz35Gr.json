@@ -1,12 +1,12 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 7173,
+  "num_followers": 7185,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTY2MCwwMDAwMDAwMDQ1N2EzNGU0ZjhmYTUwOGRjY2RlYjgzNGIxOWJhM2I3",
+  "snapshot_id": "MTY3OTAyNTY2MCwwMDAwMDAwMDQ1MjNlYWY3ZGY0NTA1OGFmNGQ4NzAwZWI0YjEwZTg2",
   "tracks": [
     {
       "added_at": "2023-03-17 04:01:00",
@@ -405,20 +405,20 @@
       "url": "https://open.spotify.com/track/2C2G0ZtrQhBa9X6XcbWRH4"
     },
     {
-      "added_at": "2023-01-20 05:01:00",
+      "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Levee & Brick (Down to This)",
-        "url": "https://open.spotify.com/album/7o206PovXPtuMfN1TZZ6R4"
+        "name": "The Well",
+        "url": "https://open.spotify.com/album/7mOXwktqE2HJ8EjBnfnBhQ"
       },
       "artists": [
         {
-          "name": "Graffiti Ghosts",
-          "url": "https://open.spotify.com/artist/5pXlwkidD4qQEiaE8MaDOu"
+          "name": "Scarecrow",
+          "url": "https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT"
         }
       ],
-      "duration_ms": 166332,
-      "name": "Levee & Brick (Down to This)",
-      "url": "https://open.spotify.com/track/6WxajU4Opat66UtnzNB4Tw"
+      "duration_ms": 253000,
+      "name": "Code Name Loppsi - My Lowd demo",
+      "url": "https://open.spotify.com/track/2oyCx8VFX4bVV7IeLKz1wh"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -437,20 +437,20 @@
       "url": "https://open.spotify.com/track/5Opv3rAPRL93wJ9yXGJPiM"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
+      "added_at": "2023-01-20 05:01:00",
       "album": {
-        "name": "The Well",
-        "url": "https://open.spotify.com/album/7mOXwktqE2HJ8EjBnfnBhQ"
+        "name": "Levee & Brick (Down to This)",
+        "url": "https://open.spotify.com/album/7o206PovXPtuMfN1TZZ6R4"
       },
       "artists": [
         {
-          "name": "Scarecrow",
-          "url": "https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT"
+          "name": "Graffiti Ghosts",
+          "url": "https://open.spotify.com/artist/5pXlwkidD4qQEiaE8MaDOu"
         }
       ],
-      "duration_ms": 253000,
-      "name": "Code Name Loppsi - My Lowd demo",
-      "url": "https://open.spotify.com/track/2oyCx8VFX4bVV7IeLKz1wh"
+      "duration_ms": 166332,
+      "name": "Levee & Brick (Down to This)",
+      "url": "https://open.spotify.com/track/6WxajU4Opat66UtnzNB4Tw"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -625,20 +625,20 @@
       "url": "https://open.spotify.com/track/3EaoAfUtmDpe3DEtmEmCQf"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Victim",
-        "url": "https://open.spotify.com/album/2DQffRbld5NnGdhiMhVwJ9"
+        "name": "Left Behind",
+        "url": "https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF"
       },
       "artists": [
         {
-          "name": "Mblue",
-          "url": "https://open.spotify.com/artist/4134TXTLVwvAo2oe3lMVCJ"
+          "name": "Scarecrow",
+          "url": "https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Victim",
-      "url": "https://open.spotify.com/track/6ZyGzHdjqt4bqvWBwlYuaD"
+      "duration_ms": 199040,
+      "name": "FaiBless",
+      "url": "https://open.spotify.com/track/0B7b7hgIRnthz1vbeLGxy4"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -689,20 +689,20 @@
       "url": "https://open.spotify.com/track/5QCKfr2ckdL5kf9wCQtzUu"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
+      "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Left Behind",
-        "url": "https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF"
+        "name": "Victim",
+        "url": "https://open.spotify.com/album/2DQffRbld5NnGdhiMhVwJ9"
       },
       "artists": [
         {
-          "name": "Scarecrow",
-          "url": "https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT"
+          "name": "Mblue",
+          "url": "https://open.spotify.com/artist/4134TXTLVwvAo2oe3lMVCJ"
         }
       ],
-      "duration_ms": 199040,
-      "name": "FaiBless",
-      "url": "https://open.spotify.com/track/0B7b7hgIRnthz1vbeLGxy4"
+      "duration_ms": 172000,
+      "name": "Victim",
+      "url": "https://open.spotify.com/track/6ZyGzHdjqt4bqvWBwlYuaD"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -839,18 +839,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Delta Disco",
-        "url": "https://open.spotify.com/album/3SDDZMhIy357UN63KjpJP8"
+        "name": "A Different Beat",
+        "url": "https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx"
       },
       "artists": [
         {
-          "name": "Mississippi Big Beat",
-          "url": "https://open.spotify.com/artist/430DMjWZpbtg2tt64FynYH"
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        },
+        {
+          "name": "E-Z Rollers",
+          "url": "https://open.spotify.com/artist/2DRV8CWHnuapa1bpbvHjCl"
         }
       ],
-      "duration_ms": 255840,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/3NcNF2tvTqGgnHkhqNK8cX"
+      "duration_ms": 738306,
+      "name": "Can't Help Myself - E-Z Rollers Remix",
+      "url": "https://open.spotify.com/track/2e8IYlqaTSYo7zNR0DTi5m"
     }
   ],
   "unique_name": "Bluestronica",

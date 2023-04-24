@@ -2009,6 +2009,24 @@
     },
     {
       "album": {
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/79nrfAlzkAaCorWG5JtKD2"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/4sjYsP0tIZi34SDVUzTHyk"
+    },
+    {
+      "album": {
         "name": "Regres\u00f3 el Jefe 2.0",
         "url": "https://open.spotify.com/album/7D21gZNHtQdIlc3pFotIiO"
       },
@@ -4888,7 +4906,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-24",
       "duration_ms": 125909,
       "name": "Ya Sup\u00e9rame",
       "url": "https://open.spotify.com/track/0jPKUwIK6xiB5xZWXoYGXk"

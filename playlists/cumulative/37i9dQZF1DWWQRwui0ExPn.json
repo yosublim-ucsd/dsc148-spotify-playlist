@@ -21078,7 +21078,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-24",
       "duration_ms": 133369,
       "name": "Couchkeys",
       "url": "https://open.spotify.com/track/4BMt6U3PTW3t4srduHmtsY"
@@ -24548,6 +24548,28 @@
       "duration_ms": 128000,
       "name": "Dirty Ensemble",
       "url": "https://open.spotify.com/track/0pGDCfVjkHuQRNnthF5ur5"
+    },
+    {
+      "album": {
+        "name": "Dirty Little Secrets",
+        "url": "https://open.spotify.com/album/65ipnuZfaNluknedRVWbhI"
+      },
+      "artists": [
+        {
+          "name": "DJ Buzz",
+          "url": "https://open.spotify.com/artist/4OL7JQEzpw3nyfQn0DrrB6"
+        },
+        {
+          "name": "Willi Rosner",
+          "url": "https://open.spotify.com/artist/66jnVyfxZdrdvS4BxuQldB"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170797,
+      "name": "Dirty Little Secrets",
+      "url": "https://open.spotify.com/track/2ZvH1844BsoBV7WxQQLQez"
     },
     {
       "album": {
@@ -38214,7 +38236,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-24",
       "duration_ms": 121538,
       "name": "Good Old Times",
       "url": "https://open.spotify.com/track/6hQbe6lnSwD0njnyuAAjek"
@@ -40472,6 +40494,24 @@
       "duration_ms": 166400,
       "name": "Heavy Heart",
       "url": "https://open.spotify.com/track/3pd7aUQi7VY1P8JYdoxmqr"
+    },
+    {
+      "album": {
+        "name": "Heidi",
+        "url": "https://open.spotify.com/album/5dS1zQi0q77voEvgF8UZD6"
+      },
+      "artists": [
+        {
+          "name": "BROCKBEATS",
+          "url": "https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135500,
+      "name": "Heidi",
+      "url": "https://open.spotify.com/track/66hNd1s6k5KZ617mUoBkWq"
     },
     {
       "album": {
@@ -55244,7 +55284,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-24",
       "duration_ms": 148800,
       "name": "Lover",
       "url": "https://open.spotify.com/track/3e5VJP92F4cPRbOCEqibFd"
@@ -59058,7 +59098,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-23",
+      "date_removed": null,
       "duration_ms": 105348,
       "name": "Midnight Smoke",
       "url": "https://open.spotify.com/track/3nCI3MB1cTznXM0ri68OwG"
@@ -70005,6 +70045,24 @@
     },
     {
       "album": {
+        "name": "Paces",
+        "url": "https://open.spotify.com/album/08PsAKfhRdGhIXLmSvz6f7"
+      },
+      "artists": [
+        {
+          "name": "Lazlow",
+          "url": "https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131111,
+      "name": "Paces",
+      "url": "https://open.spotify.com/track/2ZrUwNP8q29wg3VpvMI0t3"
+    },
+    {
+      "album": {
         "name": "Pacific Nights",
         "url": "https://open.spotify.com/album/3WQ3XWSeMaL70lToYqWn1y"
       },
@@ -79658,7 +79716,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-24",
       "duration_ms": 124000,
       "name": "Sanduhr",
       "url": "https://open.spotify.com/track/7xOrraM4CMEgvOMdP5w7ah"
@@ -84726,7 +84784,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-24",
       "duration_ms": 107481,
       "name": "SNOWMAN",
       "url": "https://open.spotify.com/track/3zoUS1Yqa5q5PHUzkPzp6P"
@@ -103354,7 +103412,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 140571,
       "name": "What are we eating?",
       "url": "https://open.spotify.com/track/02vItcwtoE9ioCLqvMd7Pj"

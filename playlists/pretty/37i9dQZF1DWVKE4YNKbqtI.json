@@ -1,12 +1,12 @@
 {
   "description": "Little Walter, Junior Wells, James Cotton the finest blues harmonica players.",
-  "num_followers": 8279,
+  "num_followers": 8286,
   "original_name": "Blues Harp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDMxZWQ1MzQyODdlMDBhYzczZDhjYzkwYWM4MjAzOGNk",
+  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDM5YWM5ZWYwMjg0NDI1ZGNlYWIwOWU5ZTMyMDBjYmE5",
   "tracks": [
     {
       "added_at": "2022-02-04 05:02:00",
@@ -83,22 +83,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "The Excello Singles Anthology",
-        "url": "https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi"
-      },
-      "artists": [
-        {
-          "name": "Slim Harpo",
-          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "Baby Scratch My Back - Single Version",
-      "url": "https://open.spotify.com/track/4BbLz6pVP5oXl2plR7HLMZ"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "Calling All Blues - The Chief, Profile & USA Recordings 1957-1963",
         "url": "https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 181786,
       "name": "She's A Sweet One",
       "url": "https://open.spotify.com/track/2Cg3GUkhjX96nO4p2WRlIa"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "The Excello Singles Anthology",
+        "url": "https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi"
+      },
+      "artists": [
+        {
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "Baby Scratch My Back - Single Version",
+      "url": "https://open.spotify.com/track/4BbLz6pVP5oXl2plR7HLMZ"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -179,18 +179,22 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "The Resurrection Of Pigboy Crabshaw",
-        "url": "https://open.spotify.com/album/5nEOJtjR1clDZQZwAlA7Qs"
+        "name": "Hoodoo Man Blues",
+        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
       "artists": [
         {
-          "name": "The Paul Butterfield Blues Band",
-          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 220480,
-      "name": "One More Headache",
-      "url": "https://open.spotify.com/track/5uPWILEXkNy1D0MJzi9ByM"
+      "duration_ms": 126933,
+      "name": "Hoodoo Man Blues",
+      "url": "https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -211,22 +215,18 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Hoodoo Man Blues",
-        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
+        "name": "The Resurrection Of Pigboy Crabshaw",
+        "url": "https://open.spotify.com/album/5nEOJtjR1clDZQZwAlA7Qs"
       },
       "artists": [
         {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        },
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
         }
       ],
-      "duration_ms": 126933,
-      "name": "Hoodoo Man Blues",
-      "url": "https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq"
+      "duration_ms": 220480,
+      "name": "One More Headache",
+      "url": "https://open.spotify.com/track/5uPWILEXkNy1D0MJzi9ByM"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -315,6 +315,38 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
+        "name": "Louisiana Legend",
+        "url": "https://open.spotify.com/album/4s0G9NIPxGreWN5IiliCEa"
+      },
+      "artists": [
+        {
+          "name": "Raful Neal",
+          "url": "https://open.spotify.com/artist/5zdiBKXtaX96hNNCEnP5f0"
+        }
+      ],
+      "duration_ms": 176466,
+      "name": "Blues On The Moon",
+      "url": "https://open.spotify.com/track/1xDHpQuobDjDTs0bS3mETv"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Too Cool to Move",
+        "url": "https://open.spotify.com/album/62xvQ20A7TCjo2ZeafeuJx"
+      },
+      "artists": [
+        {
+          "name": "Snooky Pryor",
+          "url": "https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3"
+        }
+      ],
+      "duration_ms": 182933,
+      "name": "Bottle It Up and Go",
+      "url": "https://open.spotify.com/track/5eHeHvy9wdvATbd7Wj4R8T"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
         "name": "Harp Attack!",
         "url": "https://open.spotify.com/album/1zivuph8N0dHpL4k0SA94b"
       },
@@ -339,38 +371,6 @@
       "duration_ms": 383933,
       "name": "Down Home Blues",
       "url": "https://open.spotify.com/track/3OHj5SY6j7Ftmfa7qZJWoa"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
-        "name": "Too Cool to Move",
-        "url": "https://open.spotify.com/album/62xvQ20A7TCjo2ZeafeuJx"
-      },
-      "artists": [
-        {
-          "name": "Snooky Pryor",
-          "url": "https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3"
-        }
-      ],
-      "duration_ms": 182933,
-      "name": "Bottle It Up and Go",
-      "url": "https://open.spotify.com/track/5eHeHvy9wdvATbd7Wj4R8T"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
-        "name": "Louisiana Legend",
-        "url": "https://open.spotify.com/album/4s0G9NIPxGreWN5IiliCEa"
-      },
-      "artists": [
-        {
-          "name": "Raful Neal",
-          "url": "https://open.spotify.com/artist/5zdiBKXtaX96hNNCEnP5f0"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "Blues On The Moon",
-      "url": "https://open.spotify.com/track/1xDHpQuobDjDTs0bS3mETv"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -463,22 +463,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Deep In The Blues",
-        "url": "https://open.spotify.com/album/1oH2NSqTzggdoVlUcUxLvU"
-      },
-      "artists": [
-        {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Play With Your Poodle",
-      "url": "https://open.spotify.com/track/3HR1zeLxoPmGuFD8Qxu0Jq"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "In Europe",
         "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 217160,
       "name": "Down Home Shake-Down",
       "url": "https://open.spotify.com/track/6QDIT5BB8mJDa1EBjeFL1y"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Deep In The Blues",
+        "url": "https://open.spotify.com/album/1oH2NSqTzggdoVlUcUxLvU"
+      },
+      "artists": [
+        {
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Play With Your Poodle",
+      "url": "https://open.spotify.com/track/3HR1zeLxoPmGuFD8Qxu0Jq"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -563,18 +563,22 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Alone With The Blues",
-        "url": "https://open.spotify.com/album/3BhmnjO4QezeG8TVE6dRfJ"
+        "name": "Cotton Mouth Man",
+        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
       },
       "artists": [
         {
-          "name": "Keith Dunn",
-          "url": "https://open.spotify.com/artist/122e3natoyt3KVWHoSxBKL"
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 171133,
-      "name": "Need To Make A Dollar",
-      "url": "https://open.spotify.com/track/6BIpLmms6hIdSFI3GNTw8J"
+      "duration_ms": 227373,
+      "name": "Cotton Mouth Man",
+      "url": "https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -595,18 +599,18 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Code Blue",
-        "url": "https://open.spotify.com/album/6MEW2dr1ze84kOgFtPi4uD"
+        "name": "Alone With The Blues",
+        "url": "https://open.spotify.com/album/3BhmnjO4QezeG8TVE6dRfJ"
       },
       "artists": [
         {
-          "name": "Sugar Blue",
-          "url": "https://open.spotify.com/artist/3HojqGF4FshKki7Ku6gPqE"
+          "name": "Keith Dunn",
+          "url": "https://open.spotify.com/artist/122e3natoyt3KVWHoSxBKL"
         }
       ],
-      "duration_ms": 548440,
-      "name": "Bad Boys Heaven",
-      "url": "https://open.spotify.com/track/4xfJSNaQN5eRUL78mor3nj"
+      "duration_ms": 171133,
+      "name": "Need To Make A Dollar",
+      "url": "https://open.spotify.com/track/6BIpLmms6hIdSFI3GNTw8J"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -627,22 +631,18 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Cotton Mouth Man",
-        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
+        "name": "Code Blue",
+        "url": "https://open.spotify.com/album/6MEW2dr1ze84kOgFtPi4uD"
       },
       "artists": [
         {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+          "name": "Sugar Blue",
+          "url": "https://open.spotify.com/artist/3HojqGF4FshKki7Ku6gPqE"
         }
       ],
-      "duration_ms": 227373,
-      "name": "Cotton Mouth Man",
-      "url": "https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC"
+      "duration_ms": 548440,
+      "name": "Bad Boys Heaven",
+      "url": "https://open.spotify.com/track/4xfJSNaQN5eRUL78mor3nj"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -667,22 +667,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Jazz Gillum Vol. 2 1938-1941",
-        "url": "https://open.spotify.com/album/6wY2gJuBm2BMJHpD1svDN6"
-      },
-      "artists": [
-        {
-          "name": "Jazz Gillum",
-          "url": "https://open.spotify.com/artist/6GFrr6eHPyDtqguamN8vLg"
-        }
-      ],
-      "duration_ms": 163527,
-      "name": "Key To The Highway",
-      "url": "https://open.spotify.com/track/4wGcFx9voRJ51U989ty9wp"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "Richmond Blues",
         "url": "https://open.spotify.com/album/3diP0MKxncGd7wi8ZMASFZ"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 251693,
       "name": "Dog Days of August",
       "url": "https://open.spotify.com/track/5gOxdOaXlIVrM0mlOEJ3hZ"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Jazz Gillum Vol. 2 1938-1941",
+        "url": "https://open.spotify.com/album/6wY2gJuBm2BMJHpD1svDN6"
+      },
+      "artists": [
+        {
+          "name": "Jazz Gillum",
+          "url": "https://open.spotify.com/artist/6GFrr6eHPyDtqguamN8vLg"
+        }
+      ],
+      "duration_ms": 163527,
+      "name": "Key To The Highway",
+      "url": "https://open.spotify.com/track/4wGcFx9voRJ51U989ty9wp"
     },
     {
       "added_at": "2020-10-22 17:19:34",

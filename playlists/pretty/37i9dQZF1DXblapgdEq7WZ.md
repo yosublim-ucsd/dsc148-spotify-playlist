@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblapgdEq7WZ.md) - [plain]
 
 > Todo lo esencial.
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,649 likes - 40 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,440 likes - 40 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

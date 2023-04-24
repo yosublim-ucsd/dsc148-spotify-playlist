@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Bienvenida Generaci\u00f3n RADAR 2023! Los Aptos en portada. ",
-  "num_followers": 69261,
+  "num_followers": 69275,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjExMzQwNywwMDAwMDAwMGRmODU4YmQ3NTg3MGVmNDI2NDRiZjgzMzI4YjRjZjAx",
+  "snapshot_id": "MTY4MjExMzQwNywwMDAwMDAwMDI3ZTIxYTc3ODNiMmE1NDQ1YjQ2YzVlYTQyZjhkNWJk",
   "tracks": [
     {
       "added_at": "2023-04-21 21:43:27",
@@ -575,6 +575,26 @@
     {
       "added_at": "2023-04-21 21:43:27",
       "album": {
+        "name": "Tres Mundos",
+        "url": "https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 163875,
+      "name": "Paso A Pasito",
+      "url": "https://open.spotify.com/track/098EZ7cByfKymuAiMKtOmR"
+    },
+    {
+      "added_at": "2023-04-21 21:43:27",
+      "album": {
         "name": "Andando Entre la Lumbre",
         "url": "https://open.spotify.com/album/4ddTT1v8j9aY0Y0o59XA0J"
       },
@@ -639,26 +659,6 @@
     {
       "added_at": "2023-04-21 21:43:27",
       "album": {
-        "name": "Tres Mundos",
-        "url": "https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk"
-      },
-      "artists": [
-        {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 163875,
-      "name": "Paso A Pasito",
-      "url": "https://open.spotify.com/track/098EZ7cByfKymuAiMKtOmR"
-    },
-    {
-      "added_at": "2023-04-21 21:43:27",
-      "album": {
         "name": "Fuerza De Voluntad",
         "url": "https://open.spotify.com/album/59x39WBJbbolx68Dt9Di27"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 182229,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/7khVfafgV6p2dnJYOXN1S7"
-    },
-    {
-      "added_at": "2023-04-21 21:43:27",
-      "album": {
-        "name": "No Quiero Llorar",
-        "url": "https://open.spotify.com/album/3PgJ2wWIEOTu7smbdou1La"
-      },
-      "artists": [
-        {
-          "name": "Adrian L Santos",
-          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "No Quiero Llorar",
-      "url": "https://open.spotify.com/track/3wNfYe0jVuk14kY028HzK1"
     },
     {
       "added_at": "2023-04-21 21:43:27",
@@ -739,6 +723,22 @@
     {
       "added_at": "2023-04-21 21:43:27",
       "album": {
+        "name": "Tres Mundos",
+        "url": "https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+        }
+      ],
+      "duration_ms": 169548,
+      "name": "Cambio De Canci\u00f3n",
+      "url": "https://open.spotify.com/track/3R08fx84aFdqHlKTMWkEvi"
+    },
+    {
+      "added_at": "2023-04-21 21:43:27",
+      "album": {
         "name": "San Mike",
         "url": "https://open.spotify.com/album/49o87APRm62j0t13TMOB4E"
       },
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-04-21 21:43:27",
       "album": {
+        "name": "No Quiero Llorar",
+        "url": "https://open.spotify.com/album/3PgJ2wWIEOTu7smbdou1La"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "No Quiero Llorar",
+      "url": "https://open.spotify.com/track/3wNfYe0jVuk14kY028HzK1"
+    },
+    {
+      "added_at": "2023-04-21 21:43:27",
+      "album": {
         "name": "Estos D\u00edas",
         "url": "https://open.spotify.com/album/28oQLDvOUhSoyyTZSkpwdh"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 204826,
       "name": "Estos D\u00edas",
       "url": "https://open.spotify.com/track/2oIwJKdjg8amIYUupl4RUO"
-    },
-    {
-      "added_at": "2023-04-21 21:43:27",
-      "album": {
-        "name": "Tres Mundos",
-        "url": "https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk"
-      },
-      "artists": [
-        {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
-        }
-      ],
-      "duration_ms": 169548,
-      "name": "Cambio De Canci\u00f3n",
-      "url": "https://open.spotify.com/track/3R08fx84aFdqHlKTMWkEvi"
     },
     {
       "added_at": "2023-04-21 21:43:27",

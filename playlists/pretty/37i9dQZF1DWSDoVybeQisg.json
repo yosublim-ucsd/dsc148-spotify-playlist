@@ -1,12 +1,12 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1079387,
+  "num_followers": 1079707,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA1ODg0NywwMDAwMDAwMDU2YWEwODZmM2UzM2UzODY0MmVlYzE0N2I3MTk0ZGY1",
+  "snapshot_id": "MTY3NDA1ODg0NywwMDAwMDAwMDg2NzUzY2FiZDYxNDBlYjk2MDVkMWIwMzY4OGViNDg2",
   "tracks": [
     {
       "added_at": "2023-01-18 16:20:47",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "The First Edition",
-        "url": "https://open.spotify.com/album/6LZ7MMxdYNUA56kBnqQ6h6"
-      },
-      "artists": [
-        {
-          "name": "The First Edition",
-          "url": "https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx"
-        }
-      ],
-      "duration_ms": 201213,
-      "name": "Just Dropped In (To See What Condition My Condition Was In)",
-      "url": "https://open.spotify.com/track/4Wrc3Jz4POj0ibPj5iuq0r"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Buffalo Springfield Again",
         "url": "https://open.spotify.com/album/7hez8jibf36E66GHpFkWz7"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 172400,
       "name": "Mr. Soul",
       "url": "https://open.spotify.com/track/042v1NacbKJzCyi6nBme7T"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "The First Edition",
+        "url": "https://open.spotify.com/album/6LZ7MMxdYNUA56kBnqQ6h6"
+      },
+      "artists": [
+        {
+          "name": "The First Edition",
+          "url": "https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx"
+        }
+      ],
+      "duration_ms": 201213,
+      "name": "Just Dropped In (To See What Condition My Condition Was In)",
+      "url": "https://open.spotify.com/track/4Wrc3Jz4POj0ibPj5iuq0r"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Hellbound Train",
-        "url": "https://open.spotify.com/album/5BCxBr9e8orvd7h0BO7CFb"
-      },
-      "artists": [
-        {
-          "name": "Savoy Brown",
-          "url": "https://open.spotify.com/artist/17obwOahRWI121iMUZznh2"
-        }
-      ],
-      "duration_ms": 550506,
-      "name": "Hellbound Train",
-      "url": "https://open.spotify.com/track/3IPpgcViKQ2E81XgMnT3yw"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Electric Music For The Mind And Body",
         "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 161000,
       "name": "Flying High",
       "url": "https://open.spotify.com/track/5v0ibjQegpYdMUGL95dI1a"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Hellbound Train",
+        "url": "https://open.spotify.com/album/5BCxBr9e8orvd7h0BO7CFb"
+      },
+      "artists": [
+        {
+          "name": "Savoy Brown",
+          "url": "https://open.spotify.com/artist/17obwOahRWI121iMUZznh2"
+        }
+      ],
+      "duration_ms": 550506,
+      "name": "Hellbound Train",
+      "url": "https://open.spotify.com/track/3IPpgcViKQ2E81XgMnT3yw"
     },
     {
       "added_at": "2023-01-18 16:20:47",

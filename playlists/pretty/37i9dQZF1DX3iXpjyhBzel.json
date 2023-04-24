@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Fernandinho",
-  "num_followers": 922376,
+  "num_followers": 922986,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTU4MTAwNiwwMDAwMDAwMDJhMjhkMGEwYTFjNzAzOTY1NzZkZDVkZmVlMGEyZTI1",
+  "snapshot_id": "MTY4MTU4MTAwNiwwMDAwMDAwMGE3ZDY1OWUxOTBiN2JhYTBiYTBmNDk3ZGM0MjcyNGNl",
   "tracks": [
     {
       "added_at": "2023-04-15 17:50:06",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-04-15 17:50:06",
       "album": {
-        "name": "Tua Presen\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV"
+        "name": "Voc\u00ea Nasceu Pra Dar Certo",
+        "url": "https://open.spotify.com/album/0yW9gXrE07qjNVwIVTWFww"
       },
       "artists": [
         {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
         }
       ],
-      "duration_ms": 320186,
-      "name": "Tua Presen\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"
+      "duration_ms": 256060,
+      "name": "Voc\u00ea Nasceu Pra Dar Certo",
+      "url": "https://open.spotify.com/track/21oPwXcfY81BrGhrr105os"
     },
     {
       "added_at": "2023-04-15 17:50:06",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-04-15 17:50:06",
       "album": {
-        "name": "Voc\u00ea Nasceu Pra Dar Certo",
-        "url": "https://open.spotify.com/album/0yW9gXrE07qjNVwIVTWFww"
+        "name": "Tua Presen\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV"
       },
       "artists": [
         {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 256060,
-      "name": "Voc\u00ea Nasceu Pra Dar Certo",
-      "url": "https://open.spotify.com/track/21oPwXcfY81BrGhrr105os"
+      "duration_ms": 320186,
+      "name": "Tua Presen\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"
     },
     {
       "added_at": "2023-04-15 17:50:06",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-04-15 17:50:06",
       "album": {
-        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0Y4f9yXZuldhcASt6p6HCm"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 416842,
-      "name": "Onde o Fogo N\u00e3o Apaga - Ao Vivo",
-      "url": "https://open.spotify.com/track/6uJuREXqz3BWRM2awbXrDv"
-    },
-    {
-      "added_at": "2023-04-15 17:50:06",
-      "album": {
         "name": "Quero Voltar Pra Casa (Ao Vivo)",
         "url": "https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 365080,
       "name": "Quero Voltar Pra Casa - Ao Vivo",
       "url": "https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3"
+    },
+    {
+      "added_at": "2023-04-15 17:50:06",
+      "album": {
+        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0Y4f9yXZuldhcASt6p6HCm"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 416842,
+      "name": "Onde o Fogo N\u00e3o Apaga - Ao Vivo",
+      "url": "https://open.spotify.com/track/6uJuREXqz3BWRM2awbXrDv"
     },
     {
       "added_at": "2023-04-15 17:50:06",
@@ -939,26 +939,22 @@
     {
       "added_at": "2023-04-15 17:50:06",
       "album": {
-        "name": "Ele Vem / A Cidade Santa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0QYG11SWkllPiFFnq5pxgQ"
+        "name": "Seu Amor Me Persegue",
+        "url": "https://open.spotify.com/album/3a72jnT08o12FlWkSzdHAO"
       },
       "artists": [
         {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+          "name": "AM\u00c9M",
+          "url": "https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP"
         },
         {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "One Service Project",
-          "url": "https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7"
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
         }
       ],
-      "duration_ms": 329586,
-      "name": "Ele Vem / A Cidade Santa - Ao Vivo",
-      "url": "https://open.spotify.com/track/3ITvJ8pM7FVFsqXwBepr0C"
+      "duration_ms": 445970,
+      "name": "Seu Amor Me Persegue (Studio)",
+      "url": "https://open.spotify.com/track/6slb8IZD0bjmYLleaWEPNu"
     },
     {
       "added_at": "2023-04-15 17:50:06",
@@ -983,54 +979,26 @@
     {
       "added_at": "2023-04-15 17:50:06",
       "album": {
-        "name": "Romanos 8:26 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4la129Bk0w8ubbxMwwHzkC"
+        "name": "Ele Vem / A Cidade Santa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0QYG11SWkllPiFFnq5pxgQ"
       },
       "artists": [
         {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 269739,
-      "name": "Romanos 8:26 (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4eEB1CdGj3I7kv3QNykRnG"
-    },
-    {
-      "added_at": "2023-04-15 17:50:06",
-      "album": {
-        "name": "30 Anos (Vol. I)",
-        "url": "https://open.spotify.com/album/6F7IItp4LykbpjRkBRB11l"
-      },
-      "artists": [
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
         {
           "name": "Aline Barros",
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 295706,
-      "name": "Te Adorar \u00e9 meu Prazer (Ao Vivo Em Portugal)",
-      "url": "https://open.spotify.com/track/1Oc5EFGrl6lHCVcrlxwEFG"
-    },
-    {
-      "added_at": "2023-04-15 17:50:06",
-      "album": {
-        "name": "Seu Amor Me Persegue",
-        "url": "https://open.spotify.com/album/3a72jnT08o12FlWkSzdHAO"
-      },
-      "artists": [
-        {
-          "name": "AM\u00c9M",
-          "url": "https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP"
         },
         {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+          "name": "One Service Project",
+          "url": "https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7"
         }
       ],
-      "duration_ms": 445970,
-      "name": "Seu Amor Me Persegue (Studio)",
-      "url": "https://open.spotify.com/track/6slb8IZD0bjmYLleaWEPNu"
+      "duration_ms": 329586,
+      "name": "Ele Vem / A Cidade Santa - Ao Vivo",
+      "url": "https://open.spotify.com/track/3ITvJ8pM7FVFsqXwBepr0C"
     },
     {
       "added_at": "2023-04-15 17:50:06",
@@ -1051,6 +1019,22 @@
     {
       "added_at": "2023-04-15 17:50:06",
       "album": {
+        "name": "30 Anos (Vol. I)",
+        "url": "https://open.spotify.com/album/6F7IItp4LykbpjRkBRB11l"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 295706,
+      "name": "Te Adorar \u00e9 meu Prazer (Ao Vivo Em Portugal)",
+      "url": "https://open.spotify.com/track/1Oc5EFGrl6lHCVcrlxwEFG"
+    },
+    {
+      "added_at": "2023-04-15 17:50:06",
+      "album": {
         "name": "Rei da Gl\u00f3ria (Ao Vivo)",
         "url": "https://open.spotify.com/album/3KbdZIKpJM32CHylgpB851"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 513505,
       "name": "Rei da Gl\u00f3ria - Ao Vivo",
       "url": "https://open.spotify.com/track/7xJTjQuvpicM3FsnbaoDb6"
+    },
+    {
+      "added_at": "2023-04-15 17:50:06",
+      "album": {
+        "name": "Romanos 8:26 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4la129Bk0w8ubbxMwwHzkC"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 269739,
+      "name": "Romanos 8:26 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4eEB1CdGj3I7kv3QNykRnG"
     },
     {
       "added_at": "2023-04-15 17:50:06",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-04-15 17:50:06",
       "album": {
-        "name": "Santo (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/0SVVv1VaL4w98AqlcMIaAe"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 356214,
-      "name": "Santo - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/240EAtaZRleOj2CVcW6cpA"
-    },
-    {
-      "added_at": "2023-04-15 17:50:06",
-      "album": {
         "name": "N\u00f3s Te Adoramos (Ao Vivo)",
         "url": "https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 438080,
       "name": "N\u00f3s Te Adoramos - Ao Vivo",
       "url": "https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD"
+    },
+    {
+      "added_at": "2023-04-15 17:50:06",
+      "album": {
+        "name": "Santo (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/0SVVv1VaL4w98AqlcMIaAe"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 356214,
+      "name": "Santo - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/240EAtaZRleOj2CVcW6cpA"
     },
     {
       "added_at": "2023-04-15 17:50:06",

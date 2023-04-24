@@ -5729,6 +5729,24 @@
     },
     {
       "album": {
+        "name": "love has never been a popular movement.",
+        "url": "https://open.spotify.com/album/3S3okSECqppR83HJYWGoxY"
+      },
+      "artists": [
+        {
+          "name": "TYGAPAW",
+          "url": "https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236336,
+      "name": "MYSM",
+      "url": "https://open.spotify.com/track/46oybkOpfk0DxfRc7Tx0wQ"
+    },
+    {
+      "album": {
         "name": "MYSM",
         "url": "https://open.spotify.com/album/0zcghV7zGl1jMa0TQhFKGz"
       },
@@ -5740,7 +5758,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-24",
       "duration_ms": 236336,
       "name": "MYSM",
       "url": "https://open.spotify.com/track/6W33jxmOkSBPQYprghE5Ba"
@@ -6483,6 +6501,24 @@
     },
     {
       "album": {
+        "name": "love has never been a popular movement.",
+        "url": "https://open.spotify.com/album/3S3okSECqppR83HJYWGoxY"
+      },
+      "artists": [
+        {
+          "name": "TYGAPAW",
+          "url": "https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238161,
+      "name": "PRESSURE",
+      "url": "https://open.spotify.com/track/22LQbxYN3EvsJbloaMkKl5"
+    },
+    {
+      "album": {
         "name": "PRESSURE",
         "url": "https://open.spotify.com/album/01bsqoWaI0TCuRXhPm2wLV"
       },
@@ -6494,7 +6530,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-24",
       "duration_ms": 238161,
       "name": "PRESSURE",
       "url": "https://open.spotify.com/track/7iEeCvmdE9HZ1ux9NhQgqo"

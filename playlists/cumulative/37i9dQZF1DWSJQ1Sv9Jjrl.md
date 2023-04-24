@@ -4,7 +4,7 @@
 
 > Music from the Tall Girl films\. Watch Tall Girl 2 now on Netflix.
 
-47 songs - 2 hr 37 min
+48 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Mayhem](https://open.spotify.com/track/3TLaEHk61rD6jOMzTmd5rb) | [The Kemist](https://open.spotify.com/artist/1HvF89QVwGlk74nQZC6MCG), [Dj Braindead](https://open.spotify.com/artist/6KfuBqaNiLpb0cLc23Pnfq), [Nyanda](https://open.spotify.com/artist/5EgzuWPhhAurJc93qPTD3k) | [Dancehall Infusion, Vol\. 1](https://open.spotify.com/album/65YGdWY3l4A3oxtWYak1yw) | 3:30 | 2022-02-11 | 2022-11-13 |
 | [Mayhem 7.0](https://open.spotify.com/track/7kHEGPPEyN1E6lpFDqUb7h) | [The Kemist](https://open.spotify.com/artist/1HvF89QVwGlk74nQZC6MCG), [Dj Braindead](https://open.spotify.com/artist/6KfuBqaNiLpb0cLc23Pnfq), [Nyanda](https://open.spotify.com/artist/5EgzuWPhhAurJc93qPTD3k) | [Mayhem](https://open.spotify.com/album/5nlHNMt4szqKburTX4B4hh) | 3:30 | 2022-02-11 |  |
 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 | 2022-02-11 |  |
-| [Party On Fifth Ave.](https://open.spotify.com/track/24OMJgeZvpSu92TbAe2WYh) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Blue Slide Park](https://open.spotify.com/album/6VhDYmsjHqRxKXd0z7hmXI) | 2:53 | 2022-02-11 |  |
+| [Party On Fifth Ave.](https://open.spotify.com/track/24OMJgeZvpSu92TbAe2WYh) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Blue Slide Park](https://open.spotify.com/album/6VhDYmsjHqRxKXd0z7hmXI) | 2:53 | 2022-02-11 | 2023-04-24 |
+| [Party On Fifth Ave.](https://open.spotify.com/track/6WMqBpW8oKyTRE0GSOyyAa) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Blue Slide Park](https://open.spotify.com/album/17mAoDs7T8EA9zzlj6QPBv) | 2:53 | 2022-02-11 |  |
 | [R U Ready for It](https://open.spotify.com/track/5iDuhDcGVSNk50VnFTgbnq) | [KID SOMETHING](https://open.spotify.com/artist/0ZUzov4ewXiJRz0uO2DiLO) | [R U Ready for It](https://open.spotify.com/album/4gAoLiZWUPZGAN09XTpvsx) | 2:17 | 2022-02-11 |  |
 | [Represent](https://open.spotify.com/track/2ZPDtvS8qtNv7wuVEBNPnO) | [MIZZI](https://open.spotify.com/artist/769KKZvR0mYxMd8qMiA4MF) | [Represent](https://open.spotify.com/album/7edDKiYFeO9saIw9zBxK49) | 2:41 | 2022-02-11 |  |
 | [Slow Clap](https://open.spotify.com/track/2FD3oVMksB9tPIaowrx0zJ) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Slow Clap](https://open.spotify.com/album/6EE59zmOlHnpitmm52vkkm) | 2:30 | 2022-02-11 |  |

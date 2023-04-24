@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-1,218 songs - 2 day 14 hr 50 min
+1,219 songs - 2 day 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -719,6 +719,7 @@
 | [MTG QUANDO A NOITE CAI](https://open.spotify.com/track/0dgcqtkMMJKIRVXWELlXpC) | [Dj Caio Vieira](https://open.spotify.com/artist/4Kv35Xnw1ODjO2nIHLhdBY) | [MTG QUANDO A NOITE CAI](https://open.spotify.com/album/4vG224Hl0F5CRkAv78QCOo) | 2:22 | 2023-03-07 | 2023-03-22 |
 | [Mujeriego](https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Mujeriego](https://open.spotify.com/album/43sxUsU622oLloqafw61vN) | 2:22 | 2022-01-26 | 2022-03-09 |
 | [Mulher do Fim do Mundo](https://open.spotify.com/track/6JyyilCXZPb8fm0tQPqjUZ) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [A Mulher do Fim do Mundo](https://open.spotify.com/album/0I316eFTjobTdyH5xtniYe) | 4:37 | 2022-01-21 | 2022-01-30 |
+| [Mulher maravilha](https://open.spotify.com/track/35wrYyA8UwP4fqEO6XwLeP) | [Duduca & Dalvan](https://open.spotify.com/artist/3EMOVqtPqnQBmzBFiaZzuS) | [Gigantes](https://open.spotify.com/album/3ZB9tYu46gkEZIF2xDesWE) | 3:33 | 2023-04-23 |  |
 | [My Paradise \- Vintage Culture Remix](https://open.spotify.com/track/4l1k3bK6OGwfRqbW5HiyT3) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [My Paradise \(Vintage Culture Remix\)](https://open.spotify.com/album/1DtjbG6Y6mma7ZjIqgNKlm) | 2:50 | 2022-09-27 | 2022-10-01 |
 | [Mágico do Som](https://open.spotify.com/track/0eumeycOAI8ew5qRzFJbEr) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh), [MC Lan](https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR) | [Mágico do Som](https://open.spotify.com/album/6elOu6PrCxDHrnOT9E2wjC) | 2:01 | 2022-04-10 | 2022-04-27 |
 | [Média Boa \- Ao Vivo](https://open.spotify.com/track/1dMyIigB6MDsfD3xuG6TbO) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Média Boa \(Ao Vivo\)](https://open.spotify.com/album/15FjGqqvJgrSc4DowwwBKj) | 2:28 | 2022-10-04 | 2023-01-09 |
@@ -845,7 +846,7 @@
 | [Pegou Pressão](https://open.spotify.com/track/2TPBF32aTOGErlturGmjYc) | [Juliano Maderada](https://open.spotify.com/artist/4aBp0Z26C08EMvbMsxzsdg) | [Pegou Pressão](https://open.spotify.com/album/4QMUsEV8EE9hY1zL1MkY3Q) | 1:41 | 2022-10-30 | 2022-11-09 |
 | [Pensando en Ti](https://open.spotify.com/track/5c3Pi6KEjdicvnJzoQyLzH) | [Rebelde la Serie](https://open.spotify.com/artist/0Hz6D1XGiSH9nOPjUlDWrj), [Andrea Chaparro](https://open.spotify.com/artist/54rVzcHo1due7E5CS2ycy6), [Jeronimo Cantillo](https://open.spotify.com/artist/6jMp7XIWalRTUdSvbF05Xu) | [Rebelde la Serie \(Official Soundtrack\)](https://open.spotify.com/album/0D6P1mugyeO1RGyeCEzabS) | 3:09 | 2022-01-17 | 2022-02-09 |
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-01-13 | 2023-02-08 |
-| [Peppers \(feat\. Tommy Genesis\)](https://open.spotify.com/track/2Rlso2ZNV0PaWwUYeeBYxx) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:08 | 2023-04-18 |  |
+| [Peppers \(feat\. Tommy Genesis\)](https://open.spotify.com/track/2Rlso2ZNV0PaWwUYeeBYxx) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:08 | 2023-04-18 | 2023-04-24 |
 | [Pequi de Goiás](https://open.spotify.com/track/292ypJvjQin21i3qYsbmjU) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [De Olho no Hit](https://open.spotify.com/artist/6JceS2U5WUatPwxuIY6aoO) | [Pequi de Goiás](https://open.spotify.com/album/15s2vxY6IkZHIv8z5V04u7) | 2:06 | 2022-06-28 | 2022-07-01 |
 | [Perdoa Por Tudo Vida](https://open.spotify.com/track/7zKqmAHGY8zm2UA4wT5ant) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Dos Prédios](https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d) | 2:40 | 2022-12-14 | 2023-03-01 |
 | [Perdão](https://open.spotify.com/track/0BYrbDZHhawvqbj3DXDQql) | [Maria](https://open.spotify.com/artist/1fcS44jH4wr0qwxSVdxWyX) | [Perdão](https://open.spotify.com/album/2x2oPgUkoadFN5YciORCmQ) | 4:04 | 2022-02-17 | 2022-02-23 |

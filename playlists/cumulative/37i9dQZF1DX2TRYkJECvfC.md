@@ -4,7 +4,7 @@
 
 > Forget it and disappear with chill <a href="spotify:genre:edm\_dance">house</a>.
 
-370 songs - 1 day 9 hr 7 min
+371 songs - 1 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Floss](https://open.spotify.com/track/3I7cvFHNwanYTnGiK6qrQ0) | [Kid Enigma](https://open.spotify.com/artist/6xh20mDGCfR9jH2tYotdBE), [Ed Nine](https://open.spotify.com/artist/50QUJcqIIHO67CGSYDw0eI) | [Provide](https://open.spotify.com/album/47HMFd7cpiPHhTAw5Zp3cQ) | 6:50 | 2021-12-08 | 2022-07-14 |
 | [Flying Circles \- Original Mix](https://open.spotify.com/track/6Y2T0AmowuhVjMkopssmQY) | [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB) | [Flying Circles EP](https://open.spotify.com/album/0q8jwAjAe2kGkCI2HbvGLZ) | 6:50 | 2021-12-08 |  |
 | [Fogo](https://open.spotify.com/track/4HXpEQIUgWsrbe3Nj0yC3P) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr) | [Fogo](https://open.spotify.com/album/5RiBmX1WzUSo82aXmnCAmC) | 6:37 | 2023-02-17 |  |
+| [Follow The Dark](https://open.spotify.com/track/3KiO6COi4F8INOuXU5Q1Wc) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Follow The Dark \- Part I](https://open.spotify.com/album/71NWTreHzqVqeSHrP6WmzU) | 4:06 | 2023-04-21 |  |
 | [For A Moment](https://open.spotify.com/track/01J7GlzTYwAp0kHGwLrHiB) | [Jazz Do It](https://open.spotify.com/artist/7Azr4EUr6i6tgtqMvlOpsw) | [Anjunadeep 10 Sampler: Part 1](https://open.spotify.com/album/179gfN119swKR4JooXjYyt) | 5:56 | 2021-12-08 | 2023-04-20 |
 | [For Now](https://open.spotify.com/track/3EMGPuLLcXxJkT8wipZjy9) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [For Now](https://open.spotify.com/album/7J4MlpzikCgbTSvjxUnD0q) | 3:52 | 2021-12-08 |  |
 | [Four Feet](https://open.spotify.com/track/2JebL9WaaUylWLns0SmVuU) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Blasphemy](https://open.spotify.com/album/4csl0WC7mxhBhab5nYfBnW) | 6:35 | 2021-12-08 | 2022-07-08 |
@@ -370,7 +371,7 @@
 | [Why So Blue? \- Radio Edit](https://open.spotify.com/track/7f8POQ76x9ki1D48lCsXoq) | [Haider](https://open.spotify.com/artist/7L7XkH1dMZGeedtOdYOVLF) | [Dance Now, Cry Later](https://open.spotify.com/album/0b6miPcQIohCUYRmRjUFia) | 2:58 | 2021-12-08 | 2022-07-29 |
 | [with you](https://open.spotify.com/track/5idD707HmiYqTU8TifpPc8) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [with you](https://open.spotify.com/album/4HNmTH7hARtWqGeqIMMLWL) | 2:46 | 2021-12-08 |  |
 | [Yini \- Serge Devant Remix](https://open.spotify.com/track/6N9GDLobAFh4RpndxG5gcp) | [Fabio Aurea](https://open.spotify.com/artist/19yeJrAma98qEbDOmye8SQ), [Toshi](https://open.spotify.com/artist/6G621T2CmHyx5LCvd8QE63), [Serge Devant](https://open.spotify.com/artist/41ZhnBiaqeoe6asIzVDvqP) | [Yini, the Remixes](https://open.spotify.com/album/4IbQbaFvHISYJonMdxwxAP) | 7:51 | 2021-12-08 | 2022-11-17 |
-| [You & I](https://open.spotify.com/track/18FRKIMe5W7f3ah7xsYmwH) | [Sondrio](https://open.spotify.com/artist/6KJC1M9nvTzV2R2VmB7Bo5) | [Night Music VI](https://open.spotify.com/album/3hgGqJOaHGylGOtSHMJ0Fz) | 6:22 | 2022-05-03 |  |
+| [You & I](https://open.spotify.com/track/18FRKIMe5W7f3ah7xsYmwH) | [Sondrio](https://open.spotify.com/artist/6KJC1M9nvTzV2R2VmB7Bo5) | [Night Music VI](https://open.spotify.com/album/3hgGqJOaHGylGOtSHMJ0Fz) | 6:22 | 2022-05-03 | 2023-04-24 |
 | [You & I](https://open.spotify.com/track/4nv58e7q8KdkSafgTlQ7VB) | [Sondrio](https://open.spotify.com/artist/6KJC1M9nvTzV2R2VmB7Bo5) | [Night Music VI](https://open.spotify.com/album/5dFWnW9pGt4qOypBJwm9g3) | 6:22 | 2021-12-08 | 2022-07-29 |
 | [You're a Superstar](https://open.spotify.com/track/6i6Jj8hSVfpvqiXnVSvsTe) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [You're a Superstar](https://open.spotify.com/album/3MucnLVLWD41n03C7UQqnw) | 2:22 | 2022-02-21 |  |
 | [Your Love](https://open.spotify.com/track/6dOLWS1ee89ZezU4aRnpaX) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Your Love](https://open.spotify.com/album/2qlU5QR86qqrdWDG3UvGTT) | 4:09 | 2021-12-08 |  |

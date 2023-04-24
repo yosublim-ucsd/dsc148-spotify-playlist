@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-587 songs - 1 day 10 hr 8 min
+588 songs - 1 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -451,7 +451,8 @@
 | [Same Side](https://open.spotify.com/track/0DJOsMUTqsgocrs25hGY8u) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [Same Side](https://open.spotify.com/album/54jKK0Kb76gVB11hKlTYru) | 3:56 | 2021-10-01 | 2022-07-08 |
 | [Save Your Love](https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Leap](https://open.spotify.com/album/06ug65kBTheiQOomrAq0iB) | 3:23 | 2022-07-08 | 2023-02-18 |
 | [Say Nothing](https://open.spotify.com/track/7tp8PseJKWDiYBk9PLwawt) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Say Nothing](https://open.spotify.com/album/2OixTZdPDO4URwO5fIEqQt) | 3:29 | 2022-09-30 | 2022-10-08 |
-| [Sea Star](https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sea Star](https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs) | 3:27 | 2023-02-10 |  |
+| [Sea Star](https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sea Star](https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs) | 3:27 | 2023-02-10 | 2023-04-24 |
+| [Sea Star](https://open.spotify.com/track/6alJoblCCJSKIxicui9cIv) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Angels In Science Fiction](https://open.spotify.com/album/3PNavLo012ZTOzWvt4lqQF) | 3:27 | 2023-02-17 |  |
 | [Secrets](https://open.spotify.com/track/03aAxkw0QNJJoUkWz2bzAo) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Secrets](https://open.spotify.com/album/0cJuRJZSVvBOITJNyqeR7t) | 3:00 | 2022-03-25 | 2022-04-24 |
 | [See The Light](https://open.spotify.com/track/6lF5yAmscceMAs0T5qSrAi) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [See The Light](https://open.spotify.com/album/6rRdg4kawkdtaO6Pe1K6aY) | 2:50 | 2022-01-21 | 2022-07-29 |
 | [September](https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [September](https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc) | 3:40 | 2021-08-04 | 2022-12-10 |

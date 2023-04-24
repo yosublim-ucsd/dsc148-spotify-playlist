@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Fonseca & Juan Luis Guerra
 
-247 songs - 14 hr 53 min
+248 songs - 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [La Carta](https://open.spotify.com/track/04FSJks8f0kAmXpE4Tk1CD) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [La Carta](https://open.spotify.com/album/3moycdz652XUwSF8jMdfVv) | 2:37 | 2022-06-29 | 2023-01-28 |
 | [La Culpa](https://open.spotify.com/track/5OkBHe7uEoC03x7x4sckQG) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv) | [La Culpa](https://open.spotify.com/album/4p7YEux8DrGBztLRbfWHoR) | 3:24 | 2022-07-19 | 2023-01-24 |
 | [La Culpa](https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh), [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [La Culpa](https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ) | 2:54 | 2023-01-20 |  |
+| [La Despedida](https://open.spotify.com/track/4sjYsP0tIZi34SDVUzTHyk) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [La Despedida](https://open.spotify.com/album/79nrfAlzkAaCorWG5JtKD2) | 3:20 | 2023-04-21 |  |
 | [La Foto Se Me Borró \- Bachata](https://open.spotify.com/track/7lQXFaerELCnqOWIk1VxGk) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Ryan Milo](https://open.spotify.com/artist/76X8Z4o3DI4rr5GCmzg9ap) | [Regresó el Jefe 2.0](https://open.spotify.com/album/7D21gZNHtQdIlc3pFotIiO) | 3:45 | 2022-01-01 | 2022-06-30 |
 | [La Fórmula](https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [La Fórmula](https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2) | 4:27 | 2023-02-03 |  |
 | [La Historia \- Escalona Nunca Se Había Grabado Así](https://open.spotify.com/track/7gzuhDzLBcR0O1QXskLAdt) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Historia \(Escalona Nunca Se Había Grabado Así\)](https://open.spotify.com/album/2wcgOo4KxX9mWenJ4PeuUu) | 4:31 | 2023-04-21 |  |
@@ -250,7 +251,7 @@
 | [Y Si Me Vuelvo a Enamorar](https://open.spotify.com/track/2B7U2WjGES5tANhnqMhi1q) | [David Kada](https://open.spotify.com/artist/1mW8Ifff475lUj6Xj44we4) | [Y Si Me Vuelvo a Enamorar](https://open.spotify.com/album/5s1RfIm46NMMIYFhCLiYm4) | 4:02 | 2022-07-19 | 2023-01-14 |
 | [Ya Me Enteré](https://open.spotify.com/track/76TlvxOQhLheXqCC2NkvZQ) | [Georgie Valencia](https://open.spotify.com/artist/2TWRMGU3MH4YBFt2yIY7jx), [Andrés Libreros](https://open.spotify.com/artist/5xDgrJMSVzb49wQEO7THZf) | [Ya Me Enteré](https://open.spotify.com/album/33bn3AQApUplhhaKmq6FCW) | 4:13 | 2022-06-29 | 2023-01-14 |
 | [Ya No Te Amo](https://open.spotify.com/track/4oEHUVWr6GnvaszaHqSdoi) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Ya No Te Amo](https://open.spotify.com/album/70clE19xMTQeZRbMx5DIMM) | 3:56 | 2023-03-03 |  |
-| [Ya Supérame](https://open.spotify.com/track/0jPKUwIK6xiB5xZWXoYGXk) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Ya Supérame](https://open.spotify.com/album/7yMrWYOXO2U8ZTl8DT8sE1) | 2:05 | 2023-02-17 |  |
+| [Ya Supérame](https://open.spotify.com/track/0jPKUwIK6xiB5xZWXoYGXk) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Ya Supérame](https://open.spotify.com/album/7yMrWYOXO2U8ZTl8DT8sE1) | 2:05 | 2023-02-17 | 2023-04-24 |
 | [Ya Supérame \(Produced by Enmanuel Frias & Chiquito Timbal\)](https://open.spotify.com/track/2PyGukXL4EfJsDIdMxmnHW) | [Chiquito Team Band](https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV) | [Ya Supérame](https://open.spotify.com/album/2Dl74VOU29mY8JZeB86W1S) | 3:25 | 2022-02-11 | 2022-06-30 |
 | [Yo Muero Bebiendo](https://open.spotify.com/track/4sZ69wnoP8Kno1N5TBQ3xN) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [Lenny Santos](https://open.spotify.com/artist/13UE5hgs9FsO98RpIwnifx), [Xclusive 5 AM](https://open.spotify.com/artist/6DhTWsEmtQ1pR46TPsIicP), [Alcover](https://open.spotify.com/artist/2PctE0f82UrDM9CR3SXXGo) | [Yo Muero Bebiendo](https://open.spotify.com/album/7rqXiXTgzr5cNjPR0bT9lq) | 2:43 | 2022-02-11 | 2023-01-14 |
 | [Yo Si Lloro](https://open.spotify.com/track/3sGvjOLY6eZ2No5j4rm9oY) | [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ), [La 9na Street](https://open.spotify.com/artist/1gyckLPb0C8SKuEXnrgnmk) | [Yo Si Lloro](https://open.spotify.com/album/5dDV85GETwYr7ch4AmZIgk) | 4:14 | 2022-01-01 | 2022-06-30 |

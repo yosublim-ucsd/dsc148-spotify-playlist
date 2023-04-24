@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Frenna & Do
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,393 likes - 105 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,416 likes - 105 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 60 | [Taking Things For Granted](https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Taking Things For Granted](https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN) | 3:36 |
 | 61 | [POST \- Edit](https://open.spotify.com/track/7qE7DFyWEZ2ZipptGvfKdS) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y), [Luke Flowers](https://open.spotify.com/artist/5hUAGx1qxTzwNs65Pyi26Z), [Tugce Albayrak](https://open.spotify.com/artist/7ipxbXmiruugp1q7YY5NP7), [The Bulgarian Voices Berlin](https://open.spotify.com/artist/5E7HupJzE0fIdHm4JFqY4c), [Scoring Berlin](https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke), [Filmorchester Babelsberg](https://open.spotify.com/artist/3QVkcHVpye5LrSXexL5GMy) | [POST](https://open.spotify.com/album/2a6zPxuhDzA49w7d5MTG15) | 3:37 |
 | 62 | [Kleine Jongen 2](https://open.spotify.com/track/6HNh4laZo3FphutXK5Aoa4) | [Engel](https://open.spotify.com/artist/5t6ULwzhz2zTzSMIe10DCs), [RBDjan](https://open.spotify.com/artist/1W4O1UxWetSz00CiAu01zf), [Extince](https://open.spotify.com/artist/1VcWBBXrRinwtVyU7oSsc5) | [Kleine Jongen 2](https://open.spotify.com/album/0aXCE9LJs8gCJp3PsWjIDw) | 3:34 |
-| 63 | [Dancing is Healing](https://open.spotify.com/track/4xlMZCMr9WhyE58igBMxVp) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/11erTn5P7gOy8vfYDq6bxq) | 2:57 |
+| 63 | [Dancing is Healing](https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/5g3JRPJKgjcc20lORFpaqp) | 2:57 |
 | 64 | [Sterker Dan De Storm](https://open.spotify.com/track/0QPyuBHMMxBPq2RFSUUBQ0) | [Van Den Hil](https://open.spotify.com/artist/5P5E6jVSNpreJUSWRJNjcl) | [Sterker Dan De Storm](https://open.spotify.com/album/11qRTASG7HKr227g4cdmz8) | 2:58 |
 | 65 | [feel it now \(alive\)](https://open.spotify.com/track/6gYnclsFwByD1BxL7z44WD) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [chapter of me](https://open.spotify.com/album/0PITbh2NtsYR1BTx0NU4Ol) | 3:31 |
 | 66 | [Whatever's Inconvenient](https://open.spotify.com/track/20edSD8oKowIhOuLy2N8Jj) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Whatever's Inconvenient](https://open.spotify.com/album/4syDZp8rdgovzOrbLqkt0Z) | 4:27 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 104 | [Canvas](https://open.spotify.com/track/1FeD9KdXmOwOcu7JBJsYf3) | [Roufaida](https://open.spotify.com/artist/6Pvn7lx3CHZLtiYcxqateL) | [Roufaida](https://open.spotify.com/album/3JD05jEI8JBd5yCd4rbZKn) | 4:04 |
 | 105 | [I Love My Rock’n’Roll](https://open.spotify.com/track/7AUlG9D5qFHMjoPXqQk5ED) | [Bad to the Bone](https://open.spotify.com/artist/0f0fiHoYSRI4a4fUCN44f3) | [Pretty Promises](https://open.spotify.com/album/2vs32EvgJ9PlyI7liMhGna) | 3:36 |
 
-Snapshot ID: `MTY4MjA2NDA2NywwMDAwMDAwMDUyMDhmNmZhN2VhOTA1Y2IyNGM4YmI3ZmM0ZjViZjYy`
+Snapshot ID: `MTY4MjA2NDA2NywwMDAwMDAwMGFmNGRiZTA4YmJiYWZlMDFhZDlmNjgwYzA4NDFmODA1`

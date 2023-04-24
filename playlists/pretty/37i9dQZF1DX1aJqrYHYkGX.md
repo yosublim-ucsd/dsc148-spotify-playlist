@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 
 > Gentle, relaxing music from around the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,665 likes - 91 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,823 likes - 91 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 | 25 | [Milena's Theme \(Duduk\)](https://open.spotify.com/track/290GVez1qXhK2Dmx9JIauj) | [Mandala Ohm](https://open.spotify.com/artist/7DxNYkd18YNFvJnVJ8tSPu) | [Milena's Theme \(Duduk\)](https://open.spotify.com/album/1VfvW4Pw4IQECc9nsWTo1Q) | 3:20 |
 | 26 | [Perfect Pace](https://open.spotify.com/track/5zlVHMRwqJ4L7Z4b5W0oD3) | [World Of Ning](https://open.spotify.com/artist/2S1WPnScXc94xexaArzFf9) | [Perfect Pace](https://open.spotify.com/album/4j3SzFdQMJ0zuDhrzpxdAV) | 2:44 |
 | 27 | [Twilight](https://open.spotify.com/track/2l5gwhS1F2xCmhoGBWPMkL) | [Todd Boston](https://open.spotify.com/artist/2zBtOhe9sRDJNNVcxs6rT3) | [Putumayo Presents Acoustic Yoga](https://open.spotify.com/album/0F032Czz9Bugbag2aIR6EB) | 4:59 |
-| 28 | [One River](https://open.spotify.com/track/6epIhVc3Zn6AUZ27EsOLZt) | [Benjy Wertheimer](https://open.spotify.com/artist/2Y4VeDUhZAE8UfGXqZJ7dX), [John De Kadt](https://open.spotify.com/artist/3rd5aojNBopxBjaZdoLOrb) | [One River](https://open.spotify.com/album/67gLMrueyFRoD48NwVZ4qk) | 7:04 |
+| 28 | [One River](https://open.spotify.com/track/72x0QkkZ0DzB4hOYjIYxzc) | [Benjy Wertheimer](https://open.spotify.com/artist/2Y4VeDUhZAE8UfGXqZJ7dX), [John De Kadt](https://open.spotify.com/artist/3rd5aojNBopxBjaZdoLOrb) | [One River](https://open.spotify.com/album/1HbGyonYWkmb31ShzOSW6g) | 7:04 |
 | 29 | [Garden of Tranquility \- Studio Edit](https://open.spotify.com/track/3kqiXiHTpo3P8DHVT2tzhY) | [SARAB](https://open.spotify.com/artist/6PM7BEoNAzJtH7BRBgagYI) | [Garden of Tranquility](https://open.spotify.com/album/08Ii4bNT3RExNzWsmzr3Tr) | 2:50 |
 | 30 | [Disoriented](https://open.spotify.com/track/0ZnvdrjaPIiN7YeMZ5pDvN) | [Petros Klampanis](https://open.spotify.com/artist/2EW4K87b5EjGuCbachzK2B) | [Disoriented](https://open.spotify.com/album/1VbZoiZjdL53dV8HjpDLic) | 6:06 |
 | 31 | [Let The Wind Take You Higher](https://open.spotify.com/track/3IhFAFYI4C9Bx7aw2JZzuC) | [Slow World](https://open.spotify.com/artist/7IU3IM27vQRYGiBvEkyhti) | [Let The Wind Take You Higher](https://open.spotify.com/album/3Y6EsItm1SQf05fBB3Kred) | 4:37 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 | 90 | [Sahana Vavatu \(For Inner Nourishment\)](https://open.spotify.com/track/6LX4pC94OndpQwepyNdqZ7) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Sahaj Atma](https://open.spotify.com/album/1301F9iFu666bf4IqviXar) | 5:59 |
 | 91 | [Still Moment](https://open.spotify.com/track/2vAqcKkTSGUAkpu2kRKorM) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [Still Moment](https://open.spotify.com/album/03uMfQNIFSHVwcxCngFdT5) | 5:43 |
 
-Snapshot ID: `MTY3ODI5MTk0MywwMDAwMDAwMDk5OTlmNTIwYzhlYzc0MzQwODIwMzg0ZjgzZTUwODA3`
+Snapshot ID: `MTY3ODI5MTk0MywwMDAwMDAwMGU4ZGU1MjExMzNiOWEyYzkwNmU5NTg5MGFmYmFhOTQ0`

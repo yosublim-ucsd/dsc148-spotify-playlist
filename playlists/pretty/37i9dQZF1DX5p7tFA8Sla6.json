@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 47314,
+  "num_followers": 47341,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODkwNDkzOSwwMDAwMDAwMDQwNzU2OWU0YjY2ODA1ODY0Nzc2NjgzY2I3YmMxMTBm",
+  "snapshot_id": "MTYzODkwNDkzOSwwMDAwMDAwMDM4ZTk5NWY2ODVjYWY1ZjAxZDY5ZTAwZTZlNTA3MjBl",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -107,22 +107,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "In The Right Place",
-        "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 175240,
-      "name": "Right Place Wrong Time",
-      "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Mothership Connection",
         "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 348066,
       "name": "Give Up The Funk (Tear The Roof Off The Sucker)",
       "url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "In The Right Place",
+        "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 175240,
+      "name": "Right Place Wrong Time",
+      "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -211,6 +211,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Funkentelechy Vs. The Placebo Syndrome",
+        "url": "https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd"
+      },
+      "artists": [
+        {
+          "name": "Parliament",
+          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
+        }
+      ],
+      "duration_ms": 346666,
+      "name": "Flash Light",
+      "url": "https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "The Fearless Flyers",
         "url": "https://open.spotify.com/album/2GEQWuTviG5lXO66aiOYqt"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 124565,
       "name": "Ace of Aces",
       "url": "https://open.spotify.com/track/1SlkhRMOEJp97Ho0BaIOkj"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Funkentelechy Vs. The Placebo Syndrome",
-        "url": "https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd"
-      },
-      "artists": [
-        {
-          "name": "Parliament",
-          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
-        }
-      ],
-      "duration_ms": 346666,
-      "name": "Flash Light",
-      "url": "https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -953,22 +953,6 @@
       "url": "https://open.spotify.com/track/6LKRuyVDn74fN6TemK7lyK"
     },
     {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Bedrock",
-        "url": "https://open.spotify.com/album/7BfW6qexlu1FanMNnCdoUb"
-      },
-      "artists": [
-        {
-          "name": "Diggin' Dirt",
-          "url": "https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC"
-        }
-      ],
-      "duration_ms": 351953,
-      "name": "Leather Tramp",
-      "url": "https://open.spotify.com/track/4eE8oY58qNnSonXWTApsqP"
-    },
-    {
       "added_at": "2019-09-20 18:17:51",
       "album": {
         "name": "Shake It",
@@ -991,18 +975,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Do Me Right",
-        "url": "https://open.spotify.com/album/3acm84d09PzJGK9jXpJbk0"
+        "name": "Bedrock",
+        "url": "https://open.spotify.com/album/7BfW6qexlu1FanMNnCdoUb"
       },
       "artists": [
         {
-          "name": "Vintage Trouble",
-          "url": "https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0"
+          "name": "Diggin' Dirt",
+          "url": "https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC"
         }
       ],
-      "duration_ms": 217373,
-      "name": "Do Me Right",
-      "url": "https://open.spotify.com/track/3LrGfMjIgqI16WtPQawUSq"
+      "duration_ms": 351953,
+      "name": "Leather Tramp",
+      "url": "https://open.spotify.com/track/4eE8oY58qNnSonXWTApsqP"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1019,6 +1003,22 @@
       "duration_ms": 261945,
       "name": "Livin' It Up",
       "url": "https://open.spotify.com/track/62W5VouctXG9jggZdHaEi1"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Do Me Right",
+        "url": "https://open.spotify.com/album/3acm84d09PzJGK9jXpJbk0"
+      },
+      "artists": [
+        {
+          "name": "Vintage Trouble",
+          "url": "https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Do Me Right",
+      "url": "https://open.spotify.com/track/3LrGfMjIgqI16WtPQawUSq"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Breaks from the Border",
-        "url": "https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH"
-      },
-      "artists": [
-        {
-          "name": "The New Mastersounds",
-          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "Take What You Need",
-      "url": "https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "The Greatest Of Pleasure",
         "url": "https://open.spotify.com/album/6n3TTv12yYErhIaMiL7Fwn"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 387893,
       "name": "Joyous",
       "url": "https://open.spotify.com/track/4yVKYKv0qoS66bU4KQUsLe"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Breaks from the Border",
+        "url": "https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH"
+      },
+      "artists": [
+        {
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "Take What You Need",
+      "url": "https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE"
     },
     {
       "added_at": "2019-09-06 07:01:00",
@@ -1391,26 +1391,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Stay Good",
-        "url": "https://open.spotify.com/album/7KFdFOJJF84VbZ5rJjbyK7"
+        "name": "Vs.",
+        "url": "https://open.spotify.com/album/7fROjXzlwT8v6VTSWhIKBY"
       },
       "artists": [
         {
-          "name": "Brooklyn Funk Essentials",
-          "url": "https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA"
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
         },
         {
-          "name": "Anna Brooks",
-          "url": "https://open.spotify.com/artist/6bTX69msG9jlBTTFcwgtpV"
-        },
-        {
-          "name": "Iwan VanHetten",
-          "url": "https://open.spotify.com/artist/2aeUMFKtymkdC7J7ZH30WY"
+          "name": "Daniel Merriweather",
+          "url": "https://open.spotify.com/artist/6HD2mo0Gz8wd8IbOXYwUfN"
         }
       ],
-      "duration_ms": 332661,
-      "name": "Miss Mess",
-      "url": "https://open.spotify.com/track/47agFZSo5O4c6ZEJfgfH8k"
+      "duration_ms": 224832,
+      "name": "Losin' Streak (feat. Daniel Merriweather)",
+      "url": "https://open.spotify.com/track/2cyTtLjjuO9j9M3gyWJ8Du"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1463,38 +1459,26 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Vs.",
-        "url": "https://open.spotify.com/album/7fROjXzlwT8v6VTSWhIKBY"
+        "name": "Stay Good",
+        "url": "https://open.spotify.com/album/7KFdFOJJF84VbZ5rJjbyK7"
       },
       "artists": [
         {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+          "name": "Brooklyn Funk Essentials",
+          "url": "https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA"
         },
         {
-          "name": "Daniel Merriweather",
-          "url": "https://open.spotify.com/artist/6HD2mo0Gz8wd8IbOXYwUfN"
-        }
-      ],
-      "duration_ms": 224832,
-      "name": "Losin' Streak (feat. Daniel Merriweather)",
-      "url": "https://open.spotify.com/track/2cyTtLjjuO9j9M3gyWJ8Du"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "The Deep End",
-        "url": "https://open.spotify.com/album/1BRjZuuUCqYjCDAOhMnJ29"
-      },
-      "artists": [
+          "name": "Anna Brooks",
+          "url": "https://open.spotify.com/artist/6bTX69msG9jlBTTFcwgtpV"
+        },
         {
-          "name": "The Aquaducks",
-          "url": "https://open.spotify.com/artist/1gODfHkJMTmn5Kmyy3M6LW"
+          "name": "Iwan VanHetten",
+          "url": "https://open.spotify.com/artist/2aeUMFKtymkdC7J7ZH30WY"
         }
       ],
-      "duration_ms": 212026,
-      "name": "Got Me Funked Up",
-      "url": "https://open.spotify.com/track/6puGnKlOsMcu5SkcEEdHkg"
+      "duration_ms": 332661,
+      "name": "Miss Mess",
+      "url": "https://open.spotify.com/track/47agFZSo5O4c6ZEJfgfH8k"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1511,6 +1495,22 @@
       "duration_ms": 225424,
       "name": "Let's Take a Ride",
       "url": "https://open.spotify.com/track/7y3UXCIUHfFsnQp8wwuVLj"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "The Deep End",
+        "url": "https://open.spotify.com/album/1BRjZuuUCqYjCDAOhMnJ29"
+      },
+      "artists": [
+        {
+          "name": "The Aquaducks",
+          "url": "https://open.spotify.com/artist/1gODfHkJMTmn5Kmyy3M6LW"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "Got Me Funked Up",
+      "url": "https://open.spotify.com/track/6puGnKlOsMcu5SkcEEdHkg"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1543,6 +1543,26 @@
       "duration_ms": 241410,
       "name": "Back to the Funkture",
       "url": "https://open.spotify.com/track/1nPjlM25TcwClEvSkG712O"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Lab Experiments, Vol. 2",
+        "url": "https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA"
+      },
+      "artists": [
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        },
+        {
+          "name": "Kaiit",
+          "url": "https://open.spotify.com/artist/05GTlMes7SkTlE9JcIvYB2"
+        }
+      ],
+      "duration_ms": 211615,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1635,26 +1655,6 @@
       "duration_ms": 212065,
       "name": "Wild",
       "url": "https://open.spotify.com/track/6WPIx2V0nXS0xJmvJ4X0wh"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Lab Experiments, Vol. 2",
-        "url": "https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA"
-      },
-      "artists": [
-        {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
-        },
-        {
-          "name": "Kaiit",
-          "url": "https://open.spotify.com/artist/05GTlMes7SkTlE9JcIvYB2"
-        }
-      ],
-      "duration_ms": 211615,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn"
     },
     {
       "added_at": "2019-08-22 14:26:16",

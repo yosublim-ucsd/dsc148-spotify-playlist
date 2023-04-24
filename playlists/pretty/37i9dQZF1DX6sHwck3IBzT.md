@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sHwck3IBzT.md) - [plain]
 
 > Top 50 of the best Amapiano songs in 2022! Cover: <a href="https://open.spotify.com/artist/1PINqStNpc48PWNAMDQpVj?si=Uk\_hEIv1Srqx4tP648aJlw">Q\-Mark</a>, <a href="https://open.spotify.com/artist/2nvb7E4RLPQVXoUPRaHLuJ?si=4tdpQThsQDW06fmJwCH4Nw">TpZee</a> and <a href="https://open.spotify.com/artist/4fDmMQuFAIHnsKbmfOY8yO?si=fuYAFYXcScGQGzC0cjn2nw">Afriikan Papi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,287 likes - 52 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,480 likes - 52 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 
 > Instrumental beats to boost your weight lifting workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,076 likes - 152 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,199 likes - 152 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 35 | [You Say It's Easy](https://open.spotify.com/track/76H1wnU1AwWjQ2tWKeG1xg) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Love for Drill](https://open.spotify.com/album/5ilOUMe6p4roT9ZViobEC6) | 2:28 |
 | 36 | [Count Your Blessings](https://open.spotify.com/track/1NbWD40pGtLkGpY1NMsyRX) | [ZooLoo One](https://open.spotify.com/artist/1bcgGPzzGefC11OU7foS7t) | [Outcast Society](https://open.spotify.com/album/50X5rlLKcD0wFWPsNTdpRu) | 2:33 |
 | 37 | [Burner Of Bridges](https://open.spotify.com/track/1CvDuVLrF1PAxIuJ9QzQ2G) | [Leytonstoned](https://open.spotify.com/artist/6ZbJZBtFBl9YHooEmEBe0m) | [Burner Of Bridges](https://open.spotify.com/album/5sC7JOMHEzwB2Fb14G9U7O) | 1:56 |
-| 38 | [Audio Picasso](https://open.spotify.com/track/2MK4c1sVXnaRHhhfjCIAEP) | [mzet](https://open.spotify.com/artist/4bpq7LWyKylbYqwDgly14Y), [typico](https://open.spotify.com/artist/4e1Z2c8EJSfqh5a0hW7jyq) | [Lavanda](https://open.spotify.com/album/2eCYNfhTRAydtfh7j3WY45) | 2:49 |
+| 38 | [Audio Picasso](https://open.spotify.com/track/7KW45DQcGGcP1PQBXp8gZh) | [mzet](https://open.spotify.com/artist/4bpq7LWyKylbYqwDgly14Y), [typico](https://open.spotify.com/artist/4e1Z2c8EJSfqh5a0hW7jyq) | [LAVANDA](https://open.spotify.com/album/6ChuzmWlFaljOfOjDcTdsR) | 2:49 |
 | 39 | [Hunch](https://open.spotify.com/track/0Ha38zN6QMVjRKTbJYhjZ9) | [Azucares](https://open.spotify.com/artist/4nBe4luXcnZ8QqpoyZq4OC) | [Hunch / Qwuan](https://open.spotify.com/album/3VLPMI6Fx93tcU3FjuhtGJ) | 2:41 |
 | 40 | [Apolitikio](https://open.spotify.com/track/7gnP8uPbqEzAMNcJLTq6FU) | [Sardos97](https://open.spotify.com/artist/119BqJ7qRURlIOb22caU5W) | [Unreleased 2002\-2022 Vol.2](https://open.spotify.com/album/3pRq2E9J7ifJ7Zf7YJ2N0D) | 2:22 |
 | 41 | [The Other Side Of Existence](https://open.spotify.com/track/3F18almxaf6ifbx75o8YxW) | [Yuni Wa](https://open.spotify.com/artist/4RhG0qGKMzfWNdi4OM6obG) | [The Other Side Of Existence](https://open.spotify.com/album/6ITE6HEeLZNa7uh1GNqQtU) | 3:29 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 151 | [Theme](https://open.spotify.com/track/6LGzIiVow9pEHzSc7Z2NC5) | [Grand Moist](https://open.spotify.com/artist/7kBEPXj7Sz1SfO73MoFENO) | [Theme](https://open.spotify.com/album/7HWzZzrVY6lIhyoO2V9wL6) | 2:35 |
 | 152 | [Lunch Break](https://open.spotify.com/track/3MGkKTSuULSWZFdKgUqFG8) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [No Justice No Peace](https://open.spotify.com/album/5QOaH71IIS6PFIZlqhl6FD) | 2:59 |
 
-Snapshot ID: `MTY3ODcyMjUzNSwwMDAwMDAwMDBhYTRkMTY2YjQ2MWJiYWU4M2E2ZjRmYmFiZGE2NWRk`
+Snapshot ID: `MTY3ODcyMjUzNSwwMDAwMDAwMGUxMmVlNDI1MTJhNTZmZDk0OTI2MTc5YWM2OGY4NjY4`

@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 43632,
+  "num_followers": 43655,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTI2NzYzMCwwMDAwMDAwMGQ0MmUwMzJiM2FlODA4MmJmODJhMmQyMmRlNDhjZTA4",
+  "snapshot_id": "MTY3MTI2NzYzMCwwMDAwMDAwMDQ2YjAyOWRkYjQxZmM4YzU2NTA2ODdkNzRkMmU0MDc2",
   "tracks": [
     {
       "added_at": "2022-12-17 09:00:30",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "The Long March",
-        "url": "https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5"
-      },
-      "artists": [
-        {
-          "name": "Le Trio Joubran",
-          "url": "https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI"
-        }
-      ],
-      "duration_ms": 285040,
-      "name": "The Trees We Wear",
-      "url": "https://open.spotify.com/track/2A6iLQWuN0h6RW0hvFcIUz"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "Second Verse",
         "url": "https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 272480,
       "name": "Bad Timing",
       "url": "https://open.spotify.com/track/5w3zFqLzDVn5uB4Fz7N02N"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "The Long March",
+        "url": "https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5"
+      },
+      "artists": [
+        {
+          "name": "Le Trio Joubran",
+          "url": "https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI"
+        }
+      ],
+      "duration_ms": 285040,
+      "name": "The Trees We Wear",
+      "url": "https://open.spotify.com/track/2A6iLQWuN0h6RW0hvFcIUz"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Tareeq",
-        "url": "https://open.spotify.com/album/1AuKyJjzvg2HAVBY1XgZg7"
-      },
-      "artists": [
-        {
-          "name": "Al-Bara'em",
-          "url": "https://open.spotify.com/artist/48XfzIDlJVx0MrJtjaUskw"
-        }
-      ],
-      "duration_ms": 283724,
-      "name": "Tareeq",
-      "url": "https://open.spotify.com/track/0JTnnttCaS5UbGNTgpARrd"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "Gaza - Tradition musicale palestinienne",
         "url": "https://open.spotify.com/album/6MXT3YX1QwNWXxmKfKNHzt"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 81005,
       "name": "Palestine",
       "url": "https://open.spotify.com/track/0BBYordA8bTjXjcY3mBrxW"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "Tareeq",
+        "url": "https://open.spotify.com/album/1AuKyJjzvg2HAVBY1XgZg7"
+      },
+      "artists": [
+        {
+          "name": "Al-Bara'em",
+          "url": "https://open.spotify.com/artist/48XfzIDlJVx0MrJtjaUskw"
+        }
+      ],
+      "duration_ms": 283724,
+      "name": "Tareeq",
+      "url": "https://open.spotify.com/track/0JTnnttCaS5UbGNTgpARrd"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -975,18 +975,18 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Seasons of Violet - Lovesongs from Palestine",
-        "url": "https://open.spotify.com/album/2EU211lSUnCFszTWpUvU2Y"
+        "name": "Laween",
+        "url": "https://open.spotify.com/album/3BGj2P0sL4c3IZH18qOMUs"
       },
       "artists": [
         {
-          "name": "Rim Banna",
-          "url": "https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO"
+          "name": "Sama Shoufani",
+          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
         }
       ],
-      "duration_ms": 306106,
-      "name": "The Night Has Fallen Down",
-      "url": "https://open.spotify.com/track/4K4QRaxWC7MBuzRzRgNj3U"
+      "duration_ms": 208237,
+      "name": "Laween",
+      "url": "https://open.spotify.com/track/7uMEZ3LZnkxH65k3VLbmqR"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -1007,66 +1007,18 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Laween",
-        "url": "https://open.spotify.com/album/3BGj2P0sL4c3IZH18qOMUs"
+        "name": "Seasons of Violet - Lovesongs from Palestine",
+        "url": "https://open.spotify.com/album/2EU211lSUnCFszTWpUvU2Y"
       },
       "artists": [
         {
-          "name": "Sama Shoufani",
-          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
+          "name": "Rim Banna",
+          "url": "https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO"
         }
       ],
-      "duration_ms": 208237,
-      "name": "Laween",
-      "url": "https://open.spotify.com/track/7uMEZ3LZnkxH65k3VLbmqR"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
-        "name": "Le meilleur, vol.1",
-        "url": "https://open.spotify.com/album/7s3nuAyok865QigeowkopM"
-      },
-      "artists": [
-        {
-          "name": "Nass El Ghiwane",
-          "url": "https://open.spotify.com/artist/040hze5aLmq4IDXPDQfUDL"
-        }
-      ],
-      "duration_ms": 383333,
-      "name": "\u0641\u0644\u0633\u0637\u064a\u0646",
-      "url": "https://open.spotify.com/track/7GAIec8M8V8ftwtj2lSMPI"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
-        "name": "From Here",
-        "url": "https://open.spotify.com/album/5D4XlS9tDo1ZdYvas3kqXX"
-      },
-      "artists": [
-        {
-          "name": "Akram Abdulfattah",
-          "url": "https://open.spotify.com/artist/6u6VplNDL8uiSHGhRysJRG"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "From Here",
-      "url": "https://open.spotify.com/track/2gU3bW5VlHffe9V3VD89EM"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
-        "name": "Mo Light",
-        "url": "https://open.spotify.com/album/25uNBZF9zpP2QxDpZNrn1E"
-      },
-      "artists": [
-        {
-          "name": "47SOUL",
-          "url": "https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge"
-        }
-      ],
-      "duration_ms": 285773,
-      "name": "Mo Light",
-      "url": "https://open.spotify.com/track/4ELE971aOY79OV4263w8h3"
+      "duration_ms": 306106,
+      "name": "The Night Has Fallen Down",
+      "url": "https://open.spotify.com/track/4K4QRaxWC7MBuzRzRgNj3U"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -1087,6 +1039,54 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
+        "name": "From Here",
+        "url": "https://open.spotify.com/album/5D4XlS9tDo1ZdYvas3kqXX"
+      },
+      "artists": [
+        {
+          "name": "Akram Abdulfattah",
+          "url": "https://open.spotify.com/artist/6u6VplNDL8uiSHGhRysJRG"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "From Here",
+      "url": "https://open.spotify.com/track/2gU3bW5VlHffe9V3VD89EM"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "Le meilleur, vol.1",
+        "url": "https://open.spotify.com/album/7s3nuAyok865QigeowkopM"
+      },
+      "artists": [
+        {
+          "name": "Nass El Ghiwane",
+          "url": "https://open.spotify.com/artist/040hze5aLmq4IDXPDQfUDL"
+        }
+      ],
+      "duration_ms": 383333,
+      "name": "\u0641\u0644\u0633\u0637\u064a\u0646",
+      "url": "https://open.spotify.com/track/7GAIec8M8V8ftwtj2lSMPI"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "Mo Light",
+        "url": "https://open.spotify.com/album/25uNBZF9zpP2QxDpZNrn1E"
+      },
+      "artists": [
+        {
+          "name": "47SOUL",
+          "url": "https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge"
+        }
+      ],
+      "duration_ms": 285773,
+      "name": "Mo Light",
+      "url": "https://open.spotify.com/track/4ELE971aOY79OV4263w8h3"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
         "name": "NAS",
         "url": "https://open.spotify.com/album/2sF5JJiuI034l5IlblUrVz"
       },
@@ -1099,6 +1099,22 @@
       "duration_ms": 326387,
       "name": "NAS",
       "url": "https://open.spotify.com/track/6iplzAdeuc5x1TQBph25PZ"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "Badi Ellak",
+        "url": "https://open.spotify.com/album/5gIy2dF3eXhTo9XJULxLqK"
+      },
+      "artists": [
+        {
+          "name": "Sama Shoufani",
+          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
+        }
+      ],
+      "duration_ms": 209999,
+      "name": "Badi Ellak",
+      "url": "https://open.spotify.com/track/6gazpfEpfoPQSPuTBoR30C"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -1175,22 +1191,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Badi Ellak",
-        "url": "https://open.spotify.com/album/5gIy2dF3eXhTo9XJULxLqK"
-      },
-      "artists": [
-        {
-          "name": "Sama Shoufani",
-          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
-        }
-      ],
-      "duration_ms": 209999,
-      "name": "Badi Ellak",
-      "url": "https://open.spotify.com/track/6gazpfEpfoPQSPuTBoR30C"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "Room",
         "url": "https://open.spotify.com/album/6lAmjHAwltL9jRp1GAGCEX"
       },
@@ -1207,22 +1207,18 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Sobo El Gahwa",
-        "url": "https://open.spotify.com/album/5vK57QEuynqaQYHuiGuNoM"
+        "name": "Maskhara (Radio Edit)",
+        "url": "https://open.spotify.com/album/7bXGhJWxIhnFvwDKr9vqHx"
       },
       "artists": [
         {
-          "name": "Zenobia",
-          "url": "https://open.spotify.com/artist/1111ivBPyEwa1mdOB2SA0X"
-        },
-        {
-          "name": "Faten Shafeq Kabaha",
-          "url": "https://open.spotify.com/artist/7uDoPvAaYD2RUrr35aH1bK"
+          "name": "Bashar Murad",
+          "url": "https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql"
         }
       ],
-      "duration_ms": 260555,
-      "name": "Sobo El Gahwa",
-      "url": "https://open.spotify.com/track/2uegTlle9p16rqdeYroYET"
+      "duration_ms": 186411,
+      "name": "Maskhara - Radio Edit",
+      "url": "https://open.spotify.com/track/7602Aziy9m0JAcnzKX8mcC"
     }
   ],
   "unique_name": "Palestine Sounds",

@@ -874,7 +874,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-24",
       "duration_ms": 3815786,
       "name": "dlp 1.1",
       "url": "https://open.spotify.com/track/10SeyQmuBIVJmbZYYJs07W"
@@ -896,6 +896,24 @@
       "duration_ms": 3815786,
       "name": "dlp 1.1",
       "url": "https://open.spotify.com/track/31FiS1jMI38kYfC8ey358W"
+    },
+    {
+      "album": {
+        "name": "The Disintegration Loops (Remastered Reissue)",
+        "url": "https://open.spotify.com/album/5fmPy3XmYD0BJKEr86a3Cu"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3815786,
+      "name": "dlp 1.1",
+      "url": "https://open.spotify.com/track/333Oq434csQAOaTs5NsITr"
     },
     {
       "album": {

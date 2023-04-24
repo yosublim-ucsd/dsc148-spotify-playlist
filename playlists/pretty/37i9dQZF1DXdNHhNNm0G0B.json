@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk.",
-  "num_followers": 70352,
+  "num_followers": 70371,
   "original_name": "Rockin' Chair Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQwMTc3MiwwMDAwMDAwMGJlYjJiNDdkZmIyN2M5YzRmMmY1YWEzZTZjMmM3NmFh",
+  "snapshot_id": "MTY4MTQwMTc3MiwwMDAwMDAwMGI5MzI5NmJkODhmZjc3ZGQyOWM0ODA1OGUyNjFhNzNi",
   "tracks": [
     {
       "added_at": "2023-04-07 00:01:00",
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
+        "name": "The Slide Guitar: Bottles, Knives & Steel",
+        "url": "https://open.spotify.com/album/1v6Wu8KqYLWsax5EjmZNAf"
+      },
+      "artists": [
+        {
+          "name": "Sylvester Weaver",
+          "url": "https://open.spotify.com/artist/2m2vWbN6WZU0Mtv569ndeb"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Guitar Rag",
+      "url": "https://open.spotify.com/track/5xwCQuoGnPdgqw2omrgmCq"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
         "name": "Preachin' Blues",
         "url": "https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G"
       },
@@ -325,20 +341,20 @@
       "url": "https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0"
     },
     {
-      "added_at": "2023-04-07 00:01:00",
+      "added_at": "2023-04-24 01:20:35",
       "album": {
-        "name": "The Slide Guitar: Bottles, Knives & Steel",
-        "url": "https://open.spotify.com/album/1v6Wu8KqYLWsax5EjmZNAf"
+        "name": "Blues Jumped a Rabbit",
+        "url": "https://open.spotify.com/album/5cOjiagbLZqw85RJNk8lQ4"
       },
       "artists": [
         {
-          "name": "Sylvester Weaver",
-          "url": "https://open.spotify.com/artist/2m2vWbN6WZU0Mtv569ndeb"
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
         }
       ],
-      "duration_ms": 178333,
-      "name": "Guitar Rag",
-      "url": "https://open.spotify.com/track/5xwCQuoGnPdgqw2omrgmCq"
+      "duration_ms": 235040,
+      "name": "Blues Jumped a Rabbit",
+      "url": "https://open.spotify.com/track/6Tb7mOJtHQtSSqJym83Bqr"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -359,22 +375,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Presenting Blind Willie McTell",
-        "url": "https://open.spotify.com/album/3CwFKuklZs4BJKkwqIR46z"
-      },
-      "artists": [
-        {
-          "name": "Blind Willie McTell",
-          "url": "https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6"
-        }
-      ],
-      "duration_ms": 152853,
-      "name": "Statesboro Blues",
-      "url": "https://open.spotify.com/track/2T3YfMI0xRk93bmVMuJcKu"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Down in Mississippi",
         "url": "https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP"
       },
@@ -389,20 +389,20 @@
       "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
     },
     {
-      "added_at": "2023-04-23 01:38:48",
+      "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Blues Jumped a Rabbit",
-        "url": "https://open.spotify.com/album/5cOjiagbLZqw85RJNk8lQ4"
+        "name": "Presenting Blind Willie McTell",
+        "url": "https://open.spotify.com/album/3CwFKuklZs4BJKkwqIR46z"
       },
       "artists": [
         {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+          "name": "Blind Willie McTell",
+          "url": "https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6"
         }
       ],
-      "duration_ms": 235040,
-      "name": "Blues Jumped a Rabbit",
-      "url": "https://open.spotify.com/track/6Tb7mOJtHQtSSqJym83Bqr"
+      "duration_ms": 152853,
+      "name": "Statesboro Blues",
+      "url": "https://open.spotify.com/track/2T3YfMI0xRk93bmVMuJcKu"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Black Dog Blues",
-        "url": "https://open.spotify.com/album/7IHg6vllMBDdKuIcx9Lu72"
-      },
-      "artists": [
-        {
-          "name": "Bayless Rose",
-          "url": "https://open.spotify.com/artist/3IUvB4k0XiutzRg2utdL9M"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Frisco Blues",
-      "url": "https://open.spotify.com/track/7e1WYEzC9wZwlAaCmvSJPW"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Nickel for Your Troubles",
         "url": "https://open.spotify.com/album/7BehaPSDwpwY35CddZrreY"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 168254,
       "name": "Keepin On",
       "url": "https://open.spotify.com/track/2o63bYzr3IwgehTtlU0Fk3"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Black Dog Blues",
+        "url": "https://open.spotify.com/album/7IHg6vllMBDdKuIcx9Lu72"
+      },
+      "artists": [
+        {
+          "name": "Bayless Rose",
+          "url": "https://open.spotify.com/artist/3IUvB4k0XiutzRg2utdL9M"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Frisco Blues",
+      "url": "https://open.spotify.com/track/7e1WYEzC9wZwlAaCmvSJPW"
     },
     {
       "added_at": "2023-04-07 00:01:00",

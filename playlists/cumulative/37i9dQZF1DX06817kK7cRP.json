@@ -546,7 +546,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-24",
       "duration_ms": 143437,
       "name": "El Platanal",
       "url": "https://open.spotify.com/track/5euxtzHFyA4WAbbERfT0eg"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-24",
       "duration_ms": 142000,
       "name": "Golden Age",
       "url": "https://open.spotify.com/track/1ZVi3Mfl9UO3i26SXU43Ta"
@@ -866,7 +866,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Harvest Time",
       "url": "https://open.spotify.com/track/3ykIHaFm72d2vQJx5PW89z"
@@ -1786,6 +1786,24 @@
       "duration_ms": 184000,
       "name": "Peas And Carrots",
       "url": "https://open.spotify.com/track/6suqE7jsS61mbxUa1jqxxl"
+    },
+    {
+      "album": {
+        "name": "Pipe Dreams",
+        "url": "https://open.spotify.com/album/5T3A3lQKU5pmdn4qC90ASh"
+      },
+      "artists": [
+        {
+          "name": "Smoke Room Quartet",
+          "url": "https://open.spotify.com/artist/3F3ToOCmZ54N8acZdcyziH"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207062,
+      "name": "Pipe Dreams",
+      "url": "https://open.spotify.com/track/7lDRp69bYn9anwC7HLcxr9"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-310 songs - 20 hr 9 min
+311 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Comfort and Joy](https://open.spotify.com/track/1wAagNq445jUMg16Slaanc) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Comfort and Joy](https://open.spotify.com/album/3l8zkUWFFNEc8DZgyBGMuC) | 4:02 | 2021-12-11 | 2022-07-29 |
 | [Crown Him \(Glory in the Highest\)](https://open.spotify.com/track/0xjCdmZQQQAY3lrvPEaZRS) | [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [Crown Him \(Glory in the Highest\)](https://open.spotify.com/album/16IA6igILbx316CPY6CwjP) | 5:12 | 2022-12-11 |  |
 | [Crown Him \(Glory in the Highest\)](https://open.spotify.com/track/4859UK92TjODjB39UrCZo4) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Crown Him \(Glory in the Highest\)](https://open.spotify.com/album/0V7o9iGSCjoeJ3QIkMnl5z) | 5:03 | 2022-11-26 | 2022-11-28 |
+| [Crown Him With Glory](https://open.spotify.com/track/7Fsu6PtkB1wTd4p2VvIxGj) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [Crown Him With Glory](https://open.spotify.com/album/71DDIo1palrGrKipLDEvsp) | 3:39 | 2022-12-11 |  |
 | [Diddly Squat](https://open.spotify.com/track/5QeFN5OzkgWTVo9zO799ph) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/2sdWORvqe8loUtcEvj11f7) | 3:05 | 2022-12-11 |  |
 | [Diddly Squat](https://open.spotify.com/track/660M8KW5kBG8fFsKAuQWY2) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/6wwjwUB8juXsKsFhImkg7d) | 3:05 | 2021-12-11 | 2023-03-11 |
 | [Do You Hear What I Hear](https://open.spotify.com/track/4gTy5hUxyusgT1jy66cTeM) | [The Sing Team](https://open.spotify.com/artist/1laNwx3Sgr12cbdw3UTROn) | [Do You Hear What I Hear](https://open.spotify.com/album/6RL1rUhauhoIAs7VOiHeo6) | 3:12 | 2021-12-24 | 2022-07-28 |
@@ -93,7 +94,7 @@
 | [Glory In The Highest](https://open.spotify.com/track/2U8ktRTW0SpL7GS994KNQE) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Receive Our King](https://open.spotify.com/album/37RG4Ybo9LMPZ8pArKkzYy) | 4:51 | 2021-12-24 | 2022-07-23 |
 | [Glory To You In The Highest \(O Come Let Us Adore\)](https://open.spotify.com/track/0QRDvMDcInrXSODsTQ6h7O) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [These Christmas Lights](https://open.spotify.com/album/5pgUIgHDhjfGe2rGunmU7a) | 5:16 | 2021-12-24 | 2022-07-29 |
 | [Go Tell It On The Mountain](https://open.spotify.com/track/6t9cECeEgIcrjmuWrKaBtw) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [A Drummer Boy Christmas](https://open.spotify.com/album/3mzFzJI8WYQ7Szerr4zLzT) | 3:38 | 2021-12-11 |  |
-| [Go Tell It On The Mountain](https://open.spotify.com/track/6MaTesDJBXPBsULCNSfTCB) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Go Tell It On The Mountain](https://open.spotify.com/album/6g9UTRdRELfFRrykZhZ0US) | 2:20 | 2021-12-11 |  |
+| [Go Tell It On The Mountain](https://open.spotify.com/track/6MaTesDJBXPBsULCNSfTCB) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Go Tell It On The Mountain](https://open.spotify.com/album/6g9UTRdRELfFRrykZhZ0US) | 2:20 | 2021-12-11 | 2023-04-24 |
 | [Go Tell It on the Mountain](https://open.spotify.com/track/28w1ZQX25tnDIaHdMR9kbu) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq), [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Go Tell It on the Mountain](https://open.spotify.com/album/2WCkmIbCNpo4ulg7BeyfvU) | 3:13 | 2021-12-11 | 2023-01-21 |
 | [Go Tell It on the Mountain \(feat\. Brad Wheeler\)](https://open.spotify.com/track/4bRJr0gSXtgOrLVG3Iwolh) | [GENTRI](https://open.spotify.com/artist/4sk2zZdhVRMhb1BEtcxUKf), [Brad Wheeler](https://open.spotify.com/artist/5IJ4o6qVqQHdD4ey0ZUl2F) | [Season of Light](https://open.spotify.com/album/5kUqoEk2Vuk9fmOfDCZFbB) | 4:02 | 2021-12-11 | 2022-07-29 |
 | [Go Tell It on the Mountain \(feat\. Home Free\)](https://open.spotify.com/track/4QRE8h1gpjERky2LpAedbY) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq), [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Christmas Carols, Vol\. 1](https://open.spotify.com/album/7bWrPU9hFL7sbtpDtvjrIM) | 3:13 | 2022-12-11 |  |

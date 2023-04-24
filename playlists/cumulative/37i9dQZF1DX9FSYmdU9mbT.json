@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
+        "url": "https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123386,
+      "name": "Chega de Saudade",
+      "url": "https://open.spotify.com/track/7jcLeqojncPZAFh2VUO7mD"
+    },
+    {
+      "album": {
         "name": "40 sucessos da bossa-nova",
         "url": "https://open.spotify.com/album/7yDTrxLWGQT1Xw9W7NyCE5"
       },
@@ -574,7 +592,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-24",
       "duration_ms": 122773,
       "name": "Chega de Saudade - Ultimate Mix",
       "url": "https://open.spotify.com/track/1cM4eMzeqalRs8HbXtfT9X"

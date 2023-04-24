@@ -1,35 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Greece.",
-  "num_followers": 84677,
+  "num_followers": 84703,
   "original_name": "Top 50 - Greece",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzM1NTI2MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzM1NjEyNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-04-22 10:07:12",
-      "album": {
-        "name": "Arte Povera",
-        "url": "https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU"
-      },
-      "artists": [
-        {
-          "name": "Beats Pliz",
-          "url": "https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E"
-        },
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
-        }
-      ],
-      "duration_ms": 167052,
-      "name": "Eftihismenes Imeres In C Minor",
-      "url": "https://open.spotify.com/track/5aQoNwVTwlr4rFSFZonGxA"
-    },
-    {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
       "album": {
         "name": "Gennaro",
         "url": "https://open.spotify.com/album/31HgPOgBToBLs3gdfPHOFU"
@@ -45,63 +25,7 @@
       "url": "https://open.spotify.com/track/50M9lYnMrR0392Q8gH06hm"
     },
     {
-      "added_at": "2023-04-22 10:07:12",
-      "album": {
-        "name": "Mia Gineka",
-        "url": "https://open.spotify.com/album/4sOCaCnJWsK5OctMniqruI"
-      },
-      "artists": [
-        {
-          "name": "Ivan Greko",
-          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
-        }
-      ],
-      "duration_ms": 151874,
-      "name": "Mia Gineka",
-      "url": "https://open.spotify.com/track/4uytPup7KIRhUZasViPFDr"
-    },
-    {
-      "added_at": "2023-04-22 10:07:12",
-      "album": {
-        "name": "Arte Povera",
-        "url": "https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU"
-      },
-      "artists": [
-        {
-          "name": "Beats Pliz",
-          "url": "https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E"
-        },
-        {
-          "name": "Wang",
-          "url": "https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy"
-        }
-      ],
-      "duration_ms": 202114,
-      "name": "Memento Vivere In F Minor",
-      "url": "https://open.spotify.com/track/3MM4G1uA3cscvcGkbT3XZW"
-    },
-    {
-      "added_at": "2023-04-22 10:07:12",
-      "album": {
-        "name": "Arte Povera",
-        "url": "https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU"
-      },
-      "artists": [
-        {
-          "name": "Beats Pliz",
-          "url": "https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E"
-        },
-        {
-          "name": "Bloody Hawk",
-          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
-        }
-      ],
-      "duration_ms": 193994,
-      "name": "Victoriam In F Minor",
-      "url": "https://open.spotify.com/track/2S9F35tyc3rAmAjDKWFI5N"
-    },
-    {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
       "album": {
         "name": "KAPOTE",
         "url": "https://open.spotify.com/album/5v05Um8jf5EAg4zyWgIZkN"
@@ -121,87 +45,23 @@
       "url": "https://open.spotify.com/track/4HrtkH6VWOqrstEi1psSux"
     },
     {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
       "album": {
-        "name": "Arte Povera",
-        "url": "https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU"
+        "name": "Mia Gineka",
+        "url": "https://open.spotify.com/album/4sOCaCnJWsK5OctMniqruI"
       },
       "artists": [
         {
-          "name": "Beats Pliz",
-          "url": "https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E"
-        },
-        {
-          "name": "Sadam",
-          "url": "https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq"
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
         }
       ],
-      "duration_ms": 248993,
-      "name": "Lavara & Balaclava In C Minor",
-      "url": "https://open.spotify.com/track/556odxVF413mUJcEdFldBD"
+      "duration_ms": 151874,
+      "name": "Mia Gineka",
+      "url": "https://open.spotify.com/track/4uytPup7KIRhUZasViPFDr"
     },
     {
-      "added_at": "2023-04-22 10:07:12",
-      "album": {
-        "name": "Arte Povera",
-        "url": "https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU"
-      },
-      "artists": [
-        {
-          "name": "Beats Pliz",
-          "url": "https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E"
-        },
-        {
-          "name": "Dani Gambino",
-          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
-        }
-      ],
-      "duration_ms": 192597,
-      "name": "Poli Tou Atofiou Kakou In E Minor",
-      "url": "https://open.spotify.com/track/0y8pJqoqbetkbSgrnNllqH"
-    },
-    {
-      "added_at": "2023-04-22 10:07:12",
-      "album": {
-        "name": "Arte Povera",
-        "url": "https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU"
-      },
-      "artists": [
-        {
-          "name": "Beats Pliz",
-          "url": "https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E"
-        },
-        {
-          "name": "Hawk",
-          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
-        }
-      ],
-      "duration_ms": 156478,
-      "name": "Piece de Resistance In D Minor",
-      "url": "https://open.spotify.com/track/4W8kSlWzmX8VdZULh4Y4ET"
-    },
-    {
-      "added_at": "2023-04-22 10:07:12",
-      "album": {
-        "name": "Arte Povera",
-        "url": "https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU"
-      },
-      "artists": [
-        {
-          "name": "Beats Pliz",
-          "url": "https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E"
-        },
-        {
-          "name": "Ethismos",
-          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
-        }
-      ],
-      "duration_ms": 222893,
-      "name": "Recital In D# Minor",
-      "url": "https://open.spotify.com/track/63RoaWWA1xd2GTTqbrUTNU"
-    },
-    {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
       "album": {
         "name": "GIORTES",
         "url": "https://open.spotify.com/album/2hZylZBk0Ps4UmBYaZM8Qz"
@@ -229,7 +89,7 @@
       "url": "https://open.spotify.com/track/5Cdw9RPhNTGcZSkJvt9WOc"
     },
     {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
       "album": {
         "name": "Arte Povera",
         "url": "https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU"
@@ -240,16 +100,16 @@
           "url": "https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E"
         },
         {
-          "name": "VLOSPA",
-          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
         }
       ],
-      "duration_ms": 189125,
-      "name": "Pole Position In D Minor",
-      "url": "https://open.spotify.com/track/6EWYpFCdArc5Vvik5I3Myj"
+      "duration_ms": 167052,
+      "name": "Eftihismenes Imeres In C Minor",
+      "url": "https://open.spotify.com/track/5aQoNwVTwlr4rFSFZonGxA"
     },
     {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
       "album": {
         "name": "Arte Povera",
         "url": "https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU"
@@ -260,16 +120,16 @@
           "url": "https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E"
         },
         {
-          "name": "Mikros Kleftis",
-          "url": "https://open.spotify.com/artist/1WNkrtDTdQ5izZf5L372i9"
+          "name": "Wang",
+          "url": "https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy"
         }
       ],
-      "duration_ms": 209717,
-      "name": "Mitropolis In C# Minor",
-      "url": "https://open.spotify.com/track/1Xc1c0Hly4lyiJL7zGyXPU"
+      "duration_ms": 202114,
+      "name": "Memento Vivere In F Minor",
+      "url": "https://open.spotify.com/track/3MM4G1uA3cscvcGkbT3XZW"
     },
     {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
       "album": {
         "name": "ENA VRADI",
         "url": "https://open.spotify.com/album/6UwooXOwfmDqTuHb1V0CG5"
@@ -293,7 +153,7 @@
       "url": "https://open.spotify.com/track/6wpj0XOOx9rJkoNYCv2d7i"
     },
     {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
       "album": {
         "name": "Arte Povera",
         "url": "https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU"
@@ -302,14 +162,78 @@
         {
           "name": "Beats Pliz",
           "url": "https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E"
+        },
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
         }
       ],
-      "duration_ms": 143576,
-      "name": "Arte Povera Soundtrack In Gsus2",
-      "url": "https://open.spotify.com/track/7ms5Scut4YZrbO54gH2lLA"
+      "duration_ms": 193994,
+      "name": "Victoriam In F Minor",
+      "url": "https://open.spotify.com/track/2S9F35tyc3rAmAjDKWFI5N"
     },
     {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
+      "album": {
+        "name": "Arte Povera",
+        "url": "https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU"
+      },
+      "artists": [
+        {
+          "name": "Beats Pliz",
+          "url": "https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E"
+        },
+        {
+          "name": "Sadam",
+          "url": "https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq"
+        }
+      ],
+      "duration_ms": 248993,
+      "name": "Lavara & Balaclava In C Minor",
+      "url": "https://open.spotify.com/track/556odxVF413mUJcEdFldBD"
+    },
+    {
+      "added_at": "2023-04-23 09:21:47",
+      "album": {
+        "name": "Arte Povera",
+        "url": "https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU"
+      },
+      "artists": [
+        {
+          "name": "Beats Pliz",
+          "url": "https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E"
+        },
+        {
+          "name": "Hawk",
+          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
+        }
+      ],
+      "duration_ms": 156478,
+      "name": "Piece de Resistance In D Minor",
+      "url": "https://open.spotify.com/track/4W8kSlWzmX8VdZULh4Y4ET"
+    },
+    {
+      "added_at": "2023-04-23 09:21:47",
+      "album": {
+        "name": "Arte Povera",
+        "url": "https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU"
+      },
+      "artists": [
+        {
+          "name": "Beats Pliz",
+          "url": "https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E"
+        },
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        }
+      ],
+      "duration_ms": 192597,
+      "name": "Poli Tou Atofiou Kakou In E Minor",
+      "url": "https://open.spotify.com/track/0y8pJqoqbetkbSgrnNllqH"
+    },
+    {
+      "added_at": "2023-04-23 09:21:47",
       "album": {
         "name": "Oulala",
         "url": "https://open.spotify.com/album/72rduWyncTlj80qOdaXEqU"
@@ -333,7 +257,27 @@
       "url": "https://open.spotify.com/track/1bPzfHjRXPvoyWaL5ZOmZE"
     },
     {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
+      "album": {
+        "name": "Arte Povera",
+        "url": "https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU"
+      },
+      "artists": [
+        {
+          "name": "Beats Pliz",
+          "url": "https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E"
+        },
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        }
+      ],
+      "duration_ms": 222893,
+      "name": "Recital In D# Minor",
+      "url": "https://open.spotify.com/track/63RoaWWA1xd2GTTqbrUTNU"
+    },
+    {
+      "added_at": "2023-04-23 09:21:47",
       "album": {
         "name": "MYSTIKA",
         "url": "https://open.spotify.com/album/0wIaS437a0pKj0Niy3PHqz"
@@ -353,7 +297,7 @@
       "url": "https://open.spotify.com/track/0wSr8ysRGt83Z58ilyhWdD"
     },
     {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
       "album": {
         "name": "Arte Povera",
         "url": "https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU"
@@ -362,14 +306,18 @@
         {
           "name": "Beats Pliz",
           "url": "https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E"
+        },
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
         }
       ],
-      "duration_ms": 125566,
-      "name": "Outro In A Minor",
-      "url": "https://open.spotify.com/track/488wszQu7lVgGgXJgXFovQ"
+      "duration_ms": 189125,
+      "name": "Pole Position In D Minor",
+      "url": "https://open.spotify.com/track/6EWYpFCdArc5Vvik5I3Myj"
     },
     {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
       "album": {
         "name": "Arte Povera",
         "url": "https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU"
@@ -378,14 +326,18 @@
         {
           "name": "Beats Pliz",
           "url": "https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E"
+        },
+        {
+          "name": "Mikros Kleftis",
+          "url": "https://open.spotify.com/artist/1WNkrtDTdQ5izZf5L372i9"
         }
       ],
-      "duration_ms": 145831,
-      "name": "Intro In A Minor",
-      "url": "https://open.spotify.com/track/032Eib1ph0DoAwlqxPiOvM"
+      "duration_ms": 209717,
+      "name": "Mitropolis In C# Minor",
+      "url": "https://open.spotify.com/track/1Xc1c0Hly4lyiJL7zGyXPU"
     },
     {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
       "album": {
         "name": "Tik Tak",
         "url": "https://open.spotify.com/album/1fVCIQYct98eQTkqVqYobg"
@@ -401,23 +353,23 @@
       "url": "https://open.spotify.com/track/249Ccx4Udp9bMug0T505Vx"
     },
     {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
       "album": {
-        "name": "BOLIVIA",
-        "url": "https://open.spotify.com/album/6qVp3nUlN9DnGgKRPqMz4k"
+        "name": "Arte Povera",
+        "url": "https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU"
       },
       "artists": [
         {
-          "name": "Strat",
-          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+          "name": "Beats Pliz",
+          "url": "https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E"
         }
       ],
-      "duration_ms": 178823,
-      "name": "BOLIVIA",
-      "url": "https://open.spotify.com/track/5mIQunQDz2X9MIbZN1q7Qt"
+      "duration_ms": 143576,
+      "name": "Arte Povera Soundtrack In Gsus2",
+      "url": "https://open.spotify.com/track/7ms5Scut4YZrbO54gH2lLA"
     },
     {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
       "album": {
         "name": "Epikindinoi Polites",
         "url": "https://open.spotify.com/album/2LJy25bS5oVev1McEqaNWn"
@@ -437,7 +389,23 @@
       "url": "https://open.spotify.com/track/36eKhbZ5KaCBuBX2IL9ujN"
     },
     {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
+      "album": {
+        "name": "Arte Povera",
+        "url": "https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU"
+      },
+      "artists": [
+        {
+          "name": "Beats Pliz",
+          "url": "https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E"
+        }
+      ],
+      "duration_ms": 125566,
+      "name": "Outro In A Minor",
+      "url": "https://open.spotify.com/track/488wszQu7lVgGgXJgXFovQ"
+    },
+    {
+      "added_at": "2023-04-23 09:21:47",
       "album": {
         "name": "IPIZME",
         "url": "https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR"
@@ -457,7 +425,23 @@
       "url": "https://open.spotify.com/track/5rrbMbJK3LGzQ6B25aBD2r"
     },
     {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
+      "album": {
+        "name": "BOLIVIA",
+        "url": "https://open.spotify.com/album/6qVp3nUlN9DnGgKRPqMz4k"
+      },
+      "artists": [
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "BOLIVIA",
+      "url": "https://open.spotify.com/track/5mIQunQDz2X9MIbZN1q7Qt"
+    },
+    {
+      "added_at": "2023-04-23 09:21:47",
       "album": {
         "name": "Gia Panta",
         "url": "https://open.spotify.com/album/5Tj4DG3VKQvRo2sJ6BSY3i"
@@ -477,7 +461,39 @@
       "url": "https://open.spotify.com/track/1MD67DskmJhSXmuHe8p7Wt"
     },
     {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
+      "album": {
+        "name": "Mi Milas",
+        "url": "https://open.spotify.com/album/4QRjhM7jDsfWukybZStXEX"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "duration_ms": 178369,
+      "name": "Mi Milas",
+      "url": "https://open.spotify.com/track/0XEvweAMtxdcSOfNdrF1sT"
+    },
+    {
+      "added_at": "2023-04-23 09:21:47",
+      "album": {
+        "name": "Elpida",
+        "url": "https://open.spotify.com/album/0WYHEQ2bqtnnRImmDHqTVb"
+      },
+      "artists": [
+        {
+          "name": "Konstantinos Argiros",
+          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
+        }
+      ],
+      "duration_ms": 244215,
+      "name": "Elpida",
+      "url": "https://open.spotify.com/track/6y9u6j2wCh0Iq5Y128F6Oj"
+    },
+    {
+      "added_at": "2023-04-23 09:21:47",
       "album": {
         "name": "NAPOLI",
         "url": "https://open.spotify.com/album/4AIlaw8lCjVmNDzGEAe8zY"
@@ -497,59 +513,7 @@
       "url": "https://open.spotify.com/track/45YWebKLhmd2q2dXPPhvrI"
     },
     {
-      "added_at": "2023-04-22 10:07:12",
-      "album": {
-        "name": "BAZOOKA",
-        "url": "https://open.spotify.com/album/7lxWnG62anTfNOoymSEV8Q"
-      },
-      "artists": [
-        {
-          "name": "Ivan Greko",
-          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
-        },
-        {
-          "name": "BeTaf Beats",
-          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
-        }
-      ],
-      "duration_ms": 213861,
-      "name": "BAZOOKA",
-      "url": "https://open.spotify.com/track/2Oi95MuaeyJqTnGynhLB0x"
-    },
-    {
-      "added_at": "2023-04-22 10:07:12",
-      "album": {
-        "name": "Elpida",
-        "url": "https://open.spotify.com/album/0WYHEQ2bqtnnRImmDHqTVb"
-      },
-      "artists": [
-        {
-          "name": "Konstantinos Argiros",
-          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
-        }
-      ],
-      "duration_ms": 244215,
-      "name": "Elpida",
-      "url": "https://open.spotify.com/track/6y9u6j2wCh0Iq5Y128F6Oj"
-    },
-    {
-      "added_at": "2023-04-22 10:07:12",
-      "album": {
-        "name": "Mi Milas",
-        "url": "https://open.spotify.com/album/4QRjhM7jDsfWukybZStXEX"
-      },
-      "artists": [
-        {
-          "name": "Anastasia",
-          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
-        }
-      ],
-      "duration_ms": 178369,
-      "name": "Mi Milas",
-      "url": "https://open.spotify.com/track/0XEvweAMtxdcSOfNdrF1sT"
-    },
-    {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
       "album": {
         "name": "Gaza",
         "url": "https://open.spotify.com/album/07yBePxzS3yEn1MOOrxu4K"
@@ -569,7 +533,79 @@
       "url": "https://open.spotify.com/track/0yHkbTORVndswYARPdzteN"
     },
     {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
+      "album": {
+        "name": "BAZOOKA",
+        "url": "https://open.spotify.com/album/7lxWnG62anTfNOoymSEV8Q"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "duration_ms": 213861,
+      "name": "BAZOOKA",
+      "url": "https://open.spotify.com/track/2Oi95MuaeyJqTnGynhLB0x"
+    },
+    {
+      "added_at": "2023-04-23 09:21:47",
+      "album": {
+        "name": "Arte Povera",
+        "url": "https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU"
+      },
+      "artists": [
+        {
+          "name": "Beats Pliz",
+          "url": "https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E"
+        }
+      ],
+      "duration_ms": 145831,
+      "name": "Intro In A Minor",
+      "url": "https://open.spotify.com/track/032Eib1ph0DoAwlqxPiOvM"
+    },
+    {
+      "added_at": "2023-04-23 09:21:47",
+      "album": {
+        "name": "Romeo",
+        "url": "https://open.spotify.com/album/2OnQLL9RttxYadI0WMt5MU"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "duration_ms": 175472,
+      "name": "24hrs",
+      "url": "https://open.spotify.com/track/2QDibAx72jveQXPBXOKjx2"
+    },
+    {
+      "added_at": "2023-04-23 09:21:47",
+      "album": {
+        "name": "Idrogeios",
+        "url": "https://open.spotify.com/album/0CZ66Y3fWW3kptJQyM5kDC"
+      },
+      "artists": [
+        {
+          "name": "Wang",
+          "url": "https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy"
+        }
+      ],
+      "duration_ms": 170909,
+      "name": "Idrogeios",
+      "url": "https://open.spotify.com/track/77S1MD14JNFGwTVlr1NLTh"
+    },
+    {
+      "added_at": "2023-04-23 09:21:47",
       "album": {
         "name": "Epikindinoi Polites",
         "url": "https://open.spotify.com/album/2LJy25bS5oVev1McEqaNWn"
@@ -593,23 +629,7 @@
       "url": "https://open.spotify.com/track/09vYLUMM3T0Ewf1oqQHsr0"
     },
     {
-      "added_at": "2023-04-22 10:07:12",
-      "album": {
-        "name": "Idrogeios",
-        "url": "https://open.spotify.com/album/0CZ66Y3fWW3kptJQyM5kDC"
-      },
-      "artists": [
-        {
-          "name": "Wang",
-          "url": "https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy"
-        }
-      ],
-      "duration_ms": 170909,
-      "name": "Idrogeios",
-      "url": "https://open.spotify.com/track/77S1MD14JNFGwTVlr1NLTh"
-    },
-    {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
       "album": {
         "name": "KATOSTARI",
         "url": "https://open.spotify.com/album/6ZCwshLuqtR1UE1iAVgPEu"
@@ -629,67 +649,7 @@
       "url": "https://open.spotify.com/track/6BD0v9IBfEGUkEDutrD9sF"
     },
     {
-      "added_at": "2023-04-22 10:07:12",
-      "album": {
-        "name": "Forema",
-        "url": "https://open.spotify.com/album/7L0CPtSxiCvErPmV2O0VcA"
-      },
-      "artists": [
-        {
-          "name": "Roi 6/12",
-          "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
-        },
-        {
-          "name": "TOQUEL",
-          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
-        }
-      ],
-      "duration_ms": 170889,
-      "name": "Forema",
-      "url": "https://open.spotify.com/track/2WmQtBy5wG8rdeqYhwljNK"
-    },
-    {
-      "added_at": "2023-04-22 10:07:12",
-      "album": {
-        "name": "Romeo",
-        "url": "https://open.spotify.com/album/2OnQLL9RttxYadI0WMt5MU"
-      },
-      "artists": [
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        },
-        {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
-        }
-      ],
-      "duration_ms": 175472,
-      "name": "24hrs",
-      "url": "https://open.spotify.com/track/2QDibAx72jveQXPBXOKjx2"
-    },
-    {
-      "added_at": "2023-04-22 10:07:12",
-      "album": {
-        "name": "LIBERTA",
-        "url": "https://open.spotify.com/album/049c0BOb2WWKTE7QoSZr2F"
-      },
-      "artists": [
-        {
-          "name": "Hawk",
-          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
-        },
-        {
-          "name": "Baghdad",
-          "url": "https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma"
-        }
-      ],
-      "duration_ms": 147288,
-      "name": "CELINE",
-      "url": "https://open.spotify.com/track/2oAoWaGzQeq8JMywmukQ8J"
-    },
-    {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
       "album": {
         "name": "Larry Hoover",
         "url": "https://open.spotify.com/album/62craosPn4iuKVMNBM6xqX"
@@ -709,7 +669,27 @@
       "url": "https://open.spotify.com/track/1VbsLy6fugQV3mBK7e9mS0"
     },
     {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
+      "album": {
+        "name": "Forema",
+        "url": "https://open.spotify.com/album/7L0CPtSxiCvErPmV2O0VcA"
+      },
+      "artists": [
+        {
+          "name": "Roi 6/12",
+          "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
+        },
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        }
+      ],
+      "duration_ms": 170889,
+      "name": "Forema",
+      "url": "https://open.spotify.com/track/2WmQtBy5wG8rdeqYhwljNK"
+    },
+    {
+      "added_at": "2023-04-23 09:21:47",
       "album": {
         "name": "IPIZME",
         "url": "https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR"
@@ -725,7 +705,7 @@
       "url": "https://open.spotify.com/track/2cXQUlkrLVrfxOJe6wjhJb"
     },
     {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
       "album": {
         "name": "AGAPI",
         "url": "https://open.spotify.com/album/2ZFVdO5bmm6Ju60YizRw1C"
@@ -741,51 +721,27 @@
       "url": "https://open.spotify.com/track/72bjMYZpSvvqReSTN0UakQ"
     },
     {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
       "album": {
-        "name": "RACKATTACK 2",
-        "url": "https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8"
+        "name": "LIBERTA",
+        "url": "https://open.spotify.com/album/049c0BOb2WWKTE7QoSZr2F"
       },
       "artists": [
         {
-          "name": "RACK",
-          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+          "name": "Hawk",
+          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
         },
         {
-          "name": "Oge",
-          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
-        },
-        {
-          "name": "MENJU",
-          "url": "https://open.spotify.com/artist/0LEXmZvtgBqS9MZgqpLU6f"
+          "name": "Baghdad",
+          "url": "https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma"
         }
       ],
-      "duration_ms": 169811,
-      "name": "FAVELA",
-      "url": "https://open.spotify.com/track/0OyiXp4CdjqOYDSpzgfEx7"
+      "duration_ms": 147288,
+      "name": "CELINE",
+      "url": "https://open.spotify.com/track/2oAoWaGzQeq8JMywmukQ8J"
     },
     {
-      "added_at": "2023-04-22 10:07:12",
-      "album": {
-        "name": "RACKATTACK 2",
-        "url": "https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8"
-      },
-      "artists": [
-        {
-          "name": "RACK",
-          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
-        },
-        {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/1OGTkqFF8EmYZvDLuHAXsw"
-    },
-    {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
       "album": {
         "name": "Patision",
         "url": "https://open.spotify.com/album/4rJye0aUg1bFsNsaIiFMvP"
@@ -805,31 +761,7 @@
       "url": "https://open.spotify.com/track/68VZOnnBf2YQE938rglfzb"
     },
     {
-      "added_at": "2023-04-22 10:07:12",
-      "album": {
-        "name": "Dancer",
-        "url": "https://open.spotify.com/album/4BlOpO1r4PS3zQ6pK5Otp1"
-      },
-      "artists": [
-        {
-          "name": "RACK",
-          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
-        },
-        {
-          "name": "MENJU",
-          "url": "https://open.spotify.com/artist/0LEXmZvtgBqS9MZgqpLU6f"
-        },
-        {
-          "name": "Oge",
-          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
-        }
-      ],
-      "duration_ms": 172121,
-      "name": "Dancer",
-      "url": "https://open.spotify.com/track/24Zq6jOHkjoPOQn42ZyRJs"
-    },
-    {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
       "album": {
         "name": "Lamborghini Weiss",
         "url": "https://open.spotify.com/album/6tB6wvHUa99qQv9lTihIST"
@@ -849,51 +781,7 @@
       "url": "https://open.spotify.com/track/60zQyrq9mbhlE4YxTkudjO"
     },
     {
-      "added_at": "2023-04-22 10:07:12",
-      "album": {
-        "name": "Habibi (feat. Ricky Rich) [Greek Remix]",
-        "url": "https://open.spotify.com/album/6TgvQdHWVklTEWOb3cwNdK"
-      },
-      "artists": [
-        {
-          "name": "Fy",
-          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
-        },
-        {
-          "name": "Ricky Rich",
-          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
-        }
-      ],
-      "duration_ms": 179133,
-      "name": "Habibi (feat. Ricky Rich) - Greek Remix",
-      "url": "https://open.spotify.com/track/2AnS79agFiksGX85ML5T5r"
-    },
-    {
-      "added_at": "2023-04-22 10:07:12",
-      "album": {
-        "name": "Romeo",
-        "url": "https://open.spotify.com/album/2OnQLL9RttxYadI0WMt5MU"
-      },
-      "artists": [
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        },
-        {
-          "name": "Melisses",
-          "url": "https://open.spotify.com/artist/2ra3quFhImLyv0c9XTnWFl"
-        },
-        {
-          "name": "Skive",
-          "url": "https://open.spotify.com/artist/1zDXh0x75B4zPVsAHDuTnO"
-        }
-      ],
-      "duration_ms": 223076,
-      "name": "Epiloges",
-      "url": "https://open.spotify.com/track/5btENPtD4TAjRGkC4IXafe"
-    },
-    {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
       "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/3HX0kjaTKaBiwaBhlZbGNc"
@@ -917,27 +805,159 @@
       "url": "https://open.spotify.com/track/29kTgA9pGo9RYwhED65ZrS"
     },
     {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
       "album": {
-        "name": "Double Fantasy",
-        "url": "https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm"
+        "name": "Dancer",
+        "url": "https://open.spotify.com/album/4BlOpO1r4PS3zQ6pK5Otp1"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "MENJU",
+          "url": "https://open.spotify.com/artist/0LEXmZvtgBqS9MZgqpLU6f"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
         }
       ],
-      "duration_ms": 268235,
-      "name": "Double Fantasy (with Future)",
-      "url": "https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi"
+      "duration_ms": 172121,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/24Zq6jOHkjoPOQn42ZyRJs"
     },
     {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
+      "album": {
+        "name": "RACKATTACK 2",
+        "url": "https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8"
+      },
+      "artists": [
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/1OGTkqFF8EmYZvDLuHAXsw"
+    },
+    {
+      "added_at": "2023-04-23 09:21:47",
+      "album": {
+        "name": "RACKATTACK 2",
+        "url": "https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8"
+      },
+      "artists": [
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        },
+        {
+          "name": "MENJU",
+          "url": "https://open.spotify.com/artist/0LEXmZvtgBqS9MZgqpLU6f"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "FAVELA",
+      "url": "https://open.spotify.com/track/0OyiXp4CdjqOYDSpzgfEx7"
+    },
+    {
+      "added_at": "2023-04-23 09:21:47",
+      "album": {
+        "name": "CASH OUT",
+        "url": "https://open.spotify.com/album/2Giwt3uclV3cTdNXwgA0G7"
+      },
+      "artists": [
+        {
+          "name": "Mikros Kleftis",
+          "url": "https://open.spotify.com/artist/1WNkrtDTdQ5izZf5L372i9"
+        },
+        {
+          "name": "Tsaki",
+          "url": "https://open.spotify.com/artist/2S6IpjPbMmKLJMhUJCIFMB"
+        },
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+        }
+      ],
+      "duration_ms": 219033,
+      "name": "CASH OUT",
+      "url": "https://open.spotify.com/track/4HUybQN2HMxIigH0pxFhOM"
+    },
+    {
+      "added_at": "2023-04-23 09:21:47",
+      "album": {
+        "name": "Habibi (feat. Ricky Rich) [Greek Remix]",
+        "url": "https://open.spotify.com/album/6TgvQdHWVklTEWOb3cwNdK"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        },
+        {
+          "name": "Ricky Rich",
+          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
+        }
+      ],
+      "duration_ms": 179133,
+      "name": "Habibi (feat. Ricky Rich) - Greek Remix",
+      "url": "https://open.spotify.com/track/2AnS79agFiksGX85ML5T5r"
+    },
+    {
+      "added_at": "2023-04-23 09:21:47",
+      "album": {
+        "name": "Romeo",
+        "url": "https://open.spotify.com/album/2OnQLL9RttxYadI0WMt5MU"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Melisses",
+          "url": "https://open.spotify.com/artist/2ra3quFhImLyv0c9XTnWFl"
+        },
+        {
+          "name": "Skive",
+          "url": "https://open.spotify.com/artist/1zDXh0x75B4zPVsAHDuTnO"
+        }
+      ],
+      "duration_ms": 223076,
+      "name": "Epiloges",
+      "url": "https://open.spotify.com/track/5btENPtD4TAjRGkC4IXafe"
+    },
+    {
+      "added_at": "2023-04-23 09:21:47",
+      "album": {
+        "name": "Mystiko",
+        "url": "https://open.spotify.com/album/5ruMMEECIHyMLj2geMcKi3"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Mystiko",
+      "url": "https://open.spotify.com/track/7k2h3IHuFUQLclllRPRKTZ"
+    },
+    {
+      "added_at": "2023-04-23 09:21:47",
       "album": {
         "name": "Strippers",
         "url": "https://open.spotify.com/album/2xXJ2jo6EKnvHCxe8Cgeeh"
@@ -957,7 +977,7 @@
       "url": "https://open.spotify.com/track/21XpNalPqaFWQD0SwpIH8S"
     },
     {
-      "added_at": "2023-04-22 10:07:12",
+      "added_at": "2023-04-23 09:21:47",
       "album": {
         "name": "Top Gynaika",
         "url": "https://open.spotify.com/album/5tutK8cdQ8Uv2a4eSFENPt"
@@ -971,26 +991,6 @@
       "duration_ms": 172800,
       "name": "Top Gynaika",
       "url": "https://open.spotify.com/track/19gdZ8yp64aCk8Y7wVmSkN"
-    },
-    {
-      "added_at": "2023-04-22 10:07:12",
-      "album": {
-        "name": "Oneiro",
-        "url": "https://open.spotify.com/album/4l5nAvnvq1GxTUrTkNItoD"
-      },
-      "artists": [
-        {
-          "name": "Lava",
-          "url": "https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O"
-        },
-        {
-          "name": "ROPEX LATERIO",
-          "url": "https://open.spotify.com/artist/2WpUXBjLm8j8tnrAZ4s9v9"
-        }
-      ],
-      "duration_ms": 145841,
-      "name": "Oneiro",
-      "url": "https://open.spotify.com/track/7k1eAeEvBo49rHcUwRuZbU"
     }
   ],
   "unique_name": "Top 50 - Greece",

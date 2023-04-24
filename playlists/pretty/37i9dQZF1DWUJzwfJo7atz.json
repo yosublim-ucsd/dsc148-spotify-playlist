@@ -1,12 +1,12 @@
 {
   "description": "cute moments in fields and on dancefloors #SpotifyWrapped",
-  "num_followers": 27699,
+  "num_followers": 27873,
   "original_name": "dance tracks we hugged our friends to in 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxOTg1NCwwMDAwMDAwMDY1Zjc0YjdiODZhNGVkNWRkYWNkNjM2NjYzM2UxNzMy",
+  "snapshot_id": "MTY2OTgxOTg1NCwwMDAwMDAwMDcyYzdkMzNhMzAwMWEyOTkwODYzZGQ1NGY4NzQxMTI0",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "Intimate Fantasy - EP",
+        "url": "https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        }
+      ],
+      "duration_ms": 493000,
+      "name": "Intimate Fantasy",
+      "url": "https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/7uFPxf7dz1jdeBj6fyVVLi"
       },
@@ -851,18 +867,18 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Intimate Fantasy - EP",
-        "url": "https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW"
+        "name": "Lose Your Senses",
+        "url": "https://open.spotify.com/album/6yLyY2UFppJXFz2jVXTKUM"
       },
       "artists": [
         {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+          "name": "Cubicolor",
+          "url": "https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU"
         }
       ],
-      "duration_ms": 493000,
-      "name": "Intimate Fantasy",
-      "url": "https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq"
+      "duration_ms": 388000,
+      "name": "Lose Your Senses",
+      "url": "https://open.spotify.com/track/4UGtoN1j6i8gtMb64Y2cDY"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -883,22 +899,6 @@
       "duration_ms": 287187,
       "name": "My Heart Still Leans On You",
       "url": "https://open.spotify.com/track/7hTcipfBVimzXdYd9ynEbA"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Lose Your Senses",
-        "url": "https://open.spotify.com/album/6yLyY2UFppJXFz2jVXTKUM"
-      },
-      "artists": [
-        {
-          "name": "Cubicolor",
-          "url": "https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU"
-        }
-      ],
-      "duration_ms": 388000,
-      "name": "Lose Your Senses",
-      "url": "https://open.spotify.com/track/4UGtoN1j6i8gtMb64Y2cDY"
     },
     {
       "added_at": "2022-11-30 13:46:00",

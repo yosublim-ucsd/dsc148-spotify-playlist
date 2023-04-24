@@ -731,6 +731,24 @@
     },
     {
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/0rHlMdFWf9O4Uehk8lbRSE"
+      },
+      "artists": [
+        {
+          "name": "Alci Acosta",
+          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152531,
+      "name": "El Contragolpe",
+      "url": "https://open.spotify.com/track/3ee4qpNizzlfrIa0LHR6Se"
+    },
+    {
+      "album": {
         "name": "\u00c9xitos Alci Acosta",
         "url": "https://open.spotify.com/album/5c8Vcm1PxAAaov2j1opRJa"
       },
@@ -1644,7 +1662,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-24",
       "duration_ms": 264276,
       "name": "Otra Copa",
       "url": "https://open.spotify.com/track/48L73UQjzeXjq7MjDAe12U"

@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-24",
       "duration_ms": 288902,
       "name": "Ach'hadlak",
       "url": "https://open.spotify.com/track/11Jp7Vr2b27YFeWeafF7XR"
@@ -1112,6 +1112,24 @@
       "duration_ms": 202355,
       "name": "Number One",
       "url": "https://open.spotify.com/track/4Id75p83qqiEqdtNbKLaA3"
+    },
+    {
+      "album": {
+        "name": "Number One",
+        "url": "https://open.spotify.com/album/5RjAy45kTmJuYJMYBmnjvE"
+      },
+      "artists": [
+        {
+          "name": "Roro Harb",
+          "url": "https://open.spotify.com/artist/6elTvTRNhLBk1crtgxGGhb"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202391,
+      "name": "Number One",
+      "url": "https://open.spotify.com/track/2nRDYg5oPbvLtrDD2oEnRq"
     },
     {
       "album": {

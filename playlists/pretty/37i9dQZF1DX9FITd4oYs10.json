@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQxNzI2MCwwMDAwMDAwMGI5MTBjMWRkY2JiZTVjNzUzMmZhNjNiZTVlMDk2ZGNm",
+  "snapshot_id": "MTY3ODQxNzI2MCwwMDAwMDAwMDA5NDZhMTliOWVjNDc1NDUzNjM2NmMwNGFjODExZjg4",
   "tracks": [
     {
       "added_at": "2023-03-10 03:01:00",
@@ -1091,6 +1091,38 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/09pLe9TmUD5UxYWiWqjBqf"
+      },
+      "artists": [
+        {
+          "name": "Entre Linhas",
+          "url": "https://open.spotify.com/artist/0JGXguxnX2MUk3joFyJPjX"
+        },
+        {
+          "name": "Kuririn",
+          "url": "https://open.spotify.com/artist/6R85n4akSmUKlnYZ2QnzmC"
+        },
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/6g0nBehL70Q9AW8jozS0JS"
+        },
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        }
+      ],
+      "duration_ms": 217392,
+      "name": "Cake",
+      "url": "https://open.spotify.com/track/4c98woI6F0ptrGFyK8O1m2"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
         "name": "The Cypher Deffect 2",
         "url": "https://open.spotify.com/album/4blnaSPrTVDqEN4Bg1Cmgb"
       },
@@ -1159,38 +1191,6 @@
       "duration_ms": 398478,
       "name": "Poetas no Topo 1",
       "url": "https://open.spotify.com/track/0buQLT5lhSRs7wtunIeK8v"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/09pLe9TmUD5UxYWiWqjBqf"
-      },
-      "artists": [
-        {
-          "name": "Entre Linhas",
-          "url": "https://open.spotify.com/artist/0JGXguxnX2MUk3joFyJPjX"
-        },
-        {
-          "name": "Kuririn",
-          "url": "https://open.spotify.com/artist/6R85n4akSmUKlnYZ2QnzmC"
-        },
-        {
-          "name": "Kweller",
-          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
-        },
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/6g0nBehL70Q9AW8jozS0JS"
-        },
-        {
-          "name": "Jay Kay",
-          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
-        }
-      ],
-      "duration_ms": 217392,
-      "name": "Cake",
-      "url": "https://open.spotify.com/track/4c98woI6F0ptrGFyK8O1m2"
     },
     {
       "added_at": "2023-03-10 03:01:00",

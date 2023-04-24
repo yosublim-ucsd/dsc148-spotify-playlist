@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX498BFhhV3NJ.md) - [plain]
 
 > There's no stopping global superstar <a href="spotify:artist:28uJnu5EsrGml2tBd7y8ts">Vintage Culture</a>\. The Brazilian DJ releases a melodic and progressive mix that keeps you wanting more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,081 likes - 13 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,126 likes - 13 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

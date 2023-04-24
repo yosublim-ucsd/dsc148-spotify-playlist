@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: king isis
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,902 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,945 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 81 | [Gentleman](https://open.spotify.com/track/55FCJLORvnx3gbA5BLNHXk) | [Lonely Pirate Committee](https://open.spotify.com/artist/2vsjCgyBZaH29ekrJRrpf2) | [Gentleman](https://open.spotify.com/album/4C3xU3ky500oslwuJPv16X) | 2:42 |
 | 82 | [Toe](https://open.spotify.com/track/1Z7LSyAta9hXgcPs14yLLt) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f) | [Toe](https://open.spotify.com/album/1JJFNlAqSGHhfLJtN435dI) | 2:22 |
 | 83 | [Loaded Gun](https://open.spotify.com/track/7mH0fZKktrJ5Hbijrnp7OF) | [Quinn Christopherson](https://open.spotify.com/artist/0tzC81XDBWtTPfJyUg6O2j) | [I Am Bubblegum](https://open.spotify.com/album/45YoZEm1LM9BkOFKTBsjM3) | 3:42 |
-| 84 | [Faster Than The Medicine](https://open.spotify.com/track/52O9zmIwfNyHtEVPN2Zvwk) | [Lael Neale](https://open.spotify.com/artist/7mi56yFiPlaLW2PtsZnoWF) | [Faster Than The Medicine](https://open.spotify.com/album/3ZIOfr2vApXOvNJYF07mLL) | 4:25 |
+| 84 | [Faster Than The Medicine](https://open.spotify.com/track/7D6aVgVt0iCxzP185qMJFr) | [Lael Neale](https://open.spotify.com/artist/7mi56yFiPlaLW2PtsZnoWF) | [Star Eaters Delight](https://open.spotify.com/album/00119SbrFWBZbw3jtrvZbV) | 4:25 |
 | 85 | [TV in the Gas Pump](https://open.spotify.com/track/2C3YgXBZpZx0FoguTk0fbj) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [TV in the Gas Pump](https://open.spotify.com/album/1KCYvFcQ0eLIx9Kpmr4WgX) | 2:22 |
 | 86 | [Germaphobe](https://open.spotify.com/track/7etS3cjv6GvXvLmpdNDMS0) | [Mim Jensen](https://open.spotify.com/artist/7L4lg0Xa7QyV1isN000LEg) | [Germaphobe](https://open.spotify.com/album/0HpqNDpCRilFNZso1M2XJX) | 4:20 |
 | 87 | [Headland](https://open.spotify.com/track/5eOpEzv3ftBbzS7tkVOimJ) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [Cures for Opposites](https://open.spotify.com/album/6hNwZmO8FIXPhhQKrbew75) | 4:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Quotidian](https://open.spotify.com/track/0WHOeXFbBnzskl9rRc686O) | [EVNTYD](https://open.spotify.com/artist/3z32J9a8nv9EJKQX07bwxh) | [Eventide](https://open.spotify.com/album/5n4twzXZkAwdZFAJFCI5jj) | 4:32 |
 | 100 | [Dry](https://open.spotify.com/track/3B1BzvXzF4Xhre3SLxTDz7) | [psykhi](https://open.spotify.com/artist/6Jv3pqZlwHy3RlsfdBGbRc) | [Dry](https://open.spotify.com/album/66IrzcJ0xrFyfzeh51DbyS) | 3:59 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDhkOTNiNGM3YjIxZDdmMDhiZmYyNDFmNzVhNDJiZjQz`
+Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMGE4MzNlYmJhYzdjZmU0OWMwMjdhNjA4MzM1Y2UzNWYz`

@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 4967,
+  "num_followers": 4971,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTUzMiwwMDAwMDAwMDNlOTFmOTE2N2ViNzM4N2M1MTQ4OGVlOTJjNDczMjI3",
+  "snapshot_id": "MTY3OTkwNTUzMiwwMDAwMDAwMGYzM2EyODM3OGU0NzcxYzZhNjhhNDExYTlmZTZmMDc2",
   "tracks": [
     {
       "added_at": "2023-03-27 08:25:32",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-03-27 08:25:32",
       "album": {
-        "name": "Kim Hyung Joong",
-        "url": "https://open.spotify.com/album/2PqgCecKYA280VFveIfHCN"
-      },
-      "artists": [
-        {
-          "name": "\uae40\ud615\uc911",
-          "url": "https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp"
-        }
-      ],
-      "duration_ms": 269832,
-      "name": "\uadf8\ub7ac\ub098\ubd10",
-      "url": "https://open.spotify.com/track/73sCf6xzgU9gJrkxz45HLz"
-    },
-    {
-      "added_at": "2023-03-27 08:25:32",
-      "album": {
         "name": "Exhibition 2",
         "url": "https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 320055,
       "name": "Druken Truth",
       "url": "https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw"
+    },
+    {
+      "added_at": "2023-03-27 08:25:32",
+      "album": {
+        "name": "Kim Hyung Joong",
+        "url": "https://open.spotify.com/album/2PqgCecKYA280VFveIfHCN"
+      },
+      "artists": [
+        {
+          "name": "\uae40\ud615\uc911",
+          "url": "https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp"
+        }
+      ],
+      "duration_ms": 269832,
+      "name": "\uadf8\ub7ac\ub098\ubd10",
+      "url": "https://open.spotify.com/track/73sCf6xzgU9gJrkxz45HLz"
     },
     {
       "added_at": "2023-03-27 08:25:32",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-03-27 08:25:32",
       "album": {
-        "name": "Subtitle",
-        "url": "https://open.spotify.com/album/6o0BLd2crZG1yXqFX6HWVH"
+        "name": "19to20",
+        "url": "https://open.spotify.com/album/7zq8yS4JkTPQNRrS8lptY1"
       },
       "artists": [
         {
-          "name": "Western Kite",
-          "url": "https://open.spotify.com/artist/3Ut5D9lZhPzIdAnInEltxw"
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
         }
       ],
-      "duration_ms": 194508,
-      "name": "\uc9dd\uc0ac\ub791 Zzak Sarang",
-      "url": "https://open.spotify.com/track/4byD6wDh7z54vwLjXIAfEa"
+      "duration_ms": 219440,
+      "name": "to him",
+      "url": "https://open.spotify.com/track/1w5xpDtyMckJYrrn9Z1bEX"
     },
     {
       "added_at": "2023-03-27 08:25:32",
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-03-27 08:25:32",
       "album": {
-        "name": "19to20",
-        "url": "https://open.spotify.com/album/7zq8yS4JkTPQNRrS8lptY1"
+        "name": "Subtitle",
+        "url": "https://open.spotify.com/album/6o0BLd2crZG1yXqFX6HWVH"
       },
       "artists": [
         {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+          "name": "Western Kite",
+          "url": "https://open.spotify.com/artist/3Ut5D9lZhPzIdAnInEltxw"
         }
       ],
-      "duration_ms": 219440,
-      "name": "to him",
-      "url": "https://open.spotify.com/track/1w5xpDtyMckJYrrn9Z1bEX"
+      "duration_ms": 194508,
+      "name": "\uc9dd\uc0ac\ub791 Zzak Sarang",
+      "url": "https://open.spotify.com/track/4byD6wDh7z54vwLjXIAfEa"
     },
     {
       "added_at": "2023-03-27 08:25:32",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-03-27 08:25:32",
       "album": {
-        "name": "Loving You is Loving Me",
-        "url": "https://open.spotify.com/album/1siSojvN7zaZDxad6nqGFG"
-      },
-      "artists": [
-        {
-          "name": "Han Yeoyoo",
-          "url": "https://open.spotify.com/artist/3PJavkoaMGLEC06SDMvBoP"
-        }
-      ],
-      "duration_ms": 223258,
-      "name": "Loving You is Loving Me",
-      "url": "https://open.spotify.com/track/3cEJ1hsDcIELeduLDttZLd"
-    },
-    {
-      "added_at": "2023-03-27 08:25:32",
-      "album": {
         "name": "4X4",
         "url": "https://open.spotify.com/album/33VSRiAN7EjjGEmPZDNkV7"
       },
@@ -779,18 +763,18 @@
     {
       "added_at": "2023-03-27 08:25:32",
       "album": {
-        "name": "One-sided love",
-        "url": "https://open.spotify.com/album/2mnjRuCNcTfR1PkNUxJAbw"
+        "name": "Loving You is Loving Me",
+        "url": "https://open.spotify.com/album/1siSojvN7zaZDxad6nqGFG"
       },
       "artists": [
         {
-          "name": "Sogaksogak",
-          "url": "https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ"
+          "name": "Han Yeoyoo",
+          "url": "https://open.spotify.com/artist/3PJavkoaMGLEC06SDMvBoP"
         }
       ],
-      "duration_ms": 190586,
-      "name": "One-sided love",
-      "url": "https://open.spotify.com/track/5hGGFQG9xk0pugYkOntWH2"
+      "duration_ms": 223258,
+      "name": "Loving You is Loving Me",
+      "url": "https://open.spotify.com/track/3cEJ1hsDcIELeduLDttZLd"
     },
     {
       "added_at": "2023-03-27 08:25:32",
@@ -807,6 +791,22 @@
       "duration_ms": 251105,
       "name": "Wanna be her",
       "url": "https://open.spotify.com/track/0SrnU0smAgD9CdD6591gKN"
+    },
+    {
+      "added_at": "2023-03-27 08:25:32",
+      "album": {
+        "name": "One-sided love",
+        "url": "https://open.spotify.com/album/2mnjRuCNcTfR1PkNUxJAbw"
+      },
+      "artists": [
+        {
+          "name": "Sogaksogak",
+          "url": "https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "One-sided love",
+      "url": "https://open.spotify.com/track/5hGGFQG9xk0pugYkOntWH2"
     },
     {
       "added_at": "2023-03-27 08:25:32",

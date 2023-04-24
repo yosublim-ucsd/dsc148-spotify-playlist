@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: INNA",
-  "num_followers": 892368,
+  "num_followers": 892351,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ3NDMxNiwwMDAwMDAwMGU2MDhjYTBkYzI2NTU4MWU4MjYwNDU1OWNkZDkzY2Fk",
+  "snapshot_id": "MTY4MTQ3NDMxNiwwMDAwMDAwMGQ5OTJhYjVjY2QzNTk5NzJmMjY0Y2VkNDRlMDAzMzVk",
   "tracks": [
     {
       "added_at": "2023-04-05 04:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Pearls",
-        "url": "https://open.spotify.com/album/0hYPHftx8NuPLay4HGNnbX"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 243106,
-      "name": "Pearls",
-      "url": "https://open.spotify.com/track/6PUo33nojdU5hWhMR0zRuf"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Just Because",
         "url": "https://open.spotify.com/album/4KE1Eeu0tO0f2czX9pfaRc"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 193246,
       "name": "Just Because",
       "url": "https://open.spotify.com/track/3Ues7YM3y8JYnTeu2OYFVH"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "Pearls",
+        "url": "https://open.spotify.com/album/0hYPHftx8NuPLay4HGNnbX"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 243106,
+      "name": "Pearls",
+      "url": "https://open.spotify.com/track/6PUo33nojdU5hWhMR0zRuf"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Ama Fygeis",
-        "url": "https://open.spotify.com/album/3NLU6sOMtaSYuaDdYVVH3u"
-      },
-      "artists": [
-        {
-          "name": "Ellize",
-          "url": "https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH"
-        }
-      ],
-      "duration_ms": 183815,
-      "name": "Ama Fygeis",
-      "url": "https://open.spotify.com/track/3a25lrQ9qsJQPj3gNSC7wJ"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Tiempo Indefinido",
         "url": "https://open.spotify.com/album/4UBAXB1P4GiQoPXoprX1Xd"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 137167,
       "name": "Tiempo Indefinido",
       "url": "https://open.spotify.com/track/5olfCMs2dCnGsz6ZQPSmYy"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "Ama Fygeis",
+        "url": "https://open.spotify.com/album/3NLU6sOMtaSYuaDdYVVH3u"
+      },
+      "artists": [
+        {
+          "name": "Ellize",
+          "url": "https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH"
+        }
+      ],
+      "duration_ms": 183815,
+      "name": "Ama Fygeis",
+      "url": "https://open.spotify.com/track/3a25lrQ9qsJQPj3gNSC7wJ"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "if i fall for you",
-        "url": "https://open.spotify.com/album/5ZmHCATrtaAL8awlrlxBZW"
+        "name": "Never Too Late, My Path, Mi Way",
+        "url": "https://open.spotify.com/album/3tXW0dL5F856wvxxZ1BYPA"
       },
       "artists": [
         {
-          "name": "Karin Ann",
-          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
+          "name": "\u8449\u5de7\u7433",
+          "url": "https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs"
         }
       ],
-      "duration_ms": 186405,
-      "name": "if i fall for you",
-      "url": "https://open.spotify.com/track/1vtHdaq48zvFsHjYkn8R9a"
+      "duration_ms": 260398,
+      "name": "\u96e3\u9053\u6211\u9084\u672a\u5920\u96e3",
+      "url": "https://open.spotify.com/track/6LOP8nbFXFydvDELLs1uss"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -619,34 +619,18 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Never Too Late, My Path, Mi Way",
-        "url": "https://open.spotify.com/album/3tXW0dL5F856wvxxZ1BYPA"
+        "name": "if i fall for you",
+        "url": "https://open.spotify.com/album/5ZmHCATrtaAL8awlrlxBZW"
       },
       "artists": [
         {
-          "name": "\u8449\u5de7\u7433",
-          "url": "https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs"
+          "name": "Karin Ann",
+          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
         }
       ],
-      "duration_ms": 260398,
-      "name": "\u96e3\u9053\u6211\u9084\u672a\u5920\u96e3",
-      "url": "https://open.spotify.com/track/6LOP8nbFXFydvDELLs1uss"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
-        "name": "Batom",
-        "url": "https://open.spotify.com/album/6w1tgURgujpFVofGsctRC7"
-      },
-      "artists": [
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 212147,
-      "name": "Batom",
-      "url": "https://open.spotify.com/track/7L77rpmvDOZw735WrQ6lV2"
+      "duration_ms": 186405,
+      "name": "if i fall for you",
+      "url": "https://open.spotify.com/track/1vtHdaq48zvFsHjYkn8R9a"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -671,6 +655,22 @@
       "duration_ms": 544565,
       "name": "Aye Khuda",
       "url": "https://open.spotify.com/track/7vIEXrKp0MXaGkiqJ8qVhx"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "Batom",
+        "url": "https://open.spotify.com/album/6w1tgURgujpFVofGsctRC7"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 212147,
+      "name": "Batom",
+      "url": "https://open.spotify.com/track/7L77rpmvDOZw735WrQ6lV2"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Can't Control",
-        "url": "https://open.spotify.com/album/7nez9h7CDSZtWNVyAuC8Co"
-      },
-      "artists": [
-        {
-          "name": "LOVRA",
-          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
-        }
-      ],
-      "duration_ms": 177139,
-      "name": "Can't Control",
-      "url": "https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Ma che Hit",
         "url": "https://open.spotify.com/album/46ei2Xa6C9yAOrnmKDRdOA"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 138500,
       "name": "Ma che Hit",
       "url": "https://open.spotify.com/track/0UdDpDeyyidQZISEhEqAMH"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "Can't Control",
+        "url": "https://open.spotify.com/album/7nez9h7CDSZtWNVyAuC8Co"
+      },
+      "artists": [
+        {
+          "name": "LOVRA",
+          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
+        }
+      ],
+      "duration_ms": 177139,
+      "name": "Can't Control",
+      "url": "https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Mis Mejores Poses",
-        "url": "https://open.spotify.com/album/4mqqDapNQ10WynQPGRCkol"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Mis Mejores Poses",
-      "url": "https://open.spotify.com/track/7FZ5Dtc1RbWd0qXgFqZ4zS"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Lotus Glow",
         "url": "https://open.spotify.com/album/0e4dBWmBHPevyfC9Zle4mv"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 217985,
       "name": "Serena",
       "url": "https://open.spotify.com/track/6ZCfxKANLN7q0YoOHQ90hm"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "Mis Mejores Poses",
+        "url": "https://open.spotify.com/album/4mqqDapNQ10WynQPGRCkol"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Mis Mejores Poses",
+      "url": "https://open.spotify.com/track/7FZ5Dtc1RbWd0qXgFqZ4zS"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Kinesis",
-        "url": "https://open.spotify.com/album/5NmANPMiXncyAwoNXOW9tK"
-      },
-      "artists": [
-        {
-          "name": "Ana Sanz",
-          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
-        }
-      ],
-      "duration_ms": 199137,
-      "name": "Navego",
-      "url": "https://open.spotify.com/track/5ADyMWZM9dBKvRjCrfbu7j"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Big Band Theory Season2",
         "url": "https://open.spotify.com/album/5poVgYwr0JO5FDwJgxBUnb"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 233195,
       "name": "Mawaan Te Dhiyaan",
       "url": "https://open.spotify.com/track/2YjCorBTZCnYPZX7CgnRl4"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "Kinesis",
+        "url": "https://open.spotify.com/album/5NmANPMiXncyAwoNXOW9tK"
+      },
+      "artists": [
+        {
+          "name": "Ana Sanz",
+          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
+        }
+      ],
+      "duration_ms": 199137,
+      "name": "Navego",
+      "url": "https://open.spotify.com/track/5ADyMWZM9dBKvRjCrfbu7j"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "space",
-        "url": "https://open.spotify.com/album/7ygO9kMeqjmADYqdy7ZH3k"
-      },
-      "artists": [
-        {
-          "name": "Rahmania Astrini",
-          "url": "https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC"
-        }
-      ],
-      "duration_ms": 163414,
-      "name": "ground zero",
-      "url": "https://open.spotify.com/track/4BKGOLRScQzCal1o6A9XAL"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Forest song (Original Soundtrack \u00abMavka. The Forest Song)",
         "url": "https://open.spotify.com/album/5apkXbTZXtKz6uIBRXUv8Q"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 216405,
       "name": "Forest song - Original Soundtrack \u00abMavka. The Forest Song",
       "url": "https://open.spotify.com/track/1D0yDJG72EFzFsbPrINzXG"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "space",
+        "url": "https://open.spotify.com/album/7ygO9kMeqjmADYqdy7ZH3k"
+      },
+      "artists": [
+        {
+          "name": "Rahmania Astrini",
+          "url": "https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC"
+        }
+      ],
+      "duration_ms": 163414,
+      "name": "ground zero",
+      "url": "https://open.spotify.com/track/4BKGOLRScQzCal1o6A9XAL"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -1249,6 +1249,22 @@
       "url": "https://open.spotify.com/track/1vQcBRfHtlbPVUX1ryKGOe"
     },
     {
+      "added_at": "2023-04-14 12:11:56",
+      "album": {
+        "name": "OLE",
+        "url": "https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy"
+      },
+      "artists": [
+        {
+          "name": "Baaba J",
+          "url": "https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek"
+        }
+      ],
+      "duration_ms": 151932,
+      "name": "OLE",
+      "url": "https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF"
+    },
+    {
       "added_at": "2023-04-05 04:00:00",
       "album": {
         "name": "Aura",
@@ -1279,22 +1295,6 @@
       "duration_ms": 197826,
       "name": "No som el que fem i diem",
       "url": "https://open.spotify.com/track/04T93JsYDa5l5mwN7fG9L3"
-    },
-    {
-      "added_at": "2023-04-14 12:11:56",
-      "album": {
-        "name": "OLE",
-        "url": "https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy"
-      },
-      "artists": [
-        {
-          "name": "Baaba J",
-          "url": "https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek"
-        }
-      ],
-      "duration_ms": 151932,
-      "name": "OLE",
-      "url": "https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF"
     },
     {
       "added_at": "2023-04-05 04:00:00",

@@ -4,7 +4,7 @@
 
 > Strings and pianos to accompany your latest great read.
 
-161 songs - 8 hr 42 min
+162 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,11 +109,12 @@
 | [Once Again](https://open.spotify.com/track/6SFxknzg00olqCJl4QJEyq) | [Cierna Sobre Ti](https://open.spotify.com/artist/3B4uijr2TavmmonBtJgcW9) | [Once Again](https://open.spotify.com/album/2VneXLzvhPk5Wwn3rxSh1c) | 2:20 | 2022-07-15 | 2022-11-08 |
 | [Parting](https://open.spotify.com/track/5gIxQgKK5izo6feBaF3irX) | [Frans Bak](https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG) | [Parting](https://open.spotify.com/album/18XE2H5QkQyOmildEwhnIJ) | 4:53 | 2022-04-01 | 2022-08-30 |
 | [Partisans](https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Partisans](https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde) | 3:56 | 2022-04-22 | 2022-11-08 |
-| [Perceptions](https://open.spotify.com/track/0Vg0pWGNhanZaZX1K4u6RU) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Spirituality](https://open.spotify.com/album/0q4yViidvirc5Oki1E7Lu6) | 2:52 | 2022-11-07 |  |
+| [Perceptions](https://open.spotify.com/track/0Vg0pWGNhanZaZX1K4u6RU) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Spirituality](https://open.spotify.com/album/0q4yViidvirc5Oki1E7Lu6) | 2:52 | 2022-11-07 | 2023-04-24 |
 | [Perceptions](https://open.spotify.com/track/1TiUzgCfUD7oGutGByCmQr) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Spirituality](https://open.spotify.com/album/6GqKU68AVFxcWdVf1DN53G) | 2:52 | 2022-04-01 | 2022-07-29 |
 | [Perceptions](https://open.spotify.com/track/2p6aUfi3f2dP3CWzeyMj5W) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Spirituality](https://open.spotify.com/album/5Mg4X8prOVvFQTphWIxjSw) | 2:52 | 2022-11-07 | 2022-12-12 |
 | [Perceptions](https://open.spotify.com/track/3l2bfJwIejAb1RsLop8yQm) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Spirituality](https://open.spotify.com/album/6ytGMqdfc9lXcGPIxRB0y6) | 2:52 | 2022-11-07 | 2023-02-15 |
 | [Perceptions](https://open.spotify.com/track/6PwLqNEDYKaVhNk7Aeonnu) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Spirituality](https://open.spotify.com/album/5ITO0u3GqWfE5wIx2nXbJ5) | 2:52 | 2022-11-07 | 2023-01-19 |
+| [Perceptions](https://open.spotify.com/track/2AmTV3F2vLsWjDyALrga6T) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Spirituality](https://open.spotify.com/album/5BcPRt3YRZyq9vKkjMXuvF) | 2:53 | 2022-11-07 |  |
 | [Petrichor](https://open.spotify.com/track/3aocn9BnUsX1UsGAJ4tjcN) | [Evalian Massey](https://open.spotify.com/artist/79NDuAMpq7SsjrMzPvAqFZ) | [Petrichor](https://open.spotify.com/album/2AI9nQVGaE0TD3SyVGESLX) | 1:19 | 2022-04-01 | 2022-09-03 |
 | [Piano Trio No\. 2 in E Minor, Op\. 92: III\. Andante con moto](https://open.spotify.com/track/0gV4E8Muwz7pCkzxmyCYmG) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Trio Zadig](https://open.spotify.com/artist/7oWMf0cOlv11D8rSquhOd0) | [Orpheus\. Hommage à Saint\-Saëns](https://open.spotify.com/album/3ygvZKfgahI5BQfOFqV0FJ) | 4:08 | 2022-04-01 |  |
 | [Pinô](https://open.spotify.com/track/2Ai5UUXyxaulVbompgrzlo) | [Otto A\. Totland](https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl) | [Pinô](https://open.spotify.com/album/7uPWpTHYqHEQTpZIlgELQK) | 2:45 | 2022-04-22 | 2022-09-03 |

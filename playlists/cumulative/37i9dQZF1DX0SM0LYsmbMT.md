@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,447 songs - 5 day 12 hr 34 min
+3,448 songs - 5 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -509,7 +509,7 @@
 | [Cheeky Peak](https://open.spotify.com/track/1b4vtzaODrPqi7o055GNro) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Cheeky Peak](https://open.spotify.com/album/7yVQdlmKKWpt5XBbUr4781) | 1:31 | 2021-02-07 | 2021-04-23 |
 | [Cheeky Steve](https://open.spotify.com/track/4ZTVECvBdO9XU4tNhQcgQ0) | [Mr Mantega](https://open.spotify.com/artist/367E3x81QkJ0luGzpk8pqj) | [Cheeky Steve](https://open.spotify.com/album/4gfqyJDXiisIqxpm1t1eaV) | 2:27 | 2019-11-06 | 2020-04-07 |
 | [Cheer Up](https://open.spotify.com/track/0CVT6rpAdkDm4NKLdv7E9g) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt) | [Cheer Up](https://open.spotify.com/album/3W1TKjeKQawzmVlBGr9eOr) | 1:31 | 2022-03-10 | 2022-04-21 |
-| [cheesy zelda](https://open.spotify.com/track/2xrxAWTXk4OQ6H8qBQPTVB) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz), [Chirofafa](https://open.spotify.com/artist/5C9ZVCPJp5LOkCTu2sNbql) | [cheesy zelda](https://open.spotify.com/album/1zOX0bfjs7up6gpevkl7aq) | 2:38 | 2022-08-11 | 2023-04-22 |
+| [cheesy zelda](https://open.spotify.com/track/2xrxAWTXk4OQ6H8qBQPTVB) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz), [Chirofafa](https://open.spotify.com/artist/5C9ZVCPJp5LOkCTu2sNbql) | [cheesy zelda](https://open.spotify.com/album/1zOX0bfjs7up6gpevkl7aq) | 2:38 | 2022-08-11 |  |
 | [Chef's Special](https://open.spotify.com/track/600urY4NaWoTnxBCiLtnTC) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ) | [Chef's Special](https://open.spotify.com/album/7L0C8hrn4k6LHiw4DzBtgd) | 2:48 | 2022-02-11 | 2022-08-25 |
 | [Cherish](https://open.spotify.com/track/78N0RtQlSBjA33HzjQkSgV) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Cherish](https://open.spotify.com/album/3kncUh59wwNt2F2SCLAGvQ) | 1:51 | 2021-01-29 | 2021-05-14 |
 | [cherry](https://open.spotify.com/track/51mcuqQpPcsMRZ5KW0A0In) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [cherry](https://open.spotify.com/album/1wTr0NeYZivAevFTP2gU6a) | 2:06 | 2019-12-11 | 2020-04-24 |
@@ -2592,7 +2592,7 @@
 | [Shibuya Station](https://open.spotify.com/track/16mlaFRQkpfUxlrg1OWWZa) | [Tabi](https://open.spotify.com/artist/5BE83iQiIHIQZwcHZYCZMK) | [Shibuya Station](https://open.spotify.com/album/2Li1FntMdbzK1qT57uL90w) | 2:15 | 2022-07-14 | 2022-11-21 |
 | [Shibuya Station](https://open.spotify.com/track/3RPsh6RCp4bkxjjO2yZ0x1) | [Tabi](https://open.spotify.com/artist/5BE83iQiIHIQZwcHZYCZMK) | [Shibuya Station](https://open.spotify.com/album/3xs9Rb77LJHgoGjkm64sGz) | 2:15 | 2022-11-17 | 2023-03-31 |
 | [Shine](https://open.spotify.com/track/3KhuRg1cK2NSGFBG1D5SRg) | [H.1](https://open.spotify.com/artist/3azKf6nXrUCI1RLZkX4Aj6) | [Shine](https://open.spotify.com/album/7Fs7MsqeMY4dlEKm2jrSVb) | 1:54 | 2020-06-05 | 2020-08-08 |
-| [Shine](https://open.spotify.com/track/5d5HawCcm7tFx1OqFRflSN) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL), [CRFT](https://open.spotify.com/artist/4rwCk3DZwQa8uY7Cvfu4aM) | [Shine](https://open.spotify.com/album/3DAkFNSMSS8MmxHWwN329D) | 1:48 | 2023-04-20 |  |
+| [Shine](https://open.spotify.com/track/5d5HawCcm7tFx1OqFRflSN) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL), [CRFT](https://open.spotify.com/artist/4rwCk3DZwQa8uY7Cvfu4aM) | [Shine](https://open.spotify.com/album/3DAkFNSMSS8MmxHWwN329D) | 1:48 | 2023-04-20 | 2023-04-24 |
 | [Ship Has Sailed](https://open.spotify.com/track/28ZSHQYTUVoVVu3tMHf6Q3) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Black Tea EP](https://open.spotify.com/album/6fsSRJ7H3RGJ5nvzQJh28f) | 3:16 | 2021-07-04 | 2021-09-10 |
 | [Shipping Included](https://open.spotify.com/track/2N5acVYBPwXHVxcSJZhI0Y) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Shipping Included](https://open.spotify.com/album/4W520GUpPfXgx7O78dmJI0) | 1:44 | 2021-09-10 | 2022-09-15 |
 | [Shorebreak](https://open.spotify.com/track/7nOB52izsr8QCUP6IdvMZF) | [Brenky](https://open.spotify.com/artist/3U6rNiL0weudbwLofMicVq) | [Shorebreak](https://open.spotify.com/album/04cnaZIcMfSDc5EKbqOOdE) | 1:21 | 2022-08-04 | 2022-09-23 |
@@ -2668,7 +2668,7 @@
 | [Snow Rays](https://open.spotify.com/track/32vlnvHcOnsGy1CRUhdLlB) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J), [Antônio Neves](https://open.spotify.com/artist/1or8OkrZ48T6BW0OpeN683) | [Snow Rays](https://open.spotify.com/album/3Yyw6NNem5PB83NwEfUUUL) | 2:15 | 2020-12-18 | 2021-05-28 |
 | [Snowcap](https://open.spotify.com/track/0rKVVQCTgJ5xX3XTl2zGxj) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [Snowcap](https://open.spotify.com/album/4iMI9oIfMo23OCqZwuKUcW) | 2:27 | 2020-11-13 | 2021-06-04 |
 | [Snowline](https://open.spotify.com/track/4WIc4sHXHFrXHvtDRsv7Xj) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Snowline](https://open.spotify.com/album/050AMwaSyTY1xt2SxgHGDt) | 2:54 | 2022-01-27 | 2022-02-25 |
-| [Snowy Streets](https://open.spotify.com/track/2nw52IaHkc54CJXcAjcyjy) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Snowy Streets](https://open.spotify.com/album/6M58dmM81lF4GRrcH1SDVa) | 2:26 | 2023-04-20 |  |
+| [Snowy Streets](https://open.spotify.com/track/2nw52IaHkc54CJXcAjcyjy) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Snowy Streets](https://open.spotify.com/album/6M58dmM81lF4GRrcH1SDVa) | 2:26 | 2023-04-20 | 2023-04-24 |
 | [So](https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [So Sunshine](https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos) | 2:16 | 2020-09-18 | 2020-11-21 |
 | [So Easy](https://open.spotify.com/track/07YLsacHg8GmyV5T3YczQY) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC) | [So Easy](https://open.spotify.com/album/1OmKZcbW3eLny0wL2TtlHk) | 2:43 | 2019-08-02 | 2020-02-11 |
 | [So Good](https://open.spotify.com/track/1JSyfYEBN3eYwoaq0mum2w) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [So Good](https://open.spotify.com/album/7tzLWx2zmUYzsdURvfobxf) | 2:00 | 2023-01-12 |  |
@@ -3382,6 +3382,7 @@
 | [Window View](https://open.spotify.com/track/649Zi087CCSXiOOvvFr7lO) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76), [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [Window View](https://open.spotify.com/album/4oXaWbrJ7WSc8EYI3J1FOO) | 1:26 | 2021-01-31 | 2021-05-28 |
 | [Windows](https://open.spotify.com/track/7tfWZc7YAb3N55dXyZnOcv) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Windows](https://open.spotify.com/album/4YfCn1BkyM5moi9elioqki) | 2:05 | 2021-08-21 | 2022-09-02 |
 | [Windowseat](https://open.spotify.com/track/3xBL2d6zZTk8gPBNbpXZAa) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Windowseat](https://open.spotify.com/album/0ljVcpx01qJgOLNJ9bwxE7) | 2:12 | 2019-10-25 | 2020-03-25 |
+| [Winelight](https://open.spotify.com/track/32QOoCISnwPIOhIWoHGyyj) | [Hydrogenii](https://open.spotify.com/artist/00RdKm1RuV3yg0hd79ZcPF), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Winelight](https://open.spotify.com/album/3BaT1wI67VZiTGhap014dG) | 3:07 | 2023-04-20 |  |
 | [Wink Wink](https://open.spotify.com/track/6mIwvfiAbOKy3FnWuDrCNT) | [Gimme A Break](https://open.spotify.com/artist/6Vt64bYcd9rfqYW6aqCDtP) | [Wink Wink](https://open.spotify.com/album/7K4IOCNiMcyaONSfqfJPI8) | 2:13 | 2020-04-18 | 2020-06-19 |
 | [Winter In Lofi Land](https://open.spotify.com/track/0QiMXPWqr4HkJICdUxAwCw) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Winter In Lofi Land](https://open.spotify.com/album/3DjLV9ZTmY2XrGLFilm1cE) | 2:30 | 2020-01-17 | 2020-04-07 |
 | [Winter Pills](https://open.spotify.com/track/7a6Xmwi4CDNG4gzHFuvmsU) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [Winter Pills](https://open.spotify.com/album/7DLybUrKC4mApYPWWNp8Pq) | 2:18 | 2021-10-16 | 2021-11-19 |

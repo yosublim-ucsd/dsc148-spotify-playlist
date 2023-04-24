@@ -1,12 +1,12 @@
 {
   "description": "Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes. Cover: <a href=\"spotify:artist:5l8VQNuIg0turYE1VtM9zV\">Leonard Cohen</a>",
-  "num_followers": 8787,
+  "num_followers": 8799,
   "original_name": "Leonard Cohen: Covered",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDkxZTgzODg5NWFhNzczYTY0ZjAwZWE1ZGMxMmY0MzIw",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDUxNTUwMjViNmY3YWQ0MTYyNzhiOTA0OTRhODE0MDY5",
   "tracks": [
     {
       "added_at": "2018-12-06 19:29:22",
@@ -411,22 +411,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "From Her To Eternity (2009 Remastered Version)",
-        "url": "https://open.spotify.com/album/2KXpa6Wbdk94U0JNCgePkV"
-      },
-      "artists": [
-        {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
-        }
-      ],
-      "duration_ms": 309280,
-      "name": "Avalanche - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/6gq5GDLoyLC9GUkB8Ob78F"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "Leonard Cohen: I'm Your Man",
         "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 284973,
       "name": "The Traitor",
       "url": "https://open.spotify.com/track/0a3wNNd7UI9wWJvVW4lFD1"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "From Her To Eternity (2009 Remastered Version)",
+        "url": "https://open.spotify.com/album/2KXpa6Wbdk94U0JNCgePkV"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "duration_ms": 309280,
+      "name": "Avalanche - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/6gq5GDLoyLC9GUkB8Ob78F"
     },
     {
       "added_at": "2018-12-06 19:29:22",

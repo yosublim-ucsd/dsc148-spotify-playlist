@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,827 likes - 1,177 songs - 3 day 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,907 likes - 1,177 songs - 3 day 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -692,7 +692,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 682 | [La Camita](https://open.spotify.com/track/5pAy1K5prMzsbhHbOrHg1E) | [Traffic Sound](https://open.spotify.com/artist/2zDfxMt07hBq0Gdp93WcAa) | [Eternal Hits](https://open.spotify.com/album/6rV3DtBwvhVWgOjEYXCAms) | 2:39 |
 | 683 | [In The Middle](https://open.spotify.com/track/3OtxCmuaYCA8mX1sMcm7ba) | [Orlando Julius](https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L), [The Heliocentrics](https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv) | [Jaiyede Afro](https://open.spotify.com/album/6qbKpBTwlQw53EjMD0BLs5) | 4:52 |
 | 684 | [Nijaay](https://open.spotify.com/track/3rZn8W62JE6eZrzBLZw95D) | [Orchestra Baobab](https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9) | [Made in Dakar](https://open.spotify.com/album/5T2htXMWcRmuYQdoHJEgi9) | 7:11 |
-| 685 | [Amor Ideal](https://open.spotify.com/track/3tfhPCPL0EpFYOmsRiYoLv) | [Chacalón y la Nueva Crema](https://open.spotify.com/artist/3HJvj2ET4zSRuxv0m4nLmw) | [Grandes Éxitos 1976 \- 1981](https://open.spotify.com/album/7uz2m6BmJUY9fMrPqv5cXI) | 3:11 |
+| 685 | [Amor Ideal \- Remastered 2019](https://open.spotify.com/track/1ef1WzJeM8SpMgVUhZVMXc) | [Chacalón y la Nueva Crema](https://open.spotify.com/artist/3HJvj2ET4zSRuxv0m4nLmw) | [Grandes Éxitos 1976\-1981 \(Remastered 2019\)](https://open.spotify.com/album/5HfnDoByb6e9K3zxPPUsfQ) | 3:11 |
 | 686 | [Los Sabanales](https://open.spotify.com/track/1CkC4DWgPvj4eEMgxcs0me) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4), [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Estrellas Corraleras \- Fundadores de la Cumbia Colombiana](https://open.spotify.com/album/5HthmfIydsx1AIrsdyjP99) | 2:42 |
 | 687 | [Grilos](https://open.spotify.com/track/02wyvryqMZTO8Ca3QB77rz) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [A Arte De Erasmo Carlos](https://open.spotify.com/album/2JyD19A3gdPWcqo2xwOBbc) | 2:53 |
 | 688 | [Al Hadaoui](https://open.spotify.com/track/6mqaAZrhthluQssopSQcNm) | [Attarazat Addahabia](https://open.spotify.com/artist/39LnlW8CBTtMww7Lm9z44x), [Faradjallah](https://open.spotify.com/artist/0ygAogdZN5rhDT3K0KXYFD) | [Al Hadaoui \(Habibi Funk 011\)](https://open.spotify.com/album/7Kr00uukmurII2uV76igym) | 4:03 |
@@ -1186,4 +1186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1176 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1177 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MTY3OTA1MTcwMCwwMDAwMDAwMDQxMDdmYjJlNzNmZDVlZDdjMDQ2NmU1NjhmYTg1MmJi`
+Snapshot ID: `MTY3OTA1MTcwMCwwMDAwMDAwMDM5ZDExMjIzYmFlMmE5YjI0YTY5ZDRkN2FkYTY5NWE0`

@@ -4,7 +4,7 @@
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-170 songs - 19 hr 29 min
+171 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,8 +53,9 @@
 | [Delta Rain Dream](https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 3:29 | 2021-12-22 |  |
 | [Diamond Cove \(And Its Children Were Watching\)](https://open.spotify.com/track/0beY6Xl0qbQX3t9kOXOI8r) | [Kyle Bobby Dunn](https://open.spotify.com/artist/5103fOYzuAKogazW0lXwLl) | [Bring Me The Head of Kyle Bobby Dunn](https://open.spotify.com/album/1Ovkskq7I0XH0ULWKh8fph) | 3:52 | 2021-12-22 |  |
 | [Dissolving Clouds](https://open.spotify.com/track/2IB1P4oT2EHRFJA5O7eRnC) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 4:28 | 2021-12-22 |  |
-| [dlp 1.1](https://open.spotify.com/track/10SeyQmuBIVJmbZYYJs07W) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops \(Remastered\)](https://open.spotify.com/album/05k7MPh6UZ71omu4O8Kq6A) | 1:03:35 | 2022-07-11 |  |
+| [dlp 1.1](https://open.spotify.com/track/10SeyQmuBIVJmbZYYJs07W) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops \(Remastered\)](https://open.spotify.com/album/05k7MPh6UZ71omu4O8Kq6A) | 1:03:35 | 2022-07-11 | 2023-04-24 |
 | [dlp 1.1](https://open.spotify.com/track/31FiS1jMI38kYfC8ey358W) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops \(Remastered\)](https://open.spotify.com/album/1xVP4eFcagXNtQMvEXfyeV) | 1:03:35 | 2021-12-22 | 2022-07-29 |
+| [dlp 1.1](https://open.spotify.com/track/333Oq434csQAOaTs5NsITr) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops \(Remastered Reissue\)](https://open.spotify.com/album/5fmPy3XmYD0BJKEr86a3Cu) | 1:03:35 | 2023-03-16 |  |
 | [dlp 1.3](https://open.spotify.com/track/0DsKfyDPVSfJPWb3Jno6WC) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops IV \(Remastered\)](https://open.spotify.com/album/4LfeFpR0qvSE6GrzrtT6H8) | 11:57 | 2021-12-22 | 2022-07-29 |
 | [dlp 1.3](https://open.spotify.com/track/3hFipULsVstcUDjujwyNr5) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops IV \(Remastered\)](https://open.spotify.com/album/4Vs8o9MQur5NHGGr5kqXn6) | 11:57 | 2022-07-11 |  |
 | [Do While ⌘X](https://open.spotify.com/track/16fZFSlV2VIDcY77mVtUMI) | [Oval](https://open.spotify.com/artist/1Yti3CsDazWVjNMXBHx1Af) | [94diskont.](https://open.spotify.com/album/33xUwaoTPJ9aNbCJZEpRol) | 4:50 | 2021-12-22 |  |

@@ -49,6 +49,32 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER BEST",
+        "url": "https://open.spotify.com/album/2mX8ucwnOPF7mCFDzTLviH"
+      },
+      "artists": [
+        {
+          "name": "\u6625\u65e5\u672a\u6765 (CV.\u5c71\u5d0e\u306f\u308b\u304b)",
+          "url": "https://open.spotify.com/artist/4pmQgY13xkPyGdHeK4y4uv"
+        },
+        {
+          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
+        },
+        {
+          "name": "\u4f0a\u5439 \u7ffc (CV.Machico)",
+          "url": "https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1"
+        }
+      ],
+      "date_added": "2023-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274160,
+      "name": "ABSOLUTE RUN!!!",
+      "url": "https://open.spotify.com/track/7FlvIPRyfA7LRWCeDMPjPD"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER WAVE 13 TIntMe!",
         "url": "https://open.spotify.com/album/5ug6ELg787KuXMs1Z5gthX"
       },
@@ -404,6 +430,24 @@
       "duration_ms": 209666,
       "name": "Criminally Dinner ~\u6b63\u9910\u3068\u30a4\u30fc\u30f4\u30eb\u30ca\u30a4\u30d5~",
       "url": "https://open.spotify.com/track/20L6HYbRFA7jHYC3GacEp0"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER 765 MILLION ALLSTARS BEST",
+        "url": "https://open.spotify.com/album/2mUZGYVQOeOOEpiBK7iiK4"
+      },
+      "artists": [
+        {
+          "name": "765 MILLION ALLSTARS",
+          "url": "https://open.spotify.com/artist/2t5cmL5V6MkODKqWIlxuoU"
+        }
+      ],
+      "date_added": "2023-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263426,
+      "name": "Crossing!",
+      "url": "https://open.spotify.com/track/5joqaslIG1VrSazqQADS7t"
     },
     {
       "album": {
@@ -824,7 +868,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-24",
       "duration_ms": 271200,
       "name": "Glow Map",
       "url": "https://open.spotify.com/track/79OU4I5FkeGb9yKmlD23bn"
@@ -1072,7 +1116,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-24",
       "duration_ms": 300346,
       "name": "Princess Be Ambitious!!",
       "url": "https://open.spotify.com/track/5AdiD6FQGAkzVqGk8rVSKq"
@@ -1380,7 +1424,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-24",
       "duration_ms": 212133,
       "name": "Supersonic Booster!",
       "url": "https://open.spotify.com/track/6sEMqtr7vs95bIkQ7bBdXu"
@@ -1685,6 +1729,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 04",
+        "url": "https://open.spotify.com/album/6WKC6lYDjiHk38mSeuNOoW"
+      },
+      "artists": [
+        {
+          "name": "\u6240 \u6075\u7f8e (CV.\u85e4\u4e95\u3086\u304d\u3088)",
+          "url": "https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G"
+        }
+      ],
+      "date_added": "2023-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201986,
+      "name": "\u30a2\u30d5\u30bf\u30fc\u30b9\u30af\u30fc\u30eb\u30d1\u30fc\u30ea\u30fc\u30bf\u30a4\u30e0",
+      "url": "https://open.spotify.com/track/25DliXdeWLl2NFEKUYCYyP"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER MILLION LIVE! ZWEIGLANZ \u30a2\u30e9\u30a4\u30a2\u30f3\u30b9\u30fb\u30b9\u30bf\u30fc\u30c0\u30b9\u30c8",
         "url": "https://open.spotify.com/album/0p8qcX8zAMWjT5EZuTNIM4"
       },
@@ -1726,6 +1788,28 @@
       "duration_ms": 289293,
       "name": "\u30a2\u30e9\u30a4\u30d6\u30d5\u30a1\u30af\u30bf\u30fc",
       "url": "https://open.spotify.com/track/0K3kF9hlbhV7rmjqErvpu4"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER BEST",
+        "url": "https://open.spotify.com/album/0HrUhdNjJ2YoBhUlEwNVt3"
+      },
+      "artists": [
+        {
+          "name": "\u5982\u6708\u5343\u65e9 (CV.\u4eca\u4e95\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/7HXMd79Kiz7GweUt79us1g"
+        },
+        {
+          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
+        }
+      ],
+      "date_added": "2023-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289293,
+      "name": "\u30a2\u30e9\u30a4\u30d6\u30d5\u30a1\u30af\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/3zT0Yba9S9FtlPFRbNd2fp"
     },
     {
       "album": {
@@ -2790,7 +2874,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-24",
       "duration_ms": 240706,
       "name": "\u7523\u58f0\u3068\u30af\u30e9\u30d6",
       "url": "https://open.spotify.com/track/7nt9V516i7KBjlFpbjTLFa"

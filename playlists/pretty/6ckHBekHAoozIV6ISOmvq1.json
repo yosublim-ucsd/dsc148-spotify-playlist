@@ -1,12 +1,12 @@
 {
-  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:6idjuynJ3Rgy9RIHaGKDAF\">2022</a>; or the Sounds of <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:7b3qwPS9RTygJC5H8DPfGl\">Italian Renaissance</a> or <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
+  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:6idjuynJ3Rgy9RIHaGKDAF\">2022</a>; or the Sounds of <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:7b3qwPS9RTygJC5H8DPfGl\">Italian Renaissance</a> or <a href=\"spotify:playlist:5uQQu2RC80Ku5AjSpCtrJF\">Madrigal</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
   "num_followers": 512,
   "original_name": "The Sound of Medieval",
   "owner": {
     "name": "The Sounds of Spotify",
     "url": "https://open.spotify.com/user/thesoundsofspotify"
   },
-  "snapshot_id": "NTY5OCxmMDIyMDFmYWFlNjc1Nzg4ZmE1MDU1YzA4MTU0YTYzNWRjOGI0NmU5",
+  "snapshot_id": "NTcwMSwzMzkwMzg1YTVmNjZjZTdhMzkyOWRhZDUwOTg4MTY1NzdhN2NkZDQ2",
   "tracks": [
     {
       "added_at": "2022-02-11 15:59:25",
@@ -97,30 +97,6 @@
       "url": "https://open.spotify.com/track/1mXAnR8YNczHqhMjxp1okx"
     },
     {
-      "added_at": "2021-05-07 13:32:21",
-      "album": {
-        "name": "Codex Faenza: Instrumental Music of the Early 15th Century",
-        "url": "https://open.spotify.com/album/1zytU9oZjHxbRDUI7IYEd1"
-      },
-      "artists": [
-        {
-          "name": "Francesco Landini",
-          "url": "https://open.spotify.com/artist/4yvZ9OueU8lXBhmon7qswI"
-        },
-        {
-          "name": "Unicorn Ensemble",
-          "url": "https://open.spotify.com/artist/27HUTDcqSdkdXMOoOI70B4"
-        },
-        {
-          "name": "Michael Posch",
-          "url": "https://open.spotify.com/artist/59yus9rA8obcifF7Yd6d3o"
-        }
-      ],
-      "duration_ms": 258933,
-      "name": "Non avra ma'pieta questa mia donna",
-      "url": "https://open.spotify.com/track/0Vj29Y3IWplmAKiYwh0d8w"
-    },
-    {
       "added_at": "2023-03-31 17:34:50",
       "album": {
         "name": "Gothic Italy: Johannes Ciconia, Matteo da Perugia, Zaccara da Teramo",
@@ -143,6 +119,30 @@
       "duration_ms": 349293,
       "name": "Ciconia: Petrum Marcello Venetum - O Petre, antistes inclite",
       "url": "https://open.spotify.com/track/536OAZBPEKsISmeWMHhLq8"
+    },
+    {
+      "added_at": "2021-05-07 13:32:21",
+      "album": {
+        "name": "Codex Faenza: Instrumental Music of the Early 15th Century",
+        "url": "https://open.spotify.com/album/1zytU9oZjHxbRDUI7IYEd1"
+      },
+      "artists": [
+        {
+          "name": "Francesco Landini",
+          "url": "https://open.spotify.com/artist/4yvZ9OueU8lXBhmon7qswI"
+        },
+        {
+          "name": "Unicorn Ensemble",
+          "url": "https://open.spotify.com/artist/27HUTDcqSdkdXMOoOI70B4"
+        },
+        {
+          "name": "Michael Posch",
+          "url": "https://open.spotify.com/artist/59yus9rA8obcifF7Yd6d3o"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "Non avra ma'pieta questa mia donna",
+      "url": "https://open.spotify.com/track/0Vj29Y3IWplmAKiYwh0d8w"
     },
     {
       "added_at": "2018-02-09 19:10:59",
@@ -189,6 +189,30 @@
       "url": "https://open.spotify.com/track/177fudOuHDU2MWhpIk64Qh"
     },
     {
+      "added_at": "2018-02-28 02:04:46",
+      "album": {
+        "name": "De Coincy: Les miracles de Nostre-Dame",
+        "url": "https://open.spotify.com/album/7ApdzR2DIa9KRV4uv3Iurx"
+      },
+      "artists": [
+        {
+          "name": "Gautier De Coincy",
+          "url": "https://open.spotify.com/artist/1apioneBDK1h426SIIjTab"
+        },
+        {
+          "name": "Catherine Sergent",
+          "url": "https://open.spotify.com/artist/0o3aKdg1BqxMAaFzKk3wsa"
+        },
+        {
+          "name": "Alla Francesca",
+          "url": "https://open.spotify.com/artist/1t6Vug7JamESjSWcXoBM9i"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Ma vi\u00eble",
+      "url": "https://open.spotify.com/track/61Hv50pnbHHqpmjUhNY1BV"
+    },
+    {
       "added_at": "2023-03-31 17:34:50",
       "album": {
         "name": "Ars britannica. Old Hall Manuscript, Madrigals & Lute Songs",
@@ -215,30 +239,6 @@
       "duration_ms": 277226,
       "name": "Dunstable: O crux gloriosa",
       "url": "https://open.spotify.com/track/7zgexH6oB7ggqOkYgVyCji"
-    },
-    {
-      "added_at": "2018-02-28 02:04:46",
-      "album": {
-        "name": "De Coincy: Les miracles de Nostre-Dame",
-        "url": "https://open.spotify.com/album/7ApdzR2DIa9KRV4uv3Iurx"
-      },
-      "artists": [
-        {
-          "name": "Gautier De Coincy",
-          "url": "https://open.spotify.com/artist/1apioneBDK1h426SIIjTab"
-        },
-        {
-          "name": "Catherine Sergent",
-          "url": "https://open.spotify.com/artist/0o3aKdg1BqxMAaFzKk3wsa"
-        },
-        {
-          "name": "Alla Francesca",
-          "url": "https://open.spotify.com/artist/1t6Vug7JamESjSWcXoBM9i"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Ma vi\u00eble",
-      "url": "https://open.spotify.com/track/61Hv50pnbHHqpmjUhNY1BV"
     },
     {
       "added_at": "2020-12-11 19:59:00",
@@ -381,30 +381,6 @@
       "url": "https://open.spotify.com/track/07w8w9nWgzJ3KQDlYGvkRQ"
     },
     {
-      "added_at": "2018-02-28 02:04:46",
-      "album": {
-        "name": "Troubadours",
-        "url": "https://open.spotify.com/album/78SZrtwYwqiZbc95jeRCYW"
-      },
-      "artists": [
-        {
-          "name": "Raimbaut de Vaqueiras",
-          "url": "https://open.spotify.com/artist/3AMUaFrtfZOumlXPV9RMwZ"
-        },
-        {
-          "name": "Clemencic Consort",
-          "url": "https://open.spotify.com/artist/7IU1mejEjVK8cebFCnGmlX"
-        },
-        {
-          "name": "Rene Clemencic",
-          "url": "https://open.spotify.com/artist/5sfK9WFJ7Jxq44RRs8blv5"
-        }
-      ],
-      "duration_ms": 304573,
-      "name": "Calenda maia",
-      "url": "https://open.spotify.com/track/1xgaGXMJHbvtFVTdipXJOA"
-    },
-    {
       "added_at": "2018-02-09 19:10:59",
       "album": {
         "name": "Wolkenstein: \"Songs of Myself\"",
@@ -431,6 +407,30 @@
       "duration_ms": 392693,
       "name": "Es f\u00fcgt sich: Movements I-III",
       "url": "https://open.spotify.com/track/4ajflaxFtD9PiWBCn7A64v"
+    },
+    {
+      "added_at": "2018-02-28 02:04:46",
+      "album": {
+        "name": "Troubadours",
+        "url": "https://open.spotify.com/album/78SZrtwYwqiZbc95jeRCYW"
+      },
+      "artists": [
+        {
+          "name": "Raimbaut de Vaqueiras",
+          "url": "https://open.spotify.com/artist/3AMUaFrtfZOumlXPV9RMwZ"
+        },
+        {
+          "name": "Clemencic Consort",
+          "url": "https://open.spotify.com/artist/7IU1mejEjVK8cebFCnGmlX"
+        },
+        {
+          "name": "Rene Clemencic",
+          "url": "https://open.spotify.com/artist/5sfK9WFJ7Jxq44RRs8blv5"
+        }
+      ],
+      "duration_ms": 304573,
+      "name": "Calenda maia",
+      "url": "https://open.spotify.com/track/1xgaGXMJHbvtFVTdipXJOA"
     },
     {
       "added_at": "2023-03-31 17:34:50",
@@ -869,6 +869,34 @@
       "url": "https://open.spotify.com/track/66RckhLAPf592kaRHC5cIg"
     },
     {
+      "added_at": "2023-04-23 20:26:55",
+      "album": {
+        "name": "Vous ou la mort (Flemish Courtly Love Songs)",
+        "url": "https://open.spotify.com/album/1hach6CDokxkrMXsC2xuSv"
+      },
+      "artists": [
+        {
+          "name": "Loyset Comp\u00e8re",
+          "url": "https://open.spotify.com/artist/2jhNPQyrkPfW29fbnbEbgN"
+        },
+        {
+          "name": "Jan Caals",
+          "url": "https://open.spotify.com/artist/6iNYBfdeknO5o1Ixh8ouac"
+        },
+        {
+          "name": "Currende Consort",
+          "url": "https://open.spotify.com/artist/6JROqU5kcCJUztMn4bIrYw"
+        },
+        {
+          "name": "Erik van Nevel",
+          "url": "https://open.spotify.com/artist/3OhAgEsQtMLYWpAlT230ZO"
+        }
+      ],
+      "duration_ms": 251346,
+      "name": "Vous ne me faites morir",
+      "url": "https://open.spotify.com/track/1xNyWHmUD7TevlNrmYNXrk"
+    },
+    {
       "added_at": "2022-10-28 18:40:19",
       "album": {
         "name": "Bestiarium",
@@ -887,30 +915,6 @@
       "duration_ms": 190306,
       "name": "Con bracchi assai",
       "url": "https://open.spotify.com/track/7MohiOMxlzOQMasZUTo5Ai"
-    },
-    {
-      "added_at": "2023-04-14 20:51:40",
-      "album": {
-        "name": "Percival's Lament",
-        "url": "https://open.spotify.com/album/6DZ8335tejfovF5ae5IgcR"
-      },
-      "artists": [
-        {
-          "name": "Wolfram Von Eschenbach",
-          "url": "https://open.spotify.com/artist/57eThHmPGEwICf7GROuR8S"
-        },
-        {
-          "name": "Jose Ferrero",
-          "url": "https://open.spotify.com/artist/6F37i9Ro5xQpkjXGfAEtHE"
-        },
-        {
-          "name": "Capilla Antigua de Chinchilla",
-          "url": "https://open.spotify.com/artist/3qm0JDiRkbdVYD4BauZTuD"
-        }
-      ],
-      "duration_ms": 331093,
-      "name": "Do man den edelen syn gezelt (arr. J. Ferrero)",
-      "url": "https://open.spotify.com/track/6lv5wMcKLLZCw6sJZb2RJJ"
     },
     {
       "added_at": "2021-08-06 13:10:05",
@@ -935,6 +939,30 @@
       "duration_ms": 251960,
       "name": "La harpe de m\u00e9lodie",
       "url": "https://open.spotify.com/track/5RvRlsuHfQufIgQ1LUIpgQ"
+    },
+    {
+      "added_at": "2023-04-14 20:51:40",
+      "album": {
+        "name": "Percival's Lament",
+        "url": "https://open.spotify.com/album/6DZ8335tejfovF5ae5IgcR"
+      },
+      "artists": [
+        {
+          "name": "Wolfram Von Eschenbach",
+          "url": "https://open.spotify.com/artist/57eThHmPGEwICf7GROuR8S"
+        },
+        {
+          "name": "Jose Ferrero",
+          "url": "https://open.spotify.com/artist/6F37i9Ro5xQpkjXGfAEtHE"
+        },
+        {
+          "name": "Capilla Antigua de Chinchilla",
+          "url": "https://open.spotify.com/artist/3qm0JDiRkbdVYD4BauZTuD"
+        }
+      ],
+      "duration_ms": 331093,
+      "name": "Do man den edelen syn gezelt (arr. J. Ferrero)",
+      "url": "https://open.spotify.com/track/6lv5wMcKLLZCw6sJZb2RJJ"
     },
     {
       "added_at": "2022-09-03 07:37:51",
@@ -1105,6 +1133,26 @@
       "url": "https://open.spotify.com/track/0AA77trqxrC447ZkBpVNYp"
     },
     {
+      "added_at": "2022-07-15 20:19:19",
+      "album": {
+        "name": "Vocal Music - Hildegard Of Bingen / Abelard, P. (Hildegard Von Bingen and Her Time) (Ensemble Fur Fruhe Musik Augsburg)",
+        "url": "https://open.spotify.com/album/5x2eLLZGzkBJ96m7PRHwxn"
+      },
+      "artists": [
+        {
+          "name": "Hildegard von Bingen",
+          "url": "https://open.spotify.com/artist/2xt1t3lfZ5FGaEKrs0jp0d"
+        },
+        {
+          "name": "Augsburg Early Music Ensemble",
+          "url": "https://open.spotify.com/artist/7yf4UTd5fK3buVu0WOMn2d"
+        }
+      ],
+      "duration_ms": 328773,
+      "name": "O frondens virga",
+      "url": "https://open.spotify.com/track/72dbst7UcuIbGu2xZRijpn"
+    },
+    {
       "added_at": "2023-04-18 02:08:34",
       "album": {
         "name": "Les escholiers de Paris (Motets, chansons et estampies)",
@@ -1131,26 +1179,6 @@
       "duration_ms": 643400,
       "name": "Biaus m'est este quant retentit la bruille",
       "url": "https://open.spotify.com/track/1cM6mneFjqEPLo43bDVNLL"
-    },
-    {
-      "added_at": "2022-07-15 20:19:19",
-      "album": {
-        "name": "Vocal Music - Hildegard Of Bingen / Abelard, P. (Hildegard Von Bingen and Her Time) (Ensemble Fur Fruhe Musik Augsburg)",
-        "url": "https://open.spotify.com/album/5x2eLLZGzkBJ96m7PRHwxn"
-      },
-      "artists": [
-        {
-          "name": "Hildegard von Bingen",
-          "url": "https://open.spotify.com/artist/2xt1t3lfZ5FGaEKrs0jp0d"
-        },
-        {
-          "name": "Augsburg Early Music Ensemble",
-          "url": "https://open.spotify.com/artist/7yf4UTd5fK3buVu0WOMn2d"
-        }
-      ],
-      "duration_ms": 328773,
-      "name": "O frondens virga",
-      "url": "https://open.spotify.com/track/72dbst7UcuIbGu2xZRijpn"
     },
     {
       "added_at": "2019-08-07 20:33:09",
@@ -1543,6 +1571,26 @@
       "duration_ms": 306360,
       "name": "Gratulemur christicole",
       "url": "https://open.spotify.com/track/5eORqhJc3oJW9KIzpnzYso"
+    },
+    {
+      "added_at": "2023-04-23 20:26:55",
+      "album": {
+        "name": "La Bella Mandorla: Madrigals from the Codex Squarcialupi",
+        "url": "https://open.spotify.com/album/6vIbiJdZS0yt2PQq7onvQ6"
+      },
+      "artists": [
+        {
+          "name": "Niccol\u00f2 da Perugia",
+          "url": "https://open.spotify.com/artist/37qFHUvdXV7NOqunkUCgIz"
+        },
+        {
+          "name": "Palatino87",
+          "url": "https://open.spotify.com/artist/4Kh9ZrrJQ24rjHNXRlMvLE"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "Dio mi guardi",
+      "url": "https://open.spotify.com/track/6KnGXngIEHAf9DUEDdBu3C"
     },
     {
       "added_at": "2018-02-28 02:40:55",
@@ -2217,26 +2265,6 @@
       "url": "https://open.spotify.com/track/4eMmJMus2mwZM34i1wyPAr"
     },
     {
-      "added_at": "2022-09-24 03:28:17",
-      "album": {
-        "name": "The Second Circle - Love Songs of Francesco Landini",
-        "url": "https://open.spotify.com/album/2AzN7JVvVU0N8jaHTwQilQ"
-      },
-      "artists": [
-        {
-          "name": "Francesco Landini",
-          "url": "https://open.spotify.com/artist/4yvZ9OueU8lXBhmon7qswI"
-        },
-        {
-          "name": "Anonymous 4",
-          "url": "https://open.spotify.com/artist/2fsxWaUlPGliEYa0nnnTtd"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "Nella partita",
-      "url": "https://open.spotify.com/track/1OOjjMEXPmRnXzsv9dFK9V"
-    },
-    {
       "added_at": "2023-03-31 17:34:50",
       "album": {
         "name": "Ballate e Madrigali",
@@ -2263,6 +2291,26 @@
       "duration_ms": 314640,
       "name": "Per quella strada lactea del cielo",
       "url": "https://open.spotify.com/track/1K61TqEFyEA7fkOumdQ7J7"
+    },
+    {
+      "added_at": "2022-09-24 03:28:17",
+      "album": {
+        "name": "The Second Circle - Love Songs of Francesco Landini",
+        "url": "https://open.spotify.com/album/2AzN7JVvVU0N8jaHTwQilQ"
+      },
+      "artists": [
+        {
+          "name": "Francesco Landini",
+          "url": "https://open.spotify.com/artist/4yvZ9OueU8lXBhmon7qswI"
+        },
+        {
+          "name": "Anonymous 4",
+          "url": "https://open.spotify.com/artist/2fsxWaUlPGliEYa0nnnTtd"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "Nella partita",
+      "url": "https://open.spotify.com/track/1OOjjMEXPmRnXzsv9dFK9V"
     },
     {
       "added_at": "2023-03-31 17:34:50",
@@ -2309,30 +2357,6 @@
       "url": "https://open.spotify.com/track/46LDPqEDyKz3Lsn7G41JHQ"
     },
     {
-      "added_at": "2023-04-14 20:51:40",
-      "album": {
-        "name": "Dunstable: Quam Pulchra Es / Veni Sancte Spiritus / Mass Movements",
-        "url": "https://open.spotify.com/album/42dF8lsWScG35n44SXsOdR"
-      },
-      "artists": [
-        {
-          "name": "John Dunstable",
-          "url": "https://open.spotify.com/artist/3DL7TTcfjDAJiDrhBl3q2H"
-        },
-        {
-          "name": "Tonus Peregrinus",
-          "url": "https://open.spotify.com/artist/0K8Dhx1lhmDJaD0kSFyCa8"
-        },
-        {
-          "name": "Antony Pitts",
-          "url": "https://open.spotify.com/artist/5S0hA6Bm22OipedKMmBuyJ"
-        }
-      ],
-      "duration_ms": 373960,
-      "name": "Kyrie, JD 1",
-      "url": "https://open.spotify.com/track/0xAxqbtivaLnmjjLvg3UNX"
-    },
-    {
       "added_at": "2022-03-25 14:59:23",
       "album": {
         "name": "Miracles of Notre-Dame",
@@ -2355,6 +2379,30 @@
       "duration_ms": 212466,
       "name": "Ma viele",
       "url": "https://open.spotify.com/track/6ztHGV1LgK2WjncaXPFEWi"
+    },
+    {
+      "added_at": "2023-04-14 20:51:40",
+      "album": {
+        "name": "Dunstable: Quam Pulchra Es / Veni Sancte Spiritus / Mass Movements",
+        "url": "https://open.spotify.com/album/42dF8lsWScG35n44SXsOdR"
+      },
+      "artists": [
+        {
+          "name": "John Dunstable",
+          "url": "https://open.spotify.com/artist/3DL7TTcfjDAJiDrhBl3q2H"
+        },
+        {
+          "name": "Tonus Peregrinus",
+          "url": "https://open.spotify.com/artist/0K8Dhx1lhmDJaD0kSFyCa8"
+        },
+        {
+          "name": "Antony Pitts",
+          "url": "https://open.spotify.com/artist/5S0hA6Bm22OipedKMmBuyJ"
+        }
+      ],
+      "duration_ms": 373960,
+      "name": "Kyrie, JD 1",
+      "url": "https://open.spotify.com/track/0xAxqbtivaLnmjjLvg3UNX"
     },
     {
       "added_at": "2018-03-30 15:01:51",
@@ -2493,28 +2541,24 @@
       "url": "https://open.spotify.com/track/4tnnVe1y2KxKZ8zYpQ0y2b"
     },
     {
-      "added_at": "2022-12-16 15:50:51",
+      "added_at": "2023-04-14 20:51:40",
       "album": {
-        "name": "Merry It Is While Summer Lasts",
-        "url": "https://open.spotify.com/album/6bIcQnGzfXqymhqn5VLvVt"
+        "name": "Bestiarium",
+        "url": "https://open.spotify.com/album/1buYMjSMX3yNzFqOjYyxtf"
       },
       "artists": [
         {
-          "name": "Raimbaut de Vaqueiras",
-          "url": "https://open.spotify.com/artist/3AMUaFrtfZOumlXPV9RMwZ"
+          "name": "Oswald von Wolkenstein",
+          "url": "https://open.spotify.com/artist/7AO7NMUKtwjBhKiK27N18x"
         },
         {
-          "name": "St. George's Canzona dir. John Sothcott",
-          "url": "https://open.spotify.com/artist/1J252jSQR3GySP1zTD1lOH"
-        },
-        {
-          "name": "John Sothcott",
-          "url": "https://open.spotify.com/artist/2i81ryYYU6u1IfayNSEokj"
+          "name": "La Reverdie",
+          "url": "https://open.spotify.com/artist/68lFiOmFIrJGzXRs4sbmlQ"
         }
       ],
-      "duration_ms": 215560,
-      "name": "Kalenda maya",
-      "url": "https://open.spotify.com/track/6v4HcAWVqQoVKQrXhvZ5MI"
+      "duration_ms": 194746,
+      "name": "Ir alten weib un Frewt ew",
+      "url": "https://open.spotify.com/track/130oPMih4HG97UUVKjuzqD"
     },
     {
       "added_at": "2023-04-14 20:51:40",
@@ -2537,24 +2581,28 @@
       "url": "https://open.spotify.com/track/3rZK9LQ3YxLgGOfc35D3Xn"
     },
     {
-      "added_at": "2023-04-14 20:51:40",
+      "added_at": "2022-12-16 15:50:51",
       "album": {
-        "name": "Bestiarium",
-        "url": "https://open.spotify.com/album/1buYMjSMX3yNzFqOjYyxtf"
+        "name": "Merry It Is While Summer Lasts",
+        "url": "https://open.spotify.com/album/6bIcQnGzfXqymhqn5VLvVt"
       },
       "artists": [
         {
-          "name": "Oswald von Wolkenstein",
-          "url": "https://open.spotify.com/artist/7AO7NMUKtwjBhKiK27N18x"
+          "name": "Raimbaut de Vaqueiras",
+          "url": "https://open.spotify.com/artist/3AMUaFrtfZOumlXPV9RMwZ"
         },
         {
-          "name": "La Reverdie",
-          "url": "https://open.spotify.com/artist/68lFiOmFIrJGzXRs4sbmlQ"
+          "name": "St. George's Canzona dir. John Sothcott",
+          "url": "https://open.spotify.com/artist/1J252jSQR3GySP1zTD1lOH"
+        },
+        {
+          "name": "John Sothcott",
+          "url": "https://open.spotify.com/artist/2i81ryYYU6u1IfayNSEokj"
         }
       ],
-      "duration_ms": 194746,
-      "name": "Ir alten weib un Frewt ew",
-      "url": "https://open.spotify.com/track/130oPMih4HG97UUVKjuzqD"
+      "duration_ms": 215560,
+      "name": "Kalenda maya",
+      "url": "https://open.spotify.com/track/6v4HcAWVqQoVKQrXhvZ5MI"
     },
     {
       "added_at": "2023-04-07 14:49:09",
@@ -3021,6 +3069,26 @@
       "url": "https://open.spotify.com/track/3Cl0tyeqMCsKDWDn5pRuEZ"
     },
     {
+      "added_at": "2023-04-23 20:26:55",
+      "album": {
+        "name": "And the Sun Darkened: Music for Passiontide",
+        "url": "https://open.spotify.com/album/1apTqzWUjV9UaZm0znEqsA"
+      },
+      "artists": [
+        {
+          "name": "Loyset Comp\u00e8re",
+          "url": "https://open.spotify.com/artist/2jhNPQyrkPfW29fbnbEbgN"
+        },
+        {
+          "name": "New York Polyphony",
+          "url": "https://open.spotify.com/artist/6D34maQG535Jk9U2UzuMmz"
+        }
+      ],
+      "duration_ms": 369400,
+      "name": "Crux triumphans",
+      "url": "https://open.spotify.com/track/6N34LW1EiCyHVFrKBQTdXp"
+    },
+    {
       "added_at": "2023-03-17 15:08:27",
       "album": {
         "name": "Landini e la musica Fiorentina",
@@ -3039,30 +3107,6 @@
       "duration_ms": 295640,
       "name": "Quand'Amor - Canzone",
       "url": "https://open.spotify.com/track/0Wuvf9euZ42qRxjDG0KXXH"
-    },
-    {
-      "added_at": "2023-04-14 20:51:40",
-      "album": {
-        "name": "The Tristan's Harp",
-        "url": "https://open.spotify.com/album/08buFJ5wHwfG7qHaEvNIuy"
-      },
-      "artists": [
-        {
-          "name": "Anonymous",
-          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
-        },
-        {
-          "name": "Jose Ferrero",
-          "url": "https://open.spotify.com/artist/6F37i9Ro5xQpkjXGfAEtHE"
-        },
-        {
-          "name": "Capilla Antigua de Chinchilla",
-          "url": "https://open.spotify.com/artist/3qm0JDiRkbdVYD4BauZTuD"
-        }
-      ],
-      "duration_ms": 257160,
-      "name": "Quarte Estampie Royale (13th century) (arr. J. Ferrero)",
-      "url": "https://open.spotify.com/track/0MZlRdDvf4YaSC7h8tksMD"
     },
     {
       "added_at": "2022-12-30 17:02:22",
@@ -3087,6 +3131,30 @@
       "duration_ms": 209826,
       "name": "Adieu vous di, tres doulce compaynie",
       "url": "https://open.spotify.com/track/0dJ8KicyZoW5sZWnsQ8FOb"
+    },
+    {
+      "added_at": "2023-04-14 20:51:40",
+      "album": {
+        "name": "The Tristan's Harp",
+        "url": "https://open.spotify.com/album/08buFJ5wHwfG7qHaEvNIuy"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Jose Ferrero",
+          "url": "https://open.spotify.com/artist/6F37i9Ro5xQpkjXGfAEtHE"
+        },
+        {
+          "name": "Capilla Antigua de Chinchilla",
+          "url": "https://open.spotify.com/artist/3qm0JDiRkbdVYD4BauZTuD"
+        }
+      ],
+      "duration_ms": 257160,
+      "name": "Quarte Estampie Royale (13th century) (arr. J. Ferrero)",
+      "url": "https://open.spotify.com/track/0MZlRdDvf4YaSC7h8tksMD"
     },
     {
       "added_at": "2023-04-21 18:01:00",
@@ -3363,30 +3431,6 @@
     {
       "added_at": "2023-04-14 20:51:40",
       "album": {
-        "name": "Ockeghem & De La Rue: Requiem",
-        "url": "https://open.spotify.com/album/4mQ5XBf2te7iKS6SIGI1gr"
-      },
-      "artists": [
-        {
-          "name": "Pierre de la Rue",
-          "url": "https://open.spotify.com/artist/1vGyX3JUgCfVuPDOqlUA6m"
-        },
-        {
-          "name": "Diabolus in Musica",
-          "url": "https://open.spotify.com/artist/2gChbtOwNOifa0aVsBTt6O"
-        },
-        {
-          "name": "Antoine Guerber",
-          "url": "https://open.spotify.com/artist/65FVhhXHH8rOgeeDJQFqSm"
-        }
-      ],
-      "duration_ms": 373030,
-      "name": "Requiem: Offertoire \"Domine, Jesu Christe\"",
-      "url": "https://open.spotify.com/track/3M8b55jk8Zd4vtC9XZoNbt"
-    },
-    {
-      "added_at": "2023-04-14 20:51:40",
-      "album": {
         "name": "Le chant des Templiers",
         "url": "https://open.spotify.com/album/4N6UVYJK7xi3K8489hukgH"
       },
@@ -3407,6 +3451,30 @@
       "duration_ms": 501146,
       "name": "Le Chant des Templiers: I. Antiphona \"Crucem sanctam\"",
       "url": "https://open.spotify.com/track/3F1EKlCfeW2lUfve4HrPrj"
+    },
+    {
+      "added_at": "2023-04-14 20:51:40",
+      "album": {
+        "name": "Ockeghem & De La Rue: Requiem",
+        "url": "https://open.spotify.com/album/4mQ5XBf2te7iKS6SIGI1gr"
+      },
+      "artists": [
+        {
+          "name": "Pierre de la Rue",
+          "url": "https://open.spotify.com/artist/1vGyX3JUgCfVuPDOqlUA6m"
+        },
+        {
+          "name": "Diabolus in Musica",
+          "url": "https://open.spotify.com/artist/2gChbtOwNOifa0aVsBTt6O"
+        },
+        {
+          "name": "Antoine Guerber",
+          "url": "https://open.spotify.com/artist/65FVhhXHH8rOgeeDJQFqSm"
+        }
+      ],
+      "duration_ms": 373030,
+      "name": "Requiem: Offertoire \"Domine, Jesu Christe\"",
+      "url": "https://open.spotify.com/track/3M8b55jk8Zd4vtC9XZoNbt"
     },
     {
       "added_at": "2023-04-14 20:51:40",
@@ -3745,26 +3813,6 @@
       "url": "https://open.spotify.com/track/6iMWiImwzpVNkeCFhjaZgR"
     },
     {
-      "added_at": "2023-04-14 20:51:40",
-      "album": {
-        "name": "The Second Circle - Love Songs of Francesco Landini",
-        "url": "https://open.spotify.com/album/2AzN7JVvVU0N8jaHTwQilQ"
-      },
-      "artists": [
-        {
-          "name": "Francesco Landini",
-          "url": "https://open.spotify.com/artist/4yvZ9OueU8lXBhmon7qswI"
-        },
-        {
-          "name": "Anonymous 4",
-          "url": "https://open.spotify.com/artist/2fsxWaUlPGliEYa0nnnTtd"
-        }
-      ],
-      "duration_ms": 183200,
-      "name": "Che chos'\u00e8 quest'amor",
-      "url": "https://open.spotify.com/track/0T5ROCHERefqXt2HMGrBn8"
-    },
-    {
       "added_at": "2023-04-07 14:49:09",
       "album": {
         "name": "La fiamma del to Amor",
@@ -3783,6 +3831,26 @@
       "duration_ms": 224364,
       "name": "Dolce fortuna",
       "url": "https://open.spotify.com/track/5T8LknaA1taIpevLAYsUhL"
+    },
+    {
+      "added_at": "2023-04-14 20:51:40",
+      "album": {
+        "name": "The Second Circle - Love Songs of Francesco Landini",
+        "url": "https://open.spotify.com/album/2AzN7JVvVU0N8jaHTwQilQ"
+      },
+      "artists": [
+        {
+          "name": "Francesco Landini",
+          "url": "https://open.spotify.com/artist/4yvZ9OueU8lXBhmon7qswI"
+        },
+        {
+          "name": "Anonymous 4",
+          "url": "https://open.spotify.com/artist/2fsxWaUlPGliEYa0nnnTtd"
+        }
+      ],
+      "duration_ms": 183200,
+      "name": "Che chos'\u00e8 quest'amor",
+      "url": "https://open.spotify.com/track/0T5ROCHERefqXt2HMGrBn8"
     },
     {
       "added_at": "2023-04-21 18:01:00",
@@ -3837,6 +3905,30 @@
       "url": "https://open.spotify.com/track/5Fo9auBwwDDCqGKhcOsPX4"
     },
     {
+      "added_at": "2023-04-14 20:51:40",
+      "album": {
+        "name": "Miracles of Notre-Dame",
+        "url": "https://open.spotify.com/album/3Dmm0Pzx5KbF4PylK8hUMm"
+      },
+      "artists": [
+        {
+          "name": "Gautier De Coincy",
+          "url": "https://open.spotify.com/artist/1apioneBDK1h426SIIjTab"
+        },
+        {
+          "name": "Andrew Lawrence-King",
+          "url": "https://open.spotify.com/artist/3IaOjT4uvherNQzpFMKiEu"
+        },
+        {
+          "name": "The Harp Consort",
+          "url": "https://open.spotify.com/artist/3CEB3ot8CDIWKFzBRJvJ4n"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "Douce dame (instrumental)",
+      "url": "https://open.spotify.com/track/7pH88r1rY7myyo7FM2jbQS"
+    },
+    {
       "added_at": "2023-04-07 14:49:09",
       "album": {
         "name": "Ars britannica. Old Hall Manuscript, Madrigals & Lute Songs",
@@ -3863,30 +3955,6 @@
       "duration_ms": 350373,
       "name": "Dunstable: Crux fidelis",
       "url": "https://open.spotify.com/track/35sX7bYdqX5YruSYA9UMCx"
-    },
-    {
-      "added_at": "2023-04-14 20:51:40",
-      "album": {
-        "name": "Miracles of Notre-Dame",
-        "url": "https://open.spotify.com/album/3Dmm0Pzx5KbF4PylK8hUMm"
-      },
-      "artists": [
-        {
-          "name": "Gautier De Coincy",
-          "url": "https://open.spotify.com/artist/1apioneBDK1h426SIIjTab"
-        },
-        {
-          "name": "Andrew Lawrence-King",
-          "url": "https://open.spotify.com/artist/3IaOjT4uvherNQzpFMKiEu"
-        },
-        {
-          "name": "The Harp Consort",
-          "url": "https://open.spotify.com/artist/3CEB3ot8CDIWKFzBRJvJ4n"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "Douce dame (instrumental)",
-      "url": "https://open.spotify.com/track/7pH88r1rY7myyo7FM2jbQS"
     },
     {
       "added_at": "2023-04-21 18:01:00",
@@ -4029,50 +4097,6 @@
       "url": "https://open.spotify.com/track/1wU8xVTS3CwIh9aehuBmXI"
     },
     {
-      "added_at": "2022-03-11 14:53:51",
-      "album": {
-        "name": "Troubadours",
-        "url": "https://open.spotify.com/album/78SZrtwYwqiZbc95jeRCYW"
-      },
-      "artists": [
-        {
-          "name": "Raimbaut de Vaqueiras",
-          "url": "https://open.spotify.com/artist/3AMUaFrtfZOumlXPV9RMwZ"
-        },
-        {
-          "name": "Clemencic Consort",
-          "url": "https://open.spotify.com/artist/7IU1mejEjVK8cebFCnGmlX"
-        },
-        {
-          "name": "Rene Clemencic",
-          "url": "https://open.spotify.com/artist/5sfK9WFJ7Jxq44RRs8blv5"
-        }
-      ],
-      "duration_ms": 424186,
-      "name": "Vida",
-      "url": "https://open.spotify.com/track/77rbkJH9MNCdIgZzwLk2tO"
-    },
-    {
-      "added_at": "2023-04-14 20:51:40",
-      "album": {
-        "name": "Perotin",
-        "url": "https://open.spotify.com/album/5kZW1eLPUuntVmdiph4BwB"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rotin",
-          "url": "https://open.spotify.com/artist/2xeXoF8arRZILlw5MKR2f2"
-        },
-        {
-          "name": "The Hilliard Ensemble",
-          "url": "https://open.spotify.com/artist/0L8W3JzyTX29RLKZgc3bqS"
-        }
-      ],
-      "duration_ms": 696600,
-      "name": "Viderunt Omnes",
-      "url": "https://open.spotify.com/track/3DPvIw6xupTvdJ6bxXxYZV"
-    },
-    {
       "added_at": "2023-03-03 13:40:45",
       "album": {
         "name": "Wolkenstein: \"Songs of Myself\"",
@@ -4099,6 +4123,50 @@
       "duration_ms": 301960,
       "name": "Nu rue mit sorgen",
       "url": "https://open.spotify.com/track/3zhYNpsRX5Oqy7Ux0ErpwX"
+    },
+    {
+      "added_at": "2023-04-14 20:51:40",
+      "album": {
+        "name": "Perotin",
+        "url": "https://open.spotify.com/album/5kZW1eLPUuntVmdiph4BwB"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rotin",
+          "url": "https://open.spotify.com/artist/2xeXoF8arRZILlw5MKR2f2"
+        },
+        {
+          "name": "The Hilliard Ensemble",
+          "url": "https://open.spotify.com/artist/0L8W3JzyTX29RLKZgc3bqS"
+        }
+      ],
+      "duration_ms": 696600,
+      "name": "Viderunt Omnes",
+      "url": "https://open.spotify.com/track/3DPvIw6xupTvdJ6bxXxYZV"
+    },
+    {
+      "added_at": "2022-03-11 14:53:51",
+      "album": {
+        "name": "Troubadours",
+        "url": "https://open.spotify.com/album/78SZrtwYwqiZbc95jeRCYW"
+      },
+      "artists": [
+        {
+          "name": "Raimbaut de Vaqueiras",
+          "url": "https://open.spotify.com/artist/3AMUaFrtfZOumlXPV9RMwZ"
+        },
+        {
+          "name": "Clemencic Consort",
+          "url": "https://open.spotify.com/artist/7IU1mejEjVK8cebFCnGmlX"
+        },
+        {
+          "name": "Rene Clemencic",
+          "url": "https://open.spotify.com/artist/5sfK9WFJ7Jxq44RRs8blv5"
+        }
+      ],
+      "duration_ms": 424186,
+      "name": "Vida",
+      "url": "https://open.spotify.com/track/77rbkJH9MNCdIgZzwLk2tO"
     },
     {
       "added_at": "2018-02-27 00:32:30",

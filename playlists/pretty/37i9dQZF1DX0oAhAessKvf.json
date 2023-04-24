@@ -1,12 +1,12 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 97573,
+  "num_followers": 97639,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDAxOTc0NSwwMDAwMDAwMGY5NDIwODcxNDE1YWZlMzRhODQ0ZDFiYzM5NzhlZGE0",
+  "snapshot_id": "MTY0MDAxOTc0NSwwMDAwMDAwMDNjMGQ0YjY1YTJjZTNkNzkzNGZkZjJkNzgyMzhiM2M5",
   "tracks": [
     {
       "added_at": "2021-12-20 17:02:25",
@@ -407,18 +407,18 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Sandunguero",
-        "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
+        "name": "El Mundo De Plan B",
+        "url": "https://open.spotify.com/album/7N120TiGhRlzC5WI9YSueT"
       },
       "artists": [
         {
-          "name": "Lito y Polaco",
-          "url": "https://open.spotify.com/artist/1CLPoZyoqBo2z444JtmBAF"
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
         }
       ],
-      "duration_ms": 177640,
-      "name": "Maniatica Sexual",
-      "url": "https://open.spotify.com/track/2zzklcpDAS1ryizQj83uRy"
+      "duration_ms": 199640,
+      "name": "La Danza Bella",
+      "url": "https://open.spotify.com/track/68WGyc8Am3SpUOo9dMjRAY"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -479,18 +479,18 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "El Mundo De Plan B",
-        "url": "https://open.spotify.com/album/7N120TiGhRlzC5WI9YSueT"
+        "name": "Sandunguero",
+        "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
       },
       "artists": [
         {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+          "name": "Lito y Polaco",
+          "url": "https://open.spotify.com/artist/1CLPoZyoqBo2z444JtmBAF"
         }
       ],
-      "duration_ms": 199640,
-      "name": "La Danza Bella",
-      "url": "https://open.spotify.com/track/68WGyc8Am3SpUOo9dMjRAY"
+      "duration_ms": 177640,
+      "name": "Maniatica Sexual",
+      "url": "https://open.spotify.com/track/2zzklcpDAS1ryizQj83uRy"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Dancehall 101 Vol. 5",
-        "url": "https://open.spotify.com/album/6oU84HBu2wur3VP9tjEECu"
-      },
-      "artists": [
-        {
-          "name": "Shabba Ranks",
-          "url": "https://open.spotify.com/artist/3j7Sw80qzL2FJlryUhI3wG"
-        }
-      ],
-      "duration_ms": 216826,
-      "name": "Dem Bow",
-      "url": "https://open.spotify.com/track/1BUBidO12VUKo44PaQvpt9"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
         "name": "Serie Platino",
         "url": "https://open.spotify.com/album/4lv6tavshM2ZuTXJemNb9F"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 262466,
       "name": "Xplosion",
       "url": "https://open.spotify.com/track/58q5Jz1My29hgf6lh2N2Sj"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "Dancehall 101 Vol. 5",
+        "url": "https://open.spotify.com/album/6oU84HBu2wur3VP9tjEECu"
+      },
+      "artists": [
+        {
+          "name": "Shabba Ranks",
+          "url": "https://open.spotify.com/artist/3j7Sw80qzL2FJlryUhI3wG"
+        }
+      ],
+      "duration_ms": 216826,
+      "name": "Dem Bow",
+      "url": "https://open.spotify.com/track/1BUBidO12VUKo44PaQvpt9"
     },
     {
       "added_at": "2021-12-20 17:02:25",

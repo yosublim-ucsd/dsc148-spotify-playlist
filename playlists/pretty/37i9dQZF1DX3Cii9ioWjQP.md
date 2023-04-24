@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Hanna Kim\(해나킴\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,380 likes - 95 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,394 likes - 95 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

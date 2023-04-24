@@ -1,12 +1,12 @@
 {
   "description": "The sounds keeping the streets of Nigeria on fire. \nCover: Bad boy Timz & Zlatan",
-  "num_followers": 6269,
+  "num_followers": 6332,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAzMTc3NSwwMDAwMDAwMDAyNDJjYTk3MGNhNjdjYTUyYjVjMTVmZjk3NjlkMDcx",
+  "snapshot_id": "MTY4MjAzMTc3NSwwMDAwMDAwMDgwY2M5MWM4ZjE4ODgwM2I2NmNiNWE5NzVmOGU4MGZi",
   "tracks": [
     {
       "added_at": "2023-04-20 23:02:55",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-04-20 23:02:55",
       "album": {
+        "name": "Wale",
+        "url": "https://open.spotify.com/album/2vLIUTSnOYT6kj0dOv5cDK"
+      },
+      "artists": [
+        {
+          "name": "Candy Bleakz",
+          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
+        }
+      ],
+      "duration_ms": 186206,
+      "name": "Wale",
+      "url": "https://open.spotify.com/track/0m4sDtOZ1vIIPLgSneozOo"
+    },
+    {
+      "added_at": "2023-04-20 23:02:55",
+      "album": {
         "name": "Bolanle",
         "url": "https://open.spotify.com/album/4hLok7Z2jx1zBCVIy35LiL"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 158608,
       "name": "Fun for Love",
       "url": "https://open.spotify.com/track/3doWW3a8etr8hhVSJXYhFv"
-    },
-    {
-      "added_at": "2023-04-20 23:02:55",
-      "album": {
-        "name": "Wale",
-        "url": "https://open.spotify.com/album/2vLIUTSnOYT6kj0dOv5cDK"
-      },
-      "artists": [
-        {
-          "name": "Candy Bleakz",
-          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
-        }
-      ],
-      "duration_ms": 186206,
-      "name": "Wale",
-      "url": "https://open.spotify.com/track/0m4sDtOZ1vIIPLgSneozOo"
     },
     {
       "added_at": "2023-04-20 23:02:55",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2023-04-20 23:02:55",
       "album": {
-        "name": "El Major",
-        "url": "https://open.spotify.com/album/29IbX53a1mueMk9BgvcfZn"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        }
-      ],
-      "duration_ms": 171258,
-      "name": "Fire Down",
-      "url": "https://open.spotify.com/track/6ZzN6WLgAlx7sHCath3P9B"
-    },
-    {
-      "added_at": "2023-04-20 23:02:55",
-      "album": {
         "name": "Am I a Yahoo Boy",
         "url": "https://open.spotify.com/album/0cXmTtt5BlvsgTn3Ggv0CL"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 148820,
       "name": "Am I a Yahoo Boy",
       "url": "https://open.spotify.com/track/7lWPp0cGS1w5JYEJ8NB3n5"
+    },
+    {
+      "added_at": "2023-04-20 23:02:55",
+      "album": {
+        "name": "El Major",
+        "url": "https://open.spotify.com/album/29IbX53a1mueMk9BgvcfZn"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "duration_ms": 171258,
+      "name": "Fire Down",
+      "url": "https://open.spotify.com/track/6ZzN6WLgAlx7sHCath3P9B"
     },
     {
       "added_at": "2023-04-20 23:02:55",

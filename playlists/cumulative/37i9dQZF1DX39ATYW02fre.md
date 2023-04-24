@@ -4,7 +4,7 @@
 
 > Beautiful electronic music for melancholy moments.
 
-205 songs - 15 hr 29 min
+206 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Do You Feel](https://open.spotify.com/track/6lpM9CGvcLPdfhvRbU5NA3) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Ultraviolet](https://open.spotify.com/album/3cFONFMdjoCx5ybY1RJKha) | 3:54 | 2021-03-19 | 2021-10-13 |
 | [Dolby](https://open.spotify.com/track/1Ko1zD8Rx6bQCfkfRtnnbP) | [Skee Mask](https://open.spotify.com/artist/2qwi0hBvI2GrbkurOnw3hZ) | [Iss006](https://open.spotify.com/album/18fqUiIpf0XaFy60VmidAr) | 5:12 | 2020-07-07 | 2022-07-17 |
 | [Don't Miss It](https://open.spotify.com/track/5VYCCPct242jtbidE13EKK) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Assume Form](https://open.spotify.com/album/3VpbXPsAOhcp3duHhkye8g) | 4:59 | 2020-06-09 | 2022-06-07 |
-| [Dreaming \(feat\. Bruno Major\)](https://open.spotify.com/track/6S9f7k7SeqwkId3qaALw0r) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Dark](https://open.spotify.com/album/1y30DpERmej6O4v9wOYYla) | 3:53 | 2021-03-19 |  |
+| [Dreaming \(feat\. Bruno Major\)](https://open.spotify.com/track/6S9f7k7SeqwkId3qaALw0r) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Dark](https://open.spotify.com/album/1y30DpERmej6O4v9wOYYla) | 3:53 | 2021-03-19 | 2023-04-24 |
 | [Drowning](https://open.spotify.com/track/7gw6R8syjMYMkcdLNubFPu) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Drowning](https://open.spotify.com/album/1Y9kWCOmN77yxC2io3A8D9) | 3:45 | 2021-03-16 | 2022-06-09 |
 | [Earth \- Edit](https://open.spotify.com/track/1d4Bj6OXYW2EKkOvlTME3C) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8) | [Earth](https://open.spotify.com/album/1rvqEamId9eBnnyFDVpb3y) | 3:50 | 2020-06-05\* | 2022-07-15 |
 | [Electrian](https://open.spotify.com/track/6351qyccfDeVbjSgIR7Yvq) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Galazy EP](https://open.spotify.com/album/5gCTPWjMbIIp7XaUkZV5UO) | 6:52 | 2020-06-05 | 2022-07-16 |
@@ -116,6 +116,7 @@
 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(we’ve lost dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 | 2021-03-16 |  |
 | [Me \(heavy\)](https://open.spotify.com/track/3MhbnxA1JnksiATu9xyB2c) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:03 | 2021-04-20 |  |
 | [Melt](https://open.spotify.com/track/2TuqhYkpz2uLzsypqtvYTb) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Blasé Boys Club \(Pt\. 1\)](https://open.spotify.com/album/02GwPGTucm7H51lb26i5km) | 4:37 | 2020-06-12 | 2021-10-10 |
+| [Melt](https://open.spotify.com/track/4YXJZWRPQbrlA84IrQ7p07) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Blasé Boys Club \(Pt\. 1\)](https://open.spotify.com/album/270fFgaAL8AL1mmGK1bld7) | 4:37 | 2022-11-25 |  |
 | [Miss U](https://open.spotify.com/track/7H4tN0rXuTf742D6ZoZLzF) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs) | [Misconceptions](https://open.spotify.com/album/66lU3va34JbKbJAlmdepk4) | 4:51 | 2020-06-12 | 2022-06-01 |
 | [Moons](https://open.spotify.com/track/2k8KF5WqJeIO1RodV9mS1u) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Tangerine](https://open.spotify.com/album/4olQWXC3W8iaZfzGyzkN0Y) | 5:52 | 2020-06-05 | 2022-07-23 |
 | [Mystery](https://open.spotify.com/track/00Fx3RRfjbl0NdZVUqAY6D) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy) | [Nude](https://open.spotify.com/album/75sLU8PQAhy5tS5XbIhEn6) | 4:45 | 2020-06-10 | 2021-10-12 |

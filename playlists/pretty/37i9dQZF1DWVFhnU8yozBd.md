@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 
 > <a href="spotify:artist:7wXTWO45lqpUejDkike0Gf">Sofia Kourtesis</a>'s favorite tracks\. Updated regularly\. Curated by Sofia Kourtesis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,789 likes - 117 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,812 likes - 117 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 | 31 | [Vocoder](https://open.spotify.com/track/4nT9x3zgwomLhyuc6ZXPeD) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Vocoder](https://open.spotify.com/album/7nlHOrNbeFFid40EuBoTsN) | 7:35 |
 | 32 | [I Go \- DJ Koze Remix](https://open.spotify.com/track/3GHJ47kr5h2nisPvaRGBFT) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [I Go \(Remixes\)](https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj) | 5:29 |
 | 33 | [3210 \- Ross from Friends Remix](https://open.spotify.com/track/1PfbIpFjsS1BayUoqB3X7O) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [3210 \(Ross from Friends Remix\)](https://open.spotify.com/album/4julBAGYv4WmRXwhjJ2LPD) | 5:52 |
-| 34 | [El Invento \- Sofia Kourtesis Remix](https://open.spotify.com/track/7HxxjXqKiVnwJescANPzHu) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [El Invento EP](https://open.spotify.com/album/3HjkmLd8nsxhBhQfgTKD1w) | 4:24 |
+| 34 | [El Invento \- Sofia Kourtesis Remix](https://open.spotify.com/track/3DcpewxfB6UZoCnZj0ed8S) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Local Valley \(Deluxe\)](https://open.spotify.com/album/4diHCkCZbrCxqzy0rg4c2o) | 4:24 |
 | 35 | [Juntos \- Laurence Guy Remix](https://open.spotify.com/track/4unE6fywqCDfsaacxxbGvi) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Juntos \(Laurence Guy Remix\)](https://open.spotify.com/album/7IkGOvOeEI23hSW2FyvhLv) | 5:00 |
 | 36 | [Can't Stop Thinking About](https://open.spotify.com/track/1xLQkOUvCKqAlFt974GTfn) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Can't Stop Thinking About](https://open.spotify.com/album/3b3b2mY42N62Gr26cEncx6) | 3:28 |
 | 37 | [Tondo](https://open.spotify.com/track/0csz09qS2n8Jo7LogHKu7j) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eko Roosevelt](https://open.spotify.com/artist/7hs75D38FalYWr7BDO1WPh) | [ENERGY \(Deluxe\)](https://open.spotify.com/album/6wp1us3xBnYz5qldxrZXRf) | 5:29 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 | 48 | [9 Years \- DJ Koze Remix](https://open.spotify.com/track/5EXuw91HUQM28mjkhGO4eM) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [DJ Koze Presents Pampa, Vol\. 1](https://open.spotify.com/album/41nRW0aXlNZbhCikDqtFzV) | 10:00 |
 | 49 | [Buttercup](https://open.spotify.com/track/6RfiWrAnIPxuWdMkZ1nALV) | [Peach](https://open.spotify.com/artist/5e6DBZg0HJywmjj9BX9iIN) | [Buttercup](https://open.spotify.com/album/7nsWGTBZzNXdqumFbKAorc) | 5:55 |
 | 50 | [Narcos.Is](https://open.spotify.com/track/2K4LQf66hzw9G3d8A0lZry) | [Manami](https://open.spotify.com/artist/3YY7kS1ZzdHKY7DcQ7KEoB) | [Narcos.Is](https://open.spotify.com/album/3LWogSiWsssj9M1gavl40q) | 5:37 |
-| 51 | [Tjomme \- DJ Koze Remix](https://open.spotify.com/track/1nTVZ7XkMnVtfOniDqKNf7) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Tjomme \(DJ Koze Remix\)](https://open.spotify.com/album/04UsjjHKiDTkFTQu8DI45s) | 6:02 |
+| 51 | [Tjomme \- DJ Koze Remix](https://open.spotify.com/track/7lyaMqYrciQPhxH5wJYhL3) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Local Valley \(Deluxe\)](https://open.spotify.com/album/4diHCkCZbrCxqzy0rg4c2o) | 6:02 |
 | 52 | [24 Hours \- Sofia Kourtesis Remix](https://open.spotify.com/track/0PKFzfOatH1UJE2EqPRvcj) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Seeking Thrills \(The Ultimate Thrills Edition\)](https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ) | 5:02 |
 | 53 | [Love Divide](https://open.spotify.com/track/2q1fb1ENmNiJAeosPZqAlC) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Tread](https://open.spotify.com/album/5wKXfInna4rPKYVhdiSgQA) | 4:29 |
 | 54 | [La Perla \- Tourist Remix](https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [La Perla \(Tourist Remix\)](https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor) | 5:17 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 | 116 | [Moninga](https://open.spotify.com/track/4P79noXrKGHrYUrsZioxjv) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/51Feoswkepa9SEg307gah5) | 4:55 |
 | 117 | [Balance \- Dj Floor Remix](https://open.spotify.com/track/0zKxARvuFIfUMx1MiuZaMR) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6), [DJ Floor](https://open.spotify.com/artist/6BuZRXj92YFV1pm7G8ZEyY) | [Balance \(Remixes\)](https://open.spotify.com/album/2OYcucJqPHC9paken1byEp) | 4:07 |
 
-Snapshot ID: `MTY3MzI0NTk2OCwwMDAwMDAwMDEyMzM5NjAxN2VmNzJkNmJlZWZjMGJhNDc5MDAwZmJi`
+Snapshot ID: `MTY3MzI0NTk2OCwwMDAwMDAwMDBmMmFjZTc5MzZmYzU0YTg0NDFmOWNlMmMzZDU0ZDRh`

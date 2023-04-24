@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,441 likes - 107 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,454 likes - 107 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 89 | [Gator](https://open.spotify.com/track/7slSQMJ8gq2hIWXbAdmNTg) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Gator](https://open.spotify.com/album/0PxSZFgvilDptwvLWieLxe) | 8:23 |
 | 90 | [Can't Wait](https://open.spotify.com/track/0iStHtmSWWaqmj3NofK49H) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [Can't Wait](https://open.spotify.com/album/1Qpv2742MFYWWFNvNZBAET) | 3:17 |
 | 91 | [Simulator](https://open.spotify.com/track/4VosqOFgprZKZz3EeDOdMA) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Simulator](https://open.spotify.com/album/6gP0CsJDvNuJJfCjXamjFJ) | 3:40 |
-| 92 | [Dancing is Healing](https://open.spotify.com/track/4xlMZCMr9WhyE58igBMxVp) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/11erTn5P7gOy8vfYDq6bxq) | 2:57 |
+| 92 | [Dancing is Healing](https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/5g3JRPJKgjcc20lORFpaqp) | 2:57 |
 | 93 | [All Of Me \(Do For Love\)](https://open.spotify.com/track/2fzqWz8fV05O1RA6PfHFYc) | [Blinkie](https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j), [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4) | [All Of Me \(Do For Love\)](https://open.spotify.com/album/4ln6BUu9ajIKCntL6qGqCk) | 2:24 |
 | 94 | [Redo nu](https://open.spotify.com/track/5Uzvu8IYFSxaWdOWGJQ2D6) | [Hanna Hedlund](https://open.spotify.com/artist/5Czd0MlWc1v6blcW7zVwGq) | [Redo nu](https://open.spotify.com/album/4y2dqviOZaDehoMnlQ1eHa) | 3:03 |
 | 95 | [Apotek](https://open.spotify.com/track/1S034rVtbrUceA5jGqc6iU) | [Kapten Krök](https://open.spotify.com/artist/2DBnFhrmrDXZdcLllncAUc) | [Apotek](https://open.spotify.com/album/1168b7nxYTIJXDAPDzEFvn) | 2:07 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 106 | [Han är en 10'a men](https://open.spotify.com/track/3Jw0EWwu9DOrFEEOHMYKoZ) | [BELLA WINTH](https://open.spotify.com/artist/32q5zNVRPO98GfzTAqbVXN) | [Han är en 10'a men](https://open.spotify.com/album/3oWOAA941MoD5xbeOrOkut) | 2:54 |
 | 107 | [Nu i natt](https://open.spotify.com/track/0QlvLlRECZseGxXFl852RF) | [Noice](https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69) | [Nu i natt](https://open.spotify.com/album/4qCKpXdMnM955RGtj9cKYF) | 2:43 |
 
-Snapshot ID: `MTY4MjAyODAwMCwwMDAwMDAwMGYzNTcxNGQ2ZWFmZWIxOTgyN2ZjODc2YmYxMjg4MmU0`
+Snapshot ID: `MTY4MjAyODAwMCwwMDAwMDAwMGNkNjQ3ZWVlNTViOGZmYTg1NjZhZjM2Y2JmMDQyYjU2`

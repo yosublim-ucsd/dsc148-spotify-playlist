@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 70s rock!
 
-848 songs - 2 day 11 hr 13 min
+850 songs - 2 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Can the Can](https://open.spotify.com/track/1zaiZAuhPkQfhhY9X2mTnn) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Suzi Quatro](https://open.spotify.com/album/63KpMsxh6E1WJPcDeT2GH4) | 3:34 | 2022-01-05 |  |
 | [Can the Can](https://open.spotify.com/track/6K0kK40E7PA2i9LsGmVCfK) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Suzi Quatro](https://open.spotify.com/album/06HJVlWlwBfMKf8BE0eAHW) | 3:34 | 2022-01-05 | 2022-07-27 |
 | [Can't Give You More](https://open.spotify.com/track/6u7tH8eWSc4BlEUw0Q5VYP) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Rockin' All Over The World](https://open.spotify.com/album/5MsNoPWsiIbO6uz9KA6qDS) | 4:15 | 2022-01-05 | 2022-07-19 |
-| [Can't Give You More](https://open.spotify.com/track/4PriSB05yvskrIRuFVfr57) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Rockin' All Over The World](https://open.spotify.com/album/4UyEneWCIKATQf3keQnG7O) | 4:17 | 2022-01-05 |  |
+| [Can't Give You More](https://open.spotify.com/track/4PriSB05yvskrIRuFVfr57) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Rockin' All Over The World](https://open.spotify.com/album/4UyEneWCIKATQf3keQnG7O) | 4:17 | 2022-01-05 | 2023-04-24 |
 | [Can't You Hear Me Knocking \- 2009 Mix](https://open.spotify.com/track/1hIQPCM3oWXrpnXmgTDaKG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 7:16 | 2022-01-05 |  |
 | [Candy\-O](https://open.spotify.com/track/6tVcoaFJVBmHWctf8qC8pK) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Candy\-O](https://open.spotify.com/album/4UFgeduzEZegQE74xUwI6J) | 2:36 | 2022-01-05 |  |
 | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/track/6dix9mJZambkCkDOlXQTwG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF) | 5:46 | 2022-01-05 |  |
@@ -196,6 +196,7 @@
 | [Doo Doo Doo Doo Doo \(Heartbreaker\)](https://open.spotify.com/track/7CNYADpAKvQrgqlLCfahjt) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Goats Head Soup \(Deluxe\)](https://open.spotify.com/album/5Q7oMv5dx9VinYxveFZNsn) | 3:26 | 2022-01-05 | 2022-07-29 |
 | [Doolin\-Dalton \- 2013 Remaster](https://open.spotify.com/track/0huHTieLTlluurvasQLB74) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Desperado \(2013 Remaster\)](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) | 3:27 | 2022-01-05 |  |
 | [Double Trouble](https://open.spotify.com/track/5ftkCxdoFGmkXbm5zgu0lS) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Gimme Back My Bullets](https://open.spotify.com/album/7nl7cH6KtKcKU7I2Hj2gAM) | 2:50 | 2022-01-05 |  |
+| [Down Down](https://open.spotify.com/track/5YopgZwLNvbuXNLPth9Y0H) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [1975 \- Best of](https://open.spotify.com/album/5S33RyX1l8HkeRkJzG2c9K) | 5:24 | 2022-11-17 |  |
 | [Down Down](https://open.spotify.com/track/5vVZaiK2mIL9WE1GWikOE6) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [On The Level](https://open.spotify.com/album/5dHrW2LCDQ0INMXqQMwoCi) | 5:24 | 2022-01-05 | 2023-04-21 |
 | [Down the Dustpipe](https://open.spotify.com/track/4ey3t8jCoQ7Q7M8BR09Zy0) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Down the Dustpipe](https://open.spotify.com/album/4D2lzYrLn7Jg8tIuuSF36L) | 2:02 | 2022-01-05 |  |
 | [Dream Baby Dream](https://open.spotify.com/track/3MmogIpfk1GVXRMmRjKLGI) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [The Second Album + The First Rehearsal Tapes](https://open.spotify.com/album/6X3IumYsTS91vfxDVxRd04) | 6:24 | 2022-01-05 |  |
@@ -567,6 +568,7 @@
 | [Pigs \(Three Different Ones\) \- 2011 Remaster](https://open.spotify.com/track/23dTQ4fjLrPPbYHamkJDzo) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Animals \(2011 Remastered Version\)](https://open.spotify.com/album/21jUB9RqplD6OqtsTjKBnO) | 11:26 | 2022-01-05 | 2022-07-29 |
 | [Pissing In a River](https://open.spotify.com/track/5UYo2NoLUzBlP09NGJRGsc) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Radio Ethiopia](https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu) | 4:52 | 2022-01-05 |  |
 | [Planet Queen](https://open.spotify.com/track/2aVrHU8xjnz6twRNPf7zpS) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior](https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5) | 3:10 | 2022-01-05 | 2022-07-29 |
+| [Planet Queen \- 2003 Remaster](https://open.spotify.com/track/5vqGXUifO0oYEQ2uMTDCp4) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \[Expanded & Remastered\]](https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt) | 3:13 | 2022-11-17 |  |
 | [Point of Know Return](https://open.spotify.com/track/0YoAVHXeEPPzZxK0xPQqYn) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [Point Of Know Return \(Expanded Edition\)](https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA) | 3:10 | 2022-01-05 |  |
 | [Poison Whiskey](https://open.spotify.com/track/4EwfTRmjZMPGxrqYIrlCBv) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced 'Leh\-'Nérd 'Skin\-'Nérd \(Expanded Edition\)](https://open.spotify.com/album/3THuBNp86ScbTXwpTmAbdw) | 3:13 | 2022-01-05 |  |
 | [Police & Thieves \- Remastered](https://open.spotify.com/track/6IMlcKjsIM3l3yXWykTa3y) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(Remastered\)](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo) | 6:03 | 2022-01-05 |  |
@@ -610,7 +612,7 @@
 | [Romeo And The Lonely Girl](https://open.spotify.com/track/6KqIjAkxFmCCMrjFJJJFve) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Jailbreak \(Deluxe Edition\)](https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2) | 3:54 | 2022-01-05 | 2022-07-29 |
 | [Room Service](https://open.spotify.com/track/1wefTHpKzebYTQXUtZhSKD) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill](https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF) | 3:01 | 2022-01-05 | 2022-07-27 |
 | [Rosalie](https://open.spotify.com/track/09xbhnZy04ek1kpq3SgHYi) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Fighting](https://open.spotify.com/album/4XGIy3KPZ0zjl5dhhvQtFQ) | 2:56 | 2022-01-05 |  |
-| [Rose Darling](https://open.spotify.com/track/1lTtGfA7i6Ky3ABHj4Z5xK) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Katy Lied](https://open.spotify.com/album/12N6IsuqIJzbTXdIrJnc9b) | 3:04 | 2022-01-05 |  |
+| [Rose Darling](https://open.spotify.com/track/1lTtGfA7i6Ky3ABHj4Z5xK) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Katy Lied](https://open.spotify.com/album/12N6IsuqIJzbTXdIrJnc9b) | 3:04 | 2022-01-05 | 2023-04-24 |
 | [Rubber Bullets](https://open.spotify.com/track/1QQgSUKCG8GakzMOwi4lFS) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [10cc](https://open.spotify.com/album/1NefUKCblMkMNlspyQrJEH) | 5:18 | 2022-01-05 | 2022-10-21 |
 | [Rubber Bullets](https://open.spotify.com/track/4Mv4X4ecNuQU7XScbnKJwa) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [10cc](https://open.spotify.com/album/2IGC9reJ6sjS4v5GkifnGt) | 5:18 | 2022-01-05 |  |
 | [Rudie Can't Fail \- Remastered](https://open.spotify.com/track/4W9zZsQKsqikYbKM9vcN5Q) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:28 | 2022-01-05 |  |

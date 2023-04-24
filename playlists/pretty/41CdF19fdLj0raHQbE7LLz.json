@@ -1,15 +1,15 @@
 {
   "description": "&#x27;Spektre&#x27;s Selection&#x27; is a weekly updated playlist of the freshest techno straight from their crate! Get following! #respekt",
-  "num_followers": 1344,
+  "num_followers": 1345,
   "original_name": "Spektre's Selection",
   "owner": {
     "name": "spektrelive",
     "url": "https://open.spotify.com/user/spektrelive"
   },
-  "snapshot_id": "MTY4MCxlYTRiZDRkZDEyMDI4MjhmMzQ0ODdjYmIwOTY2NjBlYjljNDAyMjI5",
+  "snapshot_id": "MTcwOSw0YWY1ZmQxNDI2MTY1MDdkMTBlM2ZhYjBmZjBkZTExNWVhNDZkNWM2",
   "tracks": [
     {
-      "added_at": "2023-03-31 18:59:01",
+      "added_at": "2023-03-31 18:59:07",
       "album": {
         "name": "Badlands",
         "url": "https://open.spotify.com/album/691b38mQKtfisEdhiV3kvD"
@@ -20,9 +20,25 @@
           "url": "https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT"
         }
       ],
-      "duration_ms": 229481,
-      "name": "Concentrate",
-      "url": "https://open.spotify.com/track/2BPrwqxSpvENgsehOYgFJB"
+      "duration_ms": 240403,
+      "name": "Badlands",
+      "url": "https://open.spotify.com/track/6EqEtYGJnkP3BBySHscyLj"
+    },
+    {
+      "added_at": "2023-04-23 16:03:03",
+      "album": {
+        "name": "Burning Whispers",
+        "url": "https://open.spotify.com/album/5AEhATPqFhtI5CTxHyJswQ"
+      },
+      "artists": [
+        {
+          "name": "Atroxx",
+          "url": "https://open.spotify.com/artist/5xUFaih4LPL1He9jDdvqTw"
+        }
+      ],
+      "duration_ms": 249659,
+      "name": "Burning Whispers",
+      "url": "https://open.spotify.com/track/3KrmBnh1wp6U0lgBEdB8Cb"
     },
     {
       "added_at": "2023-02-05 12:38:04",
@@ -41,39 +57,23 @@
       "url": "https://open.spotify.com/track/7oPC4KDG0ofx3Cvpie1D9W"
     },
     {
-      "added_at": "2023-03-10 20:53:33",
+      "added_at": "2023-04-23 16:33:29",
       "album": {
-        "name": "Phantom Limb",
-        "url": "https://open.spotify.com/album/1h5mTzaWLLIvAq67lohsut"
+        "name": "Touch The Darkness",
+        "url": "https://open.spotify.com/album/4RJKnty59mAjgmslaWAGkm"
       },
       "artists": [
         {
-          "name": "Sam Kitt",
-          "url": "https://open.spotify.com/artist/4nZj2Iwb9yJSocd8OlpKBo"
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
         }
       ],
-      "duration_ms": 242222,
-      "name": "Phantom Limb",
-      "url": "https://open.spotify.com/track/6oEfPKX1nreq7qoARjypEP"
+      "duration_ms": 453333,
+      "name": "Touch The Darkness",
+      "url": "https://open.spotify.com/track/6BaQEqUuo6R1RISio9U5T3"
     },
     {
-      "added_at": "2023-03-09 13:16:26",
-      "album": {
-        "name": "Lost In Love",
-        "url": "https://open.spotify.com/album/33iVJ8QvnCh08BJszH99gz"
-      },
-      "artists": [
-        {
-          "name": "Legend B",
-          "url": "https://open.spotify.com/artist/4GdugXC80nr0eT7xQQIh0v"
-        }
-      ],
-      "duration_ms": 368453,
-      "name": "Lost In Love - Original Mix",
-      "url": "https://open.spotify.com/track/1GA5a4fprKfOhfoM0RI5iw"
-    },
-    {
-      "added_at": "2023-03-31 18:59:07",
+      "added_at": "2023-03-31 18:59:01",
       "album": {
         "name": "Badlands",
         "url": "https://open.spotify.com/album/691b38mQKtfisEdhiV3kvD"
@@ -84,9 +84,85 @@
           "url": "https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT"
         }
       ],
-      "duration_ms": 240403,
-      "name": "Badlands",
-      "url": "https://open.spotify.com/track/6EqEtYGJnkP3BBySHscyLj"
+      "duration_ms": 229481,
+      "name": "Concentrate",
+      "url": "https://open.spotify.com/track/2BPrwqxSpvENgsehOYgFJB"
+    },
+    {
+      "added_at": "2023-04-23 16:31:42",
+      "album": {
+        "name": "NRG",
+        "url": "https://open.spotify.com/album/72vORdnp7mycsBRuTxDPNV"
+      },
+      "artists": [
+        {
+          "name": "Egbert",
+          "url": "https://open.spotify.com/artist/2XDYCsSrSPH37AtnRvCkIx"
+        }
+      ],
+      "duration_ms": 341584,
+      "name": "NRG",
+      "url": "https://open.spotify.com/track/3pshVKwau2AsyR0y1vcFfO"
+    },
+    {
+      "added_at": "2023-04-23 16:37:36",
+      "album": {
+        "name": "Let Go (KL\u00d8SET Remix)",
+        "url": "https://open.spotify.com/album/1rJLukLTIECPuZqD2TpkhF"
+      },
+      "artists": [
+        {
+          "name": "Mark Reeve",
+          "url": "https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ"
+        },
+        {
+          "name": "KL\u00d8SET",
+          "url": "https://open.spotify.com/artist/7KlcWxhK5kCE0rBoMnPASa"
+        }
+      ],
+      "duration_ms": 413410,
+      "name": "Let Go - KL\u00d8SET Remix",
+      "url": "https://open.spotify.com/track/03qT9X4SvcKfsjiAzmrNPM"
+    },
+    {
+      "added_at": "2023-03-10 20:53:37",
+      "album": {
+        "name": "Phantom Limb",
+        "url": "https://open.spotify.com/album/1h5mTzaWLLIvAq67lohsut"
+      },
+      "artists": [
+        {
+          "name": "Sam Kitt",
+          "url": "https://open.spotify.com/artist/4nZj2Iwb9yJSocd8OlpKBo"
+        }
+      ],
+      "duration_ms": 250444,
+      "name": "Tensile",
+      "url": "https://open.spotify.com/track/3jD1XhhvI6iGQOwSA7lQnl"
+    },
+    {
+      "added_at": "2023-04-23 16:35:22",
+      "album": {
+        "name": "PURA VIDA (Wehbba Remix)",
+        "url": "https://open.spotify.com/album/5g3umWr9sJoUut6pOoyWUb"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Wehbba",
+          "url": "https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 233468,
+      "name": "PURA VIDA - Wehbba Remix",
+      "url": "https://open.spotify.com/track/1ch4P5LTDHoHulGC5lhNYT"
     },
     {
       "added_at": "2023-03-09 15:34:58",
@@ -109,6 +185,66 @@
       "url": "https://open.spotify.com/track/789XgQTcDtt9zuUNzH4CYU"
     },
     {
+      "added_at": "2023-04-23 16:18:14",
+      "album": {
+        "name": "Simulator",
+        "url": "https://open.spotify.com/album/6gP0CsJDvNuJJfCjXamjFJ"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        }
+      ],
+      "duration_ms": 220375,
+      "name": "Simulator",
+      "url": "https://open.spotify.com/track/4VosqOFgprZKZz3EeDOdMA"
+    },
+    {
+      "added_at": "2023-04-23 16:32:19",
+      "album": {
+        "name": "Test Track",
+        "url": "https://open.spotify.com/album/2CAnhY5jgCBgwvK2QliUEq"
+      },
+      "artists": [
+        {
+          "name": "Elias R",
+          "url": "https://open.spotify.com/artist/2q4eFRPd7VUHQOfgmSw6Cq"
+        },
+        {
+          "name": "Marck D",
+          "url": "https://open.spotify.com/artist/41CzEzM7ifCfom2dHqm2n5"
+        },
+        {
+          "name": "Harvey McKay",
+          "url": "https://open.spotify.com/artist/6qB9lDPQ6tFbI1gZcSawCS"
+        }
+      ],
+      "duration_ms": 317000,
+      "name": "Test Track - Harvey Mckay Remix",
+      "url": "https://open.spotify.com/track/1oaNMzSSc5r2GYWfQRJSFR"
+    },
+    {
+      "added_at": "2023-04-23 16:33:32",
+      "album": {
+        "name": "Touch The Darkness",
+        "url": "https://open.spotify.com/album/4RJKnty59mAjgmslaWAGkm"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        }
+      ],
+      "duration_ms": 428769,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/6TwYvlnR3nclXq9l65o6GO"
+    },
+    {
       "added_at": "2023-03-09 15:20:33",
       "album": {
         "name": "Fear",
@@ -129,6 +265,42 @@
       "url": "https://open.spotify.com/track/0JqMQDPOIHFNVTmk8I0H5g"
     },
     {
+      "added_at": "2023-04-23 16:31:59",
+      "album": {
+        "name": "Outface (30 Yrs Jubilee Edition)",
+        "url": "https://open.spotify.com/album/3RQBzD4YJS8scE9rgPHLVH"
+      },
+      "artists": [
+        {
+          "name": "Komakino",
+          "url": "https://open.spotify.com/artist/7kXKgvvRpzUfLrNlsgeQRF"
+        },
+        {
+          "name": "Egbert",
+          "url": "https://open.spotify.com/artist/2XDYCsSrSPH37AtnRvCkIx"
+        }
+      ],
+      "duration_ms": 366870,
+      "name": "Outface - Egbert Rework",
+      "url": "https://open.spotify.com/track/2LzgFHHOcrJ32Gy3qCzFxl"
+    },
+    {
+      "added_at": "2023-03-09 13:16:26",
+      "album": {
+        "name": "Lost In Love",
+        "url": "https://open.spotify.com/album/33iVJ8QvnCh08BJszH99gz"
+      },
+      "artists": [
+        {
+          "name": "Legend B",
+          "url": "https://open.spotify.com/artist/4GdugXC80nr0eT7xQQIh0v"
+        }
+      ],
+      "duration_ms": 368453,
+      "name": "Lost In Love - Original Mix",
+      "url": "https://open.spotify.com/track/1GA5a4fprKfOhfoM0RI5iw"
+    },
+    {
       "added_at": "2023-03-09 15:54:02",
       "album": {
         "name": "Rampage",
@@ -143,6 +315,22 @@
       "duration_ms": 365913,
       "name": "Rampage",
       "url": "https://open.spotify.com/track/7g0uCvxzUpfuJtm5oUHdYj"
+    },
+    {
+      "added_at": "2023-04-23 16:03:07",
+      "album": {
+        "name": "Burning Whispers",
+        "url": "https://open.spotify.com/album/5AEhATPqFhtI5CTxHyJswQ"
+      },
+      "artists": [
+        {
+          "name": "Atroxx",
+          "url": "https://open.spotify.com/artist/5xUFaih4LPL1He9jDdvqTw"
+        }
+      ],
+      "duration_ms": 243973,
+      "name": "Break the Mold",
+      "url": "https://open.spotify.com/track/2NBBcHcrfVecd78wNFV2pG"
     },
     {
       "added_at": "2023-03-31 18:59:10",
@@ -161,7 +349,7 @@
       "url": "https://open.spotify.com/track/2ReU1R4wUEhCnrL8Q6Nf8a"
     },
     {
-      "added_at": "2023-03-10 20:53:37",
+      "added_at": "2023-03-10 20:53:33",
       "album": {
         "name": "Phantom Limb",
         "url": "https://open.spotify.com/album/1h5mTzaWLLIvAq67lohsut"
@@ -172,9 +360,25 @@
           "url": "https://open.spotify.com/artist/4nZj2Iwb9yJSocd8OlpKBo"
         }
       ],
-      "duration_ms": 250444,
-      "name": "Tensile",
-      "url": "https://open.spotify.com/track/3jD1XhhvI6iGQOwSA7lQnl"
+      "duration_ms": 242222,
+      "name": "Phantom Limb",
+      "url": "https://open.spotify.com/track/6oEfPKX1nreq7qoARjypEP"
+    },
+    {
+      "added_at": "2023-04-23 17:47:40",
+      "album": {
+        "name": "Sewing Machine",
+        "url": "https://open.spotify.com/album/1OuEI0rW6JxHfmDwkuI5wM"
+      },
+      "artists": [
+        {
+          "name": "Thommes Jay",
+          "url": "https://open.spotify.com/artist/2FKM7lVEVnjYGD0DVfsJRr"
+        }
+      ],
+      "duration_ms": 329000,
+      "name": "Sewing Machine - Original Mix",
+      "url": "https://open.spotify.com/track/3Awm43EquceYlYij4XukmQ"
     },
     {
       "added_at": "2023-03-09 15:19:54",
@@ -1537,440 +1741,24 @@
       "url": "https://open.spotify.com/track/5fyCP0uZrzFOmEU5XeL7WI"
     },
     {
-      "added_at": "2021-11-26 14:15:29",
+      "added_at": "2023-04-23 17:49:03",
       "album": {
-        "name": "Respekt Reworks, Vol. 1",
-        "url": "https://open.spotify.com/album/6iv34cW6L7o0XoKHEcheGs"
+        "name": "I Feel so Free",
+        "url": "https://open.spotify.com/album/03CF5a4PQUeWX5MtkqO5Ii"
       },
       "artists": [
         {
-          "name": "Spektre",
-          "url": "https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT"
+          "name": "Spartaque",
+          "url": "https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB"
         },
         {
-          "name": "Push",
-          "url": "https://open.spotify.com/artist/55Os8XqAryj0AfK6zjkCbx"
+          "name": "Pablo Say",
+          "url": "https://open.spotify.com/artist/6SaiHV8IusL0jz3eGbGMDU"
         }
       ],
-      "duration_ms": 209090,
-      "name": "Carnival of Souls - Push Remix",
-      "url": "https://open.spotify.com/track/4tdBYLQOTA9FzRhASJ7Skg"
-    },
-    {
-      "added_at": "2021-09-17 16:34:02",
-      "album": {
-        "name": "Are You All Ready (Spektre Remix)",
-        "url": "https://open.spotify.com/album/1B8MCRyfqk7Dmsa5R37bu6"
-      },
-      "artists": [
-        {
-          "name": "Tony De Vit",
-          "url": "https://open.spotify.com/artist/17acmoMCDxCeLPYv4T5sV1"
-        },
-        {
-          "name": "Spektre",
-          "url": "https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT"
-        }
-      ],
-      "duration_ms": 414164,
-      "name": "Are You All Ready - Spektre Extended Remix",
-      "url": "https://open.spotify.com/track/1eCZodeqrjY8vWngATrAmP"
-    },
-    {
-      "added_at": "2022-03-19 13:56:09",
-      "album": {
-        "name": "Respekt Reworks Vol.2",
-        "url": "https://open.spotify.com/album/3Rq3N3SFhlSRMcFbfa0kVg"
-      },
-      "artists": [
-        {
-          "name": "A.S.H",
-          "url": "https://open.spotify.com/artist/2ES9p7AUwZWCR0xfGsCKTC"
-        },
-        {
-          "name": "Rebel Boy",
-          "url": "https://open.spotify.com/artist/3pY489HHP3Em5RAy63Vmf9"
-        }
-      ],
-      "duration_ms": 271149,
-      "name": "Thorium - Rebel Boy Remix",
-      "url": "https://open.spotify.com/track/1fRNJGkTe8ynSXgKtaqPjD"
-    },
-    {
-      "added_at": "2022-02-03 12:38:44",
-      "album": {
-        "name": "Light and Shadow",
-        "url": "https://open.spotify.com/album/71BPiGvs8JxNBb4Nm3tKBt"
-      },
-      "artists": [
-        {
-          "name": "Brennen Grey",
-          "url": "https://open.spotify.com/artist/342JB4Bfj8Q7qdOraq3nMz"
-        }
-      ],
-      "duration_ms": 332307,
-      "name": "Light and Shadow",
-      "url": "https://open.spotify.com/track/7DtOaCLZXRYRLQzCv2wRFk"
-    },
-    {
-      "added_at": "2022-02-03 14:26:54",
-      "album": {
-        "name": "Agent Smith Was Right",
-        "url": "https://open.spotify.com/album/2NFzsRUchYzMAR1zJeQoTe"
-      },
-      "artists": [
-        {
-          "name": "Metodi Hristov",
-          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
-        }
-      ],
-      "duration_ms": 250666,
-      "name": "Agent Smith Was Right - Original Mix",
-      "url": "https://open.spotify.com/track/0mLhA4qgnn9WkuI3DkWZGY"
-    },
-    {
-      "added_at": "2022-02-03 14:25:03",
-      "album": {
-        "name": "Obsession",
-        "url": "https://open.spotify.com/album/5fzpNfrjHhr7z3fk3jEnYn"
-      },
-      "artists": [
-        {
-          "name": "A.S.H",
-          "url": "https://open.spotify.com/artist/2ES9p7AUwZWCR0xfGsCKTC"
-        }
-      ],
-      "duration_ms": 435308,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/0YTa8TqgoTRjPznEJYNDDW"
-    },
-    {
-      "added_at": "2022-02-03 14:25:39",
-      "album": {
-        "name": "Warehouse Focus",
-        "url": "https://open.spotify.com/album/71e3tlJ0eW6kPCZWci7FRY"
-      },
-      "artists": [
-        {
-          "name": "Ignacio Arfeli",
-          "url": "https://open.spotify.com/artist/53nQsmYO19z1chV4aSVzlp"
-        }
-      ],
-      "duration_ms": 417279,
-      "name": "Dirty Dub - Original Mix",
-      "url": "https://open.spotify.com/track/660cgZMj2isDrbRNfZnTAV"
-    },
-    {
-      "added_at": "2022-02-03 14:45:10",
-      "album": {
-        "name": "Dragons Dynamite",
-        "url": "https://open.spotify.com/album/78Y002Kvjzvcw9qVnnqP25"
-      },
-      "artists": [
-        {
-          "name": "Harvey McKay",
-          "url": "https://open.spotify.com/artist/6qB9lDPQ6tFbI1gZcSawCS"
-        }
-      ],
-      "duration_ms": 301465,
-      "name": "Dragons Dynamite",
-      "url": "https://open.spotify.com/track/0vqrXxH2NY3QMqr1tTjTxU"
-    },
-    {
-      "added_at": "2022-02-03 14:27:15",
-      "album": {
-        "name": "Vision of Thermodynamics, Pt. 2",
-        "url": "https://open.spotify.com/album/3XxDvy4NvoAEjaPKMXi3Lo"
-      },
-      "artists": [
-        {
-          "name": "NoNameLeft",
-          "url": "https://open.spotify.com/artist/7dOFFyV8UVZqmapj8yUDRT"
-        }
-      ],
-      "duration_ms": 380625,
-      "name": "The Second Law of Thermodynamics",
-      "url": "https://open.spotify.com/track/6RLQjhD5qpNkFbh3zd7KyK"
-    },
-    {
-      "added_at": "2022-02-03 14:28:02",
-      "album": {
-        "name": "Continuation",
-        "url": "https://open.spotify.com/album/4IbLPigtMzBits7Uuez5L9"
-      },
-      "artists": [
-        {
-          "name": "Novem Vivit",
-          "url": "https://open.spotify.com/artist/3IhPvqOFbFQinyxhQsJ2D0"
-        }
-      ],
-      "duration_ms": 291604,
-      "name": "Continuation - Original Mix",
-      "url": "https://open.spotify.com/track/5ORXNsjI3Df5ZpYaP9J88P"
-    },
-    {
-      "added_at": "2022-02-03 14:28:55",
-      "album": {
-        "name": "Vorago",
-        "url": "https://open.spotify.com/album/0d4cYcfOcRg8U0yrwSElmM"
-      },
-      "artists": [
-        {
-          "name": "Skober",
-          "url": "https://open.spotify.com/artist/4QJx1t358F7E4O1lZ8g0B2"
-        }
-      ],
-      "duration_ms": 281308,
-      "name": "Vorago",
-      "url": "https://open.spotify.com/track/5uz4xzy92giVHfMgRlzAhU"
-    },
-    {
-      "added_at": "2022-02-03 14:30:06",
-      "album": {
-        "name": "Minds on the Run",
-        "url": "https://open.spotify.com/album/0gHA1osoUa0Eu53pzljGxZ"
-      },
-      "artists": [
-        {
-          "name": "Marbs",
-          "url": "https://open.spotify.com/artist/4XFeqUra2PvHDnjxKNATB9"
-        },
-        {
-          "name": "Oscar L",
-          "url": "https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm"
-        }
-      ],
-      "duration_ms": 422703,
-      "name": "Needed Time - Oscar L on a Trip Remix",
-      "url": "https://open.spotify.com/track/6vJrdM9qeIJLTFvHDgDtxl"
-    },
-    {
-      "added_at": "2022-02-03 14:25:07",
-      "album": {
-        "name": "Obsession",
-        "url": "https://open.spotify.com/album/5fzpNfrjHhr7z3fk3jEnYn"
-      },
-      "artists": [
-        {
-          "name": "A.S.H",
-          "url": "https://open.spotify.com/artist/2ES9p7AUwZWCR0xfGsCKTC"
-        }
-      ],
-      "duration_ms": 395699,
-      "name": "Obsession",
-      "url": "https://open.spotify.com/track/0ED6TY7mO6EhZtrMvi1PNO"
-    },
-    {
-      "added_at": "2022-02-03 14:45:29",
-      "album": {
-        "name": "Mnmlstc",
-        "url": "https://open.spotify.com/album/4kfrOPaF05DmG8T1jH30Bt"
-      },
-      "artists": [
-        {
-          "name": "Egbert",
-          "url": "https://open.spotify.com/artist/2XDYCsSrSPH37AtnRvCkIx"
-        }
-      ],
-      "duration_ms": 396014,
-      "name": "Mnmlstc",
-      "url": "https://open.spotify.com/track/5jpLTd28MxNvvd6vZUB0Kd"
-    },
-    {
-      "added_at": "2022-02-03 14:47:39",
-      "album": {
-        "name": "Bad Tape",
-        "url": "https://open.spotify.com/album/0siYQE9kJjKBzcppeLKvqv"
-      },
-      "artists": [
-        {
-          "name": "Oscar L",
-          "url": "https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm"
-        },
-        {
-          "name": "Weska",
-          "url": "https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci"
-        }
-      ],
-      "duration_ms": 396225,
-      "name": "Theory",
-      "url": "https://open.spotify.com/track/4Kne6XbzVm5NjYITX3FFXt"
-    },
-    {
-      "added_at": "2022-02-03 14:47:50",
-      "album": {
-        "name": "Ninth Wave",
-        "url": "https://open.spotify.com/album/1yh56u5QuSFwZbybeaSBUx"
-      },
-      "artists": [
-        {
-          "name": "Weska",
-          "url": "https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci"
-        }
-      ],
-      "duration_ms": 393003,
-      "name": "Kobra Killer",
-      "url": "https://open.spotify.com/track/6aQZELO5MkHg6pdLBxxaTF"
-    },
-    {
-      "added_at": "2022-02-03 14:48:27",
-      "album": {
-        "name": "Devils Dust",
-        "url": "https://open.spotify.com/album/0K9RmEkVIFB7LOjO8nFgIB"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Spiteri",
-          "url": "https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df"
-        }
-      ],
-      "duration_ms": 474964,
-      "name": "Devils Dust",
-      "url": "https://open.spotify.com/track/16EgNkmpAkjuJjBB3M8dE5"
-    },
-    {
-      "added_at": "2022-11-25 10:03:22",
-      "album": {
-        "name": "Remixes Cim",
-        "url": "https://open.spotify.com/album/7nti4u4VbWHVKR2lUUQll6"
-      },
-      "artists": [
-        {
-          "name": "Ramiro Lopez",
-          "url": "https://open.spotify.com/artist/3jYkj7h3rgKs5irWBPxjrr"
-        },
-        {
-          "name": "Lady Vale",
-          "url": "https://open.spotify.com/artist/7CBgUYtjzK6YOIzPre84GK"
-        },
-        {
-          "name": "Pleasurekraft",
-          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
-        }
-      ],
-      "duration_ms": 552727,
-      "name": "Ritmo Vitale - Pleasurekraft Ultra Deep Field Remix",
-      "url": "https://open.spotify.com/track/5p1JJvdPhrrbHEZHnbHbeS"
-    },
-    {
-      "added_at": "2022-11-25 10:03:35",
-      "album": {
-        "name": "Flash (Wehbba Remix)",
-        "url": "https://open.spotify.com/album/2Ketv7thFn0MGG2mX7outD"
-      },
-      "artists": [
-        {
-          "name": "Sam Paganini",
-          "url": "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
-        },
-        {
-          "name": "Z\u00f8e",
-          "url": "https://open.spotify.com/artist/35GfziDKCTh1aPNFDPuSft"
-        },
-        {
-          "name": "Wehbba",
-          "url": "https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri"
-        }
-      ],
-      "duration_ms": 387407,
-      "name": "Flash - Wehbba Remix",
-      "url": "https://open.spotify.com/track/1fCapWoH1RpiKEZHU1siAI"
-    },
-    {
-      "added_at": "2022-11-25 10:03:49",
-      "album": {
-        "name": "You Are Mine EP",
-        "url": "https://open.spotify.com/album/7FpzZ4YR2MyNwcN8uQYaX8"
-      },
-      "artists": [
-        {
-          "name": "Mha Iri",
-          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
-        }
-      ],
-      "duration_ms": 414545,
-      "name": "You Are Mine - Original Mix",
-      "url": "https://open.spotify.com/track/3P1U26uNScZlDt2QD02YS5"
-    },
-    {
-      "added_at": "2022-11-25 10:04:07",
-      "album": {
-        "name": "Mothership",
-        "url": "https://open.spotify.com/album/5Wj549biB84oDDOD0Ikf0f"
-      },
-      "artists": [
-        {
-          "name": "Mark Michael",
-          "url": "https://open.spotify.com/artist/4h5c1OI66KXOmOODqS62GI"
-        }
-      ],
-      "duration_ms": 413604,
-      "name": "Mothership",
-      "url": "https://open.spotify.com/track/5yh3BFZNjE1YuuVnYcTY5O"
-    },
-    {
-      "added_at": "2022-11-25 10:04:24",
-      "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/5HbKL2zvBuBhWhYgaoONeZ"
-      },
-      "artists": [
-        {
-          "name": "Dusk Poem",
-          "url": "https://open.spotify.com/artist/7vTFFAjRpm4zDijRAfJpAy"
-        }
-      ],
-      "duration_ms": 426179,
-      "name": "Shelley",
-      "url": "https://open.spotify.com/track/2PtoiQ2TauMtZHV1UzDGEE"
-    },
-    {
-      "added_at": "2022-11-25 10:04:43",
-      "album": {
-        "name": "Pura Vida",
-        "url": "https://open.spotify.com/album/6kZN30YG45TPTCe9IVt95T"
-      },
-      "artists": [
-        {
-          "name": "Victor Ruiz",
-          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
-        }
-      ],
-      "duration_ms": 257777,
-      "name": "What's That Called?",
-      "url": "https://open.spotify.com/track/7wkXDxQyx86qpvpxD6GZH5"
-    },
-    {
-      "added_at": "2022-11-25 10:05:15",
-      "album": {
-        "name": "Astel",
-        "url": "https://open.spotify.com/album/7IPVqgQjOvY3MQ3IYTfm7I"
-      },
-      "artists": [
-        {
-          "name": "Mattia Saviolo",
-          "url": "https://open.spotify.com/artist/0CHQALTC4ovqi6EU4xvUeq"
-        }
-      ],
-      "duration_ms": 429850,
-      "name": "Astel",
-      "url": "https://open.spotify.com/track/2Cl5g4MBcwDjjJwGWfGi4e"
-    },
-    {
-      "added_at": "2022-11-25 10:08:29",
-      "album": {
-        "name": "When I Play (Radio Edit)",
-        "url": "https://open.spotify.com/album/4X8WC0GUSzm2rCTNxRe7uo"
-      },
-      "artists": [
-        {
-          "name": "Filtrack",
-          "url": "https://open.spotify.com/artist/0kdVhsh2wHQULmqsneYEF3"
-        }
-      ],
-      "duration_ms": 245413,
-      "name": "Push - Radio Edit",
-      "url": "https://open.spotify.com/track/5oYqdLRPyEDv03v4vu6GVx"
+      "duration_ms": 232727,
+      "name": "I Feel so Free",
+      "url": "https://open.spotify.com/track/63pwXzqYI7oolrfSCp3BJp"
     }
   ],
   "unique_name": "Spektre's Selection",

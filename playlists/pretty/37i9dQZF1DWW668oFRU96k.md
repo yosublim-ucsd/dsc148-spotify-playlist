@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Tiësto
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,593 likes - 88 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,617 likes - 88 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 9 | [Another Night](https://open.spotify.com/track/6cOHPFwcItkqvAswSIRH5L) | [Burnhaze](https://open.spotify.com/artist/4KDjEzDZjkIOcXre0EQo9J), [PRMGH](https://open.spotify.com/artist/6nqz95uxMOeoqYmei7GiV9) | [Another Night](https://open.spotify.com/album/5yZUzStY0B8K4jIrRwO46d) | 3:01 |
 | 10 | [Without You](https://open.spotify.com/track/7xckjROpyPUC4Z0zVSXvp6) | [Ardiyan](https://open.spotify.com/artist/00g1aTs2cVNUeCO1QhelxG) | [Without You](https://open.spotify.com/album/4HhcRH8AbawkmiSehmm8P6) | 2:22 |
 | 11 | [What We Started](https://open.spotify.com/track/1LhZbdq8MUIz1z3TWNKEYx) | [Ruff](https://open.spotify.com/artist/1f3SUOqxfGvLn3MWMphkfF), [Alessa](https://open.spotify.com/artist/5HkbMgVDW1phozbJsLvVVk) | [What We Started](https://open.spotify.com/album/0uB5nMwzpVy8Mg0BCUKueJ) | 2:40 |
-| 12 | [With You \(feat\. SGNLS\)](https://open.spotify.com/track/3MJDrLcr2KeEFyBY5AFyp0) | [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [SGNLS](https://open.spotify.com/artist/38eaRFn5ynDhdJ7VT3tyfu) | [With You \(feat\. SGNLS\)](https://open.spotify.com/album/1eoyrSCfirxMDE9tRHgMHY) | 2:39 |
+| 12 | [With You \(feat\. SGNLS\)](https://open.spotify.com/track/3MJDrLcr2KeEFyBY5AFyp0) | [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [SGNLS](https://open.spotify.com/artist/4Gr5otnLxK9f0fLpm9jK74) | [With You \(feat\. SGNLS\)](https://open.spotify.com/album/1eoyrSCfirxMDE9tRHgMHY) | 2:39 |
 | 13 | [Yi Er San Si](https://open.spotify.com/track/3ZyjHVaTC6BAGMnaFAz7OD) | [WUKONG](https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T) | [Yi Er San Si](https://open.spotify.com/album/6yfzkmIQjpXw6uYx8QHB6v) | 3:28 |
 | 14 | [Antidote](https://open.spotify.com/track/39yw4rOahVl6Yg9lz7BN1F) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Antidote](https://open.spotify.com/album/0MnfNB3z2eK1gPvk5QWNtB) | 5:00 |
 | 15 | [Hold On](https://open.spotify.com/track/5gSsEgOMT5yb7EkcK3szup) | [Sixth Sense](https://open.spotify.com/artist/1lxVdgguznSRDNVFl8c5up), [Jukx](https://open.spotify.com/artist/4Fr5kWGPuCG7vrupWGAayw), [Jetason](https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe) | [Hold On](https://open.spotify.com/album/4RaukH9AWEZgYPpNNMFeRc) | 2:54 |

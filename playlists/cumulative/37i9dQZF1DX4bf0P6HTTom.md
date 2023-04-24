@@ -4,13 +4,14 @@
 
 > Eagles, The Byrds and all your favorite country rock
 
-66 songs - 4 hr 11 min
+67 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Amie](https://open.spotify.com/track/1mqydO6xMtyTPa8yo1SdVr) | [Pure Prairie League](https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s) | [Greatest Hits](https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf) | 4:20 | 2020-08-05 |  |
 | [Cadillac Ranch](https://open.spotify.com/track/5IhIK4GJFA7mNuT6aP6WNl) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [More Great Dirt: The Best of the Nitty Gritty Dirt Band](https://open.spotify.com/album/3d1juyGb4yIxMQ8Sh8UP7B) | 3:42 | 2022-06-01 | 2022-10-22 |
 | [Cadillac Ranch](https://open.spotify.com/track/3nWfVgvBTxLteKXR9MSYaS) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Country Anthems](https://open.spotify.com/album/5o9JaglKrXsZlfCL1qiNQM) | 3:42 | 2022-06-01 | 2023-04-16 |
+| [Cadillac Ranch](https://open.spotify.com/track/7ny63lhhFA36LKmtu4IxiW) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Road Trip Blues Rock](https://open.spotify.com/album/5WHwosaLhR8vDOBMWZFFcQ) | 3:42 | 2022-06-01 |  |
 | [Cinderella](https://open.spotify.com/track/6nwlPs3mgpHYUJJ0ETPIXP) | [Firefall](https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8) | [Firefall](https://open.spotify.com/album/4AFZXGTZBMj0T1H20laj7o) | 3:36 | 2020-08-05 |  |
 | [Circle Song](https://open.spotify.com/track/0A1Mc9xBNpbOV5JPWVSxzd) | [Roger McGuinn](https://open.spotify.com/artist/3ExrAwcOqgGjt9kFRwdM76) | [Roger McGuinn & Band \(Bonus Track Version\)](https://open.spotify.com/album/4B18e2isBj5VRpU4kEhDpc) | 3:03 | 2020-08-05 | 2022-06-01 |
 | [Colorado](https://open.spotify.com/track/6VyuVYEJnZmlEQ5GT9LQvT) | [Stephen Stills](https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX) | [Manassas](https://open.spotify.com/album/427BvOYZQRjTHODnreiZCo) | 2:52 | 2020-08-05 |  |
@@ -43,7 +44,7 @@
 | [One Hundred Years from Now](https://open.spotify.com/track/7FeLo6k5fhgXyGTPaK6VLi) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Sweetheart Of The Rodeo](https://open.spotify.com/album/02XyFDfvHfIwtqOC3o0PcK) | 2:40 | 2020-08-05 |  |
 | [Ooh Las Vegas \(feat\. Emmylou Harris\) \- 2007 Remaster](https://open.spotify.com/track/7kJpAkJSFMCkM6T4plsRLd) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 3:32 | 2020-08-05 |  |
 | [Prisoner in Disguise](https://open.spotify.com/track/5Ms8PC4YEHInOWrhj2QLw0) | [The Souther\-Hillman\-Furay Band](https://open.spotify.com/artist/7hbzXJ5K6AqdPnbUcCL1hL) | [Trouble In Paradise](https://open.spotify.com/album/2B7aFxei2UhSAHbPWLXJRr) | 4:51 | 2020-08-05 | 2022-07-27 |
-| [Rebecca \- Remastered](https://open.spotify.com/track/6JivFldqJ4qjT7kYhygGTl) | [Longbranch/Pennywhistle](https://open.spotify.com/artist/7bK26KSS2vRPxiT2UDeYSF) | [Longbranch/Pennywhistle \(Remastered\)](https://open.spotify.com/album/6z5JQxMPg26VbiNjK0ktjp) | 2:48 | 2020-08-05 |  |
+| [Rebecca \- Remastered](https://open.spotify.com/track/6JivFldqJ4qjT7kYhygGTl) | [Longbranch/Pennywhistle](https://open.spotify.com/artist/7bK26KSS2vRPxiT2UDeYSF) | [Longbranch/Pennywhistle \(Remastered\)](https://open.spotify.com/album/6z5JQxMPg26VbiNjK0ktjp) | 2:48 | 2020-08-05 | 2023-04-24 |
 | [Return of the Grievous Angel \- 2006 Remaster](https://open.spotify.com/track/7vOYp7KJ8gVmVbcatSVf9J) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 4:26 | 2020-08-05 |  |
 | [Running on Empty](https://open.spotify.com/track/6aqm56xP40foYBBtAWWrnY) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Running on Empty / Nothing but Time \(Digital 45\)](https://open.spotify.com/album/5ivr226sTfgyZMeWnQjKRL) | 4:51 | 2020-08-05 |  |
 | [Running on Empty](https://open.spotify.com/track/3UrDYCWfY6fTsiA63NNL27) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [The Next Voice You Hear \- The Best Of Jackson Browne](https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu) | 4:58 | 2020-08-05 | 2022-11-13 |

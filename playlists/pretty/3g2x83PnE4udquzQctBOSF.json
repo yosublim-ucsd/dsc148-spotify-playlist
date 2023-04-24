@@ -1,12 +1,12 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2227,
+  "num_followers": 2228,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "MzEwNSxhZWQ0Mjc0MTcwZTM4N2UwOTA2NDc2YjAyOWYwNWJiMGI4ZDNkYTMz",
+  "snapshot_id": "MzE0MixhZjQ0Yzg4Y2I4NzFkYzE2NjZiMzJiZDY2YThhMTg4ZmEwN2M0MTFj",
   "tracks": [
     {
       "added_at": "2023-03-17 19:24:07",
@@ -25,6 +25,74 @@
       "url": "https://open.spotify.com/track/0G7OcyJxRWmuHr9z5LQLNf"
     },
     {
+      "added_at": "2023-04-23 10:14:18",
+      "album": {
+        "name": "Mumba EP",
+        "url": "https://open.spotify.com/album/4UnaLZo7HpgSX8MoZpOSYZ"
+      },
+      "artists": [
+        {
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
+        }
+      ],
+      "duration_ms": 168745,
+      "name": "Mumba",
+      "url": "https://open.spotify.com/track/093pNDCe1KEptfuBLXWIHI"
+    },
+    {
+      "added_at": "2023-04-23 10:14:10",
+      "album": {
+        "name": "Por Eso Que Me Amas EP",
+        "url": "https://open.spotify.com/album/63Nu1PeMnLSvmWGQrcPVlU"
+      },
+      "artists": [
+        {
+          "name": "Aitor Astiz",
+          "url": "https://open.spotify.com/artist/2bsLrKmjDykFzFMvA3DaXz"
+        }
+      ],
+      "duration_ms": 206254,
+      "name": "El Perd\u00f3n",
+      "url": "https://open.spotify.com/track/6gPLVEwgM1b7ro9uZ0OD5r"
+    },
+    {
+      "added_at": "2023-04-23 10:13:51",
+      "album": {
+        "name": "Been Dreaming",
+        "url": "https://open.spotify.com/album/45DVxrONjJSdjVkFtfVeqH"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "GD Vandal",
+          "url": "https://open.spotify.com/artist/1CWlv9N9hW7ugqHBRy2fqX"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Been Dreaming",
+      "url": "https://open.spotify.com/track/05aycF0iwg7oncrbAPXlvn"
+    },
+    {
+      "added_at": "2023-02-10 17:30:44",
+      "album": {
+        "name": "Ready Or Not",
+        "url": "https://open.spotify.com/album/4Vmlwmg6QKl3FYqeFZkfM7"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 189196,
+      "name": "Ready Or Not",
+      "url": "https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0"
+    },
+    {
       "added_at": "2023-04-16 13:14:33",
       "album": {
         "name": "Lost",
@@ -39,6 +107,22 @@
       "duration_ms": 170624,
       "name": "Lost",
       "url": "https://open.spotify.com/track/08rASU8hp7fUAWmQ8CLOgD"
+    },
+    {
+      "added_at": "2023-04-23 10:13:55",
+      "album": {
+        "name": "Gozar",
+        "url": "https://open.spotify.com/album/5AQeJCMWPNAPw8wPmZlqUW"
+      },
+      "artists": [
+        {
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+        }
+      ],
+      "duration_ms": 204384,
+      "name": "Gozar",
+      "url": "https://open.spotify.com/track/5pwPJceEvQK9B41jCZ7HD1"
     },
     {
       "added_at": "2023-04-16 13:14:25",
@@ -61,6 +145,42 @@
       "url": "https://open.spotify.com/track/2OQ6ZUyMQc1v1em66u8V2V"
     },
     {
+      "added_at": "2023-04-23 10:13:48",
+      "album": {
+        "name": "Pulp Fiction",
+        "url": "https://open.spotify.com/album/3mjsm77aIP6wB8ZLU5r2Yn"
+      },
+      "artists": [
+        {
+          "name": "Gabriele Agostino",
+          "url": "https://open.spotify.com/artist/3wl85IJepINSZzcf8bSDTJ"
+        },
+        {
+          "name": "Gosts",
+          "url": "https://open.spotify.com/artist/6hMxBHVIRXtr1njOIOv8aS"
+        }
+      ],
+      "duration_ms": 344000,
+      "name": "Pulp Fiction",
+      "url": "https://open.spotify.com/track/5HzOV0JgAJXsmNr5sydLQ7"
+    },
+    {
+      "added_at": "2023-01-20 06:39:56",
+      "album": {
+        "name": "Don't Wanna Be",
+        "url": "https://open.spotify.com/album/6BFJ3bHMNMVxLxYmvi3mwh"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "Don't Wanna Be",
+      "url": "https://open.spotify.com/track/2btIgqM1ddLW5hZBaZJw0W"
+    },
+    {
       "added_at": "2023-04-16 13:13:52",
       "album": {
         "name": "Take A Flight",
@@ -81,22 +201,6 @@
       "url": "https://open.spotify.com/track/6OyNK8tVP9rDUFXmH6lCXI"
     },
     {
-      "added_at": "2023-02-10 17:30:44",
-      "album": {
-        "name": "Ready Or Not",
-        "url": "https://open.spotify.com/album/4Vmlwmg6QKl3FYqeFZkfM7"
-      },
-      "artists": [
-        {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 189196,
-      "name": "Ready Or Not",
-      "url": "https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0"
-    },
-    {
       "added_at": "2023-04-09 14:08:35",
       "album": {
         "name": "Breakout",
@@ -111,6 +215,26 @@
       "duration_ms": 215284,
       "name": "Breakout",
       "url": "https://open.spotify.com/track/2cevf1aWBm8JcRiVCLv4OM"
+    },
+    {
+      "added_at": "2023-04-23 10:14:21",
+      "album": {
+        "name": "Beggin'",
+        "url": "https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 183397,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz"
     },
     {
       "added_at": "2023-04-16 13:14:32",
@@ -137,24 +261,40 @@
       "url": "https://open.spotify.com/track/4ZrPmCZRTkZSWYeH3KD7Uh"
     },
     {
-      "added_at": "2023-04-09 14:08:21",
+      "added_at": "2022-09-30 05:47:41",
       "album": {
-        "name": "NEMO",
-        "url": "https://open.spotify.com/album/4aYOQcCVX4mIua85Ub8jCi"
+        "name": "CLOD",
+        "url": "https://open.spotify.com/album/0kVpJtY2EYon2C3IMAXwwU"
       },
       "artists": [
         {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        },
-        {
-          "name": "Brittles",
-          "url": "https://open.spotify.com/artist/4AatAhtKlfnbdMwlxdTwwr"
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
         }
       ],
-      "duration_ms": 153750,
-      "name": "NEMO",
-      "url": "https://open.spotify.com/track/2RvUquRNqRRCh3y5Ls7DTc"
+      "duration_ms": 139107,
+      "name": "CLOD",
+      "url": "https://open.spotify.com/track/0TWVLP8GandBcmFzuHD4iv"
+    },
+    {
+      "added_at": "2023-04-23 10:14:06",
+      "album": {
+        "name": "Homo Sapiens EP",
+        "url": "https://open.spotify.com/album/4020hlgbbGZprNQMKvEbLM"
+      },
+      "artists": [
+        {
+          "name": "Sirus Hood",
+          "url": "https://open.spotify.com/artist/2lrYf4KiHcMPOYGUGhrzgs"
+        },
+        {
+          "name": "Malikk",
+          "url": "https://open.spotify.com/artist/0HhUeCRrcXYduJyhj8j4QF"
+        }
+      ],
+      "duration_ms": 234418,
+      "name": "King MTF Kong",
+      "url": "https://open.spotify.com/track/00w3e6tLEKidzDOmQ7suUZ"
     },
     {
       "added_at": "2023-04-16 13:14:39",
@@ -173,42 +313,6 @@
       "url": "https://open.spotify.com/track/2WnWl10jDfmFHFFsQNAiAD"
     },
     {
-      "added_at": "2023-01-20 06:39:56",
-      "album": {
-        "name": "Don't Wanna Be",
-        "url": "https://open.spotify.com/album/6BFJ3bHMNMVxLxYmvi3mwh"
-      },
-      "artists": [
-        {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "Don't Wanna Be",
-      "url": "https://open.spotify.com/track/2btIgqM1ddLW5hZBaZJw0W"
-    },
-    {
-      "added_at": "2023-04-09 14:08:15",
-      "album": {
-        "name": "Saturday Love",
-        "url": "https://open.spotify.com/album/4Heb9ISUmA1d3h9VMGY9a6"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        },
-        {
-          "name": "Dino DZ",
-          "url": "https://open.spotify.com/artist/3WJeKjQBTbEjR9psopu0Si"
-        }
-      ],
-      "duration_ms": 141120,
-      "name": "Saturday Love",
-      "url": "https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX"
-    },
-    {
       "added_at": "2023-04-16 13:14:28",
       "album": {
         "name": "Piano Cut",
@@ -225,116 +329,24 @@
       "url": "https://open.spotify.com/track/47xYP9z5UvuRinGKLuFHba"
     },
     {
-      "added_at": "2023-03-31 16:48:51",
+      "added_at": "2023-04-23 10:14:14",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/1jEg0Zcl5ydrt9EVXBP1w6"
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/6TlbQ4aXAwS1Iw55zm42jO"
       },
       "artists": [
         {
-          "name": "Cave Studio",
-          "url": "https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE"
-        }
-      ],
-      "duration_ms": 193124,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/68fHIJayqhaS5aQCNKKkA2"
-    },
-    {
-      "added_at": "2023-04-16 13:12:54",
-      "album": {
-        "name": "Bring It Back",
-        "url": "https://open.spotify.com/album/1uAp3SjH93W2DYygY1ZOqj"
-      },
-      "artists": [
+          "name": "Bellecour",
+          "url": "https://open.spotify.com/artist/1PiNBMw3iIaG021gWeidUY"
+        },
         {
-          "name": "Shok\u00eb",
-          "url": "https://open.spotify.com/artist/3F0pGF36o08n2NE7vIEHyk"
+          "name": "Honey & Badger",
+          "url": "https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK"
         }
       ],
-      "duration_ms": 207888,
-      "name": "Bring It Back",
-      "url": "https://open.spotify.com/track/3apcdPE6p0Ncdz7SAhtbMa"
-    },
-    {
-      "added_at": "2022-09-30 05:47:41",
-      "album": {
-        "name": "CLOD",
-        "url": "https://open.spotify.com/album/0kVpJtY2EYon2C3IMAXwwU"
-      },
-      "artists": [
-        {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 139107,
-      "name": "CLOD",
-      "url": "https://open.spotify.com/track/0TWVLP8GandBcmFzuHD4iv"
-    },
-    {
-      "added_at": "2023-04-09 14:08:41",
-      "album": {
-        "name": "Fortune Teller",
-        "url": "https://open.spotify.com/album/7L6yDxBlc6ZBGeS4Q56ehR"
-      },
-      "artists": [
-        {
-          "name": "Ky William",
-          "url": "https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq"
-        }
-      ],
-      "duration_ms": 221536,
-      "name": "Innocent Type",
-      "url": "https://open.spotify.com/track/4NCHV1VkxX2eJAKM1f1oXA"
-    },
-    {
-      "added_at": "2023-03-31 16:49:00",
-      "album": {
-        "name": "Reflection EP",
-        "url": "https://open.spotify.com/album/41D6tuzkfG6LEGtrqCeVst"
-      },
-      "artists": [
-        {
-          "name": "Havoc & Lawn",
-          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Make You Dance",
-      "url": "https://open.spotify.com/track/1nBKoqVdJng70x0o1eZzVG"
-    },
-    {
-      "added_at": "2023-04-16 13:14:36",
-      "album": {
-        "name": "Samsara / Hangover",
-        "url": "https://open.spotify.com/album/4bgLaGD4Tx5SIKVHik3cNo"
-      },
-      "artists": [
-        {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
-        }
-      ],
-      "duration_ms": 178616,
-      "name": "Samsara",
-      "url": "https://open.spotify.com/track/4U91micKPBG76g9oKoICVk"
-    },
-    {
-      "added_at": "2023-04-09 14:08:32",
-      "album": {
-        "name": "Stronger",
-        "url": "https://open.spotify.com/album/5IqP9C9cQdux5zJpGUOdPI"
-      },
-      "artists": [
-        {
-          "name": "BURNR",
-          "url": "https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5"
-        }
-      ],
-      "duration_ms": 152558,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/1gqRLGe1HWXqwaRw4NOMyp"
+      "duration_ms": 188571,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/0mrdtRdrp9W05nKuE2qFO6"
     },
     {
       "added_at": "2022-05-26 08:21:11",
@@ -353,68 +365,72 @@
       "url": "https://open.spotify.com/track/6bUZWGb0T87wJ2ZPyz0UfC"
     },
     {
-      "added_at": "2023-04-09 14:08:30",
+      "added_at": "2023-04-16 13:12:54",
       "album": {
-        "name": "Shoot the Shot",
-        "url": "https://open.spotify.com/album/4zD4CujteqFDt6lpVrTPmT"
+        "name": "Bring It Back",
+        "url": "https://open.spotify.com/album/1uAp3SjH93W2DYygY1ZOqj"
       },
       "artists": [
         {
-          "name": "Eddy M",
-          "url": "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
+          "name": "Shok\u00eb",
+          "url": "https://open.spotify.com/artist/3F0pGF36o08n2NE7vIEHyk"
         }
       ],
-      "duration_ms": 359998,
-      "name": "Shoot the Shot",
-      "url": "https://open.spotify.com/track/6LEd9JLKmViufFYI0JfLDL"
+      "duration_ms": 207888,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/3apcdPE6p0Ncdz7SAhtbMa"
     },
     {
-      "added_at": "2023-04-16 13:14:41",
+      "added_at": "2023-04-09 14:08:41",
       "album": {
-        "name": "Move Left Move Right",
-        "url": "https://open.spotify.com/album/1RfcDcg06qSjBwrNawMyrp"
+        "name": "Fortune Teller",
+        "url": "https://open.spotify.com/album/7L6yDxBlc6ZBGeS4Q56ehR"
       },
       "artists": [
         {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+          "name": "Ky William",
+          "url": "https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq"
         }
       ],
-      "duration_ms": 216562,
-      "name": "Move Left Move Right",
-      "url": "https://open.spotify.com/track/7wnbohQK3eQyow0q4WuzXf"
+      "duration_ms": 221536,
+      "name": "Innocent Type",
+      "url": "https://open.spotify.com/track/4NCHV1VkxX2eJAKM1f1oXA"
     },
     {
-      "added_at": "2023-04-09 14:08:27",
+      "added_at": "2023-04-23 10:14:24",
       "album": {
-        "name": "Dance With The Groove",
-        "url": "https://open.spotify.com/album/6j6xw4YIAvFAX9sn0oaso2"
+        "name": "I Hope This EP Finds You Well",
+        "url": "https://open.spotify.com/album/5DLfNQMndr0elVO6gvQAvw"
       },
       "artists": [
         {
-          "name": "Ben Kim",
-          "url": "https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL"
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        },
+        {
+          "name": "Mr. Oizo",
+          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
         }
       ],
-      "duration_ms": 231692,
-      "name": "Dance With The Groove",
-      "url": "https://open.spotify.com/track/6gO3915DpPoGjdYAuNSSel"
+      "duration_ms": 282380,
+      "name": "Johnny Depp",
+      "url": "https://open.spotify.com/track/4cakVhdWCueJlwKQr1xkqJ"
     },
     {
-      "added_at": "2023-03-31 16:48:54",
+      "added_at": "2023-04-16 13:14:36",
       "album": {
-        "name": "Kick Drums",
-        "url": "https://open.spotify.com/album/2bi3SgXvYcAfJyMnzEmscq"
+        "name": "Samsara / Hangover",
+        "url": "https://open.spotify.com/album/4bgLaGD4Tx5SIKVHik3cNo"
       },
       "artists": [
         {
-          "name": "Kyle Watson",
-          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
         }
       ],
-      "duration_ms": 174448,
-      "name": "Kick Drums",
-      "url": "https://open.spotify.com/track/0tpw2iisVlCnG0QG8SCIG1"
+      "duration_ms": 178616,
+      "name": "Samsara",
+      "url": "https://open.spotify.com/track/4U91micKPBG76g9oKoICVk"
     },
     {
       "added_at": "2022-07-15 16:45:56",
@@ -433,72 +449,52 @@
       "url": "https://open.spotify.com/track/4DB4uMofaOI0tejIe26XGI"
     },
     {
-      "added_at": "2023-04-09 14:08:38",
+      "added_at": "2023-04-09 14:08:32",
       "album": {
-        "name": "The Mumble",
-        "url": "https://open.spotify.com/album/63xMbYrGDTZ2GTwG96AZch"
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/5IqP9C9cQdux5zJpGUOdPI"
       },
       "artists": [
         {
-          "name": "Groove Aspect",
-          "url": "https://open.spotify.com/artist/6y0pzhdHu0IQAmqbbg6dhd"
+          "name": "BURNR",
+          "url": "https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5"
         }
       ],
-      "duration_ms": 226080,
-      "name": "The Mumble",
-      "url": "https://open.spotify.com/track/1oQkhEfJrxUxFIMGlUMr9O"
+      "duration_ms": 152558,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/1gqRLGe1HWXqwaRw4NOMyp"
     },
     {
-      "added_at": "2023-04-09 14:08:24",
+      "added_at": "2023-04-23 10:14:26",
       "album": {
-        "name": "Like Magic",
-        "url": "https://open.spotify.com/album/6aba6lO5d3mBePXpZMz8ao"
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/25c0NcIfrsEEwytlmyTSLW"
       },
       "artists": [
         {
-          "name": "Rogerson",
-          "url": "https://open.spotify.com/artist/78en4vN76hJHQn9Vf19QJu"
+          "name": "Badjokes",
+          "url": "https://open.spotify.com/artist/4zE0NW3CyaxTBIulekUFMD"
         }
       ],
-      "duration_ms": 176250,
-      "name": "Like Magic",
-      "url": "https://open.spotify.com/track/6ylVMjts8KG2MSaY9opfG9"
+      "duration_ms": 183750,
+      "name": "Fresh",
+      "url": "https://open.spotify.com/track/0XgWrOR3YvrdSfRgT2IpfQ"
     },
     {
-      "added_at": "2023-04-09 14:08:18",
+      "added_at": "2023-04-16 13:14:41",
       "album": {
-        "name": "Hot In Here",
-        "url": "https://open.spotify.com/album/2oKOf2J7XNj4fyp91GNwte"
+        "name": "Move Left Move Right",
+        "url": "https://open.spotify.com/album/1RfcDcg06qSjBwrNawMyrp"
       },
       "artists": [
         {
-          "name": "Nicolau Marinho",
-          "url": "https://open.spotify.com/artist/5oDO3Xserqplvx470RQlq9"
-        },
-        {
-          "name": "Tough Art",
-          "url": "https://open.spotify.com/artist/6XiVEatJ4Bq46wONrrSJwA"
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
         }
       ],
-      "duration_ms": 213959,
-      "name": "Hot In Here",
-      "url": "https://open.spotify.com/track/0KW3srRTtq1XSRRBykgjNm"
-    },
-    {
-      "added_at": "2023-04-09 14:08:13",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/4AFiWn4LRmpoPM6VSe0ydM"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/0Mbxt2EcmRUnajQsMWLK3c"
+      "duration_ms": 216562,
+      "name": "Move Left Move Right",
+      "url": "https://open.spotify.com/track/7wnbohQK3eQyow0q4WuzXf"
     },
     {
       "added_at": "2023-04-16 13:13:10",
@@ -515,6 +511,22 @@
       "duration_ms": 253478,
       "name": "DESIRE96",
       "url": "https://open.spotify.com/track/1Isw0eYkTeBUP4uuqLNHZt"
+    },
+    {
+      "added_at": "2023-04-09 14:08:13",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/4AFiWn4LRmpoPM6VSe0ydM"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 172173,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/0Mbxt2EcmRUnajQsMWLK3c"
     }
   ],
   "unique_name": "AGLF Playlist",

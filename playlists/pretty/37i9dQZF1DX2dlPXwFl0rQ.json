@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables del Regional Mexicano. Chiquis en portada.",
-  "num_followers": 86151,
+  "num_followers": 86214,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMDVhYTRkY2U4YjBmYzI5NGI4YjFkODMwZGYzN2Y5OWU1",
+  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMDA5Y2M3MWJjNzkzOThlZWNkZTU0YmI1ZmIwMjY5ZTdm",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -211,22 +211,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Joyas Prestadas - Banda",
-        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
       },
       "artists": [
         {
           "name": "Jenni Rivera",
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 243173,
-      "name": "Basta Ya - Banda",
-      "url": "https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt"
+      "duration_ms": 194946,
+      "name": "No Llega el Olvido",
+      "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -363,18 +359,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "La Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+        "name": "Joyas Prestadas - Banda",
+        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
       },
       "artists": [
         {
           "name": "Jenni Rivera",
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 194946,
-      "name": "No Llega el Olvido",
-      "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
+      "duration_ms": 243173,
+      "name": "Basta Ya - Banda",
+      "url": "https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Confidente",
-        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 150654,
-      "name": "Que Poquito Me Conoces",
-      "url": "https://open.spotify.com/track/3rxafxANDFSkB2onHUBUe6"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Paloma Blanca",
         "url": "https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 233373,
       "name": "Paloma Blanca",
       "url": "https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Confidente",
+        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 150654,
+      "name": "Que Poquito Me Conoces",
+      "url": "https://open.spotify.com/track/3rxafxANDFSkB2onHUBUe6"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1351,18 +1351,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Esencia",
-        "url": "https://open.spotify.com/album/1zwouzqra6ZrjRg9qkk1gL"
+        "name": "Amor De Unos Botes",
+        "url": "https://open.spotify.com/album/1XtF9fBxTchoV70JxxdFTe"
       },
       "artists": [
         {
           "name": "Erika Vidrio",
           "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        },
+        {
+          "name": "Fernanda Diaz",
+          "url": "https://open.spotify.com/artist/1454MOFLayt1NuJ2CMaY8Y"
         }
       ],
-      "duration_ms": 180000,
-      "name": "40 Y 21",
-      "url": "https://open.spotify.com/track/3bPCfYzKsnzhT4YYcYC0lq"
+      "duration_ms": 195500,
+      "name": "Amor De Unos Botes",
+      "url": "https://open.spotify.com/track/1g1F4DIjpLnh6TEeB8SCHD"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1479,22 +1483,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Amor De Unos Botes",
-        "url": "https://open.spotify.com/album/1XtF9fBxTchoV70JxxdFTe"
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/1zwouzqra6ZrjRg9qkk1gL"
       },
       "artists": [
         {
           "name": "Erika Vidrio",
           "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        },
-        {
-          "name": "Fernanda Diaz",
-          "url": "https://open.spotify.com/artist/1454MOFLayt1NuJ2CMaY8Y"
         }
       ],
-      "duration_ms": 195500,
-      "name": "Amor De Unos Botes",
-      "url": "https://open.spotify.com/track/1g1F4DIjpLnh6TEeB8SCHD"
+      "duration_ms": 180000,
+      "name": "40 Y 21",
+      "url": "https://open.spotify.com/track/3bPCfYzKsnzhT4YYcYC0lq"
     },
     {
       "added_at": "2023-04-14 06:00:00",

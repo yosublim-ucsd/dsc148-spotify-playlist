@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,516 likes - 499 songs - 19 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,625 likes - 499 songs - 19 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 5 | [Ethereal Skies](https://open.spotify.com/track/3zx3T6lbP5nv9VNysciKhM) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Ethereal Skies](https://open.spotify.com/album/6OqpQ8ATutOO63gDNlwxLM) | 1:34 |
 | 6 | [Unsubmarine](https://open.spotify.com/track/6NBHmshG37zEi6efc7Dizj) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Myspys](https://open.spotify.com/album/3AIyDBHIB9Sk0ubLRKh9YB) | 2:17 |
 | 7 | [Forgotten Notes](https://open.spotify.com/track/7s9D30tidyLGaPCRMnTPCs) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Forgotten Notes](https://open.spotify.com/album/6vGfj5wUI07Va1Nh3uO3zd) | 2:18 |
-| 8 | [Comfort](https://open.spotify.com/track/1ivNmhq0yeZEskleFpDqeL) | [BIDØ](https://open.spotify.com/artist/7HSBpX7fVOinHb9CNcL6Qe) | [Comfort](https://open.spotify.com/album/5B26xnwWazwrUEOqHeycy0) | 2:09 |
+| 8 | [Comfort](https://open.spotify.com/track/1ivNmhq0yeZEskleFpDqeL) | [BIDØ](https://open.spotify.com/artist/7HSBpX7fVOinHb9CNcL6Qe), [Shy Guy](https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR) | [Comfort](https://open.spotify.com/album/5B26xnwWazwrUEOqHeycy0) | 2:09 |
 | 9 | [Tuesday canceled](https://open.spotify.com/track/2z53r34wjQfacaaqALKqCK) | [Hammocks & Lime](https://open.spotify.com/artist/3sHx5xJC4akld5WXlIis2Y) | [Tuesday canceled](https://open.spotify.com/album/4GDtrtYqR9N0qHHqxdXaQY) | 2:15 |
 | 10 | [Ikarus](https://open.spotify.com/track/5iLZRwNM72gsugL3hky8Jg) | [Driftwood](https://open.spotify.com/artist/3HG6BbRz8XH4DjjBBfrU3V) | [Cosmonaut](https://open.spotify.com/album/4ywIgUqcPfVH783ZLm7nm3) | 2:29 |
 | 11 | [Heartbreaker](https://open.spotify.com/track/3iMdUIXgUcNapwkVnLVnlo) | [run2me](https://open.spotify.com/artist/5hCMSuSpa0y5KihMVcfGw7) | [Heartbreaker](https://open.spotify.com/album/4Uk0B244BOj9oXREAw0lCi) | 2:24 |

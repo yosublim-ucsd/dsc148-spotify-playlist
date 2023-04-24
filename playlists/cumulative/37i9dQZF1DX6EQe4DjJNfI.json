@@ -1320,7 +1320,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 211524,
       "name": "Mergulhei",
       "url": "https://open.spotify.com/track/58H4xYSRZ65vvmZPEAZ91H"
@@ -1393,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "Nada Mais",
+        "url": "https://open.spotify.com/album/5WXB15pFJ00Wvh3eTPOHku"
+      },
+      "artists": [
+        {
+          "name": "Yas Werneck",
+          "url": "https://open.spotify.com/artist/5TjjSBov2DyArXPihcNWs2"
+        }
+      ],
+      "date_added": "2023-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177531,
+      "name": "Nada Mais",
+      "url": "https://open.spotify.com/track/5FU7Bcnvd27SxFstEF8Cp0"
+    },
+    {
+      "album": {
         "name": "Nessa Vida",
         "url": "https://open.spotify.com/album/1ZoVkAPWCNgOCpRhZH1LgE"
       },
@@ -1448,7 +1466,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-24",
       "duration_ms": 123185,
       "name": "Nosso Futuro",
       "url": "https://open.spotify.com/track/3s4ao4kuMbya51WvYQzMn6"
@@ -1710,7 +1728,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-17",
+      "date_removed": null,
       "duration_ms": 193014,
       "name": "Ponto de Equil\u00edbrio",
       "url": "https://open.spotify.com/track/7c4JagpZuj0wWkJmYMubyV"
@@ -2022,7 +2040,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-24",
       "duration_ms": 173385,
       "name": "SHAWTY",
       "url": "https://open.spotify.com/track/27WkGbGW5pZ03Gm8Ly4r4b"
@@ -2444,7 +2462,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-24",
       "duration_ms": 240700,
       "name": "Vig\u00e9simo Andar",
       "url": "https://open.spotify.com/track/6v2AEuks4HqnGo4aiEhuxZ"

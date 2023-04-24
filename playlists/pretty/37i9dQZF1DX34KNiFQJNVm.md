@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Anitta, Matheus & Kauan, Mari Fernandez com Luiza Sonza, Luccas Carlos, Molejo com Thiaguinho e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,863,127 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,863,409 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 37 | [Marolento](https://open.spotify.com/track/6qylu0VNKUfKiVi88WL3Ci) | [Puterrier](https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Pedro Bala](https://open.spotify.com/artist/2PyMbAyHhTofwt07234U0f) | [Marolento](https://open.spotify.com/album/4TzGr4urshbTMEJoXTfsb6) | 2:41 |
 | 38 | [Jogadora](https://open.spotify.com/track/6sC3J89DuBOD97q16JVoyA) | [MC Teteu](https://open.spotify.com/artist/2pV4eqEWsHrgwSbuAg2fmi), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [DJ Game Beat](https://open.spotify.com/artist/4HKGfDTu7UZBgSsAgCaUCi) | [Jogadora](https://open.spotify.com/album/0aQTPA67KI2FYXuZCmojoj) | 2:41 |
 | 39 | [Cequecê](https://open.spotify.com/track/1HNuDOH7x8GpZxHZ6xpuVW) | [Os Tincoãs](https://open.spotify.com/artist/2rnJUBfFhgXBrywGEQ8zC7) | [Canto Coral Afrobrasileiro](https://open.spotify.com/album/5nPh3YWXdvHSCjFFECjR63) | 3:05 |
-| 40 | [Afronta III](https://open.spotify.com/track/5gszkrQOeUTPRDNfuQdx8a) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym) | [Afronta III](https://open.spotify.com/album/6kY1etv0G7GWQkr1F09uZi) | 2:46 |
+| 40 | [Afronta III](https://open.spotify.com/track/5gszkrQOeUTPRDNfuQdx8a) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym), [Amandes no beat](https://open.spotify.com/artist/65cORrbTAxZD0gJxnFZKB6), [MATHINVOKER](https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc) | [Afronta III](https://open.spotify.com/album/6kY1etv0G7GWQkr1F09uZi) | 2:46 |
 | 41 | [Balança Dona Onça](https://open.spotify.com/track/7wRB9osEiwoJQtttVmpDmm) | [Gu](https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Balança Dona Onça](https://open.spotify.com/album/37Lo8SM4fMpdXXliNW4d3H) | 3:24 |
 | 42 | [TONTA](https://open.spotify.com/track/6HzWCIc51HnyGCOVRMH2AI) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [TONTA](https://open.spotify.com/album/2XMjjytI813j8uJ65UQYBG) | 3:23 |
 | 43 | [Montagem do Senta](https://open.spotify.com/track/5AyFFdYZUgmhAFjrudmYXE) | [MC Levin](https://open.spotify.com/artist/0guw2RGoUqaWKpoCY5DzWY), [MC PR](https://open.spotify.com/artist/0Vxqvpm9tpZcz6d4egDtjX) | [Montagem do Senta](https://open.spotify.com/album/6FBhmeofqhDRMrv6mSpCXP) | 2:16 |

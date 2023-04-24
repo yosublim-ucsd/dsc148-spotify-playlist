@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude08 turn anywhere into a sexy club \ud83d\ude08",
-  "num_followers": 52403,
+  "num_followers": 52497,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTk4NDM1OSwwMDAwMDAwMDljY2E1YzRjZjYwOGFhNzFmYmEzMWQ4MDM0ZWRmNjYz",
+  "snapshot_id": "MTY4MTk4NDM1OSwwMDAwMDAwMDczNDYwOWRiYjNlNzZlNmMzMGU1MjEzMWUyNDcwNDIz",
   "tracks": [
     {
       "added_at": "2023-04-04 13:57:02",
@@ -263,26 +263,6 @@
     {
       "added_at": "2023-04-04 13:57:02",
       "album": {
-        "name": "Short Dick Man",
-        "url": "https://open.spotify.com/album/3BQ6ifqB1pglyvEJQrcauT"
-      },
-      "artists": [
-        {
-          "name": "20 Fingers",
-          "url": "https://open.spotify.com/artist/0OarfYzJPCi3lAVZ4nhTTd"
-        },
-        {
-          "name": "Gillette",
-          "url": "https://open.spotify.com/artist/20ldWECcOHmOWwKwAwvn4y"
-        }
-      ],
-      "duration_ms": 290933,
-      "name": "Short Dick Man - Club Mix",
-      "url": "https://open.spotify.com/track/6ZZr5ew0DvA6xda9T5owOU"
-    },
-    {
-      "added_at": "2023-04-04 13:57:02",
-      "album": {
         "name": "Farm Fantasies",
         "url": "https://open.spotify.com/album/4iQOiiyHbLlwLTnPUDZPEo"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 266344,
       "name": "My Barn My Rules",
       "url": "https://open.spotify.com/track/1yw28y3kv8uS7ENaZkbUFt"
+    },
+    {
+      "added_at": "2023-04-04 13:57:02",
+      "album": {
+        "name": "Short Dick Man",
+        "url": "https://open.spotify.com/album/3BQ6ifqB1pglyvEJQrcauT"
+      },
+      "artists": [
+        {
+          "name": "20 Fingers",
+          "url": "https://open.spotify.com/artist/0OarfYzJPCi3lAVZ4nhTTd"
+        },
+        {
+          "name": "Gillette",
+          "url": "https://open.spotify.com/artist/20ldWECcOHmOWwKwAwvn4y"
+        }
+      ],
+      "duration_ms": 290933,
+      "name": "Short Dick Man - Club Mix",
+      "url": "https://open.spotify.com/track/6ZZr5ew0DvA6xda9T5owOU"
     },
     {
       "added_at": "2023-04-04 13:57:02",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-04-04 13:57:02",
       "album": {
+        "name": "Fantasea",
+        "url": "https://open.spotify.com/album/2Nj39YNwq6SDzLBM6gVumD"
+      },
+      "artists": [
+        {
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+        }
+      ],
+      "duration_ms": 193738,
+      "name": "Fierce",
+      "url": "https://open.spotify.com/track/0O8cjpT4jO3ngCdkxf9726"
+    },
+    {
+      "added_at": "2023-04-04 13:57:02",
+      "album": {
         "name": "Dawn Of Chromatica",
         "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 225325,
       "name": "Sour Candy (with BLACKPINK) - Shygirl & Mura Masa Remix",
       "url": "https://open.spotify.com/track/56kudbKiRjWCwiAS3FRHCL"
-    },
-    {
-      "added_at": "2023-04-04 13:57:02",
-      "album": {
-        "name": "Fantasea",
-        "url": "https://open.spotify.com/album/2Nj39YNwq6SDzLBM6gVumD"
-      },
-      "artists": [
-        {
-          "name": "Azealia Banks",
-          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
-        }
-      ],
-      "duration_ms": 193738,
-      "name": "Fierce",
-      "url": "https://open.spotify.com/track/0O8cjpT4jO3ngCdkxf9726"
     },
     {
       "added_at": "2023-04-04 13:57:02",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-04-04 13:57:02",
       "album": {
+        "name": "Tired and Sick",
+        "url": "https://open.spotify.com/album/5bx8drBY6ZIOlIy5wZtb6s"
+      },
+      "artists": [
+        {
+          "name": "Otha",
+          "url": "https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV"
+        }
+      ],
+      "duration_ms": 172172,
+      "name": "Tired and Sick",
+      "url": "https://open.spotify.com/track/59rqs8yRLVyfw5CosESRQX"
+    },
+    {
+      "added_at": "2023-04-04 13:57:02",
+      "album": {
         "name": "Hoe",
         "url": "https://open.spotify.com/album/2CtMkQOUMEtPUiG5pSBtQl"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 283900,
       "name": "Hoe",
       "url": "https://open.spotify.com/track/6Alnnwoyf0MVnOZME6p6TD"
-    },
-    {
-      "added_at": "2023-04-04 13:57:02",
-      "album": {
-        "name": "Tired and Sick",
-        "url": "https://open.spotify.com/album/5bx8drBY6ZIOlIy5wZtb6s"
-      },
-      "artists": [
-        {
-          "name": "Otha",
-          "url": "https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV"
-        }
-      ],
-      "duration_ms": 172172,
-      "name": "Tired and Sick",
-      "url": "https://open.spotify.com/track/59rqs8yRLVyfw5CosESRQX"
     },
     {
       "added_at": "2023-04-04 13:57:02",
@@ -723,6 +723,26 @@
     {
       "added_at": "2023-04-04 13:57:02",
       "album": {
+        "name": "Tear The House Up",
+        "url": "https://open.spotify.com/album/7xRaM4csKANBCc9QHxQ6da"
+      },
+      "artists": [
+        {
+          "name": "Zebra Katz",
+          "url": "https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a"
+        },
+        {
+          "name": "Herv\u00e9",
+          "url": "https://open.spotify.com/artist/0lmpSjaPzC8ChqeFQ6Z3VS"
+        }
+      ],
+      "duration_ms": 280645,
+      "name": "Tear the House Up",
+      "url": "https://open.spotify.com/track/5NHMpUXObw7wi2cTjDIAPW"
+    },
+    {
+      "added_at": "2023-04-04 13:57:02",
+      "album": {
         "name": "Hypnotized",
         "url": "https://open.spotify.com/album/0Jx1Hy8YQ5ZzGwy8DLW8Hu"
       },
@@ -751,26 +771,6 @@
       "duration_ms": 197114,
       "name": "CO1N",
       "url": "https://open.spotify.com/track/3Oh4rpQGw4rPbs09o04YXZ"
-    },
-    {
-      "added_at": "2023-04-04 13:57:02",
-      "album": {
-        "name": "Tear The House Up",
-        "url": "https://open.spotify.com/album/7xRaM4csKANBCc9QHxQ6da"
-      },
-      "artists": [
-        {
-          "name": "Zebra Katz",
-          "url": "https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a"
-        },
-        {
-          "name": "Herv\u00e9",
-          "url": "https://open.spotify.com/artist/0lmpSjaPzC8ChqeFQ6Z3VS"
-        }
-      ],
-      "duration_ms": 280645,
-      "name": "Tear the House Up",
-      "url": "https://open.spotify.com/track/5NHMpUXObw7wi2cTjDIAPW"
     },
     {
       "added_at": "2023-04-04 13:57:02",

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 6424,
+  "num_followers": 6456,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MzQ2OSwwMDAwMDAwMDY1Yzg5OTIxNmE4OTc3ZTNlN2QwYTM1NGM4NzI5MDJh",
+  "snapshot_id": "MTY2NDY0MzQ2OSwwMDAwMDAwMDk0NWQ5ZmM0ZjA2Nzc1ZjRjOTZhOWY2ZjJjYzAwYzRl",
   "tracks": [
     {
       "added_at": "2022-10-01 16:57:49",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
-        "name": "AT HOME",
-        "url": "https://open.spotify.com/album/4v5hIeJhusFcKFXyRHRBoy"
-      },
-      "artists": [
-        {
-          "name": "Eddie Hazel",
-          "url": "https://open.spotify.com/artist/3JVF9a4IJrL7sTSdjXxIqJ"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "California Dreaming",
-      "url": "https://open.spotify.com/track/2F7dvdHfSM5cZxrkkptddA"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
         "name": "Revenge Is Sweet",
         "url": "https://open.spotify.com/album/352aXyfcekSqY1ZvC0jrBe"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 268643,
       "name": "Goat Level",
       "url": "https://open.spotify.com/track/7eNr4C0NWjNdA8K31s7QAc"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
+        "name": "AT HOME",
+        "url": "https://open.spotify.com/album/4v5hIeJhusFcKFXyRHRBoy"
+      },
+      "artists": [
+        {
+          "name": "Eddie Hazel",
+          "url": "https://open.spotify.com/artist/3JVF9a4IJrL7sTSdjXxIqJ"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "California Dreaming",
+      "url": "https://open.spotify.com/track/2F7dvdHfSM5cZxrkkptddA"
     },
     {
       "added_at": "2022-10-01 16:57:49",

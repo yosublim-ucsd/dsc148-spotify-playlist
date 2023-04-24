@@ -2730,10 +2730,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-24",
       "duration_ms": 191066,
       "name": "Amor Ideal",
       "url": "https://open.spotify.com/track/3tfhPCPL0EpFYOmsRiYoLv"
+    },
+    {
+      "album": {
+        "name": "Grandes \u00c9xitos 1976-1981 (Remastered 2019)",
+        "url": "https://open.spotify.com/album/5HfnDoByb6e9K3zxPPUsfQ"
+      },
+      "artists": [
+        {
+          "name": "Chacal\u00f3n y la Nueva Crema",
+          "url": "https://open.spotify.com/artist/3HJvj2ET4zSRuxv0m4nLmw"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191200,
+      "name": "Amor Ideal - Remastered 2019",
+      "url": "https://open.spotify.com/track/1ef1WzJeM8SpMgVUhZVMXc"
     },
     {
       "album": {

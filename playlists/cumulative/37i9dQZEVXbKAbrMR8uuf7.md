@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-848 songs - 1 day 23 hr 3 min
+849 songs - 1 day 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [CÓMO SE SIENTE \- Remix](https://open.spotify.com/track/2tFwfmceQa1Y6nRPhYbEtC) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [CÓMO SE SIENTE \(Remix\)](https://open.spotify.com/album/0VLl6NV05DjwNE2lZFdCEI) | 3:47 | 2021-03-27\* | 2022-09-25 |
 | [Cúrame](https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 2:44 | 2021-12-21 | 2022-03-24 |
 | [Cúrame](https://open.spotify.com/track/3PwRuzdphgedcWVUOVYJ7I) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 2:44 | 2021-06-27 | 2021-12-22 |
+| [Dame Luz](https://open.spotify.com/track/48hiPJ8wRid8KhxtOHDVxh) | [Sarodj](https://open.spotify.com/artist/49V0e4iCjNvIqEuyFDQi0F) | [Dame Luz](https://open.spotify.com/album/4hXpWFW2juIwsJ2ljt1sVC) | 3:17 | 2023-04-23 |  |
 | [Darkside of the Moon](https://open.spotify.com/track/6wAxlNv0WpuKehR1hvhUb6) | [Mahlano Da'don](https://open.spotify.com/artist/5Bptlibx8LqiqumMmi8hP0) | [Darkside of the Moon](https://open.spotify.com/album/0EUufDQgglWJKmsdMq1GRq) | 2:36 | 2021-08-08 | 2021-08-09 |
 | [Darte](https://open.spotify.com/track/01mWlpEyZqCGhBux8Dzgwv) | [Ale Mix](https://open.spotify.com/artist/2uxoElzOZDIX9L5Dc7Oa2F), [Legado ARM](https://open.spotify.com/artist/5GpMQrgxNjUa38cPXLtwbe), [Drei Alva](https://open.spotify.com/artist/6AVIeFa086ZaYFspAj7fNz) | [Darte](https://open.spotify.com/album/5uvlpwrn9Fs6b80NMwZyQ4) | 2:23 | 2022-11-02 | 2022-12-22 |
 | [Davirito](https://open.spotify.com/track/5aB65kxjdKGNBTVcZKMNvF) | [El Domi Blanco](https://open.spotify.com/artist/2lYYTh54aFc39yR3J8rcZ0), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [Davirito](https://open.spotify.com/album/2ZKxqH2FMNtMEQQGo0tKkP) | 2:27 | 2022-11-13 | 2023-02-05 |
@@ -496,7 +497,7 @@
 | [Mi Area](https://open.spotify.com/track/1w0oaaPLWVXGJWtUrYjuO8) | [EL YALA](https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU), [Hansel El De La H](https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG) | [Mi Area](https://open.spotify.com/album/2Lnt1buAvmsRqBbzjg5yhr) | 2:56 | 2022-09-12 | 2022-10-20 |
 | [Mi Contacto](https://open.spotify.com/track/1wkfytfHLwJknHpMJZMlxk) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Mi Contacto](https://open.spotify.com/album/4B3c8ImmLtG9dGbYQdmiw8) | 3:36 | 2021-04-18 | 2021-08-04 |
 | [Mi Contacto Remix](https://open.spotify.com/track/7oNpBMRz1pmEvyxiSGxU7V) | [Rochy El Jefe](https://open.spotify.com/artist/39f7LHKJFK3HoxHZqrq9Lb) | [Mi Contacto Remix](https://open.spotify.com/album/0pMWupcM6HNxZJ9zAWqgKa) | 3:36 | 2021-03-27\* | 2021-04-18 |
-| [MI EXXX](https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [MI EXXX](https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC) | 3:14 | 2023-04-22 |  |
+| [MI EXXX](https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [MI EXXX](https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC) | 3:14 | 2023-04-22 | 2023-04-24 |
 | [Mi Flaca](https://open.spotify.com/track/0QzZqrEZ4FpviHkpafy5lQ) | [Dilon Baby](https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN), [DJ Kiko El De Lo Alka](https://open.spotify.com/artist/3Yw1hzqrJkVzGIliYmCKvF) | [Mi Flaca](https://open.spotify.com/album/0x9ue70sk15y8M4EDjGLHx) | 1:50 | 2023-02-07 |  |
 | [Mi Flaca \- Remix](https://open.spotify.com/track/3KvshDFG7oEN6MDVQI2NHD) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Dilon Baby](https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN), [DJ Kiko El De Lo Alka](https://open.spotify.com/artist/3Yw1hzqrJkVzGIliYmCKvF), [Frasigan](https://open.spotify.com/artist/6GQHqIsOYyPK7DEMp1wCHo) | [Mi Flaca \(Remix\)](https://open.spotify.com/album/0p4eyPNYAgdQ5xiUKWmRwW) | 2:07 | 2023-02-24 |  |
 | [Mi Mujer](https://open.spotify.com/track/5egRsJ1PCjt4gUkCj2buEO) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [PiketeProducer](https://open.spotify.com/artist/2jPT8lavd5CEDTo01dGqar) | [Mi Mujer](https://open.spotify.com/album/0wOCaIKtodIw8K1UuVJtYa) | 2:35 | 2023-04-09 | 2023-04-11 |

@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes to soundtrack your weekend. Cover: The Tragically Hip",
-  "num_followers": 49773,
+  "num_followers": 49780,
   "original_name": "Canadian Weekend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMDg3YzBjYTQ3OGY1OTRjNzFkZjE5ZWJmMTM4NGY3N2E0",
+  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMGJjZTdjOGVkZWMwZTY3ZDYzZDFiNDUxNDI4ZDhlZDli",
   "tracks": [
     {
       "added_at": "2022-09-13 21:55:44",
@@ -171,18 +171,18 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "The Long Road",
-        "url": "https://open.spotify.com/album/4fygErqiNgFUic5hU42Z3E"
+        "name": "Moving Pictures (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
       },
       "artists": [
         {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
         }
       ],
-      "duration_ms": 207466,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/4PkJ7c9y1CwpuVOiJODnCZ"
+      "duration_ms": 276880,
+      "name": "Tom Sawyer",
+      "url": "https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -219,18 +219,18 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Moving Pictures (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
+        "name": "The Long Road",
+        "url": "https://open.spotify.com/album/4fygErqiNgFUic5hU42Z3E"
       },
       "artists": [
         {
-          "name": "Rush",
-          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
         }
       ],
-      "duration_ms": 276880,
-      "name": "Tom Sawyer",
-      "url": "https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"
+      "duration_ms": 207466,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/4PkJ7c9y1CwpuVOiJODnCZ"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "First Offense",
-        "url": "https://open.spotify.com/album/2cB87PuIi04CRdxhuNrRi5"
-      },
-      "artists": [
-        {
-          "name": "Corey Hart",
-          "url": "https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Sunglasses At Night",
-      "url": "https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Loverboy",
         "url": "https://open.spotify.com/album/3dDzAVWr5gjvJIOTEuS309"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 337933,
       "name": "Turn Me Loose",
       "url": "https://open.spotify.com/track/2Z81PDDYNMTxZKiU2XIuFx"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "First Offense",
+        "url": "https://open.spotify.com/album/2cB87PuIi04CRdxhuNrRi5"
+      },
+      "artists": [
+        {
+          "name": "Corey Hart",
+          "url": "https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Sunglasses At Night",
+      "url": "https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Gord's Gold",
-        "url": "https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ"
-      },
-      "artists": [
-        {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "Early Morning Rain",
-      "url": "https://open.spotify.com/track/5M1gX3DQvgc7GI6dBWX9FL"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Phantom Power",
         "url": "https://open.spotify.com/album/3HWQXn3dGZPSnIhVkvHIOz"
       },
@@ -603,18 +587,18 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Against the Grain",
-        "url": "https://open.spotify.com/album/31HTyjLaXPAb2xq3qe83Qd"
+        "name": "Gord's Gold",
+        "url": "https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ"
       },
       "artists": [
         {
-          "name": "Stampeders",
-          "url": "https://open.spotify.com/artist/39uv7qSNwIoaAtWNioWnxp"
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
         }
       ],
-      "duration_ms": 207426,
-      "name": "Sweet City Woman",
-      "url": "https://open.spotify.com/track/52SCT6ImFklqEhH21lgErO"
+      "duration_ms": 198066,
+      "name": "Early Morning Rain",
+      "url": "https://open.spotify.com/track/5M1gX3DQvgc7GI6dBWX9FL"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -631,6 +615,22 @@
       "duration_ms": 277240,
       "name": "Constant Craving",
       "url": "https://open.spotify.com/track/0wCrg1LhgPcGMw51qqpI6k"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Against the Grain",
+        "url": "https://open.spotify.com/album/31HTyjLaXPAb2xq3qe83Qd"
+      },
+      "artists": [
+        {
+          "name": "Stampeders",
+          "url": "https://open.spotify.com/artist/39uv7qSNwIoaAtWNioWnxp"
+        }
+      ],
+      "duration_ms": 207426,
+      "name": "Sweet City Woman",
+      "url": "https://open.spotify.com/track/52SCT6ImFklqEhH21lgErO"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Living Under June",
-        "url": "https://open.spotify.com/album/4459ANZzMiQV2nvpH8lc6O"
-      },
-      "artists": [
-        {
-          "name": "Jann Arden",
-          "url": "https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F"
-        }
-      ],
-      "duration_ms": 255893,
-      "name": "Insensitive",
-      "url": "https://open.spotify.com/track/0yx00RNuvZY5Vn8nlpUnMk"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Cuts Like A Knife",
         "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 319800,
       "name": "Cuts Like A Knife",
       "url": "https://open.spotify.com/track/5oZ2YnJxTXl7CdJJKehPHR"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Living Under June",
+        "url": "https://open.spotify.com/album/4459ANZzMiQV2nvpH8lc6O"
+      },
+      "artists": [
+        {
+          "name": "Jann Arden",
+          "url": "https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F"
+        }
+      ],
+      "duration_ms": 255893,
+      "name": "Insensitive",
+      "url": "https://open.spotify.com/track/0yx00RNuvZY5Vn8nlpUnMk"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "How Far Shallow Takes You",
-        "url": "https://open.spotify.com/album/1K79PLVBw5N5tDcIygMYeW"
+        "name": "Share The Land",
+        "url": "https://open.spotify.com/album/3zlRX163Z3F9H0MWPmtiBV"
       },
       "artists": [
         {
-          "name": "Gob",
-          "url": "https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf"
+          "name": "The Guess Who",
+          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
         }
       ],
-      "duration_ms": 196106,
-      "name": "Paint It Black",
-      "url": "https://open.spotify.com/track/7ybIcMrSGMNBlZk0FLkvls"
+      "duration_ms": 235600,
+      "name": "Share the Land",
+      "url": "https://open.spotify.com/track/51krF0CyHT5AEuh81K0t0z"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Share The Land",
-        "url": "https://open.spotify.com/album/3zlRX163Z3F9H0MWPmtiBV"
+        "name": "How Far Shallow Takes You",
+        "url": "https://open.spotify.com/album/1K79PLVBw5N5tDcIygMYeW"
       },
       "artists": [
         {
-          "name": "The Guess Who",
-          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
+          "name": "Gob",
+          "url": "https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf"
         }
       ],
-      "duration_ms": 235600,
-      "name": "Share the Land",
-      "url": "https://open.spotify.com/track/51krF0CyHT5AEuh81K0t0z"
+      "duration_ms": 196106,
+      "name": "Paint It Black",
+      "url": "https://open.spotify.com/track/7ybIcMrSGMNBlZk0FLkvls"
     },
     {
       "added_at": "2022-09-13 21:55:44",

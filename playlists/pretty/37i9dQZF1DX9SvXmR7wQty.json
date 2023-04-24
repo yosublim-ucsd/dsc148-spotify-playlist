@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Les Louanges",
-  "num_followers": 36439,
+  "num_followers": 36444,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTc3MiwwMDAwMDAwMDMyNTNlZDg2ZmRkN2ZiNWQyZmY5ZTFhNzI4MjE5YTBl",
+  "snapshot_id": "MTY4MjA0OTc3MiwwMDAwMDAwMGFmZWJhMzFiYzE2OTEwMTU4YzQzYmRiNWE1ZTJmODkx",
   "tracks": [
     {
       "added_at": "2023-04-21 04:01:00",
@@ -239,18 +239,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "La symphonie des \u00e9clairs",
-        "url": "https://open.spotify.com/album/1Vg18m8cCSPsTrGSoe0gpH"
+        "name": "Evidence",
+        "url": "https://open.spotify.com/album/2h6EgCJTdQ57YGsmp4pCII"
       },
       "artists": [
         {
-          "name": "Zaho de Sagazan",
-          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
+          "name": "Kim",
+          "url": "https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         }
       ],
-      "duration_ms": 198789,
-      "name": "La symphonie des \u00e9clairs",
-      "url": "https://open.spotify.com/track/1E9HERI5XdI9ZZIgCw51QS"
+      "duration_ms": 173253,
+      "name": "Joli c\u0153ur",
+      "url": "https://open.spotify.com/track/4xCFHoSZjzetjFGQadXlgR"
     },
     {
       "added_at": "2023-04-21 04:02:51",
@@ -271,22 +275,18 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Evidence",
-        "url": "https://open.spotify.com/album/2h6EgCJTdQ57YGsmp4pCII"
+        "name": "La symphonie des \u00e9clairs",
+        "url": "https://open.spotify.com/album/1Vg18m8cCSPsTrGSoe0gpH"
       },
       "artists": [
         {
-          "name": "Kim",
-          "url": "https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+          "name": "Zaho de Sagazan",
+          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
         }
       ],
-      "duration_ms": 173253,
-      "name": "Joli c\u0153ur",
-      "url": "https://open.spotify.com/track/4xCFHoSZjzetjFGQadXlgR"
+      "duration_ms": 198789,
+      "name": "La symphonie des \u00e9clairs",
+      "url": "https://open.spotify.com/track/1E9HERI5XdI9ZZIgCw51QS"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "Ma r\u00e9alit\u00e9 (Affam\u00e9 #19)",
+        "url": "https://open.spotify.com/album/25E06yKmotTBzGMPgLiUbU"
+      },
+      "artists": [
+        {
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Ma r\u00e9alit\u00e9 (Affam\u00e9 #19)",
+      "url": "https://open.spotify.com/track/1yHFMV89hpqsn3mxD1lZSa"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "C'est mon ann\u00e9e",
         "url": "https://open.spotify.com/album/5latsb8ARw44uhumB0rLwT"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 128720,
       "name": "Chaud",
       "url": "https://open.spotify.com/track/0vjRWn9TkzH3P8iRqkiHNS"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Ma r\u00e9alit\u00e9 (Affam\u00e9 #19)",
-        "url": "https://open.spotify.com/album/25E06yKmotTBzGMPgLiUbU"
-      },
-      "artists": [
-        {
-          "name": "Zamdane",
-          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Ma r\u00e9alit\u00e9 (Affam\u00e9 #19)",
-      "url": "https://open.spotify.com/track/1yHFMV89hpqsn3mxD1lZSa"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/64UvjiGQmwEMMDIhJQzqSS"
+        "name": "Aloha Baby",
+        "url": "https://open.spotify.com/album/6AEcF9E1JgVy7J4U0UfpYh"
       },
       "artists": [
         {
-          "name": "Nuit Incolore",
-          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
         }
       ],
-      "duration_ms": 202453,
-      "name": "Loin",
-      "url": "https://open.spotify.com/track/5WSlvjDoex3EpSUhR5IKBP"
+      "duration_ms": 365866,
+      "name": "Aloha Baby",
+      "url": "https://open.spotify.com/track/6U3pRWlzTqWbjBjBHfIvEI"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -559,18 +559,34 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Aloha Baby",
-        "url": "https://open.spotify.com/album/6AEcF9E1JgVy7J4U0UfpYh"
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/64UvjiGQmwEMMDIhJQzqSS"
       },
       "artists": [
         {
-          "name": "La Femme",
-          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
         }
       ],
-      "duration_ms": 365866,
-      "name": "Aloha Baby",
-      "url": "https://open.spotify.com/track/6U3pRWlzTqWbjBjBHfIvEI"
+      "duration_ms": 202453,
+      "name": "Loin",
+      "url": "https://open.spotify.com/track/5WSlvjDoex3EpSUhR5IKBP"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "J'oublie",
+        "url": "https://open.spotify.com/album/3cHfA8bgpYXok3XYIIaYb1"
+      },
+      "artists": [
+        {
+          "name": "Yuzmv",
+          "url": "https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm"
+        }
+      ],
+      "duration_ms": 176051,
+      "name": "J'oublie",
+      "url": "https://open.spotify.com/track/47ZrpiH2Koy794jtcdPmHn"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -631,54 +647,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "J'oublie",
-        "url": "https://open.spotify.com/album/3cHfA8bgpYXok3XYIIaYb1"
-      },
-      "artists": [
-        {
-          "name": "Yuzmv",
-          "url": "https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm"
-        }
-      ],
-      "duration_ms": 176051,
-      "name": "J'oublie",
-      "url": "https://open.spotify.com/track/47ZrpiH2Koy794jtcdPmHn"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "BOO",
-        "url": "https://open.spotify.com/album/3WgIFOH5NcAONFDaOeaC5V"
-      },
-      "artists": [
-        {
-          "name": "Le Juiice",
-          "url": "https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC"
-        }
-      ],
-      "duration_ms": 140629,
-      "name": "BOO",
-      "url": "https://open.spotify.com/track/12x0etPnK49pq5vhH5bqUY"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Photographies",
-        "url": "https://open.spotify.com/album/0BRpAxU0TVRDmidxpZrGpD"
-      },
-      "artists": [
-        {
-          "name": "Alice et Moi",
-          "url": "https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3"
-        }
-      ],
-      "duration_ms": 176821,
-      "name": "Photographies",
-      "url": "https://open.spotify.com/track/3zjeCHlhWyJwQDKppjMG1F"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Addictocrate",
         "url": "https://open.spotify.com/album/508sRFnLjCW27sJsleXuOm"
       },
@@ -711,18 +679,70 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Les gens qu'on aime",
-        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
+        "name": "BOO",
+        "url": "https://open.spotify.com/album/3WgIFOH5NcAONFDaOeaC5V"
       },
       "artists": [
         {
-          "name": "Philippe Brach",
-          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
+          "name": "Le Juiice",
+          "url": "https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC"
         }
       ],
-      "duration_ms": 182880,
-      "name": "Un peu de magie",
-      "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"
+      "duration_ms": 140629,
+      "name": "BOO",
+      "url": "https://open.spotify.com/track/12x0etPnK49pq5vhH5bqUY"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Prends \u00e7a",
+        "url": "https://open.spotify.com/album/5mbn5HLQFzfnluNW4f5GUh"
+      },
+      "artists": [
+        {
+          "name": "Driks",
+          "url": "https://open.spotify.com/artist/3mTLkUsH6xz7b0UjcNcVsN"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 165981,
+      "name": "Prends \u00e7a",
+      "url": "https://open.spotify.com/track/4OY6TT0DO2LqzGkl4iV41T"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Photographies",
+        "url": "https://open.spotify.com/album/0BRpAxU0TVRDmidxpZrGpD"
+      },
+      "artists": [
+        {
+          "name": "Alice et Moi",
+          "url": "https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3"
+        }
+      ],
+      "duration_ms": 176821,
+      "name": "Photographies",
+      "url": "https://open.spotify.com/track/3zjeCHlhWyJwQDKppjMG1F"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Comme un fr\u00e8re",
+        "url": "https://open.spotify.com/album/0SETqQbAljWEL1UOmTNMaB"
+      },
+      "artists": [
+        {
+          "name": "Nour",
+          "url": "https://open.spotify.com/artist/2Z55seSc1gT7BWnV0ElFNL"
+        }
+      ],
+      "duration_ms": 169165,
+      "name": "Comme un fr\u00e8re",
+      "url": "https://open.spotify.com/track/3rzmuV2h0jeH4P7ueN6pQR"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -743,6 +763,22 @@
       "duration_ms": 187000,
       "name": "zzz",
       "url": "https://open.spotify.com/track/7dO2JbXPSd8MhXv38IKi2x"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Les gens qu'on aime",
+        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
+      },
+      "artists": [
+        {
+          "name": "Philippe Brach",
+          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "Un peu de magie",
+      "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -779,26 +815,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Prends \u00e7a",
-        "url": "https://open.spotify.com/album/5mbn5HLQFzfnluNW4f5GUh"
-      },
-      "artists": [
-        {
-          "name": "Driks",
-          "url": "https://open.spotify.com/artist/3mTLkUsH6xz7b0UjcNcVsN"
-        },
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 165981,
-      "name": "Prends \u00e7a",
-      "url": "https://open.spotify.com/track/4OY6TT0DO2LqzGkl4iV41T"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Gabriel",
         "url": "https://open.spotify.com/album/0VBafPEujxjs7wbBIW47fu"
       },
@@ -823,18 +839,38 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Comme un fr\u00e8re",
-        "url": "https://open.spotify.com/album/0SETqQbAljWEL1UOmTNMaB"
+        "name": "Le phare",
+        "url": "https://open.spotify.com/album/0lqfuFa5N6MPeFQ8RqV5aM"
       },
       "artists": [
         {
-          "name": "Nour",
-          "url": "https://open.spotify.com/artist/2Z55seSc1gT7BWnV0ElFNL"
+          "name": "\u00c9tienne Daho",
+          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
         }
       ],
-      "duration_ms": 169165,
-      "name": "Comme un fr\u00e8re",
-      "url": "https://open.spotify.com/track/3rzmuV2h0jeH4P7ueN6pQR"
+      "duration_ms": 175840,
+      "name": "Le phare",
+      "url": "https://open.spotify.com/track/7LRGPtVQQYY6K8b33T0TGi"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "SKRRT Vol.1",
+        "url": "https://open.spotify.com/album/2fNF8tBMkZftgaZ32zxO7Q"
+      },
+      "artists": [
+        {
+          "name": "Skefre",
+          "url": "https://open.spotify.com/artist/23jImQO2IKgMUgt4eLYF4y"
+        },
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        }
+      ],
+      "duration_ms": 197498,
+      "name": "COMME MOI",
+      "url": "https://open.spotify.com/track/6RPqZSIXlEsYqDArWUdly7"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -851,42 +887,6 @@
       "duration_ms": 167979,
       "name": "J'oublie",
       "url": "https://open.spotify.com/track/4zHqp3LEO1JwurpZeQQjfk"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "CHROME",
-        "url": "https://open.spotify.com/album/4MDZ6yaBI8zprg0toiVi2V"
-      },
-      "artists": [
-        {
-          "name": "LaF",
-          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
-        }
-      ],
-      "duration_ms": 154069,
-      "name": "Combien de fois",
-      "url": "https://open.spotify.com/track/0ZmrtZCiyuqA8Zmv3Ne9Gq"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Baby Girl",
-        "url": "https://open.spotify.com/album/2HEFMSENu5R3dvFLFoQTGi"
-      },
-      "artists": [
-        {
-          "name": "Ced Auger",
-          "url": "https://open.spotify.com/artist/64wJH22II7dGiPX2c8ClZk"
-        },
-        {
-          "name": "og cyrus",
-          "url": "https://open.spotify.com/artist/3KRSccEFVrRnMRe0XKGuNy"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Baby Girl",
-      "url": "https://open.spotify.com/track/04XhWqk9rPKm384hNqMrJQ"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

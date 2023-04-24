@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > <a href="spotify:artist:2i1CPudyCUjL50Wqjv8AMI">Alfa Mist</a> shares his jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,154 likes - 30 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,182 likes - 30 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 | 7 | [Aged Eyes](https://open.spotify.com/track/7xtWxotWjZAFB1rw5J3HHz) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Kaya Thomas\-Dyke](https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE) | [Aged Eyes](https://open.spotify.com/album/7A6hBg9U4hIYiCLcthKQzG) | 4:06 |
 | 8 | [Faces in Reflection No.1](https://open.spotify.com/track/6w2OBecz2paQjl8BaFaJXz) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Faces in Reflection](https://open.spotify.com/album/27LrzDfCpvyhJw63OQz9cw) | 3:40 |
 | 9 | [Dawn \- Remastered](https://open.spotify.com/track/7uOR6TIGeytCAnKrUT4X91) | [Mahavishnu Orchestra](https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO) | [The Inner Mounting Flame](https://open.spotify.com/album/6XHQCPGwvSaqv9MZ2tauqr) | 5:09 |
-| 10 | [White Juju, VI\. Sanctuary \- Live](https://open.spotify.com/track/68xtFzZXDMxZA2ZKqiw0JQ) | [Soweto Kinch](https://open.spotify.com/artist/6Z37ofcWV3ZDEMbevEtoSk), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Lee Reynolds](https://open.spotify.com/artist/02aQbgZ4VnG6raQsqNgd4p), [Rick Simpson](https://open.spotify.com/artist/3FKhFIysDUOzJwTMNIFjpf), [Nick Jurd](https://open.spotify.com/artist/0jzEWq8gmFuq75Z8v0K6vQ), [Gregory Hutchinson](https://open.spotify.com/artist/4uFjFfYlOxBKvdHKuHqk2y) | [White Juju, VI\. Sanctuary \(Live\)](https://open.spotify.com/album/6taK9u9lQM9MJnwWmPo5S8) | 7:31 |
+| 10 | [White Juju, VI\. Sanctuary \- Live](https://open.spotify.com/track/68xtFzZXDMxZA2ZKqiw0JQ) | [Soweto Kinch](https://open.spotify.com/artist/6Z37ofcWV3ZDEMbevEtoSk), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Lee Reynolds](https://open.spotify.com/artist/68loRWEOBXUYarnmy6IHOH), [Rick Simpson](https://open.spotify.com/artist/3FKhFIysDUOzJwTMNIFjpf), [Nick Jurd](https://open.spotify.com/artist/0jzEWq8gmFuq75Z8v0K6vQ), [Gregory Hutchinson](https://open.spotify.com/artist/4uFjFfYlOxBKvdHKuHqk2y) | [White Juju, VI\. Sanctuary \(Live\)](https://open.spotify.com/album/6taK9u9lQM9MJnwWmPo5S8) | 7:31 |
 | 11 | [Noble Nobles](https://open.spotify.com/track/1cr47zeK8TClmVKcLO9hzn) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Emily’s D+Evolution](https://open.spotify.com/album/1aGm5Dz2FocgtXxKfrK0gn) | 3:31 |
 | 12 | [High Risk](https://open.spotify.com/track/25O3YsHYgrYcFYEOrediFn) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [On My Ones](https://open.spotify.com/album/6o73C44oWGeDaCjLvoEKtD) | 4:39 |
 | 13 | [a path to bliss](https://open.spotify.com/track/62KSKGJ4N2Pe83EMuV6g4s) | [Mark Guiliana](https://open.spotify.com/artist/798TUNb6IfpsZzMkkzVGu1) | [the sound of listening](https://open.spotify.com/album/10LpNn6t8QZbbOIWqGTiEN) | 4:41 |

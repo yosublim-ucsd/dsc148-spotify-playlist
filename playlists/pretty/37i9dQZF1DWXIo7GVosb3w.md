@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIo7GVosb3w.md) - [plain]
 
 > ジャンルレスな作品性と、美麗なファルセット・ヴォイスが魅力のSSW、ビッケブランカ のオールタイム・ベスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,590 likes - 73 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,591 likes - 73 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

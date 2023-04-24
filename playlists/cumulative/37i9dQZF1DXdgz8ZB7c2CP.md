@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Elohim
 
-392 songs - 21 hr 57 min
+393 songs - 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,7 @@
 | [Statues](https://open.spotify.com/track/2vWYHrRiJhc2iIXxaZUnG5) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [MOONZz](https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab) | [PILLARS ///](https://open.spotify.com/album/1xPKjBXYPMnr3N4vhKSo63) | 3:25 | 2022-02-25 |  |
 | [Stay](https://open.spotify.com/track/0LV2sJDzws0khtyPJ6VD0l) | [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM), [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Stay](https://open.spotify.com/album/2sxjxlfl64UgJP7i9HRbbZ) | 3:53 | 2021-08-06 | 2022-04-20 |
 | [Stellar](https://open.spotify.com/track/4AB02ifWnUgGQuND9gS9ki) | [LAUTRE.](https://open.spotify.com/artist/7wfx7Fc5L3L8uvXEv8pCm6), [Bubblemint](https://open.spotify.com/artist/4CSoZYGqDvZRs5b7UhIOKO) | [Stellar](https://open.spotify.com/album/6FqyPnrQSVjsrWxUUNh49g) | 3:32 | 2021-11-26 |  |
-| [Sticky Love](https://open.spotify.com/track/1p4j8XMaB67GJEBa5RBrQJ) | [CARLIE](https://open.spotify.com/artist/2g5tWYb6LAvSeCV4NBGgpE), [Lobii](https://open.spotify.com/artist/1k5KTiYvJh6DXTmPhwIdDK) | [Sticky Love](https://open.spotify.com/album/3g0rJ4Y6CGySTQK1L8j2Op) | 3:48 | 2021-11-26 |  |
+| [Sticky Love](https://open.spotify.com/track/1p4j8XMaB67GJEBa5RBrQJ) | [CARLIE](https://open.spotify.com/artist/2g5tWYb6LAvSeCV4NBGgpE), [Lobii](https://open.spotify.com/artist/1k5KTiYvJh6DXTmPhwIdDK) | [Sticky Love](https://open.spotify.com/album/3g0rJ4Y6CGySTQK1L8j2Op) | 3:48 | 2021-11-26 | 2023-04-24 |
 | [Stop Thinking \(feat\. Lights\) \- MitiS Remix](https://open.spotify.com/track/789ENhlrwuDQAOSdJjs45Q) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw) | [Beyond The Veil \(Remixes\)](https://open.spotify.com/album/2LUAu6NsTDONxt2BDxrrUj) | 4:20 | 2023-03-31 |  |
 | [Streams](https://open.spotify.com/track/6oJVlyGstF1A14mo5NNCQZ) | [HWLS](https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO) | [V](https://open.spotify.com/album/541Diq3D6nyhKMRzuM9Qgz) | 2:41 | 2022-01-28 | 2022-07-29 |
 | [Stroll](https://open.spotify.com/track/5MCn3O0w5iXHIEbhRfLwxZ) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [2018 – 2021 \(mixtape\)](https://open.spotify.com/album/2f0fN9byk0YhViWf0rZDDN) | 3:12 | 2021-08-06 | 2022-06-18 |
@@ -393,6 +393,7 @@
 | [Would I Believe](https://open.spotify.com/track/5J7z4X615BmONq0bRNC0x3) | [HWLS](https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO) | [Would I Believe](https://open.spotify.com/album/0bS7F6oNnt7rMf9S9g3jq4) | 4:24 | 2022-01-21 | 2022-07-25 |
 | [You](https://open.spotify.com/track/48pPiD01arCZeI8Pehoh3R) | [Third Vibes](https://open.spotify.com/artist/08FHB0pa7F05yP7c7eQp5u) | [You](https://open.spotify.com/album/7Bt2Pr93eamhyHWFMvbmKw) | 2:16 | 2021-08-06 | 2023-02-11 |
 | [You Should Run](https://open.spotify.com/track/5IH5AcpMQCGSv7vtAL5c6X) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [You Should Run](https://open.spotify.com/album/40y7qJlPfbOoR6V32c0CcY) | 4:59 | 2021-08-06 |  |
+| [Your Love](https://open.spotify.com/track/5xmwDU6b2jc80VmbgtpijM) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [Your Love](https://open.spotify.com/album/2bBRHynve4mj9EyncJmTie) | 3:09 | 2023-04-21 |  |
 | [Your Struggle Is Also Mine](https://open.spotify.com/track/7pTUnjG1e8FdiylA0EXzEe) | [Xavi](https://open.spotify.com/artist/08OCWF4MDd9CQC2uPbsV3j) | [Your Struggle Is Also Mine](https://open.spotify.com/album/1jq466hKCKk8ZFMoZHo3vZ) | 4:10 | 2021-08-06 | 2023-02-11 |
 | [‎amends](https://open.spotify.com/track/5DUxg2EeFywPHiH14tG7zh) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎amends](https://open.spotify.com/album/6hsaOsyPPxC0LAsS2OvDdB) | 2:23 | 2022-05-13 | 2022-06-15 |
 | [‎kinder ‎opposites](https://open.spotify.com/track/3MYGkr4LPB4erhr97GnHbI) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎kinder ‎opposites](https://open.spotify.com/album/6BVsvhJucDYyb9LhM1MzcQ) | 1:42 | 2022-06-03 | 2023-03-14 |

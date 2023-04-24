@@ -4,10 +4,11 @@
 
 > Soundtrack spring time with uplifting and sunny Jazz.
 
-101 songs - 7 hr 35 min
+102 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Ballad for Alice](https://open.spotify.com/track/01gXG16eWORzNaZdTqdVWD) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [A Ballad for Alice](https://open.spotify.com/album/1iWcq6geiresvdyp7hUajv) | 2:58 | 2023-04-20 |  |
 | [A Beautiful Friendship](https://open.spotify.com/track/5Qjl7NUBECtejR5VCfGMgK) | [Alexis Cole](https://open.spotify.com/artist/6ZljReNeQbX2fn8yjGWiNE), [Bucky Pizzarelli](https://open.spotify.com/artist/0Adi1C37oMa2axoBWcMtxq) | [A Beautiful Friendship](https://open.spotify.com/album/7MgfP4PI0iNLk1epeHFDOZ) | 4:18 | 2023-03-15 |  |
 | [After The Rain](https://open.spotify.com/track/3cYAxfeE7rwiF1vjCTYi3i) | [Rigmor Gustafsson](https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU) | [On My Way to You](https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX) | 2:52 | 2023-03-15 |  |
 | [All The Way](https://open.spotify.com/track/0L6nD80PbBf0gUHzG2sFYC) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Your Songs](https://open.spotify.com/album/74MmrgGXDvEZepbjCDCi8r) | 3:32 | 2023-03-15 |  |
@@ -73,7 +74,7 @@
 | [Only Love Can Break Your Heart \- Live](https://open.spotify.com/track/7zIRI8IyfDzlSxAzKy2E4m) | [Fabian Kallerdahl](https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU), [Albin Lindgård](https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84), [Ossian Ward](https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo) | [Live at Unity](https://open.spotify.com/album/0YlTrukNtRdVQUkRrOFKas) | 6:04 | 2023-03-15 |  |
 | [Pennies from Heaven](https://open.spotify.com/track/6DK8CIViKcULxgNSKONH7I) | [Jeff Rupert](https://open.spotify.com/artist/3eWJmHOgjTdo3ZsS25iRMh), [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Let's Sail Away](https://open.spotify.com/album/5ONLFeBhrqRDGq5Y9x3ccD) | 4:43 | 2023-03-15 |  |
 | [Promise of Spring](https://open.spotify.com/track/3RcPPbfrQQz5QupaiXxf4K) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Origin](https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE) | 4:29 | 2023-03-15 |  |
-| [Roaring Heights](https://open.spotify.com/track/2wFSomD4N8Zwd4JriLtkm3) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Time for Ballads \- The Maene Sessions](https://open.spotify.com/album/0A3ky8Ix813biINCcxXAe5) | 4:18 | 2023-03-15 |  |
+| [Roaring Heights](https://open.spotify.com/track/2wFSomD4N8Zwd4JriLtkm3) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Time for Ballads \- The Maene Sessions](https://open.spotify.com/album/0A3ky8Ix813biINCcxXAe5) | 4:18 | 2023-03-15 | 2023-04-24 |
 | [Shallow Waters](https://open.spotify.com/track/0Q3LZbJerwYufO4DfOfZ56) | [Harold Danko](https://open.spotify.com/artist/26IGMCxg4NgtwUVLlX5rPw), [Jay Anderson](https://open.spotify.com/artist/7eaHILZta913Fkf49T57SV), [Jeff Hirshfield](https://open.spotify.com/artist/52O6frArSmachHxpz0NSTZ) | [Triple Play](https://open.spotify.com/album/5yMWBKYnLrYHMJeA9j9nwr) | 7:46 | 2023-03-15 |  |
 | [Smile](https://open.spotify.com/track/7xLZGhRR2jTUtaPewAmacY) | [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80) | [My New Old Friend](https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr) | 5:33 | 2023-03-15 |  |
 | [Smile](https://open.spotify.com/track/1hdDf2KsMhh8DvCsZ5IUNM) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [I'll Be Seeing You](https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL) | 7:57 | 2023-03-15 |  |

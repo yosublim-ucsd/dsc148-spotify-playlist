@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: CHANKA
 
-493 songs - 1 day 4 hr 6 min
+494 songs - 1 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Can't Stop](https://open.spotify.com/track/5zB6A7kjVAyobO5le32Rl0) | [Lewsz](https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy) | [Can't Stop](https://open.spotify.com/album/5CUTEDVkIGRFEd3DR7dW0o) | 3:31 | 2023-02-16 |  |
 | [Candy](https://open.spotify.com/track/1ITGuB4Tgap1WaDcbamsRI) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Candy](https://open.spotify.com/album/4ca6ff4Fm8ooLvsWr3lbbd) | 2:22 | 2022-06-24 | 2022-11-04 |
 | [CASINO](https://open.spotify.com/track/2higxUPagN6pvwiNuw315r) | [Dr\. Holic](https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM), [sahiru](https://open.spotify.com/artist/3nlxic49LYblGALkFbzLsD) | [CASINO](https://open.spotify.com/album/7Az4hTpKVa6ha3dbWOL9Lz) | 2:54 | 2023-04-20 |  |
-| [Caught Up](https://open.spotify.com/track/26Bcxw6i0zDUmsWml5yUnA) | [Sunny Lukas](https://open.spotify.com/artist/25htISTA2qcgslohjTAF2b) | [Caught Up](https://open.spotify.com/album/2RG9uRF2GBvlj6Dsz2Oaci) | 2:57 | 2023-01-19 |  |
+| [Caught Up](https://open.spotify.com/track/26Bcxw6i0zDUmsWml5yUnA) | [Sunny Lukas](https://open.spotify.com/artist/25htISTA2qcgslohjTAF2b) | [Caught Up](https://open.spotify.com/album/2RG9uRF2GBvlj6Dsz2Oaci) | 2:57 | 2023-01-19 | 2023-04-24 |
+| [Caught Up](https://open.spotify.com/track/6ccnaVHrAuoqICAgniqjd4) | [Sunny Lukas](https://open.spotify.com/artist/25htISTA2qcgslohjTAF2b) | [14+7](https://open.spotify.com/album/5a7BPRH6wLyIRIKPGEc0yR) | 2:57 | 2023-04-20 |  |
 | [caution tape](https://open.spotify.com/track/4kvxJvder2lfnQII57KmTR) | [Crlsyiu](https://open.spotify.com/artist/3QCcg3sxycinU9J2khknoK) | [caution tape](https://open.spotify.com/album/6xpY8pLdWXeTPvx9lqWyau) | 2:20 | 2022-05-26 | 2022-06-10 |
 | [Christopher Luke](https://open.spotify.com/track/7KnylTHkKv0Jwq9wcKVu02) | [The Language Lab](https://open.spotify.com/artist/4Qj1fEqHSJ3hQc5fHtUsnf) | [Your Boyfriends \(Deleted Scene\)](https://open.spotify.com/album/2IXOvkGVO7gZwgqMPPRqzY) | 2:59 | 2022-11-10 | 2022-12-09 |
 | [Close my eyes 全部都係你](https://open.spotify.com/track/2C4NU1PZKZQA6Qu5ej93qQ) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A) | [Close my eyes 全部都係你](https://open.spotify.com/album/5bWvx8LCfaGYlJGk3n6Meg) | 3:10 | 2022-06-09 | 2022-09-09 |

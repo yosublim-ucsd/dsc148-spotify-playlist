@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: Rita Ora
 
-621 songs - 1 day 10 hr 6 min
+622 songs - 1 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [ctrl alt delete](https://open.spotify.com/track/1jRi3WhVIz8W1PCUkLkP1V) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x), [Ūla](https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8) | [ctrl alt delete](https://open.spotify.com/album/5kkcH9I0e0vxRH1za848fX) | 3:25 | 2023-04-06 |  |
 | [Damn \(You’ve Got Me Saying\)](https://open.spotify.com/track/5RVjB86R02f47lCZSPFOzj) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Damn \(You’ve Got Me Saying\)](https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp) | 3:15 | 2022-12-08 | 2022-12-16 |
 | [Dance](https://open.spotify.com/track/6RoTXltzoWFsZUBexzxflD) | [RUHI](https://open.spotify.com/artist/0VTSrm0urCHfqi2YvxSnky) | [Dance](https://open.spotify.com/album/6u2rDTCUezSAodzYbNdOjj) | 3:14 | 2022-12-22 | 2023-02-10 |
-| [Dancing is Healing](https://open.spotify.com/track/4xlMZCMr9WhyE58igBMxVp) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/11erTn5P7gOy8vfYDq6bxq) | 2:57 | 2023-04-20 |  |
+| [Dancing is Healing](https://open.spotify.com/track/4xlMZCMr9WhyE58igBMxVp) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/11erTn5P7gOy8vfYDq6bxq) | 2:57 | 2023-04-20 | 2023-04-24 |
+| [Dancing is Healing](https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/5g3JRPJKgjcc20lORFpaqp) | 2:57 | 2023-04-20 |  |
 | [Dangerous](https://open.spotify.com/track/1vdK5tWvKAfyBbn2HQZEpi) | [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Dangerous](https://open.spotify.com/album/2CsYB5D113fmMjvxBQpowV) | 3:55 | 2022-12-08 | 2022-12-16 |
 | [Deadset 10 \- \(feat\. Manning\)](https://open.spotify.com/track/4khQKeEOy202MjC5z3r1en) | [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7), [Manning](https://open.spotify.com/artist/1RKaA4DmhRXFTelAvV3Gen) | [Deadset 10 \- \(feat\. Manning\)](https://open.spotify.com/album/6Cl0RPUILQLnWuW3bF1H90) | 3:46 | 2023-03-03 | 2023-03-25 |
 | [Deep End](https://open.spotify.com/track/6gNxFvK5yLL0uWCNQdP7GB) | [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt) | [GENESIS](https://open.spotify.com/album/2y3ZfgrrqOtkexvBjGa49v) | 4:51 | 2023-04-13 |  |

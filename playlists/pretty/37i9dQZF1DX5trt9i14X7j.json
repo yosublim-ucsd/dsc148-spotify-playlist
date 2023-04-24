@@ -1,12 +1,12 @@
 {
   "description": "Dedicated to all the programmers out there.",
-  "num_followers": 337084,
+  "num_followers": 337241,
   "original_name": "Coding Mode  ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTEyMjk3MSwwMDAwMDAwMDUwODMxY2QyYjdiY2FlNGE3NjJiZmUyNGRiZWE5Njdi",
+  "snapshot_id": "MTY4MTEyMjk3MSwwMDAwMDAwMDVhMzY5NjkxMTM1YzdiMDJjYzgzYjMzYTA5MWVlMDMz",
   "tracks": [
     {
       "added_at": "2023-04-10 10:36:11",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "efflorescence",
-        "url": "https://open.spotify.com/album/5gTuNZ0GwWQLNH0YiwsDZr"
-      },
-      "artists": [
-        {
-          "name": "Far & Beyond",
-          "url": "https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if"
-        }
-      ],
-      "duration_ms": 143500,
-      "name": "efflorescence",
-      "url": "https://open.spotify.com/track/7qa14fkhxgOwWgJ2cbDTyc"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Selected Ambient Works 85-92",
         "url": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 293751,
       "name": "Xtal",
       "url": "https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "efflorescence",
+        "url": "https://open.spotify.com/album/5gTuNZ0GwWQLNH0YiwsDZr"
+      },
+      "artists": [
+        {
+          "name": "Far & Beyond",
+          "url": "https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if"
+        }
+      ],
+      "duration_ms": 143500,
+      "name": "efflorescence",
+      "url": "https://open.spotify.com/track/7qa14fkhxgOwWgJ2cbDTyc"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "crestline",
-        "url": "https://open.spotify.com/album/0uQHf0jM3WV0yLSoS9x2tj"
-      },
-      "artists": [
-        {
-          "name": "Electric Rivers",
-          "url": "https://open.spotify.com/artist/4ATjV5COMvZp7XfnELm7nV"
-        }
-      ],
-      "duration_ms": 171087,
-      "name": "both sides of the coin",
-      "url": "https://open.spotify.com/track/1chT7Yo3zSvjFPRQ20fWFH"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "North Pole",
         "url": "https://open.spotify.com/album/2tCFpKgvx1HO064rFnKSDo"
       },
@@ -323,18 +307,18 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Dreamscapes",
-        "url": "https://open.spotify.com/album/3ElOQTSPG7zMkoTks09qub"
+        "name": "crestline",
+        "url": "https://open.spotify.com/album/0uQHf0jM3WV0yLSoS9x2tj"
       },
       "artists": [
         {
-          "name": "Agnes Lundh",
-          "url": "https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt"
+          "name": "Electric Rivers",
+          "url": "https://open.spotify.com/artist/4ATjV5COMvZp7XfnELm7nV"
         }
       ],
-      "duration_ms": 159500,
-      "name": "Dreamscapes",
-      "url": "https://open.spotify.com/track/0lWWho4vGcKfIX8kA8YmAy"
+      "duration_ms": 171087,
+      "name": "both sides of the coin",
+      "url": "https://open.spotify.com/track/1chT7Yo3zSvjFPRQ20fWFH"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -355,6 +339,22 @@
       "duration_ms": 224332,
       "name": "Second Sun",
       "url": "https://open.spotify.com/track/1hchcXyOsDcLOM6AA0nFsx"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Dreamscapes",
+        "url": "https://open.spotify.com/album/3ElOQTSPG7zMkoTks09qub"
+      },
+      "artists": [
+        {
+          "name": "Agnes Lundh",
+          "url": "https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "Dreamscapes",
+      "url": "https://open.spotify.com/track/0lWWho4vGcKfIX8kA8YmAy"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Starlight Passage",
-        "url": "https://open.spotify.com/album/1wvSlnr8p5HfQMllaTDHQc"
-      },
-      "artists": [
-        {
-          "name": "Starlight Passage",
-          "url": "https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh"
-        }
-      ],
-      "duration_ms": 148301,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/1N5zR5J3f3jQFKMY3cG0YO"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Loosen Up",
         "url": "https://open.spotify.com/album/4mMfto7T62viWO9mK4mwpo"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 147307,
       "name": "Loosen Up",
       "url": "https://open.spotify.com/track/7h8FoVdFGKGNbZvbY51d5h"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Starlight Passage",
+        "url": "https://open.spotify.com/album/1wvSlnr8p5HfQMllaTDHQc"
+      },
+      "artists": [
+        {
+          "name": "Starlight Passage",
+          "url": "https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh"
+        }
+      ],
+      "duration_ms": 148301,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/1N5zR5J3f3jQFKMY3cG0YO"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Snowfields",
-        "url": "https://open.spotify.com/album/2IdkBSoQpjPa5LUo46DDe5"
-      },
-      "artists": [
-        {
-          "name": "Shape Of Our Dreams",
-          "url": "https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Snowfields",
-      "url": "https://open.spotify.com/track/5l3iFPNLr9pWXeYOI7dDhs"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Kermesse",
         "url": "https://open.spotify.com/album/2hPiyh9HOXEEr93AoO9kub"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 347528,
       "name": "Sunday Glide",
       "url": "https://open.spotify.com/track/72Qac2FQd9e21XCibSOhfY"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Snowfields",
+        "url": "https://open.spotify.com/album/2IdkBSoQpjPa5LUo46DDe5"
+      },
+      "artists": [
+        {
+          "name": "Shape Of Our Dreams",
+          "url": "https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Snowfields",
+      "url": "https://open.spotify.com/track/5l3iFPNLr9pWXeYOI7dDhs"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -787,22 +787,6 @@
       "duration_ms": 200727,
       "name": "cabin",
       "url": "https://open.spotify.com/track/6yYnE5DDbv0e6TlzlSDJgX"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
-        "name": "Further Than Far",
-        "url": "https://open.spotify.com/album/3tuUYA7y7reegwPAtAfdbX"
-      },
-      "artists": [
-        {
-          "name": "Shape Of Our Dreams",
-          "url": "https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc"
-        }
-      ],
-      "duration_ms": 168500,
-      "name": "Further Than Far",
-      "url": "https://open.spotify.com/track/6lDhQE5NehNR4pizUh8B8p"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -867,6 +851,22 @@
       "duration_ms": 148546,
       "name": "Candles",
       "url": "https://open.spotify.com/track/0UAazxzt45u787JmxJGoUA"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Further Than Far",
+        "url": "https://open.spotify.com/album/3tuUYA7y7reegwPAtAfdbX"
+      },
+      "artists": [
+        {
+          "name": "Shape Of Our Dreams",
+          "url": "https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc"
+        }
+      ],
+      "duration_ms": 168500,
+      "name": "Further Than Far",
+      "url": "https://open.spotify.com/track/6lDhQE5NehNR4pizUh8B8p"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Finding Hope",
-        "url": "https://open.spotify.com/album/25X6lJ7r1b4jQ3S5o8RtJs"
-      },
-      "artists": [
-        {
-          "name": "Haakon Stange",
-          "url": "https://open.spotify.com/artist/0W5e9m7EXTbYg8XZSrQIfx"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Finding Hope",
-      "url": "https://open.spotify.com/track/1ZxqvIpfcqYDcV4nP6jxms"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "By the Deep Sea",
         "url": "https://open.spotify.com/album/364G2DGbhBt4xwR5KCZC82"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 241114,
       "name": "Mauer Blues",
       "url": "https://open.spotify.com/track/1lLuJ1PTq8wXAorPqHwMOd"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Finding Hope",
+        "url": "https://open.spotify.com/album/25X6lJ7r1b4jQ3S5o8RtJs"
+      },
+      "artists": [
+        {
+          "name": "Haakon Stange",
+          "url": "https://open.spotify.com/artist/0W5e9m7EXTbYg8XZSrQIfx"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Finding Hope",
+      "url": "https://open.spotify.com/track/1ZxqvIpfcqYDcV4nP6jxms"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Pillars",
-        "url": "https://open.spotify.com/album/5aSe7EH7yhtFGvyQPsVcgF"
-      },
-      "artists": [
-        {
-          "name": "Hushed",
-          "url": "https://open.spotify.com/artist/6Jkxik23CyCBIj3rKlflPn"
-        }
-      ],
-      "duration_ms": 243795,
-      "name": "Sibyl",
-      "url": "https://open.spotify.com/track/5YmjFHheTqiMyhVtBM04lo"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Flourishing Views",
         "url": "https://open.spotify.com/album/3EwiPwpIygpD2BwEzqbUsw"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 137454,
       "name": "Beau",
       "url": "https://open.spotify.com/track/4HlyP1UN4PSkGowgNeYWep"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Pillars",
+        "url": "https://open.spotify.com/album/5aSe7EH7yhtFGvyQPsVcgF"
+      },
+      "artists": [
+        {
+          "name": "Hushed",
+          "url": "https://open.spotify.com/artist/6Jkxik23CyCBIj3rKlflPn"
+        }
+      ],
+      "duration_ms": 243795,
+      "name": "Sibyl",
+      "url": "https://open.spotify.com/track/5YmjFHheTqiMyhVtBM04lo"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Loom",
-        "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "We Contain Multitudes - from home",
-      "url": "https://open.spotify.com/track/2ich9n3I8MHo1AkC26bpqK"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Four",
         "url": "https://open.spotify.com/album/4oxvKHTBzfTD86BLU0ftou"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 252053,
       "name": "Mano",
       "url": "https://open.spotify.com/track/2Z2CLhQwH001Wr1Zea44hu"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Loom",
+        "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "We Contain Multitudes - from home",
+      "url": "https://open.spotify.com/track/2ich9n3I8MHo1AkC26bpqK"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "India",
-        "url": "https://open.spotify.com/album/7tWlk2K6jN6TaCxUTtkYFd"
+        "name": "Late Night Tales: Khruangbin",
+        "url": "https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy"
       },
       "artists": [
         {
-          "name": "EarthLife",
-          "url": "https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG"
+          "name": "Brilliantes Del Vuelo",
+          "url": "https://open.spotify.com/artist/1Ng076kHQlxAUjKL50VnxJ"
         }
       ],
-      "duration_ms": 535370,
-      "name": "India",
-      "url": "https://open.spotify.com/track/2SetYZYntcZBRG4PnKYej8"
+      "duration_ms": 320337,
+      "name": "I Know That",
+      "url": "https://open.spotify.com/track/0XulKJA4eRQZBGx2dwV8jD"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Late Night Tales: Khruangbin",
-        "url": "https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy"
+        "name": "Midnight Thoughts",
+        "url": "https://open.spotify.com/album/6u1pNJvksMfMkHaZAVOL3a"
       },
       "artists": [
         {
-          "name": "Brilliantes Del Vuelo",
-          "url": "https://open.spotify.com/artist/1Ng076kHQlxAUjKL50VnxJ"
+          "name": "Komorebi",
+          "url": "https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb"
         }
       ],
-      "duration_ms": 320337,
-      "name": "I Know That",
-      "url": "https://open.spotify.com/track/0XulKJA4eRQZBGx2dwV8jD"
+      "duration_ms": 161927,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/1UWlVOM5NZdkFZobaYeAv5"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Midnight Thoughts",
-        "url": "https://open.spotify.com/album/6u1pNJvksMfMkHaZAVOL3a"
+        "name": "India",
+        "url": "https://open.spotify.com/album/7tWlk2K6jN6TaCxUTtkYFd"
       },
       "artists": [
         {
-          "name": "Komorebi",
-          "url": "https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb"
+          "name": "EarthLife",
+          "url": "https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG"
         }
       ],
-      "duration_ms": 161927,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/1UWlVOM5NZdkFZobaYeAv5"
+      "duration_ms": 535370,
+      "name": "India",
+      "url": "https://open.spotify.com/track/2SetYZYntcZBRG4PnKYej8"
     },
     {
       "added_at": "2023-04-10 10:36:11",

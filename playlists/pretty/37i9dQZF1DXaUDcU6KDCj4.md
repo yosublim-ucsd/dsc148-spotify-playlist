@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Fenne Lily
 
-[Spotify](https://open.spotify.com/user/spotify) - 779,411 likes - 150 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 779,599 likes - 150 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 83 | [Thunder](https://open.spotify.com/track/1t0k03T37lLIGo3THvV0hF) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Thunder](https://open.spotify.com/album/6xgRWh88KbRnp2E3nzcCQD) | 3:38 |
 | 84 | [Carrie](https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Carrie](https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub) | 4:02 |
 | 85 | [Reconcile](https://open.spotify.com/track/7KBdFKkTlDbEvy0db2JUWS) | [Scott McMicken and THE EVER\-EXPANDING](https://open.spotify.com/artist/47xDbhx3J0JVT6hnPTIRCc) | [Shabang](https://open.spotify.com/album/673d0gEuxw2dsPfNFR61gv) | 3:05 |
-| 86 | [Lonely Love Song](https://open.spotify.com/track/1P6BMlC7DeXbGgEpz84WDw) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Lonely Love Song](https://open.spotify.com/album/133u1HCKHE50wMw0PrcKFg) | 2:37 |
+| 86 | [Lonely Love Song](https://open.spotify.com/track/5viN4BII5bNNQTLtJk1UsD) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Angels In Science Fiction](https://open.spotify.com/album/3PNavLo012ZTOzWvt4lqQF) | 2:37 |
 | 87 | [Thunderhead](https://open.spotify.com/track/3woo6ubZdBV8T1bnGJo88Z) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Thunderhead](https://open.spotify.com/album/48gkRDpI0se4nXmqxjT4Kp) | 4:33 |
 | 88 | [The Last Rockabilly](https://open.spotify.com/track/0N7xhtiFCCcVvWj6wLX80h) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [The Last Rockabilly](https://open.spotify.com/album/3fRaDR9AaKWjJZHcYKQc22) | 4:22 |
 | 89 | [Bloom](https://open.spotify.com/track/3CCdB5O63mIOTUv0yAuEWZ) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Bloom](https://open.spotify.com/album/3uQfncSDfNqHTJrh2ZZRz0) | 3:04 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Part Time Lovers](https://open.spotify.com/track/5PSnffyT93zHiE23tRsL0O) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Part Time Lovers](https://open.spotify.com/album/0wcyQMBIXTuUJz3FokoVwp) | 3:10 |
 | 150 | [Running from the Dawn](https://open.spotify.com/track/7jb6FDwrUuTgcgeE1iMGi4) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [though the world will tell me so, vol\. 1](https://open.spotify.com/album/1nht2bWHhw4ke6nUJwUkBB) | 3:31 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDY4ZmExNDZjNGQwMDcxODJiM2JjMzg0NTExYjg2YjZm`
+Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMGE3OWExNWQzMDdhMGM1ZDFkYzRlYzA2MGNiYTY4ZmU2`

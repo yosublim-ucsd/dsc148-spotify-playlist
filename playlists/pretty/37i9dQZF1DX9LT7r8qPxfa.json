@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Samia",
-  "num_followers": 253063,
+  "num_followers": 253120,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMGFiM2ZkYTIxMzQ4ZjFhYjZiNGRlNWEyZWFkYmY2MDg2",
+  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMGVhMDZhYTVlMjVlMTVhMDg5ZDg5NDJjYjAxZWZlZDEz",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "People Pleaser",
-        "url": "https://open.spotify.com/album/1j70typFafujL4ecw5kbmP"
-      },
-      "artists": [
-        {
-          "name": "Laura Elliott",
-          "url": "https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox"
-        }
-      ],
-      "duration_ms": 252291,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/0VDMM80RCPz0ws1514vQ0S"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Here Goes Nothing!",
         "url": "https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 158106,
       "name": "I'm Afraid I Love You",
       "url": "https://open.spotify.com/track/0EgDkAi1hzNK3D3DjWs4bL"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "People Pleaser",
+        "url": "https://open.spotify.com/album/1j70typFafujL4ecw5kbmP"
+      },
+      "artists": [
+        {
+          "name": "Laura Elliott",
+          "url": "https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox"
+        }
+      ],
+      "duration_ms": 252291,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0VDMM80RCPz0ws1514vQ0S"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Planet (i)",
-        "url": "https://open.spotify.com/album/75tknaKW7JWOySl5X9WjDx"
+        "name": "Vessel",
+        "url": "https://open.spotify.com/album/6UwMhfqSFCopdNxxyEqERd"
       },
       "artists": [
         {
-          "name": "Squirrel Flower",
-          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
+          "name": "Patricia Lalor",
+          "url": "https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd"
         }
       ],
-      "duration_ms": 236610,
-      "name": "I\u2019ll Go Running",
-      "url": "https://open.spotify.com/track/57S4atY7SJX3Tz5ugHNzNW"
+      "duration_ms": 208242,
+      "name": "Vessel",
+      "url": "https://open.spotify.com/track/1Z8ILAI5cuxguldwB2KsdB"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1275,34 +1275,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Vessel",
-        "url": "https://open.spotify.com/album/6UwMhfqSFCopdNxxyEqERd"
+        "name": "Planet (i)",
+        "url": "https://open.spotify.com/album/75tknaKW7JWOySl5X9WjDx"
       },
       "artists": [
         {
-          "name": "Patricia Lalor",
-          "url": "https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd"
+          "name": "Squirrel Flower",
+          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
         }
       ],
-      "duration_ms": 208242,
-      "name": "Vessel",
-      "url": "https://open.spotify.com/track/1Z8ILAI5cuxguldwB2KsdB"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Love of Her Life",
-        "url": "https://open.spotify.com/album/3BUfowBL6EwLo9O9X2ASAJ"
-      },
-      "artists": [
-        {
-          "name": "Lizzie Reid",
-          "url": "https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6"
-        }
-      ],
-      "duration_ms": 241503,
-      "name": "Love of Her Life",
-      "url": "https://open.spotify.com/track/5SF2uq9nZItW8MXNy6I4zE"
+      "duration_ms": 236610,
+      "name": "I\u2019ll Go Running",
+      "url": "https://open.spotify.com/track/57S4atY7SJX3Tz5ugHNzNW"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1319,6 +1303,22 @@
       "duration_ms": 320524,
       "name": "Robber",
       "url": "https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Love of Her Life",
+        "url": "https://open.spotify.com/album/3BUfowBL6EwLo9O9X2ASAJ"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Reid",
+          "url": "https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6"
+        }
+      ],
+      "duration_ms": 241503,
+      "name": "Love of Her Life",
+      "url": "https://open.spotify.com/track/5SF2uq9nZItW8MXNy6I4zE"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Luster",
-        "url": "https://open.spotify.com/album/6BgYFVZUvMm05vtCdnxh9d"
-      },
-      "artists": [
-        {
-          "name": "Twin Oaks",
-          "url": "https://open.spotify.com/artist/2EhsRPMmPKBic0M4pFJkWk"
-        }
-      ],
-      "duration_ms": 200669,
-      "name": "Luster",
-      "url": "https://open.spotify.com/track/1TEWu9IdgiwAe5q0bQqwDQ"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Soft Drop",
         "url": "https://open.spotify.com/album/6Uw2NnSBTN9FSotz6NBfcB"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 196756,
       "name": "Horses",
       "url": "https://open.spotify.com/track/5Ano4JVB4uDv8fQnhwdYfo"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Luster",
+        "url": "https://open.spotify.com/album/6BgYFVZUvMm05vtCdnxh9d"
+      },
+      "artists": [
+        {
+          "name": "Twin Oaks",
+          "url": "https://open.spotify.com/artist/2EhsRPMmPKBic0M4pFJkWk"
+        }
+      ],
+      "duration_ms": 200669,
+      "name": "Luster",
+      "url": "https://open.spotify.com/track/1TEWu9IdgiwAe5q0bQqwDQ"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Walking Proof",
+        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
+      },
+      "artists": [
+        {
+          "name": "Lilly Hiatt",
+          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
+        }
+      ],
+      "duration_ms": 175773,
+      "name": "Rae",
+      "url": "https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/1UiSJKr1F1Y3ZwbCw67JV2"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 285760,
       "name": "We Cannot Resist",
       "url": "https://open.spotify.com/track/068ZytZuPeqoSgaffebBVD"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Walking Proof",
-        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
-      },
-      "artists": [
-        {
-          "name": "Lilly Hiatt",
-          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
-        }
-      ],
-      "duration_ms": 175773,
-      "name": "Rae",
-      "url": "https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D"
     },
     {
       "added_at": "2023-03-31 04:00:00",

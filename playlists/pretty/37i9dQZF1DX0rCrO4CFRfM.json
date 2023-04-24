@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 895160,
+  "num_followers": 895505,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ1NjQwMCwwMDAwMDAwMDMzMjIxMzhlMjE0YThhOTMzNWUyMGU5OGM0OTczZWEx",
+  "snapshot_id": "MTY3MzQ1NjQwMCwwMDAwMDAwMGYwYzdiN2Y4MDE4Y2Y5NGFkYjI1MjFhMjU5N2JmMWYx",
   "tracks": [
     {
       "added_at": "2023-01-11 17:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
-        "name": "All I Want (Acoustic)",
-        "url": "https://open.spotify.com/album/0jFBhRmqhqXDMI9AKgRRg4"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 199893,
-      "name": "All I Want - Acoustic",
-      "url": "https://open.spotify.com/track/3GxyVQvYDjoTUr7hohx9Ye"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
         "name": "Acoustic at The Ryman (Live)",
         "url": "https://open.spotify.com/album/7aXRvfGlrAyi8ALrvQBWTR"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 307760,
       "name": "The Funeral - Live Acoustic",
       "url": "https://open.spotify.com/track/5t6CC8sf3ffzDozMcboqBx"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
+        "name": "All I Want (Acoustic)",
+        "url": "https://open.spotify.com/album/0jFBhRmqhqXDMI9AKgRRg4"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 199893,
+      "name": "All I Want - Acoustic",
+      "url": "https://open.spotify.com/track/3GxyVQvYDjoTUr7hohx9Ye"
     },
     {
       "added_at": "2023-01-11 17:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
-        "name": "Complete Collapse (Acoustic)",
-        "url": "https://open.spotify.com/album/2mHENK3IjJu3gfbXwjxA64"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 184426,
-      "name": "Complete Collapse - Acoustic",
-      "url": "https://open.spotify.com/track/0OIky9LZNVaUp4GakW7777"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 198573,
       "name": "Stay With Me - Acoustic Version",
       "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
+        "name": "Complete Collapse (Acoustic)",
+        "url": "https://open.spotify.com/album/2mHENK3IjJu3gfbXwjxA64"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 184426,
+      "name": "Complete Collapse - Acoustic",
+      "url": "https://open.spotify.com/track/0OIky9LZNVaUp4GakW7777"
     },
     {
       "added_at": "2023-01-11 17:00:00",

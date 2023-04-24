@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: Anuel AA.",
-  "num_followers": 142662,
+  "num_followers": 142730,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMDRiOGJhNzEwM2JkNzMxYmY4ZmNjMTQ4OThhYmQzNWM5",
+  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMDUwZmQ0MjY3ZjAxYzNhZWZkOWFhNWY5MGJhYTVjZjk2",
   "tracks": [
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Dime a Ver",
+        "url": "https://open.spotify.com/album/07pNV2FTFF3reWYPGJZUnm"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "duration_ms": 164078,
+      "name": "Dime a Ver",
+      "url": "https://open.spotify.com/track/5FjzRMC47xFaNAxGyN5iVr"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "INMORTALES",
         "url": "https://open.spotify.com/album/1BgFh3hB11NofWQ2ok6sN3"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 155000,
       "name": "TOTA",
       "url": "https://open.spotify.com/track/6YzLykAZTro3znbspER5Cd"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Dime a Ver",
-        "url": "https://open.spotify.com/album/07pNV2FTFF3reWYPGJZUnm"
-      },
-      "artists": [
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        }
-      ],
-      "duration_ms": 164078,
-      "name": "Dime a Ver",
-      "url": "https://open.spotify.com/track/5FjzRMC47xFaNAxGyN5iVr"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Un AK",
-        "url": "https://open.spotify.com/album/6034bMOlqFVadOmu5xd1Af"
-      },
-      "artists": [
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        }
-      ],
-      "duration_ms": 168309,
-      "name": "Un AK",
-      "url": "https://open.spotify.com/track/11a8gt4F4gv7WTZxt5VcUs"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Pantano",
         "url": "https://open.spotify.com/album/0L5lmyKYKfGn99wSCYS4Ad"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 221123,
       "name": "Como Yo Lo Hago",
       "url": "https://open.spotify.com/track/470B3hidu0e4iEfVWKCgq6"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Un AK",
+        "url": "https://open.spotify.com/album/6034bMOlqFVadOmu5xd1Af"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "duration_ms": 168309,
+      "name": "Un AK",
+      "url": "https://open.spotify.com/track/11a8gt4F4gv7WTZxt5VcUs"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "\u00bfPor Qu\u00e9 Te Enoj\u00e1i?",
-        "url": "https://open.spotify.com/album/5ehSSGh8rREKoGtS4jURZc"
-      },
-      "artists": [
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        },
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        }
-      ],
-      "duration_ms": 217263,
-      "name": "\u00bfPor Qu\u00e9 Te Enoj\u00e1i?",
-      "url": "https://open.spotify.com/track/6mLg5bAhcSrVnc0yPsS7Jy"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Pa\u00b4 Mi Casa",
         "url": "https://open.spotify.com/album/2YzcyoOMf38T98oHrSosU2"
       },
@@ -1747,6 +1727,26 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "\u00bfPor Qu\u00e9 Te Enoj\u00e1i?",
+        "url": "https://open.spotify.com/album/5ehSSGh8rREKoGtS4jURZc"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "duration_ms": 217263,
+      "name": "\u00bfPor Qu\u00e9 Te Enoj\u00e1i?",
+      "url": "https://open.spotify.com/track/6mLg5bAhcSrVnc0yPsS7Jy"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "PERRO PRIMO | DJ TAO Turreo Sessions #2",
         "url": "https://open.spotify.com/album/6ceuNvD4R9AQu0o0JMnUAY"
       },
@@ -1763,6 +1763,22 @@
       "duration_ms": 133331,
       "name": "PERRO PRIMO | DJ TAO Turreo Sessions #2",
       "url": "https://open.spotify.com/track/6jUfeQCpky6IodZg5OcstX"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Rompe Rodillas",
+        "url": "https://open.spotify.com/album/4c2CcCaHwWtZePbqfDUI9u"
+      },
+      "artists": [
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 149080,
+      "name": "Rompe Rodillas",
+      "url": "https://open.spotify.com/track/3DlM7Wmirw96FVBMPLeaSD"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1787,22 +1803,6 @@
       "duration_ms": 250485,
       "name": "No Est\u00e1 Interesada",
       "url": "https://open.spotify.com/track/50MM1jSSqo8LndyiLsCO92"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Rompe Rodillas",
-        "url": "https://open.spotify.com/album/4c2CcCaHwWtZePbqfDUI9u"
-      },
-      "artists": [
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 149080,
-      "name": "Rompe Rodillas",
-      "url": "https://open.spotify.com/track/3DlM7Wmirw96FVBMPLeaSD"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1927,26 +1927,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "PERREAMOS?",
-        "url": "https://open.spotify.com/album/6F2TAcgZ09A7GjvJTgc8NY"
-      },
-      "artists": [
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        },
-        {
-          "name": "Kaydy Cain",
-          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
-        }
-      ],
-      "duration_ms": 184535,
-      "name": "XULITA (feat. Kaydy Cain)",
-      "url": "https://open.spotify.com/track/1HjpnKN5vfceRgV7fa1DJA"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Baby Drip",
         "url": "https://open.spotify.com/album/2q4H20bORpr7SZwnEYVT2d"
       },
@@ -1967,6 +1947,26 @@
       "duration_ms": 202746,
       "name": "Baby Drip",
       "url": "https://open.spotify.com/track/2WghMUtQxC4N6iTcfTqgoz"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "PERREAMOS?",
+        "url": "https://open.spotify.com/album/6F2TAcgZ09A7GjvJTgc8NY"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "Kaydy Cain",
+          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
+        }
+      ],
+      "duration_ms": 184535,
+      "name": "XULITA (feat. Kaydy Cain)",
+      "url": "https://open.spotify.com/track/1HjpnKN5vfceRgV7fa1DJA"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -2035,26 +2035,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "GOTIKA",
-        "url": "https://open.spotify.com/album/0MMzgwHbf5tzu5NLqTEof0"
-      },
-      "artists": [
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        },
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "GOTIKA",
-      "url": "https://open.spotify.com/track/4n8gspB9iCAGEja5AUkexK"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Antonio",
         "url": "https://open.spotify.com/album/273BcEEtroFzuHpJqvR2DR"
       },
@@ -2119,6 +2099,26 @@
       "duration_ms": 153191,
       "name": "Pikete",
       "url": "https://open.spotify.com/track/50QqjYyqOapIo9CG7aBvKw"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "GOTIKA",
+        "url": "https://open.spotify.com/album/0MMzgwHbf5tzu5NLqTEof0"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "GOTIKA",
+      "url": "https://open.spotify.com/track/4n8gspB9iCAGEja5AUkexK"
     },
     {
       "added_at": "2022-11-18 03:00:00",

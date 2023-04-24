@@ -1473,6 +1473,32 @@
     },
     {
       "album": {
+        "name": "Don't Want To Feel",
+        "url": "https://open.spotify.com/album/21C6omxO7GWCKW9CSKictI"
+      },
+      "artists": [
+        {
+          "name": "Josh Rubin",
+          "url": "https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0"
+        },
+        {
+          "name": "Highlnd",
+          "url": "https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82"
+        },
+        {
+          "name": "n\u00f8ll",
+          "url": "https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "Don't Want To Feel",
+      "url": "https://open.spotify.com/track/5WZogsNGbF8m0FU68f9pV4"
+    },
+    {
+      "album": {
         "name": "Don't Worry My Love",
         "url": "https://open.spotify.com/album/3mlssKkG7bd2DZzz9Z0MIq"
       },
@@ -1870,7 +1896,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-24",
       "duration_ms": 156428,
       "name": "Endgame (feat. AERIA)",
       "url": "https://open.spotify.com/track/2ttJwF0jzKnfdBgAqsTQoG"

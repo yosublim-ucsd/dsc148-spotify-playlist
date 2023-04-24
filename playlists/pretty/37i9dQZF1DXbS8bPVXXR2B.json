@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 200816,
+  "num_followers": 200966,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMDEwNmZmMDVlNjc2ODljYzkxYzY4NTdjMDFlODFmMDRj",
+  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMDgwNWQyZGY1NjcyN2NmZmIwODhjOTgzZjU2M2VmZTEw",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Past, Present & Future",
-        "url": "https://open.spotify.com/album/2YTvcCHkK2OeDJfC486AqA"
-      },
-      "artists": [
-        {
-          "name": "The Rah Band",
-          "url": "https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH"
-        }
-      ],
-      "duration_ms": 460760,
-      "name": "Messages from the Stars",
-      "url": "https://open.spotify.com/track/4vpGXQlusfDlUpvk0tIaa3"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Changes (Expanded Edition)",
         "url": "https://open.spotify.com/album/0hpXGYRKh9jmWz5ueqKaqh"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 314320,
       "name": "Risin' to the Top",
       "url": "https://open.spotify.com/track/5iVxHPyHVO7vWSDnRpNH5d"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Past, Present & Future",
+        "url": "https://open.spotify.com/album/2YTvcCHkK2OeDJfC486AqA"
+      },
+      "artists": [
+        {
+          "name": "The Rah Band",
+          "url": "https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH"
+        }
+      ],
+      "duration_ms": 460760,
+      "name": "Messages from the Stars",
+      "url": "https://open.spotify.com/track/4vpGXQlusfDlUpvk0tIaa3"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Sound System",
-        "url": "https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 337773,
-      "name": "The Magnificent Dance",
-      "url": "https://open.spotify.com/track/2vUlFUyRbemQaseUj6NESz"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Friends and Buddies",
         "url": "https://open.spotify.com/album/1JbsHszs163wrSgCpJUpxa"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 252026,
       "name": "Keep It Up",
       "url": "https://open.spotify.com/track/4eVbtPuh4bu5BbHdluycOz"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Sound System",
+        "url": "https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 337773,
+      "name": "The Magnificent Dance",
+      "url": "https://open.spotify.com/track/2vUlFUyRbemQaseUj6NESz"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "M.V.P. (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0749f8G3xK1yPfkgY1u5ia"
-      },
-      "artists": [
-        {
-          "name": "Harvey Mason",
-          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
-        }
-      ],
-      "duration_ms": 300826,
-      "name": "On and On",
-      "url": "https://open.spotify.com/track/4d0UM1L06EmBBc9c8Ulv5R"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Is It All Over My Face?",
         "url": "https://open.spotify.com/album/5bAVzhdknkLZTmByjTJ14N"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 427990,
       "name": "Is It All Over My Face? - Female Version",
       "url": "https://open.spotify.com/track/0QIl1aNSEMQL7BryNIi6dB"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "M.V.P. (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0749f8G3xK1yPfkgY1u5ia"
+      },
+      "artists": [
+        {
+          "name": "Harvey Mason",
+          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
+        }
+      ],
+      "duration_ms": 300826,
+      "name": "On and On",
+      "url": "https://open.spotify.com/track/4d0UM1L06EmBBc9c8Ulv5R"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Love in a Black Dimension",
-        "url": "https://open.spotify.com/album/2rzTSC28wxea3ZfcndE6lc"
-      },
-      "artists": [
-        {
-          "name": "Jestofunk",
-          "url": "https://open.spotify.com/artist/6mbMvxJiHaK9mNPyKSPGjA"
-        }
-      ],
-      "duration_ms": 338426,
-      "name": "For Your Precious Love",
-      "url": "https://open.spotify.com/track/2zpuJRWcGl7K4PQN9jrqKN"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Groovin' You (Expanded Edition)",
         "url": "https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 376986,
       "name": "Groovin' You - 12\" Version",
       "url": "https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Love in a Black Dimension",
+        "url": "https://open.spotify.com/album/2rzTSC28wxea3ZfcndE6lc"
+      },
+      "artists": [
+        {
+          "name": "Jestofunk",
+          "url": "https://open.spotify.com/artist/6mbMvxJiHaK9mNPyKSPGjA"
+        }
+      ],
+      "duration_ms": 338426,
+      "name": "For Your Precious Love",
+      "url": "https://open.spotify.com/track/2zpuJRWcGl7K4PQN9jrqKN"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Disco Baby",
+        "url": "https://open.spotify.com/album/6L69V18qBxDhxTlx4ZqgF2"
+      },
+      "artists": [
+        {
+          "name": "Y. Gershovsky",
+          "url": "https://open.spotify.com/artist/1Ydl0Zxt4RZCfl15pzQTaW"
+        }
+      ],
+      "duration_ms": 229734,
+      "name": "Disco Baby - Floating Points & Red Greg Edit",
+      "url": "https://open.spotify.com/track/1ILmOHn4tzjj7XaGBYx5Xu"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Raw Silk Vol. 1",
         "url": "https://open.spotify.com/album/4J8COrwRuMK2CQGNp9353D"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 251653,
       "name": "Saturday Jam",
       "url": "https://open.spotify.com/track/2JsvvaTZKsBVO1gHSXwamD"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Disco Baby",
-        "url": "https://open.spotify.com/album/6L69V18qBxDhxTlx4ZqgF2"
-      },
-      "artists": [
-        {
-          "name": "Y. Gershovsky",
-          "url": "https://open.spotify.com/artist/1Ydl0Zxt4RZCfl15pzQTaW"
-        }
-      ],
-      "duration_ms": 229734,
-      "name": "Disco Baby - Floating Points & Red Greg Edit",
-      "url": "https://open.spotify.com/track/1ILmOHn4tzjj7XaGBYx5Xu"
     }
   ],
   "unique_name": "Disco Hi-Life",

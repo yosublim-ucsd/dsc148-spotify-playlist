@@ -1,12 +1,12 @@
 {
   "description": "Your chill anime soundtrack. ",
-  "num_followers": 67906,
+  "num_followers": 68133,
   "original_name": "Slice of Life ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTgzMDAwMCwwMDAwMDAwMDY1NzcyMGJmMmQzZDNkOWZlZTllMGVhNWY0ZDhmNWY1",
+  "snapshot_id": "MTY4MTgzMDAwMCwwMDAwMDAwMGEwYzZmMDBjM2EyNzVkZWFkYjRmM2E2YjUyNjk4N2Jk",
   "tracks": [
     {
       "added_at": "2023-04-18 15:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-04-18 15:00:00",
       "album": {
-        "name": "Sun Dance",
-        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 235160,
-      "name": "\u30b3\u30a4\u30ef\u30ba\u30e9\u30a4",
-      "url": "https://open.spotify.com/track/0ZiO07cHvb675UDaKB1iix"
-    },
-    {
-      "added_at": "2023-04-18 15:00:00",
-      "album": {
         "name": "\u8679",
         "url": "https://open.spotify.com/album/0hE2gFx2Dv7DEm9kepaFFi"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 258733,
       "name": "\u8679",
       "url": "https://open.spotify.com/track/7AIj86wFWqm7X1TZ2hzHwS"
+    },
+    {
+      "added_at": "2023-04-18 15:00:00",
+      "album": {
+        "name": "Sun Dance",
+        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 235160,
+      "name": "\u30b3\u30a4\u30ef\u30ba\u30e9\u30a4",
+      "url": "https://open.spotify.com/track/0ZiO07cHvb675UDaKB1iix"
     },
     {
       "added_at": "2023-04-18 15:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-04-18 15:00:00",
       "album": {
-        "name": "Howl's Moving Castle Theme",
-        "url": "https://open.spotify.com/album/5DcmQCG3tFLsZTISzdgQWw"
-      },
-      "artists": [
-        {
-          "name": "Kyle Landry",
-          "url": "https://open.spotify.com/artist/0HSGaSAaBPZJq4lisoWA59"
-        }
-      ],
-      "duration_ms": 350347,
-      "name": "Howl's Moving Castle Theme",
-      "url": "https://open.spotify.com/track/3Hc7Su1AVaynKEkwSZopbN"
-    },
-    {
-      "added_at": "2023-04-18 15:00:00",
-      "album": {
         "name": "Deep down",
         "url": "https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 227146,
       "name": "Deep down",
       "url": "https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O"
+    },
+    {
+      "added_at": "2023-04-18 15:00:00",
+      "album": {
+        "name": "Howl's Moving Castle Theme",
+        "url": "https://open.spotify.com/album/5DcmQCG3tFLsZTISzdgQWw"
+      },
+      "artists": [
+        {
+          "name": "Kyle Landry",
+          "url": "https://open.spotify.com/artist/0HSGaSAaBPZJq4lisoWA59"
+        }
+      ],
+      "duration_ms": 350347,
+      "name": "Howl's Moving Castle Theme",
+      "url": "https://open.spotify.com/track/3Hc7Su1AVaynKEkwSZopbN"
     },
     {
       "added_at": "2023-04-18 15:00:00",

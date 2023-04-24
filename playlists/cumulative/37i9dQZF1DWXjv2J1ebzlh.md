@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,918 songs - 5 day 9 hr 0 min
+1,919 songs - 5 day 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [Amor a Tres](https://open.spotify.com/track/1bLntc24zgBLdagLf0qbzd) | [Celeste](https://open.spotify.com/artist/1bMcK3goIvwNloJK78p2dp) | [Beach Diggin', Vol\. 2](https://open.spotify.com/album/6ZTmHQNK4qBaQkdJy15j6w) | 3:01 | 2022-06-09 |  |
 | [Amor Ideal](https://open.spotify.com/track/2ArbqNanG9JzfZnANSS54n) | [Chacalón y la Nueva Crema](https://open.spotify.com/artist/3HJvj2ET4zSRuxv0m4nLmw) | [Éxitos, Éxitos, Éxitos](https://open.spotify.com/album/1d6HMqeEIubZ9HV0SHqUFt) | 3:10 | 2022-07-27 | 2022-10-15 |
 | [Amor Ideal](https://open.spotify.com/track/5ccpau4h7F2lGLWCttwbpp) | [Chacalón y la Nueva Crema](https://open.spotify.com/artist/3HJvj2ET4zSRuxv0m4nLmw) | [Éxitos, Éxitos, Éxitos](https://open.spotify.com/album/7JyWytKQNPceXS6DUop61a) | 3:10 | 2022-10-28 | 2022-11-06 |
-| [Amor Ideal](https://open.spotify.com/track/3tfhPCPL0EpFYOmsRiYoLv) | [Chacalón y la Nueva Crema](https://open.spotify.com/artist/3HJvj2ET4zSRuxv0m4nLmw) | [Grandes Éxitos 1976 \- 1981](https://open.spotify.com/album/7uz2m6BmJUY9fMrPqv5cXI) | 3:11 | 2022-06-09 |  |
+| [Amor Ideal](https://open.spotify.com/track/3tfhPCPL0EpFYOmsRiYoLv) | [Chacalón y la Nueva Crema](https://open.spotify.com/artist/3HJvj2ET4zSRuxv0m4nLmw) | [Grandes Éxitos 1976 \- 1981](https://open.spotify.com/album/7uz2m6BmJUY9fMrPqv5cXI) | 3:11 | 2022-06-09 | 2023-04-24 |
+| [Amor Ideal \- Remastered 2019](https://open.spotify.com/track/1ef1WzJeM8SpMgVUhZVMXc) | [Chacalón y la Nueva Crema](https://open.spotify.com/artist/3HJvj2ET4zSRuxv0m4nLmw) | [Grandes Éxitos 1976\-1981 \(Remastered 2019\)](https://open.spotify.com/album/5HfnDoByb6e9K3zxPPUsfQ) | 3:11 | 2023-03-17 |  |
 | [Amorosa Guajira](https://open.spotify.com/track/1hyYeSi7P0dKZhsdClaORe) | [Guillermo Portabales](https://open.spotify.com/artist/5tU4QY77fd3PavzBZvM3bJ) | [Presentando a Guillermo Portabales](https://open.spotify.com/album/0YEgN5xJHCYtXkOQQA8iCu) | 3:14 | 2022-07-12 |  |
 | [An ti fi \- Bomba](https://open.spotify.com/track/2CIH6T41pwFuGp3K38MsNO) | [Henri Guédon](https://open.spotify.com/artist/1Rn2bS4dhI0rMrn32q5ak4) | [Early latin and boogaloo recordings by the drum master](https://open.spotify.com/album/0P5sPCJBSUi8MDRZvHZ4pT) | 3:38 | 2022-06-09 |  |
 | [Ana Damir El Motakallim](https://open.spotify.com/track/57XDB9Db9zCeYG6i0htCdE) | [Issam Hajali](https://open.spotify.com/artist/1Bt7Z61Wj1ixbeJEBKwod6) | [Mouasalat Ila Jacad El Ard \(Habibi Funk 010\)](https://open.spotify.com/album/0XHu0qs3IztGqkDl4jOUpM) | 11:42 | 2022-07-12 | 2022-11-20 |

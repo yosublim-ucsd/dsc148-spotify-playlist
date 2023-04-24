@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-131 songs - 9 hr 50 min
+132 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Organ Dub Warriors](https://open.spotify.com/track/4K6NxBmPm6KZmeZEuIOreM) | [Azu Tiwaline](https://open.spotify.com/artist/0HZwEDqo4wYPQIGacES3mB) | [Draw Me a Silence \(Extended Version\)](https://open.spotify.com/album/3yEiqOlQUT7zB19SSYgGZu) | 5:10 | 2022-10-27 |  |
 | [Papua New Guinea \- 7" Original](https://open.spotify.com/track/3E0mAjpdmPOKkCzLxlMaPk) | [The Future Sound Of London](https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3) | [Papua New Guinea](https://open.spotify.com/album/4D5PVEXHKVHOS4TvYArzJV) | 3:51 | 2023-04-06 |  |
 | [Penicillin Duck](https://open.spotify.com/track/1g2x6EJ0mgmwgrfU0ockwr) | [ZULI](https://open.spotify.com/artist/5Kur13kkU4pOoNFAE8K0YF) | [All Caps](https://open.spotify.com/album/1sXHoAxzB4MG62AaSDPToo) | 4:13 | 2022-10-27 | 2023-03-31 |
-| [Phantom Pain](https://open.spotify.com/track/1YEXhpV5yftSkoGDmX66cf) | [Ital Tek](https://open.spotify.com/artist/6Auo6gEPwhb9aZindgVpZJ) | [Phantom Pain](https://open.spotify.com/album/06GTY9vmKnf8G4cW6JNqtU) | 6:37 | 2023-04-06 |  |
+| [Phantom Pain](https://open.spotify.com/track/1YEXhpV5yftSkoGDmX66cf) | [Ital Tek](https://open.spotify.com/artist/6Auo6gEPwhb9aZindgVpZJ) | [Phantom Pain](https://open.spotify.com/album/06GTY9vmKnf8G4cW6JNqtU) | 6:37 | 2023-04-06 | 2023-04-24 |
+| [Phantom Pain](https://open.spotify.com/track/5yhGuC5zHoRs0mjDRApQV4) | [Ital Tek](https://open.spotify.com/artist/6Auo6gEPwhb9aZindgVpZJ) | [Timeproof](https://open.spotify.com/album/1DcFjMNnfcu2SgJ60ByRGE) | 6:37 | 2023-04-06 |  |
 | [pinky ring](https://open.spotify.com/track/6ujwcSNqTkQBwR8sJUABaZ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [pinky ring / red velve7](https://open.spotify.com/album/1vlLqZ0bH500wKz2TRKNIQ) | 4:39 | 2022-10-27 |  |
 | [Pressedt](https://open.spotify.com/track/0Mk6hZLxT3knnslxLrQtFJ) | [Byrell The Great](https://open.spotify.com/artist/2xNGjguhmBjjP3ViK07IJO), [Princess Precious](https://open.spotify.com/artist/4GwCanrqEtG8SVYYY21rH5) | [Snack Time](https://open.spotify.com/album/3Z4pnbIrUyyOCDcQuHtzLG) | 2:57 | 2023-01-20 |  |
 | [Purity \(feat\. Frank Ocean\)](https://open.spotify.com/track/2MF4HtZHBoUliOi9nOAbS0) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [TESTING](https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa) | 4:22 | 2022-11-24 |  |

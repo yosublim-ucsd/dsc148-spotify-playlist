@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Danny Brown & JPEGMAFIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 928,067 likes - 110 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 928,187 likes - 110 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

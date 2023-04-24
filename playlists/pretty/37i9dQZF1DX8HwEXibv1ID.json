@@ -1,12 +1,12 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 26174,
+  "num_followers": 26201,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTk4OTgyNSwwMDAwMDAwMDUyYzYyMGQxNjMwODQ2NjE5MDU3YWRhZDM0YTk3NDVl",
+  "snapshot_id": "MTY4MTk4OTgyNSwwMDAwMDAwMDRkYjQ0ZDllNDFjNzFkNDk2YjBkNjcxMWQxOTY3NDU4",
   "tracks": [
     {
       "added_at": "2023-04-20 11:23:45",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-04-20 11:23:45",
       "album": {
-        "name": "French Style",
-        "url": "https://open.spotify.com/album/64Hm00agTC7eMQZuFQNnLm"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 156906,
-      "name": "C'est Magnifique",
-      "url": "https://open.spotify.com/track/4oG0FEI8Ghc03RIdpRRYTC"
-    },
-    {
-      "added_at": "2023-04-20 11:23:45",
-      "album": {
         "name": "Tears And Laughter",
         "url": "https://open.spotify.com/album/1IqiYg8kXt5nVY5fEz5dUD"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 267840,
       "name": "So In Love",
       "url": "https://open.spotify.com/track/6jqfoXK41QFV9Q5RYmwoMx"
+    },
+    {
+      "added_at": "2023-04-20 11:23:45",
+      "album": {
+        "name": "French Style",
+        "url": "https://open.spotify.com/album/64Hm00agTC7eMQZuFQNnLm"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 156906,
+      "name": "C'est Magnifique",
+      "url": "https://open.spotify.com/track/4oG0FEI8Ghc03RIdpRRYTC"
     },
     {
       "added_at": "2023-04-20 11:23:45",
@@ -235,26 +235,18 @@
     {
       "added_at": "2023-04-20 11:23:45",
       "album": {
-        "name": "Portrait In Jazz [Keepnews Collection]",
-        "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
+        "name": "Modern Art",
+        "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
       },
       "artists": [
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        },
-        {
-          "name": "Scott LaFaro",
-          "url": "https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa"
-        },
-        {
-          "name": "Paul Motian",
-          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 276693,
-      "name": "What Is This Thing Called Love",
-      "url": "https://open.spotify.com/track/1ZaytyFQnDuAvGxglzlxfa"
+      "duration_ms": 375173,
+      "name": "Begin The Beguine - Alternate Take",
+      "url": "https://open.spotify.com/track/48Q8ER4XOaE4r00bjRxT9r"
     },
     {
       "added_at": "2023-04-20 11:23:45",
@@ -275,18 +267,26 @@
     {
       "added_at": "2023-04-20 11:23:45",
       "album": {
-        "name": "Modern Art",
-        "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
+        "name": "Portrait In Jazz [Keepnews Collection]",
+        "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
       },
       "artists": [
         {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Scott LaFaro",
+          "url": "https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa"
+        },
+        {
+          "name": "Paul Motian",
+          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
         }
       ],
-      "duration_ms": 375173,
-      "name": "Begin The Beguine - Alternate Take",
-      "url": "https://open.spotify.com/track/48Q8ER4XOaE4r00bjRxT9r"
+      "duration_ms": 276693,
+      "name": "What Is This Thing Called Love",
+      "url": "https://open.spotify.com/track/1ZaytyFQnDuAvGxglzlxfa"
     },
     {
       "added_at": "2023-04-20 11:23:45",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-04-20 11:23:45",
       "album": {
-        "name": "The Best Of Cole Porter",
-        "url": "https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j"
-      },
-      "artists": [
-        {
-          "name": "Harry Arnold and His Swedish Radio Studio Orchestra",
-          "url": "https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm"
-        }
-      ],
-      "duration_ms": 152369,
-      "name": "Experiment",
-      "url": "https://open.spotify.com/track/70bVc4i0Z1WBwCpJ8IvxmB"
-    },
-    {
-      "added_at": "2023-04-20 11:23:45",
-      "album": {
         "name": "Beauty And The Beat! (Expanded Edition / Remastered)",
         "url": "https://open.spotify.com/album/7b4fckolZouZSA2OnnAl5z"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 183266,
       "name": "Do I Love You? - Live In Miami, FL/1959 / Remastered 2002",
       "url": "https://open.spotify.com/track/2CehTPb4F4syASYv3NmLix"
+    },
+    {
+      "added_at": "2023-04-20 11:23:45",
+      "album": {
+        "name": "The Best Of Cole Porter",
+        "url": "https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j"
+      },
+      "artists": [
+        {
+          "name": "Harry Arnold and His Swedish Radio Studio Orchestra",
+          "url": "https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm"
+        }
+      ],
+      "duration_ms": 152369,
+      "name": "Experiment",
+      "url": "https://open.spotify.com/track/70bVc4i0Z1WBwCpJ8IvxmB"
     },
     {
       "added_at": "2023-04-20 11:23:45",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-04-20 11:23:45",
       "album": {
-        "name": "An Evening With Anita O'Day",
-        "url": "https://open.spotify.com/album/1KclxfwNOpocikBIY8yPig"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "From This Moment On - 1955 Version",
-      "url": "https://open.spotify.com/track/0YfbhZiiqZIyfknf2mbazr"
-    },
-    {
-      "added_at": "2023-04-20 11:23:45",
-      "album": {
         "name": "Jeri Southern Meets Cole Porter",
         "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 170333,
       "name": "After You",
       "url": "https://open.spotify.com/track/7sIw0bLbI9sJuKVR5HojFE"
+    },
+    {
+      "added_at": "2023-04-20 11:23:45",
+      "album": {
+        "name": "An Evening With Anita O'Day",
+        "url": "https://open.spotify.com/album/1KclxfwNOpocikBIY8yPig"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "From This Moment On - 1955 Version",
+      "url": "https://open.spotify.com/track/0YfbhZiiqZIyfknf2mbazr"
     },
     {
       "added_at": "2023-04-20 11:23:45",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-04-20 11:23:45",
       "album": {
+        "name": "Chet Baker & Strings",
+        "url": "https://open.spotify.com/album/6dngHguvEgUGdmjR79OC7S"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "Why Shouldn't I?",
+      "url": "https://open.spotify.com/track/2RM6F4QDwmWWFKmV7WunEO"
+    },
+    {
+      "added_at": "2023-04-20 11:23:45",
+      "album": {
         "name": "High Society (O.S.T - 1956)",
         "url": "https://open.spotify.com/album/4oqjQquUSco98dlsNLZRFq"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 252818,
       "name": "I Love You Samantha",
       "url": "https://open.spotify.com/track/2IVRYGcgELRGEUldowroST"
-    },
-    {
-      "added_at": "2023-04-20 11:23:45",
-      "album": {
-        "name": "Chet Baker & Strings",
-        "url": "https://open.spotify.com/album/6dngHguvEgUGdmjR79OC7S"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "Why Shouldn't I?",
-      "url": "https://open.spotify.com/track/2RM6F4QDwmWWFKmV7WunEO"
     },
     {
       "added_at": "2023-04-20 11:23:45",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-04-20 11:23:45",
       "album": {
-        "name": "Bobby Short Loves Cole Porter",
-        "url": "https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP"
-      },
-      "artists": [
-        {
-          "name": "Bobby Short",
-          "url": "https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Rap Tap on Wood",
-      "url": "https://open.spotify.com/track/7cds5KV5fDScPBvhbHWlpJ"
-    },
-    {
-      "added_at": "2023-04-20 11:23:45",
-      "album": {
         "name": "Mabel Mercer Sings Cole Porter",
         "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 169400,
       "name": "Ours",
       "url": "https://open.spotify.com/track/78KdwqXUk0AuKFHDy32ABX"
+    },
+    {
+      "added_at": "2023-04-20 11:23:45",
+      "album": {
+        "name": "Bobby Short Loves Cole Porter",
+        "url": "https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP"
+      },
+      "artists": [
+        {
+          "name": "Bobby Short",
+          "url": "https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Rap Tap on Wood",
+      "url": "https://open.spotify.com/track/7cds5KV5fDScPBvhbHWlpJ"
     },
     {
       "added_at": "2023-04-20 11:23:45",
@@ -1099,22 +1099,18 @@
     {
       "added_at": "2023-04-20 11:23:45",
       "album": {
-        "name": "Silk Stockings (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4mYSlsuLpaqRNT1b5hloIz"
+        "name": "Mabel Mercer Sings Cole Porter",
+        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
       },
       "artists": [
         {
-          "name": "Fred Astaire",
-          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
-        },
-        {
-          "name": "MGM Studio Chorus",
-          "url": "https://open.spotify.com/artist/5dmuBOlipco9YnYwCbN5PW"
+          "name": "Mabel Mercer",
+          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
         }
       ],
-      "duration_ms": 215600,
-      "name": "The Ritz Roll and Rock",
-      "url": "https://open.spotify.com/track/6avQ8KrsVqggui50H5zLTb"
+      "duration_ms": 173840,
+      "name": "Looking at You",
+      "url": "https://open.spotify.com/track/7afi1z162KLkzTIjPU8DCH"
     },
     {
       "added_at": "2023-04-20 11:23:45",
@@ -1135,18 +1131,22 @@
     {
       "added_at": "2023-04-20 11:23:45",
       "album": {
-        "name": "Mabel Mercer Sings Cole Porter",
-        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
+        "name": "Silk Stockings (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4mYSlsuLpaqRNT1b5hloIz"
       },
       "artists": [
         {
-          "name": "Mabel Mercer",
-          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        },
+        {
+          "name": "MGM Studio Chorus",
+          "url": "https://open.spotify.com/artist/5dmuBOlipco9YnYwCbN5PW"
         }
       ],
-      "duration_ms": 173840,
-      "name": "Looking at You",
-      "url": "https://open.spotify.com/track/7afi1z162KLkzTIjPU8DCH"
+      "duration_ms": 215600,
+      "name": "The Ritz Roll and Rock",
+      "url": "https://open.spotify.com/track/6avQ8KrsVqggui50H5zLTb"
     },
     {
       "added_at": "2023-04-20 11:23:45",

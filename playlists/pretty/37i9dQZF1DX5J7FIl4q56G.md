@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: As Everything Unfolds
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,233 likes - 56 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,367 likes - 56 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 22 | [Subatlantic](https://open.spotify.com/track/5aQwquM8wHf0X7OktRg69P) | [The Ocean](https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq) | [Subatlantic](https://open.spotify.com/album/5EeaoNCpy5e8lI6NbV6h21) | 6:55 |
 | 23 | [Golden Age Of Music](https://open.spotify.com/track/6V3piBg988IoOyqxyAQ3yF) | [Arjen Lucassen's Supersonic Revolution](https://open.spotify.com/artist/6FKUrDi8oDOzLFLGlb0hfK), [Ayreon](https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt) | [Golden Age Of Music](https://open.spotify.com/album/1tVChIu5QsFKxCsCdGx2Yx) | 5:12 |
 | 24 | [League of the Serpent](https://open.spotify.com/track/2aS7yUR3IPbHrd1kszyw7U) | [Saint Deamon](https://open.spotify.com/artist/3N3B6aZbGPNDiW5aZesnoG) | [League of the Serpent](https://open.spotify.com/album/4GGVcOk24MylQaeFKop94G) | 4:04 |
-| 25 | [Ex\-Human, Now Beast](https://open.spotify.com/track/50WKLFqJQ9kSsmgyc8VrfH) | [Dozer](https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N) | [Ex\-human, Now Beast](https://open.spotify.com/album/1kOxor59vIAnuQGZAQrFPa) | 4:29 |
+| 25 | [Ex\-Human, Now Beast](https://open.spotify.com/track/0w1p5OquE37GXyyisoQf8k) | [Dozer](https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N) | [Drifting In The Endless Void](https://open.spotify.com/album/4mLQihycmN3yjMepyQopVV) | 4:29 |
 | 26 | [Negative](https://open.spotify.com/track/77VOSQS7TnAd07ZtUTtHry) | [Elwood Stray](https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr) | [Negative](https://open.spotify.com/album/0jXvfiBh58VrpCm1fy0ONH) | 3:04 |
 | 27 | [Damn](https://open.spotify.com/track/1ARqjlgwOIZ5QHs50LL3WH) | [DEVILOOF](https://open.spotify.com/artist/4gSAE6I87LS39XMZpoQGPG) | [DAMNED](https://open.spotify.com/album/6zqAtUpcgDXimYkwrS7dxB) | 4:15 |
 | 28 | [Destroyer](https://open.spotify.com/track/1iQsQZzC1CneQhOycVXBHS) | [Before The Dawn](https://open.spotify.com/artist/6L77qXFnXb7Tac7xzPa0Y7) | [Destroyer](https://open.spotify.com/album/34y1xqgtej5mb8eV3stvhT) | 4:30 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 55 | [Mechanic Convergence](https://open.spotify.com/track/64cNZnY6AvyaER20zbj5ga) | [Fearmonger](https://open.spotify.com/artist/3H3nB78HmxyT0LI964izF3) | [Singularity](https://open.spotify.com/album/6N8Etw7b6sCcq2VqpXkcFv) | 3:55 |
 | 56 | [Insane](https://open.spotify.com/track/4aaSKQerAUzEhJSE6zDyhN) | [contrast.](https://open.spotify.com/artist/59oX1Yy4grDdU4lelm4jbA) | [Insane](https://open.spotify.com/album/6LuOHpO9DsT1jReMC6r0Zc) | 3:10 |
 
-Snapshot ID: `MTY4MjA5NTc4MCwwMDAwMDAwMGU5YmE5MjE2MmM4MmI3M2RkODc2YzU2OTUwNjJhMGZi`
+Snapshot ID: `MTY4MjA5NTc4MCwwMDAwMDAwMGM4NWE3ZDJkODI5YTkxYzdiNmQ3MzFiOGM1ZDc0MjQz`

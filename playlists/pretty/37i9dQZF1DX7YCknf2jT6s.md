@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Alfa Mist
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,030 likes - 100 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,816 likes - 100 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Foreword](https://open.spotify.com/track/2n0GcL4eZ110vdaU16OBdJ) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 6:43 |
-| 2 | [Mellow Kisses](https://open.spotify.com/track/2aCGvsI9wPrmFGUGt3VEXW) | [M.E.B.](https://open.spotify.com/artist/5rnUUWYdDAG4CVFhj2yUtm) | [That You Not Dare To Forget](https://open.spotify.com/album/6WgNJUxiFSVZTBO6UR4wqH) | 6:13 |
+| 2 | [Mellow Kisses](https://open.spotify.com/track/2aCGvsI9wPrmFGUGt3VEXW) | [M.E.B.](https://open.spotify.com/artist/6AjJDwKIPlXjOxGeiCCy9P) | [That You Not Dare To Forget](https://open.spotify.com/album/6WgNJUxiFSVZTBO6UR4wqH) | 6:13 |
 | 3 | [Sex, Drugs and Chocolate](https://open.spotify.com/track/1Pc911HasdIOeIEJ3q2PmR) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Anthony Fung](https://open.spotify.com/artist/4NfvvB32qp3QEnzwXUM96W), [Solomon Dorsey](https://open.spotify.com/artist/2dOcCSGhsuviniO6gz11Y3) | [Sex, Drugs and Chocolate](https://open.spotify.com/album/0vJVxS2mbuemKFQUGNovjk) | 3:41 |
 | 4 | [Adesane \- Pachakuti Remix](https://open.spotify.com/track/11yW4QUMzfAJ9ox2AZzm5y) | [Jembaa Groove](https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr) | [Adesane \(Pachakuti Remix\)](https://open.spotify.com/album/5MlZIYCnLvJ3O7ISxJtM0O) | 3:05 |
 | 5 | [Running Game](https://open.spotify.com/track/5cIsn2aKRqKneGmQVJ66LC) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Brand New Life](https://open.spotify.com/album/2bF9vZG92EocmLQdS1M1Ro) | 4:39 |

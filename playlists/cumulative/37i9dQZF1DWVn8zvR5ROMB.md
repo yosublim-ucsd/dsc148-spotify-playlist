@@ -4,7 +4,7 @@
 
 > All of the newest country music releases in one playlist! Featuring Old Dominion, Morgan Evans, Tenille Townes, and more.
 
-3,346 songs - 7 day 14 hr 59 min
+3,347 songs - 7 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1726,7 +1726,8 @@
 | [Let's Pretend](https://open.spotify.com/track/7u0DaVwbaltC5JehdoPulN) | [Courtney Keil](https://open.spotify.com/artist/6jbFCUWWQtpzKKCgmfnFwe) | [Let's Pretend](https://open.spotify.com/album/464cYlT5387it7hyIF3DQ6) | 3:54 | 2023-02-10 | 2023-02-18 |
 | [Lets Go!](https://open.spotify.com/track/4TlFm4IsztCzL26COpgOcw) | [Ty March.](https://open.spotify.com/artist/0h7b5szTqHKm5sJNkAGqfw), [Phillip Good](https://open.spotify.com/artist/7IgNmZLjmhgaH3L83GPVeN) | [Lets Go!](https://open.spotify.com/album/440CLUzPDP9fm53GgsKBHu) | 2:34 | 2022-09-09 | 2022-09-17 |
 | [Lettin' You Down](https://open.spotify.com/track/7tAZHKKvoxwRUNOianNBPs) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [Lettin' You Down](https://open.spotify.com/album/6SpUbUYk8bMjmmyAokfXpX) | 3:01 | 2023-04-21 |  |
-| [Lie](https://open.spotify.com/track/61crnLpPD6KewtbQk2MT9m) | [Justin Fancy](https://open.spotify.com/artist/3Z2OcC4z5YzBqMMMplywFj) | [Lie](https://open.spotify.com/album/3ZFxSAGXvQFJUredoyyG1Y) | 3:02 | 2023-04-21 |  |
+| [Lie](https://open.spotify.com/track/2U6D8hcjYVGyAYm9CVNqC2) | [Justin Fancy](https://open.spotify.com/artist/3Z2OcC4z5YzBqMMMplywFj) | [Lie](https://open.spotify.com/album/1u6qmiNw60xC48mvOjjR7X) | 3:01 | 2023-04-21 |  |
+| [Lie](https://open.spotify.com/track/61crnLpPD6KewtbQk2MT9m) | [Justin Fancy](https://open.spotify.com/artist/3Z2OcC4z5YzBqMMMplywFj) | [Lie](https://open.spotify.com/album/3ZFxSAGXvQFJUredoyyG1Y) | 3:02 | 2023-04-21 | 2023-04-24 |
 | [Lied To Too](https://open.spotify.com/track/7d8egfPuKy25BAlrSMPqBq) | [Shelby Darrall](https://open.spotify.com/artist/4244ev6lbmTuq9j5yBQTc6) | [Lied To Too](https://open.spotify.com/album/1WITPsGTdEkeXTOp1Seqn5) | 3:23 | 2022-03-18 | 2022-04-09 |
 | [Life](https://open.spotify.com/track/5ta8NyQiixodcCinI6jjS6) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life](https://open.spotify.com/album/4zRPTUJpjsQ9j4wEA4z9wB) | 3:52 | 2022-10-14 | 2022-10-22 |
 | [Life & Living](https://open.spotify.com/track/7ivK1LDvcIJBT6IKuRnu6P) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Life & Living](https://open.spotify.com/album/0FXZtRGk8TPaDpq1kcSkL5) | 3:46 | 2022-08-12 | 2022-08-20 |

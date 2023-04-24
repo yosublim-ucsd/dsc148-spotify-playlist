@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-24",
       "duration_ms": 186666,
       "name": "Fine Wine (ft. Amaarae)",
       "url": "https://open.spotify.com/track/3WfgYlFwZMt0Gszdj6TsQo"
@@ -2834,6 +2834,24 @@
       "duration_ms": 254326,
       "name": "Suga Candy",
       "url": "https://open.spotify.com/track/3I4vcrlm9FLM2IT0xTuef8"
+    },
+    {
+      "album": {
+        "name": "Suma",
+        "url": "https://open.spotify.com/album/78R2R0naBOdOkgGPu8SHz8"
+      },
+      "artists": [
+        {
+          "name": "Samuel G",
+          "url": "https://open.spotify.com/artist/0AioSVgKfEMoGOqYYYE4zF"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181743,
+      "name": "Suma",
+      "url": "https://open.spotify.com/track/5qlgg0Av4R0jd8KV7Uc0HM"
     },
     {
       "album": {

@@ -14983,6 +14983,24 @@
     },
     {
       "album": {
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/3ZB9tYu46gkEZIF2xDesWE"
+      },
+      "artists": [
+        {
+          "name": "Duduca & Dalvan",
+          "url": "https://open.spotify.com/artist/3EMOVqtPqnQBmzBFiaZzuS"
+        }
+      ],
+      "date_added": "2023-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213800,
+      "name": "Mulher maravilha",
+      "url": "https://open.spotify.com/track/35wrYyA8UwP4fqEO6XwLeP"
+    },
+    {
+      "album": {
         "name": "My Paradise (Vintage Culture Remix)",
         "url": "https://open.spotify.com/album/1DtjbG6Y6mma7ZjIqgNKlm"
       },
@@ -17786,7 +17804,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-24",
       "duration_ms": 248928,
       "name": "Peppers (feat. Tommy Genesis)",
       "url": "https://open.spotify.com/track/2Rlso2ZNV0PaWwUYeeBYxx"

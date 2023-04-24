@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Grupo Frontera & Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,060 likes - 98 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,625 likes - 98 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 68 | [FW That](https://open.spotify.com/track/28u5CGeIstPNFZcyZ8OAg7) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [FW That](https://open.spotify.com/album/6Tz3mpxCfet4VDkUHy1nSD) | 2:38 |
 | 69 | [Don't Let The Devil \[Feat\. thankugoodsir\] \- Single Version](https://open.spotify.com/track/2LBwRP4HSUTJiLobjhaaXp) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [thankugoodsir](https://open.spotify.com/artist/64wFZ5RSArS1MwJ0N0nJhN) | [Don't Let The Devil \[Feat\. thankugoodsir\]](https://open.spotify.com/album/60rpMY5zgymbCEn7ICfi8M) | 2:44 |
 | 70 | [MI EXXX](https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [MI EXXX](https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC) | 3:14 |
-| 71 | [Dancing is Healing](https://open.spotify.com/track/4xlMZCMr9WhyE58igBMxVp) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/11erTn5P7gOy8vfYDq6bxq) | 2:57 |
+| 71 | [Dancing is Healing](https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/5g3JRPJKgjcc20lORFpaqp) | 2:57 |
 | 72 | [L.F.O.](https://open.spotify.com/track/09s0LZjI9zgBvXRNNA6j7K) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [L.F.O.](https://open.spotify.com/album/56FZp4N6OxLqFWcEG8qhmA) | 4:31 |
 | 73 | [in my city](https://open.spotify.com/track/0KeVjEtPP78JWOsmP7KtVm) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [homecoming / in my city](https://open.spotify.com/album/1aCizM9pCTz9k9iBD9tUh9) | 4:07 |
 | 74 | [Is It Magic?](https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Is It Magic?](https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e) | 3:08 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 97 | [Enough For You](https://open.spotify.com/track/1j0TUVoZYdAR3Mfc9dz35E) | [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Guilty](https://open.spotify.com/album/3L8ld4LC68wtc0z8HNrPP7) | 2:36 |
 | 98 | [High Life](https://open.spotify.com/track/3uKeGnQ8xPVB2IQ8sk5FkG) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [High Life](https://open.spotify.com/album/3r6hJecQBcu3HH4heWtAZg) | 3:40 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMGUyOThmN2YyYTNlYzI0ZWYxZmE1MWEwNTdmYmFjYmY3`
+Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDJlZjJmOWY2NTlmZmRjZWQzYTFlODFiNjcyMzlhMzM1`

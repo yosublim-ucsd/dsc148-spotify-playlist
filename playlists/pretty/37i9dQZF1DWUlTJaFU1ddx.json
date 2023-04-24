@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 21156,
+  "num_followers": 21172,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDIzNzE3MiwwMDAwMDAwMGE2YTNjOTEzNTIwNTQxM2E2OGY2ODY3Nzc5M2JkM2Rh",
+  "snapshot_id": "MTY3MDIzNzE3MiwwMDAwMDAwMGY1ZWJiYWIxZTRhNWVjMTk3OTEzMGFmNGM0NDJjODQ3",
   "tracks": [
     {
       "added_at": "2022-12-05 10:46:12",
@@ -487,22 +487,18 @@
     {
       "added_at": "2022-12-05 10:46:12",
       "album": {
-        "name": "KHAYYALA",
-        "url": "https://open.spotify.com/album/4J1k05sRPi0Qlez40Z8nXg"
+        "name": "Laysa",
+        "url": "https://open.spotify.com/album/59al6unEUgOFKSknNugus9"
       },
       "artists": [
         {
-          "name": "EQuBE",
-          "url": "https://open.spotify.com/artist/1vKZWmYdp9BQAbtrX9ORuu"
-        },
-        {
-          "name": "Almukhtar",
-          "url": "https://open.spotify.com/artist/7ekEnaplxNFP0jh9hiyeM8"
+          "name": "Luay Hijazeen",
+          "url": "https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8"
         }
       ],
-      "duration_ms": 189600,
-      "name": "KHAYYALA",
-      "url": "https://open.spotify.com/track/33ZTgAaPHck9KIIOEnkSxC"
+      "duration_ms": 146400,
+      "name": "Laysa",
+      "url": "https://open.spotify.com/track/2miXa7bxd39RSSn1VvPs7o"
     },
     {
       "added_at": "2022-12-05 10:46:12",
@@ -539,18 +535,22 @@
     {
       "added_at": "2022-12-05 10:46:12",
       "album": {
-        "name": "Laysa",
-        "url": "https://open.spotify.com/album/59al6unEUgOFKSknNugus9"
+        "name": "KHAYYALA",
+        "url": "https://open.spotify.com/album/4J1k05sRPi0Qlez40Z8nXg"
       },
       "artists": [
         {
-          "name": "Luay Hijazeen",
-          "url": "https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8"
+          "name": "EQuBE",
+          "url": "https://open.spotify.com/artist/1vKZWmYdp9BQAbtrX9ORuu"
+        },
+        {
+          "name": "Almukhtar",
+          "url": "https://open.spotify.com/artist/7ekEnaplxNFP0jh9hiyeM8"
         }
       ],
-      "duration_ms": 146400,
-      "name": "Laysa",
-      "url": "https://open.spotify.com/track/2miXa7bxd39RSSn1VvPs7o"
+      "duration_ms": 189600,
+      "name": "KHAYYALA",
+      "url": "https://open.spotify.com/track/33ZTgAaPHck9KIIOEnkSxC"
     },
     {
       "added_at": "2022-12-05 10:46:12",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-12-05 10:46:12",
       "album": {
+        "name": "Mabsoot Bhali",
+        "url": "https://open.spotify.com/album/3nm3ELWFVPTN7Iq6D7GWYj"
+      },
+      "artists": [
+        {
+          "name": "Luay Hijazeen",
+          "url": "https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Mabsoot Bhali",
+      "url": "https://open.spotify.com/track/6B1Fq1RpAW1dBTaCZ9WxQ2"
+    },
+    {
+      "added_at": "2022-12-05 10:46:12",
+      "album": {
         "name": "Khalliha Ala Allah",
         "url": "https://open.spotify.com/album/3yqmmWNUtIMWBlFImfPhb0"
       },
@@ -759,38 +775,6 @@
     {
       "added_at": "2022-12-05 10:46:12",
       "album": {
-        "name": "Mabsoot Bhali",
-        "url": "https://open.spotify.com/album/3nm3ELWFVPTN7Iq6D7GWYj"
-      },
-      "artists": [
-        {
-          "name": "Luay Hijazeen",
-          "url": "https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Mabsoot Bhali",
-      "url": "https://open.spotify.com/track/6B1Fq1RpAW1dBTaCZ9WxQ2"
-    },
-    {
-      "added_at": "2022-12-05 10:46:12",
-      "album": {
-        "name": "Ya Saad",
-        "url": "https://open.spotify.com/album/3lMNn9CmmoS7oWUGUbgZ5Q"
-      },
-      "artists": [
-        {
-          "name": "Farah Siraj",
-          "url": "https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY"
-        }
-      ],
-      "duration_ms": 244690,
-      "name": "Ya Saad",
-      "url": "https://open.spotify.com/track/4l7h95DV4TJimjWoZBRd9B"
-    },
-    {
-      "added_at": "2022-12-05 10:46:12",
-      "album": {
         "name": "Xvibe",
         "url": "https://open.spotify.com/album/6W7b9RFrdBE29953myz6b7"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 167499,
       "name": "7ai",
       "url": "https://open.spotify.com/track/7lx7KcCLJtHTCFglYQC12y"
+    },
+    {
+      "added_at": "2022-12-05 10:46:12",
+      "album": {
+        "name": "Ya Saad",
+        "url": "https://open.spotify.com/album/3lMNn9CmmoS7oWUGUbgZ5Q"
+      },
+      "artists": [
+        {
+          "name": "Farah Siraj",
+          "url": "https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY"
+        }
+      ],
+      "duration_ms": 244690,
+      "name": "Ya Saad",
+      "url": "https://open.spotify.com/track/4l7h95DV4TJimjWoZBRd9B"
     },
     {
       "added_at": "2022-12-05 10:46:12",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-12-05 10:46:12",
       "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/0y5vb7o8uCKsA858HIG2dM"
-      },
-      "artists": [
-        {
-          "name": "Farah Siraj",
-          "url": "https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY"
-        }
-      ],
-      "duration_ms": 208560,
-      "name": "Pedazos de mi vida",
-      "url": "https://open.spotify.com/track/5LXmGPStiy83Tnsq96G9V6"
-    },
-    {
-      "added_at": "2022-12-05 10:46:12",
-      "album": {
         "name": "\u062f\u0648\u0627\u0645\u0627\u062a",
         "url": "https://open.spotify.com/album/2PbNvLR2MHgirCervbyo8n"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 260597,
       "name": "\u062f\u0648\u0627\u0645\u0627\u062a",
       "url": "https://open.spotify.com/track/7ys7eUYsciH8LefcobJ4hQ"
+    },
+    {
+      "added_at": "2022-12-05 10:46:12",
+      "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/0y5vb7o8uCKsA858HIG2dM"
+      },
+      "artists": [
+        {
+          "name": "Farah Siraj",
+          "url": "https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY"
+        }
+      ],
+      "duration_ms": 208560,
+      "name": "Pedazos de mi vida",
+      "url": "https://open.spotify.com/track/5LXmGPStiy83Tnsq96G9V6"
     },
     {
       "added_at": "2022-12-05 10:46:12",

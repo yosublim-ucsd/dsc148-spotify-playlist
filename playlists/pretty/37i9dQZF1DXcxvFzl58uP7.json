@@ -1,12 +1,12 @@
 {
   "description": "Dreamy jams from the best bedroom producers. Cover: Joji",
-  "num_followers": 1069385,
+  "num_followers": 1069550,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDczNjAxNGU3MDcyNjZjODFjMzAwZTgzMDE3NTEyZmYz",
+  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDlhOGZjNDk3NmZjYmI3ODZiNDRhYTM0M2JlNjgwNGJj",
   "tracks": [
     {
       "added_at": "2023-04-17 19:26:13",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Someone To Spend Time With",
-        "url": "https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m"
-      },
-      "artists": [
-        {
-          "name": "Los Retros",
-          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
-        }
-      ],
-      "duration_ms": 173953,
-      "name": "Someone To Spend Time With",
-      "url": "https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "Fuzzybrain",
         "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 204014,
       "name": "Hot Rod",
       "url": "https://open.spotify.com/track/5euumi7eqEgmxvCIJw2pSp"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Someone To Spend Time With",
+        "url": "https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m"
+      },
+      "artists": [
+        {
+          "name": "Los Retros",
+          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
+        }
+      ],
+      "duration_ms": 173953,
+      "name": "Someone To Spend Time With",
+      "url": "https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "OUTTA MY MIND",
-        "url": "https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL"
-      },
-      "artists": [
-        {
-          "name": "Monsune",
-          "url": "https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF"
-        }
-      ],
-      "duration_ms": 226005,
-      "name": "OUTTA MY MIND",
-      "url": "https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "Frankenstein",
         "url": "https://open.spotify.com/album/740ehwZADpfoezUB54h6zE"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 202248,
       "name": "Frankenstein",
       "url": "https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "OUTTA MY MIND",
+        "url": "https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL"
+      },
+      "artists": [
+        {
+          "name": "Monsune",
+          "url": "https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF"
+        }
+      ],
+      "duration_ms": 226005,
+      "name": "OUTTA MY MIND",
+      "url": "https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Seeds",
-        "url": "https://open.spotify.com/album/16F9QOwv3lMvYiTscoFD4Q"
-      },
-      "artists": [
-        {
-          "name": "Bennett Coast",
-          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
-        }
-      ],
-      "duration_ms": 219286,
-      "name": "Seeds",
-      "url": "https://open.spotify.com/track/4BwGU8l91SQWeVqnWqWClh"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "a place we can always go.",
         "url": "https://open.spotify.com/album/0kl5WlV5aL2X4aho9KQXP3"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 100750,
       "name": "kissing girls",
       "url": "https://open.spotify.com/track/5lCtzEEl2FxySHX4zR9yEf"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Seeds",
+        "url": "https://open.spotify.com/album/16F9QOwv3lMvYiTscoFD4Q"
+      },
+      "artists": [
+        {
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+        }
+      ],
+      "duration_ms": 219286,
+      "name": "Seeds",
+      "url": "https://open.spotify.com/track/4BwGU8l91SQWeVqnWqWClh"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
+        "name": "Sinatra",
+        "url": "https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0"
+      },
+      "artists": [
+        {
+          "name": "Forrest Nolan",
+          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+        }
+      ],
+      "duration_ms": 156342,
+      "name": "Sinatra",
+      "url": "https://open.spotify.com/track/1USo158Kncaxfyq9q306dn"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
         "name": "Uneasy - Metronomy x spill tab",
         "url": "https://open.spotify.com/album/3XRHpM3LFOWY9nnWwKCKyv"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 203262,
       "name": "Uneasy - Metronomy x spill tab",
       "url": "https://open.spotify.com/track/6HOXiIuMfKzEpWsdZ02wZL"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
-        "name": "Sinatra",
-        "url": "https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0"
-      },
-      "artists": [
-        {
-          "name": "Forrest Nolan",
-          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
-        }
-      ],
-      "duration_ms": 156342,
-      "name": "Sinatra",
-      "url": "https://open.spotify.com/track/1USo158Kncaxfyq9q306dn"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "VVS",
-        "url": "https://open.spotify.com/album/1XPqRvUQIn4uuHeoQHTX3D"
-      },
-      "artists": [
-        {
-          "name": "mal sounds",
-          "url": "https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR"
-        }
-      ],
-      "duration_ms": 200547,
-      "name": "VVS",
-      "url": "https://open.spotify.com/track/6KZOm8qhzI55JGXilaoqXO"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "Punching Bag",
         "url": "https://open.spotify.com/album/0g9uNPKwDPldwNl9ZudsBm"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 153783,
       "name": "Punching Bag",
       "url": "https://open.spotify.com/track/09tYMZ38sfZRZmrN0basVJ"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "VVS",
+        "url": "https://open.spotify.com/album/1XPqRvUQIn4uuHeoQHTX3D"
+      },
+      "artists": [
+        {
+          "name": "mal sounds",
+          "url": "https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR"
+        }
+      ],
+      "duration_ms": 200547,
+      "name": "VVS",
+      "url": "https://open.spotify.com/track/6KZOm8qhzI55JGXilaoqXO"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Nothing in Return",
-        "url": "https://open.spotify.com/album/7bHQuWjDkBQc4cU0jOTBa1"
-      },
-      "artists": [
-        {
-          "name": "Monsune",
-          "url": "https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "Nothing in Return",
-      "url": "https://open.spotify.com/track/2r0pJWxAyYVQTHTwcnbM8A"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "beachin",
         "url": "https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 194568,
       "name": "beachin",
       "url": "https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Nothing in Return",
+        "url": "https://open.spotify.com/album/7bHQuWjDkBQc4cU0jOTBa1"
+      },
+      "artists": [
+        {
+          "name": "Monsune",
+          "url": "https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Nothing in Return",
+      "url": "https://open.spotify.com/track/2r0pJWxAyYVQTHTwcnbM8A"
     },
     {
       "added_at": "2023-04-17 19:26:13",

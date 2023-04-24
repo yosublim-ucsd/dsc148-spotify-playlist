@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 2899,
+  "num_followers": 2905,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMDFlNzc3ZWU0NTdlZTA5OTk0OGEzZGU5YzhjNzlhZTQy",
+  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMDM4Y2I2OWM3ZWFkZjc3ZTAzYjQwZWU3Zjc4NDE3ZGQw",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -137,6 +137,22 @@
       "url": "https://open.spotify.com/track/0ZnMzSoVfqDRzXgagCOlKZ"
     },
     {
+      "added_at": "2021-12-03 21:38:02",
+      "album": {
+        "name": "Overtime / Physically",
+        "url": "https://open.spotify.com/album/5Y3RzD6ncjJQ8TKh1PKIED"
+      },
+      "artists": [
+        {
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        }
+      ],
+      "duration_ms": 168501,
+      "name": "Overtime",
+      "url": "https://open.spotify.com/track/3hOWWujfSbRwkxgpW1WXYy"
+    },
+    {
       "added_at": "2021-10-08 15:53:55",
       "album": {
         "name": "La Pasion",
@@ -155,22 +171,6 @@
       "duration_ms": 187142,
       "name": "La Pasion",
       "url": "https://open.spotify.com/track/5xRKvc3MJfOYh9M1E9Fnid"
-    },
-    {
-      "added_at": "2021-12-03 21:38:02",
-      "album": {
-        "name": "Overtime / Physically",
-        "url": "https://open.spotify.com/album/5Y3RzD6ncjJQ8TKh1PKIED"
-      },
-      "artists": [
-        {
-          "name": "JADED",
-          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
-        }
-      ],
-      "duration_ms": 168501,
-      "name": "Overtime",
-      "url": "https://open.spotify.com/track/3hOWWujfSbRwkxgpW1WXYy"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -367,26 +367,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Party's Jumpin",
-        "url": "https://open.spotify.com/album/0ipSLNiyPij1uJ8mbcRyFy"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        },
-        {
-          "name": "Ossey James",
-          "url": "https://open.spotify.com/artist/5Krv6spDHbLWdNMtyTdRpX"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "Party's Jumpin",
-      "url": "https://open.spotify.com/track/11mmDbwTvh67lHK8jEv53i"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Alma Roja (DJ CHUS Remix)",
         "url": "https://open.spotify.com/album/5wJgKF4QlNNcsLX0xsxS8w"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 184320,
       "name": "Alma Roja - DJ Chus Remix",
       "url": "https://open.spotify.com/track/0MlIalMAtTaIhOjmSFmCgW"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Party's Jumpin",
+        "url": "https://open.spotify.com/album/0ipSLNiyPij1uJ8mbcRyFy"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        {
+          "name": "Ossey James",
+          "url": "https://open.spotify.com/artist/5Krv6spDHbLWdNMtyTdRpX"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "Party's Jumpin",
+      "url": "https://open.spotify.com/track/11mmDbwTvh67lHK8jEv53i"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -833,22 +833,6 @@
       "url": "https://open.spotify.com/track/4eHlj1PuYqkjmHRlLBpCjU"
     },
     {
-      "added_at": "2021-10-15 05:57:00",
-      "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/6KVnHWdc7C1ucY4kMVcmIg"
-      },
-      "artists": [
-        {
-          "name": "Dot N Life",
-          "url": "https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "La Vida",
-      "url": "https://open.spotify.com/track/3zxC1jnND5QZ6adtUb7GP8"
-    },
-    {
       "added_at": "2021-10-08 15:53:55",
       "album": {
         "name": "Ay Papi",
@@ -863,6 +847,22 @@
       "duration_ms": 205161,
       "name": "Ay Papi",
       "url": "https://open.spotify.com/track/3PVZ7Y6VhTAmrfJGpwRJOu"
+    },
+    {
+      "added_at": "2021-10-15 05:57:00",
+      "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/6KVnHWdc7C1ucY4kMVcmIg"
+      },
+      "artists": [
+        {
+          "name": "Dot N Life",
+          "url": "https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "La Vida",
+      "url": "https://open.spotify.com/track/3zxC1jnND5QZ6adtUb7GP8"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -919,26 +919,26 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Felicidad (Colombian Mix)",
-        "url": "https://open.spotify.com/album/6IYzRZ6FfbYaueT0vivHSF"
+        "name": "Why Can't We Live Together (Gregor Salto & Ibitaly Remix)",
+        "url": "https://open.spotify.com/album/25d1r7ct9OcRhTgfetw7AB"
       },
       "artists": [
         {
-          "name": "Cato Anaya",
-          "url": "https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec"
+          "name": "Timmy Thomas",
+          "url": "https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B"
         },
         {
-          "name": "The Cube Guys",
-          "url": "https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg"
+          "name": "Gregor Salto",
+          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
         },
         {
-          "name": "LA GUR\u00da",
-          "url": "https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz"
+          "name": "Ibitaly",
+          "url": "https://open.spotify.com/artist/2w2qxed232KjsPPcr2FMlb"
         }
       ],
-      "duration_ms": 355680,
-      "name": "Felicidad - Colombian Mix",
-      "url": "https://open.spotify.com/track/179w55cexITAFHwisxwRaE"
+      "duration_ms": 210491,
+      "name": "Why Can't We Live Together - Gregor Salto & Ibitaly Edit",
+      "url": "https://open.spotify.com/track/261BVXzaPgsLFTSPQ3NmiP"
     }
   ],
   "unique_name": "Alma",

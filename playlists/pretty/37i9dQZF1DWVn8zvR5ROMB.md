@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Old Dominion, Morgan Evans, Tenille Townes, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,170 likes - 64 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,325 likes - 64 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 60 | [Somebody Knew](https://open.spotify.com/track/7ISCi6vNMCqQ8G1jf8fV6l) | [Ashley Walls](https://open.spotify.com/artist/1sO7K6dVf1ZYa4XNZVozBw) | [Somebody Knew](https://open.spotify.com/album/1xUTPT7GhuIDK3f6BxxpwV) | 3:03 |
 | 61 | [Starry Eyes](https://open.spotify.com/track/4x4H33r0NwjINM7Bb2iKCb) | [Dallas Burrow](https://open.spotify.com/artist/27SwV2DSetjyUzQPv5L2Fv), [Taylor Rae](https://open.spotify.com/artist/0t8gj9joeg6gQxxrjf9UDd) | [Starry Eyes](https://open.spotify.com/album/7MuPI1qUTBpx5Uaecx3FXl) | 3:20 |
 | 62 | [Lost If I Lost You](https://open.spotify.com/track/2QMdzGCMeQF2FqolyMGza0) | [Brooke McClymont & Adam Eckersley](https://open.spotify.com/artist/1L6measG8DBCJTw8OxZ8HC) | [Lost If I Lost You](https://open.spotify.com/album/0y2xrykKdjqmotsShtB2mK) | 3:37 |
-| 63 | [Lie](https://open.spotify.com/track/61crnLpPD6KewtbQk2MT9m) | [Justin Fancy](https://open.spotify.com/artist/3Z2OcC4z5YzBqMMMplywFj) | [Lie](https://open.spotify.com/album/3ZFxSAGXvQFJUredoyyG1Y) | 3:02 |
+| 63 | [Lie](https://open.spotify.com/track/2U6D8hcjYVGyAYm9CVNqC2) | [Justin Fancy](https://open.spotify.com/artist/3Z2OcC4z5YzBqMMMplywFj) | [Lie](https://open.spotify.com/album/1u6qmiNw60xC48mvOjjR7X) | 3:01 |
 | 64 | [Happy Day](https://open.spotify.com/track/3C2rrMCwokhJ7z0Bz0hfxp) | [Johnny McGuire](https://open.spotify.com/artist/08rVq88zf9uE6G66X5ve5o) | [Happy Day](https://open.spotify.com/album/1Tdk7JH9EXYR7IY4QnXd2w) | 3:00 |
 
-Snapshot ID: `MTY4MjA4OTk0MCwwMDAwMDAwMGMwNTM1MmQ4YWRkNTdhZTgyNzI1NTQ4YTIzMzQ0NmEw`
+Snapshot ID: `MTY4MjA4OTk0MCwwMDAwMDAwMDMxMWIxNzRlMGU1YmJlMWQ5Mzk1NTQ2ZmM3YTIyOGM4`

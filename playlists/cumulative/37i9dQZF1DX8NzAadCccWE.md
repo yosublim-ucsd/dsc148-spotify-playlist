@@ -4,7 +4,7 @@
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-524 songs - 1 day 18 hr 21 min
+526 songs - 1 day 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,7 +304,8 @@
 | [Muscle Memory \- Lone Remix](https://open.spotify.com/track/4qo2bcVwGgkrzcEeC98ph8) | [Drumskull](https://open.spotify.com/artist/3nmbXJ8KL87bwy3cyddvsg), [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Muscle Memory](https://open.spotify.com/album/5bpF4IlOwPO9FlEVNnIMYu) | 5:10 | 2023-03-07 |  |
 | [My Flame](https://open.spotify.com/track/1FgyYm1kcXjkdR1VZmaiVo) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [What You Won't Do for Love](https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2) | 4:12 | 2023-03-24 |  |
 | [My Love Turns to Liquid](https://open.spotify.com/track/0YQ2IRqkQjdeBppIJeNiwx) | [Dream 2 Science](https://open.spotify.com/artist/3Vm0BsJPeOfMq4KG9jOfVN) | [Dream 2 Science](https://open.spotify.com/album/02mPgNnZdjLqhbc3ZDdgYj) | 5:22 | 2022-12-12 | 2023-03-08 |
-| [MYSM](https://open.spotify.com/track/6W33jxmOkSBPQYprghE5Ba) | [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [MYSM](https://open.spotify.com/album/0zcghV7zGl1jMa0TQhFKGz) | 3:56 | 2023-03-07 |  |
+| [MYSM](https://open.spotify.com/track/46oybkOpfk0DxfRc7Tx0wQ) | [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [love has never been a popular movement.](https://open.spotify.com/album/3S3okSECqppR83HJYWGoxY) | 3:56 | 2023-03-24 |  |
+| [MYSM](https://open.spotify.com/track/6W33jxmOkSBPQYprghE5Ba) | [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [MYSM](https://open.spotify.com/album/0zcghV7zGl1jMa0TQhFKGz) | 3:56 | 2023-03-07 | 2023-04-24 |
 | [Myth & Fire](https://open.spotify.com/track/1lNYFUJp7Uu3lAGQk4qxCi) | [Dead Man's Chest](https://open.spotify.com/artist/4iTe4cVejrjgGipSNujZgG) | [Myth & Fire](https://open.spotify.com/album/1PcFFp5G1xFZDP2woQYc7d) | 7:42 | 2021-11-25 | 2022-01-08 |
 | [Near Perfect](https://open.spotify.com/track/2aEcBUxUeEkoSrJJokQ4iJ) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 2:30 | 2022-11-21 | 2022-12-13 |
 | [NEON RATS \- SHERELLE's Sleepless in Philadelphia Remix](https://open.spotify.com/track/2FlPHfGs4KUe2GDtNQfb3P) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy), [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [EVEN MORE D4TA](https://open.spotify.com/album/1Jezw4Z2jKAhBF193bY5qM) | 4:50 | 2023-03-24 |  |
@@ -343,7 +344,8 @@
 | [Plug](https://open.spotify.com/track/5iietwKHJXD48Icz5HWA7l) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [Plug](https://open.spotify.com/album/59J56d0N0YcS69N99LKELr) | 4:21 | 2022-11-21 | 2022-12-13 |
 | [Potato Water](https://open.spotify.com/track/0A1Cm8xdkCR3RG30Yjxy7Y) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [BEAUTIFUL PRESENTS: BEAUTIFUL VOL 1](https://open.spotify.com/album/7vxquNykZOqoSU3MR7UJ0G) | 6:15 | 2021-11-25 | 2022-01-08 |
 | [Power](https://open.spotify.com/track/5lWYQD0VGli8Zq1ay0icpf) | [DJ Clent](https://open.spotify.com/artist/5GcEUbBsdWf1Jf7jQEA5Mv) | [Everybody Hates Clent](https://open.spotify.com/album/6Wvzq5MBDjebXcCSXx8AOm) | 5:26 | 2021-11-25 | 2023-03-08 |
-| [PRESSURE](https://open.spotify.com/track/7iEeCvmdE9HZ1ux9NhQgqo) | [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [PRESSURE](https://open.spotify.com/album/01bsqoWaI0TCuRXhPm2wLV) | 3:58 | 2023-03-24 |  |
+| [PRESSURE](https://open.spotify.com/track/22LQbxYN3EvsJbloaMkKl5) | [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [love has never been a popular movement.](https://open.spotify.com/album/3S3okSECqppR83HJYWGoxY) | 3:58 | 2023-03-24 |  |
+| [PRESSURE](https://open.spotify.com/track/7iEeCvmdE9HZ1ux9NhQgqo) | [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [PRESSURE](https://open.spotify.com/album/01bsqoWaI0TCuRXhPm2wLV) | 3:58 | 2023-03-24 | 2023-04-24 |
 | [Pretty Like U](https://open.spotify.com/track/7FFOHQHKfKVkN9Ax4g4iUi) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Pretty Like U EP](https://open.spotify.com/album/3fQYQstqSGm7Wszo77BYIX) | 4:31 | 2021-11-25 | 2022-02-19 |
 | [Prop O Deed](https://open.spotify.com/track/5MEPGYeYVEzOdVo9TOLvdt) | [Proc Fiskal](https://open.spotify.com/artist/1eFFmUlWRIvt26lnUzdduk) | [Prop O Deed](https://open.spotify.com/album/7bCVo1QT9nLSwnxL5tp1CN) | 4:31 | 2022-05-03 | 2022-06-18 |
 | [Pull Up \- Tim Reaper Remix](https://open.spotify.com/track/6GE30aCTN2fAInCxcfLvf9) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Hooversound Presents: Special Request and Tim Reaper](https://open.spotify.com/album/2Qtn6rWtRti5CknQiWh6pi) | 6:09 | 2022-01-07 | 2022-12-13 |

@@ -1,13 +1,29 @@
 {
   "description": "De lunes a domingo, descubre un tema elegido por tus editores de Spotify.",
-  "num_followers": 421853,
+  "num_followers": 421855,
   "original_name": "Canci\u00f3n del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjEzMjQwMCwwMDAwMDAwMGRjYWY0ZmIyZTNkYzI5MzU0NDljMjE2NDAwNThlNmUz",
+  "snapshot_id": "MTY4MjIxODgwMCwwMDAwMDAwMDg2MzY3ZWY4NGEwMmIwOWE2NzlhNWU1NDc4ZDRlMmVj",
   "tracks": [
+    {
+      "added_at": "2023-04-23 03:00:00",
+      "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/0cZEg5Ydxxr2bea2LRY3tu"
+      },
+      "artists": [
+        {
+          "name": "Onda Vaga",
+          "url": "https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ"
+        }
+      ],
+      "duration_ms": 196751,
+      "name": "Olas Negras",
+      "url": "https://open.spotify.com/track/51JSkV0wKdoFYR8Cn2PBjT"
+    },
     {
       "added_at": "2023-04-22 03:00:00",
       "album": {
@@ -883,22 +899,6 @@
       "duration_ms": 215866,
       "name": "Me Estoy Enamorando",
       "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
-    },
-    {
-      "added_at": "2023-04-10 18:00:00",
-      "album": {
-        "name": "Problema",
-        "url": "https://open.spotify.com/album/6cN6qegRWQu7PVi7cY3NCV"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
-        }
-      ],
-      "duration_ms": 164086,
-      "name": "Problema",
-      "url": "https://open.spotify.com/track/2mfLPOkmweLLN4ip9qo5lT"
     }
   ],
   "unique_name": "Canci\u00f3n del D\u00eda",
