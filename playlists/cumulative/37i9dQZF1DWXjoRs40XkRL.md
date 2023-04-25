@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-157 songs - 13 hr 52 min
+158 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Jheeni Jheeni Beeni Chadariya](https://open.spotify.com/track/7sFrXIq0TJZUYVgASM9bDv) | [Baiju Mangeshkar](https://open.spotify.com/artist/5lf48jDMFrdJkvnYW8Gg5T) | [Man Mast Kabira](https://open.spotify.com/album/6cLEimgx42vKP8ReAXgcAc) | 5:27 | 2023-03-31 |  |
 | [Jhinjhoti](https://open.spotify.com/track/4oWJqeGeJK1N5M0dUqogYD) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Jhinjhoti](https://open.spotify.com/album/6weyfGZOlWKTnp5Yq49Fjn) | 5:02 | 2022-05-17 |  |
 | [Jiya Mora Re](https://open.spotify.com/track/2n3H9PPBOXWproji7x3g0E) | [The PriyaRang Project](https://open.spotify.com/artist/0V9JIMj8rpAb5sLaETyJdn), [Priyanka Barve](https://open.spotify.com/artist/2SrMwYFxsZjEQSl8sVMu3P), [Sarang Kulkarni](https://open.spotify.com/artist/5AbDGuiDyG6kdlMLbo2njR) | [Jiya Mora Re](https://open.spotify.com/album/2z6FfQtPih0s6iSkPne2PV) | 6:21 | 2022-12-22 |  |
+| [Jiyara](https://open.spotify.com/track/2tCyldMmgrHlhP8IWiSy4h) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Fungeet](https://open.spotify.com/album/2pWlLUrt2y0QppU4OUXFTh) | 2:54 | 2023-04-24 |  |
 | [Jiyara](https://open.spotify.com/track/3wtUeVGw8hOlJCVRxtjtZY) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Jiyara](https://open.spotify.com/album/4jyfJKuTlSVfve70u1jUvv) | 2:36 | 2022-05-17 |  |
 | [Ka Karoon Sajni \- The Unwind Mix](https://open.spotify.com/track/5oVHgBoF0B29CXW1L4aeU7) | [Prajakta Shukre](https://open.spotify.com/artist/025mNMOyhsDIKHAVTHp9xB) | [Ka Karoon Sajni \- Single](https://open.spotify.com/album/5Ao1TWZgINPwvOy96c2dbV) | 4:29 | 2022-05-17 |  |
 | [Kaa Karoon Sajni \- Thumri Jazz](https://open.spotify.com/track/19UHMX3nByKeul6TOHePUY) | [Kshitij Tarey](https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l), [Ruslan Sirota](https://open.spotify.com/artist/0KSDq54pisOcm1pnpoQfGm) | [Kaa Karoon Sajni \(Thumri Jazz\)](https://open.spotify.com/album/7cvDSGp8SCQHDwBkiuBcjH) | 3:43 | 2023-04-21 |  |
@@ -126,7 +127,7 @@
 | [Ras Ke Bhare](https://open.spotify.com/track/00Z4zBOh25NUzsUGffMrZS) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Sparsh Agrawal](https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U) | [Ras Ke Bhare](https://open.spotify.com/album/2zFQCsirZmXXl4qNNO55D9) | 3:53 | 2022-12-01 |  |
 | [Rasiya](https://open.spotify.com/track/3HFJPw9sU2Ks2290Rlt3tU) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [World Music By Indian Maestros](https://open.spotify.com/album/4PBgCpCGwiiLE8xZrOdXH2) | 5:38 | 2022-05-17 | 2022-07-29 |
 | [Rasiya](https://open.spotify.com/track/4GdSydpo68O9XnTnnmSntO) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 5:38 | 2022-07-12 |  |
-| [Raske Bhare](https://open.spotify.com/track/6X0Hd6LY1qRcQB6zLlOnS4) | [Ivy Banerjee](https://open.spotify.com/artist/5s0Lihq2sOZmt9A39boaqC), [Anindita Ganguli](https://open.spotify.com/artist/71dORDZecKOG3BAexq2mgt) | [Raske Bhare](https://open.spotify.com/album/5Vyru5YcUnyFVX9wyopz1m) | 4:35 | 2022-12-09 |  |
+| [Raske Bhare](https://open.spotify.com/track/6X0Hd6LY1qRcQB6zLlOnS4) | [Ivy Banerjee](https://open.spotify.com/artist/5s0Lihq2sOZmt9A39boaqC), [Anindita Ganguli](https://open.spotify.com/artist/71dORDZecKOG3BAexq2mgt) | [Raske Bhare](https://open.spotify.com/album/5Vyru5YcUnyFVX9wyopz1m) | 4:35 | 2022-12-09 | 2023-04-25 |
 | [Ratiya](https://open.spotify.com/track/6FPylA81QCbV7wxCZidFqs) | [Apratim Tripathi](https://open.spotify.com/artist/05T6fQJ1Zn4EtE8Jcn1RlY), [Rishav Tushar](https://open.spotify.com/artist/3SFMwegvRhEllDcmoe2GTl) | [Ratiya](https://open.spotify.com/album/7pQTz2ppS7KvmcZlAwOC3y) | 3:13 | 2023-03-15 |  |
 | [Ret Bhari](https://open.spotify.com/track/5vWcAAeT5OaAQqaBDB9IV9) | [Iman Chakraborty](https://open.spotify.com/artist/7gjiYwM6O5sNuYBaCdpCXA) | [Ret Bhari](https://open.spotify.com/album/48dyY2SbO1kwSeV5r1KFEy) | 4:38 | 2022-05-17 | 2022-12-10 |
 | [Rutho Na](https://open.spotify.com/track/7qELZM6FhIlVAXDY95fwCv) | [Aditya Anand](https://open.spotify.com/artist/6hc1L9rHE2P8j5pIss5sQz), [Priyani Vani Panditt](https://open.spotify.com/artist/3ZjqqgZQ6iRWu3YZYISLB8) | [Rutho Na](https://open.spotify.com/album/4RXQdMCTlB5HEw589BzYHy) | 3:20 | 2023-03-03 |  |

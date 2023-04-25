@@ -1,13 +1,49 @@
 {
-  "description": "All new, all blues. Cover: Gov't Mule",
-  "num_followers": 131462,
+  "description": "All new, all blues. Cover: Samantha Fish",
+  "num_followers": 131511,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMDRiNmIxNWZkYWM2NjJmY2IyMGE0MTI5ZGIyOWZhODY3",
+  "snapshot_id": "MTY4MjM0NjE3NiwwMDAwMDAwMDIyZjFkZWIwYmUxZGVmZTU2NzZjMGZhNDEwZDYwNGU3",
   "tracks": [
+    {
+      "added_at": "2023-04-24 14:22:56",
+      "album": {
+        "name": "Settle For Less",
+        "url": "https://open.spotify.com/album/1JpcWCaJAFI2nBoW4pqJRF"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        },
+        {
+          "name": "Jesse Dayton",
+          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
+        }
+      ],
+      "duration_ms": 188969,
+      "name": "Settle For Less",
+      "url": "https://open.spotify.com/track/2ha56ZefX99UI2KqBkZs29"
+    },
+    {
+      "added_at": "2023-04-24 14:22:56",
+      "album": {
+        "name": "Motel Mississippi",
+        "url": "https://open.spotify.com/album/3DKmYrQ64bb7NNJd6rZHKx"
+      },
+      "artists": [
+        {
+          "name": "Tony Holiday",
+          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
+        }
+      ],
+      "duration_ms": 141733,
+      "name": "She's So Cold",
+      "url": "https://open.spotify.com/track/5j9JLxnym3t87UZbgU4EwE"
+    },
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
@@ -71,26 +107,6 @@
       "duration_ms": 205240,
       "name": "Blues Funky Like Dat",
       "url": "https://open.spotify.com/track/6ZRUSMo4fKCk7bLKhE31lJ"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "Deathwish",
-        "url": "https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        },
-        {
-          "name": "Jesse Dayton",
-          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
-        }
-      ],
-      "duration_ms": 159007,
-      "name": "Deathwish",
-      "url": "https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1531,26 +1547,6 @@
       "duration_ms": 234664,
       "name": "Blood Red River",
       "url": "https://open.spotify.com/track/616pu8ULCu4L2FTMXUxi6S"
-    },
-    {
-      "added_at": "2021-10-19 17:21:16",
-      "album": {
-        "name": "Heart of Fire",
-        "url": "https://open.spotify.com/album/1Vk2mDeiPytdF3RgwMeke0"
-      },
-      "artists": [
-        {
-          "name": "Ally Venable",
-          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
-        },
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 234183,
-      "name": "Bring on the Pain",
-      "url": "https://open.spotify.com/track/5S5uBzMAWzzqwpqxoNnGqq"
     },
     {
       "added_at": "2021-09-17 04:02:00",

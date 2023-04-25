@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 44649,
+  "num_followers": 44667,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNDMxNCwwMDAwMDAwMDJlODk4OWUyNjQzNjEyMjkwMGY3ZjEwNDVmZjRjOGNj",
+  "snapshot_id": "MTY3OTkwNDMxNCwwMDAwMDAwMDNkMWVlYTRkZjJhZjA4Y2JiMDdmZWM4MGQ5ODg4Yzg5",
   "tracks": [
     {
       "added_at": "2023-02-24 10:35:29",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "Cl\u00e9 : LEVANTER",
-        "url": "https://open.spotify.com/album/0st9OqpsKmmtwUz6cS14Fj"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 222284,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/3GYmjbJ1EU4TOMEYuVMXu0"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
         "name": "vacation",
         "url": "https://open.spotify.com/album/1gUdka9FYmArCb6w1YLrBV"
       },
@@ -267,22 +251,18 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "Dear My Winter",
-        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
+        "name": "Cl\u00e9 : LEVANTER",
+        "url": "https://open.spotify.com/album/0st9OqpsKmmtwUz6cS14Fj"
       },
       "artists": [
         {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        },
-        {
-          "name": "Chuu",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
         }
       ],
-      "duration_ms": 200933,
-      "name": "Dear My Winter",
-      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
+      "duration_ms": 222284,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/3GYmjbJ1EU4TOMEYuVMXu0"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -303,6 +283,26 @@
       "duration_ms": 256888,
       "name": "NO WAY",
       "url": "https://open.spotify.com/track/0jA0TihvVbPHgrIcHbW1Og"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
+        "name": "Dear My Winter",
+        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        },
+        {
+          "name": "Chuu",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Dear My Winter",
+      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "INNER CHILD",
-        "url": "https://open.spotify.com/album/3RlXW94RoRIrAOLMGxUUTg"
-      },
-      "artists": [
-        {
-          "name": "John Park",
-          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Sipping My life (Bonus Track)",
-      "url": "https://open.spotify.com/track/1ndZ37FOUNqW7PNWYJvPYk"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
         "name": "Da Ra Da",
         "url": "https://open.spotify.com/album/5AQgoMCw6ioH1YphjOgjYN"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 237369,
       "name": "Da Ra Da",
       "url": "https://open.spotify.com/track/5oBCC0WlEcwvFb2m0vtqr3"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
+        "name": "INNER CHILD",
+        "url": "https://open.spotify.com/album/3RlXW94RoRIrAOLMGxUUTg"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Sipping My life (Bonus Track)",
+      "url": "https://open.spotify.com/track/1ndZ37FOUNqW7PNWYJvPYk"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -595,22 +595,18 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "Friendzone",
-        "url": "https://open.spotify.com/album/4WLwRi2w6XzOnCQfupjl2Q"
+        "name": "How Is It?",
+        "url": "https://open.spotify.com/album/6hbVMD8GqzaZsNd0SXAi5v"
       },
       "artists": [
         {
-          "name": "Minsu",
-          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+          "name": "Tarin",
+          "url": "https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO"
         }
       ],
-      "duration_ms": 222576,
-      "name": "Friendzone (feat. BIG Naughty)",
-      "url": "https://open.spotify.com/track/2rX3swM25DhNwg7mTjnzbG"
+      "duration_ms": 189800,
+      "name": "How Is It?",
+      "url": "https://open.spotify.com/track/0kIAlFsKhfOmfaSnqFcX5R"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -631,18 +627,22 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "How Is It?",
-        "url": "https://open.spotify.com/album/6hbVMD8GqzaZsNd0SXAi5v"
+        "name": "Friendzone",
+        "url": "https://open.spotify.com/album/4WLwRi2w6XzOnCQfupjl2Q"
       },
       "artists": [
         {
-          "name": "Tarin",
-          "url": "https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO"
+          "name": "Minsu",
+          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         }
       ],
-      "duration_ms": 189800,
-      "name": "How Is It?",
-      "url": "https://open.spotify.com/track/0kIAlFsKhfOmfaSnqFcX5R"
+      "duration_ms": 222576,
+      "name": "Friendzone (feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/2rX3swM25DhNwg7mTjnzbG"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -677,7 +677,23 @@
       "url": "https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB"
     },
     {
-      "added_at": "2023-04-24 00:45:50",
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/3GugXnQJXNFzXCBNTZb02q"
+      },
+      "artists": [
+        {
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        }
+      ],
+      "duration_ms": 205854,
+      "name": "\ub2ec\ucf64\ud55c \ube48\ub9d0 (feat. \ubc14\ubc84\ub81b\uce20) Sweet lies (feat. The Barberettes)",
+      "url": "https://open.spotify.com/track/3F6eSiAXmjfZpR0vUOoOzN"
+    },
+    {
+      "added_at": "2023-04-25 00:54:35",
       "album": {
         "name": "We don\u2019t talk (Feat. CHEEZE)",
         "url": "https://open.spotify.com/album/0EBLkNbcXmiGBj5fPVtrvK"
@@ -695,22 +711,6 @@
       "duration_ms": 194573,
       "name": "We don\u2019t talk (Feat. CHEEZE)",
       "url": "https://open.spotify.com/track/3bjwxY6u1MFQheamA1rkcP"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/3GugXnQJXNFzXCBNTZb02q"
-      },
-      "artists": [
-        {
-          "name": "Baek A Yeon",
-          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
-        }
-      ],
-      "duration_ms": 205854,
-      "name": "\ub2ec\ucf64\ud55c \ube48\ub9d0 (feat. \ubc14\ubc84\ub81b\uce20) Sweet lies (feat. The Barberettes)",
-      "url": "https://open.spotify.com/track/3F6eSiAXmjfZpR0vUOoOzN"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "ADAMAS, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6dYluyaRdoGCOONJcEOa1k"
-      },
-      "artists": [
-        {
-          "name": "Bernard Park",
-          "url": "https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv"
-        }
-      ],
-      "duration_ms": 149062,
-      "name": "Darling You",
-      "url": "https://open.spotify.com/track/3j4QD9uSev2Uh1DeFMdMml"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
         "name": "Tailor",
         "url": "https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 267051,
       "name": "We are all Muse (Feat. Yerin Baek)",
       "url": "https://open.spotify.com/track/1p3EE66M8YuZ86FyYPpvnn"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
+        "name": "ADAMAS, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6dYluyaRdoGCOONJcEOa1k"
+      },
+      "artists": [
+        {
+          "name": "Bernard Park",
+          "url": "https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv"
+        }
+      ],
+      "duration_ms": 149062,
+      "name": "Darling You",
+      "url": "https://open.spotify.com/track/3j4QD9uSev2Uh1DeFMdMml"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "Paul Kim The First Album Part. 1 \u2018the Road\u2019",
-        "url": "https://open.spotify.com/album/5Yzku0R7REUKxNwL7CzLx8"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 212150,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/7toNHOB0n7dnOfyBtsZaE4"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
         "name": "BETTER - The 10th Album",
         "url": "https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 238093,
       "name": "All That Jazz",
       "url": "https://open.spotify.com/track/630EmrW0DgVqPdKIWMk4YR"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
+        "name": "Paul Kim The First Album Part. 1 \u2018the Road\u2019",
+        "url": "https://open.spotify.com/album/5Yzku0R7REUKxNwL7CzLx8"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 212150,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/7toNHOB0n7dnOfyBtsZaE4"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -957,7 +957,7 @@
       "url": "https://open.spotify.com/track/3QwqGGvAuYdcVXVGejgypC"
     },
     {
-      "added_at": "2023-04-24 00:45:50",
+      "added_at": "2023-04-25 00:54:35",
       "album": {
         "name": "Candy For You",
         "url": "https://open.spotify.com/album/6D7gUwsJNO2SNjxZVSUrzA"
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "The Fairy Tale",
-        "url": "https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 239086,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/3i39O8PS1qEWYefGEhrTBp"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
         "name": "Thinking of you",
         "url": "https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 193514,
       "name": "Thinking of you (Feat. Lee Yu Bin)",
       "url": "https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
+        "name": "The Fairy Tale",
+        "url": "https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 239086,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/3i39O8PS1qEWYefGEhrTBp"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "LOVER",
-        "url": "https://open.spotify.com/album/2E1J6sAvJIYboa13mkcilz"
-      },
-      "artists": [
-        {
-          "name": "Yoon Hyun Sang",
-          "url": "https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2"
-        }
-      ],
-      "duration_ms": 265773,
-      "name": "Dancing Universe",
-      "url": "https://open.spotify.com/track/2shW4PIb06f9uYWEcrZ00a"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
         "name": "Cliche",
         "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
       },
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "[Vol.134] You Hee yul's Sketchbook With you : 87th Voice 'Sketchbook X CHEEZE'",
-        "url": "https://open.spotify.com/album/7AbVFx2oHmJ42ISOfAC3Uw"
+        "name": "LOVER",
+        "url": "https://open.spotify.com/album/2E1J6sAvJIYboa13mkcilz"
       },
       "artists": [
         {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+          "name": "Yoon Hyun Sang",
+          "url": "https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2"
         }
       ],
-      "duration_ms": 212898,
-      "name": "Habit",
-      "url": "https://open.spotify.com/track/1uSQi3nx2YAA2LfTLMbAZB"
+      "duration_ms": 265773,
+      "name": "Dancing Universe",
+      "url": "https://open.spotify.com/track/2shW4PIb06f9uYWEcrZ00a"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -1151,6 +1135,22 @@
       "duration_ms": 244363,
       "name": "Maudie",
       "url": "https://open.spotify.com/track/1sJu6euhP60yK5uHMLMfLX"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
+        "name": "[Vol.134] You Hee yul's Sketchbook With you : 87th Voice 'Sketchbook X CHEEZE'",
+        "url": "https://open.spotify.com/album/7AbVFx2oHmJ42ISOfAC3Uw"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 212898,
+      "name": "Habit",
+      "url": "https://open.spotify.com/track/1uSQi3nx2YAA2LfTLMbAZB"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "Our Cinema #2 - Dancing",
-        "url": "https://open.spotify.com/album/1NOp8pcedKfCeUj43mmbhC"
-      },
-      "artists": [
-        {
-          "name": "Narae Lee",
-          "url": "https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1"
-        }
-      ],
-      "duration_ms": 210079,
-      "name": "Our Cinema #2 - Dancing",
-      "url": "https://open.spotify.com/track/6D9XN0mRQZRBcte4IZReCE"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
         "name": "Forever yours",
         "url": "https://open.spotify.com/album/0SmS3QKxpiblknw3DYP3a5"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 190146,
       "name": "Play the field (With ONEW, Yoo Inna)",
       "url": "https://open.spotify.com/track/0veTa3D38HyGkz2gFZXAuz"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
+        "name": "Our Cinema #2 - Dancing",
+        "url": "https://open.spotify.com/album/1NOp8pcedKfCeUj43mmbhC"
+      },
+      "artists": [
+        {
+          "name": "Narae Lee",
+          "url": "https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1"
+        }
+      ],
+      "duration_ms": 210079,
+      "name": "Our Cinema #2 - Dancing",
+      "url": "https://open.spotify.com/track/6D9XN0mRQZRBcte4IZReCE"
     },
     {
       "added_at": "2023-02-24 10:35:29",

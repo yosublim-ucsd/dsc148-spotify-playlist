@@ -1,12 +1,12 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 916040,
+  "num_followers": 916673,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjEwMzQwNywwMDAwMDAwMDRjZTdjYjIyOTVhMTU5ZWUyZDIxYzNjZWVmYmFlZDM1",
+  "snapshot_id": "MTY4MjEwMzQwNywwMDAwMDAwMGUwMjg5OTdlNzM1NzUxZTRmYzAwMGFjYmE2NmVkNjhi",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -123,6 +123,26 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
+        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 204109,
+      "name": "WHARF TALK (feat. A$AP Rocky)",
+      "url": "https://open.spotify.com/track/3u9PAti8muEXXvEjeFpQK0"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Oh, Inverted World (20th Anniversary Remaster)",
         "url": "https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE"
       },
@@ -183,26 +203,6 @@
       "duration_ms": 184767,
       "name": "The Dress",
       "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
-        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 204109,
-      "name": "WHARF TALK (feat. A$AP Rocky)",
-      "url": "https://open.spotify.com/track/3u9PAti8muEXXvEjeFpQK0"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Music Has The Right To Children",
-        "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 91706,
-      "name": "Olson",
-      "url": "https://open.spotify.com/track/5DZ4M3yMat79ok25rZHuA9"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Was It Something I Said",
         "url": "https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 220588,
       "name": "Was It Something I Said",
       "url": "https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 91706,
+      "name": "Olson",
+      "url": "https://open.spotify.com/track/5DZ4M3yMat79ok25rZHuA9"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Slacks",
-        "url": "https://open.spotify.com/album/08W1N1M71WmwpgbnpVZOF3"
-      },
-      "artists": [
-        {
-          "name": "St. South",
-          "url": "https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D"
-        }
-      ],
-      "duration_ms": 206634,
-      "name": "Slacks",
-      "url": "https://open.spotify.com/track/1fCtah6RlmidPvSiyMfncH"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "SBTRKT (Deluxe Version)",
         "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 206600,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/47GsUibP7RiUL7SQ7YFfhu"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Slacks",
+        "url": "https://open.spotify.com/album/08W1N1M71WmwpgbnpVZOF3"
+      },
+      "artists": [
+        {
+          "name": "St. South",
+          "url": "https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D"
+        }
+      ],
+      "duration_ms": 206634,
+      "name": "Slacks",
+      "url": "https://open.spotify.com/track/1fCtah6RlmidPvSiyMfncH"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "You're Too Precious",
-        "url": "https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 223900,
-      "name": "You're Too Precious",
-      "url": "https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "LEMONS",
         "url": "https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX"
       },
@@ -1435,18 +1419,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Soul Trash",
-        "url": "https://open.spotify.com/album/0ixqW4vlndPhWNsvDI4l8u"
+        "name": "You're Too Precious",
+        "url": "https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q"
       },
       "artists": [
         {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         }
       ],
-      "duration_ms": 154573,
-      "name": "drip bounce _ 7_24_18",
-      "url": "https://open.spotify.com/track/42xSa2OHeuhpGYkWPXo3cA"
+      "duration_ms": 223900,
+      "name": "You're Too Precious",
+      "url": "https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1463,6 +1447,22 @@
       "duration_ms": 128360,
       "name": "Lumbago",
       "url": "https://open.spotify.com/track/0DIgltOMdzrEWAMoe7ayZ6"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Soul Trash",
+        "url": "https://open.spotify.com/album/0ixqW4vlndPhWNsvDI4l8u"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 154573,
+      "name": "drip bounce _ 7_24_18",
+      "url": "https://open.spotify.com/track/42xSa2OHeuhpGYkWPXo3cA"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Just Gonna Exist",
-        "url": "https://open.spotify.com/album/4jEFulLJmErkVTpTJoq0iU"
-      },
-      "artists": [
-        {
-          "name": "Mindchatter",
-          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
-        }
-      ],
-      "duration_ms": 174474,
-      "name": "Just Gonna Exist",
-      "url": "https://open.spotify.com/track/2f8bsBeF4Yk14cWPS9pZ3S"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Saint Cloud",
         "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 217373,
       "name": "Fire",
       "url": "https://open.spotify.com/track/2lBEWXP11gpEySIXgA5ALH"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Just Gonna Exist",
+        "url": "https://open.spotify.com/album/4jEFulLJmErkVTpTJoq0iU"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "duration_ms": 174474,
+      "name": "Just Gonna Exist",
+      "url": "https://open.spotify.com/track/2f8bsBeF4Yk14cWPS9pZ3S"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1613,22 +1613,6 @@
       "url": "https://open.spotify.com/track/3D1VUmjj0IlhdHqGConc7C"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Drunk",
-        "url": "https://open.spotify.com/album/3Bm0NIvCFjW8EcorluiLM7"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 191750,
-      "name": "Drunk",
-      "url": "https://open.spotify.com/track/2cUV93Y7FLGR42ycRRf0bL"
-    },
-    {
       "added_at": "2023-04-21 18:56:46",
       "album": {
         "name": "Spider",
@@ -1647,6 +1631,38 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Drunk",
+        "url": "https://open.spotify.com/album/3Bm0NIvCFjW8EcorluiLM7"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 191750,
+      "name": "Drunk",
+      "url": "https://open.spotify.com/track/2cUV93Y7FLGR42ycRRf0bL"
+    },
+    {
+      "added_at": "2023-04-21 18:56:46",
+      "album": {
+        "name": "Weak In Your Light",
+        "url": "https://open.spotify.com/album/7jEMFyVOSHEDt307mMeOM1"
+      },
+      "artists": [
+        {
+          "name": "Nation of Language",
+          "url": "https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz"
+        }
+      ],
+      "duration_ms": 255438,
+      "name": "Weak In Your Light",
+      "url": "https://open.spotify.com/track/59NJzV28kIjaPVqnkEX55V"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Rules",
         "url": "https://open.spotify.com/album/0Nz3xKQGtje65y3xcEVj3N"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 200680,
       "name": "Mis",
       "url": "https://open.spotify.com/track/0DSgZOTRW9O7FGlheqWCHg"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Views/Octopus EP",
-        "url": "https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU"
-      },
-      "artists": [
-        {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Aquarium",
-      "url": "https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE"
     }
   ],
   "unique_name": "late night vibes",

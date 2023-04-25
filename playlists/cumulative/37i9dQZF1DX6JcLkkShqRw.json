@@ -152,7 +152,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 157090,
       "name": "150 Mil",
       "url": "https://open.spotify.com/track/2DFx3pZrvo4Tp3BFU2mHt1"
@@ -494,7 +494,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 197147,
       "name": "A Poto Pe",
       "url": "https://open.spotify.com/track/6iu7Evq3KjMKFWSQlKQnhW"
@@ -1324,7 +1324,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 181604,
       "name": "Aunque Me Caigo Me Paro",
       "url": "https://open.spotify.com/track/3zW8kxLiE0L7KZLz6TZzVF"
@@ -2968,7 +2968,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 303673,
       "name": "Cochinae (Remix)",
       "url": "https://open.spotify.com/track/2M5E0vbB12alQ32iV8LKJI"
@@ -3622,7 +3622,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 133894,
       "name": "cuatro veinte",
       "url": "https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq"
@@ -4370,7 +4370,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 193313,
       "name": "Dime",
       "url": "https://open.spotify.com/track/07K6fgUdBPCL5ZzhRdu8H0"
@@ -5068,7 +5068,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 218314,
       "name": "ELITE",
       "url": "https://open.spotify.com/track/5eoaxaJxoUIvth6cT5k28M"
@@ -5512,7 +5512,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 132413,
       "name": "EXARTE PA TRA",
       "url": "https://open.spotify.com/track/0BmsdjXVTuO2kpKGaGaXsS"
@@ -8323,6 +8323,28 @@
     },
     {
       "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/1KH6SoonDjQIqiI2naQwm9"
+      },
+      "artists": [
+        {
+          "name": "Albere",
+          "url": "https://open.spotify.com/artist/2rwEitOiYr07CmFI1GCHLf"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160573,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/3n718OS6VC04q3SZRIcU5x"
+    },
+    {
+      "album": {
         "name": "Ley de Atracci\u00f3n",
         "url": "https://open.spotify.com/album/3bCHpjpghyFjPfl0l108mF"
       },
@@ -9032,7 +9054,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 172571,
       "name": "MALA",
       "url": "https://open.spotify.com/track/7oP7eAPNRey6iLu6sZeGgY"
@@ -12516,7 +12538,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 235932,
       "name": "Panamera",
       "url": "https://open.spotify.com/track/4yG3Pgc8McT71M6jwRE9Hf"
@@ -14374,7 +14396,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 243500,
       "name": "S.O.S.",
       "url": "https://open.spotify.com/track/6QxjQa0Kdf7a1oRrGCQqEX"
@@ -14802,7 +14824,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 197792,
       "name": "SEXTIME",
       "url": "https://open.spotify.com/track/2kEuOngY5Td8iGxnzl8vPr"
@@ -17594,7 +17616,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 174395,
       "name": "Verte",
       "url": "https://open.spotify.com/track/2pF5iWnknmhMZYEemFtbnv"

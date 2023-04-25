@@ -4,7 +4,7 @@
 
 > Press play and dance away to your favorite electronic hits\. Cover: Sofi Tukker
 
-331 songs - 17 hr 32 min
+332 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Garden](https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Garden](https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm) | 3:35 | 2022-06-03 | 2022-11-05 |
 | [Get To Know Me](https://open.spotify.com/track/6SmsuhxUTtgWQhK723xkDJ) | [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb) | [Get To Know Me](https://open.spotify.com/album/4s2SYi5i0nmWy3RlYWHGLW) | 3:01 | 2022-07-11 | 2022-11-19 |
 | [Get Up](https://open.spotify.com/track/3uO4nLDiJMH2DkixEFcHIN) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [ShezAr](https://open.spotify.com/artist/3PPJmIxohGjhNvQIyrksIW) | [Get Up](https://open.spotify.com/album/2XahKuNpWDBxLlbD8eKCuc) | 3:06 | 2023-02-10 |  |
+| [GLBTM \(Studio Outtakes\) \[Edit\]](https://open.spotify.com/track/6gLkmtXYQHitabChjGfiqy) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [GLBTM \(Studio Outtakes\)](https://open.spotify.com/album/1gDbMxDY14mf9OZzpQfON0) | 2:38 | 2023-04-24 |  |
 | [Go Back](https://open.spotify.com/track/7JzTAGO5uBYTBtlibZIMty) | [Stwo](https://open.spotify.com/artist/5WQxQAu4xmUwCzxPw3GiB4) | [Go Back](https://open.spotify.com/album/780Q7xDp46cJjUqVt2LclA) | 3:44 | 2023-01-20 |  |
 | [Good Kids](https://open.spotify.com/track/2R7yQjDSVMgqxu6NoosDfE) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [Good Kids](https://open.spotify.com/album/6kMJr6mCAK4k5BllhH89Jf) | 2:28 | 2022-11-04 | 2022-11-19 |
 | [GOOD TIMES \- Braxe + Falcon Remix](https://open.spotify.com/track/4Gn1QTNQReiekDQe4G9Nwn) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA) | [GOOD TIMES \(Braxe + Falcon Remix\)](https://open.spotify.com/album/3dPuxSpMmACVdpn9IRMhsz) | 4:44 | 2022-12-10 |  |

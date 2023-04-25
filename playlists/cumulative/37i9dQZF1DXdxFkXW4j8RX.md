@@ -4,7 +4,7 @@
 
 > La casa de lxs MC's\. Foto: Liricistas & Utopiko.
 
-152 songs - 8 hr 43 min
+153 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Laberinto](https://open.spotify.com/track/3T1mSEsNK8OgUTx5xkOzUP) | [Delta Mc](https://open.spotify.com/artist/0FY3A8vJJrTfxjewibFd4s) | [Laberinto](https://open.spotify.com/album/5J3SwZ3xkDUpyCAWtVIewx) | 2:08 | 2022-10-06 |  |
 | [Laif Is Tu Short](https://open.spotify.com/track/2tprTVzdN6TlT2t8QYbLVD) | [Brous One](https://open.spotify.com/artist/1B8h9tQRqagUQ7XcHRvh3k), [Matiah Chinaski](https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F), [DJ Pere](https://open.spotify.com/artist/0OHe56BrinIZV4Xqu4EEbP) | [Laif Is Tu Short](https://open.spotify.com/album/2osIjJPyOPli3uUgNfbslN) | 2:36 | 2022-11-18 |  |
 | [Laif Is Tu Short](https://open.spotify.com/track/45twljxHOjZ00JqdsOLbzQ) | [Brous One](https://open.spotify.com/artist/1B8h9tQRqagUQ7XcHRvh3k), [Matiah Chinaski](https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F), [DJ Pere](https://open.spotify.com/artist/0OHe56BrinIZV4Xqu4EEbP) | [Laif Is Tu Short](https://open.spotify.com/album/3lboE8eK35egnJ9yqkjuMs) | 2:36 | 2022-01-06 | 2022-11-20 |
+| [LEGEND](https://open.spotify.com/track/7JD8Mw6Kg58thpwN0nmgMJ) | [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9), [JOSE SPAACE](https://open.spotify.com/artist/2rNJ5aQFR3gAnEIbpqUtF6), [Lan](https://open.spotify.com/artist/7xWssG0O4bIc1vUhdqMWHg) | [LEGEND](https://open.spotify.com/album/49UsGxXPbBwqLL3HW11TYU) | 3:28 | 2023-04-24 |  |
 | [Libro Abierto \- Remix](https://open.spotify.com/track/5QkL07mCaEIJc34kD5RbUJ) | [Lenwa Dura](https://open.spotify.com/artist/6mV5lAVMELv6TOmkSzxjfG), [Sol](https://open.spotify.com/artist/0svIG0axNVK6pUoJtmI6pb) | [Libro Abierto \(Remix\)](https://open.spotify.com/album/6aDQLsdyYqTZjq3g3reNXb) | 2:53 | 2022-01-06 |  |
 | [Lil Dangerous](https://open.spotify.com/track/3nPsTFDqICgVcwVu9CyDD0) | [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [Excelencia Prehispana](https://open.spotify.com/artist/0l35vP0Pl9zkdVYVoYasmQ) | [Lil Dangerous](https://open.spotify.com/album/2J0u9ZopD8P36P9Dw3ImCf) | 3:36 | 2022-01-06 |  |
 | [Lo Que No Te Conté](https://open.spotify.com/track/3Z452bjBcSY5lVXxlCCwSf) | [KMC](https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4) | [Lo Que No Te Conté](https://open.spotify.com/album/6g5cG2wmNh2HPAW4oJXgS7) | 3:42 | 2022-01-06 | 2023-04-09 |

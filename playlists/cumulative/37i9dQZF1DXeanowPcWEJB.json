@@ -2292,7 +2292,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 205826,
       "name": "Nunca, Nunca, Nunca",
       "url": "https://open.spotify.com/track/1Ly0WfyXroxnfUr0iPzO52"
@@ -2798,6 +2798,24 @@
       "duration_ms": 129199,
       "name": "Rancho Abandonado",
       "url": "https://open.spotify.com/track/3NeUoyAmPF1IYZ6ISGTq69"
+    },
+    {
+      "album": {
+        "name": "Recordando A Antonio Bribiesca",
+        "url": "https://open.spotify.com/album/0jvIr4ODC4xNyRFJxkoI08"
+      },
+      "artists": [
+        {
+          "name": "Antonio Bribiesca",
+          "url": "https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Rayando El Sol",
+      "url": "https://open.spotify.com/track/0vbTSruZjJ7ypw0mbqwQ8J"
     },
     {
       "album": {

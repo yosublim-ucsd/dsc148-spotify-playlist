@@ -4,7 +4,7 @@
 
 > Viaja al México tradicional con la expresión de sus guitarras.
 
-184 songs - 9 hr 48 min
+185 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Nosotros](https://open.spotify.com/track/1QdWTCj41nPUHp5KpfqRqL) | [AJR All\-Stars](https://open.spotify.com/artist/2L1o8YuUT64yTV3Ma0DlcO) | [Guitarras Mexicanas \- Joyas De La Musica "30 Exitos"](https://open.spotify.com/album/7AKBSgTMVLwBesP3KjcKJM) | 5:16 | 2022-01-12 | 2022-07-29 |
 | [Nosotros](https://open.spotify.com/track/0hwXKRDbZDKQOASMUkyBrU) | [Chamin Madero](https://open.spotify.com/artist/2i6crsrnfZnUu1hdEEa1Z4) | [15 Guitarras Mexicanas](https://open.spotify.com/album/4jQOONzAbwWnwEk0JJwTua) | 5:16 | 2021-05-15 |  |
 | [Nunca, Nunca, Nunca](https://open.spotify.com/track/7u8deMbNEnfhVwZFQeWqDm) | [Juan Veronico](https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp) | [15 Melodías Inolvidables en la Guitarra de Juan Verónico](https://open.spotify.com/album/48VLY9rCWIa5bfv4yebksG) | 3:25 | 2022-01-12 | 2022-07-27 |
-| [Nunca, Nunca, Nunca](https://open.spotify.com/track/1Ly0WfyXroxnfUr0iPzO52) | [Juan Veronico](https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp) | [Lo Mejor en Guitarras](https://open.spotify.com/album/7nl5EG8xfTaQ4WVyB9dsc3) | 3:25 | 2022-01-12 |  |
+| [Nunca, Nunca, Nunca](https://open.spotify.com/track/1Ly0WfyXroxnfUr0iPzO52) | [Juan Veronico](https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp) | [Lo Mejor en Guitarras](https://open.spotify.com/album/7nl5EG8xfTaQ4WVyB9dsc3) | 3:25 | 2022-01-12 | 2023-04-25 |
 | [Orgullo Mexicano](https://open.spotify.com/track/5wtL0whaBlX8Awp2KfAfFJ) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ), [David Peña](https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i) | [Alma Mexicana](https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ) | 2:20 | 2022-01-12 | 2022-07-29 |
 | [Paloma Negra](https://open.spotify.com/track/0znUdNIr1OnHLW6Z1O22aB) | [Los Poetas De La Guitarra](https://open.spotify.com/artist/4tJogcL5p5AL0etHNAsxbU) | [Los Poetas de la Guitarra](https://open.spotify.com/album/0LxilFXMfEsuw2dJGhk76A) | 3:32 | 2022-01-12 | 2022-07-29 |
 | [Para Cuando Regreses](https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Para Cuando Regreses](https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw) | 2:20 | 2021-05-15 |  |
@@ -158,6 +158,7 @@
 | [Que Bonita Es Mi Tierra](https://open.spotify.com/track/1duK1uz8Fpk3GG6gdXiXt2) | [Gilberto Puente](https://open.spotify.com/artist/1OBVE9oxvqZ5mGtUUR3wVR) | [Tesoros De Colección \- Las Grandes Guitarras Mexicanas](https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3) | 3:10 | 2021-05-15 |  |
 | [Que Bonito Es Lo Bonito](https://open.spotify.com/track/0BtOMyBVzuys6ncHGSptT0) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ), [David Peña](https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i) | [Alma Mexicana](https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ) | 2:13 | 2022-01-12 | 2022-07-28 |
 | [Rancho Abandonado](https://open.spotify.com/track/3NeUoyAmPF1IYZ6ISGTq69) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ), [David Peña](https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i) | [Alma Mexicana](https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ) | 2:09 | 2022-01-12 | 2022-08-20 |
+| [Rayando El Sol](https://open.spotify.com/track/0vbTSruZjJ7ypw0mbqwQ8J) | [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [Recordando A Antonio Bribiesca](https://open.spotify.com/album/0jvIr4ODC4xNyRFJxkoI08) | 3:05 | 2023-01-23 |  |
 | [Rayando el Sol](https://open.spotify.com/track/5q9YsFCYfgyo1vmkSMD8wl) | [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [Serie de Colección 16 Auténticos Éxitos Antonio Bribiesca](https://open.spotify.com/album/65uwubNhA9Iyhgmdiy3CsX) | 3:06 | 2022-01-12 | 2022-07-29 |
 | [Rayando el Sol](https://open.spotify.com/track/0hJj2ViFEzsH0Sh1x2WAUv) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [La Gran Colección del 60 Aniversario CBS \- Antonio Bribiesca](https://open.spotify.com/album/2rDD8JqC6Id1hmr0JI4hDA) | 3:05 | 2021-05-15 | 2023-02-12 |
 | [Renunciación](https://open.spotify.com/track/4cBQl53QbFzcK9Gk44aoBr) | [Los Poetas De La Guitarra](https://open.spotify.com/artist/4tJogcL5p5AL0etHNAsxbU) | [Los Poetas de la Guitarra](https://open.spotify.com/album/0LxilFXMfEsuw2dJGhk76A) | 2:30 | 2022-01-12 | 2022-07-28 |

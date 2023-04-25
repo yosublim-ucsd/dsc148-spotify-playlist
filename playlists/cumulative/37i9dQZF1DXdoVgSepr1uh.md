@@ -4,7 +4,7 @@
 
 > Argentina en la casa! Foto: Rusherking, Yami Safdie & Micro TDH.
 
-175 songs - 8 hr 29 min
+177 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Blokeao](https://open.spotify.com/track/5au1ohqMri0oI2JyCbkl9J) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Blokeao](https://open.spotify.com/album/08Eyi1GTWoDYfVzHOGikDW) | 3:17 | 2022-08-05 |  |
 | [Bombon](https://open.spotify.com/track/4Rq2Hu03jIex87RcHy3Kvt) | [Kifykify](https://open.spotify.com/artist/1ZM3GOPFXwiy6yVeY1FM3I), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Bombon](https://open.spotify.com/album/7j4mQ0tIdeTTT1fB2OUJNc) | 2:55 | 2022-05-24 | 2022-06-18 |
 | [Borracho y Loco](https://open.spotify.com/track/4WJ1NdiMI29s083w8ph0hA) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [El Pibe \(Vol.1\)](https://open.spotify.com/album/3Cqol64UqjB81EpDkvUH84) | 2:44 | 2022-07-22 |  |
-| [Cartera Drxga y Maquillaje](https://open.spotify.com/track/1usHY94fx76ykpvlMD5dWk) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT) | [Cartera Drxga y Maquillaje](https://open.spotify.com/album/7idvjC1nomwslxVrZum7Rr) | 2:06 | 2023-01-05 |  |
+| [Cartera Drxga y Maquillaje](https://open.spotify.com/track/1usHY94fx76ykpvlMD5dWk) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT), [Tomm](https://open.spotify.com/artist/6E8xEoc2l0qAsP3uHKD2JP) | [Cartera Drxga y Maquillaje](https://open.spotify.com/album/7idvjC1nomwslxVrZum7Rr) | 2:06 | 2023-01-05 |  |
 | [Chau, Bye](https://open.spotify.com/track/5sZkmuKztMmkohDtvqKTBQ) | [J Gonz](https://open.spotify.com/artist/6tfiFUwDGuZyGfI4iTyJiL) | [Chau, Bye](https://open.spotify.com/album/4s43PBRjE1avz28bIeOLL0) | 2:24 | 2023-03-10 |  |
 | [CHIN CHIN](https://open.spotify.com/track/20rMomDU9dk6QDRKCYKrzh) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [CHIN CHIN](https://open.spotify.com/album/3Fx7xYB3rpSfnvSSZNYmyx) | 2:58 | 2022-11-18 |  |
 | [CLASS \#02: DT.Bilardo](https://open.spotify.com/track/4HV2sYJyHhhm3ekf4EEewk) | [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [CLASS \#02: DT.Bilardo](https://open.spotify.com/album/35Gj65krTFwrrU5ZgNQFZo) | 2:31 | 2023-03-03 |  |
@@ -139,6 +139,7 @@
 | [Quiero](https://open.spotify.com/track/7MPxWi6W7VH5DNusjwNhbn) | [Alejo Park](https://open.spotify.com/artist/0u4eSD22YhmWJMg1A22GBw) | [Quiero](https://open.spotify.com/album/14Bt8cXWLWmEaqIUDtdCze) | 2:46 | 2022-05-24 | 2023-01-21 |
 | [Quiero Creer](https://open.spotify.com/track/1GCzWOrIPoiDsQm8ZSm5fn) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2) | [Quiero Creer](https://open.spotify.com/album/3TmE8T4b0cPM8UATP8mhaJ) | 2:38 | 2022-05-24 | 2023-01-10 |
 | [Qué Más Pues?](https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Qué Más Pues?](https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK) | 3:37 | 2022-05-24 |  |
+| [REBOTA](https://open.spotify.com/track/1YFVWYOb38ypAtMmS2eWBD) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF) | [REBOTA](https://open.spotify.com/album/4FGAnci4lOvthTNL7KUSLV) | 2:29 | 2023-04-24 |  |
 | [Reggaeton De Antes](https://open.spotify.com/track/26HYJHovouecNw9bdzri3R) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Reggaeton De Antes](https://open.spotify.com/album/6MgfE6e3zmpX3KaRLM7mz4) | 2:30 | 2022-05-24 |  |
 | [Reggaeton Sessions \#3](https://open.spotify.com/track/4u6zSS8VVCMXwVlwKPZUa6) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Reggaeton Sessions \#3](https://open.spotify.com/album/22Mpk6BWGwXVaumykB4o1N) | 2:45 | 2022-05-24 | 2023-03-03 |
 | [Retroceso](https://open.spotify.com/track/2hyXTZjAwLg36Stq3op9vV) | [S\-Roneo](https://open.spotify.com/artist/0HUZSrM12BQcOqwdDXdYml), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Retroceso](https://open.spotify.com/album/3xm2Y5ruY0vVq41UEBbjRZ) | 3:14 | 2022-07-28 | 2022-08-27 |
@@ -182,6 +183,7 @@
 | [YIN YAN](https://open.spotify.com/track/6KGGhJoXrztLp8ZT91zizs) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 3:09 | 2022-05-24 |  |
 | [YO SE QUE TU \(feat\. Rusherking\)](https://open.spotify.com/track/4M4DTyLupKvbJKlE4I4EYq) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [YO SE QUE TU \(feat\. Rusherking\)](https://open.spotify.com/album/48FoiMxQVsy2fwZlDobT7y) | 3:13 | 2022-05-24 |  |
 | [Yo Ya No](https://open.spotify.com/track/7MRcgzjHn9S2QSub2W4eED) | [OKY](https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU), [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7), [Hot Plug Beats](https://open.spotify.com/artist/1fXCGECRsxOUDi7tj3hifF) | [Yo Ya No](https://open.spotify.com/album/5yU2AfvdBBZ56eq2pYoz1N) | 2:56 | 2022-05-24 |  |
+| [YORY NO](https://open.spotify.com/track/1c9L6leiHbN872OzgXLpSq) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Directo al Cora](https://open.spotify.com/album/5WwLBuJddCTKWReuK0vg81) | 2:17 | 2023-04-24 |  |
 | [Ñeri](https://open.spotify.com/track/6Cgj3VVfcYJN9vZbMVcKRd) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC) | 3:14 | 2022-05-24 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

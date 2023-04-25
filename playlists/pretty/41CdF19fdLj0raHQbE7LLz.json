@@ -6,7 +6,7 @@
     "name": "spektrelive",
     "url": "https://open.spotify.com/user/spektrelive"
   },
-  "snapshot_id": "MTcwOSw0YWY1ZmQxNDI2MTY1MDdkMTBlM2ZhYjBmZjBkZTExNWVhNDZkNWM2",
+  "snapshot_id": "MTcxMSw0OTE0Njc5Nzc4YzQyNzEzMDFjM2JkMDdhODVlODYzNTA0M2RlZWE5",
   "tracks": [
     {
       "added_at": "2023-03-31 18:59:07",
@@ -103,6 +103,22 @@
       "duration_ms": 341584,
       "name": "NRG",
       "url": "https://open.spotify.com/track/3pshVKwau2AsyR0y1vcFfO"
+    },
+    {
+      "added_at": "2023-04-24 15:48:28",
+      "album": {
+        "name": "Rave Classics",
+        "url": "https://open.spotify.com/album/5RxPozvp4dooX36BFRIUMT"
+      },
+      "artists": [
+        {
+          "name": "Mory Kant\u00e9",
+          "url": "https://open.spotify.com/artist/0roLSs1WqlurDniSZ1pttN"
+        }
+      ],
+      "duration_ms": 236963,
+      "name": "Yeke Yeke - Hardfloor Edit",
+      "url": "https://open.spotify.com/track/3P2CTYznZuBgFHCPXqISDG"
     },
     {
       "added_at": "2023-04-23 16:37:36",

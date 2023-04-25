@@ -38979,6 +38979,32 @@
     },
     {
       "album": {
+        "name": "Warm Soul",
+        "url": "https://open.spotify.com/album/6lCFLF6FodPH1djrADW6ED"
+      },
+      "artists": [
+        {
+          "name": "Atamatoki",
+          "url": "https://open.spotify.com/artist/2BzNGTZcU0rrEmwevE6FFM"
+        },
+        {
+          "name": "Eugene",
+          "url": "https://open.spotify.com/artist/3x3xKaexL2yN0OoGDrLHxR"
+        },
+        {
+          "name": "New Peace Music",
+          "url": "https://open.spotify.com/artist/6xzCXXU145WI6ymKsNTRLy"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141573,
+      "name": "Warm Soul",
+      "url": "https://open.spotify.com/track/66wswCojBn33ZKM7bFmg4E"
+    },
+    {
+      "album": {
         "name": "Wasted Feelings",
         "url": "https://open.spotify.com/album/7j6RLPV17rFRZDO8R7FKZu"
       },

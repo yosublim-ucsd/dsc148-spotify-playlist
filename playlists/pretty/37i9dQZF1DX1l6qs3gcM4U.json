@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Badoxa.  ",
-  "num_followers": 163778,
+  "num_followers": 163870,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyNjgwMCwwMDAwMDAwMGQ3NmRiMzE5ZDBmYmM0MTY2NDhjNWFhYTcwMWQ1ZjJh",
+  "snapshot_id": "MTY4MTQyNjgwMCwwMDAwMDAwMDQyMWU4OWIyNjNjOGZjNDc1NTdjNGFiY2VlMDg2MDZj",
   "tracks": [
     {
       "added_at": "2023-04-13 23:00:00",
@@ -367,18 +367,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "A.N.V.",
-        "url": "https://open.spotify.com/album/1KTc7vWWo2P6XMlEwAmd7N"
+        "name": "Bela",
+        "url": "https://open.spotify.com/album/6wYlnMmxyiCqrQqiW2fDtA"
       },
       "artists": [
         {
-          "name": "Calema",
-          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
         }
       ],
-      "duration_ms": 217853,
-      "name": "A Nossa Vez",
-      "url": "https://open.spotify.com/track/5o9k5OSBM4sAY2bMekl8a8"
+      "duration_ms": 238790,
+      "name": "Bela",
+      "url": "https://open.spotify.com/track/03iBdmxAQ20A3SeIBazzjS"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "A.N.V.",
+        "url": "https://open.spotify.com/album/1KTc7vWWo2P6XMlEwAmd7N"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        }
+      ],
+      "duration_ms": 217853,
+      "name": "A Nossa Vez",
+      "url": "https://open.spotify.com/track/5o9k5OSBM4sAY2bMekl8a8"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "365",
         "url": "https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT"
       },
@@ -479,26 +495,6 @@
       "duration_ms": 219712,
       "name": "365",
       "url": "https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Trompete",
-        "url": "https://open.spotify.com/album/6xGbYgroEdQLyEMdSeQqeS"
-      },
-      "artists": [
-        {
-          "name": "Soraia Ramos",
-          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
-        },
-        {
-          "name": "Nenny",
-          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
-        }
-      ],
-      "duration_ms": 257137,
-      "name": "Trompete",
-      "url": "https://open.spotify.com/track/2PEIsEdhCs1ykvN9tY6erM"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -519,22 +515,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Tudo por Amor",
-        "url": "https://open.spotify.com/album/0L7a3qE6SVlrzHpfZiD7Fa"
+        "name": "Trompete",
+        "url": "https://open.spotify.com/album/6xGbYgroEdQLyEMdSeQqeS"
       },
       "artists": [
         {
-          "name": "Calema",
-          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
         },
         {
-          "name": "Kataleya",
-          "url": "https://open.spotify.com/artist/17ABH2YXJGKpvpoqeeQLSP"
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
         }
       ],
-      "duration_ms": 206290,
-      "name": "Tudo por Amor",
-      "url": "https://open.spotify.com/track/7LtfpklIMpsU0tWw0EbIOl"
+      "duration_ms": 257137,
+      "name": "Trompete",
+      "url": "https://open.spotify.com/track/2PEIsEdhCs1ykvN9tY6erM"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -591,6 +587,46 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "Tudo por Amor",
+        "url": "https://open.spotify.com/album/0L7a3qE6SVlrzHpfZiD7Fa"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        },
+        {
+          "name": "Kataleya",
+          "url": "https://open.spotify.com/artist/17ABH2YXJGKpvpoqeeQLSP"
+        }
+      ],
+      "duration_ms": 206290,
+      "name": "Tudo por Amor",
+      "url": "https://open.spotify.com/track/7LtfpklIMpsU0tWw0EbIOl"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Mininu Di Oru",
+        "url": "https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu"
+      },
+      "artists": [
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        },
+        {
+          "name": "SYRO",
+          "url": "https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x"
+        }
+      ],
+      "duration_ms": 205996,
+      "name": "Tempestade",
+      "url": "https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "RED",
         "url": "https://open.spotify.com/album/5wNjW2Z5HwxBy8ljV6BKff"
       },
@@ -615,22 +651,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Bela",
-        "url": "https://open.spotify.com/album/6wYlnMmxyiCqrQqiW2fDtA"
-      },
-      "artists": [
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 238790,
-      "name": "Bela",
-      "url": "https://open.spotify.com/track/03iBdmxAQ20A3SeIBazzjS"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Mais Nada",
         "url": "https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT"
       },
@@ -643,22 +663,6 @@
       "duration_ms": 176770,
       "name": "Mais Nada",
       "url": "https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Nha Mos",
-        "url": "https://open.spotify.com/album/4YsmkX7Bv5xoCcGYQEKxa0"
-      },
-      "artists": [
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 196923,
-      "name": "Nha Mos",
-      "url": "https://open.spotify.com/track/0qD5EcVudLAqPhJfnkdA3m"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -679,6 +683,22 @@
       "duration_ms": 243750,
       "name": "Clima",
       "url": "https://open.spotify.com/track/2ma0izMC7acJputUXY0Q7J"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Nha Mos",
+        "url": "https://open.spotify.com/album/4YsmkX7Bv5xoCcGYQEKxa0"
+      },
+      "artists": [
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 196923,
+      "name": "Nha Mos",
+      "url": "https://open.spotify.com/track/0qD5EcVudLAqPhJfnkdA3m"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -735,6 +755,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "Jeito Dela",
+        "url": "https://open.spotify.com/album/1mGf42MV0CF54Jq8Ran4x1"
+      },
+      "artists": [
+        {
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Jeito Dela",
+      "url": "https://open.spotify.com/track/2KlwnCnbMC5s5CGu95vNgK"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Nossas Coisas (feat. Ary)",
         "url": "https://open.spotify.com/album/3VRpKagyNwZ57LGI4otjpw"
       },
@@ -755,38 +791,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Jeito Dela",
-        "url": "https://open.spotify.com/album/1mGf42MV0CF54Jq8Ran4x1"
+        "name": "Menina Mulher",
+        "url": "https://open.spotify.com/album/6rq8aWZ8RXvsoKYd86nZBm"
       },
       "artists": [
         {
-          "name": "Landrick",
-          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+          "name": "Liriany",
+          "url": "https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Jeito Dela",
-      "url": "https://open.spotify.com/track/2KlwnCnbMC5s5CGu95vNgK"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Mininu Di Oru",
-        "url": "https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu"
-      },
-      "artists": [
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        },
-        {
-          "name": "SYRO",
-          "url": "https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x"
-        }
-      ],
-      "duration_ms": 205996,
-      "name": "Tempestade",
-      "url": "https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2"
+      "duration_ms": 201253,
+      "name": "Fa\u00e7o Como",
+      "url": "https://open.spotify.com/track/78Eqonqp6yxXuYQtnffk0W"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -803,22 +819,6 @@
       "duration_ms": 221462,
       "name": "Vais Me Perder",
       "url": "https://open.spotify.com/track/2F8dfybJCRcTL3fSMMm7o4"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Menina Mulher",
-        "url": "https://open.spotify.com/album/6rq8aWZ8RXvsoKYd86nZBm"
-      },
-      "artists": [
-        {
-          "name": "Liriany",
-          "url": "https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd"
-        }
-      ],
-      "duration_ms": 201253,
-      "name": "Fa\u00e7o Como",
-      "url": "https://open.spotify.com/track/78Eqonqp6yxXuYQtnffk0W"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Segredo",
-        "url": "https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi"
-      },
-      "artists": [
-        {
-          "name": "Edm\u00e1zia Mayembe",
-          "url": "https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs"
-        }
-      ],
-      "duration_ms": 207640,
-      "name": "Segredo",
-      "url": "https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Ref\u00fagio",
         "url": "https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 237570,
       "name": "Ref\u00fagio",
       "url": "https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Segredo",
+        "url": "https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi"
+      },
+      "artists": [
+        {
+          "name": "Edm\u00e1zia Mayembe",
+          "url": "https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs"
+        }
+      ],
+      "duration_ms": 207640,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1075,22 +1075,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Esperei por Ti",
-        "url": "https://open.spotify.com/album/7xl0YtWJshZRPKBrtWDINn"
+        "name": "Tellin Me Something",
+        "url": "https://open.spotify.com/album/4pqUdkYZOgXe1WfETwoIVI"
       },
       "artists": [
         {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
         },
         {
-          "name": "Kiari Flores",
-          "url": "https://open.spotify.com/artist/44m8I1XmfEB4P6GeXqPq06"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 199037,
-      "name": "Esperei por Ti",
-      "url": "https://open.spotify.com/track/56JfvUwX7byrAiyteTG70P"
+      "duration_ms": 167875,
+      "name": "Tellin Me Something",
+      "url": "https://open.spotify.com/track/25NM2Mrlz8NTm82HIOzeck"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1111,22 +1111,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Tellin Me Something",
-        "url": "https://open.spotify.com/album/4pqUdkYZOgXe1WfETwoIVI"
+        "name": "Esperei por Ti",
+        "url": "https://open.spotify.com/album/7xl0YtWJshZRPKBrtWDINn"
       },
       "artists": [
         {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
         },
         {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+          "name": "Kiari Flores",
+          "url": "https://open.spotify.com/artist/44m8I1XmfEB4P6GeXqPq06"
         }
       ],
-      "duration_ms": 167875,
-      "name": "Tellin Me Something",
-      "url": "https://open.spotify.com/track/25NM2Mrlz8NTm82HIOzeck"
+      "duration_ms": 199037,
+      "name": "Esperei por Ti",
+      "url": "https://open.spotify.com/track/56JfvUwX7byrAiyteTG70P"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1155,6 +1155,22 @@
       "duration_ms": 237341,
       "name": "Viagem",
       "url": "https://open.spotify.com/track/6IhsfuAwE81uKkeJnzAW2a"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Menino Veneno",
+        "url": "https://open.spotify.com/album/0jDx4qEfq1x82ASZnyLW4k"
+      },
+      "artists": [
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 193462,
+      "name": "Menino Veneno",
+      "url": "https://open.spotify.com/track/3OOWGAABy0Yj2U0Muw8JoN"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1215,22 +1231,6 @@
       "duration_ms": 226626,
       "name": "Nha Rainha (feat. Dino D'Santiago)",
       "url": "https://open.spotify.com/track/2eWly1qDvIMnrV91WGvAzX"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Menino Veneno",
-        "url": "https://open.spotify.com/album/0jDx4qEfq1x82ASZnyLW4k"
-      },
-      "artists": [
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 193462,
-      "name": "Menino Veneno",
-      "url": "https://open.spotify.com/track/3OOWGAABy0Yj2U0Muw8JoN"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1323,6 +1323,30 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "Preparado",
+        "url": "https://open.spotify.com/album/4uEuKm5UyPuHd5zoLHIapf"
+      },
+      "artists": [
+        {
+          "name": "Rapaz 100 Juiz",
+          "url": "https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5"
+        },
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        },
+        {
+          "name": "Klasszik",
+          "url": "https://open.spotify.com/artist/4eHjLzgTRHd3OOmNaMkBRD"
+        }
+      ],
+      "duration_ms": 279299,
+      "name": "Preparado",
+      "url": "https://open.spotify.com/track/2CV9x25ByU2nmmeHSSn4NX"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "J\u00e1 N\u00e3o Sei",
         "url": "https://open.spotify.com/album/5vPwS60vaPLCjp3L58jluO"
       },
@@ -1363,26 +1387,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Vis\u00e3o",
-        "url": "https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d"
-      },
-      "artists": [
-        {
-          "name": "Mika Mendes",
-          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
-        },
-        {
-          "name": "Cl\u00e1udio Ismael",
-          "url": "https://open.spotify.com/artist/5EoiaFh1ngnwqgcptsXRTo"
-        }
-      ],
-      "duration_ms": 214353,
-      "name": "Apaixonado",
-      "url": "https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Me Leva Contigo",
         "url": "https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM"
       },
@@ -1415,26 +1419,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Preparado",
-        "url": "https://open.spotify.com/album/4uEuKm5UyPuHd5zoLHIapf"
+        "name": "Vis\u00e3o",
+        "url": "https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d"
       },
       "artists": [
         {
-          "name": "Rapaz 100 Juiz",
-          "url": "https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5"
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
         },
         {
-          "name": "Calema",
-          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
-        },
-        {
-          "name": "Klasszik",
-          "url": "https://open.spotify.com/artist/4eHjLzgTRHd3OOmNaMkBRD"
+          "name": "Cl\u00e1udio Ismael",
+          "url": "https://open.spotify.com/artist/5EoiaFh1ngnwqgcptsXRTo"
         }
       ],
-      "duration_ms": 279299,
-      "name": "Preparado",
-      "url": "https://open.spotify.com/track/2CV9x25ByU2nmmeHSSn4NX"
+      "duration_ms": 214353,
+      "name": "Apaixonado",
+      "url": "https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1499,18 +1499,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Mika Mendes",
-        "url": "https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q"
+        "name": "Sempre Sonhei (feat. Yasmine)",
+        "url": "https://open.spotify.com/album/28CIGKGLowlhWdHy7G8IHO"
       },
       "artists": [
         {
-          "name": "Mika Mendes",
-          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        },
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
         }
       ],
-      "duration_ms": 283973,
-      "name": "Criola",
-      "url": "https://open.spotify.com/track/2Huk69nfKmAqeN4m2S7Ybj"
+      "duration_ms": 239189,
+      "name": "Sempre Sonhei (feat. Yasmine)",
+      "url": "https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet"
     }
   ],
   "unique_name": "Dancing Kizomba",

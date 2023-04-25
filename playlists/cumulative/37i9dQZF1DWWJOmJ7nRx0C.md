@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Spiritbox
 
-753 songs - 1 day 21 hr 9 min
+754 songs - 1 day 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,7 +342,8 @@
 | [IN THREES](https://open.spotify.com/track/1TIBjAmf6B2K0xfcb7ja7r) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y), [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k), [JordyPurp](https://open.spotify.com/artist/7uEPTaEXCsV396Tt2OalLy) | [IN THREES](https://open.spotify.com/album/7eCCtzR9Vx8Rupmlo1O8eA) | 3:05 | 2021-12-10 | 2022-10-29 |
 | [Indestructible](https://open.spotify.com/track/6BYZGyIwoHBy8i4zcS2ABM) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Indestructible](https://open.spotify.com/album/7Cs1UNk3IVQeCHjNXkSeJQ) | 3:21 | 2021-06-11 | 2022-06-25 |
 | [Is It Really You?](https://open.spotify.com/track/4ndmsvcCgLZH2hZwVw8cuJ) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd), [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Is It Really You?](https://open.spotify.com/album/3ECdQKxcDWZGwN4dSBVdoH) | 4:42 | 2022-07-22 | 2022-09-24 |
-| [It Hurts](https://open.spotify.com/track/4pQmwpx6EUeoBJRMUKooMs) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [It Hurts](https://open.spotify.com/album/0UztMLoY6Ebqv9rCmZwghR) | 3:18 | 2023-02-10 |  |
+| [It Hurts](https://open.spotify.com/track/04Z1dVhKypUiZQdMJZsC2r) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [A Kiss for the Whole World](https://open.spotify.com/album/5bTSXCOLlIH6gsOvuI3PCI) | 3:18 | 2023-04-21 |  |
+| [It Hurts](https://open.spotify.com/track/4pQmwpx6EUeoBJRMUKooMs) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [It Hurts](https://open.spotify.com/album/0UztMLoY6Ebqv9rCmZwghR) | 3:18 | 2023-02-10 | 2023-04-25 |
 | [It's Hell Down Here](https://open.spotify.com/track/0chASbpWKoTnrXDoPyNSyH) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [It's Hell Down Here](https://open.spotify.com/album/2nyvCfPmmT3u7fbF4Hno4a) | 4:00 | 2023-03-24 |  |
 | [It's Over](https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [It's Over](https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9) | 3:23 | 2021-11-19 | 2022-02-26 |
 | [JACK](https://open.spotify.com/track/189D3XLBjj2YTCTD6QKdJY) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [JACK](https://open.spotify.com/album/46dR56iHGOs4sN5CAOfZnc) | 2:48 | 2022-09-30 |  |

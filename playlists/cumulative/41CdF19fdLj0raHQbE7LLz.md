@@ -4,7 +4,7 @@
 
 > &\#x27;Spektre&\#x27;s Selection&\#x27; is a weekly updated playlist of the freshest techno straight from their crate! Get following! \#respekt
 
-128 songs - 11 hr 37 min
+129 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Vorago](https://open.spotify.com/track/5uz4xzy92giVHfMgRlzAhU) | [Skober](https://open.spotify.com/artist/4QJx1t358F7E4O1lZ8g0B2) | [Vorago](https://open.spotify.com/album/0d4cYcfOcRg8U0yrwSElmM) | 4:41 | 2022-02-03 | 2023-04-24 |
 | [Wake Up](https://open.spotify.com/track/3muMXKLJO1BYQT99CTCNRd) | [Luca Agnelli](https://open.spotify.com/artist/4gF60Mys5KoWdQrf0bhRWq) | [Thermionic](https://open.spotify.com/album/6RgihmlSG1y8yw47F491d4) | 6:28 | 2022-04-18 |  |
 | [What's That Called?](https://open.spotify.com/track/7wkXDxQyx86qpvpxD6GZH5) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Pura Vida](https://open.spotify.com/album/6kZN30YG45TPTCe9IVt95T) | 4:17 | 2022-11-25 | 2023-04-24 |
+| [Yeke Yeke \- Hardfloor Edit](https://open.spotify.com/track/3P2CTYznZuBgFHCPXqISDG) | [Mory Kanté](https://open.spotify.com/artist/0roLSs1WqlurDniSZ1pttN) | [Rave Classics](https://open.spotify.com/album/5RxPozvp4dooX36BFRIUMT) | 3:56 | 2023-04-24 |  |
 | [You Are Mine \- Original Mix](https://open.spotify.com/track/3P1U26uNScZlDt2QD02YS5) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [You Are Mine EP](https://open.spotify.com/album/7FpzZ4YR2MyNwcN8uQYaX8) | 6:54 | 2022-11-25 | 2023-04-24 |
 
 \*This playlist was first scraped on 2023-02-19. Prior content cannot be recovered.

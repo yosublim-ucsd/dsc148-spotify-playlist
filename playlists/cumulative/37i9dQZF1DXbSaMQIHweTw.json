@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/07qSl2sNpFNILaYyZ6yIS9"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 196000,
       "name": "Aaina",
       "url": "https://open.spotify.com/track/7rMJ1krFie8nKq5cWUAQsx"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 164117,
       "name": "Aasman",
       "url": "https://open.spotify.com/track/2yjTCFakcjqnglgYKUIg59"
@@ -158,7 +158,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 254800,
       "name": "AS-SALAM WALEKUM",
       "url": "https://open.spotify.com/track/58mMBQGiA8I8ROLvIFZxB2"
@@ -228,7 +228,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 163200,
       "name": "Baby",
       "url": "https://open.spotify.com/track/2XjiyyNS20muEJRYbZRvf5"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 222370,
       "name": "Bach Ke Rehna (Red Notice)",
       "url": "https://open.spotify.com/track/7fCbbPG8ClYyzKWy53N2jJ"
@@ -280,10 +280,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 177461,
       "name": "Bag",
       "url": "https://open.spotify.com/track/4SS6PZv1H4mDQbTufpBWnK"
+    },
+    {
+      "album": {
+        "name": "Insaan",
+        "url": "https://open.spotify.com/album/5Xrj5h7GQkxcjXRWJAtNvF"
+      },
+      "artists": [
+        {
+          "name": "MC STAN",
+          "url": "https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "Basti Ka Hasti",
+      "url": "https://open.spotify.com/track/3k9PtGmPNnQtt32TKWm6f3"
     },
     {
       "album": {
@@ -305,6 +323,28 @@
     },
     {
       "album": {
+        "name": "Gunehgar",
+        "url": "https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs"
+      },
+      "artists": [
+        {
+          "name": "DIVINE",
+          "url": "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz"
+        },
+        {
+          "name": "Noizy",
+          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164705,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/7J0CxEcl1dUxX9IG6R5Xfb"
+    },
+    {
+      "album": {
         "name": "Blew up",
         "url": "https://open.spotify.com/album/5yyAPCWjdJmJxI3HVLbPdb"
       },
@@ -320,7 +360,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 185142,
       "name": "Blew up",
       "url": "https://open.spotify.com/track/3QP9yuBbDgy9tmTeG6aIaz"
@@ -342,7 +382,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 216431,
       "name": "Bol Bala",
       "url": "https://open.spotify.com/track/7FgTOompOyqXdjsKwkg9ol"
@@ -382,7 +422,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 243297,
       "name": "Bombay to Punjab",
       "url": "https://open.spotify.com/track/1xoQjCAP6a63tZXbsMziXk"
@@ -404,7 +444,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 183230,
       "name": "Bura / Bhala",
       "url": "https://open.spotify.com/track/38RAyq4LnGYflc2W7hXuGa"
@@ -426,7 +466,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 145909,
       "name": "BUSY",
       "url": "https://open.spotify.com/track/0PqxE7K26EXJY2acigxI6b"
@@ -444,7 +484,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 174000,
       "name": "Chal Bombay",
       "url": "https://open.spotify.com/track/6AooRgSRDzbCYL4NZ4RCjU"
@@ -484,10 +524,46 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 145000,
       "name": "Charge",
       "url": "https://open.spotify.com/track/70LW2CyLJThnUT3FOrxb6b"
+    },
+    {
+      "album": {
+        "name": "Chhod Dala",
+        "url": "https://open.spotify.com/album/4so9xrFmNkNW58CfxtjkbT"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236551,
+      "name": "Chhod Dala",
+      "url": "https://open.spotify.com/track/5jv5MBWejIF8DX9huv5tKv"
+    },
+    {
+      "album": {
+        "name": "Apocalypse",
+        "url": "https://open.spotify.com/album/5s9DfBDESB5DWNXPbQBKwB"
+      },
+      "artists": [
+        {
+          "name": "Naezy",
+          "url": "https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135026,
+      "name": "Choke Slam",
+      "url": "https://open.spotify.com/track/49ci49d2SaiwpcvZVMfbnM"
     },
     {
       "album": {
@@ -520,7 +596,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 154708,
       "name": "Dekh Toofaan Aaya Hai",
       "url": "https://open.spotify.com/track/7DKPIbriIj7bUeM9pUv4Js"
@@ -538,7 +614,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 148010,
       "name": "Dhokebaaz",
       "url": "https://open.spotify.com/track/1TfC7wJxP6NWn8HBBhMQD5"
@@ -600,7 +676,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 148333,
       "name": "Drill",
       "url": "https://open.spotify.com/track/4tCrnq1KgZy1nGch1wP5aY"
@@ -662,7 +738,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 166304,
       "name": "Ghost Rider",
       "url": "https://open.spotify.com/track/1uu8WLy7yw6kG6SwwpluuJ"
@@ -734,7 +810,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 236250,
       "name": "Haalaat",
       "url": "https://open.spotify.com/track/78mlRr3vhLikHTWNkPhlOf"
@@ -752,7 +828,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 184000,
       "name": "Heal",
       "url": "https://open.spotify.com/track/63fTryyhjbkCk8njSv4i18"
@@ -858,7 +934,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 143538,
       "name": "KAHA PAR HUN",
       "url": "https://open.spotify.com/track/2IQ9BhK3MTBlt22BmK71gH"
@@ -894,7 +970,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 137517,
       "name": "KHNH",
       "url": "https://open.spotify.com/track/1KZlhXZE6gWwJCmTuzSHKi"
@@ -974,7 +1050,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 65324,
       "name": "Kuch Karne Ka",
       "url": "https://open.spotify.com/track/4HisNsjVpJvU7ozK5UaF55"
@@ -992,7 +1068,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 245333,
       "name": "Kya Bataye",
       "url": "https://open.spotify.com/track/1Udjeeqkhb19f7sjvxq9xq"
@@ -1044,7 +1120,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 176250,
       "name": "LA to Bombay",
       "url": "https://open.spotify.com/track/4dLvGPxXlDi9YdwIH11WOq"
@@ -1110,7 +1186,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 214000,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/1LYB3WsXbT6pYrlEyFEQ0d"
@@ -1132,7 +1208,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 195128,
       "name": "Maante Naahi Haar",
       "url": "https://open.spotify.com/track/6vXNKXDTkT2QDf6RtJqmWL"
@@ -1168,7 +1244,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 272666,
       "name": "Mazze Me",
       "url": "https://open.spotify.com/track/3K08GyP1TOm2Cl8uiXdKEJ"
@@ -1204,7 +1280,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 182774,
       "name": "Mera Bhai",
       "url": "https://open.spotify.com/track/5g7GYTSDalAE8fBlL9cFkx"
@@ -1222,7 +1298,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 216666,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/79XWR48r2oeTj7SW8zvewN"
@@ -1252,7 +1328,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 192923,
       "name": "Mirchi",
       "url": "https://open.spotify.com/track/5KkCsYIgMK5H7Ih31Dnd2Q"
@@ -1270,7 +1346,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 194000,
       "name": "Mohabbat",
       "url": "https://open.spotify.com/track/2cbTH0FqDD2wv9KBXuWjme"
@@ -1292,7 +1368,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 232173,
       "name": "Moosedrilla (feat. DIVINE)",
       "url": "https://open.spotify.com/track/67KTXqxMEyBMq3LApqCgNV"
@@ -1310,7 +1386,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 165428,
       "name": "Naina",
       "url": "https://open.spotify.com/track/0kdErH3y2RpZJXxsLmBWgf"
@@ -1332,7 +1408,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 205500,
       "name": "No Competition",
       "url": "https://open.spotify.com/track/1TRgZ55GFCKSbrTb62rmra"
@@ -1380,7 +1456,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 167075,
       "name": "Paani Mai",
       "url": "https://open.spotify.com/track/2uZIDDc5SNLX2Uz32eVGdk"
@@ -1398,7 +1474,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 200347,
       "name": "Pain",
       "url": "https://open.spotify.com/track/0nToyYtzT9TJz6vyGfbjjv"
@@ -1438,7 +1514,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 193819,
       "name": "Raja",
       "url": "https://open.spotify.com/track/2GJpC13em5XBfBqccu3MQ9"
@@ -1460,7 +1536,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 156840,
       "name": "Rani",
       "url": "https://open.spotify.com/track/0A1tdeFRZ25cExT67nsSvV"
@@ -1478,7 +1554,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 205101,
       "name": "Rap Rog",
       "url": "https://open.spotify.com/track/4QIFO2ve6CZmFACP0ekyoJ"
@@ -1500,7 +1576,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 264000,
       "name": "Ride Slow",
       "url": "https://open.spotify.com/track/3AcwYeqbN22Ko2xRJyMQJa"
@@ -1562,7 +1638,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 216013,
       "name": "Royal Rumble",
       "url": "https://open.spotify.com/track/5TfVd7uMROQYyh6ifcKWn3"
@@ -1762,7 +1838,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 179690,
       "name": "Sitara",
       "url": "https://open.spotify.com/track/3j796EeLMLBqwlzwufeS7c"
@@ -1788,7 +1864,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 190481,
       "name": "SOCH",
       "url": "https://open.spotify.com/track/6fexssu7i0gEbFcsm0U9ar"
@@ -1824,7 +1900,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 223333,
       "name": "That's How I Feel",
       "url": "https://open.spotify.com/track/6YO7q7qgFdDi4CtZq3vx5p"
@@ -1842,10 +1918,32 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 128996,
       "name": "Top 5 D.O.A.",
       "url": "https://open.spotify.com/track/6357zclmWj0t0ZQj7Uo7Zl"
+    },
+    {
+      "album": {
+        "name": "Gunehgar",
+        "url": "https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs"
+      },
+      "artists": [
+        {
+          "name": "DIVINE",
+          "url": "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz"
+        },
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211525,
+      "name": "Traffic Jam",
+      "url": "https://open.spotify.com/track/5TFA0lRV0EtscGYI1784PL"
     },
     {
       "album": {
@@ -1864,7 +1962,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 143729,
       "name": "TRIP MAT KAR",
       "url": "https://open.spotify.com/track/7Ak7f6GnTlpt49j3j67bxE"
@@ -1886,7 +1984,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 192000,
       "name": "Vichaar",
       "url": "https://open.spotify.com/track/4thERaKSQ1BY0TjEPdJbvw"
@@ -1908,7 +2006,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 177586,
       "name": "VN4 (GATI)",
       "url": "https://open.spotify.com/track/7Chg1YwWvwTDbz5NX6XoWU"

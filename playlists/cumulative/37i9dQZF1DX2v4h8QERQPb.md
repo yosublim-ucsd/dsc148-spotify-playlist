@@ -2,9 +2,9 @@
 
 ### [Hip Hop Argento](https://open.spotify.com/playlist/37i9dQZF1DX2v4h8QERQPb)
 
-> Rimas argentinas\. Foto: Homer El Mero Mero.
+> Rimas argentinas\. Foto: Dani Ribba.
 
-193 songs - 10 hr 0 min
+195 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Caro](https://open.spotify.com/track/0LkuHRZJxg8lDqOqeMgi7i) | [Lil Whigga](https://open.spotify.com/artist/3L0k0u2DYqjYtqQ4ErAeLX), [Eney](https://open.spotify.com/artist/0k5fct6YYlVUwSHkuxKvre) | [Caro](https://open.spotify.com/album/2terVtDIynq8ZwCpSZqWVa) | 2:45 | 2021-11-26 | 2022-02-19 |
 | [Con Billetes](https://open.spotify.com/track/4eOyMYj0HtblAavJTRtkUC) | [Dano](https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0), [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [El Hombre Hace Planes, Dios Se Ríe](https://open.spotify.com/album/0xEGQSfKAhZj1yAFj4JMYP) | 4:21 | 2023-01-27 |  |
 | [Conscientes](https://open.spotify.com/track/00A1QlPq8KGQbbs1KAP8tu) | [Deyco](https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp) | [Conscientes](https://open.spotify.com/album/39u6g3PwSWHbmkMK0qpW16) | 3:01 | 2023-04-07 |  |
+| [Crazy Love](https://open.spotify.com/track/6xYoGCKn0xphdwOixsrcIW) | [Fazzini](https://open.spotify.com/artist/0UgMoItq2HrVT6sRUF9ouY), [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [Puff Puff Pass Vol.4](https://open.spotify.com/album/4RQ2sG5vnqhp1suvtuhNbS) | 3:50 | 2023-04-24 |  |
 | [CRO \- VIAIPI ft\. FRANKY STYLE](https://open.spotify.com/track/08gHuPeFkw5nHo9xqUJHQe) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [VIAIPI](https://open.spotify.com/album/1HQzgHvV8wsWhI6LffYwL9) | 2:26 | 2021-11-26 | 2022-07-29 |
 | [Cual Hay](https://open.spotify.com/track/3rXGHdUlh8bvDMvkuI3qdB) | [Urbanse](https://open.spotify.com/artist/66X3l109SsMthurq0pHk3g), [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf), [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [Cual Hay](https://open.spotify.com/album/4Gq43yGuKPNHuxb3Dlx9E1) | 3:20 | 2021-11-26 | 2023-03-31 |
 | [Cuando Entramos en Accion](https://open.spotify.com/track/0vpD5g0XkGr2sVtEdiWv7S) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Cuando Entramos en Acción](https://open.spotify.com/album/75ook1RNQe3jC7Xq03GjdX) | 3:02 | 2022-06-10 |  |
@@ -111,6 +112,7 @@
 | [Keep It Burning](https://open.spotify.com/track/5xQQaQGcZ1TaYDfBcpzgGA) | [Sank](https://open.spotify.com/artist/32LjNiBb4gbeytSXy4hBGB) | [Keep It Burning](https://open.spotify.com/album/2IHLOsVlRRkFT1DlgOMjao) | 2:49 | 2021-11-26 | 2022-05-06 |
 | [Kiddo Toto: Bzrp Music Sessions, Vol\. 11](https://open.spotify.com/track/7jJV6hcqjD76gbu7TG67k8) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Kiddo Toto](https://open.spotify.com/artist/1Mj0XQhXbzIXfoWTN391N6) | [Kiddo Toto: Bzrp Music Sessions, Vol\. 11](https://open.spotify.com/album/3bk28Uv0aSRqgOWl8fpSFt) | 2:23 | 2021-11-26 | 2022-04-12 |
 | [KIEN?](https://open.spotify.com/track/5N3M8SHDVp7UHArixHePYG) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf) | [KIEN?](https://open.spotify.com/album/0L3ol5Eb22yOnObpbAmGrF) | 2:33 | 2021-11-26 |  |
+| [La Vibe](https://open.spotify.com/track/3YCMLVzfHHZIcuQTjoeVGg) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [La Vibe](https://open.spotify.com/album/1x2JTHTEXqF5XvadfXOujT) | 3:15 | 2023-04-24 |  |
 | [LLENO DE ZAFIROS](https://open.spotify.com/track/3HJ9wlvw5PcxTDEUSVcSxY) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:40 | 2021-11-26 |  |
 | [Lo Importante](https://open.spotify.com/track/4GRrsacA6p5AqwZMYwmjQS) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [No Name](https://open.spotify.com/artist/4D58BLqL09mSKPaQy2xAno), [Sonhorus](https://open.spotify.com/artist/5dDZwuxurOnCyKgxJmFGKB) | [Lo Importante](https://open.spotify.com/album/5iVQhgHm6DKSf9BTJnQIRg) | 3:05 | 2022-03-11 |  |
 | [Low La](https://open.spotify.com/track/7tWS3WOhV4OErtDDB7YE65) | [Rapstinencia](https://open.spotify.com/artist/7dAfBnC7ILLBR3eIWocI9c), [T&K](https://open.spotify.com/artist/2SMK4TrK8djKN6CuunZpcr), [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh), [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr) | [Low La](https://open.spotify.com/album/2YNDW8yGbk1ITM68xgLatS) | 4:02 | 2021-11-26 |  |

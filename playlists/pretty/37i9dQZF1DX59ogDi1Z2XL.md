@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Baka Not Nice
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,048 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,057 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 18 | [Almost Killed Me](https://open.spotify.com/track/6B0e2V1iqzhhEihJWtZIev) | [ShaqIsDope](https://open.spotify.com/artist/3Is1kGaN2jmS0hB1Hn6dp4) | [Almost Killed Me](https://open.spotify.com/album/1xrsHFd0en43PnV0vzE6Y1) | 4:13 |
 | 19 | [Moshpit X Difference \(Double Freestyle\)](https://open.spotify.com/track/2L5J7TTjkSCOjhAzhIh0HG) | [100 OTD](https://open.spotify.com/artist/5VBRo4Do6f7TDyC3MNmOLC) | [Moshpit X Difference \(Double Freestyle\)](https://open.spotify.com/album/4FKDEdzTWzQp6RuJkF5tdV) | 2:25 |
 | 20 | [Nicky Nine Door](https://open.spotify.com/track/0UMmJaSuRVNYlUv47XTZt8) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Nicky Nine Door](https://open.spotify.com/album/4xdOcLPursBFxoEArmUPPa) | 2:08 |
-| 21 | [Toronto](https://open.spotify.com/track/5MFqv1AH7qzncAeEJ9ZCeH) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5), [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Toronto](https://open.spotify.com/album/0y3xUMCymFZQDuFWPDa0Qm) | 3:07 |
+| 21 | [Toronto](https://open.spotify.com/track/5MFqv1AH7qzncAeEJ9ZCeH) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5), [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Toronto](https://open.spotify.com/album/0y3xUMCymFZQDuFWPDa0Qm) | 2:53 |
 | 22 | [White Flower](https://open.spotify.com/track/0E2IeoRCb8VUI0EwVTwPuk) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [White Flower](https://open.spotify.com/album/1PAaNuXyLW2OpoWOBhhwuW) | 2:24 |
 | 23 | [Yuteman Denis \(feat\. Charlotte Cardin & Zibz\)](https://open.spotify.com/track/6d76elW1vls3rILMOWy2Ck) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Zibz](https://open.spotify.com/artist/69tAQoVuRZlr1b7vQ4g81a) | [Yuteman Denis \(feat\. Charlotte Cardin & Zibz\)](https://open.spotify.com/album/1SC2PedTme7jVeIDvFJyZN) | 3:44 |
 | 24 | [Beat It](https://open.spotify.com/track/048f0MCTAJd5I0X7Xc4DSb) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Beat It](https://open.spotify.com/album/0BzqFoK5ppXpfZmGT6D5WR) | 2:04 |

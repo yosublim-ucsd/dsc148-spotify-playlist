@@ -2391,6 +2391,24 @@
     },
     {
       "album": {
+        "name": "Devil On My Shoulder",
+        "url": "https://open.spotify.com/album/5o8U32TnQPx5AczJqpVYhW"
+      },
+      "artists": [
+        {
+          "name": "Lost Stars",
+          "url": "https://open.spotify.com/artist/22LWBhZGE9ycuFtLV6jJYG"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180571,
+      "name": "Devil On My Shoulder",
+      "url": "https://open.spotify.com/track/7soY9QzpSB9vI1LKwVxDuY"
+    },
+    {
+      "album": {
         "name": "Die Right Here",
         "url": "https://open.spotify.com/album/5AYf4H1ZSeVznqc6nuPm89"
       },
@@ -2760,6 +2778,24 @@
       "duration_ms": 196800,
       "name": "Dumpster Fire",
       "url": "https://open.spotify.com/track/3x0TCFsVKE5utRnqYiG0c2"
+    },
+    {
+      "album": {
+        "name": "DYWTYLM",
+        "url": "https://open.spotify.com/album/0xLXYxkjjIPfVFhbPWvCwy"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240737,
+      "name": "DYWTYLM",
+      "url": "https://open.spotify.com/track/4hjJtKO5SdpfVRwP4FZeKI"
     },
     {
       "album": {
@@ -4910,7 +4946,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 206904,
       "name": "I Wanna Live Forever",
       "url": "https://open.spotify.com/track/759ptp5ik4aLVCMnrQmUKg"
@@ -5242,7 +5278,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 206000,
       "name": "In The Night",
       "url": "https://open.spotify.com/track/30Lcy59RiXJKMVVkwhfdle"
@@ -5260,7 +5296,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 163738,
       "name": "Infinitely Falling",
       "url": "https://open.spotify.com/track/7KWf7gZ05NciRE6SXZveds"
@@ -6706,7 +6742,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 179160,
       "name": "miss misery",
       "url": "https://open.spotify.com/track/3Bey9kH0UEORyDMxT7Oph8"

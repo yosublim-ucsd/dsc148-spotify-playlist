@@ -1441,6 +1441,32 @@
     },
     {
       "album": {
+        "name": "Lucid Dreams",
+        "url": "https://open.spotify.com/album/03JN1ysP3CAn4xVOs5xVMM"
+      },
+      "artists": [
+        {
+          "name": "MELON",
+          "url": "https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB"
+        },
+        {
+          "name": "Thyron",
+          "url": "https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM"
+        },
+        {
+          "name": "Hardstyle Fruits Music",
+          "url": "https://open.spotify.com/artist/5EkNG5Mzk2KopyyxAdNHJ8"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218709,
+      "name": "Lucid Dreams",
+      "url": "https://open.spotify.com/track/78t8EH1uYaa0uGY2aih0RI"
+    },
+    {
+      "album": {
         "name": "Make Some Noise",
         "url": "https://open.spotify.com/album/4c1QAsOQnZBVFuthKRbkN3"
       },
@@ -2346,7 +2372,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 188800,
       "name": "Turn The Tide Revisited",
       "url": "https://open.spotify.com/track/6HZMjW77EJTRimMarTJVnh"

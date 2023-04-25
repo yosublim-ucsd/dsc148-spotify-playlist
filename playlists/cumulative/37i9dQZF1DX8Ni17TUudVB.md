@@ -4,7 +4,7 @@
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-197 songs - 10 hr 24 min
+198 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Getaway \(Jaxomy Remix\)](https://open.spotify.com/track/75awRswVFJGlDwUHbpPY4S) | [Henri Purnell](https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr), [Goldbird](https://open.spotify.com/artist/7bULzWHUuhNDPOrfv30dSq), [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq) | [Getaway \(Remixes\)](https://open.spotify.com/album/05opsujEmxw6RAUbcVMUS9) | 2:14 | 2022-01-04 | 2022-04-21 |
 | [Give Me Your Heart \(Somos Uno\)](https://open.spotify.com/track/6oQvB3BxlETB0CfrT5Vq6N) | [Sisster](https://open.spotify.com/artist/6d7Gn9vZrwwN9gBnKHzdzF) | [Give Me Your Heart \(Somos Uno\)](https://open.spotify.com/album/3WeALlWSg6bZdEcHIXdMto) | 3:29 | 2022-01-04 | 2022-07-29 |
 | [Great Spirit](https://open.spotify.com/track/6FzjJPwf5JzzFOei7h6Qrp) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Hilight Tribe](https://open.spotify.com/artist/62RdOEwjfXjFOQpKdufMR7) | [The Best Of Armin Only](https://open.spotify.com/album/1WEVdCa5YAK8tep9xOs2hS) | 3:35 | 2022-01-04 |  |
-| [Hagüe](https://open.spotify.com/track/0lpy5ODb3Hk08nGa5izWb6) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Hagüe](https://open.spotify.com/album/0fdy6q55zq1iYKuMkuCJfH) | 2:57 | 2022-07-26 |  |
+| [Hagüe](https://open.spotify.com/track/0lpy5ODb3Hk08nGa5izWb6) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Hagüe](https://open.spotify.com/album/0fdy6q55zq1iYKuMkuCJfH) | 2:57 | 2022-07-26 | 2023-04-25 |
 | [Heads Will Roll \- A\-Trak Remix Radio Edit](https://open.spotify.com/track/5qGIfWDRdyO67LCTqA2sEn) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Good Morning Music: Wake Up Workout](https://open.spotify.com/album/3MWSY8N1zWSNBcnMTIeiTz) | 3:23 | 2022-03-29 |  |
 | [Her Eyes](https://open.spotify.com/track/2ctGtsdiXv8cAlc68uaJtt) | [Mark Cast](https://open.spotify.com/artist/7o1RnLhpTffmSY3znC9WJ1) | [Her Eyes](https://open.spotify.com/album/0593El2YCvlwtY45DQBZUR) | 2:40 | 2022-01-04 | 2022-07-29 |
 | [Hope](https://open.spotify.com/track/1snVDHFEd5TRotuG50XEA7) | [The Wookies](https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a) | [Hope](https://open.spotify.com/album/6XBVCE1npwSYFCVfjdrwzK) | 3:21 | 2022-01-04 | 2022-07-29 |
@@ -122,6 +122,7 @@
 | [Loco Contigo \(feat\. J\. Balvin & Tyga\)](https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Carte Blanche](https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR) | 3:05 | 2022-01-04 |  |
 | [Lokito](https://open.spotify.com/track/3wl6blcXqnpPI7f6UNH4II) | [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Lokito](https://open.spotify.com/album/6jX07JnOXrVcySLBHh7qbB) | 3:01 | 2022-01-04 | 2022-07-29 |
 | [Lone Wolf](https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Lone Wolf](https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY) | 4:16 | 2022-01-04 |  |
+| [Look](https://open.spotify.com/track/2UnYp6QyIXKJiDF0tB8Smy) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Look](https://open.spotify.com/album/47QcF8U1SLWFGCqU2pmRxJ) | 2:48 | 2022-10-12 |  |
 | [Look](https://open.spotify.com/track/42y1R39jgfNb8tNtNNoYMZ) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Look](https://open.spotify.com/album/1I35zlzXcHo0RNRYAsH9eF) | 2:48 | 2022-04-13 | 2023-02-02 |
 | [Lose Control \- ChildsPlay & Badd Dimes Remix](https://open.spotify.com/track/44Fy9nmj1bBh42WviVea0m) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [ChildsPlay](https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel), [Badd Dimes](https://open.spotify.com/artist/4ddhmWe0fgEqOyb2kihLWB) | [Lose Control \(The Remixes, Pt\. 2\)](https://open.spotify.com/album/6DbsmA9K8WDhUgu3ZuLcBX) | 3:27 | 2022-01-04 |  |
 | [Mad World](https://open.spotify.com/track/6WsaEpK2Bky9ZGCCaQPyg4) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Mad World](https://open.spotify.com/album/35LVfE1wsiXr4tdKnYliJ8) | 2:33 | 2022-01-04 |  |

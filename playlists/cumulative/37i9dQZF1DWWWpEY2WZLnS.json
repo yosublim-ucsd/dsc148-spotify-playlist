@@ -4058,7 +4058,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 181079,
       "name": "Que Sera?",
       "url": "https://open.spotify.com/track/1o7pdhP5Z4u9hWtIFFaqu4"
@@ -4932,6 +4932,24 @@
       "duration_ms": 160500,
       "name": "Totola",
       "url": "https://open.spotify.com/track/01obeUENTIoIHFo3bbzUQ7"
+    },
+    {
+      "album": {
+        "name": "Totola",
+        "url": "https://open.spotify.com/album/78BkxNZpH8JBsGbcV7caIU"
+      },
+      "artists": [
+        {
+          "name": "Dowba Montana",
+          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Totola",
+      "url": "https://open.spotify.com/track/2pKXFZUVQdVJIt5OfcC7sH"
     },
     {
       "album": {

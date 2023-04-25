@@ -4,7 +4,7 @@
 
 > This is Hildur Guðnadóttir\. The essential tracks, all in one playlist.
 
-61 songs - 2 hr 33 min
+62 songs - 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Boys](https://open.spotify.com/track/5DKdRHCZpJb93JZzQYurzE) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Women Talking \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2szCjAfILlWcqeExhJcMLX) | 2:26 | 2023-02-01 |  |
 | [Bridge of Death](https://open.spotify.com/track/5VwxuwHdpY19gZvyA7TlyU) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Chernobyl \(Music from the Original TV Series\)](https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ) | 4:44 | 2023-02-01 |  |
 | [Bær](https://open.spotify.com/track/2bsu3fYomQAYvWChwCedR7) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Saman](https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk) | 3:17 | 2023-02-01 |  |
-| [Call Me Joker](https://open.spotify.com/track/257SoE95qEweGItCB9Q5rE) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ) | 4:48 | 2023-02-01 |  |
+| [Call Me Joker](https://open.spotify.com/track/257SoE95qEweGItCB9Q5rE) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ) | 4:48 | 2023-02-01 | 2023-04-25 |
 | [Cana](https://open.spotify.com/track/31HQUaMVQCOCLCJhjpHFBX) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Mary Magdalene \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0) | 1:39 | 2023-02-01 |  |
 | [Dealing With Destruction](https://open.spotify.com/track/14LxYedUSDzuNwalQPgTGu) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Chernobyl \(Music from the Original TV Series\)](https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ) | 1:54 | 2023-02-01 |  |
 | [Defeated Clown](https://open.spotify.com/track/2S2ASICVK0L1LtjaysKsel) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ) | 2:39 | 2023-02-01 |  |
@@ -36,6 +36,7 @@
 | [Heyr Himnasmiður](https://open.spotify.com/track/05CkMXd8poyR5x8hyHGyrY) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [David Wiebe](https://open.spotify.com/artist/64S6C03quUseqyfpkQDw4Z) | [Saman](https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk) | 3:09 | 2023-02-01 | 2023-04-02 |
 | [Hoyt's Office](https://open.spotify.com/track/1UdiJ6Y2eisfQQ76MZOX4B) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ) | 1:24 | 2023-02-01 |  |
 | [Jumping](https://open.spotify.com/track/3R84LdwxdZkfdVFUzICWju) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Women Talking \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2szCjAfILlWcqeExhJcMLX) | 1:30 | 2023-04-15 |  |
+| [Learning How to Act Normal](https://open.spotify.com/track/0voDqz72ORk3JETp1OUZiz) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ) | 1:17 | 2023-04-24 |  |
 | [Leaving](https://open.spotify.com/track/0gcpkg1jdlIbNIwDPrpkiU) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Women Talking \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2szCjAfILlWcqeExhJcMLX) | 3:41 | 2023-03-09 |  |
 | [Líður \- Chernobyl Version](https://open.spotify.com/track/6HVsARWIlJiv6ujVfEbTlH) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Chernobyl \(Music from the Original TV Series\)](https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ) | 2:48 | 2023-02-01 |  |
 | [Messiah](https://open.spotify.com/track/5wZeVIBFtMbFeD2gScCuxF) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Mary Magdalene \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0) | 3:36 | 2023-02-08 | 2023-02-16 |

@@ -1,12 +1,12 @@
 {
   "description": "Southern boogie, swinging blues rock and classic boogie rock. Cover: ZZ Top",
-  "num_followers": 58990,
+  "num_followers": 59062,
   "original_name": "Boogie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg5Njg2OCwwMDAwMDAwMDMzMjRmNGNhNjk3NmM0YjI2ZjZlMjVhMzgyODY3YWJh",
+  "snapshot_id": "MTYzODg5Njg2OCwwMDAwMDAwMDJlZmJlODlkZjY1MjZjNjMxM2I4M2VmNzRkNWJlZmU5",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Aerosmith",
-        "url": "https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 269190,
-      "name": "Mama Kin",
-      "url": "https://open.spotify.com/track/6Qs5u9Tqh1rm1ljdr1ckhw"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Fandango! (Expanded 2006 Remaster)",
         "url": "https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 137933,
       "name": "Tush - 2006 Remaster",
       "url": "https://open.spotify.com/track/6zGDIDjfDkPyNxrEERO3XG"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 269190,
+      "name": "Mama Kin",
+      "url": "https://open.spotify.com/track/6Qs5u9Tqh1rm1ljdr1ckhw"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Rockin' All Over The World",
-        "url": "https://open.spotify.com/album/4UyEneWCIKATQf3keQnG7O"
-      },
-      "artists": [
-        {
-          "name": "Status Quo",
-          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
-        }
-      ],
-      "duration_ms": 217453,
-      "name": "Rockin' All Over The World",
-      "url": "https://open.spotify.com/track/1ydpGKWD5D8tvTHWN8h58q"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "On the Border (2013 Remaster)",
         "url": "https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 218269,
       "name": "James Dean - 2013 Remaster",
       "url": "https://open.spotify.com/track/0HznRAeJLyGtyLZgecDiLI"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Rockin' All Over The World",
+        "url": "https://open.spotify.com/album/4UyEneWCIKATQf3keQnG7O"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "duration_ms": 217453,
+      "name": "Rockin' All Over The World",
+      "url": "https://open.spotify.com/track/1ydpGKWD5D8tvTHWN8h58q"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Smiler",
-        "url": "https://open.spotify.com/album/1RuMPrVES7OeG5Nam0N8mJ"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 222840,
-      "name": "Sweet Little Rock 'N' Roller",
-      "url": "https://open.spotify.com/track/6iLgfbyvQ8lRjixyIYZCW8"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "The Morning After",
         "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 155640,
       "name": "I Don't Need You No More",
       "url": "https://open.spotify.com/track/1HKr4zUACoh3QfxbfVz8Du"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Smiler",
+        "url": "https://open.spotify.com/album/1RuMPrVES7OeG5Nam0N8mJ"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 222840,
+      "name": "Sweet Little Rock 'N' Roller",
+      "url": "https://open.spotify.com/track/6iLgfbyvQ8lRjixyIYZCW8"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -383,8 +383,8 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Quotable Quo",
-        "url": "https://open.spotify.com/album/4IAafmNssq4xupEIUR7enj"
+        "name": "Down the Dustpipe",
+        "url": "https://open.spotify.com/album/4D2lzYrLn7Jg8tIuuSF36L"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Whatever You Want",
-      "url": "https://open.spotify.com/track/2PkOmx1S4XOwPU1Pgyaoig"
+      "duration_ms": 199266,
+      "name": "Spinning Wheel Blues",
+      "url": "https://open.spotify.com/track/0KX5tEsBMLQRmUgYJniMtm"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -445,38 +445,6 @@
       "url": "https://open.spotify.com/track/6dICmF2LPReh0BjgImRfOn"
     },
     {
-      "added_at": "2021-10-15 04:01:00",
-      "album": {
-        "name": "Leave This House",
-        "url": "https://open.spotify.com/album/5FjVzRR2EtfRBJjsmZ1HBi"
-      },
-      "artists": [
-        {
-          "name": "Colin James",
-          "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
-        }
-      ],
-      "duration_ms": 209098,
-      "name": "Leave This House",
-      "url": "https://open.spotify.com/track/3EXwHbECDsXgl0M9iZcfhP"
-    },
-    {
-      "added_at": "2021-02-26 05:01:00",
-      "album": {
-        "name": "Charming Mess",
-        "url": "https://open.spotify.com/album/1kOPsSIDcQ3cegRouSgx7W"
-      },
-      "artists": [
-        {
-          "name": "The Black Crowes",
-          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
-        }
-      ],
-      "duration_ms": 213693,
-      "name": "Charming Mess",
-      "url": "https://open.spotify.com/track/494fTnltxTwiZYqACtCzWU"
-    },
-    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "The Morning After",
@@ -493,10 +461,26 @@
       "url": "https://open.spotify.com/track/2feQ7CyRZOUeqsct3zwDtn"
     },
     {
+      "added_at": "2021-10-15 04:01:00",
+      "album": {
+        "name": "Leave This House",
+        "url": "https://open.spotify.com/album/5FjVzRR2EtfRBJjsmZ1HBi"
+      },
+      "artists": [
+        {
+          "name": "Colin James",
+          "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
+        }
+      ],
+      "duration_ms": 209098,
+      "name": "Leave This House",
+      "url": "https://open.spotify.com/track/3EXwHbECDsXgl0M9iZcfhP"
+    },
+    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Down the Dustpipe",
-        "url": "https://open.spotify.com/album/4D2lzYrLn7Jg8tIuuSF36L"
+        "name": "Quotable Quo",
+        "url": "https://open.spotify.com/album/4IAafmNssq4xupEIUR7enj"
       },
       "artists": [
         {
@@ -504,9 +488,25 @@
           "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
         }
       ],
-      "duration_ms": 199266,
-      "name": "Spinning Wheel Blues",
-      "url": "https://open.spotify.com/track/0KX5tEsBMLQRmUgYJniMtm"
+      "duration_ms": 242000,
+      "name": "Whatever You Want",
+      "url": "https://open.spotify.com/track/2PkOmx1S4XOwPU1Pgyaoig"
+    },
+    {
+      "added_at": "2021-02-26 05:01:00",
+      "album": {
+        "name": "Charming Mess",
+        "url": "https://open.spotify.com/album/1kOPsSIDcQ3cegRouSgx7W"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "duration_ms": 213693,
+      "name": "Charming Mess",
+      "url": "https://open.spotify.com/track/494fTnltxTwiZYqACtCzWU"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Ooh La La",
-        "url": "https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5"
-      },
-      "artists": [
-        {
-          "name": "Faces",
-          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "Borstal Boys",
-      "url": "https://open.spotify.com/track/47rwchB6ebPHAY0CaBINZG"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "The Hoople",
         "url": "https://open.spotify.com/album/2Jar3nPcvUZVEIT2DBJ8Am"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 204093,
       "name": "The Golden Age of Rock 'n' Roll",
       "url": "https://open.spotify.com/track/2M9aZcP4xcDiEvEChmHTsx"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Ooh La La",
+        "url": "https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5"
+      },
+      "artists": [
+        {
+          "name": "Faces",
+          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
+        }
+      ],
+      "duration_ms": 173026,
+      "name": "Borstal Boys",
+      "url": "https://open.spotify.com/track/47rwchB6ebPHAY0CaBINZG"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Fighting",
-        "url": "https://open.spotify.com/album/4XGIy3KPZ0zjl5dhhvQtFQ"
-      },
-      "artists": [
-        {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Silver Dollar",
-      "url": "https://open.spotify.com/track/6FI74cRYyrYgDC51ZYtVt3"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "The Blues Band - Ready (Remastered)",
         "url": "https://open.spotify.com/album/79vGUrA1yoXpJ8FSyhbxKs"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 155914,
       "name": "Find Yourself Another Fool - Remastered",
       "url": "https://open.spotify.com/track/5CH51fbCNKlPdFOJs1F7g2"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Fighting",
+        "url": "https://open.spotify.com/album/4XGIy3KPZ0zjl5dhhvQtFQ"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Silver Dollar",
+      "url": "https://open.spotify.com/track/6FI74cRYyrYgDC51ZYtVt3"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "1234",
-        "url": "https://open.spotify.com/album/32XLfDR9uCkCYD4OMHUBDF"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Wood",
-          "url": "https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK"
-        }
-      ],
-      "duration_ms": 242280,
-      "name": "Outlaws",
-      "url": "https://open.spotify.com/track/6OCvoEuOHptoVnJyJ23KWR"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/1oKWgM9Td5XbgUweHSRGXB"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 386226,
       "name": "It's All Over Now",
       "url": "https://open.spotify.com/track/78H0GpZn9EXwEI6gr2FZUA"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "1234",
+        "url": "https://open.spotify.com/album/32XLfDR9uCkCYD4OMHUBDF"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Wood",
+          "url": "https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK"
+        }
+      ],
+      "duration_ms": 242280,
+      "name": "Outlaws",
+      "url": "https://open.spotify.com/track/6OCvoEuOHptoVnJyJ23KWR"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -799,18 +799,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Essential Edgar Winter",
-        "url": "https://open.spotify.com/album/3a27WqEqhsikCfuxVSq2vW"
+        "name": "Jinx (Remastered 2017)",
+        "url": "https://open.spotify.com/album/7KoqBVH5VVliVu15CiUOgS"
       },
       "artists": [
         {
-          "name": "Edgar Winter's White Trash",
-          "url": "https://open.spotify.com/artist/4uOdVRRuTWjJVkcN0LXxwL"
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
         }
       ],
-      "duration_ms": 224706,
-      "name": "Keep Playin' That Rock 'n' Roll",
-      "url": "https://open.spotify.com/track/0rQf7arPF7Fob1ewkKicL1"
+      "duration_ms": 234901,
+      "name": "Bourbon",
+      "url": "https://open.spotify.com/track/2bHdpo5xyMYyWBRYfoPwBX"
     }
   ],
   "unique_name": "Boogie Rock",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: As Everything Unfolds
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,367 likes - 56 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,536 likes - 56 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 26 | [Negative](https://open.spotify.com/track/77VOSQS7TnAd07ZtUTtHry) | [Elwood Stray](https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr) | [Negative](https://open.spotify.com/album/0jXvfiBh58VrpCm1fy0ONH) | 3:04 |
 | 27 | [Damn](https://open.spotify.com/track/1ARqjlgwOIZ5QHs50LL3WH) | [DEVILOOF](https://open.spotify.com/artist/4gSAE6I87LS39XMZpoQGPG) | [DAMNED](https://open.spotify.com/album/6zqAtUpcgDXimYkwrS7dxB) | 4:15 |
 | 28 | [Destroyer](https://open.spotify.com/track/1iQsQZzC1CneQhOycVXBHS) | [Before The Dawn](https://open.spotify.com/artist/6L77qXFnXb7Tac7xzPa0Y7) | [Destroyer](https://open.spotify.com/album/34y1xqgtej5mb8eV3stvhT) | 4:30 |
-| 29 | [Master of the Universe](https://open.spotify.com/track/5VhWIMILEKEs0UmeJoMRXZ) | [ANGUS McSIX](https://open.spotify.com/artist/1NDBvJdsUcycpj4K8l0ooy) | [Master of the Universe](https://open.spotify.com/album/086nFtehtrA95r4FtegJpI) | 3:24 |
+| 29 | [Master of the Universe](https://open.spotify.com/track/5GwKIIGkwrURnKJPiYqOSk) | [ANGUS McSIX](https://open.spotify.com/artist/1NDBvJdsUcycpj4K8l0ooy) | [Angus Mcsix and the Sword of Power](https://open.spotify.com/album/3RE6n75MEOFBX03jV32Q4Q) | 3:24 |
 | 30 | [Roaring Vortex](https://open.spotify.com/track/7CXbZ8UMFqerLsLNqDtw5D) | [ANTHEM](https://open.spotify.com/artist/67BObUWOkPPGftw3ITCHXH) | [Crimson & Jet Black](https://open.spotify.com/album/03OVhbUUlOHc91iTRXySRA) | 5:58 |
 | 31 | [Dust in the Wind](https://open.spotify.com/track/2ZR9qaSdQa3gUfJdRmwLY5) | [Axel Rudi Pell](https://open.spotify.com/artist/7dWw3TXxNe2aEhng9vVRNl) | [The Ballads VI](https://open.spotify.com/album/4R7pfSlvAKJDcTR96lkdbA) | 4:32 |
 | 32 | [Sacred](https://open.spotify.com/track/5r73T9nDmOEtGhpgZM4QSL) | [Revolution Saints](https://open.spotify.com/artist/6tq1dv7rzt2khH82JuCWhg) | [Eagle Flight](https://open.spotify.com/album/5YDxpVVtX2t5B7rB5kRlQd) | 3:25 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 55 | [Mechanic Convergence](https://open.spotify.com/track/64cNZnY6AvyaER20zbj5ga) | [Fearmonger](https://open.spotify.com/artist/3H3nB78HmxyT0LI964izF3) | [Singularity](https://open.spotify.com/album/6N8Etw7b6sCcq2VqpXkcFv) | 3:55 |
 | 56 | [Insane](https://open.spotify.com/track/4aaSKQerAUzEhJSE6zDyhN) | [contrast.](https://open.spotify.com/artist/59oX1Yy4grDdU4lelm4jbA) | [Insane](https://open.spotify.com/album/6LuOHpO9DsT1jReMC6r0Zc) | 3:10 |
 
-Snapshot ID: `MTY4MjA5NTc4MCwwMDAwMDAwMGM4NWE3ZDJkODI5YTkxYzdiNmQ3MzFiOGM1ZDc0MjQz`
+Snapshot ID: `MTY4MjA5NTc4MCwwMDAwMDAwMGQyMmNlZTg5YmZkYTY3NGQ2M2Q5NzIwYTk3ZjZhNTQ1`

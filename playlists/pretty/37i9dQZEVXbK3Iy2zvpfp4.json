@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Slovakia.",
-  "num_followers": 4603,
+  "num_followers": 4604,
   "original_name": "Viral 50 - Slovakia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzM1NjEyNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzM1Njk5MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
       "album": {
         "name": "The Beginning: Cupid",
         "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
       "album": {
         "name": "Space",
         "url": "https://open.spotify.com/album/23YmjS1LSNKOEOwYbZPsAC"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/3hEkAArF6wAyQEWuR80YRr"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
       "album": {
         "name": "LET IT OFF",
         "url": "https://open.spotify.com/album/4zSl8MlGYgRqfmhmnuzJBi"
@@ -61,7 +61,39 @@
       "url": "https://open.spotify.com/track/4kGYXB2BPmkfdwDbNjUYl6"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
+      "album": {
+        "name": "All Eyez On Me (Gangsta Remix)",
+        "url": "https://open.spotify.com/album/2WrsRqFFxJUYfibA1mNvzS"
+      },
+      "artists": [
+        {
+          "name": "Dj Belite",
+          "url": "https://open.spotify.com/artist/0kDOao6cVpYBKRLPXokuDF"
+        }
+      ],
+      "duration_ms": 165557,
+      "name": "All Eyez On Me - Gangsta Remix",
+      "url": "https://open.spotify.com/track/6hfogGuqhfOcq11ZDjXluc"
+    },
+    {
+      "added_at": "2023-04-24 11:23:36",
+      "album": {
+        "name": "labour",
+        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 237744,
+      "name": "labour",
+      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
+    },
+    {
+      "added_at": "2023-04-24 11:23:36",
       "album": {
         "name": "Moulaga",
         "url": "https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J"
@@ -81,23 +113,7 @@
       "url": "https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
-      "album": {
-        "name": "All Eyez On Me (Gangsta Remix)",
-        "url": "https://open.spotify.com/album/2WrsRqFFxJUYfibA1mNvzS"
-      },
-      "artists": [
-        {
-          "name": "Dj Belite",
-          "url": "https://open.spotify.com/artist/0kDOao6cVpYBKRLPXokuDF"
-        }
-      ],
-      "duration_ms": 165557,
-      "name": "All Eyez On Me - Gangsta Remix",
-      "url": "https://open.spotify.com/track/6hfogGuqhfOcq11ZDjXluc"
-    },
-    {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
       "album": {
         "name": "I Know (PR1SVX Edit)",
         "url": "https://open.spotify.com/album/0U2gygUYvl2y1aPQiQZg1h"
@@ -117,39 +133,7 @@
       "url": "https://open.spotify.com/track/3vcLw8QA3yCOkrj9oLSZNs"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
-      "album": {
-        "name": "labour",
-        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 237744,
-      "name": "labour",
-      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
-    },
-    {
-      "added_at": "2023-04-23 10:34:09",
-      "album": {
-        "name": "M\u00f4j typ \u017eeny",
-        "url": "https://open.spotify.com/album/02v0g7rhEtSgSqDurTExTN"
-      },
-      "artists": [
-        {
-          "name": "SIMILIVINLIFE",
-          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
-        }
-      ],
-      "duration_ms": 156803,
-      "name": "M\u00f4j typ \u017eeny",
-      "url": "https://open.spotify.com/track/0OsN3na3JJI2502qObTqsG"
-    },
-    {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
       "album": {
         "name": "FLOWDEMORT",
         "url": "https://open.spotify.com/album/3zi1D9yDyynoGCl4vLVWOK"
@@ -173,7 +157,23 @@
       "url": "https://open.spotify.com/track/4WXX611x1aCtwcqVJgA3xb"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
+      "album": {
+        "name": "M\u00f4j typ \u017eeny",
+        "url": "https://open.spotify.com/album/02v0g7rhEtSgSqDurTExTN"
+      },
+      "artists": [
+        {
+          "name": "SIMILIVINLIFE",
+          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
+        }
+      ],
+      "duration_ms": 156803,
+      "name": "M\u00f4j typ \u017eeny",
+      "url": "https://open.spotify.com/track/0OsN3na3JJI2502qObTqsG"
+    },
+    {
+      "added_at": "2023-04-24 11:23:36",
       "album": {
         "name": "This Is MELON, Vol. 1 (Dance)",
         "url": "https://open.spotify.com/album/0PNr5tFpxqBjNFbbPhpFTP"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/4ybaX7Z05jZnuQOW6jxYEy"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
       "album": {
         "name": "gener\u00e1cia 00",
         "url": "https://open.spotify.com/album/4QF0TEUrD0GQjw4Ta8gu8r"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/2VwEWsVMBWaFPPSEXFK3Qi"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
       "album": {
         "name": "RITMADINHA DAN\u00c7ANTE",
         "url": "https://open.spotify.com/album/0QHgS2V9X2lZfMoi09Hsdu"
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/4sVrOA0sytAzv102tnQmr7"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
       "album": {
         "name": "Sassy Scene",
         "url": "https://open.spotify.com/album/5jBSw53XwT6G0slLxKSZLl"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/0Vqaw7CxyURWaRI9gNJthb"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
       "album": {
         "name": "\u3059\u305a\u3081\u306e\u6238\u7de0\u307e\u308a",
         "url": "https://open.spotify.com/album/1zw13BheGzuWgbm5CY4dJp"
@@ -285,27 +285,23 @@
       "url": "https://open.spotify.com/track/3HCGX2gmPLu6ttkbYvPGTR"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
       "album": {
-        "name": "Mayerling",
-        "url": "https://open.spotify.com/album/7zfXdUZDhx7uKVLUPKGJWz"
+        "name": "BOSS",
+        "url": "https://open.spotify.com/album/3sMOvpUohugjixq44SynQG"
       },
       "artists": [
         {
-          "name": "Francis Lai",
-          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
-        },
-        {
-          "name": "Christian Gaubert",
-          "url": "https://open.spotify.com/artist/6B3KK89Stpd0cBueX1oLzT"
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
         }
       ],
-      "duration_ms": 105560,
-      "name": "La le\u00e7on particuli\u00e8re - Bande originale du film \"La le\u00e7on particuli\u00e8re\"",
-      "url": "https://open.spotify.com/track/4OWa2dOlmtvMDhFrFL0QA1"
+      "duration_ms": 144930,
+      "name": "BOSS",
+      "url": "https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
       "album": {
         "name": "Chlapi Chc\u00fa M\u00f4j A$$",
         "url": "https://open.spotify.com/album/17SIhy5f5hZmM5voeNTfA4"
@@ -325,75 +321,7 @@
       "url": "https://open.spotify.com/track/0C47YpLfHmU1yFDQEMVo8O"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
-      "album": {
-        "name": "BOSS",
-        "url": "https://open.spotify.com/album/3sMOvpUohugjixq44SynQG"
-      },
-      "artists": [
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        }
-      ],
-      "duration_ms": 144930,
-      "name": "BOSS",
-      "url": "https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D"
-    },
-    {
-      "added_at": "2023-04-23 10:34:09",
-      "album": {
-        "name": "Himmlische Tr\u00e4ume",
-        "url": "https://open.spotify.com/album/49p6Te0TtN1Ew5qP5GIEQB"
-      },
-      "artists": [
-        {
-          "name": "CNML",
-          "url": "https://open.spotify.com/artist/1cCttBLMdXSirH1ENijMcU"
-        }
-      ],
-      "duration_ms": 89721,
-      "name": "Sky Like Dreams (SU)",
-      "url": "https://open.spotify.com/track/6N21iOdTYgYjDK1AyS0iUW"
-    },
-    {
-      "added_at": "2023-04-23 10:34:09",
-      "album": {
-        "name": "GTA IV",
-        "url": "https://open.spotify.com/album/1K3DgS4h4b1cvL1aSH9XWr"
-      },
-      "artists": [
-        {
-          "name": "Essentials.",
-          "url": "https://open.spotify.com/artist/60t4ZmqzvbuIlTaRjYnWQ4"
-        }
-      ],
-      "duration_ms": 138181,
-      "name": "GTA IV",
-      "url": "https://open.spotify.com/track/2WdmVCmYjxFGZMNTzNIc7i"
-    },
-    {
-      "added_at": "2023-04-23 10:34:09",
-      "album": {
-        "name": "Supernatural (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1n12Kl9IoHSk65OcZDutSH"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        },
-        {
-          "name": "The Product G&B",
-          "url": "https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1"
-        }
-      ],
-      "duration_ms": 261973,
-      "name": "Maria Maria (feat. The Product G&B)",
-      "url": "https://open.spotify.com/track/567UAkWoLBqZ709s3Qcbze"
-    },
-    {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
       "album": {
         "name": "HOJE EU VOU COMER NOVINHA",
         "url": "https://open.spotify.com/album/7FNd2yodzN9NDZTBJhI2Eh"
@@ -409,59 +337,27 @@
       "url": "https://open.spotify.com/track/1vKRuWNMzYKX2MxdQawM0N"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
       "album": {
-        "name": "Slzy Ulic",
-        "url": "https://open.spotify.com/album/7knESRIWnGFyNUy6P771T5"
+        "name": "Mayerling",
+        "url": "https://open.spotify.com/album/7zfXdUZDhx7uKVLUPKGJWz"
       },
       "artists": [
         {
-          "name": "Samey",
-          "url": "https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt"
-        }
-      ],
-      "duration_ms": 120827,
-      "name": "Valeriya",
-      "url": "https://open.spotify.com/track/09MbMeMVENgLv6Z9ogzkuG"
-    },
-    {
-      "added_at": "2023-04-23 10:34:09",
-      "album": {
-        "name": "Tatiana",
-        "url": "https://open.spotify.com/album/5vFP2Vvxm4ameXwPKWKsX1"
-      },
-      "artists": [
-        {
-          "name": "SIMILIVINLIFE",
-          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
-        }
-      ],
-      "duration_ms": 170825,
-      "name": "Tatiana",
-      "url": "https://open.spotify.com/track/1hwXuNabpH3GDnHQhfiIfL"
-    },
-    {
-      "added_at": "2023-04-23 10:34:09",
-      "album": {
-        "name": "Na ceste za mnou",
-        "url": "https://open.spotify.com/album/23NHjOVzpWLIyOMmWhMhmA"
-      },
-      "artists": [
-        {
-          "name": "Dannymarr",
-          "url": "https://open.spotify.com/artist/6xJXiTMEraNRu88MeMXzOD"
+          "name": "Francis Lai",
+          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
         },
         {
-          "name": "SIMILIVINLIFE",
-          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
+          "name": "Christian Gaubert",
+          "url": "https://open.spotify.com/artist/6B3KK89Stpd0cBueX1oLzT"
         }
       ],
-      "duration_ms": 147887,
-      "name": "Vyroben\u00e1 pre m\u0148a",
-      "url": "https://open.spotify.com/track/3YL0cxMy8BdxwBy0fkXwZC"
+      "duration_ms": 105560,
+      "name": "La le\u00e7on particuli\u00e8re - Bande originale du film \"La le\u00e7on particuli\u00e8re\"",
+      "url": "https://open.spotify.com/track/4OWa2dOlmtvMDhFrFL0QA1"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
       "album": {
         "name": "Flower Boy",
         "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
@@ -481,39 +377,59 @@
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
       "album": {
-        "name": "La Cosa Nostra",
-        "url": "https://open.spotify.com/album/48NlXmZwck5tg38XFhzhiQ"
+        "name": "Supernatural (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1n12Kl9IoHSk65OcZDutSH"
       },
       "artists": [
         {
-          "name": "KOTL\u00c1R SECURITY",
-          "url": "https://open.spotify.com/artist/0z5HBunSnoCNMGy5NqEGYg"
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "The Product G&B",
+          "url": "https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1"
         }
       ],
-      "duration_ms": 137010,
-      "name": "La Cosa Nostra",
-      "url": "https://open.spotify.com/track/1wDlHHkETfW9TTd97k6sU6"
+      "duration_ms": 261973,
+      "name": "Maria Maria (feat. The Product G&B)",
+      "url": "https://open.spotify.com/track/567UAkWoLBqZ709s3Qcbze"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
       "album": {
-        "name": "FACE",
-        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+        "name": "GTA IV",
+        "url": "https://open.spotify.com/album/1K3DgS4h4b1cvL1aSH9XWr"
       },
       "artists": [
         {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+          "name": "Essentials.",
+          "url": "https://open.spotify.com/artist/60t4ZmqzvbuIlTaRjYnWQ4"
         }
       ],
-      "duration_ms": 212241,
-      "name": "Like Crazy",
-      "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
+      "duration_ms": 138181,
+      "name": "GTA IV",
+      "url": "https://open.spotify.com/track/2WdmVCmYjxFGZMNTzNIc7i"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
+      "album": {
+        "name": "Slzy Ulic",
+        "url": "https://open.spotify.com/album/7knESRIWnGFyNUy6P771T5"
+      },
+      "artists": [
+        {
+          "name": "Samey",
+          "url": "https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt"
+        }
+      ],
+      "duration_ms": 120827,
+      "name": "Valeriya",
+      "url": "https://open.spotify.com/track/09MbMeMVENgLv6Z9ogzkuG"
+    },
+    {
+      "added_at": "2023-04-24 11:23:36",
       "album": {
         "name": "Vasko Zabata",
         "url": "https://open.spotify.com/album/4dyHzZEH1thbWlZkKEktUW"
@@ -529,7 +445,139 @@
       "url": "https://open.spotify.com/track/7p8vsbK5P7sUBmJJeA0dwT"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
+      "album": {
+        "name": "Sar\u00e0 Perch\u00e9 Ti Amo (Milan TikTok Edit)",
+        "url": "https://open.spotify.com/album/4KOVmZ1hatIN0e63CtzvrG"
+      },
+      "artists": [
+        {
+          "name": "DJ Redblack",
+          "url": "https://open.spotify.com/artist/3YwK1Kk8VSAtowOX2lRO0c"
+        }
+      ],
+      "duration_ms": 127068,
+      "name": "Sar\u00e0 Perch\u00e9 Ti Amo - Milan TikTok Edit",
+      "url": "https://open.spotify.com/track/1gUJr0yBhHH3gGBoLkUNa2"
+    },
+    {
+      "added_at": "2023-04-24 11:23:36",
+      "album": {
+        "name": "XXV",
+        "url": "https://open.spotify.com/album/0Ks2rhymd89AJybNF83W4Q"
+      },
+      "artists": [
+        {
+          "name": "Ellai",
+          "url": "https://open.spotify.com/artist/0MW7VCX468MczakigaewMm"
+        }
+      ],
+      "duration_ms": 171251,
+      "name": "\u041f\u043e\u043c\u043d\u044e \u0442\u0432\u043e\u0451 \u0442\u0435\u043b\u043e",
+      "url": "https://open.spotify.com/track/5fjvFWBdu0DDNwTKd8bkys"
+    },
+    {
+      "added_at": "2023-04-24 11:23:36",
+      "album": {
+        "name": "Na ceste za mnou",
+        "url": "https://open.spotify.com/album/23NHjOVzpWLIyOMmWhMhmA"
+      },
+      "artists": [
+        {
+          "name": "Dannymarr",
+          "url": "https://open.spotify.com/artist/6xJXiTMEraNRu88MeMXzOD"
+        },
+        {
+          "name": "SIMILIVINLIFE",
+          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
+        }
+      ],
+      "duration_ms": 147887,
+      "name": "Vyroben\u00e1 pre m\u0148a",
+      "url": "https://open.spotify.com/track/3YL0cxMy8BdxwBy0fkXwZC"
+    },
+    {
+      "added_at": "2023-04-24 11:23:36",
+      "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 212241,
+      "name": "Like Crazy",
+      "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
+    },
+    {
+      "added_at": "2023-04-24 11:23:36",
+      "album": {
+        "name": "La Cosa Nostra",
+        "url": "https://open.spotify.com/album/48NlXmZwck5tg38XFhzhiQ"
+      },
+      "artists": [
+        {
+          "name": "KOTL\u00c1R SECURITY",
+          "url": "https://open.spotify.com/artist/0z5HBunSnoCNMGy5NqEGYg"
+        }
+      ],
+      "duration_ms": 137010,
+      "name": "La Cosa Nostra",
+      "url": "https://open.spotify.com/track/1wDlHHkETfW9TTd97k6sU6"
+    },
+    {
+      "added_at": "2023-04-24 11:23:36",
+      "album": {
+        "name": "Tatiana",
+        "url": "https://open.spotify.com/album/5vFP2Vvxm4ameXwPKWKsX1"
+      },
+      "artists": [
+        {
+          "name": "SIMILIVINLIFE",
+          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
+        }
+      ],
+      "duration_ms": 170825,
+      "name": "Tatiana",
+      "url": "https://open.spotify.com/track/1hwXuNabpH3GDnHQhfiIfL"
+    },
+    {
+      "added_at": "2023-04-24 11:23:36",
+      "album": {
+        "name": "Sua amiga vou sarrar",
+        "url": "https://open.spotify.com/album/0q7yZM9tgpuHG1pqN8Tf6G"
+      },
+      "artists": [
+        {
+          "name": "MC Levin",
+          "url": "https://open.spotify.com/artist/0guw2RGoUqaWKpoCY5DzWY"
+        }
+      ],
+      "duration_ms": 149603,
+      "name": "Sua amiga vou sarrar",
+      "url": "https://open.spotify.com/track/6PyRfJN2K5Sm1vfOuF4Z9z"
+    },
+    {
+      "added_at": "2023-04-24 11:23:36",
+      "album": {
+        "name": "Himmlische Tr\u00e4ume",
+        "url": "https://open.spotify.com/album/49p6Te0TtN1Ew5qP5GIEQB"
+      },
+      "artists": [
+        {
+          "name": "CNML",
+          "url": "https://open.spotify.com/artist/1cCttBLMdXSirH1ENijMcU"
+        }
+      ],
+      "duration_ms": 89721,
+      "name": "Sky Like Dreams (SU)",
+      "url": "https://open.spotify.com/track/6N21iOdTYgYjDK1AyS0iUW"
+    },
+    {
+      "added_at": "2023-04-24 11:23:36",
       "album": {
         "name": "The Beginning: Cupid",
         "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
@@ -545,7 +593,7 @@
       "url": "https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
       "album": {
         "name": "MTG - REBOLA NO MEU C4RALHO",
         "url": "https://open.spotify.com/album/63WfQxZlaM7RieVafWxH6p"
@@ -561,7 +609,23 @@
       "url": "https://open.spotify.com/track/6UsDf89sHDBewBBw7hc0Qc"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
+      "album": {
+        "name": "Cottonwood 2",
+        "url": "https://open.spotify.com/album/7l49L64CFakYuaV4EL11sP"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 123672,
+      "name": "SLUT ME OUT",
+      "url": "https://open.spotify.com/track/0WoVfPjxsf9MTvPt9ptqeE"
+    },
+    {
+      "added_at": "2023-04-24 11:23:36",
       "album": {
         "name": "S l\u00e1skou, Luk\u00e1\u0161.",
         "url": "https://open.spotify.com/album/3fuDMexJaDX4XIfOiAMI9t"
@@ -581,23 +645,23 @@
       "url": "https://open.spotify.com/track/0fP30PpvCS3AB4hBN91GPY"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
       "album": {
-        "name": "XXV",
-        "url": "https://open.spotify.com/album/0Ks2rhymd89AJybNF83W4Q"
+        "name": "Death of a Party Girl",
+        "url": "https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy"
       },
       "artists": [
         {
-          "name": "Ellai",
-          "url": "https://open.spotify.com/artist/0MW7VCX468MczakigaewMm"
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
         }
       ],
-      "duration_ms": 171251,
-      "name": "\u041f\u043e\u043c\u043d\u044e \u0442\u0432\u043e\u0451 \u0442\u0435\u043b\u043e",
-      "url": "https://open.spotify.com/track/5fjvFWBdu0DDNwTKd8bkys"
+      "duration_ms": 217000,
+      "name": "Blue Hair",
+      "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
       "album": {
         "name": "RR",
         "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
@@ -617,27 +681,7 @@
       "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
-      "album": {
-        "name": "Meg\u00e1ll Az Id\u0151",
-        "url": "https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        },
-        {
-          "name": "ANUBII$",
-          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Afro Beat",
-      "url": "https://open.spotify.com/track/1Y9crZGy8iOyCPxFBPfMDP"
-    },
-    {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
       "album": {
         "name": "Ella Baila Sola",
         "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
@@ -657,7 +701,27 @@
       "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
+      "album": {
+        "name": "Meg\u00e1ll Az Id\u0151",
+        "url": "https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        },
+        {
+          "name": "ANUBII$",
+          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Afro Beat",
+      "url": "https://open.spotify.com/track/1Y9crZGy8iOyCPxFBPfMDP"
+    },
+    {
+      "added_at": "2023-04-24 11:23:36",
       "album": {
         "name": "Cnv Sound Volums (Kion Studio One Shots)",
         "url": "https://open.spotify.com/album/6ofhc8WsOvmFP8lLb7b6v3"
@@ -677,75 +741,7 @@
       "url": "https://open.spotify.com/track/1vmRfKejQWsWnE3arhhEit"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
-      "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 187723,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
-    },
-    {
-      "added_at": "2023-04-23 10:34:09",
-      "album": {
-        "name": "Death of a Party Girl",
-        "url": "https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy"
-      },
-      "artists": [
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Blue Hair",
-      "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t"
-    },
-    {
-      "added_at": "2023-04-23 10:34:09",
-      "album": {
-        "name": "ROADTRIP",
-        "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
-      },
-      "artists": [
-        {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        },
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 149589,
-      "name": "Saf\u00edr",
-      "url": "https://open.spotify.com/track/1tpWtFdAuY9chjl5YhzsTP"
-    },
-    {
-      "added_at": "2023-04-23 10:34:09",
-      "album": {
-        "name": "Cottonwood 2",
-        "url": "https://open.spotify.com/album/7l49L64CFakYuaV4EL11sP"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 123672,
-      "name": "SLUT ME OUT",
-      "url": "https://open.spotify.com/track/0WoVfPjxsf9MTvPt9ptqeE"
-    },
-    {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
       "album": {
         "name": "Intoxicated",
         "url": "https://open.spotify.com/album/0aQQWnLZgIwVKNeNfqdhWK"
@@ -761,75 +757,71 @@
       "url": "https://open.spotify.com/track/6IfUW6lNAkiW3VVVzf9zYP"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
       "album": {
-        "name": "Crazy Girls",
-        "url": "https://open.spotify.com/album/154oJT2twqCFdna5UI2MyE"
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
       },
       "artists": [
         {
-          "name": "TOOPOOR",
-          "url": "https://open.spotify.com/artist/2G9tNsytSp4gYKZxONzFw2"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 194693,
-      "name": "Crazy Girls",
-      "url": "https://open.spotify.com/track/6cSDNYoWlMxzVfJLn6H301"
+      "duration_ms": 187723,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
       "album": {
-        "name": "PRINCEZN\u00c1",
-        "url": "https://open.spotify.com/album/7u69xoSdzH7r4yIU9RrGL1"
+        "name": "Montagem - Conga Conga (Remix)",
+        "url": "https://open.spotify.com/album/1PNplJIKoEDSa3GfgMluKu"
       },
       "artists": [
         {
-          "name": "Yael",
-          "url": "https://open.spotify.com/artist/5TSjeYa1XO0i6b4FVKZYYz"
-        },
-        {
-          "name": "Ronie",
-          "url": "https://open.spotify.com/artist/1u8P9isPGHQEgA3q3EN9x0"
+          "name": "DJ RAMON SP",
+          "url": "https://open.spotify.com/artist/3wpIT0RdJai5EyixwevHVq"
         }
       ],
-      "duration_ms": 204884,
-      "name": "PRINCEZN\u00c1",
-      "url": "https://open.spotify.com/track/3PPNM0uQfUTJkiyAYf91nf"
+      "duration_ms": 153238,
+      "name": "Montagem - Conga Conga (Remix)",
+      "url": "https://open.spotify.com/track/4h3IQVSBs8lbFCvwMjGp83"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
       "album": {
-        "name": "ULTRAKUNST",
-        "url": "https://open.spotify.com/album/1OegF0mIizsl36EVw1y1SW"
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
       },
       "artists": [
         {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
         }
       ],
-      "duration_ms": 206626,
-      "name": "DIE LIEBE KOMMT NICHT AUS BERLIN",
-      "url": "https://open.spotify.com/track/2quJCirmxL0onIdjhmX5ml"
+      "duration_ms": 217103,
+      "name": "Mentalit\u00e9",
+      "url": "https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
       "album": {
-        "name": "Sua amiga vou sarrar",
-        "url": "https://open.spotify.com/album/0q7yZM9tgpuHG1pqN8Tf6G"
+        "name": "Own Paradise",
+        "url": "https://open.spotify.com/album/5jh2KaX4hvRnEmPM8RM8HG"
       },
       "artists": [
         {
-          "name": "MC Levin",
-          "url": "https://open.spotify.com/artist/0guw2RGoUqaWKpoCY5DzWY"
+          "name": "LXAES",
+          "url": "https://open.spotify.com/artist/5H0EvN3WxKB6HaRpH7OY0z"
         }
       ],
-      "duration_ms": 149603,
-      "name": "Sua amiga vou sarrar",
-      "url": "https://open.spotify.com/track/6PyRfJN2K5Sm1vfOuF4Z9z"
+      "duration_ms": 128026,
+      "name": "Own Paradise",
+      "url": "https://open.spotify.com/track/0uLd2Bf1FBtBNQPsWIkpPG"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
       "album": {
         "name": "Focus",
         "url": "https://open.spotify.com/album/5U5KhcGgli7Y4aQySFG1Cd"
@@ -853,68 +845,76 @@
       "url": "https://open.spotify.com/track/5sybMF2Gbm98ociatHQFpT"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
       "album": {
-        "name": "orange blood",
-        "url": "https://open.spotify.com/album/1ulPzOYjb3Ez1S3HUn4glH"
+        "name": "ROADTRIP",
+        "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
       },
       "artists": [
         {
-          "name": "Zach Templar",
-          "url": "https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj"
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        },
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
         }
       ],
-      "duration_ms": 145833,
-      "name": "missin something",
-      "url": "https://open.spotify.com/track/1oOamzG57yPWa5PTxXguDt"
+      "duration_ms": 149589,
+      "name": "Saf\u00edr",
+      "url": "https://open.spotify.com/track/1tpWtFdAuY9chjl5YhzsTP"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
       "album": {
-        "name": "Sar\u00e0 Perch\u00e9 Ti Amo (Milan TikTok Edit)",
-        "url": "https://open.spotify.com/album/4KOVmZ1hatIN0e63CtzvrG"
+        "name": "PRINCEZN\u00c1",
+        "url": "https://open.spotify.com/album/7u69xoSdzH7r4yIU9RrGL1"
       },
       "artists": [
         {
-          "name": "DJ Redblack",
-          "url": "https://open.spotify.com/artist/3YwK1Kk8VSAtowOX2lRO0c"
+          "name": "Yael",
+          "url": "https://open.spotify.com/artist/5TSjeYa1XO0i6b4FVKZYYz"
+        },
+        {
+          "name": "Ronie",
+          "url": "https://open.spotify.com/artist/1u8P9isPGHQEgA3q3EN9x0"
         }
       ],
-      "duration_ms": 127068,
-      "name": "Sar\u00e0 Perch\u00e9 Ti Amo - Milan TikTok Edit",
-      "url": "https://open.spotify.com/track/1gUJr0yBhHH3gGBoLkUNa2"
+      "duration_ms": 204884,
+      "name": "PRINCEZN\u00c1",
+      "url": "https://open.spotify.com/track/3PPNM0uQfUTJkiyAYf91nf"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
       "album": {
-        "name": "\u041a\u0430\u043f\u0438\u0431\u0430\u0440\u0430 (Capybara)",
-        "url": "https://open.spotify.com/album/0Nrvx6G0Ldu1ilJqzeSINk"
+        "name": "Rover - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U"
       },
       "artists": [
         {
-          "name": "\u0421\u0442\u043e-\u041b\u0438\u0447\u043d\u044b\u0439 \u041e\u043d\u0430-\u041d\u0430\u0441",
-          "url": "https://open.spotify.com/artist/2gcrsPrJGDnAgpOJ0EkToD"
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
         }
       ],
-      "duration_ms": 124326,
-      "name": "\u041a\u0430\u043f\u0438\u0431\u0430\u0440\u0430 - Capybara",
-      "url": "https://open.spotify.com/track/4ppXYFIKT0GM6bGnxYk7qm"
+      "duration_ms": 174506,
+      "name": "Rover",
+      "url": "https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA"
     },
     {
-      "added_at": "2023-04-23 10:34:09",
+      "added_at": "2023-04-24 11:23:36",
       "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
+        "name": "Crazy Girls",
+        "url": "https://open.spotify.com/album/154oJT2twqCFdna5UI2MyE"
       },
       "artists": [
         {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+          "name": "TOOPOOR",
+          "url": "https://open.spotify.com/artist/2G9tNsytSp4gYKZxONzFw2"
         }
       ],
-      "duration_ms": 217103,
-      "name": "Mentalit\u00e9",
-      "url": "https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ"
+      "duration_ms": 194693,
+      "name": "Crazy Girls",
+      "url": "https://open.spotify.com/track/6cSDNYoWlMxzVfJLn6H301"
     }
   ],
   "unique_name": "Viral 50 - Slovakia",

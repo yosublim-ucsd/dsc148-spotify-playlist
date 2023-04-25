@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring HUGEL.
 
-538 songs - 1 day 9 hr 55 min
+539 songs - 1 day 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Everyone](https://open.spotify.com/track/1b27zUMtkjBkLpxtK77gR8) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Everyone](https://open.spotify.com/album/5r0RFbLJaZ1u7PLuL6Dk8C) | 3:06 | 2021-03-27\* | 2021-04-03 |
 | [Everything You Have Done \- Meduza Edit](https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Everything You Have Done \(Meduza Edit\)](https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe) | 2:36 | 2023-03-10 |  |
 | [Fantasy](https://open.spotify.com/track/4oIm6Nv85IWMOPv4Gq0EMN) | [Jamie Roy](https://open.spotify.com/artist/79ABJJGvLA87FSIayREkBM), [Huxley](https://open.spotify.com/artist/6fJvW51nWhRImJyos6O7sT), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa) | [Fantasy](https://open.spotify.com/album/1fEfDgrXuU5yjQ8gu87AXV) | 2:57 | 2021-12-31 | 2022-07-24 |
-| [Faster](https://open.spotify.com/track/2EZ27G58YiHySXVFR1R14I) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Faster](https://open.spotify.com/album/4cIrSFEwm1MVc53X9XdACU) | 3:00 | 2023-04-21 |  |
+| [Faster](https://open.spotify.com/track/2EZ27G58YiHySXVFR1R14I) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Faster](https://open.spotify.com/album/4cIrSFEwm1MVc53X9XdACU) | 3:00 | 2023-04-21 | 2023-04-25 |
 | [Feel It](https://open.spotify.com/track/2MhH5aAORsvCgl3E8aOC1q) | [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Feel It](https://open.spotify.com/album/0Xlrltos3265GCIltt7uXX) | 3:00 | 2022-05-27 | 2022-07-25 |
 | [Feel Something \- Sammy Porter Remix](https://open.spotify.com/track/5UdOQKxkT9n82dzNKU9p8q) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434), [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Feel Something \(Sammy Porter Remix\)](https://open.spotify.com/album/5KUcIRfXjAjZ2fEfFVJuth) | 2:53 | 2021-03-27\* | 2021-07-10 |
 | [Feel The Energy](https://open.spotify.com/track/1G4FRQ4zQRgewsYvJhT7Rn) | [Bexxie](https://open.spotify.com/artist/3lwq28uuT7bAqQ3shl4d9Q) | [Feel The Energy](https://open.spotify.com/album/6rIeif1b881a2mpzUKgOhD) | 3:31 | 2021-03-27\* | 2022-04-18 |
@@ -246,6 +246,7 @@
 | [It's Quiet Now \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/1mpD4bXO4r3xilu12Kaf5Q) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:02 | 2022-11-18 | 2023-02-28 |
 | [Its Time to Move](https://open.spotify.com/track/4qK9g7RGoHCUpfbGu3Mlf4) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Its Time to Move](https://open.spotify.com/album/0oj8l35AnHn2buWFdhFHJy) | 4:00 | 2021-10-01 | 2022-08-26 |
 | [I’ve Been Missing You](https://open.spotify.com/track/7tRNDdDcUQqrOPHfIIbzGd) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [I’ve Been Missing You](https://open.spotify.com/album/3Y614SkU3oFcKgfQmnzYCV) | 2:47 | 2021-07-25 | 2022-07-25 |
+| [Jacaré](https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Jacaré](https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO) | 2:36 | 2023-04-21 |  |
 | [Jack Machine](https://open.spotify.com/track/1239Sq2SqVR55dY3jrDMQx) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Jack Machine](https://open.spotify.com/album/3kVnyuakYWhlGwZHrmIBn3) | 3:07 | 2022-01-12 | 2022-07-27 |
 | [Just Can't Get Enough](https://open.spotify.com/track/2keTABWAcdVZxJ6j8iEy83) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Just Can't Get Enough](https://open.spotify.com/album/0WTqPH4Z8TiNoEaHHvgIic) | 5:03 | 2022-12-28 | 2023-01-06 |
 | [Just Feels Tight](https://open.spotify.com/track/2cegJfpyiaWXclqj5HRsZG) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Just Feels Tight](https://open.spotify.com/album/2Xz3H4wBkEFBNHqqxmw4nS) | 3:17 | 2022-05-27 | 2022-09-03 |

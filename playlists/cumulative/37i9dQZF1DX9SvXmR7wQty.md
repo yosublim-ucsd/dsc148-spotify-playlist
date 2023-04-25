@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Les Louanges
 
-1,810 songs - 4 day 1 hr 2 min
+1,811 songs - 4 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [911](https://open.spotify.com/track/0Kkq5NPjYbRiZTgLLuvHJk) | [Rainmen](https://open.spotify.com/artist/6jO6wTP1F8pJ6XEUBYTs7z), [JoEd D.R.É](https://open.spotify.com/artist/1LTgW2GsoAAY7QR13ERwPW) | [911](https://open.spotify.com/album/5sdTJvc8NJUNLeombJ6ubW) | 4:27 | 2022-01-07 | 2022-01-12 |
 | [???](https://open.spotify.com/track/1VypWHiTxUHNJKYNY6pY9n) | [Kimezaa](https://open.spotify.com/artist/3gpDegDcUdkEFX0EGWus2x) | [???](https://open.spotify.com/album/5JTdgcqhaTSvO8ez5fajhM) | 2:08 | 2021-12-31 | 2022-01-22 |
 | [\[PNJ\]](https://open.spotify.com/track/2y68STO1ZviqnmzAvZdakw) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [\[PNJ\]](https://open.spotify.com/album/4NDTCOPoN7PzH3lLRaMKlh) | 2:48 | 2022-07-15 | 2022-08-20 |
+| [A toi](https://open.spotify.com/track/1mbAF6RCv2HRseMBwg8L4f) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Love Therapy](https://open.spotify.com/album/5a5C4f2S7NvcMCdwQFqT48) | 3:19 | 2023-04-21 |  |
 | [Addictocrate](https://open.spotify.com/track/0KULVVQEKPVL2Ve4g4ri34) | [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [Addictocrate](https://open.spotify.com/album/508sRFnLjCW27sJsleXuOm) | 2:38 | 2023-04-21 |  |
 | [ADN](https://open.spotify.com/track/504lo1GKPdOLtmtQBsJBYl) | [Arielle](https://open.spotify.com/artist/1jkG4dauYj0YsLxU7CG9Ev) | [ADN](https://open.spotify.com/album/5LcAySeKPApMa4fgHRevGJ) | 3:13 | 2022-02-18 | 2022-03-05 |
 | [ADN](https://open.spotify.com/track/5uXJ37ol7W82PLhOkP1ieu) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD) | [ADN](https://open.spotify.com/album/6INAaVDM3kioiEmSLBczMe) | 2:55 | 2022-03-18 | 2022-04-02 |
@@ -723,7 +724,7 @@
 | [J'feel comme un alien](https://open.spotify.com/track/6oOyWBa06ARH3ZJzc1zpXH) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [J'feel comme un alien](https://open.spotify.com/album/4OzduJKDnt1Qga83stwXOK) | 3:39 | 2022-03-04 | 2022-03-18 |
 | [J'm'en vais pas](https://open.spotify.com/track/4KygMGienAIklIsqhJEwC5) | [Joyce Jonathan](https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE), [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [J'm'en vais pas](https://open.spotify.com/album/0KfY9tcL4CEK9ZZroTyPkR) | 3:37 | 2022-02-18 | 2022-02-26 |
 | [J'me rappelle](https://open.spotify.com/track/32FaeGcON9ZCG58K0tJD0I) | [JuicemanSF](https://open.spotify.com/artist/7lmOPad5dsOfryNQB2sDay) | [J'me rappelle](https://open.spotify.com/album/1bllgFjRVWisFxAwfVQYno) | 2:28 | 2022-11-04 | 2022-11-19 |
-| [J'oublie](https://open.spotify.com/track/4zHqp3LEO1JwurpZeQQjfk) | [Vendou](https://open.spotify.com/artist/4Eh9gm2q4XSbk8YXLoEUjG) | [J'oublie](https://open.spotify.com/album/5Rs29NhGaTW10y7284ebls) | 2:47 | 2023-03-31 |  |
+| [J'oublie](https://open.spotify.com/track/4zHqp3LEO1JwurpZeQQjfk) | [Vendou](https://open.spotify.com/artist/4Eh9gm2q4XSbk8YXLoEUjG) | [J'oublie](https://open.spotify.com/album/5Rs29NhGaTW10y7284ebls) | 2:47 | 2023-03-31 | 2023-04-25 |
 | [J'oublie](https://open.spotify.com/track/47ZrpiH2Koy794jtcdPmHn) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [J'oublie](https://open.spotify.com/album/3cHfA8bgpYXok3XYIIaYb1) | 2:56 | 2023-04-21 |  |
 | [J'ouvre grand les bras](https://open.spotify.com/track/4YZ8NzrbDpnikq3hugP1H8) | [Steven Levac](https://open.spotify.com/artist/2syLDt6wmCcJUmtHdnency), [Elizabeth Blouin Brathwaite](https://open.spotify.com/artist/5zjibIW5PNKF9HIEXFv4Yw) | [J'ouvre grand les bras](https://open.spotify.com/album/1ifvrsVDKLyIP6s4yojkjX) | 3:20 | 2022-07-08 | 2022-07-23 |
 | [J'pas une star 3](https://open.spotify.com/track/1YiMxNMZzvIuaHj5YisHrk) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Salgrimo](https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE) | [J'pas une star 3](https://open.spotify.com/album/5UInEQJXXsunFahA3Xd9w6) | 3:05 | 2022-09-30 | 2022-10-15 |

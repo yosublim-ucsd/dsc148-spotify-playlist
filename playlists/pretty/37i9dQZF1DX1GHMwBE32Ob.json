@@ -1,12 +1,12 @@
 {
   "description": "The sounds keeping the streets of Nigeria on fire. \nCover: Bad boy Timz & Zlatan",
-  "num_followers": 6332,
+  "num_followers": 6408,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAzMTc3NSwwMDAwMDAwMDgwY2M5MWM4ZjE4ODgwM2I2NmNiNWE5NzVmOGU4MGZi",
+  "snapshot_id": "MTY4MjAzMTc3NSwwMDAwMDAwMDFhZTIzZmE2ZWY3NmNkY2QwZjYxNmM5MTM5ZjA5NmI0",
   "tracks": [
     {
       "added_at": "2023-04-20 23:02:55",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-04-20 23:02:55",
       "album": {
+        "name": "Peace Be Unto You (PBUY)",
+        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Peace Be Unto You (PBUY)",
+      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
+    },
+    {
+      "added_at": "2023-04-20 23:02:55",
+      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 209968,
       "name": "Different Size (feat. Victony)",
       "url": "https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6"
-    },
-    {
-      "added_at": "2023-04-20 23:02:55",
-      "album": {
-        "name": "Peace Be Unto You (PBUY)",
-        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Peace Be Unto You (PBUY)",
-      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
     },
     {
       "added_at": "2023-04-20 23:02:55",
@@ -371,18 +371,18 @@
     {
       "added_at": "2023-04-20 23:02:55",
       "album": {
-        "name": "Memory Card",
-        "url": "https://open.spotify.com/album/4Wk9EIBBsEviAPd7PdGYWI"
+        "name": "We Outside",
+        "url": "https://open.spotify.com/album/2OHCOJtdIppm9wawD4fVwe"
       },
       "artists": [
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         }
       ],
-      "duration_ms": 157962,
-      "name": "Para Boi",
-      "url": "https://open.spotify.com/track/7oDSvHJUY3NPdH9YKiCQwe"
+      "duration_ms": 155428,
+      "name": "We Outside",
+      "url": "https://open.spotify.com/track/73QcmfEnoLv3pKt0aXKdOG"
     },
     {
       "added_at": "2023-04-20 23:02:55",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-04-20 23:02:55",
       "album": {
+        "name": "Memory Card",
+        "url": "https://open.spotify.com/album/4Wk9EIBBsEviAPd7PdGYWI"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 157962,
+      "name": "Para Boi",
+      "url": "https://open.spotify.com/track/7oDSvHJUY3NPdH9YKiCQwe"
+    },
+    {
+      "added_at": "2023-04-20 23:02:55",
+      "album": {
         "name": "Terminator",
         "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 155897,
       "name": "Terminator",
       "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
-    },
-    {
-      "added_at": "2023-04-20 23:02:55",
-      "album": {
-        "name": "We Outside",
-        "url": "https://open.spotify.com/album/2OHCOJtdIppm9wawD4fVwe"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 155428,
-      "name": "We Outside",
-      "url": "https://open.spotify.com/track/73QcmfEnoLv3pKt0aXKdOG"
     },
     {
       "added_at": "2023-04-20 23:02:55",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-04-20 23:02:55",
       "album": {
+        "name": "On Fire (From 'Gangs of Lagos')",
+        "url": "https://open.spotify.com/album/1H7A3Jo78llpDiDAuYKkQS"
+      },
+      "artists": [
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 160746,
+      "name": "On Fire (From 'Gangs of Lagos')",
+      "url": "https://open.spotify.com/track/5Y06JkdP9jp68nSQLfeu41"
+    },
+    {
+      "added_at": "2023-04-20 23:02:55",
+      "album": {
         "name": "Time (Remix)",
         "url": "https://open.spotify.com/album/1c2FeiwmSLO8prJnDg24Z1"
       },
@@ -611,18 +627,18 @@
     {
       "added_at": "2023-04-20 23:02:55",
       "album": {
-        "name": "On Fire (From 'Gangs of Lagos')",
-        "url": "https://open.spotify.com/album/1H7A3Jo78llpDiDAuYKkQS"
+        "name": "New Born Fela",
+        "url": "https://open.spotify.com/album/0uN0RVYSdznI1vu1VvjgwB"
       },
       "artists": [
         {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 160746,
-      "name": "On Fire (From 'Gangs of Lagos')",
-      "url": "https://open.spotify.com/track/5Y06JkdP9jp68nSQLfeu41"
+      "duration_ms": 129807,
+      "name": "New Born Fela",
+      "url": "https://open.spotify.com/track/3yifENCc2SkxVfpfnuCwas"
     },
     {
       "added_at": "2023-04-20 23:02:55",
@@ -659,22 +675,6 @@
     {
       "added_at": "2023-04-20 23:02:55",
       "album": {
-        "name": "No Advise Me",
-        "url": "https://open.spotify.com/album/1DVKvXIvBqaIIuPQxy1qkK"
-      },
-      "artists": [
-        {
-          "name": "Orezi",
-          "url": "https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD"
-        }
-      ],
-      "duration_ms": 178661,
-      "name": "No Advise Me",
-      "url": "https://open.spotify.com/track/563TepXA7x9GT17SHlSBMW"
-    },
-    {
-      "added_at": "2023-04-20 23:02:55",
-      "album": {
         "name": "Feel Better",
         "url": "https://open.spotify.com/album/1ew7HYS9GyX2klze1hoKFL"
       },
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-04-20 23:02:55",
       "album": {
+        "name": "No Advise Me",
+        "url": "https://open.spotify.com/album/1DVKvXIvBqaIIuPQxy1qkK"
+      },
+      "artists": [
+        {
+          "name": "Orezi",
+          "url": "https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD"
+        }
+      ],
+      "duration_ms": 178661,
+      "name": "No Advise Me",
+      "url": "https://open.spotify.com/track/563TepXA7x9GT17SHlSBMW"
+    },
+    {
+      "added_at": "2023-04-20 23:02:55",
+      "album": {
         "name": "Caution (Remix)",
         "url": "https://open.spotify.com/album/7nbqUtDbv8SvVWmwN2Pqig"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 146951,
       "name": "Caution (Remix)",
       "url": "https://open.spotify.com/track/0SO4p98PikYlEcZKa6YXv9"
-    },
-    {
-      "added_at": "2023-04-20 23:02:55",
-      "album": {
-        "name": "New Born Fela",
-        "url": "https://open.spotify.com/album/0uN0RVYSdznI1vu1VvjgwB"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 129807,
-      "name": "New Born Fela",
-      "url": "https://open.spotify.com/track/3yifENCc2SkxVfpfnuCwas"
     },
     {
       "added_at": "2023-04-20 23:02:55",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: VIC MENSA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,258 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,292 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 28 | [I'm Geekin](https://open.spotify.com/track/4jQF77FelHaw2u1CB0sIfp) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [I'm Geekin](https://open.spotify.com/album/4tgQ15beC7oqscFBlSJWfo) | 1:41 |
 | 29 | [Chrome Hearted \(feat\. Tyga\)](https://open.spotify.com/track/7xNgrfKL4Ih82SbJIU9S1q) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Chrome Hearted \(feat\. Tyga\)](https://open.spotify.com/album/5vrfdCvUGoxtqXBeGnY5qQ) | 2:33 |
 | 30 | [Duffle Bag Boy](https://open.spotify.com/track/54qYFtMYRIRYhnA6VjJhWY) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Duffle Bag Boy](https://open.spotify.com/album/2b3V2DChk8PotFyjeWJA4J) | 2:55 |
-| 31 | [Location](https://open.spotify.com/track/1elcu8IXCUBRUYObThbyZU) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [ALPHA](https://open.spotify.com/album/4iLm0b2BMkkeVLhcMgLij0) | 2:55 |
+| 31 | [Location](https://open.spotify.com/track/1elcu8IXCUBRUYObThbyZU) | [Noizy](https://open.spotify.com/artist/4A0V8wrSmivwhA6DAeQxqP), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [ALPHA](https://open.spotify.com/album/4iLm0b2BMkkeVLhcMgLij0) | 2:55 |
 | 32 | [SWEET](https://open.spotify.com/track/6uXqSveySAsOe4WptrKUbi) | [APB](https://open.spotify.com/artist/3vUy9wmklGDZ5r2sEPk7N8) | [SWEET](https://open.spotify.com/album/1KENqXH4vW5il6jproVU6O) | 2:36 |
 | 33 | [LTW](https://open.spotify.com/track/5Z6THsfkXDJRvcBCEHonHs) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [LTW](https://open.spotify.com/album/7eGd8NyvAe5DUjUjTU20JM) | 3:02 |
 | 34 | [Love Me Better](https://open.spotify.com/track/6MmXaaySSEC7pvfutqiA5F) | [Eric Reprid](https://open.spotify.com/artist/1f2Bnuuv7FxEx2x8iiEBzR) | [Love Me Better](https://open.spotify.com/album/7m246GiCLYhNhngFGCqtsB) | 2:11 |

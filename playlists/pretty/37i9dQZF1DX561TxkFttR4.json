@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 330385,
+  "num_followers": 330424,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY4MTE5MywwMDAwMDAwMGY0ZGEwZjg4YTU1OGY4ZDBkNDgzZGJjOTQxNjlhZGUw",
+  "snapshot_id": "MTY2MzY4MTE5MywwMDAwMDAwMDkwMzMzNmVhMTRhYWI2N2Q3ODU2NmQzYTBhYzI5NGY2",
   "tracks": [
     {
       "added_at": "2022-09-20 13:39:53",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Nocturnal",
-        "url": "https://open.spotify.com/album/2gnADpRKbG8Jq0Vc5ikLKK"
-      },
-      "artists": [
-        {
-          "name": "Joep Beving",
-          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
-        }
-      ],
-      "duration_ms": 312757,
-      "name": "Nocturnal",
-      "url": "https://open.spotify.com/track/7BpDcPsVqfMgHdVglLK3Kt"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Fluttering",
         "url": "https://open.spotify.com/album/3C7JHTWGeiIymEVt17hRYK"
       },
@@ -435,6 +419,22 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/4Zyls7QoH17wKZlR26b3gY"
+      },
+      "artists": [
+        {
+          "name": "Gianluca Piacenza",
+          "url": "https://open.spotify.com/artist/7qEuC0mCSgDPFzQQPp8RcS"
+        }
+      ],
+      "duration_ms": 254528,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/1rtXR0fCnRVp27uFmckZJK"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "Lionheart",
         "url": "https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX"
       },
@@ -451,18 +451,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Floating",
-        "url": "https://open.spotify.com/album/4Zyls7QoH17wKZlR26b3gY"
+        "name": "Nocturnal",
+        "url": "https://open.spotify.com/album/2gnADpRKbG8Jq0Vc5ikLKK"
       },
       "artists": [
         {
-          "name": "Gianluca Piacenza",
-          "url": "https://open.spotify.com/artist/7qEuC0mCSgDPFzQQPp8RcS"
+          "name": "Joep Beving",
+          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
         }
       ],
-      "duration_ms": 254528,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/1rtXR0fCnRVp27uFmckZJK"
+      "duration_ms": 312757,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/7BpDcPsVqfMgHdVglLK3Kt"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Veluwe Suite",
-        "url": "https://open.spotify.com/album/6tI8scAMHf4Gicv6LWliBB"
-      },
-      "artists": [
-        {
-          "name": "Matteo Myderwyk",
-          "url": "https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Tristes",
-      "url": "https://open.spotify.com/track/3mhJ85EkR5J6pf7F4lP4DU"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Young Alaska",
         "url": "https://open.spotify.com/album/6CCR2hae4UBgora5YA4oOy"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 102034,
       "name": "Alpine Sketch",
       "url": "https://open.spotify.com/track/205J10EOIrtKquOpkR1goj"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Veluwe Suite",
+        "url": "https://open.spotify.com/album/6tI8scAMHf4Gicv6LWliBB"
+      },
+      "artists": [
+        {
+          "name": "Matteo Myderwyk",
+          "url": "https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Tristes",
+      "url": "https://open.spotify.com/track/3mhJ85EkR5J6pf7F4lP4DU"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "Correlations (on 11 pianos)",
+        "url": "https://open.spotify.com/album/27ghrrRiIzYGcnuP86MTdO"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cipa",
+          "url": "https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO"
+        }
+      ],
+      "duration_ms": 273600,
+      "name": "I wanted you to know (on Yamaha Upright, 1981)",
+      "url": "https://open.spotify.com/track/3VhKqW9j29B7IloNSeyHCB"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "Hour Glass",
         "url": "https://open.spotify.com/album/7om9KUlSTFqdUeQfO9Rm4P"
       },
@@ -711,18 +727,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Correlations (on 11 pianos)",
-        "url": "https://open.spotify.com/album/27ghrrRiIzYGcnuP86MTdO"
+        "name": "Fractal",
+        "url": "https://open.spotify.com/album/2cpXYJpQaWwsLKbcDtAJis"
       },
       "artists": [
         {
-          "name": "Carlos Cipa",
-          "url": "https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO"
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
         }
       ],
-      "duration_ms": 273600,
-      "name": "I wanted you to know (on Yamaha Upright, 1981)",
-      "url": "https://open.spotify.com/track/3VhKqW9j29B7IloNSeyHCB"
+      "duration_ms": 191114,
+      "name": "Fractal",
+      "url": "https://open.spotify.com/track/16HiHZl6SX3EY7ULWnCWvy"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -787,22 +803,6 @@
       "duration_ms": 140000,
       "name": "Leaves and Light",
       "url": "https://open.spotify.com/track/4mMUP5bUF4hHT3NKYU3cBC"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "Fractal",
-        "url": "https://open.spotify.com/album/2cpXYJpQaWwsLKbcDtAJis"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 191114,
-      "name": "Fractal",
-      "url": "https://open.spotify.com/track/16HiHZl6SX3EY7ULWnCWvy"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 141750,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "Collage",
         "url": "https://open.spotify.com/album/1mBThT4Q1wQFs6heMlHVyW"
       },
@@ -915,6 +931,22 @@
       "duration_ms": 175546,
       "name": "New Moon",
       "url": "https://open.spotify.com/track/0qRkkkqgsdebj5x62MV7uA"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "The Lost",
+        "url": "https://open.spotify.com/album/7kC6WXiBzA4Itfbzy9PmkT"
+      },
+      "artists": [
+        {
+          "name": "Otto A. Totland",
+          "url": "https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl"
+        }
+      ],
+      "duration_ms": 207053,
+      "name": "Anona",
+      "url": "https://open.spotify.com/track/44rpvXgWhgUWmLUH12Nu58"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -967,34 +999,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo"
+        "name": "Sleepwalk",
+        "url": "https://open.spotify.com/album/3FsV1IdXbwJ5JRMV0Ujron"
       },
       "artists": [
         {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+          "name": "Ben Laver",
+          "url": "https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0"
         }
       ],
-      "duration_ms": 141750,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "The Lost",
-        "url": "https://open.spotify.com/album/7kC6WXiBzA4Itfbzy9PmkT"
-      },
-      "artists": [
-        {
-          "name": "Otto A. Totland",
-          "url": "https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl"
-        }
-      ],
-      "duration_ms": 207053,
-      "name": "Anona",
-      "url": "https://open.spotify.com/track/44rpvXgWhgUWmLUH12Nu58"
+      "duration_ms": 234545,
+      "name": "Sleepwalk",
+      "url": "https://open.spotify.com/track/7hvkGZ6j1NyqNp50G6CyQI"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Sleepwalk",
-        "url": "https://open.spotify.com/album/3FsV1IdXbwJ5JRMV0Ujron"
-      },
-      "artists": [
-        {
-          "name": "Ben Laver",
-          "url": "https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0"
-        }
-      ],
-      "duration_ms": 234545,
-      "name": "Sleepwalk",
-      "url": "https://open.spotify.com/track/7hvkGZ6j1NyqNp50G6CyQI"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Sand and Stars",
         "url": "https://open.spotify.com/album/6gdHgdmbmulzODzpyQIgdJ"
       },
@@ -1047,38 +1047,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "The Shards",
-        "url": "https://open.spotify.com/album/03BpIW5jrJHM22HtSfT8fR"
+        "name": "River Path",
+        "url": "https://open.spotify.com/album/7i1G45QnheqqmKcMr3cjx9"
       },
       "artists": [
         {
-          "name": "Hiroko Murakami",
-          "url": "https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13"
-        },
-        {
-          "name": "Hiroco.M",
-          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
         }
       ],
-      "duration_ms": 138890,
-      "name": "The Shards",
-      "url": "https://open.spotify.com/track/0i8DeqqBpv2tfHNNQN3n9x"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "Echoes In The Valley",
-        "url": "https://open.spotify.com/album/7J4IGBexnwLgplDpLdCKYS"
-      },
-      "artists": [
-        {
-          "name": "Sophie Hutchings",
-          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
-        }
-      ],
-      "duration_ms": 202288,
-      "name": "Billow Gently",
-      "url": "https://open.spotify.com/track/4PnYYqdB5CasOKBFm02CAe"
+      "duration_ms": 209102,
+      "name": "Silent Dusk",
+      "url": "https://open.spotify.com/track/46ItAoGhLpaEA1vWNEJtOn"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1099,18 +1079,38 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "River Path",
-        "url": "https://open.spotify.com/album/7i1G45QnheqqmKcMr3cjx9"
+        "name": "Echoes In The Valley",
+        "url": "https://open.spotify.com/album/7J4IGBexnwLgplDpLdCKYS"
       },
       "artists": [
         {
-          "name": "Olivia Belli",
-          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+          "name": "Sophie Hutchings",
+          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
         }
       ],
-      "duration_ms": 209102,
-      "name": "Silent Dusk",
-      "url": "https://open.spotify.com/track/46ItAoGhLpaEA1vWNEJtOn"
+      "duration_ms": 202288,
+      "name": "Billow Gently",
+      "url": "https://open.spotify.com/track/4PnYYqdB5CasOKBFm02CAe"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "The Shards",
+        "url": "https://open.spotify.com/album/03BpIW5jrJHM22HtSfT8fR"
+      },
+      "artists": [
+        {
+          "name": "Hiroko Murakami",
+          "url": "https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13"
+        },
+        {
+          "name": "Hiroco.M",
+          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
+        }
+      ],
+      "duration_ms": 138890,
+      "name": "The Shards",
+      "url": "https://open.spotify.com/track/0i8DeqqBpv2tfHNNQN3n9x"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "An Evening Scene",
+        "url": "https://open.spotify.com/album/6qDYuLFEzlrUmcu5xm492a"
+      },
+      "artists": [
+        {
+          "name": "Comet Blue",
+          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
+        }
+      ],
+      "duration_ms": 144625,
+      "name": "An Evening Scene",
+      "url": "https://open.spotify.com/track/276HXUxlxWcRkavtERQpru"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "The Void (I Play Mine version)",
         "url": "https://open.spotify.com/album/7LCQ4cTCG4CZNKYNFr7Orc"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 130084,
       "name": "Stay Longer",
       "url": "https://open.spotify.com/track/4G6goSnfAiLNF59fc4Z6bU"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "An Evening Scene",
-        "url": "https://open.spotify.com/album/6qDYuLFEzlrUmcu5xm492a"
-      },
-      "artists": [
-        {
-          "name": "Comet Blue",
-          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
-        }
-      ],
-      "duration_ms": 144625,
-      "name": "An Evening Scene",
-      "url": "https://open.spotify.com/track/276HXUxlxWcRkavtERQpru"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Octaves",
-        "url": "https://open.spotify.com/album/1ZoBBGpluc4FcCJOakU0Ir"
+        "name": "A Cloud Passed",
+        "url": "https://open.spotify.com/album/7gYv4XTS4bIBw6c9z91v07"
       },
       "artists": [
         {
-          "name": "Ali Toygar",
-          "url": "https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H"
+          "name": "Polly Carter",
+          "url": "https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp"
         }
       ],
-      "duration_ms": 132500,
-      "name": "Octaves",
-      "url": "https://open.spotify.com/track/1F54dSc1rx5kHpMGu3XM9i"
+      "duration_ms": 136078,
+      "name": "A Cloud Passed",
+      "url": "https://open.spotify.com/track/6l6cLvP0ACfjEzu343bWfa"
     }
   ],
   "unique_name": "Soft Piano",

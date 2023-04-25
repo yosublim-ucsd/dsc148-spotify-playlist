@@ -924,10 +924,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 2410000,
       "name": "Cascade",
       "url": "https://open.spotify.com/track/2VnPkphYiqLB32kmabgYJ2"
+    },
+    {
+      "album": {
+        "name": "Cascade",
+        "url": "https://open.spotify.com/album/6Sw6GOVJSdtzmiPAsa6UW6"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2410000,
+      "name": "Cascade",
+      "url": "https://open.spotify.com/track/5EGKTzoHFRyqZc37eOhqFX"
     },
     {
       "album": {

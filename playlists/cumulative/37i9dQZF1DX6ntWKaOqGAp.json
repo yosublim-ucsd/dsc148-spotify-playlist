@@ -5038,7 +5038,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 185945,
       "name": "\u30ea\u30f3\u30b8\u30e5\u30fc\u30fb\u30e9\u30f4",
       "url": "https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX"
@@ -5334,6 +5334,24 @@
       "duration_ms": 224164,
       "name": "\u541b\u3068\u30b5\u30de\u30fc",
       "url": "https://open.spotify.com/track/0oBklBMSGZq8DAMoPkA9j5"
+    },
+    {
+      "album": {
+        "name": "\u604b\u3092\u77e5\u3063\u3066\u3044\u308b\u3059\u3079\u3066\u306e\u3042\u306a\u305f\u3078",
+        "url": "https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd"
+      },
+      "artists": [
+        {
+          "name": "SHISHAMO",
+          "url": "https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216646,
+      "name": "\u541b\u306e\u76ee\u3082\u9f3b\u3082\u53e3\u3082\u984e\u3082\u7709\u3082\u5bdd\u3066\u3082\u899a\u3081\u3066\u3082\u8d85\u7d20\u6575!!!",
+      "url": "https://open.spotify.com/track/6Ovj4KMDE0X326qnynqQSO"
     },
     {
       "album": {
@@ -5662,6 +5680,24 @@
       "duration_ms": 252026,
       "name": "\u611b\u306e\u592a\u967d",
       "url": "https://open.spotify.com/track/0zachxUjDCMi59m1RGjOqT"
+    },
+    {
+      "album": {
+        "name": "\u611b\u306e\u6ce2",
+        "url": "https://open.spotify.com/album/2mBNWnAlpgGhAOeNlbZXRu"
+      },
+      "artists": [
+        {
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223263,
+      "name": "\u611b\u306e\u6ce2",
+      "url": "https://open.spotify.com/track/2pitZk9jjMrkHVHgtEyx12"
     },
     {
       "album": {
@@ -6376,7 +6412,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 245813,
       "name": "\u9006\u5149",
       "url": "https://open.spotify.com/track/2skO0TsEvWhvcyFZMecHiD"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: INNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,351 likes - 78 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 892,303 likes - 78 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,16 +43,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 33 | [JANAINDAYO](https://open.spotify.com/track/2Ee7RTET4ZrfKJl6gXZTup) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [JANAINDAYO](https://open.spotify.com/album/7zLiRSoGuRjO4d5Ebmkqy0) | 3:00 |
 | 34 | [De S’ Afino](https://open.spotify.com/track/6aAXN1sRhLiSOhUfJ7g2Gr) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw), [Daphne Lawrence](https://open.spotify.com/artist/2OJeL3ypFFDQfHb5oWiW6s) | [De S’ Afino](https://open.spotify.com/album/1maT0OfKtiyyUDdtIuu0i1) | 2:55 |
 | 35 | [難道我還未夠難](https://open.spotify.com/track/6LOP8nbFXFydvDELLs1uss) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [Never Too Late, My Path, Mi Way](https://open.spotify.com/album/3tXW0dL5F856wvxxZ1BYPA) | 4:20 |
-| 36 | [情歌沒說的事](https://open.spotify.com/track/2TcAhWtoD2raLezOYcsvxK) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [情歌沒說的事](https://open.spotify.com/album/5QxiBMd8YTI9XsYEaKofuY) | 3:54 |
-| 37 | [if i fall for you](https://open.spotify.com/track/1vtHdaq48zvFsHjYkn8R9a) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [if i fall for you](https://open.spotify.com/album/5ZmHCATrtaAL8awlrlxBZW) | 3:06 |
-| 38 | [Aye Khuda](https://open.spotify.com/track/7vIEXrKp0MXaGkiqJ8qVhx) | [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5), [Waqar Faiz](https://open.spotify.com/artist/5PQ8zLBUFXDtS67TwbDOlY), [Rushil](https://open.spotify.com/artist/1gHxomNGjRJHDAl7INHnxE) | [Aye Khuda](https://open.spotify.com/album/6cRFB01oyEXqAQCIH5qFos) | 9:04 |
+| 36 | [Aye Khuda](https://open.spotify.com/track/7vIEXrKp0MXaGkiqJ8qVhx) | [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5), [Waqar Faiz](https://open.spotify.com/artist/5PQ8zLBUFXDtS67TwbDOlY), [Rushil](https://open.spotify.com/artist/1gHxomNGjRJHDAl7INHnxE) | [Aye Khuda](https://open.spotify.com/album/6cRFB01oyEXqAQCIH5qFos) | 9:04 |
+| 37 | [情歌沒說的事](https://open.spotify.com/track/2TcAhWtoD2raLezOYcsvxK) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [情歌沒說的事](https://open.spotify.com/album/5QxiBMd8YTI9XsYEaKofuY) | 3:54 |
+| 38 | [if i fall for you](https://open.spotify.com/track/1vtHdaq48zvFsHjYkn8R9a) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [if i fall for you](https://open.spotify.com/album/5ZmHCATrtaAL8awlrlxBZW) | 3:06 |
 | 39 | [Batom](https://open.spotify.com/track/7L77rpmvDOZw735WrQ6lV2) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Batom](https://open.spotify.com/album/6w1tgURgujpFVofGsctRC7) | 3:32 |
-| 40 | [БЕЗ КОХАННЯ](https://open.spotify.com/track/6yTSdpaqc747hvfokBv8bS) | [KAZKA](https://open.spotify.com/artist/6tnqzaOroG2OtBaSfVJbEw) | [БЕЗ КОХАННЯ](https://open.spotify.com/album/1yVePWCyQCKLeAdKXNlYiV) | 3:00 |
-| 41 | [Told you so](https://open.spotify.com/track/0ghflGGfVvifD3szXw4LwO) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [IRONEYE](https://open.spotify.com/album/63EPS17zm5uUritHjGzs3C) | 4:49 |
-| 42 | [midnight rendezvous](https://open.spotify.com/track/6gVIrj4H3rmXYZnFXxtEl3) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY) | [midnight rendezvous](https://open.spotify.com/album/4XAi7fxJkMgdqS73Wjte5J) | 2:36 |
-| 43 | [Bebe](https://open.spotify.com/track/4cbbcvNAEwB1Mh6fvpFW0O) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Bebe](https://open.spotify.com/album/6VarZmpkqYXFYsO1NcWJX3) | 2:16 |
-| 44 | [La flor \- Mov.1: La Flor](https://open.spotify.com/track/4GJGDhm3mINXAghS4mkpjK) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [La flor \(Mov.1: La Flor\)](https://open.spotify.com/album/2Ngrngggmplmt5fVkqI1XT) | 3:20 |
-| 45 | [Shoreditch Road](https://open.spotify.com/track/1fXH9WeNGhc5xBAqQUp6e0) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Shoreditch Road](https://open.spotify.com/album/56jLPpU2ZIgVy9Caq5umUH) | 3:13 |
+| 40 | [Told you so](https://open.spotify.com/track/0ghflGGfVvifD3szXw4LwO) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [IRONEYE](https://open.spotify.com/album/63EPS17zm5uUritHjGzs3C) | 4:49 |
+| 41 | [БЕЗ КОХАННЯ](https://open.spotify.com/track/6yTSdpaqc747hvfokBv8bS) | [KAZKA](https://open.spotify.com/artist/6tnqzaOroG2OtBaSfVJbEw) | [БЕЗ КОХАННЯ](https://open.spotify.com/album/1yVePWCyQCKLeAdKXNlYiV) | 3:00 |
+| 42 | [Bebe](https://open.spotify.com/track/4cbbcvNAEwB1Mh6fvpFW0O) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Bebe](https://open.spotify.com/album/6VarZmpkqYXFYsO1NcWJX3) | 2:16 |
+| 43 | [midnight rendezvous](https://open.spotify.com/track/6gVIrj4H3rmXYZnFXxtEl3) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY) | [midnight rendezvous](https://open.spotify.com/album/4XAi7fxJkMgdqS73Wjte5J) | 2:36 |
+| 44 | [Shoreditch Road](https://open.spotify.com/track/1fXH9WeNGhc5xBAqQUp6e0) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Shoreditch Road](https://open.spotify.com/album/56jLPpU2ZIgVy9Caq5umUH) | 3:13 |
+| 45 | [La flor \- Mov.1: La Flor](https://open.spotify.com/track/4GJGDhm3mINXAghS4mkpjK) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [La flor \(Mov.1: La Flor\)](https://open.spotify.com/album/2Ngrngggmplmt5fVkqI1XT) | 3:20 |
 | 46 | [Tiba Tiba Hilang](https://open.spotify.com/track/1AvxW0tQF0SEaXNMiLe8aU) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Tiba Tiba Hilang](https://open.spotify.com/album/13peROZOrOtZVAXj31Szfq) | 4:25 |
 | 47 | [Ma che Hit](https://open.spotify.com/track/0UdDpDeyyidQZISEhEqAMH) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Ma che Hit](https://open.spotify.com/album/46ei2Xa6C9yAOrnmKDRdOA) | 2:18 |
 | 48 | [Can't Control](https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [Can't Control](https://open.spotify.com/album/7nez9h7CDSZtWNVyAuC8Co) | 2:57 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 67 | [Navego](https://open.spotify.com/track/5ADyMWZM9dBKvRjCrfbu7j) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Kinesis](https://open.spotify.com/album/5NmANPMiXncyAwoNXOW9tK) | 3:19 |
 | 68 | [VATA](https://open.spotify.com/track/6psGi1f5EAL8S7zaF6nEtK) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [VATA](https://open.spotify.com/album/0UVLp3xutGE0aQcAlbnmJ6) | 1:36 |
 | 69 | [IBTC](https://open.spotify.com/track/7BokHWSjR5wKAcytz1y6S4) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [Malibu Babie SZN: Vol I](https://open.spotify.com/album/0baOUkjYE0kLhwWaGwdu78) | 2:23 |
-| 70 | [Forest song \- Original Soundtrack «Mavka\. The Forest Song](https://open.spotify.com/track/1D0yDJG72EFzFsbPrINzXG) | [Khrystyna Soloviy](https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa) | [Forest song \(Original Soundtrack «Mavka\. The Forest Song\)](https://open.spotify.com/album/5apkXbTZXtKz6uIBRXUv8Q) | 3:36 |
-| 71 | [ground zero](https://open.spotify.com/track/4BKGOLRScQzCal1o6A9XAL) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [space](https://open.spotify.com/album/7ygO9kMeqjmADYqdy7ZH3k) | 2:43 |
+| 70 | [ground zero](https://open.spotify.com/track/4BKGOLRScQzCal1o6A9XAL) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [space](https://open.spotify.com/album/7ygO9kMeqjmADYqdy7ZH3k) | 2:43 |
+| 71 | [Forest song \- Original Soundtrack «Mavka\. The Forest Song](https://open.spotify.com/track/1D0yDJG72EFzFsbPrINzXG) | [Khrystyna Soloviy](https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa) | [Forest song \(Original Soundtrack «Mavka\. The Forest Song\)](https://open.spotify.com/album/5apkXbTZXtKz6uIBRXUv8Q) | 3:36 |
 | 72 | [FORA](https://open.spotify.com/track/1K2QN3HUjNDncM7cCGPvQ1) | [701](https://open.spotify.com/artist/00ITn8oTHWAJMGySvynsYg) | [FORA](https://open.spotify.com/album/65nSzTeTqWTp5sCdQFxyp9) | 3:38 |
 | 73 | [Hideaway](https://open.spotify.com/track/1vQcBRfHtlbPVUX1ryKGOe) | [Flanger Kids](https://open.spotify.com/artist/0Z6OJHkHFz4JiwDHaCzhE9) | [Hideaway](https://open.spotify.com/album/02sp2Yv1DgShVmdjNJDw8T) | 3:46 |
 | 74 | [OLE](https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [OLE](https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy) | 2:31 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 77 | [Kalaam \- Part 1](https://open.spotify.com/track/6NCfirHVuWhQMmAzOoLzl7) | [Mehak Ali](https://open.spotify.com/artist/6XnTAfn0rCJ6hrABktaOIW) | [Saif Ul Malook](https://open.spotify.com/album/3V05xjwa9iNewopfpIO1sY) | 5:44 |
 | 78 | [Bendición](https://open.spotify.com/track/05LC7bVfkMrW6Ojx59DJmI) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [Bendición](https://open.spotify.com/album/73b0Kk4U4s0YEYPLZZrFz9) | 2:01 |
 
-Snapshot ID: `MTY4MTQ3NDMxNiwwMDAwMDAwMGQ5OTJhYjVjY2QzNTk5NzJmMjY0Y2VkNDRlMDAzMzVk`
+Snapshot ID: `MTY4MTQ3NDMxNiwwMDAwMDAwMDFiMmIzYjI0MDJhNjQ2NDlhN2NiMDg0YzI1NDJhZDhl`

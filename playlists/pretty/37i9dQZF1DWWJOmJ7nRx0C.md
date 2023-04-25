@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,321 likes - 151 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,442 likes - 151 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,7 +132,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 122 | [The Credits](https://open.spotify.com/track/7LeRrm1Cg4yCLe3YtrxC3n) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [The Credits](https://open.spotify.com/album/6bKpBgTWnZAfSMS7Whj1qu) | 3:04 |
 | 123 | [Agony](https://open.spotify.com/track/6TwbNA8sNXsKm2qXTs5Ogl) | [Silent Theory](https://open.spotify.com/artist/5BKEV71K0K8ZhTbNRVRAXR) | [Agony](https://open.spotify.com/album/3OvGPAhN9ZgJK0l7G23WXT) | 3:20 |
 | 124 | [Deny the Sun](https://open.spotify.com/track/4imE4U6GmWCOzaWV6r7haj) | [Black Orchid Empire](https://open.spotify.com/artist/4TrfxRxjCvOFprX1W2V8k1) | [Deny the Sun](https://open.spotify.com/album/1DmFgV1PER3DY0cfV4PKf0) | 3:14 |
-| 125 | [It Hurts](https://open.spotify.com/track/4pQmwpx6EUeoBJRMUKooMs) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [It Hurts](https://open.spotify.com/album/0UztMLoY6Ebqv9rCmZwghR) | 3:18 |
+| 125 | [It Hurts](https://open.spotify.com/track/04Z1dVhKypUiZQdMJZsC2r) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [A Kiss for the Whole World](https://open.spotify.com/album/5bTSXCOLlIH6gsOvuI3PCI) | 3:18 |
 | 126 | [Prizefighter](https://open.spotify.com/track/5GFoRsCqAO4876A4DlsFji) | [Blame My Youth](https://open.spotify.com/artist/48sKVtcDwCMxPbqCzAQMbP) | [Prizefighter](https://open.spotify.com/album/1dygXa6o4gec6P1yDKkxFy) | 3:08 |
 | 127 | [Antidote](https://open.spotify.com/track/0Rrf0IzuiJzthkbjvwCnhm) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Antidote](https://open.spotify.com/album/4HiUvBkIhOpAl9Td6OVYzB) | 3:28 |
 | 128 | [By The Sound](https://open.spotify.com/track/7fUyorTZHGV2Nv7y6kU2b2) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [By The Sound](https://open.spotify.com/album/5OdLYsLViZQUxq1KkOYioq) | 3:42 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 150 | [One More Day](https://open.spotify.com/track/4x9A6Ymy2u6FfoE4ba4iP3) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Darkbloom](https://open.spotify.com/album/15q7078X1sRf9ivhEnv1tm) | 4:28 |
 | 151 | [CHOKE \(with grandson & Zero 9:36\)](https://open.spotify.com/track/3AV8nyFN5AgejU5DZI9wKl) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [CHOKE](https://open.spotify.com/album/6AovsGSkC91dKnj7rXeK0z) | 2:40 |
 
-Snapshot ID: `MTY4MjA5MTExMSwwMDAwMDAwMGE1MWMzZjRmNTI3OGRhYWM0MjEzYTY0NTJhNjg2MGQ0`
+Snapshot ID: `MTY4MjA5MTExMSwwMDAwMDAwMGFlYTExMzFmZmUxYzE3YTNjMDc4YWFjMDA1N2Y1YjVl`

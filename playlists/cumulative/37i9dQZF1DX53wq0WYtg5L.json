@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Lo Mejor De La M\u00fasica Mexicana",
+        "url": "https://open.spotify.com/album/35XRyDZl5xoWF0wVNQ5VeL"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167106,
+      "name": "All\u00e1 En El Rancho Grande",
+      "url": "https://open.spotify.com/track/26LABlj8Jq3a0uKYnp2bf9"
+    },
+    {
+      "album": {
         "name": "Aires de Mexico",
         "url": "https://open.spotify.com/album/5fMXK7VoIGri38AtHiTzwi"
       },
@@ -124,7 +142,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 167836,
       "name": "All\u00e1 en el Rancho Grande",
       "url": "https://open.spotify.com/track/7zPgDdoFF6hEaryYF5nokL"
@@ -434,14 +452,14 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 221780,
       "name": "Cielito Lindo",
       "url": "https://open.spotify.com/track/0d3QIQcaCHdt9aJlRQlOpE"
     },
     {
       "album": {
-        "name": "Lo Mejor De La Musica Mexicana",
+        "name": "Lo Mejor De La M\u00fasica Mexicana",
         "url": "https://open.spotify.com/album/35XRyDZl5xoWF0wVNQ5VeL"
       },
       "artists": [
@@ -452,8 +470,8 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 221773,
+      "date_removed": null,
+      "duration_ms": 221780,
       "name": "Cielito Lindo",
       "url": "https://open.spotify.com/track/2GzOrRCr4yyz2DqcEqTdBS"
     },

@@ -2,7 +2,7 @@
 
 ### [coastal cowgirl](https://open.spotify.com/playlist/37i9dQZF1DX42rTd7wQPNO)
 
-> put a little yee haw in your laid back
+> put a little yee haw in your laid back\. Cover: Kacey Musgraves
 
 91 songs - 5 hr 38 min
 

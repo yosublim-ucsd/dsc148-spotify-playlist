@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Bryan Martin
 
-1,275 songs - 2 day 20 hr 16 min
+1,276 songs - 2 day 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -938,6 +938,7 @@
 | [She Had Me At Heads Carolina](https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype](https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa) | 3:26 | 2022-04-08 | 2022-05-07 |
 | [She Loves Jesus](https://open.spotify.com/track/6crnBVNhXq2aEi5ALEVc41) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [She Loves Jesus](https://open.spotify.com/album/4T6btzyWWrifniVKkTmZbs) | 4:00 | 2022-10-28 | 2023-02-04 |
 | [She's Getting Married](https://open.spotify.com/track/6k8MV5mJlfuXzJHUoL1xNA) | [Logan Michael](https://open.spotify.com/artist/3id1CBPBWkf8n5eeIM7q1y) | [She's Getting Married](https://open.spotify.com/album/68jaiDAjdS42v4FYbUqG5e) | 4:55 | 2021-12-31 | 2022-02-26 |
+| [She's Got Wings](https://open.spotify.com/track/0T55onEUiLPP9GJ4mCJngr) | [Dipper](https://open.spotify.com/artist/1FlF6uL7RBozryZZKSTOs5) | [She's Got Wings](https://open.spotify.com/album/6ytsoe46SEx2xuQKkb9dGT) | 3:26 | 2023-04-24 |  |
 | [She's In It](https://open.spotify.com/track/5WYxQicAZzjfkwanuiLyeK) | [Adam Sanders](https://open.spotify.com/artist/17ewtqMhsRUPRdhpYLzMxg) | [All Summer Long](https://open.spotify.com/album/2aYzDiAkLkXRkYIP0Q11Mx) | 3:03 | 2022-08-19 | 2022-09-24 |
 | [She's Looking Like I'm Lonely](https://open.spotify.com/track/6E824xMP2vW21XBaV6EuI0) | [Lance Carpenter](https://open.spotify.com/artist/7yaJ9uPFCrwNphKw2sIRmh) | [She's Looking Like I'm Lonely](https://open.spotify.com/album/3kNZNwuvOpa9DW1PcXisSW) | 3:14 | 2021-12-31 | 2022-01-22 |
 | [She's No Good for Me](https://open.spotify.com/track/4dmNC1afkVZKr5RfHkaj0E) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [She's No Good for Me](https://open.spotify.com/album/0guJBJw9wfICcXsEBgyHyu) | 3:25 | 2023-01-20 | 2023-02-11 |

@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-211 songs - 18 hr 43 min
+212 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Labyrinth](https://open.spotify.com/track/3XRZYdGyThxKYPucHpLvVA) | [4lienetic](https://open.spotify.com/artist/4lOwCvuSv7ickecVE7dUBk) | [Labyrinth](https://open.spotify.com/album/05tgMikykkZ6h0jFyaRxvC) | 3:32 | 2022-08-17 |  |
 | [Landing in the Dark](https://open.spotify.com/track/4b1KcrVXtUox5yDx23BSYw) | [Aaron Martin](https://open.spotify.com/artist/1AsoWIju9npgZobKqN159G), [Dag Rosenqvist](https://open.spotify.com/artist/48wweWXKBVt3B0FdyYNprj), [Jakob Lindhagen](https://open.spotify.com/artist/1UgNIzq9FgAThlcwjbcGgn), [Aaron Christopher Martin](https://open.spotify.com/artist/0oh68cP3B8p9ZOqyVNBlVY), [Dag Aron Alfred Rosenqvist](https://open.spotify.com/artist/13urvjjLLH24B23fXZ2amJ), [From The Mouth of The Sun](https://open.spotify.com/artist/6UpouK3jks1yWvXxjDFB5S) | [Landing in the Dark](https://open.spotify.com/album/5hikXXB7OtS3LS19ge7J6w) | 4:24 | 2022-01-21 |  |
 | [last time](https://open.spotify.com/track/1c4eT2nQhCukhfRWsd8fOV) | [DIONYSUS](https://open.spotify.com/artist/0wY3bZu4gHptNpoMZl4ihH) | [last time](https://open.spotify.com/album/0ewaDvd1m5npye68vUQCDM) | 2:34 | 2022-12-30 | 2023-04-09 |
+| [last time](https://open.spotify.com/track/6P6uoyD43u2XfzJsYtWyGO) | [DIONYSUS](https://open.spotify.com/artist/0wY3bZu4gHptNpoMZl4ihH) | [last time](https://open.spotify.com/album/03n7axv8aLuRsflUlMqE4C) | 2:34 | 2023-04-21 |  |
 | [Leaving Nattskift](https://open.spotify.com/track/0kpPb7E08uKTGFQjzKTyFg) | [Bartosz Szpak](https://open.spotify.com/artist/3a6MfcEwx638aoFeTF0UXI) | [Nattskift](https://open.spotify.com/album/5Sh14wuTdjRjC3yFXgJidy) | 2:21 | 2022-01-28 |  |
 | [Left On The Ice](https://open.spotify.com/track/2DhxltKaXEnhvKvCMyw4Xi) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [The North Water \(Original Score\)](https://open.spotify.com/album/1X5zkSYbZkIgmmJkMklgCh) | 3:53 | 2022-01-21 | 2022-07-28 |
 | [Little One](https://open.spotify.com/track/4ZWOPkS0VXZ00g4ZLxiHO6) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Feelings](https://open.spotify.com/album/7bpTt6OXLkmtTJm51VxtYw) | 2:22 | 2022-01-28 |  |
@@ -123,7 +124,7 @@
 | [Mälardynen](https://open.spotify.com/track/386aGHpZXtzvSMGy3gFqkX) | [Linus Hillborg](https://open.spotify.com/artist/1jrzKVTQrPyFMTH6uEUhZS) | [Magelungsverket](https://open.spotify.com/album/5nup9Yq25vKalN4aMOA2Bs) | 4:39 | 2022-01-21 | 2022-07-29 |
 | [nibiru](https://open.spotify.com/track/4xnrbHfN3vwRhLBuLqO1OK) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur), [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf) | [nibiru](https://open.spotify.com/album/1aZruFKCFVcIFqmqqdQbvc) | 3:39 | 2022-07-22 |  |
 | [Night Walk](https://open.spotify.com/track/0FmRg5WRovLobLLeUiMXwo) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 4:43 | 2022-07-22 |  |
-| [Nighthawks \[Mixed\] \- Early Demo](https://open.spotify.com/track/4BdAYw8Hzi8qXjOBcxlgEn) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Brutal Five To One Mix V2](https://open.spotify.com/album/37S47FbvkHq8CyzuYo4SlZ) | 3:36 | 2022-08-05 |  |
+| [Nighthawks \[Mixed\] \- Early Demo](https://open.spotify.com/track/4BdAYw8Hzi8qXjOBcxlgEn) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Brutal Five To One Mix V2](https://open.spotify.com/album/37S47FbvkHq8CyzuYo4SlZ) | 3:36 | 2022-08-05 | 2023-04-25 |
 | [Norduris](https://open.spotify.com/track/4yrVOvpavSaPoD3MRRvx19) | [Wayai](https://open.spotify.com/artist/0xhgrV69CjEHK5pyK1iMAJ), [Johan Famaey](https://open.spotify.com/artist/3AxGH0DTPTiF54fxkXyjXV) | [Norduris](https://open.spotify.com/album/0ZE5abEJEESte7CMbOdnNR) | 4:11 | 2022-02-04 |  |
 | [North](https://open.spotify.com/track/2YaxyF5xjcqFTgUb62sEPa) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [132,480 minutes](https://open.spotify.com/album/5zI7lptQ8x8kskLatd47Hm) | 3:17 | 2022-01-21 |  |
 | [Northern Light](https://open.spotify.com/track/3sxJ6w5OL3fdu1vxRhlrCR) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Three](https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi) | 2:32 | 2022-01-21 | 2022-07-29 |

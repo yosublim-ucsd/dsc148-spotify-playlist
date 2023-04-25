@@ -1733,6 +1733,24 @@
     },
     {
       "album": {
+        "name": "last time",
+        "url": "https://open.spotify.com/album/03n7axv8aLuRsflUlMqE4C"
+      },
+      "artists": [
+        {
+          "name": "DIONYSUS",
+          "url": "https://open.spotify.com/artist/0wY3bZu4gHptNpoMZl4ihH"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154538,
+      "name": "last time",
+      "url": "https://open.spotify.com/track/6P6uoyD43u2XfzJsYtWyGO"
+    },
+    {
+      "album": {
         "name": "Nattskift",
         "url": "https://open.spotify.com/album/5Sh14wuTdjRjC3yFXgJidy"
       },
@@ -2214,7 +2232,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 216907,
       "name": "Nighthawks [Mixed] - Early Demo",
       "url": "https://open.spotify.com/track/4BdAYw8Hzi8qXjOBcxlgEn"

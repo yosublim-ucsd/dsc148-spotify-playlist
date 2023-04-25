@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 782,
+  "num_followers": 785,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIxMjMxNiwwMDAwMDAwMDQ4NDIxZTEzZWYyNDlmZmZmMTYxZjE5MGU3YmEzZTQ2",
+  "snapshot_id": "MTY2MDIxMjMxNiwwMDAwMDAwMDZlZjkwNWY5NDU5MzYwZmNhYjgyN2NkMmIwNmViYjQ2",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "S\u00e9paration (Zenfants perdi sim\u00e9)",
-        "url": "https://open.spotify.com/album/6kF1jWTjju83CRUsy8ITBY"
-      },
-      "artists": [
-        {
-          "name": "Cassiya",
-          "url": "https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo"
-        }
-      ],
-      "duration_ms": 306466,
-      "name": "R\u00e8ve nou anc\u00e8tre",
-      "url": "https://open.spotify.com/track/7CJjb2vLJSQPqUIEX1TpRV"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Roule a li m\u00eame",
         "url": "https://open.spotify.com/album/61HHyJnfDxcHjV2kuxNhWs"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 226853,
       "name": "Vilain mani\u00e8re",
       "url": "https://open.spotify.com/track/6tfUdpb4AMvQWUgo72qdZl"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "S\u00e9paration (Zenfants perdi sim\u00e9)",
+        "url": "https://open.spotify.com/album/6kF1jWTjju83CRUsy8ITBY"
+      },
+      "artists": [
+        {
+          "name": "Cassiya",
+          "url": "https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo"
+        }
+      ],
+      "duration_ms": 306466,
+      "name": "R\u00e8ve nou anc\u00e8tre",
+      "url": "https://open.spotify.com/track/7CJjb2vLJSQPqUIEX1TpRV"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -279,22 +279,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Les meilleurs s\u00e9gas de Jean-Claude (Folk Music of Mauritius Island)",
-        "url": "https://open.spotify.com/album/5PJ8ITlQfwJ7exo1QAPZSJ"
-      },
-      "artists": [
-        {
-          "name": "Jean-Claude",
-          "url": "https://open.spotify.com/artist/0UhmK26kiuevCeuvexjdp5"
-        }
-      ],
-      "duration_ms": 352360,
-      "name": "Dhobi de classe",
-      "url": "https://open.spotify.com/track/18D0UnZXdzRDDMgHvSdaJT"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "ZENFAN LAKAZ TOL",
         "url": "https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 252933,
       "name": "Ena Ennta Zetwal",
       "url": "https://open.spotify.com/track/7dMsbTGUUg06S0j75VdbQT"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Les meilleurs s\u00e9gas de Jean-Claude (Folk Music of Mauritius Island)",
+        "url": "https://open.spotify.com/album/5PJ8ITlQfwJ7exo1QAPZSJ"
+      },
+      "artists": [
+        {
+          "name": "Jean-Claude",
+          "url": "https://open.spotify.com/artist/0UhmK26kiuevCeuvexjdp5"
+        }
+      ],
+      "duration_ms": 352360,
+      "name": "Dhobi de classe",
+      "url": "https://open.spotify.com/track/18D0UnZXdzRDDMgHvSdaJT"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -459,6 +459,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Kol Kole",
+        "url": "https://open.spotify.com/album/2EATaR0fYEMr5NUVnZUbBN"
+      },
+      "artists": [
+        {
+          "name": "Jason Lejuste",
+          "url": "https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7"
+        }
+      ],
+      "duration_ms": 302576,
+      "name": "Eliana",
+      "url": "https://open.spotify.com/track/2gFGX4D713Lxdn7X5k7C6V"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Main dans la main",
         "url": "https://open.spotify.com/album/0lizQfOuuxUcmAXNlosdsv"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 304946,
       "name": "Vir\u00e9",
       "url": "https://open.spotify.com/track/20U9P7HP7tPzVMaqYjY0h3"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Kol Kole",
-        "url": "https://open.spotify.com/album/2EATaR0fYEMr5NUVnZUbBN"
-      },
-      "artists": [
-        {
-          "name": "Jason Lejuste",
-          "url": "https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7"
-        }
-      ],
-      "duration_ms": 302576,
-      "name": "Eliana",
-      "url": "https://open.spotify.com/track/2gFGX4D713Lxdn7X5k7C6V"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Sega Ar Pwa",
+        "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
+      },
+      "artists": [
+        {
+          "name": "Sky to Be",
+          "url": "https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch"
+        }
+      ],
+      "duration_ms": 287316,
+      "name": "Sega Ar Pwa",
+      "url": "https://open.spotify.com/track/2SS0rS7nObBiXaAv7iAoZ2"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Fiesta Ravanna",
         "url": "https://open.spotify.com/album/4YAnKxfxynLPWrv24FEBAJ"
       },
@@ -603,18 +619,18 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Sega Ar Pwa",
-        "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
+        "name": "La Route Karanbol",
+        "url": "https://open.spotify.com/album/1ndDvQAsYaUaDUcK7JSYJ6"
       },
       "artists": [
         {
-          "name": "Sky to Be",
-          "url": "https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch"
+          "name": "Jason Lejuste",
+          "url": "https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7"
         }
       ],
-      "duration_ms": 287316,
-      "name": "Sega Ar Pwa",
-      "url": "https://open.spotify.com/track/2SS0rS7nObBiXaAv7iAoZ2"
+      "duration_ms": 287711,
+      "name": "La Route Karanbol",
+      "url": "https://open.spotify.com/track/2jUcmHFWjsrwvOsvSAhzE2"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -659,38 +675,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "La Route Karanbol",
-        "url": "https://open.spotify.com/album/1ndDvQAsYaUaDUcK7JSYJ6"
-      },
-      "artists": [
-        {
-          "name": "Jason Lejuste",
-          "url": "https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7"
-        }
-      ],
-      "duration_ms": 287711,
-      "name": "La Route Karanbol",
-      "url": "https://open.spotify.com/track/2jUcmHFWjsrwvOsvSAhzE2"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Zalouzi",
-        "url": "https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK"
-      },
-      "artists": [
-        {
-          "name": "JSB Morning Game",
-          "url": "https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7"
-        }
-      ],
-      "duration_ms": 281917,
-      "name": "Madame ohh",
-      "url": "https://open.spotify.com/track/30i9vsQ8x5UPsGS4oRNPaf"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Eliza",
         "url": "https://open.spotify.com/album/5xUYCT6hrnMS2o2G6PUrOp"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 286275,
       "name": "Kitole",
       "url": "https://open.spotify.com/track/7iWQimkoqXZcrpINhfvjuZ"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Zalouzi",
+        "url": "https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK"
+      },
+      "artists": [
+        {
+          "name": "JSB Morning Game",
+          "url": "https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7"
+        }
+      ],
+      "duration_ms": 281917,
+      "name": "Madame ohh",
+      "url": "https://open.spotify.com/track/30i9vsQ8x5UPsGS4oRNPaf"
     },
     {
       "added_at": "2022-08-11 10:05:16",

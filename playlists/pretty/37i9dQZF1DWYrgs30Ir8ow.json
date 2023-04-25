@@ -1,12 +1,12 @@
 {
   "description": "Altijd fris in Fresh Hits. Cover: Turfy Gang, LA$$A",
-  "num_followers": 15087,
+  "num_followers": 15099,
   "original_name": "Fresh Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAyODE4OSwwMDAwMDAwMDAzNzIxYzM5MjU1MWZlYzc0ODJkOWZiMGYxN2NhNjEz",
+  "snapshot_id": "MTY4MjM2MTA4MCwwMDAwMDAwMDFhMmZjOWYxMGFlMTFhYzUzM2UxZDkwZjJjNmMwNWI0",
   "tracks": [
     {
       "added_at": "2023-04-20 22:03:09",
@@ -63,26 +63,34 @@
     {
       "added_at": "2023-04-20 22:03:09",
       "album": {
-        "name": "Doe Me Dansje",
-        "url": "https://open.spotify.com/album/2WsN1f9lwKcmJHO9VupsZa"
+        "name": "Ome Duo",
+        "url": "https://open.spotify.com/album/3Qen67cuyJkLyexFWpnQbJ"
       },
       "artists": [
         {
-          "name": "La Fuente",
-          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+          "name": "Trobi",
+          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
         },
         {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+          "name": "Chivv",
+          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
         },
         {
           "name": "Kraantje Pappie",
           "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        },
+        {
+          "name": "ADF Samski",
+          "url": "https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8"
+        },
+        {
+          "name": "Angela Groothuizen",
+          "url": "https://open.spotify.com/artist/0KnzYOfspdrPVyea7EZnnX"
         }
       ],
-      "duration_ms": 161300,
-      "name": "Doe Me Dansje",
-      "url": "https://open.spotify.com/track/79LE0asiuQOsZoe2Uwp898"
+      "duration_ms": 161698,
+      "name": "Ome Duo",
+      "url": "https://open.spotify.com/track/7EPNjzimfSsX4bsjQZwAIm"
     },
     {
       "added_at": "2023-04-20 22:03:09",
@@ -147,34 +155,26 @@
     {
       "added_at": "2023-04-20 22:03:09",
       "album": {
-        "name": "Ome Duo",
-        "url": "https://open.spotify.com/album/3Qen67cuyJkLyexFWpnQbJ"
+        "name": "Doe Me Dansje",
+        "url": "https://open.spotify.com/album/2WsN1f9lwKcmJHO9VupsZa"
       },
       "artists": [
         {
-          "name": "Trobi",
-          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
         },
         {
-          "name": "Chivv",
-          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
         },
         {
           "name": "Kraantje Pappie",
           "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
-        },
-        {
-          "name": "ADF Samski",
-          "url": "https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8"
-        },
-        {
-          "name": "Angela Groothuizen",
-          "url": "https://open.spotify.com/artist/0KnzYOfspdrPVyea7EZnnX"
         }
       ],
-      "duration_ms": 161698,
-      "name": "Ome Duo",
-      "url": "https://open.spotify.com/track/7EPNjzimfSsX4bsjQZwAIm"
+      "duration_ms": 161300,
+      "name": "Doe Me Dansje",
+      "url": "https://open.spotify.com/track/79LE0asiuQOsZoe2Uwp898"
     },
     {
       "added_at": "2023-04-20 22:03:09",

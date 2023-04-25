@@ -1,12 +1,12 @@
 {
   "description": "Immerse deeper into obscure alternate dimensions... \ud83e\udd87\ud83d\udd2e",
-  "num_followers": 2638,
+  "num_followers": 2642,
   "original_name": "Stranger Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyMTM0OCwwMDAwMDAwMGU5NTAxNjRkNDE0NThjODkxYjZkN2RjODRkY2Q4Y2U3",
+  "snapshot_id": "MTY2ODcyMTM0OCwwMDAwMDAwMDQyZGUwOTdiZjgxNmQwNWQ1NGQ4MTU0MDMzNzllNzZj",
   "tracks": [
     {
       "added_at": "2022-07-06 17:58:03",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Stranger Things 2 (Soundtrack from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B"
-      },
-      "artists": [
-        {
-          "name": "Kyle Dixon & Michael Stein",
-          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
-        }
-      ],
-      "duration_ms": 219893,
-      "name": "Eulogy",
-      "url": "https://open.spotify.com/track/5SjLRpgI7LWFzy9ggSqlkO"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Melancholia",
         "url": "https://open.spotify.com/album/40PGXFDDAcsyKVFA3IcN4q"
       },
@@ -431,6 +415,22 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
+        "name": "Stranger Things 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
+        }
+      ],
+      "duration_ms": 219893,
+      "name": "Eulogy",
+      "url": "https://open.spotify.com/track/5SjLRpgI7LWFzy9ggSqlkO"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
         "name": "The Old City (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5Fex355uJzSpwLSzcngIvG"
       },
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 531426,
+      "name": "#7",
+      "url": "https://open.spotify.com/track/5Y98R18mTx06sAuefOLZDr"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
         "name": "Mr. Robot, Vol. 1 (Original Television Series Soundtrack)",
         "url": "https://open.spotify.com/album/012oKUlmu9qA84z4kYrOAj"
       },
@@ -491,38 +507,6 @@
       "duration_ms": 278095,
       "name": "Acid Rain on Broken Rooftops",
       "url": "https://open.spotify.com/track/6JwqoBUyhDrkrhDcPxohUM"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/3qjUxwtbMHsiO0U20ezOjR"
-      },
-      "artists": [
-        {
-          "name": "Kyle Dixon & Michael Stein",
-          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
-        }
-      ],
-      "duration_ms": 146160,
-      "name": "The First I love You",
-      "url": "https://open.spotify.com/track/4JWNeArR4aYNnOZ0NOIQV5"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 531426,
-      "name": "#7",
-      "url": "https://open.spotify.com/track/5Y98R18mTx06sAuefOLZDr"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -575,8 +559,8 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ"
+        "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/3qjUxwtbMHsiO0U20ezOjR"
       },
       "artists": [
         {
@@ -584,41 +568,9 @@
           "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
         }
       ],
-      "duration_ms": 143880,
-      "name": "This Isn't You",
-      "url": "https://open.spotify.com/track/4cocLXeDOiFIPBgZCvJ3RF"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "The Detective (II)",
-        "url": "https://open.spotify.com/album/3wa024Li9fhL00ltgszWOG"
-      },
-      "artists": [
-        {
-          "name": "\u00d8rdop Wolkenscheidt",
-          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
-        }
-      ],
-      "duration_ms": 265200,
-      "name": "Exile on \u00c6r\u00f8",
-      "url": "https://open.spotify.com/track/7wfXwpX7FmxihVhHAjBEGz"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 279666,
-      "name": "#4",
-      "url": "https://open.spotify.com/track/4fQEbOabaTSC80INS7cD3Q"
+      "duration_ms": 146160,
+      "name": "The First I love You",
+      "url": "https://open.spotify.com/track/4JWNeArR4aYNnOZ0NOIQV5"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -635,22 +587,6 @@
       "duration_ms": 455593,
       "name": "Silent Messenger",
       "url": "https://open.spotify.com/track/4z2rlz9eCnfpWv2eAVg3SF"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "I Am the Night",
-        "url": "https://open.spotify.com/album/1boANaRfN0OSTEiQaEuFMd"
-      },
-      "artists": [
-        {
-          "name": "Perturbator",
-          "url": "https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8"
-        }
-      ],
-      "duration_ms": 381424,
-      "name": "The Price of Failure",
-      "url": "https://open.spotify.com/track/79QqQNC4vaXLzMSDuYNtLd"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -679,6 +615,54 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
+        "name": "I Am the Night",
+        "url": "https://open.spotify.com/album/1boANaRfN0OSTEiQaEuFMd"
+      },
+      "artists": [
+        {
+          "name": "Perturbator",
+          "url": "https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8"
+        }
+      ],
+      "duration_ms": 381424,
+      "name": "The Price of Failure",
+      "url": "https://open.spotify.com/track/79QqQNC4vaXLzMSDuYNtLd"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 279666,
+      "name": "#4",
+      "url": "https://open.spotify.com/track/4fQEbOabaTSC80INS7cD3Q"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "The Detective (II)",
+        "url": "https://open.spotify.com/album/3wa024Li9fhL00ltgszWOG"
+      },
+      "artists": [
+        {
+          "name": "\u00d8rdop Wolkenscheidt",
+          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
+        }
+      ],
+      "duration_ms": 265200,
+      "name": "Exile on \u00c6r\u00f8",
+      "url": "https://open.spotify.com/track/7wfXwpX7FmxihVhHAjBEGz"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
         "name": "Draconian Poetry",
         "url": "https://open.spotify.com/album/33wV7dDwlDalTn1ArAcbcp"
       },
@@ -695,18 +679,18 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+        "name": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ"
       },
       "artists": [
         {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
         }
       ],
-      "duration_ms": 535266,
-      "name": "#5",
-      "url": "https://open.spotify.com/track/2waF939RizyTNhrDoq7ePY"
+      "duration_ms": 143880,
+      "name": "This Isn't You",
+      "url": "https://open.spotify.com/track/4cocLXeDOiFIPBgZCvJ3RF"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -804,9 +788,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 211373,
-      "name": "#6",
-      "url": "https://open.spotify.com/track/4mqUX75CSaFamxxjEHbS2i"
+      "duration_ms": 535266,
+      "name": "#5",
+      "url": "https://open.spotify.com/track/2waF939RizyTNhrDoq7ePY"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -823,22 +807,6 @@
       "duration_ms": 322246,
       "name": "Neon Dawn",
       "url": "https://open.spotify.com/track/0YJLN3gnRNoPJ2S9FEpSPV"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/37uM7AfX8Zo0gKSLUNPHSj"
-      },
-      "artists": [
-        {
-          "name": "Atrium Carceri",
-          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
-        }
-      ],
-      "duration_ms": 363843,
-      "name": "A Curved Blade",
-      "url": "https://open.spotify.com/track/4Ym6wbx5lfJpzBfMnqeGlT"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -867,22 +835,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "L'illustration Musicale",
-        "url": "https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1"
-      },
-      "artists": [
-        {
-          "name": "King Of Woolworths",
-          "url": "https://open.spotify.com/artist/4aeNorERmnd7xuHWBJvsTd"
-        }
-      ],
-      "duration_ms": 370800,
-      "name": "Delia Derbyshire",
-      "url": "https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "The Word as Power",
         "url": "https://open.spotify.com/album/5iDNqRncNguhFpsZiTZEBy"
       },
@@ -899,18 +851,34 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "In Fabric OST",
-        "url": "https://open.spotify.com/album/56h30DA2RokyYVDobT2U5a"
+        "name": "Void",
+        "url": "https://open.spotify.com/album/37uM7AfX8Zo0gKSLUNPHSj"
       },
       "artists": [
         {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+          "name": "Atrium Carceri",
+          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
         }
       ],
-      "duration_ms": 254624,
-      "name": "Mannequin Metric",
-      "url": "https://open.spotify.com/track/6t45daSIcmRzYeJBB0x3ve"
+      "duration_ms": 363843,
+      "name": "A Curved Blade",
+      "url": "https://open.spotify.com/track/4Ym6wbx5lfJpzBfMnqeGlT"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "L'illustration Musicale",
+        "url": "https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1"
+      },
+      "artists": [
+        {
+          "name": "King Of Woolworths",
+          "url": "https://open.spotify.com/artist/4aeNorERmnd7xuHWBJvsTd"
+        }
+      ],
+      "duration_ms": 370800,
+      "name": "Delia Derbyshire",
+      "url": "https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -927,6 +895,22 @@
       "duration_ms": 283786,
       "name": "The Willows",
       "url": "https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "In Fabric OST",
+        "url": "https://open.spotify.com/album/56h30DA2RokyYVDobT2U5a"
+      },
+      "artists": [
+        {
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+        }
+      ],
+      "duration_ms": 254624,
+      "name": "Mannequin Metric",
+      "url": "https://open.spotify.com/track/6t45daSIcmRzYeJBB0x3ve"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -963,22 +947,18 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Recordings from the \u00c5land Islands",
-        "url": "https://open.spotify.com/album/2vGukamccOX7WCqir66kWT"
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
       },
       "artists": [
         {
-          "name": "Jeremiah Chiu",
-          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
-        },
-        {
-          "name": "Marta Sofia Honer",
-          "url": "https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv"
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 222400,
-      "name": "Under the Midnight Sun",
-      "url": "https://open.spotify.com/track/3OqqbGF64e51ooNpMAF9i5"
+      "duration_ms": 211373,
+      "name": "#6",
+      "url": "https://open.spotify.com/track/4mqUX75CSaFamxxjEHbS2i"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -1003,6 +983,26 @@
       "duration_ms": 284132,
       "name": "What the Earth Bore",
       "url": "https://open.spotify.com/track/4vfQOjhjyywh8OJQOAeGXD"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Recordings from the \u00c5land Islands",
+        "url": "https://open.spotify.com/album/2vGukamccOX7WCqir66kWT"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Chiu",
+          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
+        },
+        {
+          "name": "Marta Sofia Honer",
+          "url": "https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Under the Midnight Sun",
+      "url": "https://open.spotify.com/track/3OqqbGF64e51ooNpMAF9i5"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Perception Report 2",
-        "url": "https://open.spotify.com/album/4HRx2jXRLDMwaGQ5OgtIat"
-      },
-      "artists": [
-        {
-          "name": "The Night Monitor",
-          "url": "https://open.spotify.com/artist/3CZX2LMIYMGF8CK70c6zMm"
-        }
-      ],
-      "duration_ms": 254955,
-      "name": "Dance of the Mince Pie Martians",
-      "url": "https://open.spotify.com/track/1SciwnxrXz7WNUfcqH6lqF"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Delineation.Metamorphosis.Permanence.",
         "url": "https://open.spotify.com/album/64vjzqH3ZpsUvO8dZ9NZyr"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 217133,
       "name": "Teresa, Lark of Ascension",
       "url": "https://open.spotify.com/track/0rJdenp3eMqCGuMsx6gv34"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Perception Report 2",
+        "url": "https://open.spotify.com/album/4HRx2jXRLDMwaGQ5OgtIat"
+      },
+      "artists": [
+        {
+          "name": "The Night Monitor",
+          "url": "https://open.spotify.com/artist/3CZX2LMIYMGF8CK70c6zMm"
+        }
+      ],
+      "duration_ms": 254955,
+      "name": "Dance of the Mince Pie Martians",
+      "url": "https://open.spotify.com/track/1SciwnxrXz7WNUfcqH6lqF"
     },
     {
       "added_at": "2022-07-06 17:58:03",

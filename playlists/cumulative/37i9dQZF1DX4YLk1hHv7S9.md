@@ -4,7 +4,7 @@
 
 > Sweet acoustic love songs for the perfect day.
 
-122 songs - 7 hr 16 min
+123 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [First Day Of My Life](https://open.spotify.com/track/5OiaAaIMYlCZONyDBxqk4G) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/5msfCyqu8fJYqDDV6OrXTg) | 3:08 | 2021-07-23 | 2022-07-29 |
 | [First Day of My Life](https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:08 | 2022-06-20 |  |
 | [First Try](https://open.spotify.com/track/5V2tLRgrwtQjTrCxmYVLZ8) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Georgica Pond](https://open.spotify.com/album/7ijL8KF5a1FTAmXU8X33Y3) | 2:56 | 2021-07-23 |  |
+| [For the Rest of My Days](https://open.spotify.com/track/7jaxYNfWyvlrEOZngi9IVO) | [Ruby Amanfu](https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0) | [The Collections Volume II](https://open.spotify.com/album/3ixEXXdcUGriAOLGXHgVb8) | 3:02 | 2023-04-24 |  |
 | [Forever and Always \- Acoustic Version](https://open.spotify.com/track/2xBs8cDJEAtpostbqtcAk6) | [Tyler Cain](https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd) | [Forever and Always \(Acoustic Version\)](https://open.spotify.com/album/3wyXosy7uV7muyjHjxVTqO) | 2:58 | 2021-08-27 | 2023-03-22 |
 | [Forever On Your Side](https://open.spotify.com/track/3tcWAN7RKIHrm6xby9C3CZ) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Forever On Your Side](https://open.spotify.com/album/7DgON68ro7lnVgaHqAsH5P) | 4:34 | 2022-06-20 |  |
 | [Forever On Your Side](https://open.spotify.com/track/4BiQcYsIOEeToHXlOV5ZwS) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Forever On Your Side](https://open.spotify.com/album/59OqJlSNlckg0hYacWwZK5) | 4:34 | 2021-08-13 | 2023-02-15 |

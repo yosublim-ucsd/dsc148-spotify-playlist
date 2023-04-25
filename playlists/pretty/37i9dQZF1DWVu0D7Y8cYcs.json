@@ -1,12 +1,12 @@
 {
   "description": "Come on, man. Just smile!",
-  "num_followers": 468604,
+  "num_followers": 468677,
   "original_name": "Just Smile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDBlNWI1M2E0YzhkMDcyNTkxYTE3ZTFjZGQ4Mzc4NWZi",
+  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDE2ZTA2MDQxNzliOWYwMDIwODVmN2M3ZjEyZmExNWYz",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -179,26 +179,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
-        }
-      ],
-      "duration_ms": 262973,
-      "name": "Blessed (feat. Damian Marley)",
-      "url": "https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Exodus",
         "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
       },
@@ -215,18 +195,22 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "The Harder They Come (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7"
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
       "artists": [
         {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
         }
       ],
-      "duration_ms": 158893,
-      "name": "You Can Get It If You Really Want",
-      "url": "https://open.spotify.com/track/1Pao4DTLMB4gJPTnqmLgSQ"
+      "duration_ms": 262973,
+      "name": "Blessed (feat. Damian Marley)",
+      "url": "https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -267,22 +251,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "The Green",
-        "url": "https://open.spotify.com/album/37Qr8WHL9Pa1BYEeKDxaJ6"
-      },
-      "artists": [
-        {
-          "name": "The Green",
-          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
-        }
-      ],
-      "duration_ms": 218240,
-      "name": "Love I",
-      "url": "https://open.spotify.com/track/4H1aZMAqnzICsnFVDf6Lxc"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Love Is My Religion",
         "url": "https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX"
       },
@@ -299,6 +267,38 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "The Harder They Come (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 158893,
+      "name": "You Can Get It If You Really Want",
+      "url": "https://open.spotify.com/track/1Pao4DTLMB4gJPTnqmLgSQ"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "The Green",
+        "url": "https://open.spotify.com/album/37Qr8WHL9Pa1BYEeKDxaJ6"
+      },
+      "artists": [
+        {
+          "name": "The Green",
+          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
+        }
+      ],
+      "duration_ms": 218240,
+      "name": "Love I",
+      "url": "https://open.spotify.com/track/4H1aZMAqnzICsnFVDf6Lxc"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "Collie Buddz",
         "url": "https://open.spotify.com/album/2BGWnHTib774X9f7RPoato"
       },
@@ -311,6 +311,22 @@
       "duration_ms": 221506,
       "name": "Come Around",
       "url": "https://open.spotify.com/track/1a64u7QtJ9yDwpNyfDrZTj"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "One Love / People Get Ready - Medley",
+      "url": "https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -363,38 +379,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "One Love / People Get Ready - Medley",
-      "url": "https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Burning",
-        "url": "https://open.spotify.com/album/1gCBAfrnTTAFRthxRqp0Rj"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 181434,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/2ur8F1rb1lsxpZA9UJEDfl"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Love Me Easy",
         "url": "https://open.spotify.com/album/6gzFhQHXfMpwha4ZvNBngj"
       },
@@ -415,6 +399,38 @@
       "duration_ms": 170016,
       "name": "Love Me Easy",
       "url": "https://open.spotify.com/track/11Y4VVU6MTBtuSO116rsfG"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Iron Lion Zion",
+        "url": "https://open.spotify.com/album/06O9GpgtDESYZkUfhKpFcK"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 202432,
+      "name": "Iron Lion Zion - 7\" Mix",
+      "url": "https://open.spotify.com/track/5iRPNyWioH9Km8gi58As4V"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Burning",
+        "url": "https://open.spotify.com/album/1gCBAfrnTTAFRthxRqp0Rj"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 181434,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/2ur8F1rb1lsxpZA9UJEDfl"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -495,6 +511,22 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "Roots & Chalice",
+        "url": "https://open.spotify.com/album/5CAhDjreHUyDeG6QwGoysV"
+      },
+      "artists": [
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        }
+      ],
+      "duration_ms": 252014,
+      "name": "Roots & Chalice",
+      "url": "https://open.spotify.com/track/7yEuDcNgsZYmiNiKmUcHCG"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "Never Leave",
         "url": "https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp"
       },
@@ -511,38 +543,6 @@
       "duration_ms": 196153,
       "name": "Never Leave",
       "url": "https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Iron Lion Zion",
-        "url": "https://open.spotify.com/album/06O9GpgtDESYZkUfhKpFcK"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 202432,
-      "name": "Iron Lion Zion - 7\" Mix",
-      "url": "https://open.spotify.com/track/5iRPNyWioH9Km8gi58As4V"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Roots & Chalice",
-        "url": "https://open.spotify.com/album/5CAhDjreHUyDeG6QwGoysV"
-      },
-      "artists": [
-        {
-          "name": "Chronixx",
-          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
-        }
-      ],
-      "duration_ms": 252014,
-      "name": "Roots & Chalice",
-      "url": "https://open.spotify.com/track/7yEuDcNgsZYmiNiKmUcHCG"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals",
-        "url": "https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz"
-      },
-      "artists": [
-        {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
-        }
-      ],
-      "duration_ms": 290200,
-      "name": "Funky Kingston",
-      "url": "https://open.spotify.com/track/0bJ4nQojefjNpeuZNkiLrX"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "A Vibe (feat. Wiz Khalifa)",
         "url": "https://open.spotify.com/album/6bTB8c23Zg98mJNN5wx5bw"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 163853,
       "name": "A Vibe (feat. Wiz Khalifa)",
       "url": "https://open.spotify.com/track/6gkepFIH72ZdSIAjtvS7ZV"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals",
+        "url": "https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "duration_ms": 290200,
+      "name": "Funky Kingston",
+      "url": "https://open.spotify.com/track/0bJ4nQojefjNpeuZNkiLrX"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "Best Of / 20th Century Masters",
+        "url": "https://open.spotify.com/album/1HkG5JC2RNtrBl4Zq97qgA"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 193480,
+      "name": "Wonderful World, Beautiful People - Single Version",
+      "url": "https://open.spotify.com/track/4GEz5ZGMPcX9OZ5ta0v85e"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "Never B4 (feat. Mr. Williamz)",
         "url": "https://open.spotify.com/album/1oNd8JCWt5xazVoIjveTSE"
       },
@@ -751,54 +767,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Best Of / 20th Century Masters",
-        "url": "https://open.spotify.com/album/1HkG5JC2RNtrBl4Zq97qgA"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 193480,
-      "name": "Wonderful World, Beautiful People - Single Version",
-      "url": "https://open.spotify.com/track/4GEz5ZGMPcX9OZ5ta0v85e"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Strictly Roots",
-        "url": "https://open.spotify.com/album/7mWbD91KCO9KGGygDMuBpX"
-      },
-      "artists": [
-        {
-          "name": "Morgan Heritage",
-          "url": "https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1"
-        }
-      ],
-      "duration_ms": 236930,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/69DIpPwfHaO4mwHfn0oNTd"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Warm & Easy",
-        "url": "https://open.spotify.com/album/3IkZdCpD7KXA0gMA0REKLl"
-      },
-      "artists": [
-        {
-          "name": "Gyptian",
-          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
-        }
-      ],
-      "duration_ms": 295333,
-      "name": "Warm & Easy",
-      "url": "https://open.spotify.com/track/2K02J8shfay33u49WhlaZg"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Like Royalty (feat. Popcaan)",
         "url": "https://open.spotify.com/album/1vRu5xDjU8UI01GFdvWrnP"
       },
@@ -819,6 +787,22 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "Strictly Roots",
+        "url": "https://open.spotify.com/album/7mWbD91KCO9KGGygDMuBpX"
+      },
+      "artists": [
+        {
+          "name": "Morgan Heritage",
+          "url": "https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1"
+        }
+      ],
+      "duration_ms": 236930,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/69DIpPwfHaO4mwHfn0oNTd"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "Fix It",
         "url": "https://open.spotify.com/album/0UIcpuZ7MGsGOSzv5RFB2p"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 182533,
       "name": "Fix It",
       "url": "https://open.spotify.com/track/2FmD1oi2Wna2jcQcYEEYn5"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Warm & Easy",
+        "url": "https://open.spotify.com/album/3IkZdCpD7KXA0gMA0REKLl"
+      },
+      "artists": [
+        {
+          "name": "Gyptian",
+          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
+        }
+      ],
+      "duration_ms": 295333,
+      "name": "Warm & Easy",
+      "url": "https://open.spotify.com/track/2K02J8shfay33u49WhlaZg"
     },
     {
       "added_at": "2022-10-13 23:00:00",

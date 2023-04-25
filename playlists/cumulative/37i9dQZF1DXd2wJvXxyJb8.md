@@ -2,7 +2,7 @@
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> feriado sexta? automaticamente me sinto adorável
+> zendaya lança um p nois caramba
 
 252 songs - 11 hr 32 min
 

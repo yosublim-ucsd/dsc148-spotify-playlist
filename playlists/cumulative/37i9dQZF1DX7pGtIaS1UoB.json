@@ -631,6 +631,24 @@
     },
     {
       "album": {
+        "name": "Morning Coffee",
+        "url": "https://open.spotify.com/album/6gnYvMta73slbta2wnJt5Z"
+      },
+      "artists": [
+        {
+          "name": "\u871c\u96ea\u8587\u742a",
+          "url": "https://open.spotify.com/artist/2PvxkWnXNsFWiZVnXSf4Mq"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228875,
+      "name": "Morning Coffee",
+      "url": "https://open.spotify.com/track/5k2eyrx86Q5f5DFtRvkSvN"
+    },
+    {
+      "album": {
         "name": "My Only",
         "url": "https://open.spotify.com/album/51sZueI8QTDvCQnsCokQ6n"
       },
@@ -1554,7 +1572,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 186547,
       "name": "\u505a\u6211\u7684Baby",
       "url": "https://open.spotify.com/track/59fev4MSDxjJTwekSG6m5x"
@@ -3536,7 +3554,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 269760,
       "name": "\u6578\u5230\u4e94\u7b54\u61c9\u6211",
       "url": "https://open.spotify.com/track/5uWgSWwQhMcSeL21Fg6t2h"
@@ -4384,6 +4402,24 @@
       "duration_ms": 217215,
       "name": "\u7d04\u6703\u5c0d\u767d",
       "url": "https://open.spotify.com/track/26GGCkThk2p9cr870dTaW7"
+    },
+    {
+      "album": {
+        "name": "\u6cf0\u7248\u300a\u653e\u7f8a\u7684\u661f\u661f\u300b\u539f\u8072\u5e36",
+        "url": "https://open.spotify.com/album/19ljgcrHrFILHKxw7GZX0O"
+      },
+      "artists": [
+        {
+          "name": "\u5b5f\u6893",
+          "url": "https://open.spotify.com/artist/5nZUFKAqvjcWqQDNQ8chVU"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230294,
+      "name": "\u7d66\u4f60\u5b87\u5b99(\u6cf0\u7248\u300a\u653e\u7f8a\u7684\u661f\u661f\u300b\u63a8\u5ee3\u66f2)",
+      "url": "https://open.spotify.com/track/0Qxm6hUFBFEmRBMYef09Rs"
     },
     {
       "album": {

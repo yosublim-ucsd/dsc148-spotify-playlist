@@ -66429,7 +66429,7 @@
       "artists": [
         {
           "name": "Noizy",
-          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
+          "url": "https://open.spotify.com/artist/4A0V8wrSmivwhA6DAeQxqP"
         },
         {
           "name": "Sfera Ebbasta",
@@ -92686,6 +92686,28 @@
     {
       "album": {
         "name": "Rosenwasser",
+        "url": "https://open.spotify.com/album/09m1THJA35pqAqyLUoueQZ"
+      },
+      "artists": [
+        {
+          "name": "KC Rebell",
+          "url": "https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE"
+        },
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181840,
+      "name": "Rosenwasser",
+      "url": "https://open.spotify.com/track/0RCbdLqP4VZurBNt7ugDhj"
+    },
+    {
+      "album": {
+        "name": "Rosenwasser",
         "url": "https://open.spotify.com/album/7cPBwsMWN6NEVBTbHbAKDJ"
       },
       "artists": [
@@ -92700,7 +92722,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 181840,
       "name": "Rosenwasser",
       "url": "https://open.spotify.com/track/159YNZ8PzgKGF0M6HbRppJ"

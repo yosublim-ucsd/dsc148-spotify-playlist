@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Johnny Dailey, Artwork: Fanélie Muselier
 
-1,447 songs - 3 day 6 hr 56 min
+1,448 songs - 3 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -784,6 +784,7 @@
 | [Livin' Don't Give a Damn](https://open.spotify.com/track/3mCC01QjLqOC3j48BHVkaj) | [Adam Hood](https://open.spotify.com/artist/4oqOpULfSzd2BRoBT4aTXk) | [Livin' Don't Give a Damn](https://open.spotify.com/album/5omIQRvNCbA7eRRNOfg750) | 3:06 | 2022-08-26 | 2022-10-06 |
 | [Living](https://open.spotify.com/track/280JOL9yJ2QVw1jYvq1ts0) | [Patrick Carpenter](https://open.spotify.com/artist/3qjBUGzo0sTwv10dVDRayp) | [Living](https://open.spotify.com/album/43wRGysTC31lDJ2iwO3abO) | 3:12 | 2022-06-15 | 2022-06-30 |
 | [Lone Wolf](https://open.spotify.com/track/1yfFMgw1AtGZhGYrKGnqoB) | [Brett Bone](https://open.spotify.com/artist/0QDA974ne2luk5Xd839c1t) | [Lone Wolf](https://open.spotify.com/album/2OsjFCetHQAbvAp3ezxXVA) | 4:01 | 2022-06-09 | 2022-07-21 |
+| [Lonely Look Like](https://open.spotify.com/track/6IHdxPB9IwXTDNTW6KsSIo) | [Carson Wallace](https://open.spotify.com/artist/7a8gQGuEPK8XmHhK8tWkFF) | [Lonely Look Like](https://open.spotify.com/album/0LVucQtYyQ51s1kVbZKhmA) | 3:44 | 2023-04-24 |  |
 | [Lonely Might](https://open.spotify.com/track/6DEvEWlLRaWntMvxRpBIB3) | [Nick Wayne](https://open.spotify.com/artist/6Y92NtvBVk5tL0wIYXGVhl), [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Bourbon Neat](https://open.spotify.com/album/7xJEkyWNYI7jzeDypoerr5) | 3:07 | 2022-01-12 | 2022-02-24 |
 | [Lonely Outta You](https://open.spotify.com/track/4K6Hx75Blpyb7ERrkhfBuv) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Lonely Outta You](https://open.spotify.com/album/0QmiHb5sXcfNzr0j07KKOB) | 3:16 | 2023-04-05 |  |
 | [Lonesome Roads](https://open.spotify.com/track/1K0gzOJ4Fgev2zUtibM43i) | [Colt Graves](https://open.spotify.com/artist/26YgSVVJxvx1LQsollyBjQ) | [Lonesome Roads](https://open.spotify.com/album/1ZdFEN9WTKCwjkobwQ8qIl) | 4:00 | 2022-05-18 | 2022-06-30 |
@@ -1066,7 +1067,7 @@
 | [She Goes Home \(Dirty Breakup Song\)](https://open.spotify.com/track/1zSP3prCgF50ZAiDX7rfDy) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [She Goes Home \(Dirty Breakup Song\)](https://open.spotify.com/album/3Fd2MJsqGbqAY9lGoHajU6) | 3:19 | 2022-03-09 | 2022-04-27 |
 | [She Is](https://open.spotify.com/track/2RSuopUaWsxa7XtY7DRb5D) | [Reid Haughton](https://open.spotify.com/artist/3AsWY8Eeph8IIAD8twJL2l) | [She Is](https://open.spotify.com/album/7scuY3U3YE0N6H32xHVOuE) | 3:29 | 2023-02-22 | 2023-03-30 |
 | [She's Gonna Be a Song](https://open.spotify.com/track/0ThPck1tugo2TXvobasNM0) | [Travis Cormier](https://open.spotify.com/artist/4soE69pMaq60RVqoIq44XL) | [She's Gonna Be a Song](https://open.spotify.com/album/72reefqHo9ZweEht9O2ben) | 3:26 | 2022-01-12 | 2022-02-03 |
-| [She's Got Wings](https://open.spotify.com/track/0T55onEUiLPP9GJ4mCJngr) | [Dipper](https://open.spotify.com/artist/1FlF6uL7RBozryZZKSTOs5) | [She's Got Wings](https://open.spotify.com/album/6ytsoe46SEx2xuQKkb9dGT) | 3:26 | 2023-02-08 | 2023-03-16 |
+| [She's Got Wings](https://open.spotify.com/track/0T55onEUiLPP9GJ4mCJngr) | [Dipper](https://open.spotify.com/artist/1FlF6uL7RBozryZZKSTOs5) | [She's Got Wings](https://open.spotify.com/album/6ytsoe46SEx2xuQKkb9dGT) | 3:26 | 2023-02-08 |  |
 | [She's Like Home](https://open.spotify.com/track/0gNbxADNkKJJyeWIS5kWuc) | [Andrew Sullivan](https://open.spotify.com/artist/6QrSGsqr9JHi88EwDyNpr4) | [She's Like Home](https://open.spotify.com/album/5691GHjBdSyNbWG8sNobG7) | 3:18 | 2022-08-26 | 2022-09-29 |
 | [She's Me](https://open.spotify.com/track/689XMSZtH5eGDmMrqA5t37) | [Dayna Reid](https://open.spotify.com/artist/5Mn3u9vT9FcjY9Wpv7nVfR) | [Back To The Trailer](https://open.spotify.com/album/4TKaMkB2LUaPvRR7n6tIa0) | 3:14 | 2022-10-05 | 2023-03-09 |
 | [Shirley Temple](https://open.spotify.com/track/12TmKdt6ZDVr2UzXSg6hjK) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [Introducing: Lauren Watkins](https://open.spotify.com/album/7HvWK6u6afgFbmOcKDQf1g) | 3:38 | 2023-04-19 |  |

@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 253090,
       "name": "A Rainy Day in Temple",
       "url": "https://open.spotify.com/track/630N0zkAsYJYhjThC5UzTA"
@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Just When",
+        "url": "https://open.spotify.com/album/1uMXvwn9cCALxvaCG1S0Jf"
+      },
+      "artists": [
+        {
+          "name": "Lavendle",
+          "url": "https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182967,
+      "name": "Just When",
+      "url": "https://open.spotify.com/track/2aG9L2NgevZU8Be93QrE3K"
+    },
+    {
+      "album": {
         "name": "She's Playing Moody Piano on a Rainy Day",
         "url": "https://open.spotify.com/album/23fGXtCZFxRYXWuPqFvYx4"
       },
@@ -754,10 +772,28 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 134048,
       "name": "One Step Closer - Rain Version",
       "url": "https://open.spotify.com/track/1CqQ5ess43IRjD0zpGD8O3"
+    },
+    {
+      "album": {
+        "name": "Open the Door",
+        "url": "https://open.spotify.com/album/2HE7TjvxZHCN2LrMUB9egD"
+      },
+      "artists": [
+        {
+          "name": "Dennis Shaw",
+          "url": "https://open.spotify.com/artist/0nj9xF9necCK5vtX9WaRyA"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Open the Door",
+      "url": "https://open.spotify.com/track/3uTI6mbfEpVP3zsJ8ApzDc"
     },
     {
       "album": {
@@ -812,6 +848,24 @@
       "duration_ms": 200790,
       "name": "Piano In The Rain",
       "url": "https://open.spotify.com/track/45COIvvOsEigCZY5H8C8zY"
+    },
+    {
+      "album": {
+        "name": "Exploring Nature",
+        "url": "https://open.spotify.com/album/5uFY3CuxlrXS4BorPrSLfV"
+      },
+      "artists": [
+        {
+          "name": "Vidar Arvidsson",
+          "url": "https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Pine Forest",
+      "url": "https://open.spotify.com/track/4k2Y75YydpxSfennoQdqUc"
     },
     {
       "album": {
@@ -941,6 +995,24 @@
     },
     {
       "album": {
+        "name": "Shoganai - Rain version",
+        "url": "https://open.spotify.com/album/3edIRkiUxDKsY0IxoU2ZQy"
+      },
+      "artists": [
+        {
+          "name": "Marlon Guild",
+          "url": "https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194016,
+      "name": "Shoganai - Rain version",
+      "url": "https://open.spotify.com/track/1GNOoyUXt6Cthxd4JlOLx2"
+    },
+    {
+      "album": {
         "name": "Rain & Piano",
         "url": "https://open.spotify.com/album/4Hxom43QXe8rjoiw1uxyFB"
       },
@@ -1031,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "Summer Rainbow",
+        "url": "https://open.spotify.com/album/0s0XzqCY2BbI2bizi1rM3z"
+      },
+      "artists": [
+        {
+          "name": "Milton Laines",
+          "url": "https://open.spotify.com/artist/1vqqsJp0EfIy8Er9jINKKu"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Summer Rainbow",
+      "url": "https://open.spotify.com/track/3ZoWGe3xD7pQDuEoix445S"
+    },
+    {
+      "album": {
         "name": "take a moment to breathe.",
         "url": "https://open.spotify.com/album/22V9tEtQVgB85xG24ozhS3"
       },
@@ -1118,6 +1208,24 @@
       "duration_ms": 179500,
       "name": "The Darker Hours",
       "url": "https://open.spotify.com/track/0OF3sk5xugBzmJnE20Pm3U"
+    },
+    {
+      "album": {
+        "name": "The Midnight Sun - Rain version",
+        "url": "https://open.spotify.com/album/43NiUtG23mp2L2jX6GoYlv"
+      },
+      "artists": [
+        {
+          "name": "Hakone",
+          "url": "https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178516,
+      "name": "The Midnight Sun - Rain version",
+      "url": "https://open.spotify.com/track/2OUeSA99Dxa0vl1LYpiDjc"
     },
     {
       "album": {

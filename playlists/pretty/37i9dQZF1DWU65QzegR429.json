@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. ",
-  "num_followers": 7731,
+  "num_followers": 7743,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTkyNjQwNiwwMDAwMDAwMDg4NzJhYjY5MDVkNDNjM2NmZDY1MTU4MGQwOGUyNzhh",
+  "snapshot_id": "MTY4MTkyNjQwNiwwMDAwMDAwMGEzNTRiYmU3ZWI4MDQxNDIzYmFiYTNiZjM4OGMzODBh",
   "tracks": [
     {
       "added_at": "2023-04-03 18:54:44",
@@ -179,18 +179,18 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
-        "name": "KI-KI",
-        "url": "https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1"
+        "name": "No Me Rajo",
+        "url": "https://open.spotify.com/album/3E1jqnbIn6u4GcPeyg9UIv"
       },
       "artists": [
         {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+          "name": "Hadrian",
+          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
         }
       ],
-      "duration_ms": 141335,
-      "name": "KI-KI",
-      "url": "https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm"
+      "duration_ms": 165506,
+      "name": "No Me Rajo",
+      "url": "https://open.spotify.com/track/6DNJF3nPMoTh5g10xugYQz"
     },
     {
       "added_at": "2023-04-03 18:54:44",
@@ -215,50 +215,18 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
-        "name": "No Me Rajo",
-        "url": "https://open.spotify.com/album/3E1jqnbIn6u4GcPeyg9UIv"
+        "name": "KI-KI",
+        "url": "https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1"
       },
       "artists": [
         {
-          "name": "Hadrian",
-          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
         }
       ],
-      "duration_ms": 165506,
-      "name": "No Me Rajo",
-      "url": "https://open.spotify.com/track/6DNJF3nPMoTh5g10xugYQz"
-    },
-    {
-      "added_at": "2023-04-03 18:54:44",
-      "album": {
-        "name": "Booty Puty",
-        "url": "https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 176991,
-      "name": "Booty Puty",
-      "url": "https://open.spotify.com/track/1cBUPbKhU9ZZWhyJ7kCAFD"
-    },
-    {
-      "added_at": "2023-04-03 18:54:44",
-      "album": {
-        "name": "Tibro",
-        "url": "https://open.spotify.com/album/1ydYjSifTmO14cEY8l1eij"
-      },
-      "artists": [
-        {
-          "name": "Menor Menor",
-          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
-        }
-      ],
-      "duration_ms": 152546,
-      "name": "Perdida",
-      "url": "https://open.spotify.com/track/0S1a5taT51Mk1WVx1IwuFp"
+      "duration_ms": 141335,
+      "name": "KI-KI",
+      "url": "https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm"
     },
     {
       "added_at": "2023-04-03 18:54:44",
@@ -279,6 +247,38 @@
       "duration_ms": 180808,
       "name": "Se Me Nota (Agarrame) - Prod by B-One",
       "url": "https://open.spotify.com/track/2E6BB9DvlEltjJfjSJLzFS"
+    },
+    {
+      "added_at": "2023-04-03 18:54:44",
+      "album": {
+        "name": "Tibro",
+        "url": "https://open.spotify.com/album/1ydYjSifTmO14cEY8l1eij"
+      },
+      "artists": [
+        {
+          "name": "Menor Menor",
+          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
+        }
+      ],
+      "duration_ms": 152546,
+      "name": "Perdida",
+      "url": "https://open.spotify.com/track/0S1a5taT51Mk1WVx1IwuFp"
+    },
+    {
+      "added_at": "2023-04-03 18:54:44",
+      "album": {
+        "name": "Booty Puty",
+        "url": "https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 176991,
+      "name": "Booty Puty",
+      "url": "https://open.spotify.com/track/1cBUPbKhU9ZZWhyJ7kCAFD"
     },
     {
       "added_at": "2023-04-03 18:54:44",
@@ -415,6 +415,26 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
+        "name": "Taka Taka",
+        "url": "https://open.spotify.com/album/32yqnJvhVOIw6BPqDdTD8G"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "PV Aparataje",
+          "url": "https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4"
+        }
+      ],
+      "duration_ms": 155326,
+      "name": "Taka Taka",
+      "url": "https://open.spotify.com/track/03zJF1SQSX2sRwILa06p3E"
+    },
+    {
+      "added_at": "2023-04-03 18:54:44",
+      "album": {
         "name": "Rosa Melo",
         "url": "https://open.spotify.com/album/11sm82wbfZzdTvxTA5NsoX"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 298809,
       "name": "Nada",
       "url": "https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i"
-    },
-    {
-      "added_at": "2023-04-03 18:54:44",
-      "album": {
-        "name": "Taka Taka",
-        "url": "https://open.spotify.com/album/32yqnJvhVOIw6BPqDdTD8G"
-      },
-      "artists": [
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        },
-        {
-          "name": "PV Aparataje",
-          "url": "https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4"
-        }
-      ],
-      "duration_ms": 155326,
-      "name": "Taka Taka",
-      "url": "https://open.spotify.com/track/03zJF1SQSX2sRwILa06p3E"
     },
     {
       "added_at": "2023-04-03 18:54:44",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
+        "name": "Noches X Madrid",
+        "url": "https://open.spotify.com/album/0y7pSZ8Z8CyuM2HhtEh1Zx"
+      },
+      "artists": [
+        {
+          "name": "Sara Deop",
+          "url": "https://open.spotify.com/artist/3Wb3zC9MU5MF0xdvaB8too"
+        }
+      ],
+      "duration_ms": 217480,
+      "name": "Noches X Madrid",
+      "url": "https://open.spotify.com/track/5sWZqNtHppp5FdxPEIJnIn"
+    },
+    {
+      "added_at": "2023-04-03 18:54:44",
+      "album": {
         "name": "Champion Ninz",
         "url": "https://open.spotify.com/album/4jRjuppvJlqiNdlxcl3Z31"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 139603,
       "name": "Solita",
       "url": "https://open.spotify.com/track/3gV9Ru9Kdkq5RcF0A2WjZj"
-    },
-    {
-      "added_at": "2023-04-03 18:54:44",
-      "album": {
-        "name": "Noches X Madrid",
-        "url": "https://open.spotify.com/album/0y7pSZ8Z8CyuM2HhtEh1Zx"
-      },
-      "artists": [
-        {
-          "name": "Sara Deop",
-          "url": "https://open.spotify.com/artist/3Wb3zC9MU5MF0xdvaB8too"
-        }
-      ],
-      "duration_ms": 217480,
-      "name": "Noches X Madrid",
-      "url": "https://open.spotify.com/track/5sWZqNtHppp5FdxPEIJnIn"
     },
     {
       "added_at": "2023-04-03 18:54:44",

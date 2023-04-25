@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZOFbVrnsA55.md) - [plain]
 
 > Slow down and embrace the immensity of time\. This is just an ambient blip in the long now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,952 likes - 291 songs - 4 day 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,997 likes - 291 songs - 4 day 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,7 +152,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZOFbVrnsA55.md) - [plain]
 | 142 | [Hétérozygote](https://open.spotify.com/track/1BCw4xFPg6fMJ3mOQyIgWW) | [Luc Ferrari](https://open.spotify.com/artist/6zaiVGhHTJtQfEUUDd9ORu) | [Acousmatrix \- The History of Electronic Music III](https://open.spotify.com/album/5yFkDpSgO3YUsOuPhhY2pV) | 26:23 |
 | 143 | [Electronic Extension I](https://open.spotify.com/track/1uIkWbgmIcQdM0FZUeQmuK) | [Aaron Dilloway](https://open.spotify.com/artist/1iA1G6TFhNc3GerD6e5XNm), [Robert Turman](https://open.spotify.com/artist/2W2BiVgO5bISQejnz7HPhE), [John Wiese](https://open.spotify.com/artist/2r9bwqUxLhc8ktBYtiyR6V) | [Electronic Extension](https://open.spotify.com/album/59bxmtqJYHUa1mmiXzakYh) | 25:36 |
 | 144 | [Grafts](https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts](https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw) | 22:31 |
-| 145 | [Cascade](https://open.spotify.com/track/2VnPkphYiqLB32kmabgYJ2) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Cascade](https://open.spotify.com/album/4sV11jIZ729aJiY52nYwOR) | 40:10 |
+| 145 | [Cascade](https://open.spotify.com/track/5EGKTzoHFRyqZc37eOhqFX) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Cascade](https://open.spotify.com/album/6Sw6GOVJSdtzmiPAsa6UW6) | 40:10 |
 | 146 | [Flowers Of Evil](https://open.spotify.com/track/39yNHxks286iIcWLmQCg2m) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Flowers Of Evil](https://open.spotify.com/album/0XB4eado6AWXas8Z98FmG6) | 14:08 |
 | 147 | [Temple of Aesthetic Action](https://open.spotify.com/track/4pFLly7AXNRU3bQ9piWJdv) | [Jordan De La Sierra](https://open.spotify.com/artist/0C31G6WRrM2kEf5q8Yn2Pf) | [Gymnosphere: Song of the Rose](https://open.spotify.com/album/0CYveyLuXN4fPZuKS4ZdNS) | 24:55 |
 | 148 | [Summer, Pt\. II](https://open.spotify.com/track/6Z6TCcIBYEtVMNK96YtE0B) | [Pete Namlook](https://open.spotify.com/artist/1zdrhzkCEqTrUrIiRzVeQ3) | [Seasons Greetings \(Summer\)](https://open.spotify.com/album/6uhCR8f58q0nIbHozgNhfl) | 14:54 |
@@ -300,4 +300,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZOFbVrnsA55.md) - [plain]
 | 290 | [Flux 2](https://open.spotify.com/track/0cQ2AFeqZoopVS8zetcyra) | [R\. Turman](https://open.spotify.com/artist/5fZZnv5EfMpAL3DiQHegFe), [Robert Turman](https://open.spotify.com/artist/2W2BiVgO5bISQejnz7HPhE) | [Flux](https://open.spotify.com/album/50MNzElaJpGcQNnxV6JC9c) | 10:40 |
 | 291 | [Knot of Spirit](https://open.spotify.com/track/16OWbcIekAVw9vEdiL93My) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm) | [Knot of Spirit](https://open.spotify.com/album/6OQQ3ImfeWkqIIRhMr4L5V) | 10:18 |
 
-Snapshot ID: `MTY3NDgzNjY2OCwwMDAwMDAwMDY1ODhkMjc4OTgzYTY0NjczNGZiZmY1ZjAwY2RkZTc1`
+Snapshot ID: `MTY3NDgzNjY2OCwwMDAwMDAwMDE3MGNjZGZjMDMwYWE2NDM0NmU2MzUxZjI0Y2I1NzFi`

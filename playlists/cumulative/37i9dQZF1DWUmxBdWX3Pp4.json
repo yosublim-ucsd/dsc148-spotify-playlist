@@ -661,6 +661,32 @@
     },
     {
       "album": {
+        "name": "Ay Mam\u00e1 (Remix)",
+        "url": "https://open.spotify.com/album/3xnpwMp7KUHuEjx7pJtBhB"
+      },
+      "artists": [
+        {
+          "name": "Franux BB",
+          "url": "https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208750,
+      "name": "Ay Mam\u00e1 (feat. Dillom) - Remix",
+      "url": "https://open.spotify.com/track/6z1ptmvVhtzrRA2nSX49Qc"
+    },
+    {
+      "album": {
         "name": "AYER",
         "url": "https://open.spotify.com/album/5RjGwtwltDL696PNZIfv49"
       },

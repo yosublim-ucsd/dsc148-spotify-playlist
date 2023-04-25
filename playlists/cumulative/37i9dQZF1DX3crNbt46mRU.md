@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Kim Petras, Nicki Minaj
 
-6,350 songs - 13 day 10 hr 30 min
+6,351 songs - 13 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3361,7 +3361,7 @@
 | [LOBBY](https://open.spotify.com/track/5Saq3QIlyj5afgh2ONnoCD) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90), [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83) | [LOBBY](https://open.spotify.com/album/67e9EOl7l38uFWF0QPLD9b) | 3:28 | 2022-05-19 | 2022-05-27 |
 | [Loca](https://open.spotify.com/track/56a1UBole4cV1L2bgzGitb) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Loca](https://open.spotify.com/album/3P9iZFg49rOv1I002UTaYA) | 2:50 | 2022-06-09 | 2022-06-17 |
 | [Local God](https://open.spotify.com/track/3XADz7YwWlGDErHwv5F093) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Local God](https://open.spotify.com/album/50uQ50fSsmddC5xAHLb49w) | 3:00 | 2022-08-05 | 2022-08-12 |
-| [Location](https://open.spotify.com/track/1elcu8IXCUBRUYObThbyZU) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [ALPHA](https://open.spotify.com/album/4iLm0b2BMkkeVLhcMgLij0) | 2:55 | 2023-04-20 |  |
+| [Location](https://open.spotify.com/track/1elcu8IXCUBRUYObThbyZU) | [Noizy](https://open.spotify.com/artist/4A0V8wrSmivwhA6DAeQxqP), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [ALPHA](https://open.spotify.com/album/4iLm0b2BMkkeVLhcMgLij0) | 2:55 | 2023-04-20 |  |
 | [Lock&Key](https://open.spotify.com/track/7xpdg8CYqEj9khHJECllMm) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Lock&Key](https://open.spotify.com/album/1lN9DhBjJz4CBLa2vRT3jo) | 2:57 | 2022-08-25 | 2022-09-02 |
 | [Locker Room](https://open.spotify.com/track/3jjTNicCrPJFe0FyLWmSAR) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Locker Room](https://open.spotify.com/album/2MlvBenVNmFKfLvprpn194) | 3:43 | 2022-04-28 | 2022-05-06 |
 | [Locksmith](https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Locksmith](https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl) | 2:44 | 2022-10-06 | 2022-10-14 |
@@ -4670,7 +4670,8 @@
 | [Rooftops](https://open.spotify.com/track/0M8LvMw5ARqPvBGALIBLoM) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Rooftops](https://open.spotify.com/album/60j4yeYZl6vPOcDGtWIxVc) | 3:00 | 2022-07-29 | 2022-08-05 |
 | [ROOM FOR 2](https://open.spotify.com/track/7wfxf9QXBIWgBx1aG5QWhR) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [ROOM FOR 2](https://open.spotify.com/album/51XyM5nK6zGwa4hWNNMmSz) | 2:31 | 2022-02-17 | 2022-02-25 |
 | [ROSE STREET](https://open.spotify.com/track/3phALNKWigFCXEhIHOkHrP) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [ROSE STREET](https://open.spotify.com/album/7CndERmuISXqBYNk7poimm) | 2:33 | 2022-03-31 | 2022-04-08 |
-| [Rosenwasser](https://open.spotify.com/track/159YNZ8PzgKGF0M6HbRppJ) | [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE), [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Rosenwasser](https://open.spotify.com/album/7cPBwsMWN6NEVBTbHbAKDJ) | 3:01 | 2023-04-20 |  |
+| [Rosenwasser](https://open.spotify.com/track/0RCbdLqP4VZurBNt7ugDhj) | [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE), [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Rosenwasser](https://open.spotify.com/album/09m1THJA35pqAqyLUoueQZ) | 3:01 | 2023-04-21 |  |
+| [Rosenwasser](https://open.spotify.com/track/159YNZ8PzgKGF0M6HbRppJ) | [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE), [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Rosenwasser](https://open.spotify.com/album/7cPBwsMWN6NEVBTbHbAKDJ) | 3:01 | 2023-04-20 | 2023-04-25 |
 | [ROSES](https://open.spotify.com/track/40nvBToL831q0NDFMiunKR) | [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [ROSES](https://open.spotify.com/album/7L4QP4w9OivS4mb0DXUfak) | 2:27 | 2022-09-29 | 2022-10-07 |
 | [Roster](https://open.spotify.com/track/7ydDdvP0VpVLvaK8iG63HH) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales, Mo' Tales: The Deluxe](https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei) | 3:39 | 2022-02-11 | 2022-02-18 |
 | [Rosé](https://open.spotify.com/track/0AUQCsU2vl14ksqSfCxP3k) | [Opération Zéro](https://open.spotify.com/artist/3ZsHilbh98OAs15IYU4bEP) | [Rosé](https://open.spotify.com/album/5L2dG68litmEVDp6XVqn40) | 2:43 | 2022-08-25 | 2022-09-02 |

@@ -3768,7 +3768,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 135000,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/2olHCqvx5Ww94jrUL6gmOp"
@@ -6902,7 +6902,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 118000,
       "name": "Penumbra",
       "url": "https://open.spotify.com/track/6ju8Yz9swqGjPAtHtWFDVM"
@@ -7287,6 +7287,24 @@
     },
     {
       "album": {
+        "name": "Pyramidale",
+        "url": "https://open.spotify.com/album/2ZXnb9NFeJnwzW0wQ4jY8A"
+      },
+      "artists": [
+        {
+          "name": "Alicia Premi\u00e8re",
+          "url": "https://open.spotify.com/artist/3uADykN9RMDJGAc6mIN4mX"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "Pyramidale",
+      "url": "https://open.spotify.com/track/2ECCRffnbDdRXwbkfBPTzP"
+    },
+    {
+      "album": {
         "name": "Quando gli alberi incontrano il vento",
         "url": "https://open.spotify.com/album/5gC9wVZoOL4bJNSo9eoclI"
       },
@@ -7572,6 +7590,24 @@
       "duration_ms": 150000,
       "name": "Ricordarsi",
       "url": "https://open.spotify.com/track/3RuTCzfsjBoat5ZliUAC4a"
+    },
+    {
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/2Z7WHClmvuYM9HantsINBM"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82872,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/2OQ6G0qZfRq0bCCRI6R0yi"
     },
     {
       "album": {

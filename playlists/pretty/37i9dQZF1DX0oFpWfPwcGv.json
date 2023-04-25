@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 41184,
+  "num_followers": 41217,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODE0OTQ1OCwwMDAwMDAwMDRlOTdiNTZjNjRkMWRhZGMyYzdjMWU4OWQ4MGFmMTFl",
+  "snapshot_id": "MTY3ODE0OTQ1OCwwMDAwMDAwMDEyMWFiNzQwNmIxYTc3NjQ2ZTYyNDExZjhjYjk2ZWI5",
   "tracks": [
     {
       "added_at": "2022-12-31 00:39:45",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
+        "name": "The Boss (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "The Boss",
+      "url": "https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
         "name": "Pizzazz",
         "url": "https://open.spotify.com/album/38I3cIZowVjtksvYrpQIJf"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 222346,
       "name": "T.S.O.P. (The Sound of Philadelphia) (feat. The Three Degrees)",
       "url": "https://open.spotify.com/track/7kllQQPam6HumbUCIPSvHJ"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
-        "name": "The Boss (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "The Boss",
-      "url": "https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "People... Hold On",
-        "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
-      },
-      "artists": [
-        {
-          "name": "Eddie Kendricks",
-          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
-        }
-      ],
-      "duration_ms": 160906,
-      "name": "Date With The Rain",
-      "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "Instant Replay (Expanded Edition)",
         "url": "https://open.spotify.com/album/1c7nolG1Y0EBuQKOg5svZa"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 320480,
       "name": "Instant Replay",
       "url": "https://open.spotify.com/track/0E1PR66A94yVPiYJxGHimf"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "People... Hold On",
+        "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
+      },
+      "artists": [
+        {
+          "name": "Eddie Kendricks",
+          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
+        }
+      ],
+      "duration_ms": 160906,
+      "name": "Date With The Rain",
+      "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "Norma Jean",
-        "url": "https://open.spotify.com/album/7Bo2lPXUL79QoKPzbFT1TZ"
-      },
-      "artists": [
-        {
-          "name": "Norma Jean Wright",
-          "url": "https://open.spotify.com/artist/2Tq4xKjGkoZyAzdklz74oM"
-        }
-      ],
-      "duration_ms": 366160,
-      "name": "Saturday",
-      "url": "https://open.spotify.com/track/59n20ABic3nU1hqy2tDauE"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "Bad Girls (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 295125,
       "name": "Bad Girls - 12\" Version",
       "url": "https://open.spotify.com/track/0qWZZsiCMibvawWrBOAyhD"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "Norma Jean",
+        "url": "https://open.spotify.com/album/7Bo2lPXUL79QoKPzbFT1TZ"
+      },
+      "artists": [
+        {
+          "name": "Norma Jean Wright",
+          "url": "https://open.spotify.com/artist/2Tq4xKjGkoZyAzdklz74oM"
+        }
+      ],
+      "duration_ms": 366160,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/59n20ABic3nU1hqy2tDauE"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -955,26 +955,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "'Lectric Lady",
-        "url": "https://open.spotify.com/album/7eY0iC16v1UNmrHqG1eiuB"
-      },
-      "artists": [
-        {
-          "name": "Carol Williams",
-          "url": "https://open.spotify.com/artist/5QqgCq8kssGoXgqxBlGgJM"
-        },
-        {
-          "name": "Tom Moulton",
-          "url": "https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6"
-        }
-      ],
-      "duration_ms": 473240,
-      "name": "Love Is You - A Tom Moulton Mix",
-      "url": "https://open.spotify.com/track/4YjD6Gd0IjMIchfTOOPEgS"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "Delusions (Bonus Version)",
         "url": "https://open.spotify.com/album/0YbZ9lgPYhxGHS2zpRIOZg"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 481506,
       "name": "Let No Man Put Asunder - Shep Pettibone 12\" Mix",
       "url": "https://open.spotify.com/track/5mTzj7zSsR6YezbRwAzgKd"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "'Lectric Lady",
+        "url": "https://open.spotify.com/album/7eY0iC16v1UNmrHqG1eiuB"
+      },
+      "artists": [
+        {
+          "name": "Carol Williams",
+          "url": "https://open.spotify.com/artist/5QqgCq8kssGoXgqxBlGgJM"
+        },
+        {
+          "name": "Tom Moulton",
+          "url": "https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6"
+        }
+      ],
+      "duration_ms": 473240,
+      "name": "Love Is You - A Tom Moulton Mix",
+      "url": "https://open.spotify.com/track/4YjD6Gd0IjMIchfTOOPEgS"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/6dr4nOonv97FsqmMsBzf0b"
-      },
-      "artists": [
-        {
-          "name": "Inner Life",
-          "url": "https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX"
-        }
-      ],
-      "duration_ms": 392066,
-      "name": "Moment Of My Life - 12\" Version",
-      "url": "https://open.spotify.com/track/0efOcjjzdfBxFJp6MZcXzC"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "Crooklyn Volume II",
         "url": "https://open.spotify.com/album/0D6AKEKQLa5VR5akhUjV0l"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 266560,
       "name": "Soul Makossa",
       "url": "https://open.spotify.com/track/0ofK8UNWOtCFbbizCe8hta"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/6dr4nOonv97FsqmMsBzf0b"
+      },
+      "artists": [
+        {
+          "name": "Inner Life",
+          "url": "https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX"
+        }
+      ],
+      "duration_ms": 392066,
+      "name": "Moment Of My Life - 12\" Version",
+      "url": "https://open.spotify.com/track/0efOcjjzdfBxFJp6MZcXzC"
     }
   ],
   "unique_name": "Disco Decadence",

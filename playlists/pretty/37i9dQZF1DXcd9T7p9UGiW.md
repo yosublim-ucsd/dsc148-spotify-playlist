@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ?si=GVyes5nYS4STxMW4fkeyMQ"> Gyakie</a> and  <a href="https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq?si=Hn32qobSSG\-cgWEmUvfTwA"> JBee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,558 likes - 90 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,634 likes - 90 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

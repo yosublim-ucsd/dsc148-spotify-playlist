@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: INNA",
-  "num_followers": 892351,
+  "num_followers": 892303,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ3NDMxNiwwMDAwMDAwMGQ5OTJhYjVjY2QzNTk5NzJmMjY0Y2VkNDRlMDAzMzVk",
+  "snapshot_id": "MTY4MTQ3NDMxNiwwMDAwMDAwMDFiMmIzYjI0MDJhNjQ2NDlhN2NiMDg0YzI1NDJhZDhl",
   "tracks": [
     {
       "added_at": "2023-04-05 04:00:00",
@@ -603,6 +603,30 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
+        "name": "Aye Khuda",
+        "url": "https://open.spotify.com/album/6cRFB01oyEXqAQCIH5qFos"
+      },
+      "artists": [
+        {
+          "name": "Sanam Marvi",
+          "url": "https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5"
+        },
+        {
+          "name": "Waqar Faiz",
+          "url": "https://open.spotify.com/artist/5PQ8zLBUFXDtS67TwbDOlY"
+        },
+        {
+          "name": "Rushil",
+          "url": "https://open.spotify.com/artist/1gHxomNGjRJHDAl7INHnxE"
+        }
+      ],
+      "duration_ms": 544565,
+      "name": "Aye Khuda",
+      "url": "https://open.spotify.com/track/7vIEXrKp0MXaGkiqJ8qVhx"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
         "name": "\u60c5\u6b4c\u6c92\u8aaa\u7684\u4e8b",
         "url": "https://open.spotify.com/album/5QxiBMd8YTI9XsYEaKofuY"
       },
@@ -635,30 +659,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Aye Khuda",
-        "url": "https://open.spotify.com/album/6cRFB01oyEXqAQCIH5qFos"
-      },
-      "artists": [
-        {
-          "name": "Sanam Marvi",
-          "url": "https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5"
-        },
-        {
-          "name": "Waqar Faiz",
-          "url": "https://open.spotify.com/artist/5PQ8zLBUFXDtS67TwbDOlY"
-        },
-        {
-          "name": "Rushil",
-          "url": "https://open.spotify.com/artist/1gHxomNGjRJHDAl7INHnxE"
-        }
-      ],
-      "duration_ms": 544565,
-      "name": "Aye Khuda",
-      "url": "https://open.spotify.com/track/7vIEXrKp0MXaGkiqJ8qVhx"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Batom",
         "url": "https://open.spotify.com/album/6w1tgURgujpFVofGsctRC7"
       },
@@ -671,22 +671,6 @@
       "duration_ms": 212147,
       "name": "Batom",
       "url": "https://open.spotify.com/track/7L77rpmvDOZw735WrQ6lV2"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
-        "name": "\u0411\u0415\u0417 \u041a\u041e\u0425\u0410\u041d\u041d\u042f",
-        "url": "https://open.spotify.com/album/1yVePWCyQCKLeAdKXNlYiV"
-      },
-      "artists": [
-        {
-          "name": "KAZKA",
-          "url": "https://open.spotify.com/artist/6tnqzaOroG2OtBaSfVJbEw"
-        }
-      ],
-      "duration_ms": 180437,
-      "name": "\u0411\u0415\u0417 \u041a\u041e\u0425\u0410\u041d\u041d\u042f",
-      "url": "https://open.spotify.com/track/6yTSdpaqc747hvfokBv8bS"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -707,18 +691,18 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "midnight rendezvous",
-        "url": "https://open.spotify.com/album/4XAi7fxJkMgdqS73Wjte5J"
+        "name": "\u0411\u0415\u0417 \u041a\u041e\u0425\u0410\u041d\u041d\u042f",
+        "url": "https://open.spotify.com/album/1yVePWCyQCKLeAdKXNlYiV"
       },
       "artists": [
         {
-          "name": "Talitha.",
-          "url": "https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY"
+          "name": "KAZKA",
+          "url": "https://open.spotify.com/artist/6tnqzaOroG2OtBaSfVJbEw"
         }
       ],
-      "duration_ms": 156857,
-      "name": "midnight rendezvous",
-      "url": "https://open.spotify.com/track/6gVIrj4H3rmXYZnFXxtEl3"
+      "duration_ms": 180437,
+      "name": "\u0411\u0415\u0417 \u041a\u041e\u0425\u0410\u041d\u041d\u042f",
+      "url": "https://open.spotify.com/track/6yTSdpaqc747hvfokBv8bS"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -739,18 +723,18 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "La flor (Mov.1: La Flor)",
-        "url": "https://open.spotify.com/album/2Ngrngggmplmt5fVkqI1XT"
+        "name": "midnight rendezvous",
+        "url": "https://open.spotify.com/album/4XAi7fxJkMgdqS73Wjte5J"
       },
       "artists": [
         {
-          "name": "S\u00edlvia P\u00e9rez Cruz",
-          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+          "name": "Talitha.",
+          "url": "https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY"
         }
       ],
-      "duration_ms": 200985,
-      "name": "La flor - Mov.1: La Flor",
-      "url": "https://open.spotify.com/track/4GJGDhm3mINXAghS4mkpjK"
+      "duration_ms": 156857,
+      "name": "midnight rendezvous",
+      "url": "https://open.spotify.com/track/6gVIrj4H3rmXYZnFXxtEl3"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -767,6 +751,22 @@
       "duration_ms": 193288,
       "name": "Shoreditch Road",
       "url": "https://open.spotify.com/track/1fXH9WeNGhc5xBAqQUp6e0"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "La flor (Mov.1: La Flor)",
+        "url": "https://open.spotify.com/album/2Ngrngggmplmt5fVkqI1XT"
+      },
+      "artists": [
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "duration_ms": 200985,
+      "name": "La flor - Mov.1: La Flor",
+      "url": "https://open.spotify.com/track/4GJGDhm3mINXAghS4mkpjK"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Forest song (Original Soundtrack \u00abMavka. The Forest Song)",
-        "url": "https://open.spotify.com/album/5apkXbTZXtKz6uIBRXUv8Q"
-      },
-      "artists": [
-        {
-          "name": "Khrystyna Soloviy",
-          "url": "https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa"
-        }
-      ],
-      "duration_ms": 216405,
-      "name": "Forest song - Original Soundtrack \u00abMavka. The Forest Song",
-      "url": "https://open.spotify.com/track/1D0yDJG72EFzFsbPrINzXG"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "space",
         "url": "https://open.spotify.com/album/7ygO9kMeqjmADYqdy7ZH3k"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 163414,
       "name": "ground zero",
       "url": "https://open.spotify.com/track/4BKGOLRScQzCal1o6A9XAL"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "Forest song (Original Soundtrack \u00abMavka. The Forest Song)",
+        "url": "https://open.spotify.com/album/5apkXbTZXtKz6uIBRXUv8Q"
+      },
+      "artists": [
+        {
+          "name": "Khrystyna Soloviy",
+          "url": "https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa"
+        }
+      ],
+      "duration_ms": 216405,
+      "name": "Forest song - Original Soundtrack \u00abMavka. The Forest Song",
+      "url": "https://open.spotify.com/track/1D0yDJG72EFzFsbPrINzXG"
     },
     {
       "added_at": "2023-04-05 04:00:00",

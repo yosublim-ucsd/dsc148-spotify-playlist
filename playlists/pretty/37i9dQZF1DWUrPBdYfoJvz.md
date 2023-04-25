@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,660 likes - 127 songs - 14 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,757 likes - 127 songs - 14 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 | 4 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 |
 | 5 | [12 Hours Before](https://open.spotify.com/track/3pcrD4NBBBQGMJATRhk25C) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Chernobyl \(Music from the Original TV Series\)](https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ) | 2:31 |
 | 6 | [Postscript](https://open.spotify.com/track/3g1hBwztBeoT9dK9w16ENA) | [Bowery Electric](https://open.spotify.com/artist/6a27jEzxHDgONdmADAGcej) | [Beat](https://open.spotify.com/album/6jbGBeBtwD05O0EV9RFjlC) | 16:41 |
-| 7 | [dlp 1.3](https://open.spotify.com/track/3hFipULsVstcUDjujwyNr5) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops IV \(Remastered\)](https://open.spotify.com/album/4Vs8o9MQur5NHGGr5kqXn6) | 11:57 |
+| 7 | [dlp 1.3](https://open.spotify.com/track/07xAmnJmWBdg1vfbZruWPN) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops IV \(Remastered\)](https://open.spotify.com/album/40A7AUK48laVRKEINMRK2M) | 11:57 |
 | 8 | [Ceramic Bubbles \- No Death Remix](https://open.spotify.com/track/0efbgQ82IjFjgDsr5vBckW) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl), [No Death](https://open.spotify.com/artist/75HAJoZ2A5TotYPFSYgCnP) | [Small Lights](https://open.spotify.com/album/5TzC5ApNzngIspcRD7heNL) | 3:40 |
 | 9 | [Vapors](https://open.spotify.com/track/4GGdwZABjIFSnFGavhd7Ge) | [Lennart Altgenug](https://open.spotify.com/artist/1gpe3l1VsbKu6qbFIj5ArO), [Still Restless](https://open.spotify.com/artist/6AHEtmyMoioYHE2mEZWEl0) | [Vapors](https://open.spotify.com/album/7pmaEJKmCiewU5BDYlEiAo) | 3:12 |
 | 10 | [The Sun XIX](https://open.spotify.com/track/1mGrXg7R32ONwODtN56Ou7) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Holotropica](https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu) | 6:43 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 | 126 | [Delta Rain Dream](https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 3:29 |
 | 127 | [Ferrum](https://open.spotify.com/track/0s5x2cr3VyJYez1W8SKXC0) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Mirror](https://open.spotify.com/album/66d3xKf4p6CDloe6I7HaE9) | 16:13 |
 
-Snapshot ID: `MTY3ODk4NDMyNSwwMDAwMDAwMDBiMjFiM2I0ZTgxMzQ2NDcyN2MwNGI2ZDk4NTgzY2I2`
+Snapshot ID: `MTY3ODk4NDMyNSwwMDAwMDAwMDJkOTM3ZWQ3ZTc5Y2ZmMzMxMDdmNWRmNTY4YjVmM2Iy`

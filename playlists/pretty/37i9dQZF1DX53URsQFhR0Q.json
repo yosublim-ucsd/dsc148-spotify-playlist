@@ -1,12 +1,12 @@
 {
   "description": "Hit rewind on these classic Ghanaian gospel songs.",
-  "num_followers": 222,
+  "num_followers": 238,
   "original_name": "Ghana Gospel Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc5MzY2NCwwMDAwMDAwMGUyMDc3Y2FhNGFiYmY3MGMxNjQ2NTJiOThhZDgxM2E0",
+  "snapshot_id": "MTY4MDc5MzY2NCwwMDAwMDAwMDBlN2U1NDQxZGZlZjhhY2NlNzBmN2M2MWMyYzZjN2Vh",
   "tracks": [
     {
       "added_at": "2023-04-06 15:07:44",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
-        "name": "Cindy's Messiah",
-        "url": "https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD"
+        "name": "Onyame Boafuo",
+        "url": "https://open.spotify.com/album/3A9h6NBLzC7335Gfj26VXg"
       },
       "artists": [
         {
-          "name": "Cindy Thompson",
-          "url": "https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd"
+          "name": "Esther Smith",
+          "url": "https://open.spotify.com/artist/3t3GGsUT1tS3BK1uohGLB8"
         }
       ],
-      "duration_ms": 377280,
-      "name": "Awanwan Do",
-      "url": "https://open.spotify.com/track/3u08knojRQ81BB2GXTAHXz"
+      "duration_ms": 316055,
+      "name": "Nipa",
+      "url": "https://open.spotify.com/track/0XJE7VhpUDo9i1bVi94Kgt"
     },
     {
       "added_at": "2023-04-06 15:07:44",
@@ -251,38 +251,6 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 204795,
-      "name": "Akokyem Nyame",
-      "url": "https://open.spotify.com/track/1LSikFgLBvM5zoYAlFNmE8"
-    },
-    {
-      "added_at": "2023-04-06 15:07:44",
-      "album": {
-        "name": "Onyame Boafuo",
-        "url": "https://open.spotify.com/album/3A9h6NBLzC7335Gfj26VXg"
-      },
-      "artists": [
-        {
-          "name": "Esther Smith",
-          "url": "https://open.spotify.com/artist/3t3GGsUT1tS3BK1uohGLB8"
-        }
-      ],
-      "duration_ms": 316055,
-      "name": "Nipa",
-      "url": "https://open.spotify.com/track/0XJE7VhpUDo9i1bVi94Kgt"
-    },
-    {
-      "added_at": "2023-04-06 15:07:44",
-      "album": {
         "name": "Yesu Do",
         "url": "https://open.spotify.com/album/2zGL04iYPYg8nKkGe4Mk8k"
       },
@@ -299,18 +267,50 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
-        "name": "Akristofoo Adooso",
-        "url": "https://open.spotify.com/album/5S2DznYRyX8LzAimnvCNCw"
+        "name": "Cindy's Messiah",
+        "url": "https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD"
       },
       "artists": [
         {
-          "name": "Hannah Marfo",
-          "url": "https://open.spotify.com/artist/6ayFJ67xxcAHoxGySRqLeK"
+          "name": "Cindy Thompson",
+          "url": "https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd"
         }
       ],
-      "duration_ms": 442409,
-      "name": "Akristofoo Adooso",
-      "url": "https://open.spotify.com/track/7E889Da9t6o7vx8HdaDryH"
+      "duration_ms": 377280,
+      "name": "Awanwan Do",
+      "url": "https://open.spotify.com/track/3u08knojRQ81BB2GXTAHXz"
+    },
+    {
+      "added_at": "2023-04-06 15:07:44",
+      "album": {
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 204795,
+      "name": "Akokyem Nyame",
+      "url": "https://open.spotify.com/track/1LSikFgLBvM5zoYAlFNmE8"
+    },
+    {
+      "added_at": "2023-04-06 15:07:44",
+      "album": {
+        "name": "The Counselor I",
+        "url": "https://open.spotify.com/album/6SguQdeD3ejoocVxix2Lry"
+      },
+      "artists": [
+        {
+          "name": "Nacee",
+          "url": "https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK"
+        }
+      ],
+      "duration_ms": 306741,
+      "name": "E Be God",
+      "url": "https://open.spotify.com/track/6RP4VR5DiCWPKkyQF4vxJD"
     },
     {
       "added_at": "2023-04-06 15:07:44",
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
-        "name": "The Counselor I",
-        "url": "https://open.spotify.com/album/6SguQdeD3ejoocVxix2Lry"
+        "name": "Akristofoo Adooso",
+        "url": "https://open.spotify.com/album/5S2DznYRyX8LzAimnvCNCw"
       },
       "artists": [
         {
-          "name": "Nacee",
-          "url": "https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK"
+          "name": "Hannah Marfo",
+          "url": "https://open.spotify.com/artist/6ayFJ67xxcAHoxGySRqLeK"
         }
       ],
-      "duration_ms": 306741,
-      "name": "E Be God",
-      "url": "https://open.spotify.com/track/6RP4VR5DiCWPKkyQF4vxJD"
+      "duration_ms": 442409,
+      "name": "Akristofoo Adooso",
+      "url": "https://open.spotify.com/track/7E889Da9t6o7vx8HdaDryH"
     },
     {
       "added_at": "2023-04-06 15:07:44",
@@ -379,38 +379,6 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
-        "name": "Aseda",
-        "url": "https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ"
-      },
-      "artists": [
-        {
-          "name": "Daughters of Glorious Jesus",
-          "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
-        }
-      ],
-      "duration_ms": 527640,
-      "name": "Yesu Mo",
-      "url": "https://open.spotify.com/track/50PVmLYrTRIzAk7J1gxxJb"
-    },
-    {
-      "added_at": "2023-04-06 15:07:44",
-      "album": {
-        "name": "The Altar",
-        "url": "https://open.spotify.com/album/6aGS6hhyjFgwrO1voxYyk4"
-      },
-      "artists": [
-        {
-          "name": "No Tribe",
-          "url": "https://open.spotify.com/artist/6ocbT2YYie059c1m8axmG1"
-        }
-      ],
-      "duration_ms": 258821,
-      "name": "ADOM BI",
-      "url": "https://open.spotify.com/track/1265RZfD3yji9xZ123cFUL"
-    },
-    {
-      "added_at": "2023-04-06 15:07:44",
-      "album": {
         "name": "Onyame Wo Ho",
         "url": "https://open.spotify.com/album/2DPjutXnhem2N3yTQfnFMo"
       },
@@ -423,6 +391,22 @@
       "duration_ms": 302628,
       "name": "Me Da Wase",
       "url": "https://open.spotify.com/track/0GWEgzFgCq4lHxQ1kRg5Om"
+    },
+    {
+      "added_at": "2023-04-06 15:07:44",
+      "album": {
+        "name": "Aseda",
+        "url": "https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ"
+      },
+      "artists": [
+        {
+          "name": "Daughters of Glorious Jesus",
+          "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
+        }
+      ],
+      "duration_ms": 527640,
+      "name": "Yesu Mo",
+      "url": "https://open.spotify.com/track/50PVmLYrTRIzAk7J1gxxJb"
     },
     {
       "added_at": "2023-04-06 15:07:44",
@@ -447,18 +431,18 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
-        "name": "Osoro Ne Yefie",
-        "url": "https://open.spotify.com/album/558XdQJHrmVdEApTIorcdx"
+        "name": "The Altar",
+        "url": "https://open.spotify.com/album/6aGS6hhyjFgwrO1voxYyk4"
       },
       "artists": [
         {
-          "name": "Florence Obinim",
-          "url": "https://open.spotify.com/artist/4RTr7NACMCVixQUQlP64NO"
+          "name": "No Tribe",
+          "url": "https://open.spotify.com/artist/6ocbT2YYie059c1m8axmG1"
         }
       ],
-      "duration_ms": 434259,
-      "name": "Osoro Ne Yefie",
-      "url": "https://open.spotify.com/track/1THEQVHkf4yLPzoieMQk3B"
+      "duration_ms": 258821,
+      "name": "ADOM BI",
+      "url": "https://open.spotify.com/track/1265RZfD3yji9xZ123cFUL"
     },
     {
       "added_at": "2023-04-06 15:07:44",
@@ -479,6 +463,22 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
+        "name": "Osoro Ne Yefie",
+        "url": "https://open.spotify.com/album/558XdQJHrmVdEApTIorcdx"
+      },
+      "artists": [
+        {
+          "name": "Florence Obinim",
+          "url": "https://open.spotify.com/artist/4RTr7NACMCVixQUQlP64NO"
+        }
+      ],
+      "duration_ms": 434259,
+      "name": "Osoro Ne Yefie",
+      "url": "https://open.spotify.com/track/1THEQVHkf4yLPzoieMQk3B"
+    },
+    {
+      "added_at": "2023-04-06 15:07:44",
+      "album": {
         "name": "My Saviour",
         "url": "https://open.spotify.com/album/5dDZ6d85Ak4mwjt5YUvwlC"
       },
@@ -491,22 +491,6 @@
       "duration_ms": 331998,
       "name": "Agyenkwah",
       "url": "https://open.spotify.com/track/0Mo8oQn8ZjAhU8ftXjxrg7"
-    },
-    {
-      "added_at": "2023-04-06 15:07:44",
-      "album": {
-        "name": "Aseda",
-        "url": "https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ"
-      },
-      "artists": [
-        {
-          "name": "Daughters of Glorious Jesus",
-          "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
-        }
-      ],
-      "duration_ms": 427226,
-      "name": "Wo Ntaban",
-      "url": "https://open.spotify.com/track/1QBnMo0xD8wSDpgM9xh9uo"
     },
     {
       "added_at": "2023-04-06 15:07:44",
@@ -575,8 +559,8 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
-        "name": "Asomdwoe Hene",
-        "url": "https://open.spotify.com/album/4UxB7lVnR3sT4OmBuDhBw2"
+        "name": "Aseda",
+        "url": "https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ"
       },
       "artists": [
         {
@@ -584,9 +568,9 @@
           "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
         }
       ],
-      "duration_ms": 312058,
-      "name": "Twediampong Nyame",
-      "url": "https://open.spotify.com/track/4JwAjpD5KJyrqVcIg2MhLD"
+      "duration_ms": 427226,
+      "name": "Wo Ntaban",
+      "url": "https://open.spotify.com/track/1QBnMo0xD8wSDpgM9xh9uo"
     },
     {
       "added_at": "2023-04-06 15:07:44",
@@ -612,6 +596,22 @@
       },
       "artists": [
         {
+          "name": "Comfort Annor",
+          "url": "https://open.spotify.com/artist/4nltyU0ABXKiPF0BJiMrOb"
+        }
+      ],
+      "duration_ms": 328855,
+      "name": "Di Wo Hene",
+      "url": "https://open.spotify.com/track/7cf86toNQniypAJK3Gjqwu"
+    },
+    {
+      "added_at": "2023-04-06 15:07:44",
+      "album": {
+        "name": "Ghana Gospel Classics, Vol. 1",
+        "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
+      },
+      "artists": [
+        {
           "name": "Cecilia Marfo",
           "url": "https://open.spotify.com/artist/2ruygXlfagVfWzDhyNooZo"
         }
@@ -619,22 +619,6 @@
       "duration_ms": 318876,
       "name": "Afurumuba",
       "url": "https://open.spotify.com/track/2XQijOC2m8i0kCwP43quJj"
-    },
-    {
-      "added_at": "2023-04-06 15:07:44",
-      "album": {
-        "name": "Holy Ghost",
-        "url": "https://open.spotify.com/album/2QrY1DPOzjjcnglsiYPsn0"
-      },
-      "artists": [
-        {
-          "name": "Obaapa Christy",
-          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
-        }
-      ],
-      "duration_ms": 318146,
-      "name": "Mema Meni So",
-      "url": "https://open.spotify.com/track/3Rr1Y9nXzMpjqZcsKvzydb"
     },
     {
       "added_at": "2023-04-06 15:07:44",
@@ -651,22 +635,6 @@
       "duration_ms": 309525,
       "name": "Menyame Nhyiraba",
       "url": "https://open.spotify.com/track/68B3urp2uXgEDenOfqhdQi"
-    },
-    {
-      "added_at": "2023-04-06 15:07:44",
-      "album": {
-        "name": "Ghana Gospel Classics, Vol. 1",
-        "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
-      },
-      "artists": [
-        {
-          "name": "Comfort Annor",
-          "url": "https://open.spotify.com/artist/4nltyU0ABXKiPF0BJiMrOb"
-        }
-      ],
-      "duration_ms": 328855,
-      "name": "Di Wo Hene",
-      "url": "https://open.spotify.com/track/7cf86toNQniypAJK3Gjqwu"
     },
     {
       "added_at": "2023-04-06 15:07:44",
@@ -703,22 +671,6 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
-        "name": "Ma Metsi Biara",
-        "url": "https://open.spotify.com/album/3i0IMncESDwizxHybc50rp"
-      },
-      "artists": [
-        {
-          "name": "Amy Newman",
-          "url": "https://open.spotify.com/artist/4wfnvecs6YukRABU5mTyQS"
-        }
-      ],
-      "duration_ms": 336960,
-      "name": "Okamafo Jesus",
-      "url": "https://open.spotify.com/track/6HHgiMp6laU0gW41fBgJzS"
-    },
-    {
-      "added_at": "2023-04-06 15:07:44",
-      "album": {
         "name": "Holy Ghost",
         "url": "https://open.spotify.com/album/2QrY1DPOzjjcnglsiYPsn0"
       },
@@ -728,9 +680,9 @@
           "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
         }
       ],
-      "duration_ms": 347693,
-      "name": "Aden Nti Na Woresu Yi_",
-      "url": "https://open.spotify.com/track/5j3jlCQ6gJl4hMLLwTNF7H"
+      "duration_ms": 318146,
+      "name": "Mema Meni So",
+      "url": "https://open.spotify.com/track/3Rr1Y9nXzMpjqZcsKvzydb"
     },
     {
       "added_at": "2023-04-06 15:07:44",
@@ -751,6 +703,54 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
+        "name": "Ma Metsi Biara",
+        "url": "https://open.spotify.com/album/3i0IMncESDwizxHybc50rp"
+      },
+      "artists": [
+        {
+          "name": "Amy Newman",
+          "url": "https://open.spotify.com/artist/4wfnvecs6YukRABU5mTyQS"
+        }
+      ],
+      "duration_ms": 336960,
+      "name": "Okamafo Jesus",
+      "url": "https://open.spotify.com/track/6HHgiMp6laU0gW41fBgJzS"
+    },
+    {
+      "added_at": "2023-04-06 15:07:44",
+      "album": {
+        "name": "Asomdwoe Hene",
+        "url": "https://open.spotify.com/album/4UxB7lVnR3sT4OmBuDhBw2"
+      },
+      "artists": [
+        {
+          "name": "Daughters of Glorious Jesus",
+          "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
+        }
+      ],
+      "duration_ms": 312058,
+      "name": "Twediampong Nyame",
+      "url": "https://open.spotify.com/track/4JwAjpD5KJyrqVcIg2MhLD"
+    },
+    {
+      "added_at": "2023-04-06 15:07:44",
+      "album": {
+        "name": "Ghana Gospel Classics, Vol. 1",
+        "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
+      },
+      "artists": [
+        {
+          "name": "Ama Boahemaa",
+          "url": "https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU"
+        }
+      ],
+      "duration_ms": 331389,
+      "name": "Enyi Me Mma",
+      "url": "https://open.spotify.com/track/3jT6EePgDYEyeXCyH6GPYS"
+    },
+    {
+      "added_at": "2023-04-06 15:07:44",
+      "album": {
         "name": "Yehowa Ne Mabankese",
         "url": "https://open.spotify.com/album/7EjET7MSD1KF7p0xm6zVNx"
       },
@@ -763,6 +763,22 @@
       "duration_ms": 383120,
       "name": "Asem kese bi reba",
       "url": "https://open.spotify.com/track/18saGdKyUZvHf1A6etiZNg"
+    },
+    {
+      "added_at": "2023-04-06 15:07:44",
+      "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/2QrY1DPOzjjcnglsiYPsn0"
+      },
+      "artists": [
+        {
+          "name": "Obaapa Christy",
+          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
+        }
+      ],
+      "duration_ms": 347693,
+      "name": "Aden Nti Na Woresu Yi_",
+      "url": "https://open.spotify.com/track/5j3jlCQ6gJl4hMLLwTNF7H"
     },
     {
       "added_at": "2023-04-06 15:07:44",
@@ -783,22 +799,6 @@
       "duration_ms": 394031,
       "name": "Yesu Mo",
       "url": "https://open.spotify.com/track/5LDQxqWab9bVdOMv0K1Ut6"
-    },
-    {
-      "added_at": "2023-04-06 15:07:44",
-      "album": {
-        "name": "Ghana Gospel Classics, Vol. 1",
-        "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
-      },
-      "artists": [
-        {
-          "name": "Ama Boahemaa",
-          "url": "https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU"
-        }
-      ],
-      "duration_ms": 331389,
-      "name": "Enyi Me Mma",
-      "url": "https://open.spotify.com/track/3jT6EePgDYEyeXCyH6GPYS"
     },
     {
       "added_at": "2023-04-06 15:07:44",

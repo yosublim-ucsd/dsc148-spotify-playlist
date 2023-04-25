@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 29835,
+  "num_followers": 29877,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk4NTk1NywwMDAwMDAwMDhmNDI3M2EyMzgwMWUzMjM0NWMxZmRjMWJkMzZjY2Zi",
+  "snapshot_id": "MTY0Mzk4NTk1NywwMDAwMDAwMGZmMDJkYWE1Y2Y4NDYyZDMzOWUwYjU3MGJiMzc4Mzg2",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Un Sentimiento de Amor",
-        "url": "https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00edces D'Jauja",
-          "url": "https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D"
-        }
-      ],
-      "duration_ms": 263680,
-      "name": "La Orquesta",
-      "url": "https://open.spotify.com/track/0NM3JRUlrBhKbJM2lgKesV"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Max Castro y la Gran Banda",
         "url": "https://open.spotify.com/album/3AKPMqREYYrNpkqXC5t8Tv"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 330016,
       "name": "Tu Me Pides Que Te Olvide",
       "url": "https://open.spotify.com/track/2H19r12AYTfmJ4TBlXXWRE"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Un Sentimiento de Amor",
+        "url": "https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00edces D'Jauja",
+          "url": "https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D"
+        }
+      ],
+      "duration_ms": 263680,
+      "name": "La Orquesta",
+      "url": "https://open.spotify.com/track/0NM3JRUlrBhKbJM2lgKesV"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -335,6 +335,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "Un Sentimiento de Amor",
+        "url": "https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00edces D'Jauja",
+          "url": "https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D"
+        }
+      ],
+      "duration_ms": 277603,
+      "name": "Amor Ajeno",
+      "url": "https://open.spotify.com/track/3UlgjKoybmeyMmfIspHBe9"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "Lejos de Ti",
         "url": "https://open.spotify.com/album/2Jlb5DtMYxEaP5V2W3L6s7"
       },
@@ -367,22 +383,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Un Sentimiento de Amor",
-        "url": "https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00edces D'Jauja",
-          "url": "https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D"
-        }
-      ],
-      "duration_ms": 277603,
-      "name": "Amor Ajeno",
-      "url": "https://open.spotify.com/track/3UlgjKoybmeyMmfIspHBe9"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Para Ti",
         "url": "https://open.spotify.com/album/4HU9eCiuTHoxRANEAlQ8xu"
       },
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Amor, amor",
-        "url": "https://open.spotify.com/album/6Cu6M7FESzzGeFLtyMz5Zh"
-      },
-      "artists": [
-        {
-          "name": "D\u00fao Hnos. Gait\u00e1n Castro",
-          "url": "https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Otra vez me equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/68fz1ipIJt51gEEZY9Y0eP"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "La princesa del Folklore",
         "url": "https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 260213,
       "name": "Como Me Duele Saber",
       "url": "https://open.spotify.com/track/4m93vYRlOax2Vbbl2fXJnW"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Amor, amor",
+        "url": "https://open.spotify.com/album/6Cu6M7FESzzGeFLtyMz5Zh"
+      },
+      "artists": [
+        {
+          "name": "D\u00fao Hnos. Gait\u00e1n Castro",
+          "url": "https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Otra vez me equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/68fz1ipIJt51gEEZY9Y0eP"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "La princesa del Folklore",
+        "url": "https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR"
+      },
+      "artists": [
+        {
+          "name": "Alicia Delgado",
+          "url": "https://open.spotify.com/artist/0rNV2u9J1LiJ2BRtN3oOtW"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "D\u00f3nde Est\u00e1 tu Dinero",
+      "url": "https://open.spotify.com/track/6i1F5QTSueIXqY0lkmkjEo"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "Pastorita Huaracina",
         "url": "https://open.spotify.com/album/7LrDqHp1qBGa16z2MqqThM"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 237826,
       "name": "Despu\u00e9s de Mi Qu\u00e9 Importa",
       "url": "https://open.spotify.com/track/0kGI5wzDxnh8sz42sb9H7g"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "La princesa del Folklore",
-        "url": "https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR"
-      },
-      "artists": [
-        {
-          "name": "Alicia Delgado",
-          "url": "https://open.spotify.com/artist/0rNV2u9J1LiJ2BRtN3oOtW"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "D\u00f3nde Est\u00e1 tu Dinero",
-      "url": "https://open.spotify.com/track/6i1F5QTSueIXqY0lkmkjEo"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "La Reina de las Parranditas",
-        "url": "https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F"
-      },
-      "artists": [
-        {
-          "name": "Abencia Meza",
-          "url": "https://open.spotify.com/artist/4zCJHsmMfINEFpnFz1DkZt"
-        }
-      ],
-      "duration_ms": 220708,
-      "name": "Cuanto Tiempo Sin Verte",
-      "url": "https://open.spotify.com/track/7GlMO54HvIzDc6E7vWw7W9"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Huayno, Vol. 1",
         "url": "https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 159520,
       "name": "Chall Huaschallay",
       "url": "https://open.spotify.com/track/756FMK950mmLA7hFN05QT2"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "La Reina de las Parranditas",
+        "url": "https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F"
+      },
+      "artists": [
+        {
+          "name": "Abencia Meza",
+          "url": "https://open.spotify.com/artist/4zCJHsmMfINEFpnFz1DkZt"
+        }
+      ],
+      "duration_ms": 220708,
+      "name": "Cuanto Tiempo Sin Verte",
+      "url": "https://open.spotify.com/track/7GlMO54HvIzDc6E7vWw7W9"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/1x7195GR18267D7Ix6xpzE"
-      },
-      "artists": [
-        {
-          "name": "Los Campesinos",
-          "url": "https://open.spotify.com/artist/4Y6bDQ3ZuNk1IcX4FmdrBZ"
-        }
-      ],
-      "duration_ms": 171866,
-      "name": "Profesorita",
-      "url": "https://open.spotify.com/track/19fr1BVHzzdxkJtHee5PU7"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Conjunto Condemayta de Acomayo",
         "url": "https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 173066,
       "name": "Serenata Condemayta",
       "url": "https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/1x7195GR18267D7Ix6xpzE"
+      },
+      "artists": [
+        {
+          "name": "Los Campesinos",
+          "url": "https://open.spotify.com/artist/4Y6bDQ3ZuNk1IcX4FmdrBZ"
+        }
+      ],
+      "duration_ms": 171866,
+      "name": "Profesorita",
+      "url": "https://open.spotify.com/track/19fr1BVHzzdxkJtHee5PU7"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Calaveras Serranas",
-        "url": "https://open.spotify.com/album/4BpC4Ap05hVHTqZf91YwY2"
-      },
-      "artists": [
-        {
-          "name": "Luis Mendoza",
-          "url": "https://open.spotify.com/artist/4MmslUYXQXsZjNAXrgyYA2"
-        }
-      ],
-      "duration_ms": 171415,
-      "name": "Dejame Asi",
-      "url": "https://open.spotify.com/track/5xa252VDy3F7yeulREj06Z"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Mis \u00c9xitos Eternos Vol. 2",
         "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 222973,
       "name": "Amigo",
       "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Calaveras Serranas",
+        "url": "https://open.spotify.com/album/4BpC4Ap05hVHTqZf91YwY2"
+      },
+      "artists": [
+        {
+          "name": "Luis Mendoza",
+          "url": "https://open.spotify.com/artist/4MmslUYXQXsZjNAXrgyYA2"
+        }
+      ],
+      "duration_ms": 171415,
+      "name": "Dejame Asi",
+      "url": "https://open.spotify.com/track/5xa252VDy3F7yeulREj06Z"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Ayacucho En El Corazon De Todos Vol.2",
-        "url": "https://open.spotify.com/album/5J36nWq3TbIe8S9zvQaERi"
-      },
-      "artists": [
-        {
-          "name": "Kiko Revatta",
-          "url": "https://open.spotify.com/artist/13biTRIVK4wnKZ8KVvTgRa"
-        }
-      ],
-      "duration_ms": 197080,
-      "name": "Donde Estar\u00e1s Palomita",
-      "url": "https://open.spotify.com/track/3M4eyS4qeq1GXUNAVdTGHN"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Huayno, Vol. 2",
         "url": "https://open.spotify.com/album/5ruEdZJIr4XPSlNvCrnrU4"
       },
@@ -967,18 +951,34 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "El Jilguero de Huascar\u00e1n",
-        "url": "https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5"
+        "name": "Ayacucho En El Corazon De Todos Vol.2",
+        "url": "https://open.spotify.com/album/5J36nWq3TbIe8S9zvQaERi"
       },
       "artists": [
         {
-          "name": "Ernesto Sanchez Fajardo",
-          "url": "https://open.spotify.com/artist/3aPmMxqcg0JkCW3Em1SSzC"
+          "name": "Kiko Revatta",
+          "url": "https://open.spotify.com/artist/13biTRIVK4wnKZ8KVvTgRa"
         }
       ],
-      "duration_ms": 161973,
-      "name": "Carrito del Regreso",
-      "url": "https://open.spotify.com/track/6E37bI48bQcPPJj20aNCOL"
+      "duration_ms": 197080,
+      "name": "Donde Estar\u00e1s Palomita",
+      "url": "https://open.spotify.com/track/3M4eyS4qeq1GXUNAVdTGHN"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Lejos de Ti",
+        "url": "https://open.spotify.com/album/2Jlb5DtMYxEaP5V2W3L6s7"
+      },
+      "artists": [
+        {
+          "name": "Pelo D'Ambrosio",
+          "url": "https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ"
+        }
+      ],
+      "duration_ms": 316586,
+      "name": "Juntito a Ti",
+      "url": "https://open.spotify.com/track/7nPN1YXRgC737Z5W0FM0G9"
     }
   ],
   "unique_name": "Huaynos Cl\u00e1sicos",

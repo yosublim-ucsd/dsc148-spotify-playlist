@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 
 > Get ready for some serious 00s nostalgia\. Cover : Nancy Ajram
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,190 likes - 101 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,351 likes - 101 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 | 35 | [El Hob El Kebir](https://open.spotify.com/track/093CMFUwvPyFIsjBsVfBPO) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [El Hob El Kebir](https://open.spotify.com/album/1dj55G9LZC4mbe8KaFFmHa) | 5:15 |
 | 36 | [Law Fi Hayaty \(Thousands Of Miles\)](https://open.spotify.com/track/21DS2Cjqf3Qa6FXmexuRoO) | [Amr Mostafa](https://open.spotify.com/artist/3jxNzE2RxxXN2MzgBHEpEc), [Orsi](https://open.spotify.com/artist/5YYpbiR03lcKVPdwlT8Cv8) | [Sunshine Arabia 2008](https://open.spotify.com/album/7MaGaXlvc3hPQvdzOtJOWz) | 3:22 |
 | 37 | [اتحدى العالم](https://open.spotify.com/track/13Lc1DODxLE01Gs4Cpkp1n) | [صابر الرباعى](https://open.spotify.com/artist/3skqO5M0sMXLt506BFMksT) | [اتحدى العالم](https://open.spotify.com/album/0ld1Uq0f8yT6f7AAccuWSH) | 4:57 |
-| 38 | [ياريتنى انا ولا انت](https://open.spotify.com/track/66OfX7oIyqZvSyq1k7Hw8L) | [Assi El Helani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [2010](https://open.spotify.com/album/1UmV5gMffuODbFphFHkM2M) | 4:17 |
+| 38 | [ياريتنى انا ولا انت](https://open.spotify.com/track/66OfX7oIyqZvSyq1k7Hw8L) | [Assi El Hallani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [2010](https://open.spotify.com/album/1UmV5gMffuODbFphFHkM2M) | 4:17 |
 | 39 | [Tetraga Feya](https://open.spotify.com/track/0pWNpTm2RtWdYbVZVxUC6N) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Habeeb El Alb](https://open.spotify.com/album/0N6f8GhfijcS2cNAZRNS6h) | 5:30 |
 | 40 | [Habiby Da](https://open.spotify.com/track/5N0w2n2B3OzvBZv4WjcVyA) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Habiby Da](https://open.spotify.com/album/4L55wqHzJVwxNDHSqapcEt) | 4:27 |
 | 41 | [Inta Eyh](https://open.spotify.com/track/7LpGX7ajb4o8OPQ1XdeeFZ) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [أجمل أغاني نانسي عجرم](https://open.spotify.com/album/2W0VSGqUQZudLnc6drtRAs) | 5:04 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 | 45 | [Waheshni Eh](https://open.spotify.com/track/3dKgDjL69KuoyMNeYfUbWJ) | [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh) | [Nadini](https://open.spotify.com/album/3rShjwnO7rFyMxOdKkuPxg) | 4:11 |
 | 46 | [Arraby Leya](https://open.spotify.com/track/2CCuNRmNuZXqlnSLs75qN4) | [Samo Zaen](https://open.spotify.com/artist/4s7xsFTPsZZcIzKv0Ryg22) | [Arraby Leya](https://open.spotify.com/album/2jBsjUNWT1qKhYEZVXlnj0) | 4:14 |
 | 47 | [Ettala Fia](https://open.spotify.com/track/1AofrI6TYzXGIrvKk3tjWe) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Helm](https://open.spotify.com/album/5ZtffaFHscFIsdnJfAPotq) | 4:45 |
-| 48 | [wani marek marreyt](https://open.spotify.com/track/2ChVD1dEZ94ily3vhAg3pl) | [Assi El Helani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [Wani Marek Marreyt](https://open.spotify.com/album/2vJhqwJSrEGuXJbFKK5ljE) | 7:52 |
+| 48 | [wani marek marreyt](https://open.spotify.com/track/2ChVD1dEZ94ily3vhAg3pl) | [Assi El Hallani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [Wani Marek Marreyt](https://open.spotify.com/album/2vJhqwJSrEGuXJbFKK5ljE) | 7:52 |
 | 49 | [طبعك غير](https://open.spotify.com/track/50IxI0PAJfii3ggbTVTyU7) | [Nabeel Shuail](https://open.spotify.com/artist/4nZsv9MFbvSrHrNupU4Ttu) | [نبيل ٢٠٠٠](https://open.spotify.com/album/5MBlfc6WofFmD0wgOeAx5Q) | 5:42 |
 | 50 | [قلبي معذب](https://open.spotify.com/track/7d9vTDybKlnO9mI0sXvi9n) | [يوسف العماني](https://open.spotify.com/artist/5hMy9WpurfuusrrNfGXTjB) | [أحلى اثنين](https://open.spotify.com/album/2xaQDViCrqeoXhz6X3OPvM) | 6:18 |
 | 51 | [ماس ولولي](https://open.spotify.com/track/68gcupCXitbNQZGhXoBaMT) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [ديانا 2006](https://open.spotify.com/album/3XqhAngtsMWkr4ffCDy8Vd) | 3:30 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 | 57 | [Habeb Hayaty](https://open.spotify.com/track/4q8JLWV2F4a59csHoT99f9) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC) | [Hayaty](https://open.spotify.com/album/4qQIQlbIiyWWIiu8Jr6cVX) | 3:58 |
 | 58 | [Tehlefly Asada](https://open.spotify.com/track/6Fa206Tdaj7QioM9XQsZGh) | [Wama](https://open.spotify.com/artist/7yB2bLPVo9PoqeN9c1T6UN) | [Ya Ghaly Alaya](https://open.spotify.com/album/2mZbo3T8JPKZQmYHnlGiWP) | 3:51 |
 | 59 | [Tararam](https://open.spotify.com/track/6wxXxapAHwpxgHdB0FCax2) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Meen Ana](https://open.spotify.com/album/26ZTjcVfkvcQLowlbwCYGl) | 3:45 |
-| 60 | [عذبوني وعذبوك](https://open.spotify.com/track/4T5vXv4AeBVc9dzSFn8BN4) | [Assi El Helani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [احلى العيون](https://open.spotify.com/album/5hdgejTa41BMFTZwcB1h6d) | 9:06 |
+| 60 | [عذبوني وعذبوك](https://open.spotify.com/track/4T5vXv4AeBVc9dzSFn8BN4) | [Assi El Hallani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [احلى العيون](https://open.spotify.com/album/5hdgejTa41BMFTZwcB1h6d) | 9:06 |
 | 61 | [El Salamou Aleikom](https://open.spotify.com/track/7uVfi1yiAUujJ8TP3jQcNB) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Talakeek](https://open.spotify.com/album/382fYWYWmF1pHlVf0FBma3) | 4:02 |
 | 62 | [Barsha](https://open.spotify.com/track/7DMuJ4PIkv72xeDsPa9qmF) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [Sharea El Gharam](https://open.spotify.com/album/3FYfEWKC4DUiE57waMiFNS) | 3:50 |
 | 63 | [Fi 'Eshq El Banat](https://open.spotify.com/track/6NmGlzeBRAUTs3FIXgXlO6) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [Fi 'Eshq El Banat](https://open.spotify.com/album/0IiIDiJz2V8n6Xcs4mMwzM) | 5:23 |
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 | 92 | [Ana Ayesh](https://open.spotify.com/track/6mfIxe4u5I0y7IdFHMdlxJ) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ahla Ma Ghana Amr Diab](https://open.spotify.com/album/0bRoop19EC0m1TfSScSPhx) | 3:44 |
 | 93 | [لمستك](https://open.spotify.com/track/4Wq3uwziBYLuc609Xzf8eS) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [أيامي](https://open.spotify.com/album/7oLkw8eFG4CWj0t7EFRAGY) | 3:53 |
 | 94 | [El Alem Allah](https://open.spotify.com/track/0iHyLzEeCcu19aEC2M3o5M) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Tamally Maak](https://open.spotify.com/album/1qmAaW25CPUyam9Wrp9ZEu) | 4:04 |
-| 95 | [Bhibbek We Bghar](https://open.spotify.com/track/2jb5fLhckZg7xbcXU3TpQl) | [Assi El Helani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [كيد عزالك](https://open.spotify.com/album/7fJTTHs0CjC00QW4D1zDQS) | 5:58 |
+| 95 | [Bhibbek We Bghar](https://open.spotify.com/track/2jb5fLhckZg7xbcXU3TpQl) | [Assi El Hallani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [كيد عزالك](https://open.spotify.com/album/7fJTTHs0CjC00QW4D1zDQS) | 5:58 |
 | 96 | [El Wad Albo Beyewga'o](https://open.spotify.com/track/2nFgRNk02oiGaLTmE63mwv) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Kan Zaman](https://open.spotify.com/album/21rR3ItCM20ox0nJ4QqBDi) | 4:07 |
 | 97 | [Ghali Aliya](https://open.spotify.com/track/0ZTi4yLjvzPELisNo5nt2r) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Ana Horra](https://open.spotify.com/album/34O1UaMvw1US6F7JvtGw34) | 3:32 |
 | 98 | [Bos Alaya](https://open.spotify.com/track/4LKkqI4NhqiFVmpg0fnQKD) | [Dana Halabi](https://open.spotify.com/artist/0RolaL9Dqjs9iMMLflD1ts) | [Bos Alaya](https://open.spotify.com/album/3YINSYDHz2LuiiZgRcbHvo) | 4:11 |

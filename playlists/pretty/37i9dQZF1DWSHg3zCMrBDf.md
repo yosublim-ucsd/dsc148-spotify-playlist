@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 
 > The hottest tracks in Ghana\. Cover: <a href="https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ?si=G\_BC2QKDSa2xrXlOpDfUQA"> Gyakie</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,989 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,035 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

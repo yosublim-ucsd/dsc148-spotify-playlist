@@ -4,7 +4,7 @@
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Diamante Eléctrico
 
-203 songs - 12 hr 36 min
+204 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Alquimia](https://open.spotify.com/track/0kZbVGfQ1As85qQQpqaAFP) | [Mad Tree](https://open.spotify.com/artist/5tYyhyk6c1hUFgxiIke31W) | [Centésimo Humano](https://open.spotify.com/album/4zHaKuOxtImXo927eeh6So) | 3:27 | 2022-03-11 | 2022-07-29 |
 | [Amor Depredador](https://open.spotify.com/track/5mfaWeUAGR81onvg2m1kmZ) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Babel \(Special Edition\)](https://open.spotify.com/album/1qDJZqRsBuvynficMP9CqK) | 3:57 | 2022-06-24 |  |
 | [Amor Depredador](https://open.spotify.com/track/1vG6SgW6amCI36waKCCpgj) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Babel \(Special Edition\)](https://open.spotify.com/album/54FlK7Mg1gDyCpE11R0hEs) | 3:58 | 2022-03-11 | 2022-07-29 |
-| [Analogía de una Laguna](https://open.spotify.com/track/25dVgkeJ3KPjcYBrswDFfJ) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Analogía de una Laguna](https://open.spotify.com/album/723DfEBve0LRScRimGdq9c) | 3:30 | 2022-03-11 |  |
+| [Analogía de una Laguna](https://open.spotify.com/track/25dVgkeJ3KPjcYBrswDFfJ) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Analogía de una Laguna](https://open.spotify.com/album/723DfEBve0LRScRimGdq9c) | 3:30 | 2022-03-11 | 2023-04-25 |
 | [Antes de Que Sea Muy Tarde](https://open.spotify.com/track/5bIuihsCdiDMA6MmlGFgre) | [Sismo](https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq) | [Antes de Que Sea Muy Tarde](https://open.spotify.com/album/6FFIXNpWmBGwZijE6A9lNe) | 3:12 | 2022-03-11 | 2022-07-20 |
 | [Antiamor](https://open.spotify.com/track/5vLg2iDE8pb6uLu11e1Vvf) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Antiamor](https://open.spotify.com/album/0uIgAixzHB6PT6MChRONXu) | 3:43 | 2022-10-13 | 2023-04-03 |
 | [Antiamor](https://open.spotify.com/track/6bAxhfCA4JEeaSliO7pFUh) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Antiamor](https://open.spotify.com/album/3nNpSxqEyPHwuWh9bYkjIT) | 3:44 | 2022-03-11 | 2022-07-18 |
@@ -137,6 +137,7 @@
 | [Olvidarme de Todo](https://open.spotify.com/track/7lwA01yBJAfoVz730sBcox) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY), [Oso Pardo](https://open.spotify.com/artist/5VvrQ69cP2LpCA3io3vCyQ) | [Olvidarme de Todo](https://open.spotify.com/album/1TwgjOEG8WS6pkjLUstupB) | 3:21 | 2022-03-11 | 2022-07-15 |
 | [Oro](https://open.spotify.com/track/1zrGYwPwxPUzoBwDzutTlf) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Buitres](https://open.spotify.com/album/1b7wcyINye4qF7MMNcYP7Y) | 3:26 | 2022-03-11 | 2022-07-29 |
 | [Oro](https://open.spotify.com/track/25kTcpm09oAgqvPWdREsw5) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Buitres](https://open.spotify.com/album/0to2ICjzDMqXzRnuqdpyWL) | 3:26 | 2022-06-24 | 2023-04-20 |
+| [Oro](https://open.spotify.com/track/6XTYDLahRhEf98TOPk0y96) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Buitres](https://open.spotify.com/album/1DQ3KAs2WuIVMVKwrEeseh) | 3:26 | 2023-04-14 |  |
 | [Otro Lugar](https://open.spotify.com/track/5lR7IpONnWsUUr1NueGRrs) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx), [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY) | [Otro Lugar](https://open.spotify.com/album/7qfju63LuKmxxw2EDnlDTw) | 2:29 | 2023-04-14 |  |
 | [Palíndromo \- Tiny Set](https://open.spotify.com/track/75ppzlB8fW5TRa2MsjlP1f) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h) | [Palíndromo](https://open.spotify.com/album/5PYBhp9feaC4q97NVbNhmN) | 4:56 | 2022-03-11 | 2022-07-27 |
 | [Pelao](https://open.spotify.com/track/276M7x5KBZW3DHer5uS4tv) | [La Chiva Gantiva](https://open.spotify.com/artist/54FJndhLYYRtj8aR4iRJGL) | [Pelao](https://open.spotify.com/album/468RwPQ6zMVJnWrQ3KY6cs) | 2:57 | 2022-03-11 | 2022-07-27 |

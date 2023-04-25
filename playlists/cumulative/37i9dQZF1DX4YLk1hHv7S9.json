@@ -593,6 +593,24 @@
     },
     {
       "album": {
+        "name": "The Collections Volume II",
+        "url": "https://open.spotify.com/album/3ixEXXdcUGriAOLGXHgVb8"
+      },
+      "artists": [
+        {
+          "name": "Ruby Amanfu",
+          "url": "https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182299,
+      "name": "For the Rest of My Days",
+      "url": "https://open.spotify.com/track/7jaxYNfWyvlrEOZngi9IVO"
+    },
+    {
+      "album": {
         "name": "Forever and Always (Acoustic Version)",
         "url": "https://open.spotify.com/album/3wyXosy7uV7muyjHjxVTqO"
       },

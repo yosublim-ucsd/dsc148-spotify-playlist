@@ -4,7 +4,7 @@
 
 > Slow down and embrace the immensity of time\. This is just an ambient blip in the long now.
 
-343 songs - 5 day 7 hr 27 min
+344 songs - 5 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Calligraphy](https://open.spotify.com/track/4C4dXo8dv8AXIWm8a89VF0) | [Tomoko Sauvage](https://open.spotify.com/artist/6j8vIUr5loVTkj8dY1CcDp) | [Musique Hydromantique](https://open.spotify.com/album/5E0k5vGQnBgo392vUclstZ) | 20:33 | 2022-05-25 |  |
 | [Cantus; in Memory of Warren Wiltzie](https://open.spotify.com/track/3nzRf3Ajv04oi8PbnSDSP0) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [Gravitational Pull vs\. The Desire for an Aquatic Life](https://open.spotify.com/album/4ZM2tfnZjk9gMrDLAmlhKL) | 19:03 | 2022-05-25 |  |
 | [Cascade](https://open.spotify.com/track/0P13yUKMgxDgPnpruBPH4B) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Cascade](https://open.spotify.com/album/4f48opP7807oYLqYZmDTxk) | 40:10 | 2022-05-25 | 2022-07-29 |
-| [Cascade](https://open.spotify.com/track/2VnPkphYiqLB32kmabgYJ2) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Cascade](https://open.spotify.com/album/4sV11jIZ729aJiY52nYwOR) | 40:10 | 2022-07-15 |  |
+| [Cascade](https://open.spotify.com/track/2VnPkphYiqLB32kmabgYJ2) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Cascade](https://open.spotify.com/album/4sV11jIZ729aJiY52nYwOR) | 40:10 | 2022-07-15 | 2023-04-25 |
+| [Cascade](https://open.spotify.com/track/5EGKTzoHFRyqZc37eOhqFX) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Cascade](https://open.spotify.com/album/6Sw6GOVJSdtzmiPAsa6UW6) | 40:10 | 2023-01-27 |  |
 | [Cascata di Malbacco](https://open.spotify.com/track/3sCaGhYUT0HytB06FG9M23) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Tuscany](https://open.spotify.com/album/3D4mnf0AU05ASyKnf0wEiq) | 18:08 | 2022-05-25 |  |
 | [Castor & Pollux \- Live](https://open.spotify.com/track/41K2vI8Tms21IKgJh13pLR) | [sun electric](https://open.spotify.com/artist/0aJ1FZmpkkzD6RiZe33EFR) | [30.7.94 \(Live\)](https://open.spotify.com/album/3ugTjeZdK7iI8kcwb1smwy) | 18:13 | 2022-05-25 |  |
 | [Ceylon \- Remastered](https://open.spotify.com/track/5o044iIcJk99DBQYPvUlKl) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O) | [Ceylon \(Remastered\)](https://open.spotify.com/album/5z2vKjBJklrkU7liIaxLjk) | 55:30 | 2022-05-25 |  |

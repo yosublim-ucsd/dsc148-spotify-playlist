@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 118598,
+  "num_followers": 118654,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ4NDE2NSwwMDAwMDAwMDg3YjkxYjgyMDk3YjZkMWVmMWFiNmRiODU5OTI5ZTIx",
+  "snapshot_id": "MTY3NjQ4NDE2NSwwMDAwMDAwMDFmYmE5MzY1ZjUzMWYwZWU3ZTZkMDI2NWE1ZGQwZDE5",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -387,34 +387,18 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "The Golden Voice of Hawai'i, Vol. 1",
-        "url": "https://open.spotify.com/album/25lpHzBnWxYSxdcBYFrGXp"
+        "name": "Hawaiian Sunset",
+        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
       },
       "artists": [
         {
-          "name": "Dennis Pavao",
-          "url": "https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX"
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
         }
       ],
-      "duration_ms": 215680,
-      "name": "I Kona",
-      "url": "https://open.spotify.com/track/0lDQYpyEmJETEUgszTP6Ns"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Tiki for the Atomic Age",
-        "url": "https://open.spotify.com/album/2nM2Rcvns6Yb64AxylBDUA"
-      },
-      "artists": [
-        {
-          "name": "Kava Kon",
-          "url": "https://open.spotify.com/artist/1fok8glC2cepDQ0b1VBUkd"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Palace of the Tiger Women",
-      "url": "https://open.spotify.com/track/0pApiVPobdC1NR1DhTPWpY"
+      "duration_ms": 146733,
+      "name": "Kawohikukupulani",
+      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -435,18 +419,18 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Hawaiian Sunset",
-        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
+        "name": "The Golden Voice of Hawai'i, Vol. 1",
+        "url": "https://open.spotify.com/album/25lpHzBnWxYSxdcBYFrGXp"
       },
       "artists": [
         {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+          "name": "Dennis Pavao",
+          "url": "https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX"
         }
       ],
-      "duration_ms": 146733,
-      "name": "Kawohikukupulani",
-      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
+      "duration_ms": 215680,
+      "name": "I Kona",
+      "url": "https://open.spotify.com/track/0lDQYpyEmJETEUgszTP6Ns"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -463,6 +447,22 @@
       "duration_ms": 220733,
       "name": "Sunset on the Kona Kai",
       "url": "https://open.spotify.com/track/60YSnSjVaDXc1QmGzMtbEu"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Tiki for the Atomic Age",
+        "url": "https://open.spotify.com/album/2nM2Rcvns6Yb64AxylBDUA"
+      },
+      "artists": [
+        {
+          "name": "Kava Kon",
+          "url": "https://open.spotify.com/artist/1fok8glC2cepDQ0b1VBUkd"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Palace of the Tiger Women",
+      "url": "https://open.spotify.com/track/0pApiVPobdC1NR1DhTPWpY"
     },
     {
       "added_at": "2022-03-30 01:46:18",
@@ -483,6 +483,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "Yellow Bird",
+        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 164920,
+      "name": "Yellow Bird",
+      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "The Dance Beat of Xavier Cugat",
         "url": "https://open.spotify.com/album/3fGARHzOLWrwfnyZSxt0L5"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 205893,
       "name": "Perfidia",
       "url": "https://open.spotify.com/track/7jvL2XQbyF5PzYu6X3X8da"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Carnival Tropicana (1948) & Lure of the Tropics (1954)",
-        "url": "https://open.spotify.com/album/73y7cyxT1PqKOz9nrGrTYz"
-      },
-      "artists": [
-        {
-          "name": "Andre Kostelanetz & His Orchestra",
-          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
-        }
-      ],
-      "duration_ms": 259519,
-      "name": "Lotus Land",
-      "url": "https://open.spotify.com/track/0OLE9z8MZvut1EoTPmXXL7"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -527,6 +527,22 @@
       "duration_ms": 186536,
       "name": "Latin-Esque",
       "url": "https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Carnival Tropicana (1948) & Lure of the Tropics (1954)",
+        "url": "https://open.spotify.com/album/73y7cyxT1PqKOz9nrGrTYz"
+      },
+      "artists": [
+        {
+          "name": "Andre Kostelanetz & His Orchestra",
+          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
+        }
+      ],
+      "duration_ms": 259519,
+      "name": "Lotus Land",
+      "url": "https://open.spotify.com/track/0OLE9z8MZvut1EoTPmXXL7"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -575,22 +591,6 @@
       "duration_ms": 163786,
       "name": "Lepe Ula'ula",
       "url": "https://open.spotify.com/track/64Jafr1L2yubJO8Mywg159"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Yellow Bird",
-        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 164920,
-      "name": "Yellow Bird",
-      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -691,22 +691,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Vintage Jazz N\u00ba 32 - EPs Collectors \"Aquellos Ojos Verdes\"",
-        "url": "https://open.spotify.com/album/7BGTQTeKHVTyWn6jX8WGbs"
-      },
-      "artists": [
-        {
-          "name": "Al Romero And His Orchestra",
-          "url": "https://open.spotify.com/artist/3Gsyc83lbLLKB4m3indOf0"
-        }
-      ],
-      "duration_ms": 162721,
-      "name": "Aquellos Ojos Verdes",
-      "url": "https://open.spotify.com/track/2Dcbh5kFL45gTrFDJj8ddu"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Ultra-Lounge / Bachelor Pad Royale Volume Four",
         "url": "https://open.spotify.com/album/2AAQHjT8SmbNdKsYIO9dfI"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 128000,
       "name": "Melancholy Serenade - Remastered",
       "url": "https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Vintage Jazz N\u00ba 32 - EPs Collectors \"Aquellos Ojos Verdes\"",
+        "url": "https://open.spotify.com/album/7BGTQTeKHVTyWn6jX8WGbs"
+      },
+      "artists": [
+        {
+          "name": "Al Romero And His Orchestra",
+          "url": "https://open.spotify.com/artist/3Gsyc83lbLLKB4m3indOf0"
+        }
+      ],
+      "duration_ms": 162721,
+      "name": "Aquellos Ojos Verdes",
+      "url": "https://open.spotify.com/track/2Dcbh5kFL45gTrFDJj8ddu"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -819,22 +819,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Vintage Dance Orchestras No. 304 - EP: Provocative Cha Cha Cha",
-        "url": "https://open.spotify.com/album/2lSnwuw4dkzBcVoXFP1RLM"
-      },
-      "artists": [
-        {
-          "name": "Enoch Light And His Orchestra",
-          "url": "https://open.spotify.com/artist/6OoJgs9H4YzzniwXUwY7Yc"
-        }
-      ],
-      "duration_ms": 161595,
-      "name": "Too Young Cha Cha",
-      "url": "https://open.spotify.com/track/0dCWH5s6UEeqsSGSVsdvCS"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "The Unforgettable Sounds of Esquivel",
         "url": "https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 149000,
       "name": "Mini Skirt",
       "url": "https://open.spotify.com/track/2IFc95wACtdfB2tCMStLgy"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Vintage Dance Orchestras No. 304 - EP: Provocative Cha Cha Cha",
+        "url": "https://open.spotify.com/album/2lSnwuw4dkzBcVoXFP1RLM"
+      },
+      "artists": [
+        {
+          "name": "Enoch Light And His Orchestra",
+          "url": "https://open.spotify.com/artist/6OoJgs9H4YzzniwXUwY7Yc"
+        }
+      ],
+      "duration_ms": 161595,
+      "name": "Too Young Cha Cha",
+      "url": "https://open.spotify.com/track/0dCWH5s6UEeqsSGSVsdvCS"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -1013,22 +1013,6 @@
       "url": "https://open.spotify.com/track/4YFXgIruiLlfzPFlwZ0Mf4"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Infinity in Sound, Vol. 2",
-        "url": "https://open.spotify.com/album/5NYl6kCABFF9snRkzlamzc"
-      },
-      "artists": [
-        {
-          "name": "Esquivel!",
-          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
-        }
-      ],
-      "duration_ms": 171733,
-      "name": "Bai\u0301a",
-      "url": "https://open.spotify.com/track/2132EtRYeOiZFhWitl7QHx"
-    },
-    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "Grandes Orquestas",
@@ -1043,6 +1027,22 @@
       "duration_ms": 158106,
       "name": "I Get a Kick Out Of You",
       "url": "https://open.spotify.com/track/5PRJwmauBwcghrrNinFmC6"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Infinity in Sound, Vol. 2",
+        "url": "https://open.spotify.com/album/5NYl6kCABFF9snRkzlamzc"
+      },
+      "artists": [
+        {
+          "name": "Esquivel!",
+          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
+        }
+      ],
+      "duration_ms": 171733,
+      "name": "Bai\u0301a",
+      "url": "https://open.spotify.com/track/2132EtRYeOiZFhWitl7QHx"
     },
     {
       "added_at": "2021-01-20 03:50:53",

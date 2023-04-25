@@ -1,13 +1,33 @@
 {
   "description": "The best independent music in a post-genre world",
-  "num_followers": 34943,
+  "num_followers": 34952,
   "original_name": "HEADPHONES",
   "owner": {
     "name": "Ditto Music",
     "url": "https://open.spotify.com/user/dittomusic"
   },
-  "snapshot_id": "NTc4NyxlMDg3NzMzZGVkMDhjYWM2MWU0NzVmYWQ1OGExZDgxYTQ2OGJlYjRj",
+  "snapshot_id": "NTc4OSwyNDIxNGRhODAzMDk2YWJlMTA2OTMxYzMxZTE5YjVhYzU2ODQyNDAz",
   "tracks": [
+    {
+      "added_at": "2023-04-24 10:50:06",
+      "album": {
+        "name": "Twust",
+        "url": "https://open.spotify.com/album/1UfWIfP15xiwr1PuRoeqU6"
+      },
+      "artists": [
+        {
+          "name": "HStikkytokky",
+          "url": "https://open.spotify.com/artist/2bYWQ3rr9GraqM3Iyb7Rhb"
+        },
+        {
+          "name": "General G",
+          "url": "https://open.spotify.com/artist/4mZZNSta0MoJhUVaYSYPHO"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Twust",
+      "url": "https://open.spotify.com/track/5q3ch1Q32fKbKzdqOsi9Ij"
+    },
     {
       "added_at": "2023-04-21 05:07:44",
       "album": {
@@ -1432,7 +1452,7 @@
           "url": "https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD"
         }
       ],
-      "duration_ms": 187317,
+      "duration_ms": 173658,
       "name": "Toronto",
       "url": "https://open.spotify.com/track/5MFqv1AH7qzncAeEJ9ZCeH"
     },

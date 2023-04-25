@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-1,415 songs - 3 day 3 hr 39 min
+1,416 songs - 3 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,6 +482,7 @@
 | [Give It To Me \- Sped Up](https://open.spotify.com/track/5Vv8EsGGg7jROU6KdM9znW) | [FYLOW](https://open.spotify.com/artist/7uQZyFwAdkSIDS969dWIie) | [Give It To Me](https://open.spotify.com/album/6Po2ewWyJqB9ivQyGphad3) | 2:23 | 2023-02-05 | 2023-02-14 |
 | [Give Me A Kiss](https://open.spotify.com/track/0ocf3HwWhrXtA8r63Vcd2h) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me A Kiss](https://open.spotify.com/album/4Cxkou3pFWfzoLsw9Aonfw) | 2:49 | 2022-09-11 | 2022-10-05 |
 | [Give That Wolf A Banana](https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL) | [Subwoolfer](https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf) | [Give That Wolf A Banana](https://open.spotify.com/album/0GPnAl0Q0GMPgFbmScP5as) | 2:51 | 2022-02-26 | 2022-06-01 |
+| [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-04-24 |  |
 | [Glad U Came \(feat\. ZieZie\)](https://open.spotify.com/track/0P88fVbvRQGgRQN1GulQNy) | [Liilz](https://open.spotify.com/artist/0PfJ0SW9UpzczeHL5hgdwL), [ZieZie](https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z) | [Glad U Came \(feat\. ZieZie\)](https://open.spotify.com/album/52JvEc5EDwgA854xVckQL9) | 2:05 | 2022-03-29 | 2022-04-20 |
 | [Gladiator](https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Gladiator](https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01) | 3:31 | 2023-03-10 | 2023-03-25 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-07-05 | 2022-08-20 |
@@ -625,7 +626,7 @@
 | [Jogadinha do Paqueta](https://open.spotify.com/track/3BCUqGVPvirkRa6g6ipBaF) | [Mc Rf](https://open.spotify.com/artist/21XypSEosIAo1NYqT0UKkc), [Dj Kaio VDM](https://open.spotify.com/artist/4Svhvvg0OdFm6zDqMqlTDN) | [Jogadinha do Paqueta](https://open.spotify.com/album/2dFhs1VeEnLYUjBEgd9GZF) | 2:25 | 2023-02-15 | 2023-02-22 |
 | [Johnny P's Caddy](https://open.spotify.com/track/6AshXllQhobwSXsdpgp41w) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Johnny P's Caddy](https://open.spotify.com/album/1YKdJEzlhd5rsq03k7eWmM) | 3:45 | 2022-02-22 | 2022-02-26 |
 | [Jolly O Gymkhana \(From "Beast"\)](https://open.spotify.com/track/6lpbzOMBOYHRsp6WEMvRvn) | [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jolly O Gymkhana \(From "Beast"\)](https://open.spotify.com/album/2mtWpU8LaaIDWGA3dtGEUC) | 3:28 | 2022-04-12 | 2022-04-21 |
-| [Juicy](https://open.spotify.com/track/4i81SNeu64liIEAytWqIOK) | [EAZ](https://open.spotify.com/artist/03Vz1qy4oauKKM9kJKy5DW) | [Juicy](https://open.spotify.com/album/4nM6Os9s6gzVzsp4dLiSmn) | 2:45 | 2023-04-11 |  |
+| [Juicy](https://open.spotify.com/track/4i81SNeu64liIEAytWqIOK) | [EAZ](https://open.spotify.com/artist/03Vz1qy4oauKKM9kJKy5DW) | [Juicy](https://open.spotify.com/album/4nM6Os9s6gzVzsp4dLiSmn) | 2:45 | 2023-04-11 | 2023-04-25 |
 | [Jungle](https://open.spotify.com/track/5sAYqcQTEQbTbxdcqI4b8v) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718) | [Vs Head Vs Heart](https://open.spotify.com/album/53QfQ7ykD9nVoTaCvsdVi8) | 3:22 | 2022-01-21 | 2022-02-09 |
 | [Jungle \- Radio Edit](https://open.spotify.com/track/7CIcArZw3IdxTBWuXY484Q) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718) | [Jungle \(Radio Edit\)](https://open.spotify.com/album/4Nm8yihvHXmJprYGLKl8ip) | 3:23 | 2022-01-08 | 2022-01-22 |
 | [Just A Cloud Away](https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Just A Cloud Away](https://open.spotify.com/album/2ojXtf3VwPgpxsFHYujwCY) | 2:56 | 2022-03-26 | 2022-04-18 |

@@ -1911,6 +1911,28 @@
     },
     {
       "album": {
+        "name": "Come Baby Come",
+        "url": "https://open.spotify.com/album/45VdyjjPc7u8g8UeOvowjI"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Ramadan",
+          "url": "https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH"
+        },
+        {
+          "name": "Skales",
+          "url": "https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145486,
+      "name": "Come Baby Come",
+      "url": "https://open.spotify.com/track/2FtwA6cVlrYeJzN8lCiwHS"
+    },
+    {
+      "album": {
         "name": "Roma",
         "url": "https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F"
       },
@@ -3532,7 +3554,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-23",
+      "date_removed": null,
       "duration_ms": 264109,
       "name": "Ghasb Anny",
       "url": "https://open.spotify.com/track/20MpmTGEcFIfMxxqobnxnl"
@@ -4566,7 +4588,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 138857,
       "name": "Khamsa",
       "url": "https://open.spotify.com/track/13CV3gU68sljNILYjjaIBR"
@@ -4748,7 +4770,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 168695,
       "name": "Konty 2olely",
       "url": "https://open.spotify.com/track/49odA1EtwSkPefTEeIwqBx"
@@ -6902,7 +6924,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-24",
+      "date_removed": null,
       "duration_ms": 213158,
       "name": "OGRA",
       "url": "https://open.spotify.com/track/5wQbMKn21YLtviGNWFmhpV"
@@ -10666,7 +10688,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 157000,
       "name": "\u062d\u062f\u0648\u062a\u0647 \u0627\u0644\u0645\u0627\u0646\u0649",
       "url": "https://open.spotify.com/track/1hpjMinSryyJGslYdF0cyy"
@@ -11004,7 +11026,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 210892,
       "name": "\u0633\u0643\u0631\u062a\u064a",
       "url": "https://open.spotify.com/track/2FntmtxOqyNgZkxaZchEn0"
@@ -11098,7 +11120,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 249051,
       "name": "\u0635\u0627\u062d\u0628\u064a \u0645\u0646 \u063a\u0628\u0627\u0626\u0647",
       "url": "https://open.spotify.com/track/3RLpfYSIQlW1YI6bIexpUy"

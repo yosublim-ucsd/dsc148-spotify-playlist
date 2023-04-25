@@ -601,6 +601,24 @@
     },
     {
       "album": {
+        "name": "Juntos al amanecer",
+        "url": "https://open.spotify.com/album/3CsEKeFfXd6EiXvhu8sTcX"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141921,
+      "name": "Juntos al amanecer",
+      "url": "https://open.spotify.com/track/6ayZaM6JNx5j84zvL37uD1"
+    },
+    {
+      "album": {
         "name": "Rodrigo - La mano de dios",
         "url": "https://open.spotify.com/album/4932NIvwgNL5iUY6Vx5xG5"
       },

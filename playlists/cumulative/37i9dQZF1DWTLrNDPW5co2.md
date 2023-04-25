@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: Shygirl
 
-106 songs - 7 hr 25 min
+107 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Fuck It!](https://open.spotify.com/track/4GTa4r47RMGgVzESGRmEul) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU), [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Fuck It!](https://open.spotify.com/album/1snDRRO46ItFbvq8OyNvo2) | 3:41 | 2023-03-31 |  |
 | [GETOUTOFMYHEAD](https://open.spotify.com/track/2kYQCKxOi9Dccib2E8KaW5) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [GETOUTOFMYHEAD](https://open.spotify.com/album/04Cbf32azwsSiMpOjHDNya) | 6:16 | 2023-03-31 |  |
 | [Girl U Could Be Down 4](https://open.spotify.com/track/2AqNfj3Y6t3mvdc6TSXaE2) | [Bored Lord](https://open.spotify.com/artist/651d6TuQaZF6XaRONhiS2n) | [Cybernetic Romance](https://open.spotify.com/album/4xAzAKkeRbP8Rniaj7l0dN) | 4:55 | 2021-10-15 |  |
-| [GLAMOUR Riddim](https://open.spotify.com/track/6hFaY8lcMOWc7IjJ3eAgVh) | [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [GLAMOUR Riddim](https://open.spotify.com/album/6RxndZ15v2o4VYDYECe4FZ) | 5:48 | 2023-03-31 |  |
+| [GLAMOUR Riddim](https://open.spotify.com/track/3tBv0XOlAl5EOsENMqfHuW) | [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [love has never been a popular movement.](https://open.spotify.com/album/0kmuTT4FJA0DQhNNFhR1hE) | 5:48 | 2023-03-31 |  |
+| [GLAMOUR Riddim](https://open.spotify.com/track/6hFaY8lcMOWc7IjJ3eAgVh) | [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [GLAMOUR Riddim](https://open.spotify.com/album/6RxndZ15v2o4VYDYECe4FZ) | 5:48 | 2023-03-31 | 2023-04-25 |
 | [Good Time](https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Good Time](https://open.spotify.com/album/3qte9ec3e2N3SNIQk8qLzy) | 2:41 | 2022-06-03 | 2023-04-01 |
 | [Hands \- Edit](https://open.spotify.com/track/4vA3jtFk9acFhLHdcuGrGK) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Hands \(DJ\-Kicks\)](https://open.spotify.com/album/7cdtA63N0AxdTjubtX6h38) | 4:01 | 2023-03-31 |  |
 | [Harder Now](https://open.spotify.com/track/2X8XhkI3gPI710ah4KDqKs) | [Louisahhh](https://open.spotify.com/artist/42TogPbYEXl164PrqTEVBW), [Wax Wings](https://open.spotify.com/artist/36GCZfnizKMEEkU9k79Sm3) | [Harder Now](https://open.spotify.com/album/3yRPPTNgf1UHUwzdzskF7R) | 4:29 | 2021-10-15 |  |

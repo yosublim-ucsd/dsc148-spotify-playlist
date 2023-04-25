@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,173 songs - 5 day 4 hr 52 min
+2,174 songs - 5 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2047,6 +2047,7 @@
 | [want it](https://open.spotify.com/track/0mA3bX2dbHqDT0dYJa4xjw) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [want it](https://open.spotify.com/album/6jRL1VuTGOTmWfoJjGXjlo) | 2:21 | 2022-11-04 | 2022-11-27 |
 | [Wants and Needs \(feat\. Lil Baby\)](https://open.spotify.com/track/65OVbaJR5O1RmwOQx0875b) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Scary Hours 2](https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89) | 3:12 | 2021-07-11 |  |
 | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) | 3:07 | 2020-08-13 | 2020-08-20 |
+| [Warm Soul](https://open.spotify.com/track/66wswCojBn33ZKM7bFmg4E) | [Atamatoki](https://open.spotify.com/artist/2BzNGTZcU0rrEmwevE6FFM), [Eugene](https://open.spotify.com/artist/3x3xKaexL2yN0OoGDrLHxR), [New Peace Music](https://open.spotify.com/artist/6xzCXXU145WI6ymKsNTRLy) | [Warm Soul](https://open.spotify.com/album/6lCFLF6FodPH1djrADW6ED) | 2:21 | 2023-04-24 |  |
 | [Wasted Feelings](https://open.spotify.com/track/6lpfJmufkOEvsLPe4jAcfo) | [JMAYE](https://open.spotify.com/artist/1vcySelYaioPgAIBrSuncr) | [Wasted Feelings](https://open.spotify.com/album/7j6RLPV17rFRZDO8R7FKZu) | 2:14 | 2020-05-17 | 2020-05-24 |
 | [Wasting Time](https://open.spotify.com/track/2vceVID62JwLkIxMGoRqOS) | [Ruby Diamond](https://open.spotify.com/artist/57xB8Xq6QvPBEobQL72XJH) | [Twin Flames](https://open.spotify.com/album/6NPrFdmXJ6qW3SoLEtMsr4) | 4:02 | 2022-02-18 | 2022-03-07 |
 | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az) | 5:01 | 2021-07-08 | 2021-07-24 |

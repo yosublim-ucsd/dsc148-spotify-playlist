@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,454 likes - 107 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,462 likes - 107 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 106 | [Han är en 10'a men](https://open.spotify.com/track/3Jw0EWwu9DOrFEEOHMYKoZ) | [BELLA WINTH](https://open.spotify.com/artist/32q5zNVRPO98GfzTAqbVXN) | [Han är en 10'a men](https://open.spotify.com/album/3oWOAA941MoD5xbeOrOkut) | 2:54 |
 | 107 | [Nu i natt](https://open.spotify.com/track/0QlvLlRECZseGxXFl852RF) | [Noice](https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69) | [Nu i natt](https://open.spotify.com/album/4qCKpXdMnM955RGtj9cKYF) | 2:43 |
 
-Snapshot ID: `MTY4MjAyODAwMCwwMDAwMDAwMGNkNjQ3ZWVlNTViOGZmYTg1NjZhZjM2Y2JmMDQyYjU2`
+Snapshot ID: `MTY4MjMyNTU0MywwMDAwMDAwMDBmMDUxYjI0MDg5NzNkNmY2NDk3ZTRiNjYzNTJiMmM3`

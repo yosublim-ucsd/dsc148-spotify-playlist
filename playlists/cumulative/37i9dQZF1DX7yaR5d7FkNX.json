@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "AAP",
+        "url": "https://open.spotify.com/album/0vpfrMyERPmFF1wA7XqOeJ"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Brothers",
+          "url": "https://open.spotify.com/artist/08tsg7xu6UKkxOjSqvn8ba"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341000,
+      "name": "AAP",
+      "url": "https://open.spotify.com/track/5KoFGCIAuX9aFVUXaJawvW"
+    },
+    {
+      "album": {
         "name": "La Fama",
         "url": "https://open.spotify.com/album/21Xq8rEbyJpRyLkvEUot7l"
       },
@@ -1018,6 +1036,24 @@
       "duration_ms": 211986,
       "name": "en la ciudad",
       "url": "https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7"
+    },
+    {
+      "album": {
+        "name": "Encrucijada",
+        "url": "https://open.spotify.com/album/6PGLD12DUPs8fRESapOVCX"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Ivengo",
+          "url": "https://open.spotify.com/artist/4oiI7JbuL1TKEO6skc1B5x"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219130,
+      "name": "Encrucijada",
+      "url": "https://open.spotify.com/track/3MXTKZwrprNX41kNc8WmRp"
     },
     {
       "album": {
@@ -2137,6 +2173,24 @@
     },
     {
       "album": {
+        "name": "Pasajeros",
+        "url": "https://open.spotify.com/album/2qNTQM3J2eoEfZlFMyb6WY"
+      },
+      "artists": [
+        {
+          "name": "Hay Un Dinosaurio",
+          "url": "https://open.spotify.com/artist/6EarpkLGAtCbNZcKJ0WnGe"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185775,
+      "name": "Pasajeros",
+      "url": "https://open.spotify.com/track/2JQPO4vEJXmwi0eCAc89J0"
+    },
+    {
+      "album": {
         "name": "Aliados",
         "url": "https://open.spotify.com/album/1LAdrdASbNjQqWPH2TFFJZ"
       },
@@ -2610,6 +2664,24 @@
       "duration_ms": 313933,
       "name": "Sognare",
       "url": "https://open.spotify.com/track/5V6YkO4iQ9vAiq4d3shqnw"
+    },
+    {
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/2TSDXmNQzi88a9AV23hYtn"
+      },
+      "artists": [
+        {
+          "name": "Electrum",
+          "url": "https://open.spotify.com/artist/4wvbJUWBf43jZLbeWUvjNc"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216315,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/6oohxC2iGrmeiOSx2r0UKp"
     },
     {
       "album": {

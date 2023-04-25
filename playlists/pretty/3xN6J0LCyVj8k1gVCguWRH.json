@@ -1,12 +1,12 @@
 {
   "description": "Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies\u2014it\u2019s an example of how music really can bring us all together. (Includes the 2021 edition + bonus tracks)",
-  "num_followers": 101207,
+  "num_followers": 101193,
   "original_name": "Barack Obama\u2019s Summer Playlist 2023",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NDQ4NywwMDM5YTA0MzM1MTg0MTY1Mzg5MWJiZGEyYWQyOWU3ZWFlMTAxN2U1",
+  "snapshot_id": "NDQ5MCxhYjZkZDUzODc4ZWU4Y2ExZjQxNWQzMDc3MGQwMTQ5MzZmOWY5NDI1",
   "tracks": [
     {
       "added_at": "2022-08-10 13:59:43",
@@ -1475,6 +1475,30 @@
       "duration_ms": 220013,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/26NqjphYzU4JSx2xJUpKO0"
+    },
+    {
+      "added_at": "2023-04-24 16:36:39",
+      "album": {
+        "name": "Warm Soul",
+        "url": "https://open.spotify.com/album/6lCFLF6FodPH1djrADW6ED"
+      },
+      "artists": [
+        {
+          "name": "Atamatoki",
+          "url": "https://open.spotify.com/artist/2BzNGTZcU0rrEmwevE6FFM"
+        },
+        {
+          "name": "Eugene",
+          "url": "https://open.spotify.com/artist/3x3xKaexL2yN0OoGDrLHxR"
+        },
+        {
+          "name": "New Peace Music",
+          "url": "https://open.spotify.com/artist/6xzCXXU145WI6ymKsNTRLy"
+        }
+      ],
+      "duration_ms": 141573,
+      "name": "Warm Soul",
+      "url": "https://open.spotify.com/track/66wswCojBn33ZKM7bFmg4E"
     },
     {
       "added_at": "2023-04-21 00:19:11",

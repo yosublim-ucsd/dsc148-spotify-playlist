@@ -4,7 +4,7 @@
 
 > Éxitos del Trap Latino\. Foto: Cazzu & Young Miko.
 
-330 songs - 18 hr 48 min
+331 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [AP](https://open.spotify.com/track/5tOwamKuMmkGdjLhPldKDb) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv) | [VICE](https://open.spotify.com/album/3KdT1P24jy6A1n8N6juvxy) | 3:33 | 2023-03-03 |  |
 | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/track/7cQ0LAxT5HHCLGbxcjaxac) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/album/3Bj4v1YmWsctoEsSkEPg63) | 3:43 | 2023-03-23 |  |
 | [Aulas e Cursos](https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY) | [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn) | [Aulas e Cursos](https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr) | 3:33 | 2022-06-03 | 2022-10-15 |
+| [Ay Mamá \(feat\. Dillom\) \- Remix](https://open.spotify.com/track/6z1ptmvVhtzrRA2nSX49Qc) | [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [Ay Mamá \(Remix\)](https://open.spotify.com/album/3xnpwMp7KUHuEjx7pJtBhB) | 3:28 | 2023-04-24 |  |
 | [AYER](https://open.spotify.com/track/4Zn6j393rAtuIG0PAJqx1s) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [AYER](https://open.spotify.com/album/5RjGwtwltDL696PNZIfv49) | 3:04 | 2022-01-14 | 2022-06-04 |
 | [Babymama \- Remix](https://open.spotify.com/track/1d3mQY9cJeyx0EMxBkXORn) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Babymama \(Remix\)](https://open.spotify.com/album/1s00bDiU1JmP4Hpgb7A6Hs) | 7:24 | 2022-01-11 | 2022-06-04 |
 | [Baile da Serra](https://open.spotify.com/track/45VwwcqkVl61khE9JT2OxK) | [Braão](https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd), [LIT UP](https://open.spotify.com/artist/048eLqPGxqWk7PblwFmXgE), [Dj Nattan](https://open.spotify.com/artist/6IcnhoOZCRfWT8viBrredL) | [Baile da Serra](https://open.spotify.com/album/2Bb73208HjjXHHvwZpalGu) | 3:25 | 2022-06-03 | 2022-06-18 |

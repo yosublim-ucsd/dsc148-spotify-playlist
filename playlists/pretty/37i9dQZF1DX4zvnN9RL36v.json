@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 4971,
+  "num_followers": 4987,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTUzMiwwMDAwMDAwMGYzM2EyODM3OGU0NzcxYzZhNjhhNDExYTlmZTZmMDc2",
+  "snapshot_id": "MTY3OTkwNTUzMiwwMDAwMDAwMDBjYzAxZTM2NWQ4Y2FlYWE2MTdhZWQ2NWU0Nzk3YWRm",
   "tracks": [
     {
       "added_at": "2023-03-27 08:25:32",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-03-27 08:25:32",
       "album": {
+        "name": "I hope I cross your mind",
+        "url": "https://open.spotify.com/album/6fy1jB2jAM3JSJAwOCFubg"
+      },
+      "artists": [
+        {
+          "name": "Sogaksogak",
+          "url": "https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ"
+        }
+      ],
+      "duration_ms": 216066,
+      "name": "I hope I cross your mind",
+      "url": "https://open.spotify.com/track/0v25Iep0Ww4p4kgNi29VJh"
+    },
+    {
+      "added_at": "2023-03-27 08:25:32",
+      "album": {
         "name": "Exhibition 2",
         "url": "https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 269832,
       "name": "\uadf8\ub7ac\ub098\ubd10",
       "url": "https://open.spotify.com/track/73sCf6xzgU9gJrkxz45HLz"
-    },
-    {
-      "added_at": "2023-03-27 08:25:32",
-      "album": {
-        "name": "I hope I cross your mind",
-        "url": "https://open.spotify.com/album/6fy1jB2jAM3JSJAwOCFubg"
-      },
-      "artists": [
-        {
-          "name": "Sogaksogak",
-          "url": "https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ"
-        }
-      ],
-      "duration_ms": 216066,
-      "name": "I hope I cross your mind",
-      "url": "https://open.spotify.com/track/0v25Iep0Ww4p4kgNi29VJh"
     },
     {
       "added_at": "2023-03-27 08:25:32",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-03-27 08:25:32",
       "album": {
+        "name": "Chocolate, Pt. 8 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5NkL3gOmdX8HxFUrDNFJFE"
+      },
+      "artists": [
+        {
+          "name": "Hui",
+          "url": "https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0EBbXbktxouXdMH2JY4U4T"
+    },
+    {
+      "added_at": "2023-03-27 08:25:32",
+      "album": {
         "name": "Da Capo",
         "url": "https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 267640,
       "name": "She Said (With Kwon Jin Ah)",
       "url": "https://open.spotify.com/track/7B6NK8YKCwPNqKnVTgMmtE"
-    },
-    {
-      "added_at": "2023-03-27 08:25:32",
-      "album": {
-        "name": "Chocolate, Pt. 8 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5NkL3gOmdX8HxFUrDNFJFE"
-      },
-      "artists": [
-        {
-          "name": "Hui",
-          "url": "https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy"
-        }
-      ],
-      "duration_ms": 228626,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0EBbXbktxouXdMH2JY4U4T"
     },
     {
       "added_at": "2023-03-27 08:25:32",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-03-27 08:25:32",
       "album": {
-        "name": "19to20",
-        "url": "https://open.spotify.com/album/7zq8yS4JkTPQNRrS8lptY1"
-      },
-      "artists": [
-        {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
-        }
-      ],
-      "duration_ms": 219440,
-      "name": "to him",
-      "url": "https://open.spotify.com/track/1w5xpDtyMckJYrrn9Z1bEX"
-    },
-    {
-      "added_at": "2023-03-27 08:25:32",
-      "album": {
         "name": "RE:PLAYLIST Vol.3",
         "url": "https://open.spotify.com/album/7gn6H37VoihSD18j1MCXpa"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 264921,
       "name": "Love Me Once Again",
       "url": "https://open.spotify.com/track/44n3xQ51XIOAGCMve5zh92"
+    },
+    {
+      "added_at": "2023-03-27 08:25:32",
+      "album": {
+        "name": "19to20",
+        "url": "https://open.spotify.com/album/7zq8yS4JkTPQNRrS8lptY1"
+      },
+      "artists": [
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "duration_ms": 219440,
+      "name": "to him",
+      "url": "https://open.spotify.com/track/1w5xpDtyMckJYrrn9Z1bEX"
     },
     {
       "added_at": "2023-03-27 08:25:32",

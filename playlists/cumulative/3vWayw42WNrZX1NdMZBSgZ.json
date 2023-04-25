@@ -2603,6 +2603,24 @@
     },
     {
       "album": {
+        "name": "Escalona Nunca Se Hab\u00eda Grabado As\u00ed",
+        "url": "https://open.spotify.com/album/7kNLI2jHSLoCzMdvs1ZQhz"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179787,
+      "name": "El carro Ford",
+      "url": "https://open.spotify.com/track/3xyz9QMAjvWC0muckkitYp"
+    },
+    {
+      "album": {
         "name": "El Chamaquito",
         "url": "https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp"
       },

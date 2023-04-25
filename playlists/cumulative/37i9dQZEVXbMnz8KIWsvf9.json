@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "\u4e0e\u4e16\u754c\u6e29\u67d4\u76f8\u5904",
+        "url": "https://open.spotify.com/album/04kDBmhOkYFKjSaCqQxHWq"
+      },
+      "artists": [
+        {
+          "name": "Nene\u90d1\u4e43\u99a8",
+          "url": "https://open.spotify.com/artist/6xSImf4WfS9VAr2jpd9BAo"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184694,
+      "name": "All About That Day",
+      "url": "https://open.spotify.com/track/2nR5g9ug01C4QFSAox8mYj"
+    },
+    {
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
       },
@@ -446,7 +464,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 251533,
       "name": "AMYGDALA",
       "url": "https://open.spotify.com/track/5fj32MKLHkut2Vod1UodcU"
@@ -1412,7 +1430,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 211373,
       "name": "D-Day",
       "url": "https://open.spotify.com/track/22W6wI4hDTjMAYKKBQW9dU"
@@ -4012,7 +4030,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 197638,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/7gv3UYPh05ZDP7Io5BIsn7"
@@ -6334,7 +6352,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 264760,
       "name": "Snooze (feat. Ryuichi Sakamoto, WOOSUNG of The Rose)",
       "url": "https://open.spotify.com/track/4j3M8NrbGSXdMPwEVsnfHE"
@@ -6410,7 +6428,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-24",
+      "date_removed": null,
       "duration_ms": 147680,
       "name": "Sour & Sweet",
       "url": "https://open.spotify.com/track/3bcLtU0Z3MuUhhQHIVSSX2"
@@ -9416,7 +9434,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 293784,
       "name": "\u0e23\u0e2a\u0e2b\u0e27\u0e32\u0e19",
       "url": "https://open.spotify.com/track/2Ab1HQjbMcqHY3TkTycrYr"
@@ -9976,6 +9994,24 @@
       "duration_ms": 317656,
       "name": "\u0e2b\u0e32\u0e01\u0e08\u0e30\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e02\u0e2d(Sincare)",
       "url": "https://open.spotify.com/track/3v5g7khNHS9726iyuI1iUs"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e32\u0e01\u0e27\u0e48\u0e32\u0e09\u0e31\u0e19\u0e44\u0e14\u0e49\u0e04\u0e23\u0e2d\u0e1a\u0e04\u0e23\u0e2d\u0e07",
+        "url": "https://open.spotify.com/album/329aoU1SsBsIVdtnuflbKq"
+      },
+      "artists": [
+        {
+          "name": "VELIKA",
+          "url": "https://open.spotify.com/artist/1s5OUEKobcxAqQaDKQnRAi"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208741,
+      "name": "\u0e2b\u0e32\u0e01\u0e27\u0e48\u0e32\u0e09\u0e31\u0e19\u0e44\u0e14\u0e49\u0e04\u0e23\u0e2d\u0e1a\u0e04\u0e23\u0e2d\u0e07",
+      "url": "https://open.spotify.com/track/467XT84TTQHkdifhD7eUgQ"
     },
     {
       "album": {

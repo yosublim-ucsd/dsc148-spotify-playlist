@@ -813,6 +813,24 @@
     },
     {
       "album": {
+        "name": "It's Beautiful.",
+        "url": "https://open.spotify.com/album/6MRvWffD81OCQNUsa5J63K"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183656,
+      "name": "Heavenly Father",
+      "url": "https://open.spotify.com/track/7zZXxDiDWpCy9xcldN6lo9"
+    },
+    {
+      "album": {
         "name": "As We Walk into Forever",
         "url": "https://open.spotify.com/album/0aPre0n3wWL8Ha8hd7E7YB"
       },
@@ -1322,7 +1340,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 200062,
       "name": "Stay Patient.",
       "url": "https://open.spotify.com/track/7uvbamNsiIOUsw2QJf1BQ1"

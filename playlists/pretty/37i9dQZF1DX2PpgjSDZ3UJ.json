@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 20193,
+  "num_followers": 20198,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjg4NTczMSwwMDAwMDAwMDhjZTg3NTQ3Mjc1MTViZWEwOGIxMDVkNjk2ZDU1N2Rh",
+  "snapshot_id": "MTYwNjg4NTczMSwwMDAwMDAwMDMwYzZhZTk4NjBiZGE3ODZjNTQ3YWUwNGYyMTcxZmRm",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Tri\u00e1ngulo de Amor Bizarro",
-        "url": "https://open.spotify.com/album/5g6VFGlvYtGIOuIVy4zU8m"
-      },
-      "artists": [
-        {
-          "name": "Tri\u00e1ngulo de Amor Bizarro",
-          "url": "https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e"
-        }
-      ],
-      "duration_ms": 202216,
-      "name": "Vigilantes del Espejo",
-      "url": "https://open.spotify.com/track/6I3Og9oU3qNKMyjBBRsJKB"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Regresa",
         "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 171807,
       "name": "NTE",
       "url": "https://open.spotify.com/track/7p4C1w3JSmKVJXixBrtaKI"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Tri\u00e1ngulo de Amor Bizarro",
+        "url": "https://open.spotify.com/album/5g6VFGlvYtGIOuIVy4zU8m"
+      },
+      "artists": [
+        {
+          "name": "Tri\u00e1ngulo de Amor Bizarro",
+          "url": "https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e"
+        }
+      ],
+      "duration_ms": 202216,
+      "name": "Vigilantes del Espejo",
+      "url": "https://open.spotify.com/track/6I3Og9oU3qNKMyjBBRsJKB"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Hijos del Sol",
-        "url": "https://open.spotify.com/album/0syY8WEuVTi39vVHfrCbjq"
-      },
-      "artists": [
-        {
-          "name": "Los Cogelones",
-          "url": "https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS"
-        }
-      ],
-      "duration_ms": 190640,
-      "name": "Danza de Sol",
-      "url": "https://open.spotify.com/track/2IHswTTnpUppvV8jn7PHqH"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "brotes (florecen)",
         "url": "https://open.spotify.com/album/0091N9PEv8YXYU351kmx5U"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 196762,
       "name": "y arder\u00e1n",
       "url": "https://open.spotify.com/track/1BQH4CK9tWxyOCxXWHdD77"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Hijos del Sol",
+        "url": "https://open.spotify.com/album/0syY8WEuVTi39vVHfrCbjq"
+      },
+      "artists": [
+        {
+          "name": "Los Cogelones",
+          "url": "https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS"
+        }
+      ],
+      "duration_ms": 190640,
+      "name": "Danza de Sol",
+      "url": "https://open.spotify.com/track/2IHswTTnpUppvV8jn7PHqH"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Petr\u00f3leo",
+        "url": "https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0"
+      },
+      "artists": [
+        {
+          "name": "Fiebre",
+          "url": "https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro"
+        }
+      ],
+      "duration_ms": 195652,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Sentimiento Mundial",
         "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 215287,
       "name": "Qu\u00e9date Cerca",
       "url": "https://open.spotify.com/track/7LRXAR7DVFB3cB95uqSJcQ"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Petr\u00f3leo",
-        "url": "https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0"
-      },
-      "artists": [
-        {
-          "name": "Fiebre",
-          "url": "https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro"
-        }
-      ],
-      "duration_ms": 195652,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Too Bad",
-        "url": "https://open.spotify.com/album/5cNLXghCrrmNHRBski3fMC"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Silva",
-          "url": "https://open.spotify.com/artist/58NvZS9y8CUo1VUEyGdcKc"
-        }
-      ],
-      "duration_ms": 200250,
-      "name": "Stuck on You",
-      "url": "https://open.spotify.com/track/2p7g3PDq8PGgyD79Tzpvez"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Eternos",
         "url": "https://open.spotify.com/album/5Ch3VsbQLxLmsewBpNKs8U"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 223308,
       "name": "Eternos",
       "url": "https://open.spotify.com/track/0BRQB84vP5k2XOeAMEkw74"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Too Bad",
+        "url": "https://open.spotify.com/album/5cNLXghCrrmNHRBski3fMC"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Silva",
+          "url": "https://open.spotify.com/artist/58NvZS9y8CUo1VUEyGdcKc"
+        }
+      ],
+      "duration_ms": 200250,
+      "name": "Stuck on You",
+      "url": "https://open.spotify.com/track/2p7g3PDq8PGgyD79Tzpvez"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "En Transmisi\u00f3n Perpetua",
+        "url": "https://open.spotify.com/album/7waXpt8GJxXs9pS1bLxzCe"
+      },
+      "artists": [
+        {
+          "name": "Cometa Sucre",
+          "url": "https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "Caminos Extran\u0303os",
+      "url": "https://open.spotify.com/track/75bf2scFyzrtEZrt6xEAiM"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Conversations",
         "url": "https://open.spotify.com/album/7l4P76P1NClX1r0pIM2xng"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 197886,
       "name": "Conversaciones",
       "url": "https://open.spotify.com/track/5tw1aZY3QC7cfQCmggqTjB"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "En Transmisi\u00f3n Perpetua",
-        "url": "https://open.spotify.com/album/7waXpt8GJxXs9pS1bLxzCe"
-      },
-      "artists": [
-        {
-          "name": "Cometa Sucre",
-          "url": "https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "Caminos Extran\u0303os",
-      "url": "https://open.spotify.com/track/75bf2scFyzrtEZrt6xEAiM"
     },
     {
       "added_at": "2020-12-01 05:03:00",

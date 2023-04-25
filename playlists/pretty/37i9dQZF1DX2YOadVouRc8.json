@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 12088,
+  "num_followers": 12133,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA4MTQxNCwwMDAwMDAwMDkyOWQyNWY1OWI4YWRmNGYyNzk0MWNjOTA3NTFkZTIx",
+  "snapshot_id": "MTY4MjA4MTQxNCwwMDAwMDAwMGM3NGY4YzhiZDEwNTJjZTE2OGFiNGVkNzQyYTdlZDdh",
   "tracks": [
     {
       "added_at": "2023-04-21 12:50:14",
@@ -407,22 +407,18 @@
     {
       "added_at": "2023-04-21 12:50:14",
       "album": {
-        "name": "Lemons (Lemonade)",
-        "url": "https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ"
+        "name": "The Second Wave",
+        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
       },
       "artists": [
         {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
-        },
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         }
       ],
-      "duration_ms": 259591,
-      "name": "Lemons (Lemonade)",
-      "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
+      "duration_ms": 206775,
+      "name": "Snapchat",
+      "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
     },
     {
       "added_at": "2023-04-21 12:50:14",
@@ -475,18 +471,22 @@
     {
       "added_at": "2023-04-21 12:50:14",
       "album": {
-        "name": "The Second Wave",
-        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
+        "name": "Lemons (Lemonade)",
+        "url": "https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
         }
       ],
-      "duration_ms": 206775,
-      "name": "Snapchat",
-      "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
+      "duration_ms": 259591,
+      "name": "Lemons (Lemonade)",
+      "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
     },
     {
       "added_at": "2023-04-21 12:50:14",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-04-21 12:50:14",
       "album": {
+        "name": "Eye to Eye",
+        "url": "https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 156771,
+      "name": "Eye to Eye",
+      "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
+    },
+    {
+      "added_at": "2023-04-21 12:50:14",
+      "album": {
         "name": "Palmwine Music 2",
         "url": "https://open.spotify.com/album/40nNC1WqyKr4IHIJH0cxS5"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 161828,
       "name": "'00 Nostalgia",
       "url": "https://open.spotify.com/track/5lF0OJHp09PfZofnC9ZrBH"
-    },
-    {
-      "added_at": "2023-04-21 12:50:14",
-      "album": {
-        "name": "Eye to Eye",
-        "url": "https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 156771,
-      "name": "Eye to Eye",
-      "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
     },
     {
       "added_at": "2023-04-21 12:50:14",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-04-21 12:50:14",
       "album": {
-        "name": "ROOTS",
-        "url": "https://open.spotify.com/album/2OU0uJWqRBeAokBzjvAiRF"
-      },
-      "artists": [
-        {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
-        }
-      ],
-      "duration_ms": 258577,
-      "name": "Osondu",
-      "url": "https://open.spotify.com/track/7IkanW59HjJBCtEUARmJNx"
-    },
-    {
-      "added_at": "2023-04-21 12:50:14",
-      "album": {
         "name": "Gbagada Express",
         "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 160000,
       "name": "Your Love (Mogbe)",
       "url": "https://open.spotify.com/track/6WDgwgR3fAu9UfLXz1iHCz"
+    },
+    {
+      "added_at": "2023-04-21 12:50:14",
+      "album": {
+        "name": "ROOTS",
+        "url": "https://open.spotify.com/album/2OU0uJWqRBeAokBzjvAiRF"
+      },
+      "artists": [
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "duration_ms": 258577,
+      "name": "Osondu",
+      "url": "https://open.spotify.com/track/7IkanW59HjJBCtEUARmJNx"
     },
     {
       "added_at": "2023-04-21 12:50:14",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-04-21 12:50:14",
       "album": {
-        "name": "troublin - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1KCidWMSBM1Manslu7zT2K"
-      },
-      "artists": [
-        {
-          "name": "Ragz Originale",
-          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
-        }
-      ],
-      "duration_ms": 145594,
-      "name": "troublin - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/7y7iGYV1c2XIPIvPh8TbN1"
-    },
-    {
-      "added_at": "2023-04-21 12:50:14",
-      "album": {
         "name": "FOR MY BABY",
         "url": "https://open.spotify.com/album/1HYUIlhz822Tule9gSBB5z"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 137727,
       "name": "FOR MY BABY",
       "url": "https://open.spotify.com/track/5bAsB0uRfEAOj9d3vsNSm5"
+    },
+    {
+      "added_at": "2023-04-21 12:50:14",
+      "album": {
+        "name": "troublin - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1KCidWMSBM1Manslu7zT2K"
+      },
+      "artists": [
+        {
+          "name": "Ragz Originale",
+          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
+        }
+      ],
+      "duration_ms": 145594,
+      "name": "troublin - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7y7iGYV1c2XIPIvPh8TbN1"
     },
     {
       "added_at": "2023-04-21 12:50:14",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2023-04-21 12:50:14",
       "album": {
-        "name": "History",
-        "url": "https://open.spotify.com/album/44zdr1Zpmdyh01GgGIONF0"
-      },
-      "artists": [
-        {
-          "name": "Cheque",
-          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 177946,
-      "name": "History",
-      "url": "https://open.spotify.com/track/42ksa1gP6QjQo12FUd0C1H"
-    },
-    {
-      "added_at": "2023-04-21 12:50:14",
-      "album": {
         "name": "A Night In Cocody",
         "url": "https://open.spotify.com/album/7fj4P4j4HNVXX5PZtMaEi2"
       },
@@ -1083,6 +1063,42 @@
     {
       "added_at": "2023-04-21 12:50:14",
       "album": {
+        "name": "Many Man",
+        "url": "https://open.spotify.com/album/46cAEUCfM1djPs5ydCww2C"
+      },
+      "artists": [
+        {
+          "name": "Stainless",
+          "url": "https://open.spotify.com/artist/5Y6MOzpao9KN6cjk0tUlmT"
+        }
+      ],
+      "duration_ms": 156494,
+      "name": "Many Man",
+      "url": "https://open.spotify.com/track/4R2luhzq04pJjSQWNOiY0S"
+    },
+    {
+      "added_at": "2023-04-21 12:50:14",
+      "album": {
+        "name": "History",
+        "url": "https://open.spotify.com/album/44zdr1Zpmdyh01GgGIONF0"
+      },
+      "artists": [
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 177946,
+      "name": "History",
+      "url": "https://open.spotify.com/track/42ksa1gP6QjQo12FUd0C1H"
+    },
+    {
+      "added_at": "2023-04-21 12:50:14",
+      "album": {
         "name": "Follow You",
         "url": "https://open.spotify.com/album/5nf9tUvabTiuSMxGg93SF4"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 191544,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/6RVmK3M5NsB2jwTUKiKp84"
-    },
-    {
-      "added_at": "2023-04-21 12:50:14",
-      "album": {
-        "name": "Many Man",
-        "url": "https://open.spotify.com/album/46cAEUCfM1djPs5ydCww2C"
-      },
-      "artists": [
-        {
-          "name": "Stainless",
-          "url": "https://open.spotify.com/artist/5Y6MOzpao9KN6cjk0tUlmT"
-        }
-      ],
-      "duration_ms": 156494,
-      "name": "Many Man",
-      "url": "https://open.spotify.com/track/4R2luhzq04pJjSQWNOiY0S"
     },
     {
       "added_at": "2023-04-21 12:50:14",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-04-21 12:50:14",
       "album": {
+        "name": "Angel Dust",
+        "url": "https://open.spotify.com/album/1chFNnjmzacp0xb2uhgn7P"
+      },
+      "artists": [
+        {
+          "name": "H.O.M.A",
+          "url": "https://open.spotify.com/artist/4D88aOR9IZ69deuxwFZHpc"
+        }
+      ],
+      "duration_ms": 167992,
+      "name": "Angel Dust",
+      "url": "https://open.spotify.com/track/3fPf1NouFIWvxJGZa7O07g"
+    },
+    {
+      "added_at": "2023-04-21 12:50:14",
+      "album": {
         "name": "Bordeaux",
         "url": "https://open.spotify.com/album/0SSXQj05tsfbHFY29CTeOq"
       },
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2023-04-21 12:50:14",
       "album": {
-        "name": "Angel Dust",
-        "url": "https://open.spotify.com/album/1chFNnjmzacp0xb2uhgn7P"
-      },
-      "artists": [
-        {
-          "name": "H.O.M.A",
-          "url": "https://open.spotify.com/artist/4D88aOR9IZ69deuxwFZHpc"
-        }
-      ],
-      "duration_ms": 167992,
-      "name": "Angel Dust",
-      "url": "https://open.spotify.com/track/3fPf1NouFIWvxJGZa7O07g"
-    },
-    {
-      "added_at": "2023-04-21 12:50:14",
-      "album": {
         "name": "Water & Garri",
         "url": "https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW"
       },
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-04-21 12:50:14",
       "album": {
+        "name": "That's Alright",
+        "url": "https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "duration_ms": 232021,
+      "name": "That's Alright",
+      "url": "https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k"
+    },
+    {
+      "added_at": "2023-04-21 12:50:14",
+      "album": {
         "name": "STAR PLAYER",
         "url": "https://open.spotify.com/album/14B8S82MKCRFcA702ontrD"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 214666,
       "name": "STAR PLAYER",
       "url": "https://open.spotify.com/track/0rwITaQrtUGTb4NwihJihM"
-    },
-    {
-      "added_at": "2023-04-21 12:50:14",
-      "album": {
-        "name": "That's Alright",
-        "url": "https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        }
-      ],
-      "duration_ms": 232021,
-      "name": "That's Alright",
-      "url": "https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k"
     },
     {
       "added_at": "2023-04-21 12:50:14",

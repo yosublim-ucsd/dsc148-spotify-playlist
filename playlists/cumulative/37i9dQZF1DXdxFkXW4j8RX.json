@@ -1739,6 +1739,32 @@
     },
     {
       "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/49UsGxXPbBwqLL3HW11TYU"
+      },
+      "artists": [
+        {
+          "name": "Jonas Sanche",
+          "url": "https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9"
+        },
+        {
+          "name": "JOSE SPAACE",
+          "url": "https://open.spotify.com/artist/2rNJ5aQFR3gAnEIbpqUtF6"
+        },
+        {
+          "name": "Lan",
+          "url": "https://open.spotify.com/artist/7xWssG0O4bIc1vUhdqMWHg"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208941,
+      "name": "LEGEND",
+      "url": "https://open.spotify.com/track/7JD8Mw6Kg58thpwN0nmgMJ"
+    },
+    {
+      "album": {
         "name": "Libro Abierto (Remix)",
         "url": "https://open.spotify.com/album/6aDQLsdyYqTZjq3g3reNXb"
       },

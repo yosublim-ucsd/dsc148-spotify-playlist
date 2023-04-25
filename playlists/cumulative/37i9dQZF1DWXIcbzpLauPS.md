@@ -4,7 +4,7 @@
 
 > Metalcore at its finest\. Cover: Veil Of Maya
 
-677 songs - 1 day 18 hr 41 min
+678 songs - 1 day 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Black Heart](https://open.spotify.com/track/3x55ZUGp740NTVGOySqsBI) | [Within The Ruins](https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y) | [Black Heart](https://open.spotify.com/album/43U1hVWCs2ir6wZIAxvXnv) | 4:35 | 2022-07-13 | 2022-07-22 |
 | [Black Ink](https://open.spotify.com/track/7AlsIxffk4FHQ7geSUxLOE) | [As I May](https://open.spotify.com/artist/6RK7Xn39VaxdJNqhYVhVEk) | [Karu](https://open.spotify.com/album/1LUk4jMz426TXcyRvd6yoa) | 3:22 | 2022-01-07 | 2022-02-17 |
 | [Black of My Eyes](https://open.spotify.com/track/0rl0t8BwHP1GIIEyC5DN4Q) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Black of My Eyes](https://open.spotify.com/album/5mSrxhCmMMzvAufAaR33r1) | 3:52 | 2022-07-13 | 2022-07-16 |
+| [BLACK\_WAVE](https://open.spotify.com/track/3s3czPHKW5TXmZoeUB9yu7) | [Moodring](https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0) | [BLACK\_WAVE](https://open.spotify.com/album/5kGa3VEUVZLdtiQuwc73FI) | 3:06 | 2023-04-24 |  |
 | [Bleed the Future](https://open.spotify.com/track/4DgVZwzoF2dENlLTvhWjr0) | [Archspire](https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih) | [Bleed the Future](https://open.spotify.com/album/3voN4heYWAWr2uxYlcL3pc) | 3:48 | 2022-07-13 | 2022-07-21 |
 | [Bleed When You Ask Me](https://open.spotify.com/track/4Pfclw9uhRXenUImApmAgG) | [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [Krewe D'Amour, Vol\. 2](https://open.spotify.com/album/5vvNSlSJC11OnhvE8Esqnx) | 3:18 | 2021-12-17 | 2022-01-22 |
 | [Bleeding](https://open.spotify.com/track/2lpyWzEnw1eb3lz2J2oGEN) | [World Without](https://open.spotify.com/artist/51Kzkg6pl81mdxy0pbEo7L) | [Bleeding](https://open.spotify.com/album/1VCpl1Lu5xZbWhvxXEZdQ1) | 2:53 | 2022-04-01 | 2022-06-18 |

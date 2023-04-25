@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Grupo Frontera y Bad Bunny, PP y Jasiel Nuñez, La Nicki y Rels B, para empezar bien el fin de semana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,548 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,808 likes - 51 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

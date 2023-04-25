@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ydyyRfDqC.md) - [plain]
 
 > Escucha 'Paris, Texas': el nuevo álbum de Kevin Kaarl.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,537 likes - 40 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,816 likes - 40 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

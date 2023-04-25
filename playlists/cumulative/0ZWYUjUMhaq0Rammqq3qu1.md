@@ -4,7 +4,7 @@
 
 > Dance hits in 2023\. Cover: SG Lewis
 
-201 songs - 10 hr 21 min
+202 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Clean Break](https://open.spotify.com/track/4d1WoQ6dW7feMW9dGchNyL) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Clean Break](https://open.spotify.com/album/5P5zoDRaqk5X3wZvcuZdYK) | 2:53 | 2022-10-24 | 2023-01-24 |
 | [Close To Me](https://open.spotify.com/track/6xnkPN6Y9mygrVLENOl9C3) | [PANDAS!](https://open.spotify.com/artist/7uZm33YilKaGOr7p4NJniX) | [Close To Me](https://open.spotify.com/album/2crlt7QT4p79ZAAOaYyLHu) | 2:59 | 2022-10-10 | 2022-12-06 |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2022-09-12 |  |
+| [Creatures Of Tomorrow](https://open.spotify.com/track/712zMbj5Q5kekcq3FVGvXj) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Creatures Of Tomorrow](https://open.spotify.com/album/5mBan5jxqLzd7SLozflhan) | 2:16 | 2023-04-24 |  |
 | [Dancing Queen](https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:50 | 2022-02-01 | 2023-02-23 |
 | [Demons \- Massane Remix](https://open.spotify.com/track/0WGelFYfITJmfOnNyhRUq7) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6), [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Demons](https://open.spotify.com/album/2kXwtCv9wl1OzLU1k2b3XZ) | 4:03 | 2022-09-12 | 2023-03-07 |
 | [Digital Love](https://open.spotify.com/track/3Lc633AznnQFJXGRyQC7i9) | [Hearts On The Run](https://open.spotify.com/artist/3uYNWWQGAKZPUPJaqVtawd) | [Digital Love](https://open.spotify.com/album/0BFC9vPICblDISB0xm5Qwh) | 2:20 | 2023-01-23 | 2023-01-30 |
@@ -132,7 +133,7 @@
 | [One Dance](https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 2:53 | 2021-07-02 | 2022-09-13 |
 | [oops!](https://open.spotify.com/track/7L6G0wpIUiPXuvoo7qhb06) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Gasanova](https://open.spotify.com/album/7aQSug5yYLtISyxh9eEglW) | 2:19 | 2021-07-02 | 2022-09-13 |
 | [P.R.O.G.](https://open.spotify.com/track/4dpNQuxo6xz66pDsvtUR4j) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [P.R.O.G.](https://open.spotify.com/album/2pYk1rLEFSKdJLd67mdIAd) | 2:58 | 2022-09-12 | 2022-11-22 |
-| [Perfect Melody](https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Perfect Melody](https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L) | 2:39 | 2022-09-12 |  |
+| [Perfect Melody](https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Perfect Melody](https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L) | 2:39 | 2022-09-12 | 2023-04-25 |
 | [Piece Of Your Heart \- Alok Remix](https://open.spotify.com/track/6iW38RGqdDGOofmz2HeXLW) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Piece Of Your Heart \(Alok Remix\)](https://open.spotify.com/album/6RlifxGX8F3IijsJXkTIlq) | 2:46 | 2021-07-02 | 2022-09-13 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-10-03 | 2023-02-23 |
 | [Poison \(with Timmy Trumpet x W&W\)](https://open.spotify.com/track/7d4vcqHz2rjPQooXa0CZM3) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Poison \(with Timmy Trumpet x W&W\)](https://open.spotify.com/album/0i36q6Jj9rtyiaonm15vZe) | 2:47 | 2022-12-05 |  |

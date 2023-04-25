@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Ruben Hein
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,253 likes - 98 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,261 likes - 98 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

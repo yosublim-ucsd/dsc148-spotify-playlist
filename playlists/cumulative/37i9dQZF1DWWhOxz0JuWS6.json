@@ -5590,7 +5590,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 310400,
       "name": "People Have the Power",
       "url": "https://open.spotify.com/track/4GbnjrrobeVLCl1FQ5C0OY"
@@ -6296,6 +6296,24 @@
       "duration_ms": 229920,
       "name": "Save Me - Remastered 2011",
       "url": "https://open.spotify.com/track/1pBFEy8cz0Fq4Pru0c4awd"
+    },
+    {
+      "album": {
+        "name": "Play Deep",
+        "url": "https://open.spotify.com/album/0EriQlp6zHpb1ThLZcandW"
+      },
+      "artists": [
+        {
+          "name": "The Outfield",
+          "url": "https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227760,
+      "name": "Say It Isn't So",
+      "url": "https://open.spotify.com/track/2CvpZHuFZNY5vrcz2fXkJ5"
     },
     {
       "album": {

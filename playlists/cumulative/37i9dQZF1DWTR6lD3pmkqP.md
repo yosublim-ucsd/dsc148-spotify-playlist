@@ -4,7 +4,7 @@
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-485 songs - 1 day 17 hr 17 min
+486 songs - 1 day 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [Sensing Not Seeing](https://open.spotify.com/track/16xsLdlJZ3xV3CUqKfBNEA) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Sensing Not Seeing](https://open.spotify.com/album/6XD0QYboelPBgBP9TRcCxd) | 5:33 | 2021-12-16 | 2022-07-29 |
 | [Sensing Not Seeing](https://open.spotify.com/track/7JvzDglhFgutMbQvXLOoxE) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Septet](https://open.spotify.com/album/2y6wLCRuqOHjcLLt7THlTQ) | 5:33 | 2022-02-10 |  |
 | [Seti Khola](https://open.spotify.com/track/5yiRaHOOhz3AnZpzCHDsAI) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Still Flute](https://open.spotify.com/album/4HdUt3tnsTqAskRHLYqPg4) | 5:39 | 2021-12-21 | 2022-07-29 |
+| [Seti Khola](https://open.spotify.com/track/6JOQnzP9uxrYBEPN6Ex6kv) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Still Flute](https://open.spotify.com/album/5YzXAdttew3nRAc1YPzP9t) | 5:39 | 2022-02-10 |  |
 | [Shift](https://open.spotify.com/track/68W9cfR6DfxQMiZIYfdOoF) | [Philippe Saisse](https://open.spotify.com/artist/76eaAxXOF5UhLXASB8UiQJ), [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez) | [Shift](https://open.spotify.com/album/1U1QWW5cr5tXERAibHziGc) | 4:13 | 2021-12-16 |  |
 | [Shine It](https://open.spotify.com/track/69xdPh6CEOpwcP4ZpReWmH) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [End Of The World Party \(Just In Case\)](https://open.spotify.com/album/1hCxbfoen4fGGbbrE3pfZX) | 4:59 | 2022-04-01 |  |
 | [Ships Come In \(A Lullaby\)](https://open.spotify.com/track/0Jc7cfNj1ppZfC2WzUJymn) | [Weedie Braimah](https://open.spotify.com/artist/0gNcTRfbjxxOdXxSCoXluo), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn), [Elena Pinderhughes](https://open.spotify.com/artist/1djeOKOhlMmpiF6gyGVUcu), [Magatte Sow](https://open.spotify.com/artist/0WDGKBSxLNMOQgdqt2XldB) | [Ships Come In \(A Lullaby\)](https://open.spotify.com/album/49rbDsItFkTibPGFBX4HRg) | 7:00 | 2021-12-16 | 2022-10-20 |
@@ -472,7 +473,7 @@
 | [We Are Many](https://open.spotify.com/track/5ZlpFprbeqNU8ye8mPomAX) | [Soothsayers](https://open.spotify.com/artist/4iJspDSUsyFWGNada2wdVx) | [We Are Many](https://open.spotify.com/album/70h4SD70wNkNpbPkIG4unt) | 4:41 | 2021-12-16 |  |
 | [We Go Again](https://open.spotify.com/track/1ZuM7USvEryCw7eDwAvhTw) | [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56) | [We Go Again](https://open.spotify.com/album/4MKG9oZywXfTaITZ9swOB1) | 4:22 | 2021-12-16 | 2022-12-25 |
 | [We Go Again](https://open.spotify.com/track/1wwNaXc795mdzPCeeK3zkp) | [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56) | [Intra\-I](https://open.spotify.com/album/6Px8YAjvVSlADuUJIF4DF6) | 4:22 | 2022-02-10 |  |
-| [We've Landed \- Cool Cats Mix](https://open.spotify.com/track/5nj3HWzjJyyUaC6cmNv1k0) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [We've Landed \(Cool Cats Mix\)](https://open.spotify.com/album/48INAU3B2XSXmn0ncF5b2y) | 4:37 | 2021-12-16 |  |
+| [We've Landed \- Cool Cats Mix](https://open.spotify.com/track/5nj3HWzjJyyUaC6cmNv1k0) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [We've Landed \(Cool Cats Mix\)](https://open.spotify.com/album/48INAU3B2XSXmn0ncF5b2y) | 4:37 | 2021-12-16 | 2023-04-25 |
 | [What Goes Around](https://open.spotify.com/track/4u7AYRHsl7LLbBqgQ6LDtK) | [Dave Holland Quintet](https://open.spotify.com/artist/7cdMZZcvl7T7MqlcE2CF1C) | [Not For Nothin'](https://open.spotify.com/album/06PCUADbEU6XAm9bpZY7zE) | 13:04 | 2022-04-01 | 2022-06-06 |
 | [What's the Matter](https://open.spotify.com/track/2t4Jta1l1mONdzyMAhjvYf) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [What's the Matter](https://open.spotify.com/album/5sqBcX9zowe2A8la0IdQkC) | 2:21 | 2021-12-16 | 2023-04-11 |
 | [when there's love around](https://open.spotify.com/track/0sIR3lR6cUw13vYbUNAZKa) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [when there's love around](https://open.spotify.com/album/5HDlVCN0wcKBXvsjrmbwnB) | 5:03 | 2021-12-16 |  |

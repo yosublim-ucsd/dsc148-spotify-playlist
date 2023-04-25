@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Goth Babe
 
-777 songs - 2 day 3 hr 0 min
+778 songs - 2 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,7 +338,7 @@
 | [If We Only Had](https://open.spotify.com/track/2h5mbuL0DFueiKstOhEuDo) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [If We Only Had](https://open.spotify.com/album/6niJmh7Cz9YAwOEE2GjK7R) | 5:05 | 2021-07-02 | 2022-07-29 |
 | [If You Don't Know Why](https://open.spotify.com/track/4ANsDU0Gq9SAdjg7NJmigI) | [Jack J](https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl) | [Opening the Door](https://open.spotify.com/album/4PT8J0fOr38VIH5ULZamLh) | 5:57 | 2022-04-08 | 2022-07-29 |
 | [In My Arms \- Edit](https://open.spotify.com/track/2S9ho4Tw8T7oyEPSVYEL2x) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [In My Arms](https://open.spotify.com/album/0fHWRhAXuIpwXPm7HQwHDb) | 3:45 | 2021-08-27 | 2022-07-22 |
-| [In My Arms \- Edit](https://open.spotify.com/track/5ukTUKLwsaThljUaV6IVAs) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Never Enough](https://open.spotify.com/album/0ovBhOM0M8GHUEL7IOLFWP) | 3:45 | 2021-08-27 |  |
+| [In My Arms \- Edit](https://open.spotify.com/track/5ukTUKLwsaThljUaV6IVAs) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Never Enough](https://open.spotify.com/album/0ovBhOM0M8GHUEL7IOLFWP) | 3:45 | 2021-08-27 | 2023-04-25 |
 | [in your eyes](https://open.spotify.com/track/73HRbponIzYwPXVbuc2yAg) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Dom Maker](https://open.spotify.com/artist/0mOUTmvCZnw2EWdQqY3RGc), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [MK 3.5: In Your Eyes & A Deities Encore \| Q & Quartz](https://open.spotify.com/album/1Go6FfjxKnKipsnWuPJPZb) | 3:28 | 2022-09-09 | 2022-10-29 |
 | [Inch Off The Earth](https://open.spotify.com/track/7CwAaS3gJk0UXWL6gbpsmV) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Inch Off The Earth](https://open.spotify.com/album/2lShWP8IyChQAr7zyh7aWW) | 2:51 | 2021-11-05 | 2022-02-12 |
 | [Indecisive \(feat\. Tommy Genesis\)](https://open.spotify.com/track/2tQsKH9WgQSGbuV7GQXeP9) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Indecisive \(feat\. Tommy Genesis\)](https://open.spotify.com/album/1bmFqLkkpsfeAEZoBiV4W6) | 2:15 | 2021-08-13 | 2022-02-25 |
@@ -376,6 +376,7 @@
 | [KILL DEM](https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [KILL DEM](https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo) | 3:43 | 2022-10-05 |  |
 | [Knots](https://open.spotify.com/track/6IeHxwTYKiUlYPuE5G8X3I) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [Knots](https://open.spotify.com/album/1tW8OHgYsALKscZLNaL29t) | 3:50 | 2021-08-27 | 2022-07-21 |
 | [L.D.R.A](https://open.spotify.com/track/3dE5JkCceos3FiuQmTKfOx) | [Shire T](https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe), [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Wish & Fonda Rae](https://open.spotify.com/artist/4tlwGA9FRTxbAiBTW1rLJc) | [Tomorrow’s People](https://open.spotify.com/album/0qk4ovxWz0en2H2HIqz2wT) | 4:29 | 2021-08-27 | 2022-07-08 |
+| [L.F.O.](https://open.spotify.com/track/09s0LZjI9zgBvXRNNA6j7K) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [L.F.O.](https://open.spotify.com/album/56FZp4N6OxLqFWcEG8qhmA) | 4:31 | 2023-04-21 |  |
 | [L.O.V.E.](https://open.spotify.com/track/2YZUs2K97H9betaeKAexF8) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [L.O.V.E.](https://open.spotify.com/album/1PELOreseODQHJOR9HnQwd) | 3:16 | 2021-12-10 | 2021-12-30 |
 | [L.O.V.E\. \(feat\. EARTHGANG, Jon Batiste & Sherwyn\)](https://open.spotify.com/track/3h3szgXLd2FJ0WSWj8om9t) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV) | [L.O.V.E\. \(feat\. EARTHGANG, Jon Batiste & Sherwyn\)](https://open.spotify.com/album/3tXVxjXrXJMTBXorraiZHQ) | 2:49 | 2022-03-04 | 2022-10-06 |
 | [Lake Shore Drive](https://open.spotify.com/track/2mFWXeXmghEkm2jcPtXntU) | [The Disco Biscuits](https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D) | [Lake Shore Drive](https://open.spotify.com/album/4stUGWIUSHrqa0sP6EzAsf) | 4:32 | 2022-03-04 | 2022-04-14 |

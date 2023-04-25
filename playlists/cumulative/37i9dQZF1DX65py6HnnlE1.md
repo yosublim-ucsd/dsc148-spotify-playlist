@@ -4,13 +4,13 @@
 
 > Clásicos de la bachata\. Timeless bachata hits\. Cover: Aventura
 
-155 songs - 10 hr 55 min
+156 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ahora Vete](https://open.spotify.com/track/3yqgzXWZrRFQOqwDQJ7z3b) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Xtreme](https://open.spotify.com/album/66g9Nydw29UNG9b2ndrlRi) | 3:47 | 2022-01-01 |  |
 | [Amiga Veneno](https://open.spotify.com/track/7n8cKJDktV6TeKZTcR5k8y) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Novia Mia](https://open.spotify.com/album/1Btt4vZ0zB05UK4d4OsvIH) | 5:25 | 2022-01-01 | 2022-06-30 |
-| [Amor de Tres](https://open.spotify.com/track/7HnsFOjOi6uRtZ1Wl5wG32) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Enfermo De Amor](https://open.spotify.com/album/4uhz6QeJuWKMLMLMYTAzz0) | 4:08 | 2023-02-02 |  |
+| [Amor de Tres](https://open.spotify.com/track/7HnsFOjOi6uRtZ1Wl5wG32) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Enfermo De Amor](https://open.spotify.com/album/4uhz6QeJuWKMLMLMYTAzz0) | 4:08 | 2023-02-02 | 2023-04-25 |
 | [Amor del Bueno](https://open.spotify.com/track/2egwnJt2bLB7dAtW1t16uD) | [Ramon Cordero](https://open.spotify.com/artist/38F8jWI9OYvjRl9LBTVBzF) | [Vida](https://open.spotify.com/album/3otGSsBAcUPiucY8PMYqZG) | 3:11 | 2023-02-02 |  |
 | [Antología De Caricias](https://open.spotify.com/track/2jEgfmOjkzmdI8FFqNHrrf) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [La Batalla](https://open.spotify.com/album/2SoC60zXrZBkx0Q8CP8hPb) | 3:57 | 2022-01-01 |  |
 | [Ay hombre](https://open.spotify.com/track/5wsJ8UlGeXBKozC52hC2A4) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Kings of Bachata](https://open.spotify.com/album/6mAyYaAFbwIrw3sFy6MPwB) | 5:02 | 2022-01-01 | 2022-07-27 |
@@ -31,6 +31,7 @@
 | [Coronita de Flores](https://open.spotify.com/track/4zNjtYoNgfESifoEHN5lq3) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Areíto](https://open.spotify.com/album/2fWv7QiXsz8YKIIEtK7oK1) | 4:18 | 2023-03-17 | 2023-03-20 |
 | [Creiste](https://open.spotify.com/track/53orRX6MudB9jhW0sKZWhW) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Creiste](https://open.spotify.com/album/7mKk2Bs3RmVufvShVI8EcU) | 4:17 | 2022-01-01 |  |
 | [Cuando El Amor Se Va](https://open.spotify.com/track/4zTcZab4flOF6NuR6s8A8H) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Mas Bachata](https://open.spotify.com/album/7rlK9OfT89C1v8FCu7J6mW) | 3:55 | 2022-01-01 | 2022-07-04 |
+| [Cuando El Amor Se Va](https://open.spotify.com/track/3hCzPmdh5AhxFYBZMfFOgP) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Recuentos De Éxitos](https://open.spotify.com/album/1XvALZGX2W9POnEoKmbEHq) | 3:55 | 2023-03-17 |  |
 | [Cuando Volveras](https://open.spotify.com/track/7vXKZJy7buchKnncu1meOh) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Generation Next](https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp) | 3:30 | 2023-02-02 |  |
 | [Dame Corazón](https://open.spotify.com/track/1zBURawO89mr4lMAgNaZTC) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [El Amor Da Vida](https://open.spotify.com/album/7cvNPA3yL0ctTcT5EiaxoA) | 3:25 | 2022-01-01 | 2022-04-26 |
 | [Darte un Beso](https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Soy el Mismo](https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe) | 3:26 | 2022-01-01 |  |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Kim Petras, Nicki Minaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,632 likes - 109 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,638 likes - 109 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Alone \(with Nicki Minaj\)](https://open.spotify.com/track/7kOletJ0Q5H4MWe7cfeZXP) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Alone](https://open.spotify.com/album/5YdIiv5WLNbaONCyGIDszz) | 3:05 |
 | 2 | [Double Fantasy \(with Future\)](https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Double Fantasy](https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm) | 4:28 |
-| 3 | [Location](https://open.spotify.com/track/1elcu8IXCUBRUYObThbyZU) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [ALPHA](https://open.spotify.com/album/4iLm0b2BMkkeVLhcMgLij0) | 2:55 |
+| 3 | [Location](https://open.spotify.com/track/1elcu8IXCUBRUYObThbyZU) | [Noizy](https://open.spotify.com/artist/4A0V8wrSmivwhA6DAeQxqP), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [ALPHA](https://open.spotify.com/album/4iLm0b2BMkkeVLhcMgLij0) | 2:55 |
 | 4 | [Danger](https://open.spotify.com/track/2G02Na0nsJukXKEx8f13dB) | [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [Danger](https://open.spotify.com/album/4gUz8ej6TochFqQemxkGOx) | 2:16 |
 | 5 | [Boat](https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Boat](https://open.spotify.com/album/0MC4ylr8NtdNRRhPUyjvdS) | 3:05 |
 | 6 | [Kei Panik \(feat\. EAZ\)](https://open.spotify.com/track/4uQY9Nq63deHcCLTAXjsEM) | [MYKEL COSTA](https://open.spotify.com/artist/5K9u03cGBr44enVvFqGzzK), [EAZ](https://open.spotify.com/artist/03Vz1qy4oauKKM9kJKy5DW) | [Kei Panik \(feat\. EAZ\)](https://open.spotify.com/album/2PR7pVRodsljEJMJBNF6V7) | 2:21 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 34 | [Ohni Dich](https://open.spotify.com/track/4r0u87dvisjK1P5LshpPcf) | [Port Polar](https://open.spotify.com/artist/4b41AQY0Be5MHvhf4g9opI) | [Ohni Dich](https://open.spotify.com/album/7syymtl9LoSSzKVPn4renD) | 2:24 |
 | 35 | [Hey Ma](https://open.spotify.com/track/16SLjAOc953IK1HGWSuFDk) | [Silbermond](https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA) | [Hey Ma](https://open.spotify.com/album/5utqL9RqfotSYNOxIo98dx) | 3:02 |
 | 36 | [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 |
-| 37 | [Rosenwasser](https://open.spotify.com/track/159YNZ8PzgKGF0M6HbRppJ) | [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE), [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Rosenwasser](https://open.spotify.com/album/7cPBwsMWN6NEVBTbHbAKDJ) | 3:01 |
+| 37 | [Rosenwasser](https://open.spotify.com/track/0RCbdLqP4VZurBNt7ugDhj) | [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE), [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Rosenwasser](https://open.spotify.com/album/09m1THJA35pqAqyLUoueQZ) | 3:01 |
 | 38 | [Wild Horses](https://open.spotify.com/track/3MTmcLPeQjWMjZ934km1Zg) | [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Wild Horses](https://open.spotify.com/album/2vnekhyoxFdqDU0Ogt5vut) | 3:44 |
 | 39 | [What's Luv](https://open.spotify.com/track/2ksUXEZRrKr2NlPenj87Oq) | [LieVin](https://open.spotify.com/artist/4bCEw9lXrhxvEZQHxD8tJU) | [What's Luv](https://open.spotify.com/album/4mFynmD1ZT1UF71siAmcbo) | 1:53 |
 | 40 | [start again](https://open.spotify.com/track/3pkacg4CSnP4i0K907SODj) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [leave me where you found me](https://open.spotify.com/album/5ErAWZUiPinYqoryslUsFy) | 2:51 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 108 | [Haegeum](https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 2:48 |
 | 109 | [Nice But No](https://open.spotify.com/track/5LjqoBiIliitkg1IBgFR4h) | [The BossHoss](https://open.spotify.com/artist/1sICjVlCMOCah0snHXWUz0), [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Nice But No](https://open.spotify.com/album/66vTjC26h61YVEzuvgZnyg) | 3:36 |
 
-Snapshot ID: `MTY4MjA1MDUxMywwMDAwMDAwMGY2ZDZiMzBjYzYzOTI0MzlkMzc2MDExYjIxNjdkYmM3`
+Snapshot ID: `MTY4MjA1MDUxMywwMDAwMDAwMDIyMGQ5MDVhZDZiN2YxOTFkZmU5YTkwOTljZTg4NjU0`

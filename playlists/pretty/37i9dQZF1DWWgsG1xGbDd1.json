@@ -1,12 +1,12 @@
 {
   "description": "You feel the sun on your face. ",
-  "num_followers": 107597,
+  "num_followers": 107687,
   "original_name": "Vintage Vibes: Sunny Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTE3MTcwNCwwMDAwMDAwMGNiNzIyOGNhODhlM2Q5ZGQwNDMyMTUxNjVjODg2NWVj",
+  "snapshot_id": "MTYxOTE3MTcwNCwwMDAwMDAwMDFmNzU3MzIyNTlhMGUwMzY5YWJkZWM4ZWFhOGI5YjEw",
   "tracks": [
     {
       "added_at": "2021-04-23 09:55:04",
@@ -139,22 +139,6 @@
     {
       "added_at": "2021-04-23 09:55:04",
       "album": {
-        "name": "Confrontation",
-        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 255840,
-      "name": "Buffalo Soldier",
-      "url": "https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
         "name": "Winner Of My Heart - Reggae",
         "url": "https://open.spotify.com/album/0xUN4o8p2BixUKpUvOejJ5"
       },
@@ -187,6 +171,22 @@
     {
       "added_at": "2021-04-23 09:55:04",
       "album": {
+        "name": "Confrontation",
+        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 255840,
+      "name": "Buffalo Soldier",
+      "url": "https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
         "name": "Reggae For House Parties",
         "url": "https://open.spotify.com/album/1ibmkILOdPOQSNrFIIn53c"
       },
@@ -215,22 +215,6 @@
       "duration_ms": 250543,
       "name": "Poco Tempo (aka Pocco Tempo)",
       "url": "https://open.spotify.com/track/3XsdL4mKkygWZpOcyt4vfp"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 256239,
-      "name": "Waiting In Vain",
-      "url": "https://open.spotify.com/track/58Zt987fK6gWxtO0MwEzPn"
     },
     {
       "added_at": "2021-04-23 09:55:04",
@@ -299,8 +283,8 @@
     {
       "added_at": "2021-04-23 09:55:04",
       "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
       },
       "artists": [
         {
@@ -308,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 271000,
-      "name": "Satisfy My Soul",
-      "url": "https://open.spotify.com/track/5Uv1YNz6uBepPLDdoFANKQ"
+      "duration_ms": 256239,
+      "name": "Waiting In Vain",
+      "url": "https://open.spotify.com/track/58Zt987fK6gWxtO0MwEzPn"
     },
     {
       "added_at": "2021-04-23 09:55:04",
@@ -379,6 +363,22 @@
     {
       "added_at": "2021-04-23 09:55:04",
       "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Satisfy My Soul",
+      "url": "https://open.spotify.com/track/5Uv1YNz6uBepPLDdoFANKQ"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
         "name": "Studio One Scorcher Volume 2",
         "url": "https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a"
       },
@@ -407,22 +407,6 @@
       "duration_ms": 151133,
       "name": "Real Rock",
       "url": "https://open.spotify.com/track/5jnA4sMHH7OiImyOHKSVdl"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
-        "name": "Marley (The Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 197840,
-      "name": "Get Up, Stand Up",
-      "url": "https://open.spotify.com/track/4hLATN2VtjiJ6jLm6V47x1"
     },
     {
       "added_at": "2021-04-23 09:55:04",
@@ -471,6 +455,22 @@
       "duration_ms": 259506,
       "name": "Locust",
       "url": "https://open.spotify.com/track/3jFPay48ActRmwHnhPHwu7"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
+        "name": "Marley (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 197840,
+      "name": "Get Up, Stand Up",
+      "url": "https://open.spotify.com/track/4hLATN2VtjiJ6jLm6V47x1"
     },
     {
       "added_at": "2021-04-23 09:55:04",

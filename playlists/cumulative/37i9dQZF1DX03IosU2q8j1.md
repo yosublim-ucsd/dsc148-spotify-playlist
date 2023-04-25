@@ -4,7 +4,7 @@
 
 > Ro, Ro, Ro, Rodrigo carajo!
 
-66 songs - 5 hr 35 min
+67 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Fuego y Pasion](https://open.spotify.com/track/78AZaBSAHNTK2frhqwh2RX) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Eterno](https://open.spotify.com/album/6KUYysMj9dPbQ9OFmyu46Y) | 4:10 | 2021-10-05 |  |
 | [Himno del Cucumelo](https://open.spotify.com/track/1dqOKfw1bVmVaEjMj0CB3L) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuartetero y Cordobés](https://open.spotify.com/album/3q6Wg7VBtWvIiggdi2lFn1) | 3:21 | 2021-10-05 |  |
 | [Informe Policial](https://open.spotify.com/track/7hN0r6myRrvoFrXK1C0ne9) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Eterno](https://open.spotify.com/album/6KUYysMj9dPbQ9OFmyu46Y) | 5:02 | 2021-10-05 |  |
+| [Juntos al amanecer](https://open.spotify.com/track/6ayZaM6JNx5j84zvL37uD1) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Juntos al amanecer](https://open.spotify.com/album/3CsEKeFfXd6EiXvhu8sTcX) | 2:21 | 2023-04-24 |  |
 | [La batatita](https://open.spotify.com/track/07nIMVKul3pXuIjqWGTi2n) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Rodrigo \- La mano de dios](https://open.spotify.com/album/4932NIvwgNL5iUY6Vx5xG5) | 3:18 | 2021-10-05 |  |
 | [La Chica de Mi Barrio](https://open.spotify.com/track/1KQNRKOgnMxzA8knwnAxhS) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Eterno](https://open.spotify.com/album/6KUYysMj9dPbQ9OFmyu46Y) | 3:58 | 2021-10-05 |  |
 | [La Gata y el Raton](https://open.spotify.com/track/6dx4tzvQcd2VRI53JFObn2) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Eterno](https://open.spotify.com/album/6KUYysMj9dPbQ9OFmyu46Y) | 4:29 | 2021-10-05 |  |

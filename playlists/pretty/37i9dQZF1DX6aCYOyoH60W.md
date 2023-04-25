@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aCYOyoH60W.md) - [plain]
 
 > The well\-established UK DJ and producer, <a href="spotify:artist:7dDPt2xIGymSDddx80OfF1">DJ Q</a>, delivers a solid mix blending Garage & Bassline.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256 likes - 34 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 260 likes - 34 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

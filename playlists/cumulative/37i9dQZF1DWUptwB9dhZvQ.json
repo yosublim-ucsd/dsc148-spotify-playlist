@@ -825,6 +825,24 @@
     },
     {
       "album": {
+        "name": "Kanguva Title Announcement (From \"Kanguva\")",
+        "url": "https://open.spotify.com/album/6gZxjKsHDZMkcKzXARtGa5"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73320,
+      "name": "Kanguva Title Announcement (From \"Kanguva\")",
+      "url": "https://open.spotify.com/track/5ZkKUoBOXWbGfhZLxlSJMV"
+    },
+    {
+      "album": {
         "name": "Kaththi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0CHQy8WKl6HXPdoJM84pwb"
       },

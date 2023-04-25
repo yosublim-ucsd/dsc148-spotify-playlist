@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 85438,
+  "num_followers": 85467,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMGFmMTBkZDE3NTdjZTJhODAwZDI1M2MxYzllNWNlM2M4",
+  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMDFjMTMwZDY1MDEyYjcwZmM3NTRhZDRlMTZiNWJjOTU1",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -271,6 +271,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Talking Stage",
+        "url": "https://open.spotify.com/album/7dNdmqTyrNfjKOr8aOg3rX"
+      },
+      "artists": [
+        {
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "duration_ms": 177464,
+      "name": "Talking Stage",
+      "url": "https://open.spotify.com/track/3Kim4tV3HTnpaELmIh56lI"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Why you gotta lie?",
         "url": "https://open.spotify.com/album/7HFZ5BPoa353YG5EOGXVLE"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 156053,
       "name": "Why you gotta lie?",
       "url": "https://open.spotify.com/track/492G9mKNRkoTJFybP2BItb"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/4GBGxGBSpQPwDkpVAjrTb1"
-      },
-      "artists": [
-        {
-          "name": "Mboogz",
-          "url": "https://open.spotify.com/artist/6pFQmtinlfDnu3ifn7KQtB"
-        }
-      ],
-      "duration_ms": 213790,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/0fD871BU8pWNuulBNpHYFt"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -323,18 +323,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Talking Stage",
-        "url": "https://open.spotify.com/album/7dNdmqTyrNfjKOr8aOg3rX"
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/4GBGxGBSpQPwDkpVAjrTb1"
       },
       "artists": [
         {
-          "name": "JBEE",
-          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+          "name": "Mboogz",
+          "url": "https://open.spotify.com/artist/6pFQmtinlfDnu3ifn7KQtB"
         }
       ],
-      "duration_ms": 177464,
-      "name": "Talking Stage",
-      "url": "https://open.spotify.com/track/3Kim4tV3HTnpaELmIh56lI"
+      "duration_ms": 213790,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/0fD871BU8pWNuulBNpHYFt"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27"
+      },
+      "artists": [
+        {
+          "name": "Emzorearner",
+          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Stuck In My Ways",
         "url": "https://open.spotify.com/album/28wWPwJNWOyoVIYcmNJrxl"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 180413,
       "name": "Left Back - Remix",
       "url": "https://open.spotify.com/track/43IYnqZj6slsFqPTmBNS4E"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27"
-      },
-      "artists": [
-        {
-          "name": "Emzorearner",
-          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
-        }
-      ],
-      "duration_ms": 152571,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "If I Die Young",
+        "url": "https://open.spotify.com/album/21yWDNOLIhn37Kd6UtYua4"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 189781,
+      "name": "If I Die Young",
+      "url": "https://open.spotify.com/track/48oASW55itK9LQ5YFVSna4"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Trust Issues",
         "url": "https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 120000,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "If I Die Young",
-        "url": "https://open.spotify.com/album/21yWDNOLIhn37Kd6UtYua4"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 189781,
-      "name": "If I Die Young",
-      "url": "https://open.spotify.com/track/48oASW55itK9LQ5YFVSna4"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -979,6 +979,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Deeper Than Drill",
+        "url": "https://open.spotify.com/album/2srLqC88s3SZBpI9Zs5aNF"
+      },
+      "artists": [
+        {
+          "name": "Ronzo",
+          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Deeper Than Drill",
+      "url": "https://open.spotify.com/track/0AaFp8J9BS17oH4xIybF5n"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "9AM",
         "url": "https://open.spotify.com/album/0uG0IQx1hfrr4vVnRAQKip"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 172199,
       "name": "9AM",
       "url": "https://open.spotify.com/track/1dp6T547hI6B7ASSh2aDKl"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Deeper Than Drill",
-        "url": "https://open.spotify.com/album/2srLqC88s3SZBpI9Zs5aNF"
-      },
-      "artists": [
-        {
-          "name": "Ronzo",
-          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Deeper Than Drill",
-      "url": "https://open.spotify.com/track/0AaFp8J9BS17oH4xIybF5n"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "House Invasions",
-        "url": "https://open.spotify.com/album/1XrCkFbBItJh1RGDUjP6oG"
-      },
-      "artists": [
-        {
-          "name": "Nino SLG",
-          "url": "https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe"
-        }
-      ],
-      "duration_ms": 209345,
-      "name": "House Invasions",
-      "url": "https://open.spotify.com/track/6MmoLsN5Wh0g86AOfOH5nt"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Take The Risk",
         "url": "https://open.spotify.com/album/4X05eKMdKrelQwoZNxd2Fv"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 200124,
       "name": "Take The Risk",
       "url": "https://open.spotify.com/track/227yzcqbegKaSlZiFcBn2c"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "House Invasions",
+        "url": "https://open.spotify.com/album/1XrCkFbBItJh1RGDUjP6oG"
+      },
+      "artists": [
+        {
+          "name": "Nino SLG",
+          "url": "https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe"
+        }
+      ],
+      "duration_ms": 209345,
+      "name": "House Invasions",
+      "url": "https://open.spotify.com/track/6MmoLsN5Wh0g86AOfOH5nt"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Scorpio Trait",
+        "url": "https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7"
+      },
+      "artists": [
+        {
+          "name": "Fabio G",
+          "url": "https://open.spotify.com/artist/6IrmquAwUh8qHOrXtbrS6R"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Scorpio Trait",
+      "url": "https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Is it too much? (Pray things change)",
         "url": "https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 171678,
       "name": "Is it too much? (Pray things change)",
       "url": "https://open.spotify.com/track/2cIzPODicoClfJEYKj8W6o"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Scorpio Trait",
-        "url": "https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7"
-      },
-      "artists": [
-        {
-          "name": "Fabio G",
-          "url": "https://open.spotify.com/artist/6IrmquAwUh8qHOrXtbrS6R"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Scorpio Trait",
-      "url": "https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Hearts Get Numb",
-        "url": "https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG"
-      },
-      "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        }
-      ],
-      "duration_ms": 175774,
-      "name": "Hearts Get Numb",
-      "url": "https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Akhirah",
         "url": "https://open.spotify.com/album/4xRb5029doJ6mT2qQLVOPW"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 199799,
       "name": "Role Model",
       "url": "https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Hearts Get Numb",
+        "url": "https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        }
+      ],
+      "duration_ms": 175774,
+      "name": "Hearts Get Numb",
+      "url": "https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89"
     },
     {
       "added_at": "2022-08-02 15:42:28",

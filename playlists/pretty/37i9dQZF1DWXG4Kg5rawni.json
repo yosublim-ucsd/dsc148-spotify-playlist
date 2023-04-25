@@ -1,12 +1,12 @@
 {
   "description": "Adoradores cantando sobre o amor. Foto: Paulo Cesar Baruk",
-  "num_followers": 82576,
+  "num_followers": 82621,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ5ODA4MSwwMDAwMDAwMDU5MGJmYmZkOWM2MjMyNjM2MmU3MjExNjNkNGIxZDVi",
+  "snapshot_id": "MTY3ODQ5ODA4MSwwMDAwMDAwMDg3MjcwOGI2ZTYyOTlkNDkzYTM4YzczNWU3MDljZGUy",
   "tracks": [
     {
       "added_at": "2023-03-11 01:28:01",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
-        "name": "M\u00e3os Vazias",
-        "url": "https://open.spotify.com/album/05B5n1uemv9gLwwJOeKrWl"
-      },
-      "artists": [
-        {
-          "name": "Khorus",
-          "url": "https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx"
-        }
-      ],
-      "duration_ms": 276413,
-      "name": "Sonho",
-      "url": "https://open.spotify.com/track/0go1ERmjFYbI2Z6pwF0Qse"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
         "name": "Tempo de Sorrir",
         "url": "https://open.spotify.com/album/1GBGOqtdXd3Oup24fJ6B1B"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 244613,
       "name": "Desde o Primeiro Momento",
       "url": "https://open.spotify.com/track/1pv5bRc2G6ZbiBkKpCDT1K"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
+        "name": "M\u00e3os Vazias",
+        "url": "https://open.spotify.com/album/05B5n1uemv9gLwwJOeKrWl"
+      },
+      "artists": [
+        {
+          "name": "Khorus",
+          "url": "https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx"
+        }
+      ],
+      "duration_ms": 276413,
+      "name": "Sonho",
+      "url": "https://open.spotify.com/track/0go1ERmjFYbI2Z6pwF0Qse"
     },
     {
       "added_at": "2023-03-11 01:28:01",
@@ -299,6 +299,26 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
+        "name": "Pamela Falando de Amor",
+        "url": "https://open.spotify.com/album/1GGLOuf5RpSgokroQqOFHU"
+      },
+      "artists": [
+        {
+          "name": "Pamela",
+          "url": "https://open.spotify.com/artist/2utzgF5vzJfGqZPHBGFtrG"
+        },
+        {
+          "name": "Alex Gonzaga",
+          "url": "https://open.spotify.com/artist/7uGIP1PFDEHgHsmO2kWJEd"
+        }
+      ],
+      "duration_ms": 284862,
+      "name": "Um Verso de Amor",
+      "url": "https://open.spotify.com/track/5P8LnyPsmeNztjsir8e5ke"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
         "name": "Aperfei\u00e7oou",
         "url": "https://open.spotify.com/album/3G5Gf6znSZ9gdIJBBc2tqD"
       },
@@ -311,22 +331,6 @@
       "duration_ms": 239933,
       "name": "Deus, Voc\u00ea e Eu",
       "url": "https://open.spotify.com/track/0WD0mcZTnBLhdHAvpSNy51"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
-        "name": "Wilian Nascimento Falando de Amor",
-        "url": "https://open.spotify.com/album/66cFFmk9f3pqGsvVVYaDXj"
-      },
-      "artists": [
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
-        }
-      ],
-      "duration_ms": 261085,
-      "name": "Beijo no Altar",
-      "url": "https://open.spotify.com/track/2WOezAtyBM1RupEiU70bpp"
     },
     {
       "added_at": "2023-03-11 01:28:01",
@@ -351,22 +355,34 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
-        "name": "Pamela Falando de Amor",
-        "url": "https://open.spotify.com/album/1GGLOuf5RpSgokroQqOFHU"
+        "name": "Fernanda Brum - Falando de Amor",
+        "url": "https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE"
       },
       "artists": [
         {
-          "name": "Pamela",
-          "url": "https://open.spotify.com/artist/2utzgF5vzJfGqZPHBGFtrG"
-        },
-        {
-          "name": "Alex Gonzaga",
-          "url": "https://open.spotify.com/artist/7uGIP1PFDEHgHsmO2kWJEd"
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 284862,
-      "name": "Um Verso de Amor",
-      "url": "https://open.spotify.com/track/5P8LnyPsmeNztjsir8e5ke"
+      "duration_ms": 263639,
+      "name": "Te Amaria Outra Vez",
+      "url": "https://open.spotify.com/track/4ZkGjVqwuUurX1BD89CJFh"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
+        "name": "Wilian Nascimento Falando de Amor",
+        "url": "https://open.spotify.com/album/66cFFmk9f3pqGsvVVYaDXj"
+      },
+      "artists": [
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        }
+      ],
+      "duration_ms": 261085,
+      "name": "Beijo no Altar",
+      "url": "https://open.spotify.com/track/2WOezAtyBM1RupEiU70bpp"
     },
     {
       "added_at": "2023-03-11 01:28:01",
@@ -387,22 +403,6 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
-        "name": "Fernanda Brum - Falando de Amor",
-        "url": "https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 263639,
-      "name": "Te Amaria Outra Vez",
-      "url": "https://open.spotify.com/track/4ZkGjVqwuUurX1BD89CJFh"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
         "name": "Com Voc\u00ea",
         "url": "https://open.spotify.com/album/54ci89R6xdQfxdsQLgH1no"
       },
@@ -415,22 +415,6 @@
       "duration_ms": 223886,
       "name": "Com Voc\u00ea",
       "url": "https://open.spotify.com/track/7dsOIrjQZbRgNg6KNWPYYJ"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
-        "name": "Wilian Nascimento Falando de Amor",
-        "url": "https://open.spotify.com/album/66cFFmk9f3pqGsvVVYaDXj"
-      },
-      "artists": [
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
-        }
-      ],
-      "duration_ms": 207818,
-      "name": "Don Juan",
-      "url": "https://open.spotify.com/track/1y3SxHr9aDEcy69mabuDBE"
     },
     {
       "added_at": "2023-03-11 01:28:01",
@@ -483,6 +467,22 @@
       "duration_ms": 236251,
       "name": "Escolhi Te Esperar",
       "url": "https://open.spotify.com/track/0Ifj8NQ3Xl2Ia9s6XCphrz"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
+        "name": "Wilian Nascimento Falando de Amor",
+        "url": "https://open.spotify.com/album/66cFFmk9f3pqGsvVVYaDXj"
+      },
+      "artists": [
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        }
+      ],
+      "duration_ms": 207818,
+      "name": "Don Juan",
+      "url": "https://open.spotify.com/track/1y3SxHr9aDEcy69mabuDBE"
     },
     {
       "added_at": "2023-03-11 01:28:01",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
+        "name": "Meu Bem",
+        "url": "https://open.spotify.com/album/5EXAIjwCYVpVZ5xEgWF4Dd"
+      },
+      "artists": [
+        {
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
+        }
+      ],
+      "duration_ms": 230878,
+      "name": "Meu Bem",
+      "url": "https://open.spotify.com/track/10xATNb0pIGuxHD31B6EFb"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
         "name": "Presente de Deus",
         "url": "https://open.spotify.com/album/4LwrqbJBtTPzv1b4t8Rq6W"
       },
@@ -607,38 +623,6 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
-        "name": "Como Eu N\u00e3o Poderia Amar Voc\u00ea",
-        "url": "https://open.spotify.com/album/7rFskntBzgFrrDxG76VHCT"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 267772,
-      "name": "Como Eu N\u00e3o Poderia Amar Voc\u00ea",
-      "url": "https://open.spotify.com/track/4iN9STysQ3gjrpsKkv8EoW"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
-        "name": "Meu Bem",
-        "url": "https://open.spotify.com/album/5EXAIjwCYVpVZ5xEgWF4Dd"
-      },
-      "artists": [
-        {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
-        }
-      ],
-      "duration_ms": 230878,
-      "name": "Meu Bem",
-      "url": "https://open.spotify.com/track/10xATNb0pIGuxHD31B6EFb"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
         "name": "O Dia (feat. Weslei Santos)",
         "url": "https://open.spotify.com/album/2QkspDdHjC693cJqV6Cegb"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 237517,
       "name": "O Dia (feat. Weslei Santos)",
       "url": "https://open.spotify.com/track/25gb581HHOm5j2oTlfw8FW"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
+        "name": "Como Eu N\u00e3o Poderia Amar Voc\u00ea",
+        "url": "https://open.spotify.com/album/7rFskntBzgFrrDxG76VHCT"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 267772,
+      "name": "Como Eu N\u00e3o Poderia Amar Voc\u00ea",
+      "url": "https://open.spotify.com/track/4iN9STysQ3gjrpsKkv8EoW"
     },
     {
       "added_at": "2023-03-11 01:28:01",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
-        "name": "Como da Primeira Vez",
-        "url": "https://open.spotify.com/album/1l251cpn8Zq7lddCDv6ek4"
-      },
-      "artists": [
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "Como da Primeira Vez",
-      "url": "https://open.spotify.com/track/5LtLJOxgWzpbt633NCrYTG"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
         "name": "Can\u00e7\u00e3o do Amor",
         "url": "https://open.spotify.com/album/0yaKi8TPRzEJKKQH1jm7BD"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 208444,
       "name": "Can\u00e7\u00e3o do Amor",
       "url": "https://open.spotify.com/track/45yVIwLnEmGrLSK0xqr5Cs"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
+        "name": "Como da Primeira Vez",
+        "url": "https://open.spotify.com/album/1l251cpn8Zq7lddCDv6ek4"
+      },
+      "artists": [
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "Como da Primeira Vez",
+      "url": "https://open.spotify.com/track/5LtLJOxgWzpbt633NCrYTG"
     },
     {
       "added_at": "2023-03-11 01:28:01",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
-        "name": "Perto de Mim",
-        "url": "https://open.spotify.com/album/5tkfbVIirsXOLrEOD5C58y"
-      },
-      "artists": [
-        {
-          "name": "\u00c1quila",
-          "url": "https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ"
-        }
-      ],
-      "duration_ms": 168735,
-      "name": "Perto de Mim",
-      "url": "https://open.spotify.com/track/5N5c9pE8W7KFfV3C9kOLdt"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
         "name": "Amor \u00e9 Flor",
         "url": "https://open.spotify.com/album/7dZluOqo9R8tqUKoSPhqT1"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 135547,
       "name": "Amor \u00e9 Flor",
       "url": "https://open.spotify.com/track/2xHj61bOgsrBQ6kU7UYphq"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
+        "name": "Perto de Mim",
+        "url": "https://open.spotify.com/album/5tkfbVIirsXOLrEOD5C58y"
+      },
+      "artists": [
+        {
+          "name": "\u00c1quila",
+          "url": "https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ"
+        }
+      ],
+      "duration_ms": 168735,
+      "name": "Perto de Mim",
+      "url": "https://open.spotify.com/track/5N5c9pE8W7KFfV3C9kOLdt"
     },
     {
       "added_at": "2023-03-11 01:28:01",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 
 > Timeless & classic Arabic songs
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,466 likes - 53 songs - 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,571 likes - 53 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "sensual roots & indie folk.",
-  "num_followers": 545096,
+  "num_followers": 545223,
   "original_name": "intertwined",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDEyYmRkODRjMzAwYjk0MjZiYThiOTA0MDFlMTJjZmQ5",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMGE2YTBlZTEwYzI1MDRkMzI4NGY3OTI5Y2NjYTg2Y2Nj",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Take Care of Yourself",
-        "url": "https://open.spotify.com/album/1ga17JiadIfEdU2atHyimo"
-      },
-      "artists": [
-        {
-          "name": "Le Siren",
-          "url": "https://open.spotify.com/artist/2S3JqbYUGXlM10ljtBH1wC"
-        }
-      ],
-      "duration_ms": 157802,
-      "name": "Burnt Sage",
-      "url": "https://open.spotify.com/track/3NX56nHlZ4TwoZzaUW0dgz"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Cherry Plum",
         "url": "https://open.spotify.com/album/5Sojt1gA3COWCx7xxSgtyh"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 174857,
       "name": "Cherry Plum",
       "url": "https://open.spotify.com/track/2xdg9F0iwnupD9LMowLl8I"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Take Care of Yourself",
+        "url": "https://open.spotify.com/album/1ga17JiadIfEdU2atHyimo"
+      },
+      "artists": [
+        {
+          "name": "Le Siren",
+          "url": "https://open.spotify.com/artist/2S3JqbYUGXlM10ljtBH1wC"
+        }
+      ],
+      "duration_ms": 157802,
+      "name": "Burnt Sage",
+      "url": "https://open.spotify.com/track/3NX56nHlZ4TwoZzaUW0dgz"
     },
     {
       "added_at": "2023-03-24 04:00:00",

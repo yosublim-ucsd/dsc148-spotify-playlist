@@ -1,12 +1,12 @@
 {
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
-  "num_followers": 186296,
+  "num_followers": 186300,
   "original_name": "D\u00eda de Muertos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwNjAyNywwMDAwMDAwMDgyMGQ3ODBlYzc0ZWQwOWY2MzYyZWNmMzIzOGIxOWFm",
+  "snapshot_id": "MTY2NTcwNjAyNywwMDAwMDAwMDVmN2UyNzU3NmVlNjBjYzA0YTMwMmViZjg3ZmYzNTJi",
   "tracks": [
     {
       "added_at": "2021-11-01 17:39:36",
@@ -479,6 +479,22 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
+        "name": "El Abuelo",
+        "url": "https://open.spotify.com/album/0OIYe6PJEmhsKP8m9Kdbz1"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 187037,
+      "name": "El Abuelo",
+      "url": "https://open.spotify.com/track/3XL9NdAfiirtappFSAZyCr"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
         "name": "La Marcha de la Vida",
         "url": "https://open.spotify.com/album/7cdhRB4dbNZJMn1OafvISD"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 269133,
       "name": "Calaveras",
       "url": "https://open.spotify.com/track/6PO6PjA5zvQ9gCAFjDAG8D"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
-        "name": "El Abuelo",
-        "url": "https://open.spotify.com/album/0OIYe6PJEmhsKP8m9Kdbz1"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 187037,
-      "name": "El Abuelo",
-      "url": "https://open.spotify.com/track/3XL9NdAfiirtappFSAZyCr"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -567,22 +567,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "El Mexico Que Se Nos Fue",
-        "url": "https://open.spotify.com/album/09nIbsU2go0Lu1Im7zp63q"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Muerto en Vida",
-      "url": "https://open.spotify.com/track/5ZWMkJaf6f52V1UecbNjOP"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Coco (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 204617,
       "name": "Que Te Vaya Bonito",
       "url": "https://open.spotify.com/track/3fAj5jFmlNKi6UztFnTJOl"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "El Mexico Que Se Nos Fue",
+        "url": "https://open.spotify.com/album/09nIbsU2go0Lu1Im7zp63q"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Muerto en Vida",
+      "url": "https://open.spotify.com/track/5ZWMkJaf6f52V1UecbNjOP"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -827,22 +827,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Pedro Infante interpreta a Jos\u00e9 Alfredo Jim\u00e9nez Vol. 2",
-        "url": "https://open.spotify.com/album/6IXzOZdEJfqgoLtrpGEEVe"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "La vida es un sue\u00f1o",
-      "url": "https://open.spotify.com/track/3jiw1dB4dz2AeyTAINvBQA"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Suite Mexicana de Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/7yVxgddVdrQVgXS3OCgPon"
       },
@@ -855,6 +839,38 @@
       "duration_ms": 236346,
       "name": "Janitzio",
       "url": "https://open.spotify.com/track/2ViwuwrjUKpop2PxROUJP5"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Ajenos / El D\u00eda de tu Muerte",
+        "url": "https://open.spotify.com/album/7k2cOeyxBoImq2kEmwRYxR"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "duration_ms": 163815,
+      "name": "El D\u00eda de Tu Muerte",
+      "url": "https://open.spotify.com/track/5SzKwKMc5CzPNE8FMCrhrP"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Pedro Infante interpreta a Jos\u00e9 Alfredo Jim\u00e9nez Vol. 2",
+        "url": "https://open.spotify.com/album/6IXzOZdEJfqgoLtrpGEEVe"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "La vida es un sue\u00f1o",
+      "url": "https://open.spotify.com/track/3jiw1dB4dz2AeyTAINvBQA"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -875,22 +891,6 @@
       "duration_ms": 235773,
       "name": "Vamos a Morir",
       "url": "https://open.spotify.com/track/0BA4HUmlKMHeG0k2kK2fRB"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
-        "name": "Ajenos / El D\u00eda de tu Muerte",
-        "url": "https://open.spotify.com/album/7k2cOeyxBoImq2kEmwRYxR"
-      },
-      "artists": [
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        }
-      ],
-      "duration_ms": 163815,
-      "name": "El D\u00eda de Tu Muerte",
-      "url": "https://open.spotify.com/track/5SzKwKMc5CzPNE8FMCrhrP"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Sus Grandes Corridos y Rancheras",
-        "url": "https://open.spotify.com/album/3smCO3bWe2bjBkMNt3UL1V"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 172709,
-      "name": "El Jinete",
-      "url": "https://open.spotify.com/track/3SV4KyLigqwMsbuEUDRvF3"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Caribe Mar Sincopado",
         "url": "https://open.spotify.com/album/2hCmmR9twhWkwWAm3vgGfx"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 448000,
       "name": "Mujer Antigua, La Bruja",
       "url": "https://open.spotify.com/track/7rEBX9KE26h09AjNX75LGM"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Sus Grandes Corridos y Rancheras",
+        "url": "https://open.spotify.com/album/3smCO3bWe2bjBkMNt3UL1V"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 172709,
+      "name": "El Jinete",
+      "url": "https://open.spotify.com/track/3SV4KyLigqwMsbuEUDRvF3"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Mexihkateokwikameh, Sacred Songs Of The Aztecs",
-        "url": "https://open.spotify.com/album/2AlrMT4U2E0P5MkeCz8oMt"
+        "name": "Mano a Mano - Tangos a la Manera de Vicente Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC"
       },
       "artists": [
         {
-          "name": "Tzotzollin",
-          "url": "https://open.spotify.com/artist/2bO4AJkMVzTJHpo3HbxtGx"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 131039,
-      "name": "Vengan Abuelitos",
-      "url": "https://open.spotify.com/track/7tIj0Jv4PUgfdWUSCfzfgh"
+      "duration_ms": 226640,
+      "name": "Sus Ojos Se Cerraron",
+      "url": "https://open.spotify.com/track/18u7VFcTzUIm86HJ1oo3UZ"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Mano a Mano - Tangos a la Manera de Vicente Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 226640,
-      "name": "Sus Ojos Se Cerraron",
-      "url": "https://open.spotify.com/track/18u7VFcTzUIm86HJ1oo3UZ"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "God Save The Queers EP",
         "url": "https://open.spotify.com/album/3dqUvQdsfeBfIJH0Zz0THJ"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 288253,
       "name": "Kumbia Zombie",
       "url": "https://open.spotify.com/track/3i5QMzqtVccNIp2TWSquEH"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Mexihkateokwikameh, Sacred Songs Of The Aztecs",
+        "url": "https://open.spotify.com/album/2AlrMT4U2E0P5MkeCz8oMt"
+      },
+      "artists": [
+        {
+          "name": "Tzotzollin",
+          "url": "https://open.spotify.com/artist/2bO4AJkMVzTJHpo3HbxtGx"
+        }
+      ],
+      "duration_ms": 131039,
+      "name": "Vengan Abuelitos",
+      "url": "https://open.spotify.com/track/7tIj0Jv4PUgfdWUSCfzfgh"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Dulce Muerte",
-        "url": "https://open.spotify.com/album/0SDZNmyBP3pmrwtppzm9uA"
-      },
-      "artists": [
-        {
-          "name": "BuenRostro",
-          "url": "https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm"
-        }
-      ],
-      "duration_ms": 212553,
-      "name": "Dulce Muerte",
-      "url": "https://open.spotify.com/track/2n2C5wLSiSERYrGURZLMNl"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Vivir Muriendo",
         "url": "https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 238280,
       "name": "De\u0301cimas a La Muerte",
       "url": "https://open.spotify.com/track/3Qg17l5FX1OxStkPDLp2i5"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Dulce Muerte",
+        "url": "https://open.spotify.com/album/0SDZNmyBP3pmrwtppzm9uA"
+      },
+      "artists": [
+        {
+          "name": "BuenRostro",
+          "url": "https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm"
+        }
+      ],
+      "duration_ms": 212553,
+      "name": "Dulce Muerte",
+      "url": "https://open.spotify.com/track/2n2C5wLSiSERYrGURZLMNl"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
+        "name": "Chicavasco",
+        "url": "https://open.spotify.com/album/4xBpsjQYsGbGbN2cX3DilI"
+      },
+      "artists": [
+        {
+          "name": "Rana Santacruz",
+          "url": "https://open.spotify.com/artist/7gZ8QMSrZHEepUJBqdg1Y1"
+        }
+      ],
+      "duration_ms": 254280,
+      "name": "El Funeral De Tacho",
+      "url": "https://open.spotify.com/track/0xruZEA0OwFm8B6J1LnABD"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
         "name": "Vivir Muriendo",
         "url": "https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 184351,
       "name": "Los Esqueletos",
       "url": "https://open.spotify.com/track/2evbt2sweKafw1Xx6tUVq6"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
-        "name": "Chicavasco",
-        "url": "https://open.spotify.com/album/4xBpsjQYsGbGbN2cX3DilI"
-      },
-      "artists": [
-        {
-          "name": "Rana Santacruz",
-          "url": "https://open.spotify.com/artist/7gZ8QMSrZHEepUJBqdg1Y1"
-        }
-      ],
-      "duration_ms": 254280,
-      "name": "El Funeral De Tacho",
-      "url": "https://open.spotify.com/track/0xruZEA0OwFm8B6J1LnABD"
     }
   ],
   "unique_name": "D\u00eda de Muertos",

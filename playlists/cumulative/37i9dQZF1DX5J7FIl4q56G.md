@@ -4,7 +4,7 @@
 
 > This week's best new metal tracks\. Cover: As Everything Unfolds
 
-3,272 songs - 9 day 5 hr 53 min
+3,273 songs - 9 day 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1796,7 +1796,8 @@
 | [Mass veritas](https://open.spotify.com/track/0cBMM63AKms3n6rxjVSBS7) | [Mass Hysteria](https://open.spotify.com/artist/30oV84oJ6PpIzrJFpVBlM6) | [Mass veritas](https://open.spotify.com/album/2wsSBlkEKZWLq33AKrxaCM) | 3:52 | 2023-03-24 | 2023-04-01 |
 | [MASTER](https://open.spotify.com/track/0QtmbmOi6qZKm3Sb37eSLx) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [MASTER](https://open.spotify.com/album/3pCuPKwk7D60dl526YWgBg) | 4:07 | 2022-09-02 | 2022-09-10 |
 | [Master Liar](https://open.spotify.com/track/2nqIrbVlxPf1IkXpgQAtis) | [Ulvedharr](https://open.spotify.com/artist/4lOphgr7OjMxdOGx2ySUcs) | [Inferno XXXIII](https://open.spotify.com/album/5Sns5s8peXCmuZ4XfmCfyu) | 4:04 | 2023-04-21 |  |
-| [Master of the Universe](https://open.spotify.com/track/5VhWIMILEKEs0UmeJoMRXZ) | [ANGUS McSIX](https://open.spotify.com/artist/1NDBvJdsUcycpj4K8l0ooy) | [Master of the Universe](https://open.spotify.com/album/086nFtehtrA95r4FtegJpI) | 3:24 | 2023-04-21 |  |
+| [Master of the Universe](https://open.spotify.com/track/5GwKIIGkwrURnKJPiYqOSk) | [ANGUS McSIX](https://open.spotify.com/artist/1NDBvJdsUcycpj4K8l0ooy) | [Angus Mcsix and the Sword of Power](https://open.spotify.com/album/3RE6n75MEOFBX03jV32Q4Q) | 3:24 | 2023-04-21 |  |
+| [Master of the Universe](https://open.spotify.com/track/5VhWIMILEKEs0UmeJoMRXZ) | [ANGUS McSIX](https://open.spotify.com/artist/1NDBvJdsUcycpj4K8l0ooy) | [Master of the Universe](https://open.spotify.com/album/086nFtehtrA95r4FtegJpI) | 3:24 | 2023-04-21 | 2023-04-25 |
 | [Master the Hurricane](https://open.spotify.com/track/2Gaf3wScOJRll2j2eBB7Uy) | [Visions of Atlantis](https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x) | [Master the Hurricane](https://open.spotify.com/album/02dWOZprnwjXGkggw6Fwz4) | 7:18 | 2022-05-13 | 2022-05-20 |
 | [Masterpiece](https://open.spotify.com/track/2gF7u3yLBTy6vGrxwQBoGF) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Masterpiece](https://open.spotify.com/album/43DSae6Eotlll1LnAsFXAo) | 3:26 | 2022-04-15 | 2022-04-22 |
 | [Masters of Morbidity](https://open.spotify.com/track/0T6GFp0XeYDiQv083xTZyp) | [200 Stab Wounds](https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv) | [Masters of Morbidity](https://open.spotify.com/album/7IAQnZhOMVvzgeAS4BMRu7) | 4:22 | 2022-11-11 | 2022-11-19 |

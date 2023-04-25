@@ -1,12 +1,12 @@
 {
   "description": "Korean hipster & experimental music essential. \ub2f9\uc2e0\uc758 \ud799\uc2a4\ud130 \uac10\uc131\uc744 \ucda9\uc804\ud574\uc904 \uc778\ub514 \uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (Cover: Yoon Jiyoung(\uc724\uc9c0\uc601))",
-  "num_followers": 9655,
+  "num_followers": 9667,
   "original_name": "Hipster K' Pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjE3MjcyNywwMDAwMDAwMDFkOWYyODRjMDlmMTVkYjVmNjNlNTA4NTQ3OTYxN2Fh",
+  "snapshot_id": "MTY4MjE3MjcyNywwMDAwMDAwMDBjNDU1N2U4ZDliMmZhY2UxODZkMWY0MmY1ODdiOGU5",
   "tracks": [
     {
       "added_at": "2023-04-22 14:12:07",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-04-22 14:12:07",
       "album": {
+        "name": "Prologue : Love",
+        "url": "https://open.spotify.com/album/51wJn9B4Dz7rnyelqgugvo"
+      },
+      "artists": [
+        {
+          "name": "So!YoON!",
+          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
+        }
+      ],
+      "duration_ms": 282680,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/4xpquaJtTBKbtFjXJ8rvSg"
+    },
+    {
+      "added_at": "2023-04-22 14:12:07",
+      "album": {
         "name": "cheer up!",
         "url": "https://open.spotify.com/album/3HNKi1VPNc9IfEUs7RtyO8"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 126614,
       "name": "typical story",
       "url": "https://open.spotify.com/track/3fyGfzTIepF4iz3hgVqgGO"
-    },
-    {
-      "added_at": "2023-04-22 14:12:07",
-      "album": {
-        "name": "Prologue : Love",
-        "url": "https://open.spotify.com/album/51wJn9B4Dz7rnyelqgugvo"
-      },
-      "artists": [
-        {
-          "name": "So!YoON!",
-          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
-        }
-      ],
-      "duration_ms": 282680,
-      "name": "Bad",
-      "url": "https://open.spotify.com/track/4xpquaJtTBKbtFjXJ8rvSg"
     },
     {
       "added_at": "2023-04-22 14:12:07",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-04-22 14:12:07",
       "album": {
-        "name": "Evergray",
-        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
-      },
-      "artists": [
-        {
-          "name": "Jiwoo",
-          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
-        }
-      ],
-      "duration_ms": 245280,
-      "name": "Evergray",
-      "url": "https://open.spotify.com/track/2ZbthnkJONdgLLFyjwLeoo"
-    },
-    {
-      "added_at": "2023-04-22 14:12:07",
-      "album": {
         "name": "Amoo-rae-do",
         "url": "https://open.spotify.com/album/5javGGT9UBP0kc0ayoWCGP"
       },
@@ -423,6 +407,46 @@
     {
       "added_at": "2023-04-22 14:12:07",
       "album": {
+        "name": "Evergray",
+        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
+      },
+      "artists": [
+        {
+          "name": "Jiwoo",
+          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
+        }
+      ],
+      "duration_ms": 245280,
+      "name": "Evergray",
+      "url": "https://open.spotify.com/track/2ZbthnkJONdgLLFyjwLeoo"
+    },
+    {
+      "added_at": "2023-04-22 14:12:07",
+      "album": {
+        "name": "I would",
+        "url": "https://open.spotify.com/album/6xndm8lDtaY2xEGP3Ue0wv"
+      },
+      "artists": [
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        },
+        {
+          "name": "Harris Cole",
+          "url": "https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX"
+        },
+        {
+          "name": "Aso",
+          "url": "https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8"
+        }
+      ],
+      "duration_ms": 205564,
+      "name": "I would",
+      "url": "https://open.spotify.com/track/3UBm5xTWE95rigyzgRq4iT"
+    },
+    {
+      "added_at": "2023-04-22 14:12:07",
+      "album": {
         "name": "Raw Gems Vol.1",
         "url": "https://open.spotify.com/album/2SQRi7wjf5D6MLkHDaEVRC"
       },
@@ -451,30 +475,6 @@
       "duration_ms": 181921,
       "name": "Strawberry Kisses",
       "url": "https://open.spotify.com/track/5wyau6dzDldoBsya9pwQ8v"
-    },
-    {
-      "added_at": "2023-04-22 14:12:07",
-      "album": {
-        "name": "I would",
-        "url": "https://open.spotify.com/album/6xndm8lDtaY2xEGP3Ue0wv"
-      },
-      "artists": [
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        },
-        {
-          "name": "Harris Cole",
-          "url": "https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX"
-        },
-        {
-          "name": "Aso",
-          "url": "https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8"
-        }
-      ],
-      "duration_ms": 205564,
-      "name": "I would",
-      "url": "https://open.spotify.com/track/3UBm5xTWE95rigyzgRq4iT"
     },
     {
       "added_at": "2023-04-22 14:12:07",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-04-22 14:12:07",
       "album": {
+        "name": "insatiable <3",
+        "url": "https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA"
+      },
+      "artists": [
+        {
+          "name": "0WAVE",
+          "url": "https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz"
+        }
+      ],
+      "duration_ms": 146413,
+      "name": "always get lonely",
+      "url": "https://open.spotify.com/track/3n7yfICjsQoCV66J403qms"
+    },
+    {
+      "added_at": "2023-04-22 14:12:07",
+      "album": {
         "name": "VEIL",
         "url": "https://open.spotify.com/album/7400fy7VotUGmiwjtGbH5J"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 198626,
       "name": "VEIL",
       "url": "https://open.spotify.com/track/6TO1ByuAUW8xUwilXhSY6J"
-    },
-    {
-      "added_at": "2023-04-22 14:12:07",
-      "album": {
-        "name": "lil",
-        "url": "https://open.spotify.com/album/2r7VOvH3L4dPEHkwPdLI4b"
-      },
-      "artists": [
-        {
-          "name": "SFC.JGR",
-          "url": "https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ"
-        }
-      ],
-      "duration_ms": 170749,
-      "name": "lil",
-      "url": "https://open.spotify.com/track/6TerrAOvgMvn63Ospl64HS"
     },
     {
       "added_at": "2023-04-22 14:12:07",
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-04-22 14:12:07",
       "album": {
-        "name": "insatiable <3",
-        "url": "https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA"
+        "name": "lil",
+        "url": "https://open.spotify.com/album/2r7VOvH3L4dPEHkwPdLI4b"
       },
       "artists": [
         {
-          "name": "0WAVE",
-          "url": "https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz"
+          "name": "SFC.JGR",
+          "url": "https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ"
         }
       ],
-      "duration_ms": 165586,
-      "name": "too bad",
-      "url": "https://open.spotify.com/track/1Jrvrr5kFl3ssC8Gm3h39N"
+      "duration_ms": 170749,
+      "name": "lil",
+      "url": "https://open.spotify.com/track/6TerrAOvgMvn63Ospl64HS"
     },
     {
       "added_at": "2023-04-22 14:12:07",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-04-22 14:12:07",
       "album": {
+        "name": "insatiable <3",
+        "url": "https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA"
+      },
+      "artists": [
+        {
+          "name": "0WAVE",
+          "url": "https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz"
+        }
+      ],
+      "duration_ms": 165586,
+      "name": "too bad",
+      "url": "https://open.spotify.com/track/1Jrvrr5kFl3ssC8Gm3h39N"
+    },
+    {
+      "added_at": "2023-04-22 14:12:07",
+      "album": {
         "name": "Gimme Love",
         "url": "https://open.spotify.com/album/5f9zyi5u2hzHMh9RAtssnl"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 253637,
       "name": "Melody",
       "url": "https://open.spotify.com/track/05gYK3Q5t0VHs9kK7sPTcW"
-    },
-    {
-      "added_at": "2023-04-22 14:12:07",
-      "album": {
-        "name": "insatiable <3",
-        "url": "https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA"
-      },
-      "artists": [
-        {
-          "name": "0WAVE",
-          "url": "https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz"
-        }
-      ],
-      "duration_ms": 146413,
-      "name": "always get lonely",
-      "url": "https://open.spotify.com/track/3n7yfICjsQoCV66J403qms"
     },
     {
       "added_at": "2023-04-22 14:12:07",

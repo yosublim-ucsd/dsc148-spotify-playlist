@@ -1,12 +1,12 @@
 {
   "description": "Dedicated to all the programmers out there.",
-  "num_followers": 337241,
+  "num_followers": 337407,
   "original_name": "Coding Mode  ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTEyMjk3MSwwMDAwMDAwMDVhMzY5NjkxMTM1YzdiMDJjYzgzYjMzYTA5MWVlMDMz",
+  "snapshot_id": "MTY4MTEyMjk3MSwwMDAwMDAwMDUyODU1ZWRjNDQ0Mzk5MjU1MDg2MWJiMjc3NGU0NWI1",
   "tracks": [
     {
       "added_at": "2023-04-10 10:36:11",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "With Resolve",
-        "url": "https://open.spotify.com/album/1dMrnL9I1tO7iSTSaYbYUQ"
-      },
-      "artists": [
-        {
-          "name": "Jacob Yoffee",
-          "url": "https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP"
-        }
-      ],
-      "duration_ms": 129761,
-      "name": "With Resolve",
-      "url": "https://open.spotify.com/track/51c5Wbzs0fPu6mwpDn3bsQ"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Chillhop Essentials Spring 2019",
         "url": "https://open.spotify.com/album/1vV4Hl5uDdMtKdKChSkjLG"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 196500,
       "name": "i wish it would never stop snowing",
       "url": "https://open.spotify.com/track/0jDYc3XRkTaEi5zycl5E1G"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "With Resolve",
+        "url": "https://open.spotify.com/album/1dMrnL9I1tO7iSTSaYbYUQ"
+      },
+      "artists": [
+        {
+          "name": "Jacob Yoffee",
+          "url": "https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP"
+        }
+      ],
+      "duration_ms": 129761,
+      "name": "With Resolve",
+      "url": "https://open.spotify.com/track/51c5Wbzs0fPu6mwpDn3bsQ"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/2JualanmCPX3pupSVgIMWZ"
-      },
-      "artists": [
-        {
-          "name": "Hers Lake",
-          "url": "https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Horizons",
-      "url": "https://open.spotify.com/track/53TsZT0ySAHpRJ8GClsekU"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Mil Sonidos",
         "url": "https://open.spotify.com/album/3j1WvLoIAxywTPF3VUIgEe"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 192000,
       "name": "Mil Sonidos",
       "url": "https://open.spotify.com/track/11oVQ68B4PnVQHIY6svpXg"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/2JualanmCPX3pupSVgIMWZ"
+      },
+      "artists": [
+        {
+          "name": "Hers Lake",
+          "url": "https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/53TsZT0ySAHpRJ8GClsekU"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "deep wild",
-        "url": "https://open.spotify.com/album/5YRoRvEeZSXtUDNQ2aGRSh"
-      },
-      "artists": [
-        {
-          "name": "Far & Beyond",
-          "url": "https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if"
-        }
-      ],
-      "duration_ms": 152883,
-      "name": "deep wild",
-      "url": "https://open.spotify.com/track/138ntruMbI8Yp3FRYH1qm5"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Hypnagogia Well",
         "url": "https://open.spotify.com/album/5QULT8EPM4qXnA8hAQmbJL"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 222000,
       "name": "Hypnagogia Well",
       "url": "https://open.spotify.com/track/2jpL7mFOMzRnbaSj790BfQ"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "deep wild",
+        "url": "https://open.spotify.com/album/5YRoRvEeZSXtUDNQ2aGRSh"
+      },
+      "artists": [
+        {
+          "name": "Far & Beyond",
+          "url": "https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if"
+        }
+      ],
+      "duration_ms": 152883,
+      "name": "deep wild",
+      "url": "https://open.spotify.com/track/138ntruMbI8Yp3FRYH1qm5"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -631,38 +631,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Loosen Up",
-        "url": "https://open.spotify.com/album/4mMfto7T62viWO9mK4mwpo"
-      },
-      "artists": [
-        {
-          "name": "Cake House",
-          "url": "https://open.spotify.com/artist/70lqKvxnIZuNyQiYjwZytB"
-        }
-      ],
-      "duration_ms": 147307,
-      "name": "Loosen Up",
-      "url": "https://open.spotify.com/track/7h8FoVdFGKGNbZvbY51d5h"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
-        "name": "Starlight Passage",
-        "url": "https://open.spotify.com/album/1wvSlnr8p5HfQMllaTDHQc"
-      },
-      "artists": [
-        {
-          "name": "Starlight Passage",
-          "url": "https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh"
-        }
-      ],
-      "duration_ms": 148301,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/1N5zR5J3f3jQFKMY3cG0YO"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/0GjrPTT00KWsalUi8jnpR9"
       },
@@ -695,18 +663,34 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "everpresent",
-        "url": "https://open.spotify.com/album/1HVgsvqhD0LwqEDRy03Y7Q"
+        "name": "Starlight Passage",
+        "url": "https://open.spotify.com/album/1wvSlnr8p5HfQMllaTDHQc"
       },
       "artists": [
         {
-          "name": "Imber Sun",
-          "url": "https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X"
+          "name": "Starlight Passage",
+          "url": "https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh"
         }
       ],
-      "duration_ms": 155624,
-      "name": "everpresent",
-      "url": "https://open.spotify.com/track/6NnKLbuNprZyhHUUbu11HS"
+      "duration_ms": 148301,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/1N5zR5J3f3jQFKMY3cG0YO"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Loosen Up",
+        "url": "https://open.spotify.com/album/4mMfto7T62viWO9mK4mwpo"
+      },
+      "artists": [
+        {
+          "name": "Cake House",
+          "url": "https://open.spotify.com/artist/70lqKvxnIZuNyQiYjwZytB"
+        }
+      ],
+      "duration_ms": 147307,
+      "name": "Loosen Up",
+      "url": "https://open.spotify.com/track/7h8FoVdFGKGNbZvbY51d5h"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -723,6 +707,22 @@
       "duration_ms": 347528,
       "name": "Sunday Glide",
       "url": "https://open.spotify.com/track/72Qac2FQd9e21XCibSOhfY"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "everpresent",
+        "url": "https://open.spotify.com/album/1HVgsvqhD0LwqEDRy03Y7Q"
+      },
+      "artists": [
+        {
+          "name": "Imber Sun",
+          "url": "https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "everpresent",
+      "url": "https://open.spotify.com/track/6NnKLbuNprZyhHUUbu11HS"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 447800,
+      "name": "#1",
+      "url": "https://open.spotify.com/track/6ryJQswzoXDmmFazg91c0c"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
         "name": "Monsters (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4xj5LGumbT2M7wq25RLNjl"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 168500,
       "name": "Further Than Far",
       "url": "https://open.spotify.com/track/6lDhQE5NehNR4pizUh8B8p"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 447800,
-      "name": "#1",
-      "url": "https://open.spotify.com/track/6ryJQswzoXDmmFazg91c0c"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Cumulus Motion",
-        "url": "https://open.spotify.com/album/7iEuYy67Zb83EwSTZcWS7O"
-      },
-      "artists": [
-        {
-          "name": "Lama House",
-          "url": "https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ"
-        }
-      ],
-      "duration_ms": 174755,
-      "name": "Cotton Spheres",
-      "url": "https://open.spotify.com/track/10PRcEnKj8J3m13s1wvjiI"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "We're Back Chilling",
         "url": "https://open.spotify.com/album/0LFOKTsuw0YGnGSNUGBL5O"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 267096,
       "name": "Finding Atlantis",
       "url": "https://open.spotify.com/track/41DRCJywCHC0QyCX71GO9G"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Cumulus Motion",
+        "url": "https://open.spotify.com/album/7iEuYy67Zb83EwSTZcWS7O"
+      },
+      "artists": [
+        {
+          "name": "Lama House",
+          "url": "https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ"
+        }
+      ],
+      "duration_ms": 174755,
+      "name": "Cotton Spheres",
+      "url": "https://open.spotify.com/track/10PRcEnKj8J3m13s1wvjiI"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Dosages",
-        "url": "https://open.spotify.com/album/2DZ9XsRcXUf5E1RBR2MXL0"
-      },
-      "artists": [
-        {
-          "name": "Jorge Milliano",
-          "url": "https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "Loungerie",
-      "url": "https://open.spotify.com/track/4abjt5hWugcmJucydd6eHL"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Moiety",
         "url": "https://open.spotify.com/album/6jeWLcfk7qZoreG79zMf7g"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 287520,
       "name": "Nothing It Can",
       "url": "https://open.spotify.com/track/3OiltpO4AcqtXGUpfcYho2"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Dosages",
+        "url": "https://open.spotify.com/album/2DZ9XsRcXUf5E1RBR2MXL0"
+      },
+      "artists": [
+        {
+          "name": "Jorge Milliano",
+          "url": "https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "Loungerie",
+      "url": "https://open.spotify.com/track/4abjt5hWugcmJucydd6eHL"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
+        "name": "Somewhere in October",
+        "url": "https://open.spotify.com/album/2jWENpFhAIS8cTXHy5ee79"
+      },
+      "artists": [
+        {
+          "name": "Tom Day",
+          "url": "https://open.spotify.com/artist/74yueOpxONIcPCjGyF84jG"
+        }
+      ],
+      "duration_ms": 247422,
+      "name": "Somewhere in October",
+      "url": "https://open.spotify.com/track/0Oajka6trs5YNuLY2t1qib"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
         "name": "The Beauty Around Us",
         "url": "https://open.spotify.com/album/1wP2Dwzd5uMCzzGjvCKV8l"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 178343,
       "name": "Daisies",
       "url": "https://open.spotify.com/track/4IGXQV2e7JHJ5FMkh2eUPw"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
-        "name": "Somewhere in October",
-        "url": "https://open.spotify.com/album/2jWENpFhAIS8cTXHy5ee79"
-      },
-      "artists": [
-        {
-          "name": "Tom Day",
-          "url": "https://open.spotify.com/artist/74yueOpxONIcPCjGyF84jG"
-        }
-      ],
-      "duration_ms": 247422,
-      "name": "Somewhere in October",
-      "url": "https://open.spotify.com/track/0Oajka6trs5YNuLY2t1qib"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Closed for Renovations",
-        "url": "https://open.spotify.com/album/5AesdWGty4ye8UdrwBL4Jw"
-      },
-      "artists": [
-        {
-          "name": "Pool Boy",
-          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
-        },
-        {
-          "name": "Cyril Hahn",
-          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
-        }
-      ],
-      "duration_ms": 163978,
-      "name": "Closed for Renovations",
-      "url": "https://open.spotify.com/track/3eHg10L5NVIz84J4oRTZRG"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Flourishing Views",
         "url": "https://open.spotify.com/album/3EwiPwpIygpD2BwEzqbUsw"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 243795,
       "name": "Sibyl",
       "url": "https://open.spotify.com/track/5YmjFHheTqiMyhVtBM04lo"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Closed for Renovations",
+        "url": "https://open.spotify.com/album/5AesdWGty4ye8UdrwBL4Jw"
+      },
+      "artists": [
+        {
+          "name": "Pool Boy",
+          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
+        },
+        {
+          "name": "Cyril Hahn",
+          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
+        }
+      ],
+      "duration_ms": 163978,
+      "name": "Closed for Renovations",
+      "url": "https://open.spotify.com/track/3eHg10L5NVIz84J4oRTZRG"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Star Crossed / Dust",
-        "url": "https://open.spotify.com/album/3hT3xJbL4UjJMET6CvbcKc"
-      },
-      "artists": [
-        {
-          "name": "Sync Zephyr",
-          "url": "https://open.spotify.com/artist/3uRZcnN1Xxvxn4J4gq0Z7G"
-        }
-      ],
-      "duration_ms": 212330,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/4fqzVh6YXqskezIs862H6d"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Midnight Thoughts",
         "url": "https://open.spotify.com/album/6u1pNJvksMfMkHaZAVOL3a"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 161927,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/1UWlVOM5NZdkFZobaYeAv5"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Star Crossed / Dust",
+        "url": "https://open.spotify.com/album/3hT3xJbL4UjJMET6CvbcKc"
+      },
+      "artists": [
+        {
+          "name": "Sync Zephyr",
+          "url": "https://open.spotify.com/artist/3uRZcnN1Xxvxn4J4gq0Z7G"
+        }
+      ],
+      "duration_ms": 212330,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/4fqzVh6YXqskezIs862H6d"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "decades.",
-        "url": "https://open.spotify.com/album/5PbvbQUEdxOhehgtq63wJ9"
-      },
-      "artists": [
-        {
-          "name": "beeno",
-          "url": "https://open.spotify.com/artist/0fbM0EawHro8s9Aee7TDeo"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "chilling by your bedside.",
-      "url": "https://open.spotify.com/track/7LKRv9zrKDrLOO8jcFPQxA"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Angel's Flight",
         "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 352357,
       "name": "Angel's Flight",
       "url": "https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "decades.",
+        "url": "https://open.spotify.com/album/5PbvbQUEdxOhehgtq63wJ9"
+      },
+      "artists": [
+        {
+          "name": "beeno",
+          "url": "https://open.spotify.com/artist/0fbM0EawHro8s9Aee7TDeo"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "chilling by your bedside.",
+      "url": "https://open.spotify.com/track/7LKRv9zrKDrLOO8jcFPQxA"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/091PcRTCoEx0mS7z3Jkr3A"
-      },
-      "artists": [
-        {
-          "name": "Sahamanyu",
-          "url": "https://open.spotify.com/artist/0qD6Ngdk3zUM2pKRsczr8C"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "Homecoming",
-      "url": "https://open.spotify.com/track/5hDxgd1QjOO2kz577FJYme"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Sjangeli",
         "url": "https://open.spotify.com/album/2m7iZ2BHRYm8Et8ah0Qdgb"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 168648,
       "name": "Stay Near",
       "url": "https://open.spotify.com/track/0bDLgavXGx0Nskjydn1NpF"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/091PcRTCoEx0mS7z3Jkr3A"
+      },
+      "artists": [
+        {
+          "name": "Sahamanyu",
+          "url": "https://open.spotify.com/artist/0qD6Ngdk3zUM2pKRsczr8C"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "Homecoming",
+      "url": "https://open.spotify.com/track/5hDxgd1QjOO2kz577FJYme"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Ambient Introspection",
-        "url": "https://open.spotify.com/album/3lWuCWKOZ5Wghrq02zlsqd"
-      },
-      "artists": [
-        {
-          "name": "Prashanth Srinivas",
-          "url": "https://open.spotify.com/artist/2KYeJm60817LSIQtkgOffu"
-        }
-      ],
-      "duration_ms": 104142,
-      "name": "Chasing the Calm",
-      "url": "https://open.spotify.com/track/2V9jgt9hxaJjXTfy15DQ9T"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "IWYMI Volume Four",
         "url": "https://open.spotify.com/album/5bCxD19JPbHXGTe9mzLaaV"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 148000,
       "name": "Machines Are People Too",
       "url": "https://open.spotify.com/track/4Y7I8njISED3da52cbdbKf"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Ambient Introspection",
+        "url": "https://open.spotify.com/album/3lWuCWKOZ5Wghrq02zlsqd"
+      },
+      "artists": [
+        {
+          "name": "Prashanth Srinivas",
+          "url": "https://open.spotify.com/artist/2KYeJm60817LSIQtkgOffu"
+        }
+      ],
+      "duration_ms": 104142,
+      "name": "Chasing the Calm",
+      "url": "https://open.spotify.com/track/2V9jgt9hxaJjXTfy15DQ9T"
     }
   ],
   "unique_name": "Coding Mode  ",

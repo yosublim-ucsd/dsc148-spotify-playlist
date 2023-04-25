@@ -4,7 +4,7 @@
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-171 songs - 20 hr 32 min
+172 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,8 +56,9 @@
 | [dlp 1.1](https://open.spotify.com/track/10SeyQmuBIVJmbZYYJs07W) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops \(Remastered\)](https://open.spotify.com/album/05k7MPh6UZ71omu4O8Kq6A) | 1:03:35 | 2022-07-11 | 2023-04-24 |
 | [dlp 1.1](https://open.spotify.com/track/31FiS1jMI38kYfC8ey358W) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops \(Remastered\)](https://open.spotify.com/album/1xVP4eFcagXNtQMvEXfyeV) | 1:03:35 | 2021-12-22 | 2022-07-29 |
 | [dlp 1.1](https://open.spotify.com/track/333Oq434csQAOaTs5NsITr) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops \(Remastered Reissue\)](https://open.spotify.com/album/5fmPy3XmYD0BJKEr86a3Cu) | 1:03:35 | 2023-03-16 |  |
+| [dlp 1.3](https://open.spotify.com/track/07xAmnJmWBdg1vfbZruWPN) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops IV \(Remastered\)](https://open.spotify.com/album/40A7AUK48laVRKEINMRK2M) | 11:57 | 2023-03-16 |  |
 | [dlp 1.3](https://open.spotify.com/track/0DsKfyDPVSfJPWb3Jno6WC) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops IV \(Remastered\)](https://open.spotify.com/album/4LfeFpR0qvSE6GrzrtT6H8) | 11:57 | 2021-12-22 | 2022-07-29 |
-| [dlp 1.3](https://open.spotify.com/track/3hFipULsVstcUDjujwyNr5) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops IV \(Remastered\)](https://open.spotify.com/album/4Vs8o9MQur5NHGGr5kqXn6) | 11:57 | 2022-07-11 |  |
+| [dlp 1.3](https://open.spotify.com/track/3hFipULsVstcUDjujwyNr5) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops IV \(Remastered\)](https://open.spotify.com/album/4Vs8o9MQur5NHGGr5kqXn6) | 11:57 | 2022-07-11 | 2023-04-25 |
 | [Do While ⌘X](https://open.spotify.com/track/16fZFSlV2VIDcY77mVtUMI) | [Oval](https://open.spotify.com/artist/1Yti3CsDazWVjNMXBHx1Af) | [94diskont.](https://open.spotify.com/album/33xUwaoTPJ9aNbCJZEpRol) | 4:50 | 2021-12-22 |  |
 | [Don't Bother They're Here](https://open.spotify.com/track/477naywDON3t1iAF4COlOV) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [And Their Refinement of the Decline](https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo) | 10:10 | 2021-12-22 |  |
 | [door to the cosmos](https://open.spotify.com/track/6sJlchLIX2krydtTBxsXUU) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XIV](https://open.spotify.com/album/57tUlBVMxjT7yTBz6R9JLu) | 6:14 | 2021-12-22 |  |

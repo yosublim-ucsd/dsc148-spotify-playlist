@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 418157,
+  "num_followers": 418373,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4NzgwNywwMDAwMDAwMDkzZmI3MmMxMDNkMDliZDMxMGFkNmE5NDk3MDExNjgz",
+  "snapshot_id": "MTY3NjU4NzgwNywwMDAwMDAwMGY4YmQ2YzA5N2ZhODE2NTU5MjI5MWU1NDFiNzJjZmIx",
   "tracks": [
     {
       "added_at": "2023-02-16 22:50:07",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "Corals",
-        "url": "https://open.spotify.com/album/1o5iflLRe5yh0B8o9gbbF4"
-      },
-      "artists": [
-        {
-          "name": "Fujitsu",
-          "url": "https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Driftwood",
-      "url": "https://open.spotify.com/track/7JVfIv0ymBzxJNGuWpHbWZ"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/5xIENE9mYM9cIqbqs4MuF7"
       },
@@ -791,6 +775,22 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "Corals",
+        "url": "https://open.spotify.com/album/1o5iflLRe5yh0B8o9gbbF4"
+      },
+      "artists": [
+        {
+          "name": "Fujitsu",
+          "url": "https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Driftwood",
+      "url": "https://open.spotify.com/track/7JVfIv0ymBzxJNGuWpHbWZ"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "Distant",
         "url": "https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8"
       },
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "Good Grief",
-        "url": "https://open.spotify.com/album/0y8tstF4swTvZdDWYdsknY"
-      },
-      "artists": [
-        {
-          "name": "Shrimpnose",
-          "url": "https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D"
-        }
-      ],
-      "duration_ms": 130169,
-      "name": "Wretched",
-      "url": "https://open.spotify.com/track/1rPy4B02RJf6NILtwBJpsu"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
         "name": "Behind",
         "url": "https://open.spotify.com/album/0pUE8rJ1nTr1JIVhOTXEaD"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 173426,
       "name": "Behind",
       "url": "https://open.spotify.com/track/4MKnTSEJuUFKvf4LcKMsw6"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
+        "name": "Good Grief",
+        "url": "https://open.spotify.com/album/0y8tstF4swTvZdDWYdsknY"
+      },
+      "artists": [
+        {
+          "name": "Shrimpnose",
+          "url": "https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D"
+        }
+      ],
+      "duration_ms": 130169,
+      "name": "Wretched",
+      "url": "https://open.spotify.com/track/1rPy4B02RJf6NILtwBJpsu"
     },
     {
       "added_at": "2023-02-16 22:50:07",

@@ -1559,6 +1559,24 @@
     },
     {
       "album": {
+        "name": "BLACK_WAVE",
+        "url": "https://open.spotify.com/album/5kGa3VEUVZLdtiQuwc73FI"
+      },
+      "artists": [
+        {
+          "name": "Moodring",
+          "url": "https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186384,
+      "name": "BLACK_WAVE",
+      "url": "https://open.spotify.com/track/3s3czPHKW5TXmZoeUB9yu7"
+    },
+    {
+      "album": {
         "name": "Bleed the Future",
         "url": "https://open.spotify.com/album/3voN4heYWAWr2uxYlcL3pc"
       },

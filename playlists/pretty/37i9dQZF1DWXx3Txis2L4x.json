@@ -1,12 +1,12 @@
 {
   "description": "Keep your run going with these upbeat rock tracks.",
-  "num_followers": 561145,
+  "num_followers": 561394,
   "original_name": "Rock 'n' Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTUwMTI1MywwMDAwMDAwMDVhMjQxMDMyOTZhOTdlNTI5YWFhNjFmMWYzZWViMTJl",
+  "snapshot_id": "MTY3OTUwMTI1MywwMDAwMDAwMDBlNDczMTU3NjRmYmQ0NmQ1ZGZkOWM2NTlkYjlhZDc1",
   "tracks": [
     {
       "added_at": "2023-03-07 16:54:09",
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r"
     },
     {
-      "added_at": "2023-04-24 00:41:45",
+      "added_at": "2023-04-25 00:11:55",
       "album": {
         "name": "Billy Talent II",
         "url": "https://open.spotify.com/album/0cTOvcvrbNiaiv4WXEUHzT"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/454I78HEySdcHE8fcVabTb"
     },
     {
-      "added_at": "2023-04-24 00:41:45",
+      "added_at": "2023-04-25 00:11:55",
       "album": {
         "name": "Left Behind",
         "url": "https://open.spotify.com/album/2efABZ7jsJTkRkZALraqEM"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/5G6jZFDAFlpAA9v5LTV4NI"
     },
     {
-      "added_at": "2023-04-24 00:41:45",
+      "added_at": "2023-04-25 00:11:55",
       "album": {
         "name": "Heartbreak Feels So Good",
         "url": "https://open.spotify.com/album/5GwtecGz0FCy9onGWtrVRS"
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"
     },
     {
-      "added_at": "2023-04-24 00:41:45",
-      "album": {
-        "name": "Told You So",
-        "url": "https://open.spotify.com/album/3nHIAlyLTzvncWhTwE5TcY"
-      },
-      "artists": [
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        }
-      ],
-      "duration_ms": 171322,
-      "name": "Told You So",
-      "url": "https://open.spotify.com/track/0xfMFT9G8Ekk7CEYtVabIm"
-    },
-    {
       "added_at": "2023-03-07 16:54:09",
       "album": {
         "name": "Wonderful Wonderful",
@@ -471,6 +455,22 @@
       "duration_ms": 222146,
       "name": "Run For Cover",
       "url": "https://open.spotify.com/track/5NAiPIEzxAexFE3ucV18Q8"
+    },
+    {
+      "added_at": "2023-04-25 00:11:55",
+      "album": {
+        "name": "Told You So",
+        "url": "https://open.spotify.com/album/3nHIAlyLTzvncWhTwE5TcY"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "duration_ms": 171322,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/0xfMFT9G8Ekk7CEYtVabIm"
     },
     {
       "added_at": "2023-03-07 16:54:09",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-03-07 16:54:09",
       "album": {
-        "name": "With Confidence",
-        "url": "https://open.spotify.com/album/0nVyJYOVvS1Trsphx7KPxp"
-      },
-      "artists": [
-        {
-          "name": "With Confidence",
-          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
-        }
-      ],
-      "duration_ms": 177220,
-      "name": "What You Make It",
-      "url": "https://open.spotify.com/track/2eXSPTZmhkXRGob1hsFdVd"
-    },
-    {
-      "added_at": "2023-03-07 16:54:09",
-      "album": {
         "name": "Elect the Dead (Deluxe)",
         "url": "https://open.spotify.com/album/6lEk9mHyHXxINEhTyFuYrz"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 230026,
       "name": "Empty Walls",
       "url": "https://open.spotify.com/track/6Y2kW1mdHE0znPCjtOdt5m"
+    },
+    {
+      "added_at": "2023-03-07 16:54:09",
+      "album": {
+        "name": "With Confidence",
+        "url": "https://open.spotify.com/album/0nVyJYOVvS1Trsphx7KPxp"
+      },
+      "artists": [
+        {
+          "name": "With Confidence",
+          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
+        }
+      ],
+      "duration_ms": 177220,
+      "name": "What You Make It",
+      "url": "https://open.spotify.com/track/2eXSPTZmhkXRGob1hsFdVd"
     },
     {
       "added_at": "2023-03-07 16:54:09",

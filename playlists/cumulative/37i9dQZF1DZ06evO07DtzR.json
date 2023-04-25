@@ -178,7 +178,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 431186,
       "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c -BOOM BOOM SATELLITES Remix-",
       "url": "https://open.spotify.com/track/4shRfuRkwt9ydnL1gTr0dA"
@@ -898,7 +898,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 308000,
       "name": "\u30ad\u30df\u30bd\u30e9\u30ad\u30bb\u30ad",
       "url": "https://open.spotify.com/track/1nlcUnsBQP4HB07IYt0Hxn"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 308000,
       "name": "\u30ad\u30df\u30bd\u30e9\u30ad\u30bb\u30ad",
       "url": "https://open.spotify.com/track/3QmB37HACwhTHZluGoZTOi"
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 317440,
       "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -Instrumetal-",
       "url": "https://open.spotify.com/track/1pNSSNluazasQujT6XiCip"
@@ -1283,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "\u82f1\u96c4 \u904b\u547d\u306e\u8a69",
+        "url": "https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284173,
+      "name": "\u82f1\u96c4 \u904b\u547d\u306e\u8a69",
+      "url": "https://open.spotify.com/track/2NAWetxu8cigewSiBR6WhU"
+    },
+    {
+      "album": {
         "name": "GREATEST HITS 2011-2017 \u201cALTER EGO\u201d",
         "url": "https://open.spotify.com/album/6TXu1SOr7m6NBuaD5QIzPr"
       },
@@ -1294,7 +1312,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-25",
       "duration_ms": 282093,
       "name": "\u82f1\u96c4 \u904b\u547d\u306e\u8a69 (from BEST AL\u201cALTER EGO\u201d)",
       "url": "https://open.spotify.com/track/1dyUhpaEsSl2QU25ieLoqn"
