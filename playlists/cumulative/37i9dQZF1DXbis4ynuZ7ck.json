@@ -152,7 +152,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 216933,
       "name": "Begani Shadi Men Abdulla Diwana",
       "url": "https://open.spotify.com/track/46OP5WxCnL8pqLE0hmP1eu"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 365293,
       "name": "Bol Baby Bol Rock-N-Roll",
       "url": "https://open.spotify.com/track/6RBIv5rKPHDYjC2dWeGd2c"
@@ -218,7 +218,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 249887,
       "name": "Bol Meri Taqdeer Men Kya Hai",
       "url": "https://open.spotify.com/track/2P268iRS2XkF1Ho5McW71s"
@@ -244,6 +244,28 @@
       "duration_ms": 370912,
       "name": "Chal Sanyasi Mandir Mein",
       "url": "https://open.spotify.com/track/1dWDmWSC515eD05iNODgIk"
+    },
+    {
+      "album": {
+        "name": "Satyam Shivam Sundaram (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/58s332mhv3WrkdXgmvYCXS"
+      },
+      "artists": [
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        },
+        {
+          "name": "Zeenat Aman",
+          "url": "https://open.spotify.com/artist/1sHUscd4sd03BO3QaGauYE"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349893,
+      "name": "Chanchal Sheetal Nirmal Komal",
+      "url": "https://open.spotify.com/track/4Nkv6noOndBLoyxkMtD6mJ"
     },
     {
       "album": {
@@ -394,7 +416,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 225666,
       "name": "Do Ankhiyan Jhuki Jhuki Si",
       "url": "https://open.spotify.com/track/1jyDLyfXWb3vv5NLj22iCW"
@@ -662,7 +684,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 337920,
       "name": "Jhoom Le Jhoom Le",
       "url": "https://open.spotify.com/track/1DhRU5mdcMiRoojtH0OkZW"
@@ -706,7 +728,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 255533,
       "name": "Kahan Ho Tum Zara Awaz Do",
       "url": "https://open.spotify.com/track/3ITh1VWGy6vQ3Dc8TAjbv4"
@@ -732,6 +754,28 @@
       "duration_ms": 383066,
       "name": "Kahin Karti Hogi Woh Mera Intezar",
       "url": "https://open.spotify.com/track/5VyA9QXaAJUBLOKuaNMCds"
+    },
+    {
+      "album": {
+        "name": "Mere Humsafar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2J5eHuAWnicocDqHGsJ9nY"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344760,
+      "name": "Kisi Raah Men Kisi Mod Par",
+      "url": "https://open.spotify.com/track/5sUAUqMtpl1XzHObGRWhgw"
     },
     {
       "album": {
@@ -897,6 +941,28 @@
     },
     {
       "album": {
+        "name": "Dus Numbri (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2n6jI30quvrojEakC0m2v2"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 508986,
+      "name": "Mujhe Dard Rahta Hai",
+      "url": "https://open.spotify.com/track/0NDMyrUglZDZPKUDG88Qqe"
+    },
+    {
+      "album": {
         "name": "Sangam (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/05FkcIZOaGV3YBpiANIehV"
       },
@@ -1007,6 +1073,32 @@
     },
     {
       "album": {
+        "name": "Shree 420 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/06IaiBtDfA82datti9r8da"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360893,
+      "name": "Ramaiya Vastavaiya",
+      "url": "https://open.spotify.com/track/37YVXy2OMYyT91185rBOsc"
+    },
+    {
+      "album": {
         "name": "Milan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1AXStvax5tZhvxpbsYqcsZ"
       },
@@ -1044,7 +1136,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 327533,
       "name": "Sun Baal Bramhachari",
       "url": "https://open.spotify.com/track/2Uiz5T9TOx1oaDpIHvbs0j"
@@ -1198,7 +1290,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 319373,
       "name": "Zindagi Har Kadam Ek Nai Jung Hai, Pt. 2",
       "url": "https://open.spotify.com/track/59B6pXhPH81vbpCBMHLCiR"

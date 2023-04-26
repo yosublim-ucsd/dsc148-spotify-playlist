@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj?si=jCYYZ3r6RRuQOwyG5Q8ZBw">Year of Dogs</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,811 likes - 76 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,813 likes - 76 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 43 | [Emotionally Indiscreet](https://open.spotify.com/track/4sK7vYw3oiMWDxQ90m0Wqc) | [Lover Buffet](https://open.spotify.com/artist/3SlkN35uEAZOPu70xZK2pY) | [Emotionally Indiscreet](https://open.spotify.com/album/7Cg2tTY1i6SG1gFlxfULyY) | 2:45 |
 | 44 | [Wait for Love](https://open.spotify.com/track/68Gn5LndqWnCh7BxrNw3TZ) | [Tanaka](https://open.spotify.com/artist/2nD1C4UjyKoQ1D9ILt1Mph) | [Wait for Love](https://open.spotify.com/album/51qxnbnZDPokiJsulGmIIb) | 4:23 |
 | 45 | [You're Not Here](https://open.spotify.com/track/6TaF5av6uuDxtWayS9buWB) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Monique Burger](https://open.spotify.com/artist/3GOf6SKBeQM7EQvRtSrBDQ) | [You're Not Here](https://open.spotify.com/album/0h2hJCS8yQxHBhN52Po1A6) | 3:00 |
-| 46 | [Borrow Trouble](https://open.spotify.com/track/4lyKe6602fEaFpwMFYGPc2) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/2uDbIwcvfGsMEbzeU3iyoU) | 4:05 |
+| 46 | [Borrow Trouble](https://open.spotify.com/track/461JI71P8eY2zUWAkyKs7b) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 4:05 |
 | 47 | [Hide & Seek](https://open.spotify.com/track/1gfQQt60plVWAATT1kGzWn) | [Lakkabrah](https://open.spotify.com/artist/6TLtJV2odjb1t3Ln6V8gQR) | [Hide & Seek](https://open.spotify.com/album/2IUWiVMWbkBrkCNer03wwk) | 2:50 |
 | 48 | [In My Head](https://open.spotify.com/track/1dOmEeayAc8UV4DdK20pFN) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [In My Head](https://open.spotify.com/album/0fqg8Qb6hM93RnLEMMrINj) | 3:32 |
 | 49 | [Apples and Pairs](https://open.spotify.com/track/1mhMAOaxIASCwkSCLBLC0V) | [Lily Hollows](https://open.spotify.com/artist/39K69becRQ7hdkwMrnGNlQ) | [Apples and Pairs](https://open.spotify.com/album/3fIQE6HbRgsygxmQPIG6mV) | 3:17 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 75 | [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 |
 | 76 | [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 |
 
-Snapshot ID: `MTY4MjA3MDU2NywwMDAwMDAwMDIyMDU3MTcyNGQ4NDY0M2RhNjMzZDA3NWI0ZTU2ZDFl`
+Snapshot ID: `MTY4MjA3MDU2NywwMDAwMDAwMDc1MDdhNWI2NDczMDQ1MzcyZGJlMjU1YTVmM2EzMGZh`

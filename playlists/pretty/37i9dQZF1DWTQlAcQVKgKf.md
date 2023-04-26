@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQlAcQVKgKf.md) - [plain]
 
 > The sexy queen! Check out HyunA's music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,249 likes - 63 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,280 likes - 63 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

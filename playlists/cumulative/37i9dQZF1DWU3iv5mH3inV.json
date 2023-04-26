@@ -1463,6 +1463,24 @@
     },
     {
       "album": {
+        "name": "Debarata",
+        "url": "https://open.spotify.com/album/5hOe4XIbl707OaNiYODrbx"
+      },
+      "artists": [
+        {
+          "name": "El Super Nuevo",
+          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200976,
+      "name": "Debarata",
+      "url": "https://open.spotify.com/track/2csHaIaYNHpKjHvt2dZ5SW"
+    },
+    {
+      "album": {
         "name": "Exitos 2016",
         "url": "https://open.spotify.com/album/6E4LSrujttW94zndcvmhfl"
       },
@@ -2352,7 +2370,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 176410,
       "name": "En Alta (Remix)",
       "url": "https://open.spotify.com/track/03UEOYvtWlnY35Fa0Dva9A"

@@ -4,7 +4,7 @@
 
 > Este es el Reggae, al sur del continente americano\. Foto: Los Pericos.
 
-211 songs - 14 hr 2 min
+212 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Acto Salvaje](https://open.spotify.com/track/5FdrNZgshY1Q4afERWOyb5) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Acto Salvaje](https://open.spotify.com/album/4EKPGoTkb0oq3i1H3Al9NJ) | 4:08 | 2022-05-06 | 2022-07-29 |
 | [Acércate](https://open.spotify.com/track/2azYY9f1jGswkxs2nfO9E9) | [Karims](https://open.spotify.com/artist/7EFb6T1OU7uXKO44eVZSPv), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Dj Chiqui Dubs](https://open.spotify.com/artist/26C0KVcIbuJQdOP2r9MYin) | [Acércate](https://open.spotify.com/album/2SzHwNth8hDFwvt78CJmdP) | 3:49 | 2022-05-06 | 2022-07-28 |
 | [Agua Nueva](https://open.spotify.com/track/0SNOtKlYtfNzv0fg0gdBCh) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [Agua Nueva](https://open.spotify.com/album/5LztDzrA8CF02H92LddtOl) | 3:42 | 2022-05-06 | 2022-07-25 |
-| [Al Final](https://open.spotify.com/track/0pc8uz5erBUl2LEgBQuVg0) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [Mentiras Lado B](https://open.spotify.com/album/5WLuDZiaytqLtMQwqQ09Rv) | 2:48 | 2022-07-01 |  |
+| [Al Final](https://open.spotify.com/track/0pc8uz5erBUl2LEgBQuVg0) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [Mentiras Lado B](https://open.spotify.com/album/5WLuDZiaytqLtMQwqQ09Rv) | 2:48 | 2022-07-01 | 2023-04-26 |
 | [Al oírla cantar](https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Al oírla cantar](https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h) | 5:36 | 2022-05-06 |  |
 | [Algo Mejor](https://open.spotify.com/track/68gpEjXas61xmdZin01DcQ) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Algo Mejor](https://open.spotify.com/album/7xyf2OQgFuQnwbvaCi8QwX) | 3:58 | 2022-05-06 | 2022-07-29 |
 | [Algo mejor \- Remastered](https://open.spotify.com/track/0iITTpeIsR2NQIv1QiIkKx) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [La Búsqueda](https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ) | 3:58 | 2022-07-01 |  |
@@ -122,6 +122,7 @@
 | [Marsella](https://open.spotify.com/track/6zIg0mecBXTkquSrws5krZ) | [Panal](https://open.spotify.com/artist/49pcyFdsrBRYnbTXZUOurP) | [Marsella](https://open.spotify.com/album/5TL0NhWW4euIy7WpXYfaes) | 3:04 | 2022-07-01 | 2022-07-06 |
 | [Mas de Lo Que Soñe \(Dub\)](https://open.spotify.com/track/14NTV5G9D73K6UTmeAdPBc) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9), [Don Camel](https://open.spotify.com/artist/4knD0ZSf2GHNaLUarUwxTP) | [Negro Dub \(feat\. Don Camel\)](https://open.spotify.com/album/2OPGYSgMpk7j7ncgZR9dZA) | 3:20 | 2022-07-01 | 2022-07-06 |
 | [Meu Reggae é Roots \- Ao Vivo](https://open.spotify.com/track/1r7BRiLgM288W76CaiocEN) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro \(Ao Vivo\)](https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i) | 3:18 | 2022-05-06 |  |
+| [Mi Dulce Amor](https://open.spotify.com/track/58c0vA53oFYJVppKfZlYXY) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg), [Pablo Molina](https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB) | [Radiante](https://open.spotify.com/album/7yIFVoRj5P8Tkgcebc1KGC) | 3:09 | 2023-04-20 |  |
 | [Mi Dulce Amor](https://open.spotify.com/track/5IMiNgnJHMzSva0maocFXB) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg), [Pablo Molina](https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB) | [Radiante](https://open.spotify.com/album/3KnKXcmHFsu5GsDREoxtQW) | 3:09 | 2022-05-06 | 2023-04-16 |
 | [Mi Sol](https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [El Sonido Real](https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A) | 6:25 | 2022-05-06 |  |
 | [Misterio](https://open.spotify.com/track/3xKXKFjtT24Z6RDNXPF4au) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 6:16 | 2022-05-06 | 2022-07-27 |

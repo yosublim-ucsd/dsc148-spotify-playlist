@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 
 > edgy muziek met een rand uit eigen land\. cover: Wende
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,547 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,551 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 | 22 | [Woman Life Freedom](https://open.spotify.com/track/4pbNBY48GTfZ16X4jJxba5) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Woman Life Freedom](https://open.spotify.com/album/4GB69MswlOepsu21T0NqUF) | 4:12 |
 | 23 | [Sitting Here](https://open.spotify.com/track/1l6NJ79m7VMHl1RQobwsmk) | [Delic](https://open.spotify.com/artist/2vnJ6YXTxKiWKpARdtAD99), [Huda](https://open.spotify.com/artist/0YLcSj2Krk1kNAhvXq9VQ8) | [Lone Wolf](https://open.spotify.com/album/7aZrOpAP0SwCCIdcuOiqHI) | 4:33 |
 | 24 | [Afstand](https://open.spotify.com/track/45RziHZ3kb4hZvu15keuPx) | [Q'n](https://open.spotify.com/artist/6yPGLxm15IemtRMvXbnHTM) | [Afstand](https://open.spotify.com/album/6huHJqUrttdNj15htCDjp9) | 3:32 |
-| 25 | [Celeste](https://open.spotify.com/track/2rD1imFpKOmcJvFAnoblTZ) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Celeste](https://open.spotify.com/album/760ic1B3ypp3In340dQ0pC) | 2:52 |
+| 25 | [Celeste](https://open.spotify.com/track/43Bumpxqzt5AsQjSZWcp8A) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Honeycomb Shades](https://open.spotify.com/album/7omXNhCNZQn5DFs0kSjoY9) | 2:52 |
 | 26 | [Snow](https://open.spotify.com/track/1EBnTBd5Vyk9JjiABs4K9b) | [REINDIER](https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK) | [OBSIDIAN // SILK](https://open.spotify.com/album/6McpJlFhksAys07iNsfQjz) | 2:54 |
 | 27 | [So Good It Hurts](https://open.spotify.com/track/3rh3cFQpZzkK61kupGoY2C) | [Ciao Lucifer](https://open.spotify.com/artist/7HJjZdoBrnDMtKKrWpjJII) | [Good News](https://open.spotify.com/album/4e2ipO4RcYGGHXf0eBgAnR) | 3:20 |
 | 28 | [Caged Birds](https://open.spotify.com/track/2Kb0J8N4AG9Nn6Ew5bcEXv) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [Under Wishing Stars](https://open.spotify.com/album/2TbvOuz2VmxIw4B5Td6MK1) | 3:02 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 | 59 | [Closure](https://open.spotify.com/track/2FWpnZjDPW23wSRefDcVn9) | [Faint Louis](https://open.spotify.com/artist/6noj0RSKEQhY8LtQBeCmfz), [Eve Jones](https://open.spotify.com/artist/0HtGEZuGr7pnIgySImmPh2) | [Closure](https://open.spotify.com/album/5eRC43W4zUuunLZ4D3xZ2L) | 2:41 |
 | 60 | [Liar](https://open.spotify.com/track/2WKrthH378MYrxvYvAAsAE) | [Boy Bianchi](https://open.spotify.com/artist/2IZEwFhlEXMsBCyC4FbtC6) | [Restless](https://open.spotify.com/album/6afbrLW0YiZ3aQPygjqZBz) | 3:54 |
 
-Snapshot ID: `MTY4MDI3MDI4OCwwMDAwMDAwMGFjYjI1NWZjMmM4ZTI0OGM3ODUwNDQxZDM3M2YzZjdk`
+Snapshot ID: `MTY4MDI3MDI4OCwwMDAwMDAwMGYzYzNkYTU3M2ZmODFmOTBmZDk2Yjc2NjI4MmE4YTY3`

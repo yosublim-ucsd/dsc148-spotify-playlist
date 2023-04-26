@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 51297,
+  "num_followers": 51360,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ5ODA2NywwMDAwMDAwMDBiNzJlOTM0MjExMDQ5MDcwZjg5MmI2OTcwNGZmMDNl",
+  "snapshot_id": "MTY3ODQ5ODA2NywwMDAwMDAwMDFlMGVkZWY2ODBhNDY5NmFiZjdiZDVhMDNjOTE2YTQ0",
   "tracks": [
     {
       "added_at": "2023-03-11 01:27:47",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-03-11 01:27:47",
       "album": {
+        "name": "Reluz",
+        "url": "https://open.spotify.com/album/4Oolk7dVn9F9EfQoomK1w8"
+      },
+      "artists": [
+        {
+          "name": "Mara Maravilha",
+          "url": "https://open.spotify.com/artist/2vEZbLLAKRqzoiTR9aupGu"
+        }
+      ],
+      "duration_ms": 226486,
+      "name": "Rei Davi",
+      "url": "https://open.spotify.com/track/4v1Yf5GPWOAgOk67CSU0dP"
+    },
+    {
+      "added_at": "2023-03-11 01:27:47",
+      "album": {
         "name": "Crian\u00e7a Nota 10",
         "url": "https://open.spotify.com/album/2nFtRppoPctEbxAUTpynL3"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 164165,
       "name": "Crian\u00e7a Nota 10",
       "url": "https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn"
-    },
-    {
-      "added_at": "2023-03-11 01:27:47",
-      "album": {
-        "name": "Reluz",
-        "url": "https://open.spotify.com/album/4Oolk7dVn9F9EfQoomK1w8"
-      },
-      "artists": [
-        {
-          "name": "Mara Maravilha",
-          "url": "https://open.spotify.com/artist/2vEZbLLAKRqzoiTR9aupGu"
-        }
-      ],
-      "duration_ms": 226486,
-      "name": "Rei Davi",
-      "url": "https://open.spotify.com/track/4v1Yf5GPWOAgOk67CSU0dP"
     },
     {
       "added_at": "2023-03-11 01:27:47",

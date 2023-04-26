@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: Papi Sousa, Alvaro Diaz, paopao & Lyanno",
-  "num_followers": 695454,
+  "num_followers": 695442,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg5NjA4NCwwMDAwMDAwMGMzYjY3YWIwMjE2NWY1MWU3M2VkMDhkMmE2YTc2Nzky",
+  "snapshot_id": "MTY4MDg5NjA4NCwwMDAwMDAwMDZkZTE3Mzg1OTBhMDBmNWRiYjRhNzJhNjhlNTAzMGJh",
   "tracks": [
     {
       "added_at": "2023-03-31 07:45:33",
@@ -37,7 +37,7 @@
       "url": "https://open.spotify.com/track/1F4Vm45mboD6k5VAx83pJu"
     },
     {
-      "added_at": "2023-04-25 00:41:54",
+      "added_at": "2023-04-26 00:08:52",
       "album": {
         "name": "La Bebe (Remix)",
         "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/1dw7qShk971xMD6r6mA4VN"
     },
     {
-      "added_at": "2023-04-25 00:41:54",
+      "added_at": "2023-04-26 00:08:52",
       "album": {
         "name": "Mi Nena Remix",
         "url": "https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5"
     },
     {
-      "added_at": "2023-04-25 00:41:54",
+      "added_at": "2023-04-26 00:08:52",
       "album": {
         "name": "Hood (Remix)",
         "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/4Pu0a2TuHOYtI4CCE3HEXI"
     },
     {
-      "added_at": "2023-04-25 00:41:54",
+      "added_at": "2023-04-26 00:08:52",
       "album": {
         "name": "Estoy Bien",
         "url": "https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX"
     },
     {
-      "added_at": "2023-04-25 00:41:54",
+      "added_at": "2023-04-26 00:08:52",
       "album": {
         "name": "REGALONA",
         "url": "https://open.spotify.com/album/3oWWVVloAsuujw2QOoGF9d"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/7p5s4J9dNNYpZdAgJIOH6Z"
     },
     {
-      "added_at": "2023-04-25 00:41:54",
+      "added_at": "2023-04-26 00:08:52",
       "album": {
         "name": "Down",
         "url": "https://open.spotify.com/album/4d2O4fr026apliDVapi0j0"
@@ -565,7 +565,7 @@
       "url": "https://open.spotify.com/track/70o0EBxSSXpd2qcI74S9uR"
     },
     {
-      "added_at": "2023-04-25 00:41:54",
+      "added_at": "2023-04-26 00:08:52",
       "album": {
         "name": "LA B\u00daSQUEDA",
         "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-03-31 07:45:33",
       "album": {
+        "name": "Nuestra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/7GJlThLfkYnaJfs3Wy9JwM"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "duration_ms": 212957,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/7LCVRDkKetzQqMN3ONPvqn"
+    },
+    {
+      "added_at": "2023-03-31 07:45:33",
+      "album": {
         "name": "Falso Amigo",
         "url": "https://open.spotify.com/album/6aGmKt3oG1WCKwschVOGgn"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 254152,
       "name": "Falso Amigo",
       "url": "https://open.spotify.com/track/6amOXXKvvM8GsqkhLDm0pT"
-    },
-    {
-      "added_at": "2023-03-31 07:45:33",
-      "album": {
-        "name": "Nuestra Canci\u00f3n",
-        "url": "https://open.spotify.com/album/7GJlThLfkYnaJfs3Wy9JwM"
-      },
-      "artists": [
-        {
-          "name": "GALE",
-          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
-        }
-      ],
-      "duration_ms": 212957,
-      "name": "Nuestra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/7LCVRDkKetzQqMN3ONPvqn"
     },
     {
       "added_at": "2023-03-31 07:45:33",
@@ -977,7 +977,7 @@
       "url": "https://open.spotify.com/track/6SWwMXdb0XGGsUmNVxjP76"
     },
     {
-      "added_at": "2023-04-25 00:41:54",
+      "added_at": "2023-04-26 00:08:52",
       "album": {
         "name": "K Tas Haciendo?",
         "url": "https://open.spotify.com/album/2u8q8zfkCdLrZiWWKuvshA"
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-03-31 07:45:33",
       "album": {
+        "name": "B-Day",
+        "url": "https://open.spotify.com/album/1hja3Ifsxu0GMwLB5nR5e2"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "B-Day",
+      "url": "https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF"
+    },
+    {
+      "added_at": "2023-03-31 07:45:33",
+      "album": {
         "name": "T\u00fa Y Yo",
         "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 242373,
       "name": "T\u00fa Y Yo",
       "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
-    },
-    {
-      "added_at": "2023-03-31 07:45:33",
-      "album": {
-        "name": "B-Day",
-        "url": "https://open.spotify.com/album/1hja3Ifsxu0GMwLB5nR5e2"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "B-Day",
-      "url": "https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF"
     },
     {
       "added_at": "2023-03-31 07:45:33",
@@ -1457,7 +1457,7 @@
       "url": "https://open.spotify.com/track/2K8ZO92IWTr5q28XWYHNIj"
     },
     {
-      "added_at": "2023-04-25 00:41:54",
+      "added_at": "2023-04-26 00:08:52",
       "album": {
         "name": "Khloe",
         "url": "https://open.spotify.com/album/5ugoU1ic6flKsMKkGOrLTQ"
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-03-31 07:45:33",
       "album": {
-        "name": "Para Verte",
-        "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182053,
-      "name": "Para Verte",
-      "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
-    },
-    {
-      "added_at": "2023-03-31 07:45:33",
-      "album": {
         "name": "oop",
         "url": "https://open.spotify.com/album/2xqXrnqSVDylcr5QVKyHq4"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 142784,
       "name": "oop",
       "url": "https://open.spotify.com/track/0ahGF0pnErz122RjmZGVjY"
+    },
+    {
+      "added_at": "2023-03-31 07:45:33",
+      "album": {
+        "name": "Para Verte",
+        "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 182053,
+      "name": "Para Verte",
+      "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
     },
     {
       "added_at": "2023-03-31 07:45:33",
@@ -1697,39 +1697,7 @@
       "url": "https://open.spotify.com/track/4HDa866zFSzwOkEhgNHx6F"
     },
     {
-      "added_at": "2023-03-31 07:45:33",
-      "album": {
-        "name": "Memento",
-        "url": "https://open.spotify.com/album/0uhQr2Rh3VkMpjx8CF8pbb"
-      },
-      "artists": [
-        {
-          "name": "Jona Camacho",
-          "url": "https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP"
-        }
-      ],
-      "duration_ms": 174259,
-      "name": "T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/0rmqnho8rZSEJCqeBDPMmT"
-    },
-    {
-      "added_at": "2023-04-25 00:41:54",
-      "album": {
-        "name": "TRATO",
-        "url": "https://open.spotify.com/album/3oUnBsatAFgBW0uRYysmys"
-      },
-      "artists": [
-        {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "TRATO",
-      "url": "https://open.spotify.com/track/4W2p5xqBjV8xAlFNsbrJS5"
-    },
-    {
-      "added_at": "2023-04-25 00:41:54",
+      "added_at": "2023-04-26 00:08:52",
       "album": {
         "name": "RIKII 2",
         "url": "https://open.spotify.com/album/51jGtZjgMwOpNClgN1Ml9c"
@@ -1751,6 +1719,38 @@
       "duration_ms": 264834,
       "name": "Si No Eres T\u00fa? - Remix",
       "url": "https://open.spotify.com/track/5akPAaHUlKCXdGwncvMlK2"
+    },
+    {
+      "added_at": "2023-03-31 07:45:33",
+      "album": {
+        "name": "Memento",
+        "url": "https://open.spotify.com/album/0uhQr2Rh3VkMpjx8CF8pbb"
+      },
+      "artists": [
+        {
+          "name": "Jona Camacho",
+          "url": "https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP"
+        }
+      ],
+      "duration_ms": 174259,
+      "name": "T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/0rmqnho8rZSEJCqeBDPMmT"
+    },
+    {
+      "added_at": "2023-04-26 00:08:52",
+      "album": {
+        "name": "TRATO",
+        "url": "https://open.spotify.com/album/3oUnBsatAFgBW0uRYysmys"
+      },
+      "artists": [
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "TRATO",
+      "url": "https://open.spotify.com/track/4W2p5xqBjV8xAlFNsbrJS5"
     },
     {
       "added_at": "2023-03-31 07:45:33",

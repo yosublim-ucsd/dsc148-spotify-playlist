@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 121518,
+  "num_followers": 121610,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyNjgwMCwwMDAwMDAwMGIxNGIwNTM3NjgwMWE2ZWU4MzY0ZjBlNTgzYjk5OGQ3",
+  "snapshot_id": "MTY4MTQyNjgwMCwwMDAwMDAwMDY0ZTRlMGNlMjA3MjM4MTI5NjZiMDZkNjRmMGQ3NDcy",
   "tracks": [
     {
       "added_at": "2023-04-13 23:00:00",
@@ -423,26 +423,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Streetside",
-        "url": "https://open.spotify.com/album/0EOl5Udxu7CxJ5u3XbkRnN"
-      },
-      "artists": [
-        {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
-        },
-        {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Streetside",
-      "url": "https://open.spotify.com/track/4HcmKnUwCKsloslonqMzCN"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Stan Smith",
         "url": "https://open.spotify.com/album/2s7f4Qihh5MV7D6lKLPBjB"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 235000,
       "name": "Stan Smith",
       "url": "https://open.spotify.com/track/0nCgsAki7e7I243CUblGxU"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Streetside",
+        "url": "https://open.spotify.com/album/0EOl5Udxu7CxJ5u3XbkRnN"
+      },
+      "artists": [
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        },
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Streetside",
+      "url": "https://open.spotify.com/track/4HcmKnUwCKsloslonqMzCN"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -531,18 +531,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Off The Ground",
-        "url": "https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h"
+        "name": "Stars On The Roof (feat. MoMo)",
+        "url": "https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99"
       },
       "artists": [
         {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        },
+        {
+          "name": "MoMo",
+          "url": "https://open.spotify.com/artist/1UjH8hHfaPKRnTg8FO0uaJ"
         }
       ],
-      "duration_ms": 242750,
-      "name": "Off The Ground",
-      "url": "https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45"
+      "duration_ms": 242769,
+      "name": "Stars On The Roof (feat. MoMo)",
+      "url": "https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -567,42 +571,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Original Sounds",
-        "url": "https://open.spotify.com/album/4XJL9MdgCtvyCYpOotXO0s"
+        "name": "Off The Ground",
+        "url": "https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h"
       },
       "artists": [
         {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
-        },
-        {
-          "name": "Simula",
-          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
         }
       ],
-      "duration_ms": 264000,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/0PX9O7QzWYClP6PPuIaomj"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Stars On The Roof (feat. MoMo)",
-        "url": "https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99"
-      },
-      "artists": [
-        {
-          "name": "Alcemist",
-          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
-        },
-        {
-          "name": "MoMo",
-          "url": "https://open.spotify.com/artist/1UjH8hHfaPKRnTg8FO0uaJ"
-        }
-      ],
-      "duration_ms": 242769,
-      "name": "Stars On The Roof (feat. MoMo)",
-      "url": "https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q"
+      "duration_ms": 242750,
+      "name": "Off The Ground",
+      "url": "https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -659,18 +639,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Tour",
-        "url": "https://open.spotify.com/album/1fPMAtqc8DOwCSLIVb98xv"
+        "name": "Original Sounds",
+        "url": "https://open.spotify.com/album/4XJL9MdgCtvyCYpOotXO0s"
       },
       "artists": [
         {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        },
+        {
+          "name": "Simula",
+          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
         }
       ],
-      "duration_ms": 289371,
-      "name": "Tour",
-      "url": "https://open.spotify.com/track/1Mze7crzF9BWo82DiAsmjj"
+      "duration_ms": 264000,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/0PX9O7QzWYClP6PPuIaomj"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -699,6 +683,22 @@
       "duration_ms": 213793,
       "name": "Infinity (feat. ILIRA, iiola & Tom Cane)",
       "url": "https://open.spotify.com/track/05zD7iVuzpzDWsYvxxcvgd"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Tour",
+        "url": "https://open.spotify.com/album/1fPMAtqc8DOwCSLIVb98xv"
+      },
+      "artists": [
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        }
+      ],
+      "duration_ms": 289371,
+      "name": "Tour",
+      "url": "https://open.spotify.com/track/1Mze7crzF9BWo82DiAsmjj"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/2Xh1gUIGFHqensYqIf96Cz"
-      },
-      "artists": [
-        {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/1kP8aDUnowfDgH1y1xLNVf"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Out of Time",
         "url": "https://open.spotify.com/album/5j1LFq1ZzTBfwPyYWWNjAf"
       },
@@ -823,6 +807,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "Want You",
+        "url": "https://open.spotify.com/album/099tQXLTaW2A2pdLqX1dbL"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 247210,
+      "name": "Want You",
+      "url": "https://open.spotify.com/track/4nrcPumLm5ozA8qOEHcVm2"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "All For You",
         "url": "https://open.spotify.com/album/254Y0CD07dB40q84db89EB"
       },
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Want You",
-        "url": "https://open.spotify.com/album/099tQXLTaW2A2pdLqX1dbL"
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/2Xh1gUIGFHqensYqIf96Cz"
       },
       "artists": [
         {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
         }
       ],
-      "duration_ms": 247210,
-      "name": "Want You",
-      "url": "https://open.spotify.com/track/4nrcPumLm5ozA8qOEHcVm2"
+      "duration_ms": 192000,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/1kP8aDUnowfDgH1y1xLNVf"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -939,6 +939,42 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "Shut It Down",
+        "url": "https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B"
+      },
+      "artists": [
+        {
+          "name": "Mollie Collins",
+          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
+        },
+        {
+          "name": "Elipsa",
+          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
+        }
+      ],
+      "duration_ms": 178604,
+      "name": "Shut It Down",
+      "url": "https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Mesmerised",
+        "url": "https://open.spotify.com/album/130KpuQV0nYnvmqcJupUIu"
+      },
+      "artists": [
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        }
+      ],
+      "duration_ms": 266400,
+      "name": "Mesmerised",
+      "url": "https://open.spotify.com/track/3VmzE0xZIiAmPdAxYHQMgP"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Through It All (Hedex Remix)",
         "url": "https://open.spotify.com/album/3g9yPWc8yVPueR4Zk1LPot"
       },
@@ -963,22 +999,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Mesmerised",
-        "url": "https://open.spotify.com/album/130KpuQV0nYnvmqcJupUIu"
-      },
-      "artists": [
-        {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
-        }
-      ],
-      "duration_ms": 266400,
-      "name": "Mesmerised",
-      "url": "https://open.spotify.com/track/3VmzE0xZIiAmPdAxYHQMgP"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Over You",
         "url": "https://open.spotify.com/album/2CGESyjnHOzZiisdclbMLr"
       },
@@ -999,22 +1019,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Shut It Down",
-        "url": "https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B"
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/2GcGH4Ad6HLvI8Vr1Pu54K"
       },
       "artists": [
         {
-          "name": "Mollie Collins",
-          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
-        },
-        {
-          "name": "Elipsa",
-          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
         }
       ],
-      "duration_ms": 178604,
-      "name": "Shut It Down",
-      "url": "https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki"
+      "duration_ms": 266057,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/7rPaFoaK4CjcFujFhIWMcO"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1031,22 +1047,6 @@
       "duration_ms": 220173,
       "name": "Don't You Worry About Me",
       "url": "https://open.spotify.com/track/4cJgjjWMjf4nfLRuSr4hVl"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Talk To Me",
-        "url": "https://open.spotify.com/album/2GcGH4Ad6HLvI8Vr1Pu54K"
-      },
-      "artists": [
-        {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        }
-      ],
-      "duration_ms": 266057,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/7rPaFoaK4CjcFujFhIWMcO"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Renegade",
-        "url": "https://open.spotify.com/album/0HlsaMsBjldN8ilQkkF4G8"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Chiller Crew",
-          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
-        }
-      ],
-      "duration_ms": 154650,
-      "name": "Renegade",
-      "url": "https://open.spotify.com/track/2QWXmgMXYp1UM3LyHVaAFe"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Getting Started (Chase & Status Remix)",
         "url": "https://open.spotify.com/album/5EoFVpPoxG7JSMtd7JATZ1"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 190344,
       "name": "Getting Started - Chase & Status Remix",
       "url": "https://open.spotify.com/track/7BBDanLPLALnu5asuk14r9"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/0HlsaMsBjldN8ilQkkF4G8"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        }
+      ],
+      "duration_ms": 154650,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/2QWXmgMXYp1UM3LyHVaAFe"
     },
     {
       "added_at": "2023-04-13 23:00:00",

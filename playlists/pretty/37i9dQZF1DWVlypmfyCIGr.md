@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 ### [キラキラポップ：ジャパン](https://open.spotify.com/playlist/37i9dQZF1DWVlypmfyCIGr)
 
-> 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 春ねむり
+> 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: imase
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,581 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,625 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Spotlight](https://open.spotify.com/track/6PtPp2wZUgZacUC1bmAOqD) | [ReiRay](https://open.spotify.com/artist/0duSWX1mZpy1JmZzoQDVgd) | [Spotlight](https://open.spotify.com/album/7rjItmjQFF6Ek6B7QAVePN) | 3:16 |
 | 80 | [Lapse](https://open.spotify.com/track/5TeGDq5gS3KBG88UvdAT5E) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/6IOnkt2rwHoyPgd8tiBTSD) | 3:55 |
 
-Snapshot ID: `MTY4MjM3NTM0OSwwMDAwMDAwMDk5OWNhYWJjYzA0NWQ2ZGU4M2ZkNGRmNzdiNWEwOGUz`
+Snapshot ID: `MTY4MjQxNjM4NiwwMDAwMDAwMGI4NzQ1NDQwNWZmMWFjYmUzYzY5NmE1ZWNjNDU3ZDcy`

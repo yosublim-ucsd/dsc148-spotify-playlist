@@ -4,10 +4,11 @@
 
 > aquela lá q viralizou na net
 
-350 songs - 17 hr 58 min
+350 songs - 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/0uGpWtQgtZ6UcFXnFiNhNq) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Nunca Sozinho](https://open.spotify.com/album/5UDKZWc01Bse8OGYCR2wpb) | 0:00 | 2023-03-06 |  |
 | [](https://open.spotify.com/track/4CZ0TYScO38MfP7rPAjMuo) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Iguinho e lulinha Eu te amo tanto](https://open.spotify.com/album/6aLdsqcozK4CnGUGBMMicf) | 0:00 | 2022-11-01 | 2022-12-14 |
 | [\* da Anitta](https://open.spotify.com/track/0VhG6qzFZo9JrHu56Wq7gh) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [\* da Anitta](https://open.spotify.com/album/5vrDahFF5TU32GwPMxP4SC) | 2:20 | 2023-04-17 |  |
 | [085 \- Ao Vivo](https://open.spotify.com/track/7Ht57bh2FwiQLwRH9zqESG) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Pode Crê \(Ao Vivo\)](https://open.spotify.com/album/1RgyCNTHPkg1IxFO0d6bhQ) | 2:43 | 2023-03-06 |  |
@@ -211,7 +212,6 @@
 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 | 2022-07-28 | 2022-08-18 |
 | [Notion](https://open.spotify.com/track/4cHKd6qPMR1TMx55KHlida) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Futureproof](https://open.spotify.com/album/3SmiRZtLKHDHk5bmLpOvtg) | 3:15 | 2022-05-25 | 2022-07-29 |
 | [Novinha do Onlyfans \(Tchan Ran Tchan Tchan\)](https://open.spotify.com/track/0oB3IBEhbmgTrL7mV0VnFq) | [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK) | [Novinha do Onlyfans \(Tchan Ran Tchan Tchan\)](https://open.spotify.com/album/7vcEsYmKQdxArrMI7euRGw) | 2:17 | 2022-12-19 |  |
-| [Nunca Sozinho](https://open.spotify.com/track/0uGpWtQgtZ6UcFXnFiNhNq) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Nunca Sozinho](https://open.spotify.com/album/5UDKZWc01Bse8OGYCR2wpb) | 2:17 | 2023-03-06 |  |
 | [Nunca Sozinho](https://open.spotify.com/track/3rq6MZyghh4kjOZutPNBfS) | [xolair](https://open.spotify.com/artist/4IyqUNtcBn4sS04LJCzkUq) | [Nunca Sozinho](https://open.spotify.com/album/06LCPYS9Nixib0IzHkurko) | 2:17 | 2023-04-17 | 2023-04-23 |
 | [NUNCA SOZİNHO](https://open.spotify.com/track/0HAvN3XZPCnOrfFIFGcXp6) | [hamza7](https://open.spotify.com/artist/7541kRGbFjmVsqPV4CMVzp), [Votabia](https://open.spotify.com/artist/4klGZvLtbfhDtrdTTS2EhK) | [NUNCA SOZİNHO](https://open.spotify.com/album/1qF4rCJnQ6wnIHeIfK6BOk) | 2:17 | 2023-03-30 | 2023-04-17 |
 | [Nunca To Sozinho \(Veigh\) \(Speed\)](https://open.spotify.com/track/5PPXQCCjF5J8bwExyX3v6f) | [LUMEMOB](https://open.spotify.com/artist/1pysWsHZi97sFEo1xbfbdf) | [Nunca To Sozinho \(Veigh\) \(Speed\)](https://open.spotify.com/album/67JNJZZZ55F6Y25W5Ch4Js) | 1:42 | 2023-03-06 | 2023-03-31 |

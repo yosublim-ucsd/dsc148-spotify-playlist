@@ -4,7 +4,7 @@
 
 > Slow down and embrace the immensity of time\. This is just an ambient blip in the long now.
 
-344 songs - 5 day 8 hr 7 min
+345 songs - 5 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Deep Chimes Meditation](https://open.spotify.com/track/1fhPUG8IVxOqPFGLdsAERc) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Celestrana Deep Chimes Meditation](https://open.spotify.com/album/2mfwo6C8ZVGgwzgepdyRcx) | 32:00 | 2022-05-25 |  |
 | [Delta Sleep \(Cherif Hashizume Rework\)](https://open.spotify.com/track/32PoTqlMIfzbdJjR8RiCWz) | [Manu Delago](https://open.spotify.com/artist/08LrhaMKwKuGbB9XHBEjXF), [Cherif Hashizume](https://open.spotify.com/artist/7lZE7MhAkIglYSnJJB1nYj) | [Nightliner \(Delta Sleep Reworks\)](https://open.spotify.com/album/4vJn7RigOjOxSRSBklEaic) | 41:19 | 2022-05-25 | 2022-07-29 |
 | [Delta Sleep \- Cherif Hashizume Rework](https://open.spotify.com/track/2VE8xcKnPduFxy96R8PiIZ) | [Manu Delago](https://open.spotify.com/artist/08LrhaMKwKuGbB9XHBEjXF), [Cherif Hashizume](https://open.spotify.com/artist/7lZE7MhAkIglYSnJJB1nYj) | [Nightliner \(Delta Sleep Reworks\)](https://open.spotify.com/album/2VpDbgBjdobnqZBJdSjHtF) | 41:19 | 2022-07-15 |  |
-| [dlp 1.1](https://open.spotify.com/track/10SeyQmuBIVJmbZYYJs07W) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops \(Remastered\)](https://open.spotify.com/album/05k7MPh6UZ71omu4O8Kq6A) | 1:03:35 | 2022-05-25 |  |
+| [dlp 1.1](https://open.spotify.com/track/10SeyQmuBIVJmbZYYJs07W) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops \(Remastered\)](https://open.spotify.com/album/05k7MPh6UZ71omu4O8Kq6A) | 1:03:35 | 2022-05-25 | 2023-04-26 |
+| [dlp 1.1](https://open.spotify.com/track/333Oq434csQAOaTs5NsITr) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops \(Remastered\)](https://open.spotify.com/album/5fmPy3XmYD0BJKEr86a3Cu) | 1:03:35 | 2023-01-27 |  |
 | [Do While](https://open.spotify.com/track/0Ce9hfvldAnHBD4wN8JrVk) | [Oval](https://open.spotify.com/artist/1Yti3CsDazWVjNMXBHx1Af) | [94diskont.](https://open.spotify.com/album/33xUwaoTPJ9aNbCJZEpRol) | 24:04 | 2022-05-25 |  |
 | [Don't Bother They're Here](https://open.spotify.com/track/477naywDON3t1iAF4COlOV) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [And Their Refinement of the Decline](https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo) | 10:10 | 2022-05-25 |  |
 | [Dreams of Stairs](https://open.spotify.com/track/3zTycFuuxnCb3CqojqNxk8) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Faint](https://open.spotify.com/album/1uhtMlkMqobRQupNTkAI5k) | 11:13 | 2023-01-27 |  |

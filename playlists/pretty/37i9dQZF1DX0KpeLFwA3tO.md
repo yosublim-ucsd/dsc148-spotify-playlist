@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Rancid
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,158 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,175 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 86 | [Waste Not Want Not](https://open.spotify.com/track/1Afo69VKVJqAkhuxHyHnZ1) | [The Hirs Collective](https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl), [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan), [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [We're Still Here](https://open.spotify.com/album/0byX67r0zvqZAMBiO8o2Yr) | 1:38 |
 | 87 | [National Anthem](https://open.spotify.com/track/2UAGD9GfTHpJn3JqM8Aa4h) | [CLARENCE & THE MODERN LIFE](https://open.spotify.com/artist/0MiuRwwqb3aTIrhUolEMVP) | [National Anthem](https://open.spotify.com/album/7v8P6o5HvlT9nTGPvn7hsz) | 2:54 |
 | 88 | [Armageddon](https://open.spotify.com/track/0cphnlzamiAzqoX52U0UtB) | [Lil Misery](https://open.spotify.com/artist/5eZhEAEkHKmrPhambLphk9) | [Armageddon](https://open.spotify.com/album/5m839NgZKuERdFCsDB5Exi) | 2:41 |
-| 89 | [Facedown](https://open.spotify.com/track/2wc4XyfD9OAELrkwL3iCqO) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Facedown](https://open.spotify.com/album/5bkQz8PC9JMdToUrvFfQOI) | 2:31 |
+| 89 | [Facedown](https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Baku's Revenge \(Deluxe Edition\)](https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv) | 2:31 |
 | 90 | [Calm Down](https://open.spotify.com/track/72zjYe2aysOkIR7l6KQIhR) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 3:14 |
 | 91 | [Bad Intentions](https://open.spotify.com/track/6qpLrHNWL51KQCytTh5Zfq) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [The Blue EP](https://open.spotify.com/album/3plAf4w7eRDvDqY2qxFouS) | 3:35 |
 | 92 | [Freak Of Nature](https://open.spotify.com/track/7pSVMU67bsp5tw70GTssYO) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Freak of Nature](https://open.spotify.com/album/7cZIfS1Hgfj7VZNpxSdh0I) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [MADHATTAN](https://open.spotify.com/track/7kGuKjgZvyPTJKwHgnvPw5) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos), [The OBGMs](https://open.spotify.com/artist/3Sp7HTc7BNbSx0SPiHVeRI), [DENZ JUNIOR](https://open.spotify.com/artist/6hiy2sLG05CnoB3Kv7Qeox) | [MADHATTAN](https://open.spotify.com/album/4l9rowUxTu47lnDjI8TDs8) | 1:59 |
 | 100 | [Sad Dumb Game](https://open.spotify.com/track/21IiYgR0LsCZMat4qaeoyD) | [Single Mothers](https://open.spotify.com/artist/2FW1jqwbJgwWT8hTWHgBrq) | [Head Shrunk / Sad Dumb Game](https://open.spotify.com/album/7ikoCgdYh59PwvS3T1BliZ) | 2:19 |
 
-Snapshot ID: `MTY4MjAzMTYwMCwwMDAwMDAwMGE3YzcwZDFjMGUwMGQwMzU3Yjc1OTVjM2Y2Yzk2MTU3`
+Snapshot ID: `MTY4MjAzMTYwMCwwMDAwMDAwMGU4OWYwZmJjMmE4Y2MxYTI1MmIzYzE2YTdmOTVkNjA0`

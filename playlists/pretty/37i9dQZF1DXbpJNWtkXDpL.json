@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Bienvenida Generaci\u00f3n RADAR 2023! Los Aptos en portada. ",
-  "num_followers": 69312,
+  "num_followers": 69345,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjExMzQwNywwMDAwMDAwMDg2MzFmMmZiNjkyMDMxMmY0ZjRkM2QyODA2MWNmNDVk",
+  "snapshot_id": "MTY4MjExMzQwNywwMDAwMDAwMGEwMjVlNzFiOWVkZGIxMjVkNTdiZDUwZTg3ZDljOWRh",
   "tracks": [
     {
       "added_at": "2023-04-21 21:43:27",
@@ -595,18 +595,18 @@
     {
       "added_at": "2023-04-21 21:43:27",
       "album": {
-        "name": "Andando Entre la Lumbre",
-        "url": "https://open.spotify.com/album/4ddTT1v8j9aY0Y0o59XA0J"
+        "name": "Los Infieles",
+        "url": "https://open.spotify.com/album/3mzCxXpsscupK6Ffx9tWWI"
       },
       "artists": [
         {
-          "name": "Alejandro Buelna",
-          "url": "https://open.spotify.com/artist/5CLkLBa8amfsdvs6b1R7Cv"
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
         }
       ],
-      "duration_ms": 183775,
-      "name": "Andando Entre la Lumbre",
-      "url": "https://open.spotify.com/track/10K6wm5vE2cvZ5NsuVvEgZ"
+      "duration_ms": 183510,
+      "name": "Los Infieles",
+      "url": "https://open.spotify.com/track/0YSwh7R5uI5Xzb5TYPiGuO"
     },
     {
       "added_at": "2023-04-21 21:43:27",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-04-21 21:43:27",
       "album": {
-        "name": "Los Infieles",
-        "url": "https://open.spotify.com/album/3mzCxXpsscupK6Ffx9tWWI"
-      },
-      "artists": [
-        {
-          "name": "Adrian L Santos",
-          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
-        }
-      ],
-      "duration_ms": 183510,
-      "name": "Los Infieles",
-      "url": "https://open.spotify.com/track/0YSwh7R5uI5Xzb5TYPiGuO"
-    },
-    {
-      "added_at": "2023-04-21 21:43:27",
-      "album": {
         "name": "Raro",
         "url": "https://open.spotify.com/album/7o1jM9UhLVkYGcuO6UXAsJ"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 174213,
       "name": "Pa Que Te Digo Que No",
       "url": "https://open.spotify.com/track/1hL93q6dMCiJGLYePtSQhy"
+    },
+    {
+      "added_at": "2023-04-21 21:43:27",
+      "album": {
+        "name": "Andando Entre la Lumbre",
+        "url": "https://open.spotify.com/album/4ddTT1v8j9aY0Y0o59XA0J"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Buelna",
+          "url": "https://open.spotify.com/artist/5CLkLBa8amfsdvs6b1R7Cv"
+        }
+      ],
+      "duration_ms": 183775,
+      "name": "Andando Entre la Lumbre",
+      "url": "https://open.spotify.com/track/10K6wm5vE2cvZ5NsuVvEgZ"
     },
     {
       "added_at": "2023-04-21 21:43:27",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-04-21 21:43:27",
       "album": {
+        "name": "No Quiero Llorar",
+        "url": "https://open.spotify.com/album/3PgJ2wWIEOTu7smbdou1La"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "No Quiero Llorar",
+      "url": "https://open.spotify.com/track/3wNfYe0jVuk14kY028HzK1"
+    },
+    {
+      "added_at": "2023-04-21 21:43:27",
+      "album": {
         "name": "Viajemos al Espacio",
         "url": "https://open.spotify.com/album/0AvhavhOmQIp3L3LsTg3DL"
       },
@@ -723,22 +739,6 @@
     {
       "added_at": "2023-04-21 21:43:27",
       "album": {
-        "name": "San Mike",
-        "url": "https://open.spotify.com/album/49o87APRm62j0t13TMOB4E"
-      },
-      "artists": [
-        {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
-        }
-      ],
-      "duration_ms": 171250,
-      "name": "San Mike",
-      "url": "https://open.spotify.com/track/1IsK1ydUSOuc32aMwYB0wa"
-    },
-    {
-      "added_at": "2023-04-21 21:43:27",
-      "album": {
         "name": "Tres Mundos",
         "url": "https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk"
       },
@@ -751,6 +751,22 @@
       "duration_ms": 169548,
       "name": "Cambio De Canci\u00f3n",
       "url": "https://open.spotify.com/track/3R08fx84aFdqHlKTMWkEvi"
+    },
+    {
+      "added_at": "2023-04-21 21:43:27",
+      "album": {
+        "name": "San Mike",
+        "url": "https://open.spotify.com/album/49o87APRm62j0t13TMOB4E"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        }
+      ],
+      "duration_ms": 171250,
+      "name": "San Mike",
+      "url": "https://open.spotify.com/track/1IsK1ydUSOuc32aMwYB0wa"
     },
     {
       "added_at": "2023-04-21 21:43:27",
@@ -783,22 +799,6 @@
       "duration_ms": 117779,
       "name": "Mi Tierra",
       "url": "https://open.spotify.com/track/4RbrGZ6GCRAgsOnPZQwsJx"
-    },
-    {
-      "added_at": "2023-04-21 21:43:27",
-      "album": {
-        "name": "No Quiero Llorar",
-        "url": "https://open.spotify.com/album/3PgJ2wWIEOTu7smbdou1La"
-      },
-      "artists": [
-        {
-          "name": "Adrian L Santos",
-          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "No Quiero Llorar",
-      "url": "https://open.spotify.com/track/3wNfYe0jVuk14kY028HzK1"
     },
     {
       "added_at": "2023-04-21 21:43:27",

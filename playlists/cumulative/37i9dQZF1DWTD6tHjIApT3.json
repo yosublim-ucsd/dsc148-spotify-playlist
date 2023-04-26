@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: iri",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u5927\u6bd4\u826f\u745e\u5e0c",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -442,7 +442,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 213106,
       "name": "39 Minutes",
       "url": "https://open.spotify.com/track/3QmJn4aRv6DvNNvGLsb5Uq"
@@ -2550,6 +2550,24 @@
       "duration_ms": 176857,
       "name": "Cho-chocolate drip",
       "url": "https://open.spotify.com/track/6mrv5bDHrD72t0nYwPKFLW"
+    },
+    {
+      "album": {
+        "name": "MY ARMS.",
+        "url": "https://open.spotify.com/album/15kewSjPOqpMY3FUEYAQVq"
+      },
+      "artists": [
+        {
+          "name": "Tina Moon",
+          "url": "https://open.spotify.com/artist/3I1vLdkE4jPKqsbzkOQOIQ"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247132,
+      "name": "Choose for yourself",
+      "url": "https://open.spotify.com/track/0gBL7umwsbrOXZPkbdQJeP"
     },
     {
       "album": {
@@ -4964,7 +4982,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 271280,
       "name": "Heart",
       "url": "https://open.spotify.com/track/5Telaq6UCXw3kG6nepeLp1"
@@ -5573,6 +5591,24 @@
     },
     {
       "album": {
+        "name": "IKUNE",
+        "url": "https://open.spotify.com/album/138bhJmESaN5UtECXd7Pb0"
+      },
+      "artists": [
+        {
+          "name": "GIVE ME OW",
+          "url": "https://open.spotify.com/artist/1gOZX2GKUGvwGkDQagW3dH"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169401,
+      "name": "IKUNE",
+      "url": "https://open.spotify.com/track/6VMyyI0Ap0KKLIsiGeIvSh"
+    },
+    {
+      "album": {
         "name": "in my dream",
         "url": "https://open.spotify.com/album/3WK4C94BJD8ilHlr1D14Go"
       },
@@ -6106,6 +6142,24 @@
       "duration_ms": 223547,
       "name": "I\u2019m Calling You",
       "url": "https://open.spotify.com/track/3QTPkJsom8XAg3dx8mqphk"
+    },
+    {
+      "album": {
+        "name": "Jam",
+        "url": "https://open.spotify.com/album/6yGcdAn7qspsakb8jdPtbp"
+      },
+      "artists": [
+        {
+          "name": "Mizuki Ohira",
+          "url": "https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245535,
+      "name": "Jam",
+      "url": "https://open.spotify.com/track/5xt9N7xhDqEpp6NIdMCUux"
     },
     {
       "album": {
@@ -7691,6 +7745,24 @@
     },
     {
       "album": {
+        "name": "Melon",
+        "url": "https://open.spotify.com/album/0jkjGMEXFfTA3SZgfGLV5p"
+      },
+      "artists": [
+        {
+          "name": "AVOCADO BOYS",
+          "url": "https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252428,
+      "name": "Melon",
+      "url": "https://open.spotify.com/track/7GZ2Y8lYqyzQ2b20RLGNLJ"
+    },
+    {
+      "album": {
         "name": "merry-go-round",
         "url": "https://open.spotify.com/album/3KeUgKf3pF8zW4v0BitGub"
       },
@@ -7800,7 +7872,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 271973,
       "name": "Midnight City Lovers",
       "url": "https://open.spotify.com/track/6LspxPoYyG65ZQGwR6VREF"
@@ -8142,7 +8214,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 197333,
       "name": "Movie",
       "url": "https://open.spotify.com/track/2FpJP26vKDilHH9AsNlbwO"
@@ -8239,6 +8311,24 @@
     },
     {
       "album": {
+        "name": "my life (Sing for you ver.)",
+        "url": "https://open.spotify.com/album/4E02RUbvGZ5Ecqex16ug0O"
+      },
+      "artists": [
+        {
+          "name": "\u307f\u3086\u306a",
+          "url": "https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329559,
+      "name": "my life - Sing for you ver.",
+      "url": "https://open.spotify.com/track/3yELCq8sfcPC83hGLHPUpy"
+    },
+    {
+      "album": {
         "name": "Bump & Grind",
         "url": "https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj"
       },
@@ -8272,6 +8362,28 @@
       "duration_ms": 207480,
       "name": "Mystic World",
       "url": "https://open.spotify.com/track/1QumIk74cRRiTkWyoY0E3E"
+    },
+    {
+      "album": {
+        "name": "n.o.y.b (feat. Furui Riho)",
+        "url": "https://open.spotify.com/album/3GPIrOmn7HCQp52OD6Gnhf"
+      },
+      "artists": [
+        {
+          "name": "Shin Sakiura",
+          "url": "https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8"
+        },
+        {
+          "name": "Furui Riho",
+          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237115,
+      "name": "n.o.y.b (feat. Furui Riho)",
+      "url": "https://open.spotify.com/track/0znEN9HIkCXf4wZn16hVJD"
     },
     {
       "album": {
@@ -13841,6 +13953,24 @@
     },
     {
       "album": {
+        "name": "WRONG",
+        "url": "https://open.spotify.com/album/0YgFREk3UW1z7KPXe6NL8T"
+      },
+      "artists": [
+        {
+          "name": "yukaDD",
+          "url": "https://open.spotify.com/artist/5AfbFgeqRYOGZbu3lYtZLe"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175922,
+      "name": "WRONG",
+      "url": "https://open.spotify.com/track/2aMTlOrWdKFu125tVvys96"
+    },
+    {
+      "album": {
         "name": "Xmas with U",
         "url": "https://open.spotify.com/album/4vmHPYzDA4xACTxpakn6NN"
       },
@@ -15248,7 +15378,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 164996,
       "name": "\u3069\u3053\u3078\u3082\u884c\u304b\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/0QctNmKMvT5Hw4aWO1HJI7"
@@ -18213,6 +18343,24 @@
     },
     {
       "album": {
+        "name": "\u30e4\u30b1\u30c9",
+        "url": "https://open.spotify.com/album/1jPav5sGQGfQ8eKaAZA9Ym"
+      },
+      "artists": [
+        {
+          "name": "illiomote",
+          "url": "https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195106,
+      "name": "\u30e4\u30b1\u30c9",
+      "url": "https://open.spotify.com/track/4NEhoHnnuNVRs5x7ovkkUk"
+    },
+    {
+      "album": {
         "name": "\u30e4\u30b3\u30a6\u30ec\u30c3\u30b7\u30e3",
         "url": "https://open.spotify.com/album/3WLp22PNHz01NoZvN1PllK"
       },
@@ -20288,7 +20436,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 266900,
       "name": "\u591c\u3092\u30eb\u30fc\u30d7",
       "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
@@ -21968,7 +22116,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 175188,
       "name": "\u6771\u4eacLonging",
       "url": "https://open.spotify.com/track/2C2soCcOq3MHkhbdqh3vHR"
@@ -23490,7 +23638,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 248809,
       "name": "\u82b1\u306e\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/5DvmqgXR9UOK6YyOqpIFce"
@@ -24094,7 +24242,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 248386,
       "name": "\u9178\u6b20\u5c11\u5973",
       "url": "https://open.spotify.com/track/2RZXA7qGu9Ei3iNpKhv4TP"
@@ -24446,6 +24594,24 @@
       "duration_ms": 302666,
       "name": "\u9808\u81fe\u306e\u5cf6 feat. \u3077\u306b\u3077\u306b\u96fb\u6a5f",
       "url": "https://open.spotify.com/track/6NzyTK0raOqtE9DVm00qHj"
+    },
+    {
+      "album": {
+        "name": "\u982c\u306b\u3072\u3068\u53e3",
+        "url": "https://open.spotify.com/album/1OseQ5LUgKXP4M6UNnspyj"
+      },
+      "artists": [
+        {
+          "name": "kojikoji",
+          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209837,
+      "name": "\u982c\u306b\u3072\u3068\u53e3",
+      "url": "https://open.spotify.com/track/6YEzgjuFl1bmtVUZ04Ozlr"
     },
     {
       "album": {

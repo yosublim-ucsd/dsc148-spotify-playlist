@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Q & Baby Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 996,440 likes - 130 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 996,562 likes - 130 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "The best Latin Indie tracks right now, featuring YADAM.",
-  "num_followers": 149299,
+  "num_followers": 149312,
   "original_name": "Ultimate Latin Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0MjkyNiwwMDAwMDAwMGMyYmI4ZGM1YzEyYzRiMjlhZDE4NTI3MjBhN2NmMjgy",
+  "snapshot_id": "MTY4MjA0MjkyNiwwMDAwMDAwMGU4MmNkMDM4NmU5ZWIxM2I3ODEzYzFiYTgyYWJiZGI0",
   "tracks": [
     {
       "added_at": "2023-04-21 02:08:46",
@@ -463,18 +463,22 @@
     {
       "added_at": "2023-04-21 02:08:46",
       "album": {
-        "name": "Maybe Baby",
-        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
+        "name": "DAMN!",
+        "url": "https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr"
       },
       "artists": [
         {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+          "name": "Sexy Pigeon",
+          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 193429,
-      "name": "Maybe Baby",
-      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
+      "duration_ms": 117606,
+      "name": "DAMN!",
+      "url": "https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo"
     },
     {
       "added_at": "2023-04-21 02:08:46",
@@ -495,22 +499,18 @@
     {
       "added_at": "2023-04-21 02:08:46",
       "album": {
-        "name": "DAMN!",
-        "url": "https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr"
+        "name": "Maybe Baby",
+        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
       },
       "artists": [
         {
-          "name": "Sexy Pigeon",
-          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
         }
       ],
-      "duration_ms": 117606,
-      "name": "DAMN!",
-      "url": "https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo"
+      "duration_ms": 193429,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
     },
     {
       "added_at": "2023-04-21 02:08:46",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-04-21 02:08:46",
       "album": {
-        "name": "Se Apag\u00f3",
-        "url": "https://open.spotify.com/album/19wVnNE8bc13xCCRTVqECe"
-      },
-      "artists": [
-        {
-          "name": "Cupido",
-          "url": "https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex"
-        }
-      ],
-      "duration_ms": 141415,
-      "name": "Se Apag\u00f3",
-      "url": "https://open.spotify.com/track/7w9UoMZ5Jk22dFdNHi7pBU"
-    },
-    {
-      "added_at": "2023-04-21 02:08:46",
-      "album": {
         "name": "What Do You Want It To Be?",
         "url": "https://open.spotify.com/album/0zj0QfL92o9OPwtKvwW5pL"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 258832,
       "name": "Think of You",
       "url": "https://open.spotify.com/track/1TMNQtfsu3Bwa808I3Hx5X"
+    },
+    {
+      "added_at": "2023-04-21 02:08:46",
+      "album": {
+        "name": "Se Apag\u00f3",
+        "url": "https://open.spotify.com/album/19wVnNE8bc13xCCRTVqECe"
+      },
+      "artists": [
+        {
+          "name": "Cupido",
+          "url": "https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex"
+        }
+      ],
+      "duration_ms": 141415,
+      "name": "Se Apag\u00f3",
+      "url": "https://open.spotify.com/track/7w9UoMZ5Jk22dFdNHi7pBU"
     },
     {
       "added_at": "2023-04-21 02:08:46",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-04-21 02:08:46",
       "album": {
-        "name": "Ya no estoy aqu\u00ed",
-        "url": "https://open.spotify.com/album/2L2rLbtvGZDkJdSHCAOdh6"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        }
-      ],
-      "duration_ms": 202105,
-      "name": "Ya no estoy aqu\u00ed",
-      "url": "https://open.spotify.com/track/72ERVQD9a4KEnLEssH4mg7"
-    },
-    {
-      "added_at": "2023-04-21 02:08:46",
-      "album": {
         "name": "Blssom",
         "url": "https://open.spotify.com/album/1vPsFj3ckFQCnFwSGGiezb"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 224580,
       "name": "Vas",
       "url": "https://open.spotify.com/track/0J5HUUAIzTupxaWZ6WVk2c"
+    },
+    {
+      "added_at": "2023-04-21 02:08:46",
+      "album": {
+        "name": "Ya no estoy aqu\u00ed",
+        "url": "https://open.spotify.com/album/2L2rLbtvGZDkJdSHCAOdh6"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "duration_ms": 202105,
+      "name": "Ya no estoy aqu\u00ed",
+      "url": "https://open.spotify.com/track/72ERVQD9a4KEnLEssH4mg7"
     },
     {
       "added_at": "2023-04-21 02:08:46",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-04-21 02:08:46",
       "album": {
+        "name": "Gardenia",
+        "url": "https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM"
+      },
+      "artists": [
+        {
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
+        }
+      ],
+      "duration_ms": 251520,
+      "name": "Te Espero Aqu\u00ed",
+      "url": "https://open.spotify.com/track/5cTyKJd1pHOxTt8pt8hAi7"
+    },
+    {
+      "added_at": "2023-04-21 02:08:46",
+      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/4zeUUiheZ60pYMbZ7rDtwI"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 176400,
       "name": "VHS",
       "url": "https://open.spotify.com/track/4k34WNz27uYpifsREylsyx"
-    },
-    {
-      "added_at": "2023-04-21 02:08:46",
-      "album": {
-        "name": "Gardenia",
-        "url": "https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM"
-      },
-      "artists": [
-        {
-          "name": "Monogem",
-          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
-        }
-      ],
-      "duration_ms": 251520,
-      "name": "Te Espero Aqu\u00ed",
-      "url": "https://open.spotify.com/track/5cTyKJd1pHOxTt8pt8hAi7"
     },
     {
       "added_at": "2023-04-21 02:08:46",

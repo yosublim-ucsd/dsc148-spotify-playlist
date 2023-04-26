@@ -81,6 +81,28 @@
     },
     {
       "album": {
+        "name": "360",
+        "url": "https://open.spotify.com/album/7BKGNG6K7fUTDCN9GdKbae"
+      },
+      "artists": [
+        {
+          "name": "\u306f\u3089\u304b\u306a\u3053",
+          "url": "https://open.spotify.com/artist/5GLpM2YT3pJFvS8Qguzhvj"
+        },
+        {
+          "name": "\u5009\u54c1\u7fd4",
+          "url": "https://open.spotify.com/artist/2Aa3LycVvMqqNSBzmTrPOl"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251226,
+      "name": "360",
+      "url": "https://open.spotify.com/track/7GAgIge6v6N5KH1lsC4Ikx"
+    },
+    {
+      "album": {
         "name": "3\u53f7\u7dda (feat. \u5800\u8fbc\u6cf0\u884c)",
         "url": "https://open.spotify.com/album/4k1iWmDoy7ivu3kOUs3Lyo"
       },
@@ -1136,7 +1158,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 325898,
       "name": "Countdown Rag",
       "url": "https://open.spotify.com/track/4I3f7odzNXdhDrxX4W4aT3"
@@ -2256,7 +2278,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 225391,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/6WzP4guTS9GQkbH1K2qpMB"
@@ -2676,7 +2698,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 154500,
       "name": "KEYS",
       "url": "https://open.spotify.com/track/13ikkbVTj6pD4Zx9fP1lyX"
@@ -2872,7 +2894,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-19",
+      "date_removed": null,
       "duration_ms": 250400,
       "name": "Left Alone feat. \u571f\u5c90\u9ebb\u5b50",
       "url": "https://open.spotify.com/track/1lIbuuAIcqM0Ft7nHixt25"
@@ -3384,7 +3406,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 270133,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/18LOgLjl2ljm2eOKKhYiWi"
@@ -5138,7 +5160,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 239536,
       "name": "Splendid Silent Sun",
       "url": "https://open.spotify.com/track/5G3bOHGiDmNijrpafLBDMh"
@@ -5156,7 +5178,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 160000,
       "name": "Spring Desert",
       "url": "https://open.spotify.com/track/62Mi6nfXmBQ44g5rNbdO8q"
@@ -5970,7 +5992,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 211440,
       "name": "Tokyo Neon",
       "url": "https://open.spotify.com/track/77tBV0ZvVfY5bMQjTCJOqs"
@@ -6039,6 +6061,24 @@
     },
     {
       "album": {
+        "name": "Too good to be true/Nightmare",
+        "url": "https://open.spotify.com/album/1pck3jumTdRmyaoZnvgsKR"
+      },
+      "artists": [
+        {
+          "name": "Kiyotaka Sugiyama",
+          "url": "https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312346,
+      "name": "Too good to be true",
+      "url": "https://open.spotify.com/track/7AHjkU1cjgUIV2bxP6Aitm"
+    },
+    {
+      "album": {
         "name": "OMEGA TRIBE GROOVE",
         "url": "https://open.spotify.com/album/7o5mbjGsvO2PrDkL1IRPch"
       },
@@ -6072,7 +6112,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-23",
+      "date_removed": null,
       "duration_ms": 241866,
       "name": "Treasure",
       "url": "https://open.spotify.com/track/5run1AkGCGYegjLSlsmvZn"
@@ -6444,7 +6484,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 215400,
       "name": "your room",
       "url": "https://open.spotify.com/track/0ny70e6ql2HOEmQVfnWI8N"
@@ -6484,7 +6524,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 181040,
       "name": "Your Song On The Radio",
       "url": "https://open.spotify.com/track/1IQshfYUQE7H2z00aRMTqE"
@@ -7020,7 +7060,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 241293,
       "name": "\u3075\u305f\u308a\u306e\u590f\u7269\u8a9e -NEVER ENDING SUMMER-",
       "url": "https://open.spotify.com/track/3gQXDw1BJlgC4HTF4Np3rx"
@@ -7444,7 +7484,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 252326,
       "name": "\u30b7\u30f3\u30d7\u30eb\u30fb\u30e9\u30d6 feat. \u4f50\u3005\u6728\u8a69\u7e54",
       "url": "https://open.spotify.com/track/2mudoDEVfAtKFV4VNddaCC"
@@ -7994,7 +8034,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-24",
+      "date_removed": null,
       "duration_ms": 188709,
       "name": "\u30e4\u30c3\u30c1\u30de\u30a4\u30ca!",
       "url": "https://open.spotify.com/track/7zdHVg51ysEcEgOUT3ewpb"
@@ -8346,6 +8386,28 @@
       "duration_ms": 219998,
       "name": "\u590f\u306e\u30af\u30e9\u30af\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/7LtRFZe9aaqynkfGJrKhSX"
+    },
+    {
+      "album": {
+        "name": "\u590f\u306e\u4ea1\u970a feat. KIRINJI",
+        "url": "https://open.spotify.com/album/43QPrf7HouyvP7W1Aw7XCD"
+      },
+      "artists": [
+        {
+          "name": "Tomita Lab.",
+          "url": "https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD"
+        },
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254666,
+      "name": "\u590f\u306e\u4ea1\u970a feat. KIRINJI",
+      "url": "https://open.spotify.com/track/5QZJ0oITXby0ON4JiWSDH6"
     },
     {
       "album": {
@@ -9256,6 +9318,24 @@
       "duration_ms": 249254,
       "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
       "url": "https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L"
+    },
+    {
+      "album": {
+        "name": "MOONAGE",
+        "url": "https://open.spotify.com/album/0NTio3e2DJlseuJsFUQQeb"
+      },
+      "artists": [
+        {
+          "name": "YUJI NAKADA",
+          "url": "https://open.spotify.com/artist/7Kbz6xbASLAYT072Z3ZRCS"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244217,
+      "name": "\u771f\u7a7a",
+      "url": "https://open.spotify.com/track/1RrvJAxJivlXwm0j6QUW7t"
     },
     {
       "album": {

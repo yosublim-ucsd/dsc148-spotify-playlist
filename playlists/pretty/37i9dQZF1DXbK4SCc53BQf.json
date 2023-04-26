@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 83744,
+  "num_followers": 83816,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjIyNDIzNSwwMDAwMDAwMDVkNjJlNzdkMzU3YTVjZWMzZmNlYjBjOGViOTFkOGQ5",
+  "snapshot_id": "MTYwNjIyNDIzNSwwMDAwMDAwMGMwNjBmZWJkNGM2ODllOTFlNmUzZTliMDE1NjI3NjBl",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -363,26 +363,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Por Amor",
-        "url": "https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy"
-      },
-      "artists": [
-        {
-          "name": "Mikey A",
-          "url": "https://open.spotify.com/artist/1l6CSnpOO3rlki99yADeks"
-        },
-        {
-          "name": "Andrea Dominguez",
-          "url": "https://open.spotify.com/artist/25YZT94TGT0kKiLaTybU3O"
-        }
-      ],
-      "duration_ms": 219692,
-      "name": "Tu Eres (feat. Andrea Dominguez)",
-      "url": "https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Vuelve a So\u00f1ar - EP",
         "url": "https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 222229,
       "name": "Llegare (Remastered) [feat. Zeri]",
       "url": "https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Por Amor",
+        "url": "https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy"
+      },
+      "artists": [
+        {
+          "name": "Mikey A",
+          "url": "https://open.spotify.com/artist/1l6CSnpOO3rlki99yADeks"
+        },
+        {
+          "name": "Andrea Dominguez",
+          "url": "https://open.spotify.com/artist/25YZT94TGT0kKiLaTybU3O"
+        }
+      ],
+      "duration_ms": 219692,
+      "name": "Tu Eres (feat. Andrea Dominguez)",
+      "url": "https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA"
     },
     {
       "added_at": "2020-11-24 13:23:55",

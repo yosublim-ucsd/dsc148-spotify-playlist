@@ -7102,7 +7102,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 194285,
       "name": "No Time To Lose",
       "url": "https://open.spotify.com/track/26QFxdsPHyywrRof3KTflU"
@@ -9068,6 +9068,32 @@
       "duration_ms": 127058,
       "name": "Sundress",
       "url": "https://open.spotify.com/track/1im4wgqQFi8IQpmpyaUyp9"
+    },
+    {
+      "album": {
+        "name": "SWING MY WAY",
+        "url": "https://open.spotify.com/album/6KjAwvNBCGF5NT4fr346sV"
+      },
+      "artists": [
+        {
+          "name": "Max Wallin'",
+          "url": "https://open.spotify.com/artist/44lBvUBMAoYZEysyPaGrEF"
+        },
+        {
+          "name": "Lienz",
+          "url": "https://open.spotify.com/artist/11GMr695MGyabd8etqZQWz"
+        },
+        {
+          "name": "EDDIETHEHOST",
+          "url": "https://open.spotify.com/artist/0nwxXY2qeimJ9WkQKitxUg"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148163,
+      "name": "SWING MY WAY",
+      "url": "https://open.spotify.com/track/6s0eLTeEPSyuaZayzgija5"
     },
     {
       "album": {

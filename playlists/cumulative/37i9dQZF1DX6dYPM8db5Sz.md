@@ -4,7 +4,7 @@
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj?si=jCYYZ3r6RRuQOwyG5Q8ZBw">Year of Dogs</a>
 
-271 songs - 15 hr 44 min
+272 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Blue Collar Cowboy](https://open.spotify.com/track/6YjBj6LmQISfkAVD8f0OHN) | [Bye Beneco](https://open.spotify.com/artist/3kMHWNlRYrb3c6NpmP8EQh) | [Leaving All The Time](https://open.spotify.com/album/4Buz9FAsieDI6T8y1K4rAf) | 3:53 | 2022-10-31 | 2023-01-20 |
 | [Blue House](https://open.spotify.com/track/2oS0yreheavk9HnRip1JO7) | [EIGHT THOUSAND BIRDS](https://open.spotify.com/artist/65UYJ9S1OelF0qUcLX0HYC) | [Blue House](https://open.spotify.com/album/2v9CRI2H6pIB6kTHXsc32N) | 3:28 | 2023-01-19 | 2023-02-17 |
 | [Blue Skies Baby](https://open.spotify.com/track/1hd9094RZE9TAk8IaF7Tdh) | [Painted Flowers](https://open.spotify.com/artist/0bhFPHum4CYqnxyIGHb7sX) | [Blue Skies Baby](https://open.spotify.com/album/508gqpQDY4WOLrRiune1oj) | 3:45 | 2022-12-08 | 2023-01-27 |
-| [Borrow Trouble](https://open.spotify.com/track/4lyKe6602fEaFpwMFYGPc2) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/2uDbIwcvfGsMEbzeU3iyoU) | 4:05 | 2023-03-16 |  |
+| [Borrow Trouble](https://open.spotify.com/track/461JI71P8eY2zUWAkyKs7b) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 4:05 | 2023-03-16 |  |
+| [Borrow Trouble](https://open.spotify.com/track/4lyKe6602fEaFpwMFYGPc2) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/2uDbIwcvfGsMEbzeU3iyoU) | 4:05 | 2023-03-16 | 2023-04-26 |
 | [Bowie](https://open.spotify.com/track/3KjgybWtSpHSOj5doyDTpX) | [Amy Lilley](https://open.spotify.com/artist/0HmHTFgk53AKaQwLM3eZi4) | [Petrichor](https://open.spotify.com/album/2lY7kj1yqaqThxVc0ohgcT) | 3:41 | 2022-09-09 | 2022-11-11 |
 | [boxysoxy](https://open.spotify.com/track/6DcALE029s14ahdYNY1u15) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [boxysoxy](https://open.spotify.com/album/3IBhLnG6pQNUdj4mlswWbL) | 3:10 | 2023-04-21 |  |
 | [Boyhood](https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Boyhood](https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n) | 3:09 | 2023-03-23 |  |

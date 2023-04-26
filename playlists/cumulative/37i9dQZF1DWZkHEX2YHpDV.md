@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: All Time Low
 
-934 songs - 2 day 1 hr 31 min
+935 songs - 2 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -657,7 +657,7 @@
 | [Remedy for Reality](https://open.spotify.com/track/6VL1ikOTJscKBHRgV686ug) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Torn in Two](https://open.spotify.com/album/7FD1Yk6byTdKJQh0fXX6nN) | 2:44 | 2021-12-10 | 2022-08-03 |
 | [Renegades](https://open.spotify.com/track/3RyH5KkHlzSC5g1Ddi30ew) | [L.A\. Guns](https://open.spotify.com/artist/22TEmHXBBLjTec2LOAuMdS) | [Renegades](https://open.spotify.com/album/6MGBUxrzvMzBm7fS7ytyPY) | 3:40 | 2022-03-25 | 2022-04-21 |
 | [Replace Me](https://open.spotify.com/track/2bBO8oYoQth3Uqcdsi6y3Y) | [Reside](https://open.spotify.com/artist/2TJvqWePrnkU9Np6TlOMA4) | [Replace Me](https://open.spotify.com/album/1c9DbryCixKQPlCDH5FnIY) | 3:26 | 2021-12-10 | 2022-06-23 |
-| [Rest In Pieces \(feat\. Goody Grace\)](https://open.spotify.com/track/5RR9EjI16LxwQFOX5fxpCW) | [Kelsy Karter & The Heroines](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Rest In Pieces \(feat\. Goody Grace\)](https://open.spotify.com/album/0ycKAr2DznJKSPN6sl6Ueg) | 2:55 | 2022-02-11 |  |
+| [Rest In Pieces \(feat\. Goody Grace\)](https://open.spotify.com/track/5RR9EjI16LxwQFOX5fxpCW) | [Kelsy Karter & The Heroines](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Rest In Pieces \(feat\. Goody Grace\)](https://open.spotify.com/album/0ycKAr2DznJKSPN6sl6Ueg) | 2:55 | 2022-02-11 | 2023-04-26 |
 | [Restitution](https://open.spotify.com/track/0TTxfKH6thK77sO0mFTzXd) | [Boy Becomes Hero](https://open.spotify.com/artist/4ZDPNJOOPpGA6bgAYZEYEd), [Garret Rapp](https://open.spotify.com/artist/7mSSf8GCP3Lfu2QzyetVhR) | [Restitution](https://open.spotify.com/album/6mDw1FrWZuvwB7UR8hmgHo) | 4:47 | 2021-12-10 | 2022-05-19 |
 | [Rich Kids Ruin Everything](https://open.spotify.com/track/4ANzvISz338P5mRff2m63x) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Rich Kids Ruin Everything](https://open.spotify.com/album/0uNDijaQlIxf11ygtq6PCR) | 2:36 | 2022-05-20 | 2022-08-27 |
 | [Roads](https://open.spotify.com/track/0IqV0nbhJorUFAAQsDIJkl) | [Seasonal](https://open.spotify.com/artist/1yn5pA5FF2FNUd9pHfQHyi) | [Roads](https://open.spotify.com/album/6fT2s9BhiYslOMujqg6Ijr) | 3:38 | 2022-03-25 | 2022-04-15 |
@@ -695,6 +695,7 @@
 | [Sew Your Mouth Shut](https://open.spotify.com/track/2Ox3o7oxmyDCbwTJl2l8YF) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [Sew Your Mouth Shut](https://open.spotify.com/album/1nzplykCIu6rGlvp6XP0mN) | 3:25 | 2021-12-10 | 2022-06-21 |
 | [Sexual Drugs](https://open.spotify.com/track/02r7fiM5e7wNWi9Wt7SRd3) | [Karma Kids](https://open.spotify.com/artist/2tolFkeeZ90dTrTpuSUTiK) | [Sexual Drugs](https://open.spotify.com/album/59ZQ5L1c29q5pRyfmOgbgA) | 3:54 | 2022-01-14 | 2022-04-21 |
 | [Shade](https://open.spotify.com/track/5QnRcsp1NLJEpZ41Rg24HA) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Shade](https://open.spotify.com/album/5jTGsgUkFGxUJasalzMMLk) | 3:25 | 2022-04-01 | 2022-05-10 |
+| [shame](https://open.spotify.com/track/4UhUHDAxLcFb8E0e5J4H0k) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [shame](https://open.spotify.com/album/2EOpw6eAEYA0atOPS2Csei) | 2:52 | 2023-04-23 |  |
 | [she knows it](https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [she knows it](https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD) | 2:36 | 2021-12-10 | 2022-11-05 |
 | [She Likes My Tattoos](https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [She Likes My Tattoos](https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7) | 2:44 | 2022-08-02 |  |
 | [Shhhh! Golf is On](https://open.spotify.com/track/5X8xbnM1OUIHptbkXhOG5P) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Shhhh! Golf is On](https://open.spotify.com/album/5IDAHjsSQvZr1bzQHb7QrD) | 2:44 | 2023-04-10 |  |

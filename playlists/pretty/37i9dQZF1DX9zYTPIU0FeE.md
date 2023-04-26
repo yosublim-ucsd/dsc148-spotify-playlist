@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/27MxvuyBenjamin Jephta</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,265 likes - 51 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,272 likes - 51 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

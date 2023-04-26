@@ -1192,7 +1192,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 194050,
       "name": "High On You",
       "url": "https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY"
@@ -1366,7 +1366,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 332960,
       "name": "I Can't Make You Love Me",
       "url": "https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8"
@@ -1714,6 +1714,24 @@
       "duration_ms": 198220,
       "name": "Keep Your Head Up Princess",
       "url": "https://open.spotify.com/track/19pChrR4hwdINqoOFUo2Hj"
+    },
+    {
+      "album": {
+        "name": "King of a Land",
+        "url": "https://open.spotify.com/album/1qocDvSTyeZxCa2MbW5YcE"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254426,
+      "name": "King of a Land",
+      "url": "https://open.spotify.com/track/7ccZ3toxjL7khuJWMKGEIx"
     },
     {
       "album": {
@@ -3280,7 +3298,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 268461,
       "name": "Unload the Gun",
       "url": "https://open.spotify.com/track/3P6c5Xx54qDFw8xniwrUMX"
@@ -3580,6 +3598,24 @@
       "duration_ms": 272426,
       "name": "Ya Ya(\u3042\u306e\u6642\u4ee3\u3092\u5fd8\u308c\u306a\u3044)",
       "url": "https://open.spotify.com/track/2mFs8J6jiK8ardI4NjhqqH"
+    },
+    {
+      "album": {
+        "name": "BUDDY CLUB",
+        "url": "https://open.spotify.com/album/0nNF3J9mHGy8v07hWoBLiI"
+      },
+      "artists": [
+        {
+          "name": "TENDOUJI",
+          "url": "https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242333,
+      "name": "YD9000",
+      "url": "https://open.spotify.com/track/3qDLobOOINoYaDocsMeIJR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xLYXWDEy9Z.md) - [plain]
 
 > <a href="spotify:artist:4Z99ysbztLlZqmYK3urV7w ">Paige</a> has been blurring the lines between Deep House and Melodic Techno, and his latest mix brings exactly that.
 
-[Spotify](https://open.spotify.com/user/spotify) - 553 likes - 12 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 554 likes - 12 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

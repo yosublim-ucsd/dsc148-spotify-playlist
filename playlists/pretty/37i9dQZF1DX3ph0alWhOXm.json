@@ -1,12 +1,12 @@
 {
   "description": "There's no such thing as \"too much fun.\" Let these country songs keep the party going!",
-  "num_followers": 147115,
+  "num_followers": 147202,
   "original_name": "Drinkin' Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDVjMTQzNjQ5YTY5ZjA1NzY0YjU0OGFiZmE1NTVmMmM0",
+  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDA0ZTBjYzE1Y2NlMjU5NWZhNDc4ZDI4NGZjYjQ2MmRl",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
@@ -347,8 +347,8 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "RISER",
-        "url": "https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU"
+        "name": "Dierks Bentley",
+        "url": "https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
         }
       ],
-      "duration_ms": 254466,
-      "name": "Drunk On A Plane",
-      "url": "https://open.spotify.com/track/1soxUgYIZb1qx1c7o1Lc7z"
+      "duration_ms": 260826,
+      "name": "What Was I Thinkin'",
+      "url": "https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -519,8 +519,8 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Dierks Bentley",
-        "url": "https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ"
+        "name": "RISER",
+        "url": "https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
         }
       ],
-      "duration_ms": 260826,
-      "name": "What Was I Thinkin'",
-      "url": "https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8"
+      "duration_ms": 254466,
+      "name": "Drunk On A Plane",
+      "url": "https://open.spotify.com/track/1soxUgYIZb1qx1c7o1Lc7z"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "High Noon",
-        "url": "https://open.spotify.com/album/0uQnXXbHhO6BQ1vFcwMwT8"
-      },
-      "artists": [
-        {
-          "name": "Jerrod Niemann",
-          "url": "https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7"
-        }
-      ],
-      "duration_ms": 224813,
-      "name": "Drink to That All Night",
-      "url": "https://open.spotify.com/track/3M31S6f0z8S3nkFh3eS06W"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "They Don't Know",
         "url": "https://open.spotify.com/album/64IFfMf7W67CLvXaYeRNB6"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 203293,
       "name": "Any Ol' Barstool",
       "url": "https://open.spotify.com/track/4T5Z4mbTe7kuGqgLpaRtTh"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "High Noon",
+        "url": "https://open.spotify.com/album/0uQnXXbHhO6BQ1vFcwMwT8"
+      },
+      "artists": [
+        {
+          "name": "Jerrod Niemann",
+          "url": "https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7"
+        }
+      ],
+      "duration_ms": 224813,
+      "name": "Drink to That All Night",
+      "url": "https://open.spotify.com/track/3M31S6f0z8S3nkFh3eS06W"
     },
     {
       "added_at": "2023-04-07 04:00:00",

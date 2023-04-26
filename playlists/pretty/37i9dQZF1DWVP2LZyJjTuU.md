@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP2LZyJjTuU.md) - [plain]
 
 > Melodic Techno & Dance Lover  <a href="spotify:artist:7rznn3BVOuA5jyPB275jmS">AVIRA</a> join us this week with an enchanting mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412 likes - 13 songs - 59 min 11 sec
+[Spotify](https://open.spotify.com/user/spotify) - 413 likes - 13 songs - 59 min 11 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

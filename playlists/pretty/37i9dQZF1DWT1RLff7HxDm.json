@@ -1,12 +1,12 @@
 {
   "description": "All live, all blues. Cover: Jackie Venson",
-  "num_followers": 153911,
+  "num_followers": 154006,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMGMxZjM4M2I3Y2VkMjEwMjI3ZWI5OGFjMTlhMjUxN2Mx",
+  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDYyNjkzNjgxN2ZlOTE0Mzg3YmJmMDg1ZGU2NTdmMzRi",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -307,18 +307,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live North America 2016",
-        "url": "https://open.spotify.com/album/7ylR7WyMyjtaq0eQBHmHyN"
+        "name": "Live",
+        "url": "https://open.spotify.com/album/1JWPmLxchThxITEJDKXK8B"
       },
       "artists": [
         {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+          "name": "King King",
+          "url": "https://open.spotify.com/artist/4SXsNXgRundFdewI58vbZT"
         }
       ],
-      "duration_ms": 338226,
-      "name": "The Healing - Live",
-      "url": "https://open.spotify.com/track/7ps563YUuN1flAFngUcvJg"
+      "duration_ms": 386853,
+      "name": "Wait on Time - Live",
+      "url": "https://open.spotify.com/track/7Dpg9MtXvP4SmT5JCHJOMk"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -339,18 +339,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/1JWPmLxchThxITEJDKXK8B"
+        "name": "Live North America 2016",
+        "url": "https://open.spotify.com/album/7ylR7WyMyjtaq0eQBHmHyN"
       },
       "artists": [
         {
-          "name": "King King",
-          "url": "https://open.spotify.com/artist/4SXsNXgRundFdewI58vbZT"
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
         }
       ],
-      "duration_ms": 386853,
-      "name": "Wait on Time - Live",
-      "url": "https://open.spotify.com/track/7Dpg9MtXvP4SmT5JCHJOMk"
+      "duration_ms": 338226,
+      "name": "The Healing - Live",
+      "url": "https://open.spotify.com/track/7ps563YUuN1flAFngUcvJg"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -457,22 +457,6 @@
       "url": "https://open.spotify.com/track/1HlAG7ceza8IDx7adue0Ch"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Live In San Diego '74",
-        "url": "https://open.spotify.com/album/1uZboHwC6BiYuXGFZbcyYT"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 571280,
-      "name": "I Wonder Who - Live At The San Diego Civic Center, CA, USA / 1974",
-      "url": "https://open.spotify.com/track/2WKH5jsAtRY3zDbx2OoO5y"
-    },
-    {
       "added_at": "2020-10-30 17:47:12",
       "album": {
         "name": "Gary Clark Jr. Live",
@@ -503,6 +487,22 @@
       "duration_ms": 437358,
       "name": "Judgment Day",
       "url": "https://open.spotify.com/track/3xWp7bPsKMk17yManeHBgU"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Live In San Diego '74",
+        "url": "https://open.spotify.com/album/1uZboHwC6BiYuXGFZbcyYT"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 571280,
+      "name": "I Wonder Who - Live At The San Diego Civic Center, CA, USA / 1974",
+      "url": "https://open.spotify.com/track/2WKH5jsAtRY3zDbx2OoO5y"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/3rBYc8dlONJSWY6gJ3fUwQ"
     },
     {
-      "added_at": "2022-02-04 17:00:00",
-      "album": {
-        "name": "Mississippi Nights (Live)",
-        "url": "https://open.spotify.com/album/1cvWBICxDY8MTlff2niSji"
-      },
-      "artists": [
-        {
-          "name": "Mike Zito",
-          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
-        }
-      ],
-      "duration_ms": 300929,
-      "name": "Mississippi Nights - Live",
-      "url": "https://open.spotify.com/track/4FdgENJLxPqHFu9kX3iR4j"
-    },
-    {
       "added_at": "2020-10-30 17:47:12",
       "album": {
         "name": "Live At San Quentin",
@@ -651,6 +635,22 @@
       "duration_ms": 281866,
       "name": "Everyday I Have The Blues - Live (San Quentin)",
       "url": "https://open.spotify.com/track/0rTmNc15RZrI9EzBM7cE0L"
+    },
+    {
+      "added_at": "2022-02-04 17:00:00",
+      "album": {
+        "name": "Mississippi Nights (Live)",
+        "url": "https://open.spotify.com/album/1cvWBICxDY8MTlff2niSji"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        }
+      ],
+      "duration_ms": 300929,
+      "name": "Mississippi Nights - Live",
+      "url": "https://open.spotify.com/track/4FdgENJLxPqHFu9kX3iR4j"
     },
     {
       "added_at": "2021-09-17 04:02:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Recorded Live in Lafayette",
-        "url": "https://open.spotify.com/album/5MPnKRKqtWBELg7MAPW7W9"
+        "name": "Live In Europe",
+        "url": "https://open.spotify.com/album/2k7ALI83LeKL9ralSd7aqf"
       },
       "artists": [
         {
-          "name": "Sonny Landreth",
-          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
+          "name": "Tony Spinner",
+          "url": "https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z"
         }
       ],
-      "duration_ms": 272160,
-      "name": "Soul Salvation - Live",
-      "url": "https://open.spotify.com/track/6n4svbYjxBPTnDvitXKrhq"
+      "duration_ms": 230306,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/0MCX1OZzPjy91FYKQQJTKp"
     },
     {
       "added_at": "2020-10-30 17:47:12",

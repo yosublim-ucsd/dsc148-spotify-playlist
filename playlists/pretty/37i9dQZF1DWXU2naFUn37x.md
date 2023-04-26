@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > La casa dello street rap italiano\. Cover: Geolier
 
-[Spotify](https://open.spotify.com/user/spotify) - 835,290 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 835,374 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 46 | [Trendsetter](https://open.spotify.com/track/2SektBPshBcB4rLKQUxDQY) | [Vaz Tè](https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY) | [Trendsetter](https://open.spotify.com/album/7BnUlh1mAu8h3t9tSvuFJz) | 2:02 |
 | 47 | [Cicatrici \(feat\. Nabi\)](https://open.spotify.com/track/77FQ6iMaTn7fT9IMdMnpEn) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Nove Chiamate](https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy) | 2:30 |
 | 48 | [Vada come vada](https://open.spotify.com/track/5bJKrpclp5ZwxHjgMHQD9O) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [Vada come vada](https://open.spotify.com/album/1uiCVnEYRbmcRACX7cfq8S) | 2:27 |
-| 49 | [DIE YOUNG \(feat\. Vale Pain & Kid Yugi\)](https://open.spotify.com/track/2W8RVRL10rvjvt2WS5cZGi) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [DON DADA](https://open.spotify.com/album/1aElHPJaZyQZkJ2OIwXWAu) | 2:45 |
+| 49 | [DIE YOUNG \(feat\. Vale Pain & Kid Yugi\)](https://open.spotify.com/track/2W8RVRL10rvjvt2WS5cZGi) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [DON DADA](https://open.spotify.com/album/1aElHPJaZyQZkJ2OIwXWAu) | 2:45 |
 | 50 | [Libertà](https://open.spotify.com/track/4LGH4aHf7cnlyDym7hgX47) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Libertà](https://open.spotify.com/album/62L40Yc2xo7tqqSviIjXWW) | 2:21 |
 
 Snapshot ID: `MTY4MjM1MDQ2NSwwMDAwMDAwMDljOWQ0MDNhOTczMWYzMzExNjgwZDZlYjUzMWFhZjg3`

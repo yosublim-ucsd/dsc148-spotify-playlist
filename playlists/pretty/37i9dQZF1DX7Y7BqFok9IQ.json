@@ -1,12 +1,12 @@
 {
   "description": "The best of modern blues rock. Cover: Tyler Bryant & the Shakedown",
-  "num_followers": 156570,
+  "num_followers": 156818,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTY2MCwwMDAwMDAwMDZkNjcyMTM5NDc4ZjM5NTdlZTlhNjk1NTE0YWZhMjVl",
+  "snapshot_id": "MTY4MjQyNzQxOSwwMDAwMDAwMDA2OWFmOWIwM2E2NDJkOWRkMWYzNzcyNWIwYmY4NTc5",
   "tracks": [
     {
       "added_at": "2023-03-24 04:01:00",
@@ -55,6 +55,22 @@
       "duration_ms": 188182,
       "name": "Between Me and the Devil",
       "url": "https://open.spotify.com/track/3psWJDKW0A50XiCdqg4HVK"
+    },
+    {
+      "added_at": "2023-04-25 12:56:58",
+      "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 195358,
+      "name": "Bad Spell",
+      "url": "https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -871,22 +887,6 @@
       "duration_ms": 201586,
       "name": "Make Your Move",
       "url": "https://open.spotify.com/track/5uXlBb9vZ3ltzVpbVXAH5N"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 202917,
-      "name": "Holy Ghost Fire",
-      "url": "https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP"
     },
     {
       "added_at": "2022-08-26 04:02:00",

@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 175205,
+  "num_followers": 175331,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMGZlYjk2MjY3ZThlMzczOTQyZGU0OGViZmQ5OWViZWUw",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMGZlYzY3ZGMwMmNlY2E3YjI2NWQ5NTY2MDY1MDczMTM5",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Bullet",
-        "url": "https://open.spotify.com/album/31GP9htiyPg1uFYGXLV24h"
+        "name": "You Will Not Be Saved",
+        "url": "https://open.spotify.com/album/5Fv7nPEq5xHavK28lt8K5F"
       },
       "artists": [
         {
-          "name": "Hyro The Hero",
-          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
         }
       ],
-      "duration_ms": 173733,
-      "name": "Bullet - Single Version",
-      "url": "https://open.spotify.com/track/1R1B4ToHa8KZ4LAObK12Pv"
+      "duration_ms": 175586,
+      "name": "WWYDF",
+      "url": "https://open.spotify.com/track/52jC5QLj1sazMXPIxl68l0"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -839,18 +839,18 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "You Will Not Be Saved",
-        "url": "https://open.spotify.com/album/5Fv7nPEq5xHavK28lt8K5F"
+        "name": "Bullet",
+        "url": "https://open.spotify.com/album/31GP9htiyPg1uFYGXLV24h"
       },
       "artists": [
         {
-          "name": "Zero 9:36",
-          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
         }
       ],
-      "duration_ms": 175586,
-      "name": "WWYDF",
-      "url": "https://open.spotify.com/track/52jC5QLj1sazMXPIxl68l0"
+      "duration_ms": 173733,
+      "name": "Bullet - Single Version",
+      "url": "https://open.spotify.com/track/1R1B4ToHa8KZ4LAObK12Pv"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Heart Afire",
-        "url": "https://open.spotify.com/album/5p0C1yK4tbFdJXIeyHV1GK"
-      },
-      "artists": [
-        {
-          "name": "Prophets Of Rage",
-          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
-        }
-      ],
-      "duration_ms": 157656,
-      "name": "Heart Afire",
-      "url": "https://open.spotify.com/track/0xkCk9M0ebmQ3mysO27xlD"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Crooked Teeth (Deluxe)",
         "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 214170,
       "name": "None Of The Above",
       "url": "https://open.spotify.com/track/5x7gLFdQd10xz3AIzg7hgj"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Heart Afire",
+        "url": "https://open.spotify.com/album/5p0C1yK4tbFdJXIeyHV1GK"
+      },
+      "artists": [
+        {
+          "name": "Prophets Of Rage",
+          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
+        }
+      ],
+      "duration_ms": 157656,
+      "name": "Heart Afire",
+      "url": "https://open.spotify.com/track/0xkCk9M0ebmQ3mysO27xlD"
     },
     {
       "added_at": "2022-11-04 04:00:00",

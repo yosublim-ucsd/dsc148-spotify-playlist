@@ -4,7 +4,7 @@
 
 > edgy muziek met een rand uit eigen land\. cover: Wende
 
-72 songs - 3 hr 58 min
+73 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Binary](https://open.spotify.com/track/3gUUMVRtNe9hxD2JzJ6J4v) | [Wytiki](https://open.spotify.com/artist/0mzWYuMGJz6vrtg78cP7O4) | [Binary](https://open.spotify.com/album/6kZmUW4IoAWfZDcTr0nXaK) | 3:46 | 2023-02-23 |  |
 | [Caged Birds](https://open.spotify.com/track/2Kb0J8N4AG9Nn6Ew5bcEXv) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [Under Wishing Stars](https://open.spotify.com/album/2TbvOuz2VmxIw4B5Td6MK1) | 3:02 | 2023-03-16 |  |
 | [Caged Birds](https://open.spotify.com/track/3vIWEQx9ZvuPuYHKV1EmXn) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [Caged Birds](https://open.spotify.com/album/7qrCOjz9zwCbi1Ht3UvrPO) | 3:02 | 2023-02-23 | 2023-03-18 |
-| [Celeste](https://open.spotify.com/track/2rD1imFpKOmcJvFAnoblTZ) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Celeste](https://open.spotify.com/album/760ic1B3ypp3In340dQ0pC) | 2:52 | 2023-02-23 |  |
+| [Celeste](https://open.spotify.com/track/2rD1imFpKOmcJvFAnoblTZ) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Celeste](https://open.spotify.com/album/760ic1B3ypp3In340dQ0pC) | 2:52 | 2023-02-23 | 2023-04-26 |
+| [Celeste](https://open.spotify.com/track/43Bumpxqzt5AsQjSZWcp8A) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Honeycomb Shades](https://open.spotify.com/album/7omXNhCNZQn5DFs0kSjoY9) | 2:52 | 2023-03-31 |  |
 | [Child Of Sin](https://open.spotify.com/track/3ASAvmNlhz4VYt5iUApaHc) | [Kovacs](https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF), [Till Lindemann](https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP) | [Child Of Sin](https://open.spotify.com/album/1GUJ68BpXPPp98eAMzLT6N) | 3:50 | 2023-02-23 |  |
 | [Click Work Drop \- Ineffekt Remix](https://open.spotify.com/track/2CAzwfDMr6Vxi7tOHa4j5X) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh), [Ineffekt](https://open.spotify.com/artist/4gjrK1MHgJnPCESuzMtWXg) | [Click Work Drop \(Ineffekt Remix\)](https://open.spotify.com/album/5TrmHegiihRyXcd3i8O4ah) | 3:52 | 2023-02-23 |  |
 | [Closure](https://open.spotify.com/track/2FWpnZjDPW23wSRefDcVn9) | [Faint Louis](https://open.spotify.com/artist/6noj0RSKEQhY8LtQBeCmfz), [Eve Jones](https://open.spotify.com/artist/0HtGEZuGr7pnIgySImmPh2) | [Closure](https://open.spotify.com/album/5eRC43W4zUuunLZ4D3xZ2L) | 2:41 | 2023-02-23 |  |

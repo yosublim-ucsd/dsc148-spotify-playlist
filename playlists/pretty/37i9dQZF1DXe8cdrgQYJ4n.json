@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 12284,
+  "num_followers": 12313,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc1Mzg2NSwwMDAwMDAwMDk5OTdhZmU3ZWIzYWYxNGY2MzdiODVhNzJmY2MwOTdh",
+  "snapshot_id": "MTY4MDc1Mzg2NSwwMDAwMDAwMDg4YzI2ZGJjOWQyODE4MmVjNmIwYmQzMWQ0NDhiYjM2",
   "tracks": [
     {
       "added_at": "2023-04-06 04:04:25",
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-04-06 04:04:25",
       "album": {
-        "name": "Freaky",
-        "url": "https://open.spotify.com/album/1Z55bFaYwBmghHzXTpqWYp"
+        "name": "Wish & Wind",
+        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
       },
       "artists": [
         {
-          "name": "MIRANI",
-          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
         }
       ],
-      "duration_ms": 173960,
-      "name": "Freaky (Prod. GroovyRoom)",
-      "url": "https://open.spotify.com/track/4dDRXGfTI5mWBnDuVRxTLe"
+      "duration_ms": 217595,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/3OYuHSIBy3KrBDXG9Au5r8"
     },
     {
       "added_at": "2023-04-06 04:04:25",
@@ -723,18 +723,18 @@
     {
       "added_at": "2023-04-06 04:04:25",
       "album": {
-        "name": "Wish & Wind",
-        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
+        "name": "Freaky",
+        "url": "https://open.spotify.com/album/1Z55bFaYwBmghHzXTpqWYp"
       },
       "artists": [
         {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+          "name": "MIRANI",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
         }
       ],
-      "duration_ms": 217595,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/3OYuHSIBy3KrBDXG9Au5r8"
+      "duration_ms": 173960,
+      "name": "Freaky (Prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/4dDRXGfTI5mWBnDuVRxTLe"
     },
     {
       "added_at": "2023-04-06 04:04:25",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-04-06 04:04:25",
       "album": {
-        "name": "Work Later Drink Now S2, Pt. 3 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0Z5UmfvsfNUMVedakree1B"
-      },
-      "artists": [
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Cheers!",
-      "url": "https://open.spotify.com/track/2VFKbSBzOeLq3FFMcrkpXl"
-    },
-    {
-      "added_at": "2023-04-06 04:04:25",
-      "album": {
         "name": "Seoul Check-in OST Part 6",
         "url": "https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 191208,
       "name": "Check-In",
       "url": "https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5"
+    },
+    {
+      "added_at": "2023-04-06 04:04:25",
+      "album": {
+        "name": "Work Later Drink Now S2, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0Z5UmfvsfNUMVedakree1B"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Cheers!",
+      "url": "https://open.spotify.com/track/2VFKbSBzOeLq3FFMcrkpXl"
     },
     {
       "added_at": "2023-04-06 04:04:25",

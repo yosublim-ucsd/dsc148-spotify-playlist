@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Press play and dance away to your favorite electronic hits\. Cover: Sofi Tukker
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 116,917 likes - 148 songs - 7 hr 58 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 116,909 likes - 148 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

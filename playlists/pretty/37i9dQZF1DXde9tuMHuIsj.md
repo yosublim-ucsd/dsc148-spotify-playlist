@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcángel & Bizarrap
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,524,761 likes - 108 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,524,810 likes - 108 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 48 | [Demonios](https://open.spotify.com/track/5iIYO6gCVZOAdne3pYbooN) | [Wolf MIA](https://open.spotify.com/artist/3004nWNr1vK7anBcB3lFkb), [D2OS](https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz) | [Demonios](https://open.spotify.com/album/58HrGj3dXT14WOWWBAtcnm) | 2:22 |
 | 49 | [MÍRENME AHORA](https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 3:07 |
 | 50 | [Las Jordan](https://open.spotify.com/track/3dTfFNVkfGUAAsWa3ne3Ig) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 4:03 |
-| 51 | [El Anillo el Reloj](https://open.spotify.com/track/07oEiX9E5kBARkQuPlhj4m) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [El Anillo el Reloj](https://open.spotify.com/album/2DPU1QXFXARqUAPWtdSrIy) | 2:52 |
+| 51 | [El anillo el reloj rochyrd](https://open.spotify.com/track/3jhsxOZPvnXJSAjJy1NTlz) | [Elefgy](https://open.spotify.com/artist/5anGcJKUl5uWvs9WKOKYbr) | [El anillo el reloj rochyrd](https://open.spotify.com/album/75CxLbfmcV0kcD1tmDjjsK) | 2:52 |
 | 52 | [XNO](https://open.spotify.com/track/258ARGrVTgPMa15ehgpgcB) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [XNO](https://open.spotify.com/album/2wuaA1RoPCYb3GM7eV1PS6) | 3:08 |
 | 53 | [Conexiones](https://open.spotify.com/track/5ILe0JkahOZAZBiFJEDpMh) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Conexiones](https://open.spotify.com/album/5HcTCJlDxmXOaQ5IPaDBKz) | 3:21 |
 | 54 | [Nosotros](https://open.spotify.com/track/4o5kWgO8DVkEXO54fdXR3l) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Nosotros](https://open.spotify.com/album/1BiWw1GQjHsvqG4SZPYjaV) | 4:22 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 107 | [Hablando Claro 2](https://open.spotify.com/track/6WtFLzGMKMmY3Hvb1bl5pR) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb), [Los G4](https://open.spotify.com/artist/1uaiSMIzlh2Y6Fx4bC1c6s) | [Hablando Claro 2](https://open.spotify.com/album/3Sd9yX21R6KImYjHdgQMxb) | 2:54 |
 | 108 | [El Case](https://open.spotify.com/track/5iAcQOl6yTHdXm1CqlNVMq) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [El Case](https://open.spotify.com/album/00P66oToPdQ8UpgYQTSjKp) | 2:41 |
 
-Snapshot ID: `MTY4MjExODQxOSwwMDAwMDAwMGM4MzI1NGJjYzFkODQxMzNkOTBiNTYwZmQ3NmI2NjA4`
+Snapshot ID: `MTY4MjExODQxOSwwMDAwMDAwMDM5MGViMDIwYjE0NTJhNTE4MWMyODYyMTZkYTlmMmM1`

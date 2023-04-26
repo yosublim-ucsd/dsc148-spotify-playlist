@@ -4,7 +4,7 @@
 
 > Trending Sinhalese pop hits\. Cover \- DILU Beats
 
-205 songs - 12 hr 16 min
+206 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Mathaka Wedanawan](https://open.spotify.com/track/59OIWs6dJlaS85S4J01kVT) | [Sudeera Dilshan](https://open.spotify.com/artist/7gHkPTRQJ2DBMAqSvEgvzx), [Kanishka Akmeemana](https://open.spotify.com/artist/5AqMmzfIqQbN568bf1eX95) | [Mathaka Wedanawan](https://open.spotify.com/album/6CKJFlEJcHmQBSGfJIbFAB) | 3:29 | 2022-09-23 | 2022-12-01 |
 | [Mathake](https://open.spotify.com/track/0r1y5DUXbYuFoYGEnz4vfm) | [Kasun Randunu](https://open.spotify.com/artist/32FYnle6hUf3EII57Z9uwy), [Ravi Jay](https://open.spotify.com/artist/2OXLUIzYqgydsWcHh38LJ2) | [Mathake](https://open.spotify.com/album/5Cm4n9ujuLSgZzw66vfsoU) | 3:18 | 2022-07-15 | 2022-12-01 |
 | [Me Hitha Na Palu](https://open.spotify.com/track/1r5X6i6U11nStErNNd0opg) | [Dhyan Hewage](https://open.spotify.com/artist/3ES7kGNf8O344XSDG3kW8G), [Yuki Navaratne](https://open.spotify.com/artist/00ZpGGB5F7Ytw781Qsr1sR) | [Me Hitha Na Palu](https://open.spotify.com/album/18pO3n4X5utq5x0O0wl06l) | 3:08 | 2022-06-23 |  |
-| [Mekanam Pissuwak Bun](https://open.spotify.com/track/0xPSYC5I8gGolOJXpavhcn) | [Wasthi](https://open.spotify.com/artist/6SuMIiPGM6P4hLLNdT0nNt) | [Mekanam Pissuwak Bun](https://open.spotify.com/album/2LNW5DA1TNvuprDR5XIy31) | 3:17 | 2022-11-30 |  |
+| [Mekanam Pissuwak Bun](https://open.spotify.com/track/0xPSYC5I8gGolOJXpavhcn) | [Wasthi](https://open.spotify.com/artist/6SuMIiPGM6P4hLLNdT0nNt) | [Mekanam Pissuwak Bun](https://open.spotify.com/album/2LNW5DA1TNvuprDR5XIy31) | 3:17 | 2022-11-30 | 2023-04-26 |
+| [Mekanam Pissuwak Bun](https://open.spotify.com/track/3AdiMFHiJrb3d3DlPqtgKU) | [Wasthi](https://open.spotify.com/artist/6SuMIiPGM6P4hLLNdT0nNt) | [Mekanam Pissuwak Bun](https://open.spotify.com/album/0RqrfuXHZFlSJCD2v57NSN) | 3:17 | 2023-02-27 |  |
 | [Midune, Pt\. 2](https://open.spotify.com/track/3W0bXNin3tzHope7MUVVvh) | [Didula Tharusara](https://open.spotify.com/artist/0iGn2cVBaMBkEsxcLiwi9u), [Azim Ousman](https://open.spotify.com/artist/6Yu7WrUqltHbkBXZekd58r) | [Midune, Pt\. 2](https://open.spotify.com/album/76dBV0rlP6caO6WTn27laB) | 2:58 | 2022-06-16 | 2022-09-24 |
 | [Mithure \(with Chathuranga Shakthi & Madhavee Abayanayake\)](https://open.spotify.com/track/6tf5W3igpStLoEHOuPTYQE) | [Udana Dhananja Kodikara](https://open.spotify.com/artist/7ERe3tRyPHRV5H4r0KIWXt) | [Mithure \(with Chathuranga Shakthi & Madhavee Abayanayake\)](https://open.spotify.com/album/0TT8jE7NMreD9isuE7DNdR) | 5:56 | 2022-07-29 | 2022-09-24 |
 | [Mulawe](https://open.spotify.com/track/5uD17gOSGsnFgaqe9xFwX7) | [Mihiran](https://open.spotify.com/artist/5geuqF6BLOASj8FVq2Tbes) | [Mulawe](https://open.spotify.com/album/4MMgRRBqvX28YQt00pENmc) | 3:55 | 2022-06-16 |  |

@@ -4,7 +4,7 @@
 
 > Enjoy your perfect headphones jam with this eclectic collection of brilliantly produced and recorded tracks\. These can serve as audiophile reference tracks, but they are great music that can be enjoyed on any headphones or stereo as well!  <a href="spotify:user:spotify:playlist:37i9dQZF1DWWISLnAIWyCZ">Classical version here</a>.
 
-324 songs - 1 day 2 hr 41 min
+325 songs - 1 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Enjoy the Silence](https://open.spotify.com/track/6WK9dVrRABMkUXFLNlgWFh) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Singles 86\-98](https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT) | 4:15 | 2021-10-15 | 2022-07-29 |
 | [Enjoy the Silence](https://open.spotify.com/track/4wGSg2Qqpt2sGCWuAZj6EN) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Daniel Miller](https://open.spotify.com/artist/4zvLVP1siaenGVnUBDo2nt), [Phil Legg](https://open.spotify.com/artist/7CXlqxbfckEDH2hQMjrGyZ) | [Violator \| The 12" Singles](https://open.spotify.com/album/6nYdAmB6enE4lKlt4IHuVT) | 4:17 | 2022-07-20 |  |
 | [Enjoy the Silence \- 2006 Remaster](https://open.spotify.com/track/12Gbz1qkaCAFPGlYVVw6xZ) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Best of Depeche Mode, Volume 1](https://open.spotify.com/album/3PIszA6UT9iI99izK60AdV) | 4:13 | 2022-10-14 | 2022-11-13 |
+| [Existe Uma Voz](https://open.spotify.com/track/5bGMMNxjvlledmzq9dItvf) | [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3) | [Curyman](https://open.spotify.com/album/05NiQkAFwyas6XwckmzsJ8) | 3:45 | 2023-04-24 |  |
 | [feel away \(feat\. James Blake & Mount Kimbie\)](https://open.spotify.com/track/2CwUy8aMNWAislPr58fDvI) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [TYRON](https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj) | 3:20 | 2023-01-19 |  |
 | [Feel Like Going Home](https://open.spotify.com/track/4sz6SyP9dfIjuTZhL5uW1C) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 3:57 | 2022-10-14 |  |
 | [Feel Like Going Home](https://open.spotify.com/track/5WkPT3FGqyfWKh7lcqzlXD) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Folk Singer](https://open.spotify.com/album/5cLWh6nwcLUX2H4oGfW9Rx) | 3:57 | 2021-10-15 | 2022-07-29 |
@@ -279,7 +280,7 @@
 | [Take The Power Back](https://open.spotify.com/track/25CbtOzU8Pn17SAaXFjIR3) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 5:36 | 2021-10-15 |  |
 | [Talkin' Bout a Revolution](https://open.spotify.com/track/0YMFcrMtBowDdD5bPz0cgy) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 2:41 | 2021-10-15 |  |
 | [Teardrop](https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 5:30 | 2022-09-02 |  |
-| [Testarossa](https://open.spotify.com/track/5IvT4DjzrBA0pKFSjppqvM) | [Matt Lange](https://open.spotify.com/artist/2AmHV6vxRxvHdlxSHxnHE9) | [Altered Tensions \(The Answer to the Question You Forgot to Ask\)](https://open.spotify.com/album/2pWSPYemxEmUQyBDrbxmHX) | 4:29 | 2022-10-14 |  |
+| [Testarossa](https://open.spotify.com/track/5IvT4DjzrBA0pKFSjppqvM) | [Matt Lange](https://open.spotify.com/artist/2AmHV6vxRxvHdlxSHxnHE9) | [Altered Tensions \(The Answer to the Question You Forgot to Ask\)](https://open.spotify.com/album/2pWSPYemxEmUQyBDrbxmHX) | 4:29 | 2022-10-14 | 2023-04-26 |
 | [Testarossa \- Original Mix](https://open.spotify.com/track/1ON4DWnvnczxSGutEU1IbD) | [Matt Lange](https://open.spotify.com/artist/2AmHV6vxRxvHdlxSHxnHE9) | [Altered Tensions \- The Answer To The Question You Forgot To Ask](https://open.spotify.com/album/1jZHrIOO75Qd7hMa0r1otT) | 4:29 | 2021-10-15 | 2022-07-29 |
 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 | 2022-07-20 |  |
 | [Texas Sun](https://open.spotify.com/track/6Flu33CZc4xS2gkA6cRcNh) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/5BAukn6AWk5tubfqjtN8gd) | 4:12 | 2021-10-15 | 2022-07-29 |

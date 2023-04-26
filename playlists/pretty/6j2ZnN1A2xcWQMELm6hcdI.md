@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6j2ZnN1A2xcWQMELm6hcdI.md) - [plain]
 
 > On Fleek: Adj\. 1\) a state of completeness and flawlessness \[see: <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\]\. Cover: Chlöe
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 349,259 likes - 149 songs - 7 hr 23 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 349,245 likes - 149 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,7 +154,7 @@ pretty - [cumulative](/playlists/cumulative/6j2ZnN1A2xcWQMELm6hcdI.md) - [plain]
 | 144 | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \- Remix](https://open.spotify.com/track/67G6iaOw8DZqp1z8STR89R) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \[Remix\]](https://open.spotify.com/album/7swo0lVREzeFmLpCTKAkzs) | 3:49 |
 | 145 | [Super Star](https://open.spotify.com/track/0kyGwQwAXrKo5wxoMWva1j) | [LUNA](https://open.spotify.com/artist/56HZvtrzD82YKMGGJTlIG2), [Original Broadway Cast of KPOP](https://open.spotify.com/artist/6I2l37l0O5gjtj4dphiPST) | [Super Star](https://open.spotify.com/album/2F5VQ6qg0vWViic8rSFJ6p) | 4:09 |
 | 146 | [Lean In \(feat\. Bayanni\)](https://open.spotify.com/track/6qn6p5ew4CpkxwiWfcapeO) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5), [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Lean In \(feat\. Bayanni\)](https://open.spotify.com/album/3nhEm72CmZfeccLKAFAfZY) | 2:36 |
-| 147 | [Perfect](https://open.spotify.com/track/6WFw0Uu4yOL4FruGex6DKc) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Perfect](https://open.spotify.com/album/2N5BaKNkorev8tqkLpojdp) | 3:06 |
+| 147 | [](https://open.spotify.com/track/6WFw0Uu4yOL4FruGex6DKc) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Perfect](https://open.spotify.com/album/2N5BaKNkorev8tqkLpojdp) | 0:00 |
 | 148 | [Everything Is Boring](https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Everything Is Boring](https://open.spotify.com/album/3IVFpVQvospcyELiYdMlvX) | 2:56 |
 | 149 | [Flip A Switch\. \- Sped Up](https://open.spotify.com/track/0KGheDVtZf0HJNW44w792d) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Flip A Switch\. \(Sped Up\)](https://open.spotify.com/album/1JG0F1lN0d4lN6lj6nVgxD) | 3:05 |
 

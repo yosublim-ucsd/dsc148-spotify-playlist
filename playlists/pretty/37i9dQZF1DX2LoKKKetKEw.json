@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.   Get your fill of Afrobeats and Bible right here!  Cover: Uwa",
-  "num_followers": 41680,
+  "num_followers": 41830,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAyMzc3NiwwMDAwMDAwMGRlNjU4ZmU2YzQyMTI4NTU1Yjc5ZjRhMWFjNTliZWZj",
+  "snapshot_id": "MTY3NjAyMzc3NiwwMDAwMDAwMDQyNGE0OTZhYTNiZGEwMGUxNGU2Y2RmZmMyOTA4ZjU2",
   "tracks": [
     {
       "added_at": "2023-02-10 10:09:36",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Hold On Me",
-        "url": "https://open.spotify.com/album/3AD16GLcPl1toDt9qgqhE6"
-      },
-      "artists": [
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 172113,
-      "name": "Hold On Me",
-      "url": "https://open.spotify.com/track/0iYrbOzpIwEnKeRBHlB5tH"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "I Will Sing (Refreshed)",
         "url": "https://open.spotify.com/album/5MtpR8Yf1nlAwjGgu8gqKD"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 350847,
       "name": "I Will Sing (Refreshed)",
       "url": "https://open.spotify.com/track/76sNlwv6Jt2mTJDAzRfhxj"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Hold On Me",
+        "url": "https://open.spotify.com/album/3AD16GLcPl1toDt9qgqhE6"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 172113,
+      "name": "Hold On Me",
+      "url": "https://open.spotify.com/track/0iYrbOzpIwEnKeRBHlB5tH"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -979,6 +979,26 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
+        "name": "YOUR MIND",
+        "url": "https://open.spotify.com/album/3uCTyAK8W8KgNhOybwSox4"
+      },
+      "artists": [
+        {
+          "name": "Spillz Ochai",
+          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 175312,
+      "name": "YOUR MIND",
+      "url": "https://open.spotify.com/track/0KsRHhUgJKnxprKxC0nyiV"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
         "name": "NEVER FORGET",
         "url": "https://open.spotify.com/album/4hrg22mA1U6Jae5LRPNkgq"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 217959,
       "name": "NEVER FORGET",
       "url": "https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
-        "name": "Shalaye",
-        "url": "https://open.spotify.com/album/6oG5GAz0pv16zRyuHahRGw"
-      },
-      "artists": [
-        {
-          "name": "Benji Kasule",
-          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
-        },
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "Shalaye",
-      "url": "https://open.spotify.com/track/2I2nI93M7QVN0cg8CStNzr"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1047,22 +1047,22 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "YOUR MIND",
-        "url": "https://open.spotify.com/album/3uCTyAK8W8KgNhOybwSox4"
+        "name": "Shalaye",
+        "url": "https://open.spotify.com/album/6oG5GAz0pv16zRyuHahRGw"
       },
       "artists": [
         {
-          "name": "Spillz Ochai",
-          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
+          "name": "Benji Kasule",
+          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
         },
         {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
         }
       ],
-      "duration_ms": 175312,
-      "name": "YOUR MIND",
-      "url": "https://open.spotify.com/track/0KsRHhUgJKnxprKxC0nyiV"
+      "duration_ms": 169142,
+      "name": "Shalaye",
+      "url": "https://open.spotify.com/track/2I2nI93M7QVN0cg8CStNzr"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/4IPg0TIXt2teKZxvxnjJHr"
+      },
+      "artists": [
+        {
+          "name": "Konola",
+          "url": "https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t"
+        }
+      ],
+      "duration_ms": 196530,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/4yf7zNinhajeShvOXAHMuZ"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
         "name": "Highly Favoured",
         "url": "https://open.spotify.com/album/5EG3FrFomhVsocyhiwkJYA"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 180000,
       "name": "Highly Favoured",
       "url": "https://open.spotify.com/track/02JJjf7HWHylohQftv7muI"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
-        "name": "Valentine",
-        "url": "https://open.spotify.com/album/4IPg0TIXt2teKZxvxnjJHr"
-      },
-      "artists": [
-        {
-          "name": "Konola",
-          "url": "https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t"
-        }
-      ],
-      "duration_ms": 196530,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/4yf7zNinhajeShvOXAHMuZ"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Keep You",
-        "url": "https://open.spotify.com/album/0BjlOi4RHUtpOGVfSdQ9Qh"
-      },
-      "artists": [
-        {
-          "name": "Michael Oyo",
-          "url": "https://open.spotify.com/artist/4bA59rTPAmclKHXJMz06wB"
-        },
-        {
-          "name": "Mike Aremu",
-          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "Keep You",
-      "url": "https://open.spotify.com/track/0d733SKP4dbMEKzevQycYc"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "GOD'S LOVE",
         "url": "https://open.spotify.com/album/73GEyB7EE4XjzUVXiYCJGP"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 137064,
       "name": "GOD'S LOVE",
       "url": "https://open.spotify.com/track/1xcc6JnRYCf0Kbi3154MLp"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Keep You",
+        "url": "https://open.spotify.com/album/0BjlOi4RHUtpOGVfSdQ9Qh"
+      },
+      "artists": [
+        {
+          "name": "Michael Oyo",
+          "url": "https://open.spotify.com/artist/4bA59rTPAmclKHXJMz06wB"
+        },
+        {
+          "name": "Mike Aremu",
+          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
+        }
+      ],
+      "duration_ms": 171333,
+      "name": "Keep You",
+      "url": "https://open.spotify.com/track/0d733SKP4dbMEKzevQycYc"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1343,38 +1343,42 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Made Whole",
-        "url": "https://open.spotify.com/album/7B7LqjPV3iVz3Qa1oEN5lM"
+        "name": "Higher Life",
+        "url": "https://open.spotify.com/album/2gt5I6qjSVSt619rSAIlOg"
       },
       "artists": [
         {
-          "name": "Gil Joe",
-          "url": "https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h"
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
         }
       ],
-      "duration_ms": 212210,
-      "name": "Made Whole",
-      "url": "https://open.spotify.com/track/5k04oXnUohIKuaVSlDy0kV"
+      "duration_ms": 186000,
+      "name": "Conflicted",
+      "url": "https://open.spotify.com/track/2HXxWaxq54pRSJIrsosr4H"
     },
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/5CbmcYrGCMQxHsN0V2cy1x"
+        "name": "Show Dem",
+        "url": "https://open.spotify.com/album/6tKY5zhkNZZTRkegrw73zD"
       },
       "artists": [
         {
-          "name": "Kojo Dave",
-          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+          "name": "Paul Chisom",
+          "url": "https://open.spotify.com/artist/3EuZi8lRLkF7cQnI1hb2MV"
         },
         {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+          "name": "Banky W.",
+          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
         }
       ],
-      "duration_ms": 134217,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/6ExCacy2fhxX4dZjL0YPjf"
+      "duration_ms": 206897,
+      "name": "Show Dem",
+      "url": "https://open.spotify.com/track/3HUzd6rh0Seg1CNt6sUELc"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1399,22 +1403,22 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Higher Life",
-        "url": "https://open.spotify.com/album/2gt5I6qjSVSt619rSAIlOg"
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/5CbmcYrGCMQxHsN0V2cy1x"
       },
       "artists": [
         {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
         },
         {
-          "name": "Darla Baltazar",
-          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Conflicted",
-      "url": "https://open.spotify.com/track/2HXxWaxq54pRSJIrsosr4H"
+      "duration_ms": 134217,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/6ExCacy2fhxX4dZjL0YPjf"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1439,22 +1443,18 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Show Dem",
-        "url": "https://open.spotify.com/album/6tKY5zhkNZZTRkegrw73zD"
+        "name": "Made Whole",
+        "url": "https://open.spotify.com/album/7B7LqjPV3iVz3Qa1oEN5lM"
       },
       "artists": [
         {
-          "name": "Paul Chisom",
-          "url": "https://open.spotify.com/artist/3EuZi8lRLkF7cQnI1hb2MV"
-        },
-        {
-          "name": "Banky W.",
-          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
+          "name": "Gil Joe",
+          "url": "https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h"
         }
       ],
-      "duration_ms": 206897,
-      "name": "Show Dem",
-      "url": "https://open.spotify.com/track/3HUzd6rh0Seg1CNt6sUELc"
+      "duration_ms": 212210,
+      "name": "Made Whole",
+      "url": "https://open.spotify.com/track/5k04oXnUohIKuaVSlDy0kV"
     },
     {
       "added_at": "2023-02-10 10:09:36",

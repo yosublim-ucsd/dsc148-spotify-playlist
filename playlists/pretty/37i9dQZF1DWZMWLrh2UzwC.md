@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Agust D
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,004 likes - 83 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,010 likes - 83 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

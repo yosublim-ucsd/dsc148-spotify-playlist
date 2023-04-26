@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 122492,
+  "num_followers": 122505,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTUyNDAwOSwwMDAwMDAwMDJiMDYxYjQxOWJkN2VjMDVhNDlkYmZmYjc5YTU3NDYy",
+  "snapshot_id": "MTY4MTUyNDAwOSwwMDAwMDAwMGUyYmY3YWFmNDQyYzMyYjliODMwMGU1YWU0NDRiZmIx",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "SRA",
-        "url": "https://open.spotify.com/album/13AzeHpoKFRk6T2R9hsaGb"
-      },
-      "artists": [
-        {
-          "name": "Branko",
-          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
-        }
-      ],
-      "duration_ms": 209226,
-      "name": "SRA",
-      "url": "https://open.spotify.com/track/6J3FPGcMwdO1ik7sYRjKCF"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Bemb\u00e9",
         "url": "https://open.spotify.com/album/4gvhsXGJz2vzI16PJuFznV"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 197560,
       "name": "Bemb\u00e9",
       "url": "https://open.spotify.com/track/0yNL4Rma8wSmtBH39UuEUG"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "SRA",
+        "url": "https://open.spotify.com/album/13AzeHpoKFRk6T2R9hsaGb"
+      },
+      "artists": [
+        {
+          "name": "Branko",
+          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
+        }
+      ],
+      "duration_ms": 209226,
+      "name": "SRA",
+      "url": "https://open.spotify.com/track/6J3FPGcMwdO1ik7sYRjKCF"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Tierra del Fuego",
-        "url": "https://open.spotify.com/album/3bM79Y0P0jnhA6Yz8lE2Fa"
-      },
-      "artists": [
-        {
-          "name": "Tayhana",
-          "url": "https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg"
-        }
-      ],
-      "duration_ms": 234468,
-      "name": "Coraz\u00f3n Lleno de Mil Inviernos",
-      "url": "https://open.spotify.com/track/3rE9V4p5WkROR7ud2QG6Yh"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Mexican Superstar",
         "url": "https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 237000,
       "name": "Mexican Superstar",
       "url": "https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Tierra del Fuego",
+        "url": "https://open.spotify.com/album/3bM79Y0P0jnhA6Yz8lE2Fa"
+      },
+      "artists": [
+        {
+          "name": "Tayhana",
+          "url": "https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg"
+        }
+      ],
+      "duration_ms": 234468,
+      "name": "Coraz\u00f3n Lleno de Mil Inviernos",
+      "url": "https://open.spotify.com/track/3rE9V4p5WkROR7ud2QG6Yh"
     },
     {
       "added_at": "2022-12-21 17:17:38",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Mas Amable",
-        "url": "https://open.spotify.com/album/2WpHf0NARcxAamPoMSgCvM"
-      },
-      "artists": [
-        {
-          "name": "DJ Python",
-          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
-        }
-      ],
-      "duration_ms": 271573,
-      "name": "Descanse",
-      "url": "https://open.spotify.com/track/5sWwuI8g0WyZI3tddeU6WO"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Mirla",
         "url": "https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 238386,
       "name": "Jungla",
       "url": "https://open.spotify.com/track/4iS3nysui6BO2ljE6Z00yu"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Mas Amable",
+        "url": "https://open.spotify.com/album/2WpHf0NARcxAamPoMSgCvM"
+      },
+      "artists": [
+        {
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+        }
+      ],
+      "duration_ms": 271573,
+      "name": "Descanse",
+      "url": "https://open.spotify.com/track/5sWwuI8g0WyZI3tddeU6WO"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -683,18 +683,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Night in Tijuana",
-        "url": "https://open.spotify.com/album/4vKaGMoRdGVu6u6GJyqHTx"
+        "name": "Give It To The Music",
+        "url": "https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th"
       },
       "artists": [
         {
-          "name": "Kelman Duran",
-          "url": "https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd"
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
         }
       ],
-      "duration_ms": 170909,
-      "name": "Dancehall, Audubon Ballroom",
-      "url": "https://open.spotify.com/track/09LNA3vpPg0Zd3ghzTv5BN"
+      "duration_ms": 294250,
+      "name": "Give It To The Music",
+      "url": "https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -719,18 +719,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Give It To The Music",
-        "url": "https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th"
+        "name": "Night in Tijuana",
+        "url": "https://open.spotify.com/album/4vKaGMoRdGVu6u6GJyqHTx"
       },
       "artists": [
         {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+          "name": "Kelman Duran",
+          "url": "https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd"
         }
       ],
-      "duration_ms": 294250,
-      "name": "Give It To The Music",
-      "url": "https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI"
+      "duration_ms": 170909,
+      "name": "Dancehall, Audubon Ballroom",
+      "url": "https://open.spotify.com/track/09LNA3vpPg0Zd3ghzTv5BN"
     },
     {
       "added_at": "2022-08-18 23:29:09",

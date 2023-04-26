@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "The Melancholy Collection",
+        "url": "https://open.spotify.com/album/067QwBKRZ6DoF2X4ZT4S2V"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115319,
+      "name": "A Whole Lot Less",
+      "url": "https://open.spotify.com/track/5bT1X7cPnnQHr7bUpsTsBI"
+    },
+    {
+      "album": {
         "name": "True Brew",
         "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
       },

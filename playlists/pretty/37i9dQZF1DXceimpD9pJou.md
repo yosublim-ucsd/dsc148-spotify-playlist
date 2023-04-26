@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto:   <a href="https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe?si=Ya3sKfinRXiQeDtwwSzpkw">Carla Morrison</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,683 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,792 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 27 | [Lo Puedes Todo](https://open.spotify.com/track/44mNmyUsZz9OXtEG4AKoYL) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75) | [Lo Puedes Todo](https://open.spotify.com/album/6SZ4nVSq297DZk0TAFqhPr) | 4:59 |
 | 28 | [Solo Cristo](https://open.spotify.com/track/5mWLbn5NBU5uhVJrYGdWRT) | [Titus Naveja](https://open.spotify.com/artist/3UkozH5W5OVm6KrpEbvDQQ), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Solo Cristo](https://open.spotify.com/album/46R5v469YpWp9PXAnGOxpk) | 5:15 |
 | 29 | [En casa de papá \- En vivo](https://open.spotify.com/track/6H9e3c3JfpOe2NynvNct4f) | [Factor de Cambio](https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb), [Selah Worship](https://open.spotify.com/artist/5pkxw9IRzdoM4QpxMi1YNA) | [En casa de papá \(En vivo\)](https://open.spotify.com/album/52NPltumrGeukrPEo2m6Fs) | 5:45 |
-| 30 | [Danzare](https://open.spotify.com/track/53Ua5aEgNbaFNI7w0j8ttw) | [ORU Worship](https://open.spotify.com/artist/3XvSZYeUxdDanuZzJJ8Uuv) | [Danzare](https://open.spotify.com/album/3XBSouiYdwrmNZdPTA0cpH) | 4:19 |
+| 30 | [Danzaré](https://open.spotify.com/track/53Ua5aEgNbaFNI7w0j8ttw) | [ORU Worship](https://open.spotify.com/artist/3XvSZYeUxdDanuZzJJ8Uuv) | [Danzaré](https://open.spotify.com/album/3XBSouiYdwrmNZdPTA0cpH) | 4:19 |
 | 31 | [Tu Autoridad](https://open.spotify.com/track/0ciNudJhfiMWE48PBGW0zB) | [René González](https://open.spotify.com/artist/65cuDgm56bv2MhCytEVRRF) | [Tu Autoridad](https://open.spotify.com/album/40MFlVfN4uVqGzDWKF4xhl) | 4:01 |
 | 32 | [Vive Jesús](https://open.spotify.com/track/0EW3TYY9Rm5cBj7eNWkvVh) | [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu) | [Vive Jesús](https://open.spotify.com/album/60u3ruNLOYMX2ixpVr7uBR) | 4:12 |
 | 33 | [Maravilloso](https://open.spotify.com/track/0MKePz6Snq1BWsbEkiQ4D8) | [Patty Gleason](https://open.spotify.com/artist/2vLptSd6u5kZKCGBkXIJBJ) | [Maravilloso](https://open.spotify.com/album/049pfiNcnt774C8l6slhUj) | 4:48 |

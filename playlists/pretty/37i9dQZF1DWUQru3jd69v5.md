@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Niky Savage in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,191 likes - 55 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,213 likes - 55 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 9 | [X\-ADV](https://open.spotify.com/track/2c7ikfs0Skm2IZvK1NPWPr) | [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ) | [X\-ADV](https://open.spotify.com/album/1ZRW1uKdIDsSZ9Lf81o5pq) | 2:37 |
 | 10 | [Snobbava](https://open.spotify.com/track/7KGOocrNaKZBPQr4VLDz49) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Snobbava](https://open.spotify.com/album/0I4nw0CPX7J1MLRzy9jBXs) | 2:33 |
 | 11 | [MISTRESS](https://open.spotify.com/track/1vT1yACp1rSZCvq6QEjUwd) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [MISTRESS](https://open.spotify.com/album/3zUKwXcMpAuxPCTRwSZQao) | 2:36 |
-| 12 | [Progressi \(feat\. Vale pain\)](https://open.spotify.com/track/1Pyj0bfp0E6xvDjJdBR662) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [Progressi \(feat\. Vale pain\)](https://open.spotify.com/album/4TXJALE2louD30G0onu9zl) | 2:30 |
+| 12 | [Progressi \(feat\. Vale pain\)](https://open.spotify.com/track/1Pyj0bfp0E6xvDjJdBR662) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [Progressi \(feat\. Vale pain\)](https://open.spotify.com/album/4TXJALE2louD30G0onu9zl) | 2:30 |
 | 13 | [4088 \(feat\. RRARI DAL TACCO, Nathys, Young Hash & Blocka Beatz\)](https://open.spotify.com/track/4L0XMwD32Mq76N3agNpoKG) | [Welo](https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Blocka Beatz](https://open.spotify.com/artist/1AnTVUsrFRQ3HBhpUZHi5p) | [4088 \(feat\. RRARI DAL TACCO, Nathys, Young Hash & Blocka Beatz\)](https://open.spotify.com/album/47I5eWAahrkjPWPXXcLcG8) | 3:24 |
 | 14 | [Notte in Caserma](https://open.spotify.com/track/7e13N2FGtTbGDLToobRfxw) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Notte in Caserma](https://open.spotify.com/album/38Ul6msWrKeRIlUP60pMU3) | 2:42 |
 | 15 | [Jeans](https://open.spotify.com/track/5uDfwhjhSyBRR3OZFVnsbn) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Globo](https://open.spotify.com/album/1a20TRiV239oyveyPVEBR7) | 2:38 |

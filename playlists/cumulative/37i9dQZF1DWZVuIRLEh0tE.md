@@ -4,7 +4,7 @@
 
 > El sonido urbano de RD, pa' lo tígueres de alta gama\. En portada: Bulin 47
 
-139 songs - 6 hr 53 min
+140 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Dinero](https://open.spotify.com/track/3VxgFji6Yqtn8eSjiRAfy9) | [Harryson](https://open.spotify.com/artist/1x9Om8FmNPwwRjRFPnVVgm), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI) | [Dinero](https://open.spotify.com/album/6h9dkQ3QFyf8v17w2XOdyT) | 3:00 | 2022-11-25 |  |
 | [Doggy Doggy](https://open.spotify.com/track/5WOzZJJJIEuh0thdCS0LkF) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Doggy Doggy](https://open.spotify.com/album/4meeL0ZVvnYmaEjA8iz7HX) | 4:08 | 2023-03-17 |  |
 | [E'ta Niña](https://open.spotify.com/track/2QwxBdBlYO9fIc7ggzu3r4) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [MelyMel](https://open.spotify.com/artist/4tM8sp8yDce3Km1pYHQb6Y) | [E'ta Niña](https://open.spotify.com/album/3YbxIXdJvyyi031W3nF8EF) | 2:24 | 2022-03-15 | 2022-04-15 |
-| [El Anillo el Reloj](https://open.spotify.com/track/07oEiX9E5kBARkQuPlhj4m) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [El Anillo el Reloj](https://open.spotify.com/album/2DPU1QXFXARqUAPWtdSrIy) | 2:52 | 2023-02-17 |  |
+| [El Anillo el Reloj](https://open.spotify.com/track/07oEiX9E5kBARkQuPlhj4m) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [El Anillo el Reloj](https://open.spotify.com/album/2DPU1QXFXARqUAPWtdSrIy) | 2:52 | 2023-02-17 | 2023-04-26 |
+| [El anillo el reloj rochyrd](https://open.spotify.com/track/3jhsxOZPvnXJSAjJy1NTlz) | [Elefgy](https://open.spotify.com/artist/5anGcJKUl5uWvs9WKOKYbr) | [El anillo el reloj rochyrd](https://open.spotify.com/album/75CxLbfmcV0kcD1tmDjjsK) | 2:52 | 2023-03-17 |  |
 | [El Coba](https://open.spotify.com/track/1lh3TDFVCmgOE6szIPwoIK) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [El Coba](https://open.spotify.com/album/3Ox4ItzjaafKDpKixWNy7O) | 2:03 | 2022-03-15 |  |
 | [El Toro](https://open.spotify.com/track/5fCLXGmn6hq4XhWLwoWJyv) | [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [El Toro](https://open.spotify.com/album/77cUCnK4xklADFgpBcJDtk) | 2:40 | 2022-05-20 |  |
 | [Ella No Es Tuya \- Remix](https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ella No Es Tuya \(Remix\)](https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA) | 3:38 | 2022-03-15 | 2023-04-22 |

@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Can\u00e7\u00e3o & Louvor",
-  "num_followers": 68924,
+  "num_followers": 69147,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0NjAwMCwwMDAwMDAwMDM4ZDdkMTViYzNhOTI5NzczN2E2Y2VjZmNiMzAxNGEx",
+  "snapshot_id": "MTY4MjA0NjAwMCwwMDAwMDAwMGQ3YjNiNjAzYjlhM2E5NTNiMDhlYjFmY2UzMDM4MzAw",
   "tracks": [
     {
       "added_at": "2023-04-21 03:00:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "O Processo",
-        "url": "https://open.spotify.com/album/07f2j4GJrhf2vDPCSQpt4O"
-      },
-      "artists": [
-        {
-          "name": "Suellen Brum",
-          "url": "https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX"
-        }
-      ],
-      "duration_ms": 290816,
-      "name": "O Processo",
-      "url": "https://open.spotify.com/track/44BsTP3MwFY22X1YijTcHM"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "N\u00e3o Pare Agora",
         "url": "https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 269775,
       "name": "N\u00e3o Pare Agora",
       "url": "https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "O Processo",
+        "url": "https://open.spotify.com/album/07f2j4GJrhf2vDPCSQpt4O"
+      },
+      "artists": [
+        {
+          "name": "Suellen Brum",
+          "url": "https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX"
+        }
+      ],
+      "duration_ms": 290816,
+      "name": "O Processo",
+      "url": "https://open.spotify.com/track/44BsTP3MwFY22X1YijTcHM"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Jesus e Eu",
+        "url": "https://open.spotify.com/album/3yirJSowuG0LVwqiuOjN8l"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        }
+      ],
+      "duration_ms": 242909,
+      "name": "O Amor de Deus",
+      "url": "https://open.spotify.com/track/33EQhf72X79yomlKYCkIlf"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "Eu N\u00e3o Era Nada",
         "url": "https://open.spotify.com/album/31ptNMzkQSqJAx1W1ir9c9"
       },
@@ -851,18 +867,18 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Jesus e Eu",
-        "url": "https://open.spotify.com/album/3yirJSowuG0LVwqiuOjN8l"
+        "name": "O Noivo Vir\u00e1",
+        "url": "https://open.spotify.com/album/6W6VSlerbFI3dvGgiOX7pE"
       },
       "artists": [
         {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 242909,
-      "name": "O Amor de Deus",
-      "url": "https://open.spotify.com/track/33EQhf72X79yomlKYCkIlf"
+      "duration_ms": 389634,
+      "name": "O Noivo Vir\u00e1",
+      "url": "https://open.spotify.com/track/4H5tuVx6j0UqcWVAaJt9qu"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -879,22 +895,6 @@
       "duration_ms": 324357,
       "name": "Eu Sou Uma P\u00e9rola (Ao Vivo)",
       "url": "https://open.spotify.com/track/04j8b2mVmbwomOrMmOWOt7"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "O Noivo Vir\u00e1",
-        "url": "https://open.spotify.com/album/6W6VSlerbFI3dvGgiOX7pE"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 389634,
-      "name": "O Noivo Vir\u00e1",
-      "url": "https://open.spotify.com/track/4H5tuVx6j0UqcWVAaJt9qu"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Eu Te Toquei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1y157yrC9IY6bVjkkJrrDn"
-      },
-      "artists": [
-        {
-          "name": "Nath\u00e1lia Braga",
-          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
-        }
-      ],
-      "duration_ms": 319018,
-      "name": "Eu Te Toquei - Ao Vivo",
-      "url": "https://open.spotify.com/track/1iLSgpZIY86S7sNElnJnYp"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Medley (Revestido de Gl\u00f3ria / Desemborca o Vaso / Receba de Deus / Festa no C\u00e9u / Fogo Santo / Aqui Tem Gl\u00f3ria) (Ao Vivo)",
         "url": "https://open.spotify.com/album/6Be9JdrnglYnu86FhhXJPi"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 493999,
       "name": "Medley (Revestido de Gl\u00f3ria / Desemborca o Vaso / Receba de Deus / Festa no C\u00e9u / Fogo Santo / Aqui Tem Gl\u00f3ria) (Ao Vivo)",
       "url": "https://open.spotify.com/track/5p63CZ4R0gUE30iL1TbarD"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Eu Te Toquei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1y157yrC9IY6bVjkkJrrDn"
+      },
+      "artists": [
+        {
+          "name": "Nath\u00e1lia Braga",
+          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
+        }
+      ],
+      "duration_ms": 319018,
+      "name": "Eu Te Toquei - Ao Vivo",
+      "url": "https://open.spotify.com/track/1iLSgpZIY86S7sNElnJnYp"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Um Sobrevivente",
+        "url": "https://open.spotify.com/album/5JwSIQA3LBUn1kNyfkEBBk"
+      },
+      "artists": [
+        {
+          "name": "Eurice Diniz",
+          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
+        }
+      ],
+      "duration_ms": 301162,
+      "name": "Um Sobrevivente",
+      "url": "https://open.spotify.com/track/41c1SU8uL9siz1xf7akQCX"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "Nunca Foi Sorte (Ao Vivo)",
         "url": "https://open.spotify.com/album/5o0Foz8gmXqmP0xS2yx6uC"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 344000,
       "name": "Nunca Foi Sorte (Ao Vivo)",
       "url": "https://open.spotify.com/track/0SuCzPj1jCFS2Sp6MKWbML"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "Um Sobrevivente",
-        "url": "https://open.spotify.com/album/5JwSIQA3LBUn1kNyfkEBBk"
-      },
-      "artists": [
-        {
-          "name": "Eurice Diniz",
-          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
-        }
-      ],
-      "duration_ms": 301162,
-      "name": "Um Sobrevivente",
-      "url": "https://open.spotify.com/track/41c1SU8uL9siz1xf7akQCX"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Vai Ter Festa",
+        "url": "https://open.spotify.com/album/7qIy0gZAG6rClu3mi6dPXX"
+      },
+      "artists": [
+        {
+          "name": "Jana de Paula",
+          "url": "https://open.spotify.com/artist/3Lr6AuHiJDlxtvz42oAL3K"
+        }
+      ],
+      "duration_ms": 329395,
+      "name": "Vai Ter Festa",
+      "url": "https://open.spotify.com/track/7vKRhq3hoqNyzn6KGcVEF3"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "Voc\u00ea Disse",
         "url": "https://open.spotify.com/album/4uqGFeLGkX5Yt6hNSHHDQ8"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 315022,
       "name": "Vai Passar (Ao Vivo)",
       "url": "https://open.spotify.com/track/6PaBG1inu5x0KbvaCuNeUo"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "Vai Ter Festa",
-        "url": "https://open.spotify.com/album/7qIy0gZAG6rClu3mi6dPXX"
-      },
-      "artists": [
-        {
-          "name": "Jana de Paula",
-          "url": "https://open.spotify.com/artist/3Lr6AuHiJDlxtvz42oAL3K"
-        }
-      ],
-      "duration_ms": 329395,
-      "name": "Vai Ter Festa",
-      "url": "https://open.spotify.com/track/7vKRhq3hoqNyzn6KGcVEF3"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Prepare o Culto",
-        "url": "https://open.spotify.com/album/12C4OeuJKGdvKWCpvSMOHN"
-      },
-      "artists": [
-        {
-          "name": "Elaine de Jesus",
-          "url": "https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ"
-        }
-      ],
-      "duration_ms": 360909,
-      "name": "Prepare o Culto",
-      "url": "https://open.spotify.com/track/0KJHv0DwTV3gtU5VDj0BlG"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Ele Est\u00e1 Comigo",
         "url": "https://open.spotify.com/album/6ovBjw3WGaPnu2TxE9badP"
       },
@@ -1407,22 +1391,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Basta uma Palavra",
-        "url": "https://open.spotify.com/album/1GDrhQp5Q0xL0GrmNPPeCN"
-      },
-      "artists": [
-        {
-          "name": "Sandra Pires",
-          "url": "https://open.spotify.com/artist/2NHt4egawSl0pKxbF04Lhf"
-        }
-      ],
-      "duration_ms": 304938,
-      "name": "Basta uma Palavra",
-      "url": "https://open.spotify.com/track/0GaxofDWGJ4Gg8gbEMgn3R"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Deus Vai Agir (Ao Vivo)",
         "url": "https://open.spotify.com/album/7yARppxr1hG93yPKWIfgsA"
       },
@@ -1435,6 +1403,38 @@
       "duration_ms": 234093,
       "name": "Deus Vai Agir (Ao Vivo)",
       "url": "https://open.spotify.com/track/5vSTBOJukCTLSoQK5hkx2o"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Prepare o Culto",
+        "url": "https://open.spotify.com/album/12C4OeuJKGdvKWCpvSMOHN"
+      },
+      "artists": [
+        {
+          "name": "Elaine de Jesus",
+          "url": "https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ"
+        }
+      ],
+      "duration_ms": 360909,
+      "name": "Prepare o Culto",
+      "url": "https://open.spotify.com/track/0KJHv0DwTV3gtU5VDj0BlG"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Basta uma Palavra",
+        "url": "https://open.spotify.com/album/1GDrhQp5Q0xL0GrmNPPeCN"
+      },
+      "artists": [
+        {
+          "name": "Sandra Pires",
+          "url": "https://open.spotify.com/artist/2NHt4egawSl0pKxbF04Lhf"
+        }
+      ],
+      "duration_ms": 304938,
+      "name": "Basta uma Palavra",
+      "url": "https://open.spotify.com/track/0GaxofDWGJ4Gg8gbEMgn3R"
     },
     {
       "added_at": "2023-04-21 03:00:00",

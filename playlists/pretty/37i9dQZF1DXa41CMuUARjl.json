@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Rita Ora & Fatboy Slim.",
-  "num_followers": 431638,
+  "num_followers": 431844,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTY2MCwwMDAwMDAwMDgxYTQ2MThjNmE1NDNhODI3YjJiODM3YTIyZTYwNjc3",
+  "snapshot_id": "MTY4MjA0OTY2MCwwMDAwMDAwMDczMjBhYTFmNTM0YWJiOTdhMWU1YjM0NDY2YWE0NjFk",
   "tracks": [
     {
       "added_at": "2023-04-21 04:01:00",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "Alone in the Mountains",
+        "url": "https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 196707,
+      "name": "Alone in the Mountains",
+      "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "DO 4 LOVE (Black Coffee Remix)",
         "url": "https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 232720,
       "name": "Fine Day",
       "url": "https://open.spotify.com/track/7GAU8ZBz8oplZB8mXl7eHm"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Alone in the Mountains",
-        "url": "https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 196707,
-      "name": "Alone in the Mountains",
-      "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "So Much In Love",
+        "url": "https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "So Much In Love",
+      "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Blue In The Face",
         "url": "https://open.spotify.com/album/6UqdnruIxTdntsqhL9bSfW"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 166448,
       "name": "Blue In The Face",
       "url": "https://open.spotify.com/track/5z8uM7nBjl7kHGiYHvm94Z"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "So Much In Love",
-        "url": "https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        }
-      ],
-      "duration_ms": 178453,
-      "name": "So Much In Love",
-      "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -755,26 +755,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/0B6C6hoyHz6UbuWo0mxTXa"
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/2HD81FIC7edc7NBQ8B5yVr"
       },
       "artists": [
         {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
         },
         {
-          "name": "TRFN",
-          "url": "https://open.spotify.com/artist/5Wj4v7ri4aDONkGEIuo0zp"
-        },
-        {
-          "name": "ZHIKO",
-          "url": "https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166"
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
         }
       ],
-      "duration_ms": 123791,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/4Ra5XrfAB8Cwdi729MXdQ0"
+      "duration_ms": 146692,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -803,6 +799,30 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/0B6C6hoyHz6UbuWo0mxTXa"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        },
+        {
+          "name": "TRFN",
+          "url": "https://open.spotify.com/artist/5Wj4v7ri4aDONkGEIuo0zp"
+        },
+        {
+          "name": "ZHIKO",
+          "url": "https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166"
+        }
+      ],
+      "duration_ms": 123791,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/4Ra5XrfAB8Cwdi729MXdQ0"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Won\u2019t Follow You Home",
         "url": "https://open.spotify.com/album/0Rcx8Mli2qiRYiSKNQWQ3m"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 221102,
       "name": "Won\u2019t Follow You Home",
       "url": "https://open.spotify.com/track/5OMXaLXkmgvuIm33c4UrhH"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/2HD81FIC7edc7NBQ8B5yVr"
-      },
-      "artists": [
-        {
-          "name": "Lewis Thompson",
-          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
-        },
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        }
-      ],
-      "duration_ms": 146692,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "No One Knows We\u2019re Dancing",
-        "url": "https://open.spotify.com/album/5PL6Zdh0OfL9SArRQ5jYdy"
-      },
-      "artists": [
-        {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
-        }
-      ],
-      "duration_ms": 249026,
-      "name": "No One Knows We\u2019re Dancing",
-      "url": "https://open.spotify.com/track/4dSgscw3VbAMGE7E7mx8kL"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Want It All (feat. Evalyn) [No Rome Remix]",
         "url": "https://open.spotify.com/album/3eTdKK29tOmMrWRV1UXVPh"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 197250,
       "name": "Want It All (feat. Evalyn) - No Rome Remix",
       "url": "https://open.spotify.com/track/6c1rEkqbYJelZiFQvFwVuL"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "No One Knows We\u2019re Dancing",
+        "url": "https://open.spotify.com/album/5PL6Zdh0OfL9SArRQ5jYdy"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        }
+      ],
+      "duration_ms": 249026,
+      "name": "No One Knows We\u2019re Dancing",
+      "url": "https://open.spotify.com/track/4dSgscw3VbAMGE7E7mx8kL"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Flux",
-        "url": "https://open.spotify.com/album/3GtbQUvHi0aVVumCa6093z"
-      },
-      "artists": [
-        {
-          "name": "Set Mo",
-          "url": "https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj"
-        }
-      ],
-      "duration_ms": 203040,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/3YXTc9txD7OwGdkVkaoj5F"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Milkshake",
         "url": "https://open.spotify.com/album/4zSFzfRjEhNQv30O5en6rw"
       },
@@ -1219,22 +1203,6 @@
       "duration_ms": 414226,
       "name": "Milkshake",
       "url": "https://open.spotify.com/track/0sa9eAhDFupUOAxtGuwQZn"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "it\u2019ll all be oki",
-        "url": "https://open.spotify.com/album/6nuURRl7btR9pyVG7hEqvF"
-      },
-      "artists": [
-        {
-          "name": "obli",
-          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
-        }
-      ],
-      "duration_ms": 209954,
-      "name": "If I Begged You For Your Love",
-      "url": "https://open.spotify.com/track/6JCK0shst0vWKxHp49jAoL"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1255,22 +1223,34 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "PBJ",
-        "url": "https://open.spotify.com/album/6INzRJV3JKaf0I42L1tPZU"
+        "name": "Flux",
+        "url": "https://open.spotify.com/album/3GtbQUvHi0aVVumCa6093z"
       },
       "artists": [
         {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
-        },
-        {
-          "name": "NITTI",
-          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+          "name": "Set Mo",
+          "url": "https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj"
         }
       ],
-      "duration_ms": 168055,
-      "name": "PBJ",
-      "url": "https://open.spotify.com/track/0NmUL8gDbSDE3K7jBE4yFY"
+      "duration_ms": 203040,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/3YXTc9txD7OwGdkVkaoj5F"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "it\u2019ll all be oki",
+        "url": "https://open.spotify.com/album/6nuURRl7btR9pyVG7hEqvF"
+      },
+      "artists": [
+        {
+          "name": "obli",
+          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
+        }
+      ],
+      "duration_ms": 209954,
+      "name": "If I Begged You For Your Love",
+      "url": "https://open.spotify.com/track/6JCK0shst0vWKxHp49jAoL"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1307,6 +1287,26 @@
       "duration_ms": 196812,
       "name": "Out of Me",
       "url": "https://open.spotify.com/track/1WnCRRBTtKJptLEzeBBZeJ"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "PBJ",
+        "url": "https://open.spotify.com/album/6INzRJV3JKaf0I42L1tPZU"
+      },
+      "artists": [
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        },
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        }
+      ],
+      "duration_ms": 168055,
+      "name": "PBJ",
+      "url": "https://open.spotify.com/track/0NmUL8gDbSDE3K7jBE4yFY"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Never Dance Again",
-        "url": "https://open.spotify.com/album/3FOC9lnnk67fAMm7g3MO38"
-      },
-      "artists": [
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 192788,
-      "name": "Never Dance Again",
-      "url": "https://open.spotify.com/track/1F1z4H6hVC4wXSsPZKm8hV"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/1ngkXilbueu063Ktrpimvc"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 210967,
       "name": "Evolve",
       "url": "https://open.spotify.com/track/2DYs3OfhbkMI5kPGaeBFP8"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Never Dance Again",
+        "url": "https://open.spotify.com/album/3FOC9lnnk67fAMm7g3MO38"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 192788,
+      "name": "Never Dance Again",
+      "url": "https://open.spotify.com/track/1F1z4H6hVC4wXSsPZKm8hV"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Twist Forever",
-        "url": "https://open.spotify.com/album/1MZz37y9pvRaIjl3EpnqS6"
-      },
-      "artists": [
-        {
-          "name": "Jacana People",
-          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
-        },
-        {
-          "name": "Antony Szmierek",
-          "url": "https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn"
-        }
-      ],
-      "duration_ms": 184025,
-      "name": "Twist Forever",
-      "url": "https://open.spotify.com/track/5836gKVpkK56OO6358MBfZ"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Been Dreaming",
         "url": "https://open.spotify.com/album/1bWliHFn3fmwHKhF3dS5nN"
       },
@@ -1571,22 +1551,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Timing",
-        "url": "https://open.spotify.com/album/5anKzrN7ayHAH1ovbAvNa1"
+        "name": "Twist Forever",
+        "url": "https://open.spotify.com/album/1MZz37y9pvRaIjl3EpnqS6"
       },
       "artists": [
         {
-          "name": "Guy Gerber",
-          "url": "https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC"
+          "name": "Jacana People",
+          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
         },
         {
-          "name": "Thaddeus X",
-          "url": "https://open.spotify.com/artist/6v8WokMuxtTru5rOOQGFNW"
+          "name": "Antony Szmierek",
+          "url": "https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn"
         }
       ],
-      "duration_ms": 389920,
-      "name": "Timing",
-      "url": "https://open.spotify.com/track/6B1kDWl9wtCW2ikVuqtfXZ"
+      "duration_ms": 184025,
+      "name": "Twist Forever",
+      "url": "https://open.spotify.com/track/5836gKVpkK56OO6358MBfZ"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1643,6 +1623,26 @@
       "duration_ms": 456097,
       "name": "The Hi",
       "url": "https://open.spotify.com/track/3s4WU81N2Da2yMuafxSuPt"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Timing",
+        "url": "https://open.spotify.com/album/5anKzrN7ayHAH1ovbAvNa1"
+      },
+      "artists": [
+        {
+          "name": "Guy Gerber",
+          "url": "https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC"
+        },
+        {
+          "name": "Thaddeus X",
+          "url": "https://open.spotify.com/artist/6v8WokMuxtTru5rOOQGFNW"
+        }
+      ],
+      "duration_ms": 389920,
+      "name": "Timing",
+      "url": "https://open.spotify.com/track/6B1kDWl9wtCW2ikVuqtfXZ"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "BRAND NEW",
-        "url": "https://open.spotify.com/album/7kD7lN7gdyj2pi8QckKZ6g"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "capshun",
-          "url": "https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL"
-        }
-      ],
-      "duration_ms": 228924,
-      "name": "BRAND NEW",
-      "url": "https://open.spotify.com/track/253UblrXn0y0NMau5b7GjD"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Spanish Vibe (feat. Erez Netz)",
         "url": "https://open.spotify.com/album/4TSTYgmnQlXmBgUmILRzVq"
       },
@@ -1799,18 +1779,38 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/5T5amvYXnuiNKG47VLuMtP"
+        "name": "BRAND NEW",
+        "url": "https://open.spotify.com/album/7kD7lN7gdyj2pi8QckKZ6g"
       },
       "artists": [
         {
-          "name": "BRKLYN",
-          "url": "https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw"
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "capshun",
+          "url": "https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL"
         }
       ],
-      "duration_ms": 175081,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/483ZlZtG4y2pyysb7FMYzZ"
+      "duration_ms": 228924,
+      "name": "BRAND NEW",
+      "url": "https://open.spotify.com/track/253UblrXn0y0NMau5b7GjD"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Sunbeam",
+        "url": "https://open.spotify.com/album/4ALOW7mWWUvgIpYU92hFYb"
+      },
+      "artists": [
+        {
+          "name": "The Pressure",
+          "url": "https://open.spotify.com/artist/2VtyXxK4nmVyMRWrcJf8wN"
+        }
+      ],
+      "duration_ms": 160888,
+      "name": "Sunbeam",
+      "url": "https://open.spotify.com/track/1oKFu1naQxh16g1BgV2nBm"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1831,18 +1831,18 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Sunbeam",
-        "url": "https://open.spotify.com/album/4ALOW7mWWUvgIpYU92hFYb"
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/5T5amvYXnuiNKG47VLuMtP"
       },
       "artists": [
         {
-          "name": "The Pressure",
-          "url": "https://open.spotify.com/artist/2VtyXxK4nmVyMRWrcJf8wN"
+          "name": "BRKLYN",
+          "url": "https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw"
         }
       ],
-      "duration_ms": 160888,
-      "name": "Sunbeam",
-      "url": "https://open.spotify.com/track/1oKFu1naQxh16g1BgV2nBm"
+      "duration_ms": 175081,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/483ZlZtG4y2pyysb7FMYzZ"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1892,8 +1892,8 @@
           "url": "https://open.spotify.com/artist/0evBopfnhhbHzmHebWTDx7"
         },
         {
-          "name": "Franz Novotny",
-          "url": "https://open.spotify.com/artist/7CkhYUfBr2XJGje6NqH8mS"
+          "name": "Francis Novotny",
+          "url": "https://open.spotify.com/artist/1oSUUU9sEJ2FUhIBzR3oO1"
         }
       ],
       "duration_ms": 269869,
@@ -1955,26 +1955,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Better Love (I. JORDAN Remix)",
-        "url": "https://open.spotify.com/album/1L7lUpgWHSule0XwyEzAK8"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "I. JORDAN",
-          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
-        }
-      ],
-      "duration_ms": 309196,
-      "name": "Better Love - I. JORDAN Remix",
-      "url": "https://open.spotify.com/track/5FJcXOgZ1NFXX1iVJFTIy8"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "All I Wanted",
         "url": "https://open.spotify.com/album/2mDBYCu5MkD2mjT1V9NplS"
       },
@@ -1991,6 +1971,26 @@
       "duration_ms": 185217,
       "name": "All I Wanted",
       "url": "https://open.spotify.com/track/3wZ5vZfmCNc9tkKin2T4zS"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Better Love (I. JORDAN Remix)",
+        "url": "https://open.spotify.com/album/1L7lUpgWHSule0XwyEzAK8"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        }
+      ],
+      "duration_ms": 309196,
+      "name": "Better Love - I. JORDAN Remix",
+      "url": "https://open.spotify.com/track/5FJcXOgZ1NFXX1iVJFTIy8"
     },
     {
       "added_at": "2023-04-21 04:01:00",

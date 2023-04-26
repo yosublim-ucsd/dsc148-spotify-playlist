@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoZRFedvgBm.md) - [plain]
 
 > This Is PSY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,550 likes - 106 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,575 likes - 106 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoZRFedvgBm.md) - [plain]
 | 32 | [I Remember You](https://open.spotify.com/track/34klO6dm58NJhrUguDGTSl) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [PSY 7TH ALBUM](https://open.spotify.com/album/1aHmoh8Iog2xqwVk9A77yc) | 3:43 |
 | 33 | [Dream](https://open.spotify.com/track/2FNOqrwVM0FdXUfroQxYgk) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [PSY 7TH ALBUM](https://open.spotify.com/album/1aHmoh8Iog2xqwVk9A77yc) | 3:16 |
 | 34 | [ROCKnROLLbaby](https://open.spotify.com/track/0cXtFYK4g2n5MjJuTfV8HO) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [PSY 7TH ALBUM](https://open.spotify.com/album/1aHmoh8Iog2xqwVk9A77yc) | 4:16 |
-| 35 | [The Day will come](https://open.spotify.com/track/4q3ysPlOKAk5x94zN8ZKBw) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Jun In Kwon](https://open.spotify.com/artist/6cJ7uWeuPLZ7qKW5udIqbG) | [PSY 7TH ALBUM](https://open.spotify.com/album/1aHmoh8Iog2xqwVk9A77yc) | 3:32 |
+| 35 | [The Day will come](https://open.spotify.com/track/4q3ysPlOKAk5x94zN8ZKBw) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Jeon Inkwon](https://open.spotify.com/artist/6cJ7uWeuPLZ7qKW5udIqbG) | [PSY 7TH ALBUM](https://open.spotify.com/album/1aHmoh8Iog2xqwVk9A77yc) | 3:32 |
 | 36 | [Ahjussi Swag](https://open.spotify.com/track/1eWBBwVyhVbYExJ5P3P7KP) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [PSY 7TH ALBUM](https://open.spotify.com/album/1aHmoh8Iog2xqwVk9A77yc) | 3:09 |
 | 37 | [SING \- PSYmix](https://open.spotify.com/track/4PkPUo26XvMPjrWWj2IAJ0) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [PSY 7TH ALBUM](https://open.spotify.com/album/1aHmoh8Iog2xqwVk9A77yc) | 3:57 |
 | 38 | [Blue Frog \(Feat\. G\-DRAGON\)](https://open.spotify.com/track/05mUYNwDJBeUdWv94njtDN) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [PSY SIX RULES, Pt\. 1](https://open.spotify.com/album/0Nq7k5hqml23K1VlrEnLNR) | 3:27 |

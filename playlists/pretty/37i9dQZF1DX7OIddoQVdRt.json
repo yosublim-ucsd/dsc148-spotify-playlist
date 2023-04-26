@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of these gospel tunes.",
-  "num_followers": 619260,
+  "num_followers": 619342,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDYwNDA5OSwwMDAwMDAwMDBlZjU1NzYwYTAyZDUxMjc3NjVlOTE3NTRiMWVlYzU2",
+  "snapshot_id": "MTYyNDYwNDA5OSwwMDAwMDAwMDhkZmIyZDYxYjNmMjljZGM2N2RmMmQ1MTdiMDZlN2M0",
   "tracks": [
     {
       "added_at": "2021-06-25 06:54:59",
@@ -307,6 +307,22 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
+        "name": "From The Heart",
+        "url": "https://open.spotify.com/album/5pnV5VmY1HYPnRBa3yagGq"
+      },
+      "artists": [
+        {
+          "name": "Jessica Reedy",
+          "url": "https://open.spotify.com/artist/53AfsMeg6Tr5kAejn7pON6"
+        }
+      ],
+      "duration_ms": 246106,
+      "name": "Put It On The Altar",
+      "url": "https://open.spotify.com/track/1no67NVun0BIparrhLtPM6"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
         "name": "Anthony Brown & group therAPy",
         "url": "https://open.spotify.com/album/1oavdXITKhu6Mgb1YlIOoN"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 257093,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/37PMWc1U9QTGRSh9cKzvDj"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "From The Heart",
-        "url": "https://open.spotify.com/album/5pnV5VmY1HYPnRBa3yagGq"
-      },
-      "artists": [
-        {
-          "name": "Jessica Reedy",
-          "url": "https://open.spotify.com/artist/53AfsMeg6Tr5kAejn7pON6"
-        }
-      ],
-      "duration_ms": 246106,
-      "name": "Put It On The Altar",
-      "url": "https://open.spotify.com/track/1no67NVun0BIparrhLtPM6"
     },
     {
       "added_at": "2021-06-25 06:54:59",
@@ -683,6 +683,22 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
+        "name": "Avery*sunshine Album",
+        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        }
+      ],
+      "duration_ms": 282826,
+      "name": "Blessin Me",
+      "url": "https://open.spotify.com/track/075OkOIwlKjkMJxkfB36pt"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/5YhYF97P4OAVJCWr3Id5fz"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 282816,
       "name": "I Am (Radio Edit)",
       "url": "https://open.spotify.com/track/5gvwQLe4Z86vBVtTESworf"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "Avery*sunshine Album",
-        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
-      },
-      "artists": [
-        {
-          "name": "Avery*Sunshine",
-          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
-        }
-      ],
-      "duration_ms": 282826,
-      "name": "Blessin Me",
-      "url": "https://open.spotify.com/track/075OkOIwlKjkMJxkfB36pt"
     }
   ],
   "unique_name": "Spread the Gospel",

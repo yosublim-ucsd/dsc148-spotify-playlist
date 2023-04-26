@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,442 likes - 151 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,685 likes - 151 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

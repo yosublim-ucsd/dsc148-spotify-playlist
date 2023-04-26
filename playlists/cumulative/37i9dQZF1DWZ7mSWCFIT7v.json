@@ -1204,10 +1204,28 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 205906,
       "name": "Ch\u00e9ri - Instrumental",
       "url": "https://open.spotify.com/track/29h9FSnDewNpgDhVVGgYb0"
+    },
+    {
+      "album": {
+        "name": "FOREVERANDEVERNOMORE (FOREVER VOICELESS EDITION)",
+        "url": "https://open.spotify.com/album/4LnPArXRTX4jlOmcO6mIfN"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205906,
+      "name": "Ch\u00e9ri - Instrumental",
+      "url": "https://open.spotify.com/track/3oBIxCgN5rcjO3WaIiFu0r"
     },
     {
       "album": {
@@ -1948,7 +1966,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-13",
+      "date_removed": null,
       "duration_ms": 229811,
       "name": "Felt compute, might delete",
       "url": "https://open.spotify.com/track/4euYmucoRKixWMTtg2Yan7"
@@ -5100,7 +5118,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 245901,
       "name": "track 2",
       "url": "https://open.spotify.com/track/152VJTzJh0a9XQbVivoOVI"

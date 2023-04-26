@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 40577,
+  "num_followers": 41456,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA4MzMzNSwwMDAwMDAwMDdlOWU0NjIzOTQ3NzAxZGE4MjdiMGRmZTdiZDE3Mjk4",
+  "snapshot_id": "MTY4MjA4MzMzNSwwMDAwMDAwMGRjMjBlNzE2YzhhMGU5MmIxODlmMjJjNDQ1ZjVhMDdm",
   "tracks": [
     {
       "added_at": "2023-04-21 13:22:15",
@@ -431,18 +431,18 @@
     {
       "added_at": "2023-04-21 13:22:15",
       "album": {
-        "name": "Untourable Album",
-        "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
+        "name": "F\u266f A\u266f \u221e",
+        "url": "https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5"
       },
       "artists": [
         {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+          "name": "Godspeed You! Black Emperor",
+          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
         }
       ],
-      "duration_ms": 206340,
-      "name": "Shoulders",
-      "url": "https://open.spotify.com/track/4At9QhnhKaNgP51kbAmk77"
+      "duration_ms": 987960,
+      "name": "The Dead Flag Blues",
+      "url": "https://open.spotify.com/track/0YzMEu5sGNX0JKr9mdBtzd"
     },
     {
       "added_at": "2023-04-21 13:22:15",
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-04-21 13:22:15",
       "album": {
-        "name": "F\u266f A\u266f \u221e",
-        "url": "https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5"
+        "name": "Untourable Album",
+        "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
       },
       "artists": [
         {
-          "name": "Godspeed You! Black Emperor",
-          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 987960,
-      "name": "The Dead Flag Blues",
-      "url": "https://open.spotify.com/track/0YzMEu5sGNX0JKr9mdBtzd"
+      "duration_ms": 206340,
+      "name": "Shoulders",
+      "url": "https://open.spotify.com/track/4At9QhnhKaNgP51kbAmk77"
     },
     {
       "added_at": "2023-04-21 13:22:15",
@@ -743,22 +743,18 @@
     {
       "added_at": "2023-04-21 13:22:15",
       "album": {
-        "name": "Set the Weather Fair: Seasons",
-        "url": "https://open.spotify.com/album/3OKHTxMZvKcIhB1tvZTNgq"
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm"
       },
       "artists": [
         {
-          "name": "Digitonal",
-          "url": "https://open.spotify.com/artist/5IRw6qWz0NFImXO3hNOyai"
-        },
-        {
-          "name": "Marconi Union",
-          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
+          "name": "Ekin Fil",
+          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
         }
       ],
-      "duration_ms": 396773,
-      "name": "Gold of the Azure - Marconi Union Remix",
-      "url": "https://open.spotify.com/track/3PdFwrtQxYdw0S1urHwKO6"
+      "duration_ms": 289592,
+      "name": "Still Numbers",
+      "url": "https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq"
     },
     {
       "added_at": "2023-04-21 13:22:15",
@@ -779,6 +775,26 @@
     {
       "added_at": "2023-04-21 13:22:15",
       "album": {
+        "name": "Set the Weather Fair: Seasons",
+        "url": "https://open.spotify.com/album/3OKHTxMZvKcIhB1tvZTNgq"
+      },
+      "artists": [
+        {
+          "name": "Digitonal",
+          "url": "https://open.spotify.com/artist/5IRw6qWz0NFImXO3hNOyai"
+        },
+        {
+          "name": "Marconi Union",
+          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
+        }
+      ],
+      "duration_ms": 396773,
+      "name": "Gold of the Azure - Marconi Union Remix",
+      "url": "https://open.spotify.com/track/3PdFwrtQxYdw0S1urHwKO6"
+    },
+    {
+      "added_at": "2023-04-21 13:22:15",
+      "album": {
         "name": "Dead Magic",
         "url": "https://open.spotify.com/album/29haLrvX37jDkDfwVk4FKV"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 318786,
       "name": "The Marble Eye",
       "url": "https://open.spotify.com/track/3AoQFwWETVhTYaM7dzcuoe"
-    },
-    {
-      "added_at": "2023-04-21 13:22:15",
-      "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm"
-      },
-      "artists": [
-        {
-          "name": "Ekin Fil",
-          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
-        }
-      ],
-      "duration_ms": 289592,
-      "name": "Still Numbers",
-      "url": "https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq"
     },
     {
       "added_at": "2023-04-21 13:22:15",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-04-21 13:22:15",
       "album": {
-        "name": "The Mist",
-        "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
-      },
-      "artists": [
-        {
-          "name": "Tor Lundvall",
-          "url": "https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf"
-        }
-      ],
-      "duration_ms": 148786,
-      "name": "Dark Spring",
-      "url": "https://open.spotify.com/track/7iCt4GaiTrd0h5EOs6PYW8"
-    },
-    {
-      "added_at": "2023-04-21 13:22:15",
-      "album": {
         "name": "Snowa",
         "url": "https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 285312,
       "name": "Slow Bloom",
       "url": "https://open.spotify.com/track/39W0Sl0GtgiLvr15Lq9vju"
+    },
+    {
+      "added_at": "2023-04-21 13:22:15",
+      "album": {
+        "name": "The Mist",
+        "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
+      },
+      "artists": [
+        {
+          "name": "Tor Lundvall",
+          "url": "https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf"
+        }
+      ],
+      "duration_ms": 148786,
+      "name": "Dark Spring",
+      "url": "https://open.spotify.com/track/7iCt4GaiTrd0h5EOs6PYW8"
     },
     {
       "added_at": "2023-04-21 13:22:15",

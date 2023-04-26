@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 109298,
+  "num_followers": 109367,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMDQwNTMyMCwwMDAwMDAwMGNhNjU5ZDI4ZjViM2I3NjFhOWFjZWVjYTExYjhiZjU0",
+  "snapshot_id": "MTYwMDQwNTMyMCwwMDAwMDAwMGZiZTUwZWI4NDgyM2Q5Y2NjMDNmNDgzY2QwZWJkM2Nj",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Cambio de Plan",
-        "url": "https://open.spotify.com/album/7K3gotaXY44bihQHnD2PGm"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 222127,
-      "name": "Cambio de Plan",
-      "url": "https://open.spotify.com/track/0MXbtfy4B2DaUL6ol0ZkXO"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "20/20",
         "url": "https://open.spotify.com/album/0LJ2GhneIQZdDuXZtVLAjN"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 229087,
       "name": "Gravy",
       "url": "https://open.spotify.com/track/4iUDeFnfywaSOPG5fPaIb1"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Cambio de Plan",
+        "url": "https://open.spotify.com/album/7K3gotaXY44bihQHnD2PGm"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 222127,
+      "name": "Cambio de Plan",
+      "url": "https://open.spotify.com/track/0MXbtfy4B2DaUL6ol0ZkXO"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -155,46 +155,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "No Fallar\u00e1 (Remix)",
-        "url": "https://open.spotify.com/album/3b9P46dufcEVUm4TwrrTCf"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        },
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        },
-        {
-          "name": "Ander Bock",
-          "url": "https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM"
-        },
-        {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
-        },
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        },
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        },
-        {
-          "name": "Indiomar",
-          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
-        }
-      ],
-      "duration_ms": 380571,
-      "name": "No Fallar\u00e1 (Remix)",
-      "url": "https://open.spotify.com/track/72XN9Vvud8SKkbWMsIvE15"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Vive en M\u00ed",
         "url": "https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x"
       },
@@ -239,6 +199,46 @@
       "duration_ms": 236000,
       "name": "Mi Fe",
       "url": "https://open.spotify.com/track/6MgUmPLVK2yvNDSAcL0D1d"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "No Fallar\u00e1 (Remix)",
+        "url": "https://open.spotify.com/album/3b9P46dufcEVUm4TwrrTCf"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        },
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Ander Bock",
+          "url": "https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        },
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        },
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+        }
+      ],
+      "duration_ms": 380571,
+      "name": "No Fallar\u00e1 (Remix)",
+      "url": "https://open.spotify.com/track/72XN9Vvud8SKkbWMsIvE15"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -327,6 +327,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Acceso Total Tour Edition",
+        "url": "https://open.spotify.com/album/5iZ99qIRyztj5xNc9JkxDP"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 249920,
+      "name": "Mi Maestro",
+      "url": "https://open.spotify.com/track/6cyWdTbdJVZaqHeJ3GA1Rk"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Alegr\u00eda y Gozo 2020",
         "url": "https://open.spotify.com/album/7eaEia0ipy3eub1E8Gf4Jx"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 229272,
       "name": "Una Se\u00f1al",
       "url": "https://open.spotify.com/track/5l5MmlrPtEGxkhDttuAI8C"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Acceso Total Tour Edition",
-        "url": "https://open.spotify.com/album/5iZ99qIRyztj5xNc9JkxDP"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 249920,
-      "name": "Mi Maestro",
-      "url": "https://open.spotify.com/track/6cyWdTbdJVZaqHeJ3GA1Rk"
     },
     {
       "added_at": "2020-09-18 05:02:00",

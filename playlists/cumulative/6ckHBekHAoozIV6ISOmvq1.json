@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:6idjuynJ3Rgy9RIHaGKDAF\">2022</a>; or the Sounds of <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:7b3qwPS9RTygJC5H8DPfGl\">Italian Renaissance</a> or <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
+  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:6idjuynJ3Rgy9RIHaGKDAF\">2022</a>; or the Sounds of <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:7b3qwPS9RTygJC5H8DPfGl\">Italian Renaissance</a> or <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
   "name": "The Sound of Medieval",
   "tracks": [
     {
@@ -4247,6 +4247,28 @@
     },
     {
       "album": {
+        "name": "Neidhart: A Minnesinger and His \"Vale of Tears\" - Songs and Interludes",
+        "url": "https://open.spotify.com/album/3CEygYpmnYvuQIMIC42t5h"
+      },
+      "artists": [
+        {
+          "name": "Baptiste Romain",
+          "url": "https://open.spotify.com/artist/7I4wEJyWJL9BRQmIWvjqja"
+        },
+        {
+          "name": "Marc Lewon",
+          "url": "https://open.spotify.com/artist/4NFHFqu4lLW38TWHbVWfCV"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231946,
+      "name": "Clausula (after songs by Neidhart and 13th Century English monodies)",
+      "url": "https://open.spotify.com/track/7GcDHPisxwYMX4BjBh10lM"
+    },
+    {
+      "album": {
         "name": "Codex Faenza: Instrumental Music of the Early 15th Century",
         "url": "https://open.spotify.com/album/1zytU9oZjHxbRDUI7IYEd1"
       },
@@ -6646,6 +6668,32 @@
       "duration_ms": 207346,
       "name": "Estampie Real: La Seste",
       "url": "https://open.spotify.com/track/0O7ppHNGGXYrs5Uq7uSlYf"
+    },
+    {
+      "album": {
+        "name": "Chansons et psaumes de la r\u00e9forme",
+        "url": "https://open.spotify.com/album/5MG36slzzSG5P4yYb58C3D"
+      },
+      "artists": [
+        {
+          "name": "Paschal de l'Estocart",
+          "url": "https://open.spotify.com/artist/468PVizyZkN2f6i093xzoX"
+        },
+        {
+          "name": "Dominique Visse",
+          "url": "https://open.spotify.com/artist/0DLxgGEXi05HKnCZaQin61"
+        },
+        {
+          "name": "Ensemble Cl\u00e9ment Janequin",
+          "url": "https://open.spotify.com/artist/3nnwiLcxKNA53Gs8GvPxv6"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320840,
+      "name": "Estans assis aux rives aquatiques (Ps. 137)",
+      "url": "https://open.spotify.com/track/5C4t34R6HRsK0GhHBxmQrG"
     },
     {
       "album": {
@@ -12302,7 +12350,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 182920,
       "name": "Nicholaus inclitus",
       "url": "https://open.spotify.com/track/4ILGvawDmgivdrW81YkBNx"
@@ -15530,6 +15578,32 @@
       "duration_ms": 320973,
       "name": "Rostiboli gioioso (arr. I. Harrison)",
       "url": "https://open.spotify.com/track/6MqqSNF2uiSjd5O0Dg36hd"
+    },
+    {
+      "album": {
+        "name": "Chansons et psaumes de la r\u00e9forme",
+        "url": "https://open.spotify.com/album/5MG36slzzSG5P4yYb58C3D"
+      },
+      "artists": [
+        {
+          "name": "Paschal de l'Estocart",
+          "url": "https://open.spotify.com/artist/468PVizyZkN2f6i093xzoX"
+        },
+        {
+          "name": "Dominique Visse",
+          "url": "https://open.spotify.com/artist/0DLxgGEXi05HKnCZaQin61"
+        },
+        {
+          "name": "Ensemble Cl\u00e9ment Janequin",
+          "url": "https://open.spotify.com/artist/3nnwiLcxKNA53Gs8GvPxv6"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191906,
+      "name": "R\u00e9veillez vous chacun fid\u00e8le (Ps. 33)",
+      "url": "https://open.spotify.com/track/2Cu6lDwTvgnbisZMf60X8s"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The t\-shirt weather essentials.
 
-322 songs - 18 hr 16 min
+323 songs - 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Luvin U Is Easy](https://open.spotify.com/track/3TsA9Dpps4XRs8ODIG4HRe) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Tilt](https://open.spotify.com/album/79LH6YoGvFv3uVd1JGgi89) | 4:24 | 2022-04-01 | 2022-07-27 |
 | [Mad](https://open.spotify.com/track/49U0v3W8dVb48l1Dd2DtyG) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Mad](https://open.spotify.com/album/268yQJnYEw2Zdu8ZPwyifa) | 3:48 | 2021-08-13 | 2022-04-21 |
 | [Made for Mermaid](https://open.spotify.com/track/2kLTL9QiAF0PDCuSKFAYYI) | [Orange Ocean](https://open.spotify.com/artist/3xcaXZYFSV0iRmgu9defBW), [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Made for Mermaid](https://open.spotify.com/album/7rH5xf3APNtGGUZz6bMr16) | 4:42 | 2022-03-24 | 2022-05-03 |
-| [Magic](https://open.spotify.com/track/3QEYYJTIEd6Tv0HCrgHvri) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cyclorama](https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC) | 6:48 | 2022-07-14 |  |
+| [Magic](https://open.spotify.com/track/3QEYYJTIEd6Tv0HCrgHvri) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cyclorama](https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC) | 6:48 | 2022-07-14 | 2023-04-26 |
 | [Magic](https://open.spotify.com/track/4XsrQYCU60mBHzjFVImgFf) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cyclorama](https://open.spotify.com/album/46vqvAYDetWqC04lXDzTmc) | 6:48 | 2021-08-13 | 2022-07-14 |
 | [Me & You Together Song](https://open.spotify.com/track/4AQzk2yNWKs6sYhZi6NzVN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Me & You Together Song](https://open.spotify.com/album/6RicVnt1SB39xCjG81RUDo) | 3:29 | 2021-08-13 | 2022-07-27 |
 | [Me Myself and Dollar Hell](https://open.spotify.com/track/3hU4FbUWQee85XY2cRFbRR) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Going Going Gone](https://open.spotify.com/album/0c4lcf4DqYasZzNz8n2VBl) | 3:00 | 2021-08-13 | 2022-04-21 |
@@ -197,6 +197,7 @@
 | [Not Your Summer](https://open.spotify.com/track/0TGNIoCn8bQJyN6AIT0fOa) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Community Spirit](https://open.spotify.com/album/6sZWhOHdFpgAZSdR8NJwTe) | 3:44 | 2021-08-13 | 2022-07-29 |
 | [NW3](https://open.spotify.com/track/3NSBOLzrxMri9OEyxYeWov) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Nobody's Home](https://open.spotify.com/album/231jpal5NKt2c1QFN1D6AZ) | 3:53 | 2022-05-06 |  |
 | [Octopus](https://open.spotify.com/track/5YOOWsO48mJ1yQEaPrMyAl) | [ISLAND](https://open.spotify.com/artist/1UqvcbBmsHw8rjIZe1WiZl) | [Octopus](https://open.spotify.com/album/5WkOnwih11HOBcxljyvng7) | 2:28 | 2021-08-13 | 2022-07-29 |
+| [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/6JwkAGwClwUzcOi0ZBbSLe) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/album/5e8S6KvNbnZBbNzaL2YcLJ) | 3:18 | 2023-03-11 |  |
 | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Del Water Gap](https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE) | 3:19 | 2023-03-11 | 2023-04-14 |
 | [Off the Rails](https://open.spotify.com/track/0h7Vz5MQyJjO4ZnMW7HTjV) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Off the Rails](https://open.spotify.com/album/7lhVwtCdwtbtDkfZ0747aS) | 2:20 | 2021-08-13 | 2022-07-08 |
 | [Oh Mandy](https://open.spotify.com/track/6RsfEiobcyJVibB59yfNP5) | [The Spinto Band](https://open.spotify.com/artist/2aB0EWdEH6BcGTbUfYAqqD) | [Nice and Nicely Done \(Deluxe Edition\)](https://open.spotify.com/album/0zjy6S11hUWhtkLLVP60iq) | 3:35 | 2022-08-18 | 2022-08-26 |

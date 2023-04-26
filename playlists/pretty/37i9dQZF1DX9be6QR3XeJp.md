@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Delilah Bon
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,989 likes - 146 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,982 likes - 146 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

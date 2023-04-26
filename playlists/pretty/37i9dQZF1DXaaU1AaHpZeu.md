@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Ivana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,708 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,769 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 16 | [Conexión de Almas](https://open.spotify.com/track/1FzebSiQU4NqekvmBxmGZF) | [Flor Amargo](https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb) | [Conexión de Almas](https://open.spotify.com/album/2l90GlBhi3FRK5uVcOeVwQ) | 3:15 |
 | 17 | [Tribus de libertad](https://open.spotify.com/track/3ylceN7GD9rUSebqzH61Ny) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Tribus de libertad](https://open.spotify.com/album/5t5TWWWB5iGSXzHiEBbmXf) | 4:24 |
 | 18 | [galleta de la suerte](https://open.spotify.com/track/59HnoaodyiRfatK5PbfUiU) | [Cheti](https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7), [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [galleta de la suerte](https://open.spotify.com/album/0y3ClrFxeRlQOB82Ab4awS) | 2:24 |
-| 19 | [Migajas](https://open.spotify.com/track/7o9mOCFRSHhGQNiZ0nBa9M) | [Jorge Franco](https://open.spotify.com/artist/6TgspOWaU9PhThN4IeCeyB), [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn), [Carlos Neda](https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9) | [Migajas](https://open.spotify.com/album/6hyFTP9WF7wDN3fuUyE2X0) | 2:41 |
+| 19 | [Migajas](https://open.spotify.com/track/7o9mOCFRSHhGQNiZ0nBa9M) | [Jorge Franco](https://open.spotify.com/artist/6TgspOWaU9PhThN4IeCeyB), [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn), [Carlos Neda](https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9), [gonzalyricist](https://open.spotify.com/artist/7bJBaoMLuBuHOIsD8zp0ml) | [Migajas](https://open.spotify.com/album/6hyFTP9WF7wDN3fuUyE2X0) | 2:41 |
 | 20 | [Mírame Como Soy](https://open.spotify.com/track/03hq4GQqhyz5VWb5eTqbiq) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Nero Lvigi](https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx) | [Mírame Como Soy](https://open.spotify.com/album/7qvkrdAFoXIzzUnmnjoV7x) | 4:17 |
 | 21 | [El Hogar](https://open.spotify.com/track/6xt6Py8SQwYAJxlzWi0LAh) | [Chica Sobresalto](https://open.spotify.com/artist/4tRIJ4uToKp0kihbqnZJML) | [El Hogar](https://open.spotify.com/album/01p5uKebfWGQNvSDZo1F7i) | 4:08 |
 | 22 | [Salida](https://open.spotify.com/track/3eo777LQagkdPF3iLHUvNm) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Salida](https://open.spotify.com/album/7o8sUWRJmHRPR87vqkQ8vX) | 3:11 |

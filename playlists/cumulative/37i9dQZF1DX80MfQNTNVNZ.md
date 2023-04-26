@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-368 songs - 22 hr 1 min
+369 songs - 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,8 @@
 | [Separation](https://open.spotify.com/track/4V5aNcb4CBVou9uWTodMYB) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Separation](https://open.spotify.com/album/1bNyD1b6LuqQUTR8yJvKmI) | 3:10 | 2022-10-06 | 2022-11-18 |
 | [She's Gone](https://open.spotify.com/track/5RB5lC6FucolegEsA61b8f) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Susanna](https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF) | 3:39 | 2022-01-27 | 2022-05-26 |
 | [SHEEP](https://open.spotify.com/track/0d0AtD1ZWwOwheQwQ3GsZ6) | [YOHLU](https://open.spotify.com/artist/0jGNWHlBqs3In2Ik2AoLIl) | [SHEEP](https://open.spotify.com/album/4iETcGGHi9p2i5VuF8lBUS) | 4:32 | 2022-03-24 | 2022-06-20 |
-| [Since I Have A Lover](https://open.spotify.com/track/1qtwebmDBKPQEggSKGoSfy) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/6rnB57BMxdU6Z2TNExuPh7) | 4:42 | 2023-03-02 |  |
+| [Since I Have A Lover](https://open.spotify.com/track/1qtwebmDBKPQEggSKGoSfy) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/6rnB57BMxdU6Z2TNExuPh7) | 4:42 | 2023-03-02 | 2023-04-26 |
+| [Since I Have A Lover](https://open.spotify.com/track/5D1QJgn1rP8docnVY6MRJ9) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 4:42 | 2023-04-20 |  |
 | [skeletons](https://open.spotify.com/track/0K0JJ3QZEHYhBwkE21L2HZ) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 2:58 | 2022-07-28 | 2023-01-26 |
 | [skeletons](https://open.spotify.com/track/3Tda2M4pWcGwRvME3dGM2K) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [skeletons](https://open.spotify.com/album/5jygVHTbrAZQsPs66tebG7) | 2:58 | 2022-03-31 | 2022-04-21 |
 | [Skin](https://open.spotify.com/track/5UzCjkzuFZKjV7YKji78ye) | [DinoJr.](https://open.spotify.com/artist/2Tjsjqtiz24545VekPM72J) | [Skin](https://open.spotify.com/album/5SDKwYo0N2wjXyZAb77KoE) | 3:00 | 2022-03-24 | 2022-04-20 |

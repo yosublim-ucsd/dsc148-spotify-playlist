@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar. Foto: Kennto, YoungJhow, JoyFull",
-  "num_followers": 99811,
+  "num_followers": 99859,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTU4MzM1NiwwMDAwMDAwMGYxYTNjZGYxNzEyOGM4NzExNWFmNjZiNDE0Y2Y5YTc4",
+  "snapshot_id": "MTY4MTU4MzM1NiwwMDAwMDAwMGM5NWIzZDIwM2VkZGNiNjFjMTFlNmU5Yzg2NjNhOTc0",
   "tracks": [
     {
       "added_at": "2023-04-15 18:29:16",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-04-15 18:29:16",
       "album": {
-        "name": "Resist\u00eancia",
-        "url": "https://open.spotify.com/album/2cyyp5ehD6aC3kzjv4zmnl"
-      },
-      "artists": [
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 167691,
-      "name": "Resist\u00eancia",
-      "url": "https://open.spotify.com/track/6CtxpRx3PlkprhB6DkwbUy"
-    },
-    {
-      "added_at": "2023-04-15 18:29:16",
-      "album": {
         "name": "Ok!",
         "url": "https://open.spotify.com/album/6n3cBUrNtcIL852TX2N3qz"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 150062,
       "name": "Azul",
       "url": "https://open.spotify.com/track/7zn8W0S4iA5awUPz4N0Kxp"
+    },
+    {
+      "added_at": "2023-04-15 18:29:16",
+      "album": {
+        "name": "Resist\u00eancia",
+        "url": "https://open.spotify.com/album/2cyyp5ehD6aC3kzjv4zmnl"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 167691,
+      "name": "Resist\u00eancia",
+      "url": "https://open.spotify.com/track/6CtxpRx3PlkprhB6DkwbUy"
     },
     {
       "added_at": "2023-04-15 18:29:16",
@@ -567,6 +567,26 @@
     {
       "added_at": "2023-04-15 18:29:16",
       "album": {
+        "name": "Loucura (Remix)",
+        "url": "https://open.spotify.com/album/34WzBc5yCs0NtU7av4Dvk3"
+      },
+      "artists": [
+        {
+          "name": "DJ Alan Nunes",
+          "url": "https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo"
+        },
+        {
+          "name": "Yuri Costa",
+          "url": "https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ"
+        }
+      ],
+      "duration_ms": 225519,
+      "name": "Loucura - Remix",
+      "url": "https://open.spotify.com/track/5sKGNRsEx3ojXbVrEB09dN"
+    },
+    {
+      "added_at": "2023-04-15 18:29:16",
+      "album": {
         "name": "Eu Confio Em Ti (Remix)",
         "url": "https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 235468,
       "name": "Eu Confio Em Ti - Remix",
       "url": "https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1"
-    },
-    {
-      "added_at": "2023-04-15 18:29:16",
-      "album": {
-        "name": "Loucura (Remix)",
-        "url": "https://open.spotify.com/album/34WzBc5yCs0NtU7av4Dvk3"
-      },
-      "artists": [
-        {
-          "name": "DJ Alan Nunes",
-          "url": "https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo"
-        },
-        {
-          "name": "Yuri Costa",
-          "url": "https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ"
-        }
-      ],
-      "duration_ms": 225519,
-      "name": "Loucura - Remix",
-      "url": "https://open.spotify.com/track/5sKGNRsEx3ojXbVrEB09dN"
     },
     {
       "added_at": "2023-04-15 18:29:16",

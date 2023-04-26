@@ -4,7 +4,7 @@
 
 > Sad and gloomy instrumental Jazz.
 
-265 songs - 22 hr 12 min
+266 songs - 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [I Should Care](https://open.spotify.com/track/7EKUOlysNuLlfgoH5oySA6) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 3:17 | 2022-05-18 | 2022-08-27 |
 | [I Still See You In My Dreams](https://open.spotify.com/track/0zBUB6TUdZNOeWrQphEP6J) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [I Still See You In My Dreams](https://open.spotify.com/album/37NCgGDRaxH8E7N4pxunDM) | 3:17 | 2022-10-13 | 2023-02-17 |
 | [I Thought About You](https://open.spotify.com/track/5YZSSALNBr1ifeIsXs2hqs) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Bye Bye Blackbird](https://open.spotify.com/album/16djDDgFboJJaZqw59XTcI) | 4:01 | 2022-05-18 | 2022-10-13 |
+| [I Will Never Forget You](https://open.spotify.com/track/2k6t2F2sRJnCRflfc5lLHb) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [I Will Never Forget You](https://open.spotify.com/album/1HMy9qwW27UExno4ElQUIX) | 3:14 | 2023-04-20 |  |
 | [I Will Wait For You](https://open.spotify.com/track/6oKlgwa71syBWyiFyGdmkR) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Eternal Maze](https://open.spotify.com/album/4C3TtqzLArtYY9CuFGmeWV) | 3:59 | 2022-11-10 |  |
 | [I Wish I Knew](https://open.spotify.com/track/41XCiJOUytKpsgT1kDzYzE) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Explorations \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw) | 4:40 | 2022-05-18 | 2022-09-26 |
 | [I'll Be Seeing You](https://open.spotify.com/track/6w8czge0Bw1pYzViYNxB5z) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Michael Valeanu](https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv) | [I'll Be Seeing You](https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv) | 3:19 | 2022-05-18 | 2022-06-23 |
@@ -254,7 +255,7 @@
 | [When October Goes](https://open.spotify.com/track/56vJJaNAgZFqYOZg3d0z27) | [John Brown](https://open.spotify.com/artist/7ajJigdOxmHkfWdvLVABN5) | [Quiet Time](https://open.spotify.com/album/63C4QvQD10U2tUBfgu2xxT) | 8:12 | 2022-09-22 |  |
 | [When You Are Near](https://open.spotify.com/track/0b7B42MUMSywoNjY43dkD3) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [At the Edge of the World](https://open.spotify.com/album/3tRwejXlLIbZB8o6PHTM1n) | 8:22 | 2022-06-29 | 2022-09-23 |
 | [When You Are Near](https://open.spotify.com/track/7dWzkzCjOVVkJDTEeWrCZ0) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [At the Edge of the World](https://open.spotify.com/album/2n12HqIagVlEPeXY4hhWUs) | 8:22 | 2022-05-18 | 2022-07-29 |
-| [When You Return](https://open.spotify.com/track/7LTpiEX2hKJjvMdMFICzSU) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [When You Return](https://open.spotify.com/album/2qwg1oqLV6X7JgsB774y0H) | 5:45 | 2022-11-10 |  |
+| [When You Return](https://open.spotify.com/track/7LTpiEX2hKJjvMdMFICzSU) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [When You Return](https://open.spotify.com/album/2qwg1oqLV6X7JgsB774y0H) | 5:45 | 2022-11-10 | 2023-04-26 |
 | [When Your Lover Has Gone](https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 2:54 | 2022-05-18 | 2023-03-18 |
 | [Where Are You \- Remastered](https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Bridge](https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ) | 5:10 | 2022-09-08 |  |
 | [Where Can I Go Without You](https://open.spotify.com/track/6WTaPOmjmElVLG7HD8nHkb) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Last Dance](https://open.spotify.com/album/6SeF9urdp6Cw8aL11XwVEa) | 9:32 | 2022-06-03 |  |

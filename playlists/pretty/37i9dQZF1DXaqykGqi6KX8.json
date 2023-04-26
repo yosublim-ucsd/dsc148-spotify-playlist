@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Arab metal.  Cover: <a href=\"spotify:artist:63U8atFXZ3sax4eeV212tq\">Coat Of Arms</a>",
-  "num_followers": 35824,
+  "num_followers": 35870,
   "original_name": "Arab Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDE5OTM2NywwMDAwMDAwMDZhN2QyNTAyZmMxM2U1NDg4ZjNiNDRlZTgwMWNmZTg2",
+  "snapshot_id": "MTYzNDE5OTM2NywwMDAwMDAwMDZkZTU4YzdjYjUxNGM1NWMzZjY5OTY2YTczNmUwMTFl",
   "tracks": [
     {
       "added_at": "2021-10-14 08:16:07",
@@ -395,22 +395,6 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Ma Adesh Feeha (We've Had It)",
-        "url": "https://open.spotify.com/album/6eltMmaoFofuMEFYMp4TJW"
-      },
-      "artists": [
-        {
-          "name": "Khalas",
-          "url": "https://open.spotify.com/artist/5ScNEqoqJISrxyWLJSDVXX"
-        }
-      ],
-      "duration_ms": 239674,
-      "name": "Inta Omri (You Are My Life)",
-      "url": "https://open.spotify.com/track/3ooVc9kPY6DNpCxM2srJtb"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
         "name": "Sofia",
         "url": "https://open.spotify.com/album/6EuwcKP68HmrN6rUqjpHuN"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 293600,
       "name": "Hayati",
       "url": "https://open.spotify.com/track/2IbOp5y95v0VXR32RV98q1"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "Ma Adesh Feeha (We've Had It)",
+        "url": "https://open.spotify.com/album/6eltMmaoFofuMEFYMp4TJW"
+      },
+      "artists": [
+        {
+          "name": "Khalas",
+          "url": "https://open.spotify.com/artist/5ScNEqoqJISrxyWLJSDVXX"
+        }
+      ],
+      "duration_ms": 239674,
+      "name": "Inta Omri (You Are My Life)",
+      "url": "https://open.spotify.com/track/3ooVc9kPY6DNpCxM2srJtb"
     },
     {
       "added_at": "2021-10-14 08:16:07",

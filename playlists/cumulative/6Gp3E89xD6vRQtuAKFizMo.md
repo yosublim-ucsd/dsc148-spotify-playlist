@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-164 songs - 8 hr 10 min
+165 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Dance](https://open.spotify.com/track/3wlooR2v0HO309z0maRmO3) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Dance](https://open.spotify.com/album/31JMEsEl6SsAArvR0WLwQ3) | 3:07 | 2022-05-06 | 2023-04-09 |
 | [Dark Side](https://open.spotify.com/track/5iDws8ebHXlm1Nh7vUjJ9i) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW), [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Dark Side](https://open.spotify.com/album/2wsfXvFZaPK9bYpxVmv6ya) | 2:37 | 2022-12-09 | 2023-04-09 |
 | [Destination](https://open.spotify.com/track/7pDbNJJyVfglnEjSI2Ka6j) | [Versue](https://open.spotify.com/artist/2dAFoJE1SfRcTUOJvtDnXa) | [Destination](https://open.spotify.com/album/09ZrrEnySnNaz6GPOzQLqi) | 4:16 | 2023-04-07 | 2023-04-15 |
+| [Disengage](https://open.spotify.com/track/5NGLGbbClZvq7n8L4VRnfy) | [Nikademis](https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP) | [Disengage](https://open.spotify.com/album/0yytK65AucnQcLwfMbiKB9) | 3:17 | 2023-04-25 |  |
 | [Don't Wanna Wait \- VIP Mix](https://open.spotify.com/track/6BRq5B5uUrcP5cRtgX5cuk) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f) | [Don’t Wanna Wait \(VIP Mix\)](https://open.spotify.com/album/1WtzNNAKtES4PqaVQrtZ8d) | 2:37 | 2022-05-06 | 2022-07-28 |
 | [Donk Alert](https://open.spotify.com/track/5xvGFPucysPs9keOdFnz6B) | [TYEGUYS](https://open.spotify.com/artist/2asjtW7K4OnBYGQ0zBqi4F), [BEL AIR WITCH](https://open.spotify.com/artist/5ehyiszRBoCkewPb1mTN6x) | [Donk Alert](https://open.spotify.com/album/0MIp9mtloeM1hfWXuVCHr9) | 3:34 | 2022-05-06 | 2022-08-03 |
 | [Dramatic \(prod\. PLAYDED\)](https://open.spotify.com/track/2KIJSmiVOO0Obh6h1rx8ti) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe), [PLAYDED](https://open.spotify.com/artist/2bVDBU5YmauWpiN1LJ8ZkL) | [Dramatic](https://open.spotify.com/album/0QuSvdYztrOUUPE5E6WKpP) | 2:34 | 2022-10-21 | 2023-04-09 |

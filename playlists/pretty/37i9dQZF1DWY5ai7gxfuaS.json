@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 234013,
+  "num_followers": 234254,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2MTAxNCwwMDAwMDAwMDA0ZmZjYWZkNmU0ZDIxZjc2OWMzMmM5NjYzZmQ4ZmVi",
+  "snapshot_id": "MTY3Nzg2MTAxNCwwMDAwMDAwMDM2YWRlNmI1YzE3ZjMwYjI4MTIzZjU1MDU3YWE2NWQ1",
   "tracks": [
     {
       "added_at": "2022-11-18 01:42:16",
@@ -197,6 +197,22 @@
       "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
     },
     {
+      "added_at": "2023-02-09 19:59:28",
+      "album": {
+        "name": "I Wish A Bitch Would",
+        "url": "https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR"
+      },
+      "artists": [
+        {
+          "name": "Delilah Bon",
+          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
+        }
+      ],
+      "duration_ms": 206617,
+      "name": "I Wish A Bitch Would",
+      "url": "https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW"
+    },
+    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "Handshakes With Snakes",
@@ -235,22 +251,6 @@
       "duration_ms": 143551,
       "name": "VAMPIR (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ"
-    },
-    {
-      "added_at": "2023-02-09 19:59:28",
-      "album": {
-        "name": "I Wish A Bitch Would",
-        "url": "https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR"
-      },
-      "artists": [
-        {
-          "name": "Delilah Bon",
-          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
-        }
-      ],
-      "duration_ms": 206617,
-      "name": "I Wish A Bitch Would",
-      "url": "https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1013,6 +1013,22 @@
       "url": "https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs"
     },
     {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Rust on the Gates of Heaven",
+        "url": "https://open.spotify.com/album/4a2Q2U38lk0uDIQRhpNZ86"
+      },
+      "artists": [
+        {
+          "name": "Wear Your Wounds",
+          "url": "https://open.spotify.com/artist/162Upzibi1m79dQDaEUjl3"
+        }
+      ],
+      "duration_ms": 331015,
+      "name": "Shrinking Violet",
+      "url": "https://open.spotify.com/track/2vATuBCSWGaY8SU0hsRAZj"
+    },
+    {
       "added_at": "2023-02-09 19:59:28",
       "album": {
         "name": "Sun Up To Sun Down (Remix)",
@@ -1031,22 +1047,6 @@
       "duration_ms": 148426,
       "name": "Sun Up To Sun Down - Remix",
       "url": "https://open.spotify.com/track/0kGKVrrZtRsOAWhP1AXnuD"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Rust on the Gates of Heaven",
-        "url": "https://open.spotify.com/album/4a2Q2U38lk0uDIQRhpNZ86"
-      },
-      "artists": [
-        {
-          "name": "Wear Your Wounds",
-          "url": "https://open.spotify.com/artist/162Upzibi1m79dQDaEUjl3"
-        }
-      ],
-      "duration_ms": 331015,
-      "name": "Shrinking Violet",
-      "url": "https://open.spotify.com/track/2vATuBCSWGaY8SU0hsRAZj"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "be no one",
+        "url": "https://open.spotify.com/album/0ibbUkk4eihYg6X9qZdwNv"
+      },
+      "artists": [
+        {
+          "name": "Sepha.",
+          "url": "https://open.spotify.com/artist/094ug46k28Q0tdaGPm3WNA"
+        }
+      ],
+      "duration_ms": 261206,
+      "name": "be no one",
+      "url": "https://open.spotify.com/track/0fVNG78xrpckyKseNP5XBv"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "Make It Out Alive",
         "url": "https://open.spotify.com/album/3QpZhoEwPACrnTWTmSil9K"
       },
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "be no one",
-        "url": "https://open.spotify.com/album/0ibbUkk4eihYg6X9qZdwNv"
-      },
-      "artists": [
-        {
-          "name": "Sepha.",
-          "url": "https://open.spotify.com/artist/094ug46k28Q0tdaGPm3WNA"
-        }
-      ],
-      "duration_ms": 261206,
-      "name": "be no one",
-      "url": "https://open.spotify.com/track/0fVNG78xrpckyKseNP5XBv"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "FUCK WITH A WITCH 2",
         "url": "https://open.spotify.com/album/2ZfQhbjBKK9MAEoUO3Vj2e"
       },
@@ -1199,26 +1199,6 @@
       "duration_ms": 90491,
       "name": "FUCK WITH A WITCH 2",
       "url": "https://open.spotify.com/track/3S38ENcItSgp1NGqxZn01C"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Going Under",
-        "url": "https://open.spotify.com/album/1HqFkGXZGw489mMw2xVC9g"
-      },
-      "artists": [
-        {
-          "name": "HIGHSOCIETY",
-          "url": "https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 193281,
-      "name": "Going Under",
-      "url": "https://open.spotify.com/track/0hXSGi92Kprn6CEhULCGV3"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1239,6 +1219,26 @@
       "duration_ms": 234600,
       "name": "Ancestral Recall",
       "url": "https://open.spotify.com/track/6ss6OkJFKQHnqO84sizM4w"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Going Under",
+        "url": "https://open.spotify.com/album/1HqFkGXZGw489mMw2xVC9g"
+      },
+      "artists": [
+        {
+          "name": "HIGHSOCIETY",
+          "url": "https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 193281,
+      "name": "Going Under",
+      "url": "https://open.spotify.com/track/0hXSGi92Kprn6CEhULCGV3"
     },
     {
       "added_at": "2022-11-18 01:42:16",

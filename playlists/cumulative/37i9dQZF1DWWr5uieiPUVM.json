@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Nunca Sozinho",
+        "url": "https://open.spotify.com/album/5UDKZWc01Bse8OGYCR2wpb"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/0uGpWtQgtZ6UcFXnFiNhNq"
+    },
+    {
+      "album": {
         "name": "12 CHIVAS",
         "url": "https://open.spotify.com/album/6vfL9pYdrNR5HHNxYeGXqo"
       },
@@ -466,20 +484,20 @@
           "url": "https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX"
         },
         {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
           "name": "Xam\u00e3",
           "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
         },
         {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
           "name": "MC Maneirinho",
           "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
         },
         {
           "name": "AJ Wav",
@@ -4752,36 +4770,6 @@
       "duration_ms": 183272,
       "name": "Nois faz a moda",
       "url": "https://open.spotify.com/track/29cJDWOBQqeDPdYbu4kwki"
-    },
-    {
-      "album": {
-        "name": "Nunca Sozinho",
-        "url": "https://open.spotify.com/album/5UDKZWc01Bse8OGYCR2wpb"
-      },
-      "artists": [
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
-        }
-      ],
-      "date_added": "2023-03-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 137102,
-      "name": "Nunca Sozinho",
-      "url": "https://open.spotify.com/track/0uGpWtQgtZ6UcFXnFiNhNq"
     },
     {
       "album": {

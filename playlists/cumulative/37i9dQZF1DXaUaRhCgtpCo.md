@@ -4,7 +4,7 @@
 
 > May the Force be with you\. Listen to all the best Star Wars tracks, all in one place\. Cover: Star Wars: Andor
 
-131 songs - 6 hr 56 min
+132 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Star Waver](https://open.spotify.com/track/5StLIeGsbmVPDsrUDXcaXJ) | [Yoshiaki Dewa](https://open.spotify.com/artist/3NWiLtzfi2mh7EB2Fq9TyY) | [Star Wars: Visions \- Tatooine Rhapsody \(Original Soundtrack\)](https://open.spotify.com/album/7MIHDMH37tfDgV4J1V5JZt) | 0:52 | 2021-10-14 |  |
 | [Start the Droids](https://open.spotify.com/track/30IJ19GLTJ9Q169KJwxfNb) | [A\-bee](https://open.spotify.com/artist/0ZstxjqVmLXd0bjATOB1u9) | [Star Wars: Visions \- T0\-B1 \(Original Soundtrack\)](https://open.spotify.com/album/3wNqrvdyIPV7qHTFF8jwQ0) | 1:51 | 2021-10-14 |  |
 | [Stop That Train](https://open.spotify.com/track/7qYAX8yamoruNCCCYvjIVe) | [Joseph Shirley](https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Book of Boba Fett: Vol\. 1 \(Chapters 1\-4\) \[Original Soundtrack\]](https://open.spotify.com/album/36qgdmFn1KjBOSG55PB1Ju) | 4:06 | 2022-01-21 |  |
+| [Stronger Together](https://open.spotify.com/track/76kDodRN092G8YHHeNl31y) | [Joseph Shirley](https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Season 3 \- Vol\. 2 \(Chapters 21\-24\) \[Original Score\]](https://open.spotify.com/album/3wuE2JeCx2Vmvk7b1c9fnI) | 5:00 | 2023-04-25 |  |
 | [Tales from the Galaxy's Edge End Credits](https://open.spotify.com/track/0nWqkzpDozJebZwLi1vvGJ) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Star Wars: Tales from the Galaxy's Edge \(Original Soundtrack\)](https://open.spotify.com/album/0nrW0u5Serdhb1GQmPQo72) | 2:37 | 2021-12-03 |  |
 | [The Adventures of Han](https://open.spotify.com/track/6xuNzE2TNoJSiX6llH5Chg) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Solo: A Star Wars Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0BClgKzpi6YhuXeTIAoeDm) | 3:49 | 2021-05-14 |  |
 | [The Battle of Crait](https://open.spotify.com/track/77k9CEWfPOcizofgwLTBdH) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 6:47 | 2021-05-14 |  |

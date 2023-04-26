@@ -675,6 +675,24 @@
     },
     {
       "album": {
+        "name": "Betty",
+        "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158066,
+      "name": "Rollo",
+      "url": "https://open.spotify.com/track/4JN0W9IgGlK5Obp8gnTlq3"
+    },
+    {
+      "album": {
         "name": "Born Annoying",
         "url": "https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X"
       },
@@ -848,7 +866,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 220266,
       "name": "Tic",
       "url": "https://open.spotify.com/track/4iyW4RQlmcGj1i1igx17RD"

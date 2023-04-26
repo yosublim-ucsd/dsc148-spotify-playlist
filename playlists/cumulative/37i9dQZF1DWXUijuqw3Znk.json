@@ -5479,6 +5479,24 @@
     },
     {
       "album": {
+        "name": "SKANDALOUZ",
+        "url": "https://open.spotify.com/album/6VW9XC4hTrxWtiUgfyZnbh"
+      },
+      "artists": [
+        {
+          "name": "Los",
+          "url": "https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180733,
+      "name": "Smile Now Cry Later",
+      "url": "https://open.spotify.com/track/7a6oh2knjsE4uBZ60xnsvc"
+    },
+    {
+      "album": {
         "name": "P.O.E.M. \u2162",
         "url": "https://open.spotify.com/album/0MD5NHw7hr1J1uwkp9S16C"
       },
@@ -7270,7 +7288,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 148983,
       "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
       "url": "https://open.spotify.com/track/5IEz46ferHq5IuyZH0WJtj"

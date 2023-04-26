@@ -4,7 +4,7 @@
 
 > Snelle & Jonna Fraser op de cover van dé Nederpop playlist
 
-165 songs - 8 hr 1 min
+166 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Dans Alleen](https://open.spotify.com/track/0KRhxFEfJP8R4Q8dmVsjaV) | [Tomson](https://open.spotify.com/artist/4OcAOYzLAiGREe0stWTGXp) | [Dans Alleen](https://open.spotify.com/album/7avUGmXbUaHSps49aQ0Zyo) | 3:31 | 2023-04-13 |  |
 | [Dansen Met De Duivel](https://open.spotify.com/track/2SNAq1b32a5MqScmoR1rDy) | [Melo](https://open.spotify.com/artist/5vYBzMTW35gwevpQGsjitg) | [Dansen Met De Duivel](https://open.spotify.com/album/68dqPyXfLPlwgbfZgdNtsM) | 2:50 | 2023-02-23 |  |
 | [Dansen Met Het Licht Uit](https://open.spotify.com/track/7E3Lo5lZo50eddRleg6y6Q) | [Jerry Island](https://open.spotify.com/artist/46tAkwcuqLpuqBMC1V1fp1) | [Dansen Met Het Licht Uit](https://open.spotify.com/album/4XHHeomMEP8WpdkyRbjldH) | 2:57 | 2023-02-23 | 2023-03-10 |
+| [Dansen op Tafels](https://open.spotify.com/track/2rjyZ2afxuoQyMCyFPDDbp) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Dansen op Tafels](https://open.spotify.com/album/2cIkK84M29yblRqvd29gqF) | 3:21 | 2023-04-25 |  |
 | [Dat Kan Je Niet Kopen](https://open.spotify.com/track/4txaS5BTlGIlUNFmWef230) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb) | [Dat Kan Je Niet Kopen](https://open.spotify.com/album/1OhO6YPOWCLiGFBM3PcYes) | 2:58 | 2023-04-13 | 2023-04-21 |
 | [De Helft Van Je Hart](https://open.spotify.com/track/6ci2soUdoTPdn0ytw99LjN) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Als Je Voor Me Staat](https://open.spotify.com/album/2P6oEIpeCgngnghCvzO4T3) | 3:32 | 2023-02-23 |  |
 | [De Laatste Keer](https://open.spotify.com/track/2MLtLy4GkNDWzYE01yKdA8) | [DAVE](https://open.spotify.com/artist/1b8Wn3xSquDw84o7yJI6Jk) | [De Laatste Keer](https://open.spotify.com/album/5EFiDReWmoIkvCGLvVLwvZ) | 2:13 | 2023-03-30 |  |
@@ -158,7 +159,7 @@
 | [Vanavond](https://open.spotify.com/track/1sozmK1WTAKOVKzIAPTH5v) | [Thijs Boontjes](https://open.spotify.com/artist/7Hx2t9BIWDlr3Bpd6eWmei) | [Vanavond](https://open.spotify.com/album/3zVBZc4iHYE1LdeNXbjbiB) | 3:20 | 2023-04-13 |  |
 | [Ver Van Huis](https://open.spotify.com/track/1RkGMhN4VLb0fiytr7EodW) | [Ginger](https://open.spotify.com/artist/3mrOynKrihp03WXLtootoD), [Livv](https://open.spotify.com/artist/0DVLNg4cUvv8X38wf9iyt2) | [Ver Van Huis](https://open.spotify.com/album/2pXbiUAJ6gbNNjHOy7qFcM) | 3:21 | 2023-02-23 | 2023-04-07 |
 | [Verleden Tijd](https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Verleden Tijd](https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa) | 2:47 | 2023-04-13 |  |
-| [Vervloekt](https://open.spotify.com/track/2fLTwHxKyC7D4O4ekCGjhi) | [Zeno](https://open.spotify.com/artist/3DzZYAqD6HAy1XVai7Udb8) | [Aan De Rand Van Het Ravijn Bloeien De Mooiste Bloemen](https://open.spotify.com/album/7vcodonZM5pAQ1NZ1HIJhS) | 2:32 | 2023-02-23 |  |
+| [Vervloekt](https://open.spotify.com/track/2fLTwHxKyC7D4O4ekCGjhi) | [Zeno](https://open.spotify.com/artist/3DzZYAqD6HAy1XVai7Udb8) | [Aan De Rand Van Het Ravijn Bloeien De Mooiste Bloemen](https://open.spotify.com/album/7vcodonZM5pAQ1NZ1HIJhS) | 2:32 | 2023-02-23 | 2023-04-26 |
 | [Vliegen](https://open.spotify.com/track/2tnv26XNloxZMK1usRktqa) | [AISHA](https://open.spotify.com/artist/5UpppF0nILJOYwXkRCgieY) | [Vliegen](https://open.spotify.com/album/3VDVZIdLTmS21GbNVyYeBL) | 2:46 | 2023-03-02 |  |
 | [Vlinder](https://open.spotify.com/track/07anqvcBCZVR8AKn4RZEw1) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Vlinder](https://open.spotify.com/album/7oxJp1V8RBoIjXHx9x9dyi) | 3:15 | 2023-03-02 |  |
 | [Voor De Gek](https://open.spotify.com/track/6BXVmVTRyEnTcJHjmy8kCg) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Voor De Gek](https://open.spotify.com/album/5GgAB0RzMQ8gtszcfpUO0a) | 3:03 | 2023-02-23 |  |

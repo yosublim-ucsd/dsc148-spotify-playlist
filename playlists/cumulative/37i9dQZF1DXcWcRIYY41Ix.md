@@ -2,7 +2,7 @@
 
 ### [Cancionistas](https://open.spotify.com/playlist/37i9dQZF1DXcWcRIYY41Ix)
 
-> La nueva ola de trovadores del Siglo XXI\. En portada: Lucas Hill.
+> La nueva ola de trovadores del Siglo XXI\. En portada: Valeria Castro.
 
 369 songs - 22 hr 32 min
 
@@ -87,7 +87,7 @@
 | [Cuando los Años Pasen](https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Después de Todo: Compilado Latinoamericano](https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX) | 3:03 | 2021-12-24 |  |
 | [Cuídame](https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Sofá](https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4) | 4:24 | 2021-12-24 |  |
 | [Cósmosis](https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Cósmosis](https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx) | 4:06 | 2021-12-24 |  |
-| [Dame Más \(Acústico\)](https://open.spotify.com/track/6fv2hZpznPsKawSRbo9osn) | [RIOLA](https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9), [Borja Picó](https://open.spotify.com/artist/316btsfZWyV51FpNdg8LTZ) | [Versiones Desnudas](https://open.spotify.com/album/0bKZ3UvO9QLSRcXUuaPgm5) | 3:39 | 2021-12-24 |  |
+| [Dame Más \(Acústico\)](https://open.spotify.com/track/6fv2hZpznPsKawSRbo9osn) | [RIOLA](https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9), [Borja Picó](https://open.spotify.com/artist/316btsfZWyV51FpNdg8LTZ) | [Versiones Desnudas](https://open.spotify.com/album/0bKZ3UvO9QLSRcXUuaPgm5) | 3:39 | 2021-12-24 | 2023-04-26 |
 | [De balde](https://open.spotify.com/track/0ByOfMa6l6XcnlQAkAsACF) | [Gecko Turner](https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg) | [De balde](https://open.spotify.com/album/0LaoeEQSv79cXnhG5RgdSN) | 4:43 | 2022-11-11 |  |
 | [De carne y hueso](https://open.spotify.com/track/4hf9GhpfyuLsksKOBkpdD2) | [Volver al Mar](https://open.spotify.com/artist/29VStMD9gyW6PxNqpZAd2M) | [De carne y hueso](https://open.spotify.com/album/2ZKeYMXqNOxgJhnevS4Kqu) | 3:15 | 2022-04-08 | 2022-04-23 |
 | [De No Haberte Conocido](https://open.spotify.com/track/3AQkfvH36YJnp3hdBfhj7C) | [Cheo](https://open.spotify.com/artist/1P6xk2vcFnmOZRKqujdpCj), [Ulises Hadjis](https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH) | [Dónde](https://open.spotify.com/album/5LSssy7XGPGIiWlK6y5UtY) | 3:16 | 2021-12-24 | 2022-04-23 |
@@ -129,7 +129,7 @@
 | [En Esta Cama](https://open.spotify.com/track/5YdmYqzuE2GzNvDHiENWh6) | [Daniel Drexler](https://open.spotify.com/artist/5G1Mvuz6SvPPLgVv9NaJDk) | [En Esta Cama](https://open.spotify.com/album/6iaaZ2moZ9xhf3Xd2wpZPG) | 3:55 | 2022-06-10 | 2022-07-23 |
 | [En Las Olas](https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Los Náufragos](https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh) | 3:22 | 2021-12-24 |  |
 | [Enredaderas](https://open.spotify.com/track/7jznLltf0c64ROOQCIEP97) | [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i) | [Enredaderas](https://open.spotify.com/album/6nlqCW3cATF7mm7wtk3iEV) | 3:17 | 2021-12-24 | 2022-07-27 |
-| [Entrar a la luna](https://open.spotify.com/track/1DJCk36SjR5rGighWlHjjX) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [La Santa Patrona de los Corazones Negros](https://open.spotify.com/album/2ajge8g0wBGDtctb0y59IR) | 2:51 | 2023-03-27 | 2023-04-25 |
+| [Entrar a la luna](https://open.spotify.com/track/1DJCk36SjR5rGighWlHjjX) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [La Santa Patrona de los Corazones Negros](https://open.spotify.com/album/2ajge8g0wBGDtctb0y59IR) | 2:51 | 2023-03-27 |  |
 | [Esa Mujer](https://open.spotify.com/track/72rlF6brQpteHdtFrkKw6x) | [Martina diRosso](https://open.spotify.com/artist/24JIpURwvZ9XVW7en6ePao) | [Esa Mujer](https://open.spotify.com/album/53XojKYdq8c957oJd7E7Bh) | 3:06 | 2022-11-25 | 2022-12-03 |
 | [Esta vislumbra](https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Albor](https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7) | 3:21 | 2022-10-28 | 2022-11-12 |
 | [Este Momento](https://open.spotify.com/track/4Vn2kyOnhExYt9czn17VaX) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Renacido](https://open.spotify.com/album/6lhi4ISdbN4qBge018zMxM) | 3:45 | 2023-03-17 |  |

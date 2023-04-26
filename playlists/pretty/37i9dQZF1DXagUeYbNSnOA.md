@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Amanda Pujó\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,647 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,656 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,15 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 28 | [En Abril](https://open.spotify.com/track/4LdMJ127G2wGei6sYOrDV4) | [San Coyote](https://open.spotify.com/artist/3augwZaU3wAHhqN49Y7ONe) | [En Abril](https://open.spotify.com/album/5E4U5Fs7o5y129g9fqMJEw) | 3:27 |
 | 29 | [Go Do, Ep\. 6](https://open.spotify.com/track/4AxzfkoaGo8dhuuVyXOHDK) | [574](https://open.spotify.com/artist/6LySp35VaLUeUEalGUTBns), [Tornall](https://open.spotify.com/artist/6oB4uKVmQfGqoZnra4tifG), [Jiggy Drama](https://open.spotify.com/artist/2wJhXMulep4to8JaxUYjeY) | [Go Do, Ep\. 6](https://open.spotify.com/album/2D3KenVOxfTTtde0Aabhm3) | 3:17 |
 | 30 | [Viento y Caña](https://open.spotify.com/track/6sZPj5Xzks9OwZ8MozysnQ) | [Duo Mapas](https://open.spotify.com/artist/77qVx4P15HWAFG6xOBVFlg), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Viento y Caña](https://open.spotify.com/album/6VMATLjR636LgOQHxODs7O) | 4:21 |
-| 31 | [x las veces](https://open.spotify.com/track/3zThD2oeqjI0M4XObSKgiH) | [Nanizzie](https://open.spotify.com/artist/0sw69zXt3PgxRXvo1Czg3j) | [x las veces](https://open.spotify.com/album/7fqyk1CVtAXVEg0f921CuC) | 3:25 |
-| 32 | [Ficción](https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R) | [Mirror Revelations](https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9) | [Ficción](https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z) | 6:24 |
+| 31 | [Ficción](https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R) | [Mirror Revelations](https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9) | [Ficción](https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z) | 6:24 |
+| 32 | [x las veces](https://open.spotify.com/track/3zThD2oeqjI0M4XObSKgiH) | [Nanizzie](https://open.spotify.com/artist/0sw69zXt3PgxRXvo1Czg3j) | [x las veces](https://open.spotify.com/album/7fqyk1CVtAXVEg0f921CuC) | 3:25 |
 | 33 | [Éxodo Mental](https://open.spotify.com/track/1ZT6RqnorPxsQnQ2mzgwP1) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb) | [Pánico y Distorsión](https://open.spotify.com/album/7hhroFtSzsFx9L9ALmKESc) | 3:16 |
 | 34 | [No Te Conozco, Pero Te Extraño](https://open.spotify.com/track/781oj1x6Uc6SKEgyLFsJ0v) | [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG), [Juan Pino](https://open.spotify.com/artist/6Vri1Sn9BAdOZUz0eK1SK1) | [No Te Conozco, Pero Te Extraño](https://open.spotify.com/album/7mErNgL0ywcgSDKsHDnZoT) | 3:00 |
 | 35 | [Las Pibas](https://open.spotify.com/track/5vCQcyoQH4iLypn0WYU4ik) | [Mel Ömana](https://open.spotify.com/artist/2beEvJlotpHyrcksZteM4z) | [Las Pibas](https://open.spotify.com/album/4UJjY6XLhk7SuMZSsbM67R) | 2:39 |
 | 36 | [te miraría](https://open.spotify.com/track/1VTM0nE0kPvf7g45CDEf8A) | [Victoria Davancens](https://open.spotify.com/artist/3C0A0jaQn169OBA4hfweQJ) | [te miraría](https://open.spotify.com/album/4BlvYZB9VQ5qlISigYwRnM) | 3:43 |
 | 37 | [parkour](https://open.spotify.com/track/4tr21CwLteQmwz1E1IwgZY) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [parkour](https://open.spotify.com/album/5rXCyHFLbBRDCMzcIpkVnL) | 3:50 |
-| 38 | [E.T.E.R.](https://open.spotify.com/track/6vLKWhu7daAUoj7xlUid3v) | [Oruga](https://open.spotify.com/artist/1Z7cXrGWV5wCBspuP253Hk) | [Oruga](https://open.spotify.com/album/6Oj8bHGWDpy1EQRuf7RR2n) | 3:24 |
-| 39 | [Casualidad](https://open.spotify.com/track/65xafocysy0HnCoKNo4n1q) | [1982 \(diecinueve ochenta y dos\)](https://open.spotify.com/artist/5TM0RQvmHVybWPQtQHoTd4) | [Casualidad](https://open.spotify.com/album/0aO9I8Mp9HVz4S4bphs0q9) | 3:48 |
+| 38 | [Casualidad](https://open.spotify.com/track/65xafocysy0HnCoKNo4n1q) | [1982 \(diecinueve ochenta y dos\)](https://open.spotify.com/artist/5TM0RQvmHVybWPQtQHoTd4) | [Casualidad](https://open.spotify.com/album/0aO9I8Mp9HVz4S4bphs0q9) | 3:48 |
+| 39 | [E.T.E.R.](https://open.spotify.com/track/6vLKWhu7daAUoj7xlUid3v) | [Oruga](https://open.spotify.com/artist/1Z7cXrGWV5wCBspuP253Hk) | [Oruga](https://open.spotify.com/album/6Oj8bHGWDpy1EQRuf7RR2n) | 3:24 |
 | 40 | [Corazón Frío](https://open.spotify.com/track/5Ix7kzOMpmCrNBZ0Wc0uNT) | [Davo](https://open.spotify.com/artist/6bXwSRTVIBHKPJ2kE9gS80) | [Corazón Frío](https://open.spotify.com/album/2cx99ZniHdOpT8M2GA6nvi) | 3:16 |
 | 41 | [Corazón de Hojalata](https://open.spotify.com/track/4gH7AJLxGrrbQRCJp5aGsm) | [Serranow](https://open.spotify.com/artist/38NpF2cwENnpQ3P19UnyUP), [Emm Silverio](https://open.spotify.com/artist/0LqZYyxpnN9W2CeWRNGYli) | [Corazón de Hojalata](https://open.spotify.com/album/07upp7a8Y0bTkYYsoqvvb5) | 3:58 |
 | 42 | [SUERTE](https://open.spotify.com/track/4SgIhxy6ViuwWZEB3tePLo) | [Dani Manzan](https://open.spotify.com/artist/3yk1IfXsveWfy2oyl5yQm0), [Christopher Rafael](https://open.spotify.com/artist/0UzqLxUiIgatEfQfxEN26K) | [SUERTE](https://open.spotify.com/album/5QKexiENC5HezkBqafnEAb) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [No Me Da La Fokin' Gana](https://open.spotify.com/track/53rONYB3DQYqioJ2Q4YZVf) | [Ani Cordero](https://open.spotify.com/artist/0CRwWa8WxuhnF5eTf45lI1) | [No Me Da La Fokin' Gana](https://open.spotify.com/album/2rBPBckMjlPz4h1TRGHDSi) | 3:56 |
 | 50 | [Estrella](https://open.spotify.com/track/65ujqMp1mdOhzp75c5t90R) | [Dinié](https://open.spotify.com/artist/1Xaa9v4eSL7fShYSUs4Jjq), [Amor Eterno](https://open.spotify.com/artist/5azVpthdaO4HLN381lLqW6) | [Amor Eterno Vol\. 1](https://open.spotify.com/album/1qbfBzAmMF3SbzO0IXdbpa) | 2:14 |
 
-Snapshot ID: `MTY4MTkyNzIwMCwwMDAwMDAwMDliMDViZGUzMGE1MGE1NDQ0MmZjMWU2ZWQxMTQyODJi`
+Snapshot ID: `MTY4MTkyNzIwMCwwMDAwMDAwMDFkYmExNzA1YmY3NDAyYjk0MTIxYTk1YTE2NWRjM2Zm`

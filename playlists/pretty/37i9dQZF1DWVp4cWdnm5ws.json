@@ -1,13 +1,29 @@
 {
   "description": "Discover new artists on the horizon this 2023.",
-  "num_followers": 71211,
+  "num_followers": 71237,
   "original_name": "RADAR Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTY2MjY2MSwwMDAwMDAwMDkxZTk2NjEyNDI3NGZhNDNkZWE5Njk0NzEyMjM4YTg3",
+  "snapshot_id": "MTY4MjQwMzY3MywwMDAwMDAwMDdmN2EwNTA2ZThhZDMwMzY0NGNmNjA3NjM1ZDVjNWZm",
   "tracks": [
+    {
+      "added_at": "2023-04-25 06:21:13",
+      "album": {
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/7GxLP2buR6YwnG561fGyDf"
+      },
+      "artists": [
+        {
+          "name": "Paolo Sandejas",
+          "url": "https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "BLOOM",
+      "url": "https://open.spotify.com/track/4S5emjYAq0EGh9PUCQXD0X"
+    },
     {
       "added_at": "2023-04-13 16:09:40",
       "album": {

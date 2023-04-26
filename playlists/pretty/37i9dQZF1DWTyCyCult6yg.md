@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyCyCult6yg.md) - [plain]
 
 > Caterina Barbieri's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambiente</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,456 likes - 29 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,504 likes - 29 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

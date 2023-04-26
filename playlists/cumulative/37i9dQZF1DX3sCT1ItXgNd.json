@@ -483,6 +483,24 @@
     },
     {
       "album": {
+        "name": "Coti x Coti",
+        "url": "https://open.spotify.com/album/7eqj1lVuIIPJsXeV6igdkk"
+      },
+      "artists": [
+        {
+          "name": "The Tyets",
+          "url": "https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147726,
+      "name": "Coti x Coti",
+      "url": "https://open.spotify.com/track/6uwVwVdsXpOmq1BYY8rDtM"
+    },
+    {
+      "album": {
         "name": "Cuenta conmigo",
         "url": "https://open.spotify.com/album/5Ye1rS5xOhdCcuV2NLiCP6"
       },
@@ -1008,7 +1026,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 176000,
       "name": "hey, goodbye",
       "url": "https://open.spotify.com/track/2mYuCEPvJw5FdVHhnSQJaL"
@@ -1132,6 +1150,24 @@
       "duration_ms": 194257,
       "name": "La Idea",
       "url": "https://open.spotify.com/track/5hbx6fWt9jt9dWSOHK3uGb"
+    },
+    {
+      "album": {
+        "name": "La Jugada",
+        "url": "https://open.spotify.com/album/794g3trPLd4WlFl0NgcTqo"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233460,
+      "name": "La Jugada",
+      "url": "https://open.spotify.com/track/1Kb1Mu2f8SdjEaHSEyJTSs"
     },
     {
       "album": {
@@ -1535,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "NADIE ME HA PREGUNTADO",
+        "url": "https://open.spotify.com/album/15Z0uBEHEw1huJlm0mHQro"
+      },
+      "artists": [
+        {
+          "name": "Bel\u00e9n Aguilera",
+          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162272,
+      "name": "NADIE ME HA PREGUNTADO",
+      "url": "https://open.spotify.com/track/1Z2WPWbT7TVKIwIz0lll8f"
+    },
+    {
+      "album": {
         "name": "Necesito silencio",
         "url": "https://open.spotify.com/album/6Aq2rxyoCmE86tHnMpVroj"
       },
@@ -1640,7 +1694,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 154719,
       "name": "novio del a\u00f1o",
       "url": "https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1"
@@ -1680,7 +1734,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 172000,
       "name": "Par\u00eds",
       "url": "https://open.spotify.com/track/2LEMMY4VZYBBAglkhYRjcZ"
@@ -1786,7 +1840,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 184511,
       "name": "Que Se Parezca A Ti",
       "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
@@ -1816,6 +1870,24 @@
       "duration_ms": 213666,
       "name": "Quieres",
       "url": "https://open.spotify.com/track/4iGnpp1h0i33lpoP42Y8Jt"
+    },
+    {
+      "album": {
+        "name": "La pena no es c\u00f3moda",
+        "url": "https://open.spotify.com/album/11nihd0NH5B8onAcfhDC47"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140953,
+      "name": "Quiero que me mires",
+      "url": "https://open.spotify.com/track/6XPmyF93FbVKt4vTmciTVz"
     },
     {
       "album": {
@@ -2153,6 +2225,24 @@
     },
     {
       "album": {
+        "name": "TONTA",
+        "url": "https://open.spotify.com/album/2XMjjytI813j8uJ65UQYBG"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203863,
+      "name": "TONTA",
+      "url": "https://open.spotify.com/track/6HzWCIc51HnyGCOVRMH2AI"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -2274,7 +2364,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 161586,
       "name": "ULTRAVIOLETA",
       "url": "https://open.spotify.com/track/3OFS5I1SC248VIuWFe4NPJ"

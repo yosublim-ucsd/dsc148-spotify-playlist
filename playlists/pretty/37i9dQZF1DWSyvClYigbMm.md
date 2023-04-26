@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyvClYigbMm.md) - [plain]
 
 > House Music legend S\-Man, aka <a href="spotify:artist:1HT9k1ZSUL9IczSstOAgWJ">Roger Sanchez</a>, takes us on a ride with his latest DJ set.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,931 likes - 14 songs - 59 min 56 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,943 likes - 14 songs - 59 min 56 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

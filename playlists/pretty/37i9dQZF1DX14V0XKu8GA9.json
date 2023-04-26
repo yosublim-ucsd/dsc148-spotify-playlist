@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop from the U.S. Cover: Speak",
-  "num_followers": 21701,
+  "num_followers": 21727,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ4NTc3MywwMDAwMDAwMGE1NjU2NWI4YzY4YWY3MjdhZTVmMDljM2IwNWRhNjVj",
+  "snapshot_id": "MTY3ODQ4NTc3MywwMDAwMDAwMGRiYWExYTg0NDVmYzZjMjZhNDAxYTk2Y2NkZDQ3ODY0",
   "tracks": [
     {
       "added_at": "2023-03-10 22:02:53",
@@ -355,6 +355,26 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
+        "name": "Tour Files",
+        "url": "https://open.spotify.com/album/5tV841HMNWVmlslSWL71xF"
+      },
+      "artists": [
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        },
+        {
+          "name": "Cypress Moreno",
+          "url": "https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk"
+        }
+      ],
+      "duration_ms": 92135,
+      "name": "Known Spenders",
+      "url": "https://open.spotify.com/track/3wgAR3emid7twGKTf1w0Rd"
+    },
+    {
+      "added_at": "2023-03-10 22:02:53",
+      "album": {
         "name": "Frontline",
         "url": "https://open.spotify.com/album/7o5wg3VJWGXlp27Tc6rM5j"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 184272,
       "name": "Frontline",
       "url": "https://open.spotify.com/track/50PDNBs87SWHijwXKCM35T"
-    },
-    {
-      "added_at": "2023-03-10 22:02:53",
-      "album": {
-        "name": "Tour Files",
-        "url": "https://open.spotify.com/album/5tV841HMNWVmlslSWL71xF"
-      },
-      "artists": [
-        {
-          "name": "Fenix Flexin",
-          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
-        },
-        {
-          "name": "Cypress Moreno",
-          "url": "https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk"
-        }
-      ],
-      "duration_ms": 92135,
-      "name": "Known Spenders",
-      "url": "https://open.spotify.com/track/3wgAR3emid7twGKTf1w0Rd"
     },
     {
       "added_at": "2023-03-10 22:02:53",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
+        "name": "El Cantante",
+        "url": "https://open.spotify.com/album/5AMPEhbfGqSNfhImCslYzS"
+      },
+      "artists": [
+        {
+          "name": "CRIMEAPPLE",
+          "url": "https://open.spotify.com/artist/0giUOGLTAaVVbdr7aSwM0N"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Cosos",
+      "url": "https://open.spotify.com/track/41Fjg2nCpGifEPc7BLKQNG"
+    },
+    {
+      "added_at": "2023-03-10 22:02:53",
+      "album": {
         "name": "With Me",
         "url": "https://open.spotify.com/album/6sxDmYgvv43KjL9sMnDyiF"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 162353,
       "name": "With Me",
       "url": "https://open.spotify.com/track/2oDh8f3JLuLORqQWNsghbd"
-    },
-    {
-      "added_at": "2023-03-10 22:02:53",
-      "album": {
-        "name": "El Cantante",
-        "url": "https://open.spotify.com/album/5AMPEhbfGqSNfhImCslYzS"
-      },
-      "artists": [
-        {
-          "name": "CRIMEAPPLE",
-          "url": "https://open.spotify.com/artist/0giUOGLTAaVVbdr7aSwM0N"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Cosos",
-      "url": "https://open.spotify.com/track/41Fjg2nCpGifEPc7BLKQNG"
     },
     {
       "added_at": "2023-03-10 22:02:53",

@@ -2,9 +2,9 @@
 
 ### [This Is iKON](https://open.spotify.com/playlist/37i9dQZF1DWYCAWH52fMdQ)
 
-> Get Ready! Show Time! iKON's new EP 'FLASHBACK' is out now! This is iKON playlist is composed of songs that tell iKON's honest and sentimental stories.
+> Get Ready! Show Time!
 
-62 songs - 3 hr 22 min
+63 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [PERFECT](https://open.spotify.com/track/07Rv1FBuo9Y7beydS0u9gW) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/6RZYa7F18bu7mmeT8qxWqh) | 3:33 | 2022-05-12 |  |
 | [PERFECT](https://open.spotify.com/track/7zwuAB4MDkqYMn9NhNEytO) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/2e2VfakLM318HT1VaJsKq2) | 3:33 | 2022-05-12 | 2022-07-29 |
 | [Rubber Band](https://open.spotify.com/track/4FMhacfObjPJuLIyPBjc0K) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Rubber Band](https://open.spotify.com/album/11HqY96LRgUCeLnMLWVSBW) | 3:17 | 2022-05-12 |  |
+| [Tantara](https://open.spotify.com/track/2zbuoOgDU8rRvCqwJC91n0) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Tantara](https://open.spotify.com/album/5kXppcDQWMMADHJTzE1nOB) | 2:47 | 2023-04-25 |  |
 | [TENDAE](https://open.spotify.com/track/3wdQ9ZioKOzHIs6hA0x88u) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [LOVE AND FALL](https://open.spotify.com/album/5kAYE49gc7C6sRofjnxBbO) | 3:36 | 2022-05-12 |  |
 | [WHAT'S WRONG ?](https://open.spotify.com/track/5j6DlZe93zQZbRI9KnGine) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [DEBUT FULL ALBUM \[WELCOME BACK\]](https://open.spotify.com/album/1xsNJgTK34ByVUPzQK02Ds) | 3:48 | 2022-05-12 |  |
 | [Why Why Why](https://open.spotify.com/track/0br4r9VlPdofrWXxPorlYd) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Why Why Why](https://open.spotify.com/album/7M784rTDL5CaHN250ibG1Q) | 3:26 | 2022-05-12 |  |

@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Kaia Lana.",
-  "num_followers": 42984,
+  "num_followers": 43038,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjEwMDM2NCwwMDAwMDAwMDdmOWMwODViNjlhMGQ5NDBkMDc3ODQ3ODU1MzRkYzc2",
+  "snapshot_id": "MTY4MjEwMDM2NCwwMDAwMDAwMGM1MmNjYTAxYjFiNTBlOTk2MzQzOTRkYmYxMGExMDU1",
   "tracks": [
     {
       "added_at": "2023-04-21 18:06:04",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-04-21 18:06:04",
       "album": {
-        "name": "Maybe Baby",
-        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 193429,
-      "name": "Maybe Baby",
-      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
-    },
-    {
-      "added_at": "2023-04-21 18:06:04",
-      "album": {
         "name": "DAMN!",
         "url": "https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 117606,
       "name": "DAMN!",
       "url": "https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo"
+    },
+    {
+      "added_at": "2023-04-21 18:06:04",
+      "album": {
+        "name": "Maybe Baby",
+        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 193429,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
     },
     {
       "added_at": "2023-04-21 18:06:04",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-04-21 18:06:04",
       "album": {
-        "name": "Chill",
-        "url": "https://open.spotify.com/album/7wa4ARFBWocpk28s1GA0v0"
-      },
-      "artists": [
-        {
-          "name": "Miranda Santizo",
-          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
-        }
-      ],
-      "duration_ms": 163095,
-      "name": "Chill",
-      "url": "https://open.spotify.com/track/2m0v4ZdHJQuSnmq5zWmVdf"
-    },
-    {
-      "added_at": "2023-04-21 18:06:04",
-      "album": {
         "name": "Nada M\u00e1s",
         "url": "https://open.spotify.com/album/4CmNOJ4aObpDo3bUSIq8Hz"
       },
@@ -667,22 +651,18 @@
     {
       "added_at": "2023-04-21 18:06:04",
       "album": {
-        "name": "Instintos",
-        "url": "https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES"
+        "name": "Chill",
+        "url": "https://open.spotify.com/album/7wa4ARFBWocpk28s1GA0v0"
       },
       "artists": [
         {
-          "name": "Mec\u00e1nico",
-          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
-        },
-        {
-          "name": "Surfistas Del Sistema",
-          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
         }
       ],
-      "duration_ms": 208723,
-      "name": "Instintos",
-      "url": "https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6"
+      "duration_ms": 163095,
+      "name": "Chill",
+      "url": "https://open.spotify.com/track/2m0v4ZdHJQuSnmq5zWmVdf"
     },
     {
       "added_at": "2023-04-21 18:06:04",
@@ -703,6 +683,26 @@
     {
       "added_at": "2023-04-21 18:06:04",
       "album": {
+        "name": "Instintos",
+        "url": "https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES"
+      },
+      "artists": [
+        {
+          "name": "Mec\u00e1nico",
+          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
+        },
+        {
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+        }
+      ],
+      "duration_ms": 208723,
+      "name": "Instintos",
+      "url": "https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6"
+    },
+    {
+      "added_at": "2023-04-21 18:06:04",
+      "album": {
         "name": "Rester",
         "url": "https://open.spotify.com/album/58DM6YnsR26DX7PG8GA04M"
       },
@@ -719,18 +719,18 @@
     {
       "added_at": "2023-04-21 18:06:04",
       "album": {
-        "name": "yo sad, t\u00fa feliz",
-        "url": "https://open.spotify.com/album/2jOpcpQ0ZUNQcRpJaWdcx5"
+        "name": "Lo Que Siento",
+        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
       },
       "artists": [
         {
-          "name": "Valentina",
-          "url": "https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI"
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
         }
       ],
-      "duration_ms": 161621,
-      "name": "yo sad, t\u00fa feliz",
-      "url": "https://open.spotify.com/track/4e0SoeqUIO4XpgK4VpV0SO"
+      "duration_ms": 199672,
+      "name": "El After",
+      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
     },
     {
       "added_at": "2023-04-21 18:06:04",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-04-21 18:06:04",
       "album": {
-        "name": "Lo Que Siento",
-        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
+        "name": "yo sad, t\u00fa feliz",
+        "url": "https://open.spotify.com/album/2jOpcpQ0ZUNQcRpJaWdcx5"
       },
       "artists": [
         {
-          "name": "Clara Yolks",
-          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI"
         }
       ],
-      "duration_ms": 199672,
-      "name": "El After",
-      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
+      "duration_ms": 161621,
+      "name": "yo sad, t\u00fa feliz",
+      "url": "https://open.spotify.com/track/4e0SoeqUIO4XpgK4VpV0SO"
     },
     {
       "added_at": "2023-04-21 18:06:04",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-04-21 18:06:04",
       "album": {
+        "name": "me pongo un poco sad",
+        "url": "https://open.spotify.com/album/3SWWEY1GChVLNY4be0j37U"
+      },
+      "artists": [
+        {
+          "name": "tom\u00e1sss",
+          "url": "https://open.spotify.com/artist/1nOrtxkuKfkyRj34uW9bsw"
+        }
+      ],
+      "duration_ms": 199357,
+      "name": "me pongo un poco sad",
+      "url": "https://open.spotify.com/track/2DNIlO8K5KAmyTuLuaNBFe"
+    },
+    {
+      "added_at": "2023-04-21 18:06:04",
+      "album": {
         "name": "He comprado \u2741",
         "url": "https://open.spotify.com/album/4g8gmnPaXz8l59vmKLGPML"
       },
@@ -991,22 +1007,6 @@
     {
       "added_at": "2023-04-21 18:06:04",
       "album": {
-        "name": "me pongo un poco sad",
-        "url": "https://open.spotify.com/album/3SWWEY1GChVLNY4be0j37U"
-      },
-      "artists": [
-        {
-          "name": "tom\u00e1sss",
-          "url": "https://open.spotify.com/artist/1nOrtxkuKfkyRj34uW9bsw"
-        }
-      ],
-      "duration_ms": 199357,
-      "name": "me pongo un poco sad",
-      "url": "https://open.spotify.com/track/2DNIlO8K5KAmyTuLuaNBFe"
-    },
-    {
-      "added_at": "2023-04-21 18:06:04",
-      "album": {
         "name": "En Todas Partes",
         "url": "https://open.spotify.com/album/5jV6AmV4Gpg8GSe3WhSjof"
       },
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-04-21 18:06:04",
       "album": {
-        "name": "Algo Bien",
-        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
-      },
-      "artists": [
-        {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
-        }
-      ],
-      "duration_ms": 180236,
-      "name": "2000nunca",
-      "url": "https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj"
-    },
-    {
-      "added_at": "2023-04-21 18:06:04",
-      "album": {
         "name": "No Te Vayas Nunca",
         "url": "https://open.spotify.com/album/1UvWnU9UKjbxzKbLxk8Njx"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2023-04-21 18:06:04",
       "album": {
-        "name": "Me Gustas Tanto",
-        "url": "https://open.spotify.com/album/6mLXxtHQXzFn7GPowncu1N"
+        "name": "Algo Bien",
+        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
       },
       "artists": [
         {
-          "name": "KNYA",
-          "url": "https://open.spotify.com/artist/5OOwdQqnYQSdypLCSQ3Kvz"
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
         }
       ],
-      "duration_ms": 182406,
-      "name": "Me Gustas Tanto",
-      "url": "https://open.spotify.com/track/7fMshHtynGehLu7eVQj1hO"
+      "duration_ms": 180236,
+      "name": "2000nunca",
+      "url": "https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj"
     },
     {
       "added_at": "2023-04-21 18:06:04",
@@ -1139,6 +1123,22 @@
       "duration_ms": 180400,
       "name": "Lenguaje Universal",
       "url": "https://open.spotify.com/track/7pwWmrmWNK1QBTypB8Fyit"
+    },
+    {
+      "added_at": "2023-04-21 18:06:04",
+      "album": {
+        "name": "Me Gustas Tanto",
+        "url": "https://open.spotify.com/album/6mLXxtHQXzFn7GPowncu1N"
+      },
+      "artists": [
+        {
+          "name": "KNYA",
+          "url": "https://open.spotify.com/artist/5OOwdQqnYQSdypLCSQ3Kvz"
+        }
+      ],
+      "duration_ms": 182406,
+      "name": "Me Gustas Tanto",
+      "url": "https://open.spotify.com/track/7fMshHtynGehLu7eVQj1hO"
     },
     {
       "added_at": "2023-04-21 18:06:04",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2023-04-21 18:06:04",
       "album": {
-        "name": "deja de estudiar",
-        "url": "https://open.spotify.com/album/5F6c6rMQktJjbB1s06xZCI"
-      },
-      "artists": [
-        {
-          "name": "Greta Ela",
-          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
-        },
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 157824,
-      "name": "deja de estudiar",
-      "url": "https://open.spotify.com/track/5s4fyhzcUH7BJvONjNap6B"
-    },
-    {
-      "added_at": "2023-04-21 18:06:04",
-      "album": {
         "name": "Curriculum Completo",
         "url": "https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 145401,
       "name": "Curriculum Completo",
       "url": "https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy"
+    },
+    {
+      "added_at": "2023-04-21 18:06:04",
+      "album": {
+        "name": "deja de estudiar",
+        "url": "https://open.spotify.com/album/5F6c6rMQktJjbB1s06xZCI"
+      },
+      "artists": [
+        {
+          "name": "Greta Ela",
+          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 157824,
+      "name": "deja de estudiar",
+      "url": "https://open.spotify.com/track/5s4fyhzcUH7BJvONjNap6B"
     }
   ],
   "unique_name": "\u2728 dreamy \u2728",

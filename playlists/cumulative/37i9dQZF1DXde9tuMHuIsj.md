@@ -4,7 +4,7 @@
 
 > The best of Latin Trap\. Cover: Arcángel & Bizarrap
 
-246 songs - 14 hr 17 min
+247 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Drippin](https://open.spotify.com/track/55eYLp69sTaodwWSiVNReX) | [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Drippin](https://open.spotify.com/album/1EaPsewczYbCSvogGhDXlX) | 3:02 | 2022-10-18 |  |
 | [Drug Dealer](https://open.spotify.com/track/0I3UatrHgOu864I8a9SL0b) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Drug Dealer](https://open.spotify.com/album/0V11CgvmJjeZLsIaQTsQki) | 3:28 | 2022-03-18 | 2022-05-04 |
 | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/album/1QUr29IDxeCaCpZOqwyvHW) | 3:41 | 2022-12-02 |  |
-| [El Anillo el Reloj](https://open.spotify.com/track/07oEiX9E5kBARkQuPlhj4m) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [El Anillo el Reloj](https://open.spotify.com/album/2DPU1QXFXARqUAPWtdSrIy) | 2:52 | 2023-01-27 |  |
+| [El Anillo el Reloj](https://open.spotify.com/track/07oEiX9E5kBARkQuPlhj4m) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [El Anillo el Reloj](https://open.spotify.com/album/2DPU1QXFXARqUAPWtdSrIy) | 2:52 | 2023-01-27 | 2023-04-26 |
+| [El anillo el reloj rochyrd](https://open.spotify.com/track/3jhsxOZPvnXJSAjJy1NTlz) | [Elefgy](https://open.spotify.com/artist/5anGcJKUl5uWvs9WKOKYbr) | [El anillo el reloj rochyrd](https://open.spotify.com/album/75CxLbfmcV0kcD1tmDjjsK) | 2:52 | 2023-04-21 |  |
 | [El Case](https://open.spotify.com/track/5iAcQOl6yTHdXm1CqlNVMq) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [El Case](https://open.spotify.com/album/00P66oToPdQ8UpgYQTSjKp) | 2:41 | 2022-12-02 |  |
 | [El Congreso](https://open.spotify.com/track/1ds3UoIlolByK0rNyNbmvP) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [El Congreso](https://open.spotify.com/album/1WShl2Ns50BWfZuyqsKDXP) | 3:20 | 2022-04-01 | 2022-11-23 |
 | [El Congreso](https://open.spotify.com/track/2gG7dRgCYDU8HjbINLTGxI) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [El Congreso](https://open.spotify.com/album/4ll3ufkVHwVxWp4bS6jIOA) | 3:20 | 2022-11-21 | 2023-02-11 |

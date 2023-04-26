@@ -1,12 +1,12 @@
 {
   "description": "Sangre fresca en las escenas del indie y el rock. El Mat\u00f3 a un Polic\u00eda Motorizado en portada.",
-  "num_followers": 144126,
+  "num_followers": 144194,
   "original_name": "EL ROCK NO HA MUERTO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA1NjgwMCwwMDAwMDAwMGY2MTliNmE5MTZmYWRjNDg1NzhkMjA3N2U3YmFiYmNh",
+  "snapshot_id": "MTY4MjA1NjgwMCwwMDAwMDAwMGNjY2Q2MTA5MTg2MWZkNGE5NjBlYzc5NzFjMzg1YmRl",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -851,18 +851,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Se\u00f1orita Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm"
+        "name": "Borregos En La Niebla",
+        "url": "https://open.spotify.com/album/4dRYCUjEYplBppMnnITj2I"
       },
       "artists": [
         {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "La Gusana Ciega",
+          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         }
       ],
-      "duration_ms": 158478,
-      "name": "Se\u00f1orita Revoluci\u00f3n",
-      "url": "https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn"
+      "duration_ms": 249933,
+      "name": "Pasiflorine",
+      "url": "https://open.spotify.com/track/2dGLgeorhk8f54PSm9xPLH"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -883,22 +887,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Borregos En La Niebla",
-        "url": "https://open.spotify.com/album/4dRYCUjEYplBppMnnITj2I"
+        "name": "Se\u00f1orita Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm"
       },
       "artists": [
         {
-          "name": "La Gusana Ciega",
-          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
         }
       ],
-      "duration_ms": 249933,
-      "name": "Pasiflorine",
-      "url": "https://open.spotify.com/track/2dGLgeorhk8f54PSm9xPLH"
+      "duration_ms": 158478,
+      "name": "Se\u00f1orita Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Al menos ahora",
+        "url": "https://open.spotify.com/album/2Sa9nqApJXS2hx9Ff0jf6R"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 190087,
+      "name": "AAAAAA",
+      "url": "https://open.spotify.com/track/09j2HtSJ7ZonxxaJLMnDrG"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Punk",
         "url": "https://open.spotify.com/album/0ALZJahmwF0u1AReCWtiZP"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 193239,
       "name": "Punk",
       "url": "https://open.spotify.com/track/28fb2X931nhjyCHMKbNOPt"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Al menos ahora",
-        "url": "https://open.spotify.com/album/2Sa9nqApJXS2hx9Ff0jf6R"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 190087,
-      "name": "AAAAAA",
-      "url": "https://open.spotify.com/track/09j2HtSJ7ZonxxaJLMnDrG"
     },
     {
       "added_at": "2023-04-14 06:00:00",

@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-775 songs - 2 day 2 hr 54 min
+777 songs - 2 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Drift](https://open.spotify.com/track/4jDYPVKZd7V9h5Pll27BRv) | [Ian Reynold](https://open.spotify.com/artist/1SwN9zqne93a9eXrlr0tr1) | [Daisy](https://open.spotify.com/album/1Y72pUjm0HQ55whwr44QV9) | 3:47 | 2023-02-24 | 2023-03-11 |
 | [Dripping Sun](https://open.spotify.com/track/0KixIFbJPLjVUgCiTgR649) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Masana Temples](https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS) | 7:50 | 2022-07-11 | 2023-03-07 |
 | [Dry the Rain \- Remaster](https://open.spotify.com/track/0tjlSGZvut3IIdmwxC3hTh) | [The Beta Band](https://open.spotify.com/artist/2LMR8u7DOMF0FBseDpTsRa) | [Dry the Rain \(Remaster\)](https://open.spotify.com/album/6C87ASWepSzNhWrquNxPtP) | 6:03 | 2021-04-02 | 2022-04-16 |
+| [Dust Bunny](https://open.spotify.com/track/4QTHlDa9mWxjzBdD17XjUl) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Dust Bunny](https://open.spotify.com/album/0qMEPsD1rNIgtJ5dBdBtro) | 3:04 | 2023-04-25 |  |
 | [Earth Worship](https://open.spotify.com/track/1TZ0kYAnkz5hhrKU5hsKPp) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Earth Worship](https://open.spotify.com/album/4Ba0XQz4Lwn0h43myCXfHA) | 3:37 | 2022-08-12 | 2022-11-02 |
 | [East West Link](https://open.spotify.com/track/3hFhPZ9ApoLLQ3bGCDlCDs) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [L.W.](https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx) | 3:08 | 2021-04-02 | 2022-04-21 |
 | [Easy](https://open.spotify.com/track/7n2LE79lG0ffnBaz1FafUT) | [Gringo Star](https://open.spotify.com/artist/09CQngaijJk9iSalfKfrIW) | [Easy](https://open.spotify.com/album/5WasPewzfe8OJmGk93ezBK) | 3:42 | 2021-04-02 | 2022-04-20 |
@@ -481,6 +482,7 @@
 | [Ninja Partisi](https://open.spotify.com/track/1civ8niQt12qzLrgiAeJ8I) | [Lalalar](https://open.spotify.com/artist/6CWQ7KWveleaeFagKCz26T) | [Ninja Partisi](https://open.spotify.com/album/4onGiuk6cVH5MTREVJb2ZX) | 2:35 | 2021-06-04 | 2022-03-17 |
 | [No Choice](https://open.spotify.com/track/3kI3vRDwTbYs9O8svalUWu) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:41 | 2022-07-22 | 2022-12-17 |
 | [No Choice](https://open.spotify.com/track/4dj1qglNo2j45K8z2sDFEY) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No Choice](https://open.spotify.com/album/61hEtv7eRNxChNrsbpGXSC) | 3:41 | 2021-12-14 | 2022-07-29 |
+| [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 | 2023-04-25 |  |
 | [No Nee Ta Slode Aln](https://open.spotify.com/track/0XUkl3jNKrJgZh6fTxYe01) | [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [No Nee Ta Slode Aln](https://open.spotify.com/album/4k9jGaOalPTQexjjM3UxMH) | 4:01 | 2021-04-02 | 2022-04-20 |
 | [No Ties](https://open.spotify.com/track/0a15Ha6ZMnjSiw15ySklwZ) | [Swimm](https://open.spotify.com/artist/0tLb7wQ0nbvoqx2ZOiLOfX) | [No Ties](https://open.spotify.com/album/6kRjmdctxNWgLm0x5Sj7Xw) | 3:37 | 2023-04-21 |  |
 | [Nobody Taught Me](https://open.spotify.com/track/5bVZ4C7MFM1tgsb8VjvLb3) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [Nobody Taught Me](https://open.spotify.com/album/5Wjjrn5PxAzqwHDSSFfjtY) | 3:49 | 2021-07-19 | 2022-06-26 |

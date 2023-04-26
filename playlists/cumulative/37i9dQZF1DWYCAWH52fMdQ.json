@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Get Ready! Show Time! iKON's new EP 'FLASHBACK' is out now! This is iKON playlist is composed of songs that tell iKON's honest and sentimental stories.",
+  "description": "Get Ready! Show Time!",
   "name": "This Is iKON",
   "tracks": [
     {
@@ -1064,6 +1064,24 @@
       "duration_ms": 197213,
       "name": "Rubber Band",
       "url": "https://open.spotify.com/track/4FMhacfObjPJuLIyPBjc0K"
+    },
+    {
+      "album": {
+        "name": "Tantara",
+        "url": "https://open.spotify.com/album/5kXppcDQWMMADHJTzE1nOB"
+      },
+      "artists": [
+        {
+          "name": "iKON",
+          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167533,
+      "name": "Tantara",
+      "url": "https://open.spotify.com/track/2zbuoOgDU8rRvCqwJC91n0"
     },
     {
       "album": {

@@ -5308,6 +5308,24 @@
     {
       "album": {
         "name": "Ato 1: TODAMANH\u00c3",
+        "url": "https://open.spotify.com/album/5caF5n4dvpJv0BsqEOJnA7"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146490,
+      "name": "Toda Manh\u00e3",
+      "url": "https://open.spotify.com/track/1FpIwrg7pwzGhakpokNbuT"
+    },
+    {
+      "album": {
+        "name": "Ato 1: TODAMANH\u00c3",
         "url": "https://open.spotify.com/album/4c2wwlgbTHER3fxe6TzDlZ"
       },
       "artists": [
@@ -5318,7 +5336,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 146490,
       "name": "Toda Manh\u00e3",
       "url": "https://open.spotify.com/track/5tPrL24NVBC6crh1xl7uGw"

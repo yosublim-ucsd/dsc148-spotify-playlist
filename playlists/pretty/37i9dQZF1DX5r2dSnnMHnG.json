@@ -1,12 +1,12 @@
 {
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 3692,
+  "num_followers": 3709,
   "original_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDU3MzAzNiwwMDAwMDAwMDZlYTE1NWU0MjE0OWNhMTU5MTFhNjBmM2UxZWQ4Nzdj",
+  "snapshot_id": "MTY4MDU3MzAzNiwwMDAwMDAwMDg1ODBmODYxNWE0OWMwOWViNTA5MWE0MWEzNzk1YTRj",
   "tracks": [
     {
       "added_at": "2023-04-04 01:50:36",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-04-04 01:50:36",
       "album": {
+        "name": "Is you",
+        "url": "https://open.spotify.com/album/6KAKOjRxl9jV0mwLaNEYpk"
+      },
+      "artists": [
+        {
+          "name": "Jay Chang",
+          "url": "https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT"
+        }
+      ],
+      "duration_ms": 231053,
+      "name": "Is you",
+      "url": "https://open.spotify.com/track/3psUv10FonfFanuBDiM4lb"
+    },
+    {
+      "added_at": "2023-04-04 01:50:36",
+      "album": {
         "name": "Timing",
         "url": "https://open.spotify.com/album/67HXtNJ3Ma3LolxEf0UGQ4"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 168970,
       "name": "Timing",
       "url": "https://open.spotify.com/track/6faWCeNTlxIbXHXsJK9abm"
-    },
-    {
-      "added_at": "2023-04-04 01:50:36",
-      "album": {
-        "name": "Is you",
-        "url": "https://open.spotify.com/album/6KAKOjRxl9jV0mwLaNEYpk"
-      },
-      "artists": [
-        {
-          "name": "Jay Chang",
-          "url": "https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT"
-        }
-      ],
-      "duration_ms": 231053,
-      "name": "Is you",
-      "url": "https://open.spotify.com/track/3psUv10FonfFanuBDiM4lb"
     },
     {
       "added_at": "2023-04-04 01:50:36",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-04-04 01:50:36",
       "album": {
-        "name": "talks about blossoms",
-        "url": "https://open.spotify.com/album/3oBveuOG0aDo51pjttETiP"
-      },
-      "artists": [
-        {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Flower",
-      "url": "https://open.spotify.com/track/7jnv33i1cWvBeSKJd6bVRt"
-    },
-    {
-      "added_at": "2023-04-04 01:50:36",
-      "album": {
         "name": "First Love Story (Original Soundtrack from the Webtoon Fight For My Way)",
         "url": "https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 207773,
       "name": "First Love Story",
       "url": "https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY"
+    },
+    {
+      "added_at": "2023-04-04 01:50:36",
+      "album": {
+        "name": "talks about blossoms",
+        "url": "https://open.spotify.com/album/3oBveuOG0aDo51pjttETiP"
+      },
+      "artists": [
+        {
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "Flower",
+      "url": "https://open.spotify.com/track/7jnv33i1cWvBeSKJd6bVRt"
     },
     {
       "added_at": "2023-04-04 01:50:36",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-04-04 01:50:36",
       "album": {
-        "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
-        "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
-      },
-      "artists": [
-        {
-          "name": "\ubc15\uc9c0\uc6d0",
-          "url": "https://open.spotify.com/artist/7sYsnmmEZ0vpNVoz9V7h3E"
-        }
-      ],
-      "duration_ms": 203386,
-      "name": "Cloud",
-      "url": "https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah"
-    },
-    {
-      "added_at": "2023-04-04 01:50:36",
-      "album": {
         "name": "Thinking of you",
         "url": "https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 193514,
       "name": "Thinking of you (Feat. Lee Yu Bin)",
       "url": "https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr"
+    },
+    {
+      "added_at": "2023-04-04 01:50:36",
+      "album": {
+        "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\uc9c0\uc6d0",
+          "url": "https://open.spotify.com/artist/7sYsnmmEZ0vpNVoz9V7h3E"
+        }
+      ],
+      "duration_ms": 203386,
+      "name": "Cloud",
+      "url": "https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah"
     },
     {
       "added_at": "2023-04-04 01:50:36",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-04-04 01:50:36",
       "album": {
-        "name": "Spring",
-        "url": "https://open.spotify.com/album/6IF62ngGe6loJjiRwgap8s"
-      },
-      "artists": [
-        {
-          "name": "Zitten",
-          "url": "https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg"
-        }
-      ],
-      "duration_ms": 220116,
-      "name": "Night train",
-      "url": "https://open.spotify.com/track/5J1AHgFZRVy4t9g7eDtmH7"
-    },
-    {
-      "added_at": "2023-04-04 01:50:36",
-      "album": {
         "name": "Paints (feat. 1ho)",
         "url": "https://open.spotify.com/album/5zPPNCnontFzam8kszcCIZ"
       },
@@ -1155,6 +1139,22 @@
     {
       "added_at": "2023-04-04 01:50:36",
       "album": {
+        "name": "Spring",
+        "url": "https://open.spotify.com/album/6IF62ngGe6loJjiRwgap8s"
+      },
+      "artists": [
+        {
+          "name": "Zitten",
+          "url": "https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg"
+        }
+      ],
+      "duration_ms": 220116,
+      "name": "Night train",
+      "url": "https://open.spotify.com/track/5J1AHgFZRVy4t9g7eDtmH7"
+    },
+    {
+      "added_at": "2023-04-04 01:50:36",
+      "album": {
         "name": "AFTER THE LIGHT",
         "url": "https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv"
       },
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-04-04 01:50:36",
       "album": {
-        "name": "ONE",
-        "url": "https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA"
-      },
-      "artists": [
-        {
-          "name": "ONEWE",
-          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
-        }
-      ],
-      "duration_ms": 162266,
-      "name": "Feeling Good - 2019 Ver",
-      "url": "https://open.spotify.com/track/57sMkc27ZlIo9pSCv6O6ng"
-    },
-    {
-      "added_at": "2023-04-04 01:50:36",
-      "album": {
         "name": "Mini Stewardess",
         "url": "https://open.spotify.com/album/0uU0wcGNAp8ODhVCosMWab"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 202823,
       "name": "Mini Stewardess",
       "url": "https://open.spotify.com/track/2kG9KpdmG8hKdJI6UOQZiN"
+    },
+    {
+      "added_at": "2023-04-04 01:50:36",
+      "album": {
+        "name": "ONE",
+        "url": "https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA"
+      },
+      "artists": [
+        {
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+        }
+      ],
+      "duration_ms": 162266,
+      "name": "Feeling Good - 2019 Ver",
+      "url": "https://open.spotify.com/track/57sMkc27ZlIo9pSCv6O6ng"
     },
     {
       "added_at": "2023-04-04 01:50:36",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2023-04-04 01:50:36",
       "album": {
-        "name": "Heart in Motion",
-        "url": "https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15"
+        "name": "Asteroid",
+        "url": "https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj"
       },
       "artists": [
         {
-          "name": "The Green Tea",
-          "url": "https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB"
+          "name": "Lee MinHyuk",
+          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
         }
       ],
-      "duration_ms": 247666,
-      "name": "Green Tea",
-      "url": "https://open.spotify.com/track/2Y7cOqDqsA2MpQ4HX4B8MD"
+      "duration_ms": 239880,
+      "name": "The Season Of You",
+      "url": "https://open.spotify.com/track/1Lb7mJc6hxkCEiFnKGWoKG"
     }
   ],
   "unique_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",

@@ -1,13 +1,41 @@
 {
-  "description": "Bringing out the best of latest love tracks\nCover : Agent",
-  "num_followers": 81057,
+  "description": "Bringing out the best of latest love tracks\nCover : Custody",
+  "num_followers": 81114,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjMzOTAzOSwwMDAwMDAwMDNlNTVjNTE1M2I5NmFkZWQ4NTg4OGVlYTlhNjA2Yjg0",
+  "snapshot_id": "MTY4MjQyMDc1OSwwMDAwMDAwMGIxZjE0NjFkMzhhN2RmZDNiZGM5NzVkMDdlZDFjNzJh",
   "tracks": [
+    {
+      "added_at": "2023-04-24 06:03:36",
+      "album": {
+        "name": "Timeless Love (From \"Custody\")",
+        "url": "https://open.spotify.com/album/3u7j59HpPiG3XUcdvUeshr"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Madan Karky",
+          "url": "https://open.spotify.com/artist/6EtLhQRslM09DO6EQLzodI"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Timeless Love (From \"Custody\")",
+      "url": "https://open.spotify.com/track/3e55Z7GQ32shpEwrnd6Jjz"
+    },
     {
       "added_at": "2023-02-22 14:11:25",
       "album": {
@@ -47,26 +75,6 @@
       "duration_ms": 224130,
       "name": "Kalallo (From \"Virupaksha\")",
       "url": "https://open.spotify.com/track/4K21tbyME0wnR0jqGgLkyq"
-    },
-    {
-      "added_at": "2023-04-24 06:03:36",
-      "album": {
-        "name": "Timeless Love (From \"Custody\") (Telugu)",
-        "url": "https://open.spotify.com/album/149ne0QeNg5tfsGbs9Cu6b"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        }
-      ],
-      "duration_ms": 252272,
-      "name": "Timeless Love (From \"Custody\") (Telugu)",
-      "url": "https://open.spotify.com/track/6gUj1HpLEN7qqJCFUWM2Zz"
     },
     {
       "added_at": "2023-04-14 12:28:07",

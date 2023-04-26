@@ -28783,6 +28783,24 @@
     },
     {
       "album": {
+        "name": "Question the Universe",
+        "url": "https://open.spotify.com/album/3mAcJKlQgli6S5X1m0GpU7"
+      },
+      "artists": [
+        {
+          "name": "Teddy Robb",
+          "url": "https://open.spotify.com/artist/64IzKvcuvD2Q06UGawFiuO"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231348,
+      "name": "Question the Universe",
+      "url": "https://open.spotify.com/track/2bZvmKO6pUFU29oPvCaenF"
+    },
+    {
+      "album": {
         "name": "Quick Stop By",
         "url": "https://open.spotify.com/album/2CtI5l8yC8x1aQ9SxBYnaP"
       },

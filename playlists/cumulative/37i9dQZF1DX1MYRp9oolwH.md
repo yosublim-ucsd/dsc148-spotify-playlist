@@ -2,9 +2,9 @@
 
 ### [Latest Romance Telugu](https://open.spotify.com/playlist/37i9dQZF1DX1MYRp9oolwH)
 
-> Bringing out the best of latest love tracks<br/>Cover : Agent
+> Bringing out the best of latest love tracks<br/>Cover : Custody
 
-120 songs - 7 hr 52 min
+121 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [Sogasuke Soku](https://open.spotify.com/track/7us2M7qEm5z0N8Pi4r9vCO) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Ghantadi Krishna](https://open.spotify.com/artist/0pllOO8uQzMCl9IDGBxr8J) | [Risk \(Telugu\)](https://open.spotify.com/album/1x1YOnezfxRM5uq4E4LAp9) | 3:59 | 2023-03-25 |  |
 | [Sridevi Chiranjeevi \(From "Waltair Veerayya"\)](https://open.spotify.com/track/417fjHB7tqIaovwPvWskHX) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu) | [Sridevi Chiranjeevi \(From "Waltair Veerayya"\)](https://open.spotify.com/album/5zZZLjaf8sIf0aiYMeMtI5) | 2:58 | 2022-12-19 |  |
 | [Tholi Tholiga \(From "Janakiram"\)](https://open.spotify.com/track/0S6WMIucenxU1SvRTA73qi) | [Rahul Nambiar](https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP), [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY) | [Tholi Tholiga \(From "Janakiram"\) \- Single](https://open.spotify.com/album/0PxHjTPAkkn0qjhqBZ4W3T) | 4:59 | 2022-07-08 | 2023-04-25 |
-| [Timeless Love \(From "Custody"\) \(Telugu\)](https://open.spotify.com/track/6gUj1HpLEN7qqJCFUWM2Zz) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Timeless Love \(From "Custody"\) \(Telugu\)](https://open.spotify.com/album/149ne0QeNg5tfsGbs9Cu6b) | 4:12 | 2023-04-24 |  |
+| [Timeless Love \(From "Custody"\)](https://open.spotify.com/track/3e55Z7GQ32shpEwrnd6Jjz) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Madan Karky](https://open.spotify.com/artist/6EtLhQRslM09DO6EQLzodI) | [Timeless Love \(From "Custody"\)](https://open.spotify.com/album/3u7j59HpPiG3XUcdvUeshr) | 4:10 | 2023-04-24 |  |
+| [Timeless Love \(From "Custody"\) \(Telugu\)](https://open.spotify.com/track/6gUj1HpLEN7qqJCFUWM2Zz) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Timeless Love \(From "Custody"\) \(Telugu\)](https://open.spotify.com/album/149ne0QeNg5tfsGbs9Cu6b) | 4:12 | 2023-04-24 | 2023-04-26 |
 | [Urike Urike](https://open.spotify.com/track/7dT21sIYXtxJpIEBIdUSuu) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [MM Sreelekha](https://open.spotify.com/artist/0goFlPiv6xhrgMwqwUss9Z), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Urike Urike \(From "Hit 2"\) \- Single](https://open.spotify.com/album/3iIpF1VSAmoP1zMejorHcK) | 4:35 | 2022-11-10 |  |
 | [Vennela Vennela](https://open.spotify.com/track/2pZPSfj0EPZVHVlf42NTVB) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Top Gear](https://open.spotify.com/album/7k4EcT3DDGPd2j73OgB6lR) | 4:54 | 2022-11-26 |  |
 | [Vennello Aadapilla \(From "Bedurulanka 2012"\)](https://open.spotify.com/track/7nNZTyhbJcS3hx9Ecx3w8f) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [J.V\. Sudhanshu](https://open.spotify.com/artist/1c8TcsYzbZiEJ0TcEP3NWq), [Harika Narayan](https://open.spotify.com/artist/6BWLgCuwDlaTKrZvgMmghn) | [Vennello Aadapilla \(From "Bedurulanka 2012"\)](https://open.spotify.com/album/3splLInsIEyso2mD5hDD3D) | 4:15 | 2023-03-07 |  |

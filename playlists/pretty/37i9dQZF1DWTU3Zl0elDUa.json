@@ -1,12 +1,12 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Kenny Dope and Little Louie Vega",
-  "num_followers": 248723,
+  "num_followers": 249138,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMTg2NzY5MCwwMDAwMDAwMDNmM2VmOTNiNGVjMjNjMWRmMTk5MTNhMzE0OWVkZjk5",
+  "snapshot_id": "MTYzMTg2NzY5MCwwMDAwMDAwMDdjZjA2ZmEyOTdlMTE5NzJkMTRlNDFmMTg1MDFiMDA4",
   "tracks": [
     {
       "added_at": "2021-09-17 08:34:50",
@@ -987,26 +987,6 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "Underground Gems, Vol. 2",
-        "url": "https://open.spotify.com/album/4RIvMqg9amqYXRaVxhSLOa"
-      },
-      "artists": [
-        {
-          "name": "Colourblind",
-          "url": "https://open.spotify.com/artist/7IiGgQFgfCPx3U34PlS4nC"
-        },
-        {
-          "name": "Dina Roache",
-          "url": "https://open.spotify.com/artist/5lPgWCOAaBImIvLXXZkEnO"
-        }
-      ],
-      "duration_ms": 395609,
-      "name": "Nothing Better - Tmvs Club Mix",
-      "url": "https://open.spotify.com/track/5lAb1UQMTC9ANal1QrFCx2"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
         "name": "Only 4 U: The Sound Of Cajmere & Cajual Records 1992-2012",
         "url": "https://open.spotify.com/album/0dnMPNmpV21diEaZEBXuDn"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 640426,
       "name": "Brighter Days - Louie's Masters At Work Mix",
       "url": "https://open.spotify.com/track/1on1fyXUnCfquRSnvHTF3Z"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Underground Gems, Vol. 2",
+        "url": "https://open.spotify.com/album/4RIvMqg9amqYXRaVxhSLOa"
+      },
+      "artists": [
+        {
+          "name": "Colourblind",
+          "url": "https://open.spotify.com/artist/7IiGgQFgfCPx3U34PlS4nC"
+        },
+        {
+          "name": "Dina Roache",
+          "url": "https://open.spotify.com/artist/5lPgWCOAaBImIvLXXZkEnO"
+        }
+      ],
+      "duration_ms": 395609,
+      "name": "Nothing Better - Tmvs Club Mix",
+      "url": "https://open.spotify.com/track/5lAb1UQMTC9ANal1QrFCx2"
     },
     {
       "added_at": "2021-09-17 08:34:50",

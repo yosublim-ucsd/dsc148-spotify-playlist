@@ -1,12 +1,12 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 26244,
+  "num_followers": 26256,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MTIwODI2NSwwMDAwMDAwMGNhYTYzNTIwZGZhOTEyZGMxOWQ0ZTI0ZGJjZTFmZThl",
+  "snapshot_id": "MTU5MTIwODI2NSwwMDAwMDAwMDY3OTA3MDJmYzI1MDg0NTk2ZDhjNzkxYzYyNGVkOWY4",
   "tracks": [
     {
       "added_at": "2020-06-03 18:17:45",
@@ -127,22 +127,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Ha\u00eftian Troubadours, Vol. 1",
-        "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
-      },
-      "artists": [
-        {
-          "name": "Michael Benjamin",
-          "url": "https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ"
-        }
-      ],
-      "duration_ms": 268240,
-      "name": "Ou pati",
-      "url": "https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "Nouvel R",
         "url": "https://open.spotify.com/album/7t73llYw1dPOBpewNut9GD"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 282120,
       "name": "Gouy\u00e9",
       "url": "https://open.spotify.com/track/116sqvAfJGse17D2vOqjSR"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "Ha\u00eftian Troubadours, Vol. 1",
+        "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
+      },
+      "artists": [
+        {
+          "name": "Michael Benjamin",
+          "url": "https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ"
+        }
+      ],
+      "duration_ms": 268240,
+      "name": "Ou pati",
+      "url": "https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H"
     },
     {
       "added_at": "2020-06-03 18:17:45",

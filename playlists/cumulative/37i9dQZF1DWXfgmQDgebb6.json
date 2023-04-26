@@ -1894,7 +1894,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 197306,
       "name": "GO! (feat. Eelittlee)",
       "url": "https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1"
@@ -4781,6 +4781,24 @@
     },
     {
       "album": {
+        "name": "insatiable <3",
+        "url": "https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA"
+      },
+      "artists": [
+        {
+          "name": "0WAVE",
+          "url": "https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169293,
+      "name": "stuck in my head",
+      "url": "https://open.spotify.com/track/27qngTthWLzhuoTgzWH06E"
+    },
+    {
+      "album": {
         "name": "Summer Night (feat. Nomad)",
         "url": "https://open.spotify.com/album/72nYRySIhWrFmvXREqYa9H"
       },
@@ -5052,7 +5070,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 165586,
       "name": "too bad",
       "url": "https://open.spotify.com/track/1Jrvrr5kFl3ssC8Gm3h39N"
@@ -5160,7 +5178,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 78106,
       "name": "U-Turn",
       "url": "https://open.spotify.com/track/1ghQ6Z2ns350hJ6yDKkXBO"

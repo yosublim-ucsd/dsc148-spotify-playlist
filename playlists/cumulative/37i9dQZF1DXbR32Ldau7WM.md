@@ -2,9 +2,9 @@
 
 ### [Big in Japan](https://open.spotify.com/playlist/37i9dQZF1DXbR32Ldau7WM)
 
-> The biggest rock artists in Japan right now! Cover: JUN SKY WALKER\(S\)
+> The biggest rock artists in Japan right now! Cover: SHERBETS
 
-586 songs - 1 day 14 hr 58 min
+588 songs - 1 day 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [13月](https://open.spotify.com/track/5blfqjxdPOzx5oV0dkcn3s) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [海辺](https://open.spotify.com/album/1Q0zDssvtxNWP6dm3zUzDX) | 4:09 | 2022-05-24 | 2022-07-29 |
 | [1994](https://open.spotify.com/track/6qezNXHaGMPgZliOqx5Wqq) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht), [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [1994](https://open.spotify.com/album/2JAJGIjBaeM1m5f9yNfWDM) | 3:31 | 2022-08-04 | 2023-04-12 |
 | [30minutes](https://open.spotify.com/track/0h5M1WuZUs7BDAmSWgzzlY) | [Kyoko](https://open.spotify.com/artist/5HRqEGJI62dhk2BuO65mnr) | [30minutes](https://open.spotify.com/album/49UapnkmqyULff9EydUll5) | 3:32 | 2022-08-09 | 2022-08-17 |
-| [A Phenomenal Man](https://open.spotify.com/track/5hxacLnWr2zD9GDKm2oEYy) | [cinema staff](https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx) | [A Phenomenal Man](https://open.spotify.com/album/0cyUc2d1JjBj3g6OkLYb99) | 3:00 | 2023-04-19 |  |
+| [A Phenomenal Man](https://open.spotify.com/track/5hxacLnWr2zD9GDKm2oEYy) | [cinema staff](https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx) | [A Phenomenal Man](https://open.spotify.com/album/0cyUc2d1JjBj3g6OkLYb99) | 3:00 | 2023-04-19 | 2023-04-26 |
 | [A Spring Breath](https://open.spotify.com/track/4gXIoS4dweag2ZBdk8xaRf) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [A Spring Breath](https://open.spotify.com/album/1XJr7sq0j0c5bccwKMdTVw) | 3:58 | 2022-05-17 | 2022-07-29 |
 | [Ain't That So Awesome](https://open.spotify.com/track/5SttGai4pssVpymhyYZGLC) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Cocoon for the Golden Future](https://open.spotify.com/album/6V1A127GqQOGQOslh0an1k) | 3:39 | 2022-10-29 | 2022-11-02 |
 | [All for RAN](https://open.spotify.com/track/2Exj7jLQ6dWGfynuNu8gj8) | [T.C.R横浜銀蝿R.S.](https://open.spotify.com/artist/0aJenP5NVBmexzvl9zeme1) | [All for RAN](https://open.spotify.com/album/1JxOZW4NUViYk6Svm771w7) | 5:09 | 2022-10-29 | 2022-11-02 |
@@ -40,6 +40,7 @@
 | [BLACK TOWN \- Acoustic Version](https://open.spotify.com/track/0R4IVPXo99eHM52nvT23tn) | [Bomb Factory](https://open.spotify.com/artist/2PPPdxtIsns02nAw3rQ03g) | [BLACK TOWN \(Acoustic Version\)](https://open.spotify.com/album/4Uko8iIzKup2aamDdaCUyx) | 4:09 | 2022-05-12 | 2022-05-24 |
 | [Blaze](https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Blaze](https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy) | 3:39 | 2022-05-17 | 2023-03-22 |
 | [Bloody Power Fame](https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Bloody Power Fame](https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI) | 3:58 | 2022-06-30 | 2023-02-08 |
+| [Boogie Woogie](https://open.spotify.com/track/2d4864DEKNKv2B1zkWiDuG) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [IZORA](https://open.spotify.com/album/7COwrUcqO3yWY4zXsdeXgI) | 3:57 | 2023-04-25 |  |
 | [Boogie Woogie](https://open.spotify.com/track/4sJmUGSQRuaXU2lzaslHFI) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [Boogie Woogie](https://open.spotify.com/album/3lkurRziZZ3vg0PprumXcU) | 3:57 | 2023-04-04 | 2023-04-06 |
 | [Boogie Woogie](https://open.spotify.com/track/5cjc6nSoDwQSSYDpv1AEK5) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [Boogie Woogie](https://open.spotify.com/album/6wFmiLqNWEe3jvu5I9gZkJ) | 3:57 | 2023-04-04 | 2023-04-16 |
 | [Boots](https://open.spotify.com/track/6Rn05EymASLxmDsQ1gVzIC) | [KICK THE CAN CREW](https://open.spotify.com/artist/5MRAExqyhUPkktT9yWNvIe) | [Boots](https://open.spotify.com/album/29KPfuJS5aQIuucPZn3Pmh) | 3:22 | 2022-05-24 | 2022-07-14 |
@@ -146,7 +147,7 @@
 | [Kowareso](https://open.spotify.com/track/3Z3RDXIcMsCQ3GJB32Q5qg) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [DOKI DOKI](https://open.spotify.com/album/0ahFITufRRpuHUXx2REpDq) | 3:55 | 2022-11-01 | 2022-11-16 |
 | [Kujira no Stage](https://open.spotify.com/track/4QYow0TygMiFEJYyQbewak) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Kujira no Stage](https://open.spotify.com/album/6i1bkPuMVk0eSbBpmQK3NL) | 5:24 | 2023-02-07 | 2023-02-15 |
 | [Kyo no Tsuzuki o](https://open.spotify.com/track/3GUxnsyhw0sBlHB5w0Y01o) | [SCOOBIE DO](https://open.spotify.com/artist/5W6Mi5J8L2fUefI1Krcacu) | [Tough Layer](https://open.spotify.com/album/7g8uOemIk4xT5HqaKEtPX5) | 3:32 | 2022-08-23 | 2022-09-07 |
-| [LADY](https://open.spotify.com/track/7w6NWogvAAFdEhD9MA2uvv) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LADY](https://open.spotify.com/album/3VuokauXicAVtmjIhMCXeW) | 3:27 | 2023-03-21 |  |
+| [LADY](https://open.spotify.com/track/7w6NWogvAAFdEhD9MA2uvv) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LADY](https://open.spotify.com/album/3VuokauXicAVtmjIhMCXeW) | 3:27 | 2023-03-21 | 2023-04-26 |
 | [LET JERRY ROLL](https://open.spotify.com/track/0JZktsU7GvVhhvbmmcqA7Y) | [TRI4TH](https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia), [チバユウスケ](https://open.spotify.com/artist/22a6IbaR2zoPAkudKhWXaW) | [LET JERRY ROLL](https://open.spotify.com/album/2p65OHZz45jCO2lTAhMlUE) | 3:23 | 2022-05-12 | 2022-07-26 |
 | [Let Me Let You Go](https://open.spotify.com/track/1l6fmXCPtTpJrKpYBe9bBw) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:00 | 2022-09-08 |  |
 | [Let Me Let You Go](https://open.spotify.com/track/5CgkbROq94tTSnXnrfvtGH) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Let Me Let You Go](https://open.spotify.com/album/4DSQT7lIc5Unlz6LoyBPzI) | 3:00 | 2022-08-30 | 2022-09-12 |
@@ -234,7 +235,7 @@
 | [Recall](https://open.spotify.com/track/1yWFRDAZKc7meT6dHxnhEq) | [Nothing’s Carved In Stone](https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb) | [ANSWER](https://open.spotify.com/album/12VTEljum1oSE0Tn0VlLVV) | 3:28 | 2022-05-12 | 2022-07-28 |
 | [REMEMBER](https://open.spotify.com/track/3zQfJvpdIOPxGLu3NR9zy4) | [Masato\(coldrain\)](https://open.spotify.com/artist/4f9hD6gIbmsHoQw9MFMnP8), [coladrain](https://open.spotify.com/artist/4qLXYL3mOJD057YL4puyU4), [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ『呪術廻戦』オリジナル・サウンドトラック](https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g) | 4:03 | 2022-05-10 | 2022-06-01 |
 | [RIDE TOUGH!](https://open.spotify.com/track/4qxKHtMonriSKpEgwRUG1V) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [RIDE TOUGH!](https://open.spotify.com/album/15ilf9j2ihJbr2JXW3lMkW) | 2:06 | 2023-04-04 | 2023-04-06 |
-| [RIDE TOUGH!](https://open.spotify.com/track/6LCz9LsnSyO9AFbquwLxO3) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [RIDE TOUGH!](https://open.spotify.com/album/6es5vAYj4JJpyMucQiBNNn) | 2:06 | 2023-04-04 |  |
+| [RIDE TOUGH!](https://open.spotify.com/track/6LCz9LsnSyO9AFbquwLxO3) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [RIDE TOUGH!](https://open.spotify.com/album/6es5vAYj4JJpyMucQiBNNn) | 2:06 | 2023-04-04 | 2023-04-26 |
 | [Ring Em Up](https://open.spotify.com/track/7hCeKuxSSVEQ8qvisUXcnR) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Ring Em Up](https://open.spotify.com/album/1BTy9dpLQhW3ITJM7yMv5O) | 3:03 | 2022-11-19 | 2022-11-23 |
 | [ROCKIN' FROM THE GRAVE](https://open.spotify.com/track/4JWHBf2cmwGLiUwT1fsW5g) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [FREAKS IN THE GARAGE \- EP](https://open.spotify.com/album/4g1lt4vvZIwRr6nubqmpm8) | 3:05 | 2022-05-24 | 2022-06-01 |
 | [Rolling Thunder Baby](https://open.spotify.com/track/2dFT2rdGLqIYAModMWFvBR) | [Rockon Social Club](https://open.spotify.com/artist/597cgbM5AF6IgCGKlZLEru) | [1988](https://open.spotify.com/album/0MfnIe4mQ2XaPNYAJkpaw0) | 3:41 | 2023-03-26 | 2023-04-05 |
@@ -274,6 +275,7 @@
 | [Special Women](https://open.spotify.com/track/7F4gwp9sUBPpWS8WeBRznU) | [The Street Sliders](https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Origin\)](https://open.spotify.com/album/3vzmgpfnvNOmxiO7WYCaOM) | 4:34 | 2023-03-21 | 2023-03-29 |
 | [SPECTACLE](https://open.spotify.com/track/3PUFqCowPUzt6IEm1DxSaD) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [HELLO](https://open.spotify.com/album/5uNowPNQdaWPKCHwV4dU64) | 3:32 | 2022-10-05 | 2022-10-06 |
 | [SPECTACLE](https://open.spotify.com/track/5ohAH1bZNRujINvE5zrDfC) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [HELLO](https://open.spotify.com/album/1taPkLBMsmuofrmi3VSbPx) | 3:32 | 2022-10-06 | 2022-10-12 |
+| [Spread City](https://open.spotify.com/track/3GmSEfuuFLpRxC6iZV9Mv7) | [SHERBETS](https://open.spotify.com/artist/2wDZiOSGlVZbHYSqAeJRW9) | [Midnight Chocolate \- EP](https://open.spotify.com/album/6Jjha9eFKiS7bvJbxU2U7Y) | 3:52 | 2023-04-25 |  |
 | [STAND!](https://open.spotify.com/track/7hp87JcODkGYqkhIi6hiBR) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [STAND!](https://open.spotify.com/album/3s5s6siW3yev2bVIZV4HU9) | 3:32 | 2022-05-17 | 2022-05-25 |
 | [Starting Over](https://open.spotify.com/track/1QjYeLtMl3hCdAvUGfEsOV) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc), [Takeshi Hosomi](https://open.spotify.com/artist/1XptSgswMTLHwDNN3js2B4), [TOSHI\-LOW](https://open.spotify.com/artist/0dqiMqznI1h0vFn1j4jwfz) | [Starting Over](https://open.spotify.com/album/2erFzGSZP5HVNfW97BM5BN) | 3:42 | 2022-11-22 | 2023-01-01 |
 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 | 2022-05-10 |  |
@@ -580,7 +582,7 @@
 | [道化者のゆううつ](https://open.spotify.com/track/1HA30W5N5vMKKURq70t7k4) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Tribute\)](https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN) | 4:59 | 2023-03-21 |  |
 | [道化者のゆううつ](https://open.spotify.com/track/5iIAIWi4WDae6teSWTe1sS) | [The Street Sliders](https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6) | [The LEGEND](https://open.spotify.com/album/6tvgmGIg2Px1PAfpIWmMVR) | 6:20 | 2023-03-21 | 2023-03-23 |
 | [道化者のゆううつ](https://open.spotify.com/track/4ULysFPpgoyIhq5NDBv1Y7) | [The Street Sliders](https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Origin\)](https://open.spotify.com/album/3vzmgpfnvNOmxiO7WYCaOM) | 6:23 | 2023-03-21 | 2023-03-29 |
-| [遠雷](https://open.spotify.com/track/4pBwrxwaEjKytWr1Pg7SXw) | [APOGEE](https://open.spotify.com/artist/5vLL9VcCC2y13B2BKs2uWI) | [Sea Gazer](https://open.spotify.com/album/6sJzI6i9ldc3LWcDbzRlrA) | 5:18 | 2023-02-28 | 2023-04-24 |
+| [遠雷](https://open.spotify.com/track/4pBwrxwaEjKytWr1Pg7SXw) | [APOGEE](https://open.spotify.com/artist/5vLL9VcCC2y13B2BKs2uWI) | [Sea Gazer](https://open.spotify.com/album/6sJzI6i9ldc3LWcDbzRlrA) | 5:18 | 2023-02-28 |  |
 | [金目鯛の煮つけ](https://open.spotify.com/track/1y2DjR60Ca5ScsuASBY6ft) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [ごはん味噌汁海苔お漬物卵焼き feat\. 梅干し](https://open.spotify.com/album/0roC3AmoLtKFgxeldXmwBJ) | 3:47 | 2022-06-14 | 2022-06-27 |
 | [鎌倉 On The Beach](https://open.spotify.com/track/45vwX3MfenJhwt0W0D4vdK) | [Yuko Hara](https://open.spotify.com/artist/176umXeBGLzt8j80Bh53l0) | [鎌倉 On The Beach](https://open.spotify.com/album/4NA2AJQ9BrkoT5GrvlnHWB) | 4:17 | 2022-09-29 | 2022-10-01 |
 | [閃光 \- English ver.](https://open.spotify.com/track/3qDky2Jzzp4MQ2dKTNfVLe) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [閃光](https://open.spotify.com/album/4g7RyFbsJV7WSxBKvialqK) | 4:25 | 2022-05-12 | 2022-11-09 |

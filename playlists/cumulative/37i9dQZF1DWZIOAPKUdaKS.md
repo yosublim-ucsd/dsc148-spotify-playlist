@@ -4,7 +4,7 @@
 
 > Soft piano to help you focus, work or study.
 
-647 songs - 1 day 3 hr 59 min
+648 songs - 1 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,8 +486,9 @@
 | [Salt Skin](https://open.spotify.com/track/5MKtW4amtrjowQ4z7uWCjU) | [Galen Rise](https://open.spotify.com/artist/7sZcguS7cGilZg03SqOH3R) | [Salt Skin](https://open.spotify.com/album/5uDgyEcwgosiV7lf9n2f40) | 2:55 | 2021-12-07 |  |
 | [Salzburg](https://open.spotify.com/track/4dFrWtOUvwvukZNeHP5hGH) | [Lucie Vanderville](https://open.spotify.com/artist/0ZEgMOvu6GpJWX1OCfp9Pb) | [Fall Clouds](https://open.spotify.com/album/1BoLkxRrD1JXTbMWuSC33s) | 2:30 | 2021-12-07 | 2022-10-05 |
 | [Sanctum](https://open.spotify.com/track/35liU7bs2YbA1udhkERMok) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Sanctum](https://open.spotify.com/album/2Hgwn7veVh8OIFsq7IzVKI) | 2:59 | 2022-01-18 |  |
+| [Sans fleurir](https://open.spotify.com/track/2e3hqbmp2aSE1EAG7PzEWw) | [Revemont](https://open.spotify.com/artist/1kk2FSO8LX07RDK6EHWBlb) | [L’éternel azur](https://open.spotify.com/album/6xArsSRZwYLiR1tOi6lvKa) | 2:24 | 2023-04-18 |  |
 | [Sans fleurir](https://open.spotify.com/track/63myAMR7Vy54SvqpjwxG7V) | [Revemont](https://open.spotify.com/artist/1kk2FSO8LX07RDK6EHWBlb) | [Sans fleurir](https://open.spotify.com/album/0c759BM7rHz7aHDOOBFC5u) | 2:24 | 2023-03-07 | 2023-03-23 |
-| [Sans fleurir](https://open.spotify.com/track/6CZct4mwXflH95xf38xDMG) | [Revemont](https://open.spotify.com/artist/1kk2FSO8LX07RDK6EHWBlb) | [Une rose dans les ténèbres](https://open.spotify.com/album/0tLNp9dCdU3DJYYYfIjyxR) | 2:24 | 2023-03-21 |  |
+| [Sans fleurir](https://open.spotify.com/track/6CZct4mwXflH95xf38xDMG) | [Revemont](https://open.spotify.com/artist/1kk2FSO8LX07RDK6EHWBlb) | [Une rose dans les ténèbres](https://open.spotify.com/album/0tLNp9dCdU3DJYYYfIjyxR) | 2:24 | 2023-03-21 | 2023-04-26 |
 | [Santos \- Lisbon](https://open.spotify.com/track/0G8O0bm8jxkIoz3WPzTElm) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Santos \- Lisbon](https://open.spotify.com/album/3mG8uvXqD0UMJz5wxeLX9P) | 2:41 | 2022-05-20 |  |
 | [Satin Night](https://open.spotify.com/track/6FDLRVWrSK9eHkg1sMF8Hl) | [Monty Reiss](https://open.spotify.com/artist/3Tha6cubSHSaKYITdBFxwQ) | [Light Textures](https://open.spotify.com/album/7KPsPPlXsItGDbkph50uYx) | 2:20 | 2021-12-07 | 2022-09-13 |
 | [Saving Daylight \(Revisited\)](https://open.spotify.com/track/0A3qYD4HtfUkL4mMytek2m) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [Saving Daylight \(Revisited\)](https://open.spotify.com/album/6iPFhGhZDGywqm8J8jqiXr) | 2:58 | 2021-12-07 |  |

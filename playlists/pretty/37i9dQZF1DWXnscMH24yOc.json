@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 431987,
+  "num_followers": 432066,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk2MDAyOSwwMDAwMDAwMDYxNDEyOWJmYmU0YWIxNjEzZjZkODJmY2EwZjlkZjdl",
+  "snapshot_id": "MTY0Nzk2MDAyOSwwMDAwMDAwMGZhZDQ5NDllYjg5YmJjZDBjYjFkMGM2NjQxOWUzYjZk",
   "tracks": [
     {
       "added_at": "2022-03-22 14:40:29",
@@ -259,6 +259,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Deaf Heat EP",
+        "url": "https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 166762,
+      "name": "I Follow Rivers",
+      "url": "https://open.spotify.com/track/3Cs4g3w33H9YEptmg34DQc"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Funeral Singers",
         "url": "https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 219374,
       "name": "Funeral Singers",
       "url": "https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Deaf Heat EP",
-        "url": "https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC"
-      },
-      "artists": [
-        {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
-        }
-      ],
-      "duration_ms": 166762,
-      "name": "I Follow Rivers",
-      "url": "https://open.spotify.com/track/3Cs4g3w33H9YEptmg34DQc"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -943,18 +943,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Youth",
-        "url": "https://open.spotify.com/album/5WjvWdND9pQf1bTZANVvvy"
+        "name": "My Girl",
+        "url": "https://open.spotify.com/album/48rv1iGnI8ggoWnKNalXRR"
       },
       "artists": [
         {
-          "name": "Haux",
-          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 160588,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/00urNqCMQhspKwipmP3EZN"
+      "duration_ms": 185054,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/25TrYuBFlgMIaaQDYZNJoa"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -975,34 +975,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "My Girl",
-        "url": "https://open.spotify.com/album/48rv1iGnI8ggoWnKNalXRR"
+        "name": "Youth",
+        "url": "https://open.spotify.com/album/5WjvWdND9pQf1bTZANVvvy"
       },
       "artists": [
         {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+          "name": "Haux",
+          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
         }
       ],
-      "duration_ms": 185054,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/25TrYuBFlgMIaaQDYZNJoa"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Siamese Dream",
-        "url": "https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 255633,
-      "name": "Today",
-      "url": "https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1"
+      "duration_ms": 160588,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/00urNqCMQhspKwipmP3EZN"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1019,6 +1003,22 @@
       "duration_ms": 212044,
       "name": "I'm Gonna Be (500 Miles)",
       "url": "https://open.spotify.com/track/09MdiypXlcb1kohV3cO03p"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Siamese Dream",
+        "url": "https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 255633,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "The Fifth",
-        "url": "https://open.spotify.com/album/40h5bhuUo7CJVtySM2tm2l"
-      },
-      "artists": [
-        {
-          "name": "Mathew V",
-          "url": "https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS"
-        }
-      ],
-      "duration_ms": 236710,
-      "name": "Always Be My Baby",
-      "url": "https://open.spotify.com/track/5dYs9IhYDPUqlYKILmRXt5"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Barton Hollow",
         "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 185053,
       "name": "Dance Me to the End of Love (Bonus)",
       "url": "https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "The Fifth",
+        "url": "https://open.spotify.com/album/40h5bhuUo7CJVtySM2tm2l"
+      },
+      "artists": [
+        {
+          "name": "Mathew V",
+          "url": "https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS"
+        }
+      ],
+      "duration_ms": 236710,
+      "name": "Always Be My Baby",
+      "url": "https://open.spotify.com/track/5dYs9IhYDPUqlYKILmRXt5"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Cats On Trees (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y"
-      },
-      "artists": [
-        {
-          "name": "Cats On Trees",
-          "url": "https://open.spotify.com/artist/3Dcckn2A8PXmu8zLpMuO3B"
-        }
-      ],
-      "duration_ms": 181786,
-      "name": "Love You Like a Love Song",
-      "url": "https://open.spotify.com/track/0JnadInlpLB7yLuxyPvSBR"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Sound Of A Woman",
         "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Waterfalls",
-        "url": "https://open.spotify.com/album/3a6JKnmVgeGdxebVWOXGOw"
+        "name": "Cats On Trees (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y"
       },
       "artists": [
         {
-          "name": "Ten F\u00e9",
-          "url": "https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT"
+          "name": "Cats On Trees",
+          "url": "https://open.spotify.com/artist/3Dcckn2A8PXmu8zLpMuO3B"
         }
       ],
-      "duration_ms": 266863,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/4WFdNbQtBQxY9rM7d3E6XC"
+      "duration_ms": 181786,
+      "name": "Love You Like a Love Song",
+      "url": "https://open.spotify.com/track/0JnadInlpLB7yLuxyPvSBR"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1187,6 +1171,22 @@
       "duration_ms": 300186,
       "name": "Let\u2019s Dance",
       "url": "https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Waterfalls",
+        "url": "https://open.spotify.com/album/3a6JKnmVgeGdxebVWOXGOw"
+      },
+      "artists": [
+        {
+          "name": "Ten F\u00e9",
+          "url": "https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT"
+        }
+      ],
+      "duration_ms": 266863,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/4WFdNbQtBQxY9rM7d3E6XC"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Henry / I'm On Fire",
-        "url": "https://open.spotify.com/album/6ZAKHuqVkCtP8ZXrI7a54W"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 187241,
-      "name": "I'm On Fire",
-      "url": "https://open.spotify.com/track/1ZGTTfJcCJ33IfAaExK5Wi"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "K.",
         "url": "https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 290518,
       "name": "1979",
       "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Henry / I'm On Fire",
+        "url": "https://open.spotify.com/album/6ZAKHuqVkCtP8ZXrI7a54W"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 187241,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/1ZGTTfJcCJ33IfAaExK5Wi"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "...but i'd rather be with you",
-        "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 235418,
-      "name": "Sunflower, Vol. 6",
-      "url": "https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "The City Holds My Heart",
         "url": "https://open.spotify.com/album/0YCSQTk2QkPkHVHeGo1Pbu"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 204160,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/1oPMTvVb57KNBV354DxsX9"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "...but i'd rather be with you",
+        "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 235418,
+      "name": "Sunflower, Vol. 6",
+      "url": "https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "For The Young",
-        "url": "https://open.spotify.com/album/6qd53x1EBxp5wSlmqv9R7B"
-      },
-      "artists": [
-        {
-          "name": "Anna Ternheim",
-          "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
-        }
-      ],
-      "duration_ms": 249400,
-      "name": "Show Me The Meaning Of Being Lonely",
-      "url": "https://open.spotify.com/track/4AxIU7R7grPIgl8m6xhvke"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Feel Good Inc.",
         "url": "https://open.spotify.com/album/4FjHmmKcMhmwZJkUWnbSje"
       },
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Nothing's Gonna Hurt You Baby (From \"Promising Young Woman\" Soundtrack)",
-        "url": "https://open.spotify.com/album/60H1ATlKVSVErAcZtr9rkY"
+        "name": "For The Young",
+        "url": "https://open.spotify.com/album/6qd53x1EBxp5wSlmqv9R7B"
       },
       "artists": [
         {
-          "name": "Donna Missal",
-          "url": "https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8"
+          "name": "Anna Ternheim",
+          "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
         }
       ],
-      "duration_ms": 197864,
-      "name": "Nothing's Gonna Hurt You Baby - From \"Promising Young Woman\" Soundtrack",
-      "url": "https://open.spotify.com/track/0DNJCBqcgQaBndHYHbx57y"
+      "duration_ms": 249400,
+      "name": "Show Me The Meaning Of Being Lonely",
+      "url": "https://open.spotify.com/track/4AxIU7R7grPIgl8m6xhvke"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1619,6 +1603,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Nothing's Gonna Hurt You Baby (From \"Promising Young Woman\" Soundtrack)",
+        "url": "https://open.spotify.com/album/60H1ATlKVSVErAcZtr9rkY"
+      },
+      "artists": [
+        {
+          "name": "Donna Missal",
+          "url": "https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8"
+        }
+      ],
+      "duration_ms": 197864,
+      "name": "Nothing's Gonna Hurt You Baby - From \"Promising Young Woman\" Soundtrack",
+      "url": "https://open.spotify.com/track/0DNJCBqcgQaBndHYHbx57y"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Fade into You",
         "url": "https://open.spotify.com/album/1n61ugQ0ZLLoTkcioiKOQl"
       },
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/0DGxizS2jb1tTYimUJdQ15"
-      },
-      "artists": [
-        {
-          "name": "Roses & Revolutions",
-          "url": "https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l"
-        }
-      ],
-      "duration_ms": 243209,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/55cFWjs1LPFOeBl4gLuD4M"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Latch",
         "url": "https://open.spotify.com/album/3li5ucuODpV4x3lbIcihqi"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 209819,
       "name": "Latch",
       "url": "https://open.spotify.com/track/2d1tlBbyST4TWmZ7xwdAXH"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/0DGxizS2jb1tTYimUJdQ15"
+      },
+      "artists": [
+        {
+          "name": "Roses & Revolutions",
+          "url": "https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l"
+        }
+      ],
+      "duration_ms": 243209,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/55cFWjs1LPFOeBl4gLuD4M"
     }
   ],
   "unique_name": "Chill Covers",

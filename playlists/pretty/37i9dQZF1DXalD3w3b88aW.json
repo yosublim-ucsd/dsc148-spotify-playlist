@@ -1,12 +1,12 @@
 {
   "description": "The emotional interludes we wish were longer.",
-  "num_followers": 11312,
+  "num_followers": 11309,
   "original_name": "Mood Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDA0NTM1NiwwMDAwMDAwMGU1M2M4ZDk5NThlNjcyYmE3OTE4MGUxN2ViOGU2MzRk",
+  "snapshot_id": "MTY3MDA0NTM1NiwwMDAwMDAwMDc0NjZkZGQwN2VmNzFjMDY1ZDY4NzU0YTJhZjk4YmNi",
   "tracks": [
     {
       "added_at": "2022-12-03 05:29:16",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Crazysexycool",
-        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
-      },
-      "artists": [
-        {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
-        }
-      ],
-      "duration_ms": 42693,
-      "name": "Intermission-lude",
-      "url": "https://open.spotify.com/track/0bakfb6K3L9A4Sn7W648Gj"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Brandy",
         "url": "https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 55360,
       "name": "I Dedicate (Pt. 2)",
       "url": "https://open.spotify.com/track/3LXboMeaQsF3iNGV3uKOlA"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Crazysexycool",
+        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "duration_ms": 42693,
+      "name": "Intermission-lude",
+      "url": "https://open.spotify.com/track/0bakfb6K3L9A4Sn7W648Gj"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -647,18 +647,34 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Acoustic Soul",
-        "url": "https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
       },
       "artists": [
         {
-          "name": "India.Arie",
-          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
         }
       ],
-      "duration_ms": 84600,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/2CpIzsORlIOclbE1nB8NEq"
+      "duration_ms": 67573,
+      "name": "You Are My Joy (Interlude)",
+      "url": "https://open.spotify.com/track/2br377aSsnmO1ygH7eS6wJ"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Crazysexycool",
+        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "duration_ms": 177066,
+      "name": "Can I Get a Witness-Interlude",
+      "url": "https://open.spotify.com/track/4lFuxxdGm2o6pbUgyQMoEl"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -695,50 +711,18 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Crazysexycool",
-        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
+        "name": "Acoustic Soul",
+        "url": "https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z"
       },
       "artists": [
         {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
         }
       ],
-      "duration_ms": 177066,
-      "name": "Can I Get a Witness-Interlude",
-      "url": "https://open.spotify.com/track/4lFuxxdGm2o6pbUgyQMoEl"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 67573,
-      "name": "You Are My Joy (Interlude)",
-      "url": "https://open.spotify.com/track/2br377aSsnmO1ygH7eS6wJ"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
-        "name": "Frank (US Clean e-Version)",
-        "url": "https://open.spotify.com/album/0RisvCe4jLWes0m89StnuZ"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 39026,
-      "name": "Teo Licks",
-      "url": "https://open.spotify.com/track/6IqhxPxds9Wrm63slCROHO"
+      "duration_ms": 84600,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/2CpIzsORlIOclbE1nB8NEq"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -755,6 +739,22 @@
       "duration_ms": 70386,
       "name": "Definition of a Bad Girl (Interlude)",
       "url": "https://open.spotify.com/track/7pCs7Zi5ya5NCwMPDC6Cuk"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Frank (US Clean e-Version)",
+        "url": "https://open.spotify.com/album/0RisvCe4jLWes0m89StnuZ"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 39026,
+      "name": "Teo Licks",
+      "url": "https://open.spotify.com/track/6IqhxPxds9Wrm63slCROHO"
     },
     {
       "added_at": "2022-12-03 05:29:16",

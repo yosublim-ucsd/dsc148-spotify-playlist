@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Venna + Knucks",
-  "num_followers": 283215,
+  "num_followers": 283378,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAzMTYwMCwwMDAwMDAwMDg0Y2ExMmJhNjM3NTc3ZTQwZWRjMWRkNTQ5YTBiN2M4",
+  "snapshot_id": "MTY4MjAzMTYwMCwwMDAwMDAwMDFiODZhODA3OGNmNWM0MDg2Nzg2Yzk3OTU2N2RiYWEw",
   "tracks": [
     {
       "added_at": "2023-04-20 23:00:00",
@@ -183,6 +183,22 @@
     {
       "added_at": "2023-04-20 23:00:00",
       "album": {
+        "name": "Variables",
+        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "duration_ms": 403933,
+      "name": "Foreword",
+      "url": "https://open.spotify.com/track/2n0GcL4eZ110vdaU16OBdJ"
+    },
+    {
+      "added_at": "2023-04-20 23:00:00",
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/7xQ7j0RjNCkkkAeJfFhdaX"
       },
@@ -199,26 +215,6 @@
       "duration_ms": 184650,
       "name": "See You",
       "url": "https://open.spotify.com/track/0zYHvLLjzBbMYsk2dHY2gY"
-    },
-    {
-      "added_at": "2023-04-20 23:00:00",
-      "album": {
-        "name": "Aged Eyes",
-        "url": "https://open.spotify.com/album/7A6hBg9U4hIYiCLcthKQzG"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        },
-        {
-          "name": "Kaya Thomas-Dyke",
-          "url": "https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "Aged Eyes",
-      "url": "https://open.spotify.com/track/7xtWxotWjZAFB1rw5J3HHz"
     },
     {
       "added_at": "2023-04-20 23:00:00",
@@ -287,38 +283,6 @@
     {
       "added_at": "2023-04-20 23:00:00",
       "album": {
-        "name": "Dough",
-        "url": "https://open.spotify.com/album/66x9bHZiWLtKOjSHy1vltw"
-      },
-      "artists": [
-        {
-          "name": "DARGZ",
-          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
-        }
-      ],
-      "duration_ms": 151602,
-      "name": "Dough",
-      "url": "https://open.spotify.com/track/0jODRjsDMDrnRVwRpMS4SI"
-    },
-    {
-      "added_at": "2023-04-20 23:00:00",
-      "album": {
-        "name": "Variables",
-        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 403933,
-      "name": "Foreword",
-      "url": "https://open.spotify.com/track/2n0GcL4eZ110vdaU16OBdJ"
-    },
-    {
-      "added_at": "2023-04-20 23:00:00",
-      "album": {
         "name": "Motherland Journey",
         "url": "https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg"
       },
@@ -335,6 +299,22 @@
       "duration_ms": 286184,
       "name": "Dat It",
       "url": "https://open.spotify.com/track/3dpNm5Z9JFt5It1gAWfvZX"
+    },
+    {
+      "added_at": "2023-04-20 23:00:00",
+      "album": {
+        "name": "Dough",
+        "url": "https://open.spotify.com/album/66x9bHZiWLtKOjSHy1vltw"
+      },
+      "artists": [
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        }
+      ],
+      "duration_ms": 151602,
+      "name": "Dough",
+      "url": "https://open.spotify.com/track/0jODRjsDMDrnRVwRpMS4SI"
     },
     {
       "added_at": "2023-04-20 23:00:00",
@@ -375,6 +355,26 @@
       "duration_ms": 220001,
       "name": "Woe Is Me",
       "url": "https://open.spotify.com/track/6vtf3U3toO8stSeLInVJtL"
+    },
+    {
+      "added_at": "2023-04-20 23:00:00",
+      "album": {
+        "name": "Aged Eyes",
+        "url": "https://open.spotify.com/album/7A6hBg9U4hIYiCLcthKQzG"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Kaya Thomas-Dyke",
+          "url": "https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "Aged Eyes",
+      "url": "https://open.spotify.com/track/7xtWxotWjZAFB1rw5J3HHz"
     },
     {
       "added_at": "2023-04-20 23:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-04-20 23:00:00",
       "album": {
+        "name": "Something I Said",
+        "url": "https://open.spotify.com/album/1sruO8JvNgHAGorAbZIz4R"
+      },
+      "artists": [
+        {
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+        }
+      ],
+      "duration_ms": 196235,
+      "name": "Something I Said",
+      "url": "https://open.spotify.com/track/353y8b5t9MDnUlddgQ0dZY"
+    },
+    {
+      "added_at": "2023-04-20 23:00:00",
+      "album": {
         "name": "Eat The Kiwi Skin (Deluxe)",
         "url": "https://open.spotify.com/album/4cosFoJnRiCtUDe8I6iojz"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 190466,
       "name": "Who Am I (eh-eh)",
       "url": "https://open.spotify.com/track/08PElxQZ8xfd8Ex3aH0zsI"
-    },
-    {
-      "added_at": "2023-04-20 23:00:00",
-      "album": {
-        "name": "Something I Said",
-        "url": "https://open.spotify.com/album/1sruO8JvNgHAGorAbZIz4R"
-      },
-      "artists": [
-        {
-          "name": "Sophie Faith",
-          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
-        }
-      ],
-      "duration_ms": 196235,
-      "name": "Something I Said",
-      "url": "https://open.spotify.com/track/353y8b5t9MDnUlddgQ0dZY"
     },
     {
       "added_at": "2023-04-20 23:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-04-20 23:00:00",
       "album": {
+        "name": "Late Night People",
+        "url": "https://open.spotify.com/album/5pN3T9hCW6y9OKAgJnEYYo"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 334000,
+      "name": "Late Night People",
+      "url": "https://open.spotify.com/track/69y3XAgRaXrtO5h9YvpPHJ"
+    },
+    {
+      "added_at": "2023-04-20 23:00:00",
+      "album": {
         "name": "Raven Flies Low",
         "url": "https://open.spotify.com/album/2wFfhmqzJPaccEYQ82n4GU"
       },
@@ -923,18 +939,22 @@
     {
       "added_at": "2023-04-20 23:00:00",
       "album": {
-        "name": "Late Night People",
-        "url": "https://open.spotify.com/album/5pN3T9hCW6y9OKAgJnEYYo"
+        "name": "Red and Green (Blue Lab Beats Remix)",
+        "url": "https://open.spotify.com/album/1ifUgR4IwQyFNhMI3FZzM6"
       },
       "artists": [
         {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+          "name": "Eda Eren",
+          "url": "https://open.spotify.com/artist/0Dcf25hADP87VNkGkSMRQ4"
+        },
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
         }
       ],
-      "duration_ms": 334000,
-      "name": "Late Night People",
-      "url": "https://open.spotify.com/track/69y3XAgRaXrtO5h9YvpPHJ"
+      "duration_ms": 251428,
+      "name": "Red and Green - Blue Lab Beats Remix",
+      "url": "https://open.spotify.com/track/50wdgAA4XTOMPD4DZFwv5Y"
     },
     {
       "added_at": "2023-04-20 23:00:00",
@@ -975,26 +995,6 @@
     {
       "added_at": "2023-04-20 23:00:00",
       "album": {
-        "name": "Red and Green (Blue Lab Beats Remix)",
-        "url": "https://open.spotify.com/album/1ifUgR4IwQyFNhMI3FZzM6"
-      },
-      "artists": [
-        {
-          "name": "Eda Eren",
-          "url": "https://open.spotify.com/artist/0Dcf25hADP87VNkGkSMRQ4"
-        },
-        {
-          "name": "Blue Lab Beats",
-          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
-        }
-      ],
-      "duration_ms": 251428,
-      "name": "Red and Green - Blue Lab Beats Remix",
-      "url": "https://open.spotify.com/track/50wdgAA4XTOMPD4DZFwv5Y"
-    },
-    {
-      "added_at": "2023-04-20 23:00:00",
-      "album": {
         "name": "It's All Relative",
         "url": "https://open.spotify.com/album/5fnXzQ7I4DTOvpqGY5GIKZ"
       },
@@ -1007,6 +1007,22 @@
       "duration_ms": 198843,
       "name": "Begotten",
       "url": "https://open.spotify.com/track/26FJaA3wWRE8MlgbFripAU"
+    },
+    {
+      "added_at": "2023-04-20 23:00:00",
+      "album": {
+        "name": "Berlin 1",
+        "url": "https://open.spotify.com/album/7uhLTFCUoPx782RCycvz8j"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        }
+      ],
+      "duration_ms": 302160,
+      "name": "Berlin 1",
+      "url": "https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX"
     },
     {
       "added_at": "2023-04-20 23:00:00",
@@ -1027,18 +1043,18 @@
     {
       "added_at": "2023-04-20 23:00:00",
       "album": {
-        "name": "Berlin 1",
-        "url": "https://open.spotify.com/album/7uhLTFCUoPx782RCycvz8j"
+        "name": "Lady (Ezra Collective Version)",
+        "url": "https://open.spotify.com/album/4yw5JJgvqt2Lv8aT24tqK3"
       },
       "artists": [
         {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
         }
       ],
-      "duration_ms": 302160,
-      "name": "Berlin 1",
-      "url": "https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX"
+      "duration_ms": 347266,
+      "name": "Lady (Ezra Collective Version)",
+      "url": "https://open.spotify.com/track/7qxfxicaAE5DLMxXx0IvoG"
     },
     {
       "added_at": "2023-04-20 23:00:00",
@@ -1075,6 +1091,22 @@
       "duration_ms": 188571,
       "name": "Real Good - Kan Sano Remix",
       "url": "https://open.spotify.com/track/0i8cpVrAhgU8AVUbbksw8o"
+    },
+    {
+      "added_at": "2023-04-20 23:00:00",
+      "album": {
+        "name": "Statue",
+        "url": "https://open.spotify.com/album/4wFr0pQoS4kiBXugi8eaTF"
+      },
+      "artists": [
+        {
+          "name": "Tilly Valentine",
+          "url": "https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP"
+        }
+      ],
+      "duration_ms": 204254,
+      "name": "Statue",
+      "url": "https://open.spotify.com/track/0ZWD4RbbbfohFrMpVlmv4f"
     },
     {
       "added_at": "2023-04-20 23:00:00",
@@ -1139,38 +1171,6 @@
       "duration_ms": 194614,
       "name": "Miles Chases New Voodoo In The Church - Single Edit",
       "url": "https://open.spotify.com/track/6yRAQX1d91AQEcwwYXsCfb"
-    },
-    {
-      "added_at": "2023-04-20 23:00:00",
-      "album": {
-        "name": "Statue",
-        "url": "https://open.spotify.com/album/4wFr0pQoS4kiBXugi8eaTF"
-      },
-      "artists": [
-        {
-          "name": "Tilly Valentine",
-          "url": "https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP"
-        }
-      ],
-      "duration_ms": 204254,
-      "name": "Statue",
-      "url": "https://open.spotify.com/track/0ZWD4RbbbfohFrMpVlmv4f"
-    },
-    {
-      "added_at": "2023-04-20 23:00:00",
-      "album": {
-        "name": "Lady (Ezra Collective Version)",
-        "url": "https://open.spotify.com/album/4yw5JJgvqt2Lv8aT24tqK3"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "duration_ms": 347266,
-      "name": "Lady (Ezra Collective Version)",
-      "url": "https://open.spotify.com/track/7qxfxicaAE5DLMxXx0IvoG"
     },
     {
       "added_at": "2023-04-20 23:00:00",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2023-04-20 23:00:00",
       "album": {
+        "name": "Where I'm Meant To Be",
+        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        }
+      ],
+      "duration_ms": 203560,
+      "name": "Life Goes On (feat. Sampa the Great)",
+      "url": "https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O"
+    },
+    {
+      "added_at": "2023-04-20 23:00:00",
+      "album": {
         "name": "Could We Be More",
         "url": "https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ"
       },
@@ -1295,26 +1315,6 @@
     {
       "added_at": "2023-04-20 23:00:00",
       "album": {
-        "name": "Where I'm Meant To Be",
-        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Sampa the Great",
-          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
-        }
-      ],
-      "duration_ms": 203560,
-      "name": "Life Goes On (feat. Sampa the Great)",
-      "url": "https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O"
-    },
-    {
-      "added_at": "2023-04-20 23:00:00",
-      "album": {
         "name": "Imagination",
         "url": "https://open.spotify.com/album/15R2xjP52mnJkWztc1pgCo"
       },
@@ -1327,22 +1327,6 @@
       "duration_ms": 349629,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/4jsWwL5JRWrHrWRqid2Jvg"
-    },
-    {
-      "added_at": "2023-04-20 23:00:00",
-      "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/1dVxWDxXOaiGH4x6xjad6O"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Myra",
-          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
-        }
-      ],
-      "duration_ms": 323320,
-      "name": "Horizons",
-      "url": "https://open.spotify.com/track/2n3Tqq4qL2HlcXWwXQhQ4e"
     },
     {
       "added_at": "2023-04-20 23:00:00",
@@ -1363,6 +1347,42 @@
       "duration_ms": 292495,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/0afUusMZLIOvAJNdAoDRQm"
+    },
+    {
+      "added_at": "2023-04-20 23:00:00",
+      "album": {
+        "name": "Where I'm Meant To Be",
+        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        }
+      ],
+      "duration_ms": 194440,
+      "name": "No Confusion (feat. Kojey Radical)",
+      "url": "https://open.spotify.com/track/7qQM4p5Kb8i6xYSkaEDYyR"
+    },
+    {
+      "added_at": "2023-04-20 23:00:00",
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/1dVxWDxXOaiGH4x6xjad6O"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Myra",
+          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
+        }
+      ],
+      "duration_ms": 323320,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/2n3Tqq4qL2HlcXWwXQhQ4e"
     },
     {
       "added_at": "2023-04-20 23:00:00",
@@ -1471,26 +1491,6 @@
       "duration_ms": 185625,
       "name": "Berlin 1 - Rework",
       "url": "https://open.spotify.com/track/4m3dbiaVg1DIUAHlx4X2A1"
-    },
-    {
-      "added_at": "2023-04-20 23:00:00",
-      "album": {
-        "name": "Where I'm Meant To Be",
-        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Kojey Radical",
-          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "No Confusion (feat. Kojey Radical)",
-      "url": "https://open.spotify.com/track/7qQM4p5Kb8i6xYSkaEDYyR"
     }
   ],
   "unique_name": "Jazz UK",

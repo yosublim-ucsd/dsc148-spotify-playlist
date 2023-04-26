@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI?si=f757c25bb9da48e0">Madison Ryann Ward</a>
 
-326 songs - 20 hr 0 min
+327 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Needed](https://open.spotify.com/track/7uUYwH6moimJ0iQmHVW9Jq) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Needed](https://open.spotify.com/album/17hveC08PQdEHxFQRTMsOd) | 2:55 | 2023-02-20 |  |
 | [Never Grow Tired](https://open.spotify.com/track/68m3fFj8up50boqi077Yr8) | [The Evidence](https://open.spotify.com/artist/4MED9DlaFRdyMhD445Wqxe) | [Never Grow Tired](https://open.spotify.com/album/6YsIjF6Wr2kPr25CVI3F7M) | 4:21 | 2020-12-18 | 2022-11-15 |
 | [New Song \(Psalm 40\)](https://open.spotify.com/track/5nCSaFxaoliN2NyUtFQOUU) | [The Dodds](https://open.spotify.com/artist/19PhCtCPPzv4CCepliG4hl) | [New Song \(Psalm 40\)](https://open.spotify.com/album/5SKIaSs8T7xHbPAfQMBvaY) | 4:14 | 2020-12-18 | 2023-02-19 |
-| [No Height No Depth \- Live](https://open.spotify.com/track/0lcDv3jjwGTMDzA63ML2BZ) | [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz) | [No Height No Depth \(Live\)](https://open.spotify.com/album/1RrxjsU3bsvORs3mD8HvFO) | 6:33 | 2023-02-19 |  |
+| [No Height No Depth \- Live](https://open.spotify.com/track/0lcDv3jjwGTMDzA63ML2BZ) | [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz) | [No Height No Depth \(Live\)](https://open.spotify.com/album/1RrxjsU3bsvORs3mD8HvFO) | 6:33 | 2023-02-19 | 2023-04-26 |
 | [No More Wasted Years](https://open.spotify.com/track/16ezlD3gIKOeY7hb2911Dm) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N), [Nikki Holguin](https://open.spotify.com/artist/0al1p0MaMEwJmrbteVu3rw) | [No More Wasted Years](https://open.spotify.com/album/3HIwxeFNEU6MfZ5N7iK1EG) | 3:18 | 2023-04-07 | 2023-04-22 |
 | [No Name Higher](https://open.spotify.com/track/1TtHwXMFMn08FbV7xLOolu) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [No Name Higher](https://open.spotify.com/album/0OixCbdiXloh7UGgnY4f7n) | 4:48 | 2023-02-19 |  |
 | [None Like You](https://open.spotify.com/track/23gYKYjZWdaSmug23zfKyQ) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Rory Mckenna](https://open.spotify.com/artist/3nfMxP6LLKjO9D6BfSmg2c) | [Hymns + Disparity](https://open.spotify.com/album/2HWxsVil1BGXvWhSZ55M8f) | 1:16 | 2023-02-19 |  |
@@ -282,6 +282,7 @@
 | [The Author](https://open.spotify.com/track/5kerGo1eZ5DUBvas9pPlvp) | [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [The Author](https://open.spotify.com/album/7edUmzYfGRHLXtnkbJn68O) | 3:18 | 2023-04-21 |  |
 | [The Gate](https://open.spotify.com/track/3YCgFhmzxGnGCdtUxGVjB8) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Brandon Hampton](https://open.spotify.com/artist/5dC9jxV6hFvZpUmxvEKyQQ) | [The Gate](https://open.spotify.com/album/5HS7KRUKIhfyTL5CKaiQbz) | 5:44 | 2023-02-24 | 2023-04-09 |
 | [The Light](https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0) | [Grace Graber](https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK) | [The Light](https://open.spotify.com/album/7k8gdxamGTnS2G5BnhjZ9C) | 3:21 | 2023-02-19 |  |
+| [The Lord's Prayer](https://open.spotify.com/track/41DzL9erDrCxZtavGqxj3I) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [The Lord's Prayer](https://open.spotify.com/album/0k4Mkgx0J2qp0d4rupd2MM) | 2:56 | 2023-04-21 |  |
 | [The Road, The Rocks, and The Weeds](https://open.spotify.com/track/59oEEdqRLNKYBM7nbbaCD7) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [The Road, The Rocks, and The Weeds](https://open.spotify.com/album/4Q7EFIDyCAMqsr0fGD3kle) | 3:35 | 2020-12-18 | 2023-02-19 |
 | [The Wild Ones](https://open.spotify.com/track/2vlC2Is2scLR6TvzXPwM4O) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri) | [The Wild Ones](https://open.spotify.com/album/0igqE913o5PxXnQZ1M1Lk1) | 4:18 | 2023-02-24 | 2023-04-22 |
 | [This Is Love](https://open.spotify.com/track/4NIGBioApdPW0lBX70zrJZ) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [Laity](https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41) | [This Is Love](https://open.spotify.com/album/1OU3ckOHNBp6X6QLHZuPDZ) | 3:33 | 2020-12-18 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-960 songs - 2 day 4 hr 28 min
+961 songs - 2 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 | 2023-04-21 |  |
 | [Beautiful](https://open.spotify.com/track/2WtnjG1E5UlADYOiiKwj5A) | [Omnia](https://open.spotify.com/artist/0XZkeCAlpiO5qcIlAJzZaA) | [Beautiful](https://open.spotify.com/album/7MrYNkRMcNYUenCfCBH3AT) | 3:26 | 2021-05-25 | 2021-09-18 |
 | [BED \- David Guetta Festival Mix](https://open.spotify.com/track/7ft8GUKMIuFnH4lueyOTQi) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED \(David Guetta Festival Mix\)](https://open.spotify.com/album/25SO6nYRYrNwBngu5UwThd) | 3:55 | 2021-04-30 | 2021-09-18 |
+| [Beggin'](https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Beggin'](https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V) | 3:03 | 2023-04-21 |  |
 | [Believe \(feat\. Goodboys\)](https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Believe \(feat\. Goodboys\)](https://open.spotify.com/album/6OcqONrf7kWx0jE3yNI2Nx) | 3:08 | 2022-10-07 |  |
 | [Believe \(feat\. Goodboys\) \[Galantis Remix\]](https://open.spotify.com/track/1E5x0AEn7hFZlNwPNRtTGm) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Believe \(feat\. Goodboys\) \[Galantis Remix\]](https://open.spotify.com/album/0xe6QNeyXktGipggjECGK7) | 2:54 | 2023-01-06 | 2023-04-01 |
 | [Believer](https://open.spotify.com/track/1Ckah0ICBG4AoAY0x6LbSF) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [hermixalot](https://open.spotify.com/artist/6hdb3ZH5gpJxqFPdXRGmdC) | [Believer](https://open.spotify.com/album/7viE6ghVokRusMmJKuEBqC) | 3:14 | 2021-05-15 | 2021-09-11 |
@@ -696,7 +697,7 @@
 | [Say What U Want](https://open.spotify.com/track/4ha0xVnXD5RehIxHSDanG4) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Say What U Want](https://open.spotify.com/album/6TedOvyw1mKkddSpguuhGQ) | 2:23 | 2021-06-12 | 2021-09-11 |
 | [Screwdriver](https://open.spotify.com/track/57Gc56jQqwtDAEq7gTAXW9) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Screwdriver](https://open.spotify.com/album/07QCMIgF4a3tKj7NN2ESeE) | 3:07 | 2022-01-04 | 2022-06-26 |
 | [Searching](https://open.spotify.com/track/1yLFszi3D4sq3ECcDxxPM6) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Searching](https://open.spotify.com/album/1WN5g5MtXHMiyUdUcclJ2l) | 3:30 | 2021-12-03 | 2022-03-12 |
-| [See In Color](https://open.spotify.com/track/2RxDAFchouApF3yUwE6gxE) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [See In Color](https://open.spotify.com/album/6JK0ooMtZxPQakH2bJJ5Yj) | 2:34 | 2023-01-13 |  |
+| [See In Color](https://open.spotify.com/track/2RxDAFchouApF3yUwE6gxE) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [See In Color](https://open.spotify.com/album/6JK0ooMtZxPQakH2bJJ5Yj) | 2:34 | 2023-01-13 | 2023-04-26 |
 | [SEND IT! \- Timmy Trumpet Remix](https://open.spotify.com/track/6ReC6qQeqhvbudMsMiIrRF) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [SEND IT! \(Timmy Trumpet Remix\)](https://open.spotify.com/album/0mKV2R5PZgSAxgbDmn1C7s) | 3:07 | 2021-09-25 | 2021-10-05 |
 | [Sensational](https://open.spotify.com/track/3Kir9mPDm54ViKTrgXA3zB) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Sensational](https://open.spotify.com/album/2nwb4DgmKwc1QdhnLBj7S4) | 3:17 | 2021-03-26 | 2021-07-24 |
 | [Set Me Free](https://open.spotify.com/track/5zA3gMIFlgnhNQj39GcTqE) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Set Me Free](https://open.spotify.com/album/2SR6UldibmBVT6te65lEuI) | 3:00 | 2023-03-06 |  |

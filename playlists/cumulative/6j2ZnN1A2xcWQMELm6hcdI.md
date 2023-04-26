@@ -4,10 +4,11 @@
 
 > On Fleek: Adj\. 1\) a state of completeness and flawlessness \[see: <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\]\. Cover: Chlöe
 
-239 songs - 11 hr 45 min
+239 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/6WFw0Uu4yOL4FruGex6DKc) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Perfect](https://open.spotify.com/album/2N5BaKNkorev8tqkLpojdp) | 0:00 | 2023-04-07 |  |
 | [3 Years \(feat\. Deante' Hitchcock\)](https://open.spotify.com/track/4Ps8BalYQSZEhT1JGDMwQl) | [Ellery Bonham](https://open.spotify.com/artist/0z0QtIZfyodv4ImXAxEXIH), [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH) | [3 Years \(feat\. Deante' Hitchcock\)](https://open.spotify.com/album/7yn9fplntF0TRaIq93OJeg) | 3:39 | 2022-06-03 | 2023-02-05 |
 | [80/20](https://open.spotify.com/track/3UGjJ29o2HC4Sb06DXjkFQ) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour \(Chrome Edition\)](https://open.spotify.com/album/6hMkD2lSkRG7ZJZ3iGpQyz) | 2:48 | 2022-06-03 | 2022-11-12 |
 | [Ain't Going Back](https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [Ain't Going Back](https://open.spotify.com/album/4DaOVKUAir02h9JpD3ddVP) | 2:29 | 2022-06-17 |  |
@@ -157,7 +158,6 @@
 | [Papi](https://open.spotify.com/track/0oqSDa2UpnKWwncU8Y9098) | [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0) | [Papi](https://open.spotify.com/album/2TCI9AcDhC6ksP5JMyAv5J) | 3:21 | 2023-04-21 |  |
 | [PBC](https://open.spotify.com/track/4DDiIZDlRldzWuCp47TIhU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [PBC](https://open.spotify.com/album/06IJHrNnxOYwvOjT3RBl0i) | 2:34 | 2022-06-03 |  |
 | [peppermint](https://open.spotify.com/track/3j8IY51BphvdJhwllZa64l) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [peppermint](https://open.spotify.com/album/0lY0zMy831JbNwgM1wv2rK) | 2:47 | 2022-06-03 | 2023-02-05 |
-| [Perfect](https://open.spotify.com/track/6WFw0Uu4yOL4FruGex6DKc) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Perfect](https://open.spotify.com/album/2N5BaKNkorev8tqkLpojdp) | 3:06 | 2023-04-07 |  |
 | [Perreito Salvaje](https://open.spotify.com/track/4hs52wFSucGnS5dYryIZ4F) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Perreito Salvaje](https://open.spotify.com/album/2nEyfN6oPzU8bVd3639TSK) | 2:51 | 2022-06-03 | 2023-02-05 |
 | [pl4yg1rl](https://open.spotify.com/track/3xA9Cta8gafKNV1xNpMK2r) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [pl4yg1rl](https://open.spotify.com/album/1xQEgoJUeY0K2pc0p8LLXG) | 2:39 | 2022-09-16 | 2023-03-18 |
 | [plain chip](https://open.spotify.com/track/3OnjXW05hcOQ8aXhj1rlPv) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE) | [plain chip](https://open.spotify.com/album/78GuTKkqxNUe8SqSJxKlBh) | 2:40 | 2022-07-01 | 2023-03-25 |

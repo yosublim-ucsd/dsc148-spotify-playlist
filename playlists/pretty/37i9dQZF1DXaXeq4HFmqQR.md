@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que la rompen feat\. AKRIILA\. <br/>Dales play, dales power.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,829 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,831 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 24 | [COPACABANA](https://open.spotify.com/track/0hPHlk4amnX3CgVhoeEF9K) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [COPACABANA](https://open.spotify.com/album/2aMzComZzJaqrmcEoHKoaZ) | 3:01 |
 | 25 | [Soy una Gerla](https://open.spotify.com/track/197ZZGvA3mTwIZ6V2dtat1) | [Almeyda](https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF) | [Soy una Gerla](https://open.spotify.com/album/5Dtr4425ZrOdNdH8dKVMqR) | 1:56 |
 | 26 | [<3](https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [<3](https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6) | 2:22 |
-| 27 | [Flor de Loto](https://open.spotify.com/track/2MywTeCcDn6ClNrGewWeUh) | [Gigi Caro](https://open.spotify.com/artist/5tNMNTIBXGY7Hq6AyGCAR8) | [Flor de Loto](https://open.spotify.com/album/7BeWJPSCV5V47GqEXCi4wH) | 3:14 |
-| 28 | [X Detra \(feat\. Saitoape\)](https://open.spotify.com/track/5ozANUJQBPX33q29RXGTJ6) | [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2), [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf), [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Saitoape](https://open.spotify.com/artist/1uXQ1A3Jy85T7cWKFvlgoU) | [X Detra \(feat\. Saitoape\)](https://open.spotify.com/album/78KwaH54fwPpOltpzc5hYM) | 3:37 |
+| 27 | [X Detra \(feat\. Saitoape\)](https://open.spotify.com/track/5ozANUJQBPX33q29RXGTJ6) | [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2), [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf), [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Saitoape](https://open.spotify.com/artist/1uXQ1A3Jy85T7cWKFvlgoU) | [X Detra \(feat\. Saitoape\)](https://open.spotify.com/album/78KwaH54fwPpOltpzc5hYM) | 3:37 |
+| 28 | [Flor de Loto](https://open.spotify.com/track/2MywTeCcDn6ClNrGewWeUh) | [Gigi Caro](https://open.spotify.com/artist/5tNMNTIBXGY7Hq6AyGCAR8) | [Flor de Loto](https://open.spotify.com/album/7BeWJPSCV5V47GqEXCi4wH) | 3:14 |
 | 29 | [Libre Albedrío](https://open.spotify.com/track/1V199S6f6QMqqb7j1V4MaF) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Cristal](https://open.spotify.com/album/0k8fiM3A193BLZqPWYhWD1) | 3:04 |
 | 30 | [XULA](https://open.spotify.com/track/7pONy7BDKUf9RnGwj541Lq) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf), [Saito ape](https://open.spotify.com/artist/2MPqvA1H0bdSKq7hohfxL1) | [XULA](https://open.spotify.com/album/08isqualO1ZcEKPVWl2e4L) | 2:17 |
 | 31 | [Mi Cula \(Remix\)](https://open.spotify.com/track/4mRfyjonZZuRy3iTxKHazl) | [Señorita Chu](https://open.spotify.com/artist/66HozQ44x8qKTB7irTL2NJ), [Almeyda](https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Señorita](https://open.spotify.com/album/7t50mP3PTQZkO1O8BeqV4z) | 3:47 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 33 | [No Verán](https://open.spotify.com/track/5ad4erSBw23M9ZR9qXxKJO) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [No Verán](https://open.spotify.com/album/0uEDpAuha70JI917sWwjfK) | 3:25 |
 | 34 | [Siempre Nice](https://open.spotify.com/track/7cXUURjoM0VmxkMDXFyIKO) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Back to Basics](https://open.spotify.com/album/32sbVfAJ3CK8Uu27g4VAJY) | 3:11 |
 | 35 | [Bendecía](https://open.spotify.com/track/1whBPxqXxk75fRRwlOLfgb) | [Otherness](https://open.spotify.com/artist/5TErnITI1p7XdTWM5CTwIL), [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Ata RK](https://open.spotify.com/artist/1uaqThDFNKkktLbwFejfxW) | [Bendecía](https://open.spotify.com/album/7MzBpaRgt9pUI4oYdLzK8q) | 3:16 |
-| 36 | [Brígida](https://open.spotify.com/track/4YlYsqejhE3xBb0XfWXXjE) | [Vesta Lugg](https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c) | [Brígida](https://open.spotify.com/album/4Mn1APLhJYZNRpqEmUphgp) | 2:42 |
-| 37 | [1000](https://open.spotify.com/track/0LNeX04cUkoS0j9LDuNuyA) | [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2), [Jsnck!](https://open.spotify.com/artist/3oFAXYbLPLYimPiQ3JJzSj) | [1000](https://open.spotify.com/album/4W1bHfVBxpmXXGywqv7vx6) | 2:50 |
+| 36 | [1000](https://open.spotify.com/track/0LNeX04cUkoS0j9LDuNuyA) | [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2), [Jsnck!](https://open.spotify.com/artist/3oFAXYbLPLYimPiQ3JJzSj) | [1000](https://open.spotify.com/album/4W1bHfVBxpmXXGywqv7vx6) | 2:50 |
+| 37 | [Brígida](https://open.spotify.com/track/4YlYsqejhE3xBb0XfWXXjE) | [Vesta Lugg](https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c) | [Brígida](https://open.spotify.com/album/4Mn1APLhJYZNRpqEmUphgp) | 2:42 |
 | 38 | [Hielo](https://open.spotify.com/track/331HG0gs3ZWYMRdHFFf5Hc) | [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [Hielo](https://open.spotify.com/album/4fn5ZIvTw84uHbWSBLL07u) | 3:08 |
 | 39 | [Amor De Metro](https://open.spotify.com/track/22ZvGUwEROSoctCybSXWSs) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [Amor De Metro](https://open.spotify.com/album/5dBilg3BLttmKUXofemJdW) | 2:15 |
 | 40 | [MARIPOSAS](https://open.spotify.com/track/57vFoxxvfJQKg5P2dLfGQb) | [Mariana Bfly](https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw), [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Meekasia](https://open.spotify.com/artist/1uzFAZNYuGEeCjciRFPWkE), [David Wild](https://open.spotify.com/artist/0eyks56NYFl5AKHIqz7AUY), [NixBeatz](https://open.spotify.com/artist/0VHYHgSQdE244aP0Ci3D6v) | [EFECTO MARIPOSA](https://open.spotify.com/album/4vlfXEHz4Oxq6Hw466MhRt) | 4:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Chucky](https://open.spotify.com/track/74ImQ4zywA6716AlZGVH3q) | [Bela](https://open.spotify.com/artist/6MigjLa7elvwPnuyymlHs2), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP), [Cheskv Liz](https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv), [Liah Veliz](https://open.spotify.com/artist/63HSomNykcQxJfQeZIUr39) | [00](https://open.spotify.com/album/7AksLApsTy2yNIFbja6kHt) | 3:28 |
 | 50 | [Luces](https://open.spotify.com/track/4jfsxJSwR3h9kPTPOlGV54) | [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n) | [Rayokuza](https://open.spotify.com/album/3RbneQRC7hqcFIn2DZpCKg) | 3:38 |
 
-Snapshot ID: `MTY4MDY2MzYwMCwwMDAwMDAwMGZiNTc2NTEwNDZlZjZjNzk5ZDRjOTZiNTJhYzdjYWI4`
+Snapshot ID: `MTY4MDY2MzYwMCwwMDAwMDAwMDJlMDg2M2VhNThlMDdjMDY2NDI2MmY0MGVkYTJjYTZl`

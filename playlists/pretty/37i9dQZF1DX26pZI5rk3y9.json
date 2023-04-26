@@ -1,12 +1,12 @@
 {
   "description": "Classic music for cooking and eating with friends. ",
-  "num_followers": 4398,
+  "num_followers": 4409,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzA1NiwwMDAwMDAwMDVkODM5NjM4YTI1NDUxMGQxMzM2ZWQ0NjY2NWE5NDIx",
+  "snapshot_id": "MTY3Nzg2NzA1NiwwMDAwMDAwMDdlOTZmNDRmNGFkNzBhMjY2ZDkzMDg5OGVkMmIwMTc1",
   "tracks": [
     {
       "added_at": "2022-12-02 14:28:08",
@@ -283,18 +283,18 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960",
-        "url": "https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj"
+        "name": "The Centennial Collection",
+        "url": "https://open.spotify.com/album/0MG8ODOjmgu62MpgeS9dRF"
       },
       "artists": [
         {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+          "name": "Robert Johnson",
+          "url": "https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy"
         }
       ],
-      "duration_ms": 112600,
-      "name": "I Hear You Knocking - Remastered 2002",
-      "url": "https://open.spotify.com/track/2k4k2Qytu2ZnYoqDOagNBV"
+      "duration_ms": 178853,
+      "name": "They're Red Hot - SA.2627-1",
+      "url": "https://open.spotify.com/track/4vrPulRxzgljqsYtgGQrpk"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -319,18 +319,18 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "The Centennial Collection",
-        "url": "https://open.spotify.com/album/0MG8ODOjmgu62MpgeS9dRF"
+        "name": "The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960",
+        "url": "https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj"
       },
       "artists": [
         {
-          "name": "Robert Johnson",
-          "url": "https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy"
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
         }
       ],
-      "duration_ms": 178853,
-      "name": "They're Red Hot - SA.2627-1",
-      "url": "https://open.spotify.com/track/4vrPulRxzgljqsYtgGQrpk"
+      "duration_ms": 112600,
+      "name": "I Hear You Knocking - Remastered 2002",
+      "url": "https://open.spotify.com/track/2k4k2Qytu2ZnYoqDOagNBV"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "The \"Killer\" Rocks On",
-        "url": "https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "C.C. Rider",
-      "url": "https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Whose Muddy Shoes",
         "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 164080,
       "name": "Ice Cream Man",
       "url": "https://open.spotify.com/track/7fFKM10IEtZubmfF0L5elV"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "The \"Killer\" Rocks On",
+        "url": "https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "C.C. Rider",
+      "url": "https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "The Soul Queen Of New Orleans: 50th Anniversary Celebration",
-        "url": "https://open.spotify.com/album/00XIOYTGN9xBXxQw9rHSvs"
-      },
-      "artists": [
-        {
-          "name": "Irma Thomas",
-          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "Back Water Blues",
-      "url": "https://open.spotify.com/track/0JjxpW2i161phUkLc3zTxh"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 258933,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/3ZAeSVg8ZuJ4THCnsRKxe7"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "The Soul Queen Of New Orleans: 50th Anniversary Celebration",
+        "url": "https://open.spotify.com/album/00XIOYTGN9xBXxQw9rHSvs"
+      },
+      "artists": [
+        {
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "Back Water Blues",
+      "url": "https://open.spotify.com/track/0JjxpW2i161phUkLc3zTxh"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -629,7 +629,7 @@
       "url": "https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1"
     },
     {
-      "added_at": "2023-04-25 00:33:28",
+      "added_at": "2023-04-26 01:13:06",
       "album": {
         "name": "Ridin'",
         "url": "https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq"
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Barbecue Bob Vol. 1 (1927 - 1928)",
-        "url": "https://open.spotify.com/album/4qi0icQEhM64kJQwYZtx31"
-      },
-      "artists": [
-        {
-          "name": "Barbecue Bob",
-          "url": "https://open.spotify.com/artist/5L8FCi81vASYMJNWbODEDZ"
-        }
-      ],
-      "duration_ms": 192914,
-      "name": "Barbecue Blues",
-      "url": "https://open.spotify.com/track/2u79q6tWAomR9FccXbHD2m"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Greatest Country Blues",
         "url": "https://open.spotify.com/album/3QdlrtSCUjm6kQuJzJIK2B"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 142933,
       "name": "Robbie-Doby Boogie",
       "url": "https://open.spotify.com/track/7sB7DhFAZob2Ul2OEDjDLG"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Barbecue Bob Vol. 1 (1927 - 1928)",
+        "url": "https://open.spotify.com/album/4qi0icQEhM64kJQwYZtx31"
+      },
+      "artists": [
+        {
+          "name": "Barbecue Bob",
+          "url": "https://open.spotify.com/artist/5L8FCi81vASYMJNWbODEDZ"
+        }
+      ],
+      "duration_ms": 192914,
+      "name": "Barbecue Blues",
+      "url": "https://open.spotify.com/track/2u79q6tWAomR9FccXbHD2m"
     },
     {
       "added_at": "2022-12-02 14:28:08",

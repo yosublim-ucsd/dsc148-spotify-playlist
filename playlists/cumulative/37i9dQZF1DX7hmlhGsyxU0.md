@@ -4,7 +4,7 @@
 
 > Strings and pianos to accompany your latest great read.
 
-162 songs - 8 hr 45 min
+163 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Living Rooms](https://open.spotify.com/track/6aLbzGqkGEM0BH9CNnqjhG) | [Joshua Naranjo](https://open.spotify.com/artist/79umW4lywuQrIeeDrleqB5) | [Living Rooms](https://open.spotify.com/album/0QLTI6SySPkg2au68DdWpE) | 2:55 | 2022-06-10 |  |
 | [Longing For You](https://open.spotify.com/track/7dOGQ1L6i91F6Yc2IimWy8) | [Old Inherited Piano](https://open.spotify.com/artist/1rQ87wlgwARS4gWZyXI78S) | [Longing For You](https://open.spotify.com/album/2KExZFYR3KBQYtOVF4JSbt) | 2:16 | 2022-04-01 | 2022-11-08 |
 | [Loom \- Sunrise Session II](https://open.spotify.com/track/42DSWZ06VzGVzuoRwZEHHe) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Reykjavík Recording Orchestra](https://open.spotify.com/artist/2vv6MgWm0GauKxYJXA4TFN) | [Loom \(Sunrise Session II\)](https://open.spotify.com/album/0lCyefnvL1HqQkpXl5HjC5) | 3:46 | 2022-04-01 | 2022-07-22 |
-| [Low Sun](https://open.spotify.com/track/2WV63cJoapM6BNN22RvxZF) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Hristo Dunev](https://open.spotify.com/artist/4MLvUhJnm30eDAF8ZfC6UF) | [Low Sun](https://open.spotify.com/album/5nPnWhONfOxXGJ24qAaJwc) | 3:16 | 2022-04-01 |  |
+| [Low Sun](https://open.spotify.com/track/2WV63cJoapM6BNN22RvxZF) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Hristo Dunev](https://open.spotify.com/artist/4MLvUhJnm30eDAF8ZfC6UF) | [Low Sun](https://open.spotify.com/album/5nPnWhONfOxXGJ24qAaJwc) | 3:16 | 2022-04-01 | 2023-04-26 |
+| [Low Sun](https://open.spotify.com/track/4CLkN6PDHrMkYbiQIigVz3) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Hristo Dunev](https://open.spotify.com/artist/4MLvUhJnm30eDAF8ZfC6UF) | [Low Sun](https://open.spotify.com/album/2rZV82DIS8DASudAIoBEHK) | 3:16 | 2022-11-07 |  |
 | [Luck and the Moon](https://open.spotify.com/track/7EzXWCT8HmsZ2MsuHGo3EU) | [Plïnkï Plønkï](https://open.spotify.com/artist/7GHBho1pRWUW3jiA1oOFGA) | [Daughter Tide](https://open.spotify.com/album/03GMHAG6CLxmmlW1fOGEgE) | 1:34 | 2022-04-01 | 2022-11-08 |
 | [Made To Be Wanting](https://open.spotify.com/track/7MREpOljiZVy2CZzYX6fbt) | [Job Roggeveen](https://open.spotify.com/artist/5Ce5Yeu5QL8yvibnS2CZUv) | [Made To Be Wanting](https://open.spotify.com/album/2wIixNysnrygVhnUYf48zF) | 3:03 | 2022-04-01 |  |
 | [Melody of Hope \- 2021 Version](https://open.spotify.com/track/7JoliVgzCfJa1EENp5ScpO) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Melody of Hope \(2021 Version\)](https://open.spotify.com/album/4hGBSFBJxqDFSLVhrsbZQS) | 1:51 | 2022-04-01 |  |

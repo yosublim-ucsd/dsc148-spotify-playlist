@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 
 > Enter the sad world of Conexión Divina and enjoy their hand picked \#SadCuhHour gems 🥀🥹.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,623 likes - 40 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,589 likes - 40 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 7194,
+  "num_followers": 7208,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTY2MCwwMDAwMDAwMDI1NDk3Mzc0NzQyZDlkYjczYzkyZDM1NWRmYTFhNmMw",
+  "snapshot_id": "MTY3OTAyNTY2MCwwMDAwMDAwMDIzYmY3OGUzYTZkODZhZTVjNzE0YTAxN2ZjNjZjZjgx",
   "tracks": [
     {
       "added_at": "2023-03-17 04:01:00",
@@ -127,6 +127,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Come on In",
+        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
+      },
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "It's Bad You Know",
+      "url": "https://open.spotify.com/track/1AcvqJhm4CXOFJ7INbR5rR"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Playing the Angel",
         "url": "https://open.spotify.com/album/0oHWHIlUObaSopO9wOhvfz"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 221933,
       "name": "John the Revelator",
       "url": "https://open.spotify.com/track/4OKEETxdou0lR7LEVvEpaG"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Come on In",
-        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
-      },
-      "artists": [
-        {
-          "name": "R.L. Burnside",
-          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "It's Bad You Know",
-      "url": "https://open.spotify.com/track/1AcvqJhm4CXOFJ7INbR5rR"
     },
     {
       "added_at": "2020-12-01 05:01:00",

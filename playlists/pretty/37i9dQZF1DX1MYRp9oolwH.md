@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 ### [Latest Romance Telugu](https://open.spotify.com/playlist/37i9dQZF1DX1MYRp9oolwH)
 
-> Bringing out the best of latest love tracks<br/>Cover : Agent
+> Bringing out the best of latest love tracks<br/>Cover : Custody
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,057 likes - 51 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,114 likes - 51 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Malli Malli \(From "Agent"\)](https://open.spotify.com/track/2JwFf9z75lIfpLyIF7NDVU) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Malli Malli \(From "Agent"\)](https://open.spotify.com/album/3A4Wxcl3DMpWMInJiAvnPx) | 3:27 |
-| 2 | [Kalallo \(From "Virupaksha"\)](https://open.spotify.com/track/4K21tbyME0wnR0jqGgLkyq) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Madhushree](https://open.spotify.com/artist/1EKK9k0IAwV1oeJfZITSYo) | [Kalallo \(From "Virupaksha"\)](https://open.spotify.com/album/13x9vHOv9fKiM7vo9kGUp5) | 3:44 |
-| 3 | [Timeless Love \(From "Custody"\) \(Telugu\)](https://open.spotify.com/track/6gUj1HpLEN7qqJCFUWM2Zz) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Timeless Love \(From "Custody"\) \(Telugu\)](https://open.spotify.com/album/149ne0QeNg5tfsGbs9Cu6b) | 4:12 |
+| 1 | [Timeless Love \(From "Custody"\)](https://open.spotify.com/track/3e55Z7GQ32shpEwrnd6Jjz) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Madan Karky](https://open.spotify.com/artist/6EtLhQRslM09DO6EQLzodI) | [Timeless Love \(From "Custody"\)](https://open.spotify.com/album/3u7j59HpPiG3XUcdvUeshr) | 4:10 |
+| 2 | [Malli Malli \(From "Agent"\)](https://open.spotify.com/track/2JwFf9z75lIfpLyIF7NDVU) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Malli Malli \(From "Agent"\)](https://open.spotify.com/album/3A4Wxcl3DMpWMInJiAvnPx) | 3:27 |
+| 3 | [Kalallo \(From "Virupaksha"\)](https://open.spotify.com/track/4K21tbyME0wnR0jqGgLkyq) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Madhushree](https://open.spotify.com/artist/1EKK9k0IAwV1oeJfZITSYo) | [Kalallo \(From "Virupaksha"\)](https://open.spotify.com/album/13x9vHOv9fKiM7vo9kGUp5) | 3:44 |
 | 4 | [Ayyayyo \(From "Mem Famous"\)](https://open.spotify.com/track/3dtfHypbH2717f8HlvY8DY) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Kalyan Nayak](https://open.spotify.com/artist/7tENuzTbvAI7BhqFbZI7Ul) | [Ayyayyo \(From "Mem Famous"\)](https://open.spotify.com/album/4HUS7r8KwX10VFNc9EIv3H) | 3:42 |
 | 5 | [Nachavule Nachavule \(From "Virupaksha"\)](https://open.spotify.com/track/1baeO9R7AdFjcb03pJYjay) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Nachavule Nachavule \(From "Virupaksha"\)](https://open.spotify.com/album/698JO1ewdhmDLUKr09hY3V) | 3:42 |
 | 6 | [Nuvve Nuvve \(From "Ramabanam"\)](https://open.spotify.com/track/1HyygLm7t1sxgihCXcZUxr) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk), [Ritesh G Rao](https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz) | [Nuvve Nuvve \(From "Ramabanam"\)](https://open.spotify.com/album/2yKdUMH1MO1smCKe0Rmkz5) | 3:05 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 50 | [Kalalo Kooda](https://open.spotify.com/track/5Tn2aBp45QypSmCpmhKtJN) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Vaishnavi Kovvuri](https://open.spotify.com/artist/4x2ISDzC44n2AmVAiBTp4g) | [Liger \(Telugu\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0bI7C4I6FzlNlZZDqJOfDJ) | 4:06 |
 | 51 | [Seethakoka Chiluka](https://open.spotify.com/track/4V1B6HlZ7UABy0FBuyqaHU) | [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C) | [Urvasivo Rakshasivo](https://open.spotify.com/album/1Mf6cONL3hjHRkxXXbFbWX) | 4:05 |
 
-Snapshot ID: `MTY4MjMzOTAzOSwwMDAwMDAwMDNlNTVjNTE1M2I5NmFkZWQ4NTg4OGVlYTlhNjA2Yjg0`
+Snapshot ID: `MTY4MjQyMDc1OSwwMDAwMDAwMGIxZjE0NjFkMzhhN2RmZDNiZGM5NzVkMDdlZDFjNzJh`

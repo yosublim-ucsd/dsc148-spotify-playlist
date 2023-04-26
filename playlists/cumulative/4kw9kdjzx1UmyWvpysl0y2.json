@@ -3743,6 +3743,24 @@
     },
     {
       "album": {
+        "name": "Haunt You",
+        "url": "https://open.spotify.com/album/7kbbAUEAQZ1ToFY70O13cJ"
+      },
+      "artists": [
+        {
+          "name": "SKYLER",
+          "url": "https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Haunt You",
+      "url": "https://open.spotify.com/track/3gYigEsIAyHuRCBm4LZ4mt"
+    },
+    {
+      "album": {
         "name": "Haze",
         "url": "https://open.spotify.com/album/4UF3ppHDuxCNrupmlGx9gZ"
       },

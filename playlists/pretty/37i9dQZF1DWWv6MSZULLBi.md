@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Feist
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,041 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,040 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 15 | [A Little Bit of Everything \- Spotify Singles](https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 5:17 |
 | 16 | [Make No Mistakes](https://open.spotify.com/track/0YT0OGtTkkYOlqVXfMOqE5) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Make No Mistakes](https://open.spotify.com/album/3WMpLhAIpkQrimjZlk4XRJ) | 3:11 |
 | 17 | [Willow](https://open.spotify.com/track/1wJdEsTX2x1uzIfDdkuVdJ) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Stolen Time Deluxe](https://open.spotify.com/album/2awMslAt7eh8sTwTs8kqWr) | 4:29 |
-| 18 | [Looking For Love](https://open.spotify.com/track/02URvOPqbVEmLOCXvLH5Op) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Looking For Love](https://open.spotify.com/album/2VPn8eCJ3fm4A77GNa3ZbW) | 3:35 |
+| 18 | [Looking For Love](https://open.spotify.com/track/4HaVJ5EePm2ABB6CP2Ff5X) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9) | 3:35 |
 | 19 | [second wind](https://open.spotify.com/track/0B9goh3DuqpGUPryuEa29L) | [Braden Lam](https://open.spotify.com/artist/2k874mUqyCwo44UZbbRsGr) | [Strange Paradise](https://open.spotify.com/album/2PdCqn4c1vhhiOnjZmRSBv) | 3:32 |
 | 20 | [American Band](https://open.spotify.com/track/6Jko7ujfOIdrICLC3po34e) | [Slow Leaves](https://open.spotify.com/artist/1CNY3GA9jHEuZeQEOHx0r8) | [American Band](https://open.spotify.com/album/4mBrjs3kdxzgtWCfGQvD6g) | 3:44 |
 | 21 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Light in Me](https://open.spotify.com/track/26a0XK6phpV2mCZ6LlMFFy) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc), [Rod Coote](https://open.spotify.com/artist/5xifoiBHJPatPhtG96G1ck) | [Light in Me](https://open.spotify.com/album/7Dvwbd49vsYVL1oPezhsDp) | 2:52 |
 | 100 | [Circles](https://open.spotify.com/track/6XiJbAvbBrJtO5GBEOhiiy) | [Sandrine St\-Laurent](https://open.spotify.com/artist/2yHC0qy3VEXWdzYInARdP1) | [Circles](https://open.spotify.com/album/0KGo67duy49imsulmXi8MM) | 4:04 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDY1Y2FkYTg4ZmNjYzMxNDVhYTVjYzUyZTVjYTE2ZTc0`
+Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMGYwOTJhY2Y4MmY5OWFiZTUxZjhlZWQ0MWVmNTRiMDM5`

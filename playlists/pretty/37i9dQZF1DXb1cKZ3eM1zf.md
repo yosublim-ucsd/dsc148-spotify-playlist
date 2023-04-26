@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1cKZ3eM1zf.md) - [plain]
 
 > Het beste van meer dan 50 jaar Pinkpop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,552 likes - 500 songs - 1 day 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,565 likes - 500 songs - 1 day 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -491,7 +491,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1cKZ3eM1zf.md) - [plain]
 | 481 | [Alone](https://open.spotify.com/track/6muEmD1DhVoGG7CYQX3Djg) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Reason](https://open.spotify.com/album/4OeJWd83pb11geaPyFegzS) | 3:27 |
 | 482 | [Stay](https://open.spotify.com/track/2WmDlNSXpyYgMK0ws7ZWDa) | [Hurts](https://open.spotify.com/artist/3w4VAlllkAWI6m0AV0Gn6a) | [Happiness \- Deluxe Edition](https://open.spotify.com/album/5cZgn1Bqk3msMykasZtZod) | 3:55 |
 | 483 | [Sam](https://open.spotify.com/track/4rUAOFD7HPVtjrpMSYbYtA) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Tim Knol](https://open.spotify.com/album/3k9qfDXYTeBJgIrEvjo9aM) | 3:18 |
-| 484 | [Dionysian Urge](https://open.spotify.com/track/7pyf8BQ7AX2qHHzBlDcI6b) | [Ashley Schultz](https://open.spotify.com/artist/5U5LhzbMQ0LlNFSJTlofms) | [The A\-Z Series](https://open.spotify.com/album/7HxR18rAhhbkLA9jLXKEFf) | 4:06 |
+| 484 | [Dionysian Urge](https://open.spotify.com/track/7pyf8BQ7AX2qHHzBlDcI6b) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [The A\-Z Series](https://open.spotify.com/album/7HxR18rAhhbkLA9jLXKEFf) | 4:06 |
 | 485 | [If You Tolerate This Your Children Will Be Next](https://open.spotify.com/track/2r7y4HANK7b9KVZfz0g4Uq) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [This Is My Truth Tell Me Yours](https://open.spotify.com/album/7CCkQQvhSAUjuzLQAV8S5a) | 4:50 |
 | 486 | [Welcome to My Life](https://open.spotify.com/track/714Lw0m2SmCEhKSPw0Dn8J) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Still Not Getting Any](https://open.spotify.com/album/7l3v1MPa9GlbxbVJmaVrVd) | 3:26 |
 | 487 | [Happiness](https://open.spotify.com/track/5GEs6KYkV9bzN4HZr6rcRQ) | [Jonathan Jeremiah](https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU) | [A Solitary Man](https://open.spotify.com/album/7nAnP5sWsJmZdC7cPENACn) | 3:01 |

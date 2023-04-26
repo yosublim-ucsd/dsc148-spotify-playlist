@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1zTIMb05Nr.md) - [plain]
 
 > Live performances by Metallica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,356 likes - 50 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,409 likes - 50 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

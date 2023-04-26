@@ -500,7 +500,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 227013,
       "name": "Aura",
       "url": "https://open.spotify.com/track/538IL5DHWHdD0vRUFIfMoM"
@@ -847,6 +847,28 @@
     },
     {
       "album": {
+        "name": "Better Than Gold",
+        "url": "https://open.spotify.com/album/5A3WkvUJOGBMYpruWmySBh"
+      },
+      "artists": [
+        {
+          "name": "Justin Hawkes",
+          "url": "https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996"
+        },
+        {
+          "name": "Andrew Hellier",
+          "url": "https://open.spotify.com/artist/5UAiCq7VKP2MrMG2RAkPl8"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Better Than Gold",
+      "url": "https://open.spotify.com/track/5cxskQNZLSxEkEhqdi5ad6"
+    },
+    {
+      "album": {
         "name": "BFG",
         "url": "https://open.spotify.com/album/4R1ksLqWCZ5k7Gbr9vI62P"
       },
@@ -1150,6 +1172,28 @@
       "duration_ms": 206511,
       "name": "Burner",
       "url": "https://open.spotify.com/track/0plk4OumVTDfOisDHTQlhU"
+    },
+    {
+      "album": {
+        "name": "Cadence (VIP)",
+        "url": "https://open.spotify.com/album/7mMc76gHOCcs5hKbatiVyo"
+      },
+      "artists": [
+        {
+          "name": "Metrik",
+          "url": "https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583"
+        },
+        {
+          "name": "Reija Lee",
+          "url": "https://open.spotify.com/artist/19Lu0quNl0YH77llcXOiDB"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231824,
+      "name": "Cadence - VIP",
+      "url": "https://open.spotify.com/track/3Il52a6rYUkigKzA8Y0GPU"
     },
     {
       "album": {
@@ -1564,6 +1608,32 @@
       "duration_ms": 314695,
       "name": "Crusty Rolls",
       "url": "https://open.spotify.com/track/50MU6Vg8RklxzN2dbaIikw"
+    },
+    {
+      "album": {
+        "name": "Dancing is Healing",
+        "url": "https://open.spotify.com/album/5g3JRPJKgjcc20lORFpaqp"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        },
+        {
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177321,
+      "name": "Dancing is Healing",
+      "url": "https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4"
     },
     {
       "album": {
@@ -5478,7 +5548,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 195862,
       "name": "Polaris",
       "url": "https://open.spotify.com/track/4Hr6eRuaakhr9RmLLYJawz"
@@ -5968,7 +6038,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 267907,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/7si4ZB2cShPmL7Du5qhGsQ"

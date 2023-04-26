@@ -1,29 +1,13 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.  ",
-  "num_followers": 43234,
+  "num_followers": 43318,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjExODAwMCwwMDAwMDAwMDBjZDU3NjFlN2NjY2I1YjAxOWMyNTliZjJlNWRkM2Y1",
+  "snapshot_id": "MTY4MjExODAwMCwwMDAwMDAwMDc2Y2YxM2Q5ZDEzYTBhYmJlYzFjMTdiMGY4NzVlOTBi",
   "tracks": [
-    {
-      "added_at": "2023-04-21 23:00:00",
-      "album": {
-        "name": "Por Enquanto",
-        "url": "https://open.spotify.com/album/1uFTodamqWqlk5KwYkqy0n"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 142341,
-      "name": "Por Enquanto",
-      "url": "https://open.spotify.com/track/5fjD0vHh9XRL6b657FWe9C"
-    },
     {
       "added_at": "2023-04-21 23:00:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 180340,
       "name": "Mo\u00e7a",
       "url": "https://open.spotify.com/track/57rx7d5tagl2wOWzj3eWJc"
+    },
+    {
+      "added_at": "2023-04-21 23:00:00",
+      "album": {
+        "name": "Por Enquanto",
+        "url": "https://open.spotify.com/album/1uFTodamqWqlk5KwYkqy0n"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 142341,
+      "name": "Por Enquanto",
+      "url": "https://open.spotify.com/track/5fjD0vHh9XRL6b657FWe9C"
     },
     {
       "added_at": "2023-04-21 23:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-04-21 23:00:00",
       "album": {
-        "name": "Fato treino do City",
-        "url": "https://open.spotify.com/album/4fcBL2OWo3Gpw2Jg1GHE1Q"
-      },
-      "artists": [
-        {
-          "name": "Sippinpurpp",
-          "url": "https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z"
-        }
-      ],
-      "duration_ms": 216488,
-      "name": "Fato treino do City",
-      "url": "https://open.spotify.com/track/6FnE1Y3iWcvVHFB3oLC0vB"
-    },
-    {
-      "added_at": "2023-04-21 23:00:00",
-      "album": {
         "name": "Nada a Esconder",
         "url": "https://open.spotify.com/album/2mkZBhS9I5hcZfCw8ShfM3"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 218258,
       "name": "Nada a Esconder",
       "url": "https://open.spotify.com/track/0JrBOhbstid47iGfPIdwwi"
+    },
+    {
+      "added_at": "2023-04-21 23:00:00",
+      "album": {
+        "name": "Fato treino do City",
+        "url": "https://open.spotify.com/album/4fcBL2OWo3Gpw2Jg1GHE1Q"
+      },
+      "artists": [
+        {
+          "name": "Sippinpurpp",
+          "url": "https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z"
+        }
+      ],
+      "duration_ms": 216488,
+      "name": "Fato treino do City",
+      "url": "https://open.spotify.com/track/6FnE1Y3iWcvVHFB3oLC0vB"
     },
     {
       "added_at": "2023-04-21 23:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-04-21 23:00:00",
       "album": {
+        "name": "You Are Forgiven",
+        "url": "https://open.spotify.com/album/2c6j8Ewk519kAxemoQ92mF"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 222642,
+      "name": "S\u00f3 Queria Sorrir",
+      "url": "https://open.spotify.com/track/0BeKKheFsOOPXBzo2bM8Ds"
+    },
+    {
+      "added_at": "2023-04-21 23:00:00",
+      "album": {
         "name": "Bandidas",
         "url": "https://open.spotify.com/album/3GOXhstBnGiQbQylnIWEnq"
       },
@@ -823,26 +839,6 @@
     {
       "added_at": "2023-04-21 23:00:00",
       "album": {
-        "name": "Na Via",
-        "url": "https://open.spotify.com/album/7eCky9hSeUAwE8tKWWordR"
-      },
-      "artists": [
-        {
-          "name": "GROGNation",
-          "url": "https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu"
-        },
-        {
-          "name": "Filipe Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/63PA6qLxy0FJNUxT00SctL"
-        }
-      ],
-      "duration_ms": 290736,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/4siqPZx55JCfT7yhK19y9w"
-    },
-    {
-      "added_at": "2023-04-21 23:00:00",
-      "album": {
         "name": "Dama & Vagabundo",
         "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
       },
@@ -859,18 +855,22 @@
     {
       "added_at": "2023-04-21 23:00:00",
       "album": {
-        "name": "You Are Forgiven",
-        "url": "https://open.spotify.com/album/2c6j8Ewk519kAxemoQ92mF"
+        "name": "Na Via",
+        "url": "https://open.spotify.com/album/7eCky9hSeUAwE8tKWWordR"
       },
       "artists": [
         {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+          "name": "GROGNation",
+          "url": "https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu"
+        },
+        {
+          "name": "Filipe Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/63PA6qLxy0FJNUxT00SctL"
         }
       ],
-      "duration_ms": 222642,
-      "name": "S\u00f3 Queria Sorrir",
-      "url": "https://open.spotify.com/track/0BeKKheFsOOPXBzo2bM8Ds"
+      "duration_ms": 290736,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/4siqPZx55JCfT7yhK19y9w"
     },
     {
       "added_at": "2023-04-21 23:00:00",

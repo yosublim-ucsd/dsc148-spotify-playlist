@@ -128,7 +128,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 255000,
       "name": "Animal",
       "url": "https://open.spotify.com/track/0oj0QRfjA5WsLvZkoOQk6f"
@@ -670,6 +670,28 @@
       "duration_ms": 187317,
       "name": "Fumando Menos",
       "url": "https://open.spotify.com/track/2KTuqLyX4K0on4TovE9u8o"
+    },
+    {
+      "album": {
+        "name": "Horas",
+        "url": "https://open.spotify.com/album/1geeDTUcLFv7vgDH0v0C3a"
+      },
+      "artists": [
+        {
+          "name": "Alexis Play",
+          "url": "https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv"
+        },
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231959,
+      "name": "Horas",
+      "url": "https://open.spotify.com/track/2UumxLigdCw91IxqpMEvPz"
     },
     {
       "album": {

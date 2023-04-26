@@ -1,12 +1,12 @@
 {
   "description": "What in the stutter/rainy/tremolo house list did I just create??",
-  "num_followers": 3795,
+  "num_followers": 3853,
   "original_name": "Emotional Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA2Njk0NywwMDAwMDAwMDc1NzFkZTE4NTVkOGQyYzEzNjk5NzhkMGEwNjE2OTk5",
+  "snapshot_id": "MTY4MjA2Njk0NywwMDAwMDAwMGRhZDYzM2ZhNWM2NmEwNmQyMjNkNWQzNjFlZTdjMjBm",
   "tracks": [
     {
       "added_at": "2023-04-20 23:00:00",
@@ -451,6 +451,30 @@
     {
       "added_at": "2023-04-20 23:00:00",
       "album": {
+        "name": "Run Till Dark (with Now United) (Arcando Remix)",
+        "url": "https://open.spotify.com/album/3CndXGZ1kldW1imbZb3NAG"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Now United",
+          "url": "https://open.spotify.com/artist/1dXQpSjXcTO288b5D5IIE6"
+        },
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        }
+      ],
+      "duration_ms": 186870,
+      "name": "Run Till Dark (with Now United) (Arcando Remix)",
+      "url": "https://open.spotify.com/track/6D9sUOLZ8BW9HVQoiKh3Pb"
+    },
+    {
+      "added_at": "2023-04-20 23:00:00",
+      "album": {
         "name": "We Don\u2019t Ever Stop",
         "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
       },
@@ -483,30 +507,6 @@
       "duration_ms": 206341,
       "name": "Need U (feat. Madishu)",
       "url": "https://open.spotify.com/track/2AWWbN4ZDWaUMgOqxpsk4n"
-    },
-    {
-      "added_at": "2023-04-20 23:00:00",
-      "album": {
-        "name": "Run Till Dark (with Now United) (Arcando Remix)",
-        "url": "https://open.spotify.com/album/3CndXGZ1kldW1imbZb3NAG"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Now United",
-          "url": "https://open.spotify.com/artist/1dXQpSjXcTO288b5D5IIE6"
-        },
-        {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
-        }
-      ],
-      "duration_ms": 186870,
-      "name": "Run Till Dark (with Now United) (Arcando Remix)",
-      "url": "https://open.spotify.com/track/6D9sUOLZ8BW9HVQoiKh3Pb"
     },
     {
       "added_at": "2023-04-20 23:00:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-04-20 23:00:00",
       "album": {
+        "name": "So Much In Love",
+        "url": "https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "So Much In Love",
+      "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
+    },
+    {
+      "added_at": "2023-04-20 23:00:00",
+      "album": {
         "name": "Nothing Is Easy EP",
         "url": "https://open.spotify.com/album/4nm8MRARxw1YRlVX8m2BBW"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 242250,
       "name": "Deny It",
       "url": "https://open.spotify.com/track/2G0pIL19syX70AXLc9ykPj"
-    },
-    {
-      "added_at": "2023-04-20 23:00:00",
-      "album": {
-        "name": "So Much In Love",
-        "url": "https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        }
-      ],
-      "duration_ms": 178453,
-      "name": "So Much In Love",
-      "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
     },
     {
       "added_at": "2023-04-20 23:00:00",
@@ -749,6 +749,22 @@
       "url": "https://open.spotify.com/track/6qcuf0AmQmrjPPc10Ovhax"
     },
     {
+      "added_at": "2023-04-21 08:49:07",
+      "album": {
+        "name": "Glow / Void",
+        "url": "https://open.spotify.com/album/1zcHK4j2d06jEEoLrnSS0G"
+      },
+      "artists": [
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/4hulj08qi6HvsUfipIkzdk"
+    },
+    {
       "added_at": "2023-04-20 23:00:00",
       "album": {
         "name": "Rosa",
@@ -779,22 +795,6 @@
       "duration_ms": 263891,
       "name": "Wasted On You",
       "url": "https://open.spotify.com/track/3HSf2e7s5Q9WQO16biu4U4"
-    },
-    {
-      "added_at": "2023-04-21 08:49:07",
-      "album": {
-        "name": "Glow / Void",
-        "url": "https://open.spotify.com/album/1zcHK4j2d06jEEoLrnSS0G"
-      },
-      "artists": [
-        {
-          "name": "Reb\u016bke",
-          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "Glow",
-      "url": "https://open.spotify.com/track/4hulj08qi6HvsUfipIkzdk"
     },
     {
       "added_at": "2023-04-20 23:00:00",
@@ -891,22 +891,18 @@
     {
       "added_at": "2023-04-20 23:00:00",
       "album": {
-        "name": "No Nein",
-        "url": "https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP"
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/1jPgrvTG7bG5VLWTxIaUDd"
       },
       "artists": [
         {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        },
-        {
-          "name": "Mietze Conte",
-          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
         }
       ],
-      "duration_ms": 151273,
-      "name": "No Nein",
-      "url": "https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8"
+      "duration_ms": 181000,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj"
     }
   ],
   "unique_name": "Emotional Dance",

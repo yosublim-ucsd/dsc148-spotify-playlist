@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: Habstrakt
 
-454 songs - 1 day 0 hr 7 min
+455 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Bad Bitches \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/2hcqLu8Hhu2yJd5h4T4WDf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Nitti Gritti](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bad Bitches \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/4M6gPtD9TwGXqZLpAcUSqJ) | 2:32 | 2021-10-29 | 2022-07-30 |
 | [Bad Habits](https://open.spotify.com/track/4vHD0COWoTJaM3n7fjZxUh) | [Wa\-Fu](https://open.spotify.com/artist/51miQgR4HHTo5kOwFCeyJo) | [Bad Habits](https://open.spotify.com/album/4YBnsXCxihliyjta7YFaIO) | 3:33 | 2021-10-29 | 2022-05-28 |
 | [Bad Things](https://open.spotify.com/track/3DyZ2YzyCsfF5BPocC8bDv) | [Not The Father](https://open.spotify.com/artist/2RGCVHkfmLPJcZVrPBsvY0), [Fox'd](https://open.spotify.com/artist/5AyexHM8AroaTVBLFEKiKS) | [Bad Things](https://open.spotify.com/album/2S6zhG10NHbiK5F5pkoQoz) | 2:48 | 2023-03-31 | 2023-04-23 |
+| [Badder](https://open.spotify.com/track/4ZrPmCZRTkZSWYeH3KD7Uh) | [SLVR](https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU), [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1), [Flirta D](https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR) | [Badder](https://open.spotify.com/album/6bn2OYT6wzSlegYgLW1RuB) | 3:28 | 2023-04-21 |  |
 | [Badman](https://open.spotify.com/track/7xrLwvKLrZfzLvoBOdoEUf) | [Michael Sparks](https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87) | [Badman](https://open.spotify.com/album/7sxpxDeIV46p5amup1Wrcq) | 3:18 | 2021-10-29 | 2022-01-20 |
 | [Badman](https://open.spotify.com/track/02teKCLbOxKUIVg7DPoWCE) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Badman](https://open.spotify.com/album/3rTuLnXYLDhVJ0ox9oGHot) | 2:39 | 2022-03-18 | 2022-10-29 |
 | [Ballie \(feat\. Kah\-Lo\) \- Destructo Remix](https://open.spotify.com/track/24mAiaFiKP55r6IITNB2As) | [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [Destructo](https://open.spotify.com/artist/0BEYTctVmnYa5yStp4Jpab) | [Ballie \(feat\. Kah\-Lo\) \[Destructo Remix\]](https://open.spotify.com/album/4KPLKJL2s9CIYXDA7gIM92) | 4:26 | 2021-10-29 | 2022-04-23 |
@@ -144,7 +145,7 @@
 | [Feeling Under Pressure](https://open.spotify.com/track/3DX8LKpJpOXEyNsS2NICrO) | [NIGHTCAP](https://open.spotify.com/artist/6zQzf5rafx9QyRokaqO4qH) | [Feeling under Pressure](https://open.spotify.com/album/1OW3rBusYWKe9oWJ5BRccS) | 2:53 | 2023-03-31 | 2023-04-23 |
 | [Feelings](https://open.spotify.com/track/0objHGHDjDdVGCyWYBLdQT) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Feelings](https://open.spotify.com/album/6ufiR1kjFwmTAvhrmcFLjE) | 2:41 | 2022-05-27 | 2022-07-29 |
 | [Feelings](https://open.spotify.com/track/2rERUk5OXyi7VClesHrjHO) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Feelings](https://open.spotify.com/album/1nYil94oPsydyMr1HwtYlM) | 2:41 | 2022-07-22 | 2023-04-01 |
-| [First Come First Serve](https://open.spotify.com/track/0MbPkhaP4qBbq1c4SHpJJJ) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [First Come First Serve](https://open.spotify.com/album/7Ckl7E8xJBToX27jtyCG6B) | 2:33 | 2022-11-18 |  |
+| [First Come First Serve](https://open.spotify.com/track/0MbPkhaP4qBbq1c4SHpJJJ) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [First Come First Serve](https://open.spotify.com/album/7Ckl7E8xJBToX27jtyCG6B) | 2:33 | 2022-11-18 | 2023-04-26 |
 | [First Night Out](https://open.spotify.com/track/00QA6kDTxsghd5vukZfxeE) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [First Night Out](https://open.spotify.com/album/6goALaxPAH0sAaG2N2TLX1) | 3:53 | 2022-01-28 | 2022-07-30 |
 | [Flow](https://open.spotify.com/track/4uzl0Lo5eT92TXtx245kpp) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Flow](https://open.spotify.com/album/0jPAocaSDsXmQfufCHs5hK) | 3:20 | 2021-10-29 | 2022-03-26 |
 | [Flow \(Habstrakt Remix\)](https://open.spotify.com/track/3YrHn8rV4DSyMjryTLIxo0) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Flow \(Habstrakt Remix\)](https://open.spotify.com/album/7zCXx0u1Omf377BcjFYt6e) | 3:27 | 2021-10-29 | 2022-01-22 |

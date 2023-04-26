@@ -452,7 +452,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 136000,
       "name": "At Dawn",
       "url": "https://open.spotify.com/track/6sSFbKl9oQ7ToYxBeTQZvw"
@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 174680,
       "name": "Eastbound and North",
       "url": "https://open.spotify.com/track/3ZoAuHnyRnb4X0HBfyYGIR"
@@ -2923,6 +2923,24 @@
     },
     {
       "album": {
+        "name": "Love Me Tender",
+        "url": "https://open.spotify.com/album/5BsJYGygYBdPK3qxSvoKSw"
+      },
+      "artists": [
+        {
+          "name": "August Ken",
+          "url": "https://open.spotify.com/artist/0vAo9it46E8KVcjPHMsur5"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120977,
+      "name": "Love Me Tender",
+      "url": "https://open.spotify.com/track/1cm6DumMSwqKuxZdRjorAl"
+    },
+    {
+      "album": {
         "name": "Love Theme",
         "url": "https://open.spotify.com/album/5trgrL7pUh0OyxMRsxztyk"
       },
@@ -3986,7 +4004,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 138804,
       "name": "Remembering",
       "url": "https://open.spotify.com/track/6kwqwIUxDK84yXyfL7jvGf"
@@ -4440,7 +4458,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 159013,
       "name": "Sleep for Mama (Icelandic Folk Song)",
       "url": "https://open.spotify.com/track/2kH0QJEGGbAdcb0EbShEwG"
@@ -4764,7 +4782,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 136124,
       "name": "Still",
       "url": "https://open.spotify.com/track/7Myr2rQatgwZshajT4pOCj"

@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 54 | [Special](https://open.spotify.com/track/5BmFkMlzo74gvl4h1dObB9) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 4:21 |
 | 55 | [Savannah](https://open.spotify.com/track/7AXpgz9M22NapnpCUcxG7Y) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 3:14 |
 | 56 | [Fighting with Myself \- Live](https://open.spotify.com/track/6mbS6Fks9pPJNNIYqUyzew) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:36 |
-| 57 | [Broken Vow](https://open.spotify.com/track/6oif5BcrVJ2YP589p6SZ9K) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [The Best Of..\. So Far \(Deluxe\)](https://open.spotify.com/album/44hfSt45S1YSvgCca4qifK) | 4:26 |
-| 58 | [Magic](https://open.spotify.com/track/3LJaFfGJSxqanKkgEUXuPy) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:05 |
+| 57 | [Magic](https://open.spotify.com/track/3LJaFfGJSxqanKkgEUXuPy) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:05 |
+| 58 | [Broken Vow](https://open.spotify.com/track/6oif5BcrVJ2YP589p6SZ9K) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [The Best Of..\. So Far \(Deluxe\)](https://open.spotify.com/album/44hfSt45S1YSvgCca4qifK) | 4:26 |
 | 59 | [Medicine Man](https://open.spotify.com/track/3HI8a7Fw9eALgHzloLX7uQ) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Careless People](https://open.spotify.com/album/6jg5Yt9EmSL9tpauXRPAiV) | 3:34 |
 | 60 | [Red](https://open.spotify.com/track/7mIiDiPYWsUXH6h8dSkVHb) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Closer to the Truth \(Deluxe Edition\)](https://open.spotify.com/album/2nlX67uuNKD2avQ17vItT9) | 3:06 |
 | 61 | [Blackout](https://open.spotify.com/track/3o7FxQBVhnjCfi8TY0Hbo7) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Careless People](https://open.spotify.com/album/6jg5Yt9EmSL9tpauXRPAiV) | 3:30 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 82 | [Afraid To Sleep \- The Voice Performance](https://open.spotify.com/track/06Km3ZJ7x5Bbw6BzwvKNgq) | [Vicci Martinez](https://open.spotify.com/artist/1sxu3pxg9icRUHpyWpDxz2) | [Afraid To Sleep \(The Voice Performance\)](https://open.spotify.com/album/1ZXYmRM2sYpVMXRHYvSezX) | 3:20 |
 | 83 | [Pedestal](https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt) | 3:25 |
 
-Snapshot ID: `MjgwMzk2ODEsMDAwMDAwMDAwNmE5NjlmYjc5YWNhZWMwMDcwYzViYWZjN2M0MjE5Yw==`
+Snapshot ID: `MjgwNDExMjEsMDAwMDAwMDBmNjRkMDA1NGU4NDAxZjQxY2NkNGY2YzJhNDc2YTk3ZQ==`

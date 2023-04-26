@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5955\)
+## Playlists \(5956\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -1494,6 +1494,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [EQUAL New Age](/playlists/pretty/37i9dQZF1DX7QGYV9jyeOE.md)
 - [EQUAL Polska](/playlists/pretty/37i9dQZF1DWWsiJMaq2jt5.md)
 - [EQUAL Portugal](/playlists/pretty/37i9dQZF1DXa3XvSefBFmb.md)
+- [EQUAL Presents..\. Top Songs of 2021](/playlists/pretty/37i9dQZF1DX65yRtC0G46m.md)
 - [EQUAL Russia](/playlists/pretty/37i9dQZF1DWWgdl6IRdIlO.md)
 - [EQUAL Singapore & Malaysia](/playlists/pretty/37i9dQZF1DXdx7sCF75xKy.md)
 - [EQUAL Taiwan](/playlists/pretty/37i9dQZF1DX2hEEH7Yc5Au.md)
@@ -2068,7 +2069,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Healin' Blues](/playlists/pretty/37i9dQZF1DX1STMhgdmNBY.md)
 - [Healing Harps](/playlists/pretty/37i9dQZF1DX6dZ7oW0l88P.md)
 - [Healing Rhythms](/playlists/pretty/37i9dQZF1DX3SEFZskKvKB.md)
-- [Heard You Takeover: Coco Jones](/playlists/pretty/37i9dQZF1DWVu3lAQuOIjU.md)
+- [Heard You: The Wellness Wave](/playlists/pretty/37i9dQZF1DWVu3lAQuOIjU.md)
 - [Heart Beats](/playlists/pretty/37i9dQZF1DWSRc3WJklgBs.md)
 - [Heart Of Texas](/playlists/pretty/37i9dQZF1DX05oRSrPGj3d.md)
 - [Heartache](/playlists/pretty/37i9dQZF1DX46zHlTTyolY.md)

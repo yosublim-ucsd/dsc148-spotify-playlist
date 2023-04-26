@@ -831,6 +831,44 @@
     },
     {
       "album": {
+        "name": "The Three Tenors - The Best of the 3 Tenors",
+        "url": "https://open.spotify.com/album/2fVs3rLwgh37t8JK8ryHYx"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Cardillo",
+          "url": "https://open.spotify.com/artist/3gMg7jXcjquwaOKFHfa6dL"
+        },
+        {
+          "name": "Jos\u00e9 Carreras",
+          "url": "https://open.spotify.com/artist/1ahGKezyX9Rl7GuEF2tc15"
+        },
+        {
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Orchestre de Paris",
+          "url": "https://open.spotify.com/artist/0iERWmMl3nIvcDxnJsKZBd"
+        },
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216986,
+      "name": "Core 'ngrato (Arr, Schifrin) - Live",
+      "url": "https://open.spotify.com/track/7zvL32GeH1F8qj8seeG8mg"
+    },
+    {
+      "album": {
         "name": "The Three Tenors - In Concert, Rome 1990 (And Selected Highlights)",
         "url": "https://open.spotify.com/album/6AWJUvJzyPQWxkTryQTbgE"
       },
@@ -904,44 +942,6 @@
       "duration_ms": 216986,
       "name": "Core 'ngrato - Live",
       "url": "https://open.spotify.com/track/6rkbpNQxtaGYQwkNRYe69U"
-    },
-    {
-      "album": {
-        "name": "The Three Tenors - The Best of the 3 Tenors",
-        "url": "https://open.spotify.com/album/2fVs3rLwgh37t8JK8ryHYx"
-      },
-      "artists": [
-        {
-          "name": "Salvatore Cardillo",
-          "url": "https://open.spotify.com/artist/3gMg7jXcjquwaOKFHfa6dL"
-        },
-        {
-          "name": "Jos\u00e9 Carreras",
-          "url": "https://open.spotify.com/artist/1ahGKezyX9Rl7GuEF2tc15"
-        },
-        {
-          "name": "Pl\u00e1cido Domingo",
-          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
-        },
-        {
-          "name": "Luciano Pavarotti",
-          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
-        },
-        {
-          "name": "Orchestre de Paris",
-          "url": "https://open.spotify.com/artist/0iERWmMl3nIvcDxnJsKZBd"
-        },
-        {
-          "name": "James Levine",
-          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
-        }
-      ],
-      "date_added": "2021-03-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 216986,
-      "name": "Core 'ngrato - Live",
-      "url": "https://open.spotify.com/track/7zvL32GeH1F8qj8seeG8mg"
     },
     {
       "album": {

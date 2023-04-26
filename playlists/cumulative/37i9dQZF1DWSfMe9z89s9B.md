@@ -4,11 +4,11 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Jordan Ward
 
-809 songs - 1 day 19 hr 47 min
+811 songs - 1 day 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\*smokes weed once\*](https://open.spotify.com/track/0u42ardVmhoaCo746IumyG) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [nolademos](https://open.spotify.com/album/3aXlTlKpRpnwTsjL0lXRIt) | 1:19 | 2023-03-24 |  |
+| [\*smokes weed once\*](https://open.spotify.com/track/0u42ardVmhoaCo746IumyG) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [nolademos](https://open.spotify.com/album/3aXlTlKpRpnwTsjL0lXRIt) | 1:19 | 2023-03-24 | 2023-04-26 |
 | [1080p](https://open.spotify.com/track/2Km5bvWLnzHTGZFkcZdXwo) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [HXNS](https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0) | [1080p](https://open.spotify.com/album/65G42qU1o3brVm6GSFpRZu) | 2:33 | 2021-08-27 | 2022-04-26 |
 | [2 Cool](https://open.spotify.com/track/1VteH8FW94AAdHuLS0mH89) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [ES.KAY](https://open.spotify.com/artist/7te7J9kStWnwNZGsiFku2H) | [2 Cool](https://open.spotify.com/album/4uhtYV6odKIYv2OyxQvlmO) | 3:16 | 2021-05-14 | 2022-01-19 |
 | [2 DOGS 1 LEASH](https://open.spotify.com/track/3fyoU0LaGw1yqxK2bbWcOJ) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [2 DOGS 1 LEASH](https://open.spotify.com/album/2IcmVtVgkrX6bmjRL03Kqz) | 2:42 | 2022-07-29 | 2023-03-04 |
@@ -379,6 +379,7 @@
 | [Intruded](https://open.spotify.com/track/0sWSdNGH0bsD3NqjXvSacf) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Intruded](https://open.spotify.com/album/0keWJvznKYYVSmxjYnWd0L) | 3:06 | 2021-03-19 | 2022-04-13 |
 | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/4Qy41cZBMKnm8OIAeTQRBH) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/album/31BVN37zvcirLlth8tlKHh) | 3:36 | 2022-02-25 | 2022-07-29 |
 | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/7jhxagwOk9y1HC5ciRfmkQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-06-10 | 2022-11-05 |
+| [Is It Magic?](https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Is It Magic?](https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e) | 3:08 | 2023-04-21 |  |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-14 | 2022-07-14 |
 | [Is This Love](https://open.spotify.com/track/4GYtrWXfgSd09WCCTtsbjM) | [Toulouse](https://open.spotify.com/artist/4Vy0AbsAmU5l3ZWOxhilzr) | [Is This Love](https://open.spotify.com/album/1MiqKHjXCNAHLCKJiLY4tp) | 3:24 | 2022-04-01 | 2022-04-12 |
 | [is this real life?](https://open.spotify.com/track/3c7jfhoHw5LLp9OrwhanQh) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [is this real life?](https://open.spotify.com/album/04Xf8kg1pUJ2pGOQ7JDoRz) | 4:25 | 2022-12-09 | 2022-12-17 |
@@ -632,7 +633,8 @@
 | [Signal Down](https://open.spotify.com/track/6MXXwCvDKQBBNjR0RIKOhY) | [Daniel Hex](https://open.spotify.com/artist/05vHPIc91srHZA2JhBQzeX) | [Signal Down / Sideways](https://open.spotify.com/album/7K1r3n9CcH7fEbQMmctX86) | 2:01 | 2021-03-19 | 2022-01-21 |
 | [Simon Says](https://open.spotify.com/track/4QGITEzvSZ77PQCAp9XIkR) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Pigeons & Planes presents: See You Next Year](https://open.spotify.com/album/7kcpj6h0JGPKOh59ZvbUdm) | 2:47 | 2022-08-05 | 2022-08-25 |
 | [Simp](https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Simp](https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr) | 2:31 | 2023-02-10 |  |
-| [Since I Have A Lover](https://open.spotify.com/track/1qtwebmDBKPQEggSKGoSfy) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/6rnB57BMxdU6Z2TNExuPh7) | 4:42 | 2023-03-03 |  |
+| [Since I Have A Lover](https://open.spotify.com/track/1qtwebmDBKPQEggSKGoSfy) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/6rnB57BMxdU6Z2TNExuPh7) | 4:42 | 2023-03-03 | 2023-04-26 |
+| [Since I Have A Lover](https://open.spotify.com/track/5D1QJgn1rP8docnVY6MRJ9) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 4:42 | 2023-03-03 |  |
 | [sink or swim](https://open.spotify.com/track/7cSzfId9hyN4CjdFKKKojm) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [sink or swim](https://open.spotify.com/album/5dk6DPvWnVfKNBhJQBXcsx) | 3:12 | 2023-04-07 |  |
 | [Sinner](https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g) | [Kelz](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Sinner](https://open.spotify.com/album/1uUYrt95TGLSNkjrdjvoOt) | 1:39 | 2022-07-24 |  |
 | [Skin](https://open.spotify.com/track/467t3218y3yihFcyDGWjr0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Skin](https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW) | 3:50 | 2021-03-19 | 2022-07-23 |

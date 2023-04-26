@@ -5033,6 +5033,28 @@
     },
     {
       "album": {
+        "name": "Friday Night With The Neighbours",
+        "url": "https://open.spotify.com/album/03VSyL9ungqFQzJ5EY74Se"
+      },
+      "artists": [
+        {
+          "name": "Cody Lawless",
+          "url": "https://open.spotify.com/artist/6YCVlQAsIlKAwVNf7ggAwf"
+        },
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Friday Night With The Neighbours",
+      "url": "https://open.spotify.com/track/1WdudtCCuMjsLNGgZwR1gd"
+    },
+    {
+      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/6BrLNk6H3gJSWx9AtPLLcB"
       },
@@ -10672,7 +10694,7 @@
       ],
       "date_added": "2019-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 210281,
       "name": "Puppy Dog",
       "url": "https://open.spotify.com/track/13O36COxxWjcvc9r5Zsd1P"

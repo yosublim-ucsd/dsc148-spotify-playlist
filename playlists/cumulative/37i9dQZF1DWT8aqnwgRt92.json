@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 246884,
       "name": "close to moon",
       "url": "https://open.spotify.com/track/3rlHUMwbAzrkQlNS3qZaM5"
@@ -1112,6 +1112,24 @@
       "duration_ms": 257935,
       "name": "Congrats!!(with Friends)",
       "url": "https://open.spotify.com/track/1IVEyiTOBYTRjGxDy9oQar"
+    },
+    {
+      "album": {
+        "name": "Cosmos",
+        "url": "https://open.spotify.com/album/1PRWyjzjtBYC2nZOA4tHZt"
+      },
+      "artists": [
+        {
+          "name": "Taichi Mukai",
+          "url": "https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212483,
+      "name": "Cosmos",
+      "url": "https://open.spotify.com/track/3plVtRi5jEt5P8ID4WNPgH"
     },
     {
       "album": {
@@ -4562,7 +4580,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 183320,
       "name": "Nyamboree de Moffy!!",
       "url": "https://open.spotify.com/track/1NYDPB36pncEVVndu7vbcI"
@@ -5092,7 +5110,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 231640,
       "name": "Salt & Sugar",
       "url": "https://open.spotify.com/track/2X0wvwTrhRC9oDdCa48DPR"
@@ -5543,6 +5561,42 @@
     },
     {
       "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/3d4K0E7Jisj18spw1y7rEF"
+      },
+      "artists": [
+        {
+          "name": "sumika",
+          "url": "https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190133,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/2kuTXMJcOuIgZGc73kP5Is"
+    },
+    {
+      "album": {
+        "name": "Stay Free (Kono Subarashii Sekai Ni Bakuen Wo! Opening Theme)",
+        "url": "https://open.spotify.com/album/4AFGph0PQNYPqu4nYpdsQf"
+      },
+      "artists": [
+        {
+          "name": "Machico",
+          "url": "https://open.spotify.com/artist/1WAGre0baNiJXIRT5JSMn9"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241586,
+      "name": "Stay Free",
+      "url": "https://open.spotify.com/track/07eAQ4yUtJXlmajfLDL2fs"
+    },
+    {
+      "album": {
         "name": "Step Up",
         "url": "https://open.spotify.com/album/7f0deOUeip4S9DIaiCjlOt"
       },
@@ -5984,7 +6038,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 206509,
       "name": "TOMBI",
       "url": "https://open.spotify.com/track/7nnACrn6f6JsKskLYKq1Cl"
@@ -6452,7 +6506,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 215426,
       "name": "WATASHITACHI Marginal Service",
       "url": "https://open.spotify.com/track/05aMlgQOcdv8IcIxGh40Vz"
@@ -7198,7 +7252,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 287653,
       "name": "\u305a\u3063\u3068",
       "url": "https://open.spotify.com/track/2ptB8OVzQtJsYKPJZ95fTe"
@@ -9304,7 +9358,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 95320,
       "name": "\u30e9\u30e0\u306e\u30e9\u30d6\u30bd\u30f3\u30b0 -\u30e9\u30e0(CV:\u4e0a\u5742\u3059\u307f\u308c)Short ver.-",
       "url": "https://open.spotify.com/track/5Y6QHaJ2RljnPsIhoIcJVX"
@@ -9889,6 +9943,24 @@
     },
     {
       "album": {
+        "name": "\u5343\u5e74\u30c8\u30e9\u30d9\u30e9\u30fc",
+        "url": "https://open.spotify.com/album/7JJBPum3eBvexM6wGqAcMp"
+      },
+      "artists": [
+        {
+          "name": "Ikusaburo Yamazaki",
+          "url": "https://open.spotify.com/artist/6Gb2Ypn3fY7iNn9aHQDu85"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200007,
+      "name": "\u5343\u5e74\u30c8\u30e9\u30d9\u30e9\u30fc",
+      "url": "https://open.spotify.com/track/1yMiSJSpTy7YROR6XRUJg3"
+    },
+    {
+      "album": {
         "name": "\u53ad\u308f\u306a\u3044",
         "url": "https://open.spotify.com/album/1rI6gPUa74r9I6HUSFHbac"
       },
@@ -10193,6 +10265,28 @@
     },
     {
       "album": {
+        "name": "\u5915\u3055\u308a\u306e\u30ab\u30ce\u30f3",
+        "url": "https://open.spotify.com/album/0UpP21Crlupm1SaIE33tIy"
+      },
+      "artists": [
+        {
+          "name": "\u7c97\u54c1",
+          "url": "https://open.spotify.com/artist/7xqEtCgCQWtiuvlkM5Wigc"
+        },
+        {
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191417,
+      "name": "\u5915\u3055\u308a\u306e\u30ab\u30ce\u30f3",
+      "url": "https://open.spotify.com/track/37lVT9BHrBRUsLxYUOZw9x"
+    },
+    {
+      "album": {
         "name": "\u5922\u60f3\u7684\u30af\u30ed\u30cb\u30af\u30eb",
         "url": "https://open.spotify.com/album/4NvsZjjP7cG1eTuK7Q1Q6w"
       },
@@ -10298,6 +10392,28 @@
       "duration_ms": 213000,
       "name": "\u5bbf\u7e01",
       "url": "https://open.spotify.com/track/6O3CyRXIXp0j2YYpmIxQFw"
+    },
+    {
+      "album": {
+        "name": "\u5bc4\u82b1-Yosuga-",
+        "url": "https://open.spotify.com/album/6RT1XoXFGcW33smcuJY0yk"
+      },
+      "artists": [
+        {
+          "name": "#kzn",
+          "url": "https://open.spotify.com/artist/6PPyZ24emAZuxz2OK9DDCq"
+        },
+        {
+          "name": "Mikito P",
+          "url": "https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210947,
+      "name": "\u5bc4\u82b1-Yosuga-",
+      "url": "https://open.spotify.com/track/4AK1qzjvhxUtUujZoZ22Z1"
     },
     {
       "album": {

@@ -1,15 +1,51 @@
 {
   "description": "Hear all of TAEYANG's biggest and best hits in one playlist.",
-  "num_followers": 20214,
+  "num_followers": 20700,
   "original_name": "This Is TAEYANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NzQ1MiwwMDAwMDAwMGI0Zjg2Y2RjMjc0OGIwZjIxZDA5MjhjNjQ3Y2IyZWM1",
+  "snapshot_id": "MTY4MjQxMzk0NywwMDAwMDAwMDNlNWE2NjRhNTBmZDNmN2E0ODRmNGRjODJkMjY3NTEz",
   "tracks": [
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
+      "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "duration_ms": 255253,
+      "name": "Seed",
+      "url": "https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z"
+    },
+    {
+      "added_at": "2023-04-25 09:12:27",
+      "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 205101,
+      "name": "Shoong! (feat. LISA of BLACKPINK)",
+      "url": "https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt"
+    },
+    {
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "VIBE (feat. Jimin of BTS)",
         "url": "https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ"
@@ -29,7 +65,83 @@
       "url": "https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
+      "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "duration_ms": 202720,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/3olqy6cgUoqV4zjLEeBXSl"
+    },
+    {
+      "added_at": "2023-04-25 09:12:27",
+      "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 212211,
+      "name": "Inspiration (feat. Beenzino)",
+      "url": "https://open.spotify.com/track/5hAtmSB8KlmU81ljSupSjF"
+    },
+    {
+      "added_at": "2023-04-25 09:12:27",
+      "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "BRYAN CHA$E",
+          "url": "https://open.spotify.com/artist/21pdFXVgEujpnjqKDCy6BL"
+        }
+      ],
+      "duration_ms": 225630,
+      "name": "Nightfall (feat. Bryan Chase)",
+      "url": "https://open.spotify.com/track/0C04G6ZM8y2VlHEM1B1aKV"
+    },
+    {
+      "added_at": "2023-04-25 09:12:27",
+      "album": {
+        "name": "VIBE (feat. Jimin of BTS)",
+        "url": "https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 175775,
+      "name": "VIBE (feat. Jimin of BTS)",
+      "url": "https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn"
+    },
+    {
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "LOUDER",
         "url": "https://open.spotify.com/album/3AoUsbJUwk14bt7PLGXf45"
@@ -45,7 +157,7 @@
       "url": "https://open.spotify.com/track/3TCzay1FkjSewTeiRSQGOk"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "WHITE NIGHT",
         "url": "https://open.spotify.com/album/4AE3KNhHuzlTURK6c77eaR"
@@ -61,7 +173,7 @@
       "url": "https://open.spotify.com/track/3yq48eRG04UryOATzpwr4V"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "WHITE NIGHT",
         "url": "https://open.spotify.com/album/4AE3KNhHuzlTURK6c77eaR"
@@ -77,7 +189,7 @@
       "url": "https://open.spotify.com/track/49w8umYnAfSPulksfEDx16"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "WHITE NIGHT",
         "url": "https://open.spotify.com/album/4AE3KNhHuzlTURK6c77eaR"
@@ -93,7 +205,7 @@
       "url": "https://open.spotify.com/track/6oycMp1woEDrrluLY0icmV"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "WHITE NIGHT",
         "url": "https://open.spotify.com/album/4AE3KNhHuzlTURK6c77eaR"
@@ -109,7 +221,7 @@
       "url": "https://open.spotify.com/track/4PBr1wStrak7aWJkUKvbUl"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "WHITE NIGHT",
         "url": "https://open.spotify.com/album/4AE3KNhHuzlTURK6c77eaR"
@@ -125,7 +237,7 @@
       "url": "https://open.spotify.com/track/2gILEqYZMaljxD89UKippy"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "WHITE NIGHT",
         "url": "https://open.spotify.com/album/4AE3KNhHuzlTURK6c77eaR"
@@ -141,7 +253,7 @@
       "url": "https://open.spotify.com/track/3TFp0q9DGulf477YG2lZXI"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "WHITE NIGHT",
         "url": "https://open.spotify.com/album/4AE3KNhHuzlTURK6c77eaR"
@@ -157,7 +269,7 @@
       "url": "https://open.spotify.com/track/64f7T9vidBqVHSUqZ1a3nq"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "WHITE NIGHT",
         "url": "https://open.spotify.com/album/4AE3KNhHuzlTURK6c77eaR"
@@ -177,7 +289,7 @@
       "url": "https://open.spotify.com/track/2Ryu6OAqmEcrtnTxaPYDCP"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
@@ -193,7 +305,7 @@
       "url": "https://open.spotify.com/track/6J0mtwueFaEL0bmxuHEYI0"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
@@ -209,7 +321,7 @@
       "url": "https://open.spotify.com/track/0lYtIvI7bO51PZSeK22Mbz"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
@@ -225,7 +337,7 @@
       "url": "https://open.spotify.com/track/3JmlYV4mm5jdo2ZWzATLBv"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
@@ -245,7 +357,7 @@
       "url": "https://open.spotify.com/track/4Hznsw4SROqqX8T54Syguv"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
@@ -261,7 +373,7 @@
       "url": "https://open.spotify.com/track/6kSoXPg7yhpvgiXuoqRJSF"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
@@ -277,7 +389,7 @@
       "url": "https://open.spotify.com/track/7fLijBP4BGujlmHRP3aX32"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
@@ -293,7 +405,7 @@
       "url": "https://open.spotify.com/track/1kewNvWljcwYKzlAKRXaUf"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
@@ -309,7 +421,7 @@
       "url": "https://open.spotify.com/track/5YhaIIgjic4Q31BL1jYMk5"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
@@ -325,7 +437,7 @@
       "url": "https://open.spotify.com/track/3wJ5tkDTIc3w5THvaggHDx"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "RINGA LINGA (Shockbit Remix)",
         "url": "https://open.spotify.com/album/1FGkGm47uEd2L26Ff3ILmK"
@@ -353,7 +465,7 @@
       "url": "https://open.spotify.com/track/6H7VSKaFubMd4sfisXwYQr"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Ringa Linga",
         "url": "https://open.spotify.com/album/5WOQuSAJhOtZu46WJgy9BG"
@@ -369,7 +481,7 @@
       "url": "https://open.spotify.com/track/0zA75hGcXgVNbzsu0a3lBR"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Solar International",
         "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
@@ -385,7 +497,7 @@
       "url": "https://open.spotify.com/track/0MB3rxsnXZ6DV95LelFlOu"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Solar International",
         "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
@@ -401,7 +513,7 @@
       "url": "https://open.spotify.com/track/4VpjaZ0AEbt0k61PXzIlLG"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Solar International",
         "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
@@ -421,7 +533,7 @@
       "url": "https://open.spotify.com/track/1qceUus2spQ9UxPFpBaq0I"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Solar International",
         "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
@@ -437,7 +549,7 @@
       "url": "https://open.spotify.com/track/6FhsCcYFcV5iu9h9PFM4zC"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Solar International",
         "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
@@ -453,7 +565,7 @@
       "url": "https://open.spotify.com/track/5r6LzsarhC4Ygt8mFzSgYV"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Solar International",
         "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
@@ -473,7 +585,7 @@
       "url": "https://open.spotify.com/track/5Tqnb5WsXWCRAVcu0bC7QV"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Solar International",
         "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
@@ -493,7 +605,7 @@
       "url": "https://open.spotify.com/track/7Frw0VC9RpDGwXSmAG1WeJ"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Solar International",
         "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
@@ -509,7 +621,7 @@
       "url": "https://open.spotify.com/track/360chjamNlEge55Oos4od4"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Solar International",
         "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
@@ -529,7 +641,7 @@
       "url": "https://open.spotify.com/track/2kCLzdVJ41uPj7YiCuyK4B"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Solar International",
         "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
@@ -545,7 +657,7 @@
       "url": "https://open.spotify.com/track/1xaLJbuJr6efSW8MFA7vTu"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Solar International",
         "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
@@ -561,7 +673,7 @@
       "url": "https://open.spotify.com/track/6mqsxO95cTucMYoK3drdSK"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Solar International",
         "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
@@ -577,7 +689,7 @@
       "url": "https://open.spotify.com/track/7MvEXoezNqX9bLNF6aNjeL"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Solar",
         "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
@@ -593,7 +705,7 @@
       "url": "https://open.spotify.com/track/1FclvbiUT3czzHM1lwWnnX"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Solar",
         "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
@@ -609,7 +721,7 @@
       "url": "https://open.spotify.com/track/0alnyI664183rlCIgKh8Hf"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Solar",
         "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
@@ -629,7 +741,7 @@
       "url": "https://open.spotify.com/track/34oRc4INwO7000LJUQLy5X"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Solar",
         "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
@@ -645,7 +757,7 @@
       "url": "https://open.spotify.com/track/08q3v7gSZhNhMCqKGqsD4d"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Solar",
         "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
@@ -661,7 +773,7 @@
       "url": "https://open.spotify.com/track/0PEMMKw7j1tsS7U4lcTjqR"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Solar",
         "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
@@ -681,7 +793,7 @@
       "url": "https://open.spotify.com/track/2mbTfOh91FiQF4yIE9vtgB"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Solar",
         "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
@@ -697,7 +809,7 @@
       "url": "https://open.spotify.com/track/1WP99rmsetBvCbO8VC4unt"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Solar",
         "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
@@ -717,7 +829,7 @@
       "url": "https://open.spotify.com/track/5p8bTHJQ5TcuL84bXmWTrR"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Solar",
         "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
@@ -733,7 +845,7 @@
       "url": "https://open.spotify.com/track/1qbwaDM22exlyLRAmM9vKd"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Solar",
         "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
@@ -749,7 +861,7 @@
       "url": "https://open.spotify.com/track/2NO4CA2TFvhGeg7XMz8PmT"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Solar",
         "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
@@ -765,7 +877,7 @@
       "url": "https://open.spotify.com/track/1QbbAZG3LZ8xYsW04INy1c"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Hot",
         "url": "https://open.spotify.com/album/65DhpSPzXYHRjE9LHpc7rw"
@@ -781,7 +893,7 @@
       "url": "https://open.spotify.com/track/6yw2SNw9MZDroL2DLmUYDm"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Hot",
         "url": "https://open.spotify.com/album/65DhpSPzXYHRjE9LHpc7rw"
@@ -801,7 +913,7 @@
       "url": "https://open.spotify.com/track/0QdoA14XPxSuuoiuNDzvKJ"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Hot",
         "url": "https://open.spotify.com/album/65DhpSPzXYHRjE9LHpc7rw"
@@ -817,7 +929,7 @@
       "url": "https://open.spotify.com/track/1518ZPHBb0rmVAw1xNbOzu"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Hot",
         "url": "https://open.spotify.com/album/65DhpSPzXYHRjE9LHpc7rw"
@@ -833,7 +945,7 @@
       "url": "https://open.spotify.com/track/7xHgNR7BCYTCMfmUz66EbO"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Hot",
         "url": "https://open.spotify.com/album/65DhpSPzXYHRjE9LHpc7rw"
@@ -849,7 +961,7 @@
       "url": "https://open.spotify.com/track/4fazfkxMwEnRczzGpLZDBt"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Hot",
         "url": "https://open.spotify.com/album/65DhpSPzXYHRjE9LHpc7rw"
@@ -869,7 +981,7 @@
       "url": "https://open.spotify.com/track/5ug8uKCAH4HQ5owBPNSoPa"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "GOOD BOY",
         "url": "https://open.spotify.com/album/2rhq834A24z7ucY39moYdb"
@@ -885,7 +997,7 @@
       "url": "https://open.spotify.com/track/52mglSL6bdbrg9zig7nazP"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "BIGBANG Special Edition",
         "url": "https://open.spotify.com/album/2fpQB21ER6ETvnfADPdaHl"
@@ -905,7 +1017,7 @@
       "url": "https://open.spotify.com/track/334sBXJEz428B63ANg52sq"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Show Me the Money 4 Episode 5",
         "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
@@ -925,7 +1037,7 @@
       "url": "https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "PSY 8th 4X2=8",
         "url": "https://open.spotify.com/album/5AtBwO35tOSWvxS4nFWHAi"
@@ -945,7 +1057,7 @@
       "url": "https://open.spotify.com/track/5k0FSFPd15YKe7y9NMfq9U"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "EPIK HIGH - SHOEBOX",
         "url": "https://open.spotify.com/album/3jdV0dbTuNfdRwEimoJ28a"
@@ -965,7 +1077,7 @@
       "url": "https://open.spotify.com/track/16jg76zHuYHMPghRdMfHeL"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "EPIK HIGH - SHOEBOX",
         "url": "https://open.spotify.com/album/3jdV0dbTuNfdRwEimoJ28a"
@@ -985,7 +1097,7 @@
       "url": "https://open.spotify.com/track/2UMmoa8MP15tHnTFpO6A1E"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "UNIVERSE",
         "url": "https://open.spotify.com/album/1crq8WbybWZziBnYSOMa4I"
@@ -1005,7 +1117,7 @@
       "url": "https://open.spotify.com/track/3DgwkV1Gmt8mUfwTjMPl2p"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Fever's End (\uc5f4\uaf43) Pt. 2 - EP",
         "url": "https://open.spotify.com/album/6bcvEP3490ouA7PW2DD168"
@@ -1025,7 +1137,7 @@
       "url": "https://open.spotify.com/track/0ksaKAzzFwB3h70h1Z5PRb"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "WALKIN', Vol.2",
         "url": "https://open.spotify.com/album/2CPepitv0LvH8IqvIAu5Uc"
@@ -1049,7 +1161,7 @@
       "url": "https://open.spotify.com/track/0Kov3heCgcnLdC5QlKgQe9"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Shine A Light",
         "url": "https://open.spotify.com/album/1VNgOZM0hpFdeivdpoD5k6"
@@ -1069,7 +1181,7 @@
       "url": "https://open.spotify.com/track/3lShYM0Ts3HfEDFpfkGO5z"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "UP BEAT",
         "url": "https://open.spotify.com/album/6juujVdPaWjy066P9ZOXvJ"
@@ -1089,7 +1201,7 @@
       "url": "https://open.spotify.com/track/04HoJpRNBQ98naXqeroSHB"
     },
     {
-      "added_at": "2023-01-13 05:24:12",
+      "added_at": "2023-04-25 09:12:27",
       "album": {
         "name": "Soul Family with Johan",
         "url": "https://open.spotify.com/album/5y7fjiyU5WlRuwTI8nAEkJ"

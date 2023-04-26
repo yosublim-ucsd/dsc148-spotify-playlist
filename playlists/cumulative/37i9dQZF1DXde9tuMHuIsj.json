@@ -1624,10 +1624,28 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 172524,
       "name": "El Anillo el Reloj",
       "url": "https://open.spotify.com/track/07oEiX9E5kBARkQuPlhj4m"
+    },
+    {
+      "album": {
+        "name": "El anillo el reloj rochyrd",
+        "url": "https://open.spotify.com/album/75CxLbfmcV0kcD1tmDjjsK"
+      },
+      "artists": [
+        {
+          "name": "Elefgy",
+          "url": "https://open.spotify.com/artist/5anGcJKUl5uWvs9WKOKYbr"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172524,
+      "name": "El anillo el reloj rochyrd",
+      "url": "https://open.spotify.com/track/3jhsxOZPvnXJSAjJy1NTlz"
     },
     {
       "album": {

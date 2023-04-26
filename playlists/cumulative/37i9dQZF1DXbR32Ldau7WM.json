@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now! Cover: JUN SKY WALKER(S)",
+  "description": "The biggest rock artists in Japan right now! Cover: SHERBETS",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 180500,
       "name": "A Phenomenal Man",
       "url": "https://open.spotify.com/track/5hxacLnWr2zD9GDKm2oEYy"
@@ -594,6 +594,24 @@
       "duration_ms": 238498,
       "name": "Bloody Power Fame",
       "url": "https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6"
+    },
+    {
+      "album": {
+        "name": "IZORA",
+        "url": "https://open.spotify.com/album/7COwrUcqO3yWY4zXsdeXgI"
+      },
+      "artists": [
+        {
+          "name": "BUCK-TICK",
+          "url": "https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237306,
+      "name": "Boogie Woogie",
+      "url": "https://open.spotify.com/track/2d4864DEKNKv2B1zkWiDuG"
     },
     {
       "album": {
@@ -2560,7 +2578,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 207166,
       "name": "LADY",
       "url": "https://open.spotify.com/track/7w6NWogvAAFdEhD9MA2uvv"
@@ -4204,7 +4222,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 126333,
       "name": "RIDE TOUGH!",
       "url": "https://open.spotify.com/track/6LCz9LsnSyO9AFbquwLxO3"
@@ -4926,6 +4944,24 @@
       "duration_ms": 212000,
       "name": "SPECTACLE",
       "url": "https://open.spotify.com/track/5ohAH1bZNRujINvE5zrDfC"
+    },
+    {
+      "album": {
+        "name": "Midnight Chocolate - EP",
+        "url": "https://open.spotify.com/album/6Jjha9eFKiS7bvJbxU2U7Y"
+      },
+      "artists": [
+        {
+          "name": "SHERBETS",
+          "url": "https://open.spotify.com/artist/2wDZiOSGlVZbHYSqAeJRW9"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232840,
+      "name": "Spread City",
+      "url": "https://open.spotify.com/track/3GmSEfuuFLpRxC6iZV9Mv7"
     },
     {
       "album": {
@@ -10552,7 +10588,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-24",
+      "date_removed": null,
       "duration_ms": 318000,
       "name": "\u9060\u96f7",
       "url": "https://open.spotify.com/track/4pBwrxwaEjKytWr1Pg7SXw"

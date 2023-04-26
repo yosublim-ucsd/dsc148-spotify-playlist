@@ -340,7 +340,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 170120,
       "name": "A Song for Clara",
       "url": "https://open.spotify.com/track/3QyXiYnPcszAptSYP2ZICS"
@@ -484,10 +484,28 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 94625,
       "name": "A Winged Heart",
       "url": "https://open.spotify.com/track/1MTcucGzHDyqs7gL7DYaRs"
+    },
+    {
+      "album": {
+        "name": "Evermore",
+        "url": "https://open.spotify.com/album/5Ncf92JzlovIzXITNN93IK"
+      },
+      "artists": [
+        {
+          "name": "Waltzin",
+          "url": "https://open.spotify.com/artist/5nkwKrd8YZXi7uMgEppmxh"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94625,
+      "name": "A Winged Heart",
+      "url": "https://open.spotify.com/track/46UHODsqv95qRmMomRGRt3"
     },
     {
       "album": {
@@ -2414,7 +2432,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 148658,
       "name": "Corn\u00e9lis",
       "url": "https://open.spotify.com/track/3gGFpTbVGM8M2T3ZmjKsvJ"
@@ -4789,6 +4807,24 @@
     },
     {
       "album": {
+        "name": "Husk",
+        "url": "https://open.spotify.com/album/0MgDHH3pv3BuTUNWH1NExE"
+      },
+      "artists": [
+        {
+          "name": "Tamara Eden",
+          "url": "https://open.spotify.com/artist/4bRMSKrWQRQXELuI73lXLD"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190250,
+      "name": "Husk",
+      "url": "https://open.spotify.com/track/31wi1LOTXtipf1NXgJv50H"
+    },
+    {
+      "album": {
         "name": "Hymn for Archimedes",
         "url": "https://open.spotify.com/album/41QM1uQUiU5UWkUuIaMjyR"
       },
@@ -4854,7 +4890,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 147750,
       "name": "I Was Thinking",
       "url": "https://open.spotify.com/track/6nhqhyy74vnNf0Sg66Sdkf"
@@ -5268,7 +5304,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 120500,
       "name": "Jalousie",
       "url": "https://open.spotify.com/track/0EhY59G3z36qhZvRf4JLWi"
@@ -5358,7 +5394,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 156000,
       "name": "June",
       "url": "https://open.spotify.com/track/6QPV9cbVo1wFr3unL0y2qZ"
@@ -5380,6 +5416,24 @@
       "duration_ms": 126979,
       "name": "Juniper Dreams",
       "url": "https://open.spotify.com/track/2ny13L1veunc7p6SCnvQ8K"
+    },
+    {
+      "album": {
+        "name": "Just Passing By",
+        "url": "https://open.spotify.com/album/4naAhJ8qPaCcNd99DVrixB"
+      },
+      "artists": [
+        {
+          "name": "Winifred Kang",
+          "url": "https://open.spotify.com/artist/5r0SmbwJ70z8AoUrrbdRnU"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122159,
+      "name": "Just Passing By",
+      "url": "https://open.spotify.com/track/51zL0hF9UCIToxItCojCRP"
     },
     {
       "album": {
@@ -5646,7 +5700,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 133478,
       "name": "Lambay",
       "url": "https://open.spotify.com/track/4AfTf4LCOYOllXEHPgROVf"
@@ -6460,6 +6514,24 @@
       "duration_ms": 141376,
       "name": "L\u00e9ana",
       "url": "https://open.spotify.com/track/4RjIFSjFbvR43htmAHW6Gf"
+    },
+    {
+      "album": {
+        "name": "Ma danse avec toi",
+        "url": "https://open.spotify.com/album/1g81bFVcK5rzjJuG4pzzRx"
+      },
+      "artists": [
+        {
+          "name": "Oscar Latreux",
+          "url": "https://open.spotify.com/artist/3sdfC805aK4OSRQ5YdlDLK"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125385,
+      "name": "Ma danse avec toi",
+      "url": "https://open.spotify.com/track/0DZwhqf4al0ykWMR9azxz5"
     },
     {
       "album": {
@@ -7900,6 +7972,42 @@
       "duration_ms": 152500,
       "name": "Placid",
       "url": "https://open.spotify.com/track/1u3h3PCvrzTSCSPhCiQH3Q"
+    },
+    {
+      "album": {
+        "name": "Pneuma",
+        "url": "https://open.spotify.com/album/264KiTwubNhJtDZByhbqKI"
+      },
+      "artists": [
+        {
+          "name": "Abel Laloux",
+          "url": "https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141500,
+      "name": "Pneuma",
+      "url": "https://open.spotify.com/track/66AEotuooy840dzHKyW9Ks"
+    },
+    {
+      "album": {
+        "name": "Poema",
+        "url": "https://open.spotify.com/album/3mcNY82C2lWEMJPWv7NYiX"
+      },
+      "artists": [
+        {
+          "name": "Andrea Azzola",
+          "url": "https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121484,
+      "name": "Poema",
+      "url": "https://open.spotify.com/track/7a2UsjQknwvctwlSYhiikH"
     },
     {
       "album": {
@@ -11861,6 +11969,24 @@
     },
     {
       "album": {
+        "name": "Vocation",
+        "url": "https://open.spotify.com/album/7hyTlMMTqS0Vs7oWvqc9uy"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135645,
+      "name": "Vocation",
+      "url": "https://open.spotify.com/track/3WO9w2dTOjfwn8cf04Ft0W"
+    },
+    {
+      "album": {
         "name": "Volga",
         "url": "https://open.spotify.com/album/4E7hFmTDF1eyBIxdXyREiF"
       },
@@ -11926,7 +12052,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 139109,
       "name": "Waiting for You",
       "url": "https://open.spotify.com/track/5ZWodvcCq8kTLjfy821dRO"
@@ -11966,6 +12092,24 @@
       "duration_ms": 137510,
       "name": "Waltz For Nala",
       "url": "https://open.spotify.com/track/3NJ3rJfgSHeRqM9Fz12lLJ"
+    },
+    {
+      "album": {
+        "name": "Warm",
+        "url": "https://open.spotify.com/album/0qfYgChE45s9trkjNJT5Iq"
+      },
+      "artists": [
+        {
+          "name": "Cinthya Garcia",
+          "url": "https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "Warm",
+      "url": "https://open.spotify.com/track/03zca5jNCKSk4uttDewQ42"
     },
     {
       "album": {
@@ -12149,6 +12293,24 @@
     },
     {
       "album": {
+        "name": "Wieder Zusammen",
+        "url": "https://open.spotify.com/album/7HI3M3BnOgeumeF5sfwo6j"
+      },
+      "artists": [
+        {
+          "name": "Cole Neumann",
+          "url": "https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191482,
+      "name": "Wieder Zusammen",
+      "url": "https://open.spotify.com/track/7AqrZZG9hEeOJs9i6wzxFb"
+    },
+    {
+      "album": {
         "name": "Wind of Change",
         "url": "https://open.spotify.com/album/6f25L5Lmd4FxMNYLhHN1ux"
       },
@@ -12286,7 +12448,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 126500,
       "name": "World Of Water",
       "url": "https://open.spotify.com/track/2mbXxQ59CEZxtopCgdKAP3"

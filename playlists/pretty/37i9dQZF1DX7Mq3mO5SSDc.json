@@ -1,12 +1,12 @@
 {
   "description": "An homage to the iconic label\u2019s 1980s and 1990s roots.",
-  "num_followers": 276907,
+  "num_followers": 276938,
   "original_name": "Hip-Hop Anthems: Def Jam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTQ3Nzc4MywwMDAwMDAwMDZmYTY4ZThhNDE2YjFjMjE1NDUxNjg2OGNiODBjZTQ5",
+  "snapshot_id": "MTYzOTQ3Nzc4MywwMDAwMDAwMDk4YmIyNTlmYTVkZjIwNTVhMjQ4Yzk3OWQ1ZDQ4NjU0",
   "tracks": [
     {
       "added_at": "2020-03-04 09:06:11",
@@ -470,11 +470,23 @@
         {
           "name": "EPMD",
           "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Lady Luck",
+          "url": "https://open.spotify.com/artist/0oXoYDEPhGhN14JD4JRL5L"
         }
       ],
-      "duration_ms": 206693,
-      "name": "Da Joint",
-      "url": "https://open.spotify.com/track/4opGTspdCCVK9IG1b4k8yp"
+      "duration_ms": 243093,
+      "name": "Symphony 2000",
+      "url": "https://open.spotify.com/track/3WXNzlFDSfjEmNFUOSccf7"
     },
     {
       "added_at": "2020-03-04 09:06:11",
@@ -550,23 +562,11 @@
         {
           "name": "EPMD",
           "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Lady Luck",
-          "url": "https://open.spotify.com/artist/0oXoYDEPhGhN14JD4JRL5L"
         }
       ],
-      "duration_ms": 243093,
-      "name": "Symphony 2000",
-      "url": "https://open.spotify.com/track/3WXNzlFDSfjEmNFUOSccf7"
+      "duration_ms": 206693,
+      "name": "Da Joint",
+      "url": "https://open.spotify.com/track/4opGTspdCCVK9IG1b4k8yp"
     },
     {
       "added_at": "2020-03-04 09:06:11",

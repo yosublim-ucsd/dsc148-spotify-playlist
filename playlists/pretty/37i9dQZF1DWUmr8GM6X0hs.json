@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 63959,
+  "num_followers": 64011,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMDc1MGJjNzI3ODIyODJiNzJhNjczYjY2MDdjNTMzYWFm",
+  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMDM4NTBiMzU0YzQyYzQwYjg2NDM1MTJjM2ZlZWMzZjQ4",
   "tracks": [
     {
       "added_at": "2021-12-17 05:01:00",
@@ -423,6 +423,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Boleros & Baladas: Peruvians Sing For The Brokenhearted",
+        "url": "https://open.spotify.com/album/2aKXlmYHTdm68pa9Q289Pk"
+      },
+      "artists": [
+        {
+          "name": "Dino",
+          "url": "https://open.spotify.com/artist/7xyshlh8wadJg6dB4SYfPm"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Mil A\u00f1os",
+      "url": "https://open.spotify.com/track/5uF6rmLCccjT8C08GUESf4"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Vicentico Vald\u00e9s Con La Sonora Matancera",
         "url": "https://open.spotify.com/album/4ZlrS11JlhwkbtJ3fOglIS"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 145426,
       "name": "Los Aretes De La Luna",
       "url": "https://open.spotify.com/track/42TjkXmdeykjRoGm8XS2x8"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Boleros & Baladas: Peruvians Sing For The Brokenhearted",
-        "url": "https://open.spotify.com/album/2aKXlmYHTdm68pa9Q289Pk"
-      },
-      "artists": [
-        {
-          "name": "Dino",
-          "url": "https://open.spotify.com/artist/7xyshlh8wadJg6dB4SYfPm"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Mil A\u00f1os",
-      "url": "https://open.spotify.com/track/5uF6rmLCccjT8C08GUESf4"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/0rHlMdFWf9O4Uehk8lbRSE"
+      },
+      "artists": [
+        {
+          "name": "Alci Acosta",
+          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
+        }
+      ],
+      "duration_ms": 175418,
+      "name": "La C\u00e1rcel de Sing Sing",
+      "url": "https://open.spotify.com/track/4IntMZwE9POyG4jfH2fczJ"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Benny Mor\u00e9 M\u00e1gico",
         "url": "https://open.spotify.com/album/6eR6hzbY2nRAOEn04Ckixb"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 178733,
       "name": "Dimelo",
       "url": "https://open.spotify.com/track/3hY0TCeZr9VVBz8ZXnL9U2"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/0rHlMdFWf9O4Uehk8lbRSE"
-      },
-      "artists": [
-        {
-          "name": "Alci Acosta",
-          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
-        }
-      ],
-      "duration_ms": 175418,
-      "name": "La C\u00e1rcel de Sing Sing",
-      "url": "https://open.spotify.com/track/4IntMZwE9POyG4jfH2fczJ"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -719,18 +719,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Pedrito Otiniano y Sus Exitos",
-        "url": "https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/0rHlMdFWf9O4Uehk8lbRSE"
       },
       "artists": [
         {
-          "name": "Pedrito Otiniano",
-          "url": "https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG"
+          "name": "Alci Acosta",
+          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
         }
       ],
-      "duration_ms": 171693,
-      "name": "Kio",
-      "url": "https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC"
+      "duration_ms": 152531,
+      "name": "El Contragolpe",
+      "url": "https://open.spotify.com/track/3ee4qpNizzlfrIa0LHR6Se"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -747,6 +747,22 @@
       "duration_ms": 195000,
       "name": "Solo Cenizas Quedaron",
       "url": "https://open.spotify.com/track/5blYKQjsXDbGhENFKFBMXJ"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Pedrito Otiniano y Sus Exitos",
+        "url": "https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75"
+      },
+      "artists": [
+        {
+          "name": "Pedrito Otiniano",
+          "url": "https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG"
+        }
+      ],
+      "duration_ms": 171693,
+      "name": "Kio",
+      "url": "https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -779,22 +795,6 @@
       "duration_ms": 335533,
       "name": "Y Despu\u00e9s Del Amor",
       "url": "https://open.spotify.com/track/40uK9I0QmVwRaZqS0v1IBq"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/0rHlMdFWf9O4Uehk8lbRSE"
-      },
-      "artists": [
-        {
-          "name": "Alci Acosta",
-          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
-        }
-      ],
-      "duration_ms": 152531,
-      "name": "El Contragolpe",
-      "url": "https://open.spotify.com/track/3ee4qpNizzlfrIa0LHR6Se"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Los Triunfadores de la Rockola",
+        "url": "https://open.spotify.com/album/7mtgs85XZjFjnnEa5BKHRw"
+      },
+      "artists": [
+        {
+          "name": "Pedrito Otiniano",
+          "url": "https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "Que Te Vayas Bien",
+      "url": "https://open.spotify.com/track/7CG1BiJZwcW1lQomfgbsfm"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Loca Ansiedad",
         "url": "https://open.spotify.com/album/2JGjsZpQxsRZlNobxeLr4s"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 175333,
       "name": "Loca Ansiedad",
       "url": "https://open.spotify.com/track/4ALC5ZxsZDggCppZcqOrNO"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Los Triunfadores de la Rockola",
-        "url": "https://open.spotify.com/album/7mtgs85XZjFjnnEa5BKHRw"
-      },
-      "artists": [
-        {
-          "name": "Pedrito Otiniano",
-          "url": "https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "Que Te Vayas Bien",
-      "url": "https://open.spotify.com/track/7CG1BiJZwcW1lQomfgbsfm"
     },
     {
       "added_at": "2021-12-17 05:01:00",

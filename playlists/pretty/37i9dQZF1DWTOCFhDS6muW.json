@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 18992,
+  "num_followers": 19003,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MDUwODM5MywwMDAwMDAwMGUzOTZhODE1YThlNDk4YjliM2U2YmJmMmQzOWJlOGFl",
+  "snapshot_id": "MTU5MDUwODM5MywwMDAwMDAwMDNiOTgyMTI4Zjc4ZDEwZGVjMGY3YmNmZGQ0ZDU4MGI5",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -63,22 +63,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Punta Mix 2019",
-        "url": "https://open.spotify.com/album/1yUOla9I4KEqzzAJH9JgW7"
+        "name": "Conexi\u00f3n Garifuna",
+        "url": "https://open.spotify.com/album/2pYj5xdckJb8hGiDP8I689"
       },
       "artists": [
         {
           "name": "Kazzabe",
           "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
-        },
-        {
-          "name": "MC Productions Inc",
-          "url": "https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA"
         }
       ],
-      "duration_ms": 301342,
-      "name": "Punta Mix 2019",
-      "url": "https://open.spotify.com/track/5LP391Nx0za8MUzi9WynnX"
+      "duration_ms": 192954,
+      "name": "La Parranda (Sei Sei Bei)",
+      "url": "https://open.spotify.com/track/19ypqqNqS4pdiZ4PzCEcLQ"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -183,18 +179,22 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Conexi\u00f3n Garifuna",
-        "url": "https://open.spotify.com/album/2pYj5xdckJb8hGiDP8I689"
+        "name": "Punta Mix 2019",
+        "url": "https://open.spotify.com/album/1yUOla9I4KEqzzAJH9JgW7"
       },
       "artists": [
         {
           "name": "Kazzabe",
           "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        },
+        {
+          "name": "MC Productions Inc",
+          "url": "https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA"
         }
       ],
-      "duration_ms": 192954,
-      "name": "La Parranda (Sei Sei Bei)",
-      "url": "https://open.spotify.com/track/19ypqqNqS4pdiZ4PzCEcLQ"
+      "duration_ms": 301342,
+      "name": "Punta Mix 2019",
+      "url": "https://open.spotify.com/track/5LP391Nx0za8MUzi9WynnX"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -391,18 +391,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Baila Baila",
-        "url": "https://open.spotify.com/album/2NfTKjVHOCQTYFfvTRjL8W"
+        "name": "L\u00e1ndini",
+        "url": "https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs"
       },
       "artists": [
         {
-          "name": "Garifuna Kids",
-          "url": "https://open.spotify.com/artist/6OfSdKAmgozL3jAzHmszxo"
+          "name": "Aurelio",
+          "url": "https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h"
         }
       ],
-      "duration_ms": 396303,
-      "name": "Baila Baila",
-      "url": "https://open.spotify.com/track/6h5a02bpNo0UKpMLWcXTEl"
+      "duration_ms": 179108,
+      "name": "Nando",
+      "url": "https://open.spotify.com/track/4mhUu9hEcGeXsNJZfGGxsH"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -423,18 +423,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "L\u00e1ndini",
-        "url": "https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs"
+        "name": "Baila Baila",
+        "url": "https://open.spotify.com/album/2NfTKjVHOCQTYFfvTRjL8W"
       },
       "artists": [
         {
-          "name": "Aurelio",
-          "url": "https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h"
+          "name": "Garifuna Kids",
+          "url": "https://open.spotify.com/artist/6OfSdKAmgozL3jAzHmszxo"
         }
       ],
-      "duration_ms": 179108,
-      "name": "Nando",
-      "url": "https://open.spotify.com/track/4mhUu9hEcGeXsNJZfGGxsH"
+      "duration_ms": 396303,
+      "name": "Baila Baila",
+      "url": "https://open.spotify.com/track/6h5a02bpNo0UKpMLWcXTEl"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -587,6 +587,22 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
+        "name": "L\u00e1ndini",
+        "url": "https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs"
+      },
+      "artists": [
+        {
+          "name": "Aurelio",
+          "url": "https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h"
+        }
+      ],
+      "duration_ms": 205072,
+      "name": "Nafagua",
+      "url": "https://open.spotify.com/track/5pbizIzZ5pjYbObsSdixW4"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
         "name": "Mete Y Saca",
         "url": "https://open.spotify.com/album/5UPMmxiqYZOmZoy4yAtFXm"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 323436,
       "name": "Mete Y Saca",
       "url": "https://open.spotify.com/track/7tez2Argy2je4NUQM9eK3y"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "L\u00e1ndini",
-        "url": "https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs"
-      },
-      "artists": [
-        {
-          "name": "Aurelio",
-          "url": "https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h"
-        }
-      ],
-      "duration_ms": 205072,
-      "name": "Nafagua",
-      "url": "https://open.spotify.com/track/5pbizIzZ5pjYbObsSdixW4"
     },
     {
       "added_at": "2020-05-26 15:53:13",

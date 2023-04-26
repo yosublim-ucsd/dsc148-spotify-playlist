@@ -2,9 +2,9 @@
 
 ### [This Is MAPPA](https://open.spotify.com/playlist/37i9dQZF1DWYXEO3u0YOMv)
 
-> 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history! ©賀来ゆうじ／集英社・ツインエンジン・MAPPA
+> 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
-147 songs - 9 hr 28 min
+151 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Deep down](https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K) | 3:47 | 2023-01-17 |  |
 | [DOGLAND](https://open.spotify.com/track/6CMjaUiyl7WLPop2AoLbn6) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [DOGLAND](https://open.spotify.com/album/0yx19Klp8J1JyYES4KB426) | 2:55 | 2023-01-17 |  |
 | [Dororo](https://open.spotify.com/track/57Wtf9KjFm6GKjJ9qZ2pI5) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [Dororo / 解放区](https://open.spotify.com/album/7F9ytEr5V8SSCLzuL2Yg8d) | 2:41 | 2022-05-10 |  |
+| [Ember](https://open.spotify.com/track/2Fw5u0XQ18akFhJCQOcNCe) | [haju:harmonics](https://open.spotify.com/artist/0S4uQrXer7c4l73rNBc6T2) | [Ember](https://open.spotify.com/album/2yv2knbZtVkr0ww2SE1XDH) | 4:12 | 2023-04-25 |  |
 | [EMG](https://open.spotify.com/track/6VBRgXEETv2lYucCFSip1T) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [TOKYO DIVE](https://open.spotify.com/album/3UUQW76qnUAf4QgYhnVKYO) | 4:27 | 2022-05-10 |  |
 | [EVERLASTING DAYS](https://open.spotify.com/track/4iCr97PgqDNVtLhjs8f2mT) | [聖蹟高校サッカー部](https://open.spotify.com/artist/512LGL9YRa7k9JU1DjlQi2), [柄本つくし\(CV:吉永拓斗\)](https://open.spotify.com/artist/5dwhnr7fa3Ohu60bNHyde6), [風間陣\(CV:松岡禎丞\)](https://open.spotify.com/artist/4TZuOz8oB0B6MkIhdFUzuY), [水樹寿人\(CV:浪川大輔\)](https://open.spotify.com/artist/2VsrYIlb4ljDM9FiWGTruS), [君下敦\(CV:小野大輔\)](https://open.spotify.com/artist/1gLHYOLlx2rJKGAQ3DhVkx), [大柴喜一\(CV:宮野真守\)](https://open.spotify.com/artist/00ZTYmP3lWInwdHAfYbImv) | [EVERLASTING DAYS](https://open.spotify.com/album/4iMRhqiBtpReRVDW1oZqHS) | 3:52 | 2022-05-10 |  |
 | [EXiSTENCE](https://open.spotify.com/track/4NOO855YQh16AF5FhhO41L) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [THE BEAUTiFUL PEOPLE](https://open.spotify.com/album/5GZMmsnK1viNAVvxIBB98A) | 4:04 | 2022-05-10 |  |
@@ -60,12 +61,14 @@
 | [Luxury Spoon](https://open.spotify.com/track/7K7QoJtb4WAgEHn8lt9ilJ) | [Van de Shop](https://open.spotify.com/artist/2AP6xm7ZJZtcLkN2pccaX9) | [Luxury Spoon](https://open.spotify.com/album/1n88YDIWx9tuAL4mykoAVh) | 3:58 | 2023-01-17 |  |
 | [MAIORITEKITA YUKI](https://open.spotify.com/track/6QBcU50LiryxD8Y5lUmy9n) | [Mr Love: Queen's Choice](https://open.spotify.com/artist/73oPDy7wVxHmG1HPfg8z8M), [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [MAIORITEKITA YUKI](https://open.spotify.com/album/0ZU8oSdHaErNZwmzqRm3Nf) | 4:19 | 2022-05-10 |  |
 | [My Hero](https://open.spotify.com/track/6MmSnjDWLT5GsvlO65rhk1) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Chasing the Horizon](https://open.spotify.com/album/4y9CcT0uoNVxUhjq2ku0bX) | 4:22 | 2022-05-10 |  |
+| [Paradox](https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Paradox](https://open.spotify.com/album/5CVLZcnzPNgpSUqJA71HYz) | 4:01 | 2023-04-25 |  |
 | [Prayer X](https://open.spotify.com/track/0r2PAeROizyyoFMpu0fvwI) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [Sympa](https://open.spotify.com/album/6Z3LT9uIwXDnbgypLFrBQb) | 3:15 | 2022-05-10 |  |
 | [Promise](https://open.spotify.com/track/4L3ciLc8OVa33E8R4xTp3Y) | [Chihiro Yonekura](https://open.spotify.com/artist/4vhezQRmmI48a5uigqV180) | [HOWLING SWORD / Promise](https://open.spotify.com/album/7jNlhwueVHx3Vsvzs1MGAA) | 5:01 | 2022-05-10 |  |
 | [PUNCH LINE!](https://open.spotify.com/track/779aOT2cX0kTf1L5IQKXTX) | [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS), [Dempagumi.Inc](https://open.spotify.com/artist/2jAtwNClGACPlYgR1QFAIq) | [PUNCH LINE!\(妄想パンチラボイスComplete Edition\)](https://open.spotify.com/album/4pAMRlH6p5PWVacUt6ukIq) | 4:02 | 2022-05-10 |  |
 | [RED](https://open.spotify.com/track/5pz5S3ZqMPnd8or4IGUVho) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [RED](https://open.spotify.com/album/6KSLhFX1SGxWhI9q2vD6Bg) | 4:13 | 2022-05-10 |  |
 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 | 2023-01-17 |  |
 | [Respect](https://open.spotify.com/track/2oTG8Q2sfX9YFo8rBniHAL) | [with\(cv.八島さらら、渕上舞\)](https://open.spotify.com/artist/0Br5envwtW1V44ZOhsAT25) | [Respect\(TVアニメ『アイドル事変』エンディングテーマ\)](https://open.spotify.com/album/1JeEBEPjp9IXR5CDtzZLWE) | 4:03 | 2022-05-10 |  |
+| [River](https://open.spotify.com/track/0BnZkjhy6D3e93pkhnn0KK) | [Anonymouz](https://open.spotify.com/artist/6htvT7X1lqrkKpfp0Rv13X) | [River](https://open.spotify.com/album/7Gy7omqC8rjuXKjVyZeTUU) | 3:18 | 2023-04-25 |  |
 | [Sacrifice](https://open.spotify.com/track/73edp4NGGZZJgrtt6qxlHT) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [Kagurairo Artifact](https://open.spotify.com/album/3BpVEPWTPrxBXREO0uxHVC) | 4:14 | 2022-05-10 |  |
 | [Shogeki](https://open.spotify.com/track/5QwAdWCnauw0GpDzM3glrO) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [Shogeki](https://open.spotify.com/album/39y5a0EiZCEvBb4y00QnJh) | 3:01 | 2022-05-10 |  |
 | [Stay With Me](https://open.spotify.com/track/1PDVm6rKyLr4wsajScEoip) | [Seven Billion Dots](https://open.spotify.com/artist/15q0tk3egz6qJQAzRpMbMl) | [HOPE](https://open.spotify.com/album/1V7imbavVbdl9137lsY5v4) | 4:42 | 2022-05-10 |  |
@@ -81,6 +84,7 @@
 | [Welcome トゥ 混沌](https://open.spotify.com/track/5WFyER9XL7zcDkaj7CuYmv) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「ドロヘドロ」オープニングテーマ「Welcome トゥ 混沌」](https://open.spotify.com/album/4W2lpGvGvMmH7KLWofv4gf) | 3:38 | 2022-05-10 |  |
 | [WIN \- "The God of HighSchool" ED](https://open.spotify.com/track/7apQPgVEiRpAIFe8VaeB7h) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [WIN \("The God of HighSchool" ED\)](https://open.spotify.com/album/3Nc5br1HThZq5XrCI802gX) | 3:25 | 2022-05-10 |  |
 | [Windy](https://open.spotify.com/track/6L9ppkvgd57cyrEqtVUqZb) | [CHEMISTRY](https://open.spotify.com/artist/257kEbQnBziYfmtmqiNuNE) | [CHEMISTRY](https://open.spotify.com/album/7qI4Y22vz8c2zzRxKLw1Fw) | 4:25 | 2022-05-10 |  |
+| [Without Love](https://open.spotify.com/track/1GBl9PT3AV0qph1dEtGnzp) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Without Love](https://open.spotify.com/album/2PqGRaQmk2DjD3yTSMSZ71) | 4:07 | 2023-04-25 |  |
 | [W●RK](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [W●RK](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 | 2023-03-31 |  |
 | [You Only Live Once](https://open.spotify.com/track/7bCQjrEH2zcKqqiGm35GQW) | [YURI!!! on ICE](https://open.spotify.com/artist/1TdCQle8fQvM4Tk2cVEZSZ), [w.hatano](https://open.spotify.com/artist/0ZJgJU3awP4bitIUvVzGtO) | [You Only Live Once](https://open.spotify.com/album/7dyihdys9qBZj1XG7evPZ8) | 3:45 | 2022-05-10 |  |
 | [さよならごっこ](https://open.spotify.com/track/7H09NfuWbm1lhCqtPb5M5s) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [ボイコット](https://open.spotify.com/album/3L2UTa9fUGVuIGtrOqsMGX) | 4:32 | 2022-05-10 |  |

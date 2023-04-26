@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrdTgewhgZq.md) - [plain]
 
 > Only the best Hip\-hop, only non\-stop hits\. Cover: Frank Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,017,466 likes - 110 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,017,603 likes - 110 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

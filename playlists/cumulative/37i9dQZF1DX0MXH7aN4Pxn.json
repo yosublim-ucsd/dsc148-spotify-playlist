@@ -2688,6 +2688,24 @@
     {
       "album": {
         "name": "Hotstepper",
+        "url": "https://open.spotify.com/album/78dtx2b1CkNVD4gRXWUHRN"
+      },
+      "artists": [
+        {
+          "name": "John Gibbons",
+          "url": "https://open.spotify.com/artist/72luDUYRlE8N8lPSgyhiwo"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155316,
+      "name": "Hotstepper",
+      "url": "https://open.spotify.com/track/54bg3tj2TiXAyG0Uqk1p7n"
+    },
+    {
+      "album": {
+        "name": "Hotstepper",
         "url": "https://open.spotify.com/album/0fCWjsxczZ1k3LBAzuGnVe"
       },
       "artists": [
@@ -3756,7 +3774,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 168091,
       "name": "Make Luv",
       "url": "https://open.spotify.com/track/0X0jMAZeR8xSlghtq5s4Ol"

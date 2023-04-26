@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43n2dEAWJhy.md) - [plain]
 
 > Producer and DJ <a href="spotify:artist:4odLDriBk6oEZotzLPTSnD">Jessica Audiffred</a> has been captivating the crowd with her unique way of blending Bass & Trap, and this mix does not disappoint!
 
-[Spotify](https://open.spotify.com/user/spotify) - 956 likes - 23 songs - 56 min 14 sec
+[Spotify](https://open.spotify.com/user/spotify) - 962 likes - 23 songs - 56 min 14 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

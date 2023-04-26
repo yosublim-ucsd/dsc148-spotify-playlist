@@ -1,13 +1,49 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 868259,
+  "num_followers": 868772,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMGQwZTNmMTdlM2Y3NjU3ZDNjMmNmYzRmMTkxZTJmNWRi",
+  "snapshot_id": "MTY4MjQ0NjMzOSwwMDAwMDAwMDFhMjNjYTMxZDM1OTc4NjYxOGJmMDVkNDIxY2VjNzRm",
   "tracks": [
+    {
+      "added_at": "2023-04-25 18:11:33",
+      "album": {
+        "name": "No More Lies",
+        "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 327217,
+      "name": "No More Lies",
+      "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
+    },
+    {
+      "added_at": "2023-04-25 18:12:19",
+      "album": {
+        "name": "Dust Bunny",
+        "url": "https://open.spotify.com/album/0qMEPsD1rNIgtJ5dBdBtro"
+      },
+      "artists": [
+        {
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        }
+      ],
+      "duration_ms": 184506,
+      "name": "Dust Bunny",
+      "url": "https://open.spotify.com/track/4QTHlDa9mWxjzBdD17XjUl"
+    },
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {

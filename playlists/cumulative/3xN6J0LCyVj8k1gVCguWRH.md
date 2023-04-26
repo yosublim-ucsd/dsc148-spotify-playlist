@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,174 songs - 5 day 4 hr 54 min
+2,175 songs - 5 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1511,6 +1511,7 @@
 | [Que Salió Mal](https://open.spotify.com/track/05JhV6sqXWsRw670kjZZ7j) | [Miléna Boleda](https://open.spotify.com/artist/5tOodo2747NVK5UAvXoDet) | [Que Salió Mal](https://open.spotify.com/album/5mbNEqI41MMsWnEiitnuDz) | 4:10 | 2023-03-03 | 2023-03-29 |
 | [Queen](https://open.spotify.com/track/27QSweZtZcM0tXDTTaDlmC) | [Meagan De Lima](https://open.spotify.com/artist/5WCDYKGRjWdRXkBCokYd2x) | [Queen](https://open.spotify.com/album/6tNp2ML5yS9D7YB709yzMK) | 3:52 | 2022-05-17 | 2022-06-03 |
 | [Queen of the Silver City](https://open.spotify.com/track/41Wh5NHkKf0PonuFngDlhF) | [Glassio](https://open.spotify.com/artist/6FK9mlh2JAB7kSBYS2CYHN) | [Queen of the Silver City](https://open.spotify.com/album/4hIgrphSGvn0RU2ZFpYidU) | 3:20 | 2021-07-15 | 2021-08-28 |
+| [Question the Universe](https://open.spotify.com/track/2bZvmKO6pUFU29oPvCaenF) | [Teddy Robb](https://open.spotify.com/artist/64IzKvcuvD2Q06UGawFiuO) | [Question the Universe](https://open.spotify.com/album/3mAcJKlQgli6S5X1m0GpU7) | 3:51 | 2023-04-25 |  |
 | [Quick Stop By](https://open.spotify.com/track/0slDru5T8bQJpAioZGBB8n) | [Boy Willows](https://open.spotify.com/artist/41JVKMtlK9ecoACJu1xWca) | [Quick Stop By](https://open.spotify.com/album/2CtI5l8yC8x1aQ9SxBYnaP) | 3:15 | 2022-01-15 | 2022-01-31 |
 | [Quicksand](https://open.spotify.com/track/7hSOiPkJNpQt1iGXs54FBQ) | [Elephant Castle](https://open.spotify.com/artist/1B2xz3ZP0Vuezwk4gGhbkD) | [Quicksand](https://open.spotify.com/album/0eGLLiTjp3IPecAJxZs5RB) | 4:21 | 2022-01-07 | 2022-02-18 |
 | [Quien Eres](https://open.spotify.com/track/4SOhaYjo8hyhTx5UTSk19s) | [Judy Buendia](https://open.spotify.com/artist/21ujQ8j6gHJn9MoZXH5loj) | [Quien Eres](https://open.spotify.com/album/3NF8zAVmldN1oms4GcL0pm) | 2:04 | 2022-06-24 | 2022-07-16 |

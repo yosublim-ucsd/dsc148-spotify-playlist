@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Young Miko en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,081 likes - 125 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,134 likes - 125 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 43 | [Espada Sombra \- Narvarte Colectivo & Sacro Imperio Romano Remix](https://open.spotify.com/track/6s1ulsFVGXkF1RGr8SVGrm) | [Corina Lawrence](https://open.spotify.com/artist/0ov01DAYH1rS1xCroze7vn), [Lengualerta](https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW), [Narvarte Colectivo](https://open.spotify.com/artist/5QRHSZvwF2adtrJCEqigsS), [Sacro Imperio Romano](https://open.spotify.com/artist/0ds927QdYnDvjNX3t1KVn6) | [Espada Sombra \(Remixes\)](https://open.spotify.com/album/0GY9RaB38E8eelwgpuEh0u) | 3:53 |
 | 44 | [Antisocial](https://open.spotify.com/track/7tEsY4EB0tKXDgbv3JLRG4) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [$anta](https://open.spotify.com/artist/3GQB5B0wqM9p9EWvJtV2Ii) | [Rich Vagos Mixtape, Vol\. 2 \(Deluxe\)](https://open.spotify.com/album/6dGmu0l1TMcAZVC13XX1LN) | 3:00 |
 | 45 | [Lucha Como Mujer](https://open.spotify.com/track/0Mg7ZvxW1vAHAE4T7Q8sbo) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Lucha Como Mujer](https://open.spotify.com/album/2PjpsMtaD4VvNoImmSlHVC) | 2:30 |
-| 46 | [Simulación](https://open.spotify.com/track/0TQq1pjlkRQqesydJ5xbof) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i) | [Simulación](https://open.spotify.com/album/1WYsLijpXeD1aTIb1L0433) | 2:52 |
+| 46 | [Simulación](https://open.spotify.com/track/0TQq1pjlkRQqesydJ5xbof) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i), [Jose Macario](https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM) | [Simulación](https://open.spotify.com/album/1WYsLijpXeD1aTIb1L0433) | 2:52 |
 | 47 | [Nicki Nicole: Bzrp Music Sessions, Vol\. 13](https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nicki Nicole: Bzrp Music Sessions, Vol\. 13](https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n) | 2:23 |
 | 48 | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/track/5hpOBmnNc1mahkYGmte4NI) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/album/4rEAYu2WaOofCf9KpyFKO7) | 2:57 |
 | 49 | [INESTABLE](https://open.spotify.com/track/501X2Nrk11zzfOn546Rhti) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [INESTABLE](https://open.spotify.com/album/42tptQ38LTPQenmxgSBtjU) | 3:14 |

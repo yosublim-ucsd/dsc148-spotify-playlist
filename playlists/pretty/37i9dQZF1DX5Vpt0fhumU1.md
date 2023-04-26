@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vpt0fhumU1.md) - [plain]
 
 > Soak up the spirit of Spain with a taste of these traditional flamenco and folk tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,977 likes - 51 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,136 likes - 51 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vpt0fhumU1.md) - [plain]
 | 5 | [Aunque Es de Noche \(Tango\)](https://open.spotify.com/track/2Ixtw9MGKVBxaa6aRb43H0) | [Enrique Morente](https://open.spotify.com/artist/4rJk8GmrNf1g07EsuoZSzJ) | [Esencial Enrique Morente](https://open.spotify.com/album/429mOLPu8Sl3E4Pw5wOPuc) | 4:10 |
 | 6 | [Sostén Mi Corazón](https://open.spotify.com/track/2VL18BYruMoFmrX2FOH0Kh) | [Aurelia](https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA) | [Sostén Mi Corazón](https://open.spotify.com/album/59HfyTWuPadCXE8Nd7q3ij) | 3:15 |
 | 7 | [Nuevo día](https://open.spotify.com/track/4bFaDjWTSbudJdO9J0fp71) | [Lole Y Manuel](https://open.spotify.com/artist/698bm15EgCHVHJovNestUx) | [El origen de la leyenda](https://open.spotify.com/album/5puBCIL3oMbkrYmsdL0vPT) | 4:45 |
-| 8 | [La Ruta](https://open.spotify.com/track/1rvyOxnUuxI8jfYoRpZ4FG) | [La Jose](https://open.spotify.com/artist/55o2GKmozOaWhYDBaFBPC2) | [Espiral](https://open.spotify.com/album/0ChzWpUTTbq6PRut9pQdSI) | 5:57 |
+| 8 | [La Ruta](https://open.spotify.com/track/5wNQbeRx1DptmLPRCsMDQ3) | [La Jose](https://open.spotify.com/artist/55o2GKmozOaWhYDBaFBPC2) | [Espiral](https://open.spotify.com/album/04Lg6FQ96wvUTTDYMci77n) | 5:57 |
 | 9 | [Aux Vagues, Mix du Pelerinage](https://open.spotify.com/track/3Y1Mt1wDksUZXGTaY0jHGO) | [Grupo Macarena](https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f) | [Grupo Macarena: Gypsy Flamenco](https://open.spotify.com/album/6VmYzpmaaEJe66Sy9ZK4qO) | 4:57 |
 | 10 | [Mi barrio, ciudad sin ley](https://open.spotify.com/track/5kQyFHsAwgWrKGKv7dkWzj) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Absolute Flamenco](https://open.spotify.com/album/64ydWqsSid08IPBocvpOvp) | 2:16 |
 | 11 | [Al alba](https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY) | [Jose Merce](https://open.spotify.com/artist/7p5J8SfKU9Rulp7tcA53G8) | [Aire](https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk) | 4:16 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vpt0fhumU1.md) - [plain]
 | 50 | [Bumblebeat](https://open.spotify.com/track/0aiqrNJkcz1xDGUD8HLrRz) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Mosaico](https://open.spotify.com/album/6PAB5rJADQ7HFjp0fzKjba) | 4:34 |
 | 51 | [En la Mancha](https://open.spotify.com/track/6qixM3ocxbC7JzrDg2YwrD) | [Mari Nieto](https://open.spotify.com/artist/1kpBaXhyD5w2NMYoklvChj), [Juan Antonio Torres](https://open.spotify.com/artist/1JXR84Lo1dOJcc8re1H5lw), [Viguela](https://open.spotify.com/artist/2MPy4JFvIlApj1PbxNTHBF) | [Temperamento: Traditional Music from Spain](https://open.spotify.com/album/7hlw3I2DL1JV4uw99h5BtC) | 5:50 |
 
-Snapshot ID: `MTY2MTg2NjczNiwwMDAwMDAwMDM4M2NiOTdmMWNhNzBiMDA1NTNlYTc2NTUzODBkMDZi`
+Snapshot ID: `MTY2MTg2NjczNiwwMDAwMDAwMGE2MzFlOGU5MzAwODJkMmZlNGM2YjVjNDA4YWRkNjQ4`

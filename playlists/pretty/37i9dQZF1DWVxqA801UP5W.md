@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,245 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,349 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 43 | [Don't Start Now \- Kungs Remix](https://open.spotify.com/track/4cqoZl61mIxLMak6gFCSIo) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Don't Start Now \(Remixes\)](https://open.spotify.com/album/4bFD3e4YDki1tu4EQCfSdt) | 3:36 |
 | 44 | [Skank All Night \(You Wot, You Wot\)](https://open.spotify.com/track/0gAHzuT4ekkbMAfscfCQXB) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Skank All Night \(You Wot, You Wot\)](https://open.spotify.com/album/328mrxymT5lIZ74ls25Ze6) | 2:44 |
 | 45 | [Sour Candy \(with BLACKPINK\) \- Shygirl & Mura Masa Remix](https://open.spotify.com/track/56kudbKiRjWCwiAS3FRHCL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 3:45 |
-| 46 | [Here \- Madism Remix](https://open.spotify.com/track/3aB0xS45shndxNnvfhpEEz) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Here \(Madism Remix\)](https://open.spotify.com/album/5zr53yPoCvQmyyTrDWVncs) | 3:00 |
-| 47 | [Save Room For Us \(Remix\)](https://open.spotify.com/track/0W7rLXul6bBP5uAkBXxQhE) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C) | [Save Room For Us \(Remix\)](https://open.spotify.com/album/6g5pWr4B5gwxjQjFCv84pW) | 2:41 |
+| 46 | [Heat Waves \- Oliver Heldens Remix](https://open.spotify.com/track/65xvfgI2nNrOYHhGUzw9XP) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0E2xXn23qVmfx9ThZjWFBE) | 4:03 |
+| 47 | [Here \- Madism Remix](https://open.spotify.com/track/3aB0xS45shndxNnvfhpEEz) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Here \(Madism Remix\)](https://open.spotify.com/album/5zr53yPoCvQmyyTrDWVncs) | 3:00 |
 | 48 | [If We Ever Broke Up \- goddard\. Remix](https://open.spotify.com/track/2U9nC0E0VMiGEadMOdV6dN) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [If We Ever Broke Up \(goddard\. Remix\)](https://open.spotify.com/album/0ToSBYDbCC4Up9JlpZkXSr) | 2:36 |
-| 49 | [Heat Waves \- Oliver Heldens Remix](https://open.spotify.com/track/65xvfgI2nNrOYHhGUzw9XP) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0E2xXn23qVmfx9ThZjWFBE) | 4:03 |
+| 49 | [Save Room For Us \(Remix\)](https://open.spotify.com/track/0W7rLXul6bBP5uAkBXxQhE) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C) | [Save Room For Us \(Remix\)](https://open.spotify.com/album/6g5pWr4B5gwxjQjFCv84pW) | 2:41 |
 | 50 | [See Nobody \- Papa Zeus Remix](https://open.spotify.com/track/3Gp6FC72peOtfhkwoFdCKE) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq), [Hardy Caprio](https://open.spotify.com/artist/7FqkRutc4zWMrnEAUv3Xwd), [Papa Zeus](https://open.spotify.com/artist/34Q1USAO0pv4gNxcnOKNav) | [See Nobody \(Papa Zeus Remix\)](https://open.spotify.com/album/2btLzMTnxlHsDxZ3DZwxRO) | 2:55 |
 
-Snapshot ID: `MTY4MTMwMzYxNCwwMDAwMDAwMGEzMTdiZjdmNGNhODZhMTMwZWQ0ZDcxMjQ5Yjk3NGZi`
+Snapshot ID: `MTY4MTMwMzYxNCwwMDAwMDAwMDlkM2VjMTRjM2Q0ODJhZjQ1ZGEwMzk1MzZmODRhYzFl`

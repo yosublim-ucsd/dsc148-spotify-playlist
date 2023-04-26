@@ -4,7 +4,7 @@
 
 > Discover new artists on the horizon this 2023.
 
-130 songs - 8 hr 11 min
+131 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [BETTERMAN](https://open.spotify.com/track/60jYOyxr1FHGFnofoIXPCq) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv), [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [GARUDA](https://open.spotify.com/album/4xyf45M38hJVUA0esmu7ks) | 4:50 | 2021-11-25 | 2023-04-14 |
 | [Binibini](https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Binibini](https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0) | 3:41 | 2021-11-25 | 2022-03-25 |
 | [Blah Blah](https://open.spotify.com/track/3keEpyhWEE4FCAEHXZDcPb) | [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [Blah Blah](https://open.spotify.com/album/31kpkJ759PVIOlUOZEONrR) | 3:27 | 2022-04-27 | 2022-12-01 |
+| [BLOOM](https://open.spotify.com/track/4S5emjYAq0EGh9PUCQXD0X) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [BLOOM](https://open.spotify.com/album/7GxLP2buR6YwnG561fGyDf) | 3:01 | 2023-04-25 |  |
 | [Boomerang](https://open.spotify.com/track/3N6SFaFJWGirRC5nWIDLvD) | [G22](https://open.spotify.com/artist/4DsCOCoIUvUKVDDY8OW3lU) | [Boomerang](https://open.spotify.com/album/4KkEOyGVcLebFsX1ZjfyJ2) | 3:16 | 2023-04-13 |  |
 | [Born To Win](https://open.spotify.com/track/0zTmcNKTKyxMohxIvjpIAV) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Born To Win](https://open.spotify.com/album/61S9dOljMoxlArx68sMYdo) | 2:53 | 2022-03-24 | 2022-12-01 |
 | [Born To Win](https://open.spotify.com/track/6gM4xq1CXli6FC5Qm7pLHl) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Born To Win](https://open.spotify.com/album/3xpmqNo62myMulZ1MtnTox) | 2:53 | 2022-11-30 | 2023-04-14 |

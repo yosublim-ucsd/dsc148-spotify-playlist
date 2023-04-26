@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Ba\u011f\u0131ms\u0131z yerli sahneden en taze ke\u015fifler. Kapak: Billur Battal  \u00c7izim: Isu Kim",
+  "description": "Ba\u011f\u0131ms\u0131z yerli sahneden en taze ke\u015fifler. Kapak: B\u00eedar \u00c7izim: Isu Kim",
   "name": "Fresh Finds T\u00fcrkiye",
   "tracks": [
     {
@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 188076,
       "name": "Denedim Hep",
       "url": "https://open.spotify.com/track/3Oh7KcwsQqscaxMbC2TFrM"
@@ -3776,7 +3776,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 159200,
       "name": "K\u00f6r Bi' A\u015f\u0131k",
       "url": "https://open.spotify.com/track/0UGfjw2WXymuvJJrzWv9Od"
@@ -5534,7 +5534,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 240000,
       "name": "Tapmak \u0130sterim",
       "url": "https://open.spotify.com/track/779XwdaG92MI9RJE0krkgX"
@@ -5686,6 +5686,24 @@
       "duration_ms": 163124,
       "name": "Uyku",
       "url": "https://open.spotify.com/track/6ZtwnQRntOLptLaXHdFawV"
+    },
+    {
+      "album": {
+        "name": "Uyku Sular\u0131nda",
+        "url": "https://open.spotify.com/album/2j76SGkyPsQh6ZgoUJysci"
+      },
+      "artists": [
+        {
+          "name": "Bulutlar",
+          "url": "https://open.spotify.com/artist/25MrrXb71oupZ8MHi6t61E"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224875,
+      "name": "Uyku Sular\u0131nda",
+      "url": "https://open.spotify.com/track/6xOZOwy25ZYOwu7kTjgoYN"
     },
     {
       "album": {
@@ -6183,6 +6201,24 @@
     },
     {
       "album": {
+        "name": "Yerime Birini Koy",
+        "url": "https://open.spotify.com/album/1XI9mIKvMsVwlQVLxZRD1R"
+      },
+      "artists": [
+        {
+          "name": "\u0130pek \u00d6zcan",
+          "url": "https://open.spotify.com/artist/2E9ccxAgaGu6DT1rCNfFsG"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172250,
+      "name": "Yerime Birini Koy",
+      "url": "https://open.spotify.com/track/6LIoCXrYdx18oRA01ZqR90"
+    },
+    {
+      "album": {
         "name": "ye\u015fil ormanlar",
         "url": "https://open.spotify.com/album/4NhrYwYTKftQ3RYyQrxEJu"
       },
@@ -6418,6 +6454,24 @@
       "duration_ms": 203317,
       "name": "Zahiri",
       "url": "https://open.spotify.com/track/1CeANYJln38sWFtcPKEeN8"
+    },
+    {
+      "album": {
+        "name": "Zaman",
+        "url": "https://open.spotify.com/album/760AEaxeVHxGhjw6b7Zhen"
+      },
+      "artists": [
+        {
+          "name": "Ne Var Ki",
+          "url": "https://open.spotify.com/artist/0O4CdRGCb8ls9j4ecUpqT9"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180374,
+      "name": "Zaman",
+      "url": "https://open.spotify.com/track/1rtE6wVtKFzbM2RsyhH0Nt"
     },
     {
       "album": {

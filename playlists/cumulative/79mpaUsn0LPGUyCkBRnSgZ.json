@@ -926,7 +926,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 202666,
       "name": "Corn Maze",
       "url": "https://open.spotify.com/track/7oDQlEb0Uy1AfSkVL5k2Ac"
@@ -1442,6 +1442,24 @@
       "duration_ms": 202880,
       "name": "Great No One",
       "url": "https://open.spotify.com/track/4c03SdScyZkFELVKv70fna"
+    },
+    {
+      "album": {
+        "name": "HORSESHIT ON ROUTE 66",
+        "url": "https://open.spotify.com/album/1Wgcuni5PXwaTtRoo5SbmF"
+      },
+      "artists": [
+        {
+          "name": "The Garden",
+          "url": "https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74000,
+      "name": "Haunted House on Zillow",
+      "url": "https://open.spotify.com/track/6WDNTF2UZH8eGHFUH3xkcO"
     },
     {
       "album": {
@@ -2609,6 +2627,28 @@
     },
     {
       "album": {
+        "name": "No Idols",
+        "url": "https://open.spotify.com/album/3GncI0ExXYyWnIzZe9oxRQ"
+      },
+      "artists": [
+        {
+          "name": "Domo Genesis",
+          "url": "https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139506,
+      "name": "Prophecy",
+      "url": "https://open.spotify.com/track/0tmYVU4k7y7ru6CkckFQp3"
+    },
+    {
+      "album": {
         "name": "Quivering In Time",
         "url": "https://open.spotify.com/album/0C0mGs17Sqyfbty2Fkii82"
       },
@@ -3526,6 +3566,28 @@
       "duration_ms": 397866,
       "name": "Time Travelin' (A Tribute To Fela)",
       "url": "https://open.spotify.com/track/2AaB2ZDeJXu6j4Csos4gZH"
+    },
+    {
+      "album": {
+        "name": "The Great Escape",
+        "url": "https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166053,
+      "name": "Turkish Cotton",
+      "url": "https://open.spotify.com/track/31rbQLmAii7Ah0XeRpbXo0"
     },
     {
       "album": {

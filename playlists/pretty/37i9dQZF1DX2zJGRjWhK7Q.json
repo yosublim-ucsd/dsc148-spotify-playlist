@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 157499,
+  "num_followers": 157583,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTIwMDE5NSwwMDAwMDAwMGYxZTQxYWNkY2QzNGMyZWNmZDM4ZGY4NzgwMzcwODVh",
+  "snapshot_id": "MTY0NTIwMDE5NSwwMDAwMDAwMDlkYzc3ZDI0ZDU3OTYxODM4ODFhMWUxMjEwMDIyZGUz",
   "tracks": [
     {
       "added_at": "2022-02-18 16:03:15",
@@ -811,18 +811,22 @@
     {
       "added_at": "2022-02-18 16:03:15",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/2GlGH2mmkFoR1mqE6CnCjS"
+        "name": "Siempre Ser\u00e9 Guajiro",
+        "url": "https://open.spotify.com/album/5a7isqzKSbZ8ugfrqq8d8d"
       },
       "artists": [
         {
-          "name": "Raphy Leavitt",
-          "url": "https://open.spotify.com/artist/0MEfUKKTbD1V0312mx08JR"
+          "name": "William Millan",
+          "url": "https://open.spotify.com/artist/2RYP0CUL9ezyuVt13yMzVj"
+        },
+        {
+          "name": "Saoco",
+          "url": "https://open.spotify.com/artist/5w8CzZs1645N7nVRmbVdF1"
         }
       ],
-      "duration_ms": 316426,
-      "name": "Siempre Alegre",
-      "url": "https://open.spotify.com/track/4VkcFxrSHvqe1zdm8YOQyp"
+      "duration_ms": 327497,
+      "name": "Siempre Ser\u00e9 Guajiro",
+      "url": "https://open.spotify.com/track/2PQMhXmBx5h2jDsgZYHTfx"
     },
     {
       "added_at": "2022-02-18 16:03:15",
@@ -843,22 +847,18 @@
     {
       "added_at": "2022-02-18 16:03:15",
       "album": {
-        "name": "Siempre Ser\u00e9 Guajiro",
-        "url": "https://open.spotify.com/album/5a7isqzKSbZ8ugfrqq8d8d"
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/2GlGH2mmkFoR1mqE6CnCjS"
       },
       "artists": [
         {
-          "name": "William Millan",
-          "url": "https://open.spotify.com/artist/2RYP0CUL9ezyuVt13yMzVj"
-        },
-        {
-          "name": "Saoco",
-          "url": "https://open.spotify.com/artist/5w8CzZs1645N7nVRmbVdF1"
+          "name": "Raphy Leavitt",
+          "url": "https://open.spotify.com/artist/0MEfUKKTbD1V0312mx08JR"
         }
       ],
-      "duration_ms": 327497,
-      "name": "Siempre Ser\u00e9 Guajiro",
-      "url": "https://open.spotify.com/track/2PQMhXmBx5h2jDsgZYHTfx"
+      "duration_ms": 316426,
+      "name": "Siempre Alegre",
+      "url": "https://open.spotify.com/track/4VkcFxrSHvqe1zdm8YOQyp"
     },
     {
       "added_at": "2022-02-18 16:03:15",

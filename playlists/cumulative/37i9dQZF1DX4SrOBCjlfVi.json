@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "12AM",
+        "url": "https://open.spotify.com/album/06f4wXvDDYi2DiQygKVuNl"
+      },
+      "artists": [
+        {
+          "name": "DC The Don",
+          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "12AM",
+      "url": "https://open.spotify.com/track/4rBO0G8nMiakstdKOJHf8T"
+    },
+    {
+      "album": {
         "name": "14GRAMS",
         "url": "https://open.spotify.com/album/45s1J9Yxx4F8Vu4xX02mp5"
       },
@@ -9360,7 +9378,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 153600,
       "name": "Chrome Hearted (feat. Tyga)",
       "url": "https://open.spotify.com/track/7xNgrfKL4Ih82SbJIU9S1q"
@@ -13810,7 +13828,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 161946,
       "name": "Dropped The Lo",
       "url": "https://open.spotify.com/track/6tXUGESOMRSdpYJIiPCeAl"
@@ -41813,6 +41831,32 @@
     },
     {
       "album": {
+        "name": "Hip Hop 50: Vol. 2",
+        "url": "https://open.spotify.com/album/2fMYrpzJCtJNhVTBQybhoz"
+      },
+      "artists": [
+        {
+          "name": "Swizz Beatz",
+          "url": "https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174853,
+      "name": "Say Less (feat. Lil Durk & A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/6D4n6TkbC3Dce3c03FzrDM"
+    },
+    {
+      "album": {
         "name": "SAY LESS",
         "url": "https://open.spotify.com/album/0q8IQGk6wdsplmtxTcLyfG"
       },
@@ -52881,6 +52925,32 @@
     },
     {
       "album": {
+        "name": "Don't Try This At Home",
+        "url": "https://open.spotify.com/album/6mS81Go5P5wQKoybVT68NW"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243399,
+      "name": "What You Say (feat. Post Malone & The Kid LAROI)",
+      "url": "https://open.spotify.com/track/112EmZwJNonJymivU3KOVl"
+    },
+    {
+      "album": {
         "name": "Letter 2 My Brother",
         "url": "https://open.spotify.com/album/1101MAJdIpk5Kj42A0pUeV"
       },
@@ -54040,7 +54110,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-26",
       "duration_ms": 173458,
       "name": "WTF (feat. Polo G) - Remix",
       "url": "https://open.spotify.com/track/4Y43nu7MxbFOBJnZNfuruc"

@@ -1,13 +1,33 @@
 {
   "description": "De lunes a domingo, descubre un tema elegido por tus editores de Spotify.",
-  "num_followers": 421851,
+  "num_followers": 421859,
   "original_name": "Canci\u00f3n del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjM2Mzk5MywwMDAwMDAwMGVkOGNiZWYzYTk4NGU5OTdmZGQ5YTk3ZTYzNjliZWYx",
+  "snapshot_id": "MTY4MjQwNzA4MCwwMDAwMDAwMDM1MzgwNzk0ZDFlYWNlNDU3NzQxODdkOTQ1ODExMmRi",
   "tracks": [
+    {
+      "added_at": "2023-04-25 07:18:00",
+      "album": {
+        "name": "Horas",
+        "url": "https://open.spotify.com/album/1geeDTUcLFv7vgDH0v0C3a"
+      },
+      "artists": [
+        {
+          "name": "Alexis Play",
+          "url": "https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv"
+        },
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "duration_ms": 231959,
+      "name": "Horas",
+      "url": "https://open.spotify.com/track/2UumxLigdCw91IxqpMEvPz"
+    },
     {
       "added_at": "2023-04-24 19:19:52",
       "album": {
@@ -783,22 +803,6 @@
       "duration_ms": 208606,
       "name": "Ruta 7",
       "url": "https://open.spotify.com/track/21M3XwoJcEXdLp9cQPJKeK"
-    },
-    {
-      "added_at": "2023-04-10 18:00:00",
-      "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/1YeMVUEEBUcehIKC8PQkK5"
-      },
-      "artists": [
-        {
-          "name": "Norwayy",
-          "url": "https://open.spotify.com/artist/2Oco3IVZNWcII3kGXRaNaU"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/0oj0QRfjA5WsLvZkoOQk6f"
     },
     {
       "added_at": "2023-04-10 18:00:00",

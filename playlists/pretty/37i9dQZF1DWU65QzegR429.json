@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. ",
-  "num_followers": 7743,
+  "num_followers": 7767,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTkyNjQwNiwwMDAwMDAwMGEzNTRiYmU3ZWI4MDQxNDIzYmFiYTNiZjM4OGMzODBh",
+  "snapshot_id": "MTY4MTkyNjQwNiwwMDAwMDAwMDY0MDY0ZWRhOWVjZGMzMzRkY2ZlMjdmNWU1NWQ4MDMw",
   "tracks": [
     {
       "added_at": "2023-04-03 18:54:44",
@@ -319,26 +319,26 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/7rnxldpaYk6eyIZQcriFrW"
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/2tyL1zXbNKyMCCYYgwa3UP"
       },
       "artists": [
         {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
         },
         {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+          "name": "Lil Silvio & El Vega",
+          "url": "https://open.spotify.com/artist/53F3cdrVpYq5iM4iaa6AQ3"
         },
         {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+          "name": "La Ross Maria",
+          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
         }
       ],
-      "duration_ms": 225470,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd"
+      "duration_ms": 242285,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/4oZaZ7tGQ8EXVlsd2wXWQ0"
     },
     {
       "added_at": "2023-04-03 18:54:44",
@@ -363,26 +363,26 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/2tyL1zXbNKyMCCYYgwa3UP"
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/7rnxldpaYk6eyIZQcriFrW"
       },
       "artists": [
         {
-          "name": "ChocQuibTown",
-          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
         },
         {
-          "name": "Lil Silvio & El Vega",
-          "url": "https://open.spotify.com/artist/53F3cdrVpYq5iM4iaa6AQ3"
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
         },
         {
-          "name": "La Ross Maria",
-          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
         }
       ],
-      "duration_ms": 242285,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/4oZaZ7tGQ8EXVlsd2wXWQ0"
+      "duration_ms": 225470,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd"
     },
     {
       "added_at": "2023-04-03 18:54:44",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
-        "name": "Vete Y Dile",
-        "url": "https://open.spotify.com/album/69O1NzZp4mbrzY8Iz7RIeJ"
-      },
-      "artists": [
-        {
-          "name": "Chucky73",
-          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
-        }
-      ],
-      "duration_ms": 147535,
-      "name": "Vete Y Dile",
-      "url": "https://open.spotify.com/track/5iRtsyKiVD35YwEBKTETd5"
-    },
-    {
-      "added_at": "2023-04-03 18:54:44",
-      "album": {
         "name": "Klk El Dice",
         "url": "https://open.spotify.com/album/5cfntPjzzjPSaKF1g6BosG"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 166736,
       "name": "Klk El Dice",
       "url": "https://open.spotify.com/track/3cAZpBIkNKTYqxalklnCpw"
+    },
+    {
+      "added_at": "2023-04-03 18:54:44",
+      "album": {
+        "name": "Vete Y Dile",
+        "url": "https://open.spotify.com/album/69O1NzZp4mbrzY8Iz7RIeJ"
+      },
+      "artists": [
+        {
+          "name": "Chucky73",
+          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
+        }
+      ],
+      "duration_ms": 147535,
+      "name": "Vete Y Dile",
+      "url": "https://open.spotify.com/track/5iRtsyKiVD35YwEBKTETd5"
     },
     {
       "added_at": "2023-04-03 18:54:44",

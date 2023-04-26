@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop from the U.S\. Cover: Speak
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,701 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,727 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 17 | [From The Bottom](https://open.spotify.com/track/1BHuiXsUBW3nED6gKIXIWY) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Rittz](https://open.spotify.com/artist/5sRhscbWRXFbjXtSZyfaWY) | [From The Bottom](https://open.spotify.com/album/4ozmhN28ssF2xD3S0tkg68) | 3:30 |
 | 18 | [Little Homie](https://open.spotify.com/track/6TGY0XOK3espFFqeLkL3q8) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Little Homie](https://open.spotify.com/album/2i9595pc3gVJIMUVafVena) | 2:34 |
 | 19 | [High](https://open.spotify.com/track/2nkPcGygBk0S7RTsWdFLr6) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [High](https://open.spotify.com/album/7v6fz2Sq43ZReewY3UOUOP) | 2:15 |
-| 20 | [Frontline](https://open.spotify.com/track/50PDNBs87SWHijwXKCM35T) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Drakeo the Ruler](https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [Frontline](https://open.spotify.com/album/7o5wg3VJWGXlp27Tc6rM5j) | 3:04 |
-| 21 | [Known Spenders](https://open.spotify.com/track/3wgAR3emid7twGKTf1w0Rd) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [Tour Files](https://open.spotify.com/album/5tV841HMNWVmlslSWL71xF) | 1:32 |
+| 20 | [Known Spenders](https://open.spotify.com/track/3wgAR3emid7twGKTf1w0Rd) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [Tour Files](https://open.spotify.com/album/5tV841HMNWVmlslSWL71xF) | 1:32 |
+| 21 | [Frontline](https://open.spotify.com/track/50PDNBs87SWHijwXKCM35T) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Drakeo the Ruler](https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [Frontline](https://open.spotify.com/album/7o5wg3VJWGXlp27Tc6rM5j) | 3:04 |
 | 22 | [Red on My Mind](https://open.spotify.com/track/0XnVY1Ws3KQrRa6yMiS0Cs) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Parkside Santa](https://open.spotify.com/album/6oKqbmIOIR3y4PS717x9KR) | 2:19 |
 | 23 | [Remember](https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 3:29 |
 | 24 | [All My Life 2.0](https://open.spotify.com/track/1CFmkTFyJU8BsqRIwE7Ut4) | [MC Magic](https://open.spotify.com/artist/3cuVSUrq0yoSSP7gpvI6q1), [J.Rob The Chief](https://open.spotify.com/artist/3eFvhpLbVKTlhGWaazeeG6) | [All My Life 2.0](https://open.spotify.com/album/5yBn27YRCXU6ABfchJESB0) | 3:44 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 29 | [Cost of Loyalty](https://open.spotify.com/track/4Ct6RqjdLtpw1eDGlwJKHE) | [xBValentine](https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [Cost of Loyalty](https://open.spotify.com/album/0ppVLYcxxEO9sF8oW6pFkS) | 2:28 |
 | 30 | [Dangerous](https://open.spotify.com/track/1w50Z3O8mqE3Sioor80Aft) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Jewl$](https://open.spotify.com/artist/17dg6WOJR4XH8y2yuNv5AF), [Lil Bouncer](https://open.spotify.com/artist/2K4Rk5N285uJvldQ6nenDh) | [Dangerous](https://open.spotify.com/album/1vyjmDQjPezDYw0NTxR7bK) | 2:42 |
 | 31 | [SLIDIN](https://open.spotify.com/track/6E6LxZeukHfwhFHCRpNJhc) | [Omar Cruz](https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28), [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [SLIDIN](https://open.spotify.com/album/48t5QLjlg4ubsqWlJLDBsk) | 2:38 |
-| 32 | [With Me](https://open.spotify.com/track/2oDh8f3JLuLORqQWNsghbd) | [Kujo the Savage](https://open.spotify.com/artist/1yfzFDrzyENCByIZVkLdFn), [Sadboy Loko](https://open.spotify.com/artist/6RP0xHhRvtrYPkhO34F1gD) | [With Me](https://open.spotify.com/album/6sxDmYgvv43KjL9sMnDyiF) | 2:42 |
-| 33 | [Cosos](https://open.spotify.com/track/41Fjg2nCpGifEPc7BLKQNG) | [CRIMEAPPLE](https://open.spotify.com/artist/0giUOGLTAaVVbdr7aSwM0N) | [El Cantante](https://open.spotify.com/album/5AMPEhbfGqSNfhImCslYzS) | 3:27 |
+| 32 | [Cosos](https://open.spotify.com/track/41Fjg2nCpGifEPc7BLKQNG) | [CRIMEAPPLE](https://open.spotify.com/artist/0giUOGLTAaVVbdr7aSwM0N) | [El Cantante](https://open.spotify.com/album/5AMPEhbfGqSNfhImCslYzS) | 3:27 |
+| 33 | [With Me](https://open.spotify.com/track/2oDh8f3JLuLORqQWNsghbd) | [Kujo the Savage](https://open.spotify.com/artist/1yfzFDrzyENCByIZVkLdFn), [Sadboy Loko](https://open.spotify.com/artist/6RP0xHhRvtrYPkhO34F1gD) | [With Me](https://open.spotify.com/album/6sxDmYgvv43KjL9sMnDyiF) | 2:42 |
 | 34 | [For Real](https://open.spotify.com/track/6IzBIs6LHy8vs6mJfAoHvG) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Aj Hernz](https://open.spotify.com/artist/6OkLZPqXXpKNEAGxE2bupm) | [For Real](https://open.spotify.com/album/482kHPPffbYQ6JW4ST1anV) | 3:39 |
 | 35 | [All The Good Die Young](https://open.spotify.com/track/4t1gQOs4QcrGgTrLZx3gGL) | [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC) | [All The Good Die Young](https://open.spotify.com/album/0zjfydrXGgTQZ2H7GEo5WE) | 2:01 |
 | 36 | [Gahdamn](https://open.spotify.com/track/3y1zka5AZI6PWmuSdfr681) | [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj), [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [Gahdamn](https://open.spotify.com/album/5TH8rOxyKftcEGSsUXTxA0) | 2:33 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 39 | [N.Y Minute](https://open.spotify.com/track/0ix2WlhdehNXbRd2ONcj2P) | [Bodega Bamz](https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9) | [N.Y Minute](https://open.spotify.com/album/5dCxzCwyBmKntm5TkQZ1Q7) | 3:07 |
 | 40 | [Vámonos](https://open.spotify.com/track/0fK7iPZioWaRem2Mo0XQTy) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C), [Chris Obannon](https://open.spotify.com/artist/5CXhiclAFvebleCXKTcrf4) | [Vámonos](https://open.spotify.com/album/59CAbE0DUQ5arPot1kIopV) | 3:51 |
 
-Snapshot ID: `MTY3ODQ4NTc3MywwMDAwMDAwMGE1NjU2NWI4YzY4YWY3MjdhZTVmMDljM2IwNWRhNjVj`
+Snapshot ID: `MTY3ODQ4NTc3MywwMDAwMDAwMGRiYWExYTg0NDVmYzZjMjZhNDAxYTk2Y2NkZDQ3ODY0`

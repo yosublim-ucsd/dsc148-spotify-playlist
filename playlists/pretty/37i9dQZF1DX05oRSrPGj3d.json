@@ -1,12 +1,12 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars.",
-  "num_followers": 220221,
+  "num_followers": 220371,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA5OTQyNiwwMDAwMDAwMDYxZWRjMmJmZGZjOTJmZTc1OTFlNmU1ODgxOTNiOWY0",
+  "snapshot_id": "MTY4MjA5OTQyNiwwMDAwMDAwMGZhMmIxMTJjZDBjM2QzYmQyZWRmOGQ5ZDI4NTg3NTFk",
   "tracks": [
     {
       "added_at": "2023-04-21 17:49:43",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-04-21 17:49:43",
       "album": {
-        "name": "Pontiac",
-        "url": "https://open.spotify.com/album/5vUis8FOVDqezxkJke9BOw"
-      },
-      "artists": [
-        {
-          "name": "Lyle Lovett",
-          "url": "https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es"
-        }
-      ],
-      "duration_ms": 190226,
-      "name": "If I Had A Boat",
-      "url": "https://open.spotify.com/track/6oZaeLPOAb3Rn408f3IQiB"
-    },
-    {
-      "added_at": "2023-04-21 17:49:43",
-      "album": {
         "name": "Green",
         "url": "https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 233106,
       "name": "Shine Out",
       "url": "https://open.spotify.com/track/03Urb1JlysmjtjNUNNOrsP"
+    },
+    {
+      "added_at": "2023-04-21 17:49:43",
+      "album": {
+        "name": "Pontiac",
+        "url": "https://open.spotify.com/album/5vUis8FOVDqezxkJke9BOw"
+      },
+      "artists": [
+        {
+          "name": "Lyle Lovett",
+          "url": "https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es"
+        }
+      ],
+      "duration_ms": 190226,
+      "name": "If I Had A Boat",
+      "url": "https://open.spotify.com/track/6oZaeLPOAb3Rn408f3IQiB"
     },
     {
       "added_at": "2023-04-21 17:49:43",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-04-21 17:49:43",
       "album": {
-        "name": "Casey Donahew Band",
-        "url": "https://open.spotify.com/album/6n3Xw5SEV5i3wuLHTYr2OU"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 220586,
-      "name": "White Trash Story",
-      "url": "https://open.spotify.com/track/6h0FOQxhnq0iqVsf0I9WsZ"
-    },
-    {
-      "added_at": "2023-04-21 17:49:43",
-      "album": {
         "name": "Resurrection EP",
         "url": "https://open.spotify.com/album/7BagySvnOa3RQONCo7oJbx"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 211973,
       "name": "Texas Rain",
       "url": "https://open.spotify.com/track/04HenXWHfLUlsRsLPiBd0k"
+    },
+    {
+      "added_at": "2023-04-21 17:49:43",
+      "album": {
+        "name": "Casey Donahew Band",
+        "url": "https://open.spotify.com/album/6n3Xw5SEV5i3wuLHTYr2OU"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 220586,
+      "name": "White Trash Story",
+      "url": "https://open.spotify.com/track/6h0FOQxhnq0iqVsf0I9WsZ"
     },
     {
       "added_at": "2023-04-21 17:49:43",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2023-04-21 17:49:43",
       "album": {
+        "name": "Drowning In Dreams",
+        "url": "https://open.spotify.com/album/4OgDsTtnYYixZQ7uVMwsAS"
+      },
+      "artists": [
+        {
+          "name": "Kat Hasty",
+          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
+        }
+      ],
+      "duration_ms": 268968,
+      "name": "Pretty Things",
+      "url": "https://open.spotify.com/track/4629TVxMQhshiEV4D5Uwyy"
+    },
+    {
+      "added_at": "2023-04-21 17:49:43",
+      "album": {
         "name": "Lovers and Leavers",
         "url": "https://open.spotify.com/album/7z5FvJZESvRTwHTJT2uKc4"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 208000,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/4l0L2GAwa3Z2MFGQyolVf0"
-    },
-    {
-      "added_at": "2023-04-21 17:49:43",
-      "album": {
-        "name": "Drowning In Dreams",
-        "url": "https://open.spotify.com/album/4OgDsTtnYYixZQ7uVMwsAS"
-      },
-      "artists": [
-        {
-          "name": "Kat Hasty",
-          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
-        }
-      ],
-      "duration_ms": 268968,
-      "name": "Pretty Things",
-      "url": "https://open.spotify.com/track/4629TVxMQhshiEV4D5Uwyy"
     },
     {
       "added_at": "2023-04-21 17:49:43",

@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu?si=itNd_E4-R-aBCcg_lkeFWQ\" > Sut\u00e9 Iwar</a> ",
-  "num_followers": 18381,
+  "num_followers": 18411,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA2OTYzOCwwMDAwMDAwMGRmZGYwM2Y4ZmViNjJiYjMxMmRhM2M0Y2IzMDU0OGRj",
+  "snapshot_id": "MTY4MjA2OTYzOCwwMDAwMDAwMGM5ODcyMjEyMGQzMGFiYzQwMjk4OGE3MmYwMTgyYmFl",
   "tracks": [
     {
       "added_at": "2023-04-21 09:33:58",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-04-21 09:33:58",
       "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/5zoE3LTZotB4stVdvcYT6x"
+      },
+      "artists": [
+        {
+          "name": "Aguero Banks",
+          "url": "https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX"
+        }
+      ],
+      "duration_ms": 241738,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/2KjV1nxFfYkmq66z4ZK7tz"
+    },
+    {
+      "added_at": "2023-04-21 09:33:58",
+      "album": {
         "name": "Soundtrack To The Good Life",
         "url": "https://open.spotify.com/album/5JMesY6i8fM1d4Cg10NqYY"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 235081,
       "name": "Soft Life",
       "url": "https://open.spotify.com/track/6JQWH9Kpcjp6RygaRwGnG2"
-    },
-    {
-      "added_at": "2023-04-21 09:33:58",
-      "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/5zoE3LTZotB4stVdvcYT6x"
-      },
-      "artists": [
-        {
-          "name": "Aguero Banks",
-          "url": "https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX"
-        }
-      ],
-      "duration_ms": 241738,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/2KjV1nxFfYkmq66z4ZK7tz"
     },
     {
       "added_at": "2023-04-21 09:33:58",
@@ -1163,22 +1163,22 @@
     {
       "added_at": "2023-04-21 09:33:58",
       "album": {
-        "name": "Highest Student",
-        "url": "https://open.spotify.com/album/3cw1LTnoRBHQN9StfTHYDK"
+        "name": "Omo X 100",
+        "url": "https://open.spotify.com/album/2gakmjz9n1lsRSZdue5xUi"
       },
       "artists": [
         {
-          "name": "MOJO AF",
-          "url": "https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J"
+          "name": "Reminisce",
+          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
         },
         {
-          "name": "Masiano",
-          "url": "https://open.spotify.com/artist/0wh9usKigmJMIpkosaQ5uF"
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         }
       ],
-      "duration_ms": 171891,
-      "name": "Highest Student",
-      "url": "https://open.spotify.com/track/7a0Wzxeh1I88Br9ZNtHD5H"
+      "duration_ms": 126750,
+      "name": "Omo X 100",
+      "url": "https://open.spotify.com/track/1QsW0pGtO2t6egswtRAHa8"
     },
     {
       "added_at": "2023-04-21 09:33:58",
@@ -1203,22 +1203,22 @@
     {
       "added_at": "2023-04-21 09:33:58",
       "album": {
-        "name": "Omo X 100",
-        "url": "https://open.spotify.com/album/2gakmjz9n1lsRSZdue5xUi"
+        "name": "Highest Student",
+        "url": "https://open.spotify.com/album/3cw1LTnoRBHQN9StfTHYDK"
       },
       "artists": [
         {
-          "name": "Reminisce",
-          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
+          "name": "MOJO AF",
+          "url": "https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J"
         },
         {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+          "name": "Masiano",
+          "url": "https://open.spotify.com/artist/0wh9usKigmJMIpkosaQ5uF"
         }
       ],
-      "duration_ms": 126750,
-      "name": "Omo X 100",
-      "url": "https://open.spotify.com/track/1QsW0pGtO2t6egswtRAHa8"
+      "duration_ms": 171891,
+      "name": "Highest Student",
+      "url": "https://open.spotify.com/track/7a0Wzxeh1I88Br9ZNtHD5H"
     },
     {
       "added_at": "2023-04-21 09:33:58",

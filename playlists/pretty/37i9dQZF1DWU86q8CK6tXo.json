@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover:  <a href=\u201cspotify:artist:3uikSah4dwqwuk0EidFI4R\u201d>Caitlyn Smith</a> ",
-  "num_followers": 38365,
+  "num_followers": 38364,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjM1NDgzMywwMDAwMDAwMDRlMDk3MzAxMzQzNGU1ZDMwZDg1YzUzNTI3Mzg4OGNl",
+  "snapshot_id": "MTY4MjM1NDgzMywwMDAwMDAwMGFhNjQyZGM3MDI3NjViMWRjM2I0OTBlNjY4ZmQ4NTJh",
   "tracks": [
     {
       "added_at": "2023-04-24 16:47:13",
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-04-24 16:47:13",
       "album": {
+        "name": "Out Of That Truck",
+        "url": "https://open.spotify.com/album/7nglF1PaMAFKEzUq3reXiJ"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 177400,
+      "name": "Out Of That Truck",
+      "url": "https://open.spotify.com/track/1xdsRkWxWWUkKhh9hRtfYp"
+    },
+    {
+      "added_at": "2023-04-24 16:47:13",
+      "album": {
         "name": "Smoke (feat. Lucky Daye)",
         "url": "https://open.spotify.com/album/24myqNnAEPwBjGfhEm6WJA"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 186157,
       "name": "Smoke (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx"
-    },
-    {
-      "added_at": "2023-04-24 16:47:13",
-      "album": {
-        "name": "Out Of That Truck",
-        "url": "https://open.spotify.com/album/7nglF1PaMAFKEzUq3reXiJ"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 177400,
-      "name": "Out Of That Truck",
-      "url": "https://open.spotify.com/track/1xdsRkWxWWUkKhh9hRtfYp"
     },
     {
       "added_at": "2023-04-24 16:47:13",
@@ -359,26 +359,6 @@
     {
       "added_at": "2023-04-24 16:47:13",
       "album": {
-        "name": "If Love Is A Skill & Georgia",
-        "url": "https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 217708,
-      "name": "If Love Is A Skill",
-      "url": "https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8"
-    },
-    {
-      "added_at": "2023-04-24 16:47:13",
-      "album": {
         "name": "In Pieces",
         "url": "https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 204832,
       "name": "Told Ya",
       "url": "https://open.spotify.com/track/0yMAkO3xc2KwtVcFYQITcy"
+    },
+    {
+      "added_at": "2023-04-24 16:47:13",
+      "album": {
+        "name": "If Love Is A Skill & Georgia",
+        "url": "https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 217708,
+      "name": "If Love Is A Skill",
+      "url": "https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8"
     },
     {
       "added_at": "2023-04-24 16:47:13",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-04-24 16:47:13",
       "album": {
-        "name": "Lunch",
-        "url": "https://open.spotify.com/album/40kQno3S1o90Nxn2POzNTe"
-      },
-      "artists": [
-        {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
-        }
-      ],
-      "duration_ms": 172629,
-      "name": "Lunch",
-      "url": "https://open.spotify.com/track/2aTVnAU5Kde8I9Nzw4Js20"
-    },
-    {
-      "added_at": "2023-04-24 16:47:13",
-      "album": {
         "name": "Big God",
         "url": "https://open.spotify.com/album/3neRBcOUW8ZMem3hBAU1u1"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 191710,
       "name": "Big God",
       "url": "https://open.spotify.com/track/3vrD1zG1gJeGTkscxOMnO3"
+    },
+    {
+      "added_at": "2023-04-24 16:47:13",
+      "album": {
+        "name": "Lunch",
+        "url": "https://open.spotify.com/album/40kQno3S1o90Nxn2POzNTe"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "duration_ms": 172629,
+      "name": "Lunch",
+      "url": "https://open.spotify.com/track/2aTVnAU5Kde8I9Nzw4Js20"
     },
     {
       "added_at": "2023-04-24 16:47:13",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-04-24 16:47:13",
       "album": {
-        "name": "Warning Sign",
-        "url": "https://open.spotify.com/album/3vJUWpd8WbFx2nCu7EfKmV"
-      },
-      "artists": [
-        {
-          "name": "Hannah Jadagu",
-          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
-        }
-      ],
-      "duration_ms": 206012,
-      "name": "Warning Sign",
-      "url": "https://open.spotify.com/track/4E76b5eScYyjahibva76Bk"
-    },
-    {
-      "added_at": "2023-04-24 16:47:13",
-      "album": {
         "name": "Ego Death",
         "url": "https://open.spotify.com/album/58un0KkqLJw7UyqtEbKZOO"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 243125,
       "name": "Ego Death",
       "url": "https://open.spotify.com/track/68vou4lxyWNaaODWxNeVeE"
+    },
+    {
+      "added_at": "2023-04-24 16:47:13",
+      "album": {
+        "name": "Warning Sign",
+        "url": "https://open.spotify.com/album/3vJUWpd8WbFx2nCu7EfKmV"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "duration_ms": 206012,
+      "name": "Warning Sign",
+      "url": "https://open.spotify.com/track/4E76b5eScYyjahibva76Bk"
     },
     {
       "added_at": "2023-04-24 16:47:13",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-04-24 16:47:13",
       "album": {
-        "name": "taste of u",
-        "url": "https://open.spotify.com/album/4vcCvZbL5AMFcKdTKDmXco"
-      },
-      "artists": [
-        {
-          "name": "King Isis",
-          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
-        }
-      ],
-      "duration_ms": 179358,
-      "name": "taste of u",
-      "url": "https://open.spotify.com/track/4zqZ7hR4Pl3UT0p19En1ib"
-    },
-    {
-      "added_at": "2023-04-24 16:47:13",
-      "album": {
         "name": "Lotus Glow",
         "url": "https://open.spotify.com/album/0e4dBWmBHPevyfC9Zle4mv"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 184385,
       "name": "Naked - Feat. Leven Kali",
       "url": "https://open.spotify.com/track/64UV18ljWdleZU635jx2IO"
+    },
+    {
+      "added_at": "2023-04-24 16:47:13",
+      "album": {
+        "name": "taste of u",
+        "url": "https://open.spotify.com/album/4vcCvZbL5AMFcKdTKDmXco"
+      },
+      "artists": [
+        {
+          "name": "King Isis",
+          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
+        }
+      ],
+      "duration_ms": 179358,
+      "name": "taste of u",
+      "url": "https://open.spotify.com/track/4zqZ7hR4Pl3UT0p19En1ib"
     },
     {
       "added_at": "2023-04-24 16:47:13",

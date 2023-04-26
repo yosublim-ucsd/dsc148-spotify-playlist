@@ -4465,6 +4465,28 @@
     },
     {
       "album": {
+        "name": "Guheshwara (From \"Sreemanta\")",
+        "url": "https://open.spotify.com/album/0nrfBjH23YX0V1wRT2aRY7"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Hamsalekha",
+          "url": "https://open.spotify.com/artist/07sMsv3cwvQp3pi8zxR08S"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281176,
+      "name": "Guheshwara (From \"Sreemanta\")",
+      "url": "https://open.spotify.com/track/65266mVbYjL5NDit5vc4Sm"
+    },
+    {
+      "album": {
         "name": "Love Birds (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5NTXHjnSEcyprmBXyzOH0h"
       },
@@ -5498,6 +5520,36 @@
       "duration_ms": 232385,
       "name": "Idu Maaye Eno Ee Kushi (From \"Cherasaala\")",
       "url": "https://open.spotify.com/track/6MkYEnI4X6fXCEABkXzpW2"
+    },
+    {
+      "album": {
+        "name": "Idu Nanna Ninna (From \"Parimala D'souza\")",
+        "url": "https://open.spotify.com/album/3XpsUaCo4ME920n549IHO5"
+      },
+      "artists": [
+        {
+          "name": "Rajesh Krishnan",
+          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
+        },
+        {
+          "name": "Shruthi V S",
+          "url": "https://open.spotify.com/artist/7lRx7W1RIn1gLI2mRFa3fL"
+        },
+        {
+          "name": "Christopher Jayson",
+          "url": "https://open.spotify.com/artist/0ZCvDIG98QcJDdkwelvbpf"
+        },
+        {
+          "name": "Vinod Sheshadri",
+          "url": "https://open.spotify.com/artist/06IMD4HFSIgrOj2sJiWbw8"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242261,
+      "name": "Idu Nanna Ninna (From \"Parimala D'souza\")",
+      "url": "https://open.spotify.com/track/3jJe3ZPOATQcKAnEE7d4rb"
     },
     {
       "album": {

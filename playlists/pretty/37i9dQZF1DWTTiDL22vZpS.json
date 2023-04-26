@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 8398,
+  "num_followers": 8472,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDk1MTAxZmYxNzIxOWFkMTEwNmIxNDcyMzc1NzI2YWUy",
+  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDBiYTViMDNmMWI5ODkzMTU5YTgzY2VlN2EwYTQ2NjFh",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Dicen",
-        "url": "https://open.spotify.com/album/4UV2K61AHd7G9trxn3MBbP"
-      },
-      "artists": [
-        {
-          "name": "Surfistas Del Sistema",
-          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
-        }
-      ],
-      "duration_ms": 225714,
-      "name": "Dicen",
-      "url": "https://open.spotify.com/track/63k804w99BgYRXSjDfOzGl"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Cuando Regreses a M\u00ed",
         "url": "https://open.spotify.com/album/1pXcDXRqCokOFcBWXesloE"
       },
@@ -583,18 +567,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Dorama",
-        "url": "https://open.spotify.com/album/1JL6GXkYqQC3tvreFoZXlm"
+        "name": "Dicen",
+        "url": "https://open.spotify.com/album/4UV2K61AHd7G9trxn3MBbP"
       },
       "artists": [
         {
-          "name": "Primavera Club",
-          "url": "https://open.spotify.com/artist/4wYsRqHGSzAPIceEE9gnIG"
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
         }
       ],
-      "duration_ms": 290400,
-      "name": "Lentes Negros",
-      "url": "https://open.spotify.com/track/2IwXBRnOgAhIVQXjtt6KEK"
+      "duration_ms": 225714,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/63k804w99BgYRXSjDfOzGl"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -611,6 +595,22 @@
       "duration_ms": 211281,
       "name": "Gobi\u00e9rname",
       "url": "https://open.spotify.com/track/5GpngZwVz4DO2jLBV9d7iZ"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Dorama",
+        "url": "https://open.spotify.com/album/1JL6GXkYqQC3tvreFoZXlm"
+      },
+      "artists": [
+        {
+          "name": "Primavera Club",
+          "url": "https://open.spotify.com/artist/4wYsRqHGSzAPIceEE9gnIG"
+        }
+      ],
+      "duration_ms": 290400,
+      "name": "Lentes Negros",
+      "url": "https://open.spotify.com/track/2IwXBRnOgAhIVQXjtt6KEK"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "CAMALOVE",
+        "url": "https://open.spotify.com/album/7jJijowxod92mie0y9XAj7"
+      },
+      "artists": [
+        {
+          "name": "Cocofunka",
+          "url": "https://open.spotify.com/artist/2fZnIGcmeZuhplsTcCBmvD"
+        }
+      ],
+      "duration_ms": 254492,
+      "name": "Asturi\u00f3n",
+      "url": "https://open.spotify.com/track/7MCnLeI6m34DUyX1PfYpBJ"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "M\u00fasica Moderna",
         "url": "https://open.spotify.com/album/1zE6fgn3iqkOwJGS18B0sm"
       },
@@ -683,26 +699,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Leche de Tigre",
-        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        },
-        {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
-        }
-      ],
-      "duration_ms": 205462,
-      "name": "Leche de Tigre",
-      "url": "https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "The New Sound of the Venezuelan Gozadera",
         "url": "https://open.spotify.com/album/6dWnLOP6zgqmvohqPZfzDh"
       },
@@ -719,18 +715,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "CAMALOVE",
-        "url": "https://open.spotify.com/album/7jJijowxod92mie0y9XAj7"
+        "name": "Mira Lo Que Me Hiciste Hacer",
+        "url": "https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI"
       },
       "artists": [
         {
-          "name": "Cocofunka",
-          "url": "https://open.spotify.com/artist/2fZnIGcmeZuhplsTcCBmvD"
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
         }
       ],
-      "duration_ms": 254492,
-      "name": "Asturi\u00f3n",
-      "url": "https://open.spotify.com/track/7MCnLeI6m34DUyX1PfYpBJ"
+      "duration_ms": 228543,
+      "name": "Su\u00e9ltame, Bogot\u00e1",
+      "url": "https://open.spotify.com/track/7qhunqQrA4o3Hk4c6ohRTg"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -771,22 +767,6 @@
       "duration_ms": 227933,
       "name": "Peque\u00f1ines",
       "url": "https://open.spotify.com/track/7KhYQ9fHuofDF4I5D0obId"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Mira Lo Que Me Hiciste Hacer",
-        "url": "https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 228543,
-      "name": "Su\u00e9ltame, Bogot\u00e1",
-      "url": "https://open.spotify.com/track/7qhunqQrA4o3Hk4c6ohRTg"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -855,6 +835,42 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Maldita Cach\u00e1",
+        "url": "https://open.spotify.com/album/3nunl1URnEHRPjZU854vYo"
+      },
+      "artists": [
+        {
+          "name": "Los Rivera Destino",
+          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
+        }
+      ],
+      "duration_ms": 144958,
+      "name": "Maldita Cach\u00e1",
+      "url": "https://open.spotify.com/track/02OLbvjFRd9dCVNPbZCjXo"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Leche de Tigre",
+        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        },
+        {
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        }
+      ],
+      "duration_ms": 205462,
+      "name": "Leche de Tigre",
+      "url": "https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "JUAN PABLO VEGA",
         "url": "https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR"
       },
@@ -891,22 +907,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Maldita Cach\u00e1",
-        "url": "https://open.spotify.com/album/3nunl1URnEHRPjZU854vYo"
-      },
-      "artists": [
-        {
-          "name": "Los Rivera Destino",
-          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
-        }
-      ],
-      "duration_ms": 144958,
-      "name": "Maldita Cach\u00e1",
-      "url": "https://open.spotify.com/track/02OLbvjFRd9dCVNPbZCjXo"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Solar",
         "url": "https://open.spotify.com/album/3sgl0nsYzi67AAFoi23wp4"
       },
@@ -935,26 +935,6 @@
       "duration_ms": 142516,
       "name": "Santiago",
       "url": "https://open.spotify.com/track/58r843NDpyDVVvd6In95g3"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Buitres & Co.",
-        "url": "https://open.spotify.com/album/5vyC6Dahprs1cIdQYMIYDZ"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        },
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 225458,
-      "name": "Rotos",
-      "url": "https://open.spotify.com/track/5Y1KS5xHBjGXKsEaCnufdi"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1023,6 +1003,42 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Buitres & Co.",
+        "url": "https://open.spotify.com/album/5vyC6Dahprs1cIdQYMIYDZ"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 225458,
+      "name": "Rotos",
+      "url": "https://open.spotify.com/track/5Y1KS5xHBjGXKsEaCnufdi"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Da Funk",
+        "url": "https://open.spotify.com/album/1RkDdrEwwERzb4bvTAYalH"
+      },
+      "artists": [
+        {
+          "name": "Caliope Family",
+          "url": "https://open.spotify.com/artist/3yF4Lj2Sl3QkKQNQwtYya6"
+        }
+      ],
+      "duration_ms": 156763,
+      "name": "Da Funk",
+      "url": "https://open.spotify.com/track/3y5hMwMAne5VD8635DBpj0"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Soundamerica",
         "url": "https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI"
       },
@@ -1035,26 +1051,6 @@
       "duration_ms": 234880,
       "name": "Todos Lo Hacen",
       "url": "https://open.spotify.com/track/15YxQngUxvhImUXb9PxBb0"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Amor x Hoy (Vuelvo a Caer)",
-        "url": "https://open.spotify.com/album/7cmFebFSNe3iMhOb5ErZsB"
-      },
-      "artists": [
-        {
-          "name": "Azul de Viena",
-          "url": "https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ"
-        },
-        {
-          "name": "Valdo Rodriguez",
-          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
-        }
-      ],
-      "duration_ms": 205862,
-      "name": "Amor x Hoy (Vuelvo a Caer)",
-      "url": "https://open.spotify.com/track/37dUvhndBywHGLNhu7xiEH"
     }
   ],
   "unique_name": "feels like latin funk",

@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 26448,
+  "num_followers": 26468,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjMxNTk1NiwwMDAwMDAwMGZiYTgwNGU2MDkzNDJmYTA4NjYxOGUzNWJjMzA1ZmZm",
+  "snapshot_id": "MTY0NjMxNTk1NiwwMDAwMDAwMDllMDlhY2Q0NTFlMjc5M2ZhMzRmMmI2NjkyMzMyYWZm",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Curious",
-        "url": "https://open.spotify.com/album/7sWxOX3TNHbSJzLJ6Ttq5A"
-      },
-      "artists": [
-        {
-          "name": "Sun, Sun, Sun",
-          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
-        }
-      ],
-      "duration_ms": 440320,
-      "name": "Curious - Vocal Mix",
-      "url": "https://open.spotify.com/track/5xybwC1yKukJ5aJAHHogNm"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Blues for You (Remixes)",
         "url": "https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 377093,
       "name": "Blues For You - Vocal Mix #1",
       "url": "https://open.spotify.com/track/11EJ4xP1gVMfVBLGrdvkF0"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/7sWxOX3TNHbSJzLJ6Ttq5A"
+      },
+      "artists": [
+        {
+          "name": "Sun, Sun, Sun",
+          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
+        }
+      ],
+      "duration_ms": 440320,
+      "name": "Curious - Vocal Mix",
+      "url": "https://open.spotify.com/track/5xybwC1yKukJ5aJAHHogNm"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "The Warning (Remixes)",
+        "url": "https://open.spotify.com/album/00Xqdmf1iSOAiiaiTUfCXQ"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC"
+        }
+      ],
+      "duration_ms": 233466,
+      "name": "The Warning - 2 Copy Mix",
+      "url": "https://open.spotify.com/track/6rBhOQ7739vfGRDFGuc8mj"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Indonesia",
         "url": "https://open.spotify.com/album/4Uucb977IOqbwV2aNURxll"
       },
@@ -727,22 +743,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Swing Doctor",
-        "url": "https://open.spotify.com/album/114F2eqOw7x3kYZUgcvktB"
-      },
-      "artists": [
-        {
-          "name": "The Untouchables",
-          "url": "https://open.spotify.com/artist/56T2velmlNdZj0izQHv0HF"
-        }
-      ],
-      "duration_ms": 343720,
-      "name": "Dance To The Rhythm",
-      "url": "https://open.spotify.com/track/7AkcVsqsvievz23Gc3bRyE"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Carnival 93",
         "url": "https://open.spotify.com/album/7ygrHHWsypvmxue6qObuAn"
       },
@@ -759,18 +759,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Warning (Remixes)",
-        "url": "https://open.spotify.com/album/00Xqdmf1iSOAiiaiTUfCXQ"
+        "name": "The Swing Doctor",
+        "url": "https://open.spotify.com/album/114F2eqOw7x3kYZUgcvktB"
       },
       "artists": [
         {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC"
+          "name": "The Untouchables",
+          "url": "https://open.spotify.com/artist/56T2velmlNdZj0izQHv0HF"
         }
       ],
-      "duration_ms": 233466,
-      "name": "The Warning - 2 Copy Mix",
-      "url": "https://open.spotify.com/track/6rBhOQ7739vfGRDFGuc8mj"
+      "duration_ms": 343720,
+      "name": "Dance To The Rhythm",
+      "url": "https://open.spotify.com/track/7AkcVsqsvievz23Gc3bRyE"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -839,6 +839,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Strictly Rhythm Est. 1989: 20 Years of Classics",
+        "url": "https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC"
+        }
+      ],
+      "duration_ms": 489320,
+      "name": "The Warning - Inner Mix",
+      "url": "https://open.spotify.com/track/0EThIfEDrSIszyhVATkCoi"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
         "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
@@ -903,38 +919,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Dancin' EP",
-        "url": "https://open.spotify.com/album/2xa9613s8FJNJ9pt22wQOS"
-      },
-      "artists": [
-        {
-          "name": "DJ Sneak",
-          "url": "https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr"
-        }
-      ],
-      "duration_ms": 731746,
-      "name": "Dancin",
-      "url": "https://open.spotify.com/track/5U1FlG1YtpjFtM2AHp9u3d"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Strictly Rhythm Est. 1989: 20 Years of Classics",
-        "url": "https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC"
-        }
-      ],
-      "duration_ms": 489320,
-      "name": "The Warning - Inner Mix",
-      "url": "https://open.spotify.com/track/0EThIfEDrSIszyhVATkCoi"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Stay Together",
         "url": "https://open.spotify.com/album/6wuP78U4t60sCYOvA4kqUt"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 410973,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/2zP57ODfOyIIGfjhfK4L5Q"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Dancin' EP",
+        "url": "https://open.spotify.com/album/2xa9613s8FJNJ9pt22wQOS"
+      },
+      "artists": [
+        {
+          "name": "DJ Sneak",
+          "url": "https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr"
+        }
+      ],
+      "duration_ms": 731746,
+      "name": "Dancin",
+      "url": "https://open.spotify.com/track/5U1FlG1YtpjFtM2AHp9u3d"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
+      },
+      "artists": [
+        {
+          "name": "Bass Hitt",
+          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
+        }
+      ],
+      "duration_ms": 427132,
+      "name": "Hey! - The Rhythm Hype Mix",
+      "url": "https://open.spotify.com/track/1iaEun88QJb6k3MCe3PKve"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Set My Spirit Free (feat. Sandy Rivera)",
         "url": "https://open.spotify.com/album/2rFxKv5g2o34oZEYcCpzvN"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 227173,
       "name": "Just Us - B.O.P. Radio Joint",
       "url": "https://open.spotify.com/track/1hfX4Y0u3MqizJdjnnjHdZ"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
-      },
-      "artists": [
-        {
-          "name": "Bass Hitt",
-          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
-        }
-      ],
-      "duration_ms": 427132,
-      "name": "Hey! - The Rhythm Hype Mix",
-      "url": "https://open.spotify.com/track/1iaEun88QJb6k3MCe3PKve"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Master Blaster (Turn It Up)",
+        "url": "https://open.spotify.com/album/6MJQYFCImEMyFA8weZ4Jfl"
+      },
+      "artists": [
+        {
+          "name": "Joint Venture",
+          "url": "https://open.spotify.com/artist/3zgNoLwSZuO6ibqfilnnU2"
+        }
+      ],
+      "duration_ms": 938546,
+      "name": "Master Blaster (Turn It Up)",
+      "url": "https://open.spotify.com/track/2J03eGRK7Ns3OpBUFhGXbw"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Straight from the Bario EP",
         "url": "https://open.spotify.com/album/3uhGpKKuiNpbttZVvIjNZK"
       },
@@ -1171,6 +1187,26 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "The Beat That Makes U Move",
+        "url": "https://open.spotify.com/album/0NgAVAE4LTJlyI0FoMxFCw"
+      },
+      "artists": [
+        {
+          "name": "Bass Hitt",
+          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
+        },
+        {
+          "name": "Dreamgirl Vee",
+          "url": "https://open.spotify.com/artist/4D7oLTG2VmYSHZkWfYkduN"
+        }
+      ],
+      "duration_ms": 459080,
+      "name": "The Beat That Makes U Move - The Rhythm Hype Mix",
+      "url": "https://open.spotify.com/track/6KLnL6hVI2W1dXtZzT0Xkb"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "In Da Clouds",
         "url": "https://open.spotify.com/album/4JiK0Do2dRT5UK6WpIi6bm"
       },
@@ -1183,22 +1219,6 @@
       "duration_ms": 518960,
       "name": "In Da Clouds - Da Dub",
       "url": "https://open.spotify.com/track/74Rs89DEfIgsSQQfE4Vi1d"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Master Blaster (Turn It Up)",
-        "url": "https://open.spotify.com/album/6MJQYFCImEMyFA8weZ4Jfl"
-      },
-      "artists": [
-        {
-          "name": "Joint Venture",
-          "url": "https://open.spotify.com/artist/3zgNoLwSZuO6ibqfilnnU2"
-        }
-      ],
-      "duration_ms": 938546,
-      "name": "Master Blaster (Turn It Up)",
-      "url": "https://open.spotify.com/track/2J03eGRK7Ns3OpBUFhGXbw"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1255,26 +1275,6 @@
       "duration_ms": 605306,
       "name": "Alright (feat. Earl Bennett) - BOP Journey Remix",
       "url": "https://open.spotify.com/track/7dVPEuz7LSKcjnArcv38uI"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "The Beat That Makes U Move",
-        "url": "https://open.spotify.com/album/0NgAVAE4LTJlyI0FoMxFCw"
-      },
-      "artists": [
-        {
-          "name": "Bass Hitt",
-          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
-        },
-        {
-          "name": "Dreamgirl Vee",
-          "url": "https://open.spotify.com/artist/4D7oLTG2VmYSHZkWfYkduN"
-        }
-      ],
-      "duration_ms": 459080,
-      "name": "The Beat That Makes U Move - The Rhythm Hype Mix",
-      "url": "https://open.spotify.com/track/6KLnL6hVI2W1dXtZzT0Xkb"
     },
     {
       "added_at": "2022-03-03 13:59:16",

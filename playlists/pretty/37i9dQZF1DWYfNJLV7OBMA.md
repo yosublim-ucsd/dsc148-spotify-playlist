@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- DILU Beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,089 likes - 65 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,106 likes - 65 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 59 | [Unmada Prema Geeya](https://open.spotify.com/track/1lZLtkHlAVF0iBdkNUkLt2) | [Bathiya & Santhush](https://open.spotify.com/artist/4qOcN0iWp8vs7OBhxzHY8Q), [Yohani](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI), [Kaizer Kaiz](https://open.spotify.com/artist/79GTGDgSIN8i5DAngINh7k) | [Unmada Prema Geeya](https://open.spotify.com/album/6wUgVuhCZTFxKFG3lfvLF6) | 4:29 |
 | 60 | [Sandawathiye](https://open.spotify.com/track/0qypAiOkwILdSD9MxubFu4) | [Ridma Weerawardena](https://open.spotify.com/artist/03lEcjt6I9zmO8g0tJi4zT), [Charitha Attalage](https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP) | [Ridma Weerawardena](https://open.spotify.com/album/4D1eJLNw9dTUcB1pYDK3mt) | 4:00 |
 | 61 | [Dura Akahe](https://open.spotify.com/track/6l6ponf8TLRkam1BWG3Vxq) | [Charitha Attalage](https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP), [Ravi Jay](https://open.spotify.com/artist/2OXLUIzYqgydsWcHh38LJ2) | [Dura Akahe](https://open.spotify.com/album/6UkkSB8EJzR88alvG0eAuz) | 4:10 |
-| 62 | [Mekanam Pissuwak Bun](https://open.spotify.com/track/0xPSYC5I8gGolOJXpavhcn) | [Wasthi](https://open.spotify.com/artist/6SuMIiPGM6P4hLLNdT0nNt) | [Mekanam Pissuwak Bun](https://open.spotify.com/album/2LNW5DA1TNvuprDR5XIy31) | 3:17 |
+| 62 | [Mekanam Pissuwak Bun](https://open.spotify.com/track/3AdiMFHiJrb3d3DlPqtgKU) | [Wasthi](https://open.spotify.com/artist/6SuMIiPGM6P4hLLNdT0nNt) | [Mekanam Pissuwak Bun](https://open.spotify.com/album/0RqrfuXHZFlSJCD2v57NSN) | 3:17 |
 | 63 | [Naan Pizhai \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/track/1UUgngRGzFWfgpyN0WAN1r) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Naan Pizhai \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/album/2R8F4wxJzpyQuN6fxUUwT1) | 4:03 |
 | 64 | [Pawela Kodu Akase](https://open.spotify.com/track/3IfseEvp5VAI6Bcc0NZWGe) | [Thilina Ruhunage](https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn), [Samitha Mudunkotuwa](https://open.spotify.com/artist/4JZtZyM8iEjVLR56DgrI4c) | [Pawela Kodu Akase](https://open.spotify.com/album/5yM7fEWom6JO1g780noZ3d) | 3:57 |
 | 65 | [Heena Maka](https://open.spotify.com/track/1dC7Q5yBpQ063UrIWpAB3N) | [Harshadewa Ariyasinghe](https://open.spotify.com/artist/40v9sLBiwQOZdLwRhTUjQL), [Ravi Jay](https://open.spotify.com/artist/2OXLUIzYqgydsWcHh38LJ2), [Charitha Attalage](https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP) | [Heena Maka](https://open.spotify.com/album/6Et4v4uBSdKMFYkGtIYLkm) | 4:17 |
 
-Snapshot ID: `MTY3NzQ4NDM5OSwwMDAwMDAwMDdjYWM3OTE2NzNiYjk5MmY2ZTI2N2FiYmUwMTJlZTdh`
+Snapshot ID: `MTY3NzQ4NDM5OSwwMDAwMDAwMDZkOTNhYjA2ZmZiNTU2NjNhMGJhNWM1MGM5YWE3NTgw`

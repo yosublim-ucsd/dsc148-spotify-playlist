@@ -4,13 +4,13 @@
 
 > Food sing\-a\-longs for breakfast, lunch, or snack time.
 
-129 songs - 4 hr 51 min
+131 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1, 2 What Shall We Do? \(Pancakes\)](https://open.spotify.com/track/1bsFHHcSeCZG5TJdPVHg7v) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Dance, Sing & Laugh](https://open.spotify.com/album/1KcQF5wcErz67SH9I3vSNR) | 1:59 | 2022-04-05 | 2022-07-29 |
 | [1, 2 What Shall We Do? \(Pancakes\)](https://open.spotify.com/track/3xSOh4Xj9uLhAnIC2NxLdy) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Dance, Sing & Laugh](https://open.spotify.com/album/6TINDB2CCxmNG5S95S6LEV) | 1:59 | 2022-04-05 |  |
-| [10 Fat Sausages](https://open.spotify.com/track/3Qnsxavk66i1M1G6ZQqXa7) | [Pre\-Teens](https://open.spotify.com/artist/53y0JudctNqoyg3uMVPTka) | [Activity Time](https://open.spotify.com/album/3EtRvuANnyYg1ZGHhs8seE) | 1:24 | 2022-04-05 |  |
+| [10 Fat Sausages](https://open.spotify.com/track/3Qnsxavk66i1M1G6ZQqXa7) | [Pre\-Teens](https://open.spotify.com/artist/53y0JudctNqoyg3uMVPTka) | [Activity Time](https://open.spotify.com/album/3EtRvuANnyYg1ZGHhs8seE) | 1:24 | 2022-04-05 | 2023-04-26 |
 | [10 Fat Sausages](https://open.spotify.com/track/0Y5snxothdk8mmuyqe2MOs) | [The Kids Band](https://open.spotify.com/artist/06Hm0MteCKQgT0fkP1iJyz) | [Ultimate Kids Collection](https://open.spotify.com/album/5iiEm8Wg3dkoLk9rI9bxBf) | 1:25 | 2022-04-05 | 2022-07-29 |
 | [A Healthy Meal](https://open.spotify.com/track/3Qy8BN2lRFY61MLVGlCTlc) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Healthy Habits \(Pt\. 1\-3\)](https://open.spotify.com/album/57aoBY63rXYvnherisZpdh) | 1:09 | 2022-04-05 |  |
 | [A Pizza Pie](https://open.spotify.com/track/4zgJR2A0iGC3MeLZVxgfQJ) | [Rolie Polie Guacamole](https://open.spotify.com/artist/5B7XLUnkpg3TQYgP088xqT) | [Avocado](https://open.spotify.com/album/548o11z8WtjhmKLFRzajvz) | 3:16 | 2022-04-05 |  |
@@ -73,7 +73,8 @@
 | [I'd Eat It Anyway](https://open.spotify.com/track/4pNSUTNUmVicSriWSCoGDY) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Good Ideas](https://open.spotify.com/album/1i8TZqSzAGr0IfHRhvkP1b) | 2:25 | 2022-04-05 |  |
 | [Ice Cream \(Scoopy Doo\)](https://open.spotify.com/track/0H1pkHp6A8mfCHsuf6s90j) | [The Mik Maks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Ice Cream \(Scoopy Doo\)](https://open.spotify.com/album/28BjXfGmMdf2geHjPVezfZ) | 2:33 | 2022-04-05 |  |
 | [Jelly Beans](https://open.spotify.com/track/3UsXljh1OzBOjRie7kHRVV) | [The Hipwaders](https://open.spotify.com/artist/1bl9sV1dYYUeY1XRYn1LQs) | [The Hipwaders](https://open.spotify.com/album/09F5V1USMyqra4XFaWF5Ep) | 1:46 | 2022-04-05 |  |
-| [Jelly On A Plate](https://open.spotify.com/track/76urTUQpOsUmi9nM8fqI5y) | [Pre\-Teens](https://open.spotify.com/artist/53y0JudctNqoyg3uMVPTka) | [Song Time](https://open.spotify.com/album/1r8aZcuQ83GGK2FlFpu6JE) | 2:06 | 2022-04-05 |  |
+| [Jelly on a Plate](https://open.spotify.com/track/2boYf56YYXMxqLPu0ZMK6l) | [Lucy and Her Pals](https://open.spotify.com/artist/5NLrUBxk4nUxfSPIIolh6J) | [Children's Sing Along Time](https://open.spotify.com/album/2WgYgtWq5OBar4M21XVzD0) | 2:06 | 2022-04-05 |  |
+| [Jelly On A Plate](https://open.spotify.com/track/76urTUQpOsUmi9nM8fqI5y) | [Pre\-Teens](https://open.spotify.com/artist/53y0JudctNqoyg3uMVPTka) | [Song Time](https://open.spotify.com/album/1r8aZcuQ83GGK2FlFpu6JE) | 2:06 | 2022-04-05 | 2023-04-26 |
 | [Jelly On A Plate](https://open.spotify.com/track/343RCyqoTAPfdqRDjY1sVw) | [The Birthday Bunch](https://open.spotify.com/artist/0DLUrbFqDNVA1G5c3Dq3Ot) | [Happy Birthday Travis](https://open.spotify.com/album/40EzyLoHEobRZgEBFmJxzg) | 2:06 | 2022-04-05 | 2022-11-13 |
 | [Jelly On A Plate](https://open.spotify.com/track/5V2sffHrOaupHL5gZ7IJaR) | [The Kids Band](https://open.spotify.com/artist/06Hm0MteCKQgT0fkP1iJyz) | [Ultimate Kids Collection](https://open.spotify.com/album/5iiEm8Wg3dkoLk9rI9bxBf) | 2:07 | 2022-04-05 | 2022-07-29 |
 | [Ketchup\(I like it, I love it\)](https://open.spotify.com/track/7GhPe9v9lvnNdug8aLYCLO) | [Dad Jokes Duo](https://open.spotify.com/artist/4alPoOoReavkZAMBR5E4y0) | [Are We There Yet?](https://open.spotify.com/album/1WKVF97SZHVb7fAVkVHsoz) | 2:51 | 2022-04-05 |  |
@@ -113,6 +114,7 @@
 | [Spaghetti](https://open.spotify.com/track/4QPQCoe4wGp5rYyxxSl6ut) | [The Beanies](https://open.spotify.com/artist/1RxCxHiHxD1XN9Jp6LVIkm) | [Noise Factory](https://open.spotify.com/album/7JrqM06vRbzoibxelpYD0r) | 2:21 | 2022-04-05 |  |
 | [Spaghetti](https://open.spotify.com/track/626Mh4uvliKUsCq0Yostte) | [The Beanies](https://open.spotify.com/artist/1RxCxHiHxD1XN9Jp6LVIkm) | [Spaghetti](https://open.spotify.com/album/2BpQGMFgXHLvPMThHo6yhW) | 2:21 | 2022-04-05 | 2022-07-29 |
 | [Sushi Roll](https://open.spotify.com/track/35kJF3E3yurBUizPJE310X) | [Will's Jams](https://open.spotify.com/artist/0bLuwS5s9quZsZYfBt3xdm) | [Sushi Roll](https://open.spotify.com/album/5L5Y7ngh1DNrgg7lYFF7HN) | 3:02 | 2022-04-05 |  |
+| [Ten Fat Sausages](https://open.spotify.com/track/6zUcwVZTbzbwbJE42mW6ke) | [Lucy and Her Pals](https://open.spotify.com/artist/5NLrUBxk4nUxfSPIIolh6J) | [Children's Party Time](https://open.spotify.com/album/6mnOxMPxDfMOs7YQJsh1kV) | 1:24 | 2022-04-05 |  |
 | [Ten Fat Sausages \- Tribute Version](https://open.spotify.com/track/4ncKWuessv3E76X1nMtIlX) | [New Tribute Kings](https://open.spotify.com/artist/4mNfOTm9TO3w8v3TIzaNZ7) | [Childrens Classic Nursery Rhymes](https://open.spotify.com/album/1Pcqs639EaQ9oNWzpUhX8O) | 1:21 | 2022-04-05 | 2022-11-14 |
 | [The Avocado Song](https://open.spotify.com/track/7iqvladgrcQPGX1Ky5qeFr) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Romeo Eats](https://open.spotify.com/artist/5woC1o9bxzyhV7sXR5t5Nd) | [Walk off the Earth & Romeo Eats, Vol\. 1](https://open.spotify.com/album/44vnzHdyCejk6nXISI9LYE) | 2:04 | 2022-04-05 |  |
 | [The Broccoli Song](https://open.spotify.com/track/70kjwtJTTvHYg7vGrUxIgz) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Romeo Eats](https://open.spotify.com/artist/5woC1o9bxzyhV7sXR5t5Nd) | [The Broccoli Song](https://open.spotify.com/album/6zJWNXIO7IKmlStR3EaS3D) | 2:25 | 2022-04-05 |  |

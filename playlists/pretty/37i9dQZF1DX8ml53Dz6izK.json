@@ -1,12 +1,12 @@
 {
   "description": "< insert emo glitter gif here >",
-  "num_followers": 45195,
+  "num_followers": 45253,
   "original_name": "CrySpace",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjE1NjY5NCwwMDAwMDAwMGYyNWZlYmM5OTNjNzQ4ZWM4NmY1YTVmZTM4OWFmYWY3",
+  "snapshot_id": "MTY4MjE1NjY5NCwwMDAwMDAwMGVkOTA5M2FiY2Q3YzM3MjU4ODQ1OWQ1NDc4N2MwZGQ1",
   "tracks": [
     {
       "added_at": "2022-08-18 15:16:06",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-08-18 15:16:06",
       "album": {
-        "name": "Commit This To Memory",
-        "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
-      },
-      "artists": [
-        {
-          "name": "Motion City Soundtrack",
-          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
-        }
-      ],
-      "duration_ms": 207633,
-      "name": "Everything Is Alright",
-      "url": "https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV"
-    },
-    {
-      "added_at": "2022-08-18 15:16:06",
-      "album": {
         "name": "Palm Trees and Power Lines",
         "url": "https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 226080,
       "name": "Memory",
       "url": "https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"
+    },
+    {
+      "added_at": "2022-08-18 15:16:06",
+      "album": {
+        "name": "Commit This To Memory",
+        "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
+      },
+      "artists": [
+        {
+          "name": "Motion City Soundtrack",
+          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
+        }
+      ],
+      "duration_ms": 207633,
+      "name": "Everything Is Alright",
+      "url": "https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV"
     },
     {
       "added_at": "2022-08-18 15:16:06",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-08-18 15:16:06",
       "album": {
-        "name": "Dying Is Your Latest Fashion",
-        "url": "https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 231506,
-      "name": "Not Good Enough For Truth In Clich\u00e9",
-      "url": "https://open.spotify.com/track/50NQdrO55nqwZrDwKny5NH"
-    },
-    {
-      "added_at": "2022-08-18 15:16:06",
-      "album": {
         "name": "Deja Entendu",
         "url": "https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 241640,
       "name": "The Quiet Things That No One Ever Knows",
       "url": "https://open.spotify.com/track/3IlY76VbP31zwPY0S2EMjh"
+    },
+    {
+      "added_at": "2022-08-18 15:16:06",
+      "album": {
+        "name": "Dying Is Your Latest Fashion",
+        "url": "https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 231506,
+      "name": "Not Good Enough For Truth In Clich\u00e9",
+      "url": "https://open.spotify.com/track/50NQdrO55nqwZrDwKny5NH"
     },
     {
       "added_at": "2022-08-18 15:16:06",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-08-18 15:16:06",
       "album": {
-        "name": "Zombies! Aliens! Vampires! Dinosaurs!",
-        "url": "https://open.spotify.com/album/6caG763FP5oUCdxklebHh6"
-      },
-      "artists": [
-        {
-          "name": "Hellogoodbye",
-          "url": "https://open.spotify.com/artist/6GH0NzpthMGxu1mcfAkOde"
-        }
-      ],
-      "duration_ms": 240546,
-      "name": "Here (In Your Arms)",
-      "url": "https://open.spotify.com/track/1GV98LUEVk1U3LWAkX2Apw"
-    },
-    {
-      "added_at": "2022-08-18 15:16:06",
-      "album": {
         "name": "The Same Old Blood Rush With A New Touch",
         "url": "https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 203626,
       "name": "The Curse of Curves",
       "url": "https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ"
+    },
+    {
+      "added_at": "2022-08-18 15:16:06",
+      "album": {
+        "name": "Zombies! Aliens! Vampires! Dinosaurs!",
+        "url": "https://open.spotify.com/album/6caG763FP5oUCdxklebHh6"
+      },
+      "artists": [
+        {
+          "name": "Hellogoodbye",
+          "url": "https://open.spotify.com/artist/6GH0NzpthMGxu1mcfAkOde"
+        }
+      ],
+      "duration_ms": 240546,
+      "name": "Here (In Your Arms)",
+      "url": "https://open.spotify.com/track/1GV98LUEVk1U3LWAkX2Apw"
     },
     {
       "added_at": "2022-08-18 15:16:06",

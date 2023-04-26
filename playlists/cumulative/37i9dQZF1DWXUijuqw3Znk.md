@@ -4,7 +4,7 @@
 
 > 바닥에서 위로\. 성공을 위한 열정과 집념을 느껴보세요\. \(커버: Royal 44\)
 
-346 songs - 20 hr 12 min
+347 songs - 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [Siren Remix \(Feat\. UNEDUCATED KID, Paul Blanco\)](https://open.spotify.com/track/2S9FuNX2H2cCwxcIoTUtbM) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Siren Remix](https://open.spotify.com/album/5c84PfOOqKLuE8WTtsgqbn) | 3:17 | 2022-05-11 |  |
 | [SLASH \(Feat\. BIGONE\)](https://open.spotify.com/track/2F1n5rGdo6oQbZFYuVx9ud) | [DO HAN SE](https://open.spotify.com/artist/0vpzOOH7hVL9KdsCus9v5v), [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [BLAZE](https://open.spotify.com/album/3rReTvcphfVOJUOYXpCiWJ) | 2:11 | 2022-05-11 |  |
 | [Smile Now Cry Later](https://open.spotify.com/track/3PXbhVma3mPrhkysAichZi) | [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD) | [SKANDALOUZ](https://open.spotify.com/album/3UvvXvP68TK09ZaAkQhOQn) | 3:00 | 2022-05-11 | 2023-04-16 |
+| [Smile Now Cry Later](https://open.spotify.com/track/7a6oh2knjsE4uBZ60xnsvc) | [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD) | [SKANDALOUZ](https://open.spotify.com/album/6VW9XC4hTrxWtiUgfyZnbh) | 3:00 | 2023-02-24 |  |
 | [Snow\-white \(Prod\. The Quiett\)](https://open.spotify.com/track/1H6fOj8dsnHIqYSqKVy9mT) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [P.O.E.M\. Ⅲ](https://open.spotify.com/album/0MD5NHw7hr1J1uwkp9S16C) | 3:00 | 2022-05-11 | 2022-07-28 |
 | [So What](https://open.spotify.com/track/7pXb7Ho5ahUdcJWdAWdnC9) | [전현재](https://open.spotify.com/artist/10el24MGnx27TEXY6kM7Qv) | [Beautiful Struggles](https://open.spotify.com/album/4BgxqlGNChjQb4MQzfjXEg) | 3:08 | 2023-01-05 | 2023-02-01 |
 | [Something I can do](https://open.spotify.com/track/0KzUbsU8ZWWjPMnuowgiRq) | [BlackNut](https://open.spotify.com/artist/0T8sqjCB5w57zxvW5lp3qJ) | [Show Me the Money 4 Episode 5](https://open.spotify.com/album/5eUrR3yDSR72ehUqyDl8oz) | 6:50 | 2022-05-11 | 2022-07-22 |
@@ -347,7 +348,7 @@
 | [어떻게든 이뤄내](https://open.spotify.com/track/4mLUPeO6KAVkx8t4fC5CsQ) | [Kidk Kidk](https://open.spotify.com/artist/3ZX1Hx4ZcqjLTiZZ8IeQYA) | [빈민가의 꿈2](https://open.spotify.com/album/7a3lFkgN9LyMzs8xHMQxi0) | 2:56 | 2022-05-11 | 2022-07-29 |
 | [원숭이띠 미혼남 \(feat\. ZICO\)](https://open.spotify.com/track/49McUp6aa5Kmk7QF6A9OSP) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Go Easy](https://open.spotify.com/album/78RFD4HjI3PKa8Hc04pPlw) | 3:45 | 2022-05-11 | 2022-07-28 |
 | [주인공](https://open.spotify.com/track/4aEW9resLu5KUwkYs9RHoD) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1) | [죽을힘을 다하여](https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb) | 2:49 | 2022-05-11 | 2022-07-20 |
-| [죽을힘을 다하여](https://open.spotify.com/track/5IEz46ferHq5IuyZH0WJtj) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1) | [죽을힘을 다하여](https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb) | 2:28 | 2022-05-11 |  |
+| [죽을힘을 다하여](https://open.spotify.com/track/5IEz46ferHq5IuyZH0WJtj) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1) | [죽을힘을 다하여](https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb) | 2:28 | 2022-05-11 | 2023-04-26 |
 | [진인사대천명](https://open.spotify.com/track/4Q49uBolwKLieHHPo7oY1o) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [진인사대천명](https://open.spotify.com/album/4SOYTon5mBDgv6TEE26Of8) | 3:32 | 2022-05-11 | 2022-07-29 |
 | [진저리 \(Feat\. 릴러말즈 \(Leellamarz\), 제네 더 질라\(ZENE THE ZILLA\)\)](https://open.spotify.com/track/1XezSpf7NiagncEJPzypsH) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [죽을힘을 다하여](https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb) | 3:43 | 2022-05-11 | 2022-07-26 |
 | [진흙 속에서 피는 꽃 Flower from the Mud \(feat\. Kebee & MC Meta\)](https://open.spotify.com/track/3HQKOvG5jI7lLseS6ZT3ph) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Kebee & MC Meta](https://open.spotify.com/artist/3GBhjWz2r9Jd32b94VCGOI) | [The Real Me](https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE) | 5:13 | 2022-05-11 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise.",
-  "num_followers": 49478,
+  "num_followers": 49571,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDYxMzgxNCwwMDAwMDAwMDEyNTI3ODg3ODA3MjJkYzNjNWZkOTlmOGQyYmYxNjRk",
+  "snapshot_id": "MTY4MDYxMzgxNCwwMDAwMDAwMDhjNGQ4ZDVjMzdiYjgzMDI2OTk2Y2YwNjgyMGI0MDFk",
   "tracks": [
     {
       "added_at": "2023-04-04 13:10:14",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
-        "name": "Salle des pas perdus",
-        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
-      },
-      "artists": [
-        {
-          "name": "Coralie Clement",
-          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
-        }
-      ],
-      "duration_ms": 248373,
-      "name": "L'ombre et la lumi\u00e8re",
-      "url": "https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
         "name": "Popcorn Sal\u00e9",
         "url": "https://open.spotify.com/album/2gN39EbfqN5KLxoqPv6M3V"
       },
@@ -355,18 +339,18 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
-        "name": "Un air de rien",
-        "url": "https://open.spotify.com/album/54Vo3EOEPuq4ERdzyIU4cE"
+        "name": "Salle des pas perdus",
+        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
       },
       "artists": [
         {
-          "name": "Trois Caf\u00e9s Gourmands",
-          "url": "https://open.spotify.com/artist/4wngxtsP87ozrQh05D90dO"
+          "name": "Coralie Clement",
+          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
         }
       ],
-      "duration_ms": 192544,
-      "name": "\u00c0 nos souvenirs - Pop Remix Radio Edit",
-      "url": "https://open.spotify.com/track/0K61sOINxMC8p8yFC2qU30"
+      "duration_ms": 248373,
+      "name": "L'ombre et la lumi\u00e8re",
+      "url": "https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd"
     },
     {
       "added_at": "2023-04-04 13:10:14",
@@ -383,6 +367,22 @@
       "duration_ms": 223706,
       "name": "\u00c0 la faveur de l'automne",
       "url": "https://open.spotify.com/track/5XCeCprrLZHLHHmKxYOXq1"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
+        "name": "Un air de rien",
+        "url": "https://open.spotify.com/album/54Vo3EOEPuq4ERdzyIU4cE"
+      },
+      "artists": [
+        {
+          "name": "Trois Caf\u00e9s Gourmands",
+          "url": "https://open.spotify.com/artist/4wngxtsP87ozrQh05D90dO"
+        }
+      ],
+      "duration_ms": 192544,
+      "name": "\u00c0 nos souvenirs - Pop Remix Radio Edit",
+      "url": "https://open.spotify.com/track/0K61sOINxMC8p8yFC2qU30"
     },
     {
       "added_at": "2023-04-04 13:10:14",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
+        "name": "Rose",
+        "url": "https://open.spotify.com/album/3ACdkFZ2IR9cXqeqWMz2V7"
+      },
+      "artists": [
+        {
+          "name": "Rose",
+          "url": "https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd"
+        }
+      ],
+      "duration_ms": 191039,
+      "name": "La Liste",
+      "url": "https://open.spotify.com/track/0GIRUl3YJAGBauaqe10oWm"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
         "name": "\u00c0 TOUS LES B\u00c2TARDS",
         "url": "https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 194280,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/3yds1YFMJkj93vdCJuxsJS"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
-        "name": "Rose",
-        "url": "https://open.spotify.com/album/3ACdkFZ2IR9cXqeqWMz2V7"
-      },
-      "artists": [
-        {
-          "name": "Rose",
-          "url": "https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd"
-        }
-      ],
-      "duration_ms": 191039,
-      "name": "La Liste",
-      "url": "https://open.spotify.com/track/0GIRUl3YJAGBauaqe10oWm"
     },
     {
       "added_at": "2023-04-04 13:10:14",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
-        "name": "Ami Ou Ennemi",
-        "url": "https://open.spotify.com/album/6SLKeOEgpg9XmpsKxxXCBU"
-      },
-      "artists": [
-        {
-          "name": "Maurane",
-          "url": "https://open.spotify.com/artist/1bsGJW4NXgXaHzD2Lpk7if"
-        }
-      ],
-      "duration_ms": 290226,
-      "name": "Sur un pr\u00e9lude de Bach",
-      "url": "https://open.spotify.com/track/5zfkEYXMQPXO7usJOPm7cB"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
         "name": "En amont",
         "url": "https://open.spotify.com/album/3zr5AVUYkVkezcHSqBfrxH"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 264720,
       "name": "Immortels",
       "url": "https://open.spotify.com/track/64XJOksESduPbepHxmW2rT"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
+        "name": "Ami Ou Ennemi",
+        "url": "https://open.spotify.com/album/6SLKeOEgpg9XmpsKxxXCBU"
+      },
+      "artists": [
+        {
+          "name": "Maurane",
+          "url": "https://open.spotify.com/artist/1bsGJW4NXgXaHzD2Lpk7if"
+        }
+      ],
+      "duration_ms": 290226,
+      "name": "Sur un pr\u00e9lude de Bach",
+      "url": "https://open.spotify.com/track/5zfkEYXMQPXO7usJOPm7cB"
     },
     {
       "added_at": "2023-04-04 13:10:14",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
-        "name": "Les femmes id\u00e9ales",
-        "url": "https://open.spotify.com/album/2cpyU2HuvpC3LyCHJn12XO"
-      },
-      "artists": [
-        {
-          "name": "Ben Mazu\u00e9",
-          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
-        }
-      ],
-      "duration_ms": 171480,
-      "name": "Nous deux contre le reste du monde - Version Acoustique",
-      "url": "https://open.spotify.com/track/7hwdkcVXdn0NjMJHWFtVl8"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
         "name": "Au Nom D'Une Femme",
         "url": "https://open.spotify.com/album/3uaw8NfCYdRLPLpslvQMzu"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 305493,
       "name": "Elle, tu l'aimes",
       "url": "https://open.spotify.com/track/08nsSNtxmSCCjq546wZ2E7"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
+        "name": "Les femmes id\u00e9ales",
+        "url": "https://open.spotify.com/album/2cpyU2HuvpC3LyCHJn12XO"
+      },
+      "artists": [
+        {
+          "name": "Ben Mazu\u00e9",
+          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
+        }
+      ],
+      "duration_ms": 171480,
+      "name": "Nous deux contre le reste du monde - Version Acoustique",
+      "url": "https://open.spotify.com/track/7hwdkcVXdn0NjMJHWFtVl8"
     },
     {
       "added_at": "2023-04-04 13:10:14",

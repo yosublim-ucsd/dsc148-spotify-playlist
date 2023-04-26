@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 55349,
+  "num_followers": 55406,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMGM2NGE1NGY2ZjU0OGYwNWYyNjQzNjQ0NWQwNTU2NTZm",
+  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMDJjYWIyY2RiNmYyNjFkMDUxMzJlOGEzMzczYjVjMWQ0",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -247,22 +247,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Anatolia",
-        "url": "https://open.spotify.com/album/6dITVz5ayEYI52QZ6Oy8rq"
-      },
-      "artists": [
-        {
-          "name": "Thylacine",
-          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
-        }
-      ],
-      "duration_ms": 309840,
-      "name": "Anatolia",
-      "url": "https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Blurred",
         "url": "https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 361160,
       "name": "Blurred - Bonobo Remix",
       "url": "https://open.spotify.com/track/4uayzCHBoZ1cpTSpMmdMXB"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Anatolia",
+        "url": "https://open.spotify.com/album/6dITVz5ayEYI52QZ6Oy8rq"
+      },
+      "artists": [
+        {
+          "name": "Thylacine",
+          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
+        }
+      ],
+      "duration_ms": 309840,
+      "name": "Anatolia",
+      "url": "https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Science Is Science",
-        "url": "https://open.spotify.com/album/1BHST3ipVCc0i32OcXX1i7"
-      },
-      "artists": [
-        {
-          "name": "Jesse Bru",
-          "url": "https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq"
-        }
-      ],
-      "duration_ms": 423445,
-      "name": "Bassment Dweller - Original Mix",
-      "url": "https://open.spotify.com/track/27kxG6am8GnYowF9HQPuzX"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "The Ring EP",
         "url": "https://open.spotify.com/album/7zYrkUcbpyB4JgPcl86Dse"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 391680,
       "name": "Take Your Place",
       "url": "https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Science Is Science",
+        "url": "https://open.spotify.com/album/1BHST3ipVCc0i32OcXX1i7"
+      },
+      "artists": [
+        {
+          "name": "Jesse Bru",
+          "url": "https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq"
+        }
+      ],
+      "duration_ms": 423445,
+      "name": "Bassment Dweller - Original Mix",
+      "url": "https://open.spotify.com/track/27kxG6am8GnYowF9HQPuzX"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Where Will You Be Spending Eternity?",
-        "url": "https://open.spotify.com/album/13iR44I1vESNGv6QTn4Wwi"
-      },
-      "artists": [
-        {
-          "name": "Francis Inferno Orchestra",
-          "url": "https://open.spotify.com/artist/3OOEKzLNBzkeQWCKun4UXe"
-        }
-      ],
-      "duration_ms": 314445,
-      "name": "Harmony - Original Mix",
-      "url": "https://open.spotify.com/track/1sWLKYeMhFOUd7QjVbxbK3"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Hold Me To The Light",
         "url": "https://open.spotify.com/album/0Z9BaFHQjPMDOwAUXh32zI"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 474142,
       "name": "The Hymn Of Fallen Dreams",
       "url": "https://open.spotify.com/track/5o6XskFbO8jYabXJZIah8l"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Where Will You Be Spending Eternity?",
+        "url": "https://open.spotify.com/album/13iR44I1vESNGv6QTn4Wwi"
+      },
+      "artists": [
+        {
+          "name": "Francis Inferno Orchestra",
+          "url": "https://open.spotify.com/artist/3OOEKzLNBzkeQWCKun4UXe"
+        }
+      ],
+      "duration_ms": 314445,
+      "name": "Harmony - Original Mix",
+      "url": "https://open.spotify.com/track/1sWLKYeMhFOUd7QjVbxbK3"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Aerial",
-        "url": "https://open.spotify.com/album/3uV2tuCayo5bl19yAPav89"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9pe",
-          "url": "https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ"
-        }
-      ],
-      "duration_ms": 369714,
-      "name": "As Long as There's Sunset",
-      "url": "https://open.spotify.com/track/5eQ2YObncpEg7yizNJFQsW"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Kill Frenzy",
         "url": "https://open.spotify.com/album/5K9V9bm1Bn9xVviaCP5f0w"
       },
@@ -1131,22 +1115,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Sky Float Sun",
-        "url": "https://open.spotify.com/album/2xR9QSV1W0k66tMeJXryVb"
+        "name": "Aerial",
+        "url": "https://open.spotify.com/album/3uV2tuCayo5bl19yAPav89"
       },
       "artists": [
         {
-          "name": "Rocket Empire",
-          "url": "https://open.spotify.com/artist/4XxZO3UUtjqRXsgdI5xP82"
-        },
-        {
-          "name": "Amber Sparks",
-          "url": "https://open.spotify.com/artist/5mDDR4HRXvdTiUB7fJBqNf"
+          "name": "P\u00e9pe",
+          "url": "https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ"
         }
       ],
-      "duration_ms": 331203,
-      "name": "Bonder",
-      "url": "https://open.spotify.com/track/6ZON96MRRR798zmyuZHxQR"
+      "duration_ms": 369714,
+      "name": "As Long as There's Sunset",
+      "url": "https://open.spotify.com/track/5eQ2YObncpEg7yizNJFQsW"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1167,6 +1147,26 @@
       "duration_ms": 330145,
       "name": "Occasional Magic - Ulrich Schnauss Remix",
       "url": "https://open.spotify.com/track/4cVbjycdaVOrQUPtn7zauc"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Sky Float Sun",
+        "url": "https://open.spotify.com/album/2xR9QSV1W0k66tMeJXryVb"
+      },
+      "artists": [
+        {
+          "name": "Rocket Empire",
+          "url": "https://open.spotify.com/artist/4XxZO3UUtjqRXsgdI5xP82"
+        },
+        {
+          "name": "Amber Sparks",
+          "url": "https://open.spotify.com/artist/5mDDR4HRXvdTiUB7fJBqNf"
+        }
+      ],
+      "duration_ms": 331203,
+      "name": "Bonder",
+      "url": "https://open.spotify.com/track/6ZON96MRRR798zmyuZHxQR"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1323,24 +1323,24 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "In search of Moksha... Or something of the kind",
-        "url": "https://open.spotify.com/album/1ZYN9az0XRYYi3sGRt836S"
+        "name": "A Slice of'' Heaven'' EP",
+        "url": "https://open.spotify.com/album/2pU6NoEXYQq2bv27p82faA"
       },
       "artists": [
         {
-          "name": "Aron Estocolmo",
-          "url": "https://open.spotify.com/artist/2QU3bcawUYfHbcPmWPHtra"
+          "name": "Baba Stiltz",
+          "url": "https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF"
         }
       ],
-      "duration_ms": 397894,
-      "name": "The Ganga river unpolluted once more",
-      "url": "https://open.spotify.com/track/4eFT4z7SXuDNzU9erIH9Ki"
+      "duration_ms": 447340,
+      "name": "Beirut",
+      "url": "https://open.spotify.com/track/3Yfs5ZmkP7FgMzREvrgS07"
     },
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Nature Boy",
-        "url": "https://open.spotify.com/album/4SJLeiw3U7Dw4Gj9sp9yUB"
+        "name": "The Two of Us",
+        "url": "https://open.spotify.com/album/0TA4nUzkgQcOO6P6YyHP29"
       },
       "artists": [
         {
@@ -1348,9 +1348,9 @@
           "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
         }
       ],
-      "duration_ms": 401084,
-      "name": "Godt Begyndt",
-      "url": "https://open.spotify.com/track/2g7kwYBHS4lQ7ZBeFVOFSD"
+      "duration_ms": 344978,
+      "name": "Trivia",
+      "url": "https://open.spotify.com/track/3RdmKETgOJTBvNH8DBH5ND"
     },
     {
       "added_at": "2022-07-15 17:34:15",

@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: Andrea Bejar",
-  "num_followers": 747732,
+  "num_followers": 747741,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAwNzUzMywwMDAwMDAwMGE0Nzg3NDk4ZTIzY2I1YzFlZjcxY2M3NjhiMTgwNWVm",
+  "snapshot_id": "MTY4MjAwNzUzMywwMDAwMDAwMDJmMTI0NDA3OGUwYzg3YjA5Mzk5ZjM1ODI5NmU3OTE0",
   "tracks": [
     {
       "added_at": "2023-04-20 16:18:53",
@@ -115,6 +115,22 @@
     {
       "added_at": "2023-04-20 16:18:53",
       "album": {
+        "name": "Dancing In The Courthouse",
+        "url": "https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 157563,
+      "name": "Dancing In The Courthouse",
+      "url": "https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ"
+    },
+    {
+      "added_at": "2023-04-20 16:18:53",
+      "album": {
         "name": "Red Moon In Venus",
         "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 150699,
       "name": "Worth the Wait (feat. Omar Apollo)",
       "url": "https://open.spotify.com/track/6V91Cctseyb8yz67YQMDw3"
-    },
-    {
-      "added_at": "2023-04-20 16:18:53",
-      "album": {
-        "name": "Dancing In The Courthouse",
-        "url": "https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 157563,
-      "name": "Dancing In The Courthouse",
-      "url": "https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ"
     },
     {
       "added_at": "2023-04-20 16:18:53",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-04-20 16:18:53",
       "album": {
+        "name": "SI ME ELEVO",
+        "url": "https://open.spotify.com/album/5x1uFs84xX2MnzCaB7Uvkr"
+      },
+      "artists": [
+        {
+          "name": "Vivi K",
+          "url": "https://open.spotify.com/artist/4WSOtiDdjEIvAAK6HqvdUg"
+        }
+      ],
+      "duration_ms": 142222,
+      "name": "te di mi luz",
+      "url": "https://open.spotify.com/track/66xdsJEW1KSeWi2rFmB7QF"
+    },
+    {
+      "added_at": "2023-04-20 16:18:53",
+      "album": {
         "name": "\u00bfC\u00f3mo sonar\u00eda un disco?",
         "url": "https://open.spotify.com/album/5ceNhJg1s3D5sm49J9kLHI"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 176727,
       "name": "Dame Guerra",
       "url": "https://open.spotify.com/track/1gmfe3QPovAq7jvHXGwXEa"
-    },
-    {
-      "added_at": "2023-04-20 16:18:53",
-      "album": {
-        "name": "SI ME ELEVO",
-        "url": "https://open.spotify.com/album/5x1uFs84xX2MnzCaB7Uvkr"
-      },
-      "artists": [
-        {
-          "name": "Vivi K",
-          "url": "https://open.spotify.com/artist/4WSOtiDdjEIvAAK6HqvdUg"
-        }
-      ],
-      "duration_ms": 142222,
-      "name": "te di mi luz",
-      "url": "https://open.spotify.com/track/66xdsJEW1KSeWi2rFmB7QF"
     },
     {
       "added_at": "2023-04-20 16:18:53",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-04-20 16:18:53",
       "album": {
-        "name": "Futuro",
-        "url": "https://open.spotify.com/album/3f1hF4eTrVUq71O4Nj0Puf"
-      },
-      "artists": [
-        {
-          "name": "COASTCITY",
-          "url": "https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj"
-        }
-      ],
-      "duration_ms": 242374,
-      "name": "Futuro",
-      "url": "https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT"
-    },
-    {
-      "added_at": "2023-04-20 16:18:53",
-      "album": {
         "name": "L\u00ednea Recta",
         "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 182760,
       "name": "Pasatiempo",
       "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
+    },
+    {
+      "added_at": "2023-04-20 16:18:53",
+      "album": {
+        "name": "Futuro",
+        "url": "https://open.spotify.com/album/3f1hF4eTrVUq71O4Nj0Puf"
+      },
+      "artists": [
+        {
+          "name": "COASTCITY",
+          "url": "https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj"
+        }
+      ],
+      "duration_ms": 242374,
+      "name": "Futuro",
+      "url": "https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT"
     },
     {
       "added_at": "2023-04-20 16:18:53",

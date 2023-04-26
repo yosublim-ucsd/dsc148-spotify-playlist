@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Rodrigo
 
-316 songs - 20 hr 40 min
+317 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,9 +147,10 @@
 | [Los Gatos No Ladran](https://open.spotify.com/track/2ECZISNOHLHKYEtl9oK8aF) | [Chipote](https://open.spotify.com/artist/6zuShqSKzYP7ZPGMkMFhbL) | [Atado a un Sentimiento](https://open.spotify.com/album/3hNqD2OaRuOpj9EWUw7pSS) | 3:58 | 2021-12-24 | 2022-07-07 |
 | [Los Infieles](https://open.spotify.com/track/7hIytqIz9AKgutgikzrQij) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e) | [Pleno](https://open.spotify.com/album/0ZSwCQoWXkBeDIGphjawWr) | 3:29 | 2021-12-24 | 2022-10-21 |
 | [Los Que Quieran Bailar / Hasta Volverme Loco / Eres Mí Condena \- En Vivo](https://open.spotify.com/track/2QE1uJUwGHsQPqJPgoMgsm) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Aquí y Ahora \(En Vivo\)](https://open.spotify.com/album/3zURDmdkMgq7fWMwcX9u0d) | 5:29 | 2022-01-14 | 2022-05-29 |
-| [Luna En Capricornio](https://open.spotify.com/track/08gFXg5f9sbvI76AiXHquF) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Luna En Capricornio](https://open.spotify.com/album/34uPUL6FICdnyNOULxTuEe) | 2:59 | 2022-03-18 |  |
+| [Luna En Capricornio](https://open.spotify.com/track/08gFXg5f9sbvI76AiXHquF) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Luna En Capricornio](https://open.spotify.com/album/34uPUL6FICdnyNOULxTuEe) | 2:59 | 2022-03-18 | 2023-04-26 |
 | [Maldito Coche Negro](https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8) | [El Turco Oliva](https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI) | [Con Piel de Cuarteto](https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh) | 3:56 | 2021-12-24 |  |
 | [Manos de Tijera \- En Vivo](https://open.spotify.com/track/3p1VmY21fzMIYq29YVsjWo) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Manos de Tijera \(En Vivo\)](https://open.spotify.com/album/3Hl655PnrXY7j3hC35xN75) | 4:18 | 2021-12-24 | 2023-04-25 |
+| [Mañana sin vos](https://open.spotify.com/track/0yDCUzTHRAmNSnMeCLPSgi) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Con Toda la Fuerza](https://open.spotify.com/album/5SoB5nPoVk5AOia9c6Uux7) | 3:07 | 2023-04-24 |  |
 | [Mañana Sin Vos](https://open.spotify.com/track/4QfmLUhVYZgykeLHBYLbVf) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Con Toda la Fuerza](https://open.spotify.com/album/2p0R3kADOsiFUc8gsTlmmq) | 3:07 | 2022-01-10 | 2022-07-15 |
 | [Me Dicen Borracho](https://open.spotify.com/track/5DZlKZkHLdm9tyhyMgpaZV) | [Algarabía](https://open.spotify.com/artist/64aQuroWfgnTEBQwcyjScT) | [Me Dicen Borracho](https://open.spotify.com/album/0i9WLDhwhlNA2O8uwgKQqx) | 2:35 | 2022-07-22 | 2022-08-06 |
 | [Me Duele Tu Nombre](https://open.spotify.com/track/1T0MhnxdYXhNeNWdN11URG) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Me Duele Tu Nombre](https://open.spotify.com/album/3i1wmxwFGxr7pbexPueBB2) | 4:56 | 2021-12-24 | 2022-07-29 |

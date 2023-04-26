@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 14748,
+  "num_followers": 14864,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYwODc0MCwwMDAwMDAwMDQ5MTlhMWE4ZTdmNzMyYjMyMzdkM2Q1OWNlMGFjNWNm",
+  "snapshot_id": "MTY3OTYwODc0MCwwMDAwMDAwMGVlNjJlMjQ1N2I0MzhjMTQ2ZDYwMmY3MmEwNDgyYjll",
   "tracks": [
     {
       "added_at": "2023-03-23 21:59:00",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
+        "name": "Synonymous",
+        "url": "https://open.spotify.com/album/1bIDXVdqamnZD89I6UgN55"
+      },
+      "artists": [
+        {
+          "name": "STI T's Soul",
+          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+        }
+      ],
+      "duration_ms": 412813,
+      "name": "Synonymous",
+      "url": "https://open.spotify.com/track/3rYWLCEfiqj76hlGOXKiWu"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
         "name": "Confindent",
         "url": "https://open.spotify.com/album/7JrsF96D0q5Zm9tEoqMG0u"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 463348,
       "name": "Confident - China The Charmeleon The Animal Remix",
       "url": "https://open.spotify.com/track/4ZMAP1fr4QvcIfF0B440MZ"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
-        "name": "Synonymous",
-        "url": "https://open.spotify.com/album/1bIDXVdqamnZD89I6UgN55"
-      },
-      "artists": [
-        {
-          "name": "STI T's Soul",
-          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
-        }
-      ],
-      "duration_ms": 412813,
-      "name": "Synonymous",
-      "url": "https://open.spotify.com/track/3rYWLCEfiqj76hlGOXKiWu"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
+        "name": "Revolver, Vol. 3 (Compiled)",
+        "url": "https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6"
+      },
+      "artists": [
+        {
+          "name": "STI T's Soul",
+          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+        }
+      ],
+      "duration_ms": 419010,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
         "name": "OVGSREPUBLIC",
         "url": "https://open.spotify.com/album/68iZB3kblhvJPNwRztRQLE"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 366217,
       "name": "With You",
       "url": "https://open.spotify.com/track/63haVmKN5Arr9MgN1z6Qdw"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
-        "name": "Revolver, Vol. 3 (Compiled)",
-        "url": "https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6"
-      },
-      "artists": [
-        {
-          "name": "STI T's Soul",
-          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
-        }
-      ],
-      "duration_ms": 419010,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "Dafrotone",
-        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
-      },
-      "artists": [
-        {
-          "name": "Dafro",
-          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
-        }
-      ],
-      "duration_ms": 453453,
-      "name": "Four Lessons",
-      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
         "name": "Old but New Last Episode",
         "url": "https://open.spotify.com/album/6Y1u7IbxK8uufy9akyjbv4"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "I Am Jazz",
-        "url": "https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN"
+        "name": "Dafrotone",
+        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
       },
       "artists": [
         {
-          "name": "beatsbyhand",
-          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
+          "name": "Dafro",
+          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
         }
       ],
-      "duration_ms": 402782,
-      "name": "Gotsom",
-      "url": "https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee"
+      "duration_ms": 453453,
+      "name": "Four Lessons",
+      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -727,6 +711,22 @@
       "duration_ms": 402788,
       "name": "Eternal Existence - Original Mix",
       "url": "https://open.spotify.com/track/5wUEnoCp5mbXXTAeQjXlsU"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "I Am Jazz",
+        "url": "https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN"
+      },
+      "artists": [
+        {
+          "name": "beatsbyhand",
+          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
+        }
+      ],
+      "duration_ms": 402782,
+      "name": "Gotsom",
+      "url": "https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "Lately I Found Myself",
-        "url": "https://open.spotify.com/album/0mB5VErDZoHjWvzBfqddGP"
-      },
-      "artists": [
-        {
-          "name": "HisKing",
-          "url": "https://open.spotify.com/artist/0j01TxMt3NFKTOCy2ob4Qj"
-        },
-        {
-          "name": "The Poetic Manic",
-          "url": "https://open.spotify.com/artist/56VBl9X48ovh8FBNieoYxF"
-        }
-      ],
-      "duration_ms": 448940,
-      "name": "Lately I Found Myself",
-      "url": "https://open.spotify.com/track/5ZfIMcsmsB5wVnkGh112Bn"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
         "name": "She's On Fire",
         "url": "https://open.spotify.com/album/0OInUG46VSTNd7EolDMGNS"
       },
@@ -843,22 +823,6 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "Artform",
-        "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
-      },
-      "artists": [
-        {
-          "name": "Kek'star",
-          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
-        }
-      ],
-      "duration_ms": 459731,
-      "name": "Flute Activation - Original Mix",
-      "url": "https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
         "name": "We Gonna Fight For Music",
         "url": "https://open.spotify.com/album/5iB4ERgOJHSxDyhLUKIKCb"
       },
@@ -871,6 +835,42 @@
       "duration_ms": 521744,
       "name": "We Gonna Fight For Music",
       "url": "https://open.spotify.com/track/0b59ktQ0M328llm4xZlnsp"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "Lately I Found Myself",
+        "url": "https://open.spotify.com/album/0mB5VErDZoHjWvzBfqddGP"
+      },
+      "artists": [
+        {
+          "name": "HisKing",
+          "url": "https://open.spotify.com/artist/0j01TxMt3NFKTOCy2ob4Qj"
+        },
+        {
+          "name": "The Poetic Manic",
+          "url": "https://open.spotify.com/artist/56VBl9X48ovh8FBNieoYxF"
+        }
+      ],
+      "duration_ms": 448940,
+      "name": "Lately I Found Myself",
+      "url": "https://open.spotify.com/track/5ZfIMcsmsB5wVnkGh112Bn"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "Artform",
+        "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
+      },
+      "artists": [
+        {
+          "name": "Kek'star",
+          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
+        }
+      ],
+      "duration_ms": 459731,
+      "name": "Flute Activation - Original Mix",
+      "url": "https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "Let It Rain",
-        "url": "https://open.spotify.com/album/7gXMf35rmuaFwW1uWG4U0X"
-      },
-      "artists": [
-        {
-          "name": "Mizo4Real",
-          "url": "https://open.spotify.com/artist/0J6MLBtnzv4y28omcmd97Y"
-        }
-      ],
-      "duration_ms": 476630,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/0vj7icU6h87yAnFsHMqaQs"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
         "name": "Seeking",
         "url": "https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 397355,
       "name": "Seeking",
       "url": "https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "Let It Rain",
+        "url": "https://open.spotify.com/album/7gXMf35rmuaFwW1uWG4U0X"
+      },
+      "artists": [
+        {
+          "name": "Mizo4Real",
+          "url": "https://open.spotify.com/artist/0J6MLBtnzv4y28omcmd97Y"
+        }
+      ],
+      "duration_ms": 476630,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/0vj7icU6h87yAnFsHMqaQs"
     },
     {
       "added_at": "2023-03-23 21:59:00",

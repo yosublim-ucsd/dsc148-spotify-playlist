@@ -1,12 +1,12 @@
 {
   "description": "A mega Anime hits mix! \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u306e\u30ed\u30f3\u30b0&\u30e1\u30ac\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u697d\u3057\u3082\u3046\u3002Illustration by <a href=\"https://kazuhisauragami.com/\"> Kazuhisa Uragami</a> ",
-  "num_followers": 436862,
+  "num_followers": 437383,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTI4NTMxMywwMDAwMDAwMDY0MDMxNTU2OTdjNjk1NTNhNzU4YmY1MTg5MWFhMDI5",
+  "snapshot_id": "MTY4MTI4NTMxMywwMDAwMDAwMGM1OGZhMDQ4Y2JmYmYwZDZlNjliODJhMmQxYTU2MzUy",
   "tracks": [
     {
       "added_at": "2023-04-12 07:41:53",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-04-12 07:41:53",
       "album": {
-        "name": "CHAINSAW BLOOD",
-        "url": "https://open.spotify.com/album/6vuTbUMzsnI0ThfnXc4Cjg"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 200997,
-      "name": "CHAINSAW BLOOD",
-      "url": "https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU"
-    },
-    {
-      "added_at": "2023-04-12 07:41:53",
-      "album": {
         "name": "BOOTLEG",
         "url": "https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 238533,
       "name": "\u30d4\u30fc\u30b9\u30b5\u30a4\u30f3",
       "url": "https://open.spotify.com/track/364JzOajs76bJymjHm3sVY"
+    },
+    {
+      "added_at": "2023-04-12 07:41:53",
+      "album": {
+        "name": "CHAINSAW BLOOD",
+        "url": "https://open.spotify.com/album/6vuTbUMzsnI0ThfnXc4Cjg"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 200997,
+      "name": "CHAINSAW BLOOD",
+      "url": "https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU"
     },
     {
       "added_at": "2023-04-12 07:41:53",

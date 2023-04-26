@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-491 songs - 1 day 5 hr 44 min
+492 songs - 1 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Depths \(Pt\. I\)](https://open.spotify.com/track/7v8B1M09vnvymSNGcvGBva) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Depths \(Pt\. I\)](https://open.spotify.com/album/2dlzFbdo8bvUmtJzJReI06) | 2:50 | 2022-03-30 | 2022-04-21 |
 | [Didn't I \(Florent F Rework\)](https://open.spotify.com/track/5dO9U61RjDdPONjwchImNh) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc), [Florent F](https://open.spotify.com/artist/4XnXWl1WsBVbDvkEG9jZij) | [Didn't I \- EP](https://open.spotify.com/album/4ne0arqARv5yfiytCDE2TF) | 3:45 | 2021-12-16 | 2022-07-29 |
 | [Didn't I \- Florent F Rework](https://open.spotify.com/track/3OyOwLshqBHiEOAMBCYQgI) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc), [Florent F](https://open.spotify.com/artist/4XnXWl1WsBVbDvkEG9jZij) | [Didn't I](https://open.spotify.com/album/1U6CE7Xb5wwTQGA6BtUHYJ) | 3:45 | 2022-07-26 |  |
+| [Dive](https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive](https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee) | 3:20 | 2023-04-25 |  |
 | [Don't Ever Wonder](https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6) | [Linae](https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4) | [Don't Ever Wonder](https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG) | 2:27 | 2022-01-21 | 2022-04-21 |
 | [Don't Fight It](https://open.spotify.com/track/4RA9ZpI3j42NUrYl34VUex) | [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [Frontline / Don't Fight It](https://open.spotify.com/album/0cvM4O4eHs6EphNEum0paC) | 3:35 | 2022-03-30 | 2022-04-19 |
 | [Don't You Evah](https://open.spotify.com/track/3UytFqZuZwJFsTPti5gcPB) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Ga Ga Ga Ga Ga \(2017 Remaster\)](https://open.spotify.com/album/3tSpLdSd2zhM0N0aYZd13E) | 3:36 | 2022-03-30 |  |
@@ -148,7 +149,7 @@
 | [Freedom For a Change](https://open.spotify.com/track/2C0uAETVUpvW1DjMsu8xcb) | [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [Freedom For a Change](https://open.spotify.com/album/0zpPgSOoLfGB6IOtFsLuXo) | 2:38 | 2021-12-16 | 2022-07-29 |
 | [Freedom For a Change](https://open.spotify.com/track/6IED3V6GMa9SyP8xwkeqpD) | [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [El Dorado](https://open.spotify.com/album/4sehYh39cQn4y8133SG1En) | 2:38 | 2022-09-08 | 2022-10-04 |
 | [Friends \(feat\. Tom Morello\) \- Tom Misch Remix](https://open.spotify.com/track/3QI6Sp9XnqilIPgXLFQxty) | [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Friends \(Tom Misch Remixes\) \(feat\. Tom Morello\)](https://open.spotify.com/album/2C1NdT1ZhiGcLxnvBSnH2H) | 3:11 | 2022-03-30 | 2022-04-06 |
-| [FYO](https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [FYO](https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1) | 2:44 | 2021-12-16 |  |
+| [FYO](https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [FYO](https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1) | 2:44 | 2021-12-16 | 2023-04-26 |
 | [Geninha](https://open.spotify.com/track/6QR9FB8xvjtxLknolyTnnQ) | [Bango](https://open.spotify.com/artist/0A7ykdqXt8umX4eqzaEmp3) | [Bango](https://open.spotify.com/album/4Mi5L2ArvAdfFUSs8TeXqL) | 3:26 | 2022-03-30 | 2022-04-21 |
 | [Get You Back](https://open.spotify.com/track/6Ecfs0LIfbnRFjBx8dnguQ) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Man About Town](https://open.spotify.com/album/6qOF2qnkC0ci4wAhp3XiKD) | 3:36 | 2022-03-30 | 2022-04-18 |
 | [Girl](https://open.spotify.com/track/3vo0AKUum4US3CoH3fjNEn) | [Girl Ray](https://open.spotify.com/artist/0MoDfakkeeD4FwftxAXwEd) | [Girl](https://open.spotify.com/album/5uToqdsQXa0200HXDFZE9l) | 3:34 | 2021-12-16 | 2022-07-28 |

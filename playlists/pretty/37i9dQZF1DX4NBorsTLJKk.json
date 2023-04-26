@@ -1,12 +1,12 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 30011,
+  "num_followers": 30021,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzMyMDg1NSwwMDAwMDAwMGIxYWU0ZjhhYmEwZGNhNzFhMzMzMGUwM2I3ODZhNDI2",
+  "snapshot_id": "MTY3MzMyMDg1NSwwMDAwMDAwMDBhM2UzZGJhNjcyOWY4NTVmY2JhY2EwNWRhMjM0N2U3",
   "tracks": [
     {
       "added_at": "2023-01-10 03:20:54",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
-        "name": "\u807d\u898b\u4e0b\u96e8\u7684\u8072\u97f3",
-        "url": "https://open.spotify.com/album/5B4YcASgajCBvssOCKyoNk"
-      },
-      "artists": [
-        {
-          "name": "Queen Wei",
-          "url": "https://open.spotify.com/artist/31o2LJ3ZpFgb4WMZzC1gOR"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "\u807d\u898b\u4e0b\u96e8\u7684\u8072\u97f3",
-      "url": "https://open.spotify.com/track/0AoLF8kZSDuMz032j4ZnC0"
-    },
-    {
-      "added_at": "2023-01-10 03:20:54",
-      "album": {
         "name": "\u521d\u5b78\u8005",
         "url": "https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 305262,
       "name": "\u4e0b\u96e8\u4e86",
       "url": "https://open.spotify.com/track/2WbV5lenncUu7VhZThGbjR"
+    },
+    {
+      "added_at": "2023-01-10 03:20:54",
+      "album": {
+        "name": "\u807d\u898b\u4e0b\u96e8\u7684\u8072\u97f3",
+        "url": "https://open.spotify.com/album/5B4YcASgajCBvssOCKyoNk"
+      },
+      "artists": [
+        {
+          "name": "Queen Wei",
+          "url": "https://open.spotify.com/artist/31o2LJ3ZpFgb4WMZzC1gOR"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "\u807d\u898b\u4e0b\u96e8\u7684\u8072\u97f3",
+      "url": "https://open.spotify.com/track/0AoLF8kZSDuMz032j4ZnC0"
     },
     {
       "added_at": "2023-01-10 03:20:54",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
-        "name": "\u9673\u7dba\u8c9e \u7cbe\u9078",
-        "url": "https://open.spotify.com/album/6OEP6qEplZpiSJ4bPzQtAY"
-      },
-      "artists": [
-        {
-          "name": "Cheer Chen",
-          "url": "https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "\u96e8\u5929\u7684\u5c3e\u5df4 - \u6eec\u5c3e\u5c0f\u60c5\u6b4c",
-      "url": "https://open.spotify.com/track/4kDhpezOgkieB3LA0xtL9C"
-    },
-    {
-      "added_at": "2023-01-10 03:20:54",
-      "album": {
         "name": "\u88ab\u96e8\u50b7\u900f (\u5e7e\u7c73\u97f3\u6a02\u5287\u300c\u5411\u5de6\u8d70,\u5411\u53f3\u8d70\u300d\u6b4c\u66f2)",
         "url": "https://open.spotify.com/album/2gpk0phoZ6Vf4jrw4lPgVl"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 252000,
       "name": "\u88ab\u96e8\u50b7\u900f - \u5e7e\u7c73\u97f3\u6a02\u5287\u300c\u5411\u5de6\u8d70,\u5411\u53f3\u8d70\u300d\u6b4c\u66f2",
       "url": "https://open.spotify.com/track/5DzWobny6yP1EzeO9KbqER"
+    },
+    {
+      "added_at": "2023-01-10 03:20:54",
+      "album": {
+        "name": "\u9673\u7dba\u8c9e \u7cbe\u9078",
+        "url": "https://open.spotify.com/album/6OEP6qEplZpiSJ4bPzQtAY"
+      },
+      "artists": [
+        {
+          "name": "Cheer Chen",
+          "url": "https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "\u96e8\u5929\u7684\u5c3e\u5df4 - \u6eec\u5c3e\u5c0f\u60c5\u6b4c",
+      "url": "https://open.spotify.com/track/4kDhpezOgkieB3LA0xtL9C"
     },
     {
       "added_at": "2023-01-10 03:20:54",
@@ -919,34 +919,18 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
-        "name": "When I Leave Taipei",
-        "url": "https://open.spotify.com/album/4Q7lWTYxppgchu3kJ3lcwp"
+        "name": "\u7a81\u7136\u4e00\u573a\u96e8",
+        "url": "https://open.spotify.com/album/48rqlfLOf9zWKJwNWy1XT8"
       },
       "artists": [
         {
-          "name": "\u912d\u8208",
-          "url": "https://open.spotify.com/artist/5zawO99pOdAzrwyJSSu5qE"
+          "name": "\u84dd\u5fc3\u7fbd",
+          "url": "https://open.spotify.com/artist/5IUx51U4VsEk4wGQvZQcf2"
         }
       ],
-      "duration_ms": 274212,
-      "name": "Rain in Taipei",
-      "url": "https://open.spotify.com/track/2lrNjDXlD2GKjGR93U26ZN"
-    },
-    {
-      "added_at": "2023-01-10 03:20:54",
-      "album": {
-        "name": "SINGING IN THE RAIN",
-        "url": "https://open.spotify.com/album/74kYd0GlI6TQ9zurIWfN70"
-      },
-      "artists": [
-        {
-          "name": "Rainie Yang",
-          "url": "https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk"
-        }
-      ],
-      "duration_ms": 228088,
-      "name": "SINGING IN THE RAIN",
-      "url": "https://open.spotify.com/track/1P5tiSLIE2Kp6rpOLMSJXZ"
+      "duration_ms": 230697,
+      "name": "\u7a81\u7136\u4e00\u573a\u96e8",
+      "url": "https://open.spotify.com/track/1Z1c78c36euKv0HM8gRZ3r"
     },
     {
       "added_at": "2023-01-10 03:20:54",
@@ -967,18 +951,34 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
-        "name": "\u7fca\u5f80\u60c5\u6df1",
-        "url": "https://open.spotify.com/album/0TKfNt0Mr56TJtBKMOPSHQ"
+        "name": "SINGING IN THE RAIN",
+        "url": "https://open.spotify.com/album/74kYd0GlI6TQ9zurIWfN70"
       },
       "artists": [
         {
-          "name": "E-Jun Lee",
-          "url": "https://open.spotify.com/artist/39YbP9PakVwqfXFtRdn5vI"
+          "name": "Rainie Yang",
+          "url": "https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk"
         }
       ],
-      "duration_ms": 249293,
-      "name": "\u51b0\u96e8",
-      "url": "https://open.spotify.com/track/4N3WwdlmKij0R0fd02Ykli"
+      "duration_ms": 228088,
+      "name": "SINGING IN THE RAIN",
+      "url": "https://open.spotify.com/track/1P5tiSLIE2Kp6rpOLMSJXZ"
+    },
+    {
+      "added_at": "2023-01-10 03:20:54",
+      "album": {
+        "name": "When I Leave Taipei",
+        "url": "https://open.spotify.com/album/4Q7lWTYxppgchu3kJ3lcwp"
+      },
+      "artists": [
+        {
+          "name": "\u912d\u8208",
+          "url": "https://open.spotify.com/artist/5zawO99pOdAzrwyJSSu5qE"
+        }
+      ],
+      "duration_ms": 274212,
+      "name": "Rain in Taipei",
+      "url": "https://open.spotify.com/track/2lrNjDXlD2GKjGR93U26ZN"
     },
     {
       "added_at": "2023-01-10 03:20:54",
@@ -1011,6 +1011,22 @@
       "duration_ms": 247164,
       "name": "\u5927\u96e8\u904e\u5f8c",
       "url": "https://open.spotify.com/track/6x0lsSLEaMb3LhoLBEK97h"
+    },
+    {
+      "added_at": "2023-01-10 03:20:54",
+      "album": {
+        "name": "\u7fca\u5f80\u60c5\u6df1",
+        "url": "https://open.spotify.com/album/0TKfNt0Mr56TJtBKMOPSHQ"
+      },
+      "artists": [
+        {
+          "name": "E-Jun Lee",
+          "url": "https://open.spotify.com/artist/39YbP9PakVwqfXFtRdn5vI"
+        }
+      ],
+      "duration_ms": 249293,
+      "name": "\u51b0\u96e8",
+      "url": "https://open.spotify.com/track/4N3WwdlmKij0R0fd02Ykli"
     },
     {
       "added_at": "2023-01-10 03:20:54",
@@ -1111,18 +1127,18 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
-        "name": "\u7a81\u7136\u4e00\u573a\u96e8",
-        "url": "https://open.spotify.com/album/48rqlfLOf9zWKJwNWy1XT8"
+        "name": "\u7d2b\u5916\u7dda",
+        "url": "https://open.spotify.com/album/31D16NvXqqIEXgVyJ9t9G7"
       },
       "artists": [
         {
-          "name": "\u84dd\u5fc3\u7fbd",
-          "url": "https://open.spotify.com/artist/5IUx51U4VsEk4wGQvZQcf2"
+          "name": "\u8521\u8a69\u8553",
+          "url": "https://open.spotify.com/artist/5gIoOoGK5jxeB3piPAnENq"
         }
       ],
-      "duration_ms": 230697,
-      "name": "\u7a81\u7136\u4e00\u573a\u96e8",
-      "url": "https://open.spotify.com/track/1Z1c78c36euKv0HM8gRZ3r"
+      "duration_ms": 241853,
+      "name": "\u96e8\u8072\u8857",
+      "url": "https://open.spotify.com/track/3IdOjfIldeOXC8ZcSiQ6Rc"
     },
     {
       "added_at": "2023-01-10 03:20:54",
@@ -1143,18 +1159,18 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
-        "name": "\u7d2b\u5916\u7dda",
-        "url": "https://open.spotify.com/album/31D16NvXqqIEXgVyJ9t9G7"
+        "name": "\u5fc3\u9748\u611f\u61c9",
+        "url": "https://open.spotify.com/album/5IwnwzK6VmLCP6kFubDN8l"
       },
       "artists": [
         {
-          "name": "\u8521\u8a69\u8553",
-          "url": "https://open.spotify.com/artist/5gIoOoGK5jxeB3piPAnENq"
+          "name": "\u4f9d\u931a\u4f9d\u975c",
+          "url": "https://open.spotify.com/artist/4TzVVyHE0QPx5f8e4AQfZ8"
         }
       ],
-      "duration_ms": 241853,
-      "name": "\u96e8\u8072\u8857",
-      "url": "https://open.spotify.com/track/3IdOjfIldeOXC8ZcSiQ6Rc"
+      "duration_ms": 100027,
+      "name": "\u96e8\u5929\u7df4\u7fd2",
+      "url": "https://open.spotify.com/track/2DOi724KaHE6Ymcxs1Skut"
     },
     {
       "added_at": "2023-01-10 03:20:54",
@@ -1171,22 +1187,6 @@
       "duration_ms": 250560,
       "name": "\u5c0f\u96e8",
       "url": "https://open.spotify.com/track/0bO7061F8NRnHMsZ88tRM3"
-    },
-    {
-      "added_at": "2023-01-10 03:20:54",
-      "album": {
-        "name": "\u5fc3\u9748\u611f\u61c9",
-        "url": "https://open.spotify.com/album/5IwnwzK6VmLCP6kFubDN8l"
-      },
-      "artists": [
-        {
-          "name": "\u4f9d\u931a\u4f9d\u975c",
-          "url": "https://open.spotify.com/artist/4TzVVyHE0QPx5f8e4AQfZ8"
-        }
-      ],
-      "duration_ms": 100027,
-      "name": "\u96e8\u5929\u7df4\u7fd2",
-      "url": "https://open.spotify.com/track/2DOi724KaHE6Ymcxs1Skut"
     },
     {
       "added_at": "2023-01-10 03:20:54",

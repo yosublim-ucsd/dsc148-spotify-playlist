@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Los Aptos & DannyLux en portada.",
-  "num_followers": 53121,
+  "num_followers": 53161,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMDRmMDcyMmE4MGRkOTc0OTBlOTgwMjVhYTZhZDc4NDAw",
+  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMDIwYTdkZjcwYzU0NDJkNDI0ZjJhOGU4MTJkNzAxZGEx",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -625,22 +625,6 @@
       "url": "https://open.spotify.com/track/4H0yOcYBXifXCj1T7xvGJJ"
     },
     {
-      "added_at": "2023-02-24 06:00:00",
-      "album": {
-        "name": "En La Silverado",
-        "url": "https://open.spotify.com/album/1x92lDuGuSiZ4tsSXbIaMi"
-      },
-      "artists": [
-        {
-          "name": "Ruben Figueroa",
-          "url": "https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg"
-        }
-      ],
-      "duration_ms": 170922,
-      "name": "En La Silverado",
-      "url": "https://open.spotify.com/track/3PIW7q3bP7X7v1MklN8OyZ"
-    },
-    {
       "added_at": "2023-04-14 06:00:00",
       "album": {
         "name": "El Rayo (En Vivo)",
@@ -667,6 +651,22 @@
       "duration_ms": 226750,
       "name": "El Rayo - En Vivo",
       "url": "https://open.spotify.com/track/1dYqyMhfDHqM7bg86LaBuP"
+    },
+    {
+      "added_at": "2023-02-24 06:00:00",
+      "album": {
+        "name": "En La Silverado",
+        "url": "https://open.spotify.com/album/1x92lDuGuSiZ4tsSXbIaMi"
+      },
+      "artists": [
+        {
+          "name": "Ruben Figueroa",
+          "url": "https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg"
+        }
+      ],
+      "duration_ms": 170922,
+      "name": "En La Silverado",
+      "url": "https://open.spotify.com/track/3PIW7q3bP7X7v1MklN8OyZ"
     },
     {
       "added_at": "2023-02-24 06:00:00",
@@ -805,26 +805,6 @@
       "url": "https://open.spotify.com/track/63I3KP3FbfAztF5R8Kw5Td"
     },
     {
-      "added_at": "2023-02-24 06:00:00",
-      "album": {
-        "name": "Un Gallito",
-        "url": "https://open.spotify.com/album/5YmoiDDH7cL9R1DA1W1iGZ"
-      },
-      "artists": [
-        {
-          "name": "George Rhoads",
-          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
-        },
-        {
-          "name": "Nico Orozco",
-          "url": "https://open.spotify.com/artist/6FK625Yp4c5CpB2h5A7Qhe"
-        }
-      ],
-      "duration_ms": 182453,
-      "name": "Un Gallito",
-      "url": "https://open.spotify.com/track/05zSBtOKH2ROvTGq1cQs6s"
-    },
-    {
       "added_at": "2023-04-14 06:00:00",
       "album": {
         "name": "El Sello Adixion",
@@ -847,6 +827,26 @@
       "duration_ms": 176720,
       "name": "El Sello Adixion",
       "url": "https://open.spotify.com/track/2v6sGn3VKqssfoKQmhvwf7"
+    },
+    {
+      "added_at": "2023-02-24 06:00:00",
+      "album": {
+        "name": "Un Gallito",
+        "url": "https://open.spotify.com/album/5YmoiDDH7cL9R1DA1W1iGZ"
+      },
+      "artists": [
+        {
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        },
+        {
+          "name": "Nico Orozco",
+          "url": "https://open.spotify.com/artist/6FK625Yp4c5CpB2h5A7Qhe"
+        }
+      ],
+      "duration_ms": 182453,
+      "name": "Un Gallito",
+      "url": "https://open.spotify.com/track/05zSBtOKH2ROvTGq1cQs6s"
     },
     {
       "added_at": "2023-02-24 06:00:00",
@@ -1065,6 +1065,22 @@
       "url": "https://open.spotify.com/track/0awei0Aq8SnWERdWxG70zf"
     },
     {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Me preguntHan",
+        "url": "https://open.spotify.com/album/1KjPzLdoQAHK72HWd4GId7"
+      },
+      "artists": [
+        {
+          "name": "David Ornelas",
+          "url": "https://open.spotify.com/artist/0z2TqgHJgpKgAuArw50eiq"
+        }
+      ],
+      "duration_ms": 228500,
+      "name": "Me preguntHan",
+      "url": "https://open.spotify.com/track/4EVUrEnwnNxxEF7sKRAW7p"
+    },
+    {
       "added_at": "2023-02-24 06:00:00",
       "album": {
         "name": "De La Nada",
@@ -1083,22 +1099,6 @@
       "duration_ms": 264003,
       "name": "De La Nada",
       "url": "https://open.spotify.com/track/6v9NpFk0H4fGGW1Rr1xV82"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Me preguntHan",
-        "url": "https://open.spotify.com/album/1KjPzLdoQAHK72HWd4GId7"
-      },
-      "artists": [
-        {
-          "name": "David Ornelas",
-          "url": "https://open.spotify.com/artist/0z2TqgHJgpKgAuArw50eiq"
-        }
-      ],
-      "duration_ms": 228500,
-      "name": "Me preguntHan",
-      "url": "https://open.spotify.com/track/4EVUrEnwnNxxEF7sKRAW7p"
     },
     {
       "added_at": "2023-02-24 06:00:00",
