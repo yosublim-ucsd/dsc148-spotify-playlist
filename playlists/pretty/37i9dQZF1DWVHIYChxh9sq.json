@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Grupo Recluta y Adrian Chaparro",
-  "num_followers": 51732,
+  "num_followers": 51790,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzMzk5MiwwMDAwMDAwMDg0ZDI1NmQyZDc5MmQ1YzFiYzY5NTc2NTM5ZDNhMTlm",
+  "snapshot_id": "MTY3OTAzMzk5MiwwMDAwMDAwMGMwY2FiNWU2MDJhMjE4MjhhNGEzZDIyZTQzMjZkNzBj",
   "tracks": [
     {
       "added_at": "2023-03-17 06:19:52",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
+        "name": "El Buho",
+        "url": "https://open.spotify.com/album/2Xuu8wGSDeBPCzhYJtMExb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 176703,
+      "name": "El Buho",
+      "url": "https://open.spotify.com/track/1quaoU1wjFHLkDXC3bNghk"
+    },
+    {
+      "added_at": "2023-03-17 06:19:52",
+      "album": {
         "name": "Belico El Asunto (En Vivo)",
         "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 208680,
       "name": "Belico El Asunto (En Vivo)",
       "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
-    },
-    {
-      "added_at": "2023-03-17 06:19:52",
-      "album": {
-        "name": "El Buho",
-        "url": "https://open.spotify.com/album/2Xuu8wGSDeBPCzhYJtMExb"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 176703,
-      "name": "El Buho",
-      "url": "https://open.spotify.com/track/1quaoU1wjFHLkDXC3bNghk"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -931,26 +931,6 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
-        "name": "Malas Rachas (En Vivo)",
-        "url": "https://open.spotify.com/album/6RQExWvMa6De96hdwfxdDi"
-      },
-      "artists": [
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 256754,
-      "name": "Malas Rachas (En Vivo)",
-      "url": "https://open.spotify.com/track/3tJgIzFi8JfNNr2SukMISp"
-    },
-    {
-      "added_at": "2023-03-17 06:19:52",
-      "album": {
         "name": "Agachadita",
         "url": "https://open.spotify.com/album/5c9O4aceHfVDbEq8DKEGuY"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 195024,
       "name": "Agachadita",
       "url": "https://open.spotify.com/track/2nwiohQG9DROhzlgZlXPSK"
+    },
+    {
+      "added_at": "2023-03-17 06:19:52",
+      "album": {
+        "name": "Malas Rachas (En Vivo)",
+        "url": "https://open.spotify.com/album/6RQExWvMa6De96hdwfxdDi"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 256754,
+      "name": "Malas Rachas (En Vivo)",
+      "url": "https://open.spotify.com/track/3tJgIzFi8JfNNr2SukMISp"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
-        "name": "Pasado Pisado (En Vivo)",
-        "url": "https://open.spotify.com/album/3LQdXD28CDOMZsera2xIhw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 156597,
-      "name": "Pasado Pisado (En Vivo)",
-      "url": "https://open.spotify.com/track/60JPfps8dyCRG9s5sKM0Xm"
-    },
-    {
-      "added_at": "2023-03-17 06:19:52",
-      "album": {
         "name": "El Mensaje",
         "url": "https://open.spotify.com/album/4boHu426ldWkKuKjrDq4Mv"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 193840,
       "name": "El Mensaje",
       "url": "https://open.spotify.com/track/0kI4ECAdY6qItGhPa3TgJy"
+    },
+    {
+      "added_at": "2023-03-17 06:19:52",
+      "album": {
+        "name": "Pasado Pisado (En Vivo)",
+        "url": "https://open.spotify.com/album/3LQdXD28CDOMZsera2xIhw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 156597,
+      "name": "Pasado Pisado (En Vivo)",
+      "url": "https://open.spotify.com/track/60JPfps8dyCRG9s5sKM0Xm"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis"
+        }
+      ],
+      "duration_ms": 201084,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
+    },
+    {
+      "added_at": "2023-03-17 06:19:52",
+      "album": {
         "name": "En Vivo con Tololoche Vol. 1",
         "url": "https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 183893,
       "name": "No Me Ense\u00f1aste",
       "url": "https://open.spotify.com/track/6iuhmVeGj7e7hfkOhqzdnF"
-    },
-    {
-      "added_at": "2023-03-17 06:19:52",
-      "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
-      },
-      "artists": [
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis"
-        }
-      ],
-      "duration_ms": 201084,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
-        "name": "Lives Pa' la Raza",
-        "url": "https://open.spotify.com/album/5yMgi325xqK2QyENnFzCHU"
-      },
-      "artists": [
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
-        }
-      ],
-      "duration_ms": 236945,
-      "name": "El Viajecito",
-      "url": "https://open.spotify.com/track/5a8BD719zyuFnj4b0vDh6o"
-    },
-    {
-      "added_at": "2023-03-17 06:19:52",
-      "album": {
         "name": "Recuerdos Para Pistear (En Vivo)",
         "url": "https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 202149,
       "name": "Por Que Te Vas De Mi - En Vivo",
       "url": "https://open.spotify.com/track/17gXGLgaVeONySly2voFIY"
+    },
+    {
+      "added_at": "2023-03-17 06:19:52",
+      "album": {
+        "name": "Lives Pa' la Raza",
+        "url": "https://open.spotify.com/album/5yMgi325xqK2QyENnFzCHU"
+      },
+      "artists": [
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+        }
+      ],
+      "duration_ms": 236945,
+      "name": "El Viajecito",
+      "url": "https://open.spotify.com/track/5a8BD719zyuFnj4b0vDh6o"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -1535,18 +1535,22 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
-        "name": "Una Copa Por Cada Reina",
-        "url": "https://open.spotify.com/album/5QGlAMO6nrRusU6c1XfjU0"
+        "name": "Las Pisteadas del Vago",
+        "url": "https://open.spotify.com/album/6HgKRMle8Q9mVa3Wvot63t"
       },
       "artists": [
         {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        },
+        {
+          "name": "Grupo X30",
+          "url": "https://open.spotify.com/artist/3q5RR1RLDShDlGMYRr8t4B"
         }
       ],
-      "duration_ms": 226466,
-      "name": "Lo Siento Mi Amor",
-      "url": "https://open.spotify.com/track/62I0X7wop9jcj9MpDQvv5U"
+      "duration_ms": 285570,
+      "name": "Las Pisteadas del Vago",
+      "url": "https://open.spotify.com/track/5dHdsHTnQuiiUm9lbRpdKy"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -1567,22 +1571,18 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
-        "name": "Las Pisteadas del Vago",
-        "url": "https://open.spotify.com/album/6HgKRMle8Q9mVa3Wvot63t"
+        "name": "Una Copa Por Cada Reina",
+        "url": "https://open.spotify.com/album/5QGlAMO6nrRusU6c1XfjU0"
       },
       "artists": [
         {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
-        },
-        {
-          "name": "Grupo X30",
-          "url": "https://open.spotify.com/artist/3q5RR1RLDShDlGMYRr8t4B"
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
         }
       ],
-      "duration_ms": 285570,
-      "name": "Las Pisteadas del Vago",
-      "url": "https://open.spotify.com/track/5dHdsHTnQuiiUm9lbRpdKy"
+      "duration_ms": 226466,
+      "name": "Lo Siento Mi Amor",
+      "url": "https://open.spotify.com/track/62I0X7wop9jcj9MpDQvv5U"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -1999,22 +1999,18 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
-        "name": "Con Amigos y La Banda Vol.1 (En Vivo)",
-        "url": "https://open.spotify.com/album/3VuqUe1TDvhAKzRAxUSw5b"
+        "name": "En Vivo Con Tololoche",
+        "url": "https://open.spotify.com/album/5CbJZFr5frpDDgKoVxO7ma"
       },
       "artists": [
         {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        },
-        {
-          "name": "El Bala",
-          "url": "https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY"
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 213087,
-      "name": "Fino Ranchero - En Vivo",
-      "url": "https://open.spotify.com/track/6XCOR9Rs01PBQrVxI7nXxa"
+      "duration_ms": 211945,
+      "name": "Hace Un A\u00f1o - En Vivo",
+      "url": "https://open.spotify.com/track/1vldXJyBmGmkNCvbH9uNif"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -2039,18 +2035,22 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
-        "name": "En Vivo Con Tololoche",
-        "url": "https://open.spotify.com/album/5CbJZFr5frpDDgKoVxO7ma"
+        "name": "Con Amigos y La Banda Vol.1 (En Vivo)",
+        "url": "https://open.spotify.com/album/3VuqUe1TDvhAKzRAxUSw5b"
       },
       "artists": [
         {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "El Bala",
+          "url": "https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY"
         }
       ],
-      "duration_ms": 211945,
-      "name": "Hace Un A\u00f1o - En Vivo",
-      "url": "https://open.spotify.com/track/1vldXJyBmGmkNCvbH9uNif"
+      "duration_ms": 213087,
+      "name": "Fino Ranchero - En Vivo",
+      "url": "https://open.spotify.com/track/6XCOR9Rs01PBQrVxI7nXxa"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -2143,6 +2143,26 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
+        "name": "La Chapiza (En Vivo)",
+        "url": "https://open.spotify.com/album/0wP13AMhGNtY0GWQICl4T6"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
+          "name": "Wil Caro",
+          "url": "https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4"
+        }
+      ],
+      "duration_ms": 125956,
+      "name": "La Chapiza - En Vivo",
+      "url": "https://open.spotify.com/track/3mHFLPUuMgKHjPNmOS2XTg"
+    },
+    {
+      "added_at": "2023-03-17 06:19:52",
+      "album": {
         "name": "Kikil Caro (En Vivo)",
         "url": "https://open.spotify.com/album/2uzlOBEAmFVA97KHRZjPOv"
       },
@@ -2163,26 +2183,6 @@
       "duration_ms": 273258,
       "name": "Kikil Caro (En Vivo)",
       "url": "https://open.spotify.com/track/5TrI52vvqsPzMBd2cnba1A"
-    },
-    {
-      "added_at": "2023-03-17 06:19:52",
-      "album": {
-        "name": "La Chapiza (En Vivo)",
-        "url": "https://open.spotify.com/album/0wP13AMhGNtY0GWQICl4T6"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        },
-        {
-          "name": "Wil Caro",
-          "url": "https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4"
-        }
-      ],
-      "duration_ms": 125956,
-      "name": "La Chapiza - En Vivo",
-      "url": "https://open.spotify.com/track/3mHFLPUuMgKHjPNmOS2XTg"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -2543,18 +2543,22 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
-        "name": "Buscando Al Cholo (En Vivo)",
-        "url": "https://open.spotify.com/album/1NcG9qZxLOYnf9zc9OAw4V"
+        "name": "El Cholo 50 (En Vivo)",
+        "url": "https://open.spotify.com/album/1HtsFWoKVgq5eZfxOVGiL9"
       },
       "artists": [
         {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Banda Punto Medio",
+          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
         }
       ],
-      "duration_ms": 202414,
-      "name": "Buscando Al Cholo (En Vivo)",
-      "url": "https://open.spotify.com/track/5VDC9Ym7gY8dgmRWintiFK"
+      "duration_ms": 149120,
+      "name": "El Cholo 50 - En Vivo",
+      "url": "https://open.spotify.com/track/1irSoosb7Gk5UtfhL4rOGk"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -2575,22 +2579,18 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
-        "name": "El Cholo 50 (En Vivo)",
-        "url": "https://open.spotify.com/album/1HtsFWoKVgq5eZfxOVGiL9"
+        "name": "Buscando Al Cholo (En Vivo)",
+        "url": "https://open.spotify.com/album/1NcG9qZxLOYnf9zc9OAw4V"
       },
       "artists": [
         {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "Banda Punto Medio",
-          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
         }
       ],
-      "duration_ms": 149120,
-      "name": "El Cholo 50 - En Vivo",
-      "url": "https://open.spotify.com/track/1irSoosb7Gk5UtfhL4rOGk"
+      "duration_ms": 202414,
+      "name": "Buscando Al Cholo (En Vivo)",
+      "url": "https://open.spotify.com/track/5VDC9Ym7gY8dgmRWintiFK"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -2667,22 +2667,18 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
-        "name": "\u00bfSer\u00e1 Prudente Jalar La Banda?",
-        "url": "https://open.spotify.com/album/0KGUDXu3WiMAd4jkhg16G3"
+        "name": "Los De La Noria En Vivo",
+        "url": "https://open.spotify.com/album/1FGMR17jQ6VQgsHWDKmWUF"
       },
       "artists": [
         {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "Banda Punto Medio",
-          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
+          "name": "Los De La Noria",
+          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
         }
       ],
-      "duration_ms": 142240,
-      "name": "El Flaquito",
-      "url": "https://open.spotify.com/track/5DzZO7t61t9gihMcwVfkNK"
+      "duration_ms": 257254,
+      "name": "Popurr\u00ed El Primer Tonto / Eres Mi Droga",
+      "url": "https://open.spotify.com/track/1M7nsuYEzpzxQDAZcLCEBs"
     }
   ],
   "unique_name": "M\u00fasica Mexicana En Vivo",

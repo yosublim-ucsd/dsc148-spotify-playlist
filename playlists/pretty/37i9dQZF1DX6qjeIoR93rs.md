@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 
 > The sweet sounds of Palestine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,727 likes - 70 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,769 likes - 70 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,14 +52,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 42 | [Ma Mali Shi](https://open.spotify.com/track/5iHLim2PneDfm9B2kL2z02) | [Ghazall](https://open.spotify.com/artist/52ithxL8nGscRP6ocUO1SG) | [A Tareeq](https://open.spotify.com/album/5sy5gs8QvcIyLKiK0Ikzu2) | 3:58 |
 | 43 | [Dabke System](https://open.spotify.com/track/6pA25Qz9Pbvb90I6j0MRYy) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Dabke System](https://open.spotify.com/album/0WKmc7uvbK5VlKFTZ1bJ7G) | 5:42 |
 | 44 | [بعده فيي روح](https://open.spotify.com/track/72CB0MAagJAXpqS6bRVUxu) | [Tamer Nafar](https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30) | [بعده فيي روح](https://open.spotify.com/album/6vTqJnEkKVQCKDfegzJHFx) | 3:08 |
-| 45 | [Can I Live](https://open.spotify.com/track/31imdxHt1az1qeTknfNBHq) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Can I Live](https://open.spotify.com/album/4rn2Zd0ynIrPFdY3UGlA7O) | 1:52 |
-| 46 | [Mayel ya Ghuzayel](https://open.spotify.com/track/5yV5kOWEoYWwmhcET8BCc9) | [Ensemble Musical De Palestine](https://open.spotify.com/artist/4s2acSp68ZnCVdC0lkQ9sz) | [Gaza \- Tradition musicale palestinienne](https://open.spotify.com/album/6MXT3YX1QwNWXxmKfKNHzt) | 4:49 |
+| 45 | [Palestine](https://open.spotify.com/track/0BBYordA8bTjXjcY3mBrxW) | [Ministry Of Dubkey](https://open.spotify.com/artist/5myvv84iU2FTGFnGU38LIU) | [Palestine](https://open.spotify.com/album/0uAyLaAYUEUflFJA387QCl) | 1:21 |
+| 46 | [Can I Live](https://open.spotify.com/track/31imdxHt1az1qeTknfNBHq) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Can I Live](https://open.spotify.com/album/4rn2Zd0ynIrPFdY3UGlA7O) | 1:52 |
 | 47 | [دبرها](https://open.spotify.com/track/1aFTIheXpBAbSf6ag1AfDl) | [Walla'at](https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe) | [دبرها](https://open.spotify.com/album/56RwJOvWAxa6afeJYoWBwx) | 4:49 |
-| 48 | [Palestine](https://open.spotify.com/track/0BBYordA8bTjXjcY3mBrxW) | [Ministry Of Dubkey](https://open.spotify.com/artist/5myvv84iU2FTGFnGU38LIU) | [Palestine](https://open.spotify.com/album/0uAyLaAYUEUflFJA387QCl) | 1:21 |
+| 48 | [Mayel ya Ghuzayel](https://open.spotify.com/track/5yV5kOWEoYWwmhcET8BCc9) | [Ensemble Musical De Palestine](https://open.spotify.com/artist/4s2acSp68ZnCVdC0lkQ9sz) | [Gaza \- Tradition musicale palestinienne](https://open.spotify.com/album/6MXT3YX1QwNWXxmKfKNHzt) | 4:49 |
 | 49 | [Ghandara Medley : Shorabanna / Sabbal Oyounou / Ya Bou Gh'thele / Shayyiou / Ya Dae'sa / Ya Thareef / Oulou La Immo](https://open.spotify.com/track/6EYOa2WdT7XEEOb376DSoV) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [Nai 1](https://open.spotify.com/album/6FM6CAZnjQkvS8lnsaYba6) | 5:28 |
 | 50 | [Che Guevara](https://open.spotify.com/track/7itWreJjHK6oDM66FaG7Vb) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Fattah Al Ward](https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g) | 3:46 |
-| 51 | [Tareeq](https://open.spotify.com/track/0JTnnttCaS5UbGNTgpARrd) | [Al\-Bara'em](https://open.spotify.com/artist/48XfzIDlJVx0MrJtjaUskw) | [Tareeq](https://open.spotify.com/album/1AuKyJjzvg2HAVBY1XgZg7) | 4:43 |
-| 52 | [Ya Samti](https://open.spotify.com/track/02sG3ndWTK9PHBxPlaZwAH) | [Zuhair Francis](https://open.spotify.com/artist/0njHK2K2VDRrfM0L3bklXp) | [Ya Samti](https://open.spotify.com/album/6Bcyb3titJoo0xFB3zea2f) | 3:52 |
+| 51 | [Ya Samti](https://open.spotify.com/track/02sG3ndWTK9PHBxPlaZwAH) | [Zuhair Francis](https://open.spotify.com/artist/0njHK2K2VDRrfM0L3bklXp) | [Ya Samti](https://open.spotify.com/album/6Bcyb3titJoo0xFB3zea2f) | 3:52 |
+| 52 | [Tareeq](https://open.spotify.com/track/0JTnnttCaS5UbGNTgpARrd) | [Al\-Bara'em](https://open.spotify.com/artist/48XfzIDlJVx0MrJtjaUskw) | [Tareeq](https://open.spotify.com/album/1AuKyJjzvg2HAVBY1XgZg7) | 4:43 |
 | 53 | [Today is the day](https://open.spotify.com/track/3W4P1ay0wX7Rz1FIdwFfB3) | [Hazy Noir](https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY) | [Today Is the day](https://open.spotify.com/album/5pY94XM2JmmrY71Ck3aTMA) | 2:31 |
 | 54 | [Touchdown Palestine](https://open.spotify.com/track/1r9z2zRrmqjPMuPGRTINlN) | [Waheeb Nasan](https://open.spotify.com/artist/3GVRwasZpvEfVLvmFK4N8g), [Jae Deen](https://open.spotify.com/artist/5v4XF6KX5pdMJmiBVqK8z9) | [The Come Up](https://open.spotify.com/album/4h5ZJZkVZX5u8D2aNwj4Kr) | 3:01 |
 | 55 | [القضية فلسطينية](https://open.spotify.com/track/7KaT8J7igAsn5Xof9ccu7q) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [القضية فلسطينية](https://open.spotify.com/album/5ZFL6eq3fsGCa5268jMNYa) | 2:49 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 65 | [Maskhara \- Radio Edit](https://open.spotify.com/track/7602Aziy9m0JAcnzKX8mcC) | [Bashar Murad](https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql) | [Maskhara \(Radio Edit\)](https://open.spotify.com/album/7bXGhJWxIhnFvwDKr9vqHx) | 3:06 |
 | 66 | [Badi Ellak](https://open.spotify.com/track/6gazpfEpfoPQSPuTBoR30C) | [Sama Shoufani](https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr) | [Badi Ellak](https://open.spotify.com/album/5gIy2dF3eXhTo9XJULxLqK) | 3:29 |
 | 67 | [NAS](https://open.spotify.com/track/6iplzAdeuc5x1TQBph25PZ) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [NAS](https://open.spotify.com/album/2sF5JJiuI034l5IlblUrVz) | 5:26 |
-| 68 | [يا منجنيق](https://open.spotify.com/track/1THJTqG9l2Rc1MVNWYvYIy) | [Mahmood Jrere](https://open.spotify.com/artist/21CJ2LhyyR1R3jGx8zfwPv) | [يا منجنيق](https://open.spotify.com/album/0iqbK8EUWqZueNYEJmtVgC) | 3:05 |
-| 69 | [Bel7afli](https://open.spotify.com/track/33sM7X3w7bnrjJqdEh8zn9) | [EL X الإكس](https://open.spotify.com/artist/3NQkbYL1pocXcIMyQkRTNP), [ŁOAY](https://open.spotify.com/artist/3MIKkLGqd0EYSxHHbUK0Fz) | [Bel7afli](https://open.spotify.com/album/24VotFk1UUZZJmarGVLRMT) | 2:46 |
+| 68 | [Bel7afli](https://open.spotify.com/track/33sM7X3w7bnrjJqdEh8zn9) | [EL X الإكس](https://open.spotify.com/artist/3NQkbYL1pocXcIMyQkRTNP), [ŁOAY](https://open.spotify.com/artist/3MIKkLGqd0EYSxHHbUK0Fz) | [Bel7afli](https://open.spotify.com/album/24VotFk1UUZZJmarGVLRMT) | 2:46 |
+| 69 | [يا منجنيق](https://open.spotify.com/track/1THJTqG9l2Rc1MVNWYvYIy) | [Mahmood Jrere](https://open.spotify.com/artist/21CJ2LhyyR1R3jGx8zfwPv) | [يا منجنيق](https://open.spotify.com/album/0iqbK8EUWqZueNYEJmtVgC) | 3:05 |
 | 70 | [Room](https://open.spotify.com/track/5u1ZzIFYcbEKhntyrZffO7) | [Fadi Ammous](https://open.spotify.com/artist/1jDVc6g1Qkiwxnbjz02Gpi) | [Room](https://open.spotify.com/album/6lAmjHAwltL9jRp1GAGCEX) | 2:37 |
 
-Snapshot ID: `MTY3MTI2NzYzMCwwMDAwMDAwMDM0NGQ5NDc0OTY2MTM1YjhhNTVhNDBkOWQ4MzVmZWE1`
+Snapshot ID: `MTY3MTI2NzYzMCwwMDAwMDAwMGM0MjkzMTYyYjdkZTExNzliYWZhNzY0NDkwZGUxY2Rh`

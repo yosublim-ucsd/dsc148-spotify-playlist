@@ -4,7 +4,7 @@
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: FIFTY FIFTY
 
-391 songs - 21 hr 26 min
+393 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Keep me up](https://open.spotify.com/track/1h3hfUrphvCzFNPCsglzp2) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [Love or Loved, Pt\. 1](https://open.spotify.com/album/3EQ7btJiTEaKDE8I1uScm4) | 3:26 | 2022-11-25 | 2023-01-17 |
 | [Killer](https://open.spotify.com/track/62DuGCeDO3gfVkKe0gBM9m) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Killer \- The 2nd Album Repackage](https://open.spotify.com/album/4l5BZ4tjisNEvwVa1rXDEv) | 3:50 | 2023-02-14 | 2023-03-22 |
 | [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 | 2023-03-29 |  |
+| [KNOCK](https://open.spotify.com/track/6KiEF5zqzHiFjzdm8gChz7) | [LEE CHAE YEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [Over The Moon](https://open.spotify.com/album/0WGMSrfOSPh1vctL94IWD3) | 2:53 | 2023-04-26 |  |
 | [LA VIE](https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Little Women, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6) | 3:49 | 2022-10-03 | 2022-11-26 |
 | [Last Sequence](https://open.spotify.com/track/0lNPjT58llQGlycRA2mea4) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [Sequence](https://open.spotify.com/album/2Cv3xionHF2O7QL8p6MbCT) | 3:07 | 2022-07-28 | 2022-08-19 |
 | [LAW \(Prod\. Czaer\)](https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Street Man Fighter Original Vol.3 \(Mission by Rank\)](https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP) | 3:09 | 2022-09-12 | 2023-01-06 |
@@ -374,6 +375,7 @@
 | [VISION](https://open.spotify.com/track/1nmc8ngLcvccw7Lay5v5SP) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Follow us\]](https://open.spotify.com/album/7MQXcfzHmWjQAAIFhdy1mY) | 3:09 | 2022-10-14 | 2023-01-06 |
 | [VIVID](https://open.spotify.com/track/24OueqbY3eTiKT5dHhL5WQ) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [VIVID](https://open.spotify.com/album/0YnjMov6t4vfn9MXA5A6KS) | 3:25 | 2022-06-09 | 2022-07-29 |
 | [WA DA DA](https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN) | 3:03 | 2022-04-05 | 2022-09-29 |
+| [Wait for you](https://open.spotify.com/track/4r1caIy3DscFsJuNXKIo5g) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM](https://open.spotify.com/album/3T7Be41PixmIFH29sK3s1Z) | 3:51 | 2023-04-26 |  |
 | [WE ARE YOUNG](https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [W.A.Y](https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo) | 2:57 | 2023-02-20 | 2023-03-07 |
 | [We Fresh](https://open.spotify.com/track/7tMN3tczfA8zwcD4jlCsRh) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [TROUBLESHOOTER](https://open.spotify.com/album/2PbytQbw3uuEMECdw46ya7) | 3:15 | 2022-10-14 | 2023-01-10 |
 | [Weapon \(With Newnion, FLOOR\) \(Prod.Czaer\)](https://open.spotify.com/track/6poVmpGU3y3jj1Z9xbbbH4) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Street Dance Girls Fighter\(SGF\) Special](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) | 3:40 | 2022-04-05 | 2022-06-04 |

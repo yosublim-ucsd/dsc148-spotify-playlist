@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? Cover: DRIPPIN [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
+  "description": "Is it your favorite oppa or dongsaeng? Cover:\bNCT DOJAEJUNG [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
   "name": "Hallyu Boy Bands",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 230293,
       "name": "2 Baddies",
       "url": "https://open.spotify.com/track/1WKLxJpDqkQ9x1qEDNutoX"
@@ -672,7 +672,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 168053,
       "name": "Back Down",
       "url": "https://open.spotify.com/track/7EP9G7AIKrywWGdYsYZzGv"
@@ -1916,7 +1916,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 196670,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3"
@@ -2644,6 +2644,24 @@
       "duration_ms": 203057,
       "name": "Follow me",
       "url": "https://open.spotify.com/track/1lvG5Wv3c1aZj4RIi39saS"
+    },
+    {
+      "album": {
+        "name": "Deadlock",
+        "url": "https://open.spotify.com/album/6nePUewVYxSkvIbG9nkB0M"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183670,
+      "name": "Freakin' Bad",
+      "url": "https://open.spotify.com/track/3wntBaOJD8AZrJ8ix97Lwg"
     },
     {
       "album": {
@@ -3765,6 +3783,24 @@
     },
     {
       "album": {
+        "name": "OO-LI",
+        "url": "https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198440,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/6dxgKYAH0TvoSb16xD30rD"
+    },
+    {
+      "album": {
         "name": "HELLO Chapter 3: Hello, Strange Time",
         "url": "https://open.spotify.com/album/6w3QkgYGtf6LfiWb5iCYc1"
       },
@@ -4638,7 +4674,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 207617,
       "name": "MIROH",
       "url": "https://open.spotify.com/track/2sFWzfV3kqAwXEWM9BjzwH"
@@ -6068,7 +6104,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 215386,
       "name": "SEVEN SINS",
       "url": "https://open.spotify.com/track/2byWFY0u4pFZSVbQbbFBA5"
@@ -6126,6 +6162,28 @@
       "duration_ms": 198795,
       "name": "Shine",
       "url": "https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0"
+    },
+    {
+      "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205101,
+      "name": "Shoong! (feat. LISA of BLACKPINK)",
+      "url": "https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt"
     },
     {
       "album": {
@@ -6597,6 +6655,24 @@
     },
     {
       "album": {
+        "name": "EPEX 5th EP Album Prelude of Love Chapter 2. 'Growing Pains'",
+        "url": "https://open.spotify.com/album/7c4HuyVRABrlh7eOdhozwd"
+      },
+      "artists": [
+        {
+          "name": "EPEX",
+          "url": "https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "Sunshower",
+      "url": "https://open.spotify.com/track/3fcDHjyxOQoGV4UuMdagu0"
+    },
+    {
+      "album": {
         "name": "Time_Slip - The 9th Album",
         "url": "https://open.spotify.com/album/7jKVdT1syYOuRRWcjo50og"
       },
@@ -6651,6 +6727,24 @@
     },
     {
       "album": {
+        "name": "BOYS PLANET - ARTIST BATTLE",
+        "url": "https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC"
+      },
+      "artists": [
+        {
+          "name": "Gguggugi",
+          "url": "https://open.spotify.com/artist/0SLGKxtZbiQFfJGtJ8TDTo"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179026,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/4e378M6XRmJBW30gNws2TE"
+    },
+    {
+      "album": {
         "name": "VERI-CHILL",
         "url": "https://open.spotify.com/album/0SQHVWNdrujtaHAodFG99C"
       },
@@ -6684,6 +6778,24 @@
       "duration_ms": 196170,
       "name": "Tamed-Dashed",
       "url": "https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy"
+    },
+    {
+      "album": {
+        "name": "Tantara",
+        "url": "https://open.spotify.com/album/5kXppcDQWMMADHJTzE1nOB"
+      },
+      "artists": [
+        {
+          "name": "iKON",
+          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167533,
+      "name": "Tantara",
+      "url": "https://open.spotify.com/track/2zbuoOgDU8rRvCqwJC91n0"
     },
     {
       "album": {
@@ -6896,7 +7008,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 202800,
       "name": "TIC TAC",
       "url": "https://open.spotify.com/track/60Oo6tKR0ckwZsRr95NrjL"

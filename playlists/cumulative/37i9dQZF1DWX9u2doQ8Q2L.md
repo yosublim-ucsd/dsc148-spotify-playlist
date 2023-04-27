@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-704 songs - 1 day 19 hr 38 min
+706 songs - 1 day 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,6 +411,7 @@
 | [SHOW U](https://open.spotify.com/track/769S0GSW264Krcn19etZ1B) | [voquote](https://open.spotify.com/artist/7e4RwZzwd7DW2HCb0N0CcR), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [SHOW U](https://open.spotify.com/album/2BnmgLVVPjZdhogODOY0bX) | 2:44 | 2023-03-07 | 2023-03-15 |
 | [SHOW U](https://open.spotify.com/track/7dLHSSxRyJOdX2W09pN3cY) | [voquote](https://open.spotify.com/artist/7e4RwZzwd7DW2HCb0N0CcR), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [SHOW U](https://open.spotify.com/album/2VT448kcHqUO3JXVwogvJt) | 2:44 | 2023-03-07 | 2023-03-09 |
 | [Shower](https://open.spotify.com/track/1rS2X092hCdnS1DCrajMkd) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Shower](https://open.spotify.com/album/5OpqTol5Qnm3kZejdelVPP) | 3:12 | 2022-08-04 | 2022-08-25 |
+| [Siesta](https://open.spotify.com/track/74J0ffff6Hp3fYCkp3ceKW) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Siesta](https://open.spotify.com/album/4q5mMGjlcMUUhlGd4RWDp3) | 3:11 | 2023-04-25 |  |
 | [SIGN\(feat\. Takashi Fujii\)](https://open.spotify.com/track/14TZGguim8BIjve3NWCheW) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [Takashi Fujii](https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12) | [SIGN\(feat\. Takashi Fujii\)](https://open.spotify.com/album/2OmjMU3x4n7j9PMP9Lf1Uw) | 3:15 | 2022-11-04 | 2022-11-06 |
 | [SIGN\(feat\. 藤井隆\)](https://open.spotify.com/track/63NQpVrXhqcBdadRd9KSa4) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [Takashi Fujii](https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12) | [SIGN\(feat\. 藤井隆\)](https://open.spotify.com/album/5qeENl6yRGzVIvvqgChw6p) | 3:15 | 2022-11-04 | 2022-11-05 |
 | [Silhouette Burn](https://open.spotify.com/track/2RnFiTJllgS1AqSvdJ8zqw) | [Leon Top](https://open.spotify.com/artist/7fTmuayg1NszroLSD3TGpf), [Sorato](https://open.spotify.com/artist/1qKcWNZYG8jaquH1yDnG4T) | [Silhouette Burn](https://open.spotify.com/album/5OoGb7rmVfrglTFDt9Jg0S) | 3:12 | 2022-09-13 | 2022-10-21 |
@@ -451,6 +452,7 @@
 | [Summer Again](https://open.spotify.com/track/1TvZNdyMxCL6LcN5CZyCvC) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011) | [Summer Again](https://open.spotify.com/album/49CjefUtjsPjvtiDgZUuaH) | 4:09 | 2022-05-26 | 2022-06-17 |
 | [Summer Breezin'](https://open.spotify.com/track/5UHa3acNN5TRlySTh7aKWx) | [Purple Drip](https://open.spotify.com/artist/57AcMFAHVRDjh4jQ192fQf) | [Summer Breezin'](https://open.spotify.com/album/0vkQzj9TlazS1ATRpdeq0I) | 5:12 | 2022-07-28 | 2022-09-07 |
 | [Summer Breezin’](https://open.spotify.com/track/7l0gkhracl0YHt0T5nivl2) | [Purple Drip](https://open.spotify.com/artist/57AcMFAHVRDjh4jQ192fQf) | [Summer Breezin’](https://open.spotify.com/album/4difJVvfZwNIaOEOC7jU7w) | 5:12 | 2022-06-28 | 2022-07-29 |
+| [Summer Ghost feat\. KIRINJI](https://open.spotify.com/track/0BlR8rZiO5pk4VjMT0Vkqo) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Summer Ghost feat\. KIRINJI](https://open.spotify.com/album/5tuIFFFK621MJKQ5e9yKsA) | 4:14 | 2023-04-25 |  |
 | [summercut](https://open.spotify.com/track/4SDFECUJAYtTEElw4cgZ9e) | [Cruyff](https://open.spotify.com/artist/7lSyPTZ8neNa8NSrRYyx8A) | [lovefullstudentnerdthings](https://open.spotify.com/album/6lqDNJ9mpw2n9LLTtLJFmQ) | 5:49 | 2023-04-11 | 2023-04-19 |
 | [Sundaynight](https://open.spotify.com/track/7gPcTsRB1ylvb17OckGa2K) | [三浦康嗣](https://open.spotify.com/artist/6B8BKABBOAyNQnCdrRXtXH) | [Sundaynight](https://open.spotify.com/album/5ZAQlhUTPNNchqfZXS8g98) | 5:09 | 2023-01-20 | 2023-01-25 |
 | [SUPERNOVA](https://open.spotify.com/track/1sjPeakADwAfjZHis1svgO) | [Murakami Keisuke](https://open.spotify.com/artist/0Vw8tOe5RjKNfs8fksBGXu) | [SUPERNOVA](https://open.spotify.com/album/46wHXcoKdMG9VGPh7ogf1l) | 3:31 | 2023-04-18 | 2023-04-26 |
@@ -579,7 +581,7 @@
 | [ゲームオーバー](https://open.spotify.com/track/7wX4lU05mPcLejQXPhh4Gk) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [ゲームオーバー](https://open.spotify.com/album/1W2ALpoA6PjU52mkFj2JwS) | 4:26 | 2022-11-22 | 2023-02-23 |
 | [ゴロワーズを吸ったことがあるかい](https://open.spotify.com/track/4O8StLbAlIS1HnasVicPEI) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [ゴロワーズを吸ったことがあるかい](https://open.spotify.com/album/6al4FiqNmuoWldC5lksg1i) | 4:12 | 2022-10-04 | 2022-11-04 |
 | [サニーサイドへようこそ](https://open.spotify.com/track/2zqGqlViqSv9X6czIzsFIq) | [笹川真生](https://open.spotify.com/artist/4S3tEYMH3Mjdbn4mkBvqi0) | [サニーサイドへようこそ](https://open.spotify.com/album/5FHtCU9ckAPQfBlEMg4HQG) | 4:18 | 2023-01-31 | 2023-03-18 |
-| [シエスタ](https://open.spotify.com/track/0cRRJ7O7fEC0mohyTrM3R1) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [シエスタ](https://open.spotify.com/album/0JqjF7QJ6758cXozWthn98) | 3:11 | 2023-04-25 |  |
+| [シエスタ](https://open.spotify.com/track/0cRRJ7O7fEC0mohyTrM3R1) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [シエスタ](https://open.spotify.com/album/0JqjF7QJ6758cXozWthn98) | 3:11 | 2023-04-25 | 2023-04-27 |
 | [シニスター](https://open.spotify.com/track/3LQgY2kGn9BYf8E7WIbW6Q) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [シニスター](https://open.spotify.com/album/3en4RwQh65pS5GtV9cZCcn) | 3:38 | 2023-04-11 | 2023-04-13 |
 | [シャカン・ナ・ソン・グー](https://open.spotify.com/track/6VBCobSYJlE0GOzhiubTrI) | [森永陽実](https://open.spotify.com/artist/0JuRTfLYC3IG0mGokEksFh) | [シャカン・ナ・ソン・グー](https://open.spotify.com/album/4jPZiH8toq8PxckfqVZ4um) | 3:38 | 2023-04-11 | 2023-04-26 |
 | [ショートショート](https://open.spotify.com/track/0NZcinfdZ1THF9YaFaigid) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [ショートショート](https://open.spotify.com/album/0knJhBcwQ3zgKD1skJ9ErK) | 3:22 | 2022-12-06 | 2022-12-08 |
@@ -640,7 +642,7 @@
 | [変わる消える](https://open.spotify.com/track/1QoIG08kXG8uf5KuJx1y9X) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [変わる消える](https://open.spotify.com/album/3wuPwZME3HR7b16YVVfDub) | 3:49 | 2023-02-21 | 2023-02-23 |
 | [変身](https://open.spotify.com/track/1MjUD23Qfdvi9CRXgzeik9) | [Satoru Ono With Tenniscoats](https://open.spotify.com/artist/4Li2M8XCt1DOuwhzxAs0DA), [SATORU ONO](https://open.spotify.com/artist/5xBMRwFjjO2ymFLt97ymMg), [Tenniscoats](https://open.spotify.com/artist/1srUxd7Sj9tebPN1O8wEi8) | [ポケットシンフォニー EP](https://open.spotify.com/album/15oRbVjaf1jY6pOzsUPEh4) | 3:30 | 2022-07-12 | 2022-08-05 |
 | [夏に溺れたい](https://open.spotify.com/track/3VHHhp7Si9eA8F6AvkrTUM) | [Nao'ymt](https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf), [Asami Izawa](https://open.spotify.com/artist/4CSFDF5CSlREXqaXG0pGh4) | [夏に溺れたい](https://open.spotify.com/album/3HfFRjMsM5dfUvaE6RfhcK) | 3:31 | 2022-06-30 | 2022-09-30 |
-| [夏の亡霊 feat\. KIRINJI](https://open.spotify.com/track/5QZJ0oITXby0ON4JiWSDH6) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [夏の亡霊 feat\. KIRINJI](https://open.spotify.com/album/43QPrf7HouyvP7W1Aw7XCD) | 4:14 | 2023-04-25 |  |
+| [夏の亡霊 feat\. KIRINJI](https://open.spotify.com/track/5QZJ0oITXby0ON4JiWSDH6) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [夏の亡霊 feat\. KIRINJI](https://open.spotify.com/album/43QPrf7HouyvP7W1Aw7XCD) | 4:14 | 2023-04-25 | 2023-04-27 |
 | [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 | 2022-09-02 |  |
 | [夢にならないように](https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [陽気な休日](https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G) | 4:28 | 2023-02-02 |  |
 | [夢はさめても](https://open.spotify.com/track/6qGRdMmPJzb5hA6eqTegnG) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [夢はさめても](https://open.spotify.com/album/32jcdlCziq8Y8olpXHj2Jc) | 3:41 | 2023-04-04 | 2023-04-06 |

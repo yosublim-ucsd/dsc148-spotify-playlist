@@ -4,17 +4,19 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-513 songs - 1 day 7 hr 32 min
+515 songs - 1 day 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Round Midnight](https://open.spotify.com/track/1FOI8dkOH27cv1FC7ZFOEp) | [Corey Christopher Wright](https://open.spotify.com/artist/76chtyg3RNKYtVaNv2waQk) | ['Round Midnight](https://open.spotify.com/album/78X3XqhFT1W9qTUO506Bm9) | 5:21 | 2022-06-28 | 2022-10-08 |
+| [A Certain Smile](https://open.spotify.com/track/4ln4s0kVCZyH0lK6MioPYk) | [Neo Fourths Trio](https://open.spotify.com/artist/5lWDE7rJapJvf0NUUHc6xe) | [A Certain Smile](https://open.spotify.com/album/40ynWeqMktudTHSlnMBmsS) | 3:50 | 2023-04-20 |  |
 | [A Clean Record](https://open.spotify.com/track/0wyvsAqerhZ4Xoz7mUn49j) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [A Clean Record](https://open.spotify.com/album/1ayvuzsFIo0Momz5T2OGpA) | 3:16 | 2022-12-08 | 2023-04-07 |
 | [A Cookie For Marie](https://open.spotify.com/track/2qxgWhI1DtwC5X4SzJNvZJ) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 4:22 | 2023-04-20 |  |
 | [A Few Days Ahead](https://open.spotify.com/track/71qHUeI08SIXKXzSrOqcxj) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [A Few Days Ahead](https://open.spotify.com/album/65sw0dCunefgxhFgS3GHuv) | 3:05 | 2022-06-28 | 2023-01-11 |
 | [A Future With You](https://open.spotify.com/track/0iIxcgkANZfp1Mk4Es1OUw) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [A Future With You](https://open.spotify.com/album/6BQydkNHQgsSwEhsFm1YUf) | 3:05 | 2022-09-13 | 2023-01-17 |
 | [A Gentle Reminder](https://open.spotify.com/track/2pwKVc1O6cUQZRXIJ74Lh6) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 3:29 | 2022-06-28 | 2023-01-24 |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/1sp7bA5S2pxf2mNsVLCjuU) | [Southside Players](https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/7979k1NF3U9qJlbgl9yoAj) | 3:36 | 2022-08-30 |  |
+| [A place I knew](https://open.spotify.com/track/08Y2U1Z3FuXOYNRZgUHXHk) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [A place I knew](https://open.spotify.com/album/6LVKVtWLCpQ8LU0sf5miQZ) | 2:40 | 2023-04-20 |  |
 | [A Real Show](https://open.spotify.com/track/7F8Hn4PBfwWPr6eK6ow1lp) | [Motor City Trio](https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs) | [A Real Show](https://open.spotify.com/album/0NyYKacgfxr3CgJcVX484z) | 2:54 | 2023-04-20 |  |
 | [A Sleepin' Bee](https://open.spotify.com/track/6JbvbDMUh0X2seQPxx0Y2n) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [A Sleepin' Bee](https://open.spotify.com/album/5kNzBcZqlr7x4hLt1ugC1p) | 3:42 | 2022-09-29 |  |
 | [A Stones Throw](https://open.spotify.com/track/1dE7a8x9VA5BDo4Xzwuzy5) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Palms](https://open.spotify.com/album/13opJ5xFlR2jlQgmNU1bKG) | 3:45 | 2022-06-28 | 2022-07-28 |
@@ -129,7 +131,7 @@
 | [Everything I Have Is Yours](https://open.spotify.com/track/27IKNDm0VrpWOxW89GwxUZ) | [Oliver Richardson Quartet](https://open.spotify.com/artist/2IX0mWVO2XmeKTFJtSUJMv) | [A Time for Love](https://open.spotify.com/album/2ftEGm2HzSzFCnNP6MZJYd) | 4:54 | 2022-06-28 | 2022-10-08 |
 | [Everything I Love](https://open.spotify.com/track/4Eq5ResH0UYm5u6EuG2VYk) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [Everything I Love](https://open.spotify.com/album/3IdFiT8WYcniX82XftHDhF) | 3:44 | 2022-06-28 | 2023-01-26 |
 | [Everything To Me](https://open.spotify.com/track/1D7BVIjNGLW0dBlD5NEmev) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Everything To Me](https://open.spotify.com/album/5gKlIc5h9S3NigmdtLUwjI) | 5:24 | 2022-06-28 | 2023-04-07 |
-| [Everytime We Say Goodbye](https://open.spotify.com/track/5iIuzPWH3IIskHD5IJAUrA) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Everytime We Say Goodbye](https://open.spotify.com/album/6pbo4Ak9A83INF7HCTqDyh) | 4:40 | 2023-03-23 |  |
+| [Everytime We Say Goodbye](https://open.spotify.com/track/5iIuzPWH3IIskHD5IJAUrA) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Everytime We Say Goodbye](https://open.spotify.com/album/6pbo4Ak9A83INF7HCTqDyh) | 4:40 | 2023-03-23 | 2023-04-27 |
 | [Fading Lights](https://open.spotify.com/track/2LNFgWaMkPq59nJEVf2PEP) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Fading Lights](https://open.spotify.com/album/4uocVuFhlnWiWkMAgRh5Qi) | 3:46 | 2022-11-24 | 2023-04-21 |
 | [Fading Love](https://open.spotify.com/track/5xEOUPnUkpErHaxHi2D1tr) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [Fading Love](https://open.spotify.com/album/4rghfEFwsI9ATrjmUzjQvq) | 4:40 | 2022-06-28 | 2022-11-23 |
 | [Feathers](https://open.spotify.com/track/3YvFRSz2nrV493DaCAEEBx) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Feathers](https://open.spotify.com/album/0bhIjI4L0KhziifNelI70o) | 3:20 | 2022-06-28 | 2022-11-17 |
@@ -473,7 +475,7 @@
 | [Tidewater](https://open.spotify.com/track/2o8qn04QtYku0WNWxcGps6) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Tidewater](https://open.spotify.com/album/3hX9C1BMAHerJlzLfhupta) | 3:36 | 2022-06-28 | 2023-03-04 |
 | [Time After Time](https://open.spotify.com/track/1b027Iusu7sUPRNk1T7ZKo) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Time After Time](https://open.spotify.com/album/5S3nYxOStnKHFmzduinNco) | 3:36 | 2022-06-28 | 2022-11-04 |
 | [Time Remembered](https://open.spotify.com/track/2kuCedGQNreDSHNCmxJLwr) | [Sarah Troedsson](https://open.spotify.com/artist/5KFUCJQThUzmtIFTtsHdfh) | [Time Remembered](https://open.spotify.com/album/5dNksNJCyeqYrEaLzj25Xw) | 3:04 | 2022-06-28 | 2022-11-24 |
-| [Time To Ponder](https://open.spotify.com/track/4sM2NQDJUC9PRbswwfdFwT) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Time To Ponder](https://open.spotify.com/album/1xcd6r2pl7i1V55S6sEqRL) | 3:12 | 2022-08-30 |  |
+| [Time To Ponder](https://open.spotify.com/track/4sM2NQDJUC9PRbswwfdFwT) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Time To Ponder](https://open.spotify.com/album/1xcd6r2pl7i1V55S6sEqRL) | 3:12 | 2022-08-30 | 2023-04-27 |
 | [To the Moon and Back](https://open.spotify.com/track/1kbVkvLiWNDF7J4zMPtwv7) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [To the Moon and Back](https://open.spotify.com/album/4FjAzBoqC16rVfrMgEFujB) | 2:39 | 2023-03-02 |  |
 | [To the Moon and Back](https://open.spotify.com/track/2kpab8oAK2b4f6AcR076PA) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [To the Moon and Back](https://open.spotify.com/album/6kn3tGxawwwCILy9FvSjNQ) | 5:07 | 2022-06-28 | 2022-10-08 |
 | [Tomorrow](https://open.spotify.com/track/5QTJAnT7nhRzKAhtIActwk) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [Tomorrow](https://open.spotify.com/album/5TkYZGmaaF1hXvK9kqcx8M) | 4:29 | 2022-08-30 | 2023-02-01 |

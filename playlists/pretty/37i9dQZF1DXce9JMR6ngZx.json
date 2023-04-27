@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos dos anos 80 para te acompanhar na faxina!",
-  "num_followers": 186568,
+  "num_followers": 186657,
   "original_name": "Faxina Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MzAwOTQ0MCwwMDAwMDAwMDQ1ZTg4MjQ2MTU4YjVjNjZkNDZmMmEyNjBkZDE2ODVk",
+  "snapshot_id": "MTU5MzAwOTQ0MCwwMDAwMDAwMGFjMzY2ZGMyYTBkOGQwZDBiZGFjN2ZlNjgxMjFlMGI0",
   "tracks": [
     {
       "added_at": "2020-06-24 14:37:20",
@@ -515,22 +515,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Once Upon A Time (Super Deluxe)",
-        "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 263040,
-      "name": "Don't You (Forget About Me)",
-      "url": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "Rebel Yell",
         "url": "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 299240,
       "name": "Eyes Without A Face",
       "url": "https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Once Upon A Time (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 263040,
+      "name": "Don't You (Forget About Me)",
+      "url": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9"
     },
     {
       "added_at": "2020-06-24 14:37:20",

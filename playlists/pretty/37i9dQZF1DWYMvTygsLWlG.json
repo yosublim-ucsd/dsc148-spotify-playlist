@@ -1,12 +1,12 @@
 {
   "description": "Some of the worlds most beautiful love songs.",
-  "num_followers": 2011713,
+  "num_followers": 2012095,
   "original_name": "Love Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU3ODgyNiwwMDAwMDAwMDg0YWNjYjZkNzc0MzIyMTUwMjkzOWEyNmE4NzE4OTJk",
+  "snapshot_id": "MTY3NzU3ODgyNiwwMDAwMDAwMDdjZWQxOTkxNGQzOTllYjliMTdlYWU1NGNiMzI5ZDkx",
   "tracks": [
     {
       "added_at": "2022-12-02 12:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "The Temptations Sing Smokey",
-        "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 285240,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "The Temptations Sing Smokey",
+        "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Look Up Child",
-        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 274693,
-      "name": "You Say",
-      "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "At The Close Of A Century",
         "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
       },
@@ -923,18 +907,34 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "As I Am (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h"
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 253813,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv"
+      "duration_ms": 274693,
+      "name": "You Say",
+      "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Lifehouse",
+        "url": "https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz"
+      },
+      "artists": [
+        {
+          "name": "Lifehouse",
+          "url": "https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3"
+        }
+      ],
+      "duration_ms": 195493,
+      "name": "You And Me",
+      "url": "https://open.spotify.com/track/0815caqt2Lytro5EIzMufT"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -955,18 +955,18 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Lifehouse",
-        "url": "https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz"
+        "name": "As I Am (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h"
       },
       "artists": [
         {
-          "name": "Lifehouse",
-          "url": "https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 195493,
-      "name": "You And Me",
-      "url": "https://open.spotify.com/track/0815caqt2Lytro5EIzMufT"
+      "duration_ms": 253813,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -1393,22 +1393,6 @@
       "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
     },
     {
-      "added_at": "2022-12-13 13:28:08",
-      "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc"
-      },
-      "artists": [
-        {
-          "name": "Christian Leave",
-          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
-        }
-      ],
-      "duration_ms": 116666,
-      "name": "Please Notice",
-      "url": "https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7"
-    },
-    {
       "added_at": "2022-12-02 12:00:00",
       "album": {
         "name": "Now in a Minute",
@@ -1423,6 +1407,22 @@
       "duration_ms": 239960,
       "name": "I Love You Always Forever",
       "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
+    },
+    {
+      "added_at": "2022-12-13 13:28:08",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc"
+      },
+      "artists": [
+        {
+          "name": "Christian Leave",
+          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
+        }
+      ],
+      "duration_ms": 116666,
+      "name": "Please Notice",
+      "url": "https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Talking Book",
-        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "You Are The Sunshine Of My Life",
-      "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Affirmation",
         "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 250360,
       "name": "I Knew I Loved You",
       "url": "https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "You Are The Sunshine Of My Life",
+      "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Nine Track Mind",
-        "url": "https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "One Call Away",
-      "url": "https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Spice",
         "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 241026,
       "name": "2 Become 1",
       "url": "https://open.spotify.com/track/36AWdhZIGLUTkWpJDhe7va"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Nine Track Mind",
+        "url": "https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "One Call Away",
+      "url": "https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -2207,6 +2207,22 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
+        "name": "Third Album",
+        "url": "https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 237760,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
         "name": "Come On Over",
         "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
@@ -2223,22 +2239,6 @@
       "duration_ms": 281533,
       "name": "From This Moment On",
       "url": "https://open.spotify.com/track/0Q7Jp3aCwfYnSnbMDoXWyR"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
-        "name": "Third Album",
-        "url": "https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG"
-      },
-      "artists": [
-        {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
-        }
-      ],
-      "duration_ms": 237760,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -2443,18 +2443,18 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Bette Davis Eyes",
-        "url": "https://open.spotify.com/album/2Jmuuw5ff8gAGAP6B1yKKJ"
+        "name": "Red Rose Speedway",
+        "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
       },
       "artists": [
         {
-          "name": "Kim Carnes",
-          "url": "https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE"
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
         }
       ],
-      "duration_ms": 224693,
-      "name": "Bette Davis Eyes - Re-Recorded",
-      "url": "https://open.spotify.com/track/0kPeymTUiaidv48eRrMISu"
+      "duration_ms": 247733,
+      "name": "My Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
     }
   ],
   "unique_name": "Love Ballads",

@@ -4,7 +4,7 @@
 
 > Keep your run going with these upbeat rock tracks.
 
-162 songs - 9 hr 23 min
+163 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 | 2021-12-09 |  |
 | [Charm School](https://open.spotify.com/track/5J1RjqttTtHcMimE4C1RZn) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 3:30 | 2021-12-09 | 2022-07-25 |
 | [Control](https://open.spotify.com/track/575Sz3R4xOhueUstPObylF) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 3:50 | 2022-04-08 | 2023-03-08 |
+| [Cry](https://open.spotify.com/track/7jKziCSFvitg68mOsTd7RL) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Imaginary Enemy](https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT) | 3:30 | 2023-03-07 |  |
 | [Daydream](https://open.spotify.com/track/4ZJRoFTNJzcA1KKJgxncvu) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 2:26 | 2021-12-09 | 2022-07-28 |
 | [Disconnect](https://open.spotify.com/track/3SoSPKPaJGPRur4yYEFE33) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Beside Myself](https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO) | 3:29 | 2022-04-08 | 2022-04-21 |
 | [DON'T PLAY](https://open.spotify.com/track/69uzV9BQmNLPIu0dWK4Tbe) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:13 | 2023-02-27 |  |
@@ -153,7 +154,7 @@
 | [The Small Print](https://open.spotify.com/track/6mPJvjjx7pcfZuI57Dh95o) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl) | 3:29 | 2022-01-20 | 2023-02-11 |
 | [These Four Walls](https://open.spotify.com/track/4lIADYns7onzNNl0RIewFp) | [Pretty Vicious](https://open.spotify.com/artist/4KH4eOg39KeBpnfSgvIteD) | [Beauty Of Youth](https://open.spotify.com/album/6am0g93vswJjC98p8mihkF) | 3:47 | 2021-12-09 | 2022-07-29 |
 | [This Modern Love](https://open.spotify.com/track/5jFMzYXf0IIApEJBCAoaaL) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/6SsIdN05HQg2GwYLfXuzLB) | 4:25 | 2022-04-08 | 2022-04-20 |
-| [This Modern Love](https://open.spotify.com/track/2PAhcPwab2sJz340QHtunD) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 4:25 | 2022-10-25 |  |
+| [This Modern Love](https://open.spotify.com/track/2PAhcPwab2sJz340QHtunD) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 4:25 | 2022-10-25 | 2023-04-27 |
 | [Throne](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:11 | 2023-03-07 |  |
 | [Tin Pan Boy](https://open.spotify.com/track/5ome5OZg1JFNGXKEU9HGRO) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [YUNGBLUD](https://open.spotify.com/album/7HNJT97QuNFvJLUpQXCIp3) | 3:09 | 2022-04-08 | 2022-04-17 |
 | [Told You So](https://open.spotify.com/track/0xfMFT9G8Ekk7CEYtVabIm) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Told You So](https://open.spotify.com/album/3nHIAlyLTzvncWhTwE5TcY) | 2:51 | 2023-03-23 |  |

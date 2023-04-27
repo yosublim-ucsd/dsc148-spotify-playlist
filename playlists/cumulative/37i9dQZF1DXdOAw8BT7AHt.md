@@ -4,7 +4,7 @@
 
 > The best in new punk rock music\. Cover: Lambrini Girls
 
-128 songs - 6 hr 19 min
+129 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,8 +45,9 @@
 | [Eight Minute Machine](https://open.spotify.com/track/6CzwNvnU0bcgFqqtkLVOZn) | [Warmduscher](https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR) | [At The Hotspot](https://open.spotify.com/album/6LqyeIEJRcA5eb0bcUovLi) | 2:26 | 2023-03-03 | 2023-03-21 |
 | [Empathy My Ass](https://open.spotify.com/track/4uuyKzULwc4cmXJDHGzF29) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Empathy My Ass](https://open.spotify.com/album/3ib6m6kJEhcwUsJC2sE7EQ) | 3:02 | 2023-01-09 | 2023-01-29 |
 | [Facedown](https://open.spotify.com/track/2wc4XyfD9OAELrkwL3iCqO) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Facedown](https://open.spotify.com/album/5bkQz8PC9JMdToUrvFfQOI) | 2:31 | 2023-03-20 | 2023-04-26 |
+| [Facedown](https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Baku's Revenge \(Deluxe Edition\)](https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv) | 2:31 | 2023-03-20 |  |
 | [Fashion](https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Fashion](https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx) | 2:54 | 2023-02-06 | 2023-03-22 |
-| [Fast Pace](https://open.spotify.com/track/1qXR66ok1P7wsTKsLwdf9b) | [Grade 2](https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b) | [Grade 2](https://open.spotify.com/album/7bIwVxRl5o01qAIFZbYyJe) | 3:02 | 2023-03-03 |  |
+| [Fast Pace](https://open.spotify.com/track/1qXR66ok1P7wsTKsLwdf9b) | [Grade 2](https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b) | [Grade 2](https://open.spotify.com/album/7bIwVxRl5o01qAIFZbYyJe) | 3:02 | 2023-03-03 | 2023-04-27 |
 | [Ferrari](https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK) | [Phoneboy](https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR) | [Ferrari](https://open.spotify.com/album/03rLKA78UTen9A7cwg14ht) | 2:42 | 2023-01-20 |  |
 | [Force 10 From Navarone](https://open.spotify.com/track/3SOoS8pncqffzUA78NYj9p) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh), [Florence Shaw](https://open.spotify.com/artist/5PGw6aGfWBvSRnOZif7K84) | [Force 10 From Navarone](https://open.spotify.com/album/5hizabIxOkefLOuQgi61fM) | 3:24 | 2023-03-03 |  |
 | [Found](https://open.spotify.com/track/5I4s5tOJQsPHRtY3lqLVsc) | [Fucked Up](https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL) | [One Day](https://open.spotify.com/album/3hMj3XLQTq6irh3C0U1HdD) | 3:49 | 2023-02-06 | 2023-03-26 |

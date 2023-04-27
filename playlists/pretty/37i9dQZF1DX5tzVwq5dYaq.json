@@ -1,12 +1,12 @@
 {
   "description": "la primavera non \u00e8 una stagione, \u00e8 un mood \ud83c\udf37",
-  "num_followers": 56863,
+  "num_followers": 56893,
   "original_name": "primavera chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTY2MCwwMDAwMDAwMDA3MjYxYjQ3NDkwY2Y5YzY0MWMxNjEzYjA1ZWFhNzQ2",
+  "snapshot_id": "MTY4MjA0OTY2MCwwMDAwMDAwMGJiNWFlNThkOWRiOTM2ODQ2NTQzOTAwNzczYmI3MzFj",
   "tracks": [
     {
       "added_at": "2023-04-21 04:01:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "How I'm Feeling Now",
-        "url": "https://open.spotify.com/album/5Kys3ZEzHMqSbpKnyfSkqj"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "How I'm Feeling Now",
-      "url": "https://open.spotify.com/track/5CcfIvFHULvnM0ST4nzRRN"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "JORDI (Deluxe)",
         "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 189486,
       "name": "Memories Remix (feat. Nipsey Hussle & YG)",
       "url": "https://open.spotify.com/track/3p4WMekidOIiyf8SFvfrIC"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "How I'm Feeling Now",
+        "url": "https://open.spotify.com/album/5Kys3ZEzHMqSbpKnyfSkqj"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "How I'm Feeling Now",
+      "url": "https://open.spotify.com/track/5CcfIvFHULvnM0ST4nzRRN"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "Woodland",
+        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 210080,
+      "name": "Bloom - Bonus Track",
+      "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Guasto D'Amore",
         "url": "https://open.spotify.com/album/1CUZTsdUtnhtirsffXGMX7"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 200080,
       "name": "Guasto D'Amore",
       "url": "https://open.spotify.com/track/4CQNELF3U3gyNcI6sLr6yK"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Woodland",
-        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 210080,
-      "name": "Bloom - Bonus Track",
-      "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Rolling Up the Welcome Mat",
-        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 170906,
-      "name": "Blindsided",
-      "url": "https://open.spotify.com/track/65gLItuJFVkdt3k4ibQMAz"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Room For Squares",
         "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 249626,
       "name": "Your Body Is a Wonderland",
       "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 170906,
+      "name": "Blindsided",
+      "url": "https://open.spotify.com/track/65gLItuJFVkdt3k4ibQMAz"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "3 Boys",
-        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 209188,
-      "name": "3 Boys",
-      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Placebo Effect",
         "url": "https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 191493,
       "name": "Placebo Effect",
       "url": "https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "3 Boys",
+        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 209188,
+      "name": "3 Boys",
+      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "To Be Loved",
+        "url": "https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "It's a Beautiful Day",
+      "url": "https://open.spotify.com/track/0mvkwaZMP2gAy2ApQLtZRv"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Si Me Voy (with The Mar\u00edas)",
         "url": "https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 203219,
       "name": "Si Me Voy (with The Mar\u00edas)",
       "url": "https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "To Be Loved",
-        "url": "https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "It's a Beautiful Day",
-      "url": "https://open.spotify.com/track/0mvkwaZMP2gAy2ApQLtZRv"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "Absence of You",
+        "url": "https://open.spotify.com/album/0kg5NHyGzMboxjrWtWOo00"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 194745,
+      "name": "Absence of You",
+      "url": "https://open.spotify.com/track/3fk4yTACtSqCzDol4mBPdt"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "1.22.03 Acoustic",
         "url": "https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 211782,
       "name": "To Be Yours (feat. Claud)",
       "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Absence of You",
-        "url": "https://open.spotify.com/album/0kg5NHyGzMboxjrWtWOo00"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 194745,
-      "name": "Absence of You",
-      "url": "https://open.spotify.com/track/3fk4yTACtSqCzDol4mBPdt"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "still",
-        "url": "https://open.spotify.com/album/4x7J5fPgM0IYVRJW6fwpZ3"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 179642,
-      "name": "still",
-      "url": "https://open.spotify.com/track/6EoI0gxW5egUN3SFxgQb7H"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Father of the Bride",
         "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 268600,
       "name": "This Life",
       "url": "https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "still",
+        "url": "https://open.spotify.com/album/4x7J5fPgM0IYVRJW6fwpZ3"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 179642,
+      "name": "still",
+      "url": "https://open.spotify.com/track/6EoI0gxW5egUN3SFxgQb7H"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 197393,
-      "name": "No God",
-      "url": "https://open.spotify.com/track/0RlBQOKhSIpAFmn2MbSH6j"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Weekend Vibe",
         "url": "https://open.spotify.com/album/1TYoCRyxN8wUMNuQ7nLUJR"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 166909,
       "name": "Weekend Vibe",
       "url": "https://open.spotify.com/track/5c0lWlmIyCq7hzBhpZasYL"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 197393,
+      "name": "No God",
+      "url": "https://open.spotify.com/track/0RlBQOKhSIpAFmn2MbSH6j"
     }
   ],
   "unique_name": "primavera chill",

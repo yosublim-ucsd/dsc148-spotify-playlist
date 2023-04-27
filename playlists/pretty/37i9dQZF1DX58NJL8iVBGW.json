@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 552316,
+  "num_followers": 552502,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkzNTc0NiwwMDAwMDAwMGU4N2Y4NTk3YTBhZDA1Zjg1NDkzOWY4Y2ZiMjZjMGJk",
+  "snapshot_id": "MTY3OTkzNTc0NiwwMDAwMDAwMDRhOWIwZjNmODM5ZjYyNmYwZTI1MTllY2UzNWE3YzI3",
   "tracks": [
     {
       "added_at": "2022-06-06 19:18:28",
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
     },
     {
-      "added_at": "2023-04-26 01:10:33",
+      "added_at": "2023-04-27 01:01:20",
       "album": {
         "name": "John Came Home",
         "url": "https://open.spotify.com/album/3YIvOJ3c5hOLjzwQ3b9m1p"
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Whiskey Shivers",
-        "url": "https://open.spotify.com/album/5I40wOfpaEMbdzn1tMV7dg"
-      },
-      "artists": [
-        {
-          "name": "Whiskey Shivers",
-          "url": "https://open.spotify.com/artist/2N91y9Uko6gWwugdCpxJYH"
-        }
-      ],
-      "duration_ms": 190906,
-      "name": "Graves",
-      "url": "https://open.spotify.com/track/33BhBFID7OBU3ie0KccF9B"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "The Angry River (feat. Father John Misty and S.I. Istwa) [Theme From the HBO Series True Detective]",
         "url": "https://open.spotify.com/album/795JPmab0nbSSraMlxBHF0"
       },
@@ -687,6 +671,22 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
+        "name": "Whiskey Shivers",
+        "url": "https://open.spotify.com/album/5I40wOfpaEMbdzn1tMV7dg"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Shivers",
+          "url": "https://open.spotify.com/artist/2N91y9Uko6gWwugdCpxJYH"
+        }
+      ],
+      "duration_ms": 190906,
+      "name": "Graves",
+      "url": "https://open.spotify.com/track/33BhBFID7OBU3ie0KccF9B"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
         "name": "Oh, Willie, Please...",
         "url": "https://open.spotify.com/album/6zAjJYvX7qsgoRPNMAZeN3"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Spaces",
-        "url": "https://open.spotify.com/album/5EfF28rTF2MACFCf9yVZ1j"
-      },
-      "artists": [
-        {
-          "name": "The American Spirit",
-          "url": "https://open.spotify.com/artist/3x6If6dI3TOVEN4aUukab3"
-        }
-      ],
-      "duration_ms": 242266,
-      "name": "Sons & Daughters",
-      "url": "https://open.spotify.com/track/42r1v4tT0xfteQq0pNMaf9"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "April",
         "url": "https://open.spotify.com/album/04XRtyMhwCe9HoWbzBO1eE"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 458000,
       "name": "Heron Blue",
       "url": "https://open.spotify.com/track/6GoESztTu0GEiWuVFgsBUx"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Spaces",
+        "url": "https://open.spotify.com/album/5EfF28rTF2MACFCf9yVZ1j"
+      },
+      "artists": [
+        {
+          "name": "The American Spirit",
+          "url": "https://open.spotify.com/artist/3x6If6dI3TOVEN4aUukab3"
+        }
+      ],
+      "duration_ms": 242266,
+      "name": "Sons & Daughters",
+      "url": "https://open.spotify.com/track/42r1v4tT0xfteQq0pNMaf9"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
+        "name": "Common Faults",
+        "url": "https://open.spotify.com/album/74McnqPMPwUWBBHZvhaEmr"
+      },
+      "artists": [
+        {
+          "name": "The Silent Comedy",
+          "url": "https://open.spotify.com/artist/4s7QvzBMTW4BKWI5pVO2mY"
+        }
+      ],
+      "duration_ms": 187558,
+      "name": "Bartholomew",
+      "url": "https://open.spotify.com/track/4WDEbyUuc701Yn9jQ9srgR"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
         "name": "Howl",
         "url": "https://open.spotify.com/album/5yTFClS2dEGZD5IjM9dfrT"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 186960,
       "name": "Sharecropper\u2019s Son",
       "url": "https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
-        "name": "Common Faults",
-        "url": "https://open.spotify.com/album/74McnqPMPwUWBBHZvhaEmr"
-      },
-      "artists": [
-        {
-          "name": "The Silent Comedy",
-          "url": "https://open.spotify.com/artist/4s7QvzBMTW4BKWI5pVO2mY"
-        }
-      ],
-      "duration_ms": 187558,
-      "name": "Bartholomew",
-      "url": "https://open.spotify.com/track/4WDEbyUuc701Yn9jQ9srgR"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "War Brides",
-        "url": "https://open.spotify.com/album/5hglONXTikY7aLfrWbkBjb"
-      },
-      "artists": [
-        {
-          "name": "Amelia Curran",
-          "url": "https://open.spotify.com/artist/4ovISfvdFHqGNI4ZuHzh69"
-        }
-      ],
-      "duration_ms": 144040,
-      "name": "Devils",
-      "url": "https://open.spotify.com/track/2cjlGKF1b3ZOMWdGJybQNs"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Hymns For a Dark Horse",
         "url": "https://open.spotify.com/album/1bmDSG41Kr8RQBcP9qCM0e"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 233493,
       "name": "In Our Talons",
       "url": "https://open.spotify.com/track/32MfLc3XuxExc5XOgim5LB"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "War Brides",
+        "url": "https://open.spotify.com/album/5hglONXTikY7aLfrWbkBjb"
+      },
+      "artists": [
+        {
+          "name": "Amelia Curran",
+          "url": "https://open.spotify.com/artist/4ovISfvdFHqGNI4ZuHzh69"
+        }
+      ],
+      "duration_ms": 144040,
+      "name": "Devils",
+      "url": "https://open.spotify.com/track/2cjlGKF1b3ZOMWdGJybQNs"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "The Dark",
-        "url": "https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v"
-      },
-      "artists": [
-        {
-          "name": "Delta Rae",
-          "url": "https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my"
-        }
-      ],
-      "duration_ms": 180920,
-      "name": "The Beast",
-      "url": "https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Natural Conclusion",
         "url": "https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 194570,
       "name": "Chains",
       "url": "https://open.spotify.com/track/7ywUfT35DxrKOoq7ZL0VQ5"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v"
+      },
+      "artists": [
+        {
+          "name": "Delta Rae",
+          "url": "https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my"
+        }
+      ],
+      "duration_ms": 180920,
+      "name": "The Beast",
+      "url": "https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Heatstroke/The Wind and the War",
-        "url": "https://open.spotify.com/album/4bU9I5NtFLbmChbhAqGKwJ"
-      },
-      "artists": [
-        {
-          "name": "KaiL Baxley",
-          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
-        }
-      ],
-      "duration_ms": 158533,
-      "name": "Boy Got It Bad",
-      "url": "https://open.spotify.com/track/3k6QU7zzhlJ8ODb24uuLP9"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Lions And Lambs",
         "url": "https://open.spotify.com/album/5sUoqZHXyBK3dm0MR6uxaZ"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 216840,
       "name": "Hell's Bells",
       "url": "https://open.spotify.com/track/50MNCojhSwCd4QkJ7O80E5"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Heatstroke/The Wind and the War",
+        "url": "https://open.spotify.com/album/4bU9I5NtFLbmChbhAqGKwJ"
+      },
+      "artists": [
+        {
+          "name": "KaiL Baxley",
+          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
+        }
+      ],
+      "duration_ms": 158533,
+      "name": "Boy Got It Bad",
+      "url": "https://open.spotify.com/track/3k6QU7zzhlJ8ODb24uuLP9"
     },
     {
       "added_at": "2022-06-06 19:18:28",

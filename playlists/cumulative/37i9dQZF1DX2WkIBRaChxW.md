@@ -4,7 +4,7 @@
 
 > What's happening in R&B, right now – featuring JON VINYL.
 
-503 songs - 1 day 3 hr 47 min
+504 songs - 1 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 | 2022-03-18 | 2022-07-30 |
 | [Falling For You](https://open.spotify.com/track/1KgqMmNUqRdXqZhR4PXtg8) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Falling For You](https://open.spotify.com/album/74LaE3Z8eYdY9KlHjTXCVm) | 3:19 | 2022-10-28 |  |
 | [Fan](https://open.spotify.com/track/5IDvV5y6vl4Xcj6p4gAMfV) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Lost Files](https://open.spotify.com/album/3TMfWqrSPfKFXUgGJyL09Z) | 3:09 | 2023-03-10 | 2023-04-01 |
-| [Fatal Attraction](https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Fatal Attraction](https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT) | 3:16 | 2023-03-17 |  |
+| [Fatal Attraction](https://open.spotify.com/track/3y9JbvYZAhVeQsAECrKAgt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:16 | 2023-04-21 |  |
+| [Fatal Attraction](https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Fatal Attraction](https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT) | 3:16 | 2023-03-17 | 2023-04-27 |
 | [Feeling Lucky](https://open.spotify.com/track/50xaiGmgb5AspAtX7IAQGF) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/6GvImL1QmugCoaAoD3bgIH) | 2:36 | 2022-02-04 | 2022-02-26 |
 | [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 | 2022-03-11 | 2022-06-22 |
 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 | 2022-12-30 | 2023-03-11 |

@@ -4,7 +4,7 @@
 
 > All of your favorite Disney hits, including songs from Encanto\. Stream Encanto on Disney+.
 
-159 songs - 7 hr 59 min
+160 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [One Jump Ahead](https://open.spotify.com/track/69ZNzwrCGP6h5ewkJQWWaT) | [Brad Kane](https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Aladdin Special Edition](https://open.spotify.com/album/7bt2aty3lUo6Q1Ud8pthRz) | 2:22 | 2022-04-01 | 2022-12-17 |
 | [One Way or Another \(Hocus Pocus 2 Version\)](https://open.spotify.com/track/3jGAUGvmWbPe2LPc8Hon1c) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W), [Sarah Jessica Parker](https://open.spotify.com/artist/07fyshwD6z8kprzXN7hQYH), [Kathy Najimy](https://open.spotify.com/artist/1JdX5huLHgBUAHTNinXnN5) | [Hocus Pocus 2 \(Original Soundtrack\)](https://open.spotify.com/album/5StqoKbQqzkAgH3OtPPQED) | 2:27 | 2022-10-07 |  |
 | [Part of Your World](https://open.spotify.com/track/7tUSJY4nsDBJTjd1UXKRsT) | [Jodi Benson](https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 3:15 | 2022-04-01 |  |
+| [Part of Your World \- From "The Little Mermaid"](https://open.spotify.com/track/2pcSENGQmdptFCBQ3HpKHe) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Part of Your World \(From "The Little Mermaid"\)](https://open.spotify.com/album/1cehuxhFNt8Q8Eobacb0YR) | 3:34 | 2023-04-26 |  |
 | [Poor Unfortunate Souls](https://open.spotify.com/track/7zsw78LtXUD7JfEwH64HK2) | [Pat Carroll](https://open.spotify.com/artist/0Yy9u86cq66Se2pB9fYaiW), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 4:51 | 2022-04-01 |  |
 | [Real Gone](https://open.spotify.com/track/45dGKmN6jw7PgK6Dw2rEp2) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Cars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f) | 3:20 | 2022-04-01 |  |
 | [Reflection \(2020\)](https://open.spotify.com/track/5Y1id2NTv2M7x2g2V2q1Sz) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mulan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP) | 3:37 | 2022-12-16 |  |

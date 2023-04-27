@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Grupo Frontera y Bad Bunny, PP y Jasiel Nuñez, La Nicki y Rels B, para empezar bien el fin de semana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,064 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,344 likes - 51 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 17 | [Romance y Bellakera](https://open.spotify.com/track/1K5liUyu6GsrP07E3ukGHO) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Romance y Bellakera](https://open.spotify.com/album/2HuZtjQmKRHNQy0hd5u8p2) | 4:17 |
 | 18 | [Bandolera](https://open.spotify.com/track/1IMS40acXF1BpJ7LRoHhQY) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Bandolera](https://open.spotify.com/album/3weU1MeL7x9TRfWrPSIyFN) | 3:15 |
 | 19 | [Satellite](https://open.spotify.com/track/0DK6lGJisrNaLkiK6cjDaw) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Satellite](https://open.spotify.com/album/4ulY3Mdx1N1VQ5Zn6wNnm6) | 3:28 |
-| 20 | [People \(feat\. Becky G\)](https://open.spotify.com/track/40OZkN8qle7lxaovVrn1QY) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [People \(feat\. Becky G\) \[Remixes\]](https://open.spotify.com/album/49TVWS0iWtQ7ZAQFzqqpoB) | 3:22 |
+| 20 | [People \(feat\. Becky G\)](https://open.spotify.com/track/40OZkN8qle7lxaovVrn1QY) | [Libianca](https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [People \(feat\. Becky G\) \[Remixes\]](https://open.spotify.com/album/49TVWS0iWtQ7ZAQFzqqpoB) | 3:22 |
 | 21 | [Jacaré](https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Jacaré](https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO) | 2:36 |
 | 22 | [Haegeum](https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 2:48 |
 | 23 | [Rescued](https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Rescued](https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO) | 4:18 |

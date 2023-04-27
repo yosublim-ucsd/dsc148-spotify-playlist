@@ -4,7 +4,7 @@
 
 > 75 ways to cope with your Indie fomo\. Pixey on cover.
 
-81 songs - 4 hr 36 min
+82 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Enemy](https://open.spotify.com/track/2DvqIw0ToR8GriSbvlA4Ws) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Caught in a Parade](https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG) | 3:42 | 2022-11-30 |  |
 | [Ever Since We Met](https://open.spotify.com/track/3nPFzf6sWVuTHU5fccyD71) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Sharks](https://open.spotify.com/album/4MxJJYvCOlCWuijbd9pp6B) | 3:31 | 2022-11-30 |  |
 | [Fôlego](https://open.spotify.com/track/6osnEzYzGwu6pXXXK9WsgI) | [Siricaia](https://open.spotify.com/artist/7HXhMMJtqpRR1dzsJFkG9x), [SHANGE](https://open.spotify.com/artist/694dpz8pMTmCWOX9a88S16) | [Fôlego](https://open.spotify.com/album/3zKykaMRAhE9tpy2bofQzp) | 4:20 | 2022-11-30 |  |
-| [Girls](https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH) | 1:59 | 2022-11-30 |  |
+| [Girls](https://open.spotify.com/track/1J7PghJCXSry2djsrflxdq) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/2fH2641iiOweBzDveY6QxM) | 1:59 | 2022-11-30 |  |
+| [Girls](https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH) | 1:59 | 2022-11-30 | 2023-04-27 |
 | [Gold Rush](https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Gold Rush](https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0) | 4:44 | 2022-11-30 |  |
 | [Golden Air](https://open.spotify.com/track/2o8xeyC4vUCchOrsAbhlMr) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Golden Air](https://open.spotify.com/album/32jgOrE90Ntl88omcg7C9J) | 5:42 | 2022-11-30 |  |
 | [High\-Speed Kissing](https://open.spotify.com/track/6ljkm9d4eYGQFYX7PxR6h5) | [Lake Malawi](https://open.spotify.com/artist/4UXTIkBW9t9Lcx3xtlaifs), [We Are Domi](https://open.spotify.com/artist/68nZwIknhC5s9gLHPly09S) | [High\-Speed Kissing](https://open.spotify.com/album/1y5Kw8PeJnz99ctZzWFrlU) | 3:08 | 2022-11-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Chill & Bumpy
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,105 likes - 70 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,249 likes - 70 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 29 | [Topdown](https://open.spotify.com/track/6KflfPD0qIbbB1PQyAHla5) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Channel Tres](https://open.spotify.com/album/01Vvrmisrvr1YOIGRn4brG) | 3:50 |
 | 30 | [EXCEPTIONAL](https://open.spotify.com/track/02oVra8RWdAYaKbdinrfRC) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [EXCEPTIONAL](https://open.spotify.com/album/2bCu6FoQW3rXWUqdAsfof2) | 2:17 |
 | 31 | [Killing Me](https://open.spotify.com/track/01cAvCmXqqHEnKzaQXkhzN) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Killing Me](https://open.spotify.com/album/5yeTnVxNU9I1rdfvVN26Fm) | 3:14 |
-| 32 | [How Long Have You Been Away?](https://open.spotify.com/track/5H7NVUGfw8fstj1LWJ0wXo) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [krypt\. vol2](https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq) | 3:28 |
-| 33 | [Opal \- Four Tet Remix](https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Opal \(Four Tet Remix\)](https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN) | 8:14 |
+| 32 | [Opal \- Four Tet Remix](https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Opal \(Four Tet Remix\)](https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN) | 8:14 |
+| 33 | [How Long Have You Been Away?](https://open.spotify.com/track/5H7NVUGfw8fstj1LWJ0wXo) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [krypt\. vol2](https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq) | 3:28 |
 | 34 | [Aura](https://open.spotify.com/track/4qEEERg5kM60N2vcna11oq) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Dusk](https://open.spotify.com/album/2gwNU1WsZEOcCSyKHsXKs5) | 3:49 |
-| 35 | [It'll All Be Over \- DJ Koze Remix \- Radio Edit](https://open.spotify.com/track/48dojgnBKfp3drKOFdwycc) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [It'll All Be Over \(DJ Koze Remix \- Radio Edit\)](https://open.spotify.com/album/0T4xFSNi3vOmlC4GUXPfIE) | 3:08 |
-| 36 | [DO 4 LOVE \- Black Coffee Remix](https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [DO 4 LOVE \(Black Coffee Remix\)](https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2) | 3:44 |
+| 35 | [DO 4 LOVE \- Black Coffee Remix](https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [DO 4 LOVE \(Black Coffee Remix\)](https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2) | 3:44 |
+| 36 | [It'll All Be Over \- DJ Koze Remix \- Radio Edit](https://open.spotify.com/track/48dojgnBKfp3drKOFdwycc) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [It'll All Be Over \(DJ Koze Remix \- Radio Edit\)](https://open.spotify.com/album/0T4xFSNi3vOmlC4GUXPfIE) | 3:08 |
 | 37 | [Ya Just Need 2 Believe in Yaself](https://open.spotify.com/track/3u1hU4L9HLGBjcj1nQekIv) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [4MYPPL\#1](https://open.spotify.com/album/3jHf5zZ8d5MQg03YyfTa2I) | 7:02 |
 | 38 | [Don't Let Go](https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Don't Let Go](https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga) | 4:29 |
 | 39 | [pass on over](https://open.spotify.com/track/0j28heQh9SneJxHpLY4pdt) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [pass on over](https://open.spotify.com/album/3ZbbMzhyLBIqrpjtBA75X7) | 2:37 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 67 | [Floating on Silence](https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Floating on Silence](https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO) | 6:21 |
 | 68 | [Found Your Love](https://open.spotify.com/track/2ohinF8keJDshzetGAK0GX) | [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Kuyen](https://open.spotify.com/artist/19Dh373FE7YK7FWvVxOk3b) | [Celestial Strut](https://open.spotify.com/album/5UAtIWTEaVwzoZ4NZDtElM) | 5:49 |
 | 69 | [Are U Down \- Remix](https://open.spotify.com/track/0GyPmdjs3YBPCfWccCBxPD) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us / Are U Down](https://open.spotify.com/album/73rAUSm45jVN9L5oAtUaIV) | 4:00 |
-| 70 | [Chucks \(feat\. Channel Tres\)](https://open.spotify.com/track/3VnDDruJDou1AIVjloQBzh) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Chucks \(feat\. Channel Tres\)](https://open.spotify.com/album/1EI3034vDdMkoMD2NgV9z1) | 2:55 |
+| 70 | [Alive](https://open.spotify.com/track/2DYFxnCylg9w08UNLG5qTr) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Alive](https://open.spotify.com/album/1kdJHSLs8tTh6g9FRRNRV5) | 4:30 |
 
-Snapshot ID: `MTY4MjAyODAwMCwwMDAwMDAwMDBiYjc0OTBkOWZlY2YzYzYzOGJmZDg0ZGQwYzU1MWY5`
+Snapshot ID: `MTY4MjAyODAwMCwwMDAwMDAwMDkzOGNjZmRjMzE0YWEyYTgyMWE1MWUxZjc0NTM2YTE1`

@@ -4,7 +4,7 @@
 
 > Sometimes it's nice to be nice, you know.
 
-375 songs - 22 hr 39 min
+376 songs - 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [I hope that you think of me](https://open.spotify.com/track/42LY6qYxu3L6nJ7Dt72gNy) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU), [Lucys](https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI) | [Hard Times / Bad Trips](https://open.spotify.com/album/7adFlPgcQWFfPHcgNgZhUI) | 2:08 | 2022-08-05 |  |
 | [I Should Go \- Solo Version](https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [I Should Go \(Solo Version\)](https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV) | 2:31 | 2021-11-12 |  |
 | [I Was Neon](https://open.spotify.com/track/2EFiEJ0WdC0zR6NYtoTE1t) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/6TojjY9JPhsgR5U6r9g3ZC) | 4:02 | 2022-08-05 | 2022-12-01 |
-| [I Was Neon](https://open.spotify.com/track/4PXjrpBSAXim7Zm0W3yVjQ) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5) | 4:02 | 2022-08-05 |  |
+| [I Was Neon](https://open.spotify.com/track/4PXjrpBSAXim7Zm0W3yVjQ) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5) | 4:02 | 2022-08-05 | 2023-04-27 |
 | [I Was Neon](https://open.spotify.com/track/65ikIJChIrHvha8l4zqP5P) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [I Was Neon](https://open.spotify.com/album/3zonfnIlNcBvaAe1cVfPy6) | 4:02 | 2022-06-22 | 2022-07-29 |
 | [I Was Neon](https://open.spotify.com/track/790lYlUNxJzwyUkEBkcGb7) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [I Was Neon](https://open.spotify.com/album/1AqDTVzqtJDMciqllUWWbm) | 4:02 | 2022-06-22 | 2022-08-29 |
 | [I Won't Bite](https://open.spotify.com/track/3NJe9t6oxZgzErlBrWDuKx) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [I Won't Bite](https://open.spotify.com/album/6qn9Deaiebh89YVpukAhcX) | 4:17 | 2022-03-19 | 2022-07-19 |
@@ -303,6 +303,7 @@
 | [Southwark](https://open.spotify.com/track/0YuFYmdojZmBYD9V5giqTR) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Truth or Consequences](https://open.spotify.com/album/0yss5R3uULkCI7Dc9jKRoV) | 3:22 | 2021-11-12 | 2022-07-25 |
 | [Spinning](https://open.spotify.com/track/0R6pHybIu4aJA6gJEJgRbc) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Spinning](https://open.spotify.com/album/6dKyD7dQTcNnSYSoedettQ) | 3:08 | 2021-11-12 | 2022-07-26 |
 | [Stargazing](https://open.spotify.com/track/2zeXeeZv2TS1VNwItCH27A) | [SPINN](https://open.spotify.com/artist/3VRqGLyj4cnRers46I0Yk4) | [Stargazing](https://open.spotify.com/album/1ZlKSfeCODG5uYJfcbckSC) | 3:37 | 2021-11-12 | 2022-07-27 |
+| [Static](https://open.spotify.com/track/0Al15mz670v9J7ik2FXDAr) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Last Exit](https://open.spotify.com/album/50EAokAxob4hHwJCTQ1A2M) | 3:55 | 2022-08-05 |  |
 | [Static](https://open.spotify.com/track/4dzJp4NxWFSWUFUhI0s72k) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Last Exit](https://open.spotify.com/album/4qQas6wHjmGZsUBS9ziAhe) | 3:55 | 2022-03-19 | 2023-04-07 |
 | [Stay And Rest For A While](https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2) | [Good Dog](https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1) | [Stay And Rest For A While](https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL) | 2:53 | 2021-11-12 | 2022-07-29 |
 | [Sucker](https://open.spotify.com/track/6IRZc1ZeglfYbGQENnTUnw) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Sucker](https://open.spotify.com/album/5FfRcwOd5DwsvSZlyAFfFp) | 3:43 | 2022-10-07 | 2023-01-27 |

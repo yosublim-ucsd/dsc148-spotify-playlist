@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 713,560 likes - 84 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 714,516 likes - 84 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 12 | [Red:birthmark](https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Red:birthmark](https://open.spotify.com/album/7AY0g8TDN47O4adtsPLFgj) | 3:36 |
 | 13 | [当事者](https://open.spotify.com/track/69TMjHuBaLNRtMPopKWbdC) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [当事者](https://open.spotify.com/album/4BdgxEZaVzqaJYwYwJeoJn) | 4:01 |
 | 14 | [Starting Over](https://open.spotify.com/track/2kuTXMJcOuIgZGc73kP5Is) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Starting Over](https://open.spotify.com/album/3d4K0E7Jisj18spw1y7rEF) | 3:10 |
-| 15 | [リンネ](https://open.spotify.com/track/4Ps9apbyXwAzD99EfQdKdy) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [リンネ](https://open.spotify.com/album/6HAAgNaMddnBwL6u9HOCpX) | 4:15 |
-| 16 | [Never say Never](https://open.spotify.com/track/308ljVGdTUoIJZTtceMFd0) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz) | [Never say Never](https://open.spotify.com/album/5Egx4Cohqf80LfIy5GpIk6) | 4:25 |
+| 15 | [リンネ](https://open.spotify.com/track/4Zl0YGg14OYsXoUareu1MX) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [リンネ](https://open.spotify.com/album/6OAstY8cQ4Pi0Q0EQQ0oaY) | 4:15 |
+| 16 | [Never say Never](https://open.spotify.com/track/61gMW4HX7FsLNDAAWBUTUg) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz) | [Never say Never](https://open.spotify.com/album/4jpMiwfRwO5bs6BZkJouuI) | 4:25 |
 | 17 | [ワスレガタキ](https://open.spotify.com/track/24PaqdVWQBvwnJmbRsvV5a) | [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr) | [ワスレガタキ](https://open.spotify.com/album/3soHYtUh1ITKtBAHPPBJwO) | 2:57 |
 | 18 | [innocent arrogance](https://open.spotify.com/track/7JgBlEV4AbeHVhaTczGdTg) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [innocent arrogance](https://open.spotify.com/album/1VoA8bMAIB5BRjSMqaFQkP) | 3:31 |
 | 19 | [Stay Free](https://open.spotify.com/track/07eAQ4yUtJXlmajfLDL2fs) | [Machico](https://open.spotify.com/artist/1WAGre0baNiJXIRT5JSMn9) | [Stay Free \(Kono Subarashii Sekai Ni Bakuen Wo! Opening Theme\)](https://open.spotify.com/album/4AFGph0PQNYPqu4nYpdsQf) | 4:01 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 24 | [Lapse](https://open.spotify.com/track/5TeGDq5gS3KBG88UvdAT5E) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/6IOnkt2rwHoyPgd8tiBTSD) | 3:55 |
 | 25 | [Knock Out](https://open.spotify.com/track/5ktgImJ7uP5gR2Pv85R9Qy) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [Knock Out](https://open.spotify.com/album/3pHuTLk66QGfAd4KRq4ErX) | 3:45 |
 | 26 | [シュークリーム・ファンク](https://open.spotify.com/track/275ULfjS2XcfhP7u4XXyft) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [シュークリーム・ファンク](https://open.spotify.com/album/7CyrqVpM8tZFbhOJyHuI2o) | 3:35 |
-| 27 | [Quiet explosion](https://open.spotify.com/track/221x9VoSuIZLz05MfJ9hVT) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [Quiet explosion](https://open.spotify.com/album/3d4pqoNGR66q2B2A0DJaL9) | 3:26 |
+| 27 | [Quiet explosion](https://open.spotify.com/track/3ytGc8DrY5fvPYJpkGfB0W) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [Quiet explosion](https://open.spotify.com/album/3XAEoNI4FLn9PKW6S6pfGA) | 3:26 |
 | 28 | [Nascent Sacrifice](https://open.spotify.com/track/1QzvSEACKXiCPweJe8OLmm) | [BIN](https://open.spotify.com/artist/7sDDtZP2I0BT5GwatnM0gk) | [Nascent Sacrifice](https://open.spotify.com/album/6TBYIFQR3zIQmqkAEqUmv6) | 3:12 |
 | 29 | [Cantabile](https://open.spotify.com/track/4Y5avL0StifbsLNUtzWH58) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [Cantabile](https://open.spotify.com/album/4nCi6OEl9dW978qgBL6X8F) | 3:46 |
 | 30 | [夕さりのカノン](https://open.spotify.com/track/37lVT9BHrBRUsLxYUOZw9x) | [粗品](https://open.spotify.com/artist/7xqEtCgCQWtiuvlkM5Wigc), [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [夕さりのカノン](https://open.spotify.com/album/0UpP21Crlupm1SaIE33tIy) | 3:11 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 83 | [おどる ひかり](https://open.spotify.com/track/5vKeKeMQEOVVHvWoboCWdK) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [おどる ひかり](https://open.spotify.com/album/70dxLOHCgr6kXq9PU6v1er) | 4:41 |
 | 84 | [ゼロステップ \(feat\. 小野賢章\)](https://open.spotify.com/track/7wqa3SBNDoQ436Feb8x5Zl) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc), [小野賢章](https://open.spotify.com/artist/6yg8XM7BirJ6GnfBUt7BUU) | [ゼロステップ \(feat\. 小野賢章\)](https://open.spotify.com/album/4GCmrKpfubJATaKMZ43RUT) | 4:30 |
 
-Snapshot ID: `MTY4MjQzOTc0NSwwMDAwMDAwMGViYTg0YjAzODYxZTU3M2E3M2UxNjJlYWU2OTU4MmE5`
+Snapshot ID: `MTY4MjQzOTc0NSwwMDAwMDAwMDkxYWNhMWEzNjI5ODFjZDY5NmU1MDg0NGZmM2JkYTAx`

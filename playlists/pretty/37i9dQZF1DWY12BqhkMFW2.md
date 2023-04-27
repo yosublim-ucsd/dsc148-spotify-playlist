@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,265 likes - 35 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,345 likes - 35 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 5 | [Who Can I Run To](https://open.spotify.com/track/0wdaPticLmmqJdhgLDJ9zI) | [Xscape](https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0) | [Off The Hook](https://open.spotify.com/album/6lwTyWDtJbJ3czkIkUBPoj) | 3:36 |
 | 6 | [Georgy Porgy \(feat\. Faith Evans\)](https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Kevin "K.D." Davis](https://open.spotify.com/artist/20ZzK04IeD9EcQE12i2uRa) | [A Day in the Life](https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB) | 4:40 |
 | 7 | [All I Do Is Think of You](https://open.spotify.com/track/4XhrowM5IKGCRrY2HzYBH3) | [Troop](https://open.spotify.com/artist/5r7mGejWrGSxheAYEIfSwI) | [Attitude](https://open.spotify.com/album/7JejBAyNL3oKVt1tNHLosr) | 3:49 |
-| 8 | [Knocks Me Off My Feet](https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B) | [My Heart](https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV) | 3:42 |
-| 9 | [Sweet Thing](https://open.spotify.com/track/3X3XuCPTC95ARm9SguWsIa) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 3:45 |
+| 8 | [Sweet Thing](https://open.spotify.com/track/3X3XuCPTC95ARm9SguWsIa) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 3:45 |
+| 9 | [Knocks Me Off My Feet](https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B) | [My Heart](https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV) | 3:42 |
 | 10 | [Untitled \(How Does It Feel\)](https://open.spotify.com/track/6ALoVRxwV5KxaSWyejnmvi) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Spotify Singles](https://open.spotify.com/album/7pfQDManhpjhxwqps9cveA) | 3:41 |
 | 11 | [Feel Like Makin' Love](https://open.spotify.com/track/7hzgk557YLr0722EFkmp9Z) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 6:22 |
 | 12 | [Million](https://open.spotify.com/track/1Ktsil4bC4hYRWlqMG4qK3) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Million](https://open.spotify.com/album/47KopnVrimQ96IMZqMU6EU) | 4:31 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 30 | [What's Going On \- Live At Spotify, NY/2012](https://open.spotify.com/track/4fw9tzAk23Os1aeHVfvPeE) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Spotify Sessions](https://open.spotify.com/album/4SciWnD9PHmrHe2dnw916K) | 4:41 |
 | 31 | [Lately](https://open.spotify.com/track/5hIljtQ1fRvDRc1aHdhwWK) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [Uptown MTV Unplugged](https://open.spotify.com/album/0CQcwTXgmXtXpMcORejZSM) | 6:13 |
 | 32 | [It Never Rains \(In SoCal\)](https://open.spotify.com/track/2yBk4a2LyBM5vRAMe5eIiG) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [It Never Rains \(In SoCal\)](https://open.spotify.com/album/4PwGMRB8IwASSkiRC44c8s) | 4:16 |
-| 33 | [Stop, Look, Listen To Your Heart](https://open.spotify.com/track/1IDqjd1izHqfglec625jgJ) | [Will Downing](https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY), [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [The Best Of Will Downing: The Millennium Collection \- 20th Century Masters](https://open.spotify.com/album/25s9D0Llmg6ZSvFCK9MDAM) | 3:41 |
-| 34 | [Let's Chill](https://open.spotify.com/track/7wb7R141Fp1oRitCNhKsyu) | [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Charlie, Last Name Wilson](https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP) | 5:02 |
+| 33 | [Let's Chill](https://open.spotify.com/track/7wb7R141Fp1oRitCNhKsyu) | [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Charlie, Last Name Wilson](https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP) | 5:02 |
+| 34 | [Stop, Look, Listen To Your Heart](https://open.spotify.com/track/1IDqjd1izHqfglec625jgJ) | [Will Downing](https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY), [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [The Best Of Will Downing: The Millennium Collection \- 20th Century Masters](https://open.spotify.com/album/25s9D0Llmg6ZSvFCK9MDAM) | 3:41 |
 | 35 | [Love Don't Live Here Anymore](https://open.spotify.com/track/0bL1x6Y2OvJZbkB1B7o83u) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faith](https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev) | 4:17 |
 
-Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMDZjODk4MTBiOTRhMDAzNGNmNDA1NGFjZWYxNzk5NDZh`
+Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMDk0ODJkYTE2YWQ2ODhhYzFiMmY0MDIyNWQwY2Y0MTkw`

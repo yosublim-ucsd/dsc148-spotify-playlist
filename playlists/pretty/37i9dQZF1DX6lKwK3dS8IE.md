@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 
 > Folk punk, anti\-folk, acoustic punk & more\. Cover: The Moldy Peaches
 
-[Spotify](https://open.spotify.com/user/spotify) - 742 likes - 55 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 747 likes - 55 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 2 | [Twin Size Mattress](https://open.spotify.com/track/14N3tALR3Mhf7UHpJRKk4L) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Talon Of The Hawk](https://open.spotify.com/album/1Xz5zrDqXetBm5HwNGSqPs) | 4:24 |
 | 3 | [Blister In The Sun](https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 2:25 |
 | 4 | [Hell's Comin' with Me](https://open.spotify.com/track/5N0lmKQfQpXNQNjUGlPKIT) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/7sXEDXktkY9cFOcgvIR6CI) | 3:32 |
-| 5 | [I Love You Like An Alcoholic](https://open.spotify.com/track/7u63zva845rv8tRFi9FG8a) | [The Taxpayers](https://open.spotify.com/artist/1QNEVFk8MjculKl5977kfy) | ["God, Forgive These Bastards" Songs From The Forgotten Life of Henry Turner](https://open.spotify.com/album/2H4MixFpi9BQdQqtozfovm) | 3:35 |
-| 6 | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI) | 2:21 |
+| 5 | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI) | 2:21 |
+| 6 | [I Love You Like An Alcoholic](https://open.spotify.com/track/7u63zva845rv8tRFi9FG8a) | [The Taxpayers](https://open.spotify.com/artist/1QNEVFk8MjculKl5977kfy) | ["God, Forgive These Bastards" Songs From The Forgotten Life of Henry Turner](https://open.spotify.com/album/2H4MixFpi9BQdQqtozfovm) | 3:35 |
 | 7 | [In the Aeroplane Over the Sea](https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) | 3:22 |
 | 8 | [No Children](https://open.spotify.com/track/5cxnSTLzGD1t9xcdmJYFVB) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Tallahassee](https://open.spotify.com/album/6g3n0C6d4v81DnDheoLMvX) | 2:48 |
 | 9 | [In Hell I'll Be in Good Company](https://open.spotify.com/track/4eMxLQtSdgxdA1Hs6D2YuN) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Good Company](https://open.spotify.com/album/0n4AyLQhgR4uEypHuyUEHp) | 4:05 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 34 | [Cult Boyfriend](https://open.spotify.com/track/4yYkAGcxY6H0NtNaRTzmpH) | [Jeffrey Lewis](https://open.spotify.com/artist/2Icsf5D1lAs2EFx6kggg5D) | [A Turn in the Dream\-Songs](https://open.spotify.com/album/7HqSmbT8eQWB9Ta65a7sAi) | 2:36 |
 | 35 | [Armchair Anarchism](https://open.spotify.com/track/3p7v07Sm6ItF5GFYMsQdkZ) | [Not Half Bad](https://open.spotify.com/artist/3oOlOS93V6ex5t5lrvZ7s7) | [Dorks / Nerds](https://open.spotify.com/album/2iNrQMInnce84QaUwlOTUw) | 2:26 |
 | 36 | [The Legend of Chavo Guerrero](https://open.spotify.com/track/6gPrsmxMd346xXojwswZAN) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Beat the Champ](https://open.spotify.com/album/4i54Kl9bCNCVJeeflih1rB) | 3:00 |
-| 37 | [Thinking About a Potentially Awkward Interaction with an Old Friend](https://open.spotify.com/track/60D1sWe1mCWVRnfCOj9FIE) | [Crywank](https://open.spotify.com/artist/7gzXeFUDWz0aqhikdkOJxQ), [COMMUTED](https://open.spotify.com/artist/6cawYhCvtkb5aEr1ZpjbGT) | [Just Popping in to Say Hi](https://open.spotify.com/album/5hlppuKaSHTx8E58QAMrE3) | 2:44 |
+| 37 | [Springwater](https://open.spotify.com/track/5XS17WKzCivfD3aaK6Vuet) | [Birdcloud](https://open.spotify.com/artist/4jMnk0SNvD42VxO4WpFuoo) | [Singles Only](https://open.spotify.com/album/6MGEAwh2nhb2AdKMUkbbqL) | 1:50 |
 | 38 | [Survival Song](https://open.spotify.com/track/47hr9KDPHYmOCCd0aj3Q04) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [People Who Can Eat People are the Luckiest People in the World](https://open.spotify.com/album/2jRdTNGZzb3drtFRYaUpFE) | 2:28 |
-| 39 | [Springwater](https://open.spotify.com/track/5XS17WKzCivfD3aaK6Vuet) | [Birdcloud](https://open.spotify.com/artist/4jMnk0SNvD42VxO4WpFuoo) | [Singles Only](https://open.spotify.com/album/6MGEAwh2nhb2AdKMUkbbqL) | 1:50 |
+| 39 | [Thinking About a Potentially Awkward Interaction with an Old Friend](https://open.spotify.com/track/60D1sWe1mCWVRnfCOj9FIE) | [Crywank](https://open.spotify.com/artist/7gzXeFUDWz0aqhikdkOJxQ), [COMMUTED](https://open.spotify.com/artist/6cawYhCvtkb5aEr1ZpjbGT) | [Just Popping in to Say Hi](https://open.spotify.com/album/5hlppuKaSHTx8E58QAMrE3) | 2:44 |
 | 40 | [Habits Held](https://open.spotify.com/track/0g5P2jUXS1MajSvTqB9Xzr) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [How Did It Seem To You?](https://open.spotify.com/album/7JJ4Iz9RUdXMzaakBCnlwA) | 2:03 |
 | 41 | [Tangled in Ropes](https://open.spotify.com/track/78IKSH3rgDaL8GyXV06OKP) | [Holy Locust](https://open.spotify.com/artist/53pzYGtCFFFYEnDy7I21KQ) | [Fever Dream](https://open.spotify.com/album/6Voz4CbRCeBmjOAl6cQYeO) | 5:14 |
 | 42 | [Critical Hit](https://open.spotify.com/track/2XCxUexRr4mxLqBwZoHg9I) | [Ghost Mice](https://open.spotify.com/artist/0TF5GTnQ6cdDVRhfGyIXM2) | [Death and Hatred to Mankind](https://open.spotify.com/album/5lIeYBB9sGqFZHPasYTr8t) | 1:59 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 54 | [Be Happy](https://open.spotify.com/track/6fzlvBtOkL1LNKyrToxVwi) | [A Day Without Love](https://open.spotify.com/artist/09JoYdZo9cekYMqyN1bsGD) | [Be Happy, Today](https://open.spotify.com/album/1dsdPI01rcf6eRHYJTsu1H) | 3:00 |
 | 55 | [Cup of Water](https://open.spotify.com/track/2WxO2FZlWAMz5joaAry6CU) | [Billy Mack Collector](https://open.spotify.com/artist/1e7Ac48NUTW8s93OMz7FWE) | [Songs About Water and Trying to Feel Okay](https://open.spotify.com/album/5JZfn7wYHxgbEbJRs2vb79) | 4:00 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMGMwYmY1MDA4OGU2ZGFlOTgwNzA3OWNiZDY1OGEyNzE4`
+Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDAyMjJkN2IyYTc0NWZkMDA2MGNhODBkNDY4ZjlhM2E1`

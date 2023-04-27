@@ -15622,7 +15622,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 161379,
       "name": "One",
       "url": "https://open.spotify.com/track/43y4bvWHydIDn1DV5VqZRr"
@@ -23090,6 +23090,24 @@
       "duration_ms": 143331,
       "name": "Winna (feat. Alex Marley)",
       "url": "https://open.spotify.com/track/2qjLsL5PVVBNbA9Wxijpkz"
+    },
+    {
+      "album": {
+        "name": "Wish You The Best",
+        "url": "https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210880,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
     },
     {
       "album": {

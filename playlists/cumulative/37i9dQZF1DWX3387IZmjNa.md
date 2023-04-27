@@ -4,7 +4,7 @@
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Toosii
 
-302 songs - 15 hr 37 min
+303 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,8 @@
 | [Take Shots \(feat\. Tory Lanez\)](https://open.spotify.com/track/2tFwYCvY0x9IfeW63AdMpM) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Take Shots \(feat\. Tory Lanez\)](https://open.spotify.com/album/6ZDt6HZAFajVtwvNOjJb2b) | 4:41 | 2022-10-21 | 2023-02-25 |
 | [Take You Back \(feat\. Lil Durk\)](https://open.spotify.com/track/1WrVBzjNuyDBqh0kXHFsCr) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 3:21 | 2022-02-25 | 2022-08-27 |
 | [Taken For Granted](https://open.spotify.com/track/3CsdKcnQRUtuPO7hHjzJ1P) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Taken For Granted](https://open.spotify.com/album/1v9tdLs34CUDSItvFilRMD) | 2:50 | 2021-10-30 | 2021-12-11 |
-| [Tanisha \(Pump That\)](https://open.spotify.com/track/5ckaFWaVWVfIcPFYfofmzH) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Tanisha \(Pump That\)](https://open.spotify.com/album/6GqEIfRc7ACkLQ2SGGqxFb) | 2:46 | 2023-04-07 |  |
+| [Tanisha \(Pump That\)](https://open.spotify.com/track/0eeeK1ar71WxdsTKydG9yz) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 2:46 | 2023-04-07 |  |
+| [Tanisha \(Pump That\)](https://open.spotify.com/track/5ckaFWaVWVfIcPFYfofmzH) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Tanisha \(Pump That\)](https://open.spotify.com/album/6GqEIfRc7ACkLQ2SGGqxFb) | 2:46 | 2023-04-07 | 2023-04-27 |
 | [Teach Her The Game](https://open.spotify.com/track/4dcnMjjjEKpMXMg70EUjeT) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [Teach Her The Game](https://open.spotify.com/album/4e6FwvLip0QgE6ix2fQjG6) | 2:18 | 2022-09-16 | 2022-10-15 |
 | [Tell Your Friends \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/5HUDU2YUTZ0R0ZmrIr4Dsz) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Tell Your Friends \(feat\. Kalan.FrFr\)](https://open.spotify.com/album/4uaR7U5YpO5yLGufMUtPuO) | 2:43 | 2022-05-06 | 2022-07-23 |
 | [They Don't Know](https://open.spotify.com/track/3iuGyJQKwSIozygB3nwojP) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [They Don't Know](https://open.spotify.com/album/2rNpBAGNZz1jcccaoK2oT7) | 2:48 | 2022-12-16 |  |

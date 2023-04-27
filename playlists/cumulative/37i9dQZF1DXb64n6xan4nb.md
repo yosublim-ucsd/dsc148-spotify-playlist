@@ -4,7 +4,7 @@
 
 > Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s\. \(한 시절 감성을 대표했던 싸이월드 BGM을 감상해보세요.\)
 
-106 songs - 7 hr 19 min
+107 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Every moment of you 너의 모든 순간](https://open.spotify.com/track/4YTvuLSqKshDOJvwyDmAYS) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [My Love From the Star 별에서 온 그대 \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/7vv0uqXP5CmCkBczh3z4ZV) | 4:03 | 2022-06-13 |  |
 | [Fly](https://open.spotify.com/track/3lVGVuyrh4zLTMUmVm4y9l) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx) | [CYWORLD BGM 2021](https://open.spotify.com/album/3HHwRV6jbYvwshPkNwOLj0) | 3:38 | 2022-06-13 | 2023-04-16 |
 | [flying duck](https://open.spotify.com/track/00ddDV60MFTJkWSGC7IGIv) | [cherryfilter](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) | [Third Eye](https://open.spotify.com/album/4ANwiBBR2ZV7UI5jolOBzz) | 4:05 | 2022-06-13 |  |
+| [FOR YOU](https://open.spotify.com/track/2Fth4BfZxpGht783UTYiiA) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 4:07 | 2022-06-13 |  |
 | [Guilty](https://open.spotify.com/track/0SPZ7y0fJiozsuWLSAocOl) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Band of Dynamic Brothers](https://open.spotify.com/album/4Vb6ViMVJhqYaCyV6Y7VU1) | 3:44 | 2022-06-13 |  |
 | [Hawaian Couple](https://open.spotify.com/track/1Yd6CizL523PL8IsdkmKCD) | [HUS](https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT) | [Purple Drop](https://open.spotify.com/album/1OSnHPkpPMWO8BEqwKfURo) | 3:38 | 2022-06-13 |  |
 | [Hello from SEO EUNKWANG](https://open.spotify.com/track/6EhxH42coTBckphoRy3gTI) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [SEO EUNKWANG \- CYWORLD BGM](https://open.spotify.com/album/44rTmgdVFgC7B6Zp3MHYKw) | 0:14 | 2022-06-13 |  |
@@ -67,7 +68,7 @@
 | [What if](https://open.spotify.com/track/0yqTCKcLaJfeVEUavlnYK3) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [TIME FOR LOVE](https://open.spotify.com/album/4vOrKQQbPSjYGQRbixrdRi) | 3:48 | 2022-06-13 |  |
 | [With Coffee…](https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:35 | 2022-06-13 |  |
 | [With Me](https://open.spotify.com/track/0cPPyoGJkteS3kBHfsV7qE) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [It's Real](https://open.spotify.com/album/1XhwZEKRfvdHEaYIQkdasu) | 3:30 | 2022-06-13 |  |
-| [Without a Heart \- 10th Anniversary Ver.](https://open.spotify.com/track/5kEDvns1MRfQG1b28KMmHI) | [8Eight](https://open.spotify.com/artist/5fp3IPvTlnkqI5NvRnwldJ) | [Fool Again](https://open.spotify.com/album/4wYYHmNtTMjlG8WXfznCwU) | 3:37 | 2022-06-13 |  |
+| [Without a Heart \- 10th Anniversary Ver.](https://open.spotify.com/track/5kEDvns1MRfQG1b28KMmHI) | [8Eight](https://open.spotify.com/artist/5fp3IPvTlnkqI5NvRnwldJ) | [Fool Again](https://open.spotify.com/album/4wYYHmNtTMjlG8WXfznCwU) | 3:37 | 2022-06-13 | 2023-04-27 |
 | [Y \(feat.BUMZU\)](https://open.spotify.com/track/2LOglplo2xqm1IvyaKhzGm) | [Kei](https://open.spotify.com/artist/2NQKyWnBw5BRknaO7r8fBk), [Myundo](https://open.spotify.com/artist/0SjHcY2YHQyCUCiYSZsPZg), [BUMZU](https://open.spotify.com/artist/4FCneqQd4xiPXKOa6poPIf) | [Y](https://open.spotify.com/album/6Txn5hnrNuZ9FFGRGAQ5ot) | 4:04 | 2022-06-13 |  |
 | [Y \(Please Tell Me Why\)](https://open.spotify.com/track/1nk9moKBnrWMsXoHxnaeJd) | [freestyle](https://open.spotify.com/artist/0LigV2SSsRZaeX2htEFXV9) | [Freestyle 3](https://open.spotify.com/album/6cPklgz0YWJY7VQSR5PIZY) | 4:40 | 2022-06-13 |  |
 | [Y \(Please Tell Me Why\)](https://open.spotify.com/track/4gwk1mjNJYQ4nvSVU6Vcl8) | [Soyou](https://open.spotify.com/artist/7Eu1Td5FeUk2mNfcpCOfch) | [Cyworld BGM 2021](https://open.spotify.com/album/4yMo7ANOMcvtenEVbX43SJ) | 3:48 | 2022-06-13 |  |

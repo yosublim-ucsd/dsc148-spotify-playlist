@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks\. Cover: The Linda Lindas
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,792 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,787 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 24 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3FaUJo1nrRUm51tc4nldkg) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/2rFjx4qhTiyQwCAnNSnJQs) | 3:07 |
 | 25 | [Xmas Has Been X'ed](https://open.spotify.com/track/40GMBdqqTwa2A1pGZEfOxO) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Self Entitled](https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18) | 2:43 |
 | 26 | [12 Days of Christmas](https://open.spotify.com/track/02SAP5qoj5GWubcKJDgXX9) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Let It Snow Baby...Let It Reindeer](https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6) | 3:33 |
-| 27 | [Christmas Every Day](https://open.spotify.com/track/1VFXTsoR3uHlu9tBAAlElO) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Christmas Every Day](https://open.spotify.com/album/4ViPUv1NUYHuBpfNX3gkVL) | 3:46 |
-| 28 | [I'm With You](https://open.spotify.com/track/4UZLSMZqP8yps8RPpd1zwR) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [I'm With You](https://open.spotify.com/album/0G32HQiT3RCsdHNGBaP2Xq) | 4:04 |
+| 27 | [I'm With You](https://open.spotify.com/track/4UZLSMZqP8yps8RPpd1zwR) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [I'm With You](https://open.spotify.com/album/0G32HQiT3RCsdHNGBaP2Xq) | 4:04 |
+| 28 | [Christmas Every Day](https://open.spotify.com/track/1VFXTsoR3uHlu9tBAAlElO) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Christmas Every Day](https://open.spotify.com/album/4ViPUv1NUYHuBpfNX3gkVL) | 3:46 |
 | 29 | [His Favorite Christmas Story](https://open.spotify.com/track/0zrbISwByqUAWssIhgQwQr) | [Capital Lights](https://open.spotify.com/artist/0xhIBddw7R69CWKsCt2gVt) | [X Christmas](https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR) | 3:32 |
 | 30 | [I Won't Be Home For Christmas](https://open.spotify.com/track/41olw7iIGVyds8dnSR9pb0) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [I Won't Be Home For Christmas](https://open.spotify.com/album/6aXNm9ZaI6eKoRvaVBwU9j) | 3:18 |
 | 31 | [Christmas Vacation](https://open.spotify.com/track/4RYoD9TS5gUbYsTTsHZuZx) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 2:39 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 49 | [All I Want For Christmas Is You](https://open.spotify.com/track/05w2HWpvqEmyDk882QRYpp) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [All I Want For Christmas Is You](https://open.spotify.com/album/2sgvSTSQ2ZxyBeL587NAjT) | 3:20 |
 | 50 | [You’re a Mean One, Mr\. Grinch](https://open.spotify.com/track/385QXeZY8UHFDde2FvFwuS) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Horror Xmas](https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR) | 2:12 |
 | 51 | [Nothing For Christmas](https://open.spotify.com/track/5zdyKroAn09fOqljE7ddIV) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:35 |
-| 52 | [O Come All Ye Faithful](https://open.spotify.com/track/7dM5NHRKrNUCDJQbn9KsGS) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Christmas With Weezer](https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq) | 2:04 |
-| 53 | [Lieder und Lametta](https://open.spotify.com/track/46KSW1QTjZ0d6MuaRqduti) | [Deine Cousine](https://open.spotify.com/artist/579hwkWz1UQx97t0tzYv1Y) | [Lieder und Lametta](https://open.spotify.com/album/5DFtzIkaqjWgFlLoxAjltY) | 3:05 |
+| 52 | [Lieder und Lametta](https://open.spotify.com/track/46KSW1QTjZ0d6MuaRqduti) | [Deine Cousine](https://open.spotify.com/artist/579hwkWz1UQx97t0tzYv1Y) | [Lieder und Lametta](https://open.spotify.com/album/5DFtzIkaqjWgFlLoxAjltY) | 3:05 |
+| 53 | [O Come All Ye Faithful](https://open.spotify.com/track/7dM5NHRKrNUCDJQbn9KsGS) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Christmas With Weezer](https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq) | 2:04 |
 | 54 | [Grandma Got Run Over By A Reindeer](https://open.spotify.com/track/2Vo0CHZltnh18JAPNOSfS3) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Happy Skalidays](https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x) | 3:02 |
 | 55 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/2owWbedyDiJaXvEbW4krLl) | [Joey Ramone](https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx) | [Christmas Spirit...In My House](https://open.spotify.com/album/0XMxz3mrpWkF5ssipEvaBv) | 3:26 |
 | 56 | [Blue Christmas](https://open.spotify.com/track/2IHqPevgWedxpKHPVMHX5g) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Horror Xmas](https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR) | 1:42 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 64 | [Feliz Navidad](https://open.spotify.com/track/79HjzWum0xKMnUSZvytgmM) | [El Vez](https://open.spotify.com/artist/6AWwTgQn3JoqkdTnL9eDob) | [Merry MeX\-mas](https://open.spotify.com/album/1pkoU5zx8QKbfaNdLcTvY4) | 2:33 |
 | 65 | [Decemberism](https://open.spotify.com/track/2vgsDqkE5dyAveetWyhVHk) | [Man Overboard](https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO) | [The Human Highlight Reel](https://open.spotify.com/album/2zZVFYoDYMcehQkiKHYpj3) | 3:04 |
 | 66 | [New Year's Revolution](https://open.spotify.com/track/55traEc0RnXsRFajtZZMDd) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Stoke Extinguisher](https://open.spotify.com/album/0SS7CfFFNUNdpAgL3NRma7) | 2:19 |
-| 67 | [Santa Baby](https://open.spotify.com/track/2wPMolA9qDw7RvUUy56sx1) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Santa Baby](https://open.spotify.com/album/0LIJnUqnGXu85JBSVwioNH) | 2:38 |
-| 68 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/2Symnv19lk0n4TsYRzM6O4) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Goldfinger Christmas EP](https://open.spotify.com/album/01EZvMeQxgkRFmVQ2LiR5a) | 1:26 |
+| 67 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/2Symnv19lk0n4TsYRzM6O4) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Goldfinger Christmas EP](https://open.spotify.com/album/01EZvMeQxgkRFmVQ2LiR5a) | 1:26 |
+| 68 | [Santa Baby](https://open.spotify.com/track/2wPMolA9qDw7RvUUy56sx1) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Santa Baby](https://open.spotify.com/album/0LIJnUqnGXu85JBSVwioNH) | 2:38 |
 | 69 | [Skank For Christmas](https://open.spotify.com/track/3VblSLAooy2B3mFwHbApLy) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Happy Skalidays](https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x) | 3:48 |
 | 70 | [This Time of Year](https://open.spotify.com/track/6dx7fWgnbnYYP1mGMzORwm) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Medium Rare](https://open.spotify.com/album/3OfHQ8ixlhgrSt8avPSiVO) | 2:17 |
 | 71 | [Punk Rawk Christmas](https://open.spotify.com/track/1aWd5MkGpyhqENRiilEWxe) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Punk Rawk Christmas](https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq) | 3:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 74 | [Things I Want](https://open.spotify.com/track/7gfa6TiFiesmwQjUbIzv8c) | [Tenacious D](https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh), [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Christmas Calling](https://open.spotify.com/album/3dxUAJGxReRRdWdDGze7EL) | 3:54 |
 | 75 | [This Christmas](https://open.spotify.com/track/7E7UX0xNqCJ6GBfoG1S9iJ) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:03 |
 
-Snapshot ID: `MTY3MTE0ODgwMCwwMDAwMDAwMGFjMGQzNzU0NDI3YWQwYmM3NzFmOGI4MDcyYWRiMGFm`
+Snapshot ID: `MTY3MTE0ODgwMCwwMDAwMDAwMDBlMGM1N2RkMTY4NzUzODY3MTZkNjc5YjE1ZGIwOTUw`

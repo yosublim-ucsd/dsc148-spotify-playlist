@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Matroda",
-  "num_followers": 582780,
+  "num_followers": 582900,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTY2MCwwMDAwMDAwMDRmZWJkZWQ4ZGZmM2Q1MjMxM2I0MDhmNDNkYzQ5N2Fk",
+  "snapshot_id": "MTY4MjA0OTY2MCwwMDAwMDAwMGIxYjgxN2Y2ZGVlYjVkZTBkY2VhNDBlMDViMTlhY2M4",
   "tracks": [
     {
       "added_at": "2023-03-24 04:01:00",
@@ -553,6 +553,30 @@
       "url": "https://open.spotify.com/track/4NoJpQvvjVJ2m8S72eIDaF"
     },
     {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Miracle (with Ellie Goulding) [Mau P Remix]",
+        "url": "https://open.spotify.com/album/2F5dzEAJZlxxMI0uGOQfYt"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 217734,
+      "name": "Miracle (with Ellie Goulding) - Mau P Remix",
+      "url": "https://open.spotify.com/track/3lsiqFV6SKhBgzQCpuM1JR"
+    },
+    {
       "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Other Side",
@@ -587,30 +611,6 @@
       "duration_ms": 149583,
       "name": "Nikes",
       "url": "https://open.spotify.com/track/6Al4eNOERy6uxX8yieyPnl"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Miracle (with Ellie Goulding) [Mau P Remix]",
-        "url": "https://open.spotify.com/album/2F5dzEAJZlxxMI0uGOQfYt"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 217734,
-      "name": "Miracle (with Ellie Goulding) - Mau P Remix",
-      "url": "https://open.spotify.com/track/3lsiqFV6SKhBgzQCpuM1JR"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -933,20 +933,20 @@
       "url": "https://open.spotify.com/track/7oAD6PCPiKu02kLqagi9Up"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Paralyzed By Your Eyes",
-        "url": "https://open.spotify.com/album/1kpcos1H8BuZHaauZAMMIg"
+        "name": "Moving Up",
+        "url": "https://open.spotify.com/album/03Af0MKeD3CmqM1G00iaAl"
       },
       "artists": [
         {
-          "name": "San Pacho",
-          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+          "name": "Kapuzen",
+          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
         }
       ],
-      "duration_ms": 160476,
-      "name": "Paralyzed By Your Eyes",
-      "url": "https://open.spotify.com/track/5hEet4S4TiD6zw0C9ekzdt"
+      "duration_ms": 192380,
+      "name": "Moving Up",
+      "url": "https://open.spotify.com/track/42R4QvzLx9RjoZERFzgmA1"
     },
     {
       "added_at": "2023-03-17 04:01:00",
@@ -965,20 +965,20 @@
       "url": "https://open.spotify.com/track/6m2GHTkdEcvC4fIgRfanUR"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Moving Up",
-        "url": "https://open.spotify.com/album/03Af0MKeD3CmqM1G00iaAl"
+        "name": "Paralyzed By Your Eyes",
+        "url": "https://open.spotify.com/album/1kpcos1H8BuZHaauZAMMIg"
       },
       "artists": [
         {
-          "name": "Kapuzen",
-          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
         }
       ],
-      "duration_ms": 192380,
-      "name": "Moving Up",
-      "url": "https://open.spotify.com/track/42R4QvzLx9RjoZERFzgmA1"
+      "duration_ms": 160476,
+      "name": "Paralyzed By Your Eyes",
+      "url": "https://open.spotify.com/track/5hEet4S4TiD6zw0C9ekzdt"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1105,6 +1105,26 @@
       "url": "https://open.spotify.com/track/6v8hT0hPFKUP3qluEpsHXY"
     },
     {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Peligrosa",
+        "url": "https://open.spotify.com/album/2K5Q5i0Wj9WyCBSNixb7xg"
+      },
+      "artists": [
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        },
+        {
+          "name": "Buitano",
+          "url": "https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY"
+        }
+      ],
+      "duration_ms": 204094,
+      "name": "Peligrosa",
+      "url": "https://open.spotify.com/track/6vY27OV1D4WIBUl87Ne6B1"
+    },
+    {
       "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "Snatch",
@@ -1135,26 +1155,6 @@
       "duration_ms": 203096,
       "name": "Wanna Dance",
       "url": "https://open.spotify.com/track/6TFXABE6cy6UH9VK4MDI8u"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Peligrosa",
-        "url": "https://open.spotify.com/album/2K5Q5i0Wj9WyCBSNixb7xg"
-      },
-      "artists": [
-        {
-          "name": "Black V Neck",
-          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
-        },
-        {
-          "name": "Buitano",
-          "url": "https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY"
-        }
-      ],
-      "duration_ms": 204094,
-      "name": "Peligrosa",
-      "url": "https://open.spotify.com/track/6vY27OV1D4WIBUl87Ne6B1"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1217,22 +1217,6 @@
       "url": "https://open.spotify.com/track/4kDuFLglikZPQXUMfmWj1F"
     },
     {
-      "added_at": "2023-03-17 04:01:00",
-      "album": {
-        "name": "Can't Control",
-        "url": "https://open.spotify.com/album/7nez9h7CDSZtWNVyAuC8Co"
-      },
-      "artists": [
-        {
-          "name": "LOVRA",
-          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
-        }
-      ],
-      "duration_ms": 177139,
-      "name": "Can't Control",
-      "url": "https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ"
-    },
-    {
       "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "Guru",
@@ -1247,6 +1231,22 @@
       "duration_ms": 225000,
       "name": "Guru",
       "url": "https://open.spotify.com/track/3h7Puhs0ZRMq470id6WYxo"
+    },
+    {
+      "added_at": "2023-03-17 04:01:00",
+      "album": {
+        "name": "Can't Control",
+        "url": "https://open.spotify.com/album/7nez9h7CDSZtWNVyAuC8Co"
+      },
+      "artists": [
+        {
+          "name": "LOVRA",
+          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
+        }
+      ],
+      "duration_ms": 177139,
+      "name": "Can't Control",
+      "url": "https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/1H8CdJVjZ8qhGdBzC73bKb"
-      },
-      "artists": [
-        {
-          "name": "VOLAC",
-          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
-        }
-      ],
-      "duration_ms": 182382,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/1bOp53Hzj9SIrtB7r17L3V"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "Told You So",
         "url": "https://open.spotify.com/album/38dyMOKtbPQWFahzoOHfLc"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 169285,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/4vMK3kl5dvXRl5vb7EVWUV"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/1H8CdJVjZ8qhGdBzC73bKb"
+      },
+      "artists": [
+        {
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+        }
+      ],
+      "duration_ms": 182382,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/1bOp53Hzj9SIrtB7r17L3V"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1425,6 +1425,26 @@
       "url": "https://open.spotify.com/track/70Wj4g94zJJ74ainJwd0qw"
     },
     {
+      "added_at": "2023-03-31 13:06:37",
+      "album": {
+        "name": "Dream Of You",
+        "url": "https://open.spotify.com/album/0nd6FSymivA5n9UCbWK8fO"
+      },
+      "artists": [
+        {
+          "name": "DJ Susan",
+          "url": "https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm"
+        },
+        {
+          "name": "Maximo",
+          "url": "https://open.spotify.com/artist/4cxLZekmoBwtIajEfv4avG"
+        }
+      ],
+      "duration_ms": 170625,
+      "name": "Dream Of You",
+      "url": "https://open.spotify.com/track/4Xicxvhcw2yx5wEDjeS1CE"
+    },
+    {
       "added_at": "2023-03-17 04:01:00",
       "album": {
         "name": "Pitch Thing",
@@ -1455,26 +1475,6 @@
       "duration_ms": 150937,
       "name": "Feel That Way",
       "url": "https://open.spotify.com/track/1ZerH0o2X6qqgeP3UzwQuD"
-    },
-    {
-      "added_at": "2023-03-31 13:06:37",
-      "album": {
-        "name": "Dream Of You",
-        "url": "https://open.spotify.com/album/0nd6FSymivA5n9UCbWK8fO"
-      },
-      "artists": [
-        {
-          "name": "DJ Susan",
-          "url": "https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm"
-        },
-        {
-          "name": "Maximo",
-          "url": "https://open.spotify.com/artist/4cxLZekmoBwtIajEfv4avG"
-        }
-      ],
-      "duration_ms": 170625,
-      "name": "Dream Of You",
-      "url": "https://open.spotify.com/track/4Xicxvhcw2yx5wEDjeS1CE"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1509,20 +1509,20 @@
       "url": "https://open.spotify.com/track/5Sq0xF5p4Wf8Cma4u8RLkp"
     },
     {
-      "added_at": "2023-03-17 04:01:00",
+      "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "La Serenata",
-        "url": "https://open.spotify.com/album/3wwXFMVnxEs6CVqM2jPynR"
+        "name": "4U",
+        "url": "https://open.spotify.com/album/684cOXTueOXaJiBOFHhYNA"
       },
       "artists": [
         {
-          "name": "The Shooters",
-          "url": "https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y"
+          "name": "MorganJ",
+          "url": "https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW"
         }
       ],
-      "duration_ms": 178609,
-      "name": "La Serenata",
-      "url": "https://open.spotify.com/track/2xoB9e4xWilVsqZhlHnBQF"
+      "duration_ms": 171428,
+      "name": "4U",
+      "url": "https://open.spotify.com/track/3vMiriTQGrU8OyjgGOQSRH"
     },
     {
       "added_at": "2023-03-17 04:01:00",
@@ -1541,6 +1541,22 @@
       "url": "https://open.spotify.com/track/2ESfTwWgohnkLK1qdWcwrJ"
     },
     {
+      "added_at": "2023-03-17 04:01:00",
+      "album": {
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/3wwXFMVnxEs6CVqM2jPynR"
+      },
+      "artists": [
+        {
+          "name": "The Shooters",
+          "url": "https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y"
+        }
+      ],
+      "duration_ms": 178609,
+      "name": "La Serenata",
+      "url": "https://open.spotify.com/track/2xoB9e4xWilVsqZhlHnBQF"
+    },
+    {
       "added_at": "2023-03-24 04:01:00",
       "album": {
         "name": "ALALA",
@@ -1555,22 +1571,6 @@
       "duration_ms": 176835,
       "name": "ALALA",
       "url": "https://open.spotify.com/track/0EA7SaogHX4PgvNe1cGjQ0"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "4U",
-        "url": "https://open.spotify.com/album/684cOXTueOXaJiBOFHhYNA"
-      },
-      "artists": [
-        {
-          "name": "MorganJ",
-          "url": "https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "4U",
-      "url": "https://open.spotify.com/track/3vMiriTQGrU8OyjgGOQSRH"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1591,6 +1591,26 @@
       "duration_ms": 221904,
       "name": "That Groove",
       "url": "https://open.spotify.com/track/2XyfRkQOXeseaXBT946SIf"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Coke & Rum",
+        "url": "https://open.spotify.com/album/2vteFYYCDoqVsMUvbKKiZ0"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "Charlie Ray",
+          "url": "https://open.spotify.com/artist/5E0lRlMBtVgbEo3gsn8UuF"
+        }
+      ],
+      "duration_ms": 174285,
+      "name": "Coke & Rum",
+      "url": "https://open.spotify.com/track/47SbCzEuIxZbLbNBs21FoW"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1629,6 +1649,26 @@
       "url": "https://open.spotify.com/track/5fhaYitqsKinuko13PTqHo"
     },
     {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Rock This",
+        "url": "https://open.spotify.com/album/7JNbTJLgYooMUtehLgE1wH"
+      },
+      "artists": [
+        {
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+        },
+        {
+          "name": "Voltech",
+          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
+        }
+      ],
+      "duration_ms": 156290,
+      "name": "Rock This",
+      "url": "https://open.spotify.com/track/1gn67lnVnqZ5MrKJFssh0b"
+    },
+    {
       "added_at": "2023-04-13 17:59:46",
       "album": {
         "name": "Ole",
@@ -1643,6 +1683,22 @@
       "duration_ms": 158343,
       "name": "Ole",
       "url": "https://open.spotify.com/track/22u9Mz1YIpNeOgLxiQ7VIe"
+    },
+    {
+      "added_at": "2023-03-31 13:06:37",
+      "album": {
+        "name": "B.T.H.D (Bring The House Down)",
+        "url": "https://open.spotify.com/album/3G3tu0CoisV0m8QlE1MXu6"
+      },
+      "artists": [
+        {
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "B.T.H.D (Bring The House Down)",
+      "url": "https://open.spotify.com/track/6d39vg2NYSYH584ioqev75"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1663,22 +1719,6 @@
       "duration_ms": 127619,
       "name": "Superficial (feat. Hadar Adora)",
       "url": "https://open.spotify.com/track/5kYwg6VjXxq33Ur7MYwfCb"
-    },
-    {
-      "added_at": "2023-03-31 13:06:37",
-      "album": {
-        "name": "B.T.H.D (Bring The House Down)",
-        "url": "https://open.spotify.com/album/3G3tu0CoisV0m8QlE1MXu6"
-      },
-      "artists": [
-        {
-          "name": "Wenzday",
-          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "B.T.H.D (Bring The House Down)",
-      "url": "https://open.spotify.com/track/6d39vg2NYSYH584ioqev75"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1719,22 +1759,46 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Coke & Rum",
-        "url": "https://open.spotify.com/album/2vteFYYCDoqVsMUvbKKiZ0"
+        "name": "Rhyme Dust (Nic Fanciulli Remix)",
+        "url": "https://open.spotify.com/album/04lwFl9FZ6yIDVcSKabWFN"
       },
       "artists": [
         {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
         },
         {
-          "name": "Charlie Ray",
-          "url": "https://open.spotify.com/artist/5E0lRlMBtVgbEo3gsn8UuF"
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
         }
       ],
-      "duration_ms": 174285,
-      "name": "Coke & Rum",
-      "url": "https://open.spotify.com/track/47SbCzEuIxZbLbNBs21FoW"
+      "duration_ms": 181880,
+      "name": "Rhyme Dust - Nic Fanciulli Remix",
+      "url": "https://open.spotify.com/track/70v4yUr8Gv9192zZVclZiL"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Close My Eyes",
+        "url": "https://open.spotify.com/album/4ff3YNNH7NtW1MGTL1ukji"
+      },
+      "artists": [
+        {
+          "name": "Zook\u00ebper",
+          "url": "https://open.spotify.com/artist/2XvV82x6Qs0W3GBTkBSjPI"
+        },
+        {
+          "name": "Future Class",
+          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
+        }
+      ],
+      "duration_ms": 217911,
+      "name": "Close My Eyes",
+      "url": "https://open.spotify.com/track/35hAnNUTIqNWCawcWOTcne"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1751,26 +1815,6 @@
       "duration_ms": 238275,
       "name": "Shine",
       "url": "https://open.spotify.com/track/1BZrovLZ6QTTFxn4Ng4v2m"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Rock This",
-        "url": "https://open.spotify.com/album/7JNbTJLgYooMUtehLgE1wH"
-      },
-      "artists": [
-        {
-          "name": "Wahlstedt",
-          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
-        },
-        {
-          "name": "Voltech",
-          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
-        }
-      ],
-      "duration_ms": 156290,
-      "name": "Rock This",
-      "url": "https://open.spotify.com/track/1gn67lnVnqZ5MrKJFssh0b"
     },
     {
       "added_at": "2023-03-17 04:01:00",
@@ -1797,26 +1841,6 @@
       "url": "https://open.spotify.com/track/1OMRAjaY0XN5MUxQ3p3KOY"
     },
     {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Close My Eyes",
-        "url": "https://open.spotify.com/album/4ff3YNNH7NtW1MGTL1ukji"
-      },
-      "artists": [
-        {
-          "name": "Zook\u00ebper",
-          "url": "https://open.spotify.com/artist/2XvV82x6Qs0W3GBTkBSjPI"
-        },
-        {
-          "name": "Future Class",
-          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
-        }
-      ],
-      "duration_ms": 217911,
-      "name": "Close My Eyes",
-      "url": "https://open.spotify.com/track/35hAnNUTIqNWCawcWOTcne"
-    },
-    {
       "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Overnight",
@@ -1831,30 +1855,6 @@
       "duration_ms": 190476,
       "name": "Overnight",
       "url": "https://open.spotify.com/track/5abSEI8UufWiodm2kiuDdj"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Rhyme Dust (Nic Fanciulli Remix)",
-        "url": "https://open.spotify.com/album/04lwFl9FZ6yIDVcSKabWFN"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        }
-      ],
-      "duration_ms": 181880,
-      "name": "Rhyme Dust - Nic Fanciulli Remix",
-      "url": "https://open.spotify.com/track/70v4yUr8Gv9192zZVclZiL"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -2049,6 +2049,22 @@
       "url": "https://open.spotify.com/track/5oAdBATu5QbXvBrtpCe0Mk"
     },
     {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Get Busy",
+        "url": "https://open.spotify.com/album/4MbsXUNsV2RFv0WkssjhIO"
+      },
+      "artists": [
+        {
+          "name": "Kevin McKay",
+          "url": "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
+        }
+      ],
+      "duration_ms": 167619,
+      "name": "Get Busy",
+      "url": "https://open.spotify.com/track/2ueJxqeHLLpsfJr5yv9buB"
+    },
+    {
       "added_at": "2023-03-17 04:01:00",
       "album": {
         "name": "Junglist",
@@ -2081,20 +2097,20 @@
       "url": "https://open.spotify.com/track/3hEp4tAxoZeRgFnL6rSgw0"
     },
     {
-      "added_at": "2023-04-21 04:01:00",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Get Busy",
-        "url": "https://open.spotify.com/album/4MbsXUNsV2RFv0WkssjhIO"
+        "name": "Smack",
+        "url": "https://open.spotify.com/album/34xztdsAM3OQdpQBblZU7y"
       },
       "artists": [
         {
-          "name": "Kevin McKay",
-          "url": "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
+          "name": "Roxe",
+          "url": "https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp"
         }
       ],
-      "duration_ms": 167619,
-      "name": "Get Busy",
-      "url": "https://open.spotify.com/track/2ueJxqeHLLpsfJr5yv9buB"
+      "duration_ms": 153398,
+      "name": "Smack",
+      "url": "https://open.spotify.com/track/2hHy4cKWVnOTgj9Cw22zQf"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -2125,22 +2141,6 @@
       "url": "https://open.spotify.com/track/668AmdAkV6kzQIGs1iMWxS"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Smack",
-        "url": "https://open.spotify.com/album/34xztdsAM3OQdpQBblZU7y"
-      },
-      "artists": [
-        {
-          "name": "Roxe",
-          "url": "https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp"
-        }
-      ],
-      "duration_ms": 153398,
-      "name": "Smack",
-      "url": "https://open.spotify.com/track/2hHy4cKWVnOTgj9Cw22zQf"
-    },
-    {
       "added_at": "2023-04-07 04:01:00",
       "album": {
         "name": "QUE RICO",
@@ -2155,6 +2155,22 @@
       "duration_ms": 135645,
       "name": "QUE RICO",
       "url": "https://open.spotify.com/track/49ckomdW5GGbdtC1jFBM5m"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Gozar",
+        "url": "https://open.spotify.com/album/5AQeJCMWPNAPw8wPmZlqUW"
+      },
+      "artists": [
+        {
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+        }
+      ],
+      "duration_ms": 204384,
+      "name": "Gozar",
+      "url": "https://open.spotify.com/track/5pwPJceEvQK9B41jCZ7HD1"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2237,22 +2253,6 @@
       "url": "https://open.spotify.com/track/1s73Nzd18edWcJzRJfKmRE"
     },
     {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Gozar",
-        "url": "https://open.spotify.com/album/5AQeJCMWPNAPw8wPmZlqUW"
-      },
-      "artists": [
-        {
-          "name": "Paskman",
-          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
-        }
-      ],
-      "duration_ms": 204384,
-      "name": "Gozar",
-      "url": "https://open.spotify.com/track/5pwPJceEvQK9B41jCZ7HD1"
-    },
-    {
       "added_at": "2023-03-17 04:01:00",
       "album": {
         "name": "Amor",
@@ -2267,6 +2267,22 @@
       "duration_ms": 222374,
       "name": "Amor",
       "url": "https://open.spotify.com/track/2pqBgFAxdgVXcmtG16SB5O"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Mumba EP",
+        "url": "https://open.spotify.com/album/4UnaLZo7HpgSX8MoZpOSYZ"
+      },
+      "artists": [
+        {
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
+        }
+      ],
+      "duration_ms": 168745,
+      "name": "Mumba",
+      "url": "https://open.spotify.com/track/093pNDCe1KEptfuBLXWIHI"
     },
     {
       "added_at": "2023-03-17 04:01:00",
@@ -2289,36 +2305,20 @@
       "url": "https://open.spotify.com/track/4ARzhxqybRXS2VUzBNmCrS"
     },
     {
-      "added_at": "2023-04-07 04:01:00",
+      "added_at": "2023-03-31 13:06:37",
       "album": {
-        "name": "Get Mad",
-        "url": "https://open.spotify.com/album/2wfPevhgjDq94RcShPIfL2"
+        "name": "Don't Stop Now",
+        "url": "https://open.spotify.com/album/4su9dDMywIGE09MMCB37hi"
       },
       "artists": [
         {
-          "name": "Ellis Moss",
-          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
+          "name": "DJ Dee",
+          "url": "https://open.spotify.com/artist/6BJUZfk50Ru1g0sMC4dcsf"
         }
       ],
-      "duration_ms": 225714,
-      "name": "Get Mad",
-      "url": "https://open.spotify.com/track/4KUu7UH2abla0DBdQF2lgj"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Bracadu",
-        "url": "https://open.spotify.com/album/6SDzysgIusIkIfK0xkBfqt"
-      },
-      "artists": [
-        {
-          "name": "Duke & Jones",
-          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "Bracadu",
-      "url": "https://open.spotify.com/track/2jt1PRnEe1E96lGJoRBT8L"
+      "duration_ms": 241875,
+      "name": "Don't Stop Now",
+      "url": "https://open.spotify.com/track/0syZZOgrNcpBNgPi6E66Nv"
     }
   ],
   "unique_name": "Operator",

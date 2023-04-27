@@ -1,12 +1,12 @@
 {
   "description": "You bring the ingredients. We bring the flavor. Enjoy la cena!",
-  "num_followers": 380596,
+  "num_followers": 380702,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0NDcwMSwwMDAwMDAwMDU1NjFkZmIyZDhjNTkyM2NlMDc1YjhmNDA2ZDU2MDRh",
+  "snapshot_id": "MTY4MjA0NDcwMSwwMDAwMDAwMDJlMzAyMTRiMThhNTllZmE3Yzc5ODI4OWY1YzUwODU3",
   "tracks": [
     {
       "added_at": "2023-04-21 02:38:21",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-04-21 02:38:21",
       "album": {
-        "name": "Some More Horizons (Digital Version)",
-        "url": "https://open.spotify.com/album/4PTCPiyD0Pwhoec2VU6rlk"
-      },
-      "artists": [
-        {
-          "name": "Mo' Horizons",
-          "url": "https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP"
-        }
-      ],
-      "duration_ms": 328866,
-      "name": "Ai mi morena - Chocolate Restyle",
-      "url": "https://open.spotify.com/track/195rt3pQCPzYDmobHp9uL5"
-    },
-    {
-      "added_at": "2023-04-21 02:38:21",
-      "album": {
         "name": "Ra\u00edz",
         "url": "https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6"
       },
@@ -427,18 +411,18 @@
     {
       "added_at": "2023-04-21 02:38:21",
       "album": {
-        "name": "Lo Mismo Que Usted",
-        "url": "https://open.spotify.com/album/68bhYAXXLFt0gp866clvtQ"
+        "name": "Some More Horizons (Digital Version)",
+        "url": "https://open.spotify.com/album/4PTCPiyD0Pwhoec2VU6rlk"
       },
       "artists": [
         {
-          "name": "Pantoja",
-          "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
+          "name": "Mo' Horizons",
+          "url": "https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP"
         }
       ],
-      "duration_ms": 189900,
-      "name": "Lo Mismo Que Usted",
-      "url": "https://open.spotify.com/track/031dcODCuFUQAyQ38PkdlU"
+      "duration_ms": 328866,
+      "name": "Ai mi morena - Chocolate Restyle",
+      "url": "https://open.spotify.com/track/195rt3pQCPzYDmobHp9uL5"
     },
     {
       "added_at": "2023-04-21 02:38:21",
@@ -455,6 +439,22 @@
       "duration_ms": 191546,
       "name": "Cobarde - Spotify Singles",
       "url": "https://open.spotify.com/track/1YrpPdjVU89FeCvSMsUYLr"
+    },
+    {
+      "added_at": "2023-04-21 02:38:21",
+      "album": {
+        "name": "Lo Mismo Que Usted",
+        "url": "https://open.spotify.com/album/68bhYAXXLFt0gp866clvtQ"
+      },
+      "artists": [
+        {
+          "name": "Pantoja",
+          "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
+        }
+      ],
+      "duration_ms": 189900,
+      "name": "Lo Mismo Que Usted",
+      "url": "https://open.spotify.com/track/031dcODCuFUQAyQ38PkdlU"
     },
     {
       "added_at": "2023-04-21 02:38:21",
@@ -703,18 +703,22 @@
     {
       "added_at": "2023-04-21 02:38:21",
       "album": {
-        "name": "Harta",
-        "url": "https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg"
+        "name": "Me Llaman Nella",
+        "url": "https://open.spotify.com/album/2NHcyi3RMzCCWHZBArCzNb"
       },
       "artists": [
         {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+          "name": "Nella",
+          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
+        },
+        {
+          "name": "Santiago Perin\u00e9",
+          "url": "https://open.spotify.com/artist/10kEF3JBr2POevADU2lGmj"
         }
       ],
-      "duration_ms": 185083,
-      "name": "Harta",
-      "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
+      "duration_ms": 198298,
+      "name": "Me Llaman Nella",
+      "url": "https://open.spotify.com/track/0dMQafMHQxzZIfBPUGWCQG"
     },
     {
       "added_at": "2023-04-21 02:38:21",
@@ -735,22 +739,18 @@
     {
       "added_at": "2023-04-21 02:38:21",
       "album": {
-        "name": "Me Llaman Nella",
-        "url": "https://open.spotify.com/album/2NHcyi3RMzCCWHZBArCzNb"
+        "name": "Harta",
+        "url": "https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg"
       },
       "artists": [
         {
-          "name": "Nella",
-          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
-        },
-        {
-          "name": "Santiago Perin\u00e9",
-          "url": "https://open.spotify.com/artist/10kEF3JBr2POevADU2lGmj"
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
         }
       ],
-      "duration_ms": 198298,
-      "name": "Me Llaman Nella",
-      "url": "https://open.spotify.com/track/0dMQafMHQxzZIfBPUGWCQG"
+      "duration_ms": 185083,
+      "name": "Harta",
+      "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
     },
     {
       "added_at": "2023-04-21 02:38:21",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-04-21 02:38:21",
       "album": {
+        "name": "Flora y Fauna",
+        "url": "https://open.spotify.com/album/0K2e7hGdBB7FKM0NtpkYaK"
+      },
+      "artists": [
+        {
+          "name": "Camila Luna",
+          "url": "https://open.spotify.com/artist/1aMXU2xuC6FdOyD7SFdL3X"
+        }
+      ],
+      "duration_ms": 173311,
+      "name": "Amor Frutero",
+      "url": "https://open.spotify.com/track/5TVDnNLRq8ABVgfVqVqtsQ"
+    },
+    {
+      "added_at": "2023-04-21 02:38:21",
+      "album": {
         "name": "Libre y en Movimiento",
         "url": "https://open.spotify.com/album/7xlWizan3Ft3hemqXUTvU0"
       },
@@ -800,25 +816,9 @@
           "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
         }
       ],
-      "duration_ms": 183749,
+      "duration_ms": 183734,
       "name": "Libre y en Movimiento",
       "url": "https://open.spotify.com/track/36wsAx4PhbhVOCay8RLADO"
-    },
-    {
-      "added_at": "2023-04-21 02:38:21",
-      "album": {
-        "name": "Flora y Fauna",
-        "url": "https://open.spotify.com/album/0K2e7hGdBB7FKM0NtpkYaK"
-      },
-      "artists": [
-        {
-          "name": "Camila Luna",
-          "url": "https://open.spotify.com/artist/1aMXU2xuC6FdOyD7SFdL3X"
-        }
-      ],
-      "duration_ms": 173311,
-      "name": "Amor Frutero",
-      "url": "https://open.spotify.com/track/5TVDnNLRq8ABVgfVqVqtsQ"
     },
     {
       "added_at": "2023-04-21 02:38:21",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-04-21 02:38:21",
       "album": {
-        "name": "Solterona",
-        "url": "https://open.spotify.com/album/6uVqxMvijsXhcNXqtuCiv4"
-      },
-      "artists": [
-        {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
-        }
-      ],
-      "duration_ms": 179856,
-      "name": "Solterona",
-      "url": "https://open.spotify.com/track/7wqZ2hFlSkZMzmAY8fJeXJ"
-    },
-    {
-      "added_at": "2023-04-21 02:38:21",
-      "album": {
         "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
         "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
       },
@@ -991,6 +975,22 @@
     {
       "added_at": "2023-04-21 02:38:21",
       "album": {
+        "name": "Solterona",
+        "url": "https://open.spotify.com/album/6uVqxMvijsXhcNXqtuCiv4"
+      },
+      "artists": [
+        {
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+        }
+      ],
+      "duration_ms": 179856,
+      "name": "Solterona",
+      "url": "https://open.spotify.com/track/7wqZ2hFlSkZMzmAY8fJeXJ"
+    },
+    {
+      "added_at": "2023-04-21 02:38:21",
+      "album": {
         "name": "\u00a1Oye Frank! Sonata Latina Tribute Orchestra",
         "url": "https://open.spotify.com/album/1SSdDsip5PL6hBiWrQ1QiI"
       },
@@ -1003,6 +1003,22 @@
       "duration_ms": 180413,
       "name": "Come Fly With Me",
       "url": "https://open.spotify.com/track/4htOz9gMFZStfcVz1kx3El"
+    },
+    {
+      "added_at": "2023-04-21 02:38:21",
+      "album": {
+        "name": "Caminando por Quisqueya",
+        "url": "https://open.spotify.com/album/1z6vx39dIoXCScxQ8c6xn4"
+      },
+      "artists": [
+        {
+          "name": "ChiChi Peralta",
+          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "Caminando por Quisqueya",
+      "url": "https://open.spotify.com/track/2avb4jaEXShHqfAF3yuKhX"
     },
     {
       "added_at": "2023-04-21 02:38:21",
@@ -1027,22 +1043,6 @@
       "duration_ms": 196440,
       "name": "Virgencita - Happy Colors Remix",
       "url": "https://open.spotify.com/track/6xCqIZp7aemBDBX2reivBk"
-    },
-    {
-      "added_at": "2023-04-21 02:38:21",
-      "album": {
-        "name": "Caminando por Quisqueya",
-        "url": "https://open.spotify.com/album/1z6vx39dIoXCScxQ8c6xn4"
-      },
-      "artists": [
-        {
-          "name": "ChiChi Peralta",
-          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "Caminando por Quisqueya",
-      "url": "https://open.spotify.com/track/2avb4jaEXShHqfAF3yuKhX"
     },
     {
       "added_at": "2023-04-21 02:38:21",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-04-21 02:38:21",
       "album": {
-        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
-      },
-      "artists": [
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        }
-      ],
-      "duration_ms": 162986,
-      "name": "Un Telegrama",
-      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
-    },
-    {
-      "added_at": "2023-04-21 02:38:21",
-      "album": {
         "name": "Cookin' Gumbo",
         "url": "https://open.spotify.com/album/021DHyGZjaaAX37sopdmgH"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 209672,
       "name": "Speakin' Nuyorican",
       "url": "https://open.spotify.com/track/26x75c32oXBl5fQMFAYptW"
+    },
+    {
+      "added_at": "2023-04-21 02:38:21",
+      "album": {
+        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
+      },
+      "artists": [
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "duration_ms": 162986,
+      "name": "Un Telegrama",
+      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
     },
     {
       "added_at": "2023-04-21 02:38:21",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-04-21 02:38:21",
       "album": {
+        "name": "Malo Para M\u00ed",
+        "url": "https://open.spotify.com/album/7nCbqstWngWFUAbN210EKo"
+      },
+      "artists": [
+        {
+          "name": "Banana Leaf Boy",
+          "url": "https://open.spotify.com/artist/76fnNniEsJceBtSKOneZyY"
+        }
+      ],
+      "duration_ms": 282415,
+      "name": "Malo Para M\u00ed",
+      "url": "https://open.spotify.com/track/0Sa0Y9ypKrbad4pweUUfC1"
+    },
+    {
+      "added_at": "2023-04-21 02:38:21",
+      "album": {
         "name": "It's Time",
         "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 167497,
       "name": "Around the World (Intro)",
       "url": "https://open.spotify.com/track/21lWmLmNPE7tBehlegKU7c"
-    },
-    {
-      "added_at": "2023-04-21 02:38:21",
-      "album": {
-        "name": "Malo Para M\u00ed",
-        "url": "https://open.spotify.com/album/7nCbqstWngWFUAbN210EKo"
-      },
-      "artists": [
-        {
-          "name": "Banana Leaf Boy",
-          "url": "https://open.spotify.com/artist/76fnNniEsJceBtSKOneZyY"
-        }
-      ],
-      "duration_ms": 282415,
-      "name": "Malo Para M\u00ed",
-      "url": "https://open.spotify.com/track/0Sa0Y9ypKrbad4pweUUfC1"
     },
     {
       "added_at": "2023-04-21 02:38:21",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-04-21 02:38:21",
       "album": {
-        "name": "Atacama!",
-        "url": "https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf"
-      },
-      "artists": [
-        {
-          "name": "Alessio Arena",
-          "url": "https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc"
-        }
-      ],
-      "duration_ms": 251830,
-      "name": "El hombre que quiso ser canci\u00f3n",
-      "url": "https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct"
-    },
-    {
-      "added_at": "2023-04-21 02:38:21",
-      "album": {
         "name": "Calentura: Toque (Captain Planet Remixes)",
         "url": "https://open.spotify.com/album/3mBNM16s2Nq2hfPNkhHSpz"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 244043,
       "name": "Ya Lleg\u00f3 - Captain Planet Remix",
       "url": "https://open.spotify.com/track/0PIeefi6RLeFt2O0NUfRps"
+    },
+    {
+      "added_at": "2023-04-21 02:38:21",
+      "album": {
+        "name": "Atacama!",
+        "url": "https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf"
+      },
+      "artists": [
+        {
+          "name": "Alessio Arena",
+          "url": "https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc"
+        }
+      ],
+      "duration_ms": 251830,
+      "name": "El hombre que quiso ser canci\u00f3n",
+      "url": "https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct"
     },
     {
       "added_at": "2023-04-21 02:38:21",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2023-04-21 02:38:21",
       "album": {
-        "name": "Meus Momentos: Paulinho Da Viola",
-        "url": "https://open.spotify.com/album/5DJ8Iu9nfpGykmggpCLsYu"
-      },
-      "artists": [
-        {
-          "name": "Paulinho Da Viola",
-          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
-        },
-        {
-          "name": "Elton Medeiros",
-          "url": "https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "Perdoa",
-      "url": "https://open.spotify.com/track/3SLfDGY3UqESBUEdd7K2Ev"
-    },
-    {
-      "added_at": "2023-04-21 02:38:21",
-      "album": {
         "name": "Cerca de ti (feat. Georgina)",
         "url": "https://open.spotify.com/album/2aaxxiwKt6qDtMnw9awlXi"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 208013,
       "name": "Cerca de ti (feat. Georgina)",
       "url": "https://open.spotify.com/track/10oji60Sz18msn5AgTQI58"
+    },
+    {
+      "added_at": "2023-04-21 02:38:21",
+      "album": {
+        "name": "Meus Momentos: Paulinho Da Viola",
+        "url": "https://open.spotify.com/album/5DJ8Iu9nfpGykmggpCLsYu"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        },
+        {
+          "name": "Elton Medeiros",
+          "url": "https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "Perdoa",
+      "url": "https://open.spotify.com/track/3SLfDGY3UqESBUEdd7K2Ev"
     },
     {
       "added_at": "2023-04-21 02:38:21",

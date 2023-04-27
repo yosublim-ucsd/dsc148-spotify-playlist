@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 31203,
+  "num_followers": 31228,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA4MTI3NCwwMDAwMDAwMDNhMWQxZmUzNzQ5ZmQ3NWI5NjZjYzZiN2UxNTk4MGMz",
+  "snapshot_id": "MTY4MjA4MTI3NCwwMDAwMDAwMGZhMjhkNDFhZDRmYTlmMjQ5ZjAyODZiYjllZGI3NDVl",
   "tracks": [
     {
       "added_at": "2023-04-20 22:00:00",
@@ -791,6 +791,26 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "I Blame You",
+        "url": "https://open.spotify.com/album/4Q2eP4hBqp1UU9SB3QP6Lb"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+        }
+      ],
+      "duration_ms": 132927,
+      "name": "I Blame You",
+      "url": "https://open.spotify.com/track/3Ih900m7RZMpJIJZnll0m6"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "Free Falling Love",
         "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 155000,
       "name": "Free Falling Love",
       "url": "https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "I Blame You",
-        "url": "https://open.spotify.com/album/4Q2eP4hBqp1UU9SB3QP6Lb"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        },
-        {
-          "name": "Felix Samuel",
-          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
-        }
-      ],
-      "duration_ms": 132927,
-      "name": "I Blame You",
-      "url": "https://open.spotify.com/track/3Ih900m7RZMpJIJZnll0m6"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -895,26 +895,18 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "High Hopes",
-        "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
+        "name": "Botanica",
+        "url": "https://open.spotify.com/album/5fSSRZEOdBrTwzGhyuWz81"
       },
       "artists": [
         {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
-        },
-        {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+          "name": "fwd/slash",
+          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
         }
       ],
-      "duration_ms": 127021,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
+      "duration_ms": 187377,
+      "name": "Botanica",
+      "url": "https://open.spotify.com/track/2kxCwxxJ44zd6yd8ha4tVs"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -959,18 +951,42 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Botanica",
-        "url": "https://open.spotify.com/album/5fSSRZEOdBrTwzGhyuWz81"
+        "name": "High Hopes",
+        "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
       },
       "artists": [
         {
-          "name": "fwd/slash",
-          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
         }
       ],
-      "duration_ms": 187377,
-      "name": "Botanica",
-      "url": "https://open.spotify.com/track/2kxCwxxJ44zd6yd8ha4tVs"
+      "duration_ms": 127021,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Live In The Moment",
+        "url": "https://open.spotify.com/album/4OYcMY57gpiT6PzvL5tzxn"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lite",
+          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Live In The Moment",
+      "url": "https://open.spotify.com/track/7hNec5eJPMhEKFTvF5cvNt"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Live In The Moment",
-        "url": "https://open.spotify.com/album/4OYcMY57gpiT6PzvL5tzxn"
-      },
-      "artists": [
-        {
-          "name": "Patrick Lite",
-          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Live In The Moment",
-      "url": "https://open.spotify.com/track/7hNec5eJPMhEKFTvF5cvNt"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Inner Light",
         "url": "https://open.spotify.com/album/3XT1pMVCQa1Hk7ndqO7r2z"
       },
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Light A Fire",
-        "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
-      },
-      "artists": [
-        {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Light A Fire",
-      "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Take Me",
         "url": "https://open.spotify.com/album/6QyELjKQuXl6Mvorlgf30X"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 136800,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/7q6WQDxck4kIeoACgtV2Gs"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Light A Fire",
+        "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Light A Fire",
+      "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1183,34 +1183,22 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/4TJ3Olg6n07Gv6yba69t9s"
+        "name": "A Radiant Sign",
+        "url": "https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl"
       },
       "artists": [
         {
-          "name": "MAFQEES",
-          "url": "https://open.spotify.com/artist/1Qp9yr4c6X7AWduUBkWhIp"
-        }
-      ],
-      "duration_ms": 162782,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/2MYIfxhvYk7VaEJ0cWiRmK"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
-      },
-      "artists": [
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
         {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
         }
       ],
-      "duration_ms": 143606,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
+      "duration_ms": 232917,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1235,22 +1223,18 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "A Radiant Sign",
-        "url": "https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/4TJ3Olg6n07Gv6yba69t9s"
       },
       "artists": [
         {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        },
-        {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+          "name": "MAFQEES",
+          "url": "https://open.spotify.com/artist/1Qp9yr4c6X7AWduUBkWhIp"
         }
       ],
-      "duration_ms": 232917,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F"
+      "duration_ms": 162782,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/2MYIfxhvYk7VaEJ0cWiRmK"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1283,6 +1267,22 @@
       "duration_ms": 191000,
       "name": "Like Home",
       "url": "https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "duration_ms": 143606,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "Nightcall",
+        "url": "https://open.spotify.com/album/7LlRiB82ntL7v6JU4zqfd2"
+      },
+      "artists": [
+        {
+          "name": "Marcus Layton",
+          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
+        },
+        {
+          "name": "Henri PFR",
+          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
+        }
+      ],
+      "duration_ms": 126147,
+      "name": "Nightcall",
+      "url": "https://open.spotify.com/track/5UVnC9VooGhAOn4zGNi8Uy"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "Feeling Lost Tonight",
         "url": "https://open.spotify.com/album/1vrWvbljMdILNfDPXlbDj6"
       },
@@ -1363,42 +1383,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Nightcall",
-        "url": "https://open.spotify.com/album/7LlRiB82ntL7v6JU4zqfd2"
-      },
-      "artists": [
-        {
-          "name": "Marcus Layton",
-          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
-        },
-        {
-          "name": "Henri PFR",
-          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
-        }
-      ],
-      "duration_ms": 126147,
-      "name": "Nightcall",
-      "url": "https://open.spotify.com/track/5UVnC9VooGhAOn4zGNi8Uy"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "Down To Earth",
-        "url": "https://open.spotify.com/album/3rWBCSEsLswnPo8ZKTLYGr"
-      },
-      "artists": [
-        {
-          "name": "Felix Cartal",
-          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
-        }
-      ],
-      "duration_ms": 180967,
-      "name": "Down To Earth",
-      "url": "https://open.spotify.com/track/1iw6rKb0oWrP0x9Pty6fc7"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "All of Me",
         "url": "https://open.spotify.com/album/1EGKV7dx9qfyrwx9TG25uu"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 161236,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/2QPe0WJJNOf9ufgl9VMrHq"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/3rWBCSEsLswnPo8ZKTLYGr"
+      },
+      "artists": [
+        {
+          "name": "Felix Cartal",
+          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+        }
+      ],
+      "duration_ms": 180967,
+      "name": "Down To Earth",
+      "url": "https://open.spotify.com/track/1iw6rKb0oWrP0x9Pty6fc7"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Motorcycle",
-        "url": "https://open.spotify.com/album/0BFBuQK4HZdmQMzov1uDri"
-      },
-      "artists": [
-        {
-          "name": "UOAK",
-          "url": "https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Motorcycle",
-      "url": "https://open.spotify.com/track/68F3LC3u2JSW4TJ9zhdyjR"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "From The Start (feat. Veronica)",
         "url": "https://open.spotify.com/album/577sI6lMQhUBeP7BiK0Plt"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 183856,
       "name": "From The Start (feat. Veronica)",
       "url": "https://open.spotify.com/track/4z7hu5mSYlAfqjD1JICi76"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Motorcycle",
+        "url": "https://open.spotify.com/album/0BFBuQK4HZdmQMzov1uDri"
+      },
+      "artists": [
+        {
+          "name": "UOAK",
+          "url": "https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Motorcycle",
+      "url": "https://open.spotify.com/track/68F3LC3u2JSW4TJ9zhdyjR"
     }
   ],
   "unique_name": "Dance Chill",

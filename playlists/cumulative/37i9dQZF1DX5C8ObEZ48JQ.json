@@ -656,7 +656,7 @@
     {
       "album": {
         "name": "Bezos",
-        "url": "https://open.spotify.com/album/0HWeesVXBwp4q78Ow2RFpx"
+        "url": "https://open.spotify.com/album/6QyMp5NklVWVcQRIwKKq49"
       },
       "artists": [
         {
@@ -667,6 +667,24 @@
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 168437,
+      "name": "Bezos",
+      "url": "https://open.spotify.com/track/1NAXHOcE8EWudM0WO4D77I"
+    },
+    {
+      "album": {
+        "name": "Bezos",
+        "url": "https://open.spotify.com/album/0HWeesVXBwp4q78Ow2RFpx"
+      },
+      "artists": [
+        {
+          "name": "Dboi",
+          "url": "https://open.spotify.com/artist/0Hm8XNele8yJjZXq2A0nh8"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-27",
       "duration_ms": 168437,
       "name": "Bezos",
       "url": "https://open.spotify.com/track/3CL2wSAoigecJkzBLJJyjs"

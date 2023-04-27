@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Q & Baby Rose
 
-967 songs - 2 day 3 hr 46 min
+968 songs - 2 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,8 @@
 | [Fallin](https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA) | 2:42 | 2023-01-20 | 2023-03-18 |
 | [Falling For You](https://open.spotify.com/track/1KgqMmNUqRdXqZhR4PXtg8) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Falling For You](https://open.spotify.com/album/74LaE3Z8eYdY9KlHjTXCVm) | 3:19 | 2022-10-28 | 2022-11-19 |
 | [Falling For You](https://open.spotify.com/track/0jCbfcLupN9I5ILvNxMGty) | [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1) | [Love Songs](https://open.spotify.com/album/7tiLiMKiZ34qwvJQiuXfzN) | 3:15 | 2022-09-09 | 2022-10-08 |
-| [Fatal Attraction](https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Fatal Attraction](https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT) | 3:16 | 2023-03-17 |  |
+| [Fatal Attraction](https://open.spotify.com/track/3y9JbvYZAhVeQsAECrKAgt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:16 | 2023-03-17 |  |
+| [Fatal Attraction](https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Fatal Attraction](https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT) | 3:16 | 2023-03-17 | 2023-04-27 |
 | [Feeling Lucky](https://open.spotify.com/track/50xaiGmgb5AspAtX7IAQGF) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/6GvImL1QmugCoaAoD3bgIH) | 2:36 | 2022-02-04 | 2022-03-12 |
 | [Feeling Myself](https://open.spotify.com/track/4W6hJu2CzYKe4DyPqcMHvg) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Feeling Myself](https://open.spotify.com/album/2HI1XZZN2BWdiaXekEhwGd) | 3:34 | 2022-10-21 | 2022-11-13 |
 | [Feeling Myself](https://open.spotify.com/track/7paZMzxa2sC04AfkPmyCBx) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:34 | 2022-10-21 | 2022-12-03 |

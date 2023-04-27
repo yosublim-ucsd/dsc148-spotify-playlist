@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Orquesta Candela
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,866 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,923 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 38 | [Cuerpo de Sirena](https://open.spotify.com/track/0fonkCX3RL2T4Drh4BFeIX) | [Papillón](https://open.spotify.com/artist/24CL5ktdCtKU8E2Yt34el5) | [Cuerpo de Sirena](https://open.spotify.com/album/5zIOM5zbPm8WS1Qnf7rm7U) | 4:03 |
 | 39 | [Recuerdos](https://open.spotify.com/track/4NHGTE6SN0a10VTPDLmMe3) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [Días Felices](https://open.spotify.com/album/1bOkW3sgCsh008MkO8lYnb) | 4:36 |
 | 40 | [Mi Cariñito](https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw) | [Sonido 2000](https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR) | [Sonido 2000 de Tarapoto](https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka) | 3:15 |
-| 41 | [No Se Puede Amar a Dos](https://open.spotify.com/track/6j7apOMjYex2G4iIbIMdHF) | [Los Ecos](https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS) | [Los Querendones de la Cumbia, Vol\. 1](https://open.spotify.com/album/42HTe6akwChVCYeLijteif) | 4:47 |
-| 42 | [Por Siempre Mi Angel](https://open.spotify.com/track/2rM68rJ4fQCFxZdpqjpSyN) | [Son de Ríos](https://open.spotify.com/artist/7n4KfJhG8p9DJyOo3nWK0z) | [Imposible Olvidarte](https://open.spotify.com/album/1G71N908z995Kj6sNJ40DT) | 5:58 |
+| 41 | [Por Siempre Mi Angel](https://open.spotify.com/track/2rM68rJ4fQCFxZdpqjpSyN) | [Son de Ríos](https://open.spotify.com/artist/7n4KfJhG8p9DJyOo3nWK0z) | [Imposible Olvidarte](https://open.spotify.com/album/1G71N908z995Kj6sNJ40DT) | 5:58 |
+| 42 | [No Se Puede Amar a Dos](https://open.spotify.com/track/6j7apOMjYex2G4iIbIMdHF) | [Los Ecos](https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS) | [Los Querendones de la Cumbia, Vol\. 1](https://open.spotify.com/album/42HTe6akwChVCYeLijteif) | 4:47 |
 | 43 | [Necesito un Amor](https://open.spotify.com/track/36iXRKh2V3ADgwget5bzpy) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [Necesito un Amor](https://open.spotify.com/album/6sQMUFiJsBhRcR6ut1zqG1) | 4:10 |
 | 44 | [Amor a Primera Vista](https://open.spotify.com/track/3HdmvjU85zNE1vgrzy3pPp) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV), [Corazon Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Jota Benz](https://open.spotify.com/artist/1kiw9LJMc7dzqa76fmY9Sv) | [Amor a Primera Vista](https://open.spotify.com/album/1ppMX5S8XnV3wnLV2sY8rN) | 3:35 |
 | 45 | [Amor Prohibido](https://open.spotify.com/track/4g2GK0gPz78co62qx8RIOd) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Tu Amor Fue una Mentira, Vol\. 11](https://open.spotify.com/album/1dcKB2yWjUPWX2sgpVMb26) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 49 | [Lejos de Ti](https://open.spotify.com/track/0p1Tg14xmC1MgxncLFkt6d) | [Amaya Hnos](https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ) | [Lejos de Ti](https://open.spotify.com/album/3VugzWWNSNU6AiSecTnbn6) | 4:01 |
 | 50 | [No Sé](https://open.spotify.com/track/6u5f7X2vWaQFdez1UImzOf) | [Explosión De Iquitos](https://open.spotify.com/artist/0OINXnn688Z2y3n6UAdj5B) | [No Sé](https://open.spotify.com/album/501qYvcaT1VCDzRK2I1mhq) | 4:06 |
 
-Snapshot ID: `MTY4MDIzODg2MCwwMDAwMDAwMGU3MGQ2ZmJiNGEwZTRkMjRkMThkM2ZiM2Y3M2E0OTVk`
+Snapshot ID: `MTY4MDIzODg2MCwwMDAwMDAwMDBiMmNiYzU4MGIzZTBmODg2NWVmZDcwYTU2MzhjZjIw`

@@ -6126,7 +6126,7 @@
     {
       "album": {
         "name": "Pretty in pink",
-        "url": "https://open.spotify.com/album/6FAyVgF0ZBEBPIi3QQHK6l"
+        "url": "https://open.spotify.com/album/5Cgh8OZAJ8Y6haJyxMzBVH"
       },
       "artists": [
         {
@@ -6137,6 +6137,24 @@
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Pretty in pink",
+      "url": "https://open.spotify.com/track/4xCy0UyJ5qMx0bbt4F9B0d"
+    },
+    {
+      "album": {
+        "name": "Pretty in pink",
+        "url": "https://open.spotify.com/album/6FAyVgF0ZBEBPIi3QQHK6l"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-27",
       "duration_ms": 176000,
       "name": "Pretty in pink",
       "url": "https://open.spotify.com/track/5FPoDmhfaK08USOhbX4jAM"
@@ -6884,6 +6902,24 @@
       "duration_ms": 192484,
       "name": "Shower",
       "url": "https://open.spotify.com/track/1rS2X092hCdnS1DCrajMkd"
+    },
+    {
+      "album": {
+        "name": "Siesta",
+        "url": "https://open.spotify.com/album/4q5mMGjlcMUUhlGd4RWDp3"
+      },
+      "artists": [
+        {
+          "name": "\u65b0\u6771\u4eac",
+          "url": "https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191428,
+      "name": "Siesta",
+      "url": "https://open.spotify.com/track/74J0ffff6Hp3fYCkp3ceKW"
     },
     {
       "album": {
@@ -8424,6 +8460,24 @@
       "duration_ms": 218571,
       "name": "Wandering Spirit",
       "url": "https://open.spotify.com/track/6E30fAWCLP4LFusJMZKgq0"
+    },
+    {
+      "album": {
+        "name": "Waraibanashi -A Funny Story-",
+        "url": "https://open.spotify.com/album/6sTC6wymaf3mxFRljQuFp9"
+      },
+      "artists": [
+        {
+          "name": "Sean Oshima",
+          "url": "https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227143,
+      "name": "Waraibanashi -A Funny Story-",
+      "url": "https://open.spotify.com/track/6LtMJVeESzRLu2qC7nvWSr"
     },
     {
       "album": {
@@ -10400,7 +10454,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 191428,
       "name": "\u30b7\u30a8\u30b9\u30bf",
       "url": "https://open.spotify.com/track/0cRRJ7O7fEC0mohyTrM3R1"
@@ -14296,7 +14350,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 227143,
       "name": "\u7b11\u3044\u8a71 -A Funny Story-",
       "url": "https://open.spotify.com/track/1WfJhEEp4aERI2LSwCNrHo"

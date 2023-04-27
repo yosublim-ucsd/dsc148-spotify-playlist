@@ -1,12 +1,12 @@
 {
   "description": "Chill indie music. Cover: Rene\u00e9 Rapp",
-  "num_followers": 114428,
+  "num_followers": 114425,
   "original_name": "Indie Chill",
   "owner": {
     "name": "Digster",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "Nzg1NSwyNjY0YmFlNGQ0NzU2YTI1N2ZmMDk0OTExYzU3OWVjY2VmNzg2NmE4",
+  "snapshot_id": "Nzg1OSxjMzJjNWYwYWEyY2ZmZDJlYjA0M2MwZmQ3ZWMwZTBmNmFlYWVkZTk0",
   "tracks": [
     {
       "added_at": "2023-04-24 06:30:46",
@@ -409,6 +409,54 @@
       "url": "https://open.spotify.com/track/5FPSUR4mfKAz1YIY0Fjx0L"
     },
     {
+      "added_at": "2023-04-26 11:55:27",
+      "album": {
+        "name": "Off Balance",
+        "url": "https://open.spotify.com/album/7E8I4TyooemC9brsZzMP6w"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "duration_ms": 190479,
+      "name": "Off Balance",
+      "url": "https://open.spotify.com/track/2CDiN7sx4xHa8H7360GAcJ"
+    },
+    {
+      "added_at": "2023-04-26 11:55:30",
+      "album": {
+        "name": "Allison's Songs",
+        "url": "https://open.spotify.com/album/3LGwrBU9oDIZRPICGaAMhH"
+      },
+      "artists": [
+        {
+          "name": "Florence Pugh",
+          "url": "https://open.spotify.com/artist/0wU0ByZ6OSInRD0ZmVfcIq"
+        }
+      ],
+      "duration_ms": 269693,
+      "name": "The Best Part",
+      "url": "https://open.spotify.com/track/426Ts4w4vCFNW01udSShf9"
+    },
+    {
+      "added_at": "2023-04-26 11:55:34",
+      "album": {
+        "name": "Jupiter",
+        "url": "https://open.spotify.com/album/5cdFlzbIGXfVdrnfOEDM0Z"
+      },
+      "artists": [
+        {
+          "name": "Phat Yaki",
+          "url": "https://open.spotify.com/artist/62JS1LxFnn4uodPXPINFtD"
+        }
+      ],
+      "duration_ms": 167569,
+      "name": "Jupiter",
+      "url": "https://open.spotify.com/track/71qE1KmZj8qnPFkKIQWBxu"
+    },
+    {
       "added_at": "2023-04-24 06:30:46",
       "album": {
         "name": "Sonder",
@@ -775,22 +823,6 @@
     {
       "added_at": "2023-04-24 06:30:46",
       "album": {
-        "name": "Part Of Me",
-        "url": "https://open.spotify.com/album/0Jvrq5ydmUgRQjTCROZ8nj"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 202193,
-      "name": "Part Of Me",
-      "url": "https://open.spotify.com/track/288CnZzBkL4kTQqj3PlTAI"
-    },
-    {
-      "added_at": "2023-04-24 06:30:46",
-      "album": {
         "name": "Venting to Strangers",
         "url": "https://open.spotify.com/album/7cc6ray5Tt4NxNhtcd2jBz"
       },
@@ -803,6 +835,22 @@
       "duration_ms": 152437,
       "name": "Venting to Strangers",
       "url": "https://open.spotify.com/track/3SnD4nBGqUk6Tqdj1HnxxA"
+    },
+    {
+      "added_at": "2023-04-24 06:30:46",
+      "album": {
+        "name": "Part Of Me",
+        "url": "https://open.spotify.com/album/0Jvrq5ydmUgRQjTCROZ8nj"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 202193,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/288CnZzBkL4kTQqj3PlTAI"
     },
     {
       "added_at": "2023-04-24 06:30:46",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,465,819 likes - 214 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,466,117 likes - 214 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 52 | [Tomorrow](https://open.spotify.com/track/1uoWQRwh5Oa6XP7Sbgo933) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Shooting star](https://open.spotify.com/album/6cHrmMSz6fxBy4SUShsxCK) | 2:45 |
 | 53 | [Pirouette](https://open.spotify.com/track/0NZ7ku5SqkWqij5SXe3FIO) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Pirouette](https://open.spotify.com/album/57Z6mfy4khEp7rRaU6t8hU) | 2:19 |
 | 54 | [Inkling](https://open.spotify.com/track/5x2thfHti8A4ujmTjL9m7o) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [We're All Okay](https://open.spotify.com/album/2o5fmUgEHO56WLOP1mj6nR) | 3:02 |
-| 55 | [Flowers](https://open.spotify.com/track/0udVYSGaMFWLUafXmTNbKI) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Flowers](https://open.spotify.com/album/7jZ6NHedqFMgyDYY6tYAR1) | 1:36 |
+| 55 | [Flowers](https://open.spotify.com/track/0udVYSGaMFWLUafXmTNbKI) | [Gunnel Boek](https://open.spotify.com/artist/0oyrIdaEdzDBmtTVORN3xl) | [Flowers](https://open.spotify.com/album/7jZ6NHedqFMgyDYY6tYAR1) | 1:36 |
 | 56 | [Érase Una Vez](https://open.spotify.com/track/53P6FuGYsY5veR6DDGIFIs) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Lumière du Matin](https://open.spotify.com/album/4QKzhpZ1YAhVtWoZwrofTY) | 2:51 |
 | 57 | [The Right Course](https://open.spotify.com/track/6vjhLsJbpfclLNSCKHjGTW) | [Jone Lange](https://open.spotify.com/artist/4bG81VTcDhZQpPzrHyWksb) | [The Right Course](https://open.spotify.com/album/1Oa9FqJMkzggnUsHyywQ7Q) | 1:59 |
 | 58 | [Iris](https://open.spotify.com/track/3hWbgzfP4jE9rd6Tathuig) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Iris](https://open.spotify.com/album/7jrGdtwYraqkb7Psf3h4Jo) | 4:19 |

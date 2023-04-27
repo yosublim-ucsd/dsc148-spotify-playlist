@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。cover: 大比良瑞希
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,158 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,208 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,23 +46,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 36 | [OKASHi NA DEAi](https://open.spotify.com/track/1G0ZZ3vKImarwxWFwf9wHD) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [OKASHi NA DEAi](https://open.spotify.com/album/6XtHOEb6BZHR6WUnylSUQz) | 4:07 |
 | 37 | [Where the Wind Blows](https://open.spotify.com/track/51iiBOpcbxJQWf1cI8kSf6) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:32 |
 | 38 | [火をつけて feat\. 松尾レミ \(GLIM SPANKY\)](https://open.spotify.com/track/0C2S3sEvaNfulnSRNF2E1j) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc), [Remi Matsuo](https://open.spotify.com/artist/5KRGr2Dbq35ycjbyRpKoc7) | [火をつけて feat\. 松尾レミ \(GLIM SPANKY\)](https://open.spotify.com/album/5Hd2WIPcnkSNh2nAUxt2b2) | 4:59 |
-| 39 | [ミラーチューン](https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ミラーチューン](https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8) | 4:09 |
+| 39 | [サークル](https://open.spotify.com/track/5sRnmEbAVSOcfqNlVwTfQe) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Sketch](https://open.spotify.com/album/5aCgGOMefRFhsLgclMThoy) | 3:15 |
 | 40 | [東京ブギウギ \- JUNK BOOGIE](https://open.spotify.com/track/78EdyJD8l2uwT3Kw0ppViW) | [Mari Natsuki](https://open.spotify.com/artist/2pNYWL608THXN3ExiA5iay) | [TOKYO JUNK BOOGIE](https://open.spotify.com/album/3LIgXpMVtzTywubYgtUgdM) | 3:20 |
-| 41 | [サークル](https://open.spotify.com/track/5sRnmEbAVSOcfqNlVwTfQe) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Sketch](https://open.spotify.com/album/5aCgGOMefRFhsLgclMThoy) | 3:15 |
+| 41 | [ミラーチューン](https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ミラーチューン](https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8) | 4:09 |
 | 42 | [don't call me queen](https://open.spotify.com/track/6LEN840bmAq5qa1z9ZXVZr) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:14 |
 | 43 | [ミスター](https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [ミスター](https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt) | 3:07 |
 | 44 | [ヤケド](https://open.spotify.com/track/4NEhoHnnuNVRs5x7ovkkUk) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [ヤケド](https://open.spotify.com/album/1jPav5sGQGfQ8eKaAZA9Ym) | 3:15 |
 | 45 | [The World's Continuation](https://open.spotify.com/track/7k9Y8EXEvzKOH3zdMVXXo4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:47 |
 | 46 | [Choose for yourself](https://open.spotify.com/track/0gBL7umwsbrOXZPkbdQJeP) | [Tina Moon](https://open.spotify.com/artist/3I1vLdkE4jPKqsbzkOQOIQ) | [MY ARMS.](https://open.spotify.com/album/15kewSjPOqpMY3FUEYAQVq) | 4:07 |
 | 47 | [ミチヲユケ](https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU) | 3:35 |
-| 48 | [Melon](https://open.spotify.com/track/7GZ2Y8lYqyzQ2b20RLGNLJ) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [Melon](https://open.spotify.com/album/0jkjGMEXFfTA3SZgfGLV5p) | 4:12 |
-| 49 | [escalate](https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [escalate](https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz) | 4:02 |
+| 48 | [Melon](https://open.spotify.com/track/4xe4qAbgXitdQayGBnVeXT) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [Melon](https://open.spotify.com/album/1VOybJiXDbg2eRTBidpNDE) | 4:12 |
+| 49 | [Deep down](https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K) | 3:47 |
 | 50 | [my life \- Sing for you ver.](https://open.spotify.com/track/3yELCq8sfcPC83hGLHPUpy) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [my life \(Sing for you ver.\)](https://open.spotify.com/album/4E02RUbvGZ5Ecqex16ug0O) | 5:29 |
 | 51 | [消えてしまいそうです](https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [消えてしまいそうです](https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z) | 4:17 |
 | 52 | [WRONG](https://open.spotify.com/track/2aMTlOrWdKFu125tVvys96) | [yukaDD](https://open.spotify.com/artist/5AfbFgeqRYOGZbu3lYtZLe) | [WRONG](https://open.spotify.com/album/0YgFREk3UW1z7KPXe6NL8T) | 2:55 |
 | 53 | [恋泥棒。](https://open.spotify.com/track/0JnOpiUieuk9SdRv7Fkw2P) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [恋泥棒。](https://open.spotify.com/album/02oXm4Mjn4lWcc9xubCAW0) | 3:39 |
 | 54 | [IKUNE](https://open.spotify.com/track/6VMyyI0Ap0KKLIsiGeIvSh) | [GIVE ME OW](https://open.spotify.com/artist/1gOZX2GKUGvwGkDQagW3dH) | [IKUNE](https://open.spotify.com/album/138bhJmESaN5UtECXd7Pb0) | 2:49 |
-| 55 | [Deep down](https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K) | 3:47 |
+| 55 | [escalate](https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [escalate](https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz) | 4:02 |
 | 56 | [チノカテ](https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [チノカテ](https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk) | 4:08 |
 | 57 | [レンズ](https://open.spotify.com/track/7ylpphbW8jf5bh7NKJnO8s) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [レンズ](https://open.spotify.com/album/1FQoGibRW7xEZXnq1EJIX2) | 3:58 |
 | 58 | [春一番](https://open.spotify.com/track/61qEeQbRlKpZoi1msfhANP) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [春一番](https://open.spotify.com/album/6umddxqdrqZmILr4OHa35Z) | 3:17 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 63 | [蒲公英](https://open.spotify.com/track/05qgaAIIEFSkrrvxqb5np2) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [蒲公英](https://open.spotify.com/album/1kp6AjG2lydwf5OjfbxENs) | 3:11 |
 | 64 | [そして僕は途方に暮れる \(feat\. 黒川沙良\)](https://open.spotify.com/track/0saXHM5Z0JU0vjYUYOQ3nC) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Sala Kurokawa](https://open.spotify.com/artist/5gfV2sADb4hk8v0l3TxN15) | [そして僕は途方に暮れる \(feat\. 黒川沙良\)](https://open.spotify.com/album/2RplRrB1GzCpovo9YoyXAW) | 4:24 |
 | 65 | [いつのまに](https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [いつのまに](https://open.spotify.com/album/6fWI3YkfSUUL5QY1yfTDyB) | 3:28 |
-| 66 | [Always You](https://open.spotify.com/track/38kfx7lgJFHFxJMAvMMkRy) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Always You](https://open.spotify.com/album/4dSCQ1zLL6BqSYHgIepPQD) | 4:04 |
-| 67 | [夏枯れ](https://open.spotify.com/track/7Lm9ji00foCFC68YxVhw9E) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [夏枯れ](https://open.spotify.com/album/79pypbVZnHtiORB1FlGQFn) | 3:56 |
+| 66 | [夏枯れ](https://open.spotify.com/track/7Lm9ji00foCFC68YxVhw9E) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [夏枯れ](https://open.spotify.com/album/79pypbVZnHtiORB1FlGQFn) | 3:56 |
+| 67 | [Always You](https://open.spotify.com/track/38kfx7lgJFHFxJMAvMMkRy) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Always You](https://open.spotify.com/album/4dSCQ1zLL6BqSYHgIepPQD) | 4:04 |
 | 68 | [TOKYO 4AM](https://open.spotify.com/track/3lbZM8EtM1dnZDunARwI1N) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [TOKYO 4AM](https://open.spotify.com/album/0mpL0xIydKRXWdL1UcDh0X) | 3:21 |
 | 69 | [そばにいるよ](https://open.spotify.com/track/3ToOLGmjcYxZ7SA9u9IU7K) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [そばにいるよ](https://open.spotify.com/album/7lsz8Hv97ew87nz5wsPgHB) | 4:09 |
 | 70 | [missing](https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [missing](https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 99 | [Never Fear](https://open.spotify.com/track/5jG4OWaAkMo4JATFSkCrpc) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Not Unusual](https://open.spotify.com/album/3gx3krICQA5Q62l56pEHcB) | 3:49 |
 | 100 | [We Are](https://open.spotify.com/track/1qLc9IbANqjD79IHj47wU9) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [We Are](https://open.spotify.com/album/3DJS8K78UQGkumu2QMa2uB) | 3:32 |
 
-Snapshot ID: `MTY4MjQzNDgwMCwwMDAwMDAwMDc3NGMyOGI3NDllZTZlNGRlOTc0NDI1MDIxYmQwZTY2`
+Snapshot ID: `MTY4MjQzNDgwMCwwMDAwMDAwMDIyNWRkZTBiMmEzNGVhNDk1OWRmMmZiNmI2NTQ4M2Ey`

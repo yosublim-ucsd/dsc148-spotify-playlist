@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,455 likes - 51 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,494 likes - 51 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,16 +48,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 38 | [Enseñame A Olvidar \- En Vivo](https://open.spotify.com/track/1r1x8P6SA7FQNZzKurlSHz) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [En Vivo con Banda Sinaloense La Tuyia de Culiacan, Sinaloa Vol\. 2](https://open.spotify.com/album/77YuTsjt3HShK7vQZrf2VR) | 3:07 |
 | 39 | [En Un Día Como Hoy](https://open.spotify.com/track/3G6PfDCnFqx6eM2Qzr8Plm) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2ctNHopUQHri09MYsc33q1) | 3:21 |
 | 40 | [Si No Se Dio](https://open.spotify.com/track/1CKKGy99iDQbItYVgqdF0W) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Amor Pasajero](https://open.spotify.com/album/1itC5UQ9xn65wqndqlaJkQ) | 2:07 |
-| 41 | [Las Dos Promesas](https://open.spotify.com/track/3s7XyZunbdD69B6wz78uA8) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Las Dos Promesas](https://open.spotify.com/album/40kXxejvHfmoDl4DygxMo5) | 2:45 |
-| 42 | [Amarga Derrota](https://open.spotify.com/track/03qGhUmoAIf2YlCVMVOEul) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Amarga Derrota](https://open.spotify.com/album/6Fn2u2al4xODTRWIkwS5Gb) | 3:27 |
+| 41 | [Amarga Derrota](https://open.spotify.com/track/03qGhUmoAIf2YlCVMVOEul) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Amarga Derrota](https://open.spotify.com/album/6Fn2u2al4xODTRWIkwS5Gb) | 3:27 |
+| 42 | [Las Dos Promesas](https://open.spotify.com/track/3s7XyZunbdD69B6wz78uA8) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Las Dos Promesas](https://open.spotify.com/album/40kXxejvHfmoDl4DygxMo5) | 2:45 |
 | 43 | [El Güero Colorado](https://open.spotify.com/track/0QBOB9Cf0XZ9mzvq2ZdDJa) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2ctNHopUQHri09MYsc33q1) | 3:39 |
 | 44 | [Tres Besitos](https://open.spotify.com/track/2UADsvbZjZWQpzFfch78FI) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo \(Edición Deluxe\)](https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ) | 2:34 |
 | 45 | [El Karma](https://open.spotify.com/track/28ePagXQlJN3w7n2ev0wGS) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [5 Años Despues](https://open.spotify.com/album/0dGdjf5RzkSb11Mso8Bal2) | 3:30 |
 | 46 | [Que Tal Si Te Compro \- En Vivo](https://open.spotify.com/track/4VT9nnGvx6jopO0tCpLuZr) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [EN VIVO con Banda Sinaloense La Tuyia de Culiacán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/6oFayPQwUEha5VnlkwANz3) | 2:45 |
 | 47 | [Ahí Está El Detalle](https://open.spotify.com/track/1EHCom65D7A8cGBiuMNqhw) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2ctNHopUQHri09MYsc33q1) | 3:11 |
-| 48 | [Bola de Cristal](https://open.spotify.com/track/4pyyICMmeUBNxFQFEZDlni) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Bola de Cristal](https://open.spotify.com/album/3OKY0FukgMiktC2TXceUdg) | 3:10 |
-| 49 | [El Sucesor](https://open.spotify.com/track/4xmbgTGk4ozpTGkY5IezIV) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Sucesor](https://open.spotify.com/album/4ShDgSamOCAa27w3cEEDuR) | 5:04 |
+| 48 | [El Sucesor](https://open.spotify.com/track/4xmbgTGk4ozpTGkY5IezIV) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Sucesor](https://open.spotify.com/album/4ShDgSamOCAa27w3cEEDuR) | 5:04 |
+| 49 | [Bola de Cristal](https://open.spotify.com/track/4pyyICMmeUBNxFQFEZDlni) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Bola de Cristal](https://open.spotify.com/album/3OKY0FukgMiktC2TXceUdg) | 3:10 |
 | 50 | [El Mencho \- En Vivo](https://open.spotify.com/track/5Vw0NBy4t0Q6AHpF3sXB9e) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [EN VIVO con Banda Sinaloense La Tuyia de Culiacán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/6oFayPQwUEha5VnlkwANz3) | 2:49 |
 | 51 | [Órdenes Directas](https://open.spotify.com/track/7w9libenk5qFo5LUoHGO7j) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Órdenes Directas \(Deltas\)](https://open.spotify.com/album/6spcpkPGLE5ERczqKcjwUU) | 2:27 |
 
-Snapshot ID: `MjgwNDA0NDAsMDAwMDAwMDBhOTQyNWYwNjVkZWM4M2Q1M2JhMzQ5MTFlODkzYjM0MA==`
+Snapshot ID: `MjgwNDE5MzAsMDAwMDAwMDBjYzYyOWZiMWQ1MDJiZDdkMzIwNjQxNWMwMmQwZjI1MQ==`

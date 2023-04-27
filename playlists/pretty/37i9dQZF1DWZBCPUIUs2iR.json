@@ -1,12 +1,12 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 483730,
+  "num_followers": 484319,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQwMjgxMiwwMDAwMDAwMDMxNDcyZTc2MDM5Yjc2ODRmZThhZTNiNjRlMWVmNGRh",
+  "snapshot_id": "MTY3NjQwMjgxMiwwMDAwMDAwMDU3NjM5MmYyZjEzODhlZTdkODAyMjE3NjM0NDdhMTc1",
   "tracks": [
     {
       "added_at": "2023-01-10 01:36:03",
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/6iy4PoAuZBMvtrlDX4VxC7"
     },
     {
-      "added_at": "2023-04-26 00:56:21",
+      "added_at": "2023-04-27 00:21:29",
       "album": {
         "name": "9 To 5 And Odd Jobs",
         "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-01-10 01:36:03",
       "album": {
-        "name": "Martina",
-        "url": "https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd"
-      },
-      "artists": [
-        {
-          "name": "Martina McBride",
-          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
-        }
-      ],
-      "duration_ms": 243160,
-      "name": "This One's for the Girls",
-      "url": "https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb"
-    },
-    {
-      "added_at": "2023-01-10 01:36:03",
-      "album": {
         "name": "Kickin' It Up",
         "url": "https://open.spotify.com/album/35RTe7YfQemPHk27qXWMxK"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 262520,
       "name": "I Swear",
       "url": "https://open.spotify.com/track/7wIaLkbQzG6HMnE28etnif"
+    },
+    {
+      "added_at": "2023-01-10 01:36:03",
+      "album": {
+        "name": "Martina",
+        "url": "https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd"
+      },
+      "artists": [
+        {
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+        }
+      ],
+      "duration_ms": 243160,
+      "name": "This One's for the Girls",
+      "url": "https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb"
     },
     {
       "added_at": "2023-01-10 01:36:03",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-01-10 01:36:03",
       "album": {
+        "name": "George Strait's Greatest Hits",
+        "url": "https://open.spotify.com/album/7x8avOLIjaENw4csHfd40c"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "You Look So Good In Love",
+      "url": "https://open.spotify.com/track/5BYOLEoFD1fWokKncxz7BQ"
+    },
+    {
+      "added_at": "2023-01-10 01:36:03",
+      "album": {
         "name": "Greatest Hits - Finest Performances",
         "url": "https://open.spotify.com/album/15bCIHfExC17px6iAMdtCi"
       },
@@ -1291,18 +1307,18 @@
     {
       "added_at": "2023-01-10 01:36:03",
       "album": {
-        "name": "George Strait's Greatest Hits",
-        "url": "https://open.spotify.com/album/7x8avOLIjaENw4csHfd40c"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
         }
       ],
-      "duration_ms": 193400,
-      "name": "You Look So Good In Love",
-      "url": "https://open.spotify.com/track/5BYOLEoFD1fWokKncxz7BQ"
+      "duration_ms": 216693,
+      "name": "Pickup Man",
+      "url": "https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON"
     },
     {
       "added_at": "2023-01-10 01:36:03",
@@ -1327,18 +1343,18 @@
     {
       "added_at": "2023-01-10 01:36:03",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0"
+        "name": "Ultimate Clint Black",
+        "url": "https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz"
       },
       "artists": [
         {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+          "name": "Clint Black",
+          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
         }
       ],
-      "duration_ms": 216693,
-      "name": "Pickup Man",
-      "url": "https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON"
+      "duration_ms": 168000,
+      "name": "Killin' Time",
+      "url": "https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO"
     },
     {
       "added_at": "2023-01-10 01:36:03",
@@ -1355,38 +1371,6 @@
       "duration_ms": 231506,
       "name": "Love, Me",
       "url": "https://open.spotify.com/track/5cCLKP66G2PJEorzYQVXHR"
-    },
-    {
-      "added_at": "2023-01-10 01:36:03",
-      "album": {
-        "name": "The Essential Merle Haggard: The Epic Years",
-        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 179333,
-      "name": "Big City",
-      "url": "https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8"
-    },
-    {
-      "added_at": "2023-01-10 01:36:03",
-      "album": {
-        "name": "Ultimate Clint Black",
-        "url": "https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz"
-      },
-      "artists": [
-        {
-          "name": "Clint Black",
-          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Killin' Time",
-      "url": "https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO"
     },
     {
       "added_at": "2023-01-10 01:36:03",
@@ -1419,6 +1403,22 @@
       "duration_ms": 171653,
       "name": "Every Which Way but Loose - 2009 Remaster",
       "url": "https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3"
+    },
+    {
+      "added_at": "2023-01-10 01:36:03",
+      "album": {
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "Big City",
+      "url": "https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8"
     },
     {
       "added_at": "2023-01-10 01:36:03",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-01-10 01:36:03",
       "album": {
-        "name": "Rockin' With The Rhythm",
-        "url": "https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq"
-      },
-      "artists": [
-        {
-          "name": "The Judds",
-          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Have Mercy",
-      "url": "https://open.spotify.com/track/5toaXJWnmQCnGRh8eOrEwE"
-    },
-    {
-      "added_at": "2023-01-10 01:36:03",
-      "album": {
         "name": "Souvenirs",
         "url": "https://open.spotify.com/album/1cudEt9ALkzUNCcGeQX9cM"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 223533,
       "name": "Don't Let Our Love Start Slippin' Away",
       "url": "https://open.spotify.com/track/70TsRbycWfabtevnripyRu"
+    },
+    {
+      "added_at": "2023-01-10 01:36:03",
+      "album": {
+        "name": "Rockin' With The Rhythm",
+        "url": "https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq"
+      },
+      "artists": [
+        {
+          "name": "The Judds",
+          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Have Mercy",
+      "url": "https://open.spotify.com/track/5toaXJWnmQCnGRh8eOrEwE"
     },
     {
       "added_at": "2023-01-10 01:36:03",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-01-10 01:36:03",
       "album": {
-        "name": "All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
-      },
-      "artists": [
-        {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
-        }
-      ],
-      "duration_ms": 148320,
-      "name": "My Heart Skips A Beat",
-      "url": "https://open.spotify.com/track/1jGa3ZVWNhqes22ZoVBfOJ"
-    },
-    {
-      "added_at": "2023-01-10 01:36:03",
-      "album": {
         "name": "Straight Ahead (Expanded Edition)",
         "url": "https://open.spotify.com/album/1XNfE0t3kM8zV4XVqPDHNQ"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 157533,
       "name": "All the Gold In California",
       "url": "https://open.spotify.com/track/6yLDMogQVRdVmwlh8uw526"
+    },
+    {
+      "added_at": "2023-01-10 01:36:03",
+      "album": {
+        "name": "All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "duration_ms": 148320,
+      "name": "My Heart Skips A Beat",
+      "url": "https://open.spotify.com/track/1jGa3ZVWNhqes22ZoVBfOJ"
     }
   ],
   "unique_name": "Country's Greatest Hits",

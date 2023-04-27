@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,489 likes - 60 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,589 likes - 60 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 9 | [La Selva](https://open.spotify.com/track/0MaWSRHVhv3JzskCafmwWm) | [Hippo Sound System](https://open.spotify.com/artist/76PmgadZGubI9rKtDuRVKy), [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU) | [La Selva](https://open.spotify.com/album/6f75eLjZI07hxosPgP95h6) | 4:15 |
 | 10 | [SALTA](https://open.spotify.com/track/3Jc8DUdZ1iX5FbYaKzKVh1) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [TANDEM](https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69) | 2:50 |
 | 11 | [Hipnótico](https://open.spotify.com/track/7kNUjyZQ1YWN1Nv4JvTaiD) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [6](https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj) | 3:39 |
-| 12 | [Azul Oro](https://open.spotify.com/track/7fAxYPaTKRmQnxJMjg51xc) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [Azulejos](https://open.spotify.com/album/5rC8m03xKIoFTt5iLPRtZY) | 3:26 |
-| 13 | [Solo Quiero \(feat\. Pedrina\)](https://open.spotify.com/track/4JP3yoybj8GVDVBKrdmkFx) | [Montoya](https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Otun](https://open.spotify.com/album/04o8fTvz7ZcMYVnIx0HAgv) | 4:23 |
+| 12 | [Solo Quiero \(feat\. Pedrina\)](https://open.spotify.com/track/4JP3yoybj8GVDVBKrdmkFx) | [Montoya](https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Otun](https://open.spotify.com/album/04o8fTvz7ZcMYVnIx0HAgv) | 4:23 |
+| 13 | [Azul Oro](https://open.spotify.com/track/7fAxYPaTKRmQnxJMjg51xc) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [Azulejos](https://open.spotify.com/album/5rC8m03xKIoFTt5iLPRtZY) | 3:26 |
 | 14 | [Mama Clo](https://open.spotify.com/track/2jUXoIl9hcfw9JQrOPRHEW) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP), [Benjamín Vanegas](https://open.spotify.com/artist/3iH5J5um1uCq8fEXkuF5hF) | [Escape Plan](https://open.spotify.com/album/4qYVBtC9qkZpEIRZDLyUHg) | 3:41 |
 | 15 | [Cariñito](https://open.spotify.com/track/1vWoodfwshprECuRoWnBjB) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cariñito](https://open.spotify.com/album/3EhNobcvRpbFTQO8aZFfDJ) | 3:41 |
 | 16 | [Jardines](https://open.spotify.com/track/4ayZ9j0dnWDHAND8gndD6X) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Amansara](https://open.spotify.com/album/2XJlMNLjYOr31TTFd21GED) | 4:46 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 59 | [Resiliencia](https://open.spotify.com/track/590gL4Fk4eHhLazuvVefLn) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Ramas](https://open.spotify.com/album/2s61LZqkxTwh3PNMxO6mYX) | 4:49 |
 | 60 | [Muíño](https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS) | [Solpor](https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs) | 5:19 |
 
-Snapshot ID: `MTY3NjQ3MTQyNiwwMDAwMDAwMDc5Nzk4NWQyZTA5MTkzNmQ2OGU2YmMxZDg4ZGZkNmYz`
+Snapshot ID: `MTY3NjQ3MTQyNiwwMDAwMDAwMGNhMzIxYTdhYzFlNTlkZWNkODhlMmRmZjZhNmNlZTU3`

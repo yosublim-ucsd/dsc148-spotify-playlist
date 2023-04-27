@@ -4,7 +4,7 @@
 
 > self\-reinvention never sounded so good.
 
-84 songs - 4 hr 24 min
+85 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Stars](https://open.spotify.com/track/6bKQ8iw83w4iyACgoEzPt4) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Blue Skies](https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE) | 2:43 | 2022-09-23 | 2023-03-18 |
 | [Super Soaker](https://open.spotify.com/track/5aPsS8Erp6FBlFSEunU51j) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Here’s What You Could Have Won](https://open.spotify.com/album/7xq7v7rW8L7QAgvw5i6Ig8) | 2:58 | 2022-09-23 | 2023-03-18 |
 | [The Greatest](https://open.spotify.com/track/2XHJ3DLnRp7wfUwrhPcMKH) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Squeeze](https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT) | 3:20 | 2022-09-23 | 2023-01-27 |
-| [The News](https://open.spotify.com/track/02oTRx0v3GloOe5VJZgjC7) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [The News](https://open.spotify.com/album/6Qc7G45dQ8rA91IbPrTUFR) | 3:07 | 2023-01-13 |  |
+| [The News](https://open.spotify.com/track/02oTRx0v3GloOe5VJZgjC7) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [The News](https://open.spotify.com/album/6Qc7G45dQ8rA91IbPrTUFR) | 3:07 | 2023-01-13 | 2023-04-27 |
+| [The News](https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:07 | 2023-03-31 |  |
 | [The Same](https://open.spotify.com/track/6feuIpYR8HYHvryrczwxT7) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m) | 2:31 | 2022-09-23 |  |
 | [Valentine](https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 3:16 | 2022-09-23 |  |
 | [Veronica Mars](https://open.spotify.com/track/1D8gAw88OF911utrFnVQdM) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Veronica Mars](https://open.spotify.com/album/5uVhPTXAfU9Bboa6Jbl1cB) | 1:57 | 2023-01-13 |  |

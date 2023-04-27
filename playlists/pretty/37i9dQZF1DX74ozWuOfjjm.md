@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to the women of Au & NZ at full volume! Cover: Charley
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,059 likes - 89 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,061 likes - 89 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

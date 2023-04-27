@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO441VhO.md) - [plain]
 
 > This is zebrahead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,522 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,533 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO441VhO.md) - [plain]
 | 20 | [Wake Me Up](https://open.spotify.com/track/3mSZz9k6TzRpin74YEipgV) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Broadcast to the World](https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ) | 3:49 |
 | 21 | [Evil Anonymous](https://open.spotify.com/track/6fB3DvO3syABrIW527ISKA) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Evil Anonymous](https://open.spotify.com/album/6XrDxDfccAIF248JyKIMvS) | 2:56 |
 | 22 | [Check](https://open.spotify.com/track/4NAm3aWUkQlQcAll13HVEt) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Waste Of Mind](https://open.spotify.com/album/7bYhJeHWcA2fQcrdLEI5gJ) | 2:25 |
-| 23 | [F.L.F.U.](https://open.spotify.com/track/2Vh5khmfrno2b4kZNcyEi5) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [II](https://open.spotify.com/album/0hgsziS63NRPOR0YoCzMkD) | 4:00 |
-| 24 | [If Your Looking for Your Knife...I Think My Back Found It](https://open.spotify.com/track/7ARNueFmeVUHPPfntbDdwk) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h) | 3:20 |
+| 23 | [If Your Looking for Your Knife...I Think My Back Found It](https://open.spotify.com/track/7ARNueFmeVUHPPfntbDdwk) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h) | 3:20 |
+| 24 | [F.L.F.U.](https://open.spotify.com/track/2Vh5khmfrno2b4kZNcyEi5) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [II](https://open.spotify.com/album/0hgsziS63NRPOR0YoCzMkD) | 4:00 |
 | 25 | [Call Your Friends](https://open.spotify.com/track/33O6ClxE0Fmz149l7HiZcp) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Call Your Friends](https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs) | 3:07 |
 | 26 | [Survivor](https://open.spotify.com/track/105NwLq2B5gFMc2BQVHI8d) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Panty Raid \(Bonus Edition\)](https://open.spotify.com/album/0ZzaGzOqEkl2eavzn5y5UK) | 3:25 |
 | 27 | [A Long Way Down](https://open.spotify.com/track/5lQUnOC74U3C0MjyjJwwaJ) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [A Long Way Down](https://open.spotify.com/album/1mQ8KcLBD0bvlbIcYWdlNi) | 3:18 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO441VhO.md) - [plain]
 | 34 | [Alone](https://open.spotify.com/track/2NWWVcMgYuzHHotD9ZZLm7) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [MFZB](https://open.spotify.com/album/0RvGrZn83zvUjARVbbiFDg) | 2:15 |
 | 35 | [The Juggernauts](https://open.spotify.com/track/4ZTjAr4g4qKliDJ2SitZ5K) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Phoenix](https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP) | 3:59 |
 | 36 | [Who Brings a Knife to a Gunfight?](https://open.spotify.com/track/4HU3mq85Y1j30CpZcojsLM) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Walk the Plank](https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi) | 2:51 |
-| 37 | [Russian Roulette Is for Lovers?](https://open.spotify.com/track/2c1FRsX6xUDalTZ5duta8v) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III](https://open.spotify.com/album/2fugR8H7GN4SNbXAnZwfPx) | 3:11 |
-| 38 | [Rated "U" For Ugly](https://open.spotify.com/track/0eThYQbMcIbjO09j77VwBR) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Broadcast to the World](https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ) | 3:01 |
+| 37 | [Rated "U" For Ugly](https://open.spotify.com/track/0eThYQbMcIbjO09j77VwBR) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Broadcast to the World](https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ) | 3:01 |
+| 38 | [Russian Roulette Is for Lovers?](https://open.spotify.com/track/2c1FRsX6xUDalTZ5duta8v) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III](https://open.spotify.com/album/2fugR8H7GN4SNbXAnZwfPx) | 3:11 |
 | 39 | [Sirens](https://open.spotify.com/track/7wCMcW4idLlNjh5DY2WqhF) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Call Your Friends](https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs) | 3:26 |
 | 40 | [Running With Wolves](https://open.spotify.com/track/1lZxVX5uiK9Q5VTuZJLqca) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Walk the Plank](https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi) | 3:34 |
 | 41 | [The Set\-Up](https://open.spotify.com/track/2Aw502eWK9NavndTlBzLuk) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [MFZB](https://open.spotify.com/album/0RvGrZn83zvUjARVbbiFDg) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO441VhO.md) - [plain]
 | 49 | [Broadcast To The World](https://open.spotify.com/track/1LRgvH3K5JpnOf50lFyNFC) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Broadcast to the World](https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ) | 3:16 |
 | 50 | [Out of Time](https://open.spotify.com/track/70fXq5ZlK9MYEuoHLuD6Na) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Out of Time](https://open.spotify.com/album/7IWrIlIVDc6wDioyrU3lN7) | 2:47 |
 
-Snapshot ID: `MjgwNDA0NDAsMDAwMDAwMDBiYTZmNzZjZDVhNDhiYjFlYTQxZDZiNDAwOGNlNzg3NA==`
+Snapshot ID: `MjgwNDE5MzAsMDAwMDAwMDBmNmMxNWRlNTMyNTAyNTAyYjY4YzE1ODFmYWM0ZGEyOA==`

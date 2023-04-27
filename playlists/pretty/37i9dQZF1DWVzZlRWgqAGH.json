@@ -1,12 +1,12 @@
 {
   "description": "Smooth joints. Cover: Daniel Caesar",
-  "num_followers": 778517,
+  "num_followers": 778495,
   "original_name": "BUTTER",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTY2MCwwMDAwMDAwMDQ5MTFlYzA3MmNmYzE5MDExMWIyZGNjMDA3OTMyZmNk",
+  "snapshot_id": "MTY4MjA0OTY2MCwwMDAwMDAwMDUzOTkzZGNkN2VkNDc1OWFmNGI0OGJjNGI3NjYyZDNm",
   "tracks": [
     {
       "added_at": "2023-04-21 04:01:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Victims & Villains",
-        "url": "https://open.spotify.com/album/75gfDhxXd2V3SbWZUYhGia"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        },
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        }
-      ],
-      "duration_ms": 230136,
-      "name": "white rice d\u00e9j\u00e0 vu",
-      "url": "https://open.spotify.com/track/4knVIbR3KouTZI1R26W3yy"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Dinner Party",
         "url": "https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 150496,
       "name": "From My Heart and My Soul (feat. Phoelix)",
       "url": "https://open.spotify.com/track/3Czw867MbvBiyEd1QCvjmq"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Victims & Villains",
+        "url": "https://open.spotify.com/album/75gfDhxXd2V3SbWZUYhGia"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "duration_ms": 230136,
+      "name": "white rice d\u00e9j\u00e0 vu",
+      "url": "https://open.spotify.com/track/4knVIbR3KouTZI1R26W3yy"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Get Away",
-        "url": "https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK"
-      },
-      "artists": [
-        {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
-        }
-      ],
-      "duration_ms": 183050,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
       },
@@ -1063,22 +1047,18 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Honeysuckle Neckbone",
-        "url": "https://open.spotify.com/album/7IyhQLXLMdsYr62RuSpt12"
+        "name": "Get Away",
+        "url": "https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK"
       },
       "artists": [
         {
-          "name": "BLK ODYSSY",
-          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
-        },
-        {
-          "name": "Bootsy Collins",
-          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
         }
       ],
-      "duration_ms": 200560,
-      "name": "Honeysuckle Neckbone",
-      "url": "https://open.spotify.com/track/42XjSu5mDdsCS5QKf4GKev"
+      "duration_ms": 183050,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1095,6 +1075,26 @@
       "duration_ms": 162436,
       "name": "Rainforest",
       "url": "https://open.spotify.com/track/7jnaAu7P745QnBBHm3RtSU"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Honeysuckle Neckbone",
+        "url": "https://open.spotify.com/album/7IyhQLXLMdsYr62RuSpt12"
+      },
+      "artists": [
+        {
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        },
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        }
+      ],
+      "duration_ms": 200560,
+      "name": "Honeysuckle Neckbone",
+      "url": "https://open.spotify.com/track/42XjSu5mDdsCS5QKf4GKev"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "TMF",
-        "url": "https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        }
-      ],
-      "duration_ms": 211283,
-      "name": "TMF",
-      "url": "https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Enigmatic Society",
         "url": "https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 164693,
       "name": "Can't Go (feat. Phoelix)",
       "url": "https://open.spotify.com/track/0TuuzZDwssPfVQvgubXsYV"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "TMF",
+        "url": "https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "duration_ms": 211283,
+      "name": "TMF",
+      "url": "https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1379,6 +1379,22 @@
       "duration_ms": 271250,
       "name": "White Crayon",
       "url": "https://open.spotify.com/track/3a1CnmO9A2hb1B42dMTxel"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Princess Forever",
+        "url": "https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "Gimme A Chance",
+      "url": "https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1523,38 +1539,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "World In My Hands",
-        "url": "https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT"
-      },
-      "artists": [
-        {
-          "name": "LAVI$H",
-          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
-        }
-      ],
-      "duration_ms": 194401,
-      "name": "World In My Hands",
-      "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "flora + fana (deluxe)",
-        "url": "https://open.spotify.com/album/49taXX1D0To7iLGm1WcfLS"
-      },
-      "artists": [
-        {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
-        }
-      ],
-      "duration_ms": 217055,
-      "name": "float",
-      "url": "https://open.spotify.com/track/3DxkonlRas1WjpWUuNmf7Z"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Current Blues",
         "url": "https://open.spotify.com/album/0eLcH4iKjPc7Hx10C6UpWB"
       },
@@ -1575,18 +1559,18 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Princess Forever",
-        "url": "https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR"
+        "name": "World In My Hands",
+        "url": "https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT"
       },
       "artists": [
         {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+          "name": "LAVI$H",
+          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
         }
       ],
-      "duration_ms": 211875,
-      "name": "Gimme A Chance",
-      "url": "https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d"
+      "duration_ms": 194401,
+      "name": "World In My Hands",
+      "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1603,6 +1587,22 @@
       "duration_ms": 203064,
       "name": "TEARS OF JOY",
       "url": "https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "flora + fana (deluxe)",
+        "url": "https://open.spotify.com/album/49taXX1D0To7iLGm1WcfLS"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 217055,
+      "name": "float",
+      "url": "https://open.spotify.com/track/3DxkonlRas1WjpWUuNmf7Z"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1639,6 +1639,38 @@
       "duration_ms": 154768,
       "name": "Problems",
       "url": "https://open.spotify.com/track/2iq4Pc3NhTJU466gppAKCX"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/2GZLxm0djV5NUNdes4kYv0"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "duration_ms": 156622,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/4UZxlB4kClh746mupKTDer"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "FORWARD",
+        "url": "https://open.spotify.com/album/3B091Vt3mViGBReaUvMUCc"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "FAMJAM4000",
+      "url": "https://open.spotify.com/track/6FDNS9i86Il7ZeGBf7H2Aa"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1687,22 +1719,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/2GZLxm0djV5NUNdes4kYv0"
-      },
-      "artists": [
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        }
-      ],
-      "duration_ms": 156622,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/4UZxlB4kClh746mupKTDer"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Beh Beh",
         "url": "https://open.spotify.com/album/0yFsmWTrmsHFXC3B0hXg5Z"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 198400,
       "name": "Beh Beh",
       "url": "https://open.spotify.com/track/5863KoQ2dlUnkEJI6LgQie"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "FORWARD",
-        "url": "https://open.spotify.com/album/3B091Vt3mViGBReaUvMUCc"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "FAMJAM4000",
-      "url": "https://open.spotify.com/track/6FDNS9i86Il7ZeGBf7H2Aa"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Voice Notes",
-        "url": "https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 175173,
-      "name": "From A Lover",
-      "url": "https://open.spotify.com/track/3s0gco9dCNjVm1B0Pr0Gau"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "When Flowers Bloom",
         "url": "https://open.spotify.com/album/1LjYyb9wGDzAwo1x8RVbUG"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 199770,
       "name": "Alone In Kenzo",
       "url": "https://open.spotify.com/track/6H5DZBYLOJ8pbmYy6JdTfq"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Voice Notes",
+        "url": "https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 175173,
+      "name": "From A Lover",
+      "url": "https://open.spotify.com/track/3s0gco9dCNjVm1B0Pr0Gau"
     },
     {
       "added_at": "2023-04-21 04:01:00",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7wHseZmxqFF.md) - [plain]
 
 > The UK girl group grab the power and show their love for Pride, unfurling a no\-fail list of pop party jams and club classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,811 likes - 27 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,814 likes - 27 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Little Mix Spotify Pride Intro](https://open.spotify.com/track/4ENuIjI1dQOQGYkgIwQgSX) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Little Mix \- Spotify Pride](https://open.spotify.com/album/5Q8yeAnDW8RkSpQCsotmCC) | 0:14 |
 | 2 | [Hair \(feat\. Sean Paul\)](https://open.spotify.com/track/28STRBEo3Gp4EthtSk4MGW) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Get Weird \(Expanded Edition\)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 3:55 |
 | 3 | [Crazy In Love \(feat\. Jay\-Z\)](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:56 |
-| 4 | [The Promise](https://open.spotify.com/track/3wyMwEpzoIWBGqEkHeEvi6) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Ten](https://open.spotify.com/album/664RHc5JaWz4ELLzzybn2T) | 3:44 |
+| 4 | [The Promise](https://open.spotify.com/track/2cbfCJFIX0RlIPNkLydHmj) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Ten \(Deluxe Edition\)](https://open.spotify.com/album/7nPNZ0M4qgVUTjlcCPzfSw) | 3:44 |
 | 5 | [Little Mix on Pride](https://open.spotify.com/track/5oCm9VmiP5bkYqm7EfVQg7) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Little Mix \- Spotify Pride](https://open.spotify.com/album/5Q8yeAnDW8RkSpQCsotmCC) | 0:33 |
 | 6 | [Sissy That Walk](https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Born Naked](https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7) | 3:32 |
 | 7 | [Upside Down](https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 4:05 |
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7wHseZmxqFF.md) - [plain]
 | 26 | [Primadonna](https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 3:41 |
 | 27 | [Peacock](https://open.spotify.com/track/0rXw5rWZpOdfeeCbMln8MU) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:51 |
 
-Snapshot ID: `MTQ5NjQxMTE5OCwwMDAwMDAwMDcyOGVlMDJiNzNiZmFkMGUyZGJhNTk3MmMzZjRlOWIz`
+Snapshot ID: `MTQ5NjQxMTE5OCwwMDAwMDAwMDNmNGNmZjcwZWRlMTI2NGM4Mzk5YWVjNjU2ZDUxZTgy`

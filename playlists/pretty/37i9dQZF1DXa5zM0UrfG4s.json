@@ -1,12 +1,12 @@
 {
   "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du kan spelle i kjerra! Cover: Hagle",
-  "num_followers": 97260,
+  "num_followers": 97297,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAyODAwMCwwMDAwMDAwMDg5MzRhYzRlZDgyZmFiMzFmNWI1MGNlOGYwODMxY2Q2",
+  "snapshot_id": "MTY4MjAyODAwMCwwMDAwMDAwMDExNTU0NDIxOGFlNjYwNjJiYmUyNzAyYjdiODQ4MTg1",
   "tracks": [
     {
       "added_at": "2023-04-20 22:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "Polare",
+        "url": "https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr"
+      },
+      "artists": [
+        {
+          "name": "Prilla Generalen",
+          "url": "https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak"
+        }
+      ],
+      "duration_ms": 205666,
+      "name": "Polare",
+      "url": "https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "H\u00d6RRU BARTENDER",
         "url": "https://open.spotify.com/album/1b9a5LDUt0kdBj6H6o2dOa"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 164127,
       "name": "B\u00f8gda",
       "url": "https://open.spotify.com/track/1MpCvOlkM8VbH50AL7mAUm"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "Polare",
-        "url": "https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr"
-      },
-      "artists": [
-        {
-          "name": "Prilla Generalen",
-          "url": "https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak"
-        }
-      ],
-      "duration_ms": 205666,
-      "name": "Polare",
-      "url": "https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1083,22 +1083,18 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Bad Booty",
-        "url": "https://open.spotify.com/album/47z1O0BS0n7UoSZZFPGt3X"
+        "name": "S\u00e5nn So Det Va F\u00f8r",
+        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
       },
       "artists": [
         {
-          "name": "Robin Stones",
-          "url": "https://open.spotify.com/artist/4dQfZWcKSxR7yAajmK4H1r"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+          "name": "Vassendgutane",
+          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
         }
       ],
-      "duration_ms": 133813,
-      "name": "Bad Booty",
-      "url": "https://open.spotify.com/track/2NXDdSSrR8rZVL7IgTgJEF"
+      "duration_ms": 278457,
+      "name": "S\u00e5nn So Det Va F\u00f8r",
+      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1127,6 +1123,26 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "Bad Booty",
+        "url": "https://open.spotify.com/album/47z1O0BS0n7UoSZZFPGt3X"
+      },
+      "artists": [
+        {
+          "name": "Robin Stones",
+          "url": "https://open.spotify.com/artist/4dQfZWcKSxR7yAajmK4H1r"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 133813,
+      "name": "Bad Booty",
+      "url": "https://open.spotify.com/track/2NXDdSSrR8rZVL7IgTgJEF"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "Besseggen",
         "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 165612,
       "name": "Besseggen",
       "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "S\u00e5nn So Det Va F\u00f8r",
-        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
-      },
-      "artists": [
-        {
-          "name": "Vassendgutane",
-          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
-        }
-      ],
-      "duration_ms": 278457,
-      "name": "S\u00e5nn So Det Va F\u00f8r",
-      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1207,26 +1207,18 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Viddas Himmelbl\u00e5",
-        "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
+        "name": "Jag \u00e4r taggad",
+        "url": "https://open.spotify.com/album/1W0E6v9QnzzS9IWs5Rwpoz"
       },
       "artists": [
         {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        },
-        {
           "name": "Kevin Boine",
           "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
-        },
-        {
-          "name": "Nils Mikael H\u00e6tta",
-          "url": "https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d"
         }
       ],
-      "duration_ms": 192282,
-      "name": "Viddas Himmelbla\u030a",
-      "url": "https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq"
+      "duration_ms": 136814,
+      "name": "Jag \u00e4r taggad",
+      "url": "https://open.spotify.com/track/7F05vRdjrBljwevx0lwvZM"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1247,18 +1239,26 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Jag \u00e4r taggad",
-        "url": "https://open.spotify.com/album/1W0E6v9QnzzS9IWs5Rwpoz"
+        "name": "Viddas Himmelbl\u00e5",
+        "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
       },
       "artists": [
         {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        },
+        {
           "name": "Kevin Boine",
           "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+        },
+        {
+          "name": "Nils Mikael H\u00e6tta",
+          "url": "https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d"
         }
       ],
-      "duration_ms": 136814,
-      "name": "Jag \u00e4r taggad",
-      "url": "https://open.spotify.com/track/7F05vRdjrBljwevx0lwvZM"
+      "duration_ms": 192282,
+      "name": "Viddas Himmelbla\u030a",
+      "url": "https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq"
     },
     {
       "added_at": "2023-04-20 22:00:00",

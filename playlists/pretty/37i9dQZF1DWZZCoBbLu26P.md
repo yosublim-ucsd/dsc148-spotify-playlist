@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > Queens everywhere \- givin' us life\. Cover: Bimini
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,173 likes - 92 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,207 likes - 92 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 60 | [AAA](https://open.spotify.com/track/3emMgXnKizZEJfE8HN4WTW) | [The AAA Girls](https://open.spotify.com/artist/0RQTMmeu6M6VQg5zPeWKgw), [Courtney Act](https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq), [Willam](https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [AAA](https://open.spotify.com/album/7Hg59DHj3jPVUWxegY6Inm) | 3:11 |
 | 61 | [Call My Life](https://open.spotify.com/track/6fRRELKMM9JiDnoKXiMCrD) | [Blair St\. Clair](https://open.spotify.com/artist/5l1BwcEGGLpX6Y9668D8sd) | [Call My Life](https://open.spotify.com/album/4mMrsBt6CuQ9DC4uR6XdY7) | 4:06 |
 | 62 | [The Same Parts](https://open.spotify.com/track/67JrMOd94Wbz42ywTR9ZsV) | [Tatianna](https://open.spotify.com/artist/5sNf4pPJimYJ0Qg8nipo5a) | [The Same Parts](https://open.spotify.com/album/2UOu2DuCsNjosWjN0FwZP0) | 3:12 |
-| 63 | [American Apparel Ad Girls](https://open.spotify.com/track/3n25p8hrz8Sx9OzhaDh3yS) | [Courtney](https://open.spotify.com/artist/1VxHyjgyszoJLAlHTZZjwG), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy), [Willam](https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8) | [American Apparel Ad Girls](https://open.spotify.com/album/0ciRK4GWURQN6gk01cj8GM) | 3:48 |
+| 63 | [American Apparel Ad Girls](https://open.spotify.com/track/3n25p8hrz8Sx9OzhaDh3yS) | [COURTNEY](https://open.spotify.com/artist/1VxHyjgyszoJLAlHTZZjwG), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy), [Willam](https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8) | [American Apparel Ad Girls](https://open.spotify.com/album/0ciRK4GWURQN6gk01cj8GM) | 3:48 |
 | 64 | [I Got You](https://open.spotify.com/track/2rSE4Hl1vnWQhRbbUH0bhb) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva), [Billy Cullum](https://open.spotify.com/artist/4io2LV6Cv46tjHIMSDie5k) | [Part 1: The Damage](https://open.spotify.com/album/4NAcKRrc0ueLhK8A0tYqGL) | 2:53 |
 | 65 | [Empty](https://open.spotify.com/track/3F5AWtlYtCmyU1isDrvceJ) | [Blair St\. Clair](https://open.spotify.com/artist/5l1BwcEGGLpX6Y9668D8sd) | [Empty](https://open.spotify.com/album/5lp2ITlU2HpUV7kKmgQtRd) | 3:24 |
 | 66 | [Purse First \(feat\. DJ Mitch Ferrino\)](https://open.spotify.com/track/5IsdA6g8IFKGmC1xl37OG1) | [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj), [DJ Mitch Ferrino](https://open.spotify.com/artist/2nkkdrHs13Onop9WadmkUK) | [Purse First \(feat\. DJ Mitch Ferrino\)](https://open.spotify.com/album/0IzVRHJVmE4ftTJ8z4uyhS) | 3:49 |

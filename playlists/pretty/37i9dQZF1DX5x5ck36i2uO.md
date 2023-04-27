@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,700 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,701 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 42 | [INSTANT \(feat\. SUMIN\)](https://open.spotify.com/track/3EhrOTY5Xlb0OOc8miuZGN) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [INSTANT \(feat\. SUMIN\)](https://open.spotify.com/album/6L6muVWjU1eq1StwzmNkV0) | 2:58 |
 | 43 | [Noble Game \(Feat\. ILLINIT\) \(Prod\. ILLUID HALLER\)](https://open.spotify.com/track/3pLgl8HxGWbypR0yG6KlPS) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [Illinit](https://open.spotify.com/artist/5N9rfcaITVgayz1OzCqu4h) | [Do Not Go Gentle Into That Good Night II](https://open.spotify.com/album/4ZuL1a9a4MYpSl0meoOevD) | 3:27 |
 | 44 | [I Know](https://open.spotify.com/track/1jDHmJvfcfjbOMXRFR98zf) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Shininryu](https://open.spotify.com/album/3QvaB5HzfSEz5yqbNCHtT3) | 3:30 |
-| 45 | [I Get Lifted X Beenzino](https://open.spotify.com/track/0bf460G9gK1oku2Hsla0SB) | [PEEJAY](https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY) | [WALKIN', Vol\. 1](https://open.spotify.com/album/5Jg3IOAdcdFAnSekbum05E) | 4:17 |
-| 46 | [Money Serenade \(Feat\. Wonstein & Kim Seung Min\)](https://open.spotify.com/track/1rZAKzPkA1VfkakGSszBg7) | [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [GOOD GIRL Episode 3](https://open.spotify.com/album/2iY5eEAH23aCB9JGCNZO5k) | 3:40 |
+| 45 | [Money Serenade \(Feat\. Wonstein & Kim Seung Min\)](https://open.spotify.com/track/1rZAKzPkA1VfkakGSszBg7) | [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [GOOD GIRL Episode 3](https://open.spotify.com/album/2iY5eEAH23aCB9JGCNZO5k) | 3:40 |
+| 46 | [I Get Lifted X Beenzino](https://open.spotify.com/track/0bf460G9gK1oku2Hsla0SB) | [PEEJAY](https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY) | [WALKIN', Vol\. 1](https://open.spotify.com/album/5Jg3IOAdcdFAnSekbum05E) | 4:17 |
 | 47 | [Piss On Me](https://open.spotify.com/track/4GJy4M67insCFuAUhluOza) | [2xxx](https://open.spotify.com/artist/4cMtnnGdRvh8KIi2RA7ZeU), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv) | [Life+unconsciousness](https://open.spotify.com/album/0ENIw3VQ7WFRb9oMT5n8wx) | 3:13 |
 | 48 | [GOOD NIGHT](https://open.spotify.com/track/1mVr7cmhQIoLt4u0BR8x57) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [B\-Free](https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T) | [TRAVEL: NOAH](https://open.spotify.com/album/4JgE4ZTDBxLbXt8v1R6UB5) | 3:35 |
 | 49 | [3 GUINEAS](https://open.spotify.com/track/2vxhl2CBUu0m7tQAgOHTsE) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [ZOO](https://open.spotify.com/album/6p5kwLGQ7yLZ7faZ58dJwa) | 3:54 |
 | 50 | [Bad](https://open.spotify.com/track/2T4rkceZUut5d5boEM1iEP) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [HAIFHAIF](https://open.spotify.com/artist/5r1cOycfowIRNcVOfRn0AR) | [Net,Trap,Launcher,Capture](https://open.spotify.com/album/6bjhvZBQx8gsVTIHolZGjn) | 2:27 |
 
-Snapshot ID: `MTY3OTkwNTg5OCwwMDAwMDAwMDYwNjAzNTVlZDUyZmI5NmU2NTEwNDczNThmMGNkNmE3`
+Snapshot ID: `MTY3OTkwNTg5OCwwMDAwMDAwMDM5MTRkZjZkYmM3MTdhMDk5M2JmMzdlZTZlZTBiOTZj`

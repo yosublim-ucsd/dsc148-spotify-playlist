@@ -4,7 +4,7 @@
 
 > The very best acoustic songs from singer\-songwriters making waves\. Cover: Madi Diaz
 
-157 songs - 9 hr 25 min
+158 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Pancakes for Dinner](https://open.spotify.com/track/4HffeEF97c6UxNePgbuECW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 3:55 | 2021-03-02 | 2022-10-13 |
 | [Pegasi](https://open.spotify.com/track/2meI5rJH6LtLQ5cuNdje5g) | [Jesca Hoop](https://open.spotify.com/artist/0fqE57gXXTTqxXlFYVNG2u) | [Memories Are Now](https://open.spotify.com/album/3kDXlfIujTkCsbgmjy0Jwo) | 3:33 | 2021-03-02 |  |
 | [Pegasi](https://open.spotify.com/track/4DSIaN45JesvflRtHwEp2U) | [Jesca Hoop](https://open.spotify.com/artist/0fqE57gXXTTqxXlFYVNG2u) | [Memories Are Now](https://open.spotify.com/album/66Ie2OCJrjpAIvwLzb13TM) | 3:33 | 2021-03-02 | 2022-07-28 |
+| [Phoebe Told Me](https://open.spotify.com/track/6DQFgZEqTX5suz4luBta0M) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [You Never Met Me](https://open.spotify.com/album/4rVsCVbWLQWEUXsOfPRzEg) | 3:56 | 2023-03-08 |  |
 | [Phoebe Told Me](https://open.spotify.com/track/6ZkrNW7ER27c4TtFckZ7xg) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Phoebe Told Me](https://open.spotify.com/album/3uGP2UKICbNUs08mUe55yo) | 3:56 | 2022-03-08 | 2023-03-25 |
 | [Portland](https://open.spotify.com/track/1eDkdK7CVn0NRAvKM6xBiY) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Old Country](https://open.spotify.com/album/39SFOAucYDD4aYKJ6Ymza9) | 3:48 | 2021-03-02 |  |
 | [Putting on Airs](https://open.spotify.com/track/08HL66o1xVAxrQkdUkMb7D) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Putting on Airs](https://open.spotify.com/album/0OFJxQS46LWCYJtE2MhFMl) | 4:40 | 2021-03-02 | 2022-07-29 |
@@ -140,7 +141,7 @@
 | [Surrender](https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Surrender](https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5) | 3:54 | 2021-03-02 |  |
 | [Terrified](https://open.spotify.com/track/101u4M8kj2rvhhUaSTprHv) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Terrified](https://open.spotify.com/album/4ldMBjS223cjhaCYxwtgO2) | 2:25 | 2022-03-08 | 2022-10-01 |
 | [that'd be alright](https://open.spotify.com/track/058OqhzpJJMM3q90Skvg2r) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Wanted You to Know](https://open.spotify.com/album/5MPkrXngz7F6LzCxNsmAZ4) | 2:57 | 2021-03-02 | 2022-08-06 |
-| [that'd be alright](https://open.spotify.com/track/0XQhs9ovprk2yw0QkDjevN) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Wanted You to Know](https://open.spotify.com/album/6uXhW6yZWHxBMeLlYTEpa6) | 2:58 | 2023-02-03 |  |
+| [that'd be alright](https://open.spotify.com/track/0XQhs9ovprk2yw0QkDjevN) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Wanted You to Know](https://open.spotify.com/album/6uXhW6yZWHxBMeLlYTEpa6) | 2:58 | 2023-02-03 | 2023-04-27 |
 | [The Hardest Part](https://open.spotify.com/track/31CqZPvgv8VwjQK2jcLSEn) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj), [Hadley Kennary](https://open.spotify.com/artist/2Iskp0KzBnBOBDKrQbHo6f) | [The Hardest Part](https://open.spotify.com/album/3dlzxTH49iYilF7cLV1LK3) | 4:20 | 2021-03-02 |  |
 | [The Hardest Part](https://open.spotify.com/track/4Gcikn8y1cLRXki0xguC5G) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj), [Hadley Kennary](https://open.spotify.com/artist/2Iskp0KzBnBOBDKrQbHo6f) | [The Hardest Part](https://open.spotify.com/album/3lLhc2xpQ3LsBMYVozns7L) | 4:20 | 2021-03-02 | 2022-07-29 |
 | [The Trouble with Wanting](https://open.spotify.com/track/0a1Jael2mnrkLTyPetixjh) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Canary / The Trouble with Wanting](https://open.spotify.com/album/20bxQ8Jv6hHhc53KFApRuL) | 3:55 | 2021-03-02 | 2022-07-29 |

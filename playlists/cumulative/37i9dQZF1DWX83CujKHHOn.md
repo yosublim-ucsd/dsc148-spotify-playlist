@@ -4,7 +4,7 @@
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-341 songs - 21 hr 13 min
+342 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Cry](https://open.spotify.com/track/0Qr61NXlyAeQaADO5xn3rI) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:16 | 2022-08-19 |  |
 | [Cry Me a River](https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:48 | 2022-08-05 | 2022-09-24 |
 | [Crying in the Rain](https://open.spotify.com/track/134G2m5YsPiZXFOduHEfSJ) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Crying in the Rain](https://open.spotify.com/album/55biwjrtDGdlAjomhA3O4U) | 2:35 | 2022-03-04 | 2023-03-28 |
+| [Crying My Eyes Out](https://open.spotify.com/track/1FXS09ZtlsCHvDBWWuqsnp) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Crying My Eyes Out](https://open.spotify.com/album/0sldlbNtOFnq3BkSyfTpt2) | 2:55 | 2023-04-21 |  |
 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 | 2022-02-02 |  |
 | [Darling](https://open.spotify.com/track/55Fs8h2Ui6YQZEFNaM7MdC) | [Rothwell](https://open.spotify.com/artist/5uPbfbVvS1knjpH37U1Mgr) | [Darling](https://open.spotify.com/album/3aknQm0iQILXnKPYSwCBlX) | 3:47 | 2021-12-06 | 2022-12-17 |
 | [Dear No One](https://open.spotify.com/track/2wWboDFZJPWXVNlHUbdSVQ) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Foreword](https://open.spotify.com/album/44D28vK3JSIQ7oQNAfoeBD) | 3:17 | 2021-12-06 |  |
@@ -82,7 +83,7 @@
 | [favorite crime](https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:32 | 2022-01-05 |  |
 | [Favourite Ex](https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Favourite Ex](https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz) | 3:21 | 2021-12-06 |  |
 | [Feel Like Home](https://open.spotify.com/track/4cPsK6f8ErDfqVNwJkSiKq) | [Emmanuel Franco](https://open.spotify.com/artist/0CCkqy7dxiaL42wQcbhpeH) | [Feel Like Home](https://open.spotify.com/album/38IzST20LmkRtzFfKaPRQx) | 3:19 | 2021-12-06 | 2022-07-29 |
-| [feelings fade](https://open.spotify.com/track/4jnO4ztskhv3YkqgFnewtD) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [RKCB](https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc) | [me](https://open.spotify.com/album/65OO1Lvu27sSpND6QycjcW) | 4:00 | 2021-12-06 |  |
+| [feelings fade](https://open.spotify.com/track/4jnO4ztskhv3YkqgFnewtD) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [RKCB](https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc) | [me](https://open.spotify.com/album/65OO1Lvu27sSpND6QycjcW) | 4:00 | 2021-12-06 | 2023-04-27 |
 | [Flightless Bird, American Mouth](https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [The Shepherd's Dog](https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX) | 4:01 | 2022-07-08 |  |
 | [Flightless Bird, American Mouth](https://open.spotify.com/track/6iWwfN1euztxZi1OK38HbU) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [The Shepherd's Dog](https://open.spotify.com/album/6r3zqNcZez592ryTIWUWce) | 4:02 | 2022-01-05 | 2022-04-21 |
 | [For Now](https://open.spotify.com/track/5wV2TAUTKHcKgaEB6XnWDI) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [For Now](https://open.spotify.com/album/6OvECyR3eoMORZcXc2sptA) | 3:31 | 2021-12-06 | 2022-11-13 |

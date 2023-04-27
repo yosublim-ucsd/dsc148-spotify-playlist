@@ -3213,6 +3213,24 @@
     },
     {
       "album": {
+        "name": "As Time Will Tell",
+        "url": "https://open.spotify.com/album/1EobeAcIPLf9DCjVEaD2yH"
+      },
+      "artists": [
+        {
+          "name": "Comet Blue",
+          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154625,
+      "name": "Only If You Stay",
+      "url": "https://open.spotify.com/track/3wm0sy150JqW6pKNzSJZjV"
+    },
+    {
+      "album": {
         "name": "In Our House",
         "url": "https://open.spotify.com/album/0BaNsKWBEfM8KhgdeTTCd5"
       },
@@ -3224,7 +3242,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 154625,
       "name": "Only If You Stay",
       "url": "https://open.spotify.com/track/4EO6THQkcjTwCY59pQ6ZsN"

@@ -1,12 +1,12 @@
 {
   "description": "La m\u00fasica que prende la fiesta!",
-  "num_followers": 560919,
+  "num_followers": 561294,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjM1OTIyMiwwMDAwMDAwMDI4ZmQwZGUwNjZiZDVhNjVkMDAzZDU3ZDFlZWUxNGZl",
+  "snapshot_id": "MTY4MjM1OTIyMiwwMDAwMDAwMDZhMmFlYjBjMGViMzY5MjA4YzRmNTUxNDNkNmUyMTcw",
   "tracks": [
     {
       "added_at": "2023-04-24 18:00:21",
@@ -503,26 +503,6 @@
     {
       "added_at": "2023-04-24 18:00:21",
       "album": {
-        "name": "Desesperados",
-        "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 224996,
-      "name": "Desesperados",
-      "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
-    },
-    {
-      "added_at": "2023-04-24 18:00:21",
-      "album": {
         "name": "Volv\u00ed",
         "url": "https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 230125,
       "name": "Volv\u00ed",
       "url": "https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi"
+    },
+    {
+      "added_at": "2023-04-24 18:00:21",
+      "album": {
+        "name": "Desesperados",
+        "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 224996,
+      "name": "Desesperados",
+      "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
     },
     {
       "added_at": "2023-04-24 18:00:21",
@@ -631,22 +631,22 @@
     {
       "added_at": "2023-04-24 18:00:21",
       "album": {
-        "name": "El Efecto",
-        "url": "https://open.spotify.com/album/6C8ObcezFoorqPgY2J320r"
+        "name": "God's Project",
+        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         },
         {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
         }
       ],
-      "duration_ms": 217142,
-      "name": "El Efecto",
-      "url": "https://open.spotify.com/track/4SJHHpKhcuXwDsCsPqshXj"
+      "duration_ms": 267786,
+      "name": "Ella Y Yo - Featuring Don Omar",
+      "url": "https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3"
     },
     {
       "added_at": "2023-04-24 18:00:21",
@@ -723,22 +723,22 @@
     {
       "added_at": "2023-04-24 18:00:21",
       "album": {
-        "name": "God's Project",
-        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
+        "name": "El Efecto",
+        "url": "https://open.spotify.com/album/6C8ObcezFoorqPgY2J320r"
       },
       "artists": [
         {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 267786,
-      "name": "Ella Y Yo - Featuring Don Omar",
-      "url": "https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3"
+      "duration_ms": 217142,
+      "name": "El Efecto",
+      "url": "https://open.spotify.com/track/4SJHHpKhcuXwDsCsPqshXj"
     },
     {
       "added_at": "2023-04-24 18:00:21",
@@ -923,30 +923,6 @@
     {
       "added_at": "2023-04-24 18:00:21",
       "album": {
-        "name": "Butakera",
-        "url": "https://open.spotify.com/album/0LmZsaUKBzNRmVt9vC4Rv3"
-      },
-      "artists": [
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "EL NOBA",
-          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
-        }
-      ],
-      "duration_ms": 143402,
-      "name": "Butakera",
-      "url": "https://open.spotify.com/track/60DHrnRAhNJMy4WeEf23NH"
-    },
-    {
-      "added_at": "2023-04-24 18:00:21",
-      "album": {
         "name": "Reggaeton Rulers: Los Que Ponen",
         "url": "https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da"
       },
@@ -975,6 +951,30 @@
       "duration_ms": 167674,
       "name": "La Triple T",
       "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
+    },
+    {
+      "added_at": "2023-04-24 18:00:21",
+      "album": {
+        "name": "Butakera",
+        "url": "https://open.spotify.com/album/0LmZsaUKBzNRmVt9vC4Rv3"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+        }
+      ],
+      "duration_ms": 143402,
+      "name": "Butakera",
+      "url": "https://open.spotify.com/track/60DHrnRAhNJMy4WeEf23NH"
     },
     {
       "added_at": "2023-04-24 18:00:21",
@@ -1295,6 +1295,30 @@
     {
       "added_at": "2023-04-24 18:00:21",
       "album": {
+        "name": "La F\u00f3rmula",
+        "url": "https://open.spotify.com/album/76iE2t7UDAZLNkqHFuvWtQ"
+      },
+      "artists": [
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        },
+        {
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
+        },
+        {
+          "name": "Ken-Y",
+          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
+        }
+      ],
+      "duration_ms": 240733,
+      "name": "More",
+      "url": "https://open.spotify.com/track/0AAl3LtvIhEilWXZmYHeh5"
+    },
+    {
+      "added_at": "2023-04-24 18:00:21",
+      "album": {
         "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) [Remix]",
         "url": "https://open.spotify.com/album/4Pg9HfkoILc1bvEUSUfv1J"
       },
@@ -1319,30 +1343,6 @@
       "duration_ms": 229426,
       "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) - Remix",
       "url": "https://open.spotify.com/track/4IkSOwB9JRhq7oScl4pCW9"
-    },
-    {
-      "added_at": "2023-04-24 18:00:21",
-      "album": {
-        "name": "La F\u00f3rmula",
-        "url": "https://open.spotify.com/album/76iE2t7UDAZLNkqHFuvWtQ"
-      },
-      "artists": [
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        },
-        {
-          "name": "Jory Boy",
-          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
-        },
-        {
-          "name": "Ken-Y",
-          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
-        }
-      ],
-      "duration_ms": 240733,
-      "name": "More",
-      "url": "https://open.spotify.com/track/0AAl3LtvIhEilWXZmYHeh5"
     },
     {
       "added_at": "2023-04-24 18:00:21",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-04-24 18:00:21",
       "album": {
-        "name": "Sesi\u00f3n - 6",
-        "url": "https://open.spotify.com/album/3qa4N8Y6qDAuBGUJHtCgei"
-      },
-      "artists": [
-        {
-          "name": "Axel Caram",
-          "url": "https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP"
-        }
-      ],
-      "duration_ms": 150315,
-      "name": "Sesi\u00f3n - 6",
-      "url": "https://open.spotify.com/track/5sMcmy7UVizJoSm9YNZFyZ"
-    },
-    {
-      "added_at": "2023-04-24 18:00:21",
-      "album": {
         "name": "La Mam\u00e1 de la Mam\u00e1",
         "url": "https://open.spotify.com/album/2WG76KEpCWL8c790ZIEXk7"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 219000,
       "name": "La Mam\u00e1 de la Mam\u00e1",
       "url": "https://open.spotify.com/track/2L95U6syP0bV3fkYYOzmiW"
+    },
+    {
+      "added_at": "2023-04-24 18:00:21",
+      "album": {
+        "name": "Sesi\u00f3n - 6",
+        "url": "https://open.spotify.com/album/3qa4N8Y6qDAuBGUJHtCgei"
+      },
+      "artists": [
+        {
+          "name": "Axel Caram",
+          "url": "https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP"
+        }
+      ],
+      "duration_ms": 150315,
+      "name": "Sesi\u00f3n - 6",
+      "url": "https://open.spotify.com/track/5sMcmy7UVizJoSm9YNZFyZ"
     },
     {
       "added_at": "2023-04-24 18:00:21",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2023-04-24 18:00:21",
       "album": {
+        "name": "The Perfect Melody",
+        "url": "https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v"
+      },
+      "artists": [
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "duration_ms": 304091,
+      "name": "Zun Da Da",
+      "url": "https://open.spotify.com/track/6DxS2ZRl8G3EagHkovYXA2"
+    },
+    {
+      "added_at": "2023-04-24 18:00:21",
+      "album": {
         "name": "Peipper | DJ TAO Turreo Sessions #15",
         "url": "https://open.spotify.com/album/5gQXupkao8XDSevgJCCZhc"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 133607,
       "name": "Peipper | DJ TAO Turreo Sessions #15",
       "url": "https://open.spotify.com/track/52tKOYrwES8h7CIv7KjJd8"
-    },
-    {
-      "added_at": "2023-04-24 18:00:21",
-      "album": {
-        "name": "The Perfect Melody",
-        "url": "https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v"
-      },
-      "artists": [
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        }
-      ],
-      "duration_ms": 304091,
-      "name": "Zun Da Da",
-      "url": "https://open.spotify.com/track/6DxS2ZRl8G3EagHkovYXA2"
     },
     {
       "added_at": "2023-04-24 18:00:21",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2023-04-24 18:00:21",
       "album": {
-        "name": "El Mismo Aire",
-        "url": "https://open.spotify.com/album/6LXcy5pa27VqUaqLmM6AH6"
+        "name": "Temporada de Reggaet\u00f3n",
+        "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
       },
       "artists": [
         {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         }
       ],
-      "duration_ms": 209414,
-      "name": "El Mismo Aire",
-      "url": "https://open.spotify.com/track/7onMf0QvWgRba2MRxG27yj"
+      "duration_ms": 146815,
+      "name": "TOP 5",
+      "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
     },
     {
       "added_at": "2023-04-24 18:00:21",
@@ -1859,22 +1859,6 @@
       "duration_ms": 161485,
       "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
       "url": "https://open.spotify.com/track/4axxCbc4tWlpqHP5UbJMc3"
-    },
-    {
-      "added_at": "2023-04-24 18:00:21",
-      "album": {
-        "name": "Temporada de Reggaet\u00f3n",
-        "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 146815,
-      "name": "TOP 5",
-      "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
     },
     {
       "added_at": "2023-04-24 18:00:21",
@@ -1911,6 +1895,22 @@
       "duration_ms": 377580,
       "name": "M\u00edrame - Remix",
       "url": "https://open.spotify.com/track/53uKGbcMjEc2gIWbfmvpdS"
+    },
+    {
+      "added_at": "2023-04-24 18:00:21",
+      "album": {
+        "name": "El Mismo Aire",
+        "url": "https://open.spotify.com/album/6LXcy5pa27VqUaqLmM6AH6"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 209414,
+      "name": "El Mismo Aire",
+      "url": "https://open.spotify.com/track/7onMf0QvWgRba2MRxG27yj"
     },
     {
       "added_at": "2023-04-24 18:00:21",
@@ -1983,7 +1983,7 @@
     {
       "added_at": "2023-04-24 18:00:21",
       "album": {
-        "name": "PEPPER | Mission 11",
+        "name": "Peipper | Mission 11",
         "url": "https://open.spotify.com/album/5OIK0OmBzjnYVS0geBsSRM"
       },
       "artists": [
@@ -1999,6 +1999,26 @@
       "duration_ms": 138000,
       "name": "Peipper | Mission 11",
       "url": "https://open.spotify.com/track/3RHh5CYBVN1XP0MS3cg1Bz"
+    },
+    {
+      "added_at": "2023-04-24 18:00:21",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Flow La Movie",
+          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
+        }
+      ],
+      "duration_ms": 182496,
+      "name": "AM",
+      "url": "https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv"
     },
     {
       "added_at": "2023-04-24 18:00:21",
@@ -2059,26 +2079,6 @@
     {
       "added_at": "2023-04-24 18:00:21",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Flow La Movie",
-          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
-        }
-      ],
-      "duration_ms": 182496,
-      "name": "AM",
-      "url": "https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv"
-    },
-    {
-      "added_at": "2023-04-24 18:00:21",
-      "album": {
         "name": "La \u00daltima Promesa",
         "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
       },
@@ -2111,26 +2111,6 @@
     {
       "added_at": "2023-04-24 18:00:21",
       "album": {
-        "name": "L-Gante: RKT SESSIONS #1",
-        "url": "https://open.spotify.com/album/530tno9W2FoIzPffRMOyGG"
-      },
-      "artists": [
-        {
-          "name": "Papu DJ",
-          "url": "https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 181928,
-      "name": "L-Gante: RKT SESSIONS #1",
-      "url": "https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi"
-    },
-    {
-      "added_at": "2023-04-24 18:00:21",
-      "album": {
         "name": "Poblado",
         "url": "https://open.spotify.com/album/7ijhdFeH6XcWG3DRC82uOR"
       },
@@ -2151,6 +2131,26 @@
       "duration_ms": 201596,
       "name": "Poblado",
       "url": "https://open.spotify.com/track/47gSYfwFBbV1BXHfXEq1qs"
+    },
+    {
+      "added_at": "2023-04-24 18:00:21",
+      "album": {
+        "name": "L-Gante: RKT SESSIONS #1",
+        "url": "https://open.spotify.com/album/530tno9W2FoIzPffRMOyGG"
+      },
+      "artists": [
+        {
+          "name": "Papu DJ",
+          "url": "https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 181928,
+      "name": "L-Gante: RKT SESSIONS #1",
+      "url": "https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi"
     }
   ],
   "unique_name": "Joda",

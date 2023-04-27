@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 
 > The official G2 Esports playlist\. Currently curated by: G2 Rocket League.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,190 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,342 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 | 27 | [Running With A Ghost](https://open.spotify.com/track/1aIKdWC2AwJV3AtBLDzm4M) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Grace](https://open.spotify.com/artist/7yQjrGrrDaA7vXTZTMFMoR) | [Teenage Emotions](https://open.spotify.com/album/6upTR3RFKR7K20OnHRXDkL) | 3:51 |
 | 28 | [Mr\. Rager](https://open.spotify.com/track/393MDhe62s8hbH8ETrlxe5) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon II: The Legend Of Mr\. Rager](https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud) | 4:54 |
 | 29 | [Where Is The Love?](https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 4:32 |
-| 30 | [The Spins](https://open.spotify.com/track/7BcOUi4FQ3wBLmNTW0yfCR) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg) | 3:15 |
+| 30 | [The Spins](https://open.spotify.com/track/7FAFkQQZFeNwOFzTrSDFIh) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S\. \(Deluxe\)](https://open.spotify.com/album/6TFm9KGW7Lbxrl2Zsg4X9R) | 3:15 |
 | 31 | [Champion](https://open.spotify.com/track/4UQMOPSUVJVicIQzjAcRRZ) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 2:47 |
 | 32 | [Mr\. Blue Sky](https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Out of the Blue](https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU) | 5:03 |
 | 33 | [Crooked Smile \(feat\. TLC\)](https://open.spotify.com/track/5gFoAVTN9YlM9uJCrFZtgl) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Born Sinner \(Deluxe Version\)](https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623) | 4:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 | 49 | [679 \(feat\. Remy Boyz\)](https://open.spotify.com/track/5NQbUaeTEOGdD6hHcre0dZ) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Remy Boyz](https://open.spotify.com/artist/2s0yxtiHiyGe6CY4mbDYFi) | [679 \(feat\. Remy Boyz\)](https://open.spotify.com/album/0TyDTzG2zt2tg0wONT9wSU) | 3:16 |
 | 50 | [カオスが極まる](https://open.spotify.com/track/0lPfqcI3A8gQ9971nXxgq6) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [カオスが極まる](https://open.spotify.com/album/2Ju0DfkzxP0XsR2IthWIEI) | 3:50 |
 
-Snapshot ID: `MTY4MDUzNzQ4OCwwMDAwMDAwMDUyZDZkYzU2MmM5YjQyZjE4MzU1YzExYmQyZThlM2Qx`
+Snapshot ID: `MTY4MDUzNzQ4OCwwMDAwMDAwMGQwOTdlNjczMGY5Y2U0ZDMzNTk0M2U0ODBjYTIzN2Y1`

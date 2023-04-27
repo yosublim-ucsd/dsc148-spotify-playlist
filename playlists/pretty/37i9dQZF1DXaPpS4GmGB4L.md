@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,997 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,064 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,17 +39,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 29 | [Crossroads \- 2008 Remaster](https://open.spotify.com/track/6mGy6bzPJ6hrgPnVJZCEd4) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Crossroads \(Original Sountrack\)](https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE) | 4:24 |
 | 30 | [Rocket 88](https://open.spotify.com/track/4IiEsxrgzIMdqoN3dwxk6g) | [Ike Turner](https://open.spotify.com/artist/0FAxkBiT0g3jKF2AaKEipb) | [Presenting Ike Turner](https://open.spotify.com/album/72uPVZB2T541kI9nT4khgC) | 2:49 |
 | 31 | [Old School](https://open.spotify.com/track/54sI3jSzu7Q3xaiU9o2nI7) | [Guitar Shorty](https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc) | [Watch Your Back](https://open.spotify.com/album/3k5iL04w1N2VQhpwXfgClW) | 3:59 |
-| 32 | [One Way Out \- Mono Version](https://open.spotify.com/track/2itCQlm9s7yW21eZoF4eyH) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [The Real Folk Blues](https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg) | 2:48 |
-| 33 | [Madison Blues](https://open.spotify.com/track/6ZFqJbqlCmFCEKepLo97FX) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:22 |
+| 32 | [Madison Blues](https://open.spotify.com/track/6ZFqJbqlCmFCEKepLo97FX) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:22 |
+| 33 | [One Way Out \- Mono Version](https://open.spotify.com/track/2itCQlm9s7yW21eZoF4eyH) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [The Real Folk Blues](https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg) | 2:48 |
 | 34 | [Wang Dang Doodle](https://open.spotify.com/track/1TrOTKixl3cYx8FICICXzK) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:27 |
-| 35 | [Don't Start Crying Now](https://open.spotify.com/track/3Q7RuFIaAf7iJ2sd5R0NXQ) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [Sings Raining In My Heart](https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg) | 2:12 |
-| 36 | [Roadhouse Blues](https://open.spotify.com/track/1dLquP9t2o2O9gUeK6JWVy) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Mickey Raphael](https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B) | [Traveler's Blues](https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3) | 4:25 |
+| 35 | [Roadhouse Blues](https://open.spotify.com/track/1dLquP9t2o2O9gUeK6JWVy) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Mickey Raphael](https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B) | [Traveler's Blues](https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3) | 4:25 |
+| 36 | [Don't Start Crying Now](https://open.spotify.com/track/3Q7RuFIaAf7iJ2sd5R0NXQ) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [Sings Raining In My Heart](https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg) | 2:12 |
 | 37 | [You're Gonna Be Sorry](https://open.spotify.com/track/4FZgwsFaXm8Xsr7SqRM1Ov) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [Bob Corritore & Friends: Women In Blues Showcase](https://open.spotify.com/album/2I4QimPw04GHkkxKzPAQis) | 2:46 |
 | 38 | [All Your Love](https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [1956\-1958 Cobra Recordings](https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7) | 2:38 |
 | 39 | [The Blues Had a Baby and They Named It Rock and Roll](https://open.spotify.com/track/0uqCSaw89DrglZ8LTgMfvM) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:34 |
 | 40 | [Don't You Just Know It](https://open.spotify.com/track/1Ufhe0CbCnDLC7LvycY4t4) | [Huey "Piano" Smith](https://open.spotify.com/artist/06VZekh3wTqjHJbGCNBBLu) | [This Is..\. Huey 'Piano' Smith](https://open.spotify.com/album/2O3iFb9B97JGcQt1IxvEfD) | 2:34 |
-| 41 | [Done Somebody Wrong \- Live At The Fillmore East, March 1971](https://open.spotify.com/track/0WDsLvL9DKjj3qjed4IBa0) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [At Fillmore East](https://open.spotify.com/album/0Y5Wlv2OJKaW0uDJ5HnUfy) | 4:35 |
-| 42 | [That's What You Do](https://open.spotify.com/track/4SHIHwvtqgRO25NQ5eOChk) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [662](https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ) | 3:23 |
+| 41 | [That's What You Do](https://open.spotify.com/track/4SHIHwvtqgRO25NQ5eOChk) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [662](https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ) | 3:23 |
+| 42 | [Done Somebody Wrong \- Live At The Fillmore East, March 1971](https://open.spotify.com/track/0WDsLvL9DKjj3qjed4IBa0) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [At Fillmore East](https://open.spotify.com/album/0Y5Wlv2OJKaW0uDJ5HnUfy) | 4:35 |
 | 43 | [Stop Messin' Round](https://open.spotify.com/track/1sHmkDWe8U8SDqMZKfgTLO) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [The Blues Album](https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS) | 3:37 |
 | 44 | [Ain't No Fun \(When The Rabbit Got The Gun\)](https://open.spotify.com/track/4KhsLpDlV1TeeIbwBTTrc3) | [The Cash Box Kings](https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c) | [Hail To The Kings!](https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA) | 3:07 |
 | 45 | [Sharecropper’s Son](https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 49 | [West Texas](https://open.spotify.com/track/4gJ7mV2k4wjSYyFhVcJYx8) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp) | [Adobe](https://open.spotify.com/album/1jLZjlWU2HJ7S9SeydSvPZ) | 2:26 |
 | 50 | [Shufflin' the Blues](https://open.spotify.com/track/5I9dM2pwqMAQm266lUII5P) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:21 |
 
-Snapshot ID: `MTY4MTQzMDQ2MCwwMDAwMDAwMDVkODk5NmJiODgyNWI0ZWQzYTI0MzJlM2ZhMjI3ZTg4`
+Snapshot ID: `MTY4MTQzMDQ2MCwwMDAwMDAwMGU1NGMzNDUzZjg4ZTI1NzcwNjY4OGJhNzJjYWI5MTcz`

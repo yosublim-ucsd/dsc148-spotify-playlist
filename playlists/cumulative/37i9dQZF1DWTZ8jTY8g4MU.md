@@ -2,9 +2,9 @@
 
 ### [ شيلات](https://open.spotify.com/playlist/37i9dQZF1DWTZ8jTY8g4MU)
 
-> أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: محمد بن غرمان
+> أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: فهد بن فصلا و غريب المخلص
 
-145 songs - 9 hr 32 min
+146 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Koon Insan](https://open.spotify.com/track/2hLkOauE0bNHoIDwJ45dFj) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Koon Insan](https://open.spotify.com/album/7E3LtuiAJK99BU9RPPPmUl) | 3:00 | 2023-02-22 |  |
 | [Koul Shya Weleh Nehayah](https://open.spotify.com/track/3V5UpDdPUZdGKSgaaDFKpr) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Koul Shya Weleh Nehayah](https://open.spotify.com/album/6YpmIaqZ9iD4gVVenm6oAE) | 3:49 | 2022-03-30 | 2023-02-23 |
 | [La tadeay Belmahabeh](https://open.spotify.com/track/6LTjugDnOwFFlLy8mfCWJN) | [Zayed Bin Saber](https://open.spotify.com/artist/0TNuRg9zAJbDy4chgGD4Cs) | [La tadeay Belmahabeh](https://open.spotify.com/album/3KABKr2xB3xOR6UlTtip5L) | 3:04 | 2023-02-22 |  |
+| [Marhaba Bek](https://open.spotify.com/track/3dHSmw4UKtQkXDb7EQS19Y) | [Fahd Bn Fasla](https://open.spotify.com/artist/7KcsMljHCItOCLGI8BDGZ4), [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [Marhaba Bek](https://open.spotify.com/album/6vBMUU5OMyieheEZofvPB7) | 4:01 | 2023-04-26 |  |
 | [Msahat Alahlam](https://open.spotify.com/track/0CpKjyK98dwLyDuZX68BxD) | [Saleh Alyami](https://open.spotify.com/artist/0EHQN1RzPBV4c1iPv8m5ln) | [Msahat Alahlam](https://open.spotify.com/album/0b3vh1sUThYMn2P21ZLGVQ) | 5:49 | 2023-02-22 | 2023-02-25 |
 | [Sheila Sattar](https://open.spotify.com/track/3WIAH5gwrFhd4tJz0oyEZ9) | [Telfaz11](https://open.spotify.com/artist/5PVYhzRlwWI7OWgPBDDQkh), [Hussain Al Labeed](https://open.spotify.com/artist/57RLY6gST8c5vCtPygoHuy), [Abdulaziz Al Shehri](https://open.spotify.com/artist/6XbUXannvTDg5AzUWsal0t) | [Sattar](https://open.spotify.com/album/5zTkn4lFoPfW09RREtNxmr) | 1:39 | 2023-02-22 |  |
 | [Taht Almatar](https://open.spotify.com/track/6BrH7iaWBkHlmuKfTulkC1) | [Hussain Al Labeed](https://open.spotify.com/artist/57RLY6gST8c5vCtPygoHuy), [Waleed Al Labeed](https://open.spotify.com/artist/54WeFgRgJGUZIWEYmcyUMf) | [Taht Almatar](https://open.spotify.com/album/4tcggWhIWquh4TLAk1IOnT) | 3:52 | 2023-02-22 |  |
@@ -56,7 +57,7 @@
 | [بتروح عادي](https://open.spotify.com/track/2GxR28DVvyvL5VX6H45Wa0) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [بتروح عادي](https://open.spotify.com/album/4CFE56Ty8V8uTMwaEDQki7) | 3:16 | 2022-03-30 | 2022-11-02 |
 | [بتروح عادي](https://open.spotify.com/track/5EV02yzvrRIECmP67v53Do) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [بتروح عادي](https://open.spotify.com/album/4RPceVZW72FOh9mo7oXLPB) | 3:16 | 2022-08-31 | 2023-04-06 |
 | [تجاهلني](https://open.spotify.com/track/6R6zmKXsboLCYQ3hMNJlD4) | [Fahed Bin Fasla](https://open.spotify.com/artist/2CfEAlvAtAJ7MvCQl4mptz), [عمار الكوفي](https://open.spotify.com/artist/1YN0hBRFU0rGPgvr0aMmHs) | [تجاهلني](https://open.spotify.com/album/5xjGNzBxIQXVliqj7TKoG6) | 2:58 | 2022-08-31 | 2022-11-02 |
-| [تجاهلني](https://open.spotify.com/track/6KGGBeH3rOopzg40XZ6Ser) | [فهد بن فصلا \| عمار الكوفي](https://open.spotify.com/artist/3kOlunmQrCQNixsuyALR7q) | [تجاهلني](https://open.spotify.com/album/3JD3t04qrQnYYq7mwoSS1F) | 2:58 | 2022-08-31 |  |
+| [تجاهلني](https://open.spotify.com/track/6KGGBeH3rOopzg40XZ6Ser) | [فهد بن فصلا \| عمار الكوفي](https://open.spotify.com/artist/3kOlunmQrCQNixsuyALR7q) | [تجاهلني](https://open.spotify.com/album/3JD3t04qrQnYYq7mwoSS1F) | 2:58 | 2022-08-31 | 2023-04-27 |
 | [ترجيتك تروف](https://open.spotify.com/track/0l2FJkdpDbobPPDbDaBNR5) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [ترجيتك تروف](https://open.spotify.com/album/6Q6KwCFvr6vpAx7a0Ba1gU) | 3:40 | 2022-08-31 | 2023-02-23 |
 | [ترجيتك تروف](https://open.spotify.com/track/6v0nHHP6PPVArTsdLTNoJ1) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep), [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [ترجيتك تروف](https://open.spotify.com/album/3hCDD9Yr5ryKJNAsQQJmEU) | 3:40 | 2022-03-30 | 2022-11-02 |
 | [تعبت أشتاق](https://open.spotify.com/track/4wQuMb5pAAfhBuY1VdM0rs) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [تعبت أشتاق](https://open.spotify.com/album/2IKZvIu9Y9nlSuUd90qI7a) | 3:34 | 2022-03-30 | 2022-06-14 |

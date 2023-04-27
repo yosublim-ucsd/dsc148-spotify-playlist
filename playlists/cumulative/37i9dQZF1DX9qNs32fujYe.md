@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Ghost
 
-716 songs - 2 day 5 hr 19 min
+717 songs - 2 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,8 @@
 | [For No Reason](https://open.spotify.com/track/03vyanFcfUmZAwsZC5Ni1S) | [Metal Church](https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP) | [For No Reason](https://open.spotify.com/album/6a2JPdIQjb9egT8EI492OO) | 4:44 | 2021-12-17 | 2022-07-13 |
 | [Force Majeure](https://open.spotify.com/track/4w6GKkwtaw8x5MQ3l3cPPn) | [Gus G.](https://open.spotify.com/artist/6LEttL8kbm67tcEy84Qh5O), [Vinnie Moore](https://open.spotify.com/artist/2plmfvGgldxCpZF0vLt3o4) | [Force Majeure](https://open.spotify.com/album/5eTz3POhcf7hVr2kh47dP0) | 3:59 | 2021-12-17 | 2022-07-23 |
 | [Foregone Pt\. 1](https://open.spotify.com/track/4GAE2sALmyF5ZvrxOEvloU) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone, Pt\. 1](https://open.spotify.com/album/2EPDIXOWMkXpT5jTIi02SR) | 3:24 | 2022-10-21 | 2023-02-15 |
-| [Foregone, Pt\. 2](https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone, Pt\. 2](https://open.spotify.com/album/6xQGhi9dsEWYn8Jwj4MD9S) | 4:30 | 2022-12-13 |  |
+| [Foregone, Pt\. 2](https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone, Pt\. 2](https://open.spotify.com/album/6xQGhi9dsEWYn8Jwj4MD9S) | 4:30 | 2022-12-13 | 2023-04-27 |
+| [Foregone, Pt\. 2](https://open.spotify.com/track/6kk4G7WCvFrYuiotuDnH2N) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone](https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3) | 4:30 | 2023-04-21 |  |
 | [Forever Lost](https://open.spotify.com/track/2sJeFaKMzEMmwiBbL8x0H6) | [Silver Bullet](https://open.spotify.com/artist/0ppFsYRZGoGYxL12PSjS2q) | [Mooncult](https://open.spotify.com/album/6mv1NleoKi67NUgHU4Q9b8) | 4:45 | 2021-12-17 | 2022-07-25 |
 | [Forged in Metal](https://open.spotify.com/track/1IMU0K1z2oFPfPQzlxSx4X) | [Manimal](https://open.spotify.com/artist/7goOwP4vH811Qt4yjmGMPM) | [Forged in Metal](https://open.spotify.com/album/6k1HronIE7vIrxWoLccq93) | 3:43 | 2021-12-17 | 2022-07-29 |
 | [Freak On a Leash](https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 4:15 | 2022-08-19 |  |

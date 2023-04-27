@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjE4ODc3MiwwMDAwMDAwMGU4YmFjZjhmNzQ3NzI4ZTk4OGE5YmU1MjQ2YjlkM2Uz",
+  "snapshot_id": "MTY1MjE4ODc3MiwwMDAwMDAwMDk1NjFhNDIzNDk1OWZiMzY4ZWQ3M2M0ZGQ2OWQwYThj",
   "tracks": [
     {
       "added_at": "2022-05-10 00:15:15",
@@ -591,26 +591,6 @@
     {
       "added_at": "2022-05-10 00:15:15",
       "album": {
-        "name": "Good Things",
-        "url": "https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 167693,
-      "name": "10,000 Hours (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/4j5ffIFh7bFT7GZciP1TCy"
-    },
-    {
-      "added_at": "2022-05-10 00:15:15",
-      "album": {
         "name": "Shiesty Season",
         "url": "https://open.spotify.com/album/2UwJ4Nt10VStLczYefhcEV"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 184489,
       "name": "Back in Blood (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/7FGdjbZ32vMybPuP0IuE7d"
+    },
+    {
+      "added_at": "2022-05-10 00:15:15",
+      "album": {
+        "name": "Good Things",
+        "url": "https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 167693,
+      "name": "10,000 Hours (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/4j5ffIFh7bFT7GZciP1TCy"
     },
     {
       "added_at": "2022-05-10 00:15:15",

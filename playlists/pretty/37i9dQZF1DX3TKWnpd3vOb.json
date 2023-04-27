@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMGM5YzVkZGNhMDM3NDQ1YWNiYmIzOWEyMmQ1ZTcyNGU3",
+  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMDRlMjhmZTI2MDY1MmIxOWNhZGNmYmIyNWFlNDMwOTIy",
   "tracks": [
     {
       "added_at": "2023-04-14 03:00:00",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Privado",
+        "url": "https://open.spotify.com/album/4AjiNqomtPDlz0WGYwgxPG"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 en Saturno",
+          "url": "https://open.spotify.com/artist/4jZ4GYY6tv0zdZGDOMc23T"
+        }
+      ],
+      "duration_ms": 281037,
+      "name": "Privado",
+      "url": "https://open.spotify.com/track/0xnVxyivmqxo72jx0ffkVx"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/2azUl3rf0aMEQNzvGTeF98"
       },
@@ -379,26 +395,6 @@
       "duration_ms": 255000,
       "name": "Nuestro Amor",
       "url": "https://open.spotify.com/track/1qV8Z8nwhEwH7Z5J0u1VCU"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Camino a Casa",
-        "url": "https://open.spotify.com/album/2ysiEW1gjjAB0WykQp31lU"
-      },
-      "artists": [
-        {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        },
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        }
-      ],
-      "duration_ms": 173664,
-      "name": "Camino a Casa",
-      "url": "https://open.spotify.com/track/3evQsJptwoHiMgjPEXHgUY"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -419,18 +415,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Privado",
-        "url": "https://open.spotify.com/album/4AjiNqomtPDlz0WGYwgxPG"
+        "name": "Me Vuelves a Herir (En Vivo)",
+        "url": "https://open.spotify.com/album/5XsMRVvQlZURZcjFqSvovq"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 en Saturno",
-          "url": "https://open.spotify.com/artist/4jZ4GYY6tv0zdZGDOMc23T"
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 281037,
-      "name": "Privado",
-      "url": "https://open.spotify.com/track/0xnVxyivmqxo72jx0ffkVx"
+      "duration_ms": 282572,
+      "name": "Me Vuelves a Herir - En Vivo",
+      "url": "https://open.spotify.com/track/7H18lwb683he5Wwec7gfHH"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -451,18 +447,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Me Vuelves a Herir (En Vivo)",
-        "url": "https://open.spotify.com/album/5XsMRVvQlZURZcjFqSvovq"
+        "name": "Camino a Casa",
+        "url": "https://open.spotify.com/album/2ysiEW1gjjAB0WykQp31lU"
       },
       "artists": [
         {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
         }
       ],
-      "duration_ms": 282572,
-      "name": "Me Vuelves a Herir - En Vivo",
-      "url": "https://open.spotify.com/track/7H18lwb683he5Wwec7gfHH"
+      "duration_ms": 173664,
+      "name": "Camino a Casa",
+      "url": "https://open.spotify.com/track/3evQsJptwoHiMgjPEXHgUY"
     },
     {
       "added_at": "2023-04-14 03:00:00",

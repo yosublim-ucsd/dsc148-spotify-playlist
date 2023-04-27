@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,662 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,675 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 | 22 | [All I Have](https://open.spotify.com/track/6GJJ8nmShJUDSIyyjl9yqv) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo) | [All I Have](https://open.spotify.com/album/1i69rOSur7z9iARKyz0tZZ) | 2:48 |
 | 23 | [Drivin’ \(Feat\. Layone, BIG Naughty\)](https://open.spotify.com/track/1x8waytyN4BfxrkuoQsBRT) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Drivin'](https://open.spotify.com/album/1y02gJR3gmhHjBl8zX3yAL) | 2:42 |
 | 24 | [Distance \(Feat\. I.M of MONSTA X\)](https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:11 |
-| 25 | [babyblue](https://open.spotify.com/track/0n4dgPfvfdqrt2LwDytMrD) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [babyblue](https://open.spotify.com/album/76GB3RzVtNrBANCl9Cici4) | 3:48 |
-| 26 | [Take Me \(with 11Kitties\)](https://open.spotify.com/track/00qHTh5I15qb1IToZI6PoZ) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Take Me](https://open.spotify.com/album/4ieiyt4oVsEZGBY430vwaz) | 3:45 |
+| 25 | [Take Me \(with 11Kitties\)](https://open.spotify.com/track/00qHTh5I15qb1IToZI6PoZ) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Take Me](https://open.spotify.com/album/4ieiyt4oVsEZGBY430vwaz) | 3:45 |
+| 26 | [babyblue](https://open.spotify.com/track/0n4dgPfvfdqrt2LwDytMrD) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [babyblue](https://open.spotify.com/album/76GB3RzVtNrBANCl9Cici4) | 3:48 |
 | 27 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 |
 | 28 | [White Snow \(feat\. prettyhappy\)](https://open.spotify.com/track/40Qme85r9hwf0NaHUU6wu6) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [White Snow](https://open.spotify.com/album/30nfsEtFfMujcgxWL2ifEV) | 3:04 |
 | 29 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/04mktU1pvPJmwtO43xeYmJ) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [Yearbook 2022](https://open.spotify.com/album/7wMpdprIWFdFG1z8vhpOb4) | 3:15 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 | 41 | [20MIN](https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 2:56 |
 | 42 | [Alone](https://open.spotify.com/track/0tkR9qJXzuUoI9sKW08ZGM) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [Alone](https://open.spotify.com/album/2L572virNeJpe4X8SAVbQ1) | 3:03 |
 | 43 | [kibun \(feat\. vntermude\)](https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [vntermude](https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA) | [kibun \(feat\. vntermude\)](https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8) | 2:48 |
-| 44 | [Kangaroo](https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Kangaroo](https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv) | 3:45 |
-| 45 | [Je N′aime Que Toi](https://open.spotify.com/track/5ziZpT9la4h3sjfvitLc1A) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [Je N′aime Que Toi](https://open.spotify.com/album/7uVRKea8NWn4gkMSEyQjcX) | 3:16 |
+| 44 | [Je N′aime Que Toi](https://open.spotify.com/track/5ziZpT9la4h3sjfvitLc1A) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [Je N′aime Que Toi](https://open.spotify.com/album/7uVRKea8NWn4gkMSEyQjcX) | 3:16 |
+| 45 | [Kangaroo](https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Kangaroo](https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv) | 3:45 |
 | 46 | [Nemo](https://open.spotify.com/track/2JZiDl32xEwkm7TjMOPUVB) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:55 |
 | 47 | [Love is alone](https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:22 |
-| 48 | [Smile, Wait For The Flash](https://open.spotify.com/track/6G9XpQhn2iQhH8JHKMscBp) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Like A Film : 4 Songs](https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp) | 3:46 |
-| 49 | [Thread\(1.11\)](https://open.spotify.com/track/1SivewZiFgZXl9wfW5eS3H) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [3 STEPS FORWARD, 2 STEPS BACK](https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY) | 4:53 |
-| 50 | [Hold tight](https://open.spotify.com/track/7oCyRPCxIT75x7nmEy3spP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd), [Jaw](https://open.spotify.com/artist/3G71Qx8OKLTUCaPibXyNbn) | [Hold tight](https://open.spotify.com/album/2pjhKRc0AbbPEGZL2DzWpQ) | 2:54 |
+| 48 | [Thread\(1.11\)](https://open.spotify.com/track/1SivewZiFgZXl9wfW5eS3H) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [3 STEPS FORWARD, 2 STEPS BACK](https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY) | 4:53 |
+| 49 | [Smile, Wait For The Flash](https://open.spotify.com/track/6G9XpQhn2iQhH8JHKMscBp) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Like A Film : 4 Songs](https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp) | 3:46 |
+| 50 | [I thought it was love.](https://open.spotify.com/track/37dIoyzhDmVq4Zz1Ps1SgU) | [Sagong](https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy) | [I thought it was love.](https://open.spotify.com/album/6FFH6bITUXYfH1NFnQa4DW) | 4:00 |
 
-Snapshot ID: `MTY3OTkwNTU5NywwMDAwMDAwMDI1MDM4OWVkODBmZjM3ZWQxYzE4NTYxMmRhODcyNDli`
+Snapshot ID: `MTY3OTkwNTU5NywwMDAwMDAwMDE0Y2Y0NDAxMjRmMzQxM2EyODE0NmUwOTM1YzJiMDZi`

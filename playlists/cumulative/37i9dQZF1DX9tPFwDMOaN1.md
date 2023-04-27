@@ -4,7 +4,7 @@
 
 > Let's turn ON the movement! Cover: SEVENTEEN
 
-283 songs - 15 hr 25 min
+284 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Animal Farm](https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Animal Farm](https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt) | 3:23 | 2022-10-07 | 2023-01-21 |
 | [Anti\-Romantic](https://open.spotify.com/track/44tTqUi3xi7E28QLzHVdUA) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:35 | 2021-12-13 | 2022-01-13 |
 | [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 | 2022-10-28 |  |
-| [Ape Freestyle \- Spotify Singles](https://open.spotify.com/track/5yV2rps3tcEwxhuYZRJ38k) | [Keith Ape](https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI), [PEEJAY](https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY) | [Spotify Singles](https://open.spotify.com/album/21hyerYXEXL0rLnagGfTZ0) | 5:30 | 2023-03-31 |  |
+| [Ape Freestyle \- Spotify Singles](https://open.spotify.com/track/5yV2rps3tcEwxhuYZRJ38k) | [Keith Ape](https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI), [PEEJAY](https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY) | [Spotify Singles](https://open.spotify.com/album/21hyerYXEXL0rLnagGfTZ0) | 5:30 | 2023-03-31 | 2023-04-27 |
 | [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 | 2022-07-15 | 2022-10-08 |
 | [As It Was \- Spotify Singles](https://open.spotify.com/track/1lUNlmwyhsJy6kXmmrO11t) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [As It Was \- Spotify Singles](https://open.spotify.com/album/53TYhJdqLF6eU5GbYZezTB) | 2:39 | 2022-09-30 | 2023-02-24 |
 | [At That Moment](https://open.spotify.com/track/0CB3B5ir8I2KbB3dkGVtWF) | [WSG WANNBE \(Gaya\-G\)](https://open.spotify.com/artist/75IVzR4O5AZ0Zd8HWoNWO2) | [WSG WANNABE 1st Album](https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9) | 3:42 | 2022-07-13 | 2022-08-25 |
@@ -225,6 +225,7 @@
 | [Seoul City \- Spotify Singles](https://open.spotify.com/track/2ZXUclexEqoF3MsLK33xsx) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [sAewoo](https://open.spotify.com/artist/5JzGdNWFlf4S7upAVbiX35) | [Spotify Singles](https://open.spotify.com/album/7IDwq3HwkSlakUOBKmTrqK) | 3:34 | 2023-03-02 | 2023-04-22 |
 | [SET ME FREE \(ENG\)](https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 | 2023-03-10 |  |
 | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/track/1XkMxUilV0E3ChDERZJUEq) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU), [bj wnjn](https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d), [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/album/7osIz9TFdxYQAm4fgakanT) | 3:49 | 2022-09-12 | 2022-12-20 |
+| [Shoong! \(feat\. LISA of BLACKPINK\)](https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 3:25 | 2023-04-26 |  |
 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-16 |  |
 | [Slow Mo](https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [B](https://open.spotify.com/album/1J1S8EQgILHHmy64ouQXh7) | 2:32 | 2022-01-26 | 2022-03-04 |
 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 | 2022-01-26 | 2022-05-28 |

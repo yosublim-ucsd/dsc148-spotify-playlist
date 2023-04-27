@@ -1,13 +1,197 @@
 {
   "description": "The best new R&B by independent artists and labels. Cover: Kyle Lux. Updates every Wednesday.",
-  "num_followers": 191648,
+  "num_followers": 191886,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMGNjM2VkYjYzOWZlMTg5MjkyZTA3OTdjMGIxMTRmMjU3",
+  "snapshot_id": "MTY4MjUyNDUyOSwwMDAwMDAwMGY1MGUwMDk2N2ExNWFmYTJlOGY1NThhNTJmYjYwMDEz",
   "tracks": [
+    {
+      "added_at": "2023-04-26 15:55:29",
+      "album": {
+        "name": "ULTRALIGHT",
+        "url": "https://open.spotify.com/album/555u9I3MowqYOghGFSAR7U"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Lex Amor",
+          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "MEDITATE",
+      "url": "https://open.spotify.com/track/3luCfdUPwws6omTEmIUKXX"
+    },
+    {
+      "added_at": "2023-04-26 15:55:29",
+      "album": {
+        "name": "Won't Cry",
+        "url": "https://open.spotify.com/album/4FJ18NpkM684zcTsSWe2wS"
+      },
+      "artists": [
+        {
+          "name": "A\u00e1yanna",
+          "url": "https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P"
+        }
+      ],
+      "duration_ms": 149007,
+      "name": "Won't Cry",
+      "url": "https://open.spotify.com/track/5jjmzCnRglEY9RXYgESA4v"
+    },
+    {
+      "added_at": "2023-04-26 15:55:29",
+      "album": {
+        "name": "black like you",
+        "url": "https://open.spotify.com/album/2PR9Y5Ozd8WaYYI484gukz"
+      },
+      "artists": [
+        {
+          "name": "Joseph Solomon",
+          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
+        }
+      ],
+      "duration_ms": 192964,
+      "name": "black like you",
+      "url": "https://open.spotify.com/track/2idOV3WosDVTO6HKbKEFGl"
+    },
+    {
+      "added_at": "2023-04-26 15:55:29",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/19Kafj3I0EHXP7QXWeYnkO"
+      },
+      "artists": [
+        {
+          "name": "Michael J Woodard",
+          "url": "https://open.spotify.com/artist/0Wmmj33M55gFExQ6pJB53e"
+        }
+      ],
+      "duration_ms": 130988,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/4OeLGihd8NHPmKTZjNIBqB"
+    },
+    {
+      "added_at": "2023-04-26 15:55:29",
+      "album": {
+        "name": "poison (demo)",
+        "url": "https://open.spotify.com/album/4qIShsDt5DHqK9WxMwWx8Q"
+      },
+      "artists": [
+        {
+          "name": "CLAY",
+          "url": "https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL"
+        }
+      ],
+      "duration_ms": 163653,
+      "name": "poison - demo",
+      "url": "https://open.spotify.com/track/76y9rYVLGK4Ob2qaruXmhC"
+    },
+    {
+      "added_at": "2023-04-26 15:55:29",
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/40Ub6JIkiPZ7otpE5cAci7"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Sen",
+          "url": "https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX"
+        }
+      ],
+      "duration_ms": 150391,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/7LRUdoa110f2SGRtLr0pqs"
+    },
+    {
+      "added_at": "2023-04-26 15:55:29",
+      "album": {
+        "name": "See It Through",
+        "url": "https://open.spotify.com/album/3VpaTVUH3iMHLUJlRnQckw"
+      },
+      "artists": [
+        {
+          "name": "Nia Chennai",
+          "url": "https://open.spotify.com/artist/0iHJWiuW0rtMwtlLr0sPtR"
+        }
+      ],
+      "duration_ms": 191707,
+      "name": "See It Through",
+      "url": "https://open.spotify.com/track/6ulc6gwAFUBEhCd5BCF6yh"
+    },
+    {
+      "added_at": "2023-04-26 15:55:29",
+      "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/3xJJJKLaOEt0yxG4WgxV2A"
+      },
+      "artists": [
+        {
+          "name": "Taite Imogen",
+          "url": "https://open.spotify.com/artist/3mkzFWYCYAGqxo02F1trQL"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/3YXt0GUNgOA6bZnhCqWFe3"
+    },
+    {
+      "added_at": "2023-04-26 15:55:29",
+      "album": {
+        "name": "BLIND",
+        "url": "https://open.spotify.com/album/1rxGX5xhi0gcqP2Mq2uL7z"
+      },
+      "artists": [
+        {
+          "name": "Dennis.",
+          "url": "https://open.spotify.com/artist/5Nmw5gyMbpXMFfQPA5J9xM"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "BLIND",
+      "url": "https://open.spotify.com/track/2EX82LOYFXncF56nU4dprx"
+    },
+    {
+      "added_at": "2023-04-26 15:55:29",
+      "album": {
+        "name": "ppl plsr",
+        "url": "https://open.spotify.com/album/5q18GUnz8tOlVni95nRbLR"
+      },
+      "artists": [
+        {
+          "name": "DNL",
+          "url": "https://open.spotify.com/artist/7aXH52JKx39Q5PprJmFxXu"
+        }
+      ],
+      "duration_ms": 141803,
+      "name": "ppl plsr",
+      "url": "https://open.spotify.com/track/2jVmmqqKTyauM6uEbVh7UX"
+    },
+    {
+      "added_at": "2023-04-26 15:55:29",
+      "album": {
+        "name": "Gateway Drug",
+        "url": "https://open.spotify.com/album/2Icsn7gs28Yplr9cNLy1N1"
+      },
+      "artists": [
+        {
+          "name": "Rukmani",
+          "url": "https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV"
+        }
+      ],
+      "duration_ms": 158147,
+      "name": "Gateway Drug",
+      "url": "https://open.spotify.com/track/7ajMHPi55sVjqunyK7Kj32"
+    },
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
@@ -52,7 +236,7 @@
           "url": "https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M"
         }
       ],
-      "duration_ms": 178693,
+      "duration_ms": 178793,
       "name": "Until The Morning",
       "url": "https://open.spotify.com/track/2mI4R8Mafb3y6I1gytvkDe"
     },

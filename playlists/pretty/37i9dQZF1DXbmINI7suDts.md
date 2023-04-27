@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,346 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,357 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 23 | [Teach Me](https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF) | [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [Teach Me](https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x) | 4:19 |
 | 24 | [Muunda](https://open.spotify.com/track/2Ce8M6T6HihuA8m0I17GlZ) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX), [King Saha](https://open.spotify.com/artist/3JQTIErs7TXtmo3HIv3yJa) | [Muunda](https://open.spotify.com/album/2ImbElVQUItrSNaWJB5VMG) | 3:34 |
 | 25 | [Fire Deh Deh](https://open.spotify.com/track/3CLcX5MphVX20oqeGDaNT7) | [Felista Di Superstar](https://open.spotify.com/artist/4ePK3JSaxcq2ZeulZlkERH) | [Fire Deh Deh](https://open.spotify.com/album/2D5qDtijtUUlf4UB2RXrDm) | 3:25 |
-| 26 | [Mama I Made It \(feat\. Lagum the Rapper\)](https://open.spotify.com/track/6JRGCGnNluJkVVa3lb7MkQ) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [WATERSHED](https://open.spotify.com/album/2gOc1mcXCepbRTMtXlmoKJ) | 2:17 |
+| 26 | [Mama I Made It](https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [WATERSHED](https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq) | 2:17 |
 | 27 | [4 U](https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve) | [Ceee](https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT) | [4 U](https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk) | 2:15 |
 | 28 | [Nkwagala](https://open.spotify.com/track/531luMexKodEekscAlLyVu) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Nkwagala](https://open.spotify.com/album/5rJT6clbZn0dbA5oLVfBwo) | 3:10 |
 | 29 | [Luberera](https://open.spotify.com/track/4tWynXHlhctDDWr0Spw6Zn) | [Izabelug](https://open.spotify.com/artist/0J3dUYKRMkCBAN0vL0mteJ) | [Luberera](https://open.spotify.com/album/2ekWdKwqx2qzbqsECQcn8h) | 3:51 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 35 | [Little Faith](https://open.spotify.com/track/2DNOzgqgDrrB9j0LbMJs84) | [Afrie](https://open.spotify.com/artist/4jY6R19KcBOgfVoYcFRGmx), [Sandra Suubi](https://open.spotify.com/artist/33JYHmzZa3lNG7VtH0wNSM) | [Little Faith](https://open.spotify.com/album/6K43HxSlOV0wgIcJqgrege) | 3:15 |
 | 36 | [HERE THEY COME](https://open.spotify.com/track/5H5eCRqsbOq8BlXgqjXJbu) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [HERE THEY COME](https://open.spotify.com/album/6F7eC5DNJNyX0wsy3Ll7IR) | 2:19 |
 | 37 | [Biri Biri](https://open.spotify.com/track/3fBRocA6ZeLFW8JRAknhQO) | [King Saha](https://open.spotify.com/artist/3JQTIErs7TXtmo3HIv3yJa) | [King Saha Biri Biri](https://open.spotify.com/album/383eCArtodpJRwqbU1Ubab) | 3:11 |
-| 38 | [Angel of Mine](https://open.spotify.com/track/0UoH7Il9Ns8puNMo73R4r7) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [WATERSHED](https://open.spotify.com/album/2gOc1mcXCepbRTMtXlmoKJ) | 3:15 |
+| 38 | [Angel Of Mine](https://open.spotify.com/track/5uzVZ29dSPYmbgcRol3Gly) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [WATERSHED](https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq) | 3:15 |
 | 39 | [Bamututte](https://open.spotify.com/track/2sZ4GjmmmpDqhQHg4MwxJM) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [AFRICAN MUSIC](https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E) | 2:59 |
 | 40 | [Aluru](https://open.spotify.com/track/2cVZ1TxQaFHG7B6tNM0JoC) | [Ouma Myko](https://open.spotify.com/artist/1Hi1Y9xFG8qiUbBrVDVLm1) | [Ouma Myko: The Smooth Ugandan](https://open.spotify.com/album/57SrDn9x3hclQJq8e7suSq) | 3:32 |
 | 41 | [Best Thing](https://open.spotify.com/track/7avBilzcSIuGxBRxDAn5Qv) | [Dre Cali](https://open.spotify.com/artist/2U0aIJmjYUZZ26kIE0KxM1) | [Best Thing](https://open.spotify.com/album/6ODMED9ea9Ug2apZvtbO9a) | 3:33 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 59 | [Machozi Machoni](https://open.spotify.com/track/7LmsBwJdArqh6HSpOwzpr9) | [Gnl Zamba](https://open.spotify.com/artist/0tEJn5RI5zOHwSlbDkBiDP), [Radio And Weasel](https://open.spotify.com/artist/6T7qNEpvmBKYKIOtr7GQeP) | [Speaking Vernacular](https://open.spotify.com/album/08LOeBsrzYZekjfFPoPgpp) | 4:01 |
 | 60 | [Pick Up](https://open.spotify.com/track/1QpDkktxmLnzZZ2VcBjJkY) | [Kyvo Bouy](https://open.spotify.com/artist/3DEny7mL5yyeEDPYXdO3ky), [Andy Muzic](https://open.spotify.com/artist/5tc8NGhMC3EWbThUi33XXn), [Jozzi Firebouy](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3) | [Pick Up](https://open.spotify.com/album/593JM1cjCgPaAIx8fIOFwu) | 2:36 |
 
-Snapshot ID: `MTY4MDI2NjM2MywwMDAwMDAwMDY5ZjkxMGNiZDJjMDNhOTQ0OWVjNDUwNzFlZjQ1MWZi`
+Snapshot ID: `MTY4MDI2NjM2MywwMDAwMDAwMDM1YmQ0MDc2N2YyOGU2YTk4MzgxZDRlOWY2NzQyMjFk`

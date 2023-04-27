@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 25707,
+  "num_followers": 25712,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg1NTMwNSwwMDAwMDAwMGZjM2Q0ODFiYTIxNzc3YWQ5NzU0ZTAyZmJkNmM0MjUx",
+  "snapshot_id": "MTY3Nzg1NTMwNSwwMDAwMDAwMGI0YjA2NWM1ZWM4YjRhNGZiOTE2YTkxMGIwYjk0N2I3",
   "tracks": [
     {
       "added_at": "2023-02-26 01:59:39",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Bobbysocks / Let It Swing - The Best Of Bobbysocks",
-        "url": "https://open.spotify.com/album/1Y5N3dPwHgubECWrFqpG5T"
-      },
-      "artists": [
-        {
-          "name": "Bobbysocks",
-          "url": "https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs"
-        }
-      ],
-      "duration_ms": 176213,
-      "name": "La det swinge",
-      "url": "https://open.spotify.com/track/1D5JiCspnkQx8L57R3qpAb"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "I Can't Go On",
         "url": "https://open.spotify.com/album/22O77Vq7bj0khJd5Blhjp3"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 169226,
       "name": "H\u00f6gt \u00f6ver havet",
       "url": "https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Bobbysocks / Let It Swing - The Best Of Bobbysocks",
+        "url": "https://open.spotify.com/album/1Y5N3dPwHgubECWrFqpG5T"
+      },
+      "artists": [
+        {
+          "name": "Bobbysocks",
+          "url": "https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs"
+        }
+      ],
+      "duration_ms": 176213,
+      "name": "La det swinge",
+      "url": "https://open.spotify.com/track/1D5JiCspnkQx8L57R3qpAb"
     },
     {
       "added_at": "2023-02-26 01:59:39",

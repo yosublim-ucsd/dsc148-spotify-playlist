@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 147650,
+  "num_followers": 147736,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc4MTQwMSwwMDAwMDAwMDBiNGYxMTFlOTM2MDkwMDkwODNhODBjNDNiNjMwZjZl",
+  "snapshot_id": "MTY4MDc4MTQwMSwwMDAwMDAwMGFjMjg4N2M0ZjNhMjQxZDBjMTU3ODAzNzIzMTc4MjEz",
   "tracks": [
     {
       "added_at": "2023-02-24 17:24:38",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-02-24 17:24:38",
       "album": {
-        "name": "I Be Trying",
-        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
-      },
-      "artists": [
-        {
-          "name": "Cedric Burnside",
-          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
-        }
-      ],
-      "duration_ms": 155026,
-      "name": "Step In",
-      "url": "https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk"
-    },
-    {
-      "added_at": "2023-02-24 17:24:38",
-      "album": {
         "name": "Blacksnake Blues",
         "url": "https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 674000,
       "name": "Blacksnake Blues",
       "url": "https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO"
+    },
+    {
+      "added_at": "2023-02-24 17:24:38",
+      "album": {
+        "name": "I Be Trying",
+        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "duration_ms": 155026,
+      "name": "Step In",
+      "url": "https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk"
     },
     {
       "added_at": "2023-02-24 17:24:38",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-02-24 17:24:38",
       "album": {
+        "name": "The Essential Jimmie Vaughan",
+        "url": "https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        }
+      ],
+      "duration_ms": 383760,
+      "name": "Dengue Woman Blues",
+      "url": "https://open.spotify.com/track/4OGyibX2nayDVCUfFN4u8x"
+    },
+    {
+      "added_at": "2023-02-24 17:24:38",
+      "album": {
         "name": "Bluesbreakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 147560,
       "name": "Steppin' Out",
       "url": "https://open.spotify.com/track/4XpLqmD7SxGzaKuTs07FM0"
-    },
-    {
-      "added_at": "2023-02-24 17:24:38",
-      "album": {
-        "name": "The Essential Jimmie Vaughan",
-        "url": "https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
-        }
-      ],
-      "duration_ms": 383760,
-      "name": "Dengue Woman Blues",
-      "url": "https://open.spotify.com/track/4OGyibX2nayDVCUfFN4u8x"
     },
     {
       "added_at": "2023-02-24 17:24:38",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-02-24 17:24:38",
       "album": {
-        "name": "Man Of My Word",
-        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
-      },
-      "artists": [
-        {
-          "name": "Johnny Adams",
-          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
-        }
-      ],
-      "duration_ms": 280360,
-      "name": "This Time I'm Gone For Good",
-      "url": "https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18"
-    },
-    {
-      "added_at": "2023-02-24 17:24:38",
-      "album": {
         "name": "Eric Clapton",
         "url": "https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 625293,
       "name": "Blues In \"A\"",
       "url": "https://open.spotify.com/track/6qXGPlkW4paWUiKUai43Mj"
+    },
+    {
+      "added_at": "2023-02-24 17:24:38",
+      "album": {
+        "name": "Man Of My Word",
+        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
+      },
+      "artists": [
+        {
+          "name": "Johnny Adams",
+          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
+        }
+      ],
+      "duration_ms": 280360,
+      "name": "This Time I'm Gone For Good",
+      "url": "https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18"
     },
     {
       "added_at": "2023-02-24 17:24:38",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-02-24 17:24:38",
       "album": {
-        "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
-        "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 214320,
-      "name": "Dirt Road Blues - 2022 Remix",
-      "url": "https://open.spotify.com/track/6QEmvsAYHNRZ5D7lyq6Nvf"
-    },
-    {
-      "added_at": "2023-02-24 17:24:38",
-      "album": {
         "name": "One Scotch, One Bourbon, One Beer",
         "url": "https://open.spotify.com/album/7uDIaa0VUbDhhEA4CkqNN6"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 192121,
       "name": "One Scotch, One Bourbon, One Beer",
       "url": "https://open.spotify.com/track/0l33ve0XHG5XxKwMQPKcZk"
+    },
+    {
+      "added_at": "2023-02-24 17:24:38",
+      "album": {
+        "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
+        "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 214320,
+      "name": "Dirt Road Blues - 2022 Remix",
+      "url": "https://open.spotify.com/track/6QEmvsAYHNRZ5D7lyq6Nvf"
     },
     {
       "added_at": "2023-02-24 17:24:38",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-02-24 17:24:38",
       "album": {
-        "name": "Love on the Rocks",
-        "url": "https://open.spotify.com/album/1GMBZjGm9SylBHR9VgtIJA"
+        "name": "When It Suns It Shines",
+        "url": "https://open.spotify.com/album/2iGCKYAsFhCvqd8OFEWl8p"
       },
       "artists": [
         {
-          "name": "Lauren Anderson",
-          "url": "https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ"
+          "name": "Alicia Gail",
+          "url": "https://open.spotify.com/artist/4Q9CkAPfAQBeHWs1q0h23k"
         }
       ],
-      "duration_ms": 222826,
-      "name": "Love on the Rocks",
-      "url": "https://open.spotify.com/track/06naKf1yua8cwigjhWtOSz"
+      "duration_ms": 270440,
+      "name": "When It Suns It Shines",
+      "url": "https://open.spotify.com/track/4gEcChNiNpMi7BV4JoUaaE"
     },
     {
       "added_at": "2023-02-24 17:24:38",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2023-02-24 17:24:38",
       "album": {
-        "name": "When It Suns It Shines",
-        "url": "https://open.spotify.com/album/2iGCKYAsFhCvqd8OFEWl8p"
+        "name": "Love on the Rocks",
+        "url": "https://open.spotify.com/album/1GMBZjGm9SylBHR9VgtIJA"
       },
       "artists": [
         {
-          "name": "Alicia Gail",
-          "url": "https://open.spotify.com/artist/4Q9CkAPfAQBeHWs1q0h23k"
+          "name": "Lauren Anderson",
+          "url": "https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ"
         }
       ],
-      "duration_ms": 270440,
-      "name": "When It Suns It Shines",
-      "url": "https://open.spotify.com/track/4gEcChNiNpMi7BV4JoUaaE"
+      "duration_ms": 222826,
+      "name": "Love on the Rocks",
+      "url": "https://open.spotify.com/track/06naKf1yua8cwigjhWtOSz"
     },
     {
       "added_at": "2023-02-24 17:24:38",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-02-24 17:24:38",
       "album": {
-        "name": "Horrifying Deatheating Bloodspider",
-        "url": "https://open.spotify.com/album/27aht0wSf0h3U05DLMTmYY"
-      },
-      "artists": [
-        {
-          "name": "Daniel Norgren",
-          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
-        }
-      ],
-      "duration_ms": 168253,
-      "name": "Lovedog",
-      "url": "https://open.spotify.com/track/5t5Ykftp0tz4DeVCMfFH8A"
-    },
-    {
-      "added_at": "2023-02-24 17:24:38",
-      "album": {
         "name": "Born Under A Bad Sign (Mono)",
         "url": "https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 188697,
       "name": "Laundromat Blues - Mono Mix",
       "url": "https://open.spotify.com/track/272P3DN547Z4CNFNdLV4SD"
+    },
+    {
+      "added_at": "2023-02-24 17:24:38",
+      "album": {
+        "name": "Horrifying Deatheating Bloodspider",
+        "url": "https://open.spotify.com/album/27aht0wSf0h3U05DLMTmYY"
+      },
+      "artists": [
+        {
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+        }
+      ],
+      "duration_ms": 168253,
+      "name": "Lovedog",
+      "url": "https://open.spotify.com/track/5t5Ykftp0tz4DeVCMfFH8A"
     },
     {
       "added_at": "2023-02-24 17:24:38",

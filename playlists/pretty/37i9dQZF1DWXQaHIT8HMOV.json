@@ -1,12 +1,12 @@
 {
   "description": "Top hits from homegrown artists showcasing rich culture and talent from Uganda",
-  "num_followers": 1450,
+  "num_followers": 1458,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA3MzMzOSwwMDAwMDAwMGRkMDViNzM4MDQ3NDQ4ZmY3OTM1MDk1Y2NhOWRjYzJj",
+  "snapshot_id": "MTY4MjA3MzMzOSwwMDAwMDAwMGQ5YWQ1MTg5YjJlMWRhNWMyZmM0NmQ3MTExODUzNzhm",
   "tracks": [
     {
       "added_at": "2023-04-21 10:35:39",
@@ -375,8 +375,8 @@
     {
       "added_at": "2023-04-21 10:35:39",
       "album": {
-        "name": "WATERSHED",
-        "url": "https://open.spotify.com/album/2gOc1mcXCepbRTMtXlmoKJ"
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj"
       },
       "artists": [
         {
@@ -384,13 +384,13 @@
           "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
         },
         {
-          "name": "Lagum the Rapper",
-          "url": "https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124"
+          "name": "BRYAN THE MENSAH",
+          "url": "https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2"
         }
       ],
-      "duration_ms": 137333,
-      "name": "Mama I Made It (feat. Lagum the Rapper)",
-      "url": "https://open.spotify.com/track/6JRGCGnNluJkVVa3lb7MkQ"
+      "duration_ms": 188444,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT"
     },
     {
       "added_at": "2023-04-21 10:35:39",
@@ -487,50 +487,6 @@
     {
       "added_at": "2023-04-21 10:35:39",
       "album": {
-        "name": "Leaving Summer",
-        "url": "https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT"
-      },
-      "artists": [
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        },
-        {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
-        },
-        {
-          "name": "Akeine",
-          "url": "https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Leaving Summer",
-      "url": "https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6"
-    },
-    {
-      "added_at": "2023-04-21 10:35:39",
-      "album": {
-        "name": "I Do",
-        "url": "https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "BRYAN THE MENSAH",
-          "url": "https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2"
-        }
-      ],
-      "duration_ms": 188444,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT"
-    },
-    {
-      "added_at": "2023-04-21 10:35:39",
-      "album": {
         "name": "Love Marijuana",
         "url": "https://open.spotify.com/album/5pj7QvTw5ZgQ9iQtJGOwl1"
       },
@@ -567,6 +523,30 @@
       "duration_ms": 193896,
       "name": "Part2 (Dinner in Maui)",
       "url": "https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te"
+    },
+    {
+      "added_at": "2023-04-21 10:35:39",
+      "album": {
+        "name": "Leaving Summer",
+        "url": "https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        },
+        {
+          "name": "Akeine",
+          "url": "https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Leaving Summer",
+      "url": "https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6"
     },
     {
       "added_at": "2023-04-21 10:35:39",
@@ -703,22 +683,6 @@
     {
       "added_at": "2023-04-21 10:35:39",
       "album": {
-        "name": "BESTIE",
-        "url": "https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB"
-      },
-      "artists": [
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
-        }
-      ],
-      "duration_ms": 173949,
-      "name": "BESTIE",
-      "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
-    },
-    {
-      "added_at": "2023-04-21 10:35:39",
-      "album": {
         "name": "Omwana",
         "url": "https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2"
       },
@@ -731,6 +695,22 @@
       "duration_ms": 212903,
       "name": "Omwana",
       "url": "https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK"
+    },
+    {
+      "added_at": "2023-04-21 10:35:39",
+      "album": {
+        "name": "BESTIE",
+        "url": "https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB"
+      },
+      "artists": [
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        }
+      ],
+      "duration_ms": 173949,
+      "name": "BESTIE",
+      "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
     },
     {
       "added_at": "2023-04-21 10:35:39",
@@ -803,22 +783,6 @@
     {
       "added_at": "2023-04-21 10:35:39",
       "album": {
-        "name": "Bbuba",
-        "url": "https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3"
-      },
-      "artists": [
-        {
-          "name": "Maurice Kirya",
-          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
-        }
-      ],
-      "duration_ms": 204289,
-      "name": "Bbuba",
-      "url": "https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz"
-    },
-    {
-      "added_at": "2023-04-21 10:35:39",
-      "album": {
         "name": "Don't Stopp",
         "url": "https://open.spotify.com/album/20vcJDgwiHZHcyz927U2HH"
       },
@@ -831,6 +795,22 @@
       "duration_ms": 172736,
       "name": "Don't Stopp",
       "url": "https://open.spotify.com/track/3r3t5dqnEHDuhGlo1m40Sh"
+    },
+    {
+      "added_at": "2023-04-21 10:35:39",
+      "album": {
+        "name": "Bbuba",
+        "url": "https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3"
+      },
+      "artists": [
+        {
+          "name": "Maurice Kirya",
+          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
+        }
+      ],
+      "duration_ms": 204289,
+      "name": "Bbuba",
+      "url": "https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz"
     },
     {
       "added_at": "2023-04-21 10:35:39",
@@ -867,6 +847,22 @@
     {
       "added_at": "2023-04-21 10:35:39",
       "album": {
+        "name": "Music for the Soul",
+        "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "duration_ms": 215757,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
+    },
+    {
+      "added_at": "2023-04-21 10:35:39",
+      "album": {
         "name": "Nkuwe",
         "url": "https://open.spotify.com/album/0NCH2uXILthFXbMHXy9y3C"
       },
@@ -887,18 +883,18 @@
     {
       "added_at": "2023-04-21 10:35:39",
       "album": {
-        "name": "Music for the Soul",
-        "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
+        "name": "Boss Lady",
+        "url": "https://open.spotify.com/album/5zkrqJchuQrRlDqizwxhAf"
       },
       "artists": [
         {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
         }
       ],
-      "duration_ms": 215757,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
+      "duration_ms": 178754,
+      "name": "Boss Lady",
+      "url": "https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV"
     }
   ],
   "unique_name": "Made In Uganda",

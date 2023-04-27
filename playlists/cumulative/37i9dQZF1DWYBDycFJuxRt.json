@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: Mrs. GREEN APPLE *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/317326?utm_source=spotify.com&utm_medium=referral\">SPICE\u9023\u52d5\u8a18\u4e8b</a>\u304b\u3089\u65b0\u7740\u60c5\u5831\u3092\u30ad\u30e3\u30c3\u30c1! ",
+  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: Mrs. GREEN APPLE *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/317605?utm_source=spotify.com&utm_medium=referral\">SPICE\u9023\u52d5\u8a18\u4e8b</a>\u304b\u3089\u65b0\u7740\u60c5\u5831\u3092\u30ad\u30e3\u30c3\u30c1! ",
   "name": "New Music Wednesday",
   "tracks": [
     {
@@ -140,6 +140,24 @@
     {
       "album": {
         "name": "2002",
+        "url": "https://open.spotify.com/album/597Gki9HOC7LMITMtgt5K2"
+      },
+      "artists": [
+        {
+          "name": "A\u590f\u76ee",
+          "url": "https://open.spotify.com/artist/2HUc3XMRhQi0UBcSGGa0mH"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257044,
+      "name": "2002",
+      "url": "https://open.spotify.com/track/0lk7DxrBhnRd4mPANkQGSj"
+    },
+    {
+      "album": {
+        "name": "2002",
         "url": "https://open.spotify.com/album/4x5ae9q1kZ8eFbKBz5PCnu"
       },
       "artists": [
@@ -150,7 +168,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 257044,
       "name": "2002",
       "url": "https://open.spotify.com/track/3KzoNHeyvm4okvSFBFi7UC"
@@ -737,6 +755,24 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/0iRBUigZih92BXcPofuy5h"
+      },
+      "artists": [
+        {
+          "name": "KALMA",
+          "url": "https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192066,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/72OWeSElexd0PQCsJJsx8c"
+    },
+    {
+      "album": {
         "name": "ALOS",
         "url": "https://open.spotify.com/album/29y5aBN0K1xZx5u6jroZ2U"
       },
@@ -1082,10 +1118,32 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 150437,
       "name": "Asian - Remix",
       "url": "https://open.spotify.com/track/036hex0DwJfRyOCdpcXZaE"
+    },
+    {
+      "album": {
+        "name": "Asian (Remix)",
+        "url": "https://open.spotify.com/album/23oy0GCIhgMkW1RK9hswa0"
+      },
+      "artists": [
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        },
+        {
+          "name": "JJJ",
+          "url": "https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150437,
+      "name": "Asian - Remix",
+      "url": "https://open.spotify.com/track/0TfspVj0FjkXd9xFsTsWYW"
     },
     {
       "album": {
@@ -1340,36 +1398,6 @@
     {
       "album": {
         "name": "barla",
-        "url": "https://open.spotify.com/album/3qxizPUi3fGBw0f9W5JY0R"
-      },
-      "artists": [
-        {
-          "name": "bala",
-          "url": "https://open.spotify.com/artist/2LCojy3bUYWczKPT4tdPos"
-        },
-        {
-          "name": "BBY NABE",
-          "url": "https://open.spotify.com/artist/4zb2mUkgFg9NGwAJnzlS8B"
-        },
-        {
-          "name": "MANON",
-          "url": "https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3"
-        },
-        {
-          "name": "SUNNY ONLY 1",
-          "url": "https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc"
-        }
-      ],
-      "date_added": "2023-04-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 170096,
-      "name": "barla",
-      "url": "https://open.spotify.com/track/6zOjUZky4Yxf9huQ2vH0W3"
-    },
-    {
-      "album": {
-        "name": "barla",
         "url": "https://open.spotify.com/album/2gjOLwd7GbuJlrMUPewn31"
       },
       "artists": [
@@ -1396,6 +1424,40 @@
       "duration_ms": 238597,
       "name": "barla",
       "url": "https://open.spotify.com/track/15u6GYSKZBei1mQ9AJU85P"
+    },
+    {
+      "album": {
+        "name": "barla (feat. BBY NABE)",
+        "url": "https://open.spotify.com/album/3qxizPUi3fGBw0f9W5JY0R"
+      },
+      "artists": [
+        {
+          "name": "BBY NABE",
+          "url": "https://open.spotify.com/artist/4zb2mUkgFg9NGwAJnzlS8B"
+        },
+        {
+          "name": "bala",
+          "url": "https://open.spotify.com/artist/2LCojy3bUYWczKPT4tdPos"
+        },
+        {
+          "name": "Shinichi Osawa",
+          "url": "https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp"
+        },
+        {
+          "name": "MANON",
+          "url": "https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3"
+        },
+        {
+          "name": "SUNNY ONLY 1",
+          "url": "https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170096,
+      "name": "barla (feat. BBY NABE)",
+      "url": "https://open.spotify.com/track/6zOjUZky4Yxf9huQ2vH0W3"
     },
     {
       "album": {
@@ -2828,10 +2890,32 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 198080,
       "name": "Deep Down Inside",
       "url": "https://open.spotify.com/track/0lnH5XmAxQer82Y2LgbSH1"
+    },
+    {
+      "album": {
+        "name": "Steps On The Hill",
+        "url": "https://open.spotify.com/album/7fBjMPFSeFiKxzGLpFLiCc"
+      },
+      "artists": [
+        {
+          "name": "FRME",
+          "url": "https://open.spotify.com/artist/7vswuB7NaevgoAvBhshwJ0"
+        },
+        {
+          "name": "Kvi Baba",
+          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198080,
+      "name": "Deep Down Inside",
+      "url": "https://open.spotify.com/track/7JIEt8gTy7R1H8PHRG2yRa"
     },
     {
       "album": {
@@ -4146,6 +4230,32 @@
     {
       "album": {
         "name": "Flash Light",
+        "url": "https://open.spotify.com/album/6D2ywV4KDJnnWv3zMcz35m"
+      },
+      "artists": [
+        {
+          "name": "FANCYLABO",
+          "url": "https://open.spotify.com/artist/34MPZmd0trUjRPtfDVUrwo"
+        },
+        {
+          "name": "Aoi Yagawa",
+          "url": "https://open.spotify.com/artist/7w3N4hKPh9CssP6wIKDaww"
+        },
+        {
+          "name": "Miori Ichikawa",
+          "url": "https://open.spotify.com/artist/47FeV9K8iEFuZTUwneophb"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191017,
+      "name": "Flash Light",
+      "url": "https://open.spotify.com/track/1502rJ1m8tYycaTk7UMID3"
+    },
+    {
+      "album": {
+        "name": "Flash Light",
         "url": "https://open.spotify.com/album/7tMWwkwoxv6Iu0oQ8qbRN5"
       },
       "artists": [
@@ -4164,7 +4274,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 191017,
       "name": "Flash Light",
       "url": "https://open.spotify.com/track/4ek5ZvWO0MUWA6lLqjZXpR"
@@ -4914,10 +5024,28 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 213040,
       "name": "Good",
       "url": "https://open.spotify.com/track/1Z8JOVjvZNhwOdwOVqZPpI"
+    },
+    {
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213040,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/2GJfaPnMsjy9WqM7te5yhB"
     },
     {
       "album": {
@@ -6936,10 +7064,28 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 180085,
       "name": "Kariyado",
       "url": "https://open.spotify.com/track/1g4ZVXx8kitU4TRstkn2kn"
+    },
+    {
+      "album": {
+        "name": "Kariyado",
+        "url": "https://open.spotify.com/album/7fe3aWRF3lWZCofvfsKRPj"
+      },
+      "artists": [
+        {
+          "name": "maco marets",
+          "url": "https://open.spotify.com/artist/5DbBdSGEbUynwuApR95Bfi"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180085,
+      "name": "Kariyado",
+      "url": "https://open.spotify.com/track/4i8CQI8uY8f6rZpFoztXwz"
     },
     {
       "album": {
@@ -8440,6 +8586,24 @@
     {
       "album": {
         "name": "Melon",
+        "url": "https://open.spotify.com/album/1VOybJiXDbg2eRTBidpNDE"
+      },
+      "artists": [
+        {
+          "name": "AVOCADO BOYS",
+          "url": "https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252428,
+      "name": "Melon",
+      "url": "https://open.spotify.com/track/4xe4qAbgXitdQayGBnVeXT"
+    },
+    {
+      "album": {
+        "name": "Melon",
         "url": "https://open.spotify.com/album/0jkjGMEXFfTA3SZgfGLV5p"
       },
       "artists": [
@@ -8450,7 +8614,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 252428,
       "name": "Melon",
       "url": "https://open.spotify.com/track/7GZ2Y8lYqyzQ2b20RLGNLJ"
@@ -10514,6 +10678,24 @@
     {
       "album": {
         "name": "Pretty in pink",
+        "url": "https://open.spotify.com/album/5Cgh8OZAJ8Y6haJyxMzBVH"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Pretty in pink",
+      "url": "https://open.spotify.com/track/4xCy0UyJ5qMx0bbt4F9B0d"
+    },
+    {
+      "album": {
+        "name": "Pretty in pink",
         "url": "https://open.spotify.com/album/6FAyVgF0ZBEBPIi3QQHK6l"
       },
       "artists": [
@@ -10524,7 +10706,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 176000,
       "name": "Pretty in pink",
       "url": "https://open.spotify.com/track/5FPoDmhfaK08USOhbX4jAM"
@@ -11118,10 +11300,28 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 149484,
       "name": "RODEO",
       "url": "https://open.spotify.com/track/0a0JpchVyVBEtHRkFjjl3e"
+    },
+    {
+      "album": {
+        "name": "RODEO",
+        "url": "https://open.spotify.com/album/0FEnQ35sFw2yeSZLy4UQ6D"
+      },
+      "artists": [
+        {
+          "name": "JAY'ED",
+          "url": "https://open.spotify.com/artist/3vlAUneucinIokaOUeYbrv"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149484,
+      "name": "RODEO",
+      "url": "https://open.spotify.com/track/3TNnABL3T1O4fsF3WU81oM"
     },
     {
       "album": {
@@ -11501,6 +11701,24 @@
     },
     {
       "album": {
+        "name": "Zeitaku",
+        "url": "https://open.spotify.com/album/0l6eHIUnUiOmzPUYsflA4q"
+      },
+      "artists": [
+        {
+          "name": "NEE",
+          "url": "https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189066,
+      "name": "Seimei Oka",
+      "url": "https://open.spotify.com/track/1X0ryvast6yk2en45qhvKl"
+    },
+    {
+      "album": {
         "name": "SEND",
         "url": "https://open.spotify.com/album/5pWIMDZtkeIodVGDEstBFv"
       },
@@ -11841,6 +12059,28 @@
     },
     {
       "album": {
+        "name": "SHOUDOU DO FEAT.ZAINICHI FUNK",
+        "url": "https://open.spotify.com/album/6EcH1dMUc0HQTDMqc95Jrv"
+      },
+      "artists": [
+        {
+          "name": "s**t kingz",
+          "url": "https://open.spotify.com/artist/4eRPT3dCcYsuZ2dFqqcaYx"
+        },
+        {
+          "name": "ZAINICHI FUNK",
+          "url": "https://open.spotify.com/artist/7BRVxPmJQskxNWHYYaMeBk"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234797,
+      "name": "SHOUDOU DO FEAT.ZAINICHI FUNK",
+      "url": "https://open.spotify.com/track/4RppPjQKAsUSOWksGuTRch"
+    },
+    {
+      "album": {
         "name": "Shoutotsu",
         "url": "https://open.spotify.com/album/4RBWAGSihSVxsFHaufoaS4"
       },
@@ -11996,6 +12236,24 @@
       "duration_ms": 264466,
       "name": "Shunkan-reitou love",
       "url": "https://open.spotify.com/track/6HY58ksvkW9V59IDIiVB16"
+    },
+    {
+      "album": {
+        "name": "Siesta",
+        "url": "https://open.spotify.com/album/4q5mMGjlcMUUhlGd4RWDp3"
+      },
+      "artists": [
+        {
+          "name": "\u65b0\u6771\u4eac",
+          "url": "https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191428,
+      "name": "Siesta",
+      "url": "https://open.spotify.com/track/74J0ffff6Hp3fYCkp3ceKW"
     },
     {
       "album": {
@@ -12846,6 +13104,28 @@
       "duration_ms": 195013,
       "name": "Suki Lie",
       "url": "https://open.spotify.com/track/45h7ZIjSfrPbhbl7EgwKwh"
+    },
+    {
+      "album": {
+        "name": "Summer Ghost feat. KIRINJI",
+        "url": "https://open.spotify.com/album/5tuIFFFK621MJKQ5e9yKsA"
+      },
+      "artists": [
+        {
+          "name": "Tomita Lab.",
+          "url": "https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD"
+        },
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254666,
+      "name": "Summer Ghost feat. KIRINJI",
+      "url": "https://open.spotify.com/track/0BlR8rZiO5pk4VjMT0Vkqo"
     },
     {
       "album": {
@@ -14163,6 +14443,24 @@
     },
     {
       "album": {
+        "name": "Under Heroine",
+        "url": "https://open.spotify.com/album/2KXssCdlyzlErLV5SPANHs"
+      },
+      "artists": [
+        {
+          "name": "TUYU",
+          "url": "https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168571,
+      "name": "Under Heroine",
+      "url": "https://open.spotify.com/track/2zBVf4UksFsBShmvdFyPRM"
+    },
+    {
+      "album": {
         "name": "Under the Tree",
         "url": "https://open.spotify.com/album/7wQyvP7maIKn0uTGr66eI3"
       },
@@ -14732,6 +15030,24 @@
       "duration_ms": 172536,
       "name": "Wander",
       "url": "https://open.spotify.com/track/4wEW5ooTvpYOzddLgeWFtC"
+    },
+    {
+      "album": {
+        "name": "Waraibanashi -A Funny Story-",
+        "url": "https://open.spotify.com/album/6sTC6wymaf3mxFRljQuFp9"
+      },
+      "artists": [
+        {
+          "name": "Sean Oshima",
+          "url": "https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227143,
+      "name": "Waraibanashi -A Funny Story-",
+      "url": "https://open.spotify.com/track/6LtMJVeESzRLu2qC7nvWSr"
     },
     {
       "album": {
@@ -16976,7 +17292,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 192066,
       "name": "\u30a2\u30ed\u30fc\u30f3",
       "url": "https://open.spotify.com/track/1hvUu7EYFV1eHpxlwzk8dK"
@@ -17012,7 +17328,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 168571,
       "name": "\u30a2\u30f3\u30c0\u30fc\u30d2\u30ed\u30a4\u30f3",
       "url": "https://open.spotify.com/track/05uhesUvOUovUTiudqadCo"
@@ -17616,7 +17932,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 191428,
       "name": "\u30b7\u30a8\u30b9\u30bf",
       "url": "https://open.spotify.com/track/0cRRJ7O7fEC0mohyTrM3R1"
@@ -19546,7 +19862,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 254666,
       "name": "\u590f\u306e\u4ea1\u970a feat. KIRINJI",
       "url": "https://open.spotify.com/track/5QZJ0oITXby0ON4JiWSDH6"
@@ -21490,7 +21806,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 189066,
       "name": "\u751f\u547d\u8b33\u6b4c",
       "url": "https://open.spotify.com/track/4ds7UtHjZaDOqrNfDvEAFu"
@@ -21888,7 +22204,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 227143,
       "name": "\u7b11\u3044\u8a71 -A Funny Story-",
       "url": "https://open.spotify.com/track/1WfJhEEp4aERI2LSwCNrHo"
@@ -22264,7 +22580,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 234797,
       "name": "\u885d\u52d5DO feat. \u5728\u65e5\u30d5\u30a1\u30f3\u30af",
       "url": "https://open.spotify.com/track/1BWs52GOmcFSf3Fnl51KAf"

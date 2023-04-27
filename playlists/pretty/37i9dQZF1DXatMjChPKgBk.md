@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatMjChPKgBk.md) - [plain]
 
 > Great food, good company and some soft music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,580 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,591 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

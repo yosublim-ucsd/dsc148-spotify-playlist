@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover: Gene Moore",
-  "num_followers": 189486,
+  "num_followers": 189721,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDIwNjQzOSwwMDAwMDAwMDQwZGRhMmE3ZWUzMmEwNjI3NWU0NGRjYWViYzE3NmZi",
+  "snapshot_id": "MTY3NDIwNjQzOSwwMDAwMDAwMGU5ZGI5M2EzZjMyNGYyYzNmYTk2NTU2NDY2OWNhYzY0",
   "tracks": [
     {
       "added_at": "2023-01-20 09:20:39",
@@ -511,30 +511,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Easy!",
-        "url": "https://open.spotify.com/album/1gT3Q7Av72uP0WSRaS8RlU"
-      },
-      "artists": [
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        },
-        {
-          "name": "Bridge Music",
-          "url": "https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 165813,
-      "name": "Easy!",
-      "url": "https://open.spotify.com/track/3rNxrZ0TjoWsPrEZW4kONj"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Hearts in Pain",
         "url": "https://open.spotify.com/album/1aXo94Pxz8t8fGbvaZ81Sj"
       },
@@ -555,18 +531,26 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Hold On Me",
-        "url": "https://open.spotify.com/album/3AD16GLcPl1toDt9qgqhE6"
+        "name": "Easy!",
+        "url": "https://open.spotify.com/album/1gT3Q7Av72uP0WSRaS8RlU"
       },
       "artists": [
         {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "Bridge Music",
+          "url": "https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
         }
       ],
-      "duration_ms": 172113,
-      "name": "Hold On Me",
-      "url": "https://open.spotify.com/track/0iYrbOzpIwEnKeRBHlB5tH"
+      "duration_ms": 165813,
+      "name": "Easy!",
+      "url": "https://open.spotify.com/track/3rNxrZ0TjoWsPrEZW4kONj"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -603,6 +587,22 @@
       "duration_ms": 323855,
       "name": "The Better Benediction (feat. Zacardi Cortez, Gene Moore, Samoht, Tim Rogers & Darrel 'MusiqCity' Walls)",
       "url": "https://open.spotify.com/track/3lHg2hk5SKxykj9bt48ARl"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Hold On Me",
+        "url": "https://open.spotify.com/album/3AD16GLcPl1toDt9qgqhE6"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 172113,
+      "name": "Hold On Me",
+      "url": "https://open.spotify.com/track/0iYrbOzpIwEnKeRBHlB5tH"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "more like you",
+        "url": "https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J"
+      },
+      "artists": [
+        {
+          "name": "Reed Deming",
+          "url": "https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "more like you",
+      "url": "https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "Amidst",
         "url": "https://open.spotify.com/album/6RJVSX0w6mWKY5V3mEZzZL"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 240500,
       "name": "Grounded",
       "url": "https://open.spotify.com/track/5Xr1ZmaHuUxp7cIuIK9Aly"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "more like you",
-        "url": "https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J"
-      },
-      "artists": [
-        {
-          "name": "Reed Deming",
-          "url": "https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "more like you",
-      "url": "https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/0uBfQckknUlZAcBG5CTEiZ"
-      },
-      "artists": [
-        {
-          "name": "Christ Encounter",
-          "url": "https://open.spotify.com/artist/2rKuB4AzuUZnbpp81hWRPf"
-        }
-      ],
-      "duration_ms": 248057,
-      "name": "First Love",
-      "url": "https://open.spotify.com/track/44cZgCZcRgxkLV46iASa5K"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Belongs To You (R&B Remix)",
         "url": "https://open.spotify.com/album/3uXFWEyEpYYnOhwHjBUxOz"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 191122,
       "name": "Belongs To You - R&B Remix",
       "url": "https://open.spotify.com/track/66pxUHORGhVzEjvzIAijcq"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/0uBfQckknUlZAcBG5CTEiZ"
+      },
+      "artists": [
+        {
+          "name": "Christ Encounter",
+          "url": "https://open.spotify.com/artist/2rKuB4AzuUZnbpp81hWRPf"
+        }
+      ],
+      "duration_ms": 248057,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/44cZgCZcRgxkLV46iASa5K"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/312MTUV5emNgXs3H8BWSgY"
-      },
-      "artists": [
-        {
-          "name": "SEMAJE",
-          "url": "https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW"
-        }
-      ],
-      "duration_ms": 186337,
-      "name": "You",
-      "url": "https://open.spotify.com/track/4gVq3WxGiANRcF4tpqrTOx"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Gotta Be God",
         "url": "https://open.spotify.com/album/5QoG06Wf5RiAb3Vf6i1gkv"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 168000,
       "name": "Gotta Be God",
       "url": "https://open.spotify.com/track/66dKe5hsyrNInqBpnxPTPL"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/312MTUV5emNgXs3H8BWSgY"
+      },
+      "artists": [
+        {
+          "name": "SEMAJE",
+          "url": "https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW"
+        }
+      ],
+      "duration_ms": 186337,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4gVq3WxGiANRcF4tpqrTOx"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/12nMGGMPL3fpXJ9kWKQEz0"
-      },
-      "artists": [
-        {
-          "name": "Robyn McGhee",
-          "url": "https://open.spotify.com/artist/2cw26vgVspnC3aHeREahM8"
-        }
-      ],
-      "duration_ms": 268625,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Belongs To You (Remix Pack)",
         "url": "https://open.spotify.com/album/4JFyOepnA6LzoCMgDc8T7X"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 158479,
       "name": "Belongs To You - Lofi Remix",
       "url": "https://open.spotify.com/track/4niYuESanlUNSn9m9v16P0"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/12nMGGMPL3fpXJ9kWKQEz0"
+      },
+      "artists": [
+        {
+          "name": "Robyn McGhee",
+          "url": "https://open.spotify.com/artist/2cw26vgVspnC3aHeREahM8"
+        }
+      ],
+      "duration_ms": 268625,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Mercy Shores",
-        "url": "https://open.spotify.com/album/2hFkHnWuHRlxvtzMsOe5H7"
-      },
-      "artists": [
-        {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
-        }
-      ],
-      "duration_ms": 206746,
-      "name": "Mercy Shores",
-      "url": "https://open.spotify.com/track/2DfrxAll5ft3nKQNa6OKEo"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/1AMyeFXfU67wKsGzdnNkpE"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 210000,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/5hJLoLdTvr2IhKkJpDnVJp"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Mercy Shores",
+        "url": "https://open.spotify.com/album/2hFkHnWuHRlxvtzMsOe5H7"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "duration_ms": 206746,
+      "name": "Mercy Shores",
+      "url": "https://open.spotify.com/track/2DfrxAll5ft3nKQNa6OKEo"
     }
   ],
   "unique_name": "Rhythm & Praise",

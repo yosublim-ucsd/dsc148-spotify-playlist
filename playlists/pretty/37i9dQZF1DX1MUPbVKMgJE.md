@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MUPbVKMgJE.md) - [plain]
 
 > All your Disco favorites\. Cover: Donna Summer
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,476,407 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,476,713 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

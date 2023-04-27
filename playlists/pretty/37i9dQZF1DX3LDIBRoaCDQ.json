@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1491688,
+  "num_followers": 1491939,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTY0OTE3OSwwMDAwMDAwMDk1YzMzMjRhYWVlMWQ5M2Y4ZTM2NmYwMzQ3NDljOGZi",
+  "snapshot_id": "MTY2OTY0OTE3OSwwMDAwMDAwMDQ3MjBkNTRiOTE2MDFiZDlmNzQxNWRhYjYzOTE2MmU1",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Operation Ivy (2007 Remaster)",
-        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
-      },
-      "artists": [
-        {
-          "name": "Operation Ivy",
-          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
-        }
-      ],
-      "duration_ms": 134026,
-      "name": "Sound System - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "First Two Seven Inches",
         "url": "https://open.spotify.com/album/6Sty6rLnMTXFjKxKUZEfmy"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 89160,
       "name": "Minor Threat",
       "url": "https://open.spotify.com/track/7pADnbKBmN6bY2YfLXCIgU"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Operation Ivy (2007 Remaster)",
+        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
+      },
+      "artists": [
+        {
+          "name": "Operation Ivy",
+          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
+        }
+      ],
+      "duration_ms": 134026,
+      "name": "Sound System - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "First Two Seven Inches",
-        "url": "https://open.spotify.com/album/6Sty6rLnMTXFjKxKUZEfmy"
-      },
-      "artists": [
-        {
-          "name": "Minor Threat",
-          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
-        }
-      ],
-      "duration_ms": 45160,
-      "name": "Straight Edge",
-      "url": "https://open.spotify.com/track/1x8N5sNHdQtY328uP5DxIp"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Damaged",
         "url": "https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 116440,
       "name": "White Riot - Remastered",
       "url": "https://open.spotify.com/track/0brrVj6VnvrG70SjRTnEJA"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "First Two Seven Inches",
+        "url": "https://open.spotify.com/album/6Sty6rLnMTXFjKxKUZEfmy"
+      },
+      "artists": [
+        {
+          "name": "Minor Threat",
+          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
+        }
+      ],
+      "duration_ms": 45160,
+      "name": "Straight Edge",
+      "url": "https://open.spotify.com/track/1x8N5sNHdQtY328uP5DxIp"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "New York Dolls",
-        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
-      },
-      "artists": [
-        {
-          "name": "New York Dolls",
-          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
-        }
-      ],
-      "duration_ms": 188306,
-      "name": "Trash",
-      "url": "https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Dance With Me",
         "url": "https://open.spotify.com/album/2mxQVQWGyfh0OhVHJVY23t"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 128906,
       "name": "Code Blue",
       "url": "https://open.spotify.com/track/2OEaDUMy7y35mk78ZWcwTC"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "New York Dolls",
+        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
+      },
+      "artists": [
+        {
+          "name": "New York Dolls",
+          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
+        }
+      ],
+      "duration_ms": 188306,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ"
     },
     {
       "added_at": "2022-11-28 15:26:19",

@@ -953,6 +953,24 @@
     },
     {
       "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Destroy Myself Just For You",
+      "url": "https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB"
+    },
+    {
+      "album": {
         "name": "Three Songs",
         "url": "https://open.spotify.com/album/61H9p7WayFFuWjIfb1dI3T"
       },
@@ -1256,6 +1274,24 @@
       "duration_ms": 124021,
       "name": "Fool",
       "url": "https://open.spotify.com/track/5Yx9t9RgATAtYoHN8gbRM0"
+    },
+    {
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/4FdPaL1MvZtioq0Uf74Jau"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230010,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/2jQiSYrwJehQAcuaaQrXnS"
     },
     {
       "album": {
@@ -2192,7 +2228,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 143960,
       "name": "MEAN!",
       "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
@@ -2550,7 +2586,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
@@ -2922,6 +2958,24 @@
       "duration_ms": 170413,
       "name": "Sweet & Spice",
       "url": "https://open.spotify.com/track/14KaviDbKTubxaPF0ADBL9"
+    },
+    {
+      "album": {
+        "name": "Chase Atlantic",
+        "url": "https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228786,
+      "name": "Swim",
+      "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
     },
     {
       "album": {
@@ -3520,7 +3574,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 189160,
       "name": "Young",
       "url": "https://open.spotify.com/track/1KIJclzEbNhSVw8tiHPWwE"

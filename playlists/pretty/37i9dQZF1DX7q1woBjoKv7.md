@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,363 likes - 58 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,387 likes - 58 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

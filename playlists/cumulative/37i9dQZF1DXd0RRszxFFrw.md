@@ -4,7 +4,7 @@
 
 > Dulces rasgueos de cuerdas para acompañar tu velada
 
-101 songs - 5 hr 49 min
+102 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [La Fuente](https://open.spotify.com/track/4C41YNht2Eupsw096RpcJj) | [Muniesa](https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v) | [La Fuente](https://open.spotify.com/album/5X26QsoSZWmENHqPGwRV3J) | 2:42 | 2022-07-21 |  |
 | [Lagrima](https://open.spotify.com/track/5BI10E53YBSMYbCnKijBEN) | [Alex Albright](https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj) | [Spanish Guitar EP](https://open.spotify.com/album/5qLOiuTrmvrpmPxBuGtaNk) | 1:49 | 2022-06-16 |  |
 | [Las gracias](https://open.spotify.com/track/5WWDAx4xTkbtnIxgvVch2n) | [Pipo Romero](https://open.spotify.com/artist/4ummYkljHZF1YvDE4DSmkq) | [Ikigai](https://open.spotify.com/album/4YwSofiVUy4Ju0nOw21Na6) | 5:36 | 2022-06-16 | 2022-07-26 |
-| [Le Français Argentin](https://open.spotify.com/track/3hBnUS7koSxJorQUmRuFHW) | [Leon Noel](https://open.spotify.com/artist/33HL5KjSpPc12d2m01u6qB), [Roy Altice](https://open.spotify.com/artist/4WbBlvI0I3igsnRaNFzjBb) | [Leon Noel & Roy Altice](https://open.spotify.com/album/1pSdcWvO67Ey07XOjUiuV2) | 2:43 | 2022-06-16 |  |
+| [Le Français Argentin](https://open.spotify.com/track/3hBnUS7koSxJorQUmRuFHW) | [Leon Noel](https://open.spotify.com/artist/33HL5KjSpPc12d2m01u6qB), [Roy Altice](https://open.spotify.com/artist/4WbBlvI0I3igsnRaNFzjBb) | [Leon Noel & Roy Altice](https://open.spotify.com/album/1pSdcWvO67Ey07XOjUiuV2) | 2:43 | 2022-06-16 | 2023-04-27 |
 | [Libertango](https://open.spotify.com/track/7yeilRWdR7rXDpQY1aBmK7) | [William Wilson](https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba) | [Classical Guitar Latin Style](https://open.spotify.com/album/5eMSI07GHlyK9IDojcSXZu) | 4:06 | 2022-06-16 |  |
 | [Madera Negra](https://open.spotify.com/track/4KIDmG6SAq3EQWytkk0gu7) | [Niño Josele](https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT) | [Niño Josele](https://open.spotify.com/album/79653plha39OpqECC3HCln) | 4:05 | 2022-06-16 |  |
 | [Manhã De Carnaval](https://open.spotify.com/track/2T8p7MvybiHtfvvldFJ218) | [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY), [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Paco De Lucia, Al Di Meola, John McLaughlin](https://open.spotify.com/album/3S83H2RAz4qYHibsrEKfm7) | 6:12 | 2022-06-16 |  |
@@ -102,6 +102,7 @@
 | [Tierra Mestiza](https://open.spotify.com/track/2s4SLxIaORw4KQSMIyMb9l) | [Gerardo Tamez](https://open.spotify.com/artist/6kX0LY1Cv1cE5FbsiSHwCF), [Terceto De Guitarras De La Ciudad De Mexico](https://open.spotify.com/artist/0ny4eZbPXPp631aVhUi7qV) | [Querencia](https://open.spotify.com/album/67mxe3mnxhw7YrOqMnNczL) | 3:39 | 2022-06-16 |  |
 | [Toda Esta Gente](https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Toda Esta Gente](https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1) | 2:31 | 2022-06-16 |  |
 | [Train to Rishikesh](https://open.spotify.com/track/5NQqC3Xs5CSHiZOEFOOWSa) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Luminosity](https://open.spotify.com/album/5WKBnocziOjEf0A3Sqpm7a) | 5:32 | 2022-06-16 |  |
+| [Tristango](https://open.spotify.com/track/6juXPawVLvlQa75fXRylSZ) | [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz) | [Tristango](https://open.spotify.com/album/3v4uvZAjwkygczMxSZQFcC) | 3:19 | 2022-10-27 |  |
 | [Tristeza](https://open.spotify.com/track/70TVybeswXr3k78pxpKDZW) | [Baden Powell](https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr) | [Tristeza on Guitar](https://open.spotify.com/album/4wfmncWQNUgblCu0XV4xKp) | 3:22 | 2022-06-16 |  |
 | [Venezia](https://open.spotify.com/track/4m7vJDwcKHUTMiWFjAJUEi) | [Liam Stoler](https://open.spotify.com/artist/3siLaFiKTJUQKTTkUS8xaR) | [Venezia](https://open.spotify.com/album/3AwXe36NVPSvuhPPIZq7PH) | 3:52 | 2022-06-16 | 2022-11-13 |
 | [Vibrante](https://open.spotify.com/track/3hzl8wmLDAMg1KCGz93bo9) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Vibrante](https://open.spotify.com/album/4fY4gJd79MfpOGKgFLRNWc) | 3:16 | 2022-06-16 |  |

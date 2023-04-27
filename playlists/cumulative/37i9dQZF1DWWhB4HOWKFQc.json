@@ -294,7 +294,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 197400,
       "name": "Bertauhid",
       "url": "https://open.spotify.com/track/2pQ6I2NzRL0dsGc3D5Im5F"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 217000,
       "name": "Blue Hair",
       "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t"
@@ -599,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Nine Track Mind",
+        "url": "https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199133,
+      "name": "Dangerously",
+      "url": "https://open.spotify.com/track/6GBMbvX7sqyOxT5wWK4hgN"
+    },
+    {
+      "album": {
         "name": "Die For You (Remix)",
         "url": "https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy"
       },
@@ -871,6 +889,24 @@
     },
     {
       "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216410,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
+    },
+    {
+      "album": {
         "name": "Jakarta Hari Ini",
         "url": "https://open.spotify.com/album/1Kw6W5Pj7gvROUJJRqBMzq"
       },
@@ -944,7 +980,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 246674,
       "name": "Kamu Cantik Kamu Baik",
       "url": "https://open.spotify.com/track/4lK7zM6W6QHu9GNdR2BX8i"
@@ -1110,7 +1146,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 148640,
       "name": "Love Songs - Bonus",
       "url": "https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv"
@@ -1371,13 +1407,35 @@
     },
     {
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239613,
+      "name": "Open Arms (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/0xaFw2zDYf1rIJWl2dXiSF"
+    },
+    {
+      "album": {
         "name": "People",
         "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
       },
       "artists": [
         {
           "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+          "url": "https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF"
         }
       ],
       "date_added": "2023-03-23",
@@ -1386,6 +1444,28 @@
       "duration_ms": 184791,
       "name": "People",
       "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
+    },
+    {
+      "album": {
+        "name": "People (Remixes)",
+        "url": "https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF"
+        },
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184633,
+      "name": "People (feat. Cian Ducrot)",
+      "url": "https://open.spotify.com/track/0SCOKZU2gpsrvLa4T1VStt"
     },
     {
       "album": {

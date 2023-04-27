@@ -555,6 +555,28 @@
     },
     {
       "album": {
+        "name": "Bukan Ku Tak Sudi",
+        "url": "https://open.spotify.com/album/6x30MeoOMh3ROo5jrlrY9w"
+      },
+      "artists": [
+        {
+          "name": "Usop",
+          "url": "https://open.spotify.com/artist/4Gva5ICIXF9VvD8AEIyOSX"
+        },
+        {
+          "name": "Apex Tajudin",
+          "url": "https://open.spotify.com/artist/2XJ2ePxUF5CnYf2VRPo6la"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224932,
+      "name": "Bukan Ku Tak Sudi",
+      "url": "https://open.spotify.com/track/3ZLT0HblDRAA2VtigVUy8z"
+    },
+    {
+      "album": {
         "name": "Bukan Milikmu",
         "url": "https://open.spotify.com/album/4mvPsc8drKxg40vjva9y1d"
       },
@@ -1730,7 +1752,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 308537,
       "name": "Keluarga Bahagia",
       "url": "https://open.spotify.com/track/2O4iDAgnQauDgSa1nX3UtN"
@@ -2694,7 +2716,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 179277,
       "name": "Raya Last Minit",
       "url": "https://open.spotify.com/track/1NydXnZZF959b1cf1ZG9P9"
@@ -3250,7 +3272,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-30",
+      "date_removed": null,
       "duration_ms": 199000,
       "name": "Sesaat Kau Hadir",
       "url": "https://open.spotify.com/track/72MEldEAmz3WMJ2MkII3kP"

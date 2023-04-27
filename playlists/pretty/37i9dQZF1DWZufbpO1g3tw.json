@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Picositos y con mucho sabor! ",
-  "num_followers": 39778,
+  "num_followers": 39794,
   "original_name": "Los Chilaquiles",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0NDQ2NSwwMDAwMDAwMDYyZWE4Y2QxMjE0MTc4MzUwY2ZhY2FmMWQ4YmNhNmJi",
+  "snapshot_id": "MTY3MTY0NDQ2NSwwMDAwMDAwMGNlMWExMmM0NzlkMmVjYWZjOTNlMmI5OWMwMGQ4ZTMw",
   "tracks": [
     {
       "added_at": "2022-10-28 19:05:39",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis"
+        }
+      ],
+      "duration_ms": 201084,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
         "name": "Super Grupo Colombia",
         "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
       },
@@ -843,22 +859,6 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
-      },
-      "artists": [
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis"
-        }
-      ],
-      "duration_ms": 201084,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
         "name": "16 Enormes \u00c9xitos",
         "url": "https://open.spotify.com/album/0nzrY6r02nNFuJ4fiibB5w"
       },
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "Coraz\u00f3n M\u00e1gico",
-        "url": "https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 160653,
-      "name": "Las Mulas De Moreno",
-      "url": "https://open.spotify.com/track/3sn9KvzdpRee9gVOrPTRCV"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
         "name": "Solo Cumbias",
         "url": "https://open.spotify.com/album/3OrPozsgIvSVIZRXfNNwex"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 224182,
       "name": "Lejan\u00eda",
       "url": "https://open.spotify.com/track/6uba6FMkBMkQGzDhzXnPf3"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
+        "name": "Coraz\u00f3n M\u00e1gico",
+        "url": "https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 160653,
+      "name": "Las Mulas De Moreno",
+      "url": "https://open.spotify.com/track/3sn9KvzdpRee9gVOrPTRCV"
     },
     {
       "added_at": "2022-10-28 19:05:39",

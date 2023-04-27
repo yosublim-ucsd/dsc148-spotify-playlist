@@ -1,12 +1,12 @@
 {
   "description": "Los mejores nuevos y viejos temas para cantar y perrear detr\u00e1s del volante.",
-  "num_followers": 115615,
+  "num_followers": 115699,
   "original_name": "Maneja con Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQzMjM3OCwwMDAwMDAwMDgwYTdmYTYzMzJmN2QzODFjY2NiNzAyOWI1ZWIxMzRl",
+  "snapshot_id": "MTY4MTQzMjM3OCwwMDAwMDAwMDUyMDAzYmJkNDM0YTE5YWIxNTk0ODEwMTY4OTg5OGVj",
   "tracks": [
     {
       "added_at": "2023-02-24 16:53:37",
@@ -267,26 +267,6 @@
     {
       "added_at": "2023-02-24 16:53:37",
       "album": {
-        "name": "Desesperados",
-        "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 224996,
-      "name": "Desesperados",
-      "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
-    },
-    {
-      "added_at": "2023-02-24 16:53:37",
-      "album": {
         "name": "Volv\u00ed",
         "url": "https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 230125,
       "name": "Volv\u00ed",
       "url": "https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi"
+    },
+    {
+      "added_at": "2023-02-24 16:53:37",
+      "album": {
+        "name": "Desesperados",
+        "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 224996,
+      "name": "Desesperados",
+      "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
     },
     {
       "added_at": "2023-02-24 16:53:37",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-02-24 16:53:37",
       "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "C\u00farame",
+      "url": "https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA"
+    },
+    {
+      "added_at": "2023-02-24 16:53:37",
+      "album": {
         "name": "Te Vi",
         "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 231848,
       "name": "Te Vi",
       "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
-    },
-    {
-      "added_at": "2023-02-24 16:53:37",
-      "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "C\u00farame",
-      "url": "https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA"
     },
     {
       "added_at": "2023-02-24 16:53:37",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-02-24 16:53:37",
       "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 263899,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI"
+    },
+    {
+      "added_at": "2023-02-24 16:53:37",
+      "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 151988,
       "name": "LA NENA DE ARGENTINA",
       "url": "https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI"
-    },
-    {
-      "added_at": "2023-02-24 16:53:37",
-      "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2023-02-24 16:53:37",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-02-24 16:53:37",
       "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
       },
       "artists": [
         {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 263899,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI"
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2023-02-24 16:53:37",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-02-24 16:53:37",
       "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 208291,
+      "name": "Sexo Virtual",
+      "url": "https://open.spotify.com/track/1lV3QHHMAQt0Kc1ioZq2MP"
+    },
+    {
+      "added_at": "2023-02-24 16:53:37",
+      "album": {
         "name": "L-Gante: Bzrp Music Sessions, Vol. 38",
         "url": "https://open.spotify.com/album/6ScNKLKYY6rpgCIJThLnMH"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 192347,
       "name": "L-Gante: Bzrp Music Sessions, Vol.38",
       "url": "https://open.spotify.com/track/1Crj1zkRMpsEjb9NOR6Zof"
-    },
-    {
-      "added_at": "2023-02-24 16:53:37",
-      "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 208291,
-      "name": "Sexo Virtual",
-      "url": "https://open.spotify.com/track/1lV3QHHMAQt0Kc1ioZq2MP"
     },
     {
       "added_at": "2023-02-24 16:53:37",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2023-02-24 16:53:37",
       "album": {
-        "name": "Revelaci\u00f3n - EP",
-        "url": "https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 186087,
-      "name": "Baila Conmigo (with Rauw Alejandro)",
-      "url": "https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h"
-    },
-    {
-      "added_at": "2023-02-24 16:53:37",
-      "album": {
         "name": "Hola (Remix)",
         "url": "https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 249520,
       "name": "Hola - Remix",
       "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
+    },
+    {
+      "added_at": "2023-02-24 16:53:37",
+      "album": {
+        "name": "Revelaci\u00f3n - EP",
+        "url": "https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 186087,
+      "name": "Baila Conmigo (with Rauw Alejandro)",
+      "url": "https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h"
     },
     {
       "added_at": "2023-02-24 16:53:37",
@@ -1215,18 +1215,26 @@
     {
       "added_at": "2023-02-24 16:53:37",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         }
       ],
-      "duration_ms": 184435,
-      "name": "HP",
-      "url": "https://open.spotify.com/track/1LIqNVhaIgxXUt2eVoIQJ3"
+      "duration_ms": 221653,
+      "name": "Me Niego (feat. Ozuna & Wisin)",
+      "url": "https://open.spotify.com/track/4ggiDYAkJ7Yk8d5xOr7Xjo"
     },
     {
       "added_at": "2023-02-24 16:53:37",
@@ -1259,26 +1267,18 @@
     {
       "added_at": "2023-02-24 16:53:37",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD"
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 221653,
-      "name": "Me Niego (feat. Ozuna & Wisin)",
-      "url": "https://open.spotify.com/track/4ggiDYAkJ7Yk8d5xOr7Xjo"
+      "duration_ms": 184435,
+      "name": "HP",
+      "url": "https://open.spotify.com/track/1LIqNVhaIgxXUt2eVoIQJ3"
     },
     {
       "added_at": "2023-02-24 16:53:37",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-02-24 16:53:37",
       "album": {
-        "name": "DI LETRA",
-        "url": "https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn"
-      },
-      "artists": [
-        {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
-        }
-      ],
-      "duration_ms": 197586,
-      "name": "Mi Cuarto",
-      "url": "https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ"
-    },
-    {
-      "added_at": "2023-02-24 16:53:37",
-      "album": {
         "name": "Navegando",
         "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 181845,
       "name": "Detente",
       "url": "https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX"
+    },
+    {
+      "added_at": "2023-02-24 16:53:37",
+      "album": {
+        "name": "DI LETRA",
+        "url": "https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn"
+      },
+      "artists": [
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "duration_ms": 197586,
+      "name": "Mi Cuarto",
+      "url": "https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ"
     },
     {
       "added_at": "2023-02-24 16:53:37",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-02-24 16:53:37",
       "album": {
+        "name": "54+1",
+        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 155058,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/4DbhxwlkhTbCTqlZptxmI6"
+    },
+    {
+      "added_at": "2023-02-24 16:53:37",
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/7gnUxSrGT4npGYuFXwQTO4"
       },
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2023-02-24 16:53:37",
       "album": {
-        "name": "54+1",
-        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 155058,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/4DbhxwlkhTbCTqlZptxmI6"
-    },
-    {
-      "added_at": "2023-02-24 16:53:37",
-      "album": {
         "name": "Chica Ideal",
         "url": "https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct"
       },
@@ -1599,22 +1599,6 @@
       "duration_ms": 183240,
       "name": "Chica Ideal",
       "url": "https://open.spotify.com/track/21N4Buj4xsyLb218lYle61"
-    },
-    {
-      "added_at": "2023-02-24 16:53:37",
-      "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 215891,
-      "name": "911",
-      "url": "https://open.spotify.com/track/2TksvaRivgAEj780DgRB73"
     },
     {
       "added_at": "2023-02-24 16:53:37",
@@ -1655,6 +1639,22 @@
       "duration_ms": 217253,
       "name": "Indeciso",
       "url": "https://open.spotify.com/track/59s0s39NFWScuHDbHytI14"
+    },
+    {
+      "added_at": "2023-02-24 16:53:37",
+      "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 215891,
+      "name": "911",
+      "url": "https://open.spotify.com/track/2TksvaRivgAEj780DgRB73"
     }
   ],
   "unique_name": "Maneja con Reggaet\u00f3n",

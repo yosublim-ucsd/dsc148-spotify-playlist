@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 
 > The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre\. Cover: Ray Charles
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,718 likes - 64 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,747 likes - 64 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 7 | [Hard Times \(No One Knows Better Than I\)](https://open.spotify.com/track/4ADzk9oX44sCGJPE5OjNcW) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Genius Sings the Blues](https://open.spotify.com/album/6htjXDcCIWm6rC0HNlFc0a) | 2:55 |
 | 8 | [Hey, Bartender](https://open.spotify.com/track/0eIvaD41ZuT8Eg5uDvfSKs) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [Wake Up And Live!](https://open.spotify.com/album/4wlMMYcqmpUXzf5TmpZ1rQ) | 3:25 |
 | 9 | [Bird in a Cage](https://open.spotify.com/track/2Xx66yeqdxjPViOEkKFkB4) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Sweet Giant of the Blues](https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw) | 6:06 |
-| 10 | [Louella](https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Presumed Innocent](https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn) | 4:27 |
+| 10 | [Tanqueray](https://open.spotify.com/track/7eGAVjUPCA6sQ0vR3xenwf) | [Johnnie Johnson](https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY) | [Johnnie B\. Bad](https://open.spotify.com/album/6kCsbrIJOMSRdZI0T3wsRD) | 4:54 |
 | 11 | [Evil Woman](https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 4:21 |
-| 12 | [Tanqueray](https://open.spotify.com/track/7eGAVjUPCA6sQ0vR3xenwf) | [Johnnie Johnson](https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY) | [Johnnie B\. Bad](https://open.spotify.com/album/6kCsbrIJOMSRdZI0T3wsRD) | 4:54 |
+| 12 | [Louella](https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Presumed Innocent](https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn) | 4:27 |
 | 13 | [Milk And Water](https://open.spotify.com/track/4Bo2E1DybKQL2radivMQFA) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 3:10 |
 | 14 | [Boogie In "G"](https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ) | [Camille Howard](https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX) | [Rock Me Daddy, Vol\. 1](https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD) | 2:34 |
 | 15 | [Country Girl](https://open.spotify.com/track/51cYl5SvZURtIKvPx3xSRu) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55), [Willie "Big Eyes" Smith](https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng), [Calvin "fuzz" Jones](https://open.spotify.com/artist/5zQ0mnqRSt39lqzodnSIMb) | [Eye to Eye](https://open.spotify.com/album/4qeeoJt7NRA6hPXYrIMguD) | 4:48 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 29 | [Key to the Highway](https://open.spotify.com/track/0KmVzmqMXi24EusC3MwlBB) | [Johnnie Johnson](https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY) | [Johnnie B\. Bad](https://open.spotify.com/album/6kCsbrIJOMSRdZI0T3wsRD) | 3:22 |
 | 30 | [Take It Easy](https://open.spotify.com/track/7LmI63pR8aUSjKNySdbffC) | [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55) | [Down In Mississippi](https://open.spotify.com/album/0QWm32Qy7kRhGzhms5EtKH) | 3:43 |
 | 31 | [Everytime I Get to Drinking](https://open.spotify.com/track/11YPTpoSLvcOBGB7keHcNi) | [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [I Didn't Give a Damn If Whites Bought It, Vol\. 4](https://open.spotify.com/album/0bbZ3fsCdmUiKiZwVkY8W8) | 4:15 |
-| 32 | [Big Town Playboy](https://open.spotify.com/track/4hFZeihCVWuFsxMyal96k8) | [Little Johnny Jones](https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4) | [The Chess Story 1947\-1956](https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf) | 2:55 |
-| 33 | [Roll 'Em Pete](https://open.spotify.com/track/4gqwSjQJBaqB1LYNyAfQsj) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Jumpin' With Joe](https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM) | 2:55 |
+| 32 | [Roll 'Em Pete](https://open.spotify.com/track/4gqwSjQJBaqB1LYNyAfQsj) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Jumpin' With Joe](https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM) | 2:55 |
+| 33 | [Big Town Playboy](https://open.spotify.com/track/4hFZeihCVWuFsxMyal96k8) | [Little Johnny Jones](https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4) | [The Chess Story 1947\-1956](https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf) | 2:55 |
 | 34 | [Anytime, Anyplace, Anywhere](https://open.spotify.com/track/1MqeY8vtJ435Oaj2suvtbW) | [Hadda Brooks](https://open.spotify.com/artist/1NJubf2lWeNdXONuic4fir) | [I've Got News For You](https://open.spotify.com/album/4LrFiga7TeKlnDhCngvSUl) | 3:09 |
 | 35 | [It Hurts Me Too](https://open.spotify.com/track/59OhaqAccfavOAymsUSk4W) | [Bruce Katz](https://open.spotify.com/artist/3Nzai6Pe5noXPC8JsYtO57) | [Solo Ride](https://open.spotify.com/album/7jeC6jeaPD5DlVjYkekS29) | 3:45 |
 | 36 | [Fluff Boogie](https://open.spotify.com/track/53JbbJdZKRifKvPhVAOVG9) | [Camille Howard](https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX) | [X\-Temporaneous Boogie](https://open.spotify.com/album/7gKcCISq4MdFPIcslAvznp) | 2:19 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 60 | [My Baby's Gone](https://open.spotify.com/track/1ORs7J8remmKEDvAMotH29) | [Lazy Bill Lucas](https://open.spotify.com/artist/4v9Nt1CRGlHHdDX1sIXuAq) | [Best of Blues Vol\. 6: Postwar Chicago Blues III \(Collection Gerard Herzhaft \- Remastered\)](https://open.spotify.com/album/3wIt6N0fd9c6ittIk8BpcZ) | 2:46 |
 | 61 | [Dices Blues](https://open.spotify.com/track/1SpInnSzoo1rAKv0BNQyrC) | [Big Chief Ellis](https://open.spotify.com/artist/1wVEYaqTmGsl3i7np7xQjW) | [Classic Piano Blues from Smithsonian Folkways](https://open.spotify.com/album/2v3tVwUhutMHIHeUd8lFaL) | 4:58 |
 | 62 | [Pocketful Of Money](https://open.spotify.com/track/0Y43UwP73ZgegwdVQh4oGY) | [Roosevelt Sykes](https://open.spotify.com/artist/0K0qr72ojMFr5dMkUKgbW5) | [The Honeydripper](https://open.spotify.com/album/6ItEdGX4FUD7O1MFPeUoLm) | 2:32 |
-| 63 | [I'll Be Right Some Day](https://open.spotify.com/track/3OpoVrckZ1J2IhAri7bWKl) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Nail Jumping](https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4) | 2:26 |
-| 64 | [Me and My Gin](https://open.spotify.com/track/5L4sfgGbYh7CgXVBTmUcfz) | [Jimmie Gordon](https://open.spotify.com/artist/6XrOb8biVVH7gH09AIjB7l) | [This Is the Blues! Vol\. 7 \(Mono Version\)](https://open.spotify.com/album/4U9fxJlHlKvp5GwKmenuQ3) | 3:12 |
+| 63 | [Me and My Gin](https://open.spotify.com/track/5L4sfgGbYh7CgXVBTmUcfz) | [Jimmie Gordon](https://open.spotify.com/artist/6XrOb8biVVH7gH09AIjB7l) | [This Is the Blues! Vol\. 7 \(Mono Version\)](https://open.spotify.com/album/4U9fxJlHlKvp5GwKmenuQ3) | 3:12 |
+| 64 | [I'll Be Right Some Day](https://open.spotify.com/track/3OpoVrckZ1J2IhAri7bWKl) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Nail Jumping](https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4) | 2:26 |
 
-Snapshot ID: `MTY1MjQzODk0OCwwMDAwMDAwMDE3NTMwMjQxYTAyZjA1NGFjNWYzMjM5YjFiMTdjOWQz`
+Snapshot ID: `MTY1MjQzODk0OCwwMDAwMDAwMDRjODdkNTRiNDRlMWJlYjk5ZDRhNGUzMDJkMjIyYTdk`

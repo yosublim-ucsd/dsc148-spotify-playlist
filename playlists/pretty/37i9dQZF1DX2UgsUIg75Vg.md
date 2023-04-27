@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Jerome Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,324,134 likes - 131 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,324,412 likes - 131 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 31 | [Outside](https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Outside](https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY) | 3:25 |
 | 32 | [Tam Tam](https://open.spotify.com/track/7FSDdDPjsoZKdTXDyK8vm6) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM) | [Tam Tam](https://open.spotify.com/album/0RICZt0FIkBcLYZ9Z9Mqhx) | 3:32 |
 | 33 | [calm & patient](https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [calm & patient](https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg) | 3:33 |
-| 34 | [Fatal Attraction](https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Fatal Attraction](https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT) | 3:16 |
+| 34 | [Fatal Attraction](https://open.spotify.com/track/3y9JbvYZAhVeQsAECrKAgt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:16 |
 | 35 | [Blue](https://open.spotify.com/track/0PfurdlOZRYJ6pkrvHOkUh) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 3:12 |
 | 36 | [Water My Heart \(feat\. Mereba\)](https://open.spotify.com/track/5CisgeB65yWttE54rFIfZ4) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Water My Heart \(feat\. Mereba\)](https://open.spotify.com/album/3s8P0go7OUTdf9NzZFS15a) | 3:42 |
 | 37 | [Consent](https://open.spotify.com/track/6PcyrTnlBWnm3TnZedrQtt) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA) | [Analyze Love](https://open.spotify.com/album/3tMt7EOBb1KBbfiKKJaWKj) | 3:46 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 63 | [Look My Way](https://open.spotify.com/track/2AvdB48FWJJMKzKeWgPt1R) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Look My Way](https://open.spotify.com/album/2GyWrPZ5ziSDUezZyhllEq) | 2:54 |
 | 64 | [Trillions \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/5md3aeM1WaEjDec9gH21yW) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [KEYS II](https://open.spotify.com/album/4z4IDBBvwAl3SyUOorj5M0) | 2:53 |
 | 65 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 |
-| 66 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
+| 66 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
 | 67 | [Super](https://open.spotify.com/track/0uy7gpsoHJvXBU7EI1c80W) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO), [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO) | [Super](https://open.spotify.com/album/1hmpZwKow6UgeZalIw7qq6) | 3:01 |
 | 68 | [Layin Next to Me](https://open.spotify.com/track/11BHnIy9pbdihg8PeqiCgt) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [Layin Next to Me](https://open.spotify.com/album/1jhFza8pUS6acLiZXNYdJx) | 3:37 |
 | 69 | [Candlelight](https://open.spotify.com/track/4RK7tE3Ro6NUcDJfW7Z4Zn) | [SHERIE](https://open.spotify.com/artist/22QPHxxyb3RvIFvct9EAbu), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Candlelight](https://open.spotify.com/album/5ujyjNivHF765vciSmLnxb) | 3:37 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 130 | [TALK TO ME \- TOO LATE](https://open.spotify.com/track/5dBbcUqd5nh5kPKzMotgjr) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 2:52 |
 | 131 | [Open Up](https://open.spotify.com/track/0MPUFzx6mhOD8CSDLMISna) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO), [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO) | [Intersections](https://open.spotify.com/album/1mhJA30itw9ItQOGXb9s4N) | 3:38 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMGU4ZGVkOTc0NDlhZGU4Y2RjZjAxY2ExMWYxZDUxYWU0`
+Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDNmMzVhNWZjZWYwNmRkODNlODhkZTIxMzI4Njc2MWVj`

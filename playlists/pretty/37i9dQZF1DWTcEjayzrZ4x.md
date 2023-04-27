@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 
 > Relaxing instrumental Jazz with a cool and soft sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,779 likes - 419 songs - 1 day 0 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,016 likes - 419 songs - 1 day 0 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -368,7 +368,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 | 358 | [Sometimes](https://open.spotify.com/track/5cSBt7nIxZ8oRhUmn5YbT0) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [Sometimes](https://open.spotify.com/album/26YUzNz77yd2ca8gLBSqXT) | 3:03 |
 | 359 | [Infant Eyes](https://open.spotify.com/track/0Cgg4UFV8Du0Kg0wLHUa1k) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Infant Eyes](https://open.spotify.com/album/6O9lAPhLztpO0LNKzFbOXO) | 3:52 |
 | 360 | [Sun Souls](https://open.spotify.com/track/38YetMSYVQW7jRN1CxaHpA) | [Tosh Rhann Band](https://open.spotify.com/artist/0VO3Qw7YVwTbXhBx6neI0e) | [Of Laughter and Warmth](https://open.spotify.com/album/0Uq5FeJyKcIEUv07HQJPGc) | 2:38 |
-| 361 | [Old Folks](https://open.spotify.com/track/0xnWsv0kNVeONjhiFvEyWw) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm) | [A Ballad Moment](https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl) | 4:51 |
+| 361 | [Old Folks](https://open.spotify.com/track/0xnWsv0kNVeONjhiFvEyWw) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Ballad Moment](https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl) | 4:51 |
 | 362 | [We'll Be Together Again](https://open.spotify.com/track/61AfCvc8HNqukDiqgLs1yF) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [We'll Be Together Again](https://open.spotify.com/album/3lWvifGDuUhFsCyxg8ixPn) | 4:29 |
 | 363 | [Little Person](https://open.spotify.com/track/45zlIlHtm9DUYnEBYw8Lkq) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Tim Lefebvre](https://open.spotify.com/artist/0f92BXRSv36fG7o3QxCQ38), [Eric Schaefer](https://open.spotify.com/artist/78fgcTfahAcbrhArWRfzVg) | [Weltentraum](https://open.spotify.com/album/6rthWlGJUS1UVi4ilMwgmj) | 3:43 |
 | 364 | [Everything I Love](https://open.spotify.com/track/4Eq5ResH0UYm5u6EuG2VYk) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [Everything I Love](https://open.spotify.com/album/3IdFiT8WYcniX82XftHDhF) | 3:44 |

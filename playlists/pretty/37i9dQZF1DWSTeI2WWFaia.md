@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Hit\-Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,611,895 likes - 48 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,612,093 likes - 48 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 43 | [Kill Switch](https://open.spotify.com/track/6L7vf5MEgmwnfkSnNdI84y) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV), [J Rocc](https://open.spotify.com/artist/76Bkn226zbX3IMiEiLC2h2) | [Ways of Knowing](https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO) | 3:21 |
 | 44 | [Becoming](https://open.spotify.com/track/3XnjwiaFgTM45NmfCtDldk) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Blanco 6](https://open.spotify.com/album/2yRwXVqJ8Bz1jYUEghIsTk) | 2:51 |
 | 45 | [Candle of the Devil](https://open.spotify.com/track/253jYqFG4uZUVVjFYQZ2Yg) | [R\-Mean](https://open.spotify.com/artist/4QE3ZjcqH5AIJ3o2tTzDXP), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Scott Storch](https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01) | [Candle of the Devil](https://open.spotify.com/album/4DawXkWA7JwmDoF07SteyI) | 3:14 |
-| 46 | [Still In America](https://open.spotify.com/track/3ZzQQZcaLD8S1IgblayfX6) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Church Clothes 4](https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny) | 3:21 |
-| 47 | [FaceTime](https://open.spotify.com/track/2bj4KknKzsI0BbtTnRu0O4) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Kenny Segal](https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [FaceTime](https://open.spotify.com/album/6rJX3JImDualjhMEgYjQ6j) | 3:32 |
+| 46 | [FaceTime](https://open.spotify.com/track/2bj4KknKzsI0BbtTnRu0O4) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Kenny Segal](https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [FaceTime](https://open.spotify.com/album/6rJX3JImDualjhMEgYjQ6j) | 3:32 |
+| 47 | [Still In America](https://open.spotify.com/track/3ZzQQZcaLD8S1IgblayfX6) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Church Clothes 4](https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny) | 3:21 |
 | 48 | [Big Money](https://open.spotify.com/track/4TVhyPsVcbNP2xZcmnSZrN) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [Meyhem Lauren](https://open.spotify.com/artist/4lph4e07jjlKkioG1bQx95), [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS) | [Champagne For Breakfast](https://open.spotify.com/album/5pA2URj3rPHWDoSnInQpjD) | 3:25 |
 
-Snapshot ID: `MTY4MjEyODk2NywwMDAwMDAwMDNmNWIyZjEzYzQxNjVkMTNlNDZjOTE2NmI1MWZiOGFm`
+Snapshot ID: `MTY4MjEyODk2NywwMDAwMDAwMGFmYzVjYTBkYWE5ZmNkMjI1MjE3ZDVhZjUxZjQ5YTVi`

@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: Rezz",
-  "num_followers": 206902,
+  "num_followers": 207022,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDEzODAwYWFhNjhlNjY0MTE2ZTM1YTlhNjAyY2JiN2U0",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGM3OGEwMmM2MDYwMDdjMWY3OWIwMmRhMjU0MGM2MjJk",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -727,30 +727,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Shady Intentions (feat. Tori Levett) [VIP]",
-        "url": "https://open.spotify.com/album/5JmKOq0STayo8YdKHLIs7B"
-      },
-      "artists": [
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "Tori Levett",
-          "url": "https://open.spotify.com/artist/0VXSswAMDSlObSftPEkPqL"
-        }
-      ],
-      "duration_ms": 182278,
-      "name": "Shady Intentions (feat. Tori Levett) - VIP",
-      "url": "https://open.spotify.com/track/0H7ohNCf0NzJQdtm0045RR"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Tibet",
         "url": "https://open.spotify.com/album/6mQ61LMEZzW5HAvFWFumbK"
       },
@@ -771,6 +747,30 @@
       "duration_ms": 403676,
       "name": "Tibet",
       "url": "https://open.spotify.com/track/7xvl39LuJ8o5yeHR1kta90"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Shady Intentions (feat. Tori Levett) [VIP]",
+        "url": "https://open.spotify.com/album/5JmKOq0STayo8YdKHLIs7B"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Tori Levett",
+          "url": "https://open.spotify.com/artist/0VXSswAMDSlObSftPEkPqL"
+        }
+      ],
+      "duration_ms": 182278,
+      "name": "Shady Intentions (feat. Tori Levett) - VIP",
+      "url": "https://open.spotify.com/track/0H7ohNCf0NzJQdtm0045RR"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/52LZqPQzZHwR0tLq76E1w4"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        }
+      ],
+      "duration_ms": 204761,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/03GJQ4KeNYCyr2P7N45ajo"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Empress (Zeds Dead Remix)",
         "url": "https://open.spotify.com/album/3cm2AeJxXUCePRrRzzTnWG"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 134148,
       "name": "Empress - Zeds Dead Remix",
       "url": "https://open.spotify.com/track/5w9XTPbDewcXuKaseMFwlj"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "The Reason",
-        "url": "https://open.spotify.com/album/52LZqPQzZHwR0tLq76E1w4"
-      },
-      "artists": [
-        {
-          "name": "Kyle Watson",
-          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
-        }
-      ],
-      "duration_ms": 204761,
-      "name": "The Reason",
-      "url": "https://open.spotify.com/track/03GJQ4KeNYCyr2P7N45ajo"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1035,26 +1035,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "B\u20acNZ",
-        "url": "https://open.spotify.com/album/5xLgpnSUHopno8qcuJA67z"
+        "name": "Thrones of Blood",
+        "url": "https://open.spotify.com/album/3bA9JNdeH91Id0ilofZlVX"
       },
       "artists": [
         {
-          "name": "\u20acURO TRA$H",
-          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
         },
         {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        },
-        {
-          "name": "Syaqish",
-          "url": "https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq"
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
         }
       ],
-      "duration_ms": 244218,
-      "name": "B\u20acNZ",
-      "url": "https://open.spotify.com/track/57UFzhgsL7Q4lxaEKosMSb"
+      "duration_ms": 320853,
+      "name": "Fall Apart",
+      "url": "https://open.spotify.com/track/0o4nOUsrcHCKMu74kUlxDS"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1079,22 +1075,26 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Thrones of Blood",
-        "url": "https://open.spotify.com/album/3bA9JNdeH91Id0ilofZlVX"
+        "name": "B\u20acNZ",
+        "url": "https://open.spotify.com/album/5xLgpnSUHopno8qcuJA67z"
       },
       "artists": [
         {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+          "name": "\u20acURO TRA$H",
+          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
         },
         {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Syaqish",
+          "url": "https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq"
         }
       ],
-      "duration_ms": 320853,
-      "name": "Fall Apart",
-      "url": "https://open.spotify.com/track/0o4nOUsrcHCKMu74kUlxDS"
+      "duration_ms": 244218,
+      "name": "B\u20acNZ",
+      "url": "https://open.spotify.com/track/57UFzhgsL7Q4lxaEKosMSb"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Collecting Thoughts",
-        "url": "https://open.spotify.com/album/7vMJWsVV5RVQGGV9MtsS9M"
-      },
-      "artists": [
-        {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
-        },
-        {
-          "name": "ShockOne",
-          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
-        }
-      ],
-      "duration_ms": 205738,
-      "name": "Collecting Thoughts",
-      "url": "https://open.spotify.com/track/4iZjLwKa4VUZBeeMvgyNeL"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Heritage",
         "url": "https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 253200,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/2kY3zw2cGQOG3IL6gMW20R"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Collecting Thoughts",
+        "url": "https://open.spotify.com/album/7vMJWsVV5RVQGGV9MtsS9M"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        },
+        {
+          "name": "ShockOne",
+          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
+        }
+      ],
+      "duration_ms": 205738,
+      "name": "Collecting Thoughts",
+      "url": "https://open.spotify.com/track/4iZjLwKa4VUZBeeMvgyNeL"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1399,6 +1399,26 @@
       "duration_ms": 145777,
       "name": "Party All Night",
       "url": "https://open.spotify.com/track/6MCsbkXWaDDa408N1pUky7"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Molotov",
+        "url": "https://open.spotify.com/album/1EdnERTVSGKrVPNq7tb44e"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "duration_ms": 178065,
+      "name": "Molotov",
+      "url": "https://open.spotify.com/track/6FggaqcdwsE4pocJ5GaWxr"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1475,26 +1495,6 @@
       "duration_ms": 179094,
       "name": "Bugbeat",
       "url": "https://open.spotify.com/track/7ukIYN8wvyAIpPAEU5nCbK"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Molotov",
-        "url": "https://open.spotify.com/album/1EdnERTVSGKrVPNq7tb44e"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        },
-        {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        }
-      ],
-      "duration_ms": 178065,
-      "name": "Molotov",
-      "url": "https://open.spotify.com/track/6FggaqcdwsE4pocJ5GaWxr"
     },
     {
       "added_at": "2023-03-31 04:00:00",

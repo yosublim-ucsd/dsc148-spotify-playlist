@@ -4,7 +4,7 @@
 
 > Qué bonito se siente el amor\. 💘
 
-224 songs - 13 hr 17 min
+225 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [NEGRO MATE](https://open.spotify.com/track/2OsclrHyXnqYmKm6ji1vij) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [NUEVE](https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R) | 2:51 | 2022-02-01 |  |
 | [Niña Bonita \- Acústico](https://open.spotify.com/track/6yb8ktQyg2mH4fOUeIYkd5) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Niña Bonita \(Acústico\)](https://open.spotify.com/album/0tNUKyCe9j87bLlaIfWzd7) | 4:53 | 2021-12-06 |  |
 | [No Ha Parado De Llover \(with Sebastián Yatra\)](https://open.spotify.com/track/0Ao64XWY9rvsx4K0JmJ7Pv) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [No Ha Parado De Llover](https://open.spotify.com/album/682Fbr5tuCp7QR5ZEOL2DU) | 4:05 | 2021-12-06 | 2023-03-07 |
-| [No Puedo Dejarte de Amar \(with Jesús Navarro\)](https://open.spotify.com/track/0RGRcMtokeaLUNAhqNIfKw) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv), [Jesús Navarro](https://open.spotify.com/artist/177dG4gTPSBg2F2KXZdPMW) | [Negroklaro](https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM) | 5:17 | 2021-12-06 |  |
+| [No Puedo Dejarte de Amar \(with Jesús Navarro\)](https://open.spotify.com/track/0RGRcMtokeaLUNAhqNIfKw) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv), [Jesús Navarro](https://open.spotify.com/artist/177dG4gTPSBg2F2KXZdPMW) | [Negroklaro](https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM) | 5:17 | 2021-12-06 | 2023-04-27 |
 | [No Se Va](https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:36 | 2023-01-06 |  |
 | [No Te Olvido](https://open.spotify.com/track/7HqIAVm70XTRuy61urYpLT) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [No Te Olvido](https://open.spotify.com/album/1veQ29kfzujZr8HSu7BuRX) | 3:05 | 2021-12-06 | 2023-01-07 |
 | [No Te Vayas](https://open.spotify.com/track/4k9byIhs9ppbYWE22waJMB) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [No Te Vayas](https://open.spotify.com/album/1m98axLPQPf3odJJQYc5ok) | 3:21 | 2021-12-06 | 2023-03-18 |
@@ -174,6 +174,7 @@
 | [Si Tu No Bailas Conmigo](https://open.spotify.com/track/4TOe4WfqNiBwuS0Wi63xc5) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [La Llave De Mi Corazon](https://open.spotify.com/album/5OBRA1jxjtshwdhCOGgZAG) | 2:42 | 2021-12-06 | 2022-07-29 |
 | [Si Tú La Quieres](https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Si Tú La Quieres](https://open.spotify.com/album/7Hl7NKHiik1ckE2SI21RlU) | 3:44 | 2021-12-06 |  |
 | [Si Tú La Quieres \- Versión Balada](https://open.spotify.com/track/3c5KjQlxwrWBf7oBN8nU2k) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [En Tus Planes](https://open.spotify.com/album/4mFgW04qaWGcdhimbOZO8F) | 4:52 | 2021-12-06 | 2022-11-13 |
+| [Si Tú Me Quieres](https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Si Tú Me Quieres](https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY) | 3:24 | 2023-04-21 |  |
 | [Si tú no vuelves \- MTV Unplugged](https://open.spotify.com/track/0L5sYIDHdhnwtJE0xB0JKV) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [MTV Unplugged](https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO) | 5:24 | 2021-12-06 | 2023-01-07 |
 | [Simplemente Pasan](https://open.spotify.com/track/4RAJ1h4eqt2dHR6FyyiZLM) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [¿A Dónde Vamos?](https://open.spotify.com/album/01R2vYq9iDhn4ZXtM5dd7i) | 3:01 | 2023-02-10 |  |
 | [Solamente tú](https://open.spotify.com/track/7sRXhReWmJF5pqyg3uUTES) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Pablo Alboran \(Deluxe\)](https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc) | 4:07 | 2021-12-06 |  |

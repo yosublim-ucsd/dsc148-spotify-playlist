@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTevReS5evR.md) - [plain]
 
 > I really wish your real name is my last name 🤡
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,294 likes - 89 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,523 likes - 89 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTevReS5evR.md) - [plain]
 | 6 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
 | 7 | [Die For You \(with Ariana Grande\) \- Remix](https://open.spotify.com/track/4JNdwEfqwFRiAeEISC8RU8) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You](https://open.spotify.com/album/0YF085Qdh4HgdhZ8zjWkpo) | 3:52 |
 | 8 | [Lovers Rock](https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:33 |
-| 9 | [Home](https://open.spotify.com/track/1gH9NcVCQv66pqrzOX4uqn) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Call Me When You Hear This Song](https://open.spotify.com/album/0aHSccJ0rCcCL6paStI89L) | 4:01 |
+| 9 | [Home](https://open.spotify.com/track/52lT4DHat5sYRV6iFyQ9uY) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Call Me When You Hear This Song](https://open.spotify.com/album/7eMb9KBOVlx7h87Pyjrct7) | 4:01 |
 | 10 | [drunk text](https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [drunk text](https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ) | 3:07 |
 | 11 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 |
 | 12 | [Somebody's Pleasure](https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure](https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y) | 3:43 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTevReS5evR.md) - [plain]
 | 31 | [Kiss It Better](https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 4:13 |
 | 32 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 |
 | 33 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 |
-| 34 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
+| 34 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
 | 35 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 |
 | 36 | [Fall In Love Alone \(with Ziva Magnolya\)](https://open.spotify.com/track/4BZQ77u52trJcFJITK4qJQ) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Fall In Love Alone](https://open.spotify.com/album/2nDqx2w4AjJgFqIkZiAITt) | 3:25 |
 | 37 | [Sang Badut](https://open.spotify.com/track/6s0HM8fK8ZjYHlTHmi123x) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Sang Badut](https://open.spotify.com/album/5BAoqA4Vd02Xm7qsCKwXGd) | 3:55 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTevReS5evR.md) - [plain]
 | 88 | [I Hear a Symphony](https://open.spotify.com/track/4ZHGRFGwjnEIXHG2FhcDPv) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Flying](https://open.spotify.com/album/2gM39a0pG4TMzkb1ExkqgT) | 3:05 |
 | 89 | [keepyousafe](https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b) | [Yahya](https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R) | [keepyousafe](https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9) | 4:21 |
 
-Snapshot ID: `MTY4MTY5OTI0MywwMDAwMDAwMDMyYmMwYTEwNmM1MGVkNjJlYzcxNWMwZjYyOWM5MThj`
+Snapshot ID: `MTY4MTY5OTI0MywwMDAwMDAwMGVmOGNjYzAyNDdjMDJjODFkNmM3ZjRlMWUxZTdlNDZi`

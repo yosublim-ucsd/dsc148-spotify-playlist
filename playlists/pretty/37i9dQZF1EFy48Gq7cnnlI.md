@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0bmMTtKNwsDbQN40k0KTeW">Alex Hope</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 605 likes - 93 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 605 likes - 94 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,11 +67,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 57 | [I Know I'm Not the Only One](https://open.spotify.com/track/0kTzTXAzvfx4ojKw8aLgT6) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:00 |
 | 58 | [Villain in Me](https://open.spotify.com/track/446BbuQVXxRVT3RwKnDeab) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:37 |
 | 59 | [Tonight](https://open.spotify.com/track/4nfmi9e5kP9iXHGPjOVUks) | [Chasing Grace](https://open.spotify.com/artist/5M6D2PqxdnZMVMCb1jNOTp) | [Nowhere Near Old Enough](https://open.spotify.com/album/4GLDRHD1QWArvXJum0sOw5) | 3:49 |
-| 60 | [Piece by Piece](https://open.spotify.com/track/2qRkZwDiXkZ3pn9J986wGB) | [Taylor Henderson](https://open.spotify.com/artist/40usJiKvNyNHy3GAcNXSWx) | [Burnt Letters](https://open.spotify.com/album/35q6agQrUXirvl16mq8YAa) | 3:00 |
-| 61 | [Call Me](https://open.spotify.com/track/3Wevk6rPHoYfCCk6zNQgRX) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Call Me](https://open.spotify.com/album/5EAnX8LJVNCPAKwuIGzxH4) | 3:11 |
-| 62 | [Knock Me Out](https://open.spotify.com/track/3ZKWAGpEG2UGvjzoNgJEPq) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [SAMURAI SESSIONS vol.3 \- Worlds Collide \-](https://open.spotify.com/album/4H9oh7fZrr6GBH1SWSNYsR) | 3:41 |
-| 63 | [Nirvana](https://open.spotify.com/track/0uWYy8j7zltA3xGThkD6aX) | [Tuka](https://open.spotify.com/artist/2D9eG3B30VlpA1uME35LeB) | [Life Death Time Eternal](https://open.spotify.com/album/4RgNO71umpxSv5GEnKHr6i) | 3:20 |
-| 64 | [Fictional](https://open.spotify.com/track/6aHT59msgWO3ivOICNFmSS) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [Fictional](https://open.spotify.com/album/1Io07XUBdJzMINQnAWzSR5) | 3:43 |
+| 60 | [Fictional](https://open.spotify.com/track/6aHT59msgWO3ivOICNFmSS) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [Fictional](https://open.spotify.com/album/1Io07XUBdJzMINQnAWzSR5) | 3:43 |
+| 61 | [Piece by Piece](https://open.spotify.com/track/2qRkZwDiXkZ3pn9J986wGB) | [Taylor Henderson](https://open.spotify.com/artist/40usJiKvNyNHy3GAcNXSWx) | [Burnt Letters](https://open.spotify.com/album/35q6agQrUXirvl16mq8YAa) | 3:00 |
+| 62 | [Call Me](https://open.spotify.com/track/3Wevk6rPHoYfCCk6zNQgRX) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Call Me](https://open.spotify.com/album/5EAnX8LJVNCPAKwuIGzxH4) | 3:11 |
+| 63 | [Knock Me Out](https://open.spotify.com/track/3ZKWAGpEG2UGvjzoNgJEPq) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [SAMURAI SESSIONS vol.3 \- Worlds Collide \-](https://open.spotify.com/album/4H9oh7fZrr6GBH1SWSNYsR) | 3:41 |
+| 64 | [Nirvana](https://open.spotify.com/track/0uWYy8j7zltA3xGThkD6aX) | [Tuka](https://open.spotify.com/artist/2D9eG3B30VlpA1uME35LeB) | [Life Death Time Eternal](https://open.spotify.com/album/4RgNO71umpxSv5GEnKHr6i) | 3:20 |
 | 65 | [Hold My Breath Until I Die](https://open.spotify.com/track/1MnCNW7fVSLHmLnCXxRg1k) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:42 |
 | 66 | [Backup Plan](https://open.spotify.com/track/1UjZRtdqR3o5hfdhtLadT5) | [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [First & Foremost](https://open.spotify.com/album/3MgPBfKTcXs9wLLRqr78JG) | 2:46 |
 | 67 | [Hello, I'm Right Here](https://open.spotify.com/track/3hO7TPpL86XCsO9eSaVmeo) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:07 |
@@ -101,5 +101,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 91 | [feather](https://open.spotify.com/track/3nUc4j3R64TGkuJ8s7WVuB) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [i hate rollercoasters](https://open.spotify.com/album/0mOtflw3cAMTvFlAjn94A9) | 2:27 |
 | 92 | [Hold Back](https://open.spotify.com/track/7vsyU7jX2M53yOJtCIYSKh) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Run Where the Light Calls](https://open.spotify.com/album/6WHWwuMGt0T2sH2aZKnmiD) | 3:46 |
 | 93 | [Lose Myself](https://open.spotify.com/track/5GiQpCHV469WHEbhef3EVB) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 3:50 |
+| 94 | [Diss and Disappoint](https://open.spotify.com/track/1RXFZcTmIoG3BpYobw0eyu) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [Diss and Disappoint](https://open.spotify.com/album/7oaEeaY8WIXyHbV72oLHfk) | 2:57 |
 
-Snapshot ID: `MjgwNDExMzEsMDAwMDAwMDBiMmQ5MTI2ODk0NDI1ZDI5NjZlZDRhMzNlYWYyZGVkYg==`
+Snapshot ID: `MjgwNDI1NzEsMDAwMDAwMDBhODkyZDUzMTE4ZGNhNWYyMDUzNDk3YTIxYzJmOGFiZA==`

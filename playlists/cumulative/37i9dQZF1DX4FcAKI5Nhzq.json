@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: BOL4",
+  "description": "Future K-Pop hits! Cover: WOODZ",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -728,7 +728,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 330480,
       "name": "Ape Freestyle - Spotify Singles",
       "url": "https://open.spotify.com/track/5yV2rps3tcEwxhuYZRJ38k"
@@ -4060,7 +4060,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 204533,
       "name": "Errr Day",
       "url": "https://open.spotify.com/track/6q1tSNXzxeexSAXwp0dCiG"
@@ -4630,6 +4630,24 @@
       "duration_ms": 169973,
       "name": "Freak",
       "url": "https://open.spotify.com/track/53NYRM8s4mm4yeCsmsvTik"
+    },
+    {
+      "album": {
+        "name": "Deadlock",
+        "url": "https://open.spotify.com/album/6nePUewVYxSkvIbG9nkB0M"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183670,
+      "name": "Freakin' Bad",
+      "url": "https://open.spotify.com/track/3wntBaOJD8AZrJ8ix97Lwg"
     },
     {
       "album": {
@@ -5400,7 +5418,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 236866,
       "name": "Grrr - Spotify Singles",
       "url": "https://open.spotify.com/track/2UrBX2cG7ZSnN2SbgspmtK"
@@ -6729,6 +6747,24 @@
     },
     {
       "album": {
+        "name": "BOYS PLANET - FINAL TOP9 BATTLE",
+        "url": "https://open.spotify.com/album/5F3uLyGvCV3QINuGZkdOfS"
+      },
+      "artists": [
+        {
+          "name": "BOYS PLANET",
+          "url": "https://open.spotify.com/artist/49pGKUCSjzaCfv8gdTWG98"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203253,
+      "name": "Jelly Pop",
+      "url": "https://open.spotify.com/track/6fJW5vgrTBrKksFKApn7v2"
+    },
+    {
+      "album": {
         "name": "THE SECOND STEP : CHAPTER ONE",
         "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
       },
@@ -6744,6 +6780,24 @@
       "duration_ms": 184117,
       "name": "JIKJIN",
       "url": "https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap"
+    },
+    {
+      "album": {
+        "name": "OO-LI",
+        "url": "https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198440,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/6dxgKYAH0TvoSb16xD30rD"
     },
     {
       "album": {
@@ -9496,6 +9550,24 @@
       "duration_ms": 212266,
       "name": "Outsider",
       "url": "https://open.spotify.com/track/3NIuhONwDFEwjcekOat7mL"
+    },
+    {
+      "album": {
+        "name": "BOYS PLANET - ARTIST BATTLE",
+        "url": "https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC"
+      },
+      "artists": [
+        {
+          "name": "Overdose",
+          "url": "https://open.spotify.com/artist/32jdgEsyvdXqUoReMyR0gl"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192613,
+      "name": "Over Me",
+      "url": "https://open.spotify.com/track/59oJpXOayvcKGbTXbrZjzF"
     },
     {
       "album": {
@@ -14220,7 +14292,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 152386,
       "name": "WHIP! - Spotify Singles",
       "url": "https://open.spotify.com/track/0tW9Scup0VRKGlwD3Qvn4r"
@@ -14676,7 +14748,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 191220,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,819 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,310 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 17 | [Airwave \- Radio Vocal Edit](https://open.spotify.com/track/294bZQoJEueD2ys3wrNDmI) | [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [Airwave](https://open.spotify.com/album/3NzdpoQtPQVRckK9opV5v8) | 2:59 |
 | 18 | [On The Beach \- Mauro Picotto's CRW Remix](https://open.spotify.com/track/1YsZB1pLIXR0YgiOxUG9cv) | [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp), [CRW](https://open.spotify.com/artist/14tToftzUXlFOnrR5ojQxu) | [On The Beach](https://open.spotify.com/album/6VFOyyn3IVAWkeoJzBOCV9) | 3:17 |
 | 19 | [Beachball \- Vocal Radio Edit](https://open.spotify.com/track/6iyxF36JnQYzqMbpQD861R) | [Nalin & Kane](https://open.spotify.com/artist/6JUsbe4yjY4fZbXTtpyfh6) | [Beachball](https://open.spotify.com/album/5twL3A9cQUR61zLddNP6cf) | 3:54 |
-| 20 | [As The Rush Comes](https://open.spotify.com/track/6uEmDZoJcc7Oqrute8BA2N) | [Motorcycle](https://open.spotify.com/artist/7DZ9xBelM79Mlk3Weia4oD) | [As The Rush Comes](https://open.spotify.com/album/1RUZtaNoGK9tvaNlFzVtrB) | 3:32 |
-| 21 | [Concrete Angel \- Radio Edit](https://open.spotify.com/track/2zM1zEjv2JX1qTmSDeB8IL) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n) | [Concrete Angel](https://open.spotify.com/album/4Jykpzu0mPClJY1eo77H5o) | 3:55 |
+| 20 | [Concrete Angel \- Radio Edit](https://open.spotify.com/track/2zM1zEjv2JX1qTmSDeB8IL) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n) | [Concrete Angel](https://open.spotify.com/album/4Jykpzu0mPClJY1eo77H5o) | 3:55 |
+| 21 | [As The Rush Comes](https://open.spotify.com/track/6uEmDZoJcc7Oqrute8BA2N) | [Motorcycle](https://open.spotify.com/artist/7DZ9xBelM79Mlk3Weia4oD) | [As The Rush Comes](https://open.spotify.com/album/1RUZtaNoGK9tvaNlFzVtrB) | 3:32 |
 | 22 | [Tuvan](https://open.spotify.com/track/1QH83zBuFEy7Tbgf2UvAnD) | [GAIA](https://open.spotify.com/artist/3Jkc5q9qBSNOTf3IvAyJW9) | [Tuvan](https://open.spotify.com/album/1RCkW5PuJuuYQYDmkin7WH) | 2:50 |
 | 23 | [Saltwater](https://open.spotify.com/track/05c4AAJKIulqI8vQQ41Rch) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Moya Brennan](https://open.spotify.com/artist/3ZvmmlF8EMEpnnK90jfuJv) | [Twenty](https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh) | 3:22 |
 | 24 | [Feel the Beat](https://open.spotify.com/track/5BZx0wikkFZF2BnaIo2qTy) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ) | [Before the Storm, Special Edition](https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo) | 4:19 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 43 | [Everytime \- Nalin & Kane Mix](https://open.spotify.com/track/1jxVRXHqJKPzyhDQBmT6vU) | [Lustral](https://open.spotify.com/artist/0dkFacPMrWkrQzjjhcMHb7), [Nalin & Kane](https://open.spotify.com/artist/6JUsbe4yjY4fZbXTtpyfh6) | [25 Years, Vol\. 3](https://open.spotify.com/album/0WPqeMn5Kmi1RMpNwm5DMV) | 4:09 |
 | 44 | [Seven Cities \- Solarstone's Atlantis Mix](https://open.spotify.com/track/1Tz10EYl3RFRItgJU8bJWu) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90), [Andy Bury](https://open.spotify.com/artist/7eJRumzcr8tEQBi3JqyWjU) | [Seven Cities](https://open.spotify.com/album/4GpHU6W6cPUa8tIk8EwBbY) | 3:31 |
 | 45 | [Out Of The Blue](https://open.spotify.com/track/0jJtOt57bhFAz7ccgGkxWJ) | [System F](https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i) | [Out Of The Blue \(Ilan Bluestone Remix\)](https://open.spotify.com/album/7wL2zH4KkHxWQe74ne1UnF) | 3:53 |
-| 46 | [The Whiteroom](https://open.spotify.com/track/64AwAe6HpIEGFjy0KoGsmH) | [Andy Moor](https://open.spotify.com/artist/0Fn4agIyGMwQsKHrx1i8Dn), [Adam White](https://open.spotify.com/artist/3OYcRF1SOf0sR3NRsgMI3R), [Whiteroom](https://open.spotify.com/artist/1JerCKWsimcVvghLc1Kwib) | [The Whiteroom](https://open.spotify.com/album/58P4AdA5mi8Yfjlb5e8Maz) | 3:53 |
-| 47 | [Take Me Away \(Into The Night\) \- Radio Edit](https://open.spotify.com/track/7AdWFGv4pv1o9YSPWACdOl) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Take Me Away \(Into The Night\)](https://open.spotify.com/album/3BIWgt1SQ3YISooGrl0LQr) | 3:09 |
+| 46 | [Take Me Away \(Into The Night\) \- Radio Edit](https://open.spotify.com/track/7AdWFGv4pv1o9YSPWACdOl) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Take Me Away \(Into The Night\)](https://open.spotify.com/album/3BIWgt1SQ3YISooGrl0LQr) | 3:09 |
+| 47 | [The Whiteroom](https://open.spotify.com/track/64AwAe6HpIEGFjy0KoGsmH) | [Andy Moor](https://open.spotify.com/artist/0Fn4agIyGMwQsKHrx1i8Dn), [Adam White](https://open.spotify.com/artist/3OYcRF1SOf0sR3NRsgMI3R), [Whiteroom](https://open.spotify.com/artist/1JerCKWsimcVvghLc1Kwib) | [The Whiteroom](https://open.spotify.com/album/58P4AdA5mi8Yfjlb5e8Maz) | 3:53 |
 | 48 | [U](https://open.spotify.com/track/7ej6hXuIvbHAz5tKRikMi1) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Bo Bruce](https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK) | [Drive](https://open.spotify.com/album/0xt7caaIpRnFVyCHcl4zsW) | 4:20 |
 | 49 | [Bits N Pianos](https://open.spotify.com/track/6F85zMy5Ucjr1H6dsdZYYx) | [SDC](https://open.spotify.com/artist/6qSmkoM4CdhOuo08wFdwDx) | [Bits N Pianos](https://open.spotify.com/album/5ThZFZtXcEDqXzsu970pdd) | 5:29 |
 | 50 | [Sun & Moon \- Above & Beyond Club Mix](https://open.spotify.com/track/5uwnXVq6NrQDvIlVZznVaC) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB) | [The Club Mix Collection](https://open.spotify.com/album/0RkRavz2FtCFuFe3U9iEZE) | 3:08 |
 
-Snapshot ID: `MTY3ODQ4Nzc3NywwMDAwMDAwMDMwNDE4Njk4NjY1YmM2MTU3NjdlNDViOWRiZWFhNGUx`
+Snapshot ID: `MTY3ODQ4Nzc3NywwMDAwMDAwMGQ5NTIxOWZkOTdmOTQ5NjI3ZmRiZDBmYjY3NGU1MGNi`

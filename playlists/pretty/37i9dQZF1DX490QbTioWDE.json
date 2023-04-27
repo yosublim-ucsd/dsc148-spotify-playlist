@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Rodrigo",
-  "num_followers": 594877,
+  "num_followers": 595023,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjM0MzgyMywwMDAwMDAwMGU4YzExMmE3MmQ1MWNlOTYzZDc5OWYyNGJlNGI3NGFh",
+  "snapshot_id": "MTY4MjM0MzgyMywwMDAwMDAwMDg1ZTY3ZDhmN2NjODgzYTQ3ZDJjNzllM2RiMTVjNTFi",
   "tracks": [
     {
       "added_at": "2023-04-24 13:43:43",
@@ -735,26 +735,6 @@
     {
       "added_at": "2023-04-24 13:43:43",
       "album": {
-        "name": "Bien Ah\u00ed !",
-        "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
-      },
-      "artists": [
-        {
-          "name": "La Mona Jimenez",
-          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
-        },
-        {
-          "name": "Sergio Oliva and Freddy Zavaley",
-          "url": "https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC"
-        }
-      ],
-      "duration_ms": 331160,
-      "name": "Ramito de violetas",
-      "url": "https://open.spotify.com/track/4sVEoWwh0kjipzZ9UGvSz9"
-    },
-    {
-      "added_at": "2023-04-24 13:43:43",
-      "album": {
         "name": "Olvidarte de Mi Jamas Podras",
         "url": "https://open.spotify.com/album/6vjNYZjE6MCDbEGSQM4mwF"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 193358,
       "name": "Olvidarte de Mi Jamas Podras",
       "url": "https://open.spotify.com/track/7iSjpEVClrTJ490HArIKny"
+    },
+    {
+      "added_at": "2023-04-24 13:43:43",
+      "album": {
+        "name": "Bien Ah\u00ed !",
+        "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
+      },
+      "artists": [
+        {
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        },
+        {
+          "name": "Sergio Oliva and Freddy Zavaley",
+          "url": "https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC"
+        }
+      ],
+      "duration_ms": 331160,
+      "name": "Ramito de violetas",
+      "url": "https://open.spotify.com/track/4sVEoWwh0kjipzZ9UGvSz9"
     },
     {
       "added_at": "2023-04-24 13:43:43",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-04-24 13:43:43",
       "album": {
-        "name": "Eran dos locos de amor",
-        "url": "https://open.spotify.com/album/5zrpSkFRI1dBpTnoY5JmV4"
-      },
-      "artists": [
-        {
-          "name": "Los Reyes del Cuarteto",
-          "url": "https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm"
-        }
-      ],
-      "duration_ms": 169496,
-      "name": "Eran dos locos de amor",
-      "url": "https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a"
-    },
-    {
-      "added_at": "2023-04-24 13:43:43",
-      "album": {
         "name": "Esta de Moda",
         "url": "https://open.spotify.com/album/3Ayz2Jfqes6ru6NBNh3Ng3"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 204382,
       "name": "Lo Aprend\u00ed de Ti",
       "url": "https://open.spotify.com/track/2ZWhVHSByxcaM3n74G06L7"
+    },
+    {
+      "added_at": "2023-04-24 13:43:43",
+      "album": {
+        "name": "Eran dos locos de amor",
+        "url": "https://open.spotify.com/album/5zrpSkFRI1dBpTnoY5JmV4"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes del Cuarteto",
+          "url": "https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm"
+        }
+      ],
+      "duration_ms": 169496,
+      "name": "Eran dos locos de amor",
+      "url": "https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a"
     },
     {
       "added_at": "2023-04-24 13:43:43",
@@ -1367,22 +1367,22 @@
     {
       "added_at": "2023-04-24 13:43:43",
       "album": {
-        "name": "Me Duele Tu Nombre",
-        "url": "https://open.spotify.com/album/3JPCEgj42U1a2DrCUkywMY"
+        "name": "Muero (feat. Eugenia Quevedo)",
+        "url": "https://open.spotify.com/album/1sw7RzeT2J98lbW73sjxcS"
       },
       "artists": [
         {
-          "name": "Roc\u00edo Quiroz",
-          "url": "https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn"
+          "name": "Sabroso",
+          "url": "https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO"
         },
         {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
         }
       ],
-      "duration_ms": 296515,
-      "name": "Me Duele Tu Nombre",
-      "url": "https://open.spotify.com/track/49Q78abEP3Ou0RFXRcAo2h"
+      "duration_ms": 264563,
+      "name": "Muero (feat. Eugenia Quevedo)",
+      "url": "https://open.spotify.com/track/29MFesnqGPh4zA66sViKt9"
     },
     {
       "added_at": "2023-04-24 13:43:43",
@@ -1423,6 +1423,26 @@
     {
       "added_at": "2023-04-24 13:43:43",
       "album": {
+        "name": "Me Duele Tu Nombre",
+        "url": "https://open.spotify.com/album/3JPCEgj42U1a2DrCUkywMY"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo Quiroz",
+          "url": "https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "duration_ms": 296515,
+      "name": "Me Duele Tu Nombre",
+      "url": "https://open.spotify.com/track/49Q78abEP3Ou0RFXRcAo2h"
+    },
+    {
+      "added_at": "2023-04-24 13:43:43",
+      "album": {
         "name": "Qui\u00e9reme (Cuarteto)",
         "url": "https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU"
       },
@@ -1439,26 +1459,6 @@
       "duration_ms": 336000,
       "name": "Qui\u00e9reme - Cuarteto",
       "url": "https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc"
-    },
-    {
-      "added_at": "2023-04-24 13:43:43",
-      "album": {
-        "name": "Muero (feat. Eugenia Quevedo)",
-        "url": "https://open.spotify.com/album/1sw7RzeT2J98lbW73sjxcS"
-      },
-      "artists": [
-        {
-          "name": "Sabroso",
-          "url": "https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO"
-        },
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        }
-      ],
-      "duration_ms": 264563,
-      "name": "Muero (feat. Eugenia Quevedo)",
-      "url": "https://open.spotify.com/track/29MFesnqGPh4zA66sViKt9"
     },
     {
       "added_at": "2023-04-24 13:43:43",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-04-24 13:43:43",
       "album": {
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/2mpT7VctDY0tWKhI6qOr3f"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "duration_ms": 168757,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/77Q6quYnxwWZg8ESqC1mUf"
+    },
+    {
+      "added_at": "2023-04-24 13:43:43",
+      "album": {
         "name": "Me Duele Tu Nombre (En Vivo)",
         "url": "https://open.spotify.com/album/5vvPmtVPa5gMyutIquKVTm"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 192483,
       "name": "Me Duele Tu Nombre (En Vivo)",
       "url": "https://open.spotify.com/track/2wZfOHTas2wzIXyp7hquFE"
-    },
-    {
-      "added_at": "2023-04-24 13:43:43",
-      "album": {
-        "name": "Miel",
-        "url": "https://open.spotify.com/album/2mpT7VctDY0tWKhI6qOr3f"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        }
-      ],
-      "duration_ms": 168757,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/77Q6quYnxwWZg8ESqC1mUf"
     },
     {
       "added_at": "2023-04-24 13:43:43",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-04-24 13:43:43",
       "album": {
-        "name": "A Cu\u00e1nto Me Qued\u00e9",
-        "url": "https://open.spotify.com/album/0GwTvMjZgh63HJ1ReRw87g"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        }
-      ],
-      "duration_ms": 196970,
-      "name": "A Cu\u00e1nto Me Qued\u00e9",
-      "url": "https://open.spotify.com/track/0UQZuEiQtoaNZqIoGhBWeR"
-    },
-    {
-      "added_at": "2023-04-24 13:43:43",
-      "album": {
         "name": "Con Toda la Fuerza",
         "url": "https://open.spotify.com/album/5SoB5nPoVk5AOia9c6Uux7"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 187220,
       "name": "Ma\u00f1ana sin vos",
       "url": "https://open.spotify.com/track/0yDCUzTHRAmNSnMeCLPSgi"
+    },
+    {
+      "added_at": "2023-04-24 13:43:43",
+      "album": {
+        "name": "A Cu\u00e1nto Me Qued\u00e9",
+        "url": "https://open.spotify.com/album/0GwTvMjZgh63HJ1ReRw87g"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "duration_ms": 196970,
+      "name": "A Cu\u00e1nto Me Qued\u00e9",
+      "url": "https://open.spotify.com/track/0UQZuEiQtoaNZqIoGhBWeR"
     },
     {
       "added_at": "2023-04-24 13:43:43",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-04-24 13:43:43",
       "album": {
-        "name": "Cuarteto del Bueno",
-        "url": "https://open.spotify.com/album/67RyrSXnNtDANyw4j6yK07"
-      },
-      "artists": [
-        {
-          "name": "Cuarteto del Bueno",
-          "url": "https://open.spotify.com/artist/7H74awb9SCsCk8RqQOwPor"
-        }
-      ],
-      "duration_ms": 229564,
-      "name": "Intento",
-      "url": "https://open.spotify.com/track/4wN40IP16eyq2csEJhQ8SE"
-    },
-    {
-      "added_at": "2023-04-24 13:43:43",
-      "album": {
         "name": "Que No Le Hago Falta",
         "url": "https://open.spotify.com/album/2vHCWKaLfUxtlVU35XHo7H"
       },
@@ -1763,26 +1747,18 @@
     {
       "added_at": "2023-04-24 13:43:43",
       "album": {
-        "name": "Todo de T\u00ed",
-        "url": "https://open.spotify.com/album/1vKjLZv22Uvl7CHtgLfGK4"
+        "name": "Cuarteto del Bueno",
+        "url": "https://open.spotify.com/album/67RyrSXnNtDANyw4j6yK07"
       },
       "artists": [
         {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        },
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
-        },
-        {
-          "name": "El Joaco",
-          "url": "https://open.spotify.com/artist/126j2pVbpt1Ai1frvJzUeA"
+          "name": "Cuarteto del Bueno",
+          "url": "https://open.spotify.com/artist/7H74awb9SCsCk8RqQOwPor"
         }
       ],
-      "duration_ms": 179855,
-      "name": "Todo de T\u00ed",
-      "url": "https://open.spotify.com/track/1DeyreZEMTeGKKPgSvzppL"
+      "duration_ms": 229564,
+      "name": "Intento",
+      "url": "https://open.spotify.com/track/4wN40IP16eyq2csEJhQ8SE"
     },
     {
       "added_at": "2023-04-24 13:43:43",
@@ -1799,6 +1775,22 @@
       "duration_ms": 235920,
       "name": "Cobarde",
       "url": "https://open.spotify.com/track/0aNn6bnLdDCRi4sTRjWED2"
+    },
+    {
+      "added_at": "2023-04-24 13:43:43",
+      "album": {
+        "name": "Luna En Capricornio",
+        "url": "https://open.spotify.com/album/34uPUL6FICdnyNOULxTuEe"
+      },
+      "artists": [
+        {
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
+        }
+      ],
+      "duration_ms": 179957,
+      "name": "Luna En Capricornio",
+      "url": "https://open.spotify.com/track/08gFXg5f9sbvI76AiXHquF"
     }
   ],
   "unique_name": "100% Cuarteto",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI1NTE4MiwwMDAwMDAwMGUxZmQ3OWU4NzllOWU3Mjk1ZjRiMDAxODJjYzg4ZGFl",
+  "snapshot_id": "MTY3NzI1NTE4MiwwMDAwMDAwMDY3YWFhMTdhYmE2ZWM5NTcyMjRkZGRiZGQxOGUwZTEz",
   "tracks": [
     {
       "added_at": "2023-02-24 16:13:02",
@@ -279,30 +279,22 @@
     {
       "added_at": "2023-02-24 16:13:02",
       "album": {
-        "name": "Bipolar",
-        "url": "https://open.spotify.com/album/1iCDTyPPAevNAvqC6WFlRy"
+        "name": "Bumbum granada",
+        "url": "https://open.spotify.com/album/6g5NSnoGpHQ7pGA0pANEBV"
       },
       "artists": [
         {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+          "name": "MC's Zaac",
+          "url": "https://open.spotify.com/artist/13ySOy7rghkjVk5f5ChBW8"
         },
         {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "DJ 900",
-          "url": "https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI"
+          "name": "Jerry Smith",
+          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
         }
       ],
-      "duration_ms": 276480,
-      "name": "Bipolar",
-      "url": "https://open.spotify.com/track/0qxLQ6opocOGyFnlXqJ53x"
+      "duration_ms": 187461,
+      "name": "Bumbum granada",
+      "url": "https://open.spotify.com/track/4SdTyIjA6FuADAN9W8sZjq"
     },
     {
       "added_at": "2023-02-24 16:13:02",
@@ -339,22 +331,30 @@
     {
       "added_at": "2023-02-24 16:13:02",
       "album": {
-        "name": "Bumbum granada",
-        "url": "https://open.spotify.com/album/6g5NSnoGpHQ7pGA0pANEBV"
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/1iCDTyPPAevNAvqC6WFlRy"
       },
       "artists": [
         {
-          "name": "MC's Zaac",
-          "url": "https://open.spotify.com/artist/13ySOy7rghkjVk5f5ChBW8"
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
         },
         {
-          "name": "Jerry Smith",
-          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "DJ 900",
+          "url": "https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI"
         }
       ],
-      "duration_ms": 187461,
-      "name": "Bumbum granada",
-      "url": "https://open.spotify.com/track/4SdTyIjA6FuADAN9W8sZjq"
+      "duration_ms": 276480,
+      "name": "Bipolar",
+      "url": "https://open.spotify.com/track/0qxLQ6opocOGyFnlXqJ53x"
     },
     {
       "added_at": "2023-02-24 16:13:02",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-02-24 16:13:02",
       "album": {
-        "name": "O Grave Bater",
-        "url": "https://open.spotify.com/album/661h9Og5Q2RglZLKe0u8Bi"
-      },
-      "artists": [
-        {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
-        }
-      ],
-      "duration_ms": 181903,
-      "name": "O Grave Bater",
-      "url": "https://open.spotify.com/track/6cEJheMNRySY0kBB31jtdk"
-    },
-    {
-      "added_at": "2023-02-24 16:13:02",
-      "album": {
         "name": "Surtada (Remix Brega Funk)",
         "url": "https://open.spotify.com/album/2zFE4Ze2DjkeZBMbbT4Mgj"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 152783,
       "name": "Surtada - Remix Brega Funk",
       "url": "https://open.spotify.com/track/5F8ffc8KWKNawllr5WsW0r"
+    },
+    {
+      "added_at": "2023-02-24 16:13:02",
+      "album": {
+        "name": "O Grave Bater",
+        "url": "https://open.spotify.com/album/661h9Og5Q2RglZLKe0u8Bi"
+      },
+      "artists": [
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        }
+      ],
+      "duration_ms": 181903,
+      "name": "O Grave Bater",
+      "url": "https://open.spotify.com/track/6cEJheMNRySY0kBB31jtdk"
     },
     {
       "added_at": "2023-02-24 16:13:02",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2023-02-24 16:13:02",
       "album": {
-        "name": "MANO DO AK",
-        "url": "https://open.spotify.com/album/2xHun1copzDEkU6MMedGk1"
-      },
-      "artists": [
-        {
-          "name": "DJ VIL\u00c3O",
-          "url": "https://open.spotify.com/artist/7evNwWIec7shUErOTwAzk9"
-        },
-        {
-          "name": "MC Reis",
-          "url": "https://open.spotify.com/artist/4IdKR4JXZSx5JXl9JsjGEO"
-        }
-      ],
-      "duration_ms": 184845,
-      "name": "MANO DO AK",
-      "url": "https://open.spotify.com/track/7EetU2Z1Dz8NDwzuktF427"
-    },
-    {
-      "added_at": "2023-02-24 16:13:02",
-      "album": {
         "name": "Tudo Ok",
         "url": "https://open.spotify.com/album/33h1DnrztGgynGDWwzQEiA"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 178500,
       "name": "Tudo Ok",
       "url": "https://open.spotify.com/track/4HUZBG98TYbxSR9V1V2DWS"
+    },
+    {
+      "added_at": "2023-02-24 16:13:02",
+      "album": {
+        "name": "MANO DO AK",
+        "url": "https://open.spotify.com/album/2xHun1copzDEkU6MMedGk1"
+      },
+      "artists": [
+        {
+          "name": "DJ VIL\u00c3O",
+          "url": "https://open.spotify.com/artist/7evNwWIec7shUErOTwAzk9"
+        },
+        {
+          "name": "MC Reis",
+          "url": "https://open.spotify.com/artist/4IdKR4JXZSx5JXl9JsjGEO"
+        }
+      ],
+      "duration_ms": 184845,
+      "name": "MANO DO AK",
+      "url": "https://open.spotify.com/track/7EetU2Z1Dz8NDwzuktF427"
     },
     {
       "added_at": "2023-02-24 16:13:02",

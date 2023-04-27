@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,784 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,798 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,15 +25,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 15 | [When Times Get Rough](https://open.spotify.com/track/6g23580DTtKk71sSGiX3fM) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [When Times Get Rough](https://open.spotify.com/album/1CihsEE3OM3dAV4lviQGui) | 2:16 |
 | 16 | [Feel Alright](https://open.spotify.com/track/7fF6Af2M3vL4IUtE8cMy6G) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [I Feel Alright](https://open.spotify.com/album/1CEAVKLVVaCoKyEoVVr8Bh) | 2:56 |
 | 17 | [Someone You Love](https://open.spotify.com/track/6oU5j3WOngnD1GcJtshyhB) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Someone You Love](https://open.spotify.com/album/0sMQLfLv6y3ALmcZXJXcUT) | 4:14 |
-| 18 | [Too Close](https://open.spotify.com/track/2uv1HWIbwXRhnSB4O2677y) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Too Close](https://open.spotify.com/album/3262qPeujrLgKfe56wYFCO) | 3:28 |
-| 19 | [Whatever Turns You On](https://open.spotify.com/track/1IiRUmC1fhDscYS90FxWKz) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Buck](https://open.spotify.com/album/2P77B79bBTT8GHjs1BrmZI) | 2:04 |
+| 18 | [Whatever Turns You On](https://open.spotify.com/track/1IiRUmC1fhDscYS90FxWKz) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Buck](https://open.spotify.com/album/2P77B79bBTT8GHjs1BrmZI) | 2:04 |
+| 19 | [Too Close](https://open.spotify.com/track/2uv1HWIbwXRhnSB4O2677y) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Too Close](https://open.spotify.com/album/3262qPeujrLgKfe56wYFCO) | 3:28 |
 | 20 | [Dreamer](https://open.spotify.com/track/4YQubPuAYJpL7oXYCDvw0L) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Dreamer](https://open.spotify.com/album/1GKEaevMrPeFx6EbUkw9Sg) | 2:53 |
 | 21 | [Hear My Dear](https://open.spotify.com/track/7znaTjqonnsPcuQpOcQ7nT) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: I\. Crescent](https://open.spotify.com/album/7tiugISIhitNyFnMRQBhIq) | 5:34 |
 | 22 | [Can't Nobody](https://open.spotify.com/track/3QjMxiTf0OBM729FA0AqZy) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Can't Nobody](https://open.spotify.com/album/29N9gvVvR2wiXR1hJR7M9R) | 3:23 |
 | 23 | [Know Your Demons](https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Know Your Demons](https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8) | 3:26 |
 | 24 | [Big Time](https://open.spotify.com/track/3RZ5VvBcCQgrRl8XaKZLa4) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Big Time](https://open.spotify.com/album/5UsuKQY3qOMAYyuwaxH4Lx) | 4:07 |
-| 25 | [Built And Broken](https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Built And Broken](https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m) | 4:28 |
-| 26 | [I Waited for You](https://open.spotify.com/track/72ekaAHOCACTFM9C5DQ9uw) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [The Green Stone](https://open.spotify.com/album/57CTi3hCyV59RC8r5Yu9Wu) | 3:24 |
+| 25 | [I Waited for You](https://open.spotify.com/track/72ekaAHOCACTFM9C5DQ9uw) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [The Green Stone](https://open.spotify.com/album/57CTi3hCyV59RC8r5Yu9Wu) | 3:24 |
+| 26 | [Built And Broken](https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Built And Broken](https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m) | 4:28 |
 | 27 | [I Feel for You](https://open.spotify.com/track/6XOWuyehpI0CEDYr7EQQun) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [I Feel for You](https://open.spotify.com/album/1T7prrdakLyU8Nk7AlXEgb) | 3:03 |
 | 28 | [Ballad Of Easy Rider](https://open.spotify.com/track/5Nn8SPmzJUV3xUZFBdFjcV) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Ballad Of Easy Rider](https://open.spotify.com/album/0QQxEoiKi7sgUjlAzjTQCS) | 2:05 |
 | 29 | [High Heels](https://open.spotify.com/track/4M3uKxjhfTLfQidMDgEEgC) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Country Coming Down](https://open.spotify.com/album/3hYtvhC4TBoNfoWgtioNMR) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 49 | [The Longest Journey](https://open.spotify.com/track/5Ifue34q9Msm53CEzFP809) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [The Longest Journey](https://open.spotify.com/album/6VaC5jCtlmDrrGq9A8pKrx) | 3:48 |
 | 50 | [Once Upon A Town](https://open.spotify.com/track/32qnA2AzhYiz9QfSMVvgo3) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Once Upon A Town](https://open.spotify.com/album/5uPvRkqZrTkRvIufbRFvt4) | 2:59 |
 
-Snapshot ID: `MTY4MDIxNzIwMCwwMDAwMDAwMDhlY2UyN2M4OTJlODlmNjEwY2Y3ZDIyZDE0MmI2Yzdl`
+Snapshot ID: `MTY4MDIxNzIwMCwwMDAwMDAwMDc1MDRkYmUwMGE0NjI2NTRmMWEyYTY4NDA1NTQ1ZGQ0`

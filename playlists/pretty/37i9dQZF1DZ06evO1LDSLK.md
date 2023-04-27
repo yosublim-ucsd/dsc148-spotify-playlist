@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 
 > This is Iggy Pop\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,803 likes - 51 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,833 likes - 51 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 | 20 | [Rules of the Game](https://open.spotify.com/track/12VVjfk4RaMj1gBcS3QsLh) | [Warmduscher](https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Tainted Lunch](https://open.spotify.com/album/0awOXgqBtA1bUu44W08g6q) | 1:09 |
 | 21 | [The News For Andy \(Interlude\)](https://open.spotify.com/track/5Fc2Y9ICh4f8weUhqS5Co9) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 0:55 |
 | 22 | [La vie en rose](https://open.spotify.com/track/3PMFNGb08SzI0lLHL6ti08) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:06 |
-| 23 | [Les Feuilles Mortes](https://open.spotify.com/track/4jsfwKGrdOLfQM5DHheVz8) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Preliminaires](https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9) | 3:55 |
-| 24 | [Punkrocker \(feat\. Iggy Pop\)](https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Soft Machine](https://open.spotify.com/album/4MHVx1PFPrYUzO0zbh95Q0) | 4:06 |
+| 23 | [Punkrocker \(feat\. Iggy Pop\)](https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Soft Machine](https://open.spotify.com/album/4MHVx1PFPrYUzO0zbh95Q0) | 4:06 |
+| 24 | [Les Feuilles Mortes](https://open.spotify.com/track/4jsfwKGrdOLfQM5DHheVz8) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Preliminaires](https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9) | 3:55 |
 | 25 | [Comments](https://open.spotify.com/track/59QajhlzAmlJ1wIRwzLxv8) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 3:53 |
 | 26 | [Michelle](https://open.spotify.com/track/3L2CN09jZcXtet8kEVeLPz) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:43 |
-| 27 | [I Want To Go To The Beach](https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Preliminaires](https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9) | 2:52 |
-| 28 | [Fall In Love With Me](https://open.spotify.com/track/6YQjQdymVA9tvE0Ygnpsdd) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 6:32 |
+| 27 | [Fall In Love With Me](https://open.spotify.com/track/6YQjQdymVA9tvE0Ygnpsdd) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 6:32 |
+| 28 | [I Want To Go To The Beach](https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Preliminaires](https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9) | 2:52 |
 | 29 | [New Atlantis](https://open.spotify.com/track/6XMvpM1luxKj9gCwvifL2D) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 4:08 |
 | 30 | [La Javanaise](https://open.spotify.com/track/2nBJvYYw33mF3gFm4Fkjdt) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:30 |
 | 31 | [Loves Missing](https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh) | 4:19 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 | 50 | [L’appartement \- en duo avec Iggy Pop](https://open.spotify.com/track/0lpF25LpCVWZevST9ZLYDh) | [Clio](https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [L'amour hélas](https://open.spotify.com/album/1tW64D92Fbvas6G28g75Jf) | 3:10 |
 | 51 | [Louie Louie](https://open.spotify.com/track/15e3sz0HdP1TXxSdZV7bQc) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [American Caesar](https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi) | 3:48 |
 
-Snapshot ID: `MjgwNDA0NDAsMDAwMDAwMDA0OWRhNTZkMDRmMjVlMjU1N2EwNjRiMmVjZWY4NDI1NQ==`
+Snapshot ID: `MjgwNDE5MzAsMDAwMDAwMDA2YjE4YjA5OTQyNmFiYzY1ODI4MjljMWVkZWE5MWI0Mw==`

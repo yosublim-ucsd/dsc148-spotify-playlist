@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o.",
-  "num_followers": 108060,
+  "num_followers": 108217,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI5NTQ3NiwwMDAwMDAwMDc5ZGJkMTAwN2ExNWZiNWViM2ZiYTQ0NDE3NmIyNGQ0",
+  "snapshot_id": "MTY3NjI5NTQ3NiwwMDAwMDAwMDg1MGEzMDgwNDMzNjNhNTY4M2I5YmIwZDE2MjY1Mjkz",
   "tracks": [
     {
       "added_at": "2023-02-07 20:52:54",
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/69ebm9wovT0UJX3vBp571J"
     },
     {
-      "added_at": "2023-04-26 01:21:26",
+      "added_at": "2023-04-27 01:40:41",
       "album": {
         "name": "Menino Ney",
         "url": "https://open.spotify.com/album/3IWRs9fZhKc4i7lCkqNPHU"
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
+        "name": "Avi\u00e3o",
+        "url": "https://open.spotify.com/album/3qB0aw6UmDycNX9pWvyjXf"
+      },
+      "artists": [
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Avi\u00e3o",
+      "url": "https://open.spotify.com/track/3vG5tTQZsAPTDqMiXFhKJy"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
         "name": "Como a chuva cai",
         "url": "https://open.spotify.com/album/4RF07dFHIZhmBLFU9kUU4R"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 152086,
       "name": "Como a chuva cai",
       "url": "https://open.spotify.com/track/26dxrRJqzLXS6PTtOq7zgm"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
-        "name": "Avi\u00e3o",
-        "url": "https://open.spotify.com/album/3qB0aw6UmDycNX9pWvyjXf"
-      },
-      "artists": [
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Avi\u00e3o",
-      "url": "https://open.spotify.com/track/3vG5tTQZsAPTDqMiXFhKJy"
     },
     {
       "added_at": "2023-02-07 20:52:54",
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
+        "name": "Trap de Cria",
+        "url": "https://open.spotify.com/album/2GzS8QreFNrXifx59Jh8Ww"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 117867,
+      "name": "Trap de Cria",
+      "url": "https://open.spotify.com/track/4UWCqKIWKAmdahy3X4xDkA"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
         "name": "Gatinha",
         "url": "https://open.spotify.com/album/7cG0tGPI9KcNO7v6So6UFW"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 195303,
       "name": "Gatinha",
       "url": "https://open.spotify.com/track/3fFP5qW0JBpqcSJ14XFNKU"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
-        "name": "Trap de Cria",
-        "url": "https://open.spotify.com/album/2GzS8QreFNrXifx59Jh8Ww"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 117867,
-      "name": "Trap de Cria",
-      "url": "https://open.spotify.com/track/4UWCqKIWKAmdahy3X4xDkA"
     },
     {
       "added_at": "2023-02-07 20:52:54",
@@ -1251,34 +1251,6 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
-        "name": "Oclin e Evoque",
-        "url": "https://open.spotify.com/album/1lm0ePGaAMF91JfN3O9sI7"
-      },
-      "artists": [
-        {
-          "name": "Tropa do Bruxo",
-          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "MC Rick",
-          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
-        },
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        }
-      ],
-      "duration_ms": 212581,
-      "name": "Oclin e Evoque",
-      "url": "https://open.spotify.com/track/3PnDIGbfmswMaxX386zp3X"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
         "name": "T\u00e1 com o Papato (feat. BIN)",
         "url": "https://open.spotify.com/album/4at7Ve0oxnTlQpCg77uEHp"
       },
@@ -1303,6 +1275,34 @@
       "duration_ms": 213333,
       "name": "T\u00e1 com o Papato (feat. BIN)",
       "url": "https://open.spotify.com/track/5eT9vs7mv4Y4HrBWcP6abV"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
+        "name": "Oclin e Evoque",
+        "url": "https://open.spotify.com/album/1lm0ePGaAMF91JfN3O9sI7"
+      },
+      "artists": [
+        {
+          "name": "Tropa do Bruxo",
+          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        }
+      ],
+      "duration_ms": 212581,
+      "name": "Oclin e Evoque",
+      "url": "https://open.spotify.com/track/3PnDIGbfmswMaxX386zp3X"
     },
     {
       "added_at": "2023-02-07 20:52:54",

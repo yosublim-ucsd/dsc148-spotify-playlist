@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 
 > Dope, Asian, and Femme\. Cover: Bella Poarch
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,028 likes - 90 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,049 likes - 90 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,24 +52,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 42 | [damn Right](https://open.spotify.com/track/76Gw6K3kG2zjuNGoFuwxIP) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [damn Right](https://open.spotify.com/album/3SlvWfCmLRNQWZlgzYep3B) | 2:44 |
 | 43 | [Silver Into Rain](https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:21 |
 | 44 | [I WON'T STAY](https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [I WON'T STAY](https://open.spotify.com/album/1zwBTT49NegfvTuQ2k883O) | 4:46 |
-| 45 | [I'm Every Woman \- From “Black History Always / Music For the Movement Vol\. 2"](https://open.spotify.com/track/7v5AEwuaQurzjaOwOzFVdo) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [I'm Every Woman \(From “Black History Always / Music For the Movement Vol\. 2"\)](https://open.spotify.com/album/72cJftl8bK7m7sZxDsDKv3) | 3:39 |
+| 45 | [Stars In The Sky \(feat\. Jhené Aiko\)](https://open.spotify.com/track/4gKCKkQbtejYebL9Km5cu1) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Stars In The Sky \(feat\. Jhené Aiko\)](https://open.spotify.com/album/1RdBxItI4IlFJkHuoaT16y) | 4:13 |
 | 46 | [bon iver](https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 3:16 |
-| 47 | [Stars In The Sky \(feat\. Jhené Aiko\)](https://open.spotify.com/track/4gKCKkQbtejYebL9Km5cu1) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Stars In The Sky \(feat\. Jhené Aiko\)](https://open.spotify.com/album/1RdBxItI4IlFJkHuoaT16y) | 4:13 |
+| 47 | [I'm Every Woman \- From “Black History Always / Music For the Movement Vol\. 2"](https://open.spotify.com/track/7v5AEwuaQurzjaOwOzFVdo) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [I'm Every Woman \(From “Black History Always / Music For the Movement Vol\. 2"\)](https://open.spotify.com/album/72cJftl8bK7m7sZxDsDKv3) | 3:39 |
 | 48 | [LUCID](https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [LUCID](https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C) | 3:38 |
 | 49 | [trust \(feat\. RINI\)](https://open.spotify.com/track/6GJv5FTWGHWgl4uPdpc6O2) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [trust \(feat\. RINI\)](https://open.spotify.com/album/2p01yIsIKueoaEQ8SKG7Bh) | 3:17 |
 | 50 | [Excuses](https://open.spotify.com/track/6Gl9htJmNmnugLygZo15QF) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Excuses](https://open.spotify.com/album/7MDCdHrW6J1k5eK6mqXggt) | 2:25 |
-| 51 | [I Like What I Like](https://open.spotify.com/track/6hZXsWyRgRLcBzjAQfQTQD) | [Maliibu Miitch](https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx) | [I Like What I Like](https://open.spotify.com/album/13W5hU5lcNFTBUo72oJsWT) | 2:27 |
+| 51 | [Rain](https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Rain](https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd) | 2:31 |
 | 52 | [LEGEND](https://open.spotify.com/track/1E1opYkGrFzzJnHyVHDZvq) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LEGEND](https://open.spotify.com/album/4eLLKhnfVgXbNeiZfKXWfb) | 2:37 |
-| 53 | [Rain](https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Rain](https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd) | 2:31 |
+| 53 | [I Like What I Like](https://open.spotify.com/track/6hZXsWyRgRLcBzjAQfQTQD) | [Maliibu Miitch](https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx) | [I Like What I Like](https://open.spotify.com/album/13W5hU5lcNFTBUo72oJsWT) | 2:27 |
 | 54 | [Tweety](https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Tweety](https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T) | 3:52 |
 | 55 | [Emo Song](https://open.spotify.com/track/5hQjB552fc7TQAtdzJTzLo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 3:38 |
 | 56 | [SPICY](https://open.spotify.com/track/0KGn1PDH5cqmD4B8GMVfae) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [SPICY](https://open.spotify.com/album/187GdUKB6sx3DZaL6wpxnO) | 3:14 |
 | 57 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 |
 | 58 | [Drunk Sleeping In Taxis](https://open.spotify.com/track/6JsTJ7ScTRdqz2yotO5aNe) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Drunk Sleeping In Taxis](https://open.spotify.com/album/0SHth88PCHEHHhf2nysItm) | 3:33 |
 | 59 | [All We Have \(feat\. Lastlings\)](https://open.spotify.com/track/3sstd2afQEb5yQw0ldiKI5) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 6:50 |
-| 60 | [Good Love 2.0](https://open.spotify.com/track/0xErrzRegFIsekcvQ5wsS0) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Good Love 2.0](https://open.spotify.com/album/5sDQY6ndqcHq15PD1WZgSl) | 2:54 |
+| 60 | [Rings of Saturn](https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Apollo 8](https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df) | 2:53 |
 | 61 | [Wish You Were Here](https://open.spotify.com/track/47jhKD8sm2I3Aoktj4G5J8) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Wish You Were Here](https://open.spotify.com/album/5MgtnDKyeSkXEkKu5u82gr) | 3:41 |
-| 62 | [Rings of Saturn](https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Apollo 8](https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df) | 2:53 |
+| 62 | [Good Love 2.0](https://open.spotify.com/track/0xErrzRegFIsekcvQ5wsS0) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Good Love 2.0](https://open.spotify.com/album/5sDQY6ndqcHq15PD1WZgSl) | 2:54 |
 | 63 | [We Made It](https://open.spotify.com/track/2gG6IqL2enOyLdluSTcTTS) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [We Made It](https://open.spotify.com/album/15kYOLNxhabZKauG8YIUBa) | 5:14 |
 | 64 | [Flower \(In Full Bloom\)](https://open.spotify.com/track/7hDwJ1WwXkFgznw0ip6kIg) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:51 |
 | 65 | [Our Time](https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Our Time is Blue](https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE) | 3:38 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 89 | [Stomachache](https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Stomachache](https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP) | 3:04 |
 | 90 | [Want U 2 Love Me](https://open.spotify.com/track/10HcnRxq2OmMoFhkZ5Tuza) | [SOHMI](https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK) | [Want U 2 Love Me](https://open.spotify.com/album/3vyvUCu3QyxfxMYTCyhKUv) | 3:17 |
 
-Snapshot ID: `MTY3OTMyODI3MiwwMDAwMDAwMGQyMThmMDlhOWQ3NjI5MGRiYTEyNWM5MjIwZGEyYTE0`
+Snapshot ID: `MTY3OTMyODI3MiwwMDAwMDAwMGE1MmM5MTFjOGY3ZDg1ZmNkYjJjMjQyYTBkOTMzNTNk`

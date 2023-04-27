@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Valeria Castro.
 
-369 songs - 22 hr 32 min
+370 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [En Esta Cama](https://open.spotify.com/track/5YdmYqzuE2GzNvDHiENWh6) | [Daniel Drexler](https://open.spotify.com/artist/5G1Mvuz6SvPPLgVv9NaJDk) | [En Esta Cama](https://open.spotify.com/album/6iaaZ2moZ9xhf3Xd2wpZPG) | 3:55 | 2022-06-10 | 2022-07-23 |
 | [En Las Olas](https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Los Náufragos](https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh) | 3:22 | 2021-12-24 |  |
 | [Enredaderas](https://open.spotify.com/track/7jznLltf0c64ROOQCIEP97) | [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i) | [Enredaderas](https://open.spotify.com/album/6nlqCW3cATF7mm7wtk3iEV) | 3:17 | 2021-12-24 | 2022-07-27 |
-| [Entrar a la luna](https://open.spotify.com/track/1DJCk36SjR5rGighWlHjjX) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [La Santa Patrona de los Corazones Negros](https://open.spotify.com/album/2ajge8g0wBGDtctb0y59IR) | 2:51 | 2023-03-27 |  |
+| [Entrar a la luna](https://open.spotify.com/track/1DJCk36SjR5rGighWlHjjX) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [La Santa Patrona de los Corazones Negros](https://open.spotify.com/album/2ajge8g0wBGDtctb0y59IR) | 2:51 | 2023-03-27 | 2023-04-27 |
 | [Esa Mujer](https://open.spotify.com/track/72rlF6brQpteHdtFrkKw6x) | [Martina diRosso](https://open.spotify.com/artist/24JIpURwvZ9XVW7en6ePao) | [Esa Mujer](https://open.spotify.com/album/53XojKYdq8c957oJd7E7Bh) | 3:06 | 2022-11-25 | 2022-12-03 |
 | [Esta vislumbra](https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Albor](https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7) | 3:21 | 2022-10-28 | 2022-11-12 |
 | [Este Momento](https://open.spotify.com/track/4Vn2kyOnhExYt9czn17VaX) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Renacido](https://open.spotify.com/album/6lhi4ISdbN4qBge018zMxM) | 3:45 | 2023-03-17 |  |
@@ -366,6 +366,7 @@
 | [Vidrieritas](https://open.spotify.com/track/0iII2cRRg31qEKRmfKx545) | [María de la Flor](https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3) | [Vidrieritas](https://open.spotify.com/album/7coLrKNPKAPDZfgLotJ1VW) | 3:35 | 2021-12-24 | 2022-07-29 |
 | [Viento](https://open.spotify.com/track/7F5YuObBApawjkj91ltz9f) | [Natalia Vega](https://open.spotify.com/artist/5ksEvufQxwKs7S2DZb8mxK) | [Viento](https://open.spotify.com/album/6AaumDD4kbBMzZyO94VB9M) | 3:39 | 2021-12-24 | 2022-01-01 |
 | [Visiones Doradas](https://open.spotify.com/track/3K2EEF60dB0dGNlKXXxljH) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Lucio Mantel](https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk) | [Visiones Doradas](https://open.spotify.com/album/0Mf1iyELe7inwpUyiOmDL8) | 2:46 | 2021-12-24 | 2022-08-15 |
+| [Volaré](https://open.spotify.com/track/0i63K6PMAQOw60aJRPV7lm) | [Chiki Lora](https://open.spotify.com/artist/6grE6CSOumB8bUQNh1RPtY), [Canteca de macao](https://open.spotify.com/artist/66xBjuCrzVfhXXvmLxF2UL), [Miryam Latrece](https://open.spotify.com/artist/3QcEeHjRSvL4aQBDaTDKi7) | [Pilares](https://open.spotify.com/album/2DgMUQX65M1iCN3dSW4R0e) | 3:15 | 2023-04-25 |  |
 | [Volaré](https://open.spotify.com/track/1Xzn8guV6Xwux2sS786EwA) | [Chiki Lora](https://open.spotify.com/artist/6grE6CSOumB8bUQNh1RPtY), [Miryam Latrece](https://open.spotify.com/artist/3QcEeHjRSvL4aQBDaTDKi7) | [Volaré](https://open.spotify.com/album/7nFTKMMawHcln7i25yJpoF) | 3:15 | 2021-12-24 | 2022-09-17 |
 | [Volaré](https://open.spotify.com/track/3uOlDLlb6pSt6W4VffyXJR) | [Chiki Lora](https://open.spotify.com/artist/6grE6CSOumB8bUQNh1RPtY), [Miryam Latrece](https://open.spotify.com/artist/3QcEeHjRSvL4aQBDaTDKi7) | [Volaré](https://open.spotify.com/album/4hRvRKx006dk4eFUtNrDH1) | 3:15 | 2022-10-21 | 2022-11-05 |
 | [Voltearemos](https://open.spotify.com/track/6aICoU4YETT0xmhGkQNWVr) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Voltearemos](https://open.spotify.com/album/2SgQl7yy0oMnEJ22uaYIfQ) | 3:12 | 2022-09-09 | 2022-10-11 |

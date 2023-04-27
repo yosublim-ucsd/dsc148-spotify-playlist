@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 
 > Gospel music from across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 460 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 467 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 20 | [Kuna Sauti Yaita](https://open.spotify.com/track/79DSttMu86Iu2cR4PbFPay) | [Ambassadors Of Christ Choir](https://open.spotify.com/artist/2yrDcZOG852sQedI47WMQi) | [Yatupasa Kushukuru](https://open.spotify.com/album/3FTy3A7du71Pa12uK0mJZd) | 3:49 |
 | 21 | [Mwema](https://open.spotify.com/track/0LkKFTwenA513XXLeF9sVy) | [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Mwema](https://open.spotify.com/album/6nXlu9652BlZrJySXjdnsX) | 3:52 |
 | 22 | [Huyu Ni Nani](https://open.spotify.com/track/0l39flJoMHffawcZES5NCS) | [St\. Joseph's Choir Kendu Bay Parish](https://open.spotify.com/artist/4bjImNCR2CnizpD0gGPmeA) | [Bwana Ni Ngome Yangu](https://open.spotify.com/album/1zT0yESxbYFAo3kwDd7QwF) | 5:46 |
-| 23 | [Kirathimo](https://open.spotify.com/track/5lSJluCdq3PPXnawgjLVr6) | [Grace Mwai](https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ) | [Kirathimo](https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa) | 3:43 |
-| 24 | [Mungu Ni Mungu Tu](https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C) | [Christopher Mwahangila](https://open.spotify.com/artist/7MxY8jHpDAllgtfbyg52Kt) | [Mungu Ni Mungu Tu](https://open.spotify.com/album/6VN94Rh765VubmbJqUgsHl) | 8:27 |
+| 23 | [Mungu Ni Mungu Tu](https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C) | [Christopher Mwahangila](https://open.spotify.com/artist/7MxY8jHpDAllgtfbyg52Kt) | [Mungu Ni Mungu Tu](https://open.spotify.com/album/6VN94Rh765VubmbJqUgsHl) | 8:27 |
+| 24 | [Kirathimo](https://open.spotify.com/track/5lSJluCdq3PPXnawgjLVr6) | [Grace Mwai](https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ) | [Kirathimo](https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa) | 3:43 |
 | 25 | [Nikumbushe Wema Wako](https://open.spotify.com/track/62cnrFkQOy5jBuOoCBm5qT) | [Angel Benard](https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD) | [Nikumbushe Wema Wako](https://open.spotify.com/album/5u0BBGqAaYEgN3Kkrk41AX) | 7:19 |
 | 26 | [Mtetezi Wangu](https://open.spotify.com/track/6vacqGQJFXankKL8FKmip3) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Unikumbuke](https://open.spotify.com/album/7lzVt24bz7uDqzgymkGayu) | 8:10 |
 | 27 | [Ipo Siku](https://open.spotify.com/track/3fFvTmzx1VcXY27OZ81FgH) | [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Ipo Siku](https://open.spotify.com/album/4XeVEyWo9UFsSGXfzuIu8C) | 5:47 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 43 | [Vimbada](https://open.spotify.com/track/6PAZJPDC9Qrcz30gpiCMMx) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [Yesu Mtaani](https://open.spotify.com/album/5grus83AKDhpY4rKcBV3VS) | 3:14 |
 | 44 | [Pale Pale](https://open.spotify.com/track/20CfRlYyl69ZcixsWjIXR9) | [Size 8](https://open.spotify.com/artist/4ZnnTnbEvzqmp1r52XTbBe) | [Pale Pale](https://open.spotify.com/album/1UCwuyBGve3MilWhoBhIhl) | 3:30 |
 | 45 | [Racing Up](https://open.spotify.com/track/6uJ8mhRbvODOmvGgyHPGve) | [Paul Mwai](https://open.spotify.com/artist/7yczYyhXtaaQlfqJKVxUjR) | [Racing Up](https://open.spotify.com/album/06gzQhRnM1t1bqi4u8jJfa) | 4:59 |
-| 46 | [Vanity](https://open.spotify.com/track/2hU8ghQ7P480nxYoD3hzmc) | [Daddy Owen](https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy) | [Vanity](https://open.spotify.com/album/6llcDSIf386x2uFut64Z0O) | 4:37 |
-| 47 | [Praise Him](https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Joel Lwaga](https://open.spotify.com/artist/1CGmb8fVUO9TGKBiFu6WTW) | [Praise Him](https://open.spotify.com/album/0gQuGIBnEH02dMRsj76gKZ) | 5:24 |
+| 46 | [Praise Him](https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Joel Lwaga](https://open.spotify.com/artist/1CGmb8fVUO9TGKBiFu6WTW) | [Praise Him](https://open.spotify.com/album/0gQuGIBnEH02dMRsj76gKZ) | 5:24 |
+| 47 | [Vanity](https://open.spotify.com/track/2hU8ghQ7P480nxYoD3hzmc) | [Daddy Owen](https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy) | [Vanity](https://open.spotify.com/album/6llcDSIf386x2uFut64Z0O) | 4:37 |
 | 48 | [Wacha Story](https://open.spotify.com/track/6tZ9ux4XLVmeHbW8yPrMtH) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [Yesu Mtaani](https://open.spotify.com/album/5grus83AKDhpY4rKcBV3VS) | 3:41 |
 | 49 | [Mungu Mkuu](https://open.spotify.com/track/50Fkvb6cISuTobM1YA7Gys) | [Evelyn Wanjiru](https://open.spotify.com/artist/7EWjYW7bIdaCPSa7XvUyQK) | [Mungu Mkuu](https://open.spotify.com/album/7d5UjFXgi6OO2MYYsFx8aj) | 5:03 |
 | 50 | [My Everything](https://open.spotify.com/track/701bS0JRIz8otP7cNysD63) | [Wahu](https://open.spotify.com/artist/71rskhiIZ7C255cRyXfZOq) | [Wahu Gospel EP](https://open.spotify.com/album/4IAGY70XLlwIs5X4ALHtZ1) | 3:57 |
 
-Snapshot ID: `MTY4MjAzNTI2MCwwMDAwMDAwMDMzZTg3MzgyNmNlNGVlYjM0MGY2N2Q0NDI0NTMxOTBm`
+Snapshot ID: `MTY4MjAzNTI2MCwwMDAwMDAwMDI1MTBkMTQyNzIxNzhhYjUzYmQ0YmQ4OWVhZGJiZTU5`

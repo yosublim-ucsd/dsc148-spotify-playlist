@@ -4,7 +4,7 @@
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-198 songs - 13 hr 22 min
+199 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Jaguar](https://open.spotify.com/track/0QcwSZWxpePBVSCbfIJUz6) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Jaguar](https://open.spotify.com/album/2jKVZKviFNCICo24dK6nJ2) | 4:46 | 2022-06-09 |  |
 | [Jaguar](https://open.spotify.com/track/4JLojdKkKNM3rgvP2zvUGR) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Jaguar](https://open.spotify.com/album/5H4o8uDIIhavTtYbUsoiBn) | 4:46 | 2021-04-16 | 2022-07-29 |
 | [Jah No Partial \- Yellow Claw & Yung Felix Remix](https://open.spotify.com/track/7guegNxwAH0uZsQx7i69Iw) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [All Trap Music 2](https://open.spotify.com/album/1nrVGGwTzWdr6HSPuMnUVr) | 3:10 | 2021-04-16 | 2022-07-29 |
-| [Kick Out The Epic Motherf\*\*ker \- Vocal Version](https://open.spotify.com/track/5B4RzgnBLi7BU1CLQ4j0Nw) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [Kick Out The Epic Motherf\*\*ker \(Vocal Version\)](https://open.spotify.com/album/2lXDflusONskee9ju4BhuN) | 3:27 | 2021-04-16 |  |
+| [Kick Out The Epic Motherf\*\*ker \- Vocal Version](https://open.spotify.com/track/5B4RzgnBLi7BU1CLQ4j0Nw) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [Kick Out The Epic Motherf\*\*ker \(Vocal Version\)](https://open.spotify.com/album/2lXDflusONskee9ju4BhuN) | 3:27 | 2021-04-16 | 2023-04-27 |
 | [Language](https://open.spotify.com/track/3NRDLYyqIXja0UElvdzjkB) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Language](https://open.spotify.com/album/1qFaRvYByhkdCqJSIZJ5Pf) | 6:08 | 2022-06-09 |  |
 | [Language](https://open.spotify.com/track/4ta97KyyCWLCQAAFtOWFpy) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Language](https://open.spotify.com/album/24FFBFTNl0Rraus5wPoQnH) | 6:08 | 2021-04-16 | 2022-07-29 |
 | [Last Chance](https://open.spotify.com/track/1ags60Iq9M0vFlvSLAOZE4) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Project 46](https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ) | [Atmosphere](https://open.spotify.com/album/6poiDDI8corGzWMXUechzZ) | 4:18 | 2021-04-16 |  |
@@ -139,6 +139,7 @@
 | [Reason \- Original Mix](https://open.spotify.com/track/3jv65zRRbc9CxRxrm0mdpv) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Reason](https://open.spotify.com/album/1JrP8ICXREIdJVjKQTwaOk) | 6:01 | 2021-04-16 | 2022-07-29 |
 | [Red Lights](https://open.spotify.com/track/5L2l7mI8J1USMzhsmdjat9) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [A Town Called Paradise](https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp) | 4:22 | 2021-04-16 |  |
 | [Reload \- Radio Edit](https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Reload \(Vocal Version / Radio Edit\)](https://open.spotify.com/album/2UgmfoJF7x7cQmWADnoQdG) | 3:41 | 2021-04-16 |  |
+| [Resurrection \- Axwell Recut Radio Version](https://open.spotify.com/track/2DAxxGq7ozovsvgmccwHmC) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9) | [Electronic Music Anthology Vol.4 \(by FG\)](https://open.spotify.com/album/7L2ZHZ0BrbnZu3pe4CuisU) | 2:45 | 2022-06-09 |  |
 | [Resurrection \- Axwell's Recut Radio Version](https://open.spotify.com/track/2WaA5bVXcIqqpz9j0gd7qK) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [Resurrection](https://open.spotify.com/album/57LJYj1EAJ6DmWaRbYZvVA) | 2:46 | 2021-04-16 | 2023-04-16 |
 | [Revolution](https://open.spotify.com/track/1e8g8Zypak1hTK8l12olYd) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Imanos](https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb), [kai](https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml) | [Revolution](https://open.spotify.com/album/1LfYvibIWM1oqBIzO7XY3c) | 4:23 | 2022-06-09 | 2022-11-13 |
 | [Revolution \(feat\. Faustix & Imanos and Kai\)](https://open.spotify.com/track/7aaeZpSr54XQKSwMYO5JeH) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Faustix & Imanos](https://open.spotify.com/artist/4BXklnu49JdL9ZJBSiN3Hx), [Kai](https://open.spotify.com/artist/1gS7f2dZDZorikdyFNeEp4) | [Random White Dude Be Everywhere](https://open.spotify.com/album/4c7lxBZCbR8SQsoVvO2lCb) | 4:23 | 2022-06-09 |  |

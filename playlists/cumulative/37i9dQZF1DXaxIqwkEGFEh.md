@@ -4,7 +4,7 @@
 
 > Strictly for the streets\. Cover: Key Glock
 
-815 songs - 1 day 13 hr 54 min
+816 songs - 1 day 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,8 @@
 | [Forever TrapN](https://open.spotify.com/track/57PdhQugNZTo4YW8bhpEtJ) | [Hardo](https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ) | [Forever TrapN](https://open.spotify.com/album/2tXknIrGVmjJ3JlpMEFyuw) | 2:13 | 2022-03-18 | 2022-04-02 |
 | [FreakyT](https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [I Can't Wait](https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7) | 2:14 | 2022-12-16 | 2023-02-18 |
 | [Free 1031](https://open.spotify.com/track/1SPOSlna6m6RAQFIoxeVXO) | [Eli Fross](https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg) | [Free 1031](https://open.spotify.com/album/18Z70iFe6LiGLNJXS3Aq9T) | 2:02 | 2022-06-24 | 2022-10-01 |
-| [FREE ALL THE LIFERS](https://open.spotify.com/track/14VCg6XYSFYiw1O2NG0wgG) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [FREE ALL THE LIFERS](https://open.spotify.com/album/6rT8yJzXMH35nnkbOXdUKD) | 2:18 | 2023-04-07 |  |
+| [FREE ALL THE LIFERS](https://open.spotify.com/track/14VCg6XYSFYiw1O2NG0wgG) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [FREE ALL THE LIFERS](https://open.spotify.com/album/6rT8yJzXMH35nnkbOXdUKD) | 2:18 | 2023-04-07 | 2023-04-27 |
+| [FREE ALL THE LIFERS](https://open.spotify.com/track/6YepRSEszLQ8qURJHpNQkK) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Kollect Kall](https://open.spotify.com/album/1l93oDZaNAsTF0GqsRa3m0) | 2:18 | 2023-04-07 |  |
 | [Free Mason](https://open.spotify.com/track/4kisEdLXmdb4MVr25XZV9B) | [Wacotron](https://open.spotify.com/artist/4CAL0nDGvLhUfQEpwSLnUz) | [Free Mason](https://open.spotify.com/album/2x1eDK721WNTGKXMVNcLKi) | 2:10 | 2022-01-28 | 2022-02-26 |
 | [Free RIC \(feat\. Lil Durk\)](https://open.spotify.com/track/4wfIBPCUt21RtVX1K0oj45) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Free Dem Boyz \(Deluxe\)](https://open.spotify.com/album/66nqCnC1huqh5gqkGeGIAS) | 3:39 | 2021-09-03 | 2022-01-29 |
 | [Free Smoke \(feat\. Big Scarr\)](https://open.spotify.com/track/7iGccmhFNFfZel0nLIJ8Uc) | [Hotboy Wes](https://open.spotify.com/artist/2Lgyk37aJufoDDSoU4S5nO), [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz) | [Free Smoke \(feat\. Big Scarr\)](https://open.spotify.com/album/7K21HUJyYsZrH2edfA1kF7) | 2:14 | 2021-09-10 | 2022-02-27 |

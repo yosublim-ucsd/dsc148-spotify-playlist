@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined the other side of the 80s. Cover: Kate Bush",
-  "num_followers": 878459,
+  "num_followers": 878757,
   "original_name": "Alternative 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDY2NTA0NywwMDAwMDAwMGUzNjdmNTg4ZjFhYThmM2E1ZjZlZjM1MzczNTE4NGJl",
+  "snapshot_id": "MTY3NDY2NTA0NywwMDAwMDAwMGJlMDU2YjEwNzllZjY2N2E0ZTk2N2ZkMWYzOTJhMDRl",
   "tracks": [
     {
       "added_at": "2022-11-17 20:08:09",
@@ -99,22 +99,6 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "Nena",
-        "url": "https://open.spotify.com/album/78hVLZZJhaXgrnfXKc6yxF"
-      },
-      "artists": [
-        {
-          "name": "Nena",
-          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
-        }
-      ],
-      "duration_ms": 232466,
-      "name": "99 Luftballons",
-      "url": "https://open.spotify.com/track/4ZhPLoMzZwewHLLjV1J15c"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
         "name": "The Age of Consent",
         "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 302413,
       "name": "Smalltown Boy",
       "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "Nena",
+        "url": "https://open.spotify.com/album/78hVLZZJhaXgrnfXKc6yxF"
+      },
+      "artists": [
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
+        }
+      ],
+      "duration_ms": 232466,
+      "name": "99 Luftballons",
+      "url": "https://open.spotify.com/track/4ZhPLoMzZwewHLLjV1J15c"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "Off The Bone",
-        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 136426,
-      "name": "Human Fly",
-      "url": "https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
         "name": "Boy (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 217386,
       "name": "I Will Follow - Remastered 2008",
       "url": "https://open.spotify.com/track/0T702y9ndzZTnPq1bqiAM2"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "Off The Bone",
+        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 136426,
+      "name": "Human Fly",
+      "url": "https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "Seventeen Seconds (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 354933,
-      "name": "A Forest - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
         "name": "Daydream Nation (Deluxe Edition)",
         "url": "https://open.spotify.com/album/23O4F21GDWiGd33tFN3ZgI"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 417800,
       "name": "Teen Age Riot (Album Version)",
       "url": "https://open.spotify.com/track/0WIbzDVEpmOyBnqqdtqIL9"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "Seventeen Seconds (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 354933,
+      "name": "A Forest - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH"
     },
     {
       "added_at": "2022-11-17 20:08:09",

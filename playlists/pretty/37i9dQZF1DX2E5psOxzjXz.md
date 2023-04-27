@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,650 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,677 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 42 | [Hobby](https://open.spotify.com/track/4qkx01gDUsZlbZ42qHJuQE) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ), [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP) | [Hobby](https://open.spotify.com/album/5xrlaAi6mUZ4FWz6gMwBi3) | 3:00 |
 | 43 | [Choro](https://open.spotify.com/track/13GkX2Jop4q9FxtGvwb3MH) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285) | [Choro](https://open.spotify.com/album/47LlbY7qhYsG5aPXflzG69) | 3:52 |
 | 44 | [Mera Musafir](https://open.spotify.com/track/02zLhpWokJghrfZrwV2z8a) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [Suno](https://open.spotify.com/album/3pHRNlVpIx4PBBXxBkoUTZ) | 4:51 |
-| 45 | [Ijazat Cover](https://open.spotify.com/track/18XICD9QHduuxiewBjFZga) | [Arnob Khan Akib](https://open.spotify.com/artist/6MmkwDpS1JUxr05xRBx5Tu) | [Ijazat Cover](https://open.spotify.com/album/58Ri6HbF07OMoYoE41Qfs9) | 1:30 |
+| 45 | [Ijazat](https://open.spotify.com/track/0wNyBPr6W8JSC9f39FCYbT) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Ijazat](https://open.spotify.com/album/4EwUuN903KFiw9IZmWlos6) | 1:30 |
 | 46 | [Bandhan](https://open.spotify.com/track/3akoaFxqxnPQWl376rbVCt) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Bandhan](https://open.spotify.com/album/65cIprQKiOBRh1fuKHM2B3) | 4:50 |
 | 47 | [Din Dhalay](https://open.spotify.com/track/1y30e6iFISuGTbpO68H1Ob) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 5:36 |
 | 48 | [Trust Issues](https://open.spotify.com/track/1m5KaAuRcBwvlSgHo8vJap) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm) | [Trust Issues](https://open.spotify.com/album/75I74MMyl3fdzJL3ENkj7T) | 2:27 |
 | 49 | [Raaz\-e\-Fitna](https://open.spotify.com/track/5XuB6NxRdUqlHl3MjP5TTu) | [Asfar Hussain](https://open.spotify.com/artist/7lDDbppbcK5F2ZJXG12pru) | [Raaz\-e\-Fitna](https://open.spotify.com/album/0QvkhdtDA25dZ6ULww4fZY) | 2:40 |
 | 50 | [Lamha](https://open.spotify.com/track/2dCrvLPU36Iv8p7Tq1Vy6V) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7) | [Chaar Dinon Ka Khwaab](https://open.spotify.com/album/72qKpOx8VNdYxZriGFnBnz) | 4:48 |
 
-Snapshot ID: `MTY4MDg1NjQxMSwwMDAwMDAwMGFlODM5N2QwZTIwYmExM2JiMmE1MjE5OWMxYTEyYTRi`
+Snapshot ID: `MTY4MDg1NjQxMSwwMDAwMDAwMGI0YzU5MGFkNDk5M2U3NTdmYTQ3ZTJmNmI5ZGM3YTg5`

@@ -1,12 +1,12 @@
 {
   "description": "A playlist to get you through your whole workday.",
-  "num_followers": 263192,
+  "num_followers": 263415,
   "original_name": "Music for a Workday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTc3MTYzMSwwMDAwMDAwMDQ4YjM3N2NlZmFmOTJjYzA4Zjg2ZTdiNGZlMmE2ODNk",
+  "snapshot_id": "MTYxOTc3MTYzMSwwMDAwMDAwMDliNmRmMGI2ZmYyMzk0M2JkMzViNzU3YWJhYjc1YmU4",
   "tracks": [
     {
       "added_at": "2021-04-30 08:33:50",
@@ -703,22 +703,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Into The Light",
-        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
-      },
-      "artists": [
-        {
-          "name": "Chris de Burgh",
-          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "The Lady In Red",
-      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "H2O",
         "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
       },
@@ -735,18 +719,34 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Look Up Child",
-        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+        "name": "Into The Light",
+        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
       },
       "artists": [
         {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+          "name": "Chris de Burgh",
+          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
         }
       ],
-      "duration_ms": 274693,
-      "name": "You Say",
-      "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
+      "duration_ms": 256173,
+      "name": "The Lady In Red",
+      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Lost on You",
+        "url": "https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "duration_ms": 268105,
+      "name": "Lost on You",
+      "url": "https://open.spotify.com/track/2LIh4uzqq9cXMPzzmcToHl"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -767,18 +767,18 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Lost on You",
-        "url": "https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw"
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
       },
       "artists": [
         {
-          "name": "LP",
-          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 268105,
-      "name": "Lost on You",
-      "url": "https://open.spotify.com/track/2LIh4uzqq9cXMPzzmcToHl"
+      "duration_ms": 274693,
+      "name": "You Say",
+      "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -943,22 +943,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "The John Denver Collection, Vol 1: Take Me Home Country Roads",
-        "url": "https://open.spotify.com/album/7M3cxHsH8qYoVtD50ABfvU"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 197813,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/1QbOvACeYanja5pbnJbAmk"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/3qJTNgjVc6EM3yJnjFAALE"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 252230,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "The John Denver Collection, Vol 1: Take Me Home Country Roads",
+        "url": "https://open.spotify.com/album/7M3cxHsH8qYoVtD50ABfvU"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 197813,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/1QbOvACeYanja5pbnJbAmk"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "...Nothing Like The Sun",
-        "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 267266,
-      "name": "Englishman In New York",
-      "url": "https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 240600,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "...Nothing Like The Sun",
+        "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 267266,
+      "name": "Englishman In New York",
+      "url": "https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
+        "name": "Working Class Dog",
+        "url": "https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa"
+      },
+      "artists": [
+        {
+          "name": "Rick Springfield",
+          "url": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
+        }
+      ],
+      "duration_ms": 194120,
+      "name": "Jessie's Girl",
+      "url": "https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
         "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
         "url": "https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 259550,
       "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
-        "name": "Working Class Dog",
-        "url": "https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa"
-      },
-      "artists": [
-        {
-          "name": "Rick Springfield",
-          "url": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
-        }
-      ],
-      "duration_ms": 194120,
-      "name": "Jessie's Girl",
-      "url": "https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
-      },
-      "artists": [
-        {
-          "name": "Talk Talk",
-          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
-        }
-      ],
-      "duration_ms": 232400,
-      "name": "It's My Life - 1997 Remaster",
-      "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Nation of Two",
         "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
       },
@@ -1439,18 +1423,18 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "1950",
-        "url": "https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN"
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
       },
       "artists": [
         {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+          "name": "Talk Talk",
+          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
         }
       ],
-      "duration_ms": 225133,
-      "name": "1950",
-      "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
+      "duration_ms": 232400,
+      "name": "It's My Life - 1997 Remaster",
+      "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1471,6 +1455,22 @@
       "duration_ms": 305866,
       "name": "Easy Lover",
       "url": "https://open.spotify.com/track/5LYJ631w9ps5h9tdvac7yP"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "1950",
+        "url": "https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "1950",
+      "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "3 (The Purple Album)",
-        "url": "https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Love Someone",
-      "url": "https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Rainbow",
         "url": "https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 230266,
       "name": "Praying",
       "url": "https://open.spotify.com/track/0jdny0dhgjUwoIp5GkqEaA"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "3 (The Purple Album)",
+        "url": "https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Love Someone",
+      "url": "https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "I Can See Clearly Now",
-        "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
-      },
-      "artists": [
-        {
-          "name": "Johnny Nash",
-          "url": "https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a"
-        }
-      ],
-      "duration_ms": 164733,
-      "name": "I Can See Clearly Now - Edit",
-      "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "The Good Parts",
         "url": "https://open.spotify.com/album/0lq7zwC6uQiu8pwW5FK3Fb"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 198001,
       "name": "Fresh Eyes",
       "url": "https://open.spotify.com/track/5NDUXbMwcnTQp66tI2zcdR"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "I Can See Clearly Now",
+        "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
+      },
+      "artists": [
+        {
+          "name": "Johnny Nash",
+          "url": "https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a"
+        }
+      ],
+      "duration_ms": 164733,
+      "name": "I Can See Clearly Now - Edit",
+      "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
+        "name": "True - The Digital E.P.",
+        "url": "https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn"
+      },
+      "artists": [
+        {
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+        }
+      ],
+      "duration_ms": 329146,
+      "name": "True - Single Edit",
+      "url": "https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/1jcNHi5D96aaD0T5f1OjFY"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 163905,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/6Ed1q0X8oSKSm4IIhiQbYg"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
-        "name": "True - The Digital E.P.",
-        "url": "https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn"
-      },
-      "artists": [
-        {
-          "name": "Spandau Ballet",
-          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
-        }
-      ],
-      "duration_ms": 329146,
-      "name": "True - Single Edit",
-      "url": "https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
+        "name": "Confident",
+        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 191307,
+      "name": "Stone Cold",
+      "url": "https://open.spotify.com/track/3by8IfnW9dZ2t4pZw1WVxz"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
         "name": "Love Hurts",
         "url": "https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 218186,
       "name": "Moonlight Shadow",
       "url": "https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
-        "name": "Confident",
-        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 191307,
-      "name": "Stone Cold",
-      "url": "https://open.spotify.com/track/3by8IfnW9dZ2t4pZw1WVxz"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "This Is the Sea (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0LoiHiWrQr7b0a4wlYVqSh"
-      },
-      "artists": [
-        {
-          "name": "The Waterboys",
-          "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ"
-        }
-      ],
-      "duration_ms": 302826,
-      "name": "The Whole of the Moon - 2004 Remaster",
-      "url": "https://open.spotify.com/track/1LzFh1VZ0FLeUesOFEuhyl"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "I AM...SASHA FIERCE",
         "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU"
       },
@@ -2063,18 +2047,18 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Break My Heart",
-        "url": "https://open.spotify.com/album/368tzVdeju4vLSY8PHnQUs"
+        "name": "This Is the Sea (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0LoiHiWrQr7b0a4wlYVqSh"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "The Waterboys",
+          "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ"
         }
       ],
-      "duration_ms": 221820,
-      "name": "Break My Heart",
-      "url": "https://open.spotify.com/track/1raaNykBg1bDnWENUiglUA"
+      "duration_ms": 302826,
+      "name": "The Whole of the Moon - 2004 Remaster",
+      "url": "https://open.spotify.com/track/1LzFh1VZ0FLeUesOFEuhyl"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -2095,22 +2079,18 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Red Pill Blues (Deluxe)",
-        "url": "https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH"
+        "name": "Break My Heart",
+        "url": "https://open.spotify.com/album/368tzVdeju4vLSY8PHnQUs"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 199849,
-      "name": "What Lovers Do (feat. SZA)",
-      "url": "https://open.spotify.com/track/2j5hsQvApottzvTn4pFJWF"
+      "duration_ms": 221820,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/1raaNykBg1bDnWENUiglUA"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -2127,6 +2107,26 @@
       "duration_ms": 207851,
       "name": "TOOTIMETOOTIMETOOTIME",
       "url": "https://open.spotify.com/track/33DzKnwuBE6lfOiADwzd5E"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Red Pill Blues (Deluxe)",
+        "url": "https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 199849,
+      "name": "What Lovers Do (feat. SZA)",
+      "url": "https://open.spotify.com/track/2j5hsQvApottzvTn4pFJWF"
     },
     {
       "added_at": "2021-04-30 08:33:50",

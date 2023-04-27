@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YdXS8.md) - [plain]
 
 > This is Selena\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,856 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,018 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YdXS8.md) - [plain]
 | 33 | [Como Te Quiero Yo A Ti \- Regional Mexican Version](https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Como Te Quiero Yo A Ti \(Regional Mexican Version\)](https://open.spotify.com/album/3248Ap0ShuOzNBxBncwh4H) | 3:09 |
 | 34 | [Missing My Baby](https://open.spotify.com/track/7qTljW3wfx3CM8oEQeB2cR) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:51 |
 | 35 | [Cien Años](https://open.spotify.com/track/2PAo9vxNI34cHnYqYBDPFa) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Primeros Éxitos](https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU) | 3:11 |
-| 36 | [El Toro Relajo](https://open.spotify.com/track/5t1POWyhbKw2U24reBLfO1) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 2:20 |
-| 37 | [Yo Fui Aquella \- .](https://open.spotify.com/track/1xoNViCJArwctEfzI1POqS) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Selena: The Series Soundtrack](https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN) | 3:03 |
+| 36 | [Yo Fui Aquella \- .](https://open.spotify.com/track/1xoNViCJArwctEfzI1POqS) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Selena: The Series Soundtrack](https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN) | 3:03 |
+| 37 | [El Toro Relajo](https://open.spotify.com/track/5t1POWyhbKw2U24reBLfO1) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 2:20 |
 | 38 | [Cumbia Medley \- Live](https://open.spotify.com/track/1ukUDShP9cx9uk9YC7FIBW) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Movie Soundtrack](https://open.spotify.com/album/6tgYUMd4BkJnE88UfrUSDO) | 8:38 |
 | 39 | [I Could Fall In Love](https://open.spotify.com/track/6hVSuCzfJSF8Hla1fzqThH) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL), [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [A.B\. Quintanilla III & Kumbia Kumbia Kings Present The Duets](https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e) | 4:50 |
 | 40 | [Enamorada De Ti](https://open.spotify.com/track/7bnlKGXoDYlc6PXeb9KcQ8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo \- Selena 20 Years Of Music](https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG) | 4:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YdXS8.md) - [plain]
 | 49 | [Yo Me Voy](https://open.spotify.com/track/2zLGyCNHSXh289D7NJBXCF) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo \- Selena 20 Years Of Music](https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG) | 3:30 |
 | 50 | [Corazoncito \- Regional Mexican Version](https://open.spotify.com/track/1NtLJWyxSzbu0HcKg6rCGG) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [MOONCHILD MIXES](https://open.spotify.com/album/71Om9aLEMuwpmB0POX3amC) | 2:21 |
 
-Snapshot ID: `MjgwNDA0NDAsMDAwMDAwMDA1ZGJkYmQ1NzI3NTg2YmEzMmE3ZmI0YTRlODQxYjIzOA==`
+Snapshot ID: `MjgwNDE5MzAsMDAwMDAwMDAyOGRhNjBiNDU4NGY1YTFiYmRmMWYwZjY1NzkxYzBhNg==`

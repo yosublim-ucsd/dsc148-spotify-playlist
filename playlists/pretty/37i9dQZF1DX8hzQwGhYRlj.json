@@ -1,12 +1,12 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 30364,
+  "num_followers": 30374,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDhhOGJmNjM1NTYzZDc1NTMxY2RmZDZmYTgwYjU5MDNj",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGE4MGYzM2Q4ODc3ZTBiOGFmZjQ4MzY4MDRjMGUyZmY4",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -403,26 +403,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "The Long, Long Winter Night",
-        "url": "https://open.spotify.com/album/7Acie5cNav6oF3DpHw0GmO"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        }
-      ],
-      "duration_ms": 71773,
-      "name": "Grieg: Norwegian Peasant Dances, Op. 72: No. 6, Gangar",
-      "url": "https://open.spotify.com/track/7eZ7nqIC6eP9e3H234aOP7"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Franck, Grieg, Dvorak: Sonatas for violin & piano",
         "url": "https://open.spotify.com/album/4uV6IfyA4Chwo8pRxyQkoB"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 362716,
       "name": "Grieg: Violin Sonata No. 3 in C Minor, Op. 45: II. Allegretto espressivo alla romanza",
       "url": "https://open.spotify.com/track/26IsOkbxM5eh9CTS2FvxTm"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "The Long, Long Winter Night",
+        "url": "https://open.spotify.com/album/7Acie5cNav6oF3DpHw0GmO"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "duration_ms": 71773,
+      "name": "Grieg: Norwegian Peasant Dances, Op. 72: No. 6, Gangar",
+      "url": "https://open.spotify.com/track/7eZ7nqIC6eP9e3H234aOP7"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -523,26 +523,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Piano Concerto; Lyric Pieces",
-        "url": "https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Javier Perianes",
-          "url": "https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz"
-        }
-      ],
-      "duration_ms": 300560,
-      "name": "Lyric Pieces, Op. 38, Book II: VIII. Kanon (Allegretto con moto)",
-      "url": "https://open.spotify.com/track/2EBUOAXr3ViEWUXLlEvTFT"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Lyric Pieces; Sonata; Fugues",
         "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 181506,
       "name": "Lyric Pieces, Op. 43: VI. To the Spring",
       "url": "https://open.spotify.com/track/7FdTdDt7bRTFo4x4hmdadD"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg: Piano Concerto; Lyric Pieces",
+        "url": "https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Javier Perianes",
+          "url": "https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz"
+        }
+      ],
+      "duration_ms": 300560,
+      "name": "Lyric Pieces, Op. 38, Book II: VIII. Kanon (Allegretto con moto)",
+      "url": "https://open.spotify.com/track/2EBUOAXr3ViEWUXLlEvTFT"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -771,26 +771,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Lyric Pieces; Sonata; Fugues",
-        "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Mikhail Pletnev",
-          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Lyric Pieces IV, Op. 47: No. 3 Melodie",
-      "url": "https://open.spotify.com/track/5iEnou51q2TGpOcT7nqVZm"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Orchestral Music, Vol. 4: Peer Gynt Suites - Orchestral Songs",
         "url": "https://open.spotify.com/album/0bY9XRCl9JwYFNbsdFk8Nj"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 233946,
       "name": "6 Orchestral Songs, EG 177: No. 2, Solveig's Cradle Song",
       "url": "https://open.spotify.com/track/1cn9lxwu0DlFrQrnhWrrs8"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg: Lyric Pieces; Sonata; Fugues",
+        "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Lyric Pieces IV, Op. 47: No. 3 Melodie",
+      "url": "https://open.spotify.com/track/5iEnou51q2TGpOcT7nqVZm"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1015,8 +1015,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
-        "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
+        "name": "Grieg: Piano, Orchestral & Vocal Works, Chamber Music",
+        "url": "https://open.spotify.com/album/37zUluscLmlk6u8RqrO6Cl"
       },
       "artists": [
         {
@@ -1024,17 +1024,13 @@
           "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
         },
         {
-          "name": "Sakari Oramo",
-          "url": "https://open.spotify.com/artist/71dLaXD8sd1tV1LzFqUj3q"
-        },
-        {
-          "name": "City Of Birmingham Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
         }
       ],
-      "duration_ms": 429933,
-      "name": "Grieg: 4 Symphonic Dances, Op. 64: I. Allegro moderato e marcato",
-      "url": "https://open.spotify.com/track/3DFnOHuNdGaLRFDtbAhfGZ"
+      "duration_ms": 151320,
+      "name": "Grieg: Moods, Op. 73: No. 4, Folk Song",
+      "url": "https://open.spotify.com/track/1Gto2d2iJfpjeP8BAJSDKq"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1059,8 +1055,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Piano, Orchestral & Vocal Works, Chamber Music",
-        "url": "https://open.spotify.com/album/37zUluscLmlk6u8RqrO6Cl"
+        "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
+        "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
       },
       "artists": [
         {
@@ -1068,13 +1064,17 @@
           "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
         },
         {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+          "name": "Sakari Oramo",
+          "url": "https://open.spotify.com/artist/71dLaXD8sd1tV1LzFqUj3q"
+        },
+        {
+          "name": "City Of Birmingham Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
         }
       ],
-      "duration_ms": 151320,
-      "name": "Grieg: Moods, Op. 73: No. 4, Folk Song",
-      "url": "https://open.spotify.com/track/1Gto2d2iJfpjeP8BAJSDKq"
+      "duration_ms": 429933,
+      "name": "Grieg: 4 Symphonic Dances, Op. 64: I. Allegro moderato e marcato",
+      "url": "https://open.spotify.com/track/3DFnOHuNdGaLRFDtbAhfGZ"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Piano Sonata, Op. 7 / Stimmungen / 4 Piano Pieces, Op. 1",
-        "url": "https://open.spotify.com/album/0YsAMGxpqI8BnX0H2cYSh5"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Einar Steen-N\u00f8kleberg",
-          "url": "https://open.spotify.com/artist/417bLc6SGbykzJLkFLD9HZ"
-        }
-      ],
-      "duration_ms": 354773,
-      "name": "Piano Sonata in E Minor, Op. 7: IV. Finale: Molto allegro",
-      "url": "https://open.spotify.com/track/57SjPojnoiQYo63PUDDiwq"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Complete Music with Orchestra",
         "url": "https://open.spotify.com/album/6Wg6lJX2OA5kF0oEIN0EUK"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 211000,
       "name": "Holberg Suite, Op. 40: III. Gavotte (Allegretto) - Musette (poco pi\u00f9 mosso) - Gavotte",
       "url": "https://open.spotify.com/track/6LneKcb0FT0xwU4RhFjmcs"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg: Piano Sonata, Op. 7 / Stimmungen / 4 Piano Pieces, Op. 1",
+        "url": "https://open.spotify.com/album/0YsAMGxpqI8BnX0H2cYSh5"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Einar Steen-N\u00f8kleberg",
+          "url": "https://open.spotify.com/artist/417bLc6SGbykzJLkFLD9HZ"
+        }
+      ],
+      "duration_ms": 354773,
+      "name": "Piano Sonata in E Minor, Op. 7: IV. Finale: Molto allegro",
+      "url": "https://open.spotify.com/track/57SjPojnoiQYo63PUDDiwq"
     },
     {
       "added_at": "2022-09-30 04:01:00",

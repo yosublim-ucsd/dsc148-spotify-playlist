@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 43292,
+  "num_followers": 43296,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjQ0MTk2MCwwMDAwMDAwMDY4Mjg5NTI0ZDM0MGY2YzVkMDkxYzFjY2MxMDljMjg0",
+  "snapshot_id": "MTY4MjQ0MTk2MCwwMDAwMDAwMDQ2MTNlM2U5YjdmNzY3MTM5MDgwZjg4MWQ3NDI3MTdi",
   "tracks": [
     {
       "added_at": "2023-04-25 16:59:20",
@@ -45,7 +45,7 @@
       "artists": [
         {
           "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+          "url": "https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF"
         }
       ],
       "duration_ms": 184791,
@@ -555,22 +555,18 @@
     {
       "added_at": "2023-04-25 16:59:20",
       "album": {
-        "name": "oh to be in love",
-        "url": "https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9"
+        "name": "LOCATION - Los Angeles",
+        "url": "https://open.spotify.com/album/4gpuX2juCWTe8gWsBCznlp"
       },
       "artists": [
         {
-          "name": "Stephanie Poetri",
-          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
-        },
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+          "name": "Friday Night Plans",
+          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
         }
       ],
-      "duration_ms": 222167,
-      "name": "Bad Haircut (feat. JVKE)",
-      "url": "https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K"
+      "duration_ms": 176354,
+      "name": "Fall in love with you in every 4AM.",
+      "url": "https://open.spotify.com/track/2sXQnT404FrXeSEZkJXfKM"
     },
     {
       "added_at": "2023-04-25 16:59:20",
@@ -591,18 +587,22 @@
     {
       "added_at": "2023-04-25 16:59:20",
       "album": {
-        "name": "LOCATION - Los Angeles",
-        "url": "https://open.spotify.com/album/4gpuX2juCWTe8gWsBCznlp"
+        "name": "oh to be in love",
+        "url": "https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9"
       },
       "artists": [
         {
-          "name": "Friday Night Plans",
-          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         }
       ],
-      "duration_ms": 176354,
-      "name": "Fall in love with you in every 4AM.",
-      "url": "https://open.spotify.com/track/2sXQnT404FrXeSEZkJXfKM"
+      "duration_ms": 222167,
+      "name": "Bad Haircut (feat. JVKE)",
+      "url": "https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K"
     },
     {
       "added_at": "2023-04-25 16:59:20",

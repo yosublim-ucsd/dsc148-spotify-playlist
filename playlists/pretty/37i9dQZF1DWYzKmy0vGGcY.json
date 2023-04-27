@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James.",
-  "num_followers": 236029,
+  "num_followers": 236250,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjk1ODU0OSwwMDAwMDAwMDFmZDUwMDAzODViZmFjYmRjMjI3OWE0OWJiYTVlMzIy",
+  "snapshot_id": "MTY2Mjk1ODU0OSwwMDAwMDAwMDgxMDUwNzkxOGZlMjJmZTNiN2I1MGUzYTk0OTM0ODQ5",
   "tracks": [
     {
       "added_at": "2022-05-30 13:00:37",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Parsley, Sage, Rosemary And Thyme",
-        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 190346,
-      "name": "Scarborough Fair / Canticle",
-      "url": "https://open.spotify.com/track/3g2fYZW5v2od8KIF7VktT0"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "I'll Never Fall in Love Again",
         "url": "https://open.spotify.com/album/1gVMm1XwIz3JC2AHxAovtW"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 174840,
       "name": "I'll Never Fall in Love Again",
       "url": "https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 190346,
+      "name": "Scarborough Fair / Canticle",
+      "url": "https://open.spotify.com/track/3g2fYZW5v2od8KIF7VktT0"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Horizontal (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2oeuTgRudy4dVoFa15gf05"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 146906,
-      "name": "Massachusetts - Stereo Version",
-      "url": "https://open.spotify.com/track/3o7k5Mcdi0PFAXICTqjxra"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Hits'n'Flips",
         "url": "https://open.spotify.com/album/03yc1eq0YoS5Bgt6KSY9Wg"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 248946,
       "name": "A Whiter Shade of Pale - Original Single Version",
       "url": "https://open.spotify.com/track/7DsQgIwg23u9gooCxkRTu3"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Horizontal (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2oeuTgRudy4dVoFa15gf05"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 146906,
+      "name": "Massachusetts - Stereo Version",
+      "url": "https://open.spotify.com/track/3o7k5Mcdi0PFAXICTqjxra"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Latin Ala Lee",
-        "url": "https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 151973,
-      "name": "Till There Was You - Remastered",
-      "url": "https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Ferry Cross The Mersey [Mono And Stereo Version]",
-        "url": "https://open.spotify.com/album/51mN3VJrZjN6h30AuqAqGD"
+        "name": "Latin Ala Lee",
+        "url": "https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK"
       },
       "artists": [
         {
-          "name": "Gerry & The Pacemakers",
-          "url": "https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8"
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
         }
       ],
-      "duration_ms": 143866,
-      "name": "Ferry Cross the Mersey - Stereo; 1997 Remaster",
-      "url": "https://open.spotify.com/track/3NFScsiDPfCzKgQQUL0674"
+      "duration_ms": 151973,
+      "name": "Till There Was You - Remastered",
+      "url": "https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1103,6 +1087,22 @@
       "duration_ms": 162160,
       "name": "Sealed With A Kiss",
       "url": "https://open.spotify.com/track/6oM4ryXpuZmbFfBv2sEe7v"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Ferry Cross The Mersey [Mono And Stereo Version]",
+        "url": "https://open.spotify.com/album/51mN3VJrZjN6h30AuqAqGD"
+      },
+      "artists": [
+        {
+          "name": "Gerry & The Pacemakers",
+          "url": "https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8"
+        }
+      ],
+      "duration_ms": 143866,
+      "name": "Ferry Cross the Mersey - Stereo; 1997 Remaster",
+      "url": "https://open.spotify.com/track/3NFScsiDPfCzKgQQUL0674"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Close to You",
-        "url": "https://open.spotify.com/album/3CL1hC6obi44Z6dZqhrDUA"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 190480,
-      "name": "What the World Needs Now Is Love",
-      "url": "https://open.spotify.com/track/4GipxMgLhzh1cFW5U1HH6t"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Presenting Rosie & the Originals",
         "url": "https://open.spotify.com/album/76X16nVTLk9S8FrLrAP8ff"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 227600,
       "name": "Angel Baby",
       "url": "https://open.spotify.com/track/1HzfcOcxJeGmxgf5a6MK0W"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Close to You",
+        "url": "https://open.spotify.com/album/3CL1hC6obi44Z6dZqhrDUA"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "What the World Needs Now Is Love",
+      "url": "https://open.spotify.com/track/4GipxMgLhzh1cFW5U1HH6t"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Take It Easy With The Walker Brothers",
-        "url": "https://open.spotify.com/album/5093E69Qt7j5Pv49zaEbhr"
-      },
-      "artists": [
-        {
-          "name": "The Walker Brothers",
-          "url": "https://open.spotify.com/artist/49WlsIvcUYj7Awo93hDKgf"
-        }
-      ],
-      "duration_ms": 193986,
-      "name": "Make It Easy On Yourself",
-      "url": "https://open.spotify.com/track/5DNmWyeY9sildeeHnmIImG"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Anyone Who Had a Heart",
         "url": "https://open.spotify.com/album/6wdZ2YwGsOGmhlrmlglpsc"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 184226,
       "name": "Anyone Who Had a Heart",
       "url": "https://open.spotify.com/track/2BQZvZsA9SRafvWEBSQnri"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Take It Easy With The Walker Brothers",
+        "url": "https://open.spotify.com/album/5093E69Qt7j5Pv49zaEbhr"
+      },
+      "artists": [
+        {
+          "name": "The Walker Brothers",
+          "url": "https://open.spotify.com/artist/49WlsIvcUYj7Awo93hDKgf"
+        }
+      ],
+      "duration_ms": 193986,
+      "name": "Make It Easy On Yourself",
+      "url": "https://open.spotify.com/track/5DNmWyeY9sildeeHnmIImG"
     },
     {
       "added_at": "2022-09-12 04:55:49",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Let It Bleed (50th Anniversary Edition / Remastered 2019)",
-        "url": "https://open.spotify.com/album/47hOpZQfXVIRzTiv0Ef8pO"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 259079,
-      "name": "Love In Vain - Remastered 2019",
-      "url": "https://open.spotify.com/track/0mobySzkSudnm0PdUcOSWq"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "The Best of Sam & Dave",
         "url": "https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 194106,
       "name": "When Something Is Wrong with My Baby",
       "url": "https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Let It Bleed (50th Anniversary Edition / Remastered 2019)",
+        "url": "https://open.spotify.com/album/47hOpZQfXVIRzTiv0Ef8pO"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 259079,
+      "name": "Love In Vain - Remastered 2019",
+      "url": "https://open.spotify.com/track/0mobySzkSudnm0PdUcOSWq"
     },
     {
       "added_at": "2022-05-30 13:00:37",

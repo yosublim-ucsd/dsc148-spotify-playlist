@@ -1,12 +1,12 @@
 {
   "description": "me gustas mucho. <3 I've got a crush on you.",
-  "num_followers": 290103,
+  "num_followers": 290205,
   "original_name": "internet crush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg4MjY4OSwwMDAwMDAwMDRiNTFhYmU5YTUxMTJkYTI0MGY0MzA3M2UxZWU1M2Q1",
+  "snapshot_id": "MTY4MDg4MjY4OSwwMDAwMDAwMGU2NDQ5ZTdiYzVkMzUxNDEwNjRkNmU2MmQ5YTg2YjU1",
   "tracks": [
     {
       "added_at": "2023-04-07 15:51:29",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-04-07 15:51:29",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 173119,
-      "name": "Neverita",
-      "url": "https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB"
-    },
-    {
-      "added_at": "2023-04-07 15:51:29",
-      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
+    },
+    {
+      "added_at": "2023-04-07 15:51:29",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 173119,
+      "name": "Neverita",
+      "url": "https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB"
     },
     {
       "added_at": "2023-04-07 15:51:29",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-04-07 15:51:29",
       "album": {
-        "name": "The Name Chapter: TEMPTATION",
-        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 186570,
-      "name": "Sugar Rush Ride",
-      "url": "https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs"
-    },
-    {
-      "added_at": "2023-04-07 15:51:29",
-      "album": {
         "name": "death bed (coffee for your head)",
         "url": "https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 173333,
       "name": "death bed (coffee for your head)",
       "url": "https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx"
+    },
+    {
+      "added_at": "2023-04-07 15:51:29",
+      "album": {
+        "name": "The Name Chapter: TEMPTATION",
+        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 186570,
+      "name": "Sugar Rush Ride",
+      "url": "https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs"
     },
     {
       "added_at": "2023-04-07 15:51:29",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-04-07 15:51:29",
       "album": {
-        "name": "Cry Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY"
-      },
-      "artists": [
-        {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        }
-      ],
-      "duration_ms": 179867,
-      "name": "Play Date",
-      "url": "https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA"
-    },
-    {
-      "added_at": "2023-04-07 15:51:29",
-      "album": {
         "name": "Nothing Happens",
         "url": "https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 178000,
       "name": "Are You Bored Yet? (feat. Clairo)",
       "url": "https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm"
+    },
+    {
+      "added_at": "2023-04-07 15:51:29",
+      "album": {
+        "name": "Cry Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 179867,
+      "name": "Play Date",
+      "url": "https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA"
     },
     {
       "added_at": "2023-04-07 15:51:29",
@@ -1191,6 +1191,30 @@
     {
       "added_at": "2023-04-07 15:51:29",
       "album": {
+        "name": "THE ANXIETY",
+        "url": "https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K"
+      },
+      "artists": [
+        {
+          "name": "THE ANXIETY",
+          "url": "https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP"
+        },
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        },
+        {
+          "name": "Tyler Cole",
+          "url": "https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg"
+        }
+      ],
+      "duration_ms": 162680,
+      "name": "Meet Me At Our Spot",
+      "url": "https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG"
+    },
+    {
+      "added_at": "2023-04-07 15:51:29",
+      "album": {
         "name": "Ojos Marrones",
         "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
       },
@@ -1219,30 +1243,6 @@
       "duration_ms": 247873,
       "name": "VOID",
       "url": "https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek"
-    },
-    {
-      "added_at": "2023-04-07 15:51:29",
-      "album": {
-        "name": "THE ANXIETY",
-        "url": "https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K"
-      },
-      "artists": [
-        {
-          "name": "THE ANXIETY",
-          "url": "https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP"
-        },
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        },
-        {
-          "name": "Tyler Cole",
-          "url": "https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg"
-        }
-      ],
-      "duration_ms": 162680,
-      "name": "Meet Me At Our Spot",
-      "url": "https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG"
     },
     {
       "added_at": "2023-04-07 15:51:29",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-04-07 15:51:29",
       "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 325733,
+      "name": "te quiero tanto",
+      "url": "https://open.spotify.com/track/04aBuWoZeHYJeDDTWYSgso"
+    },
+    {
+      "added_at": "2023-04-07 15:51:29",
+      "album": {
         "name": "La Ni\u00f1a del Volc\u00e1n (Polocorp Remix)",
         "url": "https://open.spotify.com/album/4uQdPn1drtbUwDoYKfw99n"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 324556,
       "name": "La Ni\u00f1a del Volc\u00e1n (Polocorp Remix)",
       "url": "https://open.spotify.com/track/0aw4Dcu2XxEuLtXaepPTEA"
-    },
-    {
-      "added_at": "2023-04-07 15:51:29",
-      "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 325733,
-      "name": "te quiero tanto",
-      "url": "https://open.spotify.com/track/04aBuWoZeHYJeDDTWYSgso"
     },
     {
       "added_at": "2023-04-07 15:51:29",

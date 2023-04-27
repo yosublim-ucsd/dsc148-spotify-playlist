@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Goditi l'aperitivo in compagnia e con la colonna sonora ideale!
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,172 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,174 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 15 | [Wicked Hearts](https://open.spotify.com/track/0iYdflVjQStuXFDspvUFrp) | [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD), [Jamie Hartman](https://open.spotify.com/artist/1B4yu7LuLM9Y5YislMFPwo) | [Wicked Hearts](https://open.spotify.com/album/1NJTTkpZZoPGaCv3V7Q8pk) | 3:09 |
 | 16 | [All The Wild Things](https://open.spotify.com/track/6dts1ns58gm8pXv8EnJaYZ) | [Lylos](https://open.spotify.com/artist/5atRFMjItKzpYWYW1yVMoR) | [All The Wild Things](https://open.spotify.com/album/6cgWG2hgYYjxfx7MH5lYrc) | 3:30 |
 | 17 | [Best Part Of us](https://open.spotify.com/track/0t8zIi7cwdADvWmkIWE1sp) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Best Part Of Us](https://open.spotify.com/album/431OaLkgYn4TJU2JynSAJm) | 4:01 |
-| 18 | [Save Tonight](https://open.spotify.com/track/0DCjHnHogCFxuqrOZr6Bev) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [Save Tonight](https://open.spotify.com/album/4wh4tP75sFxIjXEKaCoQu0) | 3:18 |
+| 18 | [The Ghost in Your Smile](https://open.spotify.com/track/63FttXBXFyghH7q9CVIjcW) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [The Ghost in Your Smile](https://open.spotify.com/album/3XanT5R6MH4AeDbSn5hJVa) | 3:14 |
 | 19 | [Before the Parade](https://open.spotify.com/track/59toTGL3M0Qyhl8UsWlZbM) | [The Lancelot](https://open.spotify.com/artist/3wy6NtyqVhXqpm32LHZNNJ) | [Before the Parade](https://open.spotify.com/album/1KuuarXiaBMsTySJ3IFB8J) | 3:55 |
 | 20 | [Heartbeat](https://open.spotify.com/track/5R6YdiE4n2U1SVQ2UgIcqK) | [Tom Garrick](https://open.spotify.com/artist/6pornfCIACcxUzhUcbDBFc) | [Heartbeat](https://open.spotify.com/album/2C5N1RcQcaY3Fx5Q3kiWkk) | 2:56 |
 | 21 | [Keep On It](https://open.spotify.com/track/3Wwmq8WUjZoDmzcZ5EJriJ) | [Mar Vei](https://open.spotify.com/artist/1oobYLromCfJh2nx8pfZiI) | [Keep On It](https://open.spotify.com/album/4KID8UGDvhjy4hovwiBAWJ) | 4:17 |
 | 22 | [Amahlaya](https://open.spotify.com/track/3j4EQU3yN45Ai6wyAi9ou1) | [RaFa Orchestra](https://open.spotify.com/artist/1Rjd6BlZRbO3RVubcxvips) | [Amahlaya](https://open.spotify.com/album/4CsTJUpctD7bqZLgXujIeD) | 3:28 |
-| 23 | [The Ghost in Your Smile](https://open.spotify.com/track/63FttXBXFyghH7q9CVIjcW) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [The Ghost in Your Smile](https://open.spotify.com/album/3XanT5R6MH4AeDbSn5hJVa) | 3:14 |
+| 23 | [Save Tonight](https://open.spotify.com/track/0DCjHnHogCFxuqrOZr6Bev) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [Save Tonight](https://open.spotify.com/album/4wh4tP75sFxIjXEKaCoQu0) | 3:18 |
 | 24 | [The Look of Love](https://open.spotify.com/track/0qNZFUSRdjlELqeyxegq6A) | [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [The Look of Love](https://open.spotify.com/album/0R02lR8xPS4sCXZMSDoLEf) | 3:14 |
 | 25 | [Smiles](https://open.spotify.com/track/2mO1SkhHswRTVKkuC4ou4M) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [The Night](https://open.spotify.com/album/3CMGHBzxZ3zelIEgQ8yjiV) | 3:06 |
 | 26 | [It's alright](https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [It's alright](https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML) | 3:16 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 55 | [Donum](https://open.spotify.com/track/76NiKsl9kFNjjqITQFGo3G) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Donum](https://open.spotify.com/album/6q1CGoZqOygFjGb08Linko) | 2:40 |
 | 56 | [Wishing Well \(feat\. Olivia Sebastianelli\)](https://open.spotify.com/track/7uqS1gGcgWD0wiiKttEmyp) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [Sunrise To Sunset](https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd) | 3:06 |
 | 57 | [Surf The Orange Water](https://open.spotify.com/track/2bkUVv8OYDOSkV6ElMafd2) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Surf The Orange Water](https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ) | 3:06 |
-| 58 | [Carneiros Beach](https://open.spotify.com/track/33NG5U8673kHJAS249qbFb) | [Carlos Robalinho](https://open.spotify.com/artist/1lyeueezpzyh7J2w3tMoXO) | [Carneiros Beach](https://open.spotify.com/album/2gwvYh1RlW9TtkmYb2Qtyo) | 3:42 |
-| 59 | [Esmeralda](https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e) | [Samba Twins](https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X) | [Esmeralda](https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0) | 3:54 |
-| 60 | [Girl](https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Girl](https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG) | 7:31 |
+| 58 | [Esmeralda](https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e) | [Samba Twins](https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X) | [Esmeralda](https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0) | 3:54 |
+| 59 | [Carneiros Beach](https://open.spotify.com/track/33NG5U8673kHJAS249qbFb) | [Carlos Robalinho](https://open.spotify.com/artist/1lyeueezpzyh7J2w3tMoXO) | [Carneiros Beach](https://open.spotify.com/album/2gwvYh1RlW9TtkmYb2Qtyo) | 3:42 |
+| 60 | [Bloom](https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Bloom](https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT) | 3:38 |
 
-Snapshot ID: `MTY2MTg2MjE5NCwwMDAwMDAwMDNiOGM3YjU0N2Q3ODlkYjM4NmIzNzJkNDZhNjc0ZDk4`
+Snapshot ID: `MTY2MTg2MjE5NCwwMDAwMDAwMDFjNTY5MGEyOTdiMGYyMmUxNjNlMmI1YjhjMTgxMTY0`

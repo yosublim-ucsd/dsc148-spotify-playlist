@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Spiritbox
 
-754 songs - 1 day 21 hr 12 min
+756 songs - 1 day 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,8 @@
 | [Fire It Up](https://open.spotify.com/track/2NtTPFydPxZnZ3p6wlkYdq) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Fire It Up](https://open.spotify.com/album/5BDAPbqXoXGOy8lwur9SxF) | 3:19 | 2022-05-20 | 2022-07-29 |
 | [Flying](https://open.spotify.com/track/3fE2H9LQZz5emvUBEmJxhN) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [I Rise](https://open.spotify.com/album/3V2eGIrc75Rp8BNO7QkBAJ) | 3:09 | 2022-11-11 | 2023-04-15 |
 | [Fog Machine](https://open.spotify.com/track/3n0rrjFlZyNSjkYkI3GCdy) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Asking For A Ride](https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK) | 3:13 | 2023-02-17 | 2023-03-25 |
-| [Foregone, Pt\. 2](https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone, Pt\. 2](https://open.spotify.com/album/6xQGhi9dsEWYn8Jwj4MD9S) | 4:30 | 2022-12-10 |  |
+| [Foregone, Pt\. 2](https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone, Pt\. 2](https://open.spotify.com/album/6xQGhi9dsEWYn8Jwj4MD9S) | 4:30 | 2022-12-10 | 2023-04-27 |
+| [Foregone, Pt\. 2](https://open.spotify.com/track/6kk4G7WCvFrYuiotuDnH2N) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone](https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3) | 4:30 | 2023-04-21 |  |
 | [Forgotten](https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:17 | 2022-02-04 | 2022-06-11 |
 | [Forsaken \- The Aftermath](https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Forsaken \(The Aftermath\)](https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06) | 4:58 | 2021-12-03 | 2022-04-16 |
 | [Foxglove](https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Foxglove](https://open.spotify.com/album/0l684ODdBRRFtnBrNn6wSd) | 3:38 | 2022-04-29 | 2022-07-09 |
@@ -290,6 +291,7 @@
 | [Hallelujah](https://open.spotify.com/track/2XCTvpziPXmSayzrzF9mJU) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 3:01 | 2022-01-14 | 2022-02-12 |
 | [Hallelujah](https://open.spotify.com/track/5S1Tly4ov5kWsJLt73lCUD) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Hallelujah](https://open.spotify.com/album/6oHrvAdPdbYUW6PVR1zngr) | 3:01 | 2021-08-06 | 2022-01-15 |
 | [Hallelujah \[Feat\. Charlotte Sands\] \- Charlotte Sands Version](https://open.spotify.com/track/4tkpDoDiZ1AxCfd6roVPeM) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Hallelujah \[Feat\. Charlotte Sands\] \(Charlotte Sands Version\)](https://open.spotify.com/album/5HhUTvl8my5ucfG7wJjQ0z) | 2:56 | 2022-02-11 | 2022-08-20 |
+| [Halo](https://open.spotify.com/track/71VFCA7jDY9YZaYwySlG7D) | [Lansdowne](https://open.spotify.com/artist/5urnoBZifR5YXG5YdCOj34) | [Medicine](https://open.spotify.com/album/1UwmSz3TubyDxxicHR04fO) | 3:36 | 2023-04-26 |  |
 | [Halo](https://open.spotify.com/track/79pTRPk4bqz34vh574c3TX) | [Lansdowne](https://open.spotify.com/artist/5urnoBZifR5YXG5YdCOj34) | [Halo](https://open.spotify.com/album/6fpqA0nA9YoIADNE3POe5Z) | 3:36 | 2022-11-25 | 2023-02-11 |
 | [Halo](https://open.spotify.com/track/7aCv75B0ySvqGBVkfBuT6G) | [Savage Hands](https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx) | [Rock Bottom](https://open.spotify.com/album/4M2Rn0RNZscWLdKplyfypf) | 2:58 | 2023-04-14 |  |
 | [Hanging On \(feat\. Lauren Babic\)](https://open.spotify.com/track/3jjJA2zdyg1lIaSaN3PzH9) | [Sophie Lloyd](https://open.spotify.com/artist/6jOoEU2E2d2kGbxw33oJs3), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Hanging On \(feat\. Lauren Babic\)](https://open.spotify.com/album/1DSIJHXj6YTahFhO0ojYAz) | 4:03 | 2023-04-14 |  |

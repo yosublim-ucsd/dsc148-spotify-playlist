@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Boss music for boss people\. Cover: Miles Kane
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,131 likes - 85 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,144 likes - 85 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

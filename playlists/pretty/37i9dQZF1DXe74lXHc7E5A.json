@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Odumodublvck",
-  "num_followers": 6751,
+  "num_followers": 6795,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjQyMjQ2MiwwMDAwMDAwMGYyZmIyOWM4NDMxZjc3OThhMzllOTE3YjVlYjBmNmM2",
+  "snapshot_id": "MTY4MjQyMjQ2MiwwMDAwMDAwMDVjZjJmNjhjOTkzMDA0YzMxMTY1MmUxZWE2ZmUwNDZi",
   "tracks": [
     {
       "added_at": "2023-04-25 11:34:22",
@@ -27,22 +27,22 @@
     {
       "added_at": "2023-04-25 11:34:22",
       "album": {
-        "name": "Drip Harder",
-        "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 145542,
-      "name": "Drip Too Hard (Lil Baby & Gunna)",
-      "url": "https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE"
+      "duration_ms": 291175,
+      "name": "Fair Trade (with Travis Scott)",
+      "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
     },
     {
       "added_at": "2023-04-25 11:34:22",
@@ -63,22 +63,22 @@
     {
       "added_at": "2023-04-25 11:34:22",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+        "name": "Drip Harder",
+        "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         },
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 291175,
-      "name": "Fair Trade (with Travis Scott)",
-      "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
+      "duration_ms": 145542,
+      "name": "Drip Too Hard (Lil Baby & Gunna)",
+      "url": "https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE"
     },
     {
       "added_at": "2023-04-25 11:34:22",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-04-25 11:34:22",
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 177789,
-      "name": "California Breeze",
-      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
-    },
-    {
-      "added_at": "2023-04-25 11:34:22",
-      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 242965,
       "name": "Knife Talk (with 21 Savage ft. Project Pat)",
       "url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
+    },
+    {
+      "added_at": "2023-04-25 11:34:22",
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 177789,
+      "name": "California Breeze",
+      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
     },
     {
       "added_at": "2023-04-25 11:34:22",
@@ -543,6 +543,54 @@
     {
       "added_at": "2023-04-25 11:34:22",
       "album": {
+        "name": "Like..?",
+        "url": "https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 159370,
+      "name": "Gangsta Boo (with Lil Tjay)",
+      "url": "https://open.spotify.com/track/2g5q0UpOOFMNOcHGaMG4b0"
+    },
+    {
+      "added_at": "2023-04-25 11:34:22",
+      "album": {
+        "name": "This Is What I Mean",
+        "url": "https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Ms Banks",
+          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
+        }
+      ],
+      "duration_ms": 325333,
+      "name": "This Is What I Mean",
+      "url": "https://open.spotify.com/track/43qgiVrRWrxv0jhYRsJtm3"
+    },
+    {
+      "added_at": "2023-04-25 11:34:22",
+      "album": {
         "name": "Dat Way (Remix) [feat. Abra Cadabra, Backroad Gee, French Montana, Clavish, Beenie Man, Pa Salieu, Bandokay, Double Lz, K-Trap & DoRoad]",
         "url": "https://open.spotify.com/album/6H7ndcY9LUys2h4MczxSNt"
       },
@@ -599,34 +647,6 @@
     {
       "added_at": "2023-04-25 11:34:22",
       "album": {
-        "name": "This Is What I Mean",
-        "url": "https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb"
-      },
-      "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        },
-        {
-          "name": "Ms Banks",
-          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
-        }
-      ],
-      "duration_ms": 325333,
-      "name": "This Is What I Mean",
-      "url": "https://open.spotify.com/track/43qgiVrRWrxv0jhYRsJtm3"
-    },
-    {
-      "added_at": "2023-04-25 11:34:22",
-      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 211050,
       "name": "Cloak & Dagger (feat. J Hus)",
       "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
-    },
-    {
-      "added_at": "2023-04-25 11:34:22",
-      "album": {
-        "name": "Like..?",
-        "url": "https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 159370,
-      "name": "Gangsta Boo (with Lil Tjay)",
-      "url": "https://open.spotify.com/track/2g5q0UpOOFMNOcHGaMG4b0"
     },
     {
       "added_at": "2023-04-25 11:34:22",
@@ -879,26 +879,30 @@
     {
       "added_at": "2023-04-25 11:34:22",
       "album": {
-        "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
-        "url": "https://open.spotify.com/album/2i9q4Ax4pXU62uNOJHy2qo"
+        "name": "Oh Ma Linda",
+        "url": "https://open.spotify.com/album/7lsm82NrdAoXBWoOEucvMg"
       },
       "artists": [
         {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
         },
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
         }
       ],
-      "duration_ms": 178176,
-      "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
-      "url": "https://open.spotify.com/track/36YpCIK6NmhC9i6bvcwcdm"
+      "duration_ms": 176770,
+      "name": "Oh Ma Linda",
+      "url": "https://open.spotify.com/track/0pUe1jK12D7nGf47QfEPK6"
     },
     {
       "added_at": "2023-04-25 11:34:22",
@@ -931,30 +935,26 @@
     {
       "added_at": "2023-04-25 11:34:22",
       "album": {
-        "name": "Oh Ma Linda",
-        "url": "https://open.spotify.com/album/7lsm82NrdAoXBWoOEucvMg"
+        "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+        "url": "https://open.spotify.com/album/2i9q4Ax4pXU62uNOJHy2qo"
       },
       "artists": [
         {
-          "name": "reggie",
-          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
         },
         {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        },
-        {
-          "name": "Kwaku DMC",
-          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 176770,
-      "name": "Oh Ma Linda",
-      "url": "https://open.spotify.com/track/0pUe1jK12D7nGf47QfEPK6"
+      "duration_ms": 178176,
+      "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+      "url": "https://open.spotify.com/track/36YpCIK6NmhC9i6bvcwcdm"
     },
     {
       "added_at": "2023-04-25 11:34:22",
@@ -1239,22 +1239,22 @@
     {
       "added_at": "2023-04-25 11:34:22",
       "album": {
-        "name": "Boujee",
-        "url": "https://open.spotify.com/album/7sjFxdJ9g5uPLNCxwfO2Sk"
+        "name": "Bando Diaries",
+        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
       },
       "artists": [
         {
-          "name": "Keeya Keys",
-          "url": "https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6"
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
         },
         {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 207037,
-      "name": "Boujee",
-      "url": "https://open.spotify.com/track/3UgVuTqgQTO8u3m9Zuqotq"
+      "duration_ms": 158298,
+      "name": "Bando Diaries",
+      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
     }
   ],
   "unique_name": "Hype List",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,733 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,106 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 19 | [Demons \- Massane Remix](https://open.spotify.com/track/0WGelFYfITJmfOnNyhRUq7) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6), [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Demons](https://open.spotify.com/album/2kXwtCv9wl1OzLU1k2b3XZ) | 4:03 |
 | 20 | [Never Going Home](https://open.spotify.com/track/2fuWIFyY452wmNOoT32EB8) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Club Azur](https://open.spotify.com/album/1F27jLhFpbPMTB8DY15nTK) | 2:49 |
 | 21 | [Take Me Back](https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Take Me Back](https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI) | 2:09 |
-| 22 | [Let You Know \- Summer Edit](https://open.spotify.com/track/6eFlqtmgYckrLelrV4oc9C) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Let You Know \(Summer Edit\)](https://open.spotify.com/album/2tYezXk2MnMVK40DqqnMKm) | 2:29 |
-| 23 | [I Go Dancing \(feat\. Ella Henderson\)](https://open.spotify.com/track/2mPyJgKE7vSpUoFXJps8z3) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [I Go Dancing \(feat\. Ella Henderson\)](https://open.spotify.com/album/2TSrZnrtY7zFQ5HFcKnpG6) | 2:42 |
+| 22 | [I Go Dancing \(feat\. Ella Henderson\)](https://open.spotify.com/track/2mPyJgKE7vSpUoFXJps8z3) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [I Go Dancing \(feat\. Ella Henderson\)](https://open.spotify.com/album/2TSrZnrtY7zFQ5HFcKnpG6) | 2:42 |
+| 23 | [Let You Know \- Summer Edit](https://open.spotify.com/track/6eFlqtmgYckrLelrV4oc9C) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Let You Know \(Summer Edit\)](https://open.spotify.com/album/2tYezXk2MnMVK40DqqnMKm) | 2:29 |
 | 24 | [Bloom](https://open.spotify.com/track/4hHvZD1pcvG8rxUkhau6Is) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Bloom](https://open.spotify.com/album/1Po5dB5KhCrqfvg7ViH7aB) | 2:59 |
 | 25 | [Forever And A Day](https://open.spotify.com/track/5o1mS67lEoLCeFobGIaNb2) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Forever And A Day](https://open.spotify.com/album/36WARq51pYeQO75a2YNjaj) | 2:46 |
 | 26 | [Never Really Loved Me \(with Dean Lewis\)](https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Never Really Loved Me \(with Dean Lewis\)](https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D) | 3:22 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 41 | [Pyramids](https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8), [Alex Aris](https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G) | [Pyramids](https://open.spotify.com/album/6fKnjZO8LRYLNjEBGLb9LG) | 3:52 |
 | 42 | [Ocean Quiet](https://open.spotify.com/track/6zFCci00787rGrLkWDwog8) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Ocean Quiet](https://open.spotify.com/album/4KrSgkyrBWUG4fS3N1CgZ9) | 2:47 |
 | 43 | [Your Voice \- Adam Port Remix](https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Your Voice \(Adam Port Remix\)](https://open.spotify.com/album/7i97hHLFqXAVFIIsUGw2Da) | 4:20 |
-| 44 | [Home](https://open.spotify.com/track/58W6OdSaSsRDcMQYdC2SB5) | [Jewels](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov), [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb) | [Home](https://open.spotify.com/album/5w3vUnEpFqhgvTUmTwoBbR) | 3:45 |
-| 45 | [Adore](https://open.spotify.com/track/0oBUOlD8XPyRNmVOqkv7QA) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Adore](https://open.spotify.com/album/2YNKQr2HhFMF6qLUu3JQUJ) | 3:29 |
+| 44 | [Adore](https://open.spotify.com/track/0oBUOlD8XPyRNmVOqkv7QA) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Adore](https://open.spotify.com/album/2YNKQr2HhFMF6qLUu3JQUJ) | 3:29 |
+| 45 | [Home](https://open.spotify.com/track/58W6OdSaSsRDcMQYdC2SB5) | [Jewels](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov), [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb) | [Home](https://open.spotify.com/album/5w3vUnEpFqhgvTUmTwoBbR) | 3:45 |
 | 46 | [Closer To You](https://open.spotify.com/track/09CanZmO6paS3VIPtoVJsh) | [Lucas Nord](https://open.spotify.com/artist/4ZUg3IUvAPAl8coXQAxaXd) | [Closer To You](https://open.spotify.com/album/7406FZf3JxgLG19sskEfsG) | 2:46 |
 | 47 | [One and Only \- AseMix](https://open.spotify.com/track/45VHi1pZE1NKeBuoPGTsZj) | [Ase](https://open.spotify.com/artist/6NUvHOofq46GTsvTU8jiYe) | [One and Only \(AseMix\)](https://open.spotify.com/album/0bpCNqt5p9ejztrQrXQVgc) | 4:02 |
 | 48 | [Daydreamer](https://open.spotify.com/track/3660k2kZKOFOFS8Cv6DkJy) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Daydreamer](https://open.spotify.com/album/6B9sxNotNmncxGEPcFzjrF) | 2:40 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 59 | [High Tide](https://open.spotify.com/track/4PkWff16v14sACvFBrKtI0) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Dream Dimension](https://open.spotify.com/album/3TIcSrROV3PLNVq5rMMlWJ) | 3:40 |
 | 60 | [Teenage Heart](https://open.spotify.com/track/5lDYTWicLTLTBoQn2WvcXD) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Teenage Heart](https://open.spotify.com/album/1YSEwLeE1tJKjVdlPYxPoX) | 4:03 |
 
-Snapshot ID: `MTY4MDg3MjQ0NywwMDAwMDAwMDEwYjYwY2VmN2M4YTMwNWJmNzI5YTMzM2ExOGU0MTk0`
+Snapshot ID: `MTY4MDg3MjQ0NywwMDAwMDAwMDZjYmY3YzZjMWU3YjhjNjRiODE4ODBiODI3YWYyZDc2`

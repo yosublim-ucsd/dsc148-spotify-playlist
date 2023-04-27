@@ -5006,7 +5006,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 194848,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq"
@@ -8392,7 +8392,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 173637,
       "name": "Kahani Suno 2.0",
       "url": "https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw"
@@ -9420,7 +9420,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 212253,
       "name": "Like Crazy (English Version)",
       "url": "https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG"
@@ -12541,7 +12541,7 @@
       "artists": [
         {
           "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+          "url": "https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF"
         }
       ],
       "date_added": "2023-01-12",
@@ -15360,6 +15360,24 @@
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
+    },
+    {
+      "album": {
+        "name": "SEVENTEEN 10th Mini Album 'FML'",
+        "url": "https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200386,
+      "name": "Super",
+      "url": "https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96"
     },
     {
       "album": {

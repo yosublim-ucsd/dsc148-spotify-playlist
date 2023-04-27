@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Simone Mendes e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,521,799 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,524,775 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 44 | [Média Boa \- Ao Vivo](https://open.spotify.com/track/1dMyIigB6MDsfD3xuG6TbO) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Média Boa \(Ao Vivo\)](https://open.spotify.com/album/15FjGqqvJgrSc4DowwwBKj) | 2:28 |
 | 45 | [Roça Em Mim](https://open.spotify.com/track/2hkwwmmLC90T8BQ7t3xufq) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Roça Em Mim](https://open.spotify.com/album/14fM0v3sVTgh42iShd1jyl) | 2:38 |
 | 46 | [SOLTEIROU \- Ao Vivo](https://open.spotify.com/track/0AIA4KsMsyqur8FbTVhGNT) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY DELUXE \(Ao Vivo\)](https://open.spotify.com/album/2WQrUxdjUrDvtEuCrJYx1N) | 2:28 |
-| 47 | [Vida Chique](https://open.spotify.com/track/5ffDENIdtByAZxHpuuj9li) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nick Nash](https://open.spotify.com/artist/03evdtQP9vcuqdDU6hOluN), [Wylo](https://open.spotify.com/artist/59gFRpopXIytwMDYDggebp), [Nagalli](https://open.spotify.com/artist/5A0IVCW22IfgXkU9TLNxr3), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Dos Prédios](https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d) | 3:30 |
+| 47 | [Vida Chique](https://open.spotify.com/track/5ffDENIdtByAZxHpuuj9li) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nick Nash](https://open.spotify.com/artist/03evdtQP9vcuqdDU6hOluN), [Wylo](https://open.spotify.com/artist/59gFRpopXIytwMDYDggebp), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Dos Prédios](https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d) | 3:30 |
 | 48 | [5 Regras \- Ao Vivo](https://open.spotify.com/track/3gCWngngUs1uojw33vrE8K) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [É Simples Assim \(Ao Vivo\)](https://open.spotify.com/album/3KOePCX9vdj3OrAC2ruEFk) | 2:41 |
 | 49 | [Esse B.O é Meu \- Ao Vivo](https://open.spotify.com/track/2YAOJkRWy382bRMXaj48FP) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Esse B.O é Meu \(Ao Vivo\)](https://open.spotify.com/album/6SDCa2NjLlLHcYXJ2fF523) | 2:40 |
 | 50 | [Love Absurdo](https://open.spotify.com/track/7aZnuwpivaj4N7XFhhqBiO) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [Love Absurdo](https://open.spotify.com/album/2hHVL6MV4j9ikLC4VDygCS) | 3:04 |

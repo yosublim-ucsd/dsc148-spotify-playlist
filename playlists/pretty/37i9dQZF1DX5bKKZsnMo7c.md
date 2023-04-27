@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > All eyes on you\. Cover: Bo Burnham
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,846 likes - 62 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,388 likes - 62 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 46 | [bop it](https://open.spotify.com/track/3AKYihZBUkVTjyVqHsBgqg) | [frogi](https://open.spotify.com/artist/0frlcBV9pFq0Ip624rdUen) | [sometimes i'm a warrior, sometimes i'm a little bird that can't get up off the ground](https://open.spotify.com/album/07soOdkeZA8ODgj7RHkQV4) | 2:53 |
 | 47 | [All for Nothing](https://open.spotify.com/track/4eOydYjbFRCfFZ8jxtwrQX) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [All for Nothing](https://open.spotify.com/album/0kWI8zbuMg3aNL7p6ceWJ7) | 3:23 |
 | 48 | [Riot](https://open.spotify.com/track/2JVYdQafLX5jbr6IlQ1KIx) | [The Scarlet Opera](https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix) | [Comedy](https://open.spotify.com/album/40B9hxxs81k4rykZo0eF77) | 3:27 |
-| 49 | [Us and Pigs](https://open.spotify.com/track/4SmhvwAHcPS07SfLUSOJnt) | [Sofia Isella](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Us and Pigs](https://open.spotify.com/album/0qoWzc62jWceify6jMxXDt) | 2:54 |
+| 49 | [Us and Pigs](https://open.spotify.com/track/4SmhvwAHcPS07SfLUSOJnt) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Us and Pigs](https://open.spotify.com/album/0qoWzc62jWceify6jMxXDt) | 2:54 |
 | 50 | [Costume](https://open.spotify.com/track/6tQnC1uIY62jSpBPgVRrZZ) | [Jukebox The Ghost](https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4) | [Cheers \(Deluxe Version\)](https://open.spotify.com/album/4lX3DtoIaJWh0wMCOjsLTi) | 2:51 |
 | 51 | [Typical Me](https://open.spotify.com/track/7qHwYBcgT5UFchyGXFyifq) | [kroh](https://open.spotify.com/artist/6IOp54e0ZK9Ccnb8WUIeUa) | [Unfinished Symphony](https://open.spotify.com/album/5QmoeSOvBYGuSLQcd0tzk7) | 3:06 |
 | 52 | [Numb Little Bug \- Piano Version](https://open.spotify.com/track/7zQs5RxMWQBVDTW9zl9CHu) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug \(Piano Version\)](https://open.spotify.com/album/4JJlvfntPA9YC3jWVgTTQv) | 2:45 |

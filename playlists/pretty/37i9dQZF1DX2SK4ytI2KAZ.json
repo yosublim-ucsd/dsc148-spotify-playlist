@@ -1,12 +1,12 @@
 {
   "description": "have fun with it.",
-  "num_followers": 691470,
+  "num_followers": 691604,
   "original_name": "It's ALT Good!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTIzMzU3MSwwMDAwMDAwMDlhOTVlZDJmMzNjNzA2ODA5ODBmNTkwMzVmMjAzMzA0",
+  "snapshot_id": "MTY4MTIzMzU3MSwwMDAwMDAwMGIxYjc1ZDFlOWFlYTJhNjk1YTU3MTkwYzdkMDU3OThh",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -455,18 +455,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "sun keeps on shining",
-        "url": "https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8"
+        "name": "Wilderado",
+        "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
       },
       "artists": [
         {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
         }
       ],
-      "duration_ms": 167200,
-      "name": "sun keeps on shining",
-      "url": "https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf"
+      "duration_ms": 241194,
+      "name": "Surefire",
+      "url": "https://open.spotify.com/track/7MbVZOLSUloG4J3nH3Tnos"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -503,18 +503,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Wilderado",
-        "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
+        "name": "sun keeps on shining",
+        "url": "https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8"
       },
       "artists": [
         {
-          "name": "Wilderado",
-          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
         }
       ],
-      "duration_ms": 241194,
-      "name": "Surefire",
-      "url": "https://open.spotify.com/track/7MbVZOLSUloG4J3nH3Tnos"
+      "duration_ms": 167200,
+      "name": "sun keeps on shining",
+      "url": "https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "only wanna dance",
-        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 144391,
-      "name": "only wanna dance",
-      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "People In Motion",
         "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
       },
@@ -579,22 +563,6 @@
       "duration_ms": 183440,
       "name": "Then It All Goes Away",
       "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Long Drives",
-        "url": "https://open.spotify.com/album/0Mpe1VWJDZ5FxbZlE1nUaU"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        }
-      ],
-      "duration_ms": 159646,
-      "name": "Long Drives",
-      "url": "https://open.spotify.com/track/2jDrRaea7deXVEt4JmpvBU"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -615,6 +583,38 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Long Drives",
+        "url": "https://open.spotify.com/album/0Mpe1VWJDZ5FxbZlE1nUaU"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        }
+      ],
+      "duration_ms": 159646,
+      "name": "Long Drives",
+      "url": "https://open.spotify.com/track/2jDrRaea7deXVEt4JmpvBU"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "only wanna dance",
+        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 144391,
+      "name": "only wanna dance",
+      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "the first glass beach album",
         "url": "https://open.spotify.com/album/5GOoswCqZQiq9gbjSHkzMq"
       },
@@ -627,6 +627,22 @@
       "duration_ms": 138119,
       "name": "cold weather",
       "url": "https://open.spotify.com/track/50u2y4zgROMZq2db8Qx94B"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Life Is Yours",
+        "url": "https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 224178,
+      "name": "2am",
+      "url": "https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -651,22 +667,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Life Is Yours",
-        "url": "https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 224178,
-      "name": "2am",
-      "url": "https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Carnival",
         "url": "https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 251906,
       "name": "Freakin' Out On the Interstate",
       "url": "https://open.spotify.com/track/6Fqf0OTfB9VPfYk2HfBhPn"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Let's go to Hell",
+        "url": "https://open.spotify.com/album/2tVcIkd2GmDpNQkXRNpaME"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 152181,
+      "name": "Let's go to Hell",
+      "url": "https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -703,18 +719,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Let's go to Hell",
-        "url": "https://open.spotify.com/album/2tVcIkd2GmDpNQkXRNpaME"
+        "name": "Glitterbug (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
       },
       "artists": [
         {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
         }
       ],
-      "duration_ms": 152181,
-      "name": "Let's go to Hell",
-      "url": "https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a"
+      "duration_ms": 209557,
+      "name": "Greek Tragedy",
+      "url": "https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -747,22 +763,6 @@
       "duration_ms": 177773,
       "name": "Silhouettes",
       "url": "https://open.spotify.com/track/5zYduVIUSgSWmv56IwBmRl"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Glitterbug (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 209557,
-      "name": "Greek Tragedy",
-      "url": "https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "What, Me Worry?",
-        "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 177397,
-      "name": "What, Me Worry?",
-      "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "We Are The Wrecks",
         "url": "https://open.spotify.com/album/0vQRfUULb3EpObpn28YOkH"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 242306,
       "name": "Favorite Liar",
       "url": "https://open.spotify.com/track/1scwknKtBQpreYy6MSoJqJ"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "What, Me Worry?",
+        "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 177397,
+      "name": "What, Me Worry?",
+      "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "LA DIVINE",
+        "url": "https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 214360,
+      "name": "Love Is Mystical",
+      "url": "https://open.spotify.com/track/12pdXFcruNcPUbZypKUDgz"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "strawberry chainsaw",
         "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
       },
@@ -915,22 +931,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "LA DIVINE",
-        "url": "https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 214360,
-      "name": "Love Is Mystical",
-      "url": "https://open.spotify.com/track/12pdXFcruNcPUbZypKUDgz"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Asking For A Ride",
         "url": "https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK"
       },
@@ -943,22 +943,6 @@
       "duration_ms": 154098,
       "name": "Pages",
       "url": "https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "I've Got Some Living To Do",
-        "url": "https://open.spotify.com/album/73ct5rK9qShCYdzBR8C8PX"
-      },
-      "artists": [
-        {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
-        }
-      ],
-      "duration_ms": 186324,
-      "name": "Stella Brown",
-      "url": "https://open.spotify.com/track/6n6dqOk5vLiqYaa9Fw5ylH"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -979,6 +963,22 @@
       "duration_ms": 205442,
       "name": "Saturdays (feat. HAIM)",
       "url": "https://open.spotify.com/track/5ClqcvP4dYDDX6Zv3jPQD1"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "I've Got Some Living To Do",
+        "url": "https://open.spotify.com/album/73ct5rK9qShCYdzBR8C8PX"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "duration_ms": 186324,
+      "name": "Stella Brown",
+      "url": "https://open.spotify.com/track/6n6dqOk5vLiqYaa9Fw5ylH"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Adderall",
-        "url": "https://open.spotify.com/album/3cwCFf0JcO8RpfWi2OAcz4"
-      },
-      "artists": [
-        {
-          "name": "Max Frost",
-          "url": "https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V"
-        }
-      ],
-      "duration_ms": 218025,
-      "name": "Adderall",
-      "url": "https://open.spotify.com/track/4Xx0J00u90QvnG3rwz4Itp"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Chapstick",
         "url": "https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 193299,
       "name": "Chapstick",
       "url": "https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Adderall",
+        "url": "https://open.spotify.com/album/3cwCFf0JcO8RpfWi2OAcz4"
+      },
+      "artists": [
+        {
+          "name": "Max Frost",
+          "url": "https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V"
+        }
+      ],
+      "duration_ms": 218025,
+      "name": "Adderall",
+      "url": "https://open.spotify.com/track/4Xx0J00u90QvnG3rwz4Itp"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Did I Make You Up?",
-        "url": "https://open.spotify.com/album/5BFctZsAHYCWm2QOF3GRHc"
-      },
-      "artists": [
-        {
-          "name": "half\u2022alive",
-          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
-        }
-      ],
-      "duration_ms": 149773,
-      "name": "Did I Make You Up?",
-      "url": "https://open.spotify.com/track/4RE7fFJNIZiO9ngs883gFG"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "BRIGHTSIDE",
         "url": "https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 229773,
       "name": "BRIGHTSIDE",
       "url": "https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Did I Make You Up?",
+        "url": "https://open.spotify.com/album/5BFctZsAHYCWm2QOF3GRHc"
+      },
+      "artists": [
+        {
+          "name": "half\u2022alive",
+          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
+        }
+      ],
+      "duration_ms": 149773,
+      "name": "Did I Make You Up?",
+      "url": "https://open.spotify.com/track/4RE7fFJNIZiO9ngs883gFG"
     },
     {
       "added_at": "2023-03-24 04:00:00",

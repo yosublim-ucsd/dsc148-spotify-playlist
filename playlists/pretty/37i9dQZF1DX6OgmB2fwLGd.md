@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: BLP KOSHER
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,346,929 likes - 100 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,347,186 likes - 100 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,21 +21,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 11 | [Run Shannon Run](https://open.spotify.com/track/0Y5hDJTidQ5DsqJoH3QIHj) | [BBY GOYARD](https://open.spotify.com/artist/3V5tndgREjXGlJZEvYl3Xs) | [Run Shannon Run](https://open.spotify.com/album/3YNEhpOpo9TjwgjSioyclj) | 2:00 |
 | 12 | [Shmunk \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/2fpTRcMLt4aKlqULOwuXUP) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:49 |
 | 13 | [Still The Same! 2](https://open.spotify.com/track/16nsXcNJEwseNbQlu1NRpX) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Golden Child, Chapter 3](https://open.spotify.com/album/09DoaRc2Dcmll2EhYWcWdy) | 2:52 |
-| 14 | [your eyes](https://open.spotify.com/track/279j7K8VbSq0U5PJQhQGB1) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [your eyes](https://open.spotify.com/album/2aGk8wIIXSqtIntU9E7GFv) | 2:13 |
-| 15 | [if looks could kill](https://open.spotify.com/track/1cdqNRXIRrvT4HnApj6yw6) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [if looks could kill](https://open.spotify.com/album/1lbRv6yB7ZI2MuoGG9io6E) | 3:14 |
-| 16 | [10x3](https://open.spotify.com/track/4SaMeh5e8KfdH5wmn35E6S) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [10x3](https://open.spotify.com/album/2J0oSb8a0vO39yG3WjKHDz) | 1:58 |
-| 17 | [Out On Bond](https://open.spotify.com/track/07iXzCjxJdfHTUenA34iXt) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Out On Bond](https://open.spotify.com/album/1rM3JOw6PilCUL4GXU0WCi) | 1:20 |
-| 18 | [i need u](https://open.spotify.com/track/2gSPHSdf0vrk2Psxmn8sUn) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [i need u](https://open.spotify.com/album/0uSAjejTknuT68AYVrzsmz) | 2:28 |
-| 19 | [FOLD](https://open.spotify.com/track/2EP8akKOQ8sQ9MAqrnhml0) | [THOTTWAT](https://open.spotify.com/artist/16SkmlqKt2Xf6mqurZgpdt) | [FOLD](https://open.spotify.com/album/1iCT7O5zAGYGyoi3EpfoVa) | 3:07 |
-| 20 | [I Like](https://open.spotify.com/track/5q783kxh5FeJnfXaCUgPhc) | [Fat Tony](https://open.spotify.com/artist/3N71zVVdCs6uCgk8w31v26), [Yung Skrrt](https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU) | [I Like](https://open.spotify.com/album/7sWVP6ejO5gwEoI3pW24in) | 1:49 |
-| 21 | [ADHD](https://open.spotify.com/track/2NnYebjJbFNce6q7vVYRsc) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [ADHD](https://open.spotify.com/album/3gRHDUqZGMb4wnHBPvk5OL) | 2:30 |
-| 22 | [Wake Up](https://open.spotify.com/track/5rfMpJorQrwpvCOfDM7Q5L) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Wake Up](https://open.spotify.com/album/0A94MKet60d5HhzN0vSGDm) | 1:52 |
-| 23 | [Pull Up](https://open.spotify.com/track/7B14SxMZsylXcX8FJSaClw) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [Pull Up](https://open.spotify.com/album/0wS6TiGQ7Aqy8EqGZvd6Ru) | 2:22 |
-| 24 | [Blicky](https://open.spotify.com/track/5udNN5hwk870U9dk7a0nHe) | [Fresh X Reckless](https://open.spotify.com/artist/3uB3wq2PdbbQpr3jCsQusC) | [Blicky](https://open.spotify.com/album/7qLHhWcP0GbiVjHXwBuZgH) | 2:11 |
-| 25 | [Self Esteem \(featuring NLE Choppa\)](https://open.spotify.com/track/4rithk0wQbWsppbWiaFFgE) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Self Esteem \(featuring NLE Choppa\)](https://open.spotify.com/album/7KeQeXVDcQQjrbqOh34VGA) | 2:49 |
-| 26 | [Honeyberry 2](https://open.spotify.com/track/7DST9azASHMawTfFksNnoT) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M) | [Honeyberry 2](https://open.spotify.com/album/60ijJ6s8jhv1cHtrUId9mq) | 2:50 |
-| 27 | [FEAST \(Remix\)](https://open.spotify.com/track/2wiS5tnwJVkzwe3fo3WG7F) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [FEAST feat\. TiaCorine \(Remix\)](https://open.spotify.com/album/7keEE34WdMFUy8bcWNSYvi) | 2:14 |
-| 28 | [Out The Way](https://open.spotify.com/track/64OXh8SzKftr2F31ynOx4t) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Out The Way](https://open.spotify.com/album/4ZVnNXeKjdyBrtPviUpMVT) | 2:25 |
+| 14 | [Tomioka](https://open.spotify.com/track/66MBHbC0oesKfPlg01jSAc) | [Jay Eazy](https://open.spotify.com/artist/2bc73gsB8lPAL1mxNBOEqV) | [Tomioka](https://open.spotify.com/album/3vNlLvYPKCWU3NTHZj4CU7) | 2:17 |
+| 15 | [your eyes](https://open.spotify.com/track/279j7K8VbSq0U5PJQhQGB1) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [your eyes](https://open.spotify.com/album/2aGk8wIIXSqtIntU9E7GFv) | 2:13 |
+| 16 | [if looks could kill](https://open.spotify.com/track/1cdqNRXIRrvT4HnApj6yw6) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [if looks could kill](https://open.spotify.com/album/1lbRv6yB7ZI2MuoGG9io6E) | 3:14 |
+| 17 | [10x3](https://open.spotify.com/track/4SaMeh5e8KfdH5wmn35E6S) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [10x3](https://open.spotify.com/album/2J0oSb8a0vO39yG3WjKHDz) | 1:58 |
+| 18 | [Out On Bond](https://open.spotify.com/track/07iXzCjxJdfHTUenA34iXt) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Out On Bond](https://open.spotify.com/album/1rM3JOw6PilCUL4GXU0WCi) | 1:20 |
+| 19 | [i need u](https://open.spotify.com/track/2gSPHSdf0vrk2Psxmn8sUn) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [i need u](https://open.spotify.com/album/0uSAjejTknuT68AYVrzsmz) | 2:28 |
+| 20 | [FOLD](https://open.spotify.com/track/2EP8akKOQ8sQ9MAqrnhml0) | [THOTTWAT](https://open.spotify.com/artist/16SkmlqKt2Xf6mqurZgpdt) | [FOLD](https://open.spotify.com/album/1iCT7O5zAGYGyoi3EpfoVa) | 3:07 |
+| 21 | [I Like](https://open.spotify.com/track/5q783kxh5FeJnfXaCUgPhc) | [Fat Tony](https://open.spotify.com/artist/3N71zVVdCs6uCgk8w31v26), [Yung Skrrt](https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU) | [I Like](https://open.spotify.com/album/7sWVP6ejO5gwEoI3pW24in) | 1:49 |
+| 22 | [ADHD](https://open.spotify.com/track/2NnYebjJbFNce6q7vVYRsc) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [ADHD](https://open.spotify.com/album/3gRHDUqZGMb4wnHBPvk5OL) | 2:30 |
+| 23 | [Wake Up](https://open.spotify.com/track/5rfMpJorQrwpvCOfDM7Q5L) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Wake Up](https://open.spotify.com/album/0A94MKet60d5HhzN0vSGDm) | 1:52 |
+| 24 | [Pull Up](https://open.spotify.com/track/7B14SxMZsylXcX8FJSaClw) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [Pull Up](https://open.spotify.com/album/0wS6TiGQ7Aqy8EqGZvd6Ru) | 2:22 |
+| 25 | [Blicky](https://open.spotify.com/track/5udNN5hwk870U9dk7a0nHe) | [Fresh X Reckless](https://open.spotify.com/artist/3uB3wq2PdbbQpr3jCsQusC) | [Blicky](https://open.spotify.com/album/7qLHhWcP0GbiVjHXwBuZgH) | 2:11 |
+| 26 | [Self Esteem \(featuring NLE Choppa\)](https://open.spotify.com/track/4rithk0wQbWsppbWiaFFgE) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Self Esteem \(featuring NLE Choppa\)](https://open.spotify.com/album/7KeQeXVDcQQjrbqOh34VGA) | 2:49 |
+| 27 | [Honeyberry 2](https://open.spotify.com/track/7DST9azASHMawTfFksNnoT) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M) | [Honeyberry 2](https://open.spotify.com/album/60ijJ6s8jhv1cHtrUId9mq) | 2:50 |
+| 28 | [FEAST \(Remix\)](https://open.spotify.com/track/2wiS5tnwJVkzwe3fo3WG7F) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [FEAST feat\. TiaCorine \(Remix\)](https://open.spotify.com/album/7keEE34WdMFUy8bcWNSYvi) | 2:14 |
 | 29 | [i wna be like you](https://open.spotify.com/track/4cLhQxR5p74hslc5ao4B15) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [i wna be like you](https://open.spotify.com/album/7cfBvGGjF74yPKTVNtpXLe) | 2:03 |
 | 30 | [Rolling Dice](https://open.spotify.com/track/1NMpvFmtQTyvlP9mOIdZHv) | [Father](https://open.spotify.com/artist/10AY17ALos2o3akPqrPydw) | [Rolling Dice](https://open.spotify.com/album/3zzXknl2vtYwKxXeo7iHC5) | 2:29 |
 | 31 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [Perc & Sex](https://open.spotify.com/track/4a14AFVG1iMsLJnT4wj5Up) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU) | [Coochie Goat](https://open.spotify.com/album/7blLvL09OOJcEZJXNKuFQr) | 2:34 |
 | 100 | [Number One Candidate](https://open.spotify.com/track/3qk2QJ5JR6IO2LBMqkOnx7) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [Just A Matter Of Time](https://open.spotify.com/album/4SI5eZJ5UYpS1057wiqlXv) | 2:45 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMGU2MjE2NzI2NDFlOTlkMjZiODc4NDJlNzFiYWY5YWQ3`
+Snapshot ID: `MTY4MjUzMTE0NSwwMDAwMDAwMDJjOTMyOTQ5OGQwY2NhZmRkODMxNDM2MzBhYWIyOGYy`

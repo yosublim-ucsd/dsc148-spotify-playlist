@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 
 > Hip hop tracks to kick your workout up a notch
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,792 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,820 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 7 | [Shake It \(feat\. Cardi B, Dougie B & Bory300\)](https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj), [Bory300](https://open.spotify.com/artist/77oGJAObEl8wdAUrknL1gH) | [Shake It \(feat\. Cardi B, Dougie B & Bory300\)](https://open.spotify.com/album/0Kr65MJsLayLENRXxrlW3Z) | 1:58 |
 | 8 | [Do We Have A Problem?](https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Do We Have A Problem?](https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct) | 3:27 |
 | 9 | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 |
-| 10 | [This Is What I Mean](https://open.spotify.com/track/43qgiVrRWrxv0jhYRsJtm3) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [This Is What I Mean](https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb) | 5:25 |
-| 11 | [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:56 |
+| 10 | [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:56 |
+| 11 | [This Is What I Mean](https://open.spotify.com/track/43qgiVrRWrxv0jhYRsJtm3) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [This Is What I Mean](https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb) | 5:25 |
 | 12 | [Real Talk](https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [The Big 3](https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC) | 3:03 |
 | 13 | [Lazarus \(feat\. Boj\)](https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:24 |
 | 14 | [PICANTO](https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ECko Miles](https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD) | [PICANTO](https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 49 | [Pain Interlude](https://open.spotify.com/track/4X78TxqQ8EQXgEQDrWdSwS) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Pain Interlude](https://open.spotify.com/album/18X1EAzl8kyfkixl0avnAx) | 2:41 |
 | 50 | [King of Parole](https://open.spotify.com/track/1neQ0MJbFV4O1eYwa7Hj2x) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [King of Parole](https://open.spotify.com/album/3SxZ36WBWGwoDwXAAAS8Bk) | 3:16 |
 
-Snapshot ID: `MTY4MjQyMjg1NSwwMDAwMDAwMDljY2FiYjE5NTgxODAxOTUxNTIyYjBkYjhjZTAzNTE0`
+Snapshot ID: `MTY4MjQyMjg1NSwwMDAwMDAwMDZlNzY0NTA2OTNlY2QyYWY0MzQ5MmI0NDcyZmUzYmY0`

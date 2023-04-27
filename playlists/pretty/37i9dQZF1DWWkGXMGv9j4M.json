@@ -1,12 +1,12 @@
 {
   "description": "Weird year overall, but great for indie. Editors' picks of the best tracks of the year. Cover: Phoebe Bridgers",
-  "num_followers": 75069,
+  "num_followers": 75046,
   "original_name": "Best Indie Songs of 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjkyMTY0MywwMDAwMDAwMGYzMWM3OTMyZDUwYzc3MzgzYzQ0M2NjMGE5YjNmMDVk",
+  "snapshot_id": "MTYwNjkyMTY0MywwMDAwMDAwMDhjNDI0NGVjMTg1YmNmMmIyNWNlYzViYjdjYjE1ZTNi",
   "tracks": [
     {
       "added_at": "2020-12-01 05:02:00",
@@ -879,18 +879,30 @@
     {
       "added_at": "2020-12-01 05:02:00",
       "album": {
-        "name": "bad idea",
-        "url": "https://open.spotify.com/album/3Io1pVquas1qAVSXnshJcT"
+        "name": "Bad Idea",
+        "url": "https://open.spotify.com/album/01BEH4bQqFcbOWVsnB36MJ"
       },
       "artists": [
         {
-          "name": "B0NKY",
-          "url": "https://open.spotify.com/artist/3ajCT7sjp3kdZKdFRcPV02"
+          "name": "Corpyz",
+          "url": "https://open.spotify.com/artist/1IdtOQs4WDnMhU7apS0zk4"
+        },
+        {
+          "name": "p4rkr",
+          "url": "https://open.spotify.com/artist/26zhNRtcs21tYaShItiOhD"
+        },
+        {
+          "name": "blackwinterwells",
+          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
+        },
+        {
+          "name": "Sukoyomi",
+          "url": "https://open.spotify.com/artist/6yaYqVukNPDxUsFNH0I8Rp"
         }
       ],
-      "duration_ms": 70058,
-      "name": "bad idea",
-      "url": "https://open.spotify.com/track/3X98stWKFFlxLusl21lgWy"
+      "duration_ms": 69056,
+      "name": "Bad Idea",
+      "url": "https://open.spotify.com/track/7fPqIDdcOyleyxMXd9R8db"
     },
     {
       "added_at": "2020-12-01 05:02:00",

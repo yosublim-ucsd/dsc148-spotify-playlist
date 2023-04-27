@@ -7746,7 +7746,7 @@
     {
       "album": {
         "name": "Melon",
-        "url": "https://open.spotify.com/album/0jkjGMEXFfTA3SZgfGLV5p"
+        "url": "https://open.spotify.com/album/1VOybJiXDbg2eRTBidpNDE"
       },
       "artists": [
         {
@@ -7757,6 +7757,24 @@
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 252428,
+      "name": "Melon",
+      "url": "https://open.spotify.com/track/4xe4qAbgXitdQayGBnVeXT"
+    },
+    {
+      "album": {
+        "name": "Melon",
+        "url": "https://open.spotify.com/album/0jkjGMEXFfTA3SZgfGLV5p"
+      },
+      "artists": [
+        {
+          "name": "AVOCADO BOYS",
+          "url": "https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-27",
       "duration_ms": 252428,
       "name": "Melon",
       "url": "https://open.spotify.com/track/7GZ2Y8lYqyzQ2b20RLGNLJ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Verka Serduchka
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,980 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,029 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 22 | [Only Teardrops](https://open.spotify.com/track/3yRwgprKX3If2zcuGfKFBu) | [Emmelie de Forest](https://open.spotify.com/artist/3wQcURnqzPGHE0gzY5nE6G) | [Only Teardrops](https://open.spotify.com/album/2oeLglOCLcszlJtjUh4aQp) | 3:03 |
 | 23 | [Puppet On A String](https://open.spotify.com/track/7f5w4aiYgVZrp9w4bNaBLu) | [Sandie Shaw](https://open.spotify.com/artist/5uxkcHbgyNbyzq1nyChvCa) | [Love Me, Please Love Me \(Deluxe Edition\)](https://open.spotify.com/album/1HBagsCYgh0JSLYkSynf15) | 2:23 |
 | 24 | [She Got Me \- Bonus Track](https://open.spotify.com/track/3icYE8PMsnBoEecm5Bbd4x) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [110 Karat](https://open.spotify.com/album/60OhrSr6g93qE9RS5yJ3u7) | 3:00 |
-| 25 | [Trenulețul \(cu Frații Advahov\)](https://open.spotify.com/track/63idiVcxkGB3hgH6n3qKqM) | [Zdob si Zdub](https://open.spotify.com/artist/21fmCv0mg9Xwnv3WE4mFKu), [Fratii Advahov](https://open.spotify.com/artist/6oOzBkBGHImHS8cdjO8AqC) | [Trenulețul](https://open.spotify.com/album/7fM5IQBccLOksJ96AMl0xv) | 3:00 |
-| 26 | [Rhythm Inside](https://open.spotify.com/track/3O2MsMZHCgSbRGEca5ML1N) | [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [Rhythm Inside](https://open.spotify.com/album/5HftNbRtaTbdJljQtoMMOx) | 2:52 |
+| 25 | [Rhythm Inside](https://open.spotify.com/track/3O2MsMZHCgSbRGEca5ML1N) | [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [Rhythm Inside](https://open.spotify.com/album/5HftNbRtaTbdJljQtoMMOx) | 2:52 |
+| 26 | [Trenulețul \(cu Frații Advahov\)](https://open.spotify.com/track/63idiVcxkGB3hgH6n3qKqM) | [Zdob si Zdub](https://open.spotify.com/artist/21fmCv0mg9Xwnv3WE4mFKu), [Fratii Advahov](https://open.spotify.com/artist/6oOzBkBGHImHS8cdjO8AqC) | [Trenulețul](https://open.spotify.com/album/7fM5IQBccLOksJ96AMl0xv) | 3:00 |
 | 27 | [Rise Like A Phoenix](https://open.spotify.com/track/0fvafkeEoF6Y9gGLK3Wnu3) | [Conchita Wurst](https://open.spotify.com/artist/1TGdxJ3UvFq055SVjwx49v) | [Rise Like A Phoenix](https://open.spotify.com/album/4aPLSEfXmX1wx6gdWi282p) | 3:01 |
 | 28 | [Hold Me Closer \- Eurovision Version](https://open.spotify.com/track/6cTWJgNkmhATsI6RJgTPH4) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer \(Eurovision Version\)](https://open.spotify.com/album/1DUJ7u6fKeEkfVeTvE3FAq) | 3:00 |
 | 29 | [Popular](https://open.spotify.com/track/64WR5TPXZZ2wsWYA3enKfK) | [Eric Saade](https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG) | [Saade, Vol\. 1](https://open.spotify.com/album/3ZaKROktb3ejok1owIknk7) | 3:00 |
@@ -62,12 +62,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 52 | [Save Your Kisses for Me \- Alternate Take](https://open.spotify.com/track/1biEfqHE3I6ttUqTjrJMwH) | [Brotherhood of Man](https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo) | [Presenting Brotherhood of Man](https://open.spotify.com/album/1soWUJdpSw74xbk3ILnwb7) | 2:58 |
 | 53 | [J'ai cherché](https://open.spotify.com/track/1QJFNfsVQA7VfUJFKgQJzI) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [J'ai cherché](https://open.spotify.com/album/0YCltMp8QcXykcaXjAvZ1u) | 3:32 |
 | 54 | [Every Way That I Can \- Philippe Laurent from Galleon Radio Edit](https://open.spotify.com/track/5Hi2aJQzS0U7u1wwo8WIFp) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [No Boundaries](https://open.spotify.com/album/2olQK1JiXCvshFLlTV7UCu) | 2:46 |
-| 55 | [Shake It \- Eurovision Version](https://open.spotify.com/track/2xagoLNhrbVA2fpOkxs2Ze) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [To Hrono Stamatao](https://open.spotify.com/album/7hiRylz4CAVyfLftuszLVJ) | 3:00 |
-| 56 | [Glorious \- Video Edit](https://open.spotify.com/track/1UqzLT0ZGWXD9K5npit5Nr) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Glorious](https://open.spotify.com/album/5kbxsF7LoGVuD6JivCLLtC) | 3:27 |
+| 55 | [Glorious \- Video Edit](https://open.spotify.com/track/1UqzLT0ZGWXD9K5npit5Nr) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Glorious](https://open.spotify.com/album/5kbxsF7LoGVuD6JivCLLtC) | 3:27 |
+| 56 | [Shake It \- Eurovision Version](https://open.spotify.com/track/2xagoLNhrbVA2fpOkxs2Ze) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [To Hrono Stamatao](https://open.spotify.com/album/7hiRylz4CAVyfLftuszLVJ) | 3:00 |
 | 57 | [Monsters](https://open.spotify.com/track/0JGbU6NlewrskD138Wq04b) | [Saara Aalto](https://open.spotify.com/artist/2OsS8RgsvMnTgDsbWVzzPn) | [Monsters](https://open.spotify.com/album/3glqvX58NEoX9D7Y60N429) | 3:00 |
 | 58 | [Lipstick \- Radio Edit](https://open.spotify.com/track/4gDQktCvIfPqo18AdHmkR4) | [Jedward](https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT) | [Lipstick](https://open.spotify.com/album/6zu4NUs9lQu996tDudt8xA) | 2:55 |
-| 59 | [Cliche Love Song \- Another Version](https://open.spotify.com/track/3V9489pkfvGQyGUzerfI7B) | [Basim](https://open.spotify.com/artist/0AQTNnuQ6OZRjzy5MWuqfg) | [Cliche Love Song](https://open.spotify.com/album/3xCULyIXntwHXWgyt0JNVq) | 3:01 |
-| 60 | [Moustache](https://open.spotify.com/track/6ILOO5bZA9x6zanAMO0hKr) | [Twin Twin](https://open.spotify.com/artist/2hJPfJfj1VpL2AJvelxxzx) | [Vive la vie \(Edition spéciale\)](https://open.spotify.com/album/64TJ7px9P7xSUXHB3604uf) | 2:49 |
+| 59 | [Moustache](https://open.spotify.com/track/6ILOO5bZA9x6zanAMO0hKr) | [Twin Twin](https://open.spotify.com/artist/2hJPfJfj1VpL2AJvelxxzx) | [Vive la vie \(Edition spéciale\)](https://open.spotify.com/album/64TJ7px9P7xSUXHB3604uf) | 2:49 |
+| 60 | [Cliche Love Song \- Another Version](https://open.spotify.com/track/3V9489pkfvGQyGUzerfI7B) | [Basim](https://open.spotify.com/artist/0AQTNnuQ6OZRjzy5MWuqfg) | [Cliche Love Song](https://open.spotify.com/album/3xCULyIXntwHXWgyt0JNVq) | 3:01 |
 | 61 | [La Voix](https://open.spotify.com/track/7Kz4f9CgtAfbmPBMX5q2ZV) | [Malena Ernman](https://open.spotify.com/artist/0muluUHym4N0wB62sD0MPo), [Fredrik Kempe](https://open.spotify.com/artist/5a3wjp9dcWyJitaiwXIsC7) | [La voix du nord](https://open.spotify.com/album/0h8iIqw8uv8Rif7zPK8iml) | 2:57 |
 | 62 | [Shady Lady](https://open.spotify.com/track/0DHet9TdSsdouIbOjvLf3m) | [Ani Lorak](https://open.spotify.com/artist/1J9vlx72A2T3kbRckBu04o) | [Солнце](https://open.spotify.com/album/3Be7rJ72wTrmE0W6oSUt32) | 2:58 |
 | 63 | [Playing with Fire](https://open.spotify.com/track/0m3mkj4WTHkfrmHB6toUIK) | [Ovi](https://open.spotify.com/artist/5bqiKYMVjdZjRxDojk5WXs), [Paula Seling](https://open.spotify.com/artist/0GeZRE8dyvgduV3KTvLFC3) | [This Gig Almost Got Me Killed](https://open.spotify.com/album/2iOWFL3Nvw6HEhXfSxFe2K) | 3:02 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 68 | [Jan\-Jan](https://open.spotify.com/track/0vaA3B4bcustCPx4TxgW9V) | [Inga & Anush](https://open.spotify.com/artist/1jNasAgn5gBuh73SrAuMqv) | [Menq Enq Mer Sarere](https://open.spotify.com/album/0XU1A1UzlpjAZC3zM8KNk8) | 3:01 |
 | 69 | [Tick Tock](https://open.spotify.com/track/4kIheg2ykamUNNrSxL7t56) | [Mariya Yaremchuk](https://open.spotify.com/artist/2GcuaSJbRVxaoxtwlob8G5) | [Tick Tock](https://open.spotify.com/album/1a1Bd3Xql7hP7q2nubALBU) | 3:00 |
 | 70 | [\(I Would\) Die For You](https://open.spotify.com/track/59wp0uf7el6E2xo0sYUQsL) | [Antique](https://open.spotify.com/artist/1rxRotylejS3RfFQa2Wd1G) | [Pärlor \- Antique](https://open.spotify.com/album/2HThN1swgwLlrnB3DCHNdU) | 2:58 |
-| 71 | [This Is Our Night](https://open.spotify.com/track/3KcRTivsw7hbxSRMGDtsMS) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [This Is Our Night](https://open.spotify.com/album/71diCysWyJmFHsEv4ExMwD) | 2:57 |
-| 72 | [Walk On Water](https://open.spotify.com/track/6t9ECIs2ypkHQQ49VvhA3h) | [Ira Losco](https://open.spotify.com/artist/6JSaVx77J1mck0Oyv5D0rV) | [Walk On Water](https://open.spotify.com/album/2gdlErpWJdjuXOo4BJg0DV) | 3:05 |
+| 71 | [Walk On Water](https://open.spotify.com/track/6t9ECIs2ypkHQQ49VvhA3h) | [Ira Losco](https://open.spotify.com/artist/6JSaVx77J1mck0Oyv5D0rV) | [Walk On Water](https://open.spotify.com/album/2gdlErpWJdjuXOo4BJg0DV) | 3:05 |
+| 72 | [This Is Our Night](https://open.spotify.com/track/3KcRTivsw7hbxSRMGDtsMS) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [This Is Our Night](https://open.spotify.com/album/71diCysWyJmFHsEv4ExMwD) | 2:57 |
 | 73 | [Requiem \- Eurovision Version](https://open.spotify.com/track/4Lhk5r1sm6MwH08JkwDZ0O) | [Alma](https://open.spotify.com/artist/6UUoOFrzfmGZ50AP9SY97H) | [Requiem \(Eurovision version\)](https://open.spotify.com/album/6ctJ0NtlKyUfFvBdWMDtII) | 3:00 |
 | 74 | [Is It True?](https://open.spotify.com/track/3PX9r23tKDbWOf2Na65nyH) | [Jóhanna Guðrún](https://open.spotify.com/artist/4KsGMNzBc29HS8e4QrVvDu) | [100 íslensk í ferðalagið](https://open.spotify.com/album/5vSSV7sxiQ1DxqM3qMahtJ) | 3:00 |
 | 75 | [J'aime la vie \- Eurovision 1986](https://open.spotify.com/track/6UKeMVzQeeOsjITXfX1cm4) | [Sandra Kim](https://open.spotify.com/artist/4dhrlsu6mKvOwJWOrwnkuV) | [Au top des années 80, vol\. 1 \(30 titres + 5 maxis\)](https://open.spotify.com/album/76YvIXe5aWujtislm12yVk) | 3:04 |
 
-Snapshot ID: `MTY1MjcwNzI2OCwwMDAwMDAwMGJkNTU3MTU4NGY2NDIyNjUxZWQxYzFkYWVmNmQ0MjRh`
+Snapshot ID: `MTY1MjcwNzI2OCwwMDAwMDAwMDM3ODIzMDU1M2RkYjQyZDIyZmRmNGM4YWIxOGVmZDU4`

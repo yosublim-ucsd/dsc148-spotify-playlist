@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,435 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,388 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 38 | [Christmas Time Is Here](https://open.spotify.com/track/2jtkTVjSfw7caWpFN2TSor) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87) | 3:20 |
 | 39 | [Winter Wonderland](https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Crescent City Christmas Card](https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6) | 2:52 |
 | 40 | [A Nightingale Sang In Berkeley Square \(duet with Gloria Estefan\)](https://open.spotify.com/track/3MO6GyDQQ8WGVAJ2uHorbP) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [A Sentimental Christmas With Nat King Cole And Friends: Cole Classics Reimagined](https://open.spotify.com/album/0rXnrMJWA2eVoKaEyXQare) | 4:59 |
-| 41 | [Baby, It's Cold Outside](https://open.spotify.com/track/1zZGu0CZd3Sifl2GNECXWG) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6), [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Christmas Cookin'](https://open.spotify.com/album/0uhYdmdjyACeqr61Pf6gPC) | 6:00 |
-| 42 | [Little Jack Frost Get Lost](https://open.spotify.com/track/4lrk2zmv9kbETfl4xKDcL9) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Holiday For Swing!](https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4) | 2:34 |
-| 43 | [Christmas Time Is Here](https://open.spotify.com/track/5GDMoDTI2iqYlykNq5hw6l) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Christmas in the Rockies](https://open.spotify.com/album/0YXb7Wfn8T0HOvc0ZQblc8) | 3:46 |
+| 41 | [Little Jack Frost Get Lost](https://open.spotify.com/track/4lrk2zmv9kbETfl4xKDcL9) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Holiday For Swing!](https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4) | 2:34 |
+| 42 | [Christmas Time Is Here](https://open.spotify.com/track/5GDMoDTI2iqYlykNq5hw6l) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Christmas in the Rockies](https://open.spotify.com/album/0YXb7Wfn8T0HOvc0ZQblc8) | 3:46 |
+| 43 | [Baby, It's Cold Outside](https://open.spotify.com/track/1zZGu0CZd3Sifl2GNECXWG) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6), [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Christmas Cookin'](https://open.spotify.com/album/0uhYdmdjyACeqr61Pf6gPC) | 6:00 |
 | 44 | [Show Me The Magic](https://open.spotify.com/track/7CO9j3NbotOqtajfvM1ilQ) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Show Me The Magic](https://open.spotify.com/album/7gI7vQXmYWCl2QY7gc8VAq) | 2:30 |
 | 45 | [The Christmas Waltz](https://open.spotify.com/track/7J0cerYwEoX1inloapkWBz) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) | [Simply Christmas \(Deluxe Edition\)](https://open.spotify.com/album/3nMeVjYypmshXLIWEcrvGN) | 3:02 |
 | 46 | [Santa Baby](https://open.spotify.com/track/1VKndPOz75Bk97MT4Jg46Z) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Santa Baby](https://open.spotify.com/album/2RqEmOKf7AE3yeGMAQR3mJ) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 49 | [The Little Things](https://open.spotify.com/track/5iSVLB0MDNoeXXfi5hs9T8) | [Jeremy Lister](https://open.spotify.com/artist/5ChUwGNEwjVk3L7Wa7nmvJ) | [Happy Holidays, Everyone](https://open.spotify.com/album/1zBD9yzF3OzQExEKxMeuOh) | 3:43 |
 | 50 | [Have a Holly Jolly Christmas](https://open.spotify.com/track/2Lb9nBoZ8V5GNtMOgcaF8o) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui) | 4:03 |
 
-Snapshot ID: `MTY2OTk1NzI2MCwwMDAwMDAwMGM2OWQ5MzYwZGJlM2VkNzM4MjVmODViMWFmNWZhYzQ1`
+Snapshot ID: `MTY2OTk1NzI2MCwwMDAwMDAwMDIwNDNkMGUxMGMzOTRmNWE3Y2QxOGE1NzQ4NzI0MmIx`

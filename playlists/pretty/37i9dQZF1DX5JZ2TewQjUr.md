@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: CHANKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,238 likes - 125 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,245 likes - 125 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 15 | [It's Starting to Rain](https://open.spotify.com/track/34zi4KYkM2Xh4utbUSk0qE) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [It's Starting to Rain](https://open.spotify.com/album/5lYKLyu7mfLm2sPRVqRUzP) | 3:33 |
 | 16 | [講再見](https://open.spotify.com/track/6A1Nw8alBWUyvxhTRSBxVG) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [講再見](https://open.spotify.com/album/5svObEfoGUr0PCgle3XgCN) | 4:21 |
 | 17 | [唔好嬲啦](https://open.spotify.com/track/6RTMWCzrx4q6S2hcYiZn4J) | [Lazyboi Dri](https://open.spotify.com/artist/5gLpTC2hyiNnIXh2uwXFWU) | [唔好嬲啦](https://open.spotify.com/album/0ytW5O3t3BlCnWIPTo7eFv) | 3:23 |
-| 18 | [RUN](https://open.spotify.com/track/4fIOOhK1Nu2VsltjMef1U4) | [Lok Chow](https://open.spotify.com/artist/4QQ4Au2vMm6e0QxoPhjhHg), [Jacky Fcy](https://open.spotify.com/artist/0cSJdAV20g8HYirPf3CARL) | [RUN](https://open.spotify.com/album/41V3xE0TjvtWBAMfW1VLoP) | 2:56 |
+| 18 | [RUN](https://open.spotify.com/track/4fIOOhK1Nu2VsltjMef1U4) | [Lok Chow](https://open.spotify.com/artist/4QQ4Au2vMm6e0QxoPhjhHg), [Jacky Fcy](https://open.spotify.com/artist/2Zfhyxqj6j0MYbX8Tmjelw) | [RUN](https://open.spotify.com/album/41V3xE0TjvtWBAMfW1VLoP) | 2:56 |
 | 19 | [working holiday](https://open.spotify.com/track/2vgpjJNqLYTf7nDYdvoXY6) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C), [Nicknames](https://open.spotify.com/artist/1y2mXaGQXFVnHm5QuEz5xO) | [working holiday](https://open.spotify.com/album/6RQ77NGRncu7yIIQGXuNwA) | 3:08 |
 | 20 | [Inside My Head](https://open.spotify.com/track/2gqK1yJ6FBSPhJdmLf0I9W) | [Bedroom Party](https://open.spotify.com/artist/2aSJ9BDyUpJgndRanmLCdr) | [Inside My Head](https://open.spotify.com/album/49hKtHlS7FU9tAuDkxHMlS) | 4:14 |
 | 21 | [Laura Says Distortion](https://open.spotify.com/track/0lLh6qhc9dBavA8rQF3oa8) | [Kowloon Cowboy](https://open.spotify.com/artist/4Nd2OyYtobUJmHxRhEblFy) | [Laura Says Distortion](https://open.spotify.com/album/1K9fowNgyuHW4xfx848sCP) | 5:22 |

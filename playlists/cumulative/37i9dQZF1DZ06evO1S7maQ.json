@@ -899,6 +899,24 @@
     },
     {
       "album": {
+        "name": "Darkness On the Edge of Town",
+        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237440,
+      "name": "Prove It All Night",
+      "url": "https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q"
+    },
+    {
+      "album": {
         "name": "Bruce Springsteen & The E Street Band - The Legendary 1979 No Nukes Concerts",
         "url": "https://open.spotify.com/album/00V1MSXp0ral9K394aItww"
       },
@@ -928,7 +946,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 412973,
       "name": "Racing in the Street",
       "url": "https://open.spotify.com/track/4L6ZmbSmjH5swqGWrelrrN"

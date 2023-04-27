@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: GIUK\(기욱\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Xdinary Heroes\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,899 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,006 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [TIME MACHINE \(2100\)](https://open.spotify.com/track/0YdTWKY4AOJjoFRzvCv8w5) | [GIUK](https://open.spotify.com/artist/4kuX4KeHgnN8ifEGHHUd0x) | [Psycho Xybernetics : TURN OVER](https://open.spotify.com/album/6Aj2dwrucXX7G1021mfyOQ) | 3:17 |
-| 2 | [Smoke Sprite \(feat\. RM of BTS\)](https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD) | 4:02 |
-| 3 | [Run](https://open.spotify.com/track/4SQw5cHoDxfoSTtaXgaG86) | [밴드기린](https://open.spotify.com/artist/1eIXaK6EOhmMncTZ2L1SWG) | [Run](https://open.spotify.com/album/7McA98esvLlvWfNOnCmfqd) | 3:52 |
-| 4 | [eight\(Prod.&Feat\. SUGA of BTS\)](https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [eight](https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt) | 2:47 |
+| 1 | [Freakin' Bad](https://open.spotify.com/track/3wntBaOJD8AZrJ8ix97Lwg) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Deadlock](https://open.spotify.com/album/6nePUewVYxSkvIbG9nkB0M) | 3:03 |
+| 2 | [사랑은 먼지 같아도](https://open.spotify.com/track/2wkREQBFKKJwTBQSDLX6cE) | [JUROKEY](https://open.spotify.com/artist/59TnLHZJYHwrk51oo4bbVC) | [그냥](https://open.spotify.com/album/1flU2TXdMjvTwsGnJxKcHN) | 3:20 |
+| 3 | [Romanticism](https://open.spotify.com/track/6BuBas6u8SShF6OVeFdWlg) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [Narcissus](https://open.spotify.com/album/58nrjxdxUZJOVvLU1uyc6b) | 3:32 |
+| 4 | [SOS](https://open.spotify.com/track/6KLyguge9Zz70BXzXUDZGy) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [SOS](https://open.spotify.com/album/7mvXcE4O6cXegKk52405G4) | 3:38 |
 | 5 | [Event Horizon](https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album Repackage 'END THEORY : Final Edition'](https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c) | 5:00 |
-| 6 | [Folks](https://open.spotify.com/track/2ZBamz4ysAIPWEyILbIt0I) | [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [Put Up a Fight](https://open.spotify.com/album/3drwQJIp5YRtjFIIPishWG) | 3:21 |
-| 7 | [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 |
-| 8 | [Shelter Of Dreams](https://open.spotify.com/track/2DauGSCkwdgts3sUkuQu30) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Shelter Of Dreams](https://open.spotify.com/album/7nYp9JSCBmrEN30yjXI5rJ) | 4:32 |
+| 6 | [Smoke Sprite \(feat\. RM of BTS\)](https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD) | 4:02 |
+| 7 | [eight\(Prod.&Feat\. SUGA of BTS\)](https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [eight](https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt) | 2:47 |
+| 8 | [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 |
 | 9 | [She's In The Rain](https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV) | 3:57 |
 | 10 | [You Were Beautiful](https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 4:43 |
 | 11 | [Awake](https://open.spotify.com/track/3gxNkvcP8scSzL6mGznTn3) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:46 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 45 | [Sweet Chaos](https://open.spotify.com/track/499qjESUqiZjlNI7XQhyLp) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h) | 3:47 |
 | 46 | [PIRI](https://open.spotify.com/track/6vHyPhg8fgclBiY8QN68wp) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC) | 3:26 |
 | 47 | [Mirror](https://open.spotify.com/track/6tF5SVu63mcy3bxzqpTiap) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Mirror](https://open.spotify.com/album/5y2ZMwQ0HLRXW0Rsidiqws) | 3:34 |
-| 48 | [Adrenaline](https://open.spotify.com/track/6ZQmJVUuXk1Q27d8vkmgm8) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [VINCENZO \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/47ulDGfVUWUcUSWRQCzxr3) | 3:26 |
-| 49 | [So Tender](https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Nevertheless, \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2) | 4:28 |
-| 50 | [Let’s Love](https://open.spotify.com/track/0wk4GYAryLcXEMvfhzU1bv) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 3:49 |
+| 48 | [Whale](https://open.spotify.com/track/4UnBxdw1l3J31WBsgmHezz) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Whale](https://open.spotify.com/album/33xJchEJEX9MMspAs6JY9n) | 3:19 |
+| 49 | [Folks](https://open.spotify.com/track/2ZBamz4ysAIPWEyILbIt0I) | [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [Put Up a Fight](https://open.spotify.com/album/3drwQJIp5YRtjFIIPishWG) | 3:21 |
+| 50 | [So Tender](https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Nevertheless, \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2) | 4:28 |
 
-Snapshot ID: `MTY4MTk4MTI2OSwwMDAwMDAwMDY4YzNhYzkwMjk4ZTQxYzQ2YmMyNTBkNWUyZWYzNjEz`
+Snapshot ID: `MTY4MjUwMzY2NSwwMDAwMDAwMDI2YTY2OGY3MGMzYzM3NmU5MjRkMzkxMmI1N2IzMDc5`

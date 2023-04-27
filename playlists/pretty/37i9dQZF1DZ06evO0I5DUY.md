@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 
 > This is Los Cadetes De Linares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,855 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,927 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 | 13 | [El Regio Traficante](https://open.spotify.com/track/55bUQmbL9KBOfjpwqb19nK) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pueblito](https://open.spotify.com/album/3gwXs9usmAvXTMZYbvOZOh) | 3:21 |
 | 14 | [Polvo Maldito](https://open.spotify.com/track/35jrPAi7haQ0bz4HbVyyUg) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Corridos](https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD) | 2:44 |
 | 15 | [Dos Coronas a Mi Madre](https://open.spotify.com/track/2imwekOjGGEhx4pELNtJJq) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas de Exitos](https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m) | 2:26 |
-| 16 | [Dos Vicios](https://open.spotify.com/track/469ReDKEOzSCpzIDy98GgV) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Dos Vicios](https://open.spotify.com/album/3aQYZhV5rLiAJGzIg2WfWH) | 2:39 |
-| 17 | [El Muchacho y el Potro](https://open.spotify.com/track/37Hgr4vvw6VMeNTCQRUimH) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Dos Coronas a Mi Madre](https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl) | 3:13 |
+| 16 | [El Muchacho y el Potro](https://open.spotify.com/track/37Hgr4vvw6VMeNTCQRUimH) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Dos Coronas a Mi Madre](https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl) | 3:13 |
+| 17 | [Dos Vicios](https://open.spotify.com/track/469ReDKEOzSCpzIDy98GgV) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Dos Vicios](https://open.spotify.com/album/3aQYZhV5rLiAJGzIg2WfWH) | 2:39 |
 | 18 | [La Tragedia de Rosita](https://open.spotify.com/track/3CWk6CPmJ5whGBjLjar4EZ) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G), [Homero Guerrero y Lupe Tijerina](https://open.spotify.com/artist/029TNxYpdZWjCidyQjNmgE) | [12 Kilates Puros Corridos](https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4) | 3:12 |
 | 19 | [Dimas de Leon](https://open.spotify.com/track/2D9mxadWpEHfaRlqV9m27i) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:52 |
 | 20 | [El Hijo del Palenque](https://open.spotify.com/track/1ymqGa3Bb74jhDjLZY6HSU) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas de Exitos](https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 | 49 | [Cielo Azul Cielo Nublado](https://open.spotify.com/track/3mCxVaN4vyX2eb82BSvQPi) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [30 Cadetazos](https://open.spotify.com/album/1tWA7Iz5dN9OyMKsrMq4c8) | 2:00 |
 | 50 | [La Venganza de Maria](https://open.spotify.com/track/3hRWq3fwORy2taZefkFs8e) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [14 Kilates de Oro Vol\. 2](https://open.spotify.com/album/5u8BsG7MUQo4TR3mYitKwl) | 3:21 |
 
-Snapshot ID: `MjgwNDA0NDAsMDAwMDAwMDAzMmE4N2UyZDAxMzQ5ZjVmNTlhZmVmNDdjNmFjZGU0Yw==`
+Snapshot ID: `MjgwNDE5MzAsMDAwMDAwMDBkNTg5ZDU2Y2Q3N2Q4OTkzNjk5MDAyODY1NjU5MGU4MA==`

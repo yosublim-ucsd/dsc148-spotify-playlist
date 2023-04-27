@@ -780,7 +780,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 246213,
       "name": "Elevator Ride",
       "url": "https://open.spotify.com/track/1zbl9UvKYIY319p7T8VGjp"
@@ -2894,6 +2894,28 @@
       "duration_ms": 516533,
       "name": "Three O'Clock Blues",
       "url": "https://open.spotify.com/track/3gGKOVwsAVvwt9BcH3k18J"
+    },
+    {
+      "album": {
+        "name": "Underground Railroad",
+        "url": "https://open.spotify.com/album/6ubhqCcDBYw0DabUMhxnIO"
+      },
+      "artists": [
+        {
+          "name": "Shaneeka Simon",
+          "url": "https://open.spotify.com/artist/5Ppc0aChlO1gqw6s3yZNwN"
+        },
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254862,
+      "name": "Underground Railroad",
+      "url": "https://open.spotify.com/track/6LtBXwNr2MJboOD3w5Zt4R"
     },
     {
       "album": {

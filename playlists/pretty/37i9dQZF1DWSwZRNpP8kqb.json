@@ -1,12 +1,12 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Sele Vera en portada.",
-  "num_followers": 16985,
+  "num_followers": 17019,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0NjAwMCwwMDAwMDAwMGMzOGUwZWMzMmQ3YmQwM2VmZGJmNmRlMTQyMDAxZjYz",
+  "snapshot_id": "MTY4MjA0NjAwMCwwMDAwMDAwMDE5YmEyZTQ3MmRkNWFmZmRlNmM2NTg4MjNjMTE1NjYy",
   "tracks": [
     {
       "added_at": "2023-04-21 03:00:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Coplas de Sangre, Vol. 5",
-        "url": "https://open.spotify.com/album/5wExPCVbkoPAJWYj3O8yXK"
-      },
-      "artists": [
-        {
-          "name": "Mariana Carrizo",
-          "url": "https://open.spotify.com/artist/4CacTDAcLCUIscmGzoQE4z"
-        }
-      ],
-      "duration_ms": 208813,
-      "name": "Do\u00f1a Ubenza",
-      "url": "https://open.spotify.com/track/1ca4mFvkjGHuu40zFzx5df"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "CARNAVALITO DEL DUENDE",
         "url": "https://open.spotify.com/album/7IHXgqU3PUInEcitPjQybZ"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 172421,
       "name": "CARNAVALITO DEL DUENDE",
       "url": "https://open.spotify.com/track/6vZL8IkljDw2sR4aHSN25S"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Coplas de Sangre, Vol. 5",
+        "url": "https://open.spotify.com/album/5wExPCVbkoPAJWYj3O8yXK"
+      },
+      "artists": [
+        {
+          "name": "Mariana Carrizo",
+          "url": "https://open.spotify.com/artist/4CacTDAcLCUIscmGzoQE4z"
+        }
+      ],
+      "duration_ms": 208813,
+      "name": "Do\u00f1a Ubenza",
+      "url": "https://open.spotify.com/track/1ca4mFvkjGHuu40zFzx5df"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Tanto Amor",
-        "url": "https://open.spotify.com/album/65bHLqYJeXeuIkSOEKxXuL"
-      },
-      "artists": [
-        {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Tanto Amor",
-      "url": "https://open.spotify.com/track/2RH3mx7Oakol0sKd7dF07S"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Amor en Zamba",
         "url": "https://open.spotify.com/album/1ekZoZ4lCQMBATHusbg5Cz"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 263620,
       "name": "Amor en Zamba",
       "url": "https://open.spotify.com/track/1NhkAYwOuw8I2jAPlTL1vK"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Tanto Amor",
+        "url": "https://open.spotify.com/album/65bHLqYJeXeuIkSOEKxXuL"
+      },
+      "artists": [
+        {
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Tanto Amor",
+      "url": "https://open.spotify.com/track/2RH3mx7Oakol0sKd7dF07S"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Ojos de Cielo",
-        "url": "https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA"
-      },
-      "artists": [
-        {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Ojos de Cielo",
-      "url": "https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Jallalla",
         "url": "https://open.spotify.com/album/01SdCRVuXrG61V4nWyHGSt"
       },
@@ -567,6 +551,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Aleteo",
+        "url": "https://open.spotify.com/album/5OAuXm0MLy4wVNo3Utdiau"
+      },
+      "artists": [
+        {
+          "name": "Carolina del Carmen Peleritti",
+          "url": "https://open.spotify.com/artist/33LPGnKzL0GTbMraTPlPYd"
+        }
+      ],
+      "duration_ms": 204700,
+      "name": "Aleteo",
+      "url": "https://open.spotify.com/track/5dklFoQPjblzbHQeS18GW6"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "Tanto Amor",
         "url": "https://open.spotify.com/album/1tazdXlkpmlZAEOZTnMvH5"
       },
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Aleteo",
-        "url": "https://open.spotify.com/album/5OAuXm0MLy4wVNo3Utdiau"
+        "name": "Ojos de Cielo",
+        "url": "https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA"
       },
       "artists": [
         {
-          "name": "Carolina del Carmen Peleritti",
-          "url": "https://open.spotify.com/artist/33LPGnKzL0GTbMraTPlPYd"
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
         }
       ],
-      "duration_ms": 204700,
-      "name": "Aleteo",
-      "url": "https://open.spotify.com/track/5dklFoQPjblzbHQeS18GW6"
+      "duration_ms": 169500,
+      "name": "Ojos de Cielo",
+      "url": "https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Cr\u00eda",
-        "url": "https://open.spotify.com/album/3u8noXMGS9gqu3ccMriEZ8"
-      },
-      "artists": [
-        {
-          "name": "Duratierra",
-          "url": "https://open.spotify.com/artist/7efsaKgGf6hl8oOgLpJDO3"
-        }
-      ],
-      "duration_ms": 340040,
-      "name": "En el Fresco de la Noche",
-      "url": "https://open.spotify.com/track/5E9q7IZebg8StZ900IVDFp"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Uno M\u00e1s 6",
         "url": "https://open.spotify.com/album/42qrvB9s6yNephFUgJKsCf"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 210771,
       "name": "Bendiciones",
       "url": "https://open.spotify.com/track/1MGO5YkUubhzJnHiqyZtQI"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Cr\u00eda",
+        "url": "https://open.spotify.com/album/3u8noXMGS9gqu3ccMriEZ8"
+      },
+      "artists": [
+        {
+          "name": "Duratierra",
+          "url": "https://open.spotify.com/artist/7efsaKgGf6hl8oOgLpJDO3"
+        }
+      ],
+      "duration_ms": 340040,
+      "name": "En el Fresco de la Noche",
+      "url": "https://open.spotify.com/track/5E9q7IZebg8StZ900IVDFp"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Vuelve a Sonar",
+        "url": "https://open.spotify.com/album/6SYkiuBxUQbfprH4tnCNpL"
+      },
+      "artists": [
+        {
+          "name": "Flor Paz",
+          "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
+        }
+      ],
+      "duration_ms": 164394,
+      "name": "Vuelve a Sonar",
+      "url": "https://open.spotify.com/track/1SCkDngAVBaPlFpINOlpld"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "Canciones Brotadas de Mi Ra\u00edz",
         "url": "https://open.spotify.com/album/7d7gZJrvoRDHsatfypRPTL"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 320400,
       "name": "Zamba del Laurel",
       "url": "https://open.spotify.com/track/2YywgUYPha9xvoCJo7b45d"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "Vuelve a Sonar",
-        "url": "https://open.spotify.com/album/6SYkiuBxUQbfprH4tnCNpL"
-      },
-      "artists": [
-        {
-          "name": "Flor Paz",
-          "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
-        }
-      ],
-      "duration_ms": 164394,
-      "name": "Vuelve a Sonar",
-      "url": "https://open.spotify.com/track/1SCkDngAVBaPlFpINOlpld"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Soy Semilla",
+        "url": "https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD"
+      },
+      "artists": [
+        {
+          "name": "Flor Paz",
+          "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
+        }
+      ],
+      "duration_ms": 214077,
+      "name": "Morenito",
+      "url": "https://open.spotify.com/track/4JeNZ4z648L1D1c2Gdlt8h"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "Agosto",
         "url": "https://open.spotify.com/album/3Zknqrbbw1TiFoeDLeJnl7"
       },
@@ -1235,18 +1251,18 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Soy Semilla",
-        "url": "https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD"
+        "name": "Sarav\u00e1",
+        "url": "https://open.spotify.com/album/67RXMS6LdgDRTQpjCSjjGi"
       },
       "artists": [
         {
-          "name": "Flor Paz",
-          "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
+          "name": "La Bruja Salguero",
+          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
         }
       ],
-      "duration_ms": 214077,
-      "name": "Morenito",
-      "url": "https://open.spotify.com/track/4JeNZ4z648L1D1c2Gdlt8h"
+      "duration_ms": 243058,
+      "name": "Sarav\u00e1",
+      "url": "https://open.spotify.com/track/5Cd4EkEdeDppjU3DpGduWV"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1263,22 +1279,6 @@
       "duration_ms": 107710,
       "name": "La Arruguita",
       "url": "https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "Sarav\u00e1",
-        "url": "https://open.spotify.com/album/67RXMS6LdgDRTQpjCSjjGi"
-      },
-      "artists": [
-        {
-          "name": "La Bruja Salguero",
-          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
-        }
-      ],
-      "duration_ms": 243058,
-      "name": "Sarav\u00e1",
-      "url": "https://open.spotify.com/track/5Cd4EkEdeDppjU3DpGduWV"
     },
     {
       "added_at": "2023-04-21 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Kim Petras, Nicki Minaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,642 likes - 109 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,637 likes - 109 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

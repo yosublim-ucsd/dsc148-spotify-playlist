@@ -1,12 +1,12 @@
 {
   "description": "The t-shirt weather essentials.",
-  "num_followers": 267527,
+  "num_followers": 268557,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgxODMxOSwwMDAwMDAwMGI1ZDJjOGY3MzA5MjA0ZTRlYTMwNDY0YTc1OTFkZTc1",
+  "snapshot_id": "MTY3ODgxODMxOSwwMDAwMDAwMGUwYWJkNzUwYWUwMzU5Y2Q2NTQ3MzI1ODBkMjRhOGFj",
   "tracks": [
     {
       "added_at": "2023-03-11 00:52:02",
@@ -291,6 +291,22 @@
       "duration_ms": 209200,
       "name": "AMAZING",
       "url": "https://open.spotify.com/track/3OM6qQmdFV6uy61GIqpRtf"
+    },
+    {
+      "added_at": "2023-03-11 00:52:02",
+      "album": {
+        "name": "K.I.D.S. (Deluxe)",
+        "url": "https://open.spotify.com/album/6TFm9KGW7Lbxrl2Zsg4X9R"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 195873,
+      "name": "The Spins",
+      "url": "https://open.spotify.com/track/7FAFkQQZFeNwOFzTrSDFIh"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -731,22 +747,6 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "All Of The Time",
-      "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
-    },
-    {
-      "added_at": "2023-03-11 00:52:02",
-      "album": {
         "name": "Wolfgang Amadeus Phoenix",
         "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
       },
@@ -759,6 +759,22 @@
       "duration_ms": 241640,
       "name": "Lisztomania",
       "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
+    },
+    {
+      "added_at": "2023-03-11 00:52:02",
+      "album": {
+        "name": "Young Chasers (Deluxe)",
+        "url": "https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 192120,
+      "name": "T-Shirt Weather",
+      "url": "https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -779,18 +795,18 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
-        "name": "Young Chasers (Deluxe)",
-        "url": "https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM"
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
       },
       "artists": [
         {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 192120,
-      "name": "T-Shirt Weather",
-      "url": "https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ"
+      "duration_ms": 182040,
+      "name": "All Of The Time",
+      "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -875,38 +891,6 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
-        "name": "K.I.D.S.",
-        "url": "https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 195873,
-      "name": "The Spins",
-      "url": "https://open.spotify.com/track/7BcOUi4FQ3wBLmNTW0yfCR"
-    },
-    {
-      "added_at": "2023-03-11 00:52:02",
-      "album": {
-        "name": "GOOD TIMES / PROBLEMZ",
-        "url": "https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 181312,
-      "name": "GOOD TIMES",
-      "url": "https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e"
-    },
-    {
-      "added_at": "2023-03-11 00:52:02",
-      "album": {
         "name": "Patience",
         "url": "https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 196533,
       "name": "Lots of Nothing",
       "url": "https://open.spotify.com/track/2WtFN7eLf5gvhJNgwBvGP6"
+    },
+    {
+      "added_at": "2023-03-11 00:52:02",
+      "album": {
+        "name": "GOOD TIMES / PROBLEMZ",
+        "url": "https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 181312,
+      "name": "GOOD TIMES",
+      "url": "https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
-        "name": "Fix Yourself, Not the World",
-        "url": "https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 169213,
-      "name": "If You Ever Leave, I'm Coming with You",
-      "url": "https://open.spotify.com/track/5njwCYHUhRJbSg22rZ2lHy"
-    },
-    {
-      "added_at": "2023-03-11 00:52:02",
-      "album": {
         "name": "The Yearbook",
         "url": "https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 218053,
       "name": "Dover Beach",
       "url": "https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk"
+    },
+    {
+      "added_at": "2023-03-11 00:52:02",
+      "album": {
+        "name": "Fix Yourself, Not the World",
+        "url": "https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 169213,
+      "name": "If You Ever Leave, I'm Coming with You",
+      "url": "https://open.spotify.com/track/5njwCYHUhRJbSg22rZ2lHy"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
-        "name": "Worst Case Kid",
-        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "Worst Case Kid",
-      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
-    },
-    {
-      "added_at": "2023-03-11 00:52:02",
-      "album": {
         "name": "Acting My Age",
         "url": "https://open.spotify.com/album/2Ty2YnDFpPDqlclwEeNHVW"
       },
@@ -1447,18 +1431,18 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
-        "name": "Pacifico",
-        "url": "https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB"
+        "name": "Worst Case Kid",
+        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
       },
       "artists": [
         {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
         }
       ],
-      "duration_ms": 137307,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/4V33aS5qju2ujbQt8JKi6P"
+      "duration_ms": 152133,
+      "name": "Worst Case Kid",
+      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -1479,6 +1463,22 @@
       "duration_ms": 199088,
       "name": "Hi-Fidelity",
       "url": "https://open.spotify.com/track/2d9UdLMMe80RNfuQcGmuIe"
+    },
+    {
+      "added_at": "2023-03-11 00:52:02",
+      "album": {
+        "name": "Pacifico",
+        "url": "https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 137307,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/4V33aS5qju2ujbQt8JKi6P"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -1529,7 +1529,7 @@
       "url": "https://open.spotify.com/track/1SdItcSOTD14tvIo8UzA6k"
     },
     {
-      "added_at": "2023-04-26 00:37:15",
+      "added_at": "2023-04-27 01:03:18",
       "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
@@ -1543,6 +1543,22 @@
       "duration_ms": 202653,
       "name": "Purple",
       "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
+    },
+    {
+      "added_at": "2023-03-11 00:52:02",
+      "album": {
+        "name": "Ode to a Conversation Stuck in Your Throat",
+        "url": "https://open.spotify.com/album/5e8S6KvNbnZBbNzaL2YcLJ"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 198927,
+      "name": "Ode to a Conversation Stuck in Your Throat",
+      "url": "https://open.spotify.com/track/6JwkAGwClwUzcOi0ZBbSLe"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -1599,22 +1615,6 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
-        "name": "Ode to a Conversation Stuck in Your Throat",
-        "url": "https://open.spotify.com/album/5e8S6KvNbnZBbNzaL2YcLJ"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 198927,
-      "name": "Ode to a Conversation Stuck in Your Throat",
-      "url": "https://open.spotify.com/track/6JwkAGwClwUzcOi0ZBbSLe"
-    },
-    {
-      "added_at": "2023-03-11 00:52:02",
-      "album": {
         "name": "It Won't Always Be Like This",
         "url": "https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu"
       },
@@ -1627,22 +1627,6 @@
       "duration_ms": 233906,
       "name": "Cheer Up Baby",
       "url": "https://open.spotify.com/track/4jwrBNhvazRacmab5ArWSZ"
-    },
-    {
-      "added_at": "2023-03-11 00:52:02",
-      "album": {
-        "name": "That's Life",
-        "url": "https://open.spotify.com/album/5lCRiEhGqKcWZbqMdzrZ9j"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 147653,
-      "name": "That's Life",
-      "url": "https://open.spotify.com/track/32q9OuCp7wFdLZKuCXm0wl"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -1667,6 +1651,22 @@
       "duration_ms": 221098,
       "name": "Dragonball Durag - Remix",
       "url": "https://open.spotify.com/track/1PrVLmXkJjh2vEhmBEKLeM"
+    },
+    {
+      "added_at": "2023-03-11 00:52:02",
+      "album": {
+        "name": "That's Life",
+        "url": "https://open.spotify.com/album/5lCRiEhGqKcWZbqMdzrZ9j"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 147653,
+      "name": "That's Life",
+      "url": "https://open.spotify.com/track/32q9OuCp7wFdLZKuCXm0wl"
     }
   ],
   "unique_name": "Summer Indie",

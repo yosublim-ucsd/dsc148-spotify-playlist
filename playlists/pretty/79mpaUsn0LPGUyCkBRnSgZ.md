@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 197 songs - 12 hr 19 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 199 songs - 12 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -205,5 +205,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 195 | [Prophecy](https://open.spotify.com/track/0tmYVU4k7y7ru6CkckFQp3) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [No Idols](https://open.spotify.com/album/3GncI0ExXYyWnIzZe9oxRQ) | 2:19 |
 | 196 | [Turkish Cotton](https://open.spotify.com/track/31rbQLmAii7Ah0XeRpbXo0) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [The Great Escape](https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr) | 2:46 |
 | 197 | [Haunted House on Zillow](https://open.spotify.com/track/6WDNTF2UZH8eGHFUH3xkcO) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [HORSESHIT ON ROUTE 66](https://open.spotify.com/album/1Wgcuni5PXwaTtRoo5SbmF) | 1:14 |
+| 198 | [Streaker \(feat\. Notrabel\)](https://open.spotify.com/track/2hJkzU5Ry3CDL3N9ad8fRc) | [TOBACCO](https://open.spotify.com/artist/3ikKyCOrsMeANi0d5u8BCR), [Notrabel](https://open.spotify.com/artist/3UYripz5TaFWumKpWjVXQw) | [Ultima II Massage](https://open.spotify.com/album/4BBxAB26ofkXvBmlatzTpW) | 2:52 |
+| 199 | [Salad Days](https://open.spotify.com/track/5VdaMUzoQetwxQwtWAd022) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 2:25 |
 
-Snapshot ID: `ODI1LGNlNzkyYTVmZDQ2MTRlZTU4ZTcyOTk3YjI2NjVjMWZiMjNlY2U3Y2I=`
+Snapshot ID: `ODI3LDM4NWEyZjFhMGY5ZWE2NDQ1Y2Q0ZTBiOWVhZDM2ZTdlMTdiNjcxMDI=`

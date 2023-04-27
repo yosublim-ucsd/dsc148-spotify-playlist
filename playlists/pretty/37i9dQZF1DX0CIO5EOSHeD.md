@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams\. Cover: d4vd
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,046 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,368 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 46 | [Sun Outside My Window](https://open.spotify.com/track/4VpLdvee1V7CTKXv1xaDCk) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Sun Outside My Window](https://open.spotify.com/album/2f9WckhKSSRXLJ53QJUCRo) | 3:21 |
 | 47 | [Superstar](https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Deep Divine](https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ) | 3:40 |
 | 48 | [Blue Sheen](https://open.spotify.com/track/4a1mFp7Kd5y20I08Cy7Nei) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Body Jumper](https://open.spotify.com/album/34wILh42l9lFTepPd128Jg) | 1:58 |
-| 49 | [Intersection](https://open.spotify.com/track/79n6LMR1b5Puu9FxWzxtDA) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [Polyvinyl 4\-Track Singles Series, Vol\. 3](https://open.spotify.com/album/5JIUd8YI5MSUvtVPI0RNZn) | 3:53 |
-| 50 | [Pretty](https://open.spotify.com/track/5rg2cr5aokhrm5gQNpyHXi) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow), [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pretty](https://open.spotify.com/album/22dulUCoaoKoVpmg2irQmo) | 3:19 |
+| 49 | [Pretty](https://open.spotify.com/track/5rg2cr5aokhrm5gQNpyHXi) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow), [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pretty](https://open.spotify.com/album/22dulUCoaoKoVpmg2irQmo) | 3:19 |
+| 50 | [Intersection](https://open.spotify.com/track/79n6LMR1b5Puu9FxWzxtDA) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [Polyvinyl 4\-Track Singles Series, Vol\. 3](https://open.spotify.com/album/5JIUd8YI5MSUvtVPI0RNZn) | 3:53 |
 | 51 | [My Heart Goes Bum Bum Bum](https://open.spotify.com/track/0RQbFGjt6FraX3WK8IK8QE) | [Flatsound](https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3) | [I Clung to You Hoping We'd Both Drown](https://open.spotify.com/album/6dwWUYV0MBZVcfSvzc27Ah) | 2:51 |
 | 52 | [I Don't Recognise You](https://open.spotify.com/track/0Gic2wnMVet2tfx03w1TVa) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX) | 4:35 |
 | 53 | [5AM Empanada with You](https://open.spotify.com/track/5zotLA21Q8MnILdUxBEPRM) | [Bubble Tea and Cigarettes](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [There's Nothing But Pleasure](https://open.spotify.com/album/4tP6s2K0QHvzuC960rQ1Dc) | 5:41 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 63 | [AHH!!](https://open.spotify.com/track/0bhmQgTeqAcxvfoHo5NPk7) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [AHH!!](https://open.spotify.com/album/3DLP1NdK5qoxL5khIxYy0d) | 1:36 |
 | 64 | [Let It Pass](https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Let It Pass](https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS) | 4:28 |
 | 65 | [Deaf](https://open.spotify.com/track/4XxcYQq3q2hxjTTKKyiyR4) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [Wednesday](https://open.spotify.com/album/4geKbR4o4eRdaeiGuAcJVu) | 5:12 |
-| 66 | [Into](https://open.spotify.com/track/22lOyosVUdyq7X0P7rzbWy) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Half Life](https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU) | 3:59 |
-| 67 | [Desire](https://open.spotify.com/track/2CgjSLZmBqcJZyefZSDFQ3) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Me Oh My Mirror](https://open.spotify.com/album/4FIEhoPQZpjjSS6japEfDx) | 3:43 |
-| 68 | [Cold Like Me](https://open.spotify.com/track/4VWHyL5l00Ue2W45C17xQv) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Pastlife \(Deluxe\)](https://open.spotify.com/album/0vSwt0ateYFyLzdZDqAZyc) | 3:02 |
-| 69 | [Midnight on a Sunny Day](https://open.spotify.com/track/2IH9CHrARfQJDcRNg3g8Dg) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Bee Eyes](https://open.spotify.com/artist/5gSDCsyiVBWWpLyky7xzOf) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:43 |
+| 66 | [Desire](https://open.spotify.com/track/2CgjSLZmBqcJZyefZSDFQ3) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Me Oh My Mirror](https://open.spotify.com/album/4FIEhoPQZpjjSS6japEfDx) | 3:43 |
+| 67 | [Into](https://open.spotify.com/track/22lOyosVUdyq7X0P7rzbWy) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Half Life](https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU) | 3:59 |
+| 68 | [Midnight on a Sunny Day](https://open.spotify.com/track/2IH9CHrARfQJDcRNg3g8Dg) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Bee Eyes](https://open.spotify.com/artist/5gSDCsyiVBWWpLyky7xzOf) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:43 |
+| 69 | [Cold Like Me](https://open.spotify.com/track/4VWHyL5l00Ue2W45C17xQv) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Pastlife \(Deluxe\)](https://open.spotify.com/album/0vSwt0ateYFyLzdZDqAZyc) | 3:02 |
 | 70 | [Fade](https://open.spotify.com/track/56aGCgQHz0eRCNXcuNY99B) | [Launder](https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh) | [Fade](https://open.spotify.com/album/7mvQaGNnewjly0RNWdfiNT) | 3:23 |
 | 71 | [Baby](https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Baby](https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0) | 3:57 |
 | 72 | [ALLTHETIME](https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2) | [ALLTHETIME](https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T) | 7:05 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 77 | [Maybe the Problem Is Me](https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh) | [dexter in the newsagent](https://open.spotify.com/artist/1ey2ESMWC5HEj2CmxvD7Mp) | [Maybe the Problem Is Me](https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB) | 2:13 |
 | 78 | [heat waves \- lofi version](https://open.spotify.com/track/5t0Dbc52fLBCsMTIXMYGo8) | [omgkirby](https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1) | [heat waves \- lofi version](https://open.spotify.com/album/0kTHkh9uiuQQg4I3dnoy82) | 1:36 |
 | 79 | [Alive](https://open.spotify.com/track/2zAzuCsqsZkSkozxTXqtSn) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Alive](https://open.spotify.com/album/3EfT0FhcsFzflCWBTxJd2k) | 3:00 |
-| 80 | [i want to die in your arms](https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i want to die in your arms](https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f) | 2:16 |
-| 81 | [Before the Fall](https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Afternoon Bike Ride](https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT) | 2:59 |
+| 80 | [Before the Fall](https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Afternoon Bike Ride](https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT) | 2:59 |
+| 81 | [i want to die in your arms](https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i want to die in your arms](https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f) | 2:16 |
 | 82 | [4th of july](https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [dirt](https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB) | 2:56 |
 | 83 | [California Screaming](https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [California Screaming](https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw) | 3:17 |
 | 84 | [buzzkill bummer](https://open.spotify.com/track/1wMBG8bzSjlupviNxOxsyX) | [Vanillaroma](https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7) | [i run like this](https://open.spotify.com/album/5dTdx1hbSnJtbLnvGajIRc) | 3:02 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 88 | [Pretend](https://open.spotify.com/track/5lU710034s09PYystM8YFH) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [BOYO](https://open.spotify.com/artist/1puLsaxX9EwudKrNBUVFe4) | [Ways To Get Out](https://open.spotify.com/album/54oELqxteSoJx5I6bqQ3vI) | 4:03 |
 | 89 | [Good For You](https://open.spotify.com/track/3LuvpnAcuxPn2dV00C9Rxt) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48), [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Good For You](https://open.spotify.com/album/3j4P5XClGIWJhnXT6NTix2) | 3:35 |
 | 90 | [Seaface](https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [The Gaping Mouth](https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU) | 3:39 |
-| 91 | [sugar ray](https://open.spotify.com/track/41edVQe0lQk74BxzcC7odS) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [softcore mourn](https://open.spotify.com/album/6JpYbHo988mjDqGjUCDxwR) | 4:03 |
-| 92 | [Half Eaten](https://open.spotify.com/track/0uD7KsA2g7cTBxFyk5Fo5M) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq) | [Boys Cry](https://open.spotify.com/album/55hp8spWuKixazOfG5olQQ) | 3:18 |
+| 91 | [Half Eaten](https://open.spotify.com/track/0uD7KsA2g7cTBxFyk5Fo5M) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq) | [Boys Cry](https://open.spotify.com/album/55hp8spWuKixazOfG5olQQ) | 3:18 |
+| 92 | [sugar ray](https://open.spotify.com/track/41edVQe0lQk74BxzcC7odS) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [softcore mourn](https://open.spotify.com/album/6JpYbHo988mjDqGjUCDxwR) | 4:03 |
 | 93 | [Reality](https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v) | [Em Glasser](https://open.spotify.com/artist/1svGpQYwY9pttfVCqvHNW5), [Maatz](https://open.spotify.com/artist/0OVrgxT9uZm6vfv51u6Twr) | [Reality](https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO) | 3:39 |
 | 94 | [OH GOD](https://open.spotify.com/track/6WE3Ai38FIfTiBvOWLZwA1) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [OH GOD](https://open.spotify.com/album/4IrzLi3zyjvFxiinNRQM3P) | 2:12 |
 | 95 | [Attention](https://open.spotify.com/track/4TKAE15440weMFqZeuzprE) | [rainbow frog biscuits](https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT) | [Attention](https://open.spotify.com/album/75htLgjuNRdGrfZLcsT5N3) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 99 | [Shame](https://open.spotify.com/track/3RdOdQF97UdwklpRXudSV8) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Shame](https://open.spotify.com/album/6jPznbXCFgzmQqcvrrRH2L) | 4:57 |
 | 100 | [Summer Something](https://open.spotify.com/track/3NtrvMkHEiGjPk3B18rsop) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [Fun Times](https://open.spotify.com/album/0lD6GKaZayk6uyAQVQbQHi) | 3:14 |
 
-Snapshot ID: `MTY3Nzc4NTQ5MSwwMDAwMDAwMDk2YzI5OWIwZTZhOTRiOTM2ZDk2MTA1YzAyNTY1MTJi`
+Snapshot ID: `MTY3Nzc4NTQ5MSwwMDAwMDAwMGE1OTM4ZTRlN2JjZjY5NjNlYTZlMGM5ZjIyYTU5MzA1`

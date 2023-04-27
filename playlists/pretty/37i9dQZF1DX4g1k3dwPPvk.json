@@ -1,12 +1,12 @@
 {
   "description": "The Latin soundtrack of the 90s! Cover: Selena",
-  "num_followers": 252889,
+  "num_followers": 252972,
   "original_name": "90s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY2Nzk5MywwMDAwMDAwMDRlMGVmMDNhNTU1YmZmMWQ5NzAxYmUxY2I0NWZlYTI1",
+  "snapshot_id": "MTY3NjY2Nzk5MywwMDAwMDAwMDk1MmVkNGQ4MmI0ZjQxMzk3MzE3YmE1YWMyNTFiMzli",
   "tracks": [
     {
       "added_at": "2023-02-17 21:06:33",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 192866,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
         "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
         "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 263306,
       "name": "Oye Mi Amor",
       "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 192866,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 267826,
-      "name": "Ciega, Sordomuda",
-      "url": "https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
         "name": "Capital Punishment (Explicit Version)",
         "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
       },
@@ -507,22 +491,6 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 289600,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
       },
@@ -539,8 +507,8 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Pies Descalzos",
-        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
       "artists": [
         {
@@ -548,9 +516,25 @@
           "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 232466,
-      "name": "Estoy Aqu\u00ed",
-      "url": "https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K"
+      "duration_ms": 267826,
+      "name": "Ciega, Sordomuda",
+      "url": "https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 289600,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -619,6 +603,22 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
+        "name": "Pies Descalzos",
+        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 232466,
+      "name": "Estoy Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
         "name": "La Calle De Las Sirenas",
         "url": "https://open.spotify.com/album/3Qe5Ldqub3nZPjq26sS1fS"
       },
@@ -631,22 +631,6 @@
       "duration_ms": 236160,
       "name": "La Calle De Las Sirenas",
       "url": "https://open.spotify.com/track/1SVm64B4Ry7dqFSxHY8e65"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 214133,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -719,18 +703,18 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "El Amor De Mi Tierra",
-        "url": "https://open.spotify.com/album/6KOqhvDPcG9HKntCfiWesH"
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW"
       },
       "artists": [
         {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
         }
       ],
-      "duration_ms": 233093,
-      "name": "Fruta Fresca",
-      "url": "https://open.spotify.com/track/1lcaG7worZLgdGuniOfGje"
+      "duration_ms": 240933,
+      "name": "Mirala Miralo",
+      "url": "https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -751,18 +735,34 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW"
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
       "artists": [
         {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 240933,
-      "name": "Mirala Miralo",
-      "url": "https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg"
+      "duration_ms": 214133,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
+        "name": "El Amor De Mi Tierra",
+        "url": "https://open.spotify.com/album/6KOqhvDPcG9HKntCfiWesH"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 233093,
+      "name": "Fruta Fresca",
+      "url": "https://open.spotify.com/track/1lcaG7worZLgdGuniOfGje"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -1011,7 +1011,7 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "La Tierra del Olvido (005)",
+        "name": "La Tierra del Olvido",
         "url": "https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y"
       },
       "artists": [
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 286466,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
         "name": "Enrique Iglesias",
         "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 251440,
       "name": "No Llores por Mi",
       "url": "https://open.spotify.com/track/1qZPQqoomnPzHKGjvn136r"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 286466,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl"
     },
     {
       "added_at": "2023-02-17 21:06:33",

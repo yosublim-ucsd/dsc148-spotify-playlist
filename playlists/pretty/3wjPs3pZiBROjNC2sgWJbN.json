@@ -1,12 +1,12 @@
 {
   "description": "A collection of R&amp;B jams and viral trends feat Rihanna, Mary J. Blige &amp; Diddy ! Cover: Coco Jones",
-  "num_followers": 8118,
+  "num_followers": 8121,
   "original_name": "Top Trending: R&B / Soul",
   "owner": {
     "name": "Digster",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "MjAwNCwzOWFmYTE1NDE5OTM3NTcyNDU2Mzk1OTcxMzRlMDM0NTNkZGE4N2Jm",
+  "snapshot_id": "MjAwNSw4OGNmZmZlYjUwNTg3ZWQyM2Q1OTJjMGFlNzYxODllNThhMjc3NWEw",
   "tracks": [
     {
       "added_at": "2023-03-23 21:11:47",
@@ -431,6 +431,22 @@
       "duration_ms": 230906,
       "name": "You Never Visit Me - Single Version",
       "url": "https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd"
+    },
+    {
+      "added_at": "2023-04-26 11:53:51",
+      "album": {
+        "name": "Sleep Well",
+        "url": "https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 175875,
+      "name": "Sleep Well",
+      "url": "https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1"
     },
     {
       "added_at": "2023-03-23 21:11:47",

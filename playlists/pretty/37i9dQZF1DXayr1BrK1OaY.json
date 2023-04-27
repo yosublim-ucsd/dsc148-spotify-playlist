@@ -1,12 +1,12 @@
 {
   "description": "let the dj set u free",
-  "num_followers": 160013,
+  "num_followers": 160232,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTY2MCwwMDAwMDAwMGMyOWI1ZjUyODZlNGMxNTU3ZGI1YWJlYzQxZTkyOTU5",
+  "snapshot_id": "MTY4MjA0OTY2MCwwMDAwMDAwMDdiNjcwYTdmMTZmYjg1NTgyN2U1YzUyMGYzMGI2NDQw",
   "tracks": [
     {
       "added_at": "2023-04-21 04:01:00",
@@ -283,26 +283,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "kai",
-          "url": "https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml"
-        }
-      ],
-      "duration_ms": 234909,
-      "name": "Never Be Like You (feat. Kai)",
-      "url": "https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 144000,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "kai",
+          "url": "https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml"
+        }
+      ],
+      "duration_ms": 234909,
+      "name": "Never Be Like You (feat. Kai)",
+      "url": "https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Body Talk",
-        "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 278080,
-      "name": "Dancing On My Own - Radio Edit",
-      "url": "https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 198451,
       "name": "Broken",
       "url": "https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 278080,
+      "name": "Dancing On My Own - Radio Edit",
+      "url": "https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Alone Together",
-        "url": "https://open.spotify.com/album/4TXtU60U4NQ8zZXpZRiIZE"
-      },
-      "artists": [
-        {
-          "name": "Astrality",
-          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
-        },
-        {
-          "name": "Georgia Blackwell",
-          "url": "https://open.spotify.com/artist/0aZGNGBOglfjuaQ7sFG6Rq"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Little Planets - Remix",
         "url": "https://open.spotify.com/album/1jyr9byDQASsa5aR5oQbqg"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 240000,
       "name": "Little Planets - Remix",
       "url": "https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Alone Together",
+        "url": "https://open.spotify.com/album/4TXtU60U4NQ8zZXpZRiIZE"
+      },
+      "artists": [
+        {
+          "name": "Astrality",
+          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
+        },
+        {
+          "name": "Georgia Blackwell",
+          "url": "https://open.spotify.com/artist/0aZGNGBOglfjuaQ7sFG6Rq"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Renaissance",
-        "url": "https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB"
-      },
-      "artists": [
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 202840,
-      "name": "Envious",
-      "url": "https://open.spotify.com/track/5qW3tkBTtvjBSZIBR51yIs"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "What's Your Pleasure?",
         "url": "https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 331933,
       "name": "Spotlight",
       "url": "https://open.spotify.com/track/0EtcGmf2mVZbHWq2ZGP3t7"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 202840,
+      "name": "Envious",
+      "url": "https://open.spotify.com/track/5qW3tkBTtvjBSZIBR51yIs"
     },
     {
       "added_at": "2023-04-21 04:01:00",

@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-510 songs - 21 hr 47 min
+511 songs - 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,7 +322,8 @@
 | [Night Swim](https://open.spotify.com/track/2jPVTEbM04iucPvHAVRENU) | [Paul Turner](https://open.spotify.com/artist/7i4VoTrDKrU8S5722Zpm0V) | [Night Swim](https://open.spotify.com/album/0gaimSRqZlpxeCgfQGkhZR) | 1:20 | 2023-04-21 |  |
 | [Noorderpark](https://open.spotify.com/track/3RH9QlGintwquOHu54I3ch) | [Diane Edison](https://open.spotify.com/artist/1zBXAlRbmBsKxR6q9Xwph9) | [The Woodlands](https://open.spotify.com/album/2mI9agJ2sMuPJqyVXMBS4K) | 2:14 | 2023-04-21 |  |
 | [North](https://open.spotify.com/track/7jBD4QWbUZdr5LHjvMSsMm) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [North](https://open.spotify.com/album/7aK3SFbPLVvrsL62GGOjxF) | 2:52 | 2023-04-21 |  |
-| [Nostalgia](https://open.spotify.com/track/0ytp8JZQRlVUhV6QQRZmEI) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/1Wezujs4mQrwg1cvpb4Mad) | 2:28 | 2023-04-21 |  |
+| [Nostalgia](https://open.spotify.com/track/0ytp8JZQRlVUhV6QQRZmEI) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/1Wezujs4mQrwg1cvpb4Mad) | 2:28 | 2023-04-21 | 2023-04-27 |
+| [Nostalgia](https://open.spotify.com/track/4atfRW7bT2qyNJhlgmB3RR) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/6bzPgSWghq5hhVwgbIrTTX) | 2:28 | 2023-04-21 |  |
 | [Nuovi inizi](https://open.spotify.com/track/0odeeMwtvPisk7GJdTrP8m) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Nuovi inizi](https://open.spotify.com/album/5bUd4Ea2GEcJudlDfMGE94) | 2:02 | 2023-04-21 |  |
 | [Oak](https://open.spotify.com/track/12fpjrMk5mK2rpr6VwVAbs) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Nantucket](https://open.spotify.com/album/6nwzydXcRkEsvMIK2mGpfB) | 2:57 | 2023-04-21 |  |
 | [Objects In The Mirror](https://open.spotify.com/track/5XrP5bTKvbFSOUiF7oRWwy) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Objects In The Mirror](https://open.spotify.com/album/3Mt8dK78eAAHcK4xcXbyIk) | 2:50 | 2022-12-09 | 2023-04-22 |

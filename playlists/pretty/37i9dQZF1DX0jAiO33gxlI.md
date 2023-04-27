@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Sabotage, N.I.N.A
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,455 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,517 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 50 | [O Boombap Não Morre](https://open.spotify.com/track/7AC44OGeO16I8PkqdmDNOv) | [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01), [Felipe Artioli](https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w), [Jogzz](https://open.spotify.com/artist/0JdCnTEH50FSYNKnTNVfR2) | [Dai a Cesar o Que É de Cesar](https://open.spotify.com/album/54gZAkXRSRi7kmetAOBlux) | 3:43 |
 | 51 | [Zoião](https://open.spotify.com/track/7nallj5WoSmMjAaTZz4Lmp) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [R&F: UltraSom](https://open.spotify.com/album/1aX7BghARSDAxshFvHOoZx) | 3:22 |
 | 52 | [Towner](https://open.spotify.com/track/1aNyb2vXdCSS21ooeDatUI) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Alaska](https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Towner](https://open.spotify.com/album/0DHD5E2JbEYJ9qwza5ToCb) | 2:01 |
-| 53 | [Coração de Carro Forte](https://open.spotify.com/track/1Fhmi7jJSOP6GrStpJrj4t) | [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Coração de Carro Forte](https://open.spotify.com/album/2KW1zlCk6DMuDEHarANoVQ) | 4:57 |
+| 53 | [Coração de Carro Forte](https://open.spotify.com/track/1Fhmi7jJSOP6GrStpJrj4t) | [Hungria](https://open.spotify.com/artist/412TIgqWb189UqIC7pmY4f) | [Coração de Carro Forte](https://open.spotify.com/album/2KW1zlCk6DMuDEHarANoVQ) | 4:57 |
 | 54 | [Lembra Dessa, Kevin?](https://open.spotify.com/track/0WC2QLIzlmR8mc5xVFpnFN) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [R&F: UltraSom](https://open.spotify.com/album/1aX7BghARSDAxshFvHOoZx) | 4:32 |
 | 55 | [Me Diz Se Vem](https://open.spotify.com/track/34nTmKkxQhgqqxoqJAMz9l) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Me Diz Se Vem](https://open.spotify.com/album/2bpBWh3uOTFcjEb5EcPINx) | 2:57 |
 | 56 | [Céu Azul](https://open.spotify.com/track/0S4YjU15ivg0rB9zKYJmND) | [Uterço](https://open.spotify.com/artist/2ygKolq01W8yZgE5PqwERm) | [Original Marginal Rap](https://open.spotify.com/album/0rOxZJE47FdZnRSL63jpoT) | 4:03 |

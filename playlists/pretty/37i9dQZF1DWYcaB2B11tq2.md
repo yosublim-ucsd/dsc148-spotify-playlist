@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Una fusión moderna de música Cristiana que alimenta el alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,869 likes - 75 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,128 likes - 75 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 8 | [Ayer Te Vi..\. Fue Mas Claro Que La Luna](https://open.spotify.com/track/636y223sbqgNNVeH7s5qkp) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV) | 3:52 |
 | 9 | [La Tierra Canta](https://open.spotify.com/track/4n1uuTzvlQF4rshRbaNXXK) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Generacion Radical](https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT) | 6:46 |
 | 10 | [El Nombre De Jesús \(feat\. Christine D´Clario\)](https://open.spotify.com/track/1T2Q9IzgGK3eyPUWFD4C1U) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Operación Mundial](https://open.spotify.com/album/0dWYBm4QsccUGjlhEtfbkK) | 4:30 |
-| 11 | [Temprano yo te buscaré](https://open.spotify.com/track/2UpIPk8SGn02aqZCfOEXcW) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [25 Concierto Conmemorativo](https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe) | 3:05 |
+| 11 | [Como Dijiste](https://open.spotify.com/track/5Q5ArHcJlRcWLZMRBRN4sX) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [De Vuelta Al Jardin](https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6) | 4:59 |
 | 12 | [Al Final](https://open.spotify.com/track/5qM3CXQgoHVdzTMCIPb1xK) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Sin Miedo a Nada](https://open.spotify.com/album/6bE37X0KW4GckXJaD2GQb8) | 4:03 |
-| 13 | [Como Dijiste](https://open.spotify.com/track/5Q5ArHcJlRcWLZMRBRN4sX) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [De Vuelta Al Jardin](https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6) | 4:59 |
+| 13 | [Temprano yo te buscaré](https://open.spotify.com/track/2UpIPk8SGn02aqZCfOEXcW) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [25 Concierto Conmemorativo](https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe) | 3:05 |
 | 14 | [Preciosa Sangre](https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 4:59 |
 | 15 | [No Estoy Solo](https://open.spotify.com/track/5a3l8FTXaRGFkUn9jdvqKa) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Lo Que el Viento Me Enseño](https://open.spotify.com/album/4yu6vGUgF13tbPSO4Pysy5) | 4:34 |
 | 16 | [Cambiaste Mi Corazón](https://open.spotify.com/track/6wkcbqDurhYtPtZP5QxN5U) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [¿Quién Contra Nosotros?](https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4) | 3:49 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 44 | [GOZO](https://open.spotify.com/track/6kp2PJxAraS3t4nek5zqYO) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [GOZO](https://open.spotify.com/album/59dQZ1gOKCaoWhYLx9SIwj) | 3:57 |
 | 45 | [Fierce \- Studio Version](https://open.spotify.com/track/35jVid0Qi789ypoem4KMrs) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Fierce \(Studio Version\)](https://open.spotify.com/album/5KLi1WXy0wZdtGYVkujZkW) | 3:42 |
 | 46 | [Se Nota En Tus Ojos](https://open.spotify.com/track/3sJ7NkecvtR9razQi5ZjQF) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Indestructible](https://open.spotify.com/album/01DU4Brb6WmObvkqdsVWiN) | 4:16 |
-| 47 | [Mi Roca](https://open.spotify.com/track/5dkURjvtypDtBrGGRetOlQ) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fragmentos del Cielo](https://open.spotify.com/album/47nheKMpP7EvxAVTaUz7mR) | 3:32 |
-| 48 | [No Soy Huérfano \(Versión Radio\)](https://open.spotify.com/track/6myKbhpIGVMV5h0v4wXhnA) | [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [No Soy Huérfano \(Versión Radio\)](https://open.spotify.com/album/7h3IsK0imAHm61MGNQle0t) | 5:21 |
+| 47 | [No Soy Huérfano \(Versión Radio\)](https://open.spotify.com/track/6myKbhpIGVMV5h0v4wXhnA) | [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [No Soy Huérfano \(Versión Radio\)](https://open.spotify.com/album/7h3IsK0imAHm61MGNQle0t) | 5:21 |
+| 48 | [Mi Roca](https://open.spotify.com/track/5dkURjvtypDtBrGGRetOlQ) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fragmentos del Cielo](https://open.spotify.com/album/47nheKMpP7EvxAVTaUz7mR) | 3:32 |
 | 49 | [Construiré Mi Vida](https://open.spotify.com/track/6GfDI3t6u8x0ELrbV315fT) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [Construiré Mi Vida](https://open.spotify.com/album/3GQO2bUHJC7Gv29h4GNQm8) | 5:43 |
 | 50 | [Nada Me Falta](https://open.spotify.com/track/1xNDwOT47JQFYvtT0JcP7F) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [¿Quién Contra Nosotros?](https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4) | 3:21 |
 | 51 | [Fullness](https://open.spotify.com/track/5UqyM8fDp1hAAvcb83TS7B) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Speak Revival](https://open.spotify.com/album/4WysoMeub5mYFEkmCEuM3V) | 6:07 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 68 | [Cerca Estás](https://open.spotify.com/track/7j4GJDmCiUEPZSu420sNul) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Cerca Estás](https://open.spotify.com/album/2YW7RI9hOb9hiDzUWeCRVz) | 3:32 |
 | 69 | [Digno Es El Señor](https://open.spotify.com/track/5TCqiDV3pfwqblGQTIHreC) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Ha Vencido, Ha Triunfado](https://open.spotify.com/album/1FRK1QimwIYurLiKbpngDl) | 6:01 |
 | 70 | [Ama A Dios Y A Tu Vecino](https://open.spotify.com/track/0ZIzGwc3j4lVacHR1c5DKb) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Ama A Dios Y A Tu Vecino](https://open.spotify.com/album/7cIlbOk2EXPl3ZBkuYDSnG) | 3:26 |
-| 71 | [Grito de Jubilo](https://open.spotify.com/track/6MWNjHcrwB14NeiHbdY2hO) | [Triple Seven](https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN) | [Tranz4mando el Universo \(Los Legendarios Presenta Triple Seven\)](https://open.spotify.com/album/5oHA1GyW3JXvVPmpY8sCXX) | 3:30 |
-| 72 | [Tiempo Para Perder](https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5) | [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Tiempo Para Perder](https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC) | 3:40 |
+| 71 | [Tiempo Para Perder](https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5) | [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Tiempo Para Perder](https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC) | 3:40 |
+| 72 | [Grito de Jubilo](https://open.spotify.com/track/6MWNjHcrwB14NeiHbdY2hO) | [Triple Seven](https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN) | [Tranz4mando el Universo \(Los Legendarios Presenta Triple Seven\)](https://open.spotify.com/album/5oHA1GyW3JXvVPmpY8sCXX) | 3:30 |
 | 73 | [Abre hoy los cielos \(feat\. Evan Craft\)](https://open.spotify.com/track/63FhFLxr19VoiJnVH7QnEG) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Jesús Salva](https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw) | 5:08 |
 | 74 | [Viene De Ti](https://open.spotify.com/track/7Ck7diBtjNRVtwlcB2hOb3) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Viene De Ti](https://open.spotify.com/album/1hhM2pKRLdgEXz6DCq0fvy) | 4:15 |
 | 75 | [Sobre Mí](https://open.spotify.com/track/5QINbr4C1Qufiqj0WOGF4V) | [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ) | [Sobre Mi](https://open.spotify.com/album/1CXlie7i26wGMJlpUXh2Pv) | 5:45 |
 
-Snapshot ID: `MTYyMTYyNDc2NywwMDAwMDAwMDQ4ZTZiMzlmNWY1ZmEyZmZhMjE0MDI3YTM1YTZhMDk1`
+Snapshot ID: `MTYyMTYyNDc2NywwMDAwMDAwMDFkNzk1YzhjZGMxMTc4MDU2ZDZlNzI0OTFkZTkyMTM5`

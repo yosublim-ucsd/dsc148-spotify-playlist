@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Temples on cover.",
-  "num_followers": 351892,
+  "num_followers": 352193,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0NzIwMCwwMDAwMDAwMDFiYWZhNTY1NTc4ZDlkNTk5ZTM2Yzc2YzY1YjM3NWEx",
+  "snapshot_id": "MTY4MDg0NzIwMCwwMDAwMDAwMGRiMTcyOTBiM2M4NjQ0MDgyMTAxZjIzZTQ1ODQwMDkx",
   "tracks": [
     {
       "added_at": "2022-04-12 18:03:13",
@@ -489,22 +489,6 @@
       "url": "https://open.spotify.com/track/4FSL3oH2RpoazyJRY2qGfx"
     },
     {
-      "added_at": "2022-09-11 03:25:01",
-      "album": {
-        "name": "The Efferusphere",
-        "url": "https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA"
-      },
-      "artists": [
-        {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
-        }
-      ],
-      "duration_ms": 232444,
-      "name": "Red Sun",
-      "url": "https://open.spotify.com/track/7Eu6PeKZpGJdOOe2aatrHJ"
-    },
-    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "Bacchanal",
@@ -535,6 +519,22 @@
       "duration_ms": 288826,
       "name": "Three King Fishers",
       "url": "https://open.spotify.com/track/6w3bIc0BxTPGNHqyH4KNiY"
+    },
+    {
+      "added_at": "2022-09-11 03:25:01",
+      "album": {
+        "name": "The Efferusphere",
+        "url": "https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA"
+      },
+      "artists": [
+        {
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        }
+      ],
+      "duration_ms": 232444,
+      "name": "Red Sun",
+      "url": "https://open.spotify.com/track/7Eu6PeKZpGJdOOe2aatrHJ"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -697,22 +697,6 @@
       "url": "https://open.spotify.com/track/7Bb8qmumwlC2nTOp09ciH6"
     },
     {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Rose City Band",
-        "url": "https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs"
-      },
-      "artists": [
-        {
-          "name": "Rose City Band",
-          "url": "https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK"
-        }
-      ],
-      "duration_ms": 394323,
-      "name": "Rivers of Mind",
-      "url": "https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL"
-    },
-    {
       "added_at": "2022-08-03 04:25:04",
       "album": {
         "name": "Don't Delay, Join Today!",
@@ -727,6 +711,22 @@
       "duration_ms": 128917,
       "name": "Strange Secrets Worth Knowing",
       "url": "https://open.spotify.com/track/0XDFrRl5464H97zLQZiC1W"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Rose City Band",
+        "url": "https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs"
+      },
+      "artists": [
+        {
+          "name": "Rose City Band",
+          "url": "https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK"
+        }
+      ],
+      "duration_ms": 394323,
+      "name": "Rivers of Mind",
+      "url": "https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -825,22 +825,6 @@
       "url": "https://open.spotify.com/track/3IroBaDGAzIty2iPEdVX1F"
     },
     {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "A Song For Paul",
-        "url": "https://open.spotify.com/album/0w6knr7boQarN35qErXXeu"
-      },
-      "artists": [
-        {
-          "name": "Ghost Funk Orchestra",
-          "url": "https://open.spotify.com/artist/5gZWu16OAMVGmfLFNj0NCT"
-        }
-      ],
-      "duration_ms": 192520,
-      "name": "Seven Eight",
-      "url": "https://open.spotify.com/track/0ZRcldb8W55uBCrNBXZp1o"
-    },
-    {
       "added_at": "2022-04-12 17:55:21",
       "album": {
         "name": "Egypt",
@@ -859,6 +843,22 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
+        "name": "A Song For Paul",
+        "url": "https://open.spotify.com/album/0w6knr7boQarN35qErXXeu"
+      },
+      "artists": [
+        {
+          "name": "Ghost Funk Orchestra",
+          "url": "https://open.spotify.com/artist/5gZWu16OAMVGmfLFNj0NCT"
+        }
+      ],
+      "duration_ms": 192520,
+      "name": "Seven Eight",
+      "url": "https://open.spotify.com/track/0ZRcldb8W55uBCrNBXZp1o"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
         "name": "Reap the Storm",
         "url": "https://open.spotify.com/album/2cjYFCwK1QT5gt90rGsEMS"
       },
@@ -871,6 +871,22 @@
       "duration_ms": 325015,
       "name": "The Rat Catcher",
       "url": "https://open.spotify.com/track/06GMFLjz0xowyKlmTbJyHZ"
+    },
+    {
+      "added_at": "2023-01-12 01:50:42",
+      "album": {
+        "name": "Exotico",
+        "url": "https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ"
+      },
+      "artists": [
+        {
+          "name": "Temples",
+          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+        }
+      ],
+      "duration_ms": 260346,
+      "name": "Gamma Rays",
+      "url": "https://open.spotify.com/track/5k6nmmNdpSGdCNzdnyDoRp"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -903,22 +919,6 @@
       "duration_ms": 221418,
       "name": "Wading Out",
       "url": "https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ"
-    },
-    {
-      "added_at": "2023-01-12 01:50:42",
-      "album": {
-        "name": "Exotico",
-        "url": "https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ"
-      },
-      "artists": [
-        {
-          "name": "Temples",
-          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
-        }
-      ],
-      "duration_ms": 260346,
-      "name": "Gamma Rays",
-      "url": "https://open.spotify.com/track/5k6nmmNdpSGdCNzdnyDoRp"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1145,6 +1145,22 @@
       "url": "https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv"
     },
     {
+      "added_at": "2022-08-31 03:54:09",
+      "album": {
+        "name": "World Music",
+        "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
+      },
+      "artists": [
+        {
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+        }
+      ],
+      "duration_ms": 176120,
+      "name": "Diarabi",
+      "url": "https://open.spotify.com/track/53yknEeyyDEHCqyu8pRGrR"
+    },
+    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "D\u00f6ng\u00fcm",
@@ -1169,22 +1185,6 @@
       "url": "https://open.spotify.com/track/2OvQx1RIx6Ymys51lH87xJ"
     },
     {
-      "added_at": "2022-08-31 03:54:09",
-      "album": {
-        "name": "World Music",
-        "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 176120,
-      "name": "Diarabi",
-      "url": "https://open.spotify.com/track/53yknEeyyDEHCqyu8pRGrR"
-    },
-    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "The Exorcist GBG",
@@ -1201,22 +1201,6 @@
       "url": "https://open.spotify.com/track/7eCxuDASxBuWrjfnfdpxTk"
     },
     {
-      "added_at": "2023-01-12 03:37:14",
-      "album": {
-        "name": "Ghost Power",
-        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
-      },
-      "artists": [
-        {
-          "name": "Ghost Power",
-          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
-        }
-      ],
-      "duration_ms": 221893,
-      "name": "Panic In The Isles Of Splendor",
-      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
-    },
-    {
       "added_at": "2022-11-15 16:39:12",
       "album": {
         "name": "Hippie Hourrah!",
@@ -1231,6 +1215,22 @@
       "duration_ms": 306453,
       "name": "Fant\u00f4me",
       "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
+    },
+    {
+      "added_at": "2023-01-12 03:37:14",
+      "album": {
+        "name": "Ghost Power",
+        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
+      },
+      "artists": [
+        {
+          "name": "Ghost Power",
+          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
+        }
+      ],
+      "duration_ms": 221893,
+      "name": "Panic In The Isles Of Splendor",
+      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",

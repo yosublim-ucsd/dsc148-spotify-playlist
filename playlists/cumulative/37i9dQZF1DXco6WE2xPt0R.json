@@ -1167,6 +1167,24 @@
     },
     {
       "album": {
+        "name": "Since I Have A Lover",
+        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196933,
+      "name": "Fatal Attraction",
+      "url": "https://open.spotify.com/track/3y9JbvYZAhVeQsAECrKAgt"
+    },
+    {
+      "album": {
         "name": "Fatal Attraction",
         "url": "https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT"
       },
@@ -1178,7 +1196,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 196933,
       "name": "Fatal Attraction",
       "url": "https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo"

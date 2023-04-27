@@ -1,12 +1,12 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 8813,
+  "num_followers": 8829,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTQ3OTk3MSwwMDAwMDAwMGZiZmIyMjMxMjQ2MGI2YzM5NTZhMzIyYWE0ZmFhYmMz",
+  "snapshot_id": "MTYxNTQ3OTk3MSwwMDAwMDAwMDFmNjA0ZDNiOTlhNGE1YmViNWRjZTIxZDIwMWNiYjMy",
   "tracks": [
     {
       "added_at": "2021-03-11 16:26:11",
@@ -291,22 +291,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "No.1 - The 2nd Album",
-        "url": "https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "No.1",
-      "url": "https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Hot Issue",
         "url": "https://open.spotify.com/album/1k8eHb3VP5FhHFVtap8T62"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 208773,
       "name": "Hot Issue",
       "url": "https://open.spotify.com/track/1QqaaKVZxu9ExhYjKGgI4N"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "No.1 - The 2nd Album",
+        "url": "https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 193226,
+      "name": "No.1",
+      "url": "https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -631,22 +631,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/4p1vHQdWMimu548x89KtNN"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/7cce47QG2IibkXS6YdTtR3"
-        }
-      ],
-      "duration_ms": 257760,
-      "name": "\uc5ec\uc790\uc774\ub2c8\uae4c",
-      "url": "https://open.spotify.com/track/6VmSp1SUpIYVWwDnTWpgYT"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "\uc911\ub3c5",
         "url": "https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 262562,
       "name": "\ub098\uc600\uc73c\uba74",
       "url": "https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/4p1vHQdWMimu548x89KtNN"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/7cce47QG2IibkXS6YdTtR3"
+        }
+      ],
+      "duration_ms": 257760,
+      "name": "\uc5ec\uc790\uc774\ub2c8\uae4c",
+      "url": "https://open.spotify.com/track/6VmSp1SUpIYVWwDnTWpgYT"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -727,18 +727,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Personal Taste (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6yG5uMF6dK0xar9DgCkf62"
+        "name": "BLAQ Style",
+        "url": "https://open.spotify.com/album/7nEtGoI32qBOQ1VinD31VF"
       },
       "artists": [
         {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+          "name": "MBLAQ",
+          "url": "https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG"
         }
       ],
-      "duration_ms": 199014,
-      "name": "Nonsense",
-      "url": "https://open.spotify.com/track/2iHoEvbIjpo2VPRxHo0RIY"
+      "duration_ms": 200556,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0Q2uAamKg36f2KH0NSepT7"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -759,18 +759,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "BLAQ Style",
-        "url": "https://open.spotify.com/album/7nEtGoI32qBOQ1VinD31VF"
+        "name": "Personal Taste (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6yG5uMF6dK0xar9DgCkf62"
       },
       "artists": [
         {
-          "name": "MBLAQ",
-          "url": "https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG"
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
         }
       ],
-      "duration_ms": 200556,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0Q2uAamKg36f2KH0NSepT7"
+      "duration_ms": 199014,
+      "name": "Nonsense",
+      "url": "https://open.spotify.com/track/2iHoEvbIjpo2VPRxHo0RIY"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -875,22 +875,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Get All Right SHOWCHESTRA Live Album",
-        "url": "https://open.spotify.com/album/5Xv45jxK6sH2jVISOe8sTH"
-      },
-      "artists": [
-        {
-          "name": "Kim Bum Soo",
-          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
-        }
-      ],
-      "duration_ms": 290951,
-      "name": "Miss you",
-      "url": "https://open.spotify.com/track/3OJENg3aGHj5v1cSq3Xnbv"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "HEY, COME ON! - The 4th Album",
         "url": "https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 201866,
       "name": "Wild Eyes",
       "url": "https://open.spotify.com/track/5uvNlHJPu9mOcYT64rxRbl"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Get All Right SHOWCHESTRA Live Album",
+        "url": "https://open.spotify.com/album/5Xv45jxK6sH2jVISOe8sTH"
+      },
+      "artists": [
+        {
+          "name": "Kim Bum Soo",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+        }
+      ],
+      "duration_ms": 290951,
+      "name": "Miss you",
+      "url": "https://open.spotify.com/track/3OJENg3aGHj5v1cSq3Xnbv"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Purple Drop",
-        "url": "https://open.spotify.com/album/1OSnHPkpPMWO8BEqwKfURo"
-      },
-      "artists": [
-        {
-          "name": "HUS",
-          "url": "https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "Hawaian Couple",
-      "url": "https://open.spotify.com/track/1Yd6CizL523PL8IsdkmKCD"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "The Way I Am",
         "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
-        "url": "https://open.spotify.com/album/2vCLAlhvbVkIgxOX3YFi3b"
+        "name": "Purple Drop",
+        "url": "https://open.spotify.com/album/1OSnHPkpPMWO8BEqwKfURo"
       },
       "artists": [
         {
-          "name": "Yangpa",
-          "url": "https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS"
+          "name": "HUS",
+          "url": "https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT"
         }
       ],
-      "duration_ms": 220760,
-      "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
-      "url": "https://open.spotify.com/track/5mCY172DdlbnXfXWoLINmF"
+      "duration_ms": 218400,
+      "name": "Hawaian Couple",
+      "url": "https://open.spotify.com/track/1Yd6CizL523PL8IsdkmKCD"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1231,6 +1215,22 @@
       "duration_ms": 210626,
       "name": "1Tym",
       "url": "https://open.spotify.com/track/3LjJ0Hjqot5HDeL172lAcw"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
+        "url": "https://open.spotify.com/album/2vCLAlhvbVkIgxOX3YFi3b"
+      },
+      "artists": [
+        {
+          "name": "Yangpa",
+          "url": "https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS"
+        }
+      ],
+      "duration_ms": 220760,
+      "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/5mCY172DdlbnXfXWoLINmF"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Beautiful Mind",
-        "url": "https://open.spotify.com/album/5uPLGc3hT67DBjd7eNFd1L"
-      },
-      "artists": [
-        {
-          "name": "KCM",
-          "url": "https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K"
-        }
-      ],
-      "duration_ms": 234841,
-      "name": "An old love story",
-      "url": "https://open.spotify.com/track/4jknyio1tolPfGu539fE87"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Double Life ; The Other Side",
         "url": "https://open.spotify.com/album/3soTGhHXEGWYJKw6aSLR98"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 252906,
       "name": "\ucc28\ub9c8...",
       "url": "https://open.spotify.com/track/1sAWuJLbUYdNdl8rrCxK5A"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Beautiful Mind",
+        "url": "https://open.spotify.com/album/5uPLGc3hT67DBjd7eNFd1L"
+      },
+      "artists": [
+        {
+          "name": "KCM",
+          "url": "https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K"
+        }
+      ],
+      "duration_ms": 234841,
+      "name": "An old love story",
+      "url": "https://open.spotify.com/track/4jknyio1tolPfGu539fE87"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Davichi In Wonderland",
-        "url": "https://open.spotify.com/album/1nsgg32Iq4kANSRjdAxRTo"
+        "name": "Double Life ; The Other Side",
+        "url": "https://open.spotify.com/album/3soTGhHXEGWYJKw6aSLR98"
       },
       "artists": [
         {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
         }
       ],
-      "duration_ms": 237026,
-      "name": "\uc0ac\uace0\ucce4\uc5b4\uc694",
-      "url": "https://open.spotify.com/track/6sGDd0oEWCUXA6qyvCXPjs"
+      "duration_ms": 266933,
+      "name": "\uc678\uc6cc \ub450\uc138\uc694",
+      "url": "https://open.spotify.com/track/5mwewbv8nbk1rC6s8MowP1"
     }
   ],
   "unique_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",

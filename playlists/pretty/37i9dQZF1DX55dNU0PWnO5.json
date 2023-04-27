@@ -1,12 +1,12 @@
 {
   "description": "Jazzy blips and blops. Cover: Flying Lotus",
-  "num_followers": 550602,
+  "num_followers": 550686,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMGJlZmI4YjNmOGIwYWNkY2NlNWEwM2I2MjM0NGRiYzVh",
+  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDZmMDFlMWU3MzNkNzFmMjdkYjM4MGJkMTdiNmI4MTVi",
   "tracks": [
     {
       "added_at": "2023-01-13 05:01:00",
@@ -593,22 +593,6 @@
       "url": "https://open.spotify.com/track/4TS1SMLEEhjKr6qeKjfq5z"
     },
     {
-      "added_at": "2022-11-04 17:39:00",
-      "album": {
-        "name": "FACING",
-        "url": "https://open.spotify.com/album/5vfsrL6HaXht2KP08gbxmk"
-      },
-      "artists": [
-        {
-          "name": "Silvan Strauss",
-          "url": "https://open.spotify.com/artist/0z54TmC14v7FGV2rq69YEN"
-        }
-      ],
-      "duration_ms": 122997,
-      "name": "BUBBA",
-      "url": "https://open.spotify.com/track/1Im7xmfGDJo1WpnSdJNHbr"
-    },
-    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "A Night in Tunisia",
@@ -625,6 +609,22 @@
       "url": "https://open.spotify.com/track/1MMywhwJKpbVZeDlBAzOAH"
     },
     {
+      "added_at": "2022-11-04 17:39:00",
+      "album": {
+        "name": "FACING",
+        "url": "https://open.spotify.com/album/5vfsrL6HaXht2KP08gbxmk"
+      },
+      "artists": [
+        {
+          "name": "Silvan Strauss",
+          "url": "https://open.spotify.com/artist/0z54TmC14v7FGV2rq69YEN"
+        }
+      ],
+      "duration_ms": 122997,
+      "name": "BUBBA",
+      "url": "https://open.spotify.com/track/1Im7xmfGDJo1WpnSdJNHbr"
+    },
+    {
       "added_at": "2022-09-23 04:01:00",
       "album": {
         "name": "Kosmological Glitches",
@@ -639,6 +639,22 @@
       "duration_ms": 89898,
       "name": "In Touch With The Kosmos",
       "url": "https://open.spotify.com/track/0oSTB0VWnqK9w6RskAwPe0"
+    },
+    {
+      "added_at": "2021-09-10 04:02:00",
+      "album": {
+        "name": "Half-Bloom",
+        "url": "https://open.spotify.com/album/4omp0GZlYPhNU00t9KP6z5"
+      },
+      "artists": [
+        {
+          "name": "Asta Hiroki",
+          "url": "https://open.spotify.com/artist/4281mk6YGbk8b8Tl5qg8vC"
+        }
+      ],
+      "duration_ms": 267500,
+      "name": "Half-Bloom",
+      "url": "https://open.spotify.com/track/6kt3SVY7gvF520bTmVpYdL"
     },
     {
       "added_at": "2022-07-05 15:03:47",
@@ -659,22 +675,6 @@
       "duration_ms": 170336,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/1k075G4HKQ8oE1ybx4kzt0"
-    },
-    {
-      "added_at": "2021-09-10 04:02:00",
-      "album": {
-        "name": "Half-Bloom",
-        "url": "https://open.spotify.com/album/4omp0GZlYPhNU00t9KP6z5"
-      },
-      "artists": [
-        {
-          "name": "Asta Hiroki",
-          "url": "https://open.spotify.com/artist/4281mk6YGbk8b8Tl5qg8vC"
-        }
-      ],
-      "duration_ms": 267500,
-      "name": "Half-Bloom",
-      "url": "https://open.spotify.com/track/6kt3SVY7gvF520bTmVpYdL"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -893,6 +893,26 @@
       "url": "https://open.spotify.com/track/1L7dfBB7v2rAegNsxlawEv"
     },
     {
+      "added_at": "2022-08-08 13:44:11",
+      "album": {
+        "name": "Cruiserweight",
+        "url": "https://open.spotify.com/album/708Vmp9rYSKjCsUl4qWL2j"
+      },
+      "artists": [
+        {
+          "name": "Marcus Alan Ward",
+          "url": "https://open.spotify.com/artist/7vaVHucaokI1K9NDZUqcB2"
+        },
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        }
+      ],
+      "duration_ms": 131006,
+      "name": "Lift Off For AJ",
+      "url": "https://open.spotify.com/track/60DBYLqdLMqF3x7FS0yL7K"
+    },
+    {
       "added_at": "2023-03-03 05:01:00",
       "album": {
         "name": "Phoenix & Panther",
@@ -969,66 +989,6 @@
       "url": "https://open.spotify.com/track/7wiolaEKwMpf1buxKaDUhA"
     },
     {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/2GFnHs15SPG2ziCriUPA9v"
-      },
-      "artists": [
-        {
-          "name": "elmo",
-          "url": "https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f"
-        },
-        {
-          "name": "Nico Harris",
-          "url": "https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM"
-        },
-        {
-          "name": "Israel Strom",
-          "url": "https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL"
-        }
-      ],
-      "duration_ms": 197677,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/504JluU0SrgimOW69mwCYx"
-    },
-    {
-      "added_at": "2022-08-08 13:44:11",
-      "album": {
-        "name": "Cruiserweight",
-        "url": "https://open.spotify.com/album/708Vmp9rYSKjCsUl4qWL2j"
-      },
-      "artists": [
-        {
-          "name": "Marcus Alan Ward",
-          "url": "https://open.spotify.com/artist/7vaVHucaokI1K9NDZUqcB2"
-        },
-        {
-          "name": "Nathan-Paul",
-          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
-        }
-      ],
-      "duration_ms": 131006,
-      "name": "Lift Off For AJ",
-      "url": "https://open.spotify.com/track/60DBYLqdLMqF3x7FS0yL7K"
-    },
-    {
-      "added_at": "2021-04-02 05:01:00",
-      "album": {
-        "name": "Deep in the Pocket",
-        "url": "https://open.spotify.com/album/5biMirupjO0D7M8lOetEid"
-      },
-      "artists": [
-        {
-          "name": "Pablo Queu",
-          "url": "https://open.spotify.com/artist/6unlzVywR1plttUTcFVltU"
-        }
-      ],
-      "duration_ms": 224971,
-      "name": "Kountdown",
-      "url": "https://open.spotify.com/track/3OpUldKxZMvn7eu3TIcLpK"
-    },
-    {
       "added_at": "2021-01-29 05:01:00",
       "album": {
         "name": "Vacuum Lessons",
@@ -1061,6 +1021,30 @@
       "url": "https://open.spotify.com/track/5QwPQLZIG0RwNn1NwiWskp"
     },
     {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2GFnHs15SPG2ziCriUPA9v"
+      },
+      "artists": [
+        {
+          "name": "elmo",
+          "url": "https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f"
+        },
+        {
+          "name": "Nico Harris",
+          "url": "https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM"
+        },
+        {
+          "name": "Israel Strom",
+          "url": "https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL"
+        }
+      ],
+      "duration_ms": 197677,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/504JluU0SrgimOW69mwCYx"
+    },
+    {
       "added_at": "2022-06-24 04:02:00",
       "album": {
         "name": "Moonlight Love Affair",
@@ -1077,6 +1061,22 @@
       "url": "https://open.spotify.com/track/7hiCGd7VM7ToeLZgo0Mvo7"
     },
     {
+      "added_at": "2021-04-02 05:01:00",
+      "album": {
+        "name": "Deep in the Pocket",
+        "url": "https://open.spotify.com/album/5biMirupjO0D7M8lOetEid"
+      },
+      "artists": [
+        {
+          "name": "Pablo Queu",
+          "url": "https://open.spotify.com/artist/6unlzVywR1plttUTcFVltU"
+        }
+      ],
+      "duration_ms": 224971,
+      "name": "Kountdown",
+      "url": "https://open.spotify.com/track/3OpUldKxZMvn7eu3TIcLpK"
+    },
+    {
       "added_at": "2023-01-20 05:01:00",
       "album": {
         "name": "We Don't Need No Roads",
@@ -1091,6 +1091,22 @@
       "duration_ms": 258334,
       "name": "We Don't Need No Roads",
       "url": "https://open.spotify.com/track/2sc6ZZznzgg2h1NnY8fYbJ"
+    },
+    {
+      "added_at": "2021-04-02 05:01:00",
+      "album": {
+        "name": "Between Days",
+        "url": "https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/6fHHWT7Vfdv71c70PHp5wq"
     },
     {
       "added_at": "2021-07-09 04:02:00",
@@ -1113,22 +1129,6 @@
       "url": "https://open.spotify.com/track/7I2WxS94I9LWQSg1ACHOTN"
     },
     {
-      "added_at": "2021-02-26 05:01:00",
-      "album": {
-        "name": "Panspermia",
-        "url": "https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Panspermia",
-      "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
-    },
-    {
       "added_at": "2021-05-21 04:01:00",
       "album": {
         "name": "Quantum Blackness",
@@ -1145,36 +1145,20 @@
       "url": "https://open.spotify.com/track/09jflWcNgyBd0PiigbWVMZ"
     },
     {
-      "added_at": "2021-04-02 05:01:00",
+      "added_at": "2021-02-26 05:01:00",
       "album": {
-        "name": "Between Days",
-        "url": "https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X"
+        "name": "Panspermia",
+        "url": "https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D"
       },
       "artists": [
         {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/6fHHWT7Vfdv71c70PHp5wq"
-    },
-    {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "SAMURAI",
-        "url": "https://open.spotify.com/album/5QbYqorcvgyLIGjKcsm02e"
-      },
-      "artists": [
-        {
-          "name": "Jazztronik",
-          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
-        }
-      ],
-      "duration_ms": 716744,
-      "name": "SAMURAI - 2022 version",
-      "url": "https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu"
+      "duration_ms": 188000,
+      "name": "Panspermia",
+      "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
     },
     {
       "added_at": "2021-06-18 04:01:00",
@@ -1195,6 +1179,22 @@
       "duration_ms": 148000,
       "name": "The Whales",
       "url": "https://open.spotify.com/track/4UDwsQO8RFMoEzSUpboslN"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "SAMURAI",
+        "url": "https://open.spotify.com/album/5QbYqorcvgyLIGjKcsm02e"
+      },
+      "artists": [
+        {
+          "name": "Jazztronik",
+          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
+        }
+      ],
+      "duration_ms": 716744,
+      "name": "SAMURAI - 2022 version",
+      "url": "https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -1273,22 +1273,6 @@
       "url": "https://open.spotify.com/track/6MpFDEgG4ehiQUI7VMSWfB"
     },
     {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "lamplighting",
-        "url": "https://open.spotify.com/album/7wtSaKf99Nez3J3VX7y0Oc"
-      },
-      "artists": [
-        {
-          "name": "Wowflower",
-          "url": "https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU"
-        }
-      ],
-      "duration_ms": 139419,
-      "name": "lamplighting",
-      "url": "https://open.spotify.com/track/5tRVVkdQTpHLUfvOzSlAJJ"
-    },
-    {
       "added_at": "2022-11-25 05:00:00",
       "album": {
         "name": "Thoughts Under Water",
@@ -1303,6 +1287,22 @@
       "duration_ms": 203597,
       "name": "I Love Her",
       "url": "https://open.spotify.com/track/7EuCAIsAs6yAA6zk7rHn1G"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "lamplighting",
+        "url": "https://open.spotify.com/album/7wtSaKf99Nez3J3VX7y0Oc"
+      },
+      "artists": [
+        {
+          "name": "Wowflower",
+          "url": "https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU"
+        }
+      ],
+      "duration_ms": 139419,
+      "name": "lamplighting",
+      "url": "https://open.spotify.com/track/5tRVVkdQTpHLUfvOzSlAJJ"
     },
     {
       "added_at": "2021-02-26 00:47:37",
@@ -1433,22 +1433,6 @@
       "url": "https://open.spotify.com/track/7nTmEAGxLIQt0BK7f3CRcD"
     },
     {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Yawahada remix",
-        "url": "https://open.spotify.com/album/0RYJ0pEo5jCUFRBF0gjPkI"
-      },
-      "artists": [
-        {
-          "name": "ddddeeeellllaaa",
-          "url": "https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA"
-        }
-      ],
-      "duration_ms": 97333,
-      "name": "Yawahada - remix",
-      "url": "https://open.spotify.com/track/2PXPlWyurXF03d6bBkTNT9"
-    },
-    {
       "added_at": "2022-09-23 04:01:00",
       "album": {
         "name": "Cloud Bounce",
@@ -1477,20 +1461,36 @@
       "url": "https://open.spotify.com/track/1opaCjv9VoQ7ZPdlXpObXs"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Tiger's Den (Radio Edit)",
-        "url": "https://open.spotify.com/album/2sEVJZfiIUrwkC7ejA3KpP"
+        "name": "Night Lands",
+        "url": "https://open.spotify.com/album/1ip4yEivNrUpMTIuxvOg82"
       },
       "artists": [
         {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+          "name": "Sunda Arc",
+          "url": "https://open.spotify.com/artist/0cWp5s4RU3EB86Vo0TQwFj"
         }
       ],
-      "duration_ms": 271375,
-      "name": "Tiger's Den - Radio Edit",
-      "url": "https://open.spotify.com/track/0CWG5wltokNkZkrgS38bxE"
+      "duration_ms": 308313,
+      "name": "Beacons",
+      "url": "https://open.spotify.com/track/7F3bKPr4SZCS8PmsQiLWeX"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Yawahada remix",
+        "url": "https://open.spotify.com/album/0RYJ0pEo5jCUFRBF0gjPkI"
+      },
+      "artists": [
+        {
+          "name": "ddddeeeellllaaa",
+          "url": "https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA"
+        }
+      ],
+      "duration_ms": 97333,
+      "name": "Yawahada - remix",
+      "url": "https://open.spotify.com/track/2PXPlWyurXF03d6bBkTNT9"
     },
     {
       "added_at": "2021-05-14 04:01:00",
@@ -1509,20 +1509,20 @@
       "url": "https://open.spotify.com/track/31ARMQ42WOpH3vEObeEbQE"
     },
     {
-      "added_at": "2022-11-18 05:01:00",
+      "added_at": "2022-03-25 04:01:00",
       "album": {
-        "name": "Night Lands",
-        "url": "https://open.spotify.com/album/1ip4yEivNrUpMTIuxvOg82"
+        "name": "Tiger's Den (Radio Edit)",
+        "url": "https://open.spotify.com/album/2sEVJZfiIUrwkC7ejA3KpP"
       },
       "artists": [
         {
-          "name": "Sunda Arc",
-          "url": "https://open.spotify.com/artist/0cWp5s4RU3EB86Vo0TQwFj"
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
         }
       ],
-      "duration_ms": 308313,
-      "name": "Beacons",
-      "url": "https://open.spotify.com/track/7F3bKPr4SZCS8PmsQiLWeX"
+      "duration_ms": 271375,
+      "name": "Tiger's Den - Radio Edit",
+      "url": "https://open.spotify.com/track/0CWG5wltokNkZkrgS38bxE"
     },
     {
       "added_at": "2022-02-11 19:25:22",

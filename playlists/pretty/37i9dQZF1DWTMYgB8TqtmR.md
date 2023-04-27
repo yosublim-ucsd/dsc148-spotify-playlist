@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > It's Hits – bästa och största hitsen just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 720,571 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 720,655 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 40 | [AM:PM](https://open.spotify.com/track/7DwVS1naLT9jP0PE78jg4P) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [AM:PM](https://open.spotify.com/album/6VddpmwRbN12eh98innuj7) | 3:02 |
 | 41 | [Queen of Kings](https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Queen of Kings](https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB) | 2:27 |
 | 42 | [Body Talk](https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Body Talk](https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp) | 2:19 |
-| 43 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
+| 43 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
 | 44 | [Feeling Myself](https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Feeling Myself](https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU) | 3:02 |
 | 45 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 |
 | 46 | [KOMMER DU IHÅG?](https://open.spotify.com/track/7yfMu3Ez41fQXuD9gUbFjQ) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [KOMMER DU IHÅG?](https://open.spotify.com/album/4T9cDX7VHq0uxIIotzK4Ct) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 49 | [Cocktails \(feat\. Asme\)](https://open.spotify.com/track/45bLmakv73Jwg5XwoEEGMq) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Cocktails \(feat\. Asme\)](https://open.spotify.com/album/0ZrYAHvPy0aTXpWhRN5es6) | 2:27 |
 | 50 | [Where Did You Go](https://open.spotify.com/track/1tPzSRXNZbPKQbVh3yv7rs) | [Kiana](https://open.spotify.com/artist/1USLNG14rIBh2Sj662P22g) | [Where Did You Go](https://open.spotify.com/album/2KYxGcstPy9m2aE19Y3lzD) | 2:51 |
 
-Snapshot ID: `MTY4MjMyMzUxOCwwMDAwMDAwMGI0YjFmZmRhMGMxZjMyYmU2ZjQ5MDcyNGJhZGJiMzI2`
+Snapshot ID: `MTY4MjQ5ODE2NCwwMDAwMDAwMDI5NWU1Y2M5N2ZiMzk2ZmVmMWZlYTczODFjYjVhYzQ5`

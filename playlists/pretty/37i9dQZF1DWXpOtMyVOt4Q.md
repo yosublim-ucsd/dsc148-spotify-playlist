@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,341 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,408 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [love within](https://open.spotify.com/track/6wv5lxSg3U9DSC5KvbQdfr) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [love within](https://open.spotify.com/album/4NYnzOZDYMcQvA3Ome46ej) | 1:37 |
-| 2 | [I Fell in Love with You One Night in September](https://open.spotify.com/track/10hweQwWcUhBcpipYEvCYD) | [Rook1e](https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID) | [Dreams for Two](https://open.spotify.com/album/7t35JHjhNRPMZ3eZHuDeba) | 1:36 |
+| 1 | [I Fell in Love with You One Night in September](https://open.spotify.com/track/10hweQwWcUhBcpipYEvCYD) | [Rook1e](https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID) | [Dreams for Two](https://open.spotify.com/album/7t35JHjhNRPMZ3eZHuDeba) | 1:36 |
+| 2 | [love within](https://open.spotify.com/track/6wv5lxSg3U9DSC5KvbQdfr) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [love within](https://open.spotify.com/album/4NYnzOZDYMcQvA3Ome46ej) | 1:37 |
 | 3 | [Alone Forever](https://open.spotify.com/track/4KLXhuPL5YS4mYZFL8XGBM) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0), [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR) | [Isolation](https://open.spotify.com/album/1LZl9LkihImKLeAVcq3NbA) | 1:20 |
 | 4 | [Greenland](https://open.spotify.com/track/7hlBb5jUQH764VF99CinP4) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe in the Steep Cliffs](https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs) | 3:11 |
 | 5 | [Insomnia Dream](https://open.spotify.com/track/1wkD1pgESRrQysLpioCew3) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Insomnia Dream](https://open.spotify.com/album/6gjd1kVza1OQREmtvcGUC7) | 2:42 |
 | 6 | [Dandelion's Lullaby](https://open.spotify.com/track/4TLoYT6uaGydqUQRZ9hlxG) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Dandelion's Lullaby](https://open.spotify.com/album/3c9eWf9ONwSr9LKlwZ0ODW) | 2:03 |
 | 7 | [Stargazing](https://open.spotify.com/track/6IM9Er6nQT3ZTp8LBUzB8d) | [kyu](https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW) | [Dreamscapes](https://open.spotify.com/album/0ObvSOol6nFuU2VCEBZ8QL) | 2:13 |
 | 8 | [waking up in the park](https://open.spotify.com/track/278zobyI14d3iaE39jGfHM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [waking up in the park](https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod) | 1:08 |
-| 9 | [Jiyū](https://open.spotify.com/track/0jPFyaLzyApdcr23f2GICv) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [Memoir](https://open.spotify.com/album/76p65caGTlfMloCpcJXbjI) | 1:50 |
-| 10 | [you're not lost](https://open.spotify.com/track/0NIawAn7SZDA1CQ1G8GybR) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt), [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j) | [you're not lost](https://open.spotify.com/album/6rBnuL3apGfI42RaL9MJix) | 2:28 |
+| 9 | [you're not lost](https://open.spotify.com/track/0NIawAn7SZDA1CQ1G8GybR) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt), [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j) | [you're not lost](https://open.spotify.com/album/6rBnuL3apGfI42RaL9MJix) | 2:28 |
+| 10 | [Jiyū](https://open.spotify.com/track/0jPFyaLzyApdcr23f2GICv) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [Memoir](https://open.spotify.com/album/76p65caGTlfMloCpcJXbjI) | 1:50 |
 | 11 | [Melanine](https://open.spotify.com/track/5uTnqjoCiHCZJ3TmQpOhpH) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 2:53 |
 | 12 | [Fireflies](https://open.spotify.com/track/7FtKmHnpcW6NDCCLe83CjR) | [Spaceouters](https://open.spotify.com/artist/4WbV6iwik5OIUR9qfUF3h3) | [Fireflies](https://open.spotify.com/album/3GDrSVfvjeXnRUjXaE0XBb) | 4:58 |
 | 13 | [Breeze](https://open.spotify.com/track/7qBHJ0nXHHsoOtqKwfkF35) | [Mvdb](https://open.spotify.com/artist/0hleYpwrJSPEh2pCRTU0AY) | [1 Am\. Study Session](https://open.spotify.com/album/5YHjaK7w0G690vmyEiob1C) | 1:35 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 41 | [Midnight Cruisin'](https://open.spotify.com/track/47y4QykKNIbrJiTSSq1dut) | [Kreatev](https://open.spotify.com/artist/5fca6jKkDzssBHS5V1jU8z) | [Midnight Cruisin'](https://open.spotify.com/album/19w0su9Sn8qBrPhLkOjGM3) | 2:05 |
 | 42 | [settled down.](https://open.spotify.com/track/7KFQ0LrtvHkiR0aSZKscjF) | [mr\. okane](https://open.spotify.com/artist/6sQtzwpgvnWhyi9yi6pfxE) | [OKANE 金 1](https://open.spotify.com/album/5bal2BUbu8l191xGDxQ8AK) | 1:45 |
 | 43 | [Montauk Paddling](https://open.spotify.com/track/2lS3Hau6BLChEmAckRsT1w) | [auv](https://open.spotify.com/artist/6mmGVOvxusEdkxXmPg0Wlm) | [Montauk Paddling](https://open.spotify.com/album/4dyIqQlSISpBqT2SDD2eKI) | 4:01 |
-| 44 | [continue](https://open.spotify.com/track/6AhCfYGinoHIxr8oY5lwu6) | [cliffe](https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy) | [continue](https://open.spotify.com/album/15tte2wxaXLrMdEJTuAbZ4) | 1:36 |
-| 45 | [Accepted](https://open.spotify.com/track/5mqJzfZk1S0VoxDugE4vk5) | [Silky](https://open.spotify.com/artist/2IpiQY2gj3pWpoWoWWg12C), [Supine](https://open.spotify.com/artist/1DA2Vxz6LkO6e0yWkAtZlM), [Wist](https://open.spotify.com/artist/1azet3ehiJaZdolI28HyN8) | [Accepted](https://open.spotify.com/album/674aHZ6bdGvgLplZLNTymO) | 2:00 |
+| 44 | [Accepted](https://open.spotify.com/track/5mqJzfZk1S0VoxDugE4vk5) | [Silky](https://open.spotify.com/artist/2IpiQY2gj3pWpoWoWWg12C), [Supine](https://open.spotify.com/artist/1DA2Vxz6LkO6e0yWkAtZlM), [Wist](https://open.spotify.com/artist/1azet3ehiJaZdolI28HyN8) | [Accepted](https://open.spotify.com/album/674aHZ6bdGvgLplZLNTymO) | 2:00 |
+| 45 | [continue](https://open.spotify.com/track/6AhCfYGinoHIxr8oY5lwu6) | [cliffe](https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy) | [continue](https://open.spotify.com/album/15tte2wxaXLrMdEJTuAbZ4) | 1:36 |
 | 46 | [Lovely Lofi](https://open.spotify.com/track/38IPo6fOXpTzSMmQ2ohDGF) | [Bonsai Beats](https://open.spotify.com/artist/44HbOH5E0KjEBzoSs79j8Y) | [Lovely Lofi](https://open.spotify.com/album/0gaH5zVC6gwe397z6WYjg8) | 1:12 |
 | 47 | [Royal Lavender](https://open.spotify.com/track/1OXEB1PXryRhjQoa74GZDZ) | [jiabeats](https://open.spotify.com/artist/4jhs50wp7NjDYvEIUzRrF5) | [Royal Lavender](https://open.spotify.com/album/0TbNZPiGBWn1umUcaY84gp) | 3:00 |
 | 48 | [Transcend](https://open.spotify.com/track/3xNobvzrk3lpQpEz8WJUhM) | [Photon](https://open.spotify.com/artist/33dfAU7lq0ET88plgLPQLB) | [Transcend](https://open.spotify.com/album/1CWFqnAWFBQDVJXM21abb8) | 4:49 |
 | 49 | [rainy season](https://open.spotify.com/track/59LPj6cPU3jod22Ai3YFoG) | [Xori](https://open.spotify.com/artist/5e4BMUzdxvt2bedcoBKrjv) | [Slumber Tape](https://open.spotify.com/album/4TtWrCfrifMbXjUeP8vuPo) | 0:52 |
 | 50 | [Arcade](https://open.spotify.com/track/7w1rgZiQ7aIVgqpHvFUifh) | [Chilled AF](https://open.spotify.com/artist/4MzsyH1fwjNcrEthWnphyJ) | [Arcade](https://open.spotify.com/album/3AXZhfhDvkujRCdKTwAugQ) | 1:42 |
 
-Snapshot ID: `MTY3NzUzMTM3OSwwMDAwMDAwMDljZTg4ZGFiZGVlNjRiODE2NTU3OTM0NDM0YzZmZjAz`
+Snapshot ID: `MTY3NzUzMTM3OSwwMDAwMDAwMGNmMGZjMmFlOWJmMjk1ZDEwZjJmMzE1ZmQ2MWZhNzAw`

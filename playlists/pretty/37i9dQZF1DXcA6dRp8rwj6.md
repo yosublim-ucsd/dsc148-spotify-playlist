@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: JP THE WAVY\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,528 likes - 106 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,071 likes - 106 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 83 | [Embarrassed \(feat\. Travis Scott\)](https://open.spotify.com/track/6w9GrSUaQQIaMBYtabge7p) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Love Sick \(Deluxe\)](https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht) | 3:12 |
 | 84 | [L A V A](https://open.spotify.com/track/77T1rNkaTpGk7wSn3DjwW7) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [L A V A](https://open.spotify.com/album/5phgyIzWTlCwZ0gfsC5jLj) | 2:18 |
 | 85 | [Real Good](https://open.spotify.com/track/0rYD23mdEq4tHbRIC3Rx3O) | [Roshin](https://open.spotify.com/artist/3PJqNqnYLkNjPUliUaiZig), [Essex Boys](https://open.spotify.com/artist/3LVjqBF6OlWuuCEaLiaYPP), [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN) | [Essex Boys](https://open.spotify.com/album/26MRWFBmtiE4dyop4mzuCp) | 3:04 |
-| 86 | [Tanisha \(Pump That\)](https://open.spotify.com/track/5ckaFWaVWVfIcPFYfofmzH) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Tanisha \(Pump That\)](https://open.spotify.com/album/6GqEIfRc7ACkLQ2SGGqxFb) | 2:46 |
+| 86 | [Tanisha \(Pump That\)](https://open.spotify.com/track/0eeeK1ar71WxdsTKydG9yz) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 2:46 |
 | 87 | [Me & You](https://open.spotify.com/track/12Us8e6NFesdkXKf4StU1I) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Me & You](https://open.spotify.com/album/6V5o0b3ALGp5hkSew9Ms42) | 3:07 |
 | 88 | [Water \(Feat\. Keith Ape\)](https://open.spotify.com/track/22f7zcdk27ikvUQNc9vT6r) | [MASTA WU](https://open.spotify.com/artist/7ndYLcobuKuq9ZcoIAVvU6), [Keith Ape](https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI) | [Water \(Feat\. Keith Ape\)](https://open.spotify.com/album/2HJkuFxiQaMOS8a8SeIMWQ) | 2:26 |
 | 89 | [L7 Blues](https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [L7 Blues](https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg) | 2:21 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 105 | [Bad Man Lighter 2.0](https://open.spotify.com/track/4iG262D6hTzlvVFI5Fm23C) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Bad Man Lighter 2.0](https://open.spotify.com/album/01oOmRPiOm1hpWGgwuYyXC) | 3:52 |
 | 106 | [YG \- Spotify Singles](https://open.spotify.com/track/0QeZDFhBQGIrFgkmaIEko9) | [Fleeky Bang](https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC), [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC), [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd), [YEOHO](https://open.spotify.com/artist/4228BjQOcYIzpST8mLwR2V) | [Spotify Singles](https://open.spotify.com/album/0PAZM8z8Xa56Lmp0DZzTSp) | 3:09 |
 
-Snapshot ID: `MTY4MjAwNjYwMCwwMDAwMDAwMGM0MDBkMDQzOWE4Mjc0NzVlNDM0YmI2NzI2OWY5NDZh`
+Snapshot ID: `MTY4MjAwNjYwMCwwMDAwMDAwMDMwZDk5MGNiYzcxZjlmNjQxODY1ZjkwYTM2ZjYyYzBj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4boG5Z.md) - [plain]
 
 > This is Millencolin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,182 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,190 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4boG5Z.md) - [plain]
 | 12 | [SOS](https://open.spotify.com/track/7JlEMpVRdzuqiVDuQuS2c0) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [SOS](https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711) | 3:19 |
 | 13 | [Material Boy](https://open.spotify.com/track/4IRDVWypOZIcxUOeVhLVCC) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Pennybridge Pioneers](https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC) | 2:23 |
 | 14 | [Black Eye](https://open.spotify.com/track/4pzwZoV0TGAByCLxlt2QCe) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Home From Home](https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn) | 3:13 |
-| 15 | [Ray](https://open.spotify.com/track/2WbxknLnzzrg2C1l3tivqc) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Kingwood](https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV) | 2:56 |
-| 16 | [Olympic](https://open.spotify.com/track/6xbmKbE9Z2Xot1oTyTxaYm) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Life On A Plate](https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY) | 2:56 |
+| 15 | [Olympic](https://open.spotify.com/track/6xbmKbE9Z2Xot1oTyTxaYm) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Life On A Plate](https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY) | 2:56 |
+| 16 | [Ray](https://open.spotify.com/track/2WbxknLnzzrg2C1l3tivqc) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Kingwood](https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV) | 2:56 |
 | 17 | [Duck Pond](https://open.spotify.com/track/0a2k7X1UBRY9rotYQJg0mi) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Pennybridge Pioneers](https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC) | 2:50 |
 | 18 | [Sense & Sensibility](https://open.spotify.com/track/0UaOzDAzZPiPfXP2AbIrpf) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [True Brew](https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno) | 2:37 |
 | 19 | [Nothing](https://open.spotify.com/track/7fQGfzF4ZEtyczeU7zXb1d) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [SOS](https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711) | 2:58 |
@@ -32,14 +32,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4boG5Z.md) - [plain]
 | 22 | [Autopilot Mode](https://open.spotify.com/track/14ct5CdYOAHOeLqFRCWyCk) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [True Brew](https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno) | 1:59 |
 | 23 | [Happiness For Dogs](https://open.spotify.com/track/5sSOSrmrxyiucqvoStb5oq) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Home From Home](https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn) | 3:25 |
 | 24 | [Boring Planet](https://open.spotify.com/track/3OQfwNOhDOodlqBYixpc3A) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [For Monkeys](https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE) | 2:07 |
-| 25 | [Farewell My Hell](https://open.spotify.com/track/1W18sciWbMzbsaK3OzcQoh) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Kingwood](https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV) | 2:51 |
-| 26 | [Dance Craze](https://open.spotify.com/track/2lgg5VzE1GUtmgxLz8r6u2) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Same Old Tunes](https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0) | 2:01 |
-| 27 | [Something I Would Die For](https://open.spotify.com/track/1DQ7ahNI475OGg2aNib4V2) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [True Brew](https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno) | 2:50 |
-| 28 | [Man Or Mouse](https://open.spotify.com/track/7eIdwfEjqrMtfB7YOu3yBG) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Home From Home](https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn) | 3:04 |
+| 25 | [Dance Craze](https://open.spotify.com/track/2lgg5VzE1GUtmgxLz8r6u2) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Same Old Tunes](https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0) | 2:01 |
+| 26 | [Farewell My Hell](https://open.spotify.com/track/1W18sciWbMzbsaK3OzcQoh) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Kingwood](https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV) | 2:51 |
+| 27 | [Man Or Mouse](https://open.spotify.com/track/7eIdwfEjqrMtfB7YOu3yBG) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Home From Home](https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn) | 3:04 |
+| 28 | [Something I Would Die For](https://open.spotify.com/track/1DQ7ahNI475OGg2aNib4V2) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [True Brew](https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno) | 2:50 |
 | 29 | [E20 Norr](https://open.spotify.com/track/1k9GmgwJI3nuAuhjnbWjrC) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [The Melancholy Connection](https://open.spotify.com/album/77AjEPs6vSjhcmIeRQ7xC7) | 3:24 |
 | 30 | [Killercrush](https://open.spotify.com/track/4RyifJbF8JhMtFdR2Bzslt) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Life On A Plate](https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY) | 2:27 |
-| 31 | [Egocentric Man](https://open.spotify.com/track/6gcTVs1P3Rkl4XYF2MF74j) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [True Brew](https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno) | 2:34 |
-| 32 | [Mooseman's Jukebox](https://open.spotify.com/track/2NyFl9B9hhWdQ2IcLjo2VT) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Kingwood](https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV) | 2:12 |
+| 31 | [Mooseman's Jukebox](https://open.spotify.com/track/2NyFl9B9hhWdQ2IcLjo2VT) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Kingwood](https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV) | 2:12 |
+| 32 | [Egocentric Man](https://open.spotify.com/track/6gcTVs1P3Rkl4XYF2MF74j) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [True Brew](https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno) | 2:34 |
 | 33 | [Leona](https://open.spotify.com/track/1meXK8bC29YKP011kHQml1) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Same Old Tunes](https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0) | 2:21 |
 | 34 | [Reach You](https://open.spotify.com/track/22zTKGC2eewB8ziExjvE1C) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [SOS](https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711) | 3:01 |
 | 35 | [The Story Of My Life](https://open.spotify.com/track/1Vt1I7Y29T6ObxjE55VDf4) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Life On A Plate](https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4boG5Z.md) - [plain]
 | 49 | [Stalemate](https://open.spotify.com/track/3vBpFa87OtswBtpVKvke4I) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Kingwood](https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV) | 3:18 |
 | 50 | [A Whole Lot Less](https://open.spotify.com/track/5bT1X7cPnnQHr7bUpsTsBI) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [The Melancholy Collection](https://open.spotify.com/album/067QwBKRZ6DoF2X4ZT4S2V) | 1:55 |
 
-Snapshot ID: `MjgwNDA0NDAsMDAwMDAwMDBkYTgyZjQ3ZDc1YzRlMjMyYTg4ZDE2NmQ0YTI5MDQxZA==`
+Snapshot ID: `MjgwNDE5MzAsMDAwMDAwMDA2MmY1ODA5NTlkOWFlM2JmNGZiNDQ1NDRjMjM2YzRjZQ==`

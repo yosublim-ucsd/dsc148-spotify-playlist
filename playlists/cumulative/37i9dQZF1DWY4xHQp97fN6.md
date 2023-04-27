@@ -4,7 +4,7 @@
 
 > Mode: Turnt
 
-523 songs - 1 day 1 hr 24 min
+524 songs - 1 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,7 +477,8 @@
 | [Too Much \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/7pZeacKYnK4unCplCmI2qb) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Too Much \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/0R87OEh0NzfdjavsrmrGtj) | 3:08 | 2022-09-30 | 2023-02-18 |
 | [Toolie](https://open.spotify.com/track/05KKOI0SXutMpliFutgwOx) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Toolie](https://open.spotify.com/album/3ikkmlZKMLbi0JCPzRysJN) | 2:17 | 2021-10-29 | 2022-03-26 |
 | [Top Floor](https://open.spotify.com/track/7fdhQp6KBcdDr2YDivkSXX) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [22](https://open.spotify.com/album/4TW6x0syAiUloUgqLco6eg) | 2:31 | 2023-03-24 |  |
-| [Torpedo](https://open.spotify.com/track/5R5UNKWsmMPpFq5JHK93Fw) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Torpedo](https://open.spotify.com/album/11udbkutLAaM7XN3amRT9t) | 4:00 | 2022-12-30 |  |
+| [Torpedo](https://open.spotify.com/track/3hT2zPRGkrL9wutPeZtvKQ) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 4:00 | 2023-04-21 |  |
+| [Torpedo](https://open.spotify.com/track/5R5UNKWsmMPpFq5JHK93Fw) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Torpedo](https://open.spotify.com/album/11udbkutLAaM7XN3amRT9t) | 4:00 | 2022-12-30 | 2023-04-27 |
 | [Tradeline](https://open.spotify.com/track/3ILtDXaZM2TjJuhAOzgk2u) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [Tradeline](https://open.spotify.com/album/16PMPx5G0MTsrjFVbkUsKR) | 3:58 | 2022-10-28 | 2023-01-21 |
 | [Trance \(with Travis Scott & Young Thug\)](https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:14 | 2023-03-10 |  |
 | [Trappin N Rappin \(feat\. Gucci Mane\)](https://open.spotify.com/track/4jCu9I3jXfKLr48r98RyVg) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [The Secret Weapon](https://open.spotify.com/album/1UJTAfBAyEYreutJBFKhXA) | 2:57 | 2023-02-17 |  |

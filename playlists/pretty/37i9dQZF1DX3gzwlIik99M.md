@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,948 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,983 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 11 | [El Infierno de Dante](https://open.spotify.com/track/0vjTp23Jg2cAZSq9x5GlxK) | [Transmetal](https://open.spotify.com/artist/5r1YlvQfX1TfuSRWzEEPlT) | [El Llamado de la Hembra](https://open.spotify.com/album/3SBJ4lkddKaLQ3tL57llOa) | 4:35 |
 | 12 | [Acido](https://open.spotify.com/track/1k6fvfuYE9xZi1hbwOhF6k) | [Carajo](https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN) | [El Mar De Las Almas](https://open.spotify.com/album/52tcNhROdl0187orh4tB3N) | 3:43 |
 | 13 | [Mística](https://open.spotify.com/track/4L30SyewCjkmJoX4qra9Ac) | [Espécimen](https://open.spotify.com/artist/5Mh3ytajhEkNUhgNEI4tvM) | [Subkonzziente](https://open.spotify.com/album/3dNRIGq5OGwFB3UGxX4kCh) | 3:54 |
-| 14 | [A Toda Madre](https://open.spotify.com/track/6aBSq9ifs6ezHLr7DhwIME) | [Thell Barrio](https://open.spotify.com/artist/5JMS3Ijapn92ZJ8EKFcW59) | [A Toda Madre](https://open.spotify.com/album/51ANJ0vGG9eG8brTzy6Sxs) | 3:22 |
-| 15 | [La Culpa Al Viento](https://open.spotify.com/track/1TZLjYKZMUw5gsuEYrrbwr) | [Los Antiguos](https://open.spotify.com/artist/25WqiGGqVjN0gLpVHqaP91) | [Madera Prohibida](https://open.spotify.com/album/0ZJ2iVKwt09AELBNknD7tb) | 5:11 |
+| 14 | [La Culpa Al Viento](https://open.spotify.com/track/1TZLjYKZMUw5gsuEYrrbwr) | [Los Antiguos](https://open.spotify.com/artist/25WqiGGqVjN0gLpVHqaP91) | [Madera Prohibida](https://open.spotify.com/album/0ZJ2iVKwt09AELBNknD7tb) | 5:11 |
+| 15 | [A Toda Madre](https://open.spotify.com/track/6aBSq9ifs6ezHLr7DhwIME) | [Thell Barrio](https://open.spotify.com/artist/5JMS3Ijapn92ZJ8EKFcW59) | [A Toda Madre](https://open.spotify.com/album/51ANJ0vGG9eG8brTzy6Sxs) | 3:22 |
 | 16 | [El nuevo camino del hombre](https://open.spotify.com/track/7uZcZ7lXte8e8rNCIRH38y) | [A.N.I.M.A.L.](https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9), [Mario Altamirano and A.N.I.M.A.L.](https://open.spotify.com/artist/5Szv9SK8b5cY40jhN0mV5m) | [El Nuevo Camino del Hombre](https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f) | 3:29 |
 | 17 | [Río Extraño](https://open.spotify.com/track/2BkoAPwO85Zb2IOJF0LMRv) | [OConnor](https://open.spotify.com/artist/2fkbcrv0tNgxkzT0wvivRN) | [Río Extraño](https://open.spotify.com/album/2RhzNO5A2ygXBfuKkmglGL) | 4:27 |
 | 18 | [Mass Hypnosis](https://open.spotify.com/track/4NcNgZPCLDmOQQKnHvQ3w7) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Beneath the Remains](https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z) | 4:25 |
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 27 | [Eres Tan Mala Como la Carne de Puerco](https://open.spotify.com/track/3mKil8CbR3556RMA3AkK2z) | [Marraneitors](https://open.spotify.com/artist/4AfocMBJSpoWTgjXGTyVXs) | [Rebelión En El Chiquero](https://open.spotify.com/album/4ZbNHiuVBbHU47EIWzWPwR) | 2:30 |
 | 28 | [Pueblo Motoquero](https://open.spotify.com/track/3Qwk2xcvEh6VDp5QiKdmS4) | [Tren Loco](https://open.spotify.com/artist/7aFWI1ooewKlAlMparvoab) | [Venas De Acero](https://open.spotify.com/album/469b4h0JOhjXeInWRBjyDl) | 4:46 |
 | 29 | [Infiel a Dos Mentiras "Vida"](https://open.spotify.com/track/7mNdPmUqNmp7JqHQUBJPBa) | [Kilcrops](https://open.spotify.com/artist/35RQXAyUyPsRRcank3cohw) | [Javhe Karma](https://open.spotify.com/album/0yKtlTkM61fYXqKXybXVK1) | 7:40 |
-| 30 | [Policia](https://open.spotify.com/track/56EDO4Z7CDAbFRHYRjZOmd) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Blood\-Rooted](https://open.spotify.com/album/1FS91DJzXoWcl8p6AK0CYG) | 1:47 |
-| 31 | [Satanic Lust](https://open.spotify.com/track/3qRnT9wYaNkM30Dd29rmRl) | [Sarcófago](https://open.spotify.com/artist/3bPSw3qkTeBZXnfDFUqmPG) | [Inri](https://open.spotify.com/album/2nMT6EXsWDFCOZcdKk1liX) | 3:08 |
+| 30 | [Satanic Lust](https://open.spotify.com/track/3qRnT9wYaNkM30Dd29rmRl) | [Sarcófago](https://open.spotify.com/artist/3bPSw3qkTeBZXnfDFUqmPG) | [Inri](https://open.spotify.com/album/2nMT6EXsWDFCOZcdKk1liX) | 3:08 |
+| 31 | [Policia](https://open.spotify.com/track/56EDO4Z7CDAbFRHYRjZOmd) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Blood\-Rooted](https://open.spotify.com/album/1FS91DJzXoWcl8p6AK0CYG) | 1:47 |
 | 32 | [Culto vacio radical](https://open.spotify.com/track/2SOEI9DvgYCzeqeiLR0YGH) | [Mastifal](https://open.spotify.com/artist/1EvaJtqYxjC6ag0IU7uyRM) | [Carnivora](https://open.spotify.com/album/2fovgpxq2rAk9UVn51qqsS) | 4:47 |
-| 33 | [Sigo Siendo El Rey](https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ) | [Dia De Los Muertos](https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD) | [Satanico\-Dramatico](https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv) | 1:11 |
-| 34 | [Cacique Yatel](https://open.spotify.com/track/564R2CUjKmBW3hNTghZeKk) | [Aonikenk](https://open.spotify.com/artist/7hjJ0q7oXYcl866xlKLmu7) | [Sentir Metalero](https://open.spotify.com/album/1ptYeB038RINyS0cxPoP4J) | 4:16 |
+| 33 | [Cacique Yatel](https://open.spotify.com/track/564R2CUjKmBW3hNTghZeKk) | [Aonikenk](https://open.spotify.com/artist/7hjJ0q7oXYcl866xlKLmu7) | [Sentir Metalero](https://open.spotify.com/album/1ptYeB038RINyS0cxPoP4J) | 4:16 |
+| 34 | [Sigo Siendo El Rey](https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ) | [Dia De Los Muertos](https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD) | [Satanico\-Dramatico](https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv) | 1:11 |
 | 35 | [Castigador por Herencia](https://open.spotify.com/track/50YRa66db8G4ASXnqww06C) | [Malon](https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL) | [Espíritu Combativo](https://open.spotify.com/album/6lAJZDH8gDBDQjymjhZ6nz) | 3:38 |
 | 36 | [Vida Eterna](https://open.spotify.com/track/14nEPCQLWtMqV4uE1cRHFv) | [Lörihen](https://open.spotify.com/artist/4HgUPVt7LhvdpUbZhmotgx) | [Bajo la Cruz](https://open.spotify.com/album/66dGx46zunw5g7zcaAJ2Fj) | 4:55 |
 | 37 | [Cenizas‬](https://open.spotify.com/track/4QgSHdxKEtOt3qPXL3lmbG) | [Carajo](https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN) | [Basado en Hechos Reales](https://open.spotify.com/album/6lzY4nvVAMGKkdLJDJjqcS) | 4:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 49 | [El Vuelo Del Dragón](https://open.spotify.com/track/5Sv5Ot5oMZf9mrNwZ95bku) | [Patan](https://open.spotify.com/artist/4jyw0sF3Ji2vZ74ZZIWYBz) | [Acero](https://open.spotify.com/album/4HwQsHeVEPhMYyH49mMy2q) | 4:25 |
 | 50 | [Victimized](https://open.spotify.com/track/6OSb8LkFYX7kUSDzSmphxH) | [Criminal](https://open.spotify.com/artist/2obZTQu3NO5oRcIZKY9fOh) | [Dead Soul](https://open.spotify.com/album/2vW8nOEvd85a5Uz4u6qjcS) | 3:00 |
 
-Snapshot ID: `MTYwMzUxMDczMSwwMDAwMDAwMDFlODVmZWFiZGNiNTY1ZjNmNDNkZDcyODU1ZTM2Y2Ix`
+Snapshot ID: `MTYwMzUxMDczMSwwMDAwMDAwMGYzOTE4NTFjN2FhMmY3ZTQyOGZkZDRjZTNkOGM2ZTQ3`

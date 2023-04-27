@@ -746,7 +746,7 @@
       ],
       "date_added": "2020-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 162080,
       "name": "Just One Of Those Things",
       "url": "https://open.spotify.com/track/6QZ4ZhD8hGVTfwoN2Ypl4Z"
@@ -1378,6 +1378,24 @@
       "duration_ms": 194026,
       "name": "Woodchopper's Ball",
       "url": "https://open.spotify.com/track/0irr37TKHqpGSB0Ys8Q3rJ"
+    },
+    {
+      "album": {
+        "name": "Welcome to My Dream",
+        "url": "https://open.spotify.com/album/0DdGWUa83ELS8iOT66bo1o"
+      },
+      "artists": [
+        {
+          "name": "Woody Herman & His Orchestra",
+          "url": "https://open.spotify.com/artist/7CUcJMFBfSARR8js036QOn"
+        }
+      ],
+      "date_added": "2020-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195030,
+      "name": "Woodchopper\u2019s Ball",
+      "url": "https://open.spotify.com/track/28Ku0JK5FGK2tNdfI0rzXz"
     },
     {
       "album": {

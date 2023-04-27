@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. Cover: Barns Courtney
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,126,690 likes - 129 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,126,868 likes - 129 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

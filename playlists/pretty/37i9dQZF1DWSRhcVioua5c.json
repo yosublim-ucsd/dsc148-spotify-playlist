@@ -1,12 +1,12 @@
 {
   "description": "Una selecci\u00f3n de baladas para suspirar de amor.",
-  "num_followers": 59784,
+  "num_followers": 59820,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAwODA1MSwwMDAwMDAwMGNlNWI0YTNmOTBkNjZlN2JjZGVkOTJmOTQzMzcyNTBi",
+  "snapshot_id": "MTY3OTAwODA1MSwwMDAwMDAwMDgxZGRlZThhNmY1MzZiNDdjZDYyM2I0NDM4Y2FkZDAw",
   "tracks": [
     {
       "added_at": "2023-03-16 23:07:31",
@@ -75,6 +75,22 @@
     {
       "added_at": "2023-03-16 23:07:31",
       "album": {
+        "name": "Tu Mano",
+        "url": "https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "Ens\u00e9\u00f1ame A Vivir Sin Ti",
+      "url": "https://open.spotify.com/track/59f765mlM08j2POCl3zPvd"
+    },
+    {
+      "added_at": "2023-03-16 23:07:31",
+      "album": {
         "name": "Reevoluci\u00f3n",
         "url": "https://open.spotify.com/album/3YL3YmNrEYympobNbV3eXT"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 209293,
       "name": "Aventura (feat. Marcela Morelo)",
       "url": "https://open.spotify.com/track/6qkS2ebQrNmSznA50ODfxs"
-    },
-    {
-      "added_at": "2023-03-16 23:07:31",
-      "album": {
-        "name": "Tu Mano",
-        "url": "https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "Ens\u00e9\u00f1ame A Vivir Sin Ti",
-      "url": "https://open.spotify.com/track/59f765mlM08j2POCl3zPvd"
     },
     {
       "added_at": "2023-03-16 23:07:31",
@@ -191,6 +191,22 @@
     {
       "added_at": "2023-03-16 23:07:31",
       "album": {
+        "name": "El Principio del Final",
+        "url": "https://open.spotify.com/album/2ww3i7PqUVMM4JmokgyRb5"
+      },
+      "artists": [
+        {
+          "name": "Raly Barrionuevo",
+          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
+        }
+      ],
+      "duration_ms": 272240,
+      "name": "Zamba y Acuarela",
+      "url": "https://open.spotify.com/track/4M7ODmOvmSny2kBEOgp2cX"
+    },
+    {
+      "added_at": "2023-03-16 23:07:31",
+      "album": {
         "name": "Dispuesto A Amarte",
         "url": "https://open.spotify.com/album/2TjcppxUUfwFZ7H9XAxwfw"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 195266,
       "name": "Amor Salvaje",
       "url": "https://open.spotify.com/track/3uXcL2mkNMUB8aK26xA0jE"
-    },
-    {
-      "added_at": "2023-03-16 23:07:31",
-      "album": {
-        "name": "El Principio del Final",
-        "url": "https://open.spotify.com/album/2ww3i7PqUVMM4JmokgyRb5"
-      },
-      "artists": [
-        {
-          "name": "Raly Barrionuevo",
-          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
-        }
-      ],
-      "duration_ms": 272240,
-      "name": "Zamba y Acuarela",
-      "url": "https://open.spotify.com/track/4M7ODmOvmSny2kBEOgp2cX"
     },
     {
       "added_at": "2023-03-16 23:07:31",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-03-16 23:07:31",
       "album": {
-        "name": "Serenata Oto\u00f1al / Serenata para una Flor / Cuando Llora Mi Guitarra / Adoraci\u00f3n / Mantelito Blanco / Nuestro Juramento / Que Nunca Falte Esta Zamba / El Que Toca Nunca Baila",
-        "url": "https://open.spotify.com/album/4mgOIuHak6A0OQsh6uu5R0"
-      },
-      "artists": [
-        {
-          "name": "Canto Del Alma",
-          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
-        }
-      ],
-      "duration_ms": 758954,
-      "name": "Serenata Oto\u00f1al / Serenata para una Flor / Cuando Llora Mi Guitarra / Adoraci\u00f3n / Mantelito Blanco / Nuestro Juramento / Que Nunca Falte Esta Zamba / El Que Toca Nunca Baila",
-      "url": "https://open.spotify.com/track/2d63TiTyLpNhj6KkdZSDWd"
-    },
-    {
-      "added_at": "2023-03-16 23:07:31",
-      "album": {
         "name": "La Flor",
         "url": "https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 190113,
       "name": "La Flor",
       "url": "https://open.spotify.com/track/5AvuHRAVgEIXCo85GRPZRx"
+    },
+    {
+      "added_at": "2023-03-16 23:07:31",
+      "album": {
+        "name": "Serenata Oto\u00f1al / Serenata para una Flor / Cuando Llora Mi Guitarra / Adoraci\u00f3n / Mantelito Blanco / Nuestro Juramento / Que Nunca Falte Esta Zamba / El Que Toca Nunca Baila",
+        "url": "https://open.spotify.com/album/4mgOIuHak6A0OQsh6uu5R0"
+      },
+      "artists": [
+        {
+          "name": "Canto Del Alma",
+          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
+        }
+      ],
+      "duration_ms": 758954,
+      "name": "Serenata Oto\u00f1al / Serenata para una Flor / Cuando Llora Mi Guitarra / Adoraci\u00f3n / Mantelito Blanco / Nuestro Juramento / Que Nunca Falte Esta Zamba / El Que Toca Nunca Baila",
+      "url": "https://open.spotify.com/track/2d63TiTyLpNhj6KkdZSDWd"
     },
     {
       "added_at": "2023-03-16 23:07:31",
@@ -1155,22 +1155,6 @@
       "duration_ms": 205557,
       "name": "Una Noche M\u00e1s",
       "url": "https://open.spotify.com/track/5zkVIqB0REw19AXIl9rH2q"
-    },
-    {
-      "added_at": "2023-03-16 23:07:31",
-      "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/7D0Sn2AwvCRNM39eR8fu8J"
-      },
-      "artists": [
-        {
-          "name": "Canto Del Alma",
-          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
-        }
-      ],
-      "duration_ms": 185429,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/5tsmFR93fgtwVHxzwCOkpr"
     },
     {
       "added_at": "2023-03-16 23:07:31",
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2023-03-16 23:07:31",
       "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/7D0Sn2AwvCRNM39eR8fu8J"
+      },
+      "artists": [
+        {
+          "name": "Canto Del Alma",
+          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
+        }
+      ],
+      "duration_ms": 185429,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/5tsmFR93fgtwVHxzwCOkpr"
+    },
+    {
+      "added_at": "2023-03-16 23:07:31",
+      "album": {
         "name": "Tu Respuesta",
         "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
       },
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-03-16 23:07:31",
       "album": {
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/4LTyGdxfClwg3KKJjBAqV3"
+      },
+      "artists": [
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "duration_ms": 179800,
+      "name": "Para Que Nunca Me Dejes",
+      "url": "https://open.spotify.com/track/3h6h3alpLmhiI9U7DdODhp"
+    },
+    {
+      "added_at": "2023-03-16 23:07:31",
+      "album": {
         "name": "Bien o Mal",
         "url": "https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg"
       },
@@ -1315,18 +1331,18 @@
     {
       "added_at": "2023-03-16 23:07:31",
       "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/4LTyGdxfClwg3KKJjBAqV3"
+        "name": "Repechando la Senda",
+        "url": "https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW"
       },
       "artists": [
         {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+          "name": "Los Puesteros",
+          "url": "https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY"
         }
       ],
-      "duration_ms": 179800,
-      "name": "Para Que Nunca Me Dejes",
-      "url": "https://open.spotify.com/track/3h6h3alpLmhiI9U7DdODhp"
+      "duration_ms": 233561,
+      "name": "Nunca Olvides",
+      "url": "https://open.spotify.com/track/7uh4weyCU6SNgcNT4yyphY"
     },
     {
       "added_at": "2023-03-16 23:07:31",
@@ -1387,38 +1403,6 @@
     {
       "added_at": "2023-03-16 23:07:31",
       "album": {
-        "name": "D\u00e9jame Intentar",
-        "url": "https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO"
-      },
-      "artists": [
-        {
-          "name": "El Indio Lucio Rojas",
-          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
-        }
-      ],
-      "duration_ms": 162192,
-      "name": "D\u00e9jame Intentar",
-      "url": "https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9"
-    },
-    {
-      "added_at": "2023-03-16 23:07:31",
-      "album": {
-        "name": "Repechando la Senda",
-        "url": "https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW"
-      },
-      "artists": [
-        {
-          "name": "Los Puesteros",
-          "url": "https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY"
-        }
-      ],
-      "duration_ms": 233561,
-      "name": "Nunca Olvides",
-      "url": "https://open.spotify.com/track/7uh4weyCU6SNgcNT4yyphY"
-    },
-    {
-      "added_at": "2023-03-16 23:07:31",
-      "album": {
         "name": "Corazon Sin Tiempo",
         "url": "https://open.spotify.com/album/4AuCOi6XjMDbotmq5XpJ1I"
       },
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2023-03-16 23:07:31",
       "album": {
+        "name": "D\u00e9jame Intentar",
+        "url": "https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO"
+      },
+      "artists": [
+        {
+          "name": "El Indio Lucio Rojas",
+          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
+        }
+      ],
+      "duration_ms": 162192,
+      "name": "D\u00e9jame Intentar",
+      "url": "https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9"
+    },
+    {
+      "added_at": "2023-03-16 23:07:31",
+      "album": {
         "name": "Huella",
         "url": "https://open.spotify.com/album/0y0ckypghp0Ae1bdo3qjth"
       },
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2023-03-16 23:07:31",
       "album": {
-        "name": "Todo Ser\u00e1 Mejor",
-        "url": "https://open.spotify.com/album/2IbkSqdOd9aEpVuXUSgc2q"
+        "name": "Tan Cerca En La Distancia",
+        "url": "https://open.spotify.com/album/4RCRNdHuYCeV9jygMsAjVo"
       },
       "artists": [
         {
-          "name": "Qiro",
-          "url": "https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO"
+          "name": "Los Juncales",
+          "url": "https://open.spotify.com/artist/4d6yiiKUfZvhXlynmFVbtA"
         }
       ],
-      "duration_ms": 239365,
-      "name": "Todo Ser\u00e1 Mejor",
-      "url": "https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5"
+      "duration_ms": 202728,
+      "name": "Tan Cerca En La Distancia",
+      "url": "https://open.spotify.com/track/1Sz2bHW2ULcrp9qyHYUZzG"
     }
   ],
   "unique_name": "Folklore Rom\u00e1ntico ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Septeto Acarey
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,541 likes - 80 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,632 likes - 80 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

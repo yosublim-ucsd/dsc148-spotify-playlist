@@ -1,13 +1,29 @@
 {
   "description": "De lunes a domingo, descubre un tema elegido por tus editores de Spotify.",
-  "num_followers": 421859,
+  "num_followers": 421870,
   "original_name": "Canci\u00f3n del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjQwNzA4MCwwMDAwMDAwMDM1MzgwNzk0ZDFlYWNlNDU3NzQxODdkOTQ1ODExMmRi",
+  "snapshot_id": "MTY4MjQ5MzQ4MCwwMDAwMDAwMGRmZmM3YWI4YzU4YWMyYTJjN2I1MmNkNTA4MjI1YjRm",
   "tracks": [
+    {
+      "added_at": "2023-04-26 07:18:00",
+      "album": {
+        "name": "Como Si Nada",
+        "url": "https://open.spotify.com/album/3gaqW9uYFzUf8Ah2tggT5K"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Como Si Nada",
+      "url": "https://open.spotify.com/track/3qeEnBDyql3BF8ZRo1fbSU"
+    },
     {
       "added_at": "2023-04-25 07:18:00",
       "album": {
@@ -803,22 +819,6 @@
       "duration_ms": 208606,
       "name": "Ruta 7",
       "url": "https://open.spotify.com/track/21M3XwoJcEXdLp9cQPJKeK"
-    },
-    {
-      "added_at": "2023-04-10 18:00:00",
-      "album": {
-        "name": "Estero",
-        "url": "https://open.spotify.com/album/1KwYSPl2UNEQfdSlFZk5gJ"
-      },
-      "artists": [
-        {
-          "name": "Renee Mooi",
-          "url": "https://open.spotify.com/artist/6pDpSqJDuF6J6jxfAz4sTB"
-        }
-      ],
-      "duration_ms": 224504,
-      "name": "Estero",
-      "url": "https://open.spotify.com/track/424e07rT5aQ3e3zoS6c4fF"
     },
     {
       "added_at": "2023-04-10 18:00:00",

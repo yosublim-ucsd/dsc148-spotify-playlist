@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 
 > Svensk jazz när den är som bäst.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,030 likes - 118 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,035 likes - 118 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 | 28 | [The Walking Dog](https://open.spotify.com/track/5SDwsoqvawQ46UWWtpLck3) | [Makross](https://open.spotify.com/artist/6d0tVvhUn5wpFRzNYMtwYZ), [Fabian Kallerdahl](https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU) | [Soppatorsk](https://open.spotify.com/album/0FqcdyHDlak8ni7R7PATQn) | 6:11 |
 | 29 | [Cheek to Cheek](https://open.spotify.com/track/78nzY9fNwCTxpVxjh3ITWn) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb), [Magnus Lindgren](https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN) | [Cheek to Cheek](https://open.spotify.com/album/6IRlKG1GX4XDN42ow8V3ot) | 7:03 |
 | 30 | [Stablemates](https://open.spotify.com/track/0e2qoYX2fvzOKw1WztN0Il) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8) | [Stablemates](https://open.spotify.com/album/3lqaHDcGbtoXOJOf4OCv4K) | 5:03 |
-| 31 | [Autumn in New York](https://open.spotify.com/track/2skpUMopTEdxq57d3UlPCh) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm) | [A Ballad Moment](https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl) | 2:59 |
+| 31 | [Autumn in New York](https://open.spotify.com/track/2skpUMopTEdxq57d3UlPCh) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Ballad Moment](https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl) | 2:59 |
 | 32 | [Sliter En Gråtlåt Ur Mitt Hår](https://open.spotify.com/track/3x8s8D4wGbF8aaU3qhQkiy) | [Claes Janson](https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712), [Christina von Bülow](https://open.spotify.com/artist/5VvYrVSilKVNlE4N6Fvsjd) | [Sliter En Gråtlåt Ur Mitt Hår](https://open.spotify.com/album/6m9VEymNTYIa22jhmMAv1m) | 4:40 |
 | 33 | [Fontanella di Maria](https://open.spotify.com/track/1GiJtZmU6d0JPIv6xLtdYm) | [Nils Berg Cinemascope](https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3) | [Basilicata Dreaming](https://open.spotify.com/album/1Tr9H9tqWTfCWEB62i1B6v) | 3:32 |
 | 34 | [Julian](https://open.spotify.com/track/6KRCAadm61n78dKm8UfamO) | [Lina Nyberg](https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv), [Josef Kallerdahl](https://open.spotify.com/artist/5Wc1iOuZi2XsaM1ppRsAaN) | [Julian](https://open.spotify.com/album/63QrOaQz8pdeXGG7XfTAYb) | 3:41 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 | 62 | [Alfie](https://open.spotify.com/track/0HKf7o2cKrbsCUelKF8Cri) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb) | [Alfie](https://open.spotify.com/album/6QJsii8JfWE1bUHQnEd2jj) | 5:34 |
 | 63 | [Forever](https://open.spotify.com/track/0d674LjUXnKVU71XGC7W7R) | [Anders Bergcrantz](https://open.spotify.com/artist/4fOuim8RgJ4BZooUlXc6Bu), [Anders Chico Lindvall](https://open.spotify.com/artist/6DbKaZouvwznDutrp8StZx), [Tomas Franck](https://open.spotify.com/artist/1XHcRuSj7C6bFeRBVJO6Uc), [Sven Erik Lundeqvist](https://open.spotify.com/artist/6laUEu5CORUGLI2GiDHynf), [Lasse Lundstrom](https://open.spotify.com/artist/6sOVv5IiRLmoznTqQRBf6U), [Niclas Campagnol](https://open.spotify.com/artist/1VqIpsJWDzAFIxWXCGCLuL) | [Forever](https://open.spotify.com/album/1bNHrxVoJ2ZFQGr5f6Ahcq) | 5:59 |
 | 64 | [The Thrill is Gone](https://open.spotify.com/track/5EptIZcHCWfrhtlmWylkbp) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [The Thrill is Gone](https://open.spotify.com/album/4HCvABj7J5EUJDZ6qh6X0M) | 6:55 |
-| 65 | [I'll Be Around](https://open.spotify.com/track/0nmKnxFMPZYQDeUV49HHA9) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm) | [A Ballad Moment](https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl) | 4:06 |
+| 65 | [I'll Be Around](https://open.spotify.com/track/0nmKnxFMPZYQDeUV49HHA9) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Ballad Moment](https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl) | 4:06 |
 | 66 | [Hallonsommar](https://open.spotify.com/track/6d28xWKGgk9il20hrmclFy) | [Anna\. Luca](https://open.spotify.com/artist/3p3SDqItDVbc4VKR4LTQoT) | [Hallonsommar](https://open.spotify.com/album/48LBJhxQ126O5o1WKlhOFT) | 3:45 |
 | 67 | [Craftsman](https://open.spotify.com/track/0POkWuNjH2Z01YgewPxhsd) | [Andreas Hourdakis](https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq) | [Craftsman](https://open.spotify.com/album/1QTzNVk2AUJwUdiiHO81mg) | 6:12 |
 | 68 | [From Gagarin's Point of View](https://open.spotify.com/track/4JWfPMjVEh4SusNs8V3gt5) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [From Gagarin's Point of View](https://open.spotify.com/album/4jM7MG25QkVfp0SSkQ6138) | 4:03 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 | 117 | [Little Green Apples](https://open.spotify.com/track/1Fq5zGO9szoi1qhmAmedbT) | [Merit Hemmingson](https://open.spotify.com/artist/5xoFJP7qzaMcSAghFZXI4a) | [Merit!](https://open.spotify.com/album/4vXz5HHVIzciTPmFRaTXSi) | 4:22 |
 | 118 | [The Midnight Sun Never Sets](https://open.spotify.com/track/2CcK7rb2RWa3KU6zd4kfDE) | [Arne Domnérus](https://open.spotify.com/artist/1ouwdRCWsw9IBhPoDMrhFv) | [Guldkorn](https://open.spotify.com/album/6eFrMXMf8qQGGyZFSQill8) | 4:08 |
 
-Snapshot ID: `MTY4MTk4OTkyMiwwMDAwMDAwMGNkODBlMDYyYTlhZmRhYWU2NWI1Mzc4M2M1ZTQzOGQ3`
+Snapshot ID: `MTY4MjUxMzc0MywwMDAwMDAwMGY0OTYzNmMxMmEyZDQxZTI1YzQwMWExYzE1ZDc3M2U3`

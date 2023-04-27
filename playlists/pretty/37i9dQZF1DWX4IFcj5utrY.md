@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu?si=uL8MB4V6QKKndZPV9dp\_Ww">Hyenah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,436 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,467 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: DRAM",
-  "num_followers": 40903,
+  "num_followers": 40911,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDdlNDYxNTI2MDQ4NDVjNWM1MDhjZTc5NzM5YWJhZjBi",
+  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMGY1Y2VhZDc4MTcxMjA5NWQ5YjcyY2JkMzY4NGJjNzU1",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -565,6 +565,22 @@
       "url": "https://open.spotify.com/track/0e0JshRej2NwT7jahEmv52"
     },
     {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Since I Have A Lover",
+        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 184200,
+      "name": "Talkback",
+      "url": "https://open.spotify.com/track/616rALOBxvc3bbp38iiud5"
+    },
+    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
@@ -579,22 +595,6 @@
       "duration_ms": 192787,
       "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
       "url": "https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Talkback",
-        "url": "https://open.spotify.com/album/5MNz65f0S30Ev8AGVdFI5I"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 184200,
-      "name": "Talkback",
-      "url": "https://open.spotify.com/track/7o3fWwXCehCmRya4TBvqpe"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -725,22 +725,6 @@
       "url": "https://open.spotify.com/track/2TrFQYku0STJn94gRMhlNZ"
     },
     {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
-        "name": "Ouu Ahh",
-        "url": "https://open.spotify.com/album/19QvRjusHmaXHs52bSbR4C"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "duration_ms": 165274,
-      "name": "Ouu Ahh",
-      "url": "https://open.spotify.com/track/5ThHwyTTfpVADZ3lf8ul8j"
-    },
-    {
       "added_at": "2022-09-09 04:09:30",
       "album": {
         "name": "KEYS II",
@@ -759,6 +743,22 @@
       "duration_ms": 173053,
       "name": "Trillions (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/5md3aeM1WaEjDec9gH21yW"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Ouu Ahh",
+        "url": "https://open.spotify.com/album/19QvRjusHmaXHs52bSbR4C"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "duration_ms": 165274,
+      "name": "Ouu Ahh",
+      "url": "https://open.spotify.com/track/5ThHwyTTfpVADZ3lf8ul8j"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1017,10 +1017,10 @@
       "url": "https://open.spotify.com/track/7gpIj4wMeTKptFxetrNKzY"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Obsession (feat. Muni Long) [Remix]",
-        "url": "https://open.spotify.com/album/5hvRuMXz1hAZUAR7dep0h1"
+        "name": "1(800)HIT-EAZY: Line 2",
+        "url": "https://open.spotify.com/album/6KIxdiACBAewmOLM1YBPYJ"
       },
       "artists": [
         {
@@ -1028,13 +1028,13 @@
           "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
         },
         {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
         }
       ],
-      "duration_ms": 201869,
-      "name": "Obsession (feat. Muni Long) - Remix",
-      "url": "https://open.spotify.com/track/5BeLd9BErYOPAsHSFIWK3C"
+      "duration_ms": 168000,
+      "name": "Sum 2 See",
+      "url": "https://open.spotify.com/track/2nLjAYDLBip0W3HbCOiS7Z"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1085,6 +1085,22 @@
       "url": "https://open.spotify.com/track/4O8LjiiXtsL0Jnb5xK4VxZ"
     },
     {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "No Drama",
+        "url": "https://open.spotify.com/album/0i7WmU3wYCP6DL0Mybqwda"
+      },
+      "artists": [
+        {
+          "name": "JVCK JAMES",
+          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
+        }
+      ],
+      "duration_ms": 189200,
+      "name": "No Drama",
+      "url": "https://open.spotify.com/track/5S7LgarbUuknrVO2gFkhtT"
+    },
+    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Lost In Melody (Deluxe)",
@@ -1103,22 +1119,6 @@
       "duration_ms": 144869,
       "name": "Shoot",
       "url": "https://open.spotify.com/track/4clYYm4VdZaqQkiNHSfIQG"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "No Drama",
-        "url": "https://open.spotify.com/album/0i7WmU3wYCP6DL0Mybqwda"
-      },
-      "artists": [
-        {
-          "name": "JVCK JAMES",
-          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
-        }
-      ],
-      "duration_ms": 189200,
-      "name": "No Drama",
-      "url": "https://open.spotify.com/track/5S7LgarbUuknrVO2gFkhtT"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1145,10 +1145,10 @@
       "url": "https://open.spotify.com/track/0teFeL0RvDeDbpmi1YZlFt"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "1(800)HIT-EAZY: Line 2",
-        "url": "https://open.spotify.com/album/6KIxdiACBAewmOLM1YBPYJ"
+        "name": "Obsession (feat. Muni Long) [Remix]",
+        "url": "https://open.spotify.com/album/5hvRuMXz1hAZUAR7dep0h1"
       },
       "artists": [
         {
@@ -1156,13 +1156,13 @@
           "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
         },
         {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Sum 2 See",
-      "url": "https://open.spotify.com/track/2nLjAYDLBip0W3HbCOiS7Z"
+      "duration_ms": 201869,
+      "name": "Obsession (feat. Muni Long) - Remix",
+      "url": "https://open.spotify.com/track/5BeLd9BErYOPAsHSFIWK3C"
     },
     {
       "added_at": "2022-09-23 04:09:12",
@@ -1179,22 +1179,6 @@
       "duration_ms": 152574,
       "name": "Plot Twist",
       "url": "https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "World In My Hands",
-        "url": "https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT"
-      },
-      "artists": [
-        {
-          "name": "LAVI$H",
-          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
-        }
-      ],
-      "duration_ms": 194401,
-      "name": "World In My Hands",
-      "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
     },
     {
       "added_at": "2022-10-14 05:33:57",
@@ -1215,6 +1199,22 @@
       "duration_ms": 183589,
       "name": "Love Jones (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "World In My Hands",
+        "url": "https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT"
+      },
+      "artists": [
+        {
+          "name": "LAVI$H",
+          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
+        }
+      ],
+      "duration_ms": 194401,
+      "name": "World In My Hands",
+      "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1273,22 +1273,6 @@
       "url": "https://open.spotify.com/track/3cH7YI52JMcJrZIrJEJemU"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "'95 Civic",
-        "url": "https://open.spotify.com/album/4VPp2kFBlAIX0GhxB4l3Or"
-      },
-      "artists": [
-        {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
-        }
-      ],
-      "duration_ms": 154473,
-      "name": "Ultimatum",
-      "url": "https://open.spotify.com/track/2YrbV6XGLv4NH2aHzVuFpQ"
-    },
-    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "Out The Way",
@@ -1303,6 +1287,22 @@
       "duration_ms": 155414,
       "name": "Out The Way",
       "url": "https://open.spotify.com/track/1F90ozGQw5nVHCT5o8yXK3"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "'95 Civic",
+        "url": "https://open.spotify.com/album/4VPp2kFBlAIX0GhxB4l3Or"
+      },
+      "artists": [
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        }
+      ],
+      "duration_ms": 154473,
+      "name": "Ultimatum",
+      "url": "https://open.spotify.com/track/2YrbV6XGLv4NH2aHzVuFpQ"
     },
     {
       "added_at": "2023-01-27 05:01:00",
@@ -1369,22 +1369,6 @@
       "url": "https://open.spotify.com/track/5jI8xKMCIEToPXuXdFCoFJ"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/78caTHJtZQmmxYWS6xRyzi"
-      },
-      "artists": [
-        {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        }
-      ],
-      "duration_ms": 175999,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "$weet n $our",
@@ -1399,6 +1383,22 @@
       "duration_ms": 183588,
       "name": "$weet n $our",
       "url": "https://open.spotify.com/track/6xxPmqOp8AbM32rEiJ3AQ4"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/78caTHJtZQmmxYWS6xRyzi"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        }
+      ],
+      "duration_ms": 175999,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1641,6 +1641,22 @@
       "url": "https://open.spotify.com/track/36TzL54XxuCR91U5wBSR6h"
     },
     {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "Sock It 2 Me",
+        "url": "https://open.spotify.com/album/3SkBB3iH6FtsIx2PxqtO35"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "duration_ms": 201802,
+      "name": "Sock It 2 Me",
+      "url": "https://open.spotify.com/track/50djZgba5gDPdYp7aJG57w"
+    },
+    {
       "added_at": "2022-11-04 06:34:53",
       "album": {
         "name": "Satisfied",
@@ -1659,18 +1675,22 @@
     {
       "added_at": "2022-08-05 04:11:54",
       "album": {
-        "name": "Sock It 2 Me",
-        "url": "https://open.spotify.com/album/3SkBB3iH6FtsIx2PxqtO35"
+        "name": "A Little Crazy",
+        "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
       },
       "artists": [
         {
-          "name": "LAYA",
-          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
+        },
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
         }
       ],
-      "duration_ms": 201802,
-      "name": "Sock It 2 Me",
-      "url": "https://open.spotify.com/track/50djZgba5gDPdYp7aJG57w"
+      "duration_ms": 198000,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1705,6 +1725,22 @@
       "url": "https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN"
     },
     {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "flora + fana",
+        "url": "https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 164163,
+      "name": "pieces",
+      "url": "https://open.spotify.com/track/2o9aMaRxK62Nw8KdONNoZU"
+    },
+    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Tripolar 3",
@@ -1723,42 +1759,6 @@
       "duration_ms": 219500,
       "name": "Strip for You (feat. Vedo)",
       "url": "https://open.spotify.com/track/5KyaW4SQOARjggwgcSvcrI"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "A Little Crazy",
-        "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
-      },
-      "artists": [
-        {
-          "name": "Byron Juane",
-          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
-        },
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "flora + fana",
-        "url": "https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg"
-      },
-      "artists": [
-        {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
-        }
-      ],
-      "duration_ms": 164163,
-      "name": "pieces",
-      "url": "https://open.spotify.com/track/2o9aMaRxK62Nw8KdONNoZU"
     }
   ],
   "unique_name": "Some Kinda Way",

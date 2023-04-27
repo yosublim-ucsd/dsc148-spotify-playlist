@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0bmMTtKNwsDbQN40k0KTeW">Alex Hope</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-99 songs - 5 hr 36 min
+100 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [carefully](https://open.spotify.com/track/02gsGTeYxe3HK4hCYg05wf) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 4:45 | 2021-12-27 |  |
 | [Chasing Daylight](https://open.spotify.com/track/0SympNX0lUgXjbfUL1KO8G) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [FAME](https://open.spotify.com/album/3pF80DknR77Qb9gyd1CXM9) | 3:51 | 2021-12-27 |  |
 | [COOL](https://open.spotify.com/track/6oOIyc6GGm0V2uuIv2xOx6) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:22 | 2021-12-27 |  |
+| [Diss and Disappoint](https://open.spotify.com/track/1RXFZcTmIoG3BpYobw0eyu) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [Diss and Disappoint](https://open.spotify.com/album/7oaEeaY8WIXyHbV72oLHfk) | 2:57 | 2023-04-26 |  |
 | [Don't Believe the Things They Tell You \(They Lie\)](https://open.spotify.com/track/3UKobrVucp8j0sP8Anxqs1) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:05 | 2021-12-27 |  |
 | [Don't Look Back](https://open.spotify.com/track/21cXxyZA06qG6FrO7dsk3l) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 4:06 | 2021-12-27 |  |
 | [Drink About](https://open.spotify.com/track/5r2kpjTJlJouxpESA1xEEY) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Sad in Scandinavia](https://open.spotify.com/album/116cozWS2DlOUFwYDSCovA) | 3:02 | 2021-12-27 |  |

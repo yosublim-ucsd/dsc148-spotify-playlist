@@ -1,12 +1,12 @@
 {
   "description": "Timeless Latin pop hits through the decades! Cover: Chayanne",
-  "num_followers": 2919642,
+  "num_followers": 2920078,
   "original_name": "Latin Pop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxNDU2MiwwMDAwMDAwMGQwZTAxYTI2ZmU4ZDU0ZGNkOWMyYmZmMDk3NzgzZDZi",
+  "snapshot_id": "MTY3OTYxNDU2MiwwMDAwMDAwMGM1ZmRhNmZmMDU1NWQ3ZjM3ZjQ4M2U5YzJjYWNmMDIz",
   "tracks": [
     {
       "added_at": "2023-03-23 23:36:02",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-03-23 23:36:02",
       "album": {
+        "name": "Stop",
+        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 238160,
+      "name": "T\u00fa de Qu\u00e9 Vas",
+      "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
+    },
+    {
+      "added_at": "2023-03-23 23:36:02",
+      "album": {
         "name": "Independiente + Demos",
         "url": "https://open.spotify.com/album/3LrWQfyoO7cEc7ZGkWqHgy"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 265306,
       "name": "Fuiste T\u00fa (feat. Gaby Moreno)",
       "url": "https://open.spotify.com/track/29csiYMOfBmLmGwxmISrMy"
-    },
-    {
-      "added_at": "2023-03-23 23:36:02",
-      "album": {
-        "name": "Stop",
-        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 238160,
-      "name": "T\u00fa de Qu\u00e9 Vas",
-      "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
     },
     {
       "added_at": "2023-03-23 23:36:02",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-03-23 23:36:02",
       "album": {
+        "name": "Caraluna",
+        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
+      },
+      "artists": [
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "duration_ms": 237386,
+      "name": "Mi primer millon",
+      "url": "https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML"
+    },
+    {
+      "added_at": "2023-03-23 23:36:02",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
-    },
-    {
-      "added_at": "2023-03-23 23:36:02",
-      "album": {
-        "name": "Caraluna",
-        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
-      },
-      "artists": [
-        {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
-        }
-      ],
-      "duration_ms": 237386,
-      "name": "Mi primer millon",
-      "url": "https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML"
     },
     {
       "added_at": "2023-03-23 23:36:02",
@@ -695,26 +695,6 @@
     {
       "added_at": "2023-03-23 23:36:02",
       "album": {
-        "name": "Vente Pa' Ca (feat. Maluma)",
-        "url": "https://open.spotify.com/album/1FkaJUwfqLdQdSmRPBlw6l"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 259195,
-      "name": "Vente Pa' Ca (feat. Maluma)",
-      "url": "https://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46"
-    },
-    {
-      "added_at": "2023-03-23 23:36:02",
-      "album": {
         "name": "Tanto (Edici\u00f3n Premium)",
         "url": "https://open.spotify.com/album/7kA3hvV7UjgnA5uiUBxwlN"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 233895,
       "name": "D\u00f3nde est\u00e1 el amor (feat. Jesse & Joy)",
       "url": "https://open.spotify.com/track/0CjaLvAqN97KPVWgOJ1vbD"
+    },
+    {
+      "added_at": "2023-03-23 23:36:02",
+      "album": {
+        "name": "Vente Pa' Ca (feat. Maluma)",
+        "url": "https://open.spotify.com/album/1FkaJUwfqLdQdSmRPBlw6l"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 259195,
+      "name": "Vente Pa' Ca (feat. Maluma)",
+      "url": "https://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46"
     },
     {
       "added_at": "2023-03-23 23:36:02",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-03-23 23:36:02",
       "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 235106,
+      "name": "Fr\u00eda Como El Viento",
+      "url": "https://open.spotify.com/track/2J4qy8RyfwgXHt73cWOE6P"
+    },
+    {
+      "added_at": "2023-03-23 23:36:02",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 219520,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/2RJ1fg4qf2vgZKifTa4HgA"
-    },
-    {
-      "added_at": "2023-03-23 23:36:02",
-      "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 235106,
-      "name": "Fr\u00eda Como El Viento",
-      "url": "https://open.spotify.com/track/2J4qy8RyfwgXHt73cWOE6P"
     },
     {
       "added_at": "2023-03-23 23:36:02",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-03-23 23:36:02",
       "album": {
-        "name": "Depende",
-        "url": "https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 254266,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/5omgFpiMt1CGHjQGfkwzvz"
-    },
-    {
-      "added_at": "2023-03-23 23:36:02",
-      "album": {
         "name": "Pensamientos",
         "url": "https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 435493,
       "name": "Hasta Que Te Conoc\u00ed",
       "url": "https://open.spotify.com/track/6XLobzCdi98lFcxG3eGYNr"
+    },
+    {
+      "added_at": "2023-03-23 23:36:02",
+      "album": {
+        "name": "Depende",
+        "url": "https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 254266,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/5omgFpiMt1CGHjQGfkwzvz"
     },
     {
       "added_at": "2023-03-23 23:36:02",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-03-23 23:36:02",
       "album": {
+        "name": "Terral",
+        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 234373,
+      "name": "Pasos de cero",
+      "url": "https://open.spotify.com/track/18mmN3VrFWRi6SsSBJf6WJ"
+    },
+    {
+      "added_at": "2023-03-23 23:36:02",
+      "album": {
         "name": "Celestial",
         "url": "https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 236160,
       "name": "La Calle De Las Sirenas",
       "url": "https://open.spotify.com/track/1SVm64B4Ry7dqFSxHY8e65"
-    },
-    {
-      "added_at": "2023-03-23 23:36:02",
-      "album": {
-        "name": "Terral",
-        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 234373,
-      "name": "Pasos de cero",
-      "url": "https://open.spotify.com/track/18mmN3VrFWRi6SsSBJf6WJ"
     },
     {
       "added_at": "2023-03-23 23:36:02",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2023-03-23 23:36:02",
       "album": {
-        "name": "Hab\u00edtame Siempre (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/5HDevGeDLIZMhZKvRZLSkI"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 220066,
-      "name": "Te Perdiste Mi Amor (feat. Prince Royce)",
-      "url": "https://open.spotify.com/track/1Q8NiatGDc6YgefNwT7Jgu"
-    },
-    {
-      "added_at": "2023-03-23 23:36:02",
-      "album": {
         "name": "Un Besito M\u00e1s",
         "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
       },
@@ -1691,18 +1671,22 @@
     {
       "added_at": "2023-03-23 23:36:02",
       "album": {
-        "name": "La Historia De Magneto",
-        "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
+        "name": "Hab\u00edtame Siempre (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/5HDevGeDLIZMhZKvRZLSkI"
       },
       "artists": [
         {
-          "name": "Magneto",
-          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         }
       ],
-      "duration_ms": 265466,
-      "name": "Vuela, Vuela (Voyage, Voyage)",
-      "url": "https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp"
+      "duration_ms": 220066,
+      "name": "Te Perdiste Mi Amor (feat. Prince Royce)",
+      "url": "https://open.spotify.com/track/1Q8NiatGDc6YgefNwT7Jgu"
     },
     {
       "added_at": "2023-03-23 23:36:02",
@@ -1723,6 +1707,22 @@
     {
       "added_at": "2023-03-23 23:36:02",
       "album": {
+        "name": "La Historia De Magneto",
+        "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
+      },
+      "artists": [
+        {
+          "name": "Magneto",
+          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
+        }
+      ],
+      "duration_ms": 265466,
+      "name": "Vuela, Vuela (Voyage, Voyage)",
+      "url": "https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp"
+    },
+    {
+      "added_at": "2023-03-23 23:36:02",
+      "album": {
         "name": "Enrique Iglesias",
         "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
       },
@@ -1739,18 +1739,22 @@
     {
       "added_at": "2023-03-23 23:36:02",
       "album": {
-        "name": "Mi Tierra",
-        "url": "https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ"
+        "name": "M\u00e1s M\u00fasica + Alma + Sexo",
+        "url": "https://open.spotify.com/album/0a9o88R6EXFDtbcbdYqKD2"
       },
       "artists": [
         {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
         }
       ],
-      "duration_ms": 276600,
-      "name": "Con los A\u00f1os Que Me Quedan",
-      "url": "https://open.spotify.com/track/5UPd6Gyj4aoaTUTlpWSak5"
+      "duration_ms": 216613,
+      "name": "Lo Mejor de Mi Vida Eres T\u00fa (feat. Natalia Jim\u00e9nez)",
+      "url": "https://open.spotify.com/track/2uhaDVmfG7pT94VO5jl2r4"
     }
   ],
   "unique_name": "Latin Pop Classics",

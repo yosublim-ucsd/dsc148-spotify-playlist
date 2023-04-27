@@ -9877,6 +9877,24 @@
     },
     {
       "album": {
+        "name": "Little Girl Gone",
+        "url": "https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I"
+      },
+      "artists": [
+        {
+          "name": "CHINCHILLA",
+          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188596,
+      "name": "Little Girl Gone",
+      "url": "https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp"
+    },
+    {
+      "album": {
         "name": "LLYLM",
         "url": "https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm"
       },
@@ -13739,7 +13757,7 @@
       "artists": [
         {
           "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+          "url": "https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF"
         }
       ],
       "date_added": "2023-01-04",

@@ -4,7 +4,7 @@
 
 > De lunes a domingo, descubre un tema elegido por tus editores de Spotify.
 
-67 songs - 3 hr 52 min
+68 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Café con Miel](https://open.spotify.com/track/5JeonPxXiD7yTHklwxNwiZ) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Café con Miel](https://open.spotify.com/album/0ByY3EdpKPHzI5AaeUarUl) | 3:15 | 2023-04-14 |  |
 | [capturas de pantalla](https://open.spotify.com/track/6HnW2csrZ7MKRoqnVJpjHR) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [capturas de pantalla](https://open.spotify.com/album/0Tq8ZFYOAcHmAnnKn3kBNL) | 3:26 | 2023-03-19 |  |
 | [Caña Brava](https://open.spotify.com/track/0hy6YsimguNescPjjijro0) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [NIKOLA](https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk) | [Caña Brava](https://open.spotify.com/album/02aqlW1aBYEyhEC4I6lW42) | 3:01 | 2023-03-19 |  |
+| [Como Si Nada](https://open.spotify.com/track/3qeEnBDyql3BF8ZRo1fbSU) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Como Si Nada](https://open.spotify.com/album/3gaqW9uYFzUf8Ah2tggT5K) | 3:30 | 2023-04-26 |  |
 | [Confuso](https://open.spotify.com/track/2Rl03TiPufCJyuv7v7DqAz) | [Dawn Haze](https://open.spotify.com/artist/32JSwTOeaGSHi268j8f73U) | [Confuso](https://open.spotify.com/album/2QuwIFRO0WUW6NQu2kF0I3) | 3:18 | 2023-03-19 | 2023-04-19 |
 | [Confuso](https://open.spotify.com/track/7zYdwyOOjJdfk0mfz1yWA4) | [Dawn Haze](https://open.spotify.com/artist/32JSwTOeaGSHi268j8f73U) | [Confuso](https://open.spotify.com/album/4U7ZiteMO7A6zIVlFJA8fG) | 3:18 | 2023-04-10 |  |
 | [cosquillas](https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [FOMO](https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q) | 2:49 | 2023-03-19 | 2023-04-15 |
@@ -37,7 +38,7 @@
 | [El Cardón](https://open.spotify.com/track/2L5z9XcA1PCxUOJ3W24tnX) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Bungalo Dub](https://open.spotify.com/artist/69JPOTvYfcr3R57sMZdJU0), [Bhajan](https://open.spotify.com/artist/03gjTMhvuxszNbXMxwYJmv) | [El Cardón](https://open.spotify.com/album/69EuMRSnKU8THC0V3WZ4rz) | 3:27 | 2023-03-19 |  |
 | [En Todas Partes](https://open.spotify.com/track/3e0oTmzpggchmvDpUgEgbL) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo), [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [En Todas Partes](https://open.spotify.com/album/5jV6AmV4Gpg8GSe3WhSjof) | 3:37 | 2023-03-19 |  |
 | [Entremundos](https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Entremundos](https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X) | 3:25 | 2023-03-19 | 2023-04-13 |
-| [Estero](https://open.spotify.com/track/424e07rT5aQ3e3zoS6c4fF) | [Renee Mooi](https://open.spotify.com/artist/6pDpSqJDuF6J6jxfAz4sTB) | [Estero](https://open.spotify.com/album/1KwYSPl2UNEQfdSlFZk5gJ) | 3:44 | 2023-03-19 |  |
+| [Estero](https://open.spotify.com/track/424e07rT5aQ3e3zoS6c4fF) | [Renee Mooi](https://open.spotify.com/artist/6pDpSqJDuF6J6jxfAz4sTB) | [Estero](https://open.spotify.com/album/1KwYSPl2UNEQfdSlFZk5gJ) | 3:44 | 2023-03-19 | 2023-04-27 |
 | [Fin del Mundo](https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Fin del Mundo](https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O) | 5:19 | 2023-04-18 |  |
 | [Flama](https://open.spotify.com/track/3qPl0LBkxkpC8dLBs8oxug) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Mayki Graff](https://open.spotify.com/artist/7EiFezQrfthN6y5Aiiw0Q5) | [Flama](https://open.spotify.com/album/1NVzPKVN5FSqANSjAewanV) | 2:22 | 2023-03-19 |  |
 | [Fotonovela](https://open.spotify.com/track/1SoR39CY4CbGknDHwqxAvV) | [Mœnia](https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Fotonovela](https://open.spotify.com/album/04vG2wy1arlZRS1QmhIxUQ) | 4:42 | 2023-03-19 | 2023-04-22 |

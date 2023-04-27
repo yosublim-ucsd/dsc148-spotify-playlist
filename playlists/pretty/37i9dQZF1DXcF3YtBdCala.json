@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Sandra Echeverr\u00eda en portada. ",
-  "num_followers": 126045,
+  "num_followers": 126070,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA1NjgwMCwwMDAwMDAwMGI1ODAwZTYyM2ZiYzU4NWRlZDg3MDJiZGUzZTFhYTFl",
+  "snapshot_id": "MTY4MjA1NjgwMCwwMDAwMDAwMGE0ZjQ1ZmI1ZGQ2OTZiOWY3Y2RlNjBlMzliZDdlMmYz",
   "tracks": [
     {
       "added_at": "2023-04-21 06:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
+        "name": "Me Pase de Tragos",
+        "url": "https://open.spotify.com/album/6hA1t3VClQcV24hLiQ0zQn"
+      },
+      "artists": [
+        {
+          "name": "Alexis Escobar",
+          "url": "https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "Me Pase de Tragos",
+      "url": "https://open.spotify.com/track/5ZGfTN3AjHosH5O8bpjyOf"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
         "name": "Te He Prometido",
         "url": "https://open.spotify.com/album/5akcpTEFuh8Ey7laB8c3TR"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 229030,
       "name": "Fue un Placer Amarte",
       "url": "https://open.spotify.com/track/1GdDYZX7Woh8hxkNVGe6vQ"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
-        "name": "Me Pase de Tragos",
-        "url": "https://open.spotify.com/album/6hA1t3VClQcV24hLiQ0zQn"
-      },
-      "artists": [
-        {
-          "name": "Alexis Escobar",
-          "url": "https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "Me Pase de Tragos",
-      "url": "https://open.spotify.com/track/5ZGfTN3AjHosH5O8bpjyOf"
     },
     {
       "added_at": "2023-04-21 06:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "Peca de Bonita",
-        "url": "https://open.spotify.com/album/7bHrAZIx7NRTAh2dLmEPqW"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 147093,
-      "name": "Peca de Bonita",
-      "url": "https://open.spotify.com/track/1ZcGy0Rdj6boMmWAUoqed9"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
         "name": "No Copio de Nada",
         "url": "https://open.spotify.com/album/6i0OPQJveV0dkMlOb3jQWF"
       },
@@ -1107,34 +1091,18 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "As\u00ed Nom\u00e1s",
-        "url": "https://open.spotify.com/album/1DJ1t2VC98iToO2Xw0cIPy"
+        "name": "Peca de Bonita",
+        "url": "https://open.spotify.com/album/7bHrAZIx7NRTAh2dLmEPqW"
       },
       "artists": [
         {
-          "name": "Nora Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
         }
       ],
-      "duration_ms": 191028,
-      "name": "As\u00ed Nom\u00e1s",
-      "url": "https://open.spotify.com/track/56J7bkvuNDfs2e9YGbI01E"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
-        "name": "Amor Ilegal",
-        "url": "https://open.spotify.com/album/65WCj2K3NGk7Qe63CKlvUW"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 170253,
-      "name": "Amor Ilegal",
-      "url": "https://open.spotify.com/track/4RBH4sNzQen0YqoIhqw7Eg"
+      "duration_ms": 147093,
+      "name": "Peca de Bonita",
+      "url": "https://open.spotify.com/track/1ZcGy0Rdj6boMmWAUoqed9"
     },
     {
       "added_at": "2023-04-21 06:00:00",
@@ -1155,6 +1123,38 @@
       "duration_ms": 233373,
       "name": "Paloma Blanca",
       "url": "https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "Amor Ilegal",
+        "url": "https://open.spotify.com/album/65WCj2K3NGk7Qe63CKlvUW"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 170253,
+      "name": "Amor Ilegal",
+      "url": "https://open.spotify.com/track/4RBH4sNzQen0YqoIhqw7Eg"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "As\u00ed Nom\u00e1s",
+        "url": "https://open.spotify.com/album/1DJ1t2VC98iToO2Xw0cIPy"
+      },
+      "artists": [
+        {
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+        }
+      ],
+      "duration_ms": 191028,
+      "name": "As\u00ed Nom\u00e1s",
+      "url": "https://open.spotify.com/track/56J7bkvuNDfs2e9YGbI01E"
     },
     {
       "added_at": "2023-04-21 06:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/4ygevNEHvsankgq9DTSMba"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 175306,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/5qU3ueDwaTS5lFXgKGh1xQ"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
         "name": "Los Besos Jam\u00e1s",
         "url": "https://open.spotify.com/album/1ZvZDdo2wp8MnzLUkocjgM"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 208106,
       "name": "Todo Me Recuerda A Ti",
       "url": "https://open.spotify.com/track/0ooSm6DWVb708WQbOy99De"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/4ygevNEHvsankgq9DTSMba"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 175306,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/5qU3ueDwaTS5lFXgKGh1xQ"
     },
     {
       "added_at": "2023-04-21 06:00:00",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "No Mereces Que Te Quiera",
-        "url": "https://open.spotify.com/album/0CVsGdZD4eXqiONcjibWBg"
+        "name": "Buscando el Olvido",
+        "url": "https://open.spotify.com/album/49Dk6xhj6vzfkl71ngoMZJ"
       },
       "artists": [
         {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
         }
       ],
-      "duration_ms": 198893,
-      "name": "No Mereces Que Te Quiera",
-      "url": "https://open.spotify.com/track/6xtNRDtb45QqLNHNPYjw6f"
+      "duration_ms": 152487,
+      "name": "Buscando el Olvido",
+      "url": "https://open.spotify.com/track/56aRaS11MbGV9Co9mOKjdP"
     }
   ],
   "unique_name": "Mariachi Joven",

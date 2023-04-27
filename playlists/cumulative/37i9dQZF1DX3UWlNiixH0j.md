@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: TENDOUJI
 
-420 songs - 1 day 2 hr 29 min
+421 songs - 1 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [she left](https://open.spotify.com/track/3JxybPHJrgfuF2C7aYHsrb) | [elsie sue](https://open.spotify.com/artist/7t7QD0bzhYdW6POYrkeuRI) | [she left](https://open.spotify.com/album/6GzzKcYJRwROX6cWFVNMOB) | 4:41 | 2023-01-12 | 2023-02-08 |
 | [Shoes](https://open.spotify.com/track/0qerrB7fpmT1O2GkyHmDDg) | [Thiiird Place](https://open.spotify.com/artist/1p9jWKYjBCIfRSlaO7Ogxk) | [Shoes](https://open.spotify.com/album/0SjNCfSX1tskAsTPW2TZA7) | 2:51 | 2023-01-24 | 2023-02-22 |
 | [Shunrai](https://open.spotify.com/track/6QIyB1933cJ6VBt50bzidT) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 3:39 | 2023-03-30 | 2023-04-05 |
+| [Siesta](https://open.spotify.com/track/74J0ffff6Hp3fYCkp3ceKW) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Siesta](https://open.spotify.com/album/4q5mMGjlcMUUhlGd4RWDp3) | 3:11 | 2023-04-25 |  |
 | [sinister](https://open.spotify.com/track/7tR03ofElFzll0dVIgnIAm) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [sinister](https://open.spotify.com/album/2sYMWQ3gsmhz8waGwYpGCq) | 3:38 | 2023-04-11 |  |
 | [Slow Down](https://open.spotify.com/track/3KOx6rcK8hPdbbqjmH6Msj) | [Sept.](https://open.spotify.com/artist/5vRnwNYjntZajB1Qx4DCXw) | [Slow Down](https://open.spotify.com/album/3bknmrIE9vb5dP4Zb6y5Hd) | 4:30 | 2023-01-12 | 2023-01-18 |
 | [So tough & So tough](https://open.spotify.com/track/36SZggM1TD3tlZuUa6relW) | [ニーハオ!!!!](https://open.spotify.com/artist/1B0p5xXIIfJNKC5rzbN3To) | [So tough & So tough](https://open.spotify.com/album/5kT1YYk3YMGdzJbtmXOsGy) | 2:07 | 2023-02-07 | 2023-03-08 |
@@ -316,7 +317,7 @@
 | [ゆう5時](https://open.spotify.com/track/2mADSGp41V9kN2AmM4HRbY) | [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5), [xiangyu](https://open.spotify.com/artist/4YHFvbGOXo06pcFXOQszkB) | [symphil](https://open.spotify.com/album/7nLTJVDS7ovhfswVOa9S4X) | 2:54 | 2023-03-21 | 2023-04-24 |
 | [カウントダウン・ラグ](https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [インナーダイアログ](https://open.spotify.com/album/1jmlZ6JfnYsgzi6WGnYXmh) | 5:25 | 2023-04-18 | 2023-04-20 |
 | [サイダーのように言葉が湧き上がる](https://open.spotify.com/track/70rIBnhQtO2ON2RX9GGd6H) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [サイダーのように言葉が湧き上がる](https://open.spotify.com/album/6Hjzg5YyqGatZ3M4sCWKRx) | 3:26 | 2023-03-28 |  |
-| [シエスタ](https://open.spotify.com/track/0cRRJ7O7fEC0mohyTrM3R1) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [シエスタ](https://open.spotify.com/album/0JqjF7QJ6758cXozWthn98) | 3:11 | 2023-04-25 |  |
+| [シエスタ](https://open.spotify.com/track/0cRRJ7O7fEC0mohyTrM3R1) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [シエスタ](https://open.spotify.com/album/0JqjF7QJ6758cXozWthn98) | 3:11 | 2023-04-25 | 2023-04-27 |
 | [シニスター](https://open.spotify.com/track/3LQgY2kGn9BYf8E7WIbW6Q) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [シニスター](https://open.spotify.com/album/3en4RwQh65pS5GtV9cZCcn) | 3:38 | 2023-04-11 | 2023-04-13 |
 | [シャカン・ナ・ソン・グー](https://open.spotify.com/track/6VBCobSYJlE0GOzhiubTrI) | [森永陽実](https://open.spotify.com/artist/0JuRTfLYC3IG0mGokEksFh) | [シャカン・ナ・ソン・グー](https://open.spotify.com/album/4jPZiH8toq8PxckfqVZ4um) | 3:38 | 2023-04-11 |  |
 | [シャララ](https://open.spotify.com/track/0UdjpCVPsEqHWiE2DQWErc) | [マイティマウンテンズ](https://open.spotify.com/artist/31voAK1zx8UMpcLy8mbLAW) | [さ・な・ぎ](https://open.spotify.com/album/4QoMRfMiRshJWzucSTLle8) | 5:28 | 2023-03-21 | 2023-03-23 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-1,253 songs - 2 day 20 hr 47 min
+1,254 songs - 2 day 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -797,7 +797,7 @@
 | [On BS](https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:21 | 2022-11-05 | 2022-11-21 |
 | [On Time \(with John Legend\)](https://open.spotify.com/track/0YFqKxV9uNu6LUeYkLOKRS) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 2:48 | 2022-12-03 | 2022-12-05 |
 | [On Time \(with John Legend\)](https://open.spotify.com/track/2AJ9m2GYvegfJul4GdERER) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 2:48 | 2022-12-04 | 2022-12-09 |
-| [One](https://open.spotify.com/track/43y4bvWHydIDn1DV5VqZRr) | [DEJA](https://open.spotify.com/artist/42VmdS8ipHlJdnjfeT3Hnp) | [One](https://open.spotify.com/album/2QK8nPSMDqX4GR9fbYhqpy) | 2:41 | 2023-04-17 |  |
+| [One](https://open.spotify.com/track/43y4bvWHydIDn1DV5VqZRr) | [DEJA](https://open.spotify.com/artist/42VmdS8ipHlJdnjfeT3Hnp) | [One](https://open.spotify.com/album/2QK8nPSMDqX4GR9fbYhqpy) | 2:41 | 2023-04-17 | 2023-04-27 |
 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 | 2022-06-16 | 2022-08-17 |
 | [One Love](https://open.spotify.com/track/1eTADFjfcohRlhkPVqou7U) | [Haki](https://open.spotify.com/artist/0GgsByUesLksV7nP8Zlomi) | [Undrabarnið](https://open.spotify.com/album/7MslzMzNRYgE54paRQ0h8N) | 2:47 | 2021-10-03 | 2021-10-04 |
 | [ONE OF ME \(feat\. Elton John\)](https://open.spotify.com/track/3JR2RztQcOjUQGQSybxDIO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:41 | 2021-09-19 | 2021-09-20 |
@@ -1168,6 +1168,7 @@
 | [Who's There?](https://open.spotify.com/track/21hyZSpif6WN91ayidqdE9) | [Spooky Night](https://open.spotify.com/artist/5UmKC7zMZ7FW2s4EBVDr6N) | [Halloween Night in the Forest](https://open.spotify.com/album/7K6uBf6GdWusWtFZ77gABw) | 3:00 | 2022-11-01 | 2022-11-03 |
 | [Whoopty](https://open.spotify.com/track/1t9WgS8FN0534tLBRwbaxO) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Loyalty Over Royalty](https://open.spotify.com/album/0kHRftVXaiRHgQdtviml0G) | 2:03 | 2021-03-27\* | 2021-03-29 |
 | [Winna \(feat\. Alex Marley\)](https://open.spotify.com/track/2qjLsL5PVVBNbA9Wxijpkz) | [MB Salone](https://open.spotify.com/artist/3Evb8NH0MEoiJp7JFGsSua), [Alex Marley](https://open.spotify.com/artist/6GaG6FUtJNebXPwjcOCZxz) | [Winna \(feat\. Alex Marley\)](https://open.spotify.com/album/4YOGsrFwzjEyWAS852KihX) | 2:23 | 2023-03-27 | 2023-04-09 |
+| [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 | 2023-04-26 |  |
 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-09-14 | 2022-09-16 |
 | [WITHOUT YOU](https://open.spotify.com/track/27OeeYzk6klgBh83TSvGMA) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE \(SAVAGE\)](https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst) | 2:41 | 2021-03-27\* | 2021-05-18 |
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2021-08-12 | 2022-05-05 |

@@ -4,7 +4,7 @@
 
 > A collection of R&amp;B jams and viral trends feat Rihanna, Mary J\. Blige &amp; Diddy ! Cover: Coco Jones
 
-122 songs - 7 hr 3 min
+123 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Sex In The Porsche \(and PARTYNEXTDOOR\)](https://open.spotify.com/track/33RTe6MAxEno83JSdpObQr) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Sex In The Porsche \(and PARTYNEXTDOOR\)](https://open.spotify.com/album/0uHHoKJvLxf4gGRhyTUpjy) | 3:33 | 2022-12-16 | 2023-02-01 |
 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 | 2022-10-31 | 2022-12-20 |
 | [Silver Bells](https://open.spotify.com/track/4llYiT4hqVZAshVmEAmc1W) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 2:56 | 2022-12-19 | 2023-02-01 |
+| [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-26 |  |
 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2022-12-16 |  |
 | [So Be It \(with Summer Walker\) \- Remix](https://open.spotify.com/track/2IkJZzXP6fg0A7WOpp1xAE) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [The Hurtbook \(Homegirl Pack\)](https://open.spotify.com/album/5kljTEylYVvyu90Qnw6JIB) | 3:13 | 2023-03-21 |  |
 | [Something New](https://open.spotify.com/track/1z15fhSgN6U2k4gqA1Zu4j) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Something New](https://open.spotify.com/album/7ql438zy2icDWhxBHGOieI) | 3:32 | 2022-06-09 | 2022-09-25 |

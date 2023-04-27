@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Paolo Sandejas \(Phillipines\)
 
-739 songs - 1 day 20 hr 20 min
+740 songs - 1 day 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [A Little of Autumn](https://open.spotify.com/track/3QLpDswqTh1i8uxHPDFlQR) | [The Whisperer](https://open.spotify.com/artist/6KvQwU4UxItDsPSIYqVOZz) | [A Little of Autumn](https://open.spotify.com/album/6LgekICVsAfC9GV5rIFKPE) | 3:42 | 2022-06-02 | 2022-07-15 |
 | [a luv song](https://open.spotify.com/track/0V3P6jdD0vxBrsBFErn1Xg) | [Barney Sku](https://open.spotify.com/artist/77ziiu02mos4YrZ4mpWO0v), [friexza](https://open.spotify.com/artist/3DGKUbhwIE6KEIbpJhp5Cq) | [a luv song](https://open.spotify.com/album/3ebClLURIBXy425TuC7Gbo) | 3:43 | 2022-09-22 | 2022-10-07 |
 | [A Place to Belong](https://open.spotify.com/track/4lun8QvR4sKXK1undQgIr7) | [Rifan Kalbuadi](https://open.spotify.com/artist/6dO5K9GKFs1yW4fHZLI3ys) | [A Place to Belong](https://open.spotify.com/album/14EI3GUx9auJPVLWh612jE) | 3:58 | 2022-12-15 | 2023-01-27 |
-| [A Thousand Miles](https://open.spotify.com/track/6TtYOU0GiN4PkN9oCvMvLx) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [A Thousand Miles](https://open.spotify.com/album/3E1GIabiOGaJDlHkX0iX4D) | 3:38 | 2023-04-13 |  |
+| [A Thousand Miles](https://open.spotify.com/track/6TtYOU0GiN4PkN9oCvMvLx) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [A Thousand Miles](https://open.spotify.com/album/3E1GIabiOGaJDlHkX0iX4D) | 3:38 | 2023-04-13 | 2023-04-27 |
 | [A.Y.A](https://open.spotify.com/track/69JDZpQd5oHd0BVUh0RDCO) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [A.Y.A](https://open.spotify.com/album/6Ay96Z1STLD5A6pXo9Qudu) | 3:40 | 2023-02-16 | 2023-04-14 |
 | [A380](https://open.spotify.com/track/3To0tYY3XbAHcLFZPPmGSJ) | [COPAK](https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [A380](https://open.spotify.com/album/0fmZgp45c7GHciuETUBiEN) | 3:38 | 2023-03-23 |  |
 | [Abeokuta](https://open.spotify.com/track/3nqujATHQsyEg104eXcaNI) | [Ki!](https://open.spotify.com/artist/68ZbJ6NBdeGlDRxv3jM0DP) | [The Boy from Haeundae Beach](https://open.spotify.com/album/4xcpRLcCpNEcAzPyR5GIHO) | 4:13 | 2022-11-17 | 2023-01-20 |
@@ -158,6 +158,7 @@
 | [DBTWO!](https://open.spotify.com/track/3tGzMXFs9RWxcCKiZQxiC6) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [DON'T BLAME THE WILD ONE!](https://open.spotify.com/album/4U7IlPTJAlT5n1BJX6lCgI) | 3:42 | 2022-07-28 | 2022-09-02 |
 | [Dead \(feat\. Young Cocoa\)](https://open.spotify.com/track/62z9xqVNOKn3yc7K3wbmxa) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5), [Young Cocoa](https://open.spotify.com/artist/3rdJ1bFvwgZw2XZkimg5dW) | [Violets Aren't Blue](https://open.spotify.com/album/5ISmrwNCl0hRBOvuz50Y4p) | 4:13 | 2022-07-07 | 2022-09-16 |
 | [deal with it](https://open.spotify.com/track/1ViPzDtNBfxH5GAwTNCool) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [FFS](https://open.spotify.com/album/0pC7Tjq0HvwjgTG8omWU4q) | 2:19 | 2022-10-28 | 2022-11-18 |
+| [dear abbey](https://open.spotify.com/track/6lB7gr1uRPWAV4UN6OgseI) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [dear abbey](https://open.spotify.com/album/3OVI7GQjwC5CsXpyjE1Hn9) | 3:54 | 2023-04-20 |  |
 | [December](https://open.spotify.com/track/3RCFh2ThOaWvDTiMLetFrQ) | [Dialog Senja](https://open.spotify.com/artist/7hzltD6Z1nipi3asl645sh) | [December](https://open.spotify.com/album/5WcH7hKHsz8C5rIjTa11ZP) | 3:48 | 2023-04-20 |  |
 | [Deep](https://open.spotify.com/track/7pirPXzUp4hWprqqnSDL90) | [Plvmb](https://open.spotify.com/artist/4Tnim5uIGi5fXElf6v5uL2) | [Deep](https://open.spotify.com/album/26zBc38mso3uDF5er8el3d) | 4:09 | 2023-02-23 | 2023-04-09 |
 | [deep breath in](https://open.spotify.com/track/2rObMC4F1tSewQPn87RUi8) | [cornelia](https://open.spotify.com/artist/6gDLZVjPZvyKYHYujcrNdO) | [deep breath in](https://open.spotify.com/album/5kAlXseC7IrX2M5MMWrQdV) | 3:23 | 2022-08-18 | 2022-08-26 |

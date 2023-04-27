@@ -3635,28 +3635,6 @@
     },
     {
       "album": {
-        "name": "A Ballad Moment",
-        "url": "https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl"
-      },
-      "artists": [
-        {
-          "name": "Carl Winther",
-          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
-        },
-        {
-          "name": "Karl-Martin Almqvist",
-          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
-        }
-      ],
-      "date_added": "2022-06-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 291439,
-      "name": "Old Folks",
-      "url": "https://open.spotify.com/track/0xnWsv0kNVeONjhiFvEyWw"
-    },
-    {
-      "album": {
         "name": "Old Folks",
         "url": "https://open.spotify.com/album/6IN9pyVseQooCpSgOYO25O"
       },
@@ -3676,6 +3654,28 @@
       "duration_ms": 291439,
       "name": "Old Folks",
       "url": "https://open.spotify.com/track/1d2GDKkf9zUtm3uVpht4iK"
+    },
+    {
+      "album": {
+        "name": "A Ballad Moment",
+        "url": "https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl"
+      },
+      "artists": [
+        {
+          "name": "Karl-Martin Almqvist",
+          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291439,
+      "name": "Old Folks",
+      "url": "https://open.spotify.com/track/0xnWsv0kNVeONjhiFvEyWw"
     },
     {
       "album": {

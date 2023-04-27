@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and energetic music that helps you stay motivated.",
-  "num_followers": 6817754,
+  "num_followers": 6819890,
   "original_name": "Motivation Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAyODAwMCwwMDAwMDAwMDhhOWI2ZTY4ZmIxNTA4ZGNiZDA4NDQ3MzZmMGQ2MWQ0",
+  "snapshot_id": "MTY4MjAyODAwMCwwMDAwMDAwMDA4ODA4ZTliMTZkYmMxN2JkZDczOWM5ZWIyOWQ2YTFm",
   "tracks": [
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Lavender Haze (Felix Jaehn Remix)",
-        "url": "https://open.spotify.com/album/5h060Rb0cfAGuny0L51zqV"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 171562,
-      "name": "Lavender Haze - Felix Jaehn Remix",
-      "url": "https://open.spotify.com/track/2M4tVhRXucLE9M3STv21Yi"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Wings (I Won't Let You Down)",
         "url": "https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 171904,
       "name": "Wings (I Won't Let You Down)",
       "url": "https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Lavender Haze (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/5h060Rb0cfAGuny0L51zqV"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 171562,
+      "name": "Lavender Haze - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/2M4tVhRXucLE9M3STv21Yi"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Take Me Away",
-        "url": "https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        }
-      ],
-      "duration_ms": 179528,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 129479,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        }
+      ],
+      "duration_ms": 179528,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "DARK MATTER",
+        "url": "https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 174044,
+      "name": "P.I.M.P. - HEDEGAARD Remix",
+      "url": "https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "You're Free",
         "url": "https://open.spotify.com/album/3kufQdX9NuDXE0QxT1eDoM"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 167298,
       "name": "You're Free",
       "url": "https://open.spotify.com/track/0KF938333oCvIXDxe72K44"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "DARK MATTER",
-        "url": "https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 174044,
-      "name": "P.I.M.P. - HEDEGAARD Remix",
-      "url": "https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1987,6 +1987,58 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "Broken (Lost Frequencies Cut)",
+        "url": "https://open.spotify.com/album/2aKRgqvnqmAJ0NxZ6VD9Jc"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Isak Danielson",
+          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
+        }
+      ],
+      "duration_ms": 172790,
+      "name": "Broken - Lost Frequencies Cut",
+      "url": "https://open.spotify.com/track/1C1zuA0hSfyNYFOTUddCzO"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "One By One",
+        "url": "https://open.spotify.com/album/21vWD0Q7nVEcl3Unv6Mjm5"
+      },
+      "artists": [
+        {
+          "name": "Club Soda",
+          "url": "https://open.spotify.com/artist/1sQ1gegnvsC0r1OVZHMq5r"
+        }
+      ],
+      "duration_ms": 138095,
+      "name": "One By One - Radio Edit",
+      "url": "https://open.spotify.com/track/6kCvQVXRjVmbtZ4k76s4c4"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "1x1",
+        "url": "https://open.spotify.com/album/4Q2e5JRxMvRIrdeNWY7Bp2"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 139435,
+      "name": "1x1",
+      "url": "https://open.spotify.com/track/1afXT2ntjBUlydAFZ3db66"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "Love We Lost (with R3HAB)",
         "url": "https://open.spotify.com/album/2IlpXQUD25LyrLQ5anXjZG"
       },
@@ -2011,22 +2063,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "1x1",
-        "url": "https://open.spotify.com/album/4Q2e5JRxMvRIrdeNWY7Bp2"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 139435,
-      "name": "1x1",
-      "url": "https://open.spotify.com/track/1afXT2ntjBUlydAFZ3db66"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Belters Only",
         "url": "https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD"
       },
@@ -2039,22 +2075,6 @@
       "duration_ms": 150991,
       "name": "I Will Survive",
       "url": "https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "One By One",
-        "url": "https://open.spotify.com/album/21vWD0Q7nVEcl3Unv6Mjm5"
-      },
-      "artists": [
-        {
-          "name": "Club Soda",
-          "url": "https://open.spotify.com/artist/1sQ1gegnvsC0r1OVZHMq5r"
-        }
-      ],
-      "duration_ms": 138095,
-      "name": "One By One - Radio Edit",
-      "url": "https://open.spotify.com/track/6kCvQVXRjVmbtZ4k76s4c4"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -2099,26 +2119,6 @@
       "duration_ms": 146756,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/39C3SOi6UMD9rHeXAQPNa9"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/3HS2cRx6K0TpmTDkBPiykk"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "DJs From Mars",
-          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
-        }
-      ],
-      "duration_ms": 159406,
-      "name": "Killing Me Softly",
-      "url": "https://open.spotify.com/track/3LL8dZ33Gd7u7DFrkqPfo3"
     }
   ],
   "unique_name": "Motivation Mix",

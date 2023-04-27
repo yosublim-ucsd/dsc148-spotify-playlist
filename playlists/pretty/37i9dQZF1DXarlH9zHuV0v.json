@@ -1,12 +1,12 @@
 {
   "description": "A playlist of spooky songs to get you ready for fright night!",
-  "num_followers": 233812,
+  "num_followers": 233794,
   "original_name": "Ultimate Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3MDYzMzM3MCwwMDAwMDAwMDY4Y2JlZTc1OGY1ZDgwYjEzODljMmVjYmQwYjZhZDc1",
+  "snapshot_id": "MTU3MDYzMzM3MCwwMDAwMDAwMDRjZjZiZjE1MGE2OTA3NjE5NjE4ZTVmZjg2NmQ1NTYx",
   "tracks": [
     {
       "added_at": "2019-10-09 15:02:50",
@@ -143,22 +143,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 193143,
-      "name": "bury a friend",
-      "url": "https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 229573,
       "name": "Take What You Want (feat. Ozzy Osbourne & Travis Scott)",
       "url": "https://open.spotify.com/track/7CZyCXKG6d5ALeq41sLzbw"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 193143,
+      "name": "bury a friend",
+      "url": "https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -607,22 +607,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/7xbWtTByfdMWFfxXmeFFl0"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 209546,
-      "name": "Hungry Like the Wolf",
-      "url": "https://open.spotify.com/track/2qeESyQyH7MRHCBotCQsNq"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "The Jack 2 Pack (The Nightmare Before Christmas)",
         "url": "https://open.spotify.com/album/7xubspY1zmyTduYWnkGNxT"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 202333,
       "name": "This is Halloween - Pop Version",
       "url": "https://open.spotify.com/track/2KUL1Ix9grxAWvIAft9EWL"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/7xbWtTByfdMWFfxXmeFFl0"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 209546,
+      "name": "Hungry Like the Wolf",
+      "url": "https://open.spotify.com/track/2qeESyQyH7MRHCBotCQsNq"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -851,22 +851,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "OutRun",
-        "url": "https://open.spotify.com/album/3euRfc09m6LRXwplFPYtqh"
-      },
-      "artists": [
-        {
-          "name": "Kavinsky",
-          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
-        }
-      ],
-      "duration_ms": 175653,
-      "name": "Rampage",
-      "url": "https://open.spotify.com/track/6gRAOJYu1jQsNgMlrrudT9"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "The Best Of Edgar Winter",
         "url": "https://open.spotify.com/album/6knWE50fnmU6X50X7QGfQY"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 285600,
       "name": "Frankenstein",
       "url": "https://open.spotify.com/track/4aK0vJsPXFsFdBUh8hPaDT"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "OutRun",
+        "url": "https://open.spotify.com/album/3euRfc09m6LRXwplFPYtqh"
+      },
+      "artists": [
+        {
+          "name": "Kavinsky",
+          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
+        }
+      ],
+      "duration_ms": 175653,
+      "name": "Rampage",
+      "url": "https://open.spotify.com/track/6gRAOJYu1jQsNgMlrrudT9"
     },
     {
       "added_at": "2019-10-09 15:02:50",

@@ -1,12 +1,12 @@
 {
   "description": "A decade full of 00s country hits! Cover: Kenny Chesney",
-  "num_followers": 659957,
+  "num_followers": 660700,
   "original_name": "2000s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgwNjM5MCwwMDAwMDAwMDRkMzA5ZjA3OGE1YzExZWM2OGFmMTVjNmUxODFmODE1",
+  "snapshot_id": "MTY3ODgwNjM5MCwwMDAwMDAwMDE1NzRmYTlhNWUxYWQxODNhZWMwM2NhNjAwMjRiZjhk",
   "tracks": [
     {
       "added_at": "2022-07-24 22:45:48",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235266,
-      "name": "Love Story",
-      "url": "https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt"
-    },
-    {
-      "added_at": "2022-07-24 22:45:48",
-      "album": {
         "name": "Dierks Bentley",
         "url": "https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 260826,
       "name": "What Was I Thinkin'",
       "url": "https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8"
+    },
+    {
+      "added_at": "2022-07-24 22:45:48",
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235266,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/2QBJCHNMYQC1cyhSXW0ygV"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 242733,
-      "name": "Drive (For Daddy Gene)",
-      "url": "https://open.spotify.com/track/1FV374EPG5CrjdIbIMLkcv"
-    },
-    {
-      "added_at": "2022-07-24 22:45:48",
-      "album": {
         "name": "I Hope You Dance",
         "url": "https://open.spotify.com/album/5NwzdF5qHEtXT6SepzhWJv"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 294533,
       "name": "I Hope You Dance",
       "url": "https://open.spotify.com/track/65B1tEOv5W294uCKbmEcFV"
+    },
+    {
+      "added_at": "2022-07-24 22:45:48",
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/2QBJCHNMYQC1cyhSXW0ygV"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "Drive (For Daddy Gene)",
+      "url": "https://open.spotify.com/track/1FV374EPG5CrjdIbIMLkcv"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "Down The Road I Go",
-        "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 284173,
-      "name": "Modern Day Bonnie and Clyde",
-      "url": "https://open.spotify.com/track/58rdbCe3SBJuJeWEJa8Htm"
-    },
-    {
-      "added_at": "2022-07-24 22:45:48",
-      "album": {
         "name": "Justin Moore",
         "url": "https://open.spotify.com/album/7yI8ppmq1tmqF09Qbi1tcj"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 218853,
       "name": "Small Town USA",
       "url": "https://open.spotify.com/track/5pyB5WEAEwqwl18UaBLeBl"
+    },
+    {
+      "added_at": "2022-07-24 22:45:48",
+      "album": {
+        "name": "Down The Road I Go",
+        "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 284173,
+      "name": "Modern Day Bonnie and Clyde",
+      "url": "https://open.spotify.com/track/58rdbCe3SBJuJeWEJa8Htm"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "Some People Change",
-        "url": "https://open.spotify.com/album/4VnDYciDlyoi7Y7E5K1l9m"
-      },
-      "artists": [
-        {
-          "name": "Montgomery Gentry",
-          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
-        }
-      ],
-      "duration_ms": 196706,
-      "name": "Lucky Man",
-      "url": "https://open.spotify.com/track/4GiXBCUF7H6YfNQsnBRIzl"
-    },
-    {
-      "added_at": "2022-07-24 22:45:48",
-      "album": {
         "name": "When The Sun Goes Down",
         "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 302666,
       "name": "There Goes My Life",
       "url": "https://open.spotify.com/track/1CjQCQsl9FDb3WhjGcFOzG"
+    },
+    {
+      "added_at": "2022-07-24 22:45:48",
+      "album": {
+        "name": "Some People Change",
+        "url": "https://open.spotify.com/album/4VnDYciDlyoi7Y7E5K1l9m"
+      },
+      "artists": [
+        {
+          "name": "Montgomery Gentry",
+          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
+        }
+      ],
+      "duration_ms": 196706,
+      "name": "Lucky Man",
+      "url": "https://open.spotify.com/track/4GiXBCUF7H6YfNQsnBRIzl"
     },
     {
       "added_at": "2022-07-24 22:45:48",

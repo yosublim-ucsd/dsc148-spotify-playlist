@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Let the music flow through you...
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,479 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,514 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 6 | [Falling](https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ) | [Dean Brady](https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN) | [Falling](https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY) | 3:30 |
 | 7 | [Small Talk](https://open.spotify.com/track/0cWoDB45Hfbr3YdlBpdpFd) | [Xela](https://open.spotify.com/artist/47I0yLO8ngQPM0XDcdX3OB) | [In The Grey](https://open.spotify.com/album/00uIFKhWf9CzKwIEIYBtNr) | 3:13 |
 | 8 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 |
-| 9 | [Feet Don't Fail Me Now](https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Feet Don't Fail Me Now](https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ) | 3:18 |
+| 9 | [Nobody But You](https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Nobody But You](https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7) | 3:33 |
 | 10 | [On Read](https://open.spotify.com/track/5Dz8KovSvRxL6AfkbQXAig) | [Deva Mahal](https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0) | [Future Classic, Vol\. 1: Classic](https://open.spotify.com/album/346aNEGf6GqQlUK4NPAn2o) | 4:11 |
-| 11 | [Nobody But You](https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Nobody But You](https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7) | 3:33 |
+| 11 | [Feet Don't Fail Me Now](https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Feet Don't Fail Me Now](https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ) | 3:18 |
 | 12 | [Bran Nue Wurld](https://open.spotify.com/track/0lGfVYcet164rdaRxzXU45) | [Mo’Ju](https://open.spotify.com/artist/08kSC3EyOASw4LU1BmBG6g) | [ORO, PLATA, MATA](https://open.spotify.com/album/6O8Q2Eqh9EKRUKrkdRZJpv) | 3:21 |
 | 13 | [The Hardest Part](https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Hardest Part](https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA) | 2:56 |
 | 14 | [Grounded](https://open.spotify.com/track/3sC2SPzngXyYusS9OwpeHc) | [Déjà Miru](https://open.spotify.com/artist/5oX0eBe2oPNBcYxeihnGGw), [Gabby Nacua](https://open.spotify.com/artist/2qvbmHsVyNd9JzMWFe1jbK) | [Grounded](https://open.spotify.com/album/3fKkThISW69xk6pnCbHyzL) | 2:53 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 36 | [Better With You](https://open.spotify.com/track/6eXNp3TwJsu67AEpWkU38O) | [Jackson Owens](https://open.spotify.com/artist/33jhdrAHX9sSFzdKpYd2ke) | [Better With You](https://open.spotify.com/album/6hNFfriiHoZFXIVx4UJ82v) | 2:17 |
 | 37 | [Transatlantic Flight](https://open.spotify.com/track/0UMBDzlMhyz3N1hd8mBemt) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [New Ways](https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct) | 6:49 |
 | 38 | [Natural](https://open.spotify.com/track/6BZ0VMdtzWZZ3ecUMKmarw) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 3:40 |
-| 39 | [The Room](https://open.spotify.com/track/7euupBRn1BnMdWecnyBWU6) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [The Room](https://open.spotify.com/album/7bHN1qUOLFRDJN1yclz0vg) | 2:17 |
-| 40 | [Just Fine](https://open.spotify.com/track/5OEha6DVSo75Cvg0qNFHaP) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [Just Fine](https://open.spotify.com/album/2KnEJL8yLVFBzS8ZneL1kC) | 2:54 |
+| 39 | [Just Fine](https://open.spotify.com/track/5OEha6DVSo75Cvg0qNFHaP) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [Just Fine](https://open.spotify.com/album/2KnEJL8yLVFBzS8ZneL1kC) | 2:54 |
+| 40 | [The Room](https://open.spotify.com/track/7euupBRn1BnMdWecnyBWU6) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [The Room](https://open.spotify.com/album/7bHN1qUOLFRDJN1yclz0vg) | 2:17 |
 | 41 | [Reelin'](https://open.spotify.com/track/0pZrbb5wNwxRA3mqsl1SWN) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Everything's Fine](https://open.spotify.com/album/2OOTl13Kx9KxMF1ESG2u58) | 3:28 |
 | 42 | [Stay High \- Childish Gambino Version](https://open.spotify.com/track/6LmNmPxViPRou1YAvyg1OS) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Jaime \(Reimagined\)](https://open.spotify.com/album/5FwiNeZyBHQXH1ppbXqxe0) | 3:38 |
 | 43 | [First Time](https://open.spotify.com/track/69WrRBXGKP70NqXNOf8NIw) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/4vB6GN9VFxZU1mtBYlc3Ph) | 5:09 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 52 | [Ease Up](https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Most Wanted \(Deluxe\)](https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt) | 3:41 |
 | 53 | [bend yr ear](https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 3:53 |
 | 54 | [No One But You](https://open.spotify.com/track/7LSypGB8lN2LbdizzUzzgL) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [No One But You](https://open.spotify.com/album/4DlUVB5ZqzYYB11YoHonsR) | 3:33 |
-| 55 | [Raye](https://open.spotify.com/track/1HCscV7IBGyxnaPh2jShMP) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Make It Happen \(Deluxe Edition\)](https://open.spotify.com/album/5RbJ1jOe7KFVfbB5GOLhUT) | 4:29 |
-| 56 | [Unconditionally](https://open.spotify.com/track/566cpgeAsU9eyAgedWbwyk) | [JKING](https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp) | [Unconditionally](https://open.spotify.com/album/1X4HVedRMhLlr8qMaEGtKO) | 2:32 |
+| 55 | [Unconditionally](https://open.spotify.com/track/566cpgeAsU9eyAgedWbwyk) | [JKING](https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp) | [Unconditionally](https://open.spotify.com/album/1X4HVedRMhLlr8qMaEGtKO) | 2:32 |
+| 56 | [Raye](https://open.spotify.com/track/1HCscV7IBGyxnaPh2jShMP) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Make It Happen \(Deluxe Edition\)](https://open.spotify.com/album/5RbJ1jOe7KFVfbB5GOLhUT) | 4:29 |
 | 57 | [No Flowers](https://open.spotify.com/track/5NOViHpW9RmHc2HQKxewyb) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [No Flowers](https://open.spotify.com/album/4AVeqsCo8ewXf9uN3IF9gs) | 3:04 |
 | 58 | [Good Man](https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:30 |
 | 59 | [exodus the north star](https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [exodus the north star](https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr) | 3:25 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 69 | [High Off You](https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [High Off You](https://open.spotify.com/album/0okhOL15AUDSqpKFi9CHcu) | 3:53 |
 | 70 | [Side By Side](https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [Side By Side](https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg) | 4:16 |
 
-Snapshot ID: `MTY4MTk5OTQ2OCwwMDAwMDAwMGRhYTJhYTI2NzM1OGU1MjFmMWIwMjFjYTFiZmM3NDZh`
+Snapshot ID: `MTY4MTk5OTQ2OCwwMDAwMDAwMGI4MWJmMzdhMzE1ZTkzNjEzOTRkZTg4ZGZlMDI3ZGEx`

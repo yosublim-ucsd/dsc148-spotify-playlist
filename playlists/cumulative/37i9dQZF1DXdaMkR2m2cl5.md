@@ -4,7 +4,7 @@
 
 > Soft, smoky undertones of singer\-songwriter sounds give way to lingering notes of rich, earthy chamber folk\. Cover: Glen Hansard.
 
-232 songs - 14 hr 31 min
+233 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Cigarette](https://open.spotify.com/track/3VLEFC1ZZhTbJYeqxBfjfU) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Ode to a Friend](https://open.spotify.com/album/6LCyIxEf32i4W6U9mZ7R64) | 3:32 | 2020-11-25 | 2022-07-22 |
 | [Colorado](https://open.spotify.com/track/4dIhkME9H3hzb0wNhA3f1m) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Some People I Know](https://open.spotify.com/album/1BpdKszhtmmlaOqG3McH0g) | 2:57 | 2020-11-25 |  |
 | [Comfort](https://open.spotify.com/track/0qmLutbPsSY41baTrDVIIL) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Comfort](https://open.spotify.com/album/56l2MVr32gMMVO0SdWVx9i) | 3:07 | 2020-11-25 | 2022-07-14 |
+| [Comfort](https://open.spotify.com/track/41BSVFI0wboUPPGm4LOA5z) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 3:07 | 2020-11-25 |  |
 | [Count On Me](https://open.spotify.com/track/5sA7NCo4bHH9stpolSymvz) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light](https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1) | 2:40 | 2020-11-25 |  |
 | [Crack The Case](https://open.spotify.com/track/2JtC5mhcW0RoTJGoVkfgB7) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Passwords](https://open.spotify.com/album/1EPqf0Bfgbm2iMnne0WLVx) | 5:54 | 2020-11-25 |  |
 | [Crow Song](https://open.spotify.com/track/18ioEXs8XbRmYiREQ8W6jI) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X), [Max García Conover](https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4) | [Among Horses III](https://open.spotify.com/album/14kZDlSzNecMAegiHWES5R) | 3:04 | 2020-11-25 | 2022-07-29 |
@@ -96,7 +97,7 @@
 | [Hold Me Like A Fire](https://open.spotify.com/track/6Ps0fZMwBZQZdEtRUqAcSe) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [Hold Me Like A Fire](https://open.spotify.com/album/1OfelcDKpEEzyXr204iY9p) | 3:12 | 2020-11-25 | 2022-07-29 |
 | [Holllllogram](https://open.spotify.com/track/5imyK8dza7bwb6TNDFxCmQ) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV), [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [EPHRATA](https://open.spotify.com/album/4xRjqEFRi1CZyrCbmy7Sn1) | 3:38 | 2020-11-25 |  |
 | [Humans](https://open.spotify.com/track/2YdRHgjajslnkmygNxuLVW) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 4:25 | 2020-11-25 | 2022-07-26 |
-| [I Knew I Could Fly](https://open.spotify.com/track/1tLDBychkP96pHT664rJIY) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW), [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:41 | 2020-11-25 |  |
+| [I Knew I Could Fly](https://open.spotify.com/track/1tLDBychkP96pHT664rJIY) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW), [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:41 | 2020-11-25 | 2023-04-27 |
 | [I Wish I Could Write You a Song](https://open.spotify.com/track/3Gda4WI6ZeplS18kwubOfj) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [I Wish I Could Write You a Song](https://open.spotify.com/album/7EMFhBBfG9itHMug9vE02X) | 4:08 | 2020-11-25 | 2022-07-26 |
 | [I'll Be out Here](https://open.spotify.com/track/7tkOm1ZNcIg4lKu0XCQgCq) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:22 | 2020-11-25 |  |
 | [If It Makes You Happy](https://open.spotify.com/track/7ia7SaMGhr00G8EX5DMiFq) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M) | 4:15 | 2020-11-25 |  |

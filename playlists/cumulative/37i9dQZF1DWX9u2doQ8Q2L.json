@@ -8159,6 +8159,24 @@
     },
     {
       "album": {
+        "name": "Siesta",
+        "url": "https://open.spotify.com/album/4q5mMGjlcMUUhlGd4RWDp3"
+      },
+      "artists": [
+        {
+          "name": "\u65b0\u6771\u4eac",
+          "url": "https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191428,
+      "name": "Siesta",
+      "url": "https://open.spotify.com/track/74J0ffff6Hp3fYCkp3ceKW"
+    },
+    {
+      "album": {
         "name": "SIGN(feat. Takashi Fujii)",
         "url": "https://open.spotify.com/album/2OmjMU3x4n7j9PMP9Lf1Uw"
       },
@@ -8932,6 +8950,28 @@
       "duration_ms": 312426,
       "name": "Summer Breezin\u2019",
       "url": "https://open.spotify.com/track/7l0gkhracl0YHt0T5nivl2"
+    },
+    {
+      "album": {
+        "name": "Summer Ghost feat. KIRINJI",
+        "url": "https://open.spotify.com/album/5tuIFFFK621MJKQ5e9yKsA"
+      },
+      "artists": [
+        {
+          "name": "Tomita Lab.",
+          "url": "https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD"
+        },
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254666,
+      "name": "Summer Ghost feat. KIRINJI",
+      "url": "https://open.spotify.com/track/0BlR8rZiO5pk4VjMT0Vkqo"
     },
     {
       "album": {
@@ -11566,7 +11606,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 191428,
       "name": "\u30b7\u30a8\u30b9\u30bf",
       "url": "https://open.spotify.com/track/0cRRJ7O7fEC0mohyTrM3R1"
@@ -12748,7 +12788,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 254666,
       "name": "\u590f\u306e\u4ea1\u970a feat. KIRINJI",
       "url": "https://open.spotify.com/track/5QZJ0oITXby0ON4JiWSDH6"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,709 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,720 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 45 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 |
 | 46 | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH) | 4:10 |
 | 47 | [Spring Flowers](https://open.spotify.com/track/0FAI7639ZRr1bJfFgy0Q9O) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [LOVIN'](https://open.spotify.com/album/2CMfMvcjtBXHT3XhLCvgyH) | 3:36 |
-| 48 | [Loneliness Amplifier](https://open.spotify.com/track/6yDx0EcCpFa4SvFwe0d0Sr) | [Busker Busker](https://open.spotify.com/artist/6jgrgDBt1SbtNbc25sLaTH) | [Busker Busker 1st](https://open.spotify.com/album/56XzxNKUGySZcu1nByxo3y) | 3:03 |
+| 48 | [Spring Is Gone by chance \(2021\)](https://open.spotify.com/track/4ujIaXQKSvamPSSCoPiMT0) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Spring Is Gone by chance \(2021\)](https://open.spotify.com/album/0jjvd9wnZN808fbJnbB4ba) | 3:30 |
 | 49 | [Walking In The Memory](https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ) | [MJ](https://open.spotify.com/artist/1eb5JBCoVVqiHp7FdrtBSa) | [The Crush Of Spring OST Special Track](https://open.spotify.com/album/4rUPBt8ztBW38rCPJUdXiT) | 3:10 |
-| 50 | [Spring Is Gone by chance \(2021\)](https://open.spotify.com/track/4ujIaXQKSvamPSSCoPiMT0) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Spring Is Gone by chance \(2021\)](https://open.spotify.com/album/0jjvd9wnZN808fbJnbB4ba) | 3:30 |
+| 50 | [Loneliness Amplifier](https://open.spotify.com/track/6yDx0EcCpFa4SvFwe0d0Sr) | [Busker Busker](https://open.spotify.com/artist/6jgrgDBt1SbtNbc25sLaTH) | [Busker Busker 1st](https://open.spotify.com/album/56XzxNKUGySZcu1nByxo3y) | 3:03 |
 | 51 | [Can you tell me \(feat\. kumira\)](https://open.spotify.com/track/3ZtEsiOvuXAT13NdYiBpi6) | [Bas Bao](https://open.spotify.com/artist/0hKuWSrSFMRRNAh6t8wGXT), [Kumira](https://open.spotify.com/artist/1Ntydb0DmiKZ4gs185CpoK) | [Can you tell me \(feat\. kumira\)](https://open.spotify.com/album/3M3CQMihnl1yUswPoqmv1k) | 3:28 |
 | 52 | [Spring Attitude](https://open.spotify.com/track/0oX3uukKkz0aBEXl3RxxyC) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Idle Idle](https://open.spotify.com/album/5oJiWLZ8JGsYPh9Pdq9D2s) | 3:16 |
 | 53 | [SSOOK DDOONG \(feat\. CHOI YOOJUNG\)](https://open.spotify.com/track/0bh107oicEpxI1RiAz59Wb) | [BOOKKU DDOONG](https://open.spotify.com/artist/3dy8YhuMdQX2iwO1CaurGw), [CHOI YOOJUNG](https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648) | [SSOOK DDOONG \(feat\. CHOI YOOJUNG\)](https://open.spotify.com/album/31T5angQfNXokneuSdQq56) | 2:47 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 57 | [Look & Spring \(Feat\. Ko Young Bae of Soran\)](https://open.spotify.com/track/6slTRsKXks38DEsCxRgrVp) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [Ko Youngbae](https://open.spotify.com/artist/135TOw1jqM2Bolkngy62nS) | [D\_iary page.2](https://open.spotify.com/album/28ir5sUSxl9dkPD1jjeBKv) | 4:06 |
 | 58 | [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 |
 | 59 | [Cloud](https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah) | [박지원](https://open.spotify.com/artist/7sYsnmmEZ0vpNVoz9V7h3E) | [Racket Boys \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX) | 3:23 |
-| 60 | [Just Can't Say](https://open.spotify.com/track/2E3PNYbkIKRiQrRVDb0pIg) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [LOG](https://open.spotify.com/album/7xNGojQFo9UPNIVuuDF1EL) | 3:23 |
-| 61 | [Spring Is Come By Chance](https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [An da eun](https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9) | [Spring Is Come By Chance \(Webtoon 'Admiral's Love Story With Freak Princess' OST San E X An Da Eun\)](https://open.spotify.com/album/1SMTaBfYdkS7jslu7atMD1) | 3:27 |
+| 60 | [Spring Is Come By Chance](https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [An da eun](https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9) | [Spring Is Come By Chance \(Webtoon 'Admiral's Love Story With Freak Princess' OST San E X An Da Eun\)](https://open.spotify.com/album/1SMTaBfYdkS7jslu7atMD1) | 3:27 |
+| 61 | [Just Can't Say](https://open.spotify.com/track/2E3PNYbkIKRiQrRVDb0pIg) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [LOG](https://open.spotify.com/album/7xNGojQFo9UPNIVuuDF1EL) | 3:23 |
 | 62 | [Cliche](https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM) | [ROJO](https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl) | [Cliche](https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE) | 3:06 |
 | 63 | [원 Wish](https://open.spotify.com/track/3vvJdhNvwogyNhmgaGONZw) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [원 Wish](https://open.spotify.com/album/7DagjiIwCFeivyBSZYTsy7) | 3:11 |
 | 64 | [Tell Me](https://open.spotify.com/track/59sio2uP1zKQu0SSmXtmqt) | [hyejin](https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX) | [Tell Me](https://open.spotify.com/album/55nlKfRPcPhRYY6tujIRjg) | 2:33 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 72 | [SOME](https://open.spotify.com/track/3SFoX1aJtEOt3b0GH5lRdc) | [KIM DONG HYUN](https://open.spotify.com/artist/6NuAIYZptWXWUCAInxX6PU) | [Fling at Convenience Store \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/0ftFFfhQ3SUJ2Hrj6gkbnU) | 3:43 |
 | 73 | [Happy Ending](https://open.spotify.com/track/3HLFIlahbxScNvZhq14qOJ) | [Hong Dae Kwang](https://open.spotify.com/artist/6uzSh44SrjshRLiZ3qt8hp) | [Happy Ending](https://open.spotify.com/album/4jus9HaNnfiyXpP8ci0TAp) | 4:01 |
 | 74 | [Where the Wind Rises](https://open.spotify.com/track/6s6n1Rc2zy9LtSAPsvaEPM) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [A daily adventurer](https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP) | 3:24 |
-| 75 | [The Season Of You](https://open.spotify.com/track/1Lb7mJc6hxkCEiFnKGWoKG) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:59 |
+| 75 | [Weird Boy](https://open.spotify.com/track/1S6Kx6dOOWlJecLe1fM3Sm) | [murmoom](https://open.spotify.com/artist/2vsaAlNouG0tPd8CMKj7l3) | [Weird Boy](https://open.spotify.com/album/6EJ0l23dnuI89XY09Vbh9s) | 3:37 |
 
-Snapshot ID: `MTY4MDU3MzAzNiwwMDAwMDAwMDg1ODBmODYxNWE0OWMwOWViNTA5MWE0MWEzNzk1YTRj`
+Snapshot ID: `MTY4MDU3MzAzNiwwMDAwMDAwMDFmNjMyODBhNjMyNDdmZTkxZTBjNTdhZjAyMjEzNTI4`

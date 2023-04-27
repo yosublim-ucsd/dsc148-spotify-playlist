@@ -1,12 +1,12 @@
 {
   "description": "your daily dose of dopamine ",
-  "num_followers": 987147,
+  "num_followers": 988004,
   "original_name": "DOPAMINE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjQ1NTYwNSwwMDAwMDAwMDc3ZmE0ODg2NzdkMzhiODdiMDgyMTc0ZDc2MjVmYTJi",
+  "snapshot_id": "MTY4MjQ1NTYwNSwwMDAwMDAwMDFkMzhhYTVhMmQ2ODIwMWYxMzA3NjQ2ZjBkZjNmZjRk",
   "tracks": [
     {
       "added_at": "2023-04-25 20:46:45",
@@ -79,8 +79,8 @@
     {
       "added_at": "2023-04-25 20:46:45",
       "album": {
-        "name": "K.I.D.S.",
-        "url": "https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg"
+        "name": "K.I.D.S. (Deluxe)",
+        "url": "https://open.spotify.com/album/6TFm9KGW7Lbxrl2Zsg4X9R"
       },
       "artists": [
         {
@@ -90,7 +90,7 @@
       ],
       "duration_ms": 195873,
       "name": "The Spins",
-      "url": "https://open.spotify.com/track/7BcOUi4FQ3wBLmNTW0yfCR"
+      "url": "https://open.spotify.com/track/7FAFkQQZFeNwOFzTrSDFIh"
     },
     {
       "added_at": "2023-04-25 20:46:45",
@@ -827,6 +827,26 @@
     {
       "added_at": "2023-04-25 20:46:45",
       "album": {
+        "name": "good kid, m.A.A.d city",
+        "url": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        }
+      ],
+      "duration_ms": 386906,
+      "name": "Money Trees",
+      "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
+    },
+    {
+      "added_at": "2023-04-25 20:46:45",
+      "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 248413,
       "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit",
       "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
-    },
-    {
-      "added_at": "2023-04-25 20:46:45",
-      "album": {
-        "name": "good kid, m.A.A.d city",
-        "url": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Jay Rock",
-          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
-        }
-      ],
-      "duration_ms": 386906,
-      "name": "Money Trees",
-      "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
     },
     {
       "added_at": "2023-04-25 20:46:45",
@@ -935,38 +935,6 @@
     {
       "added_at": "2023-04-25 20:46:45",
       "album": {
-        "name": "CKay The First",
-        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "love nwantiti (ah ah ah)",
-      "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
-    },
-    {
-      "added_at": "2023-04-25 20:46:45",
-      "album": {
-        "name": "Offering",
-        "url": "https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG"
-      },
-      "artists": [
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        }
-      ],
-      "duration_ms": 212736,
-      "name": "Gilded Lily",
-      "url": "https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF"
-    },
-    {
-      "added_at": "2023-04-25 20:46:45",
-      "album": {
         "name": "18 Months",
         "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
       },
@@ -995,6 +963,38 @@
       "duration_ms": 196520,
       "name": "Wait a Minute!",
       "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
+    },
+    {
+      "added_at": "2023-04-25 20:46:45",
+      "album": {
+        "name": "CKay The First",
+        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "love nwantiti (ah ah ah)",
+      "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
+    },
+    {
+      "added_at": "2023-04-25 20:46:45",
+      "album": {
+        "name": "Offering",
+        "url": "https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 212736,
+      "name": "Gilded Lily",
+      "url": "https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF"
     },
     {
       "added_at": "2023-04-25 20:46:45",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-04-25 20:46:45",
       "album": {
-        "name": "Corinne Bailey Rae",
-        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "Put Your Records On",
-      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
-    },
-    {
-      "added_at": "2023-04-25 20:46:45",
-      "album": {
         "name": "Fuzzybrain",
         "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 278769,
       "name": "Can I Call You Tonight?",
       "url": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK"
+    },
+    {
+      "added_at": "2023-04-25 20:46:45",
+      "album": {
+        "name": "Corinne Bailey Rae",
+        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
     },
     {
       "added_at": "2023-04-25 20:46:45",

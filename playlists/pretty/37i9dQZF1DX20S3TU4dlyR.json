@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Los Pericos.",
-  "num_followers": 51587,
+  "num_followers": 51595,
   "original_name": "Reggae Al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAxMzM0MSwwMDAwMDAwMDAxN2U5Zjg5YjBiZWM4NzJhZDVlMjdiMGJlN2RiMDI4",
+  "snapshot_id": "MTY4MjAxMzM0MSwwMDAwMDAwMDY5NDYxZDZjNTNiMmZhYzY1YzA5YjQ1Y2Q1NmQyMmNi",
   "tracks": [
     {
       "added_at": "2023-04-20 17:55:41",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
-        "name": "Amor De Barrio",
-        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
-      },
-      "artists": [
-        {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
-        }
-      ],
-      "duration_ms": 202680,
-      "name": "Lo De Siempre",
-      "url": "https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X"
-    },
-    {
-      "added_at": "2023-04-20 17:55:41",
-      "album": {
         "name": "Cuanto Heredamos",
         "url": "https://open.spotify.com/album/0vyJAPxf1s9TphV9Fng2nL"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 208596,
       "name": "Cuanto Heredamos",
       "url": "https://open.spotify.com/track/4K4KM1DRrEY3GkOMMXjzbp"
+    },
+    {
+      "added_at": "2023-04-20 17:55:41",
+      "album": {
+        "name": "Amor De Barrio",
+        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
+      },
+      "artists": [
+        {
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+        }
+      ],
+      "duration_ms": 202680,
+      "name": "Lo De Siempre",
+      "url": "https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
+        "name": "Runfla Calavera",
+        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
+      },
+      "artists": [
+        {
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "D\u00e9jalo Fluir",
+      "url": "https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA"
+    },
+    {
+      "added_at": "2023-04-20 17:55:41",
+      "album": {
         "name": "Emocionado",
         "url": "https://open.spotify.com/album/0v0voYOZZByqK4iVheZdhz"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 250243,
       "name": "Emocionado",
       "url": "https://open.spotify.com/track/0gAcguZ7sg8FAN1W5KhFBR"
-    },
-    {
-      "added_at": "2023-04-20 17:55:41",
-      "album": {
-        "name": "Mamita Peyote",
-        "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
-      },
-      "artists": [
-        {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Consentimiento",
-      "url": "https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
+        "name": "\u00c1ngel Del Pasado",
+        "url": "https://open.spotify.com/album/2i3GeqMPvIHpEWUEMnOyqo"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 246857,
+      "name": "\u00c1ngel Del Pasado",
+      "url": "https://open.spotify.com/track/12hH9wErOXz1ZeOPJ8P33Q"
+    },
+    {
+      "added_at": "2023-04-20 17:55:41",
+      "album": {
         "name": "Qui\u00e9n Sos?",
         "url": "https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 231464,
       "name": "Qui\u00e9n Sos?",
       "url": "https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH"
-    },
-    {
-      "added_at": "2023-04-20 17:55:41",
-      "album": {
-        "name": "\u00c1ngel Del Pasado",
-        "url": "https://open.spotify.com/album/2i3GeqMPvIHpEWUEMnOyqo"
-      },
-      "artists": [
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        }
-      ],
-      "duration_ms": 246857,
-      "name": "\u00c1ngel Del Pasado",
-      "url": "https://open.spotify.com/track/12hH9wErOXz1ZeOPJ8P33Q"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -1055,8 +1055,8 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
-        "name": "Runfla Calavera",
-        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
+        "name": "Mamita Peyote",
+        "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
       },
       "artists": [
         {
@@ -1064,9 +1064,9 @@
           "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
         }
       ],
-      "duration_ms": 205480,
-      "name": "D\u00e9jalo Fluir",
-      "url": "https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA"
+      "duration_ms": 271000,
+      "name": "Consentimiento",
+      "url": "https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -1139,34 +1139,18 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
-        "name": "Portal De Luz",
-        "url": "https://open.spotify.com/album/5UdNKgMCEDftWSYelCWBIw"
+        "name": "As\u00ed",
+        "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
       },
       "artists": [
         {
-          "name": "Matamba",
-          "url": "https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2"
+          "name": "Mensajeros Reggae",
+          "url": "https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE"
         }
       ],
-      "duration_ms": 259140,
-      "name": "Portal De Luz",
-      "url": "https://open.spotify.com/track/7qAsDWTNvpxY3ao7sFvDUQ"
-    },
-    {
-      "added_at": "2023-04-20 17:55:41",
-      "album": {
-        "name": "S\u00ed Ser\u00e1s",
-        "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        }
-      ],
-      "duration_ms": 198680,
-      "name": "Puede Parecer",
-      "url": "https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q"
+      "duration_ms": 237026,
+      "name": "Naufrago",
+      "url": "https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -1187,18 +1171,34 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
-        "name": "As\u00ed",
-        "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
+        "name": "S\u00ed Ser\u00e1s",
+        "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
       },
       "artists": [
         {
-          "name": "Mensajeros Reggae",
-          "url": "https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE"
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
         }
       ],
-      "duration_ms": 237026,
-      "name": "Naufrago",
-      "url": "https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o"
+      "duration_ms": 198680,
+      "name": "Puede Parecer",
+      "url": "https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q"
+    },
+    {
+      "added_at": "2023-04-20 17:55:41",
+      "album": {
+        "name": "Portal De Luz",
+        "url": "https://open.spotify.com/album/5UdNKgMCEDftWSYelCWBIw"
+      },
+      "artists": [
+        {
+          "name": "Matamba",
+          "url": "https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2"
+        }
+      ],
+      "duration_ms": 259140,
+      "name": "Portal De Luz",
+      "url": "https://open.spotify.com/track/7qAsDWTNvpxY3ao7sFvDUQ"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
+        "name": "As\u00ed",
+        "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
+      },
+      "artists": [
+        {
+          "name": "Mensajeros Reggae",
+          "url": "https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE"
+        }
+      ],
+      "duration_ms": 260170,
+      "name": "Si vas a dejarme...",
+      "url": "https://open.spotify.com/track/61xOrT5LUy1lS9zvzAmjWS"
+    },
+    {
+      "added_at": "2023-04-20 17:55:41",
+      "album": {
         "name": "Negro",
         "url": "https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY"
       },
@@ -1279,30 +1295,6 @@
       "duration_ms": 265216,
       "name": "Este Mundo",
       "url": "https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo"
-    },
-    {
-      "added_at": "2023-04-20 17:55:41",
-      "album": {
-        "name": "Groove Me",
-        "url": "https://open.spotify.com/album/3ZmQSjGIMCZAjbVWBmMfFw"
-      },
-      "artists": [
-        {
-          "name": "Mimi Maura",
-          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
-        },
-        {
-          "name": "Hugo Lobo",
-          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
-        },
-        {
-          "name": "Rotman",
-          "url": "https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Groove Me",
-      "url": "https://open.spotify.com/track/3aHb9pMoRafxcyeQ1W0Ev1"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -1343,18 +1335,26 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
-        "name": "As\u00ed",
-        "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
+        "name": "Groove Me",
+        "url": "https://open.spotify.com/album/3ZmQSjGIMCZAjbVWBmMfFw"
       },
       "artists": [
         {
-          "name": "Mensajeros Reggae",
-          "url": "https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE"
+          "name": "Mimi Maura",
+          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
+        },
+        {
+          "name": "Hugo Lobo",
+          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+        },
+        {
+          "name": "Rotman",
+          "url": "https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf"
         }
       ],
-      "duration_ms": 260170,
-      "name": "Si vas a dejarme...",
-      "url": "https://open.spotify.com/track/61xOrT5LUy1lS9zvzAmjWS"
+      "duration_ms": 184000,
+      "name": "Groove Me",
+      "url": "https://open.spotify.com/track/3aHb9pMoRafxcyeQ1W0Ev1"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
-        "name": "El Cuento",
-        "url": "https://open.spotify.com/album/2qselQbY8QZncTIS9Aenn2"
-      },
-      "artists": [
-        {
-          "name": "Kameleba",
-          "url": "https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST"
-        }
-      ],
-      "duration_ms": 190127,
-      "name": "El Cuento",
-      "url": "https://open.spotify.com/track/6Z64rcX4toR740wFD9PCvT"
-    },
-    {
-      "added_at": "2023-04-20 17:55:41",
-      "album": {
         "name": "Radiante",
         "url": "https://open.spotify.com/album/7yIFVoRj5P8Tkgcebc1KGC"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 189806,
       "name": "Mi Dulce Amor",
       "url": "https://open.spotify.com/track/58c0vA53oFYJVppKfZlYXY"
+    },
+    {
+      "added_at": "2023-04-20 17:55:41",
+      "album": {
+        "name": "El Cuento",
+        "url": "https://open.spotify.com/album/2qselQbY8QZncTIS9Aenn2"
+      },
+      "artists": [
+        {
+          "name": "Kameleba",
+          "url": "https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST"
+        }
+      ],
+      "duration_ms": 190127,
+      "name": "El Cuento",
+      "url": "https://open.spotify.com/track/6Z64rcX4toR740wFD9PCvT"
     },
     {
       "added_at": "2023-04-20 17:55:41",

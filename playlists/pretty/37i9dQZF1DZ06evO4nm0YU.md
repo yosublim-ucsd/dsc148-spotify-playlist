@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 
 > This is Héctor Lavoe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,485 likes - 50 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,554 likes - 50 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 | 24 | [Un Amor De La Calle](https://open.spotify.com/track/66juz7XEijXRIMtFXYtuSi) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Voz](https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV) | 3:24 |
 | 25 | [Qué Lío](https://open.spotify.com/track/3J4krWOV6J3mE6tNYiaqn2) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [The Hustler](https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C) | 4:37 |
 | 26 | [Soñando Despierto](https://open.spotify.com/track/5T33s7r9ZphwekRhavpbmA) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Tú Bien Lo Sabes](https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6) | 4:06 |
-| 27 | [Hacha Y Machete](https://open.spotify.com/track/4CJhWQrtCkppHhOtAZBjik) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N) | 5:33 |
-| 28 | [El Malo](https://open.spotify.com/track/1fIjc50dmcl9PkH3E4iG4E) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Malo](https://open.spotify.com/album/6ROTUtQlp130rdHDff3nhE) | 4:00 |
+| 27 | [El Malo](https://open.spotify.com/track/1fIjc50dmcl9PkH3E4iG4E) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Malo](https://open.spotify.com/album/6ROTUtQlp130rdHDff3nhE) | 4:00 |
+| 28 | [Hacha Y Machete](https://open.spotify.com/track/4CJhWQrtCkppHhOtAZBjik) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N) | 5:33 |
 | 29 | [Juanito Alimaña](https://open.spotify.com/track/02c7d670y3o6IvkBPazlFu) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Greatest Hits](https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ) | 5:45 |
 | 30 | [Eso Se Baila Así](https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [The Hustler](https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C) | 5:17 |
 | 31 | [Rompe Saragüey](https://open.spotify.com/track/50T8GUjGq1SMxsMWMLu0fl) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Voz](https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV) | 6:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 | 49 | [Aléjate](https://open.spotify.com/track/6dKDnjNPg2oHi5yOY4RRlB) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Sabio](https://open.spotify.com/album/2QqqS97l2DLYq1vrhHUpze) | 7:07 |
 | 50 | [No Me Den Candela](https://open.spotify.com/track/1NKjjz8SHggPHXF6DnlabU) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Guisando: Doing A Job](https://open.spotify.com/album/5cIig3BrjPvDMpMRZR7a9G) | 7:09 |
 
-Snapshot ID: `MjgwNDA0NDAsMDAwMDAwMDBmOWViMGE5OGJmMDVjN2U0ZjQyMjMzMzBhYWJlZjE3NA==`
+Snapshot ID: `MjgwNDE5MjksMDAwMDAwMDBlNGFjMDE5YjQzZmI5MzNhZDc4NmU5YzhmYTRjMDNjYw==`

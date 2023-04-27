@@ -1,12 +1,12 @@
 {
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
-  "num_followers": 63221,
+  "num_followers": 63294,
   "original_name": "Blues Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ5MDkzNSwwMDAwMDAwMDE5YjA3NjI4ZmQ0MTIzOWRiYzc0ZTYwNjczYmFlMDU3",
+  "snapshot_id": "MTY2NzQ5MDkzNSwwMDAwMDAwMDk1NzVjZWUzMzNiNzk0YTk4NDMxYjUzMGQ5MjJkYThm",
   "tracks": [
     {
       "added_at": "2021-03-03 17:28:10",
@@ -287,22 +287,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Revelator",
-        "url": "https://open.spotify.com/album/3nvebrk47Qs9bTipgUgup7"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 352666,
-      "name": "Midnight in Harlem",
-      "url": "https://open.spotify.com/track/1ncSAZD0bzvU3cu0uPLbWd"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Feels Like Rain",
         "url": "https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd"
       },
@@ -323,6 +307,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Revelator",
+        "url": "https://open.spotify.com/album/3nvebrk47Qs9bTipgUgup7"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 352666,
+      "name": "Midnight in Harlem",
+      "url": "https://open.spotify.com/track/1ncSAZD0bzvU3cu0uPLbWd"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Taj Mahal",
         "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
       },
@@ -335,22 +335,6 @@
       "duration_ms": 289560,
       "name": "Leaving Trunk",
       "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Howlin' Wolf",
-        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Spoonful",
-      "url": "https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -383,6 +367,22 @@
       "duration_ms": 192200,
       "name": "Love Me Like a Man - 2008 Remaster",
       "url": "https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Spoonful",
+      "url": "https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -519,22 +519,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Made Up Mind",
-        "url": "https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 246573,
-      "name": "Part of Me",
-      "url": "https://open.spotify.com/track/53DRkI3ebM3SbSQm4gQ1vF"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Lie To Me",
         "url": "https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 251306,
       "name": "Lie To Me",
       "url": "https://open.spotify.com/track/6DCALWbYX0BCOAGy0hMmRs"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Made Up Mind",
+        "url": "https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 246573,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/53DRkI3ebM3SbSQm4gQ1vF"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -679,22 +679,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 147800,
-      "name": "Working Man",
-      "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
         "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Wolf Den",
-        "url": "https://open.spotify.com/album/72iUWLyrZgp7WUAIaqX0Np"
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
       },
       "artists": [
         {
-          "name": "Danielle Nicole",
-          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
         }
       ],
-      "duration_ms": 177906,
-      "name": "Take It All",
-      "url": "https://open.spotify.com/track/2H0s28N3rendfnepsj48C6"
+      "duration_ms": 147800,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -739,6 +723,22 @@
       "duration_ms": 215866,
       "name": "Don't Owe You a Thang",
       "url": "https://open.spotify.com/track/4iu49FeQQGiUh2Dn1A8qCl"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Wolf Den",
+        "url": "https://open.spotify.com/album/72iUWLyrZgp7WUAIaqX0Np"
+      },
+      "artists": [
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+        }
+      ],
+      "duration_ms": 177906,
+      "name": "Take It All",
+      "url": "https://open.spotify.com/track/2H0s28N3rendfnepsj48C6"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -795,22 +795,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 272640,
-      "name": "Carry You",
-      "url": "https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Couldn't Stand The Weather (Legacy Edition)",
         "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 478746,
       "name": "Voodoo Child (Slight Return)",
       "url": "https://open.spotify.com/track/1kY6OOTBmRNzhYmu9xSH3a"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 272640,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1057,6 +1057,22 @@
       "url": "https://open.spotify.com/track/37mWDk2nTyx0eon0AkdOKQ"
     },
     {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 268160,
+      "name": "Honey, Hush aka Talking Woman Blues",
+      "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
+    },
+    {
       "added_at": "2022-11-03 15:55:35",
       "album": {
         "name": "Inflation",
@@ -1075,22 +1091,6 @@
       "duration_ms": 199734,
       "name": "Inflation",
       "url": "https://open.spotify.com/track/0PUWmPna5P0hKtSwXWin9o"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 268160,
-      "name": "Honey, Hush aka Talking Woman Blues",
-      "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1417,6 +1417,22 @@
       "url": "https://open.spotify.com/track/2oVDBaesJPlOsvr3FmRIFW"
     },
     {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "The Pleasure's All Mine: The Complete Blues, Ballads and Favorites Sessions",
+        "url": "https://open.spotify.com/album/1inwZe8lEy9j9uhJaTRcbE"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "The Pleasure's All Mine",
+      "url": "https://open.spotify.com/track/2x4Ag6Npxj78rsp849NDN7"
+    },
+    {
       "added_at": "2021-03-03 17:28:10",
       "album": {
         "name": "Kill Or Be Kind",
@@ -1431,22 +1447,6 @@
       "duration_ms": 319253,
       "name": "Bulletproof - Tangle Eye Mix",
       "url": "https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Strange Pleasure",
-        "url": "https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
-        }
-      ],
-      "duration_ms": 260733,
-      "name": "Don't Cha Know",
-      "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/7tQFiUboN0vnK7Wavscmdb"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 160666,
-      "name": "How Blue Can You Get?",
-      "url": "https://open.spotify.com/track/1zuVsc5gf2S2Fp5achygUi"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Keb' Mo'",
         "url": "https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 138533,
       "name": "Am I Wrong",
       "url": "https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/7tQFiUboN0vnK7Wavscmdb"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 160666,
+      "name": "How Blue Can You Get?",
+      "url": "https://open.spotify.com/track/1zuVsc5gf2S2Fp5achygUi"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1529,20 +1529,20 @@
       "url": "https://open.spotify.com/track/4A6f46GmPGqzz1lV3gm8ns"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
+      "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "The Pleasure's All Mine: The Complete Blues, Ballads and Favorites Sessions",
-        "url": "https://open.spotify.com/album/1inwZe8lEy9j9uhJaTRcbE"
+        "name": "Texas Bluesman",
+        "url": "https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h"
       },
       "artists": [
         {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+          "name": "Zuzu Bollin",
+          "url": "https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ"
         }
       ],
-      "duration_ms": 223533,
-      "name": "The Pleasure's All Mine",
-      "url": "https://open.spotify.com/track/2x4Ag6Npxj78rsp849NDN7"
+      "duration_ms": 174133,
+      "name": "Why Don't You Eat Where You Slept Last Night?",
+      "url": "https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej"
     },
     {
       "added_at": "2021-05-14 04:01:00",
@@ -1563,34 +1563,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Texas Bluesman",
-        "url": "https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h"
+        "name": "Strange Pleasure",
+        "url": "https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7"
       },
       "artists": [
         {
-          "name": "Zuzu Bollin",
-          "url": "https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ"
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
         }
       ],
-      "duration_ms": 174133,
-      "name": "Why Don't You Eat Where You Slept Last Night?",
-      "url": "https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Trouble Is...",
-        "url": "https://open.spotify.com/album/1ODpJWe2bymqj4DyJfuBE9"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 334800,
-      "name": "Somehow, Somewhere, Someway",
-      "url": "https://open.spotify.com/track/3N8YmS2jHNmziUhqTR7Wk4"
+      "duration_ms": 260733,
+      "name": "Don't Cha Know",
+      "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1607,6 +1591,22 @@
       "duration_ms": 317320,
       "name": "What Kind Of Woman Is This?",
       "url": "https://open.spotify.com/track/0BrmbJnPYcd7gnvLYqxw0r"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Trouble Is...",
+        "url": "https://open.spotify.com/album/1ODpJWe2bymqj4DyJfuBE9"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 334800,
+      "name": "Somehow, Somewhere, Someway",
+      "url": "https://open.spotify.com/track/3N8YmS2jHNmziUhqTR7Wk4"
     },
     {
       "added_at": "2021-03-03 17:28:10",

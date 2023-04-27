@@ -4,7 +4,7 @@
 
 > Las nuevas vibras del rock en español\. Cover: Rodrigo y Gabriela
 
-199 songs - 11 hr 7 min
+200 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [La Última Canción](https://open.spotify.com/track/3js8DzXWWL7hfRMumQRAAQ) | [Andrés Obregón](https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve) | [La Última Canción](https://open.spotify.com/album/1hPosK94j6gE80FZzEkgMy) | 2:37 | 2023-04-14 |  |
 | [Las Dudas](https://open.spotify.com/track/4IIFgOUMSAQFSuwaTgKqu8) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 2:40 | 2022-12-16 |  |
 | [Las Flores Sangran](https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Las Flores Sangran](https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV) | 3:18 | 2023-02-11 |  |
-| [Leche de Tigre](https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:25 | 2023-03-03 |  |
+| [Leche de Tigre](https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:25 | 2023-03-03 | 2023-04-27 |
 | [Lilith](https://open.spotify.com/track/2Vnl0gMfZ9pct8LvLDm0KJ) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Lilith](https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie) | 2:48 | 2022-04-15 | 2022-12-10 |
 | [Llama Gemela](https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Llama Gemela](https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz) | 3:27 | 2023-02-24 |  |
 | [Llueven los Vergazos](https://open.spotify.com/track/4YKONyBsz26LNqI6BcuLun) | [De Nalgas](https://open.spotify.com/artist/4VZR1CBFS8AR4zqrtn7Dlh) | [Llueven los Vergazos](https://open.spotify.com/album/6I1KbSoXMhO1N1zkDdb6b2) | 2:30 | 2022-04-15 | 2022-12-24 |
@@ -162,6 +162,7 @@
 | [Ramon Ayala \(feat\. Bo Bundy\)](https://open.spotify.com/track/0jvWZVacv8dIM8KOXCGocz) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Ramon Ayala \(feat\. Bo Bundy\)](https://open.spotify.com/album/3vnDhhtNSKthBW9tdgpRps) | 2:47 | 2023-01-06 | 2023-03-04 |
 | [Ramona Flowers](https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Ramona Flowers](https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am) | 3:01 | 2022-08-08 |  |
 | [Recuerdos Desechables](https://open.spotify.com/track/3nmWYdUjSSEV27OWk4z0Ml) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Recuerdos Desechables](https://open.spotify.com/album/0MxaA5v1gwQtnqUzcB3x3d) | 3:30 | 2022-12-09 | 2023-02-10 |
+| [Regalao](https://open.spotify.com/track/67Kif1sbSGb7gHmnN0tRUf) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs) | [Carlangas](https://open.spotify.com/album/3HnyyrsxIqgCB2dZw8q9gC) | 2:06 | 2023-04-21 |  |
 | [REMORDIMIENTO](https://open.spotify.com/track/2LzcBK5hfCP5sRKpGQmWpX) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [REMORDIMIENTO](https://open.spotify.com/album/5j7qcWBm36z31n2E6woUhZ) | 3:07 | 2022-12-16 | 2023-01-06 |
 | [Rorschach](https://open.spotify.com/track/6rR46xoz4xucXXnIn5wWNi) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Rorschach](https://open.spotify.com/album/2tv9tKzFcJC4h1hfbLgo0c) | 3:57 | 2023-01-13 | 2023-01-19 |
 | [San Saltarín](https://open.spotify.com/track/2hEAq79PQKziZiioLv4Xrk) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [San Saltarín](https://open.spotify.com/album/3ieQg9CKwvnOG4eJbc0Idk) | 4:18 | 2023-04-21 |  |

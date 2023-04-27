@@ -1,12 +1,12 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Bonnie Raitt",
-  "num_followers": 184681,
+  "num_followers": 184736,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDNmNDRhMmE3YmQwMzkyMWRlZTA5YTMxMDJiZGFkMGRk",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDVlZmZmYmQyZjNkZDRiNDJmMjA2ZjkxYmQ4ZWJlOTM4",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -575,38 +575,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "The Tree",
-        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 222279,
-      "name": "People Get Old",
-      "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "John Prine",
-        "url": "https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        }
-      ],
-      "duration_ms": 272026,
-      "name": "Hello in There",
-      "url": "https://open.spotify.com/track/7IijX5DkLaf3G4qF6xDLYa"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Trio (2016 Remaster)",
         "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
       },
@@ -631,6 +599,38 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "John Prine",
+        "url": "https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "duration_ms": 272026,
+      "name": "Hello in There",
+      "url": "https://open.spotify.com/track/7IijX5DkLaf3G4qF6xDLYa"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "The Tree",
+        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 222279,
+      "name": "People Get Old",
+      "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Bring The Family",
         "url": "https://open.spotify.com/album/1S6p34YmdtR3KCSiSTjbgW"
       },
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Just Like That...",
-        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "Made Up Mind",
-      "url": "https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Live at the Old Quarter, Houston, Texas",
         "url": "https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 154186,
       "name": "Lungs - Live",
       "url": "https://open.spotify.com/track/0gctFhy7ZomaBNuUrFnjrU"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Just Like That...",
+        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "Made Up Mind",
+      "url": "https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Tarpaper Sky",
-        "url": "https://open.spotify.com/album/5ZLE1zSmmqjOaurNc191uw"
-      },
-      "artists": [
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        }
-      ],
-      "duration_ms": 163306,
-      "name": "Frankie Please",
-      "url": "https://open.spotify.com/track/6jDm8LTMY13EzzIu5FNzYq"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Made Up Mind",
         "url": "https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 273693,
       "name": "Do I Look Worried",
       "url": "https://open.spotify.com/track/1JFdocYRMthec2BNrkOF1b"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Tarpaper Sky",
+        "url": "https://open.spotify.com/album/5ZLE1zSmmqjOaurNc191uw"
+      },
+      "artists": [
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        }
+      ],
+      "duration_ms": 163306,
+      "name": "Frankie Please",
+      "url": "https://open.spotify.com/track/6jDm8LTMY13EzzIu5FNzYq"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Utah",
-        "url": "https://open.spotify.com/album/6ampZidxH8AtXdxEFoZVv7"
-      },
-      "artists": [
-        {
-          "name": "Jamestown Revival",
-          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
-        }
-      ],
-      "duration_ms": 329880,
-      "name": "California (Cast Iron Soul) - Cabin Mix",
-      "url": "https://open.spotify.com/track/2uzX5gPLKBe29EZQ8qZrfm"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "They're Calling Me Home (with Francesco Turrisi)",
         "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 229893,
       "name": "Calling Me Home (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Utah",
+        "url": "https://open.spotify.com/album/6ampZidxH8AtXdxEFoZVv7"
+      },
+      "artists": [
+        {
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+        }
+      ],
+      "duration_ms": 329880,
+      "name": "California (Cast Iron Soul) - Cabin Mix",
+      "url": "https://open.spotify.com/track/2uzX5gPLKBe29EZQ8qZrfm"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1955,6 +1955,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "The River & The Thread (Deluxe)",
+        "url": "https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        }
+      ],
+      "duration_ms": 160120,
+      "name": "Tell Heaven",
+      "url": "https://open.spotify.com/track/4tKcLwctnGLTnaDyT7tugW"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/3mXZIWJYygHtn9XaZrvpbJ"
       },
@@ -1975,22 +1991,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "The River & The Thread (Deluxe)",
-        "url": "https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF"
-      },
-      "artists": [
-        {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
-        }
-      ],
-      "duration_ms": 160120,
-      "name": "Tell Heaven",
-      "url": "https://open.spotify.com/track/4tKcLwctnGLTnaDyT7tugW"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "March 16-20, 1992",
         "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
       },
@@ -2003,6 +2003,38 @@
       "duration_ms": 263706,
       "name": "Moonshiner",
       "url": "https://open.spotify.com/track/2toEozRQNumBlG3wuQR4QH"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Rifles and Rosary Beads",
+        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 158834,
+      "name": "Got Your Six",
+      "url": "https://open.spotify.com/track/1qKoTpcKazw5AcLzYjgX7k"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "God's Problem Child",
+        "url": "https://open.spotify.com/album/1wzKjL078JEEv3weMFOGa7"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 201960,
+      "name": "A Woman's Love",
+      "url": "https://open.spotify.com/track/4IkhRQizRckM60amLGAQhg"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2027,34 +2059,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "God's Problem Child",
-        "url": "https://open.spotify.com/album/1wzKjL078JEEv3weMFOGa7"
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Allison Moorer",
+          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
         }
       ],
-      "duration_ms": 201960,
-      "name": "A Woman's Love",
-      "url": "https://open.spotify.com/track/4IkhRQizRckM60amLGAQhg"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Rifles and Rosary Beads",
-        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 158834,
-      "name": "Got Your Six",
-      "url": "https://open.spotify.com/track/1qKoTpcKazw5AcLzYjgX7k"
+      "duration_ms": 219108,
+      "name": "The Rock and the Hill",
+      "url": "https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2071,22 +2087,6 @@
       "duration_ms": 129077,
       "name": "Let's Have A Good Thing Together",
       "url": "https://open.spotify.com/track/0DUwtslFAFipEYffWCRTI9"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72"
-      },
-      "artists": [
-        {
-          "name": "Allison Moorer",
-          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
-        }
-      ],
-      "duration_ms": 219108,
-      "name": "The Rock and the Hill",
-      "url": "https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2231,6 +2231,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Our Year",
+        "url": "https://open.spotify.com/album/2feLXfmJaUiM4qicQmrxYw"
+      },
+      "artists": [
+        {
+          "name": "Kelly Willis & Bruce Robison",
+          "url": "https://open.spotify.com/artist/066FXEfKDbfynlPxfU7T6s"
+        }
+      ],
+      "duration_ms": 142157,
+      "name": "This Will Be Our Year",
+      "url": "https://open.spotify.com/track/5iE2kyAuiDrn7khi32V40n"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Dumplin' Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/50FL6Vavo5CtZ1S9QQSJeO"
       },
@@ -2255,6 +2271,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Night Surfer",
+        "url": "https://open.spotify.com/album/1QsicTW28qZkphxnImFYtv"
+      },
+      "artists": [
+        {
+          "name": "Chuck Prophet",
+          "url": "https://open.spotify.com/artist/3vidJsiALgVC5ZuweJgeDT"
+        }
+      ],
+      "duration_ms": 202541,
+      "name": "Tell Me Anything (Turn to Gold)",
+      "url": "https://open.spotify.com/track/3CdBO4uFWqz7orhaM8bn9Z"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Live at the Old Quarter, Houston, Texas",
         "url": "https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC"
       },
@@ -2267,38 +2299,6 @@
       "duration_ms": 270040,
       "name": "Tecumseh Valley - Live",
       "url": "https://open.spotify.com/track/1vYY7pi267AR3t2rmAxMgv"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "I'll Meet You Here",
-        "url": "https://open.spotify.com/album/2M0mZ8HDBsQtsoJhXgGnbA"
-      },
-      "artists": [
-        {
-          "name": "Dar Williams",
-          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
-        }
-      ],
-      "duration_ms": 167340,
-      "name": "You Give it All Away",
-      "url": "https://open.spotify.com/track/5xFqksMAUocMpcHM8jKiO8"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Our Year",
-        "url": "https://open.spotify.com/album/2feLXfmJaUiM4qicQmrxYw"
-      },
-      "artists": [
-        {
-          "name": "Kelly Willis & Bruce Robison",
-          "url": "https://open.spotify.com/artist/066FXEfKDbfynlPxfU7T6s"
-        }
-      ],
-      "duration_ms": 142157,
-      "name": "This Will Be Our Year",
-      "url": "https://open.spotify.com/track/5iE2kyAuiDrn7khi32V40n"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2319,18 +2319,34 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Night Surfer",
-        "url": "https://open.spotify.com/album/1QsicTW28qZkphxnImFYtv"
+        "name": "I'll Meet You Here",
+        "url": "https://open.spotify.com/album/2M0mZ8HDBsQtsoJhXgGnbA"
       },
       "artists": [
         {
-          "name": "Chuck Prophet",
-          "url": "https://open.spotify.com/artist/3vidJsiALgVC5ZuweJgeDT"
+          "name": "Dar Williams",
+          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
         }
       ],
-      "duration_ms": 202541,
-      "name": "Tell Me Anything (Turn to Gold)",
-      "url": "https://open.spotify.com/track/3CdBO4uFWqz7orhaM8bn9Z"
+      "duration_ms": 167340,
+      "name": "You Give it All Away",
+      "url": "https://open.spotify.com/track/5xFqksMAUocMpcHM8jKiO8"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Trouble and Love",
+        "url": "https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 326746,
+      "name": "Oh Soul",
+      "url": "https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2351,22 +2367,6 @@
       "duration_ms": 172813,
       "name": "Hanging up My Heart",
       "url": "https://open.spotify.com/track/1odrnCw1RmUcevfJz25NJS"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Trouble and Love",
-        "url": "https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 326746,
-      "name": "Oh Soul",
-      "url": "https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2471,22 +2471,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Stitch of the World",
-        "url": "https://open.spotify.com/album/76lhcMjk7j4oTTHV1HLZgs"
-      },
-      "artists": [
-        {
-          "name": "Tift Merritt",
-          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
-        }
-      ],
-      "duration_ms": 227226,
-      "name": "Dusty Old Man",
-      "url": "https://open.spotify.com/track/5Vi7Nm5Eug5NWvCDzIMqOX"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Wouldn't It Be Great",
         "url": "https://open.spotify.com/album/4Uk33jRr1FKDvYBDy8J3Xr"
       },
@@ -2499,6 +2483,22 @@
       "duration_ms": 150080,
       "name": "I'm Dying for Someone to Live For",
       "url": "https://open.spotify.com/track/7fCrN795Rnp4WfvOrnS1KD"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Stitch of the World",
+        "url": "https://open.spotify.com/album/76lhcMjk7j4oTTHV1HLZgs"
+      },
+      "artists": [
+        {
+          "name": "Tift Merritt",
+          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
+        }
+      ],
+      "duration_ms": 227226,
+      "name": "Dusty Old Man",
+      "url": "https://open.spotify.com/track/5Vi7Nm5Eug5NWvCDzIMqOX"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2587,22 +2587,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Into The Purple Valley",
-        "url": "https://open.spotify.com/album/0bPPam9K2Pyuxr8T9WH1Vk"
-      },
-      "artists": [
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 236266,
-      "name": "Taxes on the Farmer Feeds Us All",
-      "url": "https://open.spotify.com/track/4ZslsM9CYd5SpqlSGODAEq"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Tell the Devil I'm Gettin' there as Fast as I Can",
         "url": "https://open.spotify.com/album/19AaEKSxOSfjfqjWi3UDQU"
       },
@@ -2615,6 +2599,22 @@
       "duration_ms": 203843,
       "name": "House of the White Rose Boquet",
       "url": "https://open.spotify.com/track/6fGqZu6bhVb9aPqJ2r3eZ5"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Into The Purple Valley",
+        "url": "https://open.spotify.com/album/0bPPam9K2Pyuxr8T9WH1Vk"
+      },
+      "artists": [
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 236266,
+      "name": "Taxes on the Farmer Feeds Us All",
+      "url": "https://open.spotify.com/track/4ZslsM9CYd5SpqlSGODAEq"
     },
     {
       "added_at": "2023-02-24 05:00:00",

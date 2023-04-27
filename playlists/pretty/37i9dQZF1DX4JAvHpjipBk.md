@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from The Weeknd & Future, Kim Petras & Nicki Minaj, MUNA, The Chainsmokers and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,112,546 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,112,766 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

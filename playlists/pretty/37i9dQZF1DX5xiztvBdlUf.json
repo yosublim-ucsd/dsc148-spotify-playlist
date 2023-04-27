@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 569652,
+  "num_followers": 569832,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDY5NjAwOSwwMDAwMDAwMDJjODQxZjU5ZWQ2NTBmNGNiNzg4ZjQzNzJiNDRmMmE4",
+  "snapshot_id": "MTY4MDY5NjAwOSwwMDAwMDAwMDMyZTM5ZTlkYTQ3NjZkY2E1NDM3Nzg0MzIwOTJmNzdm",
   "tracks": [
     {
       "added_at": "2023-04-05 12:00:09",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-04-05 12:00:09",
       "album": {
-        "name": "Designer Love",
-        "url": "https://open.spotify.com/album/6OK84B4MX87uzZ7umm25f3"
-      },
-      "artists": [
-        {
-          "name": "MARIA Die RUHE",
-          "url": "https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ"
-        }
-      ],
-      "duration_ms": 260786,
-      "name": "Designer Love - Short Version",
-      "url": "https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6"
-    },
-    {
-      "added_at": "2023-04-05 12:00:09",
-      "album": {
         "name": "Cynnes",
         "url": "https://open.spotify.com/album/1gBWP6CbeIFWedMHaR5FJ4"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 324333,
       "name": "Cynnes",
       "url": "https://open.spotify.com/track/6EjqmQ7tyQUIOYo4jXDiX9"
+    },
+    {
+      "added_at": "2023-04-05 12:00:09",
+      "album": {
+        "name": "Designer Love",
+        "url": "https://open.spotify.com/album/6OK84B4MX87uzZ7umm25f3"
+      },
+      "artists": [
+        {
+          "name": "MARIA Die RUHE",
+          "url": "https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ"
+        }
+      ],
+      "duration_ms": 260786,
+      "name": "Designer Love - Short Version",
+      "url": "https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6"
     },
     {
       "added_at": "2023-04-05 12:00:09",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-04-05 12:00:09",
       "album": {
-        "name": "Heaven Or Hell",
-        "url": "https://open.spotify.com/album/4xOuauKQo1WNiGDXXNHbAY"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 232194,
-      "name": "Night Jaguars",
-      "url": "https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3"
-    },
-    {
-      "added_at": "2023-04-05 12:00:09",
-      "album": {
         "name": "Sign of the Times",
         "url": "https://open.spotify.com/album/0nHKigA43sDSCs38xf1tnB"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 193403,
       "name": "Sign of the Times",
       "url": "https://open.spotify.com/track/2UOtnKZNppcZ5dC8v2FS41"
+    },
+    {
+      "added_at": "2023-04-05 12:00:09",
+      "album": {
+        "name": "Heaven Or Hell",
+        "url": "https://open.spotify.com/album/4xOuauKQo1WNiGDXXNHbAY"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 232194,
+      "name": "Night Jaguars",
+      "url": "https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3"
     },
     {
       "added_at": "2023-04-05 12:00:09",
@@ -843,6 +843,38 @@
     {
       "added_at": "2023-04-05 12:00:09",
       "album": {
+        "name": "Lost Generation",
+        "url": "https://open.spotify.com/album/2s9p73FuCiqa0XBz3jtevC"
+      },
+      "artists": [
+        {
+          "name": "MOGUAI",
+          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Bright Sparks",
+          "url": "https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz"
+        },
+        {
+          "name": "Bulgarian Voices Angelite",
+          "url": "https://open.spotify.com/artist/6OxyG688AdDLBKo5yrJXU9"
+        },
+        {
+          "name": "Huun-Huur-Tu",
+          "url": "https://open.spotify.com/artist/1bK0K2tuAcvMScEWIHt54t"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "Lost Generation - Edit",
+      "url": "https://open.spotify.com/track/4IAQZlLWEiMhrYPfL4btZi"
+    },
+    {
+      "added_at": "2023-04-05 12:00:09",
+      "album": {
         "name": "Howl (Logic1000 Remix)",
         "url": "https://open.spotify.com/album/6HbMk0eBtEDGFMMlkpV5gq"
       },
@@ -903,38 +935,6 @@
     {
       "added_at": "2023-04-05 12:00:09",
       "album": {
-        "name": "Lost Generation",
-        "url": "https://open.spotify.com/album/2s9p73FuCiqa0XBz3jtevC"
-      },
-      "artists": [
-        {
-          "name": "MOGUAI",
-          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
-        },
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Bright Sparks",
-          "url": "https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz"
-        },
-        {
-          "name": "Bulgarian Voices Angelite",
-          "url": "https://open.spotify.com/artist/6OxyG688AdDLBKo5yrJXU9"
-        },
-        {
-          "name": "Huun-Huur-Tu",
-          "url": "https://open.spotify.com/artist/1bK0K2tuAcvMScEWIHt54t"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "Lost Generation - Edit",
-      "url": "https://open.spotify.com/track/4IAQZlLWEiMhrYPfL4btZi"
-    },
-    {
-      "added_at": "2023-04-05 12:00:09",
-      "album": {
         "name": "Body Language, Vol. 24",
         "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
       },
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-04-05 12:00:09",
       "album": {
+        "name": "Colorize 2023 Spring Sampler",
+        "url": "https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO"
+      },
+      "artists": [
+        {
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
+        }
+      ],
+      "duration_ms": 240448,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe"
+    },
+    {
+      "added_at": "2023-04-05 12:00:09",
+      "album": {
         "name": "Trojan Love (Original Club Mix)",
         "url": "https://open.spotify.com/album/5VGOmMOd2ke7rAFmaU125O"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 357283,
       "name": "Trojan Love - Original Club Mix",
       "url": "https://open.spotify.com/track/283e2rkf3A78qmcp5xjOTT"
-    },
-    {
-      "added_at": "2023-04-05 12:00:09",
-      "album": {
-        "name": "Colorize 2023 Spring Sampler",
-        "url": "https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO"
-      },
-      "artists": [
-        {
-          "name": "VisionV",
-          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
-        }
-      ],
-      "duration_ms": 240448,
-      "name": "Blossom",
-      "url": "https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe"
     },
     {
       "added_at": "2023-04-05 12:00:09",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2023-04-05 12:00:09",
       "album": {
-        "name": "Laufen",
-        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
-      },
-      "artists": [
-        {
-          "name": "MonoJack",
-          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
-        },
-        {
-          "name": "Fritz K\u00f6lner",
-          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
-        }
-      ],
-      "duration_ms": 257709,
-      "name": "Laufen",
-      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
-    },
-    {
-      "added_at": "2023-04-05 12:00:09",
-      "album": {
         "name": "Stars Wrapped In Skin EP",
         "url": "https://open.spotify.com/album/493mL9Bv6rYSOjTj8CLFJr"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 387887,
       "name": "Neverland - Aparde Remix",
       "url": "https://open.spotify.com/track/6Z5NPPpYnWRxGHQyWz2bPx"
+    },
+    {
+      "added_at": "2023-04-05 12:00:09",
+      "album": {
+        "name": "Laufen",
+        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
+      },
+      "artists": [
+        {
+          "name": "MonoJack",
+          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
+        },
+        {
+          "name": "Fritz K\u00f6lner",
+          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
+        }
+      ],
+      "duration_ms": 257709,
+      "name": "Laufen",
+      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
     },
     {
       "added_at": "2023-04-05 12:00:09",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2023-04-05 12:00:09",
       "album": {
-        "name": "Love Language (Imad Remix)",
-        "url": "https://open.spotify.com/album/598hbZikyOUZzrVMtZzS1W"
-      },
-      "artists": [
-        {
-          "name": "Crooked Colours",
-          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
-        },
-        {
-          "name": "Imad",
-          "url": "https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU"
-        }
-      ],
-      "duration_ms": 362928,
-      "name": "Love Language - Imad Remix",
-      "url": "https://open.spotify.com/track/5iwU7eycAjBcJt1iccuxua"
-    },
-    {
-      "added_at": "2023-04-05 12:00:09",
-      "album": {
         "name": "Made of Wood Remixed",
         "url": "https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA"
       },
@@ -1363,6 +1343,26 @@
     {
       "added_at": "2023-04-05 12:00:09",
       "album": {
+        "name": "Love Language (Imad Remix)",
+        "url": "https://open.spotify.com/album/598hbZikyOUZzrVMtZzS1W"
+      },
+      "artists": [
+        {
+          "name": "Crooked Colours",
+          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
+        },
+        {
+          "name": "Imad",
+          "url": "https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU"
+        }
+      ],
+      "duration_ms": 362928,
+      "name": "Love Language - Imad Remix",
+      "url": "https://open.spotify.com/track/5iwU7eycAjBcJt1iccuxua"
+    },
+    {
+      "added_at": "2023-04-05 12:00:09",
+      "album": {
         "name": "St Claire",
         "url": "https://open.spotify.com/album/0XzPQU4d0gDH92VLJzNe1q"
       },
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-04-05 12:00:09",
       "album": {
-        "name": "Sun Salutations EP",
-        "url": "https://open.spotify.com/album/5mhCg9ohnm2214WyLoFXss"
-      },
-      "artists": [
-        {
-          "name": "Breach",
-          "url": "https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC"
-        }
-      ],
-      "duration_ms": 484645,
-      "name": "Sun Salutations",
-      "url": "https://open.spotify.com/track/75ZMW4hqyXQ2TgF6pL1Giz"
-    },
-    {
-      "added_at": "2023-04-05 12:00:09",
-      "album": {
         "name": "Future Disco: Poolside Sounds Vol. 10",
         "url": "https://open.spotify.com/album/7cwwAxGBAmVPItcXgBu8b6"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 228187,
       "name": "All That Glitters",
       "url": "https://open.spotify.com/track/3rC3WuAGMAQu1l9YEQPSUI"
+    },
+    {
+      "added_at": "2023-04-05 12:00:09",
+      "album": {
+        "name": "Sun Salutations EP",
+        "url": "https://open.spotify.com/album/5mhCg9ohnm2214WyLoFXss"
+      },
+      "artists": [
+        {
+          "name": "Breach",
+          "url": "https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC"
+        }
+      ],
+      "duration_ms": 484645,
+      "name": "Sun Salutations",
+      "url": "https://open.spotify.com/track/75ZMW4hqyXQ2TgF6pL1Giz"
     },
     {
       "added_at": "2023-04-05 12:00:09",

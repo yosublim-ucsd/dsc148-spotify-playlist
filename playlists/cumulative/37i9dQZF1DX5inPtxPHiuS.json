@@ -1396,6 +1396,24 @@
     {
       "album": {
         "name": "Buitres",
+        "url": "https://open.spotify.com/album/1DQ3KAs2WuIVMVKwrEeseh"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235973,
+      "name": "Hacia la Noche",
+      "url": "https://open.spotify.com/track/2vd58HO8mKz1yBkh2mJjlo"
+    },
+    {
+      "album": {
+        "name": "Buitres",
         "url": "https://open.spotify.com/album/1b7wcyINye4qF7MMNcYP7Y"
       },
       "artists": [
@@ -1760,7 +1778,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 179239,
       "name": "Lejos De Aqui",
       "url": "https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV"

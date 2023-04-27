@@ -1,12 +1,12 @@
 {
   "description": "House music lives here. United under one roof, featuring HUGEL.",
-  "num_followers": 1801204,
+  "num_followers": 1801807,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTY2MCwwMDAwMDAwMGRlMjNiZTg2OWUzZjE2Mzg3ZDk2ODVmYzNmZDE1Y2Yz",
+  "snapshot_id": "MTY4MjA0OTY2MCwwMDAwMDAwMDgyYTUzMGMyYzhmZTQwM2I1ZjlhOGUyZWVhNDUzOWM2",
   "tracks": [
     {
       "added_at": "2023-04-21 04:01:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "La Danza",
-        "url": "https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        }
-      ],
-      "duration_ms": 157619,
-      "name": "La Danza",
-      "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Make Me",
         "url": "https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 151436,
       "name": "Make Me",
       "url": "https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "La Danza",
+        "url": "https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 157619,
+      "name": "La Danza",
+      "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "Be The One",
+        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 169852,
+      "name": "Be The One",
+      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Welcome To The People",
         "url": "https://open.spotify.com/album/7HZzmPZE3gKxhzVaIJ11KF"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 224515,
       "name": "My Feelings For You - Mark Knight Remix",
       "url": "https://open.spotify.com/track/2hLczPN5CH5qhc6J4WBJHs"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Be The One",
-        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 169852,
-      "name": "Be The One",
-      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1363,30 +1363,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Drinkee (Vintage Culture & John Summit Remix)",
-        "url": "https://open.spotify.com/album/3SJnS1rKgzb1tgi7oCkf5F"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        }
-      ],
-      "duration_ms": 205161,
-      "name": "Drinkee - Vintage Culture & John Summit Remix",
-      "url": "https://open.spotify.com/track/68raS6F0ad2Iilql3yYeCt"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/5LSnkj5aoJBih89lJ21D5w"
       },
@@ -1407,6 +1383,30 @@
       "duration_ms": 147401,
       "name": "Friends",
       "url": "https://open.spotify.com/track/3YCr7Q8EbWoGLByCTPmxoe"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Drinkee (Vintage Culture & John Summit Remix)",
+        "url": "https://open.spotify.com/album/3SJnS1rKgzb1tgi7oCkf5F"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 205161,
+      "name": "Drinkee - Vintage Culture & John Summit Remix",
+      "url": "https://open.spotify.com/track/68raS6F0ad2Iilql3yYeCt"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/37IWL3cLKAFT5EkQiFkDAI"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 201904,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/0RoGOiZUCQyqAZSPBSk75T"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "It's A Killa",
         "url": "https://open.spotify.com/album/1ogCIMBO0ju1EP18pir9Tt"
       },
@@ -1467,18 +1483,18 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Make Me Feel",
-        "url": "https://open.spotify.com/album/37IWL3cLKAFT5EkQiFkDAI"
+        "name": "Can\u2019t Fight The Feeling",
+        "url": "https://open.spotify.com/album/0UDIxo8rh9AcO7oGHjaETt"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
         }
       ],
-      "duration_ms": 201904,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/0RoGOiZUCQyqAZSPBSk75T"
+      "duration_ms": 171428,
+      "name": "Can\u2019t Fight The Feeling",
+      "url": "https://open.spotify.com/track/1T7fTFxkosqEF8AZzDvm6I"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Can\u2019t Fight The Feeling",
-        "url": "https://open.spotify.com/album/0UDIxo8rh9AcO7oGHjaETt"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Can\u2019t Fight The Feeling",
-      "url": "https://open.spotify.com/track/1T7fTFxkosqEF8AZzDvm6I"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Love Vibration",
         "url": "https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL"
       },
@@ -1531,26 +1531,6 @@
       "duration_ms": 180487,
       "name": "Love Vibration",
       "url": "https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Back Tomorrow",
-        "url": "https://open.spotify.com/album/1UOQt2dEoHhoJTinUxvFaI"
-      },
-      "artists": [
-        {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 118871,
-      "name": "Back Tomorrow",
-      "url": "https://open.spotify.com/track/4q2azQakSVVyqljRiCZtu3"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1571,6 +1551,26 @@
       "duration_ms": 366141,
       "name": "Da Fonk (feat. Joni)",
       "url": "https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Back Tomorrow",
+        "url": "https://open.spotify.com/album/1UOQt2dEoHhoJTinUxvFaI"
+      },
+      "artists": [
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "duration_ms": 118871,
+      "name": "Back Tomorrow",
+      "url": "https://open.spotify.com/track/4q2azQakSVVyqljRiCZtu3"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Pump the Brakes",
-        "url": "https://open.spotify.com/album/6LF0iT7seN01JDE1LjBJm5"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 220581,
-      "name": "Pump the Brakes",
-      "url": "https://open.spotify.com/track/1Gz2E1chOzRyhFXHJYWw8y"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/2AP6dy9DNEXjERfyveb35H"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 233170,
       "name": "Alive",
       "url": "https://open.spotify.com/track/43yv23e1pejzlyvs5Fsa5w"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Pump the Brakes",
+        "url": "https://open.spotify.com/album/6LF0iT7seN01JDE1LjBJm5"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 220581,
+      "name": "Pump the Brakes",
+      "url": "https://open.spotify.com/track/1Gz2E1chOzRyhFXHJYWw8y"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1915,26 +1915,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "079",
-        "url": "https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6"
-      },
-      "artists": [
-        {
-          "name": "Rain Radio",
-          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
-        },
-        {
-          "name": "Block Notice",
-          "url": "https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq"
-        }
-      ],
-      "duration_ms": 168200,
-      "name": "079",
-      "url": "https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Under The Sun",
         "url": "https://open.spotify.com/album/0nOe03llpGGQNH6Zjyj20Z"
       },
@@ -1951,6 +1931,26 @@
       "duration_ms": 208374,
       "name": "Under The Sun",
       "url": "https://open.spotify.com/track/1eKSPMRzGdglxelX3kyrqc"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "079",
+        "url": "https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6"
+      },
+      "artists": [
+        {
+          "name": "Rain Radio",
+          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
+        },
+        {
+          "name": "Block Notice",
+          "url": "https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq"
+        }
+      ],
+      "duration_ms": 168200,
+      "name": "079",
+      "url": "https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd"
     },
     {
       "added_at": "2023-04-21 04:01:00",

@@ -674,7 +674,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 282683,
       "name": "Activate (feat. Future)",
       "url": "https://open.spotify.com/track/5PRdakfAVoACShGYP4zOsj"
@@ -3948,7 +3948,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 227036,
       "name": "Chubaruba",
       "url": "https://open.spotify.com/track/5wMW0moRVTLGOOege0iFVQ"
@@ -11000,7 +11000,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-24",
+      "date_removed": null,
       "duration_ms": 153442,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px"
@@ -14400,7 +14400,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 198904,
       "name": "Not So Bad (Leans Gone Cold)",
       "url": "https://open.spotify.com/track/4qZLvqy5Wg4sgQ9gKusb1B"
@@ -15161,6 +15161,24 @@
     },
     {
       "album": {
+        "name": "PASS AUF",
+        "url": "https://open.spotify.com/album/0EwK4GJ6Gy9qnNFwnnuHu0"
+      },
+      "artists": [
+        {
+          "name": "HoodBlaq",
+          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205993,
+      "name": "PASS AUF",
+      "url": "https://open.spotify.com/track/1ZKMMvWLhxXlk7VXqS7YRG"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -15211,7 +15229,7 @@
       "artists": [
         {
           "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+          "url": "https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF"
         }
       ],
       "date_added": "2023-01-12",
@@ -16582,7 +16600,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 180000,
       "name": "Royal Flush (feat. Young Thug)",
       "url": "https://open.spotify.com/track/6iN3ICXAJjrNuSAlWMzwz7"
@@ -17184,7 +17202,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 188280,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/4RaudxrJWcOHElbD8u8RBh"
@@ -18648,6 +18666,28 @@
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
+    },
+    {
+      "album": {
+        "name": "SUPE QUERERTE",
+        "url": "https://open.spotify.com/album/1QNlfQWIzq3KemFjEjIJt7"
+      },
+      "artists": [
+        {
+          "name": "AIA",
+          "url": "https://open.spotify.com/artist/2hDApqAlxq3SAVaKttcbz6"
+        },
+        {
+          "name": "Delex on da track",
+          "url": "https://open.spotify.com/artist/6CLwb3QyPOC01CdH2utzQm"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129123,
+      "name": "SUPE QUERERTE",
+      "url": "https://open.spotify.com/track/4ziLVB8YjdpNuCAmZtkeRu"
     },
     {
       "album": {
@@ -20998,7 +21038,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-25",
+      "date_removed": null,
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"

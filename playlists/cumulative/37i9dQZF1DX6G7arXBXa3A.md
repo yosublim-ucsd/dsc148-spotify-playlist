@@ -4,7 +4,7 @@
 
 > Big bands, big sounds.
 
-72 songs - 4 hr 28 min
+73 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Jack, You're Dead!](https://open.spotify.com/track/6II9eJG8h4SR6h5yray17w) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Jumpin' Jive](https://open.spotify.com/album/4xrPIoskW5gjPPe05YSjde) | 2:47 | 2020-03-06 | 2022-07-29 |
 | [Jazz Me Blues](https://open.spotify.com/track/1HCR0Img7vPgXCHxeSCtK6) | [Woody Herman](https://open.spotify.com/artist/2KSxJY1WxGGVYSmoM0N54P) | [Verve Jazz Masters 54](https://open.spotify.com/album/5VSUS19ItaqyZwSNV7CRuo) | 3:04 | 2020-03-06 |  |
 | [Just One Of Those Things](https://open.spotify.com/track/6L1Y0Lt8pGmdZI0YiFEYMN) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Inspiration \(A Tribute To Nat King Cole\)](https://open.spotify.com/album/7vyiMvnff3s8c226VZS3Mg) | 2:42 | 2020-03-06 | 2022-07-29 |
-| [Just One Of Those Things](https://open.spotify.com/track/6QZ4ZhD8hGVTfwoN2Ypl4Z) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Inspiration \(A Tribute To Nat King Cole\)](https://open.spotify.com/album/7CVBlFmDZnYjHyP6G0aj0m) | 2:42 | 2020-03-06 |  |
+| [Just One Of Those Things](https://open.spotify.com/track/6QZ4ZhD8hGVTfwoN2Ypl4Z) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Inspiration \(A Tribute To Nat King Cole\)](https://open.spotify.com/album/7CVBlFmDZnYjHyP6G0aj0m) | 2:42 | 2020-03-06 | 2023-04-27 |
 | [Let The Good Times Roll](https://open.spotify.com/track/5s9wI2Jijxp5sDyL9ltKmR) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [Q's Jook Joint](https://open.spotify.com/album/4nnrb8iMCWDNkgP9ibskgI) | 2:55 | 2020-03-06 | 2022-07-29 |
 | [Let The Good Times Roll](https://open.spotify.com/track/2dFJA0ZQ2OjA8TWjEV6P5n) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Q's Jook Joint](https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1) | 2:55 | 2020-03-06 |  |
 | [Let's Fall In Love](https://open.spotify.com/track/0Z0qG3El21xEkL9RupyIin) | [Ann Hampton Callaway](https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e) | [To Ella With Love](https://open.spotify.com/album/7u4thCH0J24iqaKu1UwffK) | 2:46 | 2020-03-06 | 2022-07-28 |
@@ -76,6 +76,7 @@
 | [Whisper Not](https://open.spotify.com/track/6chc0hinq5KuAhQhML22Hv) | [Maynard Ferguson Orchestra](https://open.spotify.com/artist/5zKY2J7SS55XcV2NFb7rPD) | [1967](https://open.spotify.com/album/1zfcftE8MWUffLvReEkuvK) | 6:18 | 2020-03-06 | 2023-01-25 |
 | [Woodchopper's Ball](https://open.spotify.com/track/4rHjZlNFyBhY6CgjlR5y5W) | [Woody Herman & His Orchestra](https://open.spotify.com/artist/7CUcJMFBfSARR8js036QOn) | [Blues On Parade](https://open.spotify.com/album/28V0dxj4vb8blEfyvx5Bvp) | 3:14 | 2020-03-06 | 2023-04-21 |
 | [Woodchopper's Ball](https://open.spotify.com/track/0irr37TKHqpGSB0Ys8Q3rJ) | [Woody Herman & His Orchestra](https://open.spotify.com/artist/7CUcJMFBfSARR8js036QOn), [Woody Herman](https://open.spotify.com/artist/2KSxJY1WxGGVYSmoM0N54P), [Joe Bishop](https://open.spotify.com/artist/2OGz9jhDuRaeR3OG36pk15) | [Portrait](https://open.spotify.com/album/5Cw32z9ICOrrbS8Q5JcpDv) | 3:14 | 2020-03-06 | 2022-07-29 |
+| [Woodchopper’s Ball](https://open.spotify.com/track/28Ku0JK5FGK2tNdfI0rzXz) | [Woody Herman & His Orchestra](https://open.spotify.com/artist/7CUcJMFBfSARR8js036QOn) | [Welcome to My Dream](https://open.spotify.com/album/0DdGWUa83ELS8iOT66bo1o) | 3:15 | 2020-03-06 |  |
 | [Work Song](https://open.spotify.com/track/3YLc8x4uliODz7Ppa1KnKB) | [Jazz At Lincoln Center Orchestra](https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb), [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Black, Brown and Beige](https://open.spotify.com/album/6dfaMuSYNofjA7mOBgS25u) | 8:05 | 2020-03-06 |  |
 | [You and the Night and the Music](https://open.spotify.com/track/70r5LykcO0PQq4Fcew9M3K) | [John Fedchock New York Big Band](https://open.spotify.com/artist/77O8KyajMODEQz9vYmSRZd) | [Like It Is](https://open.spotify.com/album/5mZVOsfA8FMB5IwtnNu1eG) | 7:18 | 2020-03-06 | 2022-07-28 |
 | [You Make Me Feel so Young](https://open.spotify.com/track/1B8RSIxmwcjad7XUJjeCK2) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [To Be Loved](https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07) | 3:05 | 2020-03-06 |  |

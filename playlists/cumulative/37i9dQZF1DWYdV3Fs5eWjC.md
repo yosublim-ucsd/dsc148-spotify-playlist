@@ -4,7 +4,7 @@
 
 > Discover the multifaceted creativity of the black queer community\. Cover: Honey Dijon
 
-124 songs - 6 hr 47 min
+125 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Aye Day Pay Day](https://open.spotify.com/track/4FRldwNovP8muUNJi0TifE) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Aye Day Pay Day](https://open.spotify.com/album/2nln0OkUaKQIoPrirm15ZY) | 2:12 | 2022-05-31 |  |
 | [Back Together](https://open.spotify.com/track/1KoXAHzunI8OY34GwmnIQV) | [Amorphous](https://open.spotify.com/artist/2mvAbMVwkxiZWJXjorKpdK), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Back Together](https://open.spotify.com/album/5aW4rl6oNbpoL0LwteyYNH) | 4:09 | 2021-05-21 |  |
 | [Betty Bussit \(feat\. Soaky Siren & Tank and The Bangas\)](https://open.spotify.com/track/0x754YEyX1foz1WkbRF4uY) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Soaky Siren](https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC), [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [Betty Bussit \(feat\. Soaky Siren & Tank and The Bangas\)](https://open.spotify.com/album/6ewbAPvSTZ7a9LGa9yQw6K) | 2:56 | 2021-06-25 | 2022-08-05 |
-| [Bikini Bottom](https://open.spotify.com/track/4RsqpFi9rvEfjtMywsOYkQ) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 1:46 | 2023-04-06 |  |
+| [Bikini Bottom](https://open.spotify.com/track/3ylgJvzFdjbcXNcxj9mXku) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 1:46 | 2023-04-06 |  |
+| [Bikini Bottom](https://open.spotify.com/track/4RsqpFi9rvEfjtMywsOYkQ) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 1:46 | 2023-04-06 | 2023-04-27 |
 | [Bisexual Anthem](https://open.spotify.com/track/4O5vkTY3ivnCv5oY6UXAPd) | [Domo Wilson](https://open.spotify.com/artist/2h2fB0j2IN50sSwolVO1AZ) | [Chapter 25: Domonique](https://open.spotify.com/album/6hN3Sw6FzfmfGhEeD78cVU) | 3:07 | 2022-05-31 |  |
 | [BITTERSWEET](https://open.spotify.com/track/52tFvypUPX3uDgVgqrNtY9) | [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [BITTERSWEET](https://open.spotify.com/album/5LdnNVb0nomYIlLiRUtAcq) | 3:25 | 2020-07-10 | 2022-09-13 |
 | [Body Move](https://open.spotify.com/track/7f8ikUEaa2glQLszmOh7aN) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Body Move](https://open.spotify.com/album/20v7NPIDPBIRXIBEnJdoQg) | 2:56 | 2022-05-31 |  |

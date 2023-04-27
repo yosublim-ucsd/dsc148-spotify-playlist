@@ -5935,6 +5935,24 @@
     },
     {
       "album": {
+        "name": "dj",
+        "url": "https://open.spotify.com/album/3muBhysPm7Fo5M7NiFLNLp"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135914,
+      "name": "dj",
+      "url": "https://open.spotify.com/track/3FkE7rIbfrkD5JluAGZtlt"
+    },
+    {
+      "album": {
         "name": "Vices Hurt",
         "url": "https://open.spotify.com/album/1HpJMg8tpRhYMFn5Isc05m"
       },
@@ -8616,6 +8634,24 @@
     {
       "album": {
         "name": "Girls",
+        "url": "https://open.spotify.com/album/2fH2641iiOweBzDveY6QxM"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119558,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/1J7PghJCXSry2djsrflxdq"
+    },
+    {
+      "album": {
+        "name": "Girls",
         "url": "https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH"
       },
       "artists": [
@@ -8626,7 +8662,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 119558,
       "name": "Girls",
       "url": "https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5"
@@ -16088,7 +16124,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 98340,
       "name": "old place",
       "url": "https://open.spotify.com/track/4Jh96C8DDxAJFCrECbFvxP"

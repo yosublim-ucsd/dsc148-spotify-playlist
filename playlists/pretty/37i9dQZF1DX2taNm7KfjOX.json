@@ -1,12 +1,12 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Paris Paloma",
-  "num_followers": 789661,
+  "num_followers": 789787,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMGY4ZTJkZTAyYzRhMWYwNzRkOWE1YjRjYmIwZGQwZDY5",
+  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMGE5MDYwMmQ5OGU5MTg5ODY4YTgzYjk0MDAwNTE5YmI0",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Getaway",
-        "url": "https://open.spotify.com/album/6SVeCBELPZSeSyO8RCbSOV"
-      },
-      "artists": [
-        {
-          "name": "Abigail Lapell",
-          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
-        }
-      ],
-      "duration_ms": 175045,
-      "name": "Down by the Water",
-      "url": "https://open.spotify.com/track/4c5npp9gnwBHHyKnaqK2mD"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "The Way Back Home",
         "url": "https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 214361,
       "name": "The Way Back Home",
       "url": "https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Getaway",
+        "url": "https://open.spotify.com/album/6SVeCBELPZSeSyO8RCbSOV"
+      },
+      "artists": [
+        {
+          "name": "Abigail Lapell",
+          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
+        }
+      ],
+      "duration_ms": 175045,
+      "name": "Down by the Water",
+      "url": "https://open.spotify.com/track/4c5npp9gnwBHHyKnaqK2mD"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Dark Corners",
-        "url": "https://open.spotify.com/album/1I0ykzztcM5pM4frXEUmVO"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 191241,
-      "name": "pirate song",
-      "url": "https://open.spotify.com/track/0wnZAXlg3CPUgAKFQblzff"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Chlo\u00eb and the Next 20th Century",
         "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 300240,
       "name": "Goodbye Mr. Blue",
       "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Dark Corners",
+        "url": "https://open.spotify.com/album/1I0ykzztcM5pM4frXEUmVO"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 191241,
+      "name": "pirate song",
+      "url": "https://open.spotify.com/track/0wnZAXlg3CPUgAKFQblzff"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1115,22 +1115,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "and we\u2019ll leave it there\u2026",
-        "url": "https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d"
+        "name": "Sad Hunk",
+        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
       },
       "artists": [
         {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        },
-        {
-          "name": "Ella McRobb",
-          "url": "https://open.spotify.com/artist/0NswlnGI3k9W3MHn5dEjdw"
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
         }
       ],
-      "duration_ms": 219840,
-      "name": "and we\u2019ll leave it there\u2026",
-      "url": "https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9"
+      "duration_ms": 144186,
+      "name": "Half Your Love",
+      "url": "https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1155,18 +1151,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Sad Hunk",
-        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
+        "name": "and we\u2019ll leave it there\u2026",
+        "url": "https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d"
       },
       "artists": [
         {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Ella McRobb",
+          "url": "https://open.spotify.com/artist/0NswlnGI3k9W3MHn5dEjdw"
         }
       ],
-      "duration_ms": 144186,
-      "name": "Half Your Love",
-      "url": "https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt"
+      "duration_ms": 219840,
+      "name": "and we\u2019ll leave it there\u2026",
+      "url": "https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
+        "name": "Henry St.",
+        "url": "https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9"
       },
       "artists": [
         {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
         }
       ],
-      "duration_ms": 209493,
-      "name": "Everyone's A Winner",
-      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
+      "duration_ms": 215280,
+      "name": "Looking For Love",
+      "url": "https://open.spotify.com/track/4HaVJ5EePm2ABB6CP2Ff5X"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1559,6 +1559,22 @@
       "duration_ms": 213866,
       "name": "Mama Said",
       "url": "https://open.spotify.com/track/3eiTlfmClIHJS7Vq4IwkBZ"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "This Is Really Going To Hurt",
+        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Everyone's A Winner",
+      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1615,18 +1631,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Henry St.",
-        "url": "https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9"
+        "name": "Big Picture",
+        "url": "https://open.spotify.com/album/08AEeRKieqKS9Z9tU8SnPr"
       },
       "artists": [
         {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
         }
       ],
-      "duration_ms": 215280,
-      "name": "Looking For Love",
-      "url": "https://open.spotify.com/track/4HaVJ5EePm2ABB6CP2Ff5X"
+      "duration_ms": 165133,
+      "name": "Pick",
+      "url": "https://open.spotify.com/track/2opMGBCXLhtv94ffMd6vBf"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1643,22 +1659,6 @@
       "duration_ms": 233333,
       "name": "Victory",
       "url": "https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Big Picture",
-        "url": "https://open.spotify.com/album/08AEeRKieqKS9Z9tU8SnPr"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 165133,
-      "name": "Pick",
-      "url": "https://open.spotify.com/track/2opMGBCXLhtv94ffMd6vBf"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Permanent Way",
-        "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 219013,
-      "name": "Don't Go Far",
-      "url": "https://open.spotify.com/track/2BfvdgdBqLtwAzvgtZq9hb"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Drop Cherries",
         "url": "https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 206103,
       "name": "God Above",
       "url": "https://open.spotify.com/track/0dxOa53QwjVqb4FPtQMflQ"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Permanent Way",
+        "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 219013,
+      "name": "Don't Go Far",
+      "url": "https://open.spotify.com/track/2BfvdgdBqLtwAzvgtZq9hb"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Sorceress",
-        "url": "https://open.spotify.com/album/7MVsXLrGD9X1iBM0AQGFE6"
-      },
-      "artists": [
-        {
-          "name": "Jess Williamson",
-          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
-        }
-      ],
-      "duration_ms": 186509,
-      "name": "Wind On Tin",
-      "url": "https://open.spotify.com/track/5eaLSLnaAHcUph093i4Bqr"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Alabama Haint",
         "url": "https://open.spotify.com/album/11cZUoRDf5kWxxfCUjzKHg"
       },
@@ -1967,6 +1951,38 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Sorceress",
+        "url": "https://open.spotify.com/album/7MVsXLrGD9X1iBM0AQGFE6"
+      },
+      "artists": [
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "duration_ms": 186509,
+      "name": "Wind On Tin",
+      "url": "https://open.spotify.com/track/5eaLSLnaAHcUph093i4Bqr"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Guard Dog",
+        "url": "https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 277374,
+      "name": "Walk Me Home",
+      "url": "https://open.spotify.com/track/2m5QJpOvrWWA7xuhwK1Rpk"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Mipso",
         "url": "https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM"
       },
@@ -1995,22 +2011,6 @@
       "duration_ms": 220253,
       "name": "Thirty",
       "url": "https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Guard Dog",
-        "url": "https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 277374,
-      "name": "Walk Me Home",
-      "url": "https://open.spotify.com/track/2m5QJpOvrWWA7xuhwK1Rpk"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 206995,
-      "name": "Strange Overtones",
-      "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Cool Dry Place",
         "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
       },
@@ -2263,66 +2247,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Bedouine (Deluxe)",
-        "url": "https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB"
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
       },
       "artists": [
         {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
         }
       ],
-      "duration_ms": 231066,
-      "name": "Nice and Quiet",
-      "url": "https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "dirt",
-        "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
-      },
-      "artists": [
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 176268,
-      "name": "4th of july",
-      "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Starlings",
-        "url": "https://open.spotify.com/album/0Rfat6EivGArSNu2CMUGVf"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 175586,
-      "name": "Starlings",
-      "url": "https://open.spotify.com/track/2FhmVF4McRFZ0Pr0ZZLGDv"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "BREACH",
-        "url": "https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 219680,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD"
+      "duration_ms": 206995,
+      "name": "Strange Overtones",
+      "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -2343,18 +2279,50 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Rushin' River Valley",
-        "url": "https://open.spotify.com/album/7loW3vW3nKN9IV9pD9MHlo"
+        "name": "dirt",
+        "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
       },
       "artists": [
         {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
         }
       ],
-      "duration_ms": 226996,
-      "name": "Rushin' River Valley",
-      "url": "https://open.spotify.com/track/5tpp3h5cRMNOH1cXlvpQ7s"
+      "duration_ms": 176268,
+      "name": "4th of july",
+      "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Bedouine (Deluxe)",
+        "url": "https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "Nice and Quiet",
+      "url": "https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "BREACH",
+        "url": "https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 219680,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -2375,18 +2343,34 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Juniors",
-        "url": "https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop"
+        "name": "Rushin' River Valley",
+        "url": "https://open.spotify.com/album/7loW3vW3nKN9IV9pD9MHlo"
       },
       "artists": [
         {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
         }
       ],
-      "duration_ms": 233533,
-      "name": "Hear It Again",
-      "url": "https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG"
+      "duration_ms": 226996,
+      "name": "Rushin' River Valley",
+      "url": "https://open.spotify.com/track/5tpp3h5cRMNOH1cXlvpQ7s"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Starlings",
+        "url": "https://open.spotify.com/album/0Rfat6EivGArSNu2CMUGVf"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 175586,
+      "name": "Starlings",
+      "url": "https://open.spotify.com/track/2FhmVF4McRFZ0Pr0ZZLGDv"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -2403,6 +2387,22 @@
       "duration_ms": 252816,
       "name": "Used",
       "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Juniors",
+        "url": "https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 233533,
+      "name": "Hear It Again",
+      "url": "https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -2519,6 +2519,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "colour in life",
+        "url": "https://open.spotify.com/album/1NqI2jWZ4Mbi9vFHlxiz2A"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 288362,
+      "name": "colour in life",
+      "url": "https://open.spotify.com/track/6MKw0vVRAtO5gs8G96IkQZ"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "The Water & The Rough",
         "url": "https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL"
       },
@@ -2547,22 +2563,6 @@
       "duration_ms": 246800,
       "name": "Bad Moves",
       "url": "https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "colour in life",
-        "url": "https://open.spotify.com/album/1NqI2jWZ4Mbi9vFHlxiz2A"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 288362,
-      "name": "colour in life",
-      "url": "https://open.spotify.com/track/6MKw0vVRAtO5gs8G96IkQZ"
     },
     {
       "added_at": "2023-04-21 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 142060,
+  "num_followers": 142112,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM2OTIwMCwwMDAwMDAwMGUwOTAxMjIxMTEyZmVlM2Q4NWU0NTdhMDE5ZjAzMGNk",
+  "snapshot_id": "MTY3MjM2OTIwMCwwMDAwMDAwMDE1NDAzY2M3NWMwYmM1Nzk0NGE4OGYxYWY1MDg3ZDY3",
   "tracks": [
     {
       "added_at": "2022-12-30 03:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "La Paciencia De La Ara\u00f1a",
-        "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
-      },
-      "artists": [
-        {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
-        }
-      ],
-      "duration_ms": 346800,
-      "name": "Avanti Morocha",
-      "url": "https://open.spotify.com/track/411J3pP54W1K9PMo72Fg2w"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
         "name": "Esp\u00edritu",
         "url": "https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 202360,
       "name": "Chino",
       "url": "https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "La Paciencia De La Ara\u00f1a",
+        "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
+      },
+      "artists": [
+        {
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        }
+      ],
+      "duration_ms": 346800,
+      "name": "Avanti Morocha",
+      "url": "https://open.spotify.com/track/411J3pP54W1K9PMo72Fg2w"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -411,18 +411,18 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Fulanos de Nadie",
-        "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
+        "name": "SHOC",
+        "url": "https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz"
       },
       "artists": [
         {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+          "name": "La 25",
+          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
         }
       ],
-      "duration_ms": 259146,
-      "name": "Sapo de Otro Pozo",
-      "url": "https://open.spotify.com/track/1g0mhq4ZDQE3cTd1XLcYVf"
+      "duration_ms": 255851,
+      "name": "Solo voy",
+      "url": "https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -443,18 +443,18 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "SHOC",
-        "url": "https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz"
+        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
       },
       "artists": [
         {
-          "name": "La 25",
-          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
         }
       ],
-      "duration_ms": 255851,
-      "name": "Solo voy",
-      "url": "https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb"
+      "duration_ms": 198706,
+      "name": "Par Mil",
+      "url": "https://open.spotify.com/track/0wUFXsXHZc2h6wKRcmJNWF"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -491,18 +491,18 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
-        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
+        "name": "Fulanos de Nadie",
+        "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
       },
       "artists": [
         {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
         }
       ],
-      "duration_ms": 198706,
-      "name": "Par Mil",
-      "url": "https://open.spotify.com/track/0wUFXsXHZc2h6wKRcmJNWF"
+      "duration_ms": 259146,
+      "name": "Sapo de Otro Pozo",
+      "url": "https://open.spotify.com/track/1g0mhq4ZDQE3cTd1XLcYVf"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Las Pastillas del Abuelo",
-        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
-      },
-      "artists": [
-        {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
-        }
-      ],
-      "duration_ms": 321706,
-      "name": "Otra Vuelta de Tuerca",
-      "url": "https://open.spotify.com/track/3Azo521e0Tacq8znJWaDQO"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
         "name": "La Renga",
         "url": "https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 295773,
       "name": "Cuando Est\u00e9s Ac\u00e1",
       "url": "https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "Las Pastillas del Abuelo",
+        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        }
+      ],
+      "duration_ms": 321706,
+      "name": "Otra Vuelta de Tuerca",
+      "url": "https://open.spotify.com/track/3Azo521e0Tacq8znJWaDQO"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Libertinaje",
-        "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 205946,
-      "name": "Se Viene",
-      "url": "https://open.spotify.com/track/3sDmwlRdEdsb1BLDChJSJV"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
         "name": "A Donde Me Lleva La Vida",
         "url": "https://open.spotify.com/album/5f86DyUHkazyikoFVWb237"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 307386,
       "name": "Triste Canci\u00f3n De Amor",
       "url": "https://open.spotify.com/track/0LTPPsp9xmM92ZT6pGvsrz"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "Libertinaje",
+        "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 205946,
+      "name": "Se Viene",
+      "url": "https://open.spotify.com/track/3sDmwlRdEdsb1BLDChJSJV"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Alucinados como la primera vez",
-        "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
-      },
-      "artists": [
-        {
-          "name": "Pier",
-          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
-        }
-      ],
-      "duration_ms": 300184,
-      "name": "La ilusi\u00f3n que me condena",
-      "url": "https://open.spotify.com/track/0AP4CI592TMd5YktR6XINJ"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
         "name": "Vicio",
         "url": "https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 208373,
       "name": "Nunca me ense\u00f1aste",
       "url": "https://open.spotify.com/track/41i7cqPXQj5zkMJK6V6RNf"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "Alucinados como la primera vez",
+        "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
+      },
+      "artists": [
+        {
+          "name": "Pier",
+          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
+        }
+      ],
+      "duration_ms": 300184,
+      "name": "La ilusi\u00f3n que me condena",
+      "url": "https://open.spotify.com/track/0AP4CI592TMd5YktR6XINJ"
     },
     {
       "added_at": "2022-12-30 03:00:00",

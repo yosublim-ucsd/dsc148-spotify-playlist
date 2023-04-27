@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura with Roy Woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,213 likes - 99 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,286 likes - 99 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 40 | [in ur motion](https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Goûter +](https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n) | 3:28 |
 | 41 | [Out for the Night](https://open.spotify.com/track/1XyWCPjWZIddambxdfT8yU) | [RIZ](https://open.spotify.com/artist/0jqnXN5T2fcibfVJOY1G3N) | [Out for the Night](https://open.spotify.com/album/7cy5SXMfi4DoQd1Jpv6Ebb) | 3:19 |
 | 42 | [STR8](https://open.spotify.com/track/7dgvZdVmuo8CtfFqcgiZLF) | [Liyah Katana](https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu) | [STR8](https://open.spotify.com/album/3gghBuWIP2DbLtBKhHc4TR) | 2:52 |
-| 43 | [Nobody's Fool](https://open.spotify.com/track/6folHlbbLuRgOtNj6fS5OS) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [FATHERDUDE](https://open.spotify.com/artist/2B50tPmaH4o50MqFC7j98Z) | [Nobody's Fool](https://open.spotify.com/album/3o6zpnwxSC8PeIQkdP5V1w) | 3:16 |
+| 43 | [Nobody's Fool](https://open.spotify.com/track/6folHlbbLuRgOtNj6fS5OS) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [FATHERDUDE](https://open.spotify.com/artist/2B50tPmaH4o50MqFC7j98Z), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Nobody's Fool](https://open.spotify.com/album/3o6zpnwxSC8PeIQkdP5V1w) | 3:16 |
 | 44 | [MORAL](https://open.spotify.com/track/6wCDE1tpYcU7aPWkdxlJzt) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [MORAL](https://open.spotify.com/album/3ThoYoeN8LuYrErKTM3qOg) | 2:45 |
 | 45 | [Into Nirvana](https://open.spotify.com/track/3c5vdnAI4NMrTDwBvEOmoh) | [SPIRITSAVER](https://open.spotify.com/artist/3DbCiwrbBPRRuCo4UvLl8c) | [Into Nirvana](https://open.spotify.com/album/23yroNvqRYGmbbl0YXPsS5) | 2:39 |
 | 46 | [CAN I TALK 2U](https://open.spotify.com/track/3ZDtcniZ6y0ZIwhzM2l2vy) | [AMEN DENIRO](https://open.spotify.com/artist/5i5IBAqlmKRwgkalA07mZ5) | [CAN I TALK 2U](https://open.spotify.com/album/4tbEH7GE8xTOdrcrNXt8B6) | 2:30 |

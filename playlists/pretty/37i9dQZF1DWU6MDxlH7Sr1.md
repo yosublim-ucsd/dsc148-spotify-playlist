@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6MDxlH7Sr1.md) - [plain]
 
 > Soft Jazz in the background of your cocktail party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,665 likes - 152 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,753 likes - 152 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,7 +144,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6MDxlH7Sr1.md) - [plain]
 | 134 | [Let There Be Love](https://open.spotify.com/track/0xwx7ezy29UaYUfauZiFSF) | [Zander Jazz Trio](https://open.spotify.com/artist/5QBHt7kiJsvbsdJx30kMhl) | [Misty](https://open.spotify.com/album/3VxtokLaFZNDwce4YijTmE) | 3:02 |
 | 135 | [Familiarity](https://open.spotify.com/track/2rkMiWiaO1iPWjb5Lko8Lu) | [We Three Trio](https://open.spotify.com/artist/1T5DJ6QCdj86XsYXSCF5kj) | [Familiarity](https://open.spotify.com/album/1u7G8TW6rs86xYf5nVTeac) | 3:00 |
 | 136 | [When You Are Around](https://open.spotify.com/track/3WUrXHDowLk25UtALiohVD) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [When You Are Around](https://open.spotify.com/album/3v6ovPPFtr6E6vpVuBw2bi) | 3:11 |
-| 137 | [Autumn in New York](https://open.spotify.com/track/2skpUMopTEdxq57d3UlPCh) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm) | [A Ballad Moment](https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl) | 2:59 |
+| 137 | [Autumn in New York](https://open.spotify.com/track/2skpUMopTEdxq57d3UlPCh) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Ballad Moment](https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl) | 2:59 |
 | 138 | [Spring Fling](https://open.spotify.com/track/1p0jkWytxejDWCaovqjlGs) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Spring Fling](https://open.spotify.com/album/1btJwiyroPlhKuQJb2EypQ) | 2:30 |
 | 139 | [Lexington Ave\. Blues](https://open.spotify.com/track/098POWyt9OYxpTbzosh47I) | [We Three Trio](https://open.spotify.com/artist/1T5DJ6QCdj86XsYXSCF5kj) | [Skating](https://open.spotify.com/album/2TQ3EtEnMcVqwItpCMsYOY) | 2:38 |
 | 140 | [Autumn Once Again](https://open.spotify.com/track/3FFYuymUtI8DihGhLMHggW) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Autumn Once Again](https://open.spotify.com/album/3XWIqHBr7g3vkRKOx94SFk) | 4:44 |

@@ -1,12 +1,12 @@
 {
   "description": "Fearless sounds at the crossroads of Country and Folk. Cover: Bella White",
-  "num_followers": 40982,
+  "num_followers": 41046,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDNkOGJjYTFlZDM5OWVlYTI5MTEzM2IzNzk1ZTJiMWUy",
+  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDdkZTQ2ZjQ3NmQ3NmZiNGRiODE4YjRlNDc1YzA2Yzg3",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Paint Horse",
-        "url": "https://open.spotify.com/album/6s0ZlMKxMLMAspUfTI2NzN"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Dakota Rogers",
-          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
-        }
-      ],
-      "duration_ms": 191182,
-      "name": "John Came Home",
-      "url": "https://open.spotify.com/track/6lYLBkRAE90WZuYW649Zek"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "A Heart of Gold Is Hard to Find",
         "url": "https://open.spotify.com/album/6r7LEqLEJtrKiBkYKgBegM"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 140808,
       "name": "A Heart of Gold Is Hard to Find",
       "url": "https://open.spotify.com/track/5E6pYKegSu23icZLcIRCok"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Paint Horse",
+        "url": "https://open.spotify.com/album/6s0ZlMKxMLMAspUfTI2NzN"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dakota Rogers",
+          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
+        }
+      ],
+      "duration_ms": 191182,
+      "name": "John Came Home",
+      "url": "https://open.spotify.com/track/6lYLBkRAE90WZuYW649Zek"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "This Mess We're In",
-        "url": "https://open.spotify.com/album/5CK0pgc09TdzFBkNUQ5GR9"
-      },
-      "artists": [
-        {
-          "name": "Arlo McKinley",
-          "url": "https://open.spotify.com/artist/4bnCmwKU89Rt1zWnRIdSUa"
-        }
-      ],
-      "duration_ms": 203659,
-      "name": "To Die For",
-      "url": "https://open.spotify.com/track/3jrhymhDIXEzFCIGXVYjVH"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "World Burn",
         "url": "https://open.spotify.com/album/6NowVZWXxm3LKvSjUxJXIX"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 210976,
       "name": "World Burn",
       "url": "https://open.spotify.com/track/0te7qiBjtAE3NdIKy2Gmwy"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "This Mess We're In",
+        "url": "https://open.spotify.com/album/5CK0pgc09TdzFBkNUQ5GR9"
+      },
+      "artists": [
+        {
+          "name": "Arlo McKinley",
+          "url": "https://open.spotify.com/artist/4bnCmwKU89Rt1zWnRIdSUa"
+        }
+      ],
+      "duration_ms": 203659,
+      "name": "To Die For",
+      "url": "https://open.spotify.com/track/3jrhymhDIXEzFCIGXVYjVH"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Non-Typical Find",
+        "url": "https://open.spotify.com/album/4QKU72PCx4PgB5LTKS3Ou7"
+      },
+      "artists": [
+        {
+          "name": "Tylor & the Train Robbers",
+          "url": "https://open.spotify.com/artist/56uv6W81FBAmalvwAIX67F"
+        }
+      ],
+      "duration_ms": 289960,
+      "name": "Staring Down the North",
+      "url": "https://open.spotify.com/track/4WNsQR8HnXcoyylyjLVENg"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Field Guide",
         "url": "https://open.spotify.com/album/64dSRXwXcQ5GAEFeGVmRRr"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 181438,
       "name": "Here If You Want Me",
       "url": "https://open.spotify.com/track/0kn4qAHwbV6EAgMrrduxtE"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Non-Typical Find",
-        "url": "https://open.spotify.com/album/4QKU72PCx4PgB5LTKS3Ou7"
-      },
-      "artists": [
-        {
-          "name": "Tylor & the Train Robbers",
-          "url": "https://open.spotify.com/artist/56uv6W81FBAmalvwAIX67F"
-        }
-      ],
-      "duration_ms": 289960,
-      "name": "Staring Down the North",
-      "url": "https://open.spotify.com/track/4WNsQR8HnXcoyylyjLVENg"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Dom Louis",
+        "url": "https://open.spotify.com/album/0gxSPjAI7bRL1qhMzQyQT6"
+      },
+      "artists": [
+        {
+          "name": "Dom Louis",
+          "url": "https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph"
+        }
+      ],
+      "duration_ms": 175423,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/7MwtFy3hEW9ru5lF2vNHOL"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Palace Waiting",
         "url": "https://open.spotify.com/album/2sgxaCh1xIwbHoBsslHYuR"
       },
@@ -1379,34 +1395,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Dom Louis",
-        "url": "https://open.spotify.com/album/0gxSPjAI7bRL1qhMzQyQT6"
+        "name": "If My Wife New I'd Be Dead (Deluxe)",
+        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
       },
       "artists": [
         {
-          "name": "Dom Louis",
-          "url": "https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph"
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
         }
       ],
-      "duration_ms": 175423,
-      "name": "First Light",
-      "url": "https://open.spotify.com/track/7MwtFy3hEW9ru5lF2vNHOL"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "In the Sundust",
-        "url": "https://open.spotify.com/album/4AHKtxn6vYt9a85DlCKg1g"
-      },
-      "artists": [
-        {
-          "name": "The Hello Darlins",
-          "url": "https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC"
-        }
-      ],
-      "duration_ms": 240973,
-      "name": "What Is a Broken Heart For",
-      "url": "https://open.spotify.com/track/0aCm3Et01TEjfKeG2bABUK"
+      "duration_ms": 234626,
+      "name": "Communion - Country version",
+      "url": "https://open.spotify.com/track/7BeXzt9gULA8mjUHIKPpIg"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "If My Wife New I'd Be Dead (Deluxe)",
-        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
+        "name": "In the Sundust",
+        "url": "https://open.spotify.com/album/4AHKtxn6vYt9a85DlCKg1g"
       },
       "artists": [
         {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+          "name": "The Hello Darlins",
+          "url": "https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC"
         }
       ],
-      "duration_ms": 234626,
-      "name": "Communion - Country version",
-      "url": "https://open.spotify.com/track/7BeXzt9gULA8mjUHIKPpIg"
+      "duration_ms": 240973,
+      "name": "What Is a Broken Heart For",
+      "url": "https://open.spotify.com/track/0aCm3Et01TEjfKeG2bABUK"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Pretty Archie",
+        "url": "https://open.spotify.com/album/1O0GiiSyJcqIXlKDziGdfI"
+      },
+      "artists": [
+        {
+          "name": "Pretty Archie",
+          "url": "https://open.spotify.com/artist/0ZbBrJxdLuqoUmssWYFnKW"
+        }
+      ],
+      "duration_ms": 278639,
+      "name": "Maritime",
+      "url": "https://open.spotify.com/track/558Ak8Q3GxOKDUFcxmvlKA"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Constellations",
         "url": "https://open.spotify.com/album/64tEZ5dQGzLVV9pGkWnebY"
       },
@@ -1575,18 +1591,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Pretty Archie",
-        "url": "https://open.spotify.com/album/1O0GiiSyJcqIXlKDziGdfI"
+        "name": "Beyond the Reservoir",
+        "url": "https://open.spotify.com/album/3jA5Mx5hdVzDaY7dJbfC3W"
       },
       "artists": [
         {
-          "name": "Pretty Archie",
-          "url": "https://open.spotify.com/artist/0ZbBrJxdLuqoUmssWYFnKW"
+          "name": "Julian Taylor",
+          "url": "https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6"
         }
       ],
-      "duration_ms": 278639,
-      "name": "Maritime",
-      "url": "https://open.spotify.com/track/558Ak8Q3GxOKDUFcxmvlKA"
+      "duration_ms": 370895,
+      "name": "Stolen Lands",
+      "url": "https://open.spotify.com/track/3612vDRgEpnvWNy9DqSny1"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1607,18 +1623,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Beyond the Reservoir",
-        "url": "https://open.spotify.com/album/3jA5Mx5hdVzDaY7dJbfC3W"
+        "name": "Hot Sun",
+        "url": "https://open.spotify.com/album/1cNId27Hm62Df23dz5z7iV"
       },
       "artists": [
         {
-          "name": "Julian Taylor",
-          "url": "https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6"
+          "name": "Daniel James McFadyen",
+          "url": "https://open.spotify.com/artist/5MUdSu3xqIVIDS5TtJrEB9"
         }
       ],
-      "duration_ms": 370895,
-      "name": "Stolen Lands",
-      "url": "https://open.spotify.com/track/3612vDRgEpnvWNy9DqSny1"
+      "duration_ms": 181866,
+      "name": "Hot Sun",
+      "url": "https://open.spotify.com/track/08gd2VvSSsJIijiLmW8Xgo"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1635,22 +1651,6 @@
       "duration_ms": 167819,
       "name": "Say What You Like",
       "url": "https://open.spotify.com/track/25i56zqjCrbeSWqV5z0Gki"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Hot Sun",
-        "url": "https://open.spotify.com/album/1cNId27Hm62Df23dz5z7iV"
-      },
-      "artists": [
-        {
-          "name": "Daniel James McFadyen",
-          "url": "https://open.spotify.com/artist/5MUdSu3xqIVIDS5TtJrEB9"
-        }
-      ],
-      "duration_ms": 181866,
-      "name": "Hot Sun",
-      "url": "https://open.spotify.com/track/08gd2VvSSsJIijiLmW8Xgo"
     }
   ],
   "unique_name": "Renegades",

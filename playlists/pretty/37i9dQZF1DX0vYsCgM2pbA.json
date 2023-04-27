@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 119002,
+  "num_followers": 119010,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTk5ODg2OCwwMDAwMDAwMDMyYzY5YTk0YTlhODM3ZGQyYWE1M2Y5ZmJmNzgzNDYy",
+  "snapshot_id": "MTY4MTk5ODg2OCwwMDAwMDAwMDYyZDc2NzQ1NjgzZTY1NWRmNzZiYjJkODJhZWNlZmQ0",
   "tracks": [
     {
       "added_at": "2023-04-20 13:54:28",
@@ -303,26 +303,6 @@
     {
       "added_at": "2023-04-20 13:54:28",
       "album": {
-        "name": "Say Nothing (feat. MAY-A)",
-        "url": "https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "MAY-A",
-          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
-        }
-      ],
-      "duration_ms": 232959,
-      "name": "Say Nothing (feat. MAY-A)",
-      "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
-    },
-    {
-      "added_at": "2023-04-20 13:54:28",
-      "album": {
         "name": "Yeah The Girls",
         "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 194310,
       "name": "Yeah The Girls",
       "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
+    },
+    {
+      "added_at": "2023-04-20 13:54:28",
+      "album": {
+        "name": "Say Nothing (feat. MAY-A)",
+        "url": "https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "duration_ms": 232959,
+      "name": "Say Nothing (feat. MAY-A)",
+      "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
     },
     {
       "added_at": "2023-04-20 13:54:28",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-04-20 13:54:28",
       "album": {
-        "name": "Between The Head & The Heart",
-        "url": "https://open.spotify.com/album/0oSNfuiXDJ01zODQnZGMdH"
-      },
-      "artists": [
-        {
-          "name": "Boo Seeka",
-          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "Finish What You Started",
-      "url": "https://open.spotify.com/track/00H3S427pckJf5DtsKCbeY"
-    },
-    {
-      "added_at": "2023-04-20 13:54:28",
-      "album": {
         "name": "Supersonic",
         "url": "https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 169658,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ"
+    },
+    {
+      "added_at": "2023-04-20 13:54:28",
+      "album": {
+        "name": "Between The Head & The Heart",
+        "url": "https://open.spotify.com/album/0oSNfuiXDJ01zODQnZGMdH"
+      },
+      "artists": [
+        {
+          "name": "Boo Seeka",
+          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "Finish What You Started",
+      "url": "https://open.spotify.com/track/00H3S427pckJf5DtsKCbeY"
     },
     {
       "added_at": "2023-04-20 13:54:28",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-04-20 13:54:28",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/5OiqeHLzyFUUMjnDzMkfue"
-      },
-      "artists": [
-        {
-          "name": "JYYE",
-          "url": "https://open.spotify.com/artist/1KNafMiV5Y3OhOr1A5tWwb"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/25FYMUzUb4f7juGbmfG6El"
-    },
-    {
-      "added_at": "2023-04-20 13:54:28",
-      "album": {
         "name": "Noise",
         "url": "https://open.spotify.com/album/1nxDKrCB3QOB3nKPQQMofF"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 282225,
       "name": "Noise",
       "url": "https://open.spotify.com/track/2aVmzjkwJyTWxuUUu7aMIf"
+    },
+    {
+      "added_at": "2023-04-20 13:54:28",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/5OiqeHLzyFUUMjnDzMkfue"
+      },
+      "artists": [
+        {
+          "name": "JYYE",
+          "url": "https://open.spotify.com/artist/1KNafMiV5Y3OhOr1A5tWwb"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/25FYMUzUb4f7juGbmfG6El"
     },
     {
       "added_at": "2023-04-20 13:54:28",

@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Loyal Lobos
 
-340 songs - 19 hr 2 min
+341 songs - 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [LA MOLINA](https://open.spotify.com/track/0GZDERiGPr1F3SRs4l7muB) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [LA MOLINA](https://open.spotify.com/album/4vE0Gbo7nKNDdXyhiDuIk8) | 2:43 | 2022-06-29 | 2022-11-24 |
 | [LA MOLINA](https://open.spotify.com/track/5KUoS5Kqhnvk39feoFxD3v) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [LA MOLINA](https://open.spotify.com/album/6DNKhWVJlyGtBMBLLUvs6r) | 2:43 | 2021-11-18 | 2022-07-29 |
 | [LA RUTA NATURAL](https://open.spotify.com/track/0AYuekoqdajrQ00H0Cq0tt) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [LA RUTA NATURAL](https://open.spotify.com/album/0whMdPH7cZKZF8OzgkxiCp) | 3:17 | 2022-12-09 | 2023-04-15 |
+| [LA RUTA NATURAL](https://open.spotify.com/track/1BAc6iqnXXilFBKDaxXpSY) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [LA RUTA NATURAL](https://open.spotify.com/album/3JgA2PPl6TmIWEC4C3f1sF) | 3:17 | 2023-04-21 |  |
 | [Laberinto](https://open.spotify.com/track/0g9lp41XLg8wgSaZlXtt6G) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [ELETÉ](https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL) | 3:42 | 2021-11-18 | 2022-09-07 |
 | [Laberinto](https://open.spotify.com/track/2xWTpdIasfP9dRNY4Wi1lK) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [Laberinto](https://open.spotify.com/album/6VFBkyvHaA3dYW4wVN7y0R) | 3:42 | 2022-01-10 | 2022-07-29 |
 | [Laguna](https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Laguna](https://open.spotify.com/album/69GY4foDKPwFg8yTYY2fMS) | 3:42 | 2023-03-24 |  |
@@ -345,7 +346,7 @@
 | [¡párate!](https://open.spotify.com/track/6UbrU43q0ECnVSrSGwNOCb) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [¡párate!](https://open.spotify.com/album/6p5taDuRLjQIl3XD1eD2MP) | 2:33 | 2022-01-10 | 2022-09-07 |
 | [¿Para dónde vamos?](https://open.spotify.com/track/51Eock8moiROVuwifuovBF) | [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD), [Andrik](https://open.spotify.com/artist/2EQprQtkdtAXyg6PsQl4Wp) | [¿Para dónde vamos?](https://open.spotify.com/album/66Juh4grDFoKjsWAoRbJLL) | 3:34 | 2023-03-10 | 2023-03-12 |
 | [¿que cambió?](https://open.spotify.com/track/0einRYyqNaaJZrsAmOnPL8) | [Ferri](https://open.spotify.com/artist/4yIT3O6MPXb85oEhkMadwT), [Imfinenow](https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy) | [¿que cambió?](https://open.spotify.com/album/0PuY267ArjYIrTCYTDY7wy) | 1:55 | 2023-04-07 | 2023-04-15 |
-| [¿QUIÉN TE MANDA?](https://open.spotify.com/track/4kXb8O44mxvAA6XqiVIz1m) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [¿QUIÉN TE MANDA?](https://open.spotify.com/album/2SrokchsNgnhE7pR5nKKIb) | 3:38 | 2023-02-17 |  |
+| [¿QUIÉN TE MANDA?](https://open.spotify.com/track/4kXb8O44mxvAA6XqiVIz1m) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [¿QUIÉN TE MANDA?](https://open.spotify.com/album/2SrokchsNgnhE7pR5nKKIb) | 3:38 | 2023-02-17 | 2023-04-27 |
 | [¿Qué Ha Sido De Ti?](https://open.spotify.com/track/10DVaINeZkqXwjWCdwNtVh) | [LÚA](https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM) | [¿Qué Ha Sido De Ti?](https://open.spotify.com/album/7yVCek4s4M23xJKENetKQL) | 3:17 | 2023-03-17 |  |
 | [Último Adiós](https://open.spotify.com/track/7lBhTIVEhFmuptaX7Cs1vD) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf), [Baltazar Clusellas](https://open.spotify.com/artist/37hRvfW8T7lfdU7XdpZ6nX) | [Último Adiós](https://open.spotify.com/album/3NypapKHKGVY92ONbBSy3M) | 3:57 | 2023-03-10 | 2023-03-23 |
 

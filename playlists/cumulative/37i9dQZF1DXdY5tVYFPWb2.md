@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-508 songs - 1 day 9 hr 36 min
+509 songs - 1 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [SUI SUI](https://open.spotify.com/track/2UDq4JJZQ0ErYi32l1agQz) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [SUI SUI](https://open.spotify.com/album/7F6eRS0ieIhCtkQSyLSb4o) | 4:03 | 2022-12-06 | 2022-12-08 |
 | [SUI SUI](https://open.spotify.com/track/2b9AKUBu5twWV3Uf82zHhU) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [SUI SUI](https://open.spotify.com/album/4kuK0MfxpC0pTzg6y1GpOv) | 4:03 | 2022-12-06 | 2023-01-18 |
 | [Summer Again](https://open.spotify.com/track/1TvZNdyMxCL6LcN5CZyCvC) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011) | [Summer Again](https://open.spotify.com/album/49CjefUtjsPjvtiDgZUuaH) | 4:09 | 2022-05-24 | 2022-09-28 |
+| [Summer Ghost feat\. KIRINJI](https://open.spotify.com/track/0BlR8rZiO5pk4VjMT0Vkqo) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Summer Ghost feat\. KIRINJI](https://open.spotify.com/album/5tuIFFFK621MJKQ5e9yKsA) | 4:14 | 2023-04-25 |  |
 | [summer magic](https://open.spotify.com/track/0Ho6R2SLilYWwABq2jvjDy) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt), [Peggy Doll](https://open.spotify.com/artist/7enIQp3MHjqkOLVAXvcwDs) | [summer magic](https://open.spotify.com/album/18UK124C27nPnkqSuTKkVq) | 3:52 | 2022-08-02 | 2022-09-28 |
 | [SUMMER NUDE](https://open.spotify.com/track/7l9onEdVYUK5RPh5TxTSSF) | [POP ART TOWN](https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG) | [SUMMER NUDE](https://open.spotify.com/album/0cDZaBapsWJWOsfAjxK9ah) | 5:21 | 2022-06-28 | 2022-07-28 |
 | [SUMMER SUNDAY SMILE](https://open.spotify.com/track/2kiAazf1PebCp7zLTmvXTr) | [Hideki Kaji](https://open.spotify.com/artist/3k4ycHN6hzulnvkSe5IOTf) | [SUMMER SUNDAY SMILE](https://open.spotify.com/album/4dLoKqs1Ps94cjSxlGoLNH) | 3:49 | 2022-07-27 | 2022-07-29 |
@@ -444,7 +445,7 @@
 | [嘘寝](https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [嘘寝](https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM) | 3:47 | 2022-06-16 |  |
 | [土曜日の「あ」](https://open.spotify.com/track/3MSmWJTa8MHAELp7Sm4tx9) | [Akabane New Romantica](https://open.spotify.com/artist/0dtId6LlA1ZzD8PcoZaRVi) | [土曜日の「あ」](https://open.spotify.com/album/08JuGZMnQU4TKkENGMtpCZ) | 3:10 | 2022-06-16 | 2022-07-20 |
 | [夏のクラクション](https://open.spotify.com/track/7LtRFZe9aaqynkfGJrKhSX) | [Gota Nishidera](https://open.spotify.com/artist/6zGbXCFNnK3q6gnUrAy9lQ) | [夏のクラクション](https://open.spotify.com/album/2AwdfBODfo1V9CI5ueRG3d) | 3:39 | 2022-12-06 | 2023-02-09 |
-| [夏の亡霊 feat\. KIRINJI](https://open.spotify.com/track/5QZJ0oITXby0ON4JiWSDH6) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [夏の亡霊 feat\. KIRINJI](https://open.spotify.com/album/43QPrf7HouyvP7W1Aw7XCD) | 4:14 | 2023-04-25 |  |
+| [夏の亡霊 feat\. KIRINJI](https://open.spotify.com/track/5QZJ0oITXby0ON4JiWSDH6) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [夏の亡霊 feat\. KIRINJI](https://open.spotify.com/album/43QPrf7HouyvP7W1Aw7XCD) | 4:14 | 2023-04-25 | 2023-04-27 |
 | [夏夜のマジック](https://open.spotify.com/track/4H15DPcx96pHtUdICF8Chc) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [HOME TOWN \~Cover Songs\~](https://open.spotify.com/album/2zICjNYAAbuutU66vI6svi) | 5:04 | 2022-05-24 |  |
 | [夕暮れ](https://open.spotify.com/track/1H0e4AwymSv4yRalyovdI0) | [The Sunnys](https://open.spotify.com/artist/1VISQcJOpNyWydQfERSjJ2) | [夕暮れ](https://open.spotify.com/album/4irtZ5UbGFW8WkU8TvfPGf) | 4:17 | 2022-08-23 | 2022-08-31 |
 | [夜明けのドリーミング](https://open.spotify.com/track/0sE2Q9DEMty9ouWkbSXchz) | [DEBBIE'S ALLY](https://open.spotify.com/artist/4Tb0oGNjX4I1SPAtsYjGer) | [夜明けのDREAMING](https://open.spotify.com/album/33PYC7lNRrCcCU9vfJrFZB) | 4:46 | 2022-11-03 | 2022-11-09 |

@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 433326,
+  "num_followers": 433532,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA5MTM3MiwwMDAwMDAwMGUyOWIxMzljYzU1YzA2ZTc5YTRhMDAwODc4YmUwMTMw",
+  "snapshot_id": "MTY4MjA5MTM3MiwwMDAwMDAwMDY1ODZlYTlhM2QzYmFlY2Q1Yjk0ZGM0MDhkYWQyYjQ1",
   "tracks": [
     {
       "added_at": "2023-03-20 18:32:59",
@@ -337,22 +337,6 @@
       "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
     },
     {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
-        "name": "I Can't Help But Feel",
-        "url": "https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 178780,
-      "name": "I Can't Help But Feel",
-      "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
-    },
-    {
       "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "Enjoy Your Life",
@@ -371,6 +355,22 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
+        "name": "I Can't Help But Feel",
+        "url": "https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 178780,
+      "name": "I Can't Help But Feel",
+      "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
         "name": "Casita",
         "url": "https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC"
       },
@@ -383,6 +383,22 @@
       "duration_ms": 206000,
       "name": "Casita",
       "url": "https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 194594,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -419,22 +435,6 @@
       "duration_ms": 196162,
       "name": "Gis\u00e8le",
       "url": "https://open.spotify.com/track/6wqv1yeDe2wlPmQEM5ZCYb"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Loving You",
-        "url": "https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 194594,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -577,6 +577,22 @@
       "url": "https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM"
     },
     {
+      "added_at": "2023-04-21 15:36:11",
+      "album": {
+        "name": "Alone in the Mountains",
+        "url": "https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 196707,
+      "name": "Alone in the Mountains",
+      "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
+    },
+    {
       "added_at": "2023-03-20 18:32:59",
       "album": {
         "name": "If This Is House I Want My Money Back 3",
@@ -611,6 +627,22 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
+        "name": "Leak 04-13 (Bait Ones)",
+        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
+      },
+      "artists": [
+        {
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+        }
+      ],
+      "duration_ms": 253080,
+      "name": "Jasmine - Demo",
+      "url": "https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
         "name": "These Days",
         "url": "https://open.spotify.com/album/1EAPdPWIn8Y6KvGI3OGUJa"
       },
@@ -639,22 +671,6 @@
       "duration_ms": 174607,
       "name": "Heights",
       "url": "https://open.spotify.com/track/1OCrb7dmygmJiDcjdFAPR8"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
-        "name": "Leak 04-13 (Bait Ones)",
-        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
-      },
-      "artists": [
-        {
-          "name": "Jai Paul",
-          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
-        }
-      ],
-      "duration_ms": 253080,
-      "name": "Jasmine - Demo",
-      "url": "https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -697,20 +713,24 @@
       "url": "https://open.spotify.com/track/0Hy5csM0LflFU0vUU9wFpj"
     },
     {
-      "added_at": "2023-04-21 15:36:11",
+      "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "Alone in the Mountains",
-        "url": "https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4"
+        "name": "Matter of Time",
+        "url": "https://open.spotify.com/album/0RgsG1zTZxKqOTsRrHWqDh"
       },
       "artists": [
         {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        },
+        {
+          "name": "Alex Maher",
+          "url": "https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek"
         }
       ],
-      "duration_ms": 196707,
-      "name": "Alone in the Mountains",
-      "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
+      "duration_ms": 240009,
+      "name": "Matter of Time",
+      "url": "https://open.spotify.com/track/3IuxYZUQ6J9yfqcVtk5h6b"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -735,22 +755,6 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "Must Be Nice",
-        "url": "https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L"
-      },
-      "artists": [
-        {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        }
-      ],
-      "duration_ms": 212346,
-      "name": "Up To Something",
-      "url": "https://open.spotify.com/track/2YgO4Laiw37ILWYaueb023"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
         "name": "Chika (scared)",
         "url": "https://open.spotify.com/album/0BacQ1J2UePRp2gE7zGk2z"
       },
@@ -763,6 +767,22 @@
       "duration_ms": 168245,
       "name": "Chika (scared)",
       "url": "https://open.spotify.com/track/4pDE8vhtcEb90Eq2SvdWyB"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
+        "name": "Must Be Nice",
+        "url": "https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "duration_ms": 212346,
+      "name": "Up To Something",
+      "url": "https://open.spotify.com/track/2YgO4Laiw37ILWYaueb023"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -815,26 +835,6 @@
       "duration_ms": 191253,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/5LjKOTy2cNgmcmXVVMWGZe"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
-        "name": "Matter of Time",
-        "url": "https://open.spotify.com/album/0RgsG1zTZxKqOTsRrHWqDh"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        },
-        {
-          "name": "Alex Maher",
-          "url": "https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek"
-        }
-      ],
-      "duration_ms": 240009,
-      "name": "Matter of Time",
-      "url": "https://open.spotify.com/track/3IuxYZUQ6J9yfqcVtk5h6b"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "About A Feeling",
-        "url": "https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX"
-      },
-      "artists": [
-        {
-          "name": "Summer Heart",
-          "url": "https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio"
-        }
-      ],
-      "duration_ms": 247572,
-      "name": "I Wanna Go",
-      "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
         "name": "We Stayed Up All Night",
         "url": "https://open.spotify.com/album/5hfM440MwTIhPLuXd8Y1tC"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 265758,
       "name": "We Stayed Up All Night",
       "url": "https://open.spotify.com/track/7eSWgAlmLPXbGxgH3RNoWh"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
+        "name": "About A Feeling",
+        "url": "https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX"
+      },
+      "artists": [
+        {
+          "name": "Summer Heart",
+          "url": "https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio"
+        }
+      ],
+      "duration_ms": 247572,
+      "name": "I Wanna Go",
+      "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 324266,
+      "name": "Kin",
+      "url": "https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
         "name": "I'm In Love With You",
         "url": "https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 252600,
       "name": "I'm In Love With You",
       "url": "https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 324266,
-      "name": "Kin",
-      "url": "https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
+        "name": "Home For Now",
+        "url": "https://open.spotify.com/album/3fAPDjSser74AWKNa8O66e"
+      },
+      "artists": [
+        {
+          "name": "Benji Lewis",
+          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
+        }
+      ],
+      "duration_ms": 222439,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/4e00y1uBHrrWjlGfnNHoV8"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
         "name": "On the Quiet (Expanded Edition)",
         "url": "https://open.spotify.com/album/24qysXGTOB1x7iKbtgJouX"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 259146,
       "name": "Far Away Place",
       "url": "https://open.spotify.com/track/34XwEhXXTz6dVRUxr8BbEB"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
-        "name": "Home For Now",
-        "url": "https://open.spotify.com/album/3fAPDjSser74AWKNa8O66e"
-      },
-      "artists": [
-        {
-          "name": "Benji Lewis",
-          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
-        }
-      ],
-      "duration_ms": 222439,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/4e00y1uBHrrWjlGfnNHoV8"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
+        "name": "Kyle (i found you)",
+        "url": "https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 196071,
+      "name": "Kyle (i found you)",
+      "url": "https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
         "name": "Shine a Light",
         "url": "https://open.spotify.com/album/1JiEqgVUMWk0F6P31nvwLG"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 349962,
       "name": "Shine a Light - Flight Facilities Remix",
       "url": "https://open.spotify.com/track/2nNSYajMD4ScHbhthVPqrh"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
-        "name": "Kyle (i found you)",
-        "url": "https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 196071,
-      "name": "Kyle (i found you)",
-      "url": "https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "Temporary Love",
-        "url": "https://open.spotify.com/album/4rR6MzkvCQw8P72RKJu7en"
+        "name": "Do You Love Her Now / He",
+        "url": "https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO"
       },
       "artists": [
         {
-          "name": "Mishegas",
-          "url": "https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh"
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
         }
       ],
-      "duration_ms": 244267,
-      "name": "Temporary Love",
-      "url": "https://open.spotify.com/track/2ArO7GJPukDnhRvRfhB58n"
+      "duration_ms": 268000,
+      "name": "He",
+      "url": "https://open.spotify.com/track/3sV8Y8weWHxBbDa4rGGL9a"
     }
   ],
   "unique_name": "golden hour",

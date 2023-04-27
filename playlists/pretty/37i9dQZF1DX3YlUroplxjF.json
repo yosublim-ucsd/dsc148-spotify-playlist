@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: Jesus Piece ",
-  "num_followers": 451699,
+  "num_followers": 451832,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTk0OTA2MCwwMDAwMDAwMGJkOWJhYmE4OTE2OTU1MTdhNjZlMmVlZGM1YmQ0MGU2",
+  "snapshot_id": "MTY3OTk0OTA2MCwwMDAwMDAwMDljMjAyZjJhZDRjMGY5MGE1NTdjYWQ0ZmQ4YjQ1MzQw",
   "tracks": [
     {
       "added_at": "2023-03-17 17:52:49",
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
+        "name": "Long Time, No Sea (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7LgruFgKT9Vg00mymfEyf7"
+      },
+      "artists": [
+        {
+          "name": "Attack Attack!",
+          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
+        }
+      ],
+      "duration_ms": 184285,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/60ICDcC995UF0nu85r75qV"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
         "name": "Carry the Weight / From the First Note",
         "url": "https://open.spotify.com/album/1LWKl74lrLudXEtmIUDr3o"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 200384,
       "name": "BLURRY (out of place)",
       "url": "https://open.spotify.com/track/14uAFiZ94iMTeEpXq1cLCi"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
-        "name": "Long Time, No Sea (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7LgruFgKT9Vg00mymfEyf7"
-      },
-      "artists": [
-        {
-          "name": "Attack Attack!",
-          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
-        }
-      ],
-      "duration_ms": 184285,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/60ICDcC995UF0nu85r75qV"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -535,22 +535,18 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "DISCO4 :: PART II",
-        "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
+        "name": "MONOMANIA",
+        "url": "https://open.spotify.com/album/2FxbVATTBMwI7ytSsYMp6f"
       },
       "artists": [
         {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        },
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
         }
       ],
-      "duration_ms": 326771,
-      "name": "COLD BLOOD",
-      "url": "https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz"
+      "duration_ms": 215053,
+      "name": "NO WAY OUT",
+      "url": "https://open.spotify.com/track/7oib44NmCMvGNWnDDJjv5C"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -571,18 +567,22 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "MONOMANIA",
-        "url": "https://open.spotify.com/album/2FxbVATTBMwI7ytSsYMp6f"
+        "name": "DISCO4 :: PART II",
+        "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
       },
       "artists": [
         {
-          "name": "The Word Alive",
-          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        },
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 215053,
-      "name": "NO WAY OUT",
-      "url": "https://open.spotify.com/track/7oib44NmCMvGNWnDDJjv5C"
+      "duration_ms": 326771,
+      "name": "COLD BLOOD",
+      "url": "https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Misery",
-        "url": "https://open.spotify.com/album/5AtTKLErRJPLZAOfPabe7m"
-      },
-      "artists": [
-        {
-          "name": "The Amity Affliction",
-          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
-        }
-      ],
-      "duration_ms": 214493,
-      "name": "Ivy (Doomsday)",
-      "url": "https://open.spotify.com/track/2Ll0eOXFmIeBlcybOSaQJm"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Infinite",
         "url": "https://open.spotify.com/album/4A0h5fDeSf8P1egJGllKz4"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 163720,
       "name": "Infinite",
       "url": "https://open.spotify.com/track/1aWpVsNjEiqpFvV3KhJiWu"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Misery",
+        "url": "https://open.spotify.com/album/5AtTKLErRJPLZAOfPabe7m"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "duration_ms": 214493,
+      "name": "Ivy (Doomsday)",
+      "url": "https://open.spotify.com/track/2Ll0eOXFmIeBlcybOSaQJm"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
+        "name": "Anon.",
+        "url": "https://open.spotify.com/album/2qtLF5Z8OxMV919Knbi3oo"
+      },
+      "artists": [
+        {
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/5D8BIY1mY2L1N0M66KiMfv"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
         "name": "How It Feels to Be Lost (Deluxe)",
         "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
       },
@@ -883,18 +899,18 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Anon.",
-        "url": "https://open.spotify.com/album/2qtLF5Z8OxMV919Knbi3oo"
+        "name": "Barely Alive",
+        "url": "https://open.spotify.com/album/5v20HSKutO3pCMlPwFMI8W"
       },
       "artists": [
         {
-          "name": "Hands Like Houses",
-          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+          "name": "Savage Hands",
+          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Overthinking",
-      "url": "https://open.spotify.com/track/5D8BIY1mY2L1N0M66KiMfv"
+      "duration_ms": 213934,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/7g34QqbvMeyDuzf5IRd1PS"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -931,22 +947,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "I'm Hard To Love, But So Are You, Vol. 4",
-        "url": "https://open.spotify.com/album/3DyfZShpkj7K8kt1tt77mE"
-      },
-      "artists": [
-        {
-          "name": "Too Close To Touch",
-          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Pick Me Up",
-      "url": "https://open.spotify.com/track/0u6WZr90OXffdCGY6xer1r"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Nothing is True & Everything is Possible",
         "url": "https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp"
       },
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
+        "name": "I'm Hard To Love, But So Are You, Vol. 4",
+        "url": "https://open.spotify.com/album/3DyfZShpkj7K8kt1tt77mE"
+      },
+      "artists": [
+        {
+          "name": "Too Close To Touch",
+          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Pick Me Up",
+      "url": "https://open.spotify.com/track/0u6WZr90OXffdCGY6xer1r"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
         "name": "It's Over",
         "url": "https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 203800,
       "name": "It's Over",
       "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
-        "name": "Barely Alive",
-        "url": "https://open.spotify.com/album/5v20HSKutO3pCMlPwFMI8W"
-      },
-      "artists": [
-        {
-          "name": "Savage Hands",
-          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
-        }
-      ],
-      "duration_ms": 213934,
-      "name": "Red",
-      "url": "https://open.spotify.com/track/7g34QqbvMeyDuzf5IRd1PS"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Low Budget Horror",
-        "url": "https://open.spotify.com/album/1mfUf7rjQRTRGbMIc7vucK"
-      },
-      "artists": [
-        {
-          "name": "RedHook",
-          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
-        }
-      ],
-      "duration_ms": 181631,
-      "name": "Low Budget Horror",
-      "url": "https://open.spotify.com/track/2jY2PFrpUfA43XcQtDbSdz"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "DEATH (Ever Colder)",
         "url": "https://open.spotify.com/album/312yRj61uGSmld6RIl9zl4"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 287692,
       "name": "DEATH (Ever Colder)",
       "url": "https://open.spotify.com/track/7tAUrb26TuIeZlVVvn9XdJ"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Low Budget Horror",
+        "url": "https://open.spotify.com/album/1mfUf7rjQRTRGbMIc7vucK"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        }
+      ],
+      "duration_ms": 181631,
+      "name": "Low Budget Horror",
+      "url": "https://open.spotify.com/track/2jY2PFrpUfA43XcQtDbSdz"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Skin Suit",
-        "url": "https://open.spotify.com/album/0ZU7yILLKVT81oYLyJsl7c"
+        "name": "Before I Cave In",
+        "url": "https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr"
       },
       "artists": [
         {
-          "name": "THE BOBBY LEES",
-          "url": "https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI"
+          "name": "Too Close To Touch",
+          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
         }
       ],
-      "duration_ms": 89810,
-      "name": "Guttermilk",
-      "url": "https://open.spotify.com/track/47gVb36hKgHWSJdTbRt1Sq"
+      "duration_ms": 260826,
+      "name": "Before I Cave In",
+      "url": "https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Before I Cave In",
-        "url": "https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr"
-      },
-      "artists": [
-        {
-          "name": "Too Close To Touch",
-          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
-        }
-      ],
-      "duration_ms": 260826,
-      "name": "Before I Cave In",
-      "url": "https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Nocturnal Future",
         "url": "https://open.spotify.com/album/254aZpGZSlWr87DmiD1zyb"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 272725,
       "name": "Nocturnal Future",
       "url": "https://open.spotify.com/track/1Y5jDuVd6djgjTn5UetTxm"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Skin Suit",
+        "url": "https://open.spotify.com/album/0ZU7yILLKVT81oYLyJsl7c"
+      },
+      "artists": [
+        {
+          "name": "THE BOBBY LEES",
+          "url": "https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI"
+        }
+      ],
+      "duration_ms": 89810,
+      "name": "Guttermilk",
+      "url": "https://open.spotify.com/track/47gVb36hKgHWSJdTbRt1Sq"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "The Truth in Your Eyes",
-        "url": "https://open.spotify.com/album/5oybwxacDqLiTEkSyILpNm"
-      },
-      "artists": [
-        {
-          "name": "Savage Hands",
-          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
-        }
-      ],
-      "duration_ms": 227622,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/2BJ0Mc3zhb4tmcERvbXKTw"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Holding Absence",
         "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 218466,
       "name": "Monochrome",
       "url": "https://open.spotify.com/track/7Df5RKFErXf8Pq6e7mgJTM"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "The Truth in Your Eyes",
+        "url": "https://open.spotify.com/album/5oybwxacDqLiTEkSyILpNm"
+      },
+      "artists": [
+        {
+          "name": "Savage Hands",
+          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
+        }
+      ],
+      "duration_ms": 227622,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2BJ0Mc3zhb4tmcERvbXKTw"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "FTS (KYS)",
-        "url": "https://open.spotify.com/album/1fc5o2ZknByvRcLlT2BYwy"
-      },
-      "artists": [
-        {
-          "name": "DRAIN",
-          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "FTS (KYS)",
-      "url": "https://open.spotify.com/track/5BsydUDVEjgyVv2IvKM16d"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "How It Feels to Be Lost (Deluxe)",
         "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 217146,
       "name": "Moonlit",
       "url": "https://open.spotify.com/track/41pMAwF1Z0Z7OhxGfPMDwb"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "FTS (KYS)",
+        "url": "https://open.spotify.com/album/1fc5o2ZknByvRcLlT2BYwy"
+      },
+      "artists": [
+        {
+          "name": "DRAIN",
+          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "FTS (KYS)",
+      "url": "https://open.spotify.com/track/5BsydUDVEjgyVv2IvKM16d"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 228299,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
         "name": "Sick Day",
         "url": "https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6"
       },
@@ -1511,18 +1527,18 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Stand Up",
-        "url": "https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5"
+        "name": "Disease (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8"
       },
       "artists": [
         {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
         }
       ],
-      "duration_ms": 228299,
-      "name": "Stand Up",
-      "url": "https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0"
+      "duration_ms": 185454,
+      "name": "Messed Up",
+      "url": "https://open.spotify.com/track/6VyVscmvqF2DvH94Yx8KCd"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1543,22 +1559,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "One Love",
-        "url": "https://open.spotify.com/album/7uoJBEPZYqrWxD8xsCm6aN"
-      },
-      "artists": [
-        {
-          "name": "Rise Of The Northstar",
-          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
-        }
-      ],
-      "duration_ms": 203813,
-      "name": "One Love",
-      "url": "https://open.spotify.com/track/5ANRQynbKDA0Y5OWzFPxzg"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Return of the Arsonist",
         "url": "https://open.spotify.com/album/2A1RY2fEJAucP1uAiGL5nb"
       },
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Disease (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8"
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/7uoJBEPZYqrWxD8xsCm6aN"
       },
       "artists": [
         {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+          "name": "Rise Of The Northstar",
+          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
         }
       ],
-      "duration_ms": 185454,
-      "name": "Messed Up",
-      "url": "https://open.spotify.com/track/6VyVscmvqF2DvH94Yx8KCd"
+      "duration_ms": 203813,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/5ANRQynbKDA0Y5OWzFPxzg"
     },
     {
       "added_at": "2023-03-17 17:52:49",

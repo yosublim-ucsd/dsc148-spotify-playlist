@@ -1,12 +1,12 @@
 {
   "description": "The new school of M\u00fasica Mexicana. Cover: ERRE",
-  "num_followers": 98538,
+  "num_followers": 98563,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA1ODE1NiwwMDAwMDAwMDgzZDhmODMzMWEyNjIyZDk1ODliYTI5ZjVhMDU1ODFl",
+  "snapshot_id": "MTY4MjA1ODE1NiwwMDAwMDAwMGQ3Y2M5MmFjMTkxOTA2MjViZTJmZTYyNjAzNjliZjIz",
   "tracks": [
     {
       "added_at": "2023-04-21 06:22:36",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-04-21 06:22:36",
       "album": {
-        "name": "Ojos Cerrados",
-        "url": "https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq"
-      },
-      "artists": [
-        {
-          "name": "Natalie L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU"
-        }
-      ],
-      "duration_ms": 156354,
-      "name": "Ojos Cerrados",
-      "url": "https://open.spotify.com/track/4qTncV5AzPvi7lo3Sb1MiM"
-    },
-    {
-      "added_at": "2023-04-21 06:22:36",
-      "album": {
         "name": "El E",
         "url": "https://open.spotify.com/album/53IaApkElVU8RnqPwFFxF1"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 183763,
       "name": "El E",
       "url": "https://open.spotify.com/track/6AgCihW2mcPi2zKx4jqnW0"
+    },
+    {
+      "added_at": "2023-04-21 06:22:36",
+      "album": {
+        "name": "Ojos Cerrados",
+        "url": "https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq"
+      },
+      "artists": [
+        {
+          "name": "Natalie L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU"
+        }
+      ],
+      "duration_ms": 156354,
+      "name": "Ojos Cerrados",
+      "url": "https://open.spotify.com/track/4qTncV5AzPvi7lo3Sb1MiM"
     },
     {
       "added_at": "2023-04-21 06:22:36",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-04-21 06:22:36",
       "album": {
-        "name": "El Mago",
-        "url": "https://open.spotify.com/album/17ny6z6kOhqb0sM5P1PA5U"
-      },
-      "artists": [
-        {
-          "name": "Manuel Rodriguez",
-          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
-        }
-      ],
-      "duration_ms": 228560,
-      "name": "El Mago",
-      "url": "https://open.spotify.com/track/64BT7EQGUDDPbDImkOprxS"
-    },
-    {
-      "added_at": "2023-04-21 06:22:36",
-      "album": {
         "name": "Tiempos de Guerra 2",
         "url": "https://open.spotify.com/album/0YoXahIgRgGAhJmIN6kfIa"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 171053,
       "name": "Tiempos de Guerra 2",
       "url": "https://open.spotify.com/track/4kJRKCLMTxH7So06NCw4lc"
+    },
+    {
+      "added_at": "2023-04-21 06:22:36",
+      "album": {
+        "name": "El Mago",
+        "url": "https://open.spotify.com/album/17ny6z6kOhqb0sM5P1PA5U"
+      },
+      "artists": [
+        {
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        }
+      ],
+      "duration_ms": 228560,
+      "name": "El Mago",
+      "url": "https://open.spotify.com/track/64BT7EQGUDDPbDImkOprxS"
     },
     {
       "added_at": "2023-04-21 06:22:36",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2023-04-21 06:22:36",
       "album": {
+        "name": "LMV",
+        "url": "https://open.spotify.com/album/5S4OjWHkDANBQJUyRwRlNX"
+      },
+      "artists": [
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        },
+        {
+          "name": "Michelle BI",
+          "url": "https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM"
+        }
+      ],
+      "duration_ms": 171153,
+      "name": "LMV",
+      "url": "https://open.spotify.com/track/3VX6Iwk3LMKWLWZCX4xJwD"
+    },
+    {
+      "added_at": "2023-04-21 06:22:36",
+      "album": {
         "name": "Adrenalina",
         "url": "https://open.spotify.com/album/4806StxcG6kpJXdGwMH9Tc"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 171250,
       "name": "San Mike",
       "url": "https://open.spotify.com/track/1IsK1ydUSOuc32aMwYB0wa"
-    },
-    {
-      "added_at": "2023-04-21 06:22:36",
-      "album": {
-        "name": "LMV",
-        "url": "https://open.spotify.com/album/5S4OjWHkDANBQJUyRwRlNX"
-      },
-      "artists": [
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        },
-        {
-          "name": "Michelle BI",
-          "url": "https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM"
-        }
-      ],
-      "duration_ms": 171153,
-      "name": "LMV",
-      "url": "https://open.spotify.com/track/3VX6Iwk3LMKWLWZCX4xJwD"
     },
     {
       "added_at": "2023-04-21 06:22:36",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-04-21 06:22:36",
       "album": {
-        "name": "Firme Al Caminar (En Vivo)",
-        "url": "https://open.spotify.com/album/7ckyRqYTDQnNc89odO7XQH"
-      },
-      "artists": [
-        {
-          "name": "Everardo",
-          "url": "https://open.spotify.com/artist/4fT0S7A6usiJicipEVamYd"
-        }
-      ],
-      "duration_ms": 205872,
-      "name": "Firme Al Caminar (En Vivo)",
-      "url": "https://open.spotify.com/track/4tlEHg1ClfKEGaHhNpvyHq"
-    },
-    {
-      "added_at": "2023-04-21 06:22:36",
-      "album": {
         "name": "AJUA",
         "url": "https://open.spotify.com/album/3wbsfxUYx5niEAz1qtzv27"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 149887,
       "name": "AJUA",
       "url": "https://open.spotify.com/track/0BnpQAlGqVxQKLSrQivHCX"
+    },
+    {
+      "added_at": "2023-04-21 06:22:36",
+      "album": {
+        "name": "Firme Al Caminar (En Vivo)",
+        "url": "https://open.spotify.com/album/7ckyRqYTDQnNc89odO7XQH"
+      },
+      "artists": [
+        {
+          "name": "Everardo",
+          "url": "https://open.spotify.com/artist/4fT0S7A6usiJicipEVamYd"
+        }
+      ],
+      "duration_ms": 205872,
+      "name": "Firme Al Caminar (En Vivo)",
+      "url": "https://open.spotify.com/track/4tlEHg1ClfKEGaHhNpvyHq"
     },
     {
       "added_at": "2023-04-21 06:22:36",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-04-21 06:22:36",
       "album": {
-        "name": "El Jamaico",
-        "url": "https://open.spotify.com/album/4hgCUGj95UEGaoM83P5V33"
-      },
-      "artists": [
-        {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
-        }
-      ],
-      "duration_ms": 144340,
-      "name": "El Jamaico",
-      "url": "https://open.spotify.com/track/5mfbrsTi4Xln6E3MKVC0yE"
-    },
-    {
-      "added_at": "2023-04-21 06:22:36",
-      "album": {
         "name": "Vivo el Peligro",
         "url": "https://open.spotify.com/album/0TncPHLg7DTj923SQ4keIr"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 160714,
       "name": "Vivo el Peligro",
       "url": "https://open.spotify.com/track/1FOY245P3Pb7LFcMTfB9VC"
+    },
+    {
+      "added_at": "2023-04-21 06:22:36",
+      "album": {
+        "name": "El Jamaico",
+        "url": "https://open.spotify.com/album/4hgCUGj95UEGaoM83P5V33"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        }
+      ],
+      "duration_ms": 144340,
+      "name": "El Jamaico",
+      "url": "https://open.spotify.com/track/5mfbrsTi4Xln6E3MKVC0yE"
     },
     {
       "added_at": "2023-04-21 06:22:36",

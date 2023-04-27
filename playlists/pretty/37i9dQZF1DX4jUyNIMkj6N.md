@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,124 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,175 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,21 +35,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 25 | [The Sky is Painted Gray Today](https://open.spotify.com/track/0WOz7oU6zfuUvDzWHmIdMK) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [The Sky is Painted Gray Today](https://open.spotify.com/album/4iEFEhFxzgr7VKpuo4rjUT) | 3:41 |
 | 26 | [Gold Laces](https://open.spotify.com/track/6V9hQ6dVr42xlNVoH8r8om) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Floating Harmonies](https://open.spotify.com/album/47zAxwGvi23uYEItSkTRgY) | 3:40 |
 | 27 | [Away](https://open.spotify.com/track/4d6EvoLIZvyUzX8XHQu0XQ) | [Morten Myklebust](https://open.spotify.com/artist/7zFc6IlzgDwyXojYH1GIkI), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Morten Myklebust](https://open.spotify.com/album/1VWqsF4WiqAjzw50HBMHLg) | 2:58 |
-| 28 | [Lou Lou](https://open.spotify.com/track/5JZWiZ8ePCWYqoX99fdUbB) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [About You](https://open.spotify.com/album/1t7FwYLSRY0gcMZvsndBVM) | 2:08 |
-| 29 | [Alle Snakker Sant](https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 2:48 |
+| 28 | [Alle Snakker Sant](https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 2:48 |
+| 29 | [Lou Lou](https://open.spotify.com/track/5JZWiZ8ePCWYqoX99fdUbB) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [About You](https://open.spotify.com/album/1t7FwYLSRY0gcMZvsndBVM) | 2:08 |
 | 30 | [Tell Me About It](https://open.spotify.com/track/4NVTUHYCmMGtnnULELfZjy) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [Tell Me About It](https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls) | 3:20 |
 | 31 | [Modern Drift](https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Magic Chairs](https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu) | 4:53 |
 | 32 | [Your Ghost](https://open.spotify.com/track/1itLAVoiQi49DTjW3dRtNS) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Your Ghost](https://open.spotify.com/album/7JXH3FywIyJcFWN1mFVKbU) | 3:20 |
 | 33 | [Sun, Moon, Stars](https://open.spotify.com/track/0xHgo8tccD2tz1JjTjBcBd) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Sun, Moon, Stars](https://open.spotify.com/album/5Zz3P4HvKnhar2gtvZrdL9) | 4:35 |
 | 34 | [Morgan, I Might](https://open.spotify.com/track/546zJv5pyapMZO5O0l0p4x) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni Was Right](https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7) | 3:17 |
-| 35 | [Something Good](https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Something Good](https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G) | 3:45 |
+| 35 | [\(It's Not About\) Running](https://open.spotify.com/track/6yeVAVnUskTNb3TutTaU64) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown / \(It's Not About\) Running](https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC) | 4:06 |
 | 36 | [Halsmandlar](https://open.spotify.com/track/22f4SB1GpL4PCqrwsxHNav) | [Benedikt](https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y), [Ævestaden](https://open.spotify.com/artist/7r8pTV56VazgkUAAUW4ucw) | [Jag är sen igen](https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d) | 2:50 |
 | 37 | [Ei ny tid](https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP) | 2:26 |
 | 38 | [The Ghost in Your Smile](https://open.spotify.com/track/2BOGhPt0OosTyHJZEc8SYA) | [Jarle Skavhellen](https://open.spotify.com/artist/7Jrf6fSkTNnii81KgsH7Td) | [The Ghost in Your Smile](https://open.spotify.com/album/7Lr7uajuRiYoGcUkmTrBRc) | 3:47 |
 | 39 | [Early Summer Rain](https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh) | [August Flendahl](https://open.spotify.com/artist/2YdblFMUbUSxdwFNffi7ct) | [Early Summer Rain](https://open.spotify.com/album/41rw0yKJcpUla5orniwd45) | 2:50 |
 | 40 | [The Man Who Isn't Here](https://open.spotify.com/track/5e4TjReNPm7FGEdVHGl9GO) | [Frøkedal](https://open.spotify.com/artist/7uTDwdxKfkZtEfjpofiYwr) | [Hold On Dreamer](https://open.spotify.com/album/28d2gIKg6Ma04rKAghPvQA) | 3:50 |
 | 41 | [Oh God](https://open.spotify.com/track/3LHSrehhdEgEvQRpFpc0VC) | [Hello Saferide](https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3) | [Dad Told Me](https://open.spotify.com/album/2mboC8ajeSsXhwG4IQMzb2) | 2:35 |
-| 42 | [\(It's Not About\) Running](https://open.spotify.com/track/6yeVAVnUskTNb3TutTaU64) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown / \(It's Not About\) Running](https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC) | 4:06 |
+| 42 | [Something Good](https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Something Good](https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G) | 3:45 |
 | 43 | [Dark](https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [The Lingering](https://open.spotify.com/album/3dmPz4j1JhjGi9NXlbrK6S) | 3:13 |
 | 44 | [Spor i sand](https://open.spotify.com/track/7qGuTkxiZ3Uxtr4aI8bxmE) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann \(Vinyl Edition\)](https://open.spotify.com/album/6LAlzrbGc9DCpnKHRDWN1F) | 4:48 |
 | 45 | [Time of Waiting](https://open.spotify.com/track/0ouq2rgrnZ71KmnkW4xUmq) | [Tommy Berre](https://open.spotify.com/artist/1JS0Gw2KxVFPmFNivcjmgt), [Roberto Dalla Vecchia](https://open.spotify.com/artist/7bfm99qXAlGJQrkcudmwyA) | [Time of Waiting](https://open.spotify.com/album/55d318EyF219Cbnei0f0wV) | 2:48 |
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 47 | [When the Mourning Comes](https://open.spotify.com/track/0EaHuGgiDdWDQi9VsS6Xrv) | [Christian Kjellvander](https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6) | [I Saw Her from Here / I Saw Here](https://open.spotify.com/album/6VR7bphUiAWAguSNdCxpHI) | 3:44 |
 | 48 | [Stilla](https://open.spotify.com/track/3yovkhHZU1GfUptqdu3K4w) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Nærmere](https://open.spotify.com/album/3EOALbGIuyGFVKVusRlC7W) | 4:48 |
 | 49 | [October](https://open.spotify.com/track/3vBvMNtVbINeQj708jIjqU) | [Jonas Alaska](https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148) | [Jonas Alaska](https://open.spotify.com/album/6j9O86yZRjGScUxrgRJzy9) | 3:44 |
-| 50 | [Tranøy fyr](https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Tranøy fyr](https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy) | 3:56 |
-| 51 | [Look At The Light](https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV) | [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU) | [Flowers](https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW) | 3:40 |
+| 50 | [Look At The Light](https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV) | [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU) | [Flowers](https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW) | 3:40 |
+| 51 | [Tranøy fyr](https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Tranøy fyr](https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy) | 3:56 |
 | 52 | [The Devil's Tongue](https://open.spotify.com/track/0zJ5Alcy6I5mqjQVcUqTSx) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 2:13 |
-| 53 | [Buffy](https://open.spotify.com/track/1o1lWEJ1xqwIb5v6Y04R8p) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Buffy](https://open.spotify.com/album/5T6jp4vbCQNAQ51q6ob9HU) | 3:02 |
-| 54 | [Grey](https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [Grey](https://open.spotify.com/album/2hhuqUYYuwCGiGVPDFt53J) | 3:52 |
+| 53 | [Grey](https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [Grey](https://open.spotify.com/album/2hhuqUYYuwCGiGVPDFt53J) | 3:52 |
+| 54 | [Buffy](https://open.spotify.com/track/1o1lWEJ1xqwIb5v6Y04R8p) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Buffy](https://open.spotify.com/album/5T6jp4vbCQNAQ51q6ob9HU) | 3:02 |
 | 55 | [Bluebelle Mountain](https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni Was Right Pt\. II](https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE) | 3:20 |
 | 56 | [I Was Just Thinking](https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd) | [Teitur](https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM) | [Poetry & Airplanes](https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1) | 3:31 |
 | 57 | [Zeven](https://open.spotify.com/track/1fW3S0ANHrRLxOGd1MbhTP) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP), [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [Be Here Soon](https://open.spotify.com/album/76GU37as8GBPpZdauuS6EW) | 3:36 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 59 | [Hunting Sky](https://open.spotify.com/track/48wE4vYe6iumDianYfUAfO) | [Sumie](https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan) | [Sumie](https://open.spotify.com/album/3MJtEuh26Rm8p8cdNemiAg) | 3:15 |
 | 60 | [Glimpse of a Time](https://open.spotify.com/track/06zhgqhDgIM6CMI4NyDVxu) | [Broken Twin](https://open.spotify.com/artist/4Y1f57EtKq7YF6DfftpopX) | [May](https://open.spotify.com/album/2vXLNhdNLU10FscOd07Xbl) | 3:34 |
 
-Snapshot ID: `MTY4MjAyODAwMCwwMDAwMDAwMDY2MzgyMjE1OWQyZGNkNjljYjg4N2UxM2YyZjEwYjdl`
+Snapshot ID: `MTY4MjAyODAwMCwwMDAwMDAwMGVkZWIxN2E0N2E4NDRiOWUwNzA4MGMzOTFlMzMwNjgz`

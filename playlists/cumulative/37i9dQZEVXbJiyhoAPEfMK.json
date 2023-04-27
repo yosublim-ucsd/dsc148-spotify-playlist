@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "2003",
+        "url": "https://open.spotify.com/album/0WhGgo0k3Jga9GD4EowadU"
+      },
+      "artists": [
+        {
+          "name": "Elai",
+          "url": "https://open.spotify.com/artist/41qfKbF6qreDxiWBmOX39N"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "2003",
+      "url": "https://open.spotify.com/track/6zGYaksRbhV25LdvKICQox"
+    },
+    {
+      "album": {
         "name": "Emerald",
         "url": "https://open.spotify.com/album/0CZJD4IxRg6Cqu6FEeVhWE"
       },
@@ -7230,7 +7248,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 136906,
       "name": "Danger",
       "url": "https://open.spotify.com/track/2G02Na0nsJukXKEx8f13dB"
@@ -17852,7 +17870,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 322226,
       "name": "Lose Yourself - From \"8 Mile\" Soundtrack",
       "url": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1"
@@ -23863,7 +23881,7 @@
       "artists": [
         {
           "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+          "url": "https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF"
         }
       ],
       "date_added": "2023-01-12",
@@ -27242,7 +27260,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/3xWGA8pa0IKFI7IMPri4P0"

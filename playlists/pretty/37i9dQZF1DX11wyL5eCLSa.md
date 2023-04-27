@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. El Mató a un Policía Motorizado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,194 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,273 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 19 | [Nunca Me Dejes](https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Viaje Por Lo Eterno](https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c) | 3:25 |
 | 20 | [Karmadame](https://open.spotify.com/track/1xO5aVaGg8ksIuH1TL9Ba3) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 4:44 |
 | 21 | [Los Imanes](https://open.spotify.com/track/4CoJ7RN7myJHXYIx1pB8IF) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Cambio Estacional](https://open.spotify.com/album/4l9pCun5O9jMUUqeJ7LiwU) | 3:38 |
-| 22 | [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 |
-| 23 | [Himno \(para los que están jodidos\)](https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Himno \(para los que están jodidos\)](https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c) | 3:05 |
+| 22 | [Himno \(para los que están jodidos\)](https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Himno \(para los que están jodidos\)](https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c) | 3:05 |
+| 23 | [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 |
 | 24 | [OLA DE SUICIDIOS](https://open.spotify.com/track/0v2ESDRpC6X8k82tOnY91N) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [OLA DE SUICIDIOS](https://open.spotify.com/album/5cslTHbdAe79CyaKfAzYdM) | 2:34 |
 | 25 | [Paraíso Lunar](https://open.spotify.com/track/7uMBJGgc3QWdDQWBtBoPzj) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Paraíso Lunar](https://open.spotify.com/album/1W2CKcrLpM1bPYslJQlZCM) | 3:45 |
 | 26 | [Nada Te Lastima](https://open.spotify.com/track/707RJqFRGa41CeaxY8lz5d) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa), [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Nada Te Lastima](https://open.spotify.com/album/1jeyGW0WXEKoGBH6WlZMy2) | 4:08 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 72 | [PARANOIA](https://open.spotify.com/track/1QHurP8fLcwXDi4IkE6sBv) | [KAKTOV](https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94) | [PARANOIA](https://open.spotify.com/album/7rTfKkqiMRMr9PGNZQAqqb) | 1:44 |
 | 73 | [Naranjita sí carnal](https://open.spotify.com/track/3tVAj7avOvVpwkmoF2YOha) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Naranjita sí carnal](https://open.spotify.com/album/6AM6Pzkh4jGokb8gaFnRx1) | 3:14 |
 | 74 | [Asi Estoy Yo Sin Ti](https://open.spotify.com/track/29BVNooeLb4Q7ua0e4H0K3) | [INSITE](https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX) | [Así Estoy Yo Sin Ti](https://open.spotify.com/album/4JPFmNJVYsKvAPTwxomYu0) | 4:40 |
-| 75 | [Realidad Aparente](https://open.spotify.com/track/7JJ8lSAxz7NaVTNiTcYwBc) | [Los Romanticos de Zacatecas](https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg) | [Realidad Aparente](https://open.spotify.com/album/7qgEurNldCzTbsDCy8FxDA) | 1:41 |
+| 75 | [Brillando](https://open.spotify.com/track/0LWWuL2b4xRHe0AzerNRl6) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Brillando](https://open.spotify.com/album/3cpu7Bc6c6VQw6VBnHw6i6) | 4:31 |
 
-Snapshot ID: `MTY4MjA1NjgwMCwwMDAwMDAwMGNjY2Q2MTA5MTg2MWZkNGE5NjBlYzc5NzFjMzg1YmRl`
+Snapshot ID: `MTY4MjA1NjgwMCwwMDAwMDAwMGM5NDFjMTBmMDUxMTkyMmU2YjIxZWMyNWNjMjA0NmMz`

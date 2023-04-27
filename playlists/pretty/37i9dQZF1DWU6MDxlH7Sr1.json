@@ -1,6 +1,6 @@
 {
   "description": "Soft Jazz in the background of your cocktail party.",
-  "num_followers": 202665,
+  "num_followers": 202753,
   "original_name": "Cocktail Jazz",
   "owner": {
     "name": "Spotify",
@@ -2200,12 +2200,12 @@
       },
       "artists": [
         {
-          "name": "Carl Winther",
-          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
-        },
-        {
           "name": "Karl-Martin Almqvist",
           "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
         }
       ],
       "duration_ms": 179026,

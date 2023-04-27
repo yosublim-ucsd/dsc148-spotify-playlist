@@ -1,12 +1,12 @@
 {
   "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano.",
-  "num_followers": 162996,
+  "num_followers": 163043,
   "original_name": "Tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjEwMjIwMiwwMDAwMDAwMDE2OTZiMzRjOGQ1Y2VmMGYwZWYwNzBiYTFiMDZmNDA1",
+  "snapshot_id": "MTY4MjEwMjIwMiwwMDAwMDAwMGRlZTIyNmQwOTUyYjZlMjJlZWZjNDFjZDQ0NTZiNzE4",
   "tracks": [
     {
       "added_at": "2023-04-21 18:36:42",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-03-20 20:51:35",
       "album": {
-        "name": "Bemaste",
-        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 144428,
-      "name": "Bemaste",
-      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
-    },
-    {
-      "added_at": "2023-03-20 20:51:35",
-      "album": {
         "name": "LA ISLA LP",
         "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 179066,
       "name": "Me Olvid\u00e9 De Los 2",
       "url": "https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf"
+    },
+    {
+      "added_at": "2023-03-20 20:51:35",
+      "album": {
+        "name": "Bemaste",
+        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 144428,
+      "name": "Bemaste",
+      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
     },
     {
       "added_at": "2023-03-20 20:51:35",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-03-20 20:51:35",
       "album": {
-        "name": "No Sabe Igual",
-        "url": "https://open.spotify.com/album/4hU6NEWq45slvWt16hEgX3"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 136062,
-      "name": "No Sabe Igual",
-      "url": "https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl"
-    },
-    {
-      "added_at": "2023-03-20 20:51:35",
-      "album": {
         "name": "Qui\u00e9reme Mientras Se Pueda",
         "url": "https://open.spotify.com/album/7cd7ofPesyBoPDb2dtUbj5"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 191945,
       "name": "Qui\u00e9reme Mientras Se Pueda",
       "url": "https://open.spotify.com/track/34LI7rwi9H8w2S5KTHnv1M"
+    },
+    {
+      "added_at": "2023-03-20 20:51:35",
+      "album": {
+        "name": "No Sabe Igual",
+        "url": "https://open.spotify.com/album/4hU6NEWq45slvWt16hEgX3"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 136062,
+      "name": "No Sabe Igual",
+      "url": "https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl"
     },
     {
       "added_at": "2023-03-20 20:51:35",
@@ -787,26 +787,6 @@
     {
       "added_at": "2023-03-20 20:51:35",
       "album": {
-        "name": "LUNA",
-        "url": "https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD"
-      },
-      "artists": [
-        {
-          "name": "Jd Pantoja",
-          "url": "https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK"
-        },
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS"
-    },
-    {
-      "added_at": "2023-03-20 20:51:35",
-      "album": {
         "name": "Problem\u00f3n",
         "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 193013,
       "name": "Problem\u00f3n",
       "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
+    },
+    {
+      "added_at": "2023-03-20 20:51:35",
+      "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD"
+      },
+      "artists": [
+        {
+          "name": "Jd Pantoja",
+          "url": "https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK"
+        },
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS"
     },
     {
       "added_at": "2023-03-20 20:51:35",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-03-20 20:51:35",
       "album": {
+        "name": "FLORES",
+        "url": "https://open.spotify.com/album/4ZXoB7bH7El9Ad2kZHmRvw"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "FLORES",
+      "url": "https://open.spotify.com/track/7oEkDWQeUlsu3UBfltE1WI"
+    },
+    {
+      "added_at": "2023-03-20 20:51:35",
+      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 197647,
       "name": "El \u00daltimo Beso",
       "url": "https://open.spotify.com/track/2HZZfwzwvd6e8FzhSRm6rF"
-    },
-    {
-      "added_at": "2023-03-20 20:51:35",
-      "album": {
-        "name": "FLORES",
-        "url": "https://open.spotify.com/album/4ZXoB7bH7El9Ad2kZHmRvw"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "FLORES",
-      "url": "https://open.spotify.com/track/7oEkDWQeUlsu3UBfltE1WI"
     },
     {
       "added_at": "2023-03-20 20:51:35",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-03-20 20:51:35",
       "album": {
+        "name": "Ponte Pa' Mi",
+        "url": "https://open.spotify.com/album/3Nle45IcWgxIkXQw8EtYq1"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 202373,
+      "name": "Ponte Pa' Mi",
+      "url": "https://open.spotify.com/track/4C6BlqqMwjFzOXzqpTeoWR"
+    },
+    {
+      "added_at": "2023-03-20 20:51:35",
+      "album": {
         "name": "Fan\u00e1tico (feat. Feid & De La Ghetto) [Remix]",
         "url": "https://open.spotify.com/album/7BA2zaBLTBByNwceB6klnO"
       },
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2023-03-20 20:51:35",
       "album": {
-        "name": "Ponte Pa' Mi",
-        "url": "https://open.spotify.com/album/3Nle45IcWgxIkXQw8EtYq1"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 202373,
-      "name": "Ponte Pa' Mi",
-      "url": "https://open.spotify.com/track/4C6BlqqMwjFzOXzqpTeoWR"
-    },
-    {
-      "added_at": "2023-03-20 20:51:35",
-      "album": {
         "name": "Enchule",
         "url": "https://open.spotify.com/album/3DxqnLZyD3wBfxdg7FnkPY"
       },
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-03-20 20:51:35",
       "album": {
-        "name": "Canciones Pa Mi Ex Vol.1",
-        "url": "https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 148149,
-      "name": "Fue Lindo",
-      "url": "https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5"
-    },
-    {
-      "added_at": "2023-03-20 20:51:35",
-      "album": {
         "name": "Maviri",
         "url": "https://open.spotify.com/album/5w3ksWCecm2QnMYDsOKeJd"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 135797,
       "name": "Maviri",
       "url": "https://open.spotify.com/track/2KbDqOveWc2vInJ4QiSeuX"
+    },
+    {
+      "added_at": "2023-03-20 20:51:35",
+      "album": {
+        "name": "Canciones Pa Mi Ex Vol.1",
+        "url": "https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 148149,
+      "name": "Fue Lindo",
+      "url": "https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5"
     },
     {
       "added_at": "2023-03-20 20:51:35",

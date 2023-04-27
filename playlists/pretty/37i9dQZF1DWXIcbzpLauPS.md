@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: Veil Of Maya
 
-[Spotify](https://open.spotify.com/user/spotify) - 879,511 likes - 76 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 879,633 likes - 76 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

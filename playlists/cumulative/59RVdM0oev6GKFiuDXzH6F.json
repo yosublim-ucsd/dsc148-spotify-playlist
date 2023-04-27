@@ -97,6 +97,24 @@
     },
     {
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/2GymmbWZXcNdewzZcetK3P"
+      },
+      "artists": [
+        {
+          "name": "Chris Viviano",
+          "url": "https://open.spotify.com/artist/2ikGf53xbNItQFKMrmjNDo"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149404,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/2remaIEaOajisGtvTI6mLi"
+    },
+    {
+      "album": {
         "name": "Al Perreo",
         "url": "https://open.spotify.com/album/7ylSGlus6NrY2nnKRY7kNt"
       },

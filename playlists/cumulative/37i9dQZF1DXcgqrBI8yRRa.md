@@ -4,7 +4,7 @@
 
 > POV: You're a stratus cloud at the Oscars\. Cover: Tems
 
-190 songs - 10 hr 38 min
+191 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Bandana](https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bandana](https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke) | 2:58 | 2022-09-08 |  |
 | [Beautifully](https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Beautifully](https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx) | 2:49 | 2022-01-10 | 2022-09-09 |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-10-19 | 2022-02-10 |
-| [Bezos](https://open.spotify.com/track/3CL2wSAoigecJkzBLJJyjs) | [Dboi](https://open.spotify.com/artist/0Hm8XNele8yJjZXq2A0nh8) | [Bezos](https://open.spotify.com/album/0HWeesVXBwp4q78Ow2RFpx) | 2:48 | 2023-03-13 |  |
+| [Bezos](https://open.spotify.com/track/1NAXHOcE8EWudM0WO4D77I) | [Dboi](https://open.spotify.com/artist/0Hm8XNele8yJjZXq2A0nh8) | [Bezos](https://open.spotify.com/album/6QyMp5NklVWVcQRIwKKq49) | 2:48 | 2023-03-13 |  |
+| [Bezos](https://open.spotify.com/track/3CL2wSAoigecJkzBLJJyjs) | [Dboi](https://open.spotify.com/artist/0Hm8XNele8yJjZXq2A0nh8) | [Bezos](https://open.spotify.com/album/0HWeesVXBwp4q78Ow2RFpx) | 2:48 | 2023-03-13 | 2023-04-27 |
 | [Big Energy](https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Big Energy](https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk) | 3:05 | 2022-07-14 | 2023-01-07 |
 | [Big Thug Boys](https://open.spotify.com/track/5dFSwQk7dEGgccEpyzqskS) | [AV](https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF) | [Big Thug Boys](https://open.spotify.com/album/33XnJkxrpCyni7MnbnZPCj) | 2:52 | 2021-10-19 | 2022-07-29 |
 | [Big Thug Boys](https://open.spotify.com/track/64f7mZuEkeNeKOuzSjrIGm) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Big Thug Boys](https://open.spotify.com/album/79PtaeN11NuACxUaeipBom) | 2:51 | 2021-10-19 |  |
@@ -140,7 +141,7 @@
 | [Our Father](https://open.spotify.com/track/1DEVIcioSRXQrY8QMTqazG) | [T DOLLAR](https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc), [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won) | [Born 2 Shine](https://open.spotify.com/album/1jQOf8rlMeHpn4ftk2Fk2F) | 2:34 | 2022-07-14 | 2022-09-09 |
 | [Own Brand Freestyle](https://open.spotify.com/track/6Jzdxguk63s6CVVXHIrQ0x) | [FelixThe1st](https://open.spotify.com/artist/0E9Cff6GTVY5SoIYxvy5Zg), [Dréya Mac](https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP), [Finch Fetti](https://open.spotify.com/artist/5lup4fypQIoHxiE67ue1yi) | [Own Brand Freestyle](https://open.spotify.com/album/7lR5tiB0EL8xr8HodoIXg7) | 2:33 | 2021-11-29 | 2022-04-18 |
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2022-12-13 | 2023-03-14 |
-| [People \(feat\. Ayra Starr & Omah Lay\)](https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [People \(Remixes\)](https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G) | 3:04 | 2023-03-13 |  |
+| [People \(feat\. Ayra Starr & Omah Lay\)](https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG) | [Libianca](https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [People \(Remixes\)](https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G) | 3:04 | 2023-03-13 |  |
 | [People \(feat\. Ayra Starr & Omah Lay\)](https://open.spotify.com/track/5PtIgP17XrTITTrco3uDOr) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [People \(feat\. Ayra Starr & Omah Lay\) \[Remix\]](https://open.spotify.com/album/689njStjzEujqVZtSDlpha) | 3:04 | 2023-03-13 | 2023-04-12 |
 | [Peru](https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Peru](https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe) | 2:31 | 2021-10-19 | 2023-02-17 |
 | [Playboy](https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI) | 3:27 | 2022-04-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Dani Ribba.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,606 likes - 102 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,702 likes - 102 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "A mix of soulful, folksy, and beloved singer-songwriter acoustic gems. Cover: Brandi Carlile and Lucius",
-  "num_followers": 1479982,
+  "num_followers": 1480070,
   "original_name": "Acoustic Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAyNDY1MiwwMDAwMDAwMDVkNjg2MzQ5OTIwYzc3ZjBjMzlhNTA3MGZjYWQ1NjZk",
+  "snapshot_id": "MTY4MDAyNDY1MiwwMDAwMDAwMDE3NDY4MmVjNGUyNzJhNWNlNGY4YTViOTc4Y2NmZjcy",
   "tracks": [
     {
       "added_at": "2023-03-28 17:30:52",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-03-28 17:30:52",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "River",
-      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
-    },
-    {
-      "added_at": "2023-03-28 17:30:52",
-      "album": {
         "name": "Melodrama",
         "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 171727,
       "name": "Liability",
       "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
+    },
+    {
+      "added_at": "2023-03-28 17:30:52",
+      "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 240200,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
     },
     {
       "added_at": "2023-03-28 17:30:52",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-03-28 17:30:52",
       "album": {
-        "name": "Until You",
-        "url": "https://open.spotify.com/album/03MCMaTPo8CiVxwcCvgyem"
-      },
-      "artists": [
-        {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
-        }
-      ],
-      "duration_ms": 198653,
-      "name": "Until You",
-      "url": "https://open.spotify.com/track/7iH6cflAGYwR82sNMZiGuq"
-    },
-    {
-      "added_at": "2023-03-28 17:30:52",
-      "album": {
         "name": "In The Lonely Hour (Drowning Shadows Edition)",
         "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 223429,
       "name": "Latch - Acoustic",
       "url": "https://open.spotify.com/track/5vUNRJsvEOUsz4sbKkJpFr"
+    },
+    {
+      "added_at": "2023-03-28 17:30:52",
+      "album": {
+        "name": "Until You",
+        "url": "https://open.spotify.com/album/03MCMaTPo8CiVxwcCvgyem"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "duration_ms": 198653,
+      "name": "Until You",
+      "url": "https://open.spotify.com/track/7iH6cflAGYwR82sNMZiGuq"
     },
     {
       "added_at": "2023-03-28 17:30:52",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-03-28 17:30:52",
       "album": {
-        "name": "I Was / I Am",
-        "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 239027,
-      "name": "Part of Me",
-      "url": "https://open.spotify.com/track/1o5WgxPWvoVgo20DQItKOE"
-    },
-    {
-      "added_at": "2023-03-28 17:30:52",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 179173,
       "name": "Burn",
       "url": "https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7"
+    },
+    {
+      "added_at": "2023-03-28 17:30:52",
+      "album": {
+        "name": "I Was / I Am",
+        "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 239027,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/1o5WgxPWvoVgo20DQItKOE"
     },
     {
       "added_at": "2023-03-28 17:30:52",
@@ -1599,26 +1599,18 @@
     {
       "added_at": "2023-03-28 17:30:52",
       "album": {
-        "name": "Starving (Acoustic)",
-        "url": "https://open.spotify.com/album/5btWj40qkYd8xGP9K42E7Q"
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
       "artists": [
         {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        },
-        {
-          "name": "Grey",
-          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
-        },
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 181293,
-      "name": "Starving - Acoustic",
-      "url": "https://open.spotify.com/track/3rdTo5LQGou3pS2ZLxTAcQ"
+      "duration_ms": 203800,
+      "name": "What Do You Mean? - Acoustic",
+      "url": "https://open.spotify.com/track/5YNf9s8WE3iF33YaFNrgpa"
     },
     {
       "added_at": "2023-03-28 17:30:52",
@@ -1639,22 +1631,6 @@
     {
       "added_at": "2023-03-28 17:30:52",
       "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "What Do You Mean? - Acoustic",
-      "url": "https://open.spotify.com/track/5YNf9s8WE3iF33YaFNrgpa"
-    },
-    {
-      "added_at": "2023-03-28 17:30:52",
-      "album": {
         "name": "Talking Dreams (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2"
       },
@@ -1667,6 +1643,30 @@
       "duration_ms": 220626,
       "name": "Bright",
       "url": "https://open.spotify.com/track/3WKg25vrbjJlkhsgl2W4p3"
+    },
+    {
+      "added_at": "2023-03-28 17:30:52",
+      "album": {
+        "name": "Starving (Acoustic)",
+        "url": "https://open.spotify.com/album/5btWj40qkYd8xGP9K42E7Q"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        },
+        {
+          "name": "Grey",
+          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
+        },
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        }
+      ],
+      "duration_ms": 181293,
+      "name": "Starving - Acoustic",
+      "url": "https://open.spotify.com/track/3rdTo5LQGou3pS2ZLxTAcQ"
     },
     {
       "added_at": "2023-03-28 17:30:52",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2023-03-28 17:30:52",
       "album": {
+        "name": "Optimist",
+        "url": "https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 224278,
+      "name": "Love is Pain",
+      "url": "https://open.spotify.com/track/2tJUcBxiQEYSCzC3BdIOk8"
+    },
+    {
+      "added_at": "2023-03-28 17:30:52",
+      "album": {
         "name": "these words are all for you too",
         "url": "https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 266219,
       "name": "london",
       "url": "https://open.spotify.com/track/4mmtgoBJCUA8l8uDRJlnro"
-    },
-    {
-      "added_at": "2023-03-28 17:30:52",
-      "album": {
-        "name": "Optimist",
-        "url": "https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 224278,
-      "name": "Love is Pain",
-      "url": "https://open.spotify.com/track/2tJUcBxiQEYSCzC3BdIOk8"
     },
     {
       "added_at": "2023-03-28 17:30:52",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2023-03-28 17:30:52",
       "album": {
+        "name": "Tee Shirt",
+        "url": "https://open.spotify.com/album/30xBAnEjl3nSDzp0qoiBUD"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 159506,
+      "name": "Tee Shirt - Soundtrack Version",
+      "url": "https://open.spotify.com/track/3C5in0EVdoGepp5bA6lhlE"
+    },
+    {
+      "added_at": "2023-03-28 17:30:52",
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -1923,22 +1939,6 @@
       "duration_ms": 212480,
       "name": "Highwomen",
       "url": "https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv"
-    },
-    {
-      "added_at": "2023-03-28 17:30:52",
-      "album": {
-        "name": "Tee Shirt",
-        "url": "https://open.spotify.com/album/30xBAnEjl3nSDzp0qoiBUD"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 159506,
-      "name": "Tee Shirt - Soundtrack Version",
-      "url": "https://open.spotify.com/track/3C5in0EVdoGepp5bA6lhlE"
     },
     {
       "added_at": "2023-03-28 17:30:52",

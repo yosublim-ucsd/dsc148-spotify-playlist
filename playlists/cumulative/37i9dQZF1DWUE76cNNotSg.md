@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-339 songs - 22 hr 17 min
+340 songs - 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Gueto de Gent](https://open.spotify.com/track/0oR9XRneKUIefSfy5y0IJ8) | [Phillipi & Rodrigo](https://open.spotify.com/artist/6XaCe40GiIt7ujxQvfmvsp) | [Mantra / New Beach](https://open.spotify.com/album/4NjCGfP3nJ32GJBi9A5Ng7) | 5:06 | 2020-12-22 | 2022-04-19 |
 | [half life](https://open.spotify.com/track/0PLDJxrOkFsZT8UM436xZN) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [half life](https://open.spotify.com/album/7kAHSL7a1MkKOz5ol0l9yB) | 4:31 | 2022-07-22 | 2022-07-25 |
 | [Harvest Moon](https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Pacific Standard Time](https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9) | 6:08 | 2020-12-22 |  |
+| [He](https://open.spotify.com/track/3sV8Y8weWHxBbDa4rGGL9a) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Do You Love Her Now / He](https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO) | 4:28 | 2023-03-20 |  |
 | [He](https://open.spotify.com/track/6ysRK6One7O5GiRVvrs0x1) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Do You Love Her Now / He](https://open.spotify.com/album/6DnxZc9FT5qSMKKFDdviO2) | 4:28 | 2020-12-22 | 2022-04-21 |
 | [Heat\-Wave](https://open.spotify.com/track/5RwQuZtvlmLq6rutrcugxF) | [Daniel T.](https://open.spotify.com/artist/2KV7SeH81I26dNswIYrNeY) | [Heat\-Wave](https://open.spotify.com/album/205mIe44luLaMWMijo4ukX) | 5:56 | 2020-12-22 | 2022-07-05 |
 | [Heights](https://open.spotify.com/track/1OCrb7dmygmJiDcjdFAPR8) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heights](https://open.spotify.com/album/59IswWk54vUt2dT0tvSzPJ) | 2:54 | 2020-12-22 |  |
@@ -293,7 +294,7 @@
 | [Tell Me](https://open.spotify.com/track/1FJYX0a18UBzFOWzec43Ih) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Tell Me](https://open.spotify.com/album/3yjqJkHqnGlO6wpE9GPxV3) | 3:18 | 2020-12-22 |  |
 | [Tell Me](https://open.spotify.com/track/5EOqiwraZrbF6metpe4F3u) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Tell Me](https://open.spotify.com/album/5mtaT2Q1nxREyKuStY1wzS) | 3:18 | 2020-12-22 | 2022-07-29 |
 | [Temporary Love](https://open.spotify.com/track/139cV9ZeoqSgXAdPXIRrRU) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh) | [Temporary Love](https://open.spotify.com/album/1emDtbT8gHyccESticjljA) | 4:04 | 2021-03-19 | 2022-07-29 |
-| [Temporary Love](https://open.spotify.com/track/2ArO7GJPukDnhRvRfhB58n) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh) | [Temporary Love](https://open.spotify.com/album/4rR6MzkvCQw8P72RKJu7en) | 4:04 | 2021-03-19 |  |
+| [Temporary Love](https://open.spotify.com/track/2ArO7GJPukDnhRvRfhB58n) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh) | [Temporary Love](https://open.spotify.com/album/4rR6MzkvCQw8P72RKJu7en) | 4:04 | 2021-03-19 | 2023-04-27 |
 | [The Future \(feat\. Antony, Cleopatra\)](https://open.spotify.com/track/0k5ruVHsxFD5ftK2Tpp8Ap) | [Motez](https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR), [Antony](https://open.spotify.com/artist/3koJmQqTa9Eh7oy4y1XaZU), [Cleopatra](https://open.spotify.com/artist/7mu52yh5bBhhJOyVndAEZW) | [The Future \(feat\. Antony & Cleopatra\)](https://open.spotify.com/album/2X9CQvOdCiLxaPCPb3Hn5g) | 3:46 | 2020-12-22 | 2022-04-15 |
 | [The Heat](https://open.spotify.com/track/3FJgTJCXXV2CjURjdNq1DP) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/7oZG5VZ4SukMmnylJ16O24) | 3:16 | 2020-12-22 | 2022-04-21 |
 | [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 | 2021-08-27 |  |

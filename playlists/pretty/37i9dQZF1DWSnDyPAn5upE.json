@@ -1,12 +1,12 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 36389,
+  "num_followers": 36447,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA4MzQ1NSwwMDAwMDAwMDE4ZmY1MmFjODg3ZGRiYjY5N2I0MzQ0NzdlNjhlYTg0",
+  "snapshot_id": "MTY4MjA4MzQ1NSwwMDAwMDAwMGUyZWQwMzAyZDM2ZmQwNDgyNzE3ZmI1ZmM3MTI2M2Fi",
   "tracks": [
     {
       "added_at": "2023-04-21 13:24:15",
@@ -251,26 +251,6 @@
     {
       "added_at": "2023-04-21 13:24:15",
       "album": {
-        "name": "Inori (William Basinski Rework)",
-        "url": "https://open.spotify.com/album/2QvRUt9kt1X6JFDC1z8xK1"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        },
-        {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
-        }
-      ],
-      "duration_ms": 306154,
-      "name": "Inori - William Basinski Rework",
-      "url": "https://open.spotify.com/track/4WHgvsBS0aMtRgb2dihFYH"
-    },
-    {
-      "added_at": "2023-04-21 13:24:15",
-      "album": {
         "name": "The Metallic Index",
         "url": "https://open.spotify.com/album/0rFQ0WB7KaIEva6TiM0Wpr"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 94632,
       "name": "The Metallic Index",
       "url": "https://open.spotify.com/track/3GQbilk0MocKiEEccxsZmr"
+    },
+    {
+      "added_at": "2023-04-21 13:24:15",
+      "album": {
+        "name": "Inori (William Basinski Rework)",
+        "url": "https://open.spotify.com/album/2QvRUt9kt1X6JFDC1z8xK1"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        },
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "duration_ms": 306154,
+      "name": "Inori - William Basinski Rework",
+      "url": "https://open.spotify.com/track/4WHgvsBS0aMtRgb2dihFYH"
     },
     {
       "added_at": "2023-04-21 13:24:15",
@@ -467,54 +467,6 @@
     {
       "added_at": "2023-04-21 13:24:15",
       "album": {
-        "name": "Fountain",
-        "url": "https://open.spotify.com/album/0fasH5TVfXvpzoYpFmemgL"
-      },
-      "artists": [
-        {
-          "name": "Lyra Pramuk",
-          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
-        }
-      ],
-      "duration_ms": 276305,
-      "name": "Tendril",
-      "url": "https://open.spotify.com/track/4ZRQpRpeqICEqlTcDzGVWX"
-    },
-    {
-      "added_at": "2023-04-21 13:24:15",
-      "album": {
-        "name": "Blue Hills",
-        "url": "https://open.spotify.com/album/7nNCCgvJdDuE4DgnS68cQ8"
-      },
-      "artists": [
-        {
-          "name": "Jonnine",
-          "url": "https://open.spotify.com/artist/6s8JAb4h3UjN5r3BgRhUhQ"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "The Tides Do That with Me",
-      "url": "https://open.spotify.com/track/54IVj29KBSyfbDd5jCJ4b9"
-    },
-    {
-      "added_at": "2023-04-21 13:24:15",
-      "album": {
-        "name": "Untethering",
-        "url": "https://open.spotify.com/album/7pQyhMhsJvmpghevCKZnhw"
-      },
-      "artists": [
-        {
-          "name": "Sea Oleena",
-          "url": "https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP"
-        }
-      ],
-      "duration_ms": 418349,
-      "name": "Untethering",
-      "url": "https://open.spotify.com/track/2qwUHXTpXXDGuCpjbssBdQ"
-    },
-    {
-      "added_at": "2023-04-21 13:24:15",
-      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm"
       },
@@ -527,6 +479,22 @@
       "duration_ms": 289592,
       "name": "Still Numbers",
       "url": "https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq"
+    },
+    {
+      "added_at": "2023-04-21 13:24:15",
+      "album": {
+        "name": "Fountain",
+        "url": "https://open.spotify.com/album/0fasH5TVfXvpzoYpFmemgL"
+      },
+      "artists": [
+        {
+          "name": "Lyra Pramuk",
+          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
+        }
+      ],
+      "duration_ms": 276305,
+      "name": "Tendril",
+      "url": "https://open.spotify.com/track/4ZRQpRpeqICEqlTcDzGVWX"
     },
     {
       "added_at": "2023-04-21 13:24:15",
@@ -547,18 +515,34 @@
     {
       "added_at": "2023-04-21 13:24:15",
       "album": {
-        "name": "LP.8",
-        "url": "https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh"
+        "name": "Untethering",
+        "url": "https://open.spotify.com/album/7pQyhMhsJvmpghevCKZnhw"
       },
       "artists": [
         {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+          "name": "Sea Oleena",
+          "url": "https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP"
         }
       ],
-      "duration_ms": 182485,
-      "name": "Olga",
-      "url": "https://open.spotify.com/track/1jCOMWObV0nWG0qqjcPKwi"
+      "duration_ms": 418349,
+      "name": "Untethering",
+      "url": "https://open.spotify.com/track/2qwUHXTpXXDGuCpjbssBdQ"
+    },
+    {
+      "added_at": "2023-04-21 13:24:15",
+      "album": {
+        "name": "Blue Hills",
+        "url": "https://open.spotify.com/album/7nNCCgvJdDuE4DgnS68cQ8"
+      },
+      "artists": [
+        {
+          "name": "Jonnine",
+          "url": "https://open.spotify.com/artist/6s8JAb4h3UjN5r3BgRhUhQ"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "The Tides Do That with Me",
+      "url": "https://open.spotify.com/track/54IVj29KBSyfbDd5jCJ4b9"
     },
     {
       "added_at": "2023-04-21 13:24:15",
@@ -579,6 +563,22 @@
       "duration_ms": 104544,
       "name": "DOG",
       "url": "https://open.spotify.com/track/3ZAuPoxTsFsMfY9cNxyFYy"
+    },
+    {
+      "added_at": "2023-04-21 13:24:15",
+      "album": {
+        "name": "LP.8",
+        "url": "https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "duration_ms": 182485,
+      "name": "Olga",
+      "url": "https://open.spotify.com/track/1jCOMWObV0nWG0qqjcPKwi"
     },
     {
       "added_at": "2023-04-21 13:24:15",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-04-21 13:24:15",
       "album": {
-        "name": "7.37/2.11",
-        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
-      },
-      "artists": [
-        {
-          "name": "Perila",
-          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
-        }
-      ],
-      "duration_ms": 468000,
-      "name": "Long Dizzying Air Through A Balcony Door",
-      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
-    },
-    {
-      "added_at": "2023-04-21 13:24:15",
-      "album": {
         "name": "Afraid",
         "url": "https://open.spotify.com/album/4QAYOB5v6hxBRJxsinOuL8"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 226640,
       "name": "Afraid",
       "url": "https://open.spotify.com/track/6mIRfLOXlbVVI03oHrg8b1"
+    },
+    {
+      "added_at": "2023-04-21 13:24:15",
+      "album": {
+        "name": "7.37/2.11",
+        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
+      },
+      "artists": [
+        {
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+        }
+      ],
+      "duration_ms": 468000,
+      "name": "Long Dizzying Air Through A Balcony Door",
+      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
     },
     {
       "added_at": "2023-04-21 13:24:15",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-04-21 13:24:15",
       "album": {
-        "name": "SOUL VOICES",
-        "url": "https://open.spotify.com/album/2N0ZhTIRAlJLMKkXdpmTOU"
-      },
-      "artists": [
-        {
-          "name": "Jane Winther",
-          "url": "https://open.spotify.com/artist/0PO9NIghm5IGR1uIqCRJ1s"
-        }
-      ],
-      "duration_ms": 463164,
-      "name": "Soul Voices",
-      "url": "https://open.spotify.com/track/4Taym4GnErWI1nc1qLTisL"
-    },
-    {
-      "added_at": "2023-04-21 13:24:15",
-      "album": {
         "name": "Piccolo Corpo (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7wRqZYWKlxhqah0N9IE0QK"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 264369,
       "name": "Piccolo Corpo",
       "url": "https://open.spotify.com/track/2WQIpkkMGKD7rgy32wsckK"
+    },
+    {
+      "added_at": "2023-04-21 13:24:15",
+      "album": {
+        "name": "SOUL VOICES",
+        "url": "https://open.spotify.com/album/2N0ZhTIRAlJLMKkXdpmTOU"
+      },
+      "artists": [
+        {
+          "name": "Jane Winther",
+          "url": "https://open.spotify.com/artist/0PO9NIghm5IGR1uIqCRJ1s"
+        }
+      ],
+      "duration_ms": 463164,
+      "name": "Soul Voices",
+      "url": "https://open.spotify.com/track/4Taym4GnErWI1nc1qLTisL"
     },
     {
       "added_at": "2023-04-21 13:24:15",
@@ -1107,22 +1107,18 @@
     {
       "added_at": "2023-04-21 13:24:15",
       "album": {
-        "name": "In Blue",
-        "url": "https://open.spotify.com/album/1XxCgww2zlUU8Yp0L5uFh2"
+        "name": "Our Hands Against the Dusk",
+        "url": "https://open.spotify.com/album/0m89bXpdmBFJzyIA4j6ZWH"
       },
       "artists": [
         {
-          "name": "The Bug",
-          "url": "https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw"
-        },
-        {
-          "name": "Dis Fig",
-          "url": "https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC"
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
         }
       ],
-      "duration_ms": 89661,
-      "name": "Around Me",
-      "url": "https://open.spotify.com/track/3DpgXewqgwLcwQBmrd5oGE"
+      "duration_ms": 487715,
+      "name": "Aurobindo",
+      "url": "https://open.spotify.com/track/5QjrjsMxJjGATz83CAGxoZ"
     },
     {
       "added_at": "2023-04-21 13:24:15",
@@ -1143,18 +1139,22 @@
     {
       "added_at": "2023-04-21 13:24:15",
       "album": {
-        "name": "Our Hands Against the Dusk",
-        "url": "https://open.spotify.com/album/0m89bXpdmBFJzyIA4j6ZWH"
+        "name": "In Blue",
+        "url": "https://open.spotify.com/album/1XxCgww2zlUU8Yp0L5uFh2"
       },
       "artists": [
         {
-          "name": "Rachika Nayar",
-          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+          "name": "The Bug",
+          "url": "https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw"
+        },
+        {
+          "name": "Dis Fig",
+          "url": "https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC"
         }
       ],
-      "duration_ms": 487715,
-      "name": "Aurobindo",
-      "url": "https://open.spotify.com/track/5QjrjsMxJjGATz83CAGxoZ"
+      "duration_ms": 89661,
+      "name": "Around Me",
+      "url": "https://open.spotify.com/track/3DpgXewqgwLcwQBmrd5oGE"
     },
     {
       "added_at": "2023-04-21 13:24:15",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-04-21 13:24:15",
       "album": {
-        "name": "Shifting Winds",
-        "url": "https://open.spotify.com/album/3kKwnGfZfZivj3lu60VgH3"
-      },
-      "artists": [
-        {
-          "name": "Hollie Kenniff",
-          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Shifting Winds",
-      "url": "https://open.spotify.com/track/3lNLrhN4VhMYCvUQcNioaV"
-    },
-    {
-      "added_at": "2023-04-21 13:24:15",
-      "album": {
         "name": "Cradle (Patience Rework)",
         "url": "https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 324000,
       "name": "Cradle - Patience Rework",
       "url": "https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3"
+    },
+    {
+      "added_at": "2023-04-21 13:24:15",
+      "album": {
+        "name": "Shifting Winds",
+        "url": "https://open.spotify.com/album/3kKwnGfZfZivj3lu60VgH3"
+      },
+      "artists": [
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Shifting Winds",
+      "url": "https://open.spotify.com/track/3lNLrhN4VhMYCvUQcNioaV"
     },
     {
       "added_at": "2023-04-21 13:24:15",
@@ -1339,6 +1339,26 @@
     {
       "added_at": "2023-04-21 13:24:15",
       "album": {
+        "name": "All Things Devour (Botany Remix)",
+        "url": "https://open.spotify.com/album/03HQK0q3fWW6f06fL1tJ70"
+      },
+      "artists": [
+        {
+          "name": "aeseaes",
+          "url": "https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO"
+        },
+        {
+          "name": "Botany",
+          "url": "https://open.spotify.com/artist/4X8xPTUQoC19tQjPG40M81"
+        }
+      ],
+      "duration_ms": 326426,
+      "name": "All Things Devour - Botany Remix",
+      "url": "https://open.spotify.com/track/4iNffLEhCYNSpvcJEwRHMX"
+    },
+    {
+      "added_at": "2023-04-21 13:24:15",
+      "album": {
         "name": "7.37/2.11",
         "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
       },
@@ -1367,26 +1387,6 @@
       "duration_ms": 206000,
       "name": "Cosmic Ray",
       "url": "https://open.spotify.com/track/7u8SH2nPDCa3AMyofsYTQj"
-    },
-    {
-      "added_at": "2023-04-21 13:24:15",
-      "album": {
-        "name": "All Things Devour (Botany Remix)",
-        "url": "https://open.spotify.com/album/03HQK0q3fWW6f06fL1tJ70"
-      },
-      "artists": [
-        {
-          "name": "aeseaes",
-          "url": "https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO"
-        },
-        {
-          "name": "Botany",
-          "url": "https://open.spotify.com/artist/4X8xPTUQoC19tQjPG40M81"
-        }
-      ],
-      "duration_ms": 326426,
-      "name": "All Things Devour - Botany Remix",
-      "url": "https://open.spotify.com/track/4iNffLEhCYNSpvcJEwRHMX"
     },
     {
       "added_at": "2023-04-21 13:24:15",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-04-21 13:24:15",
       "album": {
+        "name": "Ithaca",
+        "url": "https://open.spotify.com/album/0UOV2tQMqRHkO4NZLiBEfS"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Cocolas",
+          "url": "https://open.spotify.com/artist/6LjkHRMDTc02BAIEsSK0ZB"
+        }
+      ],
+      "duration_ms": 341000,
+      "name": "Across The Ocean, But Not Yet",
+      "url": "https://open.spotify.com/track/003RirJuMCDzISyCbHLDVh"
+    },
+    {
+      "added_at": "2023-04-21 13:24:15",
+      "album": {
         "name": "Celeste",
         "url": "https://open.spotify.com/album/5KVMzzZ01MJxw5Sd9qvdCY"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 210000,
       "name": "Celeste Song",
       "url": "https://open.spotify.com/track/63o2pUoRLVel5Fr14GQy9c"
-    },
-    {
-      "added_at": "2023-04-21 13:24:15",
-      "album": {
-        "name": "Ithaca",
-        "url": "https://open.spotify.com/album/0UOV2tQMqRHkO4NZLiBEfS"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Cocolas",
-          "url": "https://open.spotify.com/artist/6LjkHRMDTc02BAIEsSK0ZB"
-        }
-      ],
-      "duration_ms": 341000,
-      "name": "Across The Ocean, But Not Yet",
-      "url": "https://open.spotify.com/track/003RirJuMCDzISyCbHLDVh"
     },
     {
       "added_at": "2023-04-21 13:24:15",
@@ -1667,42 +1667,6 @@
     {
       "added_at": "2023-04-21 13:24:15",
       "album": {
-        "name": "Hush Now Baby",
-        "url": "https://open.spotify.com/album/7ynWqs3YeWAhkFEhGpaApR"
-      },
-      "artists": [
-        {
-          "name": "Ea Akilat",
-          "url": "https://open.spotify.com/artist/67P3OoSUfsjVUEQQioTmhJ"
-        },
-        {
-          "name": "Howie B.",
-          "url": "https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG"
-        }
-      ],
-      "duration_ms": 101142,
-      "name": "Hush Now Baby",
-      "url": "https://open.spotify.com/track/6kGlgelRujRG66GEjvaREw"
-    },
-    {
-      "added_at": "2023-04-21 13:24:15",
-      "album": {
-        "name": "Dalmarnock Tapes",
-        "url": "https://open.spotify.com/album/6ZAGUwp9bVhe13qoXrNqA7"
-      },
-      "artists": [
-        {
-          "name": "Cucina Povera",
-          "url": "https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1"
-        }
-      ],
-      "duration_ms": 314036,
-      "name": "La\u0308mpo\u0308",
-      "url": "https://open.spotify.com/track/0EzJNQX4oVC7p4PF1mqOg0"
-    },
-    {
-      "added_at": "2023-04-21 13:24:15",
-      "album": {
         "name": "Bones Knowing",
         "url": "https://open.spotify.com/album/7unSlshn5qJdKuzhiKRYKG"
       },
@@ -1739,6 +1703,42 @@
     {
       "added_at": "2023-04-21 13:24:15",
       "album": {
+        "name": "Dalmarnock Tapes",
+        "url": "https://open.spotify.com/album/6ZAGUwp9bVhe13qoXrNqA7"
+      },
+      "artists": [
+        {
+          "name": "Cucina Povera",
+          "url": "https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1"
+        }
+      ],
+      "duration_ms": 314036,
+      "name": "La\u0308mpo\u0308",
+      "url": "https://open.spotify.com/track/0EzJNQX4oVC7p4PF1mqOg0"
+    },
+    {
+      "added_at": "2023-04-21 13:24:15",
+      "album": {
+        "name": "Hush Now Baby",
+        "url": "https://open.spotify.com/album/7ynWqs3YeWAhkFEhGpaApR"
+      },
+      "artists": [
+        {
+          "name": "Ea Akilat",
+          "url": "https://open.spotify.com/artist/67P3OoSUfsjVUEQQioTmhJ"
+        },
+        {
+          "name": "Howie B.",
+          "url": "https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG"
+        }
+      ],
+      "duration_ms": 101142,
+      "name": "Hush Now Baby",
+      "url": "https://open.spotify.com/track/6kGlgelRujRG66GEjvaREw"
+    },
+    {
+      "added_at": "2023-04-21 13:24:15",
+      "album": {
         "name": "Kasper Bj\u00f8rke Quartet: Abiogenesis",
         "url": "https://open.spotify.com/album/3QcNobksry2yytTgmxFq36"
       },
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2023-04-21 13:24:15",
       "album": {
+        "name": "We Used to Talk for Hours",
+        "url": "https://open.spotify.com/album/7M7eUfngPvWbEePRC4Sozr"
+      },
+      "artists": [
+        {
+          "name": "Camille Mandoki",
+          "url": "https://open.spotify.com/artist/1yeZSt0NrlRsgscElnX09R"
+        }
+      ],
+      "duration_ms": 440000,
+      "name": "By the Shore",
+      "url": "https://open.spotify.com/track/172HYchcUHffaAYQ8sQOyy"
+    },
+    {
+      "added_at": "2023-04-21 13:24:15",
+      "album": {
         "name": "Seeing Inside",
         "url": "https://open.spotify.com/album/5DpwvMHLe0PK3XfNMYYyRF"
       },
@@ -1787,18 +1803,22 @@
     {
       "added_at": "2023-04-21 13:24:15",
       "album": {
-        "name": "We Used to Talk for Hours",
-        "url": "https://open.spotify.com/album/7M7eUfngPvWbEePRC4Sozr"
+        "name": "Sudany",
+        "url": "https://open.spotify.com/album/3LAoQzv2tyJVNuf2amKTCp"
       },
       "artists": [
         {
-          "name": "Camille Mandoki",
-          "url": "https://open.spotify.com/artist/1yeZSt0NrlRsgscElnX09R"
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Antonina Nowacka",
+          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 440000,
-      "name": "By the Shore",
-      "url": "https://open.spotify.com/track/172HYchcUHffaAYQ8sQOyy"
+      "duration_ms": 260199,
+      "name": "Sudany",
+      "url": "https://open.spotify.com/track/2zY9uXtDJ5Qf4XVXwDlc78"
     },
     {
       "added_at": "2023-04-21 13:24:15",
@@ -1819,26 +1839,6 @@
       "duration_ms": 198880,
       "name": "For You I Am Missing \u2026",
       "url": "https://open.spotify.com/track/5rVeiG9p1XlvfC1ch2zqnp"
-    },
-    {
-      "added_at": "2023-04-21 13:24:15",
-      "album": {
-        "name": "Sudany",
-        "url": "https://open.spotify.com/album/3LAoQzv2tyJVNuf2amKTCp"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Antonina Nowacka",
-          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
-        }
-      ],
-      "duration_ms": 260199,
-      "name": "Sudany",
-      "url": "https://open.spotify.com/track/2zY9uXtDJ5Qf4XVXwDlc78"
     },
     {
       "added_at": "2023-04-21 13:24:15",

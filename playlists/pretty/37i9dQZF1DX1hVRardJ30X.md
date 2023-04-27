@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Nicki Nicole & Rels B
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,214 likes - 59 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,435 likes - 59 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 13 | [Gasolina \(feat\. Myke Towers\) \- Safari Riot Remix](https://open.spotify.com/track/7c2QYoTl47LpoamSugqKVM) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Safari Riot](https://open.spotify.com/artist/2B1AeLc4tMEDVTcn4XXpjT) | [Gasolina \(feat\. Myke Towers\) \[Safari Riot Remix\]](https://open.spotify.com/album/4ZoVWdv5zSYGqa4tMvnHB2) | 2:32 |
 | 14 | [El carro Ford](https://open.spotify.com/track/3xyz9QMAjvWC0muckkitYp) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Escalona Nunca Se Había Grabado Así](https://open.spotify.com/album/7kNLI2jHSLoCzMdvs1ZQhz) | 2:59 |
 | 15 | [Whiskey y Coco \- Remix](https://open.spotify.com/track/3pUqOFuXETdcGRh8E587BE) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Whiskey y Coco \(Remix\)](https://open.spotify.com/album/4g71V57SAYujhaE1QcJUCF) | 3:41 |
-| 16 | [People \(feat\. Becky G\)](https://open.spotify.com/track/40OZkN8qle7lxaovVrn1QY) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [People \(feat\. Becky G\) \[Remixes\]](https://open.spotify.com/album/49TVWS0iWtQ7ZAQFzqqpoB) | 3:22 |
+| 16 | [People \(feat\. Becky G\)](https://open.spotify.com/track/40OZkN8qle7lxaovVrn1QY) | [Libianca](https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [People \(feat\. Becky G\) \[Remixes\]](https://open.spotify.com/album/49TVWS0iWtQ7ZAQFzqqpoB) | 3:22 |
 | 17 | [Perdonémonos](https://open.spotify.com/track/7hIstL0FGshcF8Tk2inv5q) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Perdonémonos](https://open.spotify.com/album/5sYzVuTy6UrHdvAaai7y3i) | 2:16 |
 | 18 | [Todo Fue Por Amor \(de la película “Con Esta Luz”\)](https://open.spotify.com/track/6X6wECGLnBIMDsAjgOR5Di) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Todo Fue Por Amor \(de la película “Con Esta Luz”\)](https://open.spotify.com/album/0X3ypNwDzwYW7iEPQ4MWrl) | 3:46 |
 | 19 | [Máquina \(feat\. Go Get Music\)](https://open.spotify.com/track/4CtoAsebSZ1HNlofQvftIh) | [Los G4](https://open.spotify.com/artist/1uaiSMIzlh2Y6Fx4bC1c6s), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [Go Get Music](https://open.spotify.com/artist/0BKYcWhq6W4TYSLSJk1ZDJ) | [Máquina \(feat\. Go Get Music\)](https://open.spotify.com/album/0mrvBuF1bDPnMiKuhYHHhY) | 2:59 |

@@ -1,12 +1,12 @@
 {
   "description": "A selection of the greatest funk & soul records ever made.",
-  "num_followers": 1506270,
+  "num_followers": 1506955,
   "original_name": "Funk & Soul Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk1MjgxMSwwMDAwMDAwMGIwZDJmYjg5ZTBiNjVkNDA5MGIyMzk5MzZhN2Q4YWEz",
+  "snapshot_id": "MTY2Mzk1MjgxMSwwMDAwMDAwMDhjYjg4OWRlNDJiOGFhYWNkYmRmNTBiZmI5NzgwOGIz",
   "tracks": [
     {
       "added_at": "2022-09-23 17:06:51",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "The Spice Of Life",
-        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
-      },
-      "artists": [
-        {
-          "name": "Marlena Shaw",
-          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
-        }
-      ],
-      "duration_ms": 177226,
-      "name": "California Soul",
-      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "Still Bill",
         "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 307946,
       "name": "Got to Be Real",
       "url": "https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "The Spice Of Life",
+        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
+      },
+      "artists": [
+        {
+          "name": "Marlena Shaw",
+          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
+        }
+      ],
+      "duration_ms": 177226,
+      "name": "California Soul",
+      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Just As I Am",
-        "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 121080,
-      "name": "Grandma's Hands",
-      "url": "https://open.spotify.com/track/1qfDfZAvrkSAFrAR2FTQDv"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "2nd Time Around (Expanded Edition)",
         "url": "https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 165226,
       "name": "Dancing In The Street",
       "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "Just As I Am",
+        "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 121080,
+      "name": "Grandma's Hands",
+      "url": "https://open.spotify.com/track/1qfDfZAvrkSAFrAR2FTQDv"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "The Meters",
-        "url": "https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y"
-      },
-      "artists": [
-        {
-          "name": "The Meters",
-          "url": "https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s"
-        }
-      ],
-      "duration_ms": 186853,
-      "name": "Cissy Strut",
-      "url": "https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "Come Get It! (Expanded Edition)",
         "url": "https://open.spotify.com/album/3fRI3fAHalHqqnKsW5btnP"
       },
@@ -955,18 +939,34 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Knock On Wood",
-        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
+        "name": "The Meters",
+        "url": "https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y"
       },
       "artists": [
         {
-          "name": "Eddie Floyd",
-          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
+          "name": "The Meters",
+          "url": "https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s"
         }
       ],
-      "duration_ms": 189840,
-      "name": "Knock on Wood",
-      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
+      "duration_ms": 186853,
+      "name": "Cissy Strut",
+      "url": "https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "More Hits By The Supremes",
+        "url": "https://open.spotify.com/album/2maj3yWtoFnr0g7TlNao7A"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 172906,
+      "name": "Stop! In The Name Of Love",
+      "url": "https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
+        "name": "Knock On Wood",
+        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
+      },
+      "artists": [
+        {
+          "name": "Eddie Floyd",
+          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "Knock on Wood",
+      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
         "name": "Take Two",
         "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 177666,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
-        "name": "More Hits By The Supremes",
-        "url": "https://open.spotify.com/album/2maj3yWtoFnr0g7TlNao7A"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 172906,
-      "name": "Stop! In The Name Of Love",
-      "url": "https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Express Yourself",
-        "url": "https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5"
-      },
-      "artists": [
-        {
-          "name": "Charles Wright & The Watts 103rd Street Rhythm Band",
-          "url": "https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ"
-        }
-      ],
-      "duration_ms": 233613,
-      "name": "Express Yourself",
-      "url": "https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "Can't Slow Down",
         "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 195133,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "Express Yourself",
+        "url": "https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5"
+      },
+      "artists": [
+        {
+          "name": "Charles Wright & The Watts 103rd Street Rhythm Band",
+          "url": "https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ"
+        }
+      ],
+      "duration_ms": 233613,
+      "name": "Express Yourself",
+      "url": "https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
+        "name": "Back Stabbers",
+        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 186093,
+      "name": "Back Stabbers",
+      "url": "https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
         "name": "The Soul Album",
         "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 279200,
       "name": "Theme From Shaft - Remastered",
       "url": "https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
-        "name": "Back Stabbers",
-        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 186093,
-      "name": "Back Stabbers",
-      "url": "https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA"
     },
     {
       "added_at": "2022-09-23 17:06:51",

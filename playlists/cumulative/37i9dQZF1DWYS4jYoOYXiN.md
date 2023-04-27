@@ -4,7 +4,7 @@
 
 > We like it like that! Cover: Pete Rodriguez \(Courtesy of Fania\)
 
-107 songs - 7 hr 19 min
+108 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Come And Get It](https://open.spotify.com/track/647gi4v4E8zPT0GdiR8MxL) | [Ralph Robles](https://open.spotify.com/artist/6zIVmHQtPA9i2eZRDtWqjV) | [El Barrio](https://open.spotify.com/album/4xGW5NEUTOgeqvYoOCCD0k) | 3:00 | 2021-09-07 | 2022-07-27 |
 | [Come and Get It](https://open.spotify.com/track/0Zqpc4C25DtWg7Fmhb0g63) | [Ralph Robles](https://open.spotify.com/artist/6zIVmHQtPA9i2eZRDtWqjV) | [Ralph Robles](https://open.spotify.com/album/2pBp6tnOazUbSHFm7bdCN8) | 3:02 | 2021-09-07 |  |
 | [Descarga Caliente](https://open.spotify.com/track/161gOWTZqCKPw7S5cRJ1BQ) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [De Panama A Nueva York](https://open.spotify.com/album/2JmJnOOlzq820rq9tRFAPR) | 5:23 | 2022-04-09 |  |
+| [Dry Cocoanuts](https://open.spotify.com/track/2aPhirjN6mWZlI2QPdfcLS) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn) | [Mambo & Cha Cha Cha](https://open.spotify.com/album/2zeMCbliNWzlwz2CxgBjhl) | 2:32 | 2023-03-08 |  |
 | [Dry Coconuts](https://open.spotify.com/track/7tUKJZGKfMgb6VdCyTQIiF) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn) | [Dry Coconuts \- Güeita Caimán](https://open.spotify.com/album/3NhmPB7jtHaB7YfcVZ28E6) | 2:33 | 2022-04-09 | 2022-07-13 |
 | [El Borracho](https://open.spotify.com/track/5rbhgXOL4AkkMr7A4GU9mJ) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [La Moderna De Siempre](https://open.spotify.com/album/5yuDeyPDVTKLQHtRXa24z7) | 2:38 | 2022-04-09 | 2022-04-18 |
 | [El Pito \(I'll Never Go Back To Georgia\)](https://open.spotify.com/track/4urZ7xOhe9Ss1Yi2t9a9NY) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC), [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Anthology](https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x) | 5:33 | 2022-04-09 |  |
@@ -53,7 +54,7 @@
 | [Grazin' In The Grass](https://open.spotify.com/track/039Mx8o4AA0xbVsd99L8FV) | [Orchestra Harlow](https://open.spotify.com/artist/6JW9UcNPmjUsybgF1WFdkR) | [Orchestra Harlow Presenta A Ismael Miranda](https://open.spotify.com/album/1vjHbuMmbI5zhLuN0eabmW) | 3:16 | 2021-09-07 | 2022-07-29 |
 | [Grazin' In The Grass](https://open.spotify.com/track/071QzNfV4nNVuCbBZ598uC) | [Orquesta Harlow](https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W), [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Orchestra Harlow Presenta a Ismael Miranda](https://open.spotify.com/album/3YIcRu0JUrtqcXQUoLjoy4) | 3:16 | 2021-09-07 |  |
 | [Guaguancó Raro](https://open.spotify.com/track/2p4JCDisy82i1dhZW4v0Pr) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [Agúzate](https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4) | 6:21 | 2022-04-09 | 2023-03-23 |
-| [Guaguancó Triste](https://open.spotify.com/track/6S22eYfhiqVvlTYeSfZwDj) | [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [El Bestial Sonido de](https://open.spotify.com/album/75SxVlMzxU5FADaYf12d6f) | 5:23 | 2022-04-09 |  |
+| [Guaguancó Triste](https://open.spotify.com/track/6S22eYfhiqVvlTYeSfZwDj) | [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [El Bestial Sonido de](https://open.spotify.com/album/75SxVlMzxU5FADaYf12d6f) | 5:23 | 2022-04-09 | 2023-04-27 |
 | [Guajira Soul](https://open.spotify.com/track/03HV6ASLKmzXDm68IynJ7R) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Compilación Salsa 1958\-1964](https://open.spotify.com/album/3DBnxpcPAMIz1itLKWx36J) | 1:59 | 2022-04-09 | 2022-07-24 |
 | [Guararé](https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D), [Tito Gómez](https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn) | [Barretto](https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ) | 5:38 | 2022-04-09 |  |
 | [Gypsy Woman](https://open.spotify.com/track/2cTqYG1rtwmpiXvhIuTQFY) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [Joe Bataan Anthology](https://open.spotify.com/album/4WdHyWjaXFd1dLFb6BlEPv) | 4:06 | 2022-04-09 | 2022-07-29 |

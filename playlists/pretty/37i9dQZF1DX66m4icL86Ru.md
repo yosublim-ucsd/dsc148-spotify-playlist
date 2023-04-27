@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Ice Spice & Nicki Minaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 783,732 likes - 81 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 784,272 likes - 81 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

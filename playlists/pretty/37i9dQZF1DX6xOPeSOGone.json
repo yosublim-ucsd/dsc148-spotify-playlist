@@ -1,12 +1,12 @@
 {
   "description": "It's like rock, but softer. Cover: Fleetwood Mac",
-  "num_followers": 3583115,
+  "num_followers": 3583247,
   "original_name": "Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTUxMTQzNiwwMDAwMDAwMDJlMGE0MmM5MmI3Y2ZlYTU1ZWYwYzhkYmJjZjQ2Nzdl",
+  "snapshot_id": "MTY3OTUxMTQzNiwwMDAwMDAwMDE3NDdiNWRjOWFkNzA4YTIwYjM3OTIyNTRlMzY3NTQ5",
   "tracks": [
     {
       "added_at": "2023-03-20 17:07:41",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "What's Wrong with This Picture?",
-        "url": "https://open.spotify.com/album/646DiNC3Ack9x3Q7dEBzKW"
-      },
-      "artists": [
-        {
-          "name": "Andrew Gold",
-          "url": "https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d"
-        }
-      ],
-      "duration_ms": 264893,
-      "name": "Lonely Boy",
-      "url": "https://open.spotify.com/track/6wGMLoEqD2k3RBXFHD0yUp"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Keep The Fire",
         "url": "https://open.spotify.com/album/3Z9IvbRwLHwLXXBlPFKg3B"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 236733,
       "name": "This Is It",
       "url": "https://open.spotify.com/track/0YO8KsprTrEUEvJevpI7Na"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "What's Wrong with This Picture?",
+        "url": "https://open.spotify.com/album/646DiNC3Ack9x3Q7dEBzKW"
+      },
+      "artists": [
+        {
+          "name": "Andrew Gold",
+          "url": "https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d"
+        }
+      ],
+      "duration_ms": 264893,
+      "name": "Lonely Boy",
+      "url": "https://open.spotify.com/track/6wGMLoEqD2k3RBXFHD0yUp"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "This Night Won't Last Forever",
-        "url": "https://open.spotify.com/album/25h67pU7Dl8JlUYuvtVoue"
-      },
-      "artists": [
-        {
-          "name": "Bill LaBounty",
-          "url": "https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO"
-        }
-      ],
-      "duration_ms": 265640,
-      "name": "This Night Won't Last Forever",
-      "url": "https://open.spotify.com/track/3KH39R9cO3ZWN6hqRbTKM3"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Goodbye Girl",
         "url": "https://open.spotify.com/album/6In7MCrPTTezZiHrdFtSDd"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 187840,
       "name": "Never Let Her Go",
       "url": "https://open.spotify.com/track/2b8ja3uL8fPS0ozNfjV15p"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "This Night Won't Last Forever",
+        "url": "https://open.spotify.com/album/25h67pU7Dl8JlUYuvtVoue"
+      },
+      "artists": [
+        {
+          "name": "Bill LaBounty",
+          "url": "https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO"
+        }
+      ],
+      "duration_ms": 265640,
+      "name": "This Night Won't Last Forever",
+      "url": "https://open.spotify.com/track/3KH39R9cO3ZWN6hqRbTKM3"
     },
     {
       "added_at": "2023-03-20 17:07:41",

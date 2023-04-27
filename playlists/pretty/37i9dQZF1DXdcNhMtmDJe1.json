@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 77869,
+  "num_followers": 77892,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMGNiNWYzMWM1MjI5Zjc1N2Y3MDA0ZDFmNDMyOTAzNzEw",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDI5NDM2MzI0OGIwYjQzMzEyMGI3MWIxZTc5NDdjNDAx",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1023,34 +1023,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Michael Tilson Thomas Conducts Gershwin",
-        "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Michael Tilson Thomas",
-          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
-        },
-        {
-          "name": "Buffalo Philharmonic",
-          "url": "https://open.spotify.com/artist/7y7JfF5Y2WU0VO8kWjp6WJ"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/51Y2UhjxRLc1iinRa9dIQ1"
-        }
-      ],
-      "duration_ms": 498373,
-      "name": "Let 'Em Eat Cake: Overture",
-      "url": "https://open.spotify.com/track/1AkIFKsdsYe8es9Bruub5G"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin: Piano Concerto/Copland: El sal\u00f3n Mexico, etc.",
         "url": "https://open.spotify.com/album/5S77nfKK1NxxwBaoLY7mWk"
       },
@@ -1075,6 +1047,34 @@
       "duration_ms": 799826,
       "name": "Piano Concerto in F: 2. Adagio",
       "url": "https://open.spotify.com/track/6pgaNRblhbixTnmoP6hOvn"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Michael Tilson Thomas Conducts Gershwin",
+        "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        },
+        {
+          "name": "Buffalo Philharmonic",
+          "url": "https://open.spotify.com/artist/7y7JfF5Y2WU0VO8kWjp6WJ"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/51Y2UhjxRLc1iinRa9dIQ1"
+        }
+      ],
+      "duration_ms": 498373,
+      "name": "Let 'Em Eat Cake: Overture",
+      "url": "https://open.spotify.com/track/1AkIFKsdsYe8es9Bruub5G"
     },
     {
       "added_at": "2022-08-05 04:02:00",

@@ -4,10 +4,11 @@
 
 > Os grandes hits do momento estão aqui! Foto: Ludmilla
 
-163 songs - 8 hr 4 min
+164 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\* da Anitta](https://open.spotify.com/track/0VhG6qzFZo9JrHu56Wq7gh) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [\* da Anitta](https://open.spotify.com/album/5vrDahFF5TU32GwPMxP4SC) | 2:20 | 2023-04-26 |  |
 | [29](https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [29](https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL) | 2:43 | 2022-08-19 | 2022-10-29 |
 | [2step \(feat\. Chefin\)](https://open.spotify.com/track/72DbvEOeqtJbKAX9GLzRER) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB) | [2step \(feat\. Chefin\)](https://open.spotify.com/album/1Cu9w3jFSFKHa1YckwnUFW) | 2:44 | 2022-05-20 | 2023-01-28 |
 | [A Caminho do Bega \[Piseiro Remix\] \(feat\. Dj Mizzontti\)](https://open.spotify.com/track/5o4VK4Qe5QwXHrvUPoaGHy) | [DJ Patrick Muniz](https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu), [MC DOM LP](https://open.spotify.com/artist/1IDgBR9gfIJOS5lB7SwE6W), [Mc L3](https://open.spotify.com/artist/2879HZwIGp09pCeg5CGuna), [Dj Mizzontti](https://open.spotify.com/artist/5HevMdws455L9tIAE1nEwu) | [A Caminho do Bega \[Piseiro Remix\]](https://open.spotify.com/album/6qX5mgFX8dUrTxsSbsXOzd) | 2:16 | 2022-12-22 | 2023-03-27 |
@@ -80,7 +81,7 @@
 | [GIRL LIKE ME](https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:42 | 2022-05-20 | 2022-09-28 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-22 | 2022-07-14 |
 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 | 2022-05-20 | 2022-09-28 |
-| [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 | 2022-08-26 |  |
+| [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 | 2022-08-26 | 2023-04-27 |
 | [Honest \(feat\. Don Toliver\)](https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Honest](https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf) | 3:13 | 2022-05-20 | 2022-06-18 |
 | [Hotel Caro](https://open.spotify.com/track/6BF3nZQkAg9qvE0DLVSfyH) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Hotel Caro](https://open.spotify.com/album/2rnjCy8GYIemnJTPz6dnlU) | 3:41 | 2022-06-13 |  |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-09-30 |  |

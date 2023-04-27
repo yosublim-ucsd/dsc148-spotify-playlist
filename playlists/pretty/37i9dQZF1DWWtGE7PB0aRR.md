@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,641 likes - 65 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,724 likes - 65 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 22 | [They Don't Make Them Like You Anymore](https://open.spotify.com/track/5bpefadeY6xmGgkXkylqSt) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Tattoo \(Remastered 2017\)](https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg) | 4:04 |
 | 23 | [I Woke up This Morning](https://open.spotify.com/track/20yxud4lZiqNzkreGyliiA) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Goin' Home!](https://open.spotify.com/album/22PaF4yYYiTjFpDgeN7zLX) | 5:30 |
 | 24 | [The Fool and Me \- 2007 Remaster](https://open.spotify.com/track/0KaBfk7ax1IoCyA1aABCf9) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [Bridge Of Sighs \(2007 Remaster\)](https://open.spotify.com/album/2ufQ2fXlHknTw5RtIN7qaC) | 3:55 |
-| 25 | [Tell Mama](https://open.spotify.com/track/53g0wWZkXPiQPjqVuZ5TFS) | [Savoy Brown](https://open.spotify.com/artist/17obwOahRWI121iMUZznh2) | [Street Corner Talking](https://open.spotify.com/album/5oq20r8iNOO9fpw8R2h3vE) | 5:23 |
-| 26 | [Delta Lady](https://open.spotify.com/track/0gHjMu0zgdBA0GcaA6B6x0) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Joe Cocker!](https://open.spotify.com/album/3MoIn4co8ZN5vhLNekUqnc) | 2:50 |
-| 27 | [All Your Love](https://open.spotify.com/track/1tPZlhOHo1GOZRrJR3hGOx) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [Blues Breakers](https://open.spotify.com/album/3W45Tazulh4zb48uL1RV8H) | 3:36 |
+| 25 | [All Your Love](https://open.spotify.com/track/1tPZlhOHo1GOZRrJR3hGOx) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [Blues Breakers](https://open.spotify.com/album/3W45Tazulh4zb48uL1RV8H) | 3:36 |
+| 26 | [Tell Mama](https://open.spotify.com/track/53g0wWZkXPiQPjqVuZ5TFS) | [Savoy Brown](https://open.spotify.com/artist/17obwOahRWI121iMUZznh2) | [Street Corner Talking](https://open.spotify.com/album/5oq20r8iNOO9fpw8R2h3vE) | 5:23 |
+| 27 | [Delta Lady](https://open.spotify.com/track/0gHjMu0zgdBA0GcaA6B6x0) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Joe Cocker!](https://open.spotify.com/album/3MoIn4co8ZN5vhLNekUqnc) | 2:50 |
 | 28 | [Who Do You Love?](https://open.spotify.com/track/7bX0AR2q50IfDu0TnmTdwP) | [Juicy Lucy](https://open.spotify.com/artist/7pngx7BrbiM6QFuaHyw0RY) | [Who Do You Love \- The Anthology](https://open.spotify.com/album/5k8WOyyBWIkB2egLehwOPb) | 3:00 |
 | 29 | [Songs Of Yesterday](https://open.spotify.com/track/7jYXoudEWfERVDFZHM8Nfw) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Free](https://open.spotify.com/album/2yZXtlCUGjaOYBGc9qqeay) | 3:35 |
 | 30 | [Who Do You Love?](https://open.spotify.com/track/4v4zFRDRkXyGPTRyYur26i) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Diamonds In The Dirt](https://open.spotify.com/album/7qev8XrmWI1pqJBkXqLcVT) | 3:07 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 64 | [Masters of War](https://open.spotify.com/track/4KIpaOe8mx1Ss7THfddQCR) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Masters of War](https://open.spotify.com/album/32L4ByoDGk3hSJTfXunr58) | 4:56 |
 | 65 | [Hear Me Calling \- Mono](https://open.spotify.com/track/4e2QAsNsK4k2L3AmfkCs3w) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Stonedhenge \(Re\-Presents\)](https://open.spotify.com/album/6Y4yzjEE03x6pPQbyoWi8l) | 5:48 |
 
-Snapshot ID: `MTY2ODE0Mjg2MCwwMDAwMDAwMGVjMjM3ZjA2ODJlMmRiYjAyMGQzNDA2OTAxOGZiMmZl`
+Snapshot ID: `MTY2ODE0Mjg2MCwwMDAwMDAwMDllMWE1NTRjMTc5MzMwYzE3OGE5MjYzMDk3YjE2ZTFk`

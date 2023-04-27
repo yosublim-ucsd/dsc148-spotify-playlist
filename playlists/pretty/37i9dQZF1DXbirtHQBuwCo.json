@@ -1,12 +1,12 @@
 {
   "description": "Enjoy trendy & chill Korean R&B music. (Cover: TAEYANG & LISA(\ud0dc\uc591 & \ub9ac\uc0ac))",
-  "num_followers": 837691,
+  "num_followers": 837843,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjQxMzQ5NSwwMDAwMDAwMDk3NDNkYTAyOTFkZWI3MzcwOGE4OWExZGZmN2Y4NWQ3",
+  "snapshot_id": "MTY4MjQxMzQ5NSwwMDAwMDAwMGNlYTg0ZWVjNmY5ODIyNjA4M2E0M2FiMzFkM2YwMTNk",
   "tracks": [
     {
       "added_at": "2023-04-25 09:04:55",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-04-25 09:04:55",
       "album": {
+        "name": "Sour & Sweet",
+        "url": "https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET"
+      },
+      "artists": [
+        {
+          "name": "BamBam",
+          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
+        }
+      ],
+      "duration_ms": 134933,
+      "name": "TIPPY TOE",
+      "url": "https://open.spotify.com/track/4QZ822qY72CrhhPaJAvQZ0"
+    },
+    {
+      "added_at": "2023-04-25 09:04:55",
+      "album": {
         "name": "Like A Fool",
         "url": "https://open.spotify.com/album/4wJPiw5ZoTJFRUt2r2zvCy"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 214426,
       "name": "Like A Fool",
       "url": "https://open.spotify.com/track/1E8Cztx0OIj4zm1IZh2XXj"
-    },
-    {
-      "added_at": "2023-04-25 09:04:55",
-      "album": {
-        "name": "Sour & Sweet",
-        "url": "https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET"
-      },
-      "artists": [
-        {
-          "name": "BamBam",
-          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
-        }
-      ],
-      "duration_ms": 134933,
-      "name": "TIPPY TOE",
-      "url": "https://open.spotify.com/track/4QZ822qY72CrhhPaJAvQZ0"
     },
     {
       "added_at": "2023-04-25 09:04:55",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-04-25 09:04:55",
       "album": {
-        "name": "camellia",
-        "url": "https://open.spotify.com/album/6EEKOptTOOPOQUCglyUjb8"
-      },
-      "artists": [
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        }
-      ],
-      "duration_ms": 151211,
-      "name": "camellia",
-      "url": "https://open.spotify.com/track/7kpe2K0hdSssLj4G4YjxdU"
-    },
-    {
-      "added_at": "2023-04-25 09:04:55",
-      "album": {
         "name": "Your Dog Loves You",
         "url": "https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 270003,
       "name": "Your Dog Loves You (Feat. Crush)",
       "url": "https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ"
+    },
+    {
+      "added_at": "2023-04-25 09:04:55",
+      "album": {
+        "name": "camellia",
+        "url": "https://open.spotify.com/album/6EEKOptTOOPOQUCglyUjb8"
+      },
+      "artists": [
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        }
+      ],
+      "duration_ms": 151211,
+      "name": "camellia",
+      "url": "https://open.spotify.com/track/7kpe2K0hdSssLj4G4YjxdU"
     },
     {
       "added_at": "2023-04-25 09:04:55",

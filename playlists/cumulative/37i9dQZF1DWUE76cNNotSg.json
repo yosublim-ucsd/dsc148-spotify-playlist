@@ -2086,6 +2086,24 @@
     {
       "album": {
         "name": "Do You Love Her Now / He",
+        "url": "https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO"
+      },
+      "artists": [
+        {
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "He",
+      "url": "https://open.spotify.com/track/3sV8Y8weWHxBbDa4rGGL9a"
+    },
+    {
+      "album": {
+        "name": "Do You Love Her Now / He",
         "url": "https://open.spotify.com/album/6DnxZc9FT5qSMKKFDdviO2"
       },
       "artists": [
@@ -5606,7 +5624,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 244267,
       "name": "Temporary Love",
       "url": "https://open.spotify.com/track/2ArO7GJPukDnhRvRfhB58n"

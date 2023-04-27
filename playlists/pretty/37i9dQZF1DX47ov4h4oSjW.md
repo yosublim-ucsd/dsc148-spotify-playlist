@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 
 > Music to help you concentrate during your homework.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,174 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,179 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 | 8 | [to god knows where \- silence](https://open.spotify.com/track/7a4ZCgxbjGlcOEDXeadkGS) | [BigRicePiano](https://open.spotify.com/artist/6NZehyzoXBTOmvFzJyp6RV) | [to god knows where](https://open.spotify.com/album/3IkfQcMF1gPMIessnYkMg1) | 3:24 |
 | 9 | [Quiet Eyes](https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Quiet Eyes](https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0) | 2:21 |
 | 10 | [Omoidasu](https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Omoidasu](https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD) | 1:57 |
-| 11 | [Cygne Noir](https://open.spotify.com/track/5BxHusXv0AvPFlm0wGbYv3) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Cygne Noir](https://open.spotify.com/album/5HHvADWAbDJvs9HJGNCQl1) | 2:58 |
-| 12 | [A Place To Hide](https://open.spotify.com/track/0eMa3P0kQJjYqguUgKFt4y) | [Boil The Ocean](https://open.spotify.com/artist/2I5UjNu4WPindIoyWAPnXI) | [A Place To Hide](https://open.spotify.com/album/0MaWkUPlnRLcS7U5oXYp4F) | 2:27 |
-| 13 | [Lawson: fields of forever \- sleep rework](https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [fields of forever \(sleep rework\)](https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS) | 3:41 |
+| 11 | [A Place To Hide](https://open.spotify.com/track/0eMa3P0kQJjYqguUgKFt4y) | [Boil The Ocean](https://open.spotify.com/artist/2I5UjNu4WPindIoyWAPnXI) | [A Place To Hide](https://open.spotify.com/album/0MaWkUPlnRLcS7U5oXYp4F) | 2:27 |
+| 12 | [Lawson: fields of forever \- sleep rework](https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [fields of forever \(sleep rework\)](https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS) | 3:41 |
+| 13 | [Cygne Noir](https://open.spotify.com/track/5BxHusXv0AvPFlm0wGbYv3) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Cygne Noir](https://open.spotify.com/album/5HHvADWAbDJvs9HJGNCQl1) | 2:58 |
 | 14 | [16 Waltzes, Op\. 39: No\. 15 In A Flat Major](https://open.spotify.com/track/7ouW02587AzIaGnK0gh8St) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Hungarian Dances / Waltzes, Op\. 39](https://open.spotify.com/album/30JPDQFmVwnBN78AVvzXhD) | 1:34 |
 | 15 | [Before We Met](https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl) | [Minik Jakobsen](https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe) | [Before We Met](https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ) | 1:53 |
 | 16 | [Spheroidal](https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Relaxing Piano \(Neoclassical Sessions\)](https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj) | 3:04 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 | 43 | [Mystique](https://open.spotify.com/track/47u0q4Z7iALJXli6pkcnvA) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Mystique](https://open.spotify.com/album/3XDrOM2hdwuRYvqlmTQFvL) | 2:30 |
 | 44 | [Un Lent Mouvement](https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Un Lent Mouvement](https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb) | 2:41 |
 | 45 | [Nocturnal Waltz](https://open.spotify.com/track/1cyZIM22N8kmBqdATPBmI7) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [Nocturnal Waltz](https://open.spotify.com/album/4WNTnQdoFo9GexkdBnAJus) | 2:08 |
-| 46 | [Donde Nadas](https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Donde Nadas](https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK) | 2:21 |
-| 47 | [Light through a Willow's Leaves](https://open.spotify.com/track/1L5ABoW0UZyVWk7ZbXDokA) | [Qunfan Wen](https://open.spotify.com/artist/2qhWWY7F1cPThO3UfSJVcm) | [Light through a Willow's Leaves](https://open.spotify.com/album/4ERDVnEd0b6ul3FjS1FNB4) | 1:52 |
+| 46 | [Light through a Willow's Leaves](https://open.spotify.com/track/1L5ABoW0UZyVWk7ZbXDokA) | [Qunfan Wen](https://open.spotify.com/artist/2qhWWY7F1cPThO3UfSJVcm) | [Light through a Willow's Leaves](https://open.spotify.com/album/4ERDVnEd0b6ul3FjS1FNB4) | 1:52 |
+| 47 | [Donde Nadas](https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Donde Nadas](https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK) | 2:21 |
 | 48 | [Reverence](https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [Reverence](https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI) | 2:18 |
 | 49 | [Coelicolor](https://open.spotify.com/track/59uTTjYZrhemOxdwht85fA) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Coelicolor](https://open.spotify.com/album/2u28DhrSjoAAtn6sVudqYI) | 2:42 |
 | 50 | [Time is the Longest Distance](https://open.spotify.com/track/1vViUoB7DpXUX10isPj7YL) | [Danielle Fleur](https://open.spotify.com/artist/4SlWk9stVDNIL6l4BK2MlI) | [Time is the Longest Distance](https://open.spotify.com/album/7c9zTWwG3gmkYRqWomwQ6Q) | 2:04 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 | 66 | [Amore](https://open.spotify.com/track/5IeHIsegjkCOEHUrbs8hrF) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [/05](https://open.spotify.com/album/1s8Esd8UoFFMGV6e8DCDix) | 5:09 |
 | 67 | [Endless Summer](https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA) | [Alexander Motovilov](https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw) | [Endless Summer](https://open.spotify.com/album/6zyluI1jtjlirqAKuaCgmJ) | 2:45 |
 | 68 | [Heartbeat](https://open.spotify.com/track/5gYcfdwdwQ7eowE3ycuXaW) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [Heartbeat](https://open.spotify.com/album/23F1BckCyP3XYDPo7JQtZL) | 2:17 |
-| 69 | [Branches étoilées](https://open.spotify.com/track/4FoP6Z1UO96TSRdjD4aAQq) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Branches étoilées](https://open.spotify.com/album/1EpKF5KgUMncRXA0hC4MJj) | 2:46 |
-| 70 | [Kardelen](https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Kardelen](https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8) | 2:47 |
+| 69 | [Kardelen](https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Kardelen](https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8) | 2:47 |
+| 70 | [Branches étoilées](https://open.spotify.com/track/4FoP6Z1UO96TSRdjD4aAQq) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Branches étoilées](https://open.spotify.com/album/1EpKF5KgUMncRXA0hC4MJj) | 2:46 |
 | 71 | [Petrichor](https://open.spotify.com/track/27M7FdIBhufCksw0tQ1Vb9) | [Omri Grummet](https://open.spotify.com/artist/19LcF5dYN49CCl17FM7QYr) | [Petrichor](https://open.spotify.com/album/5e8gpa4yASJx8yTPZh51bz) | 2:27 |
 | 72 | [Always](https://open.spotify.com/track/4cmE5SPvjKEzIHzhrLq9jO) | [Olivier DeGrasse](https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb) | [Always](https://open.spotify.com/album/53GIKoxcqDkU8yZgA3o9FO) | 3:17 |
 | 73 | [Visionaire](https://open.spotify.com/track/3XmRYyDspHCnlXkvHAYVLL) | [Anna Goya](https://open.spotify.com/artist/3T6VP5tdYDJR2H9sc62fMW) | [Visionaire](https://open.spotify.com/album/3kAsZxO4D7aYpaJbcGyfQa) | 1:43 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 | 84 | [Gloria](https://open.spotify.com/track/4WuRXkwTMiOy0OuGPqOpD7) | [Bernadine Richter](https://open.spotify.com/artist/5EUn1FMsnRUZTJsmXuDy0z) | [Gloria](https://open.spotify.com/album/1xrFFEPBJp6zGo7WYCBIV1) | 2:55 |
 | 85 | [Nocturnes, Op\. 27: No\. 2 in D\-Flat Major](https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Arthur Rubinstein](https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9) | [50 Masterworks \- Arthur Rubinstein](https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE) | 6:16 |
 | 86 | [Unyielding Faith](https://open.spotify.com/track/4sOJSA5LPjdT1gfrcQL3sQ) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Unyielding Faith](https://open.spotify.com/album/29ZDRjpFRwS7waC0djMgPp) | 2:38 |
-| 87 | [Upraise](https://open.spotify.com/track/0TbUBfDnRESf3Z41MajK2D) | [Eleanor Neylan](https://open.spotify.com/artist/19XUo1Fg2WQ0oO3z0fP1uE) | [Upraise](https://open.spotify.com/album/7CtSyctCEaXNdTv4ZxTGnz) | 2:27 |
-| 88 | [The Winding Paths](https://open.spotify.com/track/5VceRZmSDeW6y7ipxiwOvK) | [Regina Mira](https://open.spotify.com/artist/5TxyXnLkmonAVNpdgJ7z4C) | [October](https://open.spotify.com/album/3csL43PsskrOpVuXSRTw91) | 1:59 |
+| 87 | [The Winding Paths](https://open.spotify.com/track/5VceRZmSDeW6y7ipxiwOvK) | [Regina Mira](https://open.spotify.com/artist/5TxyXnLkmonAVNpdgJ7z4C) | [October](https://open.spotify.com/album/3csL43PsskrOpVuXSRTw91) | 1:59 |
+| 88 | [Upraise](https://open.spotify.com/track/0TbUBfDnRESf3Z41MajK2D) | [Eleanor Neylan](https://open.spotify.com/artist/19XUo1Fg2WQ0oO3z0fP1uE) | [Upraise](https://open.spotify.com/album/7CtSyctCEaXNdTv4ZxTGnz) | 2:27 |
 | 89 | [Avenues](https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Avenues](https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1) | 2:19 |
 | 90 | [Eden](https://open.spotify.com/track/4jG0jO5ggIh1KLT1GKJeYo) | [Mary Steinbrecher](https://open.spotify.com/artist/2SKFOdoUtDTKWiIPfyerTa) | [Eden](https://open.spotify.com/album/0qlURxpEPDS25Wg74IAoeC) | 2:27 |
 | 91 | [Mantra for Piano](https://open.spotify.com/track/2FifEFnO1xZHMsG8O6Ir6p) | [Carl Bonet](https://open.spotify.com/artist/3NvG2KsrNSJqeGRryYyl8x) | [Center of Gravity](https://open.spotify.com/album/53A24jAS0pIuBHGINApD71) | 3:18 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 | 94 | [Azure \- Piano Version](https://open.spotify.com/track/5b3i1A9Frf3c0UFffMtoXA) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny), [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Azure \(Piano Version\)](https://open.spotify.com/album/4lT2JzD3ZAEfjRx5crCbA5) | 3:42 |
 | 95 | [Midnight Musette](https://open.spotify.com/track/1wC7zd8ZiRgiRaIT2THV8c) | [De Maynes](https://open.spotify.com/artist/46rRHXeWejBCxgPv6Sdjcn) | [Midnight Musette](https://open.spotify.com/album/1t0632m5eesD6Fbanaqfnb) | 3:17 |
 | 96 | [Petals](https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1) | [Floriscope](https://open.spotify.com/artist/0G4MXHhzyHUB9XexNNg2Sw) | [Petals](https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L) | 2:37 |
-| 97 | [Lonely Leslie](https://open.spotify.com/track/1Y9CNCm8icZUaMtQV29NpC) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Lonely Leslie](https://open.spotify.com/album/1AWQaoW4Zdiubdcb0H7BAg) | 2:39 |
-| 98 | [Isonzo](https://open.spotify.com/track/0ELqe9dtV7NIrXAnI59snn) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Isonzo](https://open.spotify.com/album/40JFpO3b72BemcMBf53Ikq) | 1:47 |
+| 97 | [Isonzo](https://open.spotify.com/track/0ELqe9dtV7NIrXAnI59snn) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Isonzo](https://open.spotify.com/album/40JFpO3b72BemcMBf53Ikq) | 1:47 |
+| 98 | [Lonely Leslie](https://open.spotify.com/track/1Y9CNCm8icZUaMtQV29NpC) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Lonely Leslie](https://open.spotify.com/album/1AWQaoW4Zdiubdcb0H7BAg) | 2:39 |
 | 99 | [Ready Set Love](https://open.spotify.com/track/09lvJaGmgV91BqZVKAcaG2) | [Piotr Miteska](https://open.spotify.com/artist/76vFPXp4WOuiv8ppkBcd4c) | [Ready Set Love](https://open.spotify.com/album/739UKKT2LRs2Rj3Jidup25) | 1:29 |
-| 100 | [Story of You](https://open.spotify.com/track/3eAN6u0NIx1YkkDNppNQC8) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Dreamland](https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm) | 3:36 |
+| 100 | [Glow](https://open.spotify.com/track/7ooM6rULm5upVZNOKwux3B) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Lifeline](https://open.spotify.com/album/55v3rGDCfSfwDpOI46Cs45) | 4:14 |
 
-Snapshot ID: `MTY3ODYxNjMxOCwwMDAwMDAwMGZkMGI4ZTI3NWNjZmM2MTgyZTkxMmRiNDJjYmNjODkz`
+Snapshot ID: `MTY3ODYxNjMxOCwwMDAwMDAwMGRkYjRjODBkYjNkMjZiMGYwOGYzMjg0ZDk5NjA1ZWQ1`

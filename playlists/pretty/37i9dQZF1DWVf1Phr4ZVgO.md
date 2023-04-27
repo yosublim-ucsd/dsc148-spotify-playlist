@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 985,912 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 986,066 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 28 | [On The Street Where You Live \- Remastered](https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 3:41 |
 | 29 | [It Had to Be You \(Big Band and Vocals\)](https://open.spotify.com/track/58Znl2X9CgsghGUZrkEUr4) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When Harry Met Sally..\. Music From The Motion Picture](https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv) | 2:38 |
 | 30 | [In the Mood](https://open.spotify.com/track/6dZKWYSx5YBIme4SfpIHJ0) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [Greatest Hits](https://open.spotify.com/album/7GiFhLj7OY98QpRwmlVUl8) | 3:31 |
-| 31 | [Beyond the Sea](https://open.spotify.com/track/2EIaO5knwUA3F2qnf9LV3S) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [The Ultimate Bobby Darin](https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8) | 2:52 |
+| 31 | [When I Fall in Love \(feat\. Chris Botti\)](https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB), [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Skylark \(Std\. Version\)](https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP) | 4:43 |
 | 32 | [The Lady Is A Tramp \- Remastered](https://open.spotify.com/track/4Z4eU8yoBtBGIQPQrhCFr2) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Swingin' Affair! \(Remastered / Expanded Edition\)](https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj) | 3:14 |
-| 33 | [When I Fall in Love \(feat\. Chris Botti\)](https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB), [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Skylark \(Std\. Version\)](https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP) | 4:43 |
+| 33 | [Beyond the Sea](https://open.spotify.com/track/2EIaO5knwUA3F2qnf9LV3S) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [The Ultimate Bobby Darin](https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8) | 2:52 |
 | 34 | [It Had to Be You](https://open.spotify.com/track/76MSB9fAR5jXVcBXdK5xMy) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Genius Of Ray Charles](https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1) | 2:44 |
 | 35 | [Always on My Mind](https://open.spotify.com/track/4zKbPdCC2o8726tHh5sEJw) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Call Me Irresponsible](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) | 4:29 |
 | 36 | [As Time Goes By](https://open.spotify.com/track/4N6xY1v1oOuXb6GdEJqQTP) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [As Time Goes By](https://open.spotify.com/album/2Jr81lF1N4Lq9rGzroCQQR) | 2:34 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 55 | [Ain't We Got Fun](https://open.spotify.com/track/1hqrv4RHtqRres6Szcibvv) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Jump For Joy](https://open.spotify.com/album/1FfJGpYVPvVx0OEPbMkVqz) | 2:13 |
 | 56 | [You Make Me Feel so Young](https://open.spotify.com/track/1B8RSIxmwcjad7XUJjeCK2) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [To Be Loved](https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07) | 3:05 |
 | 57 | [Moonglow](https://open.spotify.com/track/5OxesorQA2Gu1r0bGRTkX0) | [Artie Shaw](https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF) | [Begin The Beguine](https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h) | 3:33 |
-| 58 | [What a Difference a Day Makes](https://open.spotify.com/track/58NE4gmBGsJtXDFGo176HK) | [Frank Sinatra Jr.](https://open.spotify.com/artist/5fElZYhQFp0lEc4FQVcRu1) | [That Face!](https://open.spotify.com/album/0tTIug98cYd67md0Gtc5Iw) | 3:04 |
-| 59 | [Have You Met Miss Jones?](https://open.spotify.com/track/6wcWYONsa1wGcmhu3WX7SK) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Swing When You're Winning](https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw) | 2:34 |
+| 58 | [Have You Met Miss Jones?](https://open.spotify.com/track/6wcWYONsa1wGcmhu3WX7SK) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Swing When You're Winning](https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw) | 2:34 |
+| 59 | [What a Difference a Day Makes](https://open.spotify.com/track/58NE4gmBGsJtXDFGo176HK) | [Frank Sinatra Jr.](https://open.spotify.com/artist/5fElZYhQFp0lEc4FQVcRu1) | [That Face!](https://open.spotify.com/album/0tTIug98cYd67md0Gtc5Iw) | 3:04 |
 | 60 | ['S Wonderful](https://open.spotify.com/track/4tqGZzY8YmngfaTqUAHENj) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Is Here To Stay](https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t) | 2:50 |
 | 61 | [Baby I'm A Fool](https://open.spotify.com/track/3XZN4wXwG2o0OadHWExzPr) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [My One And Only Thrill](https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA) | 3:30 |
 | 62 | [Stardust](https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:14 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 66 | [We Are In Love](https://open.spotify.com/track/0cPa96zXRs2LVuNIqu06oj) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [We Are In Love](https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82) | 2:40 |
 | 67 | [I Belong to You](https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a) | [Emilia Mitiku](https://open.spotify.com/artist/65RLNrrTTS9ztKiuK0fZg2) | [I Belong To You](https://open.spotify.com/album/4abZmMGlhSgaf9SDL1m70d) | 3:16 |
 | 68 | [It Had To Be You](https://open.spotify.com/track/1l3tnchl5noYMXhMjjTvhf) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Music For Torching](https://open.spotify.com/album/127Jwx8NAD3DPnLDDucazY) | 4:03 |
-| 69 | [Squeeze Me](https://open.spotify.com/track/5kyfBYQcu5Swr0i80s8zLJ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Only Trust Your Heart](https://open.spotify.com/album/3ZocvPcE7EGyv9EEP95YeC) | 5:37 |
-| 70 | [Time After Time](https://open.spotify.com/track/1ia5QkdJp7qGwpoaX9Hgmj) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [As Time Goes By...The Great American Songbook: Volume II](https://open.spotify.com/album/6YTypI5yRIIdixEV25ccgQ) | 2:59 |
+| 69 | [Time After Time](https://open.spotify.com/track/1ia5QkdJp7qGwpoaX9Hgmj) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [As Time Goes By...The Great American Songbook: Volume II](https://open.spotify.com/album/6YTypI5yRIIdixEV25ccgQ) | 2:59 |
+| 70 | [Squeeze Me](https://open.spotify.com/track/5kyfBYQcu5Swr0i80s8zLJ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Only Trust Your Heart](https://open.spotify.com/album/3ZocvPcE7EGyv9EEP95YeC) | 5:37 |
 | 71 | [Love Is Here To Stay](https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [Hooray For Love](https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c) | 4:19 |
 | 72 | [My Kind Of Girl](https://open.spotify.com/track/1nyda3RgBap7i8OYxPAi7K) | [Buddy Greco](https://open.spotify.com/artist/0tncOz6MVpy67IphfE6VHZ) | [16 Most Requested Songs](https://open.spotify.com/album/0RwTLz72XNNeZi7tEjOobb) | 2:40 |
 | 73 | [My Funny Valentine](https://open.spotify.com/track/0uqoRVmmU2WM9iDgQBf23R) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Rodgers And Hart Song Book](https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9) | 3:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 99 | [Don't Sit Under The Apple Tree \(With Anyone Else But Me\)](https://open.spotify.com/track/2yH6SQ70OdjDKrtxcunVZp) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [The Essential Glenn Miller](https://open.spotify.com/album/6dVUKIxSRafCpEGZ5prYlG) | 3:10 |
 | 100 | [I Let a Song Go out of My Heart](https://open.spotify.com/track/1DgQyMa4f1myDWa21BwgVq) | [Alice Babs](https://open.spotify.com/artist/3omPckNeXtMpCdOXVfcOST) | [Swingtime Again](https://open.spotify.com/album/26aZe5wY5BaADUQ2ndQeQK) | 2:45 |
 
-Snapshot ID: `MTY4MTgyNDU1OSwwMDAwMDAwMGMwZWMwZWUwOTY4MWJhNWQ2YmE4ZDM0MDkxMjE2YTBi`
+Snapshot ID: `MTY4MjQ5MzQ1MCwwMDAwMDAwMGU4MWJiOTM4YzFiYzMyODk1MWIzNDkyMmE5YmM1ZjEy`

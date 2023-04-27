@@ -4,7 +4,7 @@
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Diamante Eléctrico
 
-204 songs - 12 hr 40 min
+205 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Gemas](https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Manglares \(B\-Sides\) \- EP](https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE) | 3:38 | 2022-06-24 |  |
 | [Gemas](https://open.spotify.com/track/67mgOypSh1Xf9VxbLmSfvH) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Manglares \(B\-Sides\) \- EP](https://open.spotify.com/album/4BxZEP4iqM3Bm4iOm6q1O1) | 3:38 | 2022-03-11 | 2022-07-28 |
 | [Guadalupe \(En Vivo\) \[Desde el Teatro Colón\]](https://open.spotify.com/track/5gTdC8wTm0P9JwjCoOY04o) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [The Mills 10 Años \(En Vivo\) \[Desde el Teatro Colón\]](https://open.spotify.com/album/2lVJ4bLhN3L3ytRkbr4dzm) | 5:06 | 2022-03-11 | 2022-09-27 |
+| [Hacia la Noche](https://open.spotify.com/track/2vd58HO8mKz1yBkh2mJjlo) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Buitres](https://open.spotify.com/album/1DQ3KAs2WuIVMVKwrEeseh) | 3:55 | 2023-04-14 |  |
 | [Hacia la Noche](https://open.spotify.com/track/4WcRew9JOPLtM6TfOKABKg) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Buitres](https://open.spotify.com/album/1b7wcyINye4qF7MMNcYP7Y) | 3:55 | 2022-03-11 | 2022-07-29 |
 | [Hacia la Noche](https://open.spotify.com/track/5hYUEq039TJgnaft2WljmT) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Buitres](https://open.spotify.com/album/0to2ICjzDMqXzRnuqdpyWL) | 3:55 | 2022-06-24 | 2023-03-11 |
 | [Himno a los Solitarios](https://open.spotify.com/track/7D4KfqQBGYPRbunFMdxHgZ) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Mira Lo Que Me Hiciste Hacer \(Deluxe Edition\)](https://open.spotify.com/album/5W9BId7OXCwbjLcOAbRo5T) | 3:52 | 2022-03-11 | 2023-04-21 |
@@ -102,7 +103,7 @@
 | [LA KAGASTE](https://open.spotify.com/track/397xwirGVub2jfXfHlJnha) | [KRISTAL](https://open.spotify.com/artist/7AZMHZVrYudHtNLQbXdJ7e), [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [LA KAGASTE](https://open.spotify.com/album/7wX1dVzO0AmQfJ3mrezFhU) | 2:37 | 2022-10-01 | 2022-10-14 |
 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 | 2022-03-11 |  |
 | [Las Calles del Mundo](https://open.spotify.com/track/5n51OYaZgE3QS8PPO0p1zH) | [Burning Caravan](https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat) | [Ciudad Faro](https://open.spotify.com/album/58sctZs8nWBBUJ8qY956Vk) | 3:35 | 2022-03-11 | 2022-07-29 |
-| [Lejos De Aqui](https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Grandes Exitos](https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW) | 2:59 | 2022-03-11 |  |
+| [Lejos De Aqui](https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Grandes Exitos](https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW) | 2:59 | 2022-03-11 | 2023-04-27 |
 | [Lenguaje de Mi Piel](https://open.spotify.com/track/2OzYLQAGN7VY1e3HEkvlzU) | [Kraken](https://open.spotify.com/artist/02OR1V0L1ODy7dDlBLTOvx) | [Piel de Cobre](https://open.spotify.com/album/4zYOTjZnyKCWLfqi91QbTx) | 4:38 | 2022-03-11 | 2022-07-29 |
 | [Lobo Hombre en Paris](https://open.spotify.com/track/6wHbkqzDJqUsuXAzQgWH87) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Babel \(Special Edition\)](https://open.spotify.com/album/1qDJZqRsBuvynficMP9CqK) | 3:47 | 2022-06-24 |  |
 | [Lobo Hombre en París](https://open.spotify.com/track/5b7PX1tG1RQ9msIRtXHalE) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Babel \(Special Edition\)](https://open.spotify.com/album/54FlK7Mg1gDyCpE11R0hEs) | 3:49 | 2022-03-11 | 2022-07-29 |

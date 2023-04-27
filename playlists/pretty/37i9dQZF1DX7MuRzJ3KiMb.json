@@ -1,12 +1,12 @@
 {
   "description": "el amor es <3",
-  "num_followers": 47577,
+  "num_followers": 47638,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI3NzczOCwwMDAwMDAwMDdkMzMxYWUxYjMwYmQyYjZiNjIyYWQyOTk4MWMwYWNi",
+  "snapshot_id": "MTY4MDI3NzczOCwwMDAwMDAwMGJhZjE2NmI4ZDBlNDgxNTljODY4OTMzNTEwMWIxZWRj",
   "tracks": [
     {
       "added_at": "2023-03-31 15:48:58",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-03-31 15:48:58",
       "album": {
-        "name": "Miel",
-        "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
-      },
-      "artists": [
-        {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
-        }
-      ],
-      "duration_ms": 124589,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
-    },
-    {
-      "added_at": "2023-03-31 15:48:58",
-      "album": {
         "name": "FLORES",
         "url": "https://open.spotify.com/album/4ZXoB7bH7El9Ad2kZHmRvw"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 160000,
       "name": "FLORES",
       "url": "https://open.spotify.com/track/7oEkDWQeUlsu3UBfltE1WI"
+    },
+    {
+      "added_at": "2023-03-31 15:48:58",
+      "album": {
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
+      },
+      "artists": [
+        {
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+        }
+      ],
+      "duration_ms": 124589,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
     },
     {
       "added_at": "2023-03-31 15:48:58",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-03-31 15:48:58",
       "album": {
-        "name": "Sensaciones",
-        "url": "https://open.spotify.com/album/7Hr8FOf7NQIe7UhLcllXq9"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        }
-      ],
-      "duration_ms": 68733,
-      "name": "86.400",
-      "url": "https://open.spotify.com/track/3AncVybdw2UmiT8ulIGScN"
-    },
-    {
-      "added_at": "2023-03-31 15:48:58",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/0QbLKuhvOtbjeuHy1Pt68U"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 237466,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/3uqDUUqiVrtbKakobkPXmv"
+    },
+    {
+      "added_at": "2023-03-31 15:48:58",
+      "album": {
+        "name": "Sensaciones",
+        "url": "https://open.spotify.com/album/7Hr8FOf7NQIe7UhLcllXq9"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        }
+      ],
+      "duration_ms": 68733,
+      "name": "86.400",
+      "url": "https://open.spotify.com/track/3AncVybdw2UmiT8ulIGScN"
     },
     {
       "added_at": "2023-03-31 15:48:58",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-03-31 15:48:58",
       "album": {
+        "name": "Los D\u00edas en la Sala",
+        "url": "https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 163411,
+      "name": "Siempre Te Voy a Querer",
+      "url": "https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV"
+    },
+    {
+      "added_at": "2023-03-31 15:48:58",
+      "album": {
         "name": "Torpe",
         "url": "https://open.spotify.com/album/0V3VrTi9ioSHgy4kM9aRf4"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 252534,
       "name": "Torpe",
       "url": "https://open.spotify.com/track/7K1fAw9P8R73Sc6CpgIgJH"
-    },
-    {
-      "added_at": "2023-03-31 15:48:58",
-      "album": {
-        "name": "Los D\u00edas en la Sala",
-        "url": "https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 163411,
-      "name": "Siempre Te Voy a Querer",
-      "url": "https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV"
     },
     {
       "added_at": "2023-03-31 15:48:58",
@@ -1003,18 +1003,22 @@
     {
       "added_at": "2023-03-31 15:48:58",
       "album": {
-        "name": "Lugares Imaginarios",
-        "url": "https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA"
+        "name": "Nadie Nos Entiende",
+        "url": "https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Willy Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
         }
       ],
-      "duration_ms": 191141,
-      "name": "Amen\u00e1bar",
-      "url": "https://open.spotify.com/track/0xAwIlQCT43PGCe0BLnzr5"
+      "duration_ms": 217373,
+      "name": "Nadie Nos Entiende",
+      "url": "https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA"
     },
     {
       "added_at": "2023-03-31 15:48:58",
@@ -1035,22 +1039,18 @@
     {
       "added_at": "2023-03-31 15:48:58",
       "album": {
-        "name": "Nadie Nos Entiende",
-        "url": "https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2"
+        "name": "Lugares Imaginarios",
+        "url": "https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA"
       },
       "artists": [
         {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Willy Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
         }
       ],
-      "duration_ms": 217373,
-      "name": "Nadie Nos Entiende",
-      "url": "https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA"
+      "duration_ms": 191141,
+      "name": "Amen\u00e1bar",
+      "url": "https://open.spotify.com/track/0xAwIlQCT43PGCe0BLnzr5"
     },
     {
       "added_at": "2023-03-31 15:48:58",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-03-31 15:48:58",
       "album": {
-        "name": "Algo Bien",
-        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
-      },
-      "artists": [
-        {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
-        }
-      ],
-      "duration_ms": 209596,
-      "name": "nu love",
-      "url": "https://open.spotify.com/track/0wNcVSZaQVTqSnx8i9FiZy"
-    },
-    {
-      "added_at": "2023-03-31 15:48:58",
-      "album": {
         "name": "Querernos Bien",
         "url": "https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 183043,
       "name": "Querernos Bien",
       "url": "https://open.spotify.com/track/69kefiOj7Lk6RZa0BxriD2"
+    },
+    {
+      "added_at": "2023-03-31 15:48:58",
+      "album": {
+        "name": "Algo Bien",
+        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "duration_ms": 209596,
+      "name": "nu love",
+      "url": "https://open.spotify.com/track/0wNcVSZaQVTqSnx8i9FiZy"
     },
     {
       "added_at": "2023-03-31 15:48:58",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-03-31 15:48:58",
       "album": {
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE"
+      },
+      "artists": [
+        {
+          "name": "Felipe Botello y El Sonoro Rugir",
+          "url": "https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr"
+        }
+      ],
+      "duration_ms": 209866,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm"
+    },
+    {
+      "added_at": "2023-03-31 15:48:58",
+      "album": {
         "name": "A Mi Ritmo",
         "url": "https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 186883,
       "name": "A Mi Ritmo",
       "url": "https://open.spotify.com/track/51h83YT521kYxTLng0FyRv"
-    },
-    {
-      "added_at": "2023-03-31 15:48:58",
-      "album": {
-        "name": "Se\u00f1orita",
-        "url": "https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE"
-      },
-      "artists": [
-        {
-          "name": "Felipe Botello y El Sonoro Rugir",
-          "url": "https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr"
-        }
-      ],
-      "duration_ms": 209866,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm"
     },
     {
       "added_at": "2023-03-31 15:48:58",

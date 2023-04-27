@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Bryan Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,035 likes - 187 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,146 likes - 187 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 75 | [Couple Spring Breaks Back](https://open.spotify.com/track/6lxNcKi7TMSrywkFGOQM9i) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Couple Spring Breaks Back](https://open.spotify.com/album/4JH9Dzsn3qh8c0JATcdqPh) | 3:11 |
 | 76 | [I Know Jack](https://open.spotify.com/track/6utrMb4B5Yr9STfJ6qb258) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [I Know Jack](https://open.spotify.com/album/12wjk9MvAfB650TMFwNQkr) | 3:52 |
 | 77 | [Bury Me Upside Down](https://open.spotify.com/track/054er1MIyPW8UeRAHmyuzw) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [So Help Me God \(Deluxe Edition\)](https://open.spotify.com/album/3ZVovVzSgailhegK8YmPcS) | 2:49 |
-| 78 | [Hard To Get Over \(feat\. Shaylen\)](https://open.spotify.com/track/5q1yKTiLsRXCUz34SLkluj) | [The 615 House](https://open.spotify.com/artist/2CjBXcTF8Jd9WHHA2rOg0q), [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7), [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ) | [Hard To Get Over \(feat\. Shaylen\)](https://open.spotify.com/album/15RZDWPaXmjfewmTTGQTql) | 3:28 |
+| 78 | [Hard To Get Over \(feat\. Chris Ruediger, Shaylen\)](https://open.spotify.com/track/5q1yKTiLsRXCUz34SLkluj) | [The 615 House](https://open.spotify.com/artist/2CjBXcTF8Jd9WHHA2rOg0q), [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7), [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ) | [Hard To Get Over \(feat\. Chris Ruediger, Shaylen\)](https://open.spotify.com/album/15RZDWPaXmjfewmTTGQTql) | 3:28 |
 | 79 | [IF YOU'RE GONNA LEAVE](https://open.spotify.com/track/3302p1EGYArdg0JmcZ3E4e) | [Angel White](https://open.spotify.com/artist/3mZYlwYjFmhMOxUIcbncHF) | [IF YOU'RE GONNA LEAVE](https://open.spotify.com/album/7gmk3BGyrpYhNuEHiakECj) | 3:33 |
 | 80 | [After The Rain \(feat\. Tenille Arts\)](https://open.spotify.com/track/1BE14COOIAi5ZWUmDv0Cv6) | [Ray Fulcher](https://open.spotify.com/artist/7abk76xILIuWQIcPooclLp), [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [After The Rain \(feat\. Tenille Arts\)](https://open.spotify.com/album/1HhVL2289IZNqKseUGaybE) | 3:44 |
 | 81 | [American Dirt](https://open.spotify.com/track/2a2lmhi4vcRDVMWlbenbef) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [American Dirt](https://open.spotify.com/album/5ki9d661De9vyhXQ8UCwi7) | 3:02 |

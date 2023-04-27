@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE?si=qLEHAAUzSmGMCF2TXtKmMA"> YKB </a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,508 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,514 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 11 | [Let me go](https://open.spotify.com/track/6w52GAsdrejKZPZPo4Iu47) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Let me go](https://open.spotify.com/album/1GLbCf7kN8GExrykwIXyYS) | 3:20 |
 | 12 | [My Darling](https://open.spotify.com/track/0dB0kygJpApTy1aTYiYxlk) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [My Darling](https://open.spotify.com/album/50lQePDD6ekrIKyqhsG8oD) | 3:06 |
 | 13 | [Hillary](https://open.spotify.com/track/6I1oMY6NrE8Iqx7bx0gIw2) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm) | [Hillary](https://open.spotify.com/album/3KUbmSvjvHH5Qxf1A9lS09) | 2:51 |
-| 14 | [Bezos](https://open.spotify.com/track/3CL2wSAoigecJkzBLJJyjs) | [Dboi](https://open.spotify.com/artist/0Hm8XNele8yJjZXq2A0nh8) | [Bezos](https://open.spotify.com/album/0HWeesVXBwp4q78Ow2RFpx) | 2:48 |
+| 14 | [Bezos](https://open.spotify.com/track/1NAXHOcE8EWudM0WO4D77I) | [Dboi](https://open.spotify.com/artist/0Hm8XNele8yJjZXq2A0nh8) | [Bezos](https://open.spotify.com/album/6QyMp5NklVWVcQRIwKKq49) | 2:48 |
 | 15 | [keep the peace](https://open.spotify.com/track/20OLYZcXgWxdS1YgJ8NmLr) | [Sandrahhh](https://open.spotify.com/artist/6afcFgPYOGzPw1XLH6Heji) | [keep the peace](https://open.spotify.com/album/53hNXBU157GHjS6r0p3qhD) | 2:07 |
 | 16 | [GOLDEN CHILD](https://open.spotify.com/track/2UsfuVRyt3xBdNtsiqHSWd) | [T!MBO](https://open.spotify.com/artist/3rihlOoaDJqlFT89tWOHmP) | [LOST FILES.](https://open.spotify.com/album/4RAKqIxGGZtpQPkKrfBZc3) | 2:00 |
 | 17 | [Me Vs Me](https://open.spotify.com/track/5sX4KgNav0eeXlRBO4Ev0O) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ) | [Me Vs Me](https://open.spotify.com/album/1Iy9xVNKUpG1snLX2oYMfj) | 2:07 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 69 | [Clown](https://open.spotify.com/track/79N6pmBHIEdLy59Ob6pfzm) | [DJ Dips](https://open.spotify.com/artist/2ciXIMOXnpoVsQZenxBjj7), [Dai Verse](https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv) | [Clown](https://open.spotify.com/album/1kzmL4edZ2X6TZnAiHUAcc) | 2:49 |
 | 70 | [Let You Go](https://open.spotify.com/track/2n5Vbsque4aH0d52GOAmsP) | [RAFFEAL](https://open.spotify.com/artist/2gZKJ3bLxzw0rjNKkBj4l9) | [Let You Go](https://open.spotify.com/album/6UQWTJaUZMzb4QZqPJkRGF) | 3:12 |
 
-Snapshot ID: `MTY4MDA3ODcxMCwwMDAwMDAwMDAzZGExNWFkYzQ4ZmMyYjMzN2QxMzZiODc3NGI3MWMx`
+Snapshot ID: `MTY4MDA3ODcxMCwwMDAwMDAwMDQ5Yjk4ODJhYmU0MjM4YzFjYTJkNDI5ZTdiN2NjOTVk`

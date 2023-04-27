@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 8,611 likes - 38 songs - 2 hr 27 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 8,617 likes - 38 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 16 | [Dead Machine \(feat\. Stealing Sheep\)](https://open.spotify.com/track/7G4T9cPNEFl6TaSS2bm3lC) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab), [Stealing Sheep](https://open.spotify.com/artist/3ghT43Gj41br25PvBCDS22) | [Off Planet Part 3](https://open.spotify.com/album/7xaeFOPrlXIfWJ3oPXnteH) | 2:37 |
 | 17 | [Best Mindfuck Yet](https://open.spotify.com/track/21wpyvZjXVLnB7SD14Fihc) | [Das Koolies](https://open.spotify.com/artist/5XNA9WK8AbbulZqLvWjKFf) | [Best Mindfuck Yet](https://open.spotify.com/album/4WXktUruXyzzNNcNfAe2b0) | 5:14 |
 | 18 | [Council Skies](https://open.spotify.com/track/1KDR3iKY185DjEREnzYhgU) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/0LEsy6Ncwa96urueYAB8ud) | 4:42 |
-| 19 | [Disco's Main Squeeze](https://open.spotify.com/track/4lklEuhgy6zMtVKGTZiaNU) | [Cornershop](https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF), [Tjinder Singh](https://open.spotify.com/artist/6YS7aPLerCrisn05GW1ASU) | [Disco's Main Squeeze \(E.P.\)](https://open.spotify.com/album/54QrVn34JWKFx8A3eXj07J) | 3:35 |
+| 19 | [Disco's Main Squeeze](https://open.spotify.com/track/4lklEuhgy6zMtVKGTZiaNU) | [Cornershop](https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF), [Pinky\-Ann\-Rihal](https://open.spotify.com/artist/07SkLvQ6OrNQD4xIlGz0sZ), [Tjinder Singh](https://open.spotify.com/artist/6YS7aPLerCrisn05GW1ASU) | [Disco's Main Squeeze \(E.P.\)](https://open.spotify.com/album/54QrVn34JWKFx8A3eXj07J) | 3:35 |
 | 20 | [stuck](https://open.spotify.com/track/4PDW4iOj0hpRDeuF7sZJC2) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [playing w/ fire](https://open.spotify.com/album/1i6QtZmXNIsUQ3MqKJDv8U) | 1:36 |
 | 21 | [Borderline](https://open.spotify.com/track/16Yyq9Hi2v4ZNL8NGNCSUG) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 2:02 |
 | 22 | [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 |

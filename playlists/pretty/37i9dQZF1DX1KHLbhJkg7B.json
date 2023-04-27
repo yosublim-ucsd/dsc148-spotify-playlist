@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Michael Ray",
-  "num_followers": 87262,
+  "num_followers": 87323,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDFkOTNlY2QzYTkwODljNWE0ZjM2NWRiZTE4MDljN2Ni",
+  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDExODU0MGQ5YzY0ZWVkNGFkNWQ3YzJiYzZlMGRmMjll",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -611,18 +611,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/5suOEzLE9dyan78iILj4aK"
+        "name": "34 Number Ones",
+        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
       },
       "artists": [
         {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 198786,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4zWjHKeCkNcNUrSBPNIGkc"
+      "duration_ms": 171813,
+      "name": "It Must Be Love",
+      "url": "https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -643,18 +643,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "34 Number Ones",
-        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/5suOEzLE9dyan78iILj4aK"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
         }
       ],
-      "duration_ms": 171813,
-      "name": "It Must Be Love",
-      "url": "https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT"
+      "duration_ms": 198786,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4zWjHKeCkNcNUrSBPNIGkc"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "No Holdin' Back",
-        "url": "https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 235920,
-      "name": "It's Just a Matter of Time",
-      "url": "https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Eastside",
         "url": "https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 167142,
       "name": "Eastside",
       "url": "https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "No Holdin' Back",
+        "url": "https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 235920,
+      "name": "It's Just a Matter of Time",
+      "url": "https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "He Got the Best of Me",
-        "url": "https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 158461,
-      "name": "He Got the Best of Me",
-      "url": "https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Cowboy Take Me Away",
         "url": "https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 269306,
       "name": "Cowboy Take Me Away",
       "url": "https://open.spotify.com/track/5HC6lFC1d2fybqJxUJCDeX"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "He Got the Best of Me",
+        "url": "https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 158461,
+      "name": "He Got the Best of Me",
+      "url": "https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Outskirts of Heaven",
-        "url": "https://open.spotify.com/album/6koiaXW97fMtsGIFX11CZm"
+        "name": "Carnival Ride",
+        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
       },
       "artists": [
         {
-          "name": "Matt Schuster",
-          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 243545,
-      "name": "Outskirts of Heaven",
-      "url": "https://open.spotify.com/track/7H3EzoWKPRcagDVhJU4WxI"
+      "duration_ms": 257893,
+      "name": "I Told You So",
+      "url": "https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Carnival Ride",
-        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
+        "name": "Outskirts of Heaven",
+        "url": "https://open.spotify.com/album/6koiaXW97fMtsGIFX11CZm"
       },
       "artists": [
         {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+          "name": "Matt Schuster",
+          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
         }
       ],
-      "duration_ms": 257893,
-      "name": "I Told You So",
-      "url": "https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL"
+      "duration_ms": 243545,
+      "name": "Outskirts of Heaven",
+      "url": "https://open.spotify.com/track/7H3EzoWKPRcagDVhJU4WxI"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "15 Years, the Wild Ride",
-        "url": "https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 272786,
-      "name": "3 Am",
-      "url": "https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/6hFwcjXV8jE2lzOn32uAlK"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 194459,
       "name": "Circles",
       "url": "https://open.spotify.com/track/5woKIzrEkkeOvfaNFagz4c"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "15 Years, the Wild Ride",
+        "url": "https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 272786,
+      "name": "3 Am",
+      "url": "https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 248866,
-      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Palace (Cover) / Diane",
         "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 229496,
       "name": "Palace - Cover",
       "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 248866,
+      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
     },
     {
       "added_at": "2023-04-21 04:00:00",

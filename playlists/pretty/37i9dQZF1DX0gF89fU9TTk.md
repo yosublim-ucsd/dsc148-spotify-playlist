@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,722 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,787 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,23 +65,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 55 | [Right Where You Want Me](https://open.spotify.com/track/2gKLC4heAhc1awumKkTqfA) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 3:26 |
 | 56 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/1Qr7fNKEpGXK3DPXYawbzm) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [I Could Sing Of Your Love Forever](https://open.spotify.com/album/16fMATKYNi10ChZuJj0dMd) | 3:32 |
 | 57 | [I Feel Good About It](https://open.spotify.com/track/3lsuL58UoCsdoHdYSJ8Fce) | [Foothills Collective](https://open.spotify.com/artist/1cMjSXEAuU5YA34WpMjlHc), [Megan Brown](https://open.spotify.com/artist/6HSBnvtPkxHCPcHFmsmnCb) | [I Feel Good About It](https://open.spotify.com/album/1uhXkUZR3YSlPxhVrmH2C4) | 3:43 |
-| 58 | [It's Coming](https://open.spotify.com/track/08l9XA11fZJMCkU7urkO5n) | [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9) | [It's Coming](https://open.spotify.com/album/2ajlFA4Z0LJYZXBuJPTr5j) | 2:34 |
-| 59 | [Falling Up](https://open.spotify.com/track/1sL6ZOwabMjS7h4dQVvkeC) | [Laity](https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41) | [LET YOURSELF BE LOVED](https://open.spotify.com/album/1Ru5mrSp6RQUPpQFf0doee) | 3:19 |
+| 58 | [Falling Up](https://open.spotify.com/track/1sL6ZOwabMjS7h4dQVvkeC) | [Laity](https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41) | [LET YOURSELF BE LOVED](https://open.spotify.com/album/1Ru5mrSp6RQUPpQFf0doee) | 3:19 |
+| 59 | [It's Coming](https://open.spotify.com/track/08l9XA11fZJMCkU7urkO5n) | [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9) | [It's Coming](https://open.spotify.com/album/2ajlFA4Z0LJYZXBuJPTr5j) | 2:34 |
 | 60 | [Freedom Wild](https://open.spotify.com/track/2lMc6v2a8QuNumaKsma5qK) | [Motion Worship](https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m) | [Motion Worship](https://open.spotify.com/album/24TfvY0tdP4kcQ5bO7IS9R) | 3:46 |
 | 61 | [Never Far \(House Church\)](https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Never Far \(House Church\)](https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72) | 3:51 |
-| 62 | [Hands High](https://open.spotify.com/track/6Hv6JPMfjyHa73pmuiRR05) | [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [Hands High](https://open.spotify.com/album/2PQlsFpLR3e8BeT2aSD5Vm) | 3:43 |
-| 63 | [As I Am \(with Peter CottonTale & Melodie Wagner\)](https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Melodie Wagner](https://open.spotify.com/artist/2tTjVo7XSr5urjzuLBftmd) | [As I Am \(with Peter CottonTale & Melodie Wagner\)](https://open.spotify.com/album/56h2pki7aSbNXVXPSxhqSk) | 3:25 |
-| 64 | [Kerosene](https://open.spotify.com/track/4vXkAOGeEVv79YDaoweAL2) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Kerosene](https://open.spotify.com/album/3cLdlbfSvbXDPNIUvqRAAq) | 3:04 |
-| 65 | [Earth](https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe) | [Gateway Youth](https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM) | [Elements](https://open.spotify.com/album/7hAnYgk3KdYmMvWzhS648H) | 3:20 |
-| 66 | [More Than Good Enough](https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Control](https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa) | 3:38 |
+| 62 | [Kerosene](https://open.spotify.com/track/4vXkAOGeEVv79YDaoweAL2) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Kerosene](https://open.spotify.com/album/3cLdlbfSvbXDPNIUvqRAAq) | 3:04 |
+| 63 | [Hands High](https://open.spotify.com/track/6Hv6JPMfjyHa73pmuiRR05) | [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [Hands High](https://open.spotify.com/album/2PQlsFpLR3e8BeT2aSD5Vm) | 3:43 |
+| 64 | [As I Am \(with Peter CottonTale & Melodie Wagner\)](https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Melodie Wagner](https://open.spotify.com/artist/2tTjVo7XSr5urjzuLBftmd) | [As I Am \(with Peter CottonTale & Melodie Wagner\)](https://open.spotify.com/album/56h2pki7aSbNXVXPSxhqSk) | 3:25 |
+| 65 | [More Than Good Enough](https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Control](https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa) | 3:38 |
+| 66 | [Earth](https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe) | [Gateway Youth](https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM) | [Elements](https://open.spotify.com/album/7hAnYgk3KdYmMvWzhS648H) | 3:20 |
 | 67 | [Higher Than Mine \(Remix\)](https://open.spotify.com/track/7nOD4RtNzWbUlYchguMhr7) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK) | [Clouds Are Clearing: Mixtape 1A](https://open.spotify.com/album/3saIlADNT5151AhQnPxEIQ) | 2:39 |
 | 68 | [Ordinary](https://open.spotify.com/track/2I0r5mF2mwWD26iDO9Ccb7) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Listen More](https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS) | 3:02 |
-| 69 | [Candid Heart](https://open.spotify.com/track/138ucy6B7MaoCFhL1wF6TD) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Candid Heart](https://open.spotify.com/album/57ogRd3akSf4eEcW7LJOyT) | 2:55 |
-| 70 | [To Get To Me](https://open.spotify.com/track/5NacjulPX2F5e4hh6DESzW) | [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [Through People Like Me](https://open.spotify.com/album/2PGA9JQPteU2VQFGiqmADr) | 3:14 |
-| 71 | [Hunger](https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Hunger](https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow) | 3:50 |
+| 69 | [Hunger](https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Hunger](https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow) | 3:50 |
+| 70 | [Candid Heart](https://open.spotify.com/track/138ucy6B7MaoCFhL1wF6TD) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Candid Heart](https://open.spotify.com/album/57ogRd3akSf4eEcW7LJOyT) | 2:55 |
+| 71 | [To Get To Me](https://open.spotify.com/track/5NacjulPX2F5e4hh6DESzW) | [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [Through People Like Me](https://open.spotify.com/album/2PGA9JQPteU2VQFGiqmADr) | 3:14 |
 | 72 | [You Tell Me](https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T) | [One Common](https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9) | [You Tell Me](https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q) | 3:00 |
 | 73 | [Heaven On Earth \- Radio Single](https://open.spotify.com/track/54xPBJBmLLI8JvsfPYJ670) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Heaven On Earth](https://open.spotify.com/album/5oNay5SgVIVqAnioxLq3lL) | 3:45 |
-| 74 | [White Noise](https://open.spotify.com/track/1yWVYN2rwLvOF7nusPsGh2) | [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM), [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc) | [White Noise](https://open.spotify.com/album/5jcakBxFg8kZZh4iJynlsP) | 3:47 |
-| 75 | [Jesus Is The Key](https://open.spotify.com/track/0C9weba0sQZBSmelFqNNEU) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [Jesus Is The Key](https://open.spotify.com/album/3fjiYBi9NFCT78QeCclv1L) | 6:29 |
+| 74 | [Jesus Is The Key](https://open.spotify.com/track/0C9weba0sQZBSmelFqNNEU) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [Jesus Is The Key](https://open.spotify.com/album/3fjiYBi9NFCT78QeCclv1L) | 6:29 |
+| 75 | [White Noise](https://open.spotify.com/track/1yWVYN2rwLvOF7nusPsGh2) | [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM), [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc) | [White Noise](https://open.spotify.com/album/5jcakBxFg8kZZh4iJynlsP) | 3:47 |
 
-Snapshot ID: `MTY3NjY5NDkyNCwwMDAwMDAwMGI2OGVjMjY3MjBiZTYyM2ZiY2ZkOTMxNWJlNmY4Zjlh`
+Snapshot ID: `MTY3NjY5NDkyNCwwMDAwMDAwMDQwNDBjMmQ4OWU1ZjQyYjc3OGM5YTA4ZWYxOTZhZDEx`

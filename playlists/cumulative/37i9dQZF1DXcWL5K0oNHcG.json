@@ -3471,6 +3471,24 @@
     },
     {
       "album": {
+        "name": "Cavelight",
+        "url": "https://open.spotify.com/album/0iOU4E3IdhyDe7Tm6WtWXl"
+      },
+      "artists": [
+        {
+          "name": "Pete Calandra and Straight Up",
+          "url": "https://open.spotify.com/artist/5ZxriynwDpSZcN1M7zFpam"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317408,
+      "name": "Cavelight",
+      "url": "https://open.spotify.com/track/2myFC8H8H4DlMSXVxoVo7t"
+    },
+    {
+      "album": {
         "name": "CEREAL",
         "url": "https://open.spotify.com/album/1ondRODnk2jQiPu8KsY5pz"
       },
@@ -4155,6 +4173,24 @@
     },
     {
       "album": {
+        "name": "Corridue",
+        "url": "https://open.spotify.com/album/3C6tGMTruV3e6wABuGS2pt"
+      },
+      "artists": [
+        {
+          "name": "Stan van Dijk",
+          "url": "https://open.spotify.com/artist/25GV3gaaXXUYzESF1TiNFS"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160151,
+      "name": "Corridue",
+      "url": "https://open.spotify.com/track/1qgaNwx2A6vihmUY97ELup"
+    },
+    {
+      "album": {
         "name": "Could It Be You",
         "url": "https://open.spotify.com/album/7FhxBBsH6bRRCg9BbHfhUs"
       },
@@ -4677,6 +4713,24 @@
     },
     {
       "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/2YvrfduOcYTeZKTTT1bHhY"
+      },
+      "artists": [
+        {
+          "name": "Alexander Flood",
+          "url": "https://open.spotify.com/artist/07xBnzShNUrWwaVf9S7DUz"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370813,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/1A1w6Y198iavOeemQlGOPy"
+    },
+    {
+      "album": {
         "name": "Pink Dolphins",
         "url": "https://open.spotify.com/album/58rs9tGJvKpCRnuBewxs8w"
       },
@@ -4936,6 +4990,24 @@
       "duration_ms": 237653,
       "name": "Distant Episode",
       "url": "https://open.spotify.com/track/3rdDigElBsm9QnyrlfS3KK"
+    },
+    {
+      "album": {
+        "name": "A Place to Be",
+        "url": "https://open.spotify.com/album/4XgtUwd8rlGlG0SljOdsX9"
+      },
+      "artists": [
+        {
+          "name": "Madhi",
+          "url": "https://open.spotify.com/artist/0rlSST73sjgmQfdXxB0vW0"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184190,
+      "name": "Distracted",
+      "url": "https://open.spotify.com/track/3DxZNgpKQvUFQ29s9soRUz"
     },
     {
       "album": {
@@ -5936,7 +6008,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 242264,
       "name": "Extraordinary Pleasure",
       "url": "https://open.spotify.com/track/3PmfBRmD3jzsIe9GojyWNS"
@@ -7210,7 +7282,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 175573,
       "name": "Ghosts of Repetition",
       "url": "https://open.spotify.com/track/6czNgECFe5LNCFXOEuAqRf"
@@ -7370,7 +7442,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 405120,
       "name": "Good Thing Will Happen",
       "url": "https://open.spotify.com/track/0s7Z1aZPuSyOno3IVZdLta"
@@ -7762,7 +7834,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 226714,
       "name": "Hit And Run",
       "url": "https://open.spotify.com/track/0zjkxqwPiO5BbW9KCgHfrB"
@@ -11105,6 +11177,24 @@
     },
     {
       "album": {
+        "name": "Lucmagn",
+        "url": "https://open.spotify.com/album/797Xlx42lF1SGei81aOXKf"
+      },
+      "artists": [
+        {
+          "name": "Michael Benedikt",
+          "url": "https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151874,
+      "name": "Lucmagn",
+      "url": "https://open.spotify.com/track/2UqOt5qiGiWmfmuM40D2oQ"
+    },
+    {
+      "album": {
         "name": "Lulu's Dream",
         "url": "https://open.spotify.com/album/2Xwguu0PyNvmOhMLXRLTTP"
       },
@@ -14174,7 +14264,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 420600,
       "name": "Phlox",
       "url": "https://open.spotify.com/track/1KZn0ObYJyeBpMWFW8JHds"
@@ -14738,7 +14828,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 229800,
       "name": "P\u00f5ksumine",
       "url": "https://open.spotify.com/track/3Xd8Sqeo8arS6ZqWUbIWvj"
@@ -16328,6 +16418,28 @@
       "duration_ms": 258000,
       "name": "Silhouettes",
       "url": "https://open.spotify.com/track/6WsJQKZ8ac2offKUVR33ji"
+    },
+    {
+      "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/05o6US7XdwkkfJwJoZofcJ"
+      },
+      "artists": [
+        {
+          "name": "Peela",
+          "url": "https://open.spotify.com/artist/5vgx2GUNPPiJ7tyE9xtVZA"
+        },
+        {
+          "name": "Rafa Postel",
+          "url": "https://open.spotify.com/artist/6CthIuM1u1D6GRTdP3Aqsm"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378839,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/57bfuyhyiUI3clhgozihNJ"
     },
     {
       "album": {
@@ -18570,6 +18682,24 @@
       "duration_ms": 327200,
       "name": "The Eye Of The Hurricane",
       "url": "https://open.spotify.com/track/56HFGSzznsYOHlgD0ms1B4"
+    },
+    {
+      "album": {
+        "name": "The Fact of Rain",
+        "url": "https://open.spotify.com/album/1d6IBvyJDHnGLJFQP7VFjg"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rausch",
+          "url": "https://open.spotify.com/artist/7Ac3BjcxFq01tJlrdx0Neh"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249611,
+      "name": "The Fact of Rain",
+      "url": "https://open.spotify.com/track/70kMaKVSf7H4hBbPoZBj5a"
     },
     {
       "album": {
@@ -20974,7 +21104,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 395533,
       "name": "Wedding Planning",
       "url": "https://open.spotify.com/track/6YqwQCqum13zlaLPPxKWpa"

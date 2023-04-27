@@ -1,12 +1,12 @@
 {
   "description": "Dance the night away with your favorite tropical tunes, featuring Marshmello & Manuel Turizo.",
-  "num_followers": 67260,
+  "num_followers": 67322,
   "original_name": "SABOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgyMDQxMCwwMDAwMDAwMDEwNGNkY2IwMDg0YjFjZjFhM2MxMzkyMjJjMGVlZWZh",
+  "snapshot_id": "MTY4MDgyMDQxMCwwMDAwMDAwMDgxYTY4NWFmN2Q2NTM4ZTE2ZGY1ODY4NmJhNDllMGZl",
   "tracks": [
     {
       "added_at": "2023-04-06 22:33:30",
@@ -107,46 +107,6 @@
     {
       "added_at": "2023-04-06 22:33:30",
       "album": {
-        "name": "Una Vaina Loca",
-        "url": "https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM"
-      },
-      "artists": [
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 226187,
-      "name": "Una Vaina Loca",
-      "url": "https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH"
-    },
-    {
-      "added_at": "2023-04-06 22:33:30",
-      "album": {
-        "name": "DESPECH\u00c1",
-        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 157017,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
-    },
-    {
-      "added_at": "2023-04-06 22:33:30",
-      "album": {
         "name": "VIVES",
         "url": "https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK"
       },
@@ -167,6 +127,22 @@
     {
       "added_at": "2023-04-06 22:33:30",
       "album": {
+        "name": "DESPECH\u00c1",
+        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 157017,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
+    },
+    {
+      "added_at": "2023-04-06 22:33:30",
+      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
       },
@@ -183,6 +159,30 @@
       "duration_ms": 198332,
       "name": "Sobredosis (feat. Ozuna)",
       "url": "https://open.spotify.com/track/1WbXIpiGBJkCiv3hn40iPB"
+    },
+    {
+      "added_at": "2023-04-06 22:33:30",
+      "album": {
+        "name": "Una Vaina Loca",
+        "url": "https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 226187,
+      "name": "Una Vaina Loca",
+      "url": "https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH"
     },
     {
       "added_at": "2023-04-06 22:33:30",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-04-06 22:33:30",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 301573,
-      "name": "Amores Como el Nuestro",
-      "url": "https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M"
-    },
-    {
-      "added_at": "2023-04-06 22:33:30",
-      "album": {
         "name": "La Historia",
         "url": "https://open.spotify.com/album/4GFEbJYptlAq0R6GImm7oF"
       },
@@ -547,18 +531,18 @@
     {
       "added_at": "2023-04-06 22:33:30",
       "album": {
-        "name": "Para La Eternidad",
-        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
         }
       ],
-      "duration_ms": 278866,
-      "name": "La Vida Es Un Carnaval",
-      "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
+      "duration_ms": 301573,
+      "name": "Amores Como el Nuestro",
+      "url": "https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M"
     },
     {
       "added_at": "2023-04-06 22:33:30",
@@ -579,6 +563,22 @@
       "duration_ms": 192698,
       "name": "Carita de Inocente (feat. Myke Towers) - Remix",
       "url": "https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1"
+    },
+    {
+      "added_at": "2023-04-06 22:33:30",
+      "album": {
+        "name": "Para La Eternidad",
+        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "La Vida Es Un Carnaval",
+      "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
     },
     {
       "added_at": "2023-04-06 22:33:30",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-04-06 22:33:30",
       "album": {
+        "name": "No Me Olvidaras",
+        "url": "https://open.spotify.com/album/3nPnMxM4svBJpKF2UwtnRD"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 230186,
+      "name": "Cuenta Conmigo",
+      "url": "https://open.spotify.com/track/1F1VPI3wUKEKA1DPx5Y9Fy"
+    },
+    {
+      "added_at": "2023-04-06 22:33:30",
+      "album": {
         "name": "@dannocean",
         "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 212914,
       "name": "SI ES AMOR",
       "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
-    },
-    {
-      "added_at": "2023-04-06 22:33:30",
-      "album": {
-        "name": "No Me Olvidaras",
-        "url": "https://open.spotify.com/album/3nPnMxM4svBJpKF2UwtnRD"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 230186,
-      "name": "Cuenta Conmigo",
-      "url": "https://open.spotify.com/track/1F1VPI3wUKEKA1DPx5Y9Fy"
     },
     {
       "added_at": "2023-04-06 22:33:30",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-04-06 22:33:30",
       "album": {
-        "name": "La Tierra del Olvido (005)",
-        "url": "https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "Pa' Mayte",
-      "url": "https://open.spotify.com/track/00gAVWgRJy92PCAHFzVu83"
-    },
-    {
-      "added_at": "2023-04-06 22:33:30",
-      "album": {
         "name": "Celia & Johnny",
         "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 291946,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
+    },
+    {
+      "added_at": "2023-04-06 22:33:30",
+      "album": {
+        "name": "La Tierra del Olvido",
+        "url": "https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "Pa' Mayte",
+      "url": "https://open.spotify.com/track/00gAVWgRJy92PCAHFzVu83"
     },
     {
       "added_at": "2023-04-06 22:33:30",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-04-06 22:33:30",
       "album": {
-        "name": "Llego La Salsa",
-        "url": "https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 216421,
-      "name": "Que Bueno Baila Usted",
-      "url": "https://open.spotify.com/track/1R8upiSmv7U1rRv0qqvIbS"
-    },
-    {
-      "added_at": "2023-04-06 22:33:30",
-      "album": {
         "name": "Herrera",
         "url": "https://open.spotify.com/album/2doRgShYH9yjuDKMi050AL"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 157268,
       "name": "Herrera",
       "url": "https://open.spotify.com/track/6iYurd8rUYCoQTAi1V9XUn"
+    },
+    {
+      "added_at": "2023-04-06 22:33:30",
+      "album": {
+        "name": "Llego La Salsa",
+        "url": "https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 216421,
+      "name": "Que Bueno Baila Usted",
+      "url": "https://open.spotify.com/track/1R8upiSmv7U1rRv0qqvIbS"
     },
     {
       "added_at": "2023-04-06 22:33:30",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2023-04-06 22:33:30",
       "album": {
-        "name": "Adicto (feat. Marc Anthony)",
-        "url": "https://open.spotify.com/album/3WkWeNvKY4CMeLwKIeOugQ"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 209191,
-      "name": "Adicto (feat. Marc Anthony)",
-      "url": "https://open.spotify.com/track/4Xqpt53kWML7eTObGxQ43i"
-    },
-    {
-      "added_at": "2023-04-06 22:33:30",
-      "album": {
         "name": "Tatuaje",
         "url": "https://open.spotify.com/album/1PG3xm0A5CkuLONdSC0VyO"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 230840,
       "name": "Tatuaje",
       "url": "https://open.spotify.com/track/7qvnwfrklCpXozI4ZDU3qc"
+    },
+    {
+      "added_at": "2023-04-06 22:33:30",
+      "album": {
+        "name": "Adicto (feat. Marc Anthony)",
+        "url": "https://open.spotify.com/album/3WkWeNvKY4CMeLwKIeOugQ"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 209191,
+      "name": "Adicto (feat. Marc Anthony)",
+      "url": "https://open.spotify.com/track/4Xqpt53kWML7eTObGxQ43i"
     },
     {
       "added_at": "2023-04-06 22:33:30",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2023-04-06 22:33:30",
       "album": {
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 216897,
+      "name": "Loter\u00eda",
+      "url": "https://open.spotify.com/track/17Ey9p2LVX9BWaq51t56xU"
+    },
+    {
+      "added_at": "2023-04-06 22:33:30",
+      "album": {
         "name": "Mala y Peligrosa (feat. Bad Bunny)",
         "url": "https://open.spotify.com/album/5g7QwZJvDLvaSGjqFVex0d"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 264193,
       "name": "Mala y Peligrosa (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/0afpbPmRHldjP59YRslQz9"
-    },
-    {
-      "added_at": "2023-04-06 22:33:30",
-      "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 216897,
-      "name": "Loter\u00eda",
-      "url": "https://open.spotify.com/track/17Ey9p2LVX9BWaq51t56xU"
     },
     {
       "added_at": "2023-04-06 22:33:30",

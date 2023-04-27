@@ -4,7 +4,7 @@
 
 > Trending Sinhalese pop hits\. Cover \- DILU Beats
 
-206 songs - 12 hr 19 min
+207 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [Mandaaram Kathawe](https://open.spotify.com/track/0HPgrZPFOHxobYLHxLneoj) | [Anushka Udana](https://open.spotify.com/artist/0zJOY7KeiOgOIGQ150u7hz), [Nisal Gamage](https://open.spotify.com/artist/1M8N1mJapJj4Uj58izFWbC), [Amith Guru](https://open.spotify.com/artist/7n7yFD0oaBaphaVWZpfbbT), [Wasthi](https://open.spotify.com/artist/6SuMIiPGM6P4hLLNdT0nNt) | [Mandaaram Kathawe](https://open.spotify.com/album/1dRosK2zVDLdWIr4TmmAbI) | 3:25 | 2022-06-16 |  |
 | [Mandaram Eli](https://open.spotify.com/track/2US9BVE4YN1Werb6WEc34o) | [Bhashi Devanga](https://open.spotify.com/artist/08cTJNoDTsbYbZ1YwSpz2y) | [Mandaram Eli](https://open.spotify.com/album/7DH1ArjMLHLpfysdHLtDtx) | 3:20 | 2023-01-11 |  |
 | [Mandaram Sihine](https://open.spotify.com/track/5tMc6sUot4vjvPoTC9L9jG) | [Pamith Mandiv](https://open.spotify.com/artist/2CUr1332mQDucYRqimdeau), [Patalie Fernando](https://open.spotify.com/artist/0mc8xIHf8NtQqmGQIa4KYk), [Yasindu Thathsara](https://open.spotify.com/artist/0WCh44k2a52G0sj6w1AU2C) | [Mandaram Sihine](https://open.spotify.com/album/3PcxJDqMGFywhI8HC8YJA7) | 2:45 | 2022-09-23 | 2022-10-08 |
-| [Marunu Hithe](https://open.spotify.com/track/4sSbYsyoxJhyWMq2j99gvQ) | [Anushka Udana](https://open.spotify.com/artist/0zJOY7KeiOgOIGQ150u7hz) | [Marunu Hithe](https://open.spotify.com/album/49gOFKcgnYeYjZwcYZOQ7D) | 3:08 | 2022-11-30 |  |
+| [Marunu Hithe](https://open.spotify.com/track/4sSbYsyoxJhyWMq2j99gvQ) | [Anushka Udana](https://open.spotify.com/artist/0zJOY7KeiOgOIGQ150u7hz) | [Marunu Hithe](https://open.spotify.com/album/49gOFKcgnYeYjZwcYZOQ7D) | 3:08 | 2022-11-30 | 2023-04-27 |
+| [Marunu Hithe](https://open.spotify.com/track/6dH8lGP2nESxdM1gih7fHb) | [Anushka Udana](https://open.spotify.com/artist/0zJOY7KeiOgOIGQ150u7hz) | [Marunu Hithe](https://open.spotify.com/album/6AEPBrvsP17lzplo3Un2Qa) | 3:08 | 2023-02-27 |  |
 | [Mathaka Wedanawan](https://open.spotify.com/track/59OIWs6dJlaS85S4J01kVT) | [Sudeera Dilshan](https://open.spotify.com/artist/7gHkPTRQJ2DBMAqSvEgvzx), [Kanishka Akmeemana](https://open.spotify.com/artist/5AqMmzfIqQbN568bf1eX95) | [Mathaka Wedanawan](https://open.spotify.com/album/6CKJFlEJcHmQBSGfJIbFAB) | 3:29 | 2022-09-23 | 2022-12-01 |
 | [Mathake](https://open.spotify.com/track/0r1y5DUXbYuFoYGEnz4vfm) | [Kasun Randunu](https://open.spotify.com/artist/32FYnle6hUf3EII57Z9uwy), [Ravi Jay](https://open.spotify.com/artist/2OXLUIzYqgydsWcHh38LJ2) | [Mathake](https://open.spotify.com/album/5Cm4n9ujuLSgZzw66vfsoU) | 3:18 | 2022-07-15 | 2022-12-01 |
 | [Me Hitha Na Palu](https://open.spotify.com/track/1r5X6i6U11nStErNNd0opg) | [Dhyan Hewage](https://open.spotify.com/artist/3ES7kGNf8O344XSDG3kW8G), [Yuki Navaratne](https://open.spotify.com/artist/00ZpGGB5F7Ytw781Qsr1sR) | [Me Hitha Na Palu](https://open.spotify.com/album/18pO3n4X5utq5x0O0wl06l) | 3:08 | 2022-06-23 |  |

@@ -1,13 +1,33 @@
 {
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Alan Walker",
-  "num_followers": 752832,
+  "num_followers": 752861,
   "original_name": "NCS Releases",
   "owner": {
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "NDk5Nyw2MjQzODNlZGI1YjBlYTc1NDQ0NThiYTA5ZDI0ZmNhYzk0NWYxYWFj",
+  "snapshot_id": "NDk5OSw3Y2ZjODM1YWU5NjU4ODY4NDU1ZTYyZGNkNDdkMjFjMmFhZGI4MDA2",
   "tracks": [
+    {
+      "added_at": "2023-04-26 09:41:42",
+      "album": {
+        "name": "A&B",
+        "url": "https://open.spotify.com/album/0VRbQuoZhwN35U6SlTkLMc"
+      },
+      "artists": [
+        {
+          "name": "MADZI",
+          "url": "https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K"
+        },
+        {
+          "name": "ETikka",
+          "url": "https://open.spotify.com/artist/1t7Nxks2dmfdKs8glkgDqt"
+        }
+      ],
+      "duration_ms": 176120,
+      "name": "A&B",
+      "url": "https://open.spotify.com/track/5sM48Id41SNoq8zCz34UXH"
+    },
     {
       "added_at": "2023-04-22 13:48:29",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: 宮本大 劇場公開中の<a href="https://bluegiant\-movie.jp/">映画「BLUE GIANT」</a>とコラボ中！cover: JASS ©2023 製作委員会　©2013 石塚真一／小学館
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,188 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,215 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 6 | [Gently](https://open.spotify.com/track/6mqfABkvkJxfCnQoXoY1Tp) | [Akira Jimbo](https://open.spotify.com/artist/3lpJqlTUaUV0Q7OlnbtBeC) | [燦燦](https://open.spotify.com/album/1XengrA8fJxquErrp3T3zW) | 3:51 |
 | 7 | [Weekender](https://open.spotify.com/track/76oqYLjDjbBb43Ne1qrdlP) | [Knew Roy](https://open.spotify.com/artist/42TMYSBkbTK28DAAePvRdw) | [Weekender](https://open.spotify.com/album/0LmJJ8LqWgjsGXtkrgWSLz) | 2:50 |
 | 8 | [朝焼け \- Live at Chuo Kaikan Hall, Tokyo, Feb\. 1982](https://open.spotify.com/track/3kn85OLlFlbQDCiKmj17MO) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [MINT JAMS\(Live\)](https://open.spotify.com/album/2yvR4wVM1XLEKVad6F3ja9) | 4:58 |
-| 9 | [qualia](https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [qualia](https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP) | 3:24 |
+| 9 | [Solitude](https://open.spotify.com/track/1ghPHoNXf4L5wO4kOvJUoW) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Ordinary Landscape](https://open.spotify.com/album/5dYHGuiBBzx6hWdZWtdlhO) | 4:16 |
 | 10 | [Pulse](https://open.spotify.com/track/7L3UIvtatUeSRI3Ith7VFF) | [Ryo Miyachi](https://open.spotify.com/artist/4cMPr1gwTGk0gAkfZlvE13) | [now it is](https://open.spotify.com/album/0ZDZra3lI2YVVg3Pgnp49z) | 4:36 |
-| 11 | [Solitude](https://open.spotify.com/track/1ghPHoNXf4L5wO4kOvJUoW) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Ordinary Landscape](https://open.spotify.com/album/5dYHGuiBBzx6hWdZWtdlhO) | 4:16 |
+| 11 | [qualia](https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [qualia](https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP) | 3:24 |
 | 12 | [Vanish, Memoria](https://open.spotify.com/track/28jUCkZborAa9z1EpqE7VW) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [Greg Fox](https://open.spotify.com/artist/0TtmWFPYtp9OUobudWwIP0), [石塚 周太](https://open.spotify.com/artist/6gm2Ia2uZYgLOxoKIgCbW1) | [Postpone](https://open.spotify.com/album/1geleGHJ4qLZkSmSeitCOa) | 4:56 |
 | 13 | [Shadow Striker](https://open.spotify.com/track/7kKglAZzb2RdSyOAlQzqhN) | [河野啓三](https://open.spotify.com/artist/274QW59zwGhhYeXZmN0dij) | [Shadow Striker](https://open.spotify.com/album/5i5rg3GM9FLDvavDQSOBmP) | 5:28 |
 | 14 | [spectres de mouse](https://open.spotify.com/track/1ObG9Ewso0enlqOojHXzzs) | [mouse on the keys](https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp) | [an anxious object](https://open.spotify.com/album/7uLIqmPNnfmBd92Tz1apN2) | 3:20 |
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 21 | [Night Cruise](https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [PARADISE](https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD) | 5:49 |
 | 22 | [夜になると鮭は](https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [POLY LIFE MULTI SOUL](https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM) | 2:08 |
 | 23 | [N.E.W.](https://open.spotify.com/track/0uniIrDLtvdypzbMtmLmVV) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 5:45 |
-| 24 | [Good song](https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 3:22 |
+| 24 | [Take Me](https://open.spotify.com/track/4IjS1LeleZKxuHPrVqq33j) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [Asian Dreamer](https://open.spotify.com/album/2brs79CBxiApvCNRM880RA) | 4:52 |
 | 25 | [Disordered Trip](https://open.spotify.com/track/1TL5dclhMJ7Be0qnTKZ2oe) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Disordered Trip](https://open.spotify.com/album/0p4X5GGQHPJdgfvJ8NOEL1) | 3:57 |
-| 26 | [Take Me](https://open.spotify.com/track/4IjS1LeleZKxuHPrVqq33j) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [Asian Dreamer](https://open.spotify.com/album/2brs79CBxiApvCNRM880RA) | 4:52 |
+| 26 | [Good song](https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 3:22 |
 | 27 | [TODAY FOR TOMORROW](https://open.spotify.com/track/7eXny7jPPnP4s8PlmILcRK) | [CASIOPEA\-P4](https://open.spotify.com/artist/3M2NJMriF7TX8Y7a04XJIq) | [NEW TOPICS](https://open.spotify.com/album/63FjEmZkfAhJzNTh4hS1EG) | 4:39 |
 | 28 | [Blackbird](https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Spectrum](https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH) | 5:21 |
 | 29 | [Blazin’ \- DJ KAWASAKI Recreated Fusion Funk Mix](https://open.spotify.com/track/1l31wrU5dinNLZh6dPmY75) | [DJ KAWASAKI](https://open.spotify.com/artist/0SCF6DFbfs4N5VtmfOlHhe), [Karin](https://open.spotify.com/artist/2NMVmmT0al17xSOnWO1J1M) | [BRIDGE INTO THE FUTURE \- DJ KAWASAKI RECREATED TRACKS](https://open.spotify.com/album/1PEatkcPFDfn3Ujo7w1ocL) | 6:50 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 44 | [regalecus glesne \- feat.元晴 & 柴田亮](https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7) | [BimBomBam Orchestra](https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6), [元晴](https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L), [柴田亮](https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu) | [regalecus glesne \(feat.元晴 & 柴田亮\)](https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ) | 7:07 |
 | 45 | [atom](https://open.spotify.com/track/54baCiXqMz9UK8LqJ7nIPV) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [story](https://open.spotify.com/album/1DVDZf2wezbNIYjkWDbXR8) | 4:10 |
 | 46 | [Breeze and You \(Live Version\)](https://open.spotify.com/track/6yoOrydjbkvRv6XtnjnNC7) | [THE SQUARE](https://open.spotify.com/artist/1qLh5Luiu5DBNU3SeHcDwq) | [THE SQUARE YEAR END Live 20151226](https://open.spotify.com/album/5pEJNi4ADnyf9FnQccBwGU) | 5:10 |
-| 47 | [On My Way Home](https://open.spotify.com/track/1Cpa7bqFRqG5YHQz98X8yx) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Susanna](https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF) | 3:15 |
-| 48 | [We’ll Be Right Back](https://open.spotify.com/track/6AtrtrgIPlpMcHHntj3eT8) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [We’ll Be Right Back](https://open.spotify.com/album/1WTZwZKR56VOLX4q5YgJN2) | 4:21 |
+| 47 | [We’ll Be Right Back](https://open.spotify.com/track/6AtrtrgIPlpMcHHntj3eT8) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [We’ll Be Right Back](https://open.spotify.com/album/1WTZwZKR56VOLX4q5YgJN2) | 4:21 |
+| 48 | [On My Way Home](https://open.spotify.com/track/1Cpa7bqFRqG5YHQz98X8yx) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Susanna](https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF) | 3:15 |
 | 49 | [relive](https://open.spotify.com/track/50t4tQAB6MPXX2bzFeGCid) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [TENT](https://open.spotify.com/album/2TKWC4WpImusMrl1AmkW2t) | 5:01 |
 | 50 | [枯葉 \~Autumn Leaves\~ \(jazz standard\)](https://open.spotify.com/track/6qeCyQdxowFD746sApGBYx) | [SANOVA](https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt) | [BLISS](https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi) | 3:05 |
 
-Snapshot ID: `MTY4MDYyMDQwMCwwMDAwMDAwMGZmOWQ3OGE2ODAzMTZlNjRhNDMzNDRmOGMwZDRlNDJk`
+Snapshot ID: `MTY4MDYyMDQwMCwwMDAwMDAwMGIwODIzNGQ1YzE3Nzg5MWZlOGFiMTQwMjI4MjNhYmEy`

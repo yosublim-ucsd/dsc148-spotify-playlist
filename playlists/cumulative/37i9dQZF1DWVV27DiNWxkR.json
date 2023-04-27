@@ -697,6 +697,24 @@
     },
     {
       "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "album": {
         "name": "MAGDALENE",
         "url": "https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ"
       },
@@ -1052,6 +1070,24 @@
       "duration_ms": 198773,
       "name": "Dick Cheney",
       "url": "https://open.spotify.com/track/1WXWUnvXJreNdQjydRoD7H"
+    },
+    {
+      "album": {
+        "name": "SMITHEREENS",
+        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
     },
     {
       "album": {
@@ -1851,6 +1887,24 @@
     },
     {
       "album": {
+        "name": "Long Way Down (Deluxe)",
+        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193080,
+      "name": "Heal",
+      "url": "https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci"
+    },
+    {
+      "album": {
         "name": "The Divine Miss M",
         "url": "https://open.spotify.com/album/0WCR1ZDrcXuNerUd6mbeiP"
       },
@@ -2500,6 +2554,24 @@
       "duration_ms": 279253,
       "name": "Jim Cain",
       "url": "https://open.spotify.com/track/7pVAdbWP9gQZvnOIqBL6Cl"
+    },
+    {
+      "album": {
+        "name": "Joker & Rainbow",
+        "url": "https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk"
+      },
+      "artists": [
+        {
+          "name": "Jesse\u00ae",
+          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116466,
+      "name": "Joker",
+      "url": "https://open.spotify.com/track/0PU4uOzbHVnGsRHyGhiDCr"
     },
     {
       "album": {
@@ -3289,6 +3361,24 @@
     },
     {
       "album": {
+        "name": "Favourite Worst Nightmare (Standard Version)",
+        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181480,
+      "name": "Only Ones Who Know",
+      "url": "https://open.spotify.com/track/7ABWRukVQcXrIrDKDx5Gek"
+    },
+    {
+      "album": {
         "name": "No Shape",
         "url": "https://open.spotify.com/album/4XUbE270OEh8WacgMyamyF"
       },
@@ -3556,6 +3646,24 @@
       "duration_ms": 202533,
       "name": "Pitseleh",
       "url": "https://open.spotify.com/track/1Q0sk7b7PAGjgC3R5zyuWt"
+    },
+    {
+      "album": {
+        "name": "Placebo Effect",
+        "url": "https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191493,
+      "name": "Placebo Effect",
+      "url": "https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y"
     },
     {
       "album": {
@@ -4006,7 +4114,7 @@
       ],
       "date_added": "2020-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 75671,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/07KMQNsSXfWJjOzFzwNWoE"

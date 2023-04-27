@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-408 songs - 21 hr 41 min
+409 songs - 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Live It Up](https://open.spotify.com/track/3bUnzltFofxPOlZB3PpA4j) | [jahmiel](https://open.spotify.com/artist/1pcKqVZ7T90mJ2rKo9XWYV) | [Live It Up](https://open.spotify.com/album/5mpcdRMQb57jWEX88aAaHV) | 2:11 | 2021-12-16 | 2022-07-29 |
 | [Lockdown](https://open.spotify.com/track/0izUjTuDrUy2FgQOSRALSU) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Lockdown](https://open.spotify.com/album/0tJs3Wig9YBdDG8jGKeLq6) | 2:59 | 2021-12-16 |  |
 | [Looking for Somebody](https://open.spotify.com/track/5D6rGaauri3oyZAXM5V2q2) | [Angelo King](https://open.spotify.com/artist/1Q0kuvgP9fC9Y5OCP1mzOV), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Looking for Somebody](https://open.spotify.com/album/3V3asywN4oLR2McSuXD6gk) | 2:49 | 2023-03-01 | 2023-04-07 |
+| [Lot A Lot A](https://open.spotify.com/track/0KLU7YiCi6aZYkYgL1ZuSf) | [JR Kenna](https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN) | [Lot A Lot A](https://open.spotify.com/album/604I4i2wI2iQDuGM2qAJMg) | 2:22 | 2023-04-26 |  |
 | [Love](https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:11 | 2023-02-23 |  |
 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 | 2022-05-25 |  |
 | [Love Me](https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Love Me](https://open.spotify.com/album/1PdFlqzfgz8oqbHwGFdrBC) | 2:54 | 2021-12-16 | 2023-04-07 |
@@ -266,7 +267,7 @@
 | [Nobody](https://open.spotify.com/track/1QrdRdn3miSCvKDYnWUPOz) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Nobody](https://open.spotify.com/album/1FYiqklLsEiJverppEP8mQ) | 2:15 | 2023-02-02 | 2023-04-07 |
 | [Nobody Has to Know](https://open.spotify.com/track/5nLmO6pp71pmiVZwyTPfq9) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Rumors](https://open.spotify.com/album/1MZfu40bPBKw1HzXGyGoMX) | 3:42 | 2021-12-16 | 2022-01-26 |
 | [Nobody Knows](https://open.spotify.com/track/3Y50lI3uo0P910ZnCCEqqU) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Nobody Knows](https://open.spotify.com/album/2mUXHcpiEOi8c2CVO3qC2G) | 2:36 | 2022-10-11 |  |
-| [Nobody Like You](https://open.spotify.com/track/1OxuUFo0lRwfWU2bm8nvRY) | [VERSANO](https://open.spotify.com/artist/2iw3duHiN2YGJfiLUJkIO3) | [Nobody Like You](https://open.spotify.com/album/3QKq7MUew8RASB1b0XVldC) | 3:05 | 2022-09-23 |  |
+| [Nobody Like You](https://open.spotify.com/track/1OxuUFo0lRwfWU2bm8nvRY) | [VERSANO](https://open.spotify.com/artist/2iw3duHiN2YGJfiLUJkIO3) | [Nobody Like You](https://open.spotify.com/album/3QKq7MUew8RASB1b0XVldC) | 3:05 | 2022-09-23 | 2023-04-27 |
 | [Not Over It](https://open.spotify.com/track/5vYWYCPdD6BqOy5hDYuCAi) | [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb), [Aïcha Gill](https://open.spotify.com/artist/2qq2Vs81M7ReUEIxB0hjUu) | [Not Over It](https://open.spotify.com/album/6f26986svH5VZ03xVjsdap) | 3:32 | 2021-12-16 | 2023-04-07 |
 | [Occuper](https://open.spotify.com/track/4V8y5OWqDxnoDIJ291i95B) | [Kiba](https://open.spotify.com/artist/0bz2VW1nPJpBXuPgZ8zMeY) | [Occuper](https://open.spotify.com/album/3vl9xM1ZhrdrnujGxeSvDH) | 2:24 | 2021-12-16 | 2022-07-29 |
 | [Ogen Dicht \(Wowo Será\)](https://open.spotify.com/track/4fGEopuAuQMFOv0aw7DjZa) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Ogen Dicht \(Wowo Será\)](https://open.spotify.com/album/0IExXLUzrIO6R9MJjmjDYh) | 3:17 | 2021-12-16 | 2022-02-24 |
@@ -288,7 +289,7 @@
 | [Pandemia](https://open.spotify.com/track/0RVqLLQE5EdCL3xIQc0DWK) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Pandemia](https://open.spotify.com/album/0zLvsXd527Lg8rAJRFERnq) | 2:58 | 2021-12-16 | 2022-01-11 |
 | [People](https://open.spotify.com/track/1pH3ibG3IDuktQ7wFozrnu) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7), [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Victory Rock Riddim](https://open.spotify.com/album/2ychB1n3vMLc8t2bOflZTu) | 3:27 | 2021-12-16 |  |
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-02-06 | 2023-04-21 |
-| [People \(feat\. Ayra Starr & Omah Lay\)](https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [People \(Remixes\)](https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G) | 3:04 | 2023-04-20 |  |
+| [People \(feat\. Ayra Starr & Omah Lay\)](https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG) | [Libianca](https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [People \(Remixes\)](https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G) | 3:04 | 2023-04-20 |  |
 | [People \(feat\. Cian Ducrot\)](https://open.spotify.com/track/3y13pwXvqWmAXKdt4zgI2Q) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [People \(feat\. Cian Ducrot\) \[Remix\]](https://open.spotify.com/album/2iBbNFC5oZdKfqQyiSEfXx) | 3:04 | 2023-03-02 | 2023-03-19 |
 | [Peru](https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Peru](https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe) | 2:31 | 2021-12-16 |  |
 | [Peru Mashup](https://open.spotify.com/track/1dhpWnmkssLMMCoTWhJOlE) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Peru Mashup](https://open.spotify.com/album/0WgttMqNi5lo1HPYyUKA7V) | 3:45 | 2021-12-16 | 2022-05-17 |

@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-158 songs - 11 hr 9 min
+159 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Driving Wheel](https://open.spotify.com/track/5oLY2gz4HnKTcXxKkaGrsa) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Little Junior Parker: Mr\. Blues](https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD) | 2:40 | 2022-06-14 | 2023-01-28 |
 | [Dry Run](https://open.spotify.com/track/419eddgUScgFJRyqwUV8mZ) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Dry Run](https://open.spotify.com/album/5612RXP6x13O9iP94Sx0YH) | 3:16 | 2022-09-12 | 2022-09-17 |
 | [Dry Run](https://open.spotify.com/track/4MGsxGqk5RSuwItODtVsEE) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Crackdown](https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL) | 3:16 | 2022-10-03 |  |
-| [Elevator Ride](https://open.spotify.com/track/1zbl9UvKYIY319p7T8VGjp) | [Jen Mize](https://open.spotify.com/artist/2C3bFKXjKsUB3iBMJ6qLEP), [The Rough & Tumble](https://open.spotify.com/artist/3PrY8MR7AOxCZs9MmQjD8T) | [Elevator Ride](https://open.spotify.com/album/6VeuQwjxqAp8kHYVG3czyc) | 4:06 | 2023-04-14 |  |
+| [Elevator Ride](https://open.spotify.com/track/1zbl9UvKYIY319p7T8VGjp) | [Jen Mize](https://open.spotify.com/artist/2C3bFKXjKsUB3iBMJ6qLEP), [The Rough & Tumble](https://open.spotify.com/artist/3PrY8MR7AOxCZs9MmQjD8T) | [Elevator Ride](https://open.spotify.com/album/6VeuQwjxqAp8kHYVG3czyc) | 4:06 | 2023-04-14 | 2023-04-27 |
 | [Ex's House Party](https://open.spotify.com/track/0eTbwl7KzaUDsMwbQCcAcp) | [Elizabeth Moen](https://open.spotify.com/artist/3asn1tEPhRNjVd48GXOo1N) | [Wherever You Aren't](https://open.spotify.com/album/4KwhVr9nLyGgJT2qf54fDc) | 4:39 | 2022-11-17 | 2023-01-22 |
 | [Eyes on You](https://open.spotify.com/track/31lG2URaPvdi7atAM8Tu4V) | [Garrett Lebeau](https://open.spotify.com/artist/7u4tQSAU9o2j0yFsJJe5xj) | [Rise to the Grind](https://open.spotify.com/album/1HeTtiW6mFOjTJVu7F3hk9) | 4:50 | 2022-10-03 |  |
 | [Falling](https://open.spotify.com/track/30h268bCKmGWxFleXGYATy) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Juice Me Up](https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha) | 5:03 | 2022-05-25 |  |
@@ -160,6 +160,7 @@
 | [Third Degree \- 2015 Remaster](https://open.spotify.com/track/5jqRbGwNtD7rvsGiSeTmcu) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Forever Man](https://open.spotify.com/album/3gaFg68VkhrZUU9wfaLp5T) | 5:10 | 2022-10-03 | 2022-11-24 |
 | [THOUSAND STRINGED INSTRUMENT](https://open.spotify.com/track/5Z7VtnF9lSGqEsv8KOTkC6) | [THE DAWN LIGHT](https://open.spotify.com/artist/2GY423HSoOGDoAZpfYp23A) | [THOUSAND STRINGED INSTRUMENT](https://open.spotify.com/album/3VDFvOgo5bt6v84LppDFJD) | 5:29 | 2022-05-25 | 2022-06-29 |
 | [Three O'Clock Blues](https://open.spotify.com/track/3gGKOVwsAVvwt9BcH3k18J) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 8:36 | 2022-05-25 |  |
+| [Underground Railroad](https://open.spotify.com/track/6LtBXwNr2MJboOD3w5Zt4R) | [Shaneeka Simon](https://open.spotify.com/artist/5Ppc0aChlO1gqw6s3yZNwN), [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Underground Railroad](https://open.spotify.com/album/6ubhqCcDBYw0DabUMhxnIO) | 4:14 | 2023-04-21 |  |
 | [What Am I To You?](https://open.spotify.com/track/0AMKZWRgdFfGYYTxiWrwwH) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:30 | 2022-05-25 |  |
 | [Who's That](https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:40 | 2022-06-14 |  |
 | [Will o' the Wisp](https://open.spotify.com/track/0wumTIq5re4AmxBfKJPcBo) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Love, Death & In Between](https://open.spotify.com/album/4jmQ3CvZiXkeHaLLUHctr2) | 3:23 | 2023-02-03 |  |

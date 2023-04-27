@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 194743,
       "name": "0321",
       "url": "https://open.spotify.com/track/1pbb71pOKB5iqfkju4NmPj"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 163522,
       "name": "All Eyes On Me",
       "url": "https://open.spotify.com/track/2YXswOX5aKv6OHRKUcAMLQ"
@@ -308,6 +308,24 @@
       "duration_ms": 190779,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/2WnAKZefdRHxtBEkRjFOHC"
+    },
+    {
+      "album": {
+        "name": "SEVENTEEN 10th Mini Album 'FML'",
+        "url": "https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212786,
+      "name": "April shower",
+      "url": "https://open.spotify.com/track/7rIXkPCaibFJTs4rKS29OS"
     },
     {
       "album": {
@@ -1630,6 +1648,24 @@
       "duration_ms": 149446,
       "name": "DUMB DUMB",
       "url": "https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz"
+    },
+    {
+      "album": {
+        "name": "SEVENTEEN 10th Mini Album 'FML'",
+        "url": "https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165320,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/7v8v911KfBuFkqXvuDOtNm"
     },
     {
       "album": {
@@ -7124,10 +7160,28 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 218333,
       "name": "\u4ed7\u7740",
       "url": "https://open.spotify.com/track/1jIVULaXnINSJMcEvcrgHt"
+    },
+    {
+      "album": {
+        "name": "\u4ed7\u7740",
+        "url": "https://open.spotify.com/album/78i6GdaQxd3WAEcjDOVPY6"
+      },
+      "artists": [
+        {
+          "name": "\u9648\u58f9\u5343",
+          "url": "https://open.spotify.com/artist/21pP8kvWpNCDhy2fMOTOAf"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218333,
+      "name": "\u4ed7\u7740",
+      "url": "https://open.spotify.com/track/2hSRWmpK1gSuMTF3IvXfcC"
     },
     {
       "album": {
@@ -9712,7 +9766,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 205218,
       "name": "\u6bd2\u85e5",
       "url": "https://open.spotify.com/track/5VymCvfV0FguCa7zrIPSgk"
@@ -11346,7 +11400,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 232421,
       "name": "\u9677\u7720",
       "url": "https://open.spotify.com/track/4Gv3WzG8DaeY1LLnufwXdJ"

@@ -1,12 +1,12 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. Foto: Cartel de Santa",
-  "num_followers": 140610,
+  "num_followers": 140868,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNzA5NDA5NywwMDAwMDAwMDgyMWJhNjU2MDZhMWU3MDI4YTUwZTU0NzU0YWY0Njk4",
+  "snapshot_id": "MTYzNzA5NDA5NywwMDAwMDAwMGMwNGFjYjBhNzFlOThhYWM1YzUyNGFmZDhjZjc2Mjcw",
   "tracks": [
     {
       "added_at": "2021-11-16 20:18:05",
@@ -31,18 +31,18 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Black Sunday",
-        "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
+        "name": "Muerte",
+        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
       },
       "artists": [
         {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
         }
       ],
-      "duration_ms": 208266,
-      "name": "Insane in the Brain",
-      "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
+      "duration_ms": 284708,
+      "name": "Maquiav\u00e9lico",
+      "url": "https://open.spotify.com/track/447r2keRxpkINmWYp83MlH"
     },
     {
       "added_at": "2021-11-16 20:21:37",
@@ -63,18 +63,18 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Muerte",
-        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
+        "name": "Black Sunday",
+        "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
       },
       "artists": [
         {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
         }
       ],
-      "duration_ms": 284708,
-      "name": "Maquiav\u00e9lico",
-      "url": "https://open.spotify.com/track/447r2keRxpkINmWYp83MlH"
+      "duration_ms": 208266,
+      "name": "Insane in the Brain",
+      "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -555,18 +555,18 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/2rmhl1gQux3WGPJA77FgRN"
+        "name": "Santos Grifos, Vol. 1",
+        "url": "https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H"
       },
       "artists": [
         {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 182831,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/1EljzqiV1RDtXj1QUbx3db"
+      "duration_ms": 380200,
+      "name": "El Diablo Anda Suelto",
+      "url": "https://open.spotify.com/track/1uSj6BBujIU1oaZFqIyZg7"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -595,18 +595,18 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Santos Grifos, Vol. 1",
-        "url": "https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H"
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/2rmhl1gQux3WGPJA77FgRN"
       },
       "artists": [
         {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         }
       ],
-      "duration_ms": 380200,
-      "name": "El Diablo Anda Suelto",
-      "url": "https://open.spotify.com/track/1uSj6BBujIU1oaZFqIyZg7"
+      "duration_ms": 182831,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1EljzqiV1RDtXj1QUbx3db"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
+        "name": "Love & Money",
+        "url": "https://open.spotify.com/album/7BAQx3vrxCF02TU4wpK7Te"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "duration_ms": 216024,
+      "name": "Love & Money",
+      "url": "https://open.spotify.com/track/4JYVHokdjqjArnqmqTfaUZ"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
         "name": "El C\u00edrculo (Versi\u00f3n Exclusiva de Spotify)",
         "url": "https://open.spotify.com/album/5HTtQMQxpNk64Uj1zXjufs"
       },
@@ -1403,26 +1423,6 @@
       "duration_ms": 271733,
       "name": "Pavos Reales (con Hermano L, Shabu One Shant y Mcklopedia)",
       "url": "https://open.spotify.com/track/4HVYBeELSvhfGmWwFoZr4p"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "Love & Money",
-        "url": "https://open.spotify.com/album/7BAQx3vrxCF02TU4wpK7Te"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        },
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        }
-      ],
-      "duration_ms": 216024,
-      "name": "Love & Money",
-      "url": "https://open.spotify.com/track/4JYVHokdjqjArnqmqTfaUZ"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Unidad 9",
-        "url": "https://open.spotify.com/album/4h2vgnpajpNUUnilwMjxjQ"
-      },
-      "artists": [
-        {
-          "name": "Bardero$",
-          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
-        }
-      ],
-      "duration_ms": 160470,
-      "name": "Unidad 9",
-      "url": "https://open.spotify.com/track/4e4zBLxCHWwOyfT1qkXcFb"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "24/Siempre Vol.1",
         "url": "https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 228097,
       "name": "G.P.S. - con Aleman",
       "url": "https://open.spotify.com/track/03e3pnRddWmYOVQlzs3Qnb"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Unidad 9",
+        "url": "https://open.spotify.com/album/4h2vgnpajpNUUnilwMjxjQ"
+      },
+      "artists": [
+        {
+          "name": "Bardero$",
+          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
+        }
+      ],
+      "duration_ms": 160470,
+      "name": "Unidad 9",
+      "url": "https://open.spotify.com/track/4e4zBLxCHWwOyfT1qkXcFb"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
-        "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 166760,
-      "name": "Yo Quiero Fumar (I Wanna Get High) - Spanish Version",
-      "url": "https://open.spotify.com/track/3RIDe85YSYGGoJ0daSzfhD"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Luces Fantasma",
         "url": "https://open.spotify.com/album/0gzZ8kGuKfDlVtBVmDLNJj"
       },
@@ -1795,18 +1779,34 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "No Copio",
-        "url": "https://open.spotify.com/album/2A3JkMQdIK53qMJo6PcXhT"
+        "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
+        "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
       },
       "artists": [
         {
-          "name": "Crudo Means Raw",
-          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
         }
       ],
-      "duration_ms": 205255,
-      "name": "No Copio",
-      "url": "https://open.spotify.com/track/20ULOJfgc85eBXq83rjKEf"
+      "duration_ms": 166760,
+      "name": "Yo Quiero Fumar (I Wanna Get High) - Spanish Version",
+      "url": "https://open.spotify.com/track/3RIDe85YSYGGoJ0daSzfhD"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Manos de Anillo",
+        "url": "https://open.spotify.com/album/2TWqwQ1OOfbI8D7g31SbQU"
+      },
+      "artists": [
+        {
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+        }
+      ],
+      "duration_ms": 225957,
+      "name": "Manos de Anillo",
+      "url": "https://open.spotify.com/track/7vbYVWDpMxZS97V5dPeflc"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Manos de Anillo",
-        "url": "https://open.spotify.com/album/2TWqwQ1OOfbI8D7g31SbQU"
+        "name": "No Copio",
+        "url": "https://open.spotify.com/album/2A3JkMQdIK53qMJo6PcXhT"
       },
       "artists": [
         {
-          "name": "Simpson Ahuevo",
-          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+          "name": "Crudo Means Raw",
+          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
         }
       ],
-      "duration_ms": 225957,
-      "name": "Manos de Anillo",
-      "url": "https://open.spotify.com/track/7vbYVWDpMxZS97V5dPeflc"
+      "duration_ms": 205255,
+      "name": "No Copio",
+      "url": "https://open.spotify.com/track/20ULOJfgc85eBXq83rjKEf"
     },
     {
       "added_at": "2021-11-16 20:18:05",

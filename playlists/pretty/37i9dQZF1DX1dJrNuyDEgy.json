@@ -1,12 +1,12 @@
 {
   "description": "Ay ay ay ay... Canta y no llores, porque cantando se alegran, cielito lindo, los corazones. ",
-  "num_followers": 202786,
+  "num_followers": 202840,
   "original_name": "M\u00e9xico Lindo & Querido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzA4MzYzNSwwMDAwMDAwMGEwNDdjZDRjZjg2ZjI1ZGUxNGViNzg5MGU3NmQxNmY1",
+  "snapshot_id": "MTY3NzA4MzYzNSwwMDAwMDAwMDA4OGY2ZWMyNTAyNGI2ZjVlOTcyYmQyNjYzOTk3Mjgx",
   "tracks": [
     {
       "added_at": "2022-11-19 17:26:23",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
-        "name": "El Rey",
-        "url": "https://open.spotify.com/album/6ugwfm6B8ToDlJndtQJ7jf"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 194835,
-      "name": "Caminos de Guanajuato",
-      "url": "https://open.spotify.com/track/2NYtb44MFHpDadBfNFcQXd"
-    },
-    {
-      "added_at": "2022-11-19 17:26:23",
-      "album": {
         "name": "M\u00fasica de America",
         "url": "https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 176906,
       "name": "Guadalajara",
       "url": "https://open.spotify.com/track/7bqkK6DMlXwcIHbSzLq1xx"
+    },
+    {
+      "added_at": "2022-11-19 17:26:23",
+      "album": {
+        "name": "El Rey",
+        "url": "https://open.spotify.com/album/6ugwfm6B8ToDlJndtQJ7jf"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 194835,
+      "name": "Caminos de Guanajuato",
+      "url": "https://open.spotify.com/track/2NYtb44MFHpDadBfNFcQXd"
     },
     {
       "added_at": "2022-11-19 17:26:23",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
+        "name": "Sinf\u00f3nico 3",
+        "url": "https://open.spotify.com/album/5r6kbcr9qtGnpUo9uBqWwq"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 512626,
+      "name": "Huapango de Moncayo",
+      "url": "https://open.spotify.com/track/6sRcmTzalGYAERH18Nkqo6"
+    },
+    {
+      "added_at": "2022-11-19 17:26:23",
+      "album": {
         "name": "Veracruz Son y Huapango",
         "url": "https://open.spotify.com/album/7nrQ2LRqb5N0fFtW4rrPJD"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 193453,
       "name": "La Bamba",
       "url": "https://open.spotify.com/track/51EcnaX9uGBFYdBpMThgEs"
-    },
-    {
-      "added_at": "2022-11-19 17:26:23",
-      "album": {
-        "name": "Sinf\u00f3nico 3",
-        "url": "https://open.spotify.com/album/5r6kbcr9qtGnpUo9uBqWwq"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 512626,
-      "name": "Huapango de Moncayo",
-      "url": "https://open.spotify.com/track/6sRcmTzalGYAERH18Nkqo6"
     },
     {
       "added_at": "2022-11-19 17:26:23",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
+        "name": "Fiesta Mexicana\u201a Puro Mariachi",
+        "url": "https://open.spotify.com/album/7bM47G8J24pQah2NMDmXFo"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 179946,
+      "name": "Pelea De Gallos",
+      "url": "https://open.spotify.com/track/0KwhNYri6THMAYVpTBhOCj"
+    },
+    {
+      "added_at": "2022-11-19 17:26:23",
+      "album": {
         "name": "Por Mujeres Como T\u00fa",
         "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 227640,
       "name": "Flor De Pi\u00f1a (Pineapple Flower Dance) [Papaloapan Region]",
       "url": "https://open.spotify.com/track/4Wu1DCxgNeZUKJvLXrhhv9"
-    },
-    {
-      "added_at": "2022-11-19 17:26:23",
-      "album": {
-        "name": "Fiesta Mexicana\u201a Puro Mariachi",
-        "url": "https://open.spotify.com/album/7bM47G8J24pQah2NMDmXFo"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 179946,
-      "name": "Pelea De Gallos",
-      "url": "https://open.spotify.com/track/0KwhNYri6THMAYVpTBhOCj"
     },
     {
       "added_at": "2022-11-19 17:26:23",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
+        "name": "Pepe Aguilar con Tambora",
+        "url": "https://open.spotify.com/album/7bjdQ2of917fzGwSlME5z9"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 137108,
+      "name": "La Vaquilla Colorada",
+      "url": "https://open.spotify.com/track/1dkkL8fnCxpWtbiem9wuDN"
+    },
+    {
+      "added_at": "2022-11-19 17:26:23",
+      "album": {
         "name": "Exitos De Chava Flores",
         "url": "https://open.spotify.com/album/0PJ1sZj98PPca3SBScQegW"
       },
@@ -607,18 +623,18 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
-        "name": "Pepe Aguilar con Tambora",
-        "url": "https://open.spotify.com/album/7bjdQ2of917fzGwSlME5z9"
+        "name": "Serie 20 Exitos",
+        "url": "https://open.spotify.com/album/7n6xNmDEgfcTkO1Jz9G3Py"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
         }
       ],
-      "duration_ms": 137108,
-      "name": "La Vaquilla Colorada",
-      "url": "https://open.spotify.com/track/1dkkL8fnCxpWtbiem9wuDN"
+      "duration_ms": 128560,
+      "name": "El Carretero Se Va",
+      "url": "https://open.spotify.com/track/14hwgXezbZDPcyhq7Zw91D"
     },
     {
       "added_at": "2022-11-19 17:26:23",
@@ -635,22 +651,6 @@
       "duration_ms": 189106,
       "name": "Las Bicicletas",
       "url": "https://open.spotify.com/track/43KGNTOAE6pX5hjqDG7yBg"
-    },
-    {
-      "added_at": "2022-11-19 17:26:23",
-      "album": {
-        "name": "Serie 20 Exitos",
-        "url": "https://open.spotify.com/album/7n6xNmDEgfcTkO1Jz9G3Py"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 128560,
-      "name": "El Carretero Se Va",
-      "url": "https://open.spotify.com/track/14hwgXezbZDPcyhq7Zw91D"
     },
     {
       "added_at": "2022-11-19 17:26:23",
@@ -735,6 +735,22 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
+        "name": "Memorias Musicales del Mariachi",
+        "url": "https://open.spotify.com/album/6DsXaAZwKKpOP1Lex4jDig"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 158186,
+      "name": "Los machetes",
+      "url": "https://open.spotify.com/track/1xSDPL5ae24cnZFDwaIO6z"
+    },
+    {
+      "added_at": "2022-11-19 17:26:23",
+      "album": {
         "name": "No Que No",
         "url": "https://open.spotify.com/album/0GuwpNGXt3Kfl0H8lI5wQP"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 172826,
       "name": "15 de Septiembre",
       "url": "https://open.spotify.com/track/21yxW3iXPbxEpa5FRILbdF"
-    },
-    {
-      "added_at": "2022-11-19 17:26:23",
-      "album": {
-        "name": "Memorias Musicales del Mariachi",
-        "url": "https://open.spotify.com/album/6DsXaAZwKKpOP1Lex4jDig"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 158186,
-      "name": "Los machetes",
-      "url": "https://open.spotify.com/track/1xSDPL5ae24cnZFDwaIO6z"
     },
     {
       "added_at": "2022-11-19 17:26:23",

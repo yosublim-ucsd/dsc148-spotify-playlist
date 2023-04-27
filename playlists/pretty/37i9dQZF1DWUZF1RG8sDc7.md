@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,152 likes - 60 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,276 likes - 60 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 38 | [La creciente](https://open.spotify.com/track/3r7LYQ2EhCw0CwaF5SeF9M) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [El Binomio De Oro](https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh) | 3:02 |
 | 39 | [Traga'O De Tí](https://open.spotify.com/track/4dxEJbnuN5EXg5Ak8RJULL) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [El Caballero Del Vallenato](https://open.spotify.com/album/3Yiy89tCsNKNpxffyrheo9) | 4:07 |
 | 40 | [Loco Paranoico](https://open.spotify.com/track/6eyGmsEahNlvSUZBEa0rRw) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [La 9a Batalla](https://open.spotify.com/album/6AZfPn4isPsjmq9c6jnAMb) | 3:34 |
-| 41 | [Mi Primera Cana](https://open.spotify.com/track/6PBsZe5YuE3r6dOmssmIFI) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Titulo De Amor](https://open.spotify.com/album/0FemNl3cjskKpjCTUj3fne) | 4:17 |
-| 42 | [Un Solo Corazón](https://open.spotify.com/track/2Ia1pSf6YoK4aMJzK26Gfk) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Por Buen Camino](https://open.spotify.com/album/1p9d7eTbTc4cra1TwkxPHI) | 4:45 |
+| 41 | [Un Solo Corazón](https://open.spotify.com/track/2Ia1pSf6YoK4aMJzK26Gfk) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Por Buen Camino](https://open.spotify.com/album/1p9d7eTbTc4cra1TwkxPHI) | 4:45 |
+| 42 | [Mi Primera Cana](https://open.spotify.com/track/6PBsZe5YuE3r6dOmssmIFI) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Titulo De Amor](https://open.spotify.com/album/0FemNl3cjskKpjCTUj3fne) | 4:17 |
 | 43 | [Mi Diosa Humana](https://open.spotify.com/track/1TdS58WrPL19Mtk8iOq529) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri), [Juan David Herrera](https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh) | [Avanzando](https://open.spotify.com/album/0CJV99FjO7LAPTLoYQ6U2O) | 4:46 |
 | 44 | [Cuatro Rosas](https://open.spotify.com/track/39pCrC5AA7xhJb98tqWDgb) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Jorge Celedón & Jimmy Zambrano De Lo Nuevo..\. Lo Mejor](https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D) | 4:36 |
 | 45 | [Me Dejaste Sin Nada](https://open.spotify.com/track/00Yl6SEMlkvr0mnZGhvvcr) | [Patricia Teherán](https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF), [Las Musas Del Vallenato](https://open.spotify.com/artist/51NKeKxApR2v2CKQ5oejIo) | [Guerreras Del Amor](https://open.spotify.com/album/4sbD543Z4mC4tFsaVJIGQ6) | 4:37 |
 | 46 | [Que No Se enteren](https://open.spotify.com/track/5T2P1coKuUoCwN6PR6ihF5) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [El Original](https://open.spotify.com/album/5mAgr3vB1Ma8mmpUDKRo4P) | 4:30 |
 | 47 | [Lo Busqué](https://open.spotify.com/track/0kUMc8s2EwaOg0XAv5lCnA) | [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB) | [Ave Libre](https://open.spotify.com/album/0Wx044oRIRg2kvaJ6H9rsn) | 4:53 |
-| 48 | [Tierra Mala](https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Tierra Mala](https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU) | 4:49 |
-| 49 | [Enseñame a olvidar](https://open.spotify.com/track/7KHOQuwXh9B82SCMN36HaK) | [Cristian y sus infieles](https://open.spotify.com/artist/2e4zJq3F0jFTLJZ3buzGIb) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/0GWpPeth4xZ57rVzXsOzam) | 5:17 |
+| 48 | [Enseñame a olvidar](https://open.spotify.com/track/7KHOQuwXh9B82SCMN36HaK) | [Cristian y sus infieles](https://open.spotify.com/artist/2e4zJq3F0jFTLJZ3buzGIb) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/0GWpPeth4xZ57rVzXsOzam) | 5:17 |
+| 49 | [Tierra Mala](https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Tierra Mala](https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU) | 4:49 |
 | 50 | [No Te Detengas](https://open.spotify.com/track/294HmohCkFANQH6tm9jzfA) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri), [Juan David Herrera](https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh) | [Gracias Mi Gente](https://open.spotify.com/album/42mGPazMoiDn6hWgitQYgX) | 4:46 |
 | 51 | [Sólo Para Ti](https://open.spotify.com/track/1kkIlrp0Z69s5KlnR4ckoe) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De América](https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7) | 4:48 |
 | 52 | [Te Perdone](https://open.spotify.com/track/37Mws624mZBifGxHhg6bcq) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [La Invitación](https://open.spotify.com/album/2Bpa0pFXw4Xa8jHYsm5Q8W) | 4:43 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 57 | [Mi Celosa Hermosa](https://open.spotify.com/track/2qBYoUdefV0JufBpNCGor1) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Manuel Julián](https://open.spotify.com/artist/5N73Yokp47tjesghCSGnNC) | [Diferente](https://open.spotify.com/album/6GQZroG4H7wW0UrX12P3Kp) | 4:09 |
 | 58 | [Casualidad](https://open.spotify.com/track/7tyIylqZUGEcJ9W280KcJe) | [Nelson Velasquez](https://open.spotify.com/artist/0B9fAbZMZTBXUyffDU2Mxj) | [Super Vallenatos 2008](https://open.spotify.com/album/1AhZ43USD4PzQwrtXsoJ4w) | 4:52 |
 | 59 | [Al Fin Llegaste Tú](https://open.spotify.com/track/7jZJm3yRLCKxmJ3kxUtp6f) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [Sin Límites](https://open.spotify.com/album/6aLCUh6URBoxafrNAIx9nK) | 3:52 |
-| 60 | [Ya No Me Duele Más](https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Ya No Me Duele Más](https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL) | 3:46 |
+| 60 | [Dime Que Me Quieres](https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw) | [Grupo Vallenato](https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE) | [Vallenato Fest](https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06) | 5:16 |
 
-Snapshot ID: `MTY3MTIyMTg2NywwMDAwMDAwMDk2ZmU0ZGFjNTExNDc0YzU4NDRjOTQ5YjI3MmY0MjIy`
+Snapshot ID: `MTY3MTIyMTg2NywwMDAwMDAwMDAyZTEwMWJlNzc4OWE1ZDc0NmVkNDMxMDU5MDQxZGY3`

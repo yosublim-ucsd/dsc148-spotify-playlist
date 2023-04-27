@@ -4,7 +4,7 @@
 
 > Holdin' it down for the westside\. Cover: OHGEESY
 
-415 songs - 19 hr 44 min
+416 songs - 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Endzone](https://open.spotify.com/track/0hKRl06sY5KK9juJCG2RCz) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q) | [Endzone](https://open.spotify.com/album/3jD7Qob2hsGhgTqaMzuNpb) | 2:39 | 2023-02-17 | 2023-02-25 |
 | [ETA \(with Snoop Dogg, Busta Rhymes & Anderson .Paak\)](https://open.spotify.com/track/0bzX26mfmUi0djOLemE2b8) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [ETA \(with Snoop Dogg, Busta Rhymes & Anderson .Paak\)](https://open.spotify.com/album/6F7pAFd441t7xmlYit9I9L) | 3:57 | 2022-02-04 | 2022-04-23 |
 | [Every Good Girl](https://open.spotify.com/track/6VYBCG9nCZwUUImVqZQVet) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Before You Go](https://open.spotify.com/album/4bXS4Vs7WMBRiJ1VdPTCte) | 2:56 | 2022-04-22 | 2022-07-23 |
-| [Every Night \(with Baby Money\)](https://open.spotify.com/track/7q1pTqYaDoDiRVIoejwaI9) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [Every Night \(with Baby Money\)](https://open.spotify.com/album/5hg0NN87i3dGPpVQFOoN9f) | 2:10 | 2023-01-27 |  |
+| [EVERY NIGHT \(with Baby Money\)](https://open.spotify.com/track/6UJ2iO0XmCwVCJxtLHXoeY) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [Kollect Kall](https://open.spotify.com/album/1l93oDZaNAsTF0GqsRa3m0) | 2:10 | 2023-04-21 |  |
+| [Every Night \(with Baby Money\)](https://open.spotify.com/track/7q1pTqYaDoDiRVIoejwaI9) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [Every Night \(with Baby Money\)](https://open.spotify.com/album/5hg0NN87i3dGPpVQFOoN9f) | 2:10 | 2023-01-27 | 2023-04-27 |
 | [Everyday](https://open.spotify.com/track/1gkC2g8eAm84eJetaBaoJ1) | [Justin Credible](https://open.spotify.com/artist/1YY4eLmCC90sflG3VHn7Qy), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [Griff Tyler](https://open.spotify.com/artist/6haDJLArD4GA9AF3YM2EVS) | [Everyday](https://open.spotify.com/album/4Lzqq49mlEG2Hcsy8KST6C) | 2:41 | 2022-10-28 | 2022-11-05 |
 | [Everything](https://open.spotify.com/track/0S7UB8za4I1YMGxVVamCeO) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN) | [Hot Shot: Gangsta Grillz](https://open.spotify.com/album/4rHF6VN1sUUjKHZu2rgVYG) | 2:18 | 2023-03-10 |  |
 | [Face no Book](https://open.spotify.com/track/5LIIVNlJGqtFrfe9pl3Gw2) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Face no Book](https://open.spotify.com/album/0FFzC5WmgTApZK7RgJTPZw) | 2:25 | 2022-10-21 | 2023-01-06 |

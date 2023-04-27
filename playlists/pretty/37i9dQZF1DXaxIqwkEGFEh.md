@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Key Glock
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,166,526 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,166,640 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 47 | [Ex’s \(Phatnall Remix\) \(with Lil Durk\)](https://open.spotify.com/track/7M3h8JeDhIQIsdQdMrWohi) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Anyways, Life’s Great…Bonus Edition](https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf) | 3:17 |
 | 48 | [Work](https://open.spotify.com/track/5a72KEfxqoMjzI0sv1By3w) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Work](https://open.spotify.com/album/7mUeXlK3dvFRbkUgzXHSH1) | 2:22 |
 | 49 | [UNDEFEATED](https://open.spotify.com/track/4HGiXPr1kAN40W8kfbtDMc) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:45 |
-| 50 | [FREE ALL THE LIFERS](https://open.spotify.com/track/14VCg6XYSFYiw1O2NG0wgG) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [FREE ALL THE LIFERS](https://open.spotify.com/album/6rT8yJzXMH35nnkbOXdUKD) | 2:18 |
+| 50 | [FREE ALL THE LIFERS](https://open.spotify.com/track/6YepRSEszLQ8qURJHpNQkK) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Kollect Kall](https://open.spotify.com/album/1l93oDZaNAsTF0GqsRa3m0) | 2:18 |
 | 51 | [I Remember \(feat\. Roddy Ricch & Kodak Black\)](https://open.spotify.com/track/7qAwnjc2qPbpK1gB4VRwXW) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [I Remember \(feat\. Roddy Ricch & Kodak Black\)](https://open.spotify.com/album/3uAsKIks1rWzarn1anRo4K) | 2:53 |
 | 52 | [Supposed To](https://open.spotify.com/track/2xBNSlEpC2Zih9ubKv4H4h) | [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [Supposed To](https://open.spotify.com/album/616PlRCScn8V9HqgQsyQFy) | 2:24 |
 | 53 | [Don't Play With It \(feat\. Latto & Yung Miami\) \- Remix](https://open.spotify.com/track/7rl489EKnUgITmkBd6P9zi) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [Don't Play With It \(feat\. Latto & Yung Miami\) \[Remix\]](https://open.spotify.com/album/6sNVQhQKsiqqxybu2qjpLC) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [Just Getting By](https://open.spotify.com/track/1PoBUMid74DdWs6CzlM2oL) | [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX) | [Never On Time](https://open.spotify.com/album/7ahn5M0aOm7w6vrgK8IIJq) | 2:44 |
 | 100 | [Up On Us](https://open.spotify.com/track/2SPa91MdtTxBJy85uarkli) | [Lil Nuu](https://open.spotify.com/artist/4BcULtFSsSVrAC5TbjPHWE) | [Up On Us](https://open.spotify.com/album/48oT4RYXR1aCWxpvBb04vP) | 2:59 |
 
-Snapshot ID: `MTY4MjEwNTMzNywwMDAwMDAwMGQ1YmNjNDdlYzlmYmVmZjhmZDQ5NzMwMWVmMzQyMTgw`
+Snapshot ID: `MTY4MjEwNTMzNywwMDAwMDAwMDA0YzI4NmFmZGNiZTI5N2I4N2Q3Njk4YmNiMDBhMTg0`

@@ -4,7 +4,7 @@
 
 > The most innovative and forward thinking metal right now\. Cover: Static\-X
 
-166 songs - 11 hr 32 min
+167 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Dead World](https://open.spotify.com/track/3xafEn4vzr5HybW0uec4wS) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Dead World](https://open.spotify.com/album/3Fsmqpx2rM3ckv5ijsbDhF) | 4:01 | 2023-02-09 |  |
 | [Dear Diary,](https://open.spotify.com/track/3DW6GVr7RVyfvo4NBRvZIZ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 2:44 | 2022-11-18 |  |
 | [Demon Supreme](https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Demon Supreme](https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB) | 3:31 | 2022-03-03 |  |
+| [Diazepam](https://open.spotify.com/track/2I2lcRhPdvzfpC8Q3Eb6uO) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Downer](https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5) | 2:33 | 2022-11-18 |  |
 | [Diazepam](https://open.spotify.com/track/34QE6KRYpX1GCnbhJ4Hqhx) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Diazepam](https://open.spotify.com/album/6xHOXbrRQUov5zitOkoSfy) | 2:36 | 2022-11-18 | 2023-04-24 |
 | [Diazepam](https://open.spotify.com/track/3oxADKwqZ04fNO9diMkBPA) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Diazepam](https://open.spotify.com/album/78Y3ftBNEZh5mBxae2SOFH) | 2:36 | 2021-12-20 | 2022-11-20 |
 | [Distress \- Radio Edit](https://open.spotify.com/track/63kHwwcvbylF6ERkBqPdl7) | [Pijn](https://open.spotify.com/artist/088AzItIc1cw6IsZWCyLvw) | [Distress](https://open.spotify.com/album/5bLEndlyQCpdrERgPFfQeg) | 4:27 | 2021-12-20 | 2022-03-04 |
@@ -97,7 +98,7 @@
 | [Into The Void \- Single Edit](https://open.spotify.com/track/7wrnCfwFrQtfj3JRl4c0uy) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Into The Void](https://open.spotify.com/album/4NJtkDQbFepS3gzXRNCTwL) | 3:30 | 2021-12-20 |  |
 | [Intoxicated](https://open.spotify.com/track/6KHeDBooGJzetzvqvttq24) | [ALESTI](https://open.spotify.com/artist/7xrxYdkeO8JiGJ5Goiwh7J), [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [Intoxicated](https://open.spotify.com/album/385qWF7ljbjZNS6r9LCbZ6) | 3:03 | 2023-03-03 |  |
 | [KILL ALL PREDATORS](https://open.spotify.com/track/0mH0iiNINYULYFwszeqWnW) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf), [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [FAIRY PHONK](https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj) | 2:05 | 2022-11-18 |  |
-| [Kings Today](https://open.spotify.com/track/1uCNIM6XKraHMPUsWXYzCq) | [Sicksense](https://open.spotify.com/artist/7bVyQW5pkc3aF5Rq03ZQxc), [Vicky Psarakis](https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ) | [Kings Today](https://open.spotify.com/album/741N4FVAoLLzP11TWUhShI) | 3:55 | 2022-03-03 |  |
+| [Kings Today](https://open.spotify.com/track/1uCNIM6XKraHMPUsWXYzCq) | [Sicksense](https://open.spotify.com/artist/7bVyQW5pkc3aF5Rq03ZQxc), [Vicky Psarakis](https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ) | [Kings Today](https://open.spotify.com/album/741N4FVAoLLzP11TWUhShI) | 3:55 | 2022-03-03 | 2023-04-27 |
 | [Lakes of Flame](https://open.spotify.com/track/0PAR95bj6egxPtdzMkgFEU) | [Blue Stahli](https://open.spotify.com/artist/4DWnSG0RYPAds8EIKY26q3) | [Lakes of Flame](https://open.spotify.com/album/5A4ZdUmMA5vY0DAjvKWqHk) | 3:38 | 2021-12-20 | 2022-03-04 |
 | [Life in Remission](https://open.spotify.com/track/0kVQ33i1yh6uNwcjmtvaXQ) | [Uniform](https://open.spotify.com/artist/3TaLdYu9rA6H364ROYMmvF) | [Shame](https://open.spotify.com/album/08Bn24wm4tgPDctxRQHlht) | 4:25 | 2021-12-20 | 2022-07-29 |
 | [Life in Remission](https://open.spotify.com/track/1SesZLUnN5MmcWZxt0h266) | [Uniform](https://open.spotify.com/artist/3TaLdYu9rA6H364ROYMmvF) | [Shame](https://open.spotify.com/album/39InzMYHw3UA6vqqFUIpmV) | 4:25 | 2022-07-26 | 2022-11-19 |

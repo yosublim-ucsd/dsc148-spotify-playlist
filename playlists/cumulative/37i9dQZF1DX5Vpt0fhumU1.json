@@ -848,6 +848,24 @@
     {
       "album": {
         "name": "Espiral",
+        "url": "https://open.spotify.com/album/04Lg6FQ96wvUTTDYMci77n"
+      },
+      "artists": [
+        {
+          "name": "La Jose",
+          "url": "https://open.spotify.com/artist/55o2GKmozOaWhYDBaFBPC2"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221240,
+      "name": "Creo",
+      "url": "https://open.spotify.com/track/1fJQeSf3Fqub3crz84vr59"
+    },
+    {
+      "album": {
+        "name": "Espiral",
         "url": "https://open.spotify.com/album/0ChzWpUTTbq6PRut9pQdSI"
       },
       "artists": [
@@ -858,7 +876,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 221240,
       "name": "Creo",
       "url": "https://open.spotify.com/track/3xLI0IZFsFPa2M18rOIPSV"

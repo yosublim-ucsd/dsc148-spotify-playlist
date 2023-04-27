@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,620 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,709 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 42 | [Love is a personal thing](https://open.spotify.com/track/0e21dU60bjeKeOntw8Pg1O) | [Rayons](https://open.spotify.com/artist/1AVhlGtQyoDC58vaUh2mKf) | [After the noise is gone](https://open.spotify.com/album/2ZUgmYcuQF8DXDTs88NK58) | 3:13 |
 | 43 | [Light Dance](https://open.spotify.com/track/1dNUfu1M6X6qdb5PTRq1tF) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [How My Heart Sings](https://open.spotify.com/album/4d8ZRppxf7DKl8spE3qbbg) | 4:49 |
 | 44 | [kokyu](https://open.spotify.com/track/5bUpCPlgvF9gW0FKQT6Oy3) | [Teruyuki Nobuchika](https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM) | [Sonorite](https://open.spotify.com/album/4faTpoJmxjd59tAvoxsCi8) | 7:53 |
-| 45 | [a beautiful day](https://open.spotify.com/track/3noxajjedyBfsd5eXjBwxC) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [heavenly tone](https://open.spotify.com/album/3gobeqbi2tgEkElXQ77c9k) | 4:56 |
-| 46 | [Blue](https://open.spotify.com/track/2riD9ftmTbvDyVCvTxMOxR) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Low Power](https://open.spotify.com/album/0Ht3fMdVTqXLXsBbuTpkTl) | 3:59 |
+| 45 | [Blue](https://open.spotify.com/track/2riD9ftmTbvDyVCvTxMOxR) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Low Power](https://open.spotify.com/album/0Ht3fMdVTqXLXsBbuTpkTl) | 3:59 |
+| 46 | [a beautiful day](https://open.spotify.com/track/3noxajjedyBfsd5eXjBwxC) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [heavenly tone](https://open.spotify.com/album/3gobeqbi2tgEkElXQ77c9k) | 4:56 |
 | 47 | [Haru](https://open.spotify.com/track/1UYQz9iqSCdLNc9UVkJo0o) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Cendre](https://open.spotify.com/album/6Ug9IHC7kmelugY2t0MMQe) | 4:39 |
-| 48 | [Pierrepont](https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Pierrepont](https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR) | 4:30 |
-| 49 | [One Day](https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 1:43 |
+| 48 | [One Day](https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 1:43 |
+| 49 | [Pierrepont](https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Pierrepont](https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR) | 4:30 |
 | 50 | [Going To The Sea](https://open.spotify.com/track/2e9PA5stDJoLkcLWN3KVCI) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [万引き家族「オリジナル・サウンドトラック」](https://open.spotify.com/album/5aWso14zYECQPkvEU5ENkQ) | 1:37 |
 
-Snapshot ID: `MTY4MjAwMjgwMCwwMDAwMDAwMGIyOWQ1OGJkMWZhYWEyODkwODZiMDgyZTk1MzM0NjRm`
+Snapshot ID: `MTY4MjAwMjgwMCwwMDAwMDAwMDM2ZTQ3NzgwZTBmNjVhYTlkMTdjMjI3MGIzYmU2NzE3`

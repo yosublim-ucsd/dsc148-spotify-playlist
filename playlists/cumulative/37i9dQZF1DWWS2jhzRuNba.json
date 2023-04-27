@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 217692,
       "name": "Kokomo",
       "url": "https://open.spotify.com/track/5qHYXcVvc9xsFB2uH7GpMN"
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 217786,
       "name": "Kokomo",
       "url": "https://open.spotify.com/track/7B22szTT8omMRmpQw6DMqV"
@@ -2194,10 +2194,28 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 195873,
       "name": "The Spins",
       "url": "https://open.spotify.com/track/7BcOUi4FQ3wBLmNTW0yfCR"
+    },
+    {
+      "album": {
+        "name": "K.I.D.S. (Deluxe)",
+        "url": "https://open.spotify.com/album/6TFm9KGW7Lbxrl2Zsg4X9R"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195873,
+      "name": "The Spins",
+      "url": "https://open.spotify.com/track/7FAFkQQZFeNwOFzTrSDFIh"
     },
     {
       "album": {

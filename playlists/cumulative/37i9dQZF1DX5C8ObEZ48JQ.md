@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE?si=qLEHAAUzSmGMCF2TXtKmMA"> YKB </a>\. Artwork: Isu Kim.
 
-360 songs - 18 hr 28 min
+361 songs - 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Benzo](https://open.spotify.com/track/3hPcNThRzQXeAKEAENbigw) | [Malcolm Nuna](https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT) | [Benzo](https://open.spotify.com/album/0Aci22BAMAs616RwXIVSk1) | 2:47 | 2023-03-05 | 2023-03-10 |
 | [Better days](https://open.spotify.com/track/61sCbqXhobgbwnaLGvBW91) | [Billyboi](https://open.spotify.com/artist/6qx9kEpDSaiKyXcFSV2g6t) | [Better days](https://open.spotify.com/album/6Z7AucZAC72czdSv14Vycb) | 2:58 | 2023-02-22 | 2023-03-30 |
 | [Better For Myself](https://open.spotify.com/track/1j1se94FWAUADZDggJrmSM) | [Hillzy](https://open.spotify.com/artist/6Ju1F5ODvbjdh2yEQKxkta) | [In The Building](https://open.spotify.com/album/6XR7ZNhn4UNak3fXRJ02uq) | 2:37 | 2023-01-25 | 2023-02-23 |
-| [Bezos](https://open.spotify.com/track/3CL2wSAoigecJkzBLJJyjs) | [Dboi](https://open.spotify.com/artist/0Hm8XNele8yJjZXq2A0nh8) | [Bezos](https://open.spotify.com/album/0HWeesVXBwp4q78Ow2RFpx) | 2:48 | 2023-03-29 |  |
+| [Bezos](https://open.spotify.com/track/1NAXHOcE8EWudM0WO4D77I) | [Dboi](https://open.spotify.com/artist/0Hm8XNele8yJjZXq2A0nh8) | [Bezos](https://open.spotify.com/album/6QyMp5NklVWVcQRIwKKq49) | 2:48 | 2023-03-29 |  |
+| [Bezos](https://open.spotify.com/track/3CL2wSAoigecJkzBLJJyjs) | [Dboi](https://open.spotify.com/artist/0Hm8XNele8yJjZXq2A0nh8) | [Bezos](https://open.spotify.com/album/0HWeesVXBwp4q78Ow2RFpx) | 2:48 | 2023-03-29 | 2023-04-27 |
 | [Bigger than you've ever seen](https://open.spotify.com/track/7eRK5IIC2tPkDowRVJHMiY) | [JJ PAULO](https://open.spotify.com/artist/6qz66TzT4aoNkudjDofqfm) | [Bigger than you've ever seen](https://open.spotify.com/album/6nCyPE2tjx1b9gPfNMvIfO) | 3:01 | 2023-01-25 | 2023-02-23 |
 | [Billing](https://open.spotify.com/track/5Uf7FM6gBCvAp8NRXEeghY) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Billing](https://open.spotify.com/album/453klLTlEAFDEBFvJiR3Xw) | 2:45 | 2022-09-30 | 2022-10-29 |
 | [Birds](https://open.spotify.com/track/7hFsvnTrHLCi54hukoY4S4) | [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ), [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [Birds](https://open.spotify.com/album/4TH0gK1EhfqKxS2VNfgYYg) | 2:06 | 2023-03-29 |  |

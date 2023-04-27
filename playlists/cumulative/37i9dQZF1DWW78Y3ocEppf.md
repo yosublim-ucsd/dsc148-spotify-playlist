@@ -4,7 +4,7 @@
 
 > Let the songs speak\. Cover: DRAM
 
-473 songs - 1 day 1 hr 4 min
+474 songs - 1 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,7 +409,8 @@
 | [Sunset Eyes](https://open.spotify.com/track/43JDDAnJu7fyNToaRUsjGH) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Based On A Feeling](https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2) | 2:26 | 2022-05-06 | 2022-07-27 |
 | [Swerve](https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Eimaral Sol](https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH) | [Swerve](https://open.spotify.com/album/4bwRO6SKUjysjbdYZz2f8u) | 3:19 | 2023-03-03 |  |
 | [Take It Back](https://open.spotify.com/track/3UJ8XNSmK5MKkIVsZPMMh7) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT) | [Take It Back](https://open.spotify.com/album/41lbIMunApS8mpyLtUW81W) | 3:18 | 2022-03-25 | 2022-07-15 |
-| [Talkback](https://open.spotify.com/track/7o3fWwXCehCmRya4TBvqpe) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Talkback](https://open.spotify.com/album/5MNz65f0S30Ev8AGVdFI5I) | 3:04 | 2023-03-10 |  |
+| [Talkback](https://open.spotify.com/track/616rALOBxvc3bbp38iiud5) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:04 | 2023-03-10 |  |
+| [Talkback](https://open.spotify.com/track/7o3fWwXCehCmRya4TBvqpe) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Talkback](https://open.spotify.com/album/5MNz65f0S30Ev8AGVdFI5I) | 3:04 | 2023-03-10 | 2023-04-27 |
 | [Talkin](https://open.spotify.com/track/0u1VMv2aVqY1AC9qkCdZUH) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [Talkin](https://open.spotify.com/album/3nHJDlDfY5j2jTbfyzAmQs) | 1:55 | 2022-09-16 | 2022-10-15 |
 | [Tell Me](https://open.spotify.com/track/627yvru8268y11clOwn3f4) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Tell Me](https://open.spotify.com/album/6533zPPlpWV1bfbToZdD4c) | 3:24 | 2022-11-11 | 2023-03-18 |
 | [Tell Me It's Over \(feat\. Summer Walker & 6LACK\)](https://open.spotify.com/track/47ssddfj7Ug6hO9Ol2AXGu) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Tell Me It's Over](https://open.spotify.com/album/2VgQZ6hNhTXWaZdNbuULe3) | 4:41 | 2022-12-16 |  |

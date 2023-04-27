@@ -1,13 +1,29 @@
 {
   "description": "The best indie rock vibes \u2014 classic and current. ",
-  "num_followers": 1918883,
+  "num_followers": 1919453,
   "original_name": "Feel-Good Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDExZWUyMTllYWMxZjYwNzdlM2RlODkwN2ZhYmU2YmRi",
+  "snapshot_id": "MTY4MjUzMjA5OCwwMDAwMDAwMGI3M2JkMTg2YzZmYzYwN2ZjNmUyOGQ4ZTkxMWZmNWVh",
   "tracks": [
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 216320,
+      "name": "The Less I Know The Better",
+      "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
+    },
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
@@ -23,6 +39,38 @@
       "duration_ms": 213573,
       "name": "Hell N Back",
       "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Next Exit",
+        "url": "https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Next Exit",
+      "url": "https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "WHO CARES?",
+        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 181506,
+      "name": "THE SHADE",
+      "url": "https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -47,34 +95,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "WHO CARES?",
-        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
       },
       "artists": [
         {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+          "name": "B\u00d8RNS",
+          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
         }
       ],
-      "duration_ms": 181506,
-      "name": "THE SHADE",
-      "url": "https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Hello, All!",
-        "url": "https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 203853,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq"
+      "duration_ms": 218106,
+      "name": "Electric Love",
+      "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -95,54 +127,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Out Of My League",
-        "url": "https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 181135,
-      "name": "Out Of My League",
-      "url": "https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
-      },
-      "artists": [
-        {
-          "name": "B\u00d8RNS",
-          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
-        }
-      ],
-      "duration_ms": 218106,
-      "name": "Electric Love",
-      "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Next Exit",
-        "url": "https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Next Exit",
-      "url": "https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Walking On A Dream (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 198440,
       "name": "Walking On A Dream",
       "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Out Of My League",
+        "url": "https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 181135,
+      "name": "Out Of My League",
+      "url": "https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Currents",
-        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 216320,
-      "name": "The Less I Know The Better",
-      "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Woodstock",
         "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
@@ -323,22 +307,6 @@
       "duration_ms": 163253,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "American Blood",
-        "url": "https://open.spotify.com/album/1OODGHbK7jXyjIDRkL7f3g"
-      },
-      "artists": [
-        {
-          "name": "Passion Pit",
-          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
-        }
-      ],
-      "duration_ms": 262840,
-      "name": "American Blood",
-      "url": "https://open.spotify.com/track/6eZEK9AIRG5p2xuB8aNU9V"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -359,18 +327,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D"
+        "name": "American Blood",
+        "url": "https://open.spotify.com/album/1OODGHbK7jXyjIDRkL7f3g"
       },
       "artists": [
         {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+          "name": "Passion Pit",
+          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
         }
       ],
-      "duration_ms": 183852,
-      "name": "Horizons",
-      "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
+      "duration_ms": 262840,
+      "name": "American Blood",
+      "url": "https://open.spotify.com/track/6eZEK9AIRG5p2xuB8aNU9V"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -387,6 +355,22 @@
       "duration_ms": 234800,
       "name": "Where'd All the Time Go?",
       "url": "https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 183852,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -619,22 +603,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 227080,
-      "name": "Breezeblocks",
-      "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Tourist History",
         "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
       },
@@ -647,6 +615,22 @@
       "duration_ms": 191706,
       "name": "What You Know",
       "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 227080,
+      "name": "Breezeblocks",
+      "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -903,6 +887,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "My Type EP",
+        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 204811,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Jinx",
         "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
       },
@@ -931,22 +931,6 @@
       "duration_ms": 193106,
       "name": "1901",
       "url": "https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "My Type EP",
-        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
-      },
-      "artists": [
-        {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 204811,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1243,22 +1227,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Starfucker",
-        "url": "https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ"
-      },
-      "artists": [
-        {
-          "name": "STRFKR",
-          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
-        }
-      ],
-      "duration_ms": 173693,
-      "name": "Rawnald Gregory Erickson the Second",
-      "url": "https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Ceremonials (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
       },
@@ -1271,6 +1239,22 @@
       "duration_ms": 277720,
       "name": "Shake It Out",
       "url": "https://open.spotify.com/track/4lY95OMGb9WxP6IYut64ir"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Starfucker",
+        "url": "https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ"
+      },
+      "artists": [
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        }
+      ],
+      "duration_ms": 173693,
+      "name": "Rawnald Gregory Erickson the Second",
+      "url": "https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1355,22 +1339,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Vampire Weekend",
-        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "Campus",
-      "url": "https://open.spotify.com/track/1eNrlXlW7Cj1QB1YUcZmpb"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Brazil",
         "url": "https://open.spotify.com/album/38qaYdCiewb6NrRvVxWTe4"
       },
@@ -1403,6 +1371,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Vampire Weekend",
+        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 176466,
+      "name": "Campus",
+      "url": "https://open.spotify.com/track/1eNrlXlW7Cj1QB1YUcZmpb"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Walk The Moon",
         "url": "https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 139146,
       "name": "im so happy",
       "url": "https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Hello, All!",
+        "url": "https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 203853,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "New Order T-Shirt",
-        "url": "https://open.spotify.com/album/2r3ZTexCYXDSGmTbcNyqmw"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "New Order T-Shirt",
-      "url": "https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Sure Sure",
         "url": "https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 219260,
       "name": "This Must Be The Place",
       "url": "https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "New Order T-Shirt",
+        "url": "https://open.spotify.com/album/2r3ZTexCYXDSGmTbcNyqmw"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "New Order T-Shirt",
+      "url": "https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "adios",
-        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 203502,
-      "name": "adios",
-      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Glitterbug (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 209557,
       "name": "Greek Tragedy",
       "url": "https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "adios",
+        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 203502,
+      "name": "adios",
+      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/7LPsBxxixuOPJl7grf3PX3"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 262736,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/7oJmIBxEAYjfkS7lhZ7M1S"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Happiness in Liquid Form",
         "url": "https://open.spotify.com/album/4ljntV811kHlKHhtIctvcG"
       },
@@ -1887,22 +1903,6 @@
       "duration_ms": 193165,
       "name": "Things I Thought Were Mine",
       "url": "https://open.spotify.com/track/0Y8OIyvMvyTpEUhfLupDoh"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 120808,
-      "name": "Gloom",
-      "url": "https://open.spotify.com/track/6L8JVXMBLDZeyhBKr0lrj8"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1923,18 +1923,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 221000,
-      "name": "Too Good",
-      "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
+      "duration_ms": 120808,
+      "name": "Gloom",
+      "url": "https://open.spotify.com/track/6L8JVXMBLDZeyhBKr0lrj8"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/7LPsBxxixuOPJl7grf3PX3"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 262736,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/7oJmIBxEAYjfkS7lhZ7M1S"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Let's Remake It",
         "url": "https://open.spotify.com/album/79lXiYt8Hgd1eHr8sQcCsi"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 230786,
       "name": "Pretty Face",
       "url": "https://open.spotify.com/track/07tbYac108weqzeP7Bhwon"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
     }
   ],
   "unique_name": "Feel-Good Indie Rock",

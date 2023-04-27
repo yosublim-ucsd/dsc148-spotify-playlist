@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > A collection of powerful voices and alluring siren songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,628 likes - 70 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,707 likes - 70 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 41 | [Banshee](https://open.spotify.com/track/3GmYxpXRc62mj4SuJ4WEsl) | [Kendra Morris](https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk) | [Banshee](https://open.spotify.com/album/3dWQ2TtlpW3crGadeOldHe) | 3:46 |
 | 42 | [Beside Myself](https://open.spotify.com/track/4qVLEVLK2bbNHBKBuE8JZ3) | [Hesta Prynn](https://open.spotify.com/artist/1Ng8y6ZAaf4gS3ywP851bV) | [We Could Fall In Love](https://open.spotify.com/album/0IGGMUU4aXkCm0TYIsPiUh) | 3:55 |
 | 43 | [Dark River](https://open.spotify.com/track/34Kfv0tlD4bbv3f1Hvau79) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Dark River](https://open.spotify.com/album/0YsriZcAj8N6y89yav2GXl) | 3:24 |
-| 44 | [I Can't Get You off My Mind](https://open.spotify.com/track/5qPXqpZVru4pCLQxgbWroq) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Beats & Bruises](https://open.spotify.com/album/260d1HkI8y9xuirJ3OIKvP) | 3:55 |
-| 45 | [Moonrise](https://open.spotify.com/track/5NcrIQBZQDI5ngzOU06S54) | [Anne Buckle](https://open.spotify.com/artist/3Lzf1IWlT9sawIHyxBj89V) | [Moonrise](https://open.spotify.com/album/3xdz6wjuFKBPjCWoj0W7Dh) | 3:43 |
+| 44 | [Moonrise](https://open.spotify.com/track/5NcrIQBZQDI5ngzOU06S54) | [Anne Buckle](https://open.spotify.com/artist/3Lzf1IWlT9sawIHyxBj89V) | [Moonrise](https://open.spotify.com/album/3xdz6wjuFKBPjCWoj0W7Dh) | 3:43 |
+| 45 | [I Can't Get You off My Mind](https://open.spotify.com/track/5qPXqpZVru4pCLQxgbWroq) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Beats & Bruises](https://open.spotify.com/album/260d1HkI8y9xuirJ3OIKvP) | 3:55 |
 | 46 | [Name on a Matchbook](https://open.spotify.com/track/2KaLy2FmUAGLfNsoMXJWVj) | [Springtime Carnivore](https://open.spotify.com/artist/0EikLJdrz7f8ocaHztUO0S) | [Springtime Carnivore](https://open.spotify.com/album/4wCFY76jpnOHeQ0VAcpPoO) | 4:16 |
 | 47 | [Serious Love](https://open.spotify.com/track/5QPXi2dKDMQIpgDHxHODFt) | [Anya Marina](https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEvx5n) | [Serious Love](https://open.spotify.com/album/3Bfuqp7jMJ6lxrh5ZfVS3I) | 4:13 |
 | 48 | [Let You Let Me Down](https://open.spotify.com/track/7KK4Fhe0GpGIQk2QqWWYaG) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Lighter](https://open.spotify.com/album/73zETkOw0tap79gXPZGS7a) | 3:07 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 51 | [Want](https://open.spotify.com/track/7BVRDaghQHyDqtRdjdMTsu) | [Kelsey Waters](https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT) | [Want](https://open.spotify.com/album/0QrNnavvkoA9dehE8N3sSQ) | 2:50 |
 | 52 | [Glass Piano](https://open.spotify.com/track/4Rz3FamBRVJ6s1d0B0XGJ4) | [Kathleen](https://open.spotify.com/artist/6UqUYZ8pMGiYhuyIcsH61y) | [Kathleen II](https://open.spotify.com/album/53i39sp8XOhqNPZ9q7reFG) | 3:25 |
 | 53 | [The Dark](https://open.spotify.com/track/14e2jOLYQO9xPLqQKU9dCW) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [The Dark](https://open.spotify.com/album/3SA0R1i0Edc7JOvvhqni06) | 3:01 |
-| 54 | [Torture](https://open.spotify.com/track/55QFFGguYCPpOXQveiaEPA) | [Liz Longley](https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr) | [Torture](https://open.spotify.com/album/4YINaOhKmkGdBsrod5ipfN) | 3:02 |
-| 55 | [Master Hunter](https://open.spotify.com/track/2OqnctQz4VZpk8wcb9TPp4) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl) | 3:16 |
+| 54 | [Master Hunter](https://open.spotify.com/track/2OqnctQz4VZpk8wcb9TPp4) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl) | 3:16 |
+| 55 | [Torture](https://open.spotify.com/track/55QFFGguYCPpOXQveiaEPA) | [Liz Longley](https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr) | [Torture](https://open.spotify.com/album/4YINaOhKmkGdBsrod5ipfN) | 3:02 |
 | 56 | [Get Free](https://open.spotify.com/track/1gYOBTHkk0Fv6hU8eow6sZ) | [Whissell](https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh) | [Get Free](https://open.spotify.com/album/3VQvjeHddEgwcWWlPpYUIe) | 3:14 |
 | 57 | [The High Road](https://open.spotify.com/track/4pzFGh9NGkmnaZnFiTAoFb) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [The Soul Sessions, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/5zkhFfJEVeDAIZUMt5evAd) | 4:39 |
 | 58 | [Listen Up](https://open.spotify.com/track/1vtkAVGkmMckxrlbLEHhTx) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Goodnight Rhonda Lee](https://open.spotify.com/album/4RcpHyy4rL1RrB89Di3HrJ) | 3:10 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 69 | [Left With Someone Else](https://open.spotify.com/track/0qin3yx9CCpBxiZRAwSeGJ) | [Gabriella Cilmi](https://open.spotify.com/artist/5v2GEv1pQaCp6oeOQROdKE) | [The Sting](https://open.spotify.com/album/4BIAvFCoghxvGNnxDtBYZM) | 3:15 |
 | 70 | [Ghost](https://open.spotify.com/track/6UGhHbDZ76PqGR2C9pdWbb) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Human Again](https://open.spotify.com/album/3oFP50clZCAQy3bpI4vyNM) | 4:01 |
 
-Snapshot ID: `MTY3OTYzMDQwMCwwMDAwMDAwMDgzYmM2NGMxOTA0ZDBlN2Y0YjE4ZWJkN2QzZGI3ZmY4`
+Snapshot ID: `MTY3OTYzMDQwMCwwMDAwMDAwMDc0ZTBhZmZlOGQ5YmZjNjNhNGQwMTYyZTQwZWFjYjk3`

@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 41456,
+  "num_followers": 42217,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA4MzMzNSwwMDAwMDAwMGRjMjBlNzE2YzhhMGU5MmIxODlmMjJjNDQ1ZjVhMDdm",
+  "snapshot_id": "MTY4MjA4MzMzNSwwMDAwMDAwMGQwMzdmM2IxZGQ5NTA3MTI2Y2U0NDdhYjM1ZmY0YzIz",
   "tracks": [
     {
       "added_at": "2023-04-21 13:22:15",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-04-21 13:22:15",
       "album": {
-        "name": "Angel's Flight",
-        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "As Bright as the Night",
-      "url": "https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA"
-    },
-    {
-      "added_at": "2023-04-21 13:22:15",
-      "album": {
         "name": "hexa",
         "url": "https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 149333,
       "name": "hexa",
       "url": "https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP"
+    },
+    {
+      "added_at": "2023-04-21 13:22:15",
+      "album": {
+        "name": "Angel's Flight",
+        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "As Bright as the Night",
+      "url": "https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA"
     },
     {
       "added_at": "2023-04-21 13:22:15",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-04-21 13:22:15",
       "album": {
-        "name": "Murken Hollow",
-        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
-      },
-      "artists": [
-        {
-          "name": "Dead Melodies",
-          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
-        }
-      ],
-      "duration_ms": 363284,
-      "name": "All That's Left Behind",
-      "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
-    },
-    {
-      "added_at": "2023-04-21 13:22:15",
-      "album": {
         "name": "Arborescence",
         "url": "https://open.spotify.com/album/118CEJliIg47Jcr70y7Kww"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 405946,
       "name": "T\u00f3mi\u00f0 Titrar",
       "url": "https://open.spotify.com/track/5kAH14PxBaBrJCE4NDH3Ol"
+    },
+    {
+      "added_at": "2023-04-21 13:22:15",
+      "album": {
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
+      },
+      "artists": [
+        {
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
+        }
+      ],
+      "duration_ms": 363284,
+      "name": "All That's Left Behind",
+      "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
     },
     {
       "added_at": "2023-04-21 13:22:15",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-04-21 13:22:15",
       "album": {
-        "name": "Moments.",
-        "url": "https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t"
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
       },
       "artists": [
         {
-          "name": "Violet A. Foster",
-          "url": "https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi"
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
         }
       ],
-      "duration_ms": 291553,
-      "name": "Animism",
-      "url": "https://open.spotify.com/track/3rXugDRBIPMHUzLqxA0hg4"
+      "duration_ms": 417142,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
     }
   ],
   "unique_name": "gloomcore",

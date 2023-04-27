@@ -453,6 +453,28 @@
     },
     {
       "album": {
+        "name": "Blossom Rain",
+        "url": "https://open.spotify.com/album/6UG9ekyQC2vumMh3oMoKal"
+      },
+      "artists": [
+        {
+          "name": "soowoo",
+          "url": "https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo"
+        },
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173040,
+      "name": "Blossom Rain (Feat. NavyQuokka)",
+      "url": "https://open.spotify.com/track/3TSMeEDXeTfblDBHUyMffm"
+    },
+    {
+      "album": {
         "name": "BOBBIN",
         "url": "https://open.spotify.com/album/3NqyPRfB9A7ZlU12gkY3fc"
       },
@@ -1183,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/79WhBDFhzqBOvBvCgfiSYY"
+      },
+      "artists": [
+        {
+          "name": "OMEGA X",
+          "url": "https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231640,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/4fhlW2S6GLBVjjSHjUhCvt"
+    },
+    {
+      "album": {
         "name": "4U : OUTSIDE",
         "url": "https://open.spotify.com/album/6aS3GtElkkgThSwtC9usiA"
       },
@@ -1798,7 +1838,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 215880,
       "name": "Future",
       "url": "https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc"
@@ -1864,6 +1904,24 @@
       "duration_ms": 159973,
       "name": "Get Ya! (feat. pH-1)",
       "url": "https://open.spotify.com/track/4FPWDZRRREW99mWChTCyYr"
+    },
+    {
+      "album": {
+        "name": "LOVESTRUCK!",
+        "url": "https://open.spotify.com/album/06qoehc4xjI7IW9J8jQFEX"
+      },
+      "artists": [
+        {
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184240,
+      "name": "Giddy",
+      "url": "https://open.spotify.com/track/6blIAzkMKENKqAfMwj5cZQ"
     },
     {
       "album": {
@@ -2012,7 +2070,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 232226,
       "name": "Heaven's Cloud",
       "url": "https://open.spotify.com/track/2Q4D2Pz1HDt1x4NukBID5Q"
@@ -2351,6 +2409,24 @@
     },
     {
       "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183853,
+      "name": "I AM",
+      "url": "https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM"
+    },
+    {
+      "album": {
         "name": "i i i",
         "url": "https://open.spotify.com/album/1aynZglhc3W0WizZ91duu3"
       },
@@ -2384,6 +2460,28 @@
       "duration_ms": 176000,
       "name": "I LOVE U",
       "url": "https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ"
+    },
+    {
+      "album": {
+        "name": "I Say Ya! You Say Yeah!",
+        "url": "https://open.spotify.com/album/2rhxerq7xqfJfN8zcp5FoN"
+      },
+      "artists": [
+        {
+          "name": "Yun DDanDDan",
+          "url": "https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt"
+        },
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230293,
+      "name": "I Say Ya! You Say Yeah! (feat. Kyoung Seo)",
+      "url": "https://open.spotify.com/track/7d68iDyOYs0Kg3wzrl5l5F"
     },
     {
       "album": {
@@ -2710,7 +2808,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 208040,
       "name": "Jam & Butterfly",
       "url": "https://open.spotify.com/track/5rZkRaL4AjykFgw49KULyo"
@@ -3183,6 +3281,28 @@
     },
     {
       "album": {
+        "name": "Maybe Love",
+        "url": "https://open.spotify.com/album/6qRcx0YZEneezi5FtwLiJN"
+      },
+      "artists": [
+        {
+          "name": "David Yong",
+          "url": "https://open.spotify.com/artist/057st5Jqv9uVqmX3Hsn8KY"
+        },
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200893,
+      "name": "Maybe Love (Feat. Moon Byul of MAMAMOO)",
+      "url": "https://open.spotify.com/track/2e9FxFUXA7aMG83FbtKGOv"
+    },
+    {
+      "album": {
         "name": "The Face of Summer \uc5ec\ub984\uc758 \ubbfc\ub0af",
         "url": "https://open.spotify.com/album/0e32YikNghPPNt0i4bzvgm"
       },
@@ -3248,7 +3368,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 236829,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/2zlgwqw8BLX2JGB76LIFeF"
@@ -3367,6 +3487,28 @@
     },
     {
       "album": {
+        "name": "Mute the Beat",
+        "url": "https://open.spotify.com/album/6xsZCtd7C6ujXAVYsE9ZcH"
+      },
+      "artists": [
+        {
+          "name": "Edge of Silence",
+          "url": "https://open.spotify.com/artist/4sjA20fiNs4PiloG2u5UIW"
+        },
+        {
+          "name": "Kyra Jun",
+          "url": "https://open.spotify.com/artist/6wAJ9octvz1QCu2zDWl4Ri"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Mute the Beat",
+      "url": "https://open.spotify.com/track/5W1FUdOaJ9Owq3Hab5BNrf"
+    },
+    {
+      "album": {
         "name": "My Beating Heart",
         "url": "https://open.spotify.com/album/3X6GJecRH4tNLHuaBQYYfd"
       },
@@ -3396,7 +3538,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 152880,
       "name": "My Light",
       "url": "https://open.spotify.com/track/1WKfJn8wUuUXBSVJBEytq0"
@@ -3436,6 +3578,28 @@
       "duration_ms": 203424,
       "name": "My Universe (Seungmin, I.N Feat. Changbin)",
       "url": "https://open.spotify.com/track/2PGhCLeiYBYU4xIAMHLpyA"
+    },
+    {
+      "album": {
+        "name": "NEVERLAND",
+        "url": "https://open.spotify.com/album/0iSfk04FiIx9rvmwajTH2c"
+      },
+      "artists": [
+        {
+          "name": "Tarin",
+          "url": "https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO"
+        },
+        {
+          "name": "LONG:D",
+          "url": "https://open.spotify.com/artist/621cB0IPX1hVgxnB6RqDz0"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158843,
+      "name": "NEVERLAND",
+      "url": "https://open.spotify.com/track/45qXjqndfiKQVPUmU1iBJi"
     },
     {
       "album": {
@@ -3602,6 +3766,24 @@
       "duration_ms": 218867,
       "name": "One and Only",
       "url": "https://open.spotify.com/track/2Pbapko02EeCLCk4pfCdhk"
+    },
+    {
+      "album": {
+        "name": "One Two Three",
+        "url": "https://open.spotify.com/album/1cMv6L495aMx4wNrtDQ7qZ"
+      },
+      "artists": [
+        {
+          "name": "Xydo",
+          "url": "https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184546,
+      "name": "One Two Three",
+      "url": "https://open.spotify.com/track/2X3mOHH1uGUV7XHl68ii0l"
     },
     {
       "album": {
@@ -3776,7 +3958,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 209338,
       "name": "Picnic (feat. Nohd & Baye)",
       "url": "https://open.spotify.com/track/6fK1gQxkJaJuNMnDCSPvyy"
@@ -4260,7 +4442,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 161072,
       "name": "Send Me Your Sign (feat. B JYUN.)",
       "url": "https://open.spotify.com/track/1KZf9I0BqRF5fY9b3hCiL6"
@@ -4350,7 +4532,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 186874,
       "name": "Shine",
       "url": "https://open.spotify.com/track/5WYgNDkw0VsDIZwfwQWlXp"
@@ -5420,7 +5602,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 214240,
       "name": "UP NO MORE",
       "url": "https://open.spotify.com/track/1LiNP5q2thWScdvCRkJ584"

@@ -4,14 +4,14 @@
 
 > Mohamed Ramadan & Skales :أحدث الأغاني المصرية اليوم🤩 الغلاف
 
-397 songs - 23 hr 7 min
+398 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [369](https://open.spotify.com/track/2OdI0PsoOfmYDpL82pa70r) | [Bushra](https://open.spotify.com/artist/2X14AwILJGdfg4YoiWOKra) | [369](https://open.spotify.com/album/3e2NSVt6UDn8J4stYPA5eT) | 4:08 | 2022-11-10 | 2023-01-27 |
 | [3ALA BALI](https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [3ALA BALI](https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON) | 2:42 | 2023-03-07 |  |
 | [3ala el e3ana](https://open.spotify.com/track/2MD1pRCriQPN6w7FyMcTYY) | [Kassar](https://open.spotify.com/artist/7gTOyOn5JD1cty9eWZvRjP) | [Msh Fahem Haga](https://open.spotify.com/album/7CPW65OAotETJipoKYrN6w) | 3:46 | 2023-03-16 |  |
-| [3amlt 5er](https://open.spotify.com/track/7zEyLmurfWk1i1MGrnOtH8) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [3amlt 5er](https://open.spotify.com/album/2906UsdxF63k38NfKXMnjA) | 3:55 | 2023-02-23 |  |
+| [3amlt 5er](https://open.spotify.com/track/7zEyLmurfWk1i1MGrnOtH8) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [3amlt 5er](https://open.spotify.com/album/2906UsdxF63k38NfKXMnjA) | 3:55 | 2023-02-23 | 2023-04-27 |
 | [3asal Ya Nas](https://open.spotify.com/track/6N7OyyrRQRMiVaUzDh9RiP) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [3asal Ya Nas](https://open.spotify.com/album/4PukzqTnEoXMAd2VwEooNb) | 3:04 | 2022-12-31 | 2023-02-17 |
 | [3elw El Sama](https://open.spotify.com/track/4KvTa3HrkyNAqSFUwiv1vC) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [3elw El Sama](https://open.spotify.com/album/1v16p3Gp0B6wSc12RL3VAZ) | 2:22 | 2023-02-14 | 2023-04-05 |
 | [3ian](https://open.spotify.com/track/75s0cYrICLds4ADWnnmfS5) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [3ian](https://open.spotify.com/album/7kzXCUdoekQE4zfFycSa8Z) | 3:29 | 2022-01-20 | 2022-04-08 |
@@ -378,6 +378,7 @@
 | [كان ليا حبايب](https://open.spotify.com/track/6tQtyN6rNdsfjRNEC6bSNM) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [كان ليا حبايب](https://open.spotify.com/album/2rUngNOWjttCruLwgnEHUp) | 4:18 | 2023-02-16 | 2023-04-06 |
 | [كانت بتسهر](https://open.spotify.com/track/6i2yw9dhF9GPevIJxD3ewR) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [كانت بتسهر](https://open.spotify.com/album/33Rdd2BXryUUBUrrcAcJMY) | 3:30 | 2022-03-11 | 2022-07-08 |
 | [كلام كبار](https://open.spotify.com/track/3hOPWTX0f8Slj25cBdsZTG) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd), [Ahmed Amer](https://open.spotify.com/artist/30rRZEkK9ZECZDSV8bIkV0) | [كلام كبار](https://open.spotify.com/album/4EJnHL42dS4JXcda5oFIIn) | 4:36 | 2023-02-09 | 2023-03-28 |
+| [لحظة بعادك](https://open.spotify.com/track/7bsE3mQpFJPdIFXLmlJxRt) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [لحظة بعادك](https://open.spotify.com/album/5ZzAowICKjKwUrWMz8nxPd) | 3:41 | 2023-04-26 |  |
 | [لما تحس](https://open.spotify.com/track/5gTOE3Z7sTgN26AQo15cjU) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [لما تحس](https://open.spotify.com/album/0PLVHSEYE7wjxQyrenVWT1) | 4:10 | 2021-12-23 | 2022-03-10 |
 | [لو تخاصمني](https://open.spotify.com/track/2ijApNHjp90HBYZLZKVCue) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [لو تخاصمني](https://open.spotify.com/album/5S17tuujr6lGt6Cmv0L4Ie) | 3:10 | 2022-11-08 | 2023-01-21 |
 | [ليه خسرتك](https://open.spotify.com/track/4mqAEhjGpFZRTi1DnRBlvA) | [Mohamed Kammah](https://open.spotify.com/artist/15TITDp3RoYMiYhnE3ccmM) | [ليه خسرتك](https://open.spotify.com/album/00s1ad6SOrgQc97aLd3eju) | 2:28 | 2023-01-26 | 2023-03-08 |

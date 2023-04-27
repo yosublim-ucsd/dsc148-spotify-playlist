@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 69669,
+  "num_followers": 69741,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzkwMzE1NSwwMDAwMDAwMDMyZTAxNmM5MTM5YzZkOWEzYTBmNmE2ZDY3ODNlODg3",
+  "snapshot_id": "MTY3MzkwMzE1NSwwMDAwMDAwMDA1YzhjOWFmY2JiMjM2ZmJiNzgwMmFiMjEwNDc3Njkz",
   "tracks": [
     {
       "added_at": "2023-01-16 21:05:55",
@@ -207,22 +207,18 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "TajMo",
-        "url": "https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX"
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
       },
       "artists": [
         {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        },
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 268346,
-      "name": "Diving Duck Blues",
-      "url": "https://open.spotify.com/track/0hK8IwYBQwGbTgd7C5XyRZ"
+      "duration_ms": 162933,
+      "name": "I Can't Be Satisfied",
+      "url": "https://open.spotify.com/track/7FDFtgdyzlBN0tUo3boGZe"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -243,18 +239,22 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+        "name": "TajMo",
+        "url": "https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX"
       },
       "artists": [
         {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
         }
       ],
-      "duration_ms": 162933,
-      "name": "I Can't Be Satisfied",
-      "url": "https://open.spotify.com/track/7FDFtgdyzlBN0tUo3boGZe"
+      "duration_ms": 268346,
+      "name": "Diving Duck Blues",
+      "url": "https://open.spotify.com/track/0hK8IwYBQwGbTgd7C5XyRZ"
     },
     {
       "added_at": "2023-01-16 21:05:55",

@@ -429,6 +429,28 @@
     },
     {
       "album": {
+        "name": "S\u00f3lo D\u2019Lira",
+        "url": "https://open.spotify.com/album/2MTZC4iUhirPNczmmKPjTT"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        },
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234416,
+      "name": "Money In The Bank",
+      "url": "https://open.spotify.com/track/2X68b1UFH15ozldcKW4AeF"
+    },
+    {
+      "album": {
         "name": "MUGRE",
         "url": "https://open.spotify.com/album/76U5G9L3YaFDkKGYXfl1Zb"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Mighty Poplar",
-  "num_followers": 120358,
+  "num_followers": 120403,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjEwNjc2NiwwMDAwMDAwMDQwN2RiZDQ5ODFhNmM1Y2U2NWM5ZmEyYzAyNzA0MGNm",
+  "snapshot_id": "MTY4MjEwNjc2NiwwMDAwMDAwMGUzZTkwYzBlZDE5ZTA2MjdmZjQ0YTgyMjg0YThiOWJh",
   "tracks": [
     {
       "added_at": "2023-04-21 19:52:46",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
-        "name": "Down the Road",
-        "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "Down the Road",
-      "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
-    },
-    {
-      "added_at": "2023-04-21 19:52:46",
-      "album": {
         "name": "A Dotted Line",
         "url": "https://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
+        "name": "Down the Road",
+        "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Down the Road",
+      "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
+    },
+    {
+      "added_at": "2023-04-21 19:52:46",
+      "album": {
         "name": "In The Morning Light",
         "url": "https://open.spotify.com/album/1SpVLRagMwmLmP4KwnINWr"
       },
@@ -887,6 +887,22 @@
       "duration_ms": 282480,
       "name": "In The Morning Light",
       "url": "https://open.spotify.com/track/7JjkNKImotm0EnATDEmnGu"
+    },
+    {
+      "added_at": "2023-04-21 19:52:46",
+      "album": {
+        "name": "Life Is Good on the Open Road",
+        "url": "https://open.spotify.com/album/2U6ejoIDreiVA6Tt0ITxRh"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "duration_ms": 268413,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/2aku9CbppMvVCbuDe4scTB"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -939,6 +955,22 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
+        "name": "Heartbreak Train",
+        "url": "https://open.spotify.com/album/3eUKVLMOhOOLvyvffz7vY0"
+      },
+      "artists": [
+        {
+          "name": "Caroline Owens",
+          "url": "https://open.spotify.com/artist/5cz6yza4UO8jUweDYxKakE"
+        }
+      ],
+      "duration_ms": 160471,
+      "name": "Heartbreak Train",
+      "url": "https://open.spotify.com/track/205hhygYfVJ4gUXu54lUyQ"
+    },
+    {
+      "added_at": "2023-04-21 19:52:46",
+      "album": {
         "name": "Echo In The Valley",
         "url": "https://open.spotify.com/album/4go0nUSCyfDJGPnN33FWhe"
       },
@@ -959,22 +991,6 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
-        "name": "Heartbreak Train",
-        "url": "https://open.spotify.com/album/3eUKVLMOhOOLvyvffz7vY0"
-      },
-      "artists": [
-        {
-          "name": "Caroline Owens",
-          "url": "https://open.spotify.com/artist/5cz6yza4UO8jUweDYxKakE"
-        }
-      ],
-      "duration_ms": 160471,
-      "name": "Heartbreak Train",
-      "url": "https://open.spotify.com/track/205hhygYfVJ4gUXu54lUyQ"
-    },
-    {
-      "added_at": "2023-04-21 19:52:46",
-      "album": {
         "name": "Storyman",
         "url": "https://open.spotify.com/album/25F6ItCZFGZ79LvZVhlDIm"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 211160,
       "name": "Play By Your Own Rules",
       "url": "https://open.spotify.com/track/1ckFSTIyJECBMf9PX0Ezhc"
-    },
-    {
-      "added_at": "2023-04-21 19:52:46",
-      "album": {
-        "name": "Life Is Good on the Open Road",
-        "url": "https://open.spotify.com/album/2U6ejoIDreiVA6Tt0ITxRh"
-      },
-      "artists": [
-        {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
-        }
-      ],
-      "duration_ms": 268413,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/2aku9CbppMvVCbuDe4scTB"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -1023,38 +1023,6 @@
       "duration_ms": 249000,
       "name": "Harder Than Steel",
       "url": "https://open.spotify.com/track/03xIPbTIXnqTJnElXpDYjY"
-    },
-    {
-      "added_at": "2023-04-21 19:52:46",
-      "album": {
-        "name": "Roller Coaster",
-        "url": "https://open.spotify.com/album/2t78M1HYDWaiBqU7bzrgeg"
-      },
-      "artists": [
-        {
-          "name": "Billy Gilman",
-          "url": "https://open.spotify.com/artist/6OqQbeNe7Pi7Zi7SNTi9ko"
-        }
-      ],
-      "duration_ms": 181573,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/1HtXFOJnsyKNIsFnk2MySA"
-    },
-    {
-      "added_at": "2023-04-21 19:52:46",
-      "album": {
-        "name": "Mount Royal",
-        "url": "https://open.spotify.com/album/795pGXIkCO2lS7aNZ2joI0"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage & Chris Eldridge",
-          "url": "https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf"
-        }
-      ],
-      "duration_ms": 182293,
-      "name": "Greener Grass",
-      "url": "https://open.spotify.com/track/3ztXpLv0VLCcuqRVz0das3"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -1087,6 +1055,38 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
+        "name": "Mount Royal",
+        "url": "https://open.spotify.com/album/795pGXIkCO2lS7aNZ2joI0"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage & Chris Eldridge",
+          "url": "https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf"
+        }
+      ],
+      "duration_ms": 182293,
+      "name": "Greener Grass",
+      "url": "https://open.spotify.com/track/3ztXpLv0VLCcuqRVz0das3"
+    },
+    {
+      "added_at": "2023-04-21 19:52:46",
+      "album": {
+        "name": "Roller Coaster",
+        "url": "https://open.spotify.com/album/2t78M1HYDWaiBqU7bzrgeg"
+      },
+      "artists": [
+        {
+          "name": "Billy Gilman",
+          "url": "https://open.spotify.com/artist/6OqQbeNe7Pi7Zi7SNTi9ko"
+        }
+      ],
+      "duration_ms": 181573,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/1HtXFOJnsyKNIsFnk2MySA"
+    },
+    {
+      "added_at": "2023-04-21 19:52:46",
+      "album": {
         "name": "White Freight Liner Blues (feat. Molly Tuttle)",
         "url": "https://open.spotify.com/album/6x0ueS4GGofC8q79ryKbR4"
       },
@@ -1103,6 +1103,22 @@
       "duration_ms": 256000,
       "name": "White Freight Liner Blues (feat. Molly Tuttle)",
       "url": "https://open.spotify.com/track/4pIsyjHTDweaJDyQl6dMrd"
+    },
+    {
+      "added_at": "2023-04-21 19:52:46",
+      "album": {
+        "name": "Stress Dreams",
+        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        }
+      ],
+      "duration_ms": 281953,
+      "name": "Monument",
+      "url": "https://open.spotify.com/track/2Moh0ZPXOEn1yS19crNIFE"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -1139,22 +1155,6 @@
       "duration_ms": 216306,
       "name": "Railroad",
       "url": "https://open.spotify.com/track/5gdfUvZS4OdMA7BJtVG2tJ"
-    },
-    {
-      "added_at": "2023-04-21 19:52:46",
-      "album": {
-        "name": "Stress Dreams",
-        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
-      },
-      "artists": [
-        {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
-        }
-      ],
-      "duration_ms": 281953,
-      "name": "Monument",
-      "url": "https://open.spotify.com/track/2Moh0ZPXOEn1yS19crNIFE"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
+        "name": "Stress Dreams",
+        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        }
+      ],
+      "duration_ms": 481641,
+      "name": "Stress Dreams",
+      "url": "https://open.spotify.com/track/3cdT4Juf4LyAUXyk00SHtk"
+    },
+    {
+      "added_at": "2023-04-21 19:52:46",
+      "album": {
         "name": "Sidetrack My Engine",
         "url": "https://open.spotify.com/album/4J8nWVnRETkmTYA2023PCx"
       },
@@ -1251,38 +1267,6 @@
       "duration_ms": 190789,
       "name": "Don't Make Me Get up and Go",
       "url": "https://open.spotify.com/track/7dPMI5iIdwonksEYLSdsZY"
-    },
-    {
-      "added_at": "2023-04-21 19:52:46",
-      "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 178973,
-      "name": "Any Old Time",
-      "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
-    },
-    {
-      "added_at": "2023-04-21 19:52:46",
-      "album": {
-        "name": "Stress Dreams",
-        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
-      },
-      "artists": [
-        {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
-        }
-      ],
-      "duration_ms": 481641,
-      "name": "Stress Dreams",
-      "url": "https://open.spotify.com/track/3cdT4Juf4LyAUXyk00SHtk"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -1319,6 +1303,22 @@
       "duration_ms": 229120,
       "name": "The Seeker",
       "url": "https://open.spotify.com/track/2vIaCDb7ZVDCtcReCMthKP"
+    },
+    {
+      "added_at": "2023-04-21 19:52:46",
+      "album": {
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "Any Old Time",
+      "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
-        "name": "Odds of Getting Even",
-        "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb"
       },
       "artists": [
         {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
         }
       ],
-      "duration_ms": 195776,
-      "name": "Odds of Getting Even",
-      "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
+      "duration_ms": 139893,
+      "name": "Super Moon",
+      "url": "https://open.spotify.com/track/7a87b0XfUmeTYBrrjX50AH"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -1527,38 +1527,6 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
-        "name": "The More I Learn",
-        "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
-      },
-      "artists": [
-        {
-          "name": "Bryan Sutton",
-          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
-        }
-      ],
-      "duration_ms": 246853,
-      "name": "The More I Learn",
-      "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
-    },
-    {
-      "added_at": "2023-04-21 19:52:46",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 139893,
-      "name": "Super Moon",
-      "url": "https://open.spotify.com/track/7a87b0XfUmeTYBrrjX50AH"
-    },
-    {
-      "added_at": "2023-04-21 19:52:46",
-      "album": {
         "name": "Seasons Don't Change",
         "url": "https://open.spotify.com/album/0lH7Gzvl2yg8sEb1iWt8Sr"
       },
@@ -1575,6 +1543,22 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
+        "name": "Odds of Getting Even",
+        "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+        }
+      ],
+      "duration_ms": 195776,
+      "name": "Odds of Getting Even",
+      "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
+    },
+    {
+      "added_at": "2023-04-21 19:52:46",
+      "album": {
         "name": "North of Despair",
         "url": "https://open.spotify.com/album/2xxpKXejWa3mgMsSldOAtY"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 216229,
       "name": "Lies & Money",
       "url": "https://open.spotify.com/track/1e3OLCYKGvvWpTB7KsUPj3"
+    },
+    {
+      "added_at": "2023-04-21 19:52:46",
+      "album": {
+        "name": "The More I Learn",
+        "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
+      },
+      "artists": [
+        {
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+        }
+      ],
+      "duration_ms": 246853,
+      "name": "The More I Learn",
+      "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
-        "name": "Twisted Pine",
-        "url": "https://open.spotify.com/album/5kZPWAZ9ms0hRmgt9hpijv"
-      },
-      "artists": [
-        {
-          "name": "Twisted Pine",
-          "url": "https://open.spotify.com/artist/1hS8I57cnaheZpt7Tdn6ps"
-        }
-      ],
-      "duration_ms": 252428,
-      "name": "When I Called Your Name",
-      "url": "https://open.spotify.com/track/6SZ1bNDsPyDeEaIq9cosxw"
-    },
-    {
-      "added_at": "2023-04-21 19:52:46",
-      "album": {
         "name": "Tall Tales & Fables",
         "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 177414,
       "name": "Ohio",
       "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
+    },
+    {
+      "added_at": "2023-04-21 19:52:46",
+      "album": {
+        "name": "Twisted Pine",
+        "url": "https://open.spotify.com/album/5kZPWAZ9ms0hRmgt9hpijv"
+      },
+      "artists": [
+        {
+          "name": "Twisted Pine",
+          "url": "https://open.spotify.com/artist/1hS8I57cnaheZpt7Tdn6ps"
+        }
+      ],
+      "duration_ms": 252428,
+      "name": "When I Called Your Name",
+      "url": "https://open.spotify.com/track/6SZ1bNDsPyDeEaIq9cosxw"
     },
     {
       "added_at": "2023-04-21 19:52:46",

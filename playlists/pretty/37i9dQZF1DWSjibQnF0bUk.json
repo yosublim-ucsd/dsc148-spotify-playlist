@@ -1,12 +1,12 @@
 {
   "description": "Definitive African party starters, perfect for any jollof jam or braai! \"Spray\" money to these hits!",
-  "num_followers": 380104,
+  "num_followers": 380488,
   "original_name": "Afro Party Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAzMTYwMCwwMDAwMDAwMGRkZmFhYjVmMTc3OWZiNGNiYmIxN2NhZjYzODM5ZWU4",
+  "snapshot_id": "MTY4MjAzMTYwMCwwMDAwMDAwMDFjZmQzNjMyYjU2NjRiYmZiNzE3M2JjNmVmMGRmMjMw",
   "tracks": [
     {
       "added_at": "2023-04-20 23:00:00",
@@ -87,26 +87,6 @@
     {
       "added_at": "2023-04-20 23:00:00",
       "album": {
-        "name": "Finesse",
-        "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 155293,
-      "name": "Finesse",
-      "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
-    },
-    {
-      "added_at": "2023-04-20 23:00:00",
-      "album": {
         "name": "Party No Dey Stop",
         "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
       },
@@ -123,6 +103,26 @@
       "duration_ms": 168857,
       "name": "Party No Dey Stop",
       "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"
+    },
+    {
+      "added_at": "2023-04-20 23:00:00",
+      "album": {
+        "name": "Finesse",
+        "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 155293,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
     },
     {
       "added_at": "2023-04-20 23:00:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-04-20 23:00:00",
       "album": {
+        "name": "RTID (Rich Till I Die)",
+        "url": "https://open.spotify.com/album/1VXKPWoui5j6UsxWrhvSDV"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 172881,
+      "name": "RTID (Rich Till I Die)",
+      "url": "https://open.spotify.com/track/47rtDAZmqRUjba0V1en3XY"
+    },
+    {
+      "added_at": "2023-04-20 23:00:00",
+      "album": {
         "name": "LV N ATTN",
         "url": "https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 213991,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL"
-    },
-    {
-      "added_at": "2023-04-20 23:00:00",
-      "album": {
-        "name": "RTID (Rich Till I Die)",
-        "url": "https://open.spotify.com/album/1VXKPWoui5j6UsxWrhvSDV"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 172881,
-      "name": "RTID (Rich Till I Die)",
-      "url": "https://open.spotify.com/track/47rtDAZmqRUjba0V1en3XY"
     },
     {
       "added_at": "2023-04-20 23:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-04-20 23:00:00",
       "album": {
+        "name": "Traboski",
+        "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 155860,
+      "name": "Traboski",
+      "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
+    },
+    {
+      "added_at": "2023-04-20 23:00:00",
+      "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/1kT9IWwVHocHo28hAkHpeY"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 182073,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/7zhLSGUbneW7Tm3wpp3HjY"
-    },
-    {
-      "added_at": "2023-04-20 23:00:00",
-      "album": {
-        "name": "Traboski",
-        "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
-      },
-      "artists": [
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 155860,
-      "name": "Traboski",
-      "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
     },
     {
       "added_at": "2023-04-20 23:00:00",
@@ -799,6 +799,30 @@
       "duration_ms": 165000,
       "name": "Certified Loner (No Competition)",
       "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
+    },
+    {
+      "added_at": "2023-04-20 23:00:00",
+      "album": {
+        "name": "How Many Times",
+        "url": "https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm"
+      },
+      "artists": [
+        {
+          "name": "DJ Big N",
+          "url": "https://open.spotify.com/artist/2mGQZqxcJJOHMYhU8c7l4B"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "How Many Times",
+      "url": "https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8"
     },
     {
       "added_at": "2023-04-20 23:00:00",
@@ -839,30 +863,6 @@
       "duration_ms": 176000,
       "name": "Bienvenue",
       "url": "https://open.spotify.com/track/5X55V3mn3RTvHAheUtL6LR"
-    },
-    {
-      "added_at": "2023-04-20 23:00:00",
-      "album": {
-        "name": "How Many Times",
-        "url": "https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm"
-      },
-      "artists": [
-        {
-          "name": "DJ Big N",
-          "url": "https://open.spotify.com/artist/2mGQZqxcJJOHMYhU8c7l4B"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "How Many Times",
-      "url": "https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8"
     },
     {
       "added_at": "2023-04-20 23:00:00",
@@ -951,26 +951,6 @@
     {
       "added_at": "2023-04-20 23:00:00",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/54mr7b1004Jqg9PD185VI1"
-      },
-      "artists": [
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 186446,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/47FuxUowVBxua1XxsbLKKX"
-    },
-    {
-      "added_at": "2023-04-20 23:00:00",
-      "album": {
         "name": "Big Flexa",
         "url": "https://open.spotify.com/album/5MhQBsStYfPKxStExE5wM3"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 224294,
       "name": "Single Again",
       "url": "https://open.spotify.com/track/0h9NbR0ozxlNVnTXOX8xjk"
+    },
+    {
+      "added_at": "2023-04-20 23:00:00",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/54mr7b1004Jqg9PD185VI1"
+      },
+      "artists": [
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 186446,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/47FuxUowVBxua1XxsbLKKX"
     },
     {
       "added_at": "2023-04-20 23:00:00",

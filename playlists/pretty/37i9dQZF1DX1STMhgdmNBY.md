@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 
 > For body and mind, blues straight from the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,402 likes - 70 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,498 likes - 70 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 15 | [Set Sail part I \(featuring Lamar Williams Jr.\)](https://open.spotify.com/track/2lt3INbrnQEZz57tKA05Zy) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Set Sail](https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF) | 4:57 |
 | 16 | [Call It Stormy Monday](https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:07 |
 | 17 | [Hummingbird](https://open.spotify.com/track/769OeqqYJcSQjvVquDWfYf) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Indianola Mississippi Seeds](https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l) | 4:38 |
-| 18 | [Hard Times \(No One Knows Better Than I\)](https://open.spotify.com/track/4ADzk9oX44sCGJPE5OjNcW) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Genius Sings the Blues](https://open.spotify.com/album/6htjXDcCIWm6rC0HNlFc0a) | 2:55 |
+| 18 | [I Ain't Blue \- 2008 Remaster](https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 3:36 |
 | 19 | [Do I Move You?](https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:44 |
-| 20 | [I Ain't Blue \- 2008 Remaster](https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 3:36 |
+| 20 | [Hard Times \(No One Knows Better Than I\)](https://open.spotify.com/track/4ADzk9oX44sCGJPE5OjNcW) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Genius Sings the Blues](https://open.spotify.com/album/6htjXDcCIWm6rC0HNlFc0a) | 2:55 |
 | 21 | [T\-Bone Blues](https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:48 |
 | 22 | [As The Years Go Passing By](https://open.spotify.com/track/71auWR3IZdhDv3M8RZsqIF) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign](https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw) | 3:46 |
 | 23 | [Cold Hearted Woman](https://open.spotify.com/track/1WVh4LQBjRhooTIYmMpAu4) | [Magic Slim](https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x) | [Tin Pan Alley](https://open.spotify.com/album/3zH6FQfxszWNSF4EYmgVhT) | 5:22 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 35 | [Blue Jean Blues](https://open.spotify.com/track/2YRF157SH4KOtDlaVjHoaB) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rancho Texicano: The Very Best of ZZ Top](https://open.spotify.com/album/6ti1HC6R2Op1enYiuCDf6k) | 4:39 |
 | 36 | [I Can't Quit You Baby](https://open.spotify.com/track/1TVtYIucWI5fqdQwwlZFR3) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [An Introduction To Otis Rush](https://open.spotify.com/album/1PD0bGAiG3boXRd7MGHtjO) | 3:39 |
 | 37 | ['Tain't Nobody's Biz'ness If I Do](https://open.spotify.com/track/6SVMrke6GfTo8VFWaDH8Yu) | [Jay McShann](https://open.spotify.com/artist/1qZnWtvzKVV0lJQZBapchU) | [The Last Of The Blue Devils](https://open.spotify.com/album/6uVMAymadbYSAusGSUnNqw) | 7:01 |
-| 38 | [No Headstone on My Grave](https://open.spotify.com/track/0qutFw4ww1oFyEfkVk0uMD) | [Esther Phillips](https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7) | [The Country Side Of Esther](https://open.spotify.com/album/4MA3arxMVtS7SXoIKPvTzm) | 3:19 |
-| 39 | [She Caught the Katy and Left Me a Mule to Ride](https://open.spotify.com/track/2B8TnS5nJijlzuORGs3RKy) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Natch'l Blues](https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2) | 3:28 |
+| 38 | [She Caught the Katy and Left Me a Mule to Ride](https://open.spotify.com/track/2B8TnS5nJijlzuORGs3RKy) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Natch'l Blues](https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2) | 3:28 |
+| 39 | [No Headstone on My Grave](https://open.spotify.com/track/0qutFw4ww1oFyEfkVk0uMD) | [Esther Phillips](https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7) | [The Country Side Of Esther](https://open.spotify.com/album/4MA3arxMVtS7SXoIKPvTzm) | 3:19 |
 | 40 | [Barefoot In Heaven](https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 3:30 |
 | 41 | [Reap What You Sow](https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Mourning In The Morning](https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe) | 4:55 |
 | 42 | [12:15 Slow Goonbash Blues](https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Shuggie's Boogie: Shuggie Otis Plays The Blues](https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC) | 9:26 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 57 | [Drivin' Wheel \- Single Version](https://open.spotify.com/track/4r08u8N2RSeorASn62yHr6) | [Little Junior Parker](https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM) | [Driving Wheel](https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP) | 2:37 |
 | 58 | [Sittin' And Cryin' The Blues](https://open.spotify.com/track/4vl2dLCKiTjkPGFRGchtuL) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY), [Memphis Slim](https://open.spotify.com/artist/5g1Gv9riN5BH4WVnanO1Ia) | [Willie's Blues](https://open.spotify.com/album/3fuRLaRuxNjjBxZILt5ABV) | 3:23 |
 | 59 | [Celebrated Walkin' Blues](https://open.spotify.com/track/4oNnxT1kVOAcAYkt8gxXAS) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Taj Mahal](https://open.spotify.com/album/0kEaFupzvrGdcczROS519i) | 8:51 |
-| 60 | [I'm on My Way](https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [The Legendary Christine Perfect Album](https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp) | 3:11 |
-| 61 | [Dr\. Feelgood \(Love Is Serious Business\)](https://open.spotify.com/track/7d38lTzElTueMVLNQ0nihe) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Soul Queen](https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb) | 3:18 |
+| 60 | [Dr\. Feelgood \(Love Is Serious Business\)](https://open.spotify.com/track/7d38lTzElTueMVLNQ0nihe) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Soul Queen](https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb) | 3:18 |
+| 61 | [I'm on My Way](https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [The Legendary Christine Perfect Album](https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp) | 3:11 |
 | 62 | [Uncloudy Day](https://open.spotify.com/track/6ZNz2aaMwy8yaQzlnT9507) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Faith And Grace: A Family Journey 1953\-1976](https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI) | 2:57 |
 | 63 | [Change is Inevitable \(feat\. AJ Fullerton\)](https://open.spotify.com/track/1ch8BB3SZgCvJN1qWft4Et) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv), [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Porch Sessions, Vol\. 2](https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI) | 2:50 |
 | 64 | [It's Mighty Hard](https://open.spotify.com/track/4OvJmdA6sHxhKsyD6bXnHN) | [Katie Webster](https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe) | [No Foolin'!](https://open.spotify.com/album/5YxmBxdk0V7Mx2XS3ExyB6) | 6:30 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 69 | [Plenty Good Room](https://open.spotify.com/track/06aouHeZQx45YdKPCnxgt6) | [Lynda Randle](https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI) | [Plenty Good Room](https://open.spotify.com/album/5YRDhVX5npZe6l8s8NcKyA) | 3:57 |
 | 70 | [I Have No One \- Remastered 2022](https://open.spotify.com/track/308gSPfGJpzLK9rnYCZZtB) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [South Side Of Soul Street: The SSS Sessions \(Remastered 2022\)](https://open.spotify.com/album/3u1omgR0jZ23t1KdAmsaef) | 3:09 |
 
-Snapshot ID: `MTY4MTQwMTc0MywwMDAwMDAwMGVkNTIzM2EyN2QxYjgwZTVjYTUwMWJiMDRmZDI4YzYw`
+Snapshot ID: `MTY4MTQwMTc0MywwMDAwMDAwMDgyZTljODhhZGI2MDU4OTIyYmRjZTAyYWE4NjkwYjlk`

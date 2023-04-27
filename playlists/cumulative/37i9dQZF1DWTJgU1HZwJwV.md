@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-307 songs - 13 hr 9 min
+308 songs - 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [Gelassenheit](https://open.spotify.com/track/4c9gXXifVcTEkTm0vSZm4q) | [William Lynn](https://open.spotify.com/artist/1EQNBTXeMqy5nDpSlzcRwx) | [Gelassenheit](https://open.spotify.com/album/7wxX9KricJdTp3U5HdtYQa) | 2:16 | 2023-03-10 |  |
 | [Girasoles para ti](https://open.spotify.com/track/0v8y9eVORFsgXpCFenxkV0) | [Lester Paredes](https://open.spotify.com/artist/6qmJhBPj3ROsuH7bLDODMf) | [Girasoles para ti](https://open.spotify.com/album/2TPRbJWMg8uFe6X46w7R9D) | 3:10 | 2022-06-17 |  |
 | [Given](https://open.spotify.com/track/5iM1qRfdkKgzs0HaShhno5) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Given](https://open.spotify.com/album/3s85eBCZY403QapgeztMw4) | 2:30 | 2022-06-17 | 2022-12-24 |
-| [Glide](https://open.spotify.com/track/1iTnYij47T9BmboWHs5wsC) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Glide](https://open.spotify.com/album/79PiXS788M5DE77IOknDCi) | 2:29 | 2022-10-28 |  |
+| [Glide](https://open.spotify.com/track/1iTnYij47T9BmboWHs5wsC) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Glide](https://open.spotify.com/album/79PiXS788M5DE77IOknDCi) | 2:29 | 2022-10-28 | 2023-04-27 |
+| [Glide](https://open.spotify.com/track/4ErdgxMPqlPd7wNM07oan4) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Glide](https://open.spotify.com/album/4zvQetd2SH0ecyCY14flMz) | 2:29 | 2023-03-24 |  |
 | [Glide](https://open.spotify.com/track/6pkcB9YBzPNECMEqOsdSBa) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Glide](https://open.spotify.com/album/2PaANkBfLwCRqMnBhtBN18) | 2:29 | 2022-06-17 | 2022-11-05 |
 | [Gone to seed](https://open.spotify.com/track/0b4pX3JMLnJi1QY3W42zjN) | [Freda Barton](https://open.spotify.com/artist/0fylCOnl5ssW7QWnuMYPun) | [Gone to seed](https://open.spotify.com/album/7MvoXy4KLNxXMCBI6F3I8K) | 2:24 | 2022-12-23 |  |
 | [Goodbye \- Guitar Solo](https://open.spotify.com/track/1yJUM8bo9Qgg5us8WRRyBi) | [Ulrich Steier](https://open.spotify.com/artist/53d66ja0O9INgwNvA4dIIY) | [Goodbye \(Guitar Solo\)](https://open.spotify.com/album/7l9VjiD9GYz7hVjaNwcXlT) | 2:30 | 2022-06-17 |  |

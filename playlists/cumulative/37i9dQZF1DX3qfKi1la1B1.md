@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-185 songs - 12 hr 5 min
+186 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Eyes Closed \- Piano Version](https://open.spotify.com/track/1C0Uqh9cRMLPw9WpZzL4Z1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed \(Piano Version\)](https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW) | 3:14 | 2023-03-28 |  |
 | [Fallin'](https://open.spotify.com/track/1pkK7kZtxGBoXb583vDS9E) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Fallin'](https://open.spotify.com/album/3jRxPwXTP8INLOVpmDxDxo) | 4:20 | 2023-04-06 |  |
 | [Falling In Love](https://open.spotify.com/track/4m1jesCFX1gQtIRFirfwCW) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:05 | 2022-10-20 |  |
-| [Fatal Attraction](https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Fatal Attraction](https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT) | 3:16 | 2023-03-18 |  |
+| [Fatal Attraction](https://open.spotify.com/track/3y9JbvYZAhVeQsAECrKAgt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:16 | 2023-04-25 |  |
+| [Fatal Attraction](https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Fatal Attraction](https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT) | 3:16 | 2023-03-18 | 2023-04-27 |
 | [Feet Down South](https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [The Spoon](https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq) | 6:29 | 2022-10-20 | 2022-11-18 |
 | [Fever](https://open.spotify.com/track/4gh6uq3pDCiOFRl42zH1WR) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Hindi Zahra](https://open.spotify.com/artist/6QncudMSOiKxYRIKRDks6S) | [Black Radio \(Deluxe Edition\)](https://open.spotify.com/album/6pGglD9IbzeSEze9FHyl8C) | 6:48 | 2022-11-10 | 2022-12-14 |
 | [Firebabe](https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Firebabe](https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz) | 3:40 | 2022-11-10 | 2023-03-18 |

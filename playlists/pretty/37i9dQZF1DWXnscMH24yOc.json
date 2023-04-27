@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 432066,
+  "num_followers": 432132,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk2MDAyOSwwMDAwMDAwMGZhZDQ5NDllYjg5YmJjZDBjYjFkMGM2NjQxOWUzYjZk",
+  "snapshot_id": "MTY0Nzk2MDAyOSwwMDAwMDAwMDMwOTQxMDQ0NmU1MjNlNDM4ZDVjN2VmMzYzNWQ4MmQ1",
   "tracks": [
     {
       "added_at": "2022-03-22 14:40:29",
@@ -667,18 +667,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Wouldn't It Be Nice",
-        "url": "https://open.spotify.com/album/1PT5g9fRMIqfpwPzRkAmFy"
+        "name": "We Don't Eat EP",
+        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
       },
       "artists": [
         {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
         }
       ],
-      "duration_ms": 167125,
-      "name": "Wouldn't It Be Nice",
-      "url": "https://open.spotify.com/track/0p9iW5SZgKuxF2Tnodh316"
+      "duration_ms": 271800,
+      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
+      "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -699,18 +699,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "We Don't Eat EP",
-        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
+        "name": "Wouldn't It Be Nice",
+        "url": "https://open.spotify.com/album/1PT5g9fRMIqfpwPzRkAmFy"
       },
       "artists": [
         {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
         }
       ],
-      "duration_ms": 271800,
-      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
-      "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
+      "duration_ms": 167125,
+      "name": "Wouldn't It Be Nice",
+      "url": "https://open.spotify.com/track/0p9iW5SZgKuxF2Tnodh316"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS"
-      },
-      "artists": [
-        {
-          "name": "Dagny",
-          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
-        }
-      ],
-      "duration_ms": 179386,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "In Your Prime - EP",
         "url": "https://open.spotify.com/album/22XLHhWmIM8IuCFqpkpCHX"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 247200,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS"
+      },
+      "artists": [
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "duration_ms": 179386,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -959,6 +959,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "I'm Gonna Be (500 Miles)",
+        "url": "https://open.spotify.com/album/0b8KcBvQVOYGRQWGaWzyS0"
+      },
+      "artists": [
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "duration_ms": 212044,
+      "name": "I'm Gonna Be (500 Miles)",
+      "url": "https://open.spotify.com/track/09MdiypXlcb1kohV3cO03p"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/2b5ee3XpZQqmVpHC7gV9Vj"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 160588,
       "name": "Youth",
       "url": "https://open.spotify.com/track/00urNqCMQhspKwipmP3EZN"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "I'm Gonna Be (500 Miles)",
-        "url": "https://open.spotify.com/album/0b8KcBvQVOYGRQWGaWzyS0"
-      },
-      "artists": [
-        {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
-        }
-      ],
-      "duration_ms": 212044,
-      "name": "I'm Gonna Be (500 Miles)",
-      "url": "https://open.spotify.com/track/09MdiypXlcb1kohV3cO03p"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "No One's Gonna Love You",
-        "url": "https://open.spotify.com/album/7dizp1YraSwZHHbLCGKIz4"
-      },
-      "artists": [
-        {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
-        }
-      ],
-      "duration_ms": 232347,
-      "name": "No One's Gonna Love You",
-      "url": "https://open.spotify.com/track/6ZwkeOSGSNHvBfkIacgSX3"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "K.",
         "url": "https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO"
       },
@@ -1235,38 +1219,6 @@
       "duration_ms": 269000,
       "name": "K.",
       "url": "https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "1979",
-        "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 290518,
-      "name": "1979",
-      "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Henry / I'm On Fire",
-        "url": "https://open.spotify.com/album/6ZAKHuqVkCtP8ZXrI7a54W"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 187241,
-      "name": "I'm On Fire",
-      "url": "https://open.spotify.com/track/1ZGTTfJcCJ33IfAaExK5Wi"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1287,22 +1239,50 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Passionfruit",
-        "url": "https://open.spotify.com/album/5PHrxqS8w1HqoGut9zrW5A"
+        "name": "1979",
+        "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
       },
       "artists": [
         {
-          "name": "Wyvern Lingo",
-          "url": "https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN"
-        },
-        {
-          "name": "Mahogany",
-          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
         }
       ],
-      "duration_ms": 212306,
-      "name": "Passionfruit",
-      "url": "https://open.spotify.com/track/0q9VKvpCJhGEMKRJAdaV9w"
+      "duration_ms": 290518,
+      "name": "1979",
+      "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "No One's Gonna Love You",
+        "url": "https://open.spotify.com/album/7dizp1YraSwZHHbLCGKIz4"
+      },
+      "artists": [
+        {
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+        }
+      ],
+      "duration_ms": 232347,
+      "name": "No One's Gonna Love You",
+      "url": "https://open.spotify.com/track/6ZwkeOSGSNHvBfkIacgSX3"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Henry / I'm On Fire",
+        "url": "https://open.spotify.com/album/6ZAKHuqVkCtP8ZXrI7a54W"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 187241,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/1ZGTTfJcCJ33IfAaExK5Wi"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1319,6 +1299,26 @@
       "duration_ms": 228907,
       "name": "Whatever You Like - Single Version",
       "url": "https://open.spotify.com/track/5qX2ZJoLEyFCTAdaCqUo7s"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Passionfruit",
+        "url": "https://open.spotify.com/album/5PHrxqS8w1HqoGut9zrW5A"
+      },
+      "artists": [
+        {
+          "name": "Wyvern Lingo",
+          "url": "https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN"
+        },
+        {
+          "name": "Mahogany",
+          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "Passionfruit",
+      "url": "https://open.spotify.com/track/0q9VKvpCJhGEMKRJAdaV9w"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Nocturnes",
-        "url": "https://open.spotify.com/album/6Jzq1Fi63BPj4aMhXLQ5yH"
-      },
-      "artists": [
-        {
-          "name": "Meadowlark",
-          "url": "https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs"
-        }
-      ],
-      "duration_ms": 227064,
-      "name": "About You Now",
-      "url": "https://open.spotify.com/track/0z4eTq4BtDiNN5IFQSUBau"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Vignettes",
         "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 256798,
       "name": "My City of Ruins",
       "url": "https://open.spotify.com/track/0F8Ec2ppXwQxDEdMRWEVaX"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Nocturnes",
+        "url": "https://open.spotify.com/album/6Jzq1Fi63BPj4aMhXLQ5yH"
+      },
+      "artists": [
+        {
+          "name": "Meadowlark",
+          "url": "https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs"
+        }
+      ],
+      "duration_ms": 227064,
+      "name": "About You Now",
+      "url": "https://open.spotify.com/track/0z4eTq4BtDiNN5IFQSUBau"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/0DGxizS2jb1tTYimUJdQ15"
+        "name": "Bang Bang (My Baby Shot Me Down)",
+        "url": "https://open.spotify.com/album/2U3XfU54vAKKyJUgmnk2sf"
       },
       "artists": [
         {
-          "name": "Roses & Revolutions",
-          "url": "https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l"
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
         }
       ],
-      "duration_ms": 243209,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/55cFWjs1LPFOeBl4gLuD4M"
+      "duration_ms": 153500,
+      "name": "Bang Bang (My Baby Shot Me Down)",
+      "url": "https://open.spotify.com/track/7nghYGsh54yEir2qzPxqyk"
     }
   ],
   "unique_name": "Chill Covers",

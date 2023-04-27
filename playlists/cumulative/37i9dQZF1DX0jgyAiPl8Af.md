@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-583 songs - 1 day 1 hr 25 min
+584 songs - 1 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,7 +373,8 @@
 | [Noorderpark](https://open.spotify.com/track/3RH9QlGintwquOHu54I3ch) | [Diane Edison](https://open.spotify.com/artist/1zBXAlRbmBsKxR6q9Xwph9) | [The Woodlands](https://open.spotify.com/album/2mI9agJ2sMuPJqyVXMBS4K) | 2:14 | 2021-12-08 |  |
 | [Norske Danser](https://open.spotify.com/track/6xXLnSFpf5WViZrDbLr7n2) | [Gjermund Skar](https://open.spotify.com/artist/4RSSJPcnIgV5jXjK59hy9S) | [Norske Danser](https://open.spotify.com/album/2YpOK5hE3INrNHYZwMpWW3) | 3:12 | 2021-12-08 | 2022-04-06 |
 | [North](https://open.spotify.com/track/7jBD4QWbUZdr5LHjvMSsMm) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [North](https://open.spotify.com/album/7aK3SFbPLVvrsL62GGOjxF) | 2:52 | 2022-04-05 |  |
-| [Nostalgia](https://open.spotify.com/track/0ytp8JZQRlVUhV6QQRZmEI) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/1Wezujs4mQrwg1cvpb4Mad) | 2:28 | 2022-10-28 |  |
+| [Nostalgia](https://open.spotify.com/track/0ytp8JZQRlVUhV6QQRZmEI) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/1Wezujs4mQrwg1cvpb4Mad) | 2:28 | 2022-10-28 | 2023-04-27 |
+| [Nostalgia](https://open.spotify.com/track/4atfRW7bT2qyNJhlgmB3RR) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/6bzPgSWghq5hhVwgbIrTTX) | 2:28 | 2023-04-21 |  |
 | [Nostalgia](https://open.spotify.com/track/7mqFhE493l53bq0XNiccgk) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/56KoK3U87kpNUP1CXeDlmC) | 2:28 | 2022-09-16 | 2022-11-04 |
 | [Nowhere Else](https://open.spotify.com/track/63dPaneJgIQRJ7pBFfBUYQ) | [Paolo Velera](https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH) | [Nowhere Else](https://open.spotify.com/album/56m8lQ0V1nBe3soxpvDoyv) | 3:05 | 2022-12-09 | 2023-03-25 |
 | [Nuages](https://open.spotify.com/track/6fut7UQn4zwKRMnPvsS0mJ) | [Alain Levet](https://open.spotify.com/artist/6P8zq55n2r1dlVgQuIRZcM) | [Nuages](https://open.spotify.com/album/1PlJ20AoHnT8YM3upB3ViZ) | 2:05 | 2021-12-08 | 2022-09-09 |

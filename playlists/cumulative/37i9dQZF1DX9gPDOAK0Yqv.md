@@ -4,7 +4,7 @@
 
 > A hypnotic journey through melodic techno.
 
-217 songs - 19 hr 48 min
+218 songs - 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Afterglow](https://open.spotify.com/track/5o7FfYcoh7dgBsvIu3bM1R) | [Miyagi](https://open.spotify.com/artist/3SYkxKBdwKFCTxWDh9l5f9), [Allies for Everyone](https://open.spotify.com/artist/1wTnRaLkV5Xu0hBULPm3xf) | [Afterglow](https://open.spotify.com/album/1FcT5u2uAOlpCOhJnaTcc9) | 6:18 | 2022-11-23 | 2022-12-01 |
 | [Aldebaran](https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X) | [Green Lake Project](https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz) | [Thrust](https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM) | 6:29 | 2023-01-06 | 2023-03-30 |
 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 | 2022-11-23 |  |
-| [Amateur](https://open.spotify.com/track/51FT4yWCl91S04PJz8Oxeu) | [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr) | [Amateur](https://open.spotify.com/album/5Nd5bGBcXkr0hcgu59w3QF) | 6:11 | 2023-04-07 |  |
+| [Amateur](https://open.spotify.com/track/51FT4yWCl91S04PJz8Oxeu) | [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr) | [Amateur](https://open.spotify.com/album/5Nd5bGBcXkr0hcgu59w3QF) | 6:11 | 2023-04-07 | 2023-04-27 |
 | [Angel 1](https://open.spotify.com/track/32uzMvtg0JKDKZzg6KhHoZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Angel 1](https://open.spotify.com/album/0omfFup8BUBLpflIPlo4gz) | 5:46 | 2022-11-23 | 2023-03-11 |
 | [Anytime](https://open.spotify.com/track/71kWlO1RX3LoRTrIJgbDwA) | [Lampe](https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq) | [Anytime](https://open.spotify.com/album/0t27wEKOc7V1RKMRQUemPE) | 6:05 | 2022-11-23 | 2023-01-20 |
 | [Apollo](https://open.spotify.com/track/1LpdgDzDKRbHAGOhD3niGE) | [Local Dialect](https://open.spotify.com/artist/1dFKuU0lKJNg27s2LKLZ2j) | [Apollo](https://open.spotify.com/album/4OgrRzm4w3w6Brborvb1HC) | 4:50 | 2023-04-07 |  |
@@ -119,6 +119,7 @@
 | [Mind Control](https://open.spotify.com/track/1UopEDdYwbavBAvlY1gA6b) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Mind Control](https://open.spotify.com/album/63BUay1zGf5kZDICbE8HUF) | 5:07 | 2022-11-23 |  |
 | [Mind Control \- Stephan Jolk Remix](https://open.spotify.com/track/2ig7zIzaD3omrWSgJdlx4W) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Biesmans](https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Mind Control Remixes](https://open.spotify.com/album/5ojPPLGixsheh2u3SXPYy5) | 5:12 | 2022-11-23 | 2023-01-15 |
 | [Mirage](https://open.spotify.com/track/7ebulpHSffs4Thc0VM0LHv) | [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq) | [Mirage](https://open.spotify.com/album/5ZwqPuurXv0oKEZXvfAHZc) | 4:20 | 2022-11-23 | 2023-01-28 |
+| [Mistery Lady](https://open.spotify.com/track/3OPOlqB7BWK5a9WL7eGqGM) | [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX), [Soulmanic](https://open.spotify.com/artist/20zMeXKHidTZrxhk7Qdo5x) | [Mistery Lady](https://open.spotify.com/album/7pSNLI38T60BpQSq20ETle) | 3:52 | 2023-04-21 |  |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/7kfOEMJBJwdCYqyJeEnNhr) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/5KAcRZdtpHXQb3OmYGvpgX) | 3:54 | 2022-12-28 | 2023-01-06 |
 | [Multiversum](https://open.spotify.com/track/4BpI7T85Zehu5cyG0pz1YP) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [The Selador Showcase \- The Seventeenth Instalment](https://open.spotify.com/album/5fOPccNvJkKyuIxeZ0SAmW) | 7:13 | 2023-02-17 | 2023-03-12 |
 | [Mutant Disco \- Original](https://open.spotify.com/track/0oFgQ7eTFDuuvxV5aucMDq) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [Mutant Series](https://open.spotify.com/album/6z7ja8yliHzpMMrZpzThjn) | 6:59 | 2022-11-23 | 2022-12-06 |

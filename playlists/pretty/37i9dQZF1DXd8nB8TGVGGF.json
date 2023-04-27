@@ -1,12 +1,12 @@
 {
   "description": "The best Blues for a long trip behind the wheel. ",
-  "num_followers": 18242,
+  "num_followers": 18292,
   "original_name": "Blues Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgzNzI1NiwwMDAwMDAwMDE0ZjI2MDg3MWE2NTY0MTM4Y2NlZWFjZDYxODNmM2Yz",
+  "snapshot_id": "MTY3NDgzNzI1NiwwMDAwMDAwMGEzM2I5MmYzNzg5Nzk2NTc2ZDI3ZjQyMTE0MWU2Zjc2",
   "tracks": [
     {
       "added_at": "2023-01-27 16:34:16",
@@ -291,18 +291,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Let's Work Together",
-        "url": "https://open.spotify.com/album/35nn7TrslBi7Yf0ru9l6lq"
+        "name": "Tons Of Sobs",
+        "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
       },
       "artists": [
         {
-          "name": "Wilbert Harrison",
-          "url": "https://open.spotify.com/artist/7rETVFaF9VOFPmmzsY3kO6"
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
         }
       ],
-      "duration_ms": 335533,
-      "name": "Let's Work Together",
-      "url": "https://open.spotify.com/track/59XNlPnp7mkbCTupmPocbJ"
+      "duration_ms": 254746,
+      "name": "The Hunter",
+      "url": "https://open.spotify.com/track/6zFFYdst2u4PIKykSU7HOT"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -323,18 +323,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Tons Of Sobs",
-        "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
+        "name": "Let's Work Together",
+        "url": "https://open.spotify.com/album/35nn7TrslBi7Yf0ru9l6lq"
       },
       "artists": [
         {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+          "name": "Wilbert Harrison",
+          "url": "https://open.spotify.com/artist/7rETVFaF9VOFPmmzsY3kO6"
         }
       ],
-      "duration_ms": 254746,
-      "name": "The Hunter",
-      "url": "https://open.spotify.com/track/6zFFYdst2u4PIKykSU7HOT"
+      "duration_ms": 335533,
+      "name": "Let's Work Together",
+      "url": "https://open.spotify.com/track/59XNlPnp7mkbCTupmPocbJ"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
-        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 152893,
-      "name": "Shake Your Money Maker",
-      "url": "https://open.spotify.com/track/2VxnY6jbl0SckkZp9wrNF7"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 175466,
       "name": "Mean Old World",
       "url": "https://open.spotify.com/track/4Eqa2PFcVgCWjBlj2Xw8wN"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
+        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 152893,
+      "name": "Shake Your Money Maker",
+      "url": "https://open.spotify.com/track/2VxnY6jbl0SckkZp9wrNF7"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+        }
+      ],
+      "duration_ms": 175693,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/24m7kDzKRUnYRlz7LWCYnB"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -1267,34 +1283,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
+        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
       },
       "artists": [
         {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
         }
       ],
-      "duration_ms": 175693,
-      "name": "You Got Me",
-      "url": "https://open.spotify.com/track/24m7kDzKRUnYRlz7LWCYnB"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "Talkin' Some Sense",
-        "url": "https://open.spotify.com/album/4AHgFBOENvVS8v9xvvqddA"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 171968,
-      "name": "Lightnin' Strikes One More Time",
-      "url": "https://open.spotify.com/track/0jJ4yI4iNcmUDmb9EtWDZg"
+      "duration_ms": 166506,
+      "name": "Early One Morning",
+      "url": "https://open.spotify.com/track/6mUSXLiUA398z4cpcRp7a5"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
-        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
+        "name": "Talkin' Some Sense",
+        "url": "https://open.spotify.com/album/4AHgFBOENvVS8v9xvvqddA"
       },
       "artists": [
         {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
         }
       ],
-      "duration_ms": 166506,
-      "name": "Early One Morning",
-      "url": "https://open.spotify.com/track/6mUSXLiUA398z4cpcRp7a5"
+      "duration_ms": 171968,
+      "name": "Lightnin' Strikes One More Time",
+      "url": "https://open.spotify.com/track/0jJ4yI4iNcmUDmb9EtWDZg"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1359,22 +1359,6 @@
       "duration_ms": 155000,
       "name": "Wash Out",
       "url": "https://open.spotify.com/track/7krwrfAipXYI2aChTzv3t0"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "Free Form Patterns",
-        "url": "https://open.spotify.com/album/6XY6Bd52R2cJRI2uaDLqgd"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 224453,
-      "name": "Give Me Time to Think",
-      "url": "https://open.spotify.com/track/0zx00UByhe6SqVcRHwlA1v"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1447,18 +1431,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Men of the World: The Early Years",
-        "url": "https://open.spotify.com/album/2K7v8gzTtmyX0fjvAVUkzt"
+        "name": "Free Form Patterns",
+        "url": "https://open.spotify.com/album/6XY6Bd52R2cJRI2uaDLqgd"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
         }
       ],
-      "duration_ms": 214800,
-      "name": "Buzz Me Baby",
-      "url": "https://open.spotify.com/track/03orX7fg8pH3tXBhJiuQC7"
+      "duration_ms": 224453,
+      "name": "Give Me Time to Think",
+      "url": "https://open.spotify.com/track/0zx00UByhe6SqVcRHwlA1v"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1491,6 +1475,22 @@
       "duration_ms": 125106,
       "name": "Still Got The Blues",
       "url": "https://open.spotify.com/track/5IpREDjsiqYQNvHqg4Qj3G"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Men of the World: The Early Years",
+        "url": "https://open.spotify.com/album/2K7v8gzTtmyX0fjvAVUkzt"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "Buzz Me Baby",
+      "url": "https://open.spotify.com/track/03orX7fg8pH3tXBhJiuQC7"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
+        "name": "Rockin' At The Hops",
+        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 126226,
+      "name": "Confessin' The Blues",
+      "url": "https://open.spotify.com/track/26VeLcnNOv7iOtzb7VuHZF"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
         "name": "Beck-Ola",
         "url": "https://open.spotify.com/album/5U29fXcBHWNrUrFI1ol8Oi"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 224400,
       "name": "Hard Luck Blues",
       "url": "https://open.spotify.com/track/75SPHJFXqvEWhUg4a9GrlJ"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "Rockin' At The Hops",
-        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 126226,
-      "name": "Confessin' The Blues",
-      "url": "https://open.spotify.com/track/26VeLcnNOv7iOtzb7VuHZF"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1940,9 +1940,9 @@
           "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
         }
       ],
-      "duration_ms": 184973,
-      "name": "Lonesome Whistle Blues",
-      "url": "https://open.spotify.com/track/0239B2zmduD88ZXOiBMOjj"
+      "duration_ms": 159506,
+      "name": "It's Ok with Me Baby (Bonus Track)",
+      "url": "https://open.spotify.com/track/4xl4cbwWacZi4QDUWBA5CA"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1956,9 +1956,9 @@
           "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
         }
       ],
-      "duration_ms": 159506,
-      "name": "It's Ok with Me Baby (Bonus Track)",
-      "url": "https://open.spotify.com/track/4xl4cbwWacZi4QDUWBA5CA"
+      "duration_ms": 184973,
+      "name": "Lonesome Whistle Blues",
+      "url": "https://open.spotify.com/track/0239B2zmduD88ZXOiBMOjj"
     },
     {
       "added_at": "2023-01-27 16:34:16",

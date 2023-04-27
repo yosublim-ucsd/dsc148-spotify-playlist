@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 
 > Your favorite holiday tunes, like you've never heard before\. Cover: Meghan Trainor
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,570 likes - 79 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,512 likes - 79 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [White Christmas \- Spotify Singles \- Christmas, Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/71azyw4EJDlGru5Uw6DGzT) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [White Christmas \(Spotify Singles \- Christmas, Recorded at Sound Stage Studios Nashville\)](https://open.spotify.com/album/4khvhw7hfvRpSU1EokuED4) | 3:14 |
 | 2 | [It Must Have Been Love \(Christmas for the Broken Hearted\) \- Spotify Singles: Holiday](https://open.spotify.com/track/3Cr5u6bC4NJomy0B3oNHkg) | [Lasse Skriver](https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp) | [It Must Have Been Love \(Christmas for the Broken Hearted\) \- Spotify Singles: Holiday](https://open.spotify.com/album/2WwjIbhO1VU84Zm9ZhaEoL) | 3:41 |
-| 3 | [Carol Of The Bells \- Spotify Singles Holiday](https://open.spotify.com/track/1jFBoVvIFAVglcAJTZpoG8) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Carol Of The Bells \(Spotify Singles Holiday\)](https://open.spotify.com/album/4cvOEpiN4d4YMwM4eB9NvY) | 1:42 |
+| 3 | [Carol of the Bells \- Spotify Singles Holiday](https://open.spotify.com/track/1jFBoVvIFAVglcAJTZpoG8) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Carol Of The Bells \(Spotify Singles Holiday\)](https://open.spotify.com/album/4cvOEpiN4d4YMwM4eB9NvY) | 1:42 |
 | 4 | [Jingle Bell Rock \-Spotify Singles Holiday](https://open.spotify.com/track/7Ao5aouOwI94DuwcXa5X1i) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Jingle Bell Rock \-Spotify Singles Holiday](https://open.spotify.com/album/4U8CZl7b1nxhmEAaM5AbWk) | 2:22 |
 | 5 | [Sleigh Ride](https://open.spotify.com/track/7enVhl0fuHvQ4ErXvAXYIH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Spotify Singles \- Holiday](https://open.spotify.com/album/0kCDFEzZ3zNnr5zdO0Bh08) | 3:04 |
 | 6 | [Little Saint Nick \- Spotify Singles Holiday](https://open.spotify.com/track/1Rnj5WqanhxJgDZSaDvAUe) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Little Saint Nick \(Spotify Singles Holiday\)](https://open.spotify.com/album/7qI9SiNVambiVT3ukvvnHQ) | 1:57 |

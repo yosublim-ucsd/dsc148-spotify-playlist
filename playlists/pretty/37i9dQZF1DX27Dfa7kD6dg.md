@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 
 > New York salsa...it's home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,273 likes - 115 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,305 likes - 115 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,17 +78,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 68 | [A Las Seis](https://open.spotify.com/track/1Nh64nfJthF7mqw5SXABex) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Steppin' Out](https://open.spotify.com/album/3Mp9G6tYLsGvft2FUw8FEI) | 2:43 |
 | 69 | [Presidente Dante](https://open.spotify.com/track/2ttM5D84FTOVxiIESWL0zY) | [Larry Harlow](https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J), [Frankie Dante & Orquesta Flamboyan](https://open.spotify.com/artist/27G5wNXY4nO0Ji2weHv9PR) | [Con Larry Harlow](https://open.spotify.com/album/2uiwRibXO2rTrXC7vvoBSn) | 4:07 |
 | 70 | [Mi Mundo](https://open.spotify.com/track/6dvRYk3hch6cxh81jhKwFD) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Lo Que Pasó..\. La Historia Del Príncipe De La Salsa](https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW) | 4:43 |
-| 71 | [Carro de Fuego](https://open.spotify.com/track/3SXRNFtlBYZKgJeBstl8b3) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE), [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [25 Años, 25 Éxitos, 25 Artistas](https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB) | 4:31 |
+| 71 | [La Lotería](https://open.spotify.com/track/1i8gsWMG0WxYoPMw498quW) | [Andy Harlow](https://open.spotify.com/artist/0OLtqzqTcmE2LTN8t5CacG) | [Sorpresa La Flauta](https://open.spotify.com/album/54Isd9McgLu4F3BuV06MZJ) | 3:16 |
 | 72 | [Cuídate Bién](https://open.spotify.com/track/6T5ITpAYsPK1CfNPhtBKZm) | [La Critica](https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0) | [Colección De Oro: La Crítica Y Sus Cantantes, Vol\. 1](https://open.spotify.com/album/66AzgPZCCRROGy1N1DO9ix) | 3:35 |
-| 73 | [La Lotería](https://open.spotify.com/track/1i8gsWMG0WxYoPMw498quW) | [Andy Harlow](https://open.spotify.com/artist/0OLtqzqTcmE2LTN8t5CacG) | [Sorpresa La Flauta](https://open.spotify.com/album/54Isd9McgLu4F3BuV06MZJ) | 3:16 |
+| 73 | [Carro de Fuego](https://open.spotify.com/track/3SXRNFtlBYZKgJeBstl8b3) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE), [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [25 Años, 25 Éxitos, 25 Artistas](https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB) | 4:31 |
 | 74 | [Ublabadú](https://open.spotify.com/track/3mHv2JoSRRIjYCcnG6mgJO) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Commitment](https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x) | 5:51 |
 | 75 | [Mi Lindo Yambú](https://open.spotify.com/track/17NHdvCj6LhQW2EfRwcmc7) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Unchained Force](https://open.spotify.com/album/0iHz81rYUaq4KFb8MvSsOH) | 5:50 |
 | 76 | [A El](https://open.spotify.com/track/3U5EvqgBklihqlnlIuWcUR) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Esenciales Volúmen I](https://open.spotify.com/album/7yibFAEIfUXMMumIixZJsp) | 3:44 |
 | 77 | [Rumba Rumbero](https://open.spotify.com/track/4gsXvTDs4yC7LrnJpNsWLA) | [La Critica](https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0) | [La Crítica: Salseros De Corazón, Vol\. 3](https://open.spotify.com/album/0icCOLmmUE8cpKPbLGrAel) | 4:03 |
 | 78 | [Tutuneco](https://open.spotify.com/track/2rGtqPVV2JQPkuxH3HRiu2) | [Cortijo Y Su Combo](https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma), [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [La Epoca de Oro, Vol\. 1](https://open.spotify.com/album/3DeeTSAsbputi8InQLDtui) | 2:38 |
-| 79 | [Lo Que Pasó Entre Tú y Yo Pasó](https://open.spotify.com/track/54YMfDYvcG24NQU1Jxcu8V) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Lo Que Pasó..\. La Historia Del Príncipe De La Salsa](https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW) | 4:39 |
-| 80 | [Deja de Criticar](https://open.spotify.com/track/1TNBaVWcOnNIiPCJaNV0rz) | [La Excelencia](https://open.spotify.com/artist/3sizRmkjDbLnAcE2kS3DsC) | [Mi Tumbao Social](https://open.spotify.com/album/3UL8WmEzBRWnGLgBA0tDkj) | 4:10 |
-| 81 | [Mujer de Carne y Hueso](https://open.spotify.com/track/4lrtVnIYs1JX00H9FwzJh1) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE), [Gustavo Rodriguez](https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2) | [25 Años, 25 Éxitos, 25 Artistas](https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB) | 4:53 |
+| 79 | [Mujer de Carne y Hueso](https://open.spotify.com/track/4lrtVnIYs1JX00H9FwzJh1) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE), [Gustavo Rodriguez](https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2) | [25 Años, 25 Éxitos, 25 Artistas](https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB) | 4:53 |
+| 80 | [Lo Que Pasó Entre Tú y Yo Pasó](https://open.spotify.com/track/54YMfDYvcG24NQU1Jxcu8V) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Lo Que Pasó..\. La Historia Del Príncipe De La Salsa](https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW) | 4:39 |
+| 81 | [Deja de Criticar](https://open.spotify.com/track/1TNBaVWcOnNIiPCJaNV0rz) | [La Excelencia](https://open.spotify.com/artist/3sizRmkjDbLnAcE2kS3DsC) | [Mi Tumbao Social](https://open.spotify.com/album/3UL8WmEzBRWnGLgBA0tDkj) | 4:10 |
 | 82 | [Puerto Rico](https://open.spotify.com/track/1Y53t2ucYs8CUMsUkwBZTA) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C), [Ismael Quintana](https://open.spotify.com/artist/0BM26r4eTvHRclFsKRH2zq) | [Two Brothers Two Legends](https://open.spotify.com/album/4znxzsJdCVRIdANotJMDwh) | 6:58 |
 | 83 | [La Negra Tomasa](https://open.spotify.com/track/2gfri3SpCftv9UAqNJ1IDD) | [Vocal Sampling](https://open.spotify.com/artist/5WNsC1A1Bg1bCkylOw3bpD) | [Live in Berlin](https://open.spotify.com/album/0fKzk4CCTilGtw4T4lBxFi) | 4:19 |
 | 84 | [Pregones De San Cristóbal](https://open.spotify.com/track/64agTveoc8y1cXjfLHJG9c) | [La Critica](https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0), [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [La Crítica: Salseros De Corazón, Vol\. 3](https://open.spotify.com/album/0icCOLmmUE8cpKPbLGrAel) | 3:59 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 114 | [El Cantante](https://open.spotify.com/track/3gIZxkCKjNP1tft5TynUED) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Marc Anthony "El Cantante" OST](https://open.spotify.com/album/4MRdW6rlNSqpnCAZKGxqLC) | 6:47 |
 | 115 | [Insaciable](https://open.spotify.com/track/2NhpUxYubhTbFqn8PFNfwo) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie Millennium: Eddie Santiago](https://open.spotify.com/album/6trSesFexVgSw7P7eeSN6L) | 4:29 |
 
-Snapshot ID: `MTY3OTAxNDM3NiwwMDAwMDAwMGIyYjBhZWMwMjE1NzI0MTRlOTJlYmZiZjUzM2ViMDQx`
+Snapshot ID: `MTY3OTAxNDM3NiwwMDAwMDAwMDJjNmQzMTg5Y2FkYmE3YmJjMzAyYjgyOGM2ZTU3ODli`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9owDoKZZXV5.md) - [plain]
 
 > Welcome to the Hope World! 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,326 likes - 20 songs - 52 min 33 sec
+[Spotify](https://open.spotify.com/user/spotify) - 350,185 likes - 20 songs - 52 min 33 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 
 > Unwind to these calm classical guitar pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,968,788 likes - 303 songs - 12 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,968,959 likes - 303 songs - 12 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,7 +182,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 172 | [Guitar Serenade](https://open.spotify.com/track/3BhgiGAwSs7PLGyW0ErORB) | [Samuel T\. Wesley](https://open.spotify.com/artist/5v9utvxIaiOg8XKnUge42h) | [Guitar Serenade](https://open.spotify.com/album/3X86hB3CyzqmkWP18Gp0jJ) | 1:28 |
 | 173 | [Nana 1985 \(Two Guitars Version\)](https://open.spotify.com/track/7cn8OaiEmm9eM5cO5m3JqJ) | [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM) | [Nana 1985 \(Two Guitars Version\)](https://open.spotify.com/album/2LTna82bAjdhBShUJh7Vn6) | 2:39 |
 | 174 | [Someday](https://open.spotify.com/track/40Prhj76wY4JkKWl130prE) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [Someday](https://open.spotify.com/album/6z07JJdKjK6KQTLdc4Abw6) | 2:34 |
-| 175 | [Nostalgia](https://open.spotify.com/track/0ytp8JZQRlVUhV6QQRZmEI) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/1Wezujs4mQrwg1cvpb4Mad) | 2:28 |
+| 175 | [Nostalgia](https://open.spotify.com/track/4atfRW7bT2qyNJhlgmB3RR) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/6bzPgSWghq5hhVwgbIrTTX) | 2:28 |
 | 176 | [Salamanca](https://open.spotify.com/track/53AY7g9X2UhBbDZDCFnc3f) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Salamanca](https://open.spotify.com/album/5RmmprgbPa4o0WlIoJFw5g) | 2:34 |
 | 177 | [Just Dipping My Toe](https://open.spotify.com/track/3Q97tyLwBoqT3hgpXC9h42) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Just Dipping My Toe](https://open.spotify.com/album/5bexksdhIDIVk8vDVaHpgq) | 3:47 |
 | 178 | [Night Sky](https://open.spotify.com/track/2FOxa2wEutyDKFd5uGz7ZD) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Night Sky](https://open.spotify.com/album/2rcCBSP6wwWYfcBqTeHj6V) | 2:13 |
@@ -312,4 +312,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 302 | [Poetic Tale](https://open.spotify.com/track/1ztfVPH2xKNEFIGgT1Ea7n) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Poetic Tale](https://open.spotify.com/album/62GH2jdUVGtUrHnN1EI06M) | 3:28 |
 | 303 | [Stando Solo](https://open.spotify.com/track/2kPLnIedP1tABSr0zwJwL3) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Stando Solo](https://open.spotify.com/album/5KXSQosrVZTcDVYf1N78G1) | 2:36 |
 
-Snapshot ID: `MTY4MjAzODgwMCwwMDAwMDAwMDNhNjc5NTZkOWRlZGYxNDVkY2U2OGExMDczNTdhOTFi`
+Snapshot ID: `MTY4MjAzODgwMCwwMDAwMDAwMDkzNjAyYTg2NTc4YWIyOTJkNTZkZmY4ODBiN2Y0NDM3`

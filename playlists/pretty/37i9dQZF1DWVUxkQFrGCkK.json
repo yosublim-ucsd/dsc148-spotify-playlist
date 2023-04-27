@@ -1,12 +1,12 @@
 {
   "description": "Chill & Bumpy",
-  "num_followers": 165105,
+  "num_followers": 165249,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAyODAwMCwwMDAwMDAwMDBiYjc0OTBkOWZlY2YzYzYzOGJmZDg0ZGQwYzU1MWY5",
+  "snapshot_id": "MTY4MjAyODAwMCwwMDAwMDAwMDkzOGNjZmRjMzE0YWEyYTgyMWE1MWUxZjc0NTM2YTE1",
   "tracks": [
     {
       "added_at": "2023-04-20 22:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "krypt. vol2",
-        "url": "https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq"
-      },
-      "artists": [
-        {
-          "name": "kryptogram",
-          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
-        }
-      ],
-      "duration_ms": 208570,
-      "name": "How Long Have You Been Away?",
-      "url": "https://open.spotify.com/track/5H7NVUGfw8fstj1LWJ0wXo"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Opal (Four Tet Remix)",
         "url": "https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 494256,
       "name": "Opal - Four Tet Remix",
       "url": "https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "krypt. vol2",
+        "url": "https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq"
+      },
+      "artists": [
+        {
+          "name": "kryptogram",
+          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
+        }
+      ],
+      "duration_ms": 208570,
+      "name": "How Long Have You Been Away?",
+      "url": "https://open.spotify.com/track/5H7NVUGfw8fstj1LWJ0wXo"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -651,26 +651,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "It'll All Be Over (DJ Koze Remix - Radio Edit)",
-        "url": "https://open.spotify.com/album/0T4xFSNi3vOmlC4GUXPfIE"
-      },
-      "artists": [
-        {
-          "name": "Gerry Read",
-          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
-        },
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 188048,
-      "name": "It'll All Be Over - DJ Koze Remix - Radio Edit",
-      "url": "https://open.spotify.com/track/48dojgnBKfp3drKOFdwycc"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "DO 4 LOVE (Black Coffee Remix)",
         "url": "https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 224281,
       "name": "DO 4 LOVE - Black Coffee Remix",
       "url": "https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "It'll All Be Over (DJ Koze Remix - Radio Edit)",
+        "url": "https://open.spotify.com/album/0T4xFSNi3vOmlC4GUXPfIE"
+      },
+      "artists": [
+        {
+          "name": "Gerry Read",
+          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 188048,
+      "name": "It'll All Be Over - DJ Koze Remix - Radio Edit",
+      "url": "https://open.spotify.com/track/48dojgnBKfp3drKOFdwycc"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1271,22 +1271,18 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Chucks (feat. Channel Tres)",
-        "url": "https://open.spotify.com/album/1EI3034vDdMkoMD2NgV9z1"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1kdJHSLs8tTh6g9FRRNRV5"
       },
       "artists": [
         {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
         }
       ],
-      "duration_ms": 175837,
-      "name": "Chucks (feat. Channel Tres)",
-      "url": "https://open.spotify.com/track/3VnDDruJDou1AIVjloQBzh"
+      "duration_ms": 270082,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/2DYFxnCylg9w08UNLG5qTr"
     }
   ],
   "unique_name": "Umami",

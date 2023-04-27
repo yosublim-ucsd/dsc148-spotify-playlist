@@ -2,9 +2,9 @@
 
 ### [Heart Of Texas](https://open.spotify.com/playlist/37i9dQZF1DX05oRSrPGj3d)
 
-> Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars.
+> Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars\. Cover: Remembering Keith Gattis
 
-152 songs - 9 hr 50 min
+154 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Back Roads](https://open.spotify.com/track/2ZnA5zyjPzku5AVV3UCBI9) | [Brandon Rhyder](https://open.spotify.com/artist/7E6MNnNmJCt5ag3vtTvHiD), [Dogwood Hill Publishing \(BMI\)](https://open.spotify.com/artist/5HwhZn46JgH6xrdIcXz1pN) | [Conviction](https://open.spotify.com/album/5eZc2QcvtO6kHyhKqKdinL) | 4:04 | 2021-12-23 | 2023-04-22 |
 | [Ballad Of A Southern Man](https://open.spotify.com/track/6P7kZB7hSJFyaYJcu3cYQJ) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Firewater](https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5) | 3:40 | 2023-04-21 |  |
 | [Ballad Of Spider John](https://open.spotify.com/track/3FOkwx3AhHEuRBu1rUJCsd) | [Willis Alan Ramsey](https://open.spotify.com/artist/0e4Y5YLe1wySeraOkkUiAX) | [Willis Alan Ramsey](https://open.spotify.com/album/1isk3Q87nsxN1p47aBVyPL) | 4:18 | 2021-12-23 | 2023-04-22 |
+| [Big City Blues](https://open.spotify.com/track/6OB6FyZkkq4ipo6dJ5AKhQ) | [Keith Gattis](https://open.spotify.com/artist/3JvvMZuSDpReAGChQX7p7k) | [Big City Blues](https://open.spotify.com/album/5erpYYkqMHqj4pQGRTDCdg) | 3:42 | 2023-04-26 |  |
 | [blood](https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [blood](https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU) | 4:58 | 2023-04-21 |  |
 | [Boots on a Dance Floor](https://open.spotify.com/track/2xD86KrQf1DrMuxu5h4vUT) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Any Night in Texas](https://open.spotify.com/album/7zfyys4Or3HXPmGggCrDUY) | 3:58 | 2021-12-23 |  |
 | [Broke Ass Kid](https://open.spotify.com/track/22NJ4gaxcMI4j5Fg8dbnug) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Broke Ass Kid](https://open.spotify.com/album/2HfPwB24BxVvoZJf6aDVAP) | 4:02 | 2023-04-21 |  |
@@ -48,6 +49,7 @@
 | [Drinkin' Problem](https://open.spotify.com/track/1vBpwxsLVwaR4evBIaFmqD) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [On The Rocks](https://open.spotify.com/album/5p5lKDY6Ag62f8HWfIFzQ0) | 3:40 | 2021-12-23 |  |
 | [Dry Town](https://open.spotify.com/track/2GhHZH3ChgpOxlQgNn0WPv) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 2:42 | 2021-12-23 | 2023-04-22 |
 | [El Cerrito Place](https://open.spotify.com/track/4P5RL9KIqfA1q8xT0oLzHN) | [Charlie Robison](https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt) | [Good Times](https://open.spotify.com/album/4vHUA1pDoYFTaxuCNOhK2z) | 5:41 | 2021-12-23 | 2023-04-22 |
+| [El Cerrito Place](https://open.spotify.com/track/22RZDqi5xPHTPqk2Whwozf) | [Keith Gattis](https://open.spotify.com/artist/3JvvMZuSDpReAGChQX7p7k) | [Big City Blues](https://open.spotify.com/album/5erpYYkqMHqj4pQGRTDCdg) | 5:58 | 2023-04-26 |  |
 | [Every Single Kiss](https://open.spotify.com/track/4UGnIq5oeMkckBMX6D1Ktj) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Every Single Kiss](https://open.spotify.com/album/3HiJgnMpdeQ2vwhEZxuZNr) | 3:26 | 2021-12-23 |  |
 | [Fall](https://open.spotify.com/track/4tmGCHso6k8srKMSBHmtlt) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Good Ones Never Last \(Deluxe Edition\)](https://open.spotify.com/album/0bP4iNa6xwBAHOmojqDsAy) | 3:26 | 2023-04-21 |  |
 | [Fast Lane](https://open.spotify.com/track/1T5IbNS5mqd0hx1TGZoacY) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Fast Lane](https://open.spotify.com/album/5nVtIAQNEJItZS7eJhJiKD) | 4:06 | 2021-12-23 | 2023-01-07 |
@@ -60,12 +62,12 @@
 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 | 2021-12-23 |  |
 | [Good Lord Lorrie](https://open.spotify.com/track/0pghPocTwFg6ckBUs52SQ8) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Goodbye Normal Street](https://open.spotify.com/album/0bbz2cwhC8oQtyli5tjaqP) | 5:01 | 2023-04-21 |  |
 | [Green](https://open.spotify.com/track/5Uf1Lw638mmsPEQFRmCUYq) | [Kody West](https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek) | [Green](https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA) | 3:36 | 2021-12-23 |  |
-| [Grow Old with Me](https://open.spotify.com/track/5Z871eY8ziD9AXw3EM9ymx) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Trophy](https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v) | 3:22 | 2021-12-23 |  |
+| [Grow Old with Me](https://open.spotify.com/track/5Z871eY8ziD9AXw3EM9ymx) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Trophy](https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v) | 3:22 | 2021-12-23 | 2023-04-27 |
 | [Happier Alone](https://open.spotify.com/track/7vtbbBGH2hKTVMnhJlLpn7) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Black Sheep](https://open.spotify.com/album/42FIwhkRiRgUp0bLKTwvVP) | 3:44 | 2023-04-21 |  |
 | [He Ain't a Cowboy](https://open.spotify.com/track/696dr7CxLuSxj52kQhCmEV) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [He Ain't a Cowboy](https://open.spotify.com/album/1EJPMuvwOyopFUq730Zjv0) | 3:13 | 2021-12-23 | 2023-04-22 |
 | [He Stopped Loving Her Today](https://open.spotify.com/track/4BcrWCZPXuoGU0SnAsJW1s) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [George Jones \- 16 Biggest Hits](https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p) | 3:17 | 2021-12-23 |  |
 | [Hell of a Year](https://open.spotify.com/track/2kvlpIO6c9yvKAzk2KF0IS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/4IrKqWfXyJknGVjBGbGX1v) | 3:52 | 2023-04-21 |  |
-| [Hey Moon](https://open.spotify.com/track/55UgjwzWbQqOGMu66RHQRe) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Leanna](https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd) | 2:54 | 2023-04-21 |  |
+| [Hey Moon](https://open.spotify.com/track/55UgjwzWbQqOGMu66RHQRe) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Leanna](https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd) | 2:54 | 2023-04-21 | 2023-04-27 |
 | [Highwayman](https://open.spotify.com/track/7jWbXvrgdbkajU8L28ahn5) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Highwayman](https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU) | 3:02 | 2021-12-23 |  |
 | [Hippies and Cowboys](https://open.spotify.com/track/0G7pjeHX2TDqw6mx14puWg) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Less Wise](https://open.spotify.com/album/4TeULghzyCR6UEe2Y2wgHa) | 5:00 | 2023-04-21 |  |
 | [Houston County Sky](https://open.spotify.com/track/6zHhOn0VRQkEP4Jae6crUI) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Whiskey Myers](https://open.spotify.com/album/2mvcTuW69CGtjWFFqg4Q1Z) | 4:05 | 2021-12-23 | 2023-04-22 |

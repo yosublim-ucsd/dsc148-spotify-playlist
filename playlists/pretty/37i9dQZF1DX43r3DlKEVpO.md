@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 
 > Uma seleção para as mães e os pais cantarem junto com os filhos e vice\-versa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,401 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,413 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 | 66 | [Baby](https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Gal Costa](https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu) | 3:32 |
 | 67 | [This Time Tomorrow \- 2020 Stereo Remaster](https://open.spotify.com/track/4KvaAwAeXLKyRjroj2QyjE) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. 1](https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0) | 3:23 |
 | 68 | [Here Comes The Sun \- 2019 Mix](https://open.spotify.com/track/3CPFHaVEHkkH26hAEPgMMp) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Super Deluxe Edition\)](https://open.spotify.com/album/5iT3F2EhjVQVrO4PKhsP8c) | 3:05 |
-| 69 | [Coisinha do Pai](https://open.spotify.com/track/0QSFBx4LlChEpPlzPLChNJ) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [No Pagode](https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV) | 2:54 |
-| 70 | [I Heard It Through The Grapevine](https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Every Great Motown Hit Of Marvin Gaye](https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL) | 3:16 |
+| 69 | [I Heard It Through The Grapevine](https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Every Great Motown Hit Of Marvin Gaye](https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL) | 3:16 |
+| 70 | [Coisinha do Pai](https://open.spotify.com/track/0QSFBx4LlChEpPlzPLChNJ) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [No Pagode](https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV) | 2:54 |
 | 71 | [It's Now or Never](https://open.spotify.com/track/1XunTmhOcj3xwh4b8P3isX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 3:14 |
 | 72 | [João E Maria](https://open.spotify.com/track/0XI3xzi3W1sBDfri2FKtj9) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico 50 Anos \- O Trovador](https://open.spotify.com/album/0D3mPnL97GSsO21X6BD7XV) | 2:21 |
 | 73 | [Clube Da Esquina Nº2 \- Acústico](https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Nada Será Como Antes \(Acústico\)](https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc) | 4:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 | 99 | [Sá Marina](https://open.spotify.com/track/6087zQEvQopjLV4Nzau43H) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Retratos](https://open.spotify.com/album/68kHh9D4A3LyfEV0JACNpA) | 3:21 |
 | 100 | [Era Uma Vez \- Ao Vivo](https://open.spotify.com/track/67v2dYsKI0g4qOPfS23ePG) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Nossa História \(Ao Vivo\)](https://open.spotify.com/album/4qEeyIC0z30gL0se5SxBYx) | 1:28 |
 
-Snapshot ID: `MTY1NDYxMzEyOCwwMDAwMDAwMDBmMTc0YzY5MjVlOWVlZWYyYjgyZmQ4MzgxNmViNTdi`
+Snapshot ID: `MTY1NDYxMzEyOCwwMDAwMDAwMDViMWYxYzYxNTVjYWNiMDVkMjI3NTJiNDZiMmM4NzJi`

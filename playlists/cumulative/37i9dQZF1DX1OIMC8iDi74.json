@@ -1850,7 +1850,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 270422,
       "name": "GOD (MUSIC)",
       "url": "https://open.spotify.com/track/0JwXTGM7R2KGSfck5EZ9xm"
@@ -3152,6 +3152,28 @@
       "duration_ms": 156553,
       "name": "MOON WALK",
       "url": "https://open.spotify.com/track/5EqoRfSw5zj4bQqJdqNff4"
+    },
+    {
+      "album": {
+        "name": "Moondance (Move Together)",
+        "url": "https://open.spotify.com/album/1WYArFyJAyDTrCskmxRBvJ"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "XAELO",
+          "url": "https://open.spotify.com/artist/4jz58WEDWGF8fy6s58F2nV"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250214,
+      "name": "Moondance (Move Together)",
+      "url": "https://open.spotify.com/track/3K9OoTcAxpBcYozungwRHw"
     },
     {
       "album": {

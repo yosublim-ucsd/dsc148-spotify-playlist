@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 
 > pov: fresh produce is in your reusable tote, the flowers are in bloom, and you’re sipping on an iced coffee perusing through knick knacks
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,911 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,915 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

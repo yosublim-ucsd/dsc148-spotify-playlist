@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Q & Baby Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 996,562 likes - 130 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 996,658 likes - 130 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 83 | [Razor Blades](https://open.spotify.com/track/6C3jUhCmyGk4IMHquseryI) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv), [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Razor Blades](https://open.spotify.com/album/3O4cMy4fjaEmut0hbdqtuV) | 3:01 |
 | 84 | [So Be It \(with Summer Walker\) \- Remix](https://open.spotify.com/track/2IkJZzXP6fg0A7WOpp1xAE) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [The Hurtbook \(Homegirl Pack\)](https://open.spotify.com/album/5kljTEylYVvyu90Qnw6JIB) | 3:13 |
 | 85 | [Sticky \(feat\. Childish Gambino & KIRBY\)](https://open.spotify.com/track/14adSLAL6WgvwH5snRF3gs) | [Ni'jah](https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Swarm](https://open.spotify.com/album/7AXxq1n3X7JZbbEnGCfLAX) | 2:51 |
-| 86 | [Fatal Attraction](https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Fatal Attraction](https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT) | 3:16 |
+| 86 | [Fatal Attraction](https://open.spotify.com/track/3y9JbvYZAhVeQsAECrKAgt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:16 |
 | 87 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 |
 | 88 | [Chocolati](https://open.spotify.com/track/2GnmljVcpgOs1kX2ysKazT) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Analyze Love](https://open.spotify.com/album/3tMt7EOBb1KBbfiKKJaWKj) | 2:20 |
 | 89 | [& That's Alright](https://open.spotify.com/track/1ASixBTwRxUPMVXQ1E4vVC) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Comfortable Enough](https://open.spotify.com/album/0IBdkfqrzHjWi13fudEWyp) | 3:01 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 129 | [NASTY](https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [NASTY](https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF) | 2:50 |
 | 130 | [Bow Down](https://open.spotify.com/track/6PoD6ZYOAMkCJAbpAgpT1T) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 2:03 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDRiOGZjYjc0ZjM3NTZlYzJhMWFmYTE3MDJjYmM3OTE5`
+Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDUyNDAyYWIxOThiMzZjMDVmODMwZjJhMWU2YWRmYTBj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: Official髭男dism
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,897 likes - 79 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,991 likes - 79 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 27 | [瞳のランデヴー](https://open.spotify.com/track/615moHge9ZH2r6NGj3ZANR) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL), [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [瞳のランデヴー](https://open.spotify.com/album/4zfVYnpWM2lUfHEXvE3I4w) | 4:17 |
 | 28 | [Cantabile](https://open.spotify.com/track/4Y5avL0StifbsLNUtzWH58) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [Cantabile](https://open.spotify.com/album/4nCi6OEl9dW978qgBL6X8F) | 3:46 |
 | 29 | [Kid](https://open.spotify.com/track/7zKieV1uXBhucwmYM4sCzW) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [Kid](https://open.spotify.com/album/2yoIDnfb9b819VS5hsh9MZ) | 3:30 |
-| 30 | [生命謳歌](https://open.spotify.com/track/4ds7UtHjZaDOqrNfDvEAFu) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [贅沢](https://open.spotify.com/album/4veTaGfANaofpm4qHiNnah) | 3:09 |
+| 30 | [Seimei Oka](https://open.spotify.com/track/1X0ryvast6yk2en45qhvKl) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Zeitaku](https://open.spotify.com/album/0l6eHIUnUiOmzPUYsflA4q) | 3:09 |
 | 31 | [そんなbitterな話](https://open.spotify.com/track/4QlSFkbRxZWkHDF1MqBaEY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [そんなbitterな話](https://open.spotify.com/album/0ssYbSrcAHMWk2EijQAKTP) | 4:36 |
 | 32 | [ただそれだけのことがさ](https://open.spotify.com/track/3B6vc2GvuGBmoNESYzpkze) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ただそれだけのことがさ](https://open.spotify.com/album/2xO7qPcley2aBcIy0Lf6mK) | 4:13 |
 | 33 | [チーズケーキ・ファクトリー](https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [The End of Yesterday](https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9) | 3:34 |
@@ -82,10 +82,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 72 | [Drama](https://open.spotify.com/track/7q81qAmPUTbYiVOZ9uZDlk) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Drama](https://open.spotify.com/album/5jnChZoGsz6XTKKEgr6xkm) | 3:37 |
 | 73 | [DESTINY](https://open.spotify.com/track/2vhnYCh0JSAMKirkdPTPJ0) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [DESTINY](https://open.spotify.com/album/468ZPAqEXHLZMxboOXkq0z) | 5:29 |
 | 74 | [ハイキ](https://open.spotify.com/track/571OuDNbmwsysH42KfVp5P) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [ハイキ](https://open.spotify.com/album/4RCWq7krRO3AVFj8fvWhYs) | 3:35 |
-| 75 | [アローン](https://open.spotify.com/track/1hvUu7EYFV1eHpxlwzk8dK) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [アローン](https://open.spotify.com/album/1dmR3vzjNHd782ot400af8) | 3:12 |
+| 75 | [Alone](https://open.spotify.com/track/72OWeSElexd0PQCsJJsx8c) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [Alone](https://open.spotify.com/album/0iRBUigZih92BXcPofuy5h) | 3:12 |
 | 76 | [ハルによろしく](https://open.spotify.com/track/3ZdvA9E8TadmJaTHJXuXae) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [ハルによろしく](https://open.spotify.com/album/4V8x1diicqFKQX3wX2MhJ7) | 3:50 |
 | 77 | [Lapse](https://open.spotify.com/track/5TeGDq5gS3KBG88UvdAT5E) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/6IOnkt2rwHoyPgd8tiBTSD) | 3:55 |
 | 78 | [RIDE TOUGH!](https://open.spotify.com/track/6LCz9LsnSyO9AFbquwLxO3) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [RIDE TOUGH!](https://open.spotify.com/album/6es5vAYj4JJpyMucQiBNNn) | 2:06 |
 | 79 | [Song for you](https://open.spotify.com/track/72v02xOSWuDQphZPZTqxzp) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [BUDDY CLUB](https://open.spotify.com/album/0nNF3J9mHGy8v07hWoBLiI) | 2:18 |
 
-Snapshot ID: `MTY4MjQzNDgwMCwwMDAwMDAwMDc2M2E1Njk4YzRlYjNlN2FhZDFmMzQ5YjNmOGNiOGRj`
+Snapshot ID: `MTY4MjQzNDgwMCwwMDAwMDAwMDg1N2FmY2VlYjY4MDQ4MjMyYjZhZTY4YjM3ZDVhOWRj`

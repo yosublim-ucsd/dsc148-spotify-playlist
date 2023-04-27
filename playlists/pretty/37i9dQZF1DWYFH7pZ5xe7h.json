@@ -1,12 +1,12 @@
 {
   "description": "Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.",
-  "num_followers": 40736,
+  "num_followers": 40765,
   "original_name": "This Is Mahler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjMyMTM5NCwwMDAwMDAwMGI5MDM3Y2MyNmM2NGE4MzVjNDU2MTg4OTNkNzQwMzgz",
+  "snapshot_id": "MTY1NjMyMTM5NCwwMDAwMDAwMGVmYTg0MjdlMGJkZDk4MjlhZDE1ZDUxZWZkNjMzYzNh",
   "tracks": [
     {
       "added_at": "2022-06-27 09:16:34",
@@ -163,30 +163,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Symphony No. 6",
-        "url": "https://open.spotify.com/album/3FCu5nIj6qa8XiOPHn6j5v"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        }
-      ],
-      "duration_ms": 837013,
-      "name": "Symphony No. 6 in A Minor: II. Andante moderato - Live at Philharmonie, Berlin, 2004",
-      "url": "https://open.spotify.com/track/1nVnGOXq5ar7Kar7YuAMNY"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler, G.: Symphony No. 1, \"Titan\"",
         "url": "https://open.spotify.com/album/1u3QWfZoBOfur193RLbl18"
       },
@@ -207,6 +183,30 @@
       "duration_ms": 599120,
       "name": "Symphony No. 1 in D Major \"Titan\": III. Feierlich und gemessen, ohne zu schleppen",
       "url": "https://open.spotify.com/track/3LUHnlnenBwwwe14hH9LWp"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Symphony No. 6",
+        "url": "https://open.spotify.com/album/3FCu5nIj6qa8XiOPHn6j5v"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "duration_ms": 837013,
+      "name": "Symphony No. 6 in A Minor: II. Andante moderato - Live at Philharmonie, Berlin, 2004",
+      "url": "https://open.spotify.com/track/1nVnGOXq5ar7Kar7YuAMNY"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -595,6 +595,30 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
+        "name": "Mahler: Symphony No. 3 in D Minor",
+        "url": "https://open.spotify.com/album/71fpVhVaGMhR99T89QumK4"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
+        },
+        {
+          "name": "Los Angeles Philharmonic",
+          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
+        }
+      ],
+      "duration_ms": 150626,
+      "name": "Symphony No. 3 in D Minor: Part 1, I. Langsam. Schwer",
+      "url": "https://open.spotify.com/track/5ZLCdjQJJk7ohvAogTpYOC"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
         "name": "Mahler: Das Lied von der Erde",
         "url": "https://open.spotify.com/album/1k4ahNyUuhTwoIwUU9lmSt"
       },
@@ -623,30 +647,6 @@
       "duration_ms": 570586,
       "name": "Das Lied von der Erde (Song of the Earth): II. Der Einsame im Herbst (The Lonely One in Autumn)",
       "url": "https://open.spotify.com/track/0M8f4M5NRFuLkOm6RnPrtG"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
-        "name": "Mahler: Symphony No. 3 in D Minor",
-        "url": "https://open.spotify.com/album/71fpVhVaGMhR99T89QumK4"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Esa-Pekka Salonen",
-          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
-        },
-        {
-          "name": "Los Angeles Philharmonic",
-          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
-        }
-      ],
-      "duration_ms": 150626,
-      "name": "Symphony No. 3 in D Minor: Part 1, I. Langsam. Schwer",
-      "url": "https://open.spotify.com/track/5ZLCdjQJJk7ohvAogTpYOC"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -863,30 +863,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "David Zinman Conducts Mahler Symphonies",
-        "url": "https://open.spotify.com/album/5XcBRj2zqrkNftPFWPhJiF"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "David Zinman",
-          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
-        },
-        {
-          "name": "Tonhalle-Orchester Z\u00fcrich",
-          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
-        }
-      ],
-      "duration_ms": 1324586,
-      "name": "I. Allegro maestoso",
-      "url": "https://open.spotify.com/track/2pEDMuA7Fmr92lCAKYo7hb"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler, G.: Symphony No. 4",
         "url": "https://open.spotify.com/album/4aa1nbWZcIMVFAh71JntGG"
       },
@@ -915,6 +891,30 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
+        "name": "David Zinman Conducts Mahler Symphonies",
+        "url": "https://open.spotify.com/album/5XcBRj2zqrkNftPFWPhJiF"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        },
+        {
+          "name": "Tonhalle-Orchester Z\u00fcrich",
+          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
+        }
+      ],
+      "duration_ms": 1324586,
+      "name": "I. Allegro maestoso",
+      "url": "https://open.spotify.com/track/2pEDMuA7Fmr92lCAKYo7hb"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
         "name": "Mahler: Totenfeier, Lieder eines fahrenden Gesellen",
         "url": "https://open.spotify.com/album/5sxVMd8ztG4IBJRCy2ex8l"
       },
@@ -935,30 +935,6 @@
       "duration_ms": 1352400,
       "name": "Totenfeier",
       "url": "https://open.spotify.com/track/20qzS0mm8lSIFdq4y3gSHi"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
-        "name": "Mahler: Symphony No. 2 in C Minor \"Resurrection\"",
-        "url": "https://open.spotify.com/album/7bonMeFynV4RClKhvje0zX"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Lorin Maazel",
-          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        }
-      ],
-      "duration_ms": 2164733,
-      "name": "Symphony No. 2 in C Minor \"Resurrection\": V. Im Tempo des Scherzos. Wild herausfahrend",
-      "url": "https://open.spotify.com/track/2ogyvIh53LR2KdkDhRYGJx"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -987,6 +963,30 @@
       "duration_ms": 145080,
       "name": "R\u00fcckert-Lieder, Op. 44: 1. Ich atmet' einen linden Duft - Live",
       "url": "https://open.spotify.com/track/5Fw8FVg8Z5XnayUWuSJ9FB"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Symphony No. 2 in C Minor \"Resurrection\"",
+        "url": "https://open.spotify.com/album/7bonMeFynV4RClKhvje0zX"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Lorin Maazel",
+          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        }
+      ],
+      "duration_ms": 2164733,
+      "name": "Symphony No. 2 in C Minor \"Resurrection\": V. Im Tempo des Scherzos. Wild herausfahrend",
+      "url": "https://open.spotify.com/track/2ogyvIh53LR2KdkDhRYGJx"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1579,6 +1579,30 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
+        "name": "Mahler, G.: Symphony No. 7",
+        "url": "https://open.spotify.com/album/4nI8QVH45a1AMLoDHvgmQn"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "duration_ms": 1250186,
+      "name": "Symphony No. 7 in E Minor: I. Langsam - Allegro con fuoco",
+      "url": "https://open.spotify.com/track/23ZAoFEVlfrjzMZHTgUD1c"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
         "name": "Mahler: Orchestral Songs",
         "url": "https://open.spotify.com/album/3VPYCCNQA2wp4DHVKc8SMx"
       },
@@ -1603,30 +1627,6 @@
       "duration_ms": 183706,
       "name": "Lieder eines fahrenden Gesellen: Ich hab' ein gl\u00fchend Messer",
       "url": "https://open.spotify.com/track/5v8X842NJtDA2daRIXsmyl"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
-        "name": "Mahler, G.: Symphony No. 7",
-        "url": "https://open.spotify.com/album/4nI8QVH45a1AMLoDHvgmQn"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Polish National Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
-        },
-        {
-          "name": "Michael Halasz",
-          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
-        }
-      ],
-      "duration_ms": 1250186,
-      "name": "Symphony No. 7 in E Minor: I. Langsam - Allegro con fuoco",
-      "url": "https://open.spotify.com/track/23ZAoFEVlfrjzMZHTgUD1c"
     },
     {
       "added_at": "2022-06-27 09:16:34",

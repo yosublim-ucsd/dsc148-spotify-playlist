@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Luanna e novos talentos brasileiros no horizonte.",
-  "num_followers": 421881,
+  "num_followers": 421878,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjM3MTY2MywwMDAwMDAwMDllZjkxMWQ0YzY0ZTAyZTlhYWU4ODI0Y2Q1NDZiOGVj",
+  "snapshot_id": "MTY4MjM3MTY2MywwMDAwMDAwMDhiZTBhY2ZiZWUxZDljZTRjYWY5OTEyZGZjYzUyZDhi",
   "tracks": [
     {
       "added_at": "2023-04-24 21:27:43",
@@ -219,18 +219,26 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
-        "name": "Eu Fiquei Com a Puta",
-        "url": "https://open.spotify.com/album/4AFnqpOQ1WyrLchDC2980C"
+        "name": "Todo Mundo Ama O Sol",
+        "url": "https://open.spotify.com/album/4YfxPY16QwP1KTdtvkz5y3"
       },
       "artists": [
         {
-          "name": "MC Josh",
-          "url": "https://open.spotify.com/artist/2sJi2UQrxTzhekQYGLxvT6"
+          "name": "Tarcis",
+          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
+        },
+        {
+          "name": "VND",
+          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
+        },
+        {
+          "name": "pumapjl",
+          "url": "https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM"
         }
       ],
-      "duration_ms": 138461,
-      "name": "Eu Fiquei Com a Puta",
-      "url": "https://open.spotify.com/track/5ljLYEJZRLjtrZt1DXtT8B"
+      "duration_ms": 162000,
+      "name": "Beira Mar",
+      "url": "https://open.spotify.com/track/3D4H9CEYCjP7KuHQ8JZVtv"
     },
     {
       "added_at": "2023-04-24 21:27:43",
@@ -259,26 +267,18 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
-        "name": "Todo Mundo Ama O Sol",
-        "url": "https://open.spotify.com/album/4YfxPY16QwP1KTdtvkz5y3"
+        "name": "Eu Fiquei Com a Puta",
+        "url": "https://open.spotify.com/album/4AFnqpOQ1WyrLchDC2980C"
       },
       "artists": [
         {
-          "name": "Tarcis",
-          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
-        },
-        {
-          "name": "VND",
-          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
-        },
-        {
-          "name": "pumapjl",
-          "url": "https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM"
+          "name": "MC Josh",
+          "url": "https://open.spotify.com/artist/2sJi2UQrxTzhekQYGLxvT6"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Beira Mar",
-      "url": "https://open.spotify.com/track/3D4H9CEYCjP7KuHQ8JZVtv"
+      "duration_ms": 138461,
+      "name": "Eu Fiquei Com a Puta",
+      "url": "https://open.spotify.com/track/5ljLYEJZRLjtrZt1DXtT8B"
     },
     {
       "added_at": "2023-04-24 21:27:43",
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
+        "name": "PATY",
+        "url": "https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO"
+      },
+      "artists": [
+        {
+          "name": "Welisson",
+          "url": "https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ"
+        }
+      ],
+      "duration_ms": 109714,
+      "name": "PATY",
+      "url": "https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh"
+    },
+    {
+      "added_at": "2023-04-24 21:27:43",
+      "album": {
         "name": "100 Mili",
         "url": "https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 142153,
       "name": "100 Mili",
       "url": "https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu"
-    },
-    {
-      "added_at": "2023-04-24 21:27:43",
-      "album": {
-        "name": "PATY",
-        "url": "https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO"
-      },
-      "artists": [
-        {
-          "name": "Welisson",
-          "url": "https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ"
-        }
-      ],
-      "duration_ms": 109714,
-      "name": "PATY",
-      "url": "https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh"
     },
     {
       "added_at": "2023-04-24 21:27:43",
@@ -571,6 +571,26 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
+        "name": "COSTA QUENTE",
+        "url": "https://open.spotify.com/album/262D8mrqEGl3kNjV4n0RH8"
+      },
+      "artists": [
+        {
+          "name": "Flacko",
+          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        }
+      ],
+      "duration_ms": 166285,
+      "name": "COSTA QUENTE",
+      "url": "https://open.spotify.com/track/0Lv1yqE8zkffbocnMcY8vN"
+    },
+    {
+      "added_at": "2023-04-24 21:27:43",
+      "album": {
         "name": "Rock Danger, Vol. 1",
         "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
       },
@@ -639,46 +659,6 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
-        "name": "COSTA QUENTE",
-        "url": "https://open.spotify.com/album/262D8mrqEGl3kNjV4n0RH8"
-      },
-      "artists": [
-        {
-          "name": "Flacko",
-          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        }
-      ],
-      "duration_ms": 166285,
-      "name": "COSTA QUENTE",
-      "url": "https://open.spotify.com/track/0Lv1yqE8zkffbocnMcY8vN"
-    },
-    {
-      "added_at": "2023-04-24 21:27:43",
-      "album": {
-        "name": "GEMINI",
-        "url": "https://open.spotify.com/album/1HnkY3D40gemQBmZ9azWX2"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "GEMINI",
-      "url": "https://open.spotify.com/track/1vrkzEsrowxRKGaj4eiMsF"
-    },
-    {
-      "added_at": "2023-04-24 21:27:43",
-      "album": {
         "name": "3AM (PXT4 RASA) [Remix]",
         "url": "https://open.spotify.com/album/1acHuLX2pd5QNZ46ZvHD8r"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 122192,
       "name": "3AM (PXT4 RASA) - Remix",
       "url": "https://open.spotify.com/track/0niFRLaq6SNmy6PThNORj0"
+    },
+    {
+      "added_at": "2023-04-24 21:27:43",
+      "album": {
+        "name": "GEMINI",
+        "url": "https://open.spotify.com/album/1HnkY3D40gemQBmZ9azWX2"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "GEMINI",
+      "url": "https://open.spotify.com/track/1vrkzEsrowxRKGaj4eiMsF"
     },
     {
       "added_at": "2023-04-24 21:27:43",
@@ -911,6 +911,26 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
+        "name": "Favelinha",
+        "url": "https://open.spotify.com/album/46iB1eRPEXsHE2IqPr1qHd"
+      },
+      "artists": [
+        {
+          "name": "Jovem MK",
+          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 102958,
+      "name": "Favelinha",
+      "url": "https://open.spotify.com/track/3qjjTCINpvCRG22lFWUeod"
+    },
+    {
+      "added_at": "2023-04-24 21:27:43",
+      "album": {
         "name": "Me liga",
         "url": "https://open.spotify.com/album/3VeZjOr9TbplcmNHzZ9xG7"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 150857,
       "name": "Me liga",
       "url": "https://open.spotify.com/track/4ia06gVwN3wMDpZXRMFcX6"
-    },
-    {
-      "added_at": "2023-04-24 21:27:43",
-      "album": {
-        "name": "Favelinha",
-        "url": "https://open.spotify.com/album/46iB1eRPEXsHE2IqPr1qHd"
-      },
-      "artists": [
-        {
-          "name": "Jovem MK",
-          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 102958,
-      "name": "Favelinha",
-      "url": "https://open.spotify.com/track/3qjjTCINpvCRG22lFWUeod"
     },
     {
       "added_at": "2023-04-24 21:27:43",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
-        "name": "V\u00eanus",
-        "url": "https://open.spotify.com/album/1sDQNKjF3tZsLJgtaGnagx"
-      },
-      "artists": [
-        {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
-        }
-      ],
-      "duration_ms": 177524,
-      "name": "V\u00eanus",
-      "url": "https://open.spotify.com/track/0BLl7ykY95c40yMYW5iPjQ"
-    },
-    {
-      "added_at": "2023-04-24 21:27:43",
-      "album": {
         "name": "JORGE",
         "url": "https://open.spotify.com/album/4kkHhfWEzrVRItoPNP4Hg0"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 160909,
       "name": "JORGE",
       "url": "https://open.spotify.com/track/1SD1ErhRaUdk8k3ey136Lw"
+    },
+    {
+      "added_at": "2023-04-24 21:27:43",
+      "album": {
+        "name": "V\u00eanus",
+        "url": "https://open.spotify.com/album/1sDQNKjF3tZsLJgtaGnagx"
+      },
+      "artists": [
+        {
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+        }
+      ],
+      "duration_ms": 177524,
+      "name": "V\u00eanus",
+      "url": "https://open.spotify.com/track/0BLl7ykY95c40yMYW5iPjQ"
     },
     {
       "added_at": "2023-04-24 21:27:43",

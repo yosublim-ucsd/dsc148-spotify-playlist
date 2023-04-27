@@ -1,12 +1,12 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B creado en el continente y Espa\u00f1a. Tiago PZK en portada.",
-  "num_followers": 95690,
+  "num_followers": 95719,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA1NjgwMCwwMDAwMDAwMGFkZDNlOTU4M2NlNDQ2YWRkZTA2Mjg0NmFkZmUwYTkz",
+  "snapshot_id": "MTY4MjA1NjgwMCwwMDAwMDAwMDg0MTM1ZDczNTFkNGM2OGE4OTM4ZWJmOTExOGVhM2Q0",
   "tracks": [
     {
       "added_at": "2023-04-21 06:00:00",
@@ -371,6 +371,46 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
+        "name": "Nico Valdi produciendo a Juli Martorell",
+        "url": "https://open.spotify.com/album/0a3SDR3HFeSpzhCdNBZxaS"
+      },
+      "artists": [
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        },
+        {
+          "name": "Juli Martorell",
+          "url": "https://open.spotify.com/artist/4dUFF4VrbkRpQmJ9fO5fVV"
+        }
+      ],
+      "duration_ms": 164854,
+      "name": "Nico Valdi produciendo a Juli Martorell",
+      "url": "https://open.spotify.com/track/12TqKfJ54Sv6qamEwWiOa2"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "Portales",
+        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 192352,
+      "name": "Entre Nosotros",
+      "url": "https://open.spotify.com/track/5LazbgCsa2IskJbPMnI8Qd"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
         "name": "La Ducha Remix (con Becky G, Tini)",
         "url": "https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI"
       },
@@ -399,46 +439,6 @@
       "duration_ms": 274437,
       "name": "La Ducha Remix (con Becky G, Tini)",
       "url": "https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
-        "name": "Portales",
-        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 192352,
-      "name": "Entre Nosotros",
-      "url": "https://open.spotify.com/track/5LazbgCsa2IskJbPMnI8Qd"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
-        "name": "Nico Valdi produciendo a Juli Martorell",
-        "url": "https://open.spotify.com/album/0a3SDR3HFeSpzhCdNBZxaS"
-      },
-      "artists": [
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        },
-        {
-          "name": "Juli Martorell",
-          "url": "https://open.spotify.com/artist/4dUFF4VrbkRpQmJ9fO5fVV"
-        }
-      ],
-      "duration_ms": 164854,
-      "name": "Nico Valdi produciendo a Juli Martorell",
-      "url": "https://open.spotify.com/track/12TqKfJ54Sv6qamEwWiOa2"
     },
     {
       "added_at": "2023-04-21 06:00:00",
@@ -751,38 +751,6 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "9:15",
-        "url": "https://open.spotify.com/album/0aHNuxs4GlcjYkoENqm6en"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        }
-      ],
-      "duration_ms": 124800,
-      "name": "9:15",
-      "url": "https://open.spotify.com/track/505e4QYrsvZHOuojWxpOLK"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
-        "name": "Carmes\u00ed",
-        "url": "https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9"
-      },
-      "artists": [
-        {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
-        }
-      ],
-      "duration_ms": 165562,
-      "name": "Carmes\u00ed",
-      "url": "https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
         "name": "Invierno",
         "url": "https://open.spotify.com/album/36akjquegYLPv8C90n0Hqu"
       },
@@ -811,6 +779,54 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
+        "name": "Carmes\u00ed",
+        "url": "https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "duration_ms": 165562,
+      "name": "Carmes\u00ed",
+      "url": "https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "9:15",
+        "url": "https://open.spotify.com/album/0aHNuxs4GlcjYkoENqm6en"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "9:15",
+      "url": "https://open.spotify.com/track/505e4QYrsvZHOuojWxpOLK"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "Cortada en la Frente",
+        "url": "https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
+        }
+      ],
+      "duration_ms": 200240,
+      "name": "Cortada en la Frente",
+      "url": "https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
         "name": "RIP",
         "url": "https://open.spotify.com/album/55b2KZglwORMKbL2bW8EhC"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 192000,
       "name": "RIP",
       "url": "https://open.spotify.com/track/1iSLhqv5Lf9N9Rp9bqQQWD"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
-        "name": "Cortada en la Frente",
-        "url": "https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9ne",
-          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
-        }
-      ],
-      "duration_ms": 200240,
-      "name": "Cortada en la Frente",
-      "url": "https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96"
     },
     {
       "added_at": "2023-04-21 06:00:00",

@@ -1,12 +1,12 @@
 {
-  "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 388564,
+  "description": "Back to the golden age of the scene. Cover: The Used",
+  "num_followers": 388934,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAxOTIzMiwwMDAwMDAwMGJiNTMzYjY3YTY5ZDg1ZjdiYTJlMjI5MzkxNWIyMWY5",
+  "snapshot_id": "MTY4MDAxOTIzMiwwMDAwMDAwMGMwYWFmZjc4NWYyOWVjYmZmMTc4YzJjODllMWM0ZTg3",
   "tracks": [
     {
       "added_at": "2023-03-20 09:14:23",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "Siren Song Of The Counter-Culture",
-        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 170893,
-      "name": "Give It All",
-      "url": "https://open.spotify.com/track/6TTBhxnb9NYT7cz6aLOkBy"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
         "name": "Let's Cheers To This",
         "url": "https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T"
       },
@@ -527,18 +511,18 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "Doppelganger",
-        "url": "https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE"
+        "name": "Siren Song Of The Counter-Culture",
+        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
       },
       "artists": [
         {
-          "name": "The Fall of Troy",
-          "url": "https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P"
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 237680,
-      "name": "F.C.P.R.E.M.I.X.",
-      "url": "https://open.spotify.com/track/4OsLDuaH0bWR6xM6nj66F8"
+      "duration_ms": 170893,
+      "name": "Give It All",
+      "url": "https://open.spotify.com/track/6TTBhxnb9NYT7cz6aLOkBy"
     },
     {
       "added_at": "2023-03-20 09:14:23",
@@ -555,6 +539,22 @@
       "duration_ms": 242133,
       "name": "Buried Myself Alive",
       "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
+        "name": "Doppelganger",
+        "url": "https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE"
+      },
+      "artists": [
+        {
+          "name": "The Fall of Troy",
+          "url": "https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P"
+        }
+      ],
+      "duration_ms": 237680,
+      "name": "F.C.P.R.E.M.I.X.",
+      "url": "https://open.spotify.com/track/4OsLDuaH0bWR6xM6nj66F8"
     },
     {
       "added_at": "2023-03-20 09:14:23",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "What It Is To Burn",
-        "url": "https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x"
-      },
-      "artists": [
-        {
-          "name": "Finch",
-          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "Letters To You",
-      "url": "https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
         "name": "His Last Walk",
         "url": "https://open.spotify.com/album/3ANtCCvIfTVZexgdh0LXdM"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 235640,
       "name": "Guys Like You Make Us Look Bad",
       "url": "https://open.spotify.com/track/75rctYH1J87zkJ51c4cxaq"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
+        "name": "What It Is To Burn",
+        "url": "https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "Letters To You",
+      "url": "https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc"
     },
     {
       "added_at": "2023-03-20 09:14:23",

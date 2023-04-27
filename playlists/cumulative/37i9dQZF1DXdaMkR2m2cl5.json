@@ -811,6 +811,24 @@
     },
     {
       "album": {
+        "name": "Crushing",
+        "url": "https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "date_added": "2020-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187773,
+      "name": "Comfort",
+      "url": "https://open.spotify.com/track/41BSVFI0wboUPPGm4LOA5z"
+    },
+    {
+      "album": {
         "name": "Half Moon Light",
         "url": "https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1"
       },
@@ -1700,7 +1718,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 221546,
       "name": "I Knew I Could Fly",
       "url": "https://open.spotify.com/track/1tLDBychkP96pHT664rJIY"

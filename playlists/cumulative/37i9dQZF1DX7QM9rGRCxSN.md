@@ -4,7 +4,7 @@
 
 > Belleza y distorsión imaginada por bandas iberoamericanas\. Con te vi en un planetario, en portada.
 
-66 songs - 4 hr 32 min
+67 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Mi Sangre](https://open.spotify.com/track/1ZXvT95QolAhFYQ3xUfVDI) | [VVV \[Trippin'you\]](https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU), [Luz Futuro](https://open.spotify.com/artist/3BaSeTuHgL69zvtazv2XvA) | [Cólera / Mi Sangre](https://open.spotify.com/album/6i6RWwpYyUuASuBWLw4MKd) | 2:50 | 2021-10-19 | 2023-03-25 |
 | [Mil Espejos](https://open.spotify.com/track/5W7CsTIjb4LNKujDtqutGc) | [Nudozurdo](https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0) | [Sintetica](https://open.spotify.com/album/6D2b3pORKyOOwZwJ4InjXe) | 4:33 | 2021-10-19 |  |
 | [Morir de Amor </3](https://open.spotify.com/track/6kRVdk5YVE7TH5yWDeCTcO) | [Melted Ice Cream](https://open.spotify.com/artist/5sM0rohMauU34KstMcmrw9) | [Morir de Amor </3](https://open.spotify.com/album/65ClgMHw387ScepCOtkoDN) | 2:42 | 2021-10-19 | 2023-03-25 |
+| [Morning Sun](https://open.spotify.com/track/5ObGH4iynfz5WQ8KJAYpbZ) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv), [Z.A.M.P.A](https://open.spotify.com/artist/2Om6U6DwLuSX7WTVC9Nce2) | [Morning Sun](https://open.spotify.com/album/5ASteoHCRzSBltEuaP1kmh) | 4:27 | 2021-11-25 |  |
 | [No Sé a Quién Matar](https://open.spotify.com/track/2GblwI1Lhuwxd4bMkENMem) | [No sé a quién matar](https://open.spotify.com/artist/4FVmReIogKhsocFmvBPLAV) | [No Sé a Quién Matar](https://open.spotify.com/album/0X7ZQoSMpEiDJHHBo0otkS) | 3:39 | 2021-10-19 | 2023-04-12 |
 | [Nubes](https://open.spotify.com/track/03DwGjU8lK4wiDdgSett0i) | [Policias y Ladrones](https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd) | [Nubes](https://open.spotify.com/album/7t0vBigNHXs9SuwH1AaJXd) | 3:14 | 2021-10-19 |  |
 | [Osa Polar](https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Osa Polar](https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys) | 4:42 | 2022-03-18 |  |
@@ -61,7 +62,7 @@
 | [Santos Que Yo Te Pinte](https://open.spotify.com/track/1L4irrN3TGmOHS65WM1g4W) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Unidad De Desplazamiento](https://open.spotify.com/album/3CALAHUrBmAtGjVj82x5tz) | 4:39 | 2021-10-19 |  |
 | [seguiremos siendo](https://open.spotify.com/track/6zX7KSFicewSnSeT3W2tvN) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [seguiremos siendo](https://open.spotify.com/album/4KkPCRsBQnbv25qKv8dkpI) | 3:14 | 2022-02-01 | 2023-03-25 |
 | [Segundo Premio](https://open.spotify.com/track/0VaaF3Mjm3xwl9uQJbwetH) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Una Semana En El Motor De Un Autobus](https://open.spotify.com/album/1mKYDmOkGg46TMEfdTGts1) | 5:31 | 2021-10-19 | 2023-03-25 |
-| [Shallow](https://open.spotify.com/track/7mrG4CWCjYiWWfSiYLdoxg) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Flash Memory](https://open.spotify.com/album/1z264tIT1BVy9CgA9hJkv1) | 2:15 | 2022-05-06 |  |
+| [Shallow](https://open.spotify.com/track/7mrG4CWCjYiWWfSiYLdoxg) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Flash Memory](https://open.spotify.com/album/1z264tIT1BVy9CgA9hJkv1) | 2:15 | 2022-05-06 | 2023-04-27 |
 | [Sigo](https://open.spotify.com/track/2D9fsqNw4aMABpchC5Once) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Sigo](https://open.spotify.com/album/0XcwHtwzFbnrXuX1CzhFKQ) | 3:19 | 2021-11-10 |  |
 | [Sueño Aerostático](https://open.spotify.com/track/2d0fMQiWdIzaXH8WVJ9SlC) | [Silvania](https://open.spotify.com/artist/2ZAHar7rLXdAzqRaB9GQeU) | [Solineide Says \(1991\-1993\)](https://open.spotify.com/album/5kULee5TGyEwLJylXpl64j) | 3:41 | 2021-10-19 | 2023-04-23 |
 | [tdbn](https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:14 | 2021-10-19 |  |

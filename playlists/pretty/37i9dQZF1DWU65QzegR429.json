@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. ",
-  "num_followers": 7767,
+  "num_followers": 7795,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTkyNjQwNiwwMDAwMDAwMDY0MDY0ZWRhOWVjZGMzMzRkY2ZlMjdmNWU1NWQ4MDMw",
+  "snapshot_id": "MTY4MTkyNjQwNiwwMDAwMDAwMGQzMTg1YjU4OGE1ODU4M2FjMDJhYmE3MGU2OThkMjM3",
   "tracks": [
     {
       "added_at": "2023-04-03 18:54:44",
@@ -363,30 +363,6 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/7rnxldpaYk6eyIZQcriFrW"
-      },
-      "artists": [
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        },
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        },
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        }
-      ],
-      "duration_ms": 225470,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd"
-    },
-    {
-      "added_at": "2023-04-03 18:54:44",
-      "album": {
         "name": "Culo Chapa (feat. La Perversa, Quimico Ultra Mega & Haraca Kiko)",
         "url": "https://open.spotify.com/album/7yp999HIsMUanMsvLUq6Ni"
       },
@@ -411,6 +387,30 @@
       "duration_ms": 150545,
       "name": "Culo Chapa (feat. La Perversa, Quimico Ultra Mega & Haraca Kiko)",
       "url": "https://open.spotify.com/track/045pZE1F4PGpwHygQLbLXb"
+    },
+    {
+      "added_at": "2023-04-03 18:54:44",
+      "album": {
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/7rnxldpaYk6eyIZQcriFrW"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "duration_ms": 225470,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd"
     },
     {
       "added_at": "2023-04-03 18:54:44",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
-        "name": "Si Tu Quieres",
-        "url": "https://open.spotify.com/album/6uRf20wqSSfYmjwSC6wuYT"
-      },
-      "artists": [
-        {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
-        }
-      ],
-      "duration_ms": 169336,
-      "name": "Si Tu Quieres",
-      "url": "https://open.spotify.com/track/3yC4gzNRrycuufTcRPSRx2"
-    },
-    {
-      "added_at": "2023-04-03 18:54:44",
-      "album": {
         "name": "Haters y Fan\u00e1ticos",
         "url": "https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 250440,
       "name": "Kilo Kilo",
       "url": "https://open.spotify.com/track/6QBrMT3F1gAcvdS7wIEeFO"
+    },
+    {
+      "added_at": "2023-04-03 18:54:44",
+      "album": {
+        "name": "Si Tu Quieres",
+        "url": "https://open.spotify.com/album/6uRf20wqSSfYmjwSC6wuYT"
+      },
+      "artists": [
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        }
+      ],
+      "duration_ms": 169336,
+      "name": "Si Tu Quieres",
+      "url": "https://open.spotify.com/track/3yC4gzNRrycuufTcRPSRx2"
     },
     {
       "added_at": "2023-04-03 18:54:44",

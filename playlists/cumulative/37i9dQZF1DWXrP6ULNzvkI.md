@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best Fresh Finds tracks from around the world this year\. Cover: Katherine Li \#SpotifyWrapped
 
-78 songs - 4 hr 13 min
+80 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 | 2023-01-18 |  |
 | [Bikhra](https://open.spotify.com/track/0OdztoASgKBBNcAgtErk0X) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Bikhra](https://open.spotify.com/album/4yfjeaROize8h6IkgU5RBn) | 2:48 | 2023-01-18 |  |
 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 | 2023-01-18 |  |
-| [Bones \(God Like You\)](https://open.spotify.com/track/0xn9TXLniq8n4GkxQt1ytH) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Bones \(God Like You\)](https://open.spotify.com/album/7hIA421q14FIPWmehwRJOZ) | 2:48 | 2023-01-18 |  |
+| [Bones \(God Like You\)](https://open.spotify.com/track/0xn9TXLniq8n4GkxQt1ytH) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Bones \(God Like You\)](https://open.spotify.com/album/7hIA421q14FIPWmehwRJOZ) | 2:48 | 2023-01-18 | 2023-04-27 |
+| [Bones \(God Like You\)](https://open.spotify.com/track/16b9jrlG2lVdnCaTj9fKlW) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Bones \(God Like You\)](https://open.spotify.com/album/3KsvXhVXDUHuOIhkX47tCH) | 2:48 | 2023-01-18 |  |
 | [Can I Call You Rose?](https://open.spotify.com/track/7wnj1zRcZVlPNJ58shwl7h) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:10 | 2023-01-18 |  |
 | [Can You See Me](https://open.spotify.com/track/60qXxZSTxeywlOaQOcvl1H) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:31 | 2023-01-18 |  |
 | [CASKET \(ft\. papa mbye\)](https://open.spotify.com/track/5w4RBCbzL7Oq7v6MS9EuGY) | [WHY NOT](https://open.spotify.com/artist/0gU8JtrXa3Df75VOVRGuWP), [papa mbye](https://open.spotify.com/artist/5JVtTuCBPvUOTZ2YjrAPTp) | [CASKET \(ft\. papa mbye\)](https://open.spotify.com/album/6QfpL9YNUhipcMAZYeOort) | 3:35 | 2023-01-18 |  |
@@ -36,7 +37,8 @@
 | [Front Row Seat](https://open.spotify.com/track/0vSVknC1QRWHmHDqgtOPfP) | [David Unlayao](https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk) | [Front Row Seat](https://open.spotify.com/album/7faCFyGekYkgwyYSN3cAW2) | 2:52 | 2023-01-18 |  |
 | [gimme all ur luv](https://open.spotify.com/track/7bKMO3og5pWUJV5g6VtZwp) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [gimme all ur luv](https://open.spotify.com/album/16pAkASl0bdyOQrVyTvuBF) | 2:53 | 2023-01-18 |  |
 | [Girl God Gun](https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Girl God Gun](https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL) | 3:25 | 2023-01-18 |  |
-| [Girls](https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH) | 1:59 | 2023-01-18 |  |
+| [Girls](https://open.spotify.com/track/1J7PghJCXSry2djsrflxdq) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/2fH2641iiOweBzDveY6QxM) | 1:59 | 2023-01-18 |  |
+| [Girls](https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH) | 1:59 | 2023-01-18 | 2023-04-27 |
 | [Golden Rope](https://open.spotify.com/track/2ogq0f3TzF5OU1155mnKOy) | [Bulgarian Cartrader](https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx) | [Golden Rope](https://open.spotify.com/album/5zD9Ak75Sc7vw04pdpXGz8) | 3:40 | 2023-01-18 |  |
 | [Greener Pasture](https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Greener Pasture](https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3) | 3:09 | 2023-01-18 |  |
 | [GURÚ](https://open.spotify.com/track/0pZAXbsmAvNQvDAYHpXoCF) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [GOTEO](https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy) | 3:43 | 2023-01-18 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 46457,
+  "num_followers": 46478,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjQzNDgwMCwwMDAwMDAwMGEzN2NlNDFiYzYwMDQwMzc2YTExOTQ1NGE3NTU1YTMz",
+  "snapshot_id": "MTY4MjQzNDgwMCwwMDAwMDAwMDkxYWNiN2I3MGM0YjI4ZTFkYjU5YjAyN2U3NzQ3ZjVm",
   "tracks": [
     {
       "added_at": "2023-04-25 15:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "Nocturnes op.3",
-        "url": "https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT"
-      },
-      "artists": [
-        {
-          "name": "Taichi Chishaki",
-          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
-        }
-      ],
-      "duration_ms": 154714,
-      "name": "Nocturnes op.3",
-      "url": "https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO"
-    },
-    {
-      "added_at": "2023-04-25 15:00:00",
-      "album": {
         "name": "Nature undisclosed",
         "url": "https://open.spotify.com/album/4MncWHjrU2jTWsDUaJjpo6"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 147661,
       "name": "Nature undisclosed",
       "url": "https://open.spotify.com/track/48aOlsvnC4e8cdMsrw59Qd"
+    },
+    {
+      "added_at": "2023-04-25 15:00:00",
+      "album": {
+        "name": "Nocturnes op.3",
+        "url": "https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT"
+      },
+      "artists": [
+        {
+          "name": "Taichi Chishaki",
+          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
+        }
+      ],
+      "duration_ms": 154714,
+      "name": "Nocturnes op.3",
+      "url": "https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
-      },
-      "artists": [
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        }
-      ],
-      "duration_ms": 190482,
-      "name": "20220302 - sarabande",
-      "url": "https://open.spotify.com/track/7IYrIgIgomCRgXCNkHOXMX"
-    },
-    {
-      "added_at": "2023-04-25 15:00:00",
-      "album": {
         "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
         "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 309000,
       "name": "Faisal (London Bridge Station)",
       "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
+    },
+    {
+      "added_at": "2023-04-25 15:00:00",
+      "album": {
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 252864,
+      "name": "Free In The Knowledge",
+      "url": "https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+        "name": "12",
+        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
       },
       "artists": [
         {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
         }
       ],
-      "duration_ms": 252864,
-      "name": "Free In The Knowledge",
-      "url": "https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9"
+      "duration_ms": 190482,
+      "name": "20220302 - sarabande",
+      "url": "https://open.spotify.com/track/7IYrIgIgomCRgXCNkHOXMX"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH"
+        "name": "KIYOZUKA",
+        "url": "https://open.spotify.com/album/6YsvJRT1Bhs3mOZuy6PqDQ"
       },
       "artists": [
         {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+          "name": "Shinya Kiyozuka",
+          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
         }
       ],
-      "duration_ms": 171563,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
+      "duration_ms": 76453,
+      "name": "\u6625\u3088\u3001\u6765\u3044",
+      "url": "https://open.spotify.com/track/6Omwpwl7DMVCgvyzdZJoYX"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "Fix You",
-        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
         }
       ],
-      "duration_ms": 141160,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+      "duration_ms": 171563,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "KIYOZUKA",
-        "url": "https://open.spotify.com/album/6YsvJRT1Bhs3mOZuy6PqDQ"
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
       },
       "artists": [
         {
-          "name": "Shinya Kiyozuka",
-          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 76453,
-      "name": "\u6625\u3088\u3001\u6765\u3044",
-      "url": "https://open.spotify.com/track/6Omwpwl7DMVCgvyzdZJoYX"
+      "duration_ms": 141160,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "TREE",
-        "url": "https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 278400,
-      "name": "TREE",
-      "url": "https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d"
-    },
-    {
-      "added_at": "2023-04-25 15:00:00",
-      "album": {
         "name": "Everything Is Going to Be OK",
         "url": "https://open.spotify.com/album/0LIjSRLoTlpMB2vHJHX86M"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 287992,
       "name": "Everything Is Going to Be OK",
       "url": "https://open.spotify.com/track/4JPj5HzPn5sRfwzqH9HMgX"
+    },
+    {
+      "added_at": "2023-04-25 15:00:00",
+      "album": {
+        "name": "TREE",
+        "url": "https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 278400,
+      "name": "TREE",
+      "url": "https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d"
     },
     {
       "added_at": "2023-04-25 15:00:00",

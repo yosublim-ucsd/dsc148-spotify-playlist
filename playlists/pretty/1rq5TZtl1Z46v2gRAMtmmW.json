@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 27750,
+  "num_followers": 27757,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzMyMCxkOWUwYmJlMzk4OWU4MmRhZGViMjRmNjc5NDMwMDI3OGM4MWM1NDg4",
+  "snapshot_id": "MzMyNiwwMTZmOGY5NWE3NTVhNDdmMDJlZDY2YzlhYjE3NzUwODMwMmI3ZWZh",
   "tracks": [
     {
       "added_at": "2023-04-25 16:05:06",
@@ -27,6 +27,42 @@
       "duration_ms": 327217,
       "name": "No More Lies",
       "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
+    },
+    {
+      "added_at": "2023-04-26 17:40:05",
+      "album": {
+        "name": "Scars",
+        "url": "https://open.spotify.com/album/0iTJuQRY2EbwYslNyafKPS"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 178746,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/6cu2L8ghmlsDpRtyHCHAm4"
+    },
+    {
+      "added_at": "2023-04-26 17:55:52",
+      "album": {
+        "name": "The Last Goodbye (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ZSBGvgxsWbX1i5gdz4gUM"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Shy Girls",
+          "url": "https://open.spotify.com/artist/4oFdxup3UmMDNoLLITyDrs"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "All We Need (feat. Shy Girls) - ODESZA VIP Remix",
+      "url": "https://open.spotify.com/track/0gGSxG7r332R7Vgvk24GHY"
     },
     {
       "added_at": "2023-04-14 17:33:21",
@@ -333,22 +369,6 @@
       "url": "https://open.spotify.com/track/13cQU9GKHqSDInv3s7h9fm"
     },
     {
-      "added_at": "2023-02-21 18:11:40",
-      "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        }
-      ],
-      "duration_ms": 248432,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P"
-    },
-    {
       "added_at": "2023-03-17 17:53:22",
       "album": {
         "name": "Forever Forever",
@@ -511,22 +531,6 @@
       "duration_ms": 207340,
       "name": "I Saw",
       "url": "https://open.spotify.com/track/2KyawAGl39jfqeZOrVJanN"
-    },
-    {
-      "added_at": "2022-10-12 15:59:51",
-      "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/6HZmtl6ABrzfwsoGGVtkvr"
-      },
-      "artists": [
-        {
-          "name": "Actress",
-          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Dream - Edit",
-      "url": "https://open.spotify.com/track/7KeANzNehacJlX4AsNUeG2"
     },
     {
       "added_at": "2022-09-21 11:24:21",

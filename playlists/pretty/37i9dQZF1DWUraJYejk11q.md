@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,553 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,636 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 16 | [Distant Thoughts](https://open.spotify.com/track/3ULyNETw72K1nR6tdRz76w) | [Justin Jet Zorbas](https://open.spotify.com/artist/10G9N5ABjyamTFBEAsquNs), [Inum](https://open.spotify.com/artist/3TAGwIg5m6pwHRuBMvtsup) | [Distant Thoughts](https://open.spotify.com/album/1Y2A4NGnjArQf9DLy3Unv2) | 2:27 |
 | 17 | [A Ghost At Noon](https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk), [John McEntire](https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg) | [Sons Of](https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a) | 7:51 |
 | 18 | [Vale Da Lua](https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz) | [LAZA](https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D) | [Chamas Do Cerrado](https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h) | 3:33 |
-| 19 | [Wall of Sleep](https://open.spotify.com/track/1zii8HjrZpVEIsAECYGwrV) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 4:47 |
-| 20 | [Eden Portal](https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Eden Portal](https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2) | 6:06 |
-| 21 | [April Dub \(Koyas Mix\)](https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru) | [Sancho Meiso Chaya](https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn), [Koyas](https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI) | [April Dub](https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE) | 4:20 |
-| 22 | [Planta Dance](https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Planta Dance](https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv) | 3:06 |
-| 23 | [Hoss It](https://open.spotify.com/track/2Gh7Fv6yk1sgbwT6kMVV0U) | [96 Back](https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz) | [Crass](https://open.spotify.com/album/0TX1wCyAQw51W6ihMaBceU) | 5:57 |
+| 19 | [Hoss It](https://open.spotify.com/track/2Gh7Fv6yk1sgbwT6kMVV0U) | [96 Back](https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz) | [Crass](https://open.spotify.com/album/0TX1wCyAQw51W6ihMaBceU) | 5:57 |
+| 20 | [Wall of Sleep](https://open.spotify.com/track/1zii8HjrZpVEIsAECYGwrV) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 4:47 |
+| 21 | [Eden Portal](https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Eden Portal](https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2) | 6:06 |
+| 22 | [April Dub \(Koyas Mix\)](https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru) | [Sancho Meiso Chaya](https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn), [Koyas](https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI) | [April Dub](https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE) | 4:20 |
+| 23 | [Planta Dance](https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Planta Dance](https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv) | 3:06 |
 | 24 | [Arcadian Daze](https://open.spotify.com/track/4JGozkruuZZRH9I5RZYFuc) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Arcadian Daze](https://open.spotify.com/album/4mJHhsOMF0pNejI56iArI6) | 3:16 |
 | 25 | [Exotic Contents](https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Exotic Contents / Pulse at the Centre of Being](https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a) | 5:46 |
 | 26 | [Closer \- Daniel Avery Edit](https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Closer \(Daniel Avery Edit\)](https://open.spotify.com/album/7ibaWfGIltYCxmRD9Qjz1G) | 4:06 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 29 | [Trains & Airports](https://open.spotify.com/track/4nLYuqQrjVZu6zVNqmsTfI) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sofia Kourtesis](https://open.spotify.com/album/6xgwDjQ5Z1oXMVQIoRMnqY) | 6:38 |
 | 30 | [Surrounded By Neighbours](https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [GRIT.](https://open.spotify.com/album/5WDvciEo1xl8XeTV04C5DB) | 5:31 |
 | 31 | [l'empelt](https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4) | [drames rurals](https://open.spotify.com/artist/4Fc8hhmKcYdCVdByPDBLPG), [John Talabot](https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD), [juns](https://open.spotify.com/artist/2VnW9TLWqKhenhIz5fyAlF), [oma totem](https://open.spotify.com/artist/1rGwnZdib4PzGaxYuXJBhb), [Meritxell Bonastre](https://open.spotify.com/artist/0QCq80HQCr8SQr40QCe7Gp) | [drames rurals](https://open.spotify.com/album/3yC35q63Eg6ctGi3CXFUDD) | 4:43 |
-| 32 | [Jump & Shuffle \- Live at the Hardware Store](https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL) | [Kid Koala](https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN) | [Jump & Shuffle \(Live at the Hardware Store\)](https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb) | 3:22 |
-| 33 | [So](https://open.spotify.com/track/55CCxcBWmurfDqbrJfphD0) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [So](https://open.spotify.com/album/7azgAC2wWDEQwkFtH1oUxS) | 4:39 |
+| 32 | [So](https://open.spotify.com/track/55CCxcBWmurfDqbrJfphD0) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [So](https://open.spotify.com/album/7azgAC2wWDEQwkFtH1oUxS) | 4:39 |
+| 33 | [Jump & Shuffle \- Live at the Hardware Store](https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL) | [Kid Koala](https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN) | [Jump & Shuffle \(Live at the Hardware Store\)](https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb) | 3:22 |
 | 34 | [ITSAME \[group hugg\]](https://open.spotify.com/track/2H9n9r52CvPOTYM3WCCl82) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [ITSAME](https://open.spotify.com/album/7Ffx32PXyHvhskEtCtN3xx) | 7:41 |
 | 35 | [Hondo \(Remix\)](https://open.spotify.com/track/6EI5sPngX6pBttwOHya9j4) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6), [Techno Para Dos](https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h), [issuesonissues](https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0) | [Hondo \(Remix\)](https://open.spotify.com/album/4U8wUMf1YW7sRhrAuVi2Mn) | 5:21 |
 | 36 | [Diamond Beach](https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Paranormal Phenomena – The Icelandic Expedition](https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 49 | [Desert Viper](https://open.spotify.com/track/07Ee8FQCrmxyseMqszOATP) | [Impérieux](https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK) | [Extensions](https://open.spotify.com/album/4NbNg6wkAtFk0Rv30UUvYN) | 4:12 |
 | 50 | [Yesterday Faded \- Edit](https://open.spotify.com/track/0WLrMIT6Pi7AzvEdvfP7yP) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Yesterday Faded \(Edit\)](https://open.spotify.com/album/6o2dqU7r0teFQoNQZdEGdT) | 4:02 |
 
-Snapshot ID: `MTY4MTUyNDczNiwwMDAwMDAwMGJkODBkMTc4NzBkZjg4YmExZGY4MmE3Y2NmMzE4MDdk`
+Snapshot ID: `MTY4MTUyNDczNiwwMDAwMDAwMGQ0NmM2MWI5MWVjMzE4ZTM3YzBlMjkwYTliODVhN2Q1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 
 > Check out the Latest Romance Tracks.<br/>Cover : Rudhran
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,299 likes - 51 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,350 likes - 51 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

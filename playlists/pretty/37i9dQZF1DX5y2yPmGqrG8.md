@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,954 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,053 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 17 | [Movement 6](https://open.spotify.com/track/5i0EqAX50KcKNgMDMHZndM) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L), [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Promises](https://open.spotify.com/album/3ShtO5VCYa3ctlR5uzLWBa) | 8:50 |
 | 18 | [\#20](https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 4:15 |
 | 19 | [Clube Da Esquina Nº 2](https://open.spotify.com/track/1sdW2whJr8CLa6bMA67LPQ) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Clube Da Esquina](https://open.spotify.com/album/5risYG7klZCSLMNxB9dZhf) | 3:38 |
-| 20 | [Space 1](https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 4:08 |
-| 21 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 |
+| 20 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 |
+| 21 | [Space 1](https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 4:08 |
 | 22 | [Gelis](https://open.spotify.com/track/3vy3sOpzkTWc3VsIBjgrrS) | [Flako](https://open.spotify.com/artist/4gYKVizj3uSquuZvokYgZm) | [Gelis](https://open.spotify.com/album/7ezhsL45DIZcUzv8HdGR2l) | 3:08 |
 | 23 | [It Was 9:30 and You Were Beautiful](https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS) | [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [Reminisce](https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l) | 4:33 |
 | 24 | [Melancholia VI](https://open.spotify.com/track/28UNXRcOSy94CWFehAPV6u) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/40PGXFDDAcsyKVFA3IcN4q) | 2:16 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 45 | [Coconut Mango](https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj) | [Arrangement](https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e) | [Coconut Mango](https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj) | 5:25 |
 | 46 | [Hypnagogia](https://open.spotify.com/track/1NUMHB28RsUmDhpSPgDf1z) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Introspection](https://open.spotify.com/album/2UH5UicEuryM5DPbXrzMdh) | 4:02 |
 | 47 | [S.O](https://open.spotify.com/track/1rPVwDsOQngRvmfkFgXLjn) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Kelly Lee Owens](https://open.spotify.com/album/0aol42apbylFf2POjiAOeP) | 3:12 |
-| 48 | [Pipopapipo](https://open.spotify.com/track/7IZ3Sauja9QpcZ2HQLC9mX) | [Dewey Martino](https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX) | [Pipopapipo](https://open.spotify.com/album/1wlyTNXfFZO1FAqXekM9rP) | 3:36 |
-| 49 | [日本の空気 \- Air of Japan](https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [音は光る \(The Sound Is Shining\)](https://open.spotify.com/album/1GYbiaI0mZ9OQPnggq6d4T) | 3:58 |
-| 50 | [Spain](https://open.spotify.com/track/7nBp9NMpOUUMTxyfQPlk2M) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV), [Steve Sobs](https://open.spotify.com/artist/3mQWAx0NcLndQZrW96V5m0) | [Spain](https://open.spotify.com/album/08vaZjMMQNppAfNg6ZfadL) | 4:46 |
+| 48 | [Spain](https://open.spotify.com/track/7nBp9NMpOUUMTxyfQPlk2M) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV), [Steve Sobs](https://open.spotify.com/artist/3mQWAx0NcLndQZrW96V5m0) | [Spain](https://open.spotify.com/album/08vaZjMMQNppAfNg6ZfadL) | 4:46 |
+| 49 | [Pipopapipo](https://open.spotify.com/track/7IZ3Sauja9QpcZ2HQLC9mX) | [Dewey Martino](https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX) | [Pipopapipo](https://open.spotify.com/album/1wlyTNXfFZO1FAqXekM9rP) | 3:36 |
+| 50 | [日本の空気 \- Air of Japan](https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [音は光る \(The Sound Is Shining\)](https://open.spotify.com/album/1GYbiaI0mZ9OQPnggq6d4T) | 3:58 |
 
-Snapshot ID: `MTY4MTUyNzI3NCwwMDAwMDAwMGQ1ZWYyMTQyMGRhN2JmYTFiYjJmYTQ3ZjMzZTJhNzll`
+Snapshot ID: `MTY4MTUyNzI3NCwwMDAwMDAwMGUzNjhiMjM2MDk4NGJhOTM0NmZjN2M3Y2Q3MWRkYjRj`

@@ -4,7 +4,7 @@
 
 > Knocked Loose on top of the biggest Metal playlist.
 
-418 songs - 1 day 4 hr 6 min
+419 songs - 1 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,8 @@
 | [Flesh And Stone](https://open.spotify.com/track/3wyVcK3etnz24JX8K62b6O) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Flesh And Stone](https://open.spotify.com/album/51oXFQ9EJjYzdS09zCxmjj) | 4:10 | 2022-05-13 | 2022-06-07 |
 | [Flood](https://open.spotify.com/track/2N4qPl1Nuq1xVopkvJmf7m) | [Outrun the Fall](https://open.spotify.com/artist/6U70wG368rrDhQXmAfa4lP) | [Flood](https://open.spotify.com/album/5tUFQmv76ZpirBKax54jrw) | 3:09 | 2021-12-20 | 2022-03-18 |
 | [Foregone Pt\. 1](https://open.spotify.com/track/4GAE2sALmyF5ZvrxOEvloU) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone, Pt\. 1](https://open.spotify.com/album/2EPDIXOWMkXpT5jTIi02SR) | 3:24 | 2022-10-21 | 2022-12-17 |
-| [Foregone, Pt\. 2](https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone, Pt\. 2](https://open.spotify.com/album/6xQGhi9dsEWYn8Jwj4MD9S) | 4:30 | 2022-12-16 |  |
+| [Foregone, Pt\. 2](https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone, Pt\. 2](https://open.spotify.com/album/6xQGhi9dsEWYn8Jwj4MD9S) | 4:30 | 2022-12-16 | 2023-04-27 |
+| [Foregone, Pt\. 2](https://open.spotify.com/track/6kk4G7WCvFrYuiotuDnH2N) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone](https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3) | 4:30 | 2023-04-21 |  |
 | [Forest](https://open.spotify.com/track/45kKa2PfTXSBMa26k96fdn) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Forest](https://open.spotify.com/album/3K6d4oxrjKbwh1Xasm02YE) | 4:46 | 2022-07-29 | 2022-08-06 |
 | [Forever Bloom \(feat\. Trevor Strnad\)](https://open.spotify.com/track/5mavoeczZoK9jeHFVWTkv6) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b), [Trevor Strnad](https://open.spotify.com/artist/5ABUXkPbITc1OnlxG0fPmf) | [Forever Bloom](https://open.spotify.com/album/2Nvrs4vBmCZcHLnALbN2hk) | 2:49 | 2022-11-11 | 2023-01-06 |
 | [Forgotten](https://open.spotify.com/track/4TWHdkXfyu7gLpAUSyU1X8) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Forgotten](https://open.spotify.com/album/155RnIndCn3TFeiPV6bo2E) | 3:17 | 2022-01-14 | 2022-05-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Tunes for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,719 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,716 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 16 | [Stoney Creek](https://open.spotify.com/track/0ik7YpGVcjTkXBrUv4SaqR) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Jan Juc Moon](https://open.spotify.com/album/0zXonPXtpDEb32sy6PkTsw) | 4:37 |
 | 17 | [Gypsy](https://open.spotify.com/track/1lMMXT729a5UIpJU34TbJF) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Gypsy Tapes](https://open.spotify.com/album/3mugXSuzN8XCrurF7jIq41) | 3:32 |
 | 18 | [Bottle It Up](https://open.spotify.com/track/6Kevag30eZxaL3MBo6dIdL) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg), [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Bottle It Up](https://open.spotify.com/album/6KyRKYNzETURqiupPRygbg) | 3:05 |
-| 19 | [My Boy](https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 2:43 |
-| 20 | [Lonely Nights](https://open.spotify.com/track/1NDRPRFMVnmjqfyfokw2Kq) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6), [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Lonely Nights](https://open.spotify.com/album/0vJAXq86NlUT3gAKfuohvm) | 3:39 |
+| 19 | [Lonely Nights](https://open.spotify.com/track/1NDRPRFMVnmjqfyfokw2Kq) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6), [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Lonely Nights](https://open.spotify.com/album/0vJAXq86NlUT3gAKfuohvm) | 3:39 |
+| 20 | [My Boy](https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 2:43 |
 | 21 | [Call Me Home](https://open.spotify.com/track/3muMlQEQ4NyqABXTMMR6h0) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Call Me Home](https://open.spotify.com/album/2TKje4b92lHi8G5lIZogbN) | 3:21 |
 | 22 | [heartbeat](https://open.spotify.com/track/78MI46vAPFoPkLBJSgYADP) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX) | 4:31 |
 | 23 | [Take Me Home](https://open.spotify.com/track/28SkzelgDhmDCjl61yFF3I) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 4:54 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 31 | [These Days](https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [These Days](https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS) | 3:23 |
 | 32 | [CAMPFIRE](https://open.spotify.com/track/3Lxf1Nie6pr5Kbb4CQ0Xfv) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [DANCING IN THE DARK](https://open.spotify.com/album/3xUg2rKVbUx4UioZ91GOOG) | 3:00 |
 | 33 | [The Coffee Song](https://open.spotify.com/track/6AKSwoiMFR8fl3GLPRpa7Q) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Summer Nights](https://open.spotify.com/album/5C7zVZ1N1WDqSh6iyLRC7j) | 3:08 |
-| 34 | [She Came Back with Rainbows](https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [She Came Back with Rainbows](https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO) | 3:50 |
-| 35 | [Think About You](https://open.spotify.com/track/767atfZ4xBNA5SiPUGzgxJ) | [Tay Oskee](https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW) | [Caught Up In The Wire, No More](https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC) | 3:43 |
+| 34 | [Think About You](https://open.spotify.com/track/767atfZ4xBNA5SiPUGzgxJ) | [Tay Oskee](https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW) | [Caught Up In The Wire, No More](https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC) | 3:43 |
+| 35 | [She Came Back with Rainbows](https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [She Came Back with Rainbows](https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO) | 3:50 |
 | 36 | [Kick](https://open.spotify.com/track/7eVIOpeiasbMMUY4xw43YZ) | [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Kick](https://open.spotify.com/album/1erxAMlRaukA3PV0tEapma) | 3:27 |
 | 37 | [8 Hour Drive](https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [The Water & The Rough](https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL) | 3:36 |
 | 38 | [I BELIEVE](https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [I BELIEVE](https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg) | 3:26 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 55 | [Paint](https://open.spotify.com/track/5lHA0VtRqd0jsaT46xC3Ae) | [Lawson Hull](https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K), [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua) | [Paint](https://open.spotify.com/album/5acGmCJHKwbGdnguz1Bpnz) | 4:31 |
 | 56 | [A Song To Be Named](https://open.spotify.com/track/3nmqes7ccaF88YzLzS7IRm) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [A Song To Be Named](https://open.spotify.com/album/5TSueVvydjcRQ4W9qEiNVA) | 4:09 |
 | 57 | [Sunday Morning](https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [Sunday Morning](https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L) | 3:52 |
-| 58 | [Standing Still](https://open.spotify.com/track/023e5V4Q5ZGtqMaPP6imtm) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [I Don't Know Who to Call](https://open.spotify.com/album/5pkjDurY5mqnXnNTyO2u7P) | 4:57 |
-| 59 | [this is how you fall in love](https://open.spotify.com/track/7iqp8pV9NTmxJQf2uuVTOE) | [Parker Rose](https://open.spotify.com/artist/1t08EEn6XWinnrPBMQzcwF) | [this is how you fall in love](https://open.spotify.com/album/4y9pwFu4CY9pcY1ZDAupwh) | 2:41 |
-| 60 | [Love Shack](https://open.spotify.com/track/2zbuLLg1jSNhHVEBVlwcgG) | [Luke Morris](https://open.spotify.com/artist/79i6PErg0CppXj9tpcxdOi) | [Love Shack](https://open.spotify.com/album/2zJN6bhIPoTUviXdNslg8C) | 4:09 |
+| 58 | [this is how you fall in love](https://open.spotify.com/track/7iqp8pV9NTmxJQf2uuVTOE) | [Parker Rose](https://open.spotify.com/artist/1t08EEn6XWinnrPBMQzcwF) | [this is how you fall in love](https://open.spotify.com/album/4y9pwFu4CY9pcY1ZDAupwh) | 2:41 |
+| 59 | [Love Shack](https://open.spotify.com/track/2zbuLLg1jSNhHVEBVlwcgG) | [Luke Morris](https://open.spotify.com/artist/79i6PErg0CppXj9tpcxdOi) | [Love Shack](https://open.spotify.com/album/2zJN6bhIPoTUviXdNslg8C) | 4:09 |
+| 60 | [Standing Still](https://open.spotify.com/track/023e5V4Q5ZGtqMaPP6imtm) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [I Don't Know Who to Call](https://open.spotify.com/album/5pkjDurY5mqnXnNTyO2u7P) | 4:57 |
 
-Snapshot ID: `MTY3ODI4MDQwMCwwMDAwMDAwMDQ4M2UxNjg5M2IwNjdkZDk5MjU2OTI4MjEwOWE4YmU5`
+Snapshot ID: `MTY3ODI4MDQwMCwwMDAwMDAwMGVlNjUyYmI3YjIxYjQzOWE0NjA0NDNlZmIzMDRmMTc5`

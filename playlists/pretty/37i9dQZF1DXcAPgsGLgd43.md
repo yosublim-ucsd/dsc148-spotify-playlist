@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > Introducing Alma — a soul born from Latin and house music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,919 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,926 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 16 | [Tuyo](https://open.spotify.com/track/0FrP64eh0yTC3uDVsq0wG4) | [Jack Villa](https://open.spotify.com/artist/0l7O0oybr784STfyacus4o), [George Z](https://open.spotify.com/artist/5IewgFvCqYIYpf660mYVqo) | [Tuyo](https://open.spotify.com/album/53ZzWR211mpgiMr6usGH4W) | 3:10 |
 | 17 | [Mamacita](https://open.spotify.com/track/0JhRhQYoZKUG3WxKiLpt2k) | [Rene Rodrigezz](https://open.spotify.com/artist/74KsNtV6tvDuIwI9V2JfQO), [Yellow Is The New White](https://open.spotify.com/artist/5GbkPjfZzysglxRE01dT9u) | [Mamacita](https://open.spotify.com/album/4q7suqxQ6SrQovyUHpDqfc) | 2:19 |
 | 18 | [Magalenha \(feat\. Sergio Mendes\)](https://open.spotify.com/track/0cIadtlc6acyPFeWcSJlDg) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Magalenha \(feat\. Sergio Mendes\)](https://open.spotify.com/album/3wO3DaZVQkYIQYUFZww9x4) | 3:29 |
-| 19 | [Conga Mode \- Edit](https://open.spotify.com/track/5QJwvpgZXdMD9lDtdczCVy) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Conga Mode EP](https://open.spotify.com/album/5QH9ZqMTDy5c6yIg6PiLte) | 3:44 |
-| 20 | [Alma Roja \- DJ Chus Remix](https://open.spotify.com/track/0MlIalMAtTaIhOjmSFmCgW) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Oba Frank Lords](https://open.spotify.com/artist/5JZJF4dsiH01QVSoJpReDM), [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Alma Roja \(DJ CHUS Remix\)](https://open.spotify.com/album/5wJgKF4QlNNcsLX0xsxS8w) | 3:04 |
+| 19 | [Alma Roja \- DJ Chus Remix](https://open.spotify.com/track/0MlIalMAtTaIhOjmSFmCgW) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Oba Frank Lords](https://open.spotify.com/artist/5JZJF4dsiH01QVSoJpReDM), [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Alma Roja \(DJ CHUS Remix\)](https://open.spotify.com/album/5wJgKF4QlNNcsLX0xsxS8w) | 3:04 |
+| 20 | [Conga Mode \- Edit](https://open.spotify.com/track/5QJwvpgZXdMD9lDtdczCVy) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Conga Mode EP](https://open.spotify.com/album/5QH9ZqMTDy5c6yIg6PiLte) | 3:44 |
 | 21 | [Party's Jumpin](https://open.spotify.com/track/11mmDbwTvh67lHK8jEv53i) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Ossey James](https://open.spotify.com/artist/5Krv6spDHbLWdNMtyTdRpX) | [Party's Jumpin](https://open.spotify.com/album/0ipSLNiyPij1uJ8mbcRyFy) | 2:55 |
 | 22 | [Los Tamales](https://open.spotify.com/track/3SvhhsODK5VG35Cs5eAJ8M) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Los Tamales](https://open.spotify.com/album/2juRlblGnU1PJbuC5LMhdW) | 5:34 |
 | 23 | [Diamonds](https://open.spotify.com/track/7k7dPK1j1yRW4qW3WfwoZy) | [Sam Blans](https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi), [Jayson Alanzo](https://open.spotify.com/artist/6RpWxHyYKaMf59DRdgbCg5) | [Diamonds](https://open.spotify.com/album/1swFMuQMyNIKrR3ywxQYVk) | 2:55 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 46 | [Ay Papi](https://open.spotify.com/track/3PVZ7Y6VhTAmrfJGpwRJOu) | [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp) | [Ay Papi](https://open.spotify.com/album/7rUjdLfXmcQ3IYE8WHb0Qe) | 3:25 |
 | 47 | [La Vida](https://open.spotify.com/track/3zxC1jnND5QZ6adtUb7GP8) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [La Vida](https://open.spotify.com/album/6KVnHWdc7C1ucY4kMVcmIg) | 3:15 |
 | 48 | [La Fiesta](https://open.spotify.com/track/2r9um9Y1MklfVLt6XNylmf) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [La Fiesta](https://open.spotify.com/album/3VNhdA2xtNcLopHG9lep3u) | 4:26 |
-| 49 | [Cumbia Tropical](https://open.spotify.com/track/1H8sxtzrwWhFGiGamurqnW) | [Ilary Montanari](https://open.spotify.com/artist/5hSt4Q5c4lReEZr6Uaz8BA) | [Cumbia Tropical](https://open.spotify.com/album/1AB9MImjBERGHTLNwhUnUn) | 6:21 |
-| 50 | [Why Can't We Live Together \- Gregor Salto & Ibitaly Edit](https://open.spotify.com/track/261BVXzaPgsLFTSPQ3NmiP) | [Timmy Thomas](https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Ibitaly](https://open.spotify.com/artist/2w2qxed232KjsPPcr2FMlb) | [Why Can't We Live Together \(Gregor Salto & Ibitaly Remix\)](https://open.spotify.com/album/25d1r7ct9OcRhTgfetw7AB) | 3:30 |
+| 49 | [Why Can't We Live Together \- Gregor Salto & Ibitaly Edit](https://open.spotify.com/track/261BVXzaPgsLFTSPQ3NmiP) | [Timmy Thomas](https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Ibitaly](https://open.spotify.com/artist/2w2qxed232KjsPPcr2FMlb) | [Why Can't We Live Together \(Gregor Salto & Ibitaly Remix\)](https://open.spotify.com/album/25d1r7ct9OcRhTgfetw7AB) | 3:30 |
+| 50 | [Cumbia Tropical](https://open.spotify.com/track/1H8sxtzrwWhFGiGamurqnW) | [Ilary Montanari](https://open.spotify.com/artist/5hSt4Q5c4lReEZr6Uaz8BA) | [Cumbia Tropical](https://open.spotify.com/album/1AB9MImjBERGHTLNwhUnUn) | 6:21 |
 
-Snapshot ID: `MTY1MTU4OTc5NCwwMDAwMDAwMGMxODEyNWU3YTViZDcyM2Y2NGUzMDQ5MmU1NTkyN2Nh`
+Snapshot ID: `MTY1MTU4OTc5NCwwMDAwMDAwMDQ5MWZjYzAwMzUxOWYwNWI2ZWE2Y2UyNDhjZDdiOGI3`

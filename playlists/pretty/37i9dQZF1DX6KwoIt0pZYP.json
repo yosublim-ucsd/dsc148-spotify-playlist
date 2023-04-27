@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 156641,
+  "num_followers": 156823,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAwNjQwMCwwMDAwMDAwMDBmZWRjMDBjODYwYzRhY2VkNDkxODEwYjkxYWMyNWUy",
+  "snapshot_id": "MTY4MjAwNjQwMCwwMDAwMDAwMDlhYzcwODA0ZTJkYWRlMzFjMTg5YjdkODc2NTQ4MjIw",
   "tracks": [
     {
       "added_at": "2023-04-20 16:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-04-20 16:00:00",
       "album": {
-        "name": "It's You",
-        "url": "https://open.spotify.com/album/5GulvBNneCO2QRjoWVzhWI"
-      },
-      "artists": [
-        {
-          "name": "Sezairi",
-          "url": "https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5"
-        }
-      ],
-      "duration_ms": 251440,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/7rdnB5DAyPbaj51TCQRcqW"
-    },
-    {
-      "added_at": "2023-04-20 16:00:00",
-      "album": {
         "name": "The Weekend",
         "url": "https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 167661,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq"
+    },
+    {
+      "added_at": "2023-04-20 16:00:00",
+      "album": {
+        "name": "It's You",
+        "url": "https://open.spotify.com/album/5GulvBNneCO2QRjoWVzhWI"
+      },
+      "artists": [
+        {
+          "name": "Sezairi",
+          "url": "https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5"
+        }
+      ],
+      "duration_ms": 251440,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/7rdnB5DAyPbaj51TCQRcqW"
     },
     {
       "added_at": "2023-04-20 16:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-04-20 16:00:00",
       "album": {
+        "name": "Crazier",
+        "url": "https://open.spotify.com/album/1RKdiat44rgOshOsNdgSXf"
+      },
+      "artists": [
+        {
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+        }
+      ],
+      "duration_ms": 233339,
+      "name": "Crazier",
+      "url": "https://open.spotify.com/track/0PQ84nbR1Owkr7RtGBmZI7"
+    },
+    {
+      "added_at": "2023-04-20 16:00:00",
+      "album": {
         "name": "confidence in me",
         "url": "https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv"
       },
@@ -819,6 +835,22 @@
       "duration_ms": 162151,
       "name": "confidence in me",
       "url": "https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ"
+    },
+    {
+      "added_at": "2023-04-20 16:00:00",
+      "album": {
+        "name": "GABRIEL",
+        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 171019,
+      "name": "ANGOSTURA",
+      "url": "https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3"
     },
     {
       "added_at": "2023-04-20 16:00:00",
@@ -843,34 +875,18 @@
     {
       "added_at": "2023-04-20 16:00:00",
       "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
+        "name": "L7 Blues",
+        "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
       },
       "artists": [
         {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
         }
       ],
-      "duration_ms": 171019,
-      "name": "ANGOSTURA",
-      "url": "https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3"
-    },
-    {
-      "added_at": "2023-04-20 16:00:00",
-      "album": {
-        "name": "Crazier",
-        "url": "https://open.spotify.com/album/1RKdiat44rgOshOsNdgSXf"
-      },
-      "artists": [
-        {
-          "name": "Arthur Miguel",
-          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
-        }
-      ],
-      "duration_ms": 233339,
-      "name": "Crazier",
-      "url": "https://open.spotify.com/track/0PQ84nbR1Owkr7RtGBmZI7"
+      "duration_ms": 141974,
+      "name": "L7 Blues",
+      "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
     },
     {
       "added_at": "2023-04-20 16:00:00",
@@ -907,22 +923,6 @@
     {
       "added_at": "2023-04-20 16:00:00",
       "album": {
-        "name": "L7 Blues",
-        "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
-      },
-      "artists": [
-        {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
-        }
-      ],
-      "duration_ms": 141974,
-      "name": "L7 Blues",
-      "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
-    },
-    {
-      "added_at": "2023-04-20 16:00:00",
-      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
       },
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-04-20 16:00:00",
       "album": {
-        "name": "keepyousafe",
-        "url": "https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9"
-      },
-      "artists": [
-        {
-          "name": "Yahya",
-          "url": "https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R"
-        }
-      ],
-      "duration_ms": 261673,
-      "name": "keepyousafe",
-      "url": "https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b"
-    },
-    {
-      "added_at": "2023-04-20 16:00:00",
-      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 172500,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/67OZSzWvhMgLzUwYOpt3eY"
+    },
+    {
+      "added_at": "2023-04-20 16:00:00",
+      "album": {
+        "name": "keepyousafe",
+        "url": "https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9"
+      },
+      "artists": [
+        {
+          "name": "Yahya",
+          "url": "https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R"
+        }
+      ],
+      "duration_ms": 261673,
+      "name": "keepyousafe",
+      "url": "https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b"
     },
     {
       "added_at": "2023-04-20 16:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-04-20 16:00:00",
       "album": {
-        "name": "Why Don't You Stay (WorldTour Ver.)",
-        "url": "https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0"
-      },
-      "artists": [
-        {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
-        }
-      ],
-      "duration_ms": 256336,
-      "name": "Why Don't You Stay (WorldTour Ver.)",
-      "url": "https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf"
-    },
-    {
-      "added_at": "2023-04-20 16:00:00",
-      "album": {
         "name": "HEAL",
         "url": "https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 200581,
       "name": "Sour",
       "url": "https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD"
+    },
+    {
+      "added_at": "2023-04-20 16:00:00",
+      "album": {
+        "name": "Why Don't You Stay (WorldTour Ver.)",
+        "url": "https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "duration_ms": 256336,
+      "name": "Why Don't You Stay (WorldTour Ver.)",
+      "url": "https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf"
     },
     {
       "added_at": "2023-04-20 16:00:00",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2023-04-20 16:00:00",
       "album": {
-        "name": "\u5341\u5149\u5e74\u7cbe\u9078\u8f2f",
-        "url": "https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm"
+        "name": "you won't be there for me",
+        "url": "https://open.spotify.com/album/46b5idgTzsGq3urqSkbkEa"
       },
       "artists": [
         {
-          "name": "Michael Wong",
-          "url": "https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO"
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
         }
       ],
-      "duration_ms": 246000,
-      "name": "\u7ae5\u8a71",
-      "url": "https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg"
+      "duration_ms": 182645,
+      "name": "you won't be there for me",
+      "url": "https://open.spotify.com/track/0jaHnvdrguukJipydAJWq2"
     },
     {
       "added_at": "2023-04-20 16:00:00",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2023-04-20 16:00:00",
       "album": {
-        "name": "you won't be there for me",
-        "url": "https://open.spotify.com/album/46b5idgTzsGq3urqSkbkEa"
+        "name": "\u5341\u5149\u5e74\u7cbe\u9078\u8f2f",
+        "url": "https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm"
       },
       "artists": [
         {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+          "name": "Michael Wong",
+          "url": "https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO"
         }
       ],
-      "duration_ms": 182645,
-      "name": "you won't be there for me",
-      "url": "https://open.spotify.com/track/0jaHnvdrguukJipydAJWq2"
+      "duration_ms": 246000,
+      "name": "\u7ae5\u8a71",
+      "url": "https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg"
     },
     {
       "added_at": "2023-04-20 16:00:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-04-20 16:00:00",
       "album": {
+        "name": "Wishful Thinking",
+        "url": "https://open.spotify.com/album/2reSbF0B3pWfNHmsV0eu3d"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 186432,
+      "name": "Wishful Thinking",
+      "url": "https://open.spotify.com/track/0eM1lELK39bi6UgbqdRCAz"
+    },
+    {
+      "added_at": "2023-04-20 16:00:00",
+      "album": {
         "name": "One Last Dance (feat. Milky Day)",
         "url": "https://open.spotify.com/album/4vXSnmAf2LYQgslL8vgeBQ"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 173308,
       "name": "One Last Dance (feat. Milky Day)",
       "url": "https://open.spotify.com/track/1ebn8pmLr7RDAzrBaIpsw8"
-    },
-    {
-      "added_at": "2023-04-20 16:00:00",
-      "album": {
-        "name": "Wishful Thinking",
-        "url": "https://open.spotify.com/album/2reSbF0B3pWfNHmsV0eu3d"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 186432,
-      "name": "Wishful Thinking",
-      "url": "https://open.spotify.com/track/0eM1lELK39bi6UgbqdRCAz"
     },
     {
       "added_at": "2023-04-20 16:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-04-20 16:00:00",
       "album": {
-        "name": "Beautiful Day",
-        "url": "https://open.spotify.com/album/03ZB5kFwcHIijh2urFzcOV"
-      },
-      "artists": [
-        {
-          "name": "Coldiac",
-          "url": "https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA"
-        }
-      ],
-      "duration_ms": 175853,
-      "name": "Beautiful Day",
-      "url": "https://open.spotify.com/track/2gTLLRw4CBl709U3dRICEh"
-    },
-    {
-      "added_at": "2023-04-20 16:00:00",
-      "album": {
         "name": "Dancing with my phone",
         "url": "https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 203532,
       "name": "Dancing with my phone",
       "url": "https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict"
+    },
+    {
+      "added_at": "2023-04-20 16:00:00",
+      "album": {
+        "name": "Beautiful Day",
+        "url": "https://open.spotify.com/album/03ZB5kFwcHIijh2urFzcOV"
+      },
+      "artists": [
+        {
+          "name": "Coldiac",
+          "url": "https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA"
+        }
+      ],
+      "duration_ms": 175853,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/2gTLLRw4CBl709U3dRICEh"
     },
     {
       "added_at": "2023-04-20 16:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-04-20 16:00:00",
       "album": {
-        "name": "Like All My Friends",
-        "url": "https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq"
-      },
-      "artists": [
-        {
-          "name": "Francis Karel",
-          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
-        }
-      ],
-      "duration_ms": 187918,
-      "name": "Like All My Friends",
-      "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
-    },
-    {
-      "added_at": "2023-04-20 16:00:00",
-      "album": {
         "name": "rapunzel",
         "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
       },
@@ -1451,18 +1435,18 @@
     {
       "added_at": "2023-04-20 16:00:00",
       "album": {
-        "name": "Things I Could Never Say to You",
-        "url": "https://open.spotify.com/album/6R2naLxf7L5f1G2OLTY6wC"
+        "name": "Like All My Friends",
+        "url": "https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq"
       },
       "artists": [
         {
-          "name": "Noni",
-          "url": "https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti"
+          "name": "Francis Karel",
+          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
         }
       ],
-      "duration_ms": 198466,
-      "name": "Things I Could Never Say to You",
-      "url": "https://open.spotify.com/track/2J4ZN4hnqbF4UFsVtJB7Ox"
+      "duration_ms": 187918,
+      "name": "Like All My Friends",
+      "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
     },
     {
       "added_at": "2023-04-20 16:00:00",
@@ -1487,6 +1471,22 @@
       "duration_ms": 194550,
       "name": "Good Care",
       "url": "https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8"
+    },
+    {
+      "added_at": "2023-04-20 16:00:00",
+      "album": {
+        "name": "Things I Could Never Say to You",
+        "url": "https://open.spotify.com/album/6R2naLxf7L5f1G2OLTY6wC"
+      },
+      "artists": [
+        {
+          "name": "Noni",
+          "url": "https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Things I Could Never Say to You",
+      "url": "https://open.spotify.com/track/2J4ZN4hnqbF4UFsVtJB7Ox"
     },
     {
       "added_at": "2023-04-20 16:00:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-04-20 16:00:00",
       "album": {
+        "name": "Making Steak",
+        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 202750,
+      "name": "Would You Mind",
+      "url": "https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa"
+    },
+    {
+      "added_at": "2023-04-20 16:00:00",
+      "album": {
         "name": "BEAUTiFUL",
         "url": "https://open.spotify.com/album/2g4oO9W4k5oKtND4ctGzZy"
       },
@@ -1599,6 +1615,22 @@
       "duration_ms": 212224,
       "name": "BEAUTiFUL",
       "url": "https://open.spotify.com/track/7nDp1GRUcGuwpxLFmL8CZN"
+    },
+    {
+      "added_at": "2023-04-20 16:00:00",
+      "album": {
+        "name": "Chilly",
+        "url": "https://open.spotify.com/album/5NmHTG1AIpZ9yjwzih2Kni"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Chilly",
+      "url": "https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2"
     },
     {
       "added_at": "2023-04-20 16:00:00",
@@ -1627,38 +1659,6 @@
       "duration_ms": 148027,
       "name": "Good In Me",
       "url": "https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe"
-    },
-    {
-      "added_at": "2023-04-20 16:00:00",
-      "album": {
-        "name": "Making Steak",
-        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 202750,
-      "name": "Would You Mind",
-      "url": "https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa"
-    },
-    {
-      "added_at": "2023-04-20 16:00:00",
-      "album": {
-        "name": "Chilly",
-        "url": "https://open.spotify.com/album/5NmHTG1AIpZ9yjwzih2Kni"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Chilly",
-      "url": "https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2"
     },
     {
       "added_at": "2023-04-20 16:00:00",

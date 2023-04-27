@@ -3256,10 +3256,28 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 382999,
       "name": "Beam",
       "url": "https://open.spotify.com/track/0FeTPIIjedEjrqUVYmF0e3"
+    },
+    {
+      "album": {
+        "name": "The Dystopian Episodes",
+        "url": "https://open.spotify.com/album/5SEh4cxebfscjQogbRCtwM"
+      },
+      "artists": [
+        {
+          "name": "Recondite",
+          "url": "https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382999,
+      "name": "Beam",
+      "url": "https://open.spotify.com/track/7gkn0Jggf0DQ5EIwHuISOI"
     },
     {
       "album": {

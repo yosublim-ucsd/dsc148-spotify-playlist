@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 
 > County's best like you've never heard before\. Cover: Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,895 likes - 68 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,913 likes - 68 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

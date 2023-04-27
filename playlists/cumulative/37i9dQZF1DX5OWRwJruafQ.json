@@ -1205,6 +1205,28 @@
     },
     {
       "album": {
+        "name": "Look At Me",
+        "url": "https://open.spotify.com/album/7ArPNvpEQHvUPb7tqBAd6s"
+      },
+      "artists": [
+        {
+          "name": "Karn Sekhon",
+          "url": "https://open.spotify.com/artist/3xOt6ZsKiyP9p8hmFNiYNz"
+        },
+        {
+          "name": "Deep Jandu",
+          "url": "https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145882,
+      "name": "Look At Me",
+      "url": "https://open.spotify.com/track/3Om27K297aRPV9I5GRw9F7"
+    },
+    {
+      "album": {
         "name": "Maan Punjabi - Spotify Singles",
         "url": "https://open.spotify.com/album/0tiQGJvtfSDtqGURqSU2e3"
       },
@@ -1270,7 +1292,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 223715,
       "name": "Mere Wala Jatt",
       "url": "https://open.spotify.com/track/2A9cZk5m1wYvlUPLhIMA7U"
@@ -2094,6 +2116,24 @@
       "duration_ms": 199205,
       "name": "We Rollin",
       "url": "https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE"
+    },
+    {
+      "album": {
+        "name": "Winnipeg",
+        "url": "https://open.spotify.com/album/3M42ugNB65SAMYKZRJ0F2F"
+      },
+      "artists": [
+        {
+          "name": "Gippy Grewal",
+          "url": "https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203023,
+      "name": "Winnipeg",
+      "url": "https://open.spotify.com/track/0bErpkWdMqlXPJZfTEdbE9"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "killer songs from badass artists. Cover: Tommy Lefroy",
-  "num_followers": 329970,
+  "num_followers": 330118,
   "original_name": "badass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjQ2OTEyNSwwMDAwMDAwMGQ4MDE1Y2E4ZTEzYzMzMjkyZmJhMzczNzJjZWEzMDdi",
+  "snapshot_id": "MTY4MjQ2OTEyNSwwMDAwMDAwMDk4MTlkNGRkMzQzZmU3N2VkNDc4YmYzMTFhMzc3Mjgy",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Oh No Darling!",
+        "url": "https://open.spotify.com/album/3RBeWddW8FHxtCdzD0VHns"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+        }
+      ],
+      "duration_ms": 203876,
+      "name": "Oh No Darling!",
+      "url": "https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Women In Music Pt. III",
         "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 193373,
       "name": "Gasoline (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/645Exr2lJIO45Guht3qyIa"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Oh No Darling!",
-        "url": "https://open.spotify.com/album/3RBeWddW8FHxtCdzD0VHns"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kinsley",
-          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
-        }
-      ],
-      "duration_ms": 203876,
-      "name": "Oh No Darling!",
-      "url": "https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Rat Saw God",
-        "url": "https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05"
-      },
-      "artists": [
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 247520,
-      "name": "Quarry",
-      "url": "https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Bags",
         "url": "https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 260519,
       "name": "Bags",
       "url": "https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Rat Saw God",
+        "url": "https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 247520,
+      "name": "Quarry",
+      "url": "https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Florist",
-        "url": "https://open.spotify.com/album/7EvfFPMMvMJ20olfdEkPBR"
-      },
-      "artists": [
-        {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
-        }
-      ],
-      "duration_ms": 326156,
-      "name": "Red Bird Pt. 2 (Morning)",
-      "url": "https://open.spotify.com/track/4QnkWi5jg50ZVkzBB3PZ4e"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Different Kinds of Light",
         "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 142818,
       "name": "Headstart",
       "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Florist",
+        "url": "https://open.spotify.com/album/7EvfFPMMvMJ20olfdEkPBR"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "duration_ms": 326156,
+      "name": "Red Bird Pt. 2 (Morning)",
+      "url": "https://open.spotify.com/track/4QnkWi5jg50ZVkzBB3PZ4e"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Things Take Time, Take Time",
-        "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 168074,
-      "name": "Write A List of Things To Look Forward To",
-      "url": "https://open.spotify.com/track/5MI8umTu0luQ4wQPm87adK"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Hypochondriac",
         "url": "https://open.spotify.com/album/4Q0ZHIymPlc5zpNtYQQ5FK"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 192853,
       "name": "Hypochondriac",
       "url": "https://open.spotify.com/track/6EDAapFVNckXJuDvx59agU"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Things Take Time, Take Time",
+        "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 168074,
+      "name": "Write A List of Things To Look Forward To",
+      "url": "https://open.spotify.com/track/5MI8umTu0luQ4wQPm87adK"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 174540,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "I Know I'm Funny haha",
         "url": "https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 195626,
       "name": "Cheers",
       "url": "https://open.spotify.com/track/3ruYlsPdwqrvb6mEDcfUUP"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 174540,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Present Tense",
-        "url": "https://open.spotify.com/album/2MWDzkDsRqaJcWdktGXhG5"
-      },
-      "artists": [
-        {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
-        }
-      ],
-      "duration_ms": 232907,
-      "name": "Astral Projection",
-      "url": "https://open.spotify.com/track/6gGZlkeGM73KD01zYVAJVO"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/132C8QdLHNKEqAUrXiJFlk"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 279232,
       "name": "Dreams - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4sMJ05OSIYdmHdnxfosvfb"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Present Tense",
+        "url": "https://open.spotify.com/album/2MWDzkDsRqaJcWdktGXhG5"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "duration_ms": 232907,
+      "name": "Astral Projection",
+      "url": "https://open.spotify.com/track/6gGZlkeGM73KD01zYVAJVO"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Tell Me What You Want",
-        "url": "https://open.spotify.com/album/3VdUpn61KkhDfUlerooRwD"
-      },
-      "artists": [
-        {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
-        }
-      ],
-      "duration_ms": 242186,
-      "name": "Tell Me What You Want",
-      "url": "https://open.spotify.com/track/3x7efaACPC2GmXnsH1nD7B"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Nothing Left To Give",
         "url": "https://open.spotify.com/album/0IVhJ8PzPajZB401x4lfkO"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 193522,
       "name": "Nothing Left To Give",
       "url": "https://open.spotify.com/track/5ti3pAj9M9HlnXrjUiO232"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Tell Me What You Want",
+        "url": "https://open.spotify.com/album/3VdUpn61KkhDfUlerooRwD"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "duration_ms": 242186,
+      "name": "Tell Me What You Want",
+      "url": "https://open.spotify.com/track/3x7efaACPC2GmXnsH1nD7B"
     },
     {
       "added_at": "2023-04-14 04:00:00",

@@ -38,7 +38,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 259040,
       "name": "90s",
       "url": "https://open.spotify.com/track/7oAKG9bqYZctRaNsMFQrmz"
@@ -1033,6 +1033,28 @@
     },
     {
       "album": {
+        "name": "champion",
+        "url": "https://open.spotify.com/album/3q5jZB9NtbZGU7jM4cEXmq"
+      },
+      "artists": [
+        {
+          "name": "blackwave.",
+          "url": "https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD"
+        },
+        {
+          "name": "Jordan Mackampa",
+          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220717,
+      "name": "champion",
+      "url": "https://open.spotify.com/track/0JrralS6u3HaFgwLFb4FoH"
+    },
+    {
+      "album": {
         "name": "God Don't Make Mistakes",
         "url": "https://open.spotify.com/album/4w1BBgCcUVv54r3zJenKpG"
       },
@@ -1992,7 +2014,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 244950,
       "name": "GOOD DAY",
       "url": "https://open.spotify.com/track/4DvepWnbBJzTb0jZZTqgPG"
@@ -2258,6 +2280,24 @@
       "duration_ms": 221999,
       "name": "here with me",
       "url": "https://open.spotify.com/track/2PkdcWgKmHUrnNMtLqfK5T"
+    },
+    {
+      "album": {
+        "name": "Hey Papi",
+        "url": "https://open.spotify.com/album/7vESA3Bg1fOvgHfAHUBZ8o"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158859,
+      "name": "Hey Papi - Edit",
+      "url": "https://open.spotify.com/track/7E0yobaZYmUDnk646JD0XT"
     },
     {
       "album": {
@@ -4061,6 +4101,24 @@
     },
     {
       "album": {
+        "name": "Price You Pay",
+        "url": "https://open.spotify.com/album/68H7rb7p0wrAjDa9SV0sML"
+      },
+      "artists": [
+        {
+          "name": "Tia Gordon",
+          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Price You Pay",
+      "url": "https://open.spotify.com/track/3ZuAZWE7pKBPh0tyGATaPQ"
+    },
+    {
+      "album": {
         "name": "Someone Who Knows",
         "url": "https://open.spotify.com/album/5P6FYHPjKPVSVNSdWZDsfe"
       },
@@ -4360,7 +4418,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 200000,
       "name": "Roselle",
       "url": "https://open.spotify.com/track/2txQgPnmR08OcKQW7P1x4v"
@@ -4596,6 +4654,28 @@
       "duration_ms": 387210,
       "name": "Shine [Feat. D Smoke + Tiffany Gouch\u00e9]",
       "url": "https://open.spotify.com/track/2mHenqaNpcU7q3JP4V4Oee"
+    },
+    {
+      "album": {
+        "name": "Show Her The Way",
+        "url": "https://open.spotify.com/album/5l7H2sueEPAHGGly08PkJS"
+      },
+      "artists": [
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        },
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242431,
+      "name": "Show Her The Way",
+      "url": "https://open.spotify.com/track/05JIFzIzIFqS9Gms1b4TUr"
     },
     {
       "album": {
@@ -5712,7 +5792,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 171596,
       "name": "The Process",
       "url": "https://open.spotify.com/track/5A5d8Coap6LIWcbk3xGDXi"

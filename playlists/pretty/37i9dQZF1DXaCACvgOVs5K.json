@@ -1,12 +1,12 @@
 {
   "description": "Get ready for Ibiza season 2023. See you on the dancefloor.",
-  "num_followers": 94080,
+  "num_followers": 94266,
   "original_name": "Ibiza 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDYxNDA4OCwwMDAwMDAwMDRmZWY2YmZhYzM4YjJiYjExYzM5ZWEwNzFlYWZhNTEz",
+  "snapshot_id": "MTY4MDYxNDA4OCwwMDAwMDAwMGZmMTRmNjIyMzgwZDc0Mjg4MTlmM2M1ZjE4ODY5OGIx",
   "tracks": [
     {
       "added_at": "2023-04-04 13:14:48",
@@ -1579,6 +1579,38 @@
     {
       "added_at": "2023-04-04 13:14:48",
       "album": {
+        "name": "We Control",
+        "url": "https://open.spotify.com/album/5VgrFAxkLmF6xAfgY6ByeW"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 206625,
+      "name": "We Control",
+      "url": "https://open.spotify.com/track/7K3OyIuvYF1qcwr4xqILeu"
+    },
+    {
+      "added_at": "2023-04-04 13:14:48",
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        }
+      ],
+      "duration_ms": 281381,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0"
+    },
+    {
+      "added_at": "2023-04-04 13:14:48",
+      "album": {
         "name": "Raw (Tony Romera Remix)",
         "url": "https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ"
       },
@@ -1603,38 +1635,6 @@
       "duration_ms": 217500,
       "name": "Raw - Tony Romera Remix",
       "url": "https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3"
-    },
-    {
-      "added_at": "2023-04-04 13:14:48",
-      "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        }
-      ],
-      "duration_ms": 281381,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0"
-    },
-    {
-      "added_at": "2023-04-04 13:14:48",
-      "album": {
-        "name": "We Control",
-        "url": "https://open.spotify.com/album/5VgrFAxkLmF6xAfgY6ByeW"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 206625,
-      "name": "We Control",
-      "url": "https://open.spotify.com/track/7K3OyIuvYF1qcwr4xqILeu"
     },
     {
       "added_at": "2023-04-04 13:14:48",

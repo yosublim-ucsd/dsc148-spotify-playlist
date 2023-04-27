@@ -1,12 +1,12 @@
 {
   "description": "70s rock to fuel your ride. Cover: Aerosmith",
-  "num_followers": 152391,
+  "num_followers": 152645,
   "original_name": "70s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjUxOTY2MywwMDAwMDAwMGExMDBiMDVjMjAxMzIzZjNjODQ0YzEzNmJkZTc0YjEy",
+  "snapshot_id": "MTY1NjUxOTY2MywwMDAwMDAwMGI3YTYxNjFiMzEyYmExOGM2OTRmODljODY0YTBhOWJm",
   "tracks": [
     {
       "added_at": "2021-03-16 22:29:33",
@@ -299,22 +299,6 @@
     {
       "added_at": "2021-03-16 22:29:33",
       "album": {
-        "name": "Tom Petty & The Heartbreakers",
-        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
-    },
-    {
-      "added_at": "2021-03-16 22:29:33",
-      "album": {
         "name": "Night Moves",
         "url": "https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 324422,
       "name": "Night Moves",
       "url": "https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk"
+    },
+    {
+      "added_at": "2021-03-16 22:29:33",
+      "album": {
+        "name": "Tom Petty & The Heartbreakers",
+        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
     },
     {
       "added_at": "2022-06-29 16:21:03",

@@ -4174,7 +4174,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 179645,
       "name": "Dancin\u2019 In The Country",
       "url": "https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf"
@@ -15219,7 +15219,7 @@
       "artists": [
         {
           "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+          "url": "https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF"
         },
         {
           "name": "Ayra Starr",
@@ -16164,6 +16164,28 @@
       "duration_ms": 191053,
       "name": "Relax My Eyes",
       "url": "https://open.spotify.com/track/1J3C8kdqUckBrTtgttm0AA"
+    },
+    {
+      "album": {
+        "name": "Relax My Eyes",
+        "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192150,
+      "name": "Relax My Eyes",
+      "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
     },
     {
       "album": {

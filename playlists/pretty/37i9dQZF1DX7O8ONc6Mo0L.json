@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Preto no Branco",
-  "num_followers": 242928,
+  "num_followers": 243056,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTU4MjgwMywwMDAwMDAwMDAxN2M0NTM3ZjEzMTYyNzBiOTkzZDllYzhmNGFlYTJl",
+  "snapshot_id": "MTY4MTU4MjgwMywwMDAwMDAwMGJiYjkyMmMxNGEwMDA4NmY0ZTI1YWJjZDg0ZWVlYTE3",
   "tracks": [
     {
       "added_at": "2023-04-15 18:20:03",
@@ -439,18 +439,22 @@
     {
       "added_at": "2023-04-15 18:20:03",
       "album": {
-        "name": "Espera S\u00f3 Mais um Pouquinho",
-        "url": "https://open.spotify.com/album/4XuNKNOhFdHsjtAGyrz9mu"
+        "name": "Deus Cuida de Mim",
+        "url": "https://open.spotify.com/album/29l7yrLpvUqFzbtq6us7Jn"
       },
       "artists": [
         {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Kleber Lucas",
+          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
         }
       ],
-      "duration_ms": 229759,
-      "name": "Espera S\u00f3 Mais um Pouquinho",
-      "url": "https://open.spotify.com/track/41NtlFmWQgIDWXv6mSgNrf"
+      "duration_ms": 224485,
+      "name": "Deus Cuida de Mim",
+      "url": "https://open.spotify.com/track/1oA2BvYw6lWg4MxM4ALmyG"
     },
     {
       "added_at": "2023-04-15 18:20:03",
@@ -471,22 +475,18 @@
     {
       "added_at": "2023-04-15 18:20:03",
       "album": {
-        "name": "Deus Cuida de Mim",
-        "url": "https://open.spotify.com/album/29l7yrLpvUqFzbtq6us7Jn"
+        "name": "Espera S\u00f3 Mais um Pouquinho",
+        "url": "https://open.spotify.com/album/4XuNKNOhFdHsjtAGyrz9mu"
       },
       "artists": [
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Kleber Lucas",
-          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
         }
       ],
-      "duration_ms": 224485,
-      "name": "Deus Cuida de Mim",
-      "url": "https://open.spotify.com/track/1oA2BvYw6lWg4MxM4ALmyG"
+      "duration_ms": 229759,
+      "name": "Espera S\u00f3 Mais um Pouquinho",
+      "url": "https://open.spotify.com/track/41NtlFmWQgIDWXv6mSgNrf"
     },
     {
       "added_at": "2023-04-15 18:20:03",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-04-15 18:20:03",
       "album": {
-        "name": "De Dentro Pra Fora (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3yvcoy8mYfNGb6Q9WdUd70"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 257105,
-      "name": "De Dentro Pra Fora - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5SstyI2yTMKPkGHRcLjsmO"
-    },
-    {
-      "added_at": "2023-04-15 18:20:03",
-      "album": {
         "name": "Ton Canta",
         "url": "https://open.spotify.com/album/2Ps1GhrLccx7ufkWB2UCvm"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 316055,
       "name": "Algo Novo",
       "url": "https://open.spotify.com/track/2JI4EXMfT59uUWjLrJVvhj"
+    },
+    {
+      "added_at": "2023-04-15 18:20:03",
+      "album": {
+        "name": "De Dentro Pra Fora (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3yvcoy8mYfNGb6Q9WdUd70"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 257105,
+      "name": "De Dentro Pra Fora - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5SstyI2yTMKPkGHRcLjsmO"
     },
     {
       "added_at": "2023-04-15 18:20:03",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-04-15 18:20:03",
       "album": {
+        "name": "Segure Minhas M\u00e3os (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2Ks64dAaTIMAa0AaPoCXhY"
+      },
+      "artists": [
+        {
+          "name": "Jhonas Serra",
+          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
+        }
+      ],
+      "duration_ms": 437014,
+      "name": "Segure Minhas M\u00e3os - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0bVh7xl9MWYCmLI2GfmjCx"
+    },
+    {
+      "added_at": "2023-04-15 18:20:03",
+      "album": {
         "name": "Primeira Ess\u00eancia (Ao Vivo)",
         "url": "https://open.spotify.com/album/6Q7ME1Xouz2udfWff8BHEo"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 296000,
       "name": "Primeira Ess\u00eancia (Ao Vivo)",
       "url": "https://open.spotify.com/track/4jTRJm7GsfpgLDMizIwBKE"
-    },
-    {
-      "added_at": "2023-04-15 18:20:03",
-      "album": {
-        "name": "Segure Minhas M\u00e3os (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2Ks64dAaTIMAa0AaPoCXhY"
-      },
-      "artists": [
-        {
-          "name": "Jhonas Serra",
-          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
-        }
-      ],
-      "duration_ms": 437014,
-      "name": "Segure Minhas M\u00e3os - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0bVh7xl9MWYCmLI2GfmjCx"
     },
     {
       "added_at": "2023-04-15 18:20:03",
@@ -867,6 +867,26 @@
     {
       "added_at": "2023-04-15 18:20:03",
       "album": {
+        "name": "Minha Ess\u00eancia",
+        "url": "https://open.spotify.com/album/6GgSb4sIpSOTcXUrz2ONDG"
+      },
+      "artists": [
+        {
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        },
+        {
+          "name": "Jay Santana",
+          "url": "https://open.spotify.com/artist/5u3U0XJCLzRu1x7ohiO3do"
+        }
+      ],
+      "duration_ms": 269354,
+      "name": "Descansa",
+      "url": "https://open.spotify.com/track/0gtBAv3MGzlEWGLKPZNiF7"
+    },
+    {
+      "added_at": "2023-04-15 18:20:03",
+      "album": {
         "name": "Filhos Ac\u00fastico",
         "url": "https://open.spotify.com/album/2rmRfedhDgarSjsUvod3QA"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 444976,
       "name": "Seu Amor: YOUnique - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3m0CtqEbzclwKxit7C48T3"
-    },
-    {
-      "added_at": "2023-04-15 18:20:03",
-      "album": {
-        "name": "Minha Ess\u00eancia",
-        "url": "https://open.spotify.com/album/6GgSb4sIpSOTcXUrz2ONDG"
-      },
-      "artists": [
-        {
-          "name": "Stella Laura",
-          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
-        },
-        {
-          "name": "Jay Santana",
-          "url": "https://open.spotify.com/artist/5u3U0XJCLzRu1x7ohiO3do"
-        }
-      ],
-      "duration_ms": 269354,
-      "name": "Descansa",
-      "url": "https://open.spotify.com/track/0gtBAv3MGzlEWGLKPZNiF7"
     },
     {
       "added_at": "2023-04-15 18:20:03",
@@ -1112,8 +1112,8 @@
           "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
         },
         {
-          "name": "Manu",
-          "url": "https://open.spotify.com/artist/7gz120VZ7N6mvk7nfq8cXV"
+          "name": "Nal\u00fa",
+          "url": "https://open.spotify.com/artist/0YaxG7PCq40nc8tKcMkrgx"
         }
       ],
       "duration_ms": 290250,
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2023-04-15 18:20:03",
       "album": {
+        "name": "Se N\u00e3o Fosse Ele",
+        "url": "https://open.spotify.com/album/09qMoSr73LwGwAFhqtUvNr"
+      },
+      "artists": [
+        {
+          "name": "Felipe Costa",
+          "url": "https://open.spotify.com/artist/7G8to6zPJFY3FJWrqNyumG"
+        },
+        {
+          "name": "Pedro Henrique",
+          "url": "https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t"
+        }
+      ],
+      "duration_ms": 289638,
+      "name": "Se N\u00e3o Fosse Ele",
+      "url": "https://open.spotify.com/track/3TsTuRLUCG7FeHzXRk2yUJ"
+    },
+    {
+      "added_at": "2023-04-15 18:20:03",
+      "album": {
         "name": "Aprender Com a Vida (Piano e Voz)",
         "url": "https://open.spotify.com/album/2731Wld6fTs75wFbXvGKZL"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 228388,
       "name": "Falar Com Deus - Faixa B\u00f4nus",
       "url": "https://open.spotify.com/track/0hWrNzTck3XeSk05UGmd7b"
-    },
-    {
-      "added_at": "2023-04-15 18:20:03",
-      "album": {
-        "name": "Se N\u00e3o Fosse Ele",
-        "url": "https://open.spotify.com/album/09qMoSr73LwGwAFhqtUvNr"
-      },
-      "artists": [
-        {
-          "name": "Felipe Costa",
-          "url": "https://open.spotify.com/artist/7G8to6zPJFY3FJWrqNyumG"
-        },
-        {
-          "name": "Pedro Henrique",
-          "url": "https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t"
-        }
-      ],
-      "duration_ms": 289638,
-      "name": "Se N\u00e3o Fosse Ele",
-      "url": "https://open.spotify.com/track/3TsTuRLUCG7FeHzXRk2yUJ"
     },
     {
       "added_at": "2023-04-15 18:20:03",

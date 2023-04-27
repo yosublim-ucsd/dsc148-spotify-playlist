@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: d4vd",
-  "num_followers": 424046,
+  "num_followers": 424368,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc4NTQ5MSwwMDAwMDAwMDk2YzI5OWIwZTZhOTRiOTM2ZDk2MTA1YzAyNTY1MTJi",
+  "snapshot_id": "MTY3Nzc4NTQ5MSwwMDAwMDAwMGE1OTM4ZTRlN2JjZjY5NjNlYTZlMGM5ZjIyYTU5MzA1",
   "tracks": [
     {
       "added_at": "2022-09-13 23:04:24",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Polyvinyl 4-Track Singles Series, Vol. 3",
-        "url": "https://open.spotify.com/album/5JIUd8YI5MSUvtVPI0RNZn"
-      },
-      "artists": [
-        {
-          "name": "Modern Baseball",
-          "url": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "Intersection",
-      "url": "https://open.spotify.com/track/79n6LMR1b5Puu9FxWzxtDA"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Pretty",
         "url": "https://open.spotify.com/album/22dulUCoaoKoVpmg2irQmo"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 199000,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/5rg2cr5aokhrm5gQNpyHXi"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Polyvinyl 4-Track Singles Series, Vol. 3",
+        "url": "https://open.spotify.com/album/5JIUd8YI5MSUvtVPI0RNZn"
+      },
+      "artists": [
+        {
+          "name": "Modern Baseball",
+          "url": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "Intersection",
+      "url": "https://open.spotify.com/track/79n6LMR1b5Puu9FxWzxtDA"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Half Life",
-        "url": "https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU"
-      },
-      "artists": [
-        {
-          "name": "CASTLEBEAT",
-          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
-        }
-      ],
-      "duration_ms": 239343,
-      "name": "Into",
-      "url": "https://open.spotify.com/track/22lOyosVUdyq7X0P7rzbWy"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Me Oh My Mirror",
         "url": "https://open.spotify.com/album/4FIEhoPQZpjjSS6japEfDx"
       },
@@ -1093,20 +1077,20 @@
       "url": "https://open.spotify.com/track/2CgjSLZmBqcJZyefZSDFQ3"
     },
     {
-      "added_at": "2022-12-13 12:51:47",
+      "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Pastlife (Deluxe)",
-        "url": "https://open.spotify.com/album/0vSwt0ateYFyLzdZDqAZyc"
+        "name": "Half Life",
+        "url": "https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU"
       },
       "artists": [
         {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+          "name": "CASTLEBEAT",
+          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
         }
       ],
-      "duration_ms": 182203,
-      "name": "Cold Like Me",
-      "url": "https://open.spotify.com/track/4VWHyL5l00Ue2W45C17xQv"
+      "duration_ms": 239343,
+      "name": "Into",
+      "url": "https://open.spotify.com/track/22lOyosVUdyq7X0P7rzbWy"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1127,6 +1111,22 @@
       "duration_ms": 163709,
       "name": "Midnight on a Sunny Day",
       "url": "https://open.spotify.com/track/2IH9CHrARfQJDcRNg3g8Dg"
+    },
+    {
+      "added_at": "2022-12-13 12:51:47",
+      "album": {
+        "name": "Pastlife (Deluxe)",
+        "url": "https://open.spotify.com/album/0vSwt0ateYFyLzdZDqAZyc"
+      },
+      "artists": [
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        }
+      ],
+      "duration_ms": 182203,
+      "name": "Cold Like Me",
+      "url": "https://open.spotify.com/track/4VWHyL5l00Ue2W45C17xQv"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "i want to die in your arms",
-        "url": "https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 136506,
-      "name": "i want to die in your arms",
-      "url": "https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Afternoon Bike Ride",
         "url": "https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 179141,
       "name": "Before the Fall",
       "url": "https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "i want to die in your arms",
+        "url": "https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 136506,
+      "name": "i want to die in your arms",
+      "url": "https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "softcore mourn",
-        "url": "https://open.spotify.com/album/6JpYbHo988mjDqGjUCDxwR"
-      },
-      "artists": [
-        {
-          "name": "pizzagirl",
-          "url": "https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA"
-        }
-      ],
-      "duration_ms": 243102,
-      "name": "sugar ray",
-      "url": "https://open.spotify.com/track/41edVQe0lQk74BxzcC7odS"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Boys Cry",
         "url": "https://open.spotify.com/album/55hp8spWuKixazOfG5olQQ"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 198932,
       "name": "Half Eaten",
       "url": "https://open.spotify.com/track/0uD7KsA2g7cTBxFyk5Fo5M"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "softcore mourn",
+        "url": "https://open.spotify.com/album/6JpYbHo988mjDqGjUCDxwR"
+      },
+      "artists": [
+        {
+          "name": "pizzagirl",
+          "url": "https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA"
+        }
+      ],
+      "duration_ms": 243102,
+      "name": "sugar ray",
+      "url": "https://open.spotify.com/track/41edVQe0lQk74BxzcC7odS"
     },
     {
       "added_at": "2022-09-13 23:04:24",

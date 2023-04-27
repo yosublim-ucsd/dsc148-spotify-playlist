@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtTyjgd08yp.md) - [plain]
 
 > Hauntingly atmospheric, deeply melodic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,192,752 likes - 118 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,193,051 likes - 118 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bgBpcV2oGY.md) - [plain]
 
 > Instrumental guitar for rainy day contemplation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,959 likes - 121 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,006 likes - 121 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

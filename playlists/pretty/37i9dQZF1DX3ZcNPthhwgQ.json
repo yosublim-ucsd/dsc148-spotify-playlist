@@ -1,12 +1,12 @@
 {
   "description": "Las rolas para escuchar mientras trabajas.",
-  "num_followers": 157900,
+  "num_followers": 158072,
   "original_name": "Chambeando",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTM3Mjk3OSwwMDAwMDAwMDU5ZmM4M2M2NTUyYjJkNzBhMTE0NzdkN2E1NzhmZjJh",
+  "snapshot_id": "MTY4MTM3Mjk3OSwwMDAwMDAwMDA2ZTQ3NDZlNDI2ODE2NGUxYmM2M2IyMWRhMjc2NjIz",
   "tracks": [
     {
       "added_at": "2023-04-13 08:02:59",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-04-13 08:02:59",
       "album": {
-        "name": "Simplemente Gracias",
-        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 255640,
-      "name": "Si Te Pudiera Mentir",
-      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
-    },
-    {
-      "added_at": "2023-04-13 08:02:59",
-      "album": {
         "name": "El Chamaquito",
         "url": "https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 139863,
       "name": "El Chamaquito",
       "url": "https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd"
+    },
+    {
+      "added_at": "2023-04-13 08:02:59",
+      "album": {
+        "name": "Simplemente Gracias",
+        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 255640,
+      "name": "Si Te Pudiera Mentir",
+      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
     },
     {
       "added_at": "2023-04-13 08:02:59",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-04-13 08:02:59",
       "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 235328,
-      "name": "El Doctor",
-      "url": "https://open.spotify.com/track/2g12ZAzSIybDe6QC3w9DYl"
-    },
-    {
-      "added_at": "2023-04-13 08:02:59",
-      "album": {
         "name": "El Free",
         "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 163560,
       "name": "Mi \u00daltimo Deseo",
       "url": "https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C"
+    },
+    {
+      "added_at": "2023-04-13 08:02:59",
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 235328,
+      "name": "El Doctor",
+      "url": "https://open.spotify.com/track/2g12ZAzSIybDe6QC3w9DYl"
     },
     {
       "added_at": "2023-04-13 08:02:59",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-04-13 08:02:59",
       "album": {
-        "name": "El Buho",
-        "url": "https://open.spotify.com/album/2Xuu8wGSDeBPCzhYJtMExb"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 176703,
-      "name": "El Buho",
-      "url": "https://open.spotify.com/track/1quaoU1wjFHLkDXC3bNghk"
-    },
-    {
-      "added_at": "2023-04-13 08:02:59",
-      "album": {
         "name": "Se\u00f1alado por Costumbre",
         "url": "https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs"
       },
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2023-04-13 08:02:59",
       "album": {
-        "name": "Un Suspir\u00f3",
-        "url": "https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT"
+        "name": "El Buho",
+        "url": "https://open.spotify.com/album/2Xuu8wGSDeBPCzhYJtMExb"
       },
       "artists": [
         {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 184411,
-      "name": "Un Suspir\u00f3",
-      "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"
+      "duration_ms": 176703,
+      "name": "El Buho",
+      "url": "https://open.spotify.com/track/1quaoU1wjFHLkDXC3bNghk"
     },
     {
       "added_at": "2023-04-13 08:02:59",
@@ -1487,6 +1471,22 @@
       "duration_ms": 151773,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/1kJXYVVUu7o3B9gaJpoxjm"
+    },
+    {
+      "added_at": "2023-04-13 08:02:59",
+      "album": {
+        "name": "Un Suspir\u00f3",
+        "url": "https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT"
+      },
+      "artists": [
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "duration_ms": 184411,
+      "name": "Un Suspir\u00f3",
+      "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"
     },
     {
       "added_at": "2023-04-13 08:02:59",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2023-04-13 08:02:59",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+        "name": "Ya No Vives En M\u00ed",
+        "url": "https://open.spotify.com/album/61NkuD5RHMUdi46sxcvCKE"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "Banda Clave Nueva",
+          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
         }
       ],
-      "duration_ms": 212776,
-      "name": "Ramito De Violetas",
-      "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
+      "duration_ms": 209586,
+      "name": "Cu\u00e1l Adi\u00f3s",
+      "url": "https://open.spotify.com/track/5R9lPFnoJGppR1MsI7vHxy"
     },
     {
       "added_at": "2023-04-13 08:02:59",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2023-04-13 08:02:59",
       "album": {
-        "name": "Ya No Vives En M\u00ed",
-        "url": "https://open.spotify.com/album/61NkuD5RHMUdi46sxcvCKE"
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
       },
       "artists": [
         {
-          "name": "Banda Clave Nueva",
-          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 209586,
-      "name": "Cu\u00e1l Adi\u00f3s",
-      "url": "https://open.spotify.com/track/5R9lPFnoJGppR1MsI7vHxy"
+      "duration_ms": 212776,
+      "name": "Ramito De Violetas",
+      "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
     },
     {
       "added_at": "2023-04-13 08:02:59",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2023-04-13 08:02:59",
       "album": {
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 208160,
+      "name": "El Amor de Mi Vida",
+      "url": "https://open.spotify.com/track/1w3FzkhH82foC5oIbIKKut"
+    },
+    {
+      "added_at": "2023-04-13 08:02:59",
+      "album": {
         "name": "AYAYAY! (S\u00faper Deluxe)",
         "url": "https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 171360,
       "name": "Dime C\u00f3mo Quieres",
       "url": "https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV"
-    },
-    {
-      "added_at": "2023-04-13 08:02:59",
-      "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 208160,
-      "name": "El Amor de Mi Vida",
-      "url": "https://open.spotify.com/track/1w3FzkhH82foC5oIbIKKut"
     },
     {
       "added_at": "2023-04-13 08:02:59",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2023-04-13 08:02:59",
       "album": {
-        "name": "Enloquecido",
-        "url": "https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 212915,
-      "name": "Enloquecido",
-      "url": "https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ"
-    },
-    {
-      "added_at": "2023-04-13 08:02:59",
-      "album": {
         "name": "Simplemente Gracias",
         "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
       },
@@ -1867,6 +1851,38 @@
       "duration_ms": 203200,
       "name": "Simplemente Gracias",
       "url": "https://open.spotify.com/track/3K6noLeoPTQJ5jUErC8jT5"
+    },
+    {
+      "added_at": "2023-04-13 08:02:59",
+      "album": {
+        "name": "Todos Hablan, Nada Saben",
+        "url": "https://open.spotify.com/album/1hAHT5gZfRLDYh0sZaTnDK"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        }
+      ],
+      "duration_ms": 163893,
+      "name": "Todos Hablan, Nada Saben",
+      "url": "https://open.spotify.com/track/0SIooo95Kba3UwPBRUOcmd"
+    },
+    {
+      "added_at": "2023-04-13 08:02:59",
+      "album": {
+        "name": "Enloquecido",
+        "url": "https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 212915,
+      "name": "Enloquecido",
+      "url": "https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ"
     },
     {
       "added_at": "2023-04-13 08:02:59",
@@ -1895,22 +1911,6 @@
       "duration_ms": 193918,
       "name": "D\u00e9jenme Hacer Dinero",
       "url": "https://open.spotify.com/track/4LdopLerbbhZxY6cBQyRsP"
-    },
-    {
-      "added_at": "2023-04-13 08:02:59",
-      "album": {
-        "name": "Todos Hablan, Nada Saben",
-        "url": "https://open.spotify.com/album/1hAHT5gZfRLDYh0sZaTnDK"
-      },
-      "artists": [
-        {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
-        }
-      ],
-      "duration_ms": 163893,
-      "name": "Todos Hablan, Nada Saben",
-      "url": "https://open.spotify.com/track/0SIooo95Kba3UwPBRUOcmd"
     },
     {
       "added_at": "2023-04-13 08:02:59",
@@ -2267,18 +2267,18 @@
     {
       "added_at": "2023-04-13 08:02:59",
       "album": {
-        "name": "No",
-        "url": "https://open.spotify.com/album/5pHsYxYOYQux6Ougxe2xnK"
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/24FPZ021AP83t8OSQHRaAx"
       },
       "artists": [
         {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+          "name": "Traviezoz de la Zierra",
+          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
         }
       ],
-      "duration_ms": 187240,
-      "name": "No",
-      "url": "https://open.spotify.com/track/024hOV0LnkxDeI8fOtNwAw"
+      "duration_ms": 220080,
+      "name": "Mi Pasado y Mi Presente",
+      "url": "https://open.spotify.com/track/588ROs3NuPqlPSYpIuitKS"
     },
     {
       "added_at": "2023-04-13 08:02:59",
@@ -2299,18 +2299,18 @@
     {
       "added_at": "2023-04-13 08:02:59",
       "album": {
-        "name": "Plan B",
-        "url": "https://open.spotify.com/album/24FPZ021AP83t8OSQHRaAx"
+        "name": "No",
+        "url": "https://open.spotify.com/album/5pHsYxYOYQux6Ougxe2xnK"
       },
       "artists": [
         {
-          "name": "Traviezoz de la Zierra",
-          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 220080,
-      "name": "Mi Pasado y Mi Presente",
-      "url": "https://open.spotify.com/track/588ROs3NuPqlPSYpIuitKS"
+      "duration_ms": 187240,
+      "name": "No",
+      "url": "https://open.spotify.com/track/024hOV0LnkxDeI8fOtNwAw"
     },
     {
       "added_at": "2023-04-13 08:02:59",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2023-04-13 08:02:59",
       "album": {
-        "name": "Te Invito a Ser Feliz",
-        "url": "https://open.spotify.com/album/7ukaZijb4JKauWNUYv8ddm"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 196406,
-      "name": "Te Invito a Ser Feliz",
-      "url": "https://open.spotify.com/track/3bUzFhNuke83LHTBw0XhYr"
-    },
-    {
-      "added_at": "2023-04-13 08:02:59",
-      "album": {
         "name": "30 Aniversario",
         "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
       },
@@ -2435,6 +2419,22 @@
       "duration_ms": 191893,
       "name": "Escondidos",
       "url": "https://open.spotify.com/track/6zTtNPcDqmpOOWmjQAVR6Z"
+    },
+    {
+      "added_at": "2023-04-13 08:02:59",
+      "album": {
+        "name": "Te Invito a Ser Feliz",
+        "url": "https://open.spotify.com/album/7ukaZijb4JKauWNUYv8ddm"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 196406,
+      "name": "Te Invito a Ser Feliz",
+      "url": "https://open.spotify.com/track/3bUzFhNuke83LHTBw0XhYr"
     },
     {
       "added_at": "2023-04-13 08:02:59",
@@ -2531,22 +2531,6 @@
     {
       "added_at": "2023-04-13 08:02:59",
       "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 177058,
-      "name": "Creo en Ti",
-      "url": "https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5"
-    },
-    {
-      "added_at": "2023-04-13 08:02:59",
-      "album": {
         "name": "Malas Rachas (En Vivo)",
         "url": "https://open.spotify.com/album/6RQExWvMa6De96hdwfxdDi"
       },
@@ -2567,22 +2551,18 @@
     {
       "added_at": "2023-04-13 08:02:59",
       "album": {
-        "name": "2 Veces",
-        "url": "https://open.spotify.com/album/0ddW33CDTAi75BC9ELsXSJ"
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd"
       },
       "artists": [
         {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 189066,
-      "name": "2 Veces",
-      "url": "https://open.spotify.com/track/2G5kj8gYNAVM4pQ0IBBaGA"
+      "duration_ms": 177058,
+      "name": "Creo en Ti",
+      "url": "https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5"
     },
     {
       "added_at": "2023-04-13 08:02:59",
@@ -2599,6 +2579,26 @@
       "duration_ms": 185296,
       "name": "No Paras de Hacerme Feliz",
       "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
+    },
+    {
+      "added_at": "2023-04-13 08:02:59",
+      "album": {
+        "name": "2 Veces",
+        "url": "https://open.spotify.com/album/0ddW33CDTAi75BC9ELsXSJ"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "2 Veces",
+      "url": "https://open.spotify.com/track/2G5kj8gYNAVM4pQ0IBBaGA"
     },
     {
       "added_at": "2023-04-13 08:02:59",

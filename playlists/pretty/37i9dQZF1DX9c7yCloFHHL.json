@@ -1,12 +1,12 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Grandbrothers on cover.",
-  "num_followers": 148805,
+  "num_followers": 148918,
   "original_name": "Ambiente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA4Nzg0NywwMDAwMDAwMGZmNTc4NGM0ZmM5YzEzNzQ1Y2ExMGQyYWIyYzllZTE2",
+  "snapshot_id": "MTY4MjA4Nzg0NywwMDAwMDAwMGY2OGI2MGUyM2U1NmYyYTRiZjExYjhmNTFjZjk1MWM1",
   "tracks": [
     {
       "added_at": "2023-04-21 14:37:27",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-04-21 14:37:27",
       "album": {
-        "name": "In Light Of Blues",
-        "url": "https://open.spotify.com/album/6lublxQLiB9wNHvcMRM6vD"
-      },
-      "artists": [
-        {
-          "name": "Celer",
-          "url": "https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O"
-        }
-      ],
-      "duration_ms": 115914,
-      "name": "Precious Past Hours",
-      "url": "https://open.spotify.com/track/42UJEe86XSI1Mm94IyhkCc"
-    },
-    {
-      "added_at": "2023-04-21 14:37:27",
-      "album": {
         "name": "Empire of Light (Original Score)",
         "url": "https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 107626,
       "name": "Washed Out",
       "url": "https://open.spotify.com/track/3LG0UmOyT3N1wHQsOdQRLs"
+    },
+    {
+      "added_at": "2023-04-21 14:37:27",
+      "album": {
+        "name": "In Light Of Blues",
+        "url": "https://open.spotify.com/album/6lublxQLiB9wNHvcMRM6vD"
+      },
+      "artists": [
+        {
+          "name": "Celer",
+          "url": "https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O"
+        }
+      ],
+      "duration_ms": 115914,
+      "name": "Precious Past Hours",
+      "url": "https://open.spotify.com/track/42UJEe86XSI1Mm94IyhkCc"
     },
     {
       "added_at": "2023-04-21 14:37:27",
@@ -1143,38 +1143,6 @@
     {
       "added_at": "2023-04-21 14:37:27",
       "album": {
-        "name": "Origami Rework",
-        "url": "https://open.spotify.com/album/6sb6CRPwYwl3HuHlJstQS3"
-      },
-      "artists": [
-        {
-          "name": "Haruhisa Tanaka",
-          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Origami Rework",
-      "url": "https://open.spotify.com/track/6O1SMGwmO1cfTaZQss2Th5"
-    },
-    {
-      "added_at": "2023-04-21 14:37:27",
-      "album": {
-        "name": "Afterpoem",
-        "url": "https://open.spotify.com/album/6pBLWnqLVvj7SvFQOB08Bl"
-      },
-      "artists": [
-        {
-          "name": "Faten Kanaan",
-          "url": "https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy"
-        }
-      ],
-      "duration_ms": 118897,
-      "name": "Fin ao\u00fbt, d\u00e9but septembre",
-      "url": "https://open.spotify.com/track/2x1EvHw6MncUjkzC7tEluJ"
-    },
-    {
-      "added_at": "2023-04-21 14:37:27",
-      "album": {
         "name": "Nouveau-N\u00e9",
         "url": "https://open.spotify.com/album/0MytabDicwJ6x5x8xU2mqm"
       },
@@ -1187,6 +1155,22 @@
       "duration_ms": 200862,
       "name": "Nouveau-N\u00e9 (Re-Imagined)",
       "url": "https://open.spotify.com/track/1sk2K7lpkZgAbTRjF07HhK"
+    },
+    {
+      "added_at": "2023-04-21 14:37:27",
+      "album": {
+        "name": "Origami Rework",
+        "url": "https://open.spotify.com/album/6sb6CRPwYwl3HuHlJstQS3"
+      },
+      "artists": [
+        {
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Origami Rework",
+      "url": "https://open.spotify.com/track/6O1SMGwmO1cfTaZQss2Th5"
     },
     {
       "added_at": "2023-04-21 14:37:27",
@@ -1223,6 +1207,38 @@
       "duration_ms": 171342,
       "name": "Log In Your Fire",
       "url": "https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN"
+    },
+    {
+      "added_at": "2023-04-21 14:37:27",
+      "album": {
+        "name": "Afterpoem",
+        "url": "https://open.spotify.com/album/6pBLWnqLVvj7SvFQOB08Bl"
+      },
+      "artists": [
+        {
+          "name": "Faten Kanaan",
+          "url": "https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy"
+        }
+      ],
+      "duration_ms": 118897,
+      "name": "Fin ao\u00fbt, d\u00e9but septembre",
+      "url": "https://open.spotify.com/track/2x1EvHw6MncUjkzC7tEluJ"
+    },
+    {
+      "added_at": "2023-04-21 14:37:27",
+      "album": {
+        "name": "Trans-Millenia Music",
+        "url": "https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw"
+      },
+      "artists": [
+        {
+          "name": "Pauline Anna Strom",
+          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
+        }
+      ],
+      "duration_ms": 274333,
+      "name": "Freedom at the 45th Floor",
+      "url": "https://open.spotify.com/track/3FhTy63b1pmm5FSEUtpCPR"
     },
     {
       "added_at": "2023-04-21 14:37:27",
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2023-04-21 14:37:27",
       "album": {
-        "name": "Trans-Millenia Music",
-        "url": "https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw"
-      },
-      "artists": [
-        {
-          "name": "Pauline Anna Strom",
-          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
-        }
-      ],
-      "duration_ms": 274333,
-      "name": "Freedom at the 45th Floor",
-      "url": "https://open.spotify.com/track/3FhTy63b1pmm5FSEUtpCPR"
-    },
-    {
-      "added_at": "2023-04-21 14:37:27",
-      "album": {
         "name": "dark snowy night",
         "url": "https://open.spotify.com/album/0WnATwrpuFPvyTpqxo1R5O"
       },
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-04-21 14:37:27",
       "album": {
-        "name": "Recovered",
-        "url": "https://open.spotify.com/album/5q5kFfRgXOMKiiOqk7kBFo"
-      },
-      "artists": [
-        {
-          "name": "Attom",
-          "url": "https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o"
-        }
-      ],
-      "duration_ms": 189908,
-      "name": "Recovered",
-      "url": "https://open.spotify.com/track/6D3nvlKp9mKSKt48N2liGr"
-    },
-    {
-      "added_at": "2023-04-21 14:37:27",
-      "album": {
         "name": "Whatever The Weather",
         "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 447000,
       "name": "25\u00b0C",
       "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
+    },
+    {
+      "added_at": "2023-04-21 14:37:27",
+      "album": {
+        "name": "Recovered",
+        "url": "https://open.spotify.com/album/5q5kFfRgXOMKiiOqk7kBFo"
+      },
+      "artists": [
+        {
+          "name": "Attom",
+          "url": "https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o"
+        }
+      ],
+      "duration_ms": 189908,
+      "name": "Recovered",
+      "url": "https://open.spotify.com/track/6D3nvlKp9mKSKt48N2liGr"
     },
     {
       "added_at": "2023-04-21 14:37:27",
@@ -1391,38 +1391,6 @@
     {
       "added_at": "2023-04-21 14:37:27",
       "album": {
-        "name": "#3 (Rhubarb)",
-        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
-      },
-      "artists": [
-        {
-          "name": "Brendan Eder Ensemble",
-          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
-        }
-      ],
-      "duration_ms": 437138,
-      "name": "#3 (Rhubarb)",
-      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
-    },
-    {
-      "added_at": "2023-04-21 14:37:27",
-      "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
-      },
-      "artists": [
-        {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "6\u00b0C",
-      "url": "https://open.spotify.com/track/36FLUMvwp2rnUPUmznUVoi"
-    },
-    {
-      "added_at": "2023-04-21 14:37:27",
-      "album": {
         "name": "Knit Cap Theater \"Fudarakutokaiki\" Original Soundtrack",
         "url": "https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0"
       },
@@ -1435,6 +1403,22 @@
       "duration_ms": 129600,
       "name": "Kuware Uta - Intro",
       "url": "https://open.spotify.com/track/2SWEdiXt0rDhEcXrLBktG1"
+    },
+    {
+      "added_at": "2023-04-21 14:37:27",
+      "album": {
+        "name": "#3 (Rhubarb)",
+        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
+      },
+      "artists": [
+        {
+          "name": "Brendan Eder Ensemble",
+          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
+        }
+      ],
+      "duration_ms": 437138,
+      "name": "#3 (Rhubarb)",
+      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
     },
     {
       "added_at": "2023-04-21 14:37:27",
@@ -1471,22 +1455,6 @@
     {
       "added_at": "2023-04-21 14:37:27",
       "album": {
-        "name": "exosphere",
-        "url": "https://open.spotify.com/album/2kOlNHnx37eLBwMGNsCqtP"
-      },
-      "artists": [
-        {
-          "name": "Be Still the Earth",
-          "url": "https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6"
-        }
-      ],
-      "duration_ms": 200250,
-      "name": "exosphere",
-      "url": "https://open.spotify.com/track/4YzJX0cfKt0Y3X5qBCGVwX"
-    },
-    {
-      "added_at": "2023-04-21 14:37:27",
-      "album": {
         "name": "fragments",
         "url": "https://open.spotify.com/album/67EzhMUZJBwTnXpnnSY6Jx"
       },
@@ -1499,6 +1467,38 @@
       "duration_ms": 127766,
       "name": "whateverness",
       "url": "https://open.spotify.com/track/3MKC7OvW9dw7bxgNuknQi5"
+    },
+    {
+      "added_at": "2023-04-21 14:37:27",
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "6\u00b0C",
+      "url": "https://open.spotify.com/track/36FLUMvwp2rnUPUmznUVoi"
+    },
+    {
+      "added_at": "2023-04-21 14:37:27",
+      "album": {
+        "name": "exosphere",
+        "url": "https://open.spotify.com/album/2kOlNHnx37eLBwMGNsCqtP"
+      },
+      "artists": [
+        {
+          "name": "Be Still the Earth",
+          "url": "https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6"
+        }
+      ],
+      "duration_ms": 200250,
+      "name": "exosphere",
+      "url": "https://open.spotify.com/track/4YzJX0cfKt0Y3X5qBCGVwX"
     },
     {
       "added_at": "2023-04-21 14:37:27",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-04-21 14:37:27",
       "album": {
-        "name": "Isola",
-        "url": "https://open.spotify.com/album/3ba4E9NJcmPzgxcP6SeggA"
-      },
-      "artists": [
-        {
-          "name": "Rumpistol",
-          "url": "https://open.spotify.com/artist/3GopsVcnzdMhVAvWCzfFLv"
-        }
-      ],
-      "duration_ms": 315960,
-      "name": "Vindheks",
-      "url": "https://open.spotify.com/track/0k7W32ROqCNUuzRFb0tDxE"
-    },
-    {
-      "added_at": "2023-04-21 14:37:27",
-      "album": {
         "name": "the storm before the calm",
         "url": "https://open.spotify.com/album/5mXNbzv8w9yL7yT4fcls2r"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 328320,
       "name": "light\u2014the lightworker\u2019s lament",
       "url": "https://open.spotify.com/track/2eIfwGaVlemywEmFrGdgpd"
+    },
+    {
+      "added_at": "2023-04-21 14:37:27",
+      "album": {
+        "name": "Isola",
+        "url": "https://open.spotify.com/album/3ba4E9NJcmPzgxcP6SeggA"
+      },
+      "artists": [
+        {
+          "name": "Rumpistol",
+          "url": "https://open.spotify.com/artist/3GopsVcnzdMhVAvWCzfFLv"
+        }
+      ],
+      "duration_ms": 315960,
+      "name": "Vindheks",
+      "url": "https://open.spotify.com/track/0k7W32ROqCNUuzRFb0tDxE"
     },
     {
       "added_at": "2023-04-21 14:37:27",

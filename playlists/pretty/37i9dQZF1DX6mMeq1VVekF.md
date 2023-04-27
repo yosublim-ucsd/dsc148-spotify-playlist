@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Jim Legxacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,607 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,686 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,13 +20,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 10 | [Time Is Precious](https://open.spotify.com/track/6hdFvWuFjmoxJjSeEjiJpg) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Air](https://open.spotify.com/album/7KR3GaBmiaydLWXrzHDKMt) | 7:03 |
 | 11 | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/track/7bhyLtr2FFiL9Psq42UNiw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/album/4FdZWXrvbPEXhWuyCZaF5Q) | 2:28 |
 | 12 | [Stylin'](https://open.spotify.com/track/0SLE0Ym3WhxfHSDR7Qd5pf) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Local Mvp](https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN) | 2:38 |
-| 13 | [Point and Kill](https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 3:05 |
+| 13 | [Woman](https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:29 |
 | 14 | [Backstroke](https://open.spotify.com/track/5Zbn1bJ3yxodPIRgJCp9xh) | [Barny Fletcher](https://open.spotify.com/artist/5q9zHGohILrZ2j1bSL1VeG) | [Backstroke](https://open.spotify.com/album/6anKu2hrikzTux91WoVeuD) | 2:39 |
 | 15 | [The Mantra \- Heat in the Street Freestyle](https://open.spotify.com/track/58E4qtpkOmMqbJxHM1dm6I) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [The Mantra \(Heat in the Street Freestyle\)](https://open.spotify.com/album/3dZaDT52KPLtRFvt7xs3AD) | 1:37 |
 | 16 | [Angel](https://open.spotify.com/track/3WSRFKYZ9PmoFsfHb3vE3V) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Angel](https://open.spotify.com/album/3b4R5cIr9AuzhOeqxTIsyc) | 10:10 |
 | 17 | [Valentine](https://open.spotify.com/track/6ndkXjUShE5RQrUE1fRzs6) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Vacation](https://open.spotify.com/album/4X0aPpHZQ1prmH7Wzm24ji) | 2:38 |
 | 18 | [7:00](https://open.spotify.com/track/7LJZyNjN5U0LdYSBQ9hlLz) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A N N I V E R S A R Y \(Deluxe\)](https://open.spotify.com/album/272GPDEjWzJtyZfHDWFXBy) | 3:08 |
-| 19 | [Woman](https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:29 |
+| 19 | [Point and Kill](https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 3:05 |
 | 20 | [Matinee](https://open.spotify.com/track/5c5lCOFiMF14K2pzYep4wo) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL) | [Matinee](https://open.spotify.com/album/238YXuMQe6bGCSqZ3A57EY) | 3:08 |
 | 21 | [24's](https://open.spotify.com/track/6pe4kkc27IKSkubhLY7a5C) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [24's](https://open.spotify.com/album/2zrwoynjMVDV6vsSwkwpNP) | 2:46 |
 | 22 | [Los Pollos Hermanos](https://open.spotify.com/track/6hlrui656yBRUb3qGkd5lH) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Los Pollos Hermanos](https://open.spotify.com/album/766Mv8IX7ddrwGr9jiSKjM) | 1:35 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 59 | [Never Leave](https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Never Leave](https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp) | 3:16 |
 | 60 | [Memories](https://open.spotify.com/track/1ENMwElCCao8ejBvXCjWN1) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Cheers to the Best Memories](https://open.spotify.com/album/15D9ut0TGWReBDq4YRQoZA) | 2:44 |
 
-Snapshot ID: `MTY2Njk1MzM3MCwwMDAwMDAwMDBhYTY5MDhiZDYyMTM0NTZmNTU1MzkyZDk2NmIwZDdh`
+Snapshot ID: `MTY2Njk1MzM3MCwwMDAwMDAwMGQ1NGNmNzM3MDk5MWQzMjdmYTI2ZWNmMmUzOTkxM2I4`

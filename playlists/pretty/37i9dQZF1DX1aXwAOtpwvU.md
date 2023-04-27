@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:6VQUyaRqUl5BCTJS0cCEki">KIWI</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,389 likes - 45 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,401 likes - 45 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

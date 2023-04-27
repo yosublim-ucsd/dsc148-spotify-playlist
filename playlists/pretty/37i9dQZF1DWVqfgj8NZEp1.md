@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of gentle instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,463,911 likes - 136 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,464,142 likes - 136 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 56 | [Moonlight in Vermont](https://open.spotify.com/track/5SjukQ9cPwYxzUkrxrh4Ri) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [City of Sounds](https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr) | 6:53 |
 | 57 | [There's No Place For Me \- Live](https://open.spotify.com/track/48PojLpjonNmPElm0ntohW) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR), [Martin Sasse](https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT) | [Live At Bird's Eye](https://open.spotify.com/album/1HtSvdXnsTdiBaUtMjiWsH) | 5:20 |
 | 58 | [One Fine Day](https://open.spotify.com/track/3wWnjO4iTLDqjIvlOVoOPX) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [One Fine Day](https://open.spotify.com/album/6ciCIBC5QF3o1j2wuAAXK5) | 4:24 |
-| 59 | [Old Folks](https://open.spotify.com/track/0xnWsv0kNVeONjhiFvEyWw) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm) | [A Ballad Moment](https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl) | 4:51 |
+| 59 | [Old Folks](https://open.spotify.com/track/0xnWsv0kNVeONjhiFvEyWw) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Ballad Moment](https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl) | 4:51 |
 | 60 | [Why Did I Choose You](https://open.spotify.com/track/5KT7qJe8KOoafHAkUFWmRd) | [Houston Person](https://open.spotify.com/artist/16Xx0WCnAKOA9mwPPSUJmr) | [Reminiscing at Rudy's](https://open.spotify.com/album/3Fh49WPCX4Xq6fbbSHw0b4) | 4:12 |
 | 61 | [Soultrane](https://open.spotify.com/track/6Flb140dcVJ0VyZeCAmakB) | [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6) | [Konarski & Standards](https://open.spotify.com/album/2dj69o8yltikLhY0a0afam) | 6:29 |
 | 62 | [Moons Ago](https://open.spotify.com/track/7KVEWO1McsqsfoX7rXQdFy) | [Dominik Schürmann trio](https://open.spotify.com/artist/3HIiSgXxugDR6W7DiJ6zEK), [Max Ionata](https://open.spotify.com/artist/0Cn4yjRG7JFC5DhZfnEYzz) | [Moons Ago](https://open.spotify.com/album/5i1YDBZFg7sq2PmskQdzv3) | 6:06 |

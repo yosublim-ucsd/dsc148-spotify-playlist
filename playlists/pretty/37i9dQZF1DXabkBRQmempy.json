@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 90. \n\n",
-  "num_followers": 203053,
+  "num_followers": 203467,
   "original_name": "Rock en Espa\u00f1ol: Los 90",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzEzNjk2NSwwMDAwMDAwMDYyODRhMDFmZTQyMGZhMmRmMDI3ZTA4MTQyZGU0NGM5",
+  "snapshot_id": "MTY1NzEzNjk2NSwwMDAwMDAwMGM0ZGE0MmZkMDIxODQyZjhhNjJkMmM1YTJjY2FkNmY5",
   "tracks": [
     {
       "added_at": "2022-07-06 19:49:25",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-07-06 19:49:25",
       "album": {
-        "name": "Naufragios",
-        "url": "https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV"
-      },
-      "artists": [
-        {
-          "name": "Mikel Erentxun",
-          "url": "https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC"
-        }
-      ],
-      "duration_ms": 233733,
-      "name": "A un minuto de ti",
-      "url": "https://open.spotify.com/track/7HlULtRMJSTzorUMebka0f"
-    },
-    {
-      "added_at": "2022-07-06 19:49:25",
-      "album": {
         "name": "Re",
         "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 135133,
       "name": "Las flores",
       "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
+    },
+    {
+      "added_at": "2022-07-06 19:49:25",
+      "album": {
+        "name": "Naufragios",
+        "url": "https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV"
+      },
+      "artists": [
+        {
+          "name": "Mikel Erentxun",
+          "url": "https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC"
+        }
+      ],
+      "duration_ms": 233733,
+      "name": "A un minuto de ti",
+      "url": "https://open.spotify.com/track/7HlULtRMJSTzorUMebka0f"
     },
     {
       "added_at": "2022-07-06 19:49:25",

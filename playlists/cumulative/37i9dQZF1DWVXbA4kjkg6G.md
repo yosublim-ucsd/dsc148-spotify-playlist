@@ -4,7 +4,7 @@
 
 > Psychedelic beat science.
 
-128 songs - 12 hr 24 min
+129 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Five Days](https://open.spotify.com/track/2J0udoywJrh32Mcp3VSiU9) | [Howie B.](https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG) | [My Left Pussyfoot](https://open.spotify.com/album/5yS6FBypn4GpZV8LymMbWd) | 5:22 | 2021-06-25 | 2022-11-06 |
 | [Five Days](https://open.spotify.com/track/749wOMW7G4HSApFFRu3JpL) | [Howie B.](https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG) | [My Left Pussyfoot](https://open.spotify.com/album/45tUfsKQT0VmV27YBSgaCt) | 5:22 | 2021-06-25 |  |
 | [Free Your Turntable And Your Scratch Will Follow](https://open.spotify.com/track/0HVYAM7HheGaM2pMHVfFcD) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Underground Vibes](https://open.spotify.com/album/0HvGtxzwRl8L0Oq7HHOIdT) | 7:36 | 2021-06-25 | 2022-11-12 |
-| [Galactic Funk](https://open.spotify.com/track/5DRfoGTpzVbyddq2LMe6ZD) | [DJ Spooky](https://open.spotify.com/artist/1O8yrjjifkCO8txB4CxuOm) | [This Is Home Entertainment](https://open.spotify.com/album/3evzzoWZxpu1buDbcSc2fn) | 6:07 | 2021-06-25 |  |
+| [Galactic Funk](https://open.spotify.com/track/5DRfoGTpzVbyddq2LMe6ZD) | [DJ Spooky](https://open.spotify.com/artist/1O8yrjjifkCO8txB4CxuOm) | [This Is Home Entertainment](https://open.spotify.com/album/3evzzoWZxpu1buDbcSc2fn) | 6:07 | 2021-06-25 | 2023-04-27 |
 | [Get Your Head Down](https://open.spotify.com/track/4SYVoeYf6tMll3e0UHKInU) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [Cold Krush Cuts](https://open.spotify.com/album/2pIjSXfVTFQsoSGKrtqF8B) | 7:42 | 2021-06-25 | 2023-02-20 |
 | [Ghostwriter](https://open.spotify.com/track/5Nn2Dj7OQsGL6pgQ9iIzPp) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Deadringer: Deluxe](https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj) | 5:17 | 2021-06-25 |  |
 | [Hell Is Round The Corner](https://open.spotify.com/track/04hr5vtWbtWaN0qehBfBCL) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Maxinquaye](https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8) | 3:46 | 2021-06-25 | 2022-07-29 |
@@ -73,6 +73,7 @@
 | [London Mind State](https://open.spotify.com/track/0CQS3QLBgxaHDlwK3T8D8L) | [DJ Vadim](https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ) | [Ninja Cuts \- Flexistentialism](https://open.spotify.com/album/58Qrk5O3oeBJT9a8tgqqSi) | 4:45 | 2021-06-25 |  |
 | [London Mind State](https://open.spotify.com/track/3fTKgBq4hmYqulTK2cCTqz) | [DJ Vadim](https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ) | [Ninja Cuts \- Flexistentialism](https://open.spotify.com/album/2GEDttZb6GjcgZfpc7c2bw) | 4:45 | 2021-06-25 | 2022-07-29 |
 | [Lonely Soul](https://open.spotify.com/track/2HHC3GxRY2SxqRn6v6TvXX) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC), [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Psyence Fiction](https://open.spotify.com/album/6Dxx0vxLQ83LK1PMZezlcY) | 8:53 | 2021-06-25 | 2023-04-23 |
+| [Lonely Soul](https://open.spotify.com/track/2LmFeLBe39IfY0XfqJ0vOi) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC), [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Psyence Fiction](https://open.spotify.com/album/0LFPjvWEaHP7WKQD6F5pVS) | 8:53 | 2021-06-25 |  |
 | [Long Road](https://open.spotify.com/track/2b1E782QABZaTux77fwlbV) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:01 | 2021-06-25 |  |
 | [Mad Blunted Jazz](https://open.spotify.com/track/5DBHf9TJyINVithuciTmic) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Underground Vibes](https://open.spotify.com/album/0HvGtxzwRl8L0Oq7HHOIdT) | 5:10 | 2021-06-25 |  |
 | [Midnight In A Perfect World](https://open.spotify.com/track/1a9maLxqpx3cxjY1lTj62B) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Endtroducing.....](https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN) | 4:58 | 2021-06-25 |  |

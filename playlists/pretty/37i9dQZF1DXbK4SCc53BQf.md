@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,816 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,868 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 47 | [Desde Mi Alma](https://open.spotify.com/track/4CyVYEF7Jd1PFP5TvKic0Z) | [Joseph Burgos](https://open.spotify.com/artist/1j3m47q8Ul9ZN0YQ1m2ONL) | [Desde Mi Alma](https://open.spotify.com/album/1AGbEgukntBYyagzUeuvOD) | 4:08 |
 | 48 | [Dios Te Bendiga](https://open.spotify.com/track/3Gp0u24pOoYTFkq0bgwmus) | [Willy Rodriguez](https://open.spotify.com/artist/0VBFGsz0HzSy5g5cWdHBYH) | [Dios Te Bendiga](https://open.spotify.com/album/0AT18CmqEiwIfPCMVDECDw) | 3:52 |
 | 49 | [Contigo](https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Contigo](https://open.spotify.com/album/4EyoMV51X0r69upo5S2na0) | 3:42 |
-| 50 | [Ritmo Del Cielo](https://open.spotify.com/track/78A0tsRzfFHAdyLWd1S5cA) | [Michael Pratts](https://open.spotify.com/artist/0zdgPYpK8lYxpW8g5uNlxp) | [Conteo Regresivo](https://open.spotify.com/album/4u5WBcNF0IolTEzYBjLKHg) | 3:49 |
+| 50 | [Te Entrego Mi Corazón](https://open.spotify.com/track/3vjUs4D0CfYuABhwMyG50o) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Te Entrego Mi Corazón](https://open.spotify.com/album/1zthoHj47DANo7hIwf0ZcT) | 3:27 |
 
-Snapshot ID: `MTYwNjIyNDIzNSwwMDAwMDAwMGMwNjBmZWJkNGM2ODllOTFlNmUzZTliMDE1NjI3NjBl`
+Snapshot ID: `MTYwNjIyNDIzNSwwMDAwMDAwMDIwYmFhY2Q3ZjY5NjMxMzQwNGEyZGVlYWQ2YjNmODRi`

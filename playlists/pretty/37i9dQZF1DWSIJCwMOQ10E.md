@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 
 > No hay nada como una Rumba Colombiana\. ¡Hasta el amanecer! Foto: Carlos Vives
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,601 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,617 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 18 | [Cali Pachanguero](https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [No Hay Quinto Malo](https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ) | 5:10 |
 | 19 | [Alguien Me Gusta](https://open.spotify.com/track/4iFTIshL0xDCw8JJUl5AJ3) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Alguien Me Gusta](https://open.spotify.com/album/79WB96tQV9vPJ920cbneZ9) | 2:48 |
 | 20 | [Persona Ideal](https://open.spotify.com/track/5H1mAzh396id1TPT0JaItz) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Millenium Hits](https://open.spotify.com/album/2UW6AewaLPCMOqevOZvHof) | 4:41 |
-| 21 | [Pa' Mayte](https://open.spotify.com/track/00gAVWgRJy92PCAHFzVu83) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Tierra del Olvido \(005\)](https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y) | 3:08 |
+| 21 | [Pa' Mayte](https://open.spotify.com/track/00gAVWgRJy92PCAHFzVu83) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Tierra del Olvido](https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y) | 3:08 |
 | 22 | [Niña Bonita](https://open.spotify.com/track/7LSdAF6AUKmcsUTy3747rh) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh) | 5:10 |
 | 23 | [Cásate Conmigo](https://open.spotify.com/track/6f4UPdDBQONKJBRqwZGjaJ) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Cásate Conmigo](https://open.spotify.com/album/037f8ym7M1fzMAaWHtHY98) | 3:29 |
 | 24 | [Una Hoja en Blanco](https://open.spotify.com/track/3G5OfJVzos5wI0L09oyTOW) | [Omar Geles](https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR), [Esmeralda](https://open.spotify.com/artist/58yU6MSNwlAbu5NRnLOzFu) | [Nace Del Alma](https://open.spotify.com/album/7CL4FmomsC1pPNHNs1mXjW) | 4:44 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 31 | [Vivo Pensando En Ti \(feat\. Maluma\)](https://open.spotify.com/track/0H7cz1bR7w9PulJL7Na774) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Vivo Pensando En Ti \(feat\. Maluma\)](https://open.spotify.com/album/22GyzVcUc0jsXtnH6TqAyu) | 3:52 |
 | 32 | [Bella \- Remix](https://open.spotify.com/track/78nLeZtgvDeKygduWsgeUk) | [Wolfine](https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Bella \(Remix\)](https://open.spotify.com/album/4cEUisPsjbps3zDPV3pcnm) | 3:38 |
 | 33 | [Amarte Mas No Pude](https://open.spotify.com/track/105sSrcdsoN7Pj5NhIDUXx) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Orgullosa](https://open.spotify.com/album/4pMUHG6enf3RagNzHuCryB) | 4:49 |
-| 34 | [El Amor de Mi Vida "Se Fue"](https://open.spotify.com/track/3iPlRUr1BKFQVlVM6zxFWl) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [Auténtico](https://open.spotify.com/album/2Nfgyq7smkbHjmz5Rnz7zD) | 4:39 |
-| 35 | [Volver a Verte \(feat\. Cali y El Dandee\)](https://open.spotify.com/track/0LGhVLgkwlP2FIXSwrdRFg) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Agustín](https://open.spotify.com/album/0b06tYwwHqxWucHN4296YW) | 2:49 |
+| 34 | [Volver a Verte \(feat\. Cali y El Dandee\)](https://open.spotify.com/track/0LGhVLgkwlP2FIXSwrdRFg) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Agustín](https://open.spotify.com/album/0b06tYwwHqxWucHN4296YW) | 2:49 |
+| 35 | [El Amor de Mi Vida "Se Fue"](https://open.spotify.com/track/3iPlRUr1BKFQVlVM6zxFWl) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [Auténtico](https://open.spotify.com/album/2Nfgyq7smkbHjmz5Rnz7zD) | 4:39 |
 | 36 | [Vivo en el limbo](https://open.spotify.com/track/6qvCE9WhoF57af6boMwaOz) | [Kaleth Morales](https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH), [Andres Herrera](https://open.spotify.com/artist/2b7FVYTLTkP4YTT0VokeJU) | [La Hora de la Verdad](https://open.spotify.com/album/3Go9Lvj1m9UOzidlfDOFVA) | 6:16 |
 | 37 | [Materialista \(feat\. Nicky Jam\)](https://open.spotify.com/track/3jqSBJ8I20iUN0Bw8NA5xQ) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Gente Valiente](https://open.spotify.com/album/5kEnDeBQVa1V1YT485bMyF) | 3:11 |
 | 38 | [Obsesión](https://open.spotify.com/track/4OhFOoVfaqw3Xuz2vjceDq) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Emiliano Zuleta](https://open.spotify.com/artist/4j2ttDkyLZNpyM2RS9hCf5), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [Sólo Clásicos](https://open.spotify.com/album/5bsES1XTrXLgo9HGpFWVK0) | 3:42 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 47 | [Pegame Tu Vicio](https://open.spotify.com/track/25ILWrCvXPpkUFU0R7znEv) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Me Enamore](https://open.spotify.com/album/5yhEOwF6bRo08QhTGU9FQC) | 5:00 |
 | 48 | [Ras Tas Tas Full Hd](https://open.spotify.com/track/1hS2YZVC9mptyXp7pbO13Z) | [Cali Flow Latino](https://open.spotify.com/artist/6osZmjgq0xc7VroWgQoRcD) | [Full HD](https://open.spotify.com/album/1Iyffk6V5WgDjMc3SAoSHj) | 4:19 |
 | 49 | [La Invité a Bailar](https://open.spotify.com/track/4zhBHFZxYHpBKQX1lbWla1) | [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf) | [Éxitos de la Champeta Urbana](https://open.spotify.com/album/18O2bcdL2iaRBsozg7H0gV) | 4:05 |
-| 50 | [Abrete](https://open.spotify.com/track/3dET1wKtvMHbuONHeclcH9) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [El Terremoto Musical](https://open.spotify.com/album/2bWsAObvGNg2GOwlIPRRZc) | 4:31 |
+| 50 | [Tu Sonrisa](https://open.spotify.com/track/2pPgF067E3mtYhA5paJfcI) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente...Los Exitos](https://open.spotify.com/album/4p7YUpyEWoFheYconnjTqh) | 4:33 |
 
-Snapshot ID: `MTY4MjEwNDQ4OCwwMDAwMDAwMGQ1ODVmMTIxZjY0Yjk2MTFjMmM4YWU3ODJkOThmMzJm`
+Snapshot ID: `MTY4MjEwNDQ4OCwwMDAwMDAwMGVkNTMyMjdlYzQ3OWQ5ZjU4NzI4ODkyZWEyMGUxNzVm`

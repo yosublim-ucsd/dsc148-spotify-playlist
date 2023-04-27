@@ -4,7 +4,7 @@
 
 > Today's Hip\-Hop with Belly, Drake, and VIC MENSA!
 
-675 songs - 1 day 9 hr 44 min
+676 songs - 1 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -584,7 +584,8 @@
 | [Take Shots \(feat\. Tory Lanez\)](https://open.spotify.com/track/2tFwYCvY0x9IfeW63AdMpM) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Take Shots \(feat\. Tory Lanez\)](https://open.spotify.com/album/6ZDt6HZAFajVtwvNOjJb2b) | 4:41 | 2022-10-21 | 2022-12-10 |
 | [Talk](https://open.spotify.com/track/0ypjMI7vHiDP4sLB1C0Qna) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Talk](https://open.spotify.com/album/7dMwNA2bcmk60N4s27fk5e) | 2:54 | 2022-09-16 | 2022-11-05 |
 | [TALK DIFFERENT](https://open.spotify.com/track/66sufd2ajZ6WMtaNQcArnm) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Cottonwood 2](https://open.spotify.com/album/7l49L64CFakYuaV4EL11sP) | 3:40 | 2023-04-14 |  |
-| [Talkback](https://open.spotify.com/track/7o3fWwXCehCmRya4TBvqpe) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Talkback](https://open.spotify.com/album/5MNz65f0S30Ev8AGVdFI5I) | 3:04 | 2023-03-10 |  |
+| [Talkback](https://open.spotify.com/track/616rALOBxvc3bbp38iiud5) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:04 | 2023-04-21 |  |
+| [Talkback](https://open.spotify.com/track/7o3fWwXCehCmRya4TBvqpe) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Talkback](https://open.spotify.com/album/5MNz65f0S30Ev8AGVdFI5I) | 3:04 | 2023-03-10 | 2023-04-27 |
 | [Talking To My Scale](https://open.spotify.com/track/0jPYlLm8c7HoMOqqWjyFVQ) | [Paper Route EMPIRE](https://open.spotify.com/artist/65smG2lgnRmrDB8g7z1hG0), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [PAPER ROUTE iLLUMINATi](https://open.spotify.com/album/6WDlSPJvEMoZLHj9jJ1dhY) | 4:38 | 2021-12-31 | 2022-01-15 |
 | [Tally \(with Denzel Curry\)](https://open.spotify.com/track/6FGrBYBdIAS2asaP54AnZo) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Tally \(with Denzel Curry\)](https://open.spotify.com/album/4zGtu3hNTfIqxyNOAQwkLq) | 2:27 | 2023-01-27 | 2023-04-22 |
 | [Tell Me \(feat\. ATL Jacob\)](https://open.spotify.com/track/0v4se3cJ1ol7zihw1sOXEB) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [Blinded By Death \(Deluxe\)](https://open.spotify.com/album/4iGNig0GVOAe6wsQXEJVfl) | 2:17 | 2022-12-23 | 2023-01-07 |

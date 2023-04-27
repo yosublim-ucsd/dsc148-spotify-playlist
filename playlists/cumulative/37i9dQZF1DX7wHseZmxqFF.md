@@ -4,7 +4,7 @@
 
 > The UK girl group grab the power and show their love for Pride, unfurling a no\-fail list of pop party jams and club classics.
 
-46 songs - 2 hr 35 min
+47 songs - 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Secret Love Song \(feat\. Jason Derulo\)](https://open.spotify.com/track/4JIo8RztBbELr2gWJ5OGK6) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Get Weird \(Deluxe\)](https://open.spotify.com/album/4bzVI1FElc13HQagFR7S1W) | 4:09 | 2017-06-02 | 2022-07-29 |
 | [Sissy That Walk](https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Born Naked](https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7) | 3:32 | 2017-06-02 |  |
 | [Spice Up Your Life](https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 2:53 | 2017-06-02 |  |
-| [The Promise](https://open.spotify.com/track/3wyMwEpzoIWBGqEkHeEvi6) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Ten](https://open.spotify.com/album/664RHc5JaWz4ELLzzybn2T) | 3:44 | 2022-07-29 |  |
+| [The Promise](https://open.spotify.com/track/2cbfCJFIX0RlIPNkLydHmj) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Ten \(Deluxe Edition\)](https://open.spotify.com/album/7nPNZ0M4qgVUTjlcCPzfSw) | 3:44 | 2023-04-27 |  |
+| [The Promise](https://open.spotify.com/track/3wyMwEpzoIWBGqEkHeEvi6) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Ten](https://open.spotify.com/album/664RHc5JaWz4ELLzzybn2T) | 3:44 | 2022-07-29 | 2023-04-27 |
 | [The Promise](https://open.spotify.com/track/4JiQNrNwViF182zMsXzZiG) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Ten \(Deluxe Edition\)](https://open.spotify.com/album/4rjs6lxPKKFILmQ9hT9mCv) | 3:44 | 2017-06-02 | 2022-07-29 |
 | [Toxic](https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:18 | 2022-07-29 |  |
 | [Toxic](https://open.spotify.com/track/26nr9XnFCYWxBTIP7HyWXg) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Greatest Hits: My Prerogative](https://open.spotify.com/album/3caKTh2tJMowPiMz0cguLI) | 3:18 | 2017-06-02 | 2022-07-29 |

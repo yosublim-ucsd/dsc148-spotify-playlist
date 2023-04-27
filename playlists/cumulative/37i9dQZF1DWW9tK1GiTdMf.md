@@ -2,7 +2,7 @@
 
 ### [sanguegiovane](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ Cover: iann dior in cover
+> canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ Cover: iann dior
 
 476 songs - 21 hr 50 min
 

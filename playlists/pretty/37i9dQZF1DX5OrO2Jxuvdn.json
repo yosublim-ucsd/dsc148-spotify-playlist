@@ -1,12 +1,12 @@
 {
   "description": "Lainey Wilson is taking over with her favorite workout tracks to keep up with her New Year's resolution. \ud83c\udf51",
-  "num_followers": 95122,
+  "num_followers": 95138,
   "original_name": "Country Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzMwNDQyOCwwMDAwMDAwMGYzNGVkOTE0NTFlNjhhNzg0NGE2NDdhMzk4M2VkNTA1",
+  "snapshot_id": "MTY3MzMwNDQyOCwwMDAwMDAwMGYwZjA5ZWQyMjgxYWM0NWM1N2IwNTRiODhiYTFiMTQw",
   "tracks": [
     {
       "added_at": "2023-01-09 22:47:08",
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-01-09 22:47:08",
       "album": {
-        "name": "The Foundation",
-        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
+        "name": "The Big Revival",
+        "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
       },
       "artists": [
         {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 262773,
-      "name": "Toes",
-      "url": "https://open.spotify.com/track/4S518ci8UY4op0Xyp6Hx6o"
+      "duration_ms": 182960,
+      "name": "American Kids",
+      "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
     },
     {
       "added_at": "2023-01-09 22:47:08",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-01-09 22:47:08",
       "album": {
-        "name": "The Big Revival",
-        "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 182960,
-      "name": "American Kids",
-      "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
-    },
-    {
-      "added_at": "2023-01-09 22:47:08",
-      "album": {
         "name": "Crash My Party",
         "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 190186,
       "name": "That's My Kind Of Night",
       "url": "https://open.spotify.com/track/5HGibWoxnkYSkl6mHmAlOE"
+    },
+    {
+      "added_at": "2023-01-09 22:47:08",
+      "album": {
+        "name": "The Foundation",
+        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 262773,
+      "name": "Toes",
+      "url": "https://open.spotify.com/track/4S518ci8UY4op0Xyp6Hx6o"
     },
     {
       "added_at": "2023-01-09 22:47:08",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-01-09 22:47:08",
       "album": {
-        "name": "Water Under The Bridge",
-        "url": "https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "Water Under The Bridge",
-      "url": "https://open.spotify.com/track/4viFAHmivkYQKkwLvwKOgg"
-    },
-    {
-      "added_at": "2023-01-09 22:47:08",
-      "album": {
         "name": "Traveller",
         "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 253200,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/5jROdl6MhcmP3O7h2sVgtw"
+    },
+    {
+      "added_at": "2023-01-09 22:47:08",
+      "album": {
+        "name": "Water Under The Bridge",
+        "url": "https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "Water Under The Bridge",
+      "url": "https://open.spotify.com/track/4viFAHmivkYQKkwLvwKOgg"
     },
     {
       "added_at": "2023-01-09 22:47:08",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-01-09 22:47:08",
       "album": {
+        "name": "Body Like A Back Road",
+        "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 165386,
+      "name": "Body Like A Back Road",
+      "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
+    },
+    {
+      "added_at": "2023-01-09 22:47:08",
+      "album": {
         "name": "What You See Ain't Always What You Get (Deluxe Edition)",
         "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 186106,
       "name": "Cold As You",
       "url": "https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv"
-    },
-    {
-      "added_at": "2023-01-09 22:47:08",
-      "album": {
-        "name": "Center Point Road",
-        "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Look What God Gave Her",
-      "url": "https://open.spotify.com/track/2KqJC0koTBUyDlsMt5ok1V"
     },
     {
       "added_at": "2023-01-09 22:47:08",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-01-09 22:47:08",
       "album": {
-        "name": "Body Like A Back Road",
-        "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
+        "name": "Center Point Road",
+        "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
       },
       "artists": [
         {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 165386,
-      "name": "Body Like A Back Road",
-      "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
+      "duration_ms": 168960,
+      "name": "Look What God Gave Her",
+      "url": "https://open.spotify.com/track/2KqJC0koTBUyDlsMt5ok1V"
     },
     {
       "added_at": "2023-01-09 22:47:08",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-01-09 22:47:08",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
-      },
-      "artists": [
-        {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "Somethin' 'Bout A Truck",
-      "url": "https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8"
-    },
-    {
-      "added_at": "2023-01-09 22:47:08",
-      "album": {
         "name": "Montevallo",
         "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
       },
@@ -923,22 +907,6 @@
     {
       "added_at": "2023-01-09 22:47:08",
       "album": {
-        "name": "The Road To Here",
-        "url": "https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "Boondocks",
-      "url": "https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK"
-    },
-    {
-      "added_at": "2023-01-09 22:47:08",
-      "album": {
         "name": "Life Changes",
         "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
       },
@@ -951,6 +919,38 @@
       "duration_ms": 157080,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/30MM5jWpUmOxtTNd9Ey5LZ"
+    },
+    {
+      "added_at": "2023-01-09 22:47:08",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
+      },
+      "artists": [
+        {
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "Somethin' 'Bout A Truck",
+      "url": "https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8"
+    },
+    {
+      "added_at": "2023-01-09 22:47:08",
+      "album": {
+        "name": "The Road To Here",
+        "url": "https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 272346,
+      "name": "Boondocks",
+      "url": "https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK"
     },
     {
       "added_at": "2023-01-09 22:47:08",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-01-09 22:47:08",
       "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 179720,
+      "name": "23",
+      "url": "https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF"
+    },
+    {
+      "added_at": "2023-01-09 22:47:08",
+      "album": {
         "name": "Like I Love Country Music",
         "url": "https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg"
       },
@@ -1043,38 +1059,6 @@
     {
       "added_at": "2023-01-09 22:47:08",
       "album": {
-        "name": "Kill The Lights (Deluxe)",
-        "url": "https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "Kick The Dust Up",
-      "url": "https://open.spotify.com/track/5g15o2Sm55Hn9ShK5yEXgp"
-    },
-    {
-      "added_at": "2023-01-09 22:47:08",
-      "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 179720,
-      "name": "23",
-      "url": "https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF"
-    },
-    {
-      "added_at": "2023-01-09 22:47:08",
-      "album": {
         "name": "Center Point Road",
         "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 209733,
       "name": "Beer Can\u2019t Fix",
       "url": "https://open.spotify.com/track/7idmHTAQQPUFqdjXkoooXD"
+    },
+    {
+      "added_at": "2023-01-09 22:47:08",
+      "album": {
+        "name": "Kill The Lights (Deluxe)",
+        "url": "https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "Kick The Dust Up",
+      "url": "https://open.spotify.com/track/5g15o2Sm55Hn9ShK5yEXgp"
     },
     {
       "added_at": "2023-01-09 22:47:08",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2023-01-09 22:47:08",
       "album": {
-        "name": "Dancin' In The Moonlight (feat. Lauren Alaina)",
-        "url": "https://open.spotify.com/album/0UsGyt84mXODfb3IteNHdr"
-      },
-      "artists": [
-        {
-          "name": "Chris Lane",
-          "url": "https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0"
-        },
-        {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Dancin' In The Moonlight (feat. Lauren Alaina)",
-      "url": "https://open.spotify.com/track/0pnKcAh5binHOP9HexWwnZ"
-    },
-    {
-      "added_at": "2023-01-09 22:47:08",
-      "album": {
         "name": "Based on a True Story... (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 288760,
       "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
       "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
+    },
+    {
+      "added_at": "2023-01-09 22:47:08",
+      "album": {
+        "name": "Dancin' In The Moonlight (feat. Lauren Alaina)",
+        "url": "https://open.spotify.com/album/0UsGyt84mXODfb3IteNHdr"
+      },
+      "artists": [
+        {
+          "name": "Chris Lane",
+          "url": "https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0"
+        },
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Dancin' In The Moonlight (feat. Lauren Alaina)",
+      "url": "https://open.spotify.com/track/0pnKcAh5binHOP9HexWwnZ"
     },
     {
       "added_at": "2023-01-09 22:47:08",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2023-01-09 22:47:08",
       "album": {
-        "name": "If You're Going Through Hell",
-        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
+        "name": "Meat and Candy",
+        "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
       },
       "artists": [
         {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
         }
       ],
-      "duration_ms": 216773,
-      "name": "If You're Going Through Hell (Before The Devil Even Knows)",
-      "url": "https://open.spotify.com/track/7vSn3VNbzOtPebdj6ZSebj"
+      "duration_ms": 207733,
+      "name": "Break Up with Him",
+      "url": "https://open.spotify.com/track/5ZManJDV3CexO66nRCkdiV"
     },
     {
       "added_at": "2023-01-09 22:47:08",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2023-01-09 22:47:08",
       "album": {
-        "name": "Meat and Candy",
-        "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
+        "name": "If You're Going Through Hell",
+        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
       },
       "artists": [
         {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
         }
       ],
-      "duration_ms": 207733,
-      "name": "Break Up with Him",
-      "url": "https://open.spotify.com/track/5ZManJDV3CexO66nRCkdiV"
+      "duration_ms": 216773,
+      "name": "If You're Going Through Hell (Before The Devil Even Knows)",
+      "url": "https://open.spotify.com/track/7vSn3VNbzOtPebdj6ZSebj"
     },
     {
       "added_at": "2023-01-09 22:47:08",

@@ -1,12 +1,12 @@
 {
   "description": "All of your classic soul ballads, right here. Cover: Percy Sledge",
-  "num_followers": 326099,
+  "num_followers": 326174,
   "original_name": "Timeless Soul Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDExNjI4NywwMDAwMDAwMGQ3OGUwNWJmNDFmYjUxNzZiN2MwNjJkNDk4YzYxODk1",
+  "snapshot_id": "MTY4MDExNjI4NywwMDAwMDAwMDI0ZDhiMTcwNjU3YjQ3MTRmYWRmMmIwZjgwMjRjNjc2",
   "tracks": [
     {
       "added_at": "2022-03-04 21:48:30",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
-        "name": "There Is",
-        "url": "https://open.spotify.com/album/4OeKMYbIv4ATPruMTMWF5N"
-      },
-      "artists": [
-        {
-          "name": "The Dells",
-          "url": "https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S"
-        }
-      ],
-      "duration_ms": 373560,
-      "name": "Stay In My Corner",
-      "url": "https://open.spotify.com/track/6oavqtFYgu0Zdpgesza6f4"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
         "name": "The Best of Sam & Dave",
         "url": "https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 194106,
       "name": "When Something Is Wrong with My Baby",
       "url": "https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
+        "name": "There Is",
+        "url": "https://open.spotify.com/album/4OeKMYbIv4ATPruMTMWF5N"
+      },
+      "artists": [
+        {
+          "name": "The Dells",
+          "url": "https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S"
+        }
+      ],
+      "duration_ms": 373560,
+      "name": "Stay In My Corner",
+      "url": "https://open.spotify.com/track/6oavqtFYgu0Zdpgesza6f4"
     },
     {
       "added_at": "2022-03-04 21:48:30",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
-        "name": "The Best Of The Stylistics and More 30th Anniversary Edition",
-        "url": "https://open.spotify.com/album/0XCFf2EGPTZuIrDJeu7dPW"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 198920,
-      "name": "Betcha By Golly, Wow",
-      "url": "https://open.spotify.com/track/0g8A6lSYXCbVtEtGhvHEhb"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
         "name": "The Orioles 1947-1955",
         "url": "https://open.spotify.com/album/65RsqV8nJL5rPzAkzKjjWa"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 188000,
       "name": "Crying In The Chapel",
       "url": "https://open.spotify.com/track/35vjuw2ttf6OL5vFXY9w5v"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
+        "name": "The Best Of The Stylistics and More 30th Anniversary Edition",
+        "url": "https://open.spotify.com/album/0XCFf2EGPTZuIrDJeu7dPW"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 198920,
+      "name": "Betcha By Golly, Wow",
+      "url": "https://open.spotify.com/track/0g8A6lSYXCbVtEtGhvHEhb"
     }
   ],
   "unique_name": "Timeless Soul Ballads",

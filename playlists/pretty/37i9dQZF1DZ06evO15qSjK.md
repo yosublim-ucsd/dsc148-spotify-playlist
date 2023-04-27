@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15qSjK.md) - [plain]
 
 > This is Kidz Bop Kids\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,051 likes - 46 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,102 likes - 47 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,20 +39,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15qSjK.md) - [plain]
 | 29 | [Intentions](https://open.spotify.com/track/6gnkJg4PI3nFB2dH0p7Zcg) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:42 |
 | 30 | [Bam Bam](https://open.spotify.com/track/1kqu1lWNTNmwrRt8amTRSW) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Super POP!](https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK) | 3:15 |
 | 31 | [Dynamite](https://open.spotify.com/track/1SjPz95ZuP97C64qP7Whvx) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 3:17 |
-| 32 | [The Middle](https://open.spotify.com/track/02hItgiP8fFBLHCJ4fhhUy) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 38](https://open.spotify.com/album/45kCF1eONbksVLaWkorZLF) | 2:49 |
-| 33 | [STAY](https://open.spotify.com/track/2cEt3vw0bEhhdeJsp6hk0u) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Ultimate Playlist](https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu) | 2:19 |
+| 32 | [STAY](https://open.spotify.com/track/2cEt3vw0bEhhdeJsp6hk0u) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Ultimate Playlist](https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu) | 2:19 |
+| 33 | [The Middle](https://open.spotify.com/track/02hItgiP8fFBLHCJ4fhhUy) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 38](https://open.spotify.com/album/45kCF1eONbksVLaWkorZLF) | 2:49 |
 | 34 | [Trampoline](https://open.spotify.com/track/0zgYADHtKBRxMYqsjCu3hm) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Trampoline](https://open.spotify.com/album/4nwy1TZpVSYvtPeKy6RKmP) | 3:05 |
-| 35 | [We Don't Talk About Bruno](https://open.spotify.com/track/6f5hm2TMHcsXpp50D9WdI7) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Super POP!](https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK) | 3:32 |
-| 36 | [Get The Party Started \- Redo Version](https://open.spotify.com/track/2PtrvtdKTwjl795MzSQ2Ti) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:13 |
+| 35 | [Party In The USA \- Redo Version](https://open.spotify.com/track/5tvBQ9zlAxMzAt7GI7ik2n) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:26 |
+| 36 | [We Don't Talk About Bruno](https://open.spotify.com/track/6f5hm2TMHcsXpp50D9WdI7) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Super POP!](https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK) | 3:32 |
 | 37 | [Shake It Off](https://open.spotify.com/track/3NODaFePbYJpp5VAY1ipYp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 27](https://open.spotify.com/album/0hOfYUluBZkHPmTGkcLJuO) | 3:28 |
 | 38 | [Señorita](https://open.spotify.com/track/0rzOBbw7Zg4yyN22wwJzvJ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 40](https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ) | 2:49 |
-| 39 | [My Universe](https://open.spotify.com/track/7fV5tA7WHXwZfmfO1tBzRo) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [My Universe](https://open.spotify.com/album/7uF0sUMcjfk0j8WmzwtcR2) | 3:17 |
+| 39 | [Get The Party Started \- Redo Version](https://open.spotify.com/track/2PtrvtdKTwjl795MzSQ2Ti) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:13 |
 | 40 | [High Hopes](https://open.spotify.com/track/1BLQ9Ms6x4EkXrIhmI7IT2) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP World Tour](https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD) | 3:12 |
-| 41 | [Fancy Like](https://open.spotify.com/track/0zvvCso2UalzEEc8MLJPFx) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Ultimate Playlist](https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu) | 2:21 |
-| 42 | [Say So](https://open.spotify.com/track/3g3hE3WICIm03TSO4AUxfZ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Say So](https://open.spotify.com/album/2SMukJD6ePiMxdKTe6ZoPf) | 3:07 |
+| 41 | [My Universe](https://open.spotify.com/track/7fV5tA7WHXwZfmfO1tBzRo) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [My Universe](https://open.spotify.com/album/7uF0sUMcjfk0j8WmzwtcR2) | 3:17 |
+| 42 | [Fancy Like](https://open.spotify.com/track/0zvvCso2UalzEEc8MLJPFx) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Ultimate Playlist](https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu) | 2:21 |
 | 43 | [Cheerleader](https://open.spotify.com/track/3GBrT6nOYfVwjz5NfR5EPW) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 30](https://open.spotify.com/album/3eWdhUgp0xkZ9oAAHr4fvs) | 2:37 |
-| 44 | [Cake By The Ocean](https://open.spotify.com/track/1MbhZs4ycL1imDEq0Y0iJJ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 32](https://open.spotify.com/album/0qGfgCfiUYTLhrkF1iDR50) | 3:24 |
-| 45 | [Hey Ya! \- Redo Version](https://open.spotify.com/track/0LsQmzBACogw2KWIzetVZf) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:55 |
-| 46 | [Love Again](https://open.spotify.com/track/4lqFiuMXlUwUgwDuvt4igC) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Ultimate Playlist](https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu) | 3:11 |
+| 44 | [Say So](https://open.spotify.com/track/3g3hE3WICIm03TSO4AUxfZ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Say So](https://open.spotify.com/album/2SMukJD6ePiMxdKTe6ZoPf) | 3:07 |
+| 45 | [Cake By The Ocean](https://open.spotify.com/track/1MbhZs4ycL1imDEq0Y0iJJ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 32](https://open.spotify.com/album/0qGfgCfiUYTLhrkF1iDR50) | 3:24 |
+| 46 | [Hey Ya! \- Redo Version](https://open.spotify.com/track/0LsQmzBACogw2KWIzetVZf) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:55 |
+| 47 | [Love Again](https://open.spotify.com/track/4lqFiuMXlUwUgwDuvt4igC) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Ultimate Playlist](https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu) | 3:11 |
 
-Snapshot ID: `MjgwNDA0NDAsMDAwMDAwMDAwYWM4ODZiMTNmOTg4YzQ2YWNkODRmMWVmYmRkYTVjYQ==`
+Snapshot ID: `MjgwNDE5MzAsMDAwMDAwMDAwYTU0ODRiNmZkNWI2MWViOTFhMzFlN2RhYWQ1ZjVhZg==`

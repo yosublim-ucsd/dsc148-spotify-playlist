@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ZsXzq.md) - [plain]
 
 > This is Harry Styles\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,136 likes - 20 songs - 1 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,156 likes - 20 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ZsXzq.md) - [plain]
 | 19 | [Fine Line](https://open.spotify.com/track/6VzcQuzTNTMFnJ6rBSaLH9) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 6:17 |
 | 20 | [Carolina](https://open.spotify.com/track/3Dwq1oiOFys6Sxr5SslmXw) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:09 |
 
-Snapshot ID: `MjgwNDA0NDAsMDAwMDAwMDAyZDA4YjUxOWNjZmU4MDVhMzgxZjUxMzE4MThiOTRhNQ==`
+Snapshot ID: `MjgwNDE5MjksMDAwMDAwMDAwNmY1Nzg5MGZjYzk4NjUxOWZlZDY1M2VmNWUyZmJlZg==`

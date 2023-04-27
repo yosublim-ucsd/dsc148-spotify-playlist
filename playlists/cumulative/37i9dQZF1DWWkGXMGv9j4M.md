@@ -4,7 +4,7 @@
 
 > Weird year overall, but great for indie\. Editors' picks of the best tracks of the year\. Cover: Phoebe Bridgers
 
-166 songs - 9 hr 27 min
+167 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 | 2020-12-01 |  |
 | [Are You Even Real?](https://open.spotify.com/track/2k0HXdTDW28JFAaS8TaHeA) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Are You Even Real?](https://open.spotify.com/album/4k4iHNk6u4RlloqaNXlzwQ) | 3:51 | 2020-12-01 |  |
 | [Bad Idea](https://open.spotify.com/track/5OUGZoUonZ0ksZh3VDIlRP) | [axiiiiiiiii](https://open.spotify.com/artist/3lU88Di4kPdjmZzTDoacwD) | [Archiv3s](https://open.spotify.com/album/22d65J58ShqU0yYBXmNerw) | 1:09 | 2020-12-01 | 2023-01-25 |
-| [bad idea](https://open.spotify.com/track/3X98stWKFFlxLusl21lgWy) | [B0NKY](https://open.spotify.com/artist/3ajCT7sjp3kdZKdFRcPV02) | [bad idea](https://open.spotify.com/album/3Io1pVquas1qAVSXnshJcT) | 1:10 | 2020-12-01 |  |
+| [bad idea](https://open.spotify.com/track/3X98stWKFFlxLusl21lgWy) | [B0NKY](https://open.spotify.com/artist/3ajCT7sjp3kdZKdFRcPV02) | [bad idea](https://open.spotify.com/album/3Io1pVquas1qAVSXnshJcT) | 1:10 | 2020-12-01 | 2023-04-27 |
+| [Bad Idea](https://open.spotify.com/track/7fPqIDdcOyleyxMXd9R8db) | [Corpyz](https://open.spotify.com/artist/1IdtOQs4WDnMhU7apS0zk4), [p4rkr](https://open.spotify.com/artist/26zhNRtcs21tYaShItiOhD), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u), [Sukoyomi](https://open.spotify.com/artist/6yaYqVukNPDxUsFNH0I8Rp) | [Bad Idea](https://open.spotify.com/album/01BEH4bQqFcbOWVsnB36MJ) | 1:09 | 2020-12-01 |  |
 | [bad idea](https://open.spotify.com/track/4gIhQKdskKkhu5KQL0Jn4F) | [lmaopay](https://open.spotify.com/artist/5Lr6vtfzxLavw70fdoex8K), [starrstain](https://open.spotify.com/artist/2hcYnsObiMj0BPiXsGFPyX) | [archiv33](https://open.spotify.com/album/5pRZgTiyCZZfvmBfhEa0WO) | 1:10 | 2020-12-01 | 2023-02-25 |
 | [bad idea](https://open.spotify.com/track/494PD9jp6RhTtrbo9JEEjD) | [overlyhigh](https://open.spotify.com/artist/04dpbxEZqLdRpbLsoOg88Q) | [bad idea](https://open.spotify.com/album/0MyLUYxvi2XmAN7ExmsXzl) | 1:09 | 2020-12-01 | 2023-03-02 |
 | [bad idea](https://open.spotify.com/track/4U0VPz4nbsMXqoLLvXNbsv) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [bad idea](https://open.spotify.com/album/1vjhR70VW6jLdMec6GGw5J) | 1:09 | 2020-12-01 | 2023-04-10 |

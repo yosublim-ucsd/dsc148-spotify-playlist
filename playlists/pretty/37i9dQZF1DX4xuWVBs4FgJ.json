@@ -1,12 +1,12 @@
 {
   "description": "Dinner with Friends? Here's the perfect playlist.",
-  "num_followers": 1547114,
+  "num_followers": 1547214,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjM0OTYyNywwMDAwMDAwMDk4ZTczNmE0ODUwOGI3MDcyNmVlNDljMDIyZGJkNmFl",
+  "snapshot_id": "MTY4MjM0OTYyNywwMDAwMDAwMGI4Njc4M2I2NTUxYTA2NWI4NGNiOTg2MzljZjRiODI4",
   "tracks": [
     {
       "added_at": "2023-04-24 15:20:27",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-04-24 15:20:27",
       "album": {
-        "name": "How Do I Say Goodbye",
-        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 163603,
-      "name": "How Do I Say Goodbye",
-      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
-    },
-    {
-      "added_at": "2023-04-24 15:20:27",
-      "album": {
         "name": "Wish You The Best",
         "url": "https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 210880,
       "name": "Wish You The Best",
       "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
+    },
+    {
+      "added_at": "2023-04-24 15:20:27",
+      "album": {
+        "name": "How Do I Say Goodbye",
+        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 163603,
+      "name": "How Do I Say Goodbye",
+      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
     },
     {
       "added_at": "2023-04-24 15:20:27",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-04-24 15:20:27",
       "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 240439,
+      "name": "Water Under the Bridge",
+      "url": "https://open.spotify.com/track/4jL6WWKFDqCOPo2hC3VhSS"
+    },
+    {
+      "added_at": "2023-04-24 15:20:27",
+      "album": {
         "name": "Only Human (Special Edition)",
         "url": "https://open.spotify.com/album/1RcwvxkvyE60CTFNagElek"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 190760,
       "name": "You Are The Reason - Duet Version",
       "url": "https://open.spotify.com/track/1x3W8RZxW94lrVGhP95qA6"
-    },
-    {
-      "added_at": "2023-04-24 15:20:27",
-      "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 240439,
-      "name": "Water Under the Bridge",
-      "url": "https://open.spotify.com/track/4jL6WWKFDqCOPo2hC3VhSS"
     },
     {
       "added_at": "2023-04-24 15:20:27",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-04-24 15:20:27",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 262544,
-      "name": "drivers license - Spotify Singles",
-      "url": "https://open.spotify.com/track/10wk4XQdba4QpHgFb28Ktk"
-    },
-    {
-      "added_at": "2023-04-24 15:20:27",
-      "album": {
         "name": "Lavender Haze (Acoustic Version)",
         "url": "https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 174375,
       "name": "Lavender Haze - Acoustic Version",
       "url": "https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp"
+    },
+    {
+      "added_at": "2023-04-24 15:20:27",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 262544,
+      "name": "drivers license - Spotify Singles",
+      "url": "https://open.spotify.com/track/10wk4XQdba4QpHgFb28Ktk"
     },
     {
       "added_at": "2023-04-24 15:20:27",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-04-24 15:20:27",
       "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 189671,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI"
+    },
+    {
+      "added_at": "2023-04-24 15:20:27",
+      "album": {
         "name": "I Don't Miss You",
         "url": "https://open.spotify.com/album/6ozapqxYdXe9uMaMfB6UZp"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 234623,
       "name": "Lost",
       "url": "https://open.spotify.com/track/5uMoppTUGhP4l1Unv4OaMX"
-    },
-    {
-      "added_at": "2023-04-24 15:20:27",
-      "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 189671,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI"
     },
     {
       "added_at": "2023-04-24 15:20:27",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-04-24 15:20:27",
       "album": {
-        "name": "Rolling Up the Welcome Mat",
-        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 178746,
-      "name": "Leave Me Again",
-      "url": "https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo"
-    },
-    {
-      "added_at": "2023-04-24 15:20:27",
-      "album": {
         "name": "A Little Bit Yours",
         "url": "https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM"
       },
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2023-04-24 15:20:27",
       "album": {
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 178746,
+      "name": "Leave Me Again",
+      "url": "https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo"
+    },
+    {
+      "added_at": "2023-04-24 15:20:27",
+      "album": {
         "name": "FACE MYSELF",
         "url": "https://open.spotify.com/album/0wwDGGiX6lAVuZDLG9oR2u"
       },
@@ -1199,6 +1199,26 @@
       "duration_ms": 227903,
       "name": "FACE MYSELF",
       "url": "https://open.spotify.com/track/2R5hXZrxhgwycn39rC0OdQ"
+    },
+    {
+      "added_at": "2023-04-24 15:20:27",
+      "album": {
+        "name": "Ventura",
+        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+        }
+      ],
+      "duration_ms": 219332,
+      "name": "Make It Better (feat. Smokey Robinson)",
+      "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
     },
     {
       "added_at": "2023-04-24 15:20:27",
@@ -1239,26 +1259,6 @@
     {
       "added_at": "2023-04-24 15:20:27",
       "album": {
-        "name": "Ventura",
-        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
-        }
-      ],
-      "duration_ms": 219332,
-      "name": "Make It Better (feat. Smokey Robinson)",
-      "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
-    },
-    {
-      "added_at": "2023-04-24 15:20:27",
-      "album": {
         "name": "Bad For Me (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu"
       },
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-04-24 15:20:27",
       "album": {
-        "name": "Pacific Standard Time",
-        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 368783,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
-    },
-    {
-      "added_at": "2023-04-24 15:20:27",
-      "album": {
         "name": "georgia got colder",
         "url": "https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2"
       },
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2023-04-24 15:20:27",
       "album": {
-        "name": "Good Stuff",
-        "url": "https://open.spotify.com/album/10iO7id4oEejkm4jqKwTXc"
+        "name": "Pacific Standard Time",
+        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
       },
       "artists": [
         {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
         }
       ],
-      "duration_ms": 193266,
-      "name": "Good Stuff",
-      "url": "https://open.spotify.com/track/1tUdd0dSQ5ij2XiqlWhlHX"
+      "duration_ms": 368783,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
     },
     {
       "added_at": "2023-04-24 15:20:27",
@@ -1339,6 +1323,22 @@
       "duration_ms": 348093,
       "name": "Gamesofluck",
       "url": "https://open.spotify.com/track/0rdWkO7ncrh1lrJGDmLq9L"
+    },
+    {
+      "added_at": "2023-04-24 15:20:27",
+      "album": {
+        "name": "Good Stuff",
+        "url": "https://open.spotify.com/album/10iO7id4oEejkm4jqKwTXc"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 193266,
+      "name": "Good Stuff",
+      "url": "https://open.spotify.com/track/1tUdd0dSQ5ij2XiqlWhlHX"
     },
     {
       "added_at": "2023-04-24 15:20:27",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2023-04-24 15:20:27",
       "album": {
-        "name": "L\u00c9ON",
-        "url": "https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe"
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/4KrEjdnGDVtiRyZ4poxNTk"
       },
       "artists": [
         {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+          "name": "Thunderstorm Artis",
+          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
         }
       ],
-      "duration_ms": 225868,
-      "name": "Come Home To Me",
-      "url": "https://open.spotify.com/track/2K8elWg8ihrZRwZJ7Gy6L3"
+      "duration_ms": 179000,
+      "name": "Stronger (Grey's Anatomy Version)",
+      "url": "https://open.spotify.com/track/2h444Cn1pbZjKPD4jbjY3E"
     },
     {
       "added_at": "2023-04-24 15:20:27",
@@ -1535,34 +1535,18 @@
     {
       "added_at": "2023-04-24 15:20:27",
       "album": {
-        "name": "Stronger",
-        "url": "https://open.spotify.com/album/4KrEjdnGDVtiRyZ4poxNTk"
+        "name": "L\u00c9ON",
+        "url": "https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe"
       },
       "artists": [
         {
-          "name": "Thunderstorm Artis",
-          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Stronger (Grey's Anatomy Version)",
-      "url": "https://open.spotify.com/track/2h444Cn1pbZjKPD4jbjY3E"
-    },
-    {
-      "added_at": "2023-04-24 15:20:27",
-      "album": {
-        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
-      },
-      "artists": [
-        {
-          "name": "Jessica Mazin",
-          "url": "https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx"
-        }
-      ],
-      "duration_ms": 209748,
-      "name": "Never Let Me Down Again",
-      "url": "https://open.spotify.com/track/2Tw463vi8DMqkr2EiLYfZM"
+      "duration_ms": 225868,
+      "name": "Come Home To Me",
+      "url": "https://open.spotify.com/track/2K8elWg8ihrZRwZJ7Gy6L3"
     },
     {
       "added_at": "2023-04-24 15:20:27",
@@ -1579,6 +1563,22 @@
       "duration_ms": 182076,
       "name": "Every Second",
       "url": "https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3"
+    },
+    {
+      "added_at": "2023-04-24 15:20:27",
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Jessica Mazin",
+          "url": "https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx"
+        }
+      ],
+      "duration_ms": 209748,
+      "name": "Never Let Me Down Again",
+      "url": "https://open.spotify.com/track/2Tw463vi8DMqkr2EiLYfZM"
     },
     {
       "added_at": "2023-04-24 15:20:27",
@@ -1631,18 +1631,22 @@
     {
       "added_at": "2023-04-24 15:20:27",
       "album": {
-        "name": "L\u00c9ON",
-        "url": "https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe"
+        "name": "Grow As We Go (feat. Sara Bareilles)",
+        "url": "https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M"
       },
       "artists": [
         {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        },
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
         }
       ],
-      "duration_ms": 224063,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/4P1EGoXLWQ1YF6Nsmr1pfy"
+      "duration_ms": 249937,
+      "name": "Grow As We Go (feat. Sara Bareilles)",
+      "url": "https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi"
     }
   ],
   "unique_name": "Dinner with Friends",

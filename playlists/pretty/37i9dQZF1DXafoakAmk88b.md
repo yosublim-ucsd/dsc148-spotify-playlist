@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New Indie driving the current, every week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,345 likes - 120 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,377 likes - 120 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 
 > Deja que el sentimiento de los boleros te enamore a la antigua.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,023 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,115 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 49 | [En la Palma de la Mano](https://open.spotify.com/track/4fPCFJHsR8iWRv3Q6yDL4i) | [Leo Marini](https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Latin Trumpets \- Bolero](https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K) | 2:58 |
 | 50 | [Albricias](https://open.spotify.com/track/2tp2urheCpgDbkqfoaD0U1) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Los Tecolines: Bolero Romantico](https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S) | 2:20 |
 | 51 | [Veronica](https://open.spotify.com/track/4rEybMVb5H7glCSbezlEAL) | [Victor Yturbe "El Piruli"](https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB) | [16 Exitos De Oro](https://open.spotify.com/album/3VY0qHeigmX5fmljWRSQkk) | 3:51 |
-| 52 | [Amor de Mis Amores](https://open.spotify.com/track/5LI6baS6dpvHBDlQUzn1S7) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Lo Mejor De...](https://open.spotify.com/album/11SbgUOwExKHYdsApzHSuP) | 2:58 |
-| 53 | [Ven aca \(Bolero\)](https://open.spotify.com/track/4yG6U4LH22eozbfVkD5x5r) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3), [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Noche criolla](https://open.spotify.com/album/3pDyJPkrKEtPBAJ3S4kavf) | 3:00 |
+| 52 | [Ven aca \(Bolero\)](https://open.spotify.com/track/4yG6U4LH22eozbfVkD5x5r) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3), [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Noche criolla](https://open.spotify.com/album/3pDyJPkrKEtPBAJ3S4kavf) | 3:00 |
+| 53 | [Amor de Mis Amores](https://open.spotify.com/track/5LI6baS6dpvHBDlQUzn1S7) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Lo Mejor De...](https://open.spotify.com/album/11SbgUOwExKHYdsApzHSuP) | 2:58 |
 | 54 | [Somos Novios](https://open.spotify.com/track/58Q3mAOtrZdSbwAu9i92j2) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [Serie 20 Exitos](https://open.spotify.com/album/2gwE57HQYUocdi8JvqYiIO) | 2:35 |
 | 55 | [Cancionero](https://open.spotify.com/track/1CFeovJFkWYcc1PK6zbpvZ) | [Alvaro Carrillo](https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp) | [La Coleccion Del Siglo](https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT) | 2:06 |
 | 56 | [Sombras Nada Más](https://open.spotify.com/track/6IK2IbQ5vSKZR5H96K0aTg) | [Felipe Pirela](https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN) | [El Bolerista De América](https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT) | 2:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 74 | [Maria Bonita](https://open.spotify.com/track/4997YRP3x3LNG7D81e0mrh) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Maria Bonita](https://open.spotify.com/album/6gO7t964RdRQy59RuoZMzJ) | 3:23 |
 | 75 | [El Reloj](https://open.spotify.com/track/6sGUQrIkp6qqgrddIeGNLx) | [Pedro Vargas](https://open.spotify.com/artist/1ZsL2cs2MYJKqwkVwdGtOd) | [Dos Leyendas del Bolero](https://open.spotify.com/album/6kMY1yrxN1jwuH0rjihCnk) | 2:57 |
 
-Snapshot ID: `MTY0MDUyMTcxOCwwMDAwMDAwMDUyYTM1M2E5NjQwOTdlYWVlMzc4ZWEyNmI3OGI1Njhh`
+Snapshot ID: `MTY0MDUyMTcxOCwwMDAwMDAwMDRjZWIzMmI2MDBjMTc1YWNkZTJlNTI5ZjZmZTVlNGEx`

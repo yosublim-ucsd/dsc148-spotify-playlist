@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Fall Out Boy",
-  "num_followers": 703814,
+  "num_followers": 703802,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0NjA2MCwwMDAwMDAwMGNjNjM5ZGE1NzJjNjFiZmI4ODk5MDBlZmFiZWRhNGY3",
+  "snapshot_id": "MTY4MjA0NjA2MCwwMDAwMDAwMDBhNjJhZmVjN2M2ODQ2OTJhZjIzYzM0OGFlMGVjOGMw",
   "tracks": [
     {
       "added_at": "2023-04-21 03:01:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "Planet Zero",
-        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 222738,
-      "name": "Planet Zero",
-      "url": "https://open.spotify.com/track/7g2LuO2QFplZfsLKRFiVHl"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
         "name": "The Void",
         "url": "https://open.spotify.com/album/0QRXPpwdM079Cs6XmMjOnv"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 220765,
       "name": "The Void",
       "url": "https://open.spotify.com/track/6TuoAUJFtdz4OMshZeaKHW"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
+        "name": "Planet Zero",
+        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 222738,
+      "name": "Planet Zero",
+      "url": "https://open.spotify.com/track/7g2LuO2QFplZfsLKRFiVHl"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -383,18 +383,18 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "Servant Of The Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
+        "name": "MTV Unplugged (Live)",
+        "url": "https://open.spotify.com/album/2kAer61g2HN6upL2zXAjzd"
       },
       "artists": [
         {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 259173,
-      "name": "Temple Of Ekur",
-      "url": "https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu"
+      "duration_ms": 282226,
+      "name": "Tear in My Heart - MTV Unplugged Live",
+      "url": "https://open.spotify.com/track/4IMxLpdUPWreh9cxmolYEV"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -411,6 +411,22 @@
       "duration_ms": 273693,
       "name": "Too Far Gone?",
       "url": "https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
+        "name": "Servant Of The Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 259173,
+      "name": "Temple Of Ekur",
+      "url": "https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -435,22 +451,6 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "MTV Unplugged (Live)",
-        "url": "https://open.spotify.com/album/2kAer61g2HN6upL2zXAjzd"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 282226,
-      "name": "Tear in My Heart - MTV Unplugged Live",
-      "url": "https://open.spotify.com/track/4IMxLpdUPWreh9cxmolYEV"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
         "name": "STILL SUCKS",
         "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
       },
@@ -463,6 +463,22 @@
       "duration_ms": 202862,
       "name": "Out Of Style",
       "url": "https://open.spotify.com/track/06nmwVr0Ev16QnVXsQXSf1"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
+        "name": "Foregone",
+        "url": "https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 270454,
+      "name": "Foregone, Pt. 2",
+      "url": "https://open.spotify.com/track/6kk4G7WCvFrYuiotuDnH2N"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -515,22 +531,6 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "Nowhere Generation",
-        "url": "https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 232933,
-      "name": "Nowhere Generation",
-      "url": "https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
         "name": "72 Seasons",
         "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
       },
@@ -547,18 +547,18 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "Foregone, Pt. 2",
-        "url": "https://open.spotify.com/album/6xQGhi9dsEWYn8Jwj4MD9S"
+        "name": "Nowhere Generation",
+        "url": "https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI"
       },
       "artists": [
         {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 270454,
-      "name": "Foregone, Pt. 2",
-      "url": "https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR"
+      "duration_ms": 232933,
+      "name": "Nowhere Generation",
+      "url": "https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8"
     },
     {
       "added_at": "2023-04-21 03:01:00",

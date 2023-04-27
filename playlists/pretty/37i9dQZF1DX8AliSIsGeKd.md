@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Anja Schneider
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,985 likes - 77 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,177 likes - 77 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 16 | [Cormoran](https://open.spotify.com/track/09jgiJE4renLFOUgqxSWml) | [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA) | [Cormoran](https://open.spotify.com/album/70Ovl6U9pKTsE2bE2YiXvc) | 6:28 |
 | 17 | [Dark Sun](https://open.spotify.com/track/4Rlbt7DrxqHqT2gSAOVbLe) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Momentum](https://open.spotify.com/album/0dqK6mrJ3jnp8fmN5gbbTB) | 7:10 |
 | 18 | [All I Need](https://open.spotify.com/track/54DstnlyeCz0Zb2HDtBJaq) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [All I Need](https://open.spotify.com/album/1VsjBsi7QxD87w4dRoBc8h) | 3:35 |
-| 19 | [Beam](https://open.spotify.com/track/0FeTPIIjedEjrqUVYmF0e3) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [The Dystopian Episodes](https://open.spotify.com/album/7p9xJOiM70YDJbWPMpVgnh) | 6:22 |
+| 19 | [Beam](https://open.spotify.com/track/7gkn0Jggf0DQ5EIwHuISOI) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [The Dystopian Episodes](https://open.spotify.com/album/5SEh4cxebfscjQogbRCtwM) | 6:22 |
 | 20 | [Addicted To Bass](https://open.spotify.com/track/1eF7w0zUVRMHPrcI1hGZcp) | [Farrago](https://open.spotify.com/artist/40dlsb5MBbRdrB2hf8XnvU), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Addicted To Bass](https://open.spotify.com/album/2gb7HXKVgDTBhdlug0xnfR) | 5:51 |
 | 21 | [Touch The Darkness](https://open.spotify.com/track/6BaQEqUuo6R1RISio9U5T3) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Touch The Darkness](https://open.spotify.com/album/4RJKnty59mAjgmslaWAGkm) | 7:33 |
 | 22 | [Strange](https://open.spotify.com/track/6JxuJ8cN23pKfp1ohahDYj) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Strange](https://open.spotify.com/album/4wbLqpXysJtBLx1wWNp7EU) | 6:00 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 76 | [Days Like This \- Johannes Albert Dance Mix](https://open.spotify.com/track/2x65B6R4ZKKEbyQGdqVJPK) | [Tilman](https://open.spotify.com/artist/7aFxKbiPGJHNrcrGuKW5X9), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt) | [Days Like This \(Johannes Albert Dance Mix\)](https://open.spotify.com/album/2AHBwQsjB7vre74JJf7ref) | 5:05 |
 | 77 | [I Could \- Open Up Mix](https://open.spotify.com/track/4BDfygrHURRAI5EK3RxDqu) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [One Night, One Time](https://open.spotify.com/album/50dOkOrN2iLEaWBdGR0Osc) | 4:34 |
 
-Snapshot ID: `MTY4MjAyODA2MCwwMDAwMDAwMDA1ZjU5ZWQzNGNhZjBlN2UxNmQ3MDA1ZTAyZWJiOWRi`
+Snapshot ID: `MTY4MjAyODA2MCwwMDAwMDAwMGZlZDFmMDM3ZGM0YjUyYjkyMWZkYjdhM2Q1Yzc2NzQ0`

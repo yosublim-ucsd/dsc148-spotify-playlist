@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 
 > When you want to be alone and the Blues is your soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,174 likes - 90 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,225 likes - 90 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,16 +79,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 69 | [Low Down Dirty Blues](https://open.spotify.com/track/2zTH23AmvAQFnN2ZiBErqa) | [Peter Veteska & Blues Train](https://open.spotify.com/artist/4aI3hTRRcczyci5v6K1j3e) | [So Far so Good](https://open.spotify.com/album/3sKS5DkxTxgNEEOew4RTtp) | 3:53 |
 | 70 | [What Am I Living For](https://open.spotify.com/track/0TgKinC3YFchPPeNE8M8nd) | [Wilbert Harrison](https://open.spotify.com/artist/7rETVFaF9VOFPmmzsY3kO6) | [Peepin' And Hidin'](https://open.spotify.com/album/4H1Je07DZvE2WszZkW0FjV) | 3:43 |
 | 71 | [35 Long Years](https://open.spotify.com/track/0Ui5GujF5zj6Bdf9Wh9KE1) | [Byther Smith](https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR) | [I'm A Mad Man](https://open.spotify.com/album/7g2pXcODGYP7XSeFVbrWQp) | 5:59 |
-| 72 | [What do You Feel?](https://open.spotify.com/track/7sjjPWYA3Y5vGEIBDJ5QVE) | [Renato Genestra](https://open.spotify.com/artist/3FBOoPApjegYcmKgmULxs4) | [What do You Feel?](https://open.spotify.com/album/1qXLUwieqcu4HQ9NTVSBQm) | 5:34 |
-| 73 | [You'll Never Find Anyone To Be A Slave Like Me \- Remastered 2022](https://open.spotify.com/track/2CUoa5qyfnFMnViDYrSsWw) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Stormy Monday Blues \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC) | 4:19 |
+| 72 | [You'll Never Find Anyone To Be A Slave Like Me \- Remastered 2022](https://open.spotify.com/track/2CUoa5qyfnFMnViDYrSsWw) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Stormy Monday Blues \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC) | 4:19 |
+| 73 | [What do You Feel?](https://open.spotify.com/track/7sjjPWYA3Y5vGEIBDJ5QVE) | [Renato Genestra](https://open.spotify.com/artist/3FBOoPApjegYcmKgmULxs4) | [What do You Feel?](https://open.spotify.com/album/1qXLUwieqcu4HQ9NTVSBQm) | 5:34 |
 | 74 | [Hard Living Alone](https://open.spotify.com/track/0JwU0drRHEtI5H1lVJCDys) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [Marshall Texas Is My Home](https://open.spotify.com/album/0vKVTf2y0iDogf68a6ItHb) | 3:04 |
 | 75 | [Brand New](https://open.spotify.com/track/5uMZAYwFl42JqJEesZ4aDP) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Brand New](https://open.spotify.com/album/480Y6aRXPJvW5gOroZwl0Q) | 6:59 |
 | 76 | [Mistreated so Bad](https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [Pickin' the Blues](https://open.spotify.com/album/1pIKvPtOlT1VBX6zacGVdW) | 3:25 |
 | 77 | [End Of The World \(Dancing In The Dust\)](https://open.spotify.com/track/4IWEHdLO2GBkldUlfoOY0X) | [Sarah Rogo](https://open.spotify.com/artist/6iS4moKRkWko7okWLeqisy), [Haus Music](https://open.spotify.com/artist/1WAyC71q6r2ITPLcJnA2I6) | [End Of The World \(Dancing In The Dust\)](https://open.spotify.com/album/3CgUUmrSEBweiFkZ8pXGOJ) | 3:27 |
 | 78 | [Still Here](https://open.spotify.com/track/48EXlenGFwcnZWdh6AqUW4) | [Ben Levin](https://open.spotify.com/artist/7JPxlItTC9DxZ7YwAOwLci) | [Still Here](https://open.spotify.com/album/5KhHtOUptVZINgVHuyIgDD) | 4:10 |
 | 79 | [Abandoned Child](https://open.spotify.com/track/6VWHKpqZE9Z14VReOqmy4C) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Shine](https://open.spotify.com/album/6uco735wn69n3ODYvdrd21) | 7:35 |
-| 80 | [You Can't Lose What You Ain't Never Had](https://open.spotify.com/track/6kQRxTpDpBnNIGsCKpDOQc) | [Mud Morganfield](https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn) | [Portrait](https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV) | 3:34 |
-| 81 | [Get Your Lovin'](https://open.spotify.com/track/6HVcEz5ecvZWLLrN8ZTwil) | [Secret Formula Band](https://open.spotify.com/artist/1Inr5ZqHEMGQ4fhrK91QMs) | [Get Your Lovin'](https://open.spotify.com/album/1M2avBOjei5BLNbHxsaElR) | 3:23 |
+| 80 | [Get Your Lovin'](https://open.spotify.com/track/6HVcEz5ecvZWLLrN8ZTwil) | [Secret Formula Band](https://open.spotify.com/artist/1Inr5ZqHEMGQ4fhrK91QMs) | [Get Your Lovin'](https://open.spotify.com/album/1M2avBOjei5BLNbHxsaElR) | 3:23 |
+| 81 | [You Can't Lose What You Ain't Never Had](https://open.spotify.com/track/6kQRxTpDpBnNIGsCKpDOQc) | [Mud Morganfield](https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn) | [Portrait](https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV) | 3:34 |
 | 82 | [Hold That Train](https://open.spotify.com/track/0YnoAn9FBUopgdwEOTsGlE) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [My Kind Of Blues](https://open.spotify.com/album/6nnI1qK92ewOpEerMB9Lhw) | 3:59 |
 | 83 | [Blues Stay Away From Me](https://open.spotify.com/track/0gKGDH5XsrWGH7pojMcXSY) | [Mamie Minch](https://open.spotify.com/artist/5FpYyf3AOAl5YXVxAuYfzW), [Tamar Korn](https://open.spotify.com/artist/2OWPS13qorm1Vj3wxUO5lF) | [The Best of the 5th Annual Brooklyn Folk Festival](https://open.spotify.com/album/2yTbT5DQqjSn3ly5oypYhw) | 4:12 |
 | 84 | [Someone Broke This Heart Of Mine](https://open.spotify.com/track/1TX9nidaWJmR3KyHxrSz8h) | [Little Junior Parker](https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM) | [Driving Wheel](https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP) | 2:14 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 89 | [Sometimes I Worry](https://open.spotify.com/track/7Aor3Qdz0u8WEqFyCVdiHg) | [R.L\. Boyce](https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2) | [Roll and Tumble](https://open.spotify.com/album/7riyFPxbaqIj4h2x9jNzTW) | 3:25 |
 | 90 | [Unfair Lovers](https://open.spotify.com/track/7urvDrLLJGxRCjHrvpfyW4) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB) | [Rare Oldies Jazz: Eddy Boyd](https://open.spotify.com/album/0PfYDFGbbrD8DyPys7g9U6) | 3:03 |
 
-Snapshot ID: `MTY4MjA3MjgwNywwMDAwMDAwMDU2YmQzNmQ4NzhlNzc1ZmFkYjY2NDc1NDk1M2NjZDc0`
+Snapshot ID: `MTY4MjA3MjgwNywwMDAwMDAwMDc4MjExMjgxYjY5MWY4YjRlZTg2YTRhODZhZTYxYTIz`

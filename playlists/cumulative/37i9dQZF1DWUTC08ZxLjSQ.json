@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Koteri. Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: nour. Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "tracks": [
     {
@@ -485,6 +485,24 @@
     },
     {
       "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/5S7iMl6Wfl4hHMKTzNxLPw"
+      },
+      "artists": [
+        {
+          "name": "Katya",
+          "url": "https://open.spotify.com/artist/4n6DGGztXErh3kCGC88aXy"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214911,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/12tZyFvHuaiIbP80ukDWH5"
+    },
+    {
+      "album": {
         "name": "complicated_5",
         "url": "https://open.spotify.com/album/1J5sJ59sMgEGc8idzbj6Ml"
       },
@@ -940,6 +958,24 @@
       "duration_ms": 206500,
       "name": "Higher (Breathe Easy)",
       "url": "https://open.spotify.com/track/3yilsAnbDMSTMRA5AR1Eg3"
+    },
+    {
+      "album": {
+        "name": "Hindsight",
+        "url": "https://open.spotify.com/album/54xZz8LpOA9gaYQLPRcE6M"
+      },
+      "artists": [
+        {
+          "name": "BASYL",
+          "url": "https://open.spotify.com/artist/2YWgtNh8oR97B93ZTpX0ol"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157419,
+      "name": "Hindsight",
+      "url": "https://open.spotify.com/track/1rOJRgBtDhbLpajg2j7U6h"
     },
     {
       "album": {
@@ -2114,7 +2150,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 126593,
       "name": "Popular",
       "url": "https://open.spotify.com/track/5cojeuxRNPvDBGrSwlUwqI"
@@ -2554,7 +2590,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 162815,
       "name": "Tenderness",
       "url": "https://open.spotify.com/track/2dlMM8ibQesE507TLSys6f"
@@ -2572,7 +2608,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 202625,
       "name": "The Storm",
       "url": "https://open.spotify.com/track/3iBfi3r5E7gtMOxKUapFnk"
@@ -2746,6 +2782,24 @@
       "duration_ms": 91854,
       "name": "waht if_6",
       "url": "https://open.spotify.com/track/02EIlu5QhjNIeLnwlQENS6"
+    },
+    {
+      "album": {
+        "name": "Wana",
+        "url": "https://open.spotify.com/album/4Z7upV3DSB9yslpIYDRNdm"
+      },
+      "artists": [
+        {
+          "name": "nour",
+          "url": "https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Wana",
+      "url": "https://open.spotify.com/track/6ygaR0OCPjB2YdBbbNKvss"
     },
     {
       "album": {

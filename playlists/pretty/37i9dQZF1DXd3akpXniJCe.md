@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3akpXniJCe.md) - [plain]
 
 > Come on down to the waters ye sinner and dig deep into this collection of songs and stories steeped in struggle, hope, darkness, light, sin and salvation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,109 likes - 41 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,136 likes - 41 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3akpXniJCe.md) - [plain]
 | 32 | [Wilderlove](https://open.spotify.com/track/1XvyPvEPUdyMi4K3beNfOE) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Mercury & Lightning](https://open.spotify.com/album/7IFEn26t34FyQpcSHNdF7P) | 4:41 |
 | 33 | [Hot Blood](https://open.spotify.com/track/7d9sZF7jmepe2EYdETlNWK) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:38 |
 | 34 | [Trampled Rose](https://open.spotify.com/track/4hZ3EvDUlqrh2lno4d82ZM) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raising Sand](https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n) | 5:33 |
-| 35 | [Blood of the Lamb](https://open.spotify.com/track/6tjDxt61i23RSWhGCruFLr) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Mermaid Avenue: The Complete Sessions](https://open.spotify.com/album/7uSgX0fbBol4NDyqsSZJaE) | 4:14 |
+| 35 | [Blood of the Lamb](https://open.spotify.com/track/0wXMp5d60RI5Fq3VvmvsNH) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Mermaid Avenue Vol\. II](https://open.spotify.com/album/2kgMlE1WK8ZCepSEawikNw) | 4:14 |
 | 36 | [Make It Rain](https://open.spotify.com/track/5puU24G3lHVsUXPAWW2ZpV) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Wembley Edition\)](https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct) | 6:44 |
 | 37 | [Where the Devil Don't Go](https://open.spotify.com/track/0mHSePRiFnTy7qYPsIeIJ8) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Love Stuff](https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov) | 3:01 |
 | 38 | [In Bloom](https://open.spotify.com/track/5StrN0F4XI5e0BHP32THhl) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [A Sailor's Guide to Earth](https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4) | 4:00 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3akpXniJCe.md) - [plain]
 | 40 | [Haunted](https://open.spotify.com/track/6i8lkIyU8XiCIzfPwRtMPE) | [The Eagle Rock Gospel Singers](https://open.spotify.com/artist/6mSbhnOMxNViQqlh58ZOhE) | [No Glory](https://open.spotify.com/album/4YaWyI6imvYaPnrd96kemb) | 3:33 |
 | 41 | [O Children Come](https://open.spotify.com/track/5UlOGXhDP4qXbSKHyLnQoM) | [JJ Weeks Band](https://open.spotify.com/artist/6fXIdyfCq00oaElvH64eri) | [O Children Come](https://open.spotify.com/album/1MlHJSY1EH0AQaYYUnTNga) | 3:41 |
 
-Snapshot ID: `MTY3NjcwMDM1MiwwMDAwMDAwMGI1YTI4MWU0MTY0YTAxYWMyOGIzODgyNTgzZWViN2Iw`
+Snapshot ID: `MTY3NjcwMDM1MiwwMDAwMDAwMDZhZTg4ZDUyMzQ0NzIyOTAxZjkyOWE5YTBlY2NiZmRk`

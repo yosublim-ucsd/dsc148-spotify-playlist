@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-278 songs - 17 hr 34 min
+279 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Step and a step](https://open.spotify.com/track/5DgAgJbHcm74RyA9YKj6k1) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Step and a step](https://open.spotify.com/album/1XnvWmRl5YIp6u4k8rvIwN) | 3:21 | 2021-03-27\* | 2021-06-01 |
 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2022-04-06 | 2022-04-10 |
 | [Subtitle](https://open.spotify.com/track/49F3htNmwzPKFycPdOrDvf) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Subtitle](https://open.spotify.com/album/1v9BX6TLVaStze2oJkb3Jy) | 5:05 | 2022-10-13 |  |
+| [Super](https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:20 | 2023-04-26 |  |
 | [Take a picture](https://open.spotify.com/track/0iEzzJ3zmNQqATy2MilumS) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Take a picture](https://open.spotify.com/album/3kBl936FCNH8BLtpl21kWg) | 3:01 | 2021-04-01 | 2021-08-11 |
 | [Talk that Talk](https://open.spotify.com/track/0kqTXMHiQiB7IECD0WwcPq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/5QdY7RvuEg2tznpYJG8gP2) | 2:57 | 2022-08-29 | 2022-12-15 |
 | [TATTOO](https://open.spotify.com/track/36jIu8oPR1Z4cguMuHxUXA) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [TATTOO](https://open.spotify.com/album/3VqutKQybsb2z1IT9CDRUE) | 4:48 | 2023-04-22 |  |
@@ -154,7 +155,7 @@
 | [アイラブユー](https://open.spotify.com/track/34ayWAUrQcrjlKZOJAzqke) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ユーモア](https://open.spotify.com/album/4Owee1i5rIFJvQczZXSdiQ) | 3:55 | 2023-01-18 |  |
 | [アドベンチャー](https://open.spotify.com/track/1w2tdCsX2yKFjbh3wHII94) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アドベンチャー](https://open.spotify.com/album/1oniwzKzy5hIwoAHjACgsi) | 3:19 | 2023-03-11 | 2023-04-04 |
 | [アポトーシス](https://open.spotify.com/track/222BlW44cS9nOM6C369IB2) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/0dOSO54LwPzxTUlnkEYxK1) | 6:29 | 2021-08-21 | 2021-11-12 |
-| [アルジャーノン](https://open.spotify.com/track/0DygiZzrBa3T4DaOEQSMrf) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [幻燈](https://open.spotify.com/album/4LBtT0FZ3JMjbklNwnW0Ms) | 4:12 | 2023-04-06 |  |
+| [アルジャーノン](https://open.spotify.com/track/0DygiZzrBa3T4DaOEQSMrf) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [幻燈](https://open.spotify.com/album/4LBtT0FZ3JMjbklNwnW0Ms) | 4:12 | 2023-04-06 | 2023-04-27 |
 | [アルジャーノン](https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [アルジャーノン](https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4) | 4:14 | 2023-02-15 | 2023-04-07 |
 | [アンコール](https://open.spotify.com/track/465JzFiajJO59sUrDFsxdC) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:31 | 2021-03-27\* | 2021-11-20 |
 | [インフェルノ](https://open.spotify.com/track/2vOAHp8PBBFYqvQUWSoITY) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Attitude](https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V) | 3:31 | 2021-03-27\* | 2021-04-28 |

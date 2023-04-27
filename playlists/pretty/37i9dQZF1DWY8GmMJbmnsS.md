@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8GmMJbmnsS.md) - [plain]
 
 > All of your classic soul ballads, right here\. Cover: Percy Sledge
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,099 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,174 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8GmMJbmnsS.md) - [plain]
 | 39 | [In the Still of the Night](https://open.spotify.com/track/3Dd3FK9DSaoMoUKA5ZPVgw) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [Presenting The 5 Satins](https://open.spotify.com/album/6cCH55Vq1UpCfHOFaVKegT) | 3:02 |
 | 40 | [Just To Be Close To You](https://open.spotify.com/track/60ijzJRo70XLwAEaX6y0eZ) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Hot On The Tracks](https://open.spotify.com/album/1WDTvBAEVrdz5oxfRahzEi) | 6:21 |
 | 41 | [Be My Girl](https://open.spotify.com/track/34nT7RkrF1bimYlQUFEpkq) | [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [Joy Ride](https://open.spotify.com/album/2wJt6u240XneVkyLc0ixla) | 4:31 |
-| 42 | [Stay In My Corner](https://open.spotify.com/track/6oavqtFYgu0Zdpgesza6f4) | [The Dells](https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S) | [There Is](https://open.spotify.com/album/4OeKMYbIv4ATPruMTMWF5N) | 6:13 |
-| 43 | [When Something Is Wrong with My Baby](https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [The Best of Sam & Dave](https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I) | 3:14 |
+| 42 | [When Something Is Wrong with My Baby](https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [The Best of Sam & Dave](https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I) | 3:14 |
+| 43 | [Stay In My Corner](https://open.spotify.com/track/6oavqtFYgu0Zdpgesza6f4) | [The Dells](https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S) | [There Is](https://open.spotify.com/album/4OeKMYbIv4ATPruMTMWF5N) | 6:13 |
 | 44 | [A Song for You](https://open.spotify.com/track/57IHG8x8BiqKHanYQk92ji) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 5:25 |
 | 45 | [Pledging My Love](https://open.spotify.com/track/1UA7hoj7yPwW8V9NxXG8yT) | [Johnny Ace](https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah), [Johnny Otis & His Orchestra](https://open.spotify.com/artist/61uK6fz9cwzgSdEAdXGGI1) | [Memorial Album](https://open.spotify.com/album/5y03J1x7hj6yIm3SazQOcQ) | 2:28 |
 | 46 | [Let Me Make Love To You](https://open.spotify.com/track/5XTdQEuQhO3sUCcm2K1YnR) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 3:36 |
 | 47 | [I Believe In You And Me](https://open.spotify.com/track/1a6o3Lh2T6u1m3FRCf1hcB) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [One More Mountain](https://open.spotify.com/album/4Am0fajokK3jCMfhThAZll) | 4:01 |
 | 48 | [Hypnotized](https://open.spotify.com/track/4TTKacCeIq21weP36gy6AS) | [Linda Jones](https://open.spotify.com/artist/7erYZsfekXYGWvup1bnkUZ) | [The Complete Atco, Loma & Warner Bros\. Recordings](https://open.spotify.com/album/3JZq1orvyb2MxF4iFDY80t) | 2:40 |
-| 49 | [Betcha By Golly, Wow](https://open.spotify.com/track/0g8A6lSYXCbVtEtGhvHEhb) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [The Best Of The Stylistics and More 30th Anniversary Edition](https://open.spotify.com/album/0XCFf2EGPTZuIrDJeu7dPW) | 3:18 |
-| 50 | [Crying In The Chapel](https://open.spotify.com/track/35vjuw2ttf6OL5vFXY9w5v) | [The Orioles](https://open.spotify.com/artist/4Am5deuAhDuKUJgXmoCQzj) | [The Orioles 1947\-1955](https://open.spotify.com/album/65RsqV8nJL5rPzAkzKjjWa) | 3:08 |
+| 49 | [Crying In The Chapel](https://open.spotify.com/track/35vjuw2ttf6OL5vFXY9w5v) | [The Orioles](https://open.spotify.com/artist/4Am5deuAhDuKUJgXmoCQzj) | [The Orioles 1947\-1955](https://open.spotify.com/album/65RsqV8nJL5rPzAkzKjjWa) | 3:08 |
+| 50 | [Betcha By Golly, Wow](https://open.spotify.com/track/0g8A6lSYXCbVtEtGhvHEhb) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [The Best Of The Stylistics and More 30th Anniversary Edition](https://open.spotify.com/album/0XCFf2EGPTZuIrDJeu7dPW) | 3:18 |
 
-Snapshot ID: `MTY4MDExNjI4NywwMDAwMDAwMGQ3OGUwNWJmNDFmYjUxNzZiN2MwNjJkNDk4YzYxODk1`
+Snapshot ID: `MTY4MDExNjI4NywwMDAwMDAwMDI0ZDhiMTcwNjU3YjQ3MTRmYWRmMmIwZjgwMjRjNjc2`

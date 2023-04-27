@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrP6ULNzvkI.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds tracks from around the world this year\. Cover: Katherine Li \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,402 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,420 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrP6ULNzvkI.md) - [plain]
 | 5 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 |
 | 6 | [through it all](https://open.spotify.com/track/6JHe836Jxc4Uilqe7fR5zJ) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [through it all](https://open.spotify.com/album/721nbCDpYtdceidRoJAOki) | 3:30 |
 | 7 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 |
-| 8 | [Girls](https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH) | 1:59 |
+| 8 | [Girls](https://open.spotify.com/track/1J7PghJCXSry2djsrflxdq) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/2fH2641iiOweBzDveY6QxM) | 1:59 |
 | 9 | [Tennessee Orange](https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3) | 3:43 |
 | 10 | [MANIC PIXIE DREAM BOY](https://open.spotify.com/track/3T99pTSG50ydk5NWrWb8t4) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [MANIC PIXIE DREAM BOY](https://open.spotify.com/album/12RQXbb8aSYoEXkEHEfoVf) | 2:03 |
 | 11 | [Cold Hours](https://open.spotify.com/track/2uThc9fZx2BEL3t6uuRMO1) | [aleemrk](https://open.spotify.com/artist/384pA1WJO9B09gUcuIL2XP), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Cold Hours](https://open.spotify.com/album/7Bbt89VCLl1HKuHtpNhhck) | 3:26 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrP6ULNzvkI.md) - [plain]
 | 40 | [Apple Juice](https://open.spotify.com/track/3A5aS28dQBFswox9AefLSX) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Slugeye](https://open.spotify.com/album/0MUAv36cjquuVxonDFQSrH) | 3:02 |
 | 41 | [Rattlesnake](https://open.spotify.com/track/7rNXmIrtLHJkGtobg9Anjj) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk) | [Fruit from the Trees](https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO) | 4:56 |
 | 42 | [Front Row Seat](https://open.spotify.com/track/0vSVknC1QRWHmHDqgtOPfP) | [David Unlayao](https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk) | [Front Row Seat](https://open.spotify.com/album/7faCFyGekYkgwyYSN3cAW2) | 2:52 |
-| 43 | [Bones \(God Like You\)](https://open.spotify.com/track/0xn9TXLniq8n4GkxQt1ytH) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Bones \(God Like You\)](https://open.spotify.com/album/7hIA421q14FIPWmehwRJOZ) | 2:48 |
+| 43 | [Bones \(God Like You\)](https://open.spotify.com/track/16b9jrlG2lVdnCaTj9fKlW) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Bones \(God Like You\)](https://open.spotify.com/album/3KsvXhVXDUHuOIhkX47tCH) | 2:48 |
 | 44 | [shaolin mantis](https://open.spotify.com/track/18W1HggaYRN0PZpEvHrKu6) | [Marina Herlop](https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR) | [Pripyat](https://open.spotify.com/album/0jwNPISM1nMtFfBqJvPnHE) | 4:10 |
 | 45 | [Softly Spoken](https://open.spotify.com/track/6Jyc8YdessoEIA0VB8qEjQ) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Softly Spoken](https://open.spotify.com/album/2ZQSbqkciW3zJrlbuOqdrs) | 2:41 |
 | 46 | [Heavy Handed](https://open.spotify.com/track/27vxMDq3CkXdNdPsKvMlsX) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Heavy Handed](https://open.spotify.com/album/4QZPwH9ALMRJp4G3llnDqK) | 3:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrP6ULNzvkI.md) - [plain]
 | 74 | [Aura](https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Aura](https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52) | 7:17 |
 | 75 | [Summer Love](https://open.spotify.com/track/6864esbZ0WOrK05LZ0w0de) | [Bambina](https://open.spotify.com/artist/7dKQ4jc9y35k3P5dKWsLL1) | [Summer Love](https://open.spotify.com/album/5rZfNDMajoJcaEZX0duZtq) | 3:55 |
 
-Snapshot ID: `MTY3NDA1ODI5OCwwMDAwMDAwMDA3M2E1ZDc4MzRjNjVmMmI3NmE0NTMyZWUxYmM1NjY1`
+Snapshot ID: `MTY3NDA1ODI5OCwwMDAwMDAwMDM3MTFkZGNlZTQwY2FkMmEzNWUyOTkwYjUyOGZiN2Rj`

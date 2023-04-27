@@ -1,12 +1,12 @@
 {
   "description": "Relax to the the rhythm of these smooth Latin tunes of the 2010s.\n\n",
-  "num_followers": 64133,
+  "num_followers": 64309,
   "original_name": "Latin Chillout 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY2MTYwMCwwMDAwMDAwMDg2NDg0OGVlZWRkODQ5OTY1Yzg4YzgyYzk1Mzc5Y2Qy",
+  "snapshot_id": "MTY3NjY2MTYwMCwwMDAwMDAwMDc2YWVjZmRhMzVkYTc3OWM5MGE4NDgxNjE3M2U3ODFl",
   "tracks": [
     {
       "added_at": "2022-08-31 07:23:02",
@@ -403,6 +403,22 @@
     {
       "added_at": "2022-08-31 07:23:02",
       "album": {
+        "name": "Ubuntu",
+        "url": "https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 186315,
+      "name": "Puntos Suspensivos",
+      "url": "https://open.spotify.com/track/04cd1MHVq1D8v1nuTZoCdv"
+    },
+    {
+      "added_at": "2022-08-31 07:23:02",
+      "album": {
         "name": "No Te Hagas",
         "url": "https://open.spotify.com/album/5z6CpoA90Y3xIZC45maoYu"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 233250,
       "name": "No Te Hagas",
       "url": "https://open.spotify.com/track/5hKjEpYrJIJs6uPl7zw6Y6"
-    },
-    {
-      "added_at": "2022-08-31 07:23:02",
-      "album": {
-        "name": "Ubuntu",
-        "url": "https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 186315,
-      "name": "Puntos Suspensivos",
-      "url": "https://open.spotify.com/track/04cd1MHVq1D8v1nuTZoCdv"
     },
     {
       "added_at": "2022-08-31 07:23:02",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-08-31 07:23:02",
       "album": {
+        "name": "Asondeguerra",
+        "url": "https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 191106,
+      "name": "Bachata En Fukuoka",
+      "url": "https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP"
+    },
+    {
+      "added_at": "2022-08-31 07:23:02",
+      "album": {
         "name": "Victory",
         "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 232786,
       "name": "Esc\u00e1pate Conmigo (feat. Ozuna)",
       "url": "https://open.spotify.com/track/1KSqYYJFyfTecXFk9M0prc"
-    },
-    {
-      "added_at": "2022-08-31 07:23:02",
-      "album": {
-        "name": "Asondeguerra",
-        "url": "https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 191106,
-      "name": "Bachata En Fukuoka",
-      "url": "https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP"
     },
     {
       "added_at": "2022-08-31 07:23:02",
@@ -947,26 +947,6 @@
     {
       "added_at": "2022-08-31 07:23:02",
       "album": {
-        "name": "Pa' Olvidarme De Ella",
-        "url": "https://open.spotify.com/album/6NSiAkMa61CjJI9AHqOhuZ"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 227233,
-      "name": "Pa' Olvidarme De Ella",
-      "url": "https://open.spotify.com/track/1cVlW9WQiGlFdWUXFdFZGh"
-    },
-    {
-      "added_at": "2022-08-31 07:23:02",
-      "album": {
         "name": "Ya No Tiene Novio",
         "url": "https://open.spotify.com/album/7yFrNYBdjgAeUKflMGtU8l"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 198933,
       "name": "Ya No Tiene Novio",
       "url": "https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu"
+    },
+    {
+      "added_at": "2022-08-31 07:23:02",
+      "album": {
+        "name": "Pa' Olvidarme De Ella",
+        "url": "https://open.spotify.com/album/6NSiAkMa61CjJI9AHqOhuZ"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 227233,
+      "name": "Pa' Olvidarme De Ella",
+      "url": "https://open.spotify.com/track/1cVlW9WQiGlFdWUXFdFZGh"
     }
   ],
   "unique_name": "Latin Chillout 10s",

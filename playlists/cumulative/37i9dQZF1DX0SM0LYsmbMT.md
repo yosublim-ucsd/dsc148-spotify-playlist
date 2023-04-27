@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,450 songs - 5 day 12 hr 42 min
+3,451 songs - 5 day 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,7 @@
 | [Better Times](https://open.spotify.com/track/1Ku09oZae2A0jmznumSKWN) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [Better Times](https://open.spotify.com/album/2cxoKTF3fhtaIl6clGW3B1) | 1:50 | 2021-06-25 | 2021-07-23 |
 | [Between Waves](https://open.spotify.com/track/7BlRx52vRmpTUXYLRiNZsR) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl) | [Between Waves](https://open.spotify.com/album/2MGgUdBvYITe0PU5kQB43M) | 2:37 | 2020-05-30 | 2020-08-07 |
 | [Beyond](https://open.spotify.com/track/6jDf8XD3fMm3P1vMLvHZ6w) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd) | [Beyond](https://open.spotify.com/album/3QCEvkw9ddTF5WOyL3nPkl) | 1:46 | 2022-07-21 | 2022-12-26 |
-| [beyond the pines](https://open.spotify.com/track/3eWpsLe9tMeSAAEnPN8OGA) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [beyond the pines](https://open.spotify.com/album/53go6havwrx2e6kqQVvoM8) | 1:51 | 2022-08-18 |  |
+| [beyond the pines](https://open.spotify.com/track/3eWpsLe9tMeSAAEnPN8OGA) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [beyond the pines](https://open.spotify.com/album/53go6havwrx2e6kqQVvoM8) | 1:51 | 2022-08-18 | 2023-04-27 |
 | [Big Apple](https://open.spotify.com/track/0v5swa6eOj8DIV7AhFwPUF) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [dustluv](https://open.spotify.com/artist/6hXRfx6rOvekCXcx7kJ8kj) | [Big Apple](https://open.spotify.com/album/7GuLbFG0oiqJwZaKmKBLv5) | 2:17 | 2022-03-31 |  |
 | [Big City Vibe](https://open.spotify.com/track/6q04BcK0qYeu9XOHgVsPxV) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR) | [Big City Vibe](https://open.spotify.com/album/3fspqodqLIiUQceni8iSKN) | 2:56 | 2022-05-12 | 2022-05-26 |
 | [Big Time](https://open.spotify.com/track/6uEyAx80fBHRDPkVySJSZe) | [Max I Million](https://open.spotify.com/artist/3E8ESEdLCBN9GiSZCUXgdf) | [Big Time](https://open.spotify.com/album/2zpgBfbNMzSE3l0XCbcAPy) | 2:03 | 2021-02-06 | 2021-02-20 |
@@ -1130,6 +1130,7 @@
 | [Golden Bubble](https://open.spotify.com/track/1SVA7iOaSgbkbCoLrFMmRm) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ), [Rainn](https://open.spotify.com/artist/42gkpHA4YM5bMBrTsPi3fT) | [Golden Bubble](https://open.spotify.com/album/5t5nOV9Oke8rmvDkOB1We4) | 1:52 | 2023-01-20 |  |
 | [Golden Clouds](https://open.spotify.com/track/3aUv5xMwV5sarC3wYxe5Mw) | [Leo Motta](https://open.spotify.com/artist/6ugB87XnwqEwHL5s6ovPAP) | [Bossa](https://open.spotify.com/album/3JLLWzFuQMEbJN2QGvLwqC) | 1:41 | 2022-11-17 |  |
 | [Golden Clouds](https://open.spotify.com/track/71diIhkJKn0xmL7bSdq7HN) | [Leo Motta](https://open.spotify.com/artist/6ugB87XnwqEwHL5s6ovPAP) | [Golden Clouds](https://open.spotify.com/album/4Mr0CGxTYuDWQ6ICuY61OP) | 1:41 | 2022-03-17 | 2022-11-20 |
+| [Golden Hour](https://open.spotify.com/track/0yyx3bhJNG0QitkU7sG6MF) | [Beta Beat](https://open.spotify.com/artist/5om7d89XzwR16u36EyuRSk), [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR) | [Golden Hour // Caught By The Sun](https://open.spotify.com/album/1bxveAoae2sLo1Tan909KL) | 2:38 | 2023-04-20 |  |
 | [Golden Hour](https://open.spotify.com/track/7kP6DYEz3Ys5ucC76QRvIx) | [Deeb](https://open.spotify.com/artist/1d9MVFeVkGTYnRNMlNe0dz), [Cat Phil](https://open.spotify.com/artist/7MTU6PX9bUXxar2snLXWY0) | [Summer Days](https://open.spotify.com/album/4rvEMjMifhHY8WwM9mofg7) | 3:15 | 2020-08-04 | 2021-03-06 |
 | [Golden Hour](https://open.spotify.com/track/2okugVOve4zNsK1a3ZkvWj) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL), [Neele Harder](https://open.spotify.com/artist/4KxuKYAXcdSrZGi1s19G5c), [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So) | [Golden Hour](https://open.spotify.com/album/6XaDDzHCumolShf0QRYojH) | 2:38 | 2022-11-17 | 2023-01-20 |
 | [Golden Hour](https://open.spotify.com/track/7bl9z8RmrJFVpMnvBSa5oe) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL), [Neele Harder](https://open.spotify.com/artist/4KxuKYAXcdSrZGi1s19G5c), [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So) | [Golden Hour](https://open.spotify.com/album/1LyuetThLzjmGZUklqFUVM) | 2:38 | 2022-05-26 | 2022-11-20 |

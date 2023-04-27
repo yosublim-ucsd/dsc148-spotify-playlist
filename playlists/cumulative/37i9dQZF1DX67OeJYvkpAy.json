@@ -2760,7 +2760,7 @@
     {
       "album": {
         "name": "Take The Risk",
-        "url": "https://open.spotify.com/album/4X05eKMdKrelQwoZNxd2Fv"
+        "url": "https://open.spotify.com/album/3qOLL1W6GfXoWBzkeizrT3"
       },
       "artists": [
         {
@@ -2775,6 +2775,28 @@
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 200124,
+      "name": "Take The Risk",
+      "url": "https://open.spotify.com/track/0tIBTDYETBi6OZ2lyI0tGX"
+    },
+    {
+      "album": {
+        "name": "Take The Risk",
+        "url": "https://open.spotify.com/album/4X05eKMdKrelQwoZNxd2Fv"
+      },
+      "artists": [
+        {
+          "name": "Svaroda",
+          "url": "https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz"
+        },
+        {
+          "name": "Hasan Ceddi",
+          "url": "https://open.spotify.com/artist/7zbjgtGBKbRKNyr8EzWCbH"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-27",
       "duration_ms": 200124,
       "name": "Take The Risk",
       "url": "https://open.spotify.com/track/227yzcqbegKaSlZiFcBn2c"

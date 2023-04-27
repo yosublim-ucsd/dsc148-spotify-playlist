@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 869,132 likes - 60 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 869,469 likes - 60 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 2 | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 |
 | 3 | [Shapes in the Spray](https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Shapes in the Spray](https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf) | 7:09 |
 | 4 | [Inner Light](https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Inner Light](https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD) | 4:17 |
-| 5 | [Transmission \- Joris Voorn Remix](https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Transmission \(Joris Voorn Remix\)](https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx) | 3:44 |
+| 5 | [The Sign](https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [The Sign](https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb) | 3:33 |
 | 6 | [Take Care](https://open.spotify.com/track/3FzhYRz5OmmjKoEnRVedeG) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Take Care](https://open.spotify.com/album/0YxjerMKxA6TDarqJCzIS7) | 3:25 |
-| 7 | [The Sign](https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [The Sign](https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb) | 3:33 |
+| 7 | [Transmission \- Joris Voorn Remix](https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Transmission \(Joris Voorn Remix\)](https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx) | 3:44 |
 | 8 | [Next to Me](https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 5:14 |
 | 9 | [Euphoria](https://open.spotify.com/track/6iUgr1j5sN0LU7ljhiUwYi) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/4xADuwIS5TSQzoYTaPA5VH) | 3:21 |
 | 10 | [EYES](https://open.spotify.com/track/4ipoHe6bjN9IeXr8CGJYgR) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [EYES](https://open.spotify.com/album/3Q5Eggq49qEGPF4ag1e0fO) | 3:32 |
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 28 | [Claire](https://open.spotify.com/track/54CipIOeFb1lZYFhHi26lo) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Claire](https://open.spotify.com/album/7cCOKtUAAyXgCa8oIdqU34) | 4:47 |
 | 29 | [Darkness](https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [Timelapse](https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy) | 7:58 |
 | 30 | [Designer Love \- Short Version](https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Designer Love](https://open.spotify.com/album/6OK84B4MX87uzZ7umm25f3) | 4:20 |
-| 31 | [Stay There](https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Stay There](https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF) | 3:53 |
-| 32 | [On My Knees \- Adriatique Remix](https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [On My Knees \(Adriatique Remix\)](https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr) | 7:32 |
-| 33 | [The Mirage](https://open.spotify.com/track/1amfDxySvja0PP6LjosvNB) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [The Mirage EP](https://open.spotify.com/album/7h6U7WviIp19ArtCstpINj) | 6:11 |
+| 31 | [On My Knees \- Adriatique Remix](https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [On My Knees \(Adriatique Remix\)](https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr) | 7:32 |
+| 32 | [The Mirage](https://open.spotify.com/track/1amfDxySvja0PP6LjosvNB) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [The Mirage EP](https://open.spotify.com/album/7h6U7WviIp19ArtCstpINj) | 6:11 |
+| 33 | [Stay There](https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Stay There](https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF) | 3:53 |
 | 34 | [Apricots](https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Apricots](https://open.spotify.com/album/6ZgM0jM6nRUlK6wRXEONVc) | 4:06 |
 | 35 | [Never Ending](https://open.spotify.com/track/1SGbmqB3dxlrp4YkKzZUto) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Never Ending](https://open.spotify.com/album/1emHqizAHsvhYxVEt6YHXo) | 4:02 |
 | 36 | [Dreamcast](https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Dreamcast](https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW) | 5:25 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [You Take My Hand](https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Jamie Irrepressible](https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU) | [You Take My Hand](https://open.spotify.com/album/3meERbSehneA03lgl071Io) | 5:15 |
 | 60 | [Between Two Worlds](https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Between Two Worlds](https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy) | 7:44 |
 
-Snapshot ID: `MTY4MDY5NjAwMCwwMDAwMDAwMGY5ODkwN2QwY2YxOTg0NDUxOThlMzFkMTE5ZWUzMDhi`
+Snapshot ID: `MTY4MDY5NjAwMCwwMDAwMDAwMDgyMjk5Y2U4NjIxNDc1YzUzZTNjNWU2NmI2MzM2OWJj`

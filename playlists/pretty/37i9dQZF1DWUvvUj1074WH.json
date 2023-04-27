@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Qu\u00e9 traigan m\u00e1s cheve que nos sobran copas!",
-  "num_followers": 89338,
+  "num_followers": 89827,
   "original_name": "La Cervecer\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0Njg2MywwMDAwMDAwMDA4YTU5NDZmZjQzODkyOTI5MjIxZTM2ZmExOTI5NjZj",
+  "snapshot_id": "MTY3MTY0Njg2MywwMDAwMDAwMDRlMTJhNjVjNGVjMTNkNTRkMTcxODY1N2RhMTAyYTUy",
   "tracks": [
     {
       "added_at": "2022-12-21 18:21:03",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
+        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 368320,
+      "name": "Entre dos tierras",
+      "url": "https://open.spotify.com/track/7BYqVvoXpQFhs4jJ0qqNZt"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
         "name": "Esto S\u00ed Es Cumbia",
         "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 266213,
       "name": "Nunca Es Suficiente",
       "url": "https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
-        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 368320,
-      "name": "Entre dos tierras",
-      "url": "https://open.spotify.com/track/7BYqVvoXpQFhs4jJ0qqNZt"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Locura",
-        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 316426,
-      "name": "Luna de Miel en la Mano",
-      "url": "https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 313925,
       "name": "Lust For Life",
       "url": "https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 316426,
+      "name": "Luna de Miel en la Mano",
+      "url": "https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -1623,22 +1623,18 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Garc\u00eda 87/93",
-        "url": "https://open.spotify.com/album/7yNFDuCsXe2P0DSenIMKxk"
+        "name": "La Invasion De Los Blatidos",
+        "url": "https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE"
       },
       "artists": [
         {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        },
-        {
-          "name": "Pedro Aznar",
-          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+          "name": "Cuca",
+          "url": "https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk"
         }
       ],
-      "duration_ms": 255266,
-      "name": "Hablando a Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3k9dGCm2R2Y70e87aMHYC3"
+      "duration_ms": 240973,
+      "name": "El Son del Dolor",
+      "url": "https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -1659,18 +1655,22 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "La Invasion De Los Blatidos",
-        "url": "https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE"
+        "name": "Garc\u00eda 87/93",
+        "url": "https://open.spotify.com/album/7yNFDuCsXe2P0DSenIMKxk"
       },
       "artists": [
         {
-          "name": "Cuca",
-          "url": "https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk"
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        },
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
         }
       ],
-      "duration_ms": 240973,
-      "name": "El Son del Dolor",
-      "url": "https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H"
+      "duration_ms": 255266,
+      "name": "Hablando a Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3k9dGCm2R2Y70e87aMHYC3"
     },
     {
       "added_at": "2022-12-21 18:21:03",

@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-400 songs - 1 day 2 hr 18 min
+401 songs - 1 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [A Time For Love](https://open.spotify.com/track/1lj6MFAyOG9mlwmp0EkBAF) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [On A Misty Night](https://open.spotify.com/album/4wOwSu9EKBoAywQp51RVV9) | 5:08 | 2020-10-20\* | 2023-01-15 |
 | [A Time for Love](https://open.spotify.com/track/2PxYJDohsBXaBLByHBITp5) | [Peter Rostov Trio](https://open.spotify.com/artist/6fbkQAxn9Df2sZWwuYQ820) | [A Portrait of Jennie](https://open.spotify.com/album/1UahARgInHkxb4fqm8455I) | 3:48 | 2020-10-20\* | 2020-11-18 |
 | [After You've Gone](https://open.spotify.com/track/1nCak4c8NFMJosxYkDZY2t) | [Bleecker Jazz Duo](https://open.spotify.com/artist/1fjtfjgiQ6dp0HhJdULJbQ) | [Here's That Rainy Day](https://open.spotify.com/album/5v5UCmE3YVNgLbQs8WFNfs) | 3:19 | 2020-10-20\* | 2022-09-16 |
+| [After You've Gone](https://open.spotify.com/track/7If1cSPSy5zpDFxNTYzHRs) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [After You've Gone](https://open.spotify.com/album/2xWwdUCyFng2oWhP6MeuUy) | 2:42 | 2023-04-20 |  |
 | [After You've Gone](https://open.spotify.com/track/1dtR7BTT8888rsckbuzwod) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [After You've Gone](https://open.spotify.com/album/5AqFZGWYwyvmg8t8EyvG1i) | 3:04 | 2020-10-20\* | 2021-01-21 |
 | [Afterhours](https://open.spotify.com/track/3qBjnDMDQrSKXKkBHok6oo) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 2:58 | 2020-10-20\* | 2021-01-21 |
 | [Ain't Misbehavin'](https://open.spotify.com/track/4M0v6rs8BAmoGCzu6AahIr) | [Cheryl Patterson](https://open.spotify.com/artist/5ieZXxVzN0lLVFMMUMQrQj) | [Old Devil Moon](https://open.spotify.com/album/6SfGQphn7E3nOTjlipaA2o) | 2:50 | 2020-10-20\* | 2021-01-21 |
@@ -189,7 +190,7 @@
 | [It's Your Smile](https://open.spotify.com/track/0WnGSR1VwZxJE9M37zjBQ3) | [Wendy Marcini](https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2) | [It's Your Smile](https://open.spotify.com/album/2BQpZP1DmHdtJGtVaOG4LL) | 2:55 | 2020-10-20\* | 2022-10-08 |
 | [I’ll be seeing you](https://open.spotify.com/track/5G9YKF1s6iBcsphlKZ43qD) | [Jeff Robins](https://open.spotify.com/artist/74TmlbkJzQhvG8Jurm01cE) | [You must believe in spring](https://open.spotify.com/album/2K69h6JK7ZyinakSj3GYKf) | 2:30 | 2020-10-20\* | 2022-10-08 |
 | [I’m Old Fashioned](https://open.spotify.com/track/1jdgzJGZxD8iP1Cc7FRD5F) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Långholmen Sessions Vol\. 1](https://open.spotify.com/album/2TUvJj2iY6UHIGQCVLtIIe) | 4:32 | 2020-10-20\* | 2020-11-05 |
-| [I’m Sentimental, After All](https://open.spotify.com/track/529n27BE2TPAhHMHfmlE2B) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [I’m Sentimental, After All](https://open.spotify.com/album/7j9lWOy0juahXQyS0k8ELB) | 2:28 | 2021-10-01 | 2023-04-26 |
+| [I’m Sentimental, After All](https://open.spotify.com/track/529n27BE2TPAhHMHfmlE2B) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [I’m Sentimental, After All](https://open.spotify.com/album/7j9lWOy0juahXQyS0k8ELB) | 2:28 | 2021-10-01 |  |
 | [Jazzanooga](https://open.spotify.com/track/3itQmY3qDISKklo9IYsVsq) | [Chattanooga Trio](https://open.spotify.com/artist/3ZXld6SkmayTEPuJygbwy6) | [Jazzanooga](https://open.spotify.com/album/61nhEXYkNaUn6wgJQzNJeO) | 2:47 | 2020-12-02 | 2022-11-27 |
 | [je vivrai sans toi](https://open.spotify.com/track/1U7yoZQ8k0wFyyp43HU4Nf) | [Carla Moses](https://open.spotify.com/artist/1j2urkthF3dcGi8RVFlyuI) | [I Will Say Goodbye](https://open.spotify.com/album/7FLkgY12vVuv2fjVisxn7f) | 2:18 | 2020-10-20\* | 2022-09-26 |
 | [Johnny Come Lately](https://open.spotify.com/track/7g1qq3AN0siIENRddNSloR) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [Johnny Come Lately](https://open.spotify.com/album/0zr4z6oCxAOyJ64x1iBuvi) | 2:55 | 2022-02-15 |  |
@@ -276,7 +277,7 @@
 | [Prelude to a Kiss](https://open.spotify.com/track/5BicIdY49XrhTcy7BNwTmI) | [Ollie Reiss Trio](https://open.spotify.com/artist/5wzTGmtiNrS8PsSpkPac9D) | [Alone Together](https://open.spotify.com/album/1MIIX2y8kcImWXeypeevlv) | 5:25 | 2020-10-20\* | 2022-08-15 |
 | [Pretty Ballad](https://open.spotify.com/track/4T82mssmK8VpyjB6QVMlcI) | [Louis Silva Band](https://open.spotify.com/artist/73EUNkbwvo1Y6ZmVjummIq) | [Pretty Ballad](https://open.spotify.com/album/03Xyg4vzclkEFYYnLDvGMB) | 3:26 | 2020-10-20\* | 2021-03-23 |
 | [Quiet Now](https://open.spotify.com/track/42Z4Egilt6kqyDKDugV9v3) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Same As Ever](https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc) | 4:43 | 2021-03-27 | 2023-01-16 |
-| [Remembering Benny](https://open.spotify.com/track/7HFXTKZhD4wsko0rty1WIk) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [A Simple Book](https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt) | 3:49 | 2022-08-10 |  |
+| [Remembering Benny](https://open.spotify.com/track/7HFXTKZhD4wsko0rty1WIk) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [A Simple Book](https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt) | 3:49 | 2022-08-10 | 2023-04-27 |
 | [Remembrance](https://open.spotify.com/track/0kbWuiN6FdHJXu1xCBVxvW) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Remembrance](https://open.spotify.com/album/6aO2ui4ldnUa338vXUkMGz) | 3:10 | 2022-08-30 |  |
 | [Repetition](https://open.spotify.com/track/5110P5yc85WSckGmf47eA9) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt) | [Porgy](https://open.spotify.com/album/3U2aPSYf6tu5YVgBw1X7SR) | 4:54 | 2021-01-21 | 2022-07-26 |
 | [Romeo's Mood](https://open.spotify.com/track/1a3tNp1HDtuG9vDIjrgWpZ) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Romeo's Mood](https://open.spotify.com/album/2KVvscZOAVN4PwSo76HyjI) | 2:44 | 2022-10-07 |  |
@@ -373,7 +374,7 @@
 | [Very Early](https://open.spotify.com/track/7jkBFtRrtzVaWxD9akzRsH) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [Very Early](https://open.spotify.com/album/1UZnIPn1l0z15Va9MUarj1) | 3:46 | 2021-05-21 | 2023-02-22 |
 | [Vesper](https://open.spotify.com/track/3WEkHcJisp1XyPPNMWKAi0) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Vesper](https://open.spotify.com/album/3BxFj4YKomKREXrep93gIB) | 4:14 | 2020-10-20\* | 2022-05-18 |
 | [Vine Street](https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Vine Street](https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1) | 2:26 | 2022-12-01 |  |
-| [Waltz For Ola](https://open.spotify.com/track/01Lv5YnZl96AjZju2KWu63) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [When We Were Young](https://open.spotify.com/album/06zd6KljxtUR3E9o7QPPXn) | 2:14 | 2022-11-10 |  |
+| [Waltz For Ola](https://open.spotify.com/track/01Lv5YnZl96AjZju2KWu63) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [When We Were Young](https://open.spotify.com/album/06zd6KljxtUR3E9o7QPPXn) | 2:14 | 2022-11-10 | 2023-04-27 |
 | [Waterfall](https://open.spotify.com/track/0Gyu7ttkfam04VeAgZEB3c) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Waterfall](https://open.spotify.com/album/4ce6IAUlzsEe7elxVkRZqc) | 2:32 | 2023-01-12 |  |
 | [We're Almost At The End](https://open.spotify.com/track/6WMZ32iT8I5T2UUSQTdWf9) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Just a Thought](https://open.spotify.com/album/7ngLJAYrufQRkz9GHjvhto) | 2:08 | 2023-01-19 | 2023-02-12 |
 | [Wedgewood](https://open.spotify.com/track/4osP8M9dqqSdWlXFsRKZZ4) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Late\-Night Feelings](https://open.spotify.com/album/4tYjXPwEDWw6Ipp5hE5rOX) | 4:47 | 2022-05-24 |  |

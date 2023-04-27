@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-673 songs - 1 day 12 hr 39 min
+674 songs - 1 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [COSITAS](https://open.spotify.com/track/6eP29HuqLSONvO7xTb5dSH) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:15 | 2022-11-05 | 2022-11-12 |
 | [Cuando Ella Sale](https://open.spotify.com/track/0bxzF2Kyql0pQ58Mymztue) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Cuando Ella Sale](https://open.spotify.com/album/4izXmDJvboFTIVxs8gkO94) | 3:42 | 2021-10-28 | 2022-02-02 |
 | [Cuando Sera](https://open.spotify.com/track/1UmZpd5navRsg2ukqCKJjc) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Primer Dia de Clases](https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5) | 2:56 | 2021-03-27\* | 2021-04-14 |
-| [Cuerpecito](https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Cuerpecito](https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad) | 3:15 | 2023-04-01 |  |
+| [Cuerpecito](https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Cuerpecito](https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad) | 3:15 | 2023-04-01 | 2023-04-27 |
 | [Cuestión de Fe](https://open.spotify.com/track/1fOYtsFfEOvQVFuFwLUnVI) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Hijos de la ruina, vol\. 3](https://open.spotify.com/album/5ElCfa24Wz9evOfT5k6uEB) | 4:50 | 2021-04-15 | 2021-04-19 |
 | [Cuevita](https://open.spotify.com/track/3LGn1d8P4Na3WHvYwCE6NL) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:40 | 2023-03-18 | 2023-03-21 |
 | [Cupido](https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 | 2023-02-21 |  |
@@ -204,6 +204,7 @@
 | [Eladio Carrion: Bzrp Music Sessions, Vol\. 40](https://open.spotify.com/track/1VauUM5CBX7nkLcgafQL2B) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Eladio Carrion: Bzrp Music Sessions, Vol\. 40](https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb) | 2:44 | 2021-06-12 | 2021-08-12 |
 | [Ella](https://open.spotify.com/track/66S2z95FN3nUAr9S1gUIsp) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Ella](https://open.spotify.com/album/4u2A6aHOyCOyG6yiCFM7rU) | 3:41 | 2021-05-22 | 2021-08-25 |
 | [Ella](https://open.spotify.com/track/5lFSvyRAeG0asgqBuM5MQW) | [El Bobe](https://open.spotify.com/artist/3FtVhV92rZyHa7ot2ioG5a), [alPeDue](https://open.spotify.com/artist/38fj30EaPzIxhpEuhdPZ6q) | [Ella](https://open.spotify.com/album/4RCUmddhds1pwQfL66hcFf) | 2:45 | 2021-06-16 | 2022-03-21 |
+| [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 | 2023-04-26 |  |
 | [Ella No Es Tuya \- Remix](https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ella No Es Tuya \(Remix\)](https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA) | 3:38 | 2021-03-27\* | 2021-07-04 |
 | [En El Coche](https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [En El Coche](https://open.spotify.com/album/6sIXTuaE9F2p4PcXVuawjp) | 2:05 | 2022-04-02 | 2022-05-08 |
 | [En La De Ella](https://open.spotify.com/track/5NxhMcHSVY3Z7ykWxZf3aj) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [En La De Ella](https://open.spotify.com/album/2h9T2SLXRUPyBkzj9qtnVH) | 3:50 | 2022-10-22 | 2022-12-08 |

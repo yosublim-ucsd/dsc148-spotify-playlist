@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bispo e Bárbara Tinoco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,853 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,958 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 38 | [That's Me](https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [That's Me](https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u) | 3:23 |
 | 39 | [GUUD](https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [GUUD](https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI) | 2:48 |
 | 40 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 |
-| 41 | [Sons de Amor](https://open.spotify.com/track/44PSI3qwDKTTBa4TbqpjnL) | [ANDREZO](https://open.spotify.com/artist/4gHzU6X4vIGR06pt7mlX60), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Sons de Amor](https://open.spotify.com/album/7sov1YBuhBoydHePYGr69s) | 4:14 |
-| 42 | [3815](https://open.spotify.com/track/7ejBGFJ0XzsLvDNscxZOQe) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [3815](https://open.spotify.com/album/1oZCUxBvbv55jnTlC9sT90) | 3:09 |
+| 41 | [3815](https://open.spotify.com/track/7ejBGFJ0XzsLvDNscxZOQe) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [3815](https://open.spotify.com/album/1oZCUxBvbv55jnTlC9sT90) | 3:09 |
+| 42 | [Sons de Amor](https://open.spotify.com/track/44PSI3qwDKTTBa4TbqpjnL) | [ANDREZO](https://open.spotify.com/artist/4gHzU6X4vIGR06pt7mlX60), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Sons de Amor](https://open.spotify.com/album/7sov1YBuhBoydHePYGr69s) | 4:14 |
 | 43 | [Bad Like You](https://open.spotify.com/track/2Gle4hosXEnrkdTu2YMwsH) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Come quarantine w me](https://open.spotify.com/album/4w38KrD6iNjnzUUEj8hfsi) | 4:27 |
 | 44 | [.Sais e Minerais](https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Jony Driver](https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM) | 4:17 |
 | 45 | [OQCQZR](https://open.spotify.com/track/5y2ZiYQjzY0dpWPYctp72c) | [Mvza](https://open.spotify.com/artist/4XVI8cWzKF53dOj2QE0z2O), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [OQCQZR](https://open.spotify.com/album/6MAMENT38JHlex9qNufnYI) | 3:02 |
@@ -69,19 +69,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 59 | [Roll Another One](https://open.spotify.com/track/0WtWIiMHgYKCX11kOwX6my) | [Jvst Fly](https://open.spotify.com/artist/4yafH0N98ld6th7MqELRXa) | [Roll Another One](https://open.spotify.com/album/5QsRYyibg1rSkwTKhWJhPe) | 3:13 |
 | 60 | [EU SEI](https://open.spotify.com/track/7BN2gjCwesbpg6fk2AgRvB) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [EU SEI](https://open.spotify.com/album/7Ks72VKkVAbJqTbvz8VwVa) | 3:43 |
 | 61 | [Vistas](https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW) | [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Vistas](https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o) | 3:00 |
-| 62 | [Não Me Leves a Mal](https://open.spotify.com/track/74lzWQmKWFI5Z0RJqV8hEG) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Não Me Leves a Mal](https://open.spotify.com/album/11hvGr1BS32qZ4MOAAGiXP) | 4:00 |
+| 62 | [Uma Chamada Tua](https://open.spotify.com/track/7nVIz2hJtiCj7QfNgWTfDm) | [Kibow](https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M) | [Uma Chamada Tua](https://open.spotify.com/album/2Pt1yrT5x7GzPzCBexziIW) | 3:11 |
 | 63 | [MAIS ALTO](https://open.spotify.com/track/5BGlwfNhojchI4UT19QYoZ) | [CHLOE](https://open.spotify.com/artist/2sohJUFgwhJEjrbm4QzSfW), [Drizzy](https://open.spotify.com/artist/4GdVnTiuhvPVYdrPOLB7b1) | [BAGAGEM](https://open.spotify.com/album/2XPfsQ1uOAIOMVSmAOwVnz) | 3:38 |
-| 64 | [Uma Chamada Tua](https://open.spotify.com/track/7nVIz2hJtiCj7QfNgWTfDm) | [Kibow](https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M) | [Uma Chamada Tua](https://open.spotify.com/album/2Pt1yrT5x7GzPzCBexziIW) | 3:11 |
+| 64 | [Não Me Leves a Mal](https://open.spotify.com/track/74lzWQmKWFI5Z0RJqV8hEG) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Não Me Leves a Mal](https://open.spotify.com/album/11hvGr1BS32qZ4MOAAGiXP) | 4:00 |
 | 65 | [Falling](https://open.spotify.com/track/6dS3q4aYdfNTQ3ZMRP2p2u) | [J.Yen](https://open.spotify.com/artist/1cHrAXseLt7kFWFdvQE2HO) | [Falling](https://open.spotify.com/album/1s8l50CTfyziLZqKR9OkPz) | 3:28 |
 | 66 | [Vai](https://open.spotify.com/track/6y2kYJAT69eIW88dc2NvQz) | [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE), [SAYLESSALEX.](https://open.spotify.com/artist/6bw5SVjt0q54wNmwozMg7O) | [Vai](https://open.spotify.com/album/30E33TmWJkLCZ1ivfd6zUF) | 3:16 |
 | 67 | [Culpa Do Álcool](https://open.spotify.com/track/1GAy3MLjR2Nlhdr1Z4iQb0) | [Stefânia Leonel](https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE) | [Culpa Do Álcool](https://open.spotify.com/album/0vnNwTitOdyUljMkE1qUPW) | 2:13 |
 | 68 | [Na Minha](https://open.spotify.com/track/62YBP8pqutiMD6Ui9EjFRD) | [Cálculo](https://open.spotify.com/artist/1MOKHbjTVCqrzy7o3Es8hI) | [Na Minha](https://open.spotify.com/album/5Kude9sqn9Z5XjV5QfrHI8) | 2:58 |
-| 69 | [Diário](https://open.spotify.com/track/6bjjfB4s9DZGAWdxRWo2hU) | [Keven Santos](https://open.spotify.com/artist/1Tz3pfjgndAnZLV2Wqtxc4), [MasterPiece](https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L) | [Diário](https://open.spotify.com/album/5WQ4L6OyXmtkp5Trh6w6Ag) | 1:48 |
-| 70 | [Entorpecente](https://open.spotify.com/track/0fZ7aqPmqDSI1sGTO5MPqg) | [Manaux](https://open.spotify.com/artist/6tq70oYBgLGQmo3Rit9khr) | [Entorpecente](https://open.spotify.com/album/5TlSkej09g8DTIRYj1DHDC) | 2:38 |
+| 69 | [Entorpecente](https://open.spotify.com/track/0fZ7aqPmqDSI1sGTO5MPqg) | [Manaux](https://open.spotify.com/artist/6tq70oYBgLGQmo3Rit9khr) | [Entorpecente](https://open.spotify.com/album/5TlSkej09g8DTIRYj1DHDC) | 2:38 |
+| 70 | [Diário](https://open.spotify.com/track/6bjjfB4s9DZGAWdxRWo2hU) | [Keven Santos](https://open.spotify.com/artist/1Tz3pfjgndAnZLV2Wqtxc4), [MasterPiece](https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L) | [Diário](https://open.spotify.com/album/5WQ4L6OyXmtkp5Trh6w6Ag) | 1:48 |
 | 71 | [Chama](https://open.spotify.com/track/21IKJYkz8ixquQUHXu6cXK) | [Jovem Ricch](https://open.spotify.com/artist/6h1XzP48C784CYNKfgCY8D) | [Chama](https://open.spotify.com/album/6ahh3FXc4m8PpHLXzaC5kS) | 2:15 |
 | 72 | [Lua](https://open.spotify.com/track/1WjnWfl2X36CBYDB0Dtga0) | [Curl](https://open.spotify.com/artist/7y655l8CPBN1uuVpeZHQ5y) | [Lua](https://open.spotify.com/album/4Oyobh3tcmdIuf8c3nrkTj) | 3:36 |
 | 73 | [Preciso de alguém](https://open.spotify.com/track/30U1EU9Tn3cx8iFp2QSbQn) | [Dougie Knight](https://open.spotify.com/artist/2PU8j6LKs1ndgXQQ92n5RB) | [Preciso de alguém](https://open.spotify.com/album/5j326RJto69tuJk04jned4) | 2:30 |
 | 74 | [Amar De Novo](https://open.spotify.com/track/2sDhRWH2VrOYdYwmmUciAo) | [Jay Arghh](https://open.spotify.com/artist/7o2higvi9ddnRkkeexfCw5), [Nelson Nhachungue](https://open.spotify.com/artist/3vDKB1JXTy4KJteAUoh4yZ) | [Amar De Novo](https://open.spotify.com/album/0aIYlO8e2HHdye8mHIBLMA) | 3:04 |
 | 75 | [Outono](https://open.spotify.com/track/01DyRyMOPecrfZdVZQvdqJ) | [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE), [Djenga](https://open.spotify.com/artist/2eMReurbaZ9DrN632vlbae) | [Outono](https://open.spotify.com/album/7FfkXkOVmdEDVp9Y6hWIn7) | 3:56 |
 
-Snapshot ID: `MTY4MjAzMTYwMCwwMDAwMDAwMGQ1NGNlYTAzMzUyZDM3N2U4NjYwMGRlZDg3MjUyNDgx`
+Snapshot ID: `MTY4MjAzMTYwMCwwMDAwMDAwMGI1ZDhhZGI1Mjc5ZWEyM2FhMWQ5Mzk5YWM4M2U4NTY3`

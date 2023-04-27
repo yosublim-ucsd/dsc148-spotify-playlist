@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Magdalena Bay",
-  "num_followers": 1702428,
+  "num_followers": 1702401,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA1MDc1MSwwMDAwMDAwMGQ0MmM2MmYxZmIxN2M4MThmODZkOTI1NWZkNThhYTVl",
+  "snapshot_id": "MTY4MjA1MDc1MSwwMDAwMDAwMGQwNjNiMGE0YzgyNzgzYzMwM2QyN2M0NDEyMDZkNDNl",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-04-21 04:19:11",
       "album": {
+        "name": "One That Got Away",
+        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 232266,
+      "name": "One That Got Away",
+      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
+    },
+    {
+      "added_at": "2023-04-21 04:19:11",
+      "album": {
         "name": "I'm Allergic To Dogs!",
         "url": "https://open.spotify.com/album/6fnqjvzov5e9A0wpfhLblj"
       },
@@ -509,22 +525,6 @@
       "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
     },
     {
-      "added_at": "2023-04-21 04:19:11",
-      "album": {
-        "name": "One That Got Away",
-        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 232266,
-      "name": "One That Got Away",
-      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Give Me A Minute",
@@ -559,22 +559,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "To Be Yours (feat. Claud)",
-        "url": "https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf"
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/1n5grA7m8IYGwHp6rUDMR2"
       },
       "artists": [
         {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Claud",
-          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+          "name": "Weston Estate",
+          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
         }
       ],
-      "duration_ms": 211782,
-      "name": "To Be Yours (feat. Claud)",
-      "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
+      "duration_ms": 146273,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/0ZpHuEhi1CvOJgrqOSy8mv"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -595,18 +591,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/1n5grA7m8IYGwHp6rUDMR2"
+        "name": "To Be Yours (feat. Claud)",
+        "url": "https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf"
       },
       "artists": [
         {
-          "name": "Weston Estate",
-          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
         }
       ],
-      "duration_ms": 146273,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/0ZpHuEhi1CvOJgrqOSy8mv"
+      "duration_ms": 211782,
+      "name": "To Be Yours (feat. Claud)",
+      "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -641,20 +641,20 @@
       "url": "https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-04-21 04:19:11",
       "album": {
-        "name": "James Dean",
-        "url": "https://open.spotify.com/album/2oLPnNQQIreeFE4csdq5An"
+        "name": "Blades",
+        "url": "https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep"
       },
       "artists": [
         {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 266400,
-      "name": "James Dean",
-      "url": "https://open.spotify.com/track/77Gdk4vNjXNxQ3fTBu3Nbq"
+      "duration_ms": 221092,
+      "name": "Blades",
+      "url": "https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -671,6 +671,22 @@
       "duration_ms": 216374,
       "name": "Pretty In Possible",
       "url": "https://open.spotify.com/track/4Q5LWPIKCuV6LRdDeqOYM7"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "James Dean",
+        "url": "https://open.spotify.com/album/2oLPnNQQIreeFE4csdq5An"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 266400,
+      "name": "James Dean",
+      "url": "https://open.spotify.com/track/77Gdk4vNjXNxQ3fTBu3Nbq"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -709,20 +725,36 @@
       "url": "https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j"
     },
     {
-      "added_at": "2023-04-21 04:19:11",
+      "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Blades",
-        "url": "https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep"
+        "name": "Bruise",
+        "url": "https://open.spotify.com/album/0pzoYtS7zcG2kd7g4NUbrx"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
         }
       ],
-      "duration_ms": 221092,
-      "name": "Blades",
-      "url": "https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6"
+      "duration_ms": 179280,
+      "name": "Bruise",
+      "url": "https://open.spotify.com/track/26NhDr8bfNqIkmkFCoFdeI"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Desire, I Want To Turn Into You",
+        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 247375,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/6GqesoY3jZD9BqT1v4UEmk"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -747,38 +779,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Desire, I Want To Turn Into You",
-        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 247375,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/6GqesoY3jZD9BqT1v4UEmk"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Bruise",
-        "url": "https://open.spotify.com/album/0pzoYtS7zcG2kd7g4NUbrx"
-      },
-      "artists": [
-        {
-          "name": "BETWEEN FRIENDS",
-          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
-        }
-      ],
-      "duration_ms": 179280,
-      "name": "Bruise",
-      "url": "https://open.spotify.com/track/26NhDr8bfNqIkmkFCoFdeI"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -791,74 +791,6 @@
       "duration_ms": 213024,
       "name": "Anything But Me",
       "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Rainbow Mixtape",
-        "url": "https://open.spotify.com/album/613bOWrR3cRPNC3fDwhXQL"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        },
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 173320,
-      "name": "Sagittarius Superstar",
-      "url": "https://open.spotify.com/track/4E3JYij2hnEDDP0Rgwikq6"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Backwards Directions",
-        "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
-      },
-      "artists": [
-        {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
-        }
-      ],
-      "duration_ms": 187072,
-      "name": "Backwards Directions",
-      "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "It\u2019s Never Fair, Always True",
-        "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 167841,
-      "name": "lalala",
-      "url": "https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Yippie Ki Yay",
-        "url": "https://open.spotify.com/album/2YvJnCMTTHVUBcnZFjs0f1"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 266911,
-      "name": "Yippie Ki Yay",
-      "url": "https://open.spotify.com/track/7kqwuYDC4u3vgN1xevrmGp"
     },
     {
       "added_at": "2023-04-21 04:19:11",
@@ -881,6 +813,26 @@
       "url": "https://open.spotify.com/track/181PmaC6c39r59gfhDGKdh"
     },
     {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Rainbow Mixtape",
+        "url": "https://open.spotify.com/album/613bOWrR3cRPNC3fDwhXQL"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        },
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 173320,
+      "name": "Sagittarius Superstar",
+      "url": "https://open.spotify.com/track/4E3JYij2hnEDDP0Rgwikq6"
+    },
+    {
       "added_at": "2023-04-21 04:19:11",
       "album": {
         "name": "Sad to Breathe",
@@ -897,20 +849,68 @@
       "url": "https://open.spotify.com/track/1NtoOI83OIXz4NXPj2VaKV"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "It's Euphoric",
-        "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
+        "name": "Backwards Directions",
+        "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
       },
       "artists": [
         {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
         }
       ],
-      "duration_ms": 221493,
-      "name": "It\u2019s Euphoric",
-      "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
+      "duration_ms": 187072,
+      "name": "Backwards Directions",
+      "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Yippie Ki Yay",
+        "url": "https://open.spotify.com/album/2YvJnCMTTHVUBcnZFjs0f1"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 266911,
+      "name": "Yippie Ki Yay",
+      "url": "https://open.spotify.com/track/7kqwuYDC4u3vgN1xevrmGp"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "It\u2019s Never Fair, Always True",
+        "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 167841,
+      "name": "lalala",
+      "url": "https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "poster boy",
+        "url": "https://open.spotify.com/album/2ErL96QPbe4hXnU8K2giJr"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 166303,
+      "name": "poster boy",
+      "url": "https://open.spotify.com/track/2TaCG1ArsxRsUyZhqy5jei"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -933,20 +933,20 @@
       "url": "https://open.spotify.com/track/2IKix80lBA5ppm6096p5U7"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "poster boy",
-        "url": "https://open.spotify.com/album/2ErL96QPbe4hXnU8K2giJr"
+        "name": "It's Euphoric",
+        "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
       },
       "artists": [
         {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
         }
       ],
-      "duration_ms": 166303,
-      "name": "poster boy",
-      "url": "https://open.spotify.com/track/2TaCG1ArsxRsUyZhqy5jei"
+      "duration_ms": 221493,
+      "name": "It\u2019s Euphoric",
+      "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1045,22 +1045,6 @@
       "url": "https://open.spotify.com/track/09IAjxegM08998hgb6ZScZ"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
-      },
-      "artists": [
-        {
-          "name": "Lloyiso",
-          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
-        }
-      ],
-      "duration_ms": 164196,
-      "name": "Give A Little Kindness",
-      "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "End of Time",
@@ -1075,6 +1059,22 @@
       "duration_ms": 150706,
       "name": "I Need That",
       "url": "https://open.spotify.com/track/3rgnM3MBkpsuVeSwmtXYia"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
+      },
+      "artists": [
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "duration_ms": 164196,
+      "name": "Give A Little Kindness",
+      "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Maybe I\u2019m Lonely",
-        "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 152141,
-      "name": "Maybe I\u2019m Lonely",
-      "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Think I'm In Love",
         "url": "https://open.spotify.com/album/6sYZJIIFZK1zVjVGCBM20f"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 133000,
       "name": "Think I'm In Love",
       "url": "https://open.spotify.com/track/4DdNJPSeSHacmc04nlvwx1"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Maybe I\u2019m Lonely",
+        "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 152141,
+      "name": "Maybe I\u2019m Lonely",
+      "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
     },
     {
       "added_at": "2023-04-14 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Leaders of the new school...Alternative R&B. Cover: Jordan Ward",
-  "num_followers": 1377202,
+  "num_followers": 1377437,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMGUzMDZjOWU4M2U4MWQ4N2VlZDIzMjJiN2MxNjJmZmYy",
+  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMGEzYzMzODMxYTMwNjE5MzczYmJjY2ZkMTA0YWQ5MTg3",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -713,20 +713,24 @@
       "url": "https://open.spotify.com/track/5wT0AQeYT09WqR7r0eYZWs"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "SATIN",
-        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+        "name": "PERFECT PACE",
+        "url": "https://open.spotify.com/album/7L3Xv0EUHVTefGIbeNPHqM"
       },
       "artists": [
         {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+          "name": "Asha Imuno",
+          "url": "https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT"
+        },
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
         }
       ],
-      "duration_ms": 181144,
-      "name": "DAYDREAM",
-      "url": "https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD"
+      "duration_ms": 158000,
+      "name": "PERFECT PACE",
+      "url": "https://open.spotify.com/track/5sr3Cp0w8kIefyKKU3YnnV"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -761,26 +765,6 @@
       "url": "https://open.spotify.com/track/42RpLZC6rKzQZyLMaJMsDJ"
     },
     {
-      "added_at": "2022-09-23 04:05:05",
-      "album": {
-        "name": "PERFECT PACE",
-        "url": "https://open.spotify.com/album/7L3Xv0EUHVTefGIbeNPHqM"
-      },
-      "artists": [
-        {
-          "name": "Asha Imuno",
-          "url": "https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT"
-        },
-        {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "PERFECT PACE",
-      "url": "https://open.spotify.com/track/5sr3Cp0w8kIefyKKU3YnnV"
-    },
-    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "All For You",
@@ -799,6 +783,22 @@
       "duration_ms": 183354,
       "name": "All For You",
       "url": "https://open.spotify.com/track/7rPWZTM7nnaySX8a6Pmeg7"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "SATIN",
+        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 181144,
+      "name": "DAYDREAM",
+      "url": "https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD"
     },
     {
       "added_at": "2022-07-22 14:09:12",
@@ -933,6 +933,22 @@
       "url": "https://open.spotify.com/track/4N9CjZCmixsudkya5a7MtW"
     },
     {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Young Boy Problems",
+        "url": "https://open.spotify.com/album/0KwxesDI97ypNuvm1KZoOF"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "duration_ms": 169516,
+      "name": "Young Boy Problems",
+      "url": "https://open.spotify.com/track/5RkVymJxVbc8oy0OnaIjQo"
+    },
+    {
       "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Go\u00fbter +",
@@ -1057,22 +1073,6 @@
       "url": "https://open.spotify.com/track/45uwA5e851qa3xWqKGYxGC"
     },
     {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
-        "name": "LUV (I KNOW I WANT THIS FOR REAL)",
-        "url": "https://open.spotify.com/album/1Tra5Ed1LWPGdmblM9ojiU"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "LUV (I KNOW I WANT THIS FOR REAL)",
-      "url": "https://open.spotify.com/track/1SiV9ERoyjtUPrNnuJCj21"
-    },
-    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "Raven",
@@ -1087,6 +1087,22 @@
       "duration_ms": 255401,
       "name": "Bruises",
       "url": "https://open.spotify.com/track/5EKjnrnyrw688C3yoMfbwK"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "LUV (I KNOW I WANT THIS FOR REAL)",
+        "url": "https://open.spotify.com/album/1Tra5Ed1LWPGdmblM9ojiU"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "LUV (I KNOW I WANT THIS FOR REAL)",
+      "url": "https://open.spotify.com/track/1SiV9ERoyjtUPrNnuJCj21"
     },
     {
       "added_at": "2022-07-15 04:02:46",
@@ -1109,22 +1125,6 @@
       "url": "https://open.spotify.com/track/5mlirWXPq6KoroAUgy6Wdq"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Young Boy Problems",
-        "url": "https://open.spotify.com/album/0KwxesDI97ypNuvm1KZoOF"
-      },
-      "artists": [
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        }
-      ],
-      "duration_ms": 169516,
-      "name": "Young Boy Problems",
-      "url": "https://open.spotify.com/track/5RkVymJxVbc8oy0OnaIjQo"
-    },
-    {
       "added_at": "2022-08-19 04:17:01",
       "album": {
         "name": "C BOTH SIDES",
@@ -1141,22 +1141,6 @@
       "url": "https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "I Love Being Invisible",
-        "url": "https://open.spotify.com/album/1AQByoYFbZI7v8YNGquSfI"
-      },
-      "artists": [
-        {
-          "name": "Rowena Fysx",
-          "url": "https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p"
-        }
-      ],
-      "duration_ms": 181227,
-      "name": "I Love Being Invisible",
-      "url": "https://open.spotify.com/track/41soii7TsX2M2AIAAOsNh5"
-    },
-    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "D4U - Spotify Singles",
@@ -1171,6 +1155,22 @@
       "duration_ms": 160487,
       "name": "D4U - Spotify Singles",
       "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "I Love Being Invisible",
+        "url": "https://open.spotify.com/album/1AQByoYFbZI7v8YNGquSfI"
+      },
+      "artists": [
+        {
+          "name": "Rowena Fysx",
+          "url": "https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p"
+        }
+      ],
+      "duration_ms": 181227,
+      "name": "I Love Being Invisible",
+      "url": "https://open.spotify.com/track/41soii7TsX2M2AIAAOsNh5"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1293,26 +1293,6 @@
       "url": "https://open.spotify.com/track/2K81yLG5kx2uKqT4PZmTXp"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Touch Your Soul / Love & Rage",
-        "url": "https://open.spotify.com/album/7dDuLnLlmPVTMHx0Quxefj"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        },
-        {
-          "name": "Merlyn Wood",
-          "url": "https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y"
-        }
-      ],
-      "duration_ms": 189232,
-      "name": "Touch Your Soul (feat. Merlyn Wood)",
-      "url": "https://open.spotify.com/track/4PRdVFLaAPWXJvIVwKnLqa"
-    },
-    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Girl In The Half Pearl",
@@ -1347,6 +1327,26 @@
       "duration_ms": 243701,
       "name": "phases (feat. Kojey Radical)",
       "url": "https://open.spotify.com/track/2kLMWqTsPb3i5QfLmnOAhM"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Touch Your Soul / Love & Rage",
+        "url": "https://open.spotify.com/album/7dDuLnLlmPVTMHx0Quxefj"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        },
+        {
+          "name": "Merlyn Wood",
+          "url": "https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y"
+        }
+      ],
+      "duration_ms": 189232,
+      "name": "Touch Your Soul (feat. Merlyn Wood)",
+      "url": "https://open.spotify.com/track/4PRdVFLaAPWXJvIVwKnLqa"
     },
     {
       "added_at": "2022-07-15 04:02:46",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-02-24 05:23:50",
       "album": {
-        "name": "World In My Hands",
-        "url": "https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT"
-      },
-      "artists": [
-        {
-          "name": "LAVI$H",
-          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
-        }
-      ],
-      "duration_ms": 194401,
-      "name": "World In My Hands",
-      "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
-    },
-    {
-      "added_at": "2023-02-24 05:23:50",
-      "album": {
         "name": "Water My Heart (feat. Mereba)",
         "url": "https://open.spotify.com/album/3s8P0go7OUTdf9NzZFS15a"
       },
@@ -1425,24 +1409,20 @@
       "url": "https://open.spotify.com/track/5CisgeB65yWttE54rFIfZ4"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-02-24 05:23:50",
       "album": {
-        "name": "Exodus the North Star",
-        "url": "https://open.spotify.com/album/6ygmB4X6ejHZQcpNfxC8um"
+        "name": "World In My Hands",
+        "url": "https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT"
       },
       "artists": [
         {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        },
-        {
-          "name": "Exaktly",
-          "url": "https://open.spotify.com/artist/1MRB7UrVK6DvvefA7pAqS8"
+          "name": "LAVI$H",
+          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
         }
       ],
-      "duration_ms": 158130,
-      "name": "ascendent (mother fxcker)",
-      "url": "https://open.spotify.com/track/6uAWmu9PkZ7l7OAVeQljus"
+      "duration_ms": 194401,
+      "name": "World In My Hands",
+      "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
     },
     {
       "added_at": "2022-07-29 04:14:33",
@@ -1481,20 +1461,40 @@
       "url": "https://open.spotify.com/track/3Sk51FK0sTdiRQN477u5oq"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/47fQUDWGQ9i5V4jp8zpKfT"
+        "name": "Exodus the North Star",
+        "url": "https://open.spotify.com/album/6ygmB4X6ejHZQcpNfxC8um"
       },
       "artists": [
         {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        },
+        {
+          "name": "Exaktly",
+          "url": "https://open.spotify.com/artist/1MRB7UrVK6DvvefA7pAqS8"
         }
       ],
-      "duration_ms": 180545,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/1JrcjXpkAEIALeX9tqIAVA"
+      "duration_ms": 158130,
+      "name": "ascendent (mother fxcker)",
+      "url": "https://open.spotify.com/track/6uAWmu9PkZ7l7OAVeQljus"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Seltzer",
+        "url": "https://open.spotify.com/album/1Nifv5zMNTM89Q1m98U32a"
+      },
+      "artists": [
+        {
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Seltzer",
+      "url": "https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -1513,20 +1513,72 @@
       "url": "https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Seltzer",
-        "url": "https://open.spotify.com/album/1Nifv5zMNTM89Q1m98U32a"
+        "name": "Is It Magic?",
+        "url": "https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e"
       },
       "artists": [
         {
-          "name": "Cruza",
-          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
         }
       ],
-      "duration_ms": 184615,
-      "name": "Seltzer",
-      "url": "https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg"
+      "duration_ms": 188727,
+      "name": "Is It Magic?",
+      "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/47fQUDWGQ9i5V4jp8zpKfT"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 180545,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/1JrcjXpkAEIALeX9tqIAVA"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/4psYJ4ruuGaqH25CBWKqMp"
+      },
+      "artists": [
+        {
+          "name": "Puma Blue",
+          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/0WJ8tNBfJRwUPfE8ibBwAF"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Form Follows Function",
+        "url": "https://open.spotify.com/album/55Rfi4oaFbYuWbZuQw5Qxr"
+      },
+      "artists": [
+        {
+          "name": "Michl",
+          "url": "https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN"
+        },
+        {
+          "name": "Brandon",
+          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "Everytime the Night Starts Calling",
+      "url": "https://open.spotify.com/track/5UY8NELLyxYeziwciKIhJQ"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1585,58 +1637,6 @@
       "url": "https://open.spotify.com/track/3p3tezl8FJHkm68tczR0yP"
     },
     {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Form Follows Function",
-        "url": "https://open.spotify.com/album/55Rfi4oaFbYuWbZuQw5Qxr"
-      },
-      "artists": [
-        {
-          "name": "Michl",
-          "url": "https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN"
-        },
-        {
-          "name": "Brandon",
-          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "Everytime the Night Starts Calling",
-      "url": "https://open.spotify.com/track/5UY8NELLyxYeziwciKIhJQ"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Is It Magic?",
-        "url": "https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e"
-      },
-      "artists": [
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 188727,
-      "name": "Is It Magic?",
-      "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Pretty",
-        "url": "https://open.spotify.com/album/4psYJ4ruuGaqH25CBWKqMp"
-      },
-      "artists": [
-        {
-          "name": "Puma Blue",
-          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/0WJ8tNBfJRwUPfE8ibBwAF"
-    },
-    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "Suspension of Disbelief",
@@ -1685,22 +1685,6 @@
       "url": "https://open.spotify.com/track/5WUKybZ2qvtWjZOKbK8JwF"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Simp",
-        "url": "https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr"
-      },
-      "artists": [
-        {
-          "name": "Col3trane",
-          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
-        }
-      ],
-      "duration_ms": 151676,
-      "name": "Simp",
-      "url": "https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY"
-    },
-    {
       "added_at": "2022-07-15 04:02:46",
       "album": {
         "name": "HYPNOS",
@@ -1715,6 +1699,22 @@
       "duration_ms": 265680,
       "name": "Satellites",
       "url": "https://open.spotify.com/track/4IVtwWBNj9NEBNR7tkXDqb"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Simp",
+        "url": "https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr"
+      },
+      "artists": [
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
+        }
+      ],
+      "duration_ms": 151676,
+      "name": "Simp",
+      "url": "https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY"
     },
     {
       "added_at": "2022-09-09 04:06:40",

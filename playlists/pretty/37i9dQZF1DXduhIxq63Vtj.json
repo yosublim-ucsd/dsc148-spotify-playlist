@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Achis achis los mariachis! ",
-  "num_followers": 17096,
+  "num_followers": 17117,
   "original_name": "Mariachi Loco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDYwMjgwMSwwMDAwMDAwMDc0MmZlODg1ZGQzZWQyNzk2MmQ4ZmFkZjU5MDM3N2Mw",
+  "snapshot_id": "MTY3NDYwMjgwMSwwMDAwMDAwMGU2ZGJhNDI5ODJlZDE5ZGEzNjU2ZDg3ZWI4YjcxOWE3",
   "tracks": [
     {
       "added_at": "2023-01-24 23:26:41",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-01-24 23:26:41",
       "album": {
+        "name": "Lo Mejor De La M\u00fasica Mexicana",
+        "url": "https://open.spotify.com/album/35XRyDZl5xoWF0wVNQ5VeL"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 221780,
+      "name": "Cielito Lindo",
+      "url": "https://open.spotify.com/track/2GzOrRCr4yyz2DqcEqTdBS"
+    },
+    {
+      "added_at": "2023-01-24 23:26:41",
+      "album": {
         "name": "Puras Rancheritas",
         "url": "https://open.spotify.com/album/55D5G5C78fRVD5pcDKO2Ev"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 141973,
       "name": "Que Se Mueran los Feos",
       "url": "https://open.spotify.com/track/46GSlzR2O4cceIOBImlAnJ"
-    },
-    {
-      "added_at": "2023-01-24 23:26:41",
-      "album": {
-        "name": "Lo Mejor De La M\u00fasica Mexicana",
-        "url": "https://open.spotify.com/album/35XRyDZl5xoWF0wVNQ5VeL"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 221780,
-      "name": "Cielito Lindo",
-      "url": "https://open.spotify.com/track/2GzOrRCr4yyz2DqcEqTdBS"
     },
     {
       "added_at": "2023-01-24 23:26:41",

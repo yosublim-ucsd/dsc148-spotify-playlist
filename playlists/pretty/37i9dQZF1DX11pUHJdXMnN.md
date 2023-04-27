@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,503 likes - 45 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,522 likes - 45 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 13 | [Life Is A Song Worth Singing \- Jamie Jones Remix](https://open.spotify.com/track/3MN8hmy8vFs0GcZhVxWLlh) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Mixmag Presents Teddy Pendergrass: The Remixes \- EP](https://open.spotify.com/album/1pwd4Ug25kzaZbdHDhT1Ho) | 8:47 |
 | 14 | [80s In My Blood](https://open.spotify.com/track/0uiIyFYTBXh6BChzj1raAE) | [VIGI](https://open.spotify.com/artist/7hLLMguIT8ttH9UAl4A46o) | [Rhodes Island](https://open.spotify.com/album/6ShFGI0zCBtjpvtb3Bf0cc) | 4:34 |
 | 15 | [Floppy \- Marlon Hoffstadt's Energy Bells Mix](https://open.spotify.com/track/05oMU1d1NpzI2JgOUZgbc9) | [Peak & Swift](https://open.spotify.com/artist/699xHTQaLrfHyQ66Jr4DOv), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Floppy Drive EP](https://open.spotify.com/album/0ErgbkothTs8lmPXfQ9jh0) | 5:42 |
-| 16 | [The Rollercoaster](https://open.spotify.com/track/6h5pPzgM2z1WcqNbxyki9v) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [The Rollercoaster](https://open.spotify.com/album/54KyCRQfilqmeDuCygaZXF) | 3:39 |
-| 17 | [Mexico \(Punctual Remix\)](https://open.spotify.com/track/5i37M8IkbCsqYLaPVg42Xh) | [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Mexico \(Punctual Remix\)](https://open.spotify.com/album/4jn3zCmDMQJRNPZPwkr6Mq) | 8:32 |
+| 16 | [Mexico \(Punctual Remix\)](https://open.spotify.com/track/5i37M8IkbCsqYLaPVg42Xh) | [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Mexico \(Punctual Remix\)](https://open.spotify.com/album/4jn3zCmDMQJRNPZPwkr6Mq) | 8:32 |
+| 17 | [The Rollercoaster](https://open.spotify.com/track/6h5pPzgM2z1WcqNbxyki9v) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [The Rollercoaster](https://open.spotify.com/album/54KyCRQfilqmeDuCygaZXF) | 3:39 |
 | 18 | [First Sight](https://open.spotify.com/track/1T8DhSO31RKXplrFySKAAy) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB) | [First Sight](https://open.spotify.com/album/0KODhsUPoNi0IBrMxobYr1) | 2:32 |
 | 19 | [First Wave](https://open.spotify.com/track/38MZpQ8TQxUPBWgXbgt1wx) | [Roland Tings](https://open.spotify.com/artist/0hTV7lch0OcKcMn6RYgOLR) | [First Wave](https://open.spotify.com/album/3loLbxl5tuqHnYxXx80VQ6) | 4:38 |
 | 20 | [Silver Machine](https://open.spotify.com/track/1IkEPx8HUsUKwrjlYVZVrp) | [ANII](https://open.spotify.com/artist/3Do8Sv7yTTtIjf68qHkx0o) | [ANIITIME003](https://open.spotify.com/album/0IyewGxlMjmqospjHdtgqQ) | 7:24 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 44 | [Fantasia](https://open.spotify.com/track/6M8Gz02PaKjl4ZNuQMcxKW) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Fantasia](https://open.spotify.com/album/73Sxdnv58oHDo0CZrz2qFM) | 6:33 |
 | 45 | [Up & Down](https://open.spotify.com/track/11DRarpv190YnCAXt85uFA) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Emotion EP](https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA) | 6:49 |
 
-Snapshot ID: `MTYzMDA3OTEwMSwwMDAwMDAwMGE4ZmM1MjYwZTk2Yjk2Njg4NmIzMTc0N2ViMGQxZWM0`
+Snapshot ID: `MTYzMDA3OTEwMSwwMDAwMDAwMDJkYzg5ZTk5OTkwNjNjN2M2MDM5NzJjOTIwYTU3MTc3`

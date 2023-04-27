@@ -1586,7 +1586,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 326466,
-      "name": "Lose Yourself - From \"8 Mile\" Soundtrack",
+      "name": "Lose Yourself",
       "url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
     },
     {
@@ -2956,6 +2956,24 @@
     {
       "album": {
         "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219400,
+      "name": "Wanksta",
+      "url": "https://open.spotify.com/track/6rpNe6gSkmiYW6BfSFATi5"
+    },
+    {
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/0OfzVAXf5aVP4W4NIOLTKj"
       },
       "artists": [
@@ -2970,24 +2988,6 @@
       "duration_ms": 219400,
       "name": "Wanksta - From \"8 Mile\" Soundtrack",
       "url": "https://open.spotify.com/track/5Ze7YIFfDfSk8DV261zQVt"
-    },
-    {
-      "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "date_added": "2022-01-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 219400,
-      "name": "Wanksta - From \"8 Mile\" Soundtrack",
-      "url": "https://open.spotify.com/track/6rpNe6gSkmiYW6BfSFATi5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 
 > 😈 turn anywhere into a sexy club 😈
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,703 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,818 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 21 | [Sour Candy \(with BLACKPINK\) \- Shygirl & Mura Masa Remix](https://open.spotify.com/track/56kudbKiRjWCwiAS3FRHCL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 3:45 |
 | 22 | [Guud Gurls](https://open.spotify.com/track/6yTAycvx2hDqGYerNaphfI) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX), [Kzn](https://open.spotify.com/artist/0RycZwNOoEzo6mh88IKFQW) | [Hott Boyz](https://open.spotify.com/album/1Um9iDs4Iicg0mwa67yqDV) | 3:10 |
 | 23 | [Sweat \- SOPHIE Remix](https://open.spotify.com/track/1CUCnTJVZy68TS34DX6kCx) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9), [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Joyful Death](https://open.spotify.com/album/37RBUO05YPPvrIHcEst8Kg) | 4:18 |
-| 24 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 |
-| 25 | [Muschi Muschi](https://open.spotify.com/track/3pqvIzV7DIS9orbtKlHAal) | [DBBD](https://open.spotify.com/artist/69UVGTxhvI9zrl4tVafMgC), [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C) | [SLUT BOPZ VOL\. I](https://open.spotify.com/album/1bFC5vkhBXMF7Xz36e87rw) | 3:02 |
+| 24 | [Muschi Muschi](https://open.spotify.com/track/3pqvIzV7DIS9orbtKlHAal) | [DBBD](https://open.spotify.com/artist/69UVGTxhvI9zrl4tVafMgC), [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C) | [SLUT BOPZ VOL\. I](https://open.spotify.com/album/1bFC5vkhBXMF7Xz36e87rw) | 3:02 |
+| 25 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 |
 | 26 | [HMU for a Good Time](https://open.spotify.com/track/2Kb5Sy93AE70esO90eJgdQ) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [333 \(Deluxe\)](https://open.spotify.com/album/1mxG8YY9wY5Q3mLcDs2khW) | 4:07 |
 | 27 | [Boy U Nasty](https://open.spotify.com/track/4aVEsdnZrP2borAsVin48m) | [Jensen Interceptor](https://open.spotify.com/artist/30eE9RmXxzCcZKTf4N2O0e), [DJ Fuckoff](https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm) | [Dance Trax, Vol\. 36](https://open.spotify.com/album/3PanJjGGUoTU6PH9y3S1PT) | 5:32 |
 | 28 | [I'm Perfect](https://open.spotify.com/track/3YK1uAScUpCaFNCn004pm6) | [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [I'm Perfect](https://open.spotify.com/album/4l3Twapn6OepVAOHDPtmT3) | 2:46 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 41 | [Hypnotized](https://open.spotify.com/track/3BDAxgeGpUEUfKCbuXCyxn) | [Soraya](https://open.spotify.com/artist/6mHCVD6zJMB6lFNfg5mi7R) | [Hypnotized](https://open.spotify.com/album/0Jx1Hy8YQ5ZzGwy8DLW8Hu) | 4:25 |
 | 42 | [Dealer's Gone \- DJ\_Dave Edit](https://open.spotify.com/track/685cyLbhLOWDTbsdV5oQcQ) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme), [Von](https://open.spotify.com/artist/4I6ModFVv3BWDsjMqzYcMc) | [Dealer's Gone \- DJ\_Dave Edit](https://open.spotify.com/album/6LLGrZtEhKiX0l4wdzr6lA) | 2:52 |
 | 43 | [Taste My Body](https://open.spotify.com/track/4mbkDcR6qnklqWPtd4X3q6) | [James Indigo](https://open.spotify.com/artist/4RRL9qwT5AUFLz7Pe2ode1), [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [Taste My Body](https://open.spotify.com/album/34yCNBM4QzFbr6tIF4hZDO) | 2:14 |
-| 44 | [UP N DOWN](https://open.spotify.com/track/4yPQpupT0yMWpzXfZqrzUT) | [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [UP N DOWN](https://open.spotify.com/album/6HHLuMoKzxWyI2wYv5RmiL) | 3:17 |
-| 45 | [Voodoo Pussy](https://open.spotify.com/track/43lupyxeROVg5QmMiqa8Y0) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Whorecore](https://open.spotify.com/album/1OEDnlG9MPWboK6lk7lovy) | 3:23 |
-| 46 | [Mugler](https://open.spotify.com/track/3uqXJXVspIA6rgcciv5xFi) | [Housewife 9](https://open.spotify.com/artist/2BWlGuH1XFha6dh3IXGcJM), [Soso Zelda](https://open.spotify.com/artist/4Y4BIUg4pXSsCcCWFJHzBp) | [Mugler](https://open.spotify.com/album/0XsuV7RykFeQnTbTEdf4mF) | 2:31 |
+| 44 | [Voodoo Pussy](https://open.spotify.com/track/43lupyxeROVg5QmMiqa8Y0) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Whorecore](https://open.spotify.com/album/1OEDnlG9MPWboK6lk7lovy) | 3:23 |
+| 45 | [Mugler](https://open.spotify.com/track/3uqXJXVspIA6rgcciv5xFi) | [Housewife 9](https://open.spotify.com/artist/2BWlGuH1XFha6dh3IXGcJM), [Soso Zelda](https://open.spotify.com/artist/4Y4BIUg4pXSsCcCWFJHzBp) | [Mugler](https://open.spotify.com/album/0XsuV7RykFeQnTbTEdf4mF) | 2:31 |
+| 46 | [UP N DOWN](https://open.spotify.com/track/4yPQpupT0yMWpzXfZqrzUT) | [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [UP N DOWN](https://open.spotify.com/album/6HHLuMoKzxWyI2wYv5RmiL) | 3:17 |
 | 47 | [Dirty Work](https://open.spotify.com/track/1qbzrgjYqA84EOKisIqdz1) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [Samantha](https://open.spotify.com/artist/285mEVJq6Woe2rlEeN43AI) | [Dirty Work](https://open.spotify.com/album/3y2ujmddDnMX5L6hcMkyvT) | 2:04 |
 | 48 | [DEATH BY PUSSY](https://open.spotify.com/track/2ACsS8OzRf6Up3iySax5tV) | [DJ Fuckoff](https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm), [DJ MELL G](https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX) | [JUICY CLASS](https://open.spotify.com/album/5cLj0MKQjx66hwwwYveErJ) | 4:36 |
 | 49 | [Hummer](https://open.spotify.com/track/4ewmSKVCdsKn7YORFhDUAS) | [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Hummer](https://open.spotify.com/album/2iT8KeGh5G7yOtdnWL3U1q) | 3:54 |
 | 50 | [High Tide \- Doss Remix](https://open.spotify.com/track/5Q7L6IfdsLqRaAtxIMDTWa) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0), [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [High Tide \(Doss Remix\)](https://open.spotify.com/album/2h2McsLfMB1ZNJywK2TRG4) | 3:43 |
 
-Snapshot ID: `MTY4MTk4NDM1OSwwMDAwMDAwMGRjZTA2NjMyZmU0NmU2ODg1MTcxZjlhNDRhZjk5Yzc2`
+Snapshot ID: `MTY4MTk4NDM1OSwwMDAwMDAwMGZkYzJmZGZjZjA1ZTgyNzZiMTAxNWQ3YjE5MWI0MjIy`

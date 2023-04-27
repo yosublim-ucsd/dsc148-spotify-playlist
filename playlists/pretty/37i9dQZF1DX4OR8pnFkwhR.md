@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Tele
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,244 likes - 70 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,250 likes - 70 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 13 | [Yume wa Sametemo](https://open.spotify.com/track/2rqgyouAVrWeRjGvFKnqLm) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Yume wa Sametemo](https://open.spotify.com/album/6Ohpoh84DNmZLaW6aTGuhP) | 3:41 |
 | 14 | [FINE LINE \(feat\. Skaai\) \(Prod\. uin\)](https://open.spotify.com/track/2y449AvZEi4dbGoSjnsgSY) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [uin](https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [FINE LINE \(feat\. Skaai\) \(Prod\. uin\)](https://open.spotify.com/album/6YJVSyedYS0JQhntp53G4P) | 2:59 |
 | 15 | [愛してみてよ減るもんじゃないし](https://open.spotify.com/track/4sCiH4LCVfHsMUmiK6GNGS) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [愛してみてよ減るもんじゃないし](https://open.spotify.com/album/19I3Qy0znrTCbXxoJLGOGH) | 3:18 |
-| 16 | [笑い話 \-A Funny Story\-](https://open.spotify.com/track/1WfJhEEp4aERI2LSwCNrHo) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [笑い話 \-A Funny Story\-](https://open.spotify.com/album/37tFQhmITvrC6c9m8KqIGY) | 3:47 |
+| 16 | [Waraibanashi \-A Funny Story\-](https://open.spotify.com/track/6LtMJVeESzRLu2qC7nvWSr) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [Waraibanashi \-A Funny Story\-](https://open.spotify.com/album/6sTC6wymaf3mxFRljQuFp9) | 3:47 |
 | 17 | [UTOPIA](https://open.spotify.com/track/7sUomyof9ou8XfSi8irv2i) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [UTOPIA](https://open.spotify.com/album/58p4LspfYRwGqixVW1QhPf) | 2:45 |
 | 18 | [Who are you ?](https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Who are you ?](https://open.spotify.com/album/1itmOBTEkREB9z5WCRRfJX) | 2:56 |
 | 19 | [Countdown Rag](https://open.spotify.com/track/4I3f7odzNXdhDrxX4W4aT3) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Inner Dialog](https://open.spotify.com/album/48AHaxshOHD3ktB9Ea5RDN) | 5:25 |
-| 20 | [シエスタ](https://open.spotify.com/track/0cRRJ7O7fEC0mohyTrM3R1) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [シエスタ](https://open.spotify.com/album/0JqjF7QJ6758cXozWthn98) | 3:11 |
+| 20 | [Siesta](https://open.spotify.com/track/74J0ffff6Hp3fYCkp3ceKW) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Siesta](https://open.spotify.com/album/4q5mMGjlcMUUhlGd4RWDp3) | 3:11 |
 | 21 | [rose \- feat\. Vaundy](https://open.spotify.com/track/72DWkd9AazMHYDafzpq4XF) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [mixtape](https://open.spotify.com/album/3kbR4fhps595HxImAmVHvY) | 3:07 |
 | 22 | [Kid](https://open.spotify.com/track/7zKieV1uXBhucwmYM4sCzW) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [Kid](https://open.spotify.com/album/2yoIDnfb9b819VS5hsh9MZ) | 3:30 |
 | 23 | [Soup](https://open.spotify.com/track/6UHbnHQHQcFlhtEVwOVVQT) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Soup](https://open.spotify.com/album/0wp5HjYpk5v6SLU8QUmDjX) | 3:30 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 56 | [Eadgb](https://open.spotify.com/track/3Xzc2XEAocSqgmYwOHWMYe) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Oidaki](https://open.spotify.com/album/5FGKmIasXlcphIo9Z3ihS5) | 3:34 |
 | 57 | [Stay alive](https://open.spotify.com/track/52EbacHlCatprydFHbfMDT) | [Apes](https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4) | [PUR](https://open.spotify.com/album/2XdTtSLr0muUcImZtDF2HK) | 4:02 |
 | 58 | [愛爆発](https://open.spotify.com/track/0pss3X0rdLdI5u5Vz00FZc) | [南無阿部陀仏](https://open.spotify.com/artist/5d3O7Y0ejEy42d6QJaqCvQ) | [愛爆発](https://open.spotify.com/album/4bv9etN3XnmD37bSU9jSnW) | 2:59 |
-| 59 | [Pretty in pink](https://open.spotify.com/track/5FPoDmhfaK08USOhbX4jAM) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Pretty in pink](https://open.spotify.com/album/6FAyVgF0ZBEBPIi3QQHK6l) | 2:56 |
+| 59 | [Pretty in pink](https://open.spotify.com/track/4xCy0UyJ5qMx0bbt4F9B0d) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Pretty in pink](https://open.spotify.com/album/5Cgh8OZAJ8Y6haJyxMzBVH) | 2:56 |
 | 60 | [夜明け](https://open.spotify.com/track/6MWWsEbkAiyK407N8OKMjI) | [ネコノヒタイ](https://open.spotify.com/artist/38gIrcXZVnxFznolAA1wmK) | [夜明け/深夜東京](https://open.spotify.com/album/1o4KmxhREv5twl28E90kGR) | 4:48 |
 | 61 | [Cherry on Top](https://open.spotify.com/track/4bPPrzm53NFPn5pYpsBn3j) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [Cherry on Top](https://open.spotify.com/album/1bbhJweeXN7bQrtRdsJ2DA) | 2:50 |
 | 62 | [KODOU](https://open.spotify.com/track/6HdxrzXayb7JD6vWuGAnT8) | [Ochunism](https://open.spotify.com/artist/3w5Y9qujoqMYzjk6aIgpnS) | [Scramble](https://open.spotify.com/album/1gJYR7z3PjV3w5yCzLdhSF) | 3:03 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [火遊び](https://open.spotify.com/track/5z04OSKrmIakufm8vEMlQl) | [RQNY](https://open.spotify.com/artist/5G395u0vEWgpDykp47OjSP) | [火遊び](https://open.spotify.com/album/5MnxhgDndyzTbMUif8ou7a) | 3:39 |
 | 70 | [僕らの純情](https://open.spotify.com/track/0fvF0nkcnCpyi80PpVn2Fq) | [髙橋多聞](https://open.spotify.com/artist/71GnUG4fPTeVn1h7PwUbNs) | [僕らの純情](https://open.spotify.com/album/32SnAdmGCALw68HG00Gg5F) | 4:00 |
 
-Snapshot ID: `MTY4MjQzNDgwMCwwMDAwMDAwMDcwZTY5MWEyMjE4NTM0M2NhYWQzNThkNDc5Njk1NTU1`
+Snapshot ID: `MTY4MjQzNDgwMCwwMDAwMDAwMDY4NmQ3YTZlMzQzODlhZWI5ZTkyMWY3ZjFkMTEyODYz`

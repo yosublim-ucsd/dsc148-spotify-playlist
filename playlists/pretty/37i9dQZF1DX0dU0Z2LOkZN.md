@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 
 > Beats inspired by the golden era of hip hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,672 likes - 212 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,748 likes - 212 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -213,7 +213,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 203 | [Edinburgh slang](https://open.spotify.com/track/6dXurVV82jPnWs5cuaN0Vt) | [Mz Boom Bap](https://open.spotify.com/artist/2VuJVhDHZtxhw4Ue1jN8kL) | [Edinburgh slang](https://open.spotify.com/album/7DdYxJN9CQSky3dcaQJXko) | 3:42 |
 | 204 | [Stallone](https://open.spotify.com/track/4yS1f5mRw7WpewybCK30NH) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA), [Fred Erik](https://open.spotify.com/artist/4J46JclpuhD8XOE1JzhB7v) | [Stallone](https://open.spotify.com/album/5rGVab7VkQioQOBIwnQgEu) | 2:23 |
 | 205 | [Jet Ski Gelato Bounce](https://open.spotify.com/track/2D4mtDRmbV0mtyYJVCDs1j) | [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Correspondance](https://open.spotify.com/album/2kHc5vqdqza5IlCMGXlGAQ) | 2:35 |
-| 206 | [Arazonac](https://open.spotify.com/track/6APUu7ZLdzw2HHFlhKlEGE) | [Alexander IV](https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi), [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q) | [Arazonac](https://open.spotify.com/album/7qR5FtJB8efzUbfXOxJcUI) | 2:42 |
+| 206 | [Arazonac](https://open.spotify.com/track/6APUu7ZLdzw2HHFlhKlEGE) | [Alexander IV](https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi) | [Arazonac](https://open.spotify.com/album/7qR5FtJB8efzUbfXOxJcUI) | 2:42 |
 | 207 | [Five O](https://open.spotify.com/track/4ILkbRkRUZ7a6M5aRF1OOk) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [Five O](https://open.spotify.com/album/0GWI5iKdYVJCPS1AokKeoq) | 2:00 |
 | 208 | [No I'm Not](https://open.spotify.com/track/4zOROJs3orKU3RKrGMHSlF) | [Sarent](https://open.spotify.com/artist/0CdPrYbzWcdfC54xRFo28k), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [No I'm Not](https://open.spotify.com/album/26HIl4OP3vjM0Hqw9nRanY) | 1:52 |
 | 209 | [Bella Roma Faster](https://open.spotify.com/track/4qn6KcvhCMNjHXXwPawjnk) | [swagotron](https://open.spotify.com/artist/1ALn7dTGx8RCfSwwulNaGe) | [Bella Roma Faster](https://open.spotify.com/album/7EgEARhXXc7joD20TnfYcW) | 2:44 |

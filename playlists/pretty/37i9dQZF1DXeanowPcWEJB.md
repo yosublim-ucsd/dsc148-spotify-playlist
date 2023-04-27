@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 
 > Viaja al México tradicional con la expresión de sus guitarras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,497 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,573 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 78 | [Mi Ciudad](https://open.spotify.com/track/09vo3ERI7rROqzjy2c8bN3) | [Gilberto Puente](https://open.spotify.com/artist/1OBVE9oxvqZ5mGtUUR3wVR) | [En la Intimidad](https://open.spotify.com/album/3Xof1I1qAhA7f1OrpfGOj5) | 3:47 |
 | 79 | [El Andariego](https://open.spotify.com/track/6oArIL3tzZnmipt3NyrsQ2) | [Romanticos De La Guitarra](https://open.spotify.com/artist/6HexP8xPE4JxhMkwxx55Pz) | [Nostalgia](https://open.spotify.com/album/6lumfvD8xwtfHiabaaBXS6) | 3:25 |
 | 80 | [Pasitos](https://open.spotify.com/track/34t7XTMCWWBumlXC2dtzx2) | [Gerardo Paz](https://open.spotify.com/artist/6lQrKlh4MrZ0XeTfFAt4Ik) | [Chacra](https://open.spotify.com/album/3RGUHtnUlNuS5Lp1ZqhCWx) | 2:37 |
-| 81 | [2 Canciones mexicanas \(Version for Guitar\): No\. 2, Estrellita](https://open.spotify.com/track/7xjB07oDrnC4e2sQjfbAqR) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Adam Holzman](https://open.spotify.com/artist/1Q4wpwTWP02Nxfa4oTJDlO) | [Gorgeous Guitar: Best Loved Classical Guitar Music](https://open.spotify.com/album/6oSy78tFxjggVUnycHOSov) | 2:24 |
-| 82 | [Volver, Volver](https://open.spotify.com/track/1noSAZiYTaMxNU6ccTYUDK) | [Juan Veronico](https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp) | [Lo Mejor en Guitarras](https://open.spotify.com/album/7nl5EG8xfTaQ4WVyB9dsc3) | 3:30 |
+| 81 | [Volver, Volver](https://open.spotify.com/track/1noSAZiYTaMxNU6ccTYUDK) | [Juan Veronico](https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp) | [Lo Mejor en Guitarras](https://open.spotify.com/album/7nl5EG8xfTaQ4WVyB9dsc3) | 3:30 |
+| 82 | [2 Canciones mexicanas \(Version for Guitar\): No\. 2, Estrellita](https://open.spotify.com/track/7xjB07oDrnC4e2sQjfbAqR) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Adam Holzman](https://open.spotify.com/artist/1Q4wpwTWP02Nxfa4oTJDlO) | [Gorgeous Guitar: Best Loved Classical Guitar Music](https://open.spotify.com/album/6oSy78tFxjggVUnycHOSov) | 2:24 |
 | 83 | [La Llorona \(Duet\)](https://open.spotify.com/track/1YBrN8ZzDNbPDH4ay75FsR) | [Stefan](https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU) | [Guitarra Mexicana, Vol\. 1](https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l) | 2:38 |
 | 84 | [Popurri de Huapangos: La Malagueña / Serenata Huasteca / El Mil Amores / El Aguacero](https://open.spotify.com/track/3A9XcFJkVeQGYp7ImCJErG) | [Los Poetas De La Guitarra](https://open.spotify.com/artist/4tJogcL5p5AL0etHNAsxbU) | [Los Poetas de la Guitarra Popurris Inolvidables](https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT) | 4:04 |
 | 85 | [Somos Novios](https://open.spotify.com/track/4mhgSi52rApm5FOOykFmKF) | [Gilberto Puente](https://open.spotify.com/artist/1OBVE9oxvqZ5mGtUUR3wVR) | [Historia de Amor](https://open.spotify.com/album/7qrDWAbGTj4qbf3hVexQxJ) | 3:46 |
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 89 | [No Volveré](https://open.spotify.com/track/4ZQ1Y56dqtHDiank1MPOac) | [Romanticos De La Guitarra](https://open.spotify.com/artist/6HexP8xPE4JxhMkwxx55Pz) | [Guitarras, Lloren ..\. Guitarras](https://open.spotify.com/album/0OaejbGdGCWKoMp5MguB2t) | 3:13 |
 | 90 | [Prisa Doble](https://open.spotify.com/track/1hZkGs8OO9dCNMZP4RmNIC) | [Gerardo Paz](https://open.spotify.com/artist/6lQrKlh4MrZ0XeTfFAt4Ik) | [Chacra](https://open.spotify.com/album/3RGUHtnUlNuS5Lp1ZqhCWx) | 2:18 |
 | 91 | [La Zandunga](https://open.spotify.com/track/0nU1vk6q6enXEZCCPyYNrM) | [Stefan](https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU) | [Guitarra Mexicana, Vol\. 1](https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l) | 3:09 |
-| 92 | [Popurri de Cuco Sanchez: Anillo de Compromiso / Fallaste Corazón / La Cama de Piedra / La Chancla](https://open.spotify.com/track/149Ka0uCWWH4b9pA7GeRPZ) | [Los Poetas De La Guitarra](https://open.spotify.com/artist/4tJogcL5p5AL0etHNAsxbU) | [Los Poetas de la Guitarra Popurris Inolvidables](https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT) | 5:56 |
+| 92 | [Popurri de la Revolucion: Cielito Lindo / La Valentina / La Adelita / La Rielera](https://open.spotify.com/track/4nT54TLQMAjnpBwg1uDwfF) | [Los Poetas De La Guitarra](https://open.spotify.com/artist/4tJogcL5p5AL0etHNAsxbU) | [Los Poetas de la Guitarra Popurris Inolvidables](https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT) | 4:45 |
 | 93 | [El Mar \- Beyond the Sea \[Resmasterizado\]](https://open.spotify.com/track/4tyI1kQ3MIx58NDRIJY7oB) | [Claudio Estrada](https://open.spotify.com/artist/0LPTWTGEL7owKrYVeu50iJ) | [Tesoros De Colección \- Las Grandes Guitarras Mexicanas](https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3) | 2:46 |
 | 94 | [Tico\-Tico](https://open.spotify.com/track/4Bz4Gaqu67YmZpZphOor6Q) | [Ramon Dona\-Dio Y Sus Guitarras Mexicanas](https://open.spotify.com/artist/5QdoHnJ2GRqsMdYKNuryip) | [Tesoros De Colección \- Las Grandes Guitarras Mexicanas](https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3) | 2:54 |
 | 95 | [Alla en el Rancho Grande](https://open.spotify.com/track/64j3RUFP6ZHH4h8ctOxc1o) | [Romanticos De La Guitarra](https://open.spotify.com/artist/6HexP8xPE4JxhMkwxx55Pz) | [Nostalgia](https://open.spotify.com/album/6lumfvD8xwtfHiabaaBXS6) | 2:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 99 | [Que Bonita Es Mi Tierra](https://open.spotify.com/track/1duK1uz8Fpk3GG6gdXiXt2) | [Gilberto Puente](https://open.spotify.com/artist/1OBVE9oxvqZ5mGtUUR3wVR) | [Tesoros De Colección \- Las Grandes Guitarras Mexicanas](https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3) | 3:10 |
 | 100 | [Rayando El Sol](https://open.spotify.com/track/0vbTSruZjJ7ypw0mbqwQ8J) | [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [Recordando A Antonio Bribiesca](https://open.spotify.com/album/0jvIr4ODC4xNyRFJxkoI08) | 3:05 |
 
-Snapshot ID: `MTY3NDUxNDUzMSwwMDAwMDAwMGU2MzJlMDMzNDBmMGZkZDIxYmNkOTBmODBjMGNhMjVm`
+Snapshot ID: `MTY3NDUxNDUzMSwwMDAwMDAwMDA5OWU4NGExNWU2Y2Y0M2Q4NGVjZTBiNDg2ZDUzYzVm`

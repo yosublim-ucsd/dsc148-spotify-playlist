@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj?si=jCYYZ3r6RRuQOwyG5Q8ZBw">Year of Dogs</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,813 likes - 76 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,816 likes - 76 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

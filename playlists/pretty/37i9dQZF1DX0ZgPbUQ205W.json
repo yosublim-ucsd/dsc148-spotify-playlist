@@ -1,12 +1,12 @@
 {
   "description": "Calm and soft sounds of Jazz to help you relax and unwind.",
-  "num_followers": 73041,
+  "num_followers": 73112,
   "original_name": "Calming Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTk3MzAyOSwwMDAwMDAwMDJhZDcyNjk5OWY1NzhlMzI3NjUyZWU5MTZiYWE0NmM2",
+  "snapshot_id": "MTY4MTk3MzAyOSwwMDAwMDAwMGZlMTExMzViNjUwYjA4NzA4N2Q1Mzc5NWQ5MDZjNTUy",
   "tracks": [
     {
       "added_at": "2023-04-20 06:43:49",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-04-20 06:43:49",
       "album": {
+        "name": "Love on a Lonely Street",
+        "url": "https://open.spotify.com/album/0o7H8gUcxfOs6Ir1BCAyer"
+      },
+      "artists": [
+        {
+          "name": "The Ebbing Tides",
+          "url": "https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3"
+        }
+      ],
+      "duration_ms": 183688,
+      "name": "Love on a Lonely Street",
+      "url": "https://open.spotify.com/track/4Ol91F33J7jGfPjRubHbEk"
+    },
+    {
+      "added_at": "2023-04-20 06:43:49",
+      "album": {
         "name": "February Brings The Rain",
         "url": "https://open.spotify.com/album/3HuZSjtGmUndStly4pKiLv"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 159765,
       "name": "To the Moon and Back",
       "url": "https://open.spotify.com/track/1kbVkvLiWNDF7J4zMPtwv7"
-    },
-    {
-      "added_at": "2023-04-20 06:43:49",
-      "album": {
-        "name": "Love on a Lonely Street",
-        "url": "https://open.spotify.com/album/0o7H8gUcxfOs6Ir1BCAyer"
-      },
-      "artists": [
-        {
-          "name": "The Ebbing Tides",
-          "url": "https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3"
-        }
-      ],
-      "duration_ms": 183688,
-      "name": "Love on a Lonely Street",
-      "url": "https://open.spotify.com/track/4Ol91F33J7jGfPjRubHbEk"
     },
     {
       "added_at": "2023-04-20 06:43:49",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-04-20 06:43:49",
       "album": {
-        "name": "Blueberry Street",
-        "url": "https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo"
-      },
-      "artists": [
-        {
-          "name": "Danny Ryan Jazz Band",
-          "url": "https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j"
-        }
-      ],
-      "duration_ms": 265317,
-      "name": "Let's Not",
-      "url": "https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS"
-    },
-    {
-      "added_at": "2023-04-20 06:43:49",
-      "album": {
         "name": "Varenne",
         "url": "https://open.spotify.com/album/0JPktB7VKfmNZsZ1LrwBho"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 224327,
       "name": "Varenne",
       "url": "https://open.spotify.com/track/3KPiGdRDaJHCQcuv3m7PG8"
+    },
+    {
+      "added_at": "2023-04-20 06:43:49",
+      "album": {
+        "name": "Blueberry Street",
+        "url": "https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo"
+      },
+      "artists": [
+        {
+          "name": "Danny Ryan Jazz Band",
+          "url": "https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j"
+        }
+      ],
+      "duration_ms": 265317,
+      "name": "Let's Not",
+      "url": "https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS"
     },
     {
       "added_at": "2023-04-20 06:43:49",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-04-20 06:43:49",
       "album": {
+        "name": "Chances Are",
+        "url": "https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk"
+      },
+      "artists": [
+        {
+          "name": "Bruce Willmington & Co",
+          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
+        }
+      ],
+      "duration_ms": 282391,
+      "name": "Chances Are",
+      "url": "https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC"
+    },
+    {
+      "added_at": "2023-04-20 06:43:49",
+      "album": {
         "name": "Honey, You Are My Everything",
         "url": "https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 196114,
       "name": "You Softly Breathe",
       "url": "https://open.spotify.com/track/71sykxrXDUVEDA4TkHeIzh"
-    },
-    {
-      "added_at": "2023-04-20 06:43:49",
-      "album": {
-        "name": "Chances Are",
-        "url": "https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk"
-      },
-      "artists": [
-        {
-          "name": "Bruce Willmington & Co",
-          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
-        }
-      ],
-      "duration_ms": 282391,
-      "name": "Chances Are",
-      "url": "https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC"
     },
     {
       "added_at": "2023-04-20 06:43:49",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-04-20 06:43:49",
       "album": {
-        "name": "Nightcaps",
-        "url": "https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja"
+        "name": "Beneath It All",
+        "url": "https://open.spotify.com/album/2Zk97EqDVC4iLN4GdX0RIs"
       },
       "artists": [
         {
-          "name": "Glass Trio",
-          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+          "name": "Bruce Willmington & Co",
+          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
         }
       ],
-      "duration_ms": 183757,
-      "name": "Always a Lady",
-      "url": "https://open.spotify.com/track/3We23WM1fwrgX6DGaem3qO"
+      "duration_ms": 171006,
+      "name": "Beneath It All",
+      "url": "https://open.spotify.com/track/7AGPS3yD3CJR3xrPBTLhcO"
     },
     {
       "added_at": "2023-04-20 06:43:49",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-04-20 06:43:49",
       "album": {
-        "name": "Beneath It All",
-        "url": "https://open.spotify.com/album/2Zk97EqDVC4iLN4GdX0RIs"
-      },
-      "artists": [
-        {
-          "name": "Bruce Willmington & Co",
-          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
-        }
-      ],
-      "duration_ms": 171006,
-      "name": "Beneath It All",
-      "url": "https://open.spotify.com/track/7AGPS3yD3CJR3xrPBTLhcO"
-    },
-    {
-      "added_at": "2023-04-20 06:43:49",
-      "album": {
         "name": "The Flow of Your Way",
         "url": "https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 206784,
       "name": "The Flow of Your Way",
       "url": "https://open.spotify.com/track/4cXWKqGv91HzvKQe0r6dNJ"
+    },
+    {
+      "added_at": "2023-04-20 06:43:49",
+      "album": {
+        "name": "Nightcaps",
+        "url": "https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja"
+      },
+      "artists": [
+        {
+          "name": "Glass Trio",
+          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+        }
+      ],
+      "duration_ms": 183757,
+      "name": "Always a Lady",
+      "url": "https://open.spotify.com/track/3We23WM1fwrgX6DGaem3qO"
     },
     {
       "added_at": "2023-04-20 06:43:49",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-04-20 06:43:49",
       "album": {
-        "name": "Old Georgie",
-        "url": "https://open.spotify.com/album/4Hfo3rFHpvtatFFe4Suba9"
-      },
-      "artists": [
-        {
-          "name": "Ben Lively",
-          "url": "https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV"
-        }
-      ],
-      "duration_ms": 182868,
-      "name": "Old Georgie",
-      "url": "https://open.spotify.com/track/5TUShaJuppEAb1FVctgy6V"
-    },
-    {
-      "added_at": "2023-04-20 06:43:49",
-      "album": {
         "name": "Good Night",
         "url": "https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 236937,
       "name": "Good Night",
       "url": "https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx"
+    },
+    {
+      "added_at": "2023-04-20 06:43:49",
+      "album": {
+        "name": "Old Georgie",
+        "url": "https://open.spotify.com/album/4Hfo3rFHpvtatFFe4Suba9"
+      },
+      "artists": [
+        {
+          "name": "Ben Lively",
+          "url": "https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV"
+        }
+      ],
+      "duration_ms": 182868,
+      "name": "Old Georgie",
+      "url": "https://open.spotify.com/track/5TUShaJuppEAb1FVctgy6V"
     },
     {
       "added_at": "2023-04-20 06:43:49",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-04-20 06:43:49",
       "album": {
-        "name": "Lonely Dreams",
-        "url": "https://open.spotify.com/album/2PtgmOMUnMDAYLQhsfLck5"
-      },
-      "artists": [
-        {
-          "name": "Andy Luma Trio",
-          "url": "https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy"
-        }
-      ],
-      "duration_ms": 217238,
-      "name": "Lonely Dreams",
-      "url": "https://open.spotify.com/track/06spmhyDpCb9aWQapTZcxY"
-    },
-    {
-      "added_at": "2023-04-20 06:43:49",
-      "album": {
         "name": "In Another Universe",
         "url": "https://open.spotify.com/album/20gDATBmLKwoNueDSsC7rR"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2023-04-20 06:43:49",
       "album": {
-        "name": "Fleeting Paradise",
-        "url": "https://open.spotify.com/album/4KnT3EREBlineOIem4782z"
+        "name": "Lonely Dreams",
+        "url": "https://open.spotify.com/album/2PtgmOMUnMDAYLQhsfLck5"
       },
       "artists": [
         {
-          "name": "Henry Albert Trio",
-          "url": "https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm"
+          "name": "Andy Luma Trio",
+          "url": "https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy"
         }
       ],
-      "duration_ms": 193438,
-      "name": "Fleeting Paradise",
-      "url": "https://open.spotify.com/track/2ZmHciaD6uCP3AAqZtzgvF"
+      "duration_ms": 217238,
+      "name": "Lonely Dreams",
+      "url": "https://open.spotify.com/track/06spmhyDpCb9aWQapTZcxY"
     },
     {
       "added_at": "2023-04-20 06:43:49",
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2023-04-20 06:43:49",
       "album": {
+        "name": "Fleeting Paradise",
+        "url": "https://open.spotify.com/album/4KnT3EREBlineOIem4782z"
+      },
+      "artists": [
+        {
+          "name": "Henry Albert Trio",
+          "url": "https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm"
+        }
+      ],
+      "duration_ms": 193438,
+      "name": "Fleeting Paradise",
+      "url": "https://open.spotify.com/track/2ZmHciaD6uCP3AAqZtzgvF"
+    },
+    {
+      "added_at": "2023-04-20 06:43:49",
+      "album": {
         "name": "The End is the Beginning",
         "url": "https://open.spotify.com/album/4DlVzBCQqPnLGCyqCPmx7m"
       },
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-04-20 06:43:49",
       "album": {
-        "name": "Withered Flowers",
-        "url": "https://open.spotify.com/album/4BD6urLBwmiEkvlb5R56qU"
-      },
-      "artists": [
-        {
-          "name": "Eddie Harper",
-          "url": "https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Withered Flowers",
-      "url": "https://open.spotify.com/track/7zu57iXTCngCECQrUNVLSN"
-    },
-    {
-      "added_at": "2023-04-20 06:43:49",
-      "album": {
         "name": "Intangible",
         "url": "https://open.spotify.com/album/3YGiHeOdYUDi05wsYcEk6r"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 302645,
       "name": "Intangible",
       "url": "https://open.spotify.com/track/5jU0M5C3puyWnDvrd27RSP"
+    },
+    {
+      "added_at": "2023-04-20 06:43:49",
+      "album": {
+        "name": "Withered Flowers",
+        "url": "https://open.spotify.com/album/4BD6urLBwmiEkvlb5R56qU"
+      },
+      "artists": [
+        {
+          "name": "Eddie Harper",
+          "url": "https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Withered Flowers",
+      "url": "https://open.spotify.com/track/7zu57iXTCngCECQrUNVLSN"
     },
     {
       "added_at": "2023-04-20 06:43:49",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-04-20 06:43:49",
       "album": {
-        "name": "The Reasons That I Love You",
-        "url": "https://open.spotify.com/album/5GM3f2GT3BwzfKtKdjE0O8"
-      },
-      "artists": [
-        {
-          "name": "6th Street Jazz",
-          "url": "https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1"
-        }
-      ],
-      "duration_ms": 280938,
-      "name": "The Reasons That I Love You",
-      "url": "https://open.spotify.com/track/1CLQ0p6nLmLQFCiUUkpBxW"
-    },
-    {
-      "added_at": "2023-04-20 06:43:49",
-      "album": {
         "name": "Litania",
         "url": "https://open.spotify.com/album/1h5ET74uSoTx5vr58suMeR"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 242833,
       "name": "From My Perspective",
       "url": "https://open.spotify.com/track/0aYO1PA22QmRVz7mYXAiUT"
+    },
+    {
+      "added_at": "2023-04-20 06:43:49",
+      "album": {
+        "name": "The Reasons That I Love You",
+        "url": "https://open.spotify.com/album/5GM3f2GT3BwzfKtKdjE0O8"
+      },
+      "artists": [
+        {
+          "name": "6th Street Jazz",
+          "url": "https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1"
+        }
+      ],
+      "duration_ms": 280938,
+      "name": "The Reasons That I Love You",
+      "url": "https://open.spotify.com/track/1CLQ0p6nLmLQFCiUUkpBxW"
     },
     {
       "added_at": "2023-04-20 06:43:49",

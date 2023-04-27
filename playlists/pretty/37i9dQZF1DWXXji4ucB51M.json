@@ -1,12 +1,12 @@
 {
   "description": "The official 2020 VMAs playlist from MTV + Spotify. See more at <a href=\"http://www.mtv.com/vma\">vma.mtv.com</a> \ud83d\ude80",
-  "num_followers": 105064,
+  "num_followers": 105061,
   "original_name": "MTV VMAs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODMwNzU2OSwwMDAwMDAwMDQ0YTVjZDA0OGNhODI4ZDhjNGE2MDBlMzg4MDM4NWEx",
+  "snapshot_id": "MTU5ODMwNzU2OSwwMDAwMDAwMDU3YTVmMzM0MTA0OTVmN2RkN2QzNzgxMjkyZTYxM2Jj",
   "tracks": [
     {
       "added_at": "2020-08-24 22:19:29",
@@ -551,6 +551,22 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
+        "name": "Manic",
+        "url": "https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 205473,
+      "name": "You should be sad",
+      "url": "https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
         "name": "RITMO (Bad Boys For Life)",
         "url": "https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 221714,
       "name": "RITMO (Bad Boys For Life)",
       "url": "https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
-        "name": "Manic",
-        "url": "https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 205473,
-      "name": "You should be sad",
-      "url": "https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK"
     },
     {
       "added_at": "2020-08-24 22:19:29",

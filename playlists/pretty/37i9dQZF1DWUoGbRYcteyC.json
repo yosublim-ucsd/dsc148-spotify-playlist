@@ -1,12 +1,12 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 1985660,
+  "num_followers": 1985898,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDQwNGViNmY1ZDRkYjJlYWVmNDI1ZjU2YjI2MTEyZmRl",
+  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDYwNWI3ZjBmMDEwOTI0NDAyZDdiZDE5OGI5NTliNGYy",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 147598,
-      "name": "Volare",
-      "url": "https://open.spotify.com/track/7nE9H4e4uPOis5sJY39fOc"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 214133,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 147598,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/7nE9H4e4uPOis5sJY39fOc"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Dos Mundos - Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 188893,
-      "name": "Me Hace Tanto Bien",
-      "url": "https://open.spotify.com/track/2mDLrugtj3r6XpH3SdlLGB"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Mi Sangre",
         "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 217560,
       "name": "Volverte A Ver",
       "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Dos Mundos - Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "Me Hace Tanto Bien",
+      "url": "https://open.spotify.com/track/2mDLrugtj3r6XpH3SdlLGB"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Coraz\u00f3n Profundo (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 222213,
-      "name": "Volv\u00ed a Nacer",
-      "url": "https://open.spotify.com/track/6Al0Kpd4VrRZ0Z4kTThNPa"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 238133,
       "name": "Fotograf\u00eda",
       "url": "https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Coraz\u00f3n Profundo (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 222213,
+      "name": "Volv\u00ed a Nacer",
+      "url": "https://open.spotify.com/track/6Al0Kpd4VrRZ0Z4kTThNPa"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -839,26 +839,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 212914,
-      "name": "SI ES AMOR",
-      "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Un A\u00f1o",
         "url": "https://open.spotify.com/album/4Vtx3PxyOfBUBuEYAIocsP"
       },
@@ -899,6 +879,26 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 212914,
+      "name": "SI ES AMOR",
+      "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "\u00bfA D\u00f3nde Vamos?",
         "url": "https://open.spotify.com/album/01R2vYq9iDhn4ZXtM5dd7i"
       },
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 144545,
-      "name": "Beso En Las Rocas",
-      "url": "https://open.spotify.com/track/63hQU0ll74dtGBDMcyvdEC"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Franco De Vita En Primera Fila",
         "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 218760,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 144545,
+      "name": "Beso En Las Rocas",
+      "url": "https://open.spotify.com/track/63hQU0ll74dtGBDMcyvdEC"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Circo Soledad",
-        "url": "https://open.spotify.com/album/3MYtBNFvuGUSEIi2Sfwl2w"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/7hydwXc3IVJIItIif6ZuLH"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Odio Que No Te Odio",
         "url": "https://open.spotify.com/album/5pLHLNwXqkKRMlS5NEEkdW"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 220480,
       "name": "Odio Que No Te Odio",
       "url": "https://open.spotify.com/track/374Yj1kOLjGLYLOydbCO3i"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Circo Soledad",
+        "url": "https://open.spotify.com/album/3MYtBNFvuGUSEIi2Sfwl2w"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/7hydwXc3IVJIItIif6ZuLH"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1207,18 +1207,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Mi Tierra",
-        "url": "https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ"
+        "name": "M\u00e1s M\u00fasica + Alma + Sexo",
+        "url": "https://open.spotify.com/album/0a9o88R6EXFDtbcbdYqKD2"
       },
       "artists": [
         {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
         }
       ],
-      "duration_ms": 276600,
-      "name": "Con los A\u00f1os Que Me Quedan",
-      "url": "https://open.spotify.com/track/5UPd6Gyj4aoaTUTlpWSak5"
+      "duration_ms": 216613,
+      "name": "Lo Mejor de Mi Vida Eres T\u00fa (feat. Natalia Jim\u00e9nez)",
+      "url": "https://open.spotify.com/track/2uhaDVmfG7pT94VO5jl2r4"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1239,22 +1243,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "M\u00e1s M\u00fasica + Alma + Sexo",
-        "url": "https://open.spotify.com/album/0a9o88R6EXFDtbcbdYqKD2"
+        "name": "Mi Tierra",
+        "url": "https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ"
       },
       "artists": [
         {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
         }
       ],
-      "duration_ms": 216613,
-      "name": "Lo Mejor de Mi Vida Eres T\u00fa (feat. Natalia Jim\u00e9nez)",
-      "url": "https://open.spotify.com/track/2uhaDVmfG7pT94VO5jl2r4"
+      "duration_ms": 276600,
+      "name": "Con los A\u00f1os Que Me Quedan",
+      "url": "https://open.spotify.com/track/5UPd6Gyj4aoaTUTlpWSak5"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Tiburones",
+        "url": "https://open.spotify.com/album/5MeIHVfD8WaFm2NlkNPsCW"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 193975,
+      "name": "Tiburones",
+      "url": "https://open.spotify.com/track/1zIshc2P9l5AZsOpJWmdTM"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Mesa Para Dos",
         "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 206674,
       "name": "Lo Que en Ti Veo",
       "url": "https://open.spotify.com/track/2cLOSF54zDP52z6ma8mivK"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Tiburones",
-        "url": "https://open.spotify.com/album/5MeIHVfD8WaFm2NlkNPsCW"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 193975,
-      "name": "Tiburones",
-      "url": "https://open.spotify.com/track/1zIshc2P9l5AZsOpJWmdTM"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1515,6 +1515,26 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Y Si Me Enamoro",
+        "url": "https://open.spotify.com/album/4g9alQMKvuCo6zzynC8JjV"
+      },
+      "artists": [
+        {
+          "name": "Daniel Elbittar",
+          "url": "https://open.spotify.com/artist/22yQeUlFkqM2FoTcnr0w8G"
+        },
+        {
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        }
+      ],
+      "duration_ms": 215006,
+      "name": "Y Si Me Enamoro",
+      "url": "https://open.spotify.com/track/6un86RuZV1YnULXENqd2Sn"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Mal De Amores",
         "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
       },
@@ -1547,26 +1567,6 @@
       "duration_ms": 227520,
       "name": "Te Adorar\u00e9",
       "url": "https://open.spotify.com/track/3e4lLl0zCsOmiXjl9rBfNk"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Y Si Me Enamoro",
-        "url": "https://open.spotify.com/album/4g9alQMKvuCo6zzynC8JjV"
-      },
-      "artists": [
-        {
-          "name": "Daniel Elbittar",
-          "url": "https://open.spotify.com/artist/22yQeUlFkqM2FoTcnr0w8G"
-        },
-        {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
-        }
-      ],
-      "duration_ms": 215006,
-      "name": "Y Si Me Enamoro",
-      "url": "https://open.spotify.com/track/6un86RuZV1YnULXENqd2Sn"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Apague la Luz y Escuche",
+        "url": "https://open.spotify.com/album/1Ke5xraBJtqZ8mM8Rb62TN"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "Nada Es Como T\u00fa - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0FJoj1lLkUDPH4dazfrBOz"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Sigue/Forever My Love",
         "url": "https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 190893,
       "name": "Forever My Love",
       "url": "https://open.spotify.com/track/6TYuTMfBTU4hpXrhLsjIiV"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Apague la Luz y Escuche",
-        "url": "https://open.spotify.com/album/1Ke5xraBJtqZ8mM8Rb62TN"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "Nada Es Como T\u00fa - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0FJoj1lLkUDPH4dazfrBOz"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1751,22 +1751,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Negroklaro",
-        "url": "https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM"
+        "name": "Si T\u00fa Me Quieres",
+        "url": "https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY"
       },
       "artists": [
         {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
         },
         {
-          "name": "Jes\u00fas Navarro",
-          "url": "https://open.spotify.com/artist/177dG4gTPSBg2F2KXZdPMW"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 317106,
-      "name": "No Puedo Dejarte de Amar (with Jes\u00fas Navarro)",
-      "url": "https://open.spotify.com/track/0RGRcMtokeaLUNAhqNIfKw"
+      "duration_ms": 204454,
+      "name": "Si T\u00fa Me Quieres",
+      "url": "https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7"
     }
   ],
   "unique_name": "Amor Amor",

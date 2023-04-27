@@ -1,15 +1,63 @@
 {
-  "description": "Future K-Pop hits! Cover: BOL4",
-  "num_followers": 753961,
+  "description": "Future K-Pop hits! Cover: WOODZ",
+  "num_followers": 754186,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA1Mjg5MywwMDAwMDAwMGRmMjQ0Njg4MDEzZmU1MjlhYjBkNWNlOTgyZDRiMWRi",
+  "snapshot_id": "MTY4MjUwMDA3OSwwMDAwMDAwMDUxY2UzM2E3MjQ4NTQ3Yzk5ZWEzYjBlN2RiOGM5MjM2",
   "tracks": [
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
+      "album": {
+        "name": "OO-LI",
+        "url": "https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "duration_ms": 198440,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/6dxgKYAH0TvoSb16xD30rD"
+    },
+    {
+      "added_at": "2023-04-26 09:03:43",
+      "album": {
+        "name": "BOYS PLANET - ARTIST BATTLE",
+        "url": "https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC"
+      },
+      "artists": [
+        {
+          "name": "Overdose",
+          "url": "https://open.spotify.com/artist/32jdgEsyvdXqUoReMyR0gl"
+        }
+      ],
+      "duration_ms": 192613,
+      "name": "Over Me",
+      "url": "https://open.spotify.com/track/59oJpXOayvcKGbTXbrZjzF"
+    },
+    {
+      "added_at": "2023-04-26 09:07:59",
+      "album": {
+        "name": "Deadlock",
+        "url": "https://open.spotify.com/album/6nePUewVYxSkvIbG9nkB0M"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "duration_ms": 183670,
+      "name": "Freakin' Bad",
+      "url": "https://open.spotify.com/track/3wntBaOJD8AZrJ8ix97Lwg"
+    },
+    {
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "Love.zip",
         "url": "https://open.spotify.com/album/7w8ZawyWoLyuDr4XRJSsnX"
@@ -25,7 +73,7 @@
       "url": "https://open.spotify.com/track/1TN8defSgxLPMwtzN7gUbb"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "Farewell Everyday",
         "url": "https://open.spotify.com/album/0PSjsWGW3lLQFojSxzlpdY"
@@ -41,7 +89,7 @@
       "url": "https://open.spotify.com/track/5JYW7DeFnvBr4oEqoeZBbu"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "Golden Hour - SM STATION : NCT LAB",
         "url": "https://open.spotify.com/album/1oPIuYqBhdPDGfoEYt8MrR"
@@ -57,7 +105,23 @@
       "url": "https://open.spotify.com/track/14sD1EmQ20kSJY3P0M82MY"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
+      "album": {
+        "name": "BOYS PLANET - FINAL TOP9 BATTLE",
+        "url": "https://open.spotify.com/album/5F3uLyGvCV3QINuGZkdOfS"
+      },
+      "artists": [
+        {
+          "name": "BOYS PLANET",
+          "url": "https://open.spotify.com/artist/49pGKUCSjzaCfv8gdTWG98"
+        }
+      ],
+      "duration_ms": 203253,
+      "name": "Jelly Pop",
+      "url": "https://open.spotify.com/track/6fJW5vgrTBrKksFKApn7v2"
+    },
+    {
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "Predator",
         "url": "https://open.spotify.com/album/25InMrI54TS9KngHEdEsi0"
@@ -73,7 +137,7 @@
       "url": "https://open.spotify.com/track/5RaEgSov5mWUjLXDTDvJwM"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "Over The Moon",
         "url": "https://open.spotify.com/album/0WGMSrfOSPh1vctL94IWD3"
@@ -89,7 +153,7 @@
       "url": "https://open.spotify.com/track/6KiEF5zqzHiFjzdm8gChz7"
     },
     {
-      "added_at": "2023-04-20 07:56:41",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "DIFF",
         "url": "https://open.spotify.com/album/6mU3As6giMDJU8kV6Hx65B"
@@ -105,7 +169,7 @@
       "url": "https://open.spotify.com/track/1BCONvj86ada7Wbr7v0irk"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "Dear My Light",
         "url": "https://open.spotify.com/album/1HIwbRLI1l4U0HcfCZwo11"
@@ -121,7 +185,7 @@
       "url": "https://open.spotify.com/track/0UXLLeFAFbo5JbSR9C4STe"
     },
     {
-      "added_at": "2023-04-20 07:56:41",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "LEMON",
         "url": "https://open.spotify.com/album/6zfZDAVgp6WPIKkg1b0tdF"
@@ -145,7 +209,7 @@
       "url": "https://open.spotify.com/track/1NZDEgM9f7j5l447FAcHYq"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "Hold On Tight",
         "url": "https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN"
@@ -161,7 +225,7 @@
       "url": "https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7"
     },
     {
-      "added_at": "2023-04-20 07:56:41",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "TODAY (Feat. Kim Mi Jeong)",
         "url": "https://open.spotify.com/album/7pAEDIrWroPSNk8RyH5CvN"
@@ -181,7 +245,7 @@
       "url": "https://open.spotify.com/track/6zgRMguVIineEcfwdy1ftt"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "LOVESTRUCK!",
         "url": "https://open.spotify.com/album/06qoehc4xjI7IW9J8jQFEX"
@@ -197,7 +261,7 @@
       "url": "https://open.spotify.com/track/6blIAzkMKENKqAfMwj5cZQ"
     },
     {
-      "added_at": "2023-04-21 04:54:53",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "Green",
         "url": "https://open.spotify.com/album/594V3LHu3YwGnOJsGGKmSW"
@@ -217,7 +281,7 @@
       "url": "https://open.spotify.com/track/5tFtRGlr5uaqMQmMtXZjXe"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "VingleVingle",
         "url": "https://open.spotify.com/album/10Ldh1KXu0ySjpfiX6qLXQ"
@@ -233,7 +297,7 @@
       "url": "https://open.spotify.com/track/4mSb6RA9eJnXuMWChHLpgn"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "Blank or Black",
         "url": "https://open.spotify.com/album/7gRC2DS4dKoLLm3ZwCHtKx"
@@ -249,7 +313,7 @@
       "url": "https://open.spotify.com/track/5iwxfw0F3TeHxzGVlkzUN9"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "I AM SHAMPOO",
         "url": "https://open.spotify.com/album/2MH5K8RTLoLzkpgtIYWFUe"
@@ -265,7 +329,7 @@
       "url": "https://open.spotify.com/track/164rrRJLHNzPKIR82BCDQU"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "SELF",
         "url": "https://open.spotify.com/album/7gx8kFPhTKuAIWfUS8i72Z"
@@ -281,7 +345,7 @@
       "url": "https://open.spotify.com/track/1XrPkH2rQYgVMJeIMdUbRU"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "KARD 3rd Digital Single 'Without You'",
         "url": "https://open.spotify.com/album/1m0yu7SisKNI9DJSIduL22"
@@ -297,7 +361,7 @@
       "url": "https://open.spotify.com/track/3UxfcEYFo3iU6WullUvM9x"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "Sour & Sweet",
         "url": "https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET"
@@ -313,7 +377,7 @@
       "url": "https://open.spotify.com/track/3bcLtU0Z3MuUhhQHIVSSX2"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "Blank Page",
         "url": "https://open.spotify.com/album/4iId8omKmw3zaOoTHLoFAs"
@@ -329,7 +393,7 @@
       "url": "https://open.spotify.com/track/5725iqZgzHvcHEUCRPmaj4"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "The Beginning: Cupid",
         "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
@@ -345,7 +409,7 @@
       "url": "https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "Fly Away",
         "url": "https://open.spotify.com/album/5bFzkvTOLC0iC6anD4wEsn"
@@ -361,7 +425,7 @@
       "url": "https://open.spotify.com/track/5QLswL5FY0brw1yGXCGrdg"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "Chico malo",
         "url": "https://open.spotify.com/album/3M5zCYcr3RtRy4wdE2Vam9"
@@ -377,7 +441,7 @@
       "url": "https://open.spotify.com/track/7kDmaRZ2kbxqcsJrynRR8i"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "Zero",
         "url": "https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR"
@@ -393,7 +457,7 @@
       "url": "https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "the Billage of perception: chapter three",
         "url": "https://open.spotify.com/album/5bt0sTLia4il2rIlpqUo5g"
@@ -409,7 +473,23 @@
       "url": "https://open.spotify.com/track/5ICowHre7VraSKaRw3do8N"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
+      "album": {
+        "name": "INCENSE",
+        "url": "https://open.spotify.com/album/7xKTS5lUeMzF5pyhVj505Z"
+      },
+      "artists": [
+        {
+          "name": "MOONBIN&SANHA(ASTRO)",
+          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/7n21DchMhEHga46iMecQHW"
+    },
+    {
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
@@ -433,7 +513,7 @@
       "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "exp\u00e9rgo",
         "url": "https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx"
@@ -449,7 +529,7 @@
       "url": "https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "love you twice",
         "url": "https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4"
@@ -465,7 +545,7 @@
       "url": "https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "1st Single 'S.i.R'",
         "url": "https://open.spotify.com/album/7eZ1MuD9GYRP35jumpZStH"
@@ -485,7 +565,7 @@
       "url": "https://open.spotify.com/track/7gVFUy4jtXJ6nmk6nHAz2A"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "Episode1 : Love",
         "url": "https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD"
@@ -505,7 +585,7 @@
       "url": "https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "[BILLION MUSIC PROJECT VOL.1]",
         "url": "https://open.spotify.com/album/5WyawwlLnlCHeLGChPaJii"
@@ -525,7 +605,7 @@
       "url": "https://open.spotify.com/track/1z7X7lFkoF2KRoDaxUfN99"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "Put Up a Fight",
         "url": "https://open.spotify.com/album/3drwQJIp5YRtjFIIPishWG"
@@ -541,7 +621,7 @@
       "url": "https://open.spotify.com/track/2ZBamz4ysAIPWEyILbIt0I"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "SHOW ME THE MONEY 11 Episode 3",
         "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
@@ -565,7 +645,7 @@
       "url": "https://open.spotify.com/track/7aNA0yQbOYu3HKWv9zElJX"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "MASTER : PIECE",
         "url": "https://open.spotify.com/album/6vlYZzNPs1SCafyLKbmUrC"
@@ -581,59 +661,7 @@
       "url": "https://open.spotify.com/track/7I2ue60s8PvCbc1Oovt5ph"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/21hyerYXEXL0rLnagGfTZ0"
-      },
-      "artists": [
-        {
-          "name": "Keith Ape",
-          "url": "https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI"
-        },
-        {
-          "name": "PEEJAY",
-          "url": "https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY"
-        }
-      ],
-      "duration_ms": 330480,
-      "name": "Ape Freestyle - Spotify Singles",
-      "url": "https://open.spotify.com/track/5yV2rps3tcEwxhuYZRJ38k"
-    },
-    {
-      "added_at": "2023-04-20 05:50:12",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2XAl1NxzmOcAgtXNwYjqWn"
-      },
-      "artists": [
-        {
-          "name": "Blase",
-          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
-        },
-        {
-          "name": "BlackNut",
-          "url": "https://open.spotify.com/artist/0T8sqjCB5w57zxvW5lp3qJ"
-        },
-        {
-          "name": "Jimmy Paige",
-          "url": "https://open.spotify.com/artist/0lb59tIBwWrDfP6X956pkK"
-        },
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        },
-        {
-          "name": "SMUGGLERS",
-          "url": "https://open.spotify.com/artist/0brXIqiS2RuhcFnwLqMx9p"
-        }
-      ],
-      "duration_ms": 236866,
-      "name": "Grrr - Spotify Singles",
-      "url": "https://open.spotify.com/track/2UrBX2cG7ZSnN2SbgspmtK"
-    },
-    {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "History Of Kingdom: Pt. \u2165. Mujin",
         "url": "https://open.spotify.com/album/5MtxPx9oyiXDH6x5r646Go"
@@ -649,7 +677,7 @@
       "url": "https://open.spotify.com/track/6tksGYo7SrnXF7Cj3sLWav"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "'Truth or Lie' - 1st MINI ALBUM",
         "url": "https://open.spotify.com/album/0zL517sKU45pMGbNeq0UhB"
@@ -665,7 +693,7 @@
       "url": "https://open.spotify.com/track/287Y0QDy6xhjrc9IjwZFUh"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "Young, Dumb, Stupid",
         "url": "https://open.spotify.com/album/5JdSdoglRlxgJDWiprRtY0"
@@ -681,23 +709,7 @@
       "url": "https://open.spotify.com/track/2s2PGt2yeQly8auhPuHGIn"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
-      "album": {
-        "name": "Errr Day",
-        "url": "https://open.spotify.com/album/7uoPw6yndoEeatuxKzacnK"
-      },
-      "artists": [
-        {
-          "name": "Youngjae",
-          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
-        }
-      ],
-      "duration_ms": 204533,
-      "name": "Errr Day",
-      "url": "https://open.spotify.com/track/6q1tSNXzxeexSAXwp0dCiG"
-    },
-    {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "H1-KEY 1st Mini Album [Rose Blossom]",
         "url": "https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L"
@@ -713,35 +725,7 @@
       "url": "https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2UF4tunNCYC2VYyjkAk8ex"
-      },
-      "artists": [
-        {
-          "name": "sokodomo",
-          "url": "https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ"
-        },
-        {
-          "name": "Don Mills",
-          "url": "https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn"
-        },
-        {
-          "name": "viceversa",
-          "url": "https://open.spotify.com/artist/5M6uaTVVZuyAkdr60oWKrJ"
-        },
-        {
-          "name": "SMUGGLERS",
-          "url": "https://open.spotify.com/artist/0brXIqiS2RuhcFnwLqMx9p"
-        }
-      ],
-      "duration_ms": 152386,
-      "name": "WHIP! - Spotify Singles",
-      "url": "https://open.spotify.com/track/0tW9Scup0VRKGlwD3Qvn4r"
-    },
-    {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "ASSEMBLE",
         "url": "https://open.spotify.com/album/6ArYgWdHk7mcG4knENgPN5"
@@ -757,7 +741,7 @@
       "url": "https://open.spotify.com/track/6QCPweR3aP6nj7P43WpiZs"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "WHERE DOES SASQUATCH LIVE? Pt. 1",
         "url": "https://open.spotify.com/album/2TUaUffgOaezf2b52HTTWE"
@@ -773,7 +757,7 @@
       "url": "https://open.spotify.com/track/1FBdX6uTlbunrv0bu3tFnF"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "Floral Sense - The 1st Album (Special Version)",
         "url": "https://open.spotify.com/album/3GiIDO4BTLwJuZWQszk4Tg"
@@ -793,7 +777,7 @@
       "url": "https://open.spotify.com/track/7kqCeZ0OmIWDXoo6h9GMpw"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "8TURNRISE",
         "url": "https://open.spotify.com/album/6fvrG4RkX06QBmmc9gA1OQ"
@@ -809,23 +793,7 @@
       "url": "https://open.spotify.com/track/60Oo6tKR0ckwZsRr95NrjL"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
-      "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 191220,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
-    },
-    {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "I \u2260 DOLL",
         "url": "https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT"
@@ -841,7 +809,7 @@
       "url": "https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "Poppy (Korean Ver.)",
         "url": "https://open.spotify.com/album/5zjvNPacLQjzsBVDxyhuiu"
@@ -857,23 +825,7 @@
       "url": "https://open.spotify.com/track/7a86ARVnm366v2UY1z9Ak8"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
-      "album": {
-        "name": "INCENSE",
-        "url": "https://open.spotify.com/album/7xKTS5lUeMzF5pyhVj505Z"
-      },
-      "artists": [
-        {
-          "name": "MOONBIN&SANHA(ASTRO)",
-          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "Madness",
-      "url": "https://open.spotify.com/track/7n21DchMhEHga46iMecQHW"
-    },
-    {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "Love Never Dies",
         "url": "https://open.spotify.com/album/0r8x30PzZEBtxJsLpwHHwL"
@@ -889,7 +841,7 @@
       "url": "https://open.spotify.com/track/5JDfcFU6lCYU7jQJ8dDo8v"
     },
     {
-      "added_at": "2023-04-20 05:50:12",
+      "added_at": "2023-04-26 09:03:43",
       "album": {
         "name": "Winter Special Digital Single Album \u2032Cinderella\u2032",
         "url": "https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1"

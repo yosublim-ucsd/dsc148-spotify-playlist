@@ -7560,7 +7560,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 149718,
       "name": "Hold On Tight",
       "url": "https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7"
@@ -10256,7 +10256,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 125615,
       "name": "Maria",
       "url": "https://open.spotify.com/track/35v3dtkDxd4WjQrZwPlQXz"
@@ -13396,7 +13396,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 248928,
       "name": "Peppers (feat. Tommy Genesis)",
       "url": "https://open.spotify.com/track/2Rlso2ZNV0PaWwUYeeBYxx"
@@ -14632,7 +14632,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 125508,
       "name": "RITMADINHA DAN\u00c7ANTE",
       "url": "https://open.spotify.com/track/4sVrOA0sytAzv102tnQmr7"
@@ -15562,7 +15562,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 240000,
       "name": "Si La Calle Llama - Remix",
       "url": "https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM"
@@ -15860,7 +15860,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 115165,
       "name": "Sin Condon (TikTok) - Remix",
       "url": "https://open.spotify.com/track/4i57FtSgN0a7UlcECOX4ws"
@@ -16980,6 +16980,24 @@
       "duration_ms": 230811,
       "name": "Te Llor\u00e9 Un R\u00edo",
       "url": "https://open.spotify.com/track/6uYtv0KmSNBGFfaY7yW8tY"
+    },
+    {
+      "album": {
+        "name": "ESENCIA",
+        "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249468,
+      "name": "Te Lo Prometo",
+      "url": "https://open.spotify.com/track/609ItcFreOqmwRjmBbocds"
     },
     {
       "album": {
@@ -18468,6 +18486,24 @@
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
+    },
+    {
+      "album": {
+        "name": "GABRIEL",
+        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150519,
+      "name": "UNDERSTAND",
+      "url": "https://open.spotify.com/track/72sfmdpuO5r8cBDgs7MqZZ"
     },
     {
       "album": {

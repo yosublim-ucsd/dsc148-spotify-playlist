@@ -10681,6 +10681,28 @@
     },
     {
       "album": {
+        "name": "Bach: Concerto in D Minor, BWV 974: II. Adagio (Arr. Constantini for Bandoneon)",
+        "url": "https://open.spotify.com/album/7y9OGJf7GZvjLWceIjMc0S"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Claudio Constantini",
+          "url": "https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246160,
+      "name": "Bach: Concerto in D Minor, BWV 974: II. Adagio (Arr. Constantini for Bandoneon)",
+      "url": "https://open.spotify.com/track/65cd0WJhd1Lqh8k8mZm1yQ"
+    },
+    {
+      "album": {
         "name": "Papa Bach (Live at Palau de la M\u00fasica)",
         "url": "https://open.spotify.com/album/5J5aEuB6PcIE5P2K6fkvVR"
       },
@@ -20176,28 +20198,6 @@
       "duration_ms": 197305,
       "name": "Concerto in D Major, Seibel 226: I. Allegro molto",
       "url": "https://open.spotify.com/track/4o53QL4V6PQTRtazbwJU8u"
-    },
-    {
-      "album": {
-        "name": "Concerto in D Minor, BWV 974: II. Adagio",
-        "url": "https://open.spotify.com/album/7y9OGJf7GZvjLWceIjMc0S"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Claudio Constantini",
-          "url": "https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ"
-        }
-      ],
-      "date_added": "2023-04-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 246160,
-      "name": "Concerto in D Minor, BWV 974: II. Adagio",
-      "url": "https://open.spotify.com/track/65cd0WJhd1Lqh8k8mZm1yQ"
     },
     {
       "album": {
@@ -46535,7 +46535,7 @@
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 92111,
+      "duration_ms": 181363,
       "name": "Left, Alone: Part I - 1. Very Fast",
       "url": "https://open.spotify.com/track/7Ccs9YWpIDH9vMYrKh3LpM"
     },
@@ -66624,7 +66624,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 417640,
-      "name": "Preghiera: Preghiera",
+      "name": "Preghiera: Piano Concerto No.2 in C Minor, Op. 18: II. Adagio sostenuto \u2013 Pi\u00f9 animato \u2013 Tempo I (Excerpt) [Arr. for Piano Trio by Fritz Kreisler & Shelbie Rassler] \"Preghiera\"",
       "url": "https://open.spotify.com/track/63S4ufRGnemlbmZbgIjmRp"
     },
     {

@@ -1,12 +1,12 @@
 {
   "description": "Viaja al M\u00e9xico tradicional con la expresi\u00f3n de sus guitarras.",
-  "num_followers": 56497,
+  "num_followers": 56573,
   "original_name": "Guitarra Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDUxNDUzMSwwMDAwMDAwMGU2MzJlMDMzNDBmMGZkZDIxYmNkOTBmODBjMGNhMjVm",
+  "snapshot_id": "MTY3NDUxNDUzMSwwMDAwMDAwMDA5OWU4NGExNWU2Y2Y0M2Q4NGVjZTBiNDg2ZDUzYzVm",
   "tracks": [
     {
       "added_at": "2023-01-23 22:55:31",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
+        "name": "Lo Mejor en Guitarras",
+        "url": "https://open.spotify.com/album/7nl5EG8xfTaQ4WVyB9dsc3"
+      },
+      "artists": [
+        {
+          "name": "Juan Veronico",
+          "url": "https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp"
+        }
+      ],
+      "duration_ms": 210186,
+      "name": "Volver, Volver",
+      "url": "https://open.spotify.com/track/1noSAZiYTaMxNU6ccTYUDK"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
         "name": "Gorgeous Guitar: Best Loved Classical Guitar Music",
         "url": "https://open.spotify.com/album/6oSy78tFxjggVUnycHOSov"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 144840,
       "name": "2 Canciones mexicanas (Version for Guitar): No. 2, Estrellita",
       "url": "https://open.spotify.com/track/7xjB07oDrnC4e2sQjfbAqR"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
-        "name": "Lo Mejor en Guitarras",
-        "url": "https://open.spotify.com/album/7nl5EG8xfTaQ4WVyB9dsc3"
-      },
-      "artists": [
-        {
-          "name": "Juan Veronico",
-          "url": "https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp"
-        }
-      ],
-      "duration_ms": 210186,
-      "name": "Volver, Volver",
-      "url": "https://open.spotify.com/track/1noSAZiYTaMxNU6ccTYUDK"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -1524,9 +1524,9 @@
           "url": "https://open.spotify.com/artist/4tJogcL5p5AL0etHNAsxbU"
         }
       ],
-      "duration_ms": 356360,
-      "name": "Popurri de Cuco Sanchez: Anillo de Compromiso / Fallaste Coraz\u00f3n / La Cama de Piedra / La Chancla",
-      "url": "https://open.spotify.com/track/149Ka0uCWWH4b9pA7GeRPZ"
+      "duration_ms": 285066,
+      "name": "Popurri de la Revolucion: Cielito Lindo / La Valentina / La Adelita / La Rielera",
+      "url": "https://open.spotify.com/track/4nT54TLQMAjnpBwg1uDwfF"
     },
     {
       "added_at": "2023-01-23 22:55:31",

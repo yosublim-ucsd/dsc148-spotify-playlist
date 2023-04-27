@@ -1,12 +1,12 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 56351,
+  "num_followers": 56363,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjMwMDM1OCwwMDAwMDAwMDBiZmYzMjZhZDQzMzgwN2U4ZTcyNzM0MWVjNjA3ZTg1",
+  "snapshot_id": "MTY4MjMwMDM1OCwwMDAwMDAwMGMyNWIyNzZjMmIxZWQyZDllMzkzM2I3YWY5NWZlNjE4",
   "tracks": [
     {
       "added_at": "2023-04-24 01:39:18",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-04-24 01:39:18",
       "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 405226,
+      "name": "I'm A Fool To Want You",
+      "url": "https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J"
+    },
+    {
+      "added_at": "2023-04-24 01:39:18",
+      "album": {
         "name": "Room 29",
         "url": "https://open.spotify.com/album/5OoDylPvT78As7o5uwIDRX"
       },
@@ -583,34 +599,18 @@
     {
       "added_at": "2023-04-24 01:39:18",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
+        "name": "The Return Of Art Pepper",
+        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
       },
       "artists": [
         {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 405226,
-      "name": "I'm A Fool To Want You",
-      "url": "https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J"
-    },
-    {
-      "added_at": "2023-04-24 01:39:18",
-      "album": {
-        "name": "Here's Love",
-        "url": "https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ"
-      },
-      "artists": [
-        {
-          "name": "Hank Jones",
-          "url": "https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv"
-        }
-      ],
-      "duration_ms": 212586,
-      "name": "My Wish",
-      "url": "https://open.spotify.com/track/2JUo9CBUz3ObTIsSzg93Fr"
+      "duration_ms": 258040,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/4ymHy4hzJ09WxvvT7p0Azy"
     },
     {
       "added_at": "2023-04-24 01:39:18",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-04-24 01:39:18",
       "album": {
-        "name": "The Return Of Art Pepper",
-        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
+        "name": "Here's Love",
+        "url": "https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ"
       },
       "artists": [
         {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+          "name": "Hank Jones",
+          "url": "https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv"
         }
       ],
-      "duration_ms": 258040,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/4ymHy4hzJ09WxvvT7p0Azy"
+      "duration_ms": 212586,
+      "name": "My Wish",
+      "url": "https://open.spotify.com/track/2JUo9CBUz3ObTIsSzg93Fr"
     },
     {
       "added_at": "2023-04-24 01:39:18",
@@ -659,22 +659,6 @@
       "duration_ms": 254026,
       "name": "My Romance - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/3jaUMGTyi4XHBZpXpIWzo2"
-    },
-    {
-      "added_at": "2023-04-24 01:39:18",
-      "album": {
-        "name": "Go! (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 322000,
-      "name": "I Guess I'll Hang My Tears Out To Dry - Rudy Van Gelder Edition/Remastered 1999",
-      "url": "https://open.spotify.com/track/58ylMBq2yqYdHyevarkNWa"
     },
     {
       "added_at": "2023-04-24 01:39:18",
@@ -771,6 +755,22 @@
       "duration_ms": 313040,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/3XhKPQBEtY29ccTFzxXmxj"
+    },
+    {
+      "added_at": "2023-04-24 01:39:18",
+      "album": {
+        "name": "Go! (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 322000,
+      "name": "I Guess I'll Hang My Tears Out To Dry - Rudy Van Gelder Edition/Remastered 1999",
+      "url": "https://open.spotify.com/track/58ylMBq2yqYdHyevarkNWa"
     },
     {
       "added_at": "2023-04-24 01:39:18",
@@ -891,38 +891,6 @@
     {
       "added_at": "2023-04-24 01:39:18",
       "album": {
-        "name": "Remembering Billie",
-        "url": "https://open.spotify.com/album/2gnDlzECePgE9e07pihbYd"
-      },
-      "artists": [
-        {
-          "name": "Scott Hamilton",
-          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
-        }
-      ],
-      "duration_ms": 322133,
-      "name": "Good Morning Heartache",
-      "url": "https://open.spotify.com/track/14aFuIi1l2arBrZfBv9fBP"
-    },
-    {
-      "added_at": "2023-04-24 01:39:18",
-      "album": {
-        "name": "Presenting Ray Bryant",
-        "url": "https://open.spotify.com/album/4hoqZsjtH7nMw3KO3tbPwq"
-      },
-      "artists": [
-        {
-          "name": "Ray Bryant",
-          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "A Hundred Dreams from Now",
-      "url": "https://open.spotify.com/track/0VIr8A09UYvMTrGw0Um7op"
-    },
-    {
-      "added_at": "2023-04-24 01:39:18",
-      "album": {
         "name": "Candy",
         "url": "https://open.spotify.com/album/4OdGL0Uq7YZmrxsIYKUbrU"
       },
@@ -939,6 +907,22 @@
     {
       "added_at": "2023-04-24 01:39:18",
       "album": {
+        "name": "Remembering Billie",
+        "url": "https://open.spotify.com/album/2gnDlzECePgE9e07pihbYd"
+      },
+      "artists": [
+        {
+          "name": "Scott Hamilton",
+          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
+        }
+      ],
+      "duration_ms": 322133,
+      "name": "Good Morning Heartache",
+      "url": "https://open.spotify.com/track/14aFuIi1l2arBrZfBv9fBP"
+    },
+    {
+      "added_at": "2023-04-24 01:39:18",
+      "album": {
         "name": "The Body & The Soul",
         "url": "https://open.spotify.com/album/4HI73mieaBFtwKS37HmvQH"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 202773,
       "name": "Dedicated To You",
       "url": "https://open.spotify.com/track/7Codqj9B5oMniYPUhfv26I"
+    },
+    {
+      "added_at": "2023-04-24 01:39:18",
+      "album": {
+        "name": "Presenting Ray Bryant",
+        "url": "https://open.spotify.com/album/4hoqZsjtH7nMw3KO3tbPwq"
+      },
+      "artists": [
+        {
+          "name": "Ray Bryant",
+          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "A Hundred Dreams from Now",
+      "url": "https://open.spotify.com/track/0VIr8A09UYvMTrGw0Um7op"
     },
     {
       "added_at": "2023-04-24 01:39:18",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2023-04-24 01:39:18",
       "album": {
-        "name": "The Original Quartet With Chet Baker",
-        "url": "https://open.spotify.com/album/7r5zWHLMNah1gedwI4S9AA"
+        "name": "The Complete Argo Mercury Sessions",
+        "url": "https://open.spotify.com/album/1VTJAf7legjTi6EOHHoxFG"
       },
       "artists": [
         {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+          "name": "Art Farmer & Benny Golson Jazztet",
+          "url": "https://open.spotify.com/artist/2ZFVQjoQGBbNZ0quLUteyp"
         }
       ],
-      "duration_ms": 195160,
-      "name": "Lullaby Of The Leaves - 1998 Digital Remaster",
-      "url": "https://open.spotify.com/track/08rTZ8jNknn8VBS3v2o8pT"
+      "duration_ms": 192893,
+      "name": "I Remember Clifford",
+      "url": "https://open.spotify.com/track/4zquVwZMHXKHUHqHIHDlNA"
     },
     {
       "added_at": "2023-04-24 01:39:18",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-04-24 01:39:18",
       "album": {
-        "name": "The Complete Argo Mercury Sessions",
-        "url": "https://open.spotify.com/album/1VTJAf7legjTi6EOHHoxFG"
+        "name": "The Original Quartet With Chet Baker",
+        "url": "https://open.spotify.com/album/7r5zWHLMNah1gedwI4S9AA"
       },
       "artists": [
         {
-          "name": "Art Farmer & Benny Golson Jazztet",
-          "url": "https://open.spotify.com/artist/2ZFVQjoQGBbNZ0quLUteyp"
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
         }
       ],
-      "duration_ms": 192893,
-      "name": "I Remember Clifford",
-      "url": "https://open.spotify.com/track/4zquVwZMHXKHUHqHIHDlNA"
+      "duration_ms": 195160,
+      "name": "Lullaby Of The Leaves - 1998 Digital Remaster",
+      "url": "https://open.spotify.com/track/08rTZ8jNknn8VBS3v2o8pT"
     }
   ],
   "unique_name": "\u50ac\u7720\u7235\u58eb",

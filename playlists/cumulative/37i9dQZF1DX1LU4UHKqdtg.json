@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "OO-LI",
+        "url": "https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232053,
+      "name": "ABYSS",
+      "url": "https://open.spotify.com/track/1SCLxu8le0CYCD9AmbHWMi"
+    },
+    {
+      "album": {
         "name": "CRAVITY 1ST ALBUM PART 2 [LIBERTY : IN OUR COSMOS]",
         "url": "https://open.spotify.com/album/0fQl58pOwJpkTfVUZudzpY"
       },
@@ -406,10 +424,28 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 202571,
       "name": "AMAZON",
       "url": "https://open.spotify.com/track/52duVlQdX7yyZ98WygiPrH"
+    },
+    {
+      "album": {
+        "name": "OUR TEEN:YELLOW SIDE",
+        "url": "https://open.spotify.com/album/6gsIP7jOiuPiCT2bqPlJCd"
+      },
+      "artists": [
+        {
+          "name": "TFN",
+          "url": "https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201733,
+      "name": "AMAZON - Japanese ver.",
+      "url": "https://open.spotify.com/track/1IGILagGIHTdb2lh62Bhol"
     },
     {
       "album": {
@@ -3242,6 +3278,24 @@
       "duration_ms": 169973,
       "name": "Freak",
       "url": "https://open.spotify.com/track/53NYRM8s4mm4yeCsmsvTik"
+    },
+    {
+      "album": {
+        "name": "Deadlock",
+        "url": "https://open.spotify.com/album/6nePUewVYxSkvIbG9nkB0M"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183670,
+      "name": "Freakin' Bad",
+      "url": "https://open.spotify.com/track/3wntBaOJD8AZrJ8ix97Lwg"
     },
     {
       "album": {

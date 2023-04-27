@@ -2505,6 +2505,24 @@
     },
     {
       "album": {
+        "name": "Baby you",
+        "url": "https://open.spotify.com/album/54ZCBICVYg5jvNehprcJj1"
+      },
+      "artists": [
+        {
+          "name": "\u6709\u83ef",
+          "url": "https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163466,
+      "name": "Baby you",
+      "url": "https://open.spotify.com/track/7mawUh4upc0sJVHgkgY3wb"
+    },
+    {
+      "album": {
         "name": "BABYDOLL",
         "url": "https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u"
       },
@@ -11982,7 +12000,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 147401,
       "name": "Jam Inside Your Love (feat. Carla Monroe)",
       "url": "https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK"
@@ -22598,7 +22616,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 123672,
       "name": "SLUT ME OUT",
       "url": "https://open.spotify.com/track/0WoVfPjxsf9MTvPt9ptqeE"
@@ -23950,7 +23968,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 231100,
       "name": "Tak Segampang Itu",
       "url": "https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU"

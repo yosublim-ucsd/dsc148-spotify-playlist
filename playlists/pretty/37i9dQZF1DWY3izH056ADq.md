@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 
 > Enjoy music From "ParadoxLive"! HIPHOPメディアミックスプロジェクト「ParadoxLive（パラライ）」の楽曲&ドラマトラックを1つのプレイリストで。 ©Paradox Live2021
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,662 likes - 119 songs - 18 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,708 likes - 119 songs - 18 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

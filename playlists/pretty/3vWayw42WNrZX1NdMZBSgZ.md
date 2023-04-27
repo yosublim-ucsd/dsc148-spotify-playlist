@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Marshmello, Farruko
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,462 likes - 507 songs - 1 day 3 hr 28 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,458 likes - 507 songs - 1 day 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 | 85 | [Zikidown](https://open.spotify.com/track/1HTKClBb9i0xX3Hdqxu8tR) | [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo) | [Zikidown](https://open.spotify.com/album/7fEfaYKEixA4gEKQW8kxSe) | 2:08 |
 | 86 | [TAMO EN NOTA](https://open.spotify.com/track/2I0aHZjCXh6UjMHIOqugYF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [TAMO EN NOTA](https://open.spotify.com/album/2nMe3lptQDUXDsjIyUcnON) | 3:00 |
 | 87 | [Quien Va a Frontiar \- Remix](https://open.spotify.com/track/7v181skWxE4NxTrVVGtzNk) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Quien Va a Frontiar \(Remix\)](https://open.spotify.com/album/7BEWbSJ0k1CCHTXcH4KxZ8) | 5:17 |
-| 88 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
+| 88 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
 | 89 | [Pa'Onde Vamos \(feat\. Rayo Musica\)](https://open.spotify.com/track/5mOwvA7MywQmmXwNjdyoc9) | [Mr\. Pauer](https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ), [David Tort](https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu), [Markem](https://open.spotify.com/artist/3VvZPymXIq8iBqakRqsTfE), [Rayo Musica](https://open.spotify.com/artist/3zvFWdnryOC5aUkN0XDbwz) | [Pa'Onde Vamos \(feat\. Rayo Musica\)](https://open.spotify.com/album/4WwmlVmdZpJrOi4bVawujz) | 3:07 |
 | 90 | [Sincerándome](https://open.spotify.com/track/6d920UMBw9naD9ggKvIiMT) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Sincerándome](https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7) | 3:39 |
 | 91 | [Pura Maldad](https://open.spotify.com/track/1fEEEkEoiEuOJdaIMknmWK) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU) | [Pura Maldad](https://open.spotify.com/album/266XCHMmH6s0s0a0viQAx8) | 2:59 |

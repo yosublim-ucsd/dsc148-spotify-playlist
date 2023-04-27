@@ -4,7 +4,7 @@
 
 > New music breaking waves\. Cover, Jean Deaux
 
-265 songs - 12 hr 1 min
+266 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,8 @@
 | [Pretty](https://open.spotify.com/track/2ARyZvxGYqUaUgAtqwyBsq) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [SCARLET](https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k) | 2:49 | 2022-03-11 | 2022-08-13 |
 | [PRETTY IN BLACK](https://open.spotify.com/track/0CKjwy3zelVZgS49WlVIaV) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [Pretty In Black](https://open.spotify.com/album/5MfPSUlLg1wsGUyY2c10OG) | 1:53 | 2022-11-18 | 2023-04-16 |
 | [Price So High](https://open.spotify.com/track/1YHC1Gk86WpGJ1CjbxUYLY) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6), [RXK Nephew](https://open.spotify.com/artist/2TsbsGsq2Jkj2qeNCITEBq) | [AINT NOBODY COOL](https://open.spotify.com/album/0Vr0ETwAJxwGSstVwOhQo0) | 2:42 | 2022-04-01 | 2022-08-13 |
-| [Princess Diana](https://open.spotify.com/track/4yzDNpEa75MSTypGg7tCAx) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:34 | 2023-02-24 |  |
+| [Princess Diana](https://open.spotify.com/track/4nKwe18MLVlLgiVzVmSRDI) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 2:34 | 2023-02-24 |  |
+| [Princess Diana](https://open.spotify.com/track/4yzDNpEa75MSTypGg7tCAx) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:34 | 2023-02-24 | 2023-04-27 |
 | [QuikkSkope \(feat\. DC The Don\)](https://open.spotify.com/track/5Kvs2iitHuGu1PCaJESZJS) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [VIRALITY](https://open.spotify.com/album/4cZQDPI9rDzPpqMMLyvj7B) | 2:41 | 2022-08-19 | 2023-01-06 |
 | [READY OR NOT](https://open.spotify.com/track/0BrjFCqjdRwlLJXm34kbvE) | [T$AN](https://open.spotify.com/artist/3xxFIilHFOKX6QaoJfBYrk) | [READY OR NOT](https://open.spotify.com/album/2VUujSP9RgeXCw2QYBh2s2) | 2:17 | 2021-12-17 | 2022-02-26 |
 | [rearrange](https://open.spotify.com/track/2RKBYcGZg5YfjWxsG9TgGr) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [rearrange](https://open.spotify.com/album/4thDLfTlxhnnu5VgwOXE61) | 2:40 | 2021-10-29 | 2022-02-26 |

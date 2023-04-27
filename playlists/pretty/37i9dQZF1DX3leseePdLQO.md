@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3leseePdLQO.md) - [plain]
 
 > Pop para refrescarte los días, featuring Humbe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,044 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,645 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3leseePdLQO.md) - [plain]
 | 41 | [No siempre quedará París \- Remix](https://open.spotify.com/track/4TPugCH4s6bRqhWhGkb2qw) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [No siempre quedará París \(Remix\)](https://open.spotify.com/album/2tfshGlaDqIHUovmOcFL4q) | 3:06 |
 | 42 | [Eva](https://open.spotify.com/track/3kof23H8ZheEzzhARBlf4o) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Eva](https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz) | 4:08 |
 | 43 | [Como Tú y Yo](https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Como Tú y Yo](https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT) | 3:12 |
-| 44 | [TURISMO](https://open.spotify.com/track/3ZZjnPbfDxvZB5lLaFRBCS) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:26 |
-| 45 | [LA FALTA QUE ME HACES](https://open.spotify.com/track/39U5DHTTvKNX7o9lyJmBpl) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [LA FALTA QUE ME HACES](https://open.spotify.com/album/0aKIRSfDhab4HjgNxNYhcT) | 3:00 |
+| 44 | [LA FALTA QUE ME HACES](https://open.spotify.com/track/39U5DHTTvKNX7o9lyJmBpl) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [LA FALTA QUE ME HACES](https://open.spotify.com/album/0aKIRSfDhab4HjgNxNYhcT) | 3:00 |
+| 45 | [TURISMO](https://open.spotify.com/track/3ZZjnPbfDxvZB5lLaFRBCS) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:26 |
 | 46 | [Se Siente Así](https://open.spotify.com/track/4PqABTCOnE62ncPdwra8rk) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 2:29 |
 | 47 | [Bendita](https://open.spotify.com/track/3vDP0LdVBqGhKvz2nyMRXS) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Bendita](https://open.spotify.com/album/7KREKP5rqz2xTxFNYABhLr) | 3:19 |
 | 48 | [Los Mejores Años](https://open.spotify.com/track/28IF0Kp3uUeWHPkXa0yjNn) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [Los Mejores Años](https://open.spotify.com/album/1FfoXxOshDOFAv1C84pSJR) | 3:22 |
-| 49 | [Inténtalo](https://open.spotify.com/track/2wKCkLD4ZqSA4S7k3MZPLN) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 2:43 |
-| 50 | [Att: Amor](https://open.spotify.com/track/1TpCPPgqc6FOVzLZefm6e3) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 2:13 |
+| 49 | [Att: Amor](https://open.spotify.com/track/1TpCPPgqc6FOVzLZefm6e3) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 2:13 |
+| 50 | [Inténtalo](https://open.spotify.com/track/2wKCkLD4ZqSA4S7k3MZPLN) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 2:43 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDVmMWIyOWYxZDc4ODc0NDYzNDFmMzA3N2JkYTk5N2Y5`
+Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMGViNmVmYjE4NTI2YWZmZDI3NDk0YmI5OTI2OTljNTFm`

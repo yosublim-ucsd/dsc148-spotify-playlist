@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > It's a main pop girl emergency 🆘  Cover: Kim Petras & Nicki Minaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,700 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,948 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 90 | [Tongue](https://open.spotify.com/track/2bJgUPmlG2o6A0qfZJgkdh) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Tongue](https://open.spotify.com/album/0TNM4CTPP3WUA7oZcpe5cN) | 2:13 |
 | 91 | [Her](https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:17 |
 | 92 | [MADELINE](https://open.spotify.com/track/6VfNPL93TsZpmwpe2BJxNc) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [MADELINE](https://open.spotify.com/album/6hW5N53gZtSPJQWExInjp6) | 3:24 |
-| 93 | [Ancient Dreams In A Modern Land](https://open.spotify.com/track/2Do0VnlZgtjaVnKU5T4zC0) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Ancient Dreams In A Modern Land \(Deluxe Edition\)](https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d) | 3:26 |
+| 93 | [Ancient Dreams in a Modern Land](https://open.spotify.com/track/2Do0VnlZgtjaVnKU5T4zC0) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Ancient Dreams In A Modern Land \(Deluxe Edition\)](https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d) | 3:26 |
 | 94 | [Sugar Daddy](https://open.spotify.com/track/2ViSWfhT0kvEulXA1HH7Wk) | [Qveen Herby](https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT) | [EP 8](https://open.spotify.com/album/5JDYyeV93HlRyB5EKqt3We) | 3:23 |
 | 95 | [Lonely Together \(feat\. Dagny\)](https://open.spotify.com/track/0dfOAWQfRVFYpLnm9OTpxv) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Thrill Of The Chase](https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn) | 2:58 |
 | 96 | [pl4yg1rl](https://open.spotify.com/track/3xA9Cta8gafKNV1xNpMK2r) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [pl4yg1rl](https://open.spotify.com/album/1xQEgoJUeY0K2pc0p8LLXG) | 2:39 |

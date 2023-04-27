@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JLbaF5wHm7PYeI06NPRsa">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,674 likes - 118 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,676 likes - 118 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 28 | [Drive and Disconnect](https://open.spotify.com/track/6pEAd0UjznaKABT7WLLvmC) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Saturn](https://open.spotify.com/album/5rojZ5uUIKKkfNsFT92Vld) | 3:30 |
 | 29 | [Lonely](https://open.spotify.com/track/3zxLNqZoSbSr8V5emGDIU4) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tell Me You Love Me](https://open.spotify.com/album/5Mu891tmjTbt64meovPSuf) | 4:41 |
 | 30 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/6x8to58oCuyPyuXIe5Imak) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:52 |
-| 31 | [Bluffin'](https://open.spotify.com/track/42w7pX3r1TpLR0i55Ek5ND) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 3:19 |
-| 32 | [Jaded](https://open.spotify.com/track/3AAY8YicetRPlDAkibHLiS) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:05 |
+| 31 | [Jaded](https://open.spotify.com/track/3AAY8YicetRPlDAkibHLiS) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:05 |
+| 32 | [Bluffin'](https://open.spotify.com/track/42w7pX3r1TpLR0i55Ek5ND) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 3:19 |
 | 33 | [Never Ever \(feat\. Sarah\)](https://open.spotify.com/track/0EC0IDtHw47tkwWZ5VMF8r) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [LO LA RU](https://open.spotify.com/album/7a6mqtb2gc5vM4RkfCVX7E) | 3:19 |
 | 34 | [as long as you care](https://open.spotify.com/track/0GQqQ7dA7B4mcEktSZaOUp) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [as long as you care](https://open.spotify.com/album/4Fa7UBvAT9kuEMOAq2gbHm) | 3:13 |
 | 35 | [Crown \(with Camila Cabello & Grey\)](https://open.spotify.com/track/7qrMWXNwE1aD1o1sBnyIAh) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [Crown \(with Camila Cabello & Grey\) \[From Bright: The Album\]](https://open.spotify.com/album/3QB2VHZ40qHxyTHSEzqthX) | 3:21 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 117 | [Broken Home \- From "Empire: Season 6"](https://open.spotify.com/track/4dkn6avuOxa9hwnk9507KQ) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Alexandra Grey](https://open.spotify.com/artist/6VW8RmPy2TkeibNTFafG6n) | [Broken Home \(From "Empire: Season 6"\)](https://open.spotify.com/album/1pQ8f3ulVNTU3WZytYxMb6) | 3:20 |
 | 118 | [Trust Issues](https://open.spotify.com/track/1pF2jde5bhVXkDlWyl7N03) | [Aaron](https://open.spotify.com/artist/556QXf5aTw46XDZ9swLCYE) | [Trust Issues](https://open.spotify.com/album/0NU1WYWYXzGtC4SwkOsxD4) | 3:21 |
 
-Snapshot ID: `MjgwNDExMjksMDAwMDAwMDA0M2YyNjk2YTQ2YTI4MzBjNDVlNjY4YmE0MDFlNTNlMA==`
+Snapshot ID: `MjgwNDI1NjksMDAwMDAwMDBkYjRmZjlhNWU3YjIxODk5MjcxYWFjODZmMWYyMTQ5YQ==`

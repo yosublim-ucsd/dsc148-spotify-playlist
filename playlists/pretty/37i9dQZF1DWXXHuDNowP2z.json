@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A levantar polvadera!",
-  "num_followers": 83380,
+  "num_followers": 83561,
   "original_name": "Cumbias, Huapangos & Zapateados",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjEwMzc5MiwwMDAwMDAwMDY3MTA0OTAwMDlkYjIyYTVlNzNjODUwZGIzNTk1MDIw",
+  "snapshot_id": "MTY4MjEwMzc5MiwwMDAwMDAwMDJmMTBlNTZhYzQyMmRkZTViZDlmZmRlY2Q5YTNlZmQ3",
   "tracks": [
     {
       "added_at": "2023-04-21 19:03:12",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "Locamente Enamorado",
-        "url": "https://open.spotify.com/album/2pYaBSEubSIn7ZJhTJ18kf"
-      },
-      "artists": [
-        {
-          "name": "Predilecto",
-          "url": "https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl"
-        }
-      ],
-      "duration_ms": 217495,
-      "name": "Locamente Enamorado",
-      "url": "https://open.spotify.com/track/1tjPu3BbasHcAWkgnlfAux"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
         "name": "Cumbias Sin Control",
         "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 172706,
       "name": "Tao, Tao",
       "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
+        "name": "Locamente Enamorado",
+        "url": "https://open.spotify.com/album/2pYaBSEubSIn7ZJhTJ18kf"
+      },
+      "artists": [
+        {
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl"
+        }
+      ],
+      "duration_ms": 217495,
+      "name": "Locamente Enamorado",
+      "url": "https://open.spotify.com/track/1tjPu3BbasHcAWkgnlfAux"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -507,6 +507,38 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
+        "name": "Mi Trokita Cumbia",
+        "url": "https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz"
+      },
+      "artists": [
+        {
+          "name": "Obzesion",
+          "url": "https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS"
+        }
+      ],
+      "duration_ms": 134785,
+      "name": "Mi Trokita Cumbia",
+      "url": "https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "Cumbia Con La Luna",
+      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
         "name": "Soy El Aventurero",
         "url": "https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy"
       },
@@ -539,22 +571,6 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "Mi Trokita Cumbia",
-        "url": "https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz"
-      },
-      "artists": [
-        {
-          "name": "Obzesion",
-          "url": "https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS"
-        }
-      ],
-      "duration_ms": 134785,
-      "name": "Mi Trokita Cumbia",
-      "url": "https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
         "name": "El Condor Pasa",
         "url": "https://open.spotify.com/album/12y6dBQ2QCgP47vLw2sJjx"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 208927,
       "name": "El Condor Pasa",
       "url": "https://open.spotify.com/track/00mUyQ38B8S51x3cQhU5ia"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "Cumbia Con La Luna",
-      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "Cuando Nadie Ve",
-        "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
-      },
-      "artists": [
-        {
-          "name": "Impostores De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Cuando Nadie Ve",
-      "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
         "name": "25 Bandazos de Machos (Vol. 1) [USA]",
         "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 188693,
       "name": "La culebra",
       "url": "https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
+        "name": "Cuando Nadie Ve",
+        "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
+      },
+      "artists": [
+        {
+          "name": "Impostores De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Cuando Nadie Ve",
+      "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 1) [USA]",
-        "url": "https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 174106,
-      "name": "La nena",
-      "url": "https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
         "name": "Mi Mexico Querido",
         "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 207737,
       "name": "Orgullosa Mar\u00eda",
       "url": "https://open.spotify.com/track/1nZKtN7ZTkU3b49EtKW2Qj"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
+        "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 174106,
+      "name": "La nena",
+      "url": "https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "Arrasando Con Fuego",
-        "url": "https://open.spotify.com/album/4gDcs5NsKydsBzvcskgs2g"
-      },
-      "artists": [
-        {
-          "name": "K-Paz De La Sierra",
-          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
-        }
-      ],
-      "duration_ms": 155986,
-      "name": "Jambalaya",
-      "url": "https://open.spotify.com/track/35iVqFnqmcqbIckOYoFnrn"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
         "name": "16 Enormes \u00c9xitos",
         "url": "https://open.spotify.com/album/0nzrY6r02nNFuJ4fiibB5w"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 171549,
       "name": "Pelotero A La Bola",
       "url": "https://open.spotify.com/track/4nkMHa8OAlBtSO1clxQqTm"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
+        "name": "Arrasando Con Fuego",
+        "url": "https://open.spotify.com/album/4gDcs5NsKydsBzvcskgs2g"
+      },
+      "artists": [
+        {
+          "name": "K-Paz De La Sierra",
+          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
+        }
+      ],
+      "duration_ms": 155986,
+      "name": "Jambalaya",
+      "url": "https://open.spotify.com/track/35iVqFnqmcqbIckOYoFnrn"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "Los S\u00faper \u00c9xitos",
-        "url": "https://open.spotify.com/album/1zew7ZgJGk5PElzwUAsTgG"
-      },
-      "artists": [
-        {
-          "name": "K-Paz De La Sierra",
-          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
-        }
-      ],
-      "duration_ms": 156306,
-      "name": "La Vecinita",
-      "url": "https://open.spotify.com/track/2zc9alxx3d15ZjdaFkWSU0"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
         "name": "La Del Mo\u00f1o Colorado",
         "url": "https://open.spotify.com/album/6I8NtD0YFtJn6osq3YPadR"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 178293,
       "name": "Si Tu Boquita Fuera",
       "url": "https://open.spotify.com/track/4MeagrXRJb7XjSE8FK0n75"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
+        "name": "Los S\u00faper \u00c9xitos",
+        "url": "https://open.spotify.com/album/1zew7ZgJGk5PElzwUAsTgG"
+      },
+      "artists": [
+        {
+          "name": "K-Paz De La Sierra",
+          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
+        }
+      ],
+      "duration_ms": 156306,
+      "name": "La Vecinita",
+      "url": "https://open.spotify.com/track/2zc9alxx3d15ZjdaFkWSU0"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "Mas Control",
-        "url": "https://open.spotify.com/album/4Ni4cnbjZe1V6nBrjhDn4A"
+        "name": "T\u00fa",
+        "url": "https://open.spotify.com/album/6goSFfGUhQrxImb5hFvQOc"
       },
       "artists": [
         {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+          "name": "Los Elegantes de Jerez",
+          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
         }
       ],
-      "duration_ms": 194986,
-      "name": "Cumbia Morena",
-      "url": "https://open.spotify.com/track/0RW9lpU6FOyGNawOa3MbH8"
+      "duration_ms": 195103,
+      "name": "B\u00e9same Morenita",
+      "url": "https://open.spotify.com/track/0oyYP7CW5V4wwU9KkrCdY4"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
+        "name": "Mas Control",
+        "url": "https://open.spotify.com/album/4Ni4cnbjZe1V6nBrjhDn4A"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 194986,
+      "name": "Cumbia Morena",
+      "url": "https://open.spotify.com/track/0RW9lpU6FOyGNawOa3MbH8"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
         "name": "Camale\u00f3n",
         "url": "https://open.spotify.com/album/6w20flSfh4CyLpQALjOape"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 186546,
       "name": "El Camale\u00f3n",
       "url": "https://open.spotify.com/track/3a6TQVSXm6zCQzNhTVO2Mo"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
-        "name": "T\u00fa",
-        "url": "https://open.spotify.com/album/6goSFfGUhQrxImb5hFvQOc"
-      },
-      "artists": [
-        {
-          "name": "Los Elegantes de Jerez",
-          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
-        }
-      ],
-      "duration_ms": 195103,
-      "name": "B\u00e9same Morenita",
-      "url": "https://open.spotify.com/track/0oyYP7CW5V4wwU9KkrCdY4"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "15 Exitos",
-        "url": "https://open.spotify.com/album/6niRn6fcyQMbjHbtySnT08"
+        "name": "De Parranda Lives Vol. 2/3",
+        "url": "https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1"
       },
       "artists": [
         {
-          "name": "Los Rancheritos Del Topo Chico",
-          "url": "https://open.spotify.com/artist/4vbBfHYxD84AVcT0AXtsHv"
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
         }
       ],
-      "duration_ms": 146560,
-      "name": "Chiquilla Cari\u00f1osa",
-      "url": "https://open.spotify.com/track/2UV1TAfnGEITP4xspHUcBG"
+      "duration_ms": 208049,
+      "name": "Ojala y te animes",
+      "url": "https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "De Parranda Lives Vol. 2/3",
-        "url": "https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1"
+        "name": "15 Exitos",
+        "url": "https://open.spotify.com/album/6niRn6fcyQMbjHbtySnT08"
       },
       "artists": [
         {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+          "name": "Los Rancheritos Del Topo Chico",
+          "url": "https://open.spotify.com/artist/4vbBfHYxD84AVcT0AXtsHv"
         }
       ],
-      "duration_ms": 208049,
-      "name": "Ojala y te animes",
-      "url": "https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1"
+      "duration_ms": 146560,
+      "name": "Chiquilla Cari\u00f1osa",
+      "url": "https://open.spotify.com/track/2UV1TAfnGEITP4xspHUcBG"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "Norte\u00f1o, Vol. 2",
-        "url": "https://open.spotify.com/album/2misjU3JTrJmzfXwmhK41R"
+        "name": "De Parranda Lives Vol. 2/3",
+        "url": "https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
         }
       ],
-      "duration_ms": 167903,
-      "name": "Un Cari\u00f1o Como T\u00fa",
-      "url": "https://open.spotify.com/track/20WRrWYgSULYXFtxBcazwU"
+      "duration_ms": 224396,
+      "name": "Tongoneaito",
+      "url": "https://open.spotify.com/track/13nitMCnQQCcpvcI03KQrE"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
+        "name": "Norte\u00f1o, Vol. 2",
+        "url": "https://open.spotify.com/album/2misjU3JTrJmzfXwmhK41R"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 167903,
+      "name": "Un Cari\u00f1o Como T\u00fa",
+      "url": "https://open.spotify.com/track/20WRrWYgSULYXFtxBcazwU"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
         "name": "Carnavaleando con la Tierra Mojada",
         "url": "https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 224722,
       "name": "Flor de Pi\u00f1a",
       "url": "https://open.spotify.com/track/4j9dUECjcbldf719yKz3LO"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
-        "name": "De Parranda Lives Vol. 2/3",
-        "url": "https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 224396,
-      "name": "Tongoneaito",
-      "url": "https://open.spotify.com/track/13nitMCnQQCcpvcI03KQrE"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "El Baile Pegao",
-        "url": "https://open.spotify.com/album/2INomV2WHXbqK89I6GMVHC"
-      },
-      "artists": [
-        {
-          "name": "Vaquero's Musical",
-          "url": "https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1"
-        }
-      ],
-      "duration_ms": 199076,
-      "name": "El Ki Ki Ki",
-      "url": "https://open.spotify.com/track/7xSF9MUJboslefs58TO6SB"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
         "name": "De Nueva Cuenta",
         "url": "https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 178933,
       "name": "Por Una Lagrima",
       "url": "https://open.spotify.com/track/5XBtCDWEbrNMNYPl73SGu5"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
+        "name": "El Baile Pegao",
+        "url": "https://open.spotify.com/album/2INomV2WHXbqK89I6GMVHC"
+      },
+      "artists": [
+        {
+          "name": "Vaquero's Musical",
+          "url": "https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1"
+        }
+      ],
+      "duration_ms": 199076,
+      "name": "El Ki Ki Ki",
+      "url": "https://open.spotify.com/track/7xSF9MUJboslefs58TO6SB"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "De Corazon Ranchero",
-        "url": "https://open.spotify.com/album/43uickJMbErAxX7qLrqHwV"
-      },
-      "artists": [
-        {
-          "name": "Alacranes Musical",
-          "url": "https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda"
-        }
-      ],
-      "duration_ms": 267650,
-      "name": "Zapateado Encabronado #3",
-      "url": "https://open.spotify.com/track/35COOJVYzJ7fVz7EXaMKSv"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
         "name": "Con Sangre Ranchera",
         "url": "https://open.spotify.com/album/7vujUCeiFL1L347J9ghpR4"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 136752,
       "name": "A Qui\u00e9n No Le Gusta Eso",
       "url": "https://open.spotify.com/track/1ocotVnvTXqgSHqtfqx3yt"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
+        "name": "De Corazon Ranchero",
+        "url": "https://open.spotify.com/album/43uickJMbErAxX7qLrqHwV"
+      },
+      "artists": [
+        {
+          "name": "Alacranes Musical",
+          "url": "https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda"
+        }
+      ],
+      "duration_ms": 267650,
+      "name": "Zapateado Encabronado #3",
+      "url": "https://open.spotify.com/track/35COOJVYzJ7fVz7EXaMKSv"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "Los \u00danicos del Huapango Michoacano",
-        "url": "https://open.spotify.com/album/5y4vlR58lLHIxvJEafFogr"
-      },
-      "artists": [
-        {
-          "name": "Guizador Norte\u00f1o de Zirahu\u00e9n Mich.",
-          "url": "https://open.spotify.com/artist/4fGn6oclcpfVniidRAvXLP"
-        }
-      ],
-      "duration_ms": 148375,
-      "name": "Lucesita",
-      "url": "https://open.spotify.com/track/5EdZ3ta2DrvCjPtHNr8A7Y"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
         "name": "Los Reyes Del Baile",
         "url": "https://open.spotify.com/album/7DL853qsnorJL4jKap209q"
       },
@@ -1895,18 +1879,18 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "10 Pa' Huapanguear",
-        "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
+        "name": "Los \u00danicos del Huapango Michoacano",
+        "url": "https://open.spotify.com/album/5y4vlR58lLHIxvJEafFogr"
       },
       "artists": [
         {
-          "name": "La Kumbre Con K",
-          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
+          "name": "Guizador Norte\u00f1o de Zirahu\u00e9n Mich.",
+          "url": "https://open.spotify.com/artist/4fGn6oclcpfVniidRAvXLP"
         }
       ],
-      "duration_ms": 169740,
-      "name": "El Mariachi (Huapango)",
-      "url": "https://open.spotify.com/track/4T9zeXSlH6sWDDFeEEiCZX"
+      "duration_ms": 148375,
+      "name": "Lucesita",
+      "url": "https://open.spotify.com/track/5EdZ3ta2DrvCjPtHNr8A7Y"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1923,6 +1907,22 @@
       "duration_ms": 193440,
       "name": "Tan Bonita",
       "url": "https://open.spotify.com/track/0AWQyrVXztj04u4DCECbGG"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
+        "name": "10 Pa' Huapanguear",
+        "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
+      },
+      "artists": [
+        {
+          "name": "La Kumbre Con K",
+          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
+        }
+      ],
+      "duration_ms": 169740,
+      "name": "El Mariachi (Huapango)",
+      "url": "https://open.spotify.com/track/4T9zeXSlH6sWDDFeEEiCZX"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "10 Pa' Huapanguear",
-        "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
-      },
-      "artists": [
-        {
-          "name": "La Kumbre Con K",
-          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
-        }
-      ],
-      "duration_ms": 219923,
-      "name": "El Son de la Rabia",
-      "url": "https://open.spotify.com/track/43RsJKvBwxrseYFwUqkroO"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
         "name": "F\u00edjate Mi Hijita",
         "url": "https://open.spotify.com/album/4WGz60FJeYHbI0lpkKzk0w"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 250826,
       "name": "La Cara Sucia",
       "url": "https://open.spotify.com/track/5ztf8zS3mOOibAOEc6jhuA"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
+        "name": "10 Pa' Huapanguear",
+        "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
+      },
+      "artists": [
+        {
+          "name": "La Kumbre Con K",
+          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
+        }
+      ],
+      "duration_ms": 219923,
+      "name": "El Son de la Rabia",
+      "url": "https://open.spotify.com/track/43RsJKvBwxrseYFwUqkroO"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "Gold Collection, Vol.1",
-        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
-      },
-      "artists": [
-        {
-          "name": "Banda Fresa Roja",
-          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
-        }
-      ],
-      "duration_ms": 208875,
-      "name": "La Mujer del Pelotero",
-      "url": "https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
         "name": "Nuestra Historia Musical (Volumen 1)",
         "url": "https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r"
       },
@@ -2311,18 +2295,18 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "Se Les Pel\u00f3 Baltazar",
-        "url": "https://open.spotify.com/album/0dIeKfbhKl7kGQtgTK12DX"
+        "name": "Gold Collection, Vol.1",
+        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
       },
       "artists": [
         {
-          "name": "Hermanos Romero",
-          "url": "https://open.spotify.com/artist/4tGMxdgFkE1WESNVTIsrgQ"
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
         }
       ],
-      "duration_ms": 185560,
-      "name": "Peque\u00f1a de Ojos Brujos",
-      "url": "https://open.spotify.com/track/5MRrfvswoInWd0XGvvfz6u"
+      "duration_ms": 208875,
+      "name": "La Mujer del Pelotero",
+      "url": "https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -2339,6 +2323,22 @@
       "duration_ms": 166320,
       "name": "El Ahualulco",
       "url": "https://open.spotify.com/track/0goMlu6mNQcj77VQHuLSGr"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
+        "name": "Se Les Pel\u00f3 Baltazar",
+        "url": "https://open.spotify.com/album/0dIeKfbhKl7kGQtgTK12DX"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Romero",
+          "url": "https://open.spotify.com/artist/4tGMxdgFkE1WESNVTIsrgQ"
+        }
+      ],
+      "duration_ms": 185560,
+      "name": "Peque\u00f1a de Ojos Brujos",
+      "url": "https://open.spotify.com/track/5MRrfvswoInWd0XGvvfz6u"
     },
     {
       "added_at": "2023-04-21 19:03:12",

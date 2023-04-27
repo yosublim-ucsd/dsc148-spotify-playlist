@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 26468,
+  "num_followers": 26492,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjMxNTk1NiwwMDAwMDAwMDllMDlhY2Q0NTFlMjc5M2ZhMzRmMmI2NjkyMzMyYWZm",
+  "snapshot_id": "MTY0NjMxNTk1NiwwMDAwMDAwMGIwOTNmOWUxYzRiZDlmYzE4ZTIzODYzNjY1MmI0MTRm",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -147,22 +147,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Sinfonia Della Notte",
-        "url": "https://open.spotify.com/album/1XcxMqr1XRN1h7k07aXpoR"
-      },
-      "artists": [
-        {
-          "name": "Dennis Ferrer",
-          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
-        }
-      ],
-      "duration_ms": 445946,
-      "name": "Sinfonia Della Notte",
-      "url": "https://open.spotify.com/track/14iTtRdW9NJ1K3TKn7KR4T"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Who Dares To Believe In Me",
         "url": "https://open.spotify.com/album/7l46E4hSynmCmaSnVmXHdT"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 491746,
       "name": "Who Dares To Believe In Me?",
       "url": "https://open.spotify.com/track/2orxZZBLXF40hyBDSqqEGb"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Sinfonia Della Notte",
+        "url": "https://open.spotify.com/album/1XcxMqr1XRN1h7k07aXpoR"
+      },
+      "artists": [
+        {
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+        }
+      ],
+      "duration_ms": 445946,
+      "name": "Sinfonia Della Notte",
+      "url": "https://open.spotify.com/track/14iTtRdW9NJ1K3TKn7KR4T"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
-        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
-      },
-      "artists": [
-        {
-          "name": "Club Ultimate",
-          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
-        }
-      ],
-      "duration_ms": 364347,
-      "name": "Carnival '95 - Pride Vocal Mix",
-      "url": "https://open.spotify.com/track/66ktG3wneUTNWw8Byg1p88"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "This Way / Boy",
         "url": "https://open.spotify.com/album/2O0Of8TEl3Ja05ULJYEuW2"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 428760,
       "name": "Boy - MK Deep Dub",
       "url": "https://open.spotify.com/track/0LKLD3Ha9NmM3lPoF2yPj0"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
+        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
+      },
+      "artists": [
+        {
+          "name": "Club Ultimate",
+          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
+        }
+      ],
+      "duration_ms": 364347,
+      "name": "Carnival '95 - Pride Vocal Mix",
+      "url": "https://open.spotify.com/track/66ktG3wneUTNWw8Byg1p88"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Get Up",
-        "url": "https://open.spotify.com/album/7vEb16cbQRZ9EPywWeIgLK"
-      },
-      "artists": [
-        {
-          "name": "Krimp",
-          "url": "https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz"
-        }
-      ],
-      "duration_ms": 410973,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/2zP57ODfOyIIGfjhfK4L5Q"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Dancin' EP",
         "url": "https://open.spotify.com/album/2xa9613s8FJNJ9pt22wQOS"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 731746,
       "name": "Dancin",
       "url": "https://open.spotify.com/track/5U1FlG1YtpjFtM2AHp9u3d"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/7vEb16cbQRZ9EPywWeIgLK"
+      },
+      "artists": [
+        {
+          "name": "Krimp",
+          "url": "https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz"
+        }
+      ],
+      "duration_ms": 410973,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/2zP57ODfOyIIGfjhfK4L5Q"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
-      },
-      "artists": [
-        {
-          "name": "D-Tune",
-          "url": "https://open.spotify.com/artist/26P8hiVKDgo3V5CfdYwSWm"
-        }
-      ],
-      "duration_ms": 337901,
-      "name": "Just An Organ - Just An Organ Mix",
-      "url": "https://open.spotify.com/track/4doXJDmMNk3yVwZcWaTEW2"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Strictly Rhythm Est. 1989: 20 Years of Classics",
         "url": "https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 483750,
       "name": "You Don't Know - MuthaFunkaz Tribute Mix",
       "url": "https://open.spotify.com/track/1wKS5SSnWnCFSX5irtyF17"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
+      },
+      "artists": [
+        {
+          "name": "D-Tune",
+          "url": "https://open.spotify.com/artist/26P8hiVKDgo3V5CfdYwSWm"
+        }
+      ],
+      "duration_ms": 337901,
+      "name": "Just An Organ - Just An Organ Mix",
+      "url": "https://open.spotify.com/track/4doXJDmMNk3yVwZcWaTEW2"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "In Da Clouds",
-        "url": "https://open.spotify.com/album/4JiK0Do2dRT5UK6WpIi6bm"
-      },
-      "artists": [
-        {
-          "name": "Sneak Essentials",
-          "url": "https://open.spotify.com/artist/6WCDD5NXovsM6IGfwII63K"
-        }
-      ],
-      "duration_ms": 518960,
-      "name": "In Da Clouds - Da Dub",
-      "url": "https://open.spotify.com/track/74Rs89DEfIgsSQQfE4Vi1d"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Keep On Jumpin' (feat. Chazzie)",
         "url": "https://open.spotify.com/album/0n0Y0D181bMgshtIJe4Qkd"
       },
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "In Da Clouds",
+        "url": "https://open.spotify.com/album/4JiK0Do2dRT5UK6WpIi6bm"
+      },
+      "artists": [
+        {
+          "name": "Sneak Essentials",
+          "url": "https://open.spotify.com/artist/6WCDD5NXovsM6IGfwII63K"
+        }
+      ],
+      "duration_ms": 518960,
+      "name": "In Da Clouds - Da Dub",
+      "url": "https://open.spotify.com/track/74Rs89DEfIgsSQQfE4Vi1d"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Northern Lights (Mixes)",
         "url": "https://open.spotify.com/album/1OH3So9taAUDVSzzTpwCZI"
       },
@@ -1255,26 +1255,6 @@
       "duration_ms": 479413,
       "name": "Northern Lights - The Prime Cutz Mix",
       "url": "https://open.spotify.com/track/3oGL7qdd5bCUQNdFnbPm5J"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Alright (feat. Earl Bennett)",
-        "url": "https://open.spotify.com/album/76ddqk4TKmBZa7PgHLo4p6"
-      },
-      "artists": [
-        {
-          "name": "B.O.P.",
-          "url": "https://open.spotify.com/artist/4wgHscFAZfZ1SPzvNguxBf"
-        },
-        {
-          "name": "Earl Bennett",
-          "url": "https://open.spotify.com/artist/23RcTVzVbJsEOQYsp4CQKe"
-        }
-      ],
-      "duration_ms": 605306,
-      "name": "Alright (feat. Earl Bennett) - BOP Journey Remix",
-      "url": "https://open.spotify.com/track/7dVPEuz7LSKcjnArcv38uI"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1295,6 +1275,26 @@
       "duration_ms": 228238,
       "name": "Move Your Body (feat. LaVette) - Radio Mix",
       "url": "https://open.spotify.com/track/6fFY4e2cHZ0EMXa0J1cDlD"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Alright (feat. Earl Bennett)",
+        "url": "https://open.spotify.com/album/76ddqk4TKmBZa7PgHLo4p6"
+      },
+      "artists": [
+        {
+          "name": "B.O.P.",
+          "url": "https://open.spotify.com/artist/4wgHscFAZfZ1SPzvNguxBf"
+        },
+        {
+          "name": "Earl Bennett",
+          "url": "https://open.spotify.com/artist/23RcTVzVbJsEOQYsp4CQKe"
+        }
+      ],
+      "duration_ms": 605306,
+      "name": "Alright (feat. Earl Bennett) - BOP Journey Remix",
+      "url": "https://open.spotify.com/track/7dVPEuz7LSKcjnArcv38uI"
     }
   ],
   "unique_name": "Crate Diggin' Strictly Rhythm",

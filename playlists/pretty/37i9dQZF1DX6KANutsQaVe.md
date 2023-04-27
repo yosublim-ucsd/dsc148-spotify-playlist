@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KANutsQaVe.md) - [plain]
 
 > Our editors’ picks for the best of Rock in Canada in 2022.<br/> Cover: TALK \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,565 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,571 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: OHGEESY
 
-[Spotify](https://open.spotify.com/user/spotify) - 713,820 likes - 54 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 713,932 likes - 54 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 43 | [Scarface](https://open.spotify.com/track/41SlxBsxeBBBGcXP2Nvdjg) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU) | [Scarface](https://open.spotify.com/album/2P5n2dXWJqVBWO2ZFgSUOV) | 1:55 |
 | 44 | [Limoncello](https://open.spotify.com/track/1yIJZPDmD1HwxR6SJYYQWA) | [OG DAYV](https://open.spotify.com/artist/2eSQStXY58BrvMNOWJcIrr), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:34 |
 | 45 | [Block Benders](https://open.spotify.com/track/7AGAkXAVM0rXr5fSyEFfR4) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3) | [Block Benders](https://open.spotify.com/album/2RBIoWGKkeBzCeCCuAOmIg) | 2:52 |
-| 46 | [Every Night \(with Baby Money\)](https://open.spotify.com/track/7q1pTqYaDoDiRVIoejwaI9) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [Every Night \(with Baby Money\)](https://open.spotify.com/album/5hg0NN87i3dGPpVQFOoN9f) | 2:10 |
+| 46 | [EVERY NIGHT \(with Baby Money\)](https://open.spotify.com/track/6UJ2iO0XmCwVCJxtLHXoeY) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [Kollect Kall](https://open.spotify.com/album/1l93oDZaNAsTF0GqsRa3m0) | 2:10 |
 | 47 | [Chaka Khan \(feat\. BabyTron\)](https://open.spotify.com/track/33ydbei58nqa2j621WAU5B) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Born To Score](https://open.spotify.com/album/6Nm7qcEY3GsDfOt7Nj6iY3) | 3:05 |
 | 48 | [Like Dat](https://open.spotify.com/track/6k0uXMxdOgkz4w3fCKB2iX) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [Like Dat](https://open.spotify.com/album/12HPKBvQUIpg0c3BfQaeCs) | 2:34 |
 | 49 | [Keep Calling](https://open.spotify.com/track/44p5ZWDBSppOoABrxoH5jU) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Keep Calling](https://open.spotify.com/album/64fH0Mdf8BZGAw3ijFJTLs) | 2:36 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 53 | [Champagne Tears](https://open.spotify.com/track/68KMtOaV3uxUc639uTCoSw) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Champagne Tears](https://open.spotify.com/album/0KljOvQxT7RwZqJ8TdM9Py) | 2:12 |
 | 54 | [Need Love](https://open.spotify.com/track/1Pr1PSWRXycRomdCGCvUU3) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS) | [Need Love](https://open.spotify.com/album/7mcTO6enAPyVjPZgjzehKj) | 2:29 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDIxN2E2NzA4NjliODg5Y2U5ZTIxY2UzOTc2YjMyM2Zi`
+Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDJhMTM4YjNjOTlmMGRiOTk3MDI0OWNlYWVkODVlOWY2`

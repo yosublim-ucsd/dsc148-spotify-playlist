@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 481500,
+  "num_followers": 481653,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA3ODQ2NCwwMDAwMDAwMGFmNDg5YTYwOGRjZDcwODY4ZWY1N2MxYjk3NWIxMWI0",
+  "snapshot_id": "MTY4MjA3ODQ2NCwwMDAwMDAwMDI1YTI0MzdjYzg2MDI3YjQ2MDBhMTdjNWI2YTMxNDlm",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Confessions (Expanded Edition)",
         "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 223440,
       "name": "My Boo",
       "url": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "No Angel",
+        "url": "https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4"
+      },
+      "artists": [
+        {
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+        }
+      ],
+      "duration_ms": 218360,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 249444,
       "name": "After Last Night (with Thundercat & Bootsy Collins)",
       "url": "https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "No Angel",
-        "url": "https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4"
-      },
-      "artists": [
-        {
-          "name": "Dido",
-          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
-        }
-      ],
-      "duration_ms": 218360,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -961,6 +961,22 @@
       "url": "https://open.spotify.com/track/6CLVh9sekZ1p2G8Tfhhj8h"
     },
     {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Stop All the World Now (Special Edition)",
+        "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
+      },
+      "artists": [
+        {
+          "name": "Howie Day",
+          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Collide - Acoustic Version",
+      "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
+    },
+    {
       "added_at": "2023-04-14 07:38:09",
       "album": {
         "name": "3000\u00b0",
@@ -979,22 +995,6 @@
       "duration_ms": 202755,
       "name": "I'm Baby (ft. Jvck James)",
       "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Stop All the World Now (Special Edition)",
-        "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
-      },
-      "artists": [
-        {
-          "name": "Howie Day",
-          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Collide - Acoustic Version",
-      "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Take It All Away (U.S. Version)",
-        "url": "https://open.spotify.com/album/78IbgGcKueK33SETMOQfaj"
-      },
-      "artists": [
-        {
-          "name": "Ryan Cabrera",
-          "url": "https://open.spotify.com/artist/3C4t1usFGoKHCSRdujm2GN"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "True",
-      "url": "https://open.spotify.com/track/0jdeV5dSB3kUBRqe1xQJbh"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 271226,
       "name": "Hometown Glory",
       "url": "https://open.spotify.com/track/19QzuPTNZHJ2SEu5LCQTGI"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Take It All Away (U.S. Version)",
+        "url": "https://open.spotify.com/album/78IbgGcKueK33SETMOQfaj"
+      },
+      "artists": [
+        {
+          "name": "Ryan Cabrera",
+          "url": "https://open.spotify.com/artist/3C4t1usFGoKHCSRdujm2GN"
+        }
+      ],
+      "duration_ms": 204173,
+      "name": "True",
+      "url": "https://open.spotify.com/track/0jdeV5dSB3kUBRqe1xQJbh"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/052xFq8blHwU5tv1kjeiak"
-      },
-      "artists": [
-        {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/2Cj2XFOMBT8IrT0aapNTee"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Bridge Back to Your Heart",
         "url": "https://open.spotify.com/album/0nB2e6ErWY7Lpyup9izYVA"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 261279,
       "name": "Bridge Back to Your Heart",
       "url": "https://open.spotify.com/track/6jxSnB1k1naHtdJNCdzZqk"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/052xFq8blHwU5tv1kjeiak"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/2Cj2XFOMBT8IrT0aapNTee"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2261,6 +2261,22 @@
       "url": "https://open.spotify.com/track/2jcGfz4bpHaOCvrcd9IHn9"
     },
     {
+      "added_at": "2023-04-21 12:00:54",
+      "album": {
+        "name": "Suburbs",
+        "url": "https://open.spotify.com/album/3JMtpQSg6CVRKOBGXyeVYA"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 150874,
+      "name": "Suburbs",
+      "url": "https://open.spotify.com/track/0kk79yhXBFlg7KyVg5bWyr"
+    },
+    {
       "added_at": "2023-02-10 11:00:00",
       "album": {
         "name": "everytime we fall",
@@ -2279,22 +2295,6 @@
       "duration_ms": 189497,
       "name": "everytime we fall",
       "url": "https://open.spotify.com/track/2Y1Uszl2U8QdwOLtizvUUI"
-    },
-    {
-      "added_at": "2023-04-21 12:00:54",
-      "album": {
-        "name": "Suburbs",
-        "url": "https://open.spotify.com/album/3JMtpQSg6CVRKOBGXyeVYA"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 150874,
-      "name": "Suburbs",
-      "url": "https://open.spotify.com/track/0kk79yhXBFlg7KyVg5bWyr"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Accidentally On Purpose",
-        "url": "https://open.spotify.com/album/5Oa2ntjwl4Ao49v9ArJCti"
-      },
-      "artists": [
-        {
-          "name": "The Shires",
-          "url": "https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3"
-        }
-      ],
-      "duration_ms": 197706,
-      "name": "World Without You",
-      "url": "https://open.spotify.com/track/3Lwl2ZFocL6hNMgfSuLrQ0"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Eyes on You",
         "url": "https://open.spotify.com/album/1EyIaOsVGxxr2LKxlxCH9Q"
       },
@@ -2411,6 +2395,22 @@
       "duration_ms": 168080,
       "name": "Eyes on You",
       "url": "https://open.spotify.com/track/5ewnuTcT10UI7zOx3OWRmQ"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Accidentally On Purpose",
+        "url": "https://open.spotify.com/album/5Oa2ntjwl4Ao49v9ArJCti"
+      },
+      "artists": [
+        {
+          "name": "The Shires",
+          "url": "https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "World Without You",
+      "url": "https://open.spotify.com/track/3Lwl2ZFocL6hNMgfSuLrQ0"
     },
     {
       "added_at": "2023-04-21 12:01:04",
@@ -2447,22 +2447,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ"
-      },
-      "artists": [
-        {
-          "name": "Elle Eliades",
-          "url": "https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Rebekah - EP",
         "url": "https://open.spotify.com/album/3No7OQimFOoY0koAyPnqfH"
       },
@@ -2475,6 +2459,22 @@
       "duration_ms": 200747,
       "name": "Rebekah",
       "url": "https://open.spotify.com/track/18RQoXcen7pcKhFreuN02y"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ"
+      },
+      "artists": [
+        {
+          "name": "Elle Eliades",
+          "url": "https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2495,6 +2495,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Song For A Friend",
+        "url": "https://open.spotify.com/album/5QSrxF1V37uujwGsZdYy4I"
+      },
+      "artists": [
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "duration_ms": 236478,
+      "name": "Song For A Friend",
+      "url": "https://open.spotify.com/track/52xQMyCABMvx7nSoPZXeSV"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/1c6rZYnAwbqtP143pk75SL"
       },
@@ -2507,22 +2523,6 @@
       "duration_ms": 221612,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/4rbF4dsT1wGGBfzYD5QvlY"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Heights",
-        "url": "https://open.spotify.com/album/0XDFAkZ0lguLrmkJlq0bRp"
-      },
-      "artists": [
-        {
-          "name": "Only Girl",
-          "url": "https://open.spotify.com/artist/2ZkQAcKkFO60QQybtXDStt"
-        }
-      ],
-      "duration_ms": 226750,
-      "name": "Heights",
-      "url": "https://open.spotify.com/track/6AeMqCW8yvsUlPbC2euMON"
     }
   ],
   "unique_name": "Spooning",

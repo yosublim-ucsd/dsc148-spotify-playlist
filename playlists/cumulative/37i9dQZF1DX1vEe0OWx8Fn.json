@@ -2638,10 +2638,28 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 187696,
       "name": "The News",
       "url": "https://open.spotify.com/track/02oTRx0v3GloOe5VJZgjC7"
+    },
+    {
+      "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187696,
+      "name": "The News",
+      "url": "https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm"
     },
     {
       "album": {

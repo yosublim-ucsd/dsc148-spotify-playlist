@@ -276,6 +276,24 @@
     {
       "album": {
         "name": "After You've Gone",
+        "url": "https://open.spotify.com/album/2xWwdUCyFng2oWhP6MeuUy"
+      },
+      "artists": [
+        {
+          "name": "Jonas Olofsson",
+          "url": "https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "After You've Gone",
+      "url": "https://open.spotify.com/track/7If1cSPSy5zpDFxNTYzHRs"
+    },
+    {
+      "album": {
+        "name": "After You've Gone",
         "url": "https://open.spotify.com/album/5AqFZGWYwyvmg8t8EyvG1i"
       },
       "artists": [
@@ -3314,7 +3332,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 148538,
       "name": "I\u2019m Sentimental, After All",
       "url": "https://open.spotify.com/track/529n27BE2TPAhHMHfmlE2B"
@@ -4888,7 +4906,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 229756,
       "name": "Remembering Benny",
       "url": "https://open.spotify.com/track/7HFXTKZhD4wsko0rty1WIk"
@@ -6646,7 +6664,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 134488,
       "name": "Waltz For Ola",
       "url": "https://open.spotify.com/track/01Lv5YnZl96AjZju2KWu63"

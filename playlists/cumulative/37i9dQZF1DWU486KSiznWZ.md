@@ -4,7 +4,7 @@
 
 > اكتشفوا أفضل الاغاني الخليجية <br/>الغلاف:ماجد المهندس
 
-117 songs - 8 hr 13 min
+119 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [AlNeskha AlJadeeda](https://open.spotify.com/track/3GLLxqMO9eL5eoHuySMQGR) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [AlNeskha AlJadeeda](https://open.spotify.com/album/1TpetQdfC6a5nZEK75VvLL) | 4:00 | 2022-12-08 | 2023-02-15 |
 | [Ashan Al Eshrah \(6\)](https://open.spotify.com/track/0Qw2eL45SZkglxhnb1R0m9) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Kol El Khata](https://open.spotify.com/album/4nKtbyAZFU6hu8lZAztO7c) | 4:37 | 2022-10-04 |  |
 | [Bahjat ALkhater](https://open.spotify.com/track/3eReZhyR5JIDiRN1kxxHOl) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Bahjat ALkhater](https://open.spotify.com/album/4UmJoi5HlTPVDeWuDQWgpx) | 4:32 | 2022-04-07 | 2023-04-21 |
+| [Bel Salamah](https://open.spotify.com/track/6BPAlkPIa5LDBrJ2FzT6vl) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Bel Salamah](https://open.spotify.com/album/7us6HjjHLdI7eHRzHEfzSx) | 5:37 | 2023-04-26 |  |
 | [Chokran](https://open.spotify.com/track/77JDzVjytmCZH8xIWmCY3l) | [Jamila](https://open.spotify.com/artist/7K0Se2JHfaWPp6OUS2gvgI), [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [Chokran](https://open.spotify.com/album/09wY9vArfB6xzsNaRfwuZ1) | 3:34 | 2022-04-07 | 2022-10-05 |
 | [Da Elly 7sal \- دا اللي حصل](https://open.spotify.com/track/5eRUK0x3XJSbrk57aET9aX) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Da Elly 7sal \(دا اللي حصل\)](https://open.spotify.com/album/0Vw2fBg9gnCfKIBwfiS4JO) | 4:12 | 2023-02-24 |  |
 | [Da3it Allah](https://open.spotify.com/track/5lcuSQuICbP7C6X9EtBhlv) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Da3it Allah](https://open.spotify.com/album/71klQgQA3xV0HdXMGOr4W7) | 4:28 | 2022-10-04 |  |
@@ -37,6 +38,7 @@
 | [Ghazal Ma Yensady](https://open.spotify.com/track/5EKVL6XHsGCWeMik7XBMh8) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [Ghazal Ma Yensady](https://open.spotify.com/album/1llAZW89HSt3gIZ0UOcLHI) | 6:35 | 2022-04-07 |  |
 | [Hack Hack](https://open.spotify.com/track/27JHTW5VmpCueQEwmDyDlH) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Hack Hack](https://open.spotify.com/album/3p62UPcu6BlVklA1VtCLe5) | 4:17 | 2022-04-07 | 2023-04-21 |
 | [Hatet Yadak](https://open.spotify.com/track/0hnemjZiAz2E1jg83hsQl0) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Hatet Yadak](https://open.spotify.com/album/2yvDoecCouFgoSA8u84OJ7) | 4:32 | 2022-04-07 | 2023-01-25 |
+| [Hawah Al Galb](https://open.spotify.com/track/5BlZZscTZ3xbYVPbvqYOK2) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Hawah Al Galb](https://open.spotify.com/album/3EnxQsWBV0QcyMkgxDEdIT) | 3:16 | 2023-04-26 |  |
 | [Hkomt Hob](https://open.spotify.com/track/5hWczJhh8ERWxNHert1egA) | [El Jawhara](https://open.spotify.com/artist/2k5Q8DihfnjhLXPUej8A5l) | [Hkomt Hob](https://open.spotify.com/album/1hlvdo7MrHcC1LImgvNOPX) | 4:32 | 2022-04-07 | 2022-07-09 |
 | [Kebryaa Wa Shmookh](https://open.spotify.com/track/1RO1yZjUMItbF3Vq60XtDh) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie) | [Kebryaa Wa Shmookh](https://open.spotify.com/album/3yRAizctgFimatuWrU7x68) | 4:00 | 2022-04-07 | 2023-04-21 |
 | [Kent Ahebik](https://open.spotify.com/track/7M4naaZsceXAjDUZ7XNZ8g) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Kent Ahebik](https://open.spotify.com/album/1XO27ea0qJbAW3ntk0Plz4) | 2:57 | 2022-04-07 | 2022-06-09 |

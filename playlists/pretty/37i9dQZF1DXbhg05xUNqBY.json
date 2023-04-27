@@ -1,12 +1,12 @@
 {
   "description": "Breathe deep, and relax with the softer side of Christian music.",
-  "num_followers": 300615,
+  "num_followers": 300872,
   "original_name": "Calming Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTc5MTc4MiwwMDAwMDAwMGQ1MWIzNDNiZjk4NzljNWQ3ODM0YjYyM2Y1M2RmOTRl",
+  "snapshot_id": "MTY3NTc5MTc4MiwwMDAwMDAwMGExZTg1YzdiNjM3Y2Q0OTVmZDJkYjc2NDc3MWIyN2M3",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:02",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/4UycA6we6inG3usBonCkN5"
-      },
-      "artists": [
-        {
-          "name": "Lydia Laird",
-          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/47GwIvmWNwmzurul1rFyJ2"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Just Like Heaven",
         "url": "https://open.spotify.com/album/1ZQderlUe4quEPiuuZqADk"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 336572,
       "name": "Just Like Heaven",
       "url": "https://open.spotify.com/track/79C3lXRjQvLCSPHeTfy52k"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/4UycA6we6inG3usBonCkN5"
+      },
+      "artists": [
+        {
+          "name": "Lydia Laird",
+          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/47GwIvmWNwmzurul1rFyJ2"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 156270,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/0I5r1VOxCdRdmAnBkTcBFS"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Keep On Hoping",
         "url": "https://open.spotify.com/album/0tuOmgWScGIS1kjzutqYHo"
       },
@@ -899,18 +883,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "When I Say Amen",
-        "url": "https://open.spotify.com/album/1OnvG3dApeM5v61vNW3yUZ"
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
       },
       "artists": [
         {
-          "name": "Rachel Wammack",
-          "url": "https://open.spotify.com/artist/5QpNKnsD0biAkM2sHA7OXR"
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
         }
       ],
-      "duration_ms": 208626,
-      "name": "When I Say Amen",
-      "url": "https://open.spotify.com/track/72dkOjbNYK7xOstSxUiguh"
+      "duration_ms": 156270,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/0I5r1VOxCdRdmAnBkTcBFS"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -931,6 +915,22 @@
       "duration_ms": 209739,
       "name": "Rest On Us",
       "url": "https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "When I Say Amen",
+        "url": "https://open.spotify.com/album/1OnvG3dApeM5v61vNW3yUZ"
+      },
+      "artists": [
+        {
+          "name": "Rachel Wammack",
+          "url": "https://open.spotify.com/artist/5QpNKnsD0biAkM2sHA7OXR"
+        }
+      ],
+      "duration_ms": 208626,
+      "name": "When I Say Amen",
+      "url": "https://open.spotify.com/track/72dkOjbNYK7xOstSxUiguh"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
+        "name": "Omnipotent Yet Intimate",
+        "url": "https://open.spotify.com/album/4qUDEpOHh14cpHgKrFLabN"
+      },
+      "artists": [
+        {
+          "name": "Ben Potter",
+          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
+        },
+        {
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
+        }
+      ],
+      "duration_ms": 279107,
+      "name": "Omnipotent Yet Intimate",
+      "url": "https://open.spotify.com/track/6gveqMRdyw6wxWgmSKW4vT"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
         "name": "Be My Shalom",
         "url": "https://open.spotify.com/album/5Q3pr1K8HU2taEjuQavQac"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 232687,
       "name": "Ever Closer",
       "url": "https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
-        "name": "Omnipotent Yet Intimate",
-        "url": "https://open.spotify.com/album/4qUDEpOHh14cpHgKrFLabN"
-      },
-      "artists": [
-        {
-          "name": "Ben Potter",
-          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
-        },
-        {
-          "name": "Elyssa Smith",
-          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
-        }
-      ],
-      "duration_ms": 279107,
-      "name": "Omnipotent Yet Intimate",
-      "url": "https://open.spotify.com/track/6gveqMRdyw6wxWgmSKW4vT"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Whisper (Acoustic Sessions)",
-        "url": "https://open.spotify.com/album/3njl0Jd9S5nSGIYJxp5UuT"
+        "name": "Providence",
+        "url": "https://open.spotify.com/album/16PEcahwDYpgyENSSIBPfN"
       },
       "artists": [
         {
-          "name": "Stillman",
-          "url": "https://open.spotify.com/artist/7oiurd2k5JbvCNjP3PWKTH"
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
         }
       ],
-      "duration_ms": 267754,
-      "name": "Whisper (Acoustic)",
-      "url": "https://open.spotify.com/track/73ZcbnETkq6chgu1RhVULY"
+      "duration_ms": 378379,
+      "name": "Providence",
+      "url": "https://open.spotify.com/track/7G8ZEE8HmuPPfy5JE5PE8b"
     }
   ],
   "unique_name": "Calming Christian",

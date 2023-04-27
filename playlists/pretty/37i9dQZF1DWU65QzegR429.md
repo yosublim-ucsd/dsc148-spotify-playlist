@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 
 > Latin music making waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,767 likes - 59 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,795 likes - 59 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 18 | [Los Angeles](https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sweet & Sour](https://open.spotify.com/album/006vB71xTBRqzQREjfYREf) | 2:43 |
 | 19 | [Morena](https://open.spotify.com/track/4oZaZ7tGQ8EXVlsd2wXWQ0) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Lil Silvio & El Vega](https://open.spotify.com/artist/53F3cdrVpYq5iM4iaa6AQ3), [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Morena](https://open.spotify.com/album/2tyL1zXbNKyMCCYYgwa3UP) | 4:02 |
 | 20 | [Si La Calle Llama \- Remix](https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 4:00 |
-| 21 | [Luces](https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Luces](https://open.spotify.com/album/7rnxldpaYk6eyIZQcriFrW) | 3:45 |
-| 22 | [Culo Chapa \(feat\. La Perversa, Quimico Ultra Mega & Haraca Kiko\)](https://open.spotify.com/track/045pZE1F4PGpwHygQLbLXb) | [Malu Trevejo](https://open.spotify.com/artist/58GNHTqgNesANvRuoKzCwX), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh) | [Culo Chapa \(feat\. La Perversa, Quimico Ultra Mega & Haraca Kiko\)](https://open.spotify.com/album/7yp999HIsMUanMsvLUq6Ni) | 2:30 |
+| 21 | [Culo Chapa \(feat\. La Perversa, Quimico Ultra Mega & Haraca Kiko\)](https://open.spotify.com/track/045pZE1F4PGpwHygQLbLXb) | [Malu Trevejo](https://open.spotify.com/artist/58GNHTqgNesANvRuoKzCwX), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh) | [Culo Chapa \(feat\. La Perversa, Quimico Ultra Mega & Haraca Kiko\)](https://open.spotify.com/album/7yp999HIsMUanMsvLUq6Ni) | 2:30 |
+| 22 | [Luces](https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Luces](https://open.spotify.com/album/7rnxldpaYk6eyIZQcriFrW) | 3:45 |
 | 23 | [Taka Taka](https://open.spotify.com/track/03zJF1SQSX2sRwILa06p3E) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4) | [Taka Taka](https://open.spotify.com/album/32yqnJvhVOIw6BPqDdTD8G) | 2:35 |
 | 24 | [Rosa Melo](https://open.spotify.com/track/7cd4zZ97AjsD9AbU0zZQxI) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [Rosa Melo](https://open.spotify.com/album/11sm82wbfZzdTvxTA5NsoX) | 2:44 |
 | 25 | [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 39 | [Betty](https://open.spotify.com/track/4vjxTax1lQvczaIlyVx5ME) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [Betty](https://open.spotify.com/album/7kRpm1Ax9vG5Mc3ISEF9ve) | 2:53 |
 | 40 | [Para Mi](https://open.spotify.com/track/4DW0XUPnGT6hWuJYZxErVX) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Para Mi](https://open.spotify.com/album/4xALKUOR6fodvNlUKaOHti) | 3:37 |
 | 41 | [Sugar Boi](https://open.spotify.com/track/4wSGokexiP0n1wfGZALMLi) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Sugar Boi](https://open.spotify.com/album/6ZompWFaxtNkSguDPSVszb) | 2:54 |
-| 42 | [Si Tu Quieres](https://open.spotify.com/track/3yC4gzNRrycuufTcRPSRx2) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Si Tu Quieres](https://open.spotify.com/album/6uRf20wqSSfYmjwSC6wuYT) | 2:49 |
-| 43 | [Kilo Kilo](https://open.spotify.com/track/6QBrMT3F1gAcvdS7wIEeFO) | [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [Haters y Fanáticos](https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb) | 4:10 |
+| 42 | [Kilo Kilo](https://open.spotify.com/track/6QBrMT3F1gAcvdS7wIEeFO) | [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [Haters y Fanáticos](https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb) | 4:10 |
+| 43 | [Si Tu Quieres](https://open.spotify.com/track/3yC4gzNRrycuufTcRPSRx2) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Si Tu Quieres](https://open.spotify.com/album/6uRf20wqSSfYmjwSC6wuYT) | 2:49 |
 | 44 | [Holy Ghost $$$](https://open.spotify.com/track/4JNxvjgaJyYdRAc1yhUPKj) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq) | [Holy Ghost $$$](https://open.spotify.com/album/4pWMN5lBEFrwZde1kdCqrh) | 2:37 |
 | 45 | [94](https://open.spotify.com/track/6vsAfEwT8L9xsiSfXNnHpN) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [94](https://open.spotify.com/album/67g5mVEDHMS25aITr7hjGf) | 2:33 |
 | 46 | [Maya](https://open.spotify.com/track/0FcOIIBRs6eW2YGonS4z9r) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [Maya](https://open.spotify.com/album/7pXHSP4BzhDOQvm6W3k00v) | 3:07 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 58 | [Yo Soy De PR](https://open.spotify.com/track/2YDcWtjC6zKfx3NYHR5SKW) | [Jey Blessing](https://open.spotify.com/artist/1MVP5iQH6wMKZuOn41UHOB), [Los Fantastikos](https://open.spotify.com/artist/0jaakjO6cMB5cJLeoa5aV2) | [Yo Soy De PR](https://open.spotify.com/album/4S35csP0ALLI8p1aNlqSj5) | 3:21 |
 | 59 | [Deja Que Te Lleve](https://open.spotify.com/track/1cOCvJSFjmdvh4ByUGZf2V) | [Sessi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Deja Que Te Lleve](https://open.spotify.com/album/36mgrUsQbHrpFcR7gA914n) | 3:23 |
 
-Snapshot ID: `MTY4MTkyNjQwNiwwMDAwMDAwMDY0MDY0ZWRhOWVjZGMzMzRkY2ZlMjdmNWU1NWQ4MDMw`
+Snapshot ID: `MTY4MTkyNjQwNiwwMDAwMDAwMGQzMTg1YjU4OGE1ODU4M2FjMDJhYmE3MGU2OThkMjM3`

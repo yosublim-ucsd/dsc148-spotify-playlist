@@ -1,12 +1,12 @@
 {
   "description": "Take it easy with these laid back tracks from the eighties...",
-  "num_followers": 1232942,
+  "num_followers": 1233198,
   "original_name": "Easy 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUwNzAxMCwwMDAwMDAwMGQ2YTJmNTQzZThjYTJmZGJmNmQ2Y2EyZTdmODM5ZDRj",
+  "snapshot_id": "MTY0MjUwNzAxMCwwMDAwMDAwMDk4YjI2NzExZmUwZmMyMTdlNGY2ZWNhNmQzNGI2OWM5",
   "tracks": [
     {
       "added_at": "2020-07-08 17:45:56",
@@ -315,22 +315,6 @@
     {
       "added_at": "2020-07-08 17:45:56",
       "album": {
-        "name": "Into The Light",
-        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
-      },
-      "artists": [
-        {
-          "name": "Chris de Burgh",
-          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "The Lady In Red",
-      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
-    },
-    {
-      "added_at": "2020-07-08 17:45:56",
-      "album": {
         "name": "H2O",
         "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 273173,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
+    },
+    {
+      "added_at": "2020-07-08 17:45:56",
+      "album": {
+        "name": "Into The Light",
+        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
+      },
+      "artists": [
+        {
+          "name": "Chris de Burgh",
+          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "The Lady In Red",
+      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
     },
     {
       "added_at": "2020-07-08 17:45:56",
@@ -395,22 +395,6 @@
     {
       "added_at": "2020-07-08 17:45:56",
       "album": {
-        "name": "Tracy Chapman",
-        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
-      },
-      "artists": [
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        }
-      ],
-      "duration_ms": 193120,
-      "name": "Baby Can I Hold You",
-      "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
-    },
-    {
-      "added_at": "2020-07-08 17:45:56",
-      "album": {
         "name": "Self Control",
         "url": "https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 246440,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
+    },
+    {
+      "added_at": "2020-07-08 17:45:56",
+      "album": {
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "duration_ms": 193120,
+      "name": "Baby Can I Hold You",
+      "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
     },
     {
       "added_at": "2020-07-08 17:45:56",
@@ -683,22 +683,6 @@
     {
       "added_at": "2020-07-08 17:45:56",
       "album": {
-        "name": "Alannah Myles",
-        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
-      },
-      "artists": [
-        {
-          "name": "Alannah Myles",
-          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
-        }
-      ],
-      "duration_ms": 287440,
-      "name": "Black Velvet",
-      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
-    },
-    {
-      "added_at": "2020-07-08 17:45:56",
-      "album": {
         "name": "4 (Expanded)",
         "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 292066,
       "name": "Waiting for a Girl like You",
       "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
+    },
+    {
+      "added_at": "2020-07-08 17:45:56",
+      "album": {
+        "name": "Alannah Myles",
+        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
+      },
+      "artists": [
+        {
+          "name": "Alannah Myles",
+          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
+        }
+      ],
+      "duration_ms": 287440,
+      "name": "Black Velvet",
+      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
     },
     {
       "added_at": "2020-07-08 17:45:56",
@@ -867,6 +867,22 @@
     {
       "added_at": "2020-07-08 17:45:56",
       "album": {
+        "name": "Welcome To The Real World",
+        "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
+      },
+      "artists": [
+        {
+          "name": "Mr. Mister",
+          "url": "https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ"
+        }
+      ],
+      "duration_ms": 343933,
+      "name": "Broken Wings",
+      "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
+    },
+    {
+      "added_at": "2020-07-08 17:45:56",
+      "album": {
         "name": "The Visitors (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5GByGaws7Cw0t28kjvAOzV"
       },
@@ -899,22 +915,6 @@
     {
       "added_at": "2020-07-08 17:45:56",
       "album": {
-        "name": "Welcome To The Real World",
-        "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
-      },
-      "artists": [
-        {
-          "name": "Mr. Mister",
-          "url": "https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ"
-        }
-      ],
-      "duration_ms": 343933,
-      "name": "Broken Wings",
-      "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
-    },
-    {
-      "added_at": "2020-07-08 17:45:56",
-      "album": {
         "name": "The Final Countdown (Expanded Edition)",
         "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
       },
@@ -931,22 +931,6 @@
     {
       "added_at": "2020-07-08 17:45:56",
       "album": {
-        "name": "The Game (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 163373,
-      "name": "Crazy Little Thing Called Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw"
-    },
-    {
-      "added_at": "2020-07-08 17:45:56",
-      "album": {
         "name": "Soul Provider",
         "url": "https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 255666,
       "name": "How Am I Supposed to Live Without You",
       "url": "https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz"
+    },
+    {
+      "added_at": "2020-07-08 17:45:56",
+      "album": {
+        "name": "The Game (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 163373,
+      "name": "Crazy Little Thing Called Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw"
     },
     {
       "added_at": "2020-07-08 17:45:56",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2020-07-08 17:45:56",
       "album": {
-        "name": "True - The Digital E.P.",
-        "url": "https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn"
-      },
-      "artists": [
-        {
-          "name": "Spandau Ballet",
-          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
-        }
-      ],
-      "duration_ms": 329146,
-      "name": "True - Single Edit",
-      "url": "https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1"
-    },
-    {
-      "added_at": "2020-07-08 17:45:56",
-      "album": {
         "name": "Whitney Houston",
         "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 238466,
       "name": "Saving All My Love for You",
       "url": "https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG"
+    },
+    {
+      "added_at": "2020-07-08 17:45:56",
+      "album": {
+        "name": "True - The Digital E.P.",
+        "url": "https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn"
+      },
+      "artists": [
+        {
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+        }
+      ],
+      "duration_ms": 329146,
+      "name": "True - Single Edit",
+      "url": "https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1"
     },
     {
       "added_at": "2020-07-08 17:45:56",

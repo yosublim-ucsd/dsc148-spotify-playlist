@@ -4,7 +4,7 @@
 
 > Aquele som que é pura brisa\. 🍃 Foto: Cynthia Luz, ZAAC
 
-229 songs - 12 hr 17 min
+230 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,8 @@
 | [Nós Dois](https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne) | [NALAH](https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8) | [Nós Dois](https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY) | 2:27 | 2022-05-23 |  |
 | [O Agora](https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU) | [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Dj Codi](https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv) | [O Agora](https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC) | 3:14 | 2022-05-23 |  |
 | [O Que Você Quiser](https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [O Que Você Quiser](https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk) | 2:56 | 2022-05-23 |  |
-| [O Sol Se Foi](https://open.spotify.com/track/6Q8gVWcgLoNo0b2aamVyp2) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Ato 1: TODAMANHÃ](https://open.spotify.com/album/4c2wwlgbTHER3fxe6TzDlZ) | 3:17 | 2023-04-14 |  |
+| [O Sol Se Foi](https://open.spotify.com/track/63O49HqHh3bmVpO82Z2DVE) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Ato 1: TODAMANHÃ](https://open.spotify.com/album/5caF5n4dvpJv0BsqEOJnA7) | 3:17 | 2023-04-17 |  |
+| [O Sol Se Foi](https://open.spotify.com/track/6Q8gVWcgLoNo0b2aamVyp2) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Ato 1: TODAMANHÃ](https://open.spotify.com/album/4c2wwlgbTHER3fxe6TzDlZ) | 3:17 | 2023-04-14 | 2023-04-27 |
 | [Onde Você Mora](https://open.spotify.com/track/7qpSEfTO2686bD0th4KEEM) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Keviin](https://open.spotify.com/artist/3IMEatbnQs6Sumu77hmtOr) | [Onde Você Mora](https://open.spotify.com/album/5zYpZmVSr81MqPSyyDEpHq) | 4:13 | 2022-05-23 |  |
 | [Ontem](https://open.spotify.com/track/4ub33dXwwV4pSLMsfy8wqv) | [Kalli](https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Ontem](https://open.spotify.com/album/1fM60WYCiwVdzItKBMQxrJ) | 2:43 | 2022-05-23 | 2022-10-29 |
 | [Onça Sessions \#2 \- Sobe Adrenalina](https://open.spotify.com/track/4ohl1Edvlp5BNF03lAwGO7) | [Onça Sessions](https://open.spotify.com/artist/1xVwlSBWBrYAuwIBKIKUbr), [Raffa Mogi](https://open.spotify.com/artist/1GzNbVSgVruCtWjQAHVKYF), [Ronan Romma](https://open.spotify.com/artist/5Qq4LMkTlirnIjO16ZRdvt), [Bean](https://open.spotify.com/artist/5YgYMgQNJZPXatzG24aIhj), [Milani](https://open.spotify.com/artist/7E586myT1Oq6eZf8czh9qO), [Mc Arthur](https://open.spotify.com/artist/69IZAnKubpzMZlUG602sBN) | [Onça Sessions \#2 \- Sobe Adrenalina](https://open.spotify.com/album/5gVDwlM3V4T8Qzxt1fX2vG) | 5:25 | 2022-06-03 | 2022-09-13 |

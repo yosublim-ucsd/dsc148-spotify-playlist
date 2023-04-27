@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/druski/?hl=en\">Druski</a>",
-  "num_followers": 17755,
+  "num_followers": 17840,
   "original_name": "Druski's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGQ0MjZmNWJmY2MyYjM5NDkzMDU1ZWJlNmRlMDQ0MTNm",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDNkMzM2ZWI2MzFjMmE2ZGNhNDQyNDA4MzQ1NzRlZDYz",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -539,18 +539,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/3z9LLbRZaaUAPdlyQvm2xQ"
+        "name": "Gucci Mane Presents: So Icy Summer",
+        "url": "https://open.spotify.com/album/7hEgFnAICf8FqaERqmehOT"
       },
       "artists": [
         {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
         }
       ],
-      "duration_ms": 87040,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/5PtmUKEIJPOw0Few8yUXVe"
+      "duration_ms": 177110,
+      "name": "7.62 God",
+      "url": "https://open.spotify.com/track/7w77k7yCaDOMe25fYxnzit"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -579,18 +579,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Gucci Mane Presents: So Icy Summer",
-        "url": "https://open.spotify.com/album/7hEgFnAICf8FqaERqmehOT"
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/3z9LLbRZaaUAPdlyQvm2xQ"
       },
       "artists": [
         {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
         }
       ],
-      "duration_ms": 177110,
-      "name": "7.62 God",
-      "url": "https://open.spotify.com/track/7w77k7yCaDOMe25fYxnzit"
+      "duration_ms": 87040,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/5PtmUKEIJPOw0Few8yUXVe"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -871,26 +871,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Time's Up",
-        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        }
-      ],
-      "duration_ms": 155933,
-      "name": "Big FlexHer",
-      "url": "https://open.spotify.com/track/6Yw5G6x9tiuwzhgTiQtafh"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Slime Language 2 (Deluxe)",
         "url": "https://open.spotify.com/album/3XADnbi4uhYXb7RuSJ7bre"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 203786,
       "name": "Mob Ties Remix (feat. Unfoonk, 24Heavy, Future & YTB Trench)",
       "url": "https://open.spotify.com/track/2PfqoDotCBeNygVVdTU3rN"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Time's Up",
+        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "duration_ms": 155933,
+      "name": "Big FlexHer",
+      "url": "https://open.spotify.com/track/6Yw5G6x9tiuwzhgTiQtafh"
     },
     {
       "added_at": "2022-10-01 16:00:00",

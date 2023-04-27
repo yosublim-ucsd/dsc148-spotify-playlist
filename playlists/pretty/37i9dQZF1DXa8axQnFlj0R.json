@@ -1,12 +1,12 @@
 {
   "description": "let me hold both your hands in the holes of my sweater",
-  "num_followers": 70462,
+  "num_followers": 70442,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDAwNzc1NywwMDAwMDAwMDA2ZmE2MGI0YjFjZWI5OGE4ZWFiNmI1NGE2MDcwY2Nj",
+  "snapshot_id": "MTY3MDAwNzc1NywwMDAwMDAwMDIxNDgwZTVhNmM1NDkyM2JhYWQ1ZmI3OGU1ZWZlNTUw",
   "tracks": [
     {
       "added_at": "2022-12-02 19:02:37",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "Hypersonic Missiles",
-        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 236653,
-      "name": "Two People",
-      "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
-    },
-    {
-      "added_at": "2022-12-02 19:02:37",
-      "album": {
         "name": "Unfortunate Love",
         "url": "https://open.spotify.com/album/67aV8hBRcZ0irSncujuXA6"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 226582,
       "name": "Unfortunate Love",
       "url": "https://open.spotify.com/track/5Syb5fDjejlzXhwHhEFVzq"
+    },
+    {
+      "added_at": "2022-12-02 19:02:37",
+      "album": {
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 236653,
+      "name": "Two People",
+      "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
     },
     {
       "added_at": "2022-12-02 19:02:37",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "Fake Plastic Trees",
-        "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Fake Plastic Trees",
-      "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
-    },
-    {
-      "added_at": "2022-12-02 19:02:37",
-      "album": {
         "name": "Devon or Las Vegas",
         "url": "https://open.spotify.com/album/2iBH65jlLWmkzAAkqu0Ade"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 260000,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/4s3G9Ifc1dp8xEksZxNe8P"
+    },
+    {
+      "added_at": "2022-12-02 19:02:37",
+      "album": {
+        "name": "Fake Plastic Trees",
+        "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Fake Plastic Trees",
+      "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
     },
     {
       "added_at": "2022-12-02 19:02:37",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "Collections From The Whiteout",
-        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 151240,
-      "name": "Rookery",
-      "url": "https://open.spotify.com/track/3a2PR9xITzp6NU7tBJfi2T"
-    },
-    {
-      "added_at": "2022-12-02 19:02:37",
-      "album": {
         "name": "Mountaineer",
         "url": "https://open.spotify.com/album/5AtMxNyGbY4sJnEyFbbig7"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 221875,
       "name": "Mountaineer",
       "url": "https://open.spotify.com/track/6qgiIu9Up7oDWfQnaajvy3"
+    },
+    {
+      "added_at": "2022-12-02 19:02:37",
+      "album": {
+        "name": "Collections From The Whiteout",
+        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 151240,
+      "name": "Rookery",
+      "url": "https://open.spotify.com/track/3a2PR9xITzp6NU7tBJfi2T"
     },
     {
       "added_at": "2022-12-02 19:02:37",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "Arcadia",
-        "url": "https://open.spotify.com/album/6PLChyiJHbYkpX9XXtW6Ye"
-      },
-      "artists": [
-        {
-          "name": "Lily Kershaw",
-          "url": "https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua"
-        }
-      ],
-      "duration_ms": 199172,
-      "name": "Now & Then",
-      "url": "https://open.spotify.com/track/1dbaHk2530DwkAe5vwOYez"
-    },
-    {
-      "added_at": "2022-12-02 19:02:37",
-      "album": {
         "name": "Forward",
         "url": "https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG"
       },
@@ -1447,18 +1431,18 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "The Old Pine E.P.",
-        "url": "https://open.spotify.com/album/0k58WX5uI2CNJ0BlH1cKXA"
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/6PLChyiJHbYkpX9XXtW6Ye"
       },
       "artists": [
         {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+          "name": "Lily Kershaw",
+          "url": "https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua"
         }
       ],
-      "duration_ms": 289074,
-      "name": "Follaton Wood",
-      "url": "https://open.spotify.com/track/1bVlFkO4UyfNYWurqCghT7"
+      "duration_ms": 199172,
+      "name": "Now & Then",
+      "url": "https://open.spotify.com/track/1dbaHk2530DwkAe5vwOYez"
     },
     {
       "added_at": "2022-12-02 19:02:37",
@@ -1523,6 +1507,22 @@
       "duration_ms": 204736,
       "name": "Love You Twice",
       "url": "https://open.spotify.com/track/0p8N7QE1DJtY6IVmLy1YZc"
+    },
+    {
+      "added_at": "2022-12-02 19:02:37",
+      "album": {
+        "name": "The Old Pine E.P.",
+        "url": "https://open.spotify.com/album/0k58WX5uI2CNJ0BlH1cKXA"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 289074,
+      "name": "Follaton Wood",
+      "url": "https://open.spotify.com/track/1bVlFkO4UyfNYWurqCghT7"
     },
     {
       "added_at": "2022-12-02 19:02:37",

@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 80s! Cover: Gloria Estefan",
-  "num_followers": 102345,
+  "num_followers": 102418,
   "original_name": "80s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY2NzgwOSwwMDAwMDAwMDRjM2QzZWE3NGJhNDdiZTY3MmE0NDZkMzNiNDRiMGUz",
+  "snapshot_id": "MTY3NjY2NzgwOSwwMDAwMDAwMGYyOGI1MzM0MTIwZmE4NGY4ZDliYTc3NzFlMjE1MzYw",
   "tracks": [
     {
       "added_at": "2023-02-17 21:03:29",
@@ -543,26 +543,6 @@
     {
       "added_at": "2023-02-17 21:03:29",
       "album": {
-        "name": "Playlist: The Very Best Of Lisa Lisa & Cult Jam",
-        "url": "https://open.spotify.com/album/69c909n13KcSJPXxi6kPhG"
-      },
-      "artists": [
-        {
-          "name": "Lisa Lisa & Cult Jam",
-          "url": "https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT"
-        },
-        {
-          "name": "Full Force",
-          "url": "https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2"
-        }
-      ],
-      "duration_ms": 404213,
-      "name": "I Wonder If I Take You Home",
-      "url": "https://open.spotify.com/track/3sRCesHh424gmCji7Fz9Gm"
-    },
-    {
-      "added_at": "2023-02-17 21:03:29",
-      "album": {
         "name": "Cu\u00e9ntame",
         "url": "https://open.spotify.com/album/7eGbFOJExPRkAsDQCeThFc"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 239373,
       "name": "Ay, qu\u00e9 pesado",
       "url": "https://open.spotify.com/track/3G2hzcHCb4SF7fTNMaOJpV"
+    },
+    {
+      "added_at": "2023-02-17 21:03:29",
+      "album": {
+        "name": "Playlist: The Very Best Of Lisa Lisa & Cult Jam",
+        "url": "https://open.spotify.com/album/69c909n13KcSJPXxi6kPhG"
+      },
+      "artists": [
+        {
+          "name": "Lisa Lisa & Cult Jam",
+          "url": "https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT"
+        },
+        {
+          "name": "Full Force",
+          "url": "https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2"
+        }
+      ],
+      "duration_ms": 404213,
+      "name": "I Wonder If I Take You Home",
+      "url": "https://open.spotify.com/track/3sRCesHh424gmCji7Fz9Gm"
     },
     {
       "added_at": "2023-02-17 21:03:29",

@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. Winter on cover!",
-  "num_followers": 62821,
+  "num_followers": 63218,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTUxMzc5NSwwMDAwMDAwMGYyNzFhODE0ZDE4Zjg4MDk0YWVhMjc0ODkxNWQyMWJm",
+  "snapshot_id": "MTY4MTUxMzc5NSwwMDAwMDAwMGEyMGEwZjRjNTZiMGUwZTEwYTYzNDQzMDhiZDQ1ZDA0",
   "tracks": [
     {
       "added_at": "2023-03-13 22:23:31",
@@ -653,22 +653,6 @@
       "url": "https://open.spotify.com/track/4qtRBRNDFVbZ2kk3BEaRf3"
     },
     {
-      "added_at": "2023-02-09 20:06:26",
-      "album": {
-        "name": "We're Not Here to Be Loved",
-        "url": "https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1"
-      },
-      "artists": [
-        {
-          "name": "Fleshwater",
-          "url": "https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF"
-        }
-      ],
-      "duration_ms": 253770,
-      "name": "Baldpate Driver",
-      "url": "https://open.spotify.com/track/7sS9l7KI8S0hh984RdtTTh"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Winks & Kisses: Melted",
@@ -683,6 +667,22 @@
       "duration_ms": 566466,
       "name": "In Your Room",
       "url": "https://open.spotify.com/track/7c7XYwFipX776UmPzHNYIa"
+    },
+    {
+      "added_at": "2023-02-09 20:06:26",
+      "album": {
+        "name": "We're Not Here to Be Loved",
+        "url": "https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1"
+      },
+      "artists": [
+        {
+          "name": "Fleshwater",
+          "url": "https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF"
+        }
+      ],
+      "duration_ms": 253770,
+      "name": "Baldpate Driver",
+      "url": "https://open.spotify.com/track/7sS9l7KI8S0hh984RdtTTh"
     },
     {
       "added_at": "2022-12-15 18:01:43",
@@ -925,22 +925,6 @@
       "url": "https://open.spotify.com/track/2q6bBFVnWvaCRxELkHdsSa"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "idk how to luv",
-        "url": "https://open.spotify.com/album/44qZHhMFg4eKJymG5VWzG3"
-      },
-      "artists": [
-        {
-          "name": "zzzahara",
-          "url": "https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn"
-        }
-      ],
-      "duration_ms": 150251,
-      "name": "idk how to luv",
-      "url": "https://open.spotify.com/track/7y61H8SDeP6rTTEiS32lfi"
-    },
-    {
       "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "don't tell me",
@@ -955,6 +939,22 @@
       "duration_ms": 279318,
       "name": "don't tell me",
       "url": "https://open.spotify.com/track/2WDPqvuis3DnNimYRgjEAm"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "idk how to luv",
+        "url": "https://open.spotify.com/album/44qZHhMFg4eKJymG5VWzG3"
+      },
+      "artists": [
+        {
+          "name": "zzzahara",
+          "url": "https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn"
+        }
+      ],
+      "duration_ms": 150251,
+      "name": "idk how to luv",
+      "url": "https://open.spotify.com/track/7y61H8SDeP6rTTEiS32lfi"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1021,20 +1021,20 @@
       "url": "https://open.spotify.com/track/0kttqKdToPQupUgaBto3UM"
     },
     {
-      "added_at": "2023-03-24 04:01:00",
+      "added_at": "2022-05-03 02:08:01",
       "album": {
-        "name": "Cranekiss",
-        "url": "https://open.spotify.com/album/0ZMlxCl7fzXSkv4T56hEOa"
+        "name": "Destiny XL",
+        "url": "https://open.spotify.com/album/6F0DKc4JJuxL5y7gL568r7"
       },
       "artists": [
         {
-          "name": "Tamaryn",
-          "url": "https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2"
+          "name": "They Are Gutting a Body of Water",
+          "url": "https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj"
         }
       ],
-      "duration_ms": 230408,
-      "name": "Cranekiss",
-      "url": "https://open.spotify.com/track/5ljHvSOYJ2AQfZoTlVwni1"
+      "duration_ms": 189673,
+      "name": "eightball",
+      "url": "https://open.spotify.com/track/2GWjuqubd6LAYgimjWiGu3"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1053,6 +1053,22 @@
       "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
     },
     {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Cranekiss",
+        "url": "https://open.spotify.com/album/0ZMlxCl7fzXSkv4T56hEOa"
+      },
+      "artists": [
+        {
+          "name": "Tamaryn",
+          "url": "https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2"
+        }
+      ],
+      "duration_ms": 230408,
+      "name": "Cranekiss",
+      "url": "https://open.spotify.com/track/5ljHvSOYJ2AQfZoTlVwni1"
+    },
+    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Sway",
@@ -1067,22 +1083,6 @@
       "duration_ms": 211319,
       "name": "Press",
       "url": "https://open.spotify.com/track/37SnMHwWU7F9isLYZB3taJ"
-    },
-    {
-      "added_at": "2022-05-03 02:08:01",
-      "album": {
-        "name": "Destiny XL",
-        "url": "https://open.spotify.com/album/6F0DKc4JJuxL5y7gL568r7"
-      },
-      "artists": [
-        {
-          "name": "They Are Gutting a Body of Water",
-          "url": "https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj"
-        }
-      ],
-      "duration_ms": 189673,
-      "name": "eightball",
-      "url": "https://open.spotify.com/track/2GWjuqubd6LAYgimjWiGu3"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1181,22 +1181,6 @@
       "url": "https://open.spotify.com/track/0kVQozLQGhKL6FGzCcnCPF"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Colour Trip",
-        "url": "https://open.spotify.com/album/4etQkD7AQtkMO1t5nQa1rB"
-      },
-      "artists": [
-        {
-          "name": "Ringo Deathstarr",
-          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
-        }
-      ],
-      "duration_ms": 125333,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
-    },
-    {
       "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "Lay Low",
@@ -1211,6 +1195,22 @@
       "duration_ms": 142615,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/1W2jSHDSshu2l5mQL5dmT2"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Colour Trip",
+        "url": "https://open.spotify.com/album/4etQkD7AQtkMO1t5nQa1rB"
+      },
+      "artists": [
+        {
+          "name": "Ringo Deathstarr",
+          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
+        }
+      ],
+      "duration_ms": 125333,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
     }
   ],
   "unique_name": "Shoegaze Now",

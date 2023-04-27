@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 
 > Ska 100% hecho en México con chilito del que pica\. La Tremenda Korte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,013 likes - 108 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,021 likes - 108 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > the best of the deep end\. cover: Kay9ine
 
-171 songs - 8 hr 16 min
+172 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [Take The Risk](https://open.spotify.com/track/4sK7NBL0YVl9fTHrVAYaNi) | [OB](https://open.spotify.com/artist/2OX5wdYLYtr3KluIVqvhTj) | [Take The Risk](https://open.spotify.com/album/1N7bpX6cuyZqZvcgdVcIld) | 3:20 | 2022-04-05 | 2023-03-26 |
 | [Take The Risk](https://open.spotify.com/track/6PrlW3ixvblqC6gLCDMAOH) | [OB](https://open.spotify.com/artist/2OX5wdYLYtr3KluIVqvhTj) | [Take The Risk](https://open.spotify.com/album/3xmYrVJwdA922UfaEbiWGW) | 3:20 | 2022-08-02 | 2023-01-06 |
 | [Take The Risk](https://open.spotify.com/track/1JI8vPuCzjOePCx8Dx51Zr) | [OB](https://open.spotify.com/artist/2OX5wdYLYtr3KluIVqvhTj), [King K bËAtZ](https://open.spotify.com/artist/6a8kfrURNaarwQrjgtdJqr) | [Take The Risk](https://open.spotify.com/album/6bf4swql2jvA6zq1jvND9H) | 3:20 | 2022-08-02 | 2022-10-21 |
-| [Take The Risk](https://open.spotify.com/track/227yzcqbegKaSlZiFcBn2c) | [Svaroda](https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz), [Hasan Ceddi](https://open.spotify.com/artist/7zbjgtGBKbRKNyr8EzWCbH) | [Take The Risk](https://open.spotify.com/album/4X05eKMdKrelQwoZNxd2Fv) | 3:20 | 2022-08-02 |  |
+| [Take The Risk](https://open.spotify.com/track/0tIBTDYETBi6OZ2lyI0tGX) | [Svaroda](https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz), [Hasan Ceddi](https://open.spotify.com/artist/7zbjgtGBKbRKNyr8EzWCbH) | [Take The Risk](https://open.spotify.com/album/3qOLL1W6GfXoWBzkeizrT3) | 3:20 | 2022-08-02 |  |
+| [Take The Risk](https://open.spotify.com/track/227yzcqbegKaSlZiFcBn2c) | [Svaroda](https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz), [Hasan Ceddi](https://open.spotify.com/artist/7zbjgtGBKbRKNyr8EzWCbH) | [Take The Risk](https://open.spotify.com/album/4X05eKMdKrelQwoZNxd2Fv) | 3:20 | 2022-08-02 | 2023-04-27 |
 | [Talking Stage](https://open.spotify.com/track/3Kim4tV3HTnpaELmIh56lI) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [Talking Stage](https://open.spotify.com/album/7dNdmqTyrNfjKOr8aOg3rX) | 2:57 | 2022-04-05 |  |
 | [The Talking Stage Game](https://open.spotify.com/track/14tu1tKyRNKh7xvAIOQViJ) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [The Talking Stage Game](https://open.spotify.com/album/44BCUKr8YiLg4yFY8N3jBc) | 3:14 | 2022-04-05 | 2022-11-26 |
 | [The Talking Stage Game](https://open.spotify.com/track/75FaJdvovFsDgzm5pjvE6X) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [The Talking Stage Game](https://open.spotify.com/album/390DNattBVGkTxvaTVAW6o) | 3:15 | 2022-08-02 |  |

@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. Cover: Kep1er
+> All your girl crushes\(걸크러쉬\) in one place\. Cover: MINNIE\(민니\)
 
-355 songs - 19 hr 5 min
+356 songs - 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Happy Now](https://open.spotify.com/track/4RQohfdcFYZ62cxZUyjeDp) | [HA:TFELT](https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Happy Now](https://open.spotify.com/album/6C8Md6te1B8A7gbM15Uxd8) | 3:30 | 2021-03-14 | 2022-04-10 |
 | [Heart Burn](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:13 | 2022-06-29 | 2022-10-23 |
 | [Heroine](https://open.spotify.com/track/5gA9Xn8oPts2aewPgxVkPD) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heroine](https://open.spotify.com/album/4lWDPUQmrZPyO9T9pWfZc2) | 3:15 | 2021-02-28 | 2021-03-02 |
-| [HIP](https://open.spotify.com/track/24nK8tW7Pt3Inh2utttuoG) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [reality in BLACK](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) | 3:15 | 2020-10-20 |  |
+| [HIP](https://open.spotify.com/track/24nK8tW7Pt3Inh2utttuoG) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [reality in BLACK](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) | 3:15 | 2020-10-20 | 2023-04-27 |
 | [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 | 2022-07-04 | 2022-07-26 |
 | [Hocus Pocus](https://open.spotify.com/track/4X0kjAmFgu6zX5Uwl4lnwa) | [BVNDIT](https://open.spotify.com/artist/5dEBuZjTtE68uDgCs23Kuv) | [BVNDIT, BE AMBITIOUS!](https://open.spotify.com/album/1HAL8eTzvFRxaMGjYybRG5) | 3:27 | 2021-03-01 | 2022-04-13 |
 | [HOME](https://open.spotify.com/track/7KrThgzyyulBjY9vEbqceh) | [YEZI](https://open.spotify.com/artist/6LPOT9C3gvGQHxlZtMLHHg) | [HOME](https://open.spotify.com/album/3npgimYVYM64IDAiLytb2l) | 3:16 | 2021-01-16 | 2022-05-07 |
@@ -242,6 +242,7 @@
 | [Passionate Love 열A\-야](https://open.spotify.com/track/0OnrBE4rqwpul8IBSJrcB4) | [Kang xiwon](https://open.spotify.com/artist/2Y5wddf5A6jv6MVB6aH90e) | [SUPA DIVA](https://open.spotify.com/album/5dxaaGgyuZrfXjTWFKvuOZ) | 3:26 | 2021-03-01 | 2022-04-13 |
 | [Pick Me Up](https://open.spotify.com/track/15cn8Ps4IGPzYZpa1dL8XC) | [KIARA](https://open.spotify.com/artist/4zgwEbAQXg18E1rgx4jeOb) | [Pick Me Up](https://open.spotify.com/album/6YEJlBkNryNhKhIWjvfmpN) | 3:16 | 2021-12-08 | 2022-07-24 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-19 |  |
+| [PINK YOUR MOMENT](https://open.spotify.com/track/0Z4g9s48umnsfDYGKj7jOT) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [PINK YOUR MOMENT](https://open.spotify.com/album/0XJXxqADyzn0ed4QbTvsBD) | 2:57 | 2023-04-26 |  |
 | [Pirate](https://open.spotify.com/track/0Vu5tjvXZX3qtzRiezxLi1) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [Return of The Girl](https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD) | 3:30 | 2021-12-07 | 2022-07-19 |
 | [Pity Party](https://open.spotify.com/track/3hmjSgK0gSytIf3sbCFShk) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Pity Party](https://open.spotify.com/album/2yMHiLYBnrMsdUCUL3bFkU) | 3:10 | 2022-03-29 | 2022-07-25 |
 | [PLAY](https://open.spotify.com/track/1SdLedoEjrMRu5AnvK2EYk) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [PLAY](https://open.spotify.com/album/7tzaUrzvzQGfqvzsYzSODr) | 3:19 | 2020-10-13\* | 2022-05-17 |

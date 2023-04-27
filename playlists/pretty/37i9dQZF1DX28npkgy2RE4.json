@@ -1,12 +1,12 @@
 {
   "description": "New styles, deep sounds. Cover: Scott McMicken and THE EVER-EXPANDING",
-  "num_followers": 401757,
+  "num_followers": 401857,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDg0MWZiYjQ4ZTk5ZmJiOGYzNDlhN2E3ZTgyZjE0ZWU0",
+  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMGYzZjg2ZTliZTBkM2U0NGQ1N2Q0MGVmZjRjZTY2OTk5",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "My Ego Dies At The End",
-        "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 242644,
-      "name": "My Ego Dies At The End",
-      "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "i,i",
         "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 141666,
       "name": "Marion",
       "url": "https://open.spotify.com/track/4Pzg3KLuXxPJ2eFsPiN134"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "My Ego Dies At The End",
+        "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 242644,
+      "name": "My Ego Dies At The End",
+      "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 266706,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Jaime",
         "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 191395,
       "name": "Stay High",
       "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 266706,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Tomb",
+        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 205657,
+      "name": "You Needed Love, I Needed You",
+      "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "I Don\u2019t Live Here Anymore",
         "url": "https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB"
       },
@@ -823,18 +839,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Tomb",
-        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
+        "name": "all of my lessons",
+        "url": "https://open.spotify.com/album/4unK854kzraNk7AGOP9aTO"
       },
       "artists": [
         {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
         }
       ],
-      "duration_ms": 205657,
-      "name": "You Needed Love, I Needed You",
-      "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"
+      "duration_ms": 176795,
+      "name": "all of my lessons",
+      "url": "https://open.spotify.com/track/5pngx2j5NVygoo72yqNaEF"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -855,26 +871,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Like I Used To",
-        "url": "https://open.spotify.com/album/0nRjg8p3TOmImvztpYncra"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        },
-        {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
-        }
-      ],
-      "duration_ms": 263754,
-      "name": "Like I Used To",
-      "url": "https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "The Pool",
         "url": "https://open.spotify.com/album/7FEdabAF4tVaiXTCmykn2t"
       },
@@ -891,18 +887,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "all of my lessons",
-        "url": "https://open.spotify.com/album/4unK854kzraNk7AGOP9aTO"
+        "name": "Like I Used To",
+        "url": "https://open.spotify.com/album/0nRjg8p3TOmImvztpYncra"
       },
       "artists": [
         {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        },
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
         }
       ],
-      "duration_ms": 176795,
-      "name": "all of my lessons",
-      "url": "https://open.spotify.com/track/5pngx2j5NVygoo72yqNaEF"
+      "duration_ms": 263754,
+      "name": "Like I Used To",
+      "url": "https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Half Moon Light (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4BZtOxZRZVRVf5ufHPlXy3"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 231880,
+      "name": "Dried Up River",
+      "url": "https://open.spotify.com/track/7bNvUAHtAVDee8w6SS6r0S"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Among Horses III",
         "url": "https://open.spotify.com/album/1EeXJ45fmNfRtHRGPWAjvz"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 123000,
       "name": "Francis",
       "url": "https://open.spotify.com/track/7g07tmYNBITxvbR3KaTZjU"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Half Moon Light (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4BZtOxZRZVRVf5ufHPlXy3"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 231880,
-      "name": "Dried Up River",
-      "url": "https://open.spotify.com/track/7bNvUAHtAVDee8w6SS6r0S"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Right on Time",
-        "url": "https://open.spotify.com/album/3w75u634fjDNuVKeI0VYXd"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 185228,
-      "name": "Right on Time",
-      "url": "https://open.spotify.com/track/5uyw6qVn71nKSBVyBl3Ytv"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Rubber",
         "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 198373,
       "name": "Rubber",
       "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Right on Time",
+        "url": "https://open.spotify.com/album/3w75u634fjDNuVKeI0VYXd"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 185228,
+      "name": "Right on Time",
+      "url": "https://open.spotify.com/track/5uyw6qVn71nKSBVyBl3Ytv"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "See the World",
+        "url": "https://open.spotify.com/album/5DjZqk7gJGrQBCeTKnBViy"
+      },
+      "artists": [
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "duration_ms": 201226,
+      "name": "Paul Newman Daytona Rolex",
+      "url": "https://open.spotify.com/track/4pAjn6PcQp81T2BKOzPOtn"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Pressure Machine (Abridged)",
         "url": "https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 204466,
       "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
       "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "See the World",
-        "url": "https://open.spotify.com/album/5DjZqk7gJGrQBCeTKnBViy"
-      },
-      "artists": [
-        {
-          "name": "Brett Dennen",
-          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
-        }
-      ],
-      "duration_ms": 201226,
-      "name": "Paul Newman Daytona Rolex",
-      "url": "https://open.spotify.com/track/4pAjn6PcQp81T2BKOzPOtn"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Different Kinds of Light",
-        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 215493,
-      "name": "Now is the Time",
-      "url": "https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "I Know You Know Me (With Matt Berninger)",
         "url": "https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 199123,
       "name": "I Know You Know Me (With Matt Berninger)",
       "url": "https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Different Kinds of Light",
+        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 215493,
+      "name": "Now is the Time",
+      "url": "https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "This Is A Photograph",
-        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/3qhBGzvetkErUwWV0Ohtu3"
       },
       "artists": [
         {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
         }
       ],
-      "duration_ms": 164245,
-      "name": "Rock Bottom",
-      "url": "https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5"
+      "duration_ms": 156333,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/7i8uptpD5FTrfQu0DXHPDv"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/3qhBGzvetkErUwWV0Ohtu3"
+        "name": "This Is A Photograph",
+        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
       },
       "artists": [
         {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
         }
       ],
-      "duration_ms": 156333,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/7i8uptpD5FTrfQu0DXHPDv"
+      "duration_ms": 164245,
+      "name": "Rock Bottom",
+      "url": "https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1575,6 +1575,22 @@
       "duration_ms": 161972,
       "name": "Song to Make You Fall in Love With Me",
       "url": "https://open.spotify.com/track/2roYKk0xtwJpooY5A3GxJR"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Puppy and a Truck",
+        "url": "https://open.spotify.com/album/2udBN6XsNrbgLOFzrqEBVt"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 191280,
+      "name": "Puppy and a Truck",
+      "url": "https://open.spotify.com/track/6nrfecLjwsQngv4LbOMrRe"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1647,18 +1663,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Puppy and a Truck",
-        "url": "https://open.spotify.com/album/2udBN6XsNrbgLOFzrqEBVt"
+        "name": "Juniors",
+        "url": "https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop"
       },
       "artists": [
         {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
         }
       ],
-      "duration_ms": 191280,
-      "name": "Puppy and a Truck",
-      "url": "https://open.spotify.com/track/6nrfecLjwsQngv4LbOMrRe"
+      "duration_ms": 233533,
+      "name": "Hear It Again",
+      "url": "https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1695,22 +1711,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Juniors",
-        "url": "https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 233533,
-      "name": "Hear It Again",
-      "url": "https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Cheers",
         "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
       },
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Note to Self",
+        "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
+      },
+      "artists": [
+        {
+          "name": "Bre Kennedy",
+          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+        }
+      ],
+      "duration_ms": 210280,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/6TQXgsHzTIPObUdFzlGjeY"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Break Me Open",
         "url": "https://open.spotify.com/album/3GnC2xEY4b6wowL2eBIwGc"
       },
@@ -1759,18 +1775,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Note to Self",
-        "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
+        "name": "Snowplow",
+        "url": "https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ"
       },
       "artists": [
         {
-          "name": "Bre Kennedy",
-          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        },
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
         }
       ],
-      "duration_ms": 210280,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/6TQXgsHzTIPObUdFzlGjeY"
+      "duration_ms": 161776,
+      "name": "Snowplow",
+      "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1879,22 +1899,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Snowplow",
-        "url": "https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ"
+        "name": "Turn Off The News (Build A Garden)",
+        "url": "https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m"
       },
       "artists": [
         {
-          "name": "Runnner",
-          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
-        },
-        {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+          "name": "Lukas Nelson and Promise of the Real",
+          "url": "https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY"
         }
       ],
-      "duration_ms": 161776,
-      "name": "Snowplow",
-      "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
+      "duration_ms": 181349,
+      "name": "Turn Off The News (Build A Garden) - Acoustic",
+      "url": "https://open.spotify.com/track/2MveWLaASfY6eQb0IpSxzq"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1915,22 +1931,6 @@
       "duration_ms": 204520,
       "name": "Seventeen Again (feat. Novo Amor)",
       "url": "https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Turn Off The News (Build A Garden)",
-        "url": "https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m"
-      },
-      "artists": [
-        {
-          "name": "Lukas Nelson and Promise of the Real",
-          "url": "https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY"
-        }
-      ],
-      "duration_ms": 181349,
-      "name": "Turn Off The News (Build A Garden) - Acoustic",
-      "url": "https://open.spotify.com/track/2MveWLaASfY6eQb0IpSxzq"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -2167,6 +2167,42 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Yard Sale",
+        "url": "https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 203547,
+      "name": "Doobie Bronson",
+      "url": "https://open.spotify.com/track/4c57bsRSaFavDqPKxYW2nR"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Weather Balloons [Feat. Frances Cone]",
+        "url": "https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju"
+      },
+      "artists": [
+        {
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        },
+        {
+          "name": "Frances Cone",
+          "url": "https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh"
+        }
+      ],
+      "duration_ms": 212502,
+      "name": "Weather Balloons [Feat. Frances Cone]",
+      "url": "https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Filming School",
         "url": "https://open.spotify.com/album/3t5QsHVDqA1HCLWCZBHdLl"
       },
@@ -2199,26 +2235,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Weather Balloons [Feat. Frances Cone]",
-        "url": "https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju"
-      },
-      "artists": [
-        {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        },
-        {
-          "name": "Frances Cone",
-          "url": "https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh"
-        }
-      ],
-      "duration_ms": 212502,
-      "name": "Weather Balloons [Feat. Frances Cone]",
-      "url": "https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Life and Life Only",
         "url": "https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr"
       },
@@ -2231,22 +2247,6 @@
       "duration_ms": 203573,
       "name": "All My Dreams",
       "url": "https://open.spotify.com/track/5St1urzGD938Zo3BL12Mam"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Yard Sale",
-        "url": "https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 203547,
-      "name": "Doobie Bronson",
-      "url": "https://open.spotify.com/track/4c57bsRSaFavDqPKxYW2nR"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Mariachi Static",
-        "url": "https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE"
-      },
-      "artists": [
-        {
-          "name": "Izaak Opatz",
-          "url": "https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G"
-        }
-      ],
-      "duration_ms": 238680,
-      "name": "Not Yet",
-      "url": "https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Old Peel",
         "url": "https://open.spotify.com/album/5SdjxVnwwn4w25boDjEmMR"
       },
@@ -2379,38 +2363,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Marika Hackman (7 Layers Session)",
-        "url": "https://open.spotify.com/album/2k2FmxjLCxOp5bTZoPRVlm"
+        "name": "Mariachi Static",
+        "url": "https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE"
       },
       "artists": [
         {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+          "name": "Izaak Opatz",
+          "url": "https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G"
         }
       ],
-      "duration_ms": 116040,
-      "name": "Cigarette - 7 Layers Session",
-      "url": "https://open.spotify.com/track/6bOq0IV8aehkfePJOnqUK2"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "On A Beach",
-        "url": "https://open.spotify.com/album/0DyVOB2dfSxlmomqQoh7t6"
-      },
-      "artists": [
-        {
-          "name": "Hayden",
-          "url": "https://open.spotify.com/artist/2EJpeCmBlwSNpb1GcTj1xp"
-        },
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 245656,
-      "name": "On A Beach",
-      "url": "https://open.spotify.com/track/6MdKxxCkNTmassiqorlX5Y"
+      "duration_ms": 238680,
+      "name": "Not Yet",
+      "url": "https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -2435,6 +2399,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Marika Hackman (7 Layers Session)",
+        "url": "https://open.spotify.com/album/2k2FmxjLCxOp5bTZoPRVlm"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 116040,
+      "name": "Cigarette - 7 Layers Session",
+      "url": "https://open.spotify.com/track/6bOq0IV8aehkfePJOnqUK2"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Dublin, Texas",
         "url": "https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW"
       },
@@ -2447,6 +2427,26 @@
       "duration_ms": 269286,
       "name": "Dublin, Texas",
       "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "On A Beach",
+        "url": "https://open.spotify.com/album/0DyVOB2dfSxlmomqQoh7t6"
+      },
+      "artists": [
+        {
+          "name": "Hayden",
+          "url": "https://open.spotify.com/artist/2EJpeCmBlwSNpb1GcTj1xp"
+        },
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 245656,
+      "name": "On A Beach",
+      "url": "https://open.spotify.com/track/6MdKxxCkNTmassiqorlX5Y"
     },
     {
       "added_at": "2023-04-21 04:00:00",

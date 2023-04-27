@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: SEVENTEEN
 
-564 songs - 1 day 7 hr 4 min
+567 songs - 1 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [\_WORLD](https://open.spotify.com/track/2kDrUAONMhG6CbDGBkhdrY) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [\_WORLD](https://open.spotify.com/album/63oE2Ew3Mud2Md9TXBjeKw) | 2:58 | 2022-08-25 | 2022-12-16 |
 | [A Kind Of Magic \- Coke Studio Session](https://open.spotify.com/track/3EN2OYE3pYpRN8Axxasv2u) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [A Kind Of Magic \(Coke Studio Session\)](https://open.spotify.com/album/47oy52LyIbbzC0qLKQH16Z) | 2:49 | 2022-06-07 | 2022-07-29 |
 | [A WOO!!](https://open.spotify.com/track/7DzFF9F9FK7zaBZMyEKPjn) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [A WOO!!](https://open.spotify.com/album/5hptDtgFSlWscXePYAYyio) | 3:43 | 2022-01-25 | 2022-03-23 |
+| [ABYSS](https://open.spotify.com/track/1SCLxu8le0CYCD9AmbHWMi) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [OO\-LI](https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4) | 3:52 | 2023-04-25 |  |
 | [Adrenaline](https://open.spotify.com/track/5SbVAjEbm6YS9qF8m8EYGD) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [CRAVITY 1ST ALBUM PART 2 \[LIBERTY : IN OUR COSMOS\]](https://open.spotify.com/album/0fQl58pOwJpkTfVUZudzpY) | 3:14 | 2022-03-22 | 2022-06-11 |
 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 | 2022-08-22 | 2023-02-01 |
 | [After LIKE \- Holiday Remix](https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Spotify Singles \- Holiday](https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk) | 2:52 | 2022-11-16 | 2023-02-22 |
@@ -29,7 +30,8 @@
 | [All About You](https://open.spotify.com/track/5MCARv92OMtNgUufLR3W4r) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single \[All About You\]](https://open.spotify.com/album/16VQsGjUDQ11VCfAJjFKYs) | 3:38 | 2022-12-06 | 2023-02-22 |
 | [All For You](https://open.spotify.com/track/42Ay3l6BZVrViTWKjkrDHm) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [Pinky Swear](https://open.spotify.com/album/7ke9Y6LfDUL4T2dZDtrtyX) | 3:29 | 2022-03-29 | 2022-06-01 |
 | [Always](https://open.spotify.com/track/6bLZ6JV1mAGz4xfS1ZwOMV) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Always](https://open.spotify.com/album/0kwAgLzLnzQxaKcdubyaMh) | 3:06 | 2022-02-22 | 2022-05-18 |
-| [AMAZON](https://open.spotify.com/track/52duVlQdX7yyZ98WygiPrH) | [TFN](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [BEFORE SUNRISE Part\. 4](https://open.spotify.com/album/21QlwJM8El7dXWi16woW0G) | 3:22 | 2023-04-25 |  |
+| [AMAZON](https://open.spotify.com/track/52duVlQdX7yyZ98WygiPrH) | [TFN](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [BEFORE SUNRISE Part\. 4](https://open.spotify.com/album/21QlwJM8El7dXWi16woW0G) | 3:22 | 2023-04-25 | 2023-04-27 |
+| [AMAZON \- Japanese ver.](https://open.spotify.com/track/1IGILagGIHTdb2lh62Bhol) | [TFN](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [OUR TEEN:YELLOW SIDE](https://open.spotify.com/album/6gsIP7jOiuPiCT2bqPlJCd) | 3:21 | 2023-04-25 |  |
 | [angel \(Prod\. GRAY\) \(Japanese ver.\)](https://open.spotify.com/track/63qTCzek2KaXkg7x1Y3ax9) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [OnlyOneOf JAPAN BEST ALBUM](https://open.spotify.com/album/3XZCzoFsBYFSGxW4Wil9GA) | 3:32 | 2022-01-18 | 2022-02-09 |
 | [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 | 2022-10-27 | 2023-02-22 |
 | [Any Other Way](https://open.spotify.com/track/0GLeMtCBYkh98BqwO5BN7b) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Any Other Way](https://open.spotify.com/album/7C5Y9bh4Y8G5sw3bB2bquM) | 2:48 | 2021-12-23 | 2022-03-21 |
@@ -182,6 +184,7 @@
 | [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-08-05 | 2022-11-16 |
 | [Forgive Me](https://open.spotify.com/track/4TXo3KpvdwHSdrPJlWDfgn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Forgive Me \- The 3rd Mini Album](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) | 2:48 | 2022-11-22 | 2023-01-30 |
 | [Freak](https://open.spotify.com/track/53NYRM8s4mm4yeCsmsvTik) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Grown Ass Kid](https://open.spotify.com/album/5gHJyHBTHBZlgFsODXj7HZ) | 2:49 | 2022-07-26 | 2022-11-30 |
+| [Freakin' Bad](https://open.spotify.com/track/3wntBaOJD8AZrJ8ix97Lwg) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Deadlock](https://open.spotify.com/album/6nePUewVYxSkvIbG9nkB0M) | 3:03 | 2023-04-25 |  |
 | [Free Falling](https://open.spotify.com/track/1t2fPE8rClkb0ZACu26ebN) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Free Falling](https://open.spotify.com/album/0V2vQVVSUJXXqSnikWNcZq) | 3:37 | 2022-09-20 | 2022-12-16 |
 | [FRIEND THE END](https://open.spotify.com/track/1TN8defSgxLPMwtzN7gUbb) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Love.zip](https://open.spotify.com/album/7w8ZawyWoLyuDr4XRJSsnX) | 3:08 | 2023-04-17 |  |
 | [Future Perfect \(Pass the MIC\)](https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:00 | 2022-07-04 | 2022-09-09 |

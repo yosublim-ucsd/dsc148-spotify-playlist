@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover: Kep1er",
+  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover: MINNIE(\ubbfc\ub2c8)",
   "name": "Girl Krush",
   "tracks": [
     {
@@ -2304,7 +2304,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 195306,
       "name": "HIP",
       "url": "https://open.spotify.com/track/24nK8tW7Pt3Inh2utttuoG"
@@ -4294,6 +4294,24 @@
       "duration_ms": 186964,
       "name": "Pink Venom",
       "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
+    },
+    {
+      "album": {
+        "name": "PINK YOUR MOMENT",
+        "url": "https://open.spotify.com/album/0XJXxqADyzn0ed4QbTvsBD"
+      },
+      "artists": [
+        {
+          "name": "MINNIE",
+          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177055,
+      "name": "PINK YOUR MOMENT",
+      "url": "https://open.spotify.com/track/0Z4g9s48umnsfDYGKj7jOT"
     },
     {
       "album": {

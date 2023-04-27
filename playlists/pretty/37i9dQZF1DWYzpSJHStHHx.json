@@ -1,12 +1,12 @@
 {
   "description": "Songs to surf to. Co-curated by the cast of OBX (Chase Stokes, Rudy Pankow, Madelyn Cline and Carlacia Grant)",
-  "num_followers": 500885,
+  "num_followers": 500891,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg4MDA4MCwwMDAwMDAwMGY3Y2ViMTA2OTI4NWUzMGU5ZGYyMzU0YjQ3ZjAyYzQx",
+  "snapshot_id": "MTY4MDg4MDA4MCwwMDAwMDAwMDhjZGMyMTU4YzdjYWVlMmFkOWEzODUyN2JkNWIyZmZi",
   "tracks": [
     {
       "added_at": "2023-03-01 20:27:16",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-03-01 20:27:16",
       "album": {
-        "name": "Kiss Me, Kiss Me, Kiss Me",
-        "url": "https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Just like Heaven",
-      "url": "https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk"
-    },
-    {
-      "added_at": "2023-03-01 20:27:16",
-      "album": {
         "name": "Freakin' Out On The Interstate (Acoustic Version [Live])",
         "url": "https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 251906,
       "name": "Freakin' Out On the Interstate",
       "url": "https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX"
+    },
+    {
+      "added_at": "2023-03-01 20:27:16",
+      "album": {
+        "name": "Kiss Me, Kiss Me, Kiss Me",
+        "url": "https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Just like Heaven",
+      "url": "https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk"
     },
     {
       "added_at": "2023-03-01 20:27:16",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-03-01 20:27:16",
       "album": {
-        "name": "Songs of Her's",
-        "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
-      },
-      "artists": [
-        {
-          "name": "Her's",
-          "url": "https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim"
-        }
-      ],
-      "duration_ms": 246230,
-      "name": "Dorothy",
-      "url": "https://open.spotify.com/track/7jay75cMfpEIyIkkvmemYr"
-    },
-    {
-      "added_at": "2023-03-01 20:27:16",
-      "album": {
         "name": "About U",
         "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 272813,
       "name": "I Know A Place",
       "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
+    },
+    {
+      "added_at": "2023-03-01 20:27:16",
+      "album": {
+        "name": "Songs of Her's",
+        "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
+      },
+      "artists": [
+        {
+          "name": "Her's",
+          "url": "https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim"
+        }
+      ],
+      "duration_ms": 246230,
+      "name": "Dorothy",
+      "url": "https://open.spotify.com/track/7jay75cMfpEIyIkkvmemYr"
     },
     {
       "added_at": "2023-03-01 20:27:16",

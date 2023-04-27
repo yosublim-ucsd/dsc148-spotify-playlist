@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbI2iXUaOrqm.md) - [plain]
 
 > Rock meets pop meets punk, para esos días cuando todo te vale.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,526 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,544 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbI2iXUaOrqm.md) - [plain]
 | 17 | [Tissues](https://open.spotify.com/track/5J1zn7OE12a0gFnjJc0Um6) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [YUNGBLUD](https://open.spotify.com/album/0cdlBfbso4Iyim5XRQFBER) | 3:35 |
 | 18 | [novio del año](https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [novio del año](https://open.spotify.com/album/63x4EQFAEBFAPvmfkklkrn) | 2:34 |
 | 19 | [Tu Foto Del DNI](https://open.spotify.com/track/1eWWdO6oIBdJT8SCXaYCYV) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Tu Foto Del DNI](https://open.spotify.com/album/3NJKXmNaDC83yJhGX76Uc8) | 2:59 |
-| 20 | [11 RAZONES](https://open.spotify.com/track/4qEHMJyER7OntYTtPsIT1W) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 3:33 |
+| 20 | [OLA DE SUICIDIOS](https://open.spotify.com/track/0v2ESDRpC6X8k82tOnY91N) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [OLA DE SUICIDIOS](https://open.spotify.com/album/5cslTHbdAe79CyaKfAzYdM) | 2:34 |
 | 21 | [Himno \(para los que están jodidos\)](https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Himno \(para los que están jodidos\)](https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c) | 3:05 |
-| 22 | [OLA DE SUICIDIOS](https://open.spotify.com/track/0v2ESDRpC6X8k82tOnY91N) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [OLA DE SUICIDIOS](https://open.spotify.com/album/5cslTHbdAe79CyaKfAzYdM) | 2:34 |
+| 22 | [11 RAZONES](https://open.spotify.com/track/4qEHMJyER7OntYTtPsIT1W) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 3:33 |
 | 23 | [Cansado de estar triste](https://open.spotify.com/track/0KhvJklV4bqAuXwFLEEX3x) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Cansado de estar triste](https://open.spotify.com/album/65JzMj5NQD539KQ0FzGBU2) | 2:55 |
 | 24 | [Nublado \(feat\. Travis Barker\)](https://open.spotify.com/track/6p89XxqTCv34VrLQADjHRj) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Nublado \(feat\. Travis Barker\)](https://open.spotify.com/album/4xkGY6Qceq06NaCim0j62d) | 2:57 |
 | 25 | [mejores amigos](https://open.spotify.com/track/3UO6Hj6xtowWdanb3hs5QR) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0), [Candela Gómez](https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h), [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [mejores amigos](https://open.spotify.com/album/4CNWr0Icz7j1ngMho7ZjA8) | 2:53 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbI2iXUaOrqm.md) - [plain]
 | 39 | [Nuevo Comienzo](https://open.spotify.com/track/67tXLMcNhEfTYBsuBQ8aHE) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Nuevo Comienzo](https://open.spotify.com/album/3t9n5vhwmuQU14VJZfCAmg) | 3:06 |
 | 40 | [ur a <stranger>](https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:03 |
 | 41 | [Algo Bien](https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 |
-| 42 | [EL PEOR](https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [EL PEOR](https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv) | 1:54 |
-| 43 | [Houses of American Style](https://open.spotify.com/track/5Kky5Fr02ofJwTnQCgzBFl) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Houses of American Style](https://open.spotify.com/album/4fVSfJltN2th0XhpMcgx0O) | 4:04 |
+| 42 | [Houses of American Style](https://open.spotify.com/track/5Kky5Fr02ofJwTnQCgzBFl) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Houses of American Style](https://open.spotify.com/album/4fVSfJltN2th0XhpMcgx0O) | 4:04 |
+| 43 | [EL PEOR](https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [EL PEOR](https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv) | 1:54 |
 | 44 | [Suplentes](https://open.spotify.com/track/7moz5TLsJI5r1QMycc5rUr) | [Arawato](https://open.spotify.com/artist/6nxwdNlg4g7FrLZZB43n5v) | [Suplentes](https://open.spotify.com/album/7rynoVmIF0ut7qpWPqCu0i) | 3:50 |
 | 45 | [ADIÓS](https://open.spotify.com/track/77sReicKWZNkkHt4mvJsRJ) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [ADIÓS](https://open.spotify.com/album/3uKlDsuCyX7BDyRUJKuLvh) | 3:57 |
 | 46 | [Punk](https://open.spotify.com/track/4AHH9NSQXomtAgucYN9MSG) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbI2iXUaOrqm.md) - [plain]
 | 49 | [Con los Pies en el Techo](https://open.spotify.com/track/6nMllahSeGPicYXH61ray7) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM) | [Con los Pies en el Techo](https://open.spotify.com/album/72aS3wri62UToYS68QLUn4) | 3:27 |
 | 50 | [No Duele Llorar](https://open.spotify.com/track/2xZKtcwZyXBU4nGhoV8Pur) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj) | [No Duele Llorar](https://open.spotify.com/album/156wKNnXDAWorx7jStw2ei) | 3:34 |
 
-Snapshot ID: `MTY4MTgzMDEzNywwMDAwMDAwMDRmYTI1NjI3MDgyMTJkMjAyNzAxODNhZTUxNzRiYTVi`
+Snapshot ID: `MTY4MTgzMDEzNywwMDAwMDAwMGJlOTA4MTVkOWFiYWFhNTZlOGMxMDgyOGI5ZTZkMjA5`

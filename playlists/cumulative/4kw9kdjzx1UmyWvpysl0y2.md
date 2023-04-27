@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-462 songs - 1 day 3 hr 0 min
+463 songs - 1 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [i can feel your eyes on me](https://open.spotify.com/track/3R1lKIXCkHnzKvHkBtdRhP) | [Scarr.](https://open.spotify.com/artist/2GmwYytxKfiAubo141R0tV), [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [this feeling that never ends](https://open.spotify.com/album/3PKuwfjGrZmyjcPykCLjJv) | 2:23 | 2022-12-03 | 2023-02-25 |
 | [I Don't Really Care](https://open.spotify.com/track/5JplqjpRscO4GlnXGhSqNd) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [Neville](https://open.spotify.com/artist/2gt9YfYa9tUbY9grQKYwi1) | [I Don't Really Care](https://open.spotify.com/album/1xaNQmsdY7M9X4DhcLSyy2) | 2:54 | 2022-04-29 | 2022-07-12 |
 | [I Love You](https://open.spotify.com/track/4HPbP9zVWY7f0Ji5Y6cL6y) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi), [Harvey](https://open.spotify.com/artist/4p5OJUjMqi3l98prXVbGC9) | [I Love You](https://open.spotify.com/album/4mk78tvVOFI787pk2SsYMs) | 3:02 | 2022-09-16 | 2022-11-15 |
+| [I'll Be There](https://open.spotify.com/track/3rRBzkFrTWyR3NrYxjZeMW) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [I'll Be There](https://open.spotify.com/album/6AGsYYlY8T0eTFa2wg4R7d) | 2:30 | 2023-04-26 |  |
 | [I'll Be Waiting](https://open.spotify.com/track/1qadEGAXKdavfGokWUaVzL) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [NAZAAR](https://open.spotify.com/artist/6G1en7nfPSAWElhPgUOy0h), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [I'll Be Waiting](https://open.spotify.com/album/2HFkHwcSgULeBwn78FapIh) | 4:08 | 2023-04-12 |  |
 | [Ignore Them](https://open.spotify.com/track/0an42ZDRxMJXkBh49eNvQt) | [Dustycloud](https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Ignore Them](https://open.spotify.com/album/2vkuMHMpu5W1Rwzlwggnnl) | 3:08 | 2022-01-13 | 2022-03-22 |
 | [In My Feelings](https://open.spotify.com/track/0pgwo0KZuqBCwHqpAw7zC4) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW) | [Make You Mine](https://open.spotify.com/album/0p7nqhtXfPYbA8j88w8kdS) | 4:31 | 2022-10-29 | 2023-01-14 |
@@ -345,7 +346,7 @@
 | [Running Faster](https://open.spotify.com/track/1eJyFR21xkbS6JJIt5PUCH) | [Seawayz](https://open.spotify.com/artist/1kDtzWANi4LOiGt0uM5Wjr), [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I) | [Running Faster](https://open.spotify.com/album/1XRiyMmGXUtzboy9peGHoe) | 3:51 | 2022-03-02 | 2022-05-13 |
 | [Saganaki](https://open.spotify.com/track/04iOj6dE03qS7icw2Y4qtK) | [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM) | [Saganaki](https://open.spotify.com/album/6i0N9UHCiTXb8bRI7aKQob) | 3:28 | 2023-04-04 |  |
 | [Sailor's Cry \- djimboh Remix](https://open.spotify.com/track/7mx7kAWl6N5R7D243wCIJC) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [djimboh](https://open.spotify.com/artist/7cIzAFnvs0ilTGyfFJY8fd) | [A Place For Everything \(The Remixes\)](https://open.spotify.com/album/51aOQOP4DhqzNkXtVCa8RR) | 3:51 | 2022-12-16 | 2023-03-18 |
-| [Same Thing](https://open.spotify.com/track/14jeV71SdC9avzYP9MsrhR) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi), [Danyka Nadeau](https://open.spotify.com/artist/1bZhxzq9mhYkPf0wdxGko9) | [Same Thing](https://open.spotify.com/album/2erULkeRVJ8bYVqF2tTmYZ) | 3:41 | 2023-02-07 |  |
+| [Same Thing](https://open.spotify.com/track/14jeV71SdC9avzYP9MsrhR) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi), [Danyka Nadeau](https://open.spotify.com/artist/1bZhxzq9mhYkPf0wdxGko9) | [Same Thing](https://open.spotify.com/album/2erULkeRVJ8bYVqF2tTmYZ) | 3:41 | 2023-02-07 | 2023-04-27 |
 | [Sapphire](https://open.spotify.com/track/5eit9qX0tK8uLfz3PtGV3l) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Sapphire](https://open.spotify.com/album/7yjFesZrS1IuDwEfs2qe56) | 3:13 | 2023-01-11 | 2023-03-25 |
 | [Save Me](https://open.spotify.com/track/57qREwXYYpVtANx4Vldnux) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Save Me](https://open.spotify.com/album/0BzcyBDEuFW1q3fR8gSf7G) | 3:24 | 2022-08-15 | 2022-10-28 |
 | [Saving Lives](https://open.spotify.com/track/6OK7OQyyvNPd2XQIHCB1wz) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Saving Lives](https://open.spotify.com/album/1q3TxKjmvdwSE8SmOsAsjt) | 4:27 | 2021-11-19 | 2022-02-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > For the pain, tears and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,172 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,211 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 40 | [Dreamer](https://open.spotify.com/track/4HxlXzXwDyhMqxUHCXYD79) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 3:00 |
 | 41 | [Miss You](https://open.spotify.com/track/30PjTH4isfHAsIsa9lMVvh) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS), [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj), [Outcast Music](https://open.spotify.com/artist/2uNmS44lGiSLAV7R7jjbbh), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Miss You](https://open.spotify.com/album/3mbeypjgiTtwcHZW7uaozL) | 3:21 |
 | 42 | [Goodbye](https://open.spotify.com/track/2GBVICsaRyuQ2RBmCXin9J) | [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Goodbye](https://open.spotify.com/album/7ghHUmv50N6eSegtCyCqnZ) | 3:44 |
-| 43 | [Mine \(feat\. Boslen\)](https://open.spotify.com/track/5HvaoqWuK3TkkqOx9U94zv) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld), [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [Mine \(feat\. Boslen\)](https://open.spotify.com/album/3fHEWdTydZmzMfOyfhSSll) | 3:10 |
-| 44 | [Peace Of Mind](https://open.spotify.com/track/71cLwuw0yKKcKlHDiccxNn) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 4:14 |
+| 43 | [Peace Of Mind](https://open.spotify.com/track/71cLwuw0yKKcKlHDiccxNn) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 4:14 |
+| 44 | [Mine \(feat\. Boslen\)](https://open.spotify.com/track/5HvaoqWuK3TkkqOx9U94zv) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld), [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [Mine \(feat\. Boslen\)](https://open.spotify.com/album/3fHEWdTydZmzMfOyfhSSll) | 3:10 |
 | 45 | [Murvlana](https://open.spotify.com/track/0mTtZ8UbOySRQHkqaAA1CK) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Mandy & The Jungle](https://open.spotify.com/album/4IMFZY59ree679oXQS36xM) | 3:18 |
 | 46 | [Lie To Me \(Tell Me a Fairy Tale\)](https://open.spotify.com/track/5uWY0KnnVk2EVeUsgsnOFW) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Blocka Beats](https://open.spotify.com/artist/7aQKaQoCPS9HOu4fOtJSEm) | [Lie To Me \(Tell Me a Fairy Tale\)](https://open.spotify.com/album/6LV9r0DgOvWCJj0j4kYbO4) | 3:18 |
 | 47 | [I'm Sorry](https://open.spotify.com/track/3wFPcby1G24MrJdfY18rqi) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Festival of the Sun](https://open.spotify.com/album/4KBAvXtsBubhWTTdKy9lfD) | 3:17 |
-| 48 | [Insecure](https://open.spotify.com/track/3yVy2TK4A8pyGtzFFSzYhJ) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Boo of the Booless](https://open.spotify.com/album/4BguuTkeDiuE2Iq4T6iM33) | 3:00 |
-| 49 | [lonely forever](https://open.spotify.com/track/7367yPl8eNATrjThrwXq1l) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [lonely forever](https://open.spotify.com/album/2mZewkfHwNjs54Yb9tomvv) | 3:45 |
+| 48 | [lonely forever](https://open.spotify.com/track/7367yPl8eNATrjThrwXq1l) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [lonely forever](https://open.spotify.com/album/2mZewkfHwNjs54Yb9tomvv) | 3:45 |
+| 49 | [Insecure](https://open.spotify.com/track/3yVy2TK4A8pyGtzFFSzYhJ) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Boo of the Booless](https://open.spotify.com/album/4BguuTkeDiuE2Iq4T6iM33) | 3:00 |
 | 50 | [Omoge Mi](https://open.spotify.com/track/6xKWafFBzv9KGbWODuwQ0V) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Get Squared](https://open.spotify.com/album/0u5OspKCUbshNaZGc53hgs) | 4:35 |
 
-Snapshot ID: `MTY4MjAzMTYwMCwwMDAwMDAwMGE3MWJkZTc0NjZkNzU5OGUwYTVlZGFkMWQyODgyN2Yw`
+Snapshot ID: `MTY4MjAzMTYwMCwwMDAwMDAwMDIyNGY4OGE1YzU5OGE4MGFjOTcwMDRiYTBhMGViYWU1`

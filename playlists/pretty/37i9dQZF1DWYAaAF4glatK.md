@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 
 > Plus que 8 semaines avant l'été ! 🍦
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,637 likes - 53 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,716 likes - 53 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Alone \(with Nicki Minaj\)](https://open.spotify.com/track/7kOletJ0Q5H4MWe7cfeZXP) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Alone](https://open.spotify.com/album/5YdIiv5WLNbaONCyGIDszz) | 3:05 |
-| 2 | [People \(feat\. Becky G\)](https://open.spotify.com/track/40OZkN8qle7lxaovVrn1QY) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [People \(feat\. Becky G\) \[Remixes\]](https://open.spotify.com/album/49TVWS0iWtQ7ZAQFzqqpoB) | 3:22 |
+| 2 | [People \(feat\. Becky G\)](https://open.spotify.com/track/40OZkN8qle7lxaovVrn1QY) | [Libianca](https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [People \(feat\. Becky G\) \[Remixes\]](https://open.spotify.com/album/49TVWS0iWtQ7ZAQFzqqpoB) | 3:22 |
 | 3 | [DANÇARINA \(feat\. Nicky Jam, MC Pedrinho\) \- Remix](https://open.spotify.com/track/5QQKWOwPjG9vcDBTQ5Hv5Q) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [DANÇARINA \(feat\. Nicky Jam, MC Pedrinho\) \[Remix\]](https://open.spotify.com/album/47F5OvdnBKsti5MNRGJ2On) | 3:32 |
 | 4 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 |
 | 5 | [Can’t Forget You \(feat\. James Blunt\)](https://open.spotify.com/track/7amfTemBf8YlQr96FsOzgj) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Can’t Forget You \(feat\. James Blunt\)](https://open.spotify.com/album/4rSNyCFSf1b7EQjTD9kLiA) | 2:29 |

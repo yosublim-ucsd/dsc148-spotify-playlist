@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,319 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,365 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 31 | [Sacar la Voz](https://open.spotify.com/track/1tR0tdHtTapWhGkUAEfgVR) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [La Bala](https://open.spotify.com/album/2zKOLLaPdOm8gouCwbzkgF) | 4:13 |
 | 32 | [Derecho de Nacimiento \(feat\. Los Macorinos\)](https://open.spotify.com/track/5XkqOjBws8qpEkBW7X5Ppy) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos\), Vol\. 2](https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy) | 5:48 |
 | 33 | [La Fuerza del Amor](https://open.spotify.com/track/2Hej26B36YlkZ97Xw4xW3M) | [Doctor Krápula](https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r) | [Bombea](https://open.spotify.com/album/6ca14tXhlFLOuNf03Ryxa4) | 3:36 |
-| 34 | [Fijate Bien](https://open.spotify.com/track/3wE4fvPhhScUAhY37TDc1D) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Fijate Bien](https://open.spotify.com/album/7IOugW3LC5qxTyceggg00d) | 4:54 |
-| 35 | [El Pueblo Unido Jamás Será Vencido](https://open.spotify.com/track/1hcVUv737WNoY1d9BRZpyQ) | [Inti\-Illimani](https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN) | [Viva Italia](https://open.spotify.com/album/1g5vHoa3aMWXbVIlfhn7mb) | 4:52 |
+| 34 | [El Pueblo Unido Jamás Será Vencido](https://open.spotify.com/track/1hcVUv737WNoY1d9BRZpyQ) | [Inti\-Illimani](https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN) | [Viva Italia](https://open.spotify.com/album/1g5vHoa3aMWXbVIlfhn7mb) | 4:52 |
+| 35 | [Fijate Bien](https://open.spotify.com/track/3wE4fvPhhScUAhY37TDc1D) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Fijate Bien](https://open.spotify.com/album/7IOugW3LC5qxTyceggg00d) | 4:54 |
 | 36 | [que lo que](https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [que lo que](https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu) | 2:04 |
 | 37 | [Abuso de Autoridad](https://open.spotify.com/track/2YOz9ahfbrr93hvnBDTySd) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [Adicto al Rock N Roll](https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ) | 2:01 |
 | 38 | [Calma Pueblo \(feat\. Omar Rodríguez\)](https://open.spotify.com/track/4eES4FfNECMQCcb4Ao9yhj) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb), [Omar Rodriguez](https://open.spotify.com/artist/1ixVWnnE0qh69epdQxmEhO) | [Entren Los Que Quieran](https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx) | 4:09 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 86 | [Somos Hermanas](https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Somos Hermanas](https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK) | 3:50 |
 | 87 | [Luna Tucumana](https://open.spotify.com/track/7x22SRygRje0FD7A3jiYmz) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [His Great Songs](https://open.spotify.com/album/4q6egD1rqbJXSaDyoVqVZX) | 3:08 |
 | 88 | [El País de No Pasa Nada](https://open.spotify.com/track/1JklEfdFt8U7HMck9etQjs) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [Circular Colectivo](https://open.spotify.com/album/414o3Z4kf1C9dGdpxGmkBk) | 3:35 |
-| 89 | [Octubre](https://open.spotify.com/track/36Mq1PveDyp8vsdbnBHDRb) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Octubre](https://open.spotify.com/album/4ds5vTznbduvC2aTg041Or) | 3:48 |
-| 90 | [Paco Vampiro](https://open.spotify.com/track/1d8izQZm0HT6s49oOm235o) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Paco Vampiro](https://open.spotify.com/album/71wsgoCJ3gvOV7zh9sjbLX) | 3:21 |
+| 89 | [Paco Vampiro](https://open.spotify.com/track/1d8izQZm0HT6s49oOm235o) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Paco Vampiro](https://open.spotify.com/album/71wsgoCJ3gvOV7zh9sjbLX) | 3:21 |
+| 90 | [Octubre](https://open.spotify.com/track/36Mq1PveDyp8vsdbnBHDRb) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Octubre](https://open.spotify.com/album/4ds5vTznbduvC2aTg041Or) | 3:48 |
 | 91 | [La Maldición de Mi País](https://open.spotify.com/track/5UMI3R8gkfBrCpF7zX2g3U) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [La Velocidad de la Luz](https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG) | 3:03 |
 | 92 | [Se Me Ocurre](https://open.spotify.com/track/2D153hv0xak4aPbNqNBq89) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx) | 4:02 |
 | 93 | [La Memoria](https://open.spotify.com/track/3GReYwQCbq9Y7FOrSVDAxQ) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [D\-Mente](https://open.spotify.com/artist/5FhptIji4QaSFq9NupXBv7) | [Un León D\-Mente](https://open.spotify.com/album/7pjA0y6GECeG1Qx731TSaz) | 5:46 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 95 | [Fuerte](https://open.spotify.com/track/1bmkkmC0umjVUUjmDIRDq6) | [Saúl Hernández](https://open.spotify.com/artist/3VdwsMY5MqUl5WCw7SqnRG) | [Mortal](https://open.spotify.com/album/0q44F7jzFlaGuZQzVUl8FX) | 5:05 |
 | 96 | [Su Madre Patria](https://open.spotify.com/track/644qoF650m6xvB8PHPSz1q) | [Edson Velandia](https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi), [Adriana Lizcano](https://open.spotify.com/artist/2vITZovJRCRAywLXzKqEje) | [Su Madre Patria](https://open.spotify.com/album/3BlhpwuACPUsR8xSLO8DwW) | 2:16 |
 | 97 | [Ellas](https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Ellas](https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY) | 4:44 |
-| 98 | [Sororidad](https://open.spotify.com/track/5pdF3LbEvRBiLFSfCjMlmP) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2) | [Autogestión y Resistencia](https://open.spotify.com/album/78MBva8XZUxvaeHANhYG7W) | 3:40 |
+| 98 | [Bella Ciao](https://open.spotify.com/track/6Jb5YWfJNHqadAeeSijMEU) | [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [Bella Ciao](https://open.spotify.com/album/5KHRo5czZnhlAfQ2e4840e) | 2:02 |
 | 99 | [Todavia Cantamos](https://open.spotify.com/track/1TenrgmXbei6eyBQQdcnYK) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [Gieco Y Heredia En Vivo](https://open.spotify.com/album/3DJPYHm866uKwVGciRggY3) | 3:46 |
-| 100 | [Bella Ciao](https://open.spotify.com/track/6Jb5YWfJNHqadAeeSijMEU) | [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [Bella Ciao](https://open.spotify.com/album/5KHRo5czZnhlAfQ2e4840e) | 2:02 |
+| 100 | [Sororidad](https://open.spotify.com/track/5pdF3LbEvRBiLFSfCjMlmP) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2) | [Autogestión y Resistencia](https://open.spotify.com/album/78MBva8XZUxvaeHANhYG7W) | 3:40 |
 
-Snapshot ID: `MTY3MTE1NzY1NCwwMDAwMDAwMGQxNjAyMDIyY2RlZmM2YjJkY2ZhZjgwNDFjNTAxN2Ix`
+Snapshot ID: `MTY3MTE1NzY1NCwwMDAwMDAwMDAxZmExZGNiZTMzYzcyOTZiZWRmYmEyMjZkOTI0NThh`

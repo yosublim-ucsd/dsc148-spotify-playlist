@@ -1,12 +1,12 @@
 {
   "description": "Epic and melodic metal - for the dragonslayer in you! Cover: Sabaton",
-  "num_followers": 728437,
+  "num_followers": 728598,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDc0M2NhYWI0NTNmMDVkNDdhYzU4NWRmMjdiYmViZTVl",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGMwNDc5MDQwMTA5MWE5ODhlYjMxZjIwZjhiMTk3Y2Rl",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "We Are Legion",
-        "url": "https://open.spotify.com/album/1jexIhocz0R6rK1nbUU6Cq"
-      },
-      "artists": [
-        {
-          "name": "Eleine",
-          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
-        }
-      ],
-      "duration_ms": 221720,
-      "name": "We Are Legion",
-      "url": "https://open.spotify.com/track/7zooUycg2N63RgfMuIHYFF"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Natural Born Killer",
         "url": "https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 205826,
       "name": "Natural Born Killer",
       "url": "https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "We Are Legion",
+        "url": "https://open.spotify.com/album/1jexIhocz0R6rK1nbUU6Cq"
+      },
+      "artists": [
+        {
+          "name": "Eleine",
+          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
+        }
+      ],
+      "duration_ms": 221720,
+      "name": "We Are Legion",
+      "url": "https://open.spotify.com/track/7zooUycg2N63RgfMuIHYFF"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -495,26 +495,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Dark Waters",
-        "url": "https://open.spotify.com/album/0aZuBf1mVMdYYZWRxBUZHs"
-      },
-      "artists": [
-        {
-          "name": "Delain",
-          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
-        },
-        {
-          "name": "Paolo Ribaldini",
-          "url": "https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN"
-        }
-      ],
-      "duration_ms": 299076,
-      "name": "Beneath (feat. Paolo Ribaldini)",
-      "url": "https://open.spotify.com/track/0OjnAYGA3uGCN5XbD53dA5"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "The Wicked Rule The Night",
         "url": "https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 264946,
       "name": "The Wicked Rule The Night",
       "url": "https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Dark Waters",
+        "url": "https://open.spotify.com/album/0aZuBf1mVMdYYZWRxBUZHs"
+      },
+      "artists": [
+        {
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        },
+        {
+          "name": "Paolo Ribaldini",
+          "url": "https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN"
+        }
+      ],
+      "duration_ms": 299076,
+      "name": "Beneath (feat. Paolo Ribaldini)",
+      "url": "https://open.spotify.com/track/0OjnAYGA3uGCN5XbD53dA5"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Feed the Fire",
-        "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
-      },
-      "artists": [
-        {
-          "name": "Crimson Sun",
-          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Feed the Fire",
-      "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Glory for Salvation",
         "url": "https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 346053,
       "name": "Son of Vengeance",
       "url": "https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Feed the Fire",
+        "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
+      },
+      "artists": [
+        {
+          "name": "Crimson Sun",
+          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Feed the Fire",
+      "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Warning Sign",
-        "url": "https://open.spotify.com/album/2XiflLd5EaQLlTTTDElXwH"
-      },
-      "artists": [
-        {
-          "name": "Dark Sarah",
-          "url": "https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk"
-        }
-      ],
-      "duration_ms": 259068,
-      "name": "Warning Sign",
-      "url": "https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/7pqRiN3pUnKElwIXBdUAV1"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 237031,
       "name": "Dismantled",
       "url": "https://open.spotify.com/track/1JETidOlBrs1QsLHPdMUFP"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Warning Sign",
+        "url": "https://open.spotify.com/album/2XiflLd5EaQLlTTTDElXwH"
+      },
+      "artists": [
+        {
+          "name": "Dark Sarah",
+          "url": "https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk"
+        }
+      ],
+      "duration_ms": 259068,
+      "name": "Warning Sign",
+      "url": "https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Summer Wine",
+        "url": "https://open.spotify.com/album/0zD0AziIE0AvM4cklnT7Bj"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "duration_ms": 245444,
+      "name": "Summer Wine",
+      "url": "https://open.spotify.com/track/1FgRL0qBHeVu4iZnj3WP9r"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "The Widow Maker",
         "url": "https://open.spotify.com/album/2ivXd8Ca3ECnX7ILZoNpbP"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 235453,
       "name": "The Widow Maker - feat. Gunship",
       "url": "https://open.spotify.com/track/2wEefjLWT91c7AyTuiStmi"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Summer Wine",
-        "url": "https://open.spotify.com/album/0zD0AziIE0AvM4cklnT7Bj"
-      },
-      "artists": [
-        {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
-        }
-      ],
-      "duration_ms": 245444,
-      "name": "Summer Wine",
-      "url": "https://open.spotify.com/track/1FgRL0qBHeVu4iZnj3WP9r"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Nomad's Luck",
-        "url": "https://open.spotify.com/album/4hu6ynojW3eaL7Bp5tDi5A"
-      },
-      "artists": [
-        {
-          "name": "Ignea",
-          "url": "https://open.spotify.com/artist/7E7V95LId9MPJ6anIK1qrM"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Nomad's Luck",
-      "url": "https://open.spotify.com/track/0Riwsy1sSuL5uCOlTvEAnH"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Here We Stand",
         "url": "https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR"
       },
@@ -1303,6 +1287,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Nomad's Luck",
+        "url": "https://open.spotify.com/album/4hu6ynojW3eaL7Bp5tDi5A"
+      },
+      "artists": [
+        {
+          "name": "Ignea",
+          "url": "https://open.spotify.com/artist/7E7V95LId9MPJ6anIK1qrM"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Nomad's Luck",
+      "url": "https://open.spotify.com/track/0Riwsy1sSuL5uCOlTvEAnH"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "A Cloak Woven of Stars",
         "url": "https://open.spotify.com/album/0pgqABeJv3v8GgMlfFMeSm"
       },
@@ -1315,22 +1315,6 @@
       "duration_ms": 217666,
       "name": "A Cloak Woven of Stars",
       "url": "https://open.spotify.com/track/63MHeFB8wPnk1BdOzOhSQH"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Dinosaur Warfare Pt. 2 \u2013 The Great Ninja War",
-        "url": "https://open.spotify.com/album/1mOt5zGtWlns8V3AD5HMCr"
-      },
-      "artists": [
-        {
-          "name": "Victorius",
-          "url": "https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN"
-        }
-      ],
-      "duration_ms": 286540,
-      "name": "Victorious Dinogods",
-      "url": "https://open.spotify.com/track/3OgXzA0isNtksoVjTgHRPf"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1371,6 +1355,22 @@
       "duration_ms": 288166,
       "name": "Target Acquired",
       "url": "https://open.spotify.com/track/25x7xXk5m6oCO1x67J0HRY"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Dinosaur Warfare Pt. 2 \u2013 The Great Ninja War",
+        "url": "https://open.spotify.com/album/1mOt5zGtWlns8V3AD5HMCr"
+      },
+      "artists": [
+        {
+          "name": "Victorius",
+          "url": "https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN"
+        }
+      ],
+      "duration_ms": 286540,
+      "name": "Victorious Dinogods",
+      "url": "https://open.spotify.com/track/3OgXzA0isNtksoVjTgHRPf"
     },
     {
       "added_at": "2023-04-14 04:00:00",

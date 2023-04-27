@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 
 > ¡Pop\-punk por siempre!
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,353 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,379 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 25 | [Espero Nadie Ocupe Mi Lugar](https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9) | [Camiches](https://open.spotify.com/artist/3DZM1ODnTL003kSGHSd7dA) | [El Bálsamo para los Sabios y los Buenos Perdedores](https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A) | 3:34 |
 | 26 | [Fantasma](https://open.spotify.com/track/5lHTn6FuRalBBQZMUJt1xH) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [CARIBE 4 LIFE](https://open.spotify.com/album/30kNCcBRLO4ju5EOx41OJK) | 3:26 |
 | 27 | [Fantasmas](https://open.spotify.com/track/4p1fdScUiB1t9idEW5r3sW) | [Aurum](https://open.spotify.com/artist/4c0Bp0wMrzxY4LbvrBQnHB) | [Fantasmas](https://open.spotify.com/album/6DXXRDiKXGvJ69FRjVykHZ) | 3:36 |
-| 28 | [Bacardí](https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu) | [Pet Friendly](https://open.spotify.com/artist/10cs4jDg6ozMG8A80e5aoW) | [Bacardí](https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G) | 2:31 |
-| 29 | [Te Vale Madre](https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Te Vale Madre](https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7) | 3:10 |
+| 28 | [Te Vale Madre](https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Te Vale Madre](https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7) | 3:10 |
+| 29 | [Bacardí](https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu) | [Pet Friendly](https://open.spotify.com/artist/10cs4jDg6ozMG8A80e5aoW) | [Bacardí](https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G) | 2:31 |
 | 30 | [Tennessecito](https://open.spotify.com/track/2BPwqGaBZd9gYb8KKGzvNR) | [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [Mejores Tiempos](https://open.spotify.com/album/1mVd6hoLX3MnyRlUPijZRE) | 4:12 |
 | 31 | [No olvides de enfocarte siempre en lo importante](https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK) | [Da Skate](https://open.spotify.com/artist/3j5RvqYJKTwcBFebeRNrxW) | [La teoría de los septenios](https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo) | 2:31 |
 | 32 | [Conversaciones Con Mi Almohada](https://open.spotify.com/track/56azZHaAdx4Ml2GybnV58P) | [Buen Viaje](https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ), [Fear Allison](https://open.spotify.com/artist/75t1ar10ekAij353mysCMK) | [Autodestrucción](https://open.spotify.com/album/3OeUOu3JA9jwSWqE95VPrR) | 3:54 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 35 | [Cometas](https://open.spotify.com/track/6mm1LKObTbVz0shiDdricL) | [Novella Inc](https://open.spotify.com/artist/3CtVX0akQ8axuqRjzGajdm) | [Cometas](https://open.spotify.com/album/63yw4FkIB1x854LgBU60Li) | 3:03 |
 | 36 | [Llévate Todo](https://open.spotify.com/track/0CXeshXcp9ymzRNlrhSPp5) | [Finde](https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC) | [Volver a Empezar](https://open.spotify.com/album/2fLcckLUgyvXFt7AVJeBel) | 3:29 |
 | 37 | [Cereal](https://open.spotify.com/track/1jEyfhLrKrtbpm0DGbnS7H) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Cereal](https://open.spotify.com/album/4RFAbUoR8Wjr4800cYcZEL) | 2:41 |
-| 38 | [Humanos Como Tú](https://open.spotify.com/track/3fvNWLnmratSXuqcVXIHyU) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Humanos Como Tú](https://open.spotify.com/album/0HqeYIoIRBpQ9zt31b5VQY) | 3:48 |
-| 39 | [Nadie Me Entiende](https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Nadie Me Entiende](https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY) | 3:00 |
+| 38 | [Nadie Me Entiende](https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Nadie Me Entiende](https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY) | 3:00 |
+| 39 | [Humanos Como Tú](https://open.spotify.com/track/3fvNWLnmratSXuqcVXIHyU) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Humanos Como Tú](https://open.spotify.com/album/0HqeYIoIRBpQ9zt31b5VQY) | 3:48 |
 | 40 | [Dualidad](https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Dualidad](https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg) | 3:43 |
 | 41 | [Siempre Fuerte](https://open.spotify.com/track/6x8GV4GRH2hZ8eeRmpMrC4) | [Skates Mx](https://open.spotify.com/artist/2P3698bE1ZmRUy8KljStTv) | [Y Si Patinan?](https://open.spotify.com/album/3AVCV6rOUqSxWt9YRf3IjD) | 3:36 |
 | 42 | [Distancias](https://open.spotify.com/track/7ERijR9hA3srvop0osPQCA) | [Diez Veces Yo](https://open.spotify.com/artist/1WWCrSgufkJeqcEtYcSW4l) | [Historias](https://open.spotify.com/album/5NQsCrl81fPCQ1osysTxJg) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 49 | [No Hay Final Feliz](https://open.spotify.com/track/4DA6ycFahIk2BekxtAnS8r) | [Cuatro y Medio](https://open.spotify.com/artist/6wJwB1zPYk6mASfPxua8qC) | [No Hay Final Feliz](https://open.spotify.com/album/5C2ctVj0v0BVGc3D7ELsea) | 3:38 |
 | 50 | [Escribe Una Canción](https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2) | [DON](https://open.spotify.com/artist/4xRGF3S9AgY23sWuzKlUDR) | [Siempre Resistir / Nunca Desistir](https://open.spotify.com/album/05oaSmUNyPQMVeNgvfn8uS) | 3:54 |
 
-Snapshot ID: `MTY4MjA1NjgwMCwwMDAwMDAwMGI2NzA0ZTVhYjAwMjJlNGFkN2Q1MmJkYWQ2OWM0YWZj`
+Snapshot ID: `MTY4MjA1NjgwMCwwMDAwMDAwMDgwMDNkMGJkNmU0OGMyMmMwNDM4MDQ5ZTc3YWE4MzVk`

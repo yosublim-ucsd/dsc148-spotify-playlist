@@ -1,12 +1,12 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 715773,
+  "num_followers": 715959,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODU5NDAwOSwwMDAwMDAwMGY3MDkxNzIzMjBhNzc0MWVlMTQ4ZWY4N2I4ZTEyNjUz",
+  "snapshot_id": "MTY2ODU5NDAwOSwwMDAwMDAwMDhhYTYwM2QwYjFlMTBlMWNjY2EyNGZhZmU0MTRlODcw",
   "tracks": [
     {
       "added_at": "2022-08-26 12:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Still Bill",
-        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 258834,
-      "name": "Lean on Me",
-      "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "No Brakes",
         "url": "https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 269760,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 258834,
+      "name": "Lean on Me",
+      "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Welcome To The Real World",
         "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 343933,
       "name": "Broken Wings",
       "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Teaser And The Firecat (Remastered 2021)",
-        "url": "https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 199453,
-      "name": "Morning Has Broken - Remastered 2021",
-      "url": "https://open.spotify.com/track/5y8d8RHvxb0KiTa9Nq0xWp"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Say You Won't Let Go",
         "url": "https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 211240,
       "name": "Say You Won't Let Go",
       "url": "https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Teaser And The Firecat (Remastered 2021)",
+        "url": "https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 199453,
+      "name": "Morning Has Broken - Remastered 2021",
+      "url": "https://open.spotify.com/track/5y8d8RHvxb0KiTa9Nq0xWp"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Nilsson Schmilsson",
-        "url": "https://open.spotify.com/album/3EfpOFKjotrMQTFTnxrXaB"
-      },
-      "artists": [
-        {
-          "name": "Harry Nilsson",
-          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/6MrILERJLA3Jcq0E9poZsp"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Cuts Like A Knife",
         "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 211933,
       "name": "Straight From The Heart",
       "url": "https://open.spotify.com/track/5eaK7PLGwyDXmHfTdWZZuE"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Nilsson Schmilsson",
+        "url": "https://open.spotify.com/album/3EfpOFKjotrMQTFTnxrXaB"
+      },
+      "artists": [
+        {
+          "name": "Harry Nilsson",
+          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/6MrILERJLA3Jcq0E9poZsp"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Third Album",
+        "url": "https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 237760,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Paradise Valley",
         "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 249933,
       "name": "Who You Love (feat. Katy Perry)",
       "url": "https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Third Album",
-        "url": "https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG"
-      },
-      "artists": [
-        {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
-        }
-      ],
-      "duration_ms": 237760,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3"
-      },
-      "artists": [
-        {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
-        }
-      ],
-      "duration_ms": 236773,
-      "name": "I'll Make Love To You",
-      "url": "https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Lionel Richie",
         "url": "https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 200506,
       "name": "Truly",
       "url": "https://open.spotify.com/track/7AslBsiVLQAGrmFmi79ZeK"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "duration_ms": 236773,
+      "name": "I'll Make Love To You",
+      "url": "https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Double Fantasy",
-        "url": "https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "Woman - Remastered 2010",
-      "url": "https://open.spotify.com/track/1BrbXIJ7b161oQ0PfC0K32"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Never Forget: The Ultimate Collection",
         "url": "https://open.spotify.com/album/7jzGCK8GdjuWEAe1lZ71xI"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 220813,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/0pO9wem4wi61QD2PWFpIJQ"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Double Fantasy",
+        "url": "https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "Woman - Remastered 2010",
+      "url": "https://open.spotify.com/track/1BrbXIJ7b161oQ0PfC0K32"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "The Seventh One",
         "url": "https://open.spotify.com/album/7LVxCg18peWcBBdu7Xr6r3"
       },
@@ -1859,18 +1875,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Can't Slow Down",
-        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
+        "name": "Let's Get It On (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy"
       },
       "artists": [
         {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 195133,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf"
+      "duration_ms": 290960,
+      "name": "Let's Get It On",
+      "url": "https://open.spotify.com/track/0jHkgTtTaqg5LNCiYDQPUB"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1891,22 +1907,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Let's Get It On (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 290960,
-      "name": "Let's Get It On",
-      "url": "https://open.spotify.com/track/0jHkgTtTaqg5LNCiYDQPUB"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Mane Attraction",
         "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
       },
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "James Arthur (Deluxe)",
-        "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 250653,
-      "name": "Impossible - Acoustic",
-      "url": "https://open.spotify.com/track/0JswmIBSn3XZ15wEEtH5fj"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Paradise Valley",
         "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 222720,
       "name": "Dear Marie",
       "url": "https://open.spotify.com/track/5Aq5TIy9jVK70aL7xcE9oa"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Empty Space",
+        "url": "https://open.spotify.com/album/2utLlsPJXe11YMuLwH2rf4"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 214226,
+      "name": "Empty Space",
+      "url": "https://open.spotify.com/track/1uru26I2JKd2mQZt0MDCUe"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Empty Space",
-        "url": "https://open.spotify.com/album/2utLlsPJXe11YMuLwH2rf4"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 214226,
-      "name": "Empty Space",
-      "url": "https://open.spotify.com/track/1uru26I2JKd2mQZt0MDCUe"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Whitesnake (2018 Remaster)",
         "url": "https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 253506,
       "name": "I Don't Have the Heart",
       "url": "https://open.spotify.com/track/5In7xBveNACCRX2uWNoPuW"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "James Arthur (Deluxe)",
+        "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 250653,
+      "name": "Impossible - Acoustic",
+      "url": "https://open.spotify.com/track/0JswmIBSn3XZ15wEEtH5fj"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Richard Marx",
-        "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
-      },
-      "artists": [
-        {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
-        }
-      ],
-      "duration_ms": 316040,
-      "name": "Hold On To The Nights",
-      "url": "https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Vital Signs",
         "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 252613,
       "name": "The Search Is Over",
       "url": "https://open.spotify.com/track/1M3xrSPzPcKkCnXGHFPKaw"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Richard Marx",
+        "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 316040,
+      "name": "Hold On To The Nights",
+      "url": "https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl"
     },
     {
       "added_at": "2022-08-26 12:00:00",

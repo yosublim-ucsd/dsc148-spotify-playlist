@@ -1,12 +1,12 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 11110,
+  "num_followers": 11126,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5ODQ5OCwwMDAwMDAwMDM2Y2RhNzE1MWRlYmUzN2Q5YzU5MGYzZGU1NWYyOWMw",
+  "snapshot_id": "MTY0ODQ5ODQ5OCwwMDAwMDAwMGZhMmI4MjMxZjdiYjgxNjJkODFiYzE4ZGNlN2VmOGMy",
   "tracks": [
     {
       "added_at": "2022-03-28 20:14:58",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Popular Favorites",
-        "url": "https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M"
-      },
-      "artists": [
-        {
-          "name": "Oblivians",
-          "url": "https://open.spotify.com/artist/14UQmxJzeKtmgYzJ1sEJdi"
-        }
-      ],
-      "duration_ms": 119026,
-      "name": "Christina",
-      "url": "https://open.spotify.com/track/7ah8dRCjJFGCWstleG0PpD"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "The King Khan & Bbq Show",
         "url": "https://open.spotify.com/album/6Ap1PVkQ93MHggcPjQ0vuE"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 170520,
       "name": "Fishfight",
       "url": "https://open.spotify.com/track/777LjHoW3blYhduQVUrCPk"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Popular Favorites",
+        "url": "https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M"
+      },
+      "artists": [
+        {
+          "name": "Oblivians",
+          "url": "https://open.spotify.com/artist/14UQmxJzeKtmgYzJ1sEJdi"
+        }
+      ],
+      "duration_ms": 119026,
+      "name": "Christina",
+      "url": "https://open.spotify.com/track/7ah8dRCjJFGCWstleG0PpD"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Sedition",
-        "url": "https://open.spotify.com/album/55FK9VJhecEPj5bt2Ugkcv"
-      },
-      "artists": [
-        {
-          "name": "Scientists",
-          "url": "https://open.spotify.com/artist/6LTqstd1cGvRfEXaSkqoy1"
-        }
-      ],
-      "duration_ms": 319546,
-      "name": "Swampland",
-      "url": "https://open.spotify.com/track/0B8EFxR3GfhAOhrkdh9GJM"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Too Much Guitar",
         "url": "https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 177200,
       "name": "When You Touch Me",
       "url": "https://open.spotify.com/track/6QfyJdy9eO3WiAL65VQP8D"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Sedition",
+        "url": "https://open.spotify.com/album/55FK9VJhecEPj5bt2Ugkcv"
+      },
+      "artists": [
+        {
+          "name": "Scientists",
+          "url": "https://open.spotify.com/artist/6LTqstd1cGvRfEXaSkqoy1"
+        }
+      ],
+      "duration_ms": 319546,
+      "name": "Swampland",
+      "url": "https://open.spotify.com/track/0B8EFxR3GfhAOhrkdh9GJM"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -651,18 +651,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Whatcha Doin'",
-        "url": "https://open.spotify.com/album/76ioQYsj2LjKW7hewrz9uX"
+        "name": "Too Much Guitar",
+        "url": "https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK"
       },
       "artists": [
         {
-          "name": "The Go",
-          "url": "https://open.spotify.com/artist/2m0xdXsYglZKSzqVkZtFi8"
+          "name": "Reigning Sound",
+          "url": "https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t"
         }
       ],
-      "duration_ms": 217040,
-      "name": "Summer Sun Blues",
-      "url": "https://open.spotify.com/track/3w9bUhup3zHpeNUhujZKhn"
+      "duration_ms": 123013,
+      "name": "Get It!",
+      "url": "https://open.spotify.com/track/6AfEsXG7vy93DHEbWcgLuo"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "Whatcha Doin'",
+        "url": "https://open.spotify.com/album/76ioQYsj2LjKW7hewrz9uX"
+      },
+      "artists": [
+        {
+          "name": "The Go",
+          "url": "https://open.spotify.com/artist/2m0xdXsYglZKSzqVkZtFi8"
+        }
+      ],
+      "duration_ms": 217040,
+      "name": "Summer Sun Blues",
+      "url": "https://open.spotify.com/track/3w9bUhup3zHpeNUhujZKhn"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "14 Frenzied Shakers",
         "url": "https://open.spotify.com/album/2CTnUp9DpibklvypLkEQKz"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 154386,
       "name": "(Oh Mom) Teach Me How to Uncle Willy",
       "url": "https://open.spotify.com/track/3vfJ46ozwgF37hLweVMDnj"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "Too Much Guitar",
-        "url": "https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK"
-      },
-      "artists": [
-        {
-          "name": "Reigning Sound",
-          "url": "https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t"
-        }
-      ],
-      "duration_ms": 123013,
-      "name": "Get It!",
-      "url": "https://open.spotify.com/track/6AfEsXG7vy93DHEbWcgLuo"
     },
     {
       "added_at": "2022-03-28 20:14:58",

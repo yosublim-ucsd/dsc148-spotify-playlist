@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 
 > Heavy music for heavy feelings.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,428 likes - 80 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,682 likes - 80 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 32 | [Hated](https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Aggressive](https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ) | 3:31 |
 | 33 | [Otherside](https://open.spotify.com/track/3CeYdUfGPCjKMDYyI1PpCh) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication](https://open.spotify.com/album/0fLhefnjlIV3pGNF9Wo8CD) | 4:15 |
 | 34 | [What If I Was Nothing](https://open.spotify.com/track/28urem2KpSOkljclEk8X8G) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [A War You Cannot Win](https://open.spotify.com/album/2OhPQMXOtJ00nrffxY9B3W) | 4:37 |
-| 35 | [mars](https://open.spotify.com/track/6C6aknFp2XtjIq7xuvyfuY) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 3:01 |
-| 36 | [Let Me Be Sad](https://open.spotify.com/track/5jmYu7XY4zd3mJfizA8t1K) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRAUMA](https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik) | 3:34 |
+| 35 | [Let Me Be Sad](https://open.spotify.com/track/5jmYu7XY4zd3mJfizA8t1K) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRAUMA](https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik) | 3:34 |
+| 36 | [mars](https://open.spotify.com/track/6C6aknFp2XtjIq7xuvyfuY) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 3:01 |
 | 37 | [Dear Agony](https://open.spotify.com/track/0c3fJd2HRi6uHWgTljIae5) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Dear Agony](https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV) | 4:18 |
 | 38 | [last november](https://open.spotify.com/track/7AbpTqNbxpqWQjKcSOpYvq) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [mainstream sellout \(life in pink deluxe\)](https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7) | 2:54 |
 | 39 | [Moving On](https://open.spotify.com/track/44sLQYgTQgGD5vCaijG8s2) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [From Death To Destiny](https://open.spotify.com/album/3xsYrjxckl6DZiyiPr5U3D) | 4:02 |
@@ -55,27 +55,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 45 | [Make Me Wanna Die](https://open.spotify.com/track/2opyAm6zOyjR0An5LkblfN) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Light Me Up](https://open.spotify.com/album/2vv6A1vmzEcnzaIkrKveJy) | 3:55 |
 | 46 | [Without You](https://open.spotify.com/track/5r95yxmemjPfVSjCoSeAP4) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Dear Agony](https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV) | 4:16 |
 | 47 | [Love Me](https://open.spotify.com/track/1Bg4qbrQjRJjoXZlB3y3Ot) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Nothing Left to Love](https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2) | 1:40 |
-| 48 | [A Reason to Fight](https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 4:44 |
-| 49 | [Hereafter](https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:15 |
+| 48 | [Hereafter](https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:15 |
+| 49 | [A Reason to Fight](https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 4:44 |
 | 50 | [Broken](https://open.spotify.com/track/32yaRngoDZcF56ApmNaBNz) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Fever Dream](https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h) | 3:10 |
-| 51 | [All We Have Is Now](https://open.spotify.com/track/4CUyNgMxAFKFEf1KrbAEbY) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:33 |
-| 52 | [Doomed](https://open.spotify.com/track/2X7QHaXlpec4VHTucG65N3) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRUE POWER](https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa) | 3:47 |
-| 53 | [How Does It Feel?](https://open.spotify.com/track/2CT85N0Rwl2UtNOYZ4gepm) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Youth](https://open.spotify.com/album/6QDNTEgCBoGd6zaKZ19vNC) | 3:53 |
-| 54 | [SELF\-SABOTAGE](https://open.spotify.com/track/34KYsYoTRXMU0MBcfBvJha) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [SELF\-SABOTAGE \(MC4D Remix\)](https://open.spotify.com/album/48OpJKI9yOfcynQX2mpkN3) | 2:37 |
-| 55 | [Missing Limbs](https://open.spotify.com/track/10aGiE3OEk4dKeUzcHINZs) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 3:20 |
-| 56 | [Eiley](https://open.spotify.com/track/03bb6AxzMre5LjZzTiLb1r) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [Haven't Been Myself](https://open.spotify.com/album/2nGyrk4CKknFVjrEZQud7l) | 4:37 |
+| 51 | [Doomed](https://open.spotify.com/track/2X7QHaXlpec4VHTucG65N3) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRUE POWER](https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa) | 3:47 |
+| 52 | [How Does It Feel?](https://open.spotify.com/track/2CT85N0Rwl2UtNOYZ4gepm) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Youth](https://open.spotify.com/album/6QDNTEgCBoGd6zaKZ19vNC) | 3:53 |
+| 53 | [All We Have Is Now](https://open.spotify.com/track/4CUyNgMxAFKFEf1KrbAEbY) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:33 |
+| 54 | [Missing Limbs](https://open.spotify.com/track/10aGiE3OEk4dKeUzcHINZs) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 3:20 |
+| 55 | [Eiley](https://open.spotify.com/track/03bb6AxzMre5LjZzTiLb1r) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [Haven't Been Myself](https://open.spotify.com/album/2nGyrk4CKknFVjrEZQud7l) | 4:37 |
+| 56 | [SELF\-SABOTAGE](https://open.spotify.com/track/34KYsYoTRXMU0MBcfBvJha) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [SELF\-SABOTAGE \(MC4D Remix\)](https://open.spotify.com/album/48OpJKI9yOfcynQX2mpkN3) | 2:37 |
 | 57 | [Goodbye](https://open.spotify.com/track/0GXmTWQBqvNZwpcfNeijlt) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 4:35 |
 | 58 | [ANTI\-SOCIAL](https://open.spotify.com/track/5XExne04zgnDeAN8aIvMvM) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SO WHAT?](https://open.spotify.com/album/2jd0syXer1txxASx3W2oy0) | 4:14 |
 | 59 | [love song](https://open.spotify.com/track/0DZr4tVoYT3rUJzm9w15Lg) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 4:00 |
-| 60 | [When You Can't Sleep At Night](https://open.spotify.com/track/42i1pGtSyPVXNX71oW8dyg) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [The Flood \(Deluxe Reissue\)](https://open.spotify.com/album/5PLgKITLdSYuh7OWpIC8nC) | 3:32 |
-| 61 | [February Stars](https://open.spotify.com/track/2ceA7CWWx6yIHdzppN8nLF) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:49 |
+| 60 | [February Stars](https://open.spotify.com/track/2ceA7CWWx6yIHdzppN8nLF) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:49 |
+| 61 | [When You Can't Sleep At Night](https://open.spotify.com/track/42i1pGtSyPVXNX71oW8dyg) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [The Flood \(Deluxe Reissue\)](https://open.spotify.com/album/5PLgKITLdSYuh7OWpIC8nC) | 3:32 |
 | 62 | [Crooked Path](https://open.spotify.com/track/2oDbxBYY3kt7mFzIXJrGMv) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [The Mortal Coil](https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl) | 4:41 |
 | 63 | [Stay With Me](https://open.spotify.com/track/5jZAtF5byijpW7UCJsUYK8) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Hold Me Down](https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU) | 3:14 |
 | 64 | [Johnny Cash \- Stripped](https://open.spotify.com/track/4sBOU30e7J2KF2VzBwDG2M) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Johnny Cash \(Stripped\)](https://open.spotify.com/album/0NBqAEzV88JB497CabtJCn) | 3:36 |
 | 65 | [Impossible](https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Impossible](https://open.spotify.com/album/1iErEjieuf47K2k7KymkQq) | 4:08 |
 | 66 | [Roses for the Dead](https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 4:07 |
-| 67 | [Pain](https://open.spotify.com/track/0dj1yT3MNh2xpdBCsSkmFa) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [Letters](https://open.spotify.com/album/4zMAfDf1c1yTAnm3bKDVSv) | 2:59 |
-| 68 | [Nobody, Not Even the Rain](https://open.spotify.com/track/7lLgr9yoa1vToPYyEfZ8Dp) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Somewhere at the Bottom of the River Between Vega and Altair \(10th Anniversary\)](https://open.spotify.com/album/5fzDxefGUH8jM7T9HCLSNr) | 1:10 |
+| 67 | [Nobody, Not Even the Rain](https://open.spotify.com/track/7lLgr9yoa1vToPYyEfZ8Dp) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Somewhere at the Bottom of the River Between Vega and Altair \(10th Anniversary\)](https://open.spotify.com/album/5fzDxefGUH8jM7T9HCLSNr) | 1:10 |
+| 68 | [Pain](https://open.spotify.com/track/0dj1yT3MNh2xpdBCsSkmFa) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [Letters](https://open.spotify.com/album/4zMAfDf1c1yTAnm3bKDVSv) | 2:59 |
 | 69 | [The Stigma \(Boys Don’t Cry\)](https://open.spotify.com/track/2DQ7V0O22CG2xIQ7WPAocr) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [The Great Depression](https://open.spotify.com/album/45WKwINtVCtMqKuHPugbby) | 3:02 |
 | 70 | [2008](https://open.spotify.com/track/3DIJCTr5Zl00MeLuG65Jgp) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [BUMMER](https://open.spotify.com/album/3o0iNid084ArLzRpaF5xfz) | 3:54 |
 | 71 | [Anniversary of an Uninteresting Event](https://open.spotify.com/track/27gb40S6AIpP5lrhLxlfXj) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Deftones](https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP) | 3:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 79 | [All I Have Left To Give](https://open.spotify.com/track/1z2gI6qgTWb836QzsUQIyB) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [Hell Finds You Everywhere](https://open.spotify.com/album/4MF4pjJyipArWvVHiPSSVl) | 3:33 |
 | 80 | [Nothing Left to Love](https://open.spotify.com/track/4VfMtL53N1ZBXbIl2qrKnX) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Nothing Left to Love](https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2) | 4:37 |
 
-Snapshot ID: `MTY3NjU3NzM3MywwMDAwMDAwMDk5N2M3MjFlYWNhNjM4YWZlOTliZjcyZjk0ZjgwYzM5`
+Snapshot ID: `MTY3NjU3NzM3MywwMDAwMDAwMGVkMGU3N2YzMGY1NGZiYTRmNzk4OGI4ODNhOWMwNWY2`

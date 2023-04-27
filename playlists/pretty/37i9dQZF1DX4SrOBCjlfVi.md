@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Latto, OHGEESY, and more\. Cover: Moneybagg Yo
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,465 likes - 47 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,579 likes - 47 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

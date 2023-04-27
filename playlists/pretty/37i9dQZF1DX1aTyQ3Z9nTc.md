@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 
 > That bouncy, groovy, dancey sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,336 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,415 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 | 42 | [Who's Taking You Home](https://open.spotify.com/track/0eezrc1XfAfhceVFRXdiY4) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Who's Taking You Home](https://open.spotify.com/album/6du4ktHaeE4Ot5dpDh57ya) | 2:42 |
 | 43 | [Lock Up](https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Lock Up](https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz) | 3:43 |
 | 44 | [pour up](https://open.spotify.com/track/0NzTOeYLPLOGFL40dOX3ho) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT), [DJ Nativesun](https://open.spotify.com/artist/3rdO5iHjXkfY8ZbnQYJBrm) | [Remember Your North Star](https://open.spotify.com/album/7BhMDGBQ6xtZl1LwOwueYO) | 2:05 |
-| 45 | [Bunda](https://open.spotify.com/track/2Sd6kW3eOWZBe86hIA8YNm) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Bunda](https://open.spotify.com/album/011rNBobpGt1eRJPtqeOlQ) | 3:34 |
-| 46 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 |
+| 45 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 |
+| 46 | [Bunda](https://open.spotify.com/track/2Sd6kW3eOWZBe86hIA8YNm) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Bunda](https://open.spotify.com/album/011rNBobpGt1eRJPtqeOlQ) | 3:34 |
 | 47 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 |
 | 48 | [24k](https://open.spotify.com/track/0F2gXzgbzLvK9LrS7yKS8Q) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Last Year Was Weird, Vol\. 2](https://open.spotify.com/album/36nDwdvBHoJMIZn0wzYWrD) | 3:53 |
 | 49 | [Happy Ending](https://open.spotify.com/track/1Szz2K6zjz3tbHJFfuIb4E) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:08 |
 | 50 | [Midnight Hour with Boys Noize & Ty Dolla $ign](https://open.spotify.com/track/5AFrctm65wWIqJsjHPPx85) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Midnight Hour with Boys Noize & Ty Dolla $ign](https://open.spotify.com/album/65Xj1lewlRP7RB5LiCeNBV) | 3:18 |
 
-Snapshot ID: `MTY4MjA0OTYxNSwwMDAwMDAwMGZjMjE4YTk4OWYwOGNkMjIwMzU0N2JlZmFjOTI1YTg2`
+Snapshot ID: `MTY4MjA0OTYxNSwwMDAwMDAwMGZlMjg2NGY2ZDNmMGY1MWVkODI1Mjk5NWIwMDlkNThl`

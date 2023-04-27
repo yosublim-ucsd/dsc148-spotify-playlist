@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBvLQJVrYDy.md) - [plain]
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,994 likes - 146 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,093 likes - 146 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,7 +149,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBvLQJVrYDy.md) - [plain]
 | 139 | [Don´t Leave Me Behind](https://open.spotify.com/track/43JcXDMsHYWtqSGRKeRUEb) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Flamingo](https://open.spotify.com/album/6dLhvWulmwax5rySRX4AUa) | 4:52 |
 | 140 | [Pour It Out](https://open.spotify.com/track/7GZ7kYUBPNm9whqDDeod1r) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 5:20 |
 | 141 | [Riverside](https://open.spotify.com/track/0vnsOSvEko26QNLxsnmYQk) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Riverside](https://open.spotify.com/album/3W4YoAdfpeaabxyutq36i2) | 3:58 |
-| 142 | [Old Folks](https://open.spotify.com/track/0xnWsv0kNVeONjhiFvEyWw) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm) | [A Ballad Moment](https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl) | 4:51 |
+| 142 | [Old Folks](https://open.spotify.com/track/0xnWsv0kNVeONjhiFvEyWw) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Ballad Moment](https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl) | 4:51 |
 | 143 | [Socks And Sandals](https://open.spotify.com/track/33HRgQotoW6raDZVZs3Rxk) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [Socks And Sandals](https://open.spotify.com/album/1dWIVAbxe91cDNhrMJ5fFV) | 3:39 |
 | 144 | [Mirror Images](https://open.spotify.com/track/7owDJ8Pr9sF4YNIdb3yrrX) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Mirror Images](https://open.spotify.com/album/0Vt5qVvs6LQLIHkikKawqg) | 3:57 |
 | 145 | [Stella by Starlight](https://open.spotify.com/track/3TVpiMoI86chM88b0I712D) | [Sophie Lemon Jazz](https://open.spotify.com/artist/05VVW01ALS5OQsRVeNflON) | [Tea for Two](https://open.spotify.com/album/2ogUu6iYKmNTdddXXHBwp5) | 5:02 |

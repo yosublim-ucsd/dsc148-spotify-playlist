@@ -1,12 +1,12 @@
 {
   "description": "sorry ik kan niet... moet studeren",
-  "num_followers": 20340,
+  "num_followers": 20363,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQxOTcwMywwMDAwMDAwMGQ3YjdiOTNiMmUwN2I4NGQ0MTU2YWM2OGFmOTY0MWE2",
+  "snapshot_id": "MTY4MTQxOTcwMywwMDAwMDAwMDQ0NDMwZmM3MmI4OWE5NzJhZDk5OGJkOWIyNmMwMTRh",
   "tracks": [
     {
       "added_at": "2023-04-13 21:01:43",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-04-13 21:01:43",
       "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 205686,
+      "name": "Hold Me While You Wait",
+      "url": "https://open.spotify.com/track/60iSKGrGazRzICtMjADNSM"
+    },
+    {
+      "added_at": "2023-04-13 21:01:43",
+      "album": {
         "name": "Get You The Moon (feat. Sn\u00f8w)",
         "url": "https://open.spotify.com/album/5LZSpPoBVBsh6kRSEKfPQ8"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 179080,
       "name": "Get You The Moon (feat. Sn\u00f8w)",
       "url": "https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa"
-    },
-    {
-      "added_at": "2023-04-13 21:01:43",
-      "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 205686,
-      "name": "Hold Me While You Wait",
-      "url": "https://open.spotify.com/track/60iSKGrGazRzICtMjADNSM"
     },
     {
       "added_at": "2023-04-13 21:01:43",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-04-13 21:01:43",
       "album": {
-        "name": "Midnight Memories (Deluxe)",
-        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 237933,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/2afCBiru10AFckfOa49wIa"
-    },
-    {
-      "added_at": "2023-04-13 21:01:43",
-      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 285935,
       "name": "Love In The Dark",
       "url": "https://open.spotify.com/track/7B5Npv8NjjTCzk8PLpU66h"
+    },
+    {
+      "added_at": "2023-04-13 21:01:43",
+      "album": {
+        "name": "Midnight Memories (Deluxe)",
+        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 237933,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/2afCBiru10AFckfOa49wIa"
     },
     {
       "added_at": "2023-04-13 21:01:43",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-04-13 21:01:43",
       "album": {
-        "name": "A Place We Knew",
-        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 240013,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/6w8pFOKn42O418qwcQElZ3"
-    },
-    {
-      "added_at": "2023-04-13 21:01:43",
-      "album": {
         "name": "Can We Kiss Forever?",
         "url": "https://open.spotify.com/album/0MGcjBIFcL2qaCrgGjIGFb"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2023-04-13 21:01:43",
       "album": {
-        "name": "Look Up Child",
-        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+        "name": "A Place We Knew",
+        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
       },
       "artists": [
         {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 274693,
-      "name": "You Say",
-      "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
+      "duration_ms": 240013,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/6w8pFOKn42O418qwcQElZ3"
     },
     {
       "added_at": "2023-04-13 21:01:43",
@@ -1127,6 +1111,22 @@
       "duration_ms": 252733,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT"
+    },
+    {
+      "added_at": "2023-04-13 21:01:43",
+      "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 274693,
+      "name": "You Say",
+      "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
     },
     {
       "added_at": "2023-04-13 21:01:43",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-04-13 21:01:43",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 221106,
-      "name": "Supermarket Flowers",
-      "url": "https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG"
-    },
-    {
-      "added_at": "2023-04-13 21:01:43",
-      "album": {
         "name": "Nervous System",
         "url": "https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 176320,
       "name": "Issues",
       "url": "https://open.spotify.com/track/7vu0JkJh0ldukEYbTVcqd0"
+    },
+    {
+      "added_at": "2023-04-13 21:01:43",
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 221106,
+      "name": "Supermarket Flowers",
+      "url": "https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG"
     },
     {
       "added_at": "2023-04-13 21:01:43",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-04-13 21:01:43",
       "album": {
-        "name": "+",
-        "url": "https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 258373,
-      "name": "The A Team",
-      "url": "https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK"
-    },
-    {
-      "added_at": "2023-04-13 21:01:43",
-      "album": {
         "name": "All My Demons Greeting Me as a Friend (Deluxe)",
         "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 248826,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ"
+    },
+    {
+      "added_at": "2023-04-13 21:01:43",
+      "album": {
+        "name": "+",
+        "url": "https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 258373,
+      "name": "The A Team",
+      "url": "https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK"
     },
     {
       "added_at": "2023-04-13 21:01:43",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-04-13 21:01:43",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf"
-      },
-      "artists": [
-        {
-          "name": "Natalie Taylor",
-          "url": "https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY"
-        }
-      ],
-      "duration_ms": 183103,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6"
-    },
-    {
-      "added_at": "2023-04-13 21:01:43",
-      "album": {
         "name": "Electric Light",
         "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 181360,
       "name": "Us",
       "url": "https://open.spotify.com/track/16XiTUC2rQvb5lmtOm3FYY"
+    },
+    {
+      "added_at": "2023-04-13 21:01:43",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf"
+      },
+      "artists": [
+        {
+          "name": "Natalie Taylor",
+          "url": "https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY"
+        }
+      ],
+      "duration_ms": 183103,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6"
     },
     {
       "added_at": "2023-04-13 21:01:43",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-04-13 21:01:43",
       "album": {
-        "name": "The Element Of Freedom",
-        "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 216480,
-      "name": "Empire State of Mind (Part II) Broken Down",
-      "url": "https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI"
-    },
-    {
-      "added_at": "2023-04-13 21:01:43",
-      "album": {
         "name": "Lonely (with benny blanco)",
         "url": "https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 149297,
       "name": "Lonely (with benny blanco)",
       "url": "https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q"
+    },
+    {
+      "added_at": "2023-04-13 21:01:43",
+      "album": {
+        "name": "The Element Of Freedom",
+        "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 216480,
+      "name": "Empire State of Mind (Part II) Broken Down",
+      "url": "https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI"
     },
     {
       "added_at": "2023-04-13 21:01:43",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2023-04-13 21:01:43",
       "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 230266,
+      "name": "Praying",
+      "url": "https://open.spotify.com/track/0jdny0dhgjUwoIp5GkqEaA"
+    },
+    {
+      "added_at": "2023-04-13 21:01:43",
+      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/5dcblm6CNsl9cCiQ6CsKjr"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 205440,
       "name": "Love Someone",
       "url": "https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1"
-    },
-    {
-      "added_at": "2023-04-13 21:01:43",
-      "album": {
-        "name": "Rainbow",
-        "url": "https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 230266,
-      "name": "Praying",
-      "url": "https://open.spotify.com/track/0jdny0dhgjUwoIp5GkqEaA"
     },
     {
       "added_at": "2023-04-13 21:01:43",
@@ -1787,38 +1787,6 @@
     {
       "added_at": "2023-04-13 21:01:43",
       "album": {
-        "name": "Get Weird (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "Love Me or Leave Me",
-      "url": "https://open.spotify.com/track/1n73Qe6oEprLsUNHXET2pb"
-    },
-    {
-      "added_at": "2023-04-13 21:01:43",
-      "album": {
-        "name": "Teenage Mind",
-        "url": "https://open.spotify.com/album/7uxkPJEel1MLzreQUmvra0"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 155205,
-      "name": "Teenage Mind",
-      "url": "https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP"
-    },
-    {
-      "added_at": "2023-04-13 21:01:43",
-      "album": {
         "name": "Electronic Earth (Expanded Edition)",
         "url": "https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI"
       },
@@ -1839,6 +1807,22 @@
     {
       "added_at": "2023-04-13 21:01:43",
       "album": {
+        "name": "Get Weird (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "Love Me or Leave Me",
+      "url": "https://open.spotify.com/track/1n73Qe6oEprLsUNHXET2pb"
+    },
+    {
+      "added_at": "2023-04-13 21:01:43",
+      "album": {
         "name": "PINK PLANET",
         "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 189000,
       "name": "Honesty",
       "url": "https://open.spotify.com/track/19gCnDoMbugHhF7eMpLpe1"
+    },
+    {
+      "added_at": "2023-04-13 21:01:43",
+      "album": {
+        "name": "Teenage Mind",
+        "url": "https://open.spotify.com/album/7uxkPJEel1MLzreQUmvra0"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 155205,
+      "name": "Teenage Mind",
+      "url": "https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP"
     },
     {
       "added_at": "2023-04-13 21:01:43",

@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 392399,
+  "num_followers": 392492,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTc0NzU0MiwwMDAwMDAwMDNhYjAwZTIwYmFiZGVhYmE4NjVmOTJlMTlmMTBmOGYw",
+  "snapshot_id": "MTY4MTc0NzU0MiwwMDAwMDAwMDJjZmRiNDYxNjUwZGVmMzM4ZDc3ZDBjYzJjZjk0NjNm",
   "tracks": [
     {
       "added_at": "2023-04-17 16:05:42",
@@ -879,22 +879,18 @@
     {
       "added_at": "2023-04-17 16:05:42",
       "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/2gwNU1WsZEOcCSyKHsXKs5"
+        "name": "GLY",
+        "url": "https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB"
       },
       "artists": [
         {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "J Warner",
-          "url": "https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo"
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
         }
       ],
-      "duration_ms": 229743,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/4qEEERg5kM60N2vcna11oq"
+      "duration_ms": 220623,
+      "name": "GLY",
+      "url": "https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH"
     }
   ],
   "unique_name": "Serotonin",

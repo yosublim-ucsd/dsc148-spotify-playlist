@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 
 > Folk tan dulce como la miel\. Kevin Kaarl en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,042 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,081 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 71 | [Antes de Partir \- Cap.1](https://open.spotify.com/track/4IqmLOM19rzF1WeOTwK2ND) | [Erick Mendoza](https://open.spotify.com/artist/4a3ZMZGCMmCEAFnRdUTdw4) | [Antes de Partir \- Cap.1](https://open.spotify.com/album/3yBJgpGmpOIQ79oBEbaNdm) | 3:31 |
 | 72 | [Arena Blanca](https://open.spotify.com/track/5j0P1xvPEFC3aLloV70sAF) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Páramo Místico](https://open.spotify.com/album/3w6sKad6TBHZgZGE3oU4tL) | 3:23 |
 | 73 | [¿Qué pasó?](https://open.spotify.com/track/1VgWAGoBepDqO0elgJ7LHL) | [Brandd Alvarez](https://open.spotify.com/artist/38Fp7nDn5ldveEZHy1fkbo) | [¿Qué pasó?](https://open.spotify.com/album/7mTdih8YvmbQBKsmXNOISQ) | 4:19 |
-| 74 | [Me Vale](https://open.spotify.com/track/1oUmSARy0Baw05S8G1Er55) | [Karla Cruise](https://open.spotify.com/artist/1lDvMKVfuYM3tO8iAIlYrs) | [Me Vale](https://open.spotify.com/album/2AB0FCPBg9G7pbHoQIhDZX) | 2:47 |
-| 75 | [Se Te Olvidó](https://open.spotify.com/track/43p7kAVqa4CYkwQtl0ZBb3) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [Se Te Olvidó](https://open.spotify.com/album/1k8eERaYIlNo3PI5VOx2Eo) | 3:31 |
+| 74 | [Te Rendiste en Mi](https://open.spotify.com/track/0avJUBhRYnqhqDWb9kBCy6) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Te Rendiste en Mi](https://open.spotify.com/album/4KnN1SFJS4nOuyJrq76IAK) | 2:28 |
+| 75 | [Me Vale](https://open.spotify.com/track/1oUmSARy0Baw05S8G1Er55) | [Karla Cruise](https://open.spotify.com/artist/1lDvMKVfuYM3tO8iAIlYrs) | [Me Vale](https://open.spotify.com/album/2AB0FCPBg9G7pbHoQIhDZX) | 2:47 |
 
-Snapshot ID: `MTY4MDI5MDE5NSwwMDAwMDAwMDlkMjc2ZmE3YjNhM2YwZTc1ZTZlN2FmMTA4NGM0Njdh`
+Snapshot ID: `MTY4MDI5MDE5NSwwMDAwMDAwMGQzMGI0ZTFiNDg4OGE2MTQ2MTUyZmU0N2QxZmFjNzM5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 
 > This is the Latin soundtrack of the 80s! Cover: Gloria Estefan
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,345 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,418 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 | 31 | [El Baile del Perrito](https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [The Reventon: 30 Pegaditas](https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD) | 4:23 |
 | 32 | [No Controles](https://open.spotify.com/track/19guCNWcPMOzwRN44FmpDb) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Flans](https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A) | 3:28 |
 | 33 | [Fiesta En América](https://open.spotify.com/track/5x6K9Bz1StBFAWTNMRAwmn) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/5aabwyD2EqwA17390Og3Ff) | 3:44 |
-| 34 | [I Wonder If I Take You Home](https://open.spotify.com/track/3sRCesHh424gmCji7Fz9Gm) | [Lisa Lisa & Cult Jam](https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT), [Full Force](https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2) | [Playlist: The Very Best Of Lisa Lisa & Cult Jam](https://open.spotify.com/album/69c909n13KcSJPXxi6kPhG) | 6:44 |
-| 35 | [Cuéntame](https://open.spotify.com/track/1T1nYfU115UL2LhwTMyWr6) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Cuéntame](https://open.spotify.com/album/7eGbFOJExPRkAsDQCeThFc) | 3:35 |
-| 36 | [Ay, qué pesado](https://open.spotify.com/track/3G2hzcHCb4SF7fTNMaOJpV) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy) | 3:59 |
+| 34 | [Cuéntame](https://open.spotify.com/track/1T1nYfU115UL2LhwTMyWr6) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Cuéntame](https://open.spotify.com/album/7eGbFOJExPRkAsDQCeThFc) | 3:35 |
+| 35 | [Ay, qué pesado](https://open.spotify.com/track/3G2hzcHCb4SF7fTNMaOJpV) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy) | 3:59 |
+| 36 | [I Wonder If I Take You Home](https://open.spotify.com/track/3sRCesHh424gmCji7Fz9Gm) | [Lisa Lisa & Cult Jam](https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT), [Full Force](https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2) | [Playlist: The Very Best Of Lisa Lisa & Cult Jam](https://open.spotify.com/album/69c909n13KcSJPXxi6kPhG) | 6:44 |
 | 37 | [Claridad](https://open.spotify.com/track/2Rh8bcrw6tt8wrRM8NljN0) | [Menudo](https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF) | [15 Años De Historia](https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp) | 4:10 |
 | 38 | [Bamboleo](https://open.spotify.com/track/5siwoDxCGDYnmfWV5SlUpE) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Gipsy Kings](https://open.spotify.com/album/4aDmHcFNChCXPle7tMeoWS) | 3:23 |
 | 39 | [De Mi Enamórate](https://open.spotify.com/track/5UXgeLTzAyhgfRJubZRemE) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Original Masters](https://open.spotify.com/album/4CxnKxTQuQKXWrWHAVtaMO) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 | 49 | [Come Into My Arms](https://open.spotify.com/track/6BD7CmcTMOGQTR2fN4Z8YX) | [Judy Torres](https://open.spotify.com/artist/4xuVMH8UgmZ557rJfWQ08n) | [Judy Torres \- The Greatest Hits](https://open.spotify.com/album/7aOCg1PtLFTnyPjMBRHyc4) | 4:24 |
 | 50 | [Persiana Americana](https://open.spotify.com/track/7JZP7kQsuFFWOrtAI7uNiW) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 4:50 |
 
-Snapshot ID: `MTY3NjY2NzgwOSwwMDAwMDAwMDRjM2QzZWE3NGJhNDdiZTY3MmE0NDZkMzNiNDRiMGUz`
+Snapshot ID: `MTY3NjY2NzgwOSwwMDAwMDAwMGYyOGI1MzM0MTIwZmE4NGY4ZDliYTc3NzFlMjE1MzYw`

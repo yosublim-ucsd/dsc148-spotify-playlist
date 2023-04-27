@@ -4,7 +4,7 @@
 
 > The most interesting tracks in the current world of pop music.
 
-711 songs - 1 day 12 hr 33 min
+712 songs - 1 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [All Too Well \(Taylor's Version\)](https://open.spotify.com/track/1IBhYEvvi02tDVByxIiTh4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0) | 5:29 | 2022-01-20 | 2022-07-29 |
 | [All Your Exes](https://open.spotify.com/track/2SDswD3RdceDWthkgCrCCU) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [All Your Exes](https://open.spotify.com/album/1yo1w1CBfPMLaXycgfNj70) | 3:29 | 2021-12-16 | 2022-04-21 |
 | [Alone](https://open.spotify.com/track/4SVuJDPtk2kJl3ULqO5nvF) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Alone](https://open.spotify.com/album/4xAOOAuLxBOqEworUmUWhc) | 3:04 | 2022-03-24 | 2022-04-21 |
+| [Alone \(with Nicki Minaj\)](https://open.spotify.com/track/7kOletJ0Q5H4MWe7cfeZXP) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Alone](https://open.spotify.com/album/5YdIiv5WLNbaONCyGIDszz) | 3:05 | 2023-04-20 |  |
 | [Alright \(feat\. KIDDO\)](https://open.spotify.com/track/1vUOJpWc091SBYULNvz9mp) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Alright \(feat\. KIDDO\)](https://open.spotify.com/album/0Nn6sMoZFBIUIsy8fpILrI) | 2:49 | 2022-03-24 | 2022-04-16 |
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2021-12-16 |  |
 | [Angelito](https://open.spotify.com/track/7ozJ4D8Cy4DtoFRmoRZFVJ) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [Angelito](https://open.spotify.com/album/5ppxmUR9iGaKld3k4ZLISH) | 3:23 | 2022-07-07 | 2022-07-18 |
@@ -310,7 +311,7 @@
 | [I Don’t Think That I Like Her](https://open.spotify.com/track/0zRezEuKtaAXHcB4eruwi2) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [I Don’t Think That I Like Her](https://open.spotify.com/album/5f7yRF519Ruz1yE9x97jID) | 3:08 | 2022-09-30 | 2022-10-17 |
 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 | 2022-03-24 |  |
 | [I Feel Good](https://open.spotify.com/track/3lUQpvfWFcxZC3RYAVGE7F) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [I Feel Good](https://open.spotify.com/album/4wKGNANAC9OHjccAiihjGO) | 2:16 | 2022-01-27 | 2022-07-29 |
-| [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 | 2021-12-16 |  |
+| [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 | 2021-12-16 | 2023-04-27 |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2022-03-24 | 2022-08-12 |
 | [I Hope You Never Fall in Love Again](https://open.spotify.com/track/21c3VdDYCVluQnEOyOLjfe) | [KiD RAiN](https://open.spotify.com/artist/3JQMhGLU0F6IeOzlDZiUNW) | [I Hope You Never Fall in Love Again](https://open.spotify.com/album/4RLz2uf4PMtzuMMVQs9gap) | 2:03 | 2022-03-24 | 2022-04-13 |
 | [I Just Called](https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [I Just Called](https://open.spotify.com/album/4Qq3n68D2ktEi0eHFMdpSp) | 2:30 | 2022-06-23 | 2022-07-29 |

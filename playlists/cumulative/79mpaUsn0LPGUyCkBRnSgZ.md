@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-206 songs - 12 hr 51 min
+208 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Romeo](https://open.spotify.com/track/0v7pt4A8PaXB95rwaNm1er) | [Xenia Rubinos](https://open.spotify.com/artist/17UUkxLWmRP5P47W5kwVVb) | [Black Terry Cat](https://open.spotify.com/album/7hpaJ75FV7MYcKER1px2Uv) | 0:23 | 2022-12-31 |  |
 | [Rubber Hand Grip](https://open.spotify.com/track/2Ux9OcbdSOULBQRgZah1cL) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [The Elephant Man's Bones](https://open.spotify.com/album/3Kkrsa5dgEgl2fYyO51EEf) | 3:29 | 2022-08-29 |  |
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-03-17 |  |
+| [Salad Days](https://open.spotify.com/track/5VdaMUzoQetwxQwtWAd022) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 2:25 | 2023-04-26 |  |
 | [Sauna](https://open.spotify.com/track/1DSl7kRrdWhwntiK6HOLVY) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 3:15 | 2023-03-25 |  |
 | [Showrooms](https://open.spotify.com/track/0k2y3MveQl3daR9d21R3qO) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Sam Prekop](https://open.spotify.com/album/5clbSCoEBQwvwnByDJ2Z8D) | 4:21 | 2022-07-31 |  |
 | [Sign O' The Times \- 2020 Remaster](https://open.spotify.com/track/7CqFMR3yj95Yuwagq5XsLR) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign O' The Times](https://open.spotify.com/album/2QuHyvguNhl5kfdoE17RRe) | 4:56 | 2021-12-30 |  |
@@ -173,6 +174,7 @@
 | [Speed of Life \- 2017 Remaster](https://open.spotify.com/track/7B265QWYkUeqG2ihVEUZ5D) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Low \(2017 Remaster\)](https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na) | 2:47 | 2022-07-30 |  |
 | [star\-crossed](https://open.spotify.com/track/0EYDsKvLtGMdvsA7PaUvJO) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:19 | 2022-07-24 |  |
 | [State of the Nation](https://open.spotify.com/track/4FQVCrUvtl4yRJd5bWpupn) | [Deltron 3030](https://open.spotify.com/artist/2efzHZrUGhawnSOTpyAHOQ), [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl), [Dan The Automator](https://open.spotify.com/artist/4fv5w0LJib9OMbXQegqZ01), [Kid Koala](https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN) | [Deltron 3030](https://open.spotify.com/album/04uhhcjGVCHodMgZjXOlye) | 0:25 | 2023-03-24 |  |
+| [Streaker \(feat\. Notrabel\)](https://open.spotify.com/track/2hJkzU5Ry3CDL3N9ad8fRc) | [TOBACCO](https://open.spotify.com/artist/3ikKyCOrsMeANi0d5u8BCR), [Notrabel](https://open.spotify.com/artist/3UYripz5TaFWumKpWjVXQw) | [Ultima II Massage](https://open.spotify.com/album/4BBxAB26ofkXvBmlatzTpW) | 2:52 | 2023-04-26 |  |
 | [Strong](https://open.spotify.com/track/0d7IFDkLXrG2WhQkPYw3Ju) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Rise\)](https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF) | 6:18 | 2022-04-21 |  |
 | [Submerge FM](https://open.spotify.com/track/7n5e6Snjp8tbqwzAPoYjXn) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 3:25 | 2023-04-19 | 2023-04-22 |
 | [Summer Knights](https://open.spotify.com/track/2NDXdxZjbm5EbbEEDSKXQV) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [1999](https://open.spotify.com/album/5ra51AaWF3iVebyhlZ1aqq) | 1:56 | 2022-05-13 |  |

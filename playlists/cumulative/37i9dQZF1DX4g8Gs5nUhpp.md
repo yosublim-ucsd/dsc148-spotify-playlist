@@ -4,7 +4,7 @@
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: HIEUTHUHAI
 
-161 songs - 10 hr 27 min
+163 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Ai Đưa Em Về](https://open.spotify.com/track/4iDyFW4a7iCJh2VqSpwGQz) | [TIA](https://open.spotify.com/artist/6LrBtADUmDoLlcTrg448Qt), [Le Thien Hieu](https://open.spotify.com/artist/2U7kaq9BBq7eG2Vyn1D3Ab) | [Ai Đưa Em Về](https://open.spotify.com/album/3g4UhKs9pmkiJiLytUv9nB) | 3:53 | 2022-05-27 | 2022-07-29 |
 | [Anh Chưa Thương Em Đến Vậy Đâu](https://open.spotify.com/track/3QD2NfLEIvMRbzv2uTu4B7) | [Myra Trần](https://open.spotify.com/artist/0Y9KzsdFByEI4bigKF1htd) | [Tập 12: The Masked Singer Vietnam](https://open.spotify.com/album/6nIa2mkbxcmGbNCqYoYlYA) | 4:30 | 2023-01-11 |  |
 | [Anh Nhớ Ra \(feat\. TRANG\)](https://open.spotify.com/track/7eDrdQ7PK9Xm1CZCKWsgmH) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs), [TRANG](https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b) | [Một Vạn Năm](https://open.spotify.com/album/4nfpHvg7KFcAUTg6yajpvN) | 4:36 | 2022-09-14 |  |
-| [Anh Đánh Rơi Người Yêu Này](https://open.spotify.com/track/0Nz6SyAceTkTy4lCDgqFJ7) | [Andiez](https://open.spotify.com/artist/0tBmmwc8j8zbJxISwdsvjA), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [Anh Đánh Rơi Người Yêu Này](https://open.spotify.com/album/5uucqP2OHCCloq5bf9AiAG) | 3:37 | 2022-11-29 |  |
+| [Anh Đánh Rơi Người Yêu Này](https://open.spotify.com/track/0Nz6SyAceTkTy4lCDgqFJ7) | [Andiez](https://open.spotify.com/artist/0tBmmwc8j8zbJxISwdsvjA), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [Anh Đánh Rơi Người Yêu Này](https://open.spotify.com/album/5uucqP2OHCCloq5bf9AiAG) | 3:37 | 2022-11-29 | 2023-04-27 |
+| [Anh Đánh Rơi Người Yêu Này](https://open.spotify.com/track/5J90ah0ppUSev1uahqQiN6) | [Andiez](https://open.spotify.com/artist/0tBmmwc8j8zbJxISwdsvjA), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [Anh Đánh Rơi Người Yêu Này](https://open.spotify.com/album/1bcAQ84PmlX74hvGD403VV) | 3:37 | 2023-04-10 |  |
 | [Anh Đã Ổn Hơn](https://open.spotify.com/track/3YctJXK6kznnWl68TnYobN) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 3:14 | 2023-03-05 |  |
 | [bao tiền một mớ bình yên?](https://open.spotify.com/track/3wn8HJNjkY4wzTBy35ZvQ6) | [14 Casper](https://open.spotify.com/artist/0zo8kCJVktn7oPnzpkbC2p), [Bon Nghiêm](https://open.spotify.com/artist/6hnfLIkvDl6pjlAe1YRGXY) | [bao tiền một mớ bình yên?](https://open.spotify.com/album/5O0csa2fMgpO8DwEhwThRV) | 5:00 | 2022-06-07 |  |
 | [Blue Tequila](https://open.spotify.com/track/4Ba99csVDlRFQILO5cSi7I) | [Táo](https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S) | [Blue Tequila](https://open.spotify.com/album/26jN76TbwKh8wHd7DY27hf) | 3:22 | 2022-05-27 | 2022-06-21 |
@@ -168,6 +169,7 @@
 | [Đông Tây Nam Bắc](https://open.spotify.com/track/0hqCfsV0T1e35k7urmBBHz) | [Ai Phuong](https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut) | [Đông Tây Nam Bắc](https://open.spotify.com/album/5Dt3Lq7yoQ32mOiG3VRyYz) | 6:07 | 2022-10-13 | 2022-11-15 |
 | [đưa em về nhàa](https://open.spotify.com/track/08ULi904W2Po6pVj8nN7KC) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4) | [đưa em về nhàa](https://open.spotify.com/album/5ED6WiHXLHGTBITUv6ayAy) | 4:00 | 2023-04-25 |  |
 | [Đường Tôi Chở Em Về](https://open.spotify.com/track/27F22WcGDyl4Z2KylVJkXL) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Đường Tôi Chở Em Về](https://open.spotify.com/album/11usBN9oLbxkDegtx4ilUW) | 4:26 | 2022-05-27 | 2023-02-09 |
-| [để tôi ôm em bằng giai điệu này](https://open.spotify.com/track/2anWKmV4Je8175CHvemHV9) | [Kai Đinh](https://open.spotify.com/artist/3E6LGptA8lBEXPHAQCE3vr), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [để tôi ôm em bằng giai điệu này](https://open.spotify.com/album/1p3STHvnQGSVsZGiKij4Je) | 4:24 | 2023-01-31 |  |
+| [để tôi ôm em bằng giai điệu này](https://open.spotify.com/track/2anWKmV4Je8175CHvemHV9) | [Kai Đinh](https://open.spotify.com/artist/3E6LGptA8lBEXPHAQCE3vr), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [để tôi ôm em bằng giai điệu này](https://open.spotify.com/album/1p3STHvnQGSVsZGiKij4Je) | 4:24 | 2023-01-31 | 2023-04-27 |
+| [để tôi ôm em bằng giai điệu này](https://open.spotify.com/track/5qbjUmVV1yOOjcMOInNPYD) | [Kai Đinh](https://open.spotify.com/artist/3E6LGptA8lBEXPHAQCE3vr), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [winter warmer](https://open.spotify.com/album/2ga21N5DWcqLLiBsLADCE3) | 4:24 | 2023-04-10 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Pop para refrescarte los d\u00edas, featuring Humbe. ",
-  "num_followers": 2044,
+  "num_followers": 2645,
   "original_name": "Crema Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDVmMWIyOWYxZDc4ODc0NDYzNDFmMzA3N2JkYTk5N2Y5",
+  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMGViNmVmYjE4NTI2YWZmZDI3NDk0YmI5OTI2OTljNTFm",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "LA FALTA QUE ME HACES",
+        "url": "https://open.spotify.com/album/0aKIRSfDhab4HjgNxNYhcT"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 180250,
+      "name": "LA FALTA QUE ME HACES",
+      "url": "https://open.spotify.com/track/39U5DHTTvKNX7o9lyJmBpl"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "EL DRAG\u00d3N",
         "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 206400,
       "name": "TURISMO",
       "url": "https://open.spotify.com/track/3ZZjnPbfDxvZB5lLaFRBCS"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "LA FALTA QUE ME HACES",
-        "url": "https://open.spotify.com/album/0aKIRSfDhab4HjgNxNYhcT"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 180250,
-      "name": "LA FALTA QUE ME HACES",
-      "url": "https://open.spotify.com/track/39U5DHTTvKNX7o9lyJmBpl"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "2000",
-        "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 163911,
-      "name": "Int\u00e9ntalo",
-      "url": "https://open.spotify.com/track/2wKCkLD4ZqSA4S7k3MZPLN"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "La Carta",
         "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 133000,
       "name": "Att: Amor",
       "url": "https://open.spotify.com/track/1TpCPPgqc6FOVzLZefm6e3"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 163911,
+      "name": "Int\u00e9ntalo",
+      "url": "https://open.spotify.com/track/2wKCkLD4ZqSA4S7k3MZPLN"
     }
   ],
   "unique_name": "Crema Pop",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 ### [Bedroom Pop](https://open.spotify.com/playlist/37i9dQZF1DXcxvFzl58uP7)
 
-> Dreamy jams from the best bedroom producers\. Cover: Joji
+> Dreamy jams from the best bedroom producers\. Cover: girl in red
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,070,121 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,070,406 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,16 +59,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 49 | [Was It Something I Said](https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH) | 3:40 |
 | 50 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 |
 | 51 | [80's makeout session](https://open.spotify.com/track/6RObO033GGC7mReVoRQJPU) | [dacelynn](https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh) | [80's makeout session](https://open.spotify.com/album/6MHmgFBPMdhNdj6HamqlYe) | 1:42 |
-| 52 | [Spiracle](https://open.spotify.com/track/6k7HtWuprjQmulpo4OpieI) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [The Shark in Your Water](https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7) | 2:59 |
+| 52 | [That I Miss You](https://open.spotify.com/track/7szBZqBJuj9eAC8HJ4CyTM) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [That I Miss You](https://open.spotify.com/album/3tE8rkq0T77F2hwjXMzCfF) | 2:20 |
 | 53 | [All Your Love](https://open.spotify.com/track/7G7zCzvyqz39BFE7TqPM3O) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [All Your Love](https://open.spotify.com/album/1Z35j1egN42Xvtul5WRlu6) | 2:55 |
-| 54 | [That I Miss You](https://open.spotify.com/track/7szBZqBJuj9eAC8HJ4CyTM) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [That I Miss You](https://open.spotify.com/album/3tE8rkq0T77F2hwjXMzCfF) | 2:20 |
+| 54 | [Spiracle](https://open.spotify.com/track/6k7HtWuprjQmulpo4OpieI) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [The Shark in Your Water](https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7) | 2:59 |
 | 55 | [Waltzing Back](https://open.spotify.com/track/3Q1DprZauQyNo8KGlY8brZ) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Waltzing Back](https://open.spotify.com/album/5yHn5NJqFHuRscn44o9POq) | 3:12 |
 | 56 | [Pendant](https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Pendant](https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS) | 3:55 |
 | 57 | [Bedroom](https://open.spotify.com/track/2x1Up4aNJ9mpmiPFJ83MX3) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/1yjHsoV9fSDcYuz6F7RNfb) | 3:06 |
 | 58 | [Antidote](https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof) | 2:49 |
 | 59 | [Brand New](https://open.spotify.com/track/5FcK65jGaIPzdIUB9asktp) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Brand New](https://open.spotify.com/album/6nZ6CzN8H527SATBg4wqoP) | 2:36 |
-| 60 | [i'd find you](https://open.spotify.com/track/3oxjt9spq7O1WtCYb1SjAW) | [phendste](https://open.spotify.com/artist/2bZ9fMqMY3l3GGzjgJJRyH) | [under the rug](https://open.spotify.com/album/2kzc0zjJvPVyr5640MxGyt) | 2:45 |
-| 61 | [endlessly](https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [endlessly](https://open.spotify.com/album/4z80VAzs9sjrrOdH3T2pyK) | 2:05 |
+| 60 | [endlessly](https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [endlessly](https://open.spotify.com/album/4z80VAzs9sjrrOdH3T2pyK) | 2:05 |
+| 61 | [i'd find you](https://open.spotify.com/track/3oxjt9spq7O1WtCYb1SjAW) | [phendste](https://open.spotify.com/artist/2bZ9fMqMY3l3GGzjgJJRyH) | [under the rug](https://open.spotify.com/album/2kzc0zjJvPVyr5640MxGyt) | 2:45 |
 | 62 | [Six Speed](https://open.spotify.com/track/38loOBAgDgCW4pFWyH9cey) | [Current Blue](https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS) | [Six Speed](https://open.spotify.com/album/2DkQzt5cmb3Jy8ZQH4tBo9) | 2:00 |
 | 63 | [You Say I'm in Love](https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT) | [Banes World](https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG) | [You Say I'm in Love](https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN) | 2:56 |
 | 64 | [feel u](https://open.spotify.com/track/5pm9nGzY5b5gp424c6iYZh) | [okayceci](https://open.spotify.com/artist/1NCMfKfYXbyLqsChnYNd3P) | [feel u](https://open.spotify.com/album/34ZrL9unzACdI1d3UF2SlR) | 2:30 |
@@ -93,20 +93,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 83 | [Satellite](https://open.spotify.com/track/33HfUi07zAeFxmsKfUE7Yy) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Satellite](https://open.spotify.com/album/3na3FupK0QfSArtzyBRmLs) | 3:11 |
 | 84 | [Sinatra](https://open.spotify.com/track/1USo158Kncaxfyq9q306dn) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Sinatra](https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0) | 2:36 |
 | 85 | [Uneasy \- Metronomy x spill tab](https://open.spotify.com/track/6HOXiIuMfKzEpWsdZ02wZL) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Uneasy \- Metronomy x spill tab](https://open.spotify.com/album/3XRHpM3LFOWY9nnWwKCKyv) | 3:23 |
-| 86 | [Over the Hill](https://open.spotify.com/track/5eFwQOHNE0zOwMRj9jhzGt) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Over the Hill](https://open.spotify.com/album/76igtoYKgzHd578j23y2Hb) | 2:47 |
-| 87 | [Forevermore](https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Forevermore](https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn) | 2:54 |
+| 86 | [Forevermore](https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Forevermore](https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn) | 2:54 |
+| 87 | [Over the Hill](https://open.spotify.com/track/5eFwQOHNE0zOwMRj9jhzGt) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Over the Hill](https://open.spotify.com/album/76igtoYKgzHd578j23y2Hb) | 2:47 |
 | 88 | [VROOM VROOM](https://open.spotify.com/track/7BKIfBT1VKkBcSsACK1Az8) | [Mickey Darling](https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz) | [VROOM VROOM](https://open.spotify.com/album/5uhLcex9bi6Z84KsbR3jIc) | 3:06 |
-| 89 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 |
-| 90 | [Punching Bag](https://open.spotify.com/track/09tYMZ38sfZRZmrN0basVJ) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/0g9uNPKwDPldwNl9ZudsBm) | 2:33 |
-| 91 | [VVS](https://open.spotify.com/track/6KZOm8qhzI55JGXilaoqXO) | [mal sounds](https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR) | [VVS](https://open.spotify.com/album/1XPqRvUQIn4uuHeoQHTX3D) | 3:20 |
-| 92 | [Slow Down](https://open.spotify.com/track/6nctEN4lXyz9KV7ujHaAKb) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Slow Down](https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU) | 3:22 |
-| 93 | [Emotionless](https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Emotionless](https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl) | 2:28 |
-| 94 | [beachin](https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [beachin](https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn) | 3:14 |
-| 95 | [Nothing in Return](https://open.spotify.com/track/2r0pJWxAyYVQTHTwcnbM8A) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [Nothing in Return](https://open.spotify.com/album/7bHQuWjDkBQc4cU0jOTBa1) | 3:52 |
-| 96 | [THE BOTTOM](https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [HEATWAVE](https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26) | 3:39 |
-| 97 | [Friday Night With The Neighbours](https://open.spotify.com/track/1WdudtCCuMjsLNGgZwR1gd) | [Cody Lawless](https://open.spotify.com/artist/6YCVlQAsIlKAwVNf7ggAwf), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Friday Night With The Neighbours](https://open.spotify.com/album/03VSyL9ungqFQzJ5EY74Se) | 2:53 |
-| 98 | [Something Else](https://open.spotify.com/track/4fxxF2bZOHGi65Nrd4Z52V) | [Yxngxr1](https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe) | [Something Else](https://open.spotify.com/album/6qY6Cll4mJgT32uEv6F3jt) | 2:38 |
-| 99 | [Ghost World](https://open.spotify.com/track/4dwxdOkBE8OBXD9E6EruGv) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [5K](https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8) | 3:21 |
-| 100 | [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 |
+| 89 | [Friday Night With The Neighbours](https://open.spotify.com/track/1WdudtCCuMjsLNGgZwR1gd) | [Cody Lawless](https://open.spotify.com/artist/6YCVlQAsIlKAwVNf7ggAwf), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Friday Night With The Neighbours](https://open.spotify.com/album/03VSyL9ungqFQzJ5EY74Se) | 2:53 |
+| 90 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 |
+| 91 | [Punching Bag](https://open.spotify.com/track/09tYMZ38sfZRZmrN0basVJ) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/0g9uNPKwDPldwNl9ZudsBm) | 2:33 |
+| 92 | [VVS](https://open.spotify.com/track/6KZOm8qhzI55JGXilaoqXO) | [mal sounds](https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR) | [VVS](https://open.spotify.com/album/1XPqRvUQIn4uuHeoQHTX3D) | 3:20 |
+| 93 | [Slow Down](https://open.spotify.com/track/6nctEN4lXyz9KV7ujHaAKb) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Slow Down](https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU) | 3:22 |
+| 94 | [Emotionless](https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Emotionless](https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl) | 2:28 |
+| 95 | [beachin](https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [beachin](https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn) | 3:14 |
+| 96 | [Nothing in Return](https://open.spotify.com/track/2r0pJWxAyYVQTHTwcnbM8A) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [Nothing in Return](https://open.spotify.com/album/7bHQuWjDkBQc4cU0jOTBa1) | 3:52 |
+| 97 | [Something Else](https://open.spotify.com/track/4fxxF2bZOHGi65Nrd4Z52V) | [Yxngxr1](https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe) | [Something Else](https://open.spotify.com/album/6qY6Cll4mJgT32uEv6F3jt) | 2:38 |
+| 98 | [Ghost World](https://open.spotify.com/track/4dwxdOkBE8OBXD9E6EruGv) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [5K](https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8) | 3:21 |
+| 99 | [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 |
+| 100 | [THE BOTTOM](https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [HEATWAVE](https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26) | 3:39 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDgwYjRhM2I3ZDdhZTYxYWExMzY3YTZiN2JkZTFiOWNl`
+Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDM0OTE5NTBiZmRmYmIyZDlkNDg1YTE1ZGM0OTFmNzIx`

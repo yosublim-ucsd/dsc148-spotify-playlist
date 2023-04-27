@@ -4,7 +4,7 @@
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Jerome Thomas
 
-614 songs - 1 day 11 hr 1 min
+615 songs - 1 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,8 @@
 | [Fall 4 U](https://open.spotify.com/track/6ufxSxrhprDHC7GzBocSHl) | [Aron](https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr), [Adam Flowers](https://open.spotify.com/artist/1SggEYhzQY4qw4c9lDIIaq), [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [The Seed](https://open.spotify.com/album/4PFKs4k84A1sMcUPKEQ5kE) | 2:59 | 2022-11-11 | 2022-11-19 |
 | [Fallen](https://open.spotify.com/track/5hYaxGftxpX2ViqdQWgtN2) | [DREAMPOOL](https://open.spotify.com/artist/1ner6qUxcQA3x3mdqLGhwQ), [Million Miles](https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm), [Leon King](https://open.spotify.com/artist/5F0WhfIf9hNizpdTTV8Y0o) | [Fallen](https://open.spotify.com/album/3d6H4ynqGzeqrB6FABHaIf) | 3:03 | 2022-10-28 | 2022-12-03 |
 | [Fallin](https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA) | 2:42 | 2023-01-20 |  |
-| [Fatal Attraction](https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Fatal Attraction](https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT) | 3:16 | 2023-03-17 |  |
+| [Fatal Attraction](https://open.spotify.com/track/3y9JbvYZAhVeQsAECrKAgt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:16 | 2023-03-17 |  |
+| [Fatal Attraction](https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Fatal Attraction](https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT) | 3:16 | 2023-03-17 | 2023-04-27 |
 | [Favorite Mistake](https://open.spotify.com/track/4rHIfYRQw6ittRQXAlurk0) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 2:52 | 2020-05-01 | 2020-09-04 |
 | [Favorite Shirt](https://open.spotify.com/track/7LTQuLHQSOhQZ69qRYNF5w) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs for Women, Free Game for Niggas \- EP](https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1) | 3:21 | 2023-02-24 |  |
 | [Feelings 4 You](https://open.spotify.com/track/5Nv3jw733bI3B5tL1v05nM) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [b l u r r](https://open.spotify.com/album/1lKab1olSSCNuFg3f2Jif0) | 4:16 | 2022-07-22 | 2023-04-22 |
@@ -421,7 +422,7 @@
 | [Passport \- シングル版](https://open.spotify.com/track/4DkSghl14yN70T0RX5pe9x) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Passport \(シングル版\)](https://open.spotify.com/album/3YyA7QcOAdQaWne8E4SF6k) | 3:02 | 2020-09-23 | 2021-02-26 |
 | [Peace Be Still](https://open.spotify.com/track/274cgwC7QrE05PNXl9eo8z) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [Peace Be Still](https://open.spotify.com/album/6g3izz8FV1uZJ15uw1wiiD) | 3:35 | 2020-09-11 | 2021-03-19 |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-19 | 2021-06-26 |
-| [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-01-13 |  |
+| [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-01-13 |  |
 | [People \(feat\. Cian Ducrot\)](https://open.spotify.com/track/3y13pwXvqWmAXKdt4zgI2Q) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [People \(feat\. Cian Ducrot\) \[Remix\]](https://open.spotify.com/album/2iBbNFC5oZdKfqQyiSEfXx) | 3:04 | 2023-01-13 | 2023-03-19 |
 | [Perfect](https://open.spotify.com/track/38NA9ujv5cUKOTy82FSWLK) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [While You Wait](https://open.spotify.com/album/5PkUjL8hnjLbnLQcoIl3uR) | 4:09 | 2020-03-27 | 2020-10-09 |
 | [Pick A Side](https://open.spotify.com/track/5vXvD86WP93gFqrYrr93Q6) | [Raiche](https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI) | [Pick A Side](https://open.spotify.com/album/1xf8ut7calxvWuhLYyTrYK) | 3:12 | 2020-12-11 | 2021-03-26 |

@@ -3274,6 +3274,24 @@
     {
       "album": {
         "name": "Ato 1: TODAMANH\u00c3",
+        "url": "https://open.spotify.com/album/5caF5n4dvpJv0BsqEOJnA7"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197205,
+      "name": "O Sol Se Foi",
+      "url": "https://open.spotify.com/track/63O49HqHh3bmVpO82Z2DVE"
+    },
+    {
+      "album": {
+        "name": "Ato 1: TODAMANH\u00c3",
         "url": "https://open.spotify.com/album/4c2wwlgbTHER3fxe6TzDlZ"
       },
       "artists": [
@@ -3284,7 +3302,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 197205,
       "name": "O Sol Se Foi",
       "url": "https://open.spotify.com/track/6Q8gVWcgLoNo0b2aamVyp2"

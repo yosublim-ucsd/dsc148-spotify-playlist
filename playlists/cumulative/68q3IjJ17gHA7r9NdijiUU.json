@@ -269,6 +269,28 @@
     },
     {
       "album": {
+        "name": "Beautiful Life",
+        "url": "https://open.spotify.com/album/7M43VUPqhb8hoV1E0W4SN5"
+      },
+      "artists": [
+        {
+          "name": "Remady",
+          "url": "https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc"
+        },
+        {
+          "name": "SN\u00c4RE",
+          "url": "https://open.spotify.com/artist/6b60kfB436FyoRJfBxLxzh"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158101,
+      "name": "Beautiful Life",
+      "url": "https://open.spotify.com/track/2PrPHFSqYQFjl4JabUKhbY"
+    },
+    {
+      "album": {
         "name": "Oh, What A Life",
         "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
       },

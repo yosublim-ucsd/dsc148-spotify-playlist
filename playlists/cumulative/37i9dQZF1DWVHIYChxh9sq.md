@@ -4,7 +4,7 @@
 
 > Música en vivo de tus artistas favoritos del Regional Mexicano\. Portada: Grupo Recluta y Adrian Chaparro
 
-373 songs - 20 hr 39 min
+374 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [El Doble R \- En Vivo](https://open.spotify.com/track/2WeNqWQXNq8gXhiSPvH0yZ) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Doble R \(En Vivo\)](https://open.spotify.com/album/7pf3JcYWMmFGYNC8sCqmdv) | 2:24 | 2022-12-08 |  |
 | [El Escudo Del Chavo \- En Vivo](https://open.spotify.com/track/1rOEpXXJ2owwhJCEKg4vCD) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [El Escudo Del Chavo \(En Vivo\)](https://open.spotify.com/album/6CWLYSGhQZPoeZ1HVmpLSh) | 2:55 | 2022-05-12 | 2023-03-18 |
 | [El Estrés](https://open.spotify.com/track/5MsVbEhkVyVUf6YeIp0WAk) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Dos Carnales Con Sax](https://open.spotify.com/album/0h2aKd80PYoq8U4oP3iAlo) | 3:47 | 2022-12-08 |  |
-| [El Flaquito](https://open.spotify.com/track/5DzZO7t61t9gihMcwVfkNK) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [¿Será Prudente Jalar La Banda?](https://open.spotify.com/album/0KGUDXu3WiMAd4jkhg16G3) | 2:22 | 2022-05-12 |  |
+| [El Flaquito](https://open.spotify.com/track/5DzZO7t61t9gihMcwVfkNK) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [¿Será Prudente Jalar La Banda?](https://open.spotify.com/album/0KGUDXu3WiMAd4jkhg16G3) | 2:22 | 2022-05-12 | 2023-04-27 |
 | [El Fugitivo \- En Vivo](https://open.spotify.com/track/0qyofIr6dHSb8AcEVnywBY) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Fugitivo \(En Vivo\)](https://open.spotify.com/album/2gVGRsRpBJOZs2hZTvwlpc) | 2:58 | 2022-12-08 |  |
 | [El Güero \(Feat\. Marca MP\)](https://open.spotify.com/track/2MeEuwplwbbjZ7hxRI6viw) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [El Güero \(Feat\. Marca MP\)](https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI) | 3:33 | 2022-12-08 | 2023-03-18 |
 | [El H \(En Vivo\)](https://open.spotify.com/track/6053Is00EA36bQRzjvairQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Pisteando Con Amigos \(En Vivo\)](https://open.spotify.com/album/3eyWMTbJs0XLxLaOaUFLSU) | 3:00 | 2022-12-08 | 2023-03-13 |
@@ -310,6 +310,7 @@
 | [Popurrí Cumbias: Se Murió De Amor/Desvelado/Otra Vez \- En Vivo](https://open.spotify.com/track/2rNksx1mb49Vb35MiKgUiJ) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [En Vivo Desde El Rancho](https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh) | 8:41 | 2023-03-17 |  |
 | [Popurrí de Los Morros \(Chivo Tatemado/ Los Primos/ El Ultimo Billete\)](https://open.spotify.com/track/39MCJWKc558g8pMnnBgDbw) | [Milicia Del Rancho](https://open.spotify.com/artist/6Dfji9ASsLF7FALyFtUaSi) | [La Vieja Escuela](https://open.spotify.com/album/2vLAqABlhgj4081fzvRWpD) | 2:51 | 2022-12-08 |  |
 | [Popurrí De Los Tigres Del Norte \- En Vivo](https://open.spotify.com/track/2AtUcoBaExy62jqza3rXE9) | [La Explosiva Banda de Maza](https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR) | [En Vivo Desde El Rancho](https://open.spotify.com/album/4zgtbXo3phFaCdBnGQ4x8N) | 5:18 | 2022-05-12 | 2022-12-09 |
+| [Popurrí El Primer Tonto / Eres Mi Droga](https://open.spotify.com/track/1M7nsuYEzpzxQDAZcLCEBs) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [Los De La Noria En Vivo](https://open.spotify.com/album/1FGMR17jQ6VQgsHWDKmWUF) | 4:17 | 2023-03-17 |  |
 | [Popurrí Y Llegaste Tú/Te Quiero A Morir \- En Vivo](https://open.spotify.com/track/29xpuvcM2swZXOIQ49q6zQ) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Concierto Mundial Digital Live](https://open.spotify.com/album/2gijh9dOUhi9ZmovGBDD3f) | 6:03 | 2022-05-12 | 2023-03-18 |
 | [Por Las Calles De Chihuahua](https://open.spotify.com/track/4dZBaYkhSzYta7sbWjftLx) | [Comando Único](https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK) | [En Vivo, Vol\. 3](https://open.spotify.com/album/1LZhpRZhyKd2cMyetLfbQ3) | 2:42 | 2023-03-17 |  |
 | [Por Que Te Vas De Mi \- En Vivo](https://open.spotify.com/track/17gXGLgaVeONySly2voFIY) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Recuerdos Para Pistear \(En Vivo\)](https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F) | 3:22 | 2023-03-17 |  |

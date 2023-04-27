@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2dujmZz7V7OvlkALsqvYfi">Chris Jedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,034 likes - 165 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,036 likes - 165 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 114 | [Claro \(feat\. Jory\)](https://open.spotify.com/track/5hiDC4c5R4x6Z1dQbuhKps) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [El Regreso del Sobreviviente \(Deluxe Edition\)](https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO) | 3:47 |
 | 115 | [Tu Nombre](https://open.spotify.com/track/6d1wVWDbzVs0MtqqSYOZ06) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Líderes](https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae) | 4:31 |
 | 116 | [Te Extraño \(feat\. Franco de Vita\)](https://open.spotify.com/track/4NiSkE9JD1k14C7VFEJHWT) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [El Regreso del Sobreviviente \(Deluxe Edition\)](https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO) | 5:04 |
-| 117 | [Independiente](https://open.spotify.com/track/5znrnIpadxb5MLvm3HjdOg) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 3:06 |
-| 118 | [TBC](https://open.spotify.com/track/1YU5ieZXPkwHoDSob6n6Zo) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 2:32 |
+| 117 | [TBC](https://open.spotify.com/track/1YU5ieZXPkwHoDSob6n6Zo) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 2:32 |
+| 118 | [Independiente](https://open.spotify.com/track/5znrnIpadxb5MLvm3HjdOg) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 3:06 |
 | 119 | [Baby Danger \(feat\. Sean Paul\)](https://open.spotify.com/track/2gd0aPa5rpoQjb4FgEMTxi) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [El Regreso del Sobreviviente \(Deluxe Edition\)](https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO) | 4:15 |
 | 120 | [Un Beso](https://open.spotify.com/track/1OzxzCYQkJNvj6IHcA2Atc) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Líderes](https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae) | 4:38 |
 | 121 | [En Lo Oscuro](https://open.spotify.com/track/03eqlziOWq8JcWtGlKdpGz) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Last Don II](https://open.spotify.com/album/57mWSm5UtRGT08KeJuyZqu) | 4:18 |
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 164 | [Amanecer Contigo](https://open.spotify.com/track/1DzgxamWIUxbIvGzHNocFj) | [Tormenta](https://open.spotify.com/artist/5IxyAzEThg31lxtUWCcb2q) | [Bendiciones \(Deluxe Edition\)](https://open.spotify.com/album/0uj7i2QiUuSyi7STcjo9uZ) | 3:29 |
 | 165 | [No Body Like You](https://open.spotify.com/track/0pC44HyexlUgpwQ9BPzIx7) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [Latinos de Corazón](https://open.spotify.com/album/7gCIvYTE49QuPO8aW746wo) | 3:56 |
 
-Snapshot ID: `MjgwNDExMjEsMDAwMDAwMDAwZGI0ZTUzNDU3NDBkOTFmM2YzY2E1ZjgzMTRlNzdjZQ==`
+Snapshot ID: `MjgwNDI1NjEsMDAwMDAwMDA3NzdlMmFhNjczNTU0MjdkYjdlMDZjNjFkODk5OWNhOA==`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest Dance hits and the ones to come. Welcome to the Main Stage! Cover: Coi Leray, David Guetta, Anne-Marie",
+  "description": "The biggest Dance hits and the ones to come. Welcome to the Main Stage! Cover: Bassjackers",
   "name": "Main Stage",
   "tracks": [
     {
@@ -324,7 +324,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 164327,
       "name": "All The Things She Said - Teaboy Flip",
       "url": "https://open.spotify.com/track/4r8vtv55ZqVxRAXdcLGS8J"
@@ -625,6 +625,28 @@
     },
     {
       "album": {
+        "name": "Bad Day",
+        "url": "https://open.spotify.com/album/4N3ODBFIfU3SrBUfRAVxpo"
+      },
+      "artists": [
+        {
+          "name": "Agent Zed",
+          "url": "https://open.spotify.com/artist/2Qies5tt1MrS9aziIKigkc"
+        },
+        {
+          "name": "Daniel Powter",
+          "url": "https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135015,
+      "name": "Bad Day",
+      "url": "https://open.spotify.com/track/1hLjDjDukRRGLdqfseaNsa"
+    },
+    {
+      "album": {
         "name": "Bad Habits (MEDUZA Remix)",
         "url": "https://open.spotify.com/album/6KMHosj3h5fkGwPoTK9gvB"
       },
@@ -752,6 +774,32 @@
       "duration_ms": 142000,
       "name": "Be My Lover",
       "url": "https://open.spotify.com/track/1QQwe5cwWqYxEwnncg1QBM"
+    },
+    {
+      "album": {
+        "name": "Be My Lover (feat. La Bouche) [2023 Mix]",
+        "url": "https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX"
+      },
+      "artists": [
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169523,
+      "name": "Be My Lover (feat. La Bouche) - 2023 Mix",
+      "url": "https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV"
     },
     {
       "album": {
@@ -2390,6 +2438,28 @@
       "duration_ms": 221220,
       "name": "Follow",
       "url": "https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67"
+    },
+    {
+      "album": {
+        "name": "Follow You",
+        "url": "https://open.spotify.com/album/2NX3BWBb1JfvGqfYEfViRU"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "Beks",
+          "url": "https://open.spotify.com/artist/3yPTH9Cm5CqJUBvZ2PIOVW"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139436,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/4KgfbHlVsw8mvPG2GCe6rH"
     },
     {
       "album": {
@@ -4314,7 +4384,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 133691,
       "name": "Money On My Mind",
       "url": "https://open.spotify.com/track/7C7XVzOXWx0vdOlS7D2ieH"
@@ -4604,7 +4674,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 156857,
       "name": "Never Walk Alone",
       "url": "https://open.spotify.com/track/5vDUFAevjofyUJH348o7QT"
@@ -4718,7 +4788,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 155076,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/2d5KjsVCU7ryRfvEtVdTIh"
@@ -7190,6 +7260,28 @@
       "duration_ms": 157750,
       "name": "What a Night",
       "url": "https://open.spotify.com/track/5M78sypr7NMw0MMcrWTS0l"
+    },
+    {
+      "album": {
+        "name": "What It Feels Like",
+        "url": "https://open.spotify.com/album/6w5EasEXNH9NSNpgJLqXO5"
+      },
+      "artists": [
+        {
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+        },
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135276,
+      "name": "What It Feels Like",
+      "url": "https://open.spotify.com/track/7lD0SNdtIYGV30yxu4494I"
     },
     {
       "album": {

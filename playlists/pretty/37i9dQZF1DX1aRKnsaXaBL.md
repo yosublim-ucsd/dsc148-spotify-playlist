@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 
 > Catching sunsets con indie rock de fondo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,050 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,067 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 | 20 | [Insatisfecho](https://open.spotify.com/track/0QfPd5Z46l1bkDhl9ABV2x) | [PJAMA](https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH) | [Pacific Jam At My Apartment](https://open.spotify.com/album/2U1uNbCDt2jDhZpd6bM4wn) | 3:05 |
 | 21 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 |
 | 22 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 |
-| 23 | [Control](https://open.spotify.com/track/5YVwv9bfy4PX1uRhQUk1sO) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Why You?](https://open.spotify.com/album/1g1STbZaWPnAD4rabVe8tg) | 5:04 |
-| 24 | [Apasionado](https://open.spotify.com/track/7nNe66m3zuscn2Tn4nJwAs) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [RIO HOTEL](https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9) | 4:05 |
+| 23 | [Apasionado](https://open.spotify.com/track/7nNe66m3zuscn2Tn4nJwAs) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [RIO HOTEL](https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9) | 4:05 |
+| 24 | [Control](https://open.spotify.com/track/5YVwv9bfy4PX1uRhQUk1sO) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Why You?](https://open.spotify.com/album/1g1STbZaWPnAD4rabVe8tg) | 5:04 |
 | 25 | [Levitando Lento](https://open.spotify.com/track/2uQRhJo29IQVKiUUmYLqTm) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Levitando Lento](https://open.spotify.com/album/35erxSQT8lds419FlnC6WP) | 3:42 |
 | 26 | [Últimas Palabras](https://open.spotify.com/track/3wvIGzrff2fqsJ0js3Yj2a) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Pangea](https://open.spotify.com/album/4ZXSSk6W16s3Jn7EXOnVFU) | 3:32 |
 | 27 | [Corolla 94](https://open.spotify.com/track/1HUzDAJRiiyk35cSnPXPUG) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Corolla 94](https://open.spotify.com/album/6tbVFYIDmco4NiEMxWEYsp) | 3:21 |
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 | 38 | [Dejarte Ir](https://open.spotify.com/track/5eyC34a60pEb4iYysPTgBX) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Dejarte Ir También Es Amar](https://open.spotify.com/album/0xuwW3Q0bqsIstfTl4kgYi) | 3:12 |
 | 39 | [Sentimiento](https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy) | [Gabacho](https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu) | [Sentimiento](https://open.spotify.com/album/53nvTD2BYsEqicPz4hhuQY) | 2:52 |
 | 40 | [dejarse querer](https://open.spotify.com/track/2fVVRlRJoqWezN8l6LdpVa) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [LOS FELIZ](https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ) | 3:03 |
-| 41 | [Sale mal](https://open.spotify.com/track/10i21cKAzsfofJrqwa2KkQ) | [Alavedra](https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt), [Diamante Negro](https://open.spotify.com/artist/51WUBWxuW4MAoBwuYraA4v) | [Sale mal](https://open.spotify.com/album/4RPZzOSaWyP9JyshmltVvF) | 3:19 |
-| 42 | [98](https://open.spotify.com/track/3H7oZCSHd0QbV79Ur2wCPZ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [98](https://open.spotify.com/album/6FIyZQ7DHCY6Jlg3AbrF50) | 3:26 |
-| 43 | [Tu Forma](https://open.spotify.com/track/6SullLVOVzuWkaCCHJhQaS) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Tu Forma](https://open.spotify.com/album/5C4E1kwoa7VWHEXIwdEOoK) | 2:34 |
+| 41 | [Tu Forma](https://open.spotify.com/track/6SullLVOVzuWkaCCHJhQaS) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Tu Forma](https://open.spotify.com/album/5C4E1kwoa7VWHEXIwdEOoK) | 2:34 |
+| 42 | [Sale mal](https://open.spotify.com/track/10i21cKAzsfofJrqwa2KkQ) | [Alavedra](https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt), [Diamante Negro](https://open.spotify.com/artist/51WUBWxuW4MAoBwuYraA4v) | [Sale mal](https://open.spotify.com/album/4RPZzOSaWyP9JyshmltVvF) | 3:19 |
+| 43 | [98](https://open.spotify.com/track/3H7oZCSHd0QbV79Ur2wCPZ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [98](https://open.spotify.com/album/6FIyZQ7DHCY6Jlg3AbrF50) | 3:26 |
 | 44 | [Tribus de libertad](https://open.spotify.com/track/3ylceN7GD9rUSebqzH61Ny) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Tribus de libertad](https://open.spotify.com/album/5t5TWWWB5iGSXzHiEBbmXf) | 4:24 |
 | 45 | [Trail Blazer](https://open.spotify.com/track/0Pe3iMJXI9a0dDdoXgG10G) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Caribe Caribe](https://open.spotify.com/album/7zGq7oV1gSW4Aga1a9XJUK) | 4:13 |
 | 46 | [Cliché](https://open.spotify.com/track/1IeIu8G0uzcrDKl2l6eg99) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Cliché](https://open.spotify.com/album/7dcFO10Q12E0n1AAtv6c4E) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 | 49 | [Todo Es Perfecto](https://open.spotify.com/track/00CaDxVVxJaUeAOebDI65k) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Todo Es Perfecto](https://open.spotify.com/album/542V4yB6vkGz9lJhBHnIGp) | 3:31 |
 | 50 | [mi pobre angelito 2](https://open.spotify.com/track/5smZX3A2NyCZW2Kfmrvv4z) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [LOS FELIZ](https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ) | 2:41 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDc4N2NmZmMyYmNmMjdkZTA5NTRjYmY2M2VmMmU5Yzg2`
+Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDVjMjlhNmJiNTk1ZDg5MWYwNzFiNjVlZjlhMGVmZDM4`

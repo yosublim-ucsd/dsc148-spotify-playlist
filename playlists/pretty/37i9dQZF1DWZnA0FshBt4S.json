@@ -1,12 +1,12 @@
 {
   "description": "The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk",
-  "num_followers": 82294,
+  "num_followers": 82406,
   "original_name": "Youth Group Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIyNzIwMCwwMDAwMDAwMDI2NmViMmE1Y2VmN2JlM2I2NTUzNDAzNzZiNTcyNTlj",
+  "snapshot_id": "MTY3NTIyNzIwMCwwMDAwMDAwMDAwY2Y1YzIzYjE1ZWE3MjY2ZDg5NWJiMzYyMWMxNTMx",
   "tracks": [
     {
       "added_at": "2023-02-01 04:53:20",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "A Maze Of Grace",
-        "url": "https://open.spotify.com/album/40P6d6VGfGVTSiJU69dDm2"
-      },
-      "artists": [
-        {
-          "name": "Avalon",
-          "url": "https://open.spotify.com/artist/4rulVipLmUL2Mg67SIUmCO"
-        }
-      ],
-      "duration_ms": 280493,
-      "name": "Testify To Love",
-      "url": "https://open.spotify.com/track/4wuf5qwou5EIPYHFvI6Vv8"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "BarlowGirl",
         "url": "https://open.spotify.com/album/4V1yueAEbtS4K2ZvIjvSXr"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 270213,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/6kKIcMRhwxJ1XTnfapaqhL"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "A Maze Of Grace",
+        "url": "https://open.spotify.com/album/40P6d6VGfGVTSiJU69dDm2"
+      },
+      "artists": [
+        {
+          "name": "Avalon",
+          "url": "https://open.spotify.com/artist/4rulVipLmUL2Mg67SIUmCO"
+        }
+      ],
+      "duration_ms": 280493,
+      "name": "Testify To Love",
+      "url": "https://open.spotify.com/track/4wuf5qwou5EIPYHFvI6Vv8"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "The Light Of Things Hoped For",
-        "url": "https://open.spotify.com/album/7nxwgdX2XXJ92gJ936QCa1"
+        "name": "Mezzamorphis",
+        "url": "https://open.spotify.com/album/5GpaRJfeglVrlsClIlhPtn"
       },
       "artists": [
         {
-          "name": "Brave Saint Saturn",
-          "url": "https://open.spotify.com/artist/3ThPMQBJlcHA839lBHxQr9"
+          "name": "Delirious?",
+          "url": "https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF"
         }
       ],
-      "duration_ms": 195040,
-      "name": "The Sun Also Rises",
-      "url": "https://open.spotify.com/track/1riMbTj6HbiQ0tpD1aRema"
+      "duration_ms": 200272,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/6z5hemlFOgSeqGgArca8sS"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "Mezzamorphis",
-        "url": "https://open.spotify.com/album/5GpaRJfeglVrlsClIlhPtn"
+        "name": "The Light Of Things Hoped For",
+        "url": "https://open.spotify.com/album/7nxwgdX2XXJ92gJ936QCa1"
       },
       "artists": [
         {
-          "name": "Delirious?",
-          "url": "https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF"
+          "name": "Brave Saint Saturn",
+          "url": "https://open.spotify.com/artist/3ThPMQBJlcHA839lBHxQr9"
         }
       ],
-      "duration_ms": 200272,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/6z5hemlFOgSeqGgArca8sS"
+      "duration_ms": 195040,
+      "name": "The Sun Also Rises",
+      "url": "https://open.spotify.com/track/1riMbTj6HbiQ0tpD1aRema"
     },
     {
       "added_at": "2023-02-01 04:53:20",

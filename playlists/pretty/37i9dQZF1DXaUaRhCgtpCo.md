@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUaRhCgtpCo.md) - [plain]
 
 > May the Force be with you\. Listen to all the best Star Wars tracks, all in one place\. Cover: Star Wars: Andor
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,438 likes - 126 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,493 likes - 126 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

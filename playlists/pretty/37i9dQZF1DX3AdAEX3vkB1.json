@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 181646,
+  "num_followers": 181892,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk2NTUxNCwwMDAwMDAwMDdhOWQxOTc3MjdiZTAzMzI5NmQzNTRmNTgyOTBlY2Q0",
+  "snapshot_id": "MTY2OTk2NTUxNCwwMDAwMDAwMDE5NWRmZGY5NDc5ODkxMGM4YmVlODRiY2MzNzg0MzFi",
   "tracks": [
     {
       "added_at": "2022-06-16 22:02:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "Where Did Our Love Go",
+      "url": "https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Dance Party",
         "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
       },
@@ -687,18 +703,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Where Did Our Love Go",
-        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+        "name": "Jump Up Calypso",
+        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
       },
       "artists": [
         {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
         }
       ],
-      "duration_ms": 153333,
-      "name": "Where Did Our Love Go",
-      "url": "https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j"
+      "duration_ms": 221704,
+      "name": "Jump in the Line",
+      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -735,22 +751,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Best of The Kingsmen",
-        "url": "https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx"
-      },
-      "artists": [
-        {
-          "name": "The Kingsmen",
-          "url": "https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo"
-        }
-      ],
-      "duration_ms": 165381,
-      "name": "Louie Louie",
-      "url": "https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Down the Road Apiece - the Recordings 1963-1966",
         "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
       },
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "The Best of The Kingsmen",
+        "url": "https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx"
+      },
+      "artists": [
+        {
+          "name": "The Kingsmen",
+          "url": "https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo"
+        }
+      ],
+      "duration_ms": 165381,
+      "name": "Louie Louie",
+      "url": "https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Please Mr. Postman",
         "url": "https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 148040,
       "name": "Please Mr. Postman - Single Version / Mono",
       "url": "https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Jump Up Calypso",
-        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 221704,
-      "name": "Jump in the Line",
-      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Knock On Wood",
-        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
+        "name": "More Hits By The Supremes",
+        "url": "https://open.spotify.com/album/2maj3yWtoFnr0g7TlNao7A"
       },
       "artists": [
         {
-          "name": "Eddie Floyd",
-          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
         }
       ],
-      "duration_ms": 189840,
-      "name": "Knock on Wood",
-      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
+      "duration_ms": 172906,
+      "name": "Stop! In The Name Of Love",
+      "url": "https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Knock On Wood",
+        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
+      },
+      "artists": [
+        {
+          "name": "Eddie Floyd",
+          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "Knock on Wood",
+      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Take Two",
         "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 177666,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "More Hits By The Supremes",
-        "url": "https://open.spotify.com/album/2maj3yWtoFnr0g7TlNao7A"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 172906,
-      "name": "Stop! In The Name Of Love",
-      "url": "https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Take Good Care Of My Baby",
-        "url": "https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu"
+        "name": "Make It Happen",
+        "url": "https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i"
       },
       "artists": [
         {
-          "name": "Bobby Vee",
-          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
         }
       ],
-      "duration_ms": 149800,
-      "name": "Take Good Care Of My Baby",
-      "url": "https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ"
+      "duration_ms": 181800,
+      "name": "The Tears Of A Clown",
+      "url": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Make It Happen",
-        "url": "https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i"
+        "name": "Take Good Care Of My Baby",
+        "url": "https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu"
       },
       "artists": [
         {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+          "name": "Bobby Vee",
+          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
         }
       ],
-      "duration_ms": 181800,
-      "name": "The Tears Of A Clown",
-      "url": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
+      "duration_ms": 149800,
+      "name": "Take Good Care Of My Baby",
+      "url": "https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Hot Rocks (1964-1971)",
-        "url": "https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 222746,
-      "name": "(I Can't Get No) Satisfaction - Mono Version",
-      "url": "https://open.spotify.com/track/5FKkbyGm42hw1y08l2knlO"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Everlasting Love Affair",
         "url": "https://open.spotify.com/album/2BX02XIupm6Sw7cdaT7gVX"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
+        "name": "Hot Rocks (1964-1971)",
+        "url": "https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp"
       },
       "artists": [
         {
-          "name": "The Trashmen",
-          "url": "https://open.spotify.com/artist/5QEA3sofVt5QckQA6QX2nN"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 137133,
-      "name": "Surfin' Bird",
-      "url": "https://open.spotify.com/track/7EjyzZcbLxW7PaaLua9Ksb"
+      "duration_ms": 222746,
+      "name": "(I Can't Get No) Satisfaction - Mono Version",
+      "url": "https://open.spotify.com/track/5FKkbyGm42hw1y08l2knlO"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
+      },
+      "artists": [
+        {
+          "name": "The Trashmen",
+          "url": "https://open.spotify.com/artist/5QEA3sofVt5QckQA6QX2nN"
+        }
+      ],
+      "duration_ms": 137133,
+      "name": "Surfin' Bird",
+      "url": "https://open.spotify.com/track/7EjyzZcbLxW7PaaLua9Ksb"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Hang On Sloopy: The Best Of The McCoys",
         "url": "https://open.spotify.com/album/17dRh7ma3OpZSdmWc5LT1H"
       },
@@ -1475,42 +1475,6 @@
       "duration_ms": 231800,
       "name": "Hang On Sloopy",
       "url": "https://open.spotify.com/track/0i7O5MtSTXvR4BEY7stpjF"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Twist & Shout",
-        "url": "https://open.spotify.com/album/7jfWeD13O9Y9AOdVSMtGDT"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 155400,
-      "name": "Twist And Shout",
-      "url": "https://open.spotify.com/track/7iFdUmdqT9XrsJdSGf9KrX"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "The Two Of Us",
-        "url": "https://open.spotify.com/album/5BiQSxjnQuQgTb0FCOQPJe"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        },
-        {
-          "name": "Brook Benton",
-          "url": "https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh"
-        }
-      ],
-      "duration_ms": 165760,
-      "name": "Baby, You\u2019ve Got What It Takes",
-      "url": "https://open.spotify.com/track/0DICNd5XQ1og9UeYzxoNFV"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1531,6 +1495,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Twist & Shout",
+        "url": "https://open.spotify.com/album/7jfWeD13O9Y9AOdVSMtGDT"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 155400,
+      "name": "Twist And Shout",
+      "url": "https://open.spotify.com/track/7iFdUmdqT9XrsJdSGf9KrX"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "The Monkees (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1q1LuLo92N5cl5e0GKRq7h"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 164093,
       "name": "Last Train to Clarksville - Original Stereo Version; 2006 Remaster",
       "url": "https://open.spotify.com/track/3h4t9qpFktohHeUQc3hZCa"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Two Of Us",
+        "url": "https://open.spotify.com/album/5BiQSxjnQuQgTb0FCOQPJe"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        },
+        {
+          "name": "Brook Benton",
+          "url": "https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh"
+        }
+      ],
+      "duration_ms": 165760,
+      "name": "Baby, You\u2019ve Got What It Takes",
+      "url": "https://open.spotify.com/track/0DICNd5XQ1og9UeYzxoNFV"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Tina!",
-        "url": "https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj"
-      },
-      "artists": [
-        {
-          "name": "Ike & Tina Turner",
-          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
-        }
-      ],
-      "duration_ms": 244160,
-      "name": "River Deep - Mountain High",
-      "url": "https://open.spotify.com/track/19jo0UT2vqD4pNVfIqTy4R"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Sweet Soul Music",
         "url": "https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 141066,
       "name": "Sweet Soul Music",
       "url": "https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Tina!",
+        "url": "https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj"
+      },
+      "artists": [
+        {
+          "name": "Ike & Tina Turner",
+          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
+        }
+      ],
+      "duration_ms": 244160,
+      "name": "River Deep - Mountain High",
+      "url": "https://open.spotify.com/track/19jo0UT2vqD4pNVfIqTy4R"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "No Place To Hide",
-        "url": "https://open.spotify.com/album/7CPcd7Sl9L4TahP1gTqR5q"
-      },
-      "artists": [
-        {
-          "name": "Betty Everett",
-          "url": "https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl"
-        }
-      ],
-      "duration_ms": 129758,
-      "name": "It's In The Kiss (The Shoop Shoop Song)",
-      "url": "https://open.spotify.com/track/35hfuechuOqaW31ogdauO7"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Man Who Invented Soul",
         "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 159893,
       "name": "Twistin' the Night Away",
       "url": "https://open.spotify.com/track/6ys9oyFvw7FXbs5UMZ7I7s"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "No Place To Hide",
+        "url": "https://open.spotify.com/album/7CPcd7Sl9L4TahP1gTqR5q"
+      },
+      "artists": [
+        {
+          "name": "Betty Everett",
+          "url": "https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl"
+        }
+      ],
+      "duration_ms": 129758,
+      "name": "It's In The Kiss (The Shoop Shoop Song)",
+      "url": "https://open.spotify.com/track/35hfuechuOqaW31ogdauO7"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Things & Other Things",
+        "url": "https://open.spotify.com/album/7wyMqH6vUeHYT09iaWhtx3"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 151413,
+      "name": "Things",
+      "url": "https://open.spotify.com/track/5hgei65n0pGJ9uUHo8v2en"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "The Two Of Us",
         "url": "https://open.spotify.com/album/5BiQSxjnQuQgTb0FCOQPJe"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 148226,
       "name": "A Rockin' Good Way (To Mess Around And Fall In Love)",
       "url": "https://open.spotify.com/track/4ydSzWwxqtNdP4VPfQe8bf"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Things & Other Things",
-        "url": "https://open.spotify.com/album/7wyMqH6vUeHYT09iaWhtx3"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 151413,
-      "name": "Things",
-      "url": "https://open.spotify.com/track/5hgei65n0pGJ9uUHo8v2en"
     },
     {
       "added_at": "2022-06-16 22:02:00",

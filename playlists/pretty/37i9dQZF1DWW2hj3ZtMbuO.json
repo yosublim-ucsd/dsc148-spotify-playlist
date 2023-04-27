@@ -1,12 +1,12 @@
 {
   "description": "Sapphic songs that defined your music taste as \"yearning.\" ",
-  "num_followers": 1307229,
+  "num_followers": 1308469,
   "original_name": "sad girl starter pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI4NDI4OCwwMDAwMDAwMDE3Yzk5YmI3Mzg4Y2NjM2NmNzkzMjM3MmQxMjFiM2E3",
+  "snapshot_id": "MTY4MDI4NDI4OCwwMDAwMDAwMGFjMDJkZTAyYjQzMjU3MTFmYjllZmQxYjFlNWQ0NTA2",
   "tracks": [
     {
       "added_at": "2023-03-31 17:35:51",
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/17cwqWxSyZK4bo7Hg7z9ko"
     },
     {
-      "added_at": "2023-04-26 00:20:19",
+      "added_at": "2023-04-27 01:04:17",
       "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-03-31 17:35:51",
       "album": {
+        "name": "Trick",
+        "url": "https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 176146,
+      "name": "Sarah",
+      "url": "https://open.spotify.com/track/0Xmz2shisTG8peoqnFj5tu"
+    },
+    {
+      "added_at": "2023-03-31 17:35:51",
+      "album": {
         "name": "When The Pawn...",
         "url": "https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 235035,
       "name": "Pancakes for Dinner",
       "url": "https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL"
-    },
-    {
-      "added_at": "2023-03-31 17:35:51",
-      "album": {
-        "name": "Trick",
-        "url": "https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 176146,
-      "name": "Sarah",
-      "url": "https://open.spotify.com/track/0Xmz2shisTG8peoqnFj5tu"
     },
     {
       "added_at": "2023-03-31 17:35:51",

@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 54147,
+  "num_followers": 54142,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTAzMDE3OSwwMDAwMDAwMDYxMDExMzM1YjM5OGVkZDZhYzkwODkzYTI3N2EyM2Uy",
+  "snapshot_id": "MTY4MTAzMDE3OSwwMDAwMDAwMDU3ODM0Mzc0MjY0OGRhNmJhNzBjNGFjM2NiZDhhMzNj",
   "tracks": [
     {
       "added_at": "2023-04-09 08:49:39",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Free To Worship",
+        "url": "https://open.spotify.com/album/50pXzic1y0A1fLXp8ktvkr"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        }
+      ],
+      "duration_ms": 289333,
+      "name": "This Is The Day",
+      "url": "https://open.spotify.com/track/0LniKzo1ZyVzqbBecrkmXe"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 292953,
       "name": "Speak the Name (feat. Natalie Grant)",
       "url": "https://open.spotify.com/track/6ERUhKp4ECxlnmJvKQZpu1"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Free To Worship",
-        "url": "https://open.spotify.com/album/50pXzic1y0A1fLXp8ktvkr"
-      },
-      "artists": [
-        {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
-        }
-      ],
-      "duration_ms": 289333,
-      "name": "This Is The Day",
-      "url": "https://open.spotify.com/track/0LniKzo1ZyVzqbBecrkmXe"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Easter Project",
-        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
-      },
-      "artists": [
-        {
-          "name": "The Spirituals",
-          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
-        },
-        {
-          "name": "PJ Greaves",
-          "url": "https://open.spotify.com/artist/3iTsln5dISoI8Oa1oTQswu"
-        }
-      ],
-      "duration_ms": 429522,
-      "name": "The Crucifixion",
-      "url": "https://open.spotify.com/track/26hCJDGJpoXYMNXdQTdMYa"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "The Cry: A Live Worship Experience",
         "url": "https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 467186,
       "name": "Finished Work - Live From Chattanooga, TN",
       "url": "https://open.spotify.com/track/3jvbdyrWcjXxAXGwbubycq"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Easter Project",
+        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
+      },
+      "artists": [
+        {
+          "name": "The Spirituals",
+          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
+        },
+        {
+          "name": "PJ Greaves",
+          "url": "https://open.spotify.com/artist/3iTsln5dISoI8Oa1oTQswu"
+        }
+      ],
+      "duration_ms": 429522,
+      "name": "The Crucifixion",
+      "url": "https://open.spotify.com/track/26hCJDGJpoXYMNXdQTdMYa"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "The Essential Fred Hammond",
+        "url": "https://open.spotify.com/album/4tjopW7OcRx04doP9Pgke7"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        }
+      ],
+      "duration_ms": 244653,
+      "name": "Celebrate (He Lives)",
+      "url": "https://open.spotify.com/track/1HK61zJJWpppOHE7jZQwYm"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Easter Project",
         "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 356209,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/740Q0J6Pvt1EPqDEidQm1E"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "The Essential Fred Hammond",
-        "url": "https://open.spotify.com/album/4tjopW7OcRx04doP9Pgke7"
-      },
-      "artists": [
-        {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
-        }
-      ],
-      "duration_ms": 244653,
-      "name": "Celebrate (He Lives)",
-      "url": "https://open.spotify.com/track/1HK61zJJWpppOHE7jZQwYm"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "He Lives",
+        "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
+      },
+      "artists": [
+        {
+          "name": "LaShun Pace",
+          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
+        }
+      ],
+      "duration_ms": 457000,
+      "name": "He Lives",
+      "url": "https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Live At Azusa 3",
         "url": "https://open.spotify.com/album/46cM0cBjpgC6Rwa3jD2DBj"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 436960,
       "name": "He Lives - Live",
       "url": "https://open.spotify.com/track/3H0xO1g8BdlmZKXgnqiNzA"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "He Lives",
-        "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
-      },
-      "artists": [
-        {
-          "name": "LaShun Pace",
-          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
-        }
-      ],
-      "duration_ms": 457000,
-      "name": "He Lives",
-      "url": "https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Verity Records: The First Decade, A Celebration Of Christmas",
-        "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
-      },
-      "artists": [
-        {
-          "name": "Hezekiah Walker & The Love Fellowship Crusade Choir",
-          "url": "https://open.spotify.com/artist/10Bp1mvmVqIXcRj1VtxQyZ"
-        }
-      ],
-      "duration_ms": 290026,
-      "name": "Born To Die",
-      "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Joshua's Troop",
         "url": "https://open.spotify.com/album/3XYaQRnY5ha54xB4x2gbgT"
       },
@@ -1759,18 +1743,38 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Family & Friends Choir III",
-        "url": "https://open.spotify.com/album/2HqJpxkdEf5FRDJsxkkZrj"
+        "name": "Verity Records: The First Decade, A Celebration Of Christmas",
+        "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
       },
       "artists": [
         {
-          "name": "Ron Winans",
-          "url": "https://open.spotify.com/artist/67B5eSkw1ckwkAVi278b2s"
+          "name": "Hezekiah Walker & The Love Fellowship Crusade Choir",
+          "url": "https://open.spotify.com/artist/10Bp1mvmVqIXcRj1VtxQyZ"
         }
       ],
-      "duration_ms": 325666,
-      "name": "He Proved His Love",
-      "url": "https://open.spotify.com/track/4OMAO6F57zBkgyakZjscTl"
+      "duration_ms": 290026,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Classic Gold: Live In London: Andrae Crouch & The Disciples",
+        "url": "https://open.spotify.com/album/47TmueNAVNBE7MLC56wGzt"
+      },
+      "artists": [
+        {
+          "name": "Andrae Crouch",
+          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
+        },
+        {
+          "name": "Disciples",
+          "url": "https://open.spotify.com/artist/4ZCnOYklELEjDUrbP4e5dv"
+        }
+      ],
+      "duration_ms": 286946,
+      "name": "Power In the Blood v1.1",
+      "url": "https://open.spotify.com/track/5FPZdulid3ZgnAZq2sRlb3"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1795,22 +1799,18 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Classic Gold: Live In London: Andrae Crouch & The Disciples",
-        "url": "https://open.spotify.com/album/47TmueNAVNBE7MLC56wGzt"
+        "name": "Family & Friends Choir III",
+        "url": "https://open.spotify.com/album/2HqJpxkdEf5FRDJsxkkZrj"
       },
       "artists": [
         {
-          "name": "Andrae Crouch",
-          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
-        },
-        {
-          "name": "Disciples",
-          "url": "https://open.spotify.com/artist/4ZCnOYklELEjDUrbP4e5dv"
+          "name": "Ron Winans",
+          "url": "https://open.spotify.com/artist/67B5eSkw1ckwkAVi278b2s"
         }
       ],
-      "duration_ms": 286946,
-      "name": "Power In the Blood v1.1",
-      "url": "https://open.spotify.com/track/5FPZdulid3ZgnAZq2sRlb3"
+      "duration_ms": 325666,
+      "name": "He Proved His Love",
+      "url": "https://open.spotify.com/track/4OMAO6F57zBkgyakZjscTl"
     },
     {
       "added_at": "2023-04-09 08:49:39",

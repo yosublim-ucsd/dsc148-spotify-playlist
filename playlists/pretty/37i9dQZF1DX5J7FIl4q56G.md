@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: As Everything Unfolds
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,729 likes - 56 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,900 likes - 56 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

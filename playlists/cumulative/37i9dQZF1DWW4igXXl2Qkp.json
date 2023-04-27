@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: ODUMODUBLVCK",
+  "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: Devmaccc",
   "name": "Fresh Finds: Hip-Hop",
   "tracks": [
     {
@@ -1996,7 +1996,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 123743,
       "name": "Black Bape Jeans",
       "url": "https://open.spotify.com/track/5bEplVzT5O5rVSqi64nSJn"
@@ -2404,7 +2404,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 193008,
       "name": "Broken",
       "url": "https://open.spotify.com/track/3XvxLLEmtUf83zAXbiTtAB"
@@ -2494,7 +2494,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 176403,
       "name": "Busy",
       "url": "https://open.spotify.com/track/4wmkT0Amgglm4IPiUBZYi5"
@@ -3336,7 +3336,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 173510,
       "name": "Dancing In The Rain Love",
       "url": "https://open.spotify.com/track/3yYo9G7amMqLfzVoIrpHk0"
@@ -3710,7 +3710,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 146413,
       "name": "Don Lemon",
       "url": "https://open.spotify.com/track/0CMynrZC5yzBNcx1yO2Whs"
@@ -4408,7 +4408,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 158250,
       "name": "Fake Friends",
       "url": "https://open.spotify.com/track/5gZu9qcaqBPwyDljjMFLS6"
@@ -4484,6 +4484,24 @@
       "duration_ms": 188852,
       "name": "Finna Charge",
       "url": "https://open.spotify.com/track/1qezHwAepeit34ADMFtnMJ"
+    },
+    {
+      "album": {
+        "name": "First Day In (Cheatcode)",
+        "url": "https://open.spotify.com/album/0i8FWTLpzeKv0dH9v5T11l"
+      },
+      "artists": [
+        {
+          "name": "PM FRVR",
+          "url": "https://open.spotify.com/artist/4SmRyrJ26FTrDKG2OwDr3X"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127638,
+      "name": "First Day In (Cheatcode)",
+      "url": "https://open.spotify.com/track/7sflVMFqFip5szn0Hq9aqp"
     },
     {
       "album": {
@@ -4864,6 +4882,24 @@
       "duration_ms": 118588,
       "name": "GAME ON LOCK",
       "url": "https://open.spotify.com/track/1gK93HaJnBsIGtWp2H1nsw"
+    },
+    {
+      "album": {
+        "name": "Games",
+        "url": "https://open.spotify.com/album/3dCdXYs4q7pn3iCdsxzgd9"
+      },
+      "artists": [
+        {
+          "name": "Dina Ayada",
+          "url": "https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Games",
+      "url": "https://open.spotify.com/track/707DkaerHk1Ad2uySczdR4"
     },
     {
       "album": {
@@ -5503,6 +5539,24 @@
     },
     {
       "album": {
+        "name": "Hand on Chest",
+        "url": "https://open.spotify.com/album/1A3GYh1Q0vL6FW1kWakDhA"
+      },
+      "artists": [
+        {
+          "name": "Brandon Nembhard",
+          "url": "https://open.spotify.com/artist/3iz36sr0k9vScDNDRPZtLS"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153043,
+      "name": "Hand on Chest",
+      "url": "https://open.spotify.com/track/1pkmICGyr4tAx6b6R8XChw"
+    },
+    {
+      "album": {
         "name": "Here, There & Everywhere",
         "url": "https://open.spotify.com/album/0PAmoJ4Qrc1zEkdssPvxEw"
       },
@@ -5630,7 +5684,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 162353,
       "name": "Heart On Fire",
       "url": "https://open.spotify.com/track/2cdoLBywWSteVmmWYzERWQ"
@@ -8914,6 +8968,24 @@
     {
       "album": {
         "name": "No More",
+        "url": "https://open.spotify.com/album/0TG1iHKIaeHA5pAJzwZptr"
+      },
+      "artists": [
+        {
+          "name": "Devmaccc",
+          "url": "https://open.spotify.com/artist/1DfQmW6ftleJPC8rUYhIEh"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192200,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/0yGbLny28yRcgr1S13lluW"
+    },
+    {
+      "album": {
+        "name": "No More",
         "url": "https://open.spotify.com/album/0ivFRiA5GHzoE7OiM3GNum"
       },
       "artists": [
@@ -9022,6 +9094,24 @@
       "duration_ms": 156000,
       "name": "Not Done",
       "url": "https://open.spotify.com/track/3CIbNHRrvqjgmWBCKe7bb8"
+    },
+    {
+      "album": {
+        "name": "Nothin' Bout Me",
+        "url": "https://open.spotify.com/album/1SwcWcDfjEHPA8Ye5PbIgI"
+      },
+      "artists": [
+        {
+          "name": "Tia Bank$",
+          "url": "https://open.spotify.com/artist/59rZoAv1GLoq9Iu8pcQbkU"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158648,
+      "name": "Nothin' Bout Me",
+      "url": "https://open.spotify.com/track/6YEieB26LDm0gxKZSnIgus"
     },
     {
       "album": {
@@ -9324,6 +9414,24 @@
       "duration_ms": 210415,
       "name": "Owee",
       "url": "https://open.spotify.com/track/0uWnVdGtYre58CfvsCCl5O"
+    },
+    {
+      "album": {
+        "name": "Dirty Harry",
+        "url": "https://open.spotify.com/album/3FjGs7LQyf5kq7JIKqWKxr"
+      },
+      "artists": [
+        {
+          "name": "El Cousteau",
+          "url": "https://open.spotify.com/artist/6jas9NK79dEF6hU1LvmfHB"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105750,
+      "name": "Oysters n' sparklin' water",
+      "url": "https://open.spotify.com/track/4oNy9UwKYH13qf1Ze4q2oy"
     },
     {
       "album": {
@@ -10319,6 +10427,24 @@
     },
     {
       "album": {
+        "name": "ALLGASNOBRAKEZ!",
+        "url": "https://open.spotify.com/album/1L5443W7z7PRMLuhgdjy1t"
+      },
+      "artists": [
+        {
+          "name": "Trent the HOOLiGAN",
+          "url": "https://open.spotify.com/artist/2LqdHOzQiJd0WRn0dcTDe9"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138039,
+      "name": "RedRover!",
+      "url": "https://open.spotify.com/track/5UibifuTrbIS6ctRM9GDyT"
+    },
+    {
+      "album": {
         "name": "REROUT3",
         "url": "https://open.spotify.com/album/2z6etTrMyXgEGsCM9wngxc"
       },
@@ -10410,6 +10536,32 @@
       "duration_ms": 126126,
       "name": "Ride With Me",
       "url": "https://open.spotify.com/track/6gBQo2sLIAq6f4rF3UDIGz"
+    },
+    {
+      "album": {
+        "name": "Tales From the Trenches",
+        "url": "https://open.spotify.com/album/4JmLCYsKl5f07duetar98p"
+      },
+      "artists": [
+        {
+          "name": "Jamal Gasol",
+          "url": "https://open.spotify.com/artist/0WLmar77zWWvtWS58xp88h"
+        },
+        {
+          "name": "VH$",
+          "url": "https://open.spotify.com/artist/0t8LeJmWFPn8uatq1zBt6A"
+        },
+        {
+          "name": "Heem B$F",
+          "url": "https://open.spotify.com/artist/6VG5Dwz8DbqnwWAyaJTc2D"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194594,
+      "name": "Rider Music (feat. Heem)",
+      "url": "https://open.spotify.com/track/07L7nzOV9NkafP5E4WmwQy"
     },
     {
       "album": {
@@ -12116,7 +12268,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 149446,
       "name": "THE BOOK OF ENOCH",
       "url": "https://open.spotify.com/track/038prP9D2SiSkE3RiDmkwa"
@@ -12254,6 +12406,24 @@
       "duration_ms": 128590,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/2BbGj7yCa7qks7coH0YhCY"
+    },
+    {
+      "album": {
+        "name": "This Is New York",
+        "url": "https://open.spotify.com/album/1gsyQrEUfYBX6MV36wmoQM"
+      },
+      "artists": [
+        {
+          "name": "Scar Lip",
+          "url": "https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133170,
+      "name": "This Is New York",
+      "url": "https://open.spotify.com/track/0LH1V0ZodNOfM7jnqyO9S5"
     },
     {
       "album": {
@@ -13674,7 +13844,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 212091,
       "name": "With The Stars",
       "url": "https://open.spotify.com/track/7F1QaXBNyWBJSdDGFUbUmf"

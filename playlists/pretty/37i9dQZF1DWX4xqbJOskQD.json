@@ -1,12 +1,12 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 1561,
+  "num_followers": 1563,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NTc0OSwwMDAwMDAwMDY2YzU3NGJmNzdlMjBlODQ3ZDBmYTczNmQxOTY3M2E2",
+  "snapshot_id": "MTY0ODQ5NTc0OSwwMDAwMDAwMGVmZjZhMTcxMzRjN2U5ZTljMzRjZTdlMzdjMDcxMTI0",
   "tracks": [
     {
       "added_at": "2020-08-17 22:49:59",
@@ -479,6 +479,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "The Bachelors - The Decca Years",
+        "url": "https://open.spotify.com/album/6fPWamZmTK0d03dzR0S2ab"
+      },
+      "artists": [
+        {
+          "name": "The Bachelors",
+          "url": "https://open.spotify.com/artist/0qDtyCZRYrja9CoeHXV6FD"
+        }
+      ],
+      "duration_ms": 139840,
+      "name": "Marie",
+      "url": "https://open.spotify.com/track/6MGqxb12oR5TC6lIwQsANT"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "That's How Rhythm Was Born",
         "url": "https://open.spotify.com/album/3yQZ3s8FaMVOxp9KNhD6cj"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 201400,
       "name": "The Object Of My Affection (with Jimmie Grier) - 78 rpm Version",
       "url": "https://open.spotify.com/track/49Xc60AAQc6NIFAa1DikVo"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Bachelors - The Decca Years",
-        "url": "https://open.spotify.com/album/6fPWamZmTK0d03dzR0S2ab"
-      },
-      "artists": [
-        {
-          "name": "The Bachelors",
-          "url": "https://open.spotify.com/artist/0qDtyCZRYrja9CoeHXV6FD"
-        }
-      ],
-      "duration_ms": 139840,
-      "name": "Marie",
-      "url": "https://open.spotify.com/track/6MGqxb12oR5TC6lIwQsANT"
     },
     {
       "added_at": "2020-08-17 22:49:59",

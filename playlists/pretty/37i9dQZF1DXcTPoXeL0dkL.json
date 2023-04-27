@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 174740,
+  "num_followers": 174814,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTczMzUxNiwwMDAwMDAwMGYyM2M2NTI5YTY4NzY0ZjFiMGE3ZGRiNzYyODMwMTc5",
+  "snapshot_id": "MTY3NTczMzUxNiwwMDAwMDAwMDY2YzAxMWZmODY5YjVhNDFkNmEwOTQ5YTdlMDc4MmZl",
   "tracks": [
     {
       "added_at": "2023-02-07 01:31:56",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
+        "name": "Alto Voltaje",
+        "url": "https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX"
+      },
+      "artists": [
+        {
+          "name": "Daniel Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "Infiel",
+      "url": "https://open.spotify.com/track/1PTQMGoaQ2ZnWi3WBzFpwp"
+    },
+    {
+      "added_at": "2023-02-07 01:31:56",
+      "album": {
         "name": "S\u00f3lo Clasicos",
         "url": "https://open.spotify.com/album/5x7mrRtR1jPqBH6N2BuXou"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 280163,
       "name": "Preg\u00fantele a Su Hija",
       "url": "https://open.spotify.com/track/4tU8cB6Sjtj7vJfD06KoZn"
-    },
-    {
-      "added_at": "2023-02-07 01:31:56",
-      "album": {
-        "name": "Alto Voltaje",
-        "url": "https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX"
-      },
-      "artists": [
-        {
-          "name": "Daniel Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "Infiel",
-      "url": "https://open.spotify.com/track/1PTQMGoaQ2ZnWi3WBzFpwp"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "El Pueblo Quiere Al Cantante",
-        "url": "https://open.spotify.com/album/4YvcLEJNTyauk5WxurtREl"
+        "name": "Vallenato Fest",
+        "url": "https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06"
       },
       "artists": [
         {
-          "name": "Miguel Morales",
-          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
+          "name": "Grupo Vallenato",
+          "url": "https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE"
         }
       ],
-      "duration_ms": 259413,
-      "name": "Acompa\u00f1ame",
-      "url": "https://open.spotify.com/track/6a81IkZg2kejyjgIZUZKT0"
+      "duration_ms": 316279,
+      "name": "Dime Que Me Quieres",
+      "url": "https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Vallenato Fest",
-        "url": "https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06"
+        "name": "El Pueblo Quiere Al Cantante",
+        "url": "https://open.spotify.com/album/4YvcLEJNTyauk5WxurtREl"
       },
       "artists": [
         {
-          "name": "Grupo Vallenato",
-          "url": "https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE"
+          "name": "Miguel Morales",
+          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
         }
       ],
-      "duration_ms": 316279,
-      "name": "Dime Que Me Quieres",
-      "url": "https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw"
+      "duration_ms": 259413,
+      "name": "Acompa\u00f1ame",
+      "url": "https://open.spotify.com/track/6a81IkZg2kejyjgIZUZKT0"
     },
     {
       "added_at": "2023-02-07 01:31:56",

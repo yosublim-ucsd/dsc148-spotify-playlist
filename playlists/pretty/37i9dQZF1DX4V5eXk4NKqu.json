@@ -1,12 +1,12 @@
 {
   "description": "The best Latin Indie tracks right now, featuring YADAM.",
-  "num_followers": 149312,
+  "num_followers": 149315,
   "original_name": "Ultimate Latin Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0MjkyNiwwMDAwMDAwMGU4MmNkMDM4NmU5ZWIxM2I3ODEzYzFiYTgyYWJiZGI0",
+  "snapshot_id": "MTY4MjA0MjkyNiwwMDAwMDAwMDM1ZDU2ZmYxNzM5MWI2NDczZjY2NDNiNGMzMjgxYmFl",
   "tracks": [
     {
       "added_at": "2023-04-21 02:08:46",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-04-21 02:08:46",
       "album": {
-        "name": "ya no somos los mismos",
-        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 201887,
-      "name": "vuelve",
-      "url": "https://open.spotify.com/track/5vbUaeom27lTaAIhDin5DU"
-    },
-    {
-      "added_at": "2023-04-21 02:08:46",
-      "album": {
         "name": "Fake News + Alba",
         "url": "https://open.spotify.com/album/60uot0fUnoMNytJoNw9ToC"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 247080,
       "name": "Fake News",
       "url": "https://open.spotify.com/track/6mzfxrGB40oY442Pc5SW6t"
+    },
+    {
+      "added_at": "2023-04-21 02:08:46",
+      "album": {
+        "name": "ya no somos los mismos",
+        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 201887,
+      "name": "vuelve",
+      "url": "https://open.spotify.com/track/5vbUaeom27lTaAIhDin5DU"
     },
     {
       "added_at": "2023-04-21 02:08:46",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-04-21 02:08:46",
       "album": {
-        "name": "costas de coral",
-        "url": "https://open.spotify.com/album/3hQmxck36h07jfn8UEQLps"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 188841,
-      "name": "costas de coral",
-      "url": "https://open.spotify.com/track/258tAJYRrYUtcEgfHXNRAt"
-    },
-    {
-      "added_at": "2023-04-21 02:08:46",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 204963,
       "name": "Inevitable",
       "url": "https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK"
+    },
+    {
+      "added_at": "2023-04-21 02:08:46",
+      "album": {
+        "name": "costas de coral",
+        "url": "https://open.spotify.com/album/3hQmxck36h07jfn8UEQLps"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 188841,
+      "name": "costas de coral",
+      "url": "https://open.spotify.com/track/258tAJYRrYUtcEgfHXNRAt"
     },
     {
       "added_at": "2023-04-21 02:08:46",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-04-21 02:08:46",
       "album": {
-        "name": "Uh",
-        "url": "https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 211562,
-      "name": "Uh",
-      "url": "https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D"
-    },
-    {
-      "added_at": "2023-04-21 02:08:46",
-      "album": {
         "name": "LA RUTA NATURAL",
         "url": "https://open.spotify.com/album/3JgA2PPl6TmIWEC4C3f1sF"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 197179,
       "name": "LA RUTA NATURAL",
       "url": "https://open.spotify.com/track/1BAc6iqnXXilFBKDaxXpSY"
+    },
+    {
+      "added_at": "2023-04-21 02:08:46",
+      "album": {
+        "name": "Uh",
+        "url": "https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 211562,
+      "name": "Uh",
+      "url": "https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D"
     },
     {
       "added_at": "2023-04-21 02:08:46",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-04-21 02:08:46",
       "album": {
-        "name": "Funeral",
-        "url": "https://open.spotify.com/album/6Foa8yfowcB9oqqD4NcjHA"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 194131,
-      "name": "Funeral",
-      "url": "https://open.spotify.com/track/2Z4syCA63OcBLOKcKUEdeY"
-    },
-    {
-      "added_at": "2023-04-21 02:08:46",
-      "album": {
         "name": "Tm\u00ed",
         "url": "https://open.spotify.com/album/6BFTCcyxGLFBHocDnivQnY"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 156862,
       "name": "Better With You",
       "url": "https://open.spotify.com/track/4mW0oRgTmwPGFmpuwbvLud"
+    },
+    {
+      "added_at": "2023-04-21 02:08:46",
+      "album": {
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/6Foa8yfowcB9oqqD4NcjHA"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 194131,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/2Z4syCA63OcBLOKcKUEdeY"
     },
     {
       "added_at": "2023-04-21 02:08:46",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 
 > The essential recordings from the beginning of the Post Bop era\. Cover: Freddie Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,577 likes - 100 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,596 likes - 100 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 58 | [Mr\. Jin \- Remastered](https://open.spotify.com/track/4LH1EhRiBEDeb7TtMpNKAJ) | [Art Blakey](https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t) | [Indestructible](https://open.spotify.com/album/4qMDshn0sMrt3bf7C0mmCx) | 7:04 |
 | 59 | [Head Start \- Rudy Van Gelder Edition / 2006 Digital Remaster](https://open.spotify.com/track/0knaLLhdMU69U4byKTIeim) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Happenings](https://open.spotify.com/album/4TbWPn2fJUrQc924iTylFi) | 5:14 |
 | 60 | [Vertigo \- Remastered](https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Vertigo](https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a) | 8:17 |
-| 61 | [Speedball](https://open.spotify.com/track/44MyZZa2SPW0BO9XcmlU9F) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Best Of Lee Morgan](https://open.spotify.com/album/3ckt1jRTh6Q08fUvEePI7B) | 5:32 |
-| 62 | [Three\-Four vs\. Six\-Eight Four\-Four Ways](https://open.spotify.com/track/0GAVJcVNjYUlQnZ6NWhAxL) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali](https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX) | 5:40 |
+| 61 | [Three\-Four vs\. Six\-Eight Four\-Four Ways](https://open.spotify.com/track/0GAVJcVNjYUlQnZ6NWhAxL) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali](https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX) | 5:40 |
+| 62 | [Speedball](https://open.spotify.com/track/44MyZZa2SPW0BO9XcmlU9F) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Best Of Lee Morgan](https://open.spotify.com/album/3ckt1jRTh6Q08fUvEePI7B) | 5:32 |
 | 63 | [Siete Ocho \- Remastered 2003 / Rudy Van Gelder Edition](https://open.spotify.com/track/7iygfmRhXBi2ggTG1WTnvY) | [Andrew Hill](https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy) | [Judgment \(Remastered 2003 / Rudy Van Gelder Edition\)](https://open.spotify.com/album/1UTKa9k864z70CFgpoJy1f) | 8:58 |
 | 64 | [The Fox \- Remastered 2014](https://open.spotify.com/track/6kEZ6Xa87zYFDCRX69mxK5) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Trompeta Toccata \(Remastered 2014\)](https://open.spotify.com/album/0MbOmmvDUHC8Y1FBtG3HDl) | 8:00 |
 | 65 | [Love Song \- Remastered 2009/Rudy Van Gelder Edition](https://open.spotify.com/track/03nB9wT5HW9OLgH40zqnKi) | [Anthony Williams](https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6) | [Spring \(Remastered\)](https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10) | 8:24 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 74 | [Herzog](https://open.spotify.com/track/00ccfrP2pK0CHhaSeGZXHy) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Total Eclipse](https://open.spotify.com/album/22CAQduBWiDnEMAF05wWlM) | 6:36 |
 | 75 | [Off My Back Jack](https://open.spotify.com/track/3AtuHU0gxC9210nu0wK3tU) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali](https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX) | 5:13 |
 | 76 | [Sao Paulo \- Remastered 2014](https://open.spotify.com/track/1USV1eumNSdlqPCSOkOUg4) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Una Mas \(Remastered 2014\)](https://open.spotify.com/album/5CWHeD4i4D8ytWcttJ2SpZ) | 7:17 |
-| 77 | [Thumb Under](https://open.spotify.com/track/02lmMdDTxH58UIwpQ60PK8) | [Lee Konitz Quintet](https://open.spotify.com/artist/58qZcMEA6JYKQ1QHtBUkz2) | [Peacemeal](https://open.spotify.com/album/7dvmPixFQk7VT64HfSfIuh) | 3:14 |
-| 78 | [East of the Sun \- Live@Monterey](https://open.spotify.com/track/0oanzoMD8tt7YMkgaAd6Gj) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Forest Flower: Charles Lloyd At Monterey](https://open.spotify.com/album/6lIWfnUerZuu9UcUDnF2JD) | 10:44 |
+| 77 | [East of the Sun \- Live@Monterey](https://open.spotify.com/track/0oanzoMD8tt7YMkgaAd6Gj) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Forest Flower: Charles Lloyd At Monterey](https://open.spotify.com/album/6lIWfnUerZuu9UcUDnF2JD) | 10:44 |
+| 78 | [Thumb Under](https://open.spotify.com/track/02lmMdDTxH58UIwpQ60PK8) | [Lee Konitz Quintet](https://open.spotify.com/artist/58qZcMEA6JYKQ1QHtBUkz2) | [Peacemeal](https://open.spotify.com/album/7dvmPixFQk7VT64HfSfIuh) | 3:14 |
 | 79 | [Idle While \- Remastered 2002/Rudy Van Gelder Edition](https://open.spotify.com/track/2SmyY2bDv75ogpDUqXEvL8) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Dialogue](https://open.spotify.com/album/5142jRc6IrvsI7F6V7tUy2) | 6:37 |
 | 80 | [Right Now](https://open.spotify.com/track/4PVeDBramTVleRgBV9TkRi) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Right Now](https://open.spotify.com/album/18bi2UuLLBj78oai30goPA) | 9:29 |
 | 81 | [Easterly Winds \- Remastered](https://open.spotify.com/track/1XZrDnwGRDzElcXigwhUSb) | [Jack Wilson](https://open.spotify.com/artist/1MJpO71ShS9nmFAbT6KM2n) | [Easterly Winds \(Remastered\)](https://open.spotify.com/album/1Xist2IJU302l9yVzyVoYz) | 5:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 99 | [Breaking Point \- Remastered 2004](https://open.spotify.com/track/45wnqKMg6CEL48lWMqCvQt) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Breaking Point](https://open.spotify.com/album/0FeZbhuzIoD7E5ru2eDpIH) | 10:19 |
 | 100 | [Melonae's Dance \- Remastered](https://open.spotify.com/track/6E9PgCW9kMhkIZuuCXcc5K) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Jackie's Bag](https://open.spotify.com/album/38DK5YkAlvSqJ7BAEQPm7P) | 6:46 |
 
-Snapshot ID: `MTY4MTk5MDA4NywwMDAwMDAwMDQ1MDRiMmU2ODQ3ZTAzNjkzYTMzNjA1NTczNDgyNjcx`
+Snapshot ID: `MTY4MjUxMzgyNiwwMDAwMDAwMDRiYzVjNGEwMThlN2UzZTQ4OWJjNWM5Mjc1OWE2ZWJj`

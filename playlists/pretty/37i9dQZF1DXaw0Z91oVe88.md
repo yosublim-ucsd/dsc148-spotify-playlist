@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 
 > 우산을 던지고 빗 속으로 뛰어들고 싶은 날에 들으세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,454 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,455 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 | 32 | [RAINING](https://open.spotify.com/track/7t3pwGJjc4FNbgRzbVLWlJ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [EVERYD4Y](https://open.spotify.com/album/0PT0APCmw2DVgX4JJYtrzU) | 3:41 |
 | 33 | [Love Me](https://open.spotify.com/track/5DFMm7GU1BWf5zokCD9qSi) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA) | 3:10 |
 | 34 | [흐르는 시간 속에 우리는 아름다워 What A Beautiful Night](https://open.spotify.com/track/3zDJ728eY8S3PGNFpNZX71) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [Cobalt Blue](https://open.spotify.com/album/7LNZEGjzSYIwdyYIim6M3x) | 3:21 |
-| 35 | [Repeat \(Original Soundtrack from the Webtoon "The returned duke"\) \[prod\. PATEKO\]](https://open.spotify.com/track/7kfXPBhBOHNu5AHjFS0Iug) | [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Repeat \(Original Soundtrack from the Webtoon "The returned duke"\) \[prod\. PATEKO\]](https://open.spotify.com/album/6WHcLvLRbZoSJuGFOzzHnq) | 2:41 |
+| 35 | [I Will Remember You](https://open.spotify.com/track/40I9cCZCKcPtyU5MoziIHk) | [Hwang Inhyeock](https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To) | [Summer Strike, Pt\. 11 \(Original Soundtrack\)](https://open.spotify.com/album/4c2io6xcGCFbYWStLbQlKS) | 4:14 |
 | 36 | [Disconnected](https://open.spotify.com/track/7FoSoIvql4oXc8I60L8Fqi) | [HIGHLIGHT](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [The Blowing](https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC) | 3:10 |
-| 37 | [I Will Remember You](https://open.spotify.com/track/40I9cCZCKcPtyU5MoziIHk) | [Hwang Inhyeock](https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To) | [Summer Strike, Pt\. 11 \(Original Soundtrack\)](https://open.spotify.com/album/4c2io6xcGCFbYWStLbQlKS) | 4:14 |
+| 37 | [Repeat \(Original Soundtrack from the Webtoon "The returned duke"\) \[prod\. PATEKO\]](https://open.spotify.com/track/7kfXPBhBOHNu5AHjFS0Iug) | [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Repeat \(Original Soundtrack from the Webtoon "The returned duke"\) \[prod\. PATEKO\]](https://open.spotify.com/album/6WHcLvLRbZoSJuGFOzzHnq) | 2:41 |
 | 38 | [365](https://open.spotify.com/track/02hojXLuubRkvxm6jcD0No) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 4:14 |
 | 39 | [About Time](https://open.spotify.com/track/2jCReozD8Vuwfl8QwY1Au9) | [Hoppipolla](https://open.spotify.com/artist/1S80vOcrnT9UD9zgLeyfx2) | [Spring to Spring](https://open.spotify.com/album/2eWnAFsvpRhlP3j1nCFzCR) | 5:28 |
 | 40 | [Cold World](https://open.spotify.com/track/4N2qh0ovGWJOSPqCB2007q) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS) | [Cold World](https://open.spotify.com/album/1LV9rvmb5ibcrCKLcv6Pv2) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 | 49 | [Go Your Way](https://open.spotify.com/track/5CKEQUucs3M5To1LqfC8Qq) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 1:56 |
 | 50 | [폭우 Downpour](https://open.spotify.com/track/6id7v3U3p9TYA7KwCZyvAZ) | [JEONAIN](https://open.spotify.com/artist/1dvhwpnbP8XvRpgu9amuNm) | [폭우 Downpour](https://open.spotify.com/album/4SIYlL5PAg5Q497mt5DaEG) | 2:56 |
 
-Snapshot ID: `MTY3OTkwNTY5MCwwMDAwMDAwMGM1MGYwODJmYmU4ZmYxMGRhOTcyODQ1YTdjOTcxNTAw`
+Snapshot ID: `MTY3OTkwNTY5MCwwMDAwMDAwMDhiZmE1ZWMzZGUwODY5ODdiZjczZDgwMzQ1ZTQ5YWE0`

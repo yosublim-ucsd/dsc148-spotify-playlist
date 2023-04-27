@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-208 songs - 12 hr 30 min
+209 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [I Can't Make You Love Me](https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 5:32 | 2023-04-13 | 2023-04-26 |
 | [I Don't Care \- Acoustic](https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [I Don't Care \(Acoustic\)](https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X) | 3:58 | 2022-10-20 | 2023-04-23 |
 | [i get high](https://open.spotify.com/track/00P85t1fMCdWweMrVvAsU3) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [i get high](https://open.spotify.com/album/6Gz2a2ybIh06fzk2pNU7Fe) | 2:04 | 2022-10-20 | 2022-12-14 |
+| [i heart the internet](https://open.spotify.com/track/5NzIkBzG0MFVjpzSsgUhY0) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [i heart the internet](https://open.spotify.com/album/3Bg7PLOLItNpz7OajqkVDk) | 3:15 | 2023-04-25 |  |
 | [I like me better](https://open.spotify.com/track/0OT1xJ6XUE7EJQVpJPNu5p) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [I like me better](https://open.spotify.com/album/1S3x2EX5lMe4Z8mC7m01oz) | 3:12 | 2022-10-20 | 2022-12-14 |
 | [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 | 2022-11-24 | 2023-04-14 |
 | [I Love You So \- Acoustic](https://open.spotify.com/track/5cjagrNaegv6IQZKflkPTf) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So \(Acoustic\)](https://open.spotify.com/album/5WU3xyxDUz9pSjBg8h6cYU) | 2:27 | 2022-10-20 |  |
@@ -147,7 +148,7 @@
 | [Shallow](https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:35 | 2022-10-20 |  |
 | [Shape Of You](https://open.spotify.com/track/7yA1U2uCoSDmbifza49l1O) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT COVER](https://open.spotify.com/album/1AHbVBPlzsI0k18agZQ6zr) | 2:25 | 2022-10-20 | 2023-01-13 |
 | [She Will Be Loved \- Acoustic](https://open.spotify.com/track/2sLS4tVaEoMYrNS67PVz0V) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [1.22.03 Acoustic](https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu) | 4:36 | 2022-10-20 |  |
-| [Shrike](https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:58 | 2023-04-13 |  |
+| [Shrike](https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:58 | 2023-04-13 | 2023-04-27 |
 | [Sing It With Me \- Acoustic](https://open.spotify.com/track/5VoAmDgLauPPfUNcVasc6G) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Sing It With Me \(Acoustics\)](https://open.spotify.com/album/1XK0ARZ0qqFBLfH1IoA050) | 3:41 | 2022-12-13 | 2023-02-10 |
 | [Smiling All The Way Back Home](https://open.spotify.com/track/3jeYMY8wyibEfP8gsQ3TAS) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Smiling All The Way Back Home](https://open.spotify.com/album/4MhanVyOKDTIQs8ZhQqNe8) | 3:02 | 2022-10-20 | 2022-11-23 |
 | [Someday Some Morning](https://open.spotify.com/track/6UZJoEOgjx4aCGD6Oa5R6a) | [heybrowne](https://open.spotify.com/artist/7cgeB3Ko3DkBo2daWSHjVp) | [Someday Some Morning](https://open.spotify.com/album/4b948U1I6tj5UiIldls5Hg) | 3:43 | 2023-01-17 | 2023-02-10 |
@@ -185,7 +186,7 @@
 | [Valentine's Day](https://open.spotify.com/track/5EANCDPSkMlnHBU4Eu0Zb7) | [gb](https://open.spotify.com/artist/7Ll3Cj9QGaAJ42YdRcFKG6) | [Valentine's Day](https://open.spotify.com/album/7qt6DCMXltOD6WoCQHAObN) | 2:26 | 2023-02-09 | 2023-02-22 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2022-10-20 |  |
 | [walk my life](https://open.spotify.com/track/1uWghGURCsFNleZaOtJwxU) | [倉品翔](https://open.spotify.com/artist/2Aa3LycVvMqqNSBzmTrPOl) | [satellite flying alone](https://open.spotify.com/album/0P58MPy2TkOPZapZ8Z1wMF) | 3:54 | 2023-02-23 | 2023-03-01 |
-| [Wasteland, Baby!](https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:26 | 2022-12-13 | 2023-04-22 |
+| [Wasteland, Baby!](https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:26 | 2022-12-13 |  |
 | [We Are Never Ever Getting Back Together](https://open.spotify.com/track/0VwNdo84DaVYLIkbVO86ND) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Big Machine Radio Release Special\)](https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D) | 3:13 | 2022-12-14 |  |
 | [We Can't Stop](https://open.spotify.com/track/6owKuyHxUqidcAA6fPKSyy) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Cover Sessions, Vol\. 3](https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4) | 3:42 | 2023-04-13 | 2023-04-22 |
 | [WHAT I HAVE](https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [WHAT I HAVE](https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC) | 2:58 | 2022-10-20 | 2022-12-14 |

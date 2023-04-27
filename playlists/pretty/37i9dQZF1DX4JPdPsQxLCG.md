@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Classic tunes to soundtrack your weekend\. Cover: The Tragically Hip
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,776 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,773 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 64 | [Just Between You And Me](https://open.spotify.com/track/5fsU7AtSTp0zySUf46hwbt) | [April Wine](https://open.spotify.com/artist/1JHzh1ETQTMoFb2CgncnTL) | [Nature Of The Beast](https://open.spotify.com/album/2jdTTnlMRfq0cWhz16FMD6) | 3:55 |
 | 65 | [Knocking At The Door](https://open.spotify.com/track/01afuV689RNz1MKDhGuwWG) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Morning Report \(Deluxe\)](https://open.spotify.com/album/2qzcSOkX6xYvlC2RPAqboQ) | 3:42 |
 | 66 | [R.E.D.](https://open.spotify.com/track/0E2ydjbrsOYbWFZzexOyYd) | [The Halluci Nation](https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z), [Yasiin Bey](https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH), [Narcy](https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg), [Black Bear](https://open.spotify.com/artist/0yA6zmKmNXjUPSZyfDZji7) | [We Are the Halluci Nation](https://open.spotify.com/album/2iQBWB6FgiNl1mrzNX7ei4) | 3:29 |
-| 67 | [Raise A Little Hell](https://open.spotify.com/track/1yNz3A4ubmE5IEvpNFkjdc) | [Trooper](https://open.spotify.com/artist/2bT4eELLlSuDTtZWV2Z3jN) | [Thick As Thieves](https://open.spotify.com/album/4LyTOb4shQjOLSwE0zUpk0) | 3:42 |
-| 68 | [Feeling Good](https://open.spotify.com/track/1BWNpziDWyAMfGdKC2ydS6) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [The Sheepdogs \(Deluxe\)](https://open.spotify.com/album/6HIGCaguAPnwApqjRmYBUw) | 3:10 |
+| 67 | [Feeling Good](https://open.spotify.com/track/1BWNpziDWyAMfGdKC2ydS6) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [The Sheepdogs \(Deluxe\)](https://open.spotify.com/album/6HIGCaguAPnwApqjRmYBUw) | 3:10 |
+| 68 | [Raise A Little Hell](https://open.spotify.com/track/1yNz3A4ubmE5IEvpNFkjdc) | [Trooper](https://open.spotify.com/artist/2bT4eELLlSuDTtZWV2Z3jN) | [Thick As Thieves](https://open.spotify.com/album/4LyTOb4shQjOLSwE0zUpk0) | 3:42 |
 | 69 | [Hello, I'm In Delaware](https://open.spotify.com/track/1PUh1GENlvlgu0dW28I6tY) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Sometimes](https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn) | 5:45 |
 | 70 | [Share the Land](https://open.spotify.com/track/51krF0CyHT5AEuh81K0t0z) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [Share The Land](https://open.spotify.com/album/3zlRX163Z3F9H0MWPmtiBV) | 3:55 |
 | 71 | [Sweet Mountain River](https://open.spotify.com/track/2g2st70xvu7DYGlfVircnf) | [Monster Truck](https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu) | [Furiosity](https://open.spotify.com/album/671q4kHo2y178Q6VvDd6ER) | 3:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 74 | [She Ain't Pretty](https://open.spotify.com/track/3lQl6N5vnASpox2hdHpH2w) | [The Northern Pikes](https://open.spotify.com/artist/2BLAzgwe8OzvLOPTZDBCtw) | [Snow In June](https://open.spotify.com/album/51UDRztqnNOkq3WLIDKGAa) | 2:43 |
 | 75 | [Sleeping Sickness](https://open.spotify.com/track/5y2H3YMH4BcIVMYaqr7NPB) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Bring Me Your Love](https://open.spotify.com/album/2GQBFqddL3YTmdNmt8Su0r) | 4:08 |
 
-Snapshot ID: `MTY2MzEwNjE0NCwwMDAwMDAwMDZiZGZiOTcwZWVmMWQ0ZTlkNDJmZGY0NjliNzk0OGY3`
+Snapshot ID: `MTY2MzEwNjE0NCwwMDAwMDAwMGMwNjRlZWE5NWEzNjhiMmZiN2Y3YzRiNjFjNGI2M2Rk`

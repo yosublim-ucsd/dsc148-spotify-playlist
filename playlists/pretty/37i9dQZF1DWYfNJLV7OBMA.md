@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- DILU Beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,106 likes - 65 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,121 likes - 65 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 44 | [Prathihari](https://open.spotify.com/track/0p4R29GP0b3qj955AXqJsS) | [Supun Perera](https://open.spotify.com/artist/2bnE4eD3MMcteNaIhd9TqN) | [Prathihari](https://open.spotify.com/album/10e9nMnlID8P2XOY7PY0yk) | 4:05 |
 | 45 | [Hanthaney](https://open.spotify.com/track/70JBYyMJ6PI2UDgPOH1OLU) | [Dhyan Hewage](https://open.spotify.com/artist/3ES7kGNf8O344XSDG3kW8G) | [Hanthaney](https://open.spotify.com/album/2V1UlRbJ07HHWThvsmFzYM) | 3:40 |
 | 46 | [Sanda Wage Pena](https://open.spotify.com/track/0KhbsQkUeVErDzElMRdZMG) | [Hana Shafa](https://open.spotify.com/artist/7occ8YAUAF3XJbC3uCq1iL), [Dilo](https://open.spotify.com/artist/7lrGPpmDUbhyg2DE8dD8cJ) | [Sanda Wage Pena](https://open.spotify.com/album/4xFYfMgcHq4ZRzjw7fey1w) | 3:00 |
-| 47 | [Marunu Hithe](https://open.spotify.com/track/4sSbYsyoxJhyWMq2j99gvQ) | [Anushka Udana](https://open.spotify.com/artist/0zJOY7KeiOgOIGQ150u7hz) | [Marunu Hithe](https://open.spotify.com/album/49gOFKcgnYeYjZwcYZOQ7D) | 3:08 |
+| 47 | [Marunu Hithe](https://open.spotify.com/track/6dH8lGP2nESxdM1gih7fHb) | [Anushka Udana](https://open.spotify.com/artist/0zJOY7KeiOgOIGQ150u7hz) | [Marunu Hithe](https://open.spotify.com/album/6AEPBrvsP17lzplo3Un2Qa) | 3:08 |
 | 48 | [Kuweni](https://open.spotify.com/track/6V9CHG6y1FmHiLv3REsCy8) | [Ridma Weerawardena](https://open.spotify.com/artist/03lEcjt6I9zmO8g0tJi4zT), [Charitha Attalage](https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP) | [Ridma Weerawardena](https://open.spotify.com/album/4D1eJLNw9dTUcB1pYDK3mt) | 3:50 |
 | 49 | [Me Hitha Na Palu](https://open.spotify.com/track/1r5X6i6U11nStErNNd0opg) | [Dhyan Hewage](https://open.spotify.com/artist/3ES7kGNf8O344XSDG3kW8G), [Yuki Navaratne](https://open.spotify.com/artist/00ZpGGB5F7Ytw781Qsr1sR) | [Me Hitha Na Palu](https://open.spotify.com/album/18pO3n4X5utq5x0O0wl06l) | 3:08 |
 | 50 | [Hade Upan Lande](https://open.spotify.com/track/38cgta810Jq6DQbPK1q0nU) | [Dinusha Chathuranga](https://open.spotify.com/artist/4S9CK2n2WypliMLphh4GYB), [Skay Jay](https://open.spotify.com/artist/11X1A3y1BjzxrsATn8OYod) | [Hade Upan Lande](https://open.spotify.com/album/3vcRlZNbQZRq9IhyiD0lDf) | 3:02 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 64 | [Pawela Kodu Akase](https://open.spotify.com/track/3IfseEvp5VAI6Bcc0NZWGe) | [Thilina Ruhunage](https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn), [Samitha Mudunkotuwa](https://open.spotify.com/artist/4JZtZyM8iEjVLR56DgrI4c) | [Pawela Kodu Akase](https://open.spotify.com/album/5yM7fEWom6JO1g780noZ3d) | 3:57 |
 | 65 | [Heena Maka](https://open.spotify.com/track/1dC7Q5yBpQ063UrIWpAB3N) | [Harshadewa Ariyasinghe](https://open.spotify.com/artist/40v9sLBiwQOZdLwRhTUjQL), [Ravi Jay](https://open.spotify.com/artist/2OXLUIzYqgydsWcHh38LJ2), [Charitha Attalage](https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP) | [Heena Maka](https://open.spotify.com/album/6Et4v4uBSdKMFYkGtIYLkm) | 4:17 |
 
-Snapshot ID: `MTY3NzQ4NDM5OSwwMDAwMDAwMDZkOTNhYjA2ZmZiNTU2NjNhMGJhNWM1MGM5YWE3NTgw`
+Snapshot ID: `MTY3NzQ4NDM5OSwwMDAwMDAwMGQyZjQ3ZWE1YTc3OTJkYjM3N2RjZmJjN2U0M2ZjZmI1`

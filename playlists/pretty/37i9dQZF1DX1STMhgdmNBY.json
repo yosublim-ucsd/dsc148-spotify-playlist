@@ -1,12 +1,12 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 49402,
+  "num_followers": 49498,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQwMTc0MywwMDAwMDAwMGVkNTIzM2EyN2QxYjgwZTVjYTUwMWJiMDRmZDI4YzYw",
+  "snapshot_id": "MTY4MTQwMTc0MywwMDAwMDAwMDgyZTljODhhZGI2MDU4OTIyYmRjZTAyYWE4NjkwYjlk",
   "tracks": [
     {
       "added_at": "2023-03-03 18:12:19",
@@ -295,18 +295,18 @@
     {
       "added_at": "2023-03-03 18:12:19",
       "album": {
-        "name": "The Genius Sings the Blues",
-        "url": "https://open.spotify.com/album/6htjXDcCIWm6rC0HNlFc0a"
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 175773,
-      "name": "Hard Times (No One Knows Better Than I)",
-      "url": "https://open.spotify.com/track/4ADzk9oX44sCGJPE5OjNcW"
+      "duration_ms": 216093,
+      "name": "I Ain't Blue - 2008 Remaster",
+      "url": "https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL"
     },
     {
       "added_at": "2023-03-03 18:12:19",
@@ -327,18 +327,18 @@
     {
       "added_at": "2023-03-03 18:12:19",
       "album": {
-        "name": "Bonnie Raitt (2008 Remaster)",
-        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
+        "name": "The Genius Sings the Blues",
+        "url": "https://open.spotify.com/album/6htjXDcCIWm6rC0HNlFc0a"
       },
       "artists": [
         {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 216093,
-      "name": "I Ain't Blue - 2008 Remaster",
-      "url": "https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL"
+      "duration_ms": 175773,
+      "name": "Hard Times (No One Knows Better Than I)",
+      "url": "https://open.spotify.com/track/4ADzk9oX44sCGJPE5OjNcW"
     },
     {
       "added_at": "2023-03-03 18:12:19",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-03-03 18:12:19",
       "album": {
-        "name": "The Country Side Of Esther",
-        "url": "https://open.spotify.com/album/4MA3arxMVtS7SXoIKPvTzm"
-      },
-      "artists": [
-        {
-          "name": "Esther Phillips",
-          "url": "https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7"
-        }
-      ],
-      "duration_ms": 199226,
-      "name": "No Headstone on My Grave",
-      "url": "https://open.spotify.com/track/0qutFw4ww1oFyEfkVk0uMD"
-    },
-    {
-      "added_at": "2023-03-03 18:12:19",
-      "album": {
         "name": "The Natch'l Blues",
         "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 208733,
       "name": "She Caught the Katy and Left Me a Mule to Ride",
       "url": "https://open.spotify.com/track/2B8TnS5nJijlzuORGs3RKy"
+    },
+    {
+      "added_at": "2023-03-03 18:12:19",
+      "album": {
+        "name": "The Country Side Of Esther",
+        "url": "https://open.spotify.com/album/4MA3arxMVtS7SXoIKPvTzm"
+      },
+      "artists": [
+        {
+          "name": "Esther Phillips",
+          "url": "https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7"
+        }
+      ],
+      "duration_ms": 199226,
+      "name": "No Headstone on My Grave",
+      "url": "https://open.spotify.com/track/0qutFw4ww1oFyEfkVk0uMD"
     },
     {
       "added_at": "2023-03-03 18:12:19",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-03-03 18:12:19",
       "album": {
-        "name": "The Legendary Christine Perfect Album",
-        "url": "https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp"
-      },
-      "artists": [
-        {
-          "name": "Christine McVie",
-          "url": "https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2"
-        }
-      ],
-      "duration_ms": 191355,
-      "name": "I'm on My Way",
-      "url": "https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp"
-    },
-    {
-      "added_at": "2023-03-03 18:12:19",
-      "album": {
         "name": "Soul Queen",
         "url": "https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 198560,
       "name": "Dr. Feelgood (Love Is Serious Business)",
       "url": "https://open.spotify.com/track/7d38lTzElTueMVLNQ0nihe"
+    },
+    {
+      "added_at": "2023-03-03 18:12:19",
+      "album": {
+        "name": "The Legendary Christine Perfect Album",
+        "url": "https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp"
+      },
+      "artists": [
+        {
+          "name": "Christine McVie",
+          "url": "https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2"
+        }
+      ],
+      "duration_ms": 191355,
+      "name": "I'm on My Way",
+      "url": "https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp"
     },
     {
       "added_at": "2023-03-03 18:12:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 
 > Free\-spirited, atmospheric vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,709 likes - 162 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,672 likes - 162 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

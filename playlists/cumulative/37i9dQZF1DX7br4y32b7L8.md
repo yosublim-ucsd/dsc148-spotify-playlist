@@ -4,7 +4,7 @@
 
 > Viraal gaan is ook gaan! Cover: Heuss L'enfoiré & Jul
 
-125 songs - 6 hr 16 min
+126 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/3Kw7zkALCVxY4wmlnh2IWC) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 | 2023-03-27 | 2023-04-04 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-03-30 |  |
 | [Dancing in the sky](https://open.spotify.com/track/2JuWcnU7ifoIaIzQXNH6hk) | [ZITA](https://open.spotify.com/artist/05QNFSNYfQhYxUJUoFtEEk) | [Dancing in the sky](https://open.spotify.com/album/2L8ds3AKfmgpyrB8Z584PM) | 2:34 | 2023-02-23 | 2023-04-12 |
-| [Dankjewel](https://open.spotify.com/track/6qlsnYLcPkZFxv0t2Koko8) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Dankjewel](https://open.spotify.com/album/4et19MNXHj4zo9e9IGCJlW) | 2:40 | 2023-02-23 |  |
+| [Dankjewel](https://open.spotify.com/track/6qlsnYLcPkZFxv0t2Koko8) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Dankjewel](https://open.spotify.com/album/4et19MNXHj4zo9e9IGCJlW) | 2:40 | 2023-02-23 | 2023-04-27 |
 | [DNA](https://open.spotify.com/track/1CijnKFb3kqusDnNJrAJn1) | [Glen Fontein](https://open.spotify.com/artist/7oeQm1xiTWTKyq2DY42Hpq) | [DNA](https://open.spotify.com/album/4VFNlHIFWlwoknoAsJTyuu) | 2:34 | 2023-02-28 | 2023-04-19 |
 | [Drunk in Love \(Henny\)](https://open.spotify.com/track/14xuT74kDW0LIPMsr5g5zf) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Drunk in Love \(Henny\)](https://open.spotify.com/album/3AUvqkp5zza0MWlpv5OAwn) | 1:44 | 2023-03-16 |  |
 | [Dumb Ways to Die](https://open.spotify.com/track/180MVaidIYWpB1MSYEv5BI) | [Tangerine Kitty](https://open.spotify.com/artist/3pJh0RWw3DrGBnS70xcI2T) | [Dumb Ways to Die](https://open.spotify.com/album/4Bd3TKczuye0zb8w9i45R6) | 3:00 | 2023-03-06 | 2023-04-19 |
@@ -122,6 +122,7 @@
 | [Stemgeluid](https://open.spotify.com/track/1HFFfvXM13DA5hYt6SjhZj) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Stemgeluid](https://open.spotify.com/album/31q5PSjc9lvGbg6glT3dsk) | 2:55 | 2023-02-23 | 2023-04-21 |
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2023-02-23 | 2023-04-12 |
 | [Ta Ta Ta](https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 2:39 | 2023-02-23 | 2023-04-07 |
+| [The Cure & The Cause \- Radio Edit](https://open.spotify.com/track/2aYryJEl86lIZWCS6X1CUm) | [Fish Go Deep](https://open.spotify.com/artist/0fOlkKkWVb6gOtwUXL2i0y), [Tracey K](https://open.spotify.com/artist/2RG9WXLhvCaeGE3gFaAAZg) | [The Cure & The Cause \(Radio Edit\)](https://open.spotify.com/album/4O082xEh8tgidqkcNKrVEN) | 2:37 | 2023-04-26 |  |
 | [Therapie](https://open.spotify.com/track/323zcUSa2qrq0aUAwL30sT) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Therapie](https://open.spotify.com/album/7K56y28CXxhIvGI2MKcHIO) | 3:01 | 2023-02-23 | 2023-04-14 |
 | [This Is The Life](https://open.spotify.com/track/2T3jgoAMbBXiMMD8pSc6QL) | [Amy Macdonald](https://open.spotify.com/artist/1hJuGCUpefX24GFmss9bjH) | [This Is The Life \(eDeluxe\)](https://open.spotify.com/album/5DaToG3KvHnUgTPqY4cEbq) | 3:04 | 2023-03-30 |  |
 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 | 2023-04-13 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Giving motivation to your Monday. You got this!",
-  "num_followers": 652437,
+  "num_followers": 652421,
   "original_name": "Monday Motivation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODU0MzkwMSwwMDAwMDAwMDljNjA1YTdmODc3MjU4NGUzMjQyZWY5NTZhMWJiNzdi",
+  "snapshot_id": "MTU5ODU0MzkwMSwwMDAwMDAwMDkxYTBiZmJjZDI5YzliYTIzMTdkMWE5N2QyM2YxZDBl",
   "tracks": [
     {
       "added_at": "2020-08-27 15:58:21",
@@ -467,18 +467,18 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "Katrina & The Waves",
-        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
+        "name": "Oh, What A Life",
+        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
       },
       "artists": [
         {
-          "name": "Katrina & The Waves",
-          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
         }
       ],
-      "duration_ms": 238733,
-      "name": "Walking On Sunshine",
-      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
+      "duration_ms": 194240,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -503,18 +503,18 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "Oh, What A Life",
-        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
+        "name": "Katrina & The Waves",
+        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
       },
       "artists": [
         {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+          "name": "Katrina & The Waves",
+          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
         }
       ],
-      "duration_ms": 194240,
-      "name": "Best Day Of My Life",
-      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
+      "duration_ms": 238733,
+      "name": "Walking On Sunshine",
+      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -603,22 +603,6 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "Kala",
-        "url": "https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu"
-      },
-      "artists": [
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Paper Planes",
-      "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
-    },
-    {
-      "added_at": "2020-08-27 15:58:21",
-      "album": {
         "name": "Midnight Memories (Deluxe)",
         "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
+        "name": "Kala",
+        "url": "https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Paper Planes",
+      "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
+    },
+    {
+      "added_at": "2020-08-27 15:58:21",
+      "album": {
         "name": "Curtain Call: The Hits (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ"
       },
@@ -645,7 +645,7 @@
         }
       ],
       "duration_ms": 326466,
-      "name": "Lose Yourself - From \"8 Mile\" Soundtrack",
+      "name": "Lose Yourself",
       "url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
     },
     {
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 301866,
+      "name": "All These Things That I've Done",
+      "url": "https://open.spotify.com/track/5vollujufHY0jMZxx77VWr"
+    },
+    {
+      "added_at": "2020-08-27 15:58:21",
+      "album": {
         "name": "Rover (feat. DTG)",
         "url": "https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 167916,
       "name": "Rover (feat. DTG)",
       "url": "https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf"
-    },
-    {
-      "added_at": "2020-08-27 15:58:21",
-      "album": {
-        "name": "Hot Fuss",
-        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 301866,
-      "name": "All These Things That I've Done",
-      "url": "https://open.spotify.com/track/5vollujufHY0jMZxx77VWr"
     },
     {
       "added_at": "2020-08-27 15:58:21",

@@ -4,7 +4,7 @@
 
 > Soft instrumental Jazz for working or studying.
 
-324 songs - 22 hr 43 min
+325 songs - 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Eleanor](https://open.spotify.com/track/0e73D9vZrxLVUPRhHae6r1) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [West of 5th](https://open.spotify.com/album/6LLXvVf6WOOrL4YFy9BVy1) | 4:49 | 2022-06-29 | 2022-11-11 |
 | [Eleanor](https://open.spotify.com/track/6vWkMerIb8fzLSeYQ7iCCi) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [West of 5th](https://open.spotify.com/album/7HzP4w4TIlGa9I6xEAklBc) | 4:49 | 2021-12-16 | 2022-07-29 |
 | [Elise](https://open.spotify.com/track/7m8rFWJzA6VJQnLVqiWvGL) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Elise](https://open.spotify.com/album/5TdOcjjm9BUdSOVLzGIWV3) | 2:40 | 2022-11-11 | 2022-11-29 |
+| [Empty Embrace](https://open.spotify.com/track/23M3EyLMK59mwAftJcWjJX) | [Halcyon Jazz Band](https://open.spotify.com/artist/65v6vabYRS8eorJk8Heb6n) | [Empty Embrace](https://open.spotify.com/album/7tZNqPtohwikYeyXWlMLhd) | 3:05 | 2023-04-20 |  |
 | [Equilibrio](https://open.spotify.com/track/561vqucx8o1kmktdzuScCJ) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [Equilibrio](https://open.spotify.com/album/4IJ2s5qJmU3XBSvxOWOPSF) | 2:31 | 2022-12-08 |  |
 | [Everybody Knew](https://open.spotify.com/track/0vVsZ7fLYEnYA9VIBXYdhv) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [Everybody Knew](https://open.spotify.com/album/64IM7XMUoAS8owtJzMUxIB) | 3:22 | 2022-12-22 | 2023-04-16 |
 | [Everybody's Somebody's Fool](https://open.spotify.com/track/3Fd6oqnuEVzOjzfh13k0CA) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Gettin' Around](https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9) | 6:47 | 2021-12-16 | 2022-11-11 |
@@ -213,7 +214,7 @@
 | [Nublu](https://open.spotify.com/track/7I3dKt5y4dlS0y8Kg0uOdK) | [Younglights](https://open.spotify.com/artist/2wk1p7ufHqkOWAEDAxTWbu) | [Nublu](https://open.spotify.com/album/0PqSULFQO0lLVbiV7lw9BP) | 3:53 | 2022-11-11 | 2023-01-29 |
 | [Numerous Occasions](https://open.spotify.com/track/7Cmp85HSefyHtULmgajybL) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Numerous Occasions](https://open.spotify.com/album/4Hn6jU3s5yKVffhJnDr6Et) | 3:31 | 2023-01-19 |  |
 | [On The Street Where You Live](https://open.spotify.com/track/7xLNfcvvxHB3gjCeBdDD4n) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [On The Street Where You Live](https://open.spotify.com/album/09UH3htyiTiqxM0FnhqDsv) | 3:19 | 2022-11-11 | 2022-12-18 |
-| [Once In A Lifetime](https://open.spotify.com/track/0IQ6jc6zO9ffRqcNoiL1Di) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 4:12 | 2023-02-09 |  |
+| [Once In A Lifetime](https://open.spotify.com/track/0IQ6jc6zO9ffRqcNoiL1Di) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 4:12 | 2023-02-09 | 2023-04-27 |
 | [Our Love Story](https://open.spotify.com/track/1FW1U15nbWIAteWTI2Iy9L) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Our Love Story](https://open.spotify.com/album/3G7vIhBdcwdmKTMdr4NcYt) | 2:40 | 2023-04-20 |  |
 | [Out Of The Blue](https://open.spotify.com/track/6pGvi1k9FL1p27JwYDuB8S) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [Out Of The Blue](https://open.spotify.com/album/6emBxjRNaXLFFBJUtzpUQI) | 2:58 | 2023-03-09 | 2023-04-10 |
 | [Out of Wilma](https://open.spotify.com/track/3al4xzBnTjTpcnZsfRiE0y) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Out of Wilma](https://open.spotify.com/album/1xHX7TFDWntXbStEw02s5Y) | 2:49 | 2022-12-22 |  |

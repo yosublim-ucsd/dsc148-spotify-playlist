@@ -3373,6 +3373,24 @@
     },
     {
       "album": {
+        "name": "Over The Moon",
+        "url": "https://open.spotify.com/album/0WGMSrfOSPh1vctL94IWD3"
+      },
+      "artists": [
+        {
+          "name": "LEE CHAE YEON",
+          "url": "https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173080,
+      "name": "KNOCK",
+      "url": "https://open.spotify.com/track/6KiEF5zqzHiFjzdm8gChz7"
+    },
+    {
+      "album": {
         "name": "Little Women, Pt. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6"
       },
@@ -7002,6 +7020,24 @@
       "duration_ms": 183693,
       "name": "WA DA DA",
       "url": "https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq"
+    },
+    {
+      "album": {
+        "name": "ASTERUM",
+        "url": "https://open.spotify.com/album/3T7Be41PixmIFH29sK3s1Z"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231986,
+      "name": "Wait for you",
+      "url": "https://open.spotify.com/track/4r1caIy3DscFsJuNXKIo5g"
     },
     {
       "album": {

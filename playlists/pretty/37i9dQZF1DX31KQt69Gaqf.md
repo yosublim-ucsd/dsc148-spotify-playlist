@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 
 > Let us take care of your workday soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,868 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,874 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 33 | [Like I Used To](https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Like I Used To](https://open.spotify.com/album/0nRjg8p3TOmImvztpYncra) | 4:23 |
 | 34 | [Light \- Edit](https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Light \(Edit\)](https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz) | 3:05 |
 | 35 | [Undecided \(with Marie Dahlstrom\)](https://open.spotify.com/track/1TyStc858QNwSpXtDdxSly) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM) | [Undecided \(with Marie Dahlstrom\)](https://open.spotify.com/album/3JfLwZQDIGfCtsUXJpiFcG) | 2:56 |
-| 36 | [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 |
-| 37 | [Faith Healer](https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:54 |
+| 36 | [Faith Healer](https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:54 |
+| 37 | [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 |
 | 38 | [Black Dog](https://open.spotify.com/track/1NGPZKzplieiPc5g6lAJ49) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Black Dog](https://open.spotify.com/album/7g57U9ugd9ObC65ecCeEHy) | 3:45 |
-| 39 | [Scream Drive Faster](https://open.spotify.com/track/4CBfY6tYGrm6o5wluoPKaT) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Scream Drive Faster](https://open.spotify.com/album/2Sr4PjxeH0SrquSDMPZF7m) | 4:00 |
-| 40 | [Long Grass](https://open.spotify.com/track/6iCQRdDf05QOU4bxIvDPYu) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO), [The Easy Access Orchestra](https://open.spotify.com/artist/5fiNdr2wm70EaUTLwrDbh2) | [Long Grass](https://open.spotify.com/album/7s5qWzC22jdTiaZR488pje) | 3:58 |
+| 39 | [Long Grass](https://open.spotify.com/track/6iCQRdDf05QOU4bxIvDPYu) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO), [The Easy Access Orchestra](https://open.spotify.com/artist/5fiNdr2wm70EaUTLwrDbh2) | [Long Grass](https://open.spotify.com/album/7s5qWzC22jdTiaZR488pje) | 3:58 |
+| 40 | [Scream Drive Faster](https://open.spotify.com/track/4CBfY6tYGrm6o5wluoPKaT) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Scream Drive Faster](https://open.spotify.com/album/2Sr4PjxeH0SrquSDMPZF7m) | 4:00 |
 | 41 | [Control](https://open.spotify.com/track/1C26HwnwtIwLlSHJdB2iZw) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Control](https://open.spotify.com/album/3o3OAEZXFVzDavifKXa1aV) | 3:07 |
 | 42 | [Don't Turn Around](https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/1nJ6X5PejqyhbHpG9Ycf5N) | 2:51 |
 | 43 | [Friday](https://open.spotify.com/track/4GQGU0CI1lR4xRcxxioIIQ) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Friday](https://open.spotify.com/album/034zknyDzHTXojF5mOYtyO) | 3:24 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 72 | [Taurus](https://open.spotify.com/track/2qAZTSoZL0tNEw2RX0MpMw) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Taurus](https://open.spotify.com/album/0IaxrgQd3Q2z66CE02UyC0) | 3:06 |
 | 73 | [Like Sand](https://open.spotify.com/track/3zRd3xkdmZZSzBHgGo4mAl) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu) | [Like Sand](https://open.spotify.com/album/25DRkwsnYG06w8ExeR7xx6) | 4:31 |
 | 74 | [Beaches on the Thames](https://open.spotify.com/track/0wn1K6Yh5ixdIsuMqg6aaU) | [Sarah Carton](https://open.spotify.com/artist/5XcYz8deAP70UIQyS1WtRS) | [Beaches on the Thames](https://open.spotify.com/album/4c2WcJgvgco3szXYxFTMLc) | 3:50 |
-| 75 | [Astronaut](https://open.spotify.com/track/7phnXD1tItFiVKsOK2icnH) | [Uma](https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs) | [Bel•li](https://open.spotify.com/album/7toAAFcowWW8pH2KY96EBO) | 2:52 |
-| 76 | [Caught Up & Confused](https://open.spotify.com/track/3qS0ySnwtPC2JvTnr4x9KO) | [MarthaGunn](https://open.spotify.com/artist/4Rt63oQJifMiMbQEcmeqK8) | [Something Good Will Happen](https://open.spotify.com/album/73NXw8O4hc5Uqbx1D4cYNK) | 3:24 |
+| 75 | [Caught Up & Confused](https://open.spotify.com/track/3qS0ySnwtPC2JvTnr4x9KO) | [MarthaGunn](https://open.spotify.com/artist/4Rt63oQJifMiMbQEcmeqK8) | [Something Good Will Happen](https://open.spotify.com/album/73NXw8O4hc5Uqbx1D4cYNK) | 3:24 |
+| 76 | [Astronaut](https://open.spotify.com/track/7phnXD1tItFiVKsOK2icnH) | [Uma](https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs) | [Bel•li](https://open.spotify.com/album/7toAAFcowWW8pH2KY96EBO) | 2:52 |
 | 77 | [California Screaming](https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [California Screaming](https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw) | 3:17 |
 | 78 | [Gladstone](https://open.spotify.com/track/7y8stO3CzbhstlHg6cYBs4) | [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [Gladstone](https://open.spotify.com/album/5XWJvBc60xAv1WSn3EIPPw) | 2:54 |
 | 79 | [Womxn](https://open.spotify.com/track/3uZfLLYmvNUTWuZieOgJKr) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Through Water](https://open.spotify.com/album/4U7KMGWUL0FQtYCVxVy1Za) | 3:54 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 97 | [TRAP PHONE](https://open.spotify.com/track/2bqvn860XasNbI5OSHwjtt) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [TRAP PHONE](https://open.spotify.com/album/4IhmhPD7eW7QSMR3pVrYet) | 4:10 |
 | 98 | [Treat You Right](https://open.spotify.com/track/7ItOfW0Phlgis72tCdIcsw) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Treat You Right](https://open.spotify.com/album/3F91sv7XPeK9JYQdpXktd2) | 4:21 |
 | 99 | [So Simpatico \- Edit](https://open.spotify.com/track/4GzHrLySoKpHdsLwZDwioT) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [So Simpatico](https://open.spotify.com/album/3T6jlI15kmoraxuM5AvGkR) | 3:05 |
-| 100 | [Uriah's Cry](https://open.spotify.com/track/2rtLK9Nj9PzMabMOYb4Tmd) | [SAM DOTIA](https://open.spotify.com/artist/7lHuH8figeMAA7pEWJCMHD) | [Uriah's Cry](https://open.spotify.com/album/4lo8NWKY2fTTDEoFm8J29W) | 3:21 |
+| 100 | [DOWNDOWNDOWN!](https://open.spotify.com/track/1Uyyua4fiFSnW3LlHFQ1rz) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [Something To Feel Good About](https://open.spotify.com/album/4NmIlEuCTrJvOEJRKuLAYV) | 3:22 |
 
-Snapshot ID: `MTY3NDY5MzEyMCwwMDAwMDAwMDA4MGU0MDBkNWExNjdhMjZhN2Q4OTkwNmJjODU2NDUy`
+Snapshot ID: `MTY3NDY5MzEyMCwwMDAwMDAwMDNmNDVmY2EwMzU1MGZiM2I0MWQ0YWViN2M4YmJiZTU3`

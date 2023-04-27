@@ -4,7 +4,7 @@
 
 > Songs of faith, hope, and the greatest of these, love.
 
-141 songs - 8 hr 27 min
+142 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,13 +85,14 @@
 | [Let Me Love You](https://open.spotify.com/track/6tjDAG0A92Xyb7M0612fjn) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Josh Wilson](https://open.spotify.com/album/4egEbjr9keEfncjr8dTd33) | 3:17 | 2020-04-17 | 2023-02-07 |
 | [LET'S STAY HOME TONIGHT](https://open.spotify.com/track/1kiylxwnw8R8rJoCDtubWM) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [H A R D L O V E](https://open.spotify.com/album/0DjJIQPOsxd5OiUoVskRBH) | 3:20 | 2020-06-15 |  |
 | [Letters](https://open.spotify.com/track/0cqSEpg2nYbneh7RGNrDcp) | [LaPeer](https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc) | ['90s Kids](https://open.spotify.com/album/5m0Qi0Nb6i8sQSqUu6HL69) | 3:26 | 2020-04-17 | 2023-04-18 |
+| [Letters](https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8) | [LaPeer](https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc) | ['90s Kids](https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h) | 3:26 | 2023-01-31 |  |
 | [Like You Love Me](https://open.spotify.com/track/33bqWsuJvnjTgAYr8DMadN) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 3:30 | 2020-04-17 |  |
 | [Like You Love Me](https://open.spotify.com/track/62ZsjsTf7MLdH0dbIAM54R) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Famous For \(I Believe\) \- EP](https://open.spotify.com/album/68jAPqmEltdG223tlHj7Se) | 3:30 | 2020-04-17 | 2022-07-29 |
 | [Look At Love](https://open.spotify.com/track/6LyEFiIuByViEKcbZBAebw) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe](https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD) | 3:21 | 2023-01-31 |  |
 | [Love in the West](https://open.spotify.com/track/5ttoyQ1sdU1IuE1nd5MD4l) | [Uninvtd](https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ), [S A I N T](https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN) | [Love in the West](https://open.spotify.com/album/0Oe6yZLlmHs90r6pLAuYBH) | 2:18 | 2023-01-31 |  |
 | [Love Letter](https://open.spotify.com/track/3vVRe4hWXAhC7Q5NNVvqPc) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Love Letter](https://open.spotify.com/album/3xN0nvkOFcvxlT2LeyxtDd) | 2:59 | 2020-04-17 |  |
 | [Love Me Like I Am](https://open.spotify.com/track/1VksnwIqgJrUEIDXVunSzt) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Love Me Like I Am](https://open.spotify.com/album/7gfQHc3E7j48nKf70PBeJR) | 3:04 | 2023-01-31 |  |
-| [Love Somebody](https://open.spotify.com/track/0MLw3p1PWOsbDMwSzV8Gw0) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [True Beauty](https://open.spotify.com/album/5UKGADu3H0tfBHo2iE38re) | 3:48 | 2020-04-17 |  |
+| [Love Somebody](https://open.spotify.com/track/0MLw3p1PWOsbDMwSzV8Gw0) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [True Beauty](https://open.spotify.com/album/5UKGADu3H0tfBHo2iE38re) | 3:48 | 2020-04-17 | 2023-04-27 |
 | [Love Song](https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Love Song](https://open.spotify.com/album/5nC6gYCU6danOkYAkngJa9) | 3:34 | 2020-04-17 |  |
 | [Love Will Never Fail \(I Corinthians 13\)](https://open.spotify.com/track/3tXcHkiprWXY3pfkkzoWUY) | [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh) | [Love Will Never Fail](https://open.spotify.com/album/1bVIUQcllEzUNmxYqEsk5h) | 3:19 | 2023-01-31 |  |
 | [Love&Adoration](https://open.spotify.com/track/1QujH597HNGHN6MWIbilTV) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Love&Adoration](https://open.spotify.com/album/2QTtPQmtd0zJ46vKPaT9UQ) | 2:23 | 2023-01-31 |  |

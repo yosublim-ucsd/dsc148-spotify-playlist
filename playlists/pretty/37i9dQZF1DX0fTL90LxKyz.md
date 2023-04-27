@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 
 > Go hard or go home!
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,348 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,400 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 9 | [I Dunno \(feat\. Dutchavelli & Stormzy\)](https://open.spotify.com/track/3B0WbRucJ6ZIla2G9IVt2E) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [I Dunno \(feat\. Dutchavelli & Stormzy\)](https://open.spotify.com/album/4HFf49hM2U0n27vIms1OjU) | 2:58 |
 | 10 | [Bumpy Johnson](https://open.spotify.com/track/1kxu6GYmdIdEATyPLBDAc0) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [No More Leaks](https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0) | 2:41 |
 | 11 | [Practice Makes Perfect](https://open.spotify.com/track/4Qpa0WH8hUHtOJKSNPrGV7) | [SR](https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h) | [Practice Makes Perfect](https://open.spotify.com/album/6l0LCRHoG9F9EzQUYWnMAL) | 2:47 |
-| 12 | [STFU](https://open.spotify.com/track/6wa1aDgVhjTuYXqkLcVL6A) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [STFU](https://open.spotify.com/album/4uu6Jz7fGrOpVKgXPLMPYl) | 2:47 |
-| 13 | [Ain't It Different \(feat\. AJ Tracey & Stormzy\)](https://open.spotify.com/track/6NJfIydBMYrXvlaXsFxmc8) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Ain't It Different \(feat\. AJ Tracey & Stormzy\)](https://open.spotify.com/album/4DlHEcnhhUJbLuRvaOfdxC) | 3:16 |
+| 12 | [Ain't It Different \(feat\. AJ Tracey & Stormzy\)](https://open.spotify.com/track/6NJfIydBMYrXvlaXsFxmc8) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Ain't It Different \(feat\. AJ Tracey & Stormzy\)](https://open.spotify.com/album/4DlHEcnhhUJbLuRvaOfdxC) | 3:16 |
+| 13 | [STFU](https://open.spotify.com/track/6wa1aDgVhjTuYXqkLcVL6A) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [STFU](https://open.spotify.com/album/4uu6Jz7fGrOpVKgXPLMPYl) | 2:47 |
 | 14 | [London \(feat\. Tion Wayne\)](https://open.spotify.com/track/0jgO2f0lAPSs36KBAHx9Dl) | [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [London \(feat\. Tion Wayne\)](https://open.spotify.com/album/4CDUyj6tjOqjZB2IDaLjol) | 2:41 |
 | 15 | [TPL x Fumez The Engineer \- Plugged In Freestyle](https://open.spotify.com/track/2oW5T6viRcUuE6Ttk6TJ9B) | [Fumez The Engineer](https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk), [Sava](https://open.spotify.com/artist/25A5LqeSK0yH4ks5fGxbI2), [OTP](https://open.spotify.com/artist/3AFt30387waHIjjDL63XeI), [BM X MINI](https://open.spotify.com/artist/6xNUn9epduXbZmCgsxutSx) | [TPL x Fumez The Engineer \- Plugged In Freestyle](https://open.spotify.com/album/0qD48aseZrFjSw4E5x3Lbf) | 3:37 |
 | 16 | [Wow](https://open.spotify.com/track/1zEtEb820Vwe9giuUFXH7H) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Wow](https://open.spotify.com/album/50GEiFeJvh61ifn8ZWyH4Y) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 49 | [Know Better \(feat\. Rv\)](https://open.spotify.com/track/0IX9PL2dUVCHp6L4JQ9Rzq) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o) | [The One](https://open.spotify.com/album/1y37t6X1wmEVbCke5Luugd) | 3:30 |
 | 50 | [Bella latina](https://open.spotify.com/track/1Win7IcNsGoZZBNtP85Lu4) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Bella latina](https://open.spotify.com/album/52rEOwEWDXZOkJC4Rfp31p) | 3:01 |
 
-Snapshot ID: `MTY2NjU1MDMzMSwwMDAwMDAwMDNjOTE1MzI2MGIxNjM1YTkzYWE0ZjU3ZjVhOGFkNWY0`
+Snapshot ID: `MTY2NjU1MDMzMSwwMDAwMDAwMDAzZDYwMWNhMzE0ZjgyY2MwMmYxYzczYzIzNTE5NDNi`

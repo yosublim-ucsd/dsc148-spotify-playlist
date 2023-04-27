@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 
 > A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: Drake 🦉
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,324 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,371 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,15 +34,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 24 | [Pause Play](https://open.spotify.com/track/4Yxs4En3TdQY0oQswXJheQ) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2) | [Pause Play](https://open.spotify.com/album/1fzRm9tToQXOf1GwXWP0MT) | 2:44 |
 | 25 | [Bali](https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY) | [88GLAM](https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [88GLAM RELOADED](https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36) | 3:05 |
 | 26 | [Live Up to My Name](https://open.spotify.com/track/79KZAInFkxA0XLukZCGzvh) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [4Milli](https://open.spotify.com/album/28vYZP2mGD54CUoY0lPUr2) | 3:00 |
-| 27 | [Why Did I](https://open.spotify.com/track/6NrB2hKwlyVfFY8qhKc8U6) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Sorry 4 What](https://open.spotify.com/album/7MUY0WxCmHcgEEeQNjoe8a) | 2:25 |
-| 28 | [100 Rounds](https://open.spotify.com/track/5sJwRlYM8Wg9vGrfe0FNTO) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [100 Rounds](https://open.spotify.com/album/405f18dnyh3ElPJj1tkshp) | 2:12 |
+| 27 | [100 Rounds](https://open.spotify.com/track/5sJwRlYM8Wg9vGrfe0FNTO) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [100 Rounds](https://open.spotify.com/album/405f18dnyh3ElPJj1tkshp) | 2:12 |
+| 28 | [Why Did I](https://open.spotify.com/track/6NrB2hKwlyVfFY8qhKc8U6) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Sorry 4 What](https://open.spotify.com/album/7MUY0WxCmHcgEEeQNjoe8a) | 2:25 |
 | 29 | [Jupiter & Mars](https://open.spotify.com/track/6YwwmcamIeDCOBQC8yrgxA) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Jupiter & Mars](https://open.spotify.com/album/4ncZCdSB9YcHmmK51P2ld1) | 3:16 |
 | 30 | [Everywhere We Go](https://open.spotify.com/track/0vdbvgggS673fhvHdrU34E) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF) | [Everywhere We Go Single](https://open.spotify.com/album/69Vz9WpIGsDwUU8Czqapy2) | 3:18 |
 | 31 | [Bass \(feat\. Tech N9ne & Hopsin\)](https://open.spotify.com/track/4fX0nbOg4zoGYsngVBtq4s) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Hopsin](https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [Special Occasion](https://open.spotify.com/album/0m3fAxrcKWZ7S6sqWQKrUp) | 3:53 |
 | 32 | [NIGHTFALL \(feat\. Dro Kenji\)](https://open.spotify.com/track/04EvAhYmelTjLIxWzK7JLm) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL), [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [DUSK to DAWN](https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE) | 2:29 |
 | 33 | [All Aces](https://open.spotify.com/track/6LZys87Q37Jr3RKWDFUkRF) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR) | [All Aces](https://open.spotify.com/album/58xwAleBBDucWbz7xukMsh) | 3:21 |
-| 34 | [Bionic Man](https://open.spotify.com/track/7x9DxO4BrMKsQlmN2vPURS) | [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD), [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef) | [Bionic Man](https://open.spotify.com/album/4Wm4hGN6m5ZaaFm1LyTtkd) | 3:12 |
-| 35 | [Canada Goose](https://open.spotify.com/track/0c473vwMZxxXcdhHay62PN) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Canada Goose](https://open.spotify.com/album/4x2T0CZ0uxbA3Z6hL1Vq14) | 3:55 |
+| 34 | [Canada Goose](https://open.spotify.com/track/0c473vwMZxxXcdhHay62PN) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Canada Goose](https://open.spotify.com/album/4x2T0CZ0uxbA3Z6hL1Vq14) | 3:55 |
+| 35 | [Bionic Man](https://open.spotify.com/track/7x9DxO4BrMKsQlmN2vPURS) | [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD), [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef) | [Bionic Man](https://open.spotify.com/album/4Wm4hGN6m5ZaaFm1LyTtkd) | 3:12 |
 | 36 | [MUST BE](https://open.spotify.com/track/0lO5zEKJ60lvz8X192p3WK) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 2:25 |
 | 37 | [Griselda Blanco](https://open.spotify.com/track/5TuREdxaWbjceZbX1945f8) | [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc), [TwoTwo](https://open.spotify.com/artist/3H6Mld9y4gFvW3LDEJUUoQ) | [Griselda Blanco](https://open.spotify.com/album/17LK6OSJ1oVihjzSHYIiMj) | 3:27 |
 | 38 | [Come Outside](https://open.spotify.com/track/6N078G7btmtHvTLPPLL1wf) | [K Money](https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6) | [Come Outside](https://open.spotify.com/album/2rjsJgXKKQRrLOrgmHHIby) | 3:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 74 | [Laughed To Myself](https://open.spotify.com/track/48105SIhfCIKOV4CtZLF7G) | [Velow](https://open.spotify.com/artist/2UOHBwSdgEwpUgbRDkY8mA) | [Laughed To Myself](https://open.spotify.com/album/7Jvfr3yFzAtIgT3XaZ9Awl) | 2:43 |
 | 75 | [Here it Goes](https://open.spotify.com/track/0TGWqVxhdfAyRHTqF3fsYo) | [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Here it Goes](https://open.spotify.com/album/1p93XxxZlLPV5O7kVC64jO) | 3:09 |
 
-Snapshot ID: `MTY4MjA0OTY2MCwwMDAwMDAwMGMxM2JkZDA1ZDE2YWYzY2Y1Y2YxYjBiNDAxOTlhNDE2`
+Snapshot ID: `MTY4MjA0OTY2MCwwMDAwMDAwMDQzYTViNTE3NDMzMTc2MzFlMDJkYmNiYTJlODc4YTI3`

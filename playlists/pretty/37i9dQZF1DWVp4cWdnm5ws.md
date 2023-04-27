@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Discover new artists on the horizon this 2023.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,237 likes - 25 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,267 likes - 25 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

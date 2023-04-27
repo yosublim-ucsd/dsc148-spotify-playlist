@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 
 > Take comfort in these sad piano songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,596 likes - 193 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,700 likes - 193 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 32 | [Afterthought](https://open.spotify.com/track/6V3EqKAHRMDKUYYPtD0lVQ) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Afterthought](https://open.spotify.com/album/4AFxPojfD0MLU03FMCtDmg) | 2:29 |
 | 33 | [Fifth](https://open.spotify.com/track/42cd6z8jhsKWx5So4pKJ7k) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [Fifth](https://open.spotify.com/album/4RodR70upWkY1uDVnTmq8s) | 1:58 |
 | 34 | [Adam Leaves \- Second Half / Piano Version](https://open.spotify.com/track/0mw9N3Jc5D2EKvgDSMBjJN) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE), [Kindt](https://open.spotify.com/artist/3UDsNhT6aApMOxQUrc95Bl) | [Piano Book](https://open.spotify.com/album/099nJibPYLG6UNgZtGFC6h) | 3:04 |
-| 35 | [Only If You Stay](https://open.spotify.com/track/4EO6THQkcjTwCY59pQ6ZsN) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [In Our House](https://open.spotify.com/album/0BaNsKWBEfM8KhgdeTTCd5) | 2:34 |
+| 35 | [Only If You Stay](https://open.spotify.com/track/3wm0sy150JqW6pKNzSJZjV) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [As Time Will Tell](https://open.spotify.com/album/1EobeAcIPLf9DCjVEaD2yH) | 2:34 |
 | 36 | [Cure Me](https://open.spotify.com/track/29bBm6109p8lSuPxk5DhIj) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Cure Me](https://open.spotify.com/album/4yErhA9EXftYt51OBRUk88) | 2:46 |
 | 37 | [Ocean of Time](https://open.spotify.com/track/1Nl1QXLWVSG9nYuIjJqcwU) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Ocean of Time](https://open.spotify.com/album/1OCYSqcbCFM58zstXftvUy) | 2:15 |
 | 38 | [Gestalt](https://open.spotify.com/track/5RqRq2sgnvkwjossuNUrjp) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [Gestalt](https://open.spotify.com/album/6ObPArNQyZa5fECTKmNaxg) | 2:55 |
@@ -202,4 +202,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 192 | [Reflections](https://open.spotify.com/track/1qXzQi8CxX0Y5JqZ22m1zy) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Reflections](https://open.spotify.com/album/11xwClKSNpUm1w1dYE4HnI) | 2:09 |
 | 193 | [Persistence](https://open.spotify.com/track/0axAOvyLwfINcKe3tw7U2f) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Persistence](https://open.spotify.com/album/7hihzMSbAIsrcRtSGjebl8) | 2:19 |
 
-Snapshot ID: `MTY4MTgzMTE3MCwwMDAwMDAwMDBiYWFlNzI0MzgzNjIwNmM1OGFmN2JjNWI0MTVhZmQx`
+Snapshot ID: `MTY4MTgzMTE3MCwwMDAwMDAwMDk4YjUzYzgwNTEyZWU1NTk1NjkxNWMyMGNmNDhhNjNl`

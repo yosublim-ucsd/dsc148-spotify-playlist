@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 
 > Simmer down with this relaxing selection of old and new Reggae.
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,787 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,931 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 35 | [Grateful](https://open.spotify.com/track/2ys6cWKndwCetchUXyNE2M) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Jemere Morgan](https://open.spotify.com/artist/7t3wkXOe1VYGzhIbhSPEV3) | [Grateful](https://open.spotify.com/album/14qvzwfUMd2XYhmAZUwvbW) | 4:07 |
 | 36 | [Bubble](https://open.spotify.com/track/0Wszs6jrBwK0YO2vYLb1We) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Gemini](https://open.spotify.com/album/4TGkpeR5mcuh4C3Nnw1gM8) | 3:20 |
 | 37 | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/6gkepFIH72ZdSIAjtvS7ZV) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/6bTB8c23Zg98mJNN5wx5bw) | 2:43 |
-| 38 | [If You Only Knew](https://open.spotify.com/track/7kXo7sb4Lz9sBNW5KT8Zk7) | [Sevana](https://open.spotify.com/artist/2TZL5FEo1CGwmgdMSFwsdS) | [If You Only Knew](https://open.spotify.com/album/4rpHnpIibaiGM1WVUHkvIk) | 4:01 |
-| 39 | [My Kinda Girl](https://open.spotify.com/track/3ca9aWbM7H6j138sWF4fPG) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Never Ending](https://open.spotify.com/album/6pJrd3qBSNWEeidE1W0Ukd) | 4:14 |
+| 38 | [My Kinda Girl](https://open.spotify.com/track/3ca9aWbM7H6j138sWF4fPG) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Never Ending](https://open.spotify.com/album/6pJrd3qBSNWEeidE1W0Ukd) | 4:14 |
+| 39 | [If You Only Knew](https://open.spotify.com/track/7kXo7sb4Lz9sBNW5KT8Zk7) | [Sevana](https://open.spotify.com/artist/2TZL5FEo1CGwmgdMSFwsdS) | [If You Only Knew](https://open.spotify.com/album/4rpHnpIibaiGM1WVUHkvIk) | 4:01 |
 | 40 | [Hope \- LOCK\-IN](https://open.spotify.com/track/6j2DK9VA478EJySZ4oaxeb) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [Lisa Tomlins](https://open.spotify.com/artist/6SisxwZsa3yQ3VTNGJ8AXR) | [Hope \(LOCK\-IN\)](https://open.spotify.com/album/7Gtf3fYDUAmgpj4X5Bw0xN) | 9:02 |
 | 41 | [Made To Fall In Love](https://open.spotify.com/track/2JKv3r2AUmWjrDFO3unlpq) | [Bitty McLean](https://open.spotify.com/artist/2t3eEaWiT5weaCJIh6aRv2), [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Reggae Gold 2019](https://open.spotify.com/album/5cfZ5mWTwZwyzSSgDeiFN6) | 3:44 |
 | 42 | [Same So](https://open.spotify.com/track/54Dt888vzNrG90F51f1kSW) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Same So](https://open.spotify.com/album/2TRIUatF5kFierYyXW8zUq) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 49 | [Use Me](https://open.spotify.com/track/3KDk6mLLHSd1YiaLtnAQdt) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Use Me](https://open.spotify.com/album/592Zbs7JSgwspo1O7BU1K1) | 3:12 |
 | 50 | [Buried Alive](https://open.spotify.com/track/0TihbhZf0uXlEcxDj4Fzpi) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Upside Down 2020](https://open.spotify.com/album/0gZau2nRsooGhfgul60N4l) | 3:52 |
 
-Snapshot ID: `MTY2NTY5NzQ3NiwwMDAwMDAwMGQ1ZWYxNGEyMmIyM2QzNjQ3NTk5Y2I5ZjNlYzY1MmNk`
+Snapshot ID: `MTY2NTY5NzQ3NiwwMDAwMDAwMDhlNTQ4NWFjMzdhMGE4ODIwMTQzMWRmMGEwMDk5Yjky`

@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-733 songs - 2 day 0 hr 34 min
+734 songs - 2 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -505,7 +505,7 @@
 | [シンパシー](https://open.spotify.com/track/4YYrqU4gvSMIk58wT7IhIa) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [ヒカレイノチ](https://open.spotify.com/album/2lYrrG6Xcnq6aOrb1mtLEO) | 3:30 | 2022-06-07 | 2022-07-29 |
 | [ジュブナイル](https://open.spotify.com/track/0EIlSiMlNJDHecJUkmzYer) | [GReeeeN](https://open.spotify.com/artist/14T8NkbwXVZgbOvwnuGV89) | [ジュブナイル](https://open.spotify.com/album/0omLVfcLxIrrw4WFZJMzLo) | 4:21 | 2023-02-20 | 2023-04-15 |
 | [スカー](https://open.spotify.com/track/5WQAussByRFjUWYQDowtHE) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [スカー](https://open.spotify.com/album/4qHbR7z8zMoUFOukvg7KXd) | 4:19 | 2022-11-22 |  |
-| [スクワッド!](https://open.spotify.com/track/1PiQybGfKBnDb5P4d5Ewwd) | [Meychan](https://open.spotify.com/artist/5HQYtQ84Zs3hQD5ZcC7WUX) | [スクワッド!](https://open.spotify.com/album/12SiALYHMtpakrYud5tAAB) | 3:53 | 2023-02-20 |  |
+| [スクワッド!](https://open.spotify.com/track/1PiQybGfKBnDb5P4d5Ewwd) | [Meychan](https://open.spotify.com/artist/5HQYtQ84Zs3hQD5ZcC7WUX) | [スクワッド!](https://open.spotify.com/album/12SiALYHMtpakrYud5tAAB) | 3:53 | 2023-02-20 | 2023-04-27 |
 | [スターマーカー](https://open.spotify.com/track/0pQm5AbAaVy9XrOLf7rgSF) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [スターマーカー](https://open.spotify.com/album/3i5qvSK7NKmpeLT0a76qXN) | 3:33 | 2022-08-11 | 2022-11-13 |
 | [スターマーカー](https://open.spotify.com/track/03kbdEIMJIDa4Doyn7NVad) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [スターマーカー](https://open.spotify.com/album/3iPCGF4IUljsL9xcFdcdfc) | 3:34 | 2022-06-07 | 2022-07-28 |
 | [スターマーカー \(Album Mix\)](https://open.spotify.com/track/6NAtVhZ5LrvoKy2Gijr5gj) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [Honey & Darling](https://open.spotify.com/album/3IuxHkC9II53tjmZCIRwsL) | 3:33 | 2022-06-07 |  |
@@ -715,6 +715,7 @@
 | [衝撃](https://open.spotify.com/track/2GeK108DTmnSEfwwCR85mp) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [衝撃](https://open.spotify.com/album/6wuiJYEregDGHkpvtHKmEU) | 3:01 | 2022-06-07 | 2022-07-29 |
 | [裸の勇者](https://open.spotify.com/track/3k64vNcgYPkETG7TNgpW4o) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [裸の勇者](https://open.spotify.com/album/3Wu7a56Nl1iml7pwR4Fvv7) | 3:21 | 2022-06-07 |  |
 | [言えない](https://open.spotify.com/track/4Pgfcz3P83oJHdRvO0NJ0Q) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [言えない](https://open.spotify.com/album/5ApBDaAa7sZWVDN1poztE3) | 3:24 | 2022-08-11 | 2022-12-03 |
+| [誰も彼も何処も何も知らない](https://open.spotify.com/track/4HXLOgMIVNTfiuWiMBoRa4) | [ASOBI同盟](https://open.spotify.com/artist/4J0zXugKZIlVBUxoM2DrRE) | [TVアニメ「天国大魔境」エンディングテーマ「誰も彼も何処も何も知らない」](https://open.spotify.com/album/5PHNBwNEV5PhEpMyDbtMeg) | 3:40 | 2023-04-21 |  |
 | [負けイベ実況プレイ](https://open.spotify.com/track/7KRcAcbxPVrQLHouMK9hvB) | [15才](https://open.spotify.com/artist/2kB1cnoc2xQmt7CUciONPZ), [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [負けイベ実況プレイ](https://open.spotify.com/album/1TGTkkNtcGIlM2q3V2gp9L) | 3:28 | 2022-06-07 | 2022-06-22 |
 | [足跡](https://open.spotify.com/track/4k5g6HNKtrWbYDllw2Dyp0) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [足跡](https://open.spotify.com/album/2qSycPngTjQbW0JgEPKanq) | 3:47 | 2022-06-07 |  |
 | [轍\~Wadachi\~](https://open.spotify.com/track/0AuEHmUQAMbqf9hrXBQcuT) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [轍\~Wadachi\~](https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho) | 3:42 | 2022-06-07 | 2022-08-12 |

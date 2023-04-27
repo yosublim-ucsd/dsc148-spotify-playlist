@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Arabia](https://open.spotify.com/playlist/37i9dQZF1DWUTC08ZxLjSQ)
 
-> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Koteri\. Artwork: Isu Kim
+> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: nour\. Artwork: Isu Kim
 
-163 songs - 9 hr 9 min
+166 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Closer Than Close](https://open.spotify.com/track/5nvlMbwOQxMs2lTzXBqZpF) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D) | [Kingdom](https://open.spotify.com/album/3bAluFVvSuKNmPkmaR6xhd) | 4:35 | 2022-12-13 | 2023-02-15 |
 | [Coconut](https://open.spotify.com/track/3ucPO98aE91zqyQVL7LL3U) | [Salwa](https://open.spotify.com/artist/1ydHumv64RGQyZouGFLKp5) | [Late at Night](https://open.spotify.com/album/7idOjiu9Ue6uZCvvC517g4) | 3:29 | 2023-03-07 |  |
 | [Come Find Me](https://open.spotify.com/track/3Df0XGXVpGWCSm3uMmpqle) | [Adam Nabeel](https://open.spotify.com/artist/1Kfnrd9yf69MJpGLEsk7ZC) | [Come Find Me](https://open.spotify.com/album/7jZ4pnFqXPXoTJapHRd1CV) | 2:01 | 2022-09-20 | 2022-10-12 |
+| [Complicated](https://open.spotify.com/track/12tZyFvHuaiIbP80ukDWH5) | [Katya](https://open.spotify.com/artist/4n6DGGztXErh3kCGC88aXy) | [Complicated](https://open.spotify.com/album/5S7iMl6Wfl4hHMKTzNxLPw) | 3:34 | 2023-04-26 |  |
 | [complicated\_5](https://open.spotify.com/track/1H4mPyCMllISVPsrlpdzqw) | [artistbasm](https://open.spotify.com/artist/4L9VftgkqPPV0KXjzM0SIh) | [complicated\_5](https://open.spotify.com/album/1J5sJ59sMgEGc8idzbj6Ml) | 3:12 | 2023-03-21 | 2023-04-05 |
 | [December](https://open.spotify.com/track/0JnCAByIOXF3pmduqQp9Xn) | [REMZI](https://open.spotify.com/artist/4gl3AHK8hqrCabEuPbj1LI) | [December](https://open.spotify.com/album/1m4dJoy1edgAZ1mxxUrDXi) | 4:12 | 2023-01-31 | 2023-04-05 |
 | [Desert Tale](https://open.spotify.com/track/6TdpnCDgeya8E4t6Skc60K) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Desert Tale](https://open.spotify.com/album/4yuwchv1cn57wwMe8hqW7p) | 7:23 | 2022-09-20 | 2022-10-12 |
@@ -57,6 +58,7 @@
 | [Hammouda](https://open.spotify.com/track/2IgzQGOfEExzrkQclnt3JQ) | [Farouk Sen](https://open.spotify.com/artist/3TT4bOipuMdmB6MOr9RlRh), [Abdellah Stitou](https://open.spotify.com/artist/63SrIY9ixkSjv6CDjqkJaK) | [Hammouda](https://open.spotify.com/album/2n66xZ8ZBgZryfMv8GwBMH) | 2:31 | 2022-09-20 | 2023-01-18 |
 | [Heat](https://open.spotify.com/track/42v0E7B6vsNtls6UrzC9ui) | [KATARYA](https://open.spotify.com/artist/0NebVdki9sW4rcxCBnBfaV) | [Heat](https://open.spotify.com/album/2oAyoiJZwHEQWDrltRnJIz) | 2:45 | 2023-04-05 |  |
 | [Higher \(Breathe Easy\)](https://open.spotify.com/track/3yilsAnbDMSTMRA5AR1Eg3) | [ABRI](https://open.spotify.com/artist/0HaOYwL5NsXcaTGebbW06I) | [Higher \(Breathe Easy\)](https://open.spotify.com/album/7b5DtLjl7shhLIkkq3Q1UN) | 3:26 | 2022-09-20 | 2023-02-15 |
+| [Hindsight](https://open.spotify.com/track/1rOJRgBtDhbLpajg2j7U6h) | [BASYL](https://open.spotify.com/artist/2YWgtNh8oR97B93ZTpX0ol) | [Hindsight](https://open.spotify.com/album/54xZz8LpOA9gaYQLPRcE6M) | 2:37 | 2023-04-26 |  |
 | [Hnaya](https://open.spotify.com/track/37fxraGklh1llULoyhcFCz) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Hnaya](https://open.spotify.com/album/6gAe8rYARE5foXpzmhT30U) | 3:08 | 2022-09-20 | 2022-10-05 |
 | [Hold On](https://open.spotify.com/track/25xfmkU1otdXjgVfVwQR8i) | [Riiiiko](https://open.spotify.com/artist/6XbUbADSRCbfgMjYrPGfbN), [B\-Element](https://open.spotify.com/artist/2sSKCGvBkxCr5LOXxYGtqa) | [Hold On](https://open.spotify.com/album/1VOPosTnkaFRJLTpfNh9MF) | 2:34 | 2022-09-20 | 2022-11-09 |
 | [Hope](https://open.spotify.com/track/6RJ5fDIAfT6edvjVgp3Wbh) | [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK), [MMT](https://open.spotify.com/artist/03KOcUfBqKsh9spQfwyoF4) | [Hope](https://open.spotify.com/album/3kEjGrGuSJUWjcE8tvm4rK) | 3:52 | 2022-09-20 | 2023-02-15 |
@@ -119,7 +121,7 @@
 | [Ouli Liya](https://open.spotify.com/track/5sk6R2149eT82gPVQI5vSY) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [Ouli Liya](https://open.spotify.com/album/2sqrTDtjVrLRG2qradXlHQ) | 3:21 | 2023-01-17 |  |
 | [Peace](https://open.spotify.com/track/7m3rPFw7n8NsY8Ik5M2KZ4) | [musovrin](https://open.spotify.com/artist/1FExNWwycNVGZnfCMgJUky), [Beast](https://open.spotify.com/artist/66ma6gPxwiuzsKQZHtFb5b), [Headless Monk](https://open.spotify.com/artist/3JmGgA4fzifQjSJ5a4bMLI) | [Peace](https://open.spotify.com/album/2N2HH3ZQGDbWE4evh5K9Dv) | 3:07 | 2022-11-08 | 2023-03-08 |
 | [Pears](https://open.spotify.com/track/3jETj9f1MNRF1Dsna9qfXj) | [Mission To The Moon](https://open.spotify.com/artist/6mPXYU5tU46bVYpiXYdxM7) | [Pears](https://open.spotify.com/album/7mYWOIIQ1n4Jzj5PRzno6x) | 3:36 | 2023-01-17 | 2023-03-15 |
-| [Popular](https://open.spotify.com/track/5cojeuxRNPvDBGrSwlUwqI) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Popular](https://open.spotify.com/album/4HpPrnztMTNL0jWNq2aV4k) | 2:06 | 2023-04-05 |  |
+| [Popular](https://open.spotify.com/track/5cojeuxRNPvDBGrSwlUwqI) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Popular](https://open.spotify.com/album/4HpPrnztMTNL0jWNq2aV4k) | 2:06 | 2023-04-05 | 2023-04-27 |
 | [Pura Vida](https://open.spotify.com/track/5UVeoZzAMgosQFFdsfGbBM) | [Nader Khalil](https://open.spotify.com/artist/1rBA9ijYVAVzqbBCet7hDi) | [Nader Khalil 2](https://open.spotify.com/album/4LZsJJZQ6SqqxGp5ukMnEj) | 2:13 | 2022-09-20 | 2022-10-12 |
 | [Purity](https://open.spotify.com/track/5DR6vuwwCEBg9kAgJB2zG8) | [Nour](https://open.spotify.com/artist/5Sn6yiM4zeSnszRUMQxfo0) | [Purity](https://open.spotify.com/album/2tHTsIjHACxiXGtN7Hi2aC) | 7:54 | 2022-10-04 | 2022-12-14 |
 | [QAAR A](https://open.spotify.com/track/0Eh0KuFNOQ0gPilhJzZRXz) | [Muskila](https://open.spotify.com/artist/1iBiS6r5HvyEALDYfkWAQm) | [QAAR A](https://open.spotify.com/album/6mCMQFns9e0g2civC8khcB) | 4:00 | 2023-03-01 |  |
@@ -141,8 +143,8 @@
 | [Summer Falls](https://open.spotify.com/track/3t7Y0G3ouDolA344PslWTh) | [TheKiddEast](https://open.spotify.com/artist/6QBV3lqWQWduZNIdi4yrhG) | [Summer Falls](https://open.spotify.com/album/6lwBaJtr0PeYJNuSNoBAn0) | 2:48 | 2022-09-20 | 2022-12-14 |
 | [Superman](https://open.spotify.com/track/4z4NyCBMVY1OO3xl7pkOrA) | [Jindi](https://open.spotify.com/artist/4GWb4m8ZhkRkaJvpFD9agr) | [Superman](https://open.spotify.com/album/3y1k1HcvKNQ1PfGasSCLLn) | 2:58 | 2022-09-20 | 2022-10-19 |
 | [Taqa](https://open.spotify.com/track/6m6vWsgO06r0MvxIbs1rhN) | [Swani](https://open.spotify.com/artist/0MMq3ksIvp1PtO6nYZOToA) | [Taqa](https://open.spotify.com/album/4uKTZ5zdxhhkIQTIjrQr6x) | 2:30 | 2022-10-25 | 2023-01-18 |
-| [Tenderness](https://open.spotify.com/track/2dlMM8ibQesE507TLSys6f) | [Postcards](https://open.spotify.com/artist/4sYpDKlRs59ghPkLeg5kHe) | [Tenderness](https://open.spotify.com/album/0NlHvrJ3gwHFL4FcYY3HbC) | 2:42 | 2023-04-11 |  |
-| [The Storm](https://open.spotify.com/track/3iBfi3r5E7gtMOxKUapFnk) | [Interbellum](https://open.spotify.com/artist/4jKRYWPmm8hBIqRrD0wFbO) | [Our House Is Very Beautiful at Night](https://open.spotify.com/album/4FxKW6gUtwVVjXR843TLla) | 3:22 | 2023-04-11 |  |
+| [Tenderness](https://open.spotify.com/track/2dlMM8ibQesE507TLSys6f) | [Postcards](https://open.spotify.com/artist/4sYpDKlRs59ghPkLeg5kHe) | [Tenderness](https://open.spotify.com/album/0NlHvrJ3gwHFL4FcYY3HbC) | 2:42 | 2023-04-11 | 2023-04-27 |
+| [The Storm](https://open.spotify.com/track/3iBfi3r5E7gtMOxKUapFnk) | [Interbellum](https://open.spotify.com/artist/4jKRYWPmm8hBIqRrD0wFbO) | [Our House Is Very Beautiful at Night](https://open.spotify.com/album/4FxKW6gUtwVVjXR843TLla) | 3:22 | 2023-04-11 | 2023-04-27 |
 | [The Tourist / The Local](https://open.spotify.com/track/1v5LAYzi7wmsMXeZv57tHJ) | [Marwan Elfakharany](https://open.spotify.com/artist/2oG1c2PmDXKTLMofwwgTxp) | [Chapter 2: Love Come Get Me](https://open.spotify.com/album/1ZeizNe18uXDvzywCQ0tG3) | 4:44 | 2023-03-14 |  |
 | [The Woods](https://open.spotify.com/track/2kmfh6SiWGNGscn1z7RlUT) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf) | [The Woods](https://open.spotify.com/album/2k0fEyChPaC0qsSYXc0UqK) | 3:03 | 2022-09-20 | 2023-03-22 |
 | [Theeb](https://open.spotify.com/track/1LiiKjHg9vlk3592zUThYM) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Theeb](https://open.spotify.com/album/4G7QlmmtmBm8MZSZ0FgNbQ) | 2:06 | 2022-09-20 | 2022-09-28 |
@@ -152,6 +154,7 @@
 | [Tmsa7](https://open.spotify.com/track/1FC0frU9acXOQvkJRGeAD2) | [Fodi](https://open.spotify.com/artist/4fhdYn7sQME3sJkPuCpYZE) | [Tmsa7](https://open.spotify.com/album/0H3iSplT0QyZQxoJ3v9NI8) | 2:08 | 2023-03-21 |  |
 | [Uncovered](https://open.spotify.com/track/59aIHEHhiwvnlGCmwumfgH) | [Abdu B](https://open.spotify.com/artist/0ZOnIEMRVWqPDuqzJTkGbE) | [Uncovered](https://open.spotify.com/album/66ZJVQmOhlQAcF7yUDLtXg) | 2:32 | 2023-02-14 |  |
 | [waht if\_6](https://open.spotify.com/track/02EIlu5QhjNIeLnwlQENS6) | [artistbasm](https://open.spotify.com/artist/4L9VftgkqPPV0KXjzM0SIh) | [waht if\_6](https://open.spotify.com/album/4uJ4jXQ3Ru5yTxCdS9A9Tf) | 1:31 | 2023-04-05 |  |
+| [Wana](https://open.spotify.com/track/6ygaR0OCPjB2YdBbbNKvss) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo) | [Wana](https://open.spotify.com/album/4Z7upV3DSB9yslpIYDRNdm) | 3:39 | 2023-04-26 |  |
 | [What I Mean](https://open.spotify.com/track/1mCI8PLlOgAIIJ9gSPj84v) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j) | [What I Mean](https://open.spotify.com/album/61LjVnSbmGrXoZJz8RRaQY) | 2:49 | 2022-11-08 | 2023-04-05 |
 | [Who Pulled Up? \(feat\. Jeed\)](https://open.spotify.com/track/4DkNc7OeBsd4a95Sb86Xnt) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF) | [Who Pulled Up? \(feat\. Jeed\)](https://open.spotify.com/album/7FYFckeLTVNxOzCHsMLuNC) | 2:18 | 2022-09-20 | 2022-09-28 |
 | [Words](https://open.spotify.com/track/675Tylxj87tk6TGGubnmT4) | [Nora Toutain](https://open.spotify.com/artist/7LXP2eZLFZYdpUi29xOF1A) | [Words](https://open.spotify.com/album/3qUeC7YPgYsC38OjSkZ7vK) | 6:37 | 2022-09-20 | 2022-10-26 |

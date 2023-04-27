@@ -2851,6 +2851,24 @@
     },
     {
       "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145893,
+      "name": "Salad Days",
+      "url": "https://open.spotify.com/track/5VdaMUzoQetwxQwtWAd022"
+    },
+    {
+      "album": {
         "name": "Schvitz",
         "url": "https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI"
       },
@@ -3088,6 +3106,28 @@
       "duration_ms": 25853,
       "name": "State of the Nation",
       "url": "https://open.spotify.com/track/4FQVCrUvtl4yRJd5bWpupn"
+    },
+    {
+      "album": {
+        "name": "Ultima II Massage",
+        "url": "https://open.spotify.com/album/4BBxAB26ofkXvBmlatzTpW"
+      },
+      "artists": [
+        {
+          "name": "TOBACCO",
+          "url": "https://open.spotify.com/artist/3ikKyCOrsMeANi0d5u8BCR"
+        },
+        {
+          "name": "Notrabel",
+          "url": "https://open.spotify.com/artist/3UYripz5TaFWumKpWjVXQw"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172378,
+      "name": "Streaker (feat. Notrabel)",
+      "url": "https://open.spotify.com/track/2hJkzU5Ry3CDL3N9ad8fRc"
     },
     {
       "album": {

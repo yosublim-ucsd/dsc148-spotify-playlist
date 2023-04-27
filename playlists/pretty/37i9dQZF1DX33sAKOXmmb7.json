@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 43782,
+  "num_followers": 43879,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMGRkNDhhMDg2MjgxYmEyZDUwOTU0NTMxZTM5MzBlNTg3",
+  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMDRlYTgzMjBjYWJjMDdmODg0NTM1MDM4ODBiM2Y2MWE1",
   "tracks": [
     {
       "added_at": "2022-02-04 21:53:01",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Stay Gold",
-        "url": "https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 215493,
-      "name": "My Silver Lining",
-      "url": "https://open.spotify.com/track/5BkNCuxzzid0gz9sx3NNbX"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Woodgate, NY",
         "url": "https://open.spotify.com/album/4HCiNoFBb2vFvySaSW2JBs"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 214335,
       "name": "From Gold",
       "url": "https://open.spotify.com/track/3ePd4K8tcdfr7KmbuOTrKK"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Stay Gold",
+        "url": "https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 215493,
+      "name": "My Silver Lining",
+      "url": "https://open.spotify.com/track/5BkNCuxzzid0gz9sx3NNbX"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Deadeye",
-        "url": "https://open.spotify.com/album/2jqeCy5ydYWWWYB11VMS2V"
-      },
-      "artists": [
-        {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
-        }
-      ],
-      "duration_ms": 190120,
-      "name": "Bees",
-      "url": "https://open.spotify.com/track/13otFWMHR8dlJ73XnSEW8y"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Prologue",
         "url": "https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 330773,
       "name": "Michigan",
       "url": "https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Deadeye",
+        "url": "https://open.spotify.com/album/2jqeCy5ydYWWWYB11VMS2V"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        }
+      ],
+      "duration_ms": 190120,
+      "name": "Bees",
+      "url": "https://open.spotify.com/track/13otFWMHR8dlJ73XnSEW8y"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Lost On The River (Deluxe)",
-        "url": "https://open.spotify.com/album/2d25Dhlk9EcJjrW0K0tnV9"
-      },
-      "artists": [
-        {
-          "name": "The New Basement Tapes",
-          "url": "https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK"
-        }
-      ],
-      "duration_ms": 244426,
-      "name": "Kansas City",
-      "url": "https://open.spotify.com/track/2JTBNz8VZx7i38pcPROWuz"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Little Giant",
         "url": "https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 241720,
       "name": "Tiger Striped Sky",
       "url": "https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Lost On The River (Deluxe)",
+        "url": "https://open.spotify.com/album/2d25Dhlk9EcJjrW0K0tnV9"
+      },
+      "artists": [
+        {
+          "name": "The New Basement Tapes",
+          "url": "https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK"
+        }
+      ],
+      "duration_ms": 244426,
+      "name": "Kansas City",
+      "url": "https://open.spotify.com/track/2JTBNz8VZx7i38pcPROWuz"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Colder Heavens EP",
-        "url": "https://open.spotify.com/album/5OxtmtnqvwogIYMdo2h4eQ"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 273893,
-      "name": "Colder Heavens",
-      "url": "https://open.spotify.com/track/1wwKY8ICsV9wiCFMpdhPrr"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Sense of Home",
         "url": "https://open.spotify.com/album/1MggtpuaGB0IPfFUYaY40U"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 273560,
       "name": "Chateau",
       "url": "https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Colder Heavens EP",
+        "url": "https://open.spotify.com/album/5OxtmtnqvwogIYMdo2h4eQ"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 273893,
+      "name": "Colder Heavens",
+      "url": "https://open.spotify.com/track/1wwKY8ICsV9wiCFMpdhPrr"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Undercurrent",
-        "url": "https://open.spotify.com/album/0MXtcpjNSnK68Xpv5rXnrc"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/3CiZBMNMkRm8CzPD4ZLM6C"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "After Rain",
         "url": "https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 294000,
       "name": "After Rain",
       "url": "https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Undercurrent",
+        "url": "https://open.spotify.com/album/0MXtcpjNSnK68Xpv5rXnrc"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 154200,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/3CiZBMNMkRm8CzPD4ZLM6C"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca"
-      },
-      "artists": [
-        {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
-        }
-      ],
-      "duration_ms": 204506,
-      "name": "Mi Negrita",
-      "url": "https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Ancient Transition",
         "url": "https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 244120,
       "name": "Our Remains",
       "url": "https://open.spotify.com/track/3GLMvFjzOgJ3XGphEEVEPv"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "duration_ms": 204506,
+      "name": "Mi Negrita",
+      "url": "https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 280293,
-      "name": "Song In My Head",
-      "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Turn Out the Lights",
         "url": "https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O"
       },
@@ -1783,18 +1767,18 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "The King Is Dead",
-        "url": "https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F"
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
       "artists": [
         {
-          "name": "The Decemberists",
-          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 256560,
-      "name": "Don't Carry It All",
-      "url": "https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5"
+      "duration_ms": 280293,
+      "name": "Song In My Head",
+      "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1811,6 +1795,22 @@
       "duration_ms": 265096,
       "name": "Beloved",
       "url": "https://open.spotify.com/track/1l1TLPILxVipEsTsSho4u3"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "The King Is Dead",
+        "url": "https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F"
+      },
+      "artists": [
+        {
+          "name": "The Decemberists",
+          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
+        }
+      ],
+      "duration_ms": 256560,
+      "name": "Don't Carry It All",
+      "url": "https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1879,18 +1879,18 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Joan Shelley",
-        "url": "https://open.spotify.com/album/4VHpVi7PChqkW5ydU9yX8n"
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
       "artists": [
         {
-          "name": "Joan Shelley",
-          "url": "https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw"
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
         }
       ],
-      "duration_ms": 194066,
-      "name": "Where I\u2019ll Find You",
-      "url": "https://open.spotify.com/track/3HAhYAuSLAxYAMSxFjx29f"
+      "duration_ms": 222293,
+      "name": "Spirit Cold",
+      "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1911,18 +1911,18 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+        "name": "Joan Shelley",
+        "url": "https://open.spotify.com/album/4VHpVi7PChqkW5ydU9yX8n"
       },
       "artists": [
         {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+          "name": "Joan Shelley",
+          "url": "https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw"
         }
       ],
-      "duration_ms": 222293,
-      "name": "Spirit Cold",
-      "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
+      "duration_ms": 194066,
+      "name": "Where I\u2019ll Find You",
+      "url": "https://open.spotify.com/track/3HAhYAuSLAxYAMSxFjx29f"
     },
     {
       "added_at": "2022-02-04 21:53:01",

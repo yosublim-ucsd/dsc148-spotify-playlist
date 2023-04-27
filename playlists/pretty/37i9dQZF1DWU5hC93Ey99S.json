@@ -1,12 +1,12 @@
 {
   "description": "What in the stutter/rainy/tremolo house list did I just create??",
-  "num_followers": 3853,
+  "num_followers": 3900,
   "original_name": "Emotional Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA2Njk0NywwMDAwMDAwMGRhZDYzM2ZhNWM2NmEwNmQyMjNkNWQzNjFlZTdjMjBm",
+  "snapshot_id": "MTY4MjA2Njk0NywwMDAwMDAwMDczMGRkMzE4MmVlZGQxZWE5YzlmMzAwYmFlOTY0ODNj",
   "tracks": [
     {
       "added_at": "2023-04-20 23:00:00",
@@ -419,38 +419,6 @@
     {
       "added_at": "2023-04-20 23:00:00",
       "album": {
-        "name": "There's Another Life 4 U / So Long",
-        "url": "https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 213987,
-      "name": "There's Another Life 4 U",
-      "url": "https://open.spotify.com/track/4LiZi2fbEIxcC9tZUtu0WW"
-    },
-    {
-      "added_at": "2023-04-20 23:00:00",
-      "album": {
-        "name": "Paperplanes",
-        "url": "https://open.spotify.com/album/2trMonrsiuBQX7tE9ZiA6V"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        }
-      ],
-      "duration_ms": 210234,
-      "name": "Paperplanes",
-      "url": "https://open.spotify.com/track/3JWKhPP6muh6tjR8b7PDOb"
-    },
-    {
-      "added_at": "2023-04-20 23:00:00",
-      "album": {
         "name": "Run Till Dark (with Now United) (Arcando Remix)",
         "url": "https://open.spotify.com/album/3CndXGZ1kldW1imbZb3NAG"
       },
@@ -471,6 +439,38 @@
       "duration_ms": 186870,
       "name": "Run Till Dark (with Now United) (Arcando Remix)",
       "url": "https://open.spotify.com/track/6D9sUOLZ8BW9HVQoiKh3Pb"
+    },
+    {
+      "added_at": "2023-04-20 23:00:00",
+      "album": {
+        "name": "Paperplanes",
+        "url": "https://open.spotify.com/album/2trMonrsiuBQX7tE9ZiA6V"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "duration_ms": 210234,
+      "name": "Paperplanes",
+      "url": "https://open.spotify.com/track/3JWKhPP6muh6tjR8b7PDOb"
+    },
+    {
+      "added_at": "2023-04-20 23:00:00",
+      "album": {
+        "name": "There's Another Life 4 U / So Long",
+        "url": "https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 213987,
+      "name": "There's Another Life 4 U",
+      "url": "https://open.spotify.com/track/4LiZi2fbEIxcC9tZUtu0WW"
     },
     {
       "added_at": "2023-04-20 23:00:00",
@@ -525,22 +525,6 @@
       "url": "https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv"
     },
     {
-      "added_at": "2023-04-20 23:00:00",
-      "album": {
-        "name": "No Sympathy",
-        "url": "https://open.spotify.com/album/48140dThJ2fdFQpcvO0x5B"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 258254,
-      "name": "No Sympathy",
-      "url": "https://open.spotify.com/track/4wySt0Tw3gCiybsPeXScGA"
-    },
-    {
       "added_at": "2023-04-21 08:49:07",
       "album": {
         "name": "Little Planets - Remix",
@@ -563,18 +547,34 @@
     {
       "added_at": "2023-04-20 23:00:00",
       "album": {
-        "name": "See You / Feel So Lonely",
-        "url": "https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q"
+        "name": "No Sympathy",
+        "url": "https://open.spotify.com/album/48140dThJ2fdFQpcvO0x5B"
       },
       "artists": [
         {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
         }
       ],
-      "duration_ms": 283953,
-      "name": "See You",
-      "url": "https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD"
+      "duration_ms": 258254,
+      "name": "No Sympathy",
+      "url": "https://open.spotify.com/track/4wySt0Tw3gCiybsPeXScGA"
+    },
+    {
+      "added_at": "2023-04-20 23:00:00",
+      "album": {
+        "name": "So Much In Love",
+        "url": "https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "So Much In Love",
+      "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
     },
     {
       "added_at": "2023-04-20 23:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-04-20 23:00:00",
       "album": {
-        "name": "So Much In Love",
-        "url": "https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        }
-      ],
-      "duration_ms": 178453,
-      "name": "So Much In Love",
-      "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
-    },
-    {
-      "added_at": "2023-04-20 23:00:00",
-      "album": {
         "name": "Nothing Is Easy EP",
         "url": "https://open.spotify.com/album/4nm8MRARxw1YRlVX8m2BBW"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 191328,
       "name": "Nothing Is Easy",
       "url": "https://open.spotify.com/track/5iKzJujKsuWtQcZ1JqrRIH"
+    },
+    {
+      "added_at": "2023-04-20 23:00:00",
+      "album": {
+        "name": "See You / Feel So Lonely",
+        "url": "https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 283953,
+      "name": "See You",
+      "url": "https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD"
     },
     {
       "added_at": "2023-04-20 23:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-04-20 23:00:00",
       "album": {
+        "name": "Woods",
+        "url": "https://open.spotify.com/album/2z3CV9qqCvIYvrM6pcrp1F"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 262015,
+      "name": "Save a Soul",
+      "url": "https://open.spotify.com/track/7bDDYji600PxR0F921ctVN"
+    },
+    {
+      "added_at": "2023-04-20 23:00:00",
+      "album": {
         "name": "Deny It",
         "url": "https://open.spotify.com/album/6lIxoZV2okhpBngVJvXi8i"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 182479,
       "name": "WASTED ON ME",
       "url": "https://open.spotify.com/track/6tXebnSmy1ZEZANFRHRoCO"
-    },
-    {
-      "added_at": "2023-04-20 23:00:00",
-      "album": {
-        "name": "Woods",
-        "url": "https://open.spotify.com/album/2z3CV9qqCvIYvrM6pcrp1F"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 262015,
-      "name": "Save a Soul",
-      "url": "https://open.spotify.com/track/7bDDYji600PxR0F921ctVN"
     },
     {
       "added_at": "2023-04-20 23:00:00",

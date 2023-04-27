@@ -2,28 +2,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 ### [Fresh Finds Arabia](https://open.spotify.com/playlist/37i9dQZF1DWUTC08ZxLjSQ)
 
-> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Koteri\. Artwork: Isu Kim
+> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: nour\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,698 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,791 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ode to life](https://open.spotify.com/track/2qdDZJm6QkRLQfQ7ZmVCJc) | [Baddou](https://open.spotify.com/artist/3vMxNq3AUuB023zM1le7A9) | [Ode to life](https://open.spotify.com/album/1Drj3fSdeoRcfLOY5vGcQq) | 4:34 |
-| 2 | [Heat](https://open.spotify.com/track/42v0E7B6vsNtls6UrzC9ui) | [KATARYA](https://open.spotify.com/artist/0NebVdki9sW4rcxCBnBfaV) | [Heat](https://open.spotify.com/album/2oAyoiJZwHEQWDrltRnJIz) | 2:45 |
-| 3 | [Popular](https://open.spotify.com/track/5cojeuxRNPvDBGrSwlUwqI) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Popular](https://open.spotify.com/album/4HpPrnztMTNL0jWNq2aV4k) | 2:06 |
-| 4 | [Something I Need](https://open.spotify.com/track/5j3so8OA4ddWtvObRxy0zm) | [Koteri](https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI) | [Something I Need](https://open.spotify.com/album/467mQuu2y4ISHnWMAMOHAX) | 3:36 |
-| 5 | [Fallen Angels](https://open.spotify.com/track/2Ppk0QHM7KqDzc9vOqbpH2) | [MXWI](https://open.spotify.com/artist/7JfUaRJCsp1gLk2wiX6uNI) | [Fallen Angels](https://open.spotify.com/album/0ZjEgvsn7lMR0iaqT3aRJd) | 2:56 |
-| 6 | [waht if\_6](https://open.spotify.com/track/02EIlu5QhjNIeLnwlQENS6) | [artistbasm](https://open.spotify.com/artist/4L9VftgkqPPV0KXjzM0SIh) | [waht if\_6](https://open.spotify.com/album/4uJ4jXQ3Ru5yTxCdS9A9Tf) | 1:31 |
-| 7 | [Make You Happier](https://open.spotify.com/track/6xVx5EPRRQ75DuNq24ghkt) | [emisa](https://open.spotify.com/artist/2HBd9g5slj3HAi22gY9L6G) | [Make You Happier](https://open.spotify.com/album/6prbjVMCvjEwKP42VJ5jNY) | 2:17 |
-| 8 | [Open the Pit](https://open.spotify.com/track/0wH4CxUFXPy8QjjJLZHass) | [Nader Khalil](https://open.spotify.com/artist/1rBA9ijYVAVzqbBCet7hDi) | [Open the Pit](https://open.spotify.com/album/4IV6J4InJdrbAFVva0OtmP) | 1:56 |
-| 9 | [Tenderness](https://open.spotify.com/track/2dlMM8ibQesE507TLSys6f) | [Postcards](https://open.spotify.com/artist/4sYpDKlRs59ghPkLeg5kHe) | [Tenderness](https://open.spotify.com/album/0NlHvrJ3gwHFL4FcYY3HbC) | 2:42 |
-| 10 | [Change Tomorrow](https://open.spotify.com/track/0dItuN1tugzBIXMttqsuY7) | [Jay Abo](https://open.spotify.com/artist/1Uad5DOAyWNd3yTUsF6mP7) | [Change Tomorrow](https://open.spotify.com/album/65SFAWxelR0yqqgICyx6Mn) | 4:01 |
-| 11 | [Tmsa7](https://open.spotify.com/track/1FC0frU9acXOQvkJRGeAD2) | [Fodi](https://open.spotify.com/artist/4fhdYn7sQME3sJkPuCpYZE) | [Tmsa7](https://open.spotify.com/album/0H3iSplT0QyZQxoJ3v9NI8) | 2:08 |
-| 12 | [HYSTERIA](https://open.spotify.com/track/0GBdCAzoO1nQdTl0ajJCul) | [PAPII](https://open.spotify.com/artist/2LGrYR15SmiRsIGQlEnRQs) | [HYSTERIA](https://open.spotify.com/album/4EKOsj9YWElPfGuDNaxM48) | 2:28 |
-| 13 | [Freecutter](https://open.spotify.com/track/25dZ0pb2Jut2LuDu5t1x8f) | [Taymour Khajah](https://open.spotify.com/artist/1MnMA1XfPZlCBx6i7VC3OP) | [Freecutter](https://open.spotify.com/album/373pGsj37jfjrtozC8AT89) | 3:40 |
-| 14 | [Queen](https://open.spotify.com/track/75GOJlE9TOU8LeHdMY5gba) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Queen](https://open.spotify.com/album/7d9o63pw979XngrDlHRrey) | 3:05 |
-| 15 | [The Tourist / The Local](https://open.spotify.com/track/1v5LAYzi7wmsMXeZv57tHJ) | [Marwan Elfakharany](https://open.spotify.com/artist/2oG1c2PmDXKTLMofwwgTxp) | [Chapter 2: Love Come Get Me](https://open.spotify.com/album/1ZeizNe18uXDvzywCQ0tG3) | 4:44 |
-| 16 | [The Storm](https://open.spotify.com/track/3iBfi3r5E7gtMOxKUapFnk) | [Interbellum](https://open.spotify.com/artist/4jKRYWPmm8hBIqRrD0wFbO) | [Our House Is Very Beautiful at Night](https://open.spotify.com/album/4FxKW6gUtwVVjXR843TLla) | 3:22 |
+| 1 | [Wana](https://open.spotify.com/track/6ygaR0OCPjB2YdBbbNKvss) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo) | [Wana](https://open.spotify.com/album/4Z7upV3DSB9yslpIYDRNdm) | 3:39 |
+| 2 | [Hindsight](https://open.spotify.com/track/1rOJRgBtDhbLpajg2j7U6h) | [BASYL](https://open.spotify.com/artist/2YWgtNh8oR97B93ZTpX0ol) | [Hindsight](https://open.spotify.com/album/54xZz8LpOA9gaYQLPRcE6M) | 2:37 |
+| 3 | [Complicated](https://open.spotify.com/track/12tZyFvHuaiIbP80ukDWH5) | [Katya](https://open.spotify.com/artist/4n6DGGztXErh3kCGC88aXy) | [Complicated](https://open.spotify.com/album/5S7iMl6Wfl4hHMKTzNxLPw) | 3:34 |
+| 4 | [Ode to life](https://open.spotify.com/track/2qdDZJm6QkRLQfQ7ZmVCJc) | [Baddou](https://open.spotify.com/artist/3vMxNq3AUuB023zM1le7A9) | [Ode to life](https://open.spotify.com/album/1Drj3fSdeoRcfLOY5vGcQq) | 4:34 |
+| 5 | [Heat](https://open.spotify.com/track/42v0E7B6vsNtls6UrzC9ui) | [KATARYA](https://open.spotify.com/artist/0NebVdki9sW4rcxCBnBfaV) | [Heat](https://open.spotify.com/album/2oAyoiJZwHEQWDrltRnJIz) | 2:45 |
+| 6 | [Something I Need](https://open.spotify.com/track/5j3so8OA4ddWtvObRxy0zm) | [Koteri](https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI) | [Something I Need](https://open.spotify.com/album/467mQuu2y4ISHnWMAMOHAX) | 3:36 |
+| 7 | [Fallen Angels](https://open.spotify.com/track/2Ppk0QHM7KqDzc9vOqbpH2) | [MXWI](https://open.spotify.com/artist/7JfUaRJCsp1gLk2wiX6uNI) | [Fallen Angels](https://open.spotify.com/album/0ZjEgvsn7lMR0iaqT3aRJd) | 2:56 |
+| 8 | [waht if\_6](https://open.spotify.com/track/02EIlu5QhjNIeLnwlQENS6) | [artistbasm](https://open.spotify.com/artist/4L9VftgkqPPV0KXjzM0SIh) | [waht if\_6](https://open.spotify.com/album/4uJ4jXQ3Ru5yTxCdS9A9Tf) | 1:31 |
+| 9 | [Make You Happier](https://open.spotify.com/track/6xVx5EPRRQ75DuNq24ghkt) | [emisa](https://open.spotify.com/artist/2HBd9g5slj3HAi22gY9L6G) | [Make You Happier](https://open.spotify.com/album/6prbjVMCvjEwKP42VJ5jNY) | 2:17 |
+| 10 | [Open the Pit](https://open.spotify.com/track/0wH4CxUFXPy8QjjJLZHass) | [Nader Khalil](https://open.spotify.com/artist/1rBA9ijYVAVzqbBCet7hDi) | [Open the Pit](https://open.spotify.com/album/4IV6J4InJdrbAFVva0OtmP) | 1:56 |
+| 11 | [Change Tomorrow](https://open.spotify.com/track/0dItuN1tugzBIXMttqsuY7) | [Jay Abo](https://open.spotify.com/artist/1Uad5DOAyWNd3yTUsF6mP7) | [Change Tomorrow](https://open.spotify.com/album/65SFAWxelR0yqqgICyx6Mn) | 4:01 |
+| 12 | [Tmsa7](https://open.spotify.com/track/1FC0frU9acXOQvkJRGeAD2) | [Fodi](https://open.spotify.com/artist/4fhdYn7sQME3sJkPuCpYZE) | [Tmsa7](https://open.spotify.com/album/0H3iSplT0QyZQxoJ3v9NI8) | 2:08 |
+| 13 | [HYSTERIA](https://open.spotify.com/track/0GBdCAzoO1nQdTl0ajJCul) | [PAPII](https://open.spotify.com/artist/2LGrYR15SmiRsIGQlEnRQs) | [HYSTERIA](https://open.spotify.com/album/4EKOsj9YWElPfGuDNaxM48) | 2:28 |
+| 14 | [Freecutter](https://open.spotify.com/track/25dZ0pb2Jut2LuDu5t1x8f) | [Taymour Khajah](https://open.spotify.com/artist/1MnMA1XfPZlCBx6i7VC3OP) | [Freecutter](https://open.spotify.com/album/373pGsj37jfjrtozC8AT89) | 3:40 |
+| 15 | [Queen](https://open.spotify.com/track/75GOJlE9TOU8LeHdMY5gba) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Queen](https://open.spotify.com/album/7d9o63pw979XngrDlHRrey) | 3:05 |
+| 16 | [The Tourist / The Local](https://open.spotify.com/track/1v5LAYzi7wmsMXeZv57tHJ) | [Marwan Elfakharany](https://open.spotify.com/artist/2oG1c2PmDXKTLMofwwgTxp) | [Chapter 2: Love Come Get Me](https://open.spotify.com/album/1ZeizNe18uXDvzywCQ0tG3) | 4:44 |
 | 17 | [In My Head](https://open.spotify.com/track/6ijfznxnQ4bxt3aESRanLG) | [NOVO](https://open.spotify.com/artist/430UrfL5PTV5Y5elsZtq6a) | [In My Head](https://open.spotify.com/album/5p5RkbJwuXyM5lfmgfoPF6) | 2:35 |
 | 18 | [How stupid is this?](https://open.spotify.com/track/3dcRnj7wvnhpSdEE3fyTzL) | [The C!rcle](https://open.spotify.com/artist/0O2a7rwD6h8c5atrT84A5F) | [How stupid is this?](https://open.spotify.com/album/3ZxRnhdZ5hJbrrZfPveQDL) | 4:32 |
 | 19 | [3ALA BALI](https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [3ALA BALI](https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 49 | [Theeba](https://open.spotify.com/track/6d5jCujuJOwybONWCJGulU) | [Wiha](https://open.spotify.com/artist/4OObxAaYEWxmJD3dKQjKV0) | [Theeba](https://open.spotify.com/album/3PqWZoMfDSxPD3m3gMI1am) | 3:17 |
 | 50 | [Loom](https://open.spotify.com/track/1Q1PWZvKU0kvXZSc6B1LJW) | [Noul](https://open.spotify.com/artist/2eBVLC3ePF9HO0Ew4snCNq) | [Loom](https://open.spotify.com/album/0uNojfPWQ6REBGYSjWtBcp) | 5:55 |
 
-Snapshot ID: `MTY4MjEzMDc0NSwwMDAwMDAwMDc2YTFjYmYzNjE4YzY5NTE1OWZjZGEyNWViMzE4Mjlh`
+Snapshot ID: `MTY4MjQ3MjcwMCwwMDAwMDAwMDZmODBmMjQwMjVkMjNkNDc5M2JmMzA5MTA3NmVlMjAw`

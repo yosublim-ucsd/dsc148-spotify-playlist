@@ -1,12 +1,12 @@
 {
   "description": "We're here to provide some sonic solace for your grief. ",
-  "num_followers": 143047,
+  "num_followers": 143058,
   "original_name": "Coping With Loss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzODY5MCwwMDAwMDAwMDU2ZTI3YzczNWYyODYxYjg0ODRmNTVmZjY2NDNmOWNi",
+  "snapshot_id": "MTY2MDIzODY5MCwwMDAwMDAwMDlkMjY2ZWZlZDA3NzA5ZDg2ODQwZjE0YzZkMzExYTFh",
   "tracks": [
     {
       "added_at": "2022-02-16 19:49:49",
@@ -75,6 +75,22 @@
     {
       "added_at": "2022-02-16 19:49:49",
       "album": {
+        "name": "Drops Of Jupiter",
+        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "Drops of Jupiter (Tell Me)",
+      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
+    },
+    {
+      "added_at": "2022-02-16 19:49:49",
+      "album": {
         "name": "Title (Deluxe)",
         "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 225053,
       "name": "Like I'm Gonna Lose You (feat. John Legend)",
       "url": "https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW"
-    },
-    {
-      "added_at": "2022-02-16 19:49:49",
-      "album": {
-        "name": "Drops Of Jupiter",
-        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "Drops of Jupiter (Tell Me)",
-      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
     },
     {
       "added_at": "2022-02-16 19:49:49",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-02-16 19:49:49",
       "album": {
-        "name": "Wednesday Morning, 3 A.M.",
-        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 185413,
-      "name": "The Sound of Silence - Acoustic Version",
-      "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
-    },
-    {
-      "added_at": "2022-02-16 19:49:49",
-      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 212040,
       "name": "Make You Feel My Love",
       "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
+    },
+    {
+      "added_at": "2022-02-16 19:49:49",
+      "album": {
+        "name": "Wednesday Morning, 3 A.M.",
+        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 185413,
+      "name": "The Sound of Silence - Acoustic Version",
+      "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
     },
     {
       "added_at": "2022-02-16 19:49:49",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-02-16 19:49:49",
       "album": {
-        "name": "Alone In Iz World",
-        "url": "https://open.spotify.com/album/4aM85igbrBcoRZVt7L11Zn"
-      },
-      "artists": [
-        {
-          "name": "Israel Kamakawiwo'ole",
-          "url": "https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Over the Rainbow",
-      "url": "https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV"
-    },
-    {
-      "added_at": "2022-02-16 19:49:49",
-      "album": {
         "name": "You Don't Mess Around With Jim",
         "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 146175,
       "name": "Time in a Bottle",
       "url": "https://open.spotify.com/track/561F1zqRwGPCTMRsLsXVtL"
+    },
+    {
+      "added_at": "2022-02-16 19:49:49",
+      "album": {
+        "name": "Alone In Iz World",
+        "url": "https://open.spotify.com/album/4aM85igbrBcoRZVt7L11Zn"
+      },
+      "artists": [
+        {
+          "name": "Israel Kamakawiwo'ole",
+          "url": "https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Over the Rainbow",
+      "url": "https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV"
     },
     {
       "added_at": "2022-02-16 19:49:49",

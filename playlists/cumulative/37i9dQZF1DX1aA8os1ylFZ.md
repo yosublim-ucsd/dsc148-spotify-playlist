@@ -4,7 +4,7 @@
 
 > get into your feels with some r&b magic
 
-330 songs - 17 hr 23 min
+331 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Fall in Love Again](https://open.spotify.com/track/4vf1WcZayO3JBuVwSS9tzL) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Fall In Love Again](https://open.spotify.com/album/3EJkbd8po2CHa5RXhCIWcr) | 2:42 | 2021-12-16 | 2022-07-29 |
 | [Fallin](https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA) | 2:42 | 2023-01-19 |  |
 | [Fantasy \(feat\. Don Toliver\)](https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:58 | 2023-03-02 |  |
-| [Fatal Attraction](https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Fatal Attraction](https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT) | 3:16 | 2023-03-23 |  |
+| [Fatal Attraction](https://open.spotify.com/track/3y9JbvYZAhVeQsAECrKAgt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:16 | 2023-04-23 |  |
+| [Fatal Attraction](https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Fatal Attraction](https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT) | 3:16 | 2023-03-23 | 2023-04-27 |
 | [Fire](https://open.spotify.com/track/6G9LJpRVIm1ClUpHN1qDhw) | [Dion Cooper](https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj), [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Fire](https://open.spotify.com/album/060akZiOXb8ohBxC0ztzuV) | 2:39 | 2021-12-16 | 2023-01-13 |
 | [Focus](https://open.spotify.com/track/1IJ9taH1AFHfrKYvBbgMq1) | [Daimy Lotus](https://open.spotify.com/artist/0st9WYbAji9jWuubd0HGDL) | [Focus](https://open.spotify.com/album/1DLqQDX8YBOFSF6SwosfsK) | 2:44 | 2022-07-22 | 2022-11-17 |
 | [Focus](https://open.spotify.com/track/4g1Ec6coJ3tGrsua8B2yio) | [Daimy Lotus](https://open.spotify.com/artist/0st9WYbAji9jWuubd0HGDL) | [Focus](https://open.spotify.com/album/33oXw6C7qblh1spcJDsved) | 2:44 | 2021-12-16 | 2022-07-29 |
@@ -101,7 +102,7 @@
 | [Frozen](https://open.spotify.com/track/1W0fC2AWuK4CS7BpSurT3S) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Frozen](https://open.spotify.com/album/6xy4Z5pqY5Wu8tNLHkiFOH) | 2:58 | 2023-03-02 |  |
 | [FTU](https://open.spotify.com/track/2qpLQjX4rSnNJyUJMdHnSA) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [FTU](https://open.spotify.com/album/2jVFeHlGtvJKQE5dLmCFOu) | 2:24 | 2023-01-12 |  |
 | [Gameboy Color](https://open.spotify.com/track/0arsX94THobgECcVUCOq31) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Gameboy Color](https://open.spotify.com/album/6OGauTBfMUpc4gbAro8c3r) | 2:34 | 2023-01-12 | 2023-02-15 |
-| [Gameboy Color](https://open.spotify.com/track/6MefIlx2loVSQ0JnIkKPM1) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Gameboy Color](https://open.spotify.com/album/3pCHgEhuauqOLRxBFWXm1U) | 2:34 | 2023-03-22 |  |
+| [Gameboy Color](https://open.spotify.com/track/6MefIlx2loVSQ0JnIkKPM1) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Gameboy Color](https://open.spotify.com/album/3pCHgEhuauqOLRxBFWXm1U) | 2:34 | 2023-03-22 | 2023-04-27 |
 | [Get Away](https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Get Away](https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK) | 3:03 | 2023-02-21 |  |
 | [Gimme \(feat\. Koffee & Jessie Reyez\)](https://open.spotify.com/track/2GGN92tO0UbNAYrbMbQ4bf) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gimme \(feat\. Koffee & Jessie Reyez\)](https://open.spotify.com/album/29euLJqXMHYLi2q2OBnoQ6) | 2:52 | 2023-01-12 | 2023-01-19 |
 | [Ginger Me](https://open.spotify.com/track/6ihWzjaRWNX9NAHnCzkD4S) | [shy ink](https://open.spotify.com/artist/2guvMedMt6BlFklBVfFTR3), [Kish](https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci) | [Ginger Me](https://open.spotify.com/album/1FjkFEI5TuOmX4UDADlFXp) | 2:46 | 2023-03-22 | 2023-04-19 |
@@ -195,7 +196,7 @@
 | [Miles Away](https://open.spotify.com/track/6k3zHXsdycz5gyflIX67Ca) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Miles Away](https://open.spotify.com/album/1kcDeSYrhZJryDO2nWqLk5) | 1:35 | 2023-04-06 |  |
 | [Mine](https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Mine](https://open.spotify.com/album/0RJkdbyHeLAxKXCzIrpyOj) | 3:32 | 2021-12-16 | 2022-01-21 |
 | [Minefields](https://open.spotify.com/track/1OU4E4HiVjdak0mL4blVWT) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Minefields](https://open.spotify.com/album/6Pp5U1A6z6OogrtQEL5Q89) | 3:10 | 2021-12-16 | 2023-01-13 |
-| [Miss My Dawgs \(with 6LACK\)](https://open.spotify.com/track/7L2Nh4EsaETigImpQKvSoc) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Miss My Dawgs](https://open.spotify.com/album/3yeL1kWdc6fCSLzefpQC4r) | 3:25 | 2023-01-12 | 2023-04-24 |
+| [Miss My Dawgs \(with 6LACK\)](https://open.spotify.com/track/7L2Nh4EsaETigImpQKvSoc) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Miss My Dawgs](https://open.spotify.com/album/3yeL1kWdc6fCSLzefpQC4r) | 3:25 | 2023-01-12 |  |
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-03-01 | 2023-03-23 |
 | [Motelroom](https://open.spotify.com/track/0emBQxoWVuIZVOhp6Q2fq4) | [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Motelroom](https://open.spotify.com/album/1XNOwpXeam0cEpuOBGODm9) | 3:41 | 2021-12-16 | 2022-07-29 |
 | [Motelroom](https://open.spotify.com/track/6LVHn4DZxdd3G8RspektRm) | [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [All That We Are](https://open.spotify.com/album/6O8TYTxtP9MWYGNwTd7MyX) | 3:41 | 2022-07-22 | 2023-01-13 |

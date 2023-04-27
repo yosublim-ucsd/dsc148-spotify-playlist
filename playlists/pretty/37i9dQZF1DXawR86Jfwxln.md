@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawR86Jfwxln.md) - [plain]
 
 > Revisit the year in Folk & Americana with the best songs released in 2022\. Cover: Madison Cunningham \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,615 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,614 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

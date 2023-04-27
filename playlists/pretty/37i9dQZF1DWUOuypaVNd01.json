@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Btrem, Derxan, Major RD, LEALL, $amuka",
-  "num_followers": 28047,
+  "num_followers": 28104,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0NjA2MCwwMDAwMDAwMDJmYmQ4MWI0MDE5MzNkNTQ0ZTU2M2FiODhhZGZiMzRj",
+  "snapshot_id": "MTY4MjA0NjA2MCwwMDAwMDAwMGUyMTgzZTIwM2E4MTNlMzBhZjY0ODU2ZGEyZWJhMmIx",
   "tracks": [
     {
       "added_at": "2023-04-21 03:01:00",
@@ -439,6 +439,26 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
+        "name": "COSTA QUENTE",
+        "url": "https://open.spotify.com/album/262D8mrqEGl3kNjV4n0RH8"
+      },
+      "artists": [
+        {
+          "name": "Flacko",
+          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        }
+      ],
+      "duration_ms": 166285,
+      "name": "COSTA QUENTE",
+      "url": "https://open.spotify.com/track/0Lv1yqE8zkffbocnMcY8vN"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
         "name": "Lembro",
         "url": "https://open.spotify.com/album/7eKlRGjlczwo6038CxZfeT"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 164586,
       "name": "A Bruta, a Braba, a Forte",
       "url": "https://open.spotify.com/track/2N54ghEQWbNZ9Y39Wr2JKg"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
-        "name": "COSTA QUENTE",
-        "url": "https://open.spotify.com/album/262D8mrqEGl3kNjV4n0RH8"
-      },
-      "artists": [
-        {
-          "name": "Flacko",
-          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        }
-      ],
-      "duration_ms": 166285,
-      "name": "COSTA QUENTE",
-      "url": "https://open.spotify.com/track/0Lv1yqE8zkffbocnMcY8vN"
     },
     {
       "added_at": "2023-04-21 03:01:00",

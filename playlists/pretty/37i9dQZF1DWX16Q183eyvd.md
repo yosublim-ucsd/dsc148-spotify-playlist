@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 
 > Push play on the coolest playlist around, and get ready to jump around.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,635 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,671 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,16 +32,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 | 22 | [Mi Gente](https://open.spotify.com/track/57rPxsDFpBnUp4Bw5uxIXP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP World Tour](https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD) | 3:08 |
 | 23 | [I'm Healthy](https://open.spotify.com/track/7ECdYi17tlPuGg9YVblRPU) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap](https://open.spotify.com/album/70NZulwHGHVgluy1pwMY3C) | 2:33 |
 | 24 | [Safari](https://open.spotify.com/track/0qaUiV6xlTRYqQZ2332Qsh) | [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [Reggae for Kids](https://open.spotify.com/album/76ttmB1eG7cD2riXBBYBCW) | 3:23 |
-| 25 | [We Outside](https://open.spotify.com/track/2Jm5GHTsbMXbDvhIoyUikW) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [We Outside](https://open.spotify.com/album/5ojvCpVkbL7VQXK3RYdMen) | 2:44 |
-| 26 | [This Old Man](https://open.spotify.com/track/7JaMhrgXmPSXDjVAVxrDav) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Reggae for Kids](https://open.spotify.com/album/76ttmB1eG7cD2riXBBYBCW) | 3:13 |
+| 25 | [This Old Man](https://open.spotify.com/track/7JaMhrgXmPSXDjVAVxrDav) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Reggae for Kids](https://open.spotify.com/album/76ttmB1eG7cD2riXBBYBCW) | 3:13 |
+| 26 | [We Outside](https://open.spotify.com/track/2Jm5GHTsbMXbDvhIoyUikW) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [We Outside](https://open.spotify.com/album/5ojvCpVkbL7VQXK3RYdMen) | 2:44 |
 | 27 | [Jamaica Farewell](https://open.spotify.com/track/5cYxD1ChuvEUlIIQBlv42J) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Friends](https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [House Party](https://open.spotify.com/album/0b2CR3vA6z1lSd8PFQ6n8O) | 3:14 |
 | 28 | [Hey Ya](https://open.spotify.com/track/7qEaSln7DzqWAxVWPJG8hz) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Party Hits](https://open.spotify.com/album/7dtTU6GpOYFNwF5hE1o4zE) | 3:55 |
 | 29 | [The Word is Love](https://open.spotify.com/track/7lqd7pWvJgsCdyecGibcAy) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04), [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt) | [The Word is Love](https://open.spotify.com/album/47FJMtS7LjWDAUD1r7ErEr) | 3:29 |
 | 30 | [Dance Party in the House](https://open.spotify.com/track/6ZSMbNa2ZSmLR7LlC5Bz0m) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap \(In the House\)](https://open.spotify.com/album/2waS7cb3Rnkr2oZLO6l0Wf) | 3:18 |
-| 31 | [Hiphop\-O\-Potamus \- Feat\. Jabari & Baby Power](https://open.spotify.com/track/0ajAIY2IEOjJ4JFmlAEuvM) | [Mee Wee](https://open.spotify.com/artist/53oYcs7ZLh8S3lmt3E5fBp) | [Mee Wee: Hip Hop For Kids](https://open.spotify.com/album/1yjk5rVfA943EL3QvbVvGU) | 2:15 |
-| 32 | [Cha Cha Slide](https://open.spotify.com/track/146IdUhpqJAKpfGPegGtd1) | [Freeze Dance DJ's](https://open.spotify.com/artist/2vnlIUooL0M6u8zJaJImU9) | [FREEZE DANCE PARTY](https://open.spotify.com/album/5IsGdDTrqIPHPumGqtWRL0) | 3:42 |
-| 33 | [Bored is a Bad Word](https://open.spotify.com/track/6l8PVMHkToebBTlJacW6Fa) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Underground Playground](https://open.spotify.com/album/41kgd9xgfuYAmKasunl4Sa) | 3:43 |
-| 34 | [Healthy](https://open.spotify.com/track/4h0sclha9pcAkN8oJPA795) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Raised on Hip Hop](https://open.spotify.com/album/4gNAMHn417XOacNst8HvQW) | 2:46 |
+| 31 | [Cha Cha Slide](https://open.spotify.com/track/146IdUhpqJAKpfGPegGtd1) | [Freeze Dance DJ's](https://open.spotify.com/artist/2vnlIUooL0M6u8zJaJImU9) | [FREEZE DANCE PARTY](https://open.spotify.com/album/5IsGdDTrqIPHPumGqtWRL0) | 3:42 |
+| 32 | [Hiphop\-O\-Potamus \- Feat\. Jabari & Baby Power](https://open.spotify.com/track/0ajAIY2IEOjJ4JFmlAEuvM) | [Mee Wee](https://open.spotify.com/artist/53oYcs7ZLh8S3lmt3E5fBp) | [Mee Wee: Hip Hop For Kids](https://open.spotify.com/album/1yjk5rVfA943EL3QvbVvGU) | 2:15 |
+| 33 | [Healthy](https://open.spotify.com/track/4h0sclha9pcAkN8oJPA795) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Raised on Hip Hop](https://open.spotify.com/album/4gNAMHn417XOacNst8HvQW) | 2:46 |
+| 34 | [Bored is a Bad Word](https://open.spotify.com/track/6l8PVMHkToebBTlJacW6Fa) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Underground Playground](https://open.spotify.com/album/41kgd9xgfuYAmKasunl4Sa) | 3:43 |
 | 35 | [Girls vs\. Boys](https://open.spotify.com/track/1JIICzNjNibNpB3HeefvFm) | [Kids Rap Radio](https://open.spotify.com/artist/2YD4kgyo0midNau1KI6g8x) | [Kids Rap Radio, Vol\. 7](https://open.spotify.com/album/33KsrRSRtZkSaemIaFC6U6) | 3:31 |
 | 36 | [Just When You Think \- Kidz Version](https://open.spotify.com/track/1KDmjtkUAtTKomtKnGEp9j) | [Divi Roxx Kids](https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR), [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI), [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04), [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Ready Set Go!](https://open.spotify.com/album/4jOCINfRZTbcSiblJcrqyu) | 2:16 |
 | 37 | [Three Little Birds \(feat\. Ziggy Marley\)](https://open.spotify.com/track/4lWJMQSOJIWSodi3Oe6Few) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [!Vamos a bailar! Let's Dance! The Dora the Explorer Music Collection](https://open.spotify.com/album/3fLxjCJkL1BANWMLA7uwok) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 | 49 | [Have Fun](https://open.spotify.com/track/2SRrXQG5zBbd2VUZFu38iL) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Easy](https://open.spotify.com/album/0z7eg9m6jd8CfepI2WLLC6) | 3:06 |
 | 50 | [1 Times Tables \(TI Style\)](https://open.spotify.com/track/4UAdHXcCnQFmdqaRUsnA2a) | [Multiplication Hip Hop For Kids](https://open.spotify.com/artist/661nGSGFdpxESwfUkaaLEL) | [Multiplication Times Tables \- 2 Pac, Biggie, & TI Style](https://open.spotify.com/album/7J2JwQSMGuY513Bo3lDGjc) | 3:22 |
 
-Snapshot ID: `MTY4MDg3NjA5MiwwMDAwMDAwMDlkM2E0NjUzMzFjZDZkZjY1ODI0ZDViNTI1MWZhOWE4`
+Snapshot ID: `MTY4MDg3NjA5MiwwMDAwMDAwMDY5YzI5OWVkNWRmYzYyNjM5YTRkNjA5NzlhODMyMTEw`

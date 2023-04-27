@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 
 > You know all the tracks, you just can't sing\-along\. Cover: Martin Garrix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,395 likes - 47 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,428 likes - 47 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 | 20 | [Beast \(All as One\)](https://open.spotify.com/track/3wSrPtJpnGaUC2hOmJy0BV) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Beast \(All as One\)](https://open.spotify.com/album/7jcGJ20TXkDOwe5rfOm2Gg) | 3:09 |
 | 21 | [How We Party](https://open.spotify.com/track/6Yis2VwVcABCNVEutLgAf7) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [How We Party](https://open.spotify.com/album/3kA25T4kY1AwFVrLDJCzLE) | 3:31 |
 | 22 | [Virus \(How About Now\)](https://open.spotify.com/track/3ukWpmRHvpuDATCJkgLEkF) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Virus \(How About Now\)](https://open.spotify.com/album/07c9ANynLvxYlO8aHWoNqP) | 4:33 |
-| 23 | [Toca Me \- twoloud Radio Edit](https://open.spotify.com/track/62JXnYxY7u5JVLtpTbnOKw) | [Fragma](https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ), [twoloud](https://open.spotify.com/artist/6eUtrZgzxqbV7zMxzN3Sz2) | [Toca Me \(twoloud Remix\)](https://open.spotify.com/album/7KfVcH7IJRyKEBf5JvoKvk) | 3:13 |
-| 24 | [Burnin](https://open.spotify.com/track/5lByoyTJti3jYo22bLQKOH) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:54 |
+| 23 | [Burnin](https://open.spotify.com/track/5lByoyTJti3jYo22bLQKOH) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:54 |
+| 24 | [Toca Me \- twoloud Radio Edit](https://open.spotify.com/track/62JXnYxY7u5JVLtpTbnOKw) | [Fragma](https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ), [twoloud](https://open.spotify.com/artist/6eUtrZgzxqbV7zMxzN3Sz2) | [Toca Me \(twoloud Remix\)](https://open.spotify.com/album/7KfVcH7IJRyKEBf5JvoKvk) | 3:13 |
 | 25 | [Koala](https://open.spotify.com/track/3Af7K6rJ85E9eS0yy8eRNA) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Last All Night \(Koala\) \[feat\. KStewart\] \[Remixes\]](https://open.spotify.com/album/02HK6sMyGpa7EdjE2KEUMx) | 4:24 |
 | 26 | [Golden Pineapple](https://open.spotify.com/track/2hNzhAJqtVIHlcTwmPJFf0) | [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Golden Pineapple](https://open.spotify.com/album/67eeCJWRKbaRuT57iuRdhd) | 3:08 |
 | 27 | [Calling \- Original Instrumental Radio Edit](https://open.spotify.com/track/5MRsxkPZyRs1VfnXFdgSHm) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Calling \(Lose My Mind\)](https://open.spotify.com/album/1QL4aGJ6SwMK94EEf8Kdhc) | 3:25 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 | 30 | [C.U.B.A](https://open.spotify.com/track/1ZoHuLxbQho7N5ioKA6Hx1) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [C.U.B.A](https://open.spotify.com/album/12zQ9tz6fjLsB5RjxUgXFu) | 4:29 |
 | 31 | [Yottabyte](https://open.spotify.com/track/1PYsy4cGp3egbeaQDjIGIa) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [BYLAW EP](https://open.spotify.com/album/5dv1oLETxdsYOkS2Sic00z) | 3:30 |
 | 32 | [Electric Elephants](https://open.spotify.com/track/4O2gRMLAIQYHXe25wjeTFj) | [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Electric Elephants](https://open.spotify.com/album/1Vlj2MZ0h4LA0IYjPvX6eI) | 2:53 |
-| 33 | [We Like to Party \- Radio Edit](https://open.spotify.com/track/5zBIpQdBLku4dwqtptiNgs) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [We Like to Party](https://open.spotify.com/album/4uMuXdihVpcYnO8LF6GbXx) | 3:28 |
-| 34 | [Resurrection \- Axwell Recut Radio Version](https://open.spotify.com/track/2DAxxGq7ozovsvgmccwHmC) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9) | [Electronic Music Anthology Vol.4 \(by FG\)](https://open.spotify.com/album/7L2ZHZ0BrbnZu3pe4CuisU) | 2:45 |
+| 33 | [Resurrection \- Axwell Recut Radio Version](https://open.spotify.com/track/2DAxxGq7ozovsvgmccwHmC) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9) | [Electronic Music Anthology Vol.4 \(by FG\)](https://open.spotify.com/album/7L2ZHZ0BrbnZu3pe4CuisU) | 2:45 |
+| 34 | [We Like to Party \- Radio Edit](https://open.spotify.com/track/5zBIpQdBLku4dwqtptiNgs) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [We Like to Party](https://open.spotify.com/album/4uMuXdihVpcYnO8LF6GbXx) | 3:28 |
 | 35 | [Retrograde](https://open.spotify.com/track/1nXvZ5578J8AIpGHZJLvGs) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Retrograde](https://open.spotify.com/album/1cVZdiZBMiSv4WtqqpiFRp) | 4:11 |
 | 36 | [Again & Again](https://open.spotify.com/track/5FUNk47hbkiL7mxLOo5CYc) | [Basto](https://open.spotify.com/artist/2BJTwV4IpFe2gWL46KKlji) | [Live Tonight](https://open.spotify.com/album/3hOBPmTdfmrdcLOMAzw5xl) | 3:01 |
 | 37 | [Ocarina](https://open.spotify.com/track/52zeJeJrFqKmJBc4FK6767) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Wolfpack](https://open.spotify.com/artist/74ycentHh1YZrW5x4PLnox) | [Ocarina](https://open.spotify.com/album/6Zx2x056mvHEI6A48g72Jp) | 4:54 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 | 46 | [G.I.P.S.Y\. \- Radio Edit](https://open.spotify.com/track/4BLHQIfrGZX6VKAmCjJwaZ) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Boostedkids](https://open.spotify.com/artist/2PMTEy2vzCh81UZTpjK7fZ) | [G.I.P.S.Y.](https://open.spotify.com/album/7gMun8L9PaRORbVjsi4Bli) | 3:41 |
 | 47 | [Cake Face](https://open.spotify.com/track/2mhBN7yxNNqD8eODc5Cg73) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Neon Future Odyssey](https://open.spotify.com/album/0gVmaYMzy3sehDULjCAMJZ) | 6:11 |
 
-Snapshot ID: `MTY3Nzg1Mzc0MiwwMDAwMDAwMDUyNWIyZTAxMDAxZGUyZDBjNGY5MzllOTI4NjdiZWYy`
+Snapshot ID: `MTY3Nzg1Mzc0MiwwMDAwMDAwMDM2MTkyM2NhZWNmMzU4Mzg1MGU4NDEyOWU4NjJiMGQ2`

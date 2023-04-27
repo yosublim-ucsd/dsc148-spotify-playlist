@@ -4,7 +4,7 @@
 
 > All funk, all live\. Cover: Earth Wind & Fire
 
-58 songs - 6 hr 7 min
+59 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,5 +66,6 @@
 | [We Do This \(feat\. George Clinton\) \- Live from One Nite Alone Tour...The Aftershow](https://open.spotify.com/track/6Ql4aaZJ3xHdFhwWAbyWvM) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [One Nite Alone..\. The Aftershow: It Ain't Over! \(Up Late with Prince & The NPG\) \[Live\]](https://open.spotify.com/album/4cnxxYwMvBQN4LGEq2nKVq) | 4:42 | 2021-11-12 |  |
 | [We Want the Funk \- Live from Metropolis](https://open.spotify.com/track/2ZvgUipjG2wjEp1Ei74Dlf) | [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [George Clinton P\-Funk: Live from Metropolis Studios](https://open.spotify.com/album/0FNqj3ZqoIBQartZIg5GkP) | 5:11 | 2021-11-12 |  |
 | [Wind Me Up Chuck / Hoochie Coochie Man \(Live\)](https://open.spotify.com/track/3j0h8GVtHdkb8PMHp6r4pF) | [Chuck Brown](https://open.spotify.com/artist/2ssIfCr0vMmCuesIw9U4eg) | [Your Game‚ Live At the 9: 30 Club, Washington, D.C.](https://open.spotify.com/album/2Emrjdw9u7VQmsuhXn46vR) | 6:21 | 2021-11-12 |  |
+| [You're On My Mind \- Anniversary – Live](https://open.spotify.com/track/290YzYxkEXUdwiwh2daqCt) | [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R) | [Anniversary – The Live Album](https://open.spotify.com/album/5DVXFbGuoXcqUNuRS4Ah1t) | 4:14 | 2023-04-26 |  |
 
 \*This playlist was first scraped on 2022-08-08. Prior content cannot be recovered.

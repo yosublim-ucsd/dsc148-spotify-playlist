@@ -4,12 +4,13 @@
 
 > Sad songs just 4 you para uno de esos días.
 
-170 songs - 9 hr 44 min
+171 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Lágrimas](https://open.spotify.com/track/1Q4kIUJC6FMudx4jHoqMvi) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [10 Lágrimas](https://open.spotify.com/album/3bLEQfCe9Y6HSWmDyG591u) | 3:18 | 2022-05-03 | 2022-07-18 |
 | [A Estas Horas Del Amor](https://open.spotify.com/track/7jvS0VAybfsXCivr8fq0qc) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [A Estas Horas Del Amor](https://open.spotify.com/album/3TsNQwV855A2mrxnEaT6lz) | 5:02 | 2021-12-06 | 2022-11-28 |
+| [A La Quien Quieres](https://open.spotify.com/track/4q9lwDou2FP4Vj3993sfAW) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Ojos Vacíos](https://open.spotify.com/album/39MoSLkmTFasjXjfWGzqqB) | 3:41 | 2023-04-18 |  |
 | [Aclárate](https://open.spotify.com/track/10LVhVG8cX4cpCEzwnY5UM) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Aclárate](https://open.spotify.com/album/3hj8pUwYz6pvsjG2Nw9KqF) | 3:02 | 2022-12-29 | 2023-02-13 |
 | [Aclárate](https://open.spotify.com/track/2LewcRYN0lmAPcqzhPiDnx) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Aclárate](https://open.spotify.com/album/57A8urKomczwMQNjCIIFQC) | 3:02 | 2021-12-06 | 2022-12-03 |
 | [Acurrucar](https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:54 | 2021-12-06 |  |
@@ -163,7 +164,7 @@
 | [Tristes Ojos](https://open.spotify.com/track/1MKQDYp54fNueGUOWNgRPq) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [La Segunda Luz del Día](https://open.spotify.com/album/5Jo5OxaefaKKlxtnOurjZd) | 3:19 | 2022-12-02 |  |
 | [Tu Falta De Querer](https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 4:38 | 2022-12-02 |  |
 | [Tu Labial](https://open.spotify.com/track/3vz0ZD15RxM2HNCGgrVrVc) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Tu Labial](https://open.spotify.com/album/6kXbu3L1IVJZhGqsogGTWx) | 3:47 | 2023-03-03 |  |
-| [Un Poquito Más](https://open.spotify.com/track/5iph5i9bTxD7vJEjXeYMDP) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Un Poquito Más](https://open.spotify.com/album/1Q4rU1AFX6gzbomhgnbxHL) | 2:59 | 2023-01-23 |  |
+| [Un Poquito Más](https://open.spotify.com/track/5iph5i9bTxD7vJEjXeYMDP) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Un Poquito Más](https://open.spotify.com/album/1Q4rU1AFX6gzbomhgnbxHL) | 2:59 | 2023-01-23 | 2023-04-27 |
 | [Venecia](https://open.spotify.com/track/5K9GI4x4mOyikMwOgk0ESR) | [Ainoa Buitrago](https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7), [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe) | [Venecia](https://open.spotify.com/album/0RHuBS8KnFVDGUG9TfCrkG) | 3:59 | 2021-12-06 | 2022-07-29 |
 | [Venecia \- Acústico](https://open.spotify.com/track/2Q4iEmSiDVEenNSGk2rmoZ) | [Ainoa Buitrago](https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7), [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe) | [Venecia \(Acústico\)](https://open.spotify.com/album/3EBFHB0poFL63o1DrIMSkl) | 3:59 | 2022-05-03 |  |
 | [Vete Si Quieres](https://open.spotify.com/track/0eBNvFiuvRpKPzfEx7CVs6) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Vete Si Quieres](https://open.spotify.com/album/59n8OAA2MokNaY6EunSMY6) | 3:48 | 2021-12-06 |  |

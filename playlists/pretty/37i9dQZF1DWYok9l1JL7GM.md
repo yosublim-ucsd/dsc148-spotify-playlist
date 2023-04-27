@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYok9l1JL7GM.md) - [plain]
 
 > The south got something to say\. Cover: UGK
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,858 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,210 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYok9l1JL7GM.md) - [plain]
 | 19 | [I'm N Luv \(Wit a Stripper\) \(feat\. Mike Jones\)](https://open.spotify.com/track/2QurCbkPO14pjrikPNja0h) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Mike Jones](https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0) | [Rappa Ternt Sanga \(Expanded Edition\)](https://open.spotify.com/album/21dqbZplVbX1gMMdqOLvWI) | 3:59 |
 | 20 | [It's Goin' Down \(feat\. Nitti\)](https://open.spotify.com/track/05Sgj1Hx03ZXc57gsV1kfX) | [Yung Joc](https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj), [NITTI](https://open.spotify.com/artist/14J79DfdiKcztA7WrrpqIP) | [New Joc City](https://open.spotify.com/album/1Lr1TMh8vcdD3OvrzQTGVn) | 4:01 |
 | 21 | [ATLiens](https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 3:50 |
-| 22 | [Let's Go \(feat\. Big D & Twista\)](https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25), [Bigg D](https://open.spotify.com/artist/25BLFLt2ivDMxIlvao7lnU), [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [Thug Matrimony: Married to the Streets](https://open.spotify.com/album/2Ve8rF1LYTRGl3ZAI2z2YT) | 3:42 |
+| 22 | [Let's Go \(feat\. Twista & Lil' Jon\)](https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [Thug Matrimony: Married to the Streets](https://open.spotify.com/album/2Ve8rF1LYTRGl3ZAI2z2YT) | 3:42 |
 | 23 | [Hypnotized \(feat\. Akon\)](https://open.spotify.com/track/3LN41NUdHkyNqQhi9gExMm) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Real Testament](https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW) | 3:08 |
 | 24 | [Still Tippin' \(feat\. Slim Thug and Paul Wall\)](https://open.spotify.com/track/59rtiYOPgMEDf3yPEfU2la) | [Mike Jones](https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Slim Thug](https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE) | [Who Is Mike Jones?](https://open.spotify.com/album/1YU3MPIMY9rZOE899khVj2) | 4:31 |
 | 25 | [Pocket Full of Stones](https://open.spotify.com/track/1yGbkbw0nLte46M4XYAQRl) | [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw) | [Too Hard To Swallow](https://open.spotify.com/album/4HzHd0EcjdHYKDi5NbS5xU) | 6:09 |

@@ -1409,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "i heart the internet",
+        "url": "https://open.spotify.com/album/3Bg7PLOLItNpz7OajqkVDk"
+      },
+      "artists": [
+        {
+          "name": "Harriette",
+          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195960,
+      "name": "i heart the internet",
+      "url": "https://open.spotify.com/track/5NzIkBzG0MFVjpzSsgUhY0"
+    },
+    {
+      "album": {
         "name": "I like me better",
         "url": "https://open.spotify.com/album/1S3x2EX5lMe4Z8mC7m01oz"
       },
@@ -2666,7 +2684,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 298880,
       "name": "Shrike",
       "url": "https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb"
@@ -3370,7 +3388,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 266466,
       "name": "Wasteland, Baby!",
       "url": "https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH"

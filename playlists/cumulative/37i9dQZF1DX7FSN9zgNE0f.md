@@ -4,7 +4,7 @@
 
 > Recorré un viaje por el oscuro éxtasis de WOS!
 
-35 songs - 1 hr 45 min
+36 songs - 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [LUZ DELITO](https://open.spotify.com/track/13VEtVCYfLTVsq5STs3SlW) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CARAVANA](https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91) | 2:35 | 2022-01-05 |  |
 | [MELÓN VINO](https://open.spotify.com/track/5uHAzGa4d9j35DEbhUwGhi) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CARAVANA](https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91) | 2:56 | 2022-01-05 |  |
 | [MIRÁ MAMÁ](https://open.spotify.com/track/3d1wvsZjykpYZxbIPz91Ou) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [MIRÁ MAMÁ](https://open.spotify.com/album/6f996bGCPz0XK7C5zwCs7l) | 2:49 | 2022-01-05 |  |
+| [Money In The Bank](https://open.spotify.com/track/2X68b1UFH15ozldcKW4AeF) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [Sólo D’Lira](https://open.spotify.com/album/2MTZC4iUhirPNczmmKPjTT) | 3:54 | 2023-04-26 |  |
 | [MUGRE](https://open.spotify.com/track/0hoo74Q82lOWekiPWYOOuz) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [MUGRE](https://open.spotify.com/album/76U5G9L3YaFDkKGYXfl1Zb) | 4:19 | 2022-01-05 |  |
 | [NIÑO GORDO FLACO](https://open.spotify.com/track/0Wz6TToEPwxzH482fuGEwO) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 2:24 | 2022-01-05 |  |
 | [OJERAS NEGRAS](https://open.spotify.com/track/6xbN8rhmzmI4MfLRDXw5KP) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [TRES PUNTOS SUSPENSIVOS](https://open.spotify.com/album/3uogbVO1vXh4OZ7FQpnmuJ) | 2:57 | 2022-01-05 |  |

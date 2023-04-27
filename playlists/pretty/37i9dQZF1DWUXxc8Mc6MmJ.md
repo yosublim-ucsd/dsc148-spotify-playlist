@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 
 > Relive your favourite K\-Drama moments with these classic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 614,448 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,128 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 46 | [Introduce me a good person](https://open.spotify.com/track/2OAEKEb0778gsDaCef7MLI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/2ulXYvZjbc3y12LiwWKXP4) | 3:03 |
 | 47 | [Summer Rain](https://open.spotify.com/track/0lsE1vjZQazyEnexXpD4B1) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/5G8GZvgWdarjynQ0hLGehC) | 3:21 |
 | 48 | [Is It Still Beautiful](https://open.spotify.com/track/4rrGSoMxUV0diSX4zpoCTf) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [HOSPITAL PLAYLIST Season2 \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/0wjfQ5rrQIRFuSPvAbZBX4) | 4:35 |
-| 49 | [Goodbye](https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The Beauty Inside Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY) | 3:13 |
-| 50 | [Someday, The Boy](https://open.spotify.com/track/1N0vwih6TUIb9kYtynvlRc) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/7jMfA0dYFKHcqGNtgi8WCJ) | 4:47 |
+| 49 | [Someday, The Boy](https://open.spotify.com/track/1N0vwih6TUIb9kYtynvlRc) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/7jMfA0dYFKHcqGNtgi8WCJ) | 4:47 |
+| 50 | [Goodbye](https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The Beauty Inside Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY) | 3:13 |
 
-Snapshot ID: `MTY3ODY4NzQzNiwwMDAwMDAwMDZkNGRlNzIzYThhYWRkZTZjZWRhZWFiYjZkOGMyOTEw`
+Snapshot ID: `MTY3ODY4NzQzNiwwMDAwMDAwMDY4MzJhM2M4OWZjMjg3MzI2NWM5MzlhMmRiMmExYTRk`

@@ -1012,7 +1012,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-19",
+      "date_removed": null,
       "duration_ms": 297664,
       "name": "Algo contigo",
       "url": "https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb"
@@ -6784,7 +6784,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 166000,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/1VFTF35B6jkkFAXiNCuoEs"
@@ -7486,6 +7486,24 @@
       "duration_ms": 195343,
       "name": "Fi Get a 4ward",
       "url": "https://open.spotify.com/track/1WSQW4rHMuXb86qQr30pR2"
+    },
+    {
+      "album": {
+        "name": "Fiesta en el desierto (la la la)",
+        "url": "https://open.spotify.com/album/7y2mzXkMb03nyEjlUjIyXJ"
+      },
+      "artists": [
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338015,
+      "name": "Fiesta en el desierto (la la la)",
+      "url": "https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa"
     },
     {
       "album": {
@@ -19068,7 +19086,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 242200,
       "name": "Smoke Sprite (feat. RM of BTS)",
       "url": "https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa"
@@ -22726,7 +22744,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 247873,
       "name": "VOID",
       "url": "https://open.spotify.com/track/6wmKvtSmyTqHNo44OBXVN1"
@@ -23968,7 +23986,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 238560,
       "name": "\u3059\u305a\u3081",
       "url": "https://open.spotify.com/track/3HCGX2gmPLu6ttkbYvPGTR"

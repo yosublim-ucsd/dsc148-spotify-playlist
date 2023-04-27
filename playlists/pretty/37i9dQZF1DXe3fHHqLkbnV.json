@@ -1,12 +1,12 @@
 {
   "description": "The best easy rock from the 1990s. Cover: Bryan Adams.",
-  "num_followers": 255529,
+  "num_followers": 255947,
   "original_name": "90s Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgzOTMwMSwwMDAwMDAwMDlhN2Q1YzYyOTMxYzcxMGQ5ZWJkYzQ1MWQ5YjE3Y2Fi",
+  "snapshot_id": "MTY4MDgzOTMwMSwwMDAwMDAwMDNmNjU2ZjBmNTE0YTgxMDJhN2FiYjBhMjA0ODI2YmM3",
   "tracks": [
     {
       "added_at": "2023-01-18 22:23:18",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "Seal",
-        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
-      },
-      "artists": [
-        {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "Kiss from a Rose",
-      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
         "name": "Savage Garden",
         "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 277266,
       "name": "Truly Madly Deeply",
       "url": "https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
+        "name": "Seal",
+        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "Kiss from a Rose",
+      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
     },
     {
       "added_at": "2023-01-18 22:23:18",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "Woodface",
-        "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
-      },
-      "artists": [
-        {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
-        }
-      ],
-      "duration_ms": 224466,
-      "name": "Weather With You",
-      "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 413826,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
+        "name": "Woodface",
+        "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "duration_ms": 224466,
+      "name": "Weather With You",
+      "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"
     },
     {
       "added_at": "2023-01-18 22:23:18",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "Cracked Rear View",
-        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
-      },
-      "artists": [
-        {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
-        }
-      ],
-      "duration_ms": 318533,
-      "name": "Let Her Cry",
-      "url": "https://open.spotify.com/track/6NGi23FFKq9tH5NR1NcTw2"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
         "name": "Bump Ahead [Expanded]",
         "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
       },
@@ -879,18 +863,18 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "The Man Who",
-        "url": "https://open.spotify.com/album/1cUp1HbKtGF7CiSl962vH5"
+        "name": "Cracked Rear View",
+        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
       },
       "artists": [
         {
-          "name": "Travis",
-          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
         }
       ],
-      "duration_ms": 265000,
-      "name": "Why Does It Always Rain On Me?",
-      "url": "https://open.spotify.com/track/5MmWgG5KgiqSxkOZdVXRQA"
+      "duration_ms": 318533,
+      "name": "Let Her Cry",
+      "url": "https://open.spotify.com/track/6NGi23FFKq9tH5NR1NcTw2"
     },
     {
       "added_at": "2023-01-18 22:23:18",
@@ -907,6 +891,22 @@
       "duration_ms": 171373,
       "name": "See You Soon",
       "url": "https://open.spotify.com/track/1uKzAldJYlwje9HstlwTie"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
+        "name": "The Man Who",
+        "url": "https://open.spotify.com/album/1cUp1HbKtGF7CiSl962vH5"
+      },
+      "artists": [
+        {
+          "name": "Travis",
+          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Why Does It Always Rain On Me?",
+      "url": "https://open.spotify.com/track/5MmWgG5KgiqSxkOZdVXRQA"
     },
     {
       "added_at": "2023-01-18 22:23:18",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "Luck Of The Draw",
-        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 227573,
-      "name": "Something To Talk About",
-      "url": "https://open.spotify.com/track/6Ceejf3zBXvAhIY9DbP1Pr"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
         "name": "Stay (I Missed You)",
         "url": "https://open.spotify.com/album/0candONErDvN9wWFhOWXrS"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 184333,
       "name": "Stay (I Missed You)",
       "url": "https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
+        "name": "Luck Of The Draw",
+        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 227573,
+      "name": "Something To Talk About",
+      "url": "https://open.spotify.com/track/6Ceejf3zBXvAhIY9DbP1Pr"
     },
     {
       "added_at": "2023-01-18 22:23:18",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "Cracked Rear View",
-        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
-      },
-      "artists": [
-        {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/4WnYuVFXe6Si4fZqkxbnvS"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
         "name": "New Miserable Experience",
         "url": "https://open.spotify.com/album/484pzryEPqn6KSMLtP2c4f"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 233400,
       "name": "Found Out About You",
       "url": "https://open.spotify.com/track/5WmDRnuGYo31xrWNDcYaps"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
+        "name": "Cracked Rear View",
+        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
+      },
+      "artists": [
+        {
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/4WnYuVFXe6Si4fZqkxbnvS"
     },
     {
       "added_at": "2023-01-18 22:23:18",

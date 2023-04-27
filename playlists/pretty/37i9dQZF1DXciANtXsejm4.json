@@ -1,12 +1,12 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 173582,
+  "num_followers": 173694,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgzNjQwMCwwMDAwMDAwMDc2MzllNWZlNDk3MmEyZjk4N2I1NDdjN2E0YTJkYzRj",
+  "snapshot_id": "MTY4MDgzNjQwMCwwMDAwMDAwMGQ5NDdlMTE1YjA5YTViOGZiZDBjMzJmN2MwZGIxZmYw",
   "tracks": [
     {
       "added_at": "2023-04-07 03:00:00",
@@ -631,22 +631,18 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "25 A\u00f1os",
-        "url": "https://open.spotify.com/album/3gjGW42amvKTLvJLl4wPua"
+        "name": "M\u00e1s Rom\u00e1nticos Que Nunca",
+        "url": "https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M"
       },
       "artists": [
         {
-          "name": "Los Lirios De Santa Fe",
-          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
-        },
-        {
-          "name": "Mario Luis",
-          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+          "name": "Grupo Trinidad",
+          "url": "https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ"
         }
       ],
-      "duration_ms": 242501,
-      "name": "A Decirme Qu\u00e9",
-      "url": "https://open.spotify.com/track/0usHK6nqUWU1PLkKi1Gy7c"
+      "duration_ms": 211986,
+      "name": "Tu Mujer En Mi Cama",
+      "url": "https://open.spotify.com/track/44uuHaGX9LpQ8PjpdvXLVM"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -683,18 +679,22 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "M\u00e1s Rom\u00e1nticos Que Nunca",
-        "url": "https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M"
+        "name": "25 A\u00f1os",
+        "url": "https://open.spotify.com/album/3gjGW42amvKTLvJLl4wPua"
       },
       "artists": [
         {
-          "name": "Grupo Trinidad",
-          "url": "https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ"
+          "name": "Los Lirios De Santa Fe",
+          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
+        },
+        {
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
         }
       ],
-      "duration_ms": 211986,
-      "name": "Tu Mujer En Mi Cama",
-      "url": "https://open.spotify.com/track/44uuHaGX9LpQ8PjpdvXLVM"
+      "duration_ms": 242501,
+      "name": "A Decirme Qu\u00e9",
+      "url": "https://open.spotify.com/track/0usHK6nqUWU1PLkKi1Gy7c"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR"
-      },
-      "artists": [
-        {
-          "name": "Los del bohio",
-          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
-        }
-      ],
-      "duration_ms": 215186,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
         "name": "Por Amor A La M\u00fasica",
         "url": "https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "Exitos de oro",
-        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR"
       },
       "artists": [
         {
-          "name": "Los Leales",
-          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
+          "name": "Los del bohio",
+          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
         }
       ],
-      "duration_ms": 176786,
-      "name": "Un Velero Llamado Libertad",
-      "url": "https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW"
+      "duration_ms": 215186,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -907,6 +891,22 @@
       "duration_ms": 222723,
       "name": "Loco",
       "url": "https://open.spotify.com/track/1PsM5kAMF5E7EgLfeY3xdA"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
+        "name": "Exitos de oro",
+        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
+      },
+      "artists": [
+        {
+          "name": "Los Leales",
+          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
+        }
+      ],
+      "duration_ms": 176786,
+      "name": "Un Velero Llamado Libertad",
+      "url": "https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "Exitos de oro",
-        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
-      },
-      "artists": [
-        {
-          "name": "Los Leales",
-          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "Vuelve Mi Amor",
-      "url": "https://open.spotify.com/track/1YQExirdEk4Xh525kr4SHW"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
         "name": "S\u00f3lo Dios Puede Juzgarme",
         "url": "https://open.spotify.com/album/59H5u5QOocFXVka9bSif3h"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 155360,
       "name": "El Chancho Come Caviar",
       "url": "https://open.spotify.com/track/7A0WZELK73UK7CMvDUbdQ1"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
+        "name": "Exitos de oro",
+        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
+      },
+      "artists": [
+        {
+          "name": "Los Leales",
+          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "Vuelve Mi Amor",
+      "url": "https://open.spotify.com/track/1YQExirdEk4Xh525kr4SHW"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "Grupo Trinidad y Sus Cantantes",
-        "url": "https://open.spotify.com/album/561huq2PdxoEwR2L7NYMw3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Trinidad",
-          "url": "https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ"
-        }
-      ],
-      "duration_ms": 457826,
-      "name": "Pechos Calientes / Mojada por Dentro / El No Va a Venir / Voy a Morir Dentro Tuyo",
-      "url": "https://open.spotify.com/track/4wvQj6T8Ut1oixkIr7r0S3"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
         "name": "C\u00f3mo Le Gusta A Mi Gente",
         "url": "https://open.spotify.com/album/3DTqYBYOIkV3lq14dJDckg"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 253800,
       "name": "Que Precio Tiene El Cielo",
       "url": "https://open.spotify.com/track/4p7WDW0Mh0GmDSmqF8e4wi"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
+        "name": "Grupo Trinidad y Sus Cantantes",
+        "url": "https://open.spotify.com/album/561huq2PdxoEwR2L7NYMw3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Trinidad",
+          "url": "https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ"
+        }
+      ],
+      "duration_ms": 457826,
+      "name": "Pechos Calientes / Mojada por Dentro / El No Va a Venir / Voy a Morir Dentro Tuyo",
+      "url": "https://open.spotify.com/track/4wvQj6T8Ut1oixkIr7r0S3"
     },
     {
       "added_at": "2023-04-07 03:00:00",

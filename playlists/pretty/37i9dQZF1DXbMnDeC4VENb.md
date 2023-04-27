@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 
 > Una eufórica dosis de urbano romántico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,874 likes - 88 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,979 likes - 88 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 5 | [No quise dañarte](https://open.spotify.com/track/57EhNdIYjhowMMKiR8frkG) | [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [No quise dañarte](https://open.spotify.com/album/0NAjyZrDAPqiqYXhu9gSTV) | 3:15 |
 | 6 | [¿Cómo Se Supera?](https://open.spotify.com/track/3YVgqw3Qw5GZGSiNXw7sd5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [¿Cómo Se Supera?](https://open.spotify.com/album/2y7fMhpx5uexdebjJEuNzF) | 3:23 |
 | 7 | [Por Qué Será?](https://open.spotify.com/track/3ZOy45DDnJ5DrRyROqUgLL) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Por Qué Será?](https://open.spotify.com/album/5cZUVmlDivJW0hNO8VQJ6V) | 3:19 |
-| 8 | [Tenemos Que Admitirlo](https://open.spotify.com/track/06eonGKdzSinzB7CSSF8hM) | [Solo Cadaver](https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy), [Elijah Parrish](https://open.spotify.com/artist/34QOYfoMpFy3fvpj9YiTui), [Lil Benjas](https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP) | [Tar](https://open.spotify.com/album/1T2CE7PJA6h7hdVgV74uyU) | 3:31 |
+| 8 | [Tenemos Que Admitirlo](https://open.spotify.com/track/3IamQFqgbiBdv9IyrRoYMf) | [Solo Cadaver](https://open.spotify.com/artist/0nJMsYBFq21salzctioYYc), [Lil Benjas](https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP), [Elijah Parrish](https://open.spotify.com/artist/6ZI3Wz5J84OYkaElzhkgaJ) | [Tar](https://open.spotify.com/album/0aTPIlmgdGC0vmoRw1cWtt) | 3:31 |
 | 9 | [Toma Mi Mano](https://open.spotify.com/track/4D79UdvYGsjVxaiJmrbGeF) | [Matias Juarez](https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [Toma Mi Mano](https://open.spotify.com/album/4RYwM9s2eKNtcj6ErnLirj) | 3:02 |
 | 10 | [No te puedo olvidar](https://open.spotify.com/track/2AmhsW7krdAbX1jtN3azTP) | [Nuco](https://open.spotify.com/artist/2FCR4hKgXtEmNCRH8pyENS), [Sid MSC](https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb) | [No te puedo olvidar](https://open.spotify.com/album/0SbmPCnt3bejnNrWaKqDtW) | 3:09 |
 | 11 | [Me Gustas Más Que Salir a Fumar](https://open.spotify.com/track/3e5qNP3CSArQiLLBMJQkUM) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Me Gustas Más Que Salir a Fumar](https://open.spotify.com/album/0D1v1FFqRnSxLhxbU93gvs) | 3:23 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 87 | [Barbie Ven](https://open.spotify.com/track/4QJN9tUM1gPGrS4LM9424u) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [Barbie Ven](https://open.spotify.com/album/2jWWAbKtp7ACnQcUT1a7eV) | 2:41 |
 | 88 | [Nuestro Silencio](https://open.spotify.com/track/1zraV8Jxi9Srk1VN0rcPTn) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Nuestro Silencio](https://open.spotify.com/album/7zNgzMXxxXMfhMjBkUUnhq) | 3:20 |
 
-Snapshot ID: `MTY4MTQ1MjAwMCwwMDAwMDAwMGEwOTJkMDI4YzJhN2UwMmZjN2Q2YTg4MThmNWU5ZGJh`
+Snapshot ID: `MTY4MTQ1MjAwMCwwMDAwMDAwMDZlMTNiMDAxM2NmZjI4M2EzN2I2YzM4MDE4OWE2ODli`

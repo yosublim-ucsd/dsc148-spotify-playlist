@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Ryu, the Runner, Mateca",
-  "num_followers": 103800,
+  "num_followers": 103965,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0NjA2MCwwMDAwMDAwMDQ0MjhhMDZhZWE3OWYzOWExZTdjMTI1NTZiMmU3Y2Mw",
+  "snapshot_id": "MTY4MjA0NjA2MCwwMDAwMDAwMDc0MzM5NTQ0MmM0MmQwNWYxMjdlYTM5YjdmZmUzMDdh",
   "tracks": [
     {
       "added_at": "2023-04-21 03:01:00",
@@ -89,7 +89,7 @@
         },
         {
           "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/5A0IVCW22IfgXkU9TLNxr3"
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
         },
         {
           "name": "Supernova Ent",
@@ -1107,6 +1107,38 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
+        "name": "Marid\u00e3o (feat. Kizzy & Feek)",
+        "url": "https://open.spotify.com/album/0aSsD1WItij77UITRQNCxP"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        },
+        {
+          "name": "Feek",
+          "url": "https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV"
+        }
+      ],
+      "duration_ms": 322622,
+      "name": "Marid\u00e3o (feat. Kizzy & Feek)",
+      "url": "https://open.spotify.com/track/66H84rhrbf31Tm8Mv9GAtJ"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
         "name": "Bicho Solto",
         "url": "https://open.spotify.com/album/2Wma4pTFGzWmhdvIBAZtQy"
       },
@@ -1179,38 +1211,6 @@
       "duration_ms": 130909,
       "name": "Australiana",
       "url": "https://open.spotify.com/track/1vSi0uIXyYgI35vWkpHZDx"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
-        "name": "Marid\u00e3o (feat. Kizzy & Feek)",
-        "url": "https://open.spotify.com/album/0aSsD1WItij77UITRQNCxP"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Kizzy",
-          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
-        },
-        {
-          "name": "Feek",
-          "url": "https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV"
-        }
-      ],
-      "duration_ms": 322622,
-      "name": "Marid\u00e3o (feat. Kizzy & Feek)",
-      "url": "https://open.spotify.com/track/66H84rhrbf31Tm8Mv9GAtJ"
     },
     {
       "added_at": "2023-04-21 03:01:00",

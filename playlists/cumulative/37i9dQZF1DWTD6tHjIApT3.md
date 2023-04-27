@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 大比良瑞希
 
-1,306 songs - 3 day 13 hr 4 min
+1,307 songs - 3 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,7 +412,8 @@
 | [Maze](https://open.spotify.com/track/7dO0DWNctendV8W3XbRBux) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [mimiko](https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I) | [Time Won't Stop](https://open.spotify.com/album/0rQDHxRhpolHbzQYcB510w) | 5:08 | 2022-12-20 | 2023-01-04 |
 | [Me](https://open.spotify.com/track/506SMXza1AL4zfQ462QjrY) | [Kana Adachi](https://open.spotify.com/artist/6SY4uTql6IMmzbAJH9oAsJ) | [Me](https://open.spotify.com/album/14CUeUoILBY0xLdTu4LnUw) | 3:02 | 2022-06-07 | 2022-06-15 |
 | [Meidaimae](https://open.spotify.com/track/231UG79D3cxclM5WAkLWrO) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [Meidaimae](https://open.spotify.com/album/1aPnyYlDvtm7Xb83s6hdQ8) | 4:23 | 2022-05-31 | 2022-06-01 |
-| [Melon](https://open.spotify.com/track/7GZ2Y8lYqyzQ2b20RLGNLJ) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [Melon](https://open.spotify.com/album/0jkjGMEXFfTA3SZgfGLV5p) | 4:12 | 2023-04-25 |  |
+| [Melon](https://open.spotify.com/track/4xe4qAbgXitdQayGBnVeXT) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [Melon](https://open.spotify.com/album/1VOybJiXDbg2eRTBidpNDE) | 4:12 | 2023-04-25 |  |
+| [Melon](https://open.spotify.com/track/7GZ2Y8lYqyzQ2b20RLGNLJ) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [Melon](https://open.spotify.com/album/0jkjGMEXFfTA3SZgfGLV5p) | 4:12 | 2023-04-25 | 2023-04-27 |
 | [merry\-go\-round](https://open.spotify.com/track/3CYemzVuuyf3dJoC6Wq201) | [植城 微香](https://open.spotify.com/artist/0eI7jwIoQ82C2fZcwRpZUs) | [merry\-go\-round](https://open.spotify.com/album/3KeUgKf3pF8zW4v0BitGub) | 4:39 | 2022-11-08 | 2022-11-16 |
 | [META](https://open.spotify.com/track/3H1jaEgNg68GoeGQE45fIa) | [ELAIZA](https://open.spotify.com/artist/45dMXQSIdhCQd5RUqDSpka) | [META](https://open.spotify.com/album/1pNW2KV6q3Rzao1nR85Gki) | 3:27 | 2022-09-13 | 2022-09-28 |
 | [Metro](https://open.spotify.com/track/7taibwvU4cNkjeB5rol4rp) | [POOL](https://open.spotify.com/artist/2dvTZ5JWjRhkzd8QSBIhDo) | [TWØ](https://open.spotify.com/album/2pEXeGmIVAStlWdWOTXzWd) | 3:18 | 2022-05-29 | 2022-06-01 |

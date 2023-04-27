@@ -1,12 +1,12 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 160414,
+  "num_followers": 160541,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI1NjIzNiwwMDAwMDAwMDgzNDFiMGE0ZTMyNjU3NmM3ZWIyMjBhYWNhNzFjNTYw",
+  "snapshot_id": "MTY3NzI1NjIzNiwwMDAwMDAwMGNmMDQ1YTFkNjg5YjNmMjk0NmQ0MDY0ZmY3Y2M0OTUx",
   "tracks": [
     {
       "added_at": "2023-02-24 16:30:36",
@@ -655,18 +655,22 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "Las Preferidas, Vol. 2 (En vivo)",
-        "url": "https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D"
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 188917,
-      "name": "Yo Te Necesito - En vivo",
-      "url": "https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt"
+      "duration_ms": 237400,
+      "name": "Recuerdos, Tristeza Y Soledad",
+      "url": "https://open.spotify.com/track/4FjZvGHJpFLJIZxCpsoRnP"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -703,22 +707,18 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+        "name": "Las Preferidas, Vol. 2 (En vivo)",
+        "url": "https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D"
       },
       "artists": [
         {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 237400,
-      "name": "Recuerdos, Tristeza Y Soledad",
-      "url": "https://open.spotify.com/track/4FjZvGHJpFLJIZxCpsoRnP"
+      "duration_ms": 188917,
+      "name": "Yo Te Necesito - En vivo",
+      "url": "https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
-        }
-      ],
-      "duration_ms": 233746,
-      "name": "Nada Que Me Recuerde A Ti",
-      "url": "https://open.spotify.com/track/3TVwCVYDOFmEiwvvOC82Lw"
-    },
-    {
-      "added_at": "2023-02-24 16:30:36",
-      "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 214000,
       "name": "Sin \u00c9l",
       "url": "https://open.spotify.com/track/7bdiuUevmV6VOoQl9A2CnU"
+    },
+    {
+      "added_at": "2023-02-24 16:30:36",
+      "album": {
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "duration_ms": 233746,
+      "name": "Nada Que Me Recuerde A Ti",
+      "url": "https://open.spotify.com/track/3TVwCVYDOFmEiwvvOC82Lw"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -1096,13 +1096,13 @@
       },
       "artists": [
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 220253,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
+      "duration_ms": 273720,
+      "name": "C\u00f3mo Fui A Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/7MaFKBLhW220azgglkJiws"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -1112,13 +1112,13 @@
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 273720,
-      "name": "C\u00f3mo Fui A Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/7MaFKBLhW220azgglkJiws"
+      "duration_ms": 220253,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -1264,13 +1264,13 @@
       },
       "artists": [
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
         }
       ],
-      "duration_ms": 205373,
-      "name": "Inv\u00e9ntame",
-      "url": "https://open.spotify.com/track/1yTl2UvjZFPUVE8ugKQdOY"
+      "duration_ms": 228160,
+      "name": "Mi Eterno Amor Secreto",
+      "url": "https://open.spotify.com/track/3QzZrgJWdkOZrGPZU3Qgpu"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -1280,13 +1280,13 @@
       },
       "artists": [
         {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 228160,
-      "name": "Mi Eterno Amor Secreto",
-      "url": "https://open.spotify.com/track/3QzZrgJWdkOZrGPZU3Qgpu"
+      "duration_ms": 205373,
+      "name": "Inv\u00e9ntame",
+      "url": "https://open.spotify.com/track/1yTl2UvjZFPUVE8ugKQdOY"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "Dos Mundos Tradici\u00f3n",
-        "url": "https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I"
+        "name": "Como Tu Mujer",
+        "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
       },
       "artists": [
         {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         }
       ],
-      "duration_ms": 214400,
-      "name": "Mi Rechazo",
-      "url": "https://open.spotify.com/track/7mPVt1aTriYEefSYJP49Xy"
+      "duration_ms": 229733,
+      "name": "C\u00f3mo Me Duele Irte Perdiendo",
+      "url": "https://open.spotify.com/track/0TRLsi0C8rLgSWjPhpFnwz"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "Como Tu Mujer",
-        "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
+        "name": "Dos Mundos Tradici\u00f3n",
+        "url": "https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I"
       },
       "artists": [
         {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 229733,
-      "name": "C\u00f3mo Me Duele Irte Perdiendo",
-      "url": "https://open.spotify.com/track/0TRLsi0C8rLgSWjPhpFnwz"
+      "duration_ms": 214400,
+      "name": "Mi Rechazo",
+      "url": "https://open.spotify.com/track/7mPVt1aTriYEefSYJP49Xy"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "Una Noche En Madrid",
-        "url": "https://open.spotify.com/album/0rtsxbXUaH6OlDKiwwoMD8"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 263800,
-      "name": "Si Te Pudiera Mentir - Live Version",
-      "url": "https://open.spotify.com/track/239yEYlZWG7PYuUojNywXZ"
-    },
-    {
-      "added_at": "2023-02-24 16:30:36",
-      "album": {
         "name": "M\u00e1s De Mi Alma",
         "url": "https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 257399,
       "name": "Donde Estar\u00e1 Mi Primavera",
       "url": "https://open.spotify.com/track/35eHQOoJKDcubkh3A5quLc"
+    },
+    {
+      "added_at": "2023-02-24 16:30:36",
+      "album": {
+        "name": "Una Noche En Madrid",
+        "url": "https://open.spotify.com/album/0rtsxbXUaH6OlDKiwwoMD8"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 263800,
+      "name": "Si Te Pudiera Mentir - Live Version",
+      "url": "https://open.spotify.com/track/239yEYlZWG7PYuUojNywXZ"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -2216,9 +2216,9 @@
           "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 203400,
-      "name": "Mi Fantasia",
-      "url": "https://open.spotify.com/track/1C5b8u6soZnLGkBqYrEtUE"
+      "duration_ms": 231426,
+      "name": "Necesito Una Compa\u00f1era",
+      "url": "https://open.spotify.com/track/3C774e6E4KmqSFHk1b4GNY"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -2232,9 +2232,9 @@
           "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 231426,
-      "name": "Necesito Una Compa\u00f1era",
-      "url": "https://open.spotify.com/track/3C774e6E4KmqSFHk1b4GNY"
+      "duration_ms": 203400,
+      "name": "Mi Fantasia",
+      "url": "https://open.spotify.com/track/1C5b8u6soZnLGkBqYrEtUE"
     },
     {
       "added_at": "2023-02-24 16:30:36",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VulteLVOkq.md) - [plain]
 
 > Just some of the many highlights from the <a href="spotify:artist:3PhoLpVuITZKcymswpck5b">Rocket Man</a>'s career.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,193,711 likes - 52 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,193,910 likes - 52 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VulteLVOkq.md) - [plain]
 | 42 | [Blue Eyes \- Remastered 2003](https://open.spotify.com/track/4PFhHd7DsNg0ke9Nmlxms5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 3:26 |
 | 43 | [Burn Down The Mission](https://open.spotify.com/track/3ggTCH9i9dJ0sRdAxFGzcr) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection](https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY) | 6:22 |
 | 44 | [Don't Go Breaking My Heart](https://open.spotify.com/track/5knatk8Xid2nNvr4D6Tdjg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Duets](https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea) | 4:59 |
-| 45 | [Ghetto Gospel](https://open.spotify.com/track/7jLbTp3qZzah9kMIdW8e5M) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Loyal To The Game](https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn) | 3:58 |
+| 45 | [Ghetto Gospel](https://open.spotify.com/track/7jLbTp3qZzah9kMIdW8e5M) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Loyal To The Game](https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn) | 3:58 |
 | 46 | [Made In England](https://open.spotify.com/track/6VmxhbNRCURgu8d5pEPRb8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/1IkLYWnY2NNZjpE0z7m3EH) | 5:08 |
 | 47 | [A Good Heart](https://open.spotify.com/track/0tHSq0Q3IdId4dodh4JxkQ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 4:50 |
 | 48 | [When Love Is Dying](https://open.spotify.com/track/1E57RLSEqhFOmNa4WycsOu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Leon Russell](https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN) | [The Union \(Deluxe\)](https://open.spotify.com/album/7hZmPWO4fh1zlDBQOdRwSg) | 4:50 |

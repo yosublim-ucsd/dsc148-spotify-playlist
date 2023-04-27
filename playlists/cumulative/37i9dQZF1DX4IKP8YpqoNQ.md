@@ -2,9 +2,9 @@
 
 ### [Soul Live](https://open.spotify.com/playlist/37i9dQZF1DX4IKP8YpqoNQ)
 
-> Experience the best live performances.
+> Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-189 songs - 15 hr 52 min
+191 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,13 +102,14 @@
 | [Let's Get It On \- Live At The London Palladium/1976](https://open.spotify.com/track/0BkJY3UsoBYPCwKBl2ate3) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Live At The London Palladium](https://open.spotify.com/album/5PY79lSefhMwfRU4v2fIjU) | 6:21 | 2022-02-10 |  |
 | [Let's Start](https://open.spotify.com/track/5iBPlU3XOy6ooug4rD9Cft) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Fela With Ginger Baker Live!](https://open.spotify.com/album/7fkwNiJJggsA4bFyDMzmSr) | 7:45 | 2022-02-10 | 2022-07-29 |
 | [Let's Start \(feat\. Ginger Baker\) \- Live](https://open.spotify.com/track/7nM9ZnOD6nL04E5dOjjZiw) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV), [Ginger Baker](https://open.spotify.com/artist/5xTbqEbkihxdjj2jyYSthw) | [Fela With Ginger Baker Live!](https://open.spotify.com/album/4muZmxBESyBUEW61rIF0D5) | 7:45 | 2022-02-10 |  |
-| [Let's Stay Together \- Live](https://open.spotify.com/track/474iAHLvDbXAQnEI82i4RW) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Tokyo..\. Live](https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ) | 3:52 | 2022-02-10 |  |
+| [Let's Stay Together \- Live](https://open.spotify.com/track/474iAHLvDbXAQnEI82i4RW) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Tokyo..\. Live](https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ) | 3:52 | 2022-02-10 | 2023-04-27 |
 | [Like a Ship \- Live from Strange Manor](https://open.spotify.com/track/6J6InHh9eVYIxva60QTB5e) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Like a Ship \(Live from Strange Manor\)](https://open.spotify.com/album/3i25lVb7GBHyj4YO7L7ki7) | 5:12 | 2023-04-06 |  |
 | [Little Ghetto Boy \(Live\)](https://open.spotify.com/track/4BsSAMZ8Lsmqgha5CSi39h) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Lalah Hathaway Live!](https://open.spotify.com/album/4XPHspoSgvDO0ongX1PVKv) | 3:56 | 2022-02-10 | 2022-07-28 |
 | [Little Ghetto Boy \(Radio Edit\)](https://open.spotify.com/track/6vtr9TyGFmEtooMPRamYWb) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Lalah Hathaway Live!](https://open.spotify.com/album/2g2JY5M0fG0TJeE3Q6iL71) | 3:56 | 2022-02-10 |  |
 | [Look Up To The Sky \- Live](https://open.spotify.com/track/7AToEkxMNtu2DGerv9lTFv) | [Nicole Bus](https://open.spotify.com/artist/0IeB4swNmNetlaZUgdHqBX) | [Live In NYC](https://open.spotify.com/album/2ek7e3WgzpZVmxgDdWkSkU) | 4:03 | 2022-02-10 | 2022-07-29 |
 | [Lost \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5wjdouk5wQxXkmTeyOC12M) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Spotify Singles](https://open.spotify.com/album/2kQ1EcVFOp70CML1HYjRzn) | 3:54 | 2022-02-10 |  |
 | [Love & Hate \- Live From Spotify London](https://open.spotify.com/track/2TWG1zX5vzOD2aJxfJ5W5U) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Spotify Sessions](https://open.spotify.com/album/1izqfeako1qgYLviORVoDT) | 8:33 | 2022-02-10 |  |
+| [Love Calls \- Anniversary – Live](https://open.spotify.com/track/3N5SwICIY2ZVCQsXatCmPw) | [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R) | [Anniversary – The Live Album](https://open.spotify.com/album/5DVXFbGuoXcqUNuRS4Ah1t) | 3:43 | 2023-04-26 |  |
 | [Love Is A Losing Game \- Live At The Mercury Music Awards](https://open.spotify.com/track/1DYCdxNAVNUCAOlAi7aP5o) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [AMY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3) | 2:32 | 2022-02-10 |  |
 | [Love the One You're With \- Live at Fillmore West, San Francisco, February 5, 1971](https://open.spotify.com/track/0tFlfhP555Y1alrtpw23Ch) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Live at Fillmore West](https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc) | 4:21 | 2022-02-10 |  |
 | [Mary Jane \(All Night Long\) \- Live](https://open.spotify.com/track/2gaALAQJNNtFkE2Tu2kzuS) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [The Tour](https://open.spotify.com/album/5V0EoaXr2iR8rWsV0Bbr1S) | 2:20 | 2022-02-10 | 2022-07-31 |
@@ -164,7 +165,7 @@
 | [The World \(Is Going Up in Flames\) \- Live From Spotify House SXSW '16](https://open.spotify.com/track/1BbzDXEzmgyNT8jeCQvawN) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf) | [Spotify Sessions](https://open.spotify.com/album/0jEAeDxv9hnoIc1YO1kpUk) | 3:11 | 2022-02-10 |  |
 | [The World \(Is Going up in Flames\) \- Live from Spotify House SXSW '16](https://open.spotify.com/track/3Hy45zVyIpdk9BozbS4PU3) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf) | [Spotify Sessions](https://open.spotify.com/album/4fhvCJ9ddgfRcKvubAxZxu) | 3:11 | 2022-02-10 | 2022-07-29 |
 | [There's Nothing Like This \- Live](https://open.spotify.com/track/2kMf9K6k20Ab19RQpUspEj) | [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z), [QCBA](https://open.spotify.com/artist/37B0KQjcPVSWjLpOO8ChBb) | [There's Nothing Like This \(Live\)](https://open.spotify.com/album/3P8vrRhCKHoITLLXiwe1iH) | 7:50 | 2022-02-10 | 2022-07-29 |
-| [These Arms Of Mine](https://open.spotify.com/track/03pSPi9O3N1CkZ12M6Av44) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Good To Me: Recorded Live At The Whisky A Go Go Vol\. 2](https://open.spotify.com/album/4GBpI2RteJ9C51Mf1OgZAQ) | 3:30 | 2022-02-10 |  |
+| [These Arms Of Mine](https://open.spotify.com/track/03pSPi9O3N1CkZ12M6Av44) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Good To Me: Recorded Live At The Whisky A Go Go Vol\. 2](https://open.spotify.com/album/4GBpI2RteJ9C51Mf1OgZAQ) | 3:30 | 2022-02-10 | 2023-04-27 |
 | [Time Is On My Side \- Live At Slim's, San Francisco, CA / 8\-30\-1990 & 8\-31\-1990](https://open.spotify.com/track/1TIejSLYx3yUHxiHnAsnlU) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Simply The Best: Live!](https://open.spotify.com/album/5B0ZSh5gb6vFoOe5hSq97w) | 2:38 | 2022-02-10 | 2022-07-24 |
 | [Tired of Being Alone \- Live](https://open.spotify.com/track/4ZEP6AlYmtx43qQdr5cwcx) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Tokyo..\. Live](https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ) | 5:17 | 2022-02-10 | 2022-07-29 |
 | [To Be Young, Gifted and Black \- Live at the Troubador, Los Angeles, CA](https://open.spotify.com/track/6zLWH5tkCUU6k5nlBzM8z8) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [In Performance](https://open.spotify.com/album/5GKpUSUujdodLbsrJPu4FW) | 8:22 | 2022-02-10 | 2022-07-28 |
@@ -196,6 +197,7 @@
 | [You Got the Love \- Live Version](https://open.spotify.com/track/5QVr1U4qIpdYIWOzAjbXfr) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Stompin' At The Savoy](https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP) | 5:36 | 2022-02-10 |  |
 | [You Send Me \- Live](https://open.spotify.com/track/3SSME22KikEJx7H5t2zvAI) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Sam Cooke At the Copa](https://open.spotify.com/album/5CvI10y16ATzPfGt7SUhFH) | 4:55 | 2022-02-10 | 2022-07-29 |
 | [You're Gonna Miss Your Candy Man \- Live](https://open.spotify.com/track/4lHfktTRWq6a3pjq2Km8Xb) | [Terry Callier](https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs) | [Alive \(Live At the Jazz Cafe, London\)](https://open.spotify.com/album/4uF0UXKgm2kqBUlN4NHcie) | 6:53 | 2022-02-10 | 2023-04-05 |
+| [You're On My Mind \- Anniversary – Live](https://open.spotify.com/track/290YzYxkEXUdwiwh2daqCt) | [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R) | [Anniversary – The Live Album](https://open.spotify.com/album/5DVXFbGuoXcqUNuRS4Ah1t) | 4:14 | 2023-04-26 |  |
 | [You've Got a Friend \- Live](https://open.spotify.com/track/3jwtAvbYIqd1maiNMzUTks) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Live](https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5) | 4:31 | 2022-02-10 |  |
 
 \*This playlist was first scraped on 2022-07-10. Prior content cannot be recovered.

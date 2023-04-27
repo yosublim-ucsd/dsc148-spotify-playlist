@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,042,315 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,042,389 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 44 | [Shine](https://open.spotify.com/track/1QhrlNjzqmqEFW5T5yMFhw) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 4:29 |
 | 45 | [Warning \(feat\. Stick Figure\)](https://open.spotify.com/track/29JOtyhGMv2gfikATHJlCF) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Local Motion](https://open.spotify.com/album/3H0eh5wIky3GjF83fRcDT0) | 3:52 |
 | 46 | [Fade Away](https://open.spotify.com/track/4TyCnstYu6LGrjka5WW6ft) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Count Me In](https://open.spotify.com/album/05SuSxEPuEJI1RnwTcOCRg) | 3:29 |
-| 47 | [Bang Bang](https://open.spotify.com/track/2yGoiZes2YcueNA4nGDmdS) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Bang Bang](https://open.spotify.com/album/0tN2TkilPoLmqN21UJBC77) | 4:27 |
-| 48 | [Here I Am](https://open.spotify.com/track/1YerDWS5vQE35RjTe53CDR) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Born In Babylon](https://open.spotify.com/album/4XylolsNO125zA2WtvpoXl) | 4:48 |
+| 47 | [Here I Am](https://open.spotify.com/track/1YerDWS5vQE35RjTe53CDR) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Born In Babylon](https://open.spotify.com/album/4XylolsNO125zA2WtvpoXl) | 4:48 |
+| 48 | [Bang Bang](https://open.spotify.com/track/2yGoiZes2YcueNA4nGDmdS) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Bang Bang](https://open.spotify.com/album/0tN2TkilPoLmqN21UJBC77) | 4:27 |
 | 49 | [Beach in Hawaii](https://open.spotify.com/track/45JFUzpVO7pvS2bApjj8d0) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX) | 3:44 |
 | 50 | [Love I](https://open.spotify.com/track/4H1aZMAqnzICsnFVDf6Lxc) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh) | [The Green](https://open.spotify.com/album/37Qr8WHL9Pa1BYEeKDxaJ6) | 3:38 |
 | 51 | [Take It or Leave It](https://open.spotify.com/track/0qdnPX9umHlQBQuv2sYZlo) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Yours Truly \(Deluxe Edition\)](https://open.spotify.com/album/2bKgvvT3ZCOW8CRpbU0Hdt) | 3:52 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 81 | [Dance My Stress Away \(with Stephen Marley\)](https://open.spotify.com/track/4YzBQfeZtXKEQABl61rT6f) | [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Dance My Stress Away \(with Stephen Marley\)](https://open.spotify.com/album/4qAB2fZm1df7LhxPIiXAmW) | 3:34 |
 | 82 | [Put Down What You Are Carrying \(with Brett Dennen\)](https://open.spotify.com/track/4rKNAryOSqMpb0qoum5UoN) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8), [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Put Down What You Are Carrying \(with Brett Dennen\)](https://open.spotify.com/album/2lzYJjnD2rPbjMdmBh45KB) | 4:28 |
 | 83 | [I Got You](https://open.spotify.com/track/5WjDmjD39LsFCRRALhorjd) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [From Here To Now To You](https://open.spotify.com/album/61427AKV7p3p30uvrniI4L) | 2:59 |
-| 84 | [Always With Me](https://open.spotify.com/track/2ToMES33dQe8kiTPSjTdZH) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Always With Me](https://open.spotify.com/album/0DeaiadTeALAqCCUW4Lv5Y) | 4:23 |
-| 85 | [Too Late \(with Jared Watson of Dirty Heads\)](https://open.spotify.com/track/3jaaCjDmM9wMEr42mMqrPo) | [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7), [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Too Late \(with Jared Watson of Dirty Heads\)](https://open.spotify.com/album/66wLNcY6lSL4kuvrWr5CIn) | 2:37 |
+| 84 | [Too Late \(with Jared Watson of Dirty Heads\)](https://open.spotify.com/track/3jaaCjDmM9wMEr42mMqrPo) | [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7), [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Too Late \(with Jared Watson of Dirty Heads\)](https://open.spotify.com/album/66wLNcY6lSL4kuvrWr5CIn) | 2:37 |
+| 85 | [Always With Me](https://open.spotify.com/track/2ToMES33dQe8kiTPSjTdZH) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Always With Me](https://open.spotify.com/album/0DeaiadTeALAqCCUW4Lv5Y) | 4:23 |
 | 86 | [Love Letter](https://open.spotify.com/track/6swAqbmAJ7m19IxoHK1y5Z) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Say What You're Thinking](https://open.spotify.com/album/1q130S8gKNKgURMPj8KjCt) | 3:33 |
 | 87 | [Lemonade](https://open.spotify.com/track/1obuz0c6zjQ77jPTKm9DdE) | [Adam Friedman](https://open.spotify.com/artist/2XVvpzlWqk7Dmj8BgKx4k1), [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Lemonade](https://open.spotify.com/album/7EpOT6X96uXWWnD0ilkRLr) | 2:51 |
 | 88 | [I Miss You \(with Spragga Benz\)](https://open.spotify.com/track/4dAGBHZk6GxsqxM3Kw6xYL) | [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs), [Spragga Benz](https://open.spotify.com/artist/2RUW6D53228zMHAXjaQI8f) | [Mood Swing](https://open.spotify.com/album/0vu3HrudrHm4M0zMIfAMzY) | 2:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 99 | [Drifting In Out of Time](https://open.spotify.com/track/1P69oceVUgEEKO5TBKM7kn) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK) | [A Seafarer and the Infinite Dream](https://open.spotify.com/album/2byxJMI52Ov7gWQp0imRER) | 3:15 |
 | 100 | [The Game](https://open.spotify.com/track/24nN6MHT8RXVLMPp5Xxfje) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Mind The Moon](https://open.spotify.com/album/4IVcJES0Og7KzrtA70DgC2) | 3:33 |
 
-Snapshot ID: `MTY4MjQ2NjI0NCwwMDAwMDAwMDE0MGQ5ZTRjYzk1NDU4ODgwOWM2MDIyMDU0MDVmMjQ2`
+Snapshot ID: `MTY4MjQ2NjI0NCwwMDAwMDAwMGJlN2MxYzg1M2RhM2MxYTA0MjA3YmQ3YzQyNzZhNTVm`

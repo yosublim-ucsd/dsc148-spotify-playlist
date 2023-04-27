@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0627\u063a\u0627\u0646\u064a \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629. \u063a\u0644\u0627\u0641 : \u0633\u064a\u0641 \u0646\u0628\u064a\u0644",
+  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0627\u063a\u0627\u0646\u064a \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629. \u063a\u0644\u0627\u0641 : \u0641\u064a\u0635\u0644 \u0639\u0628\u062f\u0627\u0644\u0643\u0631\u064a\u0645",
   "name": "\u0639\u0631\u0627\u0642\u064a \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -734,6 +734,24 @@
       "duration_ms": 192307,
       "name": "Asab Khabar",
       "url": "https://open.spotify.com/track/7aqTO66MftpsIrF3WbCesB"
+    },
+    {
+      "album": {
+        "name": "Asheq Majnoon",
+        "url": "https://open.spotify.com/album/0NZnWtguxnWFzjx3GTJadc"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud Al Turky",
+          "url": "https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221701,
+      "name": "Asheq Majnoon",
+      "url": "https://open.spotify.com/track/5orvt7dTDRMeAnP0xw5GEV"
     },
     {
       "album": {
@@ -1549,6 +1567,24 @@
     },
     {
       "album": {
+        "name": "Eza Endak Waqt",
+        "url": "https://open.spotify.com/album/5CD5ZcTnebSduZWZ077ilg"
+      },
+      "artists": [
+        {
+          "name": "Husam Al Rassam",
+          "url": "https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281237,
+      "name": "Eza Endak Waqt",
+      "url": "https://open.spotify.com/track/3HTxsFcxKgH0mENxyBezBN"
+    },
+    {
+      "album": {
         "name": "Faqadat Alnaas",
         "url": "https://open.spotify.com/album/19GaPl9gfEK41QlrENJVOD"
       },
@@ -1726,7 +1762,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 163000,
       "name": "Hala Wallah",
       "url": "https://open.spotify.com/track/0CW5JdaXMKgZP0KUJ4fNt2"
@@ -1798,7 +1834,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 212857,
       "name": "Hasid Ruhi",
       "url": "https://open.spotify.com/track/4iAkXgXx62xHIxgLeUxQJl"
@@ -2849,6 +2885,28 @@
     },
     {
       "album": {
+        "name": "Faisal Abdulkareem Mini Album 2023",
+        "url": "https://open.spotify.com/album/7CFVvOVCrfnfzj57WXWtFi"
+      },
+      "artists": [
+        {
+          "name": "Faisal Abdulkareem",
+          "url": "https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK"
+        },
+        {
+          "name": "Zayed Al Saleh",
+          "url": "https://open.spotify.com/artist/1l5hkQZj28djsCJWtN62wm"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199097,
+      "name": "Sabea Zaal",
+      "url": "https://open.spotify.com/track/1eUSNfLLJfy6YGGmS2S2Bn"
+    },
+    {
+      "album": {
         "name": "Sarat Qadeema",
         "url": "https://open.spotify.com/album/5oGCOwJ4rslmF5rSwuhOTm"
       },
@@ -3542,7 +3600,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 235301,
       "name": "Ya Hawa",
       "url": "https://open.spotify.com/track/2vAAElgBqn7Zg4RE8ILTnb"

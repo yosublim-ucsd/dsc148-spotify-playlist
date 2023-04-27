@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez notre sélection des artistes à suivre\. Photo : Styleto
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,134 likes - 35 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,144 likes - 35 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

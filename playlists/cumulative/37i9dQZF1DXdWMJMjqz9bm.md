@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: Felly
 
-505 songs - 23 hr 19 min
+510 songs - 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [bananas](https://open.spotify.com/track/2ATv3xkGSMTOaHobqa8hFn) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF) | [bananas](https://open.spotify.com/album/68CuxaV12xyp4861YjzAkx) | 2:45 | 2021-11-16 | 2022-02-19 |
 | [BAND$](https://open.spotify.com/track/2sWoPLbQ4qCZ56D5yCX5W3) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [BAND$](https://open.spotify.com/album/42ToFwAOyBEIE9dtll54d1) | 1:48 | 2022-02-04 | 2022-03-26 |
 | [barcelona](https://open.spotify.com/track/6hLMs5N7rRkIaCRfgYEB9B) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [barcelona](https://open.spotify.com/album/2JuEOpkytQC2KsRz1cVREB) | 1:42 | 2022-10-14 | 2023-01-14 |
+| [Bartender](https://open.spotify.com/track/3nAz0OCzeiGbUudc8kXKar) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [The People's Champ](https://open.spotify.com/album/1FguQss7XFrc5w7KWL2sc9) | 2:56 | 2023-04-26 |  |
 | [be alright](https://open.spotify.com/track/7HaPFrLUDAzTJuIo0M1i8X) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [be alright](https://open.spotify.com/album/5kNJB5OX6LnFVMNKBLnM6E) | 2:27 | 2022-06-17 | 2022-07-09 |
 | [Beautiful](https://open.spotify.com/track/0SPvoWOI3cUvLSF61bToD0) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Beautiful](https://open.spotify.com/album/6izE6ya12rKksWBZXKh7zU) | 2:46 | 2022-09-09 | 2022-10-15 |
 | [bedroom floor](https://open.spotify.com/track/2Xbvn1LoF0FpsW66SWieyZ) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 5](https://open.spotify.com/album/3FmZtgNMtXeaDlPOlgwB84) | 2:01 | 2022-06-03 | 2022-09-03 |
@@ -87,6 +88,7 @@
 | [CHARGER](https://open.spotify.com/track/0ZHSbNRrrfAs8hwEuecJM6) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [chillpill](https://open.spotify.com/artist/1QzqrU2lmiW9l1mSvliVoM) | [CHARGER](https://open.spotify.com/album/5y1t9JGawPBdgJjd3Ogl0a) | 1:53 | 2022-02-25 | 2022-03-17 |
 | [Charmander](https://open.spotify.com/track/4NP3gHruXgIo4YSJSNDRBz) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Charmander](https://open.spotify.com/album/5Cy8xrlkPh9lR5XolUM0QE) | 2:11 | 2021-11-16 | 2022-02-26 |
 | [CHASE](https://open.spotify.com/track/3o0hzQy37arz4ymJvqeTYL) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [CHASE](https://open.spotify.com/album/6Irn8skmuGpGOFU8QbPiP5) | 2:45 | 2021-12-17 | 2022-03-05 |
+| [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-04-26 |  |
 | [Child of God](https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Child of God](https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w) | 4:15 | 2022-03-25 | 2022-05-20 |
 | [Chirp](https://open.spotify.com/track/3pzi58VskO2NzwqV75Vce3) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [Chirp](https://open.spotify.com/album/0HM18dhYH5jMz3SPZ2p9Fo) | 2:14 | 2023-01-06 |  |
 | [CHRONICALLY CAUTIOUS](https://open.spotify.com/track/73ZWAySu4UX5LkpCM6zjYh) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [CHRONICALLY CAUTIOUS](https://open.spotify.com/album/418zZ5Y7Wds4r6JiIU0WEL) | 1:59 | 2023-02-27 | 2023-03-18 |
@@ -167,6 +169,7 @@
 | [Floats My Boat](https://open.spotify.com/track/2xH94bp1TPSMPPPnnSwIGL) | [Aer](https://open.spotify.com/artist/25hbSOMmbhgqvonjC876UJ) | [The Bright Side](https://open.spotify.com/album/3p6L2cN8kt6nOVL1TUtPWZ) | 3:26 | 2022-04-14 |  |
 | [For A Minute](https://open.spotify.com/track/2zAKwUD7TVTt8qTxa9bnQJ) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [For A Minute](https://open.spotify.com/album/2751qfhddwsCitLsJwhbvS) | 1:48 | 2022-04-04 | 2022-06-18 |
 | [For The Squadron](https://open.spotify.com/track/1Am6QnI4dZi0bkXeJXwW6P) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [For The Squadron](https://open.spotify.com/album/5G34PSaRGTFhZZWuznAXGI) | 3:08 | 2022-02-18 | 2022-03-26 |
+| [freak](https://open.spotify.com/track/7o6FydJ4BiJCVfEQvjFvKG) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [die sometime, it's good for u](https://open.spotify.com/album/04JMztBf0vX3JfxKIaifGa) | 2:25 | 2023-04-26 |  |
 | [FREAK](https://open.spotify.com/track/1ruk2OKHi2tmcEPtUvnAt8) | [COTIS](https://open.spotify.com/artist/63CZNEytugjFnZBdjBmWc8) | [FREAK](https://open.spotify.com/album/4RuPOV6asu5LZi73gPhgLo) | 2:58 | 2023-03-17 | 2023-04-18 |
 | [Freak Like That](https://open.spotify.com/track/4jCA5lFRXy7PkryLP7UIc8) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Freak Like That](https://open.spotify.com/album/1QjzC5LHTgCcbvP66LibBE) | 2:15 | 2022-04-22 |  |
 | [Freaky Deaky](https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Freaky Deaky](https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz) | 3:35 | 2022-08-12 | 2022-10-15 |
@@ -178,7 +181,7 @@
 | [Full Monarch](https://open.spotify.com/track/6eD15T3BUxlhPXF8jFofPB) | [Travie McCoy](https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG) | [Never Slept Better](https://open.spotify.com/album/1ff1wHohcN2BRac6Ke4K6C) | 3:37 | 2022-07-15 | 2022-09-10 |
 | [funny lil thing](https://open.spotify.com/track/5vcLMRWLRXZS7r5UNaNZ0r) | [The Golf Club](https://open.spotify.com/artist/7glngbl6iMW8Iszr0pHpKT) | [funny lil thing](https://open.spotify.com/album/12JZ24MNf9lUCDgOBJze2D) | 2:17 | 2022-02-04 | 2022-07-02 |
 | [Future Love](https://open.spotify.com/track/7aFKeqQh8YnsAUyRxw0IvL) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Little Men](https://open.spotify.com/album/0ervPmQvzezaMUGR8W36SV) | 3:41 | 2021-11-16 | 2022-02-26 |
-| [fvcked up](https://open.spotify.com/track/2UDId466CGX4BuZGwW0uiJ) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [fvcked up](https://open.spotify.com/album/5UWUE2F3kGOZmsMB3w6fjU) | 1:52 | 2023-04-07 |  |
+| [fvcked up](https://open.spotify.com/track/2UDId466CGX4BuZGwW0uiJ) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [fvcked up](https://open.spotify.com/album/5UWUE2F3kGOZmsMB3w6fjU) | 1:52 | 2023-04-07 | 2023-04-27 |
 | [G.O.A.T.](https://open.spotify.com/track/0hUepWE4GoMwtKgU8vE617) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Aroc!](https://open.spotify.com/artist/0uT3QSrGqBESB5s0XMa3WK) | [Eric B for President: Term 1](https://open.spotify.com/album/7KNNWIPBk4Josbqhfa2KI3) | 3:04 | 2022-04-04 | 2022-10-08 |
 | [Gamestop](https://open.spotify.com/track/4zWs8KfZLaKo41mee2kBiN) | [Lil God Dan](https://open.spotify.com/artist/20kAERGCnqfyGydzop8bfg) | [Gamestop](https://open.spotify.com/album/6lvwcp6gScy4llch1bRmgd) | 2:05 | 2022-03-22 | 2022-04-05 |
 | [Garden](https://open.spotify.com/track/5geQsvsLNaEF7e8AJORdMd) | [Hablot Brown](https://open.spotify.com/artist/6LtgEnShwvrqAaKohg7skM) | [Hablot Brown](https://open.spotify.com/album/0m0bo1CSzebkmFL486kMZY) | 2:46 | 2022-08-05 | 2022-09-17 |
@@ -245,6 +248,7 @@
 | [It Could Be Me](https://open.spotify.com/track/00fMrdknKRNqnnBl3EkftU) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [It Could Be Me](https://open.spotify.com/album/7cdgnWWIJi8NhLqtwbotba) | 2:07 | 2022-12-16 | 2023-04-05 |
 | [Jenny](https://open.spotify.com/track/1xipoyu49i67F7kM6GLRBY) | [EBEN](https://open.spotify.com/artist/0mZsmXegjYM7hNw0QGE5b7) | [Jenny](https://open.spotify.com/album/2CBcNQze7xZTpNRiTyJ5cT) | 2:10 | 2021-11-16 | 2022-02-26 |
 | [Johnny D](https://open.spotify.com/track/5rLKasnwdMsum1BOb5t3In) | [DYLVN](https://open.spotify.com/artist/1wtLdgT2rz2Ddp30cDotFm) | [Johnny D](https://open.spotify.com/album/1p2mNsTJJPzac5pOf1Yyjt) | 1:51 | 2023-03-03 |  |
+| [Just Be You](https://open.spotify.com/track/0baJ0dpMNqtQMKYYFpvtAY) | [callmestevieray](https://open.spotify.com/artist/2rwCl3cifvJKvL61qdXjML) | [Just Be You](https://open.spotify.com/album/5hiWu3iJHqGv1bNDaGwarc) | 3:06 | 2023-04-26 |  |
 | [Just Like That](https://open.spotify.com/track/3vRSduRquXh9U5EvRB7mS7) | [Zekey](https://open.spotify.com/artist/3hHPnggcxDaU07Tc91RXAA) | [Just Like That](https://open.spotify.com/album/3xml1yNnc0XUO1oOnOSoDU) | 3:11 | 2022-09-02 | 2022-11-30 |
 | [Keys](https://open.spotify.com/track/1kCI0UC3E0gwtOVdgyukFD) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Keys](https://open.spotify.com/album/38tcHYIBDdOtJB0hh7XiHe) | 2:52 | 2022-02-25 | 2022-06-04 |
 | [Kick Back \(feat\. Matt from Matt and Kim\)](https://open.spotify.com/track/7mMimQjKOCCNUYgyCMwOwA) | [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c), [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Coming of Age](https://open.spotify.com/album/1ECVICmYrUie6EIuhvSuWm) | 3:46 | 2022-04-22 | 2022-05-20 |
@@ -394,6 +398,7 @@
 | [Seen It All](https://open.spotify.com/track/6hB0cABPuWsH26D7nsVvCr) | [Bazanji](https://open.spotify.com/artist/3L8FZaw2Rg1oUw3vB4gUME) | [Seen It All](https://open.spotify.com/album/3AoGIwd7pMu3mio3YiVjhQ) | 2:42 | 2022-06-03 | 2022-07-13 |
 | [Self Sabotage](https://open.spotify.com/track/7e0OGRhftSRlGcMW73PFId) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Self Sabotage](https://open.spotify.com/album/2kX5lTEVdTYanDpsutTZSE) | 2:32 | 2021-11-16 | 2022-02-19 |
 | [Selfish](https://open.spotify.com/track/1MKJZ4b0UKqjKQoCZUznbH) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [Underrated](https://open.spotify.com/album/1dJeb9jpVfg88wurDkPQAQ) | 2:51 | 2022-01-14 | 2022-03-26 |
+| [serotonin highs \(feat\. Allen Haley\)](https://open.spotify.com/track/20GbyJrUmAAZIt2x180YUF) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w), [Allen Haley](https://open.spotify.com/artist/0A23HecVtZf5hwBgVi0uYb) | [age tape 3](https://open.spotify.com/album/3Q05Dy5yX20ByC4pRz5zI5) | 2:34 | 2023-04-26 |  |
 | [Shalotto](https://open.spotify.com/track/0bPl4vRtF2gJlIUQ6revK1) | [Josue Janv'ier](https://open.spotify.com/artist/4xSGCBuWuAg2sZPLC02j9U), [Justin Starling](https://open.spotify.com/artist/6W1bAsrekT64MxjeN9UCg0) | [Shalotto](https://open.spotify.com/album/7hPxFQOn0hi6a1E3EoU433) | 2:40 | 2022-07-01 | 2022-07-13 |
 | [Shania Twain](https://open.spotify.com/track/7EwTWFcQCOfXGyu5suJOXC) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Shania Twain](https://open.spotify.com/album/16QW96rEtlT2Z4ecuDGA9Q) | 2:32 | 2021-12-03 | 2022-02-26 |
 | [She Loves Me Not](https://open.spotify.com/track/5OGs76lkPNEcoSgoj3gUFK) | [Olmos](https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV) | [She Loves Me Not](https://open.spotify.com/album/7FcTfHu4oJn91APGixkK4o) | 3:30 | 2022-11-25 | 2023-04-09 |

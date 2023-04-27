@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Btrem, Derxan, Major RD, LEALL, $amuka
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,047 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,104 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 15 | [Nós é Ruim e o Cabelo Ajuda](https://open.spotify.com/track/0WGiVPRKaQHsBVk21nV05K) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Nós é Ruim e o Cabelo Ajuda](https://open.spotify.com/album/2AgCmiFrUKSt5e9BplxhSY) | 2:35 |
 | 16 | [Pop Smoke Freestyle](https://open.spotify.com/track/4NdVfpzsIl80ydtWuvveNh) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [TkN](https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS) | [Vida Cara](https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy) | 3:07 |
 | 17 | [Aonde Eu Sou Cria](https://open.spotify.com/track/5ZSCMCmUNxnRTDuYZxK3ah) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Aonde Eu Sou Cria](https://open.spotify.com/album/2kMW9ybuXIlpW86XOEf6k1) | 2:34 |
-| 18 | [Lembro](https://open.spotify.com/track/7mXmhgvonsRxbKp6Sp2SIZ) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Lembro](https://open.spotify.com/album/7eKlRGjlczwo6038CxZfeT) | 2:44 |
-| 19 | [A Bruta, a Braba, a Forte](https://open.spotify.com/track/2N54ghEQWbNZ9Y39Wr2JKg) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [A Bruta, a Braba, a Forte](https://open.spotify.com/album/73h7cH1GkuOSBMZ9sgX5zb) | 2:44 |
-| 20 | [COSTA QUENTE](https://open.spotify.com/track/0Lv1yqE8zkffbocnMcY8vN) | [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh) | [COSTA QUENTE](https://open.spotify.com/album/262D8mrqEGl3kNjV4n0RH8) | 2:46 |
+| 18 | [COSTA QUENTE](https://open.spotify.com/track/0Lv1yqE8zkffbocnMcY8vN) | [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh) | [COSTA QUENTE](https://open.spotify.com/album/262D8mrqEGl3kNjV4n0RH8) | 2:46 |
+| 19 | [Lembro](https://open.spotify.com/track/7mXmhgvonsRxbKp6Sp2SIZ) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Lembro](https://open.spotify.com/album/7eKlRGjlczwo6038CxZfeT) | 2:44 |
+| 20 | [A Bruta, a Braba, a Forte](https://open.spotify.com/track/2N54ghEQWbNZ9Y39Wr2JKg) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [A Bruta, a Braba, a Forte](https://open.spotify.com/album/73h7cH1GkuOSBMZ9sgX5zb) | 2:44 |
 | 21 | [Os Pitbull do Ano, Pt\. 2](https://open.spotify.com/track/2WLjFfNF7aIdTk6SVVo6NR) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Baviera](https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy), [KOPO](https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA) | [Os Pitbull do Ano, Pt\. 2](https://open.spotify.com/album/6dI7q22ZoKPIzWuWDVoawl) | 3:27 |
 | 22 | [Sirenes](https://open.spotify.com/track/65pLuhvAvq0tPijFTpqKBP) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Sirenes](https://open.spotify.com/album/4NOFtN3gwD6OaHTjfDpIeo) | 3:50 |
 | 23 | [Diz Quem Ta na Pista](https://open.spotify.com/track/3KzDrMpWiFJ1F9deXPWfCI) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Rock Danger Worldwide/Chile](https://open.spotify.com/album/7KDJpZr4J1zydXWiefM39o) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 49 | [Coisas da Vida](https://open.spotify.com/track/0WDxdR6fDThQjTwW3uPi9U) | [Igão Senhagah](https://open.spotify.com/artist/0QGJqMSvdMaWYp8zbLtbov), [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [Filho do Bola](https://open.spotify.com/album/1ms6X9Ia2v8FbprTR9v9N4) | 2:45 |
 | 50 | [Versos Fortes](https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ) | [Blecaute](https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Versos Fortes](https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb) | 2:14 |
 
-Snapshot ID: `MTY4MjA0NjA2MCwwMDAwMDAwMDJmYmQ4MWI0MDE5MzNkNTQ0ZTU2M2FiODhhZGZiMzRj`
+Snapshot ID: `MTY4MjA0NjA2MCwwMDAwMDAwMGUyMTgzZTIwM2E4MTNlMzBhZjY0ODU2ZGEyZWJhMmIx`

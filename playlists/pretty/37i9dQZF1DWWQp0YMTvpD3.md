@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 
 > Uplifting, slow House music to work or relax to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,815 likes - 176 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,904 likes - 176 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "De camino a la disco... \ud83e\udea9\u2728",
-  "num_followers": 2404,
+  "num_followers": 2454,
   "original_name": "Con Mis Besties",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0MDU3NiwwMDAwMDAwMGM4YjlhZmY2N2UzOTI0ZDc1OTIyYTc2OTQ1MDQ1MTg3",
+  "snapshot_id": "MTY4MjA0MDU3NiwwMDAwMDAwMDRiMDI2ZjkxMzUzNGNmYWE0YjBmMTdjMGJmYWU1NmQy",
   "tracks": [
     {
       "added_at": "2023-04-21 01:29:36",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-04-21 01:29:36",
       "album": {
+        "name": "Jagger.mp3",
+        "url": "https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 155861,
+      "name": "Jagger.mp3",
+      "url": "https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI"
+    },
+    {
+      "added_at": "2023-04-21 01:29:36",
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 208013,
       "name": "GAT\u00daBELA",
       "url": "https://open.spotify.com/track/6Vn1vje8yMw2OY6IOk9dkH"
-    },
-    {
-      "added_at": "2023-04-21 01:29:36",
-      "album": {
-        "name": "Jagger.mp3",
-        "url": "https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 155861,
-      "name": "Jagger.mp3",
-      "url": "https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI"
     },
     {
       "added_at": "2023-04-21 01:29:36",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-04-21 01:29:36",
       "album": {
+        "name": "SEJODIOTO",
+        "url": "https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "SEJODIOTO",
+      "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
+    },
+    {
+      "added_at": "2023-04-21 01:29:36",
+      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
       },
@@ -507,22 +523,6 @@
     {
       "added_at": "2023-04-21 01:29:36",
       "album": {
-        "name": "XT4S1S",
-        "url": "https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "XT4S1S",
-      "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"
-    },
-    {
-      "added_at": "2023-04-21 01:29:36",
-      "album": {
         "name": "YHLQMDLG",
         "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-04-21 01:29:36",
       "album": {
-        "name": "SEJODIOTO",
-        "url": "https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "SEJODIOTO",
-      "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
-    },
-    {
-      "added_at": "2023-04-21 01:29:36",
-      "album": {
         "name": "Guatauba XXX",
         "url": "https://open.spotify.com/album/2VcnobeKvV4FPuENazZozO"
       },
@@ -567,6 +551,46 @@
       "duration_ms": 162400,
       "name": "Guatauba",
       "url": "https://open.spotify.com/track/0xJFWROBNTBL4sKEuA5pm6"
+    },
+    {
+      "added_at": "2023-04-21 01:29:36",
+      "album": {
+        "name": "XT4S1S",
+        "url": "https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "XT4S1S",
+      "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"
+    },
+    {
+      "added_at": "2023-04-21 01:29:36",
+      "album": {
+        "name": "Coraz\u00f3n Roto (Remix)",
+        "url": "https://open.spotify.com/album/6tt4TtcglWQFVSI0AGUvEF"
+      },
+      "artists": [
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 275040,
+      "name": "Coraz\u00f3n Roto - Remix",
+      "url": "https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo"
     },
     {
       "added_at": "2023-04-21 01:29:36",
@@ -607,30 +631,6 @@
       "duration_ms": 186506,
       "name": "Quiero Bailar",
       "url": "https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn"
-    },
-    {
-      "added_at": "2023-04-21 01:29:36",
-      "album": {
-        "name": "Coraz\u00f3n Roto (Remix)",
-        "url": "https://open.spotify.com/album/6tt4TtcglWQFVSI0AGUvEF"
-      },
-      "artists": [
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 275040,
-      "name": "Coraz\u00f3n Roto - Remix",
-      "url": "https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo"
     },
     {
       "added_at": "2023-04-21 01:29:36",
@@ -687,26 +687,6 @@
     {
       "added_at": "2023-04-21 01:29:36",
       "album": {
-        "name": "Devoto",
-        "url": "https://open.spotify.com/album/417TYUiFFmZrHLGkTOTuJV"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Elvis de Yongol",
-          "url": "https://open.spotify.com/artist/6SuMnYQl7OMp9jsxa0KdZg"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Devoto",
-      "url": "https://open.spotify.com/track/5ggoKefe3Hk0UstyqSI8FA"
-    },
-    {
-      "added_at": "2023-04-21 01:29:36",
-      "album": {
         "name": "Relaci\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/2O985DZAb4i6M6iu4HWqSX"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 247308,
       "name": "Relaci\u00f3n - Remix",
       "url": "https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl"
+    },
+    {
+      "added_at": "2023-04-21 01:29:36",
+      "album": {
+        "name": "Devoto",
+        "url": "https://open.spotify.com/album/417TYUiFFmZrHLGkTOTuJV"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Elvis de Yongol",
+          "url": "https://open.spotify.com/artist/6SuMnYQl7OMp9jsxa0KdZg"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Devoto",
+      "url": "https://open.spotify.com/track/5ggoKefe3Hk0UstyqSI8FA"
     },
     {
       "added_at": "2023-04-21 01:29:36",
@@ -787,22 +787,18 @@
     {
       "added_at": "2023-04-21 01:29:36",
       "album": {
-        "name": "LA JOAQUI | Mission 08",
-        "url": "https://open.spotify.com/album/3iB7L3jdv63EAi4TnI59cz"
+        "name": "ALGARETE",
+        "url": "https://open.spotify.com/album/7leHFUki2RpwAxMJU6Du3n"
       },
       "artists": [
         {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
         }
       ],
-      "duration_ms": 149500,
-      "name": "LA JOAQUI | Mission 08",
-      "url": "https://open.spotify.com/track/3ZkUgtNi45G8qdmya5UTgV"
+      "duration_ms": 208549,
+      "name": "ALGARETE",
+      "url": "https://open.spotify.com/track/2ec3eRB4zEYzuBl3cja0qA"
     },
     {
       "added_at": "2023-04-21 01:29:36",
@@ -839,18 +835,22 @@
     {
       "added_at": "2023-04-21 01:29:36",
       "album": {
-        "name": "ALGARETE",
-        "url": "https://open.spotify.com/album/7leHFUki2RpwAxMJU6Du3n"
+        "name": "LA JOAQUI | Mission 08",
+        "url": "https://open.spotify.com/album/3iB7L3jdv63EAi4TnI59cz"
       },
       "artists": [
         {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
         }
       ],
-      "duration_ms": 208549,
-      "name": "ALGARETE",
-      "url": "https://open.spotify.com/track/2ec3eRB4zEYzuBl3cja0qA"
+      "duration_ms": 149500,
+      "name": "LA JOAQUI | Mission 08",
+      "url": "https://open.spotify.com/track/3ZkUgtNi45G8qdmya5UTgV"
     },
     {
       "added_at": "2023-04-21 01:29:36",

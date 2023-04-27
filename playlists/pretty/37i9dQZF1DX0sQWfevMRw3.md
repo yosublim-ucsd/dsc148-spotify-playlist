@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Sover du bland aporna på skansen??
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,703 likes - 103 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,777 likes - 103 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

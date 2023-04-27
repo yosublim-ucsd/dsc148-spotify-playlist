@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,226 likes - 56 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,707 likes - 56 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

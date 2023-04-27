@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá\. Un poquito de todo\. Cover: Andrea Bejar
 
-[Spotify](https://open.spotify.com/user/spotify) - 747,741 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 747,750 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,15 +45,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 35 | [Cortada en la Frente](https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Cortada en la Frente](https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy) | 3:20 |
 | 36 | [Toma Mi Mano](https://open.spotify.com/track/74LJQw9zLK4lzoM8XbMF5W) | [Matias Juarez](https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [Desde Cero](https://open.spotify.com/album/0mu3YWwHifRp0U6Dd7ghgO) | 3:01 |
 | 37 | [en la ciudad](https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [dóntia](https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx) | [en la ciudad](https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM) | 3:31 |
-| 38 | [Entremundos](https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Entremundos](https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X) | 3:25 |
-| 39 | [DE REVERSA](https://open.spotify.com/track/0q6JxbQUTLb1MVE3ucpDFW) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [DE REVERSA](https://open.spotify.com/album/37gbLafAooDbpx7AqX9O2B) | 3:04 |
+| 38 | [DE REVERSA](https://open.spotify.com/track/0q6JxbQUTLb1MVE3ucpDFW) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [DE REVERSA](https://open.spotify.com/album/37gbLafAooDbpx7AqX9O2B) | 3:04 |
+| 39 | [Entremundos](https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Entremundos](https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X) | 3:25 |
 | 40 | [Let Me Down Slow](https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Let Me Down Slow](https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz) | 2:57 |
 | 41 | [te di mi luz](https://open.spotify.com/track/66xdsJEW1KSeWi2rFmB7QF) | [Vivi K](https://open.spotify.com/artist/4WSOtiDdjEIvAAK6HqvdUg) | [SI ME ELEVO](https://open.spotify.com/album/5x1uFs84xX2MnzCaB7Uvkr) | 2:22 |
-| 42 | [Polaroid](https://open.spotify.com/track/2FUsz4y7BNzWomZjvK9ebT) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5ceNhJg1s3D5sm49J9kLHI) | 2:56 |
-| 43 | [Dame Guerra](https://open.spotify.com/track/1gmfe3QPovAq7jvHXGwXEa) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Dame Guerra](https://open.spotify.com/album/0WczcRttRVj6UIoAO8HSnN) | 2:56 |
+| 42 | [Dame Guerra](https://open.spotify.com/track/1gmfe3QPovAq7jvHXGwXEa) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Dame Guerra](https://open.spotify.com/album/0WczcRttRVj6UIoAO8HSnN) | 2:56 |
+| 43 | [Polaroid](https://open.spotify.com/track/2FUsz4y7BNzWomZjvK9ebT) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5ceNhJg1s3D5sm49J9kLHI) | 2:56 |
 | 44 | [XO](https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 3:05 |
-| 45 | [superman](https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [LOS FELIZ](https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ) | 1:33 |
-| 46 | [Uh](https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Uh](https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt) | 3:31 |
+| 45 | [Uh](https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Uh](https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt) | 3:31 |
+| 46 | [superman](https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [LOS FELIZ](https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ) | 1:33 |
 | 47 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
 | 48 | [Futuro](https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT) | [COASTCITY](https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj) | [Futuro](https://open.spotify.com/album/3f1hF4eTrVUq71O4Nj0Puf) | 4:02 |
 | 49 | [Flexa](https://open.spotify.com/track/7dHS8dBVEZc3xP7jfm7g6u) | [Sessi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Flexa](https://open.spotify.com/album/4ap1rTmDR8Xubn6Crx0EbR) | 3:18 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 56 | [tú y yo](https://open.spotify.com/track/0Ss650In2VXxwhXy166Gu4) | [Ariel & The Culture](https://open.spotify.com/artist/2KBHBsJ99i4e8X08fRE8o4) | [buena vista!](https://open.spotify.com/album/2cKKH81TWFF4ug9t59j5Uv) | 2:55 |
 | 57 | [Para Llevar](https://open.spotify.com/track/3AhT5jxJpA6hVDgSgkrr3l) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT), [Vakero](https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0) | [Para Llevar](https://open.spotify.com/album/4WElfalmHN3xVtVcMJJxNW) | 2:52 |
 | 58 | [Aleros/Pompeii](https://open.spotify.com/track/2KSyKlJ3SWPFflplhYhPTl) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Caribe Caribe](https://open.spotify.com/album/7zGq7oV1gSW4Aga1a9XJUK) | 4:00 |
-| 59 | [Ideas In Mind](https://open.spotify.com/track/5zS8EhKARJ1G6wfTXuNBu0) | [Aroe Phoenix](https://open.spotify.com/artist/6AkFDQFapnYQswNRaqPSVO) | [Ideas In Mind](https://open.spotify.com/album/1iiFx24WGvey7d0rIJtk1D) | 3:38 |
-| 60 | [Cliché](https://open.spotify.com/track/1IeIu8G0uzcrDKl2l6eg99) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Cliché](https://open.spotify.com/album/7dcFO10Q12E0n1AAtv6c4E) | 3:16 |
+| 59 | [Cliché](https://open.spotify.com/track/1IeIu8G0uzcrDKl2l6eg99) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Cliché](https://open.spotify.com/album/7dcFO10Q12E0n1AAtv6c4E) | 3:16 |
+| 60 | [Ideas In Mind](https://open.spotify.com/track/5zS8EhKARJ1G6wfTXuNBu0) | [Aroe Phoenix](https://open.spotify.com/artist/6AkFDQFapnYQswNRaqPSVO) | [Ideas In Mind](https://open.spotify.com/album/1iiFx24WGvey7d0rIJtk1D) | 3:38 |
 
-Snapshot ID: `MTY4MjAwNzUzMywwMDAwMDAwMDJmMTI0NDA3OGUwYzg3YjA5Mzk5ZjM1ODI5NmU3OTE0`
+Snapshot ID: `MTY4MjAwNzUzMywwMDAwMDAwMGY3MGJiZGE1NzlkNDRkZTZjOTg4OTI4MzU3MmYzYTYz`

@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Z\u00f6elle",
-  "num_followers": 276121,
+  "num_followers": 276184,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA5MDU2NSwwMDAwMDAwMDExNTMyOTNjZjIwYWM3Mzg1ZjgyNTdiZWYwNWU4NmI4",
+  "snapshot_id": "MTY4MjA5MDU2NSwwMDAwMDAwMGExNTVjZDgyYjI4NjQzMjRmYWU3YmEwN2YxNGFjODdm",
   "tracks": [
     {
       "added_at": "2023-04-21 15:22:45",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-04-21 15:22:45",
       "album": {
-        "name": "NO voy a llorar :')",
-        "url": "https://open.spotify.com/album/1IHXBPJAY47mRg8MWZbwwT"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 178874,
-      "name": "NO voy a llorar :')",
-      "url": "https://open.spotify.com/track/5lR23GryHOflIeSkJ0zGnW"
-    },
-    {
-      "added_at": "2023-04-21 15:22:45",
-      "album": {
         "name": "Portales (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 184511,
       "name": "Que Se Parezca A Ti",
       "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
+    },
+    {
+      "added_at": "2023-04-21 15:22:45",
+      "album": {
+        "name": "NO voy a llorar :')",
+        "url": "https://open.spotify.com/album/1IHXBPJAY47mRg8MWZbwwT"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 178874,
+      "name": "NO voy a llorar :')",
+      "url": "https://open.spotify.com/track/5lR23GryHOflIeSkJ0zGnW"
     },
     {
       "added_at": "2023-04-21 15:22:45",
@@ -799,6 +799,26 @@
     {
       "added_at": "2023-04-21 15:22:45",
       "album": {
+        "name": "ELEVATION",
+        "url": "https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 223352,
+      "name": "BAILAR CONTIGO",
+      "url": "https://open.spotify.com/track/4GCDX1A3tNGauj5FJfQfvy"
+    },
+    {
+      "added_at": "2023-04-21 15:22:45",
+      "album": {
         "name": "Infieles",
         "url": "https://open.spotify.com/album/4DARi06HF0mOTbnibgzXWd"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 202250,
       "name": "Me He Pillao x Ti",
       "url": "https://open.spotify.com/track/3nsAcKRQ4MoNSKiwECG0Yv"
-    },
-    {
-      "added_at": "2023-04-21 15:22:45",
-      "album": {
-        "name": "ELEVATION",
-        "url": "https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 223352,
-      "name": "BAILAR CONTIGO",
-      "url": "https://open.spotify.com/track/4GCDX1A3tNGauj5FJfQfvy"
     },
     {
       "added_at": "2023-04-21 15:22:45",

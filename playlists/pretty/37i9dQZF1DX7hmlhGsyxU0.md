@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 
 > Strings and pianos to accompany your latest great read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,811 likes - 63 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,900 likes - 63 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 2 | [Frankenthaler](https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Frankenthaler](https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35) | 1:45 |
 | 3 | [len](https://open.spotify.com/track/7n1y7ynfqbQLK1WVilSZfr) | [Flica](https://open.spotify.com/artist/4cgwbxk8cR38EzgY9lq3Ff) | [len](https://open.spotify.com/album/14mRLH3XnpNrcXxOGwsqnI) | 2:32 |
 | 4 | [Composite 03](https://open.spotify.com/track/6WSmDwlRFDnYby18n6Bgor) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9), [Josh Hooke](https://open.spotify.com/artist/1X0yIDVrFaFeYmAqp0ETUj), [Jack Vanzet](https://open.spotify.com/artist/3Q4bHGAfG5KexzVaWE4fnf) | [Composites](https://open.spotify.com/album/4cXbbhXyF7CW82c4a7zLcY) | 3:43 |
-| 5 | [Motifs in F\# Major \- Reimagined](https://open.spotify.com/track/2sOhSOG02uRICOf1JdiYaZ) | [Solar Sleeper](https://open.spotify.com/artist/01ImO2sBddUcSVJizuX4xG), [rhubiqs](https://open.spotify.com/artist/5RQkuHg4XctV2O1tsIvOkT) | [Motifs in F\# Major \(Reimagined\)](https://open.spotify.com/album/7GZhvGSHUc81ozjkG2AvhI) | 5:31 |
-| 6 | [August](https://open.spotify.com/track/2VOIhAAQ1l03SZaWCpqAuq) | [From Somewhere Quiet](https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ) | [Somewhere Else](https://open.spotify.com/album/28YzCGO150LKYcSo9m05aV) | 2:49 |
+| 5 | [August](https://open.spotify.com/track/2VOIhAAQ1l03SZaWCpqAuq) | [From Somewhere Quiet](https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ) | [Somewhere Else](https://open.spotify.com/album/28YzCGO150LKYcSo9m05aV) | 2:49 |
+| 6 | [Motifs in F\# Major \- Reimagined](https://open.spotify.com/track/2sOhSOG02uRICOf1JdiYaZ) | [Solar Sleeper](https://open.spotify.com/artist/01ImO2sBddUcSVJizuX4xG), [rhubiqs](https://open.spotify.com/artist/5RQkuHg4XctV2O1tsIvOkT) | [Motifs in F\# Major \(Reimagined\)](https://open.spotify.com/album/7GZhvGSHUc81ozjkG2AvhI) | 5:31 |
 | 7 | [The Green Light \(The Great Gatsby\) \- Piano Version](https://open.spotify.com/track/1JrIcQ0MzD0B6OddEflF0U) | [Je Suis Parte](https://open.spotify.com/artist/0CAXDOuageq5zwYSpTqe63) | [The Green Light \(The Great Gatsby\) \[Piano Version\]](https://open.spotify.com/album/63hveeHmbv5Kb1sRK1rIsd) | 2:17 |
 | 8 | [Ad Infinitum](https://open.spotify.com/track/3sGAvKDYyY93h33E0XGYHd) | [Vincent Isler](https://open.spotify.com/artist/0rHKPUvWd7z8fAIhIpfJMj) | [Ad Infinitum](https://open.spotify.com/album/5CDChnLtuxj0ALvP9GqjfA) | 3:11 |
 | 9 | [Steady, Thyself \(Piano Version\)](https://open.spotify.com/track/4bl7oOOlzQEQnhxlY6298O) | [VLMV](https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl) | [Steady, Thyself \(Piano Version\)](https://open.spotify.com/album/3CrQl35Gjn3Qg9xuodrCbi) | 3:05 |
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 28 | [To the Moon and Back](https://open.spotify.com/track/09icwafvwR2gNJG2sdocIA) | [Aija Alsina](https://open.spotify.com/artist/6WKIDa04sU45Uys0wydkWA) | [To the Moon and Back](https://open.spotify.com/album/6qESYkfoIJvle5je10xY2P) | 4:30 |
 | 29 | [Joshua Tree](https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Joshua Tree](https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw) | 2:37 |
 | 30 | [We All Grieve Differently](https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ) | [Rohit](https://open.spotify.com/artist/5MtG1IkGbboA8zA1ArmYL3) | [On The Verge Of Collapse](https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA) | 2:48 |
-| 31 | [Living Rooms](https://open.spotify.com/track/6aLbzGqkGEM0BH9CNnqjhG) | [Joshua Naranjo](https://open.spotify.com/artist/79umW4lywuQrIeeDrleqB5) | [Living Rooms](https://open.spotify.com/album/0QLTI6SySPkg2au68DdWpE) | 2:55 |
-| 32 | [Everything Is Everything Else](https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20) | [Luke Duffy](https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2) | [Everything Is Everything Else](https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH) | 4:41 |
+| 31 | [Everything Is Everything Else](https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20) | [Luke Duffy](https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2) | [Everything Is Everything Else](https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH) | 4:41 |
+| 32 | [Living Rooms](https://open.spotify.com/track/6aLbzGqkGEM0BH9CNnqjhG) | [Joshua Naranjo](https://open.spotify.com/artist/79umW4lywuQrIeeDrleqB5) | [Living Rooms](https://open.spotify.com/album/0QLTI6SySPkg2au68DdWpE) | 2:55 |
 | 33 | [Floating on Land](https://open.spotify.com/track/0LAAlLIm2o7FwShCvPmUCc) | [Svvn](https://open.spotify.com/artist/43wgBNJ8ZZd9AYotJvzDzW) | [Floating on Land](https://open.spotify.com/album/2nq7JfT3k2eSy1kRm2Fk1X) | 3:27 |
-| 34 | [Rêverie](https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy) | [Jack Hopkins](https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV) | [Rêverie](https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK) | 3:52 |
+| 34 | [Walking on the Sand \- Piano & Waves](https://open.spotify.com/track/0sjTR8qQqGXyFS8QcccqMJ) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8) | [Walking on the Sand](https://open.spotify.com/album/2EYGPQArAHH1cbaGELf7j4) | 3:27 |
 | 35 | [Autumn](https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Autumn](https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q) | 2:33 |
-| 36 | [Walking on the Sand \- Piano & Waves](https://open.spotify.com/track/0sjTR8qQqGXyFS8QcccqMJ) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8) | [Walking on the Sand](https://open.spotify.com/album/2EYGPQArAHH1cbaGELf7j4) | 3:27 |
+| 36 | [Rêverie](https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy) | [Jack Hopkins](https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV) | [Rêverie](https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK) | 3:52 |
 | 37 | [Sérénité](https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ) | [Jérémie Fauquet](https://open.spotify.com/artist/2JfYFXAwjWCX0EY9ZdPiob) | [Sérénité](https://open.spotify.com/album/1XdeturncHpWMnATLRATPZ) | 1:48 |
 | 38 | [What If](https://open.spotify.com/track/7vXfjSymSmza9Boy5pUedX) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [Transcend](https://open.spotify.com/album/48TZuG4b6WDgNJgvM2IEI1) | 3:32 |
 | 39 | [Drifter](https://open.spotify.com/track/5qylsVTG6k9vStN40LcpwW) | [Takaaki Izumi](https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p) | [Life](https://open.spotify.com/album/3Ly89MLIwLM1ECNLJUTJRa) | 2:37 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 62 | [Low Sun](https://open.spotify.com/track/4CLkN6PDHrMkYbiQIigVz3) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Hristo Dunev](https://open.spotify.com/artist/4MLvUhJnm30eDAF8ZfC6UF) | [Low Sun](https://open.spotify.com/album/2rZV82DIS8DASudAIoBEHK) | 3:16 |
 | 63 | [Zerachiel](https://open.spotify.com/track/0APuGGovBTro3z0a3pdZUn) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [Zerachiel](https://open.spotify.com/album/1qD1l9X0SPLyPhkjoE9C2R) | 3:11 |
 
-Snapshot ID: `MTY2NzgzMTMxMCwwMDAwMDAwMGNkZGJlNjMzNjE4MjUxMDA4NDI5MGZjYzQ5OTM4NjYx`
+Snapshot ID: `MTY2NzgzMTMxMCwwMDAwMDAwMDg1MDU1ODlmYTk3NzRiYmExNjZmMTljNzQ2NTA4OGM3`

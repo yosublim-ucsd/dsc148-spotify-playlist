@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack recipe for a backyard barbecue! ",
-  "num_followers": 546387,
+  "num_followers": 546720,
   "original_name": "Country Cookout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0NzMxNCwwMDAwMDAwMGE5YjhiMWJlNTljZjlhYjY4NGJlNDEzYTc2NjJlMjRm",
+  "snapshot_id": "MTY2MjE0NzMxNCwwMDAwMDAwMDI3MmQ3NmNiZDQ5YzQ0ZTYzMGMxNGYzOTQyYmFkY2Fl",
   "tracks": [
     {
       "added_at": "2022-07-29 21:53:17",
@@ -351,26 +351,6 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "All Your Fault: Pt. 2",
-        "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 163870,
-      "name": "Meant to Be (feat. Florida Georgia Line)",
-      "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
         "name": "Blue In The Sky",
         "url": "https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 170560,
       "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
       "url": "https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "All Your Fault: Pt. 2",
+        "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 163870,
+      "name": "Meant to Be (feat. Florida Georgia Line)",
+      "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Water Under The Bridge",
-        "url": "https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "Water Under The Bridge",
-      "url": "https://open.spotify.com/track/4viFAHmivkYQKkwLvwKOgg"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
         "name": "Sayin' What I'm Thinkin'",
         "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 201986,
       "name": "Fishing In The Dark",
       "url": "https://open.spotify.com/track/3i5QyEUyXa9Y7lIklr5sWk"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "Water Under The Bridge",
+        "url": "https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "Water Under The Bridge",
+      "url": "https://open.spotify.com/track/4viFAHmivkYQKkwLvwKOgg"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Body Like A Back Road",
-        "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 165386,
-      "name": "Body Like A Back Road",
-      "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
         "name": "A Place In The Sun",
         "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
       },
@@ -883,18 +867,34 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Out With A Bang",
-        "url": "https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9"
+        "name": "Your Man",
+        "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
       },
       "artists": [
         {
-          "name": "David Lee Murphy",
-          "url": "https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5"
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
         }
       ],
-      "duration_ms": 224666,
-      "name": "Dust On The Bottle",
-      "url": "https://open.spotify.com/track/0Xg68XXMRWzKQvD5S6BFvI"
+      "duration_ms": 228186,
+      "name": "Would You Go With Me",
+      "url": "https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "Body Like A Back Road",
+        "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 165386,
+      "name": "Body Like A Back Road",
+      "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -935,34 +935,18 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Your Man",
-        "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
       },
       "artists": [
         {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
         }
       ],
-      "duration_ms": 228186,
-      "name": "Would You Go With Me",
-      "url": "https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
-        "name": "Montevallo",
-        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 190240,
-      "name": "House Party",
-      "url": "https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0"
+      "duration_ms": 287266,
+      "name": "Cowboy Take Me Away",
+      "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -987,18 +971,18 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
+        "name": "Out With A Bang",
+        "url": "https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9"
       },
       "artists": [
         {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+          "name": "David Lee Murphy",
+          "url": "https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5"
         }
       ],
-      "duration_ms": 287266,
-      "name": "Cowboy Take Me Away",
-      "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
+      "duration_ms": 224666,
+      "name": "Dust On The Bottle",
+      "url": "https://open.spotify.com/track/0Xg68XXMRWzKQvD5S6BFvI"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
+        "name": "Montevallo",
+        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 190240,
+      "name": "House Party",
+      "url": "https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
         "name": "MACON",
         "url": "https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4"
       },
@@ -1099,6 +1099,26 @@
       "duration_ms": 205106,
       "name": "God's Country",
       "url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "Dig Your Roots",
+        "url": "https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        },
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 226173,
+      "name": "May We All",
+      "url": "https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1139,26 +1159,6 @@
       "duration_ms": 174680,
       "name": "Beers On Me",
       "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
-        "name": "Dig Your Roots",
-        "url": "https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC"
-      },
-      "artists": [
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        },
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "May We All",
-      "url": "https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "GOOD TIME",
-        "url": "https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5"
-      },
-      "artists": [
-        {
-          "name": "Niko Moon",
-          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "GOOD TIME",
-      "url": "https://open.spotify.com/track/2S8UMuLJ0z8agFgFGJ6Ztt"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
         "name": "Center Point Road",
         "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
       },
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Copperhead Road",
-        "url": "https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ"
+        "name": "GOOD TIME",
+        "url": "https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5"
       },
       "artists": [
         {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+          "name": "Niko Moon",
+          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
         }
       ],
-      "duration_ms": 269920,
-      "name": "Copperhead Road",
-      "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
+      "duration_ms": 214720,
+      "name": "GOOD TIME",
+      "url": "https://open.spotify.com/track/2S8UMuLJ0z8agFgFGJ6Ztt"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
+        "name": "Copperhead Road",
+        "url": "https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 269920,
+      "name": "Copperhead Road",
+      "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
         "name": "Everything I Love",
         "url": "https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW"
       },
@@ -1359,18 +1359,22 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Greetings From...Jake",
-        "url": "https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6"
+        "name": "Where We Started",
+        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
       },
       "artists": [
         {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 238400,
-      "name": "Made For You",
-      "url": "https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ"
+      "duration_ms": 183026,
+      "name": "Half Of Me",
+      "url": "https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1387,6 +1391,22 @@
       "duration_ms": 191693,
       "name": "Gunpowder & Lead",
       "url": "https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "Greetings From...Jake",
+        "url": "https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6"
+      },
+      "artists": [
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Made For You",
+      "url": "https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1435,26 +1455,6 @@
       "duration_ms": 201600,
       "name": "Where The Green Grass Grows",
       "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
-        "name": "Where We Started",
-        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 183026,
-      "name": "Half Of Me",
-      "url": "https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
+        "name": "It Just Comes Natural",
+        "url": "https://open.spotify.com/album/52DiULZMD6JO0Ugp89NhFU"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 209320,
+      "name": "Give It Away",
+      "url": "https://open.spotify.com/track/1qHRFZE8qykNXYZadzmi1m"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
         "name": "34 Number Ones",
         "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 230133,
       "name": "It's Five O'Clock Somewhere (with Jimmy Buffett)",
       "url": "https://open.spotify.com/track/5oHHMDcVOmPSFrCgdbHPdb"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
-        "name": "It Just Comes Natural",
-        "url": "https://open.spotify.com/album/52DiULZMD6JO0Ugp89NhFU"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 209320,
-      "name": "Give It Away",
-      "url": "https://open.spotify.com/track/1qHRFZE8qykNXYZadzmi1m"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "The Closer You Get...",
-        "url": "https://open.spotify.com/album/0eMs6LyA1bTZm8Mx8FPshM"
-      },
-      "artists": [
-        {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
-        }
-      ],
-      "duration_ms": 322093,
-      "name": "Dixieland Delight",
-      "url": "https://open.spotify.com/track/0bM1z18RQpr61UuI1LemIK"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
         "name": "Life Rolls On",
         "url": "https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 153253,
       "name": "Long Live",
       "url": "https://open.spotify.com/track/0YfRAYTNTNszGg8VARrSIH"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "The Closer You Get...",
+        "url": "https://open.spotify.com/album/0eMs6LyA1bTZm8Mx8FPshM"
+      },
+      "artists": [
+        {
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+        }
+      ],
+      "duration_ms": 322093,
+      "name": "Dixieland Delight",
+      "url": "https://open.spotify.com/track/0bM1z18RQpr61UuI1LemIK"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1971,6 +1971,22 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
+        "name": "Heartache Medication",
+        "url": "https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 207161,
+      "name": "Tequila Little Time",
+      "url": "https://open.spotify.com/track/15npbUjCgwt2lRvyrJvyxw"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
         "name": "Bettie James",
         "url": "https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h"
       },
@@ -1987,22 +2003,6 @@
       "duration_ms": 212720,
       "name": "Freedom Was A Highway",
       "url": "https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
-        "name": "Heartache Medication",
-        "url": "https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 207161,
-      "name": "Tequila Little Time",
-      "url": "https://open.spotify.com/track/15npbUjCgwt2lRvyrJvyxw"
     },
     {
       "added_at": "2022-07-29 21:53:17",

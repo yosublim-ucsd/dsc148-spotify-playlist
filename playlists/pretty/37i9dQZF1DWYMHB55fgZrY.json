@@ -1,12 +1,12 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Julieta Venegas en portada.",
-  "num_followers": 481510,
+  "num_followers": 481712,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY4MDQzMSwwMDAwMDAwMDdiMDE5ZDczZDZiMWJlY2JiYzI0OTQ4NjQ3OGU0ZjBi",
+  "snapshot_id": "MTY3OTY4MDQzMSwwMDAwMDAwMDJlM2ZlOWY5YzRlNzFiNmRmMTk3NTNhOGIxNDBjMDll",
   "tracks": [
     {
       "added_at": "2023-03-24 17:53:51",
@@ -755,18 +755,18 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Amigos",
-        "url": "https://open.spotify.com/album/1xlThGcidi851d3NwHfjQH"
+        "name": "40 A\u00f1os Vol. 1",
+        "url": "https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1"
       },
       "artists": [
         {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 304106,
-      "name": "Europa (Earth's Cry Heaven's Smile)",
-      "url": "https://open.spotify.com/track/4VbOIkKqt0gkZpC75oKSxS"
+      "duration_ms": 294586,
+      "name": "A.D.O.",
+      "url": "https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -787,18 +787,18 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "40 A\u00f1os Vol. 1",
-        "url": "https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1"
+        "name": "Amigos",
+        "url": "https://open.spotify.com/album/1xlThGcidi851d3NwHfjQH"
       },
       "artists": [
         {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
         }
       ],
-      "duration_ms": 294586,
-      "name": "A.D.O.",
-      "url": "https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH"
+      "duration_ms": 304106,
+      "name": "Europa (Earth's Cry Heaven's Smile)",
+      "url": "https://open.spotify.com/track/4VbOIkKqt0gkZpC75oKSxS"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Sufro Sufro Sufro",
-        "url": "https://open.spotify.com/album/0np21WDUyCaqdEB2grsjcx"
-      },
-      "artists": [
-        {
-          "name": "San Pascualito Rey",
-          "url": "https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6"
-        }
-      ],
-      "duration_ms": 249506,
-      "name": "Nos Tragamos",
-      "url": "https://open.spotify.com/track/2A8MWa3QBtZaPE7oXMGGHe"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "Ely Guerra",
         "url": "https://open.spotify.com/album/4UNaTWjut4UfHwNhGyzcc8"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 275586,
       "name": "Jurame",
       "url": "https://open.spotify.com/track/6IjLhntekHrzJ8E2lSaqgb"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Sufro Sufro Sufro",
+        "url": "https://open.spotify.com/album/0np21WDUyCaqdEB2grsjcx"
+      },
+      "artists": [
+        {
+          "name": "San Pascualito Rey",
+          "url": "https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6"
+        }
+      ],
+      "duration_ms": 249506,
+      "name": "Nos Tragamos",
+      "url": "https://open.spotify.com/track/2A8MWa3QBtZaPE7oXMGGHe"
     },
     {
       "added_at": "2022-01-28 17:39:37",

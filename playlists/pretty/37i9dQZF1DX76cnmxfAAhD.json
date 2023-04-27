@@ -1,12 +1,12 @@
 {
   "description": "Ultimate mix of songs from the 1990s to insure a good time while on the road.",
-  "num_followers": 483077,
+  "num_followers": 484075,
   "original_name": "90s Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc1NzA2MywwMDAwMDAwMGUyYTAyNzU2YThlN2MzMzEwNjM5MzlhYjFhYTk0NTdm",
+  "snapshot_id": "MTY3Mjc1NzA2MywwMDAwMDAwMDEwYzIwYmYwNTE5NzI1YjM0Zjc5ZGY5NThiOGY3NGMw",
   "tracks": [
     {
       "added_at": "2023-01-03 14:44:23",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Crazy World",
-        "url": "https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF"
-      },
-      "artists": [
-        {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
-        }
-      ],
-      "duration_ms": 312360,
-      "name": "Wind Of Change",
-      "url": "https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Enema Of The State",
         "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 148360,
       "name": "What's My Age Again?",
       "url": "https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Crazy World",
+        "url": "https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 312360,
+      "name": "Wind Of Change",
+      "url": "https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Ten",
-        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 340907,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 257480,
       "name": "High and Dry",
       "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 340907,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Tuesday Night Music Club",
-        "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 272106,
-      "name": "All I Wanna Do",
-      "url": "https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Grave Dancers Union (2022 Remaster)",
         "url": "https://open.spotify.com/album/3EFhsxrJoH3yE3r8bHheE6"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 266560,
       "name": "Runaway Train (2022 Remaster)",
       "url": "https://open.spotify.com/track/3TW48DvQ7ChwY1Yy1tkMaP"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Tuesday Night Music Club",
+        "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 272106,
+      "name": "All I Wanna Do",
+      "url": "https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Friday I'm in Love",
-      "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Music Sounds Better With You",
         "url": "https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 260906,
       "name": "Music Sounds Better With You - Radio Edit",
       "url": "https://open.spotify.com/track/1mv4lh1rW1K6xhxhJmEezy"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Friday I'm in Love",
+      "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
+        "name": "Savage Garden",
+        "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
+      },
+      "artists": [
+        {
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/3XorCFmcupSm5QS6hA9g4N"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6LoXZrgX1DhvUN6hFhs0AW"
       },
@@ -1839,22 +1855,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Savage Garden",
-        "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
-      },
-      "artists": [
-        {
-          "name": "Savage Garden",
-          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
-        }
-      ],
-      "duration_ms": 232066,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/3XorCFmcupSm5QS6hA9g4N"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
       },
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Tourism (Extended Version)",
-        "url": "https://open.spotify.com/album/6yhZFWd0wGN0QCchNFYn0Q"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "How Do You Do!",
-      "url": "https://open.spotify.com/track/4Hn14NabX651eOOzsLL8Uc"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Schubert Dip",
         "url": "https://open.spotify.com/album/475PE6J6LTBGBpt26rRrHe"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 209813,
       "name": "Unbelievable",
       "url": "https://open.spotify.com/track/5VYTKiOnHw4iTrB9pG3yum"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Tourism (Extended Version)",
+        "url": "https://open.spotify.com/album/6yhZFWd0wGN0QCchNFYn0Q"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "How Do You Do!",
+      "url": "https://open.spotify.com/track/4Hn14NabX651eOOzsLL8Uc"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Gran Turismo (Remastered)",
-        "url": "https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc"
-      },
-      "artists": [
-        {
-          "name": "The Cardigans",
-          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
-        }
-      ],
-      "duration_ms": 218504,
-      "name": "Erase / Rewind",
-      "url": "https://open.spotify.com/track/3JfkNCiXjHEVkbFfCQ417E"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Divinyls",
         "url": "https://open.spotify.com/album/50bQGJWB4VoD1GY3c4vYbv"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 227640,
       "name": "I Touch Myself",
       "url": "https://open.spotify.com/track/6oNvmplQGUkmAh441Teows"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Gran Turismo (Remastered)",
+        "url": "https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc"
+      },
+      "artists": [
+        {
+          "name": "The Cardigans",
+          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
+        }
+      ],
+      "duration_ms": 218504,
+      "name": "Erase / Rewind",
+      "url": "https://open.spotify.com/track/3JfkNCiXjHEVkbFfCQ417E"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Bridges To Babylon (Remastered)",
-        "url": "https://open.spotify.com/album/6lbQFxYqubkf4GbEtXARE7"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 271160,
-      "name": "Anybody Seen My Baby? - Remastered",
-      "url": "https://open.spotify.com/track/4tXr9v3K7nWW1aebWqR1B7"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Duophonic",
         "url": "https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA"
       },
@@ -2191,18 +2175,18 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Luck Of The Draw",
-        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
+        "name": "Bridges To Babylon (Remastered)",
+        "url": "https://open.spotify.com/album/6lbQFxYqubkf4GbEtXARE7"
       },
       "artists": [
         {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 227573,
-      "name": "Something To Talk About",
-      "url": "https://open.spotify.com/track/6Ceejf3zBXvAhIY9DbP1Pr"
+      "duration_ms": 271160,
+      "name": "Anybody Seen My Baby? - Remastered",
+      "url": "https://open.spotify.com/track/4tXr9v3K7nWW1aebWqR1B7"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2219,6 +2203,22 @@
       "duration_ms": 239640,
       "name": "You Learn - 2015 Remaster",
       "url": "https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Luck Of The Draw",
+        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 227573,
+      "name": "Something To Talk About",
+      "url": "https://open.spotify.com/track/6Ceejf3zBXvAhIY9DbP1Pr"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2591,6 +2591,22 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
+        "name": "Come On Over (Internationl Version / Special Edition)",
+        "url": "https://open.spotify.com/album/2eiMbazzkhkBAD2qRujLop"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 238641,
+      "name": "That Don't Impress Me Much - International Mix",
+      "url": "https://open.spotify.com/track/54m5HrUjtbaeLQ7RX5Ilk1"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
         "name": "Right Here",
         "url": "https://open.spotify.com/album/5mfslBbxkZtxhSfnB2u2Gj"
       },
@@ -2627,18 +2643,18 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Come On Over (Internationl Version / Special Edition)",
-        "url": "https://open.spotify.com/album/2eiMbazzkhkBAD2qRujLop"
+        "name": "Funky Divas",
+        "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "En Vogue",
+          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
         }
       ],
-      "duration_ms": 238641,
-      "name": "That Don't Impress Me Much - International Mix",
-      "url": "https://open.spotify.com/track/54m5HrUjtbaeLQ7RX5Ilk1"
+      "duration_ms": 281613,
+      "name": "My Lovin' (You're Never Gonna Get It)",
+      "url": "https://open.spotify.com/track/3R97rNX7JnmshCWBwOSFet"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2655,22 +2671,6 @@
       "duration_ms": 346533,
       "name": "Keep The Faith",
       "url": "https://open.spotify.com/track/5EWtBjCLy21d1hY9zdaEe8"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
-        "name": "Funky Divas",
-        "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
-      },
-      "artists": [
-        {
-          "name": "En Vogue",
-          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
-        }
-      ],
-      "duration_ms": 281613,
-      "name": "My Lovin' (You're Never Gonna Get It)",
-      "url": "https://open.spotify.com/track/3R97rNX7JnmshCWBwOSFet"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2823,22 +2823,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Definitely Maybe (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 382266,
-      "name": "Whatever - Remastered",
-      "url": "https://open.spotify.com/track/5OWsea313ovaQoXvsgWq79"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Big Ones",
         "url": "https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs"
       },
@@ -2851,6 +2835,22 @@
       "duration_ms": 381400,
       "name": "Livin' On The Edge",
       "url": "https://open.spotify.com/track/6OZAcgTPxmjUTuiatU0Viq"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 382266,
+      "name": "Whatever - Remastered",
+      "url": "https://open.spotify.com/track/5OWsea313ovaQoXvsgWq79"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -3059,22 +3059,18 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Don't Explain",
-        "url": "https://open.spotify.com/album/3eISkUtzd1PBZfPeYNLdGd"
+        "name": "We Can't Dance",
+        "url": "https://open.spotify.com/album/1lCuwXVtx72gZN0iT20TmO"
       },
       "artists": [
         {
-          "name": "Robert Palmer",
-          "url": "https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu"
-        },
-        {
-          "name": "UB40",
-          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
         }
       ],
-      "duration_ms": 205640,
-      "name": "I'll Be Your Baby Tonight (feat. UB40)",
-      "url": "https://open.spotify.com/track/4GzmpVbPwz7pUf0WZgEUlQ"
+      "duration_ms": 239613,
+      "name": "I Can't Dance - 2007 Remaster",
+      "url": "https://open.spotify.com/track/0No5Hr1LxZjJHGsQSTy2bm"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -3095,18 +3091,22 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "We Can't Dance",
-        "url": "https://open.spotify.com/album/1lCuwXVtx72gZN0iT20TmO"
+        "name": "Don't Explain",
+        "url": "https://open.spotify.com/album/3eISkUtzd1PBZfPeYNLdGd"
       },
       "artists": [
         {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+          "name": "Robert Palmer",
+          "url": "https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu"
+        },
+        {
+          "name": "UB40",
+          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
         }
       ],
-      "duration_ms": 239613,
-      "name": "I Can't Dance - 2007 Remaster",
-      "url": "https://open.spotify.com/track/0No5Hr1LxZjJHGsQSTy2bm"
+      "duration_ms": 205640,
+      "name": "I'll Be Your Baby Tonight (feat. UB40)",
+      "url": "https://open.spotify.com/track/4GzmpVbPwz7pUf0WZgEUlQ"
     },
     {
       "added_at": "2023-01-03 14:44:23",

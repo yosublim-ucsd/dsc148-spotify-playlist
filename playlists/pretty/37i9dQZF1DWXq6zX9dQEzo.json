@@ -1,12 +1,12 @@
 {
   "description": "Let the blessings come down and the weights go up.  Get your beast mode on!",
-  "num_followers": 133452,
+  "num_followers": 133797,
   "original_name": "Beast Mode Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE4MTIwMCwwMDAwMDAwMDYzMzQyN2Y0YmIwYzk4YTc4YjFmODg0NDdjZTQwMTE1",
+  "snapshot_id": "MTY3MTE4MTIwMCwwMDAwMDAwMGQ2MWNlMjQwYTMzMjY3MDE2YTc1NzU4ZDI2MDY1NjAy",
   "tracks": [
     {
       "added_at": "2022-12-16 09:00:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
+        "name": "I'm Here For You",
+        "url": "https://open.spotify.com/album/4k3H2ZFyssNiUyF5v3vg9l"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "duration_ms": 209951,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/3GC7jZ05UuZVPNy2JMgPHf"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
         "name": "Secession",
         "url": "https://open.spotify.com/album/6duqIYCOd15xRiaGFTuEOc"
       },
@@ -619,22 +635,6 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "I'm Here For You",
-        "url": "https://open.spotify.com/album/4k3H2ZFyssNiUyF5v3vg9l"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
-        }
-      ],
-      "duration_ms": 209951,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/3GC7jZ05UuZVPNy2JMgPHf"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
         "name": "WES",
         "url": "https://open.spotify.com/album/2OuiDIceUU6HfAwvtucypW"
       },
@@ -647,38 +647,6 @@
       "duration_ms": 114155,
       "name": "WES",
       "url": "https://open.spotify.com/track/1Fu9ShPcWVRufPrhyTucB8"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
-        "name": "Your Word My Mind",
-        "url": "https://open.spotify.com/album/2sCzqIjKBqX0gnZBxak8Z6"
-      },
-      "artists": [
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
-        }
-      ],
-      "duration_ms": 149300,
-      "name": "Your Word My Mind",
-      "url": "https://open.spotify.com/track/1PK1IQm9ic0aiRIc4qVkz7"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
-        "name": "WHAT A DAY",
-        "url": "https://open.spotify.com/album/40aNMrVZkiEXfzPTTUQa6Y"
-      },
-      "artists": [
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 163170,
-      "name": "WHAT A DAY",
-      "url": "https://open.spotify.com/track/4gWoygRy7vI1Hxs99fymb3"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -699,6 +667,38 @@
       "duration_ms": 184563,
       "name": "All Joy No Stress (feat. Tedashii)",
       "url": "https://open.spotify.com/track/5Z4D2dNjMFBlL6c4hha7Rq"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
+        "name": "WHAT A DAY",
+        "url": "https://open.spotify.com/album/40aNMrVZkiEXfzPTTUQa6Y"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 163170,
+      "name": "WHAT A DAY",
+      "url": "https://open.spotify.com/track/4gWoygRy7vI1Hxs99fymb3"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
+        "name": "Your Word My Mind",
+        "url": "https://open.spotify.com/album/2sCzqIjKBqX0gnZBxak8Z6"
+      },
+      "artists": [
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 149300,
+      "name": "Your Word My Mind",
+      "url": "https://open.spotify.com/track/1PK1IQm9ic0aiRIc4qVkz7"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -799,18 +799,18 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "No Days Off",
-        "url": "https://open.spotify.com/album/56R23o2t9HV9BwE6xE2NVj"
+        "name": "The Stonebrook Project",
+        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
       },
       "artists": [
         {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
         }
       ],
-      "duration_ms": 172523,
-      "name": "No Days Off",
-      "url": "https://open.spotify.com/track/4jZCSQmDeHDR3OfUDfYe9y"
+      "duration_ms": 275710,
+      "name": "BackFromTheDEAD",
+      "url": "https://open.spotify.com/track/0371OjQuEOBPvWpIb57CId"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "The Stonebrook Project",
-        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
+        "name": "No Days Off",
+        "url": "https://open.spotify.com/album/56R23o2t9HV9BwE6xE2NVj"
       },
       "artists": [
         {
-          "name": "Zauntee",
-          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
         }
       ],
-      "duration_ms": 275710,
-      "name": "BackFromTheDEAD",
-      "url": "https://open.spotify.com/track/0371OjQuEOBPvWpIb57CId"
+      "duration_ms": 172523,
+      "name": "No Days Off",
+      "url": "https://open.spotify.com/track/4jZCSQmDeHDR3OfUDfYe9y"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "New",
-        "url": "https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 195404,
-      "name": "New",
-      "url": "https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
         "name": "Hit My Line",
         "url": "https://open.spotify.com/album/0CK7KNfyrFlRvTygSeiJA5"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 147492,
       "name": "Hit My Line",
       "url": "https://open.spotify.com/track/6OfQAAc5Bempqs62jzatMv"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
+        "name": "New",
+        "url": "https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 195404,
+      "name": "New",
+      "url": "https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt"
-      },
-      "artists": [
-        {
-          "name": "Verses",
-          "url": "https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb"
-        }
-      ],
-      "duration_ms": 192775,
-      "name": "Thankful",
-      "url": "https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
         "name": "Growing Pains",
         "url": "https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "AOTY",
-        "url": "https://open.spotify.com/album/2uooBtdxDqd5dU7QaBTPcm"
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt"
       },
       "artists": [
         {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+          "name": "Verses",
+          "url": "https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb"
         }
       ],
-      "duration_ms": 240952,
-      "name": "my year",
-      "url": "https://open.spotify.com/track/29xxP6mLTIadUao1NHMj9x"
+      "duration_ms": 192775,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -1259,6 +1243,22 @@
       "duration_ms": 144093,
       "name": "Nino Brown",
       "url": "https://open.spotify.com/track/61zq89SEdU14fmkrST4nUB"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
+        "name": "AOTY",
+        "url": "https://open.spotify.com/album/2uooBtdxDqd5dU7QaBTPcm"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 240952,
+      "name": "my year",
+      "url": "https://open.spotify.com/track/29xxP6mLTIadUao1NHMj9x"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -1319,6 +1319,30 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
+        "name": "Stuff Back",
+        "url": "https://open.spotify.com/album/2fdftwjf1S6AsIFZ8UgkmC"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        },
+        {
+          "name": "Heavenz",
+          "url": "https://open.spotify.com/artist/5irL1slWEq9iei6AFKbBTo"
+        },
+        {
+          "name": "Church",
+          "url": "https://open.spotify.com/artist/7u7GeFTkX2dqwUkwDhMOJW"
+        }
+      ],
+      "duration_ms": 193648,
+      "name": "Stuff Back",
+      "url": "https://open.spotify.com/track/0WaH16I2aMeqSszLizdWBC"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
         "name": "WAITING",
         "url": "https://open.spotify.com/album/2oQ1qwYoczja6rQxwkVN6w"
       },
@@ -1375,30 +1399,6 @@
       "duration_ms": 100587,
       "name": "ICE COLD",
       "url": "https://open.spotify.com/track/6Msy1aF3AU9pBRTAoGT9vK"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
-        "name": "Stuff Back",
-        "url": "https://open.spotify.com/album/2fdftwjf1S6AsIFZ8UgkmC"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        },
-        {
-          "name": "Heavenz",
-          "url": "https://open.spotify.com/artist/5irL1slWEq9iei6AFKbBTo"
-        },
-        {
-          "name": "Church",
-          "url": "https://open.spotify.com/artist/7u7GeFTkX2dqwUkwDhMOJW"
-        }
-      ],
-      "duration_ms": 193648,
-      "name": "Stuff Back",
-      "url": "https://open.spotify.com/track/0WaH16I2aMeqSszLizdWBC"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
+        "name": "Minorville",
+        "url": "https://open.spotify.com/album/0e9vEmleDpTbUUQMSEEKre"
+      },
+      "artists": [
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Ready Set Go",
+      "url": "https://open.spotify.com/track/57Fe6xAsRHARo7JvmBcGol"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
         "name": "High Low (Remix)",
         "url": "https://open.spotify.com/album/50wI6SadtCnM3uiXBpjeZ8"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 164383,
       "name": "High Low - Remix",
       "url": "https://open.spotify.com/track/7y8OstN4MtmOPNN4sOVeoN"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
-        "name": "Minorville",
-        "url": "https://open.spotify.com/album/0e9vEmleDpTbUUQMSEEKre"
-      },
-      "artists": [
-        {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Ready Set Go",
-      "url": "https://open.spotify.com/track/57Fe6xAsRHARo7JvmBcGol"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
+        "name": "Tricky",
+        "url": "https://open.spotify.com/album/2L7aO5sMbn0jSFj2ZQpdnB"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        }
+      ],
+      "duration_ms": 132635,
+      "name": "Tricky",
+      "url": "https://open.spotify.com/track/1X6R3SpHPB4ySRMF5kzdtw"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
         "name": "Never Too Far",
         "url": "https://open.spotify.com/album/3IDbW2wbji3bIy74oNWcs8"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 231600,
       "name": "Do It Anyway (feat. Kadence)",
       "url": "https://open.spotify.com/track/25L031n0unw4IKDjabQuwN"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
-        "name": "Tricky",
-        "url": "https://open.spotify.com/album/2L7aO5sMbn0jSFj2ZQpdnB"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        }
-      ],
-      "duration_ms": 132635,
-      "name": "Tricky",
-      "url": "https://open.spotify.com/track/1X6R3SpHPB4ySRMF5kzdtw"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "No Loss",
-        "url": "https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN"
-      },
-      "artists": [
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        }
-      ],
-      "duration_ms": 175018,
-      "name": "No Loss",
-      "url": "https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
         "name": "The Bottom Line",
         "url": "https://open.spotify.com/album/1CAS074eX1UHOVehsuIhDy"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 147000,
       "name": "Hottest In The City (feat. EmanuelDaProphet)",
       "url": "https://open.spotify.com/track/5nz7NodXphguBQbfhYp5rE"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
+        "name": "No Loss",
+        "url": "https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN"
+      },
+      "artists": [
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "duration_ms": 175018,
+      "name": "No Loss",
+      "url": "https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "Pray 2 God",
-        "url": "https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec"
-      },
-      "artists": [
-        {
-          "name": "2'Live Bre",
-          "url": "https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F"
-        }
-      ],
-      "duration_ms": 156781,
-      "name": "Pray 2 God",
-      "url": "https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
         "name": "The Same Jesus (Reyer Remix)",
         "url": "https://open.spotify.com/album/2OPFkntf4D8A4JYJHuzvDI"
       },
@@ -2063,18 +2047,18 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "Lord Knows",
-        "url": "https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o"
+        "name": "Pray 2 God",
+        "url": "https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec"
       },
       "artists": [
         {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+          "name": "2'Live Bre",
+          "url": "https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F"
         }
       ],
-      "duration_ms": 182508,
-      "name": "Lord Knows",
-      "url": "https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8"
+      "duration_ms": 156781,
+      "name": "Pray 2 God",
+      "url": "https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -2103,8 +2087,24 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "Loose Canon, Vol. 2",
-        "url": "https://open.spotify.com/album/0QjVXmoD2SBCoMM1QvKjUa"
+        "name": "Lord Knows",
+        "url": "https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "duration_ms": 182508,
+      "name": "Lord Knows",
+      "url": "https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
+        "name": "Hold Me Back",
+        "url": "https://open.spotify.com/album/7j3AwRPzTy00HODBozut4E"
       },
       "artists": [
         {
@@ -2112,13 +2112,13 @@
           "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
         },
         {
-          "name": "Social Club Misfits",
-          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
         }
       ],
-      "duration_ms": 277368,
-      "name": "Motivation (feat. Social Club)",
-      "url": "https://open.spotify.com/track/1eb1ADsizGY0d7xnzeZrlc"
+      "duration_ms": 187820,
+      "name": "Hold Me Back",
+      "url": "https://open.spotify.com/track/4pa4ssdqt8rqWAlz3YiCBZ"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -2175,6 +2175,22 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
+        "name": "NOTHING BUT JESUS",
+        "url": "https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        }
+      ],
+      "duration_ms": 157885,
+      "name": "NOTHING",
+      "url": "https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
         "name": "Barely Finished 2",
         "url": "https://open.spotify.com/album/6HZMhMlwFMxwDsfhYV6FYO"
       },
@@ -2195,6 +2211,26 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
+        "name": "Loose Canon, Vol. 2",
+        "url": "https://open.spotify.com/album/0QjVXmoD2SBCoMM1QvKjUa"
+      },
+      "artists": [
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        },
+        {
+          "name": "Social Club Misfits",
+          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
+        }
+      ],
+      "duration_ms": 277368,
+      "name": "Motivation (feat. Social Club)",
+      "url": "https://open.spotify.com/track/1eb1ADsizGY0d7xnzeZrlc"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/2hgLM7tz6g8wNk3I5SPj8U"
       },
@@ -2211,38 +2247,18 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "Hold Me Back",
-        "url": "https://open.spotify.com/album/7j3AwRPzTy00HODBozut4E"
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/4jb9mnHKLY4YtTXPvT3ILL"
       },
       "artists": [
         {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        },
-        {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+          "name": "Gabby Callwood",
+          "url": "https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG"
         }
       ],
-      "duration_ms": 187820,
-      "name": "Hold Me Back",
-      "url": "https://open.spotify.com/track/4pa4ssdqt8rqWAlz3YiCBZ"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
-        "name": "NOTHING BUT JESUS",
-        "url": "https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
-        }
-      ],
-      "duration_ms": 157885,
-      "name": "NOTHING",
-      "url": "https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f"
+      "duration_ms": 152359,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/5FVQWfXM8a3e2BuEx6Qh0K"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -2263,22 +2279,6 @@
       "duration_ms": 177530,
       "name": "NO GOOD",
       "url": "https://open.spotify.com/track/0Q6pNJvgICuD2XjWAq3tqT"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/4jb9mnHKLY4YtTXPvT3ILL"
-      },
-      "artists": [
-        {
-          "name": "Gabby Callwood",
-          "url": "https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG"
-        }
-      ],
-      "duration_ms": 152359,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/5FVQWfXM8a3e2BuEx6Qh0K"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -2335,22 +2335,26 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "Keep Me",
-        "url": "https://open.spotify.com/album/56QvP6bxRamLdPzp1YwL52"
+        "name": "I Will Not",
+        "url": "https://open.spotify.com/album/63nGhI4IzyGnPxHaAO4Ykw"
       },
       "artists": [
         {
-          "name": "Eris Ford",
-          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
+          "name": "Datin",
+          "url": "https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4"
         },
         {
-          "name": "Evan and Eris",
-          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
+          "name": "Bryann T",
+          "url": "https://open.spotify.com/artist/2A1JIrO6mmH6G7Wkdx8LB0"
+        },
+        {
+          "name": "Dax Hamma",
+          "url": "https://open.spotify.com/artist/413WzacllGaX7jg4EzFxiY"
         }
       ],
-      "duration_ms": 150653,
-      "name": "Keep Me",
-      "url": "https://open.spotify.com/track/1bOR6zNOiMpVd2LDKP8XCE"
+      "duration_ms": 216000,
+      "name": "I Will Not",
+      "url": "https://open.spotify.com/track/0ksRxJ9rgHjh7Jy83S6vLh"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -2375,26 +2379,22 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "I Will Not",
-        "url": "https://open.spotify.com/album/63nGhI4IzyGnPxHaAO4Ykw"
+        "name": "Keep Me",
+        "url": "https://open.spotify.com/album/56QvP6bxRamLdPzp1YwL52"
       },
       "artists": [
         {
-          "name": "Datin",
-          "url": "https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4"
+          "name": "Eris Ford",
+          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
         },
         {
-          "name": "Bryann T",
-          "url": "https://open.spotify.com/artist/2A1JIrO6mmH6G7Wkdx8LB0"
-        },
-        {
-          "name": "Dax Hamma",
-          "url": "https://open.spotify.com/artist/413WzacllGaX7jg4EzFxiY"
+          "name": "Evan and Eris",
+          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
         }
       ],
-      "duration_ms": 216000,
-      "name": "I Will Not",
-      "url": "https://open.spotify.com/track/0ksRxJ9rgHjh7Jy83S6vLh"
+      "duration_ms": 150653,
+      "name": "Keep Me",
+      "url": "https://open.spotify.com/track/1bOR6zNOiMpVd2LDKP8XCE"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -2511,6 +2511,22 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
+        "name": "When It Hurts: A Story By Isaiah Hill",
+        "url": "https://open.spotify.com/album/5WIYU4Amr1Exj6b79Z1pxe"
+      },
+      "artists": [
+        {
+          "name": "Xay Hill",
+          "url": "https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6"
+        }
+      ],
+      "duration_ms": 122392,
+      "name": "I Meant It",
+      "url": "https://open.spotify.com/track/4e5wpbjFHi4Wu9zTYvuH96"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
         "name": "Ain't Playin'",
         "url": "https://open.spotify.com/album/5yvJGix8i4vEc74cJcaS9H"
       },
@@ -2531,6 +2547,22 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
+        "name": "TWO UP TWO DOWN",
+        "url": "https://open.spotify.com/album/4QBF6oj1A5pccBniyjPwsJ"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 195004,
+      "name": "FRONT ROW",
+      "url": "https://open.spotify.com/track/3fBMvF05GtV91SX47CgtTt"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
         "name": "Unstoppable (feat. Lecrae)",
         "url": "https://open.spotify.com/album/7lykQXDSKUZF0dGUErCjlD"
       },
@@ -2547,38 +2579,6 @@
       "duration_ms": 221435,
       "name": "Unstoppable (feat. Lecrae)",
       "url": "https://open.spotify.com/track/1Ak89vujl3AqjxDMvKmJRQ"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
-        "name": "When It Hurts: A Story By Isaiah Hill",
-        "url": "https://open.spotify.com/album/5WIYU4Amr1Exj6b79Z1pxe"
-      },
-      "artists": [
-        {
-          "name": "Xay Hill",
-          "url": "https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6"
-        }
-      ],
-      "duration_ms": 122392,
-      "name": "I Meant It",
-      "url": "https://open.spotify.com/track/4e5wpbjFHi4Wu9zTYvuH96"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
-        "name": "TWO UP TWO DOWN",
-        "url": "https://open.spotify.com/album/4QBF6oj1A5pccBniyjPwsJ"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 195004,
-      "name": "FRONT ROW",
-      "url": "https://open.spotify.com/track/3fBMvF05GtV91SX47CgtTt"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -2687,6 +2687,26 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
+        "name": "Be Gone (feat. Mike Teezy)",
+        "url": "https://open.spotify.com/album/6OLJkhICitLisBY6dAYNY5"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        },
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 176076,
+      "name": "Be Gone (feat. Mike Teezy)",
+      "url": "https://open.spotify.com/track/2cnc9jsFHDsGDQpYBMtgP9"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
         "name": "Tree",
         "url": "https://open.spotify.com/album/54wHmXPZMHh54mWa1cHHgY"
       },
@@ -2707,26 +2727,6 @@
       "duration_ms": 242564,
       "name": "Red Light Green Light",
       "url": "https://open.spotify.com/track/7vhLO7AIWYlMjLk2aAED7x"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
-        "name": "Be Gone (feat. Mike Teezy)",
-        "url": "https://open.spotify.com/album/6OLJkhICitLisBY6dAYNY5"
-      },
-      "artists": [
-        {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        },
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 176076,
-      "name": "Be Gone (feat. Mike Teezy)",
-      "url": "https://open.spotify.com/track/2cnc9jsFHDsGDQpYBMtgP9"
     },
     {
       "added_at": "2022-12-16 09:00:00",

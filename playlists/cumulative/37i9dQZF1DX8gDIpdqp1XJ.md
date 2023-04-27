@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-777 songs - 2 day 3 hr 3 min
+778 songs - 2 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -594,6 +594,7 @@
 | [Shortcuts](https://open.spotify.com/track/5uwNmdGV23BLcg8KzQPVPY) | [PWNT](https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v) | [Shortcuts](https://open.spotify.com/album/72JyRDmsCZaoE0H70HYHA0) | 2:34 | 2021-04-02 | 2022-07-29 |
 | [Should Have Known](https://open.spotify.com/track/7aMk5db2btzYPuE7qiXx2E) | [Still Parade](https://open.spotify.com/artist/3CXevh2SLL5B4cuTedOkj5) | [Should Have Known](https://open.spotify.com/album/5XUmJyKC3JyyjBDeYECY2w) | 3:06 | 2021-04-02 | 2022-04-19 |
 | [Show Me How](https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg) | 3:35 | 2022-04-20 |  |
+| [Shudders](https://open.spotify.com/track/4MY8AhJGS0RjCsz9xV7haa) | [T\. Evann](https://open.spotify.com/artist/2BcGW2sfH7w1xKhKGye5YG) | [Shudders](https://open.spotify.com/album/0UorEWxNxVsfzLWEb4H2bD) | 2:43 | 2023-04-26 |  |
 | [Shuggie](https://open.spotify.com/track/51XZD1FCrWyU3dDWJH4nzb) | [Foxygen](https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4) | [We Are the 21st Century Ambassadors of Peace & Magic](https://open.spotify.com/album/1iQNqvcWTFwfUYnsGgMYBw) | 3:21 | 2021-04-02 | 2022-07-29 |
 | [Shuggie](https://open.spotify.com/track/6RgrpOgbTI3M2qvA8XIvTb) | [Foxygen](https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4) | [We Are the 21st Century Ambassadors of Peace & Magic](https://open.spotify.com/album/7FfiN9ztbjLNPWhuhFHaWf) | 3:21 | 2022-07-22 | 2023-02-25 |
 | [Shy](https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Shy](https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8) | 3:21 | 2022-07-11 | 2023-03-07 |

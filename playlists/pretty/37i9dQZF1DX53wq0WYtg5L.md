@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 
 > Celebremos el orgullo mexicano con estas alegres canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,727 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,791 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 93 | [La Vaquilla](https://open.spotify.com/track/2gtvXZKt40nfgRmnBaqZu0) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Pepe Aguilar Con Tambora](https://open.spotify.com/album/6t4HD7n8phLI7hrcMfxXL3) | 2:10 |
 | 94 | [El Zacatecano](https://open.spotify.com/track/5m3TBrw10tXhHvIdS2r3mR) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Que Te Ha Dado Esa Mujer](https://open.spotify.com/album/4b5U1WWD6h0kJtr2Npv5HR) | 2:26 |
 | 95 | [El Toro Serrano](https://open.spotify.com/track/5oyHCXNrSTALlOyu03v6WB) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Que Te Ha Dado Esa Mujer](https://open.spotify.com/album/4b5U1WWD6h0kJtr2Npv5HR) | 2:42 |
-| 96 | [La Mulita Prieta](https://open.spotify.com/track/2dCICTepTYf3CgfITnxQ4f) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Pepe Aguilar Interpreta A Joan Sebastian](https://open.spotify.com/album/3tIHIHQhkjShT31Br8nreb) | 2:31 |
-| 97 | [La Verdolaga \(Huapango\)](https://open.spotify.com/track/3sZHqEOkquQLgcKddk2UfQ) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Rubén Fuentes, Miguel Martínez, Silvestre Vargas](https://open.spotify.com/album/4Zraph4xdA7evbLQbwT7In) | 3:10 |
-| 98 | [Cielito Lindo](https://open.spotify.com/track/2GzOrRCr4yyz2DqcEqTdBS) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Lo Mejor De La Música Mexicana](https://open.spotify.com/album/35XRyDZl5xoWF0wVNQ5VeL) | 3:41 |
+| 96 | [Cielito Lindo](https://open.spotify.com/track/2GzOrRCr4yyz2DqcEqTdBS) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Lo Mejor De La Música Mexicana](https://open.spotify.com/album/35XRyDZl5xoWF0wVNQ5VeL) | 3:41 |
+| 97 | [La Mulita Prieta](https://open.spotify.com/track/2dCICTepTYf3CgfITnxQ4f) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Pepe Aguilar Interpreta A Joan Sebastian](https://open.spotify.com/album/3tIHIHQhkjShT31Br8nreb) | 2:31 |
+| 98 | [La Verdolaga \(Huapango\)](https://open.spotify.com/track/3sZHqEOkquQLgcKddk2UfQ) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Rubén Fuentes, Miguel Martínez, Silvestre Vargas](https://open.spotify.com/album/4Zraph4xdA7evbLQbwT7In) | 3:10 |
 | 99 | [El Hidalguense](https://open.spotify.com/track/5vozBkZkjmew8kVuPxWOnY) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [RCA 100 Anos De Musica \- Segunda Parte](https://open.spotify.com/album/2uJqbXKxHtQHoeU6CK0RvY) | 3:17 |
 | 100 | [Allá En El Rancho Grande](https://open.spotify.com/track/26LABlj8Jq3a0uKYnp2bf9) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Lo Mejor De La Música Mexicana](https://open.spotify.com/album/35XRyDZl5xoWF0wVNQ5VeL) | 2:47 |
 
-Snapshot ID: `MTY2MzAwMzk3NCwwMDAwMDAwMDEzYjVjZTg0NDAxNjc5MzNmODRiYWJlZTMyNDU3YWQ4`
+Snapshot ID: `MTY2MzAwMzk3NCwwMDAwMDAwMDczYWIwM2Q4OTAxMzY2M2I3ZTBmMzJmMmUzY2NjYzQ4`

@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 | 10 | [Winona Ryder](https://open.spotify.com/track/3Ss1NP5PLQmRakgtYwUS0o) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 4:14 |
 | 11 | [412](https://open.spotify.com/track/4HAUQ35gRU5GS1VuhqlqLw) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 3:54 |
 | 12 | [Then People Forget](https://open.spotify.com/track/3tvYy58ntsK4Gr3ZPp2fop) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:31 |
-| 13 | [Violet](https://open.spotify.com/track/6j9WxIbqbib7SjGKePRPkQ) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 4:12 |
+| 13 | [Water Doctor](https://open.spotify.com/track/3xDhCNXmsM0HAeRtTQziaI) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 3:38 |
 | 14 | [I Got Punched in the Face, What's Your Excuse](https://open.spotify.com/track/1UWkXVBzlGeADNlUXep8B5) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:31 |
-| 15 | [Water Doctor](https://open.spotify.com/track/3xDhCNXmsM0HAeRtTQziaI) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 3:38 |
+| 15 | [Violet](https://open.spotify.com/track/6j9WxIbqbib7SjGKePRPkQ) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 4:12 |
 | 16 | [Adriatic](https://open.spotify.com/track/4tVdXk9zmlm4koU9Jfwo1y) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 2:57 |
 
-Snapshot ID: `MjgwNDA0NDAsMDAwMDAwMDA4YWYxOGNkMWIzMzI1YWJiZjg0MGQ5MGI5NWFiM2I0Mw==`
+Snapshot ID: `MjgwNDE5MzAsMDAwMDAwMDAxNzg0ZDRjOTNjY2FiNzk2NzU5ODU4MGY3OGUwODRiMw==`

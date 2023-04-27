@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: Nardo Wick
 
-676 songs - 1 day 8 hr 31 min
+677 songs - 1 day 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,6 +386,7 @@
 | [mop \(feat\. Young Thug\)](https://open.spotify.com/track/2ZGEjmwyeZ3rpEezkZwqOP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 3:05 | 2022-01-07 | 2022-01-22 |
 | [Motion](https://open.spotify.com/track/6excfi52hCKksRlRt55VH2) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Motion](https://open.spotify.com/album/4gQHDKTolva19r36snfw8T) | 2:07 | 2022-11-18 | 2023-01-28 |
 | [Motion God](https://open.spotify.com/track/75ZoVrZ4mXEsDxv1bQbEAS) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Motion God](https://open.spotify.com/album/1TwrnBDlShNlNIn20c5h31) | 2:23 | 2023-04-21 |  |
+| [Mr Gaulden](https://open.spotify.com/track/2gWvBbkutosMkcK7LGKUnl) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Don't Try This At Home](https://open.spotify.com/album/6mS81Go5P5wQKoybVT68NW) | 3:11 | 2023-04-26 |  |
 | [MR MEMPHIS MASSACRE](https://open.spotify.com/track/0D6uigxXyrqHiFh6lTN7q5) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [MEMPHIS MASSACRE III](https://open.spotify.com/album/6zpMySpRlvtUlFhl3TkZ7k) | 2:51 | 2022-10-28 | 2022-11-12 |
 | [Mr\. CBFW \(feat\. G Herbo\)](https://open.spotify.com/track/21VQqg9k0znNBQczrhvTIf) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Drill Season \(Extended\)](https://open.spotify.com/album/6daSSJZ16r6AH9gj8bZbWG) | 2:43 | 2022-11-11 | 2023-01-14 |
 | [Mr\. CBFW \(feat\. G Herbo\)](https://open.spotify.com/track/3olMRANIDgoV0UlCKsnn0C) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Drill Season](https://open.spotify.com/album/7LM5hMPyfvz6XE6iChpxlf) | 2:43 | 2022-11-11 | 2023-01-08 |

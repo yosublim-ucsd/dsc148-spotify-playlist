@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 
 > Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,012 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,131 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 | 6 | [Man Smart, Woman Smarter](https://open.spotify.com/track/5bjWqqJdM85zPvVHnXlEui) | [The Duke Of Iron](https://open.spotify.com/artist/24SUuBMfJRRKPZxkTJ8p81) | [Man Smart, Woman Smarter \(Remastered\)](https://open.spotify.com/album/7ueOZmQbgjo5U1wRn4gUAs) | 2:34 |
 | 7 | [Sugar Bum Bum](https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [Forever Vol.1](https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY) | 6:05 |
 | 8 | [Don't Touch Me Tomato](https://open.spotify.com/track/4T0vtk187B4c75WSc71jeq) | [Calypso Mama](https://open.spotify.com/artist/2t2wB82iIBJwcj0kVkgupy) | [Muriel's Treasure, Vol\. 3: Vintage Calypso from the 1950s & 1960s](https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX) | 2:14 |
-| 9 | [Sausage](https://open.spotify.com/track/7KAvmiHCXGTcy0yl0ASOpD) | [Baldhead Growler](https://open.spotify.com/artist/7eeTpMfXaP4GgXU0NGkZK6) | [Muriel's Treasure, Vol\. 3: Vintage Calypso from the 1950s & 1960s](https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX) | 2:38 |
-| 10 | [Never Ever Worry](https://open.spotify.com/track/6GdYfhHRFRLYLIflNuzCX7) | [The Great Honourable Lord Pretender](https://open.spotify.com/artist/6wok7L7GfBNS0nOltwmopD) | [The Man Who Never Ever Worried](https://open.spotify.com/album/3cEHPnWBiQ5ZYSFCEr0gRp) | 5:36 |
-| 11 | [The Weed \(Man Pyabba\)](https://open.spotify.com/track/6vFcUp67PGMjZdSKvney6Y) | [Count Lasher](https://open.spotify.com/artist/0J2rvUNb5LPOFUV3aWY6Xl), [Lynn Taitt](https://open.spotify.com/artist/2AOn8ToM1vaab3wtU74ldy), [The Baba Brooks Band](https://open.spotify.com/artist/2CvWN4mkeo5qpINkGALdgQ) | [Independence Jump Up Calypso](https://open.spotify.com/album/2dfghX8adIwzkl4LwWLoRE) | 2:59 |
+| 9 | [Never Ever Worry](https://open.spotify.com/track/6GdYfhHRFRLYLIflNuzCX7) | [The Great Honourable Lord Pretender](https://open.spotify.com/artist/6wok7L7GfBNS0nOltwmopD) | [The Man Who Never Ever Worried](https://open.spotify.com/album/3cEHPnWBiQ5ZYSFCEr0gRp) | 5:36 |
+| 10 | [The Rumba Dance](https://open.spotify.com/track/1JRVPBbouJbwli9SNoZkzx) | [Roaring Lion](https://open.spotify.com/artist/5hSF1JVkIaxGR4a3Ft5F9V), [Gerald Clark and his Caribbean Serenaders](https://open.spotify.com/artist/3cAPjGaYEFZwtgtzpcvmMh) | [A Guide to Calypso \(1912 \- 1940\), Vol.1](https://open.spotify.com/album/38slaOgROCHiVUk1kaS1zK) | 3:12 |
+| 11 | [Sausage](https://open.spotify.com/track/7KAvmiHCXGTcy0yl0ASOpD) | [Baldhead Growler](https://open.spotify.com/artist/7eeTpMfXaP4GgXU0NGkZK6) | [Muriel's Treasure, Vol\. 3: Vintage Calypso from the 1950s & 1960s](https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX) | 2:38 |
 | 12 | [Me Ting Is Mine](https://open.spotify.com/track/1OVkqIMN1QkVbSDpSOU0yt) | [Small Island Pride](https://open.spotify.com/artist/7ugF6nfdSQf3Lgl58uKeCL) | [Calypso Atrocities](https://open.spotify.com/album/4wxZvFup77TmfeOsY0spI2) | 3:07 |
 | 13 | [Calypsonian Invasion](https://open.spotify.com/track/0oLlOtIYnH5kwSEOJoEarY) | [The Duke Of Iron](https://open.spotify.com/artist/24SUuBMfJRRKPZxkTJ8p81) | [Calypso Carnival \(Remastered\)](https://open.spotify.com/album/3rW38tUEFXgE1YKVkRlZFh) | 3:00 |
-| 14 | [The Rumba Dance](https://open.spotify.com/track/1JRVPBbouJbwli9SNoZkzx) | [Roaring Lion](https://open.spotify.com/artist/5hSF1JVkIaxGR4a3Ft5F9V), [Gerald Clark and his Caribbean Serenaders](https://open.spotify.com/artist/3cAPjGaYEFZwtgtzpcvmMh) | [A Guide to Calypso \(1912 \- 1940\), Vol.1](https://open.spotify.com/album/38slaOgROCHiVUk1kaS1zK) | 3:12 |
+| 14 | [The Weed \(Man Pyabba\)](https://open.spotify.com/track/6vFcUp67PGMjZdSKvney6Y) | [Count Lasher](https://open.spotify.com/artist/0J2rvUNb5LPOFUV3aWY6Xl), [Lynn Taitt](https://open.spotify.com/artist/2AOn8ToM1vaab3wtU74ldy), [The Baba Brooks Band](https://open.spotify.com/artist/2CvWN4mkeo5qpINkGALdgQ) | [Independence Jump Up Calypso](https://open.spotify.com/album/2dfghX8adIwzkl4LwWLoRE) | 2:59 |
 | 15 | [Brown Skin Girl](https://open.spotify.com/track/5IM2g33UlqKoLjjvgnP0Rp) | [Lord Invader](https://open.spotify.com/artist/1S1XUYadNLS2gkRKSxG1vl) | [Calypso](https://open.spotify.com/album/7zMd2ZyCLK83STGzNxDz5l) | 2:51 |
 | 16 | [Carnival Proclamation](https://open.spotify.com/track/5k6fy2tWt4a08ffsOtjuW6) | [Lord Melody](https://open.spotify.com/artist/763Br9i2W8Zy7Qpuog90Ka) | [Lord Melody Sings Calypso](https://open.spotify.com/album/6f8R8HDMPeAnhR5NIoCu8e) | 2:43 |
 | 17 | [London is the Place for Me](https://open.spotify.com/track/1pETAnznla509bUKb34xnS) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [8](https://open.spotify.com/album/5myiV8PzZ56eKshMLoTvVH) | 2:47 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 | 39 | [Woman Is Not The Weaker Sex](https://open.spotify.com/track/2OfEqAYJZalVNH69IBVkYi) | [Atilla](https://open.spotify.com/artist/3RsBkhmkDKitjXca4qArAz) | [Calypso \- Best of Trinidad](https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb) | 2:55 |
 | 40 | [Blow Wind Blow](https://open.spotify.com/track/42FHEJKS0K5eEbY5hQLaAj) | [Lionel Belasco](https://open.spotify.com/artist/4cPFaFsaRAuAdh5qhZHCXf) | [Calypso Legends](https://open.spotify.com/album/2hcNJdaOsTyGg9T7c54EBJ) | 3:07 |
 
-Snapshot ID: `MTYxOTE5MDM1MCwwMDAwMDAwMDlhM2M4N2I5MmM3YTY4YmVkYjY0Mjc2NmQ0ODIxZWZm`
+Snapshot ID: `MTYxOTE5MDM1MCwwMDAwMDAwMGE3MzQ2OWNmMTZjZTBiNzc4NzllZTdiNzFkOTVmMWMx`

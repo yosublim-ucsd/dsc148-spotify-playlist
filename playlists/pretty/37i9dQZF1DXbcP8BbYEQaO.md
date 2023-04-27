@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 
 > sparkling, shimmery synth pop ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,227 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,335 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 50 | [What I Want](https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:03 |
 | 51 | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/1GsSM1Fju5J1Fsu51jEsTg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:16 |
 | 52 | [Iridium](https://open.spotify.com/track/5amRolITZmPuqDQOqJ4aWr) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Iridium](https://open.spotify.com/album/573lYeLYHCPSKBOa0RyDbE) | 2:46 |
-| 53 | [NOT ALONE](https://open.spotify.com/track/42RpLZC6rKzQZyLMaJMsDJ) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [NOT ALONE](https://open.spotify.com/album/06osQucbdoBctWgXgdFblC) | 3:03 |
-| 54 | [Wolf](https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:13 |
+| 53 | [Wolf](https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:13 |
+| 54 | [NOT ALONE](https://open.spotify.com/track/42RpLZC6rKzQZyLMaJMsDJ) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [NOT ALONE](https://open.spotify.com/album/06osQucbdoBctWgXgdFblC) | 3:03 |
 | 55 | [Duel](https://open.spotify.com/track/1sgMo3mjFB8mA7KLzETTeO) | [Propaganda](https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn) | [A Secret Wish \(Analogue Sequence\)](https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW) | 4:42 |
 | 56 | [No Romeo](https://open.spotify.com/track/2n4U8Qf9vkpl6rFQnXtLK5) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo EP](https://open.spotify.com/album/6dpPmjQADL8JE813YWKfQ3) | 3:11 |
 | 57 | [Exscape](https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Exscape](https://open.spotify.com/album/1vSELIji55iJOeDXNHng2b) | 2:22 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 64 | [What's It Gonna Be?](https://open.spotify.com/track/1Jb8fejyUddXtl2JKAEFmQ) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Nothing's Real](https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP) | 3:34 |
 | 65 | [LUV \(I KNOW I WANT THIS FOR REAL\)](https://open.spotify.com/track/1SiV9ERoyjtUPrNnuJCj21) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [LUV \(I KNOW I WANT THIS FOR REAL\)](https://open.spotify.com/album/1Tra5Ed1LWPGdmblM9ojiU) | 3:13 |
 | 66 | [Save A Kiss](https://open.spotify.com/track/6rlQYRWG6ZN5X89LA0zBE7) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [What's Your Pleasure?](https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp) | 4:02 |
-| 67 | [Love You When You’re Gone](https://open.spotify.com/track/54liA2Xwyb7ZCrh9sDGQ3B) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Love You When You’re Gone](https://open.spotify.com/album/3DtAEhLFoQSftobryAhftd) | 3:04 |
-| 68 | [Naked In Manhattan](https://open.spotify.com/track/1IfgSUsltB1wGK9SzK7SDa) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Naked In Manhattan](https://open.spotify.com/album/6nMbaV420wdCbTqJNU6Dnp) | 3:31 |
-| 69 | [CGI](https://open.spotify.com/track/0yinijG2Ju2VOeLLB8BgVe) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [CGI](https://open.spotify.com/album/0YTny8rNHTIhYKSApVcHcy) | 3:15 |
+| 67 | [CGI](https://open.spotify.com/track/0yinijG2Ju2VOeLLB8BgVe) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [CGI](https://open.spotify.com/album/0YTny8rNHTIhYKSApVcHcy) | 3:15 |
+| 68 | [Love You When You’re Gone](https://open.spotify.com/track/54liA2Xwyb7ZCrh9sDGQ3B) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Love You When You’re Gone](https://open.spotify.com/album/3DtAEhLFoQSftobryAhftd) | 3:04 |
+| 69 | [Naked In Manhattan](https://open.spotify.com/track/1IfgSUsltB1wGK9SzK7SDa) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Naked In Manhattan](https://open.spotify.com/album/6nMbaV420wdCbTqJNU6Dnp) | 3:31 |
 | 70 | [I F\*cking Love You](https://open.spotify.com/track/7duGuHM4EiL8unwYQ4aDk5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/0PJoyjLXZFuYNY4m1TCbQw) | 3:00 |
 | 71 | [Lights & Music](https://open.spotify.com/track/2dngx6srtqsxvyh7oGV8FM) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours](https://open.spotify.com/album/6k3dwEFYKsGrhS40jtiAGt) | 4:37 |
 | 72 | [Purple Sun](https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Purple Sun](https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1) | 4:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 74 | [Dance Away The Pain](https://open.spotify.com/track/1ZVzr825BOBAyGZoQqCSRg) | [Number One Popstar](https://open.spotify.com/artist/26K6dJKDXGJc5TRt0sOD3q) | [Dance Away The Pain](https://open.spotify.com/album/21WomUkBD1tJBCAH0Ow7in) | 2:56 |
 | 75 | [For My Friends](https://open.spotify.com/track/6IEzGhvKEeUprf0pVk21ye) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:35 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMGYzYjRlMjU2OWUyN2JmMTRmNWU0MzdkNjdjOGUyMDc5`
+Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDI5ZjI1Zjc1M2RjMWIyZWNmZDViYWFjMzM0NTFhMGQ0`

@@ -1,12 +1,12 @@
 {
   "description": "Pop favorites from today and yesterday",
-  "num_followers": 84805,
+  "num_followers": 85471,
   "original_name": "Pop Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY4ODg4NywwMDAwMDAwMGE1MzQ2MDQ4NmQ1MmU3ZWQ4ODY5NWVlZTNjYzM4ZmFi",
+  "snapshot_id": "MTY3NzY4ODg4NywwMDAwMDAwMDZjNmUwNWMyMDQ4ZWZiMDc4M2U3ZGQ2ZDE4NTVkZTE3",
   "tracks": [
     {
       "added_at": "2021-07-01 23:30:27",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
     },
     {
-      "added_at": "2023-04-26 00:46:02",
+      "added_at": "2023-04-27 00:54:35",
       "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
     },
     {
-      "added_at": "2023-04-26 00:46:02",
+      "added_at": "2023-04-27 00:54:35",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
     },
     {
-      "added_at": "2023-04-26 00:46:02",
+      "added_at": "2023-04-27 00:54:35",
       "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
     },
     {
-      "added_at": "2023-04-26 00:46:02",
+      "added_at": "2023-04-27 00:54:35",
       "album": {
         "name": "Players",
         "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
-      "added_at": "2023-04-26 00:46:02",
+      "added_at": "2023-04-27 00:54:35",
       "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
     },
     {
-      "added_at": "2023-04-26 00:46:02",
+      "added_at": "2023-04-27 00:54:35",
       "album": {
         "name": "emails i can't send",
         "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
     },
     {
-      "added_at": "2023-04-26 00:46:02",
+      "added_at": "2023-04-27 00:54:35",
       "album": {
         "name": "Talk That Talk",
         "url": "https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
     },
     {
-      "added_at": "2023-04-26 00:46:02",
+      "added_at": "2023-04-27 00:54:35",
       "album": {
         "name": "This Is Acting (Deluxe Version)",
         "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
@@ -525,20 +525,24 @@
       "url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS"
     },
     {
-      "added_at": "2023-04-26 00:46:02",
+      "added_at": "2021-07-01 23:30:27",
       "album": {
-        "name": "TRUSTFALL",
-        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
+        "name": "The Truth About Love",
+        "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
       },
       "artists": [
         {
           "name": "P!nk",
           "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Nate Ruess",
+          "url": "https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ"
         }
       ],
-      "duration_ms": 237200,
-      "name": "TRUSTFALL",
-      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
+      "duration_ms": 242733,
+      "name": "Just Give Me a Reason (feat. Nate Ruess)",
+      "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
     },
     {
       "added_at": "2021-07-01 23:30:27",
@@ -685,24 +689,20 @@
       "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
     },
     {
-      "added_at": "2021-07-01 23:30:27",
+      "added_at": "2023-04-27 00:54:35",
       "album": {
-        "name": "The Truth About Love",
-        "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
       },
       "artists": [
         {
           "name": "P!nk",
           "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Nate Ruess",
-          "url": "https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ"
         }
       ],
-      "duration_ms": 242733,
-      "name": "Just Give Me a Reason (feat. Nate Ruess)",
-      "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
+      "duration_ms": 237200,
+      "name": "TRUSTFALL",
+      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
     },
     {
       "added_at": "2021-07-01 23:30:27",
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
     },
     {
-      "added_at": "2023-04-26 00:46:02",
+      "added_at": "2023-04-27 00:54:35",
       "album": {
         "name": "Speak Your Mind (Deluxe)",
         "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
@@ -997,7 +997,7 @@
       "url": "https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel"
     },
     {
-      "added_at": "2023-04-26 00:46:02",
+      "added_at": "2023-04-27 00:54:35",
       "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2021-07-01 23:30:27",
       "album": {
-        "name": "Se\u00f1orita",
-        "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
-    },
-    {
-      "added_at": "2021-07-01 23:30:27",
-      "album": {
         "name": "Sweet Talker (Deluxe Version)",
         "url": "https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 199386,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN"
+    },
+    {
+      "added_at": "2021-07-01 23:30:27",
+      "album": {
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 190960,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
     },
     {
       "added_at": "2021-07-01 23:30:27",
@@ -1125,7 +1125,7 @@
       "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
     },
     {
-      "added_at": "2023-04-26 00:46:02",
+      "added_at": "2023-04-27 00:54:35",
       "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
@@ -1157,7 +1157,7 @@
       "url": "https://open.spotify.com/track/1V6gIisPpYqgFeWbMLI0bA"
     },
     {
-      "added_at": "2023-04-26 00:46:02",
+      "added_at": "2023-04-27 00:54:35",
       "album": {
         "name": "Red (Big Machine Radio Release Special)",
         "url": "https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D"
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2021-07-01 23:30:27",
       "album": {
-        "name": "Where the Light Is",
-        "url": "https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Sunday Best",
-      "url": "https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo"
-    },
-    {
-      "added_at": "2021-07-01 23:30:27",
-      "album": {
         "name": "Nevermind",
         "url": "https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 156600,
       "name": "Nevermind",
       "url": "https://open.spotify.com/track/63SevszngYpZOwf63o61K4"
+    },
+    {
+      "added_at": "2021-07-01 23:30:27",
+      "album": {
+        "name": "Where the Light Is",
+        "url": "https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Sunday Best",
+      "url": "https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo"
     },
     {
       "added_at": "2021-07-01 23:30:27",
@@ -1565,7 +1565,7 @@
       "url": "https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c"
     },
     {
-      "added_at": "2023-04-26 00:46:02",
+      "added_at": "2023-04-27 00:54:35",
       "album": {
         "name": "Cuz I Love You (Super Deluxe)",
         "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
@@ -1581,7 +1581,7 @@
       "url": "https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV"
     },
     {
-      "added_at": "2023-04-26 00:46:02",
+      "added_at": "2023-04-27 00:54:35",
       "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2021-07-01 23:30:27",
       "album": {
-        "name": "Dancing With A Stranger (with Normani)",
-        "url": "https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        }
-      ],
-      "duration_ms": 171029,
-      "name": "Dancing With A Stranger (with Normani)",
-      "url": "https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki"
-    },
-    {
-      "added_at": "2021-07-01 23:30:27",
-      "album": {
         "name": "Eastside (with Halsey & Khalid)",
         "url": "https://open.spotify.com/album/7pkLXlFdpQDfmHujT2AbBK"
       },
@@ -1657,7 +1637,27 @@
       "url": "https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao"
     },
     {
-      "added_at": "2023-04-26 00:46:02",
+      "added_at": "2021-07-01 23:30:27",
+      "album": {
+        "name": "Dancing With A Stranger (with Normani)",
+        "url": "https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "duration_ms": 171029,
+      "name": "Dancing With A Stranger (with Normani)",
+      "url": "https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki"
+    },
+    {
+      "added_at": "2023-04-27 00:54:35",
       "album": {
         "name": "Unapologetic (Edited Version)",
         "url": "https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG"
@@ -1671,26 +1671,6 @@
       "duration_ms": 225146,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/1z9kQ14XBSN0r2v6fx4IdG"
-    },
-    {
-      "added_at": "2021-07-01 23:30:27",
-      "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 170746,
-      "name": "My Oh My (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K"
     },
     {
       "added_at": "2021-07-01 23:30:27",
@@ -1713,7 +1693,27 @@
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
     },
     {
-      "added_at": "2023-04-26 00:46:02",
+      "added_at": "2021-07-01 23:30:27",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 170746,
+      "name": "My Oh My (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K"
+    },
+    {
+      "added_at": "2023-04-27 00:54:35",
       "album": {
         "name": "Sit Still, Look Pretty",
         "url": "https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt"

@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Deathcore tracks, mixing recent and fresh new tracks. Cover: Left to Suffer",
-  "num_followers": 111107,
+  "num_followers": 111553,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMGFhZDRhYWNiMjBkMTI5MzdlNzVmNzFmZWZiOTBkNDMx",
+  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDVkMjk4NWQyN2IyODVhMzViMWE2ZWI1MmZlMDk1NmM1",
   "tracks": [
     {
       "added_at": "2023-04-14 04:01:00",
@@ -375,22 +375,18 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Lifeblood",
-        "url": "https://open.spotify.com/album/4ZaNUD70SBKIIspB7Iz7Qq"
+        "name": "Hollowed Heart",
+        "url": "https://open.spotify.com/album/0Dw5ryGjm2rcsJOtmtVj1e"
       },
       "artists": [
         {
-          "name": "Brand of Sacrifice",
-          "url": "https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod"
-        },
-        {
-          "name": "Will Ramos",
-          "url": "https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa"
+          "name": "Make Them Suffer",
+          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
         }
       ],
-      "duration_ms": 257000,
-      "name": "Lifeblood",
-      "url": "https://open.spotify.com/track/2o1kCaUvxMcBDgb2DZ38aD"
+      "duration_ms": 231959,
+      "name": "Hollowed Heart",
+      "url": "https://open.spotify.com/track/3qSO9glfDKlL7mFzUJbz2V"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -411,18 +407,22 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Hollowed Heart",
-        "url": "https://open.spotify.com/album/0Dw5ryGjm2rcsJOtmtVj1e"
+        "name": "Lifeblood",
+        "url": "https://open.spotify.com/album/4ZaNUD70SBKIIspB7Iz7Qq"
       },
       "artists": [
         {
-          "name": "Make Them Suffer",
-          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
+          "name": "Brand of Sacrifice",
+          "url": "https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod"
+        },
+        {
+          "name": "Will Ramos",
+          "url": "https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa"
         }
       ],
-      "duration_ms": 231959,
-      "name": "Hollowed Heart",
-      "url": "https://open.spotify.com/track/3qSO9glfDKlL7mFzUJbz2V"
+      "duration_ms": 257000,
+      "name": "Lifeblood",
+      "url": "https://open.spotify.com/track/2o1kCaUvxMcBDgb2DZ38aD"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Fathomless Maw",
-        "url": "https://open.spotify.com/album/6RdK7lIglSnuA9xLqwTyMM"
+        "name": "Hindsight",
+        "url": "https://open.spotify.com/album/55rUi0DIA1k24v7LdeAhKs"
       },
       "artists": [
         {
-          "name": "Chelsea Grin",
-          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
+          "name": "Emmure",
+          "url": "https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk"
         }
       ],
-      "duration_ms": 205058,
-      "name": "Fathomless Maw",
-      "url": "https://open.spotify.com/track/3SSc3dcDRsvLuLYTSbyeYM"
+      "duration_ms": 131142,
+      "name": "Pigs Ear",
+      "url": "https://open.spotify.com/track/6K3loUQE0wrl8sa2KGFvL2"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -563,18 +563,18 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Hindsight",
-        "url": "https://open.spotify.com/album/55rUi0DIA1k24v7LdeAhKs"
+        "name": "Fathomless Maw",
+        "url": "https://open.spotify.com/album/6RdK7lIglSnuA9xLqwTyMM"
       },
       "artists": [
         {
-          "name": "Emmure",
-          "url": "https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk"
+          "name": "Chelsea Grin",
+          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
         }
       ],
-      "duration_ms": 131142,
-      "name": "Pigs Ear",
-      "url": "https://open.spotify.com/track/6K3loUQE0wrl8sa2KGFvL2"
+      "duration_ms": 205058,
+      "name": "Fathomless Maw",
+      "url": "https://open.spotify.com/track/3SSc3dcDRsvLuLYTSbyeYM"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Human Target",
-        "url": "https://open.spotify.com/album/45oaK6XdF8aZ9tIF6aPQCM"
-      },
-      "artists": [
-        {
-          "name": "Thy Art Is Murder",
-          "url": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
-        }
-      ],
-      "duration_ms": 181097,
-      "name": "New Gods",
-      "url": "https://open.spotify.com/track/5wDscoENTsVsW6gvCLsLpX"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Bleeding Sun",
         "url": "https://open.spotify.com/album/7hkhFnClNPmRXL20KqdzSO"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 219692,
       "name": "Bleeding Sun",
       "url": "https://open.spotify.com/track/6bsxDgpU5nlcHNZYtsfZG8"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Human Target",
+        "url": "https://open.spotify.com/album/45oaK6XdF8aZ9tIF6aPQCM"
+      },
+      "artists": [
+        {
+          "name": "Thy Art Is Murder",
+          "url": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
+        }
+      ],
+      "duration_ms": 181097,
+      "name": "New Gods",
+      "url": "https://open.spotify.com/track/5wDscoENTsVsW6gvCLsLpX"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -887,38 +887,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Choky",
-        "url": "https://open.spotify.com/album/0daRza8EZVJvUaTC9JYkVl"
-      },
-      "artists": [
-        {
-          "name": "ten56.",
-          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
-        }
-      ],
-      "duration_ms": 179876,
-      "name": "Choky",
-      "url": "https://open.spotify.com/track/5VIqmAis57fVSZ66761QHn"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Pain Remains II: After All I've Done, I'll Disappear",
-        "url": "https://open.spotify.com/album/7s8v300WVzKUhsATpx692e"
-      },
-      "artists": [
-        {
-          "name": "Lorna Shore",
-          "url": "https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF"
-        }
-      ],
-      "duration_ms": 336813,
-      "name": "Pain Remains II: After All I've Done, I'll Disappear",
-      "url": "https://open.spotify.com/track/3CLV93SK84UzGD5EHm3vsT"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "In Dying Days",
         "url": "https://open.spotify.com/album/3sCRkXKFnu5rvkB4LYmVGC"
       },
@@ -935,18 +903,18 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "God Hand",
-        "url": "https://open.spotify.com/album/3vnofNSDDHTomiI8cIZrpb"
+        "name": "Pain Remains II: After All I've Done, I'll Disappear",
+        "url": "https://open.spotify.com/album/7s8v300WVzKUhsATpx692e"
       },
       "artists": [
         {
-          "name": "Brand of Sacrifice",
-          "url": "https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod"
+          "name": "Lorna Shore",
+          "url": "https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF"
         }
       ],
-      "duration_ms": 196063,
-      "name": "Charlotte",
-      "url": "https://open.spotify.com/track/1MCRmDZQsbB1r2KP8dsWKO"
+      "duration_ms": 336813,
+      "name": "Pain Remains II: After All I've Done, I'll Disappear",
+      "url": "https://open.spotify.com/track/3CLV93SK84UzGD5EHm3vsT"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -975,6 +943,22 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
+        "name": "God Hand",
+        "url": "https://open.spotify.com/album/3vnofNSDDHTomiI8cIZrpb"
+      },
+      "artists": [
+        {
+          "name": "Brand of Sacrifice",
+          "url": "https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod"
+        }
+      ],
+      "duration_ms": 196063,
+      "name": "Charlotte",
+      "url": "https://open.spotify.com/track/1MCRmDZQsbB1r2KP8dsWKO"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
         "name": "Become the Hunter",
         "url": "https://open.spotify.com/album/0TKibOiHotsM6d36cyepoC"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 202322,
       "name": "Two Steps",
       "url": "https://open.spotify.com/track/3snVL2u6T1ooATEb1BmqAw"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Choky",
+        "url": "https://open.spotify.com/album/0daRza8EZVJvUaTC9JYkVl"
+      },
+      "artists": [
+        {
+          "name": "ten56.",
+          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
+        }
+      ],
+      "duration_ms": 179876,
+      "name": "Choky",
+      "url": "https://open.spotify.com/track/5VIqmAis57fVSZ66761QHn"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
+        "name": "Nu World Order",
+        "url": "https://open.spotify.com/album/5SncXjPlJcoEXn40vPgHR6"
+      },
+      "artists": [
+        {
+          "name": "Traitors",
+          "url": "https://open.spotify.com/artist/1GkXxneFQE4d5YTsrbN6Ya"
+        }
+      ],
+      "duration_ms": 175723,
+      "name": "Nu World Order",
+      "url": "https://open.spotify.com/track/60haWdj7cWgEzmEljnRZKV"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
         "name": "Aeons of Oblivion",
         "url": "https://open.spotify.com/album/2qplxtai1BdGPrjIjUo1Hr"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 221446,
       "name": "Aeons of Oblivion",
       "url": "https://open.spotify.com/track/6HcXTUJEOpTbiCPyGtU1sA"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Nu World Order",
-        "url": "https://open.spotify.com/album/5SncXjPlJcoEXn40vPgHR6"
-      },
-      "artists": [
-        {
-          "name": "Traitors",
-          "url": "https://open.spotify.com/artist/1GkXxneFQE4d5YTsrbN6Ya"
-        }
-      ],
-      "duration_ms": 175723,
-      "name": "Nu World Order",
-      "url": "https://open.spotify.com/track/60haWdj7cWgEzmEljnRZKV"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1543,8 +1543,8 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Axe Of Kindness",
-        "url": "https://open.spotify.com/album/4zr1Sv0QdzOidHBxuStPh6"
+        "name": "Miserable Summer",
+        "url": "https://open.spotify.com/album/7cdW7W8dJBUoUoHuarLsb2"
       },
       "artists": [
         {
@@ -1552,9 +1552,9 @@
           "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
         }
       ],
-      "duration_ms": 248600,
-      "name": "Axe of Kindness",
-      "url": "https://open.spotify.com/track/3Fg5ZDrV66DlNLAh2LO8vL"
+      "duration_ms": 294782,
+      "name": "Miserable Summer",
+      "url": "https://open.spotify.com/track/1TqxaBXzqepHJHcI2QAoRu"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1623,28 +1623,24 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Forever Bloom",
-        "url": "https://open.spotify.com/album/2Nvrs4vBmCZcHLnALbN2hk"
+        "name": "Absolvere",
+        "url": "https://open.spotify.com/album/2nDh1tZjYv2W63a27pSqRx"
       },
       "artists": [
         {
-          "name": "Chelsea Grin",
-          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
-        },
-        {
-          "name": "Trevor Strnad",
-          "url": "https://open.spotify.com/artist/5ABUXkPbITc1OnlxG0fPmf"
+          "name": "Signs of the Swarm",
+          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
         }
       ],
-      "duration_ms": 169774,
-      "name": "Forever Bloom (feat. Trevor Strnad)",
-      "url": "https://open.spotify.com/track/5mavoeczZoK9jeHFVWTkv6"
+      "duration_ms": 221091,
+      "name": "Dreaming Desecration",
+      "url": "https://open.spotify.com/track/5CdHJaOsp8gCZyMhuWmS6o"
     },
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Miserable Summer",
-        "url": "https://open.spotify.com/album/7cdW7W8dJBUoUoHuarLsb2"
+        "name": "Axe Of Kindness",
+        "url": "https://open.spotify.com/album/4zr1Sv0QdzOidHBxuStPh6"
       },
       "artists": [
         {
@@ -1652,9 +1648,9 @@
           "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
         }
       ],
-      "duration_ms": 294782,
-      "name": "Miserable Summer",
-      "url": "https://open.spotify.com/track/1TqxaBXzqepHJHcI2QAoRu"
+      "duration_ms": 248600,
+      "name": "Axe of Kindness",
+      "url": "https://open.spotify.com/track/3Fg5ZDrV66DlNLAh2LO8vL"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1675,34 +1671,22 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Absolvere",
-        "url": "https://open.spotify.com/album/2nDh1tZjYv2W63a27pSqRx"
+        "name": "Forever Bloom",
+        "url": "https://open.spotify.com/album/2Nvrs4vBmCZcHLnALbN2hk"
       },
       "artists": [
         {
-          "name": "Signs of the Swarm",
-          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
-        }
-      ],
-      "duration_ms": 221091,
-      "name": "Dreaming Desecration",
-      "url": "https://open.spotify.com/track/5CdHJaOsp8gCZyMhuWmS6o"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Survival",
-        "url": "https://open.spotify.com/album/1yQX87mmZgUC1CH8R7EbLr"
-      },
-      "artists": [
+          "name": "Chelsea Grin",
+          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
+        },
         {
-          "name": "Within Destruction",
-          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
+          "name": "Trevor Strnad",
+          "url": "https://open.spotify.com/artist/5ABUXkPbITc1OnlxG0fPmf"
         }
       ],
-      "duration_ms": 199741,
-      "name": "Survival",
-      "url": "https://open.spotify.com/track/5cV5z3OWpzyvLmpZQiJhuA"
+      "duration_ms": 169774,
+      "name": "Forever Bloom (feat. Trevor Strnad)",
+      "url": "https://open.spotify.com/track/5mavoeczZoK9jeHFVWTkv6"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1719,6 +1703,22 @@
       "duration_ms": 285366,
       "name": "The Failsafe Fallacy",
       "url": "https://open.spotify.com/track/7i0yLsdCMj0GbkqlpVKAhS"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/1yQX87mmZgUC1CH8R7EbLr"
+      },
+      "artists": [
+        {
+          "name": "Within Destruction",
+          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
+        }
+      ],
+      "duration_ms": 199741,
+      "name": "Survival",
+      "url": "https://open.spotify.com/track/5cV5z3OWpzyvLmpZQiJhuA"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1787,18 +1787,22 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "A Hill to Die Upon",
-        "url": "https://open.spotify.com/album/79VMfL0k3LZFy95k6xTM5m"
+        "name": "I Hope We Make It Out of This Alive",
+        "url": "https://open.spotify.com/album/46V8n8Ws2mYTRFqVXc7IMx"
       },
       "artists": [
         {
-          "name": "Mental Cruelty",
-          "url": "https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9"
+          "name": "Sold Soul",
+          "url": "https://open.spotify.com/artist/2X2KBI2OrNMci6TDQAXCA6"
+        },
+        {
+          "name": "Brittney Slayes",
+          "url": "https://open.spotify.com/artist/47gDQfHce3BxdKGzAbI9v0"
         }
       ],
-      "duration_ms": 229000,
-      "name": "King Ov Fire",
-      "url": "https://open.spotify.com/track/79Tk6FAVdwYretxYFbT9wk"
+      "duration_ms": 384285,
+      "name": "For Whom the Banshee Cries",
+      "url": "https://open.spotify.com/track/2wwbK9hDUHFaZO13XG5N5n"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1819,22 +1823,18 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "I Hope We Make It Out of This Alive",
-        "url": "https://open.spotify.com/album/46V8n8Ws2mYTRFqVXc7IMx"
+        "name": "A Hill to Die Upon",
+        "url": "https://open.spotify.com/album/79VMfL0k3LZFy95k6xTM5m"
       },
       "artists": [
         {
-          "name": "Sold Soul",
-          "url": "https://open.spotify.com/artist/2X2KBI2OrNMci6TDQAXCA6"
-        },
-        {
-          "name": "Brittney Slayes",
-          "url": "https://open.spotify.com/artist/47gDQfHce3BxdKGzAbI9v0"
+          "name": "Mental Cruelty",
+          "url": "https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9"
         }
       ],
-      "duration_ms": 384285,
-      "name": "For Whom the Banshee Cries",
-      "url": "https://open.spotify.com/track/2wwbK9hDUHFaZO13XG5N5n"
+      "duration_ms": 229000,
+      "name": "King Ov Fire",
+      "url": "https://open.spotify.com/track/79Tk6FAVdwYretxYFbT9wk"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Paranoid Skizoid",
-        "url": "https://open.spotify.com/album/3HX4nigXg6PaUMBhDgAFXO"
-      },
-      "artists": [
-        {
-          "name": "DeadSquad",
-          "url": "https://open.spotify.com/artist/2By8ec9DQOnN2aiiFyrQ82"
-        }
-      ],
-      "duration_ms": 182084,
-      "name": "Paranoid Skizoid",
-      "url": "https://open.spotify.com/track/15KxR0KLfryV2yNKU8WFf3"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Days Before the World Wept",
         "url": "https://open.spotify.com/album/29uEQ1RoGjYPBXrZCUb6Ms"
       },
@@ -2055,6 +2039,22 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
+        "name": "Paranoid Skizoid",
+        "url": "https://open.spotify.com/album/3HX4nigXg6PaUMBhDgAFXO"
+      },
+      "artists": [
+        {
+          "name": "DeadSquad",
+          "url": "https://open.spotify.com/artist/2By8ec9DQOnN2aiiFyrQ82"
+        }
+      ],
+      "duration_ms": 182084,
+      "name": "Paranoid Skizoid",
+      "url": "https://open.spotify.com/track/15KxR0KLfryV2yNKU8WFf3"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
         "name": "Death Whistle",
         "url": "https://open.spotify.com/album/71IhKehJidjr8Phqa4R3U8"
       },
@@ -2087,18 +2087,18 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "How To Live And How To Lose",
-        "url": "https://open.spotify.com/album/6o1IwCI1UMuDeWAF3MgIMp"
+        "name": "In the Night",
+        "url": "https://open.spotify.com/album/5Afz9UTx4crqKUBsAdy4B7"
       },
       "artists": [
         {
-          "name": "Octopus Montage",
-          "url": "https://open.spotify.com/artist/1fTRB21pCaxDms0xwplYiG"
+          "name": "Phinehas",
+          "url": "https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0"
         }
       ],
-      "duration_ms": 255400,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/6521S3JGbGzH7c12smJjEw"
+      "duration_ms": 283741,
+      "name": "In the Night",
+      "url": "https://open.spotify.com/track/4VxKFbwSOqYYU93ndl1Ap7"
     }
   ],
   "unique_name": "Deathcore",

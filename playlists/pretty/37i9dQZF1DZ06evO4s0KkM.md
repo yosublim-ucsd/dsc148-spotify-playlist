@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,667 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,698 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 49 | [Do Or Die](https://open.spotify.com/track/4zuEua2fQF5q6ev0oWt5XW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 1:50 |
 | 50 | [I Wish You Were Here](https://open.spotify.com/track/078MAirupKl43OeGplw8aW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 4:21 |
 
-Snapshot ID: `MjgwNDA0NDAsMDAwMDAwMDBlYTY5MjhhMjM2ODFjNjE4MWJmZDZiNmJlMGJmNTFmYw==`
+Snapshot ID: `MjgwNDE5MzAsMDAwMDAwMDBkMGQ0ZWMzMDliN2FhNGM5MDAwMWRkNDI0YmYzMmY0Nw==`

@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Chicocurlyhead\n",
-  "num_followers": 106363,
+  "num_followers": 106413,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ4NDk1NiwwMDAwMDAwMGQ3N2JmZTFjYmFlMjA5ODU5NTFkYjNmNjY1YjkzNGIw",
+  "snapshot_id": "MTY3ODQ4NDk1NiwwMDAwMDAwMGMwN2MzYjIzN2E4MzA0YjgxYTNjZGU1MGY3YTZmN2Ji",
   "tracks": [
     {
       "added_at": "2023-03-10 21:49:16",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Ni\u00f1o Eterno",
-        "url": "https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 161617,
-      "name": "Nin\u0303o Eterno",
-      "url": "https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
         "name": "Amor En Espa\u00f1ol",
         "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 187440,
       "name": "Monte Carlo",
       "url": "https://open.spotify.com/track/0vV9YneKNzEEsAxQBFfOzp"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
+        "name": "Ni\u00f1o Eterno",
+        "url": "https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 161617,
+      "name": "Nin\u0303o Eterno",
+      "url": "https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ"
-      },
-      "artists": [
-        {
-          "name": "Destiny Rogers",
-          "url": "https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu"
-        }
-      ],
-      "duration_ms": 151304,
-      "name": "Summer Nights",
-      "url": "https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
         "name": "B-Day",
         "url": "https://open.spotify.com/album/1hja3Ifsxu0GMwLB5nR5e2"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 248000,
       "name": "B-Day",
       "url": "https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ"
+      },
+      "artists": [
+        {
+          "name": "Destiny Rogers",
+          "url": "https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu"
+        }
+      ],
+      "duration_ms": 151304,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Thirteen",
-        "url": "https://open.spotify.com/album/6uB35Vnb3ntHG3r7SaOpTQ"
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/3Vy5AXz67VBxwrnrZmXztx"
       },
       "artists": [
         {
-          "name": "NEZZA",
-          "url": "https://open.spotify.com/artist/0cRKBhWUTEtR1vmA06kVKz"
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
         }
       ],
-      "duration_ms": 213733,
-      "name": "Thirteen",
-      "url": "https://open.spotify.com/track/3CeerksBP1R34v6L79rPvC"
+      "duration_ms": 202986,
+      "name": "Todo",
+      "url": "https://open.spotify.com/track/5rl1NVOQZBWMqhyTiOUHrJ"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/3Vy5AXz67VBxwrnrZmXztx"
+        "name": "Thirteen",
+        "url": "https://open.spotify.com/album/6uB35Vnb3ntHG3r7SaOpTQ"
       },
       "artists": [
         {
-          "name": "YOSHI",
-          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+          "name": "NEZZA",
+          "url": "https://open.spotify.com/artist/0cRKBhWUTEtR1vmA06kVKz"
         }
       ],
-      "duration_ms": 202986,
-      "name": "Todo",
-      "url": "https://open.spotify.com/track/5rl1NVOQZBWMqhyTiOUHrJ"
+      "duration_ms": 213733,
+      "name": "Thirteen",
+      "url": "https://open.spotify.com/track/3CeerksBP1R34v6L79rPvC"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
+        "name": "La Patrona",
+        "url": "https://open.spotify.com/album/7GTks3uBI8W9D2EeFYp9V1"
+      },
+      "artists": [
+        {
+          "name": "Aleesha",
+          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
+        }
+      ],
+      "duration_ms": 211688,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/23GhLjcJ26QGrn7g4saZ4k"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
         "name": "VAIV\u00c9N",
         "url": "https://open.spotify.com/album/5LLhc1nhCRLQ6EDdxNc0u8"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 218823,
       "name": "VAIV\u00c9N",
       "url": "https://open.spotify.com/track/7lU2NQ7kjK3TiNepbf2upU"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
-        "name": "La Patrona",
-        "url": "https://open.spotify.com/album/7GTks3uBI8W9D2EeFYp9V1"
-      },
-      "artists": [
-        {
-          "name": "Aleesha",
-          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
-        }
-      ],
-      "duration_ms": 211688,
-      "name": "MIA",
-      "url": "https://open.spotify.com/track/23GhLjcJ26QGrn7g4saZ4k"
     },
     {
       "added_at": "2023-03-10 21:49:16",

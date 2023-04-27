@@ -2390,7 +2390,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 171397,
       "name": "Entrar a la luna",
       "url": "https://open.spotify.com/track/1DJCk36SjR5rGighWlHjjX"
@@ -3657,7 +3657,7 @@
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 183749,
+      "duration_ms": 183734,
       "name": "Libre y en Movimiento",
       "url": "https://open.spotify.com/track/36wsAx4PhbhVOCay8RLADO"
     },
@@ -7046,6 +7046,32 @@
       "duration_ms": 166048,
       "name": "Visiones Doradas",
       "url": "https://open.spotify.com/track/3K2EEF60dB0dGNlKXXxljH"
+    },
+    {
+      "album": {
+        "name": "Pilares",
+        "url": "https://open.spotify.com/album/2DgMUQX65M1iCN3dSW4R0e"
+      },
+      "artists": [
+        {
+          "name": "Chiki Lora",
+          "url": "https://open.spotify.com/artist/6grE6CSOumB8bUQNh1RPtY"
+        },
+        {
+          "name": "Canteca de macao",
+          "url": "https://open.spotify.com/artist/66xBjuCrzVfhXXvmLxF2UL"
+        },
+        {
+          "name": "Miryam Latrece",
+          "url": "https://open.spotify.com/artist/3QcEeHjRSvL4aQBDaTDKi7"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195240,
+      "name": "Volar\u00e9",
+      "url": "https://open.spotify.com/track/0i63K6PMAQOw60aJRPV7lm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 
 > The most known Afro\-pop classics, all in one place! Cover: <a href="spotify:artist:18RkLKfeoUgZflWv9os25W">Miriam Makeba</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,213 likes - 40 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,286 likes - 40 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,17 +23,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 | 13 | [Neria](https://open.spotify.com/track/0s86dWzV4r5pVNMvNUCIQ2) | [Oliver Mtukudzi](https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Neria](https://open.spotify.com/album/0pbYHRv67RyrOyeh31TDtn) | 5:57 |
 | 14 | [Agolo](https://open.spotify.com/track/0epThWIIEZZBBwDaHoMBBz) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Aye](https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza) | 4:49 |
 | 15 | [Special Star](https://open.spotify.com/track/5mxIhvGxDJ56wxOQnDNHnt) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/0wv0MS5ETAzzzZdcsIBPBl) | 5:53 |
-| 16 | [Shibobo / The Final Countdown](https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:51 |
-| 17 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF) | 3:30 |
+| 16 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF) | 3:30 |
+| 17 | [Shibobo / The Final Countdown](https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:51 |
 | 18 | [Thathi Sgubu](https://open.spotify.com/track/6ue7mX2VMfHzMXYzjXDGiP) | [Bongo Maffin](https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ) | [Kalawa Jazmee Classics: Bongo Maffin](https://open.spotify.com/album/6OT33ayLWEbU1Gl6woOV7c) | 5:20 |
 | 19 | [It's About Time](https://open.spotify.com/track/4LG9ZVvPKP4jjaDOsH6ePO) | [Boom Shaka](https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL) | [Boom Shaka](https://open.spotify.com/album/6CjjtWnXWUzMif0RqEv3k8) | 5:39 |
 | 20 | [Vuli Ndlela](https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Memeza](https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ) | 4:25 |
 | 21 | [Theresa](https://open.spotify.com/track/4dqtM8dvFvK7GWE1bjDYI4) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Obi Ate Meso Buo](https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7) | 5:39 |
 | 22 | [Ingoma](https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ibokwe](https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM) | 6:12 |
-| 23 | [Dlala Mapantsula](https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:32 |
-| 24 | [Joromi](https://open.spotify.com/track/5P79h7NLD3zIpkomzFaMWy) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU) | [Big Sound](https://open.spotify.com/album/7Kb9xyU8IIbyTBk4hwXvYV) | 3:07 |
-| 25 | [Akula Owu Onyeara](https://open.spotify.com/track/0X7mNbVv1YYJ8SrAk4AsiT) | [The Funkees](https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J) | [Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973\-77](https://open.spotify.com/album/7bmfQqqmSOdIzdIW3Ye8F3) | 7:28 |
-| 26 | [In Your Eyes \- Live](https://open.spotify.com/track/4eaCU2oPnksTeuwsQmFr12) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/1vJ8rCzq6BJtKGz9Yf6oT3) | 10:38 |
+| 23 | [Joromi](https://open.spotify.com/track/5P79h7NLD3zIpkomzFaMWy) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU) | [Big Sound](https://open.spotify.com/album/7Kb9xyU8IIbyTBk4hwXvYV) | 3:07 |
+| 24 | [Akula Owu Onyeara](https://open.spotify.com/track/0X7mNbVv1YYJ8SrAk4AsiT) | [The Funkees](https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J) | [Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973\-77](https://open.spotify.com/album/7bmfQqqmSOdIzdIW3Ye8F3) | 7:28 |
+| 25 | [In Your Eyes \- Live](https://open.spotify.com/track/4eaCU2oPnksTeuwsQmFr12) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/1vJ8rCzq6BJtKGz9Yf6oT3) | 10:38 |
+| 26 | [Dlala Mapantsula](https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:32 |
 | 27 | [Orere\-Elejigbo](https://open.spotify.com/track/7Mi1P2r04F6iyOzrB3IOlR) | [Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimted](https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY) | 4:16 |
 | 28 | [Heaven](https://open.spotify.com/track/2GNzKVnqNE1E6VcHn9QjH7) | [Ebo Taylor](https://open.spotify.com/artist/1yDtHakLGMYiERfsHbXiv7) | [Afro Tropical Soundz, Vol\. 1](https://open.spotify.com/album/65bFwgGVr8WOlERe4kt5Gz) | 6:05 |
 | 29 | [Kita Kita](https://open.spotify.com/track/0sDc20D04QVMR1V3uF3RnQ) | [Gasper Lawal](https://open.spotify.com/artist/7jAPM35I7dAYPdKIfTUzwM) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 6:00 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 | 35 | [I Like Your Style](https://open.spotify.com/track/7b0bir8Z4KyyBwQfBIjmYY) | [Tony Wilson](https://open.spotify.com/artist/3nwZKsmOiJjn7x0fS3L5ZR) | [I Like Your Style](https://open.spotify.com/album/3N9BeN0UCTwyHADo59PI0g) | 3:05 |
 | 36 | [Scatterlings Of Africa](https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn) | [Savuka](https://open.spotify.com/artist/3UDSQSzFctmDSlmY75BWV7), [Johnny Clegg](https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O) | [Rain Man: Original Motion Picture Soundtrack](https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi) | 4:05 |
 | 37 | [Living Music](https://open.spotify.com/track/2e8OoF7KghSpQ1MdsX7sJd) | [Onyeka Onwenu](https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 6:04 |
-| 38 | [Alo Mi Alo \(Parts 1 & 2\)](https://open.spotify.com/track/4ZAjQaFzbW5IbJJsjfCJJ4) | [Orlando Julius](https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L), [The Afro Sounders](https://open.spotify.com/artist/6NJCN6KXFzP8YlfX4mFDx8) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 8:03 |
-| 39 | [Ja Funmi](https://open.spotify.com/track/7LLyEy0GVYBpziR5O06ZZv) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Juju Music](https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs) | 7:08 |
+| 38 | [Ja Funmi](https://open.spotify.com/track/7LLyEy0GVYBpziR5O06ZZv) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Juju Music](https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs) | 7:08 |
+| 39 | [Alo Mi Alo \(Parts 1 & 2\)](https://open.spotify.com/track/4ZAjQaFzbW5IbJJsjfCJJ4) | [Orlando Julius](https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L), [The Afro Sounders](https://open.spotify.com/artist/6NJCN6KXFzP8YlfX4mFDx8) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 8:03 |
 | 40 | [Weekend Special \(with Brenda Fassie\) \- USA Remix](https://open.spotify.com/track/3Uy4yCyO4Yfc9JfifokpJG) | [Brenda & The Big Dudes](https://open.spotify.com/artist/3PGhsvfwxsjXsQw2swnopZ) | [Weekend Special \(USA Remixes\)](https://open.spotify.com/album/5npwhnt8Jnv7KQgHqR6OJv) | 4:48 |
 
-Snapshot ID: `MTU4NjI1MTE2MCwwMDAwMDAwMDVlYTQ0ODk2ZjMzOGE2MjYxNDZlYjI3ZTg1YTU1Zjdj`
+Snapshot ID: `MTU4NjI1MTE2MCwwMDAwMDAwMGViOThjMDFjMmU0OTdlYjhhNWI1NmQ1NGMzNmYzZDhh`

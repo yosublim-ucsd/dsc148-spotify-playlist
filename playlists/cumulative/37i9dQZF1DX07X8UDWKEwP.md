@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Fonseca & Juan Luis Guerra
 
-248 songs - 14 hr 56 min
+249 songs - 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [El Merengue](https://open.spotify.com/track/6lpGP2JvV7grJ8LBZ5obQS) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 3:09 | 2023-03-24 |  |
 | [Empanterado](https://open.spotify.com/track/3WJcglgyyovIHwV2iy7TcQ) | [El Chevo](https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4) | [Empanterado](https://open.spotify.com/album/7cLjUB3j1TPzClNXVlHjEI) | 6:44 | 2022-07-19 | 2023-01-14 |
 | [En la Mia \(Remix\)](https://open.spotify.com/track/7hcKHEkfNuru9xvzeoSJoP) | [Yamil](https://open.spotify.com/artist/6OYqTSrG3PF4kR552cXqGk), [El Amolao](https://open.spotify.com/artist/39kGrfO5bLCQ348SpNgJXR), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf) | [En la Mia \(Remix\)](https://open.spotify.com/album/6ZdYn07TnjiipyYA8iblyu) | 3:38 | 2023-04-07 | 2023-04-15 |
-| [Encaprichao](https://open.spotify.com/track/1d2UAejVm1DMf78pfick1d) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Encaprichao](https://open.spotify.com/album/0kfRkigR4yiYk7dKVBVfCz) | 2:09 | 2023-01-20 |  |
+| [Encaprichao](https://open.spotify.com/track/1d2UAejVm1DMf78pfick1d) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Encaprichao](https://open.spotify.com/album/0kfRkigR4yiYk7dKVBVfCz) | 2:09 | 2023-01-20 | 2023-04-27 |
 | [Entre Tu Cuerpo y El Mío](https://open.spotify.com/track/1B4d6OYKzXWtBjysNQclfz) | [Ryan Milo](https://open.spotify.com/artist/76X8Z4o3DI4rr5GCmzg9ap), [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Entre Tu Cuerpo y El Mío](https://open.spotify.com/album/3W2UFR03gjYhAljpYcgPak) | 3:23 | 2022-01-01 | 2022-01-29 |
 | [Envenenao](https://open.spotify.com/track/0mRasKLNRK934lWvxf5dss) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Envenenao](https://open.spotify.com/album/3UDLALZNLL9a0aMk1SvXeP) | 3:23 | 2022-09-09 | 2023-04-22 |
 | [Eres Pasado](https://open.spotify.com/track/2jcOOMWz2XdcDndQX14sWs) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA), [El Sheke](https://open.spotify.com/artist/7kqzYL4VRj0qGXUtAt655a) | [Eres Pasado](https://open.spotify.com/album/4qbWO8FKazhiu5hzOxMA4r) | 3:10 | 2022-04-29 | 2022-06-30 |
@@ -121,6 +121,7 @@
 | [Llegaste](https://open.spotify.com/track/5jU9Tj9Mlrwjr2SW5gElJz) | [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA), [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Llegaste](https://open.spotify.com/album/3KYHHZZqz8SEjCVbeUE8xO) | 3:21 | 2023-03-24 |  |
 | [Lo Veo y No Lo Creo](https://open.spotify.com/track/1bTpL2sNbYVlNuxXIFI9jk) | [Willy Garcia](https://open.spotify.com/artist/1VNniaVBiVVqSwjUEcNJfd), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [El Día Es Hoy](https://open.spotify.com/album/2Pnmt5sGCcrDUJmKqVx7Rb) | 3:20 | 2022-01-01 | 2022-01-29 |
 | [Los Celos Se Te Notan](https://open.spotify.com/track/66YC8rcYpImTugAA2m2yUb) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Los Celos Se Te Notan](https://open.spotify.com/album/2zg7DDi8vJ2gYy4wq2n1TG) | 3:10 | 2023-01-20 | 2023-03-22 |
+| [Lotería](https://open.spotify.com/track/0R5yCZ5xBbZV0nyPO9qM9d) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Lotería](https://open.spotify.com/album/7qjUgwcrdAbhAjF5gYAyn4) | 4:10 | 2023-04-21 |  |
 | [Luna](https://open.spotify.com/track/5Pdw0kGwWndeTsbOfVrv3r) | [Bella Dose](https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9), [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Suelta](https://open.spotify.com/album/0a75xzDuN6WBePejRqxLTZ) | 3:24 | 2022-01-01 | 2022-01-29 |
 | [LUNA](https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [LUNA](https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD) | 3:45 | 2023-03-10 |  |
 | [Luna De Queso](https://open.spotify.com/track/6RZfZgF9YdezFWLWxs4j6I) | [MOLY](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Wise "the Gold Pen"](https://open.spotify.com/artist/11IcDecUvnKOttYzE3d0Z1), [The Chosen](https://open.spotify.com/artist/4zaS9mItqCC5OQpML2VDu2) | [Luna De Queso](https://open.spotify.com/album/4iPuhUiSBuFHn2rKqn5jKx) | 3:34 | 2022-01-01 | 2022-06-30 |

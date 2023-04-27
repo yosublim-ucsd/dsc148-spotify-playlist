@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 
 > This is Wizkid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,726 likes - 49 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,789 likes - 49 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 45 | [Boom \(feat\. MOTi, Ty Dolla $ign, Wizkid & Kranium\)](https://open.spotify.com/track/6kBXZ8j8IuJeRjb6kV6fol) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Peace Is The Mission : Extended](https://open.spotify.com/album/2U0b5MfkMUgzdvRUI69mya) | 3:06 |
 | 46 | [This Kind Luv](https://open.spotify.com/track/2UrxkIScshPyPlgRpy57Fm) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [God Over Everything](https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R) | 3:49 |
 | 47 | [Final \(Baba Nla\)](https://open.spotify.com/track/5bPpNuK3qgt1UbI18QEUYx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Final \(Baba Nla\) \- Single](https://open.spotify.com/album/3PhMIu5CI6S79XdmXzou4t) | 2:40 |
-| 48 | [Sponono](https://open.spotify.com/track/5T6wd1ScvJGSz17zMCugW0) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd) | [I Am The King Of Amapiano: Sweet & Dust](https://open.spotify.com/album/5YiIm4cWzk8dDshWB179mE) | 6:35 |
-| 49 | [Only You \(feat\. WizKid, Offset & J Balvin\)](https://open.spotify.com/track/3XFwOQU8wxXWl8Rxj3lrOi) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:38 |
+| 48 | [Only You \(feat\. WizKid, Offset & J Balvin\)](https://open.spotify.com/track/3XFwOQU8wxXWl8Rxj3lrOi) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:38 |
+| 49 | [Sponono](https://open.spotify.com/track/5T6wd1ScvJGSz17zMCugW0) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd) | [I Am The King Of Amapiano: Sweet & Dust](https://open.spotify.com/album/5YiIm4cWzk8dDshWB179mE) | 6:35 |
 
-Snapshot ID: `MjgwNDA0NDAsMDAwMDAwMDBmM2JmNjc4YTgzMGViZTRmZTcwOTRjYmEyMDI0YmExYw==`
+Snapshot ID: `MjgwNDE5MjksMDAwMDAwMDA4MWQ2MmQzNDk5N2UxYjMyNTI2ZDM5YTBjNjI0ZDEwMw==`

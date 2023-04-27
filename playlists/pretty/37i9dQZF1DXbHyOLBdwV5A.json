@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar. Foto: Kennto, YoungJhow, JoyFull",
-  "num_followers": 99859,
+  "num_followers": 99920,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTU4MzM1NiwwMDAwMDAwMGM5NWIzZDIwM2VkZGNiNjFjMTFlNmU5Yzg2NjNhOTc0",
+  "snapshot_id": "MTY4MTU4MzM1NiwwMDAwMDAwMDY4ZTBkNGM1OTNmYTkwZDZkNzA5MGNiM2M2NTU4ZjJi",
   "tracks": [
     {
       "added_at": "2023-04-15 18:29:16",
@@ -543,6 +543,26 @@
     {
       "added_at": "2023-04-15 18:29:16",
       "album": {
+        "name": "Loucura (Remix)",
+        "url": "https://open.spotify.com/album/34WzBc5yCs0NtU7av4Dvk3"
+      },
+      "artists": [
+        {
+          "name": "DJ Alan Nunes",
+          "url": "https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo"
+        },
+        {
+          "name": "Yuri Costa",
+          "url": "https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ"
+        }
+      ],
+      "duration_ms": 225519,
+      "name": "Loucura - Remix",
+      "url": "https://open.spotify.com/track/5sKGNRsEx3ojXbVrEB09dN"
+    },
+    {
+      "added_at": "2023-04-15 18:29:16",
+      "album": {
         "name": "Like Water",
         "url": "https://open.spotify.com/album/1DMZYsA8AHrJuBJRIQF4ih"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 161219,
       "name": "Like Water",
       "url": "https://open.spotify.com/track/6LUfGFrjUQSu0hrEKZvQRf"
-    },
-    {
-      "added_at": "2023-04-15 18:29:16",
-      "album": {
-        "name": "Loucura (Remix)",
-        "url": "https://open.spotify.com/album/34WzBc5yCs0NtU7av4Dvk3"
-      },
-      "artists": [
-        {
-          "name": "DJ Alan Nunes",
-          "url": "https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo"
-        },
-        {
-          "name": "Yuri Costa",
-          "url": "https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ"
-        }
-      ],
-      "duration_ms": 225519,
-      "name": "Loucura - Remix",
-      "url": "https://open.spotify.com/track/5sKGNRsEx3ojXbVrEB09dN"
     },
     {
       "added_at": "2023-04-15 18:29:16",
@@ -723,6 +723,26 @@
     {
       "added_at": "2023-04-15 18:29:16",
       "album": {
+        "name": "Viagem",
+        "url": "https://open.spotify.com/album/0dDGfAgcwH8Qiii7Hhro4L"
+      },
+      "artists": [
+        {
+          "name": "Dj Del Mag",
+          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
+        },
+        {
+          "name": "L\u00e9o Batista",
+          "url": "https://open.spotify.com/artist/3r8TROv0FXpp9ei6vepm1m"
+        }
+      ],
+      "duration_ms": 189268,
+      "name": "Viagem",
+      "url": "https://open.spotify.com/track/4mGBoJ2tqbOcSF3XzDw0lr"
+    },
+    {
+      "added_at": "2023-04-15 18:29:16",
+      "album": {
         "name": "N\u00e3o Sou Merecedor",
         "url": "https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 147840,
       "name": "N\u00e3o Sou Merecedor",
       "url": "https://open.spotify.com/track/5GLTe6ncigoJa27GvOzV4F"
-    },
-    {
-      "added_at": "2023-04-15 18:29:16",
-      "album": {
-        "name": "Viagem",
-        "url": "https://open.spotify.com/album/0dDGfAgcwH8Qiii7Hhro4L"
-      },
-      "artists": [
-        {
-          "name": "Dj Del Mag",
-          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
-        },
-        {
-          "name": "L\u00e9o Batista",
-          "url": "https://open.spotify.com/artist/3r8TROv0FXpp9ei6vepm1m"
-        }
-      ],
-      "duration_ms": 189268,
-      "name": "Viagem",
-      "url": "https://open.spotify.com/track/4mGBoJ2tqbOcSF3XzDw0lr"
     },
     {
       "added_at": "2023-04-15 18:29:16",
@@ -1031,26 +1031,22 @@
     {
       "added_at": "2023-04-15 18:29:16",
       "album": {
-        "name": "Tropa de Jesus Eletro",
-        "url": "https://open.spotify.com/album/0ahzYa0d2h5snCgZ5UIpAf"
+        "name": "O Le\u00e3o (Dj Del Mag Remix)",
+        "url": "https://open.spotify.com/album/76oy0F6n4KZ2pzhcKs8oyp"
       },
       "artists": [
         {
-          "name": "MC Jamil",
-          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+          "name": "Dj Del Mag",
+          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
         },
         {
-          "name": "Igor Dj",
-          "url": "https://open.spotify.com/artist/5X7UJPMUcLHr9bdcnnRxSw"
-        },
-        {
-          "name": "Junior Souto",
-          "url": "https://open.spotify.com/artist/0NQgbieTc1NAJnrc2ZH6F2"
+          "name": "Victor Rodrigues",
+          "url": "https://open.spotify.com/artist/7dvzwrXo4iBUJAlZ3TBcXQ"
         }
       ],
-      "duration_ms": 165418,
-      "name": "Tropa de Jesus Eletro",
-      "url": "https://open.spotify.com/track/46lNXSFqlJWN4kS3s79Vdw"
+      "duration_ms": 211200,
+      "name": "O Le\u00e3o - Dj Del Mag Remix",
+      "url": "https://open.spotify.com/track/5pkIdWURz7CU2UwW4CBpun"
     },
     {
       "added_at": "2023-04-15 18:29:16",
@@ -1079,22 +1075,26 @@
     {
       "added_at": "2023-04-15 18:29:16",
       "album": {
-        "name": "O Le\u00e3o (Dj Del Mag Remix)",
-        "url": "https://open.spotify.com/album/76oy0F6n4KZ2pzhcKs8oyp"
+        "name": "Tropa de Jesus Eletro",
+        "url": "https://open.spotify.com/album/0ahzYa0d2h5snCgZ5UIpAf"
       },
       "artists": [
         {
-          "name": "Dj Del Mag",
-          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
         },
         {
-          "name": "Victor Rodrigues",
-          "url": "https://open.spotify.com/artist/7dvzwrXo4iBUJAlZ3TBcXQ"
+          "name": "Igor Dj",
+          "url": "https://open.spotify.com/artist/5X7UJPMUcLHr9bdcnnRxSw"
+        },
+        {
+          "name": "Junior Souto",
+          "url": "https://open.spotify.com/artist/0NQgbieTc1NAJnrc2ZH6F2"
         }
       ],
-      "duration_ms": 211200,
-      "name": "O Le\u00e3o - Dj Del Mag Remix",
-      "url": "https://open.spotify.com/track/5pkIdWURz7CU2UwW4CBpun"
+      "duration_ms": 165418,
+      "name": "Tropa de Jesus Eletro",
+      "url": "https://open.spotify.com/track/46lNXSFqlJWN4kS3s79Vdw"
     },
     {
       "added_at": "2023-04-15 18:29:16",
@@ -1531,30 +1531,6 @@
     {
       "added_at": "2023-04-15 18:29:16",
       "album": {
-        "name": "Dire\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1zIQAyYF6GXKQnrCYy1U25"
-      },
-      "artists": [
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        },
-        {
-          "name": "Patrick Felix",
-          "url": "https://open.spotify.com/artist/0eCHrizrfyIEVK6wiyUYWf"
-        },
-        {
-          "name": "BR7",
-          "url": "https://open.spotify.com/artist/1p80BrxoS9dat7F4S6UlWv"
-        }
-      ],
-      "duration_ms": 152857,
-      "name": "Dire\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/18iieT0WuYbFskBwZ3FLyx"
-    },
-    {
-      "added_at": "2023-04-15 18:29:16",
-      "album": {
         "name": "Mi Rey",
         "url": "https://open.spotify.com/album/0BdNaQV0f2LnPh6J6mHSmP"
       },
@@ -1575,6 +1551,30 @@
       "duration_ms": 131250,
       "name": "Mi Rey",
       "url": "https://open.spotify.com/track/32a3S0w8oGXX2aZS0NF9fI"
+    },
+    {
+      "added_at": "2023-04-15 18:29:16",
+      "album": {
+        "name": "Dire\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1zIQAyYF6GXKQnrCYy1U25"
+      },
+      "artists": [
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "Patrick Felix",
+          "url": "https://open.spotify.com/artist/0eCHrizrfyIEVK6wiyUYWf"
+        },
+        {
+          "name": "BR7",
+          "url": "https://open.spotify.com/artist/1p80BrxoS9dat7F4S6UlWv"
+        }
+      ],
+      "duration_ms": 152857,
+      "name": "Dire\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/18iieT0WuYbFskBwZ3FLyx"
     },
     {
       "added_at": "2023-04-15 18:29:16",

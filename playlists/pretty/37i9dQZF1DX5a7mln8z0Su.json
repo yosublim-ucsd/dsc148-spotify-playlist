@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 5662,
+  "num_followers": 5675,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTU5NywwMDAwMDAwMDI1MDM4OWVkODBmZjM3ZWQxYzE4NTYxMmRhODcyNDli",
+  "snapshot_id": "MTY3OTkwNTU5NywwMDAwMDAwMDE0Y2Y0NDAxMjRmMzQxM2EyODE0NmUwOTM1YzJiMDZi",
   "tracks": [
     {
       "added_at": "2023-03-27 08:26:37",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
-        "name": "babyblue",
-        "url": "https://open.spotify.com/album/76GB3RzVtNrBANCl9Cici4"
-      },
-      "artists": [
-        {
-          "name": "Grass",
-          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
-        }
-      ],
-      "duration_ms": 228120,
-      "name": "babyblue",
-      "url": "https://open.spotify.com/track/0n4dgPfvfdqrt2LwDytMrD"
-    },
-    {
-      "added_at": "2023-03-27 08:26:37",
-      "album": {
         "name": "Take Me",
         "url": "https://open.spotify.com/album/4ieiyt4oVsEZGBY430vwaz"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 225320,
       "name": "Take Me (with 11Kitties)",
       "url": "https://open.spotify.com/track/00qHTh5I15qb1IToZI6PoZ"
+    },
+    {
+      "added_at": "2023-03-27 08:26:37",
+      "album": {
+        "name": "babyblue",
+        "url": "https://open.spotify.com/album/76GB3RzVtNrBANCl9Cici4"
+      },
+      "artists": [
+        {
+          "name": "Grass",
+          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
+        }
+      ],
+      "duration_ms": 228120,
+      "name": "babyblue",
+      "url": "https://open.spotify.com/track/0n4dgPfvfdqrt2LwDytMrD"
     },
     {
       "added_at": "2023-03-27 08:26:37",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
-        "name": "Kangaroo",
-        "url": "https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 225903,
-      "name": "Kangaroo",
-      "url": "https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo"
-    },
-    {
-      "added_at": "2023-03-27 08:26:37",
-      "album": {
         "name": "Je N\u2032aime Que Toi",
         "url": "https://open.spotify.com/album/7uVRKea8NWn4gkMSEyQjcX"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 196666,
       "name": "Je N\u2032aime Que Toi",
       "url": "https://open.spotify.com/track/5ziZpT9la4h3sjfvitLc1A"
+    },
+    {
+      "added_at": "2023-03-27 08:26:37",
+      "album": {
+        "name": "Kangaroo",
+        "url": "https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 225903,
+      "name": "Kangaroo",
+      "url": "https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo"
     },
     {
       "added_at": "2023-03-27 08:26:37",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
-        "name": "Like A Film : 4 Songs",
-        "url": "https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Smile, Wait For The Flash",
-      "url": "https://open.spotify.com/track/6G9XpQhn2iQhH8JHKMscBp"
-    },
-    {
-      "added_at": "2023-03-27 08:26:37",
-      "album": {
         "name": "3 STEPS FORWARD, 2 STEPS BACK",
         "url": "https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY"
       },
@@ -871,22 +855,34 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
-        "name": "Hold tight",
-        "url": "https://open.spotify.com/album/2pjhKRc0AbbPEGZL2DzWpQ"
+        "name": "Like A Film : 4 Songs",
+        "url": "https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp"
       },
       "artists": [
         {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        },
-        {
-          "name": "Jaw",
-          "url": "https://open.spotify.com/artist/3G71Qx8OKLTUCaPibXyNbn"
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
         }
       ],
-      "duration_ms": 174975,
-      "name": "Hold tight",
-      "url": "https://open.spotify.com/track/7oCyRPCxIT75x7nmEy3spP"
+      "duration_ms": 226000,
+      "name": "Smile, Wait For The Flash",
+      "url": "https://open.spotify.com/track/6G9XpQhn2iQhH8JHKMscBp"
+    },
+    {
+      "added_at": "2023-03-27 08:26:37",
+      "album": {
+        "name": "I thought it was love.",
+        "url": "https://open.spotify.com/album/6FFH6bITUXYfH1NFnQa4DW"
+      },
+      "artists": [
+        {
+          "name": "Sagong",
+          "url": "https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "I thought it was love.",
+      "url": "https://open.spotify.com/track/37dIoyzhDmVq4Zz1Ps1SgU"
     }
   ],
   "unique_name": "\uad1c\ud788 \uc13c\uce58\ud574",

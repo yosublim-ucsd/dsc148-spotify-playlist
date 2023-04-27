@@ -1,12 +1,12 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 66976,
+  "num_followers": 67010,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjM0MDk2NCwwMDAwMDAwMDFjMGM1N2U0ZTNiYzExMDZjOGNkNGY1ZmRlM2FiMmE5",
+  "snapshot_id": "MTY1NjM0MDk2NCwwMDAwMDAwMGI4NTY5YzFjMzI1NTY1MTBhNTIxMDA1MjQ2NGMyNGVi",
   "tracks": [
     {
       "added_at": "2022-06-27 14:42:44",
@@ -419,30 +419,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: La Traviata",
-        "url": "https://open.spotify.com/album/1KxPFNyCkMLYvggGAshs3X"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Carlo Rizzi",
-          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
-        }
-      ],
-      "duration_ms": 218240,
-      "name": "La traviata / Act III: Prelude",
-      "url": "https://open.spotify.com/track/5xwlLnghuHyBoPl0UOCF4K"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Verdi, G.: Macbeth (Sferisterio Opera Festival, 2007)",
         "url": "https://open.spotify.com/album/2U42HFlQf1tslbRJmweNQ7"
       },
@@ -503,6 +479,30 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
+        "name": "Verdi: La Traviata",
+        "url": "https://open.spotify.com/album/1KxPFNyCkMLYvggGAshs3X"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Carlo Rizzi",
+          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
+        }
+      ],
+      "duration_ms": 218240,
+      "name": "La traviata / Act III: Prelude",
+      "url": "https://open.spotify.com/track/5xwlLnghuHyBoPl0UOCF4K"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
         "name": "Verdi: Overtures, Vol. 2",
         "url": "https://open.spotify.com/album/5wZSvm6Ce8sKWoz1eer93t"
       },
@@ -523,34 +523,6 @@
       "duration_ms": 451000,
       "name": "Nabucco: Overture",
       "url": "https://open.spotify.com/track/59iOUHLoaKgFOfKHHO9fgQ"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Dmitri Hvorostovsky / Portrait",
-        "url": "https://open.spotify.com/album/2jonONCptVLxQrKjga6oRP"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Dmitri Hvorostovsky",
-          "url": "https://open.spotify.com/artist/5P6p90HYfFxo4GTmHJjeNe"
-        },
-        {
-          "name": "Rotterdam Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/79xQdsSFyN4cmMsxtWrvUc"
-        },
-        {
-          "name": "Valery Gergiev",
-          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "La traviata / Act II: Di Provenza il mar, il suol",
-      "url": "https://open.spotify.com/track/1MR7JqbHhQSpEtkftNipfO"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -583,6 +555,34 @@
       "duration_ms": 157680,
       "name": "Otello, Act I: Act I: Fuoco di gioia! (Chorus)",
       "url": "https://open.spotify.com/track/6njnyMvYPW22DslQGDxLh2"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Dmitri Hvorostovsky / Portrait",
+        "url": "https://open.spotify.com/album/2jonONCptVLxQrKjga6oRP"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Dmitri Hvorostovsky",
+          "url": "https://open.spotify.com/artist/5P6p90HYfFxo4GTmHJjeNe"
+        },
+        {
+          "name": "Rotterdam Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/79xQdsSFyN4cmMsxtWrvUc"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "La traviata / Act II: Di Provenza il mar, il suol",
+      "url": "https://open.spotify.com/track/1MR7JqbHhQSpEtkftNipfO"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1171,30 +1171,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Overtures, Vol. 1",
-        "url": "https://open.spotify.com/album/2ArbYKbKugDKfanstRYf75"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Hungarian State Opera Orchestra",
-          "url": "https://open.spotify.com/artist/6rLUj0kWUXAEbz26rtS9wO"
-        },
-        {
-          "name": "Pier Giorgio Morandi",
-          "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
-        }
-      ],
-      "duration_ms": 515426,
-      "name": "I vespri siciliani*: Sinfonia",
-      "url": "https://open.spotify.com/track/6eIyQmLtCxLVzPS8SqfB4Y"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Verdi: Requiem; Quattro pezzi sacri",
         "url": "https://open.spotify.com/album/1XaC3xBAnXxc08TzyrT03t"
       },
@@ -1227,6 +1203,30 @@
       "duration_ms": 322000,
       "name": "4 Pezzi sacri: I. Ave Maria",
       "url": "https://open.spotify.com/track/1dctD6ZTdSnx2bWPYm3MgT"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: Overtures, Vol. 1",
+        "url": "https://open.spotify.com/album/2ArbYKbKugDKfanstRYf75"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Hungarian State Opera Orchestra",
+          "url": "https://open.spotify.com/artist/6rLUj0kWUXAEbz26rtS9wO"
+        },
+        {
+          "name": "Pier Giorgio Morandi",
+          "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
+        }
+      ],
+      "duration_ms": 515426,
+      "name": "I vespri siciliani*: Sinfonia",
+      "url": "https://open.spotify.com/track/6eIyQmLtCxLVzPS8SqfB4Y"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1415,6 +1415,42 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
+        "name": "Verdi: Requiem; Quattro pezzi sacri",
+        "url": "https://open.spotify.com/album/1XaC3xBAnXxc08TzyrT03t"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Cheryl Studer",
+          "url": "https://open.spotify.com/artist/2Owak0BXSN5auAjwTh1N68"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        },
+        {
+          "name": "Vienna State Opera Chorus",
+          "url": "https://open.spotify.com/artist/7dG0oG7NmmndPNaORvzwj9"
+        },
+        {
+          "name": "Norbert Balatsch",
+          "url": "https://open.spotify.com/artist/5Wit3f4MJipmCFDqfdWjc3"
+        }
+      ],
+      "duration_ms": 801000,
+      "name": "4 Pezzi sacri: II. Stabat Mater",
+      "url": "https://open.spotify.com/track/6kN6X8ZetLVbftch3W8pzO"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
         "name": "Verdi, G.: Macbeth (Sferisterio Opera Festival, 2007)",
         "url": "https://open.spotify.com/album/2U42HFlQf1tslbRJmweNQ7"
       },
@@ -1471,42 +1507,6 @@
       "duration_ms": 380693,
       "name": "Macbeth: Act IV: Una macchia e qui tutt'ora (Lady Macbeth, a Doctor, a Lady's Maid)",
       "url": "https://open.spotify.com/track/3bOFcdzhdYvfhd7ueUUZFb"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Verdi: Requiem; Quattro pezzi sacri",
-        "url": "https://open.spotify.com/album/1XaC3xBAnXxc08TzyrT03t"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Cheryl Studer",
-          "url": "https://open.spotify.com/artist/2Owak0BXSN5auAjwTh1N68"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        },
-        {
-          "name": "Vienna State Opera Chorus",
-          "url": "https://open.spotify.com/artist/7dG0oG7NmmndPNaORvzwj9"
-        },
-        {
-          "name": "Norbert Balatsch",
-          "url": "https://open.spotify.com/artist/5Wit3f4MJipmCFDqfdWjc3"
-        }
-      ],
-      "duration_ms": 801000,
-      "name": "4 Pezzi sacri: II. Stabat Mater",
-      "url": "https://open.spotify.com/track/6kN6X8ZetLVbftch3W8pzO"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1727,30 +1727,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: La Traviata",
-        "url": "https://open.spotify.com/album/2SlDrNnAloO1uL0cUOf8bg"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "National Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
-        },
-        {
-          "name": "Richard Bonynge",
-          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
-        }
-      ],
-      "duration_ms": 247120,
-      "name": "La traviata / Act 1: Prelude",
-      "url": "https://open.spotify.com/track/1bZowokgq7BcTe15ofDTVW"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Verdi: Falstaff",
         "url": "https://open.spotify.com/album/4K5lWjsxpWXDc4hJxKq99W"
       },
@@ -1815,6 +1791,30 @@
       "duration_ms": 378466,
       "name": "Falstaff: Act I: Falstaff! Ola!",
       "url": "https://open.spotify.com/track/7zqdo14MviMiezMKJI9fVW"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: La Traviata",
+        "url": "https://open.spotify.com/album/2SlDrNnAloO1uL0cUOf8bg"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "duration_ms": 247120,
+      "name": "La traviata / Act 1: Prelude",
+      "url": "https://open.spotify.com/track/1bZowokgq7BcTe15ofDTVW"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -2099,34 +2099,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Rigoletto",
-        "url": "https://open.spotify.com/album/1sfnSIMuSOo9RFLgorKKfn"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Renato Bruson",
-          "url": "https://open.spotify.com/artist/73uO0irhYkEsOdWjBmAl3f"
-        },
-        {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
-        },
-        {
-          "name": "Giuseppe Sinopoli",
-          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
-        }
-      ],
-      "duration_ms": 258026,
-      "name": "Rigoletto / Act 1: \"Pari siamo\"",
-      "url": "https://open.spotify.com/track/5eAVcGYlibIkZX3IJCu4D1"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Verdi: La Forza del Destino",
         "url": "https://open.spotify.com/album/3ddkw3PcnF2yZDDeapxBsH"
       },
@@ -2151,6 +2123,34 @@
       "duration_ms": 239333,
       "name": "La forza del destino - Original St.Petersburg version - Act 1: \"Me pellegrina ed orfana\"",
       "url": "https://open.spotify.com/track/52vPPhEi0c9xQJUCZdzNRf"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: Rigoletto",
+        "url": "https://open.spotify.com/album/1sfnSIMuSOo9RFLgorKKfn"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Renato Bruson",
+          "url": "https://open.spotify.com/artist/73uO0irhYkEsOdWjBmAl3f"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        },
+        {
+          "name": "Giuseppe Sinopoli",
+          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
+        }
+      ],
+      "duration_ms": 258026,
+      "name": "Rigoletto / Act 1: \"Pari siamo\"",
+      "url": "https://open.spotify.com/track/5eAVcGYlibIkZX3IJCu4D1"
     }
   ],
   "unique_name": "This Is Verdi",

@@ -4,7 +4,7 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-170 songs - 10 hr 23 min
+171 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,8 @@
 | [With My Maker I Am One](https://open.spotify.com/track/1P3EPqytwKmzzgrbw72xRP) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Booker's Guitar](https://open.spotify.com/album/3Ska5qQfOmK6PyxdGhUnSG) | 3:41 | 2022-07-08 |  |
 | [With My Maker I Am One](https://open.spotify.com/track/7rphDmPtaLsPMLxxtc7nQY) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Booker’s Guitar](https://open.spotify.com/album/6ds4XXPkWpPm1FkqYsA3xr) | 3:41 | 2022-05-25 | 2022-07-29 |
 | [Woke up This Morning](https://open.spotify.com/track/5dAoQMVA2jwl1hCTJGeWAm) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Lightnin' Strikes, Vol\. 1](https://open.spotify.com/album/5WFLwckcjlr3Ui8pGIgzVb) | 4:31 | 2022-05-25 |  |
-| [Won't Be Around](https://open.spotify.com/track/28zPfiP5FbWKhsVTXoAoC1) | [Terry Blade](https://open.spotify.com/artist/6QXdeafZdeOvusyWmtRO7Y) | [Won't Be Around](https://open.spotify.com/album/55PQCPW6HbwcX89v0pZld1) | 2:25 | 2023-01-06 |  |
+| [Won't Be Around](https://open.spotify.com/track/0ZhcMUMBi0z0uE5s2bIery) | [Terry Blade](https://open.spotify.com/artist/6QXdeafZdeOvusyWmtRO7Y) | [Ethos: Son of a Sharecropper](https://open.spotify.com/album/16AgsZkKpq2r4JxrKp412a) | 2:25 | 2023-04-14 |  |
+| [Won't Be Around](https://open.spotify.com/track/28zPfiP5FbWKhsVTXoAoC1) | [Terry Blade](https://open.spotify.com/artist/6QXdeafZdeOvusyWmtRO7Y) | [Won't Be Around](https://open.spotify.com/album/55PQCPW6HbwcX89v0pZld1) | 2:25 | 2023-01-06 | 2023-04-27 |
 | [Won't Get Any Better](https://open.spotify.com/track/28r1vNoAGRfy3i8972hOS5) | [Michael van Merwyk](https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF) | [Blue River Rising](https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W) | 3:10 | 2022-07-29 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

@@ -2141,6 +2141,42 @@
     },
     {
       "album": {
+        "name": "Bleu",
+        "url": "https://open.spotify.com/album/2UAEtwuyhg2gdJD8bK35Ur"
+      },
+      "artists": [
+        {
+          "name": "Willow Valley",
+          "url": "https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61859,
+      "name": "Bleu",
+      "url": "https://open.spotify.com/track/3w2SInXD8TAmopdyNjVFpl"
+    },
+    {
+      "album": {
+        "name": "Bleu Arr. For Strings",
+        "url": "https://open.spotify.com/album/5W2ifROoiSbnbAcu0L4314"
+      },
+      "artists": [
+        {
+          "name": "Limelight Glow",
+          "url": "https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62385,
+      "name": "Bleu Arr. For Strings",
+      "url": "https://open.spotify.com/track/58WlzTJMPLzmU1rqinlPaw"
+    },
+    {
+      "album": {
         "name": "Relaxing Cello",
         "url": "https://open.spotify.com/album/10FYDKljITHunEsUCAHFUe"
       },

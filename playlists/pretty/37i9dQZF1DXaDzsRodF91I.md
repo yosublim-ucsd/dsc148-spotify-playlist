@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 
 > Songs from all genres get a punk rock makeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,569 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,678 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 59 | [God's Plan](https://open.spotify.com/track/3xoQ3tTYJffg1xnxq6DUeX) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [God's Plan](https://open.spotify.com/album/2XON3q0rxChJJmPFbxXchs) | 3:09 |
 | 60 | [Soak up the Sun](https://open.spotify.com/track/7jmeasfgUACycDwwC1JnE8) | [Sincerely, Me](https://open.spotify.com/artist/1zzb0p4HHnAI0MsOWFMdR8) | [Soak up the Sun](https://open.spotify.com/album/437lF978Yeb1SZubuLRtJN) | 3:23 |
 | 61 | [Self Esteem](https://open.spotify.com/track/6zXPfmbRwPKhDMQtZID9ed) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Self Esteem](https://open.spotify.com/album/0Mkay8p1oppeATmDrIfDfA) | 2:25 |
-| 62 | [Here with Me](https://open.spotify.com/track/4P1bWG46ggUx3kOdnDEAfs) | [Ready Steady Steroids](https://open.spotify.com/artist/1ObNbwiR2rX4PUY2BUF9xN) | [Got You Covered, Vol\. 4](https://open.spotify.com/album/5wF0HilPu6SqcCh3ktN6ax) | 2:29 |
-| 63 | [Such Great Heights](https://open.spotify.com/track/5CPpdV3Ef56AonsLzbbqsY) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [Such Great Heights](https://open.spotify.com/album/0PHQkrAEglK6EpcEDF24N2) | 3:23 |
+| 62 | [Such Great Heights](https://open.spotify.com/track/5CPpdV3Ef56AonsLzbbqsY) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [Such Great Heights](https://open.spotify.com/album/0PHQkrAEglK6EpcEDF24N2) | 3:23 |
+| 63 | [Here with Me](https://open.spotify.com/track/4P1bWG46ggUx3kOdnDEAfs) | [Ready Steady Steroids](https://open.spotify.com/artist/1ObNbwiR2rX4PUY2BUF9xN) | [Got You Covered, Vol\. 4](https://open.spotify.com/album/5wF0HilPu6SqcCh3ktN6ax) | 2:29 |
 | 64 | [Dreaming](https://open.spotify.com/track/2c5y2QB5qY6S84MoJTJYzE) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dreaming](https://open.spotify.com/album/2WApmrlB4VgT8Mz0zEMrty) | 3:07 |
 | 65 | [Rockstar](https://open.spotify.com/track/7EIbw4i6zFYA2kuDYWgRly) | [Daddy Rock](https://open.spotify.com/artist/3RZnetZUUmTYPluQtt7SNI) | [Rockstar](https://open.spotify.com/album/7yfeIbESdeDfyvYVjbYMRr) | 3:27 |
 | 66 | [Intentions](https://open.spotify.com/track/3pEy3cfq0SyFDGKtuIE7V7) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Intentions](https://open.spotify.com/album/315llMf2Y1p8xQeNetXnmC) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 99 | [I Won't Back Down](https://open.spotify.com/track/1r72N7UrcmJIVsib0F7vsV) | [Alone I Walk](https://open.spotify.com/artist/15KhAhIzQCzIDNDq1QXAGc) | [I Won't Back Down](https://open.spotify.com/album/2PnX4AnA5v2WyzUHmJ7ZpR) | 2:38 |
 | 100 | [Thatcher Fucked the Kids](https://open.spotify.com/track/4bQm41HanVPO4wh6pNpB9L) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [West Coast vs\. Wessex](https://open.spotify.com/album/1V0jqCyz5StIhGp16Ggdz7) | 3:07 |
 
-Snapshot ID: `MTYzMDYwMjgyMSwwMDAwMDAwMDg4OWU3OTkwZDVmZjYyNWE0MTVkN2Y4OWNlYmY1NmYy`
+Snapshot ID: `MTYzMDYwMjgyMSwwMDAwMDAwMGQ4ODhmMjQ1YTcwYzBkODkzY2I3YzAyNmY4NWVjZDk2`

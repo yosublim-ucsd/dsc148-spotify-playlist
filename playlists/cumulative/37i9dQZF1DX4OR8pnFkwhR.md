@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Tele
 
-810 songs - 2 day 1 hr 58 min
+813 songs - 2 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,8 @@
 | [Polaroid](https://open.spotify.com/track/7e1jexFzFNed1Ovw45S798) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Polaroid](https://open.spotify.com/album/0VxTDHLoZJmKFCKsxUjBYf) | 3:14 | 2023-02-14 | 2023-03-29 |
 | [POOL](https://open.spotify.com/track/6hiLrjPj5RoC632xTspNtK) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [POOL](https://open.spotify.com/album/0jRklgtrDP6D8kMTnNJvhH) | 4:31 | 2022-10-04 | 2022-11-30 |
 | [popcorn nights](https://open.spotify.com/track/3zIg70E1b4dXlK2zFSPHlF) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [popcorn nights](https://open.spotify.com/album/3c4Hal6qduUYmKYuz5ca3H) | 3:39 | 2022-10-27 | 2022-12-14 |
-| [Pretty in pink](https://open.spotify.com/track/5FPoDmhfaK08USOhbX4jAM) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Pretty in pink](https://open.spotify.com/album/6FAyVgF0ZBEBPIi3QQHK6l) | 2:56 | 2023-04-25 |  |
+| [Pretty in pink](https://open.spotify.com/track/4xCy0UyJ5qMx0bbt4F9B0d) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Pretty in pink](https://open.spotify.com/album/5Cgh8OZAJ8Y6haJyxMzBVH) | 2:56 | 2023-04-25 |  |
+| [Pretty in pink](https://open.spotify.com/track/5FPoDmhfaK08USOhbX4jAM) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Pretty in pink](https://open.spotify.com/album/6FAyVgF0ZBEBPIi3QQHK6l) | 2:56 | 2023-04-25 | 2023-04-27 |
 | [PULL UP](https://open.spotify.com/track/7HVA1EkKQi4zNaYwE17Cvo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [PULL UP](https://open.spotify.com/album/4bqkpI02r4Qc2BFrJtHOic) | 2:41 | 2023-01-12 | 2023-02-02 |
 | [pure](https://open.spotify.com/track/4SnHenrEeKJgZA8j8h4fzb) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [pure](https://open.spotify.com/album/6sWvjpeac8oh7gfmEWHZYA) | 3:45 | 2022-06-21 | 2022-08-03 |
 | [Purpose](https://open.spotify.com/track/3YtGpYYI3RvOsyuJNjZrvK) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 3:49 | 2023-01-12 | 2023-02-02 |
@@ -375,6 +376,7 @@
 | [Shisso](https://open.spotify.com/track/4vc2xLv40ExLHTuSYLaM7F) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [SHIKI](https://open.spotify.com/album/3hG301XBzgG9WMXB9xaC8d) | 2:34 | 2022-11-08 | 2022-12-14 |
 | [short short](https://open.spotify.com/track/3GsUIqbzPxQPhYcBGchpWu) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [short short](https://open.spotify.com/album/2vT5XBZqx4iOmzqk7vRsuK) | 3:22 | 2022-12-06 | 2023-02-15 |
 | [Shower](https://open.spotify.com/track/1rS2X092hCdnS1DCrajMkd) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Shower](https://open.spotify.com/album/5OpqTol5Qnm3kZejdelVPP) | 3:12 | 2022-08-04 | 2022-09-09 |
+| [Siesta](https://open.spotify.com/track/74J0ffff6Hp3fYCkp3ceKW) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Siesta](https://open.spotify.com/album/4q5mMGjlcMUUhlGd4RWDp3) | 3:11 | 2023-04-25 |  |
 | [signal](https://open.spotify.com/track/5SAVeDv2tKYyfPm7NJ6zTr) | [AKIRA](https://open.spotify.com/artist/6ssW8So4tdpbto3NUOktqv), [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [signal](https://open.spotify.com/album/0kT3niMIXUSdbzd7dLDO81) | 3:39 | 2022-08-09 | 2022-09-28 |
 | [sinister](https://open.spotify.com/track/7tR03ofElFzll0dVIgnIAm) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [sinister](https://open.spotify.com/album/2sYMWQ3gsmhz8waGwYpGCq) | 3:38 | 2023-04-11 |  |
 | [Sky](https://open.spotify.com/track/0Z6Zik8ZgPzqy6GrJU8qTx) | [Leonald](https://open.spotify.com/artist/0NRTDdR3mqDDtBI9rN8rHN), [Taichi Mukai](https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH) | [Sky](https://open.spotify.com/album/4zDj9doKBQ81SgFqgGQhcR) | 3:36 | 2023-02-01 | 2023-03-01 |
@@ -457,6 +459,7 @@
 | [Villain](https://open.spotify.com/track/0ejtTMsf4ZljUhAZZk5boY) | [Tina Moon](https://open.spotify.com/artist/3I1vLdkE4jPKqsbzkOQOIQ) | [Villain](https://open.spotify.com/album/5oY52goRcs3mfvurujXOu3) | 4:06 | 2023-03-28 | 2023-04-12 |
 | [Véranda](https://open.spotify.com/track/6h5ndow0y3PdcW6nFsxLFz) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [Véranda](https://open.spotify.com/album/0BuqNtULCov27tKzycHoWT) | 3:23 | 2022-09-20 | 2023-02-02 |
 | [Wandering Spirit](https://open.spotify.com/track/6E30fAWCLP4LFusJMZKgq0) | [MADE IN HEPBURN](https://open.spotify.com/artist/5Kb7tK7462ltHK5KtX2tAq) | [Wandering Spirit](https://open.spotify.com/album/7M8RbyJXruRleU2wScVMkI) | 3:38 | 2023-03-07 | 2023-04-01 |
+| [Waraibanashi \-A Funny Story\-](https://open.spotify.com/track/6LtMJVeESzRLu2qC7nvWSr) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [Waraibanashi \-A Funny Story\-](https://open.spotify.com/album/6sTC6wymaf3mxFRljQuFp9) | 3:47 | 2023-04-25 |  |
 | [WARUNORI](https://open.spotify.com/track/2D1NcVffFzsLqNFbz5Xdkx) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [WARUNORI](https://open.spotify.com/album/2h7FVDXr3xmV11yyNImqRz) | 4:19 | 2023-01-12 | 2023-02-02 |
 | [Way Out](https://open.spotify.com/track/3skjdXkwKRGOnIZg95PRSn) | [Lil Summer](https://open.spotify.com/artist/2ZcEafNbbvNXalNGKnHRCX) | [Rojo](https://open.spotify.com/album/73H63suVDZJOerme5g7CcK) | 3:00 | 2023-03-14 | 2023-03-29 |
 | [WAになって踊レナイ](https://open.spotify.com/track/56SiPrtGvggT2BUPfL0uGK) | [NOMAD POP](https://open.spotify.com/artist/2sggfxkeQ5OFGNPZpadSFZ) | [WAになって踊レナイ](https://open.spotify.com/album/5HUOm9RAThFbBBFzkho8cL) | 3:38 | 2022-07-05 | 2022-07-13 |
@@ -564,7 +567,7 @@
 | [コズミック](https://open.spotify.com/track/2wIGnFXppV7dbp8I1bmA9B) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [コズミック](https://open.spotify.com/album/5XhlBoKq69TkOtXF8uN6CA) | 2:38 | 2022-08-16 | 2022-09-30 |
 | [ゴミ人間、俺](https://open.spotify.com/track/2VU59VkXEBNX4ZZf7SmGAy) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 3:49 | 2023-03-14 | 2023-03-16 |
 | [サマーブルーム](https://open.spotify.com/track/6b7PLhYnmxUXZepngv875O) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [サマーブルーム](https://open.spotify.com/album/07dE5hGDY5YzyC8OonL8Il) | 4:33 | 2022-07-05 | 2022-07-27 |
-| [シエスタ](https://open.spotify.com/track/0cRRJ7O7fEC0mohyTrM3R1) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [シエスタ](https://open.spotify.com/album/0JqjF7QJ6758cXozWthn98) | 3:11 | 2023-04-25 |  |
+| [シエスタ](https://open.spotify.com/track/0cRRJ7O7fEC0mohyTrM3R1) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [シエスタ](https://open.spotify.com/album/0JqjF7QJ6758cXozWthn98) | 3:11 | 2023-04-25 | 2023-04-27 |
 | [シット・バイアス・ミュージック](https://open.spotify.com/track/1ztIyUs89PLJv0NQH8eb5m) | [ポンツクピーヤ](https://open.spotify.com/artist/0j56Vr9S3Iq3Inp8pLX02Q) | [19歳/シット・バイアス・ミュージック](https://open.spotify.com/album/5Sntp3QM3VhnDAJDD56eki) | 4:30 | 2023-02-01 | 2023-02-08 |
 | [シトラス](https://open.spotify.com/track/3E7EqKi9z8dRoWUame2a88) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [シトラス](https://open.spotify.com/album/7w8SJy9LxvERNlDtuFulId) | 3:10 | 2022-02-17 | 2022-03-09 |
 | [シニスター](https://open.spotify.com/track/3LQgY2kGn9BYf8E7WIbW6Q) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [シニスター](https://open.spotify.com/album/3en4RwQh65pS5GtV9cZCcn) | 3:38 | 2023-04-11 | 2023-04-13 |
@@ -778,7 +781,7 @@
 | [空っぽ](https://open.spotify.com/track/1VfOJgHWGyXIVcowq3dcJK) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [空っぽ](https://open.spotify.com/album/6gsTB987dJeaTUifVdWbO4) | 4:53 | 2022-12-06 | 2023-02-02 |
 | [空前絶後のジェネレーション](https://open.spotify.com/track/2XD0Fyup1w3s3Hej7h7G6M) | [Dumyy Lou](https://open.spotify.com/artist/5YdM8sVMtYW9BpkYiVVNcN) | [The Dumyy Lou](https://open.spotify.com/album/34yCoPGaslilVLqQrnvepi) | 1:43 | 2023-03-28 | 2023-04-12 |
 | [突然変異](https://open.spotify.com/track/7zockz49Ux0fDbly9D94BS) | [ろくようび](https://open.spotify.com/artist/4fESCyyS071fh8GJnSYpks) | [Quiz](https://open.spotify.com/album/25kXmupN03KW06qkPRp0y0) | 5:26 | 2022-04-04 | 2022-05-11 |
-| [笑い話 \-A Funny Story\-](https://open.spotify.com/track/1WfJhEEp4aERI2LSwCNrHo) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [笑い話 \-A Funny Story\-](https://open.spotify.com/album/37tFQhmITvrC6c9m8KqIGY) | 3:47 | 2023-04-25 |  |
+| [笑い話 \-A Funny Story\-](https://open.spotify.com/track/1WfJhEEp4aERI2LSwCNrHo) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [笑い話 \-A Funny Story\-](https://open.spotify.com/album/37tFQhmITvrC6c9m8KqIGY) | 3:47 | 2023-04-25 | 2023-04-27 |
 | [笑って透明人間](https://open.spotify.com/track/52d0HV5FhkjQxyWEuHFJ1D) | [小林私](https://open.spotify.com/artist/7gkC9QnFDqLzmk8t8bpI7Y) | [光を投げていた](https://open.spotify.com/album/4r9IoFzX6ePXpmTJj5lh2B) | 3:16 | 2022-03-11 | 2022-06-22 |
 | [管制塔](https://open.spotify.com/track/6cAdDo96j1AhQ7zhv27RgA) | [かりんちょ落書き](https://open.spotify.com/artist/7szylaibmQeGUetRKLVW65) | [レストラン](https://open.spotify.com/album/7bBXUPhDvW8bDexDrkE9Ym) | 3:11 | 2023-04-06 |  |
 | [紫陽花](https://open.spotify.com/track/3dPVqEzUiJ6yXs573CHeWv) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [紫陽花](https://open.spotify.com/album/1u04N7C3ofQvRcYVikvS4b) | 3:56 | 2022-06-30 | 2022-07-27 |

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 
 > This is Tye Tribbett\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,853 likes - 48 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,865 likes - 48 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [We Gon’ Be Alright](https://open.spotify.com/track/0ErItBOhcHJahcQ8BGqk4V) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [We Gon’ Be Alright](https://open.spotify.com/album/7mlzDISRd3IcS4MFf0Cuxb) | 3:34 |
 | 2 | [If He Did It Before....Same God \- Live](https://open.spotify.com/track/3ubvpgBsJK96b4OSTo5DiC) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 4:05 |
 | 3 | [All Things New](https://open.spotify.com/track/6hl8sfNAe5rgNzGLg7N7PH) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 3:07 |
-| 4 | [Could've Been \(with J Moss & Tye Tribbett\)](https://open.spotify.com/track/4YSzPF7PIahHWHQpyVJPMK) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Hero](https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m) | 6:47 |
-| 5 | [Get Up \- Live](https://open.spotify.com/track/65d4T2Ine2ex2XcCXB09ut) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 6:19 |
+| 4 | [Get Up \- Live](https://open.spotify.com/track/65d4T2Ine2ex2XcCXB09ut) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 6:19 |
+| 5 | [Could've Been \(with J Moss & Tye Tribbett\)](https://open.spotify.com/track/4YSzPF7PIahHWHQpyVJPMK) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Hero](https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m) | 6:47 |
 | 6 | [What Can I Do \- Live](https://open.spotify.com/track/3MwZoGEVR9i2AWzA8Vko9O) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 7:43 |
 | 7 | [New](https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [New](https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE) | 3:15 |
 | 8 | [Walk By Faith](https://open.spotify.com/track/39rmy6uMG0EfDL38Xk7PMl) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 6:55 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 47 | [Out Of Hiding / How He Loves / Good Good Father \- Medley/Live](https://open.spotify.com/track/5LV9XOXzoyYmNnKPVH9wBv) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Lena Byrd\-Miles](https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 8:29 |
 | 48 | [Stand Out](https://open.spotify.com/track/3gYH02L5BHwo7fAM7oiziR) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 4:42 |
 
-Snapshot ID: `MjgwNDA0NDAsMDAwMDAwMDA3ZTNhNDgzMTRkNGYyYTViOGZlMTg0ZTMyZDNjMjEyMA==`
+Snapshot ID: `MjgwNDE5MzAsMDAwMDAwMDBlNTA4YTRiZTIzNzlhYjc3ZDQzMzVmY2ZlMDdiNDVhZg==`

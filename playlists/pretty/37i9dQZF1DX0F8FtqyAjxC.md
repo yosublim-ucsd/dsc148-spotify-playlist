@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 
 > <a href="spotify:artist:3NKVm2Jedcf6ibJr6pMUVx">Jayda G</a>'s favorite tracks\. Updated regularly\. Curated by Jayda G\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,219 likes - 75 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,261 likes - 75 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 | 66 | [You \- Remastered](https://open.spotify.com/track/11si3OzSN9TCndyKeHPbB3) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Maze \(Remastered\)](https://open.spotify.com/album/6TU0GXA9Vq80VYdmuCpCFQ) | 8:36 |
 | 67 | [We Can Make It \(feat\. Kathy Summers\)](https://open.spotify.com/track/6nQZnTKPJElBkerDefqi8W) | [UBQ Project](https://open.spotify.com/artist/2fIoxlW3uyZvTcjMWSMK8y), [Kathy Summers](https://open.spotify.com/artist/7J6IdDizyly2eDTGNCwSqV) | [718 Sessions](https://open.spotify.com/album/5X0H2FQm2VwheHUVH8y3X9) | 4:13 |
 | 68 | [Last Night a D.J\. Saved My Life](https://open.spotify.com/track/7dcs4YfIp7PDDw76rWja2t) | [Indeep](https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h) | [A Night to Remember \(Mixed By Tony Okungbowa & Jojoflores\)](https://open.spotify.com/album/1EaATYESKxC3pW4Whf2VvE) | 4:12 |
-| 69 | [Boutade \- Miseridub](https://open.spotify.com/track/6Ju5IHiRn4InF2lu165HMo) | [Mugwump](https://open.spotify.com/artist/7JoP7BbbK8PXHxLO4Hd1dW) | [Late Night Tales Presents After Dark: Nightshift](https://open.spotify.com/album/5Ay42v6cmcNOQytd0c8qBb) | 9:13 |
+| 69 | [Boutade \- Miseridub](https://open.spotify.com/track/6Ju5IHiRn4InF2lu165HMo) | [Mugwump](https://open.spotify.com/artist/7JoP7BbbK8PXHxLO4Hd1dW), [Bill Brewster](https://open.spotify.com/artist/01Hj5EQGynnrJncV7vhAyA) | [Late Night Tales Presents After Dark: Nightshift](https://open.spotify.com/album/5Ay42v6cmcNOQytd0c8qBb) | 9:13 |
 | 70 | [You're My](https://open.spotify.com/track/5ulWUXo2mV3xy2PzzuVTuB) | [Sticks & Stonez](https://open.spotify.com/artist/4Jf1z5Lvop0Y5GmYjsqh1l), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [You're My](https://open.spotify.com/album/6AmBMZgibAEtlVawaio0G1) | 4:49 |
 | 71 | [Into My Life \(You Brought The Sunshine\) \- Main](https://open.spotify.com/track/6vB5YllRE4l5jhWkhrRD18) | [Lisa Fischer](https://open.spotify.com/artist/75NLTo547GvC8W5gmRDLLn), [Elements Of Life](https://open.spotify.com/artist/7uMlQA2qyNSJTbnqp1rbNY), [Cindy Mizelle](https://open.spotify.com/artist/3gyPrhQ5NNNl84banW4UZX) | [Golden Ladies Volume 1](https://open.spotify.com/album/0QfKIzLUVszp5o7LH2jYZ6) | 9:37 |
 | 72 | [Outta Sight / Dark Lavender Interlude](https://open.spotify.com/track/3WsSVBM9oPmHlXjxKIKV59) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Big Baby DRAM](https://open.spotify.com/album/7CHEC1kVstFUDPTxB3Hz2V) | 5:53 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 
 > Mode: Turnt
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,600,679 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,601,598 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 | 66 | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Billy B](https://open.spotify.com/artist/3P2dL1jA3FykjGry2EcZEf) | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/album/00WvhKa7aS4GRBHsRy2vRS) | 2:11 |
 | 67 | [GOATED\. \(feat\. Denzel Curry\)](https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [GOATED.](https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz) | 3:17 |
 | 68 | [Umbrella \(with 21 Savage & Young Nudy\)](https://open.spotify.com/track/4vJdhRVZMvIbQwbv7o8s5X) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [HEROES & VILLAINS \(Heroes Version\)](https://open.spotify.com/album/4o9NExZng35wpV7pLKvuW0) | 3:42 |
-| 69 | [Torpedo](https://open.spotify.com/track/5R5UNKWsmMPpFq5JHK93Fw) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Torpedo](https://open.spotify.com/album/11udbkutLAaM7XN3amRT9t) | 4:00 |
+| 69 | [Torpedo](https://open.spotify.com/track/3hT2zPRGkrL9wutPeZtvKQ) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 4:00 |
 | 70 | [BackOutsideBoyz](https://open.spotify.com/track/0wshkEEcJUQU33RSRBb5dv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:32 |
 | 71 | [Texas](https://open.spotify.com/track/2p5La0D38fkvhobrC1HRCU) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/6UBYRLKOasEXXr8nwZ4fp8) | 2:26 |
 | 72 | [OH BOY](https://open.spotify.com/track/4lhinIXb37RqJRnbnTgOcg) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu), [RiskTaker D\-Boy](https://open.spotify.com/artist/7z3tvvfp9CCpGPG2NmFCWu), [DJBJ 3525](https://open.spotify.com/artist/73hKkoJ0qQxdfy6B8LyN7Y) | [Back on Dexter: A Gangsta Grillz Mixtape](https://open.spotify.com/album/1Jm12CDLPjD2FQHvUBQCNi) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 | 99 | [Can't Stop Won't Stop \(feat\. Kodak Black\)](https://open.spotify.com/track/4L1zI1GJxi0Qq38aSYmsS0) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Can't Stop Won't Stop \(feat\. Kodak Black\)](https://open.spotify.com/album/0CzPQGFqw7pO6SnPkf3RkJ) | 2:38 |
 | 100 | [Vette Motors](https://open.spotify.com/track/0HrWshW3SuFJ6nKS9ba9Mh) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:53 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDE4MWEyMjIyMjE5ODYyM2Y2ZTMzNmUzODg5MjE1ZTBj`
+Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDEwZGFjY2FkYzQ2ZTBlNjgxNzE1NWFhMjdjMTUzZGQ3`

@@ -1,12 +1,12 @@
 {
   "description": "Cruise to the smooth grooves of these yacht rock tunes",
-  "num_followers": 1371913,
+  "num_followers": 1372527,
   "original_name": "Yacht Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTI0NTc2MiwwMDAwMDAwMDQ5NGExYzAzYTA1NWM5MGZkOTU4NGE5MTdkNGViNDA3",
+  "snapshot_id": "MTY2OTI0NTc2MiwwMDAwMDAwMDg2YWFjNWY2NWU0Y2JmZTAzYzQ2NzBiNzcwMWZiNGY1",
   "tracks": [
     {
       "added_at": "2022-11-23 23:22:42",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-11-23 23:22:42",
       "album": {
-        "name": "The George Benson Collection",
-        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 222626,
-      "name": "Give Me the Night",
-      "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
-    },
-    {
-      "added_at": "2022-11-23 23:22:42",
-      "album": {
         "name": "Lean on Me: The Best of Bill Withers",
         "url": "https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 237373,
       "name": "Just the Two of Us (feat. Bill Withers)",
       "url": "https://open.spotify.com/track/2tH28YyKYOldxhuBHoI79M"
+    },
+    {
+      "added_at": "2022-11-23 23:22:42",
+      "album": {
+        "name": "The George Benson Collection",
+        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "Give Me the Night",
+      "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
     },
     {
       "added_at": "2022-11-23 23:22:42",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-11-23 23:22:42",
       "album": {
-        "name": "A Rock And Roll Alternative",
-        "url": "https://open.spotify.com/album/5vC0MxBXL4i9iowdXSx4yO"
-      },
-      "artists": [
-        {
-          "name": "Atlanta Rhythm Section",
-          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
-        }
-      ],
-      "duration_ms": 260866,
-      "name": "So Into You",
-      "url": "https://open.spotify.com/track/3Sm5TYFgMXyXwgAcY2xweX"
-    },
-    {
-      "added_at": "2022-11-23 23:22:42",
-      "album": {
         "name": "Brother To Brother",
         "url": "https://open.spotify.com/album/4ohvIC6DYCyY1uyPcvXAFc"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 218306,
       "name": "I Just Wanna Stop",
       "url": "https://open.spotify.com/track/5ljGmNLjvQZm2hw8cDJXNJ"
+    },
+    {
+      "added_at": "2022-11-23 23:22:42",
+      "album": {
+        "name": "A Rock And Roll Alternative",
+        "url": "https://open.spotify.com/album/5vC0MxBXL4i9iowdXSx4yO"
+      },
+      "artists": [
+        {
+          "name": "Atlanta Rhythm Section",
+          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
+        }
+      ],
+      "duration_ms": 260866,
+      "name": "So Into You",
+      "url": "https://open.spotify.com/track/3Sm5TYFgMXyXwgAcY2xweX"
     },
     {
       "added_at": "2022-11-23 23:22:42",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-11-23 23:22:42",
       "album": {
-        "name": "Dance With Me: The Best Of Orleans",
-        "url": "https://open.spotify.com/album/43inWGDznUuVwJoIX0jKtl"
-      },
-      "artists": [
-        {
-          "name": "Orleans",
-          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
-        }
-      ],
-      "duration_ms": 180479,
-      "name": "Dance with Me",
-      "url": "https://open.spotify.com/track/2GORop0i2cyx8C0A3JzL44"
-    },
-    {
-      "added_at": "2022-11-23 23:22:42",
-      "album": {
         "name": "The Essential Daryl Hall & John Oates",
         "url": "https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 190706,
       "name": "You Make My Dreams (Come True)",
       "url": "https://open.spotify.com/track/2dlEdDEmuQsrcXaAL3Znzi"
+    },
+    {
+      "added_at": "2022-11-23 23:22:42",
+      "album": {
+        "name": "Dance With Me: The Best Of Orleans",
+        "url": "https://open.spotify.com/album/43inWGDznUuVwJoIX0jKtl"
+      },
+      "artists": [
+        {
+          "name": "Orleans",
+          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
+        }
+      ],
+      "duration_ms": 180479,
+      "name": "Dance with Me",
+      "url": "https://open.spotify.com/track/2GORop0i2cyx8C0A3JzL44"
     },
     {
       "added_at": "2022-11-23 23:22:42",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-11-23 23:22:42",
       "album": {
-        "name": "Jarreau",
-        "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 258399,
-      "name": "Mornin'",
-      "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
-    },
-    {
-      "added_at": "2022-11-23 23:22:42",
-      "album": {
         "name": "The George Benson Collection",
         "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 230106,
       "name": "Turn Your Love Around",
       "url": "https://open.spotify.com/track/6a899bXlCuViXW2Qs8Rdqo"
+    },
+    {
+      "added_at": "2022-11-23 23:22:42",
+      "album": {
+        "name": "Jarreau",
+        "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 258399,
+      "name": "Mornin'",
+      "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
     },
     {
       "added_at": "2022-11-23 23:22:42",

@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1960s.\n",
-  "num_followers": 2826871,
+  "num_followers": 2827529,
   "original_name": "All Out 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQ4MTk4MywwMDAwMDAwMDdhNTJlNWFkMTY2NGZmZDJjOTkxMmFjM2NkYWNmNGVi",
+  "snapshot_id": "MTY3OTQ4MTk4MywwMDAwMDAwMDgxZTU0MzUwNjdmNzU3MGU0NWNhMTJkNGMyOWMyMGVl",
   "tracks": [
     {
       "added_at": "2022-08-12 11:06:50",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Let It Bleed",
-        "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 270773,
-      "name": "Gimme Shelter",
-      "url": "https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Led Zeppelin II (1994 Remaster)",
         "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 333893,
       "name": "Whole Lotta Love - 1990 Remaster",
       "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Let It Bleed",
+        "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 270773,
+      "name": "Gimme Shelter",
+      "url": "https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "The Letter/Neon Rainbow",
-        "url": "https://open.spotify.com/album/08mPxuP35Db56jUUgRvGFs"
-      },
-      "artists": [
-        {
-          "name": "The Box Tops",
-          "url": "https://open.spotify.com/artist/3KGQvnOoqUHi3KxKQMZtXr"
-        }
-      ],
-      "duration_ms": 112800,
-      "name": "The Letter",
-      "url": "https://open.spotify.com/track/6RJK553YhstRzyKA4mug09"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Aretha Now",
         "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 139733,
       "name": "Think",
       "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "The Letter/Neon Rainbow",
+        "url": "https://open.spotify.com/album/08mPxuP35Db56jUUgRvGFs"
+      },
+      "artists": [
+        {
+          "name": "The Box Tops",
+          "url": "https://open.spotify.com/artist/3KGQvnOoqUHi3KxKQMZtXr"
+        }
+      ],
+      "duration_ms": 112800,
+      "name": "The Letter",
+      "url": "https://open.spotify.com/track/6RJK553YhstRzyKA4mug09"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "It's Pony Time/Let's Twist Again",
-        "url": "https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0"
-      },
-      "artists": [
-        {
-          "name": "Chubby Checker",
-          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
-        }
-      ],
-      "duration_ms": 137360,
-      "name": "Let's Twist Again",
-      "url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Kinks (Deluxe)",
         "url": "https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 158040,
       "name": "Baby Love",
       "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "It's Pony Time/Let's Twist Again",
+        "url": "https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0"
+      },
+      "artists": [
+        {
+          "name": "Chubby Checker",
+          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
+        }
+      ],
+      "duration_ms": 137360,
+      "name": "Let's Twist Again",
+      "url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "The New Look",
-        "url": "https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd"
-      },
-      "artists": [
-        {
-          "name": "Fontella Bass",
-          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
-        }
-      ],
-      "duration_ms": 171026,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Electric Ladyland",
         "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 313373,
       "name": "Voodoo Child (Slight Return)",
       "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "The New Look",
+        "url": "https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd"
+      },
+      "artists": [
+        {
+          "name": "Fontella Bass",
+          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
+        }
+      ],
+      "duration_ms": 171026,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Crosby, Stills & Nash",
-        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 157893,
-      "name": "Helplessly Hoping - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Stand",
         "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 141506,
       "name": "Everyday People",
       "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Crosby, Stills & Nash",
+        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 157893,
+      "name": "Helplessly Hoping - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "The Exciting Wilson Pickett",
-        "url": "https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 146973,
-      "name": "Land of 1000 Dances",
-      "url": "https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "I Put A Spell On You",
         "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 155026,
       "name": "I Put A Spell On You",
       "url": "https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "The Exciting Wilson Pickett",
+        "url": "https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 146973,
+      "name": "Land of 1000 Dances",
+      "url": "https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "Where Did Our Love Go",
+      "url": "https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Dance Party",
         "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 163586,
       "name": "Everybody's Talkin' - From \"Midnight Cowboy\"",
       "url": "https://open.spotify.com/track/1jcPcDu2YawPfLhwjYnqK2"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Where Did Our Love Go",
-        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "Where Did Our Love Go",
-      "url": "https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 162533,
+      "name": "Bring It On Home to Me",
+      "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Shut Down, Vol. 2 (Remastered)",
         "url": "https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1"
       },
@@ -1871,18 +1887,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
+        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
         }
       ],
-      "duration_ms": 162533,
-      "name": "Bring It On Home to Me",
-      "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
+      "duration_ms": 175853,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/5zQyqgNXKzhifkivumzxDS"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1923,22 +1939,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Begin Here",
-        "url": "https://open.spotify.com/album/1Sv2t548jDyfBDgvVzYJzw"
-      },
-      "artists": [
-        {
-          "name": "The Zombies",
-          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
-        }
-      ],
-      "duration_ms": 145293,
-      "name": "She's Not There",
-      "url": "https://open.spotify.com/track/4Wzt8Dm4xpO3LjWDecP4bA"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "In the Midnight Hour",
         "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
       },
@@ -1955,18 +1955,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
-        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+        "name": "Begin Here",
+        "url": "https://open.spotify.com/album/1Sv2t548jDyfBDgvVzYJzw"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
         }
       ],
-      "duration_ms": 175853,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/5zQyqgNXKzhifkivumzxDS"
+      "duration_ms": 145293,
+      "name": "She's Not There",
+      "url": "https://open.spotify.com/track/4Wzt8Dm4xpO3LjWDecP4bA"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2019,6 +2019,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Jump Up Calypso",
+        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 221704,
+      "name": "Jump in the Line",
+      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Four Tops",
         "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
       },
@@ -2067,22 +2083,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "The Best of The Kingsmen",
-        "url": "https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx"
-      },
-      "artists": [
-        {
-          "name": "The Kingsmen",
-          "url": "https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo"
-        }
-      ],
-      "duration_ms": 165381,
-      "name": "Louie Louie",
-      "url": "https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Down the Road Apiece - the Recordings 1963-1966",
         "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
       },
@@ -2095,6 +2095,22 @@
       "duration_ms": 144146,
       "name": "Do Wah Diddy Diddy - 2007 Remaster",
       "url": "https://open.spotify.com/track/48ZjHLkaHpXIlGGYUlb3bZ"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "The Best of The Kingsmen",
+        "url": "https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx"
+      },
+      "artists": [
+        {
+          "name": "The Kingsmen",
+          "url": "https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo"
+        }
+      ],
+      "duration_ms": 165381,
+      "name": "Louie Louie",
+      "url": "https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2127,22 +2143,6 @@
       "duration_ms": 148040,
       "name": "Please Mr. Postman - Single Version / Mono",
       "url": "https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Jump Up Calypso",
-        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 221704,
-      "name": "Jump in the Line",
-      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Going To A Go-Go",
-        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "The Tracks Of My Tears",
-      "url": "https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Turn! Turn! Turn!",
         "url": "https://open.spotify.com/album/3v0i9qyogPoQEQj2bG6Fmn"
       },
@@ -2227,22 +2211,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "The Velvet Underground & Nico 45th Anniversary",
-        "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
+        "name": "Going To A Go-Go",
+        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
       },
       "artists": [
         {
-          "name": "The Velvet Underground",
-          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
-        },
-        {
-          "name": "Nico",
-          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
         }
       ],
-      "duration_ms": 175893,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ"
+      "duration_ms": 174360,
+      "name": "The Tracks Of My Tears",
+      "url": "https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2275,6 +2255,26 @@
       "duration_ms": 166666,
       "name": "Come A Little Bit Closer",
       "url": "https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "The Velvet Underground & Nico 45th Anniversary",
+        "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        },
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+        }
+      ],
+      "duration_ms": 175893,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2359,6 +2359,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "The Velvet Underground (45th Anniversary)",
+        "url": "https://open.spotify.com/album/2HOf3Nb44Us8U9oEtKLSrX"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        }
+      ],
+      "duration_ms": 339533,
+      "name": "Pale Blue Eyes",
+      "url": "https://open.spotify.com/track/11VwZwNF29HrqwalYUMitb"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "The 35th Anniversary Collection",
         "url": "https://open.spotify.com/album/499ITeZ8gs03lrO9NULY7y"
       },
@@ -2387,22 +2403,6 @@
       "duration_ms": 133933,
       "name": "You're Nobody 'Til Somebody Loves You - Remastered/1997",
       "url": "https://open.spotify.com/track/4WUcNkpoNSKoe5MUuyzrfC"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "The Velvet Underground (45th Anniversary)",
-        "url": "https://open.spotify.com/album/2HOf3Nb44Us8U9oEtKLSrX"
-      },
-      "artists": [
-        {
-          "name": "The Velvet Underground",
-          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
-        }
-      ],
-      "duration_ms": 339533,
-      "name": "Pale Blue Eyes",
-      "url": "https://open.spotify.com/track/11VwZwNF29HrqwalYUMitb"
     },
     {
       "added_at": "2022-08-12 11:06:50",

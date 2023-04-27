@@ -1,12 +1,12 @@
 {
   "description": "Afro sounds crossing borders.  Cover: <a href=\"https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp?si=cc4qsqDzSfS21lTakVte6w\">Wizkid</a>",
-  "num_followers": 582645,
+  "num_followers": 582855,
   "original_name": "We Everywhere",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc1NDc3NCwwMDAwMDAwMGEwNDZkOWIwZDE2NmFkNjhjNTM2NmQyNTIyZDhhMmRi",
+  "snapshot_id": "MTY3NDc1NDc3NCwwMDAwMDAwMGJjYjc5YzMyZTRlYzBkOWY5YmIyMjhmNjU5M2QwZGFh",
   "tracks": [
     {
       "added_at": "2023-01-26 17:39:34",
@@ -779,6 +779,26 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
+        "name": "Big Conspiracy",
+        "url": "https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 205640,
+      "name": "Play Play (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/3R60ekRcGXuaoZmnbdlf3n"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
         "name": "Know Your Worth (feat. Davido & Tems)",
         "url": "https://open.spotify.com/album/6BugGRwIyG1xFbeZom0Mxz"
       },
@@ -807,22 +827,18 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Big Conspiracy",
-        "url": "https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn"
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
       },
       "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
         {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 205640,
-      "name": "Play Play (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/3R60ekRcGXuaoZmnbdlf3n"
+      "duration_ms": 188741,
+      "name": "Anybody",
+      "url": "https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -839,22 +855,6 @@
       "duration_ms": 168742,
       "name": "woman",
       "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 188741,
-      "name": "Anybody",
-      "url": "https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/6s2ae4utKXWlRMahAvuaaY"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 146367,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/5L845uQOeyOSSAhGPFEmLc"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
         "name": "Hamba Wena",
         "url": "https://open.spotify.com/album/4vwKHSXGmqA0Fe9u9NLt51"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 374848,
       "name": "Hamba Wena",
       "url": "https://open.spotify.com/track/1hsFJ92y0FU2cFOOLkEFVr"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
-        "name": "Testimony",
-        "url": "https://open.spotify.com/album/6s2ae4utKXWlRMahAvuaaY"
-      },
-      "artists": [
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 146367,
-      "name": "Testimony",
-      "url": "https://open.spotify.com/track/5L845uQOeyOSSAhGPFEmLc"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1163,34 +1163,18 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Pioneers",
-        "url": "https://open.spotify.com/album/7tFUesVQ7An8e5pEu7sPYv"
+        "name": "AYA",
+        "url": "https://open.spotify.com/album/0BUPS678TfgTmCMVOviolC"
       },
       "artists": [
         {
-          "name": "DRB Lasgidi",
-          "url": "https://open.spotify.com/artist/5jypR313fdSfpa6y1GMLqZ"
-        },
-        {
-          "name": "Teezee",
-          "url": "https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B"
-        },
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Fresh L.",
-          "url": "https://open.spotify.com/artist/5Req3092u4LKlAcv6kZALj"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         }
       ],
-      "duration_ms": 194594,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/319xYgRF9JFpGLTtiCDhC7"
+      "duration_ms": 168719,
+      "name": "Doudou",
+      "url": "https://open.spotify.com/track/3V6NCwBywAwpAlAyGL7h0p"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1231,18 +1215,34 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "AYA",
-        "url": "https://open.spotify.com/album/0BUPS678TfgTmCMVOviolC"
+        "name": "Pioneers",
+        "url": "https://open.spotify.com/album/7tFUesVQ7An8e5pEu7sPYv"
       },
       "artists": [
         {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+          "name": "DRB Lasgidi",
+          "url": "https://open.spotify.com/artist/5jypR313fdSfpa6y1GMLqZ"
+        },
+        {
+          "name": "Teezee",
+          "url": "https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Fresh L.",
+          "url": "https://open.spotify.com/artist/5Req3092u4LKlAcv6kZALj"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 168719,
-      "name": "Doudou",
-      "url": "https://open.spotify.com/track/3V6NCwBywAwpAlAyGL7h0p"
+      "duration_ms": 194594,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/319xYgRF9JFpGLTtiCDhC7"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1315,22 +1315,18 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Different (With Majid Jordan)",
-        "url": "https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k"
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/0yIBWDZAjdoFcCjiY62dI2"
       },
       "artists": [
         {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 146400,
-      "name": "Different (With Majid Jordan)",
-      "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
+      "duration_ms": 187782,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/0N83qk5axJe71xNDXeViFQ"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1355,18 +1351,22 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Bounce",
-        "url": "https://open.spotify.com/album/0yIBWDZAjdoFcCjiY62dI2"
+        "name": "Different (With Majid Jordan)",
+        "url": "https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
         }
       ],
-      "duration_ms": 187782,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/0N83qk5axJe71xNDXeViFQ"
+      "duration_ms": 146400,
+      "name": "Different (With Majid Jordan)",
+      "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1915,46 +1915,6 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Heat Of The Moment",
-        "url": "https://open.spotify.com/album/3EjN3Lt1gd4M0KrYKz7GrD"
-      },
-      "artists": [
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 174421,
-      "name": "Might Let You (feat. Davido)",
-      "url": "https://open.spotify.com/track/1q03sSwtOk5czzjKFa4qhA"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
-        "name": "All or Nothing",
-        "url": "https://open.spotify.com/album/35J4qJY7CLZzn3o682sx2V"
-      },
-      "artists": [
-        {
-          "name": "Rotimi",
-          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
-        },
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        }
-      ],
-      "duration_ms": 206786,
-      "name": "Fiction (feat. Busy Signal)",
-      "url": "https://open.spotify.com/track/27FUxZMduwKmhhCmnXjqTO"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
         "name": "4AM",
         "url": "https://open.spotify.com/album/1lOAu6ugGCM0WVXfmdwEnO"
       },
@@ -1983,6 +1943,46 @@
       "duration_ms": 225146,
       "name": "4AM",
       "url": "https://open.spotify.com/track/1b6seOTvtPREZUKqjhUtl5"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
+        "name": "All or Nothing",
+        "url": "https://open.spotify.com/album/35J4qJY7CLZzn3o682sx2V"
+      },
+      "artists": [
+        {
+          "name": "Rotimi",
+          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "duration_ms": 206786,
+      "name": "Fiction (feat. Busy Signal)",
+      "url": "https://open.spotify.com/track/27FUxZMduwKmhhCmnXjqTO"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
+        "name": "Heat Of The Moment",
+        "url": "https://open.spotify.com/album/3EjN3Lt1gd4M0KrYKz7GrD"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 174421,
+      "name": "Might Let You (feat. Davido)",
+      "url": "https://open.spotify.com/track/1q03sSwtOk5czzjKFa4qhA"
     },
     {
       "added_at": "2023-01-26 17:39:34",

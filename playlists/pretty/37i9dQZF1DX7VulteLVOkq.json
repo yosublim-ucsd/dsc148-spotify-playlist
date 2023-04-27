@@ -1,6 +1,6 @@
 {
   "description": "Just some of the many highlights from the <a href=\"spotify:artist:3PhoLpVuITZKcymswpck5b\">Rocket Man</a>'s career.",
-  "num_followers": 1193711,
+  "num_followers": 1193910,
   "original_name": "This Is Elton John",
   "owner": {
     "name": "Spotify",
@@ -786,6 +786,10 @@
         {
           "name": "2Pac",
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
       "duration_ms": 238053,

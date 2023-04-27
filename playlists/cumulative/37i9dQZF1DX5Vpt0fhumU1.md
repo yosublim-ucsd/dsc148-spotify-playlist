@@ -4,7 +4,7 @@
 
 > Soak up the spirit of Spain with a taste of these traditional flamenco and folk tunes.
 
-102 songs - 7 hr 30 min
+103 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Cancion de la Luna](https://open.spotify.com/track/22jn5snbSZJsEamjIogEEH) | [Grupo Elias Duran](https://open.spotify.com/artist/34MmLK8qhpf5Q0BfxXs7UR) | [Spanish Tapas Bar, Vol\. 2](https://open.spotify.com/album/67rNWYVgI01pHZ80vFfVFs) | 2:57 | 2022-01-21 |  |
 | [Creo](https://open.spotify.com/track/13JyTmrmvmcu7kmehSQ0KV) | [La Jose](https://open.spotify.com/artist/55o2GKmozOaWhYDBaFBPC2) | [Espiral](https://open.spotify.com/album/67Ory8eCmGeGNUA3j0wvpd) | 3:38 | 2022-08-30 | 2022-11-13 |
 | [Creo](https://open.spotify.com/track/2sscPI4Kun9uBDjtlQtOb1) | [La Jose](https://open.spotify.com/artist/55o2GKmozOaWhYDBaFBPC2) | [Espiral](https://open.spotify.com/album/5qyHysxc3nUu7AIHEUcjFg) | 3:38 | 2022-01-21 | 2022-07-29 |
-| [Creo](https://open.spotify.com/track/3xLI0IZFsFPa2M18rOIPSV) | [La Jose](https://open.spotify.com/artist/55o2GKmozOaWhYDBaFBPC2) | [Espiral](https://open.spotify.com/album/0ChzWpUTTbq6PRut9pQdSI) | 3:41 | 2022-01-21 |  |
+| [Creo](https://open.spotify.com/track/1fJQeSf3Fqub3crz84vr59) | [La Jose](https://open.spotify.com/artist/55o2GKmozOaWhYDBaFBPC2) | [Espiral](https://open.spotify.com/album/04Lg6FQ96wvUTTDYMci77n) | 3:41 | 2022-08-30 |  |
+| [Creo](https://open.spotify.com/track/3xLI0IZFsFPa2M18rOIPSV) | [La Jose](https://open.spotify.com/artist/55o2GKmozOaWhYDBaFBPC2) | [Espiral](https://open.spotify.com/album/0ChzWpUTTbq6PRut9pQdSI) | 3:41 | 2022-01-21 | 2023-04-27 |
 | [El Lerele](https://open.spotify.com/track/2o0lsWNI9sc0VGMPKarlsq) | [Alhama, Los](https://open.spotify.com/artist/6Gg623dfCM6CrYGBt0twPX) | [Traditional Gypsy Flamenco](https://open.spotify.com/album/40NaiYoHAvxeLv0hj5BViC) | 3:01 | 2022-01-21 |  |
 | [El Lerele](https://open.spotify.com/track/0vAIMY4e3ucMxcyf1Bwe3m) | [Los Alhama](https://open.spotify.com/artist/4wONqd16Nu3igdQL7FQX47) | [Flamenco Passion](https://open.spotify.com/album/6T2VD3jsdAxlDqHEaT62bN) | 2:58 | 2022-08-30 | 2022-11-13 |
 | [El Lerele](https://open.spotify.com/track/7A1prltPZsLqZ1iTROIkhz) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alhama, Los](https://open.spotify.com/artist/6Gg623dfCM6CrYGBt0twPX) | [Traditional Gypsy Flamenco](https://open.spotify.com/album/4kKheS9UXOnll6Wz1fyyv9) | 3:01 | 2022-01-21 | 2022-07-29 |

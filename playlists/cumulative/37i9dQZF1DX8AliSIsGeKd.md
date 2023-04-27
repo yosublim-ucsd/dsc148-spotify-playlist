@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: Anja Schneider
 
-1,715 songs - 6 day 12 hr 15 min
+1,716 songs - 6 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,8 @@
 | [Be The One](https://open.spotify.com/track/63MBVrJ8nADdP4AXbBGlOj) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Be The One](https://open.spotify.com/album/5XtT7YyAjN783nSW9ZtNBo) | 2:46 | 2023-01-27 | 2023-02-10 |
 | [Be with You](https://open.spotify.com/track/3fgxWNJ3v77aTD3r7wvuFW) | [Future Chess Club](https://open.spotify.com/artist/3qhz6nnUi7DZZAEwcGKtGW) | [Be with You](https://open.spotify.com/album/5oaBDmtim3UtbXUPfvC9CR) | 4:04 | 2022-09-01 | 2022-09-17 |
 | [Be Yourself](https://open.spotify.com/track/3dpDUM2GAL97IzMdj6pS4v) | [Sven Tasnadi](https://open.spotify.com/artist/5s05VygMShUXGXitSYkeyo), [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Be Yourself](https://open.spotify.com/album/2YmrkfSFgWJ1dB0PS3VcNW) | 4:48 | 2023-03-09 | 2023-03-25 |
-| [Beam](https://open.spotify.com/track/0FeTPIIjedEjrqUVYmF0e3) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [The Dystopian Episodes](https://open.spotify.com/album/7p9xJOiM70YDJbWPMpVgnh) | 6:22 | 2023-04-20 |  |
+| [Beam](https://open.spotify.com/track/0FeTPIIjedEjrqUVYmF0e3) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [The Dystopian Episodes](https://open.spotify.com/album/7p9xJOiM70YDJbWPMpVgnh) | 6:22 | 2023-04-20 | 2023-04-27 |
+| [Beam](https://open.spotify.com/track/7gkn0Jggf0DQ5EIwHuISOI) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [The Dystopian Episodes](https://open.spotify.com/album/5SEh4cxebfscjQogbRCtwM) | 6:22 | 2023-04-20 |  |
 | [Beautiful Silence \- FKA Mash Afro Glitch](https://open.spotify.com/track/3RA1coQHKERaMErmbcooZq) | [Made By Pete](https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa), [Jinadu](https://open.spotify.com/artist/0o9k6CmDuy07gP28ov82wp), [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq) | [The Forgotten Ones](https://open.spotify.com/album/7pU5AiXXfG7rRkuwWdpunP) | 6:38 | 2022-06-16 | 2022-07-01 |
 | [Bed Behavior](https://open.spotify.com/track/258g9Qp6H3Ujwz8gyAygeT) | [Sven Tasnadi](https://open.spotify.com/artist/5s05VygMShUXGXitSYkeyo), [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Bed Behavior](https://open.spotify.com/album/11NI6xVRKjjz5zPZMfXidA) | 4:22 | 2023-01-27 | 2023-02-10 |
 | [Beginners](https://open.spotify.com/track/0j57BWxNCZ20D7Gsy4dPSB) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Power Of Today EP](https://open.spotify.com/album/7EuAisoRLrG0b9XRKm5DvG) | 6:13 | 2023-02-10 | 2023-02-24 |

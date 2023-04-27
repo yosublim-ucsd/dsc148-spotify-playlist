@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 
 > This is El Chapo De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,433 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,479 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 | 37 | [En La Misma Cama \- Dueto Con El Chapo](https://open.spotify.com/track/1n4DFTRlF1W3X9OZeD4XqY) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5), [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [30 Aniversario Duetos](https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm) | 2:54 |
 | 38 | [Le Dire Que Me Gusta](https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t), [Frank Velasquez](https://open.spotify.com/artist/63QGsk6k2QujcYZH5kxNbq) | [Mayor de Edad](https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ) | 3:11 |
 | 39 | [Bendito Amor](https://open.spotify.com/track/2q90JXPdfexbgjWGWHvHOP) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 3:26 |
-| 40 | [Alma De Rey](https://open.spotify.com/track/2MYRLTbJBYYeajqcT9q3Lk) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Alma De Rey](https://open.spotify.com/album/2pHURxEnjrk6XfXtdXgFry) | 2:44 |
-| 41 | [Inevitable](https://open.spotify.com/track/3IUNzzk29r37Xa78FNwQng) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Triunfador](https://open.spotify.com/album/2G0Mvzab2JrxgJdNpoD9dU) | 2:38 |
+| 40 | [Inevitable](https://open.spotify.com/track/3IUNzzk29r37Xa78FNwQng) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Triunfador](https://open.spotify.com/album/2G0Mvzab2JrxgJdNpoD9dU) | 2:38 |
+| 41 | [Alma De Rey](https://open.spotify.com/track/2MYRLTbJBYYeajqcT9q3Lk) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Alma De Rey](https://open.spotify.com/album/2pHURxEnjrk6XfXtdXgFry) | 2:44 |
 | 42 | [Contigo Me Gusta](https://open.spotify.com/track/2MGe6zekKWb3Tpd1aZ3r69) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Para Siempre](https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd) | 3:06 |
 | 43 | [Sea Lo Que Sea](https://open.spotify.com/track/2kiKVXbHnLIYaogcR9rb2T) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 3:18 |
 | 44 | [Que Se Mueran de Envidia](https://open.spotify.com/track/06kCDtb1mG5nCjf8VOZmxD) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Que Se Mueran de Envidia](https://open.spotify.com/album/040eUd8jkUXnYW8ceUAVOQ) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 | 49 | [El Dolido](https://open.spotify.com/track/3QUVQh9YRliiLmBShel2DO) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Serie 33](https://open.spotify.com/album/1y6TyvJYOv3725PqA2LPSV) | 3:09 |
 | 50 | [Loco \(Version Mariachi\)](https://open.spotify.com/track/1n2PoW1W7t6u2OtHPfYHYq) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Loco \(Version Mariachi\)](https://open.spotify.com/album/0tG5uSGSrroWvjjfHljhas) | 3:01 |
 
-Snapshot ID: `MjgwNDA0NDAsMDAwMDAwMDBhY2ZkM2M5YjQ2OWMwNWQ3NDY1YjhiY2EyNjI1NDlkOA==`
+Snapshot ID: `MjgwNDE5MzAsMDAwMDAwMDAwNTc3ZGRkMzRjOWM4ZjJjNmQ1ZmQ3Y2UyYWExOGJkNg==`

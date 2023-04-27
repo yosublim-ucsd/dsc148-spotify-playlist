@@ -1,12 +1,12 @@
 {
   "description": "75 ways to cope with your Indie fomo. Pixey on cover.",
-  "num_followers": 9975,
+  "num_followers": 9973,
   "original_name": "Indie songs from 2022 you may have missed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgyNTc2NSwwMDAwMDAwMDQzMmM3MGU5YmU0MWFkMzM5MTY1Njc5ODc3MGY1YzA2",
+  "snapshot_id": "MTY2OTgyNTc2NSwwMDAwMDAwMGJiNzg4YzhhZGJjNmU2NDNlM2JmM2NkMzcyNGRmMDRh",
   "tracks": [
     {
       "added_at": "2022-11-30 13:45:00",
@@ -163,22 +163,6 @@
       "duration_ms": 167328,
       "name": "Crash Course (feat. Biig Piig)",
       "url": "https://open.spotify.com/track/75xEZnNXRr4G2kZ15fREXo"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Girls",
-        "url": "https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH"
-      },
-      "artists": [
-        {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
-        }
-      ],
-      "duration_ms": 119558,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -455,6 +439,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Break!",
+        "url": "https://open.spotify.com/album/3hB4arhUMH7fMOKJo2QMct"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 184240,
+      "name": "Come Apart",
+      "url": "https://open.spotify.com/track/3P0i4DS9lKw5kO5z3fUB79"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/4kFbR4ZpknTMGS1h404I5c"
       },
@@ -483,22 +483,6 @@
       "duration_ms": 202076,
       "name": "Not There",
       "url": "https://open.spotify.com/track/1e1bUo8cxd9JHABlXnmBMl"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Break!",
-        "url": "https://open.spotify.com/album/3hB4arhUMH7fMOKJo2QMct"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 184240,
-      "name": "Come Apart",
-      "url": "https://open.spotify.com/track/3P0i4DS9lKw5kO5z3fUB79"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -551,6 +535,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Yesterday Is Heavy",
+        "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
+      },
+      "artists": [
+        {
+          "name": "Lil Silva",
+          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
+        }
+      ],
+      "duration_ms": 230730,
+      "name": "Another Sketch",
+      "url": "https://open.spotify.com/track/5GrRMVHfh3fnPERa4MCJDl"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "voltarpramim",
         "url": "https://open.spotify.com/album/27NsbOnymNnUYQXA49dCkb"
       },
@@ -583,18 +583,34 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Yesterday Is Heavy",
-        "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/2fH2641iiOweBzDveY6QxM"
       },
       "artists": [
         {
-          "name": "Lil Silva",
-          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
         }
       ],
-      "duration_ms": 230730,
-      "name": "Another Sketch",
-      "url": "https://open.spotify.com/track/5GrRMVHfh3fnPERa4MCJDl"
+      "duration_ms": 119558,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/1J7PghJCXSry2djsrflxdq"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Sharks",
+        "url": "https://open.spotify.com/album/4MxJJYvCOlCWuijbd9pp6B"
+      },
+      "artists": [
+        {
+          "name": "BROCKHOFF",
+          "url": "https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ"
+        }
+      ],
+      "duration_ms": 211135,
+      "name": "Ever Since We Met",
+      "url": "https://open.spotify.com/track/3nPFzf6sWVuTHU5fccyD71"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -631,22 +647,6 @@
       "duration_ms": 183183,
       "name": "Mirror Dance",
       "url": "https://open.spotify.com/track/6wkEVMI1r7p1GbWWVts8kv"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Sharks",
-        "url": "https://open.spotify.com/album/4MxJJYvCOlCWuijbd9pp6B"
-      },
-      "artists": [
-        {
-          "name": "BROCKHOFF",
-          "url": "https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ"
-        }
-      ],
-      "duration_ms": 211135,
-      "name": "Ever Since We Met",
-      "url": "https://open.spotify.com/track/3nPFzf6sWVuTHU5fccyD71"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Mott St",
-        "url": "https://open.spotify.com/album/4bh3QrfPzT6TshaW2AqdSE"
-      },
-      "artists": [
-        {
-          "name": "Celia",
-          "url": "https://open.spotify.com/artist/71RT3mHZZaCdUHKzKTbb92"
-        }
-      ],
-      "duration_ms": 175945,
-      "name": "Mott St",
-      "url": "https://open.spotify.com/track/05v8laWO5qGrmLxwDBoowM"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/0leJivQY7JFPZMvefb3Hlr"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 203853,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1yY6W3JfpkwaOTTtE2iNvo"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Mott St",
+        "url": "https://open.spotify.com/album/4bh3QrfPzT6TshaW2AqdSE"
+      },
+      "artists": [
+        {
+          "name": "Celia",
+          "url": "https://open.spotify.com/artist/71RT3mHZZaCdUHKzKTbb92"
+        }
+      ],
+      "duration_ms": 175945,
+      "name": "Mott St",
+      "url": "https://open.spotify.com/track/05v8laWO5qGrmLxwDBoowM"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Baby You\u2019re the One I Need",
-        "url": "https://open.spotify.com/album/2uO9yAwV5SztvzqHRNmNb6"
-      },
-      "artists": [
-        {
-          "name": "TYNSKY",
-          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
-        }
-      ],
-      "duration_ms": 163125,
-      "name": "Baby You\u2019re the One I Need",
-      "url": "https://open.spotify.com/track/7hbO2gpSh8ODI0K0iqytsC"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Heterotopia",
         "url": "https://open.spotify.com/album/1npykN4Zpbo7FQR61o1oAr"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 197500,
       "name": "Preacher",
       "url": "https://open.spotify.com/track/4QFFhLBBvMyb6USdMYV6eN"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Baby You\u2019re the One I Need",
+        "url": "https://open.spotify.com/album/2uO9yAwV5SztvzqHRNmNb6"
+      },
+      "artists": [
+        {
+          "name": "TYNSKY",
+          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
+        }
+      ],
+      "duration_ms": 163125,
+      "name": "Baby You\u2019re the One I Need",
+      "url": "https://open.spotify.com/track/7hbO2gpSh8ODI0K0iqytsC"
     },
     {
       "added_at": "2022-11-30 13:45:00",

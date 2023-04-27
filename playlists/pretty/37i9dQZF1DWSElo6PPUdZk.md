@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Baani Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,980 likes - 52 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,999 likes - 52 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 2 | [Yakeen](https://open.spotify.com/track/0LLmJi2lkz03Eridu6kzBQ) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Tini \- EP](https://open.spotify.com/album/2ieFpeF1ll67TuqGjmOJP3) | 4:52 |
 | 3 | [Shikayatan](https://open.spotify.com/track/4M0gBdxmNHpFql2o3lre9t) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Shikayatan](https://open.spotify.com/album/392bVyibCeU6hQJN494LoW) | 2:40 |
 | 4 | [Raule](https://open.spotify.com/track/1IDO3YDXZEpBIT53R6QJSe) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Above All](https://open.spotify.com/album/5MIukl4CU37RkKANzs0UbG) | 3:15 |
-| 5 | [Routine](https://open.spotify.com/track/2QTCe4GzV85PZlu0t1ybGU) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Routine](https://open.spotify.com/album/1HjNtwpnWn3Jy85DJBn2qn) | 3:23 |
+| 5 | [Routine](https://open.spotify.com/track/2QTCe4GzV85PZlu0t1ybGU) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Kaptaan](https://open.spotify.com/artist/2czXapo5pWGIMCK0CVxxGl) | [Routine](https://open.spotify.com/album/1HjNtwpnWn3Jy85DJBn2qn) | 3:23 |
 | 6 | [8 Parche](https://open.spotify.com/track/42ETKyApzUl8hTtytFAjen) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [8 Parche](https://open.spotify.com/album/5vMZWQdiqWB8iaeqnBfdRu) | 3:30 |
 | 7 | [Jee Jeha Karda](https://open.spotify.com/track/71jkE3pPYmg8v0nrU8Mhn1) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Jee Jeha Karda](https://open.spotify.com/album/1xYMYWzzEYlV1yxpjDYojp) | 3:35 |
 | 8 | [Jhanjar](https://open.spotify.com/track/5HOzhBs1Oos4eAadzqmjhy) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [The Boss Lady](https://open.spotify.com/album/6RIkd4UrDkJ1N0BUvtuhy3) | 2:38 |

@@ -1,12 +1,12 @@
 {
   "description": "Sangre fresca en las escenas del indie y el rock. El Mat\u00f3 a un Polic\u00eda Motorizado en portada.",
-  "num_followers": 144194,
+  "num_followers": 144273,
   "original_name": "EL ROCK NO HA MUERTO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA1NjgwMCwwMDAwMDAwMGNjY2Q2MTA5MTg2MWZkNGE5NjBlYzc5NzFjMzg1YmRl",
+  "snapshot_id": "MTY4MjA1NjgwMCwwMDAwMDAwMGM5NDFjMTBmMDUxMTkyMmU2YjIxZWMyNWNjMjA0NmMz",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -367,26 +367,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Mamita Santa",
-        "url": "https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R"
-      },
-      "artists": [
-        {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 239400,
-      "name": "Mamita Santa",
-      "url": "https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Himno (para los que est\u00e1n jodidos)",
         "url": "https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 185790,
       "name": "Himno (para los que est\u00e1n jodidos)",
       "url": "https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Mamita Santa",
+        "url": "https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 239400,
+      "name": "Mamita Santa",
+      "url": "https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1255,18 +1255,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Realidad Aparente",
-        "url": "https://open.spotify.com/album/7qgEurNldCzTbsDCy8FxDA"
+        "name": "Brillando",
+        "url": "https://open.spotify.com/album/3cpu7Bc6c6VQw6VBnHw6i6"
       },
       "artists": [
         {
-          "name": "Los Romanticos de Zacatecas",
-          "url": "https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg"
+          "name": "Pehuenche",
+          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
+        },
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
         }
       ],
-      "duration_ms": 101702,
-      "name": "Realidad Aparente",
-      "url": "https://open.spotify.com/track/7JJ8lSAxz7NaVTNiTcYwBc"
+      "duration_ms": 271336,
+      "name": "Brillando",
+      "url": "https://open.spotify.com/track/0LWWuL2b4xRHe0AzerNRl6"
     }
   ],
   "unique_name": "EL ROCK NO HA MUERTO",

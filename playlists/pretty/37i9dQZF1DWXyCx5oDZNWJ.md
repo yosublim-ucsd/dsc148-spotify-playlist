@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 
 > <a href="spotify:artist:3CdsJ9u53uPu3dScKypLVv">Shkoon</a>'s favorite tracks\. Updated regularly\. Curated by Shkoon\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,084 likes - 62 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,115 likes - 62 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [FIRAQ \- Live Album](https://open.spotify.com/track/3Vh0j8QfllQZfXDijRfnmS) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [FIRAQ](https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV) | 3:14 |
 | 2 | [Makana](https://open.spotify.com/track/5MckryuzcHvLAEd5i9qQTC) | [Hello Psychaleppo](https://open.spotify.com/artist/0yRYo9ej1JqOzFyVvLe00O) | [Jismal](https://open.spotify.com/album/5zPHDz7xdtRB89hqstwsAr) | 4:18 |
-| 3 | [Ttabla \- Musique de Fête, Vol\. 2](https://open.spotify.com/track/3TjKcuADUBqMZ7LnzSlvIA) | [TAXI KEBAB](https://open.spotify.com/artist/47sKkybVg9NVz7IWvTezzy) | [Ttabla \(Musique de Fête, Vol\. 2\)](https://open.spotify.com/album/3UqLlTztgBzTeL8eLymzTb) | 4:53 |
+| 3 | [Ttabla \- Musique de Fête, Vol\. 2](https://open.spotify.com/track/3TjKcuADUBqMZ7LnzSlvIA) | [TAXI KEBAB](https://open.spotify.com/artist/47sKkybVg9NVz7IWvTezzy), [Musique de Fête](https://open.spotify.com/artist/5WSUo5rvcvi9uNBmnk947E) | [Ttabla \(Musique de Fête, Vol\. 2\)](https://open.spotify.com/album/3UqLlTztgBzTeL8eLymzTb) | 4:53 |
 | 4 | [Remotely Close: Silkyway](https://open.spotify.com/track/0BXH0C0UGvO1n9mY05inan) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Elif Çağlar](https://open.spotify.com/artist/4329Rqrv9R9wc832cqQCVv) | [Remotely Close: Silkyway](https://open.spotify.com/album/5nL5SYYGIFR9biH2Qb57Yw) | 3:50 |
 | 5 | [Our Time](https://open.spotify.com/track/66Bkuqk6ILLs7fAxykYoce) | [Pender Street Steppers](https://open.spotify.com/artist/02V0FAoWiTFWMT36s1Yt1a) | [Our Time](https://open.spotify.com/album/0Jge7w86SFk9oadmO4zyrR) | 6:23 |
 | 6 | [Necessary Death](https://open.spotify.com/track/1w3RWywrjjFWBzbTeEyQMH) | [Rotana](https://open.spotify.com/artist/71GNEpAyOatoAy5oo9Av1q) | [Necessary Death](https://open.spotify.com/album/5tRzJFrXE1KIIL8QUptdOd) | 2:44 |

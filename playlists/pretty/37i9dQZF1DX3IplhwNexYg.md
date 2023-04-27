@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 
 > The best in current indie rock\. Cover: Gengahr
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,265 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,267 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 32 | [Alright](https://open.spotify.com/track/57BvpyURy7xPYKgbPRaynf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Alright](https://open.spotify.com/album/2rUWCf2wXA1PMK3NUckp2p) | 4:24 |
 | 33 | [Weeds](https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:22 |
 | 34 | [Do You Wanna Talk](https://open.spotify.com/track/32SDqcUr2HkSJ20NlHcMBe) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Do You Wanna Talk](https://open.spotify.com/album/1M9rhdjdrp2azAxUtavJuX) | 2:26 |
-| 35 | [Follow You Down](https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Follow You Down](https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc) | 2:16 |
-| 36 | [I Was Neon](https://open.spotify.com/track/4PXjrpBSAXim7Zm0W3yVjQ) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5) | 4:02 |
+| 35 | [I Was Neon](https://open.spotify.com/track/4PXjrpBSAXim7Zm0W3yVjQ) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5) | 4:02 |
+| 36 | [Follow You Down](https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Follow You Down](https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc) | 2:16 |
 | 37 | [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 |
 | 38 | [Smile](https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 3:16 |
 | 39 | [Hello Alien](https://open.spotify.com/track/4apqIevNZl1POiQccrGWls) | [Nathan Day](https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX) | [Hello Alien](https://open.spotify.com/album/0dZ0p4707siTGOUEvr98D5) | 3:25 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 43 | [In My Head](https://open.spotify.com/track/2Hle4CAsxaWCBhfQuOCsZX) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [In My Head](https://open.spotify.com/album/3cXbQAwXV8OXJbxlSCrDWQ) | 3:18 |
 | 44 | [Everybody's Saying Thursday's The Weekend](https://open.spotify.com/track/1uK65VcfQeZ6cPxnUm0TCv) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Everybody's Saying Thursday's The Weekend](https://open.spotify.com/album/4S0L38drU7rEOg4KzvN5lY) | 3:04 |
 | 45 | [Swampy](https://open.spotify.com/track/1JfO7XSiLjbOlCIqDwg3ja) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Swampy & Sombre Two](https://open.spotify.com/album/5GDEoqKD2xARNtyX5EiTh5) | 3:33 |
-| 46 | [Someone2Me](https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Someone2Me](https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n) | 3:46 |
-| 47 | [Time](https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Good Old](https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34) | 4:22 |
+| 46 | [Time](https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Good Old](https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34) | 4:22 |
+| 47 | [Someone2Me](https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Someone2Me](https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n) | 3:46 |
 | 48 | [Six\-Pack](https://open.spotify.com/track/1bSJ7EeizSSw8oa6g2qVSi) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 3:51 |
 | 49 | [Give It Up To Love](https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Somebody's Child](https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8) | 3:13 |
 | 50 | [SCARING ME](https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [DOOM](https://open.spotify.com/album/6yAkt0vfWLVTgkcvp5dVio) | 3:51 |
@@ -69,16 +69,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 59 | [19 in a Week](https://open.spotify.com/track/3rhwcOaX6HbsUmZCizAc06) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Young & Naive](https://open.spotify.com/album/1TxGtjJWDD0k1WZPHmnNMJ) | 3:13 |
 | 60 | [Freedom](https://open.spotify.com/track/5jqIjKNwbiSPgjyfEzv8bH) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Freedom](https://open.spotify.com/album/4VeaoBmW52Nw0tbazyyFEb) | 4:08 |
 | 61 | [What You Did](https://open.spotify.com/track/3PfPDRwntf2v4iohiINx7s) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [What You Did](https://open.spotify.com/album/3zJKF1QzRphIyM2V2qEbnP) | 3:02 |
-| 62 | [The Drop](https://open.spotify.com/track/7zWPaL2lqEuGnsNCK6WE40) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Gulp!](https://open.spotify.com/album/2bslpjCiGWMgPt2GCdllkH) | 2:58 |
-| 63 | [What’s Wrong With Me](https://open.spotify.com/track/4T7MuEyOso6rFFp3Ouvpse) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Sitting Pretty](https://open.spotify.com/album/7zMPk5h5WVOP2lr7vhlQPu) | 3:22 |
-| 64 | [No Rule](https://open.spotify.com/track/5SvYRapjngsO2dYfBC9ZXV) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [No Rule](https://open.spotify.com/album/3q44ueZD50lWp4BXm0GDcE) | 5:25 |
-| 65 | [Dreamer](https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Dreamer](https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V) | 3:53 |
+| 62 | [Dreamer](https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Dreamer](https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V) | 3:53 |
+| 63 | [The Drop](https://open.spotify.com/track/7zWPaL2lqEuGnsNCK6WE40) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Gulp!](https://open.spotify.com/album/2bslpjCiGWMgPt2GCdllkH) | 2:58 |
+| 64 | [What’s Wrong With Me](https://open.spotify.com/track/4T7MuEyOso6rFFp3Ouvpse) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Sitting Pretty](https://open.spotify.com/album/7zMPk5h5WVOP2lr7vhlQPu) | 3:22 |
+| 65 | [No Rule](https://open.spotify.com/track/5SvYRapjngsO2dYfBC9ZXV) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [No Rule](https://open.spotify.com/album/3q44ueZD50lWp4BXm0GDcE) | 5:25 |
 | 66 | [I Wanna Dance With You](https://open.spotify.com/track/4uwPEKdiVnXiscrLgk5666) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 2:54 |
 | 67 | [Self Fulfilling Prophecy](https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:49 |
-| 68 | [Whenever You Want](https://open.spotify.com/track/29JgcW00N8IGqzCFi606BC) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Whenever You Want](https://open.spotify.com/album/6X4bM4abuCymcZAFHnRS25) | 3:59 |
-| 69 | [Anything](https://open.spotify.com/track/0by0AKBoLYhR8wKd9MkqGq) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Anything](https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6) | 2:23 |
-| 70 | [My Very Best](https://open.spotify.com/track/5mKhfuj8pEPFDUwnStFHKN) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [My Very Best](https://open.spotify.com/album/7Iwsrk4q7oW0kYXWXwOpK6) | 3:17 |
-| 71 | [Alright](https://open.spotify.com/track/1J5d0ELID0QInebg1Sl3JJ) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Alright](https://open.spotify.com/album/0gGGoMyxPz6CKGjmoWJGmv) | 2:36 |
+| 68 | [Anything](https://open.spotify.com/track/0by0AKBoLYhR8wKd9MkqGq) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Anything](https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6) | 2:23 |
+| 69 | [Whenever You Want](https://open.spotify.com/track/29JgcW00N8IGqzCFi606BC) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Whenever You Want](https://open.spotify.com/album/6X4bM4abuCymcZAFHnRS25) | 3:59 |
+| 70 | [Alright](https://open.spotify.com/track/1J5d0ELID0QInebg1Sl3JJ) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Alright](https://open.spotify.com/album/0gGGoMyxPz6CKGjmoWJGmv) | 2:36 |
+| 71 | [My Very Best](https://open.spotify.com/track/5mKhfuj8pEPFDUwnStFHKN) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [My Very Best](https://open.spotify.com/album/7Iwsrk4q7oW0kYXWXwOpK6) | 3:17 |
 | 72 | [Carolina Reaper](https://open.spotify.com/track/4O717610RkQp7cpTdVfmko) | [Chilli Jesson](https://open.spotify.com/artist/0P82gDbkEJK1FBV6vKZLqc) | [Carolina Reaper](https://open.spotify.com/album/6kkeTinxEaRFMyVYsOItnL) | 3:38 |
 | 73 | [Oval Stones](https://open.spotify.com/track/5jumXLjj8yhQ0j1Af8XZS1) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Exotico](https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ) | 3:33 |
 | 74 | [Risk to my Reward](https://open.spotify.com/track/1JblypDgd1ha2p2BlFvu3s) | [Tycho Jones](https://open.spotify.com/artist/040Wu7p6ehPK6ozMgKd5dm) | [Risk to my Reward](https://open.spotify.com/album/3FnkCJPLPKEKp11cWNmRjw) | 2:51 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 79 | [Avalanche](https://open.spotify.com/track/0LIekCgqw0a3Ule7WtPfBJ) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Avalanche](https://open.spotify.com/album/2Rntp0bJx7YKBmV3Kg8wbm) | 3:10 |
 | 80 | [Trouble](https://open.spotify.com/track/2NZyf2jJaf0PntMfTe5fPf) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Trouble](https://open.spotify.com/album/3LdfZrdlKsanntRZHYncJr) | 3:51 |
 
-Snapshot ID: `MTY4MTQyNjgwMCwwMDAwMDAwMGIwZjBmMjM2MzUzNGI2ZjYyMWJlNDU4MmExNjMyNjcy`
+Snapshot ID: `MTY4MTQyNjgwMCwwMDAwMDAwMDk4MjczOTA2M2YyMDU1NDNlNDQ1NTgxN2FmODk4MDcy`

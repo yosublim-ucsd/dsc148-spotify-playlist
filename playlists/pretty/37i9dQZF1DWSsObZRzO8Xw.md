@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 
 > Welcome to the universe of complex rhythms and mesmerizing loops\. Cover: toe
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,839 likes - 90 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,974 likes - 90 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

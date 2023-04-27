@@ -4,7 +4,7 @@
 
 > Una eufórica dosis de urbano romántico en español.
 
-107 songs - 6 hr 21 min
+108 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [Te Marqué Pedo](https://open.spotify.com/track/4JfWJOuhXu0QVnev3jgC9S) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Te Marqué Pedo](https://open.spotify.com/album/5whw8haonqjs15S7DzG4Pv) | 3:36 | 2022-05-25 | 2022-07-29 |
 | [Te Marqué Pedo](https://open.spotify.com/track/4hAYQuavbB0FYhyxBTbVal) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Te Marqué Pedo](https://open.spotify.com/album/5RY8g4VHQsgPDxewtnPIEX) | 3:36 | 2022-06-27 |  |
 | [Te Voy a Extrañar](https://open.spotify.com/track/0oUMLrNG36I7PaZHF2MbvL) | [Achepe](https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM) | [Te Voy a Extrañar](https://open.spotify.com/album/4BICaJLey3jzPoFaGYIp3W) | 3:18 | 2023-02-10 |  |
-| [Tenemos Que Admitirlo](https://open.spotify.com/track/06eonGKdzSinzB7CSSF8hM) | [Solo Cadaver](https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy), [Elijah Parrish](https://open.spotify.com/artist/34QOYfoMpFy3fvpj9YiTui), [Lil Benjas](https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP) | [Tar](https://open.spotify.com/album/1T2CE7PJA6h7hdVgV74uyU) | 3:31 | 2023-03-10 |  |
+| [Tenemos Que Admitirlo](https://open.spotify.com/track/06eonGKdzSinzB7CSSF8hM) | [Solo Cadaver](https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy), [Elijah Parrish](https://open.spotify.com/artist/34QOYfoMpFy3fvpj9YiTui), [Lil Benjas](https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP) | [Tar](https://open.spotify.com/album/1T2CE7PJA6h7hdVgV74uyU) | 3:31 | 2023-03-10 | 2023-04-27 |
+| [Tenemos Que Admitirlo](https://open.spotify.com/track/3IamQFqgbiBdv9IyrRoYMf) | [Solo Cadaver](https://open.spotify.com/artist/0nJMsYBFq21salzctioYYc), [Lil Benjas](https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP), [Elijah Parrish](https://open.spotify.com/artist/6ZI3Wz5J84OYkaElzhkgaJ) | [Tar](https://open.spotify.com/album/0aTPIlmgdGC0vmoRw1cWtt) | 3:31 | 2023-04-14 |  |
 | [Tienes el Don](https://open.spotify.com/track/2Jy1ib8MqDe2BoOoHvFxa6) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Inéditos](https://open.spotify.com/album/3i4B0RDk45Aaul2HKQxUPN) | 4:01 | 2022-05-25 |  |
 | [Tocame](https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 3:53 | 2022-05-25 |  |
 | [Todo Menso](https://open.spotify.com/track/7Cz1P6tmbAOqLrZMh5Z5T8) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Todo Menso](https://open.spotify.com/album/3YlsvvJJGrV32DPTruOIyH) | 3:11 | 2023-02-17 |  |

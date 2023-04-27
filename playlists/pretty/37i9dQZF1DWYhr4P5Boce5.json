@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 193197,
+  "num_followers": 193258,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTE1OTI3MiwwMDAwMDAwMGM5YzkyZjljYmFkMDE3MDdkNzk3ODliMWFhZGUyMzI5",
+  "snapshot_id": "MTY3NTE1OTI3MiwwMDAwMDAwMDk1YjQwYjkwYWY0ODkwOGEyN2Y4NTZkMTU5ODJiNjAw",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Meant to Be",
-        "url": "https://open.spotify.com/album/1SC4K6OlwiX7QGUfdBHneY"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 186373,
-      "name": "Meant to Be",
-      "url": "https://open.spotify.com/track/2YGu3QpHqj5AHtS8RzFQdW"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Hold Me Close",
         "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
       },
@@ -679,18 +663,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
+        "name": "Meant to Be",
+        "url": "https://open.spotify.com/album/1SC4K6OlwiX7QGUfdBHneY"
       },
       "artists": [
         {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
         }
       ],
-      "duration_ms": 191476,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
+      "duration_ms": 186373,
+      "name": "Meant to Be",
+      "url": "https://open.spotify.com/track/2YGu3QpHqj5AHtS8RzFQdW"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -711,6 +695,22 @@
       "duration_ms": 214693,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "The Soul",
-        "url": "https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 219653,
-      "name": "Pilots",
-      "url": "https://open.spotify.com/track/1t3koreZmmgvTYvxATwqfz"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Carry Me",
         "url": "https://open.spotify.com/album/4xjAeY5J7q6iHlRWEF07b0"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 177658,
       "name": "What A Mystery",
       "url": "https://open.spotify.com/track/2FYSON92zpz3iiDAmG2IMg"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "The Soul",
+        "url": "https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "Pilots",
+      "url": "https://open.spotify.com/track/1t3koreZmmgvTYvxATwqfz"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Till I Found You",
-        "url": "https://open.spotify.com/album/5L2f38aOPJFTaIRroRdIou"
-      },
-      "artists": [
-        {
-          "name": "Becca Bradley",
-          "url": "https://open.spotify.com/artist/0qPGusro9QlIqKGlgywzRU"
-        }
-      ],
-      "duration_ms": 206999,
-      "name": "Till I Found You",
-      "url": "https://open.spotify.com/track/2OIKoFzOuVX6ORP65DSeV4"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Colton Dixon",
         "url": "https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 200538,
       "name": "Can't Quit You",
       "url": "https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Till I Found You",
+        "url": "https://open.spotify.com/album/5L2f38aOPJFTaIRroRdIou"
+      },
+      "artists": [
+        {
+          "name": "Becca Bradley",
+          "url": "https://open.spotify.com/artist/0qPGusro9QlIqKGlgywzRU"
+        }
+      ],
+      "duration_ms": 206999,
+      "name": "Till I Found You",
+      "url": "https://open.spotify.com/track/2OIKoFzOuVX6ORP65DSeV4"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/6HQYLXyQt5ZZtuUGIkBbjw"
+      },
+      "artists": [
+        {
+          "name": "Marie Love",
+          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/6KcldlI0awLZXnw0fQ8eA6"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Without Your Love",
         "url": "https://open.spotify.com/album/6BuV4qg8WtUZ5Zqr8rx2wC"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 179271,
       "name": "Without Your Love",
       "url": "https://open.spotify.com/track/3iAbaEO9MYGn2tcRxNEG8l"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Wait For You",
-        "url": "https://open.spotify.com/album/6HQYLXyQt5ZZtuUGIkBbjw"
-      },
-      "artists": [
-        {
-          "name": "Marie Love",
-          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Wait For You",
-      "url": "https://open.spotify.com/track/6KcldlI0awLZXnw0fQ8eA6"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Overcomer",
+        "url": "https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4"
+      },
+      "artists": [
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        }
+      ],
+      "duration_ms": 214746,
+      "name": "Praying For You",
+      "url": "https://open.spotify.com/track/0A5aXD5e3bYFn9oAWv9iCT"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Can't Help Falling In Love",
         "url": "https://open.spotify.com/album/3O70Kh0BAydzBQAZXpxJ7Y"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 171150,
       "name": "Can't Help Falling In Love - LIGHT",
       "url": "https://open.spotify.com/track/07vX2XhvGzxkHTaQ141AbB"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Overcomer",
-        "url": "https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4"
-      },
-      "artists": [
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        }
-      ],
-      "duration_ms": 214746,
-      "name": "Praying For You",
-      "url": "https://open.spotify.com/track/0A5aXD5e3bYFn9oAWv9iCT"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Heartland",
-        "url": "https://open.spotify.com/album/10INpN8kO8dltcAhRMDO0d"
-      },
-      "artists": [
-        {
-          "name": "John Tibbs",
-          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
-        }
-      ],
-      "duration_ms": 223445,
-      "name": "Midwest Magic",
-      "url": "https://open.spotify.com/track/3NDDJKePW2oFn9mP2JWyo6"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Here's to Second Chances",
         "url": "https://open.spotify.com/album/0Pko8NSnBtYKA8azsgODxB"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 178748,
       "name": "What Will She Say",
       "url": "https://open.spotify.com/track/6umFCRLAaJPdJgRHUIyZZV"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Heartland",
+        "url": "https://open.spotify.com/album/10INpN8kO8dltcAhRMDO0d"
+      },
+      "artists": [
+        {
+          "name": "John Tibbs",
+          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
+        }
+      ],
+      "duration_ms": 223445,
+      "name": "Midwest Magic",
+      "url": "https://open.spotify.com/track/3NDDJKePW2oFn9mP2JWyo6"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "'90s Kids",
+        "url": "https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h"
+      },
+      "artists": [
+        {
+          "name": "LaPeer",
+          "url": "https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc"
+        }
+      ],
+      "duration_ms": 206987,
+      "name": "Letters",
+      "url": "https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "How Much You Mean To Me",
         "url": "https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 218129,
       "name": "How Much You Mean To Me",
       "url": "https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Dear Future Husband",
-        "url": "https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 268179,
-      "name": "Dear Future Husband",
-      "url": "https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Dear Future Husband",
+        "url": "https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9"
+      },
+      "artists": [
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 268179,
+      "name": "Dear Future Husband",
+      "url": "https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Who Knew It Would Be So Hard to Be Myself",
         "url": "https://open.spotify.com/album/6eBJuL3GwpgThGG4PIyqnh"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 230808,
       "name": "Big Ole Love",
       "url": "https://open.spotify.com/track/2i2ifLGv9NBaMLhCSRF6eM"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "True Beauty",
-        "url": "https://open.spotify.com/album/5UKGADu3H0tfBHo2iE38re"
-      },
-      "artists": [
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        }
-      ],
-      "duration_ms": 228093,
-      "name": "Love Somebody",
-      "url": "https://open.spotify.com/track/0MLw3p1PWOsbDMwSzV8Gw0"
     }
   ],
   "unique_name": "Higher Love",

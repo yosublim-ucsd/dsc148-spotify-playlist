@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "Bel Salamah",
+        "url": "https://open.spotify.com/album/7us6HjjHLdI7eHRzHEfzSx"
+      },
+      "artists": [
+        {
+          "name": "Aseel Hameem",
+          "url": "https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337368,
+      "name": "Bel Salamah",
+      "url": "https://open.spotify.com/track/6BPAlkPIa5LDBrJ2FzT6vl"
+    },
+    {
+      "album": {
         "name": "Chokran",
         "url": "https://open.spotify.com/album/09wY9vArfB6xzsNaRfwuZ1"
       },
@@ -544,6 +562,24 @@
       "duration_ms": 272250,
       "name": "Hatet Yadak",
       "url": "https://open.spotify.com/track/0hnemjZiAz2E1jg83hsQl0"
+    },
+    {
+      "album": {
+        "name": "Hawah Al Galb",
+        "url": "https://open.spotify.com/album/3EnxQsWBV0QcyMkgxDEdIT"
+      },
+      "artists": [
+        {
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196291,
+      "name": "Hawah Al Galb",
+      "url": "https://open.spotify.com/track/5BlZZscTZ3xbYVPbvqYOK2"
     },
     {
       "album": {

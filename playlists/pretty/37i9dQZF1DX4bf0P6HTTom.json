@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 137742,
+  "num_followers": 137796,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMDk4ZWNiZjVlOTVmOTE3ZWUzNzJmZGYyZmViMWU3OTg2",
+  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMDg4M2FkZDg3MDFhYWQ0M2JlZDUwYjJjYTJhZTNjYjAz",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -611,6 +611,38 @@
     {
       "added_at": "2022-06-01 14:18:36",
       "album": {
+        "name": "Road Trip Blues Rock",
+        "url": "https://open.spotify.com/album/5WHwosaLhR8vDOBMWZFFcQ"
+      },
+      "artists": [
+        {
+          "name": "Nitty Gritty Dirt Band",
+          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+        }
+      ],
+      "duration_ms": 222773,
+      "name": "Cadillac Ranch",
+      "url": "https://open.spotify.com/track/7ny63lhhFA36LKmtu4IxiW"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "No Other",
+        "url": "https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY"
+      },
+      "artists": [
+        {
+          "name": "Gene Clark",
+          "url": "https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX"
+        }
+      ],
+      "duration_ms": 391773,
+      "name": "Strength of Strings",
+      "url": "https://open.spotify.com/track/0ORYA6kaMWPKtHDPcea16a"
+    },
+    {
+      "added_at": "2022-06-01 14:18:36",
+      "album": {
         "name": "Austinology - Alleys of Austin",
         "url": "https://open.spotify.com/album/7sYNpOIkgegedM6myq1IK1"
       },
@@ -655,22 +687,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "No Other",
-        "url": "https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY"
-      },
-      "artists": [
-        {
-          "name": "Gene Clark",
-          "url": "https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX"
-        }
-      ],
-      "duration_ms": 391773,
-      "name": "Strength of Strings",
-      "url": "https://open.spotify.com/track/0ORYA6kaMWPKtHDPcea16a"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 159133,
       "name": "Mama Nantucket",
       "url": "https://open.spotify.com/track/3PqhliKIHScPgJgse7KHTq"
-    },
-    {
-      "added_at": "2022-06-01 14:18:36",
-      "album": {
-        "name": "Road Trip Blues Rock",
-        "url": "https://open.spotify.com/album/5WHwosaLhR8vDOBMWZFFcQ"
-      },
-      "artists": [
-        {
-          "name": "Nitty Gritty Dirt Band",
-          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
-        }
-      ],
-      "duration_ms": 222773,
-      "name": "Cadillac Ranch",
-      "url": "https://open.spotify.com/track/7ny63lhhFA36LKmtu4IxiW"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -823,22 +823,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Renegade Picker",
-        "url": "https://open.spotify.com/album/6ri0hV7jR1ETLP5zRH4RGk"
-      },
-      "artists": [
-        {
-          "name": "Steve Young",
-          "url": "https://open.spotify.com/artist/4JzwsGHb8ZN03C7JauWsWH"
-        }
-      ],
-      "duration_ms": 221426,
-      "name": "It's Not Supposed to Be That Way",
-      "url": "https://open.spotify.com/track/4jNBYAK1mPmgM66wZEx6rr"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "Black & White",
         "url": "https://open.spotify.com/album/71upkCAZBdlRRxoSbG8wvQ"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 144720,
       "name": "Ten More Miles to Louisiana",
       "url": "https://open.spotify.com/track/1E252QgKGNYBXfwaiXZtZy"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Renegade Picker",
+        "url": "https://open.spotify.com/album/6ri0hV7jR1ETLP5zRH4RGk"
+      },
+      "artists": [
+        {
+          "name": "Steve Young",
+          "url": "https://open.spotify.com/artist/4JzwsGHb8ZN03C7JauWsWH"
+        }
+      ],
+      "duration_ms": 221426,
+      "name": "It's Not Supposed to Be That Way",
+      "url": "https://open.spotify.com/track/4jNBYAK1mPmgM66wZEx6rr"
     }
   ],
   "unique_name": "Country Rock Classics",

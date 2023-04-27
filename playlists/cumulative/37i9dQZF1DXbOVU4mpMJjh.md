@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-664 songs - 2 day 0 hr 51 min
+665 songs - 2 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Dreamsville](https://open.spotify.com/track/24M4rafgMYq9b49CEYPpm9) | [David Halliday](https://open.spotify.com/artist/1tPE7mBsjG1eu2w2BikKry) | [Dreamsville](https://open.spotify.com/album/71Vzhdj0zMdTZKh2YNmld7) | 7:57 | 2022-04-14 | 2022-09-23 |
 | [Duke Ellington's Sound of Love](https://open.spotify.com/track/48jxbecHxRFUKKG53mJRjl) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [Plays Charles Mingus](https://open.spotify.com/album/5qjOXWAkl5levqzlFxFj4f) | 3:24 | 2022-08-10 | 2022-08-30 |
 | [Early Morning Thoughts](https://open.spotify.com/track/4QUlDSxJVMTYKaz3xBQ8F9) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Early Morning Thoughts](https://open.spotify.com/album/3GlIiRzG6zVuAU683UpagO) | 6:44 | 2022-09-13 |  |
-| [Easy Living](https://open.spotify.com/track/1UuGIqqp2QhYZU0N2PRh9G) | [Massimo Faraò Trio](https://open.spotify.com/artist/58dTi4Xr0bd6yd8XKgimAr) | [How My Heart Sings](https://open.spotify.com/album/5IVK6ouWKcCUNLygavq4pg) | 4:53 | 2022-06-30 |  |
+| [Easy Living](https://open.spotify.com/track/1UuGIqqp2QhYZU0N2PRh9G) | [Massimo Faraò Trio](https://open.spotify.com/artist/58dTi4Xr0bd6yd8XKgimAr) | [How My Heart Sings](https://open.spotify.com/album/5IVK6ouWKcCUNLygavq4pg) | 4:53 | 2022-06-30 | 2023-04-27 |
 | [Easy Living](https://open.spotify.com/track/78RAfPGFpTUqnPSTV0LcmT) | [Massimo Faraò Trio](https://open.spotify.com/artist/58dTi4Xr0bd6yd8XKgimAr) | [How My Heart Sings](https://open.spotify.com/album/79jNUOF7HaumY5JoP3TpVr) | 4:53 | 2022-04-14 | 2022-07-29 |
 | [Eleanor](https://open.spotify.com/track/082zyi189u5lRp2gPkE8Lb) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [West of 5th](https://open.spotify.com/album/1FCCVEhBrN6ISs9xHmf9kr) | 4:49 | 2022-04-14 | 2022-07-29 |
 | [Eleanor](https://open.spotify.com/track/0e73D9vZrxLVUPRhHae6r1) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [West of 5th](https://open.spotify.com/album/6LLXvVf6WOOrL4YFy9BVy1) | 4:49 | 2022-06-30 | 2022-10-05 |
@@ -421,6 +421,7 @@
 | [Night And Day](https://open.spotify.com/track/7elvLJgwfx0XhmPv1A6VX6) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Night And Day](https://open.spotify.com/album/5yglxByn88hqATkjlMeAUL) | 4:38 | 2022-04-14 | 2022-05-25 |
 | [Nightfall](https://open.spotify.com/track/0pUJIrhpnvI1wneFmal7oG) | [David Parks & Silver](https://open.spotify.com/artist/5lh0cmklkqiNcuFsXOyl1D) | [Nightfall](https://open.spotify.com/album/1NKqdrY5COQ2fE54U1Mxbh) | 3:12 | 2023-04-14 |  |
 | [Nimble](https://open.spotify.com/track/1zu9xkOabMyxkXvGutY0Tf) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Nimble](https://open.spotify.com/album/3TMKIfoKOKUfjOojRwV32p) | 3:33 | 2022-10-06 |  |
+| [North again](https://open.spotify.com/track/1KsztYFy4WJZ7ZbuTIfrMH) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [North again](https://open.spotify.com/album/54cLqLRb50nAibPwJWBjyV) | 2:37 | 2023-04-20 |  |
 | [Nostalgia](https://open.spotify.com/track/5CX7Ndfp4IJT94jdKSdair) | [Belmont Central](https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE) | [Nostalgia](https://open.spotify.com/album/40TSaISQjPsgp7y10MtdwD) | 3:41 | 2023-03-09 |  |
 | [Not Too Hot](https://open.spotify.com/track/0FoNYyoLC8Jj12GQggux8T) | [Goldilocks Trio](https://open.spotify.com/artist/2fVn4UU5CHiuJtJwHx0q7M) | [Not Too Hot](https://open.spotify.com/album/4qOxXHChJ2JsAkT3Id2zQf) | 4:47 | 2022-06-28 | 2022-10-08 |
 | [Notes and Nights](https://open.spotify.com/track/6Jpxh4o4RypOIfqfxwC4Gp) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Notes and Nights](https://open.spotify.com/album/4GfxolUrEhXLPHHOtcKxh4) | 3:04 | 2022-06-30 |  |

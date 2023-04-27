@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Belly, Drake, and VIC MENSA!
 
-[Spotify](https://open.spotify.com/user/spotify) - 817,324 likes - 76 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 817,326 likes - 76 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 40 | [The Tide](https://open.spotify.com/track/27N0pJsw7yMwewEEgFdklN) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [SURF OR DROWN](https://open.spotify.com/album/4cWnM4WLlf53drLOX90KuQ) | 3:56 |
 | 41 | [Adonis Interlude \(The Montage\) \(with J\. Cole\)](https://open.spotify.com/track/23w7p4AuDtw9CrhFBcMat5) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Creed III: The Soundtrack](https://open.spotify.com/album/00hCNOuhFfKYCeLgRRRAT6) | 1:35 |
 | 42 | [Peso a Peso](https://open.spotify.com/track/1iyvRYYAeuJhrsxTsQW9fh) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:37 |
-| 43 | [Talkback](https://open.spotify.com/track/7o3fWwXCehCmRya4TBvqpe) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Talkback](https://open.spotify.com/album/5MNz65f0S30Ev8AGVdFI5I) | 3:04 |
+| 43 | [Talkback](https://open.spotify.com/track/616rALOBxvc3bbp38iiud5) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:04 |
 | 44 | [on the street \(with J\. Cole\)](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [on the street \(with J\. Cole\)](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) | 3:34 |
 | 45 | [Us Against the World \- Remix](https://open.spotify.com/track/0pGecxPm2EOIQgc241d38t) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS), [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Us Against the World \(Remix\)](https://open.spotify.com/album/5SZXD6IbW91jQKMTJmwlvv) | 3:12 |
 | 46 | [Niagara Falls \(Foot or 2\) \[with Travis Scott & 21 Savage\]](https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:27 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 75 | [Shittin' Me](https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Shittin' Me](https://open.spotify.com/album/3M1sz7dBtyfa1KqdiAylC6) | 2:24 |
 | 76 | [Love For The Streets](https://open.spotify.com/track/7k5lDslyLbcykzUOPGEdKR) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Paper Route Frank](https://open.spotify.com/album/7tXLv9wbiC5Jf1o4nHZY4S) | 3:06 |
 
-Snapshot ID: `MTY4MjExNzY3NSwwMDAwMDAwMDg0ZDQzOGU2YTdiN2QwMGY1MmVhMDk5Y2Q3ODIwYmU5`
+Snapshot ID: `MTY4MjExNzY3NSwwMDAwMDAwMDI2ZWRlYzdmYmNlODQxNTExNmI4NjZkMjNhOTFlOTBj`

@@ -4,7 +4,7 @@
 
 > LOOK AT THAT FISH 🐠
 
-750 songs - 1 day 14 hr 54 min
+752 songs - 1 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Buttons \- Showmusik TikTok Remix](https://open.spotify.com/track/2z1eSjh9SqVt5lCbLAVaBm) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ), [Showmusik](https://open.spotify.com/artist/1AQrrkmtsNlnGu11EtBw77) | [Buttons \(Showmusik TikTok Remix\)](https://open.spotify.com/album/4ZHGYzvjoA3o4kz0YxWmsx) | 2:23 | 2022-02-25 | 2022-03-26 |
 | [Buzzkill Baby](https://open.spotify.com/track/5ylZhwfwtqtACJ9IDYnKkA) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Bittersweet 16](https://open.spotify.com/album/5NrdpIaUiVzSp9dfPxMPO5) | 3:12 | 2023-03-03 | 2023-03-25 |
 | [C'est La Vie \(with bbno$ & Rich Brian\)](https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [C'est La Vie](https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7) | 2:40 | 2022-09-23 | 2022-10-29 |
+| [Call It What You Want](https://open.spotify.com/track/1GwMQaZz6Au3QLDbjbMdme) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:23 | 2023-04-26 |  |
 | [Call Me a Quitter](https://open.spotify.com/track/5l51zmTjvBBCMB1oPtW800) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Call Me a Quitter](https://open.spotify.com/album/59rkqeyDsxLl9GJ3eVxDPj) | 2:24 | 2022-08-19 | 2022-09-03 |
 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 | 2023-02-10 | 2023-03-29 |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2022-08-26 | 2022-09-28 |
@@ -224,7 +225,7 @@
 | [eighteen](https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [eighteen](https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY) | 3:09 | 2023-04-07 |  |
 | [Elliot's Song \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Elliot's Song \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8) | 2:30 | 2022-03-04 | 2022-04-16 |
 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/2AAyBZmMVZSZfgzXRYJOWQ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/album/1BnZXtDOHSW7tx72fPAhyA) | 2:39 | 2022-02-04 | 2022-04-28 |
-| [Enchanted](https://open.spotify.com/track/10eBRyImhfqVvkiVEGf0N0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 5:52 | 2023-04-03 |  |
+| [Enchanted](https://open.spotify.com/track/10eBRyImhfqVvkiVEGf0N0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 5:52 | 2023-04-03 | 2023-04-27 |
 | [End of an Era](https://open.spotify.com/track/2nQY9jprTEWOVMIAdN0o48) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [End of an Era](https://open.spotify.com/album/4IUNO0oCCoM5DZ3va30wVc) | 2:13 | 2022-10-28 | 2023-01-14 |
 | [engravings](https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [engravings](https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w) | 3:00 | 2022-06-24 | 2022-10-15 |
 | [Enough](https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Enough](https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo) | 3:05 | 2022-08-17 | 2022-12-17 |
@@ -501,6 +502,7 @@
 | [Only Love Can Hurt Like This](https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [A Perfect Contradiction \(Outsiders' Expanded Edition\)](https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC) | 3:52 | 2022-06-03 | 2022-08-06 |
 | [Only Love Can Hurt Like This \- Sped Up Version](https://open.spotify.com/track/6SCJiS8fAWC5VzRpMEiHxV) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [Only Love Can Hurt Like This \(Sped Up Version\)](https://open.spotify.com/album/4n584qCBn2N7MDkjPX6Cs8) | 2:45 | 2022-08-05 |  |
 | [Only The Young \- Featured in Miss Americana](https://open.spotify.com/track/2slqvGLwzZZYsT4K4Y1GBC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Only The Young \(Featured in Miss Americana\)](https://open.spotify.com/album/5LGsh3kexUfi3qkIIxb8vK) | 2:37 | 2022-10-19 | 2022-10-22 |
+| [Open Arms \(feat\. Travis Scott\)](https://open.spotify.com/track/0xaFw2zDYf1rIJWl2dXiSF) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:59 | 2023-04-26 |  |
 | [Ours](https://open.spotify.com/track/1EQn3Uc5AyUXoiPLeyCrrg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Deluxe Edition\)](https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym) | 3:57 | 2023-04-03 | 2023-04-15 |
 | [Pacify Her](https://open.spotify.com/track/360Wr96ywrCQq4kTAJ8Pq6) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:40 | 2022-04-14 | 2022-11-19 |
 | [paper](https://open.spotify.com/track/0r3sjyiC4jE179QJHG9geQ) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [paper](https://open.spotify.com/album/7u8gI4yhs4gXvSjTdwOgaw) | 2:47 | 2023-01-13 | 2023-01-28 |

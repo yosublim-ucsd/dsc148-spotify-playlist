@@ -1,12 +1,12 @@
 {
   "description": "Los abanderados del rock argentino y sus himnos.",
-  "num_followers": 1120226,
+  "num_followers": 1120449,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3MzIwMCwwMDAwMDAwMGI0NjhhM2Q3M2Q4MjUyNWVjMzQzYWQ0OWE5MTM1Y2Jm",
+  "snapshot_id": "MTY2MDI3MzIwMCwwMDAwMDAwMDg5YzU0ZTJmZDlhNTY5NmIyMmM1NDA4MWE3MGZlN2Y3",
   "tracks": [
     {
       "added_at": "2022-08-12 03:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "El N\u00famero Imperfecto",
-        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
-      },
-      "artists": [
-        {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "Magia Veneno",
-      "url": "https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9"
-    },
-    {
-      "added_at": "2022-08-12 03:00:00",
-      "album": {
         "name": "Abre",
         "url": "https://open.spotify.com/album/4uOEHOabkf5hmv0ra14XJb"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 342160,
       "name": "Dos en la ciudad",
       "url": "https://open.spotify.com/track/4MYOJ2AhfzdoPAjwHg79LS"
+    },
+    {
+      "added_at": "2022-08-12 03:00:00",
+      "album": {
+        "name": "El N\u00famero Imperfecto",
+        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "Magia Veneno",
+      "url": "https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9"
     },
     {
       "added_at": "2022-08-12 03:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "Inconsciente Colectivo",
-        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Amanece En La Ruta",
-      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
-    },
-    {
-      "added_at": "2022-08-12 03:00:00",
-      "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 269093,
       "name": "Im\u00e1genes Paganas",
       "url": "https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y"
+    },
+    {
+      "added_at": "2022-08-12 03:00:00",
+      "album": {
+        "name": "Inconsciente Colectivo",
+        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Amanece En La Ruta",
+      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
     },
     {
       "added_at": "2022-08-12 03:00:00",

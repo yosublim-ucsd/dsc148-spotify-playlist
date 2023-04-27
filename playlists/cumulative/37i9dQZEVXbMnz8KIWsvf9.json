@@ -3648,7 +3648,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
@@ -6198,7 +6198,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 225600,
       "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
       "url": "https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy"
@@ -6220,6 +6220,28 @@
       "duration_ms": 185573,
       "name": "Shinunoga E-Wa",
       "url": "https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW"
+    },
+    {
+      "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205101,
+      "name": "Shoong! (feat. LISA of BLACKPINK)",
+      "url": "https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt"
     },
     {
       "album": {
@@ -6392,7 +6414,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 169566,
       "name": "SOLO",
       "url": "https://open.spotify.com/track/2wVDWtLKXunswWecARNILj"
@@ -8232,7 +8254,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 183724,
       "name": "\u0e08\u0e14\u0e2b\u0e21\u0e32\u0e22",
       "url": "https://open.spotify.com/track/2wgGM5bNyPTVI2d7KHmmRw"
@@ -9434,7 +9456,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 293784,
       "name": "\u0e23\u0e2a\u0e2b\u0e27\u0e32\u0e19",
       "url": "https://open.spotify.com/track/2Ab1HQjbMcqHY3TkTycrYr"

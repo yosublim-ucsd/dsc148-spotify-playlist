@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WV3tIB2AIC.md) - [plain]
 
 > Our editorial picks for the best gaming tracks of the year\. Cover: Lil Nas X \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,898 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,905 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WV3tIB2AIC.md) - [plain]
 | 19 | [MISA MISA!](https://open.spotify.com/track/2biZJ6YK8Pz1bUby8VDV3Q) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [MISA MISA!](https://open.spotify.com/album/140flQ7ktV8ptZM0WmHfvV) | 1:25 |
 | 20 | [Sometimes](https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 4:19 |
 | 21 | [Frozen](https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen](https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE) | 2:00 |
-| 22 | [After Hours](https://open.spotify.com/track/6tYzs9xlEeYznMJpJ0sUkI) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [ONNAFRIDAY](https://open.spotify.com/album/1IAaioQOv2098ZeykyAxeb) | 2:37 |
-| 23 | [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 |
+| 22 | [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 |
+| 23 | [After Hours](https://open.spotify.com/track/6tYzs9xlEeYznMJpJ0sUkI) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [ONNAFRIDAY](https://open.spotify.com/album/1IAaioQOv2098ZeykyAxeb) | 2:37 |
 | 24 | [Wrath](https://open.spotify.com/track/5WbKBMz6y0FbUdZl18XlJO) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 1:53 |
 | 25 | [Everything Goes On](https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Everything Goes On](https://open.spotify.com/album/0j4PaZDmzAJ4PlS89zcHbW) | 3:22 |
 | 26 | [The Drum](https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Drum](https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WV3tIB2AIC.md) - [plain]
 | 49 | [The Final Battle](https://open.spotify.com/track/6mIuQuKlOK7l6HkQnHfvpQ) | [Tsukasa Saitoh](https://open.spotify.com/artist/4iHfF8FJmOcgYAhnhqLqaD) | [Elden Ring \(Original Soundtrack\)](https://open.spotify.com/album/6WWL32UxPnjrIWlgLdzoir) | 4:58 |
 | 50 | [Fall 'N' Roll](https://open.spotify.com/track/7LfyyDvMQCizrEtKZAdzBL) | [Jukio Kallio](https://open.spotify.com/artist/3rYsb4Uy6nZNIl6Tg6TpAq), [Daniel Hagström](https://open.spotify.com/artist/6HGBxfi4iHLhZsfPOH1Izx) | [Fall Guys \(Original Soundtrack\)](https://open.spotify.com/album/2XbgThX8BaW5Euimr3JAPT) | 3:13 |
 
-Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDYwYWJlMzc1YzNmYzZjOGFjNGY2NTg5ZTEzMWU5MmIw`
+Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDBhNjAzYWFjZTRjODAwMWIxODUzYjBiNTA4NzhhY2U3`

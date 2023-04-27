@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 
 > The latest and greatest music out now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,546 likes - 101 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,540 likes - 101 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

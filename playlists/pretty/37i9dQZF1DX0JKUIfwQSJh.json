@@ -1,12 +1,12 @@
 {
   "description": "Rewind and unwind with sirens of the seventies and eighties.",
-  "num_followers": 839305,
+  "num_followers": 839494,
   "original_name": "70s & 80s Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc2MTAwMSwwMDAwMDAwMGY3MjNhYzE1ZDRkMmU3NDk2MjY4ODVmZjMwNTJiMDQy",
+  "snapshot_id": "MTY3Mjc2MTAwMSwwMDAwMDAwMGYxNjViNzk2ZGZkNGE2OTRmOTQzNjNlNzgxNDJhYzUx",
   "tracks": [
     {
       "added_at": "2023-01-03 15:50:01",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-01-03 15:50:01",
       "album": {
-        "name": "Uprising",
-        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 233560,
-      "name": "Redemption Song",
-      "url": "https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3"
-    },
-    {
-      "added_at": "2023-01-03 15:50:01",
-      "album": {
         "name": "Hunky Dory (2015 Remaster)",
         "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 235986,
       "name": "Life on Mars? - 2015 Remaster",
       "url": "https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N"
+    },
+    {
+      "added_at": "2023-01-03 15:50:01",
+      "album": {
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 233560,
+      "name": "Redemption Song",
+      "url": "https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3"
     },
     {
       "added_at": "2023-01-03 15:50:01",

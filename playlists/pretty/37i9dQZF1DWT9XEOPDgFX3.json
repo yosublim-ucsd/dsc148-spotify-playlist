@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Jana Horn",
-  "num_followers": 65010,
+  "num_followers": 65075,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMGRhM2MwM2ViZjRlZTFjZmFlMjIzYjBlYmMxMmU3NmUz",
+  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDJmYTgwYTU1NzhiN2RlZDdhNzllNTU0NjAyOWY5MDA1",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Vanilla Sky",
-        "url": "https://open.spotify.com/album/0lJZOC767uMD7Pdp6lhOvZ"
-      },
-      "artists": [
-        {
-          "name": "Eleni Drake",
-          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "King Street",
-      "url": "https://open.spotify.com/track/1iD8ge87IXRn8KPo3oNZb1"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 234079,
       "name": "Summer's End - Spotify Singles",
       "url": "https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Vanilla Sky",
+        "url": "https://open.spotify.com/album/0lJZOC767uMD7Pdp6lhOvZ"
+      },
+      "artists": [
+        {
+          "name": "Eleni Drake",
+          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "King Street",
+      "url": "https://open.spotify.com/track/1iD8ge87IXRn8KPo3oNZb1"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Norm",
-        "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 162560,
-      "name": "Catch Your Eye",
-      "url": "https://open.spotify.com/track/4eEcaTcDWJLRS3qW1HX78U"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "PRE PLEASURE",
         "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 188390,
       "name": "Ignore Tenderness",
       "url": "https://open.spotify.com/track/0fsjdInurbnZ0cptodXvFW"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Norm",
+        "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 162560,
+      "name": "Catch Your Eye",
+      "url": "https://open.spotify.com/track/4eEcaTcDWJLRS3qW1HX78U"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Mia Gargaret",
+        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 97643,
+      "name": "lesson",
+      "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "squirrel song",
         "url": "https://open.spotify.com/album/4NLO4ooPUDV0YlNNrRUvQn"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 186509,
       "name": "Wind On Tin",
       "url": "https://open.spotify.com/track/5eaLSLnaAHcUph093i4Bqr"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Mia Gargaret",
-        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 97643,
-      "name": "lesson",
-      "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "bc i love you",
-        "url": "https://open.spotify.com/album/0ljb5hKxb4fPvbGP2v2ZfF"
-      },
-      "artists": [
-        {
-          "name": "Harriette",
-          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
-        }
-      ],
-      "duration_ms": 237052,
-      "name": "bc i love you",
-      "url": "https://open.spotify.com/track/5e9rdslPa2td9w8vUFAKuM"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Cool Dry Place",
         "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 300586,
       "name": "Cool Dry Place",
       "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "bc i love you",
+        "url": "https://open.spotify.com/album/0ljb5hKxb4fPvbGP2v2ZfF"
+      },
+      "artists": [
+        {
+          "name": "Harriette",
+          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
+        }
+      ],
+      "duration_ms": 237052,
+      "name": "bc i love you",
+      "url": "https://open.spotify.com/track/5e9rdslPa2td9w8vUFAKuM"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Quitters",
-        "url": "https://open.spotify.com/album/4m0J4ljxRrsHJfXSmjiYUG"
-      },
-      "artists": [
-        {
-          "name": "Christian Lee Hutson",
-          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
-        }
-      ],
-      "duration_ms": 208911,
-      "name": "Rubberneckers",
-      "url": "https://open.spotify.com/track/5bFCQlmeLTKT25oga5ltiA"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/4OEfZc7e0DYhKApzEZrXk8"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 286042,
       "name": "More",
       "url": "https://open.spotify.com/track/5FK9E2XwYMx8Bhw3mQ7eGy"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Quitters",
+        "url": "https://open.spotify.com/album/4m0J4ljxRrsHJfXSmjiYUG"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "duration_ms": 208911,
+      "name": "Rubberneckers",
+      "url": "https://open.spotify.com/track/5bFCQlmeLTKT25oga5ltiA"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Geist",
-        "url": "https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel"
-      },
-      "artists": [
-        {
-          "name": "Shannon Lay",
-          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
-        }
-      ],
-      "duration_ms": 228492,
-      "name": "A Thread to Find",
-      "url": "https://open.spotify.com/track/1zHpGGZ5Q6Plp9eWVAQMu6"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Don't Shy Away",
         "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 290053,
       "name": "Ocotillo",
       "url": "https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Geist",
+        "url": "https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+        }
+      ],
+      "duration_ms": 228492,
+      "name": "A Thread to Find",
+      "url": "https://open.spotify.com/track/1zHpGGZ5Q6Plp9eWVAQMu6"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1739,38 +1739,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Giant Palm",
-        "url": "https://open.spotify.com/album/6ovv5BhFVVHOusujVm5LIf"
-      },
-      "artists": [
-        {
-          "name": "Naima Bock",
-          "url": "https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok"
-        }
-      ],
-      "duration_ms": 276800,
-      "name": "Giant Palm",
-      "url": "https://open.spotify.com/track/41XytH4NEWIuuketVPDrLv"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Fun House",
-        "url": "https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0"
-      },
-      "artists": [
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 192520,
-      "name": "Graves",
-      "url": "https://open.spotify.com/track/696fALU6kUpJXrx2mWmh3G"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Plastic Bouquet",
         "url": "https://open.spotify.com/album/2ih2y265Nk7ipR1RZDRniF"
       },
@@ -1791,6 +1759,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Giant Palm",
+        "url": "https://open.spotify.com/album/6ovv5BhFVVHOusujVm5LIf"
+      },
+      "artists": [
+        {
+          "name": "Naima Bock",
+          "url": "https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok"
+        }
+      ],
+      "duration_ms": 276800,
+      "name": "Giant Palm",
+      "url": "https://open.spotify.com/track/41XytH4NEWIuuketVPDrLv"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Someone New",
         "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 281252,
       "name": "Truth Nugget",
       "url": "https://open.spotify.com/track/7hCvge7SEzwW0Q4VjtnOQK"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Fun House",
+        "url": "https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0"
+      },
+      "artists": [
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "duration_ms": 192520,
+      "name": "Graves",
+      "url": "https://open.spotify.com/track/696fALU6kUpJXrx2mWmh3G"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Sundry Rock Song Stock",
-        "url": "https://open.spotify.com/album/7N3gPiUIMhiDEaB3SQtEIy"
-      },
-      "artists": [
-        {
-          "name": "Yves Jarvis",
-          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
-        }
-      ],
-      "duration_ms": 223761,
-      "name": "For Props",
-      "url": "https://open.spotify.com/track/3vF0yZnO7cHJKNKzE3gN99"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Waysides",
         "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
       },
@@ -1855,18 +1839,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "An Overview on Phenomenal Nature",
-        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
+        "name": "Sundry Rock Song Stock",
+        "url": "https://open.spotify.com/album/7N3gPiUIMhiDEaB3SQtEIy"
       },
       "artists": [
         {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+          "name": "Yves Jarvis",
+          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
         }
       ],
-      "duration_ms": 209826,
-      "name": "Michelangelo",
-      "url": "https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3"
+      "duration_ms": 223761,
+      "name": "For Props",
+      "url": "https://open.spotify.com/track/3vF0yZnO7cHJKNKzE3gN99"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1883,6 +1867,22 @@
       "duration_ms": 283536,
       "name": "Do You Understand (What Has Happened to You)",
       "url": "https://open.spotify.com/track/4t8DWlP3HlE8QmeDtdfZDc"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "An Overview on Phenomenal Nature",
+        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "Michelangelo",
+      "url": "https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Oak Hill",
-        "url": "https://open.spotify.com/album/4cpyEJLCDW1wodo4NAzsHo"
-      },
-      "artists": [
-        {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
-        }
-      ],
-      "duration_ms": 257401,
-      "name": "Oak Hill",
-      "url": "https://open.spotify.com/track/0ztNlGWRGyTj2zn4D4uVcQ"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Someone New",
         "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 229501,
       "name": "Someone New",
       "url": "https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Oak Hill",
+        "url": "https://open.spotify.com/album/4cpyEJLCDW1wodo4NAzsHo"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "duration_ms": 257401,
+      "name": "Oak Hill",
+      "url": "https://open.spotify.com/track/0ztNlGWRGyTj2zn4D4uVcQ"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "An Overview on Phenomenal Nature",
-        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
-        }
-      ],
-      "duration_ms": 327440,
-      "name": "Hard Drive",
-      "url": "https://open.spotify.com/track/3ArnNhm8z0ScjDKfGHSBRk"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/4bqE0GxxSdnrfJMiFB6MAA"
       },
@@ -2035,6 +2019,38 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "An Overview on Phenomenal Nature",
+        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+        }
+      ],
+      "duration_ms": 327440,
+      "name": "Hard Drive",
+      "url": "https://open.spotify.com/track/3ArnNhm8z0ScjDKfGHSBRk"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Still Life",
+        "url": "https://open.spotify.com/album/4pHFtbFFyiccsHgu1NvKQq"
+      },
+      "artists": [
+        {
+          "name": "Humbird",
+          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
+        }
+      ],
+      "duration_ms": 238515,
+      "name": "May",
+      "url": "https://open.spotify.com/track/6HahXy57PZHiHTFdSCrW7U"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Sam Amidon",
         "url": "https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m"
       },
@@ -2047,22 +2063,6 @@
       "duration_ms": 294360,
       "name": "Maggie",
       "url": "https://open.spotify.com/track/00DyyDxPVjFdtLILeZsxjv"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "needy",
-        "url": "https://open.spotify.com/album/4t8yem8v9bWIV9gLgpUAdB"
-      },
-      "artists": [
-        {
-          "name": "Molly Burch",
-          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
-        }
-      ],
-      "duration_ms": 232419,
-      "name": "needy",
-      "url": "https://open.spotify.com/track/2ECYThSRIguvX5SZO5ke26"
     }
   ],
   "unique_name": "Folk Arc",

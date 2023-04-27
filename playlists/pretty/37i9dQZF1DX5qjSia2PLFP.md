@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\. Cover, Jean Deaux
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,543 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,566 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 5 | [Misty](https://open.spotify.com/track/0KIOREGplwUG2IYkl2B7LW) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Misty](https://open.spotify.com/album/6O8KaGtYawqKjgj5JeBKg3) | 3:38 |
 | 6 | [Back In Office](https://open.spotify.com/track/5rrtDWbFizKTZ7GcsHYHh7) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No I.D.](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH) | [Back In Office](https://open.spotify.com/album/3ytxE6VpY5QAeqWQBeI4eg) | 2:53 |
 | 7 | [JD's REVENGE](https://open.spotify.com/track/3F1jnTXKuJd6iPmjRMH4tO) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [HEAVY](https://open.spotify.com/album/4iIjKIlfryNbbogL9X4dgL) | 2:16 |
-| 8 | [Princess Diana](https://open.spotify.com/track/4yzDNpEa75MSTypGg7tCAx) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:34 |
+| 8 | [Princess Diana](https://open.spotify.com/track/4nKwe18MLVlLgiVzVmSRDI) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 2:34 |
 | 9 | [Feel Like Pat](https://open.spotify.com/track/4gHFYjqiHw51ig3MDihxkV) | [ICYTWAT](https://open.spotify.com/artist/6bVRNVg2f91pCAyKnrIOW0) | [Feel Like Pat](https://open.spotify.com/album/6KRXVGr4tAcUEQJe9B0hiu) | 1:12 |
 | 10 | [PAINTING PICTURES](https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [5LBS OF PRESSURE](https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI) | 2:02 |
 | 11 | [Coastin’](https://open.spotify.com/track/5dPUGqhZt7iJgbgPlx733p) | [Dave $tokes](https://open.spotify.com/artist/0mP6wa81SOzUJIaAnLg7a7) | [Coastin’](https://open.spotify.com/album/6Thwzs8LlD8INqTawRKD6I) | 1:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 49 | [End of Discussion](https://open.spotify.com/track/6uiXDPUMlKQjsUOZVVco8g) | [T Clipse](https://open.spotify.com/artist/2VUOGUpWy8Ckg92h8EjBIW) | [End of Discussion](https://open.spotify.com/album/4Ggdjb8Ube0rnfJyaJC3US) | 1:25 |
 | 50 | [2daside](https://open.spotify.com/track/0B6gI2Eupg8MigELBFHVA8) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [2daside](https://open.spotify.com/album/6X2jYQCXoTvHFkrn2TIBfN) | 2:17 |
 
-Snapshot ID: `MTY4MTU1MTA4MywwMDAwMDAwMGE1MDUwNGNhMmRkYzMzYTRjYWZiNGFiYWQ2MGJlOTQ0`
+Snapshot ID: `MTY4MTU1MTA4MywwMDAwMDAwMDk0NjljYzhjOTdmZDg1ZmE0ZWM0ZTcwNGRhMDUxNjc1`

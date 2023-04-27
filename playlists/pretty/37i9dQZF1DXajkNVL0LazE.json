@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 56854,
+  "num_followers": 57004,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMGUyMzdhYmVjNDIwNGQ0NzdkOGZkMWVmMzFjMGU4N2E3",
+  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMDhhNTVhZjYyYWQ0YjE4NWU3YmI3YmViZDA2ZDJlYmFl",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "War Elephant",
-        "url": "https://open.spotify.com/album/0mOjYGdxvpusOVunsElaCq"
-      },
-      "artists": [
-        {
-          "name": "Deer Tick",
-          "url": "https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO"
-        }
-      ],
-      "duration_ms": 181466,
-      "name": "Baltimore Blues No. 1",
-      "url": "https://open.spotify.com/track/3Dy8QNZ77cre9ThUPRguy0"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Our Endless Numbered Days (Deluxe Edition)",
         "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 207773,
       "name": "Each Coming Night",
       "url": "https://open.spotify.com/track/2xa9PoO42d7VjT0KqG5d3I"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "War Elephant",
+        "url": "https://open.spotify.com/album/0mOjYGdxvpusOVunsElaCq"
+      },
+      "artists": [
+        {
+          "name": "Deer Tick",
+          "url": "https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "Baltimore Blues No. 1",
+      "url": "https://open.spotify.com/track/3Dy8QNZ77cre9ThUPRguy0"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "The Glow, Pt. 2",
-        "url": "https://open.spotify.com/album/6QYoRO2sXThCORAifrP4Bl"
-      },
-      "artists": [
-        {
-          "name": "The Microphones",
-          "url": "https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO"
-        }
-      ],
-      "duration_ms": 332880,
-      "name": "I Want Wind to Blow",
-      "url": "https://open.spotify.com/track/1bAZV1EBTRi9t1cVg75i8t"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Volume One",
         "url": "https://open.spotify.com/album/2qIu18hUz5c6BzY3Rh6fIJ"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 150506,
       "name": "Why Do You Let Me Stay Here?",
       "url": "https://open.spotify.com/track/1ZHYoYfWMYnGAzlwOi2XP4"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "The Glow, Pt. 2",
+        "url": "https://open.spotify.com/album/6QYoRO2sXThCORAifrP4Bl"
+      },
+      "artists": [
+        {
+          "name": "The Microphones",
+          "url": "https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO"
+        }
+      ],
+      "duration_ms": 332880,
+      "name": "I Want Wind to Blow",
+      "url": "https://open.spotify.com/track/1bAZV1EBTRi9t1cVg75i8t"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Lookaftering",
-        "url": "https://open.spotify.com/album/6jFHLKqnzRHI0ByuQxO37n"
-      },
-      "artists": [
-        {
-          "name": "Vashti Bunyan",
-          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
-        }
-      ],
-      "duration_ms": 135440,
-      "name": "If I Were",
-      "url": "https://open.spotify.com/track/1Jri474VM7yyIlglywQOx5"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "The Trials of Van Occupanther",
         "url": "https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 291640,
       "name": "Young Bride",
       "url": "https://open.spotify.com/track/4YyFSSPQgXooWQzVzya7nU"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Lookaftering",
+        "url": "https://open.spotify.com/album/6jFHLKqnzRHI0ByuQxO37n"
+      },
+      "artists": [
+        {
+          "name": "Vashti Bunyan",
+          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
+        }
+      ],
+      "duration_ms": 135440,
+      "name": "If I Were",
+      "url": "https://open.spotify.com/track/1Jri474VM7yyIlglywQOx5"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "The Animal Years",
+        "url": "https://open.spotify.com/album/123dbllYoWDsMqESeUqAbw"
+      },
+      "artists": [
+        {
+          "name": "Josh Ritter",
+          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+        }
+      ],
+      "duration_ms": 263862,
+      "name": "Girl in the War",
+      "url": "https://open.spotify.com/track/2XQ6xhvd1q5JQyY21F198g"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "In The Reins",
         "url": "https://open.spotify.com/album/0s1mKAEcqr7od5xY3pZ921"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 223773,
       "name": "He Lays In The Reins",
       "url": "https://open.spotify.com/track/06KMxCt6MwBqgivE20KDC4"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "The Animal Years",
-        "url": "https://open.spotify.com/album/123dbllYoWDsMqESeUqAbw"
-      },
-      "artists": [
-        {
-          "name": "Josh Ritter",
-          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
-        }
-      ],
-      "duration_ms": 263862,
-      "name": "Girl in the War",
-      "url": "https://open.spotify.com/track/2XQ6xhvd1q5JQyY21F198g"
     }
   ],
   "unique_name": "00s Indie Folk",

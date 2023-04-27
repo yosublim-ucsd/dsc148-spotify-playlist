@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,535 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,605 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 48 | [There Must Be A Way](https://open.spotify.com/track/7BFNrhD0hSlJwP4GYmxrU6) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:08 |
 | 49 | [Beware My Heart](https://open.spotify.com/track/5tHMyiKgJ1nVBkpLSnTpX6) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 5:08 |
 | 50 | ['Round Midnight](https://open.spotify.com/track/4DZTYXrIy4fvNa1HhxxNC2) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Around Midnight](https://open.spotify.com/album/65qYYKLROzIJ1qN7CFaA0d) | 2:52 |
-| 51 | [I Can't Get Started](https://open.spotify.com/track/2NHXhH8nZHgoMtcphN7PnB) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Pointless Nostalgic](https://open.spotify.com/album/4AD8H57Um3MlSuuqN4fZNv) | 5:15 |
-| 52 | [The Boulevard of Broken Dreams \(with Sting\)](https://open.spotify.com/track/5bG5GUKVJztKR5nff1CwUp) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Duets An American Classic](https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX) | 3:21 |
+| 51 | [The Boulevard of Broken Dreams \(with Sting\)](https://open.spotify.com/track/5bG5GUKVJztKR5nff1CwUp) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Duets An American Classic](https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX) | 3:21 |
+| 52 | [I Can't Get Started](https://open.spotify.com/track/2NHXhH8nZHgoMtcphN7PnB) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Pointless Nostalgic](https://open.spotify.com/album/4AD8H57Um3MlSuuqN4fZNv) | 5:15 |
 | 53 | [There's No You](https://open.spotify.com/track/2CkKOGvbmPntrNs7ntLiTk) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 4:47 |
 | 54 | [Lover Man](https://open.spotify.com/track/3rnxTrbJ23PQ0g4NNVadru) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan's Golden Hits](https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU) | 3:16 |
 | 55 | [I'll Drown In My Tears](https://open.spotify.com/track/3EJ0pqOYSid9bVfyYy0zhm) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury Vol.5 \(1956\-1958\)](https://open.spotify.com/album/53UuPjzjPZdVorCmDewJSI) | 3:11 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 80 | [I Won't Cry Anymore](https://open.spotify.com/track/1fTJakUvlTkptk3u4Fh55N) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Jimmy Carroll Orchestra](https://open.spotify.com/artist/50p26eThcl1zJt6SDtkYF0) | [Music For Late Hours](https://open.spotify.com/album/3isH5zDyEAXGQIiYcLdozF) | 3:25 |
 | 81 | [Say It Isn't So](https://open.spotify.com/track/5LYRWSdYjVaUQUUBMNPD3e) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Somewhere over the Rainbow](https://open.spotify.com/album/05c5UntOmZQ3DDX6R8PgHy) | 3:13 |
 | 82 | [No More](https://open.spotify.com/track/0OhVyeMWNraRrgGPByQiWc) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Abbey Lincoln's Affair..\. A Story Of A Girl In Love \(Expanded Edition\)](https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg) | 3:11 |
-| 83 | [My Old Flame](https://open.spotify.com/track/7k0ustfixkIm3Z9hDP4OrZ) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Swedish Sensation](https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh) | 2:25 |
-| 84 | [Whatever Happened To You?](https://open.spotify.com/track/2h3oMpsivzE6an9GBDVy35) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Waiter, Make Mine The Blues](https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7) | 4:41 |
+| 83 | [Whatever Happened To You?](https://open.spotify.com/track/2h3oMpsivzE6an9GBDVy35) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Waiter, Make Mine The Blues](https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7) | 4:41 |
+| 84 | [My Old Flame](https://open.spotify.com/track/7k0ustfixkIm3Z9hDP4OrZ) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Swedish Sensation](https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh) | 2:25 |
 | 85 | [It's Easy to Remember](https://open.spotify.com/track/2zKcVjhrP5r8vwxmEaANUm) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Smooth Songs](https://open.spotify.com/album/0bTi6NaKZTPdu3G2a4fePf) | 3:36 |
 | 86 | [I'm Gonna Laugh You Right Out Of My Life \- Remastered](https://open.spotify.com/track/7KKKRjw8cs7VL0NMsGJM4K) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Something Wonderful](https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav) | 2:40 |
 | 87 | [Wasting My Love on You](https://open.spotify.com/track/5Dp0YfR5ygkhdoB0rmLlFZ) | [Annette Hanshaw](https://open.spotify.com/artist/2NH5zRbA36q4uznwcJ8yDk) | [She's Got It](https://open.spotify.com/album/5UKPWnmzf6F2UlBhp1dIRi) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 99 | [Cry You Out Of My Heart](https://open.spotify.com/track/298PoQoXA91pJuS0AKlXCk) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Delta Rhythm Boys](https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF) | [The War Years \(1941\-1947\)](https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH) | 2:45 |
 | 100 | [Just Friends](https://open.spotify.com/track/6Ju6ic1OHvHbvf8VphSYhC) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Drinking Again](https://open.spotify.com/album/1Yc1wrf2bgbRKcrrb7hZzA) | 3:18 |
 
-Snapshot ID: `MTY4MTk4MzQ5NiwwMDAwMDAwMDFhMDg2Yjg2Yjk4NGM2MmYyOWMwOGM5NDBlZWM2MjAy`
+Snapshot ID: `MTY4MjUxMDU5MywwMDAwMDAwMDg0Zjc2ZmMxMWY4YjEyZGE5Yzk2ZmY5M2U4Y2EzMjBi`

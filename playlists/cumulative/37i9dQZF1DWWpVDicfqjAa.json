@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Addictive",
+        "url": "https://open.spotify.com/album/6cWay8nkaG7van0G8ajt1Z"
+      },
+      "artists": [
+        {
+          "name": "STIKMATIK",
+          "url": "https://open.spotify.com/artist/4a7ZMSn5Y6EjOxVmRmLLcS"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Addictive",
+      "url": "https://open.spotify.com/track/1M2x142PsPtrBcRyeUbN5o"
+    },
+    {
+      "album": {
         "name": "Ain't Going Back",
         "url": "https://open.spotify.com/album/4DaOVKUAir02h9JpD3ddVP"
       },
@@ -92,7 +110,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 170000,
       "name": "Apollo",
       "url": "https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR"
@@ -658,7 +676,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 152917,
       "name": "Clockwork (feat. Spice)",
       "url": "https://open.spotify.com/track/4GgvXbDt6qKWCSI8Fw2cVs"
@@ -702,7 +720,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 163655,
       "name": "Comfy",
       "url": "https://open.spotify.com/track/3wdHjg6olS8kdwepTW4jJm"
@@ -1637,6 +1655,28 @@
     },
     {
       "album": {
+        "name": "KEEP ME IN YOUR MIND (Einmusik Remix)",
+        "url": "https://open.spotify.com/album/7uJQ17FKSVFfty0wsa4AMb"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        },
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389575,
+      "name": "KEEP ME IN YOUR MIND - Einmusik Remix",
+      "url": "https://open.spotify.com/track/1M3CJIRObczFPT529PyzMy"
+    },
+    {
+      "album": {
         "name": "Khang Kholo",
         "url": "https://open.spotify.com/album/7kgrcCgrZHi6t9KlUFvqCM"
       },
@@ -2154,6 +2194,28 @@
       "duration_ms": 346267,
       "name": "Mwanangu (Enoo Napa Remix)",
       "url": "https://open.spotify.com/track/1mtquC4g0jKkLWMxzUqxEh"
+    },
+    {
+      "album": {
+        "name": "My Paradise (Damian Lazarus Re-Shape)",
+        "url": "https://open.spotify.com/album/4VSeNYLB9AKUl4RvAVq70U"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Damian Lazarus",
+          "url": "https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210488,
+      "name": "My Paradise - Damian Lazarus Re-Shape",
+      "url": "https://open.spotify.com/track/1YzYJxpIEWayVQhEykvrU3"
     },
     {
       "album": {

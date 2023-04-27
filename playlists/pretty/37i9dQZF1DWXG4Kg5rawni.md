@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 
 > Adoradores cantando sobre o amor\. Foto: Paulo Cesar Baruk
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,643 likes - 68 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,678 likes - 68 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 16 | [Desde o Primeiro Sim](https://open.spotify.com/track/5RmyZkrPcN3YzdX6qinVtx) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Desde o Primeiro Sim](https://open.spotify.com/album/2aO1eeu6qWK6orMxpqgp0Y) | 4:28 |
 | 17 | [Meu Eterno Namorado](https://open.spotify.com/track/6fCkIEUDpl8mBQKkQe5h9O) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros \- Som Gospel](https://open.spotify.com/album/3IJpPRPjIDDkNVgdrwvuoe) | 4:42 |
 | 18 | [Um Verso de Amor](https://open.spotify.com/track/5P8LnyPsmeNztjsir8e5ke) | [Pamela](https://open.spotify.com/artist/2utzgF5vzJfGqZPHBGFtrG), [Alex Gonzaga](https://open.spotify.com/artist/7uGIP1PFDEHgHsmO2kWJEd) | [Pamela Falando de Amor](https://open.spotify.com/album/1GGLOuf5RpSgokroQqOFHU) | 4:44 |
-| 19 | [Eu te Amo](https://open.spotify.com/track/3r9MGWtEhYs21v7HGpDa2X) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS), [Melk Vilar](https://open.spotify.com/artist/6jNeGEo4cKvVRmsKwwJyvN) | [Cantando o Amor Vol\. 2](https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU) | 4:17 |
-| 20 | [Deus, Você e Eu](https://open.spotify.com/track/0WD0mcZTnBLhdHAvpSNy51) | [Saulo Vianna](https://open.spotify.com/artist/758WjLdtMlNGzWtoUaJCHe) | [Aperfeiçoou](https://open.spotify.com/album/3G5Gf6znSZ9gdIJBBc2tqD) | 3:59 |
+| 19 | [Deus, Você e Eu](https://open.spotify.com/track/0WD0mcZTnBLhdHAvpSNy51) | [Saulo Vianna](https://open.spotify.com/artist/758WjLdtMlNGzWtoUaJCHe) | [Aperfeiçoou](https://open.spotify.com/album/3G5Gf6znSZ9gdIJBBc2tqD) | 3:59 |
+| 20 | [Eu te Amo](https://open.spotify.com/track/3r9MGWtEhYs21v7HGpDa2X) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS), [Melk Vilar](https://open.spotify.com/artist/6jNeGEo4cKvVRmsKwwJyvN) | [Cantando o Amor Vol\. 2](https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU) | 4:17 |
 | 21 | [Te Amaria Outra Vez](https://open.spotify.com/track/4ZkGjVqwuUurX1BD89CJFh) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Fernanda Brum \- Falando de Amor](https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE) | 4:23 |
 | 22 | [Beijo no Altar](https://open.spotify.com/track/2WOezAtyBM1RupEiU70bpp) | [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Wilian Nascimento Falando de Amor](https://open.spotify.com/album/66cFFmk9f3pqGsvVVYaDXj) | 4:21 |
 | 23 | [À Moda Antiga](https://open.spotify.com/track/4B5Wm6heL2bPEPYytaEfmL) | [Lu Alone](https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U) | [À Moda Antiga](https://open.spotify.com/album/09VERYRPeBBYDhlDcJMDaB) | 3:02 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 47 | [Amar Você](https://open.spotify.com/track/1H9K7yHUop3Y1W9u2Df9ke) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Fernanda Brum \- Falando de Amor](https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE) | 5:51 |
 | 48 | [Prometo](https://open.spotify.com/track/3r0V2eKyPsWZgr7Q8M5QHx) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Sobre o Amor](https://open.spotify.com/album/3nPc8pneqzRqYV8mqjPikn) | 2:52 |
 | 49 | [Nosso Castelo](https://open.spotify.com/track/3cwe5HZqAhygCVPPVcwsit) | [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Nosso Castelo](https://open.spotify.com/album/20HqyoxH3L4OAL9J8rElVd) | 4:12 |
-| 50 | [Não Há Limites](https://open.spotify.com/track/18sk6Gy3SYclFYSSVK7Fqs) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Não Há Limites](https://open.spotify.com/album/7GGCEqbIutMDDgGBzTlgxB) | 4:14 |
-| 51 | [Amor Sem Limites](https://open.spotify.com/track/3UlT5ua4JXyS64vf1Y5ksz) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP) | [Um Novo Tempo](https://open.spotify.com/album/3gnWedgsMqJPS0EEUpJQyE) | 3:43 |
+| 50 | [Amor Sem Limites](https://open.spotify.com/track/3UlT5ua4JXyS64vf1Y5ksz) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP) | [Um Novo Tempo](https://open.spotify.com/album/3gnWedgsMqJPS0EEUpJQyE) | 3:43 |
+| 51 | [Não Há Limites](https://open.spotify.com/track/18sk6Gy3SYclFYSSVK7Fqs) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Não Há Limites](https://open.spotify.com/album/7GGCEqbIutMDDgGBzTlgxB) | 4:14 |
 | 52 | [Deus Me Deu Você](https://open.spotify.com/track/2UfgNRxseC9S9Hmf8sW7tm) | [Thiago e Jéssica](https://open.spotify.com/artist/47Avc96OLqdMeyZldOlIhF) | [Deus Me Deu Você](https://open.spotify.com/album/27QzsDGSDFsnEQMqf6CyOl) | 4:23 |
 | 53 | [Por Toda Vida](https://open.spotify.com/track/5UY0gdOjr8lRMUCqSCpsi9) | [Voices](https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD) | [Amo Você Vol\. 6](https://open.spotify.com/album/3v5Geo1sU3EbNrecHH8aYE) | 4:15 |
 | 54 | [Bem Maior Que o Céu](https://open.spotify.com/track/06XuWs8tYpf4Onbw48FF0u) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Amo Você Vol\. 21](https://open.spotify.com/album/2qLkUabUou3EiP9wsV4vrj) | 5:03 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 67 | [Minha Jóia Rara](https://open.spotify.com/track/1PbHuaCO9IrBt51mwcV93I) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Amo Você Vol\. 18](https://open.spotify.com/album/6ZtjVbQ1Fo4d5xn47KfF11) | 3:58 |
 | 68 | [Passa o Tempo](https://open.spotify.com/track/5voPV6PLExZZzOjJENG8qW) | [Áquila](https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ) | [Passa o Tempo](https://open.spotify.com/album/0ap67cOHhkz7DbvTIesBvG) | 3:31 |
 
-Snapshot ID: `MTY3ODQ5ODA4MSwwMDAwMDAwMDdkNDgyYTNjYTNhYmE2OTgyNGIzM2JkNjQ0ZDMwOGFk`
+Snapshot ID: `MTY3ODQ5ODA4MSwwMDAwMDAwMGJlODVmMDBmYzkxYmNjZDdlZGQzMzhiMmVkMDcyYTBm`

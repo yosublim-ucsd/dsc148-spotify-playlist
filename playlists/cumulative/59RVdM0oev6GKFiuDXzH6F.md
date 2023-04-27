@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks from Tiësto, David Guetta, BROHUG, Guz and many more.
 
-148 songs - 7 hr 14 min
+149 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Little Bit More](https://open.spotify.com/track/33bAyg26EB6VbKt6K1p1xd) | [Gaudini](https://open.spotify.com/artist/6mtV83LQpDVyR23kBRn5OX), [KVKI](https://open.spotify.com/artist/4zZiCIjLTjSP7QvjPLPIms) | [A Little Bit More](https://open.spotify.com/album/5jxRwsH6tU9gEj0k5hhqwo) | 2:25 | 2023-04-14 |  |
 | [Activate](https://open.spotify.com/track/2LgCKhBkjd6uTm9yPKcMse) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [Activate](https://open.spotify.com/album/2Fadnb53Ooc0owSGGvC0MM) | 3:22 | 2023-04-14 |  |
 | [After Midnight \(feat\. Xoro\) \[TELYKast Remix\]](https://open.spotify.com/track/3ISLa8YMtXC50w0vA0AWTk) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Xoro](https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [After Midnight \(feat\. Xoro\) \[TELYKast Remix\]](https://open.spotify.com/album/1ezdvzo3qAQ3Dxt2gvI79e) | 2:29 | 2023-03-03 |  |
+| [Afterglow](https://open.spotify.com/track/2remaIEaOajisGtvTI6mLi) | [Chris Viviano](https://open.spotify.com/artist/2ikGf53xbNItQFKMrmjNDo) | [Afterglow](https://open.spotify.com/album/2GymmbWZXcNdewzZcetK3P) | 2:29 | 2023-04-26 |  |
 | [Al Perreo \- Mixed](https://open.spotify.com/track/0BN9P0UYB4PUWpRrAG9wXt) | [FNTZY](https://open.spotify.com/artist/6Tc25h7Kk6DfK9GarjiEd5) | [Al Perreo](https://open.spotify.com/album/7ylSGlus6NrY2nnKRY7kNt) | 2:31 | 2023-02-12 |  |
 | [All Nighter](https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [All Nighter](https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV) | 2:14 | 2023-03-10 |  |
 | [Alright](https://open.spotify.com/track/10NhL0ZATdOsOaySlN9RvW) | [Ilya Stepash](https://open.spotify.com/artist/415OxCmsxBQzyjT3pk7GDs) | [Alright](https://open.spotify.com/album/6m4mYZTC0x3HqGAW7i3bmd) | 3:22 | 2023-03-31 | 2023-04-15 |

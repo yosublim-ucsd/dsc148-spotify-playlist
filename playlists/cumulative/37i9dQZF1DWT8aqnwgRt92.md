@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-650 songs - 1 day 17 hr 20 min
+653 songs - 1 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Never Fear](https://open.spotify.com/track/5jG4OWaAkMo4JATFSkCrpc) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Not Unusual](https://open.spotify.com/album/3gx3krICQA5Q62l56pEHcB) | 3:49 | 2023-02-16 | 2023-04-09 |
 | [NEVER SAY GOODBYE](https://open.spotify.com/track/1NVQvAvYhYUluRrRQpdCjg) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Mummy\-D](https://open.spotify.com/artist/1tDPDvqdllfPLjLhFFkocX) | [NEVER SAY GOODBYE](https://open.spotify.com/album/0f9ojxk4DzroHLGAU5iUA3) | 4:50 | 2022-10-03 | 2023-01-11 |
 | [Never say Never](https://open.spotify.com/track/308ljVGdTUoIJZTtceMFd0) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz) | [Never say Never](https://open.spotify.com/album/5Egx4Cohqf80LfIy5GpIk6) | 4:25 | 2023-04-01 |  |
+| [Never say Never](https://open.spotify.com/track/61gMW4HX7FsLNDAAWBUTUg) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz) | [Never say Never](https://open.spotify.com/album/4jpMiwfRwO5bs6BZkJouuI) | 4:25 | 2023-04-25 |  |
 | [Never the Fever!!](https://open.spotify.com/track/1fdX3lSdgqj8qM1QDxmmOt) | [佐咲紗花](https://open.spotify.com/artist/0Wc27lcAwtL8QYONiLd4b1) | [Never the Fever!!](https://open.spotify.com/album/0Gfoc5PA6OxnJn8MbCSQk4) | 4:01 | 2022-10-06 | 2022-11-25 |
 | [New Drama Paradise](https://open.spotify.com/track/6Ty1IRc5sun7YQMUqXealq) | [Jun Fukuyama](https://open.spotify.com/artist/3bC4NPA8Vfw2FXjiuY8Tzx) | [New Drama Paradise](https://open.spotify.com/album/3H5VIFVEyDBmfPLe9aKzlq) | 4:09 | 2023-01-10 | 2023-02-01 |
 | [No Man's Dawn](https://open.spotify.com/track/5XvmEVOlh8S0FvZQyaYnzo) | [criminal](https://open.spotify.com/artist/01x2ElR5LGoZ3HTwn0u4eH) | [No Man's Dawn](https://open.spotify.com/album/5emNQodJSciI2Ib281UrG3) | 3:53 | 2022-09-06 | 2022-10-19 |
@@ -269,7 +270,8 @@
 | [Preview](https://open.spotify.com/track/5WsbwswBs3C0vheCVFFy1Z) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [Preview](https://open.spotify.com/album/1KZJgrEJoKlHtA2sH3OAUk) | 4:06 | 2023-04-06 |  |
 | [PRIDE](https://open.spotify.com/track/4w1J2ejTHgtxRR6IvFoB8n) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [PRIDE](https://open.spotify.com/album/7A0ixTAOm6k9iyuYVX7lBb) | 3:37 | 2022-11-08 | 2023-01-13 |
 | [PSYCHO:LOGY](https://open.spotify.com/track/62BaD9fEhYmzRQxM3peM0O) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [PSYCHO:LOGY](https://open.spotify.com/album/7396ox4eZXw2eCJNpYIs7B) | 3:54 | 2022-10-11 | 2022-11-25 |
-| [Quiet explosion](https://open.spotify.com/track/221x9VoSuIZLz05MfJ9hVT) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [Quiet explosion](https://open.spotify.com/album/3d4pqoNGR66q2B2A0DJaL9) | 3:26 | 2023-04-11 |  |
+| [Quiet explosion](https://open.spotify.com/track/221x9VoSuIZLz05MfJ9hVT) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [Quiet explosion](https://open.spotify.com/album/3d4pqoNGR66q2B2A0DJaL9) | 3:26 | 2023-04-11 | 2023-04-27 |
+| [Quiet explosion](https://open.spotify.com/track/3ytGc8DrY5fvPYJpkGfB0W) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [Quiet explosion](https://open.spotify.com/album/3XAEoNI4FLn9PKW6S6pfGA) | 3:26 | 2023-04-25 |  |
 | [Real Dawn](https://open.spotify.com/track/59R8fdA1xxNgnSLdSm9bES) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [Real Dawn](https://open.spotify.com/album/3OPoxNYBVO2idFWeyzO8bv) | 3:46 | 2023-01-03 | 2023-03-25 |
 | [rebind](https://open.spotify.com/track/29TrJvPHW8SuL9Y7wg72Ui) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [rebind](https://open.spotify.com/album/0xaMjXAT0lpUKlZ3zV691n) | 4:42 | 2023-01-10 | 2023-04-09 |
 | [RECONNECTION](https://open.spotify.com/track/048iLBE6b6aajmg74OdgJe) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [RECONNECTION](https://open.spotify.com/album/4SEmy9zV5o9BirnDSXYP4s) | 3:42 | 2023-01-10 | 2023-03-29 |
@@ -510,7 +512,8 @@
 | [ラムのラブソング \-ラム\(CV:上坂すみれ\)Short ver.\-](https://open.spotify.com/track/5Y6QHaJ2RljnPsIhoIcJVX) | [ラム\(CV:上坂すみれ\)](https://open.spotify.com/artist/5vlOkm94N3w3XhsqX4WITI) | [ラムのラブソング \-ラム\(CV:上坂すみれ\)Short ver.\-](https://open.spotify.com/album/4caUIm3cOfOZrDyFwylEcs) | 1:35 | 2023-03-23 | 2023-04-26 |
 | [リナリア](https://open.spotify.com/track/1EcWKRFhvsDMkBSDjoOUav) | [Nowlu](https://open.spotify.com/artist/0TAhk9VlgZqLcM4wn5nUpO) | [リナリア](https://open.spotify.com/album/0PSl0xYeFCBe24VyQiOMEQ) | 4:08 | 2023-01-05 | 2023-03-22 |
 | [リライト \- from CrosSing](https://open.spotify.com/track/4K02Qepi2R08uz15q50vos) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [リライト \- from CrosSing](https://open.spotify.com/album/011upJam3OIlt6QT8qDRuS) | 3:48 | 2022-11-22 | 2022-11-24 |
-| [リンネ](https://open.spotify.com/track/4Ps9apbyXwAzD99EfQdKdy) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [リンネ](https://open.spotify.com/album/6HAAgNaMddnBwL6u9HOCpX) | 4:15 | 2023-04-01 |  |
+| [リンネ](https://open.spotify.com/track/4Ps9apbyXwAzD99EfQdKdy) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [リンネ](https://open.spotify.com/album/6HAAgNaMddnBwL6u9HOCpX) | 4:15 | 2023-04-01 | 2023-04-27 |
+| [リンネ](https://open.spotify.com/track/4Zl0YGg14OYsXoUareu1MX) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [リンネ](https://open.spotify.com/album/6OAstY8cQ4Pi0Q0EQQ0oaY) | 4:15 | 2023-04-25 |  |
 | [ルパン三世主題歌Ⅱ](https://open.spotify.com/track/6XEtXkDY8mIVFj6LgN4AOJ) | [山下穀雄](https://open.spotify.com/artist/2R2YOJvwaLrE32lLSkSqJI), [Otomo Yoshihide](https://open.spotify.com/artist/4P8VTkHWHX32b1xRa7uK03), [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [ルパン三世主題歌Ⅱ](https://open.spotify.com/album/2VrwFGVZVQ6K9qslrC8HLi) | 6:12 | 2023-01-31 | 2023-03-01 |
 | [ルードルーズダンス](https://open.spotify.com/track/0sHbdxyepJ11nCCUEOin35) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [ルードルーズダンス](https://open.spotify.com/album/78MM2z00YPJadoqTqmhDbi) | 4:42 | 2023-01-26 | 2023-04-12 |
 | [ロマンティックマニフェスト](https://open.spotify.com/track/5zTs0vqU5ecrsvbYdRVdBB) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [ロマンティックマニフェスト](https://open.spotify.com/album/4RsEb8TXkdM9a1nqNzv0rw) | 4:06 | 2022-12-20 | 2023-01-18 |

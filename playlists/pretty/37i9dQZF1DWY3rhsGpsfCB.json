@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 9329,
+  "num_followers": 9367,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA4MTM5MSwwMDAwMDAwMDk1NGUyZGRiNWZjZGJhNTc2YmZhNDU3ZWE1OTY0Mzg4",
+  "snapshot_id": "MTY4MjA4MTM5MSwwMDAwMDAwMGNlODJkMTk3MmI4ZmM4ZTkzZmRjY2RhNzQ0N2JkNjFk",
   "tracks": [
     {
       "added_at": "2023-04-21 12:49:51",
@@ -17,7 +17,7 @@
       "artists": [
         {
           "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+          "url": "https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF"
         }
       ],
       "duration_ms": 184791,
@@ -137,7 +137,7 @@
       "artists": [
         {
           "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+          "url": "https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF"
         },
         {
           "name": "Ayra Starr",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-04-21 12:49:51",
       "album": {
+        "name": "Since I Have A Lover",
+        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Since I Have A Lover",
+      "url": "https://open.spotify.com/track/5D1QJgn1rP8docnVY6MRJ9"
+    },
+    {
+      "added_at": "2023-04-21 12:49:51",
+      "album": {
         "name": "Float (feat. Seun Kuti & Egypt 80)",
         "url": "https://open.spotify.com/album/6KfYPDq58mLwd3yjOfXIU7"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 242166,
       "name": "Float (feat. Seun Kuti & Egypt 80)",
       "url": "https://open.spotify.com/track/2JIY6nN5kkkfNz0TckPqYu"
-    },
-    {
-      "added_at": "2023-04-21 12:49:51",
-      "album": {
-        "name": "Since I Have A Lover",
-        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Since I Have A Lover",
-      "url": "https://open.spotify.com/track/5D1QJgn1rP8docnVY6MRJ9"
     },
     {
       "added_at": "2023-04-21 12:49:51",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-04-21 12:49:51",
       "album": {
+        "name": "Wetin",
+        "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "duration_ms": 78946,
+      "name": "Wetin",
+      "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
+    },
+    {
+      "added_at": "2023-04-21 12:49:51",
+      "album": {
         "name": "My Baby",
         "url": "https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 190000,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w"
-    },
-    {
-      "added_at": "2023-04-21 12:49:51",
-      "album": {
-        "name": "Wetin",
-        "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
-      },
-      "artists": [
-        {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
-        }
-      ],
-      "duration_ms": 78946,
-      "name": "Wetin",
-      "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
     },
     {
       "added_at": "2023-04-21 12:49:51",
@@ -495,18 +495,22 @@
     {
       "added_at": "2023-04-21 12:49:51",
       "album": {
-        "name": "Fatal Attraction",
-        "url": "https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT"
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/1khrykFtUgs38Ba0QA0Lq4"
       },
       "artists": [
         {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 196933,
-      "name": "Fatal Attraction",
-      "url": "https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo"
+      "duration_ms": 139586,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/1QrRuByqSfCxYS0JdZMlIf"
     },
     {
       "added_at": "2023-04-21 12:49:51",
@@ -531,22 +535,18 @@
     {
       "added_at": "2023-04-21 12:49:51",
       "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/1khrykFtUgs38Ba0QA0Lq4"
+        "name": "Since I Have A Lover",
+        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
       },
       "artists": [
         {
-          "name": "BLK ODYSSY",
-          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         }
       ],
-      "duration_ms": 139586,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/1QrRuByqSfCxYS0JdZMlIf"
+      "duration_ms": 196933,
+      "name": "Fatal Attraction",
+      "url": "https://open.spotify.com/track/3y9JbvYZAhVeQsAECrKAgt"
     },
     {
       "added_at": "2023-04-21 12:49:51",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2023-04-21 12:49:51",
       "album": {
-        "name": "Maybe",
-        "url": "https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt"
-      },
-      "artists": [
-        {
-          "name": "Ukweli",
-          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
-        },
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        }
-      ],
-      "duration_ms": 205601,
-      "name": "Love Me or Leave Me",
-      "url": "https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO"
-    },
-    {
-      "added_at": "2023-04-21 12:49:51",
-      "album": {
         "name": "Low eyes",
         "url": "https://open.spotify.com/album/5BKCapyPTSHptN7k2oAxXX"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 165161,
       "name": "Why",
       "url": "https://open.spotify.com/track/5RnAlrUxLZmBGhgICz5ggZ"
+    },
+    {
+      "added_at": "2023-04-21 12:49:51",
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt"
+      },
+      "artists": [
+        {
+          "name": "Ukweli",
+          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
+        },
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "duration_ms": 205601,
+      "name": "Love Me or Leave Me",
+      "url": "https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO"
     },
     {
       "added_at": "2023-04-21 12:49:51",
@@ -1391,22 +1391,18 @@
     {
       "added_at": "2023-04-21 12:49:51",
       "album": {
-        "name": "From Uganda With Love",
-        "url": "https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL"
+        "name": "echo: dawn",
+        "url": "https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF"
       },
       "artists": [
         {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        },
-        {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+          "name": "Just a Band",
+          "url": "https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA"
         }
       ],
-      "duration_ms": 110124,
-      "name": "SUPAHAWT",
-      "url": "https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF"
+      "duration_ms": 187375,
+      "name": "Thank You/Rebel and a Cause - from ech0",
+      "url": "https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0"
     },
     {
       "added_at": "2023-04-21 12:49:51",
@@ -1439,18 +1435,22 @@
     {
       "added_at": "2023-04-21 12:49:51",
       "album": {
-        "name": "echo: dawn",
-        "url": "https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF"
+        "name": "From Uganda With Love",
+        "url": "https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL"
       },
       "artists": [
         {
-          "name": "Just a Band",
-          "url": "https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA"
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
         }
       ],
-      "duration_ms": 187375,
-      "name": "Thank You/Rebel and a Cause - from ech0",
-      "url": "https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0"
+      "duration_ms": 110124,
+      "name": "SUPAHAWT",
+      "url": "https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF"
     },
     {
       "added_at": "2023-04-21 12:49:51",

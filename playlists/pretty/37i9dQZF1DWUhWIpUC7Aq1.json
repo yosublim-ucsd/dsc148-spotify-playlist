@@ -1,12 +1,12 @@
 {
   "description": "Not your manic pixie dream girl, just twee af. Cover: Zooey Deschanel",
-  "num_followers": 94221,
+  "num_followers": 94538,
   "original_name": "Twee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgzMDY3MiwwMDAwMDAwMDhkYTQ3MzI2NjQzNDgxNmZmYTVhNzZlYmQwYzczMWY1",
+  "snapshot_id": "MTY3ODgzMDY3MiwwMDAwMDAwMGI0OGFjYjM4NTk5ZWE2Njk3NDVlMDIyNTIzYjIwNzBj",
   "tracks": [
     {
       "added_at": "2023-03-14 21:50:42",
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/2UWdUez9MB9yzL7Y81Mcip"
     },
     {
-      "added_at": "2023-04-26 00:58:40",
+      "added_at": "2023-04-27 01:02:33",
       "album": {
         "name": "First Band On The Moon (Remastered)",
         "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Plans",
-        "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 229413,
-      "name": "Soul Meets Body",
-      "url": "https://open.spotify.com/track/5yc59J3MR3tVDPTOgwgRI5"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "Yoshimi Battles the Pink Robots",
         "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 213173,
       "name": "Do You Realize??",
       "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 229413,
+      "name": "Soul Meets Body",
+      "url": "https://open.spotify.com/track/5yc59J3MR3tVDPTOgwgRI5"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Transatlanticism (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 219266,
-      "name": "Title and Registration",
-      "url": "https://open.spotify.com/track/0hgEsoAu23ap8V5GFX9Y3i"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "1982 4 Piece Demo",
         "url": "https://open.spotify.com/album/7630ndv8hRJ54Cx8OpYGIG"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 194821,
       "name": "Trees and Flowers",
       "url": "https://open.spotify.com/track/39VxarnBZV8POFPXvnAD2U"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "Illinois",
+        "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 353946,
+      "name": "Casimir Pulaski Day",
+      "url": "https://open.spotify.com/track/53TIOhzNpRpl8xKdscSQSv"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Illinois",
-        "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
+        "name": "Transatlanticism (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
         }
       ],
-      "duration_ms": 353946,
-      "name": "Casimir Pulaski Day",
-      "url": "https://open.spotify.com/track/53TIOhzNpRpl8xKdscSQSv"
+      "duration_ms": 219266,
+      "name": "Title and Registration",
+      "url": "https://open.spotify.com/track/0hgEsoAu23ap8V5GFX9Y3i"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Begin to Hope",
-        "url": "https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE"
-      },
-      "artists": [
-        {
-          "name": "Regina Spektor",
-          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
-        }
-      ],
-      "duration_ms": 207880,
-      "name": "Hotel Song",
-      "url": "https://open.spotify.com/track/2AqmtgKAp7scMFisn3j6ma"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "Juno - Music From The Motion Picture",
         "url": "https://open.spotify.com/album/3Dm3Kc5oOFtesVJe5TF1HG"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 165840,
       "name": "So Nice So Smart",
       "url": "https://open.spotify.com/track/5EAPbYyAnuOUG4EICxgBlU"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "Begin to Hope",
+        "url": "https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE"
+      },
+      "artists": [
+        {
+          "name": "Regina Spektor",
+          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
+        }
+      ],
+      "duration_ms": 207880,
+      "name": "Hotel Song",
+      "url": "https://open.spotify.com/track/2AqmtgKAp7scMFisn3j6ma"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "London Weekend",
-        "url": "https://open.spotify.com/album/0qqmFX3N1jydkGpnORVUhR"
-      },
-      "artists": [
-        {
-          "name": "Another Sunny Day",
-          "url": "https://open.spotify.com/artist/6EGQKKjGZOxDJ1iy7Pw25M"
-        }
-      ],
-      "duration_ms": 278440,
-      "name": "You Should All Be Murdered",
-      "url": "https://open.spotify.com/track/3eS1455bVYxlkk1a2GVTaQ"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "The Execution Of All Things",
         "url": "https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 271800,
       "name": "The Good That Won't Come Out",
       "url": "https://open.spotify.com/track/3Fuf9vd6hlIkXBgwotuVWS"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "London Weekend",
+        "url": "https://open.spotify.com/album/0qqmFX3N1jydkGpnORVUhR"
+      },
+      "artists": [
+        {
+          "name": "Another Sunny Day",
+          "url": "https://open.spotify.com/artist/6EGQKKjGZOxDJ1iy7Pw25M"
+        }
+      ],
+      "duration_ms": 278440,
+      "name": "You Should All Be Murdered",
+      "url": "https://open.spotify.com/track/3eS1455bVYxlkk1a2GVTaQ"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Punch-Drunk Love (Music from the Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7sdNTTUH7F47pfAgXkSBUJ"
-      },
-      "artists": [
-        {
-          "name": "Punch-Drunk Love",
-          "url": "https://open.spotify.com/artist/42knKQiZRoKODmuki73xnB"
-        }
-      ],
-      "duration_ms": 286533,
-      "name": "Here We Go",
-      "url": "https://open.spotify.com/track/2sZPDd14bOTQ31FomTeSsF"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "Give Up",
         "url": "https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 261253,
       "name": "Sleeping In",
       "url": "https://open.spotify.com/track/7zQJyoUpnuey6ijp48zvng"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "Punch-Drunk Love (Music from the Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7sdNTTUH7F47pfAgXkSBUJ"
+      },
+      "artists": [
+        {
+          "name": "Punch-Drunk Love",
+          "url": "https://open.spotify.com/artist/42knKQiZRoKODmuki73xnB"
+        }
+      ],
+      "duration_ms": 286533,
+      "name": "Here We Go",
+      "url": "https://open.spotify.com/track/2sZPDd14bOTQ31FomTeSsF"
     },
     {
       "added_at": "2023-03-14 21:50:42",

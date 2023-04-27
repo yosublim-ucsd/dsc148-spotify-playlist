@@ -4,7 +4,7 @@
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Fall Out Boy
 
-231 songs - 14 hr 8 min
+232 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Fighter](https://open.spotify.com/track/4gi2kndWShH9kDbb9kBfs6) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Metamorph](https://open.spotify.com/album/1kf3w2zcfjNYpx1NjnJmQ8) | 2:36 | 2022-03-18 |  |
 | [Fill My World \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/track/3BAI5c9ju2d9BWzoFka2PO) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [Fill My World \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/album/4zBCquAHyZuELJfNx2CJL5) | 5:28 | 2022-01-14 | 2022-01-29 |
 | [First You Jump](https://open.spotify.com/track/0SMl6SNZscGTPAtPUeLjFf) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [First You Jump](https://open.spotify.com/album/38850Wz3F2l5L9qniuXUqz) | 4:23 | 2022-09-09 | 2022-11-12 |
-| [Foregone, Pt\. 2](https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone, Pt\. 2](https://open.spotify.com/album/6xQGhi9dsEWYn8Jwj4MD9S) | 4:30 | 2022-11-11 |  |
+| [Foregone, Pt\. 2](https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone, Pt\. 2](https://open.spotify.com/album/6xQGhi9dsEWYn8Jwj4MD9S) | 4:30 | 2022-11-11 | 2023-04-27 |
+| [Foregone, Pt\. 2](https://open.spotify.com/track/6kk4G7WCvFrYuiotuDnH2N) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone](https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3) | 4:30 | 2023-04-21 |  |
 | [Forever Yours](https://open.spotify.com/track/42QjPSl9BLQ6X0ciDJXMpD) | [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H) | [Forever Yours](https://open.spotify.com/album/6bhTmeMKYsSgqg7hAaU8KQ) | 3:10 | 2022-04-08 | 2022-04-29 |
 | [Forgotten](https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:17 | 2022-07-01 |  |
 | [Forgotten](https://open.spotify.com/track/4TWHdkXfyu7gLpAUSyU1X8) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Forgotten](https://open.spotify.com/album/155RnIndCn3TFeiPV6bo2E) | 3:17 | 2022-01-14 | 2022-07-29 |

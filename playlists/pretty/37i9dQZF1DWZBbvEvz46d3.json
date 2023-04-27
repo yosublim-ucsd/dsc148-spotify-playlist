@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 56377,
+  "num_followers": 56399,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDUxNTYzNSwwMDAwMDAwMDc4MzlkMTI1NmQ4OWM5MzhkYWJlOWU1MTFkZjhkMTVm",
+  "snapshot_id": "MTY4MDUxNTYzNSwwMDAwMDAwMDNhMTNlN2QxNDZiYTQ0MjQ1YzFhMTM2YWUyZDUxNjQ5",
   "tracks": [
     {
       "added_at": "2023-04-03 09:53:55",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Obrazki",
-        "url": "https://open.spotify.com/album/78C1YjhR3Crdoi7WwuIQuC"
-      },
-      "artists": [
-        {
-          "name": "Wilki",
-          "url": "https://open.spotify.com/artist/1hxJUOxvX3SXaVYz4qaFyM"
-        }
-      ],
-      "duration_ms": 193973,
-      "name": "Na zawsze i na wieczno\u015b\u0107",
-      "url": "https://open.spotify.com/track/4Dw3fQrWGRteHRDeCAIrIY"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
         "name": "Milosc",
         "url": "https://open.spotify.com/album/6JMq8W8uo45Mpt3uMAoWcB"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 195040,
       "name": "Peron",
       "url": "https://open.spotify.com/track/77eqkdC6DXRUIT09syzW5d"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
+        "name": "Obrazki",
+        "url": "https://open.spotify.com/album/78C1YjhR3Crdoi7WwuIQuC"
+      },
+      "artists": [
+        {
+          "name": "Wilki",
+          "url": "https://open.spotify.com/artist/1hxJUOxvX3SXaVYz4qaFyM"
+        }
+      ],
+      "duration_ms": 193973,
+      "name": "Na zawsze i na wieczno\u015b\u0107",
+      "url": "https://open.spotify.com/track/4Dw3fQrWGRteHRDeCAIrIY"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/1UaJL8ydW6w4VL5ECw27ew"
-      },
-      "artists": [
-        {
-          "name": "Robert Gawlinski",
-          "url": "https://open.spotify.com/artist/32qNyW2sjyjjPDQamC2f9O"
-        }
-      ],
-      "duration_ms": 182293,
-      "name": "O Sobie Samym",
-      "url": "https://open.spotify.com/track/01FN979nyz1gmdsfWZv5OL"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
         "name": "Dla Naiwnych Marzycieli",
         "url": "https://open.spotify.com/album/0oGiggXuV7aZA3omAELhiR"
       },
@@ -1191,22 +1175,18 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Tamta dziewczyna",
-        "url": "https://open.spotify.com/album/10xXsahXWCsHQDS5IR82QN"
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/1UaJL8ydW6w4VL5ECw27ew"
       },
       "artists": [
         {
-          "name": "Sylwia Grzeszczak",
-          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
-        },
-        {
-          "name": "Mateusz Zi\u00f3\u0142ko",
-          "url": "https://open.spotify.com/artist/0bfBH61NEvZOmVTUyUL1yO"
+          "name": "Robert Gawlinski",
+          "url": "https://open.spotify.com/artist/32qNyW2sjyjjPDQamC2f9O"
         }
       ],
-      "duration_ms": 222865,
-      "name": "Bezdro\u017ca (feat. Mateusz Zi\u00f3\u0142ko)",
-      "url": "https://open.spotify.com/track/3uLUwh8j0KWi9kyynQ3nUI"
+      "duration_ms": 182293,
+      "name": "O Sobie Samym",
+      "url": "https://open.spotify.com/track/01FN979nyz1gmdsfWZv5OL"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -1227,6 +1207,26 @@
       "duration_ms": 186026,
       "name": "Nie k\u0142am \u017ce mnie kochasz",
       "url": "https://open.spotify.com/track/0Xj3MeniDBK33I1YZcqlqP"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
+        "name": "Tamta dziewczyna",
+        "url": "https://open.spotify.com/album/10xXsahXWCsHQDS5IR82QN"
+      },
+      "artists": [
+        {
+          "name": "Sylwia Grzeszczak",
+          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+        },
+        {
+          "name": "Mateusz Zi\u00f3\u0142ko",
+          "url": "https://open.spotify.com/artist/0bfBH61NEvZOmVTUyUL1yO"
+        }
+      ],
+      "duration_ms": 222865,
+      "name": "Bezdro\u017ca (feat. Mateusz Zi\u00f3\u0142ko)",
+      "url": "https://open.spotify.com/track/3uLUwh8j0KWi9kyynQ3nUI"
     },
     {
       "added_at": "2023-04-03 09:53:55",

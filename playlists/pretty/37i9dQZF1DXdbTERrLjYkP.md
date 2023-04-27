@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Addison Grace
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,940 likes - 55 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,978 likes - 55 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 42 | [AS IT SEEMS](https://open.spotify.com/track/51by1PCmtPWgKmeznbDkIj) | [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [I H8 EVERYONE](https://open.spotify.com/album/5xeQy6IHThwOo4yOMdBYz5) | 4:25 |
 | 43 | [Almost Loved You](https://open.spotify.com/track/1gCIGVbF00N5toEK0TEmWr) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [part one](https://open.spotify.com/album/7mMRGWSoqwWWwQzCI2eMqh) | 3:40 |
 | 44 | [Gatekeeper](https://open.spotify.com/track/7uveohm2cpiLUOYZ7fj8hM) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Gatekeeper](https://open.spotify.com/album/2cbHlXqnA646x6mGL8RpWB) | 3:26 |
-| 45 | [Us and Pigs](https://open.spotify.com/track/4SmhvwAHcPS07SfLUSOJnt) | [Sofia Isella](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Us and Pigs](https://open.spotify.com/album/0qoWzc62jWceify6jMxXDt) | 2:54 |
+| 45 | [Us and Pigs](https://open.spotify.com/track/4SmhvwAHcPS07SfLUSOJnt) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Us and Pigs](https://open.spotify.com/album/0qoWzc62jWceify6jMxXDt) | 2:54 |
 | 46 | [Spam Calls](https://open.spotify.com/track/34jEr8NupQF9PVS31Tyfff) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Spam Calls](https://open.spotify.com/album/4T7PakYjXie0JjTC6JqfSh) | 2:59 |
 | 47 | [Liability](https://open.spotify.com/track/0xx9SsVOjvYD31g5quYWdN) | [Syd Franklin](https://open.spotify.com/artist/0FVBV0tOAo6AWz8ecbKjY7) | [Liability](https://open.spotify.com/album/3zFIcNN4VJ4W4UzWiaqxpV) | 4:31 |
 | 48 | [Broken English](https://open.spotify.com/track/15K6Qae0N8GCqKy3PepT3Z) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Broken English](https://open.spotify.com/album/2x90iNz3Rr7QewJq7kpAGA) | 3:02 |

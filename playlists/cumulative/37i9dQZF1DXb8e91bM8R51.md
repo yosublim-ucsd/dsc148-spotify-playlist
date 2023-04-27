@@ -4,7 +4,7 @@
 
 > Hip Hop pra fazer os corres da vida.
 
-327 songs - 18 hr 45 min
+328 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,7 +303,8 @@
 | [Too Much \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/7pZeacKYnK4unCplCmI2qb) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Too Much \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/0R87OEh0NzfdjavsrmrGtj) | 3:08 | 2022-09-02 |  |
 | [Toosie Slide](https://open.spotify.com/track/127QTOFJsJQp5LbJbu3A1y) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Toosie Slide](https://open.spotify.com/album/3xIwVbGJuAcovYIhzbLO3J) | 4:07 | 2022-01-14 | 2022-02-26 |
 | [Top Gone \(with Lunay\)](https://open.spotify.com/track/0EgkGFmAdFLkZVtbyGlQRe) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Top Gone \(with Lunay\)](https://open.spotify.com/album/6pzt4VtRQPVattiSb1ZZAO) | 3:14 | 2022-01-14 | 2022-05-23 |
-| [Torpedo](https://open.spotify.com/track/5R5UNKWsmMPpFq5JHK93Fw) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Torpedo](https://open.spotify.com/album/11udbkutLAaM7XN3amRT9t) | 4:00 | 2022-12-30 |  |
+| [Torpedo](https://open.spotify.com/track/3hT2zPRGkrL9wutPeZtvKQ) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 4:00 | 2023-04-21 |  |
+| [Torpedo](https://open.spotify.com/track/5R5UNKWsmMPpFq5JHK93Fw) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Torpedo](https://open.spotify.com/album/11udbkutLAaM7XN3amRT9t) | 4:00 | 2022-12-30 | 2023-04-27 |
 | [Troubles \[Feat\. T\-Pain\]](https://open.spotify.com/track/2DyiZvzSxkf1N6fvcfEKEO) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Troubles \[Feat\. T\-Pain\]](https://open.spotify.com/album/446vvjZgKLxPAnR0zciABe) | 2:40 | 2022-03-25 | 2023-03-06 |
 | [True Love](https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [True Love](https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc) | 2:28 | 2022-05-27 |  |
 | [Try Me](https://open.spotify.com/track/0tIHHwV2eL10rpQ1fiyDjz) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Try Me](https://open.spotify.com/album/71ziNzfuk5VLPwiAvQaC1X) | 2:21 | 2022-01-14 | 2022-02-26 |

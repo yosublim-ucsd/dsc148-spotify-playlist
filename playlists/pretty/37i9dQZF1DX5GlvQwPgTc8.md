@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GlvQwPgTc8.md) - [plain]
 
 > Your favourite party hits to kick off the weekend\. Can you taste it?
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,807 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,804 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GlvQwPgTc8.md) - [plain]
 | 37 | [Walking with Elephants](https://open.spotify.com/track/6wPMapHawG4uns1R3vHzUG) | [Ten Walls](https://open.spotify.com/artist/4veIvBHKoUacjuoMOm3vsg) | [Walking With Elephants](https://open.spotify.com/album/7etzwfYztvvEQqqx9ryWxj) | 5:25 |
 | 38 | [BALENCIAGA](https://open.spotify.com/track/17NCOO2YdoHdtziSV9AoJo) | [FILV](https://open.spotify.com/artist/438DEJaM9KJdqbBUPnVYB0) | [BALENCIAGA](https://open.spotify.com/album/0c2qecYSSiW9ibtBlFyRWI) | 2:34 |
 | 39 | [SAD \- Imanbek xxx Remix](https://open.spotify.com/track/4x5ymi4akay9Fq5Xm1PW3E) | [Rasster](https://open.spotify.com/artist/3LVYHgfHgCTy3QSRt5kKQg), [Erin Bloomer](https://open.spotify.com/artist/5vPqlDBYNZiF5SrHGS6Cyt), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [SAD \(Imanbek xxx Remix\)](https://open.spotify.com/album/0MoT8k5F7qoeCcP2DfW8GF) | 2:54 |
-| 40 | [No Therapy](https://open.spotify.com/track/7tUTCcqkMCnC9qLqbQeI0T) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [No Therapy](https://open.spotify.com/album/0XTNNkLIXEGtOqevtADXgi) | 2:52 |
-| 41 | [Creep](https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79) | 2:41 |
+| 40 | [Creep](https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79) | 2:41 |
+| 41 | [No Therapy](https://open.spotify.com/track/7tUTCcqkMCnC9qLqbQeI0T) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [No Therapy](https://open.spotify.com/album/0XTNNkLIXEGtOqevtADXgi) | 2:52 |
 | 42 | [Move All Night](https://open.spotify.com/track/6RKFXPdoCBRcLljsxKZUNw) | [SNBRN](https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI), [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [KOLE](https://open.spotify.com/artist/7qie8FfXQTHp0azRKySWd8) | [Move All Night](https://open.spotify.com/album/6tqBfSCLLuwkpaz2qGEsG6) | 3:17 |
 | 43 | [Just Hold On](https://open.spotify.com/track/508oFmt92FyICj6pZiWQwC) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Neon Future III](https://open.spotify.com/album/2XLdhcA2xQy2Iw74Cly9QL) | 3:18 |
 | 44 | [On Hold \- Jamie xx Remix](https://open.spotify.com/track/3qOuySPLpVyBXLuTNMgbRj) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [On Hold \(Jamie xx Remix\)](https://open.spotify.com/album/1KwcjMbLdbmGBvHFRjNWCo) | 6:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GlvQwPgTc8.md) - [plain]
 | 49 | [Particula](https://open.spotify.com/track/0e8fTfa0ZKCwOi2UdULooT) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [Know No Better](https://open.spotify.com/album/0NYAre99G6yH7OzKOVt4KC) | 3:24 |
 | 50 | [Fibonacci](https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Fibonacci](https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY) | 3:08 |
 
-Snapshot ID: `MTYxMzExNTc1NiwwMDAwMDAwMGI4NDYwMDk1NDg2ZjlkYmJkMTgwMjlmNGU4OTVlOTZj`
+Snapshot ID: `MTYxMzExNTc1NiwwMDAwMDAwMDE4NDFmYzlmOWFkMjFlMDk1ZDVmOWU1YjlkMzFkMThl`

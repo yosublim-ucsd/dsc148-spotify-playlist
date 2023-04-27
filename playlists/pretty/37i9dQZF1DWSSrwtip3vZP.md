@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSrwtip3vZP.md) - [plain]
 
 > music to help you \~ focus \~
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,295 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,526 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

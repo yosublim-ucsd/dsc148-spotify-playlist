@@ -4,7 +4,7 @@
 
 > Musica dance per le tue giornate di sole ☀️
 
-262 songs - 13 hr 3 min
+263 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [No One Compares To You](https://open.spotify.com/track/4cZ3UsiKd1kUQIaq4BFIj2) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [A Good Friend Is Nice](https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk) | 3:02 | 2022-07-22 | 2023-03-18 |
 | [Not Ok](https://open.spotify.com/track/6aoGtdWXBkYQ2O2wnyIz2x) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Not Ok](https://open.spotify.com/album/3GTuto6NDtZegL6idSk183) | 3:30 | 2022-07-22 | 2022-12-21 |
 | [Not the One](https://open.spotify.com/track/481ZLYM7FUam5FACXysCev) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Not the One](https://open.spotify.com/album/1AfHalVy5AETYsy9Yzm92e) | 2:16 | 2022-08-26 | 2023-03-22 |
-| [Okay](https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7), [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Okay](https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE) | 2:31 | 2022-05-06 |  |
+| [Okay](https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7), [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Okay](https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE) | 2:31 | 2022-05-06 | 2023-04-27 |
 | [On Me \(feat\. Ava Max\)](https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [SCOOB! The Album](https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG) | 2:44 | 2022-07-22 | 2023-03-22 |
 | [On Repeat](https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On Repeat](https://open.spotify.com/album/18DHRG697Xqb5yLR1UQeIw) | 3:10 | 2023-03-21 |  |
 | [One Last Time \(with R3HAB\) \(feat\. Enny\-Mae\)](https://open.spotify.com/track/7KoUk2BFyV8HkocdHMUNTw) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [One Last Time \(with R3HAB\) \(feat\. Enny\-Mae\)](https://open.spotify.com/album/1D98GoIVHBVQsPPPAmBYDX) | 2:35 | 2022-09-23 |  |
@@ -193,6 +193,7 @@
 | [Ricochet](https://open.spotify.com/track/6tGXmjNXIZ0AHvmQzeApaj) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Ricochet](https://open.spotify.com/album/3FBiuG25koQiNpp39km7g1) | 3:25 | 2022-06-27 | 2022-06-29 |
 | [Rise](https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Rise](https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L) | 3:13 | 2022-05-06 |  |
 | [Risk It All](https://open.spotify.com/track/2ntTfXxuIi3jlePOKSz26N) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ), [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo) | [Risk It All](https://open.spotify.com/album/5M3l5zq8jxFRcF2143SbH5) | 2:58 | 2022-05-06 |  |
+| [Ritmo \- HUGEL Edit](https://open.spotify.com/track/6U0NVioYt4nZARPNOKhExY) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Ritmo \(HUGEL Edit\)](https://open.spotify.com/album/6jl8AuIfgD8jznXf0Rjh1C) | 2:45 | 2023-04-07 |  |
 | [Run](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Run](https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L) | 3:08 | 2023-03-21 |  |
 | [Run Into Trouble](https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Run Into Trouble](https://open.spotify.com/album/2Cfzwp8KLSsL7oul0sGirP) | 3:02 | 2022-05-06 |  |
 | [Runaway](https://open.spotify.com/track/19boUY253NrYTqJMh50d5X) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Runaway](https://open.spotify.com/album/6h8sC5uwBGO0Wu6EiToz6a) | 2:48 | 2022-12-02 |  |

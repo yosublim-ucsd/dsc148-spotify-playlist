@@ -1,12 +1,12 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: BLOO(\ube14\ub8e8)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 187363,
+  "num_followers": 187462,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA1NjYzMywwMDAwMDAwMGRiZjAwZTg3M2M4YmExOTkyMWFjZTk0NWVhN2IyM2Nh",
+  "snapshot_id": "MTY4MjA1NjYzMywwMDAwMDAwMGIyNDU4MjgwNzBkYWFlZGEwOTA3Zjk0YjFlOThmZmRk",
   "tracks": [
     {
       "added_at": "2023-04-21 05:57:13",
@@ -975,22 +975,18 @@
     {
       "added_at": "2023-04-21 05:57:13",
       "album": {
-        "name": "Akita",
-        "url": "https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS"
+        "name": "Organic",
+        "url": "https://open.spotify.com/album/56WOBbnm0qft9uNzGA4YWJ"
       },
       "artists": [
         {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        },
-        {
-          "name": "hartts",
-          "url": "https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv"
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
         }
       ],
-      "duration_ms": 224293,
-      "name": "Akita (Feat. hartts) (Prod. OBSN)",
-      "url": "https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV"
+      "duration_ms": 203826,
+      "name": "Shy (eh o)",
+      "url": "https://open.spotify.com/track/5UPrxc9ewxFRaSGMPkad3O"
     },
     {
       "added_at": "2023-04-21 05:57:13",
@@ -1011,18 +1007,22 @@
     {
       "added_at": "2023-04-21 05:57:13",
       "album": {
-        "name": "Organic",
-        "url": "https://open.spotify.com/album/56WOBbnm0qft9uNzGA4YWJ"
+        "name": "Akita",
+        "url": "https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS"
       },
       "artists": [
         {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        },
+        {
+          "name": "hartts",
+          "url": "https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv"
         }
       ],
-      "duration_ms": 203826,
-      "name": "Shy (eh o)",
-      "url": "https://open.spotify.com/track/5UPrxc9ewxFRaSGMPkad3O"
+      "duration_ms": 224293,
+      "name": "Akita (Feat. hartts) (Prod. OBSN)",
+      "url": "https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV"
     },
     {
       "added_at": "2023-04-21 05:57:13",
@@ -1135,42 +1135,6 @@
     {
       "added_at": "2023-04-21 05:57:13",
       "album": {
-        "name": "Pressure Makes Diamonds",
-        "url": "https://open.spotify.com/album/0eT8WtiDIRVOzHuYWVpEnc"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        }
-      ],
-      "duration_ms": 137413,
-      "name": "Six Weeks",
-      "url": "https://open.spotify.com/track/12F3kZjxE4LT6XjOvrzbqO"
-    },
-    {
-      "added_at": "2023-04-21 05:57:13",
-      "album": {
-        "name": "KISS ME",
-        "url": "https://open.spotify.com/album/2sFOvfJ0IaTdQAMGAXjRFH"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "KISS ME (Feat. BIG Naughty)",
-      "url": "https://open.spotify.com/track/3FjQFiQshUJfh6dcIzsq5h"
-    },
-    {
-      "added_at": "2023-04-21 05:57:13",
-      "album": {
         "name": "Ring Ring",
         "url": "https://open.spotify.com/album/4N9thFENBkyWKwhdzpJQfH"
       },
@@ -1187,6 +1151,42 @@
       "duration_ms": 206613,
       "name": "RING RING",
       "url": "https://open.spotify.com/track/62AE0Zae7OrkJ1NzA3BW0V"
+    },
+    {
+      "added_at": "2023-04-21 05:57:13",
+      "album": {
+        "name": "Pressure Makes Diamonds",
+        "url": "https://open.spotify.com/album/0eT8WtiDIRVOzHuYWVpEnc"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "duration_ms": 137413,
+      "name": "Six Weeks",
+      "url": "https://open.spotify.com/track/12F3kZjxE4LT6XjOvrzbqO"
+    },
+    {
+      "added_at": "2023-04-21 05:57:13",
+      "album": {
+        "name": "UNSTEADY",
+        "url": "https://open.spotify.com/album/70NDJqzjQTEWAvk0cdPWKz"
+      },
+      "artists": [
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "I BE LIKE (Feat. SOLE)",
+      "url": "https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ"
     },
     {
       "added_at": "2023-04-21 05:57:13",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2023-04-21 05:57:13",
       "album": {
-        "name": "UNSTEADY",
-        "url": "https://open.spotify.com/album/70NDJqzjQTEWAvk0cdPWKz"
-      },
-      "artists": [
-        {
-          "name": "TRADE L",
-          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
-        },
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "I BE LIKE (Feat. SOLE)",
-      "url": "https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ"
-    },
-    {
-      "added_at": "2023-04-21 05:57:13",
-      "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 252986,
       "name": "Gray So Gray (Feat. Younha)",
       "url": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY"
+    },
+    {
+      "added_at": "2023-04-21 05:57:13",
+      "album": {
+        "name": "KISS ME",
+        "url": "https://open.spotify.com/album/2sFOvfJ0IaTdQAMGAXjRFH"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "KISS ME (Feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/3FjQFiQshUJfh6dcIzsq5h"
     },
     {
       "added_at": "2023-04-21 05:57:13",
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2023-04-21 05:57:13",
       "album": {
+        "name": "Epik High Is Here \u4e0a (Part 1)",
+        "url": "https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 214640,
+      "name": "End of the World (Feat. GSoul)",
+      "url": "https://open.spotify.com/track/5ZO2kMfYHuKXoAShKuXjZn"
+    },
+    {
+      "added_at": "2023-04-21 05:57:13",
+      "album": {
         "name": "Between Sat & Sun",
         "url": "https://open.spotify.com/album/6YcwCU0b6fXZ003KIU8Jio"
       },
@@ -1439,26 +1459,6 @@
     {
       "added_at": "2023-04-21 05:57:13",
       "album": {
-        "name": "Epik High Is Here \u4e0a (Part 1)",
-        "url": "https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 214640,
-      "name": "End of the World (Feat. GSoul)",
-      "url": "https://open.spotify.com/track/5ZO2kMfYHuKXoAShKuXjZn"
-    },
-    {
-      "added_at": "2023-04-21 05:57:13",
-      "album": {
         "name": "VIOLINIST2",
         "url": "https://open.spotify.com/album/05cEu4COQP7cF3Otz7aDBT"
       },
@@ -1499,6 +1499,26 @@
     {
       "added_at": "2023-04-21 05:57:13",
       "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "Rich Kids Anthem (Feat. Lee Hi)",
+      "url": "https://open.spotify.com/track/4nF3APHarLJHV3igGVgTUJ"
+    },
+    {
+      "added_at": "2023-04-21 05:57:13",
+      "album": {
         "name": "COCO BOTTLE",
         "url": "https://open.spotify.com/album/18T01XcLc1WzIZ3bCzwOsg"
       },
@@ -1531,26 +1551,6 @@
       "duration_ms": 231413,
       "name": "Meeting is easy, parting is hard (Feat. Leellamarz) (Prod. TOIL)",
       "url": "https://open.spotify.com/track/1GFS1xMbcAWXf5W0tSuZev"
-    },
-    {
-      "added_at": "2023-04-21 05:57:13",
-      "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "Rich Kids Anthem (Feat. Lee Hi)",
-      "url": "https://open.spotify.com/track/4nF3APHarLJHV3igGVgTUJ"
     },
     {
       "added_at": "2023-04-21 05:57:13",
@@ -1687,26 +1687,6 @@
     {
       "added_at": "2023-04-21 05:57:13",
       "album": {
-        "name": "That's Why I Can't Talk About Love",
-        "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        }
-      ],
-      "duration_ms": 202840,
-      "name": "That's Why I Can't Talk About Love (Feat. Woo)",
-      "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
-    },
-    {
-      "added_at": "2023-04-21 05:57:13",
-      "album": {
         "name": "3-PAKTORY02",
         "url": "https://open.spotify.com/album/12jnTSyfUouBKTiOSyPBj6"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 257986,
       "name": "When I fall in love",
       "url": "https://open.spotify.com/track/24kQoMnicTBAYZzHUozStq"
+    },
+    {
+      "added_at": "2023-04-21 05:57:13",
+      "album": {
+        "name": "That's Why I Can't Talk About Love",
+        "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "duration_ms": 202840,
+      "name": "That's Why I Can't Talk About Love (Feat. Woo)",
+      "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
     },
     {
       "added_at": "2023-04-21 05:57:13",

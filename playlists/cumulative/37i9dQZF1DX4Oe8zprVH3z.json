@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/0AFaIkFlm0NkNax3Vbc4SD"
+      },
+      "artists": [
+        {
+          "name": "Pedro Caceres",
+          "url": "https://open.spotify.com/artist/61YOovGWdnYImyV9dgnaMA"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182227,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/1mKKxQFRpyyVcimzeoDfOB"
+    },
+    {
+      "album": {
         "name": "Alternating Current",
         "url": "https://open.spotify.com/album/31yaFYn1OpYbqEUlcL1ssU"
       },
@@ -689,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Meditative Tibetan Bowl Sounds",
+        "url": "https://open.spotify.com/album/3BUmmUDS5So1NK9FDyb28I"
+      },
+      "artists": [
+        {
+          "name": "Chime Dolma",
+          "url": "https://open.spotify.com/artist/0ndav6EeWFjk6gBztWytIo"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173613,
+      "name": "Meditative Tibetan Bowl Sounds (Soundbath - Country Rain)",
+      "url": "https://open.spotify.com/track/69a0pmpD9K9spyn2IQUYlM"
+    },
+    {
+      "album": {
         "name": "Memento Meditatio",
         "url": "https://open.spotify.com/album/5mnt4hpAYmYXHSQd4F8PGY"
       },
@@ -887,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Crystal Sound Bath Sanctuary",
+        "url": "https://open.spotify.com/album/0F9ckcZjOUN0mvg1tU2yil"
+      },
+      "artists": [
+        {
+          "name": "Mindful Measures",
+          "url": "https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208888,
+      "name": "Recalibrated Mind",
+      "url": "https://open.spotify.com/track/4VmbFJJGKSKxWkO1L6z0Ca"
+    },
+    {
+      "album": {
         "name": "Reflecting Moon",
         "url": "https://open.spotify.com/album/6Anbyedkfa89KmehHRmJMw"
       },
@@ -938,6 +992,24 @@
       "duration_ms": 182695,
       "name": "Restore",
       "url": "https://open.spotify.com/track/0hqSBm1sipCxHVl3qj1pNX"
+    },
+    {
+      "album": {
+        "name": "River of Dreams",
+        "url": "https://open.spotify.com/album/0u0sZil12h9RsQc23XSvam"
+      },
+      "artists": [
+        {
+          "name": "The Eventide",
+          "url": "https://open.spotify.com/artist/6jbL9UQUCzae8Vn3NcwQJ6"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "River of Dreams",
+      "url": "https://open.spotify.com/track/7tL0NVhXlW8W68chWCruDN"
     },
     {
       "album": {
@@ -1229,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "The Riddle of Dreams",
+        "url": "https://open.spotify.com/album/0jWXe3O5djbov0RcnXJZFG"
+      },
+      "artists": [
+        {
+          "name": "Epilogue Gravity",
+          "url": "https://open.spotify.com/artist/1ujQ7yELrx9UJkxV0NiSCe"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "The Riddle of Dreams",
+      "url": "https://open.spotify.com/track/3p8EPHwGsP6nX7UrwqzJlp"
+    },
+    {
+      "album": {
         "name": "The River Alciphei",
         "url": "https://open.spotify.com/album/2KPidbMUDiDQZqO5ivo24F"
       },
@@ -1316,6 +1406,24 @@
       "duration_ms": 206000,
       "name": "Tibetan Meditation Sound (Sound Bath)",
       "url": "https://open.spotify.com/track/5w9QsXkeT7nJ0kv3adurH6"
+    },
+    {
+      "album": {
+        "name": "Herinneringen",
+        "url": "https://open.spotify.com/album/4venH2zVkTvqtDlefzOWin"
+      },
+      "artists": [
+        {
+          "name": "Sohn Aelia",
+          "url": "https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185441,
+      "name": "Tobias - Sohn Aelia - Herinneringen (Sound Bath).wav",
+      "url": "https://open.spotify.com/track/5SFH2CpaArQW2iO9MWRhIW"
     },
     {
       "album": {

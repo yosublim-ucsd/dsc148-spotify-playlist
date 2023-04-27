@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Anitta, Matheus & Kauan, Mari Fernandez com Luiza Sonza, Luccas Carlos, Molejo com Thiaguinho e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,864,064 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,864,403 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

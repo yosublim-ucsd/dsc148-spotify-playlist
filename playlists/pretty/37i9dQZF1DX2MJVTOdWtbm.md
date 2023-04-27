@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Chicocurlyhead
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,363 likes - 85 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,413 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 31 | [Supersticiones](https://open.spotify.com/track/5JrnwgsC1FRz6uHyGFHpqZ) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [SUPERSTICIONES](https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu) | 3:08 |
 | 32 | [Algodón](https://open.spotify.com/track/4h7c7tqYjCBdWz8SPZh3bw) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Algodón](https://open.spotify.com/album/35XG5qlu93AXHV56U8tKZm) | 2:52 |
 | 33 | [Garabatos \(with Jay Wheeler\)](https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Garabatos \(with Jay Wheeler\)](https://open.spotify.com/album/5dZs5nHvzlqJyqKQ6NK5oD) | 3:22 |
-| 34 | [Niño Eterno](https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Niño Eterno](https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU) | 2:41 |
-| 35 | [Monte Carlo](https://open.spotify.com/track/0vV9YneKNzEEsAxQBFfOzp) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 3:07 |
+| 34 | [Monte Carlo](https://open.spotify.com/track/0vV9YneKNzEEsAxQBFfOzp) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 3:07 |
+| 35 | [Niño Eterno](https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Niño Eterno](https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU) | 2:41 |
 | 36 | [DOLORES](https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:19 |
-| 37 | [Summer Nights](https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Summer Nights](https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ) | 2:31 |
-| 38 | [B\-Day](https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [B\-Day](https://open.spotify.com/album/1hja3Ifsxu0GMwLB5nR5e2) | 4:08 |
+| 37 | [B\-Day](https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [B\-Day](https://open.spotify.com/album/1hja3Ifsxu0GMwLB5nR5e2) | 4:08 |
+| 38 | [Summer Nights](https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Summer Nights](https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ) | 2:31 |
 | 39 | [Ruido](https://open.spotify.com/track/0rQv29gK4jSBbU9pcmfODP) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Emociones](https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t) | 2:57 |
 | 40 | [De Ti](https://open.spotify.com/track/0VqA0mhqEslQXl5GZd1J9O) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Ti](https://open.spotify.com/album/3jDYMCt4DiIWGcJUbZkaco) | 3:34 |
 | 41 | [Galerna](https://open.spotify.com/track/0cw4MxjnhP15RC3aRxJR4O) | [DEVA](https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg), [Carlos Ares](https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI) | [Galerna](https://open.spotify.com/album/1x0YBpjfsJpk8h9ryEqgKH) | 3:08 |
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 53 | [5 A.M.](https://open.spotify.com/track/1rsKdke2NJBGNDzqe4wVTz) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [5 A.M.](https://open.spotify.com/album/2qd0uOP9veFhIFUKbuW2ks) | 3:02 |
 | 54 | [Quizás](https://open.spotify.com/track/2WAt7nE4oWR5yn6dUil3Qp) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Quizás](https://open.spotify.com/album/6pu8sEx8UvVuGbVI2WvSLy) | 4:08 |
 | 55 | [Supersad](https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Supersad](https://open.spotify.com/album/2DP6dlnGbY9W2ZkH4BKCNh) | 3:35 |
-| 56 | [Thirteen](https://open.spotify.com/track/3CeerksBP1R34v6L79rPvC) | [NEZZA](https://open.spotify.com/artist/0cRKBhWUTEtR1vmA06kVKz) | [Thirteen](https://open.spotify.com/album/6uB35Vnb3ntHG3r7SaOpTQ) | 3:33 |
+| 56 | [Todo](https://open.spotify.com/track/5rl1NVOQZBWMqhyTiOUHrJ) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd) | [Todo](https://open.spotify.com/album/3Vy5AXz67VBxwrnrZmXztx) | 3:22 |
 | 57 | [Girasol](https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Girasol](https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd) | 3:24 |
-| 58 | [Todo](https://open.spotify.com/track/5rl1NVOQZBWMqhyTiOUHrJ) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd) | [Todo](https://open.spotify.com/album/3Vy5AXz67VBxwrnrZmXztx) | 3:22 |
+| 58 | [Thirteen](https://open.spotify.com/track/3CeerksBP1R34v6L79rPvC) | [NEZZA](https://open.spotify.com/artist/0cRKBhWUTEtR1vmA06kVKz) | [Thirteen](https://open.spotify.com/album/6uB35Vnb3ntHG3r7SaOpTQ) | 3:33 |
 | 59 | [QCVH](https://open.spotify.com/track/0hi6aypEJwNCRrPQCouZF1) | [Jass Reyes](https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF) | [QCVH](https://open.spotify.com/album/2GttLbx4VBOgdL3uzHWO9G) | 2:16 |
 | 60 | [De Na'](https://open.spotify.com/track/4BRHC01xlK80uTBdz0NGhD) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [i hope you're very unhappy without me](https://open.spotify.com/album/579UaafRX8pIuyEaFsupQN) | 2:05 |
 | 61 | [I.W.Y.](https://open.spotify.com/track/2qePnoTLNzI1aJHLdLBvQM) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf) | [I.W.Y.](https://open.spotify.com/album/0W3AKS1vhthN13diu18bTH) | 2:53 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 80 | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr) | 2:53 |
 | 81 | [Alumnos](https://open.spotify.com/track/7pZw5QAA11FtUZFg5utXzp) | [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Alumnos](https://open.spotify.com/album/224WofhHqF6PuYTGd63baR) | 3:18 |
 | 82 | [Prende](https://open.spotify.com/track/6r5ThDX3rDYvOHxixSjwvX) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [Prende](https://open.spotify.com/album/39dpTC9IGFK94L7Z2eh9oX) | 2:53 |
-| 83 | [VAIVÉN](https://open.spotify.com/track/7lU2NQ7kjK3TiNepbf2upU) | [Leo X](https://open.spotify.com/artist/3W4km1swUPuED74s4dPH3A), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [VAIVÉN](https://open.spotify.com/album/5LLhc1nhCRLQ6EDdxNc0u8) | 3:38 |
-| 84 | [MIA](https://open.spotify.com/track/23GhLjcJ26QGrn7g4saZ4k) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [La Patrona](https://open.spotify.com/album/7GTks3uBI8W9D2EeFYp9V1) | 3:31 |
+| 83 | [MIA](https://open.spotify.com/track/23GhLjcJ26QGrn7g4saZ4k) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [La Patrona](https://open.spotify.com/album/7GTks3uBI8W9D2EeFYp9V1) | 3:31 |
+| 84 | [VAIVÉN](https://open.spotify.com/track/7lU2NQ7kjK3TiNepbf2upU) | [Leo X](https://open.spotify.com/artist/3W4km1swUPuED74s4dPH3A), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [VAIVÉN](https://open.spotify.com/album/5LLhc1nhCRLQ6EDdxNc0u8) | 3:38 |
 | 85 | [Nela](https://open.spotify.com/track/1E1TL6lHV2jwnuqRbzSAKx) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Nela](https://open.spotify.com/album/4nf0rIuMZG82HUKYWCzzID) | 2:43 |
 
-Snapshot ID: `MTY3ODQ4NDk1NiwwMDAwMDAwMGQ3N2JmZTFjYmFlMjA5ODU5NTFkYjNmNjY1YjkzNGIw`
+Snapshot ID: `MTY3ODQ4NDk1NiwwMDAwMDAwMGMwN2MzYjIzN2E4MzA0YjgxYTNjZGU1MGY3YTZmN2Ji`

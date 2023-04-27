@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Aya Nakamura & Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,884 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,929 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 64 | [Prende](https://open.spotify.com/track/5GQfpkhixRA9U3LKINOjRH) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah), [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi) | [Flavors 2](https://open.spotify.com/album/5cUTeXN3B75U1f7cmnyZB2) | 3:14 |
 | 65 | [Sugarcane \- Latin Remix](https://open.spotify.com/track/5ArzZq6UEHyTBOraJVdL1N) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Green Cookie](https://open.spotify.com/artist/3eOWhN0q9wQ90g8NcmfZbV) | [Sugarcane \(Latin Remix\)](https://open.spotify.com/album/1hYhofVEnifqrcjvaFs366) | 4:18 |
 | 66 | [SOLO CON MI CANCIÓN](https://open.spotify.com/track/52vcLD3PXtuXWXrHPctLUD) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374) | [AFRICAN LOVER](https://open.spotify.com/album/5uty7nPyWOesMiYlgyRMgC) | 2:52 |
-| 67 | [Nightshift](https://open.spotify.com/track/0X48LLpHYxS1u4JcBeq9m3) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Breakfast n Vegas](https://open.spotify.com/artist/0iwRZ9bQya1TDUAk5qN5YX) | [Nightshift](https://open.spotify.com/album/4giogCe206BY2QoMoqS1Vw) | 2:58 |
-| 68 | [LOML \(feat\. Olamide\)](https://open.spotify.com/track/0FZlLFD2yQLxVD4IoiQMFm) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [LOML \(feat\. Olamide\)](https://open.spotify.com/album/5ti4HTub24sdxO98BEy0LH) | 3:16 |
+| 67 | [LOML \(feat\. Olamide\)](https://open.spotify.com/track/0FZlLFD2yQLxVD4IoiQMFm) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [LOML \(feat\. Olamide\)](https://open.spotify.com/album/5ti4HTub24sdxO98BEy0LH) | 3:16 |
+| 68 | [Nightshift](https://open.spotify.com/track/0X48LLpHYxS1u4JcBeq9m3) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Breakfast n Vegas](https://open.spotify.com/artist/0iwRZ9bQya1TDUAk5qN5YX) | [Nightshift](https://open.spotify.com/album/4giogCe206BY2QoMoqS1Vw) | 2:58 |
 | 69 | [Rosalia](https://open.spotify.com/track/0R9rf3OFri2zYFJssbkFyn) | [Dice Ailes](https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa), [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA) | [Ladies First](https://open.spotify.com/album/5OXAbuAjAWGqE6sBQyRDJU) | 3:01 |
-| 70 | [LoLo \(Remix\) \[feat\. Farina\]](https://open.spotify.com/track/05s2GU3X9VET94jDtQi4bg) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [LoLo \(Remix\) \[feat\. Farina\]](https://open.spotify.com/album/2x2JPCp6svGwi8zHO6Y0fU) | 2:46 |
+| 70 | [Mare Mare](https://open.spotify.com/track/4Z6VSJZDhmMhS9V7E4etFV) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Lamaz KOB](https://open.spotify.com/artist/4kqNOkXINObNexaey34DMj) | [Mare Mare](https://open.spotify.com/album/5smSak9EETU92nlyJ4ARRS) | 3:17 |
 
-Snapshot ID: `MTY3NzgzMDUyOSwwMDAwMDAwMDhlOTA3MDMzOTE5YzQ5MmEwYzI2OGI3NDllNWU1NDZk`
+Snapshot ID: `MTY3NzgzMDUyOSwwMDAwMDAwMDhlZWM0YjdjMTc0MDczNjg3YzdhYjk5NTBiODc3Y2Nh`

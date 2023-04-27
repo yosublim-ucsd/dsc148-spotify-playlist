@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 674649,
+  "num_followers": 674757,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGJlYTg2ZjUzMGUxYzZkNzBmN2U5NjJlM2RiYWM3NjRh",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGVkN2UwNTVhNjMyNjQ2ZTA4NjVlOGZkODVhZmQwYThm",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "To The Faithful Departed (The Complete Sessions 1996-1997)",
-        "url": "https://open.spotify.com/album/6re8Qh8GMzxH92LO1xj2jU"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 241960,
-      "name": "Go Your Own Way",
-      "url": "https://open.spotify.com/track/0VuhdSYkAOmhASbt5vnkdO"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "\u4e3a\u7231\u505a\u7684\u4e00\u5207",
         "url": "https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 225053,
       "name": "Wild World - Acoustic Version",
       "url": "https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "To The Faithful Departed (The Complete Sessions 1996-1997)",
+        "url": "https://open.spotify.com/album/6re8Qh8GMzxH92LO1xj2jU"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 241960,
+      "name": "Go Your Own Way",
+      "url": "https://open.spotify.com/track/0VuhdSYkAOmhASbt5vnkdO"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
-      },
-      "artists": [
-        {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
-        }
-      ],
-      "duration_ms": 329086,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 227927,
       "name": "Somewhere Only We know - Live from Spotify, London",
       "url": "https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 329086,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Elvis Now",
-        "url": "https://open.spotify.com/album/2x7QaKvvJ45DcYl78JCf25"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 271573,
-      "name": "Hey Jude",
-      "url": "https://open.spotify.com/track/3tNyFKxcFszV0TiDDJsYVx"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Wish You Were Here",
         "url": "https://open.spotify.com/album/6dGngnY6ND7aoag5IGkx9C"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 285719,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/6Hm8qbvIicqaQmAWyevlda"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Elvis Now",
+        "url": "https://open.spotify.com/album/2x7QaKvvJ45DcYl78JCf25"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 271573,
+      "name": "Hey Jude",
+      "url": "https://open.spotify.com/track/3tNyFKxcFszV0TiDDJsYVx"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -997,6 +997,22 @@
       "url": "https://open.spotify.com/track/7aVUPpEb9j2sSmgb4AdFWD"
     },
     {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Judah & The Lion (Unplugged)",
+        "url": "https://open.spotify.com/album/5wyJZFkxAJEshBtXnsUZi7"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 251805,
+      "name": "Soak up the Sun - Unplugged",
+      "url": "https://open.spotify.com/track/19EQenvo8RhidHzEbblHT1"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "It's Only Rock 'N' Roll (But I Like It)",
@@ -1015,22 +1031,6 @@
       "duration_ms": 322346,
       "name": "It's Only Rock 'N' Roll (But I Like It)",
       "url": "https://open.spotify.com/track/0aSiH0zALY5KFZNSvbJePh"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Judah & The Lion (Unplugged)",
-        "url": "https://open.spotify.com/album/5wyJZFkxAJEshBtXnsUZi7"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 251805,
-      "name": "Soak up the Sun - Unplugged",
-      "url": "https://open.spotify.com/track/19EQenvo8RhidHzEbblHT1"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Playing Chess",
-        "url": "https://open.spotify.com/album/2Ob030pqqBl9S3DZ6kddLU"
-      },
-      "artists": [
-        {
-          "name": "Elise LeGrow",
-          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
-        }
-      ],
-      "duration_ms": 185755,
-      "name": "You Never Can Tell",
-      "url": "https://open.spotify.com/track/1GLMm7mMGNZznCUDr5JOkX"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/6wAglOLfrqaHTBY8LmUcUF"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 215843,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/1K0Shi82LENoyXxAjJj8XG"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Playing Chess",
+        "url": "https://open.spotify.com/album/2Ob030pqqBl9S3DZ6kddLU"
+      },
+      "artists": [
+        {
+          "name": "Elise LeGrow",
+          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
+        }
+      ],
+      "duration_ms": 185755,
+      "name": "You Never Can Tell",
+      "url": "https://open.spotify.com/track/1GLMm7mMGNZznCUDr5JOkX"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Sobrevolando",
-        "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 308756,
-      "name": "Love and Happiness",
-      "url": "https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "I Remember Everything",
         "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 156146,
       "name": "I Remember Everything",
       "url": "https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Sobrevolando",
+        "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 308756,
+      "name": "Love and Happiness",
+      "url": "https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "You'll Never Walk Alone",
-        "url": "https://open.spotify.com/album/7CAxZhdr8hiyDQYJrF8UnM"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 118476,
-      "name": "You'll Never Walk Alone",
-      "url": "https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "The Times They Are A-Changin\u2019 (Performance Version)",
         "url": "https://open.spotify.com/album/78XZBuGwbg9DtB95S95dJ6"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 180000,
       "name": "The Times They Are A-Changin\u2019 - Performance Version",
       "url": "https://open.spotify.com/track/03ob02uf5cOtDGQe7U9SYE"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "You'll Never Walk Alone",
+        "url": "https://open.spotify.com/album/7CAxZhdr8hiyDQYJrF8UnM"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 118476,
+      "name": "You'll Never Walk Alone",
+      "url": "https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK"
     },
     {
       "added_at": "2022-09-30 04:00:00",

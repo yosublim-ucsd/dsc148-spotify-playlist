@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "ODI1LGNlNzkyYTVmZDQ2MTRlZTU4ZTcyOTk3YjI2NjVjMWZiMjNlY2U3Y2I=",
+  "snapshot_id": "ODI3LDM4NWEyZjFhMGY5ZWE2NDQ1Y2Q0ZTBiOWVhZDM2ZTdlMTdiNjcxMDI=",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -3307,6 +3307,42 @@
       "duration_ms": 74000,
       "name": "Haunted House on Zillow",
       "url": "https://open.spotify.com/track/6WDNTF2UZH8eGHFUH3xkcO"
+    },
+    {
+      "added_at": "2023-04-26 17:44:27",
+      "album": {
+        "name": "Ultima II Massage",
+        "url": "https://open.spotify.com/album/4BBxAB26ofkXvBmlatzTpW"
+      },
+      "artists": [
+        {
+          "name": "TOBACCO",
+          "url": "https://open.spotify.com/artist/3ikKyCOrsMeANi0d5u8BCR"
+        },
+        {
+          "name": "Notrabel",
+          "url": "https://open.spotify.com/artist/3UYripz5TaFWumKpWjVXQw"
+        }
+      ],
+      "duration_ms": 172378,
+      "name": "Streaker (feat. Notrabel)",
+      "url": "https://open.spotify.com/track/2hJkzU5Ry3CDL3N9ad8fRc"
+    },
+    {
+      "added_at": "2023-04-26 23:51:38",
+      "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 145893,
+      "name": "Salad Days",
+      "url": "https://open.spotify.com/track/5VdaMUzoQetwxQwtWAd022"
     }
   ],
   "unique_name": "Zacklog",

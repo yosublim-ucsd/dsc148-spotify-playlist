@@ -3555,6 +3555,24 @@
     },
     {
       "album": {
+        "name": "Zeitaku",
+        "url": "https://open.spotify.com/album/0l6eHIUnUiOmzPUYsflA4q"
+      },
+      "artists": [
+        {
+          "name": "NEE",
+          "url": "https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189066,
+      "name": "Seimei Oka",
+      "url": "https://open.spotify.com/track/1X0ryvast6yk2en45qhvKl"
+    },
+    {
+      "album": {
         "name": "SeishunKippu",
         "url": "https://open.spotify.com/album/4bHwSxmTANprSv6iGwNezt"
       },
@@ -4222,6 +4240,24 @@
       "duration_ms": 233333,
       "name": "Undead",
       "url": "https://open.spotify.com/track/63ng1fu3aFiRjVVE16PgRr"
+    },
+    {
+      "album": {
+        "name": "Under Heroine",
+        "url": "https://open.spotify.com/album/2KXssCdlyzlErLV5SPANHs"
+      },
+      "artists": [
+        {
+          "name": "TUYU",
+          "url": "https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168571,
+      "name": "Under Heroine",
+      "url": "https://open.spotify.com/track/2zBVf4UksFsBShmvdFyPRM"
     },
     {
       "album": {
@@ -6082,7 +6118,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 168571,
       "name": "\u30a2\u30f3\u30c0\u30fc\u30d2\u30ed\u30a4\u30f3",
       "url": "https://open.spotify.com/track/05uhesUvOUovUTiudqadCo"
@@ -11834,7 +11870,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 189066,
       "name": "\u751f\u547d\u8b33\u6b4c",
       "url": "https://open.spotify.com/track/4ds7UtHjZaDOqrNfDvEAFu"

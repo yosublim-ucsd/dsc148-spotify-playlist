@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 343489,
+  "num_followers": 343589,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ3MTQyNiwwMDAwMDAwMDc5Nzk4NWQyZTA5MTkzNmQ2OGU2YmMxZDg4ZGZkNmYz",
+  "snapshot_id": "MTY3NjQ3MTQyNiwwMDAwMDAwMGNhMzIxYTdhYzFlNTlkZWNkODhlMmRmZjZhNmNlZTU3",
   "tracks": [
     {
       "added_at": "2023-02-13 21:09:56",
@@ -215,26 +215,6 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Azulejos",
-        "url": "https://open.spotify.com/album/5rC8m03xKIoFTt5iLPRtZY"
-      },
-      "artists": [
-        {
-          "name": "Populous",
-          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
-        },
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        }
-      ],
-      "duration_ms": 206895,
-      "name": "Azul Oro",
-      "url": "https://open.spotify.com/track/7fAxYPaTKRmQnxJMjg51xc"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
         "name": "Otun",
         "url": "https://open.spotify.com/album/04o8fTvz7ZcMYVnIx0HAgv"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 263225,
       "name": "Solo Quiero (feat. Pedrina)",
       "url": "https://open.spotify.com/track/4JP3yoybj8GVDVBKrdmkFx"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "Azulejos",
+        "url": "https://open.spotify.com/album/5rC8m03xKIoFTt5iLPRtZY"
+      },
+      "artists": [
+        {
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        },
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "duration_ms": 206895,
+      "name": "Azul Oro",
+      "url": "https://open.spotify.com/track/7fAxYPaTKRmQnxJMjg51xc"
     },
     {
       "added_at": "2023-02-13 21:09:56",

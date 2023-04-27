@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 406739,
+  "num_followers": 406954,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzMTc4MCwwMDAwMDAwMDI2ODcwNjZiNmM5OTI5ODJjZmNjNzBjODBkNzY3ZGY0",
+  "snapshot_id": "MTY4MDIzMTc4MCwwMDAwMDAwMDM0YzA0NzBjNjY0Mzc2NjU4YzhkNDJmNDRiOGE4ZDg3",
   "tracks": [
     {
       "added_at": "2023-03-31 03:03:00",
@@ -959,6 +959,30 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
+        "name": "In The End (Remix)",
+        "url": "https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3"
+      },
+      "artists": [
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        },
+        {
+          "name": "Maffei",
+          "url": "https://open.spotify.com/artist/7xVbDhHFS3g0C1XbI5raYF"
+        },
+        {
+          "name": "Bill Sandre",
+          "url": "https://open.spotify.com/artist/5vg347odfyQfzgjctiztlC"
+        }
+      ],
+      "duration_ms": 164879,
+      "name": "In The End - Remix",
+      "url": "https://open.spotify.com/track/0gcNhrXQPf8uwyq7qAauKJ"
+    },
+    {
+      "added_at": "2023-03-31 03:03:00",
+      "album": {
         "name": "Amor Pra Recome\u00e7ar",
         "url": "https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch"
       },
@@ -999,30 +1023,6 @@
       "duration_ms": 140625,
       "name": "Rap Do Silva (Remix)",
       "url": "https://open.spotify.com/track/6v7PdQVuDVuk2xPsWtDIjc"
-    },
-    {
-      "added_at": "2023-03-31 03:03:00",
-      "album": {
-        "name": "In The End (Remix)",
-        "url": "https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3"
-      },
-      "artists": [
-        {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
-        },
-        {
-          "name": "Maffei",
-          "url": "https://open.spotify.com/artist/7xVbDhHFS3g0C1XbI5raYF"
-        },
-        {
-          "name": "Bill Sandre",
-          "url": "https://open.spotify.com/artist/5vg347odfyQfzgjctiztlC"
-        }
-      ],
-      "duration_ms": 164879,
-      "name": "In The End - Remix",
-      "url": "https://open.spotify.com/track/0gcNhrXQPf8uwyq7qAauKJ"
     },
     {
       "added_at": "2023-03-31 03:03:00",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
-        "name": "Descobridor dos Sete Mares: Remix",
-        "url": "https://open.spotify.com/album/4WgHM4zYuCkQxR9hV1OsDX"
-      },
-      "artists": [
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Descobridor dos Sete Mares: Remix",
-      "url": "https://open.spotify.com/track/5yMMQqhgH2gYraNSD3sv0A"
-    },
-    {
-      "added_at": "2023-03-31 03:03:00",
-      "album": {
         "name": "Piloto Autom\u00e1tico (Gabriel Boni, Voltech & Zucchi Remix)",
         "url": "https://open.spotify.com/album/3lcUyNtFMP7DXNjgdoGkBk"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 376680,
       "name": "Piloto Autom\u00e1tico - Gabriel Boni, Voltech & Zucchi Remix",
       "url": "https://open.spotify.com/track/00YOa6SnANXEQWK9JWJlpm"
+    },
+    {
+      "added_at": "2023-03-31 03:03:00",
+      "album": {
+        "name": "Descobridor dos Sete Mares: Remix",
+        "url": "https://open.spotify.com/album/4WgHM4zYuCkQxR9hV1OsDX"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Descobridor dos Sete Mares: Remix",
+      "url": "https://open.spotify.com/track/5yMMQqhgH2gYraNSD3sv0A"
     },
     {
       "added_at": "2023-03-31 03:03:00",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        },
-        {
-          "name": "JHart",
-          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
-        }
-      ],
-      "duration_ms": 179481,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e"
-    },
-    {
-      "added_at": "2023-03-31 03:03:00",
-      "album": {
         "name": "Paradise (Vintage Culture Remix)",
         "url": "https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 241823,
       "name": "Paradise - Vintage Culture Remix",
       "url": "https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433"
+    },
+    {
+      "added_at": "2023-03-31 03:03:00",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "JHart",
+          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
+        }
+      ],
+      "duration_ms": 179481,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e"
     },
     {
       "added_at": "2023-03-31 03:03:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Fonseca & Juan Luis Guerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,598 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,736 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 17 | [EL HOMBRE PERFECTO](https://open.spotify.com/track/5DcVcYoTmUnp90GuRCyfDT) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [EL HOMBRE PERFECTO](https://open.spotify.com/album/3dtc12UnEQCJ4TSU4lRIAW) | 3:36 |
 | 18 | [Tú Y Tú](https://open.spotify.com/track/6gnbz54mNEfB82Tl9pv5Z1) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Tú Y Tú](https://open.spotify.com/album/4kWBOGoMzrHdXf4dGzBPXp) | 3:36 |
 | 19 | [Copacabana \- Remix](https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Copacabana \(Remix\)](https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy) | 2:33 |
-| 20 | [AMNESIA](https://open.spotify.com/track/6KjbyUdtrLdlBJx6883aO0) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [KITSUNE](https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8) | 2:49 |
-| 21 | [Me EnRD](https://open.spotify.com/track/3GkctxmZmeGmW4K5Oya0Z1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Me EnRD](https://open.spotify.com/album/3BumcT1ophGlEOHCi1fzoW) | 3:05 |
+| 20 | [Me EnRD](https://open.spotify.com/track/3GkctxmZmeGmW4K5Oya0Z1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Me EnRD](https://open.spotify.com/album/3BumcT1ophGlEOHCi1fzoW) | 3:05 |
+| 21 | [AMNESIA](https://open.spotify.com/track/6KjbyUdtrLdlBJx6883aO0) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [KITSUNE](https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8) | 2:49 |
 | 22 | [Herrera](https://open.spotify.com/track/6iYurd8rUYCoQTAi1V9XUn) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Herrera](https://open.spotify.com/album/2doRgShYH9yjuDKMi050AL) | 2:37 |
 | 23 | [Cuándo](https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Cuándo](https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp) | 3:26 |
 | 24 | [Sin Fin](https://open.spotify.com/track/4BBTalxG6c1Aoai1x1EA5g) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:54 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 36 | [Sin Tu Amor](https://open.spotify.com/track/3fWAe3mBB6PfCMGocEiwbl) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Sin Tu Amor](https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla) | 2:41 |
 | 37 | [Fronteo](https://open.spotify.com/track/3OUAwkS8ZabaD8k8gSG7YP) | [Pinto Picasso](https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs), [sP Polanco](https://open.spotify.com/artist/3ZK68DhfWiJTIUZySAywPS) | [Fronteo](https://open.spotify.com/album/2P3hVbpOt0li6W0rolPeZC) | 2:32 |
 | 38 | [La Luz](https://open.spotify.com/track/1nW7z9bBdVApMNrgvrqYMF) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Luz](https://open.spotify.com/album/0BCkK4DlEhdJtoYNzWLMb0) | 3:05 |
-| 39 | [Perro Arrepentido](https://open.spotify.com/track/0krBST4JusyJApb2M30PZr) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Perro Arrepentido](https://open.spotify.com/album/6LMyaE0Js9ZSXIuc1By5ts) | 4:00 |
-| 40 | [Volver a Casa](https://open.spotify.com/track/7DgLzDFLp5GcsYuZWJSmNL) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Volver a Casa](https://open.spotify.com/album/60bE7gawbgeAnOsbeCAMaX) | 3:44 |
+| 39 | [Volver a Casa](https://open.spotify.com/track/7DgLzDFLp5GcsYuZWJSmNL) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Volver a Casa](https://open.spotify.com/album/60bE7gawbgeAnOsbeCAMaX) | 3:44 |
+| 40 | [Perro Arrepentido](https://open.spotify.com/track/0krBST4JusyJApb2M30PZr) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Perro Arrepentido](https://open.spotify.com/album/6LMyaE0Js9ZSXIuc1By5ts) | 4:00 |
 | 41 | [La Historia \- Escalona Nunca Se Había Grabado Así](https://open.spotify.com/track/7gzuhDzLBcR0O1QXskLAdt) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Historia \(Escalona Nunca Se Había Grabado Así\)](https://open.spotify.com/album/2wcgOo4KxX9mWenJ4PeuUu) | 4:31 |
 | 42 | [Mi Otra Mitad](https://open.spotify.com/track/0xCANaLk8F91mIUdOm3ljG) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Mi Otra Mitad](https://open.spotify.com/album/0gtkL0OqqDGkXlqqDDk2JM) | 4:14 |
 | 43 | [Decidí Tener Pantalones](https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Lado A Lado B](https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n) | 4:36 |
 | 44 | [Llegaste](https://open.spotify.com/track/5jU9Tj9Mlrwjr2SW5gElJz) | [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA), [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Llegaste](https://open.spotify.com/album/3KYHHZZqz8SEjCVbeUE8xO) | 3:21 |
 | 45 | [Confesión](https://open.spotify.com/track/30tXcc5r01WeunVJfwrtsE) | [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Confesión](https://open.spotify.com/album/1A7jMjI0yYImnTED4kiv0L) | 3:20 |
 | 46 | [El Carnaval De Celia: A Tribute \(La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora\)](https://open.spotify.com/track/0Upe0FIOS01lwUu7d4WSrR) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx) | [El Carnaval De Celia: A Tribute \(La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora\)](https://open.spotify.com/album/3lzryn2k5cSfBNzivYMJCT) | 3:06 |
-| 47 | [Ya No Te Amo](https://open.spotify.com/track/4oEHUVWr6GnvaszaHqSdoi) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Ya No Te Amo](https://open.spotify.com/album/70clE19xMTQeZRbMx5DIMM) | 3:56 |
-| 48 | [Corazón Roto](https://open.spotify.com/track/64NCHXiLhpgX0n9bgAnAaE) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Corazón Roto](https://open.spotify.com/album/4tf4JOp2NMGrOFTje7rg2A) | 3:28 |
+| 47 | [Lotería](https://open.spotify.com/track/0R5yCZ5xBbZV0nyPO9qM9d) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Lotería](https://open.spotify.com/album/7qjUgwcrdAbhAjF5gYAyn4) | 4:10 |
+| 48 | [Ya No Te Amo](https://open.spotify.com/track/4oEHUVWr6GnvaszaHqSdoi) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Ya No Te Amo](https://open.spotify.com/album/70clE19xMTQeZRbMx5DIMM) | 3:56 |
 | 49 | [La Despedida](https://open.spotify.com/track/4sjYsP0tIZi34SDVUzTHyk) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [La Despedida](https://open.spotify.com/album/79nrfAlzkAaCorWG5JtKD2) | 3:20 |
-| 50 | [Encaprichao](https://open.spotify.com/track/1d2UAejVm1DMf78pfick1d) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Encaprichao](https://open.spotify.com/album/0kfRkigR4yiYk7dKVBVfCz) | 2:09 |
+| 50 | [Corazón Roto](https://open.spotify.com/track/64NCHXiLhpgX0n9bgAnAaE) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Corazón Roto](https://open.spotify.com/album/4tf4JOp2NMGrOFTje7rg2A) | 3:28 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDY5MzY0MmRkNzE0NzRiOGI2YTY3ODZhNTBmNjM4OTQ1`
+Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMGQwZWZiZmQ0ODU2MThiNDRjZGUzODZkMDJmMjVmMTE2`

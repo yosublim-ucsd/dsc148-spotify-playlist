@@ -422,7 +422,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 303218,
       "name": "BAD\u30e2\u30fc\u30c9",
       "url": "https://open.spotify.com/track/3TxjMrMGWFP0jkIy0tVvVn"
@@ -3495,6 +3495,28 @@
     },
     {
       "album": {
+        "name": "No More Lies",
+        "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327217,
+      "name": "No More Lies",
+      "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
+    },
+    {
+      "album": {
         "name": "No One",
         "url": "https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY"
       },
@@ -4965,6 +4987,28 @@
     },
     {
       "album": {
+        "name": "Summer Ghost feat. KIRINJI",
+        "url": "https://open.spotify.com/album/5tuIFFFK621MJKQ5e9yKsA"
+      },
+      "artists": [
+        {
+          "name": "Tomita Lab.",
+          "url": "https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD"
+        },
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254666,
+      "name": "Summer Ghost feat. KIRINJI",
+      "url": "https://open.spotify.com/track/0BlR8rZiO5pk4VjMT0Vkqo"
+    },
+    {
+      "album": {
         "name": "Sundance Freestyle",
         "url": "https://open.spotify.com/album/1VLKy8mG3PRUw7RjPho6i6"
       },
@@ -6348,7 +6392,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 254666,
       "name": "\u590f\u306e\u4ea1\u970a feat. KIRINJI",
       "url": "https://open.spotify.com/track/5QZJ0oITXby0ON4JiWSDH6"

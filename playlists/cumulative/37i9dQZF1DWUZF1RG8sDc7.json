@@ -343,6 +343,24 @@
     },
     {
       "album": {
+        "name": "Vallenato Fest",
+        "url": "https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06"
+      },
+      "artists": [
+        {
+          "name": "Grupo Vallenato",
+          "url": "https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316279,
+      "name": "Dime Que Me Quieres",
+      "url": "https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw"
+    },
+    {
+      "album": {
         "name": "La Combinacion Vallenata",
         "url": "https://open.spotify.com/album/4BlePk43SPyN7SXY7YyWeU"
       },
@@ -1494,7 +1512,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 226731,
       "name": "Ya No Me Duele M\u00e1s",
       "url": "https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 
 > Historias y versos que tocan la piel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,467 likes - 99 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,516 likes - 99 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,11 +101,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 91 | [Su Nombre Es Pueblo](https://open.spotify.com/track/64MUU7LMzHHiPW39fKbq5D) | [Sara González](https://open.spotify.com/artist/7a3lOYCTYfMaiFmINk1V0R) | [Evolucion](https://open.spotify.com/album/69VTRNYmqgcKvHCZXvwkoW) | 4:41 |
 | 92 | [Sembrando Amor](https://open.spotify.com/track/1rtRqBUB5RnafVaRml1SP3) | [Jorge Gamboa Patrón](https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu) | [Vagamundo](https://open.spotify.com/album/7DlAbZHP5l7efGJF97KfeS) | 4:30 |
 | 93 | [Prefiero amar](https://open.spotify.com/track/3Ig5t3esx6oEXPzFfn837w) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Aire](https://open.spotify.com/album/3eiUKyEarSxAvjZLqIJ1M6) | 3:32 |
-| 94 | [Oxígeno](https://open.spotify.com/track/31u3gKruZEyc8Sz7fAASbM) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl), [Diego Ojeda](https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl) | [Maldita Vocación](https://open.spotify.com/album/3CuB8tyC9WnmtwA1Fee3ku) | 4:26 |
-| 95 | [Cuéntame](https://open.spotify.com/track/6jOoHhton9c8rzgfyUht7A) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl) | [Escarlata](https://open.spotify.com/album/7xzYC2mGZnT51Ebb3U4r0F) | 3:53 |
+| 94 | [Cuéntame](https://open.spotify.com/track/6jOoHhton9c8rzgfyUht7A) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl) | [Escarlata](https://open.spotify.com/album/7xzYC2mGZnT51Ebb3U4r0F) | 3:53 |
+| 95 | [Oxígeno](https://open.spotify.com/track/31u3gKruZEyc8Sz7fAASbM) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl), [Diego Ojeda](https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl) | [Maldita Vocación](https://open.spotify.com/album/3CuB8tyC9WnmtwA1Fee3ku) | 4:26 |
 | 96 | [Juro \- En Vivo](https://open.spotify.com/track/6X4ixDYEml7LQMop7PEZgS) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl) | [\#Eometropolitan2019 \(En Vivo\)](https://open.spotify.com/album/4Vm3czulpYtzjTKBFmbd3b) | 3:42 |
 | 97 | [La Adivinanza](https://open.spotify.com/track/4gDejBbf4JuBCyZNGuY8Ey) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [La Adivinanza](https://open.spotify.com/album/3rlFptmri4KCKaniDoJpqX) | 2:17 |
 | 98 | [Viene la Cosa](https://open.spotify.com/track/6ICAdGrduZHsR9ZIfx9CCw) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Viene la Cosa](https://open.spotify.com/album/6PREdFoN9vmyzU3CpdAts3) | 3:51 |
 | 99 | [Alfonsina Y El Mar](https://open.spotify.com/track/6Q3ozAXkxLpKQy6sc8L0TY) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Ariel Ramírez](https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW), [Hector Zeoli](https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:40 |
 
-Snapshot ID: `MTY2MDg3NTIzOSwwMDAwMDAwMDQ1NWJlMTI2YWM3ZGRhNGVjN2JmYWJmNWE5NjE2Y2Iw`
+Snapshot ID: `MTY2MDg3NTIzOSwwMDAwMDAwMGIzODBkNjNlZjIxOTBkMjQwYTI4M2Q3M2NiZjFmYmI5`

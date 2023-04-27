@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 
 > Dulces rasgueos de cuerdas para acompañar tu velada
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,706 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,734 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 34 | [Bossa Bravado](https://open.spotify.com/track/6okyzUui51pNetfcXT40zu) | [Eric Josef](https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN) | [A Brand New World](https://open.spotify.com/album/1yYlElFV3Xk2tkBJCMEgJo) | 2:22 |
 | 35 | [Goiânia](https://open.spotify.com/track/4HiU3fxYZI6w2jNTTLhowT) | [Joana Ema](https://open.spotify.com/artist/2W1k5KydRQg7MsOSgGEm9u) | [Goiânia](https://open.spotify.com/album/559F8ws4FRpTbvaNc08VEE) | 2:52 |
 | 36 | [Mexico 1910](https://open.spotify.com/track/7KPA038sMskcyOYtI6tc7i) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Cinema Latino Vol\. 1](https://open.spotify.com/album/7kNKfwn3JRIPCYXpk2VF4B) | 1:47 |
-| 37 | [30 De Marzo](https://open.spotify.com/track/23jaacZ4V3mdoMJYWrDI3n) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Re\-Foc](https://open.spotify.com/album/16i22w9V74VL7euoZIjX6G) | 4:14 |
-| 38 | [The Little Island Bossa](https://open.spotify.com/track/1mbjGoWhwkv5n14ibOlSTU) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [The Little Island Bossa](https://open.spotify.com/album/26eAXBY2VjxAroih5J59nW) | 4:06 |
+| 37 | [The Little Island Bossa](https://open.spotify.com/track/1mbjGoWhwkv5n14ibOlSTU) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [The Little Island Bossa](https://open.spotify.com/album/26eAXBY2VjxAroih5J59nW) | 4:06 |
+| 38 | [30 De Marzo](https://open.spotify.com/track/23jaacZ4V3mdoMJYWrDI3n) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Re\-Foc](https://open.spotify.com/album/16i22w9V74VL7euoZIjX6G) | 4:14 |
 | 39 | [Cinque Terre](https://open.spotify.com/track/4Is86uGhrqWssNzt54uQTn) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Cinque Terre](https://open.spotify.com/album/7suLw0GxdLqvVGuzyTTIpM) | 3:52 |
 | 40 | [Commitments](https://open.spotify.com/track/1oIDF7ezAEtZbPaR9kaZ99) | [Affe Reidhoff](https://open.spotify.com/artist/4pqJbzXUZa8by7nb50hlN0) | [Commitments](https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st) | 3:14 |
 | 41 | [Madera Negra](https://open.spotify.com/track/4KIDmG6SAq3EQWytkk0gu7) | [Niño Josele](https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT) | [Niño Josele](https://open.spotify.com/album/79653plha39OpqECC3HCln) | 4:05 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 65 | [Tango en Skai \- Instrumental](https://open.spotify.com/track/1eGdw1BbGAYaXbgPcVIkGm) | [Panagiotis Margaris](https://open.spotify.com/artist/2UUloMjgTaoxRyWKK9mK0f) | [Cafe de l'Art, Vol\. 1 \(14 Guitar Duets Themes\)](https://open.spotify.com/album/5JpoixLQADUh6VXxqsFXvZ) | 2:53 |
 | 66 | [El Primero](https://open.spotify.com/track/3nlxECdSLJOEPbovpvCJQI) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [El Primero](https://open.spotify.com/album/3lMYfWqSA5pxBemGlcNcMV) | 2:24 |
 | 67 | [Herencia de Valencia](https://open.spotify.com/track/3DALc0j8IOpKpKAuiHU5zu) | [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Herencia de Valencia](https://open.spotify.com/album/1eHEvjtgHgOkzX7i5jqAQN) | 3:18 |
-| 68 | [Milonga](https://open.spotify.com/track/0mFJtHH4xJgoxdmLSfvK4b) | [Paco Lara](https://open.spotify.com/artist/7bzLUTqBs1M5Be8k2jbk45), [Santiago Lara](https://open.spotify.com/artist/1La6DecHiig1zpPFRHi5yQ) | [The Andalusian Guitar](https://open.spotify.com/album/0YKpmdeKwm9A9d8VZANavZ) | 3:56 |
-| 69 | [Zaralmondi \- Colombianas](https://open.spotify.com/track/2g7F6mDctEtgtyJi7QMxuT) | [Enrique De Melchor](https://open.spotify.com/artist/1gIRAKME2A6CNJ3mBSBpjl) | [Bajo La Luna](https://open.spotify.com/album/1udJi8ZsnPP4DeaB0iBhAO) | 3:51 |
+| 68 | [Zaralmondi \- Colombianas](https://open.spotify.com/track/2g7F6mDctEtgtyJi7QMxuT) | [Enrique De Melchor](https://open.spotify.com/artist/1gIRAKME2A6CNJ3mBSBpjl) | [Bajo La Luna](https://open.spotify.com/album/1udJi8ZsnPP4DeaB0iBhAO) | 3:51 |
+| 69 | [Milonga](https://open.spotify.com/track/0mFJtHH4xJgoxdmLSfvK4b) | [Paco Lara](https://open.spotify.com/artist/7bzLUTqBs1M5Be8k2jbk45), [Santiago Lara](https://open.spotify.com/artist/1La6DecHiig1zpPFRHi5yQ) | [The Andalusian Guitar](https://open.spotify.com/album/0YKpmdeKwm9A9d8VZANavZ) | 3:56 |
 | 70 | [Repiqueteos Flamencos \(Zapateado\)](https://open.spotify.com/track/6y9rL8o5OK9IQ7u6OT6LwH) | [Escudero,](https://open.spotify.com/artist/2bdNnJ2BJ7OccHRvBWVtEO), [Paco Peña](https://open.spotify.com/artist/4OYPdvtRCWaLVmUrm1eiTa) | [Fabulous Flamenco!/La Gitarra Flamenca](https://open.spotify.com/album/08apameAgGxWqzUoQF1XZK) | 3:25 |
 | 71 | [Adelita Mazurka](https://open.spotify.com/track/2gsOZwrJXlumVqfCJYkHEf) | [Alex Albright](https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj) | [Spanish Guitar EP](https://open.spotify.com/album/5qLOiuTrmvrpmPxBuGtaNk) | 2:12 |
 | 72 | [Tavernas' Hasapikos \- Instrumental](https://open.spotify.com/track/4dGHsJeotHPGeYECZdwK06) | [Yiorgos Zabetas](https://open.spotify.com/artist/3XSKxRwQW67VgUjtQ13eEM) | [Colours of Greece / Instrumentals of Greek Music](https://open.spotify.com/album/3QmpVVGc8HFfY1PHmN9t1w) | 2:40 |
 | 73 | [Dan\-Son](https://open.spotify.com/track/7IqSzzollrdq3DeKmx9FE2) | [Enrico Chapela](https://open.spotify.com/artist/2nJVCarJHG5EjOGTitbA4K), [Cuarteto de Guitarras de la Ciudad de México](https://open.spotify.com/artist/2QL42RATuYg1tMBhGDFwBV) | [Sones y Danzones de Buena Madera](https://open.spotify.com/album/4qIABg8vLwPR3LO4pqFx00) | 6:10 |
 | 74 | [Libertango](https://open.spotify.com/track/7yeilRWdR7rXDpQY1aBmK7) | [William Wilson](https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba) | [Classical Guitar Latin Style](https://open.spotify.com/album/5eMSI07GHlyK9IDojcSXZu) | 4:06 |
-| 75 | [Le Français Argentin](https://open.spotify.com/track/3hBnUS7koSxJorQUmRuFHW) | [Leon Noel](https://open.spotify.com/artist/33HL5KjSpPc12d2m01u6qB), [Roy Altice](https://open.spotify.com/artist/4WbBlvI0I3igsnRaNFzjBb) | [Leon Noel & Roy Altice](https://open.spotify.com/album/1pSdcWvO67Ey07XOjUiuV2) | 2:43 |
+| 75 | [Tristango](https://open.spotify.com/track/6juXPawVLvlQa75fXRylSZ) | [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz) | [Tristango](https://open.spotify.com/album/3v4uvZAjwkygczMxSZQFcC) | 3:19 |
 
-Snapshot ID: `MTY2NjkwODA2MCwwMDAwMDAwMDg5MTQzNDVjNjlkOGY3ZDFlMjAzZWM4MGM4OTZhMjVk`
+Snapshot ID: `MTY2NjkwODA2MCwwMDAwMDAwMDg3N2U1ODE4Mjk1YjEyZTNiMTU5YjFhYmFiZTBiYTMz`

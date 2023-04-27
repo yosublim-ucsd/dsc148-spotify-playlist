@@ -1,12 +1,12 @@
 {
   "description": "all gains",
-  "num_followers": 36768,
+  "num_followers": 37692,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTk1NDQ5NCwwMDAwMDAwMDhhMDU1OWE1Zjg5NzlmZDU0OTc5NzNjZmM4NmI5YWE4",
+  "snapshot_id": "MTY3OTk1NDQ5NCwwMDAwMDAwMGIwNTBjZTg3MzFkM2YzMDQ0MjQzZjY2NzY5MzNhZmE5",
   "tracks": [
     {
       "added_at": "2023-03-09 21:54:21",
@@ -387,26 +387,6 @@
     {
       "added_at": "2023-03-09 21:54:21",
       "album": {
-        "name": "vendetta!",
-        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
-      },
-      "artists": [
-        {
-          "name": "MUPP",
-          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
-        },
-        {
-          "name": "Sadfriendd",
-          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
-        }
-      ],
-      "duration_ms": 107044,
-      "name": "vendetta!",
-      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
-    },
-    {
-      "added_at": "2023-03-09 21:54:21",
-      "album": {
         "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
         "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 203266,
       "name": "Space Cadet (feat. Gunna)",
       "url": "https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz"
+    },
+    {
+      "added_at": "2023-03-09 21:54:21",
+      "album": {
+        "name": "vendetta!",
+        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        }
+      ],
+      "duration_ms": 107044,
+      "name": "vendetta!",
+      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
     },
     {
       "added_at": "2023-03-09 21:54:21",

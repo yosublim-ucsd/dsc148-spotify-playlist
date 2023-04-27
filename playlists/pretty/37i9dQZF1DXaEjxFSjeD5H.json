@@ -1,12 +1,12 @@
 {
   "description": "Nada que un buen danz\u00f3n no pueda curar. ",
-  "num_followers": 12964,
+  "num_followers": 12991,
   "original_name": "Danz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ4MjkwMiwwMDAwMDAwMDczMGU0NzA5ODA5N2RlNjAwMGM2MTVhMjY4NmJiMWIy",
+  "snapshot_id": "MTY1OTQ4MjkwMiwwMDAwMDAwMDYxYmY5Mzc5NzVhZTRjOTkwMDExODMxZjI5ZTBmMTU2",
   "tracks": [
     {
       "added_at": "2022-08-02 23:28:22",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "That Cuban Cha Cha",
-        "url": "https://open.spotify.com/album/0Bps0zXxMfLbDhVS7decVt"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Arag\u00f3n",
-          "url": "https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "El Bodeguero",
-      "url": "https://open.spotify.com/track/7dM7GVMw7EWT5juif19fgX"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
         "name": "Danz\u00f3n Inmortal",
         "url": "https://open.spotify.com/album/6IS3BzJEdTbFGzD6Dcy4TK"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 211622,
       "name": "Ofelia",
       "url": "https://open.spotify.com/track/2coXrhZjBOV8jjwNbpLyf2"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "That Cuban Cha Cha",
+        "url": "https://open.spotify.com/album/0Bps0zXxMfLbDhVS7decVt"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Arag\u00f3n",
+          "url": "https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "El Bodeguero",
+      "url": "https://open.spotify.com/track/7dM7GVMw7EWT5juif19fgX"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Cl\u00e1sicos en Danz\u00f3n",
-        "url": "https://open.spotify.com/album/1oO1wKwoQXZW5j7fNiD3v9"
-      },
-      "artists": [
-        {
-          "name": "Acerina Y Su Danzonera",
-          "url": "https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh"
-        }
-      ],
-      "duration_ms": 163186,
-      "name": "El Danubio Azul",
-      "url": "https://open.spotify.com/track/6OeP7ycmBYPJ0Fy5I4Wpze"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
         "name": "La Leyenda Viviente del Danz\u00f3n",
         "url": "https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 293040,
       "name": "Cecilia",
       "url": "https://open.spotify.com/track/6a3E473gvUNtcVfpn3UeVO"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "Cl\u00e1sicos en Danz\u00f3n",
+        "url": "https://open.spotify.com/album/1oO1wKwoQXZW5j7fNiD3v9"
+      },
+      "artists": [
+        {
+          "name": "Acerina Y Su Danzonera",
+          "url": "https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh"
+        }
+      ],
+      "duration_ms": 163186,
+      "name": "El Danubio Azul",
+      "url": "https://open.spotify.com/track/6OeP7ycmBYPJ0Fy5I4Wpze"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -1116,9 +1116,9 @@
           "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
         }
       ],
-      "duration_ms": 192906,
-      "name": "La Barca",
-      "url": "https://open.spotify.com/track/1izJYZ9SVsZfJrE3bqbVp7"
+      "duration_ms": 302106,
+      "name": "El Coquero",
+      "url": "https://open.spotify.com/track/5HvxasN4SgIqYSIp37YYOl"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -1132,9 +1132,9 @@
           "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
         }
       ],
-      "duration_ms": 302106,
-      "name": "El Coquero",
-      "url": "https://open.spotify.com/track/5HvxasN4SgIqYSIp37YYOl"
+      "duration_ms": 192906,
+      "name": "La Barca",
+      "url": "https://open.spotify.com/track/1izJYZ9SVsZfJrE3bqbVp7"
     },
     {
       "added_at": "2022-08-02 23:28:22",

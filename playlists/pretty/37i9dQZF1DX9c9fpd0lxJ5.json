@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine bby :)",
-  "num_followers": 450707,
+  "num_followers": 450762,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA5MDcxNSwwMDAwMDAwMGIwNDI5ZmEzMmZjMjdiODJkY2FlOTE4MzI2NGMzMWI1",
+  "snapshot_id": "MTY4MjA5MDcxNSwwMDAwMDAwMDIwNzM3YzRhNTM2ZjQ1NGMzNTcyYmQwOGY4MmZiYmIz",
   "tracks": [
     {
       "added_at": "2023-04-21 15:25:15",
@@ -487,26 +487,6 @@
     {
       "added_at": "2023-04-21 15:25:15",
       "album": {
-        "name": "muero x ti",
-        "url": "https://open.spotify.com/album/0PEkrVYDzkhAU5xk0gOqu4"
-      },
-      "artists": [
-        {
-          "name": "Noah Pino Palo",
-          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
-        },
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 237564,
-      "name": "muero x ti",
-      "url": "https://open.spotify.com/track/0VDvDixlnaJFUYYEhE6tDp"
-    },
-    {
-      "added_at": "2023-04-21 15:25:15",
-      "album": {
         "name": "Leche de Tigre",
         "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 241314,
       "name": "Persona Favorita",
       "url": "https://open.spotify.com/track/6WklRgGMJsQEB74MvnS36U"
+    },
+    {
+      "added_at": "2023-04-21 15:25:15",
+      "album": {
+        "name": "muero x ti",
+        "url": "https://open.spotify.com/album/0PEkrVYDzkhAU5xk0gOqu4"
+      },
+      "artists": [
+        {
+          "name": "Noah Pino Palo",
+          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
+        },
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 237564,
+      "name": "muero x ti",
+      "url": "https://open.spotify.com/track/0VDvDixlnaJFUYYEhE6tDp"
     },
     {
       "added_at": "2023-04-21 15:25:15",
@@ -579,22 +579,6 @@
       "duration_ms": 210763,
       "name": "NO TE ALEJES",
       "url": "https://open.spotify.com/track/4Nx5BIyMer4DjxbE5aJh1v"
-    },
-    {
-      "added_at": "2023-04-21 15:25:15",
-      "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/2pNKnE4bn2sLJuG2agLg7B"
-      },
-      "artists": [
-        {
-          "name": "Noah Pino Palo",
-          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
-        }
-      ],
-      "duration_ms": 271162,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/1UGwamQOTjQ0nnCYdX92Rn"
     },
     {
       "added_at": "2023-04-21 15:25:15",
@@ -695,6 +679,22 @@
     {
       "added_at": "2023-04-21 15:25:15",
       "album": {
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/2pNKnE4bn2sLJuG2agLg7B"
+      },
+      "artists": [
+        {
+          "name": "Noah Pino Palo",
+          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
+        }
+      ],
+      "duration_ms": 271162,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/1UGwamQOTjQ0nnCYdX92Rn"
+    },
+    {
+      "added_at": "2023-04-21 15:25:15",
+      "album": {
         "name": "ojitos caramelo (Remix)",
         "url": "https://open.spotify.com/album/0TSnNs3JqtmICglBkojDID"
       },
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-04-21 15:25:15",
       "album": {
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/7qqJ54Yi4bI3OTqMiJ6ghi"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        }
+      ],
+      "duration_ms": 198914,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/1Ug6XFyqQE9nSE8ycck18M"
+    },
+    {
+      "added_at": "2023-04-21 15:25:15",
+      "album": {
         "name": "Disco de Oro",
         "url": "https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj"
       },
@@ -767,18 +783,18 @@
     {
       "added_at": "2023-04-21 15:25:15",
       "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/7qqJ54Yi4bI3OTqMiJ6ghi"
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs"
       },
       "artists": [
         {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
         }
       ],
-      "duration_ms": 198914,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/1Ug6XFyqQE9nSE8ycck18M"
+      "duration_ms": 261402,
+      "name": "A la Madrugada",
+      "url": "https://open.spotify.com/track/0Y0fjDVP3AdvODBG0jOIht"
     },
     {
       "added_at": "2023-04-21 15:25:15",
@@ -815,22 +831,6 @@
       "duration_ms": 133666,
       "name": "Qu\u00e9 Dulce",
       "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
-    },
-    {
-      "added_at": "2023-04-21 15:25:15",
-      "album": {
-        "name": "Ciclo",
-        "url": "https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 261402,
-      "name": "A la Madrugada",
-      "url": "https://open.spotify.com/track/0Y0fjDVP3AdvODBG0jOIht"
     },
     {
       "added_at": "2023-04-21 15:25:15",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-04-21 15:25:15",
       "album": {
-        "name": "Get Lost In The Music",
-        "url": "https://open.spotify.com/album/5FBk0BFXqwMrtdrxxfa21B"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 229566,
-      "name": "Get Lost In The Music",
-      "url": "https://open.spotify.com/track/09z2LpPORefMOJKYyJQShL"
-    },
-    {
-      "added_at": "2023-04-21 15:25:15",
-      "album": {
         "name": "Hasta Que T\u00fa Me Quieras",
         "url": "https://open.spotify.com/album/3nfX5TcvGZzpuG28qO1rbs"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 235013,
       "name": "Hasta Que T\u00fa Me Quieras",
       "url": "https://open.spotify.com/track/2hpIeSPVeZwDdwMPSRK0ti"
+    },
+    {
+      "added_at": "2023-04-21 15:25:15",
+      "album": {
+        "name": "Get Lost In The Music",
+        "url": "https://open.spotify.com/album/5FBk0BFXqwMrtdrxxfa21B"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 229566,
+      "name": "Get Lost In The Music",
+      "url": "https://open.spotify.com/track/09z2LpPORefMOJKYyJQShL"
     },
     {
       "added_at": "2023-04-21 15:25:15",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-04-21 15:25:15",
       "album": {
+        "name": "Tu Forma",
+        "url": "https://open.spotify.com/album/5C4E1kwoa7VWHEXIwdEOoK"
+      },
+      "artists": [
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Tu Forma",
+      "url": "https://open.spotify.com/track/6SullLVOVzuWkaCCHJhQaS"
+    },
+    {
+      "added_at": "2023-04-21 15:25:15",
+      "album": {
         "name": "A No Llorar",
         "url": "https://open.spotify.com/album/6QVVfvXpuOKOxuOweZTnAB"
       },
@@ -1303,6 +1319,22 @@
     {
       "added_at": "2023-04-21 15:25:15",
       "album": {
+        "name": "Get Lost In The Music",
+        "url": "https://open.spotify.com/album/4r7qQ7yTsRuVghSurlagxs"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 181910,
+      "name": "Un Animal (Divina Existencia)",
+      "url": "https://open.spotify.com/track/23ietpawDh7f4PVAGBJ690"
+    },
+    {
+      "added_at": "2023-04-21 15:25:15",
+      "album": {
         "name": "Cool",
         "url": "https://open.spotify.com/album/60ollCR8TmOExAIxC6A5gK"
       },
@@ -1331,38 +1363,6 @@
       "duration_ms": 255597,
       "name": "Dung Ding Dang",
       "url": "https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3"
-    },
-    {
-      "added_at": "2023-04-21 15:25:15",
-      "album": {
-        "name": "Get Lost In The Music",
-        "url": "https://open.spotify.com/album/4r7qQ7yTsRuVghSurlagxs"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 181910,
-      "name": "Un Animal (Divina Existencia)",
-      "url": "https://open.spotify.com/track/23ietpawDh7f4PVAGBJ690"
-    },
-    {
-      "added_at": "2023-04-21 15:25:15",
-      "album": {
-        "name": "Tu Forma",
-        "url": "https://open.spotify.com/album/5C4E1kwoa7VWHEXIwdEOoK"
-      },
-      "artists": [
-        {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Tu Forma",
-      "url": "https://open.spotify.com/track/6SullLVOVzuWkaCCHJhQaS"
     },
     {
       "added_at": "2023-04-21 15:25:15",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-04-21 15:25:15",
       "album": {
-        "name": "Sad Lullaby",
-        "url": "https://open.spotify.com/album/0mhQlc6V2rX86ocFqHpgTd"
-      },
-      "artists": [
-        {
-          "name": "HYRA",
-          "url": "https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Sad Lullaby",
-      "url": "https://open.spotify.com/track/61dXVEGgk0YrSX0lDH9qfY"
-    },
-    {
-      "added_at": "2023-04-21 15:25:15",
-      "album": {
         "name": "\u00bfPa Qu\u00e9?",
         "url": "https://open.spotify.com/album/1aBwufMjzi19BkmB4tkapq"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 202500,
       "name": "\u00bfPa Qu\u00e9?",
       "url": "https://open.spotify.com/track/4eReQpWfpFVEKrWyynpadO"
+    },
+    {
+      "added_at": "2023-04-21 15:25:15",
+      "album": {
+        "name": "Sad Lullaby",
+        "url": "https://open.spotify.com/album/0mhQlc6V2rX86ocFqHpgTd"
+      },
+      "artists": [
+        {
+          "name": "HYRA",
+          "url": "https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Sad Lullaby",
+      "url": "https://open.spotify.com/track/61dXVEGgk0YrSX0lDH9qfY"
     },
     {
       "added_at": "2023-04-21 15:25:15",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-04-21 15:25:15",
       "album": {
-        "name": "Arco\u00edris",
-        "url": "https://open.spotify.com/album/0RBNncC4gMU2U83bLPoWcs"
-      },
-      "artists": [
-        {
-          "name": "Mola Mola",
-          "url": "https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN"
-        }
-      ],
-      "duration_ms": 217021,
-      "name": "Arco\u00edris",
-      "url": "https://open.spotify.com/track/3Kw6nJFp1sZ5RqwYrP51jU"
-    },
-    {
-      "added_at": "2023-04-21 15:25:15",
-      "album": {
         "name": "Vibras",
         "url": "https://open.spotify.com/album/5pkran0HD0TArY7OqRGvsk"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 153132,
       "name": "Vibras",
       "url": "https://open.spotify.com/track/2lavVNtQyc5hbMgaAmnQGU"
+    },
+    {
+      "added_at": "2023-04-21 15:25:15",
+      "album": {
+        "name": "Arco\u00edris",
+        "url": "https://open.spotify.com/album/0RBNncC4gMU2U83bLPoWcs"
+      },
+      "artists": [
+        {
+          "name": "Mola Mola",
+          "url": "https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN"
+        }
+      ],
+      "duration_ms": 217021,
+      "name": "Arco\u00edris",
+      "url": "https://open.spotify.com/track/3Kw6nJFp1sZ5RqwYrP51jU"
     },
     {
       "added_at": "2023-04-21 15:25:15",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-04-21 15:25:15",
       "album": {
-        "name": "Todo Es Perfecto",
-        "url": "https://open.spotify.com/album/542V4yB6vkGz9lJhBHnIGp"
-      },
-      "artists": [
-        {
-          "name": "Adanowsky",
-          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
-        }
-      ],
-      "duration_ms": 211813,
-      "name": "Todo Es Perfecto",
-      "url": "https://open.spotify.com/track/00CaDxVVxJaUeAOebDI65k"
-    },
-    {
-      "added_at": "2023-04-21 15:25:15",
-      "album": {
         "name": "Hasta Que",
         "url": "https://open.spotify.com/album/5CfItgvcqP5EQkbDnzeZ6s"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 193933,
       "name": "Hasta Que",
       "url": "https://open.spotify.com/track/5XMjWyEq3MJXQX80jj24yM"
+    },
+    {
+      "added_at": "2023-04-21 15:25:15",
+      "album": {
+        "name": "Todo Es Perfecto",
+        "url": "https://open.spotify.com/album/542V4yB6vkGz9lJhBHnIGp"
+      },
+      "artists": [
+        {
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
+        }
+      ],
+      "duration_ms": 211813,
+      "name": "Todo Es Perfecto",
+      "url": "https://open.spotify.com/track/00CaDxVVxJaUeAOebDI65k"
     },
     {
       "added_at": "2023-04-21 15:25:15",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2023-04-21 15:25:15",
       "album": {
-        "name": "Lava",
-        "url": "https://open.spotify.com/album/0P7BNrKeRNCFyuUHtmK5KY"
+        "name": "tarde",
+        "url": "https://open.spotify.com/album/6lRoh8C3svKUXARiBoAzAq"
       },
       "artists": [
         {
-          "name": "Mola Mola",
-          "url": "https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN"
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 202563,
-      "name": "Lava",
-      "url": "https://open.spotify.com/track/0itpe8ossR5xjg9gd9NyyI"
+      "duration_ms": 217933,
+      "name": "tarde",
+      "url": "https://open.spotify.com/track/00d5cZCaxuGWzeL4n8dbpe"
     }
   ],
   "unique_name": "indie feliz",

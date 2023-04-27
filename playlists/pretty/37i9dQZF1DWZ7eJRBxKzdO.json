@@ -1,12 +1,12 @@
 {
   "description": "The summer needs dance hits \ud83d\ude0e\u2600\ufe0f",
-  "num_followers": 129816,
+  "num_followers": 129848,
   "original_name": "Summer Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA4MTQxNSwwMDAwMDAwMDAxYWY0MjQxMmY0MzcwMjI3ODlkNjE2ZDYxZmEwMjgy",
+  "snapshot_id": "MTY4MjA4MTQxNSwwMDAwMDAwMGZkMzZkMDlkMTk2YTI4Y2JmNzdmNmU2YzkzZjBkMzNi",
   "tracks": [
     {
       "added_at": "2023-04-21 12:50:15",
@@ -643,22 +643,22 @@
     {
       "added_at": "2023-04-21 12:50:15",
       "album": {
-        "name": "Because You Move Me",
-        "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
+        "name": "Substitution",
+        "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         },
         {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
         }
       ],
-      "duration_ms": 196375,
-      "name": "Because You Move Me",
-      "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
+      "duration_ms": 181477,
+      "name": "Substitution",
+      "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
     },
     {
       "added_at": "2023-04-21 12:50:15",
@@ -691,22 +691,22 @@
     {
       "added_at": "2023-04-21 12:50:15",
       "album": {
-        "name": "Substitution",
-        "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
+        "name": "Because You Move Me",
+        "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
       },
       "artists": [
         {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
         },
         {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
         }
       ],
-      "duration_ms": 181477,
-      "name": "Substitution",
-      "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
+      "duration_ms": 196375,
+      "name": "Because You Move Me",
+      "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
     },
     {
       "added_at": "2023-04-21 12:50:15",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2023-04-21 12:50:15",
       "album": {
-        "name": "Miracle Maker",
-        "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 188592,
-      "name": "Miracle Maker",
-      "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
-    },
-    {
-      "added_at": "2023-04-21 12:50:15",
-      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/2R1IseXguOsELhULk1H60P"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 170578,
       "name": "On & On",
       "url": "https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r"
+    },
+    {
+      "added_at": "2023-04-21 12:50:15",
+      "album": {
+        "name": "Miracle Maker",
+        "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 188592,
+      "name": "Miracle Maker",
+      "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
     },
     {
       "added_at": "2023-04-21 12:50:15",
@@ -1195,22 +1195,18 @@
     {
       "added_at": "2023-04-21 12:50:15",
       "album": {
-        "name": "AEIOU",
-        "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
+        "name": "I Want More",
+        "url": "https://open.spotify.com/album/5QbPK8Zabj8ynFuJ6IbK0r"
       },
       "artists": [
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
         }
       ],
-      "duration_ms": 161880,
-      "name": "AEIOU",
-      "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
+      "duration_ms": 129600,
+      "name": "I Want More",
+      "url": "https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt"
     },
     {
       "added_at": "2023-04-21 12:50:15",
@@ -1235,18 +1231,22 @@
     {
       "added_at": "2023-04-21 12:50:15",
       "album": {
-        "name": "I Want More",
-        "url": "https://open.spotify.com/album/5QbPK8Zabj8ynFuJ6IbK0r"
+        "name": "AEIOU",
+        "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
       },
       "artists": [
         {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         }
       ],
-      "duration_ms": 129600,
-      "name": "I Want More",
-      "url": "https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt"
+      "duration_ms": 161880,
+      "name": "AEIOU",
+      "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
     },
     {
       "added_at": "2023-04-21 12:50:15",
@@ -1875,6 +1875,26 @@
     {
       "added_at": "2023-04-21 12:50:15",
       "album": {
+        "name": "Ritmo (HUGEL Edit)",
+        "url": "https://open.spotify.com/album/6jl8AuIfgD8jznXf0Rjh1C"
+      },
+      "artists": [
+        {
+          "name": "Raffa Fl",
+          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "duration_ms": 165483,
+      "name": "Ritmo - HUGEL Edit",
+      "url": "https://open.spotify.com/track/6U0NVioYt4nZARPNOKhExY"
+    },
+    {
+      "added_at": "2023-04-21 12:50:15",
+      "album": {
         "name": "Okay",
         "url": "https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE"
       },
@@ -1915,22 +1935,18 @@
     {
       "added_at": "2023-04-21 12:50:15",
       "album": {
-        "name": "Ritmo (HUGEL Edit)",
-        "url": "https://open.spotify.com/album/6jl8AuIfgD8jznXf0Rjh1C"
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/4VrGw3dww2O6U0hZTXOHae"
       },
       "artists": [
         {
-          "name": "Raffa Fl",
-          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
-        },
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
         }
       ],
-      "duration_ms": 165483,
-      "name": "Ritmo - HUGEL Edit",
-      "url": "https://open.spotify.com/track/6U0NVioYt4nZARPNOKhExY"
+      "duration_ms": 157910,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/5zEAGm4yKQ8NMemN0m3rW1"
     },
     {
       "added_at": "2023-04-21 12:50:15",
@@ -1963,42 +1979,22 @@
     {
       "added_at": "2023-04-21 12:50:15",
       "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/4VrGw3dww2O6U0hZTXOHae"
+        "name": "Way It Is",
+        "url": "https://open.spotify.com/album/3eh4ktE7LJNFljqBMn0ZnO"
       },
       "artists": [
         {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 157910,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/5zEAGm4yKQ8NMemN0m3rW1"
-    },
-    {
-      "added_at": "2023-04-21 12:50:15",
-      "album": {
-        "name": "2 Hearts (feat. Gia Koka)",
-        "url": "https://open.spotify.com/album/798RdmwmE3IZcZnW0jT7kc"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
         },
         {
-          "name": "Sigma",
-          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
-        },
-        {
-          "name": "Gia Koka",
-          "url": "https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz"
+          "name": "RSCL",
+          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
         }
       ],
-      "duration_ms": 186750,
-      "name": "2 Hearts (feat. Gia Koka)",
-      "url": "https://open.spotify.com/track/0EdgK7ASb4kfRkW8pVMN02"
+      "duration_ms": 192905,
+      "name": "Way It Is",
+      "url": "https://open.spotify.com/track/2dwnD6tMYqp8zQmfg1XvNQ"
     },
     {
       "added_at": "2023-04-21 12:50:15",
@@ -2027,22 +2023,26 @@
     {
       "added_at": "2023-04-21 12:50:15",
       "album": {
-        "name": "Way It Is",
-        "url": "https://open.spotify.com/album/3eh4ktE7LJNFljqBMn0ZnO"
+        "name": "2 Hearts (feat. Gia Koka)",
+        "url": "https://open.spotify.com/album/798RdmwmE3IZcZnW0jT7kc"
       },
       "artists": [
         {
-          "name": "Mr. Belt & Wezol",
-          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         },
         {
-          "name": "RSCL",
-          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "Gia Koka",
+          "url": "https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz"
         }
       ],
-      "duration_ms": 192905,
-      "name": "Way It Is",
-      "url": "https://open.spotify.com/track/2dwnD6tMYqp8zQmfg1XvNQ"
+      "duration_ms": 186750,
+      "name": "2 Hearts (feat. Gia Koka)",
+      "url": "https://open.spotify.com/track/0EdgK7ASb4kfRkW8pVMN02"
     },
     {
       "added_at": "2023-04-21 12:50:15",
@@ -2103,30 +2103,6 @@
     {
       "added_at": "2023-04-21 12:50:15",
       "album": {
-        "name": "Come Around Again",
-        "url": "https://open.spotify.com/album/312M1zzN7C2Vqd0VeORTMC"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Billen Ted",
-          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
-        },
-        {
-          "name": "JC Stewart",
-          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
-        }
-      ],
-      "duration_ms": 169108,
-      "name": "Come Around Again",
-      "url": "https://open.spotify.com/track/55Y4oE6oE6XBT2e71vK2yA"
-    },
-    {
-      "added_at": "2023-04-21 12:50:15",
-      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/4dtA4QUlcF3fsOcWYkXiLB"
       },
@@ -2139,46 +2115,6 @@
       "duration_ms": 158399,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/5QjfEMyFm4YTyYTbHvriGT"
-    },
-    {
-      "added_at": "2023-04-21 12:50:15",
-      "album": {
-        "name": "Exotica",
-        "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
-        }
-      ],
-      "duration_ms": 195704,
-      "name": "Hypnotized",
-      "url": "https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu"
-    },
-    {
-      "added_at": "2023-04-21 12:50:15",
-      "album": {
-        "name": "No Diggity",
-        "url": "https://open.spotify.com/album/1x66drtf4CW5onOaeS0oz3"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Blackstreet",
-          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
-        }
-      ],
-      "duration_ms": 168727,
-      "name": "No Diggity",
-      "url": "https://open.spotify.com/track/32PKQDEaouIIOlNZ5umoR6"
     },
     {
       "added_at": "2023-04-21 12:50:15",
@@ -2207,6 +2143,70 @@
       "duration_ms": 156985,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/6Hht0SIzJwQYBkDD07Dnoj"
+    },
+    {
+      "added_at": "2023-04-21 12:50:15",
+      "album": {
+        "name": "Come Around Again",
+        "url": "https://open.spotify.com/album/312M1zzN7C2Vqd0VeORTMC"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        },
+        {
+          "name": "JC Stewart",
+          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
+        }
+      ],
+      "duration_ms": 169108,
+      "name": "Come Around Again",
+      "url": "https://open.spotify.com/track/55Y4oE6oE6XBT2e71vK2yA"
+    },
+    {
+      "added_at": "2023-04-21 12:50:15",
+      "album": {
+        "name": "No Diggity",
+        "url": "https://open.spotify.com/album/1x66drtf4CW5onOaeS0oz3"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Blackstreet",
+          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
+        }
+      ],
+      "duration_ms": 168727,
+      "name": "No Diggity",
+      "url": "https://open.spotify.com/track/32PKQDEaouIIOlNZ5umoR6"
+    },
+    {
+      "added_at": "2023-04-21 12:50:15",
+      "album": {
+        "name": "Exotica",
+        "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        }
+      ],
+      "duration_ms": 195704,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu"
     },
     {
       "added_at": "2023-04-21 12:50:15",

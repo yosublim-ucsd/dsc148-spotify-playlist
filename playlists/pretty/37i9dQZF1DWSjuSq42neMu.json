@@ -1,12 +1,12 @@
 {
   "description": "todo un mood. ",
-  "num_followers": 622942,
+  "num_followers": 623419,
   "original_name": "suave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTc1OTkwNSwwMDAwMDAwMDI2NDAxYTUzMjA4NzM1MTVmODc3ZmViNDdkMmU5ZTky",
+  "snapshot_id": "MTY4MTc1OTkwNSwwMDAwMDAwMDI0OTA5NTNmNDViNGFjMjBmZWVkMjc0YTgyNjNjZTUx",
   "tracks": [
     {
       "added_at": "2023-04-17 19:31:45",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
-        "name": "Pari\u0301s",
-        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 151428,
-      "name": "Pari\u0301s",
-      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
-    },
-    {
-      "added_at": "2023-04-17 19:31:45",
-      "album": {
         "name": "NASTU",
         "url": "https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 168367,
       "name": "Mami",
       "url": "https://open.spotify.com/track/4FjkjrvfbB3C4eUqWlw3vB"
+    },
+    {
+      "added_at": "2023-04-17 19:31:45",
+      "album": {
+        "name": "Pari\u0301s",
+        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 151428,
+      "name": "Pari\u0301s",
+      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
     },
     {
       "added_at": "2023-04-17 19:31:45",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
-        "name": "Guaro",
-        "url": "https://open.spotify.com/album/1D8eQxCxhoMcNB7XwNl468"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 118773,
-      "name": "Guaro",
-      "url": "https://open.spotify.com/track/57sG0muDy6txXqYFBlcA6y"
-    },
-    {
-      "added_at": "2023-04-17 19:31:45",
-      "album": {
         "name": "Ajena",
         "url": "https://open.spotify.com/album/09f8EgWWvka2uplSWGdIwV"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 162901,
       "name": "Ajena (with Myke Towers, Dylan Fuentes)",
       "url": "https://open.spotify.com/track/4KXtFUFmPObTROXShFLHZX"
+    },
+    {
+      "added_at": "2023-04-17 19:31:45",
+      "album": {
+        "name": "Guaro",
+        "url": "https://open.spotify.com/album/1D8eQxCxhoMcNB7XwNl468"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 118773,
+      "name": "Guaro",
+      "url": "https://open.spotify.com/track/57sG0muDy6txXqYFBlcA6y"
     },
     {
       "added_at": "2023-04-17 19:31:45",
@@ -2071,6 +2071,22 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
+        "name": "Ponte Pa' Mi",
+        "url": "https://open.spotify.com/album/3Nle45IcWgxIkXQw8EtYq1"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 202373,
+      "name": "Ponte Pa' Mi",
+      "url": "https://open.spotify.com/track/4C6BlqqMwjFzOXzqpTeoWR"
+    },
+    {
+      "added_at": "2023-04-17 19:31:45",
+      "album": {
         "name": "Fan\u00e1tico (feat. Feid & De La Ghetto) [Remix]",
         "url": "https://open.spotify.com/album/7BA2zaBLTBByNwceB6klnO"
       },
@@ -2099,22 +2115,6 @@
       "duration_ms": 310588,
       "name": "Fan\u00e1tico (feat. Feid & De La Ghetto) - Remix",
       "url": "https://open.spotify.com/track/5SEyiGqIMeZcFpC5ycODJc"
-    },
-    {
-      "added_at": "2023-04-17 19:31:45",
-      "album": {
-        "name": "Ponte Pa' Mi",
-        "url": "https://open.spotify.com/album/3Nle45IcWgxIkXQw8EtYq1"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 202373,
-      "name": "Ponte Pa' Mi",
-      "url": "https://open.spotify.com/track/4C6BlqqMwjFzOXzqpTeoWR"
     }
   ],
   "unique_name": "suave",

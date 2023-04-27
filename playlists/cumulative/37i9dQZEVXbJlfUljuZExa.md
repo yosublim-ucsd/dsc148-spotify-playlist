@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Malaysia.
 
-684 songs - 1 day 15 hr 6 min
+685 songs - 1 day 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-06-09 | 2023-02-17 |
 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 | 2023-04-11 |  |
 | [I can't run away](https://open.spotify.com/track/0bFiLUmBmFX0aWyhVqIwiN) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:30 | 2021-10-23 | 2021-10-24 |
+| [I Don't Understand But I Luv U](https://open.spotify.com/track/3acGHJqr9xU1cnCEfLX1Lx) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:29 | 2023-04-26 |  |
 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 | 2021-11-21 | 2021-11-25 |
 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 | 2021-09-20 | 2021-11-14 |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2021-12-06 | 2022-01-12 |
@@ -523,7 +524,7 @@
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-08 | 2022-01-28 |
 | [Sanctuary](https://open.spotify.com/track/5F1ZmucV0uJY14y2dYKePa) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 3:00 | 2022-06-13 | 2022-07-03 |
 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2021-12-24 | 2022-12-28 |
-| [Satu Hari Di Hari Raya](https://open.spotify.com/track/10Tjxc2yoqT9BPpezRDRLh) | [M\. Nasir](https://open.spotify.com/artist/2O8MDsUKNHTgwoodOefHYD) | [Satu Hari Di Hari Raya](https://open.spotify.com/album/72KRrZJF2AxljhkcLhy0Ab) | 3:31 | 2021-04-29 |  |
+| [Satu Hari Di Hari Raya](https://open.spotify.com/track/10Tjxc2yoqT9BPpezRDRLh) | [M\. Nasir](https://open.spotify.com/artist/2O8MDsUKNHTgwoodOefHYD) | [Satu Hari Di Hari Raya](https://open.spotify.com/album/72KRrZJF2AxljhkcLhy0Ab) | 3:31 | 2021-04-29 | 2023-04-27 |
 | [Satu Malam Di Temasek](https://open.spotify.com/track/5nsfVwWz1M1sug2ILCVygq) | [Joe Flizzow](https://open.spotify.com/artist/28JPqJh7jsUuxus33Kfwe7), [SonaOne](https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z) | [Satu Malam Di Temasek](https://open.spotify.com/album/6oMP9SqrAAZqr5QR2gVvWl) | 3:37 | 2022-08-30 | 2022-12-09 |
 | [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 | 2021-10-07 | 2021-11-12 |
 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 | 2021-03-27\* | 2021-06-09 |
@@ -540,7 +541,7 @@
 | [Semata Karenamu](https://open.spotify.com/track/4z6FksNI6MLCDTHrNJXhO0) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Semata Karenamu](https://open.spotify.com/album/7Cc4mRgFWAomMajhwO0xr6) | 4:38 | 2022-12-05 |  |
 | [Sempurna](https://open.spotify.com/track/67C6LHREqmytK923Ak6R0I) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP) | [Sempurna](https://open.spotify.com/album/4sigvBSInHo1GXR6UUYTVm) | 4:11 | 2022-02-15 | 2023-03-15 |
 | [Senandung Hari Raya Untukmu](https://open.spotify.com/track/6oPIg3ql5chwh04iS9JfX9) | [Dayangku Intan](https://open.spotify.com/artist/3D4uyEk5z3Ko3kwREUNsUt) | [Salam Aidilfitri Untuk Semua](https://open.spotify.com/album/5BcML59c6LOnCLF7wYw7JB) | 3:27 | 2021-05-06 | 2023-04-26 |
-| [Sesuci Lebaran](https://open.spotify.com/track/20gz9dYTVbtnDUFV2YmJC0) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Anugerah Aidilfitri](https://open.spotify.com/album/0NLE24UYydjx4sddYTjnIJ) | 3:59 | 2021-04-30 |  |
+| [Sesuci Lebaran](https://open.spotify.com/track/20gz9dYTVbtnDUFV2YmJC0) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Anugerah Aidilfitri](https://open.spotify.com/album/0NLE24UYydjx4sddYTjnIJ) | 3:59 | 2021-04-30 | 2023-04-27 |
 | [Set Me Free Pt.2](https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Set Me Free Pt.2](https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz) | 3:20 | 2023-03-18 | 2023-04-09 |
 | [SG \(with Ozuna, Megan Thee Stallion & LISA of BLACKPINK\)](https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [SG \(with Ozuna, Megan Thee Stallion & LISA of BLACKPINK\)](https://open.spotify.com/album/2TGtXG18s21Q1jnY2TC39M) | 3:45 | 2021-10-23 | 2021-12-04 |
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-02-17 | 2022-03-09 |
@@ -605,7 +606,7 @@
 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-27 | 2022-08-29 |
 | [Talk that Talk](https://open.spotify.com/track/0kqTXMHiQiB7IECD0WwcPq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/5QdY7RvuEg2tznpYJG8gP2) | 2:57 | 2022-08-28 | 2022-10-07 |
 | [Talking to the Moon](https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:37 | 2021-04-04 | 2021-08-22 |
-| [Tally](https://open.spotify.com/track/0bYVPJvXr8ACmw313cVvhB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 3:04 | 2022-09-17 | 2023-03-13 |
+| [Tally](https://open.spotify.com/track/0bYVPJvXr8ACmw313cVvhB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 3:04 | 2022-09-17 |  |
 | [Tamed\-Dashed](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:16 | 2021-10-14 | 2021-10-21 |
 | [Telepathy](https://open.spotify.com/track/2FVpOsjT1iquZ3SpCjZ9Ne) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:22 | 2021-05-23 | 2021-05-26 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-03-27\* | 2021-06-13 |

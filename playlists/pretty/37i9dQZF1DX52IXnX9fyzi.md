@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,557 likes - 198 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,742 likes - 198 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 15 | [Chasing lights](https://open.spotify.com/track/1oxnn6zzA7x9p8o46JetXm) | [Giles Garnier](https://open.spotify.com/artist/7kROE0Pp2o1NqMVIWLX3Vg) | [Chasing lights](https://open.spotify.com/album/2hD5lpDeL7dOU3EQGxkfGX) | 2:14 |
 | 16 | [Underverse](https://open.spotify.com/track/2FqPT4G4ygSSRTerAfyUD6) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [In Faith](https://open.spotify.com/album/2URSgPPCKlKmsGqcDxfygl) | 3:12 |
 | 17 | [Hinode](https://open.spotify.com/track/0jP1vlXPZWKezTOU49xGzN) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Hinode](https://open.spotify.com/album/1wkFABi2Q0XBC9j0dOEAwZ) | 2:31 |
-| 18 | [Nevel op het water](https://open.spotify.com/track/35qI1oitzrLumXMEntOoGE) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [Berlijn zonder veel kleur](https://open.spotify.com/album/4N6VzLHpBH699mio1gAkCo) | 2:50 |
+| 18 | [Nevel op het water](https://open.spotify.com/track/2xrAPUVXZ9Fx3Db3F3BR6r) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [Postkaarten](https://open.spotify.com/album/75jJdYhqxDnTeFAAaWtSED) | 2:50 |
 | 19 | [Cygne Noir](https://open.spotify.com/track/5BxHusXv0AvPFlm0wGbYv3) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Cygne Noir](https://open.spotify.com/album/5HHvADWAbDJvs9HJGNCQl1) | 2:58 |
 | 20 | [Tefu](https://open.spotify.com/track/6Kvyy9j56qtmwfo0O2J2TN) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [Tefu](https://open.spotify.com/album/5O0e8gm3TFLdoJrAdADIEo) | 2:24 |
 | 21 | [Tiens ma main](https://open.spotify.com/track/2OP9iKAHM767rIa85WViM7) | [Prewitt Massé](https://open.spotify.com/artist/4A2bJABmFzaDnZwBris4yj) | [Tiens ma main](https://open.spotify.com/album/4GZs8HylpUXyUbtvc2PNNJ) | 2:43 |
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 197 | [Your Heart Will Mend](https://open.spotify.com/track/60bojdGBpwUfilmhILcPsK) | [Donald Kutcher](https://open.spotify.com/artist/5UvqlmBYi8RQyIyNZPiHTh) | [Your Heart Will Mend](https://open.spotify.com/album/35YyAwBX2Ft3ZJArG1Y2DG) | 2:26 |
 | 198 | [Nuxe](https://open.spotify.com/track/6h0V5bM7dDmwvrrmqHVlPE) | [Valla](https://open.spotify.com/artist/1nrQ489GYy77LqrmBOmtfh) | [lachlan](https://open.spotify.com/album/4upy9Hil2WVSEwu8eYEVWB) | 2:18 |
 
-Snapshot ID: `MTY4MTgzMTg5NiwwMDAwMDAwMGRiYmYxOTM3NTExODgwMzU5OTI5OGU3ZWVmOWY1ZjQ0`
+Snapshot ID: `MTY4MTgzMTg5NiwwMDAwMDAwMDYwNjkxOWM3YWFkOTBhMmNhNmFjZDcyZGVhOWFlMTg5`

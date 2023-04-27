@@ -4425,6 +4425,24 @@
     },
     {
       "album": {
+        "name": "Never say Never",
+        "url": "https://open.spotify.com/album/4jpMiwfRwO5bs6BZkJouuI"
+      },
+      "artists": [
+        {
+          "name": "Takanori Nishikawa",
+          "url": "https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265160,
+      "name": "Never say Never",
+      "url": "https://open.spotify.com/track/61gMW4HX7FsLNDAAWBUTUg"
+    },
+    {
+      "album": {
         "name": "Never the Fever!!",
         "url": "https://open.spotify.com/album/0Gfoc5PA6OxnJn8MbCSQk4"
       },
@@ -4858,10 +4876,28 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 206017,
       "name": "Quiet explosion",
       "url": "https://open.spotify.com/track/221x9VoSuIZLz05MfJ9hVT"
+    },
+    {
+      "album": {
+        "name": "Quiet explosion",
+        "url": "https://open.spotify.com/album/3XAEoNI4FLn9PKW6S6pfGA"
+      },
+      "artists": [
+        {
+          "name": "Mamoru Miyano",
+          "url": "https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206017,
+      "name": "Quiet explosion",
+      "url": "https://open.spotify.com/track/3ytGc8DrY5fvPYJpkGfB0W"
     },
     {
       "album": {
@@ -9412,10 +9448,28 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 255813,
       "name": "\u30ea\u30f3\u30cd",
       "url": "https://open.spotify.com/track/4Ps9apbyXwAzD99EfQdKdy"
+    },
+    {
+      "album": {
+        "name": "\u30ea\u30f3\u30cd",
+        "url": "https://open.spotify.com/album/6OAstY8cQ4Pi0Q0EQQ0oaY"
+      },
+      "artists": [
+        {
+          "name": "ASCA",
+          "url": "https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255813,
+      "name": "\u30ea\u30f3\u30cd",
+      "url": "https://open.spotify.com/track/4Zl0YGg14OYsXoUareu1MX"
     },
     {
       "album": {

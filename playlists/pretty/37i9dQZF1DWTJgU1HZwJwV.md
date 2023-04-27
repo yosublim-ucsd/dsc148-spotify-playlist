@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,401 likes - 242 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,443 likes - 242 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 77 | [Morgensonne](https://open.spotify.com/track/3ozSKHP42w2mYbkmqEnfOq) | [Aurelius Schmidt](https://open.spotify.com/artist/4DRJD1JI9CaeeHH9LrkzbY) | [Sandrina](https://open.spotify.com/album/6Is2bPoXegoPbnYTzVD7nB) | 2:26 |
 | 78 | [El Sueño De La Muñeca](https://open.spotify.com/track/4DLfSsfLAwl5mrqTg745qT) | [Agustín Barrios Mangoré](https://open.spotify.com/artist/5cOuSl6E1SSG9oPcOYRZQR), [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [El Sueño De La Muñeca](https://open.spotify.com/album/6tfNJGuPKy2jTQFpPhiYZL) | 2:41 |
 | 79 | [Vineyard romance](https://open.spotify.com/track/0hrERSWlhyvqO1hb6EvDCS) | [Matthew Everwood](https://open.spotify.com/artist/7C69ACEOoF0mqZxylAevY7) | [Vineyard romance](https://open.spotify.com/album/7jXnSO5CjtNIYU6e7g3hfa) | 2:02 |
-| 80 | [Glide](https://open.spotify.com/track/1iTnYij47T9BmboWHs5wsC) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Glide](https://open.spotify.com/album/79PiXS788M5DE77IOknDCi) | 2:29 |
+| 80 | [Glide](https://open.spotify.com/track/4ErdgxMPqlPd7wNM07oan4) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Glide](https://open.spotify.com/album/4zvQetd2SH0ecyCY14flMz) | 2:29 |
 | 81 | [Yuunagi](https://open.spotify.com/track/1W0TeWjEOb4ATZH7LlneI2) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Yuunagi](https://open.spotify.com/album/069HopXqHO0E3rbTGspTzh) | 2:00 |
 | 82 | [Clouded Reflection](https://open.spotify.com/track/0BTLhUHKgEi7Jx8uRjTAii) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Clouded Reflection](https://open.spotify.com/album/6KwQj931Z6T7Q6xg9Ldbge) | 2:03 |
 | 83 | [Porto Salvo](https://open.spotify.com/track/09Z2QZNcoyz6hxQPfGSwd4) | [Clotho](https://open.spotify.com/artist/47BxCwdoIB8uBDUY6KktXs) | [Ericeira](https://open.spotify.com/album/32NGueMRUQl0zGowxzQIbG) | 2:54 |
@@ -251,4 +251,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 241 | [Cup](https://open.spotify.com/track/2rh8t6nbYuoABlG31Mm3xX) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Cup](https://open.spotify.com/album/1nIYHMtvCKyA0JVxiF7Mns) | 2:12 |
 | 242 | [Wilderness Exit](https://open.spotify.com/track/7MXTBwqSyx2pUURMAT1k7e) | [Knut Bjørnar Asphol](https://open.spotify.com/artist/3O0OUcf7693cHwTBJWKl5K), [KNUT](https://open.spotify.com/artist/6h3SYhsBfgz8N71ozZtHbD) | [Wilderness Exit](https://open.spotify.com/album/1BblbjzdUHX86Ir6rQTu78) | 4:24 |
 
-Snapshot ID: `MTY3OTYxOTYwMCwwMDAwMDAwMDczYjg0NzRhZDE1M2MzMTI0NDZjNDk2MDc3ZWU1MWJk`
+Snapshot ID: `MTY3OTYxOTYwMCwwMDAwMDAwMDIzZDYyNDYwNTI1YTU2ZjM1YTExNTZmODk0MmFlMmYw`

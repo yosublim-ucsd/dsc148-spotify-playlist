@@ -1,12 +1,12 @@
 {
   "description": "Easy rock for that peaceful, easy feeling. Cover: U2",
-  "num_followers": 665,
+  "num_followers": 715,
   "original_name": "Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTIyNjAwOSwwMDAwMDAwMGQzZDY3NTdkMWYzMThkNTUzYTk5ODdiZDNiNGJlOTJk",
+  "snapshot_id": "MTY4MTIyNjAwOSwwMDAwMDAwMDhjNjYxZmNiNzI1NDkzYzg4MGJiMzQyYTIxZDAzNjU4",
   "tracks": [
     {
       "added_at": "2023-04-11 13:31:58",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Tea For The Tillerman (Remastered 2020)",
-        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 200560,
-      "name": "Wild World",
-      "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Nimrod",
         "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 153466,
       "name": "Good Riddance (Time of Your Life)",
       "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Tea For The Tillerman (Remastered 2020)",
+        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 200560,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Even In The Quietest Moments",
-        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 248173,
-      "name": "Give A Little Bit",
-      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "OK Computer",
         "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 264066,
       "name": "Karma Police",
       "url": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Even In The Quietest Moments",
+        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 248173,
+      "name": "Give A Little Bit",
+      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Chicago 16 (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/4NmlDrnZOd3ejob9PoiOd9"
+        "name": "Welcome To The Real World",
+        "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
       },
       "artists": [
         {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+          "name": "Mr. Mister",
+          "url": "https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ"
         }
       ],
-      "duration_ms": 304213,
-      "name": "Hard to Say I'm Sorry / Get Away - 2006 Remaster",
-      "url": "https://open.spotify.com/track/07TnWCHrFkvF61GzJuLVt0"
+      "duration_ms": 343933,
+      "name": "Broken Wings",
+      "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Welcome To The Real World",
-        "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
+        "name": "Chicago 16 (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/4NmlDrnZOd3ejob9PoiOd9"
       },
       "artists": [
         {
-          "name": "Mr. Mister",
-          "url": "https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ"
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
         }
       ],
-      "duration_ms": 343933,
-      "name": "Broken Wings",
-      "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
+      "duration_ms": 304213,
+      "name": "Hard to Say I'm Sorry / Get Away - 2006 Remaster",
+      "url": "https://open.spotify.com/track/07TnWCHrFkvF61GzJuLVt0"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Woodface",
-        "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
-      },
-      "artists": [
-        {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
-        }
-      ],
-      "duration_ms": 224466,
-      "name": "Weather With You",
-      "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 413826,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Woodface",
+        "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "duration_ms": 224466,
+      "name": "Weather With You",
+      "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "If We Fall in Love Tonight",
-        "url": "https://open.spotify.com/album/2GmrcFfoRPSKmmSyh36Bu6"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 281200,
-      "name": "All for Love",
-      "url": "https://open.spotify.com/track/4lsEHglVsLzILTDQ3CNESV"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Misguided Roses",
         "url": "https://open.spotify.com/album/1JB1Zvcddt81PiipQQC319"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 266533,
       "name": "I'll Be",
       "url": "https://open.spotify.com/track/5K7AMlpc4796JRWXb26nCV"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "If We Fall in Love Tonight",
+        "url": "https://open.spotify.com/album/2GmrcFfoRPSKmmSyh36Bu6"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 281200,
+      "name": "All for Love",
+      "url": "https://open.spotify.com/track/4lsEHglVsLzILTDQ3CNESV"
     },
     {
       "added_at": "2023-04-11 13:31:58",

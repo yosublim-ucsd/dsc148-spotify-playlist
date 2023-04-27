@@ -4,7 +4,7 @@
 
 > it's never too early.
 
-238 songs - 12 hr 51 min
+240 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [En Bajita](https://open.spotify.com/track/5K9VzfSr7L34rMMJxe8ndg) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [En Bajita](https://open.spotify.com/album/77hesD3v2jWR2dnhElz9Yp) | 3:29 | 2023-03-21 |  |
 | [En El Coche](https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [En El Coche](https://open.spotify.com/album/6sIXTuaE9F2p4PcXVuawjp) | 2:05 | 2022-05-11 | 2022-07-09 |
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2022-07-08 |  |
-| [Es un Secreto](https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 | 2022-11-21 |  |
+| [Es un Secreto](https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 | 2022-11-21 | 2023-04-27 |
 | [Es un Secreto](https://open.spotify.com/track/0R7DSnSibvuE4PEHqUayqf) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu) | 3:10 | 2022-07-11 | 2022-12-01 |
 | [Fantasía](https://open.spotify.com/track/14SBbAnAb9yLbVGnbFfra6) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Fantasía](https://open.spotify.com/album/0lGtyEUMscYKrIYoq6JSbP) | 2:53 | 2021-12-24 | 2022-07-09 |
 | [Feelings](https://open.spotify.com/track/4n1n6LadWODpql8E1QxxN6) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Feelings](https://open.spotify.com/album/1X7N9J7vljruYHfXuww2tv) | 3:02 | 2021-12-24 | 2022-05-24 |
@@ -118,6 +118,7 @@
 | [Indika](https://open.spotify.com/track/0oeoO3G4MqkpZao0k1p64Y) | [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ) | [Indika](https://open.spotify.com/album/7GETrO7Papjbg1qg4YbEnu) | 2:41 | 2022-12-30 | 2023-01-18 |
 | [Inmadura](https://open.spotify.com/track/7mYYGLg3gp39fj3zlWfjAS) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Inmadura](https://open.spotify.com/album/0m096w1bGYtCWkjxvlKo3B) | 2:23 | 2022-05-23 | 2022-07-09 |
 | [Ketamina](https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ketamina](https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8) | 2:51 | 2022-01-21 | 2022-05-12 |
+| [Kitty](https://open.spotify.com/track/7dg1E1QLfNAXDNlKshOTUC) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Kitty](https://open.spotify.com/album/7MTllNrunaSB1GTWkbt9ee) | 3:20 | 2023-04-21 |  |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-07-08 | 2022-11-08 |
 | [La Canción Que No Quiero Cantarte](https://open.spotify.com/track/1BLWBkRUpDRTNxIjfhDlOn) | [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [La Canción Que No Quiero Cantarte](https://open.spotify.com/album/7zRCaRgmzwmtaFvI08nh4p) | 2:48 | 2022-05-11 | 2022-05-24 |
 | [La Curiosidad](https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Platonicos](https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw) | 3:39 | 2022-07-18 |  |
@@ -149,6 +150,7 @@
 | [Me Rehúso](https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Me Rehúso](https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d) | 3:25 | 2022-08-08 | 2022-12-31 |
 | [MENTIRA](https://open.spotify.com/track/1Pu4cnq4smdcFpDkYNfAPM) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [MENTIRA](https://open.spotify.com/album/504276CKzXYa8wQ1ZUoHEn) | 2:52 | 2022-01-14 | 2022-05-24 |
 | [MI DROGA](https://open.spotify.com/track/5OYRVKWII0Eog7CjQRnmGf) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:43 | 2023-03-24 |  |
+| [MI EXXX](https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [MI EXXX](https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC) | 3:14 | 2023-04-21 |  |
 | [Mi Gente](https://open.spotify.com/track/4ipnJyDU3Lq15qBAYNqlqK) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Mi Gente](https://open.spotify.com/album/1ZJtkYBzRb7drznu3UYb3k) | 3:09 | 2022-08-08 | 2022-12-31 |
 | [MIA \(feat\. Drake\)](https://open.spotify.com/track/116H0KvKr2Zl4RPuVBruDO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [MIA \(feat\. Drake\)](https://open.spotify.com/album/0p0W4RXcnc59jgatcdZozO) | 3:30 | 2022-07-18 | 2022-08-09 |
 | [Mira Loco](https://open.spotify.com/track/4U3m6mG7gzJR38lNyzoZa5) | [Valeria Scolari](https://open.spotify.com/artist/1RE6hxyCRV22rq5Kr3xdGJ) | [Mira Loco](https://open.spotify.com/album/1GSKwQEp4LaOnXST8H9Oi8) | 2:58 | 2022-05-23 | 2022-07-09 |
@@ -236,7 +238,7 @@
 | [vuelve](https://open.spotify.com/track/5vbUaeom27lTaAIhDin5DU) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ya no somos los mismos](https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH) | 3:21 | 2022-04-29 | 2022-07-09 |
 | [Vuelves](https://open.spotify.com/track/3LWVY4DMOKW2JpOttms6Q6) | [Neela](https://open.spotify.com/artist/3c5q3H7Y58kioMJEZfAPgF) | [Vuelves](https://open.spotify.com/album/3AGWL2gr3nB14n0vts7Vld) | 3:17 | 2021-12-24 | 2022-05-24 |
 | [Where Does The Love Go?](https://open.spotify.com/track/6AvpB3EobBINZu3NuA4fh1) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5), [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Stuck in the Sky](https://open.spotify.com/album/6lRsrrPqbQaPMSR9KSzega) | 2:56 | 2021-12-24 | 2022-05-08 |
-| [X 1 BESO](https://open.spotify.com/track/0aLsiURB2GJoiN0mmtEQ5P) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [X 1 BESO](https://open.spotify.com/album/1kUAz9cWiD0B2UOW0lpA6W) | 3:08 | 2023-03-24 |  |
+| [X 1 BESO](https://open.spotify.com/track/0aLsiURB2GJoiN0mmtEQ5P) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [X 1 BESO](https://open.spotify.com/album/1kUAz9cWiD0B2UOW0lpA6W) | 3:08 | 2023-03-24 | 2023-04-27 |
 | [X SI VOLVEMOS](https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [X SI VOLVEMOS](https://open.spotify.com/album/1skkjCQGfaGg0wpVw6cq5w) | 3:23 | 2023-02-05 |  |
 | [Yandel 150](https://open.spotify.com/track/2oiixB9QMIzhWaHGVlQx4g) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Yandel 150](https://open.spotify.com/album/0T4sp7vn9arhvBUAda3foX) | 3:36 | 2023-01-18 |  |
 | [Yo Perreo Sola](https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:52 | 2022-07-08 | 2022-08-09 |

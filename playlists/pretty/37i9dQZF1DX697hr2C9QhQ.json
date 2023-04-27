@@ -1,12 +1,12 @@
 {
   "description": "Rock Legends from Ireland. Cover: Phil Lynott",
-  "num_followers": 15019,
+  "num_followers": 15053,
   "original_name": "Irish Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU0NjM4NywwMDAwMDAwMDVlZjVhZmQyYmUzY2U0NzU1ZjQxYTRiODViNTdmNGU0",
+  "snapshot_id": "MTY0NzU0NjM4NywwMDAwMDAwMDAxOGFjNGRmMzI0NzI5NTlkZmI4YWIxYWIyNzYwMGVk",
   "tracks": [
     {
       "added_at": "2022-03-17 10:54:32",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
-        "name": "Blue Lights on the Runway",
-        "url": "https://open.spotify.com/album/4iBvB6NJeMSZ6bgOZC1OCS"
-      },
-      "artists": [
-        {
-          "name": "Bell X1",
-          "url": "https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I"
-        }
-      ],
-      "duration_ms": 280400,
-      "name": "The Great Defector",
-      "url": "https://open.spotify.com/track/5r1y7XYDcTtDLJHzFgODOu"
-    },
-    {
-      "added_at": "2022-03-17 10:54:32",
-      "album": {
         "name": "Vagabonds Of The Western World",
         "url": "https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 315306,
       "name": "The Rocker",
       "url": "https://open.spotify.com/track/2qRF6tYwmXy6oMUSI4bKQA"
+    },
+    {
+      "added_at": "2022-03-17 10:54:32",
+      "album": {
+        "name": "Blue Lights on the Runway",
+        "url": "https://open.spotify.com/album/4iBvB6NJeMSZ6bgOZC1OCS"
+      },
+      "artists": [
+        {
+          "name": "Bell X1",
+          "url": "https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I"
+        }
+      ],
+      "duration_ms": 280400,
+      "name": "The Great Defector",
+      "url": "https://open.spotify.com/track/5r1y7XYDcTtDLJHzFgODOu"
     },
     {
       "added_at": "2022-03-17 10:54:32",
@@ -803,22 +803,18 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
-        "name": "Songs For The Tempted",
-        "url": "https://open.spotify.com/album/4GFXKDjclL9PwTnjrJiFpo"
+        "name": "Flock",
+        "url": "https://open.spotify.com/album/0fv20gMlaXlY2CXq7y6lXD"
       },
       "artists": [
         {
-          "name": "The 4 Of Us",
-          "url": "https://open.spotify.com/artist/1Yr9lXq2m3KO4otqQKcllY"
-        },
-        {
-          "name": "Michael H. Brauer",
-          "url": "https://open.spotify.com/artist/2YUPBZYVy2KFNGeNILURg6"
+          "name": "Bell X1",
+          "url": "https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I"
         }
       ],
-      "duration_ms": 213573,
-      "name": "Mary",
-      "url": "https://open.spotify.com/track/29U5hgoEjrssTYJ9KeaFub"
+      "duration_ms": 250760,
+      "name": "Rocky Took A Lover",
+      "url": "https://open.spotify.com/track/3xyO4UQssQz2lBqv608DiF"
     }
   ],
   "unique_name": "Irish Rock Classics",

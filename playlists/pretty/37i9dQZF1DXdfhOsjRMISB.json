@@ -1,12 +1,12 @@
 {
   "description": "Country music to accompany you on the open road. Cover: Maren Morris",
-  "num_followers": 336666,
+  "num_followers": 336673,
   "original_name": "Country Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDUyNTMwZmZhYTg0NWMxNjExMTQ3YTc0MGZkNTFjNTVm",
+  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDZmZjMwZWI2MjE5NzBjMzRiYTFhNzdkOGExMmZjYzE2",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Thought You Should Know",
-        "url": "https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i"
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 215571,
-      "name": "Thought You Should Know",
-      "url": "https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R"
+      "duration_ms": 172253,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+        "name": "Thought You Should Know",
+        "url": "https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 172253,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
+      "duration_ms": 215571,
+      "name": "Thought You Should Know",
+      "url": "https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -655,26 +655,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "All Your Fault: Pt. 2",
-        "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 163870,
-      "name": "Meant to Be (feat. Florida Georgia Line)",
-      "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Blue In The Sky",
         "url": "https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 170560,
       "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
       "url": "https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "All Your Fault: Pt. 2",
+        "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 163870,
+      "name": "Meant to Be (feat. Florida Georgia Line)",
+      "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "This Is the Heavy",
-        "url": "https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "We Got History",
-      "url": "https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Chief",
         "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 197293,
       "name": "The Bones",
       "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "This Is the Heavy",
+        "url": "https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "We Got History",
+      "url": "https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Brown Eyes Baby",
+        "url": "https://open.spotify.com/album/16epea6WNW5vPhusDbw3xp"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Brown Eyes Baby",
+      "url": "https://open.spotify.com/track/5JLf54f83nJrxD4IhFaLl7"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Rearview Town",
         "url": "https://open.spotify.com/album/5irmzpXixcdNF2ZJjcrN0A"
       },
@@ -1019,18 +1035,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Brown Eyes Baby",
-        "url": "https://open.spotify.com/album/16epea6WNW5vPhusDbw3xp"
+        "name": "Dan + Shay",
+        "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
         }
       ],
-      "duration_ms": 224333,
-      "name": "Brown Eyes Baby",
-      "url": "https://open.spotify.com/track/5JLf54f83nJrxD4IhFaLl7"
+      "duration_ms": 196746,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1051,22 +1067,6 @@
       "duration_ms": 245625,
       "name": "Drunk (And I Don't Wanna Go Home)",
       "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Dan + Shay",
-        "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 196746,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Dan + Shay",
-        "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
+        "name": "Angels (Don\u2019t Always Have Wings)",
+        "url": "https://open.spotify.com/album/1Ih8oq6GfJWVMQtIdOqthf"
       },
       "artists": [
         {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 213386,
-      "name": "Speechless",
-      "url": "https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF"
+      "duration_ms": 200426,
+      "name": "Angels (Don\u2019t Always Have Wings)",
+      "url": "https://open.spotify.com/track/5vZoQQ1hH5L2s4Y8G86ksg"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Dan + Shay",
+        "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 213386,
+      "name": "Speechless",
+      "url": "https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Wide Open",
         "url": "https://open.spotify.com/album/7k9oif0MqtQ79j8swtZRMS"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 220573,
       "name": "She's Country",
       "url": "https://open.spotify.com/track/0PspNrE4MSjr1JeB4OW0jn"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Angels (Don\u2019t Always Have Wings)",
-        "url": "https://open.spotify.com/album/1Ih8oq6GfJWVMQtIdOqthf"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 200426,
-      "name": "Angels (Don\u2019t Always Have Wings)",
-      "url": "https://open.spotify.com/track/5vZoQQ1hH5L2s4Y8G86ksg"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
+      },
+      "artists": [
+        {
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "Somethin' 'Bout A Truck",
+      "url": "https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 193880,
       "name": "Just the Way",
       "url": "https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
-      },
-      "artists": [
-        {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "Somethin' 'Bout A Truck",
-      "url": "https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 190640,
+      "name": "Every Little Thing",
+      "url": "https://open.spotify.com/track/3kgCJPXDlnL5bl1HFesHUi"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "When The Sun Goes Down",
         "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
       },
@@ -1915,22 +1931,6 @@
       "duration_ms": 290560,
       "name": "When the Sun Goes Down",
       "url": "https://open.spotify.com/track/5vLonpxn4VN0A8GtQOBSG0"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 190640,
-      "name": "Every Little Thing",
-      "url": "https://open.spotify.com/track/3kgCJPXDlnL5bl1HFesHUi"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Take A Back Road",
-        "url": "https://open.spotify.com/album/2qLz69eIC6A7GggjGvxEMp"
-      },
-      "artists": [
-        {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "Take A Back Road",
-      "url": "https://open.spotify.com/track/7B6m8tHAYZsOKOKMU5SR2n"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Whiskey And Rain",
         "url": "https://open.spotify.com/album/08lBvRZr4DpqiOYe4r2JAn"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 206506,
       "name": "Whiskey And Rain",
       "url": "https://open.spotify.com/track/1tf4Bfk8JIKryLpWYRvyiI"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Take A Back Road",
+        "url": "https://open.spotify.com/album/2qLz69eIC6A7GggjGvxEMp"
+      },
+      "artists": [
+        {
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+        }
+      ],
+      "duration_ms": 209426,
+      "name": "Take A Back Road",
+      "url": "https://open.spotify.com/track/7B6m8tHAYZsOKOKMU5SR2n"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "When The Sun Goes Down",
-        "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 243666,
-      "name": "I Go Back",
-      "url": "https://open.spotify.com/track/57I7CUbXo4XlWuTVB8pXW6"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Under My Skin",
         "url": "https://open.spotify.com/album/5NhqmLmAXBje7W8yfT5Z9j"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 178771,
       "name": "Under My Skin",
       "url": "https://open.spotify.com/track/3G3OwFCrkc86mMuLPOvgjc"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "When The Sun Goes Down",
+        "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 243666,
+      "name": "I Go Back",
+      "url": "https://open.spotify.com/track/57I7CUbXo4XlWuTVB8pXW6"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Beers And Sunshine",
-        "url": "https://open.spotify.com/album/1GZyb1fAcVAdxeZK16ozLR"
-      },
-      "artists": [
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 178278,
-      "name": "Beers And Sunshine",
-      "url": "https://open.spotify.com/track/36ISlLb12gKuCCVTYXC0gb"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Straight Outta The Country",
         "url": "https://open.spotify.com/album/1rW4SdSGRziYMzyteohUwP"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 174837,
       "name": "We Didn't Have Much",
       "url": "https://open.spotify.com/track/0Iuw6WPws324i7G7sCejTX"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Beers And Sunshine",
+        "url": "https://open.spotify.com/album/1GZyb1fAcVAdxeZK16ozLR"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 178278,
+      "name": "Beers And Sunshine",
+      "url": "https://open.spotify.com/track/36ISlLb12gKuCCVTYXC0gb"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -2287,6 +2287,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "With A Woman You Love",
+        "url": "https://open.spotify.com/album/1b6svBmo0eVcAIfhOSmf71"
+      },
+      "artists": [
+        {
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        }
+      ],
+      "duration_ms": 167375,
+      "name": "With A Woman You Love",
+      "url": "https://open.spotify.com/track/20WKHeDTmtU0Zj4sNB8aoA"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv"
       },
@@ -2299,22 +2315,6 @@
       "duration_ms": 206597,
       "name": "What If I Never Get Over You",
       "url": "https://open.spotify.com/track/0qkdE1C0ufnUISKwhg8Wh6"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Knockin' Boots",
-        "url": "https://open.spotify.com/album/4Q9RAjO1YjXgn5ErqvoNnS"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 199382,
-      "name": "Knockin' Boots",
-      "url": "https://open.spotify.com/track/6ERR6e7h6wCqGoz1TjiUJb"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -2339,6 +2339,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Knockin' Boots",
+        "url": "https://open.spotify.com/album/4Q9RAjO1YjXgn5ErqvoNnS"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 199382,
+      "name": "Knockin' Boots",
+      "url": "https://open.spotify.com/track/6ERR6e7h6wCqGoz1TjiUJb"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Unapologetically (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
@@ -2351,22 +2367,6 @@
       "duration_ms": 192840,
       "name": "Miss Me More",
       "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "With A Woman You Love",
-        "url": "https://open.spotify.com/album/1b6svBmo0eVcAIfhOSmf71"
-      },
-      "artists": [
-        {
-          "name": "Justin Moore",
-          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
-        }
-      ],
-      "duration_ms": 167375,
-      "name": "With A Woman You Love",
-      "url": "https://open.spotify.com/track/20WKHeDTmtU0Zj4sNB8aoA"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -2407,6 +2407,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Late Nights And Longnecks",
+        "url": "https://open.spotify.com/album/6k7PNoooJpFHVVd2ZE9t2K"
+      },
+      "artists": [
+        {
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        }
+      ],
+      "duration_ms": 211430,
+      "name": "Why We Drink",
+      "url": "https://open.spotify.com/track/4lSfhHd5Knwl8yQw2cVjAD"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Mercury Lane",
         "url": "https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts"
       },
@@ -2435,6 +2451,22 @@
       "duration_ms": 196440,
       "name": "Catch",
       "url": "https://open.spotify.com/track/53cGGBxGPaRjP0HVUESyW5"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Pretty Heart",
+        "url": "https://open.spotify.com/album/0S1UncFoVie2V0HKsf0G1u"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 244797,
+      "name": "Pretty Heart",
+      "url": "https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -2471,22 +2503,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Pretty Heart",
-        "url": "https://open.spotify.com/album/0S1UncFoVie2V0HKsf0G1u"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 244797,
-      "name": "Pretty Heart",
-      "url": "https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "If I Was a Cowboy",
         "url": "https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT"
       },
@@ -2499,26 +2515,6 @@
       "duration_ms": 195013,
       "name": "If I Was a Cowboy",
       "url": "https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/0s1A44tg1Y21SLHDylmugR"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        },
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        }
-      ],
-      "duration_ms": 171026,
-      "name": "Happy Anywhere (feat. Gwen Stefani)",
-      "url": "https://open.spotify.com/track/6LVzOLJkzG3C4hLNOdaBry"
     }
   ],
   "unique_name": "Country Drive",

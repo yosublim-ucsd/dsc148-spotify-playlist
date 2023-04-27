@@ -4,7 +4,7 @@
 
 > This is Scorpions\. The essential tracks, all in one playlist.
 
-69 songs - 5 hr 9 min
+70 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Follow Your Heart](https://open.spotify.com/track/1EJZQ6uhrvl4JtoKn7RKFd) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Follow Your Heart](https://open.spotify.com/album/5rfBRcpVDCAMKA58iLabeB) | 4:05 | 2022-09-17 |  |
 | [Gas In The Tank](https://open.spotify.com/track/4tmdn5RO21dIT95GwRSH7Z) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \(Deluxe\)](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 3:40 | 2022-09-17 |  |
 | [Hammersmith \- UK Bonus Track](https://open.spotify.com/track/6k9LUdX6Tf4ZY8xqb2cE1q) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Hammersmith \(UK Bonus Track\)](https://open.spotify.com/album/4iNZZ3NSc0FIlfJ9j88KdR) | 3:44 | 2022-09-17 | 2022-11-10 |
-| [Holiday \- 2015 Remaster](https://open.spotify.com/track/32DYxkf7ZLJrsm5JacvF3Y) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Lovedrive](https://open.spotify.com/album/1KWIRGaeCscnnFmZUfbYDj) | 6:31 | 2022-09-17 |  |
+| [Holiday](https://open.spotify.com/track/55493u4ooFK6fMCMFf99fa) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Lovedrive](https://open.spotify.com/album/7aIgGWlHdcPXOfONtXVliK) | 6:31 | 2023-04-26 |  |
+| [Holiday \- 2015 Remaster](https://open.spotify.com/track/32DYxkf7ZLJrsm5JacvF3Y) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Lovedrive](https://open.spotify.com/album/1KWIRGaeCscnnFmZUfbYDj) | 6:31 | 2022-09-17 | 2023-04-27 |
 | [Hot And Cold](https://open.spotify.com/track/2DxARJkZfLNNlXkmro2jIw) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \(Deluxe\)](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 4:12 | 2022-09-17 | 2022-10-13 |
 | [House of Cards](https://open.spotify.com/track/1MAYOJYnihOZr8fZuMv3HD) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Return to Forever](https://open.spotify.com/album/0RusB2gbtyrdcHEymyycdO) | 5:05 | 2022-09-17 |  |
 | [Humanity](https://open.spotify.com/track/1PbL8RWQlpPRIVAk8by05R) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Humanity \(Hour I\)](https://open.spotify.com/album/4a8dsVJekhZm9CRRVWLHuJ) | 5:26 | 2022-09-17 |  |
@@ -63,12 +64,12 @@
 | [The Good Die Young](https://open.spotify.com/track/2a29hcaZHQu1hQGeObMPuP) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Sting in the Tail](https://open.spotify.com/album/3n2WzsBMJtfoV1kYIQZOLj) | 5:14 | 2022-09-17 |  |
 | [The Language Of My Heart \- France Bonus Track](https://open.spotify.com/track/4anwYZI6i9l5xi8caRrbo3) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [The Language Of My Heart \(France Bonus Track\)](https://open.spotify.com/album/0Kmho2vdfbGmfJyyUesNoW) | 3:53 | 2022-09-17 |  |
 | [The Sails of Charon \- 2015 \- Remaster](https://open.spotify.com/track/0KmJAc7tRRI3hWM7A0Ejtk) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Taken by Force](https://open.spotify.com/album/4x60lguRLWOMppq1d5rwGK) | 5:11 | 2022-09-17 |  |
-| [The Zoo](https://open.spotify.com/track/0YpmF3aZXOIuyi8itZbpkp) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Animal Magnetism](https://open.spotify.com/album/0P074q35RL8oUOpKsHJd07) | 5:30 | 2022-09-17 |  |
+| [The Zoo](https://open.spotify.com/track/0YpmF3aZXOIuyi8itZbpkp) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Animal Magnetism](https://open.spotify.com/album/0P074q35RL8oUOpKsHJd07) | 5:30 | 2022-09-17 | 2023-04-27 |
 | [Under The Same Sun](https://open.spotify.com/track/0NHBt8bp6tloebOWV3U3fN) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Face The Heat](https://open.spotify.com/album/1SkW9MEOK2qqY8bWTAu2Q0) | 4:53 | 2022-09-17 |  |
 | [We Built This House](https://open.spotify.com/track/3A4IneIM1MdcmW0ZuV8ZYg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Return to Forever](https://open.spotify.com/album/0RusB2gbtyrdcHEymyycdO) | 3:53 | 2022-09-17 |  |
 | [We'll Burn the Sky \- 2015 \- Remaster](https://open.spotify.com/track/05aYS67B9WxWDA5ZWVkvCf) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Taken by Force](https://open.spotify.com/album/4x60lguRLWOMppq1d5rwGK) | 6:31 | 2022-09-17 |  |
 | [When I Lay My Bones To Rest](https://open.spotify.com/track/58hNqg1Odj9xm76jt4cjT4) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \(Deluxe\)](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 3:07 | 2022-09-21 | 2022-10-12 |
-| [When Love Kills Love \- Live](https://open.spotify.com/track/0AyyJowMxulbgEQpcn9xVK) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Acoustica](https://open.spotify.com/album/6VOsm3ABkYoOnJFHo4iG6q) | 4:53 | 2022-11-22 | 2023-04-24 |
+| [When Love Kills Love \- Live](https://open.spotify.com/track/0AyyJowMxulbgEQpcn9xVK) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Acoustica](https://open.spotify.com/album/6VOsm3ABkYoOnJFHo4iG6q) | 4:53 | 2022-11-22 |  |
 | [When the Smoke Is Going Down \- 2015 Remaster](https://open.spotify.com/track/5CdbSPuZdIKFm5e0TUDJD8) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/5FdpusvFzKwUmygqmgDzKG) | 3:51 | 2022-09-17 |  |
 | [When You Came into My Life \- Studio Edit](https://open.spotify.com/track/66kO1Sr99392GvDZWKdCiv) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [MTV Unplugged \(The Studio Edits\)](https://open.spotify.com/album/0qnfKJaZ29PXoBeMIuUkrb) | 3:30 | 2022-09-17 |  |
 | [When You Know \(Where You Come From\)](https://open.spotify.com/track/4cXLQrYdvNNRGg6fpCxWT2) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \(Deluxe\)](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 4:22 | 2022-09-17 |  |

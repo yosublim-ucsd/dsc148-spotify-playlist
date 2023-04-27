@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-06",
-  "description": "saturation, distortion, overdrive, feedBack. Cover: Riovaz",
+  "description": "saturation, distortion, overdrive, feedBack. Cover: ThxSoMch",
   "name": "feedBack",
   "tracks": [
     {
@@ -526,6 +526,24 @@
       "duration_ms": 165000,
       "name": "crash test dummy",
       "url": "https://open.spotify.com/track/2Ui0cq4BDOnjOFnFoLkiAj"
+    },
+    {
+      "album": {
+        "name": "Crumbled",
+        "url": "https://open.spotify.com/album/0WuxkTSMVZa1nWI7YaR6XS"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Crumbled",
+      "url": "https://open.spotify.com/track/3h4UYObZmzgrym6Gzw35iA"
     },
     {
       "album": {

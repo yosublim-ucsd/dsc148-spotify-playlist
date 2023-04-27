@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: JP THE WAVY\)
 
-1,186 songs - 2 day 12 hr 31 min
+1,187 songs - 2 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1005,7 +1005,8 @@
 | [TALK TO ME NICE \(feat\. PARTYNEXTDOOR & G\. Ry\)](https://open.spotify.com/track/61Vyop57eG1IhsKsBki7MT) | [Amir Obe](https://open.spotify.com/artist/6AWdGez5g1jxpfl9XD4wI3), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [G\. Ry](https://open.spotify.com/artist/2bAh3Pjl6JusfLvENVHu29) | [before.](https://open.spotify.com/album/3tWWzZK7i0lK6v0R6y6G7e) | 4:42 | 2023-04-14 |  |
 | [TALK'N THAT SHIT!](https://open.spotify.com/track/6jXyW5q3GQHW6aCZJkToo8) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [TALK’N THAT SHIT!](https://open.spotify.com/album/73OBJFFeKKkmzfMdhhJSSy) | 2:48 | 2022-10-27 | 2022-12-10 |
 | [Tamagotchi](https://open.spotify.com/track/2avRIlZPDXdDOdPIgCcKq3) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Tamagotchi](https://open.spotify.com/album/0MM5hDVs7QreQVGTi1hkJd) | 2:48 | 2022-03-24 | 2022-04-08 |
-| [Tanisha \(Pump That\)](https://open.spotify.com/track/5ckaFWaVWVfIcPFYfofmzH) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Tanisha \(Pump That\)](https://open.spotify.com/album/6GqEIfRc7ACkLQ2SGGqxFb) | 2:46 | 2023-03-10 |  |
+| [Tanisha \(Pump That\)](https://open.spotify.com/track/0eeeK1ar71WxdsTKydG9yz) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 2:46 | 2023-04-20 |  |
+| [Tanisha \(Pump That\)](https://open.spotify.com/track/5ckaFWaVWVfIcPFYfofmzH) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Tanisha \(Pump That\)](https://open.spotify.com/album/6GqEIfRc7ACkLQ2SGGqxFb) | 2:46 | 2023-03-10 | 2023-04-27 |
 | [Tell Me Bout It](https://open.spotify.com/track/075xUauQM35Gy05rKlcR4t) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Tell Me Bout It](https://open.spotify.com/album/41xZE41ET9KyHg6sVT849o) | 2:55 | 2022-07-21 | 2022-07-31 |
 | [Tell Me Bout It](https://open.spotify.com/track/6AdAJuFBH2ajKzSuHtJSvS) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Blinded By Death](https://open.spotify.com/album/3Un78pExYVA9yCeDEKVhu3) | 2:56 | 2022-07-28 | 2022-08-26 |
 | [Tell Me Bout It](https://open.spotify.com/track/6xPoAC5B0aYJnmvVKm0L9P) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Tell Me Bout It](https://open.spotify.com/album/7MtKcyfzFBWMHqlWDm4Q2W) | 2:56 | 2022-07-28 | 2022-08-02 |

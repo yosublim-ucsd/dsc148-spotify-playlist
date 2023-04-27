@@ -4,7 +4,7 @@
 
 > Apasiónate y revive los temas de tus historias predilectas\. Foto: Thalía
 
-134 songs - 8 hr 22 min
+135 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Algo Más](https://open.spotify.com/track/3bJBWsVNUJ3hOIO6lQUKCj) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh) | [Flores De Alquiler](https://open.spotify.com/album/2IdCNfB4mJGsGCzGt6FnHs) | 4:29 | 2022-05-06 | 2022-07-29 |
 | [Alma Rebelde \- En Vivo Desde El Foro Sol De La Ciudad De Mexico D.F\. / 1999](https://open.spotify.com/track/0VSeztdFBLaAzu8V1WQUPl) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [Limite En Concierto](https://open.spotify.com/album/16ARMdxuzXGNRviPVo5TRq) | 4:22 | 2022-05-06 | 2022-07-09 |
 | [Alucinado](https://open.spotify.com/track/3gKm2TjAkLUNpJC1WKOzjX) | [Yahir](https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ) | [Yahir](https://open.spotify.com/album/744vGdkALQFC1WoKzSm9G6) | 5:04 | 2022-05-06 |  |
-| [Amantes Prohibidos](https://open.spotify.com/track/21WYyyjovbDtf8Sa2DSdfZ) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Amantes Prohibidos](https://open.spotify.com/album/7KGRiWQIcO3aUqY5NowYK6) | 3:27 | 2022-05-06 |  |
+| [Amantes Prohibidos](https://open.spotify.com/track/21WYyyjovbDtf8Sa2DSdfZ) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Amantes Prohibidos](https://open.spotify.com/album/7KGRiWQIcO3aUqY5NowYK6) | 3:27 | 2022-05-06 | 2023-04-27 |
 | [Amigas Y Rivales](https://open.spotify.com/track/1mHZ5jlGZB4ex744bySpsy) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [40 Artistas Y Sus Super Exitos](https://open.spotify.com/album/48YrXoiocv5jaLEcJ8VMOv) | 4:13 | 2022-05-06 | 2022-06-22 |
 | [Amor \(Amor, amor, amor\)](https://open.spotify.com/track/1k4GYtmW7edpJ9uhQmzO66) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mis Romances](https://open.spotify.com/album/0hAqX9l2oj2RQAHLWrilLv) | 3:42 | 2022-05-06 |  |
 | [Amor En Silencio](https://open.spotify.com/track/3CGJHQNEhsAV7AbYSaxU63) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Castillos De Cristal](https://open.spotify.com/album/1pf6pJVfH0FZZtphKRqQMP) | 3:38 | 2022-05-06 | 2022-07-29 |
@@ -91,6 +91,7 @@
 | [Nada Personal](https://open.spotify.com/track/3XtPN9Var7rerjAzLsCAHt) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT), [Lisset](https://open.spotify.com/artist/3Nhah9QnvO4zqIsuQ1H6aW) | [Te Amo Tv \- Exitos Originales de las Telenovelas](https://open.spotify.com/album/2RagZoyWYlwFcLJSp4VPFG) | 3:11 | 2022-05-06 |  |
 | [Nada Personal](https://open.spotify.com/track/4CnhWF4Ke4GIZ7srXEowFY) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT), [Lizzet](https://open.spotify.com/artist/0vsXNfoBts93yyxZHKVSfh) | [Gracias Manzanero](https://open.spotify.com/album/0RwJTXCaAr5FinQqcUyy2D) | 3:08 | 2022-05-06 | 2022-07-29 |
 | [Niña Amada Mía](https://open.spotify.com/track/7AKMsgK6JGV4KEA4n6Bh1k) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Niña Amada Mia](https://open.spotify.com/album/2GCLOzEBbVYcFCCHbh7pCu) | 3:12 | 2022-05-06 | 2022-07-29 |
+| [Niña Amada Mía](https://open.spotify.com/track/7D9vpiy6FdXDx53fP1ioD7) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Niña Amada Mia](https://open.spotify.com/album/3TVNw5Xt1czL5ZnQ9A5kzM) | 3:12 | 2022-05-06 |  |
 | [Nunca Te Olvidaré](https://open.spotify.com/track/0UjtkXe54YuY5SMwXYjkvq) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Cosas Del Amor](https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB) | 4:24 | 2022-05-06 |  |
 | [Nunca Te Olvidaré](https://open.spotify.com/track/6ZBXuJ1pc7QkhzMXls2IBG) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [UNO \(95/08\)](https://open.spotify.com/album/16ctR2p8ueFCyVQ1aavV8w) | 4:23 | 2022-05-06 | 2022-07-29 |
 | [O Jogo da Vida \(El Juego de la Vida\)](https://open.spotify.com/track/3vC44gaWSTXji66ICZv3gL) | [Twister](https://open.spotify.com/artist/0rgjTxgTv3INtinidgoKk9) | [Mochila e Guitarra No Avião](https://open.spotify.com/album/35dKd72sNzqNzJRIt9yBmw) | 3:54 | 2022-05-06 | 2022-07-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 
 > Songs from Canadian artists that dominated the 1990s\. Cover: LEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,588 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,601 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 26 | [Love Song](https://open.spotify.com/track/2l0Ef5m29J2fNOS5Ydkg8s) | [Sky](https://open.spotify.com/artist/5synmfYnU6t9Lw1ZiN3ZTT) | [Piece Of Paradise](https://open.spotify.com/album/060HunSfIEfWvy1bnYn4Fu) | 3:36 |
 | 27 | [Numb](https://open.spotify.com/track/7eH1GkchdFvNN4ZUx767G3) | [Holly McNarland](https://open.spotify.com/artist/26YoEndupBcezyzcSmbcw2) | [Stuff](https://open.spotify.com/album/2pLU6e4KE2773H1OjOfRZ9) | 3:57 |
 | 28 | [Remote Control](https://open.spotify.com/track/7zPRpUujRke7mpt61KIC5U) | [The Age Of Electric](https://open.spotify.com/artist/4TOnIr0jbHHfFJEP9cbTlR) | [Make a Pest a Pet](https://open.spotify.com/album/47wRkLjmX69P80q7adpxjs) | 3:39 |
-| 29 | [Song Instead of a Kiss](https://open.spotify.com/track/3vLC0USKtOIxMnQfnjb3rt) | [Alannah Myles](https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj) | [Rockinghorse](https://open.spotify.com/album/0mZ1ie97Erajm6EWYvOeIO) | 5:03 |
-| 30 | [When You're Gone](https://open.spotify.com/track/0mto4XYo8GISKnDxlLdK2a) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [On A Day Like Today](https://open.spotify.com/album/5x3Ws76JQN6elCUAOfVVlT) | 3:24 |
+| 29 | [When You're Gone](https://open.spotify.com/track/0mto4XYo8GISKnDxlLdK2a) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [On A Day Like Today](https://open.spotify.com/album/5x3Ws76JQN6elCUAOfVVlT) | 3:24 |
+| 30 | [Song Instead of a Kiss](https://open.spotify.com/track/3vLC0USKtOIxMnQfnjb3rt) | [Alannah Myles](https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj) | [Rockinghorse](https://open.spotify.com/album/0mZ1ie97Erajm6EWYvOeIO) | 5:03 |
 | 31 | [One More Astronaut](https://open.spotify.com/track/3l20bPHgAFsFPRogdTNXWS) | [I Mother Earth](https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM) | [Drive Fast, Rock Hard](https://open.spotify.com/album/1q8qvlZHzXmrcG1LmdxvlL) | 5:24 |
 | 32 | [Out of My Head](https://open.spotify.com/track/1hdrmUDjFHPYigKYwf6aJC) | [Junkhouse](https://open.spotify.com/artist/7HTWYaZzuODnDc5dJN4EM3) | [Strays](https://open.spotify.com/album/7BKDjfyOFnHDbhguK5GZBO) | 3:47 |
 | 33 | [Midnight Rain](https://open.spotify.com/track/5ciTMaXkcznCe2fDgrrZVI) | [Wide Mouth Mason](https://open.spotify.com/artist/6CcCAJi97tqh5OFAwy1THH) | [Wide Mouth Mason](https://open.spotify.com/album/2MrXw9z9ljPjJwernD0w3E) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 49 | [O Siem](https://open.spotify.com/track/6aaboHhmMjU9ZrwiFs5UJZ) | [Susan Aglukark](https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C) | [This Child](https://open.spotify.com/album/6mP4rzVXInlSTP45xzzEXU) | 4:27 |
 | 50 | [My Definition Of A Boombastic Jazz Style \- Radio Mix](https://open.spotify.com/track/75Cz7AVd6T3PHSnLoqWhh9) | [Dream Warriors](https://open.spotify.com/artist/4FrJKQblIjEyw8rbqYHNpU) | [Black History Month: Funk + Hip\-Hop](https://open.spotify.com/album/0kBDIcvYaIeUrMq8JtkHV2) | 3:38 |
 
-Snapshot ID: `MTYzMjI1Nzg3MCwwMDAwMDAwMDc3NjM2NjZiZTYyYmFhOTI5MjQ3NjM2OTVmYTcwZmE3`
+Snapshot ID: `MTYzMjI1Nzg3MCwwMDAwMDAwMDcxYWFmOTk4OTFlOWZjNDE0NmEwNGVjZDE1ZTMxOTcx`

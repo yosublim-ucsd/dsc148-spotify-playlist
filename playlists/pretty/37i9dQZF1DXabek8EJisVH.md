@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabek8EJisVH.md) - [plain]
 
 > Soothing ambient and Hang to gently focus the mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,495 likes - 85 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,573 likes - 85 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

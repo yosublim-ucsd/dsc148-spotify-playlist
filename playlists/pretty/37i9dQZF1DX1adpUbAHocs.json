@@ -1,12 +1,12 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 661125,
+  "num_followers": 661147,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAxNzU0MywwMDAwMDAwMGNjODdhZTY1YzEwZmI3YWMxNmJmZGM1MTQ5NDc5Y2Zi",
+  "snapshot_id": "MTY4MjAxNzU0MywwMDAwMDAwMDYzZDhmNDRiMzc2YzIyZmE1NjU5MTI5MGI0MmE3NWE2",
   "tracks": [
     {
       "added_at": "2023-04-20 19:05:43",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-04-20 19:05:43",
       "album": {
-        "name": "Mermaid Avenue",
-        "url": "https://open.spotify.com/album/0yTmT1i6yHb5EVyJOmIwGw"
-      },
-      "artists": [
-        {
-          "name": "Billy Bragg",
-          "url": "https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO"
-        },
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 298533,
-      "name": "California Stars",
-      "url": "https://open.spotify.com/track/38paDDziQ57k1f4VfKTeGk"
-    },
-    {
-      "added_at": "2023-04-20 19:05:43",
-      "album": {
         "name": "songs",
         "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
       },
@@ -787,22 +767,6 @@
     {
       "added_at": "2023-04-20 19:05:43",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 270892,
-      "name": "Salt And The Sea",
-      "url": "https://open.spotify.com/track/5EKqsMU2tn1iAYNQF8h0ll"
-    },
-    {
-      "added_at": "2023-04-20 19:05:43",
-      "album": {
         "name": "A Deeper Understanding",
         "url": "https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF"
       },
@@ -815,6 +779,22 @@
       "duration_ms": 330760,
       "name": "Pain",
       "url": "https://open.spotify.com/track/59P1nrdEImkAKa1nyW9X2e"
+    },
+    {
+      "added_at": "2023-04-20 19:05:43",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 270892,
+      "name": "Salt And The Sea",
+      "url": "https://open.spotify.com/track/5EKqsMU2tn1iAYNQF8h0ll"
     },
     {
       "added_at": "2023-04-20 19:05:43",
@@ -923,22 +903,6 @@
     {
       "added_at": "2023-04-20 19:05:43",
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 288120,
-      "name": "Wildflowers & Wine",
-      "url": "https://open.spotify.com/track/1l8TpQdbsiQvMB9SuPsaiv"
-    },
-    {
-      "added_at": "2023-04-20 19:05:43",
-      "album": {
         "name": "Rearrange Us",
         "url": "https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9"
       },
@@ -951,6 +915,22 @@
       "duration_ms": 234600,
       "name": "Witness",
       "url": "https://open.spotify.com/track/56GEhx9XahoD6sxkJwczod"
+    },
+    {
+      "added_at": "2023-04-20 19:05:43",
+      "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 288120,
+      "name": "Wildflowers & Wine",
+      "url": "https://open.spotify.com/track/1l8TpQdbsiQvMB9SuPsaiv"
     },
     {
       "added_at": "2023-04-20 19:05:43",
@@ -1035,22 +1015,6 @@
     {
       "added_at": "2023-04-20 19:05:43",
       "album": {
-        "name": "Not Dead Yet",
-        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 177366,
-      "name": "Not Dead Yet",
-      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
-    },
-    {
-      "added_at": "2023-04-20 19:05:43",
-      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -1087,6 +1051,22 @@
     {
       "added_at": "2023-04-20 19:05:43",
       "album": {
+        "name": "Not Dead Yet",
+        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 177366,
+      "name": "Not Dead Yet",
+      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
+    },
+    {
+      "added_at": "2023-04-20 19:05:43",
+      "album": {
         "name": "Lost At Last Vol. 1",
         "url": "https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd"
       },
@@ -1119,22 +1099,6 @@
     {
       "added_at": "2023-04-20 19:05:43",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6Wpawdx7fSuBAKY0t793fx"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 463653,
-      "name": "Away From The Mire",
-      "url": "https://open.spotify.com/track/6oPDKGwBri4OLQX5IYu02T"
-    },
-    {
-      "added_at": "2023-04-20 19:05:43",
-      "album": {
         "name": "I Need to Start a Garden",
         "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
       },
@@ -1151,6 +1115,22 @@
     {
       "added_at": "2023-04-20 19:05:43",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6Wpawdx7fSuBAKY0t793fx"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 463653,
+      "name": "Away From The Mire",
+      "url": "https://open.spotify.com/track/6oPDKGwBri4OLQX5IYu02T"
+    },
+    {
+      "added_at": "2023-04-20 19:05:43",
+      "album": {
         "name": "I Can't Let Go",
         "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
       },
@@ -1163,6 +1143,22 @@
       "duration_ms": 212142,
       "name": "Devil I Know",
       "url": "https://open.spotify.com/track/6R0v4lA69KxsAUYDskYwgs"
+    },
+    {
+      "added_at": "2023-04-20 19:05:43",
+      "album": {
+        "name": "Seasons of Change",
+        "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 162106,
+      "name": "Grow into Love",
+      "url": "https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n"
     },
     {
       "added_at": "2023-04-20 19:05:43",
@@ -1187,22 +1183,6 @@
       "duration_ms": 216786,
       "name": "Dylan Thomas",
       "url": "https://open.spotify.com/track/1AEiKr56njftNDp67QCnHH"
-    },
-    {
-      "added_at": "2023-04-20 19:05:43",
-      "album": {
-        "name": "Seasons of Change",
-        "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 162106,
-      "name": "Grow into Love",
-      "url": "https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n"
     },
     {
       "added_at": "2023-04-20 19:05:43",
@@ -1459,6 +1439,22 @@
     {
       "added_at": "2023-04-20 19:05:43",
       "album": {
+        "name": "Reunions",
+        "url": "https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 224034,
+      "name": "Dreamsicle",
+      "url": "https://open.spotify.com/track/68wI8QNqMeIraj7Ix16hS3"
+    },
+    {
+      "added_at": "2023-04-20 19:05:43",
+      "album": {
         "name": "Who Are You Now",
         "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
@@ -1487,22 +1483,6 @@
       "duration_ms": 160600,
       "name": "Count On Me",
       "url": "https://open.spotify.com/track/5sA7NCo4bHH9stpolSymvz"
-    },
-    {
-      "added_at": "2023-04-20 19:05:43",
-      "album": {
-        "name": "Reunions",
-        "url": "https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 224034,
-      "name": "Dreamsicle",
-      "url": "https://open.spotify.com/track/68wI8QNqMeIraj7Ix16hS3"
     },
     {
       "added_at": "2023-04-20 19:05:43",
@@ -1679,6 +1659,22 @@
       "duration_ms": 196772,
       "name": "I Can't Make You Love Me - Spotify Singles",
       "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
+    },
+    {
+      "added_at": "2023-04-20 19:05:43",
+      "album": {
+        "name": "The Emitt Rhodes Recordings (1969-1973)",
+        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
+      },
+      "artists": [
+        {
+          "name": "Emitt Rhodes",
+          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
+        }
+      ],
+      "duration_ms": 146680,
+      "name": "Somebody Made For Me",
+      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
     }
   ],
   "unique_name": "Scenic Route",

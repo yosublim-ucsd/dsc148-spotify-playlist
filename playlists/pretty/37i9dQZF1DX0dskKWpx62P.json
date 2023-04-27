@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 29906,
+  "num_followers": 29936,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk4NTk1NywwMDAwMDAwMGE3NWNmMWI5NjJhZTBmYTBjZDRhN2U0YmUzZjc4NThk",
+  "snapshot_id": "MTY0Mzk4NTk1NywwMDAwMDAwMGZiOWE4NjMzOTg2N2MxOWUxN2JlZDJhNTI3OTIxYTBl",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "De Colores",
+        "url": "https://open.spotify.com/album/4qyO900qJRTiM3lPCeHg00"
+      },
+      "artists": [
+        {
+          "name": "Yawar",
+          "url": "https://open.spotify.com/artist/1uvxq0pWC1f55Yg9XmgLnW"
+        }
+      ],
+      "duration_ms": 254733,
+      "name": "Linda Warmisitay",
+      "url": "https://open.spotify.com/track/2HkdxoctBhDs3XWeHmUUm4"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "T\u00fa Puedes Volar",
         "url": "https://open.spotify.com/album/6Mfa1vsbXf1sIRg4GMtpXw"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 250533,
       "name": "Amor Verdadero",
       "url": "https://open.spotify.com/track/1CMgLNMnmOzQc1pbaVwctV"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "De Colores",
-        "url": "https://open.spotify.com/album/4qyO900qJRTiM3lPCeHg00"
-      },
-      "artists": [
-        {
-          "name": "Yawar",
-          "url": "https://open.spotify.com/artist/1uvxq0pWC1f55Yg9XmgLnW"
-        }
-      ],
-      "duration_ms": 254733,
-      "name": "Linda Warmisitay",
-      "url": "https://open.spotify.com/track/2HkdxoctBhDs3XWeHmUUm4"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -935,6 +935,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "Lejos de Ti",
+        "url": "https://open.spotify.com/album/2Jlb5DtMYxEaP5V2W3L6s7"
+      },
+      "artists": [
+        {
+          "name": "Pelo D'Ambrosio",
+          "url": "https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ"
+        }
+      ],
+      "duration_ms": 316586,
+      "name": "Juntito a Ti",
+      "url": "https://open.spotify.com/track/7nPN1YXRgC737Z5W0FM0G9"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "Ayacucho En El Corazon De Todos Vol.2",
         "url": "https://open.spotify.com/album/5J36nWq3TbIe8S9zvQaERi"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 167466,
       "name": "Sihuarsito",
       "url": "https://open.spotify.com/track/1SE8uvi7ORh3Q9qFR91yWN"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Lejos de Ti",
-        "url": "https://open.spotify.com/album/2Jlb5DtMYxEaP5V2W3L6s7"
-      },
-      "artists": [
-        {
-          "name": "Pelo D'Ambrosio",
-          "url": "https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ"
-        }
-      ],
-      "duration_ms": 316586,
-      "name": "Juntito a Ti",
-      "url": "https://open.spotify.com/track/7nPN1YXRgC737Z5W0FM0G9"
     }
   ],
   "unique_name": "Huaynos Cl\u00e1sicos",

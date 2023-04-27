@@ -1,12 +1,12 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Tyler Hubbard",
-  "num_followers": 127749,
+  "num_followers": 127932,
   "original_name": "Pop Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDk3MjkyZmJmZDZjMjZiYWU4YTRjNzhlMTlmYzdkMDNi",
+  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDg1YTk5Y2QwNjA1YTcwYzI2ZTJhMjI1NzIzM2U0YThi",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "The Otherside",
-        "url": "https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW"
+        "name": "Baby I Am",
+        "url": "https://open.spotify.com/album/5bg19JZRGPWA2ubmplCSt2"
       },
       "artists": [
         {
-          "name": "Cam",
-          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
+          "name": "Dalton Dover",
+          "url": "https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A"
         }
       ],
-      "duration_ms": 195515,
-      "name": "Till There's Nothing Left",
-      "url": "https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8"
+      "duration_ms": 176573,
+      "name": "Baby I Am",
+      "url": "https://open.spotify.com/track/3pD2qgImjXbfepb5mksDp3"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1159,34 +1159,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Keith",
-        "url": "https://open.spotify.com/album/7dWCUs7VGjsopOEB6VoQYv"
+        "name": "The Otherside",
+        "url": "https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW"
       },
       "artists": [
         {
-          "name": "Kaylee Bell",
-          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
         }
       ],
-      "duration_ms": 171537,
-      "name": "Keith",
-      "url": "https://open.spotify.com/track/7pcekwb2T8L4MIc29f9GXB"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Baby I Am",
-        "url": "https://open.spotify.com/album/5bg19JZRGPWA2ubmplCSt2"
-      },
-      "artists": [
-        {
-          "name": "Dalton Dover",
-          "url": "https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A"
-        }
-      ],
-      "duration_ms": 176573,
-      "name": "Baby I Am",
-      "url": "https://open.spotify.com/track/3pD2qgImjXbfepb5mksDp3"
+      "duration_ms": 195515,
+      "name": "Till There's Nothing Left",
+      "url": "https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1203,6 +1187,22 @@
       "duration_ms": 172280,
       "name": "Make Me Want To",
       "url": "https://open.spotify.com/track/0AYbVoeF03NYhM0fvKjAuU"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Keith",
+        "url": "https://open.spotify.com/album/7dWCUs7VGjsopOEB6VoQYv"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "duration_ms": 171537,
+      "name": "Keith",
+      "url": "https://open.spotify.com/track/7pcekwb2T8L4MIc29f9GXB"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Breakups",
-        "url": "https://open.spotify.com/album/59PZ1sBuiJjiLLL5qCvoua"
+        "name": "Western",
+        "url": "https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy"
       },
       "artists": [
         {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+          "name": "Spencer Crandall",
+          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
         }
       ],
-      "duration_ms": 223129,
-      "name": "Breakups",
-      "url": "https://open.spotify.com/track/77Bt2DXJE1R1qsnm4D10Ox"
+      "duration_ms": 195459,
+      "name": "Made",
+      "url": "https://open.spotify.com/track/2S9s6QYCdmSmXQDKpCtK6I"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Western",
-        "url": "https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy"
+        "name": "Breakups",
+        "url": "https://open.spotify.com/album/59PZ1sBuiJjiLLL5qCvoua"
       },
       "artists": [
         {
-          "name": "Spencer Crandall",
-          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
         }
       ],
-      "duration_ms": 195459,
-      "name": "Made",
-      "url": "https://open.spotify.com/track/2S9s6QYCdmSmXQDKpCtK6I"
+      "duration_ms": 223129,
+      "name": "Breakups",
+      "url": "https://open.spotify.com/track/77Bt2DXJE1R1qsnm4D10Ox"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Good Beer",
-        "url": "https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q"
-      },
-      "artists": [
-        {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
-        },
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 174111,
-      "name": "Good Beer",
-      "url": "https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Sunday Drive",
         "url": "https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 220892,
       "name": "Nightfalls",
       "url": "https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Good Beer",
+        "url": "https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q"
+      },
+      "artists": [
+        {
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+        },
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 174111,
+      "name": "Good Beer",
+      "url": "https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "I Can't Take You Anywhere",
-        "url": "https://open.spotify.com/album/2p63vg635NT4kQN3amdxRR"
-      },
-      "artists": [
-        {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
-        }
-      ],
-      "duration_ms": 211850,
-      "name": "I Can't Take You Anywhere",
-      "url": "https://open.spotify.com/track/6qy96hXke3U5vSxZe5klYp"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Praise The Lord (feat. Thomas Rhett)",
         "url": "https://open.spotify.com/album/19IBYeeXLti2wekxA8913l"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 160289,
       "name": "Praise The Lord (feat. Thomas Rhett)",
       "url": "https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "I Can't Take You Anywhere",
+        "url": "https://open.spotify.com/album/2p63vg635NT4kQN3amdxRR"
+      },
+      "artists": [
+        {
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+        }
+      ],
+      "duration_ms": 211850,
+      "name": "I Can't Take You Anywhere",
+      "url": "https://open.spotify.com/track/6qy96hXke3U5vSxZe5klYp"
     },
     {
       "added_at": "2023-04-21 04:00:00",

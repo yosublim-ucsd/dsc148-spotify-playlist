@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Aly & AJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,457 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,581 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,31 +68,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 58 | [Waves](https://open.spotify.com/track/5luLMIQajTbWm2Zz4EsO9D) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Waves](https://open.spotify.com/album/5ZO7Yhx5k8r4513DjUb0GO) | 2:16 |
 | 59 | [Yellow Paper Daisy](https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Yellow Paper Daisy](https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH) | 3:19 |
 | 60 | [The Worth Of The Wait](https://open.spotify.com/track/4ngv7whSPSAwD8ZP3zMHsd) | [Ivan & Alyosha](https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh) | [The Worth Of The Wait](https://open.spotify.com/album/0jNqBHYpxtWq8CfHQxA7Rd) | 2:51 |
-| 61 | [Call You in the Morning](https://open.spotify.com/track/6pmtIWAw69AvKnajOPGVtz) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Call You in the Morning](https://open.spotify.com/album/3IO0Epg4XkvOaES3dfTCXB) | 2:12 |
-| 62 | [I Keep Ticking On](https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Pretty Picture, Dirty Brush](https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj) | 2:36 |
-| 63 | [This Could Be Good](https://open.spotify.com/track/7d2ytNiHGDf32YwZOU6RnZ) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [I've Got a Song](https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7) | 3:00 |
+| 61 | [I Keep Ticking On](https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Pretty Picture, Dirty Brush](https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj) | 2:36 |
+| 62 | [This Could Be Good](https://open.spotify.com/track/7d2ytNiHGDf32YwZOU6RnZ) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [I've Got a Song](https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7) | 3:00 |
+| 63 | [Call You in the Morning](https://open.spotify.com/track/6pmtIWAw69AvKnajOPGVtz) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Call You in the Morning](https://open.spotify.com/album/3IO0Epg4XkvOaES3dfTCXB) | 2:12 |
 | 64 | [Wintergreen](https://open.spotify.com/track/7EL9YtzL4qYOcxYlf4mbVi) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Yours to Break](https://open.spotify.com/album/2zXp7huP6HGVldywEC6arL) | 3:31 |
 | 65 | [Keeps Me Coming Back](https://open.spotify.com/track/2oUOH2tCU4kKpooynVfS36) | [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [Goin' Back](https://open.spotify.com/album/7v4UurEtaSYhz08qrumP7g) | 2:49 |
 | 66 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 |
-| 67 | [Better Together](https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Better Together](https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g) | 2:58 |
-| 68 | [See the World](https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK) | 4:17 |
+| 67 | [See the World](https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK) | 4:17 |
+| 68 | [Better Together](https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Better Together](https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g) | 2:58 |
 | 69 | [Amadeus](https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S) | [Family and Friends](https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe) | [XOXO](https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf) | 3:27 |
 | 70 | [In This Life](https://open.spotify.com/track/38wSbAmV7zNBhYqfzv1m9x) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [We Still Move on Dance Floors](https://open.spotify.com/album/1sFCdkWltYD4dqN8JxL6tI) | 2:43 |
 | 71 | [Horse to Water](https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 4:04 |
 | 72 | [Better Days](https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Better Days](https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk) | 3:21 |
 | 73 | [Waterfall](https://open.spotify.com/track/65g1gHMTYxsYWdN4QGyNLE) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [I've Got a Song](https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7) | 3:32 |
 | 74 | [Time](https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Wildflower](https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo) | 3:37 |
-| 75 | [Into The Mystery](https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Into The Mystery](https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF) | 3:54 |
-| 76 | [First Place](https://open.spotify.com/track/2nVmUsEIdqVYQG0BTzPdk4) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Powerlines](https://open.spotify.com/album/3fA793BjWaUIqwknayn2OX) | 3:16 |
+| 75 | [First Place](https://open.spotify.com/track/2nVmUsEIdqVYQG0BTzPdk4) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Powerlines](https://open.spotify.com/album/3fA793BjWaUIqwknayn2OX) | 3:16 |
+| 76 | [Friends With Benefits](https://open.spotify.com/track/2WbwjvE4L7WTsPhDwET5Ui) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [Friends With Benefits](https://open.spotify.com/album/68f7El7waXgxTTn6zlFsNV) | 2:50 |
 | 77 | [Back to You](https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde) | [Twin Forks](https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD) | [Twin Forks](https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ) | 2:50 |
-| 78 | [All Day Long](https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [All Day Long](https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z) | 2:49 |
-| 79 | [Friends With Benefits](https://open.spotify.com/track/2WbwjvE4L7WTsPhDwET5Ui) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [Friends With Benefits](https://open.spotify.com/album/68f7El7waXgxTTn6zlFsNV) | 2:50 |
+| 78 | [Into The Mystery](https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Into The Mystery](https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF) | 3:54 |
+| 79 | [All Day Long](https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [All Day Long](https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z) | 2:49 |
 | 80 | [I Don't Really Care for You](https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I'd Be Dead \(Deluxe\)](https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh) | 4:04 |
-| 81 | [If I Didn’t Love You](https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [If I Didn’t Love You](https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG) | 4:06 |
+| 81 | [I Know the Way Home](https://open.spotify.com/track/7mZedsGVcUJOl6hSy17ykh) | [Andrew Galucki](https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP) | [I Know the Way Home](https://open.spotify.com/album/028PxoVXaGF8zlD3wxfraR) | 3:21 |
 | 82 | [Part of Me](https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Part of Me](https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4) | 3:57 |
-| 83 | [I Know the Way Home](https://open.spotify.com/track/7mZedsGVcUJOl6hSy17ykh) | [Andrew Galucki](https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP) | [I Know the Way Home](https://open.spotify.com/album/028PxoVXaGF8zlD3wxfraR) | 3:21 |
-| 84 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
-| 85 | [Valentina](https://open.spotify.com/track/0TD0ydYJuFPEaqshquDEpw) | [The Hunts](https://open.spotify.com/artist/1fFdRZK1GDGXL7vRxxUWLH) | [Those Younger Days](https://open.spotify.com/album/0onnJgma2xAAFMYr3lUZbs) | 3:50 |
+| 83 | [If I Didn’t Love You](https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [If I Didn’t Love You](https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG) | 4:06 |
+| 84 | [Valentina](https://open.spotify.com/track/0TD0ydYJuFPEaqshquDEpw) | [The Hunts](https://open.spotify.com/artist/1fFdRZK1GDGXL7vRxxUWLH) | [Those Younger Days](https://open.spotify.com/album/0onnJgma2xAAFMYr3lUZbs) | 3:50 |
+| 85 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
 | 86 | [Coffee](https://open.spotify.com/track/6Pxyb7fZ6uksEd5XnjQvHZ) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l), [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Coffee](https://open.spotify.com/album/4WW1X6S0bh1A17DiwQ4daj) | 3:05 |
 | 87 | [Making Do](https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Making Do](https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC) | 3:34 |
 | 88 | [Do Right](https://open.spotify.com/track/1Ab2FPSnr5C7PkndTMHdP6) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Do Right](https://open.spotify.com/album/3SwuKpDI0Xolzm5exsHkeP) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 99 | [On My Way](https://open.spotify.com/track/7tvdONFIPzFajuWX0TrlIQ) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [On My Way](https://open.spotify.com/album/3tXjujDP2dEsfKSnVSlnB8) | 3:31 |
 | 100 | [When We Were Young](https://open.spotify.com/track/5OxWNIpnedq0bhdUhmNrJT) | [Falls](https://open.spotify.com/artist/0SP0jz4htYhpiCuNEvKr0l) | [Omaha](https://open.spotify.com/album/7BfVNstl3oipb2ZGWyKQxH) | 3:18 |
 
-Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDdhMWY2N2NkZTczZGI2ZTI4MzRjMWE3OGMyMDJlZWUz`
+Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDQ2ZjYyYjkzMjI0OWZjOTcwZTVjNGYyMTAzODA0OWZk`

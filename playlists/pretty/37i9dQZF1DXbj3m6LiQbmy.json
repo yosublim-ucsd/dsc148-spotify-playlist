@@ -1,12 +1,12 @@
 {
   "description": "Free to be! Musica dalla comunit\u00e0 LGBQTIA+ e dai suoi alleati. Ethan in cover! <a href=\"spotify:playlist:37i9dQZF1DX3LyU0mhfqgP\">Qua la playlist global</a> \u2728 ",
-  "num_followers": 5385,
+  "num_followers": 5387,
   "original_name": "GLOW Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTI4OTEyNSwwMDAwMDAwMGZkODVmYmIwYmNlZTlkNDMwZjA3ZDI3NzZjODAxOTY5",
+  "snapshot_id": "MTY4MTI4OTEyNSwwMDAwMDAwMGU2OGQ1MmVkNGZlYjUwMDQ2ZTc4ODIxNWVlNjNiMjE2",
   "tracks": [
     {
       "added_at": "2023-04-12 08:45:25",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-04-12 08:45:25",
       "album": {
+        "name": "FOREVER SPEEDING THROUGH DARKNESS",
+        "url": "https://open.spotify.com/album/3NExizUBa6zdL1pMFZqnKO"
+      },
+      "artists": [
+        {
+          "name": "European Vampire",
+          "url": "https://open.spotify.com/artist/34jhkGXXN6BTviKzLoQXaS"
+        }
+      ],
+      "duration_ms": 231774,
+      "name": "LANCIA DELTA INTEGRALE",
+      "url": "https://open.spotify.com/track/2OVzSn3M49qQowsrZ9pTeI"
+    },
+    {
+      "added_at": "2023-04-12 08:45:25",
+      "album": {
         "name": "Next Big Thing",
         "url": "https://open.spotify.com/album/0TeCxhwt1zggy58jurdvMA"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 150834,
       "name": "Mami Daddy",
       "url": "https://open.spotify.com/track/5VHcNSkMpkjiw245BovVm2"
-    },
-    {
-      "added_at": "2023-04-12 08:45:25",
-      "album": {
-        "name": "FOREVER SPEEDING THROUGH DARKNESS",
-        "url": "https://open.spotify.com/album/3NExizUBa6zdL1pMFZqnKO"
-      },
-      "artists": [
-        {
-          "name": "European Vampire",
-          "url": "https://open.spotify.com/artist/34jhkGXXN6BTviKzLoQXaS"
-        }
-      ],
-      "duration_ms": 231774,
-      "name": "LANCIA DELTA INTEGRALE",
-      "url": "https://open.spotify.com/track/2OVzSn3M49qQowsrZ9pTeI"
     }
   ],
   "unique_name": "GLOW Italia",

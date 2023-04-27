@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 
 > Rock y rumba para esos días de sol, sangría y amigxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,532 likes - 90 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,610 likes - 90 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 55 | [Sevilla Tiene un Color Especial](https://open.spotify.com/track/1x8tjll0oP07qkZWVtm8ap) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Alegria Y Cosabuena](https://open.spotify.com/album/1Q9ij11CdNvogM0IPG1KNc) | 3:47 |
 | 56 | [La Lola](https://open.spotify.com/track/0VnAETWOc4BCr4YbzfI7zH) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [La Extraordinaria Paradoja Del Sonido Quijano](https://open.spotify.com/album/6UEfKdBxC0Zf9EIbGvK5QY) | 3:17 |
 | 57 | [Kalikeno \- Rumba](https://open.spotify.com/track/4LxFbjtxUtV1h6DNIqRBIK) | [Ketama](https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF) | [Y Es Ke Me Han Kambiao Los Tiempos](https://open.spotify.com/album/6I7EVvaptXn9Nwjy80jacV) | 4:31 |
-| 58 | [Romeo y Julieta](https://open.spotify.com/track/7BQo49Dyko57AIFaHMcAi2) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Un metro cuadrado](https://open.spotify.com/album/6lMkdFlIH1dGxDVvUjNPqK) | 4:13 |
-| 59 | [En la Casa de Inés](https://open.spotify.com/track/5nenV4D7Yw2efQxItXOasH) | [Guaraná](https://open.spotify.com/artist/14xTevnO8kfFWuP8pXiykn) | [El Efecto Guaraná](https://open.spotify.com/album/52cIF30phEVuaLCrsrWMZR) | 4:01 |
+| 58 | [En la Casa de Inés](https://open.spotify.com/track/5nenV4D7Yw2efQxItXOasH) | [Guaraná](https://open.spotify.com/artist/14xTevnO8kfFWuP8pXiykn) | [El Efecto Guaraná](https://open.spotify.com/album/52cIF30phEVuaLCrsrWMZR) | 4:01 |
+| 59 | [Romeo y Julieta](https://open.spotify.com/track/7BQo49Dyko57AIFaHMcAi2) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Un metro cuadrado](https://open.spotify.com/album/6lMkdFlIH1dGxDVvUjNPqK) | 4:13 |
 | 60 | [No puedo vivir sin ti \- Versión Acustica](https://open.spotify.com/track/0XUbxCMfZVWqCudk047CaQ) | [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [La hora de los gigantes](https://open.spotify.com/album/6U0fTUroL70nySX5heirW8) | 3:44 |
 | 61 | [Echo De Menos](https://open.spotify.com/track/5F9NOb35E8wWEFY79Dv4vE) | [Kiko Veneno](https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP) | [Puro Veneno](https://open.spotify.com/album/65S9zOtZi43kFdHB8y91vY) | 4:00 |
 | 62 | [Que yo no lo sabía \(feat\. Antonio Vega\)](https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw) | [Elefantes](https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn), [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Gracias](https://open.spotify.com/album/0rU0glgG267Tm44RkfJawd) | 3:51 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 69 | [Ojalá no te hubiera conocido nunca \(feat\. Muchachito Bombo Infierno\)](https://open.spotify.com/track/3xsPBE62YoXqXdPZwF918R) | [No Me Pises Que Llevo Chanclas](https://open.spotify.com/artist/3ixCNjKCjaRIRP7LOy5GTk), [Muchachito Bombo Infierno](https://open.spotify.com/artist/6529KpSlnP8S0kXhx7ayBb) | [25 años de agropop](https://open.spotify.com/album/7cRpRaqiri5rQWGG1JtOnS) | 4:02 |
 | 70 | [Vivir \(with Estopa\)](https://open.spotify.com/track/7BHiGNHqbH89W8ftWrI3tc) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Cerrando Puntos Suspensivos](https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr) | 2:49 |
 | 71 | [Noche En Vela](https://open.spotify.com/track/3PvcPcIj8lh53Zb0FwstTm) | [Guaraná](https://open.spotify.com/artist/14xTevnO8kfFWuP8pXiykn) | [Noche En Vela](https://open.spotify.com/album/0okEU4q3SOHt7DBLEht0EB) | 3:46 |
-| 72 | [Aguardiente](https://open.spotify.com/track/6CpBRucGBV8c2ztigPg6C4) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Con la Fiesta a Cuestas](https://open.spotify.com/album/3hQfz8GVtX9q71VAIm7kmR) | 3:16 |
-| 73 | [Acuarela](https://open.spotify.com/track/4jIThvkGu7fN4FDSW6LRSk) | [Seguridad Social](https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B) | [En La Boca Del Volcan](https://open.spotify.com/album/0xzfHtl3jhxX1sDIKx7PSO) | 4:14 |
+| 72 | [Acuarela](https://open.spotify.com/track/4jIThvkGu7fN4FDSW6LRSk) | [Seguridad Social](https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B) | [En La Boca Del Volcan](https://open.spotify.com/album/0xzfHtl3jhxX1sDIKx7PSO) | 4:14 |
+| 73 | [Aguardiente](https://open.spotify.com/track/6CpBRucGBV8c2ztigPg6C4) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Con la Fiesta a Cuestas](https://open.spotify.com/album/3hQfz8GVtX9q71VAIm7kmR) | 3:16 |
 | 74 | [Hoy Puede Ser un Gran Dia \- Tributo a Serrat](https://open.spotify.com/track/1vcZt7qwR9bgVSh7obMjFd) | [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [10 Años Around The World](https://open.spotify.com/album/1vXo40YW3uDom5F3OifM1z) | 3:13 |
 | 75 | [Una Lagrima](https://open.spotify.com/track/0PoUyBBEghT7ufac3soDiB) | [Peret](https://open.spotify.com/artist/2bhNZ8x8k2VfVhNRKESlcj) | [Orígenes](https://open.spotify.com/album/4moi9DmSUydEzm7N8VbbeT) | 1:54 |
 | 76 | [Probe Miguel](https://open.spotify.com/track/0Hzq7sPeciHv6l7mfVfdfu) | [Triana Pura](https://open.spotify.com/artist/7suCoxqWwcH7yxF8gbgydg) | [De Triana al Cielo](https://open.spotify.com/album/4sWOyP3HSXKO5omktW61om) | 4:08 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 89 | [Nada Fue Un Error \- Live In Spain / 2005](https://open.spotify.com/track/15RAXEkBCh62ZB6xddv0wO) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Esta Mañana Y Otros Cuentos](https://open.spotify.com/album/2uXGAATjtNc6ikrWsy0B1B) | 3:45 |
 | 90 | [No Estamos Lokos \(Kalikeno\)](https://open.spotify.com/track/6qD5Tep3hEoRDQUpyrrDLK) | [Ketama](https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF) | [De Aki A Ketama](https://open.spotify.com/album/0Gw8HKoLK67806LLeSAJT7) | 4:37 |
 
-Snapshot ID: `MTY0MzE1MDgyMiwwMDAwMDAwMGQwMzdmYzI4OTMyOTljMzY5YjhmYjk0NThhOWY3MWEy`
+Snapshot ID: `MTY0MzE1MDgyMiwwMDAwMDAwMDgyYzcxM2M1NzY0NjUxZWRlNzI4ODJiYjJhN2Q3ZjY5`

@@ -1,12 +1,12 @@
 {
   "description": "Las canciones alternativas que definieron el 2022 en Hispanoam\u00e9rica. Marilina Bertoldi y Javiera Mena en portada.",
-  "num_followers": 1903,
+  "num_followers": 1910,
   "original_name": "Lo mejor del Indie y Rock 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgyMDYzMiwwMDAwMDAwMDZiMjg1NmYzNTY4YzJiNTJmMTRlNjA1NmNjOGMxZTZk",
+  "snapshot_id": "MTY2OTgyMDYzMiwwMDAwMDAwMDE5MGNmZWYzMTViYTg4ZmNmNGE1OTUzN2RhZjA5OTlm",
   "tracks": [
     {
       "added_at": "2022-11-30 14:18:55",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-11-30 14:18:55",
       "album": {
+        "name": "Me Olvido / Te Sigo",
+        "url": "https://open.spotify.com/album/6qDykJWNBv8mXubUrWgAwP"
+      },
+      "artists": [
+        {
+          "name": "Da Pawn",
+          "url": "https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy"
+        }
+      ],
+      "duration_ms": 218684,
+      "name": "Me Olvido / Te Sigo",
+      "url": "https://open.spotify.com/track/3QRQMXFPLmtq2KzSREjnZs"
+    },
+    {
+      "added_at": "2022-11-30 14:18:55",
+      "album": {
         "name": "Bolero Triste",
         "url": "https://open.spotify.com/album/4U5TwT71ftkvWS9vJ2bQY0"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 199213,
       "name": "MANTRA",
       "url": "https://open.spotify.com/track/5Y5Er1vwNsNIBaZikfprvg"
-    },
-    {
-      "added_at": "2022-11-30 14:18:55",
-      "album": {
-        "name": "Me Olvido / Te Sigo",
-        "url": "https://open.spotify.com/album/6qDykJWNBv8mXubUrWgAwP"
-      },
-      "artists": [
-        {
-          "name": "Da Pawn",
-          "url": "https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy"
-        }
-      ],
-      "duration_ms": 218684,
-      "name": "Me Olvido / Te Sigo",
-      "url": "https://open.spotify.com/track/3QRQMXFPLmtq2KzSREjnZs"
     },
     {
       "added_at": "2022-11-30 14:18:55",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-11-30 14:18:55",
       "album": {
+        "name": "Mi Barco",
+        "url": "https://open.spotify.com/album/1MXWI2ZmGEPPzaFaxXOZnr"
+      },
+      "artists": [
+        {
+          "name": "Margarita Siempre Viva",
+          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
+        }
+      ],
+      "duration_ms": 210005,
+      "name": "Mi Barco",
+      "url": "https://open.spotify.com/track/2tNfuHQKqB6uQqrHtp7rbL"
+    },
+    {
+      "added_at": "2022-11-30 14:18:55",
+      "album": {
         "name": "Nada de M\u00ed Vale Dinero",
         "url": "https://open.spotify.com/album/5FQLN0ZAIGh3o1Bb0ZK047"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 257897,
       "name": "Nada de M\u00ed Vale Dinero",
       "url": "https://open.spotify.com/track/5imr697dT1gPajZWd376fL"
-    },
-    {
-      "added_at": "2022-11-30 14:18:55",
-      "album": {
-        "name": "Mi Barco",
-        "url": "https://open.spotify.com/album/1MXWI2ZmGEPPzaFaxXOZnr"
-      },
-      "artists": [
-        {
-          "name": "Margarita Siempre Viva",
-          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
-        }
-      ],
-      "duration_ms": 210005,
-      "name": "Mi Barco",
-      "url": "https://open.spotify.com/track/2tNfuHQKqB6uQqrHtp7rbL"
     },
     {
       "added_at": "2022-11-30 14:18:55",

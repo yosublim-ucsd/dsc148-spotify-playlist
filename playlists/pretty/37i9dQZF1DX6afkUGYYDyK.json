@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 16442,
+  "num_followers": 16448,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjcwMTY2OCwwMDAwMDAwMDY2Mjg1NjYyZGYzNTMxZTk1NWIxY2FiYmZjZjAyZDIx",
+  "snapshot_id": "MTY3NjcwMTY2OCwwMDAwMDAwMGU4NDE2MzQxNTBmY2E4ODU4YTUxM2Y0NDM1MGFlZmJh",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Thank You (Famine Or Feast)",
-        "url": "https://open.spotify.com/album/3uLzFCH6KFFnHwT07NUo7Q"
-      },
-      "artists": [
-        {
-          "name": "Erik Nieder",
-          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
-        }
-      ],
-      "duration_ms": 203986,
-      "name": "Thank You (Famine Or Feast)",
-      "url": "https://open.spotify.com/track/0f2TO0w2isBZfU1Ae3ugFK"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Classic Gold: Best of Andrae: Andrae Crouch and the Disciples",
         "url": "https://open.spotify.com/album/2oYFg5Bln5jsc6YBbXKkBf"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 217786,
       "name": "My Tribute",
       "url": "https://open.spotify.com/track/4Qv1UAv0Mqay8gkTa93W86"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Thank You (Famine Or Feast)",
+        "url": "https://open.spotify.com/album/3uLzFCH6KFFnHwT07NUo7Q"
+      },
+      "artists": [
+        {
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+        }
+      ],
+      "duration_ms": 203986,
+      "name": "Thank You (Famine Or Feast)",
+      "url": "https://open.spotify.com/track/0f2TO0w2isBZfU1Ae3ugFK"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "Be Thankful",
-      "url": "https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Gratitude (Live)",
         "url": "https://open.spotify.com/album/1voPEXBiUxLOuJNkJosiXl"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 376628,
       "name": "Gratitude - Live",
       "url": "https://open.spotify.com/track/2H4EuXmxJp29Sc19EnD9xP"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "Be Thankful",
+      "url": "https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB"
     },
     {
       "added_at": "2022-11-23 15:01:23",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 
 > would you like to save before closing?
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,706 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,975 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,24 +39,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 29 | [My Head Hurts](https://open.spotify.com/track/197NViGw2gfXEKMJEQFWPE) | [strxwberrymilk](https://open.spotify.com/artist/6ZwmyApIe9gFarOGcDhnd1) | [Music for Awkward Dates](https://open.spotify.com/album/11boHgROx5LlPmMs6MymUk) | 3:06 |
 | 30 | [Blackbird](https://open.spotify.com/track/1wc2mgAKMZuicbXCPh163c) | [Zock](https://open.spotify.com/artist/6KSnLGkppa7QiXeGoD56YP) | [Blackbird](https://open.spotify.com/album/3R9nYmuuHJx26TjoPIsasc) | 1:36 |
 | 31 | [Dreamscape](https://open.spotify.com/track/5fp6m6Zo4LetiWaMMrPjy5) | [009 Sound System](https://open.spotify.com/artist/0BjppA384A5QT9kRKCJOyb) | [009 Sound System](https://open.spotify.com/album/5W3etTwlyw2ykgwk5sW8K3) | 4:37 |
-| 32 | [Doku](https://open.spotify.com/track/6bVOt7v3VjCCbmx17bgSEv) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Somoku Hodo](https://open.spotify.com/album/3RRuuRZr2mQT0WoyNHNoBd) | 2:52 |
-| 33 | [Implanted Memories](https://open.spotify.com/track/7BPvdT4CMMC2Q4tw1Y4CQs) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Computer Afterlife](https://open.spotify.com/album/2qBP6U0pDwugygIrzLhksq) | 1:26 |
+| 32 | [Implanted Memories](https://open.spotify.com/track/7BPvdT4CMMC2Q4tw1Y4CQs) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Computer Afterlife](https://open.spotify.com/album/2qBP6U0pDwugygIrzLhksq) | 1:26 |
+| 33 | [Doku](https://open.spotify.com/track/6bVOt7v3VjCCbmx17bgSEv) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Somoku Hodo](https://open.spotify.com/album/3RRuuRZr2mQT0WoyNHNoBd) | 2:52 |
 | 34 | [icosa](https://open.spotify.com/track/0cnyHT7ImohCNA6WDGV013) | [Oliver Buckland](https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b) | [THIRTY三十](https://open.spotify.com/album/03CdWrUe6zg8QM9yOosxq4) | 2:43 |
-| 35 | [DesktopBuddy](https://open.spotify.com/track/5QmxtHllxowtR7XYQgrFri) | [NANORAY](https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1) | [TILT](https://open.spotify.com/album/0NzidGgZeCQW934e8LOyYa) | 3:00 |
-| 36 | [team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [team edward](https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5) | 1:27 |
+| 35 | [team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [team edward](https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5) | 1:27 |
+| 36 | [DesktopBuddy](https://open.spotify.com/track/5QmxtHllxowtR7XYQgrFri) | [NANORAY](https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1) | [TILT](https://open.spotify.com/album/0NzidGgZeCQW934e8LOyYa) | 3:00 |
 | 37 | [Pro: Lov: Ad](https://open.spotify.com/track/7rR1msZYCT2MlrssnJMYgw) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [Velocity: Design: Comfort.](https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2) | 5:46 |
 | 38 | [Counting All The Starfish](https://open.spotify.com/track/1jpeaMkkBI62OYH0z5nAhb) | [Kitty](https://open.spotify.com/artist/6YMeCrTjUKwsXh9yhQJjEV) | [Rose Gold \(Deluxe\)](https://open.spotify.com/album/06IUvNGmc633oFRZpdKXCr) | 3:00 |
-| 39 | [The descent](https://open.spotify.com/track/1kFU28jcVv35zbTWkzFtjV) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Between Two Worlds](https://open.spotify.com/album/03nyYzVw4m1cM2EG0vk6hP) | 1:29 |
-| 40 | [Eternal.Temp](https://open.spotify.com/track/2OevwlY38EvcDDPsRWfHye) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [.Temp](https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3) | 1:36 |
-| 41 | [Hi](https://open.spotify.com/track/7gkS9SJbH6oMNAhcqsAYXZ) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Care](https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G) | 1:07 |
+| 39 | [Hi](https://open.spotify.com/track/7gkS9SJbH6oMNAhcqsAYXZ) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Care](https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G) | 1:07 |
+| 40 | [The descent](https://open.spotify.com/track/1kFU28jcVv35zbTWkzFtjV) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Between Two Worlds](https://open.spotify.com/album/03nyYzVw4m1cM2EG0vk6hP) | 1:29 |
+| 41 | [Eternal.Temp](https://open.spotify.com/track/2OevwlY38EvcDDPsRWfHye) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [.Temp](https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3) | 1:36 |
 | 42 | [tadpoles lullaby](https://open.spotify.com/track/2LFD3JPc6STJxrOR9Ne1PT) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv) | [carepackage](https://open.spotify.com/album/3YE0VIMshf4A4pa507f7eN) | 1:32 |
 | 43 | [morrigan](https://open.spotify.com/track/2zWzQh571g7vTJh2ODmdh1) | [slaywitme](https://open.spotify.com/artist/6iuyjc5Y2UTDG9htNrLAcw) | [morrigan](https://open.spotify.com/album/2Xd2awJcKvh1HKpIKJqVm3) | 2:22 |
 | 44 | [Laptop !!](https://open.spotify.com/track/0eCmMzl0p3QkP1KiwjXYyA) | [dreamcache](https://open.spotify.com/artist/0lg1OxkQBe6Jb8HmdtLZYN) | [Laptop !!](https://open.spotify.com/album/4sbn5EHU8f7dpAU7C2WkYx) | 1:51 |
 | 45 | [WIGGLECORE](https://open.spotify.com/track/0OSkkfKiaPnmlL9ocLVgs9) | [FLOOR BABA](https://open.spotify.com/artist/3J4heSMiOqE9MpbyGTtNHA) | [DIRT BIRD](https://open.spotify.com/album/3S64ZdqDFMAq4KoltiR1Sc) | 1:50 |
 | 46 | [Missed Kiss](https://open.spotify.com/track/6FkJImUqOt3DfH0MuCp4Gr) | [Digigurl](https://open.spotify.com/artist/0gVS8zVAMZ6KJd6LHUsv2Z) | [Missed Kiss](https://open.spotify.com/album/4iNQn6nR8GzzA32YFGJwx8) | 3:22 |
 | 47 | [ƪ\. ◖ƪ❍⊁◞.\|◗щ \(\*ᄋ△+⁎❝᷀ົཽ\*ೃ:\(꒡͡ ❝᷀ົཽ ꉺ ̈.·\*:・✧⃛\(ཽ๑](https://open.spotify.com/track/5S0yiOErSgkU4yRsz6amKN) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [\)✧⃛\*](https://open.spotify.com/album/2sH6A5CeThHXMZ8ZX6iROz) | 3:10 |
-| 48 | [VOCALOID UTOPIA](https://open.spotify.com/track/2zMfxTNwPbkI7IYmhBqWFa) | [dennokop](https://open.spotify.com/artist/3rOrXW6Tv20yUlonxXgSPP) | [VOCALOID DYSTOPIA](https://open.spotify.com/album/3NpInFPUzlghneOmTDSxsx) | 2:24 |
-| 49 | [Chiltonwalk.Temp](https://open.spotify.com/track/3TT7noqVKf7mwYs9nuQ3Ei) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [.Temp](https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3) | 1:56 |
+| 48 | [Chiltonwalk.Temp](https://open.spotify.com/track/3TT7noqVKf7mwYs9nuQ3Ei) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [.Temp](https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3) | 1:56 |
+| 49 | [VOCALOID UTOPIA](https://open.spotify.com/track/2zMfxTNwPbkI7IYmhBqWFa) | [dennokop](https://open.spotify.com/artist/3rOrXW6Tv20yUlonxXgSPP) | [VOCALOID DYSTOPIA](https://open.spotify.com/album/3NpInFPUzlghneOmTDSxsx) | 2:24 |
 | 50 | [missing home](https://open.spotify.com/track/1JfnrTZYpne8zr3C9alx5q) | [nineishuman](https://open.spotify.com/artist/4hjeFoILTSzoAt6p1VJJsm) | [missing home](https://open.spotify.com/album/6L2RIyM2TCXiBEGcRVhz8N) | 2:04 |
 | 51 | [About You Now](https://open.spotify.com/track/4Fpgcj55igVn9pOJeZKFZ8) | [OTTO](https://open.spotify.com/artist/4PxPpid4wSQJ630DTqZ046) | [About You Now](https://open.spotify.com/album/02zc2IIraWCKNpizpKdvKD) | 3:38 |
 | 52 | [NEKOMATA'97](https://open.spotify.com/track/0RoEXhqNvT3uxrM7opZp2I) | [NANORAY](https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1) | [Zapper](https://open.spotify.com/album/2kowSCEZhZnup8Qd57WJQ7) | 4:01 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 67 | [Lovemall](https://open.spotify.com/track/4nLeOsqSVIVyF96ir7oD1u) | [Maple](https://open.spotify.com/artist/7FqhC9JMS6bbcfMVKKPHBc) | [Divinity](https://open.spotify.com/album/4K86mL8fddCmKNsMTX3Guo) | 2:12 |
 | 68 | [I Really Wish I Was Playing Smash Bros Right Now](https://open.spotify.com/track/7hST4LHaypUoUeGayzsuPG) | [Yesterdayneverhappened](https://open.spotify.com/artist/3tGFcZOV2YCIlEV9hwKceh) | [I Love You Kyary](https://open.spotify.com/album/5QKkoqSFe1lUea4tuAtoJb) | 1:21 |
 | 69 | [Load/Save Game](https://open.spotify.com/track/3wGXBAh3LV2qw334Zvxxra) | [Kawai Sprite](https://open.spotify.com/artist/19nnKeOt6Vo1g0ijPcFxdu) | [Rainbow](https://open.spotify.com/album/5rlKNDzXWQwJumhrjnGLNR) | 2:20 |
-| 70 | [Rusty's Theme](https://open.spotify.com/track/0O0nfieweDPQqcSMC5cpYv) | [zKevin](https://open.spotify.com/artist/66AZQ2EAXznHftADdXDICb) | [Robot 64 \(Original Game Soundtrack\)](https://open.spotify.com/album/06whO3ukgXDbzLbeXTjJYE) | 2:18 |
-| 71 | [I'm full of spite mane I'm too fucking petty](https://open.spotify.com/track/7u6hkmIzrxaffZULmJQmF2) | [staysie atoms](https://open.spotify.com/artist/6q6WHn4XUvFiS5sx3dFHHd), [BISKHIT](https://open.spotify.com/artist/2pDFiiTBeRA0unegywq4HX) | [TOXIC SHAWTY ANTHEM](https://open.spotify.com/album/41VxLMH698S4R6pCMTG9Xx) | 3:27 |
-| 72 | [RED ALERT](https://open.spotify.com/track/5qZYiUWxG55qm89Vd4VwCO) | [DJ CAMGIRL](https://open.spotify.com/artist/5swTIBAtYWBafM7YZZriMc), [VAPERROR](https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha) | [CANNON](https://open.spotify.com/album/4Kj5EumxhbumHhNjwt6bIQ) | 1:56 |
+| 70 | [RED ALERT](https://open.spotify.com/track/5qZYiUWxG55qm89Vd4VwCO) | [DJ CAMGIRL](https://open.spotify.com/artist/5swTIBAtYWBafM7YZZriMc), [VAPERROR](https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha) | [CANNON](https://open.spotify.com/album/4Kj5EumxhbumHhNjwt6bIQ) | 1:56 |
+| 71 | [Rusty's Theme](https://open.spotify.com/track/0O0nfieweDPQqcSMC5cpYv) | [zKevin](https://open.spotify.com/artist/66AZQ2EAXznHftADdXDICb) | [Robot 64 \(Original Game Soundtrack\)](https://open.spotify.com/album/06whO3ukgXDbzLbeXTjJYE) | 2:18 |
+| 72 | [I'm full of spite mane I'm too fucking petty](https://open.spotify.com/track/7u6hkmIzrxaffZULmJQmF2) | [staysie atoms](https://open.spotify.com/artist/6q6WHn4XUvFiS5sx3dFHHd), [BISKHIT](https://open.spotify.com/artist/2pDFiiTBeRA0unegywq4HX) | [TOXIC SHAWTY ANTHEM](https://open.spotify.com/album/41VxLMH698S4R6pCMTG9Xx) | 3:27 |
 | 73 | [.dancecore](https://open.spotify.com/track/3iELvZmsWYeA7caKjeWWOo) | [Casper Mcfadden](https://open.spotify.com/artist/5uh0sOdYjYSqXqSQqLA5cT) | [Audio Diary](https://open.spotify.com/album/6QIJzEby71ki5kbjfa2AhK) | 3:09 |
 | 74 | [░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓](https://open.spotify.com/track/2KjezXmSbeXFNBkulpTPTa) | [△▃△▓](https://open.spotify.com/artist/1RtQ5z4H1VISmdg0odatF8) | [░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓](https://open.spotify.com/album/7BRNzMepDKUV2Crung0tYp) | 3:05 |
 | 75 | [Aokinaoi](https://open.spotify.com/track/6e5KhFVmU715GslNu11U6g) | [Scandisk7](https://open.spotify.com/artist/0ZBUxmJJpYRRsaPnsWZzHr) | [Aokinaoi](https://open.spotify.com/album/6gu1vqCxlCcXUFbDsRRjbY) | 4:52 |
 
-Snapshot ID: `MTY3NTgwMjE3MiwwMDAwMDAwMDZkOGM0M2E1YTNiYjg2NzQ0OTBlN2I1OWEyZDA0MmU4`
+Snapshot ID: `MTY3NTgwMjE3MiwwMDAwMDAwMDg1YWVkY2U5YmNlZTkxNTgzZWE3YjJjNTQwOTU2MmYz`

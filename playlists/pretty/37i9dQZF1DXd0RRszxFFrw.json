@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 46706,
+  "num_followers": 46734,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDg5MTQzNDVjNjlkOGY3ZDFlMjAzZWM4MGM4OTZhMjVk",
+  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDg3N2U1ODE4Mjk1YjEyZTNiMTU5YjFhYmFiZTBiYTMz",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Re-Foc",
-        "url": "https://open.spotify.com/album/16i22w9V74VL7euoZIjX6G"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo y Gabriela",
-          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
-        }
-      ],
-      "duration_ms": 254933,
-      "name": "30 De Marzo",
-      "url": "https://open.spotify.com/track/23jaacZ4V3mdoMJYWrDI3n"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "The Little Island Bossa",
         "url": "https://open.spotify.com/album/26eAXBY2VjxAroih5J59nW"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 246128,
       "name": "The Little Island Bossa",
       "url": "https://open.spotify.com/track/1mbjGoWhwkv5n14ibOlSTU"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Re-Foc",
+        "url": "https://open.spotify.com/album/16i22w9V74VL7euoZIjX6G"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo y Gabriela",
+          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
+        }
+      ],
+      "duration_ms": 254933,
+      "name": "30 De Marzo",
+      "url": "https://open.spotify.com/track/23jaacZ4V3mdoMJYWrDI3n"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Bajo La Luna",
+        "url": "https://open.spotify.com/album/1udJi8ZsnPP4DeaB0iBhAO"
+      },
+      "artists": [
+        {
+          "name": "Enrique De Melchor",
+          "url": "https://open.spotify.com/artist/1gIRAKME2A6CNJ3mBSBpjl"
+        }
+      ],
+      "duration_ms": 231400,
+      "name": "Zaralmondi - Colombianas",
+      "url": "https://open.spotify.com/track/2g7F6mDctEtgtyJi7QMxuT"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "The Andalusian Guitar",
         "url": "https://open.spotify.com/album/0YKpmdeKwm9A9d8VZANavZ"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 236842,
       "name": "Milonga",
       "url": "https://open.spotify.com/track/0mFJtHH4xJgoxdmLSfvK4b"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Bajo La Luna",
-        "url": "https://open.spotify.com/album/1udJi8ZsnPP4DeaB0iBhAO"
-      },
-      "artists": [
-        {
-          "name": "Enrique De Melchor",
-          "url": "https://open.spotify.com/artist/1gIRAKME2A6CNJ3mBSBpjl"
-        }
-      ],
-      "duration_ms": 231400,
-      "name": "Zaralmondi - Colombianas",
-      "url": "https://open.spotify.com/track/2g7F6mDctEtgtyJi7QMxuT"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1275,22 +1275,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Leon Noel & Roy Altice",
-        "url": "https://open.spotify.com/album/1pSdcWvO67Ey07XOjUiuV2"
+        "name": "Tristango",
+        "url": "https://open.spotify.com/album/3v4uvZAjwkygczMxSZQFcC"
       },
       "artists": [
         {
-          "name": "Leon Noel",
-          "url": "https://open.spotify.com/artist/33HL5KjSpPc12d2m01u6qB"
-        },
-        {
-          "name": "Roy Altice",
-          "url": "https://open.spotify.com/artist/4WbBlvI0I3igsnRaNFzjBb"
+          "name": "Jos\u00e9 Isidoro",
+          "url": "https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz"
         }
       ],
-      "duration_ms": 163218,
-      "name": "Le Fran\u00e7ais Argentin",
-      "url": "https://open.spotify.com/track/3hBnUS7koSxJorQUmRuFHW"
+      "duration_ms": 199230,
+      "name": "Tristango",
+      "url": "https://open.spotify.com/track/6juXPawVLvlQa75fXRylSZ"
     }
   ],
   "unique_name": "Cena con Guitarras",

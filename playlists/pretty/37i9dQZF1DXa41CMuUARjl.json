@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Rita Ora & Fatboy Slim.",
-  "num_followers": 431844,
+  "num_followers": 432010,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTY2MCwwMDAwMDAwMDczMjBhYTFmNTM0YWJiOTdhMWU1YjM0NDY2YWE0NjFk",
+  "snapshot_id": "MTY4MjA0OTY2MCwwMDAwMDAwMDI0MGM0MmNkYzBhNGEwMjY4Y2EyOWZjM2Q1Mzg5NmQw",
   "tracks": [
     {
       "added_at": "2023-04-21 04:01:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "Alone in the Mountains",
+        "url": "https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 196707,
+      "name": "Alone in the Mountains",
+      "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Compliance (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/7wKiQy5WoppfuiRGltIogr"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 196846,
       "name": "Compliance (Purple Disco Machine Remix) - Edit",
       "url": "https://open.spotify.com/track/4tLB7Y41bkQSnJRqfJ7k4x"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Alone in the Mountains",
-        "url": "https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 196707,
-      "name": "Alone in the Mountains",
-      "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -731,30 +731,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "The Next Day ft. Jamie Irrepressible (Mind Against Remix)",
-        "url": "https://open.spotify.com/album/5XMexJ4o6afIln09lNmEs7"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        },
-        {
-          "name": "Jamie Irrepressible",
-          "url": "https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU"
-        },
-        {
-          "name": "Mind Against",
-          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
-        }
-      ],
-      "duration_ms": 191439,
-      "name": "The Next Day ft. Jamie Irrepressible - Mind Against Remix",
-      "url": "https://open.spotify.com/track/3AtruWFmRKKwLi9o8k9Fzw"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/2HD81FIC7edc7NBQ8B5yVr"
       },
@@ -795,6 +771,30 @@
       "duration_ms": 205440,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/4mzrTgfQZK1lSWEXW79MtR"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "The Next Day ft. Jamie Irrepressible (Mind Against Remix)",
+        "url": "https://open.spotify.com/album/5XMexJ4o6afIln09lNmEs7"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "Jamie Irrepressible",
+          "url": "https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU"
+        },
+        {
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+        }
+      ],
+      "duration_ms": 191439,
+      "name": "The Next Day ft. Jamie Irrepressible - Mind Against Remix",
+      "url": "https://open.spotify.com/track/3AtruWFmRKKwLi9o8k9Fzw"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -843,26 +843,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/6dk5x2xWd86AkCSS4quHy0"
-      },
-      "artists": [
-        {
-          "name": "Holiday87",
-          "url": "https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3"
-        },
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        }
-      ],
-      "duration_ms": 225862,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/60jqMRQow55c9VffYOOaWN"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Way Up",
         "url": "https://open.spotify.com/album/2ISmBpqm45H60YbJpowJC7"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 202758,
       "name": "Way Up",
       "url": "https://open.spotify.com/track/2398MESeCtzwLjjjJGIFl3"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/6dk5x2xWd86AkCSS4quHy0"
+      },
+      "artists": [
+        {
+          "name": "Holiday87",
+          "url": "https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3"
+        },
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        }
+      ],
+      "duration_ms": 225862,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/60jqMRQow55c9VffYOOaWN"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "No One Knows We\u2019re Dancing",
-        "url": "https://open.spotify.com/album/5PL6Zdh0OfL9SArRQ5jYdy"
-      },
-      "artists": [
-        {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
-        }
-      ],
-      "duration_ms": 249026,
-      "name": "No One Knows We\u2019re Dancing",
-      "url": "https://open.spotify.com/track/4dSgscw3VbAMGE7E7mx8kL"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Sunday by the River",
         "url": "https://open.spotify.com/album/0Ukujcae2Ufeke5HuKzZQW"
       },
@@ -1003,6 +987,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "No One Knows We\u2019re Dancing",
+        "url": "https://open.spotify.com/album/5PL6Zdh0OfL9SArRQ5jYdy"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        }
+      ],
+      "duration_ms": 249026,
+      "name": "No One Knows We\u2019re Dancing",
+      "url": "https://open.spotify.com/track/4dSgscw3VbAMGE7E7mx8kL"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Follow The Dark - Part I",
         "url": "https://open.spotify.com/album/71NWTreHzqVqeSHrP6WmzU"
       },
@@ -1015,6 +1015,22 @@
       "duration_ms": 246259,
       "name": "Follow The Dark",
       "url": "https://open.spotify.com/track/3KiO6COi4F8INOuXU5Q1Wc"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/56eNIDF7UTbl3Z8jw1Gofs"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "duration_ms": 200318,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1035,22 +1051,6 @@
       "duration_ms": 249677,
       "name": "You Only Die Once (feat. Snoop Dogg)",
       "url": "https://open.spotify.com/track/1zSROLwDPEvO58gt28VKfW"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/56eNIDF7UTbl3Z8jw1Gofs"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        }
-      ],
-      "duration_ms": 200318,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Milkshake",
-        "url": "https://open.spotify.com/album/4zSFzfRjEhNQv30O5en6rw"
-      },
-      "artists": [
-        {
-          "name": "Lexer",
-          "url": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
-        }
-      ],
-      "duration_ms": 414226,
-      "name": "Milkshake",
-      "url": "https://open.spotify.com/track/0sa9eAhDFupUOAxtGuwQZn"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Tumda",
         "url": "https://open.spotify.com/album/0JSdXf6dVCBO4LkCx3jRQ9"
       },
@@ -1219,6 +1203,42 @@
       "duration_ms": 192786,
       "name": "Tumda",
       "url": "https://open.spotify.com/track/5TOlgoPRljluF62RKNcNnx"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Coke & Rum",
+        "url": "https://open.spotify.com/album/2vteFYYCDoqVsMUvbKKiZ0"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "Charlie Ray",
+          "url": "https://open.spotify.com/artist/5E0lRlMBtVgbEo3gsn8UuF"
+        }
+      ],
+      "duration_ms": 174285,
+      "name": "Coke & Rum",
+      "url": "https://open.spotify.com/track/47SbCzEuIxZbLbNBs21FoW"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Milkshake",
+        "url": "https://open.spotify.com/album/4zSFzfRjEhNQv30O5en6rw"
+      },
+      "artists": [
+        {
+          "name": "Lexer",
+          "url": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
+        }
+      ],
+      "duration_ms": 414226,
+      "name": "Milkshake",
+      "url": "https://open.spotify.com/track/0sa9eAhDFupUOAxtGuwQZn"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1255,22 +1275,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Coke & Rum",
-        "url": "https://open.spotify.com/album/2vteFYYCDoqVsMUvbKKiZ0"
+        "name": "Music",
+        "url": "https://open.spotify.com/album/4Xo3Yjdr9j8MxEnnc4nkrh"
       },
       "artists": [
         {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
         },
         {
-          "name": "Charlie Ray",
-          "url": "https://open.spotify.com/artist/5E0lRlMBtVgbEo3gsn8UuF"
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
         }
       ],
-      "duration_ms": 174285,
-      "name": "Coke & Rum",
-      "url": "https://open.spotify.com/track/47SbCzEuIxZbLbNBs21FoW"
+      "duration_ms": 225245,
+      "name": "Music",
+      "url": "https://open.spotify.com/track/4SHylEYMkPmmjfTAZpgAWk"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1311,26 +1331,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Music",
-        "url": "https://open.spotify.com/album/4Xo3Yjdr9j8MxEnnc4nkrh"
-      },
-      "artists": [
-        {
-          "name": "Goom Gum",
-          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
-        },
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        }
-      ],
-      "duration_ms": 225245,
-      "name": "Music",
-      "url": "https://open.spotify.com/track/4SHylEYMkPmmjfTAZpgAWk"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "More Is More",
         "url": "https://open.spotify.com/album/6jFSykre44SCpshXS6tVJD"
       },
@@ -1347,22 +1347,6 @@
       "duration_ms": 160000,
       "name": "More Is More",
       "url": "https://open.spotify.com/track/0QN0xxypeEb1EGqgt1dkKm"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Immersion",
-        "url": "https://open.spotify.com/album/2cw8zMLsBzCUsQTnnqclGB"
-      },
-      "artists": [
-        {
-          "name": "Scorz",
-          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
-        }
-      ],
-      "duration_ms": 206290,
-      "name": "Immersion",
-      "url": "https://open.spotify.com/track/7x0apH8s2CR1TRCijUkybe"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1387,18 +1371,34 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Never Dance Again",
-        "url": "https://open.spotify.com/album/3FOC9lnnk67fAMm7g3MO38"
+        "name": "Immersion",
+        "url": "https://open.spotify.com/album/2cw8zMLsBzCUsQTnnqclGB"
       },
       "artists": [
         {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+          "name": "Scorz",
+          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
         }
       ],
-      "duration_ms": 192788,
-      "name": "Never Dance Again",
-      "url": "https://open.spotify.com/track/1F1z4H6hVC4wXSsPZKm8hV"
+      "duration_ms": 206290,
+      "name": "Immersion",
+      "url": "https://open.spotify.com/track/7x0apH8s2CR1TRCijUkybe"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Gator",
+        "url": "https://open.spotify.com/album/0PxSZFgvilDptwvLWieLxe"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Olander",
+          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
+        }
+      ],
+      "duration_ms": 503073,
+      "name": "Gator",
+      "url": "https://open.spotify.com/track/7slSQMJ8gq2hIWXbAdmNTg"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Gator",
-        "url": "https://open.spotify.com/album/0PxSZFgvilDptwvLWieLxe"
+        "name": "Never Dance Again",
+        "url": "https://open.spotify.com/album/3FOC9lnnk67fAMm7g3MO38"
       },
       "artists": [
         {
-          "name": "Jeremy Olander",
-          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
         }
       ],
-      "duration_ms": 503073,
-      "name": "Gator",
-      "url": "https://open.spotify.com/track/7slSQMJ8gq2hIWXbAdmNTg"
+      "duration_ms": 192788,
+      "name": "Never Dance Again",
+      "url": "https://open.spotify.com/track/1F1z4H6hVC4wXSsPZKm8hV"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1455,22 +1455,38 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "WORDS FROM YOU",
-        "url": "https://open.spotify.com/album/3xUnNV6R21vI3ub4dpSab1"
+        "name": "Catch Your Breath",
+        "url": "https://open.spotify.com/album/6eH4x2Wly4iFM2fPFl1hkC"
       },
       "artists": [
         {
-          "name": "OddKidOut",
-          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+          "name": "Effemar",
+          "url": "https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB"
         },
         {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+          "name": "SJ Lawrence",
+          "url": "https://open.spotify.com/artist/4ehHdLYJVd5KHjTpLDgRLw"
         }
       ],
-      "duration_ms": 168774,
-      "name": "WORDS FROM YOU",
-      "url": "https://open.spotify.com/track/5OQOiPQlmLgjhxasv4CLuz"
+      "duration_ms": 182270,
+      "name": "Catch Your Breath",
+      "url": "https://open.spotify.com/track/2PgHtsV2MWbKQoIxZJfVDL"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "am i right?",
+        "url": "https://open.spotify.com/album/1zSt0UqmEaaX6Mxkau913w"
+      },
+      "artists": [
+        {
+          "name": "helloworld",
+          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
+        }
+      ],
+      "duration_ms": 182483,
+      "name": "am i right?",
+      "url": "https://open.spotify.com/track/6CS6zb9sXKsDm5n1Bbqc9R"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1495,38 +1511,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "am i right?",
-        "url": "https://open.spotify.com/album/1zSt0UqmEaaX6Mxkau913w"
+        "name": "WORDS FROM YOU",
+        "url": "https://open.spotify.com/album/3xUnNV6R21vI3ub4dpSab1"
       },
       "artists": [
         {
-          "name": "helloworld",
-          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
-        }
-      ],
-      "duration_ms": 182483,
-      "name": "am i right?",
-      "url": "https://open.spotify.com/track/6CS6zb9sXKsDm5n1Bbqc9R"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Catch Your Breath",
-        "url": "https://open.spotify.com/album/6eH4x2Wly4iFM2fPFl1hkC"
-      },
-      "artists": [
-        {
-          "name": "Effemar",
-          "url": "https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB"
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
         },
         {
-          "name": "SJ Lawrence",
-          "url": "https://open.spotify.com/artist/4ehHdLYJVd5KHjTpLDgRLw"
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
         }
       ],
-      "duration_ms": 182270,
-      "name": "Catch Your Breath",
-      "url": "https://open.spotify.com/track/2PgHtsV2MWbKQoIxZJfVDL"
+      "duration_ms": 168774,
+      "name": "WORDS FROM YOU",
+      "url": "https://open.spotify.com/track/5OQOiPQlmLgjhxasv4CLuz"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "Out Of Control",
+        "url": "https://open.spotify.com/album/6JhR1hL9tTIntajR1EeupN"
+      },
+      "artists": [
+        {
+          "name": "Modapit",
+          "url": "https://open.spotify.com/artist/6KodO7gtDTYK7uhiu1z1Zb"
+        }
+      ],
+      "duration_ms": 121791,
+      "name": "Out Of Control",
+      "url": "https://open.spotify.com/track/1ZDXuF6ECnh85FG8l2D4sN"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Anyone I Want",
         "url": "https://open.spotify.com/album/50IJkSXxiseaTrNUQkp0eM"
       },
@@ -1719,18 +1735,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Out Of Control",
-        "url": "https://open.spotify.com/album/6JhR1hL9tTIntajR1EeupN"
+        "name": "Helium",
+        "url": "https://open.spotify.com/album/6X5lWXIfJG8ty2jpXEFldJ"
       },
       "artists": [
         {
-          "name": "Modapit",
-          "url": "https://open.spotify.com/artist/6KodO7gtDTYK7uhiu1z1Zb"
+          "name": "Maryn",
+          "url": "https://open.spotify.com/artist/4H4iHbG7nopmzvkwsglVkM"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
         }
       ],
-      "duration_ms": 121791,
-      "name": "Out Of Control",
-      "url": "https://open.spotify.com/track/1ZDXuF6ECnh85FG8l2D4sN"
+      "duration_ms": 191520,
+      "name": "Helium",
+      "url": "https://open.spotify.com/track/4F6l1g7UMasHnEgzrRP9e5"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1755,26 +1775,6 @@
       "duration_ms": 249604,
       "name": "Spanish Vibe (feat. Erez Netz)",
       "url": "https://open.spotify.com/track/7o1hVcPJT3V3mWaq4rnLHr"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Helium",
-        "url": "https://open.spotify.com/album/6X5lWXIfJG8ty2jpXEFldJ"
-      },
-      "artists": [
-        {
-          "name": "Maryn",
-          "url": "https://open.spotify.com/artist/4H4iHbG7nopmzvkwsglVkM"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        }
-      ],
-      "duration_ms": 191520,
-      "name": "Helium",
-      "url": "https://open.spotify.com/track/4F6l1g7UMasHnEgzrRP9e5"
     },
     {
       "added_at": "2023-04-21 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 
 > Anthems from the early days of recorded rap music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,265 likes - 70 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,397 likes - 70 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 9 | [Just a Friend](https://open.spotify.com/track/1MQCTOWVfy4PcuBXkBsHVB) | [Biz Markie](https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4) | [Just a Friend \- EP](https://open.spotify.com/album/32wD8Cv9HKBXiVumGQsZVL) | 3:58 |
 | 10 | [Express Yourself \- Remix](https://open.spotify.com/track/6NLLIPKjqFRnbCorRNTEHe) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [N.W.A\. Greatest Hits](https://open.spotify.com/album/2k4SKTM0a5FVN37VvFbxpr) | 4:21 |
 | 11 | [Rapture](https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 4:59 |
-| 12 | [The Magic Number](https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [The Magic Number](https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31) | 3:15 |
-| 13 | [It Takes Two](https://open.spotify.com/track/3Yxmpx64AdWAzG3qAD4Dty) | [Rob Base & DJ EZ Rock](https://open.spotify.com/artist/6vwFR7NilfrQ4AX0d41fWu) | [Profilin': The Hits](https://open.spotify.com/album/6a6h1DRImqxSsXfn3bk6XU) | 5:01 |
+| 12 | [It Takes Two](https://open.spotify.com/track/3Yxmpx64AdWAzG3qAD4Dty) | [Rob Base & DJ EZ Rock](https://open.spotify.com/artist/6vwFR7NilfrQ4AX0d41fWu) | [Profilin': The Hits](https://open.spotify.com/album/6a6h1DRImqxSsXfn3bk6XU) | 5:01 |
+| 13 | [The Magic Number](https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [The Magic Number](https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31) | 3:15 |
 | 14 | [I Ain't No Joke](https://open.spotify.com/track/0SwuCcwpFM6x4cu5zOvmi0) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full](https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz) | 3:52 |
 | 15 | [Shake Your Rump](https://open.spotify.com/track/2qq0RYYIuQxXcOxQKN0drC) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Paul's Boutique \(20th Anniversary Edition / Remastered\)](https://open.spotify.com/album/1kmyirVya5fRxdjsPFDM05) | 3:18 |
 | 16 | [Planet Rock](https://open.spotify.com/track/4FupIlegZgvXUuK79qcoKW) | [Afrika Bambaataa](https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p), [The Soulsonic Force](https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP) | [Planet Rock](https://open.spotify.com/album/1t1veMmAYjKi3kN4bkysUn) | 5:19 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 64 | [Mona Lisa](https://open.spotify.com/track/5xc1DBXmB7MTajxDJ9cJcq) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick](https://open.spotify.com/album/71mmTJdWvpkzQNmVfFbRdN) | 4:08 |
 | 65 | [Bassline](https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w) | [Mantronix](https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY) | [The Album](https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K) | 5:26 |
 | 66 | [The Gas Face](https://open.spotify.com/track/3G0z1kH46uVRqW7f9Qp1OR) | [3rd Bass](https://open.spotify.com/artist/6EFL6smxzRtpwlQvZFldUc), [Zev Love](https://open.spotify.com/artist/6ZsabzDRDqFRj6DCRvYRDx) | [Best Of 3rd Bass](https://open.spotify.com/album/1pTWEUzYCTNJB44EA06ZFc) | 3:49 |
-| 67 | [Genius Rap \- 7" Single Version](https://open.spotify.com/track/71V59P1ap285AB9TNJdmbH) | [Dr\. Jeckyll & Mr\. Hyde](https://open.spotify.com/artist/7rxyGNqJCod2DVTBubSTyt) | [Giant Single: Profile Records Rap Anthology](https://open.spotify.com/album/13JxcY9hKf4t6BGkrNbSwr) | 4:40 |
-| 68 | [Girls Ain't Nothing But Trouble \- 1988 Extended Remix](https://open.spotify.com/track/2hdORQrsFcE0nm3rzLcfg9) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Greatest Hits](https://open.spotify.com/album/36F8dqIQunGUWbsOPWQSjz) | 4:49 |
+| 67 | [Girls Ain't Nothing But Trouble \- 1988 Extended Remix](https://open.spotify.com/track/2hdORQrsFcE0nm3rzLcfg9) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Greatest Hits](https://open.spotify.com/album/36F8dqIQunGUWbsOPWQSjz) | 4:49 |
+| 68 | [Genius Rap \- 7" Single Version](https://open.spotify.com/track/71V59P1ap285AB9TNJdmbH) | [Dr\. Jeckyll & Mr\. Hyde](https://open.spotify.com/artist/7rxyGNqJCod2DVTBubSTyt) | [Giant Single: Profile Records Rap Anthology](https://open.spotify.com/album/13JxcY9hKf4t6BGkrNbSwr) | 4:40 |
 | 69 | [I'll Take Your Man](https://open.spotify.com/track/1o19erG7MurnvFf76zsX41) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Hot, Cool & Vicious](https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d) | 5:08 |
-| 70 | [Hip Hop Be Bop \(Original Version\)](https://open.spotify.com/track/21NALHsloDI31T781jDMFw) | [Man Parrish](https://open.spotify.com/artist/2HKVO06HXqGmQxZJ8xIqgr) | [Hip Hop Be Bop](https://open.spotify.com/album/0A9mRheQlMXT1A125XYgpg) | 5:36 |
+| 70 | [P.S.K\. 'What Does It Mean'?](https://open.spotify.com/track/3StKzbpR9dRZB8epDx4KDW) | [Schoolly D](https://open.spotify.com/artist/63NXL9k1RkJYcQ5MkUETLL) | [Schoolly D](https://open.spotify.com/album/57LWYtFS2xn5pIDHLqjatU) | 6:28 |
 
-Snapshot ID: `MTY4MDc3OTExMSwwMDAwMDAwMDA3MzRlYTRlMjc5NGY4ZmNlM2Q5M2IwMDk1M2Q1YzEx`
+Snapshot ID: `MTY4MDc3OTExMSwwMDAwMDAwMDkwZjY2YWM2ZDgwNzQ3OWRlYmIwMjFiYzdmMmIwNTEz`

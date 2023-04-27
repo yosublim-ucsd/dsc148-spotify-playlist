@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Bispo e B\u00e1rbara Tinoco.",
-  "num_followers": 30853,
+  "num_followers": 30958,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAzMTYwMCwwMDAwMDAwMGQ1NGNlYTAzMzUyZDM3N2U4NjYwMGRlZDg3MjUyNDgx",
+  "snapshot_id": "MTY4MjAzMTYwMCwwMDAwMDAwMGI1ZDhhZGI1Mjc5ZWEyM2FhMWQ5Mzk5YWM4M2U4NTY3",
   "tracks": [
     {
       "added_at": "2023-04-20 23:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-04-20 23:00:00",
       "album": {
+        "name": "3815",
+        "url": "https://open.spotify.com/album/1oZCUxBvbv55jnTlC9sT90"
+      },
+      "artists": [
+        {
+          "name": "Gama WNTD",
+          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "3815",
+      "url": "https://open.spotify.com/track/7ejBGFJ0XzsLvDNscxZOQe"
+    },
+    {
+      "added_at": "2023-04-20 23:00:00",
+      "album": {
         "name": "Sons de Amor",
         "url": "https://open.spotify.com/album/7sov1YBuhBoydHePYGr69s"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 254400,
       "name": "Sons de Amor",
       "url": "https://open.spotify.com/track/44PSI3qwDKTTBa4TbqpjnL"
-    },
-    {
-      "added_at": "2023-04-20 23:00:00",
-      "album": {
-        "name": "3815",
-        "url": "https://open.spotify.com/album/1oZCUxBvbv55jnTlC9sT90"
-      },
-      "artists": [
-        {
-          "name": "Gama WNTD",
-          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "3815",
-      "url": "https://open.spotify.com/track/7ejBGFJ0XzsLvDNscxZOQe"
     },
     {
       "added_at": "2023-04-20 23:00:00",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2023-04-20 23:00:00",
       "album": {
-        "name": "N\u00e3o Me Leves a Mal",
-        "url": "https://open.spotify.com/album/11hvGr1BS32qZ4MOAAGiXP"
+        "name": "Uma Chamada Tua",
+        "url": "https://open.spotify.com/album/2Pt1yrT5x7GzPzCBexziIW"
       },
       "artists": [
         {
-          "name": "Yang",
-          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
+          "name": "Kibow",
+          "url": "https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M"
         }
       ],
-      "duration_ms": 240763,
-      "name": "N\u00e3o Me Leves a Mal",
-      "url": "https://open.spotify.com/track/74lzWQmKWFI5Z0RJqV8hEG"
+      "duration_ms": 191076,
+      "name": "Uma Chamada Tua",
+      "url": "https://open.spotify.com/track/7nVIz2hJtiCj7QfNgWTfDm"
     },
     {
       "added_at": "2023-04-20 23:00:00",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2023-04-20 23:00:00",
       "album": {
-        "name": "Uma Chamada Tua",
-        "url": "https://open.spotify.com/album/2Pt1yrT5x7GzPzCBexziIW"
+        "name": "N\u00e3o Me Leves a Mal",
+        "url": "https://open.spotify.com/album/11hvGr1BS32qZ4MOAAGiXP"
       },
       "artists": [
         {
-          "name": "Kibow",
-          "url": "https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M"
+          "name": "Yang",
+          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
         }
       ],
-      "duration_ms": 191076,
-      "name": "Uma Chamada Tua",
-      "url": "https://open.spotify.com/track/7nVIz2hJtiCj7QfNgWTfDm"
+      "duration_ms": 240763,
+      "name": "N\u00e3o Me Leves a Mal",
+      "url": "https://open.spotify.com/track/74lzWQmKWFI5Z0RJqV8hEG"
     },
     {
       "added_at": "2023-04-20 23:00:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-04-20 23:00:00",
       "album": {
+        "name": "Entorpecente",
+        "url": "https://open.spotify.com/album/5TlSkej09g8DTIRYj1DHDC"
+      },
+      "artists": [
+        {
+          "name": "Manaux",
+          "url": "https://open.spotify.com/artist/6tq70oYBgLGQmo3Rit9khr"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Entorpecente",
+      "url": "https://open.spotify.com/track/0fZ7aqPmqDSI1sGTO5MPqg"
+    },
+    {
+      "added_at": "2023-04-20 23:00:00",
+      "album": {
         "name": "Di\u00e1rio",
         "url": "https://open.spotify.com/album/5WQ4L6OyXmtkp5Trh6w6Ag"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 108000,
       "name": "Di\u00e1rio",
       "url": "https://open.spotify.com/track/6bjjfB4s9DZGAWdxRWo2hU"
-    },
-    {
-      "added_at": "2023-04-20 23:00:00",
-      "album": {
-        "name": "Entorpecente",
-        "url": "https://open.spotify.com/album/5TlSkej09g8DTIRYj1DHDC"
-      },
-      "artists": [
-        {
-          "name": "Manaux",
-          "url": "https://open.spotify.com/artist/6tq70oYBgLGQmo3Rit9khr"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Entorpecente",
-      "url": "https://open.spotify.com/track/0fZ7aqPmqDSI1sGTO5MPqg"
     },
     {
       "added_at": "2023-04-20 23:00:00",

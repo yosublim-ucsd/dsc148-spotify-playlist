@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 746094,
+  "num_followers": 746189,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMGY3NGQxY2Y0NTA2MDExZjQ0Y2YyNjViYmYyMmNkMTM1",
+  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMGE2MWQyNjRiNWVjNjQ3MWQ3N2MzYWZlZGI0NzRkY2Iw",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Show & Prove",
-        "url": "https://open.spotify.com/album/1OeiauwrDJM0ZhHsqwsQd9"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ross",
-          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
-        }
-      ],
-      "duration_ms": 149890,
-      "name": "Show & Prove",
-      "url": "https://open.spotify.com/track/449FBzMELJSNmcZOhobcyq"
-    },
-    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Good Morning Gorgeous",
@@ -671,6 +655,22 @@
       "duration_ms": 174728,
       "name": "Good Morning Gorgeous",
       "url": "https://open.spotify.com/track/77z6mJeFcHlRWVfbOdBCtc"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Show & Prove",
+        "url": "https://open.spotify.com/album/1OeiauwrDJM0ZhHsqwsQd9"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ross",
+          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
+        }
+      ],
+      "duration_ms": 149890,
+      "name": "Show & Prove",
+      "url": "https://open.spotify.com/track/449FBzMELJSNmcZOhobcyq"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -797,22 +797,6 @@
       "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Palace",
-        "url": "https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO"
-      },
-      "artists": [
-        {
-          "name": "Tora-i",
-          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
-        }
-      ],
-      "duration_ms": 152396,
-      "name": "Palace",
-      "url": "https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Coffee in the Morning",
@@ -827,6 +811,22 @@
       "duration_ms": 226453,
       "name": "Coffee in the Morning",
       "url": "https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Palace",
+        "url": "https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO"
+      },
+      "artists": [
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        }
+      ],
+      "duration_ms": 152396,
+      "name": "Palace",
+      "url": "https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -881,6 +881,22 @@
       "url": "https://open.spotify.com/track/0U8tC6UzgYePgOJT6Chlw9"
     },
     {
+      "added_at": "2022-10-03 05:27:10",
+      "album": {
+        "name": "Sweet Blue",
+        "url": "https://open.spotify.com/album/2id5Rs8ZSBGpiykreLASis"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 253527,
+      "name": "Sweet Blue",
+      "url": "https://open.spotify.com/track/6UOruoEj8UAA9iEtjbjJra"
+    },
+    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "My Way (25th Anniversary Edition)",
@@ -899,22 +915,6 @@
       "duration_ms": 192064,
       "name": "Nice & Slow - Ryan James Carr Remake",
       "url": "https://open.spotify.com/track/31YudjfCQCpRYDeDMskWGh"
-    },
-    {
-      "added_at": "2022-10-03 05:27:10",
-      "album": {
-        "name": "Sweet Blue",
-        "url": "https://open.spotify.com/album/2id5Rs8ZSBGpiykreLASis"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 253527,
-      "name": "Sweet Blue",
-      "url": "https://open.spotify.com/track/6UOruoEj8UAA9iEtjbjJra"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -985,22 +985,6 @@
       "url": "https://open.spotify.com/track/3inov7UTS3ZHlq3RvDT5Ga"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Why (Spare Me Tears)",
-        "url": "https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 205229,
-      "name": "Why (Spare Me Tears)",
-      "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
-    },
-    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Footsteps in the Dark Pts. 1 & 2",
@@ -1015,6 +999,22 @@
       "duration_ms": 317992,
       "name": "Footsteps in the Dark Pts. 1 & 2",
       "url": "https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Why (Spare Me Tears)",
+        "url": "https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 205229,
+      "name": "Why (Spare Me Tears)",
+      "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1125,22 +1125,6 @@
       "url": "https://open.spotify.com/track/3DU1AMXRg8IkrvAMg6odMt"
     },
     {
-      "added_at": "2022-10-28 07:50:50",
-      "album": {
-        "name": "LET IT RAIN EP",
-        "url": "https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D"
-      },
-      "artists": [
-        {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
-        }
-      ],
-      "duration_ms": 203064,
-      "name": "TEARS OF JOY",
-      "url": "https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH"
-    },
-    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "PHILEO",
@@ -1157,20 +1141,40 @@
       "url": "https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd"
     },
     {
-      "added_at": "2022-10-03 05:27:10",
+      "added_at": "2022-10-28 07:50:50",
       "album": {
-        "name": "age/sex/location",
-        "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
+        "name": "LET IT RAIN EP",
+        "url": "https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 203064,
+      "name": "TEARS OF JOY",
+      "url": "https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH"
+    },
+    {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
+        "name": "Queen Space (with Summer Walker)",
+        "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
       },
       "artists": [
         {
           "name": "Ari Lennox",
           "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 243085,
-      "name": "Mean Mug",
-      "url": "https://open.spotify.com/track/4a125pvXw0CxxpN7yHDgUY"
+      "duration_ms": 230841,
+      "name": "Queen Space (with Summer Walker)",
+      "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1195,6 +1199,22 @@
       "duration_ms": 221893,
       "name": "Mulholland Drive",
       "url": "https://open.spotify.com/track/70RUzztH81zpAMm9jbMLDi"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/2GZLxm0djV5NUNdes4kYv0"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "duration_ms": 156622,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/4UZxlB4kClh746mupKTDer"
     },
     {
       "added_at": "2022-09-30 04:06:57",
@@ -1245,22 +1265,6 @@
       "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/2GZLxm0djV5NUNdes4kYv0"
-      },
-      "artists": [
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        }
-      ],
-      "duration_ms": 156622,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/4UZxlB4kClh746mupKTDer"
-    },
-    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Blue",
@@ -1297,6 +1301,38 @@
       "url": "https://open.spotify.com/track/2uddLj27GIDBIdwRuIomE4"
     },
     {
+      "added_at": "2022-10-03 05:27:10",
+      "album": {
+        "name": "Pineapple Cognac",
+        "url": "https://open.spotify.com/album/29R9YV27YP2ZZI7P8x58mM"
+      },
+      "artists": [
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "duration_ms": 134166,
+      "name": "Pineapple Cognac",
+      "url": "https://open.spotify.com/track/6WWBltBaOkJ7qpcNVO4jeV"
+    },
+    {
+      "added_at": "2022-10-03 05:27:10",
+      "album": {
+        "name": "age/sex/location",
+        "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 243085,
+      "name": "Mean Mug",
+      "url": "https://open.spotify.com/track/4a125pvXw0CxxpN7yHDgUY"
+    },
+    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "The Piano Album",
@@ -1317,40 +1353,20 @@
       "url": "https://open.spotify.com/track/1iovqTYo2kvTWRGhRQPDPV"
     },
     {
-      "added_at": "2022-09-09 04:08:19",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Queen Space (with Summer Walker)",
-        "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
+        "name": "AM/FM",
+        "url": "https://open.spotify.com/album/5C7wsbtvtoVg24iVKGqSD1"
       },
       "artists": [
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "rum.gold",
+          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
         }
       ],
-      "duration_ms": 230841,
-      "name": "Queen Space (with Summer Walker)",
-      "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
-    },
-    {
-      "added_at": "2022-10-03 05:27:10",
-      "album": {
-        "name": "Pineapple Cognac",
-        "url": "https://open.spotify.com/album/29R9YV27YP2ZZI7P8x58mM"
-      },
-      "artists": [
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
-        }
-      ],
-      "duration_ms": 134166,
-      "name": "Pineapple Cognac",
-      "url": "https://open.spotify.com/track/6WWBltBaOkJ7qpcNVO4jeV"
+      "duration_ms": 165752,
+      "name": "AM/FM",
+      "url": "https://open.spotify.com/track/5PCW8qWmZfqBhs5UmuG5wU"
     },
     {
       "added_at": "2022-08-26 04:46:22",
@@ -1389,22 +1405,6 @@
       "url": "https://open.spotify.com/track/0RPyKB5QejeLvdh1N7RJIN"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "AM/FM",
-        "url": "https://open.spotify.com/album/5C7wsbtvtoVg24iVKGqSD1"
-      },
-      "artists": [
-        {
-          "name": "rum.gold",
-          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
-        }
-      ],
-      "duration_ms": 165752,
-      "name": "AM/FM",
-      "url": "https://open.spotify.com/track/5PCW8qWmZfqBhs5UmuG5wU"
-    },
-    {
       "added_at": "2022-10-03 05:27:10",
       "album": {
         "name": "Mother",
@@ -1437,6 +1437,22 @@
       "url": "https://open.spotify.com/track/0eue2iKYFkuLYXkfEMjKuJ"
     },
     {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "All I Really Wanna Do",
+        "url": "https://open.spotify.com/album/7uJEue4cTERq6gsqh8WAks"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 222080,
+      "name": "All I Really Wanna Do",
+      "url": "https://open.spotify.com/track/1SNJRCOuSinxdGq7e4gB7K"
+    },
+    {
       "added_at": "2022-09-23 04:06:59",
       "album": {
         "name": "Wanderlust",
@@ -1457,22 +1473,6 @@
       "url": "https://open.spotify.com/track/0mGuqhdpKtKv6KajTmCLFI"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "All I Really Wanna Do",
-        "url": "https://open.spotify.com/album/7uJEue4cTERq6gsqh8WAks"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        }
-      ],
-      "duration_ms": 222080,
-      "name": "All I Really Wanna Do",
-      "url": "https://open.spotify.com/track/1SNJRCOuSinxdGq7e4gB7K"
-    },
-    {
       "added_at": "2023-02-12 14:52:23",
       "album": {
         "name": "I Need To Know",
@@ -1489,22 +1489,6 @@
       "url": "https://open.spotify.com/track/2pQb0GnMbJHdUJu5dIQ3hw"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "What A Difference She Made",
-        "url": "https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 175696,
-      "name": "What A Difference She Made",
-      "url": "https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ"
-    },
-    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "Kaleidoscope",
@@ -1519,6 +1503,22 @@
       "duration_ms": 199903,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/6WS3DY0dzclqrAZae3E2KV"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "What A Difference She Made",
+        "url": "https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 175696,
+      "name": "What A Difference She Made",
+      "url": "https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ"
     },
     {
       "added_at": "2023-03-03 05:39:26",
@@ -1561,22 +1561,6 @@
       "url": "https://open.spotify.com/track/52sbd2ZlFF3PLm0wO3EFL6"
     },
     {
-      "added_at": "2022-09-09 04:08:19",
-      "album": {
-        "name": "GREENZONE 108",
-        "url": "https://open.spotify.com/album/2ygXPIqdYAq3qiTHjkPH0a"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 250506,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/5MzQInSkVMQhfrSGIPE2JT"
-    },
-    {
       "added_at": "2022-11-18 18:12:42",
       "album": {
         "name": "I'll Wait",
@@ -1591,6 +1575,22 @@
       "duration_ms": 231879,
       "name": "I'll Wait",
       "url": "https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I"
+    },
+    {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
+        "name": "GREENZONE 108",
+        "url": "https://open.spotify.com/album/2ygXPIqdYAq3qiTHjkPH0a"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 250506,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/5MzQInSkVMQhfrSGIPE2JT"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1673,6 +1673,22 @@
       "url": "https://open.spotify.com/track/7ht3l8ueUXW2SmD4o2lOV1"
     },
     {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Like a Ship (Live from Strange Manor)",
+        "url": "https://open.spotify.com/album/3i25lVb7GBHyj4YO7L7ki7"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "duration_ms": 312373,
+      "name": "Like a Ship - Live from Strange Manor",
+      "url": "https://open.spotify.com/track/6J6InHh9eVYIxva60QTB5e"
+    },
+    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "beat of a slow dance",
@@ -1691,22 +1707,6 @@
       "duration_ms": 234799,
       "name": "beat of a slow dance",
       "url": "https://open.spotify.com/track/1lhSO8JusksTEPOV7zchg1"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Like a Ship (Live from Strange Manor)",
-        "url": "https://open.spotify.com/album/3i25lVb7GBHyj4YO7L7ki7"
-      },
-      "artists": [
-        {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
-        }
-      ],
-      "duration_ms": 312373,
-      "name": "Like a Ship - Live from Strange Manor",
-      "url": "https://open.spotify.com/track/6J6InHh9eVYIxva60QTB5e"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1745,6 +1745,22 @@
       "url": "https://open.spotify.com/track/2K5CdJb1IkAlsT108wRxYP"
     },
     {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
+        "name": "Foolish",
+        "url": "https://open.spotify.com/album/2HRhfhmcfGOTefEgQgXTdH"
+      },
+      "artists": [
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Foolish",
+      "url": "https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5"
+    },
+    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Demon Time (with Ari Lennox) [Remix]",
@@ -1763,22 +1779,6 @@
       "duration_ms": 220249,
       "name": "Demon Time (with Ari Lennox) - Remix",
       "url": "https://open.spotify.com/track/3ZDrWqaWyjuJg1dGp0EqTS"
-    },
-    {
-      "added_at": "2022-09-09 04:08:19",
-      "album": {
-        "name": "Foolish",
-        "url": "https://open.spotify.com/album/2HRhfhmcfGOTefEgQgXTdH"
-      },
-      "artists": [
-        {
-          "name": "Natanya",
-          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Foolish",
-      "url": "https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5"
     },
     {
       "added_at": "2022-09-09 04:08:19",

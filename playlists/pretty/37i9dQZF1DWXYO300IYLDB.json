@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3068\u5171\u306b\u3001\u723d\u3084\u304b\u306a1\u65e5\u3092\u8fce\u3048\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 96943,
+  "num_followers": 96959,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjQzNDgwMCwwMDAwMDAwMDkyNGRhM2JkNDYzNWRlYWFjOWMxNmRkZDU4MDA3ZGEw",
+  "snapshot_id": "MTY4MjQzNDgwMCwwMDAwMDAwMGViMzVhNzgzODI0ZTBiYWM0NDFiMjU3YjhjMDM1YmIz",
   "tracks": [
     {
       "added_at": "2023-04-25 15:00:00",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 146640,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
-    },
-    {
-      "added_at": "2023-04-25 15:00:00",
-      "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 215733,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
+    },
+    {
+      "added_at": "2023-04-25 15:00:00",
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 146640,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -627,18 +627,18 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 240200,
-      "name": "River",
-      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
+      "duration_ms": 171727,
+      "name": "Liability",
+      "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -659,18 +659,18 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 171727,
-      "name": "Liability",
-      "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
+      "duration_ms": 240200,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+        "name": "hate u love u",
+        "url": "https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
         }
       ],
-      "duration_ms": 240600,
-      "name": "Beyond",
-      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
+      "duration_ms": 175466,
+      "name": "hate u love u",
+      "url": "https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "hate u love u",
-        "url": "https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw"
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
       "artists": [
         {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 175466,
-      "name": "hate u love u",
-      "url": "https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt"
+      "duration_ms": 240600,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "Anti-Hero (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
+        "name": "Raised Under Grey Skies (Deluxe)",
+        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
         }
       ],
-      "duration_ms": 196473,
-      "name": "Anti-Hero - Acoustic Version",
-      "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
+      "duration_ms": 212152,
+      "name": "September Song - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "Raised Under Grey Skies (Deluxe)",
-        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
+        "name": "Anti-Hero (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
       },
       "artists": [
         {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 212152,
-      "name": "September Song - Guitar Acoustic",
-      "url": "https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h"
+      "duration_ms": 196473,
+      "name": "Anti-Hero - Acoustic Version",
+      "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
+        "name": "i heart the internet",
+        "url": "https://open.spotify.com/album/3Bg7PLOLItNpz7OajqkVDk"
+      },
+      "artists": [
+        {
+          "name": "Harriette",
+          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
+        }
+      ],
+      "duration_ms": 195960,
+      "name": "i heart the internet",
+      "url": "https://open.spotify.com/track/5NzIkBzG0MFVjpzSsgUhY0"
+    },
+    {
+      "added_at": "2023-04-25 15:00:00",
+      "album": {
         "name": "Bright Lights (Lights Re-pack / Bonus Version)",
         "url": "https://open.spotify.com/album/64Pv36CiG9rBcyvKnud02V"
       },
@@ -1652,9 +1668,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 298880,
-      "name": "Shrike",
-      "url": "https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb"
+      "duration_ms": 266466,
+      "name": "Wasteland, Baby!",
+      "url": "https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH"
     }
   ],
   "unique_name": "Acoustic Melodies Tokyo",

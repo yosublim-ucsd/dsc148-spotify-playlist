@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7g9DBqnMitx.md) - [plain]
 
 > Le cinéma ça s'écoute aussi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,045 likes - 70 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,062 likes - 70 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7g9DBqnMitx.md) - [plain]
 | 33 | [My Heart Will Go On \- Love Theme from "Titanic"](https://open.spotify.com/track/7F1yVPuJ4xRdrDvf8OL0HF) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [Titanic: Original Motion Picture Soundtrack \- Collector's Anniversary Edition](https://open.spotify.com/album/3XwgFTxiWxep4s1VjPEaHs) | 5:10 |
 | 34 | [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 |
 | 35 | [Tony's Theme](https://open.spotify.com/track/7gYA9Bs2gqTiwjHkzLi1Yg) | [Giorgio Moroder](https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO) | [Scarface \(Expanded Motion Picture Soundtrack\)](https://open.spotify.com/album/6ccQdoDqZsqWlflxEIg0F3) | 3:10 |
-| 36 | [Lose Yourself \- From "8 Mile" Soundtrack](https://open.spotify.com/track/6GkTKjv1XbFVdI2D8vvDPu) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [8 Mile \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/353HFOqGHySp027oyr3aGs) | 5:20 |
+| 36 | [Lose Yourself](https://open.spotify.com/track/6GkTKjv1XbFVdI2D8vvDPu) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [8 Mile \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/353HFOqGHySp027oyr3aGs) | 5:20 |
 | 37 | [Betty et Zorg](https://open.spotify.com/track/6vHmR3htXYkcXoKf6ktNfu) | [Gabriel Yared](https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB) | [37°2 le matin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2pIZNnAgeWIrWGyZb3Etrt) | 2:30 |
 | 38 | [Summer Nights \- From “Grease”](https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 3:36 |
 | 39 | [Love Theme From "The Godfather"](https://open.spotify.com/track/39zu6JGd6tvRNsqyK78RLk) | [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo), [Carlo Savina](https://open.spotify.com/artist/0JPH3a8DUy38JvZsdhmEnC) | [The Godfather](https://open.spotify.com/album/5CeLOKEJeP3EpEdT9v2lep) | 2:38 |

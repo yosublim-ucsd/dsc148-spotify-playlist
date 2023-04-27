@@ -1,12 +1,12 @@
 {
   "description": "For all of us dancing on our own.",
-  "num_followers": 530297,
+  "num_followers": 530572,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDk3MjI0NSwwMDAwMDAwMGQ5Mjg2OGYxZmY2YjRlZDZhOWZjNTk0NmE0YWMwZGY1",
+  "snapshot_id": "MTY4MDk3MjI0NSwwMDAwMDAwMDFkMTRlOWY0NzQyZGZmNzcyY2M2NjcxMGFmMjI0ZGVh",
   "tracks": [
     {
       "added_at": "2023-04-08 16:44:05",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-04-08 16:44:05",
       "album": {
-        "name": "rubberband",
-        "url": "https://open.spotify.com/album/3CWYvhScPEskXPOYiXG8SH"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 147713,
-      "name": "rubberband",
-      "url": "https://open.spotify.com/track/05ABOPiW13nqIedJfqmfPM"
-    },
-    {
-      "added_at": "2023-04-08 16:44:05",
-      "album": {
         "name": "echo",
         "url": "https://open.spotify.com/album/2qd2ATRD78bQFtyYsSzxxg"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 198750,
       "name": "echo",
       "url": "https://open.spotify.com/track/4rdIhBrlaAOPnlTlugZBgz"
+    },
+    {
+      "added_at": "2023-04-08 16:44:05",
+      "album": {
+        "name": "rubberband",
+        "url": "https://open.spotify.com/album/3CWYvhScPEskXPOYiXG8SH"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 147713,
+      "name": "rubberband",
+      "url": "https://open.spotify.com/track/05ABOPiW13nqIedJfqmfPM"
     },
     {
       "added_at": "2023-04-08 16:44:05",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-04-08 16:44:05",
       "album": {
-        "name": "Looks Like Me",
-        "url": "https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 190527,
-      "name": "Looks Like Me",
-      "url": "https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA"
-    },
-    {
-      "added_at": "2023-04-08 16:44:05",
-      "album": {
         "name": "aftermath",
         "url": "https://open.spotify.com/album/1fwElcYJZ9su3GXu627HNs"
       },
@@ -855,6 +839,22 @@
     {
       "added_at": "2023-04-08 16:44:05",
       "album": {
+        "name": "Looks Like Me",
+        "url": "https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 190527,
+      "name": "Looks Like Me",
+      "url": "https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA"
+    },
+    {
+      "added_at": "2023-04-08 16:44:05",
+      "album": {
         "name": "Hopeless Romantic",
         "url": "https://open.spotify.com/album/0sKJKrBhK5gYDdN39fLYb2"
       },
@@ -867,26 +867,6 @@
       "duration_ms": 181178,
       "name": "Hopeless Romantic",
       "url": "https://open.spotify.com/track/22VPpAWB7qzV8L9rgza11j"
-    },
-    {
-      "added_at": "2023-04-08 16:44:05",
-      "album": {
-        "name": "Stupid Feelings",
-        "url": "https://open.spotify.com/album/4VKGR1IZuTV7lJRh9oDJJa"
-      },
-      "artists": [
-        {
-          "name": "220 KID",
-          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
-        },
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 166924,
-      "name": "Stupid Feelings",
-      "url": "https://open.spotify.com/track/7iUB3byx9Rcks8zW10JVkP"
     },
     {
       "added_at": "2023-04-08 16:44:05",
@@ -919,6 +899,26 @@
       "duration_ms": 204179,
       "name": "Tornado Warnings",
       "url": "https://open.spotify.com/track/5kcuHw8WtxauIWI5crMcLM"
+    },
+    {
+      "added_at": "2023-04-08 16:44:05",
+      "album": {
+        "name": "Stupid Feelings",
+        "url": "https://open.spotify.com/album/4VKGR1IZuTV7lJRh9oDJJa"
+      },
+      "artists": [
+        {
+          "name": "220 KID",
+          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
+        },
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 166924,
+      "name": "Stupid Feelings",
+      "url": "https://open.spotify.com/track/7iUB3byx9Rcks8zW10JVkP"
     },
     {
       "added_at": "2023-04-08 16:44:05",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-04-08 16:44:05",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 243186,
-      "name": "Happy & Sad",
-      "url": "https://open.spotify.com/track/04MoJkJzCoU9ukeewv5Vzu"
-    },
-    {
-      "added_at": "2023-04-08 16:44:05",
-      "album": {
         "name": "I'm Not Dead Yet",
         "url": "https://open.spotify.com/album/1yMUi2EXhNKenf6rHEu7AT"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 178852,
       "name": "I'm Not Dead Yet",
       "url": "https://open.spotify.com/track/0UCPhf8taREU3GMhFMoNKN"
+    },
+    {
+      "added_at": "2023-04-08 16:44:05",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 243186,
+      "name": "Happy & Sad",
+      "url": "https://open.spotify.com/track/04MoJkJzCoU9ukeewv5Vzu"
     },
     {
       "added_at": "2023-04-08 16:44:05",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2023-04-08 16:44:05",
       "album": {
-        "name": "Not Sad Anymore",
-        "url": "https://open.spotify.com/album/7Ils0W77mr7zmvy9MKZRcN"
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz"
       },
       "artists": [
         {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 195563,
-      "name": "Not Sad Anymore",
-      "url": "https://open.spotify.com/track/1AHa2iLVTyjMisXwg0oMh1"
+      "duration_ms": 200523,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq"
     },
     {
       "added_at": "2023-04-08 16:44:05",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-04-08 16:44:05",
       "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz"
+        "name": "Not Sad Anymore",
+        "url": "https://open.spotify.com/album/7Ils0W77mr7zmvy9MKZRcN"
       },
       "artists": [
         {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
         }
       ],
-      "duration_ms": 200523,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq"
+      "duration_ms": 195563,
+      "name": "Not Sad Anymore",
+      "url": "https://open.spotify.com/track/1AHa2iLVTyjMisXwg0oMh1"
     },
     {
       "added_at": "2023-04-08 16:44:05",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-04-08 16:44:05",
       "album": {
-        "name": "AudioLust & HigherLove",
-        "url": "https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 216018,
-      "name": "Oh Laura",
-      "url": "https://open.spotify.com/track/2Lq7rOLcBBTvBa86k1YTW0"
-    },
-    {
-      "added_at": "2023-04-08 16:44:05",
-      "album": {
         "name": "24",
         "url": "https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2023-04-08 16:44:05",
       "album": {
-        "name": "star-crossed",
-        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
+        "name": "AudioLust & HigherLove",
+        "url": "https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
         }
       ],
-      "duration_ms": 167120,
-      "name": "simple times",
-      "url": "https://open.spotify.com/track/1lNEXDlxVhsWaq2DLBUDgC"
+      "duration_ms": 216018,
+      "name": "Oh Laura",
+      "url": "https://open.spotify.com/track/2Lq7rOLcBBTvBa86k1YTW0"
     },
     {
       "added_at": "2023-04-08 16:44:05",
@@ -1263,6 +1247,22 @@
       "duration_ms": 197197,
       "name": "Halfway",
       "url": "https://open.spotify.com/track/3dKMVCShHl7cT4IMoxj8x0"
+    },
+    {
+      "added_at": "2023-04-08 16:44:05",
+      "album": {
+        "name": "star-crossed",
+        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 167120,
+      "name": "simple times",
+      "url": "https://open.spotify.com/track/1lNEXDlxVhsWaq2DLBUDgC"
     }
   ],
   "unique_name": "Sad Bops",

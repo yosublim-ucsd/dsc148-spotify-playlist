@@ -1,12 +1,12 @@
 {
   "description": "Con mucha dulzura y sabor para un momento de relax. ",
-  "num_followers": 40283,
+  "num_followers": 40327,
   "original_name": "Caf\u00e9 de Olla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjMwMjY4MCwwMDAwMDAwMGQ0NjhmYTkwNWI1NDkzNjdhOWQ3ZmNlNTk3NGIyNDJk",
+  "snapshot_id": "MTY3NjMwMjY4MCwwMDAwMDAwMDkzOWJlNzk0NjdlMzVhMGFkNmUzYWI5ZjNlMGE5MTA3",
   "tracks": [
     {
       "added_at": "2022-09-23 18:17:22",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Serie De Coleccion 15 Autenticos",
-        "url": "https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "En Mi Viejo San Juan",
-      "url": "https://open.spotify.com/track/3Cd9Lzxyqarjifb1T76W68"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "A 10 a\u00f1os....un recuerdo permanente",
         "url": "https://open.spotify.com/album/1kjh1Y0RyHMdXLQWJqkf4R"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 195480,
       "name": "Paloma negra",
       "url": "https://open.spotify.com/track/7cOZAzuSGF7y4pNX35B7yq"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "Serie De Coleccion 15 Autenticos",
+        "url": "https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "En Mi Viejo San Juan",
+      "url": "https://open.spotify.com/track/3Cd9Lzxyqarjifb1T76W68"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Cuando Te Duermas",
-        "url": "https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT"
-      },
-      "artists": [
-        {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
-        }
-      ],
-      "duration_ms": 162927,
-      "name": "Cuando Te Duermas",
-      "url": "https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "Serenata Huasteca",
         "url": "https://open.spotify.com/album/0t2VyqSCljrNyXjycI0ilk"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 123266,
       "name": "Serenata Huasteca",
       "url": "https://open.spotify.com/track/65usXCf1MJ1JlWy848Q0Jy"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "Cuando Te Duermas",
+        "url": "https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT"
+      },
+      "artists": [
+        {
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+        }
+      ],
+      "duration_ms": 162927,
+      "name": "Cuando Te Duermas",
+      "url": "https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -543,6 +543,22 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
+        "name": "Te Extra\u00f1o",
+        "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
+      },
+      "artists": [
+        {
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+        }
+      ],
+      "duration_ms": 152874,
+      "name": "Te Extran\u0303o",
+      "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
         "name": "Ya Te Olvide",
         "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 201021,
       "name": "Luna Orgullosa",
       "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
-        "name": "Te Extra\u00f1o",
-        "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
-      },
-      "artists": [
-        {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
-        }
-      ],
-      "duration_ms": 152874,
-      "name": "Te Extran\u0303o",
-      "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -691,26 +691,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Guitarras Mexicanas, Vol. 2",
-        "url": "https://open.spotify.com/album/28QGhzJl7Ylj9cTWZgJY9b"
-      },
-      "artists": [
-        {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Duo: Ramos - Monterrubio",
-          "url": "https://open.spotify.com/artist/22qABRiNfRlmXEaSVX8mI3"
-        }
-      ],
-      "duration_ms": 256613,
-      "name": "Serenata Campechana",
-      "url": "https://open.spotify.com/track/1PHnNuRYKdQDCaPuyh03n4"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "Parece Que Fue Ayer",
         "url": "https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64"
       },
@@ -723,6 +703,22 @@
       "duration_ms": 168250,
       "name": "Parece Que Fue Ayer",
       "url": "https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "Siempre Te Amare",
+        "url": "https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4"
+      },
+      "artists": [
+        {
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+        }
+      ],
+      "duration_ms": 149750,
+      "name": "Siempre Te Amare",
+      "url": "https://open.spotify.com/track/3chlEDJ4tTR1WnitKFVxrB"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -743,18 +739,22 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Siempre Te Amare",
-        "url": "https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4"
+        "name": "Guitarras Mexicanas, Vol. 2",
+        "url": "https://open.spotify.com/album/28QGhzJl7Ylj9cTWZgJY9b"
       },
       "artists": [
         {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Duo: Ramos - Monterrubio",
+          "url": "https://open.spotify.com/artist/22qABRiNfRlmXEaSVX8mI3"
         }
       ],
-      "duration_ms": 149750,
-      "name": "Siempre Te Amare",
-      "url": "https://open.spotify.com/track/3chlEDJ4tTR1WnitKFVxrB"
+      "duration_ms": 256613,
+      "name": "Serenata Campechana",
+      "url": "https://open.spotify.com/track/1PHnNuRYKdQDCaPuyh03n4"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -799,34 +799,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
-      },
-      "artists": [
-        {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        },
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        }
-      ],
-      "duration_ms": 191794,
-      "name": "Ven",
-      "url": "https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "Las Favoritas de David Zaizar",
         "url": "https://open.spotify.com/album/5UNpgO6yxJKjItZrmKM9m3"
       },
@@ -859,6 +831,34 @@
       "duration_ms": 180400,
       "name": "Presentimiento",
       "url": "https://open.spotify.com/track/4i5oTNy1YUFjKDPyeRgSPQ"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        },
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        }
+      ],
+      "duration_ms": 191794,
+      "name": "Ven",
+      "url": "https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "El Viaje",
-        "url": "https://open.spotify.com/album/44HzmqeXrVMkV4XCAb4Muv"
-      },
-      "artists": [
-        {
-          "name": "Juan Jose Moreno",
-          "url": "https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P"
-        }
-      ],
-      "duration_ms": 168196,
-      "name": "El Viaje",
-      "url": "https://open.spotify.com/track/2YFGFwuUBprxAXQjVHS4Q3"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "Wasi",
         "url": "https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 152663,
       "name": "Me Estas Haciendo Falta",
       "url": "https://open.spotify.com/track/5V0WQGIPkrEgpgQAOaGBif"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "El Viaje",
+        "url": "https://open.spotify.com/album/44HzmqeXrVMkV4XCAb4Muv"
+      },
+      "artists": [
+        {
+          "name": "Juan Jose Moreno",
+          "url": "https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P"
+        }
+      ],
+      "duration_ms": 168196,
+      "name": "El Viaje",
+      "url": "https://open.spotify.com/track/2YFGFwuUBprxAXQjVHS4Q3"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
+        "name": "Si Te Pudiera Mentir",
+        "url": "https://open.spotify.com/album/2h07qjmYJBW1GZUN5DUYeW"
+      },
+      "artists": [
+        {
+          "name": "Jenny Thorn",
+          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
+        }
+      ],
+      "duration_ms": 289565,
+      "name": "Si Te Pudiera Mentir",
+      "url": "https://open.spotify.com/track/3kET1UwTaKPpOZI8DyioyE"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
         "name": "Trio Azteca: Folk Songs and Ballads",
         "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
       },
@@ -1283,18 +1299,18 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Si Te Pudiera Mentir",
-        "url": "https://open.spotify.com/album/2h07qjmYJBW1GZUN5DUYeW"
+        "name": "Un Rinconcito En El Cielo",
+        "url": "https://open.spotify.com/album/6wofcdCM7B5k6L8j6QI7b0"
       },
       "artists": [
         {
-          "name": "Jenny Thorn",
-          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
+          "name": "M.O.Y.A.",
+          "url": "https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf"
         }
       ],
-      "duration_ms": 289565,
-      "name": "Si Te Pudiera Mentir",
-      "url": "https://open.spotify.com/track/3kET1UwTaKPpOZI8DyioyE"
+      "duration_ms": 251294,
+      "name": "Un Rinconcito En El Cielo",
+      "url": "https://open.spotify.com/track/6xVlBIOtzHAKsl3Wuct2qK"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1315,22 +1331,6 @@
       "duration_ms": 302093,
       "name": "Cucurrucuc\u00fa paloma",
       "url": "https://open.spotify.com/track/6JFqN2RNAlaHkskkf1wUtE"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
-        "name": "Un Rinconcito En El Cielo",
-        "url": "https://open.spotify.com/album/6wofcdCM7B5k6L8j6QI7b0"
-      },
-      "artists": [
-        {
-          "name": "M.O.Y.A.",
-          "url": "https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf"
-        }
-      ],
-      "duration_ms": 251294,
-      "name": "Un Rinconcito En El Cielo",
-      "url": "https://open.spotify.com/track/6xVlBIOtzHAKsl3Wuct2qK"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "A Traves Del Vaso",
-        "url": "https://open.spotify.com/album/3Bd1WTH6KioFvYuv8Z0hOB"
-      },
-      "artists": [
-        {
-          "name": "Yolanda Streep",
-          "url": "https://open.spotify.com/artist/3RAcfMK8AOdXDGe5IM4CV8"
-        }
-      ],
-      "duration_ms": 200569,
-      "name": "A Traves Del Vaso",
-      "url": "https://open.spotify.com/track/1hkqXThaFrtIvAtH1Pq7zz"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "Aguanta Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0YIQTg5FStD73KRP1UnCI1"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 192000,
       "name": "Aguanta Coraz\u00f3n",
       "url": "https://open.spotify.com/track/260DEH0xnh9AN73FdKkuYX"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "A Traves Del Vaso",
+        "url": "https://open.spotify.com/album/3Bd1WTH6KioFvYuv8Z0hOB"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Streep",
+          "url": "https://open.spotify.com/artist/3RAcfMK8AOdXDGe5IM4CV8"
+        }
+      ],
+      "duration_ms": 200569,
+      "name": "A Traves Del Vaso",
+      "url": "https://open.spotify.com/track/1hkqXThaFrtIvAtH1Pq7zz"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/5bl2leCLhSGFwpjEndig0D"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Arco Iris",
-          "url": "https://open.spotify.com/artist/5TxkKchbD0Joui6g9sUwna"
-        }
-      ],
-      "duration_ms": 202849,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/167gl31uOXmVYazZz5TDhx"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "Una Vez Mas",
         "url": "https://open.spotify.com/album/3J0EfavosSEhLq5BeZgtqw"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 127068,
       "name": "Brisas",
       "url": "https://open.spotify.com/track/2fnzfTG0Cg1nkI0tboLzzx"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/5bl2leCLhSGFwpjEndig0D"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Arco Iris",
+          "url": "https://open.spotify.com/artist/5TxkKchbD0Joui6g9sUwna"
+        }
+      ],
+      "duration_ms": 202849,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/167gl31uOXmVYazZz5TDhx"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1743,18 +1743,18 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Mexico: 20 Best Mariachi and Folk Songs",
-        "url": "https://open.spotify.com/album/056QcfXOgyiTK2LKaeJ5Y9"
+        "name": "Recuerdos De Mi Tierra",
+        "url": "https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe"
       },
       "artists": [
         {
-          "name": "De Norte A Sur",
-          "url": "https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15"
+          "name": "Mariachi Premier",
+          "url": "https://open.spotify.com/artist/3zUi6YMPFd66AglMtvVoea"
         }
       ],
-      "duration_ms": 171600,
-      "name": "La hiedra (arr. R. Jonas)",
-      "url": "https://open.spotify.com/track/4XxMsPO1y0bIApGUdgMvHm"
+      "duration_ms": 181292,
+      "name": "Se Me Olvido Otra Vez",
+      "url": "https://open.spotify.com/track/2BJXH3hopfuJy4dTrb1gwj"
     }
   ],
   "unique_name": "Caf\u00e9 de Olla",

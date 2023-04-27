@@ -4,7 +4,7 @@
 
 > this heylog song is crazy\. Cover: 100 gecs
 
-1,695 songs - 3 day 5 hr 7 min
+1,696 songs - 3 day 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1605,6 +1605,7 @@
 | [Vroom Vroom](https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Vroom Vroom EP](https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd) | 3:13 | 2021-01-31 |  |
 | [Vuelta](https://open.spotify.com/track/0xRwEsX4B7WacHUanmLKfx) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Vuelta](https://open.spotify.com/album/4ckd6UkFnBLYRw2sCcWBTU) | 3:05 | 2021-08-13 | 2022-01-13 |
 | [VYZEE](https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [VYZEE](https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe) | 3:22 | 2021-01-31 | 2021-02-10 |
+| [w.t.f.](https://open.spotify.com/track/6AEGEWR9iweeQhG6JuUVQC) | [DJ Re:Code](https://open.spotify.com/artist/04r9MV32OBMdMv1eJ9I1CP) | [w.t.f.](https://open.spotify.com/album/5uHu0JCTbExKjtxdjdYDFi) | 3:07 | 2023-04-26 |  |
 | [wait 4 it](https://open.spotify.com/track/4yW98jsU14f9JWls8uhWAC) | [oaf1](https://open.spotify.com/artist/3x2XRFCUMHeXZ9uRit3pKu), [Capoxxo](https://open.spotify.com/artist/4lDzMjsz7xLw4CFmfWJmWJ) | [wait 4 it](https://open.spotify.com/album/68pMdgI3ttrACwRDOrKFfF) | 2:45 | 2020-11-20 | 2021-02-10 |
 | [WAIT4U](https://open.spotify.com/track/5SNxE1iXQUPNraPqVHVbcB) | [4kmirage](https://open.spotify.com/artist/1FQzmo7dOVfYK1pnKtD1VT), [j5mes](https://open.spotify.com/artist/4KExowjusScaAmwZrmbmqA), [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj) | [WAIT4U](https://open.spotify.com/album/5SewqSsYQlbvzkVIBXWBBJ) | 2:55 | 2021-10-16 | 2021-10-30 |
 | [wake up](https://open.spotify.com/track/6Ob06Vsx0e7aVgXnabDWJ5) | [b2nny](https://open.spotify.com/artist/2tbEf5RXMJ4XXwssBVlJ2B) | [seeker](https://open.spotify.com/album/5u1j8Jx5p8PXcOyb7yIcoi) | 2:26 | 2022-07-24 | 2022-10-08 |

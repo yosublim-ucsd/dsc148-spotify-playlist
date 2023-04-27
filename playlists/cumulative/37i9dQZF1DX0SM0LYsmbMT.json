@@ -5754,7 +5754,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-27",
       "duration_ms": 111000,
       "name": "beyond the pines",
       "url": "https://open.spotify.com/track/3eWpsLe9tMeSAAEnPN8OGA"
@@ -22434,6 +22434,28 @@
       "duration_ms": 101600,
       "name": "Golden Clouds",
       "url": "https://open.spotify.com/track/71diIhkJKn0xmL7bSdq7HN"
+    },
+    {
+      "album": {
+        "name": "Golden Hour // Caught By The Sun",
+        "url": "https://open.spotify.com/album/1bxveAoae2sLo1Tan909KL"
+      },
+      "artists": [
+        {
+          "name": "Beta Beat",
+          "url": "https://open.spotify.com/artist/5om7d89XzwR16u36EyuRSk"
+        },
+        {
+          "name": "Jazzy James",
+          "url": "https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158437,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/0yyx3bhJNG0QitkU7sG6MF"
     },
     {
       "album": {

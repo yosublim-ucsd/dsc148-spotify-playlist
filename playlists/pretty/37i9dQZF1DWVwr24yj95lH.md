@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 
 ### [Post\-Grunge Society](https://open.spotify.com/playlist/37i9dQZF1DWVwr24yj95lH)
 
-> The best Grunge heirs' songs\. Cover: Seether
+> The best Grunge heirs' songs\. Cover: Staind
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,305 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,633 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 51 | [Meant to Live](https://open.spotify.com/track/2md2i5QvelRFnafpnd6LOg) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [The Beautiful Letdown \(Deluxe Version\)](https://open.spotify.com/album/2mIYia4lSO1NCSFGGGGNR9) | 3:21 |
 | 52 | [Doesn't Remind Me](https://open.spotify.com/track/0o995gJCGebaza0LWybToU) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Out of Exile](https://open.spotify.com/album/0HQhToIjonHnJRRPN4jeJU) | 4:15 |
 | 53 | [Hey Man, Nice Shot \- Remastered Version](https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Short Bus](https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV) | 5:14 |
-| 54 | [Comedown](https://open.spotify.com/track/2ox1STg6AbcEHoHWlFtFwr) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(Remastered\)](https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y) | 5:26 |
-| 55 | [Vitamin R \(Leading Us Along\)](https://open.spotify.com/track/04NGX0b5Tgs7VsErfn5OA1) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [This Type Of Thinking \(Could Do Us In\)](https://open.spotify.com/album/3zuIMH8P0GKtV5LR6zwGLB) | 3:43 |
+| 54 | [Vitamin R \(Leading Us Along\)](https://open.spotify.com/track/04NGX0b5Tgs7VsErfn5OA1) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [This Type Of Thinking \(Could Do Us In\)](https://open.spotify.com/album/3zuIMH8P0GKtV5LR6zwGLB) | 3:43 |
+| 55 | [Comedown](https://open.spotify.com/track/2ox1STg6AbcEHoHWlFtFwr) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(Remastered\)](https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y) | 5:26 |
 | 56 | [Trippin' on a Hole in a Paper Heart](https://open.spotify.com/track/2gdtLnVGGg80Kj9GiqP0vH) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Tiny Music...Songs from the Vatican Gift Shop](https://open.spotify.com/album/2JJEIN6LvQJQTJDfnYdDAe) | 2:55 |
 | 57 | [What If](https://open.spotify.com/track/22bX2FwXSvG49G0bPWm5nc) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [Human Clay](https://open.spotify.com/album/3Nyjm9NBEdiaiWr2BEaV46) | 5:18 |
-| 58 | [Freak](https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:46 |
-| 59 | [Away From The Sun](https://open.spotify.com/track/3THdexHRmED4euIY91Zrxc) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:52 |
+| 58 | [Away From The Sun](https://open.spotify.com/track/3THdexHRmED4euIY91Zrxc) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:52 |
+| 59 | [Freak](https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:46 |
 | 60 | [Wasting My Time](https://open.spotify.com/track/5dpAN1mjFPL38kh9kWsCiw) | [Default](https://open.spotify.com/artist/4nCzT3o7lMgCWBcmdwCMsT) | [The Fallout \(Limited Edition\)](https://open.spotify.com/album/7IUXXDlKqqLRkJLXrrhXCo) | 4:29 |
 | 61 | [Watch Over You](https://open.spotify.com/track/7kxfWvj6u9oWQ5C36kMtGb) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Blackbird](https://open.spotify.com/album/21lOBQT94kjWSiYQbpm3RG) | 4:19 |
 | 62 | [1000hp](https://open.spotify.com/track/2DpLoT8qfJdZhsLGFg413r) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [1000hp](https://open.spotify.com/album/23nOachDR5dUA2iLlvvwT3) | 3:46 |
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 65 | [Slow Chemical](https://open.spotify.com/track/2h5Kce0Vt3PWgMYkYuUL3E) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [The Punisher: The Album](https://open.spotify.com/album/35bHrnMSA8aZ0P5nemqhIp) | 3:18 |
 | 66 | [Bottom of a Bottle](https://open.spotify.com/track/3EmNjy3zFszmAOCikiKxCd) | [Smile Empty Soul](https://open.spotify.com/artist/1KEUVZo7CMTSJoM8doulOT) | [Shapeshifter](https://open.spotify.com/album/4t8bZNqNroLlMNj8p908VL) | 3:41 |
 | 67 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 |
-| 68 | [Anthem For The Underdog](https://open.spotify.com/track/6FFwt1ea9hJ4MfMQLywahm) | [12 Stones](https://open.spotify.com/artist/0DrXhci3WAyo0WJv1RBOG6) | [Anthem For The Underdog \(Bonus Track Version\)](https://open.spotify.com/album/2Qp0yu0Uaw3C83YNYqfgdv) | 3:04 |
+| 68 | [Selling The Drama](https://open.spotify.com/track/5y9ivD2g37FSCEJpfhG7d5) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | 3:25 |
 | 69 | [Open Your Eyes](https://open.spotify.com/track/3Gbyl3XZVeEcnFPiiPR09n) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [One Day Remains](https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx) | 4:58 |
-| 70 | [Selling The Drama](https://open.spotify.com/track/5y9ivD2g37FSCEJpfhG7d5) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | 3:25 |
+| 70 | [Anthem For The Underdog](https://open.spotify.com/track/6FFwt1ea9hJ4MfMQLywahm) | [12 Stones](https://open.spotify.com/artist/0DrXhci3WAyo0WJv1RBOG6) | [Anthem For The Underdog \(Bonus Track Version\)](https://open.spotify.com/album/2Qp0yu0Uaw3C83YNYqfgdv) | 3:04 |
 | 71 | [So Cold](https://open.spotify.com/track/3xXKwkmkrpZmGpIof83xbE) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Shallow Bay: The Best Of Breaking Benjamin \(Explicit\)](https://open.spotify.com/album/68pVw4aHEP73HmIufK0gvP) | 4:33 |
 | 72 | [You](https://open.spotify.com/track/5J19HPdmJHOEu32iyZEt5k) | [Candlebox](https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n) | [Candlebox](https://open.spotify.com/album/401V2sVeZfq8bjBqojsPRb) | 4:57 |
 | 73 | [Stacked Actors](https://open.spotify.com/track/1vziI0NCJKrqKiG94COHBa) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 4:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 99 | [Bulletproof Skin](https://open.spotify.com/track/1E5ftzZvJLOICYQ0oYDHID) | [Institute](https://open.spotify.com/artist/5dw20y4c03uTJPC7rKoDtS) | [Distort Yourself](https://open.spotify.com/album/5oKTgRe1bSLIkZ39pwHqrj) | 4:25 |
 | 100 | [Cumbersome](https://open.spotify.com/track/6XmpvInnm4EgCUgXMTqIRR) | [Seven Mary Three](https://open.spotify.com/artist/2zsLaQhHFdQPdFXqG1nRmM) | [Churn](https://open.spotify.com/album/6vnsykSsmiy1etv3krbC5T) | 6:02 |
 
-Snapshot ID: `MTY3MjgyMjYzNSwwMDAwMDAwMGYxYzZkZmUyYzQ0MmEwMDM1MzRmYzE2M2Q4MWQ0ZTRh`
+Snapshot ID: `MTY3MjgyMjYzNSwwMDAwMDAwMDU2MTIwZDQ4ZTBmYTYxMGNkY2Q5Yzg4M2MyNmYxODBm`

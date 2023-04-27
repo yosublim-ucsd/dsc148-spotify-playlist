@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country Music that ROCKS!! Cover: Brothers Osborne
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,670 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,948 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 44 | [Homeboy](https://open.spotify.com/track/29aSfWddeZJCfnrcMb20sy) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:47 |
 | 45 | [Hillbilly \(featuring Elvie Shane and Ketch Secor of Old Crow Medicine Show\)](https://open.spotify.com/track/2Msuy0psLMrdPN01WZo6BE) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x), [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j), [Ketch Secor](https://open.spotify.com/artist/2aqTRwwChQlJmPzvR0C227) | [Hillbilly \(featuring Elvie Shane and Ketch Secor of Old Crow Medicine Show\)](https://open.spotify.com/album/47PyPMhWpNNhQUX7DIUWSH) | 3:03 |
 | 46 | [Heavy Pour](https://open.spotify.com/track/1uGpJd6f7VTYaDPKqoV1Cz) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes the Album](https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU) | 2:27 |
-| 47 | [She's No Good for Me](https://open.spotify.com/track/4dmNC1afkVZKr5RfHkaj0E) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [She's No Good for Me](https://open.spotify.com/album/0guJBJw9wfICcXsEBgyHyu) | 3:25 |
-| 48 | [Fire On Wheels](https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Fire On Wheels](https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7) | 2:36 |
+| 47 | [Fire On Wheels](https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Fire On Wheels](https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7) | 2:36 |
+| 48 | [She's No Good for Me](https://open.spotify.com/track/4dmNC1afkVZKr5RfHkaj0E) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [She's No Good for Me](https://open.spotify.com/album/0guJBJw9wfICcXsEBgyHyu) | 3:25 |
 | 49 | [Hate My Heart](https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:03 |
 | 50 | [Good Thing](https://open.spotify.com/track/1pjwRbcx1M0MrUTvSRGCgu) | [Joey Hyde](https://open.spotify.com/artist/6zAROtrmmahss9R8KCCWRo) | [I Made a Record](https://open.spotify.com/album/288iPS5cLnvwOYbtLc22uq) | 3:11 |
 | 51 | [County Roads](https://open.spotify.com/track/6i0VZ0uDSkj669YuEi1oa3) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Backslider](https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY) | 3:11 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 57 | [Home Team](https://open.spotify.com/track/4XPefX4QY9EWhrwLL528Fc) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Home Team](https://open.spotify.com/album/4zlBDJa1ZOoiy7R6AVD5Hd) | 3:16 |
 | 58 | [Waiting for the Thunder](https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:07 |
 | 59 | [April Showers](https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [April Showers](https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX) | 3:02 |
-| 60 | [Wait Outside](https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy](https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu) | 3:21 |
-| 61 | [I Only Date Cowboys](https://open.spotify.com/track/0Jq7igSKyTZxkvLoqr0bsX) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [I Only Date Cowboys](https://open.spotify.com/album/6haivFChfJxUDTm0DytCpI) | 2:56 |
+| 60 | [I Only Date Cowboys](https://open.spotify.com/track/0Jq7igSKyTZxkvLoqr0bsX) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [I Only Date Cowboys](https://open.spotify.com/album/6haivFChfJxUDTm0DytCpI) | 2:56 |
+| 61 | [Wait Outside](https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy](https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu) | 3:21 |
 | 62 | [Black Motorcycle](https://open.spotify.com/track/0kUhkfPFkj5WNkGOKjoQxb) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Black Motorcycle](https://open.spotify.com/album/3wDgQbUdgEP3CgQOullMeo) | 3:16 |
 | 63 | [Cottonmouth \(Rock Mix\)](https://open.spotify.com/track/0wCXdCprsEdga0yF9rBuFp) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Cottonmouth \(Rock Mix\) \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/album/6ddfTbi21HXRpqGNTmswOL) | 2:45 |
 | 64 | [Call It Country](https://open.spotify.com/track/1H5I9ObhTNdSvcIJnM5CoT) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Call It Country](https://open.spotify.com/album/2eqtyCMsctct0i1SWDHN2h) | 2:31 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 89 | [Tabasco & Sweet Tea](https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Tabasco & Sweet Tea](https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA) | 4:40 |
 | 90 | [Make Matters Worse](https://open.spotify.com/track/7EUoEK6keyGlntdRJ6rKYK) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [Make Matters Worse](https://open.spotify.com/album/0vSu0riQ2DRPIUu8ZfXgKI) | 3:40 |
 | 91 | [Cloud of Dust \(feat\. The Gronkowski Brothers\)](https://open.spotify.com/track/6ttWS9HFc1fkvIjPTko8EJ) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ), [The Gronkowski Brothers](https://open.spotify.com/artist/3P5Gy7HVsYRKZW5rQf08u3) | [Cloud of Dust \(feat\. The Gronkowski Brothers\)](https://open.spotify.com/album/72EWD9Ef18RP1lV5jQ9bCC) | 2:49 |
-| 92 | [Hurt No More](https://open.spotify.com/track/3qJ5OBunIPNIvU4WAI6RYh) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Hurt No More](https://open.spotify.com/album/2XYMwjnmcRzpGAPmJQrQyG) | 3:34 |
-| 93 | [Till the Wheels Fall Off](https://open.spotify.com/track/5jsFP9UeOXngDEslmUVozc) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Find a Light](https://open.spotify.com/album/3l5leCt5ddRcUmcQvx1KG7) | 3:45 |
-| 94 | [There's Always Next Year](https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | ['21](https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj) | 2:49 |
+| 92 | [There's Always Next Year](https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | ['21](https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj) | 2:49 |
+| 93 | [Hurt No More](https://open.spotify.com/track/3qJ5OBunIPNIvU4WAI6RYh) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Hurt No More](https://open.spotify.com/album/2XYMwjnmcRzpGAPmJQrQyG) | 3:34 |
+| 94 | [Till the Wheels Fall Off](https://open.spotify.com/track/5jsFP9UeOXngDEslmUVozc) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Find a Light](https://open.spotify.com/album/3l5leCt5ddRcUmcQvx1KG7) | 3:45 |
 | 95 | [Lone Wolf](https://open.spotify.com/track/2Q9oePSJXYu74fE3ZUR5XX) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [&](https://open.spotify.com/album/3QFQRHFIQtlPKxzmBXNoyF) | 3:40 |
 | 96 | [Whole World Gone Crazy](https://open.spotify.com/track/6sEVFnBN97Fcq065OsUMVI) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Whole World Gone Crazy](https://open.spotify.com/album/7GhLQmRmvFJUu2jcoNyJur) | 3:04 |
 | 97 | [No Reservations](https://open.spotify.com/track/79AEKFhmY4nu5sdPYBWxMy) | [Alex Williams](https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl) | [No Reservations](https://open.spotify.com/album/62g1Wa2a6lKjl4wRvzTyqq) | 3:44 |
-| 98 | [Wrong Right Now](https://open.spotify.com/track/3eYGnIYCmbijn1IJQiDIb0) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Neon Grave EP](https://open.spotify.com/album/5ofgQK2bhBfCwK3MstIGez) | 3:09 |
+| 98 | [Ain't My Day](https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Ain't My Day](https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61) | 3:21 |
 | 99 | [All of These Years](https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Old News](https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY) | 4:11 |
-| 100 | [Ain't My Day](https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Ain't My Day](https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61) | 3:21 |
+| 100 | [Wrong Right Now](https://open.spotify.com/track/3eYGnIYCmbijn1IJQiDIb0) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Neon Grave EP](https://open.spotify.com/album/5ofgQK2bhBfCwK3MstIGez) | 3:09 |
 
-Snapshot ID: `MTY4MjA4ODMzMiwwMDAwMDAwMDMwZmE3MGNhMGFhODYxYjhlNDdmMzkzYmQ5N2Y0YjZi`
+Snapshot ID: `MTY4MjA4ODMzMiwwMDAwMDAwMDIwZjlhYzNlOWI1NjVkMTk4NDc2ZGJiMzRiOTUwZDA5`

@@ -1,12 +1,12 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 252133,
+  "num_followers": 252292,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MzE0NDEyMCwwMDAwMDAwMDllYWU0MTM5NTgzODY5ZTZjNGUwMDcwOGExMzhhMGNk",
+  "snapshot_id": "MTU5MzE0NDEyMCwwMDAwMDAwMDJkZDUxZWNlYWE1OTZkYjQ4MGMwMjE0MzYwZjRmNWJl",
   "tracks": [
     {
       "added_at": "2020-06-26 04:02:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Glory & Wonder",
-        "url": "https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        }
-      ],
-      "duration_ms": 309093,
-      "name": "Tremble - Live",
-      "url": "https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Great Are You Lord EP",
         "url": "https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 232379,
       "name": "Great Are You Lord",
       "url": "https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Glory & Wonder",
+        "url": "https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "duration_ms": 309093,
+      "name": "Tremble - Live",
+      "url": "https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -263,22 +263,18 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "People (Live)",
-        "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
+        "name": "Death Of Death",
+        "url": "https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C"
       },
       "artists": [
         {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+          "name": "Life.Church Worship",
+          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
         }
       ],
-      "duration_ms": 449253,
-      "name": "Whole Heart (Hold Me Now) - Live",
-      "url": "https://open.spotify.com/track/3XkNkpfHFB0hoS13DdzJup"
+      "duration_ms": 217000,
+      "name": "Where The Spirit Of The Lord Is",
+      "url": "https://open.spotify.com/track/7aEJ4hXCfjeWO2zq4tyCT9"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -315,18 +311,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Death Of Death",
-        "url": "https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C"
+        "name": "People (Live)",
+        "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
       },
       "artists": [
         {
-          "name": "Life.Church Worship",
-          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Where The Spirit Of The Lord Is",
-      "url": "https://open.spotify.com/track/7aEJ4hXCfjeWO2zq4tyCT9"
+      "duration_ms": 449253,
+      "name": "Whole Heart (Hold Me Now) - Live",
+      "url": "https://open.spotify.com/track/3XkNkpfHFB0hoS13DdzJup"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -868,13 +868,13 @@
           "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
         },
         {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
         }
       ],
-      "duration_ms": 510795,
-      "name": "Nothing Else - Live",
-      "url": "https://open.spotify.com/track/7sAJH3KsjrZG7tuQvd2OeE"
+      "duration_ms": 389897,
+      "name": "Hosanna - Live",
+      "url": "https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1004,13 +1004,13 @@
           "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
         },
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
         }
       ],
-      "duration_ms": 389897,
-      "name": "Hosanna - Live",
-      "url": "https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8"
+      "duration_ms": 510795,
+      "name": "Nothing Else - Live",
+      "url": "https://open.spotify.com/track/7sAJH3KsjrZG7tuQvd2OeE"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Dancing On The Waves (Live)",
-        "url": "https://open.spotify.com/album/6Y4TkUVERN9O7D1FTgV08r"
-      },
-      "artists": [
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        }
-      ],
-      "duration_ms": 269040,
-      "name": "Dancing On The Waves - Live At The Wheelhouse",
-      "url": "https://open.spotify.com/track/0vmjzHNn4onx9Jkod8xSs0"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Church Volume One (Live)",
         "url": "https://open.spotify.com/album/06wlpmt4p99xMXHibcgoVj"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 516373,
       "name": "More Than Enough - Live",
       "url": "https://open.spotify.com/track/6EIDCcB7NlRox5jIrErS8b"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Dancing On The Waves (Live)",
+        "url": "https://open.spotify.com/album/6Y4TkUVERN9O7D1FTgV08r"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 269040,
+      "name": "Dancing On The Waves - Live At The Wheelhouse",
+      "url": "https://open.spotify.com/track/0vmjzHNn4onx9Jkod8xSs0"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Fill This Place (Studio Version)",
-        "url": "https://open.spotify.com/album/0TOI6K9V6PcAGj3cqs1wLS"
-      },
-      "artists": [
-        {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Fill This Place (Studio Version)",
-      "url": "https://open.spotify.com/track/6tjlnYnGQRq7YgGBnEBv7K"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Kari Jobe",
         "url": "https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 307933,
       "name": "Healer",
       "url": "https://open.spotify.com/track/2uDngplEd0RW5hqcAur5uY"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Fill This Place (Studio Version)",
+        "url": "https://open.spotify.com/album/0TOI6K9V6PcAGj3cqs1wLS"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Fill This Place (Studio Version)",
+      "url": "https://open.spotify.com/track/6tjlnYnGQRq7YgGBnEBv7K"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "The War Is Over",
+        "url": "https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 335400,
+      "name": "Fountains",
+      "url": "https://open.spotify.com/track/6sIEO9ZDhpW0BhCz1ZFIYV"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Nothing Ordinary",
         "url": "https://open.spotify.com/album/6WRkJUXDC0TpsnMhVrJ6DM"
       },
@@ -1351,38 +1367,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "The War Is Over",
-        "url": "https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY"
-      },
-      "artists": [
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        }
-      ],
-      "duration_ms": 335400,
-      "name": "Fountains",
-      "url": "https://open.spotify.com/track/6sIEO9ZDhpW0BhCz1ZFIYV"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Easy Never Needed You",
-        "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
-      },
-      "artists": [
-        {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Just Want You",
-      "url": "https://open.spotify.com/track/0jm6UoOxeX1rtYKLrG7pnj"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Breakthrough (Live)",
         "url": "https://open.spotify.com/album/4ROjH1uLP9Qe7FNunpCTZi"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 285560,
       "name": "I'm Listening - Live",
       "url": "https://open.spotify.com/track/4H8aHbObTT2BD16ZUZjD5Y"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Easy Never Needed You",
+        "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
+      },
+      "artists": [
+        {
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Just Want You",
+      "url": "https://open.spotify.com/track/0jm6UoOxeX1rtYKLrG7pnj"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 547251,
+      "name": "Rain Your Glory Down - Live",
+      "url": "https://open.spotify.com/track/6ftibLL1IO1tlGVgYrul0k"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "This Is Our Story",
         "url": "https://open.spotify.com/album/2Tj6FuYJTT5PmlgIyKCBPo"
       },
@@ -1459,38 +1475,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Abundantly More",
-        "url": "https://open.spotify.com/album/6N1WHRaubJg2kCsNJ2hAke"
+        "name": "Roar (Live From Passion 2020)",
+        "url": "https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em"
       },
       "artists": [
         {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Seth Condrey",
-          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
         }
       ],
-      "duration_ms": 241684,
-      "name": "Abundantly More (feat. Seth Condrey)",
-      "url": "https://open.spotify.com/track/4mM0t1EtoONZvwvsiLxd18"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 547251,
-      "name": "Rain Your Glory Down - Live",
-      "url": "https://open.spotify.com/track/6ftibLL1IO1tlGVgYrul0k"
+      "duration_ms": 345637,
+      "name": "There\u2019s Nothing That Our God Can\u2019t Do - Live From Passion 2020",
+      "url": "https://open.spotify.com/track/25v5O2q4TMYitlz9br8XGt"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1527,22 +1527,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Roar (Live From Passion 2020)",
-        "url": "https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em"
+        "name": "Abundantly More",
+        "url": "https://open.spotify.com/album/6N1WHRaubJg2kCsNJ2hAke"
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
         },
         {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
         }
       ],
-      "duration_ms": 345637,
-      "name": "There\u2019s Nothing That Our God Can\u2019t Do - Live From Passion 2020",
-      "url": "https://open.spotify.com/track/25v5O2q4TMYitlz9br8XGt"
+      "duration_ms": 241684,
+      "name": "Abundantly More (feat. Seth Condrey)",
+      "url": "https://open.spotify.com/track/4mM0t1EtoONZvwvsiLxd18"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Mover Of Mountains (Live)",
-        "url": "https://open.spotify.com/album/5oTXi1hKXRLa4GIpcYweXS"
-      },
-      "artists": [
-        {
-          "name": "Citipointe Worship",
-          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
-        },
-        {
-          "name": "Aaron Lucas",
-          "url": "https://open.spotify.com/artist/0S1Hy45xljd3drmhWaNO6N"
-        }
-      ],
-      "duration_ms": 344986,
-      "name": "Mover Of Mountains - Live",
-      "url": "https://open.spotify.com/track/5xzOWqDeMxavlNPkKrWt9b"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Stir a Passion",
         "url": "https://open.spotify.com/album/5pjsLhandWZP3rUF7NQuZ9"
       },
@@ -1763,6 +1743,26 @@
       "duration_ms": 499760,
       "name": "Stir a Passion - Live",
       "url": "https://open.spotify.com/track/5Yd2LrQZg3ouzzvgC1QKvJ"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Mover Of Mountains (Live)",
+        "url": "https://open.spotify.com/album/5oTXi1hKXRLa4GIpcYweXS"
+      },
+      "artists": [
+        {
+          "name": "Citipointe Worship",
+          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
+        },
+        {
+          "name": "Aaron Lucas",
+          "url": "https://open.spotify.com/artist/0S1Hy45xljd3drmhWaNO6N"
+        }
+      ],
+      "duration_ms": 344986,
+      "name": "Mover Of Mountains - Live",
+      "url": "https://open.spotify.com/track/5xzOWqDeMxavlNPkKrWt9b"
     },
     {
       "added_at": "2020-06-26 04:02:00",

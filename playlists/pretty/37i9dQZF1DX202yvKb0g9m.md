@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 
 > A collection of tracks produced with the legendary TB\-303 rhythm composer\. Cover: Richie Hawtin
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,181 likes - 50 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,313 likes - 50 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,19 +33,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 | 23 | [Warsaw \- White Light Version](https://open.spotify.com/track/4SzoQuDQIEm8saHC85w8CT) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [White Light](https://open.spotify.com/album/1EVEmfVskivH7bbA6OVS45) | 5:45 |
 | 24 | [Patchwork Jazz](https://open.spotify.com/track/62b32TAMVvNNOEjw806SyQ) | [Cro\-Magnon](https://open.spotify.com/artist/526ezIY9S1rr45Kw8cMjAy) | [V](https://open.spotify.com/album/04SaOzCUwkyGVkCsw1sYFH) | 7:12 |
 | 25 | [Problèmes d'Amour \- Original](https://open.spotify.com/track/4xeQXFdKrNPQcGyze66bIx) | [Alexander Robotnick](https://open.spotify.com/artist/4ssHihhGpCx4eftfzAI3jq) | [Problèmes D'amour \(All Versions\)](https://open.spotify.com/album/3WV1F6sgTj0Dw5UISLb5HB) | 7:00 |
-| 26 | [Bowie in Harmony](https://open.spotify.com/track/0h3h7Mcu8m3Iw6MUQAWbsK) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Alientronic](https://open.spotify.com/album/72KCHzc8HIXxkpkErPbnPy) | 6:22 |
-| 27 | [Commuter](https://open.spotify.com/track/587ctTTmgozFfNlVTCXYJ2) | [Ceephax Acid Crew](https://open.spotify.com/artist/3Q0VPr02bPlokDVsv5T90I) | [United Acid Emirates](https://open.spotify.com/album/6mANZenVe14ONb3NDd4EDb) | 5:31 |
+| 26 | [Commuter](https://open.spotify.com/track/587ctTTmgozFfNlVTCXYJ2) | [Ceephax Acid Crew](https://open.spotify.com/artist/3Q0VPr02bPlokDVsv5T90I) | [United Acid Emirates](https://open.spotify.com/album/6mANZenVe14ONb3NDd4EDb) | 5:31 |
+| 27 | [Bowie in Harmony](https://open.spotify.com/track/0h3h7Mcu8m3Iw6MUQAWbsK) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Alientronic](https://open.spotify.com/album/72KCHzc8HIXxkpkErPbnPy) | 6:22 |
 | 28 | [Sumo Acid Crew](https://open.spotify.com/track/1AFkWwrrMMdeOocF4yB9rd) | [Palms Trax](https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA) | [In Gold](https://open.spotify.com/album/6RuqX6Qra8dmcmYJQ5ffcR) | 6:19 |
 | 29 | [Auto Machine](https://open.spotify.com/track/16qMkS25a2cS1xEV9S3wwC) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Basic Sketches For Beginners](https://open.spotify.com/album/61MlV5v8LMdY0wR13gZMuq) | 9:50 |
 | 30 | [Acid Thunder](https://open.spotify.com/track/25cVyUYzONCdHUeFWKbOol) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Jack to the Sound](https://open.spotify.com/album/3igGT17KIQSSgdugsQELLh) | 4:32 |
 | 31 | [Substance Abuse](https://open.spotify.com/track/3yo5BnK1cWRuAIMbJReCMZ) | [F.U.S.E.](https://open.spotify.com/artist/6qRKwyDhiTu2n9cOhbHict), [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [Substance Abuse](https://open.spotify.com/album/2KLpnpPRuDx24So8bHiBXw) | 5:06 |
 | 32 | [Firecracker](https://open.spotify.com/track/61FZNafhhexdpEngWny5Wx) | [Todd Terje & The Olsens](https://open.spotify.com/artist/6JClxoCdn17qYJRwYDWDqq) | [The Big Cover\-Up](https://open.spotify.com/album/1p5C7xu6fz7z6IOVPWCIGt) | 6:31 |
-| 33 | [What Time Is Love / Time Of Love](https://open.spotify.com/track/2zxLPxHy1VCVfjayfTEV3u) | [K.l.f.s.](https://open.spotify.com/artist/0KlyyTMu0e8jWOmSfjt4Sj) | [What Time Is Love](https://open.spotify.com/album/50K3nUg5BsHNbzs79p2Zh7) | 6:15 |
-| 34 | [Acid Tracks](https://open.spotify.com/track/63eiF9VouGtmhiBKjm1LHU) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Acid Tracks](https://open.spotify.com/album/3yXJAOqJTv38NrPlwzCZro) | 12:19 |
+| 33 | [Acid Tracks](https://open.spotify.com/track/63eiF9VouGtmhiBKjm1LHU) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Acid Tracks](https://open.spotify.com/album/3yXJAOqJTv38NrPlwzCZro) | 12:19 |
+| 34 | [What Time Is Love / Time Of Love](https://open.spotify.com/track/2zxLPxHy1VCVfjayfTEV3u) | [K.l.f.s.](https://open.spotify.com/artist/0KlyyTMu0e8jWOmSfjt4Sj) | [What Time Is Love](https://open.spotify.com/album/50K3nUg5BsHNbzs79p2Zh7) | 6:15 |
 | 35 | [Himmel & Hoelle](https://open.spotify.com/track/2ZWEJmCklMmKdytwexl2Ew) | [Thomas P\. Heckmann](https://open.spotify.com/artist/4QLCqJ3RSF3y6DdvboPk9m) | [Electronic Body Music](https://open.spotify.com/album/0XJ6C268pcL4F5QjxFt0Ec) | 7:24 |
 | 36 | [Arrival](https://open.spotify.com/track/28a79mD2Tkuz5gz7gEVxaJ) | [MATRiXXMAN](https://open.spotify.com/artist/2KYGpc3Hn1KG7uw7CxQB2y) | [Sector II: Acid](https://open.spotify.com/album/4MAJPXXQDS2icpR3MqUq8U) | 7:45 |
-| 37 | [Afrofunk \(Valique Boogie Brother Remix\)](https://open.spotify.com/track/3bd2zgQZ8YZZSEoFAYjlrv) | [Timewarp Inc](https://open.spotify.com/artist/1LxC10tZiw6AYtRcemcvKr), [Valique](https://open.spotify.com/artist/5IdyZix2HjYLOb1fvN7oaH) | [Adventures in Acid Boogie, Vol.2](https://open.spotify.com/album/5naCHwy40cRVsbtr0zR1VC) | 5:25 |
-| 38 | [Miserablism \- 2018 Remaster](https://open.spotify.com/track/6DRXOyjJK2HN3tgl1LbACA) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Behaviour: Further Listening 1990 \- 1991 \(2018 Remaster\)](https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET) | 4:07 |
+| 37 | [Miserablism \- 2018 Remaster](https://open.spotify.com/track/6DRXOyjJK2HN3tgl1LbACA) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Behaviour: Further Listening 1990 \- 1991 \(2018 Remaster\)](https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET) | 4:07 |
+| 38 | [Afrofunk \(Valique Boogie Brother Remix\)](https://open.spotify.com/track/3bd2zgQZ8YZZSEoFAYjlrv) | [Timewarp Inc](https://open.spotify.com/artist/1LxC10tZiw6AYtRcemcvKr), [Valique](https://open.spotify.com/artist/5IdyZix2HjYLOb1fvN7oaH) | [Adventures in Acid Boogie, Vol.2](https://open.spotify.com/album/5naCHwy40cRVsbtr0zR1VC) | 5:25 |
 | 39 | [Sound 6](https://open.spotify.com/track/1YNgwOjLp0zJWf4qJwQe4l) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [I Have a Question](https://open.spotify.com/album/4LX7G0ldbZDlJPBZGOhPW5) | 6:01 |
 | 40 | [The Garden of Eden \(A Himalayan Song\)](https://open.spotify.com/track/2yheDn4bIOJVZmfDSTzILA) | [The Garden Of Eden](https://open.spotify.com/artist/3BTGILbxq4Bjb5qwkIr3af), [Angela McCluskey](https://open.spotify.com/artist/0cJMitw1iwiFVc1MwfRxWX), [Mark Tinley](https://open.spotify.com/artist/0ytLhQB1D6Syrgetn8QHco), [Pam Hogg](https://open.spotify.com/artist/7uyKQ6IUwjoSSiwvmFi0YG) | [The Garden of Eden](https://open.spotify.com/album/0zRO73WKcyEzInguX9yubX) | 4:01 |
 | 41 | [The Smell Of Suds And Steel](https://open.spotify.com/track/0wZ7yAcRnaY9Lz0YJiSizK) | [Helena Hauff](https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN) | [Qualm](https://open.spotify.com/album/2hYmcjIinZoVCog5sP4k0H) | 8:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 | 49 | [Everybody Needs A 303](https://open.spotify.com/track/3JoEudxv4MYugQXrxMSUVs) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Better Living Through Chemistry](https://open.spotify.com/album/4q9EafI4cNCb3yMjEPoPCB) | 5:49 |
 | 50 | [Fantasy Girl \- Acid Mix](https://open.spotify.com/track/2NLiNwWW6wffgvQ11CTqN1) | [Pierre's Pfantasy Club](https://open.spotify.com/artist/40BpVERJ6kAjii1gogXcEk), [J.R.](https://open.spotify.com/artist/0NBCjCwv45St1Vqpv5bjyP) | [Fantasy Girl](https://open.spotify.com/album/5OAK0SGieqJ1jwW6vrVHjK) | 7:02 |
 
-Snapshot ID: `MTYzNTI1NjAyOSwwMDAwMDAwMDgyZDcyODYxNmIzOTlmZWU2NTRjODIzZDkwZDgwZDNh`
+Snapshot ID: `MTYzNTI1NjAyOSwwMDAwMDAwMDYwZmQ4MDU2MmM5Y2Y4OWEwOTY1ZTg3ZTY5MjAyZGY4`

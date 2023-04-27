@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJzNR1J5ygQ.md) - [plain]
 
 > It's a Midwest thing\. Cover: Eminem
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,073 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,303 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJzNR1J5ygQ.md) - [plain]
 | 5 | [Real \(feat\. Sarah Green\)](https://open.spotify.com/track/2FZ4Ac2OfaZWdv1BKibjVR) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Sarah Green](https://open.spotify.com/artist/2PTjj9HWiVqAVknWeBzz3t) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:01 |
 | 6 | [Just What I Am](https://open.spotify.com/track/20bJBbPapGQ4bqs0YcA9xY) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [King Chip](https://open.spotify.com/artist/5NjUjtjtkzZqRuWFdspT1K) | [Indicud](https://open.spotify.com/album/262o5a05pMUDSV2uzo5EwQ) | 3:48 |
 | 7 | [Through The Wire](https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 3:41 |
-| 8 | [Lose Yourself \- From "8 Mile" Soundtrack](https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Curtain Call: The Hits \(Deluxe Edition\)](https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ) | 5:26 |
+| 8 | [Lose Yourself](https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Curtain Call: The Hits \(Deluxe Edition\)](https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ) | 5:26 |
 | 9 | [Hay](https://open.spotify.com/track/56hvN4r1qI7kDW9cw1lVov) | [Crucial Conflict](https://open.spotify.com/artist/1NMPFAWwsqqy5m8kEQvDl6) | [The Final Tic](https://open.spotify.com/album/1R5AaySMUzB0lmuwQ49YJO) | 4:20 |
 | 10 | [Overnight Celebrity](https://open.spotify.com/track/2tOZtdbkAMQASWokLvSlzj) | [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [Kamikaze](https://open.spotify.com/album/7tbgPQub8dUigxMdkYDfOb) | 3:53 |
 | 11 | [Purple Pills](https://open.spotify.com/track/5IweeQZdY5XEzStLzUJG5t) | [D12](https://open.spotify.com/artist/5Qi4Bb7a8C0a00NZcA77L0) | [Devils Night](https://open.spotify.com/album/22CVoj4sxsAGO02OONbkQA) | 5:04 |

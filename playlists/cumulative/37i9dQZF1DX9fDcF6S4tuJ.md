@@ -4,7 +4,7 @@
 
 > Listen to all your favorite Disney Princess and Frozen songs during Disney’s Ultimate Princess Celebration.
 
-55 songs - 2 hr 34 min
+56 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Loyal Brave True](https://open.spotify.com/track/6GJ9seY4zx11sHMX9xsH6h) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mulan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP) | 2:46 | 2022-10-07 |  |
 | [Part of Your World](https://open.spotify.com/track/7tUSJY4nsDBJTjd1UXKRsT) | [Jodi Benson](https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 3:15 | 2022-10-07 |  |
 | [Part of Your World \- From "The Little Mermaid Live!"](https://open.spotify.com/track/05ET8TiuscvijP4b4b1Jg9) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [The Little Mermaid Live!](https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc) | 3:10 | 2022-10-07 |  |
+| [Part of Your World \- From "The Little Mermaid"](https://open.spotify.com/track/2pcSENGQmdptFCBQ3HpKHe) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Part of Your World \(From "The Little Mermaid"\)](https://open.spotify.com/album/1cehuxhFNt8Q8Eobacb0YR) | 3:34 | 2023-04-26 |  |
 | [Poor Unfortunate Souls](https://open.spotify.com/track/7zsw78LtXUD7JfEwH64HK2) | [Pat Carroll](https://open.spotify.com/artist/0Yy9u86cq66Se2pB9fYaiW), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 4:51 | 2022-10-07 |  |
 | [Princess Things](https://open.spotify.com/track/6wCsDkBf2SLZecm1M7p7aJ) | [Cast \- Sofia the First](https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p) | [Sofia the First](https://open.spotify.com/album/1B74prl74S3dhOsS7hsT4y) | 2:06 | 2022-10-07 |  |
 | [Reflection \(2020\)](https://open.spotify.com/track/5Y1id2NTv2M7x2g2V2q1Sz) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mulan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP) | 3:37 | 2022-10-07 |  |

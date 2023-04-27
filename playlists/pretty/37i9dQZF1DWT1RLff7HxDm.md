@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Jackie Venson
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,006 likes - 60 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,065 likes - 60 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 47 | [Diamonds & Gold \- Live](https://open.spotify.com/track/1vU3fCNqHTO7fXGY4tEtDl) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Straight To You: Live](https://open.spotify.com/album/7p4qRYemsDOLfWreax8Orc) | 6:27 |
 | 48 | [A Better Man](https://open.spotify.com/track/0Z2VBFXHEzIVp1Y9fRA6ow) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [Live 2014 \(Nighttrain To Budapest Farewell Tour\)](https://open.spotify.com/album/1pzrHf1F0rrkH5lXCLQdE3) | 6:08 |
 | 49 | [Damn Right I've Got The Blues \- Live](https://open.spotify.com/track/1s7EqwR1IPlaQO7iXaRUCi) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Live! The Real Deal](https://open.spotify.com/album/1c2TbdKkPq7gMTGCPRen1O) | 7:41 |
-| 50 | [I'm In The Mood \- Live](https://open.spotify.com/track/4m3z1QKpXIBIvJFVhCyhtl) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [I'm In The Mood \(Live\)](https://open.spotify.com/album/7llgEpwPWoyyECn3OxfJgS) | 4:08 |
+| 50 | [I Didn't Know \- Live](https://open.spotify.com/track/6F3ISKBxgwCmV7jpORqLMb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [I Didn't Know \(Live\)](https://open.spotify.com/album/0PctMnTS6t6dNvnxwGsLPi) | 3:18 |
 | 51 | [Stoop Down Baby \- Live](https://open.spotify.com/track/5OOieWxqvwaYoqSv4FKixt) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Big, Bad and Beautiful \(Live\)](https://open.spotify.com/album/6FOcdJWwdmGOvpu5JqdqL2) | 5:50 |
 | 52 | [Step By Step \- Live](https://open.spotify.com/track/1MMcAvzf5cGgQ9hLt0Y0WA) | [Eugene Hideaway Bridges](https://open.spotify.com/artist/0vZJjQvIZKzNxKOP5eLzWY) | [Live In Tallahassee](https://open.spotify.com/album/2UH1aJggZdP0Vz0iTjouYG) | 3:32 |
 | 53 | [Crying For My Baby](https://open.spotify.com/track/1ZbuDt1StCJMB68xc4Ec9A) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [Live\-Spontaneous Combustion](https://open.spotify.com/album/5mZIk71ovwj9JW69EBGdqb) | 4:41 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 57 | [Pocket Full of Dust \(Live\)](https://open.spotify.com/track/0QpLq6RybVWoVvhmC1PCeW) | [Dave Fields](https://open.spotify.com/artist/2ZHM1FdVdVfpxzuqRNPVjf) | [Unleashed](https://open.spotify.com/album/6e2NUuv5gLX7aT5J9hPK28) | 8:17 |
 | 58 | [Ride On Josephine \- Live In Boston, Massachusetts / 1982](https://open.spotify.com/track/68OmRD31fk5wALO2AGF85X) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [Ride On Josephine \(Live In Boston / 1982\)](https://open.spotify.com/album/3vfLAhOmj5BvT69y8Y4CRP) | 8:21 |
 | 59 | [Freedom](https://open.spotify.com/track/0MCX1OZzPjy91FYKQQJTKp) | [Tony Spinner](https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z) | [Live In Europe](https://open.spotify.com/album/2k7ALI83LeKL9ralSd7aqf) | 3:50 |
-| 60 | [I Didn't Know \- Live](https://open.spotify.com/track/6F3ISKBxgwCmV7jpORqLMb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [I Didn't Know \(Live\)](https://open.spotify.com/album/0PctMnTS6t6dNvnxwGsLPi) | 3:18 |
+| 60 | [I'm In The Mood \- Live](https://open.spotify.com/track/4m3z1QKpXIBIvJFVhCyhtl) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [I'm In The Mood \(Live\)](https://open.spotify.com/album/7llgEpwPWoyyECn3OxfJgS) | 4:08 |
 
-Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMDYyNjkzNjgxN2ZlOTE0Mzg3YmJmMDg1ZGU2NTdmMzRi`
+Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMDQ2ZWNkN2VmYzczZDViNzM5NDE3MmFlYTg1ODk0ZGYy`

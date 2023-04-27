@@ -4,7 +4,7 @@
 
 > Deja que estas sutiles piezas de jazz te arrullen hasta el sueño.
 
-208 songs - 11 hr 29 min
+210 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Hello, Young Lovers](https://open.spotify.com/track/2E7OvE073ENQi8KzwTKPcz) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [Hello, Young Lovers](https://open.spotify.com/album/1fDKyrhUiwAGfbAGvWRZaW) | 3:28 | 2023-03-23 |  |
 | [Henry Street](https://open.spotify.com/track/2JIH2zpgozNspbN2vVva9G) | [Lou Green](https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW) | [Henry Street](https://open.spotify.com/album/2zjI2uq9viHy7dx1m9VBez) | 2:22 | 2023-03-23 |  |
 | [Here's That Rainy Day](https://open.spotify.com/track/6RSuiDuF8X8eNjXVFttxyT) | [Lenard Lovito](https://open.spotify.com/artist/6r8kUR60ouPwLjn42RFgPT) | [Easy Living](https://open.spotify.com/album/0IKq52PoB0XenXxkm70b16) | 3:20 | 2023-03-23 |  |
+| [How High The Moon](https://open.spotify.com/track/1COenIO3ak9ffIDzwvO1Ts) | [Christina Mondzo](https://open.spotify.com/artist/0pvhGfxbtulg7H68xiV8Re) | [How High The Moon](https://open.spotify.com/album/4M2l2FXPwA6nqPWhS3JMW8) | 2:46 | 2023-04-20 |  |
 | [How Long Has This Been Going On?](https://open.spotify.com/track/5N1CLBoASSxd0IP3aOXeIA) | [Marilyn Morris](https://open.spotify.com/artist/46iL28eIvIrr2mhp956mEx) | [How Long Has This Been Going On?](https://open.spotify.com/album/4enSlE24XGXXLkrGW7lxZ1) | 2:51 | 2023-03-23 |  |
 | [I Can't Get Started](https://open.spotify.com/track/2DgLCrnfPxVAvFnMxYTuuM) | [Sive Holmes](https://open.spotify.com/artist/1k2DVXf8G1sKF5n5d6qp5v) | [I Can't Get Started](https://open.spotify.com/album/393ECl3A8bhqZpmPoKOWTs) | 2:06 | 2023-03-23 |  |
 | [I Could Write A Book](https://open.spotify.com/track/66eaAKE675VWRnj8EVeDQk) | [Francis Graden](https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w) | [I Could Write A Book](https://open.spotify.com/album/1Jn2DXdP0Ci1UBVjfFpZPF) | 3:16 | 2023-03-23 |  |
@@ -101,6 +102,7 @@
 | [In a sentimental mood](https://open.spotify.com/track/3gmQ3tklUt8IJixvO3jVAp) | [Alexander Descartes](https://open.spotify.com/artist/0eDPH1f3HFDuveG1kKeOKK) | [In a sentimental mood](https://open.spotify.com/album/0zukKIRRaLdu8NcLxY61cH) | 2:26 | 2023-03-23 |  |
 | [In Another Day](https://open.spotify.com/track/21uYfxqePi9cX2aHvsEGAI) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [In Another Day](https://open.spotify.com/album/326l5lpeuTwSNNyZ9GpbHc) | 3:14 | 2023-03-23 |  |
 | [In My Solitude](https://open.spotify.com/track/22NftQ2VUEMoD1DqUbi8rF) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [My Shining Hour](https://open.spotify.com/album/4RFgQUMZWRpdqP28HhEQH4) | 3:44 | 2023-03-23 |  |
+| [Infant Eyes](https://open.spotify.com/track/5DxtTMAODwWNThoTt33YgQ) | [Maxence Capoue](https://open.spotify.com/artist/67haUq5f5DHveaHN9u4vmy) | [Infant Eyes](https://open.spotify.com/album/7FMCO2zoEfzaHzpXoP8YZc) | 3:40 | 2023-04-20 |  |
 | [It Could Happen To You](https://open.spotify.com/track/3JSz6DZZBRSLhIr4LMIkDD) | [Danny Walgreen](https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5) | [It Could Happen To You](https://open.spotify.com/album/1ehoJKWcjUnHtLVseVCAmS) | 3:28 | 2023-03-23 |  |
 | [It Could Happen to You](https://open.spotify.com/track/2RDjWEu4n4V7lGshySL4a2) | [Maurillo](https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg) | [It Could Happen to You](https://open.spotify.com/album/1FKkv7Mk67dv2gHkCqFdrf) | 2:35 | 2023-03-23 |  |
 | [It Might As Well Be Spring](https://open.spotify.com/track/4FUkmFYogSz8ScvhdJG0xL) | [Simone Bergenson](https://open.spotify.com/artist/2Te2jrf7Kk0rShhNq3Dcyz) | [It Might As Well Be Spring](https://open.spotify.com/album/1ReSvJJz053zU2Gs93LvmY) | 4:24 | 2023-03-23 |  |
@@ -144,7 +146,7 @@
 | [On The Street Where You Live](https://open.spotify.com/track/1dgYQO1Hui0E6lGe3F1hDw) | [Ben Hubert](https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz) | [On The Street Where You Live](https://open.spotify.com/album/5UvGpwpS3tYpZHbiQlonNp) | 3:51 | 2023-03-23 |  |
 | [Out Of Nowhere](https://open.spotify.com/track/6CPmUmMMXvGombRcl8p5Iw) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Out Of Nowhere](https://open.spotify.com/album/0cu8JtZHQDqNPT0zmnDh2w) | 2:39 | 2023-03-23 |  |
 | [Out of place](https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 3:31 | 2023-03-23 |  |
-| [P.S\. I Love You](https://open.spotify.com/track/2pmeZ067WnFhjPc6zZS3xy) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [P.S\. I Love You](https://open.spotify.com/album/3s81XUnnsE4TlY5zGJ0KBH) | 3:16 | 2023-03-23 |  |
+| [P.S\. I Love You](https://open.spotify.com/track/2pmeZ067WnFhjPc6zZS3xy) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [P.S\. I Love You](https://open.spotify.com/album/3s81XUnnsE4TlY5zGJ0KBH) | 3:16 | 2023-03-23 | 2023-04-27 |
 | [Pennies From Heaven](https://open.spotify.com/track/5FZ1EwzovpSlbfPK2eynR0) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [Pennies From Heaven](https://open.spotify.com/album/75bRjjsmOtXqoSHeziafj0) | 4:29 | 2023-03-23 | 2023-04-23 |
 | [Piece Peace](https://open.spotify.com/track/4q7cOAjvYHUTQGBf1RRuNE) | [Sean Eastman](https://open.spotify.com/artist/4SMptkAtq8f31ziDjPuint) | [Piece Peace](https://open.spotify.com/album/3OMxn6aJ8hZhqecNYE9nkV) | 2:48 | 2023-03-23 |  |
 | [prelude to a kiss](https://open.spotify.com/track/4ulfmGNJizIr9ct2kj5bVE) | [Greg Paterson](https://open.spotify.com/artist/5MAX4Nf5YdknFZPqZ7ucVt) | [prelude to a kiss](https://open.spotify.com/album/218dJkcubcykiRq5fUVovq) | 4:21 | 2023-03-23 |  |
@@ -164,7 +166,7 @@
 | [Someday My Prince Will Come](https://open.spotify.com/track/78hP2pA1Y8DYCn5shq3f1b) | [Maurillo](https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg) | [Someday My Prince Will Come](https://open.spotify.com/album/6WishxCgnWfUfAjSC07tJv) | 3:38 | 2023-03-23 |  |
 | [Someone To Watch Over Me](https://open.spotify.com/track/7i7I5cr7kXAzxUGicjfyJY) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Someone To Watch Over Me](https://open.spotify.com/album/3GNORDPunT2olont9mcX97) | 3:58 | 2023-03-23 |  |
 | [Sometime Ago](https://open.spotify.com/track/27tlCFs00O17IvQMpdyBRs) | [Edward France](https://open.spotify.com/artist/6rPvE9uUU2fm3TaL12b8Hp) | [Sometime Ago](https://open.spotify.com/album/4fKCHxdIRftSRH8A4uauwW) | 3:29 | 2023-03-23 |  |
-| [Somewhere Between](https://open.spotify.com/track/1Qiks2nkAG5WCpXgqclQ1f) | [Jules Pierre Gardot](https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G) | [Somewhere Between](https://open.spotify.com/album/2C7bCiH5a0n9uQmfntiAF8) | 3:18 | 2023-03-23 |  |
+| [Somewhere Between](https://open.spotify.com/track/1Qiks2nkAG5WCpXgqclQ1f) | [Jules Pierre Gardot](https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G) | [Somewhere Between](https://open.spotify.com/album/2C7bCiH5a0n9uQmfntiAF8) | 3:18 | 2023-03-23 | 2023-04-27 |
 | [Somewhere Over The Rainbow](https://open.spotify.com/track/26o8OLSxA9CpGLXZEqwS0y) | [Steve Devon](https://open.spotify.com/artist/2CBhuQLdCpuNengnHtXADd) | [Somewhere Over The Rainbow](https://open.spotify.com/album/27YuGP0WcZhOOkUchV5yaz) | 3:36 | 2023-03-23 |  |
 | [Sort Of Sentimental](https://open.spotify.com/track/56Wvp4BvcVgAosMtz1dkuV) | [Luke Dunn](https://open.spotify.com/artist/6YgUGLXjlKPOLwjAH7homB) | [Sort Of Sentimental](https://open.spotify.com/album/5sPc2pe8CqCNaZzdyJThXO) | 3:05 | 2023-03-23 |  |
 | [Star Eyes](https://open.spotify.com/track/0uY4n9q4ViY6ijBNvzVx1Z) | [Angel Gregoire](https://open.spotify.com/artist/68NEUYAM0BKrdgENaJ8wlF) | [Star Eyes](https://open.spotify.com/album/3jGRLCp4Ix9ZCICt5Aey6I) | 3:40 | 2023-03-23 |  |

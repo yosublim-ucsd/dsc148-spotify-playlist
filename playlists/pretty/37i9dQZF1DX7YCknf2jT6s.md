@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Alfa Mist
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,712 likes - 100 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 890,208 likes - 100 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 3 | [Sex, Drugs and Chocolate](https://open.spotify.com/track/1Pc911HasdIOeIEJ3q2PmR) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Anthony Fung](https://open.spotify.com/artist/4NfvvB32qp3QEnzwXUM96W), [Solomon Dorsey](https://open.spotify.com/artist/2dOcCSGhsuviniO6gz11Y3) | [Sex, Drugs and Chocolate](https://open.spotify.com/album/0vJVxS2mbuemKFQUGNovjk) | 3:41 |
 | 4 | [Adesane \- Pachakuti Remix](https://open.spotify.com/track/11yW4QUMzfAJ9ox2AZzm5y) | [Jembaa Groove](https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr) | [Adesane \(Pachakuti Remix\)](https://open.spotify.com/album/5MlZIYCnLvJ3O7ISxJtM0O) | 3:05 |
 | 5 | [Running Game](https://open.spotify.com/track/5cIsn2aKRqKneGmQVJ66LC) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Brand New Life](https://open.spotify.com/album/2bF9vZG92EocmLQdS1M1Ro) | 4:39 |
-| 6 | [Party Song](https://open.spotify.com/track/3jD10FtaLHk7Rqk981HKMe) | [David Cook](https://open.spotify.com/artist/4SQxI8xg6LcSWL3KuGVHLa) | [Loyal Returns](https://open.spotify.com/album/0PkAPv6e4SjbiM2qHSlSlo) | 4:38 |
+| 6 | [Party Song](https://open.spotify.com/track/3jD10FtaLHk7Rqk981HKMe) | [David Cook](https://open.spotify.com/artist/1kTlMFv8G550JogQHA7Jq6) | [Loyal Returns](https://open.spotify.com/album/0PkAPv6e4SjbiM2qHSlSlo) | 4:38 |
 | 7 | [Flying Chicken \(feat\. Thiago Rabello & Salomão Soares\)](https://open.spotify.com/track/0783JQsaIA3eZ4UwMhcIpX) | [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8), [Thiago Rabello](https://open.spotify.com/artist/56uVOkyK508SN0TWUegCBB), [Salomão Soares](https://open.spotify.com/artist/40XnTnhTeDygOCDiVSMdBL) | [Flying Chicken \(feat\. Thiago Rabello & Salomão Soares\)](https://open.spotify.com/album/4RqK5murOrvju4Lel65EzG) | 4:33 |
 | 8 | [Come True](https://open.spotify.com/track/5KA5IN3DAQjymlLZ56tHVn) | [Vooo](https://open.spotify.com/artist/3vHTWo80WtxaxoYy36oZXF), [Giulio Xavier Cetto](https://open.spotify.com/artist/0J60GA2iRHAfUh39kM40ZF), [John Palowitch](https://open.spotify.com/artist/7MAvvGoULFa7NBNw5kbJAK) | [Same Old \[Deluxe Edition\]](https://open.spotify.com/album/60xSKm5Icffq5g6StkksBw) | 2:24 |
 | 9 | [jazz is for ordinary people](https://open.spotify.com/track/12BaQt9aYdTlEtKreqB5V4) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [jazz is for ordinary people](https://open.spotify.com/album/0EZTn2obuqMf9AbBG2PUKp) | 2:44 |

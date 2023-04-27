@@ -4,7 +4,7 @@
 
 > maxime\. makes anti pop
 
-1,355 songs - 2 day 17 hr 20 min
+1,357 songs - 2 day 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Diva](https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Diva](https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih) | 3:27 | 2022-06-10 | 2023-02-25 |
 | [DIZZY](https://open.spotify.com/track/5c0WB921PDc4s4EpthSDJo) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [DIZZY](https://open.spotify.com/album/7lFMvbDwtUZhLhVJyUu8tB) | 3:19 | 2022-02-17 | 2022-05-10 |
 | [Dizzy Vision](https://open.spotify.com/track/20LTZsoVpBQsbbwkgY9YPb) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Dizzy Vision](https://open.spotify.com/album/2XOFL54zsynsBPicRY3dnX) | 2:47 | 2023-03-24 |  |
+| [dj](https://open.spotify.com/track/3FkE7rIbfrkD5JluAGZtlt) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [dj](https://open.spotify.com/album/3muBhysPm7Fo5M7NiFLNLp) | 2:15 | 2023-04-26 |  |
 | [Do or Die](https://open.spotify.com/track/7CpJ2BbkQOTh3aBN5H61pZ) | [Tony Velour](https://open.spotify.com/artist/3L3hYQlhb5k9XCCrRWavNi) | [Vices Hurt](https://open.spotify.com/album/1HpJMg8tpRhYMFn5Isc05m) | 1:26 | 2022-05-09 | 2022-06-11 |
 | [Do What I Want](https://open.spotify.com/track/2imS7G1SXpPSDFk9em8jHd) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Do What I Want](https://open.spotify.com/album/2L8FClI8KceYrNozhlxozr) | 2:09 | 2020-10-13\* | 2021-01-23 |
 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 | 2023-01-27 | 2023-03-18 |
@@ -457,7 +458,8 @@
 | [GHOST\*](https://open.spotify.com/track/7mfGLdrBIlR7o6s6YFpjwi) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [GHOST\*](https://open.spotify.com/album/4UmCXtYrA5Bodd4HGKCQzM) | 2:20 | 2023-02-17 | 2023-03-02 |
 | [Gimme Love](https://open.spotify.com/track/0HItcI6qN6Dr4MC3CZryQh) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX) | 3:34 | 2022-02-28 | 2022-04-11 |
 | [Gimme Love](https://open.spotify.com/track/2hfoyc7ve6xM4ZEiNIiU1B) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Gimme Love](https://open.spotify.com/album/3NhYseiC5dmIJMAOfaFeIU) | 3:34 | 2020-10-13\* | 2022-10-26 |
-| [Girls](https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH) | 1:59 | 2022-08-05 |  |
+| [Girls](https://open.spotify.com/track/1J7PghJCXSry2djsrflxdq) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/2fH2641iiOweBzDveY6QxM) | 1:59 | 2023-03-01 |  |
+| [Girls](https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH) | 1:59 | 2022-08-05 | 2023-04-27 |
 | [girls like drugs](https://open.spotify.com/track/0eXkUXr4wJ3Orruk8S1cpW) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [girls like drugs](https://open.spotify.com/album/2xowbFbsPQ5UY05US7AJS9) | 2:54 | 2021-09-22 | 2022-03-19 |
 | [Glass House](https://open.spotify.com/track/3JYPpZdVk0USJ3gtSajeV8) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Glass House](https://open.spotify.com/album/0DFolgZClFcvv9kipWMAVD) | 2:51 | 2021-05-22 | 2022-02-12 |
 | [GLOW](https://open.spotify.com/track/3Osh6AVuR3OR6i5ZbNKHhp) | [Alex Gough](https://open.spotify.com/artist/1rNNeas60ogZm9uhv1VZOh) | [GLOW](https://open.spotify.com/album/0nr8mQpi3E2bcxvjPEbASA) | 3:49 | 2022-05-27 | 2022-07-02 |
@@ -848,7 +850,7 @@
 | [Oh God](https://open.spotify.com/track/3jQRh7laQ983q2bFGWpWuD) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Oh God](https://open.spotify.com/album/2Yu3wsBaJjFveHhuqD4DK7) | 2:59 | 2022-11-11 |  |
 | [Oh Yeah](https://open.spotify.com/track/00S56mM2szrRreAaglglag) | [Ark Woods](https://open.spotify.com/artist/7rFWIQhhSOCe5eCBJhE77e), [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Oh Yeah](https://open.spotify.com/album/4NiLEk70DGFpYQBBUmpZvQ) | 2:55 | 2022-06-17 | 2022-08-06 |
 | [Oh! Frenchy](https://open.spotify.com/track/6fnEjJ2pkB8q1zglXLXURh) | [Mosie](https://open.spotify.com/artist/6HGNvZKlT5TO7y4aJbDHql) | [Tangerine](https://open.spotify.com/album/6xXlKONL3IHIipu3RMrk4p) | 3:54 | 2022-11-21 | 2023-01-24 |
-| [old place](https://open.spotify.com/track/4Jh96C8DDxAJFCrECbFvxP) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [old place](https://open.spotify.com/album/0qhRp8kqjoIolrs3ic469T) | 1:38 | 2023-03-03 |  |
+| [old place](https://open.spotify.com/track/4Jh96C8DDxAJFCrECbFvxP) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [old place](https://open.spotify.com/album/0qhRp8kqjoIolrs3ic469T) | 1:38 | 2023-03-03 | 2023-04-27 |
 | [On Me](https://open.spotify.com/track/6I50jyqSlDnzL74mIdsUc2) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS), [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra), [Strict Face](https://open.spotify.com/artist/1NmRM6j6RUfsifUTo1lceq) | [Parallel World](https://open.spotify.com/album/1Mo1cqa1k11rCtSSm4iUhR) | 2:56 | 2021-05-08 | 2021-10-16 |
 | [On My Own](https://open.spotify.com/track/4g83PCfbuS7n8QqOGnhGTC) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [ERYS](https://open.spotify.com/album/63ipjhu8XSx8se8X3XYlJZ) | 4:04 | 2020-10-13\* | 2020-11-03 |
 | [ON SOME HIGH](https://open.spotify.com/track/7kizsInsKbkwsJUBOncDuQ) | [SEBASTIAN PAUL](https://open.spotify.com/artist/1tQu5TjcAK68fx8qrc8ZgF) | [BOY OH BOY](https://open.spotify.com/album/2cvDgtZ73sgnsXJNUrYqsO) | 3:59 | 2020-10-13\* | 2021-01-23 |

@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: Becky G & Omega",
-  "num_followers": 590561,
+  "num_followers": 590645,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyNjIzNywwMDAwMDAwMGRjMjVlMzU3ZTQ3NDVhODFlYTc3ZjRkMjVmOTA5OTkz",
+  "snapshot_id": "MTY4MTQyNjIzNywwMDAwMDAwMDBjMzMzZTU4MmQyODlhOWI2Nzc3NTY3YmQwMzUzNmE1",
   "tracks": [
     {
       "added_at": "2023-04-13 22:50:37",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
-        "name": "Luis Figueroa",
-        "url": "https://open.spotify.com/album/3k3PwkOP7kThSg2iDxEHhE"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 189463,
-      "name": "Vienes",
-      "url": "https://open.spotify.com/track/16UmAk18CfaF0nTzPwCRAA"
-    },
-    {
-      "added_at": "2023-04-13 22:50:37",
-      "album": {
         "name": "V\u00edctimas las Dos",
         "url": "https://open.spotify.com/album/3oO87sMk03zYPpdHTUAonH"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 257614,
       "name": "V\u00edctimas las Dos",
       "url": "https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH"
+    },
+    {
+      "added_at": "2023-04-13 22:50:37",
+      "album": {
+        "name": "Luis Figueroa",
+        "url": "https://open.spotify.com/album/3k3PwkOP7kThSg2iDxEHhE"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 189463,
+      "name": "Vienes",
+      "url": "https://open.spotify.com/track/16UmAk18CfaF0nTzPwCRAA"
     },
     {
       "added_at": "2023-04-13 22:50:37",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
-        "name": "Todav\u00eda Te Espero",
-        "url": "https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 192063,
-      "name": "Todav\u00eda Te Espero",
-      "url": "https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0"
-    },
-    {
-      "added_at": "2023-04-13 22:50:37",
-      "album": {
         "name": "Boogaloo Supreme",
         "url": "https://open.spotify.com/album/5Pce9doDhsmeD7QEuIsF98"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 208152,
       "name": "Boogaloo Supreme",
       "url": "https://open.spotify.com/track/3X5h9JHRn22bwysuTLVOXQ"
+    },
+    {
+      "added_at": "2023-04-13 22:50:37",
+      "album": {
+        "name": "Todav\u00eda Te Espero",
+        "url": "https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 192063,
+      "name": "Todav\u00eda Te Espero",
+      "url": "https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0"
     },
     {
       "added_at": "2023-04-13 22:50:37",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
-        "name": "Soltero",
-        "url": "https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 260431,
-      "name": "Soltero",
-      "url": "https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2"
-    },
-    {
-      "added_at": "2023-04-13 22:50:37",
-      "album": {
         "name": "Vamo' a Ver Si el Gas Pela (feat. Miky Woodz & Marvin Santiago)",
         "url": "https://open.spotify.com/album/6voTsTj7qktcItEfbyV5fH"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 184089,
       "name": "Vamo' a Ver Si el Gas Pela (feat. Miky Woodz & Marvin Santiago)",
       "url": "https://open.spotify.com/track/6UhC5S3GcFyHNcD2EX0zvi"
+    },
+    {
+      "added_at": "2023-04-13 22:50:37",
+      "album": {
+        "name": "Soltero",
+        "url": "https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 260431,
+      "name": "Soltero",
+      "url": "https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2"
     },
     {
       "added_at": "2023-04-13 22:50:37",

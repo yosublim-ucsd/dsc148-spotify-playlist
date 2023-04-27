@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 
 > Get ready for Ibiza season 2023\. See you on the dancefloor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,080 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,266 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 | 81 | [Deep End \- SIDEPIECE Remix](https://open.spotify.com/track/7JdiXX87BugXUDhQ89GEc8) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Deep End \(SIDEPIECE Remix\)](https://open.spotify.com/album/3G4HzFDfCJUBJ4u7G3IdVc) | 3:16 |
 | 82 | [Save Our Soul \- Rework 2021](https://open.spotify.com/track/2sTEiEN6OTO9Xi7ZE2DFs0) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Save Our Soul \(Rework 2021\)](https://open.spotify.com/album/6nhmbrMX50vf3l0AzOEaTx) | 2:36 |
 | 83 | [Believe](https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Believe](https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N) | 6:48 |
-| 84 | [Raw \- Tony Romera Remix](https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3) | [Julio Navas](https://open.spotify.com/artist/1xTuChuImQkqK7A0aGaZqr), [Gustavo Bravetti](https://open.spotify.com/artist/3COgt6jQqmGpT8vM79C7R9), [David Amo](https://open.spotify.com/artist/6hnD17Gw6ohwryCf3D2AwD), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Raw \(Tony Romera Remix\)](https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ) | 3:37 |
+| 84 | [We Control](https://open.spotify.com/track/7K3OyIuvYF1qcwr4xqILeu) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/5VgrFAxkLmF6xAfgY6ByeW) | 3:26 |
 | 85 | [Joy](https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Joy](https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL) | 4:41 |
-| 86 | [We Control](https://open.spotify.com/track/7K3OyIuvYF1qcwr4xqILeu) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/5VgrFAxkLmF6xAfgY6ByeW) | 3:26 |
+| 86 | [Raw \- Tony Romera Remix](https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3) | [Julio Navas](https://open.spotify.com/artist/1xTuChuImQkqK7A0aGaZqr), [Gustavo Bravetti](https://open.spotify.com/artist/3COgt6jQqmGpT8vM79C7R9), [David Amo](https://open.spotify.com/artist/6hnD17Gw6ohwryCf3D2AwD), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Raw \(Tony Romera Remix\)](https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ) | 3:37 |
 | 87 | [Lights Go Out](https://open.spotify.com/track/18KVIouF8klKE9HdqdpUxd) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Lights Go Out](https://open.spotify.com/album/2JhLwfCqWdJaRCJ9d6gVdh) | 3:46 |
 | 88 | [Stupidisco](https://open.spotify.com/track/4kqv0fA0vF1vNwlVQqewdL) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k) | [Trust It](https://open.spotify.com/album/4giAI1rzrdkPNFMeTL9sk0) | 5:07 |
 | 89 | [Every Little Thing](https://open.spotify.com/track/2ovlaCF5IsApzvIpa5k64l) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ) | [Every Little Thing](https://open.spotify.com/album/3mWwqrqWfnmSRKTxtvSfDI) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 | 99 | [Insomnia 2021 \- Epic Edit](https://open.spotify.com/track/6E1VvKBTi0FtLhE8b6GxbE) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [Insomnia 2021](https://open.spotify.com/album/04zGytx3eRCDR7JEQB9GSX) | 4:48 |
 | 100 | [Feel The Vibe](https://open.spotify.com/track/12RAnp0xkdW22UGfgejElE) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Astrotrax](https://open.spotify.com/artist/0a2I09UQdWzcaUNwdjSjuc), [Shola Phillips](https://open.spotify.com/artist/28sPI1wCY2agHaLPz2Y5O3) | [Feel The Vibe](https://open.spotify.com/album/4jsHIqSscZmgLYIet5ikbm) | 3:05 |
 
-Snapshot ID: `MTY4MDYxNDA4OCwwMDAwMDAwMDRmZWY2YmZhYzM4YjJiYjExYzM5ZWEwNzFlYWZhNTEz`
+Snapshot ID: `MTY4MDYxNDA4OCwwMDAwMDAwMGZmMTRmNjIyMzgwZDc0Mjg4MTlmM2M1ZjE4ODY5OGIx`

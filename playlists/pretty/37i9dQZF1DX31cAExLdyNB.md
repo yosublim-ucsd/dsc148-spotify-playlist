@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 
 > La orilla donde el indie se fusiona con la electrónica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,872 likes - 69 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,901 likes - 69 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 37 | [Precipicio](https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Lavandina](https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw) | 4:59 |
 | 38 | [Ciudades de Noche](https://open.spotify.com/track/01rgHbhlfioQ7Oy9ntemCa) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Ciudades de Noche](https://open.spotify.com/album/2XTsyhYLGwtCAfqqkfEUrd) | 3:32 |
 | 39 | [Young](https://open.spotify.com/track/45FLsvojU63HpbTKXSwTao) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Real](https://open.spotify.com/album/4my95sS2JXep8uUPOfe8zI) | 3:14 |
-| 40 | [Se Eu Soubesse](https://open.spotify.com/track/0T7iwFLmkeKuKvFdtUTKGe) | [Viratempo](https://open.spotify.com/artist/4UAqPe3DNOIDTa8bEGWPwL) | [Cura](https://open.spotify.com/album/36gSxdh6pbt9G4D4SofNIt) | 3:37 |
-| 41 | [Suéltame, Bogotá](https://open.spotify.com/track/7qhunqQrA4o3Hk4c6ohRTg) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Mira Lo Que Me Hiciste Hacer](https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI) | 3:48 |
+| 40 | [Suéltame, Bogotá](https://open.spotify.com/track/7qhunqQrA4o3Hk4c6ohRTg) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Mira Lo Que Me Hiciste Hacer](https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI) | 3:48 |
+| 41 | [Se Eu Soubesse](https://open.spotify.com/track/0T7iwFLmkeKuKvFdtUTKGe) | [Viratempo](https://open.spotify.com/artist/4UAqPe3DNOIDTa8bEGWPwL) | [Cura](https://open.spotify.com/album/36gSxdh6pbt9G4D4SofNIt) | 3:37 |
 | 42 | [Daikiri](https://open.spotify.com/track/4H1FWNakPyBYKkohOm6I8O) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Daikiri](https://open.spotify.com/album/7lHVQTwK5be4j9Lr8L5c5C) | 3:57 |
 | 43 | [Silence & Secrets](https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Silence & Secrets](https://open.spotify.com/album/5e5z9MRAVAOItfLScdFwtd) | 4:28 |
 | 44 | [6º](https://open.spotify.com/track/1rEHH6Wrm0iuv61O1oM2nc) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [6º](https://open.spotify.com/album/4pUtOdz74IkwnwQUZdpkUj) | 3:12 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 68 | [Vine Hasta Marte](https://open.spotify.com/track/2QESbnic0tiuE32iosLu6s) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Vine Hasta Marte](https://open.spotify.com/album/7KMhR1LUULSVFR4SRFkKMg) | 3:44 |
 | 69 | [Takotsubo](https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz) | [Floreana](https://open.spotify.com/artist/3pwB3UZlXcnlXoKr0abRVQ) | [Cuadros](https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK) | 3:23 |
 
-Snapshot ID: `MTY4MTUyMDE4NSwwMDAwMDAwMDAxNDYxMWFkYzBhYmNkYjE1YzkxNGQwZmVmMDliZjRl`
+Snapshot ID: `MTY4MTUyMDE4NSwwMDAwMDAwMGVkNmZjODNhNzhhMDYwMTgxMGU1YWI3OTBkN2E2NjI5`

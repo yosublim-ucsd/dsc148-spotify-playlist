@@ -4,7 +4,7 @@
 
 > The premier alternative melancholia playlist, featuring Billie Eillish
 
-316 songs - 21 hr 34 min
+322 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [caroline](https://open.spotify.com/track/73Moxwjn2ElzQBIMstG2ga) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [caroline](https://open.spotify.com/album/5KYKojZe2Kx6lRcUdvNTkp) | 3:18 | 2022-09-02 |  |
 | [Cavalier](https://open.spotify.com/track/3h6RD7RYENDIb3qB9Bw4OB) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Post Tropical](https://open.spotify.com/album/2bX5umInKftnekEm6qM0SO) | 4:43 | 2019-09-29\* | 2022-07-29 |
 | [Cavalier](https://open.spotify.com/track/4Q3m2WAmHWXJYSTvDdifXZ) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Post Tropical \(Deluxe Edition\)](https://open.spotify.com/album/7bnHpxtL6hqO9DWPAknJuH) | 4:43 | 2022-07-15 | 2022-08-27 |
+| [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-04-26 |  |
 | [cellophane](https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 3:24 | 2022-05-02 |  |
 | [Change](https://open.spotify.com/track/6dXs0lM3BhWnsyqtuWFOYl) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:04 | 2022-08-26 |  |
 | [Cherry Wine \- Live](https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:00 | 2022-08-26 |  |
@@ -65,6 +66,7 @@
 | [Demand It](https://open.spotify.com/track/2AuugcWwwlDCjUU5JcbDcD) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Wildly Idle \(Humble Before the Void\)](https://open.spotify.com/album/6U8MP9A9MF2fTdFRf0RTr1) | 5:01 | 2020-08-30 | 2020-09-11 |
 | [Devil That I Know](https://open.spotify.com/track/7bkxJOCyc7dQyQQrOcwXdF) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Devil That I Know](https://open.spotify.com/album/3OR56niCd9ULFGRhBsZBn3) | 2:50 | 2020-10-14 | 2022-04-10 |
 | [Dick Cheney](https://open.spotify.com/track/1WXWUnvXJreNdQjydRoD7H) | [Vic Chesnutt](https://open.spotify.com/artist/7EFfGZiKL1Ud3cspnlMq4H) | [Skitter On Take\-Off](https://open.spotify.com/album/0mIKLkym8IE6zoJmuk4Y9N) | 3:18 | 2020-08-30 | 2020-09-11 |
+| [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2023-04-26 |  |
 | [Different Kind of World](https://open.spotify.com/track/0drAsTHCEB3polistcpT1T) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/7IxsGUvcgSIyxvwvoyr162) | 2:45 | 2022-09-09 |  |
 | [Dinosaur](https://open.spotify.com/track/5dLVPZd9DTpd17UlKrOWa1) | [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [Captain](https://open.spotify.com/album/5Eo5kqv5ZyxjCOsLizMoB9) | 3:14 | 2019-09-29\* | 2020-10-15 |
 | [Don't Know How To Keep Loving You](https://open.spotify.com/track/3bt6gBOA41MHQfXy0Jf855) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 5:32 | 2022-08-26 | 2022-11-26 |
@@ -107,6 +109,7 @@
 | [Harbor](https://open.spotify.com/track/57VAuR1WgKFzcpO3ujQx9A) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 4:24 | 2021-07-19 |  |
 | [Hard Times](https://open.spotify.com/track/5Aq4CusaoqGNQlvNUUnA7t) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/40pYNrOZaH6Ozmex2nLniD) | 5:03 | 2022-05-20 | 2022-10-13 |
 | [Hard Times](https://open.spotify.com/track/7JPmhsHbjaDGmTCKBZxVVU) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 5:03 | 2022-09-02 |  |
+| [Heal](https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 3:13 | 2023-04-26 |  |
 | [Hello in There](https://open.spotify.com/track/75XoW8Al02k8I3F03Nswj5) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [The Divine Miss M](https://open.spotify.com/album/0WCR1ZDrcXuNerUd6mbeiP) | 4:15 | 2020-08-30 | 2020-09-11 |
 | [Hide and Seek](https://open.spotify.com/track/7mMlbJlXXo2mRtQ4R9sIzD) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 4:28 | 2022-08-26 |  |
 | [High and Dry](https://open.spotify.com/track/1VxlPYeR35DjigoCs6SraA) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [High & Dry / Planet Telex](https://open.spotify.com/album/5vldPxf0zDeF3S7U3WURJ4) | 4:17 | 2022-09-02 | 2022-11-13 |
@@ -143,6 +146,7 @@
 | [Jason](https://open.spotify.com/track/4pCo0hx75daUKKkfi1XXOO) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Set My Heart On Fire Immediately](https://open.spotify.com/album/6daEdTBi1hyFQgmsnR7oRr) | 3:05 | 2020-05-15 | 2022-05-21 |
 | [Jesus Christ 2005 God Bless America](https://open.spotify.com/track/3cpv2bUnUzSZPaSVACXzdJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Jesus Christ 2005 God Bless America](https://open.spotify.com/album/5h2gHGAvkdm3sf2mtAE4Ub) | 4:24 | 2020-04-03 | 2022-05-03 |
 | [Jim Cain](https://open.spotify.com/track/7pVAdbWP9gQZvnOIqBL6Cl) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Sometimes I Wish We Were An Eagle](https://open.spotify.com/album/2jalkvKIskN3GecqZAuqam) | 4:39 | 2019-09-29\* | 2020-10-15 |
+| [Joker](https://open.spotify.com/track/0PU4uOzbHVnGsRHyGhiDCr) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Joker & Rainbow](https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk) | 1:56 | 2023-04-26 |  |
 | [June](https://open.spotify.com/track/72dRWaOscV2Na5ziGXKimh) | [Jeremy Warmsley](https://open.spotify.com/artist/2Ddbiob3SC6OHFY0kLusix) | [June](https://open.spotify.com/album/5NzyFxtiJ4MphK4IOeJ3vE) | 3:37 | 2019-09-29\* | 2019-10-26 |
 | [Kill Her Freak Out](https://open.spotify.com/track/52k45PRM4dPM8r4JLsmfVo) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Kill Her Freak Out](https://open.spotify.com/album/3em3bEmd56ykqk9Hc8TYt1) | 4:20 | 2022-09-30 |  |
 | [Kissability \(Album Version\)](https://open.spotify.com/track/3j6doU2buJ5WmhnKVEnXDI) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Daydream Nation \(Remastered Original Album\)](https://open.spotify.com/album/3BYlBcND6PeKoW6ZODjZO3) | 3:07 | 2020-08-30 | 2020-09-11 |
@@ -186,6 +190,7 @@
 | [Night Shift](https://open.spotify.com/track/6414jxyYquBi9sqmufnT0A) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Night Shift](https://open.spotify.com/album/0YmdEL8VCkLkUFwKHJd6Eg) | 6:31 | 2022-09-02 | 2022-11-13 |
 | [Old Man Rver](https://open.spotify.com/track/1MhfBrvXYinRzCpum6krPh) | [The Ravens](https://open.spotify.com/artist/4M3DAApROQAuDojXHNwNgn) | [Old Man River](https://open.spotify.com/album/0JpvBa3on2EFywTYZfxqXq) | 2:59 | 2020-08-30 | 2020-09-11 |
 | [Only One](https://open.spotify.com/track/6hMRRCZXeV5Gg8345Z5P0M) | [BLANc](https://open.spotify.com/artist/6QNWNk7eGH8Akg83QSD2PL) | [Only One](https://open.spotify.com/album/7LO1I1tsj2ih7elmShTgrA) | 3:08 | 2019-09-29\* | 2020-03-21 |
+| [Only Ones Who Know](https://open.spotify.com/track/7ABWRukVQcXrIrDKDx5Gek) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 3:01 | 2023-04-26 |  |
 | [Otherside](https://open.spotify.com/track/2Iqdun0CJawDkc3NBUrbdA) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [No Shape](https://open.spotify.com/album/4XUbE270OEh8WacgMyamyF) | 2:40 | 2022-07-15 |  |
 | [Otherside](https://open.spotify.com/track/7nycFVsC616uen7TOxhOQb) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [No Shape](https://open.spotify.com/album/7awgq3vvlsIeA7dZduR9x4) | 2:40 | 2019-09-29\* | 2022-07-29 |
 | [Outside with the Cuties](https://open.spotify.com/track/56J5dZ21WjuGKO3Z6LDIoc) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1) | 2:34 | 2022-08-26 |  |
@@ -201,6 +206,7 @@
 | [Permanent Way](https://open.spotify.com/track/04BGOF5G8ztSjRkhhM0SmE) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/1x3aGPQ0dqSY0fzljjB9VD) | 4:12 | 2019-09-29\* | 2020-10-15 |
 | [Persona Non Grata](https://open.spotify.com/track/0itutKZrGEzQtFWJp4xoUK) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Persona Non Grata](https://open.spotify.com/album/4KDfRBLtCz3ts1PCLf3E28) | 3:32 | 2020-03-25 | 2022-05-26 |
 | [Pitseleh](https://open.spotify.com/track/1Q0sk7b7PAGjgC3R5zyuWt) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:22 | 2019-09-29\* | 2020-01-17 |
+| [Placebo Effect](https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Placebo Effect](https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa) | 3:11 | 2023-04-26 |  |
 | [Please, Please, Please, Let Me Get What I Want \- 2011 Remaster](https://open.spotify.com/track/6BrMEbPSSj55nQhkgf6DnE) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 1:52 | 2022-08-26 |  |
 | [Pool](https://open.spotify.com/track/5cHDAJwQx3CUxRWHfAvbkv) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 4:29 | 2022-08-26 |  |
 | [Pool House](https://open.spotify.com/track/74f0dpqHhTeTJzs4pmZ1yq) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:29 | 2022-03-04 |  |
@@ -225,7 +231,7 @@
 | [September Song](https://open.spotify.com/track/2EuqgpA1cTC95AQUgCcZHk) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Aventine](https://open.spotify.com/album/6QvHf4M3JDX90qtX3XclDb) | 3:24 | 2022-07-15 |  |
 | [Sesame Syrup](https://open.spotify.com/track/73ROvjXlrsrDcNmCurwWOF) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Crush](https://open.spotify.com/album/5m3edD6VcJ23DxiLPwjDaB) | 5:03 | 2019-09-29\* | 2019-10-26 |
 | [Shattered & Hollow](https://open.spotify.com/track/2RuT0bwvNrCOPey7afGpVW) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Stay Gold](https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9) | 4:04 | 2020-08-30 | 2020-09-11 |
-| [Show Me Love](https://open.spotify.com/track/07KMQNsSXfWJjOzFzwNWoE) | [Hundred Waters](https://open.spotify.com/artist/108ugtkRFQzP9nGgNiyERO) | [The Moon Rang Like a Bell](https://open.spotify.com/album/5TclsFNhJ3vy0rfDrGnn8r) | 1:15 | 2020-10-14 |  |
+| [Show Me Love](https://open.spotify.com/track/07KMQNsSXfWJjOzFzwNWoE) | [Hundred Waters](https://open.spotify.com/artist/108ugtkRFQzP9nGgNiyERO) | [The Moon Rang Like a Bell](https://open.spotify.com/album/5TclsFNhJ3vy0rfDrGnn8r) | 1:15 | 2020-10-14 | 2023-04-27 |
 | [Showdown](https://open.spotify.com/track/7kSPVqnvUenYmuROkZzPhI) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Nightlife](https://open.spotify.com/album/5ssxOLX2DiuNolOe0P3V70) | 4:32 | 2020-08-30 | 2020-09-11 |
 | [Six Different Ways \- 2006 Remaster](https://open.spotify.com/track/24W113iYyDEa2d6lqfgikX) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door \(Deluxed Edition\)](https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk) | 3:18 | 2020-08-30 | 2020-09-11 |
 | [Skinny Love](https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:58 | 2022-08-26 |  |

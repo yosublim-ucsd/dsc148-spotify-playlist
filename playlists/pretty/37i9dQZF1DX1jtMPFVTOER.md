@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Cisco Swank
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,571 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,632 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 95 | [I Love You](https://open.spotify.com/track/1VYvWpbuOfXKSm4jpuJblj) | [George White Group](https://open.spotify.com/artist/19fFXKAVON44FeIBScDl9j) | [I Love You](https://open.spotify.com/album/75cbd4HClkJ6V7JO5iEbFo) | 3:08 |
 | 96 | [Everything You Touch Is Gold \(Epekdrezzsan\)](https://open.spotify.com/track/7k7644SNGKVmveIR99RlAB) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Everything You Touch Is Gold \(Epekdrezzsan\)](https://open.spotify.com/album/64289Z7VZZvOMyjr7yBeG7) | 3:18 |
 | 97 | [THEO SAYS](https://open.spotify.com/track/6sra6tnpksG17oKLPwj8S6) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [BY THE WAY](https://open.spotify.com/album/66QY3NzmyFrugwv8fBwAVe) | 4:19 |
-| 98 | [Foundation](https://open.spotify.com/track/3H54z234dCXKwzHxuXWx1A) | [Casey Cope](https://open.spotify.com/artist/7HuF51YPKsxrkVB6zsHPZD) | [Foundation](https://open.spotify.com/album/3zqkp1d0PB7giHI9sxnFNl) | 3:00 |
+| 98 | [Foundation](https://open.spotify.com/track/3H54z234dCXKwzHxuXWx1A) | [Casey Cope](https://open.spotify.com/artist/7HuF51YPKsxrkVB6zsHPZD), [HMZA.](https://open.spotify.com/artist/6PQvknpu8I2WEKWkqREOl4) | [Foundation](https://open.spotify.com/album/3zqkp1d0PB7giHI9sxnFNl) | 3:00 |
 | 99 | [BeGod](https://open.spotify.com/track/6AhaKQrY0rac4mGE8lKOri) | [Joseph Lawrence](https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4) | [BeGod](https://open.spotify.com/album/4QeehN1Yv6xnthhHUGh8sq) | 2:56 |
 | 100 | [Quiet Culture \(feat\. Pos of De La Soul\)](https://open.spotify.com/track/2VKYTNg9r6bF9pBZouux68) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Pos of De La Soul](https://open.spotify.com/artist/0QJINgNjVXlG2aRED0jEx3) | [Capacity to Love](https://open.spotify.com/album/5UuzlicJ7sCYpVezzHdIHK) | 4:38 |
 

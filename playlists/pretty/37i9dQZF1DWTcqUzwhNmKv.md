@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Knocked Loose on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,406,455 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,406,737 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 5 | [Atropos](https://open.spotify.com/track/5LmeXeJ8McsxWZXgPkyhxs) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Atropos](https://open.spotify.com/album/3B1hA33fuFZKtet8TbZg9M) | 8:23 |
 | 6 | [Obsolete](https://open.spotify.com/track/0FCY8j3JRrZ2ynRUdMK9pS) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd) | 4:25 |
 | 7 | [Ultraviolet](https://open.spotify.com/track/0gukK40IEqCb6arYVQxMtl) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Ultraviolet](https://open.spotify.com/album/1gQRMfDzWuQ4J2BCjuvWAS) | 3:52 |
-| 8 | [Foregone, Pt\. 2](https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone, Pt\. 2](https://open.spotify.com/album/6xQGhi9dsEWYn8Jwj4MD9S) | 4:30 |
+| 8 | [Foregone, Pt\. 2](https://open.spotify.com/track/6kk4G7WCvFrYuiotuDnH2N) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone](https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3) | 4:30 |
 | 9 | [Drowning](https://open.spotify.com/track/4l0UQ0zDIPYaaa5FF2Kvwt) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Drowning](https://open.spotify.com/album/6d5waVDcEQEcM6BKbkBiNx) | 2:45 |
 | 10 | [There’s Fear In Letting Go](https://open.spotify.com/track/2OYtcqflvzQwh3cMPmTHs4) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRUE POWER](https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa) | 3:54 |
 | 11 | [Dark Waves](https://open.spotify.com/track/3SDcDLF3wwQwnI3Wst38aY) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Dark Waves](https://open.spotify.com/album/5vsJsheUwcsiM3O7r5qN0v) | 3:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Let Go](https://open.spotify.com/track/2iHdiDAIYBPOqnNxVrNBYO) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Let Go](https://open.spotify.com/album/0rEiAGXHPJUbsNsKP9TfkH) | 3:50 |
 | 75 | [Harvest](https://open.spotify.com/track/4mHO98MVqhw7DeZyoNmCYG) | [Empire State Bastard](https://open.spotify.com/artist/4Lje5EOojiMe1qsGspOlDq) | [Harvest](https://open.spotify.com/album/0kSnsRmaRxJigfDeO355Gq) | 2:50 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDNhNmU4MWQ3ZDlhMWZjMTZmMDQ5YTk1OTU2NThmNmQ2`
+Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDQ1NGFlOGZlNzI1M2IxZTJkOWVmZWIyZGQyNDUzNTBm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 
 > Chill tunes for mellow moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,030 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,086 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 54 | [Get Light](https://open.spotify.com/track/3nDP5r5PBBYnxxtXpUq74B) | [Zola Blood](https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ) | [Infinite Games](https://open.spotify.com/album/1ecw6KXijgoxSn6NuDhIXI) | 3:28 |
 | 55 | [Home \(feat\. LEES\)](https://open.spotify.com/track/6OgN82jpQlTgVEBMbKzBpF) | [Gaspar Narby](https://open.spotify.com/artist/2j4vLZ1ZNKpYCPhk98FR2s), [LEES](https://open.spotify.com/artist/7GS5zVk2C5Bt4Gnzl87py5) | [Home \(feat\. LEES\)](https://open.spotify.com/album/6HHTFLG0HLCh7a9q7hInxt) | 3:18 |
 | 56 | [Our Story](https://open.spotify.com/track/0FG5AlzaIGKwVcZq9vWvv1) | [Hazey Eyes](https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR) | [Goodbye](https://open.spotify.com/album/1t9EqFblAr0i6DDqZKDgx1) | 2:25 |
-| 57 | [Echo Park](https://open.spotify.com/track/79nZqX37kRq35LKbiJxUW0) | [Reptaliens](https://open.spotify.com/artist/0CbJ7vhSBVagdeLhNcf9v1) | [VALIS](https://open.spotify.com/album/5JhPxcOnJBO2tnypyuellA) | 3:18 |
-| 58 | [Brother](https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90) | [mAsis](https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw) | [Brother](https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5) | 3:38 |
+| 57 | [Brother](https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90) | [mAsis](https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw) | [Brother](https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5) | 3:38 |
+| 58 | [Echo Park](https://open.spotify.com/track/79nZqX37kRq35LKbiJxUW0) | [Reptaliens](https://open.spotify.com/artist/0CbJ7vhSBVagdeLhNcf9v1) | [VALIS](https://open.spotify.com/album/5JhPxcOnJBO2tnypyuellA) | 3:18 |
 | 59 | [Glow](https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave001](https://open.spotify.com/album/35oHamcgtC5WELUtHUGJQk) | 3:02 |
 | 60 | [Nylon](https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Backwater](https://open.spotify.com/album/1NP6e7CKUe0xofWmmBMcfA) | 4:14 |
 
-Snapshot ID: `MTU2ODY0ODY2NSwwMDAwMDAwMDA1OTFhZTlmNjVkM2YyZjI5ZmRhNmUzNzY0NjRjYjk5`
+Snapshot ID: `MTU2ODY0ODY2NSwwMDAwMDAwMGIxZGQ3MDE0NDcxMjM5Mjg4YzEyMTFjMDM2YzY3OTE1`

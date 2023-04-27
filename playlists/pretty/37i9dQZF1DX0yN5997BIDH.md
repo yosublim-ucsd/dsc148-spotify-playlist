@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yN5997BIDH.md) - [plain]
 
 > ¡Deja que la música te inspire para acabar con tu tarea!
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,619 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,638 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yN5997BIDH.md) - [plain]
 | 52 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 |
 | 53 | [Your Power](https://open.spotify.com/track/042Sl6Mn83JHyLEqdK7uI0) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:05 |
 | 54 | [AOK](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 |
-| 55 | [Let Somebody Go](https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 4:01 |
-| 56 | [Swing Lynn](https://open.spotify.com/track/3VCXx37jNGNOMns6z2OnvJ) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [I'm Sure](https://open.spotify.com/album/6KXHP4v4hYN887RGeQwc8b) | 5:21 |
+| 55 | [Swing Lynn](https://open.spotify.com/track/3VCXx37jNGNOMns6z2OnvJ) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [I'm Sure](https://open.spotify.com/album/6KXHP4v4hYN887RGeQwc8b) | 5:21 |
+| 56 | [Let Somebody Go](https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 4:01 |
 | 57 | [Love Again](https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 4:18 |
 | 58 | [Sweetest Pie](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) | 3:21 |
 | 59 | [Runaway](https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 4:08 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yN5997BIDH.md) - [plain]
 | 86 | [To Be Young \(feat\. Doja Cat\)](https://open.spotify.com/track/4YAg8h8WliHZlW5wuv8Jpk) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [To Be Young \(feat\. Doja Cat\)](https://open.spotify.com/album/4GulJ0PbD2o6ThcdvIw8Bd) | 3:14 |
 | 87 | [American Cliché](https://open.spotify.com/track/18HE341ScgOOPOLWx1DSjG) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [American Cliché](https://open.spotify.com/album/7fsCxUt2YH5ZcfQL2RWY1g) | 3:23 |
 | 88 | [Cryo](https://open.spotify.com/track/4iLavMOMViSouoJ5TY0ga5) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Champagne Problems \#DQH2](https://open.spotify.com/album/5aWF6mKr3bSRlMnyxA8Tip) | 2:38 |
-| 89 | [ok on your own](https://open.spotify.com/track/3B3AzChR44z7JxsiWB47Xw) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 3:28 |
-| 90 | [Meteorite](https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Meteorite](https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t) | 3:14 |
+| 89 | [Meteorite](https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Meteorite](https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t) | 3:14 |
+| 90 | [ok on your own](https://open.spotify.com/track/3B3AzChR44z7JxsiWB47Xw) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 3:28 |
 | 91 | [Fool's Gold](https://open.spotify.com/track/1AeBzNjTaDmIlTGv2ObhYn) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Sofia Carson](https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD) | 2:21 |
 | 92 | [One More Day](https://open.spotify.com/track/6vE4pMWuDSW9gHNbsvgzkB) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF), [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [Forever Isn't Long Enough](https://open.spotify.com/album/46yNQ7SSAUvftNPAqFGiak) | 4:29 |
 | 93 | [Little Miss](https://open.spotify.com/track/5bd5tnV0yMeR1dn1oydUo5) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [Every Single Thing](https://open.spotify.com/album/03h4StW2BAHz9c822kAPtG) | 2:52 |
-| 94 | [Fell Apart](https://open.spotify.com/track/3hGS9sZkMm1yalQr76gcKd) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [Fell Apart](https://open.spotify.com/album/6aUSwIj7mR3Z58gKG7rzHn) | 2:19 |
-| 95 | [Good Ones](https://open.spotify.com/track/2UluJnY6YsujKTXYHnVbvv) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:16 |
-| 96 | [Brother Sun/Sister Moon](https://open.spotify.com/track/1K1avESFuxk2TmPTQ3j9wJ) | [LYS](https://open.spotify.com/artist/6Kp9gMLqYA14HIrTitRJEQ) | [Brother Sun/Sister Moon](https://open.spotify.com/album/09YtitY2sCZiltmlRmhrtc) | 3:36 |
-| 97 | [Suddenly](https://open.spotify.com/track/1dFzOEaw0sm022IIBgTDU4) | [Gabe James](https://open.spotify.com/artist/7FQLTeXHh1ckany6jXXcKj) | [A Boy from Colorado](https://open.spotify.com/album/1RKiTh2gOJYS6SRh7iMXBK) | 2:18 |
-| 98 | [Dandelion](https://open.spotify.com/track/5wC3UC33J8qiKRl3ecFaA3) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dandelion](https://open.spotify.com/album/1oOykmxvMTXnYOoHpySLCD) | 2:43 |
+| 94 | [Dandelion](https://open.spotify.com/track/5wC3UC33J8qiKRl3ecFaA3) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dandelion](https://open.spotify.com/album/1oOykmxvMTXnYOoHpySLCD) | 2:43 |
+| 95 | [Fell Apart](https://open.spotify.com/track/3hGS9sZkMm1yalQr76gcKd) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [Fell Apart](https://open.spotify.com/album/6aUSwIj7mR3Z58gKG7rzHn) | 2:19 |
+| 96 | [Good Ones](https://open.spotify.com/track/2UluJnY6YsujKTXYHnVbvv) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:16 |
+| 97 | [Brother Sun/Sister Moon](https://open.spotify.com/track/1K1avESFuxk2TmPTQ3j9wJ) | [LYS](https://open.spotify.com/artist/6Kp9gMLqYA14HIrTitRJEQ) | [Brother Sun/Sister Moon](https://open.spotify.com/album/09YtitY2sCZiltmlRmhrtc) | 3:36 |
+| 98 | [Suddenly](https://open.spotify.com/track/1dFzOEaw0sm022IIBgTDU4) | [Gabe James](https://open.spotify.com/artist/7FQLTeXHh1ckany6jXXcKj) | [A Boy from Colorado](https://open.spotify.com/album/1RKiTh2gOJYS6SRh7iMXBK) | 2:18 |
 | 99 | [Burning Bridges \- Acoustic Version](https://open.spotify.com/track/5RsLCQoBZPriFVQ5rkITVt) | [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [Burning Bridges](https://open.spotify.com/album/5uQQRD08v4cRKAXBUBRPK1) | 3:59 |
 | 100 | [Bird Sing](https://open.spotify.com/track/5UECRwMB87Hs0UET89Mlwk) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Bird Sing](https://open.spotify.com/album/1UJORLRAvNQgSL3rvu45bH) | 3:10 |
 
-Snapshot ID: `MTY3MzY0Mzc1NywwMDAwMDAwMGI3OThlNTY3MTQwZWJlYzk4MzM4MDAxODZiNGNiZDU3`
+Snapshot ID: `MTY3MzY0Mzc1NywwMDAwMDAwMDA5NzBlNmEwNWM1ZGEyYmI2ZmJkOTg4MzdmYzg1YTVl`

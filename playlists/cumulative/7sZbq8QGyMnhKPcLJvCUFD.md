@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-252 songs - 12 hr 44 min
+253 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [4 Love](https://open.spotify.com/track/77ZQty250PUGzm4NZYiO2Q) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Alltair](https://open.spotify.com/artist/4gBQ6BSVo4NDxXohKHEQHY), [P\-One](https://open.spotify.com/artist/07rQW5tiQ8KWfhvtNckUpX) | [4 LOVE](https://open.spotify.com/album/2t6EAss7zjbFsn7F3xrNCe) | 3:03 | 2023-02-14 |  |
 | [A Day at Sea](https://open.spotify.com/track/4cP4euPcXx5SMxp07GLWzn) | [Everen Maxwell](https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB) | [A Day at Sea](https://open.spotify.com/album/3Kpk3f9SpXQ3xKETaRNZR6) | 3:07 | 2022-06-03 |  |
 | [A Mere Blip In Your Timeline](https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [A Mere Blip In Your Timeline](https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb) | 3:26 | 2023-03-06 |  |
+| [A&B](https://open.spotify.com/track/5sM48Id41SNoq8zCz34UXH) | [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K), [ETikka](https://open.spotify.com/artist/1t7Nxks2dmfdKs8glkgDqt) | [A&B](https://open.spotify.com/album/0VRbQuoZhwN35U6SlTkLMc) | 2:56 | 2023-04-26 |  |
 | [About Me](https://open.spotify.com/track/3OgRWuUOktuBGTING1oPld) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [About Me](https://open.spotify.com/album/3c1nWchd1tZcxdaamK3Q7D) | 2:34 | 2022-06-23 |  |
 | [Alive](https://open.spotify.com/track/4T1N8cti8aQkYs9IjQn59H) | [PLEEG](https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R) | [Alive](https://open.spotify.com/album/4EGBOOZGqeV1Rb5ScjvHuH) | 2:40 | 2023-01-10 |  |
 | [All Access](https://open.spotify.com/track/77PGjBzaXsRnmuxV9tBLU3) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [All Access](https://open.spotify.com/album/151Lb7EhuJUIfFTLWkeuI4) | 2:41 | 2022-10-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 
 > This is Ali Farka Touré\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,027 likes - 39 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,039 likes - 39 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 | 21 | [Bandolobourou \(feat\. Oumou Sangaré\)](https://open.spotify.com/track/08GUN9ZldEFK7tUjEE4wcA) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Voyageur](https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL) | 6:32 |
 | 22 | [Kana Kassy](https://open.spotify.com/track/7tcbDEhAJ3cAwsPazkQnpW) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi) | 4:10 |
 | 23 | [Diaraby \(with Ry Cooder\)](https://open.spotify.com/track/1WmRNq13XPvbmIRcZljM3D) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 7:26 |
-| 24 | [Debe](https://open.spotify.com/track/3SYhGK2d8LAkhNCFtOfv0c) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [In the Heart of the Moon](https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX) | 4:53 |
+| 24 | [Soumbou ya ya](https://open.spotify.com/track/1NLomex6hDLDMCej9NR0BN) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [In the Heart of the Moon](https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX) | 3:28 |
 | 25 | [Sadjona \(feat\. Oumou Sangaré\)](https://open.spotify.com/track/7nOgkPegqkCUSTbGP1X7d9) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Voyageur](https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL) | 4:55 |
 | 26 | [ASCO](https://open.spotify.com/track/21blxUn7Ttcrj5iPpNz1DH) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Niafunké](https://open.spotify.com/album/5GfXFFsn4cYbsbFTmlGaDa) | 5:49 |
 | 27 | [Lasidan \(with Ry Cooder\)](https://open.spotify.com/track/6Yq9dTtHeuMkvnfcEZZFex) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 6:06 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 | 38 | [Soya](https://open.spotify.com/track/0rRHVtJft0VMnKQSFV8uup) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane](https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez) | 4:36 |
 | 39 | [Roucky \(feat\. Taj Mahal\) \- 2017 Remastered Version](https://open.spotify.com/track/5VJpfs13Kfbc4Ti455wZ4e) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Source \(2017 Remastered Version\)](https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj) | 5:34 |
 
-Snapshot ID: `MjgwNDA0NDAsMDAwMDAwMDAzNTk4MTI5ZWVmOGNhMzBlYzQwNzNlOGFhYmVlZTY0Mw==`
+Snapshot ID: `MjgwNDE5MzAsMDAwMDAwMDA4NzBjNGYwMjZhYWUxNjQ3YTkyODlmNDhmNTg1ZGUyZg==`
